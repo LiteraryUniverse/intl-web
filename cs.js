@@ -1,3 +1,6 @@
+/**
+ * @authors Jan Dvorak
+ */
 export default {
   locales: ['cs', 'cs-CZ'],
   'sitename': 'Liteary Universe',
