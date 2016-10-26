@@ -8,12 +8,14 @@ export default {
       native: 'English',
       defaultLocale: 'en-US',
       supportedLocales: ['en-US'],
+      rtl: false,
     },{
       code: 'cs',
       name: 'Czech',
       native: 'Česky',
       defaultLocale: 'cs-CZ',
       supportedLocales: ['cs-CZ'],
+      rtl: false,
     }
   ],
   storyLanguages: function() {
@@ -24,6 +26,7 @@ export default {
         native: 'Deutsch',
         defaultLocale: 'de-GE',
         supportedLocales: ['de-GE'],
+        rtl: false,
       },
       {
         code: 'es',
@@ -31,6 +34,7 @@ export default {
         native: 'Espanol',
         defaultLocale: 'es-ES',
         supportedLocales: ['es-ES'],
+        rtl: false,
       }
     ]);
   }
