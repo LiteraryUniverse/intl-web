@@ -90,6 +90,13 @@ export default {
   'settings.password.new.repeat': 'Zopakujte nové heslo',
   'settings.password.nomatch': 'Zadané heslo se neshoduje!',
   'settings.password.badlength': 'Heslo musí mít minimálně {legth} písmen.',
+  'common.account.create': 'Vytvořit účet',
+  'signup.username': 'Uživatelské jméno',
+  'signup.email': 'Váš e-mail',
+  'signup.password': 'Vaše heslo',
+  'signup.password.repeat': 'Zopakujte Vaše heslo',
+  'common.password': 'Heslo',
+  'signin.password.forgot': 'Zapoměli jste heslo?',
 
   'password.reset': 'Resetovat heslo',
   'email.verification': 'E-mail verifikace',

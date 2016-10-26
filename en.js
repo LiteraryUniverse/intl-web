@@ -90,6 +90,13 @@ export default {
   'settings.password.new.repeat': 'Repeat your new password',
   'settings.password.nomatch': 'New password does not match!',
   'settings.password.badlength': 'Password must be at least {legth} characters long.',
+  'common.account.create': 'Create an account',
+  'signup.username': 'Username',
+  'signup.email': 'Your e-mail',
+  'signup.password': 'Your password',
+  'signup.password.repeat': 'Repeat your password',
+  'common.password': 'Password',
+  'signin.password.forgot': 'Forgot password?',
 
   'password.reset': 'Reset your password',
   'email.verification': 'E-mail verification',
