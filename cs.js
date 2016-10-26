@@ -139,6 +139,8 @@ export default {
   'user.friend.request.deny': 'Otmítnout žádost o přátelství',
   'user.listing': 'Seznam uživatelů',
   'user.profile.visit': 'Navštiv profil pro {user}.',
+  'user.friend.requests': 'Žádosti o přátelství',
+  'user.friend.norequests': 'Momentálně nemáte žádné žádosti.',
 
   'feed': 'Stream',
   'feed.post.new': 'Nový příspěvek',

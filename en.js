@@ -138,6 +138,8 @@ export default {
   'user.friend.request.deny': 'Deny friendship',
   'user.listing': 'User listing',
   'user.profile.visit': 'Visit {user}\'s profile.',
+  'user.friend.requests': 'Friendships requests',
+  'user.friend.norequests': 'You have no requests for friendship.',
 
   'feed': 'Stream',
   'feed.post.new': 'New post',
