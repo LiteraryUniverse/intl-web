@@ -403,7 +403,7 @@ export default {
   'genre.crimi': 'Crimi',
   'genre.historical': 'Historical fiction',
   'genre.horror': 'Horror',
-  'genre.Mystery': 'Mystery',
+  'genre.mystery': 'Mystery',
   'genre.thriller': 'Thriller',
   'genre.western': 'Western',
   'genre.memoir': 'Memoir',
