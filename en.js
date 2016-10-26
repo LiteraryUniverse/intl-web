@@ -563,4 +563,8 @@ export default {
   'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
   'simpleschema.regEx.8': '{label} must be a valid URL',
   'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID',
+
+  // for beta only
+  'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
+  'beta.thanks': 'Thank you for your support!',
 }

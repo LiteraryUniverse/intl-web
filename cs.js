@@ -566,4 +566,8 @@ export default {
   'simpleschema.regEx.7': '{label} musí být validní IPv6 adresa',
   'simpleschema.regEx.8': '{label} musí být validní URL',
   'simpleschema.regEx.9': '{label} musí být validní alphanumerické ID',
+
+  // for beta only
+  'beta.notice': 'Vítejte v BETA verzi pro Literary Universe. BETA je speciální verze která je veřejně přístupná, ale ještě není plně odladěná a dokončená. To znamená že můžete narazit na problémy, chyby a nedokončenou funkcionalitu. Pokud se tak stane nebo něco nepracuje prosím informujte nás a buďte s námi trpělivý mezitím co budeme pracovat na nápravě.',
+  'beta.thanks': 'Mnoho díků za Vaší podporu!',
 }
