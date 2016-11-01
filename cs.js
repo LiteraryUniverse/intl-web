@@ -528,6 +528,8 @@ export default {
   'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
   'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
   'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
+  'nanowrimo.connected': 'Vybrali jste tento příběh pro NaNoWriMo.',
+  'nanowrimo.connected.other': 'Už jste vybrali jiný příběh pro NaNoWriMo.',
 
   'common.challenges': 'Výzvy',
   'challenges.wordcount': 'Monthly wordcount',
@@ -577,4 +579,5 @@ export default {
   // for beta only
   'beta.notice': 'Vítejte v BETA verzi pro Literary Universe. BETA je speciální verze která je veřejně přístupná, ale ještě není plně odladěná a dokončená. To znamená že můžete narazit na problémy, chyby a nedokončenou funkcionalitu. Pokud se tak stane nebo něco nepracuje prosím informujte nás a buďte s námi trpělivý mezitím co budeme pracovat na nápravě.',
   'beta.thanks': 'Mnoho díků za Vaší podporu!',
+  'scratchpad.about': 'Vaše poznámky a nápady přístupné kdekoliv na stránce.',
 }

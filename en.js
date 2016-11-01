@@ -444,7 +444,7 @@ export default {
   'homepage.read': 'Read',
   'homepage.explore': 'Explore',
   'homepage.create': 'Create',
-  'homepage.read.desc': 'Enjoy a great reading experience with access to details of the stories universe adjacent to the story text, without the need to leave the story window.',
+  'homepage.read.desc': 'Enjoy a great reading experience with access to details of the stories\' universe adjacent to the story text, without the need to leave the story window.',
   'homepage.explore.desc': 'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
   'homepage.create.desc': 'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
   'homepage.begin': 'Begin your journey!',
@@ -525,6 +525,8 @@ export default {
   'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
   'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
   'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
+  'nanowrimo.connected': 'You have designated this story for NaNoWriMo.',
+  'nanowrimo.connected.other': 'You have already connected another story.',
 
   'common.challenges': 'Challenges',
   'challenges.wordcount': 'Monthly wordcount',
@@ -574,4 +576,5 @@ export default {
   // for beta only
   'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
   'beta.thanks': 'Thank you for your support!',
+  'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
 }
