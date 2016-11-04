@@ -529,7 +529,7 @@ export default {
   'nanowrimo.connected.other': 'You have already connected another story.',
 
   'common.challenges': 'Challenges',
-  'challenges.wordcount': 'Monthly wordcount',
+  'challenges.wordcount': 'Monthly word count',
   'challenges.wordcount.desc': 'Set yourself a goal of how many words you want to write this month for his story.',
   'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
   'challenges.start': 'Start challenge',
@@ -577,4 +577,19 @@ export default {
   'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
   'beta.thanks': 'Thank you for your support!',
   'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
+
+  // added 2016-11-02
+  'challenges.current': 'Current challenges',
+  'challenges.wordcount.goal': 'Target word count',
+  'challanges.wordcount.dailygoal': 'Target daily word count',
+  'challenges.wordcount.today': 'Today written',
+  'challenges.wordcount.total': 'Total words written',
+  'challenges.wordcount.remaining': 'Words remaining',
+  'challanges.wordcount.daysleft': 'Days remaining',
+  'challanges.wordcount.currentDay': 'Current day',
+  'challenges.wordcount.average': 'Average words per day',
+  'challanges.wordcount.finishOn': 'At current speed you will finish on',
+  'challanges.wordcount.finishOnTime': 'Words to write daily to finish on time',
+  'challenges.wordcount.graph.day': 'Day {day}',
+  'challenges.victory': 'Congratulation! You have won the challenge!'
 }

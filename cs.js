@@ -580,4 +580,19 @@ export default {
   'beta.notice': 'Vítejte v BETA verzi pro Literary Universe. BETA je speciální verze která je veřejně přístupná, ale ještě není plně odladěná a dokončená. To znamená že můžete narazit na problémy, chyby a nedokončenou funkcionalitu. Pokud se tak stane nebo něco nepracuje prosím informujte nás a buďte s námi trpělivý mezitím co budeme pracovat na nápravě.',
   'beta.thanks': 'Mnoho díků za Vaší podporu!',
   'scratchpad.about': 'Vaše poznámky a nápady přístupné kdekoliv na stránce.',
+
+  // added 2016-11-02
+  'challenges.current': 'Aktivní výzvy',
+  'challenges.wordcount.goal': 'Cíl slov',
+  'challanges.wordcount.dailygoal': 'Denní cíl',
+  'challenges.wordcount.today': 'Dneska napsáno',
+  'challenges.wordcount.total': 'Celkem napsáno slov',
+  'challenges.wordcount.remaining': 'Zbývá slov',
+  'challanges.wordcount.daysleft': 'Zbývá dnů',
+  'challanges.wordcount.currentDay': 'Současný den',
+  'challenges.wordcount.average': 'Průměrný počet slov na den',
+  'challanges.wordcount.finishOn': 'Při současné rychlosti psaní dosáhnete cíle',
+  'challanges.wordcount.finishOnTime': 'Slov nutno napsat denně k úspěchu včas',
+  'challenges.wordcount.graph.day': '{day} den',
+  'challenges.victory': 'Gratulujeme! Úspěšně jste pokořili tuto výzvu!'
 }
