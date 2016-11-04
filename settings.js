@@ -1,6 +1,6 @@
 export default {
-  supportedLocales: ['en', 'cs'],
-  storyLocales: ['en', 'cs', 'de', 'es'],
+  supportedLocales: ['en', 'cs','cn'],
+  storyLocales: ['en', 'cs', 'de', 'es','cn'],
   languages: [
     {
       code: 'en',
@@ -15,6 +15,14 @@ export default {
       native: 'Česky',
       defaultLocale: 'cs-CZ',
       supportedLocales: ['cs-CZ'],
+      rtl: false,
+    },
+    {
+      code: 'cn',
+      name: 'Chinese',
+      native: '中文',
+      defaultLocale: 'cn-CN',
+      supportedLocales: ['cn-CN'],
       rtl: false,
     }
   ],
