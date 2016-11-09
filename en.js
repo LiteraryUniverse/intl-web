@@ -186,9 +186,8 @@ export default {
   'universe.fanfiction.for': '{universe} Fan Fiction',
   'universe.fanfiction.for.see': 'See all Fan Fiction for ',
   'universe.stories.count': `There are {num} {num, plural,
-      zero {stories}
       one {story}
-      many {stories}
+      other {stories}
     } in this universe.`,
   'universe.authors': 'Authors',
   'universe.authors.desc': 'Creators and contributors to {universe}',
@@ -215,7 +214,7 @@ export default {
   'comment.write': 'Write your comment',
   'comments.none': 'Sorry, no comments to show.',
   'comments.total': `There {count, plural,
-    zero {are no comments}
+    =0 {are no comments}
     one {is 1 comment}
     other {are # comments}
   }.`,
@@ -324,7 +323,7 @@ export default {
   'encyclopedia.category.location': 'Locations',
   'encyclopedia.category.other': 'Other',
   'encyclopedia.search.found': `{results, plural,
-    zero {No related entries}
+    =0 {No related entries}
     one {1 related entry}
     other {# related entries}
   } found.`,
@@ -333,7 +332,7 @@ export default {
   'encyclopedia.help.sidebar.text': 'Use the selection above to search, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
   'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
   'encyclopedia.entries.total': `There are currently {num, plural,
-    zero {no entries}
+    =0 {no entries}
     one {one entry}
     other {# entries}
   } in this encyclopedia.`,
@@ -591,5 +590,16 @@ export default {
   'challanges.wordcount.finishOn': 'At current speed you will finish on',
   'challanges.wordcount.finishOnTime': 'Words to write daily to finish on time',
   'challenges.wordcount.graph.day': 'Day {day}',
-  'challenges.victory': 'Congratulation! You have won the challenge!'
+  'challenges.victory': 'Congratulation! You have won the challenge!',
+
+  // added 2016-11-06
+  'common.feedback': 'Feedback',
+  'feedback.home': 'Help center',
+  'feedback.bugs': 'Issues',
+  'feedback.bugs.desc': 'Did you encounter an error or something else that is wrong or out of place. Let us know here!',
+  'feedback.features': 'Ideas & Proposals',
+  'feedback.features.desc': 'Have ideas for new features or how to make the site better? Let us know!',
+  'feedback.kb': 'Help & Tutorials',
+  'feedback.kb.desc': 'How do you _____? Go here to find the answers.',
+  'feedback.desc': 'Welcome to our help center!',
 }

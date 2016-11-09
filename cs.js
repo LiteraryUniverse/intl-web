@@ -594,5 +594,16 @@ export default {
   'challanges.wordcount.finishOn': 'Při současné rychlosti psaní dosáhnete cíle',
   'challanges.wordcount.finishOnTime': 'Slov nutno napsat denně k úspěchu včas',
   'challenges.wordcount.graph.day': '{day} den',
-  'challenges.victory': 'Gratulujeme! Úspěšně jste pokořili tuto výzvu!'
+  'challenges.victory': 'Gratulujeme! Úspěšně jste pokořili tuto výzvu!',
+
+  // added 2016-11-06
+  'common.feedback': 'Feedback',
+  'feedback.home': 'Zákaznické centrum',
+  'feedback.bugs': 'Problémy',
+  'feedback.bugs.desc': 'Narazily jste na chybu nebo něco co je špatně? Napiště nám zde ať to můžeme opravit.',
+  'feedback.features': 'Návrhy a nápady',
+  'feedback.features.desc': 'Máte nápad pro novou funkcionalitu nebo jak vylepšit Literary Universe? Podělte se s ostatními!',
+  'feedback.kb': 'Poradna a tutorialy',
+  'feedback.kb.desc': 'Jak udělám _____? Zde najdete odpovědi.',
+  'feedback.desc': '',
 }

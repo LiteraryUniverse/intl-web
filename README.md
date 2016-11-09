@@ -43,5 +43,6 @@ If you have any questions feel free to open issue or to contact us.
 
 ## Resources
 
+* [How to contribute to open source project on Github](http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/)
 * [Message Syntax](http://formatjs.io/guides/message-syntax/)
 * [ICU Guide](http://userguide.icu-project.org/formatparse/messages)
