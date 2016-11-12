@@ -603,7 +603,20 @@ export default {
   'feedback.bugs.desc': 'Narazily jste na chybu nebo něco co je špatně? Napiště nám zde ať to můžeme opravit.',
   'feedback.features': 'Návrhy a nápady',
   'feedback.features.desc': 'Máte nápad pro novou funkcionalitu nebo jak vylepšit Literary Universe? Podělte se s ostatními!',
-  'feedback.kb': 'Poradna a tutorialy',
-  'feedback.kb.desc': 'Jak udělám _____? Zde najdete odpovědi.',
-  'feedback.desc': '',
+  'feedback.help': 'Poradna a tutorialy',
+  'feedback.help.desc': 'Jak udělám _____? Zde najdete odpovědi.',
+  'feedback.desc': 'Vítejte v zakaznickém centru.',
+
+  // added 2016-11-10
+  'feedback.open': 'Otevřeno',
+  'feedback.closed': 'Uzavřeno',
+  'feedback.accepted': 'Přijato',
+  'feedback.inprogress': 'Ve vývoji',
+  'feedback.completed': 'Dokončeno',
+  'feedback.fixed': 'Opraveno',
+  'feedback.new.bugs': 'Nahlásit problém',
+  'feedback.new.features': 'Navrhnout novou funkcionalitu',
+  'feedback.lang.nosupport': 'Your current language is not supported for feedback, please write in English. Thank you!',
+  'feedback.new.thanks': 'Děkujeme! Podíváme se na to jakmile to bude možné.',
+  'common.createdon': 'Vytvořeno ',
 }
