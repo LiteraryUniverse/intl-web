@@ -615,4 +615,12 @@ export default {
   'feedback.lang.nosupport': 'Your current language is not supported for feedback, please write in English. Thank you!',
   'feedback.new.thanks': 'Thank you for the notice! We will look at it shorty.',
   'common.createdon': 'Created on ',
+
+  // added 2016-11-14 
+  // account types 
+  'premium': 'Premium', 
+  'admin': 'Admin', 
+ 
+  // added 2016-11-17 
+  'pm.send': 'Send', 
 }

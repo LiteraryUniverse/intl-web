@@ -619,4 +619,12 @@ export default {
   'feedback.lang.nosupport': 'Your current language is not supported for feedback, please write in English. Thank you!',
   'feedback.new.thanks': 'Děkujeme! Podíváme se na to jakmile to bude možné.',
   'common.createdon': 'Vytvořeno ',
+
+  // added 2016-11-14 
+  // account types 
+  'premium': 'Prémium', 
+  'admin': 'Administrátor', 
+ 
+  // added 2016-11-17 
+  'pm.send': 'Poslat', 
 }
