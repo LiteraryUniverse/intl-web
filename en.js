@@ -623,4 +623,7 @@ export default {
  
   // added 2016-11-17 
   'pm.send': 'Send', 
+
+  // added 2016-11-19
+  'enc.newField': 'New field',
 }

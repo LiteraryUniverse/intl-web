@@ -626,5 +626,8 @@ export default {
   'admin': 'Administrátor', 
  
   // added 2016-11-17 
-  'pm.send': 'Poslat', 
+  'pm.send': 'Poslat',
+
+  // added 2016-11-19
+  'enc.newField': 'Nové pole',
 }
