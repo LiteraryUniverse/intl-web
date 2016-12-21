@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2016-12-21
+  * Removed duplicate keys
+  * added more terms
+
 ## 2016-11-06
   * Feedback home page
   * Fix en pluralization
