@@ -1071,7 +1071,27 @@ export default {
   'yo-NG': 'Yoruba (Nigeria)',
   yo: 'Yoruba',
   'zu-ZA': 'Zulu (South Africa)',
-  zu: 'Zulu'
+  zu: 'Zulu',
+
+  // added 2016-12-29
+  'workshop.revisions.beta.none': 'Momentálně není žádná revize k dispozici.',
+  'reader.asidetoggle': 'Schovat/ukázat postraní informace',
+  'workshop.translation.original': 'Originál:',
+  'workshop.translation.original.title': 'Originální název:',
+  'workshop.translation.original.description': 'Originální popis:',
+  'workshop.translation.original.cover': 'Originální obálka',
+  'workshop.translation.original.tags': 'Originální tagy',
+  'workshop.cover.alt': 'obálka',
+
+  // added 2016-12-31
+  'common.saved': 'Uloženo!',
+  'common.saving': 'Ukládám...',
+
+  // added 2017-01-03
+  'workshop.translation.updatedOrig': `Poslední aktualizace originálu: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.updatedTrs': `Poslední aktualizace překladu: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.revisionOrig': `Poslední revize {revision, number} originálu: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.revisionTrs': `Poslední revize {revision, number} překladu: {updatedAt, date, long} {updatedAt, time, medium}`,
 };
 
 /* eslint-enable max-len */

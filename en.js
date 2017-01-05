@@ -1066,7 +1066,27 @@ export default {
   'yo-NG': 'Yoruba (Nigeria)',
   yo: 'Yoruba',
   'zu-ZA': 'Zulu (South Africa)',
-  zu: 'Zulu'
+  zu: 'Zulu',
+
+  // added 2016-12-29
+  'workshop.revisions.beta.none': 'No revisions at this time.',
+  'reader.asidetoggle': 'Toggle aside information',
+  'workshop.translation.original': 'Original:',
+  'workshop.translation.original.title': 'Original title:',
+  'workshop.translation.original.description': 'Original description:',
+  'workshop.translation.original.cover': 'Original cover',
+  'workshop.translation.original.tags': 'Original tags',
+  'workshop.cover.alt': 'cover image',
+
+  // added 2016-12-31
+  'common.saved': 'Saved!',
+  'common.saving': 'Saving...',
+
+  // added 2017-01-03
+  'workshop.translation.updatedOrig': `Last update of original: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.updatedTrs': `Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.revisionOrig': `Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.revisionTrs': `Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}`,
 };
 
 /* eslint-enable max-len */
