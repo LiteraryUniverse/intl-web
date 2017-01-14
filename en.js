@@ -75,7 +75,7 @@ export default {
   'settings.email.verified.not': 'not verified',
   'settings.email.add': 'Add e-mail',
   'settings.languages': 'Language settings',
-  'settings.languages.notice': 'Please note that English is currently the only oficially supported language. Other languages are available thanks to volunteers and might be incomplete.',
+  'settings.languages.notice': 'Please note that English is currently the only officially supported language. Other languages are available thanks to volunteers and might be incomplete.',
   'settings.languages.join': 'You can help with translation.',
   'settings.name': 'Real name',
   'settings.name.given': 'Given name',
