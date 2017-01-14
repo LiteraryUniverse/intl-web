@@ -1088,10 +1088,14 @@ export default {
   'common.saving': 'Ukládám...',
 
   // added 2017-01-03
-  'workshop.translation.updatedOrig': `Poslední aktualizace originálu: {updatedAt, date, long} {updatedAt, time, medium}`,
-  'workshop.translation.updatedTrs': `Poslední aktualizace překladu: {updatedAt, date, long} {updatedAt, time, medium}`,
-  'workshop.translation.revisionOrig': `Poslední revize {revision, number} originálu: {updatedAt, date, long} {updatedAt, time, medium}`,
-  'workshop.translation.revisionTrs': `Poslední revize {revision, number} překladu: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.updatedOrig': 'Poslední aktualizace originálu: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.updatedTrs': 'Poslední aktualizace překladu: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.revisionOrig': 'Poslední revize {revision, number} originálu: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.revisionTrs': 'Poslední revize {revision, number} překladu: {updatedAt, date, long} {updatedAt, time, medium}',
+
+  // added 2017-01-11
+  'encyclopedia.translation.title': 'Vítejte v překladači {universe} encyklopedie!',
+  'encyclopedia.translation.desc': 'Tato verze encyklopedia slouží k překladu do {language}. Vyberte příspěvek vlevo v seznamu k započání překladu.',
 };
 
 /* eslint-enable max-len */

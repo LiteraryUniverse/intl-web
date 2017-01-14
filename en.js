@@ -1083,10 +1083,14 @@ export default {
   'common.saving': 'Saving...',
 
   // added 2017-01-03
-  'workshop.translation.updatedOrig': `Last update of original: {updatedAt, date, long} {updatedAt, time, medium}`,
-  'workshop.translation.updatedTrs': `Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}`,
-  'workshop.translation.revisionOrig': `Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}`,
-  'workshop.translation.revisionTrs': `Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}`,
+  'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
+
+  // added 2017-01-11
+  'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
+  'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
 };
 
 /* eslint-enable max-len */
