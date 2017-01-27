@@ -1096,6 +1096,13 @@ export default {
   // added 2017-01-11
   'encyclopedia.translation.title': 'Vítejte v překladači {universe} encyklopedie!',
   'encyclopedia.translation.desc': 'Tato verze encyklopedia slouží k překladu do {language}. Vyberte příspěvek vlevo v seznamu k započání překladu.',
+
+  // added 2017-01-23
+  'common.friends': 'Přátelé',
+
+  // added 2017-01-27
+  'lang.orig': 'Originální jazyk',
+  'lang.orig.plus': 'Originální jazyk - {language}',
 };
 
 /* eslint-enable max-len */

@@ -1091,6 +1091,13 @@ export default {
   // added 2017-01-11
   'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
   'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
+
+  // added 2017-01-23
+  'common.friends': 'Friends',
+
+  // added 2017-01-27
+  'lang.orig': 'Original language',
+  'lang.orig.plus': 'Original language - {language}',
 };
 
 /* eslint-enable max-len */
