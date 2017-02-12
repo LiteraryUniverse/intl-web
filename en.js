@@ -1098,6 +1098,9 @@ export default {
   // added 2017-01-27
   'lang.orig': 'Original language',
   'lang.orig.plus': 'Original language - {language}',
+
+  // added 2017-02-12
+  'reader.accessibility': 'Toggle accessibility',
 };
 
 /* eslint-enable max-len */

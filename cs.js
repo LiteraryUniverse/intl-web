@@ -5,7 +5,7 @@
 export default {
   locales: [ 'cs', 'cs-CZ' ],
   sitename: 'Liteary Universe',
-  'site.description': 'Literary Universe is a creative and publishing site for large story universes.',
+  'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
   'common.signin': 'Přihlásit se',
   'common.signup': 'Registrace',
   'common.signout': 'Odhlásit se',
@@ -105,13 +105,13 @@ export default {
   'dashboard.whatsnew': 'Co je nového',
   'dashboard.blog': 'Autorský blog',
 
-  'common.footer.tagline': 'Psaní a čtení rozsáhlách vesmírů jednoduše.',
+  'common.footer.tagline': 'Psaní a čtení rozsáhlých vesmírů jednoduše.',
   'common.footer.plans': 'Plany a ceny',
   'common.legal.tos': 'Smluvní podmínky',
   'common.legal.guidelines': 'Community Guidelines',
   'common.legal.privacy': 'Ochrana osobních údajů',
   'common.legal.copyright': 'Autorská práva',
-  'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich nálažitým vlastníkům.',
+  'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich náležitým vlastníkům.',
 
   'pm.conversation': 'Konverzace',
   'pm.showolder': 'Zobrazit starší zprávy.',
@@ -1103,6 +1103,9 @@ export default {
   // added 2017-01-27
   'lang.orig': 'Originální jazyk',
   'lang.orig.plus': 'Originální jazyk - {language}',
+
+  // added 2017-02-12
+  'reader.accessibility': 'Zapnout/vypnout vylepšení čtení',
 };
 
 /* eslint-enable max-len */
