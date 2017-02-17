@@ -185,11 +185,11 @@ export default {
   'universe.fanfiction.for.see': 'Všechna Fan Fikce pro ',
   'universe.fanfiction.desc': 'Fan Fikce pro {universe}',
   'universe.fanfiction.for': '{universe} Fan Fikce',
-  'universe.stories.count': `Tento vesmír má {num} {num, plural,
-    zero {příběhů}
-    one {příběh}
-    few {příběhy}
-    other {příběhů}
+  'universe.stories.count': `Tento vesmír {num, plural,
+    =0 {nemá žádné příběhy}
+    one {má # příběh}
+    few {má # příběhy}
+    other {má # příběhů}
   }.`,
   'universe.authors': 'Autoři',
   'universe.authors.desc': 'Tvůrci a spolupracovníci pro {universe}',

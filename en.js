@@ -184,9 +184,10 @@ export default {
   'universe.fanfiction.for.see': 'All Fan Fiction for ',
   'universe.fanfiction.desc': 'Fan Fiction for {universe}',
   'universe.fanfiction.for': '{universe} Fan Fiction',
-  'universe.stories.count': `There are {num} {num, plural,
-      one {story}
-      other {stories}
+  'universe.stories.count': `There {num, plural,
+    =0 {are no stories}
+    one {is 1 story}
+    other {are # stories}
     } in this universe.`,
   'universe.authors': 'Authors',
   'universe.authors.desc': 'Creators and contributors to {universe}',
