@@ -4,7 +4,7 @@
 /* eslint-disable max-len */
 export default {
   locales: [ 'en', 'en-US' ],
-  sitename: 'Liteary Universe',
+  sitename: 'Literary Universe',
   'site.description': 'Literary Universe is a creative and publishing site for large story universes.',
   'common.signin': 'Login',
   'common.signup': 'Register',
@@ -186,7 +186,7 @@ export default {
   'universe.fanfiction.for': '{universe} Fan Fiction',
   'universe.stories.count': `There {num, plural,
     =0 {are no stories}
-    one {is 1 story}
+    one {is one story}
     other {are # stories}
     } in this universe.`,
   'universe.authors': 'Authors',
@@ -1102,6 +1102,9 @@ export default {
 
   // added 2017-02-12
   'reader.accessibility': 'Toggle accessibility',
+
+  // added 2017-02-20
+  'chapter.translation.notYet': 'This chapter has not yet been translated.',
 };
 
 /* eslint-enable max-len */

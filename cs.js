@@ -4,7 +4,7 @@
 /* eslint-disable max-len */
 export default {
   locales: [ 'cs', 'cs-CZ' ],
-  sitename: 'Liteary Universe',
+  sitename: 'Literary Universe',
   'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
   'common.signin': 'Přihlásit se',
   'common.signup': 'Registrace',
@@ -187,7 +187,7 @@ export default {
   'universe.fanfiction.for': '{universe} Fan Fikce',
   'universe.stories.count': `Tento vesmír {num, plural,
     =0 {nemá žádné příběhy}
-    one {má # příběh}
+    one {má jeden příběh}
     few {má # příběhy}
     other {má # příběhů}
   }.`,
@@ -1106,6 +1106,9 @@ export default {
 
   // added 2017-02-12
   'reader.accessibility': 'Zapnout/vypnout vylepšení čtení',
+
+  // added 2017-02-20
+  'chapter.translation.notYet': 'Tato kapitola zatím nebyla přeložena.',
 };
 
 /* eslint-enable max-len */
