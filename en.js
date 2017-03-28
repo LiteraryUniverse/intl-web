@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-  locales: [ 'en', 'en-US' ],
+  locales: [ 'en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ' ],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe is a creative and publishing site for large story universes.',
   'common.signin': 'Login',
@@ -1105,6 +1105,20 @@ export default {
 
   // added 2017-02-20
   'chapter.translation.notYet': 'This chapter has not yet been translated.',
+
+  // added 2017-03-28
+  buy: 'Buy',
+  'premium.buy': 'Buy Premium',
+  'premium.select': 'Select premium plan',
+  'payments.add': 'Add payment option',
+  'payments.add.btn': 'Add as a payment option',
+  'payments.disclaimer': 'Payment information and processing is done via Braintree by PayPal. We do not keep any credit card or bank account information on our servers.',
+  'buy.payment.optionsSelect': 'Select payment option',
+  'premium.plan.monthly': 'Monthly payments - $5/month',
+  'premium.plan.annual': 'Annual payments - $50/year',
+  'payments.card.number': 'Card number',
+  'payments.card.expire': 'Valid Thru',
+  'payments.card.cvv': 'CVV',
 };
 
 /* eslint-enable max-len */

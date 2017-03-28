@@ -1109,6 +1109,20 @@ export default {
 
   // added 2017-02-20
   'chapter.translation.notYet': 'Tato kapitola zatím nebyla přeložena.',
+
+  // added 2017-03-18
+  buy: 'Koupit',
+  'premium.buy': 'Koupit Premium',
+  'premium.select': 'Vyberte si typ předplatného',
+  'payments.add': 'Přidat platební možnost',
+  'payments.add.btn': 'Přidat jako platební možnost',
+  'payments.disclaimer': 'Platební informace a zpracovávání je zařizuje Braintree od PayPalu. Neuchováváme žádné platební informace (čísla kreditních karet, bankovních účtů, adresy, atd.) na našich serverech.',
+  'buy.payment.optionsSelect': 'Platební možnosti',
+  'premium.plan.monthly': 'Měsíčný předplatné - $5/měsíčně',
+  'premium.plan.annual': 'Roční předplatné - $50/rok',
+  'payments.card.number': 'Číslo platební karty',
+  'payments.card.expire': 'Platná do',
+  'payments.card.cvv': 'CVV',
 };
 
 /* eslint-enable max-len */

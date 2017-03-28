@@ -7,7 +7,7 @@ export default {
       name: 'English',
       native: 'English',
       defaultLocale: 'en-US',
-      supportedLocales: [ 'en-US' ],
+      supportedLocales: [ 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ' ],
       rtl: false,
     },{
       code: 'cs',
@@ -37,5 +37,17 @@ export default {
         rtl: false,
       }
     ]);
+  },
+  currencies: {
+    USD: {
+      sign: '$',
+      location: 'before',
+      fromUSD: 1,
+    },
+    CZK: {
+      sign: 'Kč',
+      location: 'after',
+      fromUSD: 25,
+    }
   }
 };
