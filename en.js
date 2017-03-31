@@ -1119,6 +1119,11 @@ export default {
   'payments.card.number': 'Card number',
   'payments.card.expire': 'Valid Thru',
   'payments.card.cvv': 'CVV',
+
+  // added 2017-03-31
+  'payments.card.info': '{cardType} card, ending in {ending}',
+  'payments.none': 'No saved payment options found.',
+  'payments.added': 'New payment option has been successfully added.',
 };
 
 /* eslint-enable max-len */

@@ -1123,6 +1123,11 @@ export default {
   'payments.card.number': 'Číslo platební karty',
   'payments.card.expire': 'Platná do',
   'payments.card.cvv': 'CVV',
+
+  // added 2017-03-31
+  'payments.card.info': 'Karta {cardType}, končící {ending}',
+  'payments.none': 'Nebyly nalezeny žádné uložené platební možnosti.',
+  'payments.added': 'Nová platební možnost byla úspěšně přidána.',
 };
 
 /* eslint-enable max-len */
