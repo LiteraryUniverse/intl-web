@@ -43,11 +43,22 @@ export default {
       sign: '$',
       location: 'before',
       fromUSD: 1,
+      // format for MessageFormat
+      format: {
+        number: {
+          usd: { style: 'currency', currency: 'USD' }
+        }
+      },
     },
     CZK: {
       sign: 'Kč',
       location: 'after',
       fromUSD: 25,
+      format: {
+        number: {
+          czk: { style: 'currency', currency: 'CZK' }
+        }
+      },
     }
   }
 };

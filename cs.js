@@ -1128,6 +1128,18 @@ export default {
   'payments.card.info': 'Karta {cardType}, končící {ending}',
   'payments.none': 'Nebyly nalezeny žádné uložené platební možnosti.',
   'payments.added': 'Nová platební možnost byla úspěšně přidána.',
+  'premium.info': 'Momentálně máte předplacený prémiový účet. Další platba {amount, number, usd} je naplánována na {nextPayment, date, short}.', // TODO fix to include currency dynamically
+
+  // added 2017-04-04
+  'payments.delete.confirm': 'Určitě chcete smazat {cardType}, končící {ending}?',
+  confirm: 'Potvrdid',
+  cancel: 'Zrušit',
+  'premium.edit': 'Upravit předplatné',
+  'premium.cancel': 'Zrušit prodloužení předplatného',
+
+  // added 2017-04-14
+  'premium.info.cancelled': 'Vaše předplatné bylo zrušeno. Premiové funkce zůstanou aktivní do {endDate, date, short}. Mrzí nás že odcházíte, přejeme Vám vše nejlepší a doufáme že se opět brzo setkáme.',
+  processing: 'Zpracovávám...',
 };
 
 /* eslint-enable max-len */

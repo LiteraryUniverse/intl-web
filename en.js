@@ -1124,6 +1124,18 @@ export default {
   'payments.card.info': '{cardType} card, ending in {ending}',
   'payments.none': 'No saved payment options found.',
   'payments.added': 'New payment option has been successfully added.',
+  'premium.info': 'You are currently subscribed. Next payment of {amount, number, usd} is scheduled for {nextPayment, date, short}.', // TODO fix to include currency dynamically
+
+  // added 2017-04-04
+  'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
+  confirm: 'Confirm',
+  cancel: 'Cancel',
+  'premium.edit': 'Edit subscription',
+  'premium.cancel': 'Cancel subscription renewal',
+
+  // added 2017-04-14
+  'premium.info.cancelled': 'Your subscription has been cancelled. Premium features will remain available till {endDate, date, short}. We are sad to see you go. We wish you the best and hope that we will see you again soon!',
+  processing: 'Processing...',
 };
 
 /* eslint-enable max-len */
