@@ -124,7 +124,7 @@ export default {
   'pm.to': 'To:',
 
   'premium.only': 'For premium users only',
-  'premium.only.msg': 'Sorry, this functionality is for premium members only.',
+  'premium.only.msg': 'We appologize, but this functionality is for premium members only.',
   'premium.only.join': 'Become one today to gain access to this and many more features.',
   'premium.only.join.link': 'Check it out!',
 
