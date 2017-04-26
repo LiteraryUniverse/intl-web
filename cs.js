@@ -1140,6 +1140,13 @@ export default {
   // added 2017-04-14
   'premium.info.cancelled': 'Vaše předplatné bylo zrušeno. Premiové funkce zůstanou aktivní do {endDate, date, short}. Mrzí nás že odcházíte, přejeme Vám vše nejlepší a doufáme že se opět brzo setkáme.',
   processing: 'Zpracovávám...',
+
+  // added 2017-04-26
+  'workshop.collaborators.premium': `Pro přidávání {type, select,
+    collaborator {spolupracovníků}
+    beta {beta čtenářů}
+  } je zapotřebí předplatné.`,
+  'workshop.translations.premium': 'Tvorba a zpráva překladů vyžaduje premiuový účet.',
 };
 
 /* eslint-enable max-len */

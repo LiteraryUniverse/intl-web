@@ -1136,6 +1136,13 @@ export default {
   // added 2017-04-14
   'premium.info.cancelled': 'Your subscription has been cancelled. Premium features will remain available till {endDate, date, short}. We are sad to see you go. We wish you the best and hope that we will see you again soon!',
   processing: 'Processing...',
+
+  // added 2017-04-26
+  'workshop.collaborators.premium': `Get Premium to be able to add {type, select,
+    collaborator {collaborators}
+    beta {beta readers}
+  }.`,
+  'workshop.translations.premium': 'Creating and managing translations requires premium subscription.',
 };
 
 /* eslint-enable max-len */
