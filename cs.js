@@ -493,8 +493,8 @@ export default {
   }`,
   'plans.feature.editor': 'Příběhový editor',
   'plans.feature.encyclopedia': 'Encyklopedie',
-  'plans.feature.collaborators': 'Maximální počet spolupracovníků',
-  'plans.feature.collaborators.unlimited': 'Neomezeně',
+  'plans.feature.collaborators': 'Spolupracovníci pro příběhy a vesmíry',
+  'plans.feature.unlimited': 'Neomezeně',
   'plans.feature.fictionaltime': 'Fictional time',
   'plans.feature.stats': 'Zakladní statistiky',
   'plans.feature.stats.advanced': 'Pokročilé statistiky',
@@ -1147,6 +1147,18 @@ export default {
     beta {beta čtenářů}
   } je zapotřebí předplatné.`,
   'workshop.translations.premium': 'Tvorba a zpráva překladů vyžaduje premiuový účet.',
+
+  // added 2017-05-20
+  'homepage.intro': 'Najděte či vytvořte literární vesmíry a úžasné příběhy.',
+  'homepage.explanation': 'Literary Universe je platforma pro kreativní psaní a čtení, zaměřena na tvorbu rozsáhlých literárních vesmírů. Náš cíl je vytvořit propojenou sadu nástrojů pro tvorbu komplexních vesmírů a příběhů, a poskytnou fanouškům a čtenářům platformu pro objevování těchto příběhů a vesmírů.',
+
+  // added 2017-05-28
+  'encyclopedia.welcome.totalEntries': `V tomto vesmíru {totalEntries, plural, 
+    zero {nejsou žádné informace}
+    one {je jeden údaj}
+    few {jsou # údaje}
+    many {je # údajů}
+  }.`,
 };
 
 /* eslint-enable max-len */

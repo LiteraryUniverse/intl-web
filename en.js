@@ -488,8 +488,8 @@ export default {
   }`,
   'plans.feature.editor': 'Stories editor',
   'plans.feature.encyclopedia': 'Encyclopedia',
-  'plans.feature.collaborators': 'Maximum number of collaborators',
-  'plans.feature.collaborators.unlimited': 'Unlimited',
+  'plans.feature.collaborators': 'Collaborators for stories and universes',
+  'plans.feature.unlimited': 'Unlimited',
   'plans.feature.fictionaltime': 'Fictional time',
   'plans.feature.stats': 'Basic statistics',
   'plans.feature.stats.advanced': 'Advanced statistics',
@@ -1143,6 +1143,17 @@ export default {
     beta {beta readers}
   }.`,
   'workshop.translations.premium': 'Creating and managing translations requires premium subscription.',
+
+  // added 2017-05-20
+  'homepage.intro': 'Explore and create literally universes & great stories.',
+  'homepage.explanation': 'Literary Universe is a creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
+
+  // added 2017-05-28
+  'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
+    zero {are no entries}
+    one {is one entry}
+    other {are # entries}
+  } in this universe.`,
 };
 
 /* eslint-enable max-len */
