@@ -161,8 +161,8 @@ export default {
   'discovery.stories.new.standalone': 'New standalone stories',
   'discovery.stories.updated': 'Recently updated stories',
   'discovery.continue': 'Continue reading',
-  'discovery.stories.similar.new': 'New stories in the neighbourhood',
-  'discovery.stories.similar': 'Stories in the neighbourhood',
+  'discovery.stories.similar.new': 'New stories in the neighborhood',
+  'discovery.stories.similar': 'Stories in the neighborhood',
 
   rating: 'Rating',
   'rating.explained': '',
@@ -1178,8 +1178,18 @@ export default {
   'blog.post.create': 'Create a new post',
   'blog.post.update': 'Editing {title}',
   'blog.post.text': 'Post text',
-  'common.slug': 'Slug',
+  'common.slug': 'SEO friendly address',
   'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
+  'blog.publicView': 'Public view',
+
+  // added 2017-07-08
+  'blog.post.notfound': 'Blog post was not found',
+  'blog.lists.works': `{type, select,
+    universes {Universes}
+    stories {Standalone stories}
+    fanfiction {Fan Fiction work}
+  }`,
+  'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was wrtitten as a part of a universe then it will be listed on the universe page.',
 };
 
 /* eslint-enable max-len */

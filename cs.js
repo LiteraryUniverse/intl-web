@@ -1183,8 +1183,18 @@ export default {
   'blog.post.create': 'Create a new post',
   'blog.post.update': 'Editing {title}',
   'blog.post.text': 'Post text',
-  'common.slug': 'Slug',
+  'common.slug': 'SEO adresa',
   'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
+  'blog.publicView': 'Veřejná verze',
+
+  // added 2017-07-08
+  'blog.post.notfound': 'Článek nebyl nalezen',
+  'blog.lists.works': `{type, select,
+    universes {Vesmíry}
+    stories {Samostatné příběhy}
+    fanfiction {Fan Fikce}
+  }`,
+  'blog.lists.stories.disclaimer': 'Zde jsou pouze samostatné příběhy. Pokud byl příběh napsán jako součást vesmíru tak jej naleznete na stránce o daném vesmíru.',
 };
 
 /* eslint-enable max-len */
