@@ -6,6 +6,7 @@ export default {
   locales: [ 'cs', 'cs-CZ' ],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
+  'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
   'common.signin': 'Přihlásit se',
   'common.signup': 'Registrace',
   'common.signout': 'Odhlásit se',

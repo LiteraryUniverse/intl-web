@@ -6,6 +6,7 @@ export default {
   locales: [ 'en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ' ],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe is a creative and publishing site for large story universes.',
+  'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'common.signin': 'Login',
   'common.signup': 'Register',
   'common.signout': 'Logout',
