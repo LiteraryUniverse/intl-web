@@ -1196,6 +1196,9 @@ export default {
     fanfiction {Fan Fikce}
   }`,
   'blog.lists.stories.disclaimer': 'Zde jsou pouze samostatné příběhy. Pokud byl příběh napsán jako součást vesmíru tak jej naleznete na stránce o daném vesmíru.',
+
+  // added 2017-10-04
+  'common.settings.payments': 'Nastavení plateb',
 };
 
 /* eslint-enable max-len */
