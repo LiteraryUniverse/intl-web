@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-  locales: [ 'en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ' ],
+  locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe is a creative and publishing site for large story universes.',
   'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
@@ -1193,7 +1193,7 @@ export default {
   'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was wrtitten as a part of a universe then it will be listed on the universe page.',
 
   // added 2017-10-04
-  'common.settings.payments': 'Payments Settings',
+  'common.settings.payments': 'Payments Settings'
 };
 
 /* eslint-enable max-len */

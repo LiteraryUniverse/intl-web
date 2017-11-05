@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-  locales: [ 'cs', 'cs-CZ' ],
+  locales: ['cs', 'cs-CZ'],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
   'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
@@ -1198,7 +1198,7 @@ export default {
   'blog.lists.stories.disclaimer': 'Zde jsou pouze samostatné příběhy. Pokud byl příběh napsán jako součást vesmíru tak jej naleznete na stránce o daném vesmíru.',
 
   // added 2017-10-04
-  'common.settings.payments': 'Nastavení plateb',
+  'common.settings.payments': 'Nastavení plateb'
 };
 
 /* eslint-enable max-len */
