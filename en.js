@@ -1193,7 +1193,8 @@ export default {
   'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was wrtitten as a part of a universe then it will be listed on the universe page.',
 
   // added 2017-10-04
-  'common.settings.payments': 'Payments Settings'
+  'common.settings.payments': 'Payments Settings',
+  'common.nodata': 'No data'
 };
 
 /* eslint-enable max-len */
