@@ -1199,7 +1199,10 @@ export default {
 
   // added 2017-10-04
   'common.settings.payments': 'Nastavení plateb',
-  'common.nodata': 'Žádná data'
+  'common.nodata': 'Žádná data',
+
+  // added 2017-11-25
+  'error.title': 'Nastala chyba!'
 };
 
 /* eslint-enable max-len */

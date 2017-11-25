@@ -1194,7 +1194,10 @@ export default {
 
   // added 2017-10-04
   'common.settings.payments': 'Payments Settings',
-  'common.nodata': 'No data'
+  'common.nodata': 'No data',
+
+  // added 2017-11-25
+  'error.title': 'An error has occured!'
 };
 
 /* eslint-enable max-len */
