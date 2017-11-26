@@ -390,7 +390,7 @@ export default {
   'encyclopedia.ft.indev': 'Tato možnost je ve vývoji.',
   'encyclopedia.connections.remove': 'Ostranit spojení',
   'encyclopedia.connections.extra': 'Extra informace',
-  'encyclopedia.connections.existing': 'Ecistující Článek',
+  'encyclopedia.connections.existing': 'Existující Článek',
   'encyclopedia.connections.existing.abbr': 'EČ', // abbreviation for Existing Entry
 
   // List of all genres
