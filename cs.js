@@ -144,6 +144,7 @@ export default {
     female {Přidala}
     other {Přidali}} se `, // keep the space at the end
   'user.friend.request.accept': 'Příjmout žádost o přátelství',
+  'user.friend.request.cancel': 'Zrušit žádost o přátelství',
   'user.friend.request.deny': 'Otmítnout žádost o přátelství',
   'user.listing': 'Seznam uživatelů',
   'user.profile.visit': 'Navštiv profil pro {user}.',

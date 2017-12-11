@@ -143,6 +143,7 @@ export default {
     female {Joined}
     other {Joined}} on `, // keep the space at the end
   'user.friend.request.accept': 'Accept friendship request',
+  'user.friend.request.cancel': 'Cancel friendship request',
   'user.friend.request.deny': 'Deny friendship',
   'user.listing': 'User listing',
   'user.profile.visit': 'Visit {user}\'s profile.',
