@@ -115,7 +115,7 @@ export default {
   'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
 
   'pm.conversation': 'Conversation',
-  'pm.showolder': 'Show older messages.',
+  'pm.showolder': 'Show older messages',
   'pm.errors.saysomething': 'You should really say something...',
   'pm.errors.addrecipient': 'You need to add at least one other user.',
   'pm.message': 'Message',

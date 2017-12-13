@@ -115,7 +115,7 @@ export default {
   'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich náležitým vlastníkům.',
 
   'pm.conversation': 'Konverzace',
-  'pm.showolder': 'Zobrazit starší zprávy.',
+  'pm.showolder': 'Zobrazit starší zprávy',
   'pm.errors.saysomething': 'Možná byste měli něco napsat...',
   'pm.errors.addrecipient': 'Musíte přidat alespoň jednoho příjemce.',
   'pm.message': 'Zpráva',
