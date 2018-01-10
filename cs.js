@@ -6,7 +6,8 @@ export default {
   locales: ['cs', 'cs-CZ'],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
-  'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
+  'site.keywords':
+    'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
   'common.signin': 'Přihlásit se',
   'common.signup': 'Registrace',
   'common.signout': 'Odhlásit se',
@@ -76,7 +77,8 @@ export default {
   'settings.email.verified.not': 'not verified',
   'settings.email.add': 'Přidat e-mail',
   'settings.languages': 'Nastavení jazyku',
-  'settings.languages.notice': 'Angličtina je momentálně jediný oficiálně podporovaný jazyk. Ostatní jazyky jsou možné díky práci dobrovolníků a mohou být neúplné.',
+  'settings.languages.notice':
+    'Angličtina je momentálně jediný oficiálně podporovaný jazyk. Ostatní jazyky jsou možné díky práci dobrovolníků a mohou být neúplné.',
   'settings.languages.join': 'Můžete pomoci s překladem.',
   'settings.name': 'Pravé jméno',
   'settings.name.given': 'Jméno',
@@ -197,7 +199,8 @@ export default {
   'universe.authors.desc': 'Tvůrci a spolupracovníci pro {universe}',
   'universe.contributors': 'Spolupracovníci',
   'universe.translators': 'Překladatelé',
-  'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+  'universe.authors.notice':
+    'Each story might have additional personal that has worked on it. For more details see the details of the story.',
   'universe.createdby': 'Vytvořeno ',
   'universe.stories.for': 'Příběhy z {universe}',
   'universe.stories.own': '{universe} příběhy',
@@ -266,7 +269,8 @@ export default {
   'workshop.universe.nostories': 'Tento vesmír nemá žádné příběhy.',
   'workshop.story.chapter.add': 'Nová kapitola',
   'workshop.universe.new': 'Vytvořit nový vesmír',
-  'workshop.universe.publishing.note': 'Pokud nyní nepublikujete vesmír, tak bude automaticky publikován s prvním příběhem který je s ním spojený.',
+  'workshop.universe.publishing.note':
+    'Pokud nyní nepublikujete vesmír, tak bude automaticky publikován s prvním příběhem který je s ním spojený.',
   'workshop.universe.settings': '{universe} nastavení',
   'workshop.universe.publishedOn': 'Vesmír byl publikován ',
   'workshop.universe.description': 'Popis vesmíru',
@@ -276,7 +280,8 @@ export default {
   'workshop.language.primary': 'Hlavní jazyk',
   'workshop.publication.opions': 'Publication options',
   'workshop.rating': 'Rating',
-  'workshop.universe.rating.desc': 'Příběhy a fan fikce nad tento rating nebudou zobrazeny na strance vesmíru anonymním uživatelům a uzivatelům kteří nedosáhli požadovaného věku.',
+  'workshop.universe.rating.desc':
+    'Příběhy a fan fikce nad tento rating nebudou zobrazeny na strance vesmíru anonymním uživatelům a uzivatelům kteří nedosáhli požadovaného věku.',
   'workshop.universe.license': 'License pro užívání vesmíru',
   'workshop.universe.genre.pick': 'Vyberte žánr pro vesmír',
   'workshop.story.genre.pick': 'Vyberte žánry pro vesmír',
@@ -285,7 +290,8 @@ export default {
   'workshop.story.cannon': 'Cannon story',
   'workshop.story.cannon.desc': 'This story is cannonical in {universe} universe.',
   'workshop.story.cannon.desc.create': 'This story will be created as a cannonical story in {universe} universe.',
-  'workshop.story.fanfiction.search': 'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
+  'workshop.story.fanfiction.search':
+    'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
   'workshop.story.error.nogenres': 'You need to select at least one genre.',
   'workshop.story.error.toomanygenres': 'Only two genres per story are allowed.',
   'workshop.story.error.fanfiction.selectuniverse': 'You need to select original universe for your fan fiction!',
@@ -308,7 +314,8 @@ export default {
   'workshop.revisions.toeditor': 'Vstoupit do editoru',
   'workshop.revisions.comments': 'Komentáře k revizím',
   'workshop.revisions.comments.title': '{story}: {chapter} - Revize {revision} - Komentáře',
-  'workshop.revisions.comments.list': '{revision}: {publication, select, beta {pro Beta čtenáře} readers {Veřejné}} {datetime, date, medium} {datetime, time, short}',
+  'workshop.revisions.comments.list':
+    '{revision}: {publication, select, beta {pro Beta čtenáře} readers {Veřejné}} {datetime, date, medium} {datetime, time, short}',
   'workshop.revisions.comments.norevision': 'Nejdříve potřebujete vytvořit revizi.',
   'workshop.revisions.comments.select': 'Vyverte revizi',
   'workshop.collaborators.noresults': 'Nic nenalezeno',
@@ -332,9 +339,11 @@ export default {
     few {# možné články nalezeny}
     other {# možných článků nalezeno}
   }.`,
-  'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
+  'encyclopedia.help.text':
+    'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
   'encyclopedia.help.sidebar': 'Postraní encyklopedie',
-  'encyclopedia.help.sidebar.text': 'Use the selection above to search, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+  'encyclopedia.help.sidebar.text':
+    'Use the selection above to search, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
   'encyclopedia.intro': 'Vítejte v encyklopedii pro {universe}.',
   'encyclopedia.entries.total': `Encyklopedie momentálně obsahuje {num, plural,
     zero {nula článků}
@@ -379,10 +388,12 @@ export default {
   'encyclopedia.public': 'Veřejné',
   'encyclopedia.private': 'Soukromé',
   'encyclopedia.container': 'Container',
-  'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
+  'encyclopedia.container.desc':
+    'Make this entry a container for a new group of entries. This will hide it from categories listing.',
   'encyclopedia.entry.name': 'Jméno článku',
   'encyclopedia.summary': 'Shrnutí',
-  'encyclopedia.summary.desc': 'Krátké shrnutí článku. Toto bude standartně zobrazeno jako jediné pole budeli článek zobrazen ve čtečce.',
+  'encyclopedia.summary.desc':
+    'Krátké shrnutí článku. Toto bude standartně zobrazeno jako jediné pole budeli článek zobrazen ve čtečce.',
   'encyclopedia.parent': 'Rodičovský článek',
   'encyclopedia.related': 'Příbuzné články',
   'encyclopedia.errors.tags': 'Můžete mít maximálně 10 tagů pro jeden článek.',
@@ -423,21 +434,29 @@ export default {
   'licenses.more': 'Více informací',
   'licenses.legal': 'Právní dokument',
   'licenses.name.cc-by': 'Creative Commons Attribution 4.0',
-  'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
+  'licenses.cc-by':
+    'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
   'licenses.name.cc-by-sa': 'Creative Commons Attribution-ShareAlike 4.0',
-  'licenses.cc-by-sa': 'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
+  'licenses.cc-by-sa':
+    'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
   'licenses.name.cc-by-nd': 'Creative Commons Attribution-NoDerivs 4.0',
-  'licenses.cc-by-nd': 'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
+  'licenses.cc-by-nd':
+    'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
   'licenses.name.cc-by-nc': 'Creative Commons Attribution-NonCommercial 4.0',
-  'licenses.cc-by-nc': 'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
+  'licenses.cc-by-nc':
+    'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
   'licenses.name.cc-by-nc-sa': 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0',
-  'licenses.cc-by-nc-sa': 'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
+  'licenses.cc-by-nc-sa':
+    'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
   'licenses.name.cc-by-nc-nd': 'Creative Commons Attribution-NonCommercial-NoDerivs 4.0',
-  'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
+  'licenses.cc-by-nc-nd':
+    'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
   'licenses.name.lu-c': 'Literary Universe Copyright',
-  'licenses.lu-c': 'Standartní plný copyright license která Vám umožňuje publikování Vašeho dílá na Literary Universe s plnou ochranou Vašeho duševního vlastnictví. Tato license Vám také umožní prodávat Vaše dílo na Literary Universe.',
+  'licenses.lu-c':
+    'Standartní plný copyright license která Vám umožňuje publikování Vašeho dílá na Literary Universe s plnou ochranou Vašeho duševního vlastnictví. Tato license Vám také umožní prodávat Vaše dílo na Literary Universe.',
   'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-  'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.',
+  'licenses.cc0':
+    'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.',
 
   'library.add': 'Přidat do knihovny',
   'library.remove': 'Odebrat z knihovny',
@@ -449,38 +468,52 @@ export default {
   'homepage.read': 'Čtení',
   'homepage.explore': 'Objevování',
   'homepage.create': 'Tvorba',
-  'homepage.read.desc': 'Enjoy a great reading experience with access to details of the stories universe adjacent to the story text, without the need to leave the story window.',
-  'homepage.explore.desc': 'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
-  'homepage.create.desc': 'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
+  'homepage.read.desc':
+    'Enjoy a great reading experience with access to details of the stories universe adjacent to the story text, without the need to leave the story window.',
+  'homepage.explore.desc':
+    'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
+  'homepage.create.desc':
+    'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
   'homepage.begin': 'Začněte svou cestu!',
   'homepage.itisfree': 'Je to zadarmo!',
 
   'about.title': 'O Literary Universe',
   'about.desc': 'Historie, tajemství a lidé za Literary Universe.',
-  'about.text.1': 'Literary Universe is designed both for writers and for the avid reader. Writers can use the site to write original works through the workshop button in the dashboard menu. This will give you access to the main editor and encyclopedia functions which primarily focus on organizing all aspects of your personal story universe into one page. The social aspects allow authors to broadcast their work and develop a following, as well as to interact more directly if they chose with their readers.',
-  'about.text.2': 'Readers can use the site primarily to read new works and follow authors but also to help edit pre-published stories if given permission by the writer. Being a reader on Literary Universe is a whole new reading experience, having access to all the background information on the same page as the main story gives you insight into the mind of the author like never before.',
-  'about.text.3': 'The future for Literary Universe involves creating a marketplace for authors to sell their work and adding community features to enhance author and reader communication through blogs and forums. Writer’s tools will be added over time, with over a dozen currently either in development or on the board. Our ultimate goal is to enhance the experiences of writers and readers through providing more innovative use of the internet medium.',
-  'about.text.4': 'Doufáme že se k nám přidáte a pomůžete nám objevit co internetové medium může udělat pro kreativní psaní!',
+  'about.text.1':
+    'Literary Universe is designed both for writers and for the avid reader. Writers can use the site to write original works through the workshop button in the dashboard menu. This will give you access to the main editor and encyclopedia functions which primarily focus on organizing all aspects of your personal story universe into one page. The social aspects allow authors to broadcast their work and develop a following, as well as to interact more directly if they chose with their readers.',
+  'about.text.2':
+    'Readers can use the site primarily to read new works and follow authors but also to help edit pre-published stories if given permission by the writer. Being a reader on Literary Universe is a whole new reading experience, having access to all the background information on the same page as the main story gives you insight into the mind of the author like never before.',
+  'about.text.3':
+    'The future for Literary Universe involves creating a marketplace for authors to sell their work and adding community features to enhance author and reader communication through blogs and forums. Writer’s tools will be added over time, with over a dozen currently either in development or on the board. Our ultimate goal is to enhance the experiences of writers and readers through providing more innovative use of the internet medium.',
+  'about.text.4':
+    'Doufáme že se k nám přidáte a pomůžete nám objevit co internetové medium může udělat pro kreativní psaní!',
   'about.team': 'Team',
   'about.history': 'Historie',
   'about.CEO': 'Výkonný ředitel',
   'about.CTO': 'Vedoucí vývoje',
-  'about.scott': 'Scott became interested in creative writing in his early years and to this day is an avid reader. As someone who has always wanted to write his own book Scott became interested in Literary Universe when Jan Dvorak approached him with the idea for Literary Universe while they were in college. Scott has been been a part of Jan\'s development team since its inception and created the name for the site, among other notable contributions. Scott manages the business side of Literary Universe to allow Jan to focus on technological development.',
-  'about.jan': 'Honza je zakladatel, visionář a technologický mozek Literary Universe. Jako pisálek a čtenář velkých literárních vesmírů Honza měl vždycky problémy s psaním (a čtením) těchto příběhů z technického a čtenářského hlediska. Vidíce potencial ve webových technologii, Honza se rozhodl zaměřit své studia tímto směrem aby získal potřebné znalosti k vytvoření aplikace která by umožnila lepší psaní a čtení rozsáhlých literárních vesmírů.',
-  'about.history.text': 'V roce 2010 Honza začal studovat webové technologie na Rochester Institute of Technology, hlavním cílem bylo získat potřebné technolgoie k vytvoření webové stránky pro kreativní psaní. První pokus o tuto stránku byl představen na jaře 2013 na školním festivalu Imagine RIT. Honza pokračoval ve svých studiích a v roce 2016 vytvořil novou verzi, tentokráte jako webovou aplikaci, jako svou dizertační práci pro magisterský titul. Tento projekt pokračoval na podzim téhož roku až do současné podoby.',
+  'about.scott':
+    "Scott became interested in creative writing in his early years and to this day is an avid reader. As someone who has always wanted to write his own book Scott became interested in Literary Universe when Jan Dvorak approached him with the idea for Literary Universe while they were in college. Scott has been been a part of Jan's development team since its inception and created the name for the site, among other notable contributions. Scott manages the business side of Literary Universe to allow Jan to focus on technological development.",
+  'about.jan':
+    'Honza je zakladatel, visionář a technologický mozek Literary Universe. Jako pisálek a čtenář velkých literárních vesmírů Honza měl vždycky problémy s psaním (a čtením) těchto příběhů z technického a čtenářského hlediska. Vidíce potencial ve webových technologii, Honza se rozhodl zaměřit své studia tímto směrem aby získal potřebné znalosti k vytvoření aplikace která by umožnila lepší psaní a čtení rozsáhlých literárních vesmírů.',
+  'about.history.text':
+    'V roce 2010 Honza začal studovat webové technologie na Rochester Institute of Technology, hlavním cílem bylo získat potřebné technolgoie k vytvoření webové stránky pro kreativní psaní. První pokus o tuto stránku byl představen na jaře 2013 na školním festivalu Imagine RIT. Honza pokračoval ve svých studiích a v roce 2016 vytvořil novou verzi, tentokráte jako webovou aplikaci, jako svou dizertační práci pro magisterský titul. Tento projekt pokračoval na podzim téhož roku až do současné podoby.',
 
   copyrights: 'Autorská práva',
   'copyrights.desc': 'Plné znění autorských práv pro Literary Universe.',
   'privacy.desc': 'Plné znění pro ochranu osobních údajů na Literary Universe.',
   'guidelines.desc': 'Community Guidelines of Literary Universe.',
   'guidelines.tldr': 'Ve zkratce: Buďte úžesní k ostatním!',
-  'guidelines.text.1': 'This site has writers at every level of experience. It is important to respect your fellow writers and help them to succeed.',
-  'guidelines.text.2': 'Collaborators, beta readers and reviewers are the backbone of our work. They help us improve as writers and make the reading experience more enjoyable for everyone. Please be respectful even when they are critical because without their efforts we would all have a much more difficult time editing our work.',
-  'guidelines.text.3': 'Readers please be constructive in any critiques. Writers put in a lot of effort to create content for you to enjoy. If you do not like their work please leave reviews that are helpful and not just rude or nonsensical.',
+  'guidelines.text.1':
+    'This site has writers at every level of experience. It is important to respect your fellow writers and help them to succeed.',
+  'guidelines.text.2':
+    'Collaborators, beta readers and reviewers are the backbone of our work. They help us improve as writers and make the reading experience more enjoyable for everyone. Please be respectful even when they are critical because without their efforts we would all have a much more difficult time editing our work.',
+  'guidelines.text.3':
+    'Readers please be constructive in any critiques. Writers put in a lot of effort to create content for you to enjoy. If you do not like their work please leave reviews that are helpful and not just rude or nonsensical.',
   'guidelines.text.4': 'Pokud narazíte na nějaké problémy, kontaktujde adminy.',
   'tos.desc': 'Plné znění smluvních podmínek pro Literary Universe.',
   'plans.desc': 'Seznam plánů a funkcionality pro Literary Universe.',
-  'plans.text': 'Literary Universe je v základní verzi zdarma. Nabízíme však premium verzi, která nabízí více možností.',
+  'plans.text':
+    'Literary Universe je v základní verzi zdarma. Nabízíme však premium verzi, která nabízí více možností.',
   'plans.account.free': 'Zakladní účet',
   'plans.account.premium': 'Premiový účet',
   'plans.eta': 'Plánováno na ',
@@ -522,13 +555,15 @@ export default {
     }! Připravte se!`,
   'nanowrimo.isover': 'NaNoWriMo skončilo. Naviděnou příští rok!',
   'nanowrimo.select': 'Vyberte tento příběh pro NaNoWriMo.',
-  'nanowrimo.baseline': 'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
+  'nanowrimo.baseline':
+    'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
   'nanowrimo.victory': 'Gratulejeme! Vyhráli jste NaNoWriMo!',
   'nanowrimo.challenge': 'NaNoWriMo výzva',
   'nanowrimo.description': 'Cíl je napsat {words, number} slov dlouhou knihu během listopadu.',
   'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
   'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
-  'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
+  'nanowrimo.error.wordcount':
+    'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
   'nanowrimo.connected': 'Vybrali jste tento příběh pro NaNoWriMo.',
   'nanowrimo.connected.other': 'Už jste vybrali jiný příběh pro NaNoWriMo.',
 
@@ -539,7 +574,7 @@ export default {
   'challenges.start': 'Začít výzvu',
   'challenges.report': 'Report',
   'challenges.victory': 'Congratulations! You have completed this challenge.',
-  'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
+  'challenges.defeat': "Sadly you didn't complete this challenge.",
   'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
 
   // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
@@ -578,7 +613,8 @@ export default {
   'simpleschema.regEx.9': '{label} musí být validní alphanumerické ID',
 
   // for beta only
-  'beta.notice': 'Vítejte v BETA verzi pro Literary Universe. BETA je speciální verze která je veřejně přístupná, ale ještě není plně odladěná a dokončená. To znamená že můžete narazit na problémy, chyby a nedokončenou funkcionalitu. Pokud se tak stane nebo něco nepracuje prosím informujte nás a buďte s námi trpělivý mezitím co budeme pracovat na nápravě.',
+  'beta.notice':
+    'Vítejte v BETA verzi pro Literary Universe. BETA je speciální verze která je veřejně přístupná, ale ještě není plně odladěná a dokončená. To znamená že můžete narazit na problémy, chyby a nedokončenou funkcionalitu. Pokud se tak stane nebo něco nepracuje prosím informujte nás a buďte s námi trpělivý mezitím co budeme pracovat na nápravě.',
   'beta.thanks': 'Mnoho díků za Vaší podporu!',
   'scratchpad.about': 'Vaše poznámky a nápady přístupné kdekoliv na stránce.',
 
@@ -602,7 +638,8 @@ export default {
   'feedback.bugs': 'Problémy',
   'feedback.bugs.desc': 'Narazily jste na chybu nebo něco co je špatně? Napiště nám zde ať to můžeme opravit.',
   'feedback.features': 'Návrhy a nápady',
-  'feedback.features.desc': 'Máte nápad pro novou funkcionalitu nebo jak vylepšit Literary Universe? Podělte se s ostatními!',
+  'feedback.features.desc':
+    'Máte nápad pro novou funkcionalitu nebo jak vylepšit Literary Universe? Podělte se s ostatními!',
   'feedback.help': 'Poradna a tutorialy',
   'feedback.help.desc': 'Jak udělám _____? Zde najdete odpovědi.',
   'feedback.desc': 'Vítejte v zakaznickém centru.',
@@ -1090,14 +1127,18 @@ export default {
   'common.saving': 'Ukládám...',
 
   // added 2017-01-03
-  'workshop.translation.updatedOrig': 'Poslední aktualizace originálu: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.updatedOrig':
+    'Poslední aktualizace originálu: {updatedAt, date, long} {updatedAt, time, medium}',
   'workshop.translation.updatedTrs': 'Poslední aktualizace překladu: {updatedAt, date, long} {updatedAt, time, medium}',
-  'workshop.translation.revisionOrig': 'Poslední revize {revision, number} originálu: {updatedAt, date, long} {updatedAt, time, medium}',
-  'workshop.translation.revisionTrs': 'Poslední revize {revision, number} překladu: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.revisionOrig':
+    'Poslední revize {revision, number} originálu: {updatedAt, date, long} {updatedAt, time, medium}',
+  'workshop.translation.revisionTrs':
+    'Poslední revize {revision, number} překladu: {updatedAt, date, long} {updatedAt, time, medium}',
 
   // added 2017-01-11
   'encyclopedia.translation.title': 'Vítejte v překladači {universe} encyklopedie!',
-  'encyclopedia.translation.desc': 'Tato verze encyklopedia slouží k překladu do {language}. Vyberte příspěvek vlevo v seznamu k započání překladu.',
+  'encyclopedia.translation.desc':
+    'Tato verze encyklopedia slouží k překladu do {language}. Vyberte příspěvek vlevo v seznamu k započání překladu.',
 
   // added 2017-01-23
   'common.friends': 'Přátelé',
@@ -1118,7 +1159,8 @@ export default {
   'premium.select': 'Vyberte si typ předplatného',
   'payments.add': 'Přidat platební možnost',
   'payments.add.btn': 'Přidat jako platební možnost',
-  'payments.disclaimer': 'Platební informace a zpracovávání je zařizuje Braintree od PayPalu. Neuchováváme žádné platební informace (čísla kreditních karet, bankovních účtů, adresy, atd.) na našich serverech.',
+  'payments.disclaimer':
+    'Platební informace a zpracovávání je zařizuje Braintree od PayPalu. Neuchováváme žádné platební informace (čísla kreditních karet, bankovních účtů, adresy, atd.) na našich serverech.',
   'buy.payment.optionsSelect': 'Platební možnosti',
   'premium.plan.monthly': 'Měsíčný předplatné - $5/měsíčně',
   'premium.plan.annual': 'Roční předplatné - $50/rok',
@@ -1130,7 +1172,8 @@ export default {
   'payments.card.info': 'Karta {cardType}, končící {ending}',
   'payments.none': 'Nebyly nalezeny žádné uložené platební možnosti.',
   'payments.added': 'Nová platební možnost byla úspěšně přidána.',
-  'premium.info': 'Momentálně máte předplacený prémiový účet. Další platba {amount, number, usd} je naplánována na {nextPayment, date, short}.', // TODO fix to include currency dynamically
+  'premium.info':
+    'Momentálně máte předplacený prémiový účet. Další platba {amount, number, usd} je naplánována na {nextPayment, date, short}.', // TODO fix to include currency dynamically
 
   // added 2017-04-04
   'payments.delete.confirm': 'Určitě chcete smazat {cardType}, končící {ending}?',
@@ -1140,7 +1183,8 @@ export default {
   'premium.cancel': 'Zrušit prodloužení předplatného',
 
   // added 2017-04-14
-  'premium.info.cancelled': 'Vaše předplatné bylo zrušeno. Premiové funkce zůstanou aktivní do {endDate, date, short}. Mrzí nás že odcházíte, přejeme Vám vše nejlepší a doufáme že se opět brzo setkáme.',
+  'premium.info.cancelled':
+    'Vaše předplatné bylo zrušeno. Premiové funkce zůstanou aktivní do {endDate, date, short}. Mrzí nás že odcházíte, přejeme Vám vše nejlepší a doufáme že se opět brzo setkáme.',
   processing: 'Zpracovávám...',
 
   // added 2017-04-26
@@ -1152,7 +1196,8 @@ export default {
 
   // added 2017-05-20
   'homepage.intro': 'Najděte či vytvořte literární vesmíry a úžasné příběhy.',
-  'homepage.explanation': 'Literary Universe je platforma pro kreativní psaní a čtení, zaměřena na tvorbu rozsáhlých literárních vesmírů. Náš cíl je vytvořit propojenou sadu nástrojů pro tvorbu komplexních vesmírů a příběhů, a poskytnou fanouškům a čtenářům platformu pro objevování těchto příběhů a vesmírů.',
+  'homepage.explanation':
+    'Literary Universe je platforma pro kreativní psaní a čtení, zaměřena na tvorbu rozsáhlých literárních vesmírů. Náš cíl je vytvořit propojenou sadu nástrojů pro tvorbu komplexních vesmírů a příběhů, a poskytnou fanouškům a čtenářům platformu pro objevování těchto příběhů a vesmírů.',
 
   // added 2017-05-28
   'encyclopedia.welcome.totalEntries': `V tomto vesmíru {totalEntries, plural, 
@@ -1176,7 +1221,8 @@ export default {
   } settings`,
   'blog.description': 'Blog introduction',
   'blog.theme': 'Theme',
-  'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+  'blog.theme.info':
+    'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
   'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -1196,7 +1242,8 @@ export default {
     stories {Samostatné příběhy}
     fanfiction {Fan Fikce}
   }`,
-  'blog.lists.stories.disclaimer': 'Zde jsou pouze samostatné příběhy. Pokud byl příběh napsán jako součást vesmíru tak jej naleznete na stránce o daném vesmíru.',
+  'blog.lists.stories.disclaimer':
+    'Zde jsou pouze samostatné příběhy. Pokud byl příběh napsán jako součást vesmíru tak jej naleznete na stránce o daném vesmíru.',
 
   // added 2017-10-04
   'common.settings.payments': 'Nastavení plateb',

@@ -9,7 +9,8 @@ export default {
       defaultLocale: 'en-US',
       supportedLocales: ['en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
       rtl: false
-    }, {
+    },
+    {
       code: 'cs',
       name: 'Czech',
       native: 'Česky',
