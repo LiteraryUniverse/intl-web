@@ -1,5 +1,8 @@
 # Changelog for languages
 
+## 2018-01-26
+  * Renamed some keys
+
 ## 2016-12-21
   * Removed duplicate keys
   * added more terms
