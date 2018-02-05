@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2018-02-05
+  * Added language for unread messages
+  * `cs` Translated blog messages
+
 ## 2018-02-04
   * Added language for collaborator requests
   * Updated key `workshop.none`

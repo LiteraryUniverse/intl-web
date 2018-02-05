@@ -1211,31 +1211,33 @@ export default {
   }.`,
 
   // added 2017-06-10
-  'blog.noneMsg': `You currently don't have {type, select,
-    org {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+  'blog.noneMsg': `Momentálně nemáte {type, select,
+    org {žádný blog}
+    universe {stránky pro svůj vesmír}
+    user {osobní blog}
   }.`,
-  'blog.create': 'Create a new blog',
+  'blog.create': 'Vytvořit nový blog',
   'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Stránky pro vesmír}
     user {Blog}
   } settings`,
-  'blog.description': 'Blog introduction',
-  'blog.theme': 'Theme',
+  'blog.description': 'Představení',
+  'blog.theme': 'Vzhled',
   'blog.theme.info':
-    'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-  'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-  'blog.post.create': 'Create a new post',
-  'blog.post.update': 'Editing {title}',
-  'blog.post.text': 'Post text',
+    'Změnou následujících parametrů můžete změnit vzhled blogu. Tato funkcionalita je momentálně v přípravě.',
+  'blog.posts.total': `Tento blog {total, plural,
+    zero {nemá žádné články}
+    one {má jeden článek}
+    few {má # články}
+    many {má # článků}
+  }.`,
+  'blog.post.create': 'Vytvořit nový článek',
+  'blog.post.update': 'Editace {title}',
+  'blog.post.text': 'Text článku',
   'common.slug': 'SEO adresa',
-  'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
+  'blog.slug.explained':
+    'Hezky vypadajíc adresa pro článek. Vyhněte se používání speciálnách znaků a diaktritiky mimo "-".',
   'blog.publicView': 'Veřejná verze',
 
   // added 2017-07-08
@@ -1256,7 +1258,15 @@ export default {
   'error.title': 'Nastala chyba! Moc se omlouváme.',
 
   // added 2018-02-04
-  'workshop.collaborators.requests.sent': 'Poslané pozvánky'
+  'workshop.collaborators.requests.sent': 'Poslané pozvánky',
+
+  // added 2018-02-05
+  'pm.conversations.unreadCount': `Máte {count, plural,
+    zero {0 nepřečtených konverzacích}
+    one {jednu nepřečtenou konverzaci}
+    few {# nepřečtené konverzace}
+    many {# nepřečtených konverzacích}
+  }.`
 };
 
 /* eslint-enable max-len */

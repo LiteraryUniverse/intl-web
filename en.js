@@ -1253,7 +1253,14 @@ export default {
     beta {beta reader}
     translator {translator}
     collaborator {collaborator}
-  } for the following:`
+  } for the following:`,
+
+  // added 2018-02-05
+  'pm.conversations.unreadCount': `You have {count, plural,
+    zero {no unread conversations}
+    one {one unread conversation}
+    other {# unread conversations}
+  }.`
 };
 
 /* eslint-enable max-len */
