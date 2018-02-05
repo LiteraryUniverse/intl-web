@@ -253,7 +253,11 @@ export default {
   'workshop.title': 'Vaše tvorba',
   'workshop.noneassigned': 'Zatím Vám bebyl žádný přidělen.',
   'workshop.notavailable': 'Tahle funkcionalita není momentálně přístupná.',
-  'workshop.none': 'Momentálně nemáte žádný {name}. Vytvořte nový!',
+  'workshop.none': `Momentálně nemáte žádný {type, select,
+      universe {vesmír. Vytvořte nový!}
+      story {příběh. Vytvořte nový!}
+      fanfiction {fan fikci. Vytvořte novou!}
+    }`,
   'workshop.collab': 'Collaborative work',
   'workshop.betareadings': 'Beta čtení',
   'workshop.translations': 'Překlady',
@@ -1249,7 +1253,10 @@ export default {
   'common.nodata': 'Žádná data',
 
   // added 2017-11-25
-  'error.title': 'Nastala chyba!'
+  'error.title': 'Nastala chyba! Moc se omlouváme.',
+
+  // added 2018-02-04
+  'workshop.collaborators.requests.sent': 'Poslané pozvánky'
 };
 
 /* eslint-enable max-len */

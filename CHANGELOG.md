@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2018-02-04
+  * Added language for collaborator requests
+  * Updated key `workshop.none`
+
 ## 2018-01-26
   * Renamed some keys
 

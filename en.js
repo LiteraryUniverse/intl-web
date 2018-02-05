@@ -251,7 +251,11 @@ export default {
   'workshop.title': 'Your work',
   'workshop.noneassigned': 'You have not been assigned any yet.',
   'workshop.notavailable': 'This feature is not yet available.',
-  'workshop.none': 'You currently have no {name}. Create one now!',
+  'workshop.none': `You currently have no {type, select,
+      universe {universe}
+      story {story}
+      fanfiction {fan fiction}
+    }. Create one now!`,
   'workshop.collab': 'Collaborative work',
   'workshop.betareadings': 'Beta readings',
   'workshop.translations': 'Translations',
@@ -1241,7 +1245,15 @@ export default {
   'common.nodata': 'No data',
 
   // added 2017-11-25
-  'error.title': 'An error has occurred!'
+  'error.title': 'An error has occurred. We apologize for the inconvenience.',
+
+  // added 2018-02-04
+  'workshop.collaborators.requests.sent': 'Sent requests',
+  'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
+    beta {beta reader}
+    translator {translator}
+    collaborator {collaborator}
+  } for the following:`
 };
 
 /* eslint-enable max-len */
