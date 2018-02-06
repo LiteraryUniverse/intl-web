@@ -1260,6 +1260,13 @@ export default {
     zero {no unread conversations}
     one {one unread conversation}
     other {# unread conversations}
+  }.`,
+
+  // added 2018-02-06
+  'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
+    zero {no work}
+    one {one literary work}
+    other {# literary works}
   }.`
 };
 

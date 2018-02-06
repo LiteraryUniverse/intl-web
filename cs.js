@@ -1266,6 +1266,14 @@ export default {
     one {jednu nepřečtenou konverzaci}
     few {# nepřečtené konverzace}
     many {# nepřečtených konverzacích}
+  }.`,
+
+  // added 2018-02-06
+  'workshop.collaborators.requests.dashboard': `Byly jste přizváni ke spolupráci na {count, plural,
+    zero {... počkat tohle byste neměli vidět!}
+    one {jednom literární práci}
+    few {# literárních pracích}
+    many {# literárních pracích}
   }.`
 };
 

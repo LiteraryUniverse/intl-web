@@ -1,5 +1,8 @@
 # Changelog for languages
 
+## 2018-02-06
+  * Added key for workshop invite tile
+
 ## 2018-02-05
   * Added language for unread messages
   * `cs` Translated blog messages
