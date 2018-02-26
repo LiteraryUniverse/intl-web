@@ -1,5 +1,8 @@
 # Changelog for languages
 
+## 2018-02-26
+  * Added keys for social login buttons
+
 ## 2018-02-06
   * Added key for workshop invite tile
 

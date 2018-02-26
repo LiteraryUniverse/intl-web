@@ -1274,7 +1274,30 @@ export default {
     one {jednom literární práci}
     few {# literárních pracích}
     many {# literárních pracích}
-  }.`
+  }.`,
+
+  // added 2018-02-26
+  'settings.socialConnect': 'Spojte Váš účet s účty od jiných služeb',
+  'service.facebook.login': 'Přihlásit se s Facebookem',
+  'service.facebook.connect': 'Spojit s Facebookem',
+  'service.twitter.login': 'Přihlásit se s Twitterem',
+  'service.twitter.connect': 'Spojit s Twitterem',
+  'service.wattpad.login': 'Přihlásit se s Wattpadem',
+  'service.wattpad.connect': 'Spojit s Wattpaded',
+  'service.google.login': 'Přihlásit se s Googlem',
+  'service.google.connect': 'CSpojit s Googlem',
+  'service.meteor-developer.login': 'Přihlásit se s Vývojářským účtem Meteoru',
+  'service.meteor-developer.connect': 'Spojit s Vývojářským účtem Meteoru',
+  'service.meetup.login': 'Přihlásit se s Meetupem',
+  'service.meetup.connect': 'Spojit s Meetupem',
+  'service.weibo.login': 'Přihlásit se s Weibo',
+  'service.weibo.connect': 'Spojit s Weibo',
+  'service.github.login': 'Přihlásit se s Githubem',
+  'service.github.connect': 'Spojit s Githubem',
+  'service.line.login': 'Přihlásit se s LINE',
+  'service.line.connect': 'Spojit s LINE',
+  'service.goodreads.login': 'Přihlásit se s Goodreads',
+  'service.goodreads.connect': 'Spojit s Goodreads'
 };
 
 /* eslint-enable max-len */

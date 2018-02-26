@@ -1267,7 +1267,30 @@ export default {
     zero {no work}
     one {one literary work}
     other {# literary works}
-  }.`
+  }.`,
+
+  // added 2018-02-26
+  'settings.socialConnect': 'Connect with your accounts from other services',
+  'service.facebook.login': 'Login with Facebook',
+  'service.facebook.connect': 'Connect to Facebook',
+  'service.twitter.login': 'Login with Twitter',
+  'service.twitter.connect': 'Connect to Twitter',
+  'service.wattpad.login': 'Login with Wattpad',
+  'service.wattpad.connect': 'Connect to Wattpad',
+  'service.google.login': 'Login with Google',
+  'service.google.connect': 'Connect to Google',
+  'service.meteor-developer.login': 'Login with Meteor Developer Account',
+  'service.meteor-developer.connect': 'Connect to Meteor Developer Account',
+  'service.meetup.login': 'Login with Meetup',
+  'service.meetup.connect': 'Connect to Meetup',
+  'service.weibo.login': 'Login with Weibo',
+  'service.weibo.connect': 'Connect to Weibo',
+  'service.github.login': 'Login with Github',
+  'service.github.connect': 'Connect to Github',
+  'service.line.login': 'Login with LINE',
+  'service.line.connect': 'Connect to LINE',
+  'service.goodreads.login': 'Login with Goodreads',
+  'service.goodreads.connect': 'Connect to Goodreads'
 };
 
 /* eslint-enable max-len */
