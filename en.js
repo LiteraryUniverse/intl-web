@@ -1300,7 +1300,26 @@ export default {
   'service.line.disconnect': 'Disconnect from LINE account',
   'service.goodreads.login': 'Login with Goodreads',
   'service.goodreads.connect': 'Connect to Goodreads',
-  'service.goodreads.disconnect': 'Disconnect from Goodreads account'
+  'service.goodreads.disconnect': 'Disconnect from Goodreads account',
+
+  // added 2018-02-28
+  'settings.export.title': 'Export Data',
+  'settings.export.explain':
+    'This will allow you to get all your data that is stored in our database in a json format.',
+  'settings.export.submit': 'Export data',
+  'settings.delete.title': 'Delete Account',
+  'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
+    there is no way of getting it back. Note that this might not automatically delete your published works,
+    comments, etc. Please refer to Terms of Service for details.`,
+  'settings.delete.confirm': 'Just to make sure. Are you sure you want to delete your account?',
+  'settings.delete.cancel': `I don't want to delete my account`,
+  'settings.delete.submit': 'Delete my account',
+  'settings.legal.title': 'Legal agreements',
+  'settings.legal.explained': 'Here you can manage your agreement to various legal documents.',
+  'settings.name.public': 'Display name publicly',
+  'settings.emailSubscriptions.title': 'E-mail notifications settings',
+  'settings.emailSubscriptions.explain': 'Select which e-mail notifications do you want to receive from us.',
+  'settings.emailSubscriptions.newsletter': 'Occasional newsletter'
 };
 
 /* eslint-enable max-len */

@@ -1,5 +1,8 @@
 # Changelog for languages
 
+## 2018-02-28
+  * Added keys for new settings options part of GDPR efforts
+
 ## 2018-02-26
   * Added keys for social login buttons
 

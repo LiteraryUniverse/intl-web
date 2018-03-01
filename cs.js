@@ -1307,7 +1307,25 @@ export default {
   'service.line.disconnect': 'Zrušit spojení s LINE',
   'service.goodreads.login': 'Přihlásit se s Goodreads',
   'service.goodreads.connect': 'Spojit s Goodreads',
-  'service.goodreads.disconnect': 'Zrušit spojení s Goodreads'
+  'service.goodreads.disconnect': 'Zrušit spojení s Goodreads',
+
+  // added 2018-02-28
+  'settings.export.title': 'Exportovat Data',
+  'settings.export.explain': 'Toto Vám umožní získat všechna Vaše data které jsou v naší databazi ve formátu json.',
+  'settings.export.submit': 'Exportovat data',
+  'settings.delete.title': 'Smazat účet',
+  'settings.delete.warning': `VAROVÁNÍ: Smazáním Vašeho účtu ztratíte přístup a není ho možno získat zpět
+    Berte na vědomí že tato akce nemusí automaticky smazat Vaše publikovaná díla, komentáře, atd.
+    Více informací je k dispozici ve smluvních podmínkách.`,
+  'settings.delete.confirm': 'Jenom pro jistotu. Jste si jistí že chcete smazat Váš účet?',
+  'settings.delete.cancel': 'Nechci zrušit účet',
+  'settings.delete.submit': 'Smazat můj účet',
+  'settings.legal.title': 'Právní ujednání a souhlasy',
+  'settings.legal.explained': 'Zde můžete spravovat Váš souhlas s různými právními ustatnoveními',
+  'settings.name.public': 'Zobrazit jméno veřejně',
+  'settings.emailSubscriptions.title': 'Nastavení e-mailových zpráv',
+  'settings.emailSubscriptions.explain': 'Vyberte jaké e-mailové zprávy od nás chcete dostávat',
+  'settings.emailSubscriptions.newsletter': 'Občasné zprávy o novinkách'
 };
 
 /* eslint-enable max-len */
