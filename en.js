@@ -67,6 +67,7 @@ export default {
   404: 'Page not found',
   'search.users': 'Search for users',
   'common.help': 'Help',
+  'common.or': 'or',
 
   'settings.biography': 'Biography',
   'settings.biography.placeholder': 'A little bit about yourself to be shown on your profile.',
@@ -517,6 +518,8 @@ export default {
   'plans.price': 'Price',
   'plans.price.free': 'Free',
   'plans.price.monthly': 'a month',
+  'plans.price.perMonth': ' / month',
+  'plans.price.perYear': ' / year',
   'plans.development': 'In development',
   'plans.feature.publishing': 'Publishing and selling stories',
   'plans.feature.scratchpad.pads': `{num, plural,

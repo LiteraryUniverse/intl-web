@@ -66,6 +66,7 @@ export default {
   404: 'Stránka nenalezena',
   'search.users': 'Najdi uživatele',
   'common.help': 'Nápověda',
+  'common.or': 'nebo',
 
   'settings.biography': 'O Vás',
   'settings.biography.placeholder': 'Něco málo o Vás, pro Váš profil.',
@@ -523,6 +524,8 @@ export default {
   'plans.price': 'Cena',
   'plans.price.free': 'Zadarmo',
   'plans.price.monthly': 'měsíčně',
+  'plans.price.perMonth': ' / měsíc',
+  'plans.price.perYear': ' / rok',
   'plans.development': 'Ve vývoji',
   'plans.feature.publishing': 'Publikace a prodej příběhů',
   'plans.feature.scratchpad.pads': `{num, plural,
