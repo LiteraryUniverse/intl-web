@@ -1322,7 +1322,10 @@ export default {
   'settings.name.public': 'Display name publicly',
   'settings.emailSubscriptions.title': 'E-mail notifications settings',
   'settings.emailSubscriptions.explain': 'Select which e-mail notifications do you want to receive from us.',
-  'settings.emailSubscriptions.newsletter': 'Occasional newsletter'
+  'settings.emailSubscriptions.newsletter': 'Occasional newsletter',
+
+  // added 2018-04-20
+  'common.offlineStatus': 'You are currently offline.'
 };
 
 /* eslint-enable max-len */

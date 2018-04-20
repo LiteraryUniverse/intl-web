@@ -1328,7 +1328,10 @@ export default {
   'settings.name.public': 'Zobrazit jméno veřejně',
   'settings.emailSubscriptions.title': 'Nastavení e-mailových zpráv',
   'settings.emailSubscriptions.explain': 'Vyberte jaké e-mailové zprávy od nás chcete dostávat',
-  'settings.emailSubscriptions.newsletter': 'Občasné zprávy o novinkách'
+  'settings.emailSubscriptions.newsletter': 'Občasné zprávy o novinkách',
+
+  // added 2018-04-20
+  'common.offlineStatus': 'Nejste připojeni k Internetu.'
 };
 
 /* eslint-enable max-len */
