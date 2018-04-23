@@ -1331,7 +1331,14 @@ export default {
   'settings.emailSubscriptions.newsletter': 'Občasné zprávy o novinkách',
 
   // added 2018-04-20
-  'common.offlineStatus': 'Nejste připojeni k Internetu.'
+  'common.offlineStatus': 'Nejste připojeni k Internetu.',
+
+  // added 2018-04-22
+  'legal.modal.intro':
+    'Omlouváme se za vyrušení. Než Vás pustíme dál, jsme zákoně povinni, zajistit že rozumíte a souhlasíte s našima smlouvníma podmínkama, ochranou osobních údajů a Autorskými právy.',
+  'legal.modal.agree': 'Souhlasím',
+  'legal.modal.disagree': 'Nesouhlasím',
+  'legal.modal.register': `Pokud si u nás vytvoříte účet toto se Vám již nebude zobrazovat.`
 };
 
 /* eslint-enable max-len */
