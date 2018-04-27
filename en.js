@@ -431,7 +431,7 @@ export default {
   // https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
   'licenses.about': 'About licenses',
   'licenses.more': 'More information',
-  'licenses.legal': 'Legal document',
+  'licenses.legal': 'User_consent document',
   'licenses.name.cc-by': 'Creative Commons Attribution 4.0',
   'licenses.cc-by':
     'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
@@ -1317,7 +1317,7 @@ export default {
   'settings.delete.confirm': 'Just to make sure. Are you sure you want to delete your account?',
   'settings.delete.cancel': `I don't want to delete my account`,
   'settings.delete.submit': 'Delete my account',
-  'settings.legal.title': 'Legal agreements',
+  'settings.legal.title': 'User consent agreements',
   'settings.legal.explained': 'Here you can manage your agreement to various legal documents.',
   'settings.name.public': 'Display name publicly',
   'settings.emailSubscriptions.title': 'E-mail notifications settings',
@@ -1332,7 +1332,11 @@ export default {
     'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
   'legal.modal.agree': 'I Agree',
   'legal.modal.disagree': 'I Disagree',
-  'legal.modal.register': `You won't see this anymore if you register.`
+  'legal.modal.register': `You won't see this anymore if you register.`,
+  // added 2018-04-27
+  'legal.modal.goToSettings': 'Go to your settings',
+  'settings.profile': 'Profile settings',
+  'settings.account': 'Account settings'
 };
 
 /* eslint-enable max-len */

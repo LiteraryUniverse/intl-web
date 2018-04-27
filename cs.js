@@ -1338,7 +1338,11 @@ export default {
     'Omlouváme se za vyrušení. Než Vás pustíme dál, jsme zákoně povinni, zajistit že rozumíte a souhlasíte s našima smlouvníma podmínkama, ochranou osobních údajů a Autorskými právy.',
   'legal.modal.agree': 'Souhlasím',
   'legal.modal.disagree': 'Nesouhlasím',
-  'legal.modal.register': `Pokud si u nás vytvoříte účet toto se Vám již nebude zobrazovat.`
+  'legal.modal.register': `Pokud si u nás vytvoříte účet toto se Vám již nebude zobrazovat.`,
+  // added 2018-04-27
+  'legal.modal.goToSettings': 'Jít do nastavení',
+  'settings.profile': 'Nastavení profilu',
+  'settings.account': 'Nastavení účtu'
 };
 
 /* eslint-enable max-len */

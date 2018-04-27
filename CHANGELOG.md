@@ -1,5 +1,8 @@
 # Changelog for languages
 
+## 2018-04-27
+  * Added keys for new legal settings
+
 ## 2018-02-28
   * Added keys for new settings options part of GDPR efforts
 
