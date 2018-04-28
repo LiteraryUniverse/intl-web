@@ -431,7 +431,7 @@ export default {
   // https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
   'licenses.about': 'About licenses',
   'licenses.more': 'More information',
-  'licenses.legal': 'User_consent document',
+  'licenses.legal': 'Legal document',
   'licenses.name.cc-by': 'Creative Commons Attribution 4.0',
   'licenses.cc-by':
     'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
