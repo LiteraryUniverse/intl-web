@@ -1336,7 +1336,10 @@ export default {
   // added 2018-04-27
   'legal.modal.goToSettings': 'Go to your settings',
   'settings.profile': 'Profile settings',
-  'settings.account': 'Account settings'
+  'settings.account': 'Account settings',
+  // added 2018-04-30
+  'settings.legal.export.download': 'Download Your data',
+  'settings.legal.export.gathering': 'Gathering Your data... This might take a while.'
 };
 
 /* eslint-enable max-len */

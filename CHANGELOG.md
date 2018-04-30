@@ -1,5 +1,8 @@
 # Changelog for languages
 
+## 2018-04-30
+  * Added keys for exporting user data
+
 ## 2018-04-27
   * Added keys for new legal settings
 

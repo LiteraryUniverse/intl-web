@@ -1342,7 +1342,10 @@ export default {
   // added 2018-04-27
   'legal.modal.goToSettings': 'Jít do nastavení',
   'settings.profile': 'Nastavení profilu',
-  'settings.account': 'Nastavení účtu'
+  'settings.account': 'Nastavení účtu',
+  // added 2018-04-30
+  'settings.legal.export.download': 'Stáhněte si Vaše data',
+  'settings.legal.export.gathering': 'Shromažďujeme Vaše data... Tohle může chvilku trvat.'
 };
 
 /* eslint-enable max-len */
