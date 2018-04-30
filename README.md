@@ -1,4 +1,6 @@
 # intl-web
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiteraryUniverse%2Fintl-web.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiteraryUniverse%2Fintl-web?ref=badge_shield)
+
 Localization for Literary Universe web app.
 
 ## Found an issue or type?
@@ -47,3 +49,7 @@ If you have any questions feel free to open issue or to contact us.
 * [Message Syntax](http://formatjs.io/guides/message-syntax/)
 * [ICU Guide](http://userguide.icu-project.org/formatparse/messages)
 * [Languages plural rules](https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiteraryUniverse%2Fintl-web.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiteraryUniverse%2Fintl-web?ref=badge_large)
