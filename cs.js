@@ -202,7 +202,10 @@ export default {
   'universe.translators': 'Překladatelé',
   'universe.authors.notice':
     'Each story might have additional personal that has worked on it. For more details see the details of the story.',
-  'universe.createdby': 'Vytvořeno ',
+  'universe.createdby': `{gender, select,
+    male {Vyvořil}
+    female {Vytvořila}
+    other {Vytvořil}}`,
   'universe.stories.for': 'Příběhy z {universe}',
   'universe.stories.own': '{universe} příběhy',
   'universe.stories.desc': 'Cannon příběhy pro {universe}',
@@ -282,7 +285,7 @@ export default {
   'workshop.settings.title.required': 'Title is required',
   'workshop.description': 'Synopce',
   'workshop.language.primary': 'Hlavní jazyk',
-  'workshop.publication.opions': 'Publication options',
+  'workshop.publication.opions': 'Možnosti publikace',
   'workshop.rating': 'Rating',
   'workshop.universe.rating.desc':
     'Příběhy a fan fikce nad tento rating nebudou zobrazeny na strance vesmíru anonymním uživatelům a uzivatelům kteří nedosáhli požadovaného věku.',
@@ -1345,7 +1348,22 @@ export default {
   'settings.account': 'Nastavení účtu',
   // added 2018-04-30
   'settings.legal.export.download': 'Stáhněte si Vaše data',
-  'settings.legal.export.gathering': 'Shromažďujeme Vaše data... Tohle může chvilku trvat.'
+  'settings.legal.export.gathering': 'Shromažďujeme Vaše data... Tohle může chvilku trvat.',
+  male: 'Muž',
+  female: 'Žena',
+  other: 'Jiné',
+  'settings.gender.title': 'Vaše pohlaví',
+  'settings.gender.usage':
+    'Tato informace nebude veřejná. Tuto informaci používáme pro souhrné statistiky a pro anonymizované statistiky pro autory když čtete jejich tvorbu.',
+  'settings.age.title': 'Váš věk',
+  'settings.age.usage':
+    'Tato informace nebude veřejná. Jsme zákonně vázani zeptat se Vás na Váš věk. Tuto informaci používáme pro souhrné statistiky, zobrazování obsahu dle věkového ohodnocení a pro anonymizované statistiky pro autory když čtete jejich tvorbu.',
+  'settings.age.explicit': 'Zobrazit explicitní obsah (věkové hodnocení 21+)',
+  'settings.country.title': 'Vaše země',
+  'settings.country.usage':
+    'Jsme zákonně vázani zjistit Vaší zemi abychom byli schopni odpovědět na státní dotazy. Tuto informaci používáme pro souhrné statistiky a pro anonymizované statistiky pro autory když čtete jejich tvorbu. Zdali chcete můžete tuto informaci zobrazit na Vašem profilu.',
+  'settings.country.public': 'Zobrazit Vaší veřejně na Vašem profilu',
+  'settings.country.select': 'Vyberte Vaší zemi'
 };
 
 /* eslint-enable max-len */

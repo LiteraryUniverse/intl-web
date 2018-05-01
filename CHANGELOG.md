@@ -2,6 +2,8 @@
 
 ## 2018-04-30
   * Added keys for exporting user data
+  * `universe.createdby` has been fixed to include gendered options.
+  * Added keys for new settings for age, birthday and country
 
 ## 2018-04-27
   * Added keys for new legal settings

@@ -201,7 +201,10 @@ export default {
   'universe.translators': 'Translators',
   'universe.authors.notice':
     'Each story might have additional personal that has worked on it. For more details see the details of the story.',
-  'universe.createdby': 'Created by ', // TODO add gender recognition
+  'universe.createdby': `{gender, select,
+    male {Created}
+    female {Created}
+    other {Created}} by`,
   'universe.stories.for': 'Stories for {universe}',
   'universe.stories.own': '{universe} stories',
   'universe.stories.desc': 'Cannon stories for {universe}',
@@ -1339,7 +1342,22 @@ export default {
   'settings.account': 'Account settings',
   // added 2018-04-30
   'settings.legal.export.download': 'Download Your data',
-  'settings.legal.export.gathering': 'Gathering Your data... This might take a while.'
+  'settings.legal.export.gathering': 'Gathering Your data... This might take a while.',
+  male: 'Male',
+  female: 'Female',
+  other: 'Other',
+  'settings.gender.title': 'Your gender',
+  'settings.gender.usage':
+    'This information will remain private. We use this data for platform analytics and in anonymized analytics to creators when you read their stories.',
+  'settings.age.title': 'Your age',
+  'settings.age.explicit': 'Show explicit content (rating age 21+)',
+  'settings.age.usage':
+    'This information will remain private. We are legally obliged to inquire about your age. We use this data for platform analytics, displaying content based on ratings and in anonymized analytics to creators when you read their stories.',
+  'settings.country.title': 'Your country',
+  'settings.country.usage':
+    'We are legally obliged to inquire about your country in order to respond to government inquiries. We use this data for platform analytics and in anonymized analytics to creators when you read their stories. If you wish you can display this information on your profile.',
+  'settings.country.public': 'Display your country publicly',
+  'settings.country.select': 'Select your country'
 };
 
 /* eslint-enable max-len */
