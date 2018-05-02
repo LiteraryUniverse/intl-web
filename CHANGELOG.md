@@ -1,5 +1,11 @@
 # Changelog for languages
 
+## 2018-05-02
+  * Extracted language names out of the main dictionary
+  * Added list of countries
+  * New settings for new writing languages
+  * New keys for creating challenges
+
 ## 2018-04-30
   * Added keys for exporting user data
   * `universe.createdby` has been fixed to include gendered options.
