@@ -112,7 +112,7 @@ export default {
   'common.footer.tagline': 'Psaní a čtení rozsáhlých vesmírů jednoduše.',
   'common.footer.plans': 'Plany a ceny',
   'common.legal.tos': 'Smluvní podmínky',
-  'common.legal.guidelines': 'Community Guidelines',
+  'common.legal.community': 'Community Guidelines',
   'common.legal.privacy': 'Ochrana osobních údajů',
   'common.legal.copyright': 'Autorská práva',
   'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich náležitým vlastníkům.',
@@ -509,14 +509,6 @@ export default {
   'copyrights.desc': 'Plné znění autorských práv pro Literary Universe.',
   'privacy.desc': 'Plné znění pro ochranu osobních údajů na Literary Universe.',
   'guidelines.desc': 'Community Guidelines of Literary Universe.',
-  'guidelines.tldr': 'Ve zkratce: Buďte úžesní k ostatním!',
-  'guidelines.text.1':
-    'This site has writers at every level of experience. It is important to respect your fellow writers and help them to succeed.',
-  'guidelines.text.2':
-    'Collaborators, beta readers and reviewers are the backbone of our work. They help us improve as writers and make the reading experience more enjoyable for everyone. Please be respectful even when they are critical because without their efforts we would all have a much more difficult time editing our work.',
-  'guidelines.text.3':
-    'Readers please be constructive in any critiques. Writers put in a lot of effort to create content for you to enjoy. If you do not like their work please leave reviews that are helpful and not just rude or nonsensical.',
-  'guidelines.text.4': 'Pokud narazíte na nějaké problémy, kontaktujde adminy.',
   'tos.desc': 'Plné znění smluvních podmínek pro Literary Universe.',
   'plans.desc': 'Seznam plánů a funkcionality pro Literary Universe.',
   'plans.text':
@@ -933,7 +925,9 @@ export default {
   'challenges.underway': 'Tato výzva je již aktivní.',
   'challenges.targetWords': 'Cíl počtu slov',
   'challenges.startDate': 'Začátek výzvy',
-  'challenges.endDate': 'Konec výzvy'
+  'challenges.endDate': 'Konec výzvy',
+  // added 2018-05-18
+  'common.legal.effectiveAt': 'Platí od'
 };
 
 /* eslint-enable max-len */

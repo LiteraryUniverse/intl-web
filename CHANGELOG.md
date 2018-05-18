@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2018-05-18
+  * New key for legal display.
+  * Removed no longer used guidelines text.
+
 ## 2018-05-02
   * Extracted language names out of the main dictionary
   * Added list of countries

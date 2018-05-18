@@ -113,7 +113,7 @@ export default {
   'common.footer.tagline': 'Writing and reading complex universes made easy.',
   'common.footer.plans': 'Plans & Pricing',
   'common.legal.tos': 'Terms of Service',
-  'common.legal.guidelines': 'Community Guidelines',
+  'common.legal.community': 'Community Guidelines',
   'common.legal.privacy': 'Privacy Policy',
   'common.legal.copyright': 'Copyright Agreement',
   'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
@@ -503,14 +503,6 @@ export default {
   'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
   'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
   'guidelines.desc': 'Community Guidelines of Literary Universe.',
-  'guidelines.tldr': 'TL;DR: Be excellent to each other!',
-  'guidelines.text.1':
-    'This site has writers at every level of experience. It is important to respect your fellow writers and help them to succeed.',
-  'guidelines.text.2':
-    'Collaborators, beta readers and reviewers are the backbone of our work. They help us improve as writers and make the reading experience more enjoyable for everyone. Please be respectful even when they are critical because without their efforts we would all have a much more difficult time editing our work.',
-  'guidelines.text.3':
-    'Readers please be constructive in any critiques. Writers put in a lot of effort to create content for you to enjoy. If you do not like their work please leave reviews that are helpful and not just rude or nonsensical.',
-  'guidelines.text.4': 'If you run into any issues contact the admins.',
   'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
   'plans.desc': 'Description of plans and features of Literary Universe.',
   'plans.text':
@@ -927,7 +919,9 @@ export default {
   'challenges.underway': 'This challenge is already underway.',
   'challenges.targetWords': 'Total targeted word count',
   'challenges.startDate': 'Start date',
-  'challenges.endDate': 'End date'
+  'challenges.endDate': 'End date',
+  // added 2018-05-18
+  'common.legal.effectiveAt': 'Effective from'
 };
 
 /* eslint-enable max-len */
