@@ -505,8 +505,9 @@ export default {
   'guidelines.desc': 'Community Guidelines of Literary Universe.',
   'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
   'plans.desc': 'Description of plans and features of Literary Universe.',
+  'plans.title': 'Get more out of Literary Universe!',
   'plans.text':
-    'Literary Universe is by default free for all users to use. We also offer additional features to improve what you can do with Literary Universe.',
+    'Literary Universe offers the basics for free. There great things available for premium users. Unlock its true power!',
   'plans.account.free': 'Free account',
   'plans.account.premium': 'Premium account',
   'plans.eta': 'Coming ',

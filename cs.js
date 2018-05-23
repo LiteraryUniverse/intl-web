@@ -511,8 +511,9 @@ export default {
   'guidelines.desc': 'Community Guidelines of Literary Universe.',
   'tos.desc': 'Plné znění smluvních podmínek pro Literary Universe.',
   'plans.desc': 'Seznam plánů a funkcionality pro Literary Universe.',
+  'plans.title': 'Udělejte více s Literary Universe!',
   'plans.text':
-    'Literary Universe je v základní verzi zdarma. Nabízíme však premium verzi, která nabízí více možností.',
+    'Literary Universe je v základní verzi zdarma. Pro prémiové uživatelé máme k dispozici super věci! Odemkněte plnou sílu Literary Universe!',
   'plans.account.free': 'Zakladní účet',
   'plans.account.premium': 'Premiový účet',
   'plans.eta': 'Plánováno na ',
