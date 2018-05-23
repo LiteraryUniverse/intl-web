@@ -151,6 +151,7 @@ export default {
   'user.friend.request.deny': 'Deny friendship',
   'user.listing': 'User listing',
   'user.profile.visit': "Visit {user}'s profile.",
+  'user.profile.avatar': "{username}'s avatar",
   'user.friend.list.requests': 'Friendships requests',
   'user.friend.norequests': 'You have no requests for friendship.',
 

@@ -2,6 +2,7 @@
 
 ## 2018-05-23
   * Updated keys for plans page
+  * Add key for profile avatar img alt
 
 ## 2018-05-18
   * New key for legal display.
