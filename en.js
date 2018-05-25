@@ -903,7 +903,6 @@ export default {
   'settings.legal.export.gathering': 'Gathering Your data... This might take a while.',
   male: 'Male',
   female: 'Female',
-  other: 'Other',
   'settings.gender.title': 'Your gender',
   'settings.gender.usage':
     'This information will remain private. We use this data for platform analytics and in anonymized analytics to creators when you read their stories.',
@@ -923,7 +922,11 @@ export default {
   'challenges.startDate': 'Start date',
   'challenges.endDate': 'End date',
   // added 2018-05-18
-  'common.legal.effectiveAt': 'Effective from'
+  'common.legal.effectiveAt': 'Effective from',
+  // added 2018-05-24
+  select: 'Please select',
+  'legal.modal.fewmore': 'Few more things...',
+  'legal.modal.finish': 'Finish'
 };
 
 /* eslint-enable max-len */

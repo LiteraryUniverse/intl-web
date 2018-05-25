@@ -909,7 +909,6 @@ export default {
   'settings.legal.export.gathering': 'Shromažďujeme Vaše data... Tohle může chvilku trvat.',
   male: 'Muž',
   female: 'Žena',
-  other: 'Jiné',
   'settings.gender.title': 'Vaše pohlaví',
   'settings.gender.usage':
     'Tato informace nebude veřejná. Tuto informaci používáme pro souhrné statistiky a pro anonymizované statistiky pro autory když čtete jejich tvorbu.',
@@ -929,7 +928,11 @@ export default {
   'challenges.startDate': 'Začátek výzvy',
   'challenges.endDate': 'Konec výzvy',
   // added 2018-05-18
-  'common.legal.effectiveAt': 'Platí od'
+  'common.legal.effectiveAt': 'Platí od',
+  // added 2018-05-24
+  select: 'Prosím vyberte',
+  'legal.modal.fewmore': 'Ještě pár drobností...',
+  'legal.modal.finish': 'Dokončit'
 };
 
 /* eslint-enable max-len */
