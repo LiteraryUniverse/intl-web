@@ -926,7 +926,9 @@ export default {
   // added 2018-05-24
   select: 'Please select',
   'legal.modal.fewmore': 'Few more things...',
-  'legal.modal.finish': 'Finish'
+  'legal.modal.finish': 'Finish',
+  // added 2018-05-30
+  'writer.wordcount': '{characters, number} characters, {words, number} words'
 };
 
 /* eslint-enable max-len */

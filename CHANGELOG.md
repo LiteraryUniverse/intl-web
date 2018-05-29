@@ -1,6 +1,9 @@
 # Changelog for languages
 
-## 2018-05-23
+## 2015-05-30
+  * Added handling of word count for the editor.
+
+## 2018-05-24
   * Updated keys for plans page
   * Add key for profile avatar img alt
 

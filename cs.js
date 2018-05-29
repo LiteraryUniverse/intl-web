@@ -932,7 +932,9 @@ export default {
   // added 2018-05-24
   select: 'Prosím vyberte',
   'legal.modal.fewmore': 'Ještě pár drobností...',
-  'legal.modal.finish': 'Dokončit'
+  'legal.modal.finish': 'Dokončit',
+  // added 2018-05-30
+  'writer.wordcount': '{characters, number} písmen, {words, number} slov'
 };
 
 /* eslint-enable max-len */
