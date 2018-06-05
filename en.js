@@ -928,7 +928,10 @@ export default {
   'legal.modal.fewmore': 'Few more things...',
   'legal.modal.finish': 'Finish',
   // added 2018-05-30
-  'writer.wordcount': '{characters, number} characters, {words, number} words'
+  'writer.wordcount': '{characters, number} characters, {words, number} words',
+  // added 2018-06-05
+  'common.statusFailed': 'Failed to connect to the server.',
+  'common.statusConnecting': 'Attempting to connect to the server... ({count, number})'
 };
 
 /* eslint-enable max-len */

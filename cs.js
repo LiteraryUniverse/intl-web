@@ -934,7 +934,10 @@ export default {
   'legal.modal.fewmore': 'Ještě pár drobností...',
   'legal.modal.finish': 'Dokončit',
   // added 2018-05-30
-  'writer.wordcount': '{characters, number} písmen, {words, number} slov'
+  'writer.wordcount': '{characters, number} písmen, {words, number} slov',
+  // added 2018-06-05
+  'common.statusFailed': 'Nepodařilo se navázat spojení se serverem.',
+  'common.statusConnecting': 'Pokouším se připojit k serveru... ({count, number})'
 };
 
 /* eslint-enable max-len */
