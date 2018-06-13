@@ -1,8 +1,11 @@
 # Changelog for languages
-## 2015-06-05
+## 2018-06-13
+  * Added entries for url slug checking.
+
+## 2018-06-05
   * Added 2 new entries for server connection status.
 
-## 2015-05-30
+## 2018-05-30
   * Added handling of word count for the editor.
 
 ## 2018-05-24

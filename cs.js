@@ -937,7 +937,11 @@ export default {
   'writer.wordcount': '{characters, number} písmen, {words, number} slov',
   // added 2018-06-05
   'common.statusFailed': 'Nepodařilo se navázat spojení se serverem.',
-  'common.statusConnecting': 'Pokouším se připojit k serveru... ({count, number})'
+  'common.statusConnecting': 'Pokouším se připojit k serveru... ({count, number})',
+  // added 2018-06-13
+  'slug.checking': 'Ověřuji...',
+  'slug.failed': 'Tato adresa již existuje.',
+  'slug.success': 'Tato adresa je volná!'
 };
 
 /* eslint-enable max-len */

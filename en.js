@@ -931,7 +931,11 @@ export default {
   'writer.wordcount': '{characters, number} characters, {words, number} words',
   // added 2018-06-05
   'common.statusFailed': 'Failed to connect to the server.',
-  'common.statusConnecting': 'Attempting to connect to the server... ({count, number})'
+  'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
+  // added 2018-06-13
+  'slug.checking': 'Checking...',
+  'slug.failed': 'This address already exists.',
+  'slug.success': 'This address is available!'
 };
 
 /* eslint-enable max-len */
