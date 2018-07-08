@@ -935,7 +935,10 @@ export default {
   // added 2018-06-13
   'slug.checking': 'Checking...',
   'slug.failed': 'This address already exists.',
-  'slug.success': 'This address is available!'
+  'slug.success': 'This address is available!',
+  // added 2018-07-08
+  'notVerified.msg': 'Your account e-mail is not verified.',
+  'notVerified.verify': 'Please verify your e-mail.'
 };
 
 /* eslint-enable max-len */

@@ -941,7 +941,10 @@ export default {
   // added 2018-06-13
   'slug.checking': 'Ověřuji...',
   'slug.failed': 'Tato adresa již existuje.',
-  'slug.success': 'Tato adresa je volná!'
+  'slug.success': 'Tato adresa je volná!',
+  // added 2018-07-08
+  'notVerified.msg': 'Nemáte verifikovaný e-mail.',
+  'notVerified.verify': 'Prosím potvrďte Váš e-mail.'
 };
 
 /* eslint-enable max-len */

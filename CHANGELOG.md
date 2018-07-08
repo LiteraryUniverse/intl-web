@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2018-07-08
+  * Added 2 entries for verification notice.
+
 ## 2018-06-13
   * Added entries for url slug checking.
 
