@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2018-07-11
+  * Added missing key for story chapter listing.
+
 ## 2018-07-08
   * Added 2 entries for verification notice.
 

@@ -938,7 +938,9 @@ export default {
   'slug.success': 'This address is available!',
   // added 2018-07-08
   'notVerified.msg': 'Your account e-mail is not verified.',
-  'notVerified.verify': 'Please verify your e-mail.'
+  'notVerified.verify': 'Please verify your e-mail.',
+  // added 2018-07-11
+  'workshop.story.noChaptersFound': 'No chapters found.'
 };
 
 /* eslint-enable max-len */

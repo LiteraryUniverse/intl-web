@@ -944,7 +944,9 @@ export default {
   'slug.success': 'Tato adresa je volná!',
   // added 2018-07-08
   'notVerified.msg': 'Nemáte verifikovaný e-mail.',
-  'notVerified.verify': 'Prosím potvrďte Váš e-mail.'
+  'notVerified.verify': 'Prosím potvrďte Váš e-mail.',
+  // added 2018-07-11
+  'workshop.story.noChaptersFound': 'Nebyla nalezena žádná kapitola.'
 };
 
 /* eslint-enable max-len */
