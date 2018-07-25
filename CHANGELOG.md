@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2018-07-12
+  * Keys for displaying statistics
+
 ## 2018-07-11
   * Added missing key for story chapter listing.
 

@@ -940,7 +940,34 @@ export default {
   'notVerified.msg': 'Your account e-mail is not verified.',
   'notVerified.verify': 'Please verify your e-mail.',
   // added 2018-07-11
-  'workshop.story.noChaptersFound': 'No chapters found.'
+  'workshop.story.noChaptersFound': 'No chapters found.',
+  // added 2018-07-12
+  unknown: 'unknown',
+  'stats.age.groups': 'Age groups',
+  'stats.age.range': 'Age range',
+  'stats.age.to12': 'To 12',
+  'stats.age.12to17': '12 to 17',
+  'stats.age.18to20': '18 to 20',
+  'stats.age.21to29': '21 to 29',
+  'stats.age.30to39': '30 to 39',
+  'stats.age.40to49': '40 to 49',
+  'stats.age.50to64': '50 to 64',
+  'stats.age.65to84': '64 to 84',
+  'stats.age.above85': 'Above 85',
+  'stats.aggregate.tab': 'Aggregate statistics',
+  'stats.chapter.tab': 'Chapter statistics',
+  'stats.readers.title': 'About your readers',
+  'stats.gender.title': 'Gender',
+  'stats.view.table': 'Table view',
+  'stats.view.pie': 'Pie Chart view',
+  'stats.view.bar': 'Bar Chart view',
+  'stats.view.chart': 'Chart view',
+  'stats.table.total': 'Total',
+  // added 2018-07-19
+  'stats.timeline.title': 'Timeline',
+  // added 2018-07-21
+  'stats.timeline.dateStart': 'Statistics begin at',
+  'stats.timeline.dateEnd': 'Statistics end at'
 };
 
 /* eslint-enable max-len */

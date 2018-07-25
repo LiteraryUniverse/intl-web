@@ -946,7 +946,34 @@ export default {
   'notVerified.msg': 'Nemáte verifikovaný e-mail.',
   'notVerified.verify': 'Prosím potvrďte Váš e-mail.',
   // added 2018-07-11
-  'workshop.story.noChaptersFound': 'Nebyla nalezena žádná kapitola.'
+  'workshop.story.noChaptersFound': 'Nebyla nalezena žádná kapitola.',
+  // added 2018-07-12
+  unknown: 'neznámé',
+  'stats.age.groups': 'Věkové skupiny',
+  'stats.age.range': 'Věkové rozmezí',
+  'stats.age.to12': 'Do 12 let',
+  'stats.age.12to17': 'Od 12 do 17 let',
+  'stats.age.18to20': 'Od 18 do 20 let',
+  'stats.age.21to29': 'Od 21 do 29 let',
+  'stats.age.30to39': 'Od 30 do 39 let',
+  'stats.age.40to49': 'Od 40 do 49 let',
+  'stats.age.50to64': 'Od 50 do 64 let',
+  'stats.age.65to84': 'Od 64 do 84 let',
+  'stats.age.above85': 'Nad 85 let',
+  'stats.aggregate.tab': 'Souhrná statistika',
+  'stats.chapter.tab': 'Statistiky dle kapitoly',
+  'stats.readers.title': 'O Vašich čtenářích',
+  'stats.gender.title': 'Pohlaví',
+  'stats.view.table': 'Tabulkový přehled',
+  'stats.view.pie': 'Zobrazení výkresu',
+  'stats.view.bar': 'Sloupcový graf',
+  'stats.view.chart': 'Grafické shrnutí',
+  'stats.table.total': 'Celkem',
+  // added 2018-07-19
+  'stats.timeline.title': 'Časová osa',
+  // added 2018-07-21
+  'stats.timeline.dateStart': 'Statisticky od',
+  'stats.timeline.dateEnd': 'Statistiky do'
 };
 
 /* eslint-enable max-len */
