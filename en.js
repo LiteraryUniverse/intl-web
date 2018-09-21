@@ -5,7 +5,7 @@
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
   sitename: 'Literary Universe',
-  'site.description': 'Literary Universe is a creative and publishing site for large story universes.',
+  'site.description': 'Literary Universe is a creative and publishing site for grand story universes.',
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'common.signin': 'Login',
@@ -24,7 +24,8 @@ export default {
   'common.blogs': 'Blogs',
   'common.about': 'About us',
   'common.accessdenied': 'Access denied',
-  'common.accessdenied.msg': "You don't have access rights to this area.",
+  'common.accessdenied.msg':
+    'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',
   'common.loading': 'Loading...',
   'common.add': 'Add',
   'common.save': 'Save',
@@ -39,7 +40,7 @@ export default {
   'common.showmore': 'Show more',
   'common.futurefeature.title': 'Future feature',
   'common.futurefeature.text':
-    'We are sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
+    'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
   'common.nothingfound': 'Nothing found',
   'common.explore': 'Explore',
   'common.by': 'by ', // keep the space at the end as username follows
@@ -80,8 +81,8 @@ export default {
   'settings.email.add': 'Add e-mail',
   'settings.languages.title': 'Language settings',
   'settings.languages.notice':
-    'Please note that English is currently the only officially supported language. Other languages are available thanks to volunteers and might be incomplete.',
-  'settings.languages.join': 'You can help with translation.',
+    'English is currently the only officially supported language. Other languages are available thanks to amazing volunteers, but they might still be incomplete.',
+  'settings.languages.join': 'If you would like to help us, you can translate Literary Universe as well.',
   'settings.name.title': 'Real name',
   'settings.name.given': 'Given name',
   'settings.name.family': 'Family name',
@@ -106,7 +107,7 @@ export default {
   'settings.password.reset': 'Reset your password',
   'email.verification': 'E-mail verification',
   'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-  'email.verified': 'Your e-mail has been verified!',
+  'email.verified': 'Great news! Your e-mail has been verified!',
   'dashboard.whatsnew': 'What is new',
   'dashboard.blog': 'Your blog',
 
@@ -456,7 +457,7 @@ export default {
     'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
   'licenses.name.lu-c': 'Literary Universe Copyrights',
   'licenses.lu-c':
-    'Standard full copyrights license that allows you to sell publish your work as you like and have your rights protected. This license also gives you the option to sell your stories on Literary Universe.',
+    'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
   'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
   'licenses.cc0':
     'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.',
