@@ -973,7 +973,11 @@ export default {
   'stats.timeline.title': 'Časová osa',
   // added 2018-07-21
   'stats.timeline.dateStart': 'Statisticky od',
-  'stats.timeline.dateEnd': 'Statistiky do'
+  'stats.timeline.dateEnd': 'Statistiky do',
+  // added 2018-09-21
+  'workshop.fanfic.needUniverseInLibrary':
+    'Vesmírů je obrovské množství. Abychom mohli našli ten správný, prosím přidejte vesmír ve kterém chcete psát do Vaší knihovny.',
+  'workshop.fanfic.findUniverse': 'Jděte najít úžasný vesmír!'
 };
 
 /* eslint-enable max-len */

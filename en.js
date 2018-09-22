@@ -968,7 +968,11 @@ export default {
   'stats.timeline.title': 'Timeline',
   // added 2018-07-21
   'stats.timeline.dateStart': 'Statistics begin at',
-  'stats.timeline.dateEnd': 'Statistics end at'
+  'stats.timeline.dateEnd': 'Statistics end at',
+  // added 2018-09-21
+  'workshop.fanfic.needUniverseInLibrary':
+    'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
+  'workshop.fanfic.findUniverse': 'Go find an amazing universe!'
 };
 
 /* eslint-enable max-len */
