@@ -977,7 +977,11 @@ export default {
   // added 2018-09-21
   'workshop.fanfic.needUniverseInLibrary':
     'Vesmírů je obrovské množství. Abychom mohli našli ten správný, prosím přidejte vesmír ve kterém chcete psát do Vaší knihovny.',
-  'workshop.fanfic.findUniverse': 'Jděte najít úžasný vesmír!'
+  'workshop.fanfic.findUniverse': 'Jděte najít úžasný vesmír!',
+  // added 2018-09-30
+  'setting.export.submit': 'Exportovat data',
+  'setting.delete.submit': 'Smazat účet',
+  'common.legal.guidelines': 'Komunitní standard'
 };
 
 /* eslint-enable max-len */

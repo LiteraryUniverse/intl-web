@@ -972,7 +972,11 @@ export default {
   // added 2018-09-21
   'workshop.fanfic.needUniverseInLibrary':
     'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
-  'workshop.fanfic.findUniverse': 'Go find an amazing universe!'
+  'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
+  // added 2018-09-30
+  'setting.export.submit': 'Export data',
+  'setting.delete.submit': 'Delete Account',
+  'common.legal.guidelines': 'Community Guidelines'
 };
 
 /* eslint-enable max-len */
