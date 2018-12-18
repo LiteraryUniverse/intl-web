@@ -509,9 +509,14 @@ export default {
   'plans.desc': 'Description of plans and features of Literary Universe.',
   'plans.title': 'Get more out of Literary Universe!',
   'plans.text':
-    'Literary Universe offers the basics for free. There great things available for premium users. Unlock its true power!',
+    `Literary Universe offers  basic functionality for free. If you are avid reader or a creator you might find our advance membership more to your liking.`,
+  'plans.faq.basicsPriced': 'Why has the free membership so few things?',
+  'plans.faq.justification': `Here at Literary Universe we value your privacy and intellectual property. As such we don't use your data to sell adds or provide them to other companies. We don't provide any adds of our own either (we don't want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe with multiple membership tiers to accommodate everyone's needs.`, // TODO expand
   'plans.account.free': 'Free account',
-  'plans.account.premium': 'Premium account',
+  'plans.account.explorer': 'Explorer',
+  'plans.account.initiate': 'Initiate',
+  'plans.account.adventurer': 'Adventurer',
+  'plans.account.storyteller': 'Storyteller',
   'plans.eta': 'Coming ',
   'plans.price': 'Price',
   'plans.price.free': 'Free',
