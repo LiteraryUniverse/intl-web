@@ -111,23 +111,31 @@ export default {
     USD: {
       sign: '$',
       location: 'before',
-      fromUSD: 1,
-      // format for MessageFormat
-      format: {
-        number: {
-          usd: { style: 'currency', currency: 'USD' }
-        }
-      }
+      fromUSD: 1
     },
-    CZK: {
-      sign: 'Kč',
+    EUR: {
+      sign: '€',
       location: 'after',
-      fromUSD: 25,
-      format: {
-        number: {
-          czk: { style: 'currency', currency: 'CZK' }
-        }
-      }
+      fromUSD: 0.9
+    },
+    GBP: {
+      sign: '$',
+      location: 'before',
+      fromUSD: 0.8
+    },
+    JPY: {
+      sign: '￥',
+      location: 'before',
+      fromUSD: 110
+    }
+  },
+  intlCurrencyFormats: {
+    // format for MessageFormat
+    number: {
+      jpy: { style: 'currency', currency: 'JPY' },
+      gbp: { style: 'currency', currency: 'GBP' },
+      eur: { style: 'currency', currency: 'EUR' },
+      usd: { style: 'currency', currency: 'USD' }
     }
   },
   countries: [
