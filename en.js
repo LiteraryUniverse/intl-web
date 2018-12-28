@@ -1,6 +1,7 @@
 /**
  * @authors Jan Dvorak
  */
+import form from './en_form';
 /* eslint-disable max-len */
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -8,6 +9,7 @@ export default {
   'site.description': 'Literary Universe is a creative and publishing site for grand story universes.',
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
+  ...form,
   'common.signin': 'Login',
   'common.signup': 'Register',
   'common.signout': 'Logout',

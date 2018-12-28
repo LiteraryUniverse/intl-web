@@ -1,6 +1,7 @@
 /**
  * @authors Jan Dvorak
  */
+import form from './cs_form';
 /* eslint-disable max-len */
 export default {
   locales: ['cs', 'cs-CZ'],
@@ -8,6 +9,7 @@ export default {
   'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
   'site.keywords':
     'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
+  ...form,
   'common.signin': 'Přihlásit se',
   'common.signup': 'Registrace',
   'common.signout': 'Odhlásit se',
