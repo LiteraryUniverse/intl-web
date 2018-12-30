@@ -9,4 +9,5 @@ export default {
   'form.validator.url': 'Must be a valid URL',
   'form.submitting.signup': 'Creating account...',
   'form.submitting.signin': 'Logging in...',
+  'form.submitting.default': 'Submitting...'
 };

@@ -9,4 +9,5 @@ export default {
   'form.validator.url': 'Musí být validní URL',
   'form.submitting.signup': 'Vytváříme účet...',
   'form.submitting.signin': 'Probíhá přihlašování...',
+  'form.submitting.default': 'Posíláme...'
 };
