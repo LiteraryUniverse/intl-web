@@ -79,7 +79,8 @@ export default {
   'settings.avatar.upload': 'Select image',
   'settings.email': 'E-mails',
   'settings.email.msg': 'E-mails associated with your account',
-  'settings.email.verified.not': 'not verified',
+  'settings.email.verified.false': 'Not verified',
+  'settings.email.verified.true': 'Verified e-mail',
   'settings.email.add': 'Add e-mail',
   'settings.languages.title': 'Language settings',
   'settings.languages.notice':
@@ -966,7 +967,14 @@ export default {
   // added 2018-09-30
   'setting.export.submit': 'Export data',
   'setting.delete.submit': 'Delete Account',
-  'common.legal.guidelines': 'Community Guidelines'
+  'common.legal.guidelines': 'Community Guidelines',
+
+  // added 2018-12-30
+  'settings.emailSubscriptions.newsletterTech': 'Occasional newsletter from our developers',
+  'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
+  'settings.emailNotifications.title': 'Notifications',
+  'settings.emailNotifications.pm': 'New messages',
+  'settings.emailNotifications.newChapters': 'New chapters',
 };
 
 /* eslint-enable max-len */

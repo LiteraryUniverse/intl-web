@@ -77,7 +77,8 @@ export default {
   'settings.avatar.upload': 'Vybrat obrázek',
   'settings.email': 'E-maily',
   'settings.email.msg': 'E-maily spojené s Vaším účtem',
-  'settings.email.verified.not': 'not verified',
+  'settings.email.verified.false': 'Tento e-mail není potvrzen',
+  'settings.email.verified.true': 'Tento e-mail byl potvrzen',
   'settings.email.add': 'Přidat e-mail',
   'settings.languages.title': 'Nastavení jazyku',
   'settings.languages.notice':
@@ -973,7 +974,14 @@ export default {
   // added 2018-09-30
   'setting.export.submit': 'Exportovat data',
   'setting.delete.submit': 'Smazat účet',
-  'common.legal.guidelines': 'Komunitní standard'
+  'common.legal.guidelines': 'Komunitní standard',
+
+  // added 2018-12-30
+  'settings.emailSubscriptions.newsletterTech': 'Občasné zprávy od našich vývojářů',
+  'settings.emailSubscriptions.newsletterFeatures': 'Informace o nové funkcionalitě',
+  'settings.emailNotifications.title': 'Notifikace',
+  'settings.emailNotifications.pm': 'Nové zprávy',
+  'settings.emailNotifications.newChapters': 'Nové kapitoly',
 };
 
 /* eslint-enable max-len */
