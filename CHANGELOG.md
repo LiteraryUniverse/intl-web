@@ -1,4 +1,21 @@
 # Changelog for languages
+## 2019-01-04
+  * Removed 3 unused keys related to premium plans (everything related to premium accounts is going to change)
+
+## 2018-12-30
+  * New keys for more granual email subscriptions
+  * New separate form keys for form related text
+
+## 2018-09-30
+  * Two new keys for new setting options
+  * Community guidelines key
+
+## 2018-09-21
+  * Extra keys for error messages for fanfiction creation
+
+## 2018-07-19 & 2018-07-21
+  * Additional keys for statistics
+
 ## 2018-07-12
   * Keys for displaying statistics
 

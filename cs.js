@@ -546,10 +546,7 @@ export default {
     few {# stránky}
     many {# stránek}
   }`,
-  'plans.limits.stories': 'Příběhů',
   'plans.limits.universes': 'Vesmírů',
-  'plans.limits.storiesPerUniverse': 'Příběhů na vesmír',
-  'plans.limits.fanFiction': 'Fan fikcí',
   'plans.limits.encEntries': 'Vstupů v encyklopedii vesmíru',
   'plans.limits.scratchpadPads': 'Stránek v poznámkovém bloku',
   'plans.limits.maxCollaborators': 'Spolupracovníků na projekt',
@@ -742,14 +739,11 @@ export default {
   // added 2017-03-18
   buy: 'Koupit',
   'premium.buy': 'Koupit Premium',
-  'premium.select': 'Vyberte si typ předplatného',
   'payments.add': 'Přidat platební možnost',
   'payments.add.btn': 'Přidat jako platební možnost',
   'payments.disclaimer':
     'Platební informace a zpracovávání je zařizuje Braintree od PayPalu. Neuchováváme žádné platební informace (čísla kreditních karet, bankovních účtů, adresy, atd.) na našich serverech.',
   'buy.payment.optionsSelect': 'Platební možnosti',
-  'premium.plan.monthly': 'Měsíčný předplatné - $5/měsíčně',
-  'premium.plan.annual': 'Roční předplatné - $50/rok',
   'payments.card.number': 'Číslo platební karty',
   'payments.card.expire': 'Platná do',
   'payments.card.cvv': 'CVV',
@@ -879,7 +873,7 @@ export default {
   'settings.delete.submit': 'Smazat můj účet',
   'settings.legal.title': 'Právní ujednání a souhlasy',
   'settings.legal.explained': 'Zde můžete spravovat Váš souhlas s různými právními ustatnoveními',
-  'settings.name.public': 'Zobrazit jméno veřejně',
+  'settings.name.private': 'Jméno bude neveřejné',
   'settings.emailSubscriptions.title': 'Nastavení e-mailových zpráv',
   'settings.emailSubscriptions.explain': 'Vyberte jaké e-mailové zprávy od nás chcete dostávat',
   'settings.emailSubscriptions.newsletter': 'Občasné zprávy o novinkách',
@@ -981,7 +975,7 @@ export default {
   'settings.emailSubscriptions.newsletterFeatures': 'Informace o nové funkcionalitě',
   'settings.emailNotifications.title': 'Notifikace',
   'settings.emailNotifications.pm': 'Nové zprávy',
-  'settings.emailNotifications.newChapters': 'Nové kapitoly',
+  'settings.emailNotifications.newChapters': 'Nové kapitoly'
 };
 
 /* eslint-enable max-len */

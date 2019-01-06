@@ -539,11 +539,7 @@ export default {
     one {1 pad}
     other {# pads}
   }`,
-  'plans.limits.stories': 'Stories',
   'plans.limits.universes': 'Universes',
-  'plans.limits.storiesPerUniverse': 'Stories per universe',
-  'plans.limits.fanFiction': 'Fan fiction',
-  'plans.limits.encEntries': 'Entries per universe',
   'plans.limits.scratchpadPads': 'Scratchpad pads',
   'plans.limits.maxCollaborators': 'Collaborators per project',
   'plans.feature.encCustomFields': 'Customizable encyclopedia fields on an entry',
@@ -734,14 +730,11 @@ export default {
   // added 2017-03-28
   buy: 'Buy',
   'premium.buy': 'Buy Premium',
-  'premium.select': 'Select premium plan',
   'payments.add': 'Add payment option',
   'payments.add.btn': 'Add as a payment option',
   'payments.disclaimer':
     'Payment information and processing is done via Braintree by PayPal. We do not keep any credit card or bank account information on our servers.',
   'buy.payment.optionsSelect': 'Select payment option',
-  'premium.plan.monthly': 'Monthly payments - $5/month',
-  'premium.plan.annual': 'Annual payments - $50/year',
   'payments.card.number': 'Card number',
   'payments.card.expire': 'Valid Thru',
   'payments.card.cvv': 'CVV',
@@ -872,7 +865,7 @@ export default {
   'settings.delete.submit': 'Delete my account',
   'settings.legal.title': 'User consent agreements',
   'settings.legal.explained': 'Here you can manage your agreement to various legal documents.',
-  'settings.name.public': 'Display name publicly',
+  'settings.name.private': 'Name will be private',
   'settings.emailSubscriptions.title': 'E-mail notifications settings',
   'settings.emailSubscriptions.explain': 'Select which e-mail notifications do you want to receive from us.',
   'settings.emailSubscriptions.newsletter': 'Occasional newsletter',
@@ -974,7 +967,7 @@ export default {
   'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
   'settings.emailNotifications.title': 'Notifications',
   'settings.emailNotifications.pm': 'New messages',
-  'settings.emailNotifications.newChapters': 'New chapters',
+  'settings.emailNotifications.newChapters': 'New chapters'
 };
 
 /* eslint-enable max-len */
