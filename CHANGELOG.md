@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-01-11
+  * Initial work on Japanese localization
+  * Moved SimpleSchema keys into form file
+
 ## 2019-01-04
   * Removed 3 unused keys related to premium plans (everything related to premium accounts is going to change)
 

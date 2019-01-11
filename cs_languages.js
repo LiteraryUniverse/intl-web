@@ -80,7 +80,7 @@ export default {
   kw: 'Cornish',
   'hr-HR': 'Croatian (Croatia)',
   hr: 'Croatian',
-  'cs-CZ': 'Czech (Czech Republic)',
+  'cs-CZ': 'Čeština (Czechia)',
   cs: 'Čeština',
   'da-DK': 'Danish (Denmark)',
   da: 'Dánština',
