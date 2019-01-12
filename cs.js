@@ -942,7 +942,8 @@ export default {
 
   // added 2019-01-12
   'errorLoading.title': 'Chyba během načítání stránky',
-  'errorLoading.explained': 'Během načítání stránky došlo k chybě. Moc se omlouváme. Prosím zkuste stránku znovu načíst. Pokud bude problém přetrvávat informujte nás.',
+  'errorLoading.explained':
+    'Během načítání stránky došlo k chybě. Moc se omlouváme. Prosím zkuste stránku znovu načíst. Pokud bude problém přetrvávat informujte nás.',
   'errorLoading.retry': 'Zkusit znova!',
   'errorLoading.takingLong': 'Tohle trvá nějak dlouho...'
 };

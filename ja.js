@@ -934,7 +934,8 @@ export default {
 
   // added 2019-01-12
   'errorLoading.title': 'Error during page load',
-  'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+  'errorLoading.explained':
+    'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
   'errorLoading.retry': '再試行する',
   'errorLoading.takingLong': 'これは長い時間がかかります...'
 };
