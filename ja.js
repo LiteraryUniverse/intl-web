@@ -5,7 +5,7 @@ import form from './ja_form';
 /* eslint-disable max-len */
 export default {
   locales: ['jp', 'jp-JP'],
-  sitename: 'Literary Universe',
+  sitename: '文学の世界',
   'site.description': 'Literary Universe is a creative and publishing site for grand story universes.',
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
@@ -32,7 +32,7 @@ export default {
   'common.add': 'Add',
   'common.save': 'Save',
   'common.email': 'E-mail',
-  'common.soon': 'Coming soon...',
+  'common.soon': '近日公開',
   'common.search': '探索',
   'common.search.do': '見附る',
   'common.searching': 'Searching...',
@@ -61,7 +61,7 @@ export default {
   'common.betareader': 'ベータリーダー',
   'common.betareaders': 'ベータリーダー',
   'common.post': 'Post',
-  'common.statistics': 'Statistics',
+  'common.statistics': '統計',
   'common.lang.select': 'Select language',
   'common.submit': 'Submit',
   'common.close': '閉じる',
@@ -100,12 +100,12 @@ export default {
   'common.account.create': 'アカウントを作成する',
   'signup.username': '別名',
   'signup.email': 'あなたのEメール',
-  'signup.password.label': 'Your password',
+  'signup.password.label': 'あなたのパスワード',
   'signup.password.repeat': 'Repeat your password',
   'common.password': 'パスワード',
-  'signin.password.forgot': 'Forgot password?',
+  'signin.password.forgot': 'パスワードをお忘れですか？',
 
-  'settings.password.reset': 'Reset your password',
+  'settings.password.reset': 'あなたのパスワードをリセット',
   'email.verification': 'E-mail verification',
   'email.verifying': 'Verifying your e-mail. This will take just a moment...',
   'email.verified': 'Great news! Your e-mail has been verified!',
@@ -114,11 +114,11 @@ export default {
 
   'common.footer.tagline': 'Writing and reading complex universes made easy.',
   'common.footer.plans': 'Plans & Pricing',
-  'common.legal.tos': 'Terms of Service',
+  'common.legal.tos': '利用規約',
   'common.legal.community': 'Community Guidelines',
-  'common.legal.privacy': 'Privacy Policy',
+  'common.legal.privacy': '個人情報保護方針',
   'common.legal.copyright': 'Copyright Agreement',
-  'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
+  'common.legal.disclaimer': '© {year} 全著作権所有。 すべてのテキストはそれぞれの作者に属します。',
 
   'pm.conversation': '会話',
   'pm.showolder': '古いメッセージを表示',
@@ -492,7 +492,7 @@ export default {
     'The future for Literary Universe involves creating a marketplace for authors to sell their work and adding community features to enhance author and reader communication through blogs and forums. Writer’s tools will be added over time, with over a dozen currently either in development or on the board. Our ultimate goal is to enhance the experiences of writers and readers through providing more innovative use of the internet medium.',
   'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
   'about.team': 'The team',
-  'about.history': 'History',
+  'about.history': '由来書',
   'about.CEO': 'Chief Executive Officer',
   'about.CTO': 'Chief Technology Officer',
   'about.scott':
@@ -634,7 +634,7 @@ export default {
   // added 2016-11-14
   // account types
   premium: 'Premium',
-  admin: 'Admin',
+  admin: '管理者',
 
   // added 2016-11-17
   'pm.send': 'Send',
@@ -648,7 +648,7 @@ export default {
   'workshop.translations.universes': 'Translations - universes',
 
   // added 2016-12-03
-  goodbye: 'Thank you! See you again!',
+  goodbye: 'ありがとうございました！ またね！',
 
   // added 2016-12-29
   'workshop.revisions.beta.none': 'No revisions at this time.',
@@ -678,7 +678,7 @@ export default {
     'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
 
   // added 2017-01-23
-  'common.friends': 'Friends',
+  'common.friends': '友達',
 
   // added 2017-01-27
   'lang.orig': 'Original language',
@@ -776,14 +776,14 @@ export default {
     fanfiction {Fan Fiction work}
   }`,
   'blog.lists.stories.disclaimer':
-    'Listed here are standalone stories, if story was wrtitten as a part of a universe then it will be listed on the universe page.',
+    'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
 
   // added 2017-10-04
   'common.settings.payments': 'Payments Settings',
-  'common.nodata': 'No data',
+  'common.nodata': 'データなし',
 
   // added 2017-11-25
-  'error.title': 'An error has occurred. We apologize for the inconvenience.',
+  'error.title': 'エラーが発生しました。 ご不便をおかけして申し訳ございません。',
 
   // added 2018-02-04
   'workshop.collaborators.requests.sent': 'Sent requests',
@@ -815,17 +815,17 @@ export default {
   'settings.connectTo': 'Connect to {service}',
 
   // added 2018-02-28
-  'settings.export.title': 'Export Data',
+  'settings.export.title': 'データのエクスポート',
   'settings.export.explain':
     'This will allow you to get all your data that is stored in our database in a json format.',
-  'settings.export.submit': 'Export data',
-  'settings.delete.title': 'Delete Account',
+  'settings.export.submit': 'データのエクスポート',
+  'settings.delete.title': 'アカウントを削除する',
   'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
     there is no way of getting it back. Note that this might not automatically delete your published works,
     comments, etc. Please refer to Terms of Service for details.`,
   'settings.delete.confirm': 'Just to make sure. Are you sure you want to delete your account?',
   'settings.delete.cancel': `I don't want to delete my account`,
-  'settings.delete.submit': 'Delete my account',
+  'settings.delete.submit': 'アカウントを削除します',
   'settings.legal.title': 'User consent agreements',
   'settings.legal.explained': 'Here you can manage your agreement to various legal documents.',
   'settings.name.private': 'Name will be private',
@@ -834,13 +834,13 @@ export default {
   'settings.emailSubscriptions.newsletter': 'Occasional newsletter',
 
   // added 2018-04-20
-  'common.offlineStatus': 'You are currently offline.',
+  'common.offlineStatus': 'あなたは現在オフラインです。',
 
   // added 2018-04-22
   'legal.modal.intro':
     'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-  'legal.modal.agree': 'I Agree',
-  'legal.modal.disagree': 'I Disagree',
+  'legal.modal.agree': '同意する',
+  'legal.modal.disagree': '同意しません',
   'legal.modal.register': `You won't see this anymore if you register.`,
   // added 2018-04-27
   'legal.modal.goToSettings': 'Go to your settings',
@@ -849,16 +849,16 @@ export default {
   // added 2018-04-30
   'settings.legal.export.download': 'Download Your data',
   'settings.legal.export.gathering': 'Gathering Your data... This might take a while.',
-  male: 'Male',
-  female: 'Female',
-  'settings.gender.title': 'Your gender',
+  male: '男性',
+  female: '女性',
+  'settings.gender.title': 'あなたの性別',
   'settings.gender.usage':
     'This information will remain private. We use this data for platform analytics and in anonymized analytics to creators when you read their stories.',
-  'settings.age.title': 'Your age',
+  'settings.age.title': 'あなたの年齢',
   'settings.age.explicit': 'Show explicit content (rating age 21+)',
   'settings.age.usage':
     'This information will remain private. We are legally obliged to inquire about your age. We use this data for platform analytics, displaying content based on ratings and in anonymized analytics to creators when you read their stories.',
-  'settings.country.title': 'Your country',
+  'settings.country.title': 'あなたの国',
   'settings.country.usage':
     'We are legally obliged to inquire about your country in order to respond to government inquiries. We use this data for platform analytics and in anonymized analytics to creators when you read their stories. If you wish you can display this information on your profile.',
   'settings.country.public': 'Display your country publicly',
@@ -867,13 +867,13 @@ export default {
   'workshop.collaborators.language.added': 'Language added',
   'challenges.underway': 'This challenge is already underway.',
   'challenges.targetWords': 'Total targeted word count',
-  'challenges.startDate': 'Start date',
-  'challenges.endDate': 'End date',
+  'challenges.startDate': '開始日',
+  'challenges.endDate': '終了日',
   // added 2018-05-18
   'common.legal.effectiveAt': 'Effective from',
   // added 2018-05-24
   select: 'Please select',
-  'legal.modal.fewmore': 'Few more things...',
+  'legal.modal.fewmore': 'もっと多くのこと...',
   'legal.modal.finish': 'Finish',
   // added 2018-05-30
   'writer.wordcount': '{characters, number} characters, {words, number} words',
@@ -888,28 +888,28 @@ export default {
   'notVerified.msg': 'Your account e-mail is not verified.',
   'notVerified.verify': 'Please verify your e-mail.',
   // added 2018-07-11
-  'workshop.story.noChaptersFound': 'No chapters found.',
+  'workshop.story.noChaptersFound': '章は見つかりませんでした。',
   // added 2018-07-12
-  unknown: 'unknown',
-  'stats.age.groups': 'Age groups',
-  'stats.age.range': 'Age range',
-  'stats.age.to12': 'To 12',
-  'stats.age.12to17': '12 to 17',
-  'stats.age.18to20': '18 to 20',
-  'stats.age.21to29': '21 to 29',
-  'stats.age.30to39': '30 to 39',
-  'stats.age.40to49': '40 to 49',
-  'stats.age.50to64': '50 to 64',
-  'stats.age.65to84': '64 to 84',
-  'stats.age.above85': 'Above 85',
+  unknown: '道の',
+  'stats.age.groups': '年齢グループ',
+  'stats.age.range': '年齢層',
+  'stats.age.to12': '12まで',
+  'stats.age.12to17': '12〜17',
+  'stats.age.18to20': '18〜20',
+  'stats.age.21to29': '21〜29',
+  'stats.age.30to39': '30〜39',
+  'stats.age.40to49': '40〜49',
+  'stats.age.50to64': '50〜64',
+  'stats.age.65to84': '64〜84',
+  'stats.age.above85': '85以上',
   'stats.aggregate.tab': 'Aggregate statistics',
   'stats.chapter.tab': 'Chapter statistics',
   'stats.readers.title': 'About your readers',
-  'stats.gender.title': 'Gender',
-  'stats.view.table': 'Table view',
-  'stats.view.pie': 'Pie Chart view',
-  'stats.view.bar': 'Bar Chart view',
-  'stats.view.chart': 'Chart view',
+  'stats.gender.title': '性別',
+  'stats.view.table': 'テーブルビュー',
+  'stats.view.pie': '円グラフビュー',
+  'stats.view.bar': '棒グラフビュー',
+  'stats.view.chart': 'チャートビュー',
   'stats.table.total': 'Total',
   // added 2018-07-19
   'stats.timeline.title': 'Timeline',
@@ -921,16 +921,22 @@ export default {
     'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
   'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
   // added 2018-09-30
-  'setting.export.submit': 'Export data',
-  'setting.delete.submit': 'Delete Account',
+  'setting.export.submit': 'データのエクスポート',
+  'setting.delete.submit': 'アカウントを削除する',
   'common.legal.guidelines': 'Community Guidelines',
 
   // added 2018-12-30
   'settings.emailSubscriptions.newsletterTech': 'Occasional newsletter from our developers',
   'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
-  'settings.emailNotifications.title': 'Notifications',
+  'settings.emailNotifications.title': '通知',
   'settings.emailNotifications.pm': 'New messages',
-  'settings.emailNotifications.newChapters': 'New chapters'
+  'settings.emailNotifications.newChapters': 'New chapters',
+
+  // added 2019-01-12
+  'errorLoading.title': 'Error during page load',
+  'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+  'errorLoading.retry': '再試行する',
+  'errorLoading.takingLong': 'これは長い時間がかかります...'
 };
 
 /* eslint-enable max-len */

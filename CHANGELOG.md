@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-01-12
+  * Added new keys for loading error page
+
 ## 2019-01-11
   * Initial work on Japanese localization
   * Moved SimpleSchema keys into form file

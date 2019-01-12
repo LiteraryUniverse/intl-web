@@ -776,7 +776,7 @@ export default {
     fanfiction {Fan Fiction work}
   }`,
   'blog.lists.stories.disclaimer':
-    'Listed here are standalone stories, if story was wrtitten as a part of a universe then it will be listed on the universe page.',
+    'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
 
   // added 2017-10-04
   'common.settings.payments': 'Payments Settings',
@@ -930,7 +930,13 @@ export default {
   'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
   'settings.emailNotifications.title': 'Notifications',
   'settings.emailNotifications.pm': 'New messages',
-  'settings.emailNotifications.newChapters': 'New chapters'
+  'settings.emailNotifications.newChapters': 'New chapters',
+
+  // added 2019-01-12
+  'errorLoading.title': 'Error during page load',
+  'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+  'errorLoading.retry': 'Retry!',
+  'errorLoading.takingLong': 'This is taking a long time...'
 };
 
 /* eslint-enable max-len */

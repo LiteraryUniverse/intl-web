@@ -938,7 +938,13 @@ export default {
   'settings.emailSubscriptions.newsletterFeatures': 'Informace o nové funkcionalitě',
   'settings.emailNotifications.title': 'Notifikace',
   'settings.emailNotifications.pm': 'Nové zprávy',
-  'settings.emailNotifications.newChapters': 'Nové kapitoly'
+  'settings.emailNotifications.newChapters': 'Nové kapitoly',
+
+  // added 2019-01-12
+  'errorLoading.title': 'Chyba během načítání stránky',
+  'errorLoading.explained': 'Během načítání stránky došlo k chybě. Moc se omlouváme. Prosím zkuste stránku znovu načíst. Pokud bude problém přetrvávat informujte nás.',
+  'errorLoading.retry': 'Zkusit znova!',
+  'errorLoading.takingLong': 'Tohle trvá nějak dlouho...'
 };
 
 /* eslint-enable max-len */
