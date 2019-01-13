@@ -96,7 +96,6 @@ export default {
   'settings.password.new': '新しいパスワード',
   'settings.password.repeat': '新しいパスワードをもう一度入力してください',
   'settings.password.nomatch': 'New password does not match!',
-  'settings.password.badlength': 'Password must be at least {length} characters long.',
   'common.account.create': 'アカウントを作成する',
   'signup.username': '別名',
   'signup.email': 'あなたのEメール',
@@ -937,7 +936,9 @@ export default {
   'errorLoading.explained':
     'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
   'errorLoading.retry': '再試行する',
-  'errorLoading.takingLong': 'これは長い時間がかかります...'
+  'errorLoading.takingLong': 'これは長い時間がかかります...',
+  // added 2019-01-13
+  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.'
 };
 
 /* eslint-enable max-len */

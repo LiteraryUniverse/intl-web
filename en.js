@@ -96,7 +96,6 @@ export default {
   'settings.password.new': 'New password',
   'settings.password.repeat': 'Repeat your new password',
   'settings.password.nomatch': 'New password does not match!',
-  'settings.password.badlength': 'Password must be at least {length} characters long.',
   'common.account.create': 'Create an account',
   'signup.username': 'Username',
   'signup.email': 'Your e-mail',
@@ -937,7 +936,9 @@ export default {
   'errorLoading.explained':
     'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
   'errorLoading.retry': 'Retry!',
-  'errorLoading.takingLong': 'This is taking a long time...'
+  'errorLoading.takingLong': 'This is taking a long time...',
+  // added 2019-01-13
+  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.'
 };
 
 /* eslint-enable max-len */

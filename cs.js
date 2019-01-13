@@ -94,7 +94,6 @@ export default {
   'settings.password.new': 'Nové heslo',
   'settings.password.repeat': 'Zopakujte nové heslo',
   'settings.password.nomatch': 'Zadané heslo se neshoduje!',
-  'settings.password.badlength': 'Heslo musí mít minimálně {length} písmen.',
   'common.account.create': 'Vytvořit účet',
   'signup.username': 'Uživatelské jméno',
   'signup.email': 'Váš e-mail',
@@ -945,7 +944,9 @@ export default {
   'errorLoading.explained':
     'Během načítání stránky došlo k chybě. Moc se omlouváme. Prosím zkuste stránku znovu načíst. Pokud bude problém přetrvávat informujte nás.',
   'errorLoading.retry': 'Zkusit znova!',
-  'errorLoading.takingLong': 'Tohle trvá nějak dlouho...'
+  'errorLoading.takingLong': 'Tohle trvá nějak dlouho...',
+  // added 2019-01-13
+  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.'
 };
 
 /* eslint-enable max-len */

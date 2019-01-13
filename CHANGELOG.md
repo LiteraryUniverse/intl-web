@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-01-13
+  * Remove unused key `settings.password.badlength`
+  * Add a new key for reset password flow
+
 ## 2019-01-12
   * Added new keys for loading error page
 
