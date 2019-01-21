@@ -423,7 +423,7 @@ export default {
   'genre.crimi': 'Crimi',
   'genre.historical': '歴史小説',
   'genre.horror': 'ホラー',
-  'genre.mystery': '神秘',
+  'genre.mystery': 'ミステリー',
   'genre.thriller': 'スリラー',
   'genre.western': 'Western',
   'genre.memoir': '伝記',
