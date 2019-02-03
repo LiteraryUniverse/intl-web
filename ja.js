@@ -128,6 +128,7 @@ export default {
   'pm.messages.own': 'Your messages',
   'pm.conversations.none': 'You are currently not conversing with anyone.',
   'pm.to': 'To:',
+  'pm.with': 'Conversation with:',
 
   'premium.only.title': 'For premium users only',
   'premium.only.msg': 'We apologize, but this functionality is for premium members only.',

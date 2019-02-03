@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-02-03
+  * Added two keys in regards to private messages
+
 ## 2019-01-13
   * Remove unused key `settings.password.badlength`
   * Add a new key for reset password flow

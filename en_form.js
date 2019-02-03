@@ -10,8 +10,9 @@ export default {
   'form.submitting.signup': 'Creating account...',
   'form.submitting.signin': 'Logging in...',
   'form.submitting.default': 'Submitting...',
+  'form.submitting.sending': 'Sending...',
   // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
-  // but don't forget to adjust
+  // but don't forget to adjust the format
   'simpleschema.required': '{label} is required',
   'simpleschema.minString': '{label} must be at least {min} characters',
   'simpleschema.maxString': '{label} cannot exceed {max} characters',

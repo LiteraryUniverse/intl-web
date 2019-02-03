@@ -126,6 +126,7 @@ export default {
   'pm.messages.own': 'Vaše zprávy',
   'pm.conversations.none': 'Momentálně nevedete žádné konverzace.',
   'pm.to': 'Pro:',
+  'pm.with': 'Converzace s:',
 
   'premium.only.title': 'Pouze pro premium uživatele',
   'premium.only.msg': 'Sorry, this functionality is for premium members only.',

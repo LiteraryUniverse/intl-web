@@ -10,8 +10,9 @@ export default {
   'form.submitting.signup': 'Vytváříme účet...',
   'form.submitting.signin': 'Probíhá přihlašování...',
   'form.submitting.default': 'Posíláme...',
+  'form.submitting.sending': 'Odesíláme zprávu...',
   // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
-  // but don't forget to adjust
+  // but don't forget to adjust the format
   'simpleschema.required': '{label} je povinné pole',
   'simpleschema.minString': '{label} musí mít alespoň {min} písmen',
   'simpleschema.maxString': '{label} nesmí být vice jak {max} písmen',
