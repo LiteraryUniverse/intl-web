@@ -939,7 +939,10 @@ export default {
   'errorLoading.retry': '再試行する',
   'errorLoading.takingLong': 'これは長い時間がかかります...',
   // added 2019-01-13
-  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.'
+  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.',
+  // added 2019-02-12
+  'pm.form.minimumParticipants': 'You need to choose a recipient.',
+  'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.'
 };
 
 /* eslint-enable max-len */

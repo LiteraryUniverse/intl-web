@@ -947,7 +947,10 @@ export default {
   'errorLoading.retry': 'Zkusit znova!',
   'errorLoading.takingLong': 'Tohle trvá nějak dlouho...',
   // added 2019-01-13
-  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.'
+  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.',
+  // added 2019-02-12
+  'pm.form.minimumParticipants': 'Musíte mít alespoň jednoho příjemce.',
+  'pm.form.maxParticipants': 'Můžete mít maximálně 10 lidí v konverzaci.'
 };
 
 /* eslint-enable max-len */

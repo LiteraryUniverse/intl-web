@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-02-12
+  * Added 2 keys for new message errors
+
 ## 2019-02-03
   * Added two keys in regards to private messages
 
