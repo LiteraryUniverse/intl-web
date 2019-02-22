@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-02-21
+  * Added common key for title
+  * Fixed wording of `feedback.new.thanks` key
+
 ## 2019-02-12
   * Added 2 keys for new message errors
 

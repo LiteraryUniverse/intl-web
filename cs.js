@@ -950,7 +950,9 @@ export default {
   'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.',
   // added 2019-02-12
   'pm.form.minimumParticipants': 'Musíte mít alespoň jednoho příjemce.',
-  'pm.form.maxParticipants': 'Můžete mít maximálně 10 lidí v konverzaci.'
+  'pm.form.maxParticipants': 'Můžete mít maximálně 10 lidí v konverzaci.',
+  // added 2019-02-21
+  'common.title': 'Nadpis'
 };
 
 /* eslint-enable max-len */

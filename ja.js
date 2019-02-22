@@ -616,7 +616,7 @@ export default {
   'feedback.features.desc': 'Have ideas for new features or how to make the site better? Let us know!',
   'feedback.help': 'Help & Tutorials',
   'feedback.help.desc': 'How do you _____? Go here to find the answers.',
-  'feedback.desc': 'Welcome to our help center!',
+  'feedback.desc': 'Welcome to our help & resolution center!',
 
   // added 2016-11-11
   'feedback.open': 'Open',
@@ -628,7 +628,7 @@ export default {
   'feedback.new.bugs': 'Report new issue',
   'feedback.new.features': 'Suggest a new feature',
   'feedback.lang.nosupport': 'Your current language is not supported for feedback, please write in English. Thank you!',
-  'feedback.new.thanks': 'Thank you for the notice! We will look at it shorty.',
+  'feedback.new.thanks': 'Thank you for the notice! We will look into it shorty.',
   'common.createdon': 'Created on ',
 
   // added 2016-11-14
@@ -942,7 +942,9 @@ export default {
   'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.',
   // added 2019-02-12
   'pm.form.minimumParticipants': 'You need to choose a recipient.',
-  'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.'
+  'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.',
+  // added 2019-02-21
+  'common.title': 'Title'
 };
 
 /* eslint-enable max-len */
