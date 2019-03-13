@@ -278,16 +278,16 @@ export default {
   'workshop.universe.nostories': 'Tento vesmír nemá žádné příběhy.',
   'workshop.story.chapter.add': 'Nová kapitola',
   'workshop.universe.new': 'Vytvořit nový vesmír',
-  'workshop.universe.publishing.note':
+  'workshop.universe.publish': 'Publikovat vesmír',
+  'workshop.universe.publishing.notice':
     'Pokud nyní nepublikujete vesmír, tak bude automaticky publikován s prvním příběhem který je s ním spojený.',
   'workshop.universe.settings': '{universe} nastavení',
   'workshop.universe.publishedOn': 'Vesmír byl publikován ',
   'workshop.universe.description': 'Popis vesmíru',
   'workshop.settings.title': 'Titulek',
-  'workshop.settings.title.required': 'Title is required',
   'workshop.description': 'Synopce',
   'workshop.language.primary': 'Hlavní jazyk',
-  'workshop.publication.opions': 'Možnosti publikace',
+  'workshop.publication.options': 'Možnosti publikace',
   'workshop.rating': 'Rating',
   'workshop.universe.rating.desc':
     'Příběhy a fan fikce nad tento rating nebudou zobrazeny na strance vesmíru anonymním uživatelům a uzivatelům kteří nedosáhli požadovaného věku.',
@@ -306,7 +306,7 @@ export default {
   'workshop.story.error.fanfiction.selectuniverse': 'You need to select original universe for your fan fiction!',
   'workshop.story.error.tags.toomany': 'You can only have 10 tags per story.',
   'workshop.story.new': 'Create a new story',
-  'workshop.story.publish.notice': 'The story will be published automatically once you publish the first chapter.',
+  'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
   'workshop.settings.edit': 'Editovat nastavení',
   'workshop.story.publishedOn': 'Příběh byl publikován ',
   'workshop.story.settings': 'Nastavení příběhu',

@@ -277,16 +277,16 @@ export default {
   'workshop.universe.nostories': 'There are no stories in this universe.',
   'workshop.story.chapter.add': 'New chapter',
   'workshop.universe.new': 'Create a new universe',
-  'workshop.universe.publishing.note':
+  'workshop.universe.publish': 'Publish universe',
+  'workshop.universe.publishing.notice':
     'If you do not publish the universe, it will be published automatically when the first story connected to the universe is published.',
   'workshop.universe.settings': '{universe} universe settings',
   'workshop.universe.publishedOn': 'This universe has been published on ',
   'workshop.universe.description': 'Universe description',
   'workshop.settings.title': 'Title',
-  'workshop.settings.title.required': 'Title is required',
   'workshop.description': 'Description',
   'workshop.language.primary': 'Primary language',
-  'workshop.publication.opions': 'Publication options',
+  'workshop.publication.options': 'Publication options',
   'workshop.rating': 'General rating',
   'workshop.universe.rating.desc':
     'Stories and fanfiction above this rating will be hidden from the universe page listing from anonymous users and users who are not of the appropriate age.',
@@ -305,7 +305,7 @@ export default {
   'workshop.story.error.fanfiction.selectuniverse': 'You need to select original universe for your fan fiction!',
   'workshop.story.error.tags.toomany': 'You can only have 10 tags per story.',
   'workshop.story.new': 'Create a new story',
-  'workshop.story.publish.notice': 'The story will be published automatically once you publish the first chapter.',
+  'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
   'workshop.settings.edit': 'Edit settings',
   'workshop.story.publishedOn': 'This story was published on ',
   'workshop.story.settings': 'Story settings',

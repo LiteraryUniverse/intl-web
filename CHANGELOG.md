@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-03-13
+  * Updated keys for publication notices
+  * Added `workshop.universe.publish` key
+
 ## 2019-02-21
   * Added common key for title
   * Fixed wording of `feedback.new.thanks` key
