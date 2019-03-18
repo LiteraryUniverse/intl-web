@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-03-18
+  * Added new key `search.user`
+
 ## 2019-03-13
   * Updated keys for publication notices
   * Added `workshop.universe.publish` key

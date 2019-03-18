@@ -67,6 +67,7 @@ export default {
   'common.comments': 'Komentáře',
   404: 'Stránka nenalezena',
   'search.users': 'Najdi uživatele',
+  'search.user': 'Najdi uživatele',
   'common.help': 'Nápověda',
   'common.or': 'nebo',
 

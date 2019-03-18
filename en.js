@@ -69,6 +69,7 @@ export default {
   'common.comments': 'Comments',
   404: 'Page not found',
   'search.users': 'Search for users',
+  'search.user': 'Search for user',
   'common.help': 'Help',
   'common.or': 'or',
 

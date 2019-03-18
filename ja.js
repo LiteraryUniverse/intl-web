@@ -69,6 +69,7 @@ export default {
   'common.comments': 'Comments',
   404: 'ページが見つかりません',
   'search.users': 'Search for users',
+  'search.user': 'Search for user',
   'common.help': 'Help',
   'common.or': '又は',
 
