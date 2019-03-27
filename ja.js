@@ -945,7 +945,9 @@ export default {
   'pm.form.minimumParticipants': 'You need to choose a recipient.',
   'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.',
   // added 2019-02-21
-  'common.title': 'Title'
+  'common.title': 'Title',
+  // added 2019-03-24
+  'workshop.encSettings': 'Encyclopedia settings'
 };
 
 /* eslint-enable max-len */

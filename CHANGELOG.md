@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-03-24
+  * Added new key `workshop.encSettings`
+
 ## 2019-03-18
   * Added new key `search.user`
 
