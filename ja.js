@@ -727,7 +727,6 @@ export default {
     collaborator {collaborators}
     beta {beta readers}
   }.`,
-  'workshop.translations.premium': 'Creating and managing translations requires premium subscription.',
 
   // added 2017-05-20
   'homepage.intro': 'Explore and create literally universes & great stories.',
@@ -947,7 +946,10 @@ export default {
   // added 2019-02-21
   'common.title': 'Title',
   // added 2019-03-24
-  'workshop.encSettings': 'Encyclopedia settings'
+  'workshop.encSettings': 'Encyclopedia settings',
+  // added 2019-04-21
+  'workshop.collaborators.removeUser': 'Remove user',
+  'workshop.collaborators.cancelInvite': 'Cancel invite'
 };
 
 /* eslint-enable max-len */

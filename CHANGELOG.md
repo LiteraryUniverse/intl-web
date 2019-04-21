@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-04-21
+  * Added new keys for collaborators help texts
+  * Removed `workshop.translations.premium` key
+
 ## 2019-03-24
   * Added new key `workshop.encSettings`
 

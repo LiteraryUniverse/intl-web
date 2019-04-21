@@ -736,7 +736,6 @@ export default {
     collaborator {spolupracovníků}
     beta {beta čtenářů}
   } je zapotřebí předplatné.`,
-  'workshop.translations.premium': 'Tvorba a zpráva překladů vyžaduje premiuový účet.',
 
   // added 2017-05-20
   'homepage.intro': 'Najděte či vytvořte literární vesmíry a úžasné příběhy.',
@@ -955,7 +954,10 @@ export default {
   // added 2019-02-21
   'common.title': 'Nadpis',
   // added 2019-03-24
-  'workshop.encSettings': 'Nastavení encyklopedie'
+  'workshop.encSettings': 'Nastavení encyklopedie',
+  // added 2019-04-21
+  'workshop.collaborators.removeUser': 'Odebrat uživatele',
+  'workshop.collaborators.cancelInvite': 'Zrušit pozvánku'
 };
 
 /* eslint-enable max-len */
