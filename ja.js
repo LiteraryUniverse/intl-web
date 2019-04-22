@@ -949,7 +949,9 @@ export default {
   'workshop.encSettings': 'Encyclopedia settings',
   // added 2019-04-21
   'workshop.collaborators.removeUser': 'Remove user',
-  'workshop.collaborators.cancelInvite': 'Cancel invite'
+  'workshop.collaborators.cancelInvite': 'Cancel invite',
+  // added 2019-04-22
+  'workshop.universe.createFirstStory': 'Create first story'
 };
 
 /* eslint-enable max-len */

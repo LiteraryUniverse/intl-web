@@ -957,7 +957,9 @@ export default {
   'workshop.encSettings': 'Nastavení encyklopedie',
   // added 2019-04-21
   'workshop.collaborators.removeUser': 'Odebrat uživatele',
-  'workshop.collaborators.cancelInvite': 'Zrušit pozvánku'
+  'workshop.collaborators.cancelInvite': 'Zrušit pozvánku',
+  // added 2019-04-22
+  'workshop.universe.createFirstStory': 'Vytvořit první příběh'
 };
 
 /* eslint-enable max-len */

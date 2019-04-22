@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-04-22
+  * Added `workshop.universe.createFirstStory` key
+
 ## 2019-04-21
   * Added new keys for collaborators help texts
   * Removed `workshop.translations.premium` key
