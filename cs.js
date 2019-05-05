@@ -959,7 +959,11 @@ export default {
   'workshop.collaborators.removeUser': 'Odebrat uživatele',
   'workshop.collaborators.cancelInvite': 'Zrušit pozvánku',
   // added 2019-04-22
-  'workshop.universe.createFirstStory': 'Vytvořit první příběh'
+  'workshop.universe.createFirstStory': 'Vytvořit první příběh',
+  // added 2019-05-05
+  'workshop.storylines': 'Příběhové linky',
+  'workshop.sceneManager': 'Správa scén',
+  'common.timelines': 'Časová osa'
 };
 
 /* eslint-enable max-len */

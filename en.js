@@ -951,7 +951,11 @@ export default {
   'workshop.collaborators.removeUser': 'Remove user',
   'workshop.collaborators.cancelInvite': 'Cancel invite',
   // added 2019-04-22
-  'workshop.universe.createFirstStory': 'Create first story'
+  'workshop.universe.createFirstStory': 'Create first story',
+  // added 2019-05-05
+  'workshop.storylines': 'Storylines',
+  'workshop.sceneManager': 'Scene Manager',
+  'common.timelines': 'Timelines'
 };
 
 /* eslint-enable max-len */

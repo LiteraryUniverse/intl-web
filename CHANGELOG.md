@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-05-05
+  * Added 3 new keys for new module names
+  * Adjusted key `form.validator.maxLength` in forms to use select
+
 ## 2019-04-22
   * Added `workshop.universe.createFirstStory` key
 

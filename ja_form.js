@@ -3,7 +3,10 @@ export default {
   'form.validator.mustBeNumber': 'は数値で入力してください',
   'form.validator.minNumber': 'は{min}またそれ以上の値にしてください',
   'form.validator.maxNumber': 'は{max}またそれ以下の値にしてください',
-  'form.validator.maxLength': 'Should be less than {max} characters',
+  'form.validator.maxLength': `Should be less than {max} {what, select,
+    characters {characters}
+    tags {tags}
+  }`,
   'form.validator.minLength': 'Should be greater than {min} characters',
   'form.validator.email': 'はメールアドレスで入力してください',
   'form.validator.url': 'はURLで入力してください',
