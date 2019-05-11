@@ -208,7 +208,7 @@ export default {
   'universe.createdby': `{gender, select,
     male {Vyvořil}
     female {Vytvořila}
-    other {Vytvořil}}`,
+    other {Vytvořil}} `,
   'universe.stories.for': 'Příběhy z {universe}',
   'universe.stories.own': '{universe} příběhy',
   'universe.stories.desc': 'Cannon příběhy pro {universe}',
@@ -962,8 +962,10 @@ export default {
   'workshop.universe.createFirstStory': 'Vytvořit první příběh',
   // added 2019-05-05
   'workshop.storylines': 'Příběhové linky',
-  'workshop.sceneManager': 'Správa scén',
-  'common.timelines': 'Časová osa'
+  'workshop.scenesManager': 'Správa scén',
+  'common.timelines': 'Časová osa',
+  // added 2019-05-06
+  'universe.authors.title.meta': 'Autoři {title}'
 };
 
 /* eslint-enable max-len */

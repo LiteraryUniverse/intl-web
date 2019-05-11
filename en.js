@@ -208,7 +208,7 @@ export default {
   'universe.createdby': `{gender, select,
     male {Created}
     female {Created}
-    other {Created}} by`,
+    other {Created}} by `,
   'universe.stories.for': 'Stories for {universe}',
   'universe.stories.own': '{universe} stories',
   'universe.stories.desc': 'Cannon stories for {universe}',
@@ -951,11 +951,13 @@ export default {
   'workshop.collaborators.removeUser': 'Remove user',
   'workshop.collaborators.cancelInvite': 'Cancel invite',
   // added 2019-04-22
-  'workshop.universe.createFirstStory': 'Create first story',
+  'workshop.universe.createFirstStory': 'Create the first story',
   // added 2019-05-05
   'workshop.storylines': 'Storylines',
-  'workshop.sceneManager': 'Scene Manager',
-  'common.timelines': 'Timelines'
+  'workshop.scenesManager': 'Scenes Manager',
+  'common.timelines': 'Timelines',
+  // added 2019-05-06
+  'universe.authors.title.meta': '{title} authors'
 };
 
 /* eslint-enable max-len */

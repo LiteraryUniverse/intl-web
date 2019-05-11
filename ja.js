@@ -208,7 +208,7 @@ export default {
   'universe.createdby': `{gender, select,
     male {Created}
     female {Created}
-    other {Created}} by`,
+    other {Created}} by `,
   'universe.stories.for': 'Stories for {universe}',
   'universe.stories.own': '{universe} stories',
   'universe.stories.desc': 'Cannon stories for {universe}',
@@ -933,7 +933,7 @@ export default {
   'settings.emailNotifications.newChapters': 'New chapters',
 
   // added 2019-01-12
-  'errorLoading.title': 'Error during page load',
+  'errorLoading.title': 'ページ読み込み中のエラー',
   'errorLoading.explained':
     'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
   'errorLoading.retry': '再試行する',
@@ -946,16 +946,18 @@ export default {
   // added 2019-02-21
   'common.title': 'Title',
   // added 2019-03-24
-  'workshop.encSettings': 'Encyclopedia settings',
+  'workshop.encSettings': '百科事典の設定',
   // added 2019-04-21
-  'workshop.collaborators.removeUser': 'Remove user',
-  'workshop.collaborators.cancelInvite': 'Cancel invite',
+  'workshop.collaborators.removeUser': 'ユーザーを削除',
+  'workshop.collaborators.cancelInvite': '招待をキャンセル',
   // added 2019-04-22
-  'workshop.universe.createFirstStory': 'Create first story',
+  'workshop.universe.createFirstStory': '最初の物語を作成する',
   // added 2019-05-05
-  'workshop.storylines': 'Storylines',
-  'workshop.sceneManager': 'Scene Manager',
-  'common.timelines': 'Timelines'
+  'workshop.storylines': 'ストーリーライン',
+  'workshop.scenesManager': 'シーンマネージャー',
+  'common.timelines': 'タイムライン',
+  // added 2019-05-06
+  'universe.authors.title.meta': '{title}の作者'
 };
 
 /* eslint-enable max-len */

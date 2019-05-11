@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-05-06
+  * Added new key `universe.authors.title.meta`
+  * Small fixes in various other keys
 ## 2019-05-05
   * Added 3 new keys for new module names
   * Adjusted key `form.validator.maxLength` in forms to use select
