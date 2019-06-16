@@ -9,7 +9,9 @@ export default {
   'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
   'site.keywords':
     'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
+  'site.logoAlt': 'Literary Universe logo',
   ...form,
+  'mobileMenu': 'Mobilní menu',
   'common.signin': 'Přihlásit se',
   'common.signup': 'Registrace',
   'common.signout': 'Odhlásit se',

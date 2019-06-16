@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-06-16
+  * Added mobile menu and logo alt keys
+
 ## 2019-05-06
   * Added new key `universe.authors.title.meta`
   * Small fixes in various other keys

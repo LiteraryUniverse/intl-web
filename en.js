@@ -9,7 +9,9 @@ export default {
   'site.description': 'Literary Universe is a creative and publishing site for grand story universes.',
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
+  'site.logoAlt': 'Literary Universe logo',
   ...form,
+  'mobileMenu': 'Mobile menu',
   'common.signin': 'Login',
   'common.signup': 'Register',
   'common.signout': 'Logout',
