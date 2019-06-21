@@ -11,7 +11,7 @@ export default {
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'site.logoAlt': 'Literary Universe logo',
   ...form,
-  'mobileMenu': 'Mobile menu',
+  mobileMenu: 'Mobile menu',
   'common.signin': 'Login',
   'common.signup': 'Register',
   'common.signout': 'Logout',
