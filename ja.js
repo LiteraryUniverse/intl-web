@@ -959,7 +959,9 @@ export default {
   'workshop.scenesManager': 'シーンマネージャー',
   'common.timelines': 'タイムライン',
   // added 2019-05-06
-  'universe.authors.title.meta': '{title}の作者'
+  'universe.authors.title.meta': '{title}の作者',
+  // added 2019-06-27
+  'workshop.collaborators.addRoleForLang': 'Add {role} for {language}'
 };
 
 /* eslint-enable max-len */

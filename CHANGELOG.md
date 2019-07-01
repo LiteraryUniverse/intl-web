@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-06-27
+  * Add new key `workshop.collaborators.addRoleForLang`
+
 ## 2019-06-16
   * Added mobile menu and logo alt keys
 

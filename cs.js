@@ -967,7 +967,9 @@ export default {
   'workshop.scenesManager': 'Správa scén',
   'common.timelines': 'Časová osa',
   // added 2019-05-06
-  'universe.authors.title.meta': 'Autoři {title}'
+  'universe.authors.title.meta': 'Autoři {title}',
+  // added 2019-06-27
+  'workshop.collaborators.addRoleForLang': 'Přidat {role} pro {language}'
 };
 
 /* eslint-enable max-len */
