@@ -6,6 +6,8 @@ export default {
   'form.validator.maxLength': `Should be less than {max} {what, select,
     characters {characters}
     tags {tags}
+    genres {genres}
+    other {}
   }`,
   'form.validator.minLength': 'Should be greater than {min} characters',
   'form.validator.email': 'はメールアドレスで入力してください',

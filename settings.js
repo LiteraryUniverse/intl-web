@@ -16,6 +16,14 @@ export default {
       defaultLocale: 'cs-CZ',
       supportedLocales: ['cs-CZ'],
       rtl: false
+    },
+    {
+      code: 'jp',
+      name: 'Japanese',
+      native: '日本語',
+      defaultLocale: 'jp-JP',
+      supportedLocales: ['jp-JP'],
+      rtl: false
     }
   ],
   /* eslint-disable object-shorthand */

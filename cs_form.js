@@ -6,6 +6,8 @@ export default {
   'form.validator.maxLength': `Mělo by mít méně než {max} {what, select,
     characters {písmen}
     tags {tagů}
+    genres {žánry}
+    other {}
   }`,
   'form.validator.minLength': 'Mělo by mít více než {min} písmen',
   'form.validator.email': 'Musí být validní e-mail',
