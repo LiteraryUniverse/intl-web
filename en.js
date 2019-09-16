@@ -961,7 +961,12 @@ export default {
   // added 2019-05-06
   'universe.authors.title.meta': '{title} authors',
   // added 2019-06-27
-  'workshop.collaborators.addRoleForLang': 'Add {role} for {language}'
+  'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
+  // added 2019-09-16
+  'settings.theme.title': 'Site theming',
+  'settings.theme.label': 'Site theme',
+  'settings.theme.light': 'Light',
+  'settings.theme.dark': 'Dark'
 };
 
 /* eslint-enable max-len */

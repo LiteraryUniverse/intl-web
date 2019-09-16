@@ -961,7 +961,12 @@ export default {
   // added 2019-05-06
   'universe.authors.title.meta': '{title}の作者',
   // added 2019-06-27
-  'workshop.collaborators.addRoleForLang': 'Add {role} for {language}'
+  'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
+  // added 2019-09-16
+  'settings.theme.title': 'ウェブサイトの外観',
+  'settings.theme.label': 'ウェブサイトのテーマ',
+  'settings.theme.light': '白い',
+  'settings.theme.dark': '黒い'
 };
 
 /* eslint-enable max-len */

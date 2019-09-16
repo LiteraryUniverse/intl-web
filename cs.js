@@ -969,7 +969,12 @@ export default {
   // added 2019-05-06
   'universe.authors.title.meta': 'Autoři {title}',
   // added 2019-06-27
-  'workshop.collaborators.addRoleForLang': 'Přidat {role} pro {language}'
+  'workshop.collaborators.addRoleForLang': 'Přidat {role} pro {language}',
+  // added 2019-09-16
+  'settings.theme.title': 'Vzhled stránek',
+  'settings.theme.label': 'Vzhled',
+  'settings.theme.light': 'Světlý',
+  'settings.theme.dark': 'Temný'
 };
 
 /* eslint-enable max-len */
