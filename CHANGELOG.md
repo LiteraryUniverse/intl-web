@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-09-16
+  * Updated privacy text in Japanese
+  * Added language keys for theme switching
+
 ## 2019-06-27
   * Add new key `workshop.collaborators.addRoleForLang`
 
