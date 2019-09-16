@@ -118,7 +118,7 @@ export default {
   'common.footer.plans': 'Plans & Pricing',
   'common.legal.tos': '利用規約',
   'common.legal.community': 'Community Guidelines',
-  'common.legal.privacy': '個人情報保護方針',
+  'common.legal.privacy': 'プライバシーポリシー',
   'common.legal.copyright': 'Copyright Agreement',
   'common.legal.disclaimer': '© {year} 全著作権所有。 すべてのテキストはそれぞれの作者に属します。',
 
