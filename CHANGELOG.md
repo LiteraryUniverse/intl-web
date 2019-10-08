@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-10-04
+  * Add initial keys for additional legal texts
+  * Add some more keys for editor
+
 ## 2019-09-16
   * Updated privacy text in Japanese
   * Added language keys for theme switching

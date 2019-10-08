@@ -6,7 +6,7 @@ import form from './cs_form';
 export default {
   locales: ['cs', 'cs-CZ'],
   sitename: 'Literary Universe',
-  'site.description': 'Literary Universe je aplikace pro psaní a čtení rozsáhlých literárních vesmírů.',
+  'site.description': 'Literary Universe je platforma pro psaní a čtení rozsáhlých literárních vesmírů.',
   'site.keywords':
     'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
   'site.logoAlt': 'Literary Universe logo',
@@ -974,7 +974,30 @@ export default {
   'settings.theme.title': 'Vzhled stránek',
   'settings.theme.label': 'Vzhled',
   'settings.theme.light': 'Světlý',
-  'settings.theme.dark': 'Temný'
+  'settings.theme.dark': 'Temný',
+  // added 2019-10-04
+  'common.legal.gdpr': 'GDPR',
+  'common.legal.gdpr.long': 'Obecné nařízení o ochraně osobních údajů (anglicky General Data Protection Regulation)',
+  'gdpr.title': 'GDPR Dodržování',
+  'gdpr.desc': 'Literary Universe je v souladu s EU GDPR direktivou.',
+  'gdpr.compliant': 'Literary Universe dodžuje GDPR',
+  'gdpr.compliant.text':
+    'Literary Universe has implemented various updates and changes to its codebase in preparation for GDPR enforcement on May 25th 2018.',
+  'common.legal.dmca': 'DMCA',
+  'common.legal.dmca.long': 'Digital Millennium Copyright Act',
+  'dmca.title': 'Digital Millennium Copyright Act (DMCA) Policy',
+  'dmca.subtitle': 'Copyright Dispute Policy',
+  'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
+  'dmca.step2.title': 'Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.',
+  'dmca.step3.title': 'Procedure to Supply a Counter-Notice to the Designated Agent.',
+  'dmca.desc': '',
+  'writer.undo': 'Zpět',
+  'writer.redo': 'Vpřed',
+  'writer.ul': 'Unordered list',
+  'writer.ol': 'Ordered list',
+  'writer.blockquote': 'Vložit citaci',
+  'writer.link': 'Vložit odkaz',
+  'writer.image': 'Vložit obrázek'
 };
 
 /* eslint-enable max-len */

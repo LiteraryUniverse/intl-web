@@ -5,8 +5,8 @@ import form from './ja_form';
 /* eslint-disable max-len */
 export default {
   locales: ['jp', 'jp-JP'],
-  sitename: '文学の世界',
-  'site.description': 'Literary Universe is a creative and publishing site for grand story universes.',
+  sitename: '文学の宇宙',
+  'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'site.logoAlt': 'Literary Universe logo',
@@ -966,7 +966,30 @@ export default {
   'settings.theme.title': 'ウェブサイトの外観',
   'settings.theme.label': 'ウェブサイトのテーマ',
   'settings.theme.light': '白い',
-  'settings.theme.dark': '黒い'
+  'settings.theme.dark': '黒い',
+  // added 2019-10-04
+  'common.legal.gdpr': 'GDPR',
+  'common.legal.gdpr.long': '般データ保護規則',
+  'gdpr.title': 'GDPR Compliance',
+  'gdpr.desc': 'Literary Universe is compliant with the EU GDPR directives.',
+  'gdpr.compliant': 'Literary UniverseはGDPRに準拠',
+  'gdpr.compliant.text':
+    'Literary Universeは、2018年5月25日にGDPRの施行に備えて、コードベースにさまざまな更新と変更を実装しました。',
+  'common.legal.dmca': 'DMCA',
+  'common.legal.dmca.long': 'デジタルミレニアム著作権法',
+  'dmca.title': 'デジタルミレニアム著作権法 (DMCA) Policy',
+  'dmca.subtitle': 'Copyright Dispute Policy',
+  'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
+  'dmca.step2.title': 'Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.',
+  'dmca.step3.title': 'Procedure to Supply a Counter-Notice to the Designated Agent.',
+  'dmca.desc': '',
+  'writer.undo': 'アンドゥ',
+  'writer.redo': 'やり直し',
+  'writer.ul': '順不同リスト',
+  'writer.ol': '順序付きリスト',
+  'writer.blockquote': '見積もりを挿入する',
+  'writer.link': 'リンクを挿入する',
+  'writer.image': '画像を挿入する'
 };
 
 /* eslint-enable max-len */

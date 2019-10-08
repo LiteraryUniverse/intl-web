@@ -1,4 +1,4 @@
-# intl-web
+# Literary Universe intl-web
 Localization for Literary Universe web app.
 
 ## Found an issue or type?

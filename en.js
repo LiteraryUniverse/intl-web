@@ -6,7 +6,7 @@ import form from './en_form';
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
   sitename: 'Literary Universe',
-  'site.description': 'Literary Universe is a creative and publishing site for grand story universes.',
+  'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'site.logoAlt': 'Literary Universe logo',
@@ -966,7 +966,30 @@ export default {
   'settings.theme.title': 'Site theming',
   'settings.theme.label': 'Site theme',
   'settings.theme.light': 'Light',
-  'settings.theme.dark': 'Dark'
+  'settings.theme.dark': 'Dark',
+  // added 2019-10-04
+  'common.legal.gdpr': 'GDPR',
+  'common.legal.gdpr.long': 'General Data Protection Regulation',
+  'gdpr.title': 'GDPR Compliance',
+  'gdpr.desc': 'Literary Universe is compliant with the EU GDPR directives.',
+  'gdpr.compliant': 'Literary Universe is GDPR Compliant',
+  'gdpr.compliant.text':
+    'Literary Universe has implemented various updates and changes to its codebase in preparation for GDPR enforcement on May 25th 2018.',
+  'common.legal.dmca': 'DMCA',
+  'common.legal.dmca.long': 'Digital Millennium Copyright Act',
+  'dmca.title': 'Digital Millennium Copyright Act (DMCA) Policy',
+  'dmca.subtitle': 'Copyright Dispute Policy',
+  'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
+  'dmca.step2.title': 'Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.',
+  'dmca.step3.title': 'Procedure to Supply a Counter-Notice to the Designated Agent.',
+  'dmca.desc': '',
+  'writer.undo': 'Undo',
+  'writer.redo': 'Redo',
+  'writer.ul': 'Unordered list',
+  'writer.ol': 'Ordered list',
+  'writer.blockquote': 'Quote',
+  'writer.link': 'Insert a link',
+  'writer.image': 'Insert an image'
 };
 
 /* eslint-enable max-len */
