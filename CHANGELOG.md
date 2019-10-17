@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-10-16
+  * Add two placeholder keys for new editor
+
 ## 2019-10-04
   * Add initial keys for additional legal texts
   * Add some more keys for editor

@@ -997,7 +997,10 @@ export default {
   'writer.ol': 'Ordered list',
   'writer.blockquote': 'Vložit citaci',
   'writer.link': 'Vložit odkaz',
-  'writer.image': 'Vložit obrázek'
+  'writer.image': 'Vložit obrázek',
+  // Added 2019-10-16
+  'editor.placeholder.link': 'Vložte URL...',
+  'editor.placeholder.connection': 'Hledat v encyklopedii...'
 };
 
 /* eslint-enable max-len */

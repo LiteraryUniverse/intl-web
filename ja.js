@@ -989,7 +989,10 @@ export default {
   'writer.ol': '順序付きリスト',
   'writer.blockquote': '見積もりを挿入する',
   'writer.link': 'リンクを挿入する',
-  'writer.image': '画像を挿入する'
+  'writer.image': '画像を挿入する',
+  // Added 2019-10-16
+  'editor.placeholder.link': 'Enter URL...',
+  'editor.placeholder.connection': 'Search for encyclopedia entry...'
 };
 
 /* eslint-enable max-len */

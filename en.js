@@ -989,7 +989,10 @@ export default {
   'writer.ol': 'Ordered list',
   'writer.blockquote': 'Quote',
   'writer.link': 'Insert a link',
-  'writer.image': 'Insert an image'
+  'writer.image': 'Insert an image',
+  // Added 2019-10-16
+  'editor.placeholder.link': 'Enter URL...',
+  'editor.placeholder.connection': 'Search for encyclopedia entry...'
 };
 
 /* eslint-enable max-len */
