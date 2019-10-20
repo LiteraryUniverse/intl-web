@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-10-20
+  * Removed two keys that were duplicate of another
+  * Added success messages for editor saving
+
 ## 2019-10-16
   * Add two placeholder keys for new editor
 

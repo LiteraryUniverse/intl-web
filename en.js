@@ -244,8 +244,6 @@ export default {
   'reader.details.story': 'Story details',
   'reader.darkmode': 'Toggle dark mode',
   'reader.flowtext': 'Toggle text size',
-  'writer.save.beta': 'Revision for Beta readers',
-  'writer.save.public': 'Publish',
   'writer.bold': 'Bold the selection',
   'writer.underline': 'Underline the selection',
   'writer.italic': 'Emphasize the selection',
@@ -992,7 +990,11 @@ export default {
   'writer.image': 'Insert an image',
   // Added 2019-10-16
   'editor.placeholder.link': 'Enter URL...',
-  'editor.placeholder.connection': 'Search for encyclopedia entry...'
+  'editor.placeholder.connection': 'Search for encyclopedia entry...',
+  // Added 2019-10-20
+  'editor.saved.beta': 'New revision for Beta readers created!',
+  'editor.saved.public': 'New version published!',
+  'editor.saving.error.content': "Couldn't get the story content"
 };
 
 /* eslint-enable max-len */

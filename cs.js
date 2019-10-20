@@ -245,8 +245,6 @@ export default {
   'reader.details.story': 'Detaily příběhu',
   'reader.darkmode': 'Zhasnout',
   'reader.flowtext': 'Přepnout velikost textu',
-  'writer.save.beta': 'Revize pro Beta čtenáře',
-  'writer.save.public': 'Publikovat',
   'writer.bold': 'Bold the selection',
   'writer.underline': 'Underline the selection',
   'writer.italic': 'Emphasize the selection',
@@ -1000,7 +998,11 @@ export default {
   'writer.image': 'Vložit obrázek',
   // Added 2019-10-16
   'editor.placeholder.link': 'Vložte URL...',
-  'editor.placeholder.connection': 'Hledat v encyklopedii...'
+  'editor.placeholder.connection': 'Hledat v encyklopedii...',
+  // Added 2019-10-20
+  'editor.saved.beta': 'Nová revize pro Beta čtenáře byla vytvořena!',
+  'editor.saved.public': 'Nová verze byla pulikována!',
+  'editor.saving.error.content': 'Nepodařilo se získat obsah příběhu'
 };
 
 /* eslint-enable max-len */
