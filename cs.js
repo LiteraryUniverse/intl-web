@@ -1002,7 +1002,11 @@ export default {
   // Added 2019-10-20
   'editor.saved.beta': 'Nová revize pro Beta čtenáře byla vytvořena!',
   'editor.saved.public': 'Nová verze byla pulikována!',
-  'editor.saving.error.content': 'Nepodařilo se získat obsah příběhu'
+  'editor.saving.error.content': 'Nepodařilo se získat obsah příběhu',
+  // Added 2019-10-21
+  goodbyeForever:
+    "Je nám líto že nás opouštíte. Je to kvůli něčemu co jsme udělali? Dejte nám vědět pokud tomu tak je. V každém případě Vám přejeme to nejlepší do budoucna a doufáme, že se naše cesti znovu zkříží!",
+  'goodbyeForever.feedback': 'Dejte nám vědět co můžeme zlepšit'
 };
 
 /* eslint-enable max-len */

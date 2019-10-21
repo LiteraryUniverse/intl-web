@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-10-21
+  * Added 2 new keys for account deletion
+
 ## 2019-10-20
   * Removed two keys that were duplicate of another
   * Added success messages for editor saving
