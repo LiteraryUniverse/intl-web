@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-10-23
+  * Added new entries for universe settings page
+  
 ## 2019-10-21
   * Added 2 new keys for account deletion
 

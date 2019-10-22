@@ -998,7 +998,11 @@ export default {
   // Added 2019-10-21
   goodbyeForever:
     "We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we'll meet again! Live long and prosper!",
-  'goodbyeForever.feedback': 'Let us know what we can do better'
+  'goodbyeForever.feedback': 'Let us know what we can do better',
+  // Added 2019-10-23
+  'encyclopedia.settings.title': 'Encyclopedia settings',
+  'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
+  'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.'
 };
 
 /* eslint-enable max-len */

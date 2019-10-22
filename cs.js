@@ -1005,8 +1005,12 @@ export default {
   'editor.saving.error.content': 'Nepodařilo se získat obsah příběhu',
   // Added 2019-10-21
   goodbyeForever:
-    "Je nám líto že nás opouštíte. Je to kvůli něčemu co jsme udělali? Dejte nám vědět pokud tomu tak je. V každém případě Vám přejeme to nejlepší do budoucna a doufáme, že se naše cesti znovu zkříží!",
-  'goodbyeForever.feedback': 'Dejte nám vědět co můžeme zlepšit'
+    'Je nám líto že nás opouštíte. Je to kvůli něčemu co jsme udělali? Dejte nám vědět pokud tomu tak je. V každém případě Vám přejeme to nejlepší do budoucna a doufáme, že se naše cesti znovu zkříží!',
+  'goodbyeForever.feedback': 'Dejte nám vědět co můžeme zlepšit',
+  // Added 2019-10-23
+  'encyclopedia.settings.title': 'Nastavení encyklopedie',
+  'encyclopedia.settings.categoriesDesc': 'Zapněte a vypněte kategorie, které chcete použít ve Vašem vesmíru.',
+  'encyclopedia.settings.introText': 'Uvítací zpráva, která bude zobrazena hned po popisku vesmíru.'
 };
 
 /* eslint-enable max-len */
