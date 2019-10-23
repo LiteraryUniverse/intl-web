@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-10-24
+  * Fix issue in settings
+  * Fix select missing in `workshop.collaborators.premium` key
+
 ## 2019-10-23
   * Added new entries for universe settings page
   

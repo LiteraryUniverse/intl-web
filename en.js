@@ -726,6 +726,7 @@ export default {
   'workshop.collaborators.premium': `Get Premium to be able to add {type, select,
     collaborator {collaborators}
     beta {beta readers}
+    translator {translators}
   }.`,
 
   // added 2017-05-20

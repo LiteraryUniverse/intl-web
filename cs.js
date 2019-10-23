@@ -735,6 +735,7 @@ export default {
   'workshop.collaborators.premium': `Pro přidávání {type, select,
     collaborator {spolupracovníků}
     beta {beta čtenářů}
+    translator {překladatelů}
   } je zapotřebí předplatné.`,
 
   // added 2017-05-20

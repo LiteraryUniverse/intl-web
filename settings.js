@@ -18,11 +18,11 @@ export default {
       rtl: false
     },
     {
-      code: 'jp',
+      code: 'ja',
       name: 'Japanese',
       native: '日本語',
-      defaultLocale: 'jp-JP',
-      supportedLocales: ['jp-JP'],
+      defaultLocale: 'ja-JP',
+      supportedLocales: ['ja-JP'],
       rtl: false
     }
   ],
@@ -75,14 +75,6 @@ export default {
         native: 'Português',
         defaultLocale: 'pt-PT',
         supportedLocales: ['pt-PT', 'pt-BR'],
-        rtl: false
-      },
-      {
-        code: 'ja',
-        name: 'Japanese',
-        native: '日本語',
-        defaultLocale: 'ja-JP',
-        supportedLocales: ['ja-JP'],
         rtl: false
       },
       {
