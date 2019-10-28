@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-10-28
+  * Added new keys for encyclopedia upgrade
+  * New key `form.validator.slug` in form validations
+
 ## 2019-10-24
   * Fix issue in settings
   * Fix select missing in `workshop.collaborators.premium` key

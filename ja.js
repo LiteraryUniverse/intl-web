@@ -1003,7 +1003,11 @@ export default {
   // Added 2019-10-23
   'encyclopedia.settings.title': 'Encyclopedia settings',
   'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-  'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.'
+  'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
+  // Added 2019-10-27
+  'common.edit': 'Edit',
+  'encyclopedia.fields.placeholder': 'Field name',
+  'encyclopedia.fields.delete': 'Delete field'
 };
 
 /* eslint-enable max-len */

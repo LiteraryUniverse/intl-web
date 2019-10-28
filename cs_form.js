@@ -12,6 +12,7 @@ export default {
   'form.validator.minLength': 'Mělo by mít více než {min} písmen',
   'form.validator.email': 'Musí být validní e-mail',
   'form.validator.url': 'Musí být validní URL',
+  'form.validator.slug': 'Musí být validní část URL adresy',
   'form.submitting.signup': 'Vytváříme účet...',
   'form.submitting.signin': 'Probíhá přihlašování...',
   'form.submitting.default': 'Posíláme...',

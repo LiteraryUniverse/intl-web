@@ -12,6 +12,7 @@ export default {
   'form.validator.minLength': 'Should be greater than {min} characters',
   'form.validator.email': 'Must be a valid e-mail',
   'form.validator.url': 'Must be a valid URL',
+  'form.validator.slug': 'Must be a valid part of URL',
   'form.submitting.signup': 'Creating account...',
   'form.submitting.signin': 'Logging in...',
   'form.submitting.default': 'Submitting...',

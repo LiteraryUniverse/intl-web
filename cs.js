@@ -1011,7 +1011,11 @@ export default {
   // Added 2019-10-23
   'encyclopedia.settings.title': 'Nastavení encyklopedie',
   'encyclopedia.settings.categoriesDesc': 'Zapněte a vypněte kategorie, které chcete použít ve Vašem vesmíru.',
-  'encyclopedia.settings.introText': 'Uvítací zpráva, která bude zobrazena hned po popisku vesmíru.'
+  'encyclopedia.settings.introText': 'Uvítací zpráva, která bude zobrazena hned po popisku vesmíru.',
+  // Added 2019-10-27
+  'common.edit': 'Editovat',
+  'encyclopedia.fields.placeholder': 'Jméno sekce',
+  'encyclopedia.fields.delete': 'Smazat sekci'
 };
 
 /* eslint-enable max-len */
