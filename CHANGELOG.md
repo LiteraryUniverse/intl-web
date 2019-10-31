@@ -1,4 +1,9 @@
 # Changelog for languages
+## 2019-10-31
+  * Add keys and update existing selects for new encyclopedia categories
+  * Remove few outdated keys
+  * More JP translations
+
 ## 2019-10-28
   * Added new keys for encyclopedia upgrade
   * New key `form.validator.slug` in form validations

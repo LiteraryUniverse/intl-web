@@ -342,6 +342,17 @@ export default {
   'encyclopedia.category.item': 'Items',
   'encyclopedia.category.location': 'Locations',
   'encyclopedia.category.other': 'Other',
+  'encyclopedia.category.state': 'States',
+  'encyclopedia.category.governments': 'Governments',
+  'encyclopedia.category.languages': 'Languages',
+  'encyclopedia.category.creatures': 'Creatures',
+  'encyclopedia.category.deity': 'Deities',
+  'encyclopedia.category.religions': 'Religions',
+  'encyclopedia.category.flora': 'Flora',
+  'encyclopedia.category.magic': 'Magic',
+  'encyclopedia.category.planets': 'Planets',
+  'encyclopedia.category.species': 'Species',
+  'encyclopedia.category.technologies': 'Technologies',
   'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -368,6 +379,17 @@ export default {
     item {item}
     location {location}
     other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
   }`,
   'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -376,14 +398,36 @@ export default {
     item {item}
     location {location}
     other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
   } in {universe}`,
   'encyclopedia.entry.category': `Entry category: {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
   }`,
   'encyclopedia.fields.add': 'Add a new field',
   'encyclopedia.fields.text': 'Definition',
@@ -397,14 +441,13 @@ export default {
   'encyclopedia.container': 'Container',
   'encyclopedia.container.desc':
     'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-  'encyclopedia.entry.name': 'Name of entry',
+  'encyclopedia.entry.name': 'Name of the entry',
   'encyclopedia.summary': 'Summary',
   'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
   'encyclopedia.parent': 'Parent entry',
   'encyclopedia.related': 'Related entries',
   'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
   'encyclopedia.field.private': 'Private field',
-  'encyclopedia.title.save': 'Save title',
   'encyclopedia.ft.indev': 'This option is in development.',
   'encyclopedia.connections.remove': 'Remove connection',
   'encyclopedia.connections.extra': 'Extra information',

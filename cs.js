@@ -343,6 +343,17 @@ export default {
   'encyclopedia.category.item': 'Věci',
   'encyclopedia.category.location': 'Lokace',
   'encyclopedia.category.other': 'Ostatní',
+  'encyclopedia.category.state': 'Národy',
+  'encyclopedia.category.governments': 'Státy',
+  'encyclopedia.category.languages': 'Jazyky',
+  'encyclopedia.category.creatures': 'Bytosti',
+  'encyclopedia.category.deity': 'Bohové',
+  'encyclopedia.category.religions': 'Náboženství',
+  'encyclopedia.category.flora': 'Flora',
+  'encyclopedia.category.magic': 'Magie',
+  'encyclopedia.category.planets': 'Planety',
+  'encyclopedia.category.species': 'Rasy',
+  'encyclopedia.category.technologies': 'Technologie',
   'encyclopedia.search.found': `{results, plural,
     zero {Nic nenalezeno}
     one {1 možný článek nalezen}
@@ -364,22 +375,44 @@ export default {
   'encyclopedia.add.title': 'Přidat nový článek do encyklopedie',
   'encyclopedia.add.heading': 'Co si přejete přidat?',
   'encyclopedia.add.moresoon': 'Více katerorii, již brzy!',
-  'encyclopedia.create': `Vytvořit novou {category, select,
-    character {postavu}
-    event {událost}
-    group {skupinu}
-    item {věc}
-    location {lokaci}
-    other {poznámku}
+  'encyclopedia.create': `Vytvořit nov{category, select,
+    character {ou postavu}
+    event {ou událost}
+    group {ou skupinu}
+    item {ou věc}
+    location {ou lokaci}
+    other {ou poznámku}
+    state {ý národ}
+    governments {ý stát}
+    languages {ý jazyk}
+    creatures {ou bytost}
+    deity {é božstvo}
+    religions {é náboženství}
+    flora {ou floru}
+    magic {ou magii}
+    planets {ou planetu}
+    species {ou rasu}
+    technologies {ou technologii}
   }`,
-  'encyclopedia.create.header': `Vytvořit novou {category, select,
-    character {postavu}
-    event {událost}
-    group {skupinu}
-    item {věc}
-    location {lokaci}
-    other {poznámku}
-  } in {universe}`,
+  'encyclopedia.create.header': `Vytvořit nov{category, select,
+    character {ou postavu}
+    event {ou událost}
+    group {ou skupinu}
+    item {ou věc}
+    location {ou lokaci}
+    other {ou poznámku}
+    state {ý národ}
+    governments {ý stát}
+    languages {ý jazyk}
+    creatures {ou bytost}
+    deity {é božstvo}
+    religions {é náboženství}
+    flora {ou floru}
+    magic {ou magii}
+    planets {ou planetu}
+    species {ou rasu}
+    technologies {ou technologii}
+  } v {universe}`,
   'encyclopedia.entry.category': `Typ článku: {category, select,
     character {Postava}
     event {Událost}
@@ -387,6 +420,17 @@ export default {
     item {Věc}
     location {Lokace}
     other {Ostatní}
+    state {Národ}
+    governments {Stát}
+    languages {Jazyk}
+    creatures {Bytost}
+    deity {Božstvo}
+    religions {Náboženství}
+    flora {Flora}
+    magic {Magie}
+    planets {Planeta}
+    species {Rasa}
+    technologies {Technologie}
   }`,
   'encyclopedia.fields.add': 'Přidat nové pole',
   'encyclopedia.fields.text': 'Definice',
@@ -408,7 +452,6 @@ export default {
   'encyclopedia.related': 'Příbuzné články',
   'encyclopedia.errors.tags': 'Můžete mít maximálně 10 tagů pro jeden článek.',
   'encyclopedia.field.private': 'Soukromé pole',
-  'encyclopedia.title.save': 'Uložit titulek',
   'encyclopedia.ft.indev': 'Tato možnost je ve vývoji.',
   'encyclopedia.connections.remove': 'Ostranit spojení',
   'encyclopedia.connections.extra': 'Extra informace',

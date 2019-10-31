@@ -334,14 +334,25 @@ export default {
 
   'encyclopedia.back.universe': 'Back to universe page',
   'encyclopedia.back.workshop': 'Back to workshop',
-  'encyclopedia.categories': 'Categories',
-  'encyclopedia.groups': 'Groups',
-  'encyclopedia.category.character': 'Characters',
-  'encyclopedia.category.event': 'Events',
-  'encyclopedia.category.group': 'Groups',
-  'encyclopedia.category.item': 'Items',
-  'encyclopedia.category.location': 'Locations',
-  'encyclopedia.category.other': 'Other',
+  'encyclopedia.categories': 'カテゴリー',
+  'encyclopedia.groups': 'ツリー表示',
+  'encyclopedia.category.character': 'キャラクター',
+  'encyclopedia.category.event': 'イベント',
+  'encyclopedia.category.group': 'グループ',
+  'encyclopedia.category.item': '項目',
+  'encyclopedia.category.location': '場所',
+  'encyclopedia.category.other': 'その他',
+  'encyclopedia.category.state': '国家',
+  'encyclopedia.category.governments': '政府',
+  'encyclopedia.category.languages': '語',
+  'encyclopedia.category.creatures': '生き物',
+  'encyclopedia.category.deity': '神',
+  'encyclopedia.category.religions': '宗教',
+  'encyclopedia.category.flora': '植物',
+  'encyclopedia.category.magic': '魔法',
+  'encyclopedia.category.planets': '惑星',
+  'encyclopedia.category.species': '正貨',
+  'encyclopedia.category.technologies': '技術',
   'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -353,63 +364,95 @@ export default {
   'encyclopedia.help.sidebar.text':
     'Use the selection above to search, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
   'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-  'encyclopedia.entries.total': `There are currently {num, plural,
+  'encyclopedia.entries.total': `現在、百科事典には{num, plural,
     =0 {no entries}
     one {one entry}
     other {# entries}
-  } in this encyclopedia.`,
-  'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-  'encyclopedia.add.heading': 'What do you wish to add?',
+  }つのエントリがあります。`,
+  'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
+  'encyclopedia.add.heading': '何を追加しますか？',
   'encyclopedia.add.moresoon': 'More categories coming soon!',
-  'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
+  'encyclopedia.create': `新しい{category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
+  }を作成する`,
+  'encyclopedia.create.header': `{universe}に新しい{category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
+  }を作成する`,
+  'encyclopedia.entry.category': `記事のカテゴリ: {category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
   }`,
-  'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-  } in {universe}`,
-  'encyclopedia.entry.category': `Entry category: {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-  }`,
-  'encyclopedia.fields.add': 'Add a new field',
-  'encyclopedia.fields.text': 'Definition',
-  'encyclopedia.fields.textarea': 'Text',
-  'encyclopedia.fields.connection': 'Connection',
-  'encyclopedia.fields.time': 'Time',
-  'encyclopedia.fields.image': 'Image',
+  'encyclopedia.fields.add': '新しいフィールドを追加する',
+  'encyclopedia.fields.text': '定義',
+  'encyclopedia.fields.textarea': 'テキスト',
+  'encyclopedia.fields.connection': '接続',
+  'encyclopedia.fields.time': '時間',
+  'encyclopedia.fields.image': '画像',
   'encyclopedia.visibility': 'Visibility',
   'encyclopedia.public': 'Public',
   'encyclopedia.private': 'Private',
   'encyclopedia.container': 'Container',
   'encyclopedia.container.desc':
     'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-  'encyclopedia.entry.name': 'Name of entry',
+  'encyclopedia.entry.name': '百科事典の記事の名前',
   'encyclopedia.summary': 'Summary',
-  'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
+  'encyclopedia.summary.desc': 'これは、読者に表示される唯一の初期情報となる要約です。',
   'encyclopedia.parent': 'Parent entry',
-  'encyclopedia.related': 'Related entries',
+  'encyclopedia.related': '関連百科事典の記事',
   'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
-  'encyclopedia.field.private': 'Private field',
-  'encyclopedia.title.save': 'Save title',
+  'encyclopedia.field.private': 'プライベートフィールド',
   'encyclopedia.ft.indev': 'This option is in development.',
-  'encyclopedia.connections.remove': 'Remove connection',
+  'encyclopedia.connections.remove': '接続を削除',
   'encyclopedia.connections.extra': 'Extra information',
-  'encyclopedia.connections.existing': 'Existing entry',
-  'encyclopedia.connections.existing.abbr': 'EE', // abbreviation for Existing Entry
+  'encyclopedia.connections.existing': '既存の記事',
+  'encyclopedia.connections.existing.abbr': 'EA', // abbreviation for Existing Entry
 
   // List of all genres
   'genre.scifi': 'SF',
@@ -436,9 +479,9 @@ export default {
 
   // Licenses
   // https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
-  'licenses.about': 'About licenses',
-  'licenses.more': 'More information',
-  'licenses.legal': 'Legal document',
+  'licenses.about': 'ライセンスについて',
+  'licenses.more': '詳しくは',
+  'licenses.legal': '法的文書',
   'licenses.name.cc-by': '表示 4.0 国際',
   'licenses.cc-by':
     'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
@@ -464,16 +507,16 @@ export default {
   'licenses.cc0':
     'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.',
 
-  'library.add': 'Add to library',
+  'library.add': 'ライブラリに追加',
   'library.remove': 'Remove from library',
   'library.bought': 'Bought stories',
   'library.stories': 'Followed stories',
   'library.universes': 'Followed universe',
 
-  'homepage.welcome': 'Welcome to Literary Universe!',
-  'homepage.read': 'Read',
-  'homepage.explore': 'Explore',
-  'homepage.create': 'Create',
+  'homepage.welcome': '文学の宇宙へようこそ',
+  'homepage.read': '読む',
+  'homepage.explore': '見る',
+  'homepage.create': '作成する',
   'homepage.read.desc':
     "Enjoy a great reading experience with access to details of the stories' universe adjacent to the story text, without the need to leave the story window.",
   'homepage.explore.desc':
@@ -483,7 +526,7 @@ export default {
   'homepage.begin': 'Begin your journey!',
   'homepage.itisfree': 'It is free!',
 
-  'about.title': 'About Literary Universe',
+  'about.title': '文学の宇宙について',
   'about.desc': 'History, secrets and humans behind Literary Universe.',
   'about.text.1':
     'Literary Universe is designed both for writers and for the avid reader. Writers can use the site to write original works through the workshop button in the dashboard menu. This will give you access to the main editor and encyclopedia functions which primarily focus on organizing all aspects of your personal story universe into one page. The social aspects allow authors to broadcast their work and develop a following, as well as to interact more directly if they chose with their readers.',
@@ -492,10 +535,10 @@ export default {
   'about.text.3':
     'The future for Literary Universe involves creating a marketplace for authors to sell their work and adding community features to enhance author and reader communication through blogs and forums. Writer’s tools will be added over time, with over a dozen currently either in development or on the board. Our ultimate goal is to enhance the experiences of writers and readers through providing more innovative use of the internet medium.',
   'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
-  'about.team': 'The team',
+  'about.team': 'チーム',
   'about.history': '由来書',
-  'about.CEO': 'Chief Executive Officer',
-  'about.CTO': 'Chief Technology Officer',
+  'about.CEO': '最高経営責任者',
+  'about.CTO': '最高技術責任者',
   'about.scott':
     "Scott became interested in creative writing in his early years and to this day is an avid reader. As someone who has always wanted to write his own book Scott became interested in Literary Universe when Jan Dvorak approached him with the idea for Literary Universe while they were in college. Scott has been been a part of Jan's development team since its inception and created the name for the site, among other notable contributions. Scott manages the business side of Literary Universe to allow Jan to focus on technological development.",
   'about.jan':
@@ -503,7 +546,7 @@ export default {
   'about.history.text':
     "In 2010 Jan started at Rochester Institute of Technology to learn more about web development in order to be able to build a creative writing site. This materialized in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies and in 2016 a new version of the app was created as a Master's Capstone Project. The project continued in fall 2016 and further developed into what you see today.",
 
-  copyrights: 'Copyrights',
+  copyrights: '著作権',
   'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
   'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
   'guidelines.desc': 'Community Guidelines of Literary Universe.',
