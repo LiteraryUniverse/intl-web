@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-11-01
+  * Added keys for time field in encyclopedia
+
 ## 2019-10-31
   * Add keys and update existing selects for new encyclopedia categories
   * Remove few outdated keys

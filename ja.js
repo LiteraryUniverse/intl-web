@@ -1050,7 +1050,14 @@ export default {
   // Added 2019-10-27
   'common.edit': 'Edit',
   'encyclopedia.fields.placeholder': 'Field name',
-  'encyclopedia.fields.delete': 'Delete field'
+  'encyclopedia.fields.delete': 'Delete field',
+  // Added 2019-11-01
+  'encyclopedia.timeOption.fictionalDate': 'Fictional date',
+  'encyclopedia.timeOption.fictionalTime': 'Fictional time',
+  'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
+  'encyclopedia.timeOption.date': 'Date',
+  'encyclopedia.timeOption.time': 'Time',
+  'encyclopedia.timeOption.dateTime': 'Date Time'
 };
 
 /* eslint-enable max-len */

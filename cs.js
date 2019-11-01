@@ -1058,7 +1058,14 @@ export default {
   // Added 2019-10-27
   'common.edit': 'Editovat',
   'encyclopedia.fields.placeholder': 'Jméno sekce',
-  'encyclopedia.fields.delete': 'Smazat sekci'
+  'encyclopedia.fields.delete': 'Smazat sekci',
+  // Added 2019-11-01
+  'encyclopedia.timeOption.fictionalDate': 'Fictional datum',
+  'encyclopedia.timeOption.fictionalTime': 'Fictional čas',
+  'encyclopedia.timeOption.fictionalDateTime': 'Fictional datum a čas',
+  'encyclopedia.timeOption.date': 'Datum',
+  'encyclopedia.timeOption.time': 'Čas',
+  'encyclopedia.timeOption.dateTime': 'Datum a čas'
 };
 
 /* eslint-enable max-len */
