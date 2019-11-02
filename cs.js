@@ -1065,7 +1065,14 @@ export default {
   'encyclopedia.timeOption.fictionalDateTime': 'Fictional datum a čas',
   'encyclopedia.timeOption.date': 'Datum',
   'encyclopedia.timeOption.time': 'Čas',
-  'encyclopedia.timeOption.dateTime': 'Datum a čas'
+  'encyclopedia.timeOption.dateTime': 'Datum a čas',
+  // Added 2019-11-03
+  'blogs.lu': 'Oficiální blogy Literary Universe',
+  'blogs.featured': 'Doporučené blogy',
+  'blogs.new': 'Nejnovější blogy',
+  'blogs.title': 'Blogy Literary Universe',
+  'blogs.description': 'Blogy na Literary Universe platformě.',
+  'blogs.visit': 'Navštívit blog'
 };
 
 /* eslint-enable max-len */

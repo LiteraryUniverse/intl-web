@@ -1048,16 +1048,23 @@ export default {
   'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
   'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
   // Added 2019-10-27
-  'common.edit': 'Edit',
-  'encyclopedia.fields.placeholder': 'Field name',
-  'encyclopedia.fields.delete': 'Delete field',
+  'common.edit': '編集',
+  'encyclopedia.fields.placeholder': 'フィールド名',
+  'encyclopedia.fields.delete': 'フィールドを削除',
   // Added 2019-11-01
   'encyclopedia.timeOption.fictionalDate': 'Fictional date',
   'encyclopedia.timeOption.fictionalTime': 'Fictional time',
   'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-  'encyclopedia.timeOption.date': 'Date',
-  'encyclopedia.timeOption.time': 'Time',
-  'encyclopedia.timeOption.dateTime': 'Date Time'
+  'encyclopedia.timeOption.date': '日付',
+  'encyclopedia.timeOption.time': '時間',
+  'encyclopedia.timeOption.dateTime': '日付時刻',
+  // Added 2019-11-03
+  'blogs.lu': '公式の文学の宇宙ブログ',
+  'blogs.featured': '注目のブログ',
+  'blogs.new': '最新のブログ',
+  'blogs.title': '文学の宇宙ブログ',
+  'blogs.description': 'Listing of blogs on the Literary Universe platform.',
+  'blogs.visit': 'ブログを見る'
 };
 
 /* eslint-enable max-len */

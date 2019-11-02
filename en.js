@@ -1057,7 +1057,14 @@ export default {
   'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
   'encyclopedia.timeOption.date': 'Date',
   'encyclopedia.timeOption.time': 'Time',
-  'encyclopedia.timeOption.dateTime': 'Date and time'
+  'encyclopedia.timeOption.dateTime': 'Date and time',
+  // Added 2019-11-03
+  'blogs.lu': 'Official Literary Universe blogs',
+  'blogs.featured': 'Featured blogs',
+  'blogs.new': 'Newest blogs',
+  'blogs.title': 'Blogs of Literary Universe',
+  'blogs.description': 'Listing of blogs on the Literary Universe platform.',
+  'blogs.visit': 'Visit blog'
 };
 
 /* eslint-enable max-len */
