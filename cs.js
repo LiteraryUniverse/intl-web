@@ -1076,7 +1076,10 @@ export default {
   'common.publish': 'Publikovat',
   'common.publishAt': 'Datum a čas pro publikování',
   'stats.likeCount': '# lajků',
-  'stats.language.title': 'Language spoken'
+  'stats.language.title': 'Language spoken',
+  'challenges.future': 'Budoucí výzvy',
+  'challenges.future.wordcount': `Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}`,
+  'challenges.future.nanowrimo': 'NaNoWriMo výzva je připravena.'
 };
 
 /* eslint-enable max-len */

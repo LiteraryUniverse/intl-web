@@ -1068,7 +1068,10 @@ export default {
   'common.publish': 'Publish',
   'common.publishAt': 'Publication date and time',
   'stats.likeCount': '# of likes',
-  'stats.language.title': 'Language spoken'
+  'stats.language.title': 'Language spoken',
+  'challenges.future': 'Upcoming challenges',
+  'challenges.future.wordcount': `Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}`,
+  'challenges.future.nanowrimo': 'NaNoWriMo challenge is ready.'
 };
 
 /* eslint-enable max-len */
