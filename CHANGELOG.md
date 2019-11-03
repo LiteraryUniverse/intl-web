@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2019-11-03
   * Added keys for blog listing
+  * Added keys for improved statistics
 
 ## 2019-11-01
   * Added keys for time field in encyclopedia

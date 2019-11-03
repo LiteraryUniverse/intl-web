@@ -954,8 +954,8 @@ export default {
   'stats.age.50to64': 'Od 50 do 64 let',
   'stats.age.65to84': 'Od 64 do 84 let',
   'stats.age.above85': 'Nad 85 let',
-  'stats.aggregate.tab': 'Souhrná statistika',
-  'stats.chapter.tab': 'Statistiky dle kapitoly',
+  'stats.section.aggregate': 'Souhrná statistika',
+  'stats.section.chapter': 'Statistiky dle kapitoly',
   'stats.readers.title': 'O Vašich čtenářích',
   'stats.gender.title': 'Pohlaví',
   'stats.view.table': 'Tabulkový přehled',
@@ -1074,7 +1074,9 @@ export default {
   'blogs.description': 'Blogy na Literary Universe platformě.',
   'blogs.visit': 'Navštívit blog',
   'common.publish': 'Publikovat',
-  'common.publishAt': 'Datum a čas pro publikování'
+  'common.publishAt': 'Datum a čas pro publikování',
+  'stats.likeCount': '# lajků',
+  'stats.language.title': 'Language spoken'
 };
 
 /* eslint-enable max-len */

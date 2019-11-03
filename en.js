@@ -946,8 +946,8 @@ export default {
   'stats.age.50to64': '50 to 64',
   'stats.age.65to84': '64 to 84',
   'stats.age.above85': 'Above 85',
-  'stats.aggregate.tab': 'Aggregate statistics',
-  'stats.chapter.tab': 'Chapter statistics',
+  'stats.section.aggregate': 'Aggregate statistics',
+  'stats.section.chapter': 'Chapter statistics',
   'stats.readers.title': 'About your readers',
   'stats.gender.title': 'Gender',
   'stats.view.table': 'Table view',
@@ -1066,7 +1066,9 @@ export default {
   'blogs.description': 'Listing of blogs on the Literary Universe platform.',
   'blogs.visit': 'Visit blog',
   'common.publish': 'Publish',
-  'common.publishAt': 'Publication date and time'
+  'common.publishAt': 'Publication date and time',
+  'stats.likeCount': '# of likes',
+  'stats.language.title': 'Language spoken'
 };
 
 /* eslint-enable max-len */
