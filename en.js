@@ -1064,7 +1064,9 @@ export default {
   'blogs.new': 'Newest blogs',
   'blogs.title': 'Blogs of Literary Universe',
   'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-  'blogs.visit': 'Visit blog'
+  'blogs.visit': 'Visit blog',
+  'common.publish': 'Publish',
+  'common.publishAt': 'Publication date and time'
 };
 
 /* eslint-enable max-len */

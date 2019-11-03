@@ -1072,7 +1072,9 @@ export default {
   'blogs.new': 'Nejnovější blogy',
   'blogs.title': 'Blogy Literary Universe',
   'blogs.description': 'Blogy na Literary Universe platformě.',
-  'blogs.visit': 'Navštívit blog'
+  'blogs.visit': 'Navštívit blog',
+  'common.publish': 'Publikovat',
+  'common.publishAt': 'Datum a čas pro publikování'
 };
 
 /* eslint-enable max-len */

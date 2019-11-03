@@ -1064,7 +1064,9 @@ export default {
   'blogs.new': '最新のブログ',
   'blogs.title': '文学の宇宙ブログ',
   'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-  'blogs.visit': 'ブログを見る'
+  'blogs.visit': 'ブログを見る',
+  'common.publish': 'Publish',
+  'common.publishAt': 'Publication date and time'
 };
 
 /* eslint-enable max-len */
