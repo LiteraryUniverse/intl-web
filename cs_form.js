@@ -17,6 +17,7 @@ export default {
   'form.submitting.signin': 'Probíhá přihlašování...',
   'form.submitting.default': 'Posíláme...',
   'form.submitting.sending': 'Odesíláme zprávu...',
+  'form.validator.whitespace': 'Nesmí mít žádné mezery',
   // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
   // but don't forget to adjust the format
   'simpleschema.required': '{label} je povinné pole',

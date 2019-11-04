@@ -17,6 +17,7 @@ export default {
   'form.submitting.signin': 'Logging in...',
   'form.submitting.default': 'Submitting...',
   'form.submitting.sending': 'Sending...',
+  'form.validator.whitespace': 'Must not have white space',
   // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
   // but don't forget to adjust the format
   'simpleschema.required': '{label} を入力してください',
