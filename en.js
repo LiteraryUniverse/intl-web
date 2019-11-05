@@ -1073,7 +1073,10 @@ export default {
   'challenges.future.wordcount': `Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}`,
   'challenges.future.nanowrimo': 'NaNoWriMo challenge is ready.',
   // Added 2019-11-04
-  'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.'
+  'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
+  // Added 2019-11-06
+  'a11y.user.menu': 'User menu',
+  'dashboard.profile': 'Your profile'
 };
 
 /* eslint-enable max-len */

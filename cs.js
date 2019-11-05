@@ -1081,7 +1081,9 @@ export default {
   'challenges.future.wordcount': `Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}`,
   'challenges.future.nanowrimo': 'NaNoWriMo výzva je připravena.',
   // Added 2019-11-04
-  'workshop.beta.revisionInfo': 'Toto je revize číslo {revision, number}, vytvořena {createdAt, date, long}.'
+  'workshop.beta.revisionInfo': 'Toto je revize číslo {revision, number}, vytvořena {createdAt, date, long}.',
+  // Added 2019-11-06
+  'a11y.user.menu': 'Uživatelské menu'
 };
 
 /* eslint-enable max-len */
