@@ -1083,7 +1083,12 @@ export default {
   // Added 2019-11-04
   'workshop.beta.revisionInfo': 'Toto je revize číslo {revision, number}, vytvořena {createdAt, date, long}.',
   // Added 2019-11-06
-  'a11y.user.menu': 'Uživatelské menu'
+  'a11y.user.menu': 'Uživatelské menu',
+  'dashboard.profile': 'Váš profil',
+  'settings.links.title': 'Odkazy na Vaše další stránky',
+  'settings.links.description': 'Tyto odkazy budou zobrazeny na Vašem profilu..',
+  'settings.links.website': 'Vaše osobní stránka',
+  'settings.links.social': 'Další stránky'
 };
 
 /* eslint-enable max-len */

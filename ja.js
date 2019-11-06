@@ -6,7 +6,7 @@ import form from './ja_form';
 export default {
   locales: ['jp', 'jp-JP'],
   sitename: '文学の宇宙',
-  'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
+  'site.description': '文学の宇宙は、壮大な物語の宇宙のための創造的で出版のプラットフォームです。',
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'site.logoAlt': 'Literary Universe logo',
@@ -1075,7 +1075,12 @@ export default {
   // Added 2019-11-04
   'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
   // Added 2019-11-06
-  'a11y.user.menu': 'User menu'
+  'a11y.user.menu': 'User menu',
+  'dashboard.profile': 'Your profile',
+  'settings.links.title': 'Link to your other websites',
+  'settings.links.description': 'These links will be displayed on your profile page.',
+  'settings.links.website': 'Your personal website',
+  'settings.links.social': 'Other websites'
 };
 
 /* eslint-enable max-len */

@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2019-11-06
   * First key for a11y
+  * Keys for website and social media links settings added
 
 ## 2019-11-04
   * Added key for beta reader information

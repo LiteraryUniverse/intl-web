@@ -1076,7 +1076,11 @@ export default {
   'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
   // Added 2019-11-06
   'a11y.user.menu': 'User menu',
-  'dashboard.profile': 'Your profile'
+  'dashboard.profile': 'Your profile',
+  'settings.links.title': 'Link to your other websites',
+  'settings.links.description': 'These links will be displayed on your profile page.',
+  'settings.links.website': 'Your personal website',
+  'settings.links.social': 'Other websites'
 };
 
 /* eslint-enable max-len */
