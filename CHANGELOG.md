@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2019-11-07
+  * Removed unused keys for plans and added new ones
+  * Updates with new functionality in settings file
+
 ## 2019-11-06
   * First key for a11y
   * Keys for website and social media links settings added

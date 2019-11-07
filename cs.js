@@ -562,7 +562,7 @@ export default {
   'plans.text':
     'Literary Universe nabízí základní funkcionalitu zdarma. Pokud jste velký čtenář nebo tvůrce světů a příběhů doporučujeme Vás podívat se na naší nabídku placeného členství.',
   'plans.faq.basicsPriced': 'Why has the free membership so few things?',
-  'plans.faq.justification': `Here at Literary Universe we value your privacy and intellectual property. As such we don't use your data to sell adds or provide them to other companies. We don't provide any adds of our own either (we don't want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe with multiple membership tiers to accommodate everyone's needs.`, // TODO expand
+  'plans.faq.justification': `Here at Literary Universe we value your privacy and intellectual property. As such we don't use your data to sell adds or provide them to other companies. We don't provide any adds of our own either (we don't want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone's needs while at the same time allowing us to keep the service up and continue development.`,
   'plans.limits': 'Limity',
   'plans.features': 'Moduly',
   'plans.account.visitor': 'Návštěvník',
@@ -583,15 +583,10 @@ export default {
   'plans.price.perMonth': ' / měsíc',
   'plans.price.perYear': ' / rok',
   'plans.development': 'Ve vývoji',
-  'plans.feature.scratchpad.pads': `{num, plural,
-    one {1 stránka}
-    few {# stránky}
-    many {# stránek}
-  }`,
-  'plans.limits.universes': 'Vesmírů',
   'plans.limits.encEntries': 'Vstupů v encyklopedii vesmíru',
   'plans.limits.scratchpadPads': 'Stránek v poznámkovém bloku',
   'plans.limits.maxCollaborators': 'Spolupracovníků na projekt',
+  'plans.limits.pmChats': 'Maximální počet příjemců pro soukromou zprávu',
   'plans.feature.encCustomFields': 'Pokročilá editace encyklopedických vstupů',
   'plans.feature.encAdvCategories': 'Více kategorií v encyklopedii',
   'plans.feature.scratchpad': 'Poznámkový blok',
@@ -602,6 +597,7 @@ export default {
   'plans.feature.challenges': 'Psací výzvy',
   'plans.feature.newFeaturesVote': 'Volte pro novou funkcionalitu',
   'plans.feature.newFeaturesSuggest': 'Navrhování nové funkcionality',
+  'plans.feature.accessToBeta': 'Přístup k modulům v Betě',
 
   'nanowrimo.settings': 'NaNoWriMo účet',
   'nanowrimo.username': 'NaNoWriMo uživatelské jméno',
@@ -864,7 +860,7 @@ export default {
   'settings.socialConnectTitle': 'Spojte Váš účet s účty od jiných služeb',
   'settings.socialDisconnect': 'Odpojit',
   'settings.socialConnect': 'Připojit',
-  'settings.loginWith': 'Přihlásit se s {service}', // TODO
+  'settings.loginWith': 'Přihlásit se s {service}',
   'settings.connectTo': 'Připojit {service}',
 
   // added 2018-02-28
@@ -1088,7 +1084,9 @@ export default {
   'settings.links.title': 'Odkazy na Vaše další stránky',
   'settings.links.description': 'Tyto odkazy budou zobrazeny na Vašem profilu..',
   'settings.links.website': 'Vaše osobní stránka',
-  'settings.links.social': 'Další stránky'
+  'settings.links.social': 'Další stránky',
+  // Added 2019-11-07
+  'profile.website': 'Moje osobní stánky'
 };
 
 /* eslint-enable max-len */

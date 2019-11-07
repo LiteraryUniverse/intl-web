@@ -26,6 +26,9 @@ export default {
       rtl: false
     }
   ],
+  supportedLangs() {
+    return this.languages.map(lang => lang.code) || [];
+  },
   /* eslint-disable object-shorthand */
   storyLanguages: function() {
     return this.languages.concat([
