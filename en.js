@@ -1086,7 +1086,8 @@ export default {
     user {user profile}
   }`,
   'blog.social.website': 'Official website',
-  'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.'
+  'blog.settings.universeSettings':
+    'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.'
 };
 
 /* eslint-enable max-len */

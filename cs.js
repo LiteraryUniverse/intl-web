@@ -1092,7 +1092,8 @@ export default {
     user {nastavení uživatelského profilu}
   }`,
   'blog.social.website': 'Officiální stránky',
-  'blog.settings.universeSettings': 'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.'
+  'blog.settings.universeSettings':
+    'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.'
 };
 
 /* eslint-enable max-len */
