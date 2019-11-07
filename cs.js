@@ -1086,7 +1086,13 @@ export default {
   'settings.links.website': 'Vaše osobní stránka',
   'settings.links.social': 'Další stránky',
   // Added 2019-11-07
-  'profile.website': 'Moje osobní stánky'
+  'profile.website': 'Moje osobní stánky',
+  'blog.social.sameAsMain': `Odkazy na sociální sítě jsou jako v {type, select,
+    organization {nastavení organizace}
+    user {nastavení uživatelského profilu}
+  }`,
+  'blog.social.website': 'Officiální stránky',
+  'blog.settings.universeSettings': 'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.'
 };
 
 /* eslint-enable max-len */

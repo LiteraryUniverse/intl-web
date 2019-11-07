@@ -2,6 +2,7 @@
 ## 2019-11-07
   * Removed unused keys for plans and added new ones
   * Updates with new functionality in settings file
+  * New keys for social links settings in blog
 
 ## 2019-11-06
   * First key for a11y

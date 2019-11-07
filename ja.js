@@ -1080,7 +1080,14 @@ export default {
   'settings.links.website': 'Your personal website',
   'settings.links.social': 'Other websites',
   // Added 2019-11-07
-  'profile.website': 'My personal website'
+  'profile.website': 'My personal website',
+  'blog.social.sameAsMain': `Social links are the same as set in {type, select,
+    organization {organization settings}
+    user {user profile}
+  }`,
+  'blog.social.website': 'Official website',
+  'blog.settings.universeSettings':
+    'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.'
 };
 
 /* eslint-enable max-len */
