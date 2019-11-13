@@ -429,6 +429,7 @@ export default {
     species {正貨}
     technologies {技術}
   }`,
+  'encyclopedia.entry.category.legend': '記事のカテゴリ',
   'encyclopedia.fields.add': '新しいフィールドを追加する',
   'encyclopedia.fields.text': '定義',
   'encyclopedia.fields.textarea': 'テキスト',

@@ -432,6 +432,7 @@ export default {
     species {Rasa}
     technologies {Technologie}
   }`,
+  'encyclopedia.entry.category.legend': 'Kategorie',
   'encyclopedia.fields.add': 'Přidat nové pole',
   'encyclopedia.fields.text': 'Definice',
   'encyclopedia.fields.textarea': 'Text',

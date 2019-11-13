@@ -429,6 +429,7 @@ export default {
     species {Specie}
     technologies {Technology}
   }`,
+  'encyclopedia.entry.category.legend': 'Category',
   'encyclopedia.fields.add': 'Add a new field',
   'encyclopedia.fields.text': 'Definition',
   'encyclopedia.fields.textarea': 'Text',
