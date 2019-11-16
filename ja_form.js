@@ -52,4 +52,4 @@ export default {
   'simpleschema.regEx.7': '{label} はIPv6アドレスで入力してください',
   'simpleschema.regEx.8': '{label} はURLで入力してください',
   'simpleschema.regEx.9': '{label} は英数字で入力してください'
-};
+}

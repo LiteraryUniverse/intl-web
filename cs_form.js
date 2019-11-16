@@ -52,4 +52,4 @@ export default {
   'simpleschema.regEx.7': '{label} musí být validní IPv6 adresa',
   'simpleschema.regEx.8': '{label} musí být validní URL',
   'simpleschema.regEx.9': '{label} musí být validní alphanumerické ID'
-};
+}

@@ -244,6 +244,6 @@ export const countries = {
   'country.YE': 'Jemen',
   'country.ZM': 'Zambia',
   'country.ZW': 'Zimbabwe'
-};
+}
 
-export default countries;
+export default countries

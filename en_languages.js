@@ -434,6 +434,6 @@ export const languages = {
   yo: 'Yoruba',
   'zu-ZA': 'Zulu (South Africa)',
   zu: 'Zulu'
-};
+}
 
-export default languages;
+export default languages

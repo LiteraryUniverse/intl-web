@@ -1,7 +1,7 @@
 /**
  * @authors Jan Dvorak
  */
-import form from './en_form';
+import form from './en_form'
 /* eslint-disable max-len */
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -555,9 +555,9 @@ export default {
 
   'plans.desc': 'Description of plans and features of Literary Universe.',
   'plans.title': 'Get more out of Literary Universe!',
-  'plans.text': `Literary Universe offers  basic functionality for free. If you are avid reader or a creator you might find our advance membership more to your liking.`,
+  'plans.text': 'Literary Universe offers  basic functionality for free. If you are avid reader or a creator you might find our advance membership more to your liking.',
   'plans.faq.basicsPriced': 'Why has the free membership so few things?',
-  'plans.faq.justification': `Here at Literary Universe we value your privacy and intellectual property. As such we don't use your data to sell adds or provide them to other companies. We don't provide any adds of our own either (we don't want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone's needs while at the same time allowing us to keep the service up and continue development.`,
+  'plans.faq.justification': 'Here at Literary Universe we value your privacy and intellectual property. As such we don\'t use your data to sell adds or provide them to other companies. We don\'t provide any adds of our own either (we don\'t want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone\'s needs while at the same time allowing us to keep the service up and continue development.',
   'plans.limits': 'Limits',
   'plans.features': 'Features',
   'plans.account.visitor': 'Visitor',
@@ -867,7 +867,7 @@ export default {
     there is no way of getting it back. Note that this might not automatically delete your published works,
     comments, etc. Please refer to Terms of Service for details.`,
   'settings.delete.confirm': 'Just to make sure. Are you sure you want to delete your account?',
-  'settings.delete.cancel': `I don't want to delete my account`,
+  'settings.delete.cancel': 'I don\'t want to delete my account',
   'settings.delete.submit': 'Delete my account',
   'settings.legal.title': 'User consent agreements',
   'settings.legal.explained': 'Here you can manage your agreement to various legal documents.',
@@ -884,7 +884,7 @@ export default {
     'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
   'legal.modal.agree': 'I Agree',
   'legal.modal.disagree': 'I Disagree',
-  'legal.modal.register': `You won't see this anymore if you register.`,
+  'legal.modal.register': 'You won\'t see this anymore if you register.',
   // added 2018-04-27
   'legal.modal.goToSettings': 'Go to your settings',
   'settings.profile': 'Profile settings',
@@ -1069,7 +1069,7 @@ export default {
   'stats.likeCount': '# of likes',
   'stats.language.title': 'Language spoken',
   'challenges.future': 'Upcoming challenges',
-  'challenges.future.wordcount': `Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}`,
+  'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}',
   'challenges.future.nanowrimo': 'NaNoWriMo challenge is ready.',
   // Added 2019-11-04
   'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
@@ -1089,6 +1089,6 @@ export default {
   'blog.social.website': 'Official website',
   'blog.settings.universeSettings':
     'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.'
-};
+}
 
 /* eslint-enable max-len */

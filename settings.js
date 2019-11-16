@@ -26,11 +26,11 @@ export default {
       rtl: false
     }
   ],
-  supportedLangs() {
-    return this.languages.map(lang => lang.code) || [];
+  supportedLangs () {
+    return this.languages.map(lang => lang.code) || []
   },
   /* eslint-disable object-shorthand */
-  storyLanguages: function() {
+  storyLanguages: function () {
     return this.languages.concat([
       {
         code: 'de',
@@ -104,10 +104,10 @@ export default {
         supportedLocales: ['it-IT', 'it-CH'],
         rtl: false
       }
-    ]);
+    ])
   },
-  storyLocales: function() {
-    return this.storyLanguages().map(lang => lang.code);
+  storyLocales: function () {
+    return this.storyLanguages().map(lang => lang.code)
   },
   /* eslint-enable object-shorthand */
   currencies: {
@@ -388,4 +388,4 @@ export default {
     'ZM',
     'ZW'
   ]
-};
+}

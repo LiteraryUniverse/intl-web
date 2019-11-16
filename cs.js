@@ -1,7 +1,7 @@
 /**
  * @authors Jan Dvorak
  */
-import form from './cs_form';
+import form from './cs_form'
 /* eslint-disable max-len */
 export default {
   locales: ['cs', 'cs-CZ'],
@@ -563,7 +563,7 @@ export default {
   'plans.text':
     'Literary Universe nabízí základní funkcionalitu zdarma. Pokud jste velký čtenář nebo tvůrce světů a příběhů doporučujeme Vás podívat se na naší nabídku placeného členství.',
   'plans.faq.basicsPriced': 'Why has the free membership so few things?',
-  'plans.faq.justification': `Here at Literary Universe we value your privacy and intellectual property. As such we don't use your data to sell adds or provide them to other companies. We don't provide any adds of our own either (we don't want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone's needs while at the same time allowing us to keep the service up and continue development.`,
+  'plans.faq.justification': 'Here at Literary Universe we value your privacy and intellectual property. As such we don\'t use your data to sell adds or provide them to other companies. We don\'t provide any adds of our own either (we don\'t want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone\'s needs while at the same time allowing us to keep the service up and continue development.',
   'plans.limits': 'Limity',
   'plans.features': 'Moduly',
   'plans.account.visitor': 'Návštěvník',
@@ -890,7 +890,7 @@ export default {
     'Omlouváme se za vyrušení. Než Vás pustíme dál, jsme zákoně povinni, zajistit že rozumíte a souhlasíte s našima smlouvníma podmínkama, ochranou osobních údajů a Autorskými právy.',
   'legal.modal.agree': 'Souhlasím',
   'legal.modal.disagree': 'Nesouhlasím',
-  'legal.modal.register': `Pokud si u nás vytvoříte účet toto se Vám již nebude zobrazovat.`,
+  'legal.modal.register': 'Pokud si u nás vytvoříte účet toto se Vám již nebude zobrazovat.',
   // added 2018-04-27
   'legal.modal.goToSettings': 'Jít do nastavení',
   'settings.profile': 'Nastavení profilu',
@@ -1075,7 +1075,7 @@ export default {
   'stats.likeCount': '# lajků',
   'stats.language.title': 'Language spoken',
   'challenges.future': 'Budoucí výzvy',
-  'challenges.future.wordcount': `Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}`,
+  'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}',
   'challenges.future.nanowrimo': 'NaNoWriMo výzva je připravena.',
   // Added 2019-11-04
   'workshop.beta.revisionInfo': 'Toto je revize číslo {revision, number}, vytvořena {createdAt, date, long}.',
@@ -1095,6 +1095,6 @@ export default {
   'blog.social.website': 'Officiální stránky',
   'blog.settings.universeSettings':
     'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.'
-};
+}
 
 /* eslint-enable max-len */

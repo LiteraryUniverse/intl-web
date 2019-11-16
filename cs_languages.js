@@ -434,4 +434,4 @@ export default {
   yo: 'Yoruba',
   'zu-ZA': 'Zulu (South Africa)',
   zu: 'Zulu'
-};
+}
