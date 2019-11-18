@@ -454,6 +454,7 @@ export default {
   'encyclopedia.connections.extra': 'Extra information',
   'encyclopedia.connections.existing': 'Existing entry',
   'encyclopedia.connections.existing.abbr': 'EE', // abbreviation for Existing Entry
+  'encyclopedia.cover': 'Cover image',
 
   // List of all genres
   'genre.scifi': 'Science Fiction',

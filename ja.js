@@ -453,7 +453,8 @@ export default {
   'encyclopedia.connections.remove': '接続を削除',
   'encyclopedia.connections.extra': 'Extra information',
   'encyclopedia.connections.existing': '既存の記事',
-  'encyclopedia.connections.existing.abbr': 'EA', // abbreviation for Existing Entry
+  'encyclopedia.connections.existing.abbr': 'EE', // abbreviation for Existing Entry
+  'encyclopedia.cover': 'Cover image',
 
   // List of all genres
   'genre.scifi': 'SF',

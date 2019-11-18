@@ -458,6 +458,7 @@ export default {
   'encyclopedia.connections.extra': 'Extra informace',
   'encyclopedia.connections.existing': 'Existující Článek',
   'encyclopedia.connections.existing.abbr': 'EČ', // abbreviation for Existing Entry
+  'encyclopedia.cover': 'Cover image',
 
   // List of all genres
   'genre.scifi': 'Sci-fi',

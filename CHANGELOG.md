@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-11-18
+  * New key for encyclopedia cover image
+
 ## 2019-11-13
   * Added category label
 
