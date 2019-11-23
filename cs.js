@@ -1095,7 +1095,19 @@ export default {
   }`,
   'blog.social.website': 'Officiální stránky',
   'blog.settings.universeSettings':
-    'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.'
+    'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.',
+  // Added 2019-11-23
+  'story.notes.concept': 'Koncept',
+  'story.notes.settings': 'Pozadí příběhu',
+  'story.notes.theme': 'Témata',
+  'story.notes.impact': 'Žádoucí dopad na čtenáře',
+  'story.notes.outcome': 'Závěr',
+  'story.notes.audience': 'Cílové publikum',
+  'story.notes.pitch': 'Představení příběhu (pitch)',
+  'story.notes.notes': 'Poznámky',
+  'workshop.story.notes.title': 'Vaše poznámky k {storyTitle}',
+  'workshop.story.notes.desc': 'Poznámky k příběhu.',
+  'workshop.story.notes.tile': 'Overview notes'
 }
 
 /* eslint-enable max-len */

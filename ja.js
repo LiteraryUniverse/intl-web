@@ -1089,7 +1089,19 @@ export default {
   }`,
   'blog.social.website': 'Official website',
   'blog.settings.universeSettings':
-    'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.'
+    'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
+  // Added 2019-11-23
+  'story.notes.concept': 'Concept',
+  'story.notes.settings': 'Story setting',
+  'story.notes.theme': 'Theme',
+  'story.notes.impact': 'Desired impact',
+  'story.notes.outcome': 'Outcome',
+  'story.notes.audience': 'Target audience',
+  'story.notes.pitch': 'Pitch',
+  'story.notes.notes': 'Notes',
+  'workshop.story.notes.title': 'Your notes for {storyTitle}',
+  'workshop.story.notes.desc': 'Overview notes for the story.',
+  'workshop.story.notes.tile': 'Overview notes'
 }
 
 /* eslint-enable max-len */

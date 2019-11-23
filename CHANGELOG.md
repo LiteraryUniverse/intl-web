@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2019-11-23
+  * Added keys for story notes
+
 ## 2019-11-18
   * New key for encyclopedia cover image
 
