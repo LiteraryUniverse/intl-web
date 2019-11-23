@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2019-11-23
   * Added keys for story notes
+  * Convert to Meteor package & add funding
 
 ## 2019-11-18
   * New key for encyclopedia cover image
