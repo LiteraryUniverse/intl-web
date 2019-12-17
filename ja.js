@@ -1101,7 +1101,10 @@ export default {
   'story.notes.notes': 'Notes',
   'workshop.story.notes.title': 'Your notes for {storyTitle}',
   'workshop.story.notes.desc': 'Overview notes for the story.',
-  'workshop.story.notes.tile': 'Overview notes'
+  'workshop.story.notes.tile': 'Overview notes',
+  // Added 2019-12-01
+  'org.auditLog.title': 'Audit log',
+  'common.members': 'Members'
 }
 
 /* eslint-enable max-len */

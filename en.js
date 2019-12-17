@@ -1101,7 +1101,16 @@ export default {
   'story.notes.notes': 'Notes',
   'workshop.story.notes.title': 'Your notes for {storyTitle}',
   'workshop.story.notes.desc': 'Overview notes for the story.',
-  'workshop.story.notes.tile': 'Overview notes'
+  'workshop.story.notes.tile': 'Overview notes',
+  // Added 2019-12-01
+  'org.auditLog.title': 'Audit log',
+  'common.members': 'Members',
+  'org.settings.title': 'Organization settings',
+  'org.settings.name': 'Organization name',
+  'org.settings.membersPrivate': 'Do NOT display members publicly',
+  'org.logo': 'Organization logo',
+  'org.superAdmin': 'Super Admin',
+  'org.settings.language': 'Primary language'
 }
 
 /* eslint-enable max-len */

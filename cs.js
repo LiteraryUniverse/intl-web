@@ -1107,7 +1107,10 @@ export default {
   'story.notes.notes': 'Poznámky',
   'workshop.story.notes.title': 'Vaše poznámky k {storyTitle}',
   'workshop.story.notes.desc': 'Poznámky k příběhu.',
-  'workshop.story.notes.tile': 'Overview notes'
+  'workshop.story.notes.tile': 'Overview notes',
+  // Added 2019-12-01
+  'org.auditLog.title': 'Audit log',
+  'common.members': 'Členové'
 }
 
 /* eslint-enable max-len */
