@@ -75,6 +75,10 @@ export default {
   'common.help': 'Help',
   'common.or': '又は',
 
+  // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
+  'team.name.jdvorak': 'ドヴォルザーク ジャン',
+  'team.name.sedwards': 'エドワルドス スコット',
+
   'settings.biography': '伝記',
   'settings.biography.placeholder': 'A little bit about yourself to be shown on your profile.',
   'settings.avatar.title': '画像',

@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-01-14
+  * Add team member names right after commons section
+
 ## 2019-11-23
   * Added keys for story notes
   * Convert to Meteor package & add funding

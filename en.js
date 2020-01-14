@@ -75,6 +75,10 @@ export default {
   'common.help': 'Help',
   'common.or': 'or',
 
+  // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
+  'team.name.jdvorak': 'Jan Dvořák',
+  'team.name.sedwards': 'Scott Edwards',
+
   'settings.biography': 'Biography',
   'settings.biography.placeholder': 'A little bit about yourself to be shown on your profile.',
   'settings.avatar.title': 'Avatar',

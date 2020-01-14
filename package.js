@@ -1,7 +1,7 @@
 /* global Package */
 Package.describe({
   name: 'lu-intl',
-  version: '0.0.2',
+  version: '0.0.3',
   // Brief, one-line summary of the package.
   summary: 'Intl for Literary Universe',
   // URL to the Git repository containing the source code for this package.

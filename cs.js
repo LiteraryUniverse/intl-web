@@ -73,6 +73,10 @@ export default {
   'common.help': 'Nápověda',
   'common.or': 'nebo',
 
+  // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
+  'team.name.jdvorak': 'Jan Dvořák',
+  'team.name.sedwards': 'Scott Edwards',
+
   'settings.biography': 'O Vás',
   'settings.biography.placeholder': 'Něco málo o Vás, pro Váš profil.',
   'settings.avatar.title': 'Avatar',
