@@ -1114,7 +1114,11 @@ export default {
   'workshop.story.notes.tile': 'Overview notes',
   // Added 2019-12-01
   'org.auditLog.title': 'Audit log',
-  'common.members': 'Členové'
+  'common.members': 'Členové',
+  // Added 2020-01-14
+  'org.meta.desc': 'Organizace a kreativní skupiny na Literary Universe.',
+  'org.luOrgs': 'Literary Universe Organizations',
+  'org.otherOrgs': 'Guilds & Organizations'
 }
 
 /* eslint-enable max-len */

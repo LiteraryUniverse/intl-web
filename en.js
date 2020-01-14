@@ -1114,7 +1114,11 @@ export default {
   'org.settings.membersPrivate': 'Do NOT display members publicly',
   'org.logo': 'Organization logo',
   'org.superAdmin': 'Super Admin',
-  'org.settings.language': 'Primary language'
+  'org.settings.language': 'Primary language',
+  // Added 2020-01-14
+  'org.meta.desc': 'Organizations and creative groups on Literary Universe.',
+  'org.luOrgs': 'Literary Universe Organizations',
+  'org.otherOrgs': 'Guilds & Organizations'
 }
 
 /* eslint-enable max-len */

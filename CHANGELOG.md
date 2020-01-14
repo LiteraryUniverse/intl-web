@@ -1,6 +1,8 @@
 # Changelog for languages
 ## 2020-01-14
   * Add team member names right after commons section
+  * Add missed key from organizations `org.meta.desc`
+  * Add new org listing keys
 
 ## 2019-11-23
   * Added keys for story notes

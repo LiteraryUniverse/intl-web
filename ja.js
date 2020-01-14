@@ -1108,7 +1108,11 @@ export default {
   'workshop.story.notes.tile': 'Overview notes',
   // Added 2019-12-01
   'org.auditLog.title': 'Audit log',
-  'common.members': 'Members'
+  'common.members': 'Members',
+  // Added 2020-01-14
+  'org.meta.desc': 'Organizations and creative groups on Literary Universe.',
+  'org.luOrgs': 'Literary Universe Organizations',
+  'org.otherOrgs': 'Guilds & Organizations'
 }
 
 /* eslint-enable max-len */
