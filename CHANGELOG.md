@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-02-01
+  * Added new keys for organization public page
+
 ## 2020-01-14
   * Add team member names right after commons section
   * Add missed key from organizations `org.meta.desc`

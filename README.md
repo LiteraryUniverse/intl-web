@@ -16,7 +16,7 @@ Change the author name on the top of the file and the locales associated with th
 The basic structure of the translation file consist of identificator and text. The identificator is a unique id that Literary Universe uses to find the translation and place it into the app. Under no circumstance change this!
 
 ```js
-'identificator': 'translation text',
+'identificator': 'translation text'
 ```
 
 The translation text will be enclosed either in single quotes `'text'` or backticks \`text\`. Backticks allow you to spread the string across multiple lines. When using single quotes keep in mind that to use single quote for appostrophies or similar they need to be preceded by back tilda `\`, this will force the app to ignore the programatic functionality of the symbol for that one time. The back tilda will not appear in the final text.  
@@ -47,3 +47,7 @@ If you have any questions feel free to open issue or to contact us.
 * [Message Syntax](http://formatjs.io/guides/message-syntax/)
 * [ICU Guide](http://userguide.icu-project.org/formatparse/messages)
 * [Languages plural rules](https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html)
+
+## Thoughts on future direction
+
+- Separate translations into specific modules/sections that would load dynamically in order to reduce the initial download. 

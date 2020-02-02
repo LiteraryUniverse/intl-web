@@ -1118,7 +1118,13 @@ export default {
   // Added 2020-01-14
   'org.meta.desc': 'Organizations and creative groups on Literary Universe.',
   'org.luOrgs': 'Literary Universe Organizations',
-  'org.otherOrgs': 'Guilds & Organizations'
+  'org.otherOrgs': 'Guilds & Organizations',
+  // Added 2020-02-01
+  'org.aboutTitle': 'About {orgName}',
+  'org.membersTitle': 'Organization members',
+  'org.membersNone': 'Members are not public',
+  'org.storiesTitle': 'Stories from {orgName}',
+  'org.universesTitle': 'Universes from {orgName}'
 }
 
 /* eslint-enable max-len */

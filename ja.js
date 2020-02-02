@@ -1107,12 +1107,18 @@ export default {
   'workshop.story.notes.desc': 'Overview notes for the story.',
   'workshop.story.notes.tile': 'Overview notes',
   // Added 2019-12-01
-  'org.auditLog.title': 'Audit log',
-  'common.members': 'Members',
+  'org.auditLog.title': '監査ログ',
+  'common.members': '会員',
   // Added 2020-01-14
-  'org.meta.desc': 'Organizations and creative groups on Literary Universe.',
-  'org.luOrgs': 'Literary Universe Organizations',
-  'org.otherOrgs': 'Guilds & Organizations'
+  'org.meta.desc': '文学の宇宙の組織と創造的なグループ。',
+  'org.luOrgs': '文学の宇宙組織',
+  'org.otherOrgs': 'ギルドと組織',
+  // Added 2020-02-01
+  'org.aboutTitle': '{orgName}の約',
+  'org.membersTitle': '組織のメンバー',
+  'org.membersNone': 'メンバーは非公開です',
+  'org.storiesTitle': '{orgName}の物語',
+  'org.universesTitle': '{orgName}の世界'
 }
 
 /* eslint-enable max-len */

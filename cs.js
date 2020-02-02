@@ -1118,7 +1118,13 @@ export default {
   // Added 2020-01-14
   'org.meta.desc': 'Organizace a kreativní skupiny na Literary Universe.',
   'org.luOrgs': 'Literary Universe Organizations',
-  'org.otherOrgs': 'Guilds & Organizations'
+  'org.otherOrgs': 'Guilds & Organizations',
+  // Added 2020-02-01
+  'org.aboutTitle': 'O {orgName}',
+  'org.membersTitle': 'Členové organizace',
+  'org.membersNone': 'Členové nejsou zveřejněni',
+  'org.storiesTitle': 'Příběhy od {orgName}',
+  'org.universesTitle': 'Vesmíry od {orgName}'
 }
 
 /* eslint-enable max-len */
