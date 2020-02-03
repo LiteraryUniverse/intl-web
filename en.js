@@ -1124,7 +1124,15 @@ export default {
   'org.membersTitle': 'Organization members',
   'org.membersNone': 'Members are not public',
   'org.storiesTitle': 'Stories from {orgName}',
-  'org.universesTitle': 'Universes from {orgName}'
+  'org.universesTitle': 'Universes from {orgName}',
+  // Added 2020-02-03
+  'org.userDashboardTitle': 'Your organizations',
+  'org.settings.hideMembers.label': 'Hide members from the public',
+  'auditLog.header.date': 'Date',
+  'auditLog.header.action': 'What',
+  'auditLog.header.group': 'Group',
+  'auditLog.header.user': 'Who',
+  'auditLog.header.language': 'Language'
 }
 
 /* eslint-enable max-len */

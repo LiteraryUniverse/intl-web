@@ -1124,7 +1124,15 @@ export default {
   'org.membersTitle': 'Členové organizace',
   'org.membersNone': 'Členové nejsou zveřejněni',
   'org.storiesTitle': 'Příběhy od {orgName}',
-  'org.universesTitle': 'Vesmíry od {orgName}'
+  'org.universesTitle': 'Vesmíry od {orgName}',
+  // Added 2020-02-03
+  'org.userDashboardTitle': 'Vaše organizace',
+  'org.settings.hideMembers.label': 'Členové organizace jsou neveřejní',
+  'auditLog.header.date': 'Datum',
+  'auditLog.header.action': 'Co',
+  'auditLog.header.group': 'Skupina',
+  'auditLog.header.user': 'Kdo',
+  'auditLog.header.language': 'Jazyk'
 }
 
 /* eslint-enable max-len */

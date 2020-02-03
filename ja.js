@@ -1118,7 +1118,15 @@ export default {
   'org.membersTitle': '組織のメンバー',
   'org.membersNone': 'メンバーは非公開です',
   'org.storiesTitle': '{orgName}の物語',
-  'org.universesTitle': '{orgName}の世界'
+  'org.universesTitle': '{orgName}の世界',
+  // Added 2020-02-03
+  'org.userDashboardTitle': 'Your organizations',
+  'org.settings.hideMembers.label': 'Hide members from the public',
+  'auditLog.header.date': 'Date',
+  'auditLog.header.action': 'What',
+  'auditLog.header.group': 'Group',
+  'auditLog.header.user': 'Who',
+  'auditLog.header.language': '語'
 }
 
 /* eslint-enable max-len */
