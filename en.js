@@ -1132,7 +1132,9 @@ export default {
   'auditLog.header.action': 'What',
   'auditLog.header.group': 'Group',
   'auditLog.header.user': 'Who',
-  'auditLog.header.language': 'Language'
+  'auditLog.header.language': 'Language',
+  // Added 2020-02-17
+  'org.visit': 'Go to {organization} page'
 }
 
 /* eslint-enable max-len */

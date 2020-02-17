@@ -1132,7 +1132,9 @@ export default {
   'auditLog.header.action': 'Co',
   'auditLog.header.group': 'Skupina',
   'auditLog.header.user': 'Kdo',
-  'auditLog.header.language': 'Jazyk'
+  'auditLog.header.language': 'Jazyk',
+  // Added 2020-02-17
+  'org.visit': 'Jít na stránky {organization}'
 }
 
 /* eslint-enable max-len */

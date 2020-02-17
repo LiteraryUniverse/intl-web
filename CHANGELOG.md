@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-02-17
+  * Added key for link to visit org site
+
 ## 2020-02-03
   * Added basic keys for audit log and displaying organizations in user dashboard
 

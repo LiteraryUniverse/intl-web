@@ -1124,9 +1124,11 @@ export default {
   'org.settings.hideMembers.label': 'Hide members from the public',
   'auditLog.header.date': 'Date',
   'auditLog.header.action': 'What',
-  'auditLog.header.group': 'Group',
+  'auditLog.header.group': 'グルプ',
   'auditLog.header.user': 'Who',
-  'auditLog.header.language': '語'
+  'auditLog.header.language': '語',
+  // Added 2020-02-17
+  'org.visit': 'Go to {organization} page'
 }
 
 /* eslint-enable max-len */
