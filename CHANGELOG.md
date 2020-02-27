@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-02-27
+  * Fixed `form.validator.minLength` to include input for different values
+
 ## 2020-02-17
   * Added key for link to visit org site
 

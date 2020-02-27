@@ -9,7 +9,13 @@ export default {
     genres {žánry}
     other {}
   }`,
-  'form.validator.minLength': 'Mělo by mít více než {min} písmen',
+  'form.validator.minLength': `Mělo by mít alespoň {min} {what, select,
+    characters {písmen}
+    tags {tagů}
+    genres {žánrů}
+    genre {žánr}
+    other {}
+  }`,
   'form.validator.email': 'Musí být validní e-mail',
   'form.validator.url': 'Musí být validní URL',
   'form.validator.slug': 'Musí být validní část URL adresy',
