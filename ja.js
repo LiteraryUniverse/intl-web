@@ -482,6 +482,7 @@ export default {
   'genre.steampunk': 'スチームパンク',
   'genre.mythology': '神話',
   'genre.fairytale': '伽話',
+  'genre.superhero': 'スーパーヒーロー',
 
   // Licenses
   // https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/

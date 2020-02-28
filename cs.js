@@ -486,6 +486,7 @@ export default {
   'genre.steampunk': 'Steampunk',
   'genre.mythology': 'Mytologie',
   'genre.fairytale': 'Fairy tale',
+  'genre.superhero': 'Super hrdinové',
 
   // Licenses
   // https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
