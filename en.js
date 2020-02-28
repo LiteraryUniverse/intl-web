@@ -1135,7 +1135,11 @@ export default {
   'auditLog.header.user': 'Who',
   'auditLog.header.language': 'Language',
   // Added 2020-02-17
-  'org.visit': 'Go to {organization} page'
+  'org.visit': 'Go to {organization} page',
+  // Added 2020-02-18
+  'org.authorOverride.legend': 'Author override',
+  'org.authorOverride.desc': 'Shows this text instead of the name of the organization.',
+  'org.authorOverride.label': 'Author\'s name'
 }
 
 /* eslint-enable max-len */

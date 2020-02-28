@@ -1135,7 +1135,11 @@ export default {
   'auditLog.header.user': 'Kdo',
   'auditLog.header.language': 'Jazyk',
   // Added 2020-02-17
-  'org.visit': 'Jít na stránky {organization}'
+  'org.visit': 'Jít na stránky {organization}',
+  // Added 2020-02-18
+  'org.authorOverride.legend': 'Přepsat jméno autora',
+  'org.authorOverride.desc': 'Zobrazí toto jméno místo jména organizace v místech kde se zobrazuje',
+  'org.authorOverride.label': 'Jméno autora'
 }
 
 /* eslint-enable max-len */

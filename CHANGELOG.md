@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2020-02-28
   * Added new genre category - Superhero
+  * Added keys for author override
 
 ## 2020-02-27
   * Fixed `form.validator.minLength` to include input for different values
