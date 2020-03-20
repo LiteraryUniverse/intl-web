@@ -563,7 +563,7 @@ export default {
   'plans.title': 'Get more out of Literary Universe!',
   'plans.text': 'Literary Universe offers  basic functionality for free. If you are avid reader or a creator you might find our advance membership more to your liking.',
   'plans.faq.basicsPriced': 'Why has the free membership so few things?',
-  'plans.faq.justification': 'Here at Literary Universe we value your privacy and intellectual property. As such we don\'t use your data to sell adds or provide them to other companies. We don\'t provide any adds of our own either (we don\'t want any distractions). This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone\'s needs while at the same time allowing us to keep the service up and continue development.',
+  'plans.faq.justification': 'Here at Literary Universe we value your privacy and intellectual property. As such we don\'t use your data to sell advertisements or provide them to other companies. This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone\'s needs while at the same time allowing us to keep the service up and continue development.',
   'plans.limits': 'Limits',
   'plans.features': 'Features',
   'plans.account.visitor': 'Visitor',
@@ -599,6 +599,7 @@ export default {
   'plans.feature.newFeaturesVote': 'Vote on new features',
   'plans.feature.newFeaturesSuggest': 'Propose new features',
   'plans.feature.accessToBeta': 'Access Beta features',
+  'plans.currency.select': 'Select currency',
 
   'nanowrimo.full': 'National Novel Writing Month',
   'nanowrimo.site': 'NaNoWriMo official site',

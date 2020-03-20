@@ -1,4 +1,9 @@
 # Changelog for languages
+## 2020-03-20
+  * Adjusted and translated plan keys
+  * Removed languages and countries files as they are [no longer needed](https://github.com/formatjs/react-intl/blob/master/docs/API.md#formatdisplayname)
+  * Bumped package version to 0.1.0
+
 ## 2020-02-28
   * Added new genre category - Superhero
   * Added keys for author override
