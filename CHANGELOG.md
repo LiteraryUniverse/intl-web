@@ -3,6 +3,7 @@
   * Added new keys for feature listing
   * Added EU and US states
   * Added new functions to determine currency
+  * Remove some and adjust other old premium keys
   * Bumped package version to 0.2.0
 
 ## 2020-03-20

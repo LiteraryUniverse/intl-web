@@ -137,10 +137,10 @@ export default {
   'pm.to': 'To:',
   'pm.with': 'Conversation with:',
 
-  'premium.only.title': 'For premium users only',
-  'premium.only.msg': 'We apologize, but this functionality is for premium members only.',
-  'premium.only.join': 'Become one today to gain access to this and many more features.',
-  'premium.only.link': 'Check it out!',
+  'premium.only.title': '会員ランクが十分ではない',
+  'premium.only.msg': '申し訳ありませんが、メンバーシップのランクがこの機能にアクセスするには十分ではありません。',
+  'premium.only.join': '文学の宇宙を最大限に活用するためのさまざまなプランを用意しています。',
+  'premium.only.link': '当社の製品に見てみてください。',
 
   'user.friend.request.add': 'Add to friends',
   'user.friend.requests': `You have {num} new friend {num, plural,
@@ -190,9 +190,9 @@ export default {
   'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
   'rating.explicit': 'Explicit',
   'rating.desc.explicit': 'Contains explicit scenes.',
-  'rating.selection.all': 'All - Accessible to all ages and groups.',
+  'rating.selection.all': 'すべてのために - すべての年齢層とグループが利用できます。',
   'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-  'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
+  'rating.selection.mature': '大人用 (18+) - Contains advance themes, crude language and implicit scenes.',
   'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.',
 
   'universe.visit': 'Visit universe page',
@@ -685,7 +685,6 @@ export default {
 
   // added 2016-11-14
   // account types
-  premium: 'Premium',
   admin: '管理者',
 
   // added 2016-11-17
@@ -744,7 +743,6 @@ export default {
 
   // added 2017-03-28
   buy: 'Buy',
-  'premium.buy': 'Buy Premium',
   'payments.add': 'Add payment option',
   'payments.add.btn': 'Add as a payment option',
   'payments.disclaimer':
@@ -758,27 +756,21 @@ export default {
   'payments.card.info': '{cardType} card, ending in {ending}',
   'payments.none': 'No saved payment options found.',
   'payments.added': 'New payment option has been successfully added.',
-  'premium.info':
-    'You are currently subscribed. Next payment of {amount, number, usd} is scheduled for {nextPayment, date, short}.', // TODO fix to include currency dynamically
 
   // added 2017-04-04
   'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
   confirm: 'Confirm',
   cancel: 'Cancel',
-  'premium.edit': 'Edit subscription',
-  'premium.cancel': 'Cancel subscription renewal',
 
   // added 2017-04-14
-  'premium.info.cancelled':
-    'Your subscription has been cancelled. Premium features will remain available till {endDate, date, short}. We are sad to see you go. We wish you the best and hope that we will see you again soon!',
   processing: 'Processing...',
 
   // added 2017-04-26
-  'workshop.collaborators.premium': `Get Premium to be able to add {type, select,
+  'workshop.collaborators.premium': `To add more {type, select,
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
-  }.`,
+  }. you need to increase your membership tier.`,
 
   // added 2017-05-20
   'homepage.intro': 'Explore and create literally universes & great stories.',

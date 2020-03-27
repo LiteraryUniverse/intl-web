@@ -135,10 +135,10 @@ export default {
   'pm.to': 'Pro:',
   'pm.with': 'Converzace s:',
 
-  'premium.only.title': 'Pouze pro premium uživatele',
-  'premium.only.msg': 'Sorry, this functionality is for premium members only.',
-  'premium.only.join': 'Become one today to gain access to this and many more features.',
-  'premium.only.link': 'Check it out!',
+  'premium.only.title': 'Nedostatečné hodnost členství',
+  'premium.only.msg': 'Omlouváme se, ale Vaše členství nemá povolenou tuto funkcionalitu.',
+  'premium.only.join': 'Nabízíme různé placená členství přizpůsobena pro všechny.',
+  'premium.only.link': 'Mrkněte na to!',
 
   'user.friend.request.add': 'Přidat mezi přátele',
   'user.friend.requests': `Máte {num} {num, plural,
@@ -691,7 +691,6 @@ export default {
 
   // added 2016-11-14
   // account types
-  premium: 'Prémium',
   admin: 'Administrátor',
 
   // added 2016-11-17
@@ -751,9 +750,6 @@ export default {
 
   // added 2017-03-18
   buy: 'Koupit',
-  'premium.buy': 'Koupit Premium',
-  'payments.add': 'Přidat platební možnost',
-  'payments.add.btn': 'Přidat jako platební možnost',
   'payments.disclaimer':
     'Platební informace a zpracovávání je zařizuje Braintree od PayPalu. Neuchováváme žádné platební informace (čísla kreditních karet, bankovních účtů, adresy, atd.) na našich serverech.',
   'buy.payment.optionsSelect': 'Platební možnosti',
@@ -765,27 +761,21 @@ export default {
   'payments.card.info': 'Karta {cardType}, končící {ending}',
   'payments.none': 'Nebyly nalezeny žádné uložené platební možnosti.',
   'payments.added': 'Nová platební možnost byla úspěšně přidána.',
-  'premium.info':
-    'Momentálně máte předplacený prémiový účet. Další platba {amount, number, usd} je naplánována na {nextPayment, date, short}.', // TODO fix to include currency dynamically
 
   // added 2017-04-04
   'payments.delete.confirm': 'Určitě chcete smazat {cardType}, končící {ending}?',
   confirm: 'Potvrdid',
   cancel: 'Zrušit',
-  'premium.edit': 'Upravit předplatné',
-  'premium.cancel': 'Zrušit prodloužení předplatného',
 
   // added 2017-04-14
-  'premium.info.cancelled':
-    'Vaše předplatné bylo zrušeno. Premiové funkce zůstanou aktivní do {endDate, date, short}. Mrzí nás že odcházíte, přejeme Vám vše nejlepší a doufáme že se opět brzo setkáme.',
   processing: 'Zpracovávám...',
 
   // added 2017-04-26
-  'workshop.collaborators.premium': `Pro přidávání {type, select,
+  'workshop.collaborators.premium': `Pro přidání více {type, select,
     collaborator {spolupracovníků}
     beta {beta čtenářů}
     translator {překladatelů}
-  } je zapotřebí předplatné.`,
+  } je zapotřebí vyšší členská skupina.`,
 
   // added 2017-05-20
   'homepage.intro': 'Najděte či vytvořte literární vesmíry a úžasné příběhy.',
@@ -795,9 +785,9 @@ export default {
   // added 2017-05-28
   'encyclopedia.welcome.totalEntries': `V tomto vesmíru {totalEntries, plural, 
     zero {nejsou žádné informace}
-    one {je jeden údaj}
-    few {jsou # údaje}
-    many {je # údajů}
+    one {je jeden záznam}
+    few {jsou # záznamy}
+    many {je # záznamů}
   }.`,
 
   // added 2017-06-10

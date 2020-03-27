@@ -137,9 +137,9 @@ export default {
   'pm.to': 'To:',
   'pm.with': 'Conversation with:',
 
-  'premium.only.title': 'For premium users only',
-  'premium.only.msg': 'We apologize, but this functionality is for premium members only.',
-  'premium.only.join': 'Become one today to gain access to this and many more features.',
+  'premium.only.title': 'Not high enough membership rank',
+  'premium.only.msg': 'We apologize, your membership rank is not high enough to access this feature.',
+  'premium.only.join': 'We offer varieties of plans for everyone to get the most out of Literary Universe.',
   'premium.only.link': 'Check it out!',
 
   'user.friend.request.add': 'Add to friends',
@@ -685,7 +685,6 @@ export default {
 
   // added 2016-11-14
   // account types
-  premium: 'Premium',
   admin: 'Admin',
 
   // added 2016-11-17
@@ -744,7 +743,6 @@ export default {
 
   // added 2017-03-28
   buy: 'Buy',
-  'premium.buy': 'Buy Premium',
   'payments.add': 'Add payment option',
   'payments.add.btn': 'Add as a payment option',
   'payments.disclaimer':
@@ -758,27 +756,21 @@ export default {
   'payments.card.info': '{cardType} card, ending in {ending}',
   'payments.none': 'No saved payment options found.',
   'payments.added': 'New payment option has been successfully added.',
-  'premium.info':
-    'You are currently subscribed. Next payment of {amount, number, usd} is scheduled for {nextPayment, date, short}.', // TODO fix to include currency dynamically
 
   // added 2017-04-04
   'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
   confirm: 'Confirm',
   cancel: 'Cancel',
-  'premium.edit': 'Edit subscription',
-  'premium.cancel': 'Cancel subscription renewal',
 
   // added 2017-04-14
-  'premium.info.cancelled':
-    'Your subscription has been cancelled. Premium features will remain available till {endDate, date, short}. We are sad to see you go. We wish you the best and hope that we will see you again soon!',
   processing: 'Processing...',
 
   // added 2017-04-26
-  'workshop.collaborators.premium': `Get Premium to be able to add {type, select,
+  'workshop.collaborators.premium': `To add more {type, select,
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
-  }.`,
+  }. you need to increase your membership tier.`,
 
   // added 2017-05-20
   'homepage.intro': 'Explore and create literally universes & great stories.',
