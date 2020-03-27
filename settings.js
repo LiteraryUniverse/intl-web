@@ -29,8 +29,7 @@ export default {
   supportedLangs () {
     return this.languages.map(lang => lang.code) || []
   },
-  /* eslint-disable object-shorthand */
-  storyLanguages: function () {
+  storyLanguages () {
     return this.languages.concat([
       {
         code: 'de',
@@ -106,10 +105,7 @@ export default {
       }
     ])
   },
-  storyLocales: function () {
-    return this.storyLanguages().map(lang => lang.code)
-  },
-  /* eslint-enable object-shorthand */
+  storyLocales() { return this.storyLanguages().map(lang => lang.code) },
   currencies: {
     USD: {
       sign: '$',
@@ -140,6 +136,15 @@ export default {
       eur: { style: 'currency', currency: 'EUR' },
       usd: { style: 'currency', currency: 'USD' }
     }
+  },
+  currencyByCountry(countryCode) {
+    if (!countryCode) return 'USD'
+    if (countryCode === 'GB') return 'GBP'
+    if (countryCode === 'US' || countryCode === 'CA') return 'USD'
+    if (countryCode === 'JP') return 'JPY'
+    // EU check
+    if (this.euCountries.indexOf(countryCode) >= 0 || this.euAssociated.indexOf(countryCode) >= 0) return 'EUR'
+    return 'USD'
   },
   countries: [
     'AF',
@@ -387,5 +392,133 @@ export default {
     'YE',
     'ZM',
     'ZW'
-  ]
+  ],
+  euCountries: [
+    'BE',
+    'BG',
+    'CZ',
+    'DK',
+    'DE',
+    'EE',
+    'IE',
+    'EL',
+    'ES',
+    'FR',
+    'HR',
+    'IT',
+    'CY',
+    'LV',
+    'LT',
+    'LU',
+    'HU',
+    'MT',
+    'NL',
+    'AT',
+    'PL',
+    'PT',
+    'RO',
+    'SI',
+    'SK',
+    'FI',
+    'SE'
+  ],
+  // List of associated countries with EU for which to display EUR
+  // https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes
+  euAssociated: [
+    // EFTA
+    'IS',
+    'NO',
+    'LI',
+    'CH',
+    // Candidates
+    'ME',
+    'MK',
+    'AL',
+    'RS',
+    'TR',
+    // Potential candidates
+    'XK',
+    'BA',
+    // ENP - East
+    'AM',
+    'AZ',
+    'BY',
+    'MD',
+    'GE',
+    'UA',
+    // ENP -South
+    'DZ',
+    'EG',
+    'IL',
+    'JO',
+    'LB',
+    'LY',
+    'MA',
+    'PS',
+    'SY',
+    'TN',
+    // Other
+    'RU'
+  ],
+  // Using ISO https://en.wikipedia.org/wiki/ISO_3166-2:US
+  usStates: [
+    'AL',
+    'AK',
+    'AZ',
+    'AR',
+    'CA',
+    'CO',
+    'CT',
+    'DE',
+    'FL',
+    'GA',
+    'HI',
+    'ID',
+    'IL',
+    'IN',
+    'IA',
+    'KS',
+    'KY',
+    'LA',
+    'ME',
+    'MD',
+    'MA',
+    'MI',
+    'MN',
+    'MS',
+    'MO',
+    'MT',
+    'NE',
+    'NV',
+    'NH',
+    'NJ',
+    'NM',
+    'NY',
+    'NC',
+    'ND',
+    'OH',
+    'OK',
+    'OR',
+    'PA',
+    'RI',
+    'SC',
+    'SD',
+    'TN',
+    'TX',
+    'UT',
+    'VT',
+    'VA',
+    'WA',
+    'WV',
+    'WI',
+    'WY',
+    // non-states
+    'DC',
+    'AS',
+    'GU',
+    'MP',
+    'PR',
+    'UM',
+    'VI'
+  ],
 }

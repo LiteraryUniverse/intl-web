@@ -605,6 +605,9 @@ export default {
   'plans.feature.newFeaturesVote': 'Volte pro novou funkcionalitu',
   'plans.feature.newFeaturesSuggest': 'Navrhování nové funkcionality',
   'plans.feature.accessToBeta': 'Přístup k modulům v Betě',
+  'plans.feature.userGroups': 'Uživatelské skupiny',
+  'plans.feature.privateUserGroups': 'Tvorba privátních a skrytých skupin',
+  'plans.currency.select': 'Vybrat měnu',
 
   'nanowrimo.settings': 'NaNoWriMo účet',
   'nanowrimo.username': 'NaNoWriMo uživatelské jméno',

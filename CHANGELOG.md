@@ -1,4 +1,10 @@
 # Changelog for languages
+## 2020-03-27
+  * Added new keys for feature listing
+  * Added EU and US states
+  * Added new functions to determine currency
+  * Bumped package version to 0.2.0
+
 ## 2020-03-20
   * Adjusted and translated plan keys
   * Removed languages and countries files as they are [no longer needed](https://github.com/formatjs/react-intl/blob/master/docs/API.md#formatdisplayname)

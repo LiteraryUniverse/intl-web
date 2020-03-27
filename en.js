@@ -599,6 +599,8 @@ export default {
   'plans.feature.newFeaturesVote': 'Vote on new features',
   'plans.feature.newFeaturesSuggest': 'Propose new features',
   'plans.feature.accessToBeta': 'Access Beta features',
+  'plans.feature.userGroups': 'User groups',
+  'plans.feature.privateUserGroups': 'Create private and hidden user groups',
   'plans.currency.select': 'Select currency',
 
   'nanowrimo.full': 'National Novel Writing Month',
