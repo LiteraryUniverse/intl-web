@@ -602,6 +602,7 @@ export default {
   'plans.feature.userGroups': 'User groups',
   'plans.feature.privateUserGroups': 'Create private and hidden user groups',
   'plans.currency.select': 'Select currency',
+  'plans.subscription.ownAlready': 'You currently have this plan',
 
   'nanowrimo.full': 'National Novel Writing Month',
   'nanowrimo.site': 'NaNoWriMo official site',

@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-03-30
+  * Added key `plans.subscription.ownAlready`
+
 ## 2020-03-27
   * Added new keys for feature listing
   * Added EU and US states

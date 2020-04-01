@@ -608,6 +608,7 @@ export default {
   'plans.feature.userGroups': 'Uživatelské skupiny',
   'plans.feature.privateUserGroups': 'Tvorba privátních a skrytých skupin',
   'plans.currency.select': 'Vybrat měnu',
+  'plans.subscription.ownAlready': 'Momentálně máte tento plán',
 
   'nanowrimo.settings': 'NaNoWriMo účet',
   'nanowrimo.username': 'NaNoWriMo uživatelské jméno',
