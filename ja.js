@@ -1129,7 +1129,23 @@ export default {
   // Added 2020-02-18
   'org.authorOverride.legend': 'Author override',
   'org.authorOverride.desc': 'Shows this text instead of the name of the organization.',
-  'org.authorOverride.label': 'Author\'s name'
+  'org.authorOverride.label': 'Author\'s name',
+  // Added 2020-04-26
+  'plans.subscription.title': 'Subscription',
+  'plans.see': 'See available subscription plans',
+  'plans.current.none': 'You are currently not supporting Literary Universe.',
+  'plans.current.buying': 'It might take a few moments to verify your purchase. We appreciate your patience.',
+  'plans.current.heading': 'Current subscription plan',
+  'payment.methods.title': 'Payment methods',
+  'payment.methods.tabs': 'Payment options',
+  'payment.option.title': 'Payment option',
+  'payment.option.notFount': 'You don\'t have any payment option saved.',
+  'payment.option.create': 'Add a new payment option',
+  'payment.option.description': 'Here is a list of your saved payment methods. You can save new payment methods here for faster checkout. Literary Universe does not store nor process your payment credentials.',
+  'payment.option.blueSnap': 'Blue Snap is our payment processor.',
+  'payment.history.title': 'Payment history',
+  'payment.history.tab': 'History',
+  'payment.history.none': 'We don\'t have any records of past payments.',
 }
 
 /* eslint-enable max-len */

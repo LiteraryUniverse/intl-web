@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-04-26
+  * Added new keys for subscriptions 
+
 ## 2020-03-30
   * Added key `plans.subscription.ownAlready`
 
