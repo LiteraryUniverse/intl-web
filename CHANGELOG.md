@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-04-30
+  * New keys for buying subscription
+
 ## 2020-04-26
   * Added new keys for subscriptions 
 
