@@ -134,7 +134,7 @@ export default {
   'pm.send.message': 'Send message',
   'pm.messages.own': 'Your messages',
   'pm.conversations.none': 'You are currently not conversing with anyone.',
-  'pm.to': 'To:',
+  'pm.to': '受取人:',
   'pm.with': 'Conversation with:',
 
   'premium.only.title': '会員ランクが十分ではない',
