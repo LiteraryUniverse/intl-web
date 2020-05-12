@@ -1190,6 +1190,9 @@ export default {
   'plans.change.button': 'Change subscription',
   'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
   'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
+  // Added 2020-05-13
+  'writer.menu.optionsAria': 'Editor options menu',
+  'writer.menu.saveOptionsAria': 'Save options',
 }
 
 /* eslint-enable max-len */

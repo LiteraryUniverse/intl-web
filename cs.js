@@ -1146,20 +1146,51 @@ export default {
   'payment.option.notFount': 'You don\'t have any payment option saved.',
   'payment.option.create': 'Add a new payment option',
   'payment.option.description': 'Here is a list of your saved payment methods. You can save new payment methods here for faster checkout. Literary Universe does not store nor process your payment credentials.',
-  'payment.option.blueSnap': 'Stripe is our payment processor.',
-  'payment.history.title': 'Payment history',
-  'payment.history.tab': 'History',
-  'payment.history.none': 'We don\'t have any records of past payments.',
+  'payment.history.title': 'Historie plateb',
+  'payment.history.tab': 'Historie',
+  'payment.history.none': 'Nemáme žádné záznamy plateb.',
   // Added 2020-04-30
   'pm.new.aria': 'New conversation',
   'pm.new.buttonTitle': 'Start a new conversation',
-  'plans.options.aria': 'Payment options',
-  'plans.options.creditCard': 'Credit Card',
+  'plans.options.aria': 'Možnosti platby',
+  'plans.options.creditCard': 'Kreditní karta',
   'plans.purchase.action': 'Subscribe',
   'plans.purchase.title': 'Buy Literary Universe subscription',
   'payment.creditCard.details': 'Credit Card details',
-  'payments.zipcode.label': 'ZIP code',
+  'payments.zipcode.label': 'ZIP',
   'form.validator.zipCode': 'Must be a valid ZIP code',
+  // Added 2020-05-10
+  'payment.card.name': 'Jméno na kartě',
+  'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
+  'plans.subscribed.periodEnd': `Your subscription is valid until: {end, date, medium}`,
+  'plans.subscribed.renewal': `At the end your subscription will be {method, select,
+    charge_automatically {renewed automatically}
+    send_invoice {renewed after paying an invoice}
+  }.`,
+  'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
+  'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    canceled {Cancelled}
+    unpaid {Unpaid}
+  }`,
+  'payments.changeMethod': 'Change payment method',
+  'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
+  'plans.cancel.button': 'Cancel subscription',
+  'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the month.',
+  'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
+  'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
+  'plans.cancel.restoreBtn': 'Restore subscription',
+  'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
+  'plans.change.button': 'Change subscription',
+  'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
+  'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
+  // Added 2020-05-13
+  'writer.menu.optionsAria': 'Editor options menu',
+  'writer.menu.saveOptionsAria': 'Save options',
 }
 
 /* eslint-enable max-len */
