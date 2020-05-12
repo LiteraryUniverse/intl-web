@@ -1191,6 +1191,7 @@ export default {
   // Added 2020-05-13
   'writer.menu.optionsAria': 'Editor options menu',
   'writer.menu.saveOptionsAria': 'Save options',
+  'reader.menu.optionsAria': 'Editor options menu',
 }
 
 /* eslint-enable max-len */
