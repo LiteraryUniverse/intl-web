@@ -1135,14 +1135,14 @@ export default {
   'org.authorOverride.desc': 'Zobrazí toto jméno místo jména organizace v místech kde se zobrazuje',
   'org.authorOverride.label': 'Jméno autora',
   // Added 2020-04-26
-  'plans.subscription.title': 'Subscription',
-  'plans.see': 'See available subscription plans',
+  'plans.subscription.title': 'Předplatné',
+  'plans.see': 'Porovnejte dostupné plány',
   'plans.current.none': 'You are currently not supporting Literary Universe.',
   'plans.current.buying': 'It might take a few moments to verify your purchase. We appreciate your patience.',
   'plans.current.heading': 'Current subscription plan',
-  'payment.methods.title': 'Payment methods',
-  'payment.methods.tabs': 'Payment options',
-  'payment.option.title': 'Payment option',
+  'payment.methods.title': 'Možnosti platby',
+  'payment.methods.tabs': 'Možnosti platby',
+  'payment.option.title': 'Možnost platby',
   'payment.option.notFount': 'You don\'t have any payment option saved.',
   'payment.option.create': 'Add a new payment option',
   'payment.option.description': 'Here is a list of your saved payment methods. You can save new payment methods here for faster checkout. Literary Universe does not store nor process your payment credentials.',
@@ -1156,42 +1156,61 @@ export default {
   'plans.options.creditCard': 'Kreditní karta',
   'plans.purchase.action': 'Subscribe',
   'plans.purchase.title': 'Buy Literary Universe subscription',
-  'payment.creditCard.details': 'Credit Card details',
+  'payment.creditCard.details': 'Detaily kreditní karty',
   'payments.zipcode.label': 'ZIP',
-  'form.validator.zipCode': 'Must be a valid ZIP code',
+  'form.validator.zipCode': 'Musí být validní ZIP kód',
   // Added 2020-05-10
   'payment.card.name': 'Jméno na kartě',
-  'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-  'plans.subscribed.periodEnd': `Your subscription is valid until: {end, date, medium}`,
-  'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+  'plans.subscribed.thankYou': 'Děkujeme Vám že podporujete Literary Universe',
+  'plans.subscribed.periodEnd': `Vaše předplatné platí do: {end, date, medium}`,
+  'plans.subscribed.renewal': `Na konci tohoto období bude Vaše předplatné {method, select,
+    charge_automatically {automaticky obnoveno}
+    send_invoice {obnoveno po zaplacení faktury}
   }.`,
   'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
   'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
+    active {Aktivní}
+    incomplete {Nekompletní}
     incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    trialing {Zkušební období}
+    past_due {Neobdrželi jsme Vaší platbu}
+    canceled {Zrušeno}
+    unpaid {Nezaplaceno}
   }`,
   'payments.changeMethod': 'Change payment method',
   'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
-  'plans.cancel.button': 'Cancel subscription',
-  'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the month.',
-  'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
+  'plans.cancel.button': 'Zrušit předplatné',
+  'plans.cancel.question': 'Jste si jisti že chcete zrušit Vaše předplatné? Vaše předplatné zůstane aktivní do konce platebního období.',
+  'plans.cancel.confirmationButton': 'Ano, chci zrušit mé předplatné',
   'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
-  'plans.cancel.restoreBtn': 'Restore subscription',
+  'plans.cancel.restoreBtn': 'Obnovit předplatné',
   'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
-  'plans.change.button': 'Change subscription',
+  'plans.change.button': 'Změnit předplatné',
   'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
   'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
   // Added 2020-05-13
-  'writer.menu.optionsAria': 'Editor options menu',
-  'writer.menu.saveOptionsAria': 'Save options',
-  'reader.menu.optionsAria': 'Editor options menu',
+  'writer.menu.optionsAria': 'Menu možností editoru',
+  'writer.menu.saveOptionsAria': 'Možnosti uložení',
+  'reader.menu.optionsAria': 'Menu možností čtečky',
+  // Added 2020-05-16
+  'plans.change.upgrade': 'Upgrade',
+  'payment.invoice.status': 'Status faktury',
+  'payment.invoice.statusMessage': `{status, select,
+    draft {Návrh}
+    open {Otevřeno}
+    paid {Zaplaceno}
+    uncollectible {Uncollectible}
+    void {Void}
+  }`,
+  'payment.invoice.id': 'ID faktury',
+  'payment.invoice.pdf': 'PDF faktury',
+  'payment.invoice.total': 'Celkem',
+  'payment.invoice.what': 'Popis faktury',
+  next: 'Další',
+  'payment.stripe.powered': 'Běží na ',
+  'common.legal.tos.short': 'Podmínky',
+  'common.legal.privacy.short': 'Soukromí',
+  'payment.listMethods.card': 'Karty',
 }
 
 /* eslint-enable max-len */

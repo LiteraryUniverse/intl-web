@@ -1153,7 +1153,7 @@ export default {
   'plans.purchase.action': 'Subscribe',
   'plans.purchase.title': 'Buy Literary Universe subscription',
   'payment.creditCard.details': 'Credit Card details',
-  'payments.zipcode.label': 'ZIP code',
+  'payments.zipcode.label': '郵便番号',
   'form.validator.zipCode': 'Must be a valid ZIP code',
   // Added 2020-05-10
   'payment.card.name': 'Name on card',
@@ -1176,7 +1176,7 @@ export default {
   'payments.changeMethod': 'Change payment method',
   'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
   'plans.cancel.button': 'Cancel subscription',
-  'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the month.',
+  'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.',
   'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
   'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
   'plans.cancel.restoreBtn': 'Restore subscription',
@@ -1187,7 +1187,26 @@ export default {
   // Added 2020-05-13
   'writer.menu.optionsAria': 'Editor options menu',
   'writer.menu.saveOptionsAria': 'Save options',
-  'reader.menu.optionsAria': 'Editor options menu',
+  'reader.menu.optionsAria': 'Reader options menu',
+  // Added 2020-05-16
+  'plans.change.upgrade': 'アップグレードします',
+  'payment.invoice.status': '請求書のステータス',
+  'payment.invoice.statusMessage': `{status, select,
+    draft {Draft}
+    open {開いた}
+    paid {有償}
+    uncollectible {収集できない}
+    void {無効な請求書}
+  }`,
+  'payment.invoice.id': '請求書ID',
+  'payment.invoice.pdf': '請求書pdf',
+  'payment.invoice.total': '合計',
+  'payment.invoice.what': '請求書の説明',
+  next: 'Next',
+  'payment.stripe.powered': '搭載 ',
+  'common.legal.tos.short': '条項',
+  'common.legal.privacy.short': '個人情報保護方針',
+  'payment.listMethods.card': 'Cards',
 }
 
 /* eslint-enable max-len */

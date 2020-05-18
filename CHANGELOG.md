@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-05-16
+  * New keys for handling subscription status and payment history
+  
 ## 2020-05-13
   * Added new keys for `aria-label` in story editor
 

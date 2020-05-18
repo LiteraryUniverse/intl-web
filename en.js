@@ -1183,7 +1183,7 @@ export default {
   'payments.changeMethod': 'Change payment method',
   'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
   'plans.cancel.button': 'Cancel subscription',
-  'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the month.',
+  'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.',
   'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
   'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
   'plans.cancel.restoreBtn': 'Restore subscription',
@@ -1194,7 +1194,26 @@ export default {
   // Added 2020-05-13
   'writer.menu.optionsAria': 'Editor options menu',
   'writer.menu.saveOptionsAria': 'Save options',
-  'reader.menu.optionsAria': 'Editor options menu',
+  'reader.menu.optionsAria': 'Reader options menu',
+  // Added 2020-05-16
+  'plans.change.upgrade': 'Upgrade',
+  'payment.invoice.status': 'Invoice status',
+  'payment.invoice.statusMessage': `{status, select,
+    draft {Draft}
+    open {Open}
+    paid {Paid}
+    uncollectible {Uncollectible}
+    void {Void}
+  }`,
+  'payment.invoice.id': 'Invoice id',
+  'payment.invoice.pdf': 'Invoice pdf',
+  'payment.invoice.total': 'Total',
+  'payment.invoice.what': 'Invoice description',
+  next: 'Next',
+  'payment.stripe.powered': 'Powered by ',
+  'common.legal.tos.short': 'Terms',
+  'common.legal.privacy.short': 'Privacy',
+  'payment.listMethods.card': 'Cards',
 }
 
 /* eslint-enable max-len */
