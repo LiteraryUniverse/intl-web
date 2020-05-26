@@ -824,7 +824,6 @@ export default {
     'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
 
   // added 2017-10-04
-  'common.settings.payments': 'Payments Settings',
   'common.nodata': 'データなし',
 
   // added 2017-11-25
@@ -839,11 +838,10 @@ export default {
   } for the following:`,
 
   // added 2018-02-05
-  'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
-  }.`,
+  'pm.conversations.unreadCount': `未読の会話{count, plural,
+    zero {はありません}
+    other {が#件あります}
+  }`,
 
   // added 2018-02-06
   'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
@@ -873,7 +871,7 @@ export default {
   'settings.delete.submit': 'アカウントを削除します',
   'settings.legal.title': 'User consent agreements',
   'settings.legal.explained': 'Here you can manage your agreement to various legal documents.',
-  'settings.name.private': 'Name will be private',
+  'settings.name.private': '名前は非公開になります',
   'settings.emailSubscriptions.title': 'E-mail notifications settings',
   'settings.emailSubscriptions.explain': 'Select which e-mail notifications do you want to receive from us.',
   'settings.emailSubscriptions.newsletter': 'Occasional newsletter',
@@ -888,9 +886,9 @@ export default {
   'legal.modal.disagree': '同意しません',
   'legal.modal.register': 'You won\'t see this anymore if you register.',
   // added 2018-04-27
-  'legal.modal.goToSettings': 'Go to your settings',
-  'settings.profile': 'Profile settings',
-  'settings.account': 'Account settings',
+  'legal.modal.goToSettings': '設定に移動します',
+  'settings.profile': 'プロファイル設定',
+  'settings.account': 'アカウント設定',
   // added 2018-04-30
   'settings.legal.export.download': 'Download Your data',
   'settings.legal.export.gathering': 'Gathering Your data... This might take a while.',
@@ -917,7 +915,7 @@ export default {
   // added 2018-05-18
   'common.legal.effectiveAt': 'Effective from',
   // added 2018-05-24
-  select: 'Please select',
+  select: '選んでください',
   'legal.modal.fewmore': 'もっと多くのこと...',
   'legal.modal.finish': 'Finish',
   // added 2018-05-30
@@ -926,7 +924,7 @@ export default {
   'common.statusFailed': 'Failed to connect to the server.',
   'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
   // added 2018-06-13
-  'slug.checking': 'Checking...',
+  'slug.checking': '確認しています...',
   'slug.failed': 'This address already exists.',
   'slug.success': 'This address is available!',
   // added 2018-07-08
@@ -984,7 +982,7 @@ export default {
   'errorLoading.retry': '再試行する',
   'errorLoading.takingLong': 'これは長い時間がかかります...',
   // added 2019-01-13
-  'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.',
+  'settings.resetPasswordEmailSend': 'パスワードをメールにリセットする方法の手順をお送りします。',
   // added 2019-02-12
   'pm.form.minimumParticipants': 'You need to choose a recipient.',
   'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.',
@@ -1013,15 +1011,15 @@ export default {
   // added 2019-10-04
   'common.legal.gdpr': 'GDPR',
   'common.legal.gdpr.long': '般データ保護規則',
-  'gdpr.title': 'GDPR Compliance',
-  'gdpr.desc': 'Literary Universe is compliant with the EU GDPR directives.',
-  'gdpr.compliant': 'Literary UniverseはGDPRに準拠',
+  'gdpr.title': 'GDPRコンプライアンス',
+  'gdpr.desc': '文学の宇宙は、EU GDPR指令に準拠しています。',
+  'gdpr.compliant': '文学の宇宙はGDPRに準拠',
   'gdpr.compliant.text':
     'Literary Universeは、2018年5月25日にGDPRの施行に備えて、コードベースにさまざまな更新と変更を実装しました。',
   'common.legal.dmca': 'DMCA',
   'common.legal.dmca.long': 'デジタルミレニアム著作権法',
-  'dmca.title': 'デジタルミレニアム著作権法 (DMCA) Policy',
-  'dmca.subtitle': 'Copyright Dispute Policy',
+  'dmca.title': 'デジタルミレニアム著作権法 (DMCA) ポリシー',
+  'dmca.subtitle': '著作権紛争ポリシー',
   'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
   'dmca.step2.title': 'Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.',
   'dmca.step3.title': 'Procedure to Supply a Counter-Notice to the Designated Agent.',
@@ -1034,8 +1032,8 @@ export default {
   'writer.link': 'リンクを挿入する',
   'writer.image': '画像を挿入する',
   // Added 2019-10-16
-  'editor.placeholder.link': 'Enter URL...',
-  'editor.placeholder.connection': 'Search for encyclopedia entry...',
+  'editor.placeholder.link': 'URLを入力...',
+  'editor.placeholder.connection': '百科事典のエントリを検索...',
   // Added 2019-10-20
   'editor.saved.beta': 'New revision for Beta readers created!',
   'editor.saved.public': 'New version published!',
@@ -1077,13 +1075,13 @@ export default {
   'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
   // Added 2019-11-06
   'a11y.user.menu': 'User menu',
-  'dashboard.profile': 'Your profile',
+  'dashboard.profile': 'あなたのプロフィール',
   'settings.links.title': 'Link to your other websites',
   'settings.links.description': 'These links will be displayed on your profile page.',
-  'settings.links.website': 'Your personal website',
+  'settings.links.website': 'あなたの個人的なウェブサイト',
   'settings.links.social': 'Other websites',
   // Added 2019-11-07
-  'profile.website': 'My personal website',
+  'profile.website': '私の個人ウェブサイト',
   'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
@@ -1119,7 +1117,7 @@ export default {
   // Added 2020-02-03
   'org.userDashboardTitle': 'Your organizations',
   'org.settings.hideMembers.label': 'Hide members from the public',
-  'auditLog.header.date': 'Date',
+  'auditLog.header.date': '日付',
   'auditLog.header.action': 'What',
   'auditLog.header.group': 'グルプ',
   'auditLog.header.user': 'Who',
@@ -1136,9 +1134,9 @@ export default {
   'plans.current.none': 'You are currently not supporting Literary Universe.',
   'plans.current.buying': 'It might take a few moments to verify your purchase. We appreciate your patience.',
   'plans.current.heading': 'Current subscription plan',
-  'payment.methods.title': 'Payment methods',
-  'payment.methods.tabs': 'Payment options',
-  'payment.option.title': 'Payment option',
+  'payment.methods.title': 'お支払い方法',
+  'payment.methods.tabs': '支払いオプション',
+  'payment.option.title': '支払いオプション',
   'payment.option.notFount': 'You don\'t have any payment option saved.',
   'payment.option.create': 'Add a new payment option',
   'payment.option.description': 'Here is a list of your saved payment methods. You can save new payment methods here for faster checkout. Literary Universe does not store nor process your payment credentials.',
@@ -1146,32 +1144,32 @@ export default {
   'payment.history.tab': 'History',
   'payment.history.none': 'We don\'t have any records of past payments.',
   // Added 2020-04-30
-  'pm.new.aria': 'New conversation',
-  'pm.new.buttonTitle': 'Start a new conversation',
+  'pm.new.aria': '新しい会話',
+  'pm.new.buttonTitle': '新しい会話を始める',
   'plans.options.aria': 'Payment options',
-  'plans.options.creditCard': 'Credit Card',
+  'plans.options.creditCard': 'クレジットカード',
   'plans.purchase.action': 'Subscribe',
   'plans.purchase.title': 'Buy Literary Universe subscription',
-  'payment.creditCard.details': 'Credit Card details',
+  'payment.creditCard.details': 'クレジットカードの詳細',
   'payments.zipcode.label': '郵便番号',
   'form.validator.zipCode': 'Must be a valid ZIP code',
   // Added 2020-05-10
-  'payment.card.name': 'Name on card',
-  'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-  'plans.subscribed.periodEnd': `Your subscription is valid until: {end, date, medium}`,
+  'payment.card.name': 'カード上の名前',
+  'plans.subscribed.thankYou': '文学の宇宙をサポートしていただきありがとうございます',
+  'plans.subscribed.periodEnd': `サブスクリプションは{end, date, medium}まで有効です。`,
   'plans.subscribed.renewal': `At the end your subscription will be {method, select,
     charge_automatically {renewed automatically}
     send_invoice {renewed after paying an invoice}
   }.`,
   'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-  'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
+  'plans.subscribed.status': `サブスクリプションのステータス: {status, select,
+    active {アクティブ}
+    incomplete {何か不足しています}
+    incomplete_expired {何か不足しています}
     trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    past_due {お支払いがありません}
+    canceled {キャンセル}
+    unpaid {未払い}
   }`,
   'payments.changeMethod': 'Change payment method',
   'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
@@ -1186,7 +1184,7 @@ export default {
   'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
   // Added 2020-05-13
   'writer.menu.optionsAria': 'Editor options menu',
-  'writer.menu.saveOptionsAria': 'Save options',
+  'writer.menu.saveOptionsAria': '保存オプション',
   'reader.menu.optionsAria': 'Reader options menu',
   // Added 2020-05-16
   'plans.change.upgrade': 'アップグレードします',
@@ -1207,6 +1205,14 @@ export default {
   'common.legal.tos.short': '条項',
   'common.legal.privacy.short': '個人情報保護方針',
   'payment.listMethods.card': 'Cards',
+  // Added 2020-05-26
+  'payment.expiresAt': '{month}/{year}に期限切れ',
+  'payment.card.details': `末尾が{last4}{type, select,
+    credit {クレジットカード}
+    debit {デビットカード}
+    other {カード}
+  }`,
+  'payment.options.default': 'デフォルト',
 }
 
 /* eslint-enable max-len */

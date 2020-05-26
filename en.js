@@ -825,7 +825,6 @@ export default {
     'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
 
   // added 2017-10-04
-  'common.settings.payments': 'Payments Settings',
   'common.nodata': 'No data',
 
   // added 2017-11-25
@@ -1214,6 +1213,14 @@ export default {
   'common.legal.tos.short': 'Terms',
   'common.legal.privacy.short': 'Privacy',
   'payment.listMethods.card': 'Cards',
+  // Added 2020-05-26
+  'payment.expiresAt': 'Expires {month}/{year}',
+  'payment.card.details': `{type, select,
+    credit {Credit card}
+    debit {Debit card}
+    other {Card}
+  } ending with {last4}`,
+  'payment.options.default': 'Default',
 }
 
 /* eslint-enable max-len */

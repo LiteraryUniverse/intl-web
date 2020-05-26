@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2020-05-26
+  * Removed un used key for payment settings
+  * Added keys for default payment method
+
 ## 2020-05-16
   * New keys for handling subscription status and payment history
   

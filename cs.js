@@ -832,7 +832,6 @@ export default {
     'Zde jsou pouze samostatné příběhy. Pokud byl příběh napsán jako součást vesmíru tak jej naleznete na stránce o daném vesmíru.',
 
   // added 2017-10-04
-  'common.settings.payments': 'Nastavení plateb',
   'common.nodata': 'Žádná data',
 
   // added 2017-11-25
@@ -1211,6 +1210,14 @@ export default {
   'common.legal.tos.short': 'Podmínky',
   'common.legal.privacy.short': 'Soukromí',
   'payment.listMethods.card': 'Karty',
+  // Added 2020-05-26
+  'payment.expiresAt': 'Vyprší {month}/{year}',
+  'payment.card.details': `{type, select,
+    credit {Kreditní karta}
+    debit {Debetní karta}
+    other {Karta}
+  } končící {last4}`,
+  'payment.options.default': 'Výchozí',
 }
 
 /* eslint-enable max-len */
