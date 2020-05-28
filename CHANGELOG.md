@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-05-27
+  * New keys for payment method management
+
 ## 2020-05-26
   * Removed un used key for payment settings
   * Added keys for default payment method

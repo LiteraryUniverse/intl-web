@@ -1221,6 +1221,10 @@ export default {
     other {Card}
   } ending with {last4}`,
   'payment.options.default': 'Default',
+  // Added 2020-05-27
+  'payment.method.add': 'Add a new payment method',
+  'payment.methods.adding': 'You new payment method has been added to your account.',
+  'payment.methods.delete': 'Delete payment method',
 }
 
 /* eslint-enable max-len */

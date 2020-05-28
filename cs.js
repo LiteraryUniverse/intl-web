@@ -1218,6 +1218,10 @@ export default {
     other {Karta}
   } končící {last4}`,
   'payment.options.default': 'Výchozí',
+  // Added 2020-05-27
+  'payment.method.add': 'Přidat platební metodu',
+  'payment.methods.adding': 'Vaše nová platební možnost byla přidána.',
+  'payment.methods.delete': 'Smazat platební metodu',
 }
 
 /* eslint-enable max-len */
