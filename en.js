@@ -1225,6 +1225,14 @@ export default {
   'payment.method.add': 'Add a new payment method',
   'payment.methods.adding': 'You new payment method has been added to your account.',
   'payment.methods.delete': 'Delete payment method',
+  // Added 2020-05-30
+  'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
+  'premium.increaseLimit': 'Consider upgrading to increase you limit.',
+  'enc.entries.limit': `You currently have {value, number} out of {max, plural,
+    =0 {unlimited}
+    other {{max, number}}
+  } entries.`,
+  'payment.upgradePlan.option': `{plan} - {price}`
 }
 
 /* eslint-enable max-len */

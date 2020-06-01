@@ -1222,6 +1222,15 @@ export default {
   'payment.method.add': 'Přidat platební metodu',
   'payment.methods.adding': 'Vaše nová platební možnost byla přidána.',
   'payment.methods.delete': 'Smazat platební metodu',
+  // Added 2020-05-30
+  'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
+  'premium.increaseLimit': 'Consider upgrading to increase you limit.',
+  'enc.entries.limit': `You currently have {value, number} out of {max, plural,
+    =0 {unlimited}
+    other {{max, number}}
+  } entries.`,
+  'payment.upgradePlan.option': `{plan} - {price}`
+
 }
 
 /* eslint-enable max-len */
