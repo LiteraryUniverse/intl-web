@@ -75,7 +75,6 @@ export default {
 
   // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
   'team.name.jdvorak': 'Jan Dvořák',
-  'team.name.sedwards': 'Scott Edwards',
 
   'settings.biography': 'O Vás',
   'settings.biography.placeholder': 'Něco málo o Vás, pro Váš profil.',
@@ -551,8 +550,6 @@ export default {
   'about.history': 'Historie',
   'about.CEO': 'Výkonný ředitel',
   'about.CTO': 'Vedoucí vývoje',
-  'about.scott':
-    "Scott became interested in creative writing in his early years and to this day is an avid reader. As someone who has always wanted to write his own book Scott became interested in Literary Universe when Jan Dvorak approached him with the idea for Literary Universe while they were in college. Scott has been been a part of Jan's development team since its inception and created the name for the site, among other notable contributions. Scott manages the business side of Literary Universe to allow Jan to focus on technological development.",
   'about.jan':
     'Honza je zakladatel, visionář a technologický mozek Literary Universe. Jako pisálek a čtenář velkých literárních vesmírů Honza měl vždycky problémy s psaním (a čtením) těchto příběhů z technického a čtenářského hlediska. Vidíce potencial ve webových technologii, Honza se rozhodl zaměřit své studia tímto směrem aby získal potřebné znalosti k vytvoření aplikace která by umožnila lepší psaní a čtení rozsáhlých literárních vesmírů.',
   'about.history.text':

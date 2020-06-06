@@ -78,7 +78,6 @@ export default {
 
   // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
   'team.name.jdvorak': 'Jan Dvořák',
-  'team.name.sedwards': 'Scott Edwards',
 
   'settings.biography': 'Biography',
   'settings.biography.placeholder': 'A little bit about yourself to be shown on your profile.',
@@ -547,8 +546,6 @@ export default {
   'about.history': 'History',
   'about.CEO': 'Chief Executive Officer',
   'about.CTO': 'Chief Technology Officer',
-  'about.scott':
-    "Scott became interested in creative writing in his early years and to this day is an avid reader. As someone who has always wanted to write his own book Scott became interested in Literary Universe when Jan Dvorak approached him with the idea for Literary Universe while they were in college. Scott has been been a part of Jan's development team since its inception and created the name for the site, among other notable contributions. Scott manages the business side of Literary Universe to allow Jan to focus on technological development.",
   'about.jan':
     'Jan is the founder, visionary and technological brain behind Literary Universe. As a writer of large literary universes, Jan had always found it difficult to write stories from a technical and readability point of view that would not compromise the reading experience. As such, Jan decided to pursue his studies in web development to create an application that would make it easy to write stories in large universes.',
   'about.history.text':
