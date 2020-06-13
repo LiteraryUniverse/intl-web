@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2020-06-13
   * Add keys for submitting feedback comments
+  * Add a key to hide organizations context in workshop
 
 ## 2020-05-30
   * New keys for encyclopedia settings and upgrades

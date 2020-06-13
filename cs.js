@@ -1233,6 +1233,7 @@ export default {
   'feedback.comment.legend': 'Váš komentář - napiště nám o čemkoliv',
   'feedback.comment.success': 'Děkujeme Vám za Vaší zpětnou vazbu!',
   'feedback.comment.label': 'Váš komentář',
+  'workshop.hideOrgs': 'Schovat obsah z organizací',
 
 }
 

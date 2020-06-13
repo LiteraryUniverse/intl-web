@@ -1228,6 +1228,7 @@ export default {
   'feedback.comment.legend': 'Your feedback - let us know about anything',
   'feedback.comment.success': 'Thank you for your feedback!',
   'feedback.comment.label': 'Your comment',
+  'workshop.hideOrgs': 'Hide content from organizations',
 }
 
 /* eslint-enable max-len */
