@@ -1226,7 +1226,13 @@ export default {
     =0 {unlimited}
     other {{max, number}}
   } entries.`,
-  'payment.upgradePlan.option': `{plan} - {price}`
+  'payment.upgradePlan.option': `{plan} - {price}`,
+  // Added 2020-06-13
+  'feedback.comment.title': 'Komentář',
+  'feedback.comment.desc': 'Pošlete nám Váš komentář',
+  'feedback.comment.legend': 'Váš komentář - napiště nám o čemkoliv',
+  'feedback.comment.success': 'Děkujeme Vám za Vaší zpětnou vazbu!',
+  'feedback.comment.label': 'Váš komentář',
 
 }
 

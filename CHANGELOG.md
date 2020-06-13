@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-06-13
+  * Add keys for submitting feedback comments
+
 ## 2020-05-30
   * New keys for encyclopedia settings and upgrades
 

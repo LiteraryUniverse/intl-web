@@ -1221,7 +1221,13 @@ export default {
     =0 {unlimited}
     other {{max, number}}
   } entries.`,
-  'payment.upgradePlan.option': `{plan} - {price}`
+  'payment.upgradePlan.option': `{plan} - {price}`,
+  // Added 2020-06-13
+  'feedback.comment.title': 'Comment',
+  'feedback.comment.desc': 'Send us your feedback',
+  'feedback.comment.legend': 'Your feedback - let us know about anything',
+  'feedback.comment.success': 'Thank you for your feedback!',
+  'feedback.comment.label': 'Your comment',
 }
 
 /* eslint-enable max-len */
