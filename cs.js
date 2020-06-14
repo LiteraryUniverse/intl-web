@@ -109,6 +109,7 @@ export default {
   'signin.password.forgot': 'Zapoměli jste heslo?',
 
   'settings.password.reset': 'Resetovat heslo',
+  'settings.password.resetSend': 'E-mail s instrukcemi k resetování Vašeho hesla byl odeslán!',
   'email.verification': 'E-mail verifikace',
   'email.verifying': 'Potvrzuji Váš e-mail. Hnedka to bude hotové...',
   'email.verified': 'Váš e-mail byl potvrzen!',

@@ -111,6 +111,7 @@ export default {
   'signin.password.forgot': 'パスワードをお忘れですか？',
 
   'settings.password.reset': 'あなたのパスワードをリセット',
+  'settings.password.resetSend': 'E-mail with instructions on how to reset your password has been send!',
   'email.verification': 'E-mail verification',
   'email.verifying': 'Verifying your e-mail. This will take just a moment...',
   'email.verified': 'Great news! Your e-mail has been verified!',

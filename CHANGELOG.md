@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-06-14
+  * Added `settings.password.resetSend` key
+
 ## 2020-06-13
   * Add keys for submitting feedback comments
   * Add a key to hide organizations context in workshop
