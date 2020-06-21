@@ -1230,6 +1230,8 @@ export default {
   'feedback.comment.success': 'Thank you for your feedback!',
   'feedback.comment.label': 'Your comment',
   'workshop.hideOrgs': 'Hide content from organizations',
+  // Added 2020-06-21
+  'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
 }
 
 /* eslint-enable max-len */

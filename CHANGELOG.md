@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-06-21
+  * Added `encyclopedia.settings.groupByCategories` key
+
 ## 2020-06-14
   * Added `settings.password.resetSend` key
 

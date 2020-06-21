@@ -1235,6 +1235,8 @@ export default {
   'feedback.comment.success': 'Děkujeme Vám za Vaší zpětnou vazbu!',
   'feedback.comment.label': 'Váš komentář',
   'workshop.hideOrgs': 'Schovat obsah z organizací',
+  // Added 2020-06-21
+  'encyclopedia.settings.groupByCategories': 'Zobrazit kategorie ve skupinovém menu',
 
 }
 
