@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2020-06-23
   * Added GDPR & DMCA related keys
+  * Added voting keys
 
 ## 2020-06-21
   * Added `encyclopedia.settings.groupByCategories` key

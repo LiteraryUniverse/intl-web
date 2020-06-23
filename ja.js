@@ -1244,6 +1244,11 @@ export default {
   'dmca.step1.desc3': 'Please note that making a false claims will result in your inability to file claims in the future.',
   'dmca.step2.desc1': 'Upon receiving your report we will verify your credentials and ownership claim. If everything is fine we will proceed to check claim. If we determine claim as true we will make the infringing property inaccessible until counter-notice determination or 14 days have passed after which it will be deleted.',
   'dmca.step3.desc1': 'Once a complaint has been received the owner of designated property will have 14 days to file a counter notice. Designated Agent will then proceed to investigate the dispute. Any decision by the Designated Agent at this stage will be final.',
+  'feedback.report.noUser': 'You need to be signed in, in order to file a report.',
+  'feedback.voting.totalVoters': 'Users voted: {voted, number}',
+  'feedback.voting.upvote': 'Up vote',
+  'feedback.voting.downvote': 'Down vote',
+  'feedback.voting.score': 'Total score',
 }
 
 /* eslint-enable max-len */
