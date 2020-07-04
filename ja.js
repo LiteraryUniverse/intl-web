@@ -1249,6 +1249,18 @@ export default {
   'feedback.voting.upvote': 'Up vote',
   'feedback.voting.downvote': 'Down vote',
   'feedback.voting.score': 'Total score',
+  // Added 2020-07-04
+  'feedback.report.title': 'Report content',
+  'feedback.report.typeSelect': 'What is the issue here?',
+  'feedback.reportType.law': 'Law violation',
+  'feedback.reportType.vulgar': 'Vulgar/obscene',
+  'feedback.reportType.copyright': 'Copyright violation',
+  'feedback.reportType.storyRating': 'Incorrect age rating',
+  'feedback.report.submit': 'Report',
+  'feedback.report.submitting': 'Reporting...',
+  'feedback.report.violationDesc': 'Details',
+  'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
+  'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
 }
 
 /* eslint-enable max-len */

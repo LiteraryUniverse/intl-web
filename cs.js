@@ -1251,9 +1251,21 @@ export default {
   'dmca.step3.desc1': 'Once a complaint has been received the owner of designated property will have 14 days to file a counter notice. Designated Agent will then proceed to investigate the dispute. Any decision by the Designated Agent at this stage will be final.',
   'feedback.report.noUser': 'You need to be signed in, in order to file a report.',
   'feedback.voting.totalVoters': 'Počet voličů: {voted, number}',
-  'feedback.voting.upvote': 'Up vote',
-  'feedback.voting.downvote': 'Down vote',
+  'feedback.voting.upvote': '+1',
+  'feedback.voting.downvote': '-1',
   'feedback.voting.score': 'Celkové skóre',
+  // Added 2020-07-04
+  'feedback.report.title': 'Nahlásit obsah',
+  'feedback.report.typeSelect': 'Co je problém?',
+  'feedback.reportType.law': 'Porušení zákona',
+  'feedback.reportType.vulgar': 'Vulgarní/obsení',
+  'feedback.reportType.copyright': 'Porušení copyrightu',
+  'feedback.reportType.storyRating': 'Špatné věkové hodnocení',
+  'feedback.report.submit': 'Nahlásit',
+  'feedback.report.submitting': 'Oznamuji...',
+  'feedback.report.violationDesc': 'Popis',
+  'feedback.report.reportSaved': 'Děkujeme! Brzy se na to podíváme.',
+  'feedback.report.copyrightReportSaved': 'Děkujeme za nahlášení! Budeme v kontaktu.',
 }
 
 /* eslint-enable max-len */

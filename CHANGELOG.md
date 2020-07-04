@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-07-04
+  * Initial keys for reporting
+
 ## 2020-06-23
   * Added GDPR & DMCA related keys
   * Added voting keys
