@@ -1,5 +1,8 @@
 export default {
   supportedLocales: ['en', 'cs'],
+  /**
+   * Languages supported in our app
+   */
   languages: [
     {
       code: 'en',
@@ -26,9 +29,18 @@ export default {
       rtl: false
     }
   ],
+  /**
+   * Get the array of language codes of supported languages
+   * @returns {[String]}
+   */
   supportedLangs () {
     return this.languages.map(lang => lang.code) || []
   },
+  /**
+   * Returns details of all supported languages for stories.
+   * This includes stories supported through the app in addition to those listed here.
+   * @returns {({defaultLocale: string, code: string, supportedLocales: [string, string, string, string, string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean})[]}
+   */
   storyLanguages () {
     return this.languages.concat([
       {
@@ -106,6 +118,9 @@ export default {
     ])
   },
   storyLocales() { return this.storyLanguages().map(lang => lang.code) },
+  /**
+   * Definition of currencies for intl
+   */
   currencies: {
     USD: {
       sign: '$',
@@ -137,6 +152,11 @@ export default {
       usd: { style: 'currency', currency: 'USD' }
     }
   },
+  /**
+   * Returns the preferred currency based on country.
+   * @param countryCode {String} 2-key country string
+   * @returns {String} 3-key currency string
+   */
   currencyByCountry(countryCode) {
     if (!countryCode) return 'USD'
     if (countryCode === 'GB') return 'GBP'
@@ -146,6 +166,9 @@ export default {
     if (this.euCountries.indexOf(countryCode) >= 0 || this.euAssociated.indexOf(countryCode) >= 0) return 'EUR'
     return 'USD'
   },
+  /**
+   * 2-key list of all countries
+   */
   countries: [
     'AF',
     'AX',
@@ -393,6 +416,9 @@ export default {
     'ZM',
     'ZW'
   ],
+  /**
+   * 2-key list of EU countries
+   */
   euCountries: [
     'BE',
     'BG',
@@ -422,8 +448,10 @@ export default {
     'FI',
     'SE'
   ],
-  // List of associated countries with EU for which to display EUR
-  // https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes
+  /**
+   * List of associated countries with EU for which to display EUR
+   * https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes
+   */
   euAssociated: [
     // EFTA
     'IS',
@@ -460,7 +488,10 @@ export default {
     // Other
     'RU'
   ],
-  // Using ISO https://en.wikipedia.org/wiki/ISO_3166-2:US
+  /**
+   * USA states
+   * Using ISO https://en.wikipedia.org/wiki/ISO_3166-2:US
+   */
   usStates: [
     'AL',
     'AK',
