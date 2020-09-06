@@ -472,6 +472,7 @@ export default {
   'genre.comedy': 'Komedie',
   'genre.drama': 'Drama',
   'genre.nonfiction': 'Non-fiction',
+  'genre.fiction': 'Fikce',
   'genre.romance': 'Romantika',
   'genre.satire': 'Satire',
   'genre.tragedy': 'Tragédie',

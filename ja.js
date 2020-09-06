@@ -468,6 +468,7 @@ export default {
   'genre.comedy': 'コメディー',
   'genre.drama': 'ドラマ',
   'genre.nonfiction': 'ノンフィクション',
+  'genre.fiction': 'フィクション',
   'genre.romance': 'ロマンス',
   'genre.satire': '風刺',
   'genre.tragedy': '悲劇',

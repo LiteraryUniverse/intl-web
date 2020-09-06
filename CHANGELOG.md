@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-09-06
+  * Add `genre.fiction` key to account for newly added genre
+
 ## 2020-07-04
   * Initial keys for reporting
 
