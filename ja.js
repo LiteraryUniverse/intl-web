@@ -123,7 +123,7 @@ export default {
   'common.legal.tos': '利用規約',
   'common.legal.community': 'Community Guidelines',
   'common.legal.privacy': 'プライバシーポリシー',
-  'common.legal.copyright': 'Copyright Agreement',
+  'common.legal.copyright': '著作権契約',
   'common.legal.disclaimer': '© {year} 全著作権所有。 すべてのテキストはそれぞれの作者に属します。',
 
   'pm.conversation': '会話',
@@ -224,7 +224,7 @@ export default {
   'story.chapters': '章',
   'story.genre': 'Genre',
   'story.genres': 'Genres',
-  'story.read': 'Read',
+  'story.read': '読んだ',
   'story.lastUpdate': 'Last updated on {date, date, medium} {date, time, short}.',
   'story.finishedAt': 'Finished on {date, date, medium}.',
   'story.comments.for': 'Comments for {story} {chapter}.',
@@ -245,7 +245,7 @@ export default {
   'chapter.next': '次の章',
   'chapter.previous': '前章',
   'reader.details.universe': 'Universe details',
-  'reader.details.story': 'Story details',
+  'reader.details.story': '物語の説明',
   'reader.darkmode': 'Toggle dark mode',
   'reader.flowtext': 'Toggle text size',
   'writer.bold': 'Bold the selection',
@@ -289,7 +289,7 @@ export default {
   'workshop.universe.publishedOn': 'This universe has been published on ',
   'workshop.universe.description': 'Universe description',
   'workshop.settings.title': 'Title',
-  'workshop.description': 'Description',
+  'workshop.description': '説明',
   'workshop.language.primary': 'Primary language',
   'workshop.publication.options': 'Publication options',
   'workshop.rating': 'General rating',
@@ -298,7 +298,7 @@ export default {
   'workshop.universe.license': 'Universe license',
   'workshop.universe.genre.pick': 'Select genre for the universe',
   'workshop.story.genre.pick': 'Select genres for the story',
-  'workshop.cover': 'Cover',
+  'workshop.cover': 'カバーアート',
   'workshop.nothingtosee': 'Nothing to see here...',
   'workshop.story.cannon': 'Cannon story',
   'workshop.story.cannon.desc': 'This story is cannonical in {universe} universe.',
@@ -316,7 +316,7 @@ export default {
   'workshop.story.settings': 'Story settings',
   'workshop.settings.basic': 'Basic settings',
   'workshop.settings.genres': 'Genres (max 2)',
-  'workshop.story.license': 'Story license',
+  'workshop.story.license': '物語の著作権',
   'workshop.story.settings.universe': 'Universe settings',
   'workshop.settings.tags': 'Tags',
   'workshop.revision': 'Revision',
@@ -477,9 +477,9 @@ export default {
   'genre.horror': 'ホラー',
   'genre.mystery': 'ミステリー',
   'genre.thriller': 'スリラー',
-  'genre.western': 'Western',
+  'genre.western': '開拓時代の米国',
   'genre.memoir': '伝記',
-  'genre.biography': 'Biography',
+  'genre.biography': 'バイオグラフィー',
   'genre.steampunk': 'スチームパンク',
   'genre.mythology': '神話',
   'genre.fairytale': '伽話',
@@ -516,7 +516,7 @@ export default {
     'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.',
 
   'library.add': 'ライブラリに追加',
-  'library.remove': 'Remove from library',
+  'library.remove': 'ライブラリから削除',
   'library.bought': 'Bought stories',
   'library.stories': 'Followed stories',
   'library.universes': 'Followed universe',
@@ -712,8 +712,8 @@ export default {
   'workshop.cover.alt': 'cover image',
 
   // added 2016-12-31
-  'common.saved': 'Saved!',
-  'common.saving': 'Saving...',
+  'common.saved': '保存されました',
+  'common.saving': '保存しています',
 
   // added 2017-01-03
   'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
@@ -748,8 +748,8 @@ export default {
   'payments.disclaimer':
     'Payment information and processing is done via Braintree by PayPal. We do not keep any credit card or bank account information on our servers.',
   'buy.payment.optionsSelect': 'Select payment option',
-  'payments.card.number': 'Card number',
-  'payments.card.expire': 'Valid Thru',
+  'payments.card.number': 'クレジットカード番号',
+  'payments.card.expire': 'まで有効',
   'payments.card.cvv': 'CVV',
 
   // added 2017-03-31
@@ -759,8 +759,8 @@ export default {
 
   // added 2017-04-04
   'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
-  confirm: 'Confirm',
-  cancel: 'Cancel',
+  confirm: '確認',
+  cancel: 'キャンセル',
 
   // added 2017-04-14
   processing: 'Processing...',
@@ -773,7 +773,7 @@ export default {
   }. you need to increase your membership tier.`,
 
   // added 2017-05-20
-  'homepage.intro': 'Explore and create literally universes & great stories.',
+  'homepage.intro': '文字通り宇宙と素晴らしい物語を探検し、創造してください。',
   'homepage.explanation':
     'Literary Universe is a creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
 
@@ -889,8 +889,8 @@ export default {
   'settings.profile': 'プロファイル設定',
   'settings.account': 'アカウント設定',
   // added 2018-04-30
-  'settings.legal.export.download': 'Download Your data',
-  'settings.legal.export.gathering': 'Gathering Your data... This might take a while.',
+  'settings.legal.export.download': 'あなたのデータをダウンロードする',
+  'settings.legal.export.gathering': 'あなたのデータを収集しています。これにはしばらく時間がかかる場合があります。',
   male: '男性',
   female: '女性',
   'settings.gender.title': 'あなたの性別',
@@ -946,7 +946,7 @@ export default {
   'stats.age.above85': '85以上',
   'stats.section.aggregate': 'Aggregate statistics',
   'stats.section.chapter': 'Chapter statistics',
-  'stats.readers.title': 'About your readers',
+  'stats.readers.title': '読者について',
   'stats.gender.title': '性別',
   'stats.view.table': 'テーブルビュー',
   'stats.view.pie': '円グラフビュー',
@@ -1203,7 +1203,7 @@ export default {
   'payment.stripe.powered': '搭載 ',
   'common.legal.tos.short': '条項',
   'common.legal.privacy.short': '個人情報保護方針',
-  'payment.listMethods.card': 'Cards',
+  'payment.listMethods.card': 'クレジットカード',
   // Added 2020-05-26
   'payment.expiresAt': '{month}/{year}に期限切れ',
   'payment.card.details': `末尾が{last4}{type, select,
@@ -1234,8 +1234,8 @@ export default {
   // Added 2020-06-21
   'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
   // Added 2020-06-23
-  'feedback.copyrightReport.title': 'Copyright violation',
-  'feedback.copyrightReport.desc': 'Report Copyright violation',
+  'feedback.copyrightReport.title': '著作権違反',
+  'feedback.copyrightReport.desc': '著作権違反を報告',
   'gdpr.access.title': 'Right of Access and Right of Data Portability',
   'gdpr.access.desc': 'In user settings you can export all your data. This data will be in standard JSON format.',
   'gdpr.forget.title': 'Right to be forgotten',
@@ -1247,15 +1247,15 @@ export default {
   'dmca.step3.desc1': 'Once a complaint has been received the owner of designated property will have 14 days to file a counter notice. Designated Agent will then proceed to investigate the dispute. Any decision by the Designated Agent at this stage will be final.',
   'feedback.report.noUser': 'You need to be signed in, in order to file a report.',
   'feedback.voting.totalVoters': 'Users voted: {voted, number}',
-  'feedback.voting.upvote': 'Up vote',
-  'feedback.voting.downvote': 'Down vote',
+  'feedback.voting.upvote': '賛成票',
+  'feedback.voting.downvote': '反対票',
   'feedback.voting.score': 'Total score',
   // Added 2020-07-04
   'feedback.report.title': 'Report content',
-  'feedback.report.typeSelect': 'What is the issue here?',
-  'feedback.reportType.law': 'Law violation',
+  'feedback.report.typeSelect': 'ここの問題は何ですか？',
+  'feedback.reportType.law': '法律違反',
   'feedback.reportType.vulgar': 'Vulgar/obscene',
-  'feedback.reportType.copyright': 'Copyright violation',
+  'feedback.reportType.copyright': '著作権違反',
   'feedback.reportType.storyRating': 'Incorrect age rating',
   'feedback.report.submit': 'Report',
   'feedback.report.submitting': 'Reporting...',
