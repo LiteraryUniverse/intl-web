@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-11-14
+  * Add `workshop.translation.premium` key
+
 ## 2020-09-06
   * Add `genre.fiction` key to account for newly added genre
   * Additional Japanese translations

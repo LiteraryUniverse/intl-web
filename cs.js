@@ -1267,6 +1267,8 @@ export default {
   'feedback.report.violationDesc': 'Popis',
   'feedback.report.reportSaved': 'Děkujeme! Brzy se na to podíváme.',
   'feedback.report.copyrightReportSaved': 'Děkujeme za nahlášení! Budeme v kontaktu.',
+  // Added 2020-11-14
+  'workshop.translation.premium': 'Pro přídání překladu potřebujete mít alespoň Zasvědcený plán.'
 }
 
 /* eslint-enable max-len */

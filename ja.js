@@ -1262,6 +1262,8 @@ export default {
   'feedback.report.violationDesc': 'Details',
   'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
   'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
+  // Added 2020-11-14
+  'workshop.translation.premium': 'In order to add translations, you need to have at least Initiate subscription.'
 }
 
 /* eslint-enable max-len */
