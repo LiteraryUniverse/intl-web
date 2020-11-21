@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-11-21
+  * Removed `editor.saving.error.content` key as the related functionality has been fix so that this no longer happens.
+
 ## 2020-11-14
   * Add `workshop.translation.premium` key
 

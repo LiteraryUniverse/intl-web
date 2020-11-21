@@ -1038,7 +1038,6 @@ export default {
   // Added 2019-10-20
   'editor.saved.beta': 'New revision for Beta readers created!',
   'editor.saved.public': 'New version published!',
-  'editor.saving.error.content': "Couldn't get the story content",
   // Added 2019-10-21
   goodbyeForever:
     "We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we'll meet again! Live long and prosper!",
