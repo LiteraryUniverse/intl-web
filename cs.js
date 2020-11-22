@@ -1267,7 +1267,20 @@ export default {
   'feedback.report.reportSaved': 'Děkujeme! Brzy se na to podíváme.',
   'feedback.report.copyrightReportSaved': 'Děkujeme za nahlášení! Budeme v kontaktu.',
   // Added 2020-11-14
-  'workshop.translation.premium': 'Pro přídání překladu potřebujete mít alespoň Zasvědcený plán.'
+  'workshop.translation.premium': 'Pro přídání překladu potřebujete mít alespoň Zasvědcený plán.',
+  // Added 2020-11-22
+  'workshop.story.finished': 'Příběh je dokončen',
+  'workshop.story.publishing.externalSellingNotice': 'Vzhledem k tomu že prodáváte mimo Literary Universe tak můžete příběh zveřejnit už nyní. Odkazy do Vašich obchodů budou zobrazeny místo příběhu nebo na konci té části příběhu co sem přidáte.',
+  'reader.storyEnd.heading': 'KONEC',
+  'reader.storyEnd.description': 'Dorazili jste na konec příběhu.',
+  'reader.externalSale.heading': 'Bohužel zde není',
+  'reader.externalSale.description': 'Tenhle příběh není dostupný na Literary Universe, ale můžete si jej pořídit jinde.',
+  'reader.storyTBC.heading': 'To be continued...',
+  'reader.storyTBC.description': 'Tohle je co zatím máme od tohodle příběhu, ale ještě neskončil! Brzo to tady zkontrolujte, možná tu bude něco nového!',
+  'chapter.translation.notYetDescription': 'Brzo to tady zkontrolujte, možná tu bude něco nového!',
+  'reader.externalShopping.heading': 'Kupte {storyName} v obchodech:',
+  'externalShopping.buyLink.amazon': 'Kupte na Amazonu',
+  'externalShopping.buyLink.other': 'Kupte v {storyName}'
 }
 
 /* eslint-enable max-len */

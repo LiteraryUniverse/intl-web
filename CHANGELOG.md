@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-11-22
+  * Added keys for external sales point related functionality
+
 ## 2020-11-21
   * Removed `editor.saving.error.content` key as the related functionality has been fix so that this no longer happens.
 

@@ -1270,7 +1270,20 @@ export default {
   'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
   'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
   // Added 2020-11-14
-  'workshop.translation.premium': 'In order to add translations, you need to have at least Initiate subscription.'
+  'workshop.translation.premium': 'In order to add translations, you need to have at least Initiate subscription.',
+  // Added 2020-11-22
+  'workshop.story.finished': 'Story is complete',
+  'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
+  'reader.storyEnd.heading': 'The END',
+  'reader.storyEnd.description': 'You have reached the end of the story.',
+  'reader.externalSale.heading': 'Not here yet',
+  'reader.externalSale.description': 'This story is not available on Literary Universe, but you can get it in other places.',
+  'reader.storyTBC.heading': 'To be continued...',
+  'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
+  'chapter.translation.notYetDescription': 'Check back again soon!',
+  'reader.externalShopping.heading': 'Buy {storyName} in stores:',
+  'externalShopping.buyLink.amazon': 'Buy on Amazon',
+  'externalShopping.buyLink.other': 'Buy on {storyName}'
 }
 
 /* eslint-enable max-len */
