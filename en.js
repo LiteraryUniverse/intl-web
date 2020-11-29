@@ -2,7 +2,6 @@
  * @authors Jan Dvorak
  */
 import form from './en_form'
-import React from 'react'
 /* eslint-disable max-len */
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -1283,7 +1282,12 @@ export default {
   'chapter.translation.notYetDescription': 'Check back again soon!',
   'reader.externalShopping.heading': 'Buy {storyName} in stores:',
   'externalShopping.buyLink.amazon': 'Buy on Amazon',
-  'externalShopping.buyLink.other': 'Buy on {storyName}'
+  'externalShopping.buyLink.other': 'Buy on {storyName}',
+  // Added 2020-11-29
+  'enrollment.title': 'Claim your account!',
+  'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
+  'enrollment.submitting': 'Claiming your account...',
+  'enrollment.submit': 'Claim your account!'
 }
 
 /* eslint-enable max-len */

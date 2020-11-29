@@ -1280,7 +1280,12 @@ export default {
   'chapter.translation.notYetDescription': 'Brzo to tady zkontrolujte, možná tu bude něco nového!',
   'reader.externalShopping.heading': 'Kupte {storyName} v obchodech:',
   'externalShopping.buyLink.amazon': 'Kupte na Amazonu',
-  'externalShopping.buyLink.other': 'Kupte v {storyName}'
+  'externalShopping.buyLink.other': 'Kupte v {storyName}',
+  // Added 2020-11-29
+  'enrollment.title': 'Získejte svůj účet!',
+  'enrollment.description': 'Vítej {username}! Pro získání přístupu k Vašemu speciálnímu účtu potřebujete jenom vytvořit heslo.',
+  'enrollment.submitting': 'Připravujeme Váš účet...',
+  'enrollment.submit': 'Získat účet!'
 }
 
 /* eslint-enable max-len */

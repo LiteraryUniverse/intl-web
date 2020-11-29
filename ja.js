@@ -1275,7 +1275,12 @@ export default {
   'chapter.translation.notYetDescription': 'Check back again soon!',
   'reader.externalShopping.heading': 'Buy {storyName} in stores:',
   'externalShopping.buyLink.amazon': 'Buy on Amazon',
-  'externalShopping.buyLink.other': 'Buy on {storyName}'
+  'externalShopping.buyLink.other': 'Buy on {storyName}',
+  // Added 2020-11-29
+  'enrollment.title': 'アカウントを申請してください。',
+  'enrollment.description': 'ようこそ{username}！ 特別なアカウントにアクセスするには、パスワードを作成するだけです。',
+  'enrollment.submitting': 'アカウントを申請しています...',
+  'enrollment.submit': 'アカウントを申請してください。'
 }
 
 /* eslint-enable max-len */

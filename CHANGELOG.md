@@ -1,4 +1,9 @@
 # Changelog for languages
+## 2020-11-29 - v0.3
+  * Added keys for enrollment page
+  * Added emails templates for future implementation
+  * Bumped version to `0.3`
+
 ## 2020-11-22
   * Added keys for external sales point related functionality
 
