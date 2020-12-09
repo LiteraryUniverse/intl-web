@@ -2,6 +2,7 @@
  * @authors Jan Dvorak
  */
 import form from './ja_form'
+import emails from './ja_emails'
 /* eslint-disable max-len */
 export default {
   locales: ['jp', 'jp-JP'],
@@ -11,6 +12,7 @@ export default {
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'site.logoAlt': 'Literary Universe logo',
   ...form,
+  ...emails,
   mobileMenu: 'Mobile menu',
   'common.signin': 'ログイン',
   'common.signup': '会員登録',

@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-12-09 - v0.4
+  * Make email keys part of the main message
+
 ## 2020-11-29 - v0.3
   * Added keys for enrollment page
   * Added emails templates for future implementation

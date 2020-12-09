@@ -2,6 +2,7 @@
  * @authors Jan Dvorak
  */
 import form from './cs_form'
+import emails from './cs_emails'
 /* eslint-disable max-len */
 export default {
   locales: ['cs', 'cs-CZ'],
@@ -11,6 +12,7 @@ export default {
     'kreativní psaní, scifi, sci-fi, fantasy, psaní, vydávání, překlady, překlad, příběh, příběhy stories, vesmíry, vesmír, publikování',
   'site.logoAlt': 'Literary Universe logo',
   ...form,
+  ...emails,
   mobileMenu: 'Mobilní menu',
   'common.signin': 'Přihlásit se',
   'common.signup': 'Registrace',
