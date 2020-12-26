@@ -1282,7 +1282,21 @@ export default {
   'enrollment.title': 'アカウントを申請してください。',
   'enrollment.description': 'ようこそ{username}！ 特別なアカウントにアクセスするには、パスワードを作成するだけです。',
   'enrollment.submitting': 'アカウントを申請しています...',
-  'enrollment.submit': 'アカウントを申請してください。'
+  'enrollment.submit': 'アカウントを申請してください。',
+  // Added 2020-12-26
+  'common.sharing': 'Sharing',
+  'workshop.sharing.publicURL': 'Public version',
+  'sharing.title': '共有する',
+  'sharing.copy': 'コピーする',
+  'sharing.email': 'E-mail',
+  'sharing.sms': '連絡先を選択してください',
+  'sharing.messenger': 'Facebook Messenger',
+  'sharing.whatsapp': 'WhatsApp',
+  'sharing.twitter': 'Twitter',
+  'sharing.linkedin': 'LinkedIn',
+  'sharing.telegram': 'Telegram',
+  'sharing.facebook': 'Facebook',
+  'sharing.line': 'LINE'
 }
 
 /* eslint-enable max-len */

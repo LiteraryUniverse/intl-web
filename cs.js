@@ -1287,7 +1287,21 @@ export default {
   'enrollment.title': 'Získejte svůj účet!',
   'enrollment.description': 'Vítej {username}! Pro získání přístupu k Vašemu speciálnímu účtu potřebujete jenom vytvořit heslo.',
   'enrollment.submitting': 'Připravujeme Váš účet...',
-  'enrollment.submit': 'Získat účet!'
+  'enrollment.submit': 'Získat účet!',
+  // Added 2020-12-26
+  'common.sharing': 'Sdílení',
+  'workshop.sharing.publicURL': 'Veřejná verze',
+  'sharing.title': 'Sdílet',
+  'sharing.copy': 'Kopírovat',
+  'sharing.email': 'E-mail',
+  'sharing.sms': 'SMS',
+  'sharing.messenger': 'Facebook Messenger',
+  'sharing.whatsapp': 'WhatsApp',
+  'sharing.twitter': 'Twitter',
+  'sharing.linkedin': 'LinkedIn',
+  'sharing.telegram': 'Telegram',
+  'sharing.facebook': 'Facebook',
+  'sharing.line': 'LINE'
 }
 
 /* eslint-enable max-len */

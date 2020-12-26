@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2020-12-26
+  * Add keys for sharing
+
 ## 2020-12-09 - v0.4
   * Make email keys part of the main message
 

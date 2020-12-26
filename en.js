@@ -1289,7 +1289,21 @@ export default {
   'enrollment.title': 'Claim your account!',
   'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
   'enrollment.submitting': 'Claiming your account...',
-  'enrollment.submit': 'Claim your account!'
+  'enrollment.submit': 'Claim your account!',
+  // Added 2020-12-26
+  'common.sharing': 'Sharing',
+  'workshop.sharing.publicURL': 'Public version',
+  'sharing.title': 'Share',
+  'sharing.copy': 'Copy',
+  'sharing.email': 'E-mail',
+  'sharing.sms': 'SMS',
+  'sharing.messenger': 'Facebook Messenger',
+  'sharing.whatsapp': 'WhatsApp',
+  'sharing.twitter': 'Twitter',
+  'sharing.linkedin': 'LinkedIn',
+  'sharing.telegram': 'Telegram',
+  'sharing.facebook': 'Facebook',
+  'sharing.line': 'LINE'
 }
 
 /* eslint-enable max-len */
