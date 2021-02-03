@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-01-28
+  * Added new keys for 3 sharing platforms
+
 ## 2020-12-26
   * Add keys for sharing
 

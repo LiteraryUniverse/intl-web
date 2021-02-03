@@ -1303,7 +1303,11 @@ export default {
   'sharing.linkedin': 'LinkedIn',
   'sharing.telegram': 'Telegram',
   'sharing.facebook': 'Facebook',
-  'sharing.line': 'LINE'
+  'sharing.line': 'LINE',
+  // Added 2021-01-28
+  'sharing.mastodonSocial': 'mastodon.social',
+  'sharing.mastodonJapan': 'mstdn.jp',
+  'sharing.gab': 'Gab'
 }
 
 /* eslint-enable max-len */
