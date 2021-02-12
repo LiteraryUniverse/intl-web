@@ -1305,7 +1305,11 @@ export default {
   // Added 2021-01-28
   'sharing.mastodonSocial': 'mastodon.social',
   'sharing.mastodonJapan': 'mstdn.jp',
-  'sharing.gab': 'Gab'
+  'sharing.gab': 'Gab',
+  // Added 2021-02-12
+  'encyclopedia.menuOpen': 'Otevřít menu Encyklopedie',
+  'encyclopedia.menuClose': 'Zavřít menu Encyklopedie',
+  'encyclopedia.menuAria': 'Menu Encyklopedie'
 }
 
 /* eslint-enable max-len */

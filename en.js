@@ -302,8 +302,8 @@ export default {
   'workshop.story.genre.pick': 'Select genres for the story',
   'workshop.cover': 'Cover',
   'workshop.nothingtosee': 'Nothing to see here...',
-  'workshop.story.cannon': 'Cannon story',
-  'workshop.story.cannon.desc': 'This story is cannonical in {universe} universe.',
+  'workshop.story.cannon': 'Canon story',
+  'workshop.story.cannon.desc': 'This story is canonical in {universe} universe.',
   'workshop.story.cannon.desc.create': 'This story will be created as a cannonical story in {universe} universe.',
   'workshop.story.fanfiction.search':
     'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
@@ -1307,7 +1307,11 @@ export default {
   // Added 2021-01-28
   'sharing.mastodonSocial': 'mastodon.social',
   'sharing.mastodonJapan': 'mstdn.jp',
-  'sharing.gab': 'Gab'
+  'sharing.gab': 'Gab',
+  // Added 2021-02-12
+  'encyclopedia.menuOpen': 'Open Encyclopedia menu',
+  'encyclopedia.menuClose': 'Close Encyclopedia menu',
+  'encyclopedia.menuAria': 'Encyclopedia menu'
 }
 
 /* eslint-enable max-len */

@@ -9,8 +9,8 @@ export default {
   sitename: '文学の宇宙',
   'site.description': '文学の宇宙は、壮大な物語の宇宙のための創造的で出版のプラットフォームです。',
   'site.keywords':
-    'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
-  'site.logoAlt': 'Literary Universe logo',
+    '文芸, SF, ファンタジー, 書き込み, 出版, 翻訳, 物語, 宇宙, ストーリー',
+  'site.logoAlt': '文学の宇宙のロゴ',
   ...form,
   ...emails,
   mobileMenu: 'Mobile menu',
@@ -35,7 +35,7 @@ export default {
   'common.loading': 'Loading...',
   'common.add': 'Add',
   'common.save': 'Save',
-  'common.email': 'E-mail',
+  'common.email': 'Eメール',
   'common.soon': '近日公開',
   'common.search': '探索',
   'common.search.do': '見附る',
@@ -52,12 +52,12 @@ export default {
   'common.by': 'by ', // keep the space at the end as username follows
   'common.scratchpad': 'Scratchpad',
   'common.scratchpad.own': 'Your scratchpad',
-  'common.news': 'News',
+  'common.news': 'ニュース',
   'common.encyclopedia': 'Encyclopedia',
   'common.story': '物語',
   'common.stories': '物語',
-  'common.universe': 'Universe',
-  'common.universes': 'Universes',
+  'common.universe': '宇宙',
+  'common.universes': '宇宙',
   'common.collaborator': 'Collaborator',
   'common.collaborators': 'Collaborators',
   'common.translator': '翻訳者',
@@ -108,7 +108,7 @@ export default {
   'signup.username': '別名',
   'signup.email': 'あなたのEメール',
   'signup.password.label': 'あなたのパスワード',
-  'signup.password.repeat': 'Repeat your password',
+  'signup.password.repeat': 'パスワードを繰り返します',
   'common.password': 'パスワード',
   'signin.password.forgot': 'パスワードをお忘れですか？',
 
@@ -130,11 +130,11 @@ export default {
 
   'pm.conversation': '会話',
   'pm.showolder': '古いメッセージを表示',
-  'pm.errors.saysomething': 'You should really say something...',
-  'pm.errors.addrecipient': 'You need to add at least one other user.',
+  'pm.errors.saysomething': 'あなたは本当に何かを言うべきです...',
+  'pm.errors.addrecipient': '少なくとも1人の他のユーザーを追加する必要があります。',
   'pm.message': 'メッセージ',
-  'pm.send.message': 'Send message',
-  'pm.messages.own': 'Your messages',
+  'pm.send.message': 'メッセージを送る',
+  'pm.messages.own': 'あなたのメッセージ',
   'pm.conversations.none': 'You are currently not conversing with anyone.',
   'pm.to': '受取人:',
   'pm.with': 'Conversation with:',
@@ -241,15 +241,15 @@ export default {
   }.`,
   'comments.show.older': 'Show older comments',
   'reader.language': 'Language:',
-  'reader.fullscreen.enter': 'Enter fullscreen',
-  'reader.fullscreen.exit': 'Exit fullscreen',
+  'reader.fullscreen.enter': 'フルスクリーンに入る',
+  'reader.fullscreen.exit': 'フルスクリーンで終了',
   'story.note.fanfiction': 'NOTE: This story is a fan fiction on {universe} universe.',
   'chapter.next': '次の章',
   'chapter.previous': '前章',
   'reader.details.universe': 'Universe details',
   'reader.details.story': '物語の説明',
-  'reader.darkmode': 'Toggle dark mode',
-  'reader.flowtext': 'Toggle text size',
+  'reader.darkmode': 'ダークモードを切り替えます',
+  'reader.flowtext': 'テキストサイズを切り替える',
   'writer.bold': 'Bold the selection',
   'writer.underline': 'Underline the selection',
   'writer.italic': 'Emphasize the selection',
@@ -301,9 +301,9 @@ export default {
   'workshop.universe.genre.pick': 'Select genre for the universe',
   'workshop.story.genre.pick': 'Select genres for the story',
   'workshop.cover': 'カバーアート',
-  'workshop.nothingtosee': 'Nothing to see here...',
-  'workshop.story.cannon': 'Cannon story',
-  'workshop.story.cannon.desc': 'This story is cannonical in {universe} universe.',
+  'workshop.nothingtosee': '申し訳ありませんが、現在ここに表示されるものはありません。',
+  'workshop.story.cannon': 'カノン物語',
+  'workshop.story.cannon.desc': 'この物語は{universe}宇宙では標準的です。',
   'workshop.story.cannon.desc.create': 'This story will be created as a cannonical story in {universe} universe.',
   'workshop.story.fanfiction.search':
     'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
@@ -377,7 +377,7 @@ export default {
   }つのエントリがあります。`,
   'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
   'encyclopedia.add.heading': '何を追加しますか？',
-  'encyclopedia.add.moresoon': 'More categories coming soon!',
+  'encyclopedia.add.moresoon': 'より多くのカテゴリがまもなく登場します！',
   'encyclopedia.create': `新しい{category, select,
     character {キャラクター}
     event {イベント}
@@ -460,7 +460,7 @@ export default {
   'encyclopedia.connections.extra': 'Extra information',
   'encyclopedia.connections.existing': '既存の記事',
   'encyclopedia.connections.existing.abbr': 'EE', // abbreviation for Existing Entry
-  'encyclopedia.cover': 'Cover image',
+  'encyclopedia.cover': '表紙画像',
 
   // List of all genres
   'genre.scifi': 'SF',
@@ -533,8 +533,8 @@ export default {
     'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
   'homepage.create.desc':
     'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
-  'homepage.begin': 'Begin your journey!',
-  'homepage.itisfree': 'It is free!',
+  'homepage.begin': 'あなたの旅を始めましょう！',
+  'homepage.itisfree': '無料です！',
 
   'about.title': '文学の宇宙について',
   'about.desc': 'History, secrets and humans behind Literary Universe.',
@@ -617,7 +617,7 @@ export default {
       one {1 day}
       other {# days}
     }! Get ready!`,
-  'nanowrimo.isover': 'NaNoWriMo is over. See you next year!',
+  'nanowrimo.isover': 'NaNoWriMoは終わりました。また来年お会いしましょう！',
   'nanowrimo.select': 'Designate this story for NaNoWriMo.',
   'nanowrimo.baseline':
     'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
@@ -628,16 +628,16 @@ export default {
   'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
   'nanowrimo.error.wordcount':
     'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
-  'nanowrimo.connected': 'You have designated this story for NaNoWriMo.',
+  'nanowrimo.connected': 'あなたはこの物語をNaNoWriMoに指定しました。',
   'nanowrimo.connected.other': 'You have already connected another story.',
 
   'common.challenges': 'Challenges',
   'challenges.wordcount': 'Word count',
   'challenges.wordcount.desc': 'Set yourself a goal of how many words you want to write this month for his story.',
   'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
-  'challenges.start': 'Start challenge',
+  'challenges.start': 'チャレンジを開始',
   'challenges.report': 'Report',
-  'challenges.victory': 'Congratulations! You have completed this challenge.',
+  'challenges.victory': 'おめでとう！ このチャレンジを完了しました。',
   'challenges.defeat': "Sadly you didn't complete this challenge.",
   'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
 
@@ -663,14 +663,14 @@ export default {
 
   // added 2016-11-06
   'common.feedback': 'Feedback',
-  'feedback.home': 'Help center',
-  'feedback.bugs': 'Issues',
-  'feedback.bugs.desc': 'Did you encounter an error or something else that is wrong or out of place. Let us know here!',
-  'feedback.features': 'Ideas & Proposals',
-  'feedback.features.desc': 'Have ideas for new features or how to make the site better? Let us know!',
-  'feedback.help': 'Help & Tutorials',
-  'feedback.help.desc': 'How do you _____? Go here to find the answers.',
-  'feedback.desc': 'Welcome to our help & resolution center!',
+  'feedback.home': 'ヘルプセンター',
+  'feedback.bugs': '問題点',
+  'feedback.bugs.desc': 'エラーや、間違っているか、場違いな何かに遭遇しましたか。 ここで教えてください！',
+  'feedback.features': 'アイデアと提案',
+  'feedback.features.desc': '新機能やサイトを改善する方法についてのアイデアはありますか？ 知らせて下さい！',
+  'feedback.help': 'ヘルプとチュートリアル',
+  'feedback.help.desc': 'ごきげんよう_____？ 答えを見つけるためにここに行きなさい。',
+  'feedback.desc': 'ヘルプ＆解決センターへようこそ！',
 
   // added 2016-11-11
   'feedback.open': 'Open',
@@ -765,7 +765,7 @@ export default {
   cancel: 'キャンセル',
 
   // added 2017-04-14
-  processing: 'Processing...',
+  processing: '今処理中',
 
   // added 2017-04-26
   'workshop.collaborators.premium': `To add more {type, select,
@@ -792,13 +792,13 @@ export default {
     universe {a blog for your universe}
     user {a blog}
   }.`,
-  'blog.create': 'Create a new blog',
+  'blog.create': '新しいブログを作成する',
   'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
   } settings`,
-  'blog.description': 'Blog introduction',
+  'blog.description': 'ブログ紹介',
   'blog.theme': 'Theme',
   'blog.theme.info':
     'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
@@ -853,10 +853,10 @@ export default {
 
   // added 2018-02-26, updated 2018-11-29
   'settings.socialConnectTitle': 'Connect with your accounts from other services',
-  'settings.socialDisconnect': 'Disconnect',
-  'settings.socialConnect': 'Connect',
-  'settings.loginWith': 'Login with {service}',
-  'settings.connectTo': 'Connect to {service}',
+  'settings.socialDisconnect': '切断する',
+  'settings.socialConnect': '接続する',
+  'settings.loginWith': '{service}でログイン ',
+  'settings.connectTo': '{service}に接続する ',
 
   // added 2018-02-28
   'settings.export.title': 'データのエクスポート',
@@ -929,8 +929,8 @@ export default {
   'slug.failed': 'This address already exists.',
   'slug.success': 'This address is available!',
   // added 2018-07-08
-  'notVerified.msg': 'Your account e-mail is not verified.',
-  'notVerified.verify': 'Please verify your e-mail.',
+  'notVerified.msg': 'アカウントのメールアドレスは確認されていません。',
+  'notVerified.verify': 'メールアドレスを確認してください。',
   // added 2018-07-11
   'workshop.story.noChaptersFound': '章は見つかりませんでした。',
   // added 2018-07-12
@@ -973,8 +973,8 @@ export default {
   'settings.emailSubscriptions.newsletterTech': 'Occasional newsletter from our developers',
   'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
   'settings.emailNotifications.title': '通知',
-  'settings.emailNotifications.pm': 'New messages',
-  'settings.emailNotifications.newChapters': 'New chapters',
+  'settings.emailNotifications.pm': '新しいメッセージ',
+  'settings.emailNotifications.newChapters': '新しい物語の章',
 
   // added 2019-01-12
   'errorLoading.title': 'ページ読み込み中のエラー',
@@ -1043,7 +1043,7 @@ export default {
     "We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we'll meet again! Live long and prosper!",
   'goodbyeForever.feedback': 'Let us know what we can do better',
   // Added 2019-10-23
-  'encyclopedia.settings.title': 'Encyclopedia settings',
+  'encyclopedia.settings.title': '百科事典の設定',
   'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
   'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
   // Added 2019-10-27
@@ -1065,7 +1065,7 @@ export default {
   'blogs.description': 'Listing of blogs on the Literary Universe platform.',
   'blogs.visit': 'ブログを見る',
   'common.publish': 'Publish',
-  'common.publishAt': 'Publication date and time',
+  'common.publishAt': '発行日時',
   'stats.likeCount': '# of likes',
   'stats.language.title': 'Language spoken',
   'challenges.future': 'Upcoming challenges',
@@ -1074,7 +1074,7 @@ export default {
   // Added 2019-11-04
   'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
   // Added 2019-11-06
-  'a11y.user.menu': 'User menu',
+  'a11y.user.menu': 'ユーザーメニュー',
   'dashboard.profile': 'あなたのプロフィール',
   'settings.links.title': 'Link to your other websites',
   'settings.links.description': 'These links will be displayed on your profile page.',
@@ -1115,7 +1115,7 @@ export default {
   'org.storiesTitle': '{orgName}の物語',
   'org.universesTitle': '{orgName}の世界',
   // Added 2020-02-03
-  'org.userDashboardTitle': 'Your organizations',
+  'org.userDashboardTitle': 'あなたの組織',
   'org.settings.hideMembers.label': 'Hide members from the public',
   'auditLog.header.date': '日付',
   'auditLog.header.action': 'What',
@@ -1140,7 +1140,7 @@ export default {
   'payment.option.notFount': 'You don\'t have any payment option saved.',
   'payment.option.create': 'Add a new payment option',
   'payment.option.description': 'Here is a list of your saved payment methods. You can save new payment methods here for faster checkout. Literary Universe does not store nor process your payment credentials.',
-  'payment.history.title': 'Payment history',
+  'payment.history.title': '支払歴',
   'payment.history.tab': 'History',
   'payment.history.none': 'We don\'t have any records of past payments.',
   // Added 2020-04-30
@@ -1226,12 +1226,12 @@ export default {
   } entries.`,
   'payment.upgradePlan.option': `{plan} - {price}`,
   // Added 2020-06-13
-  'feedback.comment.title': 'Comment',
-  'feedback.comment.desc': 'Send us your feedback',
-  'feedback.comment.legend': 'Your feedback - let us know about anything',
-  'feedback.comment.success': 'Thank you for your feedback!',
-  'feedback.comment.label': 'Your comment',
-  'workshop.hideOrgs': 'Hide content from organizations',
+  'feedback.comment.title': 'コメント',
+  'feedback.comment.desc': 'フィードバックをお送りください',
+  'feedback.comment.legend': 'あなたのフィードバック-何かについて教えてください',
+  'feedback.comment.success': 'ご意見ありがとうございます！',
+  'feedback.comment.label': 'あなたのコメント',
+  'workshop.hideOrgs': '組織からコンテンツを非表示にする',
   // Added 2020-06-21
   'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
   // Added 2020-06-23
@@ -1250,7 +1250,7 @@ export default {
   'feedback.voting.totalVoters': 'Users voted: {voted, number}',
   'feedback.voting.upvote': '賛成票',
   'feedback.voting.downvote': '反対票',
-  'feedback.voting.score': 'Total score',
+  'feedback.voting.score': '合計点',
   // Added 2020-07-04
   'feedback.report.title': 'Report content',
   'feedback.report.typeSelect': 'ここの問題は何ですか？',
@@ -1260,16 +1260,16 @@ export default {
   'feedback.reportType.storyRating': 'Incorrect age rating',
   'feedback.report.submit': 'Report',
   'feedback.report.submitting': 'Reporting...',
-  'feedback.report.violationDesc': 'Details',
+  'feedback.report.violationDesc': '詳細',
   'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
   'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
   // Added 2020-11-14
   'workshop.translation.premium': 'In order to add translations, you need to have at least Initiate subscription.',
   // Added 2020-11-22
-  'workshop.story.finished': 'Story is complete',
+  'workshop.story.finished': '物語が完成しました ',
   'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
-  'reader.storyEnd.heading': 'The END',
-  'reader.storyEnd.description': 'You have reached the end of the story.',
+  'reader.storyEnd.heading': '終わり',
+  'reader.storyEnd.description': '物語の終わりに達しました。',
   'reader.externalSale.heading': 'Not here yet',
   'reader.externalSale.description': 'This story is not available on Literary Universe, but you can get it in other places.',
   'reader.storyTBC.heading': 'To be continued...',
@@ -1284,8 +1284,8 @@ export default {
   'enrollment.submitting': 'アカウントを申請しています...',
   'enrollment.submit': 'アカウントを申請してください。',
   // Added 2020-12-26
-  'common.sharing': 'Sharing',
-  'workshop.sharing.publicURL': 'Public version',
+  'common.sharing': 'シェア',
+  'workshop.sharing.publicURL': '公開版',
   'sharing.title': '共有する',
   'sharing.copy': 'コピーする',
   'sharing.email': 'E-mail',
@@ -1300,7 +1300,11 @@ export default {
   // Added 2021-01-28
   'sharing.mastodonSocial': 'mastodon.social',
   'sharing.mastodonJapan': 'mstdn.jp',
-  'sharing.gab': 'Gab'
+  'sharing.gab': 'Gab',
+  // Added 2021-02-12
+  'encyclopedia.menuOpen': '百科事典メニューを開く',
+  'encyclopedia.menuClose': '百科事典メニューを閉じる',
+  'encyclopedia.menuAria': '百科事典メニュー'
 }
 
 /* eslint-enable max-len */
