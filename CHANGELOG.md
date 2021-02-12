@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-02-13 - v0.4.3
+  * Added new keys for extended statistics
+
 ## 2021-02-12 - v0.4.2
   * New keys for mobile menu in encyclopedia
   * More Japanese translations

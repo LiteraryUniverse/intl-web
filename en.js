@@ -1311,7 +1311,10 @@ export default {
   // Added 2021-02-12
   'encyclopedia.menuOpen': 'Open Encyclopedia menu',
   'encyclopedia.menuClose': 'Close Encyclopedia menu',
-  'encyclopedia.menuAria': 'Encyclopedia menu'
+  'encyclopedia.menuAria': 'Encyclopedia menu',
+  // Added 2021-02-13
+  'stats.chapter.visitorsAndHits': 'Total visitors and hits per chapter',
+  'stats.chapter.wordCount': 'Word count per chapter'
 }
 
 /* eslint-enable max-len */

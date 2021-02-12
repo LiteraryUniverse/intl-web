@@ -1304,7 +1304,10 @@ export default {
   // Added 2021-02-12
   'encyclopedia.menuOpen': '百科事典メニューを開く',
   'encyclopedia.menuClose': '百科事典メニューを閉じる',
-  'encyclopedia.menuAria': '百科事典メニュー'
+  'encyclopedia.menuAria': '百科事典メニュー',
+  // Added 2021-02-13
+  'stats.chapter.visitorsAndHits': 'Total visitors and hits per chapter',
+  'stats.chapter.wordCount': 'Word count per chapter'
 }
 
 /* eslint-enable max-len */

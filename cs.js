@@ -1309,7 +1309,10 @@ export default {
   // Added 2021-02-12
   'encyclopedia.menuOpen': 'Otevřít menu Encyklopedie',
   'encyclopedia.menuClose': 'Zavřít menu Encyklopedie',
-  'encyclopedia.menuAria': 'Menu Encyklopedie'
+  'encyclopedia.menuAria': 'Menu Encyklopedie',
+  // Added 2021-02-13
+  'stats.chapter.visitorsAndHits': 'Celkový počet návštěv a unikátních návštěvníku dle kapitol',
+  'stats.chapter.wordCount': 'Počet slov dle kapitol'
 }
 
 /* eslint-enable max-len */
