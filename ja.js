@@ -1121,7 +1121,7 @@ export default {
   'auditLog.header.action': 'What',
   'auditLog.header.group': 'グルプ',
   'auditLog.header.user': 'Who',
-  'auditLog.header.language': '語',
+  'common.language': '語',
   // Added 2020-02-17
   'org.visit': 'Go to {organization} page',
   // Added 2020-02-18
@@ -1306,8 +1306,16 @@ export default {
   'encyclopedia.menuClose': '百科事典メニューを閉じる',
   'encyclopedia.menuAria': '百科事典メニュー',
   // Added 2021-02-13
-  'stats.chapter.visitorsAndHits': 'Total visitors and hits per chapter',
-  'stats.chapter.wordCount': 'Word count per chapter'
+  'stats.chapter.visitorsAndViews': '章ごとの総訪問者数と視聴回数',
+  'stats.chapter.wordCount': '章ごとの単語数',
+  'stats.chapter.chartTooltipViews': `第{chapter}章: {views}ビュー`,
+  'stats.chapter.chartTooltipVisitors': `第{chapter}章: {visitors}ユニークビジター`,
+  'stats.chapter.chartTooltipWordCount': `第{chapter}章: {wordCount}言葉`,
+  'stats.totalHits': '総視聴回数',
+  'stats.totalVisitors': 'ユニークビジター総数',
+  'stats.totalWords': '総単語数',
+  'stats.totalEntries': '百科事典のエントリ',
+  'stats.blogPage': 'ページ'
 }
 
 /* eslint-enable max-len */

@@ -1126,7 +1126,7 @@ export default {
   'auditLog.header.action': 'Co',
   'auditLog.header.group': 'Skupina',
   'auditLog.header.user': 'Kdo',
-  'auditLog.header.language': 'Jazyk',
+  'common.language': 'Jazyk',
   // Added 2020-02-17
   'org.visit': 'Jít na stránky {organization}',
   // Added 2020-02-18
@@ -1311,8 +1311,16 @@ export default {
   'encyclopedia.menuClose': 'Zavřít menu Encyklopedie',
   'encyclopedia.menuAria': 'Menu Encyklopedie',
   // Added 2021-02-13
-  'stats.chapter.visitorsAndHits': 'Celkový počet návštěv a unikátních návštěvníku dle kapitol',
-  'stats.chapter.wordCount': 'Počet slov dle kapitol'
+  'stats.chapter.visitorsAndViews': 'Celkem zobrazení a návštěvníku dle kapitoly',
+  'stats.chapter.wordCount': 'Počet slov dle kapitoly',
+  'stats.chapter.chartTooltipViews': `Kapitola {chapter}: {views} zobrazení`,
+  'stats.chapter.chartTooltipVisitors': `Kapitola {chapter}: {visitors} unikátních návštěvníků`,
+  'stats.chapter.chartTooltipWordCount': `Kapitola {chapter}: {wordCount} slov`,
+  'stats.totalHits': 'Celkem zobrazení',
+  'stats.totalVisitors': 'Celkem unikátních návštěvníků',
+  'stats.totalWords': 'Celkem slov',
+  'stats.totalEntries': 'Článků v encyklopédii',
+  'stats.blogPage': 'Stránka'
 }
 
 /* eslint-enable max-len */

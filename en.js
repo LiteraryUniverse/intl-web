@@ -1128,7 +1128,7 @@ export default {
   'auditLog.header.action': 'What',
   'auditLog.header.group': 'Group',
   'auditLog.header.user': 'Who',
-  'auditLog.header.language': 'Language',
+  'common.language': 'Language',
   // Added 2020-02-17
   'org.visit': 'Go to {organization} page',
   // Added 2020-02-18
@@ -1313,8 +1313,16 @@ export default {
   'encyclopedia.menuClose': 'Close Encyclopedia menu',
   'encyclopedia.menuAria': 'Encyclopedia menu',
   // Added 2021-02-13
-  'stats.chapter.visitorsAndHits': 'Total visitors and hits per chapter',
-  'stats.chapter.wordCount': 'Word count per chapter'
+  'stats.chapter.visitorsAndViews': 'Total visitors and views per chapter',
+  'stats.chapter.wordCount': 'Word count per chapter',
+  'stats.chapter.chartTooltipViews': `Chapter {chapter}: {views} views`,
+  'stats.chapter.chartTooltipVisitors': `Chapter {chapter}: {visitors} unique visitors`,
+  'stats.chapter.chartTooltipWordCount': `Chapter {chapter}: {wordCount} words`,
+  'stats.totalHits': 'Total views',
+  'stats.totalVisitors': 'Total unique visitors',
+  'stats.totalWords': 'Total words',
+  'stats.totalEntries': 'Encyclopedia entries',
+  'stats.blogPage': 'Page'
 }
 
 /* eslint-enable max-len */
