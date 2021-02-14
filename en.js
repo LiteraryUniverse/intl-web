@@ -1322,7 +1322,10 @@ export default {
   'stats.totalVisitors': 'Total unique visitors',
   'stats.totalWords': 'Total words',
   'stats.totalEntries': 'Encyclopedia entries',
-  'stats.blogPage': 'Page'
+  'stats.blogPage': 'Page',
+  // Added 2021-02-14
+  'story.isbn': 'ISBN',
+  'form.validator.isbn': 'We only accept 10 or 13 version of ISBN'
 }
 
 /* eslint-enable max-len */

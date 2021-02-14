@@ -1315,7 +1315,10 @@ export default {
   'stats.totalVisitors': 'ユニークビジター総数',
   'stats.totalWords': '総単語数',
   'stats.totalEntries': '百科事典のエントリ',
-  'stats.blogPage': 'ページ'
+  'stats.blogPage': 'ページ',
+  // Added 2021-02-14
+  'story.isbn': 'ISBN',
+  'form.validator.isbn': 'We only accept 10 or 13 version of ISBN'
 }
 
 /* eslint-enable max-len */

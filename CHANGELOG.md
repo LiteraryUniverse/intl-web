@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-02-14
+  * Added ISBN keys
+
 ## 2021-02-13 - v0.4.3
   * Added new keys for extended statistics
 

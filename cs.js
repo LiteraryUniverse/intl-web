@@ -1320,7 +1320,10 @@ export default {
   'stats.totalVisitors': 'Celkem unikátních návštěvníků',
   'stats.totalWords': 'Celkem slov',
   'stats.totalEntries': 'Článků v encyklopédii',
-  'stats.blogPage': 'Stránka'
+  'stats.blogPage': 'Stránka',
+  // Added 2021-02-14
+  'story.isbn': 'ISBN',
+  'form.validator.isbn': 'Akceptujeme 10 nebo 13 ISBN'
 }
 
 /* eslint-enable max-len */
