@@ -586,7 +586,6 @@ export default {
   'plans.price.perYear': ' / year',
   'plans.development': 'In development',
   'plans.limits.encEntries': 'Encyclopedia entries',
-  'plans.limits.scratchpadPads': 'Scratchpad pads',
   'plans.limits.maxCollaborators': 'Collaborators per project',
   'plans.limits.pmChats': 'Maximum # of recipients for private message',
   'plans.feature.encCustomFields': 'Customizable encyclopedia fields on an entry',
@@ -595,7 +594,7 @@ export default {
   'plans.feature.library': 'Library',
   'plans.feature.blog': 'Personal & universe blogs',
   'plans.feature.customBlogTheme': 'Customizable blog themes',
-  'plans.feature.advanceStats': 'Advance statistics',
+  'plans.feature.advanceStats': 'Advanced statistics',
   'plans.feature.challenges': 'Writing challenges',
   'plans.feature.newFeaturesVote': 'Vote on new features',
   'plans.feature.newFeaturesSuggest': 'Propose new features',
@@ -745,8 +744,6 @@ export default {
 
   // added 2017-03-28
   buy: 'Buy',
-  'payments.add': 'Add payment option',
-  'payments.add.btn': 'Add as a payment option',
   'payments.disclaimer':
     'Payment information and processing is done via Braintree by PayPal. We do not keep any credit card or bank account information on our servers.',
   'buy.payment.optionsSelect': 'Select payment option',
@@ -1325,7 +1322,17 @@ export default {
   'stats.blogPage': 'Page',
   // Added 2021-02-14
   'story.isbn': 'ISBN',
-  'form.validator.isbn': 'We only accept 10 or 13 version of ISBN'
+  'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+  // Added 2021-02-18
+  'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
+  'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
+  'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
+  'feedback.reportType.spam': 'Spam or phishing',
+  'feedback.reportType.other': 'Other',
+  'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
+    universe {universe}
+    story {story}
+  } is being infringed?`,
 }
 
 /* eslint-enable max-len */

@@ -592,7 +592,6 @@ export default {
   'plans.price.perYear': ' / rok',
   'plans.development': 'Ve vývoji',
   'plans.limits.encEntries': 'Vstupů v encyklopedii vesmíru',
-  'plans.limits.scratchpadPads': 'Stránek v poznámkovém bloku',
   'plans.limits.maxCollaborators': 'Spolupracovníků na projekt',
   'plans.limits.pmChats': 'Maximální počet příjemců pro soukromou zprávu',
   'plans.feature.encCustomFields': 'Pokročilá editace encyklopedických vstupů',
@@ -1323,7 +1322,17 @@ export default {
   'stats.blogPage': 'Stránka',
   // Added 2021-02-14
   'story.isbn': 'ISBN',
-  'form.validator.isbn': 'Akceptujeme 10 nebo 13 ISBN'
+  'form.validator.isbn': 'Akceptujeme 10 nebo 13 ISBN',
+  // Added 2021-02-18
+  'feedback.report.copyrightOwnershipDesc': 'Potvrzení vlastnictví',
+  'feedback.report.copyrightNotice': 'K nahlášení porušení vopyrightu musíte být vlastníkem daného materiálu. Pokud nejste vlastníkem prosím oznamte porušení Ccopyrightu vlastníkovi nebo použitjte kategorii "ostatní". Porušení copyrightu bereme velmi vážně a to samé platí pro zneužití toho prostředku.',
+  'feedback.report.copyrightInternalProperty': 'Publikoval jsem toto dílo na Literary Universe',
+  'feedback.reportType.spam': 'Spam nebo phishing',
+  'feedback.reportType.other': 'Ostatní',
+  'feedback.report.copyrightType.propertySelectLabel': `Který {type, select,
+    universe {vesmír}
+    story {příběh}
+  } je zde zneužit?`,
 }
 
 /* eslint-enable max-len */

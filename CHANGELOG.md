@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2021-02-18 - v0.4.4
+  * Added keys for reporting
+  * Removed some unused keys
+
 ## 2021-02-14
   * Added ISBN keys
 
