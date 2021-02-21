@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-02-21 - v0.4.5
+  * New keys for HTML e-mails
+
 ## 2021-02-18 - v0.4.4
   * Added keys for reporting
   * Removed some unused keys

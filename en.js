@@ -304,7 +304,7 @@ export default {
   'workshop.nothingtosee': 'Nothing to see here...',
   'workshop.story.cannon': 'Canon story',
   'workshop.story.cannon.desc': 'This story is canonical in {universe} universe.',
-  'workshop.story.cannon.desc.create': 'This story will be created as a cannonical story in {universe} universe.',
+  'workshop.story.cannon.desc.create': 'This story will be created as a canonical story in {universe} universe.',
   'workshop.story.fanfiction.search':
     'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
   'workshop.story.error.nogenres': 'You need to select at least one genre.',
