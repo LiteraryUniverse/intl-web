@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-02-26
+  * Added two new keys for organizations
+
 ## 2021-02-21 - v0.4.5
   * New keys for HTML e-mails
 

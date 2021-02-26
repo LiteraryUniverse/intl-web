@@ -1333,6 +1333,9 @@ export default {
     universe {universe}
     story {story}
   } is being infringed?`,
+  // Added 2021-02-26
+  'common.name': 'Name',
+  'org.membersAdd.title': 'Invite members to the organization'
 }
 
 /* eslint-enable max-len */

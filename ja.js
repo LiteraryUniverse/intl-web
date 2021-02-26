@@ -1326,6 +1326,9 @@ export default {
     universe {世界}
     story {物語}
   }が侵害されていますか？`,
+  // Added 2021-02-26
+  'common.name': '名前',
+  'org.membersAdd.title': 'メンバーを組織に招待する'
 }
 
 /* eslint-enable max-len */

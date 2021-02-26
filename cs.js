@@ -1333,6 +1333,9 @@ export default {
     universe {vesmír}
     story {příběh}
   } je zde zneužit?`,
+  // Added 2021-02-26
+  'common.name': 'Jméno',
+  'org.membersAdd.title': 'Pozvat členy do organizace'
 }
 
 /* eslint-enable max-len */
