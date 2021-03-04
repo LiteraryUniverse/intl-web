@@ -1328,7 +1328,28 @@ export default {
   }が侵害されていますか？`,
   // Added 2021-02-26
   'common.name': '名前',
-  'org.membersAdd.title': 'メンバーを組織に招待する'
+  'org.membersAdd.title': 'メンバーを組織に招待する',
+  // Added 2021-03-04
+  'workshop.fictionalTime.title': 'Fictional times for {universeName}',
+  'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
+  'workshop.fictionalTime.createNow': 'Create one now!',
+  'workshop.fictionalTime.createTitle': 'Create a new fictional time',
+  'workshop.fictionalTime.editTitle': 'Edit {ftName}',
+  'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
+        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
+        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
+        on. We will address this in later versions, but till then this tool is more suited for creating primarily
+        sci-fi based times.`,
+  'workshop.fictionalTime.timeName': 'Time name',
+  'workshop.fictionalTime.basicInfo': 'Basic information',
+  'workshop.fictionalTime.timeSetup': 'Time setup',
+  'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date?',
+  'workshop.fictionalTime.timeDeclaration': 'Time declaration',
+  'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
+  'workshop.fictionalTime.declarationBefore': 'Before units',
+  'workshop.fictionalTime.declarationAfter': 'After units',
+  'workshop.fictionalTime.declarationNone': 'None',
+  'workshop.fictionalTime.units': 'Units',
 }
 
 /* eslint-enable max-len */

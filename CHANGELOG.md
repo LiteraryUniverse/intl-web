@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-03-04
+  * Added new keys for fictional time
+
 ## 2021-02-26
   * Added two new keys for organizations
 
