@@ -1,6 +1,7 @@
 # Changelog for languages
-## 2021-03-04
+## 2021-03-04 - v0.4.6
   * Added new keys for fictional time
+  * Added keys for external shopping
 
 ## 2021-02-26
   * Added two new keys for organizations
