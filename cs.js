@@ -1373,6 +1373,8 @@ export default {
   'workshop.shoppingExternal.storeName': 'Jméno obchodu',
   'workshop.shoppingExternal.itemUrl': 'URL zboží',
   'workshop.shoppingExternal.storesOther': 'Ostatní obchody',
+  // Added 2021-03-10
+  'fictionalTime.units.milliseconds': '{units} millisekund',
 }
 
 /* eslint-enable max-len */

@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-03-10
+  * Added new key for fictional time unit display
+
 ## 2021-03-04 - v0.4.6
   * Added new keys for fictional time
   * Added keys for external shopping

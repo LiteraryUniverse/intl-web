@@ -1375,6 +1375,8 @@ export default {
   'workshop.shoppingExternal.storeName': 'Store name',
   'workshop.shoppingExternal.itemUrl': 'Item URL',
   'workshop.shoppingExternal.storesOther': 'Other stores',
+  // Added 2021-03-10
+  'fictionalTime.units.milliseconds': '{units} milliseconds',
 }
 
 /* eslint-enable max-len */

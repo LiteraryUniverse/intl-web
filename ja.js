@@ -1366,6 +1366,8 @@ export default {
   'workshop.shoppingExternal.storeName': '店名',
   'workshop.shoppingExternal.itemUrl': 'アイテムのURL',
   'workshop.shoppingExternal.storesOther': '他の店',
+  // Added 2021-03-10
+  'fictionalTime.units.milliseconds': '{units}ミリ秒',
 }
 
 /* eslint-enable max-len */
