@@ -1375,6 +1375,64 @@ export default {
   'workshop.shoppingExternal.storesOther': 'Ostatní obchody',
   // Added 2021-03-10
   'fictionalTime.units.milliseconds': '{units} millisekund',
+  'fictionalTime.countdownToStart': 'Odpočet do začátku času ',
+  // Added 2021-03-12
+  'fictionalTime.unitsToETList': `{units} {unitName} = 
+    {days, plural,
+      =0 {}
+      one {1 den }
+      few {{days} dny}
+      other {{days} dnů }
+    }{hours, plural,
+      =0 {00:}
+      other {{hours}:}
+    }{minutes, plural,
+      =0 {00:}
+      other {{minutes}:}
+    }{seconds, plural,
+      =0 {00}
+      other {{seconds}}
+    }
+  `,
+  'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
+    seconds {{units, plural,
+      one {sekunda}
+      few {sekundy}
+      other {sekund}
+    }}
+    minutes {{units, plural,
+      one {minuta}
+      few {minuty}
+      other {minut}
+    }}
+    hours {{units, plural,
+      one {hodina}
+      few {hodiny}
+      other {hodin}
+    }}
+    days {{units, plural,
+      one {den}
+      one {dny}
+      other {dnů}
+    }}
+    years {{units, plural,
+      one {rok}
+      one {roky}
+      other {let}
+    }}
+  } = {targetResult, number} {targetType}`,
+  'common.time.milliseconds': 'Milisekundy',
+  'common.time.seconds': 'Sekundy',
+  'common.time.minutes': 'Minuty',
+  'common.time.hours': 'Hodiny',
+  'common.time.days': 'Dny',
+  'common.time.weeks': 'Týdny',
+  'common.time.months': 'Měsíce',
+  'common.time.years': 'Roky',
+  'fictionalTime.inputFrom': 'Z',
+  'fictionalTime.inputSelectTimeUnit': 'Vyberte jednotky času',
+  'fictionalTime.inputSelectETUnit': 'Vyberte jednoty pozemského času',
+  'fictionalTime.ETDateToTimeDate': `{date, date, medium} = {timeDate}`
 }
 
 /* eslint-enable max-len */

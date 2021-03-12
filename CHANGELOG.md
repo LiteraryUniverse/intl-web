@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-03-12 - v0.4.7
+  * Added keys for time transfers
+
 ## 2021-03-10
   * Added new key for fictional time unit display
 

@@ -1368,6 +1368,58 @@ export default {
   'workshop.shoppingExternal.storesOther': '他の店',
   // Added 2021-03-10
   'fictionalTime.units.milliseconds': '{units}ミリ秒',
+  'fictionalTime.countdownToStart': 'Countdown to time beginning',
+  // Added 2021-03-12
+  'fictionalTime.unitsToETList': `{units} {unitName} = 
+    {days, plural,
+      =0 {}
+      one {1 day }
+      other {{days} days }
+    }{hours, plural,
+      =0 {00:}
+      other {{hours}:}
+    }{minutes, plural,
+      =0 {00:}
+      other {{minutes}:}
+    }{seconds, plural,
+      =0 {00}
+      other {{seconds}}
+    }
+  `,
+  'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
+    seconds {{units, plural,
+      one {second}
+      other {seconds}
+    }}
+    minutes {{units, plural,
+      one {minute}
+      other {minutes}
+    }}
+    hours {{units, plural,
+      one {hour}
+      other {hours}
+    }}
+    days {{units, plural,
+      one {day}
+      other {days}
+    }}
+    years {{units, plural,
+      one {year}
+      other {years}
+    }}
+  } = {targetResult, number} {targetType}`,
+  'common.time.milliseconds': 'Milliseconds',
+  'common.time.seconds': 'Seconds',
+  'common.time.minutes': 'Minutes',
+  'common.time.hours': 'Hours',
+  'common.time.days': 'Days',
+  'common.time.weeks': 'Weeks',
+  'common.time.months': 'Months',
+  'common.time.years': 'Years',
+  'fictionalTime.inputFrom': 'From',
+  'fictionalTime.inputSelectTimeUnit': 'Select time unit',
+  'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+  'fictionalTime.ETDateToTimeDate': `{date, date, medium} = {timeDate}`
 }
 
 /* eslint-enable max-len */
