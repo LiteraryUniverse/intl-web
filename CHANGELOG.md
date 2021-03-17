@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-03-17 - v0.5.0
+  * Added Dutch and Finish languages to story languages
+
 ## 2021-03-12 - v0.4.7
   * Added keys for time transfers
 

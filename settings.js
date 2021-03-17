@@ -114,6 +114,22 @@ export default {
         defaultLocale: 'it-IT',
         supportedLocales: ['it-IT', 'it-CH'],
         rtl: false
+      },
+      {
+        code: 'nl',
+        name: 'Dutch',
+        native: 'Nederlands',
+        defaultLocale: 'nl-NL',
+        supportedLocales: ['nl-NL', 'nl-AW', 'nl-BE', 'nl-BQ', 'nl-CW', 'nl-SX', 'nl-SR'],
+        rtl: false
+      },
+      {
+        code: 'fi',
+        name: 'Finnish',
+        native: 'Suomi',
+        defaultLocale: 'fi-FI',
+        supportedLocales: ['fi-FI'],
+        rtl: false
       }
     ])
   },
