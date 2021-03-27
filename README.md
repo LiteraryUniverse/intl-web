@@ -1,4 +1,6 @@
 # Literary Universe intl-web
+[![Crowdin](https://badges.crowdin.net/literary-universe/localized.svg)](https://crowdin.com/project/literary-universe)
+
 Localization for Literary Universe web app.
 
 ## Found an issue or type?
