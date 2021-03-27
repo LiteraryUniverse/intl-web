@@ -1,5 +1,8 @@
-project_id: "448024"
-api_token: "47749feab52d6841785f1e964e5ea411e51399101532871bd10b51b36a38fa64ed654a2ce65448e7"
+project_id: '448024'
+api_token: >-
+  47749feab52d6841785f1e964e5ea411e51399101532871bd10b51b36a38fa64ed654a2ce65448e7
 files:
-  - source: /en/lang_*
+  - source: /en/*
+    ignore:
+      - index
     translation: /%two_letters_code%/%original_file_name%
