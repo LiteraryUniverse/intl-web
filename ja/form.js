@@ -1,40 +1,40 @@
 export default {
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.required': '必須項目',
+    'form.validator.mustBeNumber': '数値を指定してください',
+    'form.validator.minNumber': '{min} より大きい必要があります',
+    'form.validator.maxNumber': '{max} より小さい必要があります',
+    'form.validator.maxLength': `{max} {what, select,
+    characters {文字}
+    tags {タグ}
+    genres {ジャンルは}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
+    'form.validator.minLength': `少なくとも {min} {what, select,
+    characters {文字}
+    tags {タグ}
+    genres {ジャンルは}
+    genre {ジャンルは}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+    'form.validator.email': '有効なメールアドレスである必要があります',
+    'form.validator.url': '有効なURIである必要があります',
+    'form.validator.slug': 'URIの有効な部分である必要があります',
+    'form.submitting.signup': 'アカウントを作成中',
+    'form.submitting.signin': 'ログインしています...',
+    'form.submitting.default': '送信しています。',
+    'form.submitting.sending': '送信中...',
+    'form.validator.whitespace': 'スペースを空白にしてはいけません',
+    'form.validator.zipCode': '有効な郵便番号である必要があります',
+    'form.validator.isbn': 'ISBNのバージョンは10または13です。',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max} characters',
-    'simpleschema.minNumber': '{label} must be at least {min}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max}',
+    'simpleschema.required': '「{label}」が必要です',
+    'simpleschema.minString': '{label}は少なくとも {min} 文字必要です',
+    'simpleschema.maxString': '{label} は {max} 文字を超えることはできません',
+    'simpleschema.minNumber': '{label} は少なくとも {min} でなければなりません',
+    'simpleschema.maxNumber': '{label} は {max} を超えることはできません',
+    'simpleschema.minNumberExclusive': '{label} は {min} より大きくなければなりません',
+    'simpleschema.maxNumberExclusive': '{label} は {max} より小さくなければなりません',
     'simpleschema.minDate': '{label} must be on or after {min}',
     'simpleschema.maxDate': '{label} cannot be after {max}',
     'simpleschema.badDate': '{label} is not a valid date',
@@ -49,7 +49,7 @@ export default {
     'simpleschema.expectedObject': '{label} must be an object',
     'simpleschema.expectedConstructor': '{label} must be a {type}',
     'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label}は一意でなければなりません',
     'simpleschema.regEx.0': '{label} failed regular expression validation',
     'simpleschema.regEx.1': '{label} must be a valid e-mail address',
     'simpleschema.regEx.2': '{label} must be a valid e-mail address',
