@@ -1,10 +1,10 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood'
+    'discovery.meta.desc': 'Objevte nové příběhy a vesmíry.',
+    'discovery.universes.new': 'Nové vesmíry',
+    'discovery.stories.new': 'Nové příběhy',
+    'discovery.stories.standalone.new': 'Nové samostatné příběhy',
+    'discovery.stories.updated': 'Nedávno aktualizované příběhy',
+    'discovery.continue': 'Pokračovat ve čtení',
+    'discovery.stories.similar.new': 'Nové příběhy v okolí',
+    'discovery.stories.similar.regular': 'Příběhy v okolí'
 };
