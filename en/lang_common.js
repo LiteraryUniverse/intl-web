@@ -3,7 +3,6 @@
  */
 /* eslint-disable max-len */
 export default {
-  locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
   'site.keywords':

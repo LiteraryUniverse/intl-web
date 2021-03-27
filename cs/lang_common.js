@@ -3,7 +3,6 @@
  */
 /* eslint-disable max-len */
 export default {
-  locales: ['cs', 'cs-CZ'],
   sitename: 'Literary Universe',
   'site.description': 'Literary Universe je platforma pro psaní a čtení rozsáhlých literárních vesmírů.',
   'site.keywords':

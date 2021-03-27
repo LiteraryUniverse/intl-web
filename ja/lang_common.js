@@ -3,7 +3,6 @@
  */
 /* eslint-disable max-len */
 export default {
-  locales: ['jp', 'jp-JP'],
   sitename: '文学の宇宙',
   'site.description': '文学の宇宙は、壮大な物語の宇宙のための創造的で出版のプラットフォームです。',
   'site.keywords':
