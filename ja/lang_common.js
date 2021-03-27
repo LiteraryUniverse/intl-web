@@ -1,8 +1,6 @@
 /**
  * @authors Jan Dvorak
  */
-import form from '../../../../app/packages/intl/ja/lang_form'
-import emails from '../../../../app/packages/intl/ja/lang_emails'
 /* eslint-disable max-len */
 export default {
   locales: ['jp', 'jp-JP'],
@@ -11,8 +9,6 @@ export default {
   'site.keywords':
     '文芸, SF, ファンタジー, 書き込み, 出版, 翻訳, 物語, 宇宙, ストーリー',
   'site.logoAlt': '文学の宇宙のロゴ',
-  ...form,
-  ...emails,
   mobileMenu: 'Mobile menu',
   'common.signin': 'ログイン',
   'common.signup': '会員登録',

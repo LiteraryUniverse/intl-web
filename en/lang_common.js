@@ -1,8 +1,6 @@
 /**
  * @authors Jan Dvorak
  */
-import form from './lang_form'
-import emails from './lang_emails'
 /* eslint-disable max-len */
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -11,8 +9,6 @@ export default {
   'site.keywords':
     'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'site.logoAlt': 'Literary Universe logo',
-  ...form,
-  ...emails,
   mobileMenu: 'Mobile menu',
   'common.signin': 'Login',
   'common.signup': 'Register',
