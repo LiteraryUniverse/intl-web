@@ -11,20 +11,20 @@ export default {
     user {Blog}
   } settings`,
     'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
+    'blog.theme': 'テーマ',
     'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
+    'blog.post.create': '新しい投稿を作成',
+    'blog.post.update': '{title} を編集',
+    'blog.post.text': 'テキストを投稿',
+    'common.slug': 'SEO対応アドレス',
     'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.publicView': '公開表示',
+    'blog.post.notfound': 'ブログの投稿が見つかりませんでした',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Standalone stories}
@@ -39,8 +39,8 @@ export default {
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog'
+    'blogs.new': '最新のブログ',
+    'blogs.title': '文学の宇宙のブログ',
+    'blogs.description': '文学の宇宙プラットフォーム上のブログの一覧。',
+    'blogs.visit': 'ブログへ行く'
 };
