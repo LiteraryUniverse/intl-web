@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-03-27 - v0.6.0
+  * Changed structure to prepare for Crowdin translations
+
 ## 2021-03-17 - v0.5.0
   * Added Dutch and Finish languages to story languages
 

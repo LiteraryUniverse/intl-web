@@ -1,8 +1,8 @@
 /**
  * @authors Jan Dvorak
  */
-import form from './ja_form'
-import emails from './ja_emails'
+import form from '../../../../app/packages/intl/ja/lang_form'
+import emails from '../../../../app/packages/intl/ja/lang_emails'
 /* eslint-disable max-len */
 export default {
   locales: ['jp', 'jp-JP'],
@@ -28,7 +28,7 @@ export default {
   'common.profile': 'プロフィール',
   'common.blog': 'ブログ',
   'common.blogs': 'ブログ',
-  'common.about': 'このサイトについて',
+  'common.about': '文学の宇宙について',
   'common.accessdenied': 'アクセスが拒否されました',
   'common.accessdenied.msg':
     'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',
@@ -151,8 +151,8 @@ export default {
     many {requests}
   }`,
   'user.friend.unfriend': 'Unfriend',
-  'user.block': 'Block',
-  'user.unblock': 'Unblock',
+  'user.block': 'ブロック',
+  'user.unblock': 'ブロック解除',
   'user.joined': `{gender, select,
     male {Joined}
     female {Joined}
@@ -1281,7 +1281,7 @@ export default {
   'enrollment.submitting': 'アカウントを申請しています...',
   'enrollment.submit': 'アカウントを申請してください。',
   // Added 2020-12-26
-  'common.sharing': 'シェア',
+  'common.sharing': '共有',
   'workshop.sharing.publicURL': '公開版',
   'sharing.title': '共有する',
   'sharing.copy': 'コピーする',

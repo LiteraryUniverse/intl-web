@@ -1,8 +1,8 @@
 /**
  * @authors Jan Dvorak
  */
-import form from './en_form'
-import emails from './en_emails'
+import form from './lang_form'
+import emails from './lang_emails'
 /* eslint-disable max-len */
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
