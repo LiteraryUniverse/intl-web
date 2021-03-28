@@ -120,52 +120,52 @@ export default {
     'workshop.hideOrgs': 'Skrýt obsah od organizací',
     'workshop.translation.premium': 'Chcete-li přidat překlady, musíte mít alespoň Novic předplatné.',
     'workshop.story.finished': 'Příběh je dokončen',
-    'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
-    'workshop.sharing.publicURL': 'Public version',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
-    'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
-    'workshop.fictionalTime.createNow': 'Create one now!',
-    'workshop.fictionalTime.createTitle': 'Create a new fictional time',
-    'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
-    'workshop.fictionalTime.timeName': 'Time name',
-    'workshop.fictionalTime.basicInfo': 'Basic information',
-    'workshop.fictionalTime.timeSetup': 'Time setup',
-    'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date (Gregorian calendar)?',
-    'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
-    'workshop.fictionalTime.declarationBefore': 'Before units',
-    'workshop.fictionalTime.declarationAfter': 'After units',
-    'workshop.fictionalTime.declarationNone': 'None',
-    'workshop.fictionalTime.units': 'Units',
-    'workshop.fictionalTime.ETStart': 'Starting date of this time',
-    'workshop.fictionalTime.unitsDescFirst': 'How many units are there in this unit from milliseconds?',
-    'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
-    'workshop.fictionalTime.unitsName': 'Unit name',
-    'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
-    'workshop.fictionalTime.unitAdd': 'Add unit',
-    'workshop.fictionalTime.clocks': 'Clocks',
-    'workshop.fictionalTime.unitTransfer': 'Transfer units',
-    'fictionalTime.pageStartElapsedTime': 'Time elapsed since opening this page',
-    'fictionalTime.currentTime': 'Current time',
-    'workshop.shoppingExternal.options': 'External purchase options',
-    'workshop.shoppingExternal.explainer': 'If your story is sold elsewhere you can set the links here. The links will then show instead of the content or at the end of the content you choose to preview.',
-    'workshop.shoppingExternal.amazonStore': 'Amazon store',
+    'workshop.story.publishing.externalSellingNotice': 'Vzhledem k tomu, že prodáváte mimo Literary Universe můžeš publikovat příběh nyní. Odkazy na Vaš obchod se objeví na příběhu nebo na konci aktuálního příběhu, který můžete zde publikovat.',
+    'workshop.sharing.publicURL': 'Veřejná verze',
+    'workshop.fictionalTime.title': 'Fiktivní časy pro {universeName}',
+    'workshop.fictionalTime.none': 'Momentálně nemáte žádné fiktivní časy.',
+    'workshop.fictionalTime.createNow': 'Vytvořte si jeden nyní!',
+    'workshop.fictionalTime.createTitle': 'Vytvořit nový fiktivní čas',
+    'workshop.fictionalTime.editTitle': 'Upravit {ftName}',
+    'workshop.fictionalTime.formDescription': `Zde si můžete vytvořit svůj vlastní fiktivní čas. Tento nástroj je v současné době omezený a je schopen vytvářet pouze symetrické časy. To znamená, že nebudete schopni Mayovský kalendář nebo Gregorianský. V tuto chvíli
+        tento nástroj očekává, že všechny časy jsou vždy stejné, např. měsíce mají vždy 30 dní bez výjimek a tak
+        dále. Budeme se tím zabývat v pozdějších verzích, ale až do té doby je tento nástroj vhodnější pro vytvoření primárně
+        lineárních časů.`,
+    'workshop.fictionalTime.timeName': 'Název času',
+    'workshop.fictionalTime.basicInfo': 'Základní informace',
+    'workshop.fictionalTime.timeSetup': 'Nastavení času',
+    'workshop.fictionalTime.linkedToET': 'Začíná tento čas na pozemský čas (Gregoriánský kalendář)?',
+    'workshop.fictionalTime.timeDeclaration': 'Deklarace času',
+    'workshop.fictionalTime.declarationLocation': 'Kde by měl být uveden časový název?',
+    'workshop.fictionalTime.declarationBefore': 'Před jednotkami',
+    'workshop.fictionalTime.declarationAfter': 'Po jednotkách',
+    'workshop.fictionalTime.declarationNone': 'Žádný',
+    'workshop.fictionalTime.units': 'Jednotky',
+    'workshop.fictionalTime.ETStart': 'Počáteční datum tohoto času',
+    'workshop.fictionalTime.unitsDescFirst': 'Kolik jednotek je v této jednotce od milisekund?',
+    'workshop.fictionalTime.unitsDesc': 'Kolik jednotek z té předchozí je jedna tato?',
+    'workshop.fictionalTime.unitsName': 'Jméno jednotky',
+    'workshop.fictionalTime.unitsSeparator': 'Oddělovač od předchozí jednotky',
+    'workshop.fictionalTime.unitAdd': 'Přidat jednotku',
+    'workshop.fictionalTime.clocks': 'Hodiny',
+    'workshop.fictionalTime.unitTransfer': 'Převody',
+    'fictionalTime.pageStartElapsedTime': 'Čas od otevření této stránky',
+    'fictionalTime.currentTime': 'Aktuální čas',
+    'workshop.shoppingExternal.options': 'Externí možnosti nákupu',
+    'workshop.shoppingExternal.explainer': 'Pokud se Váš příběh prodává jinde, můžete si zde nastavit odkazy. Odkazy se pak zobrazí namísto obsahu nebo na konci obsahu, který zvolíte pro náhled.',
+    'workshop.shoppingExternal.amazonStore': 'Obchod Amazon',
     'workshop.shoppingExternal.amazon': 'Amazon',
-    'workshop.shoppingExternal.storeName': 'Store name',
-    'workshop.shoppingExternal.itemUrl': 'Item URL',
-    'workshop.shoppingExternal.storesOther': 'Other stores',
-    'fictionalTime.units.milliseconds': '{units} milliseconds',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'workshop.shoppingExternal.storeName': 'Jméno obchodu',
+    'workshop.shoppingExternal.itemUrl': 'URL položky',
+    'workshop.shoppingExternal.storesOther': 'Ostatní obchody',
+    'fictionalTime.units.milliseconds': '{units} milisekund',
+    'fictionalTime.countdownToStart': 'Odpočítávání do začátku času',
     'fictionalTime.unitsToETList': `{units} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 den }
+      few {{days} dny}
+      other {{days} dnů }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -175,32 +175,36 @@ export default {
     }{seconds, plural,
       =0 {00}
       other {{seconds}}
-    }
-  `,
+    }  `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {sekunda}
+      few {sekundy}
+      other {sekund}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {minuta}
+      few {minuty}
+      other {minut}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {hodina}
+      few {hodiny}
+      other {hodin}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {den}
+      one {dny}
+      other {dnů}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {rok}
+      one {roky}
+      other {let}
     }}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
-    'fictionalTime.inputSelectTimeUnit': 'Select time unit',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputFrom': 'Z',
+    'fictionalTime.inputSelectTimeUnit': 'Vyberte časovou jednotku',
+    'fictionalTime.inputSelectETUnit': 'Vyberte časovou jednotku Země',
     'fictionalTime.ETDateToTimeDate': `{date, date, medium} = {timeDate}`
 };
