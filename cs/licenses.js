@@ -5,7 +5,7 @@
 export default {
     'licenses.about': 'O licencích',
     'licenses.more': 'Více informací',
-    'licenses.legal': 'Právní dokumenty',
+    'licenses.legal': 'Právní dokument',
     'licenses.name.cc-by': 'Uveďte původ 4.0',
     'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
     'licenses.name.cc-by-sa': 'Uveďte původ-Zachovejte licenci 4.0',
