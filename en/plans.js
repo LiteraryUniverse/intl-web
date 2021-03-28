@@ -92,8 +92,7 @@ export default {
   'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
   'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
   'plans.change.upgrade': 'Upgrade',
-  'payments.disclaimer':
-    'Payment information and processing is done via Braintree by PayPal. We do not keep any credit card or bank account information on our servers.',
+  'payments.disclaimer': 'Payment information and processing is done via Stripe. We do not keep any credit card or bank account information on our servers.',
   'buy.payment.optionsSelect': 'Select payment option',
   'payments.card.number': 'Card number',
   'payments.card.expire': 'Valid Thru',
