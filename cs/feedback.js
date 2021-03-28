@@ -43,10 +43,10 @@ export default {
     'feedback.report.copyrightOwnershipDesc': 'Prohlášení o vlastnictví',
     'feedback.report.copyrightNotice': 'Vezměte prosím na vědomí, že pro použití tohoto formuláře musíte být oprávněným vlastníkem díla. Pokud nejste vlastníkem, informujte prosím vlastníka nebo použijte jinou kategorii k informování nás. Bereme porušování autorských práv velmi vážně a totéž platí pro nesprávné a zneužívající používání tohoto formuláře.',
     'feedback.report.copyrightInternalProperty': 'Publikoval jsem toto dílo na Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-  } is being infringed?`
+    'feedback.reportType.spam': 'Spam nebo phishing',
+    'feedback.reportType.other': 'Ostatní',
+    'feedback.report.copyrightType.propertySelectLabel': `Který {type, select,
+    universe {vesmír}
+    story {příběh}
+  } je zde zneužit?`
 };
