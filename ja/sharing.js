@@ -1,8 +1,8 @@
 export default {
-    'sharing.title': 'Share',
-    'sharing.copy': 'Copy',
-    'sharing.email': 'E-mail',
-    'sharing.sms': 'SMS',
+    'sharing.title': '共有する',
+    'sharing.copy': 'コピーする',
+    'sharing.email': 'メール',
+    'sharing.sms': '連絡先を選択してください',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
     'sharing.twitter': 'Twitter',
