@@ -4,13 +4,13 @@ export default {
     universe {a blog for your universe}
     user {a blog}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': '新しいブログを作成する',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
   } settings`,
-    'blog.description': 'Blog introduction',
+    'blog.description': 'ブログ紹介',
     'blog.theme': 'テーマ',
     'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
