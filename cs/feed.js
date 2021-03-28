@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'Nový příspěvek',
+    'feed.post.like': 'Líbí se mi',
+    'feed.post.unlike': 'Nelíbí se mi',
+    'feed.post.send': 'Poslat',
+    'feed.empty': 'Žádné příspěvky k zobrazení.'
 };
