@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'アカウントを登録してください！',
+    'enrollment.description': 'ようこそ {username}! 特別なアカウントにアクセスするには、パスワードを作成するだけです。',
+    'enrollment.submitting': 'アカウントを要求しています...',
+    'enrollment.submit': 'アカウントを取得！'
 };
