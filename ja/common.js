@@ -182,38 +182,38 @@ export default {
     // for beta only
     'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
     'beta.thanks': 'Thank you for your support!',
-    'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
+    'scratchpad.about': 'サイトのどこからでもアクセスできるメモやアイデア。',
     // added 2016-11-02
     'common.feedback': 'Feedback',
     'common.createdon': 'Created on ',
     // added 2016-11-14
     // account types
-    admin: 'Admin',
+    admin: '管理者',
     // added 2016-12-03
-    goodbye: 'Thank you! See you again!',
+    goodbye: 'ありがとうございました！ またね！',
     // added 2016-12-31
-    'common.saved': 'Saved!',
-    'common.saving': 'Saving...',
+    'common.saved': '保存されました',
+    'common.saving': '保存しています',
     // added 2017-01-23
-    'common.friends': 'Friends',
+    'common.friends': '友達',
     // added 2017-01-27
-    'lang.orig': 'Original language',
-    'lang.orig.plus': 'Original language - {language}',
+    'lang.orig': '元の言語',
+    'lang.orig.plus': '元の言語 - {language}',
     // added 2017-02-12
-    'reader.accessibility': 'Toggle accessibility',
+    'reader.accessibility': 'アクセシビリティの切り替え',
     // added 2017-02-20
-    'chapter.translation.notYet': 'This chapter has not yet been translated.',
+    'chapter.translation.notYet': 'この章はまだ翻訳されていません。',
     // added 2017-03-28
     buy: 'Buy',
     // added 2017-03-31
-    confirm: 'Confirm',
-    cancel: 'Cancel',
+    confirm: '確認',
+    cancel: 'キャンセル',
     // added 2017-04-14
-    processing: 'Processing...',
+    processing: '今処理中',
     // added 2017-10-04
-    'common.nodata': 'No data',
+    'common.nodata': 'データなし',
     // added 2017-11-25
-    'error.title': 'An error has occurred. We apologize for the inconvenience.',
+    'error.title': 'エラーが発生しました。 ご不便をおかけして申し訳ございません。',
     // added 2018-04-20
     'common.offlineStatus': 'You are currently offline.',
     // added 2018-04-22
