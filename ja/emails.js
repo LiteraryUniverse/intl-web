@@ -3,42 +3,46 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': '文学の宇宙、{username}へようこそ',
+    'email.enrollAccount.message': `こんにちは{username}\n\n
+    私たちはあなたを文学の宇宙に招待したいと思います。 文学の宇宙のすべての機能にアクセスできる特別な個人アカウントを作成しました。 次世代のクリエイティブなライティングおよびリーディングツールの作成にご参加ください。
+    アカウントを有効にするには、以下のリンクをクリックしてください:\n{url}`,
+    'email.resetPassword.subject': '文学の宇宙のパスワードを再設定する',
+    'email.resetPassword.message': `こんにちは{username}!\n\n
+ アカウントのパスワードをリセットするリクエストを受け取りました。
+        以下のリンクに従って、パスワードをリセットしてください:\n\n{url}`,
+    'email.verifyEmail.subject': '文学の宇宙のメールによる確認',
+    'email.verifyEmail.message': 'こんにちは{username}!\n\n 以下のリンクをクリックして、メールアドレスを確認してください:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'こんにちは{username},',
+    'email.welcome': '文学の宇宙へようこそ!',
+    'email.signature': 'よろしくお願いいたします。<br />文学の宇宙チーム',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'ようこそ！',
+    'email.enrollAccount.messageHtml': '私たちはあなたを文学の宇宙に招待したいと思います。先に進んで、あなたが文学の宇宙のすべての機能にアクセスできるあなたのための個人アカウントを用意しました！ 次世代のクリエイティブなライティングとリーディングの作成にぜひご参加ください。',
+    'email.enrollAccount.button': 'アカウントにアクセスする',
+    'email.enrollAccount.signature': '文学の宇宙でお会いできるのを楽しみにしています,<br />文学の宇宙チーム',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'アカウントのパスワードをリセットするリクエストを受け取りました。プロセスを続行するには、下のボタンをクリックしてください。 このリクエストをまだ行っていない場合は、この電子メールを無視できますが、セキュリティ設定を確認することをお勧めします。',
+    'email.resetPassword.button': 'パスワードを再設定する',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': '皆様のご参加をお待ちしております。 下のボタンをクリックして、このメールアドレスを確認してください。',
+    'email.verifyEmail.button': 'メールによる確認',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.subject': '文学の宇宙のアカウントがアップグレードされました',
+    'email.adminUpgrade.message': `アカウントを次の{days}日間の{plan, select,
     explorer {Explorer}
     initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+  }プランにアップグレードしました。
+\n\n
+楽しい\n
+文学の宇宙チーム`,
+    'email.adminUpgrade.messageHtml': `アカウントを次の{days}日間の{plan, select,
     explorer {Explorer}
     initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  } tier for the next {days} days. Enjoy!`
+  }プランにアップグレードしました。 楽しい！`
 }    /* eslint-enable max-len */;
