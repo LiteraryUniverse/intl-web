@@ -1,22 +1,22 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Konverzace',
+    'pm.showolder': 'Zobrazit starší zprávy',
+    'pm.errors.saysomething': 'Měli byste něco říci...',
+    'pm.errors.addrecipient': 'Musíte přidat alespoň jednoho dalšího uživatele.',
+    'pm.message': 'Zpráva',
+    'pm.send.message': 'Poslat zprávu',
+    'pm.messages.own': 'Vaše zprávy',
+    'pm.conversations.none': 'Momentálně nemáte žádné koncerzace.',
+    'pm.to': 'Komu:',
+    'pm.with': 'Konverzace s:',
+    'pm.send': 'Odeslat',
+    'pm.conversations.unreadCount': `Máte {count, plural,
+    one {jednu nepřečtenou konverzaci}
+    few {# nepřečtené konverzace}
+    other {# nepřečtených konverzací}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.',
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Musíte vybrat příjemce.',
+    'pm.form.maxParticipants': 'V konverzaci můžete mít maximálně 10 lidí.',
+    'pm.new.aria': 'Nová konverzace',
+    'pm.new.buttonTitle': 'Zahájit novou konverzaci'
 };
