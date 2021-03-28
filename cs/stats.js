@@ -16,7 +16,7 @@ export default {
     'stats.gender.title': 'Pohlaví',
     'stats.view.table': 'Tabulkový pohled',
     'stats.view.pie': 'Pie graf pohled',
-    'stats.view.bar': 'Bar Chart view',
+    'stats.view.bar': 'Sloupový graf pohled',
     'stats.view.chart': 'Grafický pohled',
     'stats.table.total': 'Celkem',
     'stats.timeline.title': 'Časová osa',
