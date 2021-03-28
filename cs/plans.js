@@ -3,7 +3,7 @@ export default {
     'plans.title': 'Získejte více z Literary Universe!',
     'plans.text': 'Literární Universe nabízí základní funkcionalitu zdarma. Pokud ale jste horlivý čtenář nebo tvůrce, může Vás zajímat naše předplatné členství.',
     'plans.faq.basicsPriced': 'Proč má bezplatné členství tak málo schopností?',
-    'plans.faq.justification': 'Here at Literary Universe we value your privacy and intellectual property. As such we don\'t use your data to sell advertisements or provide them to other companies. This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone\'s needs while at the same time allowing us to keep the service up and continue development.',
+    'plans.faq.justification': 'V literární Universe si vážíme vašeho soukromí a duševního vlastnictví. Jako takové nepoužíváme vaše údaje k prodeji reklam nebo jejich poskytování jiným společnostem. To znamená, že musíme postavit mnoho věcí sami. Trvá to hodně času a je to drahé. Takže jsme vytvořili bezplatné členství jako malý náhled na Literary Universe (který Vám stále umožňuje udělat nejdůležitější věci) s více členskými úrovněmi a doplňky, které vyhovují potřebám všech, a zároveň nám umožňují udržet službu a pokračovat ve vývoji aplikace.',
     'plans.limits': 'Limity',
     'plans.features': 'Funkce',
     'plans.account.user': 'Návštěvník',
