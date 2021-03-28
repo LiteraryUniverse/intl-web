@@ -224,8 +224,8 @@ export default {
     // added 2018-04-27
     'legal.modal.goToSettings': 'Go to your settings',
     // added 2018-04-30
-    male: 'Male',
-    female: 'Female',
+    male: '男性',
+    female: '女性',
     // added 2018-05-18
     'common.legal.effectiveAt': 'Effective from',
     // added 2018-05-24
@@ -238,21 +238,21 @@ export default {
     'common.statusFailed': 'Failed to connect to the server.',
     'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
     // added 2018-06-13
-    'slug.checking': 'Checking...',
+    'slug.checking': '確認しています...',
     'slug.failed': 'This address already exists.',
     'slug.success': 'This address is available!',
     // added 2018-07-08
-    'notVerified.msg': 'Your account e-mail is not verified.',
-    'notVerified.verify': 'Please verify your e-mail.',
+    'notVerified.msg': 'アカウントのメールアドレスは確認されていません。',
+    'notVerified.verify': 'メールアドレスを確認してください。',
     // added 2018-07-12
-    unknown: 'unknown',
+    unknown: '道の',
     // added 2018-09-30
     'common.legal.guidelines': 'Community Guidelines',
     // added 2019-01-12
-    'errorLoading.title': 'Error during page load',
+    'errorLoading.title': 'ページ読み込み中のエラー',
     'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
-    'errorLoading.retry': 'Retry!',
-    'errorLoading.takingLong': 'This is taking a long time...',
+    'errorLoading.retry': '再試行する',
+    'errorLoading.takingLong': 'これは長い時間がかかります...',
     // added 2019-02-21
     'common.title': 'Title',
     // added 2019-05-05
@@ -279,7 +279,7 @@ export default {
     goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Let us know what we can do better',
     // Added 2019-10-27
-    'common.edit': 'Edit',
+    'common.edit': '編集',
     // Added 2019-11-03
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
@@ -315,22 +315,22 @@ export default {
     'common.legal.privacy.short': 'Privacy',
     'premium.increaseLimit': 'Consider upgrading to increase you limit.',
     // Added 2020-11-22
-    'reader.storyEnd.heading': 'The END',
-    'reader.storyEnd.description': 'You have reached the end of the story.',
+    'reader.storyEnd.heading': '終わり',
+    'reader.storyEnd.description': '物語の終わりに達しました。',
     'reader.externalSale.heading': 'Not here yet',
     'reader.externalSale.description': 'This story is not available on Literary Universe, but you can get it in other places.',
     'reader.storyTBC.heading': 'To be continued...',
     'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
     'chapter.translation.notYetDescription': 'Check back again soon!',
     'reader.externalShopping.heading': 'Buy {storyName} in stores:',
-    'externalShopping.buyLink.amazon': 'Buy on Amazon',
+    'externalShopping.buyLink.amazon': 'Amazonで購入',
     'externalShopping.buyLink.other': 'Buy on {storyName}',
     // Added 2020-12-26
-    'common.sharing': 'Sharing',
+    'common.sharing': '共有',
     // Added 2021-02-14
     'story.isbn': 'ISBN',
     // Added 2021-02-26
-    'common.name': 'Name',
+    'common.name': '名前',
     // Added 2021-03-04
     'common.remove': 'Remove',
     // Added 2021-03-12
