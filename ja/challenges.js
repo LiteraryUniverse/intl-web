@@ -21,9 +21,9 @@ export default {
     'challenges.wordcount': 'Word count',
     'challenges.wordcount.desc': 'Set yourself a goal of how many words you want to write this month for his story.',
     'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
-    'challenges.start': 'Start challenge',
-    'challenges.report': 'Report',
-    'challenges.victory': 'Congratulations! You have completed this challenge.',
+    'challenges.start': 'チャレンジを開始',
+    'challenges.report': '概要',
+    'challenges.victory': 'おめでとう！ このチャレンジを完了しました。',
     'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
     'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
     // NaNoWriMo
@@ -39,7 +39,7 @@ export default {
       one {1 day}
       other {# days}
     }! Get ready!`,
-    'nanowrimo.isover': 'NaNoWriMo is over. See you next year!',
+    'nanowrimo.isover': 'NaNoWriMoは終わりました。また来年お会いしましょう！',
     'nanowrimo.select': 'Designate this story for NaNoWriMo.',
     'nanowrimo.baseline': 'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
     'nanowrimo.victory': 'Congratulation! You won NaNoWriMo!',
@@ -48,6 +48,6 @@ export default {
     'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
     'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
     'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
-    'nanowrimo.connected': 'You have designated this story for NaNoWriMo.',
+    'nanowrimo.connected': 'あなたはこの物語をNaNoWriMoに指定しました。',
     'nanowrimo.connected.other': 'You have already connected another story.'
 };
