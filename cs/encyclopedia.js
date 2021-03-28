@@ -1,154 +1,157 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
+    'encyclopedia.add': 'Přidat nový záznam',
+    'encyclopedia.browse': 'Procházet encyklopedii',
+    'encyclopedia.search': 'Vyhledat v encyklopedii',
+    'encyclopedia.back.universe': 'Zpět na stránku vesmíru',
+    'encyclopedia.back.workshop': 'Zpátky do ateliéru',
+    'encyclopedia.categories': 'Kategorie',
+    'encyclopedia.groups': 'Skupiny',
+    'encyclopedia.category.character': 'Postava',
+    'encyclopedia.category.event': 'Událost',
+    'encyclopedia.category.group': 'Skupina',
+    'encyclopedia.category.item': 'Věc',
+    'encyclopedia.category.location': 'Lokalita',
+    'encyclopedia.category.other': 'Ostatní',
+    'encyclopedia.category.state': 'Národ',
+    'encyclopedia.category.governments': 'Stát',
+    'encyclopedia.category.languages': 'Jazyk',
+    'encyclopedia.category.creatures': 'Bytost',
+    'encyclopedia.category.deity': 'Božstvo',
+    'encyclopedia.category.religions': 'Náboženství',
     'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.category.magic': 'Magie',
+    'encyclopedia.category.planets': 'Planeta',
+    'encyclopedia.category.species': 'Rasa',
+    'encyclopedia.category.technologies': 'Technologie',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
-    'encyclopedia.help.sidebar': 'Sidebar Encyclopedia',
+    zero {Nic nenalezeno}
+    one {1 možný článek nalezen}
+    few {# možné články nalezeny}
+    other {# možných článků nalezeno}
+  }.`,
+    'encyclopedia.help.text': 'Pomocí menu vlevo se můžete pohybovat mezi položkami v encyklopedii. Jakmile vyberete položku, zobrazí se místo tohoto textu.',
+    'encyclopedia.help.sidebar': 'Postranní Encyklopedie',
     'encyclopedia.help.sidebar.text': 'Use the selection above to search, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-    'encyclopedia.entries.total': `There are currently {num, plural,
-    =0 {no entries}
-    one {one entry}
-    other {# entries}
-  } in this encyclopedia.`,
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.intro': 'Vítejte v encyklopedii pro {universe}.',
+    'encyclopedia.entries.total': `Encyklopedie momentálně obsahuje {num, plural,
+    =0 {nula článků}
+    one {jeden článek}
+    few {# články}
+    other {# článků}
+  }.`,
+    'encyclopedia.add.title': 'Přidat nový záznam do encyklopedie',
+    'encyclopedia.add.heading': 'Co chcete přidat?',
+    'encyclopedia.add.moresoon': 'Více kategorií již brzy!',
+    'encyclopedia.create': `Vytvořit nov{category, select,
+    character {ou postavu}
+    event {ou událost}
+    group {ou skupinu}
+    item {ou věc}
+    location {ou lokaci}
+    other {ou poznámku}
+    state {ý národ}
+    governments {ý stát}
+    languages {ý jazyk}
+    creatures {ou bytost}
+    deity {é božstvo}
+    religions {é náboženství}
+    flora {ou floru}
+    magic {ou magii}
+    planets {ou planetu}
+    species {ou rasu}
+    technologies {ou technologii}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    'encyclopedia.create.header': `Vytvořit nov{category, select,
+    character {ou postavu}
+    event {ou událost}
+    group {ou skupinu}
+    item {ou věc}
+    location {ou lokaci}
+    other {ou poznámku}
+    state {ý národ}
+    governments {ý stát}
+    languages {ý jazyk}
+    creatures {ou bytost}
+    deity {é božstvo}
+    religions {é náboženství}
+    flora {ou floru}
+    magic {ou magii}
+    planets {ou planetu}
+    species {ou rasu}
+    technologies {ou technologii}
+  } v {universe}`,
+    'encyclopedia.entry.category': `Typ článku: {category, select,
+    character {Postava}
+    event {Událost}
+    group {Skupina}
+    item {Věc}
+    location {Lokace}
+    other {Ostatní}
+    state {Národ}
+    governments {Stát}
+    languages {Jazyk}
+    creatures {Bytost}
+    deity {Božstvo}
+    religions {Náboženství}
     flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    magic {Magie}
+    planets {Planeta}
+    species {Rasa}
+    technologies {Technologie}
   }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
+    'encyclopedia.entry.category.legend': 'Kategorie',
+    'encyclopedia.fields.add': 'Přidat nové pole',
+    'encyclopedia.fields.text': 'Definice',
     'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
-    'encyclopedia.fields.image': 'Image',
-    'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
-    'encyclopedia.container': 'Container',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-    'encyclopedia.entry.name': 'Name of the entry',
-    'encyclopedia.summary': 'Summary',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
-    'encyclopedia.parent': 'Parent entry',
-    'encyclopedia.related': 'Related entries',
-    'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
-    'encyclopedia.field.private': 'Private field',
-    'encyclopedia.ft.indev': 'This option is in development.',
-    'encyclopedia.connections.remove': 'Remove connection',
-    'encyclopedia.connections.extra': 'Extra information',
-    'encyclopedia.connections.existing': 'Existing entry',
-    'encyclopedia.connections.existing.abbr': 'EE',
+    'encyclopedia.fields.connection': 'Spojení',
+    'encyclopedia.fields.time': 'Čas',
+    'encyclopedia.fields.image': 'Obrázek',
+    'encyclopedia.visibility': 'Viditelnost',
+    'encyclopedia.public': 'Veřejné',
+    'encyclopedia.private': 'Soukromé',
+    'encyclopedia.container': 'Kontejner',
+    'encyclopedia.container.desc': 'Vytvořit kontejner pro novou skupinu položek. Skryje jej z výpisu kategorií.',
+    'encyclopedia.entry.name': 'Jméno záznamu',
+    'encyclopedia.summary': 'Shrnutí',
+    'encyclopedia.summary.desc': 'Krátké shrnutí článku. Toto bude standardně zobrazeno jako jediné pole bude-li článek zobrazen ve čtečce.',
+    'encyclopedia.parent': 'Nadřazený záznam',
+    'encyclopedia.related': 'Související záznamy',
+    'encyclopedia.errors.tags': 'Můžete mít pouze 10 značek na záznam.',
+    'encyclopedia.field.private': 'Soukromé pole',
+    'encyclopedia.ft.indev': 'Tato funkce je ve vývoji.',
+    'encyclopedia.connections.remove': 'Odstranit spojení',
+    'encyclopedia.connections.extra': 'Další informace',
+    'encyclopedia.connections.existing': 'Existující záznam',
+    'encyclopedia.connections.existing.abbr': 'EZ',
     // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Cover image',
-    'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
-    'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-    'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
-    'encyclopedia.timeOption.fictionalDate': 'Fictional date',
-    'encyclopedia.timeOption.fictionalTime': 'Fictional time',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
-    'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
-    'encyclopedia.menuOpen': 'Open Encyclopedia menu',
-    'encyclopedia.menuClose': 'Close Encyclopedia menu',
-    'encyclopedia.menuAria': 'Encyclopedia menu',
-    'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'encyclopedia.cover': 'Obrázek záznamu',
+    'encyclopedia.translation.title': 'Vítejte v překladu pro {universe}!',
+    'encyclopedia.translation.desc': 'Toto rozhraní encyklopedie se používá pro překlad do {language}. Chcete-li začít překládat, vyberte existující položky v levém menu.',
+    'encyclopedia.welcome.totalEntries': `V tomto vesmíru {totalEntries, plural, 
+    zero {nejsou žádné informace}
+    one {je jeden záznam}
+    few {jsou # záznamy}
+    other {je # záznamů}
+  }.`,
+    'encyclopedia.settings.title': 'Nastavení Encyklopedie',
+    'encyclopedia.settings.categoriesDesc': 'Zapněte a vypněte kategorie, které chcete použít v encyklopedii.',
+    'encyclopedia.settings.introText': 'Uvítací zpráva, která bude zobrazena hned po popisku vesmíru.',
+    'encyclopedia.fields.placeholder': 'Jméno pole',
+    'encyclopedia.fields.delete': 'Odstranit pole',
+    'encyclopedia.timeOption.fictionalDate': 'Fiktivní datum',
+    'encyclopedia.timeOption.fictionalTime': 'Fiktivní čas',
+    'encyclopedia.timeOption.fictionalDateTime': 'Fiktivní datum a čas',
+    'encyclopedia.timeOption.date': 'Datum',
+    'encyclopedia.timeOption.time': 'Čas',
+    'encyclopedia.timeOption.dateTime': 'Datum a čas',
+    'encyclopedia.settings.groupByCategories': 'Zahrnout kategorie do seznamu',
+    'encyclopedia.menuOpen': 'Otevřít menu encyclopedie',
+    'encyclopedia.menuClose': 'Zavřít menu encyclopedie',
+    'encyclopedia.menuAria': 'Menu encyklopedie',
+    'enc.newField': 'Nové pole',
+    'enc.entries.limit': `Momentálně máte {value, number} z {max, plural,
+    =0 {nekonečna}
     other {{max, number}}
-  } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.'
+  } položek.`,
+    'enc.entries.limitReached': 'Dosáhli jste maximálního povoleného počtu položek pro aktuální předplatné.'
 };
