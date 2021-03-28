@@ -1,5 +1,5 @@
 export default {
-    'homepage.welcome': 'Welcome to Literary Universe!',
+    'homepage.welcome': '文学の宇宙のようこそ!',
     'homepage.read': 'Read',
     'homepage.explore': 'Explore',
     'homepage.create': 'Create',
@@ -7,14 +7,14 @@ export default {
     'homepage.explore.desc': 'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
     'homepage.create.desc': 'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
     'homepage.begin': 'Begin your journey!',
-    'homepage.itisfree': 'It is free!',
+    'homepage.itisfree': '無料です!',
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
     'about.text.1': 'Literary Universe is designed both for writers and for the avid reader. Writers can use the site to write original works through the workshop button in the dashboard menu. This will give you access to the main editor and encyclopedia functions which primarily focus on organizing all aspects of your personal story universe into one page. The social aspects allow authors to broadcast their work and develop a following, as well as to interact more directly if they chose with their readers.',
     'about.text.2': 'Readers can use the site primarily to read new works and follow authors but also to help edit pre-published stories if given permission by the writer. Being a reader on Literary Universe is a whole new reading experience, having access to all the background information on the same page as the main story gives you insight into the mind of the author like never before.',
     'about.text.3': 'The future for Literary Universe involves creating a marketplace for authors to sell their work and adding community features to enhance author and reader communication through blogs and forums. Writer’s tools will be added over time, with over a dozen currently either in development or on the board. Our ultimate goal is to enhance the experiences of writers and readers through providing more innovative use of the internet medium.',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
-    'about.team': 'The team',
+    'about.team': 'チーム',
     'about.history': 'History',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
@@ -31,7 +31,7 @@ export default {
     'gdpr.compliant': 'Literary Universe is GDPR Compliant',
     'gdpr.compliant.text': 'Literary Universe has implemented various updates and changes to its codebase in preparation for GDPR enforcement on May 25th 2018.',
     'common.legal.dmca': 'DMCA',
-    'common.legal.dmca.long': 'Digital Millennium Copyright Act',
+    'common.legal.dmca.long': 'デジタルミレニアム著作権法(Digital Millennium Copyright Act)',
     'dmca.title': 'Digital Millennium Copyright Act (DMCA) Policy',
     'dmca.subtitle': 'Copyright Dispute Policy',
     'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
@@ -48,5 +48,5 @@ export default {
     'dmca.step2.desc1': 'Upon receiving your report we will verify your credentials and ownership claim. If everything is fine we will proceed to check claim. If we determine claim as true we will make the infringing property inaccessible until counter-notice determination or 14 days have passed after which it will be deleted.',
     'dmca.step3.desc1': 'Once a complaint has been received the owner of designated property will have 14 days to file a counter notice. Designated Agent will then proceed to investigate the dispute. Any decision by the Designated Agent at this stage will be final.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
-    'team.name.jdvorak': 'Jan Dvořák'
+    'team.name.jdvorak': 'ドヴォルザーク ジャン'
 };
