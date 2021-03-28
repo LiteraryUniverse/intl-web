@@ -4,25 +4,25 @@ export default {
     'encyclopedia.search': 'Search the encyclopedia',
     'encyclopedia.back.universe': 'Back to universe page',
     'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.categories': 'カテゴリー',
+    'encyclopedia.groups': 'ツリー表示',
+    'encyclopedia.category.character': 'キャラクター',
+    'encyclopedia.category.event': 'イベント',
+    'encyclopedia.category.group': 'グループ',
+    'encyclopedia.category.item': '項目',
+    'encyclopedia.category.location': '場所',
+    'encyclopedia.category.other': 'その他',
+    'encyclopedia.category.state': '国家',
+    'encyclopedia.category.governments': '政府',
+    'encyclopedia.category.languages': '語',
+    'encyclopedia.category.creatures': '生き物',
+    'encyclopedia.category.deity': '神',
+    'encyclopedia.category.religions': '宗教',
+    'encyclopedia.category.flora': '植物',
+    'encyclopedia.category.magic': '魔法',
+    'encyclopedia.category.planets': '惑星',
+    'encyclopedia.category.species': '正貨',
+    'encyclopedia.category.technologies': '技術',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -37,92 +37,92 @@ export default {
     one {one entry}
     other {# entries}
   } in this encyclopedia.`,
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
+    'encyclopedia.add.heading': '何を追加しますか？',
+    'encyclopedia.add.moresoon': 'より多くのカテゴリがまもなく登場します！',
+    'encyclopedia.create': `新しい{category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
+  }を作成する`,
+    'encyclopedia.create.header': `{universe}に新しい{category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
+  }を作成する`,
+    'encyclopedia.entry.category': `記事のカテゴリ: {category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-  }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
-    'encyclopedia.fields.image': 'Image',
-    'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
-    'encyclopedia.container': 'Container',
+    'encyclopedia.entry.category.legend': '記事のカテゴリ',
+    'encyclopedia.fields.add': '新しいフィールドを追加する',
+    'encyclopedia.fields.text': '定義',
+    'encyclopedia.fields.textarea': 'テキスト',
+    'encyclopedia.fields.connection': '接続',
+    'encyclopedia.fields.time': '時間',
+    'encyclopedia.fields.image': '画像',
+    'encyclopedia.visibility': '可視性',
+    'encyclopedia.public': '公衆',
+    'encyclopedia.private': '民間',
+    'encyclopedia.container': 'コンテナ',
     'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-    'encyclopedia.entry.name': 'Name of the entry',
-    'encyclopedia.summary': 'Summary',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
-    'encyclopedia.parent': 'Parent entry',
+    'encyclopedia.entry.name': '百科事典の記事の名前',
+    'encyclopedia.summary': '概要',
+    'encyclopedia.summary.desc': 'これは、読者に表示される唯一の初期情報となる要約です。',
+    'encyclopedia.parent': '関連百科事典の記事',
     'encyclopedia.related': 'Related entries',
     'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
-    'encyclopedia.field.private': 'Private field',
+    'encyclopedia.field.private': 'プライベートフィールド',
     'encyclopedia.ft.indev': 'This option is in development.',
-    'encyclopedia.connections.remove': 'Remove connection',
-    'encyclopedia.connections.extra': 'Extra information',
+    'encyclopedia.connections.remove': '接続を削除',
+    'encyclopedia.connections.extra': '既存の記事',
     'encyclopedia.connections.existing': 'Existing entry',
     'encyclopedia.connections.existing.abbr': 'EE',
     // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Cover image',
+    'encyclopedia.cover': '表紙画像',
     'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
     'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
     'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
@@ -130,21 +130,21 @@ export default {
     one {is one entry}
     other {are # entries}
   } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
+    'encyclopedia.settings.title': '百科事典の設定',
     'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
     'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
+    'encyclopedia.fields.placeholder': 'フィールド名',
+    'encyclopedia.fields.delete': 'フィールドを削除',
     'encyclopedia.timeOption.fictionalDate': 'Fictional date',
     'encyclopedia.timeOption.fictionalTime': 'Fictional time',
     'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
+    'encyclopedia.timeOption.date': '日付',
+    'encyclopedia.timeOption.time': '時間',
+    'encyclopedia.timeOption.dateTime': '日付時刻',
     'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
-    'encyclopedia.menuOpen': 'Open Encyclopedia menu',
-    'encyclopedia.menuClose': 'Close Encyclopedia menu',
-    'encyclopedia.menuAria': 'Encyclopedia menu',
+    'encyclopedia.menuOpen': '百科事典メニューを開く',
+    'encyclopedia.menuClose': '百科事典メニューを閉じる',
+    'encyclopedia.menuAria': '百科事典メニュー',
     'enc.newField': 'New field',
     'enc.entries.limit': `You currently have {value, number} out of {max, plural,
     =0 {unlimited}
