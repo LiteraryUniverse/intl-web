@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-03-29 - v1.0.0
+  * Crowdin translations implementation
+
 ## 2021-03-27 - v0.6.0
   * Changed structure to prepare for Crowdin translations
 
