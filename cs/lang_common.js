@@ -3,20 +3,12 @@
  */
 /* eslint-disable max-len */
 export default {
-    locales: [
-        'en',
-        'en-US',
-        'en-UK',
-        'en-CA',
-        'en-AU',
-        'en-NZ'
-    ],
     sitename: 'Literary Universe',
-    'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
-    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
-    'site.logoAlt': 'Literary Universe logo',
-    mobileMenu: 'Mobile menu',
-    'common.signin': 'Login',
+    'site.description': 'Literary Universe je tvůrčí a vydavatelská platforma pro velké příběhové vesmíry.',
+    'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasie, psaní, publikace, překlady, příběh, příběhy, vesmír',
+    'site.logoAlt': 'Logo Literary Universe',
+    mobileMenu: 'Mobilní menu',
+    'common.signin': 'Přihlásit se',
     'common.signup': 'Register',
     'common.signout': 'Logout',
     'common.dashboard': 'Dashboard',
