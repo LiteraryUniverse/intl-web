@@ -1,7 +1,7 @@
 export default {
-    'sharing.title': 'Share',
-    'sharing.copy': 'Copy',
-    'sharing.email': 'E-mail',
+    'sharing.title': 'Jaga',
+    'sharing.copy': 'Kopeeri',
+    'sharing.email': 'E-post',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
