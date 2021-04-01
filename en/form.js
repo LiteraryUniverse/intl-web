@@ -1,15 +1,15 @@
 export default {
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
+  'form.validator.required': 'Required field',
+  'form.validator.mustBeNumber': 'Must be a number',
+  'form.validator.minNumber': 'Should be greater than {min}',
+  'form.validator.maxNumber': 'Should be lower than {max}',
+  'form.validator.maxLength': `Should be less than {max} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
+  'form.validator.minLength': `Should be at least {min} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
