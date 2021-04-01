@@ -41,7 +41,7 @@ export default {
     'simpleschema.minCount': 'Musíte vybrat alespoň {minCount} hodnot',
     'simpleschema.maxCount': 'Nemůžete vybrat více jak {maxCount} hodnot',
     'simpleschema.noDecimal': '{label} musí být celé číslo',
-    'simpleschema.notAllowed': '{label} není povolená hodnota',
+    'simpleschema.notAllowed': '{value} není povolená hodnota',
     'simpleschema.expectedString': '{label} musí být text',
     'simpleschema.expectedNumber': '{label} musí být číslo',
     'simpleschema.expectedBoolean': '{label} musí být boolean',
