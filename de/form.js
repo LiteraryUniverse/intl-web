@@ -41,7 +41,7 @@ export default {
     'simpleschema.minCount': 'Sie müssen mindestens {minCount} Werte angeben',
     'simpleschema.maxCount': 'Sie können nicht mehr als {maxCount} Werte angeben',
     'simpleschema.noDecimal': '{label} muss eine Ganzzahl sein',
-    'simpleschema.notAllowed': '{label} is not an allowed value',
+    'simpleschema.notAllowed': '{value} is not an allowed value',
     'simpleschema.expectedString': '{label} must be a string',
     'simpleschema.expectedNumber': '{label} must be a number',
     'simpleschema.expectedBoolean': '{label} must be a boolean',
