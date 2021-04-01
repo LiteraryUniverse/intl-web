@@ -41,7 +41,7 @@ export default {
   'simpleschema.minCount': 'You must specify at least {minCount} values',
   'simpleschema.maxCount': 'You cannot specify more than {maxCount} values',
   'simpleschema.noDecimal': '{label} must be an integer',
-  'simpleschema.notAllowed': '{label} is not an allowed value',
+  'simpleschema.notAllowed': '{value} is not an allowed value',
   'simpleschema.expectedString': '{label} must be a string',
   'simpleschema.expectedNumber': '{label} must be a number',
   'simpleschema.expectedBoolean': '{label} must be a boolean',
