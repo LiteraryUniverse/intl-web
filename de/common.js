@@ -106,16 +106,16 @@ export default {
     female {Joined}
     other {Joined}} on `,
     // keep the space at the end
-    'user.friend.request.accept': 'Accept friendship request',
+    'user.friend.request.accept': 'Akzeptiere eine Freundschaftsanfrage',
     'user.friend.request.cancel': 'Cancel friendship request',
     'user.friend.request.deny': 'Deny friendship',
     'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'universe.visit': 'Visit universe page',
-    'common.fanfiction': 'Fan Fiction',
+    'user.profile.visit': 'Besuchen Sie das Profil von {user}.',
+    'user.profile.avatar': 'Avatar von {username}',
+    'user.friend.list.requests': 'Freundschaftsanfragen',
+    'user.friend.norequests': 'Sie haben keine Freundschaftsanfragen.',
+    'universe.visit': 'Besuche die Universum Seite',
+    'common.fanfiction': 'Fan-Fiktion',
     'universe.fanfiction.see': 'All Fan Fiction for ',
     'universe.fanfiction.desc': 'Fan Fiction for {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
@@ -177,11 +177,11 @@ export default {
     'library.bought': 'Bought stories',
     'library.stories': 'Followed stories',
     'library.universes': 'Folgendes Universum',
-    copyrights: 'Copyrights',
+    copyrights: 'Copyright',
     'common.challenges': 'Challenges',
     // for beta only
     'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
-    'beta.thanks': 'Thank you for your support!',
+    'beta.thanks': 'Vielen Dank für Ihre Unterstützung!',
     'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
     // added 2016-11-02
     'common.feedback': 'Feedback',
@@ -260,18 +260,18 @@ export default {
     // added 2019-05-06
     'universe.authors.title.meta': '{title} authors',
     // added 2019-10-04
-    'common.legal.gdpr': 'GDPR',
-    'common.legal.gdpr.long': 'General Data Protection Regulation',
+    'common.legal.gdpr': 'DSGVO',
+    'common.legal.gdpr.long': 'Allgemeine Datenschutzverordnung (DSGVO)',
     'writer.undo': 'Undo',
     'writer.redo': 'Redo',
     'writer.ul': 'Unordered list',
     'writer.ol': 'Ordered list',
     'writer.blockquote': 'Quote',
     'writer.link': 'Insert a link',
-    'writer.image': 'Insert an image',
+    'writer.image': 'Ein Bild einfügen',
     // Added 2019-10-16
-    'editor.placeholder.link': 'Enter URL...',
-    'editor.placeholder.connection': 'Search for encyclopedia entry...',
+    'editor.placeholder.link': 'URL eingeben...',
+    'editor.placeholder.connection': 'Suche nach Enzyklopädie Eintrag...',
     // Added 2019-10-20
     'editor.saved.beta': 'New revision for Beta readers created!',
     'editor.saved.public': 'New version published!',
@@ -300,11 +300,11 @@ export default {
     // Added 2019-12-01
     'common.members': 'Members',
     // Added 2020-02-03
-    'auditLog.header.date': 'Date',
-    'auditLog.header.action': 'What',
-    'auditLog.header.group': 'Group',
-    'auditLog.header.user': 'Who',
-    'common.language': 'Language',
+    'auditLog.header.date': 'Datum',
+    'auditLog.header.action': 'Was',
+    'auditLog.header.group': 'Gruppe',
+    'auditLog.header.user': 'Wer',
+    'common.language': 'Sprache',
     // Added 2020-05-13
     'writer.menu.optionsAria': 'Editor options menu',
     'writer.menu.saveOptionsAria': 'Save options',
