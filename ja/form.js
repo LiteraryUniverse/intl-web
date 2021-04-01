@@ -41,7 +41,7 @@ export default {
     'simpleschema.minCount': '{label} は{minCount}項目以上で指定してください',
     'simpleschema.maxCount': '{label} は{maxCount}項目以内で指定してください',
     'simpleschema.noDecimal': '{label} は整数で入力してください',
-    'simpleschema.notAllowed': '{label} は有効ではない',
+    'simpleschema.notAllowed': '{value} is not an allowed value',
     'simpleschema.expectedString': '{label} は文字列で入力してください',
     'simpleschema.expectedNumber': '{label} は数値で入力してください',
     'simpleschema.expectedBoolean': '{label} は真偽で入力してください',
