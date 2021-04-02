@@ -1,7 +1,7 @@
 export default {
-    'sharing.title': 'Share',
-    'sharing.copy': 'Copy',
-    'sharing.email': 'E-mail',
+    'sharing.title': 'แบ่งปัน',
+    'sharing.copy': 'คัดลอก',
+    'sharing.email': 'อีเมล์',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
