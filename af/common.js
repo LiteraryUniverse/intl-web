@@ -16,10 +16,10 @@ export default {
     'common.library': 'Library',
     'common.library.own': 'Your Library',
     'common.workshop': 'Workshop',
-    'common.pm': 'Messages',
+    'common.pm': 'Boodskappe',
     'common.settings': 'Settings',
     'common.options': 'Options',
-    'common.profile': 'Profile',
+    'common.profile': 'Profiel',
     'common.blog': 'Blog',
     'common.blogs': 'Blogs',
     'common.about': 'About us',
@@ -39,13 +39,13 @@ export default {
     'common.showmore': 'Show more',
     'common.futurefeature.title': 'Future feature',
     'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
-    'common.nothingfound': 'Nothing found',
+    'common.nothingfound': 'Niks gevind',
     'common.explore': 'Explore',
     'common.by': 'by ',
     // keep the space at the end as username follows
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
-    'common.news': 'News',
+    'common.news': 'Nuus',
     'common.encyclopedia': 'Encyclopedia',
     'common.story': 'Story',
     'common.stories': 'Stories',
@@ -79,13 +79,13 @@ export default {
     'email.verification': 'E-mail verification',
     'email.verifying': 'Verifying your e-mail. This will take just a moment...',
     'email.verified': 'Great news! Your e-mail has been verified!',
-    'dashboard.whatsnew': 'What is new',
+    'dashboard.whatsnew': 'Wat\'s nuut',
     'dashboard.blog': 'Your blog',
     'common.footer.tagline': 'Writing and reading complex universes made easy.',
     'common.footer.plans': 'Plans & Pricing',
-    'common.legal.tos': 'Terms of Service',
+    'common.legal.tos': 'Terme van diens',
     'common.legal.community': 'Community Guidelines',
-    'common.legal.privacy': 'Privacy Policy',
+    'common.legal.privacy': 'Privaatheidsbeleid',
     'common.legal.copyright': 'Copyright Agreement',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'Not high enough membership rank',
@@ -177,7 +177,7 @@ export default {
     'library.bought': 'Bought stories',
     'library.stories': 'Followed stories',
     'library.universes': 'Followed universe',
-    copyrights: 'Copyrights',
+    copyrights: 'Kopiereg',
     'common.challenges': 'Challenges',
     // for beta only
     'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
@@ -206,8 +206,8 @@ export default {
     // added 2017-03-28
     buy: 'Buy',
     // added 2017-03-31
-    confirm: 'Confirm',
-    cancel: 'Cancel',
+    confirm: 'Bevestig',
+    cancel: 'Kanselleer',
     // added 2017-04-14
     processing: 'Processing...',
     // added 2017-10-04
@@ -224,8 +224,8 @@ export default {
     // added 2018-04-27
     'legal.modal.goToSettings': 'Go to your settings',
     // added 2018-04-30
-    male: 'Male',
-    female: 'Female',
+    male: 'Manlik',
+    female: 'Vroulik',
     // added 2018-05-18
     'common.legal.effectiveAt': 'Effective from',
     // added 2018-05-24
@@ -251,10 +251,10 @@ export default {
     // added 2019-01-12
     'errorLoading.title': 'Error during page load',
     'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
-    'errorLoading.retry': 'Retry!',
+    'errorLoading.retry': 'Probeer weer!',
     'errorLoading.takingLong': 'This is taking a long time...',
     // added 2019-02-21
-    'common.title': 'Title',
+    'common.title': 'Titel',
     // added 2019-05-05
     'common.timelines': 'Timelines',
     // added 2019-05-06
@@ -300,17 +300,17 @@ export default {
     // Added 2019-12-01
     'common.members': 'Members',
     // Added 2020-02-03
-    'auditLog.header.date': 'Date',
-    'auditLog.header.action': 'What',
-    'auditLog.header.group': 'Group',
+    'auditLog.header.date': 'Datum',
+    'auditLog.header.action': 'Wat',
+    'auditLog.header.group': 'Groep',
     'auditLog.header.user': 'Who',
-    'common.language': 'Language',
+    'common.language': 'Taal',
     // Added 2020-05-13
     'writer.menu.optionsAria': 'Editor options menu',
     'writer.menu.saveOptionsAria': 'Save options',
     'reader.menu.optionsAria': 'Reader options menu',
     // Added 2020-05-16
-    next: 'Next',
+    next: 'Volgende',
     'common.legal.tos.short': 'Terms',
     'common.legal.privacy.short': 'Privacy',
     'premium.increaseLimit': 'Consider upgrading to increase you limit.',
@@ -326,20 +326,20 @@ export default {
     'externalShopping.buyLink.amazon': 'Buy on Amazon',
     'externalShopping.buyLink.other': 'Buy on {storyName}',
     // Added 2020-12-26
-    'common.sharing': 'Sharing',
+    'common.sharing': 'Meedeling',
     // Added 2021-02-14
     'story.isbn': 'ISBN',
     // Added 2021-02-26
-    'common.name': 'Name',
+    'common.name': 'Naam',
     // Added 2021-03-04
-    'common.remove': 'Remove',
+    'common.remove': 'Verwyder',
     // Added 2021-03-12
-    'common.time.milliseconds': 'Milliseconds',
-    'common.time.seconds': 'Seconds',
-    'common.time.minutes': 'Minutes',
-    'common.time.hours': 'Hours',
-    'common.time.days': 'Days',
-    'common.time.weeks': 'Weeks',
-    'common.time.months': 'Months',
-    'common.time.years': 'Years'
+    'common.time.milliseconds': 'Millisekondes',
+    'common.time.seconds': 'Sekondes',
+    'common.time.minutes': 'Minute',
+    'common.time.hours': 'Ure',
+    'common.time.days': 'Dae',
+    'common.time.weeks': 'Weke',
+    'common.time.months': 'Maande',
+    'common.time.years': 'Jare'
 }    /* eslint-enable max-len */;
