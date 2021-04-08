@@ -30,19 +30,14 @@ export default {
     'email.verifyEmail.button': 'メールによる確認',
     // Getting premium from admins
     'email.adminUpgrade.subject': '文学の宇宙のアカウントがアップグレードされました',
-    'email.adminUpgrade.message': `アカウントを次の{days}日間の{plan, select,
+    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
-    initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  }プランにアップグレードしました。
-\n\n
-楽しい\n
-文学の宇宙チーム`,
-    'email.adminUpgrade.messageHtml': `アカウントを次の{days}日間の{plan, select,
+  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
-    initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  }プランにアップグレードしました。 楽しい！`
+  } tier for the next {days} days. Enjoy!`
 }    /* eslint-enable max-len */;
