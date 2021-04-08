@@ -31,13 +31,11 @@ export default {
     'email.adminUpgrade.subject': 'Your account has been upgraded',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
-    initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
     'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
-    initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
   } tier for the next {days} days. Enjoy!`
