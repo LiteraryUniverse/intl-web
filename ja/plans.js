@@ -10,10 +10,8 @@ export default {
     'plans.account.user.desc': '試してみるための最初のトライアルアカウント。',
     'plans.account.explorer': '冒険者',
     'plans.account.explorer.desc': '愛好家や友人のために。',
-    'plans.account.initiate': '見習',
-    'plans.account.initiate.desc': '初心者のクリエイターと読者のために。',
     'plans.account.adventurer': '冒険家',
-    'plans.account.adventurer.desc': '熱心なクリエイターと私たちのサポーターのために。',
+    'plans.account.adventurer.desc': 'For creators & our supporters.',
     'plans.account.storyteller': '語り部',
     'plans.account.storyteller.desc': '最も創造的で献身的な人のために。',
     'plans.unlimited': '無制限',
@@ -65,7 +63,7 @@ export default {
     'payments.zipcode.label': 'ZIP code',
     'payment.card.name': 'Name on card',
     'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-    'plans.subscribed.periodEnd': `Your subscription is valid until: {end, date, medium}`,
+    'plans.subscribed.periodEnd': 'Your subscription is valid until: {end, date, medium}',
     'plans.subscribed.renewal': `At the end your subscription will be {method, select,
     charge_automatically {renewed automatically}
     send_invoice {renewed after paying an invoice}
@@ -126,5 +124,5 @@ export default {
     'payment.method.add': 'Add a new payment method',
     'payment.methods.adding': 'You new payment method has been added to your account.',
     'payment.methods.delete': 'Delete payment method',
-    'payment.upgradePlan.option': `{plan} - {price}`
+    'payment.upgradePlan.option': '{plan} - {price}'
 };
