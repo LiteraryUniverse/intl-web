@@ -10,10 +10,8 @@ export default {
     'plans.account.user.desc': '試してみるための最初のトライアルアカウント。',
     'plans.account.explorer': '冒険者',
     'plans.account.explorer.desc': '愛好家や友人のために。',
-    'plans.account.initiate': '見習',
-    'plans.account.initiate.desc': '初心者のクリエイターと読者のために。',
     'plans.account.adventurer': '冒険家',
-    'plans.account.adventurer.desc': '熱心なクリエイターと私たちのサポーターのために。',
+    'plans.account.adventurer.desc': 'クリエイターとサポーターのために。',
     'plans.account.storyteller': '語り部',
     'plans.account.storyteller.desc': '最も創造的で献身的な人のために。',
     'plans.unlimited': '無制限',
@@ -64,8 +62,8 @@ export default {
     'payment.creditCard.details': 'Credit Card details',
     'payments.zipcode.label': 'ZIP code',
     'payment.card.name': 'Name on card',
-    'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-    'plans.subscribed.periodEnd': `Your subscription is valid until: {end, date, medium}`,
+    'plans.subscribed.thankYou': '文学の宇宙を支援していただきありがとうございます。',
+    'plans.subscribed.periodEnd': 'Your subscription is valid until: {end, date, medium}',
     'plans.subscribed.renewal': `At the end your subscription will be {method, select,
     charge_automatically {renewed automatically}
     send_invoice {renewed after paying an invoice}
@@ -91,17 +89,17 @@ export default {
     'plans.change.button': 'Change subscription',
     'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
     'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
-    'plans.change.upgrade': 'Upgrade',
+    'plans.change.upgrade': 'アップグレード',
     'payments.disclaimer': 'Payment information and processing is done via Stripe. We do not keep any credit card or bank account information on our servers.',
     'buy.payment.optionsSelect': 'Select payment option',
-    'payments.card.number': 'Card number',
+    'payments.card.number': 'カード番号',
     'payments.card.expire': 'Valid Thru',
     'payments.card.cvv': 'CVV',
     'payments.card.info': '{cardType} card, ending in {ending}',
     'payments.none': 'No saved payment options found.',
     'payments.added': 'New payment option has been successfully added.',
     'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
-    'payment.invoice.status': 'Invoice status',
+    'payment.invoice.status': '請求書のステータス',
     'payment.invoice.statusMessage': `{status, select,
     draft {Draft}
     open {Open}
@@ -109,12 +107,12 @@ export default {
     uncollectible {Uncollectible}
     void {Void}
   }`,
-    'payment.invoice.id': 'Invoice id',
-    'payment.invoice.pdf': 'Invoice pdf',
-    'payment.invoice.total': 'Total',
-    'payment.invoice.what': 'Invoice description',
+    'payment.invoice.id': '請求書ID',
+    'payment.invoice.pdf': '請求書のpdf',
+    'payment.invoice.total': '合計',
+    'payment.invoice.what': '請求書の説明',
     'payment.stripe.powered': 'Powered by ',
-    'payment.listMethods.card': 'Cards',
+    'payment.listMethods.card': 'カード',
     'payment.expiresAt': 'Expires {month}/{year}',
     'payment.card.details': `{type, select,
     credit {Credit card}
@@ -126,5 +124,5 @@ export default {
     'payment.method.add': 'Add a new payment method',
     'payment.methods.adding': 'You new payment method has been added to your account.',
     'payment.methods.delete': 'Delete payment method',
-    'payment.upgradePlan.option': `{plan} - {price}`
+    'payment.upgradePlan.option': '{plan} - {price}'
 };

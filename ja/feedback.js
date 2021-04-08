@@ -26,9 +26,9 @@ export default {
     'feedback.copyrightReport.desc': 'Report Copyright violation',
     'feedback.report.noUser': 'You need to be signed in, in order to file a report.',
     'feedback.voting.totalVoters': 'Users voted: {voted, number}',
-    'feedback.voting.upvote': 'Up vote',
+    'feedback.voting.upvote': 'アップ投票',
     'feedback.voting.downvote': 'Down vote',
-    'feedback.voting.score': 'Total score',
+    'feedback.voting.score': '累計スコア',
     'feedback.report.title': 'Report content',
     'feedback.report.typeSelect': 'What is the issue here?',
     'feedback.reportType.law': 'Law violation',
@@ -42,9 +42,9 @@ export default {
     'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
     'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
     'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
+    'feedback.report.copyrightInternalProperty': '私はこの作品を文学の宇宙について発表しました。',
     'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
+    'feedback.reportType.other': 'その他',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}

@@ -10,10 +10,8 @@ export default {
     'plans.account.user.desc': 'Počáteční zkušební účet na vyzkoušení.',
     'plans.account.explorer': 'Průzkumník',
     'plans.account.explorer.desc': 'Pro hobbisty a přátele.',
-    'plans.account.initiate': 'Novic',
-    'plans.account.initiate.desc': 'Pro začínající tvůrce a čtenáře.',
     'plans.account.adventurer': 'Dobrodruh',
-    'plans.account.adventurer.desc': 'Pro obětavého tvůrce a naše příznivce.',
+    'plans.account.adventurer.desc': 'Pro tvůrce a naše příznivce.',
     'plans.account.storyteller': 'Vypravěč',
     'plans.account.storyteller.desc': 'Pro nejkreativnější a nejoddanější.',
     'plans.unlimited': 'Bez omezení',
@@ -65,7 +63,7 @@ export default {
     'payments.zipcode.label': 'PSČ',
     'payment.card.name': 'Jméno na kartě',
     'plans.subscribed.thankYou': 'Děkujeme, že jste podpořili Literary Universe',
-    'plans.subscribed.periodEnd': `Vaše předplatné je platné do: {end, date, medium}`,
+    'plans.subscribed.periodEnd': 'Vaše předplatné je platné do: {end, date, medium}',
     'plans.subscribed.renewal': `Na konci bude Vaše předplatné {method, select,
     charge_automatically {automaticky obnoveno}
     send_invoice {obnoveno po zaplacení faktury}
@@ -126,5 +124,5 @@ export default {
     'payment.method.add': 'Přidat novou možnost platby',
     'payment.methods.adding': 'Váš nový způsob platby byl přidán k vašemu účtu.',
     'payment.methods.delete': 'Odstranit způsob platby',
-    'payment.upgradePlan.option': `{plan} - {price}`
+    'payment.upgradePlan.option': '{plan} - {price}'
 };
