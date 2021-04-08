@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-04-08 - v1.0.1
+  * Removed Initiate subscription plan
+
 ## 2021-03-29 - v1.0.0
   * Crowdin translations implementation
 
