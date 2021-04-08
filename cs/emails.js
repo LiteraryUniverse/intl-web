@@ -31,7 +31,6 @@ To activate your account, simply click the link below:\n\n{url}`,
     'email.adminUpgrade.subject': 'Váš účet byl upgradován',
     'email.adminUpgrade.message': `Upgradovali jsme Váš účet na {plan, select,
     explorer {Explorer}
-    initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
   } plán na následujících {days} dní.\n\n
@@ -39,7 +38,6 @@ S přáním hezkého dne,\n
 Literary Universe tým`,
     'email.adminUpgrade.messageHtml': `Upgradovali jsme Váš účet na {plan, select,
     explorer {Explorer}
-    initiate {Initiate}
     adventurer {Adventurer}
     storyteller {Storyteller}
   } plán na následujících {days} dní.`
