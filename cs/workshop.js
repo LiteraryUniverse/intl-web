@@ -118,7 +118,7 @@ export default {
     'workshop.story.notes.desc': 'Poznámky k příběhu.',
     'workshop.story.notes.tile': 'Poznámky',
     'workshop.hideOrgs': 'Skrýt obsah od organizací',
-    'workshop.translation.premium': 'Chcete-li přidat překlady, musíte mít alespoň Novic předplatné.',
+    'workshop.translation.premium': 'Chcete-li přidat překlady, musíte mít alespoň "Průzkumník" předplatné.',
     'workshop.story.finished': 'Příběh je dokončen',
     'workshop.story.publishing.externalSellingNotice': 'Vzhledem k tomu, že prodáváte mimo Literary Universe můžeš publikovat příběh nyní. Odkazy na Vaš obchod se objeví na příběhu nebo na konci aktuálního příběhu, který můžete zde publikovat.',
     'workshop.sharing.publicURL': 'Veřejná verze',
@@ -206,5 +206,5 @@ export default {
     'fictionalTime.inputFrom': 'Z',
     'fictionalTime.inputSelectTimeUnit': 'Vyberte časovou jednotku',
     'fictionalTime.inputSelectETUnit': 'Vyberte časovou jednotku Země',
-    'fictionalTime.ETDateToTimeDate': `{date, date, medium} = {timeDate}`
+    'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}'
 };
