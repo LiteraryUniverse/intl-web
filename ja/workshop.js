@@ -117,7 +117,7 @@ export default {
     'workshop.story.notes.desc': 'Overview notes for the story.',
     'workshop.story.notes.tile': 'Overview notes',
     'workshop.hideOrgs': '組織からコンテンツを非表示にする',
-    'workshop.translation.premium': 'In order to add translations, you need to have at least Initiate subscription.',
+    'workshop.translation.premium': 'In order to add translations, you need to have at least Explorer subscription.',
     'workshop.story.finished': '物語が完成しました',
     'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
     'workshop.sharing.publicURL': '公開版',
@@ -201,5 +201,5 @@ export default {
     'fictionalTime.inputFrom': 'From',
     'fictionalTime.inputSelectTimeUnit': 'Select time unit',
     'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
-    'fictionalTime.ETDateToTimeDate': `{date, date, medium} = {timeDate}`
+    'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}'
 };
