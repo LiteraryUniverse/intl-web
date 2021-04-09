@@ -19,7 +19,10 @@ export default {
     'challenges.future.wordcount': 'Výzva na počet slov, začínající {startDate, date, short} s cílem dosáhnout {target, number} slov k {endDate, date, short}',
     'challenges.future.nanowrimo': 'NaNoWriMo výzva je připravena.',
     'challenges.wordcount': 'Počet slov',
-    'challenges.wordcount.desc': 'Nastavte si cíl kolik slov chcete napsat tento měsíc pro tento příběh.',
+    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for his {type, select,
+    story {story}
+    universe {universe}
+  }.`,
     'challenges.wordcount.select': 'Ke kolika slovům se chcete vyzvat?',
     'challenges.start': 'Zahájit výzvu',
     'challenges.report': 'Nahlásit',
