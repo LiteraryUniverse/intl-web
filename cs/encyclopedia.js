@@ -30,8 +30,8 @@ export default {
     other {# možných článků nalezeno}
   }.`,
     'encyclopedia.help.text': 'Pomocí menu vlevo se můžete pohybovat mezi položkami v encyklopedii. Jakmile vyberete položku, zobrazí se místo tohoto textu.',
-    'encyclopedia.help.sidebar': 'Postranní Encyklopedie',
-    'encyclopedia.help.sidebar.text': 'Pomocí výše uvedeného výběru můžete vyhledávat, procházet a přidávat nové položky do encyklopedie. Pokud chcete přidat spojení k záznamu z textu příběhu, vyberte text, kde ho chcete umístit, a poté klikněte na tlačítko připojit. Poté budete vyzváni k nalezení a výběru položky.',
+    'encyclopedia.help.sidebar': 'Postranní nástroje',
+    'encyclopedia.help.sidebar.text': 'Vítej ve svém příběhu! Tento postranní panel Vám umožní snadný přístup ke všem nástrojům a informacím souvisejícím příběhem. Podívejte se na ikony výše, abyste viděli poslední komentáře, Vaše poznámky, prohledávání encyklopedie, procházení a přidávání nových položek do encyklopedie. Pro propojení části textu se záznamem v encyklopedii, vyberte text, kde ho chcete umístit, a poté klikněte na tlačítko připojit 🔍. Poté budete vyzváni k nalezení a výběru položky.',
     'encyclopedia.intro': 'Vítejte v encyklopedii pro {universe}.',
     'encyclopedia.entries.total': `Encyklopedie momentálně obsahuje {num, plural,
     =0 {nula článků}

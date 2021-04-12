@@ -19,7 +19,10 @@ export default {
     'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}',
     'challenges.future.nanowrimo': 'NaNoWriMo challenge is ready.',
     'challenges.wordcount': 'Word count',
-    'challenges.wordcount.desc': 'Set yourself a goal of how many words you want to write this month for his story.',
+    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for his {type, select,
+    story {story}
+    universe {universe}
+  }.`,
     'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
     'challenges.start': 'チャレンジを開始',
     'challenges.report': '概要',
