@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-04-12 - v1.0.2
+  * Add new keys for sidebar intro and adjusted the one for encyclopedia
+
 ## 2021-04-08 - v1.0.1
   * Removed Initiate subscription plan
 
