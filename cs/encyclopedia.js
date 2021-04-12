@@ -30,8 +30,8 @@ export default {
     other {# možných článků nalezeno}
   }.`,
     'encyclopedia.help.text': 'Pomocí menu vlevo se můžete pohybovat mezi položkami v encyklopedii. Jakmile vyberete položku, zobrazí se místo tohoto textu.',
-    'encyclopedia.help.sidebar': 'Postranní Encyklopedie',
-    'encyclopedia.help.sidebar.text': 'Pomocí výše uvedeného výběru můžete vyhledávat, procházet a přidávat nové položky do encyklopedie. Pokud chcete přidat spojení k záznamu z textu příběhu, vyberte text, kde ho chcete umístit, a poté klikněte na tlačítko připojit. Poté budete vyzváni k nalezení a výběru položky.',
+    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'Vítejte v encyklopedii pro {universe}.',
     'encyclopedia.entries.total': `Encyklopedie momentálně obsahuje {num, plural,
     =0 {nula článků}
