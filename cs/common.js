@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-    sitename: 'Literary Universe',
+    siteName: 'Literary Universe',
     'site.description': 'Literary Universe je tvůrčí a vydavatelská platforma pro velké příběhové vesmíry.',
     'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasie, psaní, publikace, překlady, příběh, příběhy, vesmír',
     'site.logoAlt': 'Logo Literary Universe',
@@ -76,9 +76,6 @@ export default {
     'signup.password.repeat': 'Zopakujte heslo',
     'common.password': 'Heslo',
     'signin.password.forgot': 'Zapomenuté heslo?',
-    'email.verification': 'Ověření emailu',
-    'email.verifying': 'Ověřování Vašeho e-mailu. To zabere jen chvilku...',
-    'email.verified': 'Skvělé zprávy! Váš e-mail byl ověřen!',
     'dashboard.whatsnew': 'Co je nového',
     'dashboard.blog': 'Váš blog',
     'common.footer.tagline': 'Psaní a čtení komplexních vesmírů jednoduše.',
@@ -92,54 +89,8 @@ export default {
     'premium.only.msg': 'Omlouváme se, ale Vaše členství nemá povolenou tuto funkcionalitu.',
     'premium.only.join': 'Nabízíme různé placená členství přizpůsobena pro všechny.',
     'premium.only.link': 'Mrkněte na to!',
-    'user.friend.request.add': 'Přidat mezi přátele',
-    'user.friend.requests': `Máte {num} {num, plural,
-    zero {nových žádostí}
-    one {novou žádost}
-    few {nové žádosti}
-    other {nových žádostí}
-  } o přátelství`,
-    'user.friend.unfriend': 'Odebrat z přátel',
-    'user.block': 'Blokovat',
-    'user.unblock': 'Odblokovat',
-    'user.joined': `{gender, select,
-    male {Přidal}
-    female {Přidala}
-    other {Přidali}} se `,
-    // keep the space at the end
-    'user.friend.request.accept': 'Přijmout žádost o přátelství',
-    'user.friend.request.cancel': 'Zrušit žádost o přátelství',
-    'user.friend.request.deny': 'Odmítnout přátelství',
-    'user.listing': 'Seznam uživatelů',
-    'user.profile.visit': 'Navštívit profil {user}.',
-    'user.profile.avatar': 'Avatar uživatele {username}',
-    'user.friend.list.requests': 'Žádosti o přátelství',
-    'user.friend.norequests': 'Nemáte žádné žádosti o přátelství.',
     'universe.visit': 'Navštívit stránku vesmíru',
     'common.fanfiction': 'Fan fikce',
-    'universe.fanfiction.see': 'Všechny fan fikce pro ',
-    'universe.fanfiction.desc': 'Fan fikce pro {universe}',
-    'universe.fanfiction.for': '{universe} Fan fikce',
-    'universe.stories.count': `Tento vesmír {num, plural,
-    =0 {nemá žádné příběhy}
-    one {má jeden příběh}
-    few {má # příběhy}
-    other {má # příběhů}
-  }.`,
-    'universe.authors.title': 'Autoři',
-    'universe.authors.desc': 'Tvůrci a přispěvatelé do {universe}',
-    'universe.contributors': 'Přispěvatelé',
-    'universe.translators': 'Překladatelé',
-    'universe.authors.notice': 'Každý příběh může mít další osobu, která na něm pracuje. Další podrobnosti naleznete v podrobnostech příběhu.',
-    'universe.createdby': `{gender, select,
-    male {Vyvořil}
-    female {Vytvořila}
-    other {Vytvořil}} `,
-    'universe.stories.for': 'Příběhy z {universe}',
-    'universe.stories.own': '{universe} příběhy',
-    'universe.stories.desc': 'Cannon příběhy pro {universe}',
-    'universe.encyclopedia.title': '{universe} encyklopedie',
-    'universe.encyclopedia.desc': 'Všechny podrobnosti pro {universe}',
     'story.chapter': 'Kapitola',
     'story.chapters': 'Kapitoly',
     'story.genre': 'Žánr',
@@ -149,37 +100,7 @@ export default {
     'story.finishedAt': 'Dokončeno {date, date, medium}.',
     'story.comments.for': 'Komentáře pro {story} {chapter}.',
     'story.cover.alt': 'Obal příběhu {story}.',
-    'chapter.comment': 'Komentáře k této kapitole',
-    'comment.write': 'Napište svůj komentář',
-    'comments.none': 'Omlouváme se, ale nemáme žádné komentáře k zobrazení.',
-    'comments.total': `Celkem {count, plural,
-    zero {0 komentářů}
-    one {1 komentář}
-    few {# komentáře}
-    other {# komentářů}
-  }.`,
-    'comments.show.older': 'Zobrazit starší komentáře',
-    'reader.language': 'Jazyk:',
-    'reader.fullscreen.enter': 'Zobrazit na celou obrazovku',
-    'reader.fullscreen.exit': 'Ukončit režim celé obrazovky',
     'story.note.fanfiction': 'POZNÁMKA: Tento příběh je fan fikce v {universe} vesmíru.',
-    'chapter.next': 'Další kapitola',
-    'chapter.previous': 'Předchozí kapitola',
-    'reader.details.universe': 'Detaily vesmíru',
-    'reader.details.story': 'Podrobnosti o příběhu',
-    'reader.darkmode': 'Přepnout tmavý režim',
-    'reader.flowtext': 'Přepnout velikost textu',
-    'writer.bold': 'Tučně vybraný',
-    'writer.underline': 'Podtrhnout výběr',
-    'writer.italic': 'Zdůraznit výběr',
-    'finder.details': 'podrobnosti',
-    'finder.remove': 'odstranit spojení',
-    'finder.connect': 'Připojit výběr ke záznamu v encyklopedii',
-    'library.add': 'Přidat do knihovny',
-    'library.remove': 'Odebrat z knihovny',
-    'library.bought': 'Zakoupené příběhy',
-    'library.stories': 'Sledované příběhy',
-    'library.universes': 'Sledované vesmíry',
     copyrights: 'Autorská práva',
     'common.challenges': 'Výzvy',
     // for beta only
@@ -202,10 +123,6 @@ export default {
     // added 2017-01-27
     'lang.orig': 'Původní jazyk',
     'lang.orig.plus': 'Původní jazyk - {language}',
-    // added 2017-02-12
-    'reader.accessibility': 'Přepnout přístupnost',
-    // added 2017-02-20
-    'chapter.translation.notYet': 'Tato kapitola ještě nebyla přeložena.',
     // added 2017-03-28
     buy: 'Koupit',
     // added 2017-03-31
@@ -214,18 +131,11 @@ export default {
     // added 2017-04-14
     processing: 'Probíhá zpracování...',
     // added 2017-10-04
-    'common.nodata': 'Žádná data',
+    'common.noData': 'No data',
     // added 2017-11-25
     'error.title': 'Došlo k chybě. Omlouváme se za nepříjemnosti.',
     // added 2018-04-20
     'common.offlineStatus': 'Jste nyní v režimu offline.',
-    // added 2018-04-22
-    'legal.modal.intro': 'Omlouváme se za přerušení. Než Vás však necháme dále pokračovat, jsme právně vázáni, abyste se ujistili, že jste si vědomi našich smluvních podmínek, zásad ochrany osobních údajů a dohody o autorských právech a souhlasíte s nimi.',
-    'legal.modal.agree': 'Přijmout',
-    'legal.modal.disagree': 'Odmítnout',
-    'legal.modal.register': 'Toto již nebude vidět, pokud se zaregistrujete.',
-    // added 2018-04-27
-    'legal.modal.goToSettings': 'Přejít do nastavení',
     // added 2018-04-30
     male: 'Muž',
     female: 'Žena',
@@ -233,10 +143,6 @@ export default {
     'common.legal.effectiveAt': 'Účinné od',
     // added 2018-05-24
     select: 'Prosím vyberte',
-    'legal.modal.fewmore': 'Několik dalších věcí...',
-    'legal.modal.finish': 'Dokončit',
-    // added 2018-05-30
-    'writer.wordcount': '{characters, number} znaků, {words, number} slov',
     // added 2018-06-05
     'common.statusFailed': 'Nepodařilo se připojit k serveru.',
     'common.statusConnecting': 'Pokouším se připojit k serveru... ({count, number})',
@@ -260,18 +166,9 @@ export default {
     'common.title': 'Název',
     // added 2019-05-05
     'common.timelines': 'Časové osy',
-    // added 2019-05-06
-    'universe.authors.title.meta': '{title} autoři',
     // added 2019-10-04
     'common.legal.gdpr': 'GDPR',
     'common.legal.gdpr.long': 'Obecné nařízení o ochraně údajů',
-    'writer.undo': 'Zpět',
-    'writer.redo': 'Dopředu',
-    'writer.ul': 'Nečíslovaný seznam',
-    'writer.ol': 'Uspořádáný seznam',
-    'writer.blockquote': 'Citace',
-    'writer.link': 'Vložit odkaz',
-    'writer.image': 'Vložit obrázek',
     // Added 2019-10-16
     'editor.placeholder.link': 'Zadejte URL adresu...',
     'editor.placeholder.connection': 'Hledat záznam v encyklopedii...',
@@ -300,34 +197,12 @@ export default {
     'story.notes.audience': 'Cílové publikum',
     'story.notes.pitch': 'Představení příběhu (pitch)',
     'story.notes.notes': 'Poznámky',
-    // Added 2019-12-01
     'common.members': 'Členové',
-    // Added 2020-02-03
-    'auditLog.header.date': 'Datum',
-    'auditLog.header.action': 'Co',
-    'auditLog.header.group': 'Skupina',
-    'auditLog.header.user': 'Kdo',
     'common.language': 'Jazyk',
-    // Added 2020-05-13
-    'writer.menu.optionsAria': 'Možnosti editoru',
-    'writer.menu.saveOptionsAria': 'Možnosti uložení',
-    'reader.menu.optionsAria': 'Nabídka možností čtení',
-    // Added 2020-05-16
     next: 'Další',
     'common.legal.tos.short': 'Podmínky',
     'common.legal.privacy.short': 'Soukromí',
     'premium.increaseLimit': 'Zvažte upgrade pro zvýšení limitu.',
-    // Added 2020-11-22
-    'reader.storyEnd.heading': 'KONEC',
-    'reader.storyEnd.description': 'Jste na konci příběhu.',
-    'reader.externalSale.heading': 'Nic tady ještě není',
-    'reader.externalSale.description': 'Tento příběh není k dispozici na Literary Universe, ale můžeš ho získat na jiných místech.',
-    'reader.storyTBC.heading': 'Pokračování příště...',
-    'reader.storyTBC.description': 'To je vše, co máme pro tento příběh doposud, ale dobrodružství bude pokračovat i v budoucnu, brzy se vraťte!',
-    'chapter.translation.notYetDescription': 'Brzy opět zkontrolujte!',
-    'reader.externalShopping.heading': 'Koupit {storyName} v obchodech:',
-    'externalShopping.buyLink.amazon': 'Koupit na Amazonu',
-    'externalShopping.buyLink.other': 'Koupit v {storyName}',
     // Added 2020-12-26
     'common.sharing': 'Sdílení',
     // Added 2021-02-14

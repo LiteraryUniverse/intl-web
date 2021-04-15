@@ -40,5 +40,8 @@ Literary Universe tým`,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  } plán na následujících {days} dní.`
-}    /* eslint-enable max-len */;
+  } plán na následujících {days} dní.`,
+    'email.verification': 'E-mail verification',
+    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
+    'email.verified': 'Great news! Your e-mail has been verified!'
+};    /* eslint-enable max-len */

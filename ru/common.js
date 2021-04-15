@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-    sitename: 'Literary Universe',
+    siteName: 'Literary Universe',
     'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
     'site.logoAlt': 'Literary Universe logo',
@@ -76,9 +76,6 @@ export default {
     'signup.password.repeat': 'Повторите ваш пароль',
     'common.password': 'Пароль',
     'signin.password.forgot': 'Забыли пароль?',
-    'email.verification': 'Подтверждение e-mail',
-    'email.verifying': 'Подтверждение вашего e-mail. Это займёт немного времени...',
-    'email.verified': 'Отличные новости! Ваш e-mail адрес был подтверждён!',
     'dashboard.whatsnew': 'Что нового',
     'dashboard.blog': 'Ваш блог',
     'common.footer.tagline': 'Writing and reading complex universes made easy.',
@@ -92,52 +89,8 @@ export default {
     'premium.only.msg': 'We apologize, your membership rank is not high enough to access this feature.',
     'premium.only.join': 'We offer varieties of plans for everyone to get the most out of Literary Universe.',
     'premium.only.link': 'Check it out!',
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-  }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
-    'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on `,
-    // keep the space at the end
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
     'universe.visit': 'Visit universe page',
     'common.fanfiction': 'Fan Fiction',
-    'universe.fanfiction.see': 'All Fan Fiction for ',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
-    'universe.createdby': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
     'story.chapter': 'Chapter',
     'story.chapters': 'Chapters',
     'story.genre': 'Genre',
@@ -147,36 +100,7 @@ export default {
     'story.finishedAt': 'Finished on {date, date, medium}.',
     'story.comments.for': 'Comments for {story} {chapter}.',
     'story.cover.alt': 'Story cover image for {story}.',
-    'chapter.comment': 'Comments on this chapter',
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
-  }.`,
-    'comments.show.older': 'Show older comments',
-    'reader.language': 'Language:',
-    'reader.fullscreen.enter': 'Enter fullscreen',
-    'reader.fullscreen.exit': 'Exit fullscreen',
     'story.note.fanfiction': 'NOTE: This story is a fan fiction on {universe} universe.',
-    'chapter.next': 'Next chapter',
-    'chapter.previous': 'Previous chapter',
-    'reader.details.universe': 'Universe details',
-    'reader.details.story': 'Story details',
-    'reader.darkmode': 'Toggle dark mode',
-    'reader.flowtext': 'Toggle text size',
-    'writer.bold': 'Bold the selection',
-    'writer.underline': 'Underline the selection',
-    'writer.italic': 'Emphasize the selection',
-    'finder.details': 'details',
-    'finder.remove': 'remove the connection',
-    'finder.connect': 'Connect selection to encyclopedia entry',
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universe',
     copyrights: 'Copyrights',
     'common.challenges': 'Challenges',
     // for beta only
@@ -199,10 +123,6 @@ export default {
     // added 2017-01-27
     'lang.orig': 'Original language',
     'lang.orig.plus': 'Original language - {language}',
-    // added 2017-02-12
-    'reader.accessibility': 'Toggle accessibility',
-    // added 2017-02-20
-    'chapter.translation.notYet': 'This chapter has not yet been translated.',
     // added 2017-03-28
     buy: 'Buy',
     // added 2017-03-31
@@ -211,18 +131,11 @@ export default {
     // added 2017-04-14
     processing: 'Processing...',
     // added 2017-10-04
-    'common.nodata': 'No data',
+    'common.noData': 'No data',
     // added 2017-11-25
     'error.title': 'An error has occurred. We apologize for the inconvenience.',
     // added 2018-04-20
     'common.offlineStatus': 'You are currently offline.',
-    // added 2018-04-22
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    // added 2018-04-27
-    'legal.modal.goToSettings': 'Go to your settings',
     // added 2018-04-30
     male: 'Male',
     female: 'Female',
@@ -230,10 +143,6 @@ export default {
     'common.legal.effectiveAt': 'Effective from',
     // added 2018-05-24
     select: 'Please select',
-    'legal.modal.fewmore': 'Few more things...',
-    'legal.modal.finish': 'Finish',
-    // added 2018-05-30
-    'writer.wordcount': '{characters, number} characters, {words, number} words',
     // added 2018-06-05
     'common.statusFailed': 'Failed to connect to the server.',
     'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
@@ -257,18 +166,9 @@ export default {
     'common.title': 'Title',
     // added 2019-05-05
     'common.timelines': 'Timelines',
-    // added 2019-05-06
-    'universe.authors.title.meta': '{title} authors',
     // added 2019-10-04
     'common.legal.gdpr': 'GDPR',
     'common.legal.gdpr.long': 'General Data Protection Regulation',
-    'writer.undo': 'Undo',
-    'writer.redo': 'Redo',
-    'writer.ul': 'Unordered list',
-    'writer.ol': 'Ordered list',
-    'writer.blockquote': 'Quote',
-    'writer.link': 'Insert a link',
-    'writer.image': 'Insert an image',
     // Added 2019-10-16
     'editor.placeholder.link': 'Enter URL...',
     'editor.placeholder.connection': 'Search for encyclopedia entry...',
@@ -297,34 +197,12 @@ export default {
     'story.notes.audience': 'Target audience',
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Notes',
-    // Added 2019-12-01
     'common.members': 'Members',
-    // Added 2020-02-03
-    'auditLog.header.date': 'Date',
-    'auditLog.header.action': 'What',
-    'auditLog.header.group': 'Group',
-    'auditLog.header.user': 'Who',
     'common.language': 'Language',
-    // Added 2020-05-13
-    'writer.menu.optionsAria': 'Editor options menu',
-    'writer.menu.saveOptionsAria': 'Save options',
-    'reader.menu.optionsAria': 'Reader options menu',
-    // Added 2020-05-16
     next: 'Next',
     'common.legal.tos.short': 'Terms',
     'common.legal.privacy.short': 'Privacy',
     'premium.increaseLimit': 'Consider upgrading to increase you limit.',
-    // Added 2020-11-22
-    'reader.storyEnd.heading': 'The END',
-    'reader.storyEnd.description': 'You have reached the end of the story.',
-    'reader.externalSale.heading': 'Not here yet',
-    'reader.externalSale.description': 'This story is not available on Literary Universe, but you can get it in other places.',
-    'reader.storyTBC.heading': 'To be continued...',
-    'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
-    'chapter.translation.notYetDescription': 'Check back again soon!',
-    'reader.externalShopping.heading': 'Buy {storyName} in stores:',
-    'externalShopping.buyLink.amazon': 'Buy on Amazon',
-    'externalShopping.buyLink.other': 'Buy on {storyName}',
     // Added 2020-12-26
     'common.sharing': 'Sharing',
     // Added 2021-02-14

@@ -39,5 +39,8 @@ export default {
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  } tier for the next {days} days. Enjoy!`
-}    /* eslint-enable max-len */;
+  } tier for the next {days} days. Enjoy!`,
+    'email.verification': 'E-mail verification',
+    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
+    'email.verified': 'Great news! Your e-mail has been verified!'
+};    /* eslint-enable max-len */
