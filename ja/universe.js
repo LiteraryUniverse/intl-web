@@ -1,5 +1,5 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
+    'universe.authors.title.meta': '{title} 人の著者',
     'universe.fanfiction.see': 'All Fan Fiction for ',
     'universe.fanfiction.desc': 'Fan Fiction for {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
@@ -11,13 +11,13 @@ export default {
     'universe.authors.title': 'Authors',
     'universe.authors.desc': 'Creators and contributors to {universe}',
     'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
+    'universe.translators': '翻訳者',
     'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
     'universe.createdby': `{gender, select,
     male {Created}
     female {Created}
     other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
+    'universe.stories.for': '{universe}の物語',
     'universe.stories.own': '{universe} stories',
     'universe.stories.desc': 'Cannon stories for {universe}',
     'universe.encyclopedia.title': '{universe} encyclopedia',
