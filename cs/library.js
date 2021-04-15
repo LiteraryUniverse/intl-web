@@ -1,7 +1,7 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universe'
+    'library.add': 'Přidat do knihovny',
+    'library.remove': 'Odebrat z knihovny',
+    'library.bought': 'Zakoupené příběhy',
+    'library.stories': 'Sledované příběhy',
+    'library.universes': 'Sledované vesmíry'
 };
