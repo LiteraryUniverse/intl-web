@@ -1,10 +1,11 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'Napište svůj komentář',
+    'comments.none': 'Omlouváme se, ale nemáme žádné komentáře k zobrazení.',
+    'comments.total': `Celkem {count, plural,
+    zero {0 komentářů}
+    one {1 komentář}
+    few {# komentáře}
+    other {# komentářů}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Zobrazit starší komentáře'
 };
