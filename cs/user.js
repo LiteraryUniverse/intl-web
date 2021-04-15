@@ -1,24 +1,25 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-  }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.request.add': 'Přidat mezi přátele',
+    'user.friend.requests': `Máte {num} {num, plural,
+    zero {nových žádostí}
+    one {novou žádost}
+    few {nové žádosti}
+    other {nových žádostí}
+  } o přátelství`,
+    'user.friend.unfriend': 'Odebrat z přátel',
+    'user.block': 'Blokovat',
+    'user.unblock': 'Odblokovat',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on `,
+    male {Přidal}
+    female {Přidala}
+    other {Přidali}} se `,
     // keep the space at the end
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.'
+    'user.friend.request.accept': 'Přijmout žádost o přátelství',
+    'user.friend.request.cancel': 'Zrušit žádost o přátelství',
+    'user.friend.request.deny': 'Odmítnout přátelství',
+    'user.listing': 'Seznam uživatelů',
+    'user.profile.visit': 'Navštívit profil {user}.',
+    'user.profile.avatar': 'Avatar uživatele {username}',
+    'user.friend.list.requests': 'Žádosti o přátelství',
+    'user.friend.norequests': 'Nemáte žádné žádosti o přátelství.'
 };
