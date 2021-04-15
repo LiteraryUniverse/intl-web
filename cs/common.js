@@ -131,7 +131,7 @@ export default {
     // added 2017-04-14
     processing: 'Probíhá zpracování...',
     // added 2017-10-04
-    'common.noData': 'No data',
+    'common.noData': 'Žádná data',
     // added 2017-11-25
     'error.title': 'Došlo k chybě. Omlouváme se za nepříjemnosti.',
     // added 2018-04-20
