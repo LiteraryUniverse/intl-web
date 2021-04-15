@@ -20,6 +20,13 @@ import settings from './settings'
 import sharing from './sharing'
 import stats from './stats'
 import workshop from './workshop'
+import comments from './comments'
+import library from './library'
+import legal from './legal'
+import reader from './reader'
+import writer from './writer'
+import universe from './universe'
+import audit from './audit'
 
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -44,5 +51,12 @@ export default {
   ...settings,
   ...sharing,
   ...stats,
-  ...workshop
+  ...workshop,
+  ...comments,
+  ...library,
+  ...writer,
+  ...reader,
+  ...legal,
+  ...universe,
+  ...audit
 }
