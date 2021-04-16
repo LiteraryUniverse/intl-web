@@ -37,7 +37,7 @@ export default {
     'dmca.step1.title': 'Postup hlášení porušení autorských práv.',
     'dmca.step2.title': 'Po obdržení řádného oznámení.',
     'dmca.step3.title': 'Postup pro podání odvolání a dalšího řízení.',
-    'dmca.desc': 'We take copyright violations seriously.',
+    'dmca.desc': 'Porušování autorských práv bereme vážně.',
     'gdpr.access.title': 'Právo na přístup a právo na přenositelnost údajů',
     'gdpr.access.desc': 'V uživatelském nastavení můžete exportovat všechna data. Tato data budou ve standardním formátu JSON.',
     'gdpr.forget.title': 'Právo na zapomenutí',
