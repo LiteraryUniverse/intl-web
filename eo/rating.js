@@ -4,11 +4,11 @@
 export default {
     'rating.name': 'Rating',
     'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
+    'rating.all': 'Ĉiuj',
     'rating.desc.all': 'Accessible to all ages and groups.',
     'rating.teens': 'Teens',
     'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
+    'rating.mature': 'Maljunaj',
     'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
     'rating.explicit': 'Explicit',
     'rating.desc.explicit': 'Contains explicit scenes.',
