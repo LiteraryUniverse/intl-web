@@ -5,5 +5,5 @@ export default {
     'legal.modal.register': 'You won\'t see this anymore if you register.',
     'legal.modal.goToSettings': 'Go to your settings',
     'legal.modal.fewmore': 'Few more things...',
-    'legal.modal.finish': 'Finish'
+    'legal.modal.finish': 'mulgau'
 };
