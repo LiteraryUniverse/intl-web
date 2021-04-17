@@ -4,7 +4,7 @@ export default {
     'discovery.stories.new': 'New stories',
     'discovery.stories.standalone.new': 'New standalone stories',
     'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
+    'discovery.continue': 'Legi plu',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood'
 };
