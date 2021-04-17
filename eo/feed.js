@@ -1,6 +1,6 @@
 export default {
     'feed.name': 'Stream',
-    'feed.post.new': 'New post',
+    'feed.post.new': 'Nova skribaĵo',
     'feed.post.like': 'Like post',
     'feed.post.unlike': 'Unlike post',
     'feed.post.send': 'Post',
