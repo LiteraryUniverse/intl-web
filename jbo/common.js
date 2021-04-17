@@ -34,8 +34,8 @@ export default {
     'common.search.do': 'Search',
     'common.searching': 'Searching...',
     'common.report': 'Report',
-    'common.user': 'User',
-    'common.users': 'Users',
+    'common.user': 'sampli',
+    'common.users': 'sampli',
     'common.showmore': 'Show more',
     'common.futurefeature.title': 'Future feature',
     'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
@@ -212,12 +212,12 @@ export default {
     // Added 2021-03-04
     'common.remove': 'Remove',
     // Added 2021-03-12
-    'common.time.milliseconds': 'Milliseconds',
-    'common.time.seconds': 'Seconds',
-    'common.time.minutes': 'Minutes',
-    'common.time.hours': 'Hours',
-    'common.time.days': 'Days',
-    'common.time.weeks': 'Weeks',
-    'common.time.months': 'Months',
-    'common.time.years': 'Years'
+    'common.time.milliseconds': 'milsnidu',
+    'common.time.seconds': 'snidu',
+    'common.time.minutes': 'mentu',
+    'common.time.hours': 'cacra',
+    'common.time.days': 'veltcika',
+    'common.time.weeks': 'jeftu',
+    'common.time.months': 'masti',
+    'common.time.years': 'detna\'a'
 }    /* eslint-enable max-len */;
