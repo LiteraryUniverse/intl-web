@@ -11,14 +11,14 @@ export default {
     user {Blog}
   } settings`,
     'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
+    'blog.theme': 'Etoso',
     'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
+    'blog.post.create': 'Krei afiŝon',
     'blog.post.update': 'Editing {title}',
     'blog.post.text': 'Post text',
     'common.slug': 'SEO friendly address',
@@ -35,7 +35,7 @@ export default {
     organization {organization settings}
     user {user profile}
   }`,
-    'blog.social.website': 'Official website',
+    'blog.social.website': 'Oficiala retejo',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
