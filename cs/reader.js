@@ -21,5 +21,8 @@ export default {
     'reader.accessibility': 'Přepnout přístupnost',
     'chapter.translation.notYet': 'Tato kapitola ještě nebyla přeložena.',
     'externalShopping.buyLink.amazon': 'Koupit na Amazonu',
-    'externalShopping.buyLink.other': 'Koupit v {storyName}'
+    'externalShopping.buyLink.other': 'Koupit v {storyName}',
+    'externalShopping.buyLink.bookshop': 'Koupit na Bookshop.org',
+    'external.textopian': 'Textopian',
+    'external.textopian.title': 'Read & discuss public domain work on Textopian'
 };
