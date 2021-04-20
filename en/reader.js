@@ -22,4 +22,7 @@ export default {
   'chapter.translation.notYet': 'This chapter has not yet been translated.',
   'externalShopping.buyLink.amazon': 'Buy on Amazon',
   'externalShopping.buyLink.other': 'Buy on {storyName}',
+  'externalShopping.buyLink.bookshop': 'Buy on Bookshop.org',
+  'external.textopian': 'Textopian',
+  'external.textopian.title': 'Read & discuss public domain work on Textopian',
 }

@@ -1,4 +1,10 @@
 # Changelog for languages
+## 2021-04-20 - v1.0.3
+  * Fix missing import of users keys
+  * Add new keys for Textopian links
+  * New translations from Crowdin
+  * Added description for DMCA page
+
 ## 2021-04-12 - v1.0.2
   * Add new keys for sidebar intro and adjusted the one for encyclopedia
 

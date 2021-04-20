@@ -27,6 +27,7 @@ import reader from './reader'
 import writer from './writer'
 import universe from './universe'
 import audit from './audit'
+import user from './user'
 
 export default {
   locales: ['jp', 'jp-JP'],
@@ -58,5 +59,6 @@ export default {
   ...reader,
   ...legal,
   ...universe,
-  ...audit
+  ...audit,
+  ...user
 }
