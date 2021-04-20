@@ -203,5 +203,7 @@ export default {
     'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Sidebar Toolbox',
-    'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!'
+    'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
+    'workshop.story.textopian': 'Link to Textopian',
+    'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.'
 };
