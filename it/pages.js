@@ -37,7 +37,7 @@ export default {
     'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
     'dmca.step2.title': 'Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.',
     'dmca.step3.title': 'Procedure to Supply a Counter-Notice to the Designated Agent.',
-    'dmca.desc': '',
+    'dmca.desc': 'We take copyright violations seriously.',
     'gdpr.access.title': 'Right of Access and Right of Data Portability',
     'gdpr.access.desc': 'In user settings you can export all your data. This data will be in standard JSON format.',
     'gdpr.forget.title': 'Right to be forgotten',

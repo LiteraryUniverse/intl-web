@@ -1,25 +1,26 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for ',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title.meta': '{title} autoři',
+    'universe.fanfiction.see': 'Všechny fan fikce pro ',
+    'universe.fanfiction.desc': 'Fan fikce pro {universe}',
+    'universe.fanfiction.for': '{universe} Fan fikce',
+    'universe.stories.count': `Tento vesmír {num, plural,
+    =0 {nemá žádné příběhy}
+    one {má jeden příběh}
+    few {má # příběhy}
+    other {má # příběhů}
+  }.`,
+    'universe.authors.title': 'Autoři',
+    'universe.authors.desc': 'Tvůrci a přispěvatelé do {universe}',
+    'universe.contributors': 'Přispěvatelé',
+    'universe.translators': 'Překladatelé',
+    'universe.authors.notice': 'Každý příběh může mít další osobu, která na něm pracuje. Další podrobnosti naleznete v podrobnostech příběhu.',
     'universe.createdby': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}'
+    male {Vyvořil}
+    female {Vytvořila}
+    other {Vytvořil}} `,
+    'universe.stories.for': 'Příběhy z {universe}',
+    'universe.stories.own': '{universe} příběhy',
+    'universe.stories.desc': 'Cannon příběhy pro {universe}',
+    'universe.encyclopedia.title': '{universe} encyklopedie',
+    'universe.encyclopedia.desc': 'Všechny podrobnosti pro {universe}'
 };

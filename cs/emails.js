@@ -41,7 +41,7 @@ Literary Universe tým`,
     adventurer {Adventurer}
     storyteller {Storyteller}
   } plán na následujících {days} dní.`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verification': 'Ověření emailu',
+    'email.verifying': 'Ověřování Vašeho e-mailu. Tohle může chvilku trvat...',
+    'email.verified': 'Skvělá zpráva! Váš e-mail byl ověřen!'
 };    /* eslint-enable max-len */

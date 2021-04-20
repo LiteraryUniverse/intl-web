@@ -107,88 +107,56 @@ export default {
     'beta.notice': 'Vítejte v Literary Universe BETA. Toto je veřejný náhled a aplikace jako taková je stále ve vývoji. To znamená, že stále můžete očekávat chyby a nedokončené funkce. Pokud narazíte na chybu nebo něco nefunguje, dejte nám prosím vědět a buďte prosím trpěliví, mezitím co dáme všechno dohromady.',
     'beta.thanks': 'Děkujeme za vaši podporu!',
     'scratchpad.about': 'Vaše poznámky a nápady dostupné kdekoli na webu.',
-    // added 2016-11-02
     'common.feedback': 'Zpětná vazba',
     'common.createdon': 'Vytvořeno ',
-    // added 2016-11-14
     // account types
     admin: 'Administrátor',
-    // added 2016-12-03
     goodbye: 'Děkujeme! Těšíme na Vaší další návštěvu!',
-    // added 2016-12-31
     'common.saved': 'Uloženo!',
     'common.saving': 'Ukládám...',
-    // added 2017-01-23
     'common.friends': 'Přátelé',
-    // added 2017-01-27
     'lang.orig': 'Původní jazyk',
     'lang.orig.plus': 'Původní jazyk - {language}',
-    // added 2017-03-28
     buy: 'Koupit',
-    // added 2017-03-31
     confirm: 'Potvrdit',
     cancel: 'Zrušit',
-    // added 2017-04-14
     processing: 'Probíhá zpracování...',
-    // added 2017-10-04
-    'common.noData': 'No data',
-    // added 2017-11-25
+    'common.noData': 'Žádná data',
     'error.title': 'Došlo k chybě. Omlouváme se za nepříjemnosti.',
-    // added 2018-04-20
     'common.offlineStatus': 'Jste nyní v režimu offline.',
-    // added 2018-04-30
     male: 'Muž',
     female: 'Žena',
-    // added 2018-05-18
     'common.legal.effectiveAt': 'Účinné od',
-    // added 2018-05-24
     select: 'Prosím vyberte',
-    // added 2018-06-05
     'common.statusFailed': 'Nepodařilo se připojit k serveru.',
     'common.statusConnecting': 'Pokouším se připojit k serveru... ({count, number})',
-    // added 2018-06-13
     'slug.checking': 'Ověřuji...',
     'slug.failed': 'Tato adresa už existuje.',
     'slug.success': 'Tato adresa je k dispozici!',
-    // added 2018-07-08
     'notVerified.msg': 'E-mail Vašeho účtu není ověřen.',
     'notVerified.verify': 'Prosím potvrďte Váš e-mail.',
-    // added 2018-07-12
     unknown: 'neznámé',
-    // added 2018-09-30
     'common.legal.guidelines': 'Pravidla komunity',
-    // added 2019-01-12
     'errorLoading.title': 'Chyba při načítání stránky',
     'errorLoading.explained': 'Během načítání stránky došlo k chybě. Omlouváme se za nepříjemnosti. Prosím zkuste znovu vstoupit na stránku. Pokud problém přetrvává, dejte nám prosím vědět.',
     'errorLoading.retry': 'Opakovat!',
     'errorLoading.takingLong': 'Trvá to dlouho...',
-    // added 2019-02-21
     'common.title': 'Název',
-    // added 2019-05-05
     'common.timelines': 'Časové osy',
-    // added 2019-10-04
     'common.legal.gdpr': 'GDPR',
     'common.legal.gdpr.long': 'Obecné nařízení o ochraně údajů',
-    // Added 2019-10-16
     'editor.placeholder.link': 'Zadejte URL adresu...',
     'editor.placeholder.connection': 'Hledat záznam v encyklopedii...',
-    // Added 2019-10-20
     'editor.saved.beta': 'Nová revize pro Beta čtenáře!',
     'editor.saved.public': 'Nová verze byla zveřejněna!',
-    // Added 2019-10-21
     goodbyeForever: 'Je nám líto že nás opouštíte. Je to kvůli něčemu co jsme udělali? Dejte nám vědět pokud tomu tak je. V každém případě Vám přejeme to nejlepší do budoucna a doufáme, že se naše cesty znovu zkříží!',
     'goodbyeForever.feedback': 'Dejte nám vědět, co můžeme dělat lépe',
-    // Added 2019-10-27
     'common.edit': 'Upravit',
-    // Added 2019-11-03
     'common.publish': 'Zveřejnit',
     'common.publishAt': 'Datum a čas zveřejnění',
-    // Added 2019-11-06
     'a11y.user.menu': 'Uživatelské menu',
     'dashboard.profile': 'Váš profil',
-    // Added 2019-11-07
     'profile.website': 'Moje osobní stránka',
-    // Added 2019-11-23
     'story.notes.concept': 'Koncept',
     'story.notes.settings': 'Pozadí příběhu',
     'story.notes.theme': 'Témata',
@@ -203,15 +171,10 @@ export default {
     'common.legal.tos.short': 'Podmínky',
     'common.legal.privacy.short': 'Soukromí',
     'premium.increaseLimit': 'Zvažte upgrade pro zvýšení limitu.',
-    // Added 2020-12-26
     'common.sharing': 'Sdílení',
-    // Added 2021-02-14
     'story.isbn': 'ISBN',
-    // Added 2021-02-26
     'common.name': 'Jméno',
-    // Added 2021-03-04
     'common.remove': 'Odstranit',
-    // Added 2021-03-12
     'common.time.milliseconds': 'Milisekundy',
     'common.time.seconds': 'Sekundy',
     'common.time.minutes': 'Minuty',

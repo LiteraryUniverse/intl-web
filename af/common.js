@@ -107,88 +107,56 @@ export default {
     'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
     'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
-    // added 2016-11-02
     'common.feedback': 'Feedback',
     'common.createdon': 'Created on ',
-    // added 2016-11-14
     // account types
     admin: 'Admin',
-    // added 2016-12-03
     goodbye: 'Thank you! See you again!',
-    // added 2016-12-31
     'common.saved': 'Saved!',
     'common.saving': 'Saving...',
-    // added 2017-01-23
     'common.friends': 'Friends',
-    // added 2017-01-27
     'lang.orig': 'Original language',
     'lang.orig.plus': 'Original language - {language}',
-    // added 2017-03-28
     buy: 'Buy',
-    // added 2017-03-31
     confirm: 'Bevestig',
     cancel: 'Kanselleer',
-    // added 2017-04-14
     processing: 'Processing...',
-    // added 2017-10-04
     'common.noData': 'No data',
-    // added 2017-11-25
     'error.title': 'An error has occurred. We apologize for the inconvenience.',
-    // added 2018-04-20
     'common.offlineStatus': 'You are currently offline.',
-    // added 2018-04-30
     male: 'Manlik',
     female: 'Vroulik',
-    // added 2018-05-18
     'common.legal.effectiveAt': 'Effective from',
-    // added 2018-05-24
     select: 'Please select',
-    // added 2018-06-05
     'common.statusFailed': 'Failed to connect to the server.',
     'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
-    // added 2018-06-13
     'slug.checking': 'Checking...',
     'slug.failed': 'This address already exists.',
     'slug.success': 'This address is available!',
-    // added 2018-07-08
     'notVerified.msg': 'Your account e-mail is not verified.',
     'notVerified.verify': 'Please verify your e-mail.',
-    // added 2018-07-12
     unknown: 'unknown',
-    // added 2018-09-30
     'common.legal.guidelines': 'Community Guidelines',
-    // added 2019-01-12
     'errorLoading.title': 'Error during page load',
     'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
     'errorLoading.retry': 'Probeer weer!',
     'errorLoading.takingLong': 'This is taking a long time...',
-    // added 2019-02-21
     'common.title': 'Titel',
-    // added 2019-05-05
     'common.timelines': 'Timelines',
-    // added 2019-10-04
     'common.legal.gdpr': 'GDPR',
     'common.legal.gdpr.long': 'General Data Protection Regulation',
-    // Added 2019-10-16
     'editor.placeholder.link': 'Enter URL...',
     'editor.placeholder.connection': 'Search for encyclopedia entry...',
-    // Added 2019-10-20
     'editor.saved.beta': 'New revision for Beta readers created!',
     'editor.saved.public': 'New version published!',
-    // Added 2019-10-21
     goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Let us know what we can do better',
-    // Added 2019-10-27
     'common.edit': 'Edit',
-    // Added 2019-11-03
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
-    // Added 2019-11-06
     'a11y.user.menu': 'User menu',
     'dashboard.profile': 'Your profile',
-    // Added 2019-11-07
     'profile.website': 'My personal website',
-    // Added 2019-11-23
     'story.notes.concept': 'Concept',
     'story.notes.settings': 'Story setting',
     'story.notes.theme': 'Theme',
@@ -203,15 +171,10 @@ export default {
     'common.legal.tos.short': 'Terms',
     'common.legal.privacy.short': 'Privacy',
     'premium.increaseLimit': 'Consider upgrading to increase you limit.',
-    // Added 2020-12-26
     'common.sharing': 'Meedeling',
-    // Added 2021-02-14
     'story.isbn': 'ISBN',
-    // Added 2021-02-26
     'common.name': 'Naam',
-    // Added 2021-03-04
     'common.remove': 'Verwyder',
-    // Added 2021-03-12
     'common.time.milliseconds': 'Millisekondes',
     'common.time.seconds': 'Sekondes',
     'common.time.minutes': 'Minute',
