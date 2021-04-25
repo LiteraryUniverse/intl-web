@@ -205,5 +205,6 @@ export default {
     'workshop.writerSidebar.title': 'Sidebar Toolbox',
     'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
     'workshop.story.textopian': 'Link to Textopian',
-    'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.'
+    'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.',
+    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.'
 };

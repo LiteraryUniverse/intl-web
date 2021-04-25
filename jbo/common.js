@@ -165,6 +165,7 @@ export default {
     'story.notes.audience': 'cusku',
     'story.notes.pitch': 'zgito\'a',
     'story.notes.notes': 'notci',
+    'story.authorsNotes': 'Author\'s notes',
     'common.members': 'Members',
     'common.language': 'Bangu',
     next: 'Bavla\'i',
