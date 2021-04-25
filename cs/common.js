@@ -165,6 +165,7 @@ export default {
     'story.notes.audience': 'Cílové publikum',
     'story.notes.pitch': 'Představení příběhu (pitch)',
     'story.notes.notes': 'Poznámky',
+    'story.authorsNotes': 'Author\'s notes',
     'common.members': 'Členové',
     'common.language': 'Jazyk',
     next: 'Další',
