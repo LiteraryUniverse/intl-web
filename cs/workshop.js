@@ -209,7 +209,7 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Postranní nástroje',
     'workshop.writerSidebar.description': 'Vítej ve svém příběhu! Tento postranní panel Vám umožní snadný přístup ke všem nástrojům a informacím souvisejícím s příběhem. Podívejte se na ikony výše, abyste viděli nejnovější komentáře, Vaše poznámky a mnohem více!',
-    'workshop.story.textopian': 'Link to Textopian',
-    'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.'
+    'workshop.story.textopian': 'Odkaz na Textopian',
+    'workshop.story.textopianExplained': 'Textopian je platforma pro diskuzi o dílech ve veřejné doméně.',
+    'workshop.story.authorsNotesExplained': 'Vaše poznámky pro čtenáře na začátku kapitoly.'
 };
