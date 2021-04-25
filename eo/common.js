@@ -165,6 +165,7 @@ export default {
     'story.notes.audience': 'Target audience',
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Notoj',
+    'story.authorsNotes': 'Author\'s notes',
     'common.members': 'Members',
     'common.language': 'Language',
     next: 'Sekva',
