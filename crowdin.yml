@@ -5,4 +5,4 @@ files:
   - source: /en/*
     ignore:
       - index
-    translation: /%two_letters_code%/%original_file_name%
+    translation: /%locale%/%original_file_name%
