@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-04-25 - v1.1.0
+  * Added new keys for Author's notes
+
 ## 2021-04-20 - v1.0.3
   * Fix missing import of users keys
   * Add new keys for Textopian links
