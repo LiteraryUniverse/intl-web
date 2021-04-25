@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2021-04-25 - v1.1.0
   * Added new keys for Author's notes
+  * Updated README
 
 ## 2021-04-20 - v1.0.3
   * Fix missing import of users keys
