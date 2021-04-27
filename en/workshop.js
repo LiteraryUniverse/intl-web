@@ -207,4 +207,5 @@ export default {
   'workshop.story.textopian': 'Link to Textopian',
   'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.',
   'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
+  'workshop.story.chapterSortSwitch': 'Switch chapter\'s order'
 }
