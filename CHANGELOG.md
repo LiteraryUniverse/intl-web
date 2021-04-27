@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-04-27 - v1.1.1
+  * Add keys for average reading time
+
 ## 2021-04-25 - v1.1.0
   * Added new keys for Author's notes
   * Updated README
