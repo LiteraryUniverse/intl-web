@@ -212,5 +212,5 @@ export default {
     'workshop.story.textopian': 'Odkaz na Textopian',
     'workshop.story.textopianExplained': 'Textopian je platforma pro diskuzi o dílech ve veřejné doméně.',
     'workshop.story.authorsNotesExplained': 'Vaše poznámky pro čtenáře na začátku kapitoly.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order'
+    'workshop.story.chapterSortSwitch': 'Přepnout pořadí kapitol'
 };
