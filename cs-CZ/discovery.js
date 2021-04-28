@@ -7,14 +7,18 @@ export default {
     'discovery.continue': 'Pokračovat ve čtení',
     'discovery.stories.similar.new': 'Nové příběhy v okolí',
     'discovery.stories.similar.regular': 'Příběhy v okolí',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Tento příběh by měl zabrat {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 hodinu }
+        few {# hodiny }
+        many {# hodin }
+        other {# hodin }
     }{minutes, plural,
         =0 {}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.'
+        one {1 minutu }
+        few {# minuty }
+        many {# minut }
+        other {# minut }
+    }k přečtení.`,
+    'story.estimatedReadingTime.explained': 'Na základě průměrné rychlosti čtení {avgReadingNum} slov za minutu.'
 };
