@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-04-28
+  * Switch locales instead of two character codes to accomodate diversity of languages
+
 ## 2021-04-27 - v1.1.1
   * Add keys for average reading time
   * Add key for chapters sorting switch

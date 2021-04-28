@@ -1,7 +1,7 @@
 /* global Package */
 Package.describe({
   name: 'lu-intl',
-  version: '1.1.1',
+  version: '1.2.0',
   // Brief, one-line summary of the package.
   summary: 'Intl for Literary Universe',
   // URL to the Git repository containing the source code for this package.
@@ -12,7 +12,7 @@ Package.describe({
 })
 
 Package.onUse(function (api) {
-  api.versionsFrom('1.9')
+  api.versionsFrom('2.0')
   api.use('ecmascript')
   api.mainModule('./index.js', ['client', 'server'], { lazy: true })
 })

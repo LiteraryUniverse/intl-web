@@ -1,7 +1,7 @@
 import settings from './settings'
 import en from './en'
-import cs from './cs'
-import ja from './ja'
+import cs from './cs-CZ'
+import ja from './ja-JP'
 
 export default {
   settings,

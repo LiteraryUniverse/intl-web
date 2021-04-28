@@ -48,7 +48,7 @@ export default {
         name: 'German',
         native: 'Deutsch',
         defaultLocale: 'de-GE',
-        supportedLocales: ['de-GE'],
+        supportedLocales: ['de-GE', 'de-BE', 'de-AT', 'de-CH', 'de-IT', 'de-LI', 'de-LU'],
         rtl: false
       },
       {
@@ -56,7 +56,7 @@ export default {
         name: 'Spanish',
         native: 'Español',
         defaultLocale: 'es-ES',
-        supportedLocales: ['es-ES'],
+        supportedLocales: ['es-ES', 'es-AR', 'es-BO', 'es-BR', 'es-BZ', 'es-CL', 'es-CO', 'es-CR', 'es-CU', 'es-DO', 'es-EA', 'es-EC', 'ES-GQ', 'es-GT', 'es-HN', 'es-IC', 'es-MX', 'es-NI', ' es-PA', 'es-PE', 'es-PH', 'es-PR', 'es-PY', 'es-SV', 'es-US', 'es-UY', 'es-VE'],
         rtl: false
       },
       {
@@ -88,7 +88,7 @@ export default {
         name: 'Portuguese',
         native: 'Português',
         defaultLocale: 'pt-PT',
-        supportedLocales: ['pt-PT', 'pt-BR'],
+        supportedLocales: ['pt-PT', 'pt-BR', 'pt-AO', 'pt-CH', 'pt-CV', 'pt-GQ', ' pt-GW', 'pt-LU', 'pt-MO', 'pt-MZ', 'pt-ST', 'pt-TL'],
         rtl: false
       },
       {
