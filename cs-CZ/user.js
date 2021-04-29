@@ -10,10 +10,9 @@ export default {
     'user.block': 'Blokovat',
     'user.unblock': 'Odblokovat',
     'user.joined': `{gender, select,
-    male {Přidal}
-    female {Přidala}
-    other {Přidali}} se `,
-    // keep the space at the end
+    male {Joined}
+    female {Joined}
+    other {Joined}} on {date, date, long}`,
     'user.friend.request.accept': 'Přijmout žádost o přátelství',
     'user.friend.request.cancel': 'Zrušit žádost o přátelství',
     'user.friend.request.deny': 'Odmítnout přátelství',
