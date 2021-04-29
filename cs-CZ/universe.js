@@ -14,10 +14,10 @@ export default {
     'universe.contributors': 'Přispěvatelé',
     'universe.translators': 'Překladatelé',
     'universe.authors.notice': 'Každý příběh může mít další osobu, která na něm pracuje. Další podrobnosti naleznete v podrobnostech příběhu.',
-    'universe.createdby': `{gender, select,
-    male {Vyvořil}
-    female {Vytvořila}
-    other {Vytvořil}} `,
+    'universe.createdBy': `{gender, select,
+    male {Created}
+    female {Created}
+    other {Created}} by `,
     'universe.stories.for': 'Příběhy z {universe}',
     'universe.stories.own': '{universe} příběhy',
     'universe.stories.desc': 'Cannon příběhy pro {universe}',
