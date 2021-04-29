@@ -69,5 +69,5 @@ export default {
     'settings.links.title': 'あなたの他のウェブサイトへのリンク',
     'settings.links.description': 'これらのリンクは、あなたのプロフィールページに表示されます。',
     'settings.links.website': 'あなたの個人的なウェブサイト',
-    'settings.links.social': 'Other websites'
+    'settings.links.social': 'その他のウェブサイト'
 };
