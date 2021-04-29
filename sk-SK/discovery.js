@@ -1,20 +1,24 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Objavte nové príbehy a vesmíry.',
+    'discovery.universes.new': 'Vznikajúce vesmíry',
+    'discovery.stories.new': 'Nové príbehy',
+    'discovery.stories.standalone.new': 'Nové samostatné príbehy',
+    'discovery.stories.updated': 'Nedávno aktualizované príbehy',
+    'discovery.continue': 'Pokračovať v čítaní',
+    'discovery.stories.similar.new': 'Nové príbehy v susedstve',
+    'discovery.stories.similar.regular': 'Príbehy v okolí',
+    'story.estimatedReadingTime': `Tento príbeh by mal trvať {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 hodinu a }
+        few {# hodiny a}
+        many {# hodín a}
+        other {# hodín a }
     }{minutes, plural,
         =0 {}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.'
+        one {1 minúta}
+        few {# minúty}
+        many {# minút}
+        other {# minút}
+    } na čítanie.`,
+    'story.estimatedReadingTime.explained': 'Na základe priemernej rýchlosti čítania {avgReadingNum} slov za minútu.'
 };
