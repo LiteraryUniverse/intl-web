@@ -13,7 +13,7 @@ export default {
     'universe.contributors': 'Contributors',
     'universe.translators': '翻訳者',
     'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
-    'universe.createdby': `{gender, select,
+    'universe.createdBy': `{gender, select,
     male {Created}
     female {Created}
     other {Created}} by `,
