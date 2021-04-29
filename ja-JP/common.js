@@ -108,7 +108,8 @@ export default {
     'beta.thanks': 'ご協力ありがとうございました。',
     'scratchpad.about': 'サイトのどこからでもアクセスできるメモやアイデア。',
     'common.feedback': 'Feedback',
-    'common.createdon': 'Created on ',
+    'common.createdOn': 'Created on {date, date, long}',
+    'common.createdOn.title': 'Created on',
     // account types
     admin: '管理者',
     goodbye: 'ありがとうございました！ またね！',
@@ -126,7 +127,7 @@ export default {
     'common.offlineStatus': 'You are currently offline.',
     male: '男性',
     female: '女性',
-    'common.legal.effectiveAt': 'Effective from',
+    'common.legal.effectiveAt': 'Effective from {date, date, medium}',
     select: 'Please select',
     'common.statusFailed': 'Failed to connect to the server.',
     'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
