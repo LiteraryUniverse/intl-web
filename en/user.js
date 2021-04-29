@@ -11,7 +11,7 @@ export default {
   'user.joined': `{gender, select,
     male {Joined}
     female {Joined}
-    other {Joined}} on `, // keep the space at the end
+    other {Joined}} on {date, date, long}`,
   'user.friend.request.accept': 'Accept friendship request',
   'user.friend.request.cancel': 'Cancel friendship request',
   'user.friend.request.deny': 'Deny friendship',
