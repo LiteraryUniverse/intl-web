@@ -108,7 +108,8 @@ export default {
     'beta.thanks': 'Дякуємо за вашу підтримку!',
     'scratchpad.about': 'Ваші нотатки та ідеї, доступні будь-де на сайті.',
     'common.feedback': 'Зворотній зв\'язок',
-    'common.createdon': 'Створено ',
+    'common.createdOn': 'Created on {date, date, long}',
+    'common.createdOn.title': 'Created on',
     // account types
     admin: 'Адміністратор',
     goodbye: 'Дякуємо! Побачимося знову!',
@@ -126,7 +127,7 @@ export default {
     'common.offlineStatus': 'На цей момент ви не в мережі.',
     male: 'Чоловік',
     female: 'Жінка',
-    'common.legal.effectiveAt': 'Ефективно з',
+    'common.legal.effectiveAt': 'Effective from {date, date, medium}',
     select: 'Будь ласка, оберіть',
     'common.statusFailed': 'Не вдалося з\'єднатися з сервером.',
     'common.statusConnecting': 'Спроба підключення до сервера... ({count, number})',
