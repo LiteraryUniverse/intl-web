@@ -1,5 +1,8 @@
 # Changelog for languages
-## 2021-04-28
+## 2021-04-29
+  * Updated keys with dates
+
+## 2021-04-28 - v1.2.0
   * Switch locales instead of two character codes to accomodate diversity of languages
 
 ## 2021-04-27 - v1.1.1
