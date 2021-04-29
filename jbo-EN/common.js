@@ -108,7 +108,8 @@ export default {
     'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
     'common.feedback': 'Feedback',
-    'common.createdon': 'Created on ',
+    'common.createdOn': 'Created on {date, date, long}',
+    'common.createdOn.title': 'Created on',
     // account types
     admin: 'Admin',
     goodbye: 'Thank you! See you again!',
@@ -126,7 +127,7 @@ export default {
     'common.offlineStatus': 'You are currently offline.',
     male: 'Nakni',
     female: 'Fetsi',
-    'common.legal.effectiveAt': 'Effective from',
+    'common.legal.effectiveAt': 'Effective from {date, date, medium}',
     select: 'Please select',
     'common.statusFailed': 'Failed to connect to the server.',
     'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
