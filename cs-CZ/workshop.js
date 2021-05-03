@@ -89,7 +89,7 @@ export default {
     collaborator {spolupracovníků}
     beta {beta čtenářů}
     translator {překladatelů}
-  }. Potřebuješ vyšší členství.`,
+  }, potřebujete vyšší členství.`,
     'workshop.collaborators.requests.sent': 'Odeslané žádosti',
     'workshop.collaborators.requests.invite': `Byli jste pozváni, abyste se stali {role, select,
     beta {beta čtenářem}
