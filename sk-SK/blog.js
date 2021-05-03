@@ -1,46 +1,47 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    org {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `V súčasnosti nemáte {type, select,
+    org {jakýkoľvek blog}
+    universe {blog pre váš vesmír}
+    user {blog}
   }.`,
-    'blog.create': 'Create a new blog',
-    'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.create': 'Vytvor blog',
+    'blog.settings': `Nastavenia {type, select,
+    org {blogu}
+    universe {stránky vesmíru}
+    user {blogu}
+  } `,
+    'blog.description': 'Predstavenie blogu',
+    'blog.theme': 'Téma',
+    'blog.theme.info': 'Úpravou témy budete môcť zmeniť vzhľad stránky. Táto funkcia nie je v súčasnosti pripravená.',
+    'blog.posts.total': `V tomto blogu {total, plural,
+    =0 {nie sú žiadne príspevky}
+    one {je jeden príspevok}
+    few {sú # príspevky}
+    other {je # príspevkov}
+}.`,
+    'blog.post.create': 'Vytvoriť nový príspevok',
+    'blog.post.update': 'Úprava {title}',
+    'blog.post.text': 'Text príspevku',
+    'common.slug': 'Adresa vhodná pre SEO',
+    'blog.slug.explained': 'Pekne vyzerajúce url na príspevok. Vyhnite sa používaniu špeciálnych znakov okrem "-".',
+    'blog.publicView': 'Verejný pohľad',
+    'blog.post.notfound': 'Príspevok nebol nájdený',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Vesmíry}
+    stories {Samostatné príbehy}
+    fanfiction {Fan Fiction práca}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Tu sú uvedené samostatné príbehy, ak bol príbeh napísaný ako súčasť univerza, bude uvedený na stránke univerza.',
+    'blog.social.sameAsMain': `Sociálne prepojenia sú rovnaké, ako sú nastavené v {type, select,
+    organization {nastaveniach organizácie}
+    user {profile používateľa}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog'
+    'blog.social.website': 'Oficiálna webstránka',
+    'blog.settings.universeSettings': 'Blogy vesmíru sú integrované do stránok vesmíru a ich základné nastavenia sú prevzaté z nastavení vesmíru.',
+    'blogs.lu': 'Oficiálne blogy Literary Universe',
+    'blogs.featured': 'Vybrané blogy',
+    'blogs.new': 'Najnovšie blogy',
+    'blogs.title': 'Blogy Literary Universe',
+    'blogs.description': 'Zoznam blogov na platforme Literary Universe.',
+    'blogs.visit': 'Navštíviť blog'
 };
