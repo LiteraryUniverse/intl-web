@@ -1,6 +1,6 @@
 export default {
     'universe.authors.title.meta': '{title} autoři',
-    'universe.fanfiction.see': 'Všechny fan fikce pro ',
+    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
     'universe.fanfiction.desc': 'Fan fikce pro {universe}',
     'universe.fanfiction.for': '{universe} Fan fikce',
     'universe.stories.count': `Tento vesmír {num, plural,
