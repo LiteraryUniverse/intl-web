@@ -24,7 +24,7 @@ export default {
   'workshop.universe.publish': 'Publish universe',
   'workshop.universe.publishing.notice': 'If you do not publish the universe, it will be published automatically when the first story connected to the universe is published.',
   'workshop.universe.settings': '{universe} universe settings',
-  'workshop.universe.publishedOn': 'This universe has been published on ',
+  'workshop.universe.publishedOn': 'This universe has been published on {date, date, long} {date, time, short}',
   'workshop.universe.description': 'Universe description',
   'workshop.settings.title': 'Title',
   'workshop.description': 'Description',
@@ -48,7 +48,7 @@ export default {
   'workshop.story.new': 'Create a new story',
   'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
   'workshop.settings.edit': 'Edit settings',
-  'workshop.story.publishedOn': 'This story was published on ',
+  'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
   'workshop.story.settings': 'Story settings',
   'workshop.settings.basic': 'Basic settings',
   'workshop.settings.genres': 'Genres (max 2)',
@@ -89,7 +89,7 @@ export default {
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
-  }. you need to increase your membership tier.`,
+  }, you need to increase your membership tier.`,
   'workshop.collaborators.requests.sent': 'Sent requests',
   'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
     beta {beta reader}
