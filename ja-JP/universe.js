@@ -1,6 +1,6 @@
 export default {
     'universe.authors.title.meta': '{title} 人の著者',
-    'universe.fanfiction.see': 'All Fan Fiction for ',
+    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
     'universe.fanfiction.desc': 'Fan Fiction for {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.stories.count': `There {num, plural,
@@ -13,7 +13,7 @@ export default {
     'universe.contributors': 'Contributors',
     'universe.translators': '翻訳者',
     'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
-    'universe.createdby': `{gender, select,
+    'universe.createdBy': `{gender, select,
     male {Created}
     female {Created}
     other {Created}} by `,

@@ -1,7 +1,7 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universe'
+    'library.add': 'ライブラリに追加',
+    'library.remove': 'ライブラリから削除',
+    'library.bought': '買った物語',
+    'library.stories': '物語を追う',
+    'library.universes': '宇宙を追う'
 };

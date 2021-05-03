@@ -9,12 +9,12 @@ export default {
     'pm.conversations.none': 'あなたは現在誰とも話していません。',
     'pm.to': '受取人',
     'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
+    'pm.send': '送信',
     'pm.conversations.unreadCount': `未読の会話{count, plural,
     zero {はありません}
     other {が#件あります}
   }`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
+    'pm.form.minimumParticipants': '受信者を選択する必要があります。',
     'pm.form.maxParticipants': '会話では最大10人まで参加できます。',
     'pm.new.aria': '新しい会話',
     'pm.new.buttonTitle': '新しい会話を始める'

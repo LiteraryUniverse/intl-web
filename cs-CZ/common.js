@@ -108,7 +108,8 @@ export default {
     'beta.thanks': 'Děkujeme za vaši podporu!',
     'scratchpad.about': 'Vaše poznámky a nápady dostupné kdekoli na webu.',
     'common.feedback': 'Zpětná vazba',
-    'common.createdon': 'Vytvořeno ',
+    'common.createdOn': 'Vytvořeno {date, date, long}',
+    'common.createdOn.title': 'Vytvořeno',
     // account types
     admin: 'Administrátor',
     goodbye: 'Děkujeme! Těšíme na Vaší další návštěvu!',
@@ -126,7 +127,7 @@ export default {
     'common.offlineStatus': 'Jste nyní v režimu offline.',
     male: 'Muž',
     female: 'Žena',
-    'common.legal.effectiveAt': 'Účinné od',
+    'common.legal.effectiveAt': 'Účinné od {date, date, medium}',
     select: 'Prosím vyberte',
     'common.statusFailed': 'Nepodařilo se připojit k serveru.',
     'common.statusConnecting': 'Pokouším se připojit k serveru... ({count, number})',

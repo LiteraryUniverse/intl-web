@@ -12,8 +12,7 @@ export default {
     'user.joined': `{gender, select,
     male {Přidal}
     female {Přidala}
-    other {Přidali}} se `,
-    // keep the space at the end
+    other {Přidali}} se {date, date, long}`,
     'user.friend.request.accept': 'Přijmout žádost o přátelství',
     'user.friend.request.cancel': 'Zrušit žádost o přátelství',
     'user.friend.request.deny': 'Odmítnout přátelství',

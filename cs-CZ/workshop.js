@@ -24,7 +24,7 @@ export default {
     'workshop.universe.publish': 'Publikovat vesmír',
     'workshop.universe.publishing.notice': 'Pokud nezveřejníš vesmír, bude automaticky publikován po zveřejnění prvního příběhu spojeného s vesmírem.',
     'workshop.universe.settings': 'Nastavení {universe} vesmíru',
-    'workshop.universe.publishedOn': 'Tento vesmír byl zveřejněn dne ',
+    'workshop.universe.publishedOn': 'Tento vesmír byl zveřejněn {date, date, long} {date, time, short}',
     'workshop.universe.description': 'Popis vesmíru',
     'workshop.settings.title': 'Název',
     'workshop.description': 'Popis',
@@ -48,7 +48,7 @@ export default {
     'workshop.story.new': 'Vytvořit nový příběh',
     'workshop.story.publishing.notice': 'Příběh bude zveřejněn automaticky, jakmile zveřejníte první kapitolu.',
     'workshop.settings.edit': 'Upravit nastavení',
-    'workshop.story.publishedOn': 'Tento příběh byl publikován ',
+    'workshop.story.publishedOn': 'Tento příběh byl publikován {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Nastavení příběhu',
     'workshop.settings.basic': 'Základní nastavení',
     'workshop.settings.genres': 'Žánry (max 2)',
@@ -89,7 +89,7 @@ export default {
     collaborator {spolupracovníků}
     beta {beta čtenářů}
     translator {překladatelů}
-  }. Potřebuješ vyšší členství.`,
+  }, potřebujete vyšší členství.`,
     'workshop.collaborators.requests.sent': 'Odeslané žádosti',
     'workshop.collaborators.requests.invite': `Byli jste pozváni, abyste se stali {role, select,
     beta {beta čtenářem}
