@@ -27,7 +27,15 @@ export default {
       defaultLocale: 'ja-JP',
       supportedLocales: ['ja-JP'],
       rtl: false
-    }
+    },
+    {
+      code: 'sk',
+      name: 'Slovakian',
+      native: 'Slovenčina',
+      defaultLocale: 'sk-SK',
+      supportedLocales: ['sk-SK'],
+      rtl: false
+    },
   ],
   /**
    * Get the array of language codes of supported languages
@@ -57,14 +65,6 @@ export default {
         native: 'Español',
         defaultLocale: 'es-ES',
         supportedLocales: ['es-ES', 'es-AR', 'es-BO', 'es-BR', 'es-BZ', 'es-CL', 'es-CO', 'es-CR', 'es-CU', 'es-DO', 'es-EA', 'es-EC', 'ES-GQ', 'es-GT', 'es-HN', 'es-IC', 'es-MX', 'es-NI', ' es-PA', 'es-PE', 'es-PH', 'es-PR', 'es-PY', 'es-SV', 'es-US', 'es-UY', 'es-VE'],
-        rtl: false
-      },
-      {
-        code: 'sk',
-        name: 'Slovakian',
-        native: 'Slovenčina',
-        defaultLocale: 'sk-SK',
-        supportedLocales: ['sk-SK'],
         rtl: false
       },
       {

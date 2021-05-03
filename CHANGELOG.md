@@ -1,4 +1,8 @@
 # Changelog for languages
+## 2021-05-03 - v1.3.0
+  * Fixed multiple keys
+  * Added Slovak to selectable languages
+
 ## 2021-04-29
   * Updated keys with dates
 
