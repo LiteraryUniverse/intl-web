@@ -108,8 +108,8 @@ export default {
     'beta.thanks': 'Ďakujeme Vám za podporu!',
     'scratchpad.about': 'Vaše poznámky a nápady sú prístupné kdekoľvek na stránke.',
     'common.feedback': 'Spätná väzba',
-    'common.createdOn': 'Created on {date, date, long}',
-    'common.createdOn.title': 'Created on',
+    'common.createdOn': 'Vytvorené na {date, date, long}',
+    'common.createdOn.title': 'Vytvorené',
     // account types
     admin: 'Správca',
     goodbye: 'Ďakujeme! Dovidenia!',
