@@ -1,25 +1,26 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for ',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': 'Autori {title}',
+    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
+    'universe.fanfiction.desc': 'Fanfiction pre {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.stories.count': `V tomto vesmíre {num, plural,
+    =0 {neexistujú žiadne príbehy}
+    one {je jeden príbeh}
+    few {sú # príbehy}
+    other {je # príbehov}
+    }.`,
+    'universe.authors.title': 'Autori',
+    'universe.authors.desc': 'Tvorcovia a prispievatelia do {universe}',
+    'universe.contributors': 'Prispievatelia',
+    'universe.translators': 'Prekladatelia',
+    'universe.authors.notice': 'Každý príbeh môže mať ďalšie osoby, ktoré na ňom pracovali. Podrobnejšie informácie nájdete v detailoch príbehu.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}'
+    male {Vytvoril}
+    female {Vytvorila}
+    other {Vytvoril}} `,
+    'universe.stories.for': 'Príbehy pre {universe}',
+    'universe.stories.own': 'Príbehy zo {universe}',
+    'universe.stories.desc': 'Kanonické príbehy pre {universe}',
+    'universe.encyclopedia.title': 'encyklopédia {universe}',
+    'universe.encyclopedia.desc': 'Všetky podrobnosti pre {universe}'
 };
