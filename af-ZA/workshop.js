@@ -89,7 +89,7 @@ export default {
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
-  }. you need to increase your membership tier.`,
+  }, you need to increase your membership tier.`,
     'workshop.collaborators.requests.sent': 'Sent requests',
     'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
     beta {beta reader}
