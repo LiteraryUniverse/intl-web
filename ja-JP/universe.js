@@ -1,6 +1,6 @@
 export default {
     'universe.authors.title.meta': '{title} 人の著者',
-    'universe.fanfiction.see': 'All Fan Fiction for ',
+    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
     'universe.fanfiction.desc': 'Fan Fiction for {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.stories.count': `There {num, plural,
