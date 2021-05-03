@@ -63,108 +63,106 @@ export default {
     'workshop.revisions.toeditor': 'Prejsť na editor',
     'workshop.revisions.comments': 'Pripomienky k revízii',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revízia {revision} - Komentáre',
-    'workshop.revisions.comments.list': '{revision}: {publication, select, beta {for Beta readers} readers {Public}} {datetime, date, medium} {datetime, time, short}',
-    'workshop.revisions.comments.norevision': 'You need to create a revision first.',
-    'workshop.revisions.comments.select': 'Select revision',
-    'workshop.collaborators.noresults': 'No results',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
-    'workshop.collaborators.language.add': 'Create a new translation',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
-    'workshop.revisions.beta.none': 'No revisions at this time.',
-    'reader.asidetoggle': 'Toggle aside information',
-    'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
-    'workshop.cover.alt': 'cover image',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.revisions.comments.list': '{revision}: {publication, select, bet {pre beta čitateľov} readers {pre verejnosť}} {datetime, date, medium} {datetime, time, short}',
+    'workshop.revisions.comments.norevision': 'Najprv musíte vytvoriť revíziu.',
+    'workshop.revisions.comments.select': 'Vyberte revíziu',
+    'workshop.collaborators.noresults': 'Žiadne výsledky',
+    'workshop.collaborators.add.beta': 'Pridať beta čitateľa',
+    'workshop.collaborators.add.collaborator': 'Pridať spolupracovníka',
+    'workshop.collaborators.add.translator': 'Pridať prekladateľa',
+    'workshop.collaborators.language.add': 'Vytvoriť nový preklad',
+    'workshop.translations.stories': 'Preklady - poviedky',
+    'workshop.translations.universes': 'Preklady - vesmíry',
+    'workshop.revisions.beta.none': 'V súčasnosti sa nevykonávajú žiadne revízie.',
+    'reader.asidetoggle': 'Prepnutie informácií bokem',
+    'workshop.translation.original': 'Originál:',
+    'workshop.translation.original.title': 'Pôvodný názov:',
+    'workshop.translation.original.description': 'Pôvodný opis:',
+    'workshop.translation.original.cover': 'Pôvodný obal',
+    'workshop.translation.original.tags': 'Pôvodné značky',
+    'workshop.cover.alt': 'obrázok na obálke',
+    'workshop.translation.updatedOrig': 'Posledná aktualizácia originálu: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'Posledná aktualizácia prekladu: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'Posledná revízia {revision, number}, originálu: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'Posledná revízia {revision, number}, prekladu: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.collaborators.premium': `To add more {type, select,
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
-  }. you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
-  } for the following:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
+  }, you need to increase your membership tier.`,
+    'workshop.collaborators.requests.sent': 'Odoslané žiadosti',
+    'workshop.collaborators.requests.invite': `Boli ste pozvaní, aby ste sa stali {role, select,
+    beta {beta čitateľmi}
+    translator {prekladateľom}
+    collaborator {spolupracovníkom}
+  } na nasledujúcich projektoch:`,
+    'workshop.collaborators.requests.dashboard': `Boli ste pozvaní k spolupráci na {count, plural,
+    zero {žiadnej práci}
+    one {jednom literárnom diele}
+    few {# literárnych dielach}
+    other {# literárnych dielach}
   }.`,
-    'workshop.collaborators.language.added': 'Language added',
-    'workshop.story.noChaptersFound': 'No chapters found.',
-    'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
-    'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
-    'workshop.encSettings': 'Encyclopedia settings',
-    'workshop.collaborators.removeUser': 'Remove user',
-    'workshop.collaborators.cancelInvite': 'Cancel invite',
-    'workshop.universe.createFirstStory': 'Create the first story',
-    'workshop.storylines': 'Storylines',
-    'workshop.scenesManager': 'Scenes Manager',
-    'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
-    'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
-    'workshop.story.notes.title': 'Your notes for {storyTitle}',
-    'workshop.story.notes.desc': 'Overview notes for the story.',
-    'workshop.story.notes.tile': 'Overview notes',
-    'workshop.hideOrgs': 'Hide content from organizations',
-    'workshop.translation.premium': 'In order to add translations, you need to have at least Explorer subscription.',
-    'workshop.story.finished': 'Story is complete',
-    'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
-    'workshop.sharing.publicURL': 'Public version',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
-    'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
-    'workshop.fictionalTime.createNow': 'Create one now!',
-    'workshop.fictionalTime.createTitle': 'Create a new fictional time',
-    'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
-    'workshop.fictionalTime.timeName': 'Time name',
-    'workshop.fictionalTime.basicInfo': 'Basic information',
-    'workshop.fictionalTime.timeSetup': 'Time setup',
-    'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date (Gregorian calendar)?',
-    'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
-    'workshop.fictionalTime.declarationBefore': 'Before units',
-    'workshop.fictionalTime.declarationAfter': 'After units',
-    'workshop.fictionalTime.declarationNone': 'None',
-    'workshop.fictionalTime.units': 'Units',
-    'workshop.fictionalTime.ETStart': 'Starting date of this time',
-    'workshop.fictionalTime.unitsDescFirst': 'How many units are there in this unit from milliseconds?',
-    'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
-    'workshop.fictionalTime.unitsName': 'Unit name',
-    'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
-    'workshop.fictionalTime.unitAdd': 'Add unit',
-    'workshop.fictionalTime.clocks': 'Clocks',
-    'workshop.fictionalTime.unitTransfer': 'Transfer units',
-    'fictionalTime.pageStartElapsedTime': 'Time elapsed since opening this page',
-    'fictionalTime.currentTime': 'Current time',
-    'workshop.shoppingExternal.options': 'External purchase options',
-    'workshop.shoppingExternal.explainer': 'If your story is sold elsewhere you can set the links here. The links will then show instead of the content or at the end of the content you choose to preview.',
-    'workshop.shoppingExternal.amazonStore': 'Amazon store',
+    'workshop.collaborators.language.added': 'Jazyk pridaný',
+    'workshop.story.noChaptersFound': 'Nenašli sa žiadne kapitoly.',
+    'workshop.fanfic.needUniverseInLibrary': 'Existuje mnoho vesmírov. Tie, do ktorých chcete písať, si najprv pridajte do svojej knižnice, aby sme ich mohli nájsť.',
+    'workshop.fanfic.findUniverse': 'Nájdite si úžasný vesmír!',
+    'workshop.encSettings': 'Nastavenia encyklopédie',
+    'workshop.collaborators.removeUser': 'Odstránenie používateľa',
+    'workshop.collaborators.cancelInvite': 'Zrušiť pozvánku',
+    'workshop.universe.createFirstStory': 'Vytvoriť prvý príbeh',
+    'workshop.storylines': 'Dejové línie',
+    'workshop.scenesManager': 'Správca scén',
+    'workshop.collaborators.addRoleForLang': 'Pridať {role} pre {language}',
+    'workshop.beta.revisionInfo': 'Toto je revízia {revision, number}, vytvorená dňa {createdAt, date, long}.',
+    'workshop.story.notes.title': 'Vaše poznámky k {storyTitle}',
+    'workshop.story.notes.desc': 'Prehľadové poznámky k príbehu.',
+    'workshop.story.notes.tile': 'Prehľadové poznámky',
+    'workshop.hideOrgs': 'Skryť obsah od organizácií',
+    'workshop.translation.premium': 'Aby ste mohli pridávať preklady, musíte mať aspoň predplatné Prieskumník.',
+    'workshop.story.finished': 'Príbeh je dokončený',
+    'workshop.story.publishing.externalSellingNotice': 'Keďže predávate mimo Literary Universe, môžete príbeh publikovať už teraz. Odkazy na zoznam vášho obchodu sa objavia na poviedke alebo na konci aktuálnej poviedky, ktorú tu uverejníte.',
+    'workshop.sharing.publicURL': 'Verzia pre verejnosť',
+    'workshop.fictionalTime.title': 'Fiktívne časy pre {universeName}',
+    'workshop.fictionalTime.none': 'V súčasnosti nemáte nastavené žiadne fiktívne časy.',
+    'workshop.fictionalTime.createNow': 'Vytvorte si ho teraz!',
+    'workshop.fictionalTime.createTitle': 'Vytvoriť nový fiktívny čas',
+    'workshop.fictionalTime.editTitle': 'Upraviť {ftName}',
+    'workshop.fictionalTime.formDescription': `Tu si môžete vytvoriť vlastný fiktívny čas. V súčasnosti je tento nástroj obmedzený a dokáže vytvárať len symetrické časy. To znamená, že nebudete môcť vytvoriť mayský alebo gregoriánsky kalendár. V tejto chvíli tento nástroj očakáva, že všetky časy sú vždy rovnaké, napr. mesiace majú vždy 30 dní bez výnimky a pod. Budeme to riešiť v neskorších verziách, ale dovtedy je tento nástroj vhodnejší na vytváranie časov založených predovšetkým na sci-fi.`,
+    'workshop.fictionalTime.timeName': 'Názov času',
+    'workshop.fictionalTime.basicInfo': 'Základné informácie',
+    'workshop.fictionalTime.timeSetup': 'Nastavenie času',
+    'workshop.fictionalTime.linkedToET': 'Začína tento čas pozemským dátumom (gregoriánsky kalendár)?',
+    'workshop.fictionalTime.timeDeclaration': 'Časové vyhlásenie',
+    'workshop.fictionalTime.declarationLocation': 'Kde by sa mal uvádzať časový názov?',
+    'workshop.fictionalTime.declarationBefore': 'Pred jednotkami',
+    'workshop.fictionalTime.declarationAfter': 'Po jednotkách',
+    'workshop.fictionalTime.declarationNone': 'Žiadne',
+    'workshop.fictionalTime.units': 'Jednotky',
+    'workshop.fictionalTime.ETStart': 'Dátum začiatku tohto času',
+    'workshop.fictionalTime.unitsDescFirst': 'Koľko jednotiek je v tejto jednotke z milisekúnd?',
+    'workshop.fictionalTime.unitsDesc': 'O koľko jednotiek sa líši tento od predchádzajúceho?',
+    'workshop.fictionalTime.unitsName': 'Názov jednotky',
+    'workshop.fictionalTime.unitsSeparator': 'Oddeľovač z predchádzajúcej jednotky',
+    'workshop.fictionalTime.unitAdd': 'Pridať jednotku',
+    'workshop.fictionalTime.clocks': 'Hodiny',
+    'workshop.fictionalTime.unitTransfer': 'Prenos medzi jednotkami',
+    'fictionalTime.pageStartElapsedTime': 'Čas, ktorý uplynul od otvorenia tejto stránky',
+    'fictionalTime.currentTime': 'Aktuálny čas',
+    'workshop.shoppingExternal.options': 'Externé možnosti nákupu',
+    'workshop.shoppingExternal.explainer': 'Ak sa váš príbeh predáva inde, môžete tu nastaviť odkazy. Odkazy sa potom zobrazia namiesto obsahu alebo na konci obsahu, ktorý ste si vybrali na náhľad.',
+    'workshop.shoppingExternal.amazonStore': 'Obchod Amazon',
     'workshop.shoppingExternal.amazon': 'Amazon',
-    'workshop.shoppingExternal.storeName': 'Store name',
-    'workshop.shoppingExternal.itemUrl': 'Item URL',
-    'workshop.shoppingExternal.storesOther': 'Other stores',
-    'fictionalTime.units.milliseconds': '{units} milliseconds',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'workshop.shoppingExternal.storeName': 'Názov obchodu',
+    'workshop.shoppingExternal.itemUrl': 'URL adresa položky',
+    'workshop.shoppingExternal.storesOther': 'Ostatné obchody',
+    'fictionalTime.units.milliseconds': '{units} milisekúnd',
+    'fictionalTime.countdownToStart': 'Odpočítavanie do začiatku času',
     'fictionalTime.unitsToETList': `{units} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 deňy }
+      few {# dni}
+      other {{days} dní }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -178,34 +176,39 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {sekunda}
+      few {sekundy}
+      other {sekúnd}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {minúta}
+      few {minúty}
+      other {minút}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {hodina}
+      few {hodiny}
+      other {hodín}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {deň}
+      few {dni}
+      other {dní}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {rok}
+      few {roky}
+      other {rokov}
     }}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
-    'fictionalTime.inputSelectTimeUnit': 'Select time unit',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputFrom': 'Z',
+    'fictionalTime.inputSelectTimeUnit': 'Výber časovej jednotky',
+    'fictionalTime.inputSelectETUnit': 'Vyberte jednotku času na Zemi',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
-    'workshop.writerSidebar.title': 'Sidebar Toolbox',
-    'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.textopian': 'Link to Textopian',
-    'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order'
+    'workshop.writerSidebar.title': 'Sada nástrojov bočného panela',
+    'workshop.writerSidebar.description': 'Vitajte vo svojom príbehu! Tento bočný panel vám umožňuje jednoduchý prístup ku všetkým zdrojom súvisiacim s vaším príbehom. Pozrite si ikony vyššie, aby ste videli najnovšie komentáre, svoje poznámky a mnoho ďalšieho!',
+    'workshop.story.textopian': 'Odkaz na Textopian',
+    'workshop.story.textopianExplained': 'Textopian je platforma na čítanie a diskusiu o dielach vo verejnom vlastníctve.',
+    'workshop.story.authorsNotesExplained': 'Vaše poznámky pre čitateľov na začiatku kapitoly.',
+    'workshop.story.chapterSortSwitch': 'Prepnúť poradie kapitoly'
 };
