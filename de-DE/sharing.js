@@ -1,9 +1,9 @@
 export default {
-    'sharing.title': 'Share',
+    'sharing.title': 'Teilen',
     'sharing.copy': 'Kopieren',
-    'sharing.email': 'E-mail',
+    'sharing.email': 'E-Mail',
     'sharing.sms': 'SMS',
-    'sharing.messenger': 'Facebook Messenger',
+    'sharing.messenger': 'Facebook-Messenger',
     'sharing.whatsapp': 'WhatsApp',
     'sharing.twitter': 'Twitter',
     'sharing.linkedin': 'LinkedIn',
