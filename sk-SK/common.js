@@ -127,7 +127,7 @@ export default {
     'common.offlineStatus': 'Momentálne ste offline.',
     male: 'Muž',
     female: 'Žena',
-    'common.legal.effectiveAt': 'Effective from {date, date, medium}',
+    'common.legal.effectiveAt': 'S účinnosťou od {date, date, medium}',
     select: 'Prosím, vyberte',
     'common.statusFailed': 'Nepodarilo sa pripojiť k serveru.',
     'common.statusConnecting': 'Pokus o pripojenie k serveru... ({count, number})',
