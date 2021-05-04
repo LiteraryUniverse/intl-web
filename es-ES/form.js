@@ -48,7 +48,7 @@ export default {
     'simpleschema.expectedObject': '{label} tiene que ser un objeto',
     'simpleschema.expectedConstructor': '{label} tiene que ser de tipo {type}',
     'simpleschema.keyNotInSchema': '{key} no está permitido por el esquema',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label} tiene que ser única',
     'simpleschema.regEx.0': '{label} falló la validación por Expresión Regular (Regex)',
     'simpleschema.regEx.1': '{label} tiene que ser una dirección de correo electrónico válida',
     'simpleschema.regEx.2': '{label} tiene que ser una dirección de correo electrónico válida',
