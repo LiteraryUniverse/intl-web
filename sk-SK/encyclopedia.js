@@ -37,9 +37,9 @@ export default {
     one {one entry}
     other {# entries}
   } in this encyclopedia.`,
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
+    'encyclopedia.add.title': 'Pridanie nového záznamu do encyklopédie',
+    'encyclopedia.add.heading': 'Čo chcete pridať?',
+    'encyclopedia.add.moresoon': 'Ďalšie kategórie už čoskoro!',
     'encyclopedia.create': `Create a new {category, select,
     character {character}
     event {event}
@@ -58,7 +58,6 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
-    other {entry}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -78,7 +77,6 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
-    other {entry}
   } in {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -98,7 +96,6 @@ export default {
     planets {Planet}
     species {Specie}
     technologies {Technology}
-    other {entry}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Pridať nové pole',
@@ -136,14 +133,14 @@ export default {
     'encyclopedia.settings.title': 'Encyclopedia settings',
     'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
     'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
+    'encyclopedia.fields.placeholder': 'Názov poľa',
+    'encyclopedia.fields.delete': 'Vymazať pole',
     'encyclopedia.timeOption.fictionalDate': 'Fictional date',
     'encyclopedia.timeOption.fictionalTime': 'Fictional time',
     'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
+    'encyclopedia.timeOption.date': 'Dátum',
+    'encyclopedia.timeOption.time': 'Čas',
+    'encyclopedia.timeOption.dateTime': 'Dátum a čas',
     'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
     'encyclopedia.menuOpen': 'Open Encyclopedia menu',
     'encyclopedia.menuClose': 'Close Encyclopedia menu',
