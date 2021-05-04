@@ -1,23 +1,23 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
+    'user.friend.request.add': 'Añadir a amigos',
+    'user.friend.requests': `Tienes {num} amigo nuevo {num, plural,
+    cero {requests}
+    una {request}
+    muchas {requests}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Quitar de amigos',
+    'user.block': 'Bloquear',
+    'user.unblock': 'Desbloquear',
     'user.joined': `{gender, select,
     male {Joined}
     female {Joined}
     other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.'
+    'user.friend.request.accept': 'Aceptar petición de amistad',
+    'user.friend.request.cancel': 'Cancelar petición de amistad',
+    'user.friend.request.deny': 'Rechazar amistad',
+    'user.listing': 'Listado de usuarios',
+    'user.profile.visit': 'Visitar el perfil de {user}.',
+    'user.profile.avatar': 'Avatar de {username}',
+    'user.friend.list.requests': 'Peticiones de amistad',
+    'user.friend.norequests': 'No tienes peticiones de amistad.'
 };
