@@ -6,6 +6,7 @@ export default {
       universe {žiadny vesmír}
       story {žiadny príbeh}
       fanfiction {žiadnu fanfiction}
+      other {}
     }. Vytvorte si ho teraz!`,
     'workshop.collab': 'Spolupráca',
     'workshop.betareadings': 'Odčítania beta',
@@ -63,7 +64,7 @@ export default {
     'workshop.revisions.toeditor': 'Prejsť na editor',
     'workshop.revisions.comments': 'Pripomienky k revízii',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revízia {revision} - Komentáre',
-    'workshop.revisions.comments.list': '{revision}: {publication, select, bet {pre beta čitateľov} readers {pre verejnosť}} {datetime, date, medium} {datetime, time, short}',
+    'workshop.revisions.comments.list': '{revision}: {publication, select, bet {pre beta čitateľov} readers {pre verejnosť} other {}} {datetime, date, medium} {datetime, time, short}',
     'workshop.revisions.comments.norevision': 'Najprv musíte vytvoriť revíziu.',
     'workshop.revisions.comments.select': 'Vyberte revíziu',
     'workshop.collaborators.noresults': 'Žiadne výsledky',
@@ -85,16 +86,18 @@ export default {
     'workshop.translation.updatedTrs': 'Posledná aktualizácia prekladu: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionOrig': 'Posledná revízia {revision, number}, originálu: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionTrs': 'Posledná revízia {revision, number}, prekladu: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
-  }, you need to increase your membership tier.`,
+    'workshop.collaborators.premium': `Ak chcete pridať viac {type, select,
+    collaborator {spolupracovníkov}
+    beta {beta čitateľov}
+    translator {prekladateľov}
+    other {}
+  }, musíte zvýšiť úroveň členstva.`,
     'workshop.collaborators.requests.sent': 'Odoslané žiadosti',
     'workshop.collaborators.requests.invite': `Boli ste pozvaní, aby ste sa stali {role, select,
     beta {beta čitateľmi}
     translator {prekladateľom}
     collaborator {spolupracovníkom}
+    other {}
   } na nasledujúcich projektoch:`,
     'workshop.collaborators.requests.dashboard': `Boli ste pozvaní k spolupráci na {count, plural,
     zero {žiadnej práci}
@@ -200,6 +203,7 @@ export default {
       few {roky}
       other {rokov}
     }}
+    other {}
   } = {targetResult, number} {targetType}`,
     'fictionalTime.inputFrom': 'Z',
     'fictionalTime.inputSelectTimeUnit': 'Výber časovej jednotky',
