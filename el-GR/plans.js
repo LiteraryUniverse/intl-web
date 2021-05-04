@@ -67,6 +67,7 @@ export default {
     'plans.subscribed.renewal': `At the end your subscription will be {method, select,
     charge_automatically {renewed automatically}
     send_invoice {renewed after paying an invoice}
+    other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
     'plans.subscribed.status': `Subscription status: {status, select,
@@ -77,6 +78,7 @@ export default {
     past_due {We are missing your payment}
     canceled {Cancelled}
     unpaid {Unpaid}
+    other {}
   }`,
     'payments.changeMethod': 'Change payment method',
     'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
@@ -106,6 +108,7 @@ export default {
     paid {Paid}
     uncollectible {Uncollectible}
     void {Void}
+    other {}
   }`,
     'payment.invoice.id': 'Invoice id',
     'payment.invoice.pdf': 'Invoice pdf',
