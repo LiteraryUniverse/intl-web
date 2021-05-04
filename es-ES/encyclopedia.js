@@ -1,45 +1,45 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
+    'encyclopedia.add': 'Añadir una nueva entrada',
+    'encyclopedia.browse': 'Navegar por la enciclopedia',
+    'encyclopedia.search': 'Buscar en la enciclopedia',
+    'encyclopedia.back.universe': 'Volver a la página del universo',
+    'encyclopedia.back.workshop': 'Volver al taller',
+    'encyclopedia.categories': 'Categorías',
+    'encyclopedia.groups': 'Grupos',
+    'encyclopedia.category.character': 'Personajes',
+    'encyclopedia.category.event': 'Sucesos',
+    'encyclopedia.category.group': 'Grupos',
     'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
+    'encyclopedia.category.location': 'Ubicaciones',
+    'encyclopedia.category.other': 'Otros',
+    'encyclopedia.category.state': 'Estados',
+    'encyclopedia.category.governments': 'Gobiernos',
+    'encyclopedia.category.languages': 'Idiomas',
+    'encyclopedia.category.creatures': 'Criaturas',
+    'encyclopedia.category.deity': 'Deidades',
+    'encyclopedia.category.religions': 'Religiones',
     'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.category.magic': 'Magia',
+    'encyclopedia.category.planets': 'Planetas',
+    'encyclopedia.category.species': 'Especies',
+    'encyclopedia.category.technologies': 'Tecnologías',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-    'encyclopedia.entries.total': `There are currently {num, plural,
-    =0 {no entries}
-    one {one entry}
-    other {# entries}
-  } in this encyclopedia.`,
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
+    =0 {No hay entradas relacionadas}
+    one {1 entrada relacionada}
+    other {# entradas relacionadas}
+  } encontradas.`,
+    'encyclopedia.help.text': 'Utiliza el menú de la izquierda para navegar por los elementos de la enciclopedia. Cuando selecciones un elemento, se mostrará en lugar de este texto.',
+    'encyclopedia.help.sidebar': 'Caja de herramientas de la barra lateral',
+    'encyclopedia.help.sidebar.text': '¡Bievenido a tu historia! La barra lateral te permite acceder fácilmente a todos los recursos relacionados con tu historia. Cliquea los iconos de arriba para ver los últimos comentarios, tus notas, buscar en la enciclopedia, navegar y añadir nuevas entradas a tu enciclopedia. Si quieres añadir una conexión a la entrada a partir del texto de la historia, selecciona el texto donde quieras colocarlo y haz clic al botón "conectar". Después tendrás que encontrar y seleccionar un elemento.',
+    'encyclopedia.intro': 'Bienvenido a la enciclopedia de {universe}.',
+    'encyclopedia.entries.total': `En estos momentos {num, plural,
+    =0 {no hay entradas}
+    one {hay una entrada}
+    other {hay # entradas}
+  } en esta enciclopedia.`,
+    'encyclopedia.add.title': 'Añade una nueva entrada a la enciclopedia',
+    'encyclopedia.add.heading': '¿Qué quieres añadir?',
+    'encyclopedia.add.moresoon': '¡Más categorías en breve!',
     'encyclopedia.create': `Create a new {category, select,
     character {character}
     event {event}
@@ -58,6 +58,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    other {entry}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -77,6 +78,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    other {entry}
   } in {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -96,59 +98,60 @@ export default {
     planets {Planet}
     species {Specie}
     technologies {Technology}
+    other {entry}
   }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
-    'encyclopedia.fields.image': 'Image',
-    'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
-    'encyclopedia.container': 'Container',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-    'encyclopedia.entry.name': 'Name of the entry',
-    'encyclopedia.summary': 'Summary',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
+    'encyclopedia.entry.category.legend': 'Categoría',
+    'encyclopedia.fields.add': 'Añadir un nuevo campo',
+    'encyclopedia.fields.text': 'Definición',
+    'encyclopedia.fields.textarea': 'Texto',
+    'encyclopedia.fields.connection': 'Conexión',
+    'encyclopedia.fields.time': 'Hora',
+    'encyclopedia.fields.image': 'Imagen',
+    'encyclopedia.visibility': 'Visibilidad',
+    'encyclopedia.public': 'Público',
+    'encyclopedia.private': 'Privado',
+    'encyclopedia.container': 'Contenedor',
+    'encyclopedia.container.desc': 'Convertir esta entrada en un contendor para un nuevo grupo de entradas. Esto lo ocultará del listado de categorías.',
+    'encyclopedia.entry.name': 'Nombre de la entrada',
+    'encyclopedia.summary': 'Resumen',
+    'encyclopedia.summary.desc': 'Esto es un resumen que será la única información inicial que se muestre al lector.',
     'encyclopedia.parent': 'Parent entry',
-    'encyclopedia.related': 'Related entries',
-    'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
-    'encyclopedia.field.private': 'Private field',
-    'encyclopedia.ft.indev': 'This option is in development.',
-    'encyclopedia.connections.remove': 'Remove connection',
-    'encyclopedia.connections.extra': 'Extra information',
-    'encyclopedia.connections.existing': 'Existing entry',
+    'encyclopedia.related': 'Entradas relacionadas',
+    'encyclopedia.errors.tags': 'Una entrada sólo puede tener 10 etiquetas.',
+    'encyclopedia.field.private': 'Campo privado',
+    'encyclopedia.ft.indev': 'Esta opción está en fase de desarrollo.',
+    'encyclopedia.connections.remove': 'Eliminar conexión',
+    'encyclopedia.connections.extra': 'Información adicional',
+    'encyclopedia.connections.existing': 'Entrada existente',
     'encyclopedia.connections.existing.abbr': 'EE',
     // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Cover image',
-    'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
-    'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-    'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
-    'encyclopedia.timeOption.fictionalDate': 'Fictional date',
-    'encyclopedia.timeOption.fictionalTime': 'Fictional time',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
-    'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
-    'encyclopedia.menuOpen': 'Open Encyclopedia menu',
-    'encyclopedia.menuClose': 'Close Encyclopedia menu',
-    'encyclopedia.menuAria': 'Encyclopedia menu',
-    'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
-    other {{max, number}}
-  } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.'
+    'encyclopedia.cover': 'Imagen de portada',
+    'encyclopedia.translation.title': '¡Bienvenido a la traducción del universo de {universe}!',
+    'encyclopedia.translation.desc': 'La interfaz de esta enciclopedia se usa para traducir al {language}. Elige entradas existentes en la lista de la izquierda para empezar a traducirlas.',
+    'encyclopedia.welcome.totalEntries': `{totalEntries, plural, 
+    zero {no hay entradas}
+    one {hay una entrada}
+    other {hay # entradas}
+  } en este universo.`,
+    'encyclopedia.settings.title': 'Configuración de la enciclopedia',
+    'encyclopedia.settings.categoriesDesc': 'Activa y desactiva categorías que quieras usar en tu enciclopedia.',
+    'encyclopedia.settings.introText': 'Mensaje de bienvenida para mostrar tras la descripción del universo.',
+    'encyclopedia.fields.placeholder': 'Nombre del campo',
+    'encyclopedia.fields.delete': 'Eliminar campo',
+    'encyclopedia.timeOption.fictionalDate': 'Fecha ficticia',
+    'encyclopedia.timeOption.fictionalTime': 'Hora ficticia',
+    'encyclopedia.timeOption.fictionalDateTime': 'Hora de la fecha ficticia',
+    'encyclopedia.timeOption.date': 'Fecha',
+    'encyclopedia.timeOption.time': 'Hora',
+    'encyclopedia.timeOption.dateTime': 'Fecha y hora',
+    'encyclopedia.settings.groupByCategories': 'Incluir categorías en el listado de grupos',
+    'encyclopedia.menuOpen': 'Abrir menú de la enciclopedia',
+    'encyclopedia.menuClose': 'Cerrar menú de la enciclopedia',
+    'encyclopedia.menuAria': 'Menú de la enciclopedia',
+    'enc.newField': 'Nuevo campo',
+    'enc.entries.limit': `En estos momentos tienes {value, number} de {max, plural,
+    =0 {entradas ilimitadas}
+    other {{max, number, entradas}}
+  }.`,
+    'enc.entries.limitReached': 'Has alcanzado el máximo de entradas de enciclopedia permitidas para tu suscripción.'
 };

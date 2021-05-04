@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'トグルアクセシビリティ',
     'chapter.translation.notYet': 'この章はまだ翻訳されていません。',
     'externalShopping.buyLink.amazon': 'Amazonで購入',
-    'externalShopping.buyLink.other': 'Buy on {storeName}',
+    'externalShopping.buyLink.other': '{storeName}で購入',
     'externalShopping.buyLink.bookshop': 'Bookshop.orgで購入',
     'external.textopian': 'Textopian',
     'external.textopian.title': 'Textopianでパブリックドメインの作品を読んで議論する'

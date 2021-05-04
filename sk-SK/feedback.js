@@ -45,8 +45,9 @@ export default {
     'feedback.report.copyrightInternalProperty': 'Túto prácu som uverejnil na Literary Universe',
     'feedback.reportType.spam': 'Spam alebo phishing',
     'feedback.reportType.other': 'Ostatné',
-    'feedback.report.copyrightType.propertySelectLabel': `Ktorý {type, select,
-    universe {vesmír}
-    story {príbeh}
-  } je porušený?`
+    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
+    universe {universe}
+    story {story}
+    other {story}
+  } is being infringed?`
 };

@@ -40,62 +40,65 @@ export default {
     'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
     'encyclopedia.add.heading': '何を追加しますか？',
     'encyclopedia.add.moresoon': 'より多くのカテゴリがまもなく登場します！',
-    'encyclopedia.create': `新しい{category, select,
-    character {キャラクター}
-    event {イベント}
-    group {グループ}
-    item {項目}
-    location {場所}
-    other {その他}
-    state {国家}
-    governments {政府}
-    languages {語}
-    creatures {生き物}
-    deity {神}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {惑星}
-    species {正貨}
-    technologies {技術}
-  }を作成する`,
-    'encyclopedia.create.header': `{universe}に新しい{category, select,
-    character {キャラクター}
-    event {イベント}
-    group {グループ}
-    item {項目}
-    location {場所}
-    other {その他}
-    state {国家}
-    governments {政府}
-    languages {語}
-    creatures {生き物}
-    deity {神}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {惑星}
-    species {正貨}
-    technologies {技術}
-  }を作成する`,
-    'encyclopedia.entry.category': `記事のカテゴリ: {category, select,
-    character {キャラクター}
-    event {イベント}
-    group {グループ}
-    item {項目}
-    location {場所}
-    other {その他}
-    state {国家}
-    governments {政府}
-    languages {語}
-    creatures {生き物}
-    deity {神}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {惑星}
-    species {正貨}
-    technologies {技術}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    other {entry}
+  }`,
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    other {entry}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    other {entry}
   }`,
     'encyclopedia.entry.category.legend': '記事のカテゴリ',
     'encyclopedia.fields.add': '新しいフィールドを追加する',

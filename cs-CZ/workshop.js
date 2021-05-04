@@ -6,6 +6,7 @@ export default {
       universe {vesmír}
       story {příběh}
       fanfiction {fan fikci}
+      other {}
     }. Začni tvořit teď!`,
     'workshop.collab': 'Spolupráce',
     'workshop.betareadings': 'Beta čtení',
@@ -63,7 +64,7 @@ export default {
     'workshop.revisions.toeditor': 'Přejít do editoru',
     'workshop.revisions.comments': 'Komentáře k revizi',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revize {revision} - Komentáře',
-    'workshop.revisions.comments.list': '{revision}: {publication, select, beta {pro Beta čtenáře} readers {Veřejné}} {datetime, date, medium} {datetime, time, short}',
+    'workshop.revisions.comments.list': '{revision}: {publication, select, beta {pro Beta čtenáře} readers {Veřejné} other {}} {datetime, date, medium} {datetime, time, short}',
     'workshop.revisions.comments.norevision': 'Nejprve musíte vytvořit revizi.',
     'workshop.revisions.comments.select': 'Vybrat revizi',
     'workshop.collaborators.noresults': 'Žádné výsledky',
@@ -89,12 +90,14 @@ export default {
     collaborator {spolupracovníků}
     beta {beta čtenářů}
     translator {překladatelů}
+    other {}
   }, potřebujete vyšší členství.`,
     'workshop.collaborators.requests.sent': 'Odeslané žádosti',
     'workshop.collaborators.requests.invite': `Byli jste pozváni, abyste se stali {role, select,
     beta {beta čtenářem}
     translator {překladatelem}
     collaborator {spolupracovníkem}
+    other {}
   } na:`,
     'workshop.collaborators.requests.dashboard': `Byli jste pozváni ke spolupráci na {count, plural,
     zero {žádném literárním díle}
@@ -202,6 +205,7 @@ export default {
       one {roky}
       other {let}
     }}
+    other {}
   } = {targetResult, number} {targetType}`,
     'fictionalTime.inputFrom': 'Z',
     'fictionalTime.inputSelectTimeUnit': 'Vyberte časovou jednotku',

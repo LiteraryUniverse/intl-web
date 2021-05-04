@@ -22,6 +22,7 @@ export default {
     'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
     story {story}
     universe {universe}
+    other {}
   }.`,
     'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
     'challenges.start': 'チャレンジを開始',

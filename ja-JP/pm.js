@@ -8,7 +8,7 @@ export default {
     'pm.messages.own': 'あなたのメッセージ',
     'pm.conversations.none': 'あなたは現在誰とも話していません。',
     'pm.to': '受取人',
-    'pm.with': 'Conversation with:',
+    'pm.with': 'との会話',
     'pm.send': '送信',
     'pm.conversations.unreadCount': `未読の会話{count, plural,
     zero {はありません}

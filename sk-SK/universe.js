@@ -1,6 +1,6 @@
 export default {
     'universe.authors.title.meta': 'Autori {title}',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
+    'universe.fanfiction.see': 'Všetky fanfiction pre {universe}',
     'universe.fanfiction.desc': 'Fanfiction pre {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.stories.count': `V tomto vesmíre {num, plural,

@@ -1,31 +1,30 @@
 export default {
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    other {}
+    'form.validator.required': 'Campo obligatorio',
+    'form.validator.mustBeNumber': 'Debe ser un número',
+    'form.validator.minNumber': 'Debe ser mayor que {min}',
+    'form.validator.maxNumber': 'Debe ser menor que {max}',
+    'form.validator.maxLength': `Debe tener menos de {max} {what, select,
+    characters {personajes}
+    tags {etiquetas}
+    genres {géneros}
+    other {otros}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    other {}
+    'form.validator.minLength': `Debe tener al menos {min} {what, select,
+    characters {personajes}
+    tags {etiquetas}
+    genres {géneros}
+    other {otros}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+    'form.validator.email': 'El e-mail debe ser válido',
+    'form.validator.url': 'La URL debe ser válida',
+    'form.validator.slug': 'La parte de la URL debe ser válida',
+    'form.submitting.signup': 'Creando cuenta...',
+    'form.submitting.signin': 'Iniciando sesión...',
+    'form.submitting.default': 'Entregando...',
+    'form.submitting.sending': 'Enviando...',
+    'form.validator.whitespace': 'No puede haber espacios en blanco',
+    'form.validator.zipCode': 'El código postal debe ser válido',
+    'form.validator.isbn': 'Sólo aceptamos la versión 10 o 13 de ISBN',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} es obligatorio',
@@ -49,7 +48,7 @@ export default {
     'simpleschema.expectedObject': '{label} tiene que ser un objeto',
     'simpleschema.expectedConstructor': '{label} tiene que ser de tipo {type}',
     'simpleschema.keyNotInSchema': '{key} no está permitido por el esquema',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label} tiene que ser única',
     'simpleschema.regEx.0': '{label} falló la validación por Expresión Regular (Regex)',
     'simpleschema.regEx.1': '{label} tiene que ser una dirección de correo electrónico válida',
     'simpleschema.regEx.2': '{label} tiene que ser una dirección de correo electrónico válida',

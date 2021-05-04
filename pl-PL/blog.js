@@ -3,12 +3,14 @@ export default {
     org {any blog}
     universe {a blog for your universe}
     user {a blog}
+    other {}
   }.`,
     'blog.create': 'Create a new blog',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
+    other {}
   } settings`,
     'blog.description': 'Blog introduction',
     'blog.theme': 'Theme',
@@ -29,11 +31,13 @@ export default {
     universes {Universes}
     stories {Standalone stories}
     fanfiction {Fan Fiction work}
+    other {}
   }`,
     'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
+    other {}
   }`,
     'blog.social.website': 'Official website',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
