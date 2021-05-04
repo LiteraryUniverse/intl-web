@@ -67,6 +67,7 @@ export default {
     'plans.subscribed.renewal': `Na konci bude Vaše předplatné {method, select,
     charge_automatically {automaticky obnoveno}
     send_invoice {obnoveno po zaplacení faktury}
+    other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Váš výchozí způsob platby bude použit k zaplacení za další cyklu.',
     'plans.subscribed.status': `Subscription status: {status, select,
@@ -77,6 +78,7 @@ export default {
     past_due {Neobdrželi jsme Vaší platbu}
     canceled {Zrušeno}
     unpaid {Nezaplaceno}
+    other {}
   }`,
     'payments.changeMethod': 'Změnit způsob platby',
     'plans.subscribed.willNotRenew': ', nebude obnovena na konci cyklu.',
@@ -106,6 +108,7 @@ export default {
     paid {Zaplaceno}
     uncollectible {Uncollectible}
     void {Neplatné}
+    other {}
   }`,
     'payment.invoice.id': 'ID faktury',
     'payment.invoice.pdf': 'Faktura ve formátu pdf',
