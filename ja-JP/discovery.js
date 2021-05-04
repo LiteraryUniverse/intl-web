@@ -6,7 +6,7 @@ export default {
     'discovery.stories.updated': '最近更新された物語',
     'discovery.continue': '続きを読む',
     'discovery.stories.similar.new': 'ご近所の新しい物語',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.stories.similar.regular': '近所の話',
     'story.estimatedReadingTime': `この物語は{hours, plural,
         =0 {}
         one {1時間と}
@@ -16,5 +16,5 @@ export default {
         one {1分}
         other {#分}
     }で読めるはずです。`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.'
+    'story.estimatedReadingTime.explained': '毎分{avgReadingNum}文字の平均読取速度に基づいています。'
 };
