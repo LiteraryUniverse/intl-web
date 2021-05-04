@@ -1,22 +1,22 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Conversación',
+    'pm.showolder': 'Ver mensajes anteriores',
+    'pm.errors.saysomething': 'Deberías decir algo...',
+    'pm.errors.addrecipient': 'Tienes que agregar por lo menos a otro usuario más.',
+    'pm.message': 'Mensaje',
+    'pm.send.message': 'Enviar mensaje',
+    'pm.messages.own': 'Tus mensajes',
+    'pm.conversations.none': 'Ahora mismo no tienes conversaciones con nadie.',
+    'pm.to': 'Para:',
+    'pm.with': 'Conversación con:',
+    'pm.send': 'Enviar',
+    'pm.conversations.unreadCount': `{count, plural,
+    zero {no tienes conversaciones sin leer}
+    one {tienes una conversación sin leer}
+    other {tienes # conversaciones sin leer}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.',
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Tienes que elegir un destinatario.',
+    'pm.form.maxParticipants': 'Puede haber un máximo de 10 personas en una conversación.',
+    'pm.new.aria': 'Nueva conversación',
+    'pm.new.buttonTitle': 'Empezar una nueva conversación'
 };
