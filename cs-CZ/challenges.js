@@ -22,6 +22,7 @@ export default {
     'challenges.wordcount.desc': `Nastavte si cíl kolik slov chcete napsat tento měsíc pro tento {type, select,
     story {příběh}
     universe {vesmír}
+    other {}
   }.`,
     'challenges.wordcount.select': 'Ke kolika slovům se chcete vyzvat?',
     'challenges.start': 'Zahájit výzvu',
