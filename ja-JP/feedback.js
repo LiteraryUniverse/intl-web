@@ -48,5 +48,6 @@ export default {
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
+    other {story}
   } is being infringed?`
 };
