@@ -58,6 +58,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    other {entry}
   }`,
   'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -77,6 +78,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    other {entry}
   } in {universe}`,
   'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -96,6 +98,7 @@ export default {
     planets {Planet}
     species {Specie}
     technologies {Technology}
+    other {entry}
   }`,
   'encyclopedia.entry.category.legend': 'Category',
   'encyclopedia.fields.add': 'Add a new field',

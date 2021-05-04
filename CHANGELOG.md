@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-05-05 - v1.3.0
+  * Fix missing `other` option in `select` strings
+
 ## 2021-05-03 - v1.3.0
   * Fixed multiple keys
   * Added Slovak to selectable languages
