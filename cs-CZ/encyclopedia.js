@@ -60,6 +60,7 @@ export default {
     planets {ou planetu}
     species {ou rasu}
     technologies {ou technologii}
+    other {ý příspěvek}
   }`,
     'encyclopedia.create.header': `Vytvořit nov{category, select,
     character {ou postavu}
@@ -79,6 +80,7 @@ export default {
     planets {ou planetu}
     species {ou rasu}
     technologies {ou technologii}
+    other {ý příspěvěk}
   } v {universe}`,
     'encyclopedia.entry.category': `Typ článku: {category, select,
     character {Postava}
@@ -98,6 +100,7 @@ export default {
     planets {Planeta}
     species {Rasa}
     technologies {Technologie}
+    other {příspěvek}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Přidat nové pole',
