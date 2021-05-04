@@ -6,6 +6,7 @@ export default {
       universe {universe}
       story {story}
       fanfiction {fan fiction}
+      other {}
     }. Create one now!`,
     'workshop.collab': 'Collaborative work',
     'workshop.betareadings': 'Beta readings',
@@ -63,7 +64,7 @@ export default {
     'workshop.revisions.toeditor': 'Go to the editor',
     'workshop.revisions.comments': 'Revision comments',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revision {revision} - Comments',
-    'workshop.revisions.comments.list': '{revision}: {publication, select, beta {for Beta readers} readers {Public}} {datetime, date, medium} {datetime, time, short}',
+    'workshop.revisions.comments.list': '{revision}: {publication, select, beta {for Beta readers} readers {Public} other {}} {datetime, date, medium} {datetime, time, short}',
     'workshop.revisions.comments.norevision': 'You need to create a revision first.',
     'workshop.revisions.comments.select': 'Select revision',
     'workshop.collaborators.noresults': 'No results',
@@ -89,12 +90,14 @@ export default {
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
+    other {}
   }, you need to increase your membership tier.`,
     'workshop.collaborators.requests.sent': 'Sent requests',
     'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
     beta {beta reader}
     translator {translator}
     collaborator {collaborator}
+    other {}
   } for the following:`,
     'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
     zero {no work}
@@ -197,6 +200,7 @@ export default {
       one {year}
       other {years}
     }}
+    other {}
   } = {targetResult, number} {targetType}`,
     'fictionalTime.inputFrom': 'From',
     'fictionalTime.inputSelectTimeUnit': 'Select time unit',
