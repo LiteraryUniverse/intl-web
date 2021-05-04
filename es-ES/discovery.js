@@ -1,20 +1,20 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Descubre nuevas historias y universos.',
+    'discovery.universes.new': 'Universos emergentes',
+    'discovery.stories.new': 'Nuevas historias',
+    'discovery.stories.standalone.new': 'Nuevas historias independientes',
+    'discovery.stories.updated': 'Historias publicadas recientemente',
+    'discovery.continue': 'Leer más',
+    'discovery.stories.similar.new': 'Nuevas historias en el vecindario',
+    'discovery.stories.similar.regular': 'Historias en el vecindario',
+    'story.estimatedReadingTime': `Esta historia llevaría {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 hora y }
+        other {# horas y }
     }{minutes, plural,
         =0 {}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.'
+        one {1 minuto}
+        other {# minutos}
+    } para leerla.`,
+    'story.estimatedReadingTime.explained': 'Basado en una velocidad de lectura media de {avgReadingNum} palabras por minuto.'
 };
