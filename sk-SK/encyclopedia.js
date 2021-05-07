@@ -42,62 +42,62 @@ export default {
     'encyclopedia.add.title': 'Pridanie nového záznamu do encyklopédie',
     'encyclopedia.add.heading': 'Čo chcete pridať?',
     'encyclopedia.add.moresoon': 'Ďalšie kategórie už čoskoro!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Vytvorte nov{category, select,
+    character {ú postavu}
+    event {ú udalosť}
+    group {ú skupinu}
+    item {ú položku}
+    location {é miesto}
+    other {ú poznámku}
+    state {ý štát}
+    governments {ú vládu}
+    languages {ý jazyk}
+    creatures {ú bytosť}
+    deity {é božstvo}
+    religions {é náboženstvo}
+    flora {ú flóru}
+    magic {é kúzlo}
+    planets {ú planétu}
+    species {ý druh}
+    technologies {ú technológiu}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    'encyclopedia.create.header': `Vytvorenie nov{category, select,
+    character {ú postavu}
+    event {ú udalosť}
+    group {ú skupinu}
+    item {ú položku}
+    location {é miesto}
+    other {ú poznámku}
+    state {ý štát}
+    governments {ú vládu}
+    languages {ý jazyk}
+    creatures {ú bytosť}
+    deity {é božstvo}
+    religions {é náboženstvo}
+    flora {ú flóru}
+    magic {é kúzlo}
+    planets {ú planétu}
+    species {ý druh}
+    technologies {ú technológiu}
+  } v {universe} vesmíre`,
+    'encyclopedia.entry.category': `Kategória záznamu: {category, select,
+    character {Postava}
+    event {Udalosť}
+    group {Skupina}
+    item {Položka}
+    location {Lokalita}
+    other {Poznámka}
+    state {Štát}
+    governments {Vláda}
+    languages {Jazyk}
+    creatures {Tvor}
+    deity {Božstvo}
+    religions {Náboženstvo}
     flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    magic {Magia}
+    planets {Planéta}
+    species {Druh}
+    technologies {Technológia}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Pridať nové pole',
@@ -127,11 +127,12 @@ export default {
     'encyclopedia.cover': 'Obrázok na obálke',
     'encyclopedia.translation.title': 'Vitajte v preklade vesmíru {universe}!',
     'encyclopedia.translation.desc': 'Toto encyklopedické rozhranie sa používa na preklad do {language}. Vyberte existujúce položky v zozname na ľavej strane a začnite ich preklad.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `V tomto vesmíre {totalEntries, plural,
+    zero {nie sú žiadne záznamy}
+    one {je jedna položka}
+    few {sú # položky}
+other {je # položiek}
+  }.`,
     'encyclopedia.settings.title': 'Nastavenia encyklopédie',
     'encyclopedia.settings.categoriesDesc': 'Zapnite a vypnite kategórie, ktoré chcete používať v encyklopédii.',
     'encyclopedia.settings.introText': 'Uvítacia správa, ktorá sa zobrazí po popise vesmíru.',
