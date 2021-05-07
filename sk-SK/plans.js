@@ -55,77 +55,77 @@ export default {
     'payment.history.tab': 'História',
     'payment.history.none': 'Nemáme žiadne záznamy o minulých platbách.',
     // Added 2020-04-30
-    'plans.options.aria': 'Payment options',
-    'plans.options.creditCard': 'Credit Card',
-    'plans.purchase.action': 'Subscribe',
-    'plans.purchase.title': 'Buy Literary Universe subscription',
-    'payment.creditCard.details': 'Credit Card details',
-    'payments.zipcode.label': 'ZIP code',
-    'payment.card.name': 'Name on card',
-    'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-    'plans.subscribed.periodEnd': 'Your subscription is valid until: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.options.aria': 'Možnosti platby',
+    'plans.options.creditCard': 'Kreditná karta',
+    'plans.purchase.action': 'Predplatiť',
+    'plans.purchase.title': 'Kúpiť predplatné Literary Universe',
+    'payment.creditCard.details': 'Údaje o kreditnej karte',
+    'payments.zipcode.label': 'PSČ',
+    'payment.card.name': 'Meno na karte',
+    'plans.subscribed.thankYou': 'Ďakujeme, že podporujete Literary Universe',
+    'plans.subscribed.periodEnd': 'Vaše predplatné je platné do: {end, date, medium}',
+    'plans.subscribed.renewal': `Na konci bude vaše predplatné {method, select,
+    charge_automatically {automaticky obnoveno}
+    send_invoice {obnovené po zaplatení faktúry}
     other {}
   }.`,
-    'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.paymentMethod': 'Na platbu za ďalší cyklus sa použije váš predvolený spôsob platby.',
+    'plans.subscribed.status': `Stav predplatného: {status, select,
+    active {Aktívne}
+    incomplete {Niečo tu chýba}
+    incomplete_expired {Niečo tu chýba}
+    trialing {Skúška}
+    past_due {Chýba nám Vaša platba}
+    canceled {Zrušené}
+    unpaid {Nezaplatené}
     other {}
   }`,
-    'payments.changeMethod': 'Change payment method',
-    'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
-    'plans.cancel.button': 'Cancel subscription',
-    'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.',
-    'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
-    'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
-    'plans.cancel.restoreBtn': 'Restore subscription',
-    'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
-    'plans.change.button': 'Change subscription',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
-    'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
+    'payments.changeMethod': 'Zmeniť spôsob platby',
+    'plans.subscribed.willNotRenew': ', sa na konci cyklu neobnoví.',
+    'plans.cancel.button': 'Zrušiť predplatné',
+    'plans.cancel.question': 'Ste si istí, že chcete zrušiť svoje predplatné? Vaše predplatné zostane aktívne do konca fakturačného cyklu.',
+    'plans.cancel.confirmationButton': 'Áno, chcem zrušiť predplatné',
+    'plans.cancel.failed': 'Ospravedlňujeme sa, v tejto chvíli sme nemohli zrušiť váš plán. Skúste to prosím neskôr.',
+    'plans.cancel.restoreBtn': 'Obnoviť predplatné',
+    'plans.cancel.restoreFailed': 'Ospravedlňujeme sa, v tejto chvíli sa nám nepodarilo obnoviť predplatné. Skúste to prosím neskôr.',
+    'plans.change.button': 'Zmena predplatného',
+    'plans.change.explanation': 'Vyberte si plán, na ktorý chcete prejsť alebo znížiť úroveň. Rozdiel v cene vám bude okamžite vyúčtovaný.',
+    'plans.change.failed': 'Ospravedlňujeme sa, v tejto chvíli sme nemohli zmeniť váš plán. Skúste to prosím neskôr.',
     'plans.change.upgrade': 'Upgrade',
-    'payments.disclaimer': 'Payment information and processing is done via Stripe. We do not keep any credit card or bank account information on our servers.',
-    'buy.payment.optionsSelect': 'Select payment option',
-    'payments.card.number': 'Card number',
-    'payments.card.expire': 'Valid Thru',
+    'payments.disclaimer': 'Platobné informácie a spracovanie sa vykonáva prostredníctvom služby Stripe. Na našich serveroch neuchovávame žiadne informácie o kreditných kartách ani bankových účtoch.',
+    'buy.payment.optionsSelect': 'Vyberte možnosť platby',
+    'payments.card.number': 'Číslo karty',
+    'payments.card.expire': 'Platí do',
     'payments.card.cvv': 'CVV',
-    'payments.card.info': '{cardType} card, ending in {ending}',
-    'payments.none': 'No saved payment options found.',
-    'payments.added': 'New payment option has been successfully added.',
-    'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
-    'payment.invoice.status': 'Invoice status',
+    'payments.card.info': '{cardType} karta, končiaca na {ending}',
+    'payments.none': 'Nenašli sa žiadne uložené možnosti platby.',
+    'payments.added': 'Nová možnosť platby bola úspešne pridaná.',
+    'payments.delete.confirm': 'Ste si istí, že chcete odstrániť {cardType}, končiaci na {ending}?',
+    'payment.invoice.status': 'Stav faktúry',
     'payment.invoice.statusMessage': `{status, select,
-    draft {Draft}
-    open {Open}
-    paid {Paid}
-    uncollectible {Uncollectible}
-    void {Void}
+    draft {Návrh}
+    open {Otvorené}
+    paid {Platené}
+    uncollectible {Nevymožiteľné}
+    void {Prázdne}
     other {}
   }`,
-    'payment.invoice.id': 'Invoice id',
-    'payment.invoice.pdf': 'Invoice pdf',
-    'payment.invoice.total': 'Total',
-    'payment.invoice.what': 'Invoice description',
-    'payment.stripe.powered': 'Powered by ',
-    'payment.listMethods.card': 'Cards',
-    'payment.expiresAt': 'Expires {month}/{year}',
+    'payment.invoice.id': 'ID faktúry',
+    'payment.invoice.pdf': 'Faktúra vo formáte pdf',
+    'payment.invoice.total': 'Celkom',
+    'payment.invoice.what': 'Popis faktúry',
+    'payment.stripe.powered': 'Beží na ',
+    'payment.listMethods.card': 'Karty',
+    'payment.expiresAt': 'Platnosť {month}/{year}',
     'payment.card.details': `{type, select,
-    credit {Credit card}
-    debit {Debit card}
-    other {Card}
-  } ending with {last4}`,
-    'payment.options.default': 'Default',
+    credit {Kreditná karta}
+    debit {Debetná karta}
+    other {Karta}
+    } končiace na {last4}`,
+    'payment.options.default': 'Predvolené',
     // Added 2020-05-27
-    'payment.method.add': 'Add a new payment method',
-    'payment.methods.adding': 'You new payment method has been added to your account.',
-    'payment.methods.delete': 'Delete payment method',
+    'payment.method.add': 'Pridanie novej možnosti platby',
+    'payment.methods.adding': 'Do vášho účtu bol pridaný nový spôsob platby.',
+    'payment.methods.delete': 'Odstránenie spôsobu platby',
     'payment.upgradePlan.option': '{plan} - {price}'
 };
