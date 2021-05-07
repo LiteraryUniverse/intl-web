@@ -24,22 +24,24 @@ export default {
     'encyclopedia.category.species': 'Druhy',
     'encyclopedia.category.technologies': 'Technológie',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
+    =0 {Žiadne súvisiace položky}
+    one {Nájdené 1 súvisiace položky}
+    few {Nájdené # súvisiace položky}
+    other {Nájdených # súvisiacich položiek}
+  }.`,
     'encyclopedia.help.text': 'Na navigáciu medzi položkami encyklopédie použite menu na ľavej strane. Po výbere položky sa zobrazí namiesto tohto textu.',
     'encyclopedia.help.sidebar': 'Súbor nástrojov bočného panela',
     'encyclopedia.help.sidebar.text': 'Vitajte vo svojom príbehu! Tento bočný panel vám umožňuje jednoduchý prístup ku všetkým zdrojom súvisiacim s vaším príbehom. Zaškrtnutím ikon vyššie si môžete pozrieť najnovšie komentáre, svoje poznámky, vyhľadávať vo svojej encyklopédii, prechádzať a pridávať nové záznamy do svojej encyklopédie. Ak chcete pridať pripojenie k záznamu z textu príbehu, vyberte text, kam ho chcete umiestniť, a potom kliknite na tlačidlo pripojiť. Následne budete vyzvaní na vyhľadanie a výber položky.',
     'encyclopedia.intro': 'Vitajte v encyklopédii {universe}.',
-    'encyclopedia.entries.total': `There are currently {num, plural,
-    =0 {no entries}
-    one {one entry}
-    other {# entries}
-  } in this encyclopedia.`,
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
+    'encyclopedia.entries.total': `V tejto encyklopédii {num, plural,
+    =0 {nie sú žiadne položky}
+    one {je jedna položka}
+    few {sú # položky}
+    other {je # položiek}
+  }.`,
+    'encyclopedia.add.title': 'Pridanie nového záznamu do encyklopédie',
+    'encyclopedia.add.heading': 'Čo chcete pridať?',
+    'encyclopedia.add.moresoon': 'Ďalšie kategórie už čoskoro!',
     'encyclopedia.create': `Create a new {category, select,
     character {character}
     event {event}
@@ -58,7 +60,6 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
-    other {entry}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -78,7 +79,6 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
-    other {entry}
   } in {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -98,7 +98,6 @@ export default {
     planets {Planet}
     species {Specie}
     technologies {Technology}
-    other {entry}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Pridať nové pole',
@@ -126,32 +125,35 @@ export default {
     'encyclopedia.connections.existing.abbr': 'EP',
     // abbreviation for Existing Entry
     'encyclopedia.cover': 'Obrázok na obálke',
-    'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
+    'encyclopedia.translation.title': 'Vitajte v preklade vesmíru {universe}!',
+    'encyclopedia.translation.desc': 'Toto encyklopedické rozhranie sa používa na preklad do {language}. Vyberte existujúce položky v zozname na ľavej strane a začnite ich preklad.',
     'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
     zero {are no entries}
     one {is one entry}
     other {are # entries}
   } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
-    'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-    'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
-    'encyclopedia.timeOption.fictionalDate': 'Fictional date',
-    'encyclopedia.timeOption.fictionalTime': 'Fictional time',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
-    'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
-    'encyclopedia.menuOpen': 'Open Encyclopedia menu',
-    'encyclopedia.menuClose': 'Close Encyclopedia menu',
-    'encyclopedia.menuAria': 'Encyclopedia menu',
-    'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
-    other {{max, number}}
-  } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.'
+    'encyclopedia.settings.title': 'Nastavenia encyklopédie',
+    'encyclopedia.settings.categoriesDesc': 'Zapnite a vypnite kategórie, ktoré chcete používať v encyklopédii.',
+    'encyclopedia.settings.introText': 'Uvítacia správa, ktorá sa zobrazí po popise vesmíru.',
+    'encyclopedia.fields.placeholder': 'Názov poľa',
+    'encyclopedia.fields.delete': 'Vymazať pole',
+    'encyclopedia.timeOption.fictionalDate': 'Fiktívny dátum',
+    'encyclopedia.timeOption.fictionalTime': 'Fiktívny čas',
+    'encyclopedia.timeOption.fictionalDateTime': 'Fiktívny čas a dátum',
+    'encyclopedia.timeOption.date': 'Dátum',
+    'encyclopedia.timeOption.time': 'Čas',
+    'encyclopedia.timeOption.dateTime': 'Dátum a čas',
+    'encyclopedia.settings.groupByCategories': 'Zahrnúť kategórie do zoznamu skupín',
+    'encyclopedia.menuOpen': 'Otvorenie ponuky Encyklopédia',
+    'encyclopedia.menuClose': 'Zatvoriť ponuku Encyklopédia',
+    'encyclopedia.menuAria': 'Menu encyklopédie',
+    'enc.newField': 'Nové pole',
+    'enc.entries.limit': `V súčasnosti máte{value, number} z {max, plural,
+    =0 {neobmedzený počet položiek}
+    one {{max, number} položiek}
+    few {{max, number} položiek}
+    many {{max, number} položiek}
+    other {{max, number} položiek}
+  }.`,
+    'enc.entries.limitReached': 'Dosiahli ste maximálny povolený počet záznamov v encyklopédii pre aktuálne predplatné.'
 };
