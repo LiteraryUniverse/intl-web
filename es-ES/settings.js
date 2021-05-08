@@ -13,7 +13,7 @@ export default {
     'settings.languages.notice': 'La única lengua disponible oficialmente es el inglés. Otras lenguas están disponibles gracias a unos voluntarios maravillosos, pero pueden estar incompletas.',
     'settings.languages.join': 'Si quieres ayudarnos, tú también puedes traducir Literary Universe.',
     'settings.name.title': 'Nombre',
-    'settings.name.given': 'Segundo nombre',
+    'settings.name.given': 'Nombre',
     'settings.name.family': 'Apellidos',
     'settings.username.change': 'Cambiar nombre de usuario',
     'settings.username.label': 'Nombre de usuario',
