@@ -33,7 +33,7 @@ export default {
     'common.search': 'Buscar',
     'common.search.do': 'Buscar',
     'common.searching': 'Buscando...',
-    'common.report': 'Report',
+    'common.report': 'Reportar',
     'common.user': 'Usuario',
     'common.users': 'Usuarios',
     'common.showmore': 'Ver mas',
