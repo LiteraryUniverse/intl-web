@@ -12,7 +12,7 @@ export default {
     'challenges.wordcount.finishOnTime': 'Palabras por escribir al día para terminar a tiempo',
     'challenges.wordcount.graph.day': 'Día {day}',
     'challenges.underway': 'Este reto ya está en marcha.',
-    'challenges.targetWords': 'Total targeted word count',
+    'challenges.targetWords': 'Total de palabras meta',
     'challenges.startDate': 'Fecha de inicio',
     'challenges.endDate': 'Fecha de finalización',
     'challenges.future': 'Futuros retos',
