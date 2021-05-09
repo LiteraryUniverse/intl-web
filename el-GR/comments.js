@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'Γράψτε το σχόλιό σας',
+    'comments.none': 'Λυπάμαι, δεν υπάρχουν σχόλια για εμφάνιση.',
+    'comments.total': `Υπάρχουν {count, plural,
+    =0 {δεν υπάρχουν σχόλια}
+    one {είναι 1 σχόλιο}
+    other {είναι # σχόλια}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Εμφάνιση παλαιότερων σχολίων'
 };
