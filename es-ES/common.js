@@ -164,7 +164,7 @@ export default {
     'story.notes.impact': 'Impacto deseado',
     'story.notes.outcome': 'Resultado',
     'story.notes.audience': 'Público objetivo',
-    'story.notes.pitch': 'Pitch',
+    'story.notes.pitch': 'Presentación',
     'story.notes.notes': 'Notas',
     'story.authorsNotes': 'Notas del autor',
     'common.members': 'Miembros',
