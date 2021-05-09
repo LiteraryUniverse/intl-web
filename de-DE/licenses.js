@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0',
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
+    'licenses.lu-c': 'Standardlizenz mit vollem Urheberrecht, die es Ihnen erlaubt, Ihr Werk beliebig zu verkaufen und Ihre Rechte daran schützen zu lassen. Diese Lizenz gibt Ihnen auch die Möglichkeit, Ihre Geschichten auf Literary Universe zu verkaufen.',
     'licenses.name.cc0': 'Keine Rechte vorbehalten - CC0 1.0',
     'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
 };
