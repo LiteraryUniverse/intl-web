@@ -1,8 +1,8 @@
 export default {
-    'plans.desc': 'Description of plans and features of Literary Universe.',
-    'plans.title': 'Get more out of Literary Universe!',
-    'plans.text': 'Literary Universe offers  basic functionality for free. If you are avid reader or a creator you might find our advance membership more to your liking.',
-    'plans.faq.basicsPriced': 'Why has the free membership so few things?',
+    'plans.desc': 'Descripción de planes y funciones de Literary Universe.',
+    'plans.title': '¡Sácale más partido a Literary Universe!',
+    'plans.text': 'Literary Universe ofrece funcionalidad básica gratis. Si eres un lector empedernido o un creador, puede que te convenga adquirir nuestra membresía avanzada.',
+    'plans.faq.basicsPriced': '¿Por qué la membresía gratuita incluye tan pocas cosas?',
     'plans.faq.justification': 'Here at Literary Universe we value your privacy and intellectual property. As such we don\'t use your data to sell advertisements or provide them to other companies. This means that we have to build many things on our own. This takes a lot of time and is expensive to run. So we have established the free membership as a small preview of Literary Universe (that still allows you to do the most important things) with multiple membership tiers and addons to accommodate everyone\'s needs while at the same time allowing us to keep the service up and continue development.',
     'plans.limits': 'Limits',
     'plans.features': 'Features',
