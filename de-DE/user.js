@@ -1,23 +1,23 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
+    'user.friend.request.add': 'Zu Freunden hinzufügen',
+    'user.friend.requests': `Sie haben {num} neuen Freund {num, Plural,
+    zero {Anfrage}
+    one {Anfrage}
+    other {Anfragen}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Entfreunden',
+    'user.block': 'Blocken',
+    'user.unblock': 'Entblocken',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.'
+    male {Verbunden}
+    female {Verbunden}
+    other {Verbunden}} am {date, date, long}`,
+    'user.friend.request.accept': 'Freundschaftsanfrage annehmen',
+    'user.friend.request.cancel': 'Freundschaftsanfrage abbrechen',
+    'user.friend.request.deny': 'Freundschaft verweigern',
+    'user.listing': 'Benutzerliste',
+    'user.profile.visit': 'Besuchen Sie das Profil von {user}.',
+    'user.profile.avatar': 'Avatar von {username}',
+    'user.friend.list.requests': 'Freundschaftsanfragen',
+    'user.friend.norequests': 'Sie haben keinen Wunsch nach Freundschaft.'
 };
