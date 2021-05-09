@@ -123,32 +123,32 @@ export default {
     'encyclopedia.connections.existing.abbr': 'VE',
     // abbreviation for Existing Entry
     'encyclopedia.cover': 'Titelbild',
-    'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
-    'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-    'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
-    'encyclopedia.timeOption.fictionalDate': 'Fictional date',
-    'encyclopedia.timeOption.fictionalTime': 'Fictional time',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
-    'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
-    'encyclopedia.menuOpen': 'Open Encyclopedia menu',
-    'encyclopedia.menuClose': 'Close Encyclopedia menu',
-    'encyclopedia.menuAria': 'Encyclopedia menu',
-    'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'encyclopedia.translation.title': 'Willkommen bei der {universe}-Universum-Übersetzung!',
+    'encyclopedia.translation.desc': 'Diese Enzyklopädie-Schnittstelle wird für die Übersetzung in {language} verwendet. Wählen Sie vorhandene Einträge in der Liste auf der linken Seite aus, um deren Übersetzung zu beginnen.',
+    'encyclopedia.welcome.totalEntries': `Es {totalEntries, plural,
+    =0 {gibt es keine Geschichten}
+    one {ist eine Geschichte}
+    other {sind # Geschichten}
+    } in diesem Universum.`,
+    'encyclopedia.settings.title': 'Enzyklopädie-Einstellungen',
+    'encyclopedia.settings.categoriesDesc': 'Schalten Sie Kategorien ein und aus, die Sie in Ihrer Enzyklopädie verwenden möchten.',
+    'encyclopedia.settings.introText': 'Willkommensnachricht, die nach der Beschreibung des Universums angezeigt werden soll.',
+    'encyclopedia.fields.placeholder': 'Feldname',
+    'encyclopedia.fields.delete': 'Feld löschen',
+    'encyclopedia.timeOption.fictionalDate': 'Fiktives Datum',
+    'encyclopedia.timeOption.fictionalTime': 'Fiktive Zeit',
+    'encyclopedia.timeOption.fictionalDateTime': 'Fiktives Datum Uhrzeit',
+    'encyclopedia.timeOption.date': 'Datum',
+    'encyclopedia.timeOption.time': 'Uhrzeit',
+    'encyclopedia.timeOption.dateTime': 'Datum und Zeit',
+    'encyclopedia.settings.groupByCategories': 'Kategorien in die Gruppenauflistung einbeziehen',
+    'encyclopedia.menuOpen': 'Menü Enzyklopädie öffnen',
+    'encyclopedia.menuClose': 'Menü Enzyklopädie schließen',
+    'encyclopedia.menuAria': 'Menü Enzyklopädie',
+    'enc.newField': 'Neues Feld',
+    'enc.entries.limit': `Du hast derzeit {value, number} von {max, plural, one {}
+    =0 {Unbegrenzt}
     other {{max, number}}
-  } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.'
+  } Einträge.`,
+    'enc.entries.limitReached': 'Sie haben die maximal zulässigen Enzyklopädie-Einträge für Ihr aktuelles Abonnement erreicht.'
 };
