@@ -1,7 +1,7 @@
 export default {
     'challenges.current': 'Retos actuales',
-    'challenges.wordcount.goal': 'Cantidad total de palabras',
-    'challenges.wordcount.dailygoal': 'Cantidad total de palabras al día',
+    'challenges.wordcount.goal': 'Meta de palabras',
+    'challenges.wordcount.dailygoal': 'Meta de palabras diarias',
     'challenges.wordcount.today': 'Escrito hoy',
     'challenges.wordcount.total': 'Total de palabras escritas',
     'challenges.wordcount.remaining': 'Palabras restantes',
@@ -19,39 +19,39 @@ export default {
     'challenges.future.wordcount': 'El reto de palabras empieza el {startDate, date, short} con el objetivo de {target, number} hasta el {endDate, date, short}.',
     'challenges.future.nanowrimo': 'El reto NaNoWriMo está listo.',
     'challenges.wordcount': 'Contador de palabras',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Ponte una meta de palabras por escribir este mes para {type, select,
+    story {esta historia}
+    universe {este universo}
     other {}
   }.`,
-    'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
-    'challenges.start': 'Start challenge',
-    'challenges.report': 'Report',
-    'challenges.victory': 'Congratulations! You have completed this challenge.',
-    'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
+    'challenges.wordcount.select': '¿Cuántas palabras te retas a escribir?',
+    'challenges.start': 'Empezar reto',
+    'challenges.report': 'Reportar',
+    'challenges.victory': '¡Enhorabuena! Has completado este reto.',
+    'challenges.defeat': 'Lamentablemente, no has completado este desafío.',
+    'challenges.baseline': 'El número de palabras actual de esta historia es {wordcount}. Este será el punto de partida.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
-    'nanowrimo.site': 'NaNoWriMo official site',
-    'nanowrimo.settings': 'NaNoWriMo account',
-    'nanowrimo.username': 'NaNoWriMo username',
-    'nanowrimo.key': 'Secret key',
-    'nanowrimo.key.get': 'Get your NaNoWriMo key.',
-    'nanowrimo.key.get.notice': 'You need to be logged in to see it.',
-    'nanowrimo.ongoing': 'is in full swing! {countdown} more days to go!',
-    'nanowrimo.startsin': `will start in {countdown, plural,
-      one {1 day}
-      other {# days}
-    }! Get ready!`,
-    'nanowrimo.isover': 'NaNoWriMo is over. See you next year!',
-    'nanowrimo.select': 'Designate this story for NaNoWriMo.',
-    'nanowrimo.baseline': 'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
-    'nanowrimo.victory': 'Congratulation! You won NaNoWriMo!',
-    'nanowrimo.challenge': 'NaNoWriMo challenge',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
-    'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
-    'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
-    'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
-    'nanowrimo.connected': 'You have designated this story for NaNoWriMo.',
-    'nanowrimo.connected.other': 'You have already connected another story.'
+    'nanowrimo.site': 'Página oficial de NaNoWriMo',
+    'nanowrimo.settings': 'Cuenta de NaNoWriMo',
+    'nanowrimo.username': 'Nombre de usuario de NaNoWriMo',
+    'nanowrimo.key': 'Clave secreta',
+    'nanowrimo.key.get': 'Obtén tu clave de NaNoWriMo.',
+    'nanowrimo.key.get.notice': 'Tienes que iniciar sesión para verla.',
+    'nanowrimo.ongoing': 'está en plena marcha! ¡Quedan {countdown} días!',
+    'nanowrimo.startsin': `empezará en {countdown, plural,
+      one {1 día}
+      other {# días}
+    }! ¡Prepárate!`,
+    'nanowrimo.isover': 'NaNoWriMo ha terminado. ¡Hasta el año que viene!',
+    'nanowrimo.select': 'Destinar esta historia para NaNoWriMo.',
+    'nanowrimo.baseline': 'Cuando NaNoWriMo empiece tomará el conteo de palabras actual y lo usará como referencia desde la que NaNoWriMo cogerá las palabras adicionales.',
+    'nanowrimo.victory': '¡Enhorabuena! ¡Has ganado NaNoWriMo!',
+    'nanowrimo.challenge': 'Reto de NaNoWriMo',
+    'nanowrimo.description': 'El reto consiste en escribir una novela de {words, number} palabras a lo largo de Noviembre.',
+    'nanowrimo.error.usernotfound': 'No se ha encontrado el nombre de usuario en los servidores de NaNoWriMo.',
+    'nanowrimo.error.nobook': 'No se encontró ningún libro. Por favor, comprueba que hayas creado tu libro en NaNoWriMo.',
+    'nanowrimo.error.wordcount': 'No se puede establecer el contador de palabras en NaNoWriMo. Por favor, verifica tus credenciales y vuelve a intentarlo.',
+    'nanowrimo.connected': 'Has destinado esta historia a NaNoWriMo.',
+    'nanowrimo.connected.other': 'Ya has conectado otra historia.'
 };
