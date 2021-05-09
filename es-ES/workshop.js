@@ -84,90 +84,90 @@ export default {
     'workshop.cover.alt': 'imagen de portada',
     'workshop.translation.updatedOrig': 'Última actualización del original: {updatedAt, date, long} a las {updatedAt, time, medium}',
     'workshop.translation.updatedTrs': 'Última actualización de traducción: {updatedAt, date, long} a las {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.translation.revisionOrig': 'Última revisión {revision, number}, del original: {updatedAt, date, long} a las {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'Última revisión {revision, number}, de la traducción: {updatedAt, date, long} a las {updatedAt, time, medium}',
+    'workshop.collaborators.premium': `Para añadir más {type, select,
+    collaborator {colaboradores}
+    beta {lectores beta}
+    translator {traductores}
     other {}
-  }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+  }, tienes que mejorar tu membresía.`,
+    'workshop.collaborators.requests.sent': 'Peticiones enviadas',
+    'workshop.collaborators.requests.invite': `Te han invitado para ser {role, select,
+    beta {lector beta}
+    translator {traductor}
+    collaborator {colaborador}
     other {}
-  } for the following:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
+  } para lo siguiente:`,
+    'workshop.collaborators.requests.dashboard': `Te han invitado a colaborar en {count, plural,
+    zero {nada}
+    one {una obra literaria}
+    other {# obras literarias}
   }.`,
-    'workshop.collaborators.language.added': 'Language added',
-    'workshop.story.noChaptersFound': 'No chapters found.',
-    'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
-    'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
-    'workshop.encSettings': 'Encyclopedia settings',
-    'workshop.collaborators.removeUser': 'Remove user',
-    'workshop.collaborators.cancelInvite': 'Cancel invite',
-    'workshop.universe.createFirstStory': 'Create the first story',
-    'workshop.storylines': 'Storylines',
-    'workshop.scenesManager': 'Scenes Manager',
-    'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
-    'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
-    'workshop.story.notes.title': 'Your notes for {storyTitle}',
-    'workshop.story.notes.desc': 'Overview notes for the story.',
-    'workshop.story.notes.tile': 'Overview notes',
-    'workshop.hideOrgs': 'Hide content from organizations',
-    'workshop.translation.premium': 'In order to add translations, you need to have at least Explorer subscription.',
-    'workshop.story.finished': 'Story is complete',
-    'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
-    'workshop.sharing.publicURL': 'Public version',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
-    'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
-    'workshop.fictionalTime.createNow': 'Create one now!',
-    'workshop.fictionalTime.createTitle': 'Create a new fictional time',
-    'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
-    'workshop.fictionalTime.timeName': 'Time name',
-    'workshop.fictionalTime.basicInfo': 'Basic information',
-    'workshop.fictionalTime.timeSetup': 'Time setup',
-    'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date (Gregorian calendar)?',
-    'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
+    'workshop.collaborators.language.added': 'Idioma añadido',
+    'workshop.story.noChaptersFound': 'No se encontraron capítulos.',
+    'workshop.fanfic.needUniverseInLibrary': 'Hay muchos universos allá afuera. Añade a tu librería aquellos en los que quieras escribir para que podamos encontrarlos.',
+    'workshop.fanfic.findUniverse': '¡Ve y encuentra un universo asombroso!',
+    'workshop.encSettings': 'Ajustes de la enciclopedia',
+    'workshop.collaborators.removeUser': 'Eliminar usuario',
+    'workshop.collaborators.cancelInvite': 'Cancelar invitación',
+    'workshop.universe.createFirstStory': 'Crear la primera historia',
+    'workshop.storylines': 'Tramas',
+    'workshop.scenesManager': 'Gestor de escenas',
+    'workshop.collaborators.addRoleForLang': 'Añadir {role} para {language}',
+    'workshop.beta.revisionInfo': 'Esta es la revisión {revision, number}, creada el {createdAt, date, long}.',
+    'workshop.story.notes.title': 'Tus notas para {storyTitle}',
+    'workshop.story.notes.desc': 'Notas generales de la historia.',
+    'workshop.story.notes.tile': 'Notas generales',
+    'workshop.hideOrgs': 'Ocultar contenido a las organizaciones',
+    'workshop.translation.premium': 'Para añadir traducciones, debes tener una suscripción de Explorador por lo menos.',
+    'workshop.story.finished': 'La historia está completa',
+    'workshop.story.publishing.externalSellingNotice': 'Al estar vendiendo fuera de Literary Universe, ya puedes publicar tu historia. Los enlaces a tu tienda aparecerán en la historia o al final de la historia actual que publiques.',
+    'workshop.sharing.publicURL': 'Versión pública',
+    'workshop.fictionalTime.title': 'Tiempos ficticios para {universeName}',
+    'workshop.fictionalTime.none': 'No tienes ninguna configuración de tiempos ficticios.',
+    'workshop.fictionalTime.createNow': '¡Crea uno ahora!',
+    'workshop.fictionalTime.createTitle': 'Crear un nuevo tiempo ficticio',
+    'workshop.fictionalTime.editTitle': 'Editar {ftName}',
+    'workshop.fictionalTime.formDescription': `Aquí podrás crear tu propio tiempo ficticio. Esta herramienta está limitada por el momento y sólo puede crear
+        tiempos simétricos. No podrás recrear el calendario maya o gregoriano. Por ahora 
+        esta herramienta supone que todos los tiempos serán siempre los mismos. Por ejemplo, los meses siempre tienen 30 días sin excepciones.
+        Nos ocuparemos de esto en versiones posteriores, pero hasta entonces esta herramienta se ajustará más para crear
+        tiempos basadas en ciencia ficción sobre todo.`,
+    'workshop.fictionalTime.timeName': 'Nombre del tiempo',
+    'workshop.fictionalTime.basicInfo': 'Información básica',
+    'workshop.fictionalTime.timeSetup': 'Configuración de tiempo',
+    'workshop.fictionalTime.linkedToET': '¿Este tiempo comienza en una fecha terrestre (calendario gregoriano)?',
+    'workshop.fictionalTime.timeDeclaration': 'Declaración del tiempo',
+    'workshop.fictionalTime.declarationLocation': '¿Dónde debería declararse el nombre del tiempo?',
     'workshop.fictionalTime.declarationBefore': 'Before units',
     'workshop.fictionalTime.declarationAfter': 'After units',
     'workshop.fictionalTime.declarationNone': 'None',
     'workshop.fictionalTime.units': 'Units',
-    'workshop.fictionalTime.ETStart': 'Starting date of this time',
+    'workshop.fictionalTime.ETStart': 'Fecha de inicio de este tiempo',
     'workshop.fictionalTime.unitsDescFirst': 'How many units are there in this unit from milliseconds?',
     'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
     'workshop.fictionalTime.unitsName': 'Unit name',
     'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
     'workshop.fictionalTime.unitAdd': 'Add unit',
-    'workshop.fictionalTime.clocks': 'Clocks',
+    'workshop.fictionalTime.clocks': 'Relojes',
     'workshop.fictionalTime.unitTransfer': 'Transfer units',
-    'fictionalTime.pageStartElapsedTime': 'Time elapsed since opening this page',
-    'fictionalTime.currentTime': 'Current time',
-    'workshop.shoppingExternal.options': 'External purchase options',
-    'workshop.shoppingExternal.explainer': 'If your story is sold elsewhere you can set the links here. The links will then show instead of the content or at the end of the content you choose to preview.',
-    'workshop.shoppingExternal.amazonStore': 'Amazon store',
+    'fictionalTime.pageStartElapsedTime': 'Tiempo transcurrido desde que se abrió esta página',
+    'fictionalTime.currentTime': 'Hora actual',
+    'workshop.shoppingExternal.options': 'Opciones de compra externa',
+    'workshop.shoppingExternal.explainer': 'Si tu historia está en venta en otro sitio, puedes poner aquí los enlaces. Los enlaces se mostrarán en lugar del contenido o al final del contenido que escojas.',
+    'workshop.shoppingExternal.amazonStore': 'Tienda de Amazon',
     'workshop.shoppingExternal.amazon': 'Amazon',
-    'workshop.shoppingExternal.storeName': 'Store name',
-    'workshop.shoppingExternal.itemUrl': 'Item URL',
-    'workshop.shoppingExternal.storesOther': 'Other stores',
+    'workshop.shoppingExternal.storeName': 'Nombre de la tienda',
+    'workshop.shoppingExternal.itemUrl': 'Elemento URL',
+    'workshop.shoppingExternal.storesOther': 'Otras tiendas',
     'fictionalTime.units.milliseconds': '{units} milliseconds',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'fictionalTime.countdownToStart': 'Cuenta atrás para el inicio del tiempo',
     'fictionalTime.unitsToETList': `{units} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {un día}
+      other {{days} días }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -189,27 +189,27 @@ export default {
       other {minutes}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {hora}
+      other {horas}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {día}
+      other {días}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {año}
+      other {años}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
-    'fictionalTime.inputSelectTimeUnit': 'Select time unit',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputFrom': 'De',
+    'fictionalTime.inputSelectTimeUnit': 'Seleccionar unidad de tiempo',
+    'fictionalTime.inputSelectETUnit': 'Seleccionar unidad de tiempo terrestre',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
-    'workshop.writerSidebar.title': 'Sidebar Toolbox',
-    'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.textopian': 'Link to Textopian',
-    'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order'
+    'workshop.writerSidebar.title': 'Caja de herramientas lateral',
+    'workshop.writerSidebar.description': '¡Bienvenido a tu historia! Esta barra lateral te permite acceder fácilmente a todos los recursos relacionados con tu historia. ¡Pulsa en los iconos inferiores para ver los últimos comentarios, tus notas y mucho más!',
+    'workshop.story.textopian': 'Enlace a Textopian',
+    'workshop.story.textopianExplained': 'Textopian es una plataforma de lectura y conversación para obras de domino público.',
+    'workshop.story.authorsNotesExplained': 'Notas para que tus lectores las lean al principio del capítulo.',
+    'workshop.story.chapterSortSwitch': 'Cambiar el orden de los capítulos'
 };
