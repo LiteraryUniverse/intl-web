@@ -109,7 +109,7 @@ export default {
     'scratchpad.about': 'Tus notas e ideas son accesibles en cualquier lugar del sitio.',
     'common.feedback': 'Sugerencias',
     'common.createdOn': 'Creado el {date, date, long}',
-    'common.createdOn.title': 'Created on',
+    'common.createdOn.title': 'Creado el',
     // account types
     admin: 'Admin',
     goodbye: '¡Gracias! ¡Hasta la próxima!',
