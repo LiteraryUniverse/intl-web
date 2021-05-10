@@ -33,5 +33,8 @@ export default {
     'stats.totalVisitors': 'Total unique visitors',
     'stats.totalWords': 'Total words',
     'stats.totalEntries': 'Encyclopedia entries',
-    'stats.blogPage': 'Page'
+    'stats.blogPage': 'Page',
+    'stats.blog.typeSelectionAria': 'Type selection',
+    'stats.blog.pages': 'Pages',
+    'stats.blog.posts': 'Posts'
 };
