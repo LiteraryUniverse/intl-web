@@ -33,5 +33,8 @@ export default {
     'stats.totalVisitors': 'Celkem unikátních návštěvníků',
     'stats.totalWords': 'Celkem slov',
     'stats.totalEntries': 'Položek v encyklopedii',
-    'stats.blogPage': 'Stránka'
+    'stats.blogPage': 'Stránka',
+    'stats.blog.typeSelectionAria': 'Type selection',
+    'stats.blog.pages': 'Pages',
+    'stats.blog.posts': 'Posts'
 };
