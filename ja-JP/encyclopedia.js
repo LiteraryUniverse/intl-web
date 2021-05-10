@@ -40,65 +40,62 @@ export default {
     'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
     'encyclopedia.add.heading': '何を追加しますか？',
     'encyclopedia.add.moresoon': 'より多くのカテゴリがまもなく登場します！',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    other {entry}
-  }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    other {entry}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    other {entry}
+    'encyclopedia.create': `新しい{category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
+  }を作成する`,
+    'encyclopedia.create.header': `{universe}に新しい{category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
+  }を作成する`,
+    'encyclopedia.entry.category': `記事のカテゴリ: {category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {項目}
+    location {場所}
+    other {その他}
+    state {国家}
+    governments {政府}
+    languages {語}
+    creatures {生き物}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {正貨}
+    technologies {技術}
   }`,
     'encyclopedia.entry.category.legend': '記事のカテゴリ',
     'encyclopedia.fields.add': '新しいフィールドを追加する',
@@ -111,31 +108,31 @@ export default {
     'encyclopedia.public': '公衆',
     'encyclopedia.private': '民間',
     'encyclopedia.container': 'コンテナ',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
+    'encyclopedia.container.desc': '新しいロケーションの作成',
     'encyclopedia.entry.name': '百科事典の記事の名前',
     'encyclopedia.summary': '概要',
     'encyclopedia.summary.desc': 'これは、読者に表示される唯一の初期情報となる要約です。',
     'encyclopedia.parent': '関連百科事典の記事',
-    'encyclopedia.related': 'Related entries',
-    'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
+    'encyclopedia.related': '関連エントリー',
+    'encyclopedia.errors.tags': '1つのエントリーにつき、タグは10個までとさせていただきます。',
     'encyclopedia.field.private': 'プライベートフィールド',
-    'encyclopedia.ft.indev': 'This option is in development.',
+    'encyclopedia.ft.indev': 'このオプションは開発中です。',
     'encyclopedia.connections.remove': '接続を削除',
     'encyclopedia.connections.extra': '既存の記事',
-    'encyclopedia.connections.existing': 'Existing entry',
+    'encyclopedia.connections.existing': '既存のエントリー',
     'encyclopedia.connections.existing.abbr': 'EE',
     // abbreviation for Existing Entry
     'encyclopedia.cover': '表紙画像',
-    'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
+    'encyclopedia.translation.title': 'ようこそ{universe}宇宙翻訳へ!',
+    'encyclopedia.translation.desc': 'この百科事典のインターフェースは{language}への翻訳に使われます。左側のリストから既存の項目を選ぶと、その翻訳が始まります。',
     'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
     zero {are no entries}
     one {is one entry}
     other {are # entries}
   } in this universe.`,
     'encyclopedia.settings.title': '百科事典の設定',
-    'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-    'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
+    'encyclopedia.settings.categoriesDesc': '百科事典で使用したいカテゴリーのオン・オフを設定します。',
+    'encyclopedia.settings.introText': '宇宙の説明の後に表示されるウェルカムメッセージ。',
     'encyclopedia.fields.placeholder': 'フィールド名',
     'encyclopedia.fields.delete': 'フィールドを削除',
     'encyclopedia.timeOption.fictionalDate': 'Fictional date',
@@ -144,14 +141,14 @@ export default {
     'encyclopedia.timeOption.date': '日付',
     'encyclopedia.timeOption.time': '時間',
     'encyclopedia.timeOption.dateTime': '日付時刻',
-    'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
+    'encyclopedia.settings.groupByCategories': 'グループリストにカテゴリーを含める',
     'encyclopedia.menuOpen': '百科事典メニューを開く',
     'encyclopedia.menuClose': '百科事典メニューを閉じる',
     'encyclopedia.menuAria': '百科事典メニュー',
-    'enc.newField': 'New field',
+    'enc.newField': '新しい分野',
     'enc.entries.limit': `You currently have {value, number} out of {max, plural,
     =0 {unlimited}
     other {{max, number}}
   } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.'
+    'enc.entries.limitReached': '現在の購読期間中に許容される百科事典の最大エントリ数に達しました。'
 };
