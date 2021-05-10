@@ -36,5 +36,5 @@ export default {
     'stats.blogPage': 'ページ',
     'stats.blog.typeSelectionAria': 'Type selection',
     'stats.blog.pages': 'ページ',
-    'stats.blog.posts': 'Posts'
+    'stats.blog.posts': 'ポスト'
 };
