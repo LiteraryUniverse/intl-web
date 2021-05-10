@@ -26,15 +26,15 @@ export default {
     'stats.language.title': 'Jazyky',
     'stats.chapter.visitorsAndViews': 'Celkem návštěvníků a pohledů podle kapitol',
     'stats.chapter.wordCount': 'Počet slov podle kapitoly',
-    'stats.chapter.chartTooltipViews': `Kapitola {chapter}: {views} zobrazení`,
-    'stats.chapter.chartTooltipVisitors': `Kapitola {chapter}: {visitors} unikátních návštěvníků`,
-    'stats.chapter.chartTooltipWordCount': `Kapitola {chapter}: {wordCount} slov`,
+    'stats.chapter.chartTooltipViews': `Kapitola {chapter, number}: {views, number} zobrazení`,
+    'stats.chapter.chartTooltipVisitors': `Kapitola {chapter, number}: {visitors, number} unikátních návštěvníků`,
+    'stats.chapter.chartTooltipWordCount': `Kapitola {chapter, number}: {wordCount, number} slov`,
     'stats.totalHits': 'Celkem zhlédnutí',
     'stats.totalVisitors': 'Celkem unikátních návštěvníků',
     'stats.totalWords': 'Celkem slov',
     'stats.totalEntries': 'Položek v encyklopedii',
     'stats.blogPage': 'Stránka',
-    'stats.blog.typeSelectionAria': 'Type selection',
-    'stats.blog.pages': 'Pages',
-    'stats.blog.posts': 'Posts'
+    'stats.blog.typeSelectionAria': 'Výběr typu',
+    'stats.blog.pages': 'Stránky',
+    'stats.blog.posts': 'Příspěvky'
 };
