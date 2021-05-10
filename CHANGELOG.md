@@ -1,5 +1,10 @@
 # Changelog for languages
-## 2021-05-05 - v1.3.0
+## 2021-05-10 - v1.4.0
+  * German and Spanish added into UI languages
+  * New keys for discovery search
+  * Added new story languages
+
+## 2021-05-05 - v1.3.1
   * Fix missing `other` option in `select` strings
 
 ## 2021-05-03 - v1.3.0
