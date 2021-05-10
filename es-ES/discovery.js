@@ -7,7 +7,7 @@ export default {
     'discovery.continue': 'Leer más',
     'discovery.stories.similar.new': 'Nuevas historias en el vecindario',
     'discovery.stories.similar.regular': 'Historias en el vecindario',
-    'story.estimatedReadingTime': `Esta historia llevaría {hours, plural,
+    'story.estimatedReadingTime': `Tardarías {hours, plural,
         =0 {}
         one {1 hora y }
         other {# horas y }
@@ -15,18 +15,18 @@ export default {
         =0 {}
         one {1 minuto}
         other {# minutos}
-    } para leerla.`,
-    'story.estimatedReadingTime.explained': 'Basado en una velocidad de lectura media de {avgReadingNum} palabras por minuto.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
+    } en leer esta historia.`,
+    'story.estimatedReadingTime.explained': 'En base a una velocidad de lectura media de {avgReadingNum} palabras por minuto.',
+    'discover.search.text': 'Buscar término',
+    'discover.searchStory.title': 'Buscar historia',
+    'discover.searchStory.description': 'Buscar historias',
+    'discover.searchUniverse.title': 'Buscar universo',
+    'discover.searchUniverse.description': 'Buscar universos',
+    'discover.search.storyStatus': 'Progreso de la historia',
+    'story.status.complete': 'Completado',
+    'story.status.inProgress': 'En curso',
+    'discover.search.universeConnection': 'Conexión de la historia al universo',
+    'story.universeRelation.standalone': 'Historia independiente',
     'story.universeRelation.fanFiction': 'Fan Fiction',
     'story.universeRelation.universe': 'Part of a universe',
     'discover.search.rating': 'Age rating',
