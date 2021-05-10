@@ -45,9 +45,9 @@ export default {
     'feedback.report.copyrightInternalProperty': 'Publikoval jsem toto dílo na Literary Universe',
     'feedback.reportType.spam': 'Spam nebo phishing',
     'feedback.reportType.other': 'Ostatní',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `Který {type, select,
+    universe {vesmír}
+    story {příběh}
+    other {}
+  } je zde zneužit?`
 };
