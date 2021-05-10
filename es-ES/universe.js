@@ -1,25 +1,25 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title.meta': '{title} autores',
+    'universe.fanfiction.see': 'Todos los fánfics para {universe}',
+    'universe.fanfiction.desc': 'Fánfic para {universe}',
+    'universe.fanfiction.for': 'Fánfic de {universe}',
+    'universe.stories.count': `{num, plural,
+    =0 {No hay historias}
+    one {Hay una historia}
+    other {Hay # historias}
+    } en este universo.`,
+    'universe.authors.title': 'Autores',
+    'universe.authors.desc': 'Creadores y colaboradores de {universe}',
+    'universe.contributors': 'Colaboradores',
+    'universe.translators': 'Traductores',
+    'universe.authors.notice': 'Cada historia podría tener más personal que haya trabajado en ella. Para saber más, mira los detalles de la historia.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}'
+    male {Creado por}
+    female {Creada por}
+    other {Creación de}} `,
+    'universe.stories.for': 'Historias para {universe}',
+    'universe.stories.own': 'Historias de {universe}',
+    'universe.stories.desc': 'Historias canónicas para {universe}',
+    'universe.encyclopedia.title': 'Enciclopedia de {universe}',
+    'universe.encyclopedia.desc': 'Todos los detalles para {universe}'
 };

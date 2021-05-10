@@ -1,50 +1,50 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    org {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Ahora mismo no tienes {type, select,
+    org {ningún blog}
+    universe {un blog para tu universo}
+    user {un blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Crear un blog nuevo',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Página del universo}
     user {Blog}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  } configuraciones`,
+    'blog.description': 'Introducción del blog',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Al configurar el tema podrás cambiar la apariencia de la página. Está función no está disponible todavía.',
+    'blog.posts.total': `{total, plural,
+    zero {No hay publicaciones}
+    one {Hay una publicación}
+    other {Hay # publicaciones}
+  } en este blog.`,
+    'blog.post.create': 'Crear una nueva publicación',
+    'blog.post.update': 'Editando {title}',
+    'blog.post.text': 'Publicar texto',
+    'common.slug': 'Dirección SEO friendly',
+    'blog.slug.explained': 'Escribe una url vistosa para la publicación. Evita utilizar caracteres especiales que no sean "-".',
+    'blog.publicView': 'Vista pública',
+    'blog.post.notfound': 'No se encontró la publicación',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universos}
+    stories {Historias independientes}
+    fanfiction {Fánfics}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Aquí se listan las historias independientes. Si la historia formara parte de un universo, entonces se listará en la página del universo.',
+    'blog.social.sameAsMain': `Tus enlaces a redes sociales son tal y como se determina en {type, select,
+    organization {configuración de organización}
+    user {perfil de usuario}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog'
+    'blog.social.website': 'Sitio web oficial',
+    'blog.settings.universeSettings': 'Los blogs del universo se integran en páginas del universo y toman su configuración de la del universo.',
+    'blogs.lu': 'Blogs oficiales de Literary Universe',
+    'blogs.featured': 'Blogs destacados',
+    'blogs.new': 'Blogs más recientes',
+    'blogs.title': 'Blogs de Literary Universe',
+    'blogs.description': 'Lista de blogs en la plataforma de Literary Universe.',
+    'blogs.visit': 'Visitar blog'
 };

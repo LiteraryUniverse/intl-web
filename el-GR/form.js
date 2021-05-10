@@ -1,8 +1,8 @@
 export default {
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
+    'form.validator.required': 'Υποχρεωτικό πεδίο',
+    'form.validator.mustBeNumber': 'Πρέπει να είναι αριθμός',
+    'form.validator.minNumber': 'Πρέπει να είναι μεγαλύτερη από {min}',
+    'form.validator.maxNumber': 'Θα πρέπει να είναι μικρότερη από {max}',
     'form.validator.maxLength': `Should be less than {max} {what, select,
     characters {characters}
     tags {tags}
@@ -16,16 +16,16 @@ export default {
     genre {genre}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+    'form.validator.email': 'Πρέπει να είναι έγκυρο e-mail',
+    'form.validator.url': 'Πρέπει να είναι ένα έγκυρο URL',
+    'form.validator.slug': 'Πρέπει να είναι έγκυρο τμήμα της διεύθυνσης URL',
+    'form.submitting.signup': 'Δημιουργία λογαριασμού...',
+    'form.submitting.signin': 'Σύνδεση...',
+    'form.submitting.default': 'Υποβολή...',
+    'form.submitting.sending': 'Στέλνοντας...',
+    'form.validator.whitespace': 'Δεν πρέπει να έχει λευκό χώρο',
+    'form.validator.zipCode': 'Πρέπει να είναι έγκυρος ταχυδρομικός κώδικας',
+    'form.validator.isbn': 'Δεχόμαστε μόνο 10 ή 13 έκδοση του ISBN',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': 'Το πεδίο {label} είναι απαραίτητο',
@@ -49,7 +49,7 @@ export default {
     'simpleschema.expectedObject': 'Το πεδίο {label} πρέπει να είναι ένα αντικείμενο',
     'simpleschema.expectedConstructor': 'Το πεδίο {label} πρέπει να είναι ένα {type}',
     'simpleschema.keyNotInSchema': 'Το πεδίο {key} δεν είναι επιτρεπτό',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label} πρέπει να είναι μοναδικό',
     'simpleschema.regEx.0': 'Η μορφή του πεδίου {label} δεν είναι αποδεκτή',
     'simpleschema.regEx.1': 'Το πεδίο {label} πρέπει να είναι μια έγκυρη διεύθυνση e-mail',
     'simpleschema.regEx.2': 'Το πεδίο {label} πρέπει να είναι μια έγκυρη διεύθυνση e-mail',

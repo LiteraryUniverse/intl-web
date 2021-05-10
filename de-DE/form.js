@@ -3,26 +3,25 @@ export default {
     'form.validator.mustBeNumber': 'Muss eine Zahl sein',
     'form.validator.minNumber': 'Muss größer als {min} sein',
     'form.validator.maxNumber': 'Sollte kleiner sein als {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.maxLength': `Sollte kleiner sein als {max} {what, select,
+    characters {Zeichen}
+    tags {Tags}
+    genres {Genres}
     other {}
-  }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
+  } sein`,
+    'form.validator.minLength': `Sollte mindestens {min} {what, select,
+    characters {Zeichen}
+    tags {Tags}
+    genres {Genres}
     other {}
-  }`,
+  } sein`,
     'form.validator.email': 'Muss eine gültige E-Mail sein',
     'form.validator.url': 'Muss eine gültige URL sein',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
+    'form.validator.slug': 'Muss ein gültiger Teil der URL sein',
+    'form.submitting.signup': 'Konto erstellen...',
+    'form.submitting.signin': 'Anmeldung...',
+    'form.submitting.default': 'Einreichen...',
+    'form.submitting.sending': 'Senden...',
     'form.validator.whitespace': 'Muss keinen Leerzeichen haben',
     'form.validator.zipCode': 'Muss eine gültige Postleitzahl sein',
     'form.validator.isbn': 'Wir akzeptieren nur 10 oder 13 Versionen von ISBN',
@@ -49,7 +48,7 @@ export default {
     'simpleschema.expectedObject': '{label} muss ein Objekt sein',
     'simpleschema.expectedConstructor': '{label} muss von Type {type} sein',
     'simpleschema.keyNotInSchema': '{key} ist vom Schema nicht erlaubt',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label} muss eindeutig sein',
     'simpleschema.regEx.0': '{label} entspricht nicht dem regulären Ausdruck',
     'simpleschema.regEx.1': '{label} muss eine valide Email Adresse sein',
     'simpleschema.regEx.2': '{label} muss eine valide Email Adresse sein',

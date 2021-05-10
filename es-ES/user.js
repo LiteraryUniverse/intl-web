@@ -9,9 +9,9 @@ export default {
     'user.block': 'Bloquear',
     'user.unblock': 'Desbloquear',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
+    male {¡Se unió a}
+    female {¡Se unió a}
+    other {¡Se unió a}} en {date, date, long}`,
     'user.friend.request.accept': 'Aceptar petición de amistad',
     'user.friend.request.cancel': 'Cancelar petición de amistad',
     'user.friend.request.deny': 'Rechazar amistad',

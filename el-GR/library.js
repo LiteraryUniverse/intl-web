@@ -1,7 +1,7 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universe'
+    'library.add': 'Προσθήκη στη βιβλιοθήκη',
+    'library.remove': 'Αφαίρεση από τη βιβλιοθήκη',
+    'library.bought': 'Αγόρασε ιστορίες',
+    'library.stories': 'Ακολούθησαν ιστορίες',
+    'library.universes': 'Ακολουθούμενο σύμπαν'
 };

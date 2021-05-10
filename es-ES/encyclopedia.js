@@ -9,7 +9,7 @@ export default {
     'encyclopedia.category.character': 'Personajes',
     'encyclopedia.category.event': 'Sucesos',
     'encyclopedia.category.group': 'Grupos',
-    'encyclopedia.category.item': 'Items',
+    'encyclopedia.category.item': 'Objetos',
     'encyclopedia.category.location': 'Ubicaciones',
     'encyclopedia.category.other': 'Otros',
     'encyclopedia.category.state': 'Estados',
@@ -40,65 +40,62 @@ export default {
     'encyclopedia.add.title': 'Añade una nueva entrada a la enciclopedia',
     'encyclopedia.add.heading': '¿Qué quieres añadir?',
     'encyclopedia.add.moresoon': '¡Más categorías en breve!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    'encyclopedia.create': `Crear nuevo {category, select,
+    character {personaje}
+    event {acontecimiento}
+    group {grupo}
+    item {objeto}
+    location {ubicación}
+    other {nota}
+    state {estado}
+    governments {gobierno}
+    languages {lengua}
+    creatures {criatura}
+    deity {deidad}
+    religions {religión}
     flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    other {entry}
+    magic {magia}
+    planets {planeta}
+    species {especie}
+    technologies {tecnología}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    'encyclopedia.create.header': `Crear nuevo {category, select,
+    character {personaje}
+    event {acontecimiento}
+    group {grupo}
+    item {objeto}
+    location {ubicación}
+    other {nota}
+    state {estado}
+    governments {gobierno}
+    languages {lengua}
+    creatures {criatura}
+    deity {deidad}
+    religions {religión}
     flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    other {entry}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    magic {magia}
+    planets {planeta}
+    species {especie}
+    technologies {tecnología}
+  } en {universe}`,
+    'encyclopedia.entry.category': `Categoría de la entrada {category, select,
+    character {Personaje}
+    event {Acontecimiento}
+    group {Grupo}
+    item {Objeto}
+    location {Ubicación}
+    other {Nota}
+    state {Estado}
+    governments {Gobierno}
+    languages {Lengua}
+    creatures {Criatura}
+    deity {Deidad}
+    religions {Religión}
     flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    other {entry}
+    magic {Magia}
+    planets {Planeta}
+    species {Especie}
+    technologies {Tecnología}
   }`,
     'encyclopedia.entry.category.legend': 'Categoría',
     'encyclopedia.fields.add': 'Añadir un nuevo campo',
@@ -115,7 +112,7 @@ export default {
     'encyclopedia.entry.name': 'Nombre de la entrada',
     'encyclopedia.summary': 'Resumen',
     'encyclopedia.summary.desc': 'Esto es un resumen que será la única información inicial que se muestre al lector.',
-    'encyclopedia.parent': 'Parent entry',
+    'encyclopedia.parent': 'Entrada padre',
     'encyclopedia.related': 'Entradas relacionadas',
     'encyclopedia.errors.tags': 'Una entrada sólo puede tener 10 etiquetas.',
     'encyclopedia.field.private': 'Campo privado',

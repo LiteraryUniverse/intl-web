@@ -1,25 +1,25 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title.meta': '{title} Autoren',
+    'universe.fanfiction.see': 'Fan-Fiktion für {universe}',
+    'universe.fanfiction.desc': 'Fan-Fiktion für {universe}',
+    'universe.fanfiction.for': '{universe} Fan-Fiktion',
+    'universe.stories.count': `Es {num, plural,
+    =0 {gibt es keine Geschichten}
+    one {ist eine Geschichte}
+    other {sind # Geschichten}
+    } in diesem Universum.`,
+    'universe.authors.title': 'Autoren',
+    'universe.authors.desc': 'Schöpfer und Mitwirkende von {universe}',
+    'universe.contributors': 'Mitwirkende',
+    'universe.translators': 'Übersetzer',
+    'universe.authors.notice': 'Jede Story kann zusätzliches Personal haben, das an ihr gearbeitet hat. Weitere Details finden Sie in den Details der Geschichte.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}'
+    male {Erstellt}
+    female {Erstellt}
+    other {Erstellt}} von `,
+    'universe.stories.for': 'Geschichten für {universe}',
+    'universe.stories.own': '{universe} Geschichten',
+    'universe.stories.desc': 'Kanonengeschichten für {universe}',
+    'universe.encyclopedia.title': '{universe} Enzyklopädie',
+    'universe.encyclopedia.desc': 'Alle Details für {universe}'
 };
