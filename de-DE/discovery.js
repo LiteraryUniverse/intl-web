@@ -33,14 +33,14 @@ export default {
     'discover.search.license': 'Copyright-Lizenz',
     'discover.search.language': 'Sprache',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Keine Universen entsprechen Ihren Parametern}
+        one {1 Universum gefunden}
+        other {# Universen gefunden}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Keine Geschichten entsprechen Ihren Parametern}
+        one {1 Geschichte gefunden}
+        other {# Geschichten gefunden}
     }.`,
     'discover.viewSelection.aria': 'Auswahl der Ansichten',
     'discover.searchDisplay.covers': 'Auflistung der Abdeckungen',
