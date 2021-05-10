@@ -37,16 +37,20 @@ export default {
     'discover.search.license': 'Autorská licence',
     'discover.search.language': 'Jazyk',
     'discover.search.resultsTotal.universe': `{results, plural,
-        zero {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Vašem požadavku neodpovídá žádný vesmír}
+        one {Nalezen 1 vesmír}
+        few {Nalezeny # vesmíry}
+        many {Nalezeno # vesmírů}
+        other {Nalezeno # vesmírů}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        zero {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Vašemu požadavku neodpovídá žádný příběh}
+        one {Nalezen 1 příběh}
+        few {Nalezeny # příběhy}
+        many {Nalezeno # příběhů}
+        other {Nalezeno # příběhů}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list'
+    'discover.viewSelection.aria': 'Zobrazení výběru',
+    'discover.searchDisplay.covers': 'Zobrazení dle obálky',
+    'discover.searchDisplay.list': 'Kompaktní zobrazení'
 };
