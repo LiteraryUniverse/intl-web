@@ -33,15 +33,13 @@ export default {
     'discover.search.license': '著作権表示',
     'discover.search.language': '言語',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
-    }.`,
+        =0 {あなたのパラメータに合う宇宙はありません}
+        other {# 宇宙が見つかりました}
+    }。`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
-    }.`,
+        =0 {あなたのパラメータに一致する物語はありません}
+        other {# 物語が見つかりました}
+    }。`,
     'discover.viewSelection.aria': 'セレクションを見る',
     'discover.searchDisplay.covers': 'カバー一覧',
     'discover.searchDisplay.list': 'コンパクトリスト'
