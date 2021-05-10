@@ -33,12 +33,12 @@ export default {
     'discover.search.license': 'Copyright license',
     'discover.search.language': 'Language',
     'discover.search.resultsTotal.universe': `{results, plural,
-        zero {No universes match your parameters}
+        =0 {No universes match your parameters}
         one {1 universe found}
         other {# universes found}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        zero {No stories match your parameters}
+        =0 {No stories match your parameters}
         one {1 story found}
         other {# stories found}
     }.`,
