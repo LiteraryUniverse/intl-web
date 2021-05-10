@@ -17,32 +17,32 @@ export default {
         other {# Minuten}
     } zum Lesen brauchen.`,
     'story.estimatedReadingTime.explained': 'Basierend auf einer durchschnittlichen Lesegeschwindigkeit von {avgReadingNum} Wörtern pro Minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.text': 'Suchbegriff',
+    'discover.searchStory.title': 'Suche nach Geschichte',
+    'discover.searchStory.description': 'Suche nach einer Geschichte',
+    'discover.searchUniverse.title': 'Suche nach einem Universum',
+    'discover.searchUniverse.description': 'Suche nach einem Universum',
+    'discover.search.storyStatus': 'Fortschrittsstatus der Geschichte',
+    'story.status.complete': 'Abgeschlossen',
+    'story.status.inProgress': 'In Bearbeitung',
+    'discover.search.universeConnection': 'Verbindung der Geschichte mit dem Universum',
+    'story.universeRelation.standalone': 'Eigenständige Geschichte',
+    'story.universeRelation.fanFiction': 'Fan-Fiktion',
+    'story.universeRelation.universe': 'Teil eines Universums',
+    'discover.search.rating': 'Altersfreigabe',
+    'discover.search.license': 'Copyright-Lizenz',
+    'discover.search.language': 'Sprache',
     'discover.search.resultsTotal.universe': `{results, plural,
-        zero {No universes match your parameters}
+        =0 {No universes match your parameters}
         one {1 universe found}
         other {# universes found}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        zero {No stories match your parameters}
+        =0 {No stories match your parameters}
         one {1 story found}
         other {# stories found}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list'
+    'discover.viewSelection.aria': 'Auswahl der Ansichten',
+    'discover.searchDisplay.covers': 'Auflistung der Abdeckungen',
+    'discover.searchDisplay.list': 'Kompakte Liste'
 };
