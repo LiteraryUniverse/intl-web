@@ -27,22 +27,22 @@ export default {
     'story.status.inProgress': 'En curso',
     'discover.search.universeConnection': 'Conexión de la historia al universo',
     'story.universeRelation.standalone': 'Historia independiente',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.universeRelation.fanFiction': 'Fanficción',
+    'story.universeRelation.universe': 'Parte de un universo',
+    'discover.search.rating': 'Clasificación por edad',
+    'discover.search.license': 'Licencia de derechos de autor',
+    'discover.search.language': 'Idioma',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Ningún universo coincide con tus parámetros}
+        one {1 universo encontrado}
+        other {# universos encontrados}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Ninguna historia coincide con tus parámetros}
+        one {1 historia encontrada}
+        other {# historias encontradas}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list'
+    'discover.viewSelection.aria': 'Ver selección',
+    'discover.searchDisplay.covers': 'Listado de portadas',
+    'discover.searchDisplay.list': 'Lista compacta'
 };
