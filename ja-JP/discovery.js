@@ -17,32 +17,32 @@ export default {
         other {#分}
     }で読めるはずです。`,
     'story.estimatedReadingTime.explained': '毎分{avgReadingNum}文字の平均読取速度に基づいています。',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.text': '検索語',
+    'discover.searchStory.title': '物語を探す',
+    'discover.searchStory.description': '物語を探す',
+    'discover.searchUniverse.title': '宇宙を探す',
+    'discover.searchUniverse.description': '宇宙を探す',
+    'discover.search.storyStatus': '物語の進行状況',
+    'story.status.complete': '完了',
+    'story.status.inProgress': '進行中',
+    'discover.search.universeConnection': '物語と宇宙のつながり',
+    'story.universeRelation.standalone': '独立した物語',
+    'story.universeRelation.fanFiction': 'ファンフィクション',
+    'story.universeRelation.universe': '宇宙の一部',
+    'discover.search.rating': '年齢評価',
+    'discover.search.license': '著作権表示',
+    'discover.search.language': '言語',
     'discover.search.resultsTotal.universe': `{results, plural,
-        zero {No universes match your parameters}
+        =0 {No universes match your parameters}
         one {1 universe found}
         other {# universes found}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        zero {No stories match your parameters}
+        =0 {No stories match your parameters}
         one {1 story found}
         other {# stories found}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list'
+    'discover.viewSelection.aria': 'セレクションを見る',
+    'discover.searchDisplay.covers': 'カバー一覧',
+    'discover.searchDisplay.list': 'コンパクトリスト'
 };
