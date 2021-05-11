@@ -33,11 +33,13 @@ export default {
     explorer {Prieskumník}
     adventurer {Dobrodruh}
     storyteller {Rozprávač}
+    other {}
   } úroveň na najbližšie {days} dni.\n\nUžívajte si to,\nLiterary Universe tím`,
     'email.adminUpgrade.messageHtml': `Váš účet sme aktualizovali na {plan, select,
     explorer {Prieskumník}
     adventurer {Dobrodruh}
     storyteller {Rozprávač}
+    other {}
   } úroveň na najbližšie {days} dni.\n\nUžívajte si to!`,
     'email.verification': 'Overenie e-mailu',
     'email.verifying': 'Overenie vášho e-mailu. Zaberie to len chvíľu...',
