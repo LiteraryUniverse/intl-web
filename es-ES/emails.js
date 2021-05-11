@@ -30,14 +30,16 @@ export default {
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Tu cuenta ha subido de categoría',
     'email.adminUpgrade.message': `Hemos mejorado tu cuenta a {plan, select,
-    explorador {Explorer}
-    aventurero {Adventurer}
-    cuentacuentos {Storyteller}
+    explorer {explorador}
+    adventurer {aventurero}
+    storyteller {cuentacuentos}
+    other {}
   } para los próximos {days} días.\n\nQue lo disfrutes,\nequipo de Literary Universe`,
     'email.adminUpgrade.messageHtml': `Hemos mejorado tu cuenta a {plan, select,
-    explorador {Explorer}
-    aventurero {Adventurer}
-    cuentacuentos {Storyteller}
+    explorer {explorador}
+    adventurer {aventurero}
+    storyteller {cuentacuentos}
+    other {}
   } para los próximos {days} días. ¡Que lo disfrutes!`,
     'email.verification': 'Verificación de e-mail',
     'email.verifying': 'Verificando tu e-mail. Esto sólo llevará un momento...',
