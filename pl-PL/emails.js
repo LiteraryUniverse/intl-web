@@ -33,11 +33,13 @@ export default {
     explorer {Odkrywca}
     adventurer {Inwestor przygód}
     storyteller {Historzy}
+    other {}
   } Poziom na następne {days} dni.\n\nCiesz się,\nZespół Literary Universe`,
     'email.adminUpgrade.messageHtml': `Ulepszyliśmy Twoje konto do {plan, select,
     explorer {Eksplorator}
     adventurer {Inwestor przygód}
     storyteller {Historzy}
+    other {}
   } Poziom na następne {days} dni. Miłej radości!`,
     'email.verification': 'Weryfikacja poczty elektronicznej',
     'email.verifying': 'Weryfikacja Twojego e-maila. To zajmie tylko chwilę...',
