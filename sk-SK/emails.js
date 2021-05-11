@@ -29,18 +29,16 @@ export default {
     'email.verifyEmail.button': 'Overenie tejto e-mailovej adresy',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Váš účet bol upgradovaný',
-    'email.adminUpgrade.message': `Váš účet sme aktualizovali na {plan, select,
-    explorer {Prieskumník}
-    adventurer {Dobrodruh}
-    storyteller {Rozprávač}
-    other {}
-  } úroveň na najbližšie {days} dni.\n\nUžívajte si to,\nLiterary Universe tím`,
-    'email.adminUpgrade.messageHtml': `Váš účet sme aktualizovali na {plan, select,
-    explorer {Prieskumník}
-    adventurer {Dobrodruh}
-    storyteller {Rozprávač}
-    other {}
-  } úroveň na najbližšie {days} dni.\n\nUžívajte si to!`,
+    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
+  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
+  } tier for the next {days} days. Enjoy!`,
     'email.verification': 'Overenie e-mailu',
     'email.verifying': 'Overenie vášho e-mailu. Zaberie to len chvíľu...',
     'email.verified': 'Skvelé správy! Váš e-mail bol overený!'
