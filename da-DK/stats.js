@@ -26,12 +26,15 @@ export default {
     'stats.language.title': 'Language spoken',
     'stats.chapter.visitorsAndViews': 'Total visitors and views per chapter',
     'stats.chapter.wordCount': 'Word count per chapter',
-    'stats.chapter.chartTooltipViews': `Chapter {chapter}: {views} views`,
-    'stats.chapter.chartTooltipVisitors': `Chapter {chapter}: {visitors} unique visitors`,
-    'stats.chapter.chartTooltipWordCount': `Chapter {chapter}: {wordCount} words`,
+    'stats.chapter.chartTooltipViews': `Chapter {chapter, number}: {views, number} views`,
+    'stats.chapter.chartTooltipVisitors': `Chapter {chapter, number}: {visitors, number} unique visitors`,
+    'stats.chapter.chartTooltipWordCount': `Chapter {chapter, number}: {wordCount, number} words`,
     'stats.totalHits': 'Total views',
     'stats.totalVisitors': 'Total unique visitors',
     'stats.totalWords': 'Total words',
     'stats.totalEntries': 'Encyclopedia entries',
-    'stats.blogPage': 'Page'
+    'stats.blogPage': 'Page',
+    'stats.blog.typeSelectionAria': 'Type selection',
+    'stats.blog.pages': 'Pages',
+    'stats.blog.posts': 'Posts'
 };

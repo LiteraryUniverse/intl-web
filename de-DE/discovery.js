@@ -16,5 +16,33 @@ export default {
         one {1 Minute}
         other {# Minuten}
     } zum Lesen brauchen.`,
-    'story.estimatedReadingTime.explained': 'Basierend auf einer durchschnittlichen Lesegeschwindigkeit von {avgReadingNum} Wörtern pro Minute.'
+    'story.estimatedReadingTime.explained': 'Basierend auf einer durchschnittlichen Lesegeschwindigkeit von {avgReadingNum} Wörtern pro Minute.',
+    'discover.search.text': 'Suchbegriff',
+    'discover.searchStory.title': 'Suche nach Geschichte',
+    'discover.searchStory.description': 'Suche nach einer Geschichte',
+    'discover.searchUniverse.title': 'Suche nach einem Universum',
+    'discover.searchUniverse.description': 'Suche nach einem Universum',
+    'discover.search.storyStatus': 'Fortschrittsstatus der Geschichte',
+    'story.status.complete': 'Abgeschlossen',
+    'story.status.inProgress': 'In Bearbeitung',
+    'discover.search.universeConnection': 'Verbindung der Geschichte mit dem Universum',
+    'story.universeRelation.standalone': 'Eigenständige Geschichte',
+    'story.universeRelation.fanFiction': 'Fan-Fiktion',
+    'story.universeRelation.universe': 'Teil eines Universums',
+    'discover.search.rating': 'Altersfreigabe',
+    'discover.search.license': 'Copyright-Lizenz',
+    'discover.search.language': 'Sprache',
+    'discover.search.resultsTotal.universe': `{results, plural,
+        =0 {Keine Universen entsprechen Ihren Parametern}
+        one {1 Universum gefunden}
+        other {# Universen gefunden}
+    }.`,
+    'discover.search.resultsTotal.story': `{results, plural,
+        =0 {Keine Geschichten entsprechen Ihren Parametern}
+        one {1 Geschichte gefunden}
+        other {# Geschichten gefunden}
+    }.`,
+    'discover.viewSelection.aria': 'Auswahl der Ansichten',
+    'discover.searchDisplay.covers': 'Auflistung der Abdeckungen',
+    'discover.searchDisplay.list': 'Kompakte Liste'
 };

@@ -26,12 +26,15 @@ export default {
     'stats.language.title': 'Gesprochene Sprache',
     'stats.chapter.visitorsAndViews': 'Gesamtbesucher und Ansichten pro Kapitel',
     'stats.chapter.wordCount': 'Wortzahl pro Kapitel',
-    'stats.chapter.chartTooltipViews': `Kapitel {chapter}: {views} Ansichten`,
-    'stats.chapter.chartTooltipVisitors': `Kapitel {chapter}: {visitors} einzigartige Besucher`,
-    'stats.chapter.chartTooltipWordCount': `Kapitel {chapter}: {wordCount} Wörter`,
+    'stats.chapter.chartTooltipViews': `Kapitel {chapter, number}: {views, number} Ansichten`,
+    'stats.chapter.chartTooltipVisitors': `Kapitel {chapter, number}: {visitors, number} einzigartige Besucher`,
+    'stats.chapter.chartTooltipWordCount': `Kapitel {chapter, number}: {wordCount, number} Wörter`,
     'stats.totalHits': 'Ansichten insgesamt',
     'stats.totalVisitors': 'Gesamte eindeutige Besucher',
     'stats.totalWords': 'Wörter gesamt',
     'stats.totalEntries': 'Enzyklopädie-Einträge',
-    'stats.blogPage': 'Seite'
+    'stats.blogPage': 'Seite',
+    'stats.blog.typeSelectionAria': 'Typenauswahl',
+    'stats.blog.pages': 'Seiten',
+    'stats.blog.posts': 'Beiträge'
 };

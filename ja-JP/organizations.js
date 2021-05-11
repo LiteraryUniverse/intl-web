@@ -1,12 +1,12 @@
 export default {
     'org.auditLog.title': '監査ログ',
-    'org.settings.title': 'Organization settings',
+    'org.settings.title': '組織設定',
     'org.settings.name': '組織名',
     'org.settings.membersPrivate': 'メンバを公開しない',
-    'org.logo': 'Organization logo',
+    'org.logo': '組織ロゴ',
     'org.superAdmin': 'スーパーアドミン',
-    'org.settings.language': 'Primary language',
-    'org.meta.desc': 'Organizations and creative groups on Literary Universe.',
+    'org.settings.language': '主な言語',
+    'org.meta.desc': '文学の宇宙に掲載されている団体やクリエイティブなグループを紹介します。',
     'org.luOrgs': '文学の宇宙組織',
     'org.otherOrgs': 'ギルドと組織',
     'org.aboutTitle': '{orgName}について',
@@ -15,10 +15,10 @@ export default {
     'org.storiesTitle': '{orgName}の物語',
     'org.universesTitle': '{orgName}の世界',
     'org.userDashboardTitle': 'あなたの組織',
-    'org.settings.hideMembers.label': 'Hide members from the public',
-    'org.visit': 'Go to {organization} page',
-    'org.authorOverride.legend': 'Author override',
-    'org.authorOverride.desc': 'Shows this text instead of the name of the organization.',
-    'org.authorOverride.label': 'Author\'s name',
-    'org.membersAdd.title': 'Invite members to the organization'
+    'org.settings.hideMembers.label': 'メンバーを公開しない',
+    'org.visit': '{organization}のページへ',
+    'org.authorOverride.legend': '著者のオーバーライド',
+    'org.authorOverride.desc': '組織名の代わりにこの文字を表示します。',
+    'org.authorOverride.label': '著者名',
+    'org.membersAdd.title': 'メンバーを組織に招待する'
 };

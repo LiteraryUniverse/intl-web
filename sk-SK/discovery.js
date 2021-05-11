@@ -20,5 +20,35 @@ export default {
         many {# minút}
         other {# minút}
     } na čítanie.`,
-    'story.estimatedReadingTime.explained': 'Na základe priemernej rýchlosti čítania {avgReadingNum} slov za minútu.'
+    'story.estimatedReadingTime.explained': 'Na základe priemernej rýchlosti čítania {avgReadingNum} slov za minútu.',
+    'discover.search.text': 'Hľadaný výraz',
+    'discover.searchStory.title': 'Vyhľadávanie príbehu',
+    'discover.searchStory.description': 'Vyhľadávanie príbehov',
+    'discover.searchUniverse.title': 'Hľadanie vesmíru',
+    'discover.searchUniverse.description': 'Vyhľadávanie vesmírov',
+    'discover.search.storyStatus': 'Stav postupu príbehu',
+    'story.status.complete': 'Dokončený',
+    'story.status.inProgress': 'Rozpracovaný',
+    'discover.search.universeConnection': 'Spojenie príbehu s vesmírom',
+    'story.universeRelation.standalone': 'Nezávislý príbeh',
+    'story.universeRelation.fanFiction': 'Fanúšikovská fikcia',
+    'story.universeRelation.universe': 'Súčasť vesmíru',
+    'discover.search.rating': 'Vekové obmedzenie',
+    'discover.search.license': 'Autorská licencia',
+    'discover.search.language': 'Jazyk',
+    'discover.search.resultsTotal.universe': `{results, plural,
+        =0 {Žiadne vesmíry nezodpovedajú vašim parametrom}
+        one {Nájdený 1 vesmír}
+        few {Nájdené# vesmíry}
+        other {Nájdených # vesmírov}
+    }.`,
+    'discover.search.resultsTotal.story': `{results, plural,
+        =0 {Žiadne príbehy nezodpovedajú vašim parametrom}
+        one {Nájdený 1 príbeh}
+        few {Nájdené # príbehy}
+        other {Nájdených # príbehov}
+    }.`,
+    'discover.viewSelection.aria': 'Výber typu',
+    'discover.searchDisplay.covers': 'Výpis s obalov',
+    'discover.searchDisplay.list': 'Kompaktné zobrazenie'
 };

@@ -20,5 +20,37 @@ export default {
         many {# minut }
         other {# minut }
     }k přečtení.`,
-    'story.estimatedReadingTime.explained': 'Na základě průměrné rychlosti čtení {avgReadingNum} slov za minutu.'
+    'story.estimatedReadingTime.explained': 'Na základě průměrné rychlosti čtení {avgReadingNum} slov za minutu.',
+    'discover.search.text': 'Hledaný výraz',
+    'discover.searchStory.title': 'Najít příběh',
+    'discover.searchStory.description': 'Najít příběhy',
+    'discover.searchUniverse.title': 'Najít vesmír',
+    'discover.searchUniverse.description': 'Najít vesmíry',
+    'discover.search.storyStatus': 'Stav příběhu',
+    'story.status.complete': 'Dokončený',
+    'story.status.inProgress': 'Na pokračování',
+    'discover.search.universeConnection': 'Připojení příběhu k vesmíru',
+    'story.universeRelation.standalone': 'Samostatný příběh',
+    'story.universeRelation.fanFiction': 'Fan fikce',
+    'story.universeRelation.universe': 'Součást vesmíru',
+    'discover.search.rating': 'Věkové hodnocení',
+    'discover.search.license': 'Autorská licence',
+    'discover.search.language': 'Jazyk',
+    'discover.search.resultsTotal.universe': `{results, plural,
+        =0 {Vašem požadavku neodpovídá žádný vesmír}
+        one {Nalezen 1 vesmír}
+        few {Nalezeny # vesmíry}
+        many {Nalezeno # vesmírů}
+        other {Nalezeno # vesmírů}
+    }.`,
+    'discover.search.resultsTotal.story': `{results, plural,
+        =0 {Vašemu požadavku neodpovídá žádný příběh}
+        one {Nalezen 1 příběh}
+        few {Nalezeny # příběhy}
+        many {Nalezeno # příběhů}
+        other {Nalezeno # příběhů}
+    }.`,
+    'discover.viewSelection.aria': 'Zobrazení výběru',
+    'discover.searchDisplay.covers': 'Zobrazení dle obálky',
+    'discover.searchDisplay.list': 'Kompaktní zobrazení'
 };
