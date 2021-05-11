@@ -33,6 +33,7 @@ To activate your account, simply click the link below:\n\n{url}`,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
+    other {}
   } plán na následujících {days} dní.\n\n
 S přáním hezkého dne,\n
 Literary Universe tým`,
@@ -40,6 +41,7 @@ Literary Universe tým`,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
+    other {}
   } plán na následujících {days} dní.`,
     'email.verification': 'Ověření emailu',
     'email.verifying': 'Ověřování Vašeho e-mailu. Tohle může chvilku trvat...',
