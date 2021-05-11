@@ -30,16 +30,21 @@ export default {
     'email.verifyEmail.button': 'メールによる確認',
     // Getting premium from admins
     'email.adminUpgrade.subject': '文学の宇宙のアカウントがアップグレードされました',
-    'email.adminUpgrade.message': `あなたのアカウントは、次の{days}日の間、「{plan, select,
-    explorer {エクスプローラー}
-    adventurer {アドベンチャラー}
-    storyteller {ストーリーテラー}
-}」ティアにアップグレードされました。\n\nお楽しみください。\n文学の宇宙チーム`,
-    'email.adminUpgrade.messageHtml': `あなたのアカウントは、次の{days}日の間、「{plan, select,
-    explorer {エクスプローラー}
-    adventurer {アドベンチャラー}
-    storyteller {ストーリーテラー}
-}」ティアにアップグレードされました。お楽しみください。`,
+    'email.adminUpgrade.message': `アカウントを次の{days}日間の{plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
+    other {}
+  }プランにアップグレードしました。
+\n\n
+楽しい\n
+文学の宇宙チーム`,
+    'email.adminUpgrade.messageHtml': `アカウントを次の{days}日間の{plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
+    other {}
+  }プランにアップグレードしました。 楽しい！`,
     'email.verification': 'メールアドレスの認証',
     'email.verifying': 'メールアドレスを確認しています。しばらくお待ちください...',
     'email.verified': '素晴らしいお知らせです！あなたのメールアドレスが認証されました！'
