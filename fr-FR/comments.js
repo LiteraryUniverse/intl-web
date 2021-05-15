@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'Ecrivez votre commentaire',
+    'comments.none': 'Désolé, aucun commentaire à afficher.',
+    'comments.total': `Il {count, plural,
+    =0 {n'y a pas de commentaires}
+    one {y a 1 commentaire}
+    other {y a # commentaires}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Afficher les commentaires plus anciens'
 };
