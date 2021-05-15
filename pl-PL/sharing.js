@@ -1,5 +1,5 @@
 export default {
-    'sharing.title': 'Share',
+    'sharing.title': 'Udostępnij',
     'sharing.copy': 'Skopiuj',
     'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
