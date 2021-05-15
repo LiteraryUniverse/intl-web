@@ -29,16 +29,18 @@ export default {
     'email.verifyEmail.button': 'Überprüfen Sie diese E-Mail-Adresse',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Ihr Konto wurde hochgestuft',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
-  } tier for the next {days} days. Enjoy!`,
+    'email.adminUpgrade.message': `Wir haben Ihr Konto auf {plan, select,
+    explorer {Entdecker}
+    adventurer {Abenteurer}
+    storyteller {Geschichtenerzähler}
+    other {}
+  } Stufe für die nächsten {days} Tage.\n\nFreude,\nLiterary Universe Team`,
+    'email.adminUpgrade.messageHtml': `Wir haben Ihr Konto auf {plan, select,
+    explorer {Entdecker}
+    adventurer {Abenteurer}
+    stroryteller {Geschichtenerzähler}
+    other {}
+  } Stufe für die nächsten {days} Tage. Viel Spaß!`,
     'email.verification': 'E-Mail-Überprüfung',
     'email.verifying': 'Überprüfen Sie Ihre E-Mail. Dies dauert nur einen Moment...',
     'email.verified': 'Tolle Neuigkeiten! Ihre E-Mail wurde verifiziert!'
