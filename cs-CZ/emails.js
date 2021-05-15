@@ -29,16 +29,20 @@ To activate your account, simply click the link below:\n\n{url}`,
     'email.verifyEmail.button': 'Potvrzení e-mailové adresy',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Váš účet byl upgradován',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.message': `Upgradovali jsme Váš účet na {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    other {}
+  } plán na následujících {days} dní.\n\n
+S přáním hezkého dne,\n
+Literary Universe tým`,
+    'email.adminUpgrade.messageHtml': `Upgradovali jsme Váš účet na {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
-  } tier for the next {days} days. Enjoy!`,
+    other {}
+  } plán na následujících {days} dní.`,
     'email.verification': 'Ověření emailu',
     'email.verifying': 'Ověřování Vašeho e-mailu. Tohle může chvilku trvat...',
     'email.verified': 'Skvělá zpráva! Váš e-mail byl ověřen!'
