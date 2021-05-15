@@ -29,16 +29,18 @@ export default {
     'email.verifyEmail.button': 'Verificar dirección de e-mail',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Tu cuenta ha subido de categoría',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
-  } tier for the next {days} days. Enjoy!`,
+    'email.adminUpgrade.message': `Hemos mejorado tu cuenta a {plan, select,
+    explorer {explorador}
+    adventurer {aventurero}
+    storyteller {cuentacuentos}
+    other {}
+  } para los próximos {days} días.\n\nQue lo disfrutes,\nequipo de Literary Universe`,
+    'email.adminUpgrade.messageHtml': `Hemos mejorado tu cuenta a {plan, select,
+    explorer {explorador}
+    adventurer {aventurero}
+    storyteller {cuentacuentos}
+    other {}
+  } para los próximos {days} días. ¡Que lo disfrutes!`,
     'email.verification': 'Verificación de e-mail',
     'email.verifying': 'Verificando tu e-mail. Esto sólo llevará un momento...',
     'email.verified': '¡Buenas noticias! ¡Tu correo electrónico se ha verificado!'
