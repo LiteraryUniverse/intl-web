@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
+    'email.enrollAccount.subject': 'Invitation à l\'Univers Littéraire pour {username}',
     'email.enrollAccount.message': `Hello {username}\n\n
     We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
     To activate your account, simply click the link below:\n\n{url}`,
@@ -33,11 +33,13 @@ export default {
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
+    other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
     'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
+    other {}
   } tier for the next {days} days. Enjoy!`,
     'email.verification': 'E-mail verification',
     'email.verifying': 'Verifying your e-mail. This will take just a moment...',
