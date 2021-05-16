@@ -184,5 +184,7 @@ export default {
     'common.time.days': 'Tagoj',
     'common.time.weeks': 'Semajnoj',
     'common.time.months': 'Monatoj',
-    'common.time.years': 'Jaroj'
+    'common.time.years': 'Jaroj',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;
