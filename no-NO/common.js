@@ -184,5 +184,7 @@ export default {
     'common.time.days': 'Dager',
     'common.time.weeks': 'Uker',
     'common.time.months': 'Måneder',
-    'common.time.years': 'År'
+    'common.time.years': 'År',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;
