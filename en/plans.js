@@ -45,7 +45,7 @@ export default {
   'plans.current.none': 'You are currently not supporting Literary Universe.',
   'plans.current.buying': 'It might take a few moments to verify your purchase. We appreciate your patience.',
   'plans.current.heading': 'Current subscription plan',
-  'payment.methods.title': 'Payment methods',
+  'payment.methods.title': 'Payments & monetization',
   'payment.methods.tabs': 'Payment options',
   'payment.option.title': 'Payment option',
   'payment.option.notFount': 'You don\'t have any payment option saved.',
@@ -127,5 +127,9 @@ export default {
   'payment.method.add': 'Add a new payment method',
   'payment.methods.adding': 'You new payment method has been added to your account.',
   'payment.methods.delete': 'Delete payment method',
-  'payment.upgradePlan.option': '{plan} - {price}'
+  'payment.upgradePlan.option': '{plan} - {price}',
+  'payment.methods.webMonetization': 'Web Monetization',
+  'settings.webMonetization.placeholder': 'Your payment pointer',
+  'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
+  'payment.webMonetization.learnMore': 'Learn more about Web Monetization'
 }
