@@ -184,5 +184,7 @@ export default {
     'common.time.days': 'veltcika',
     'common.time.weeks': 'jeftu',
     'common.time.months': 'masti',
-    'common.time.years': 'detna\'a'
+    'common.time.years': 'detna\'a',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;
