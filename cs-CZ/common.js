@@ -184,5 +184,7 @@ export default {
     'common.time.days': 'Dny',
     'common.time.weeks': 'Týdny',
     'common.time.months': 'Měsíce',
-    'common.time.years': 'Roky'
+    'common.time.years': 'Roky',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;
