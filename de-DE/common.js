@@ -184,5 +184,7 @@ export default {
     'common.time.days': 'Tage',
     'common.time.weeks': 'Wochen',
     'common.time.months': 'Monate',
-    'common.time.years': 'Jahre'
+    'common.time.years': 'Jahre',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;
