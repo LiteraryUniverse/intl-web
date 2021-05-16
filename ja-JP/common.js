@@ -184,5 +184,7 @@ export default {
     'common.time.days': '日',
     'common.time.weeks': '週間',
     'common.time.months': '月',
-    'common.time.years': '年'
+    'common.time.years': '年',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;
