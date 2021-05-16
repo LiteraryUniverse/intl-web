@@ -211,5 +211,14 @@ export default {
     'workshop.story.textopian': 'Link zu Textopian',
     'workshop.story.textopianExplained': 'Textopian ist eine Lese- und Diskussionsplattform für gemeinfreie Werke.',
     'workshop.story.authorsNotesExplained': 'Ihre Notizen für die Leser zum Lesen am Anfang des Kapitels.',
-    'workshop.story.chapterSortSwitch': 'Reihenfolge des Kapitels ändern'
+    'workshop.story.chapterSortSwitch': 'Reihenfolge des Kapitels ändern',
+    'workshop.universe.monetizationTitle': '{title} monetization',
+    'workshop.story.monetizationTitle': '{universeTitle} {storyTitle} monetization',
+    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
+    'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
+    'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
+    'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
+    'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
+    'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
+    'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.'
 };
