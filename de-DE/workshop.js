@@ -212,13 +212,13 @@ export default {
     'workshop.story.textopianExplained': 'Textopian ist eine Lese- und Diskussionsplattform für gemeinfreie Werke.',
     'workshop.story.authorsNotesExplained': 'Ihre Notizen für die Leser zum Lesen am Anfang des Kapitels.',
     'workshop.story.chapterSortSwitch': 'Reihenfolge des Kapitels ändern',
-    'workshop.universe.monetizationTitle': '{title} monetization',
-    'workshop.story.monetizationTitle': '{universeTitle} {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
-    'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
-    'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
-    'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
-    'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
-    'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
-    'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.'
+    'workshop.universe.monetizationTitle': '{title} Monetarisierung',
+    'workshop.story.monetizationTitle': '{universeTitle} {storyTitle} Monetarisierung',
+    'workshop.universe.monetizationWebMonetization': 'Web Monetisierung',
+    'workshop.webMonetization.explain': 'Web Monetization leitet Zahlungen an Sie weiter, basierend darauf, wie viel Zeit der Benutzer mit Ihren Inhalten verbringt. In den Monetarisierungseinstellungen Ihres Profils können Sie Ihren eigenen Zahlungszeiger festlegen. Hier können Sie sich für eine Aufteilung mit Ihren Mitarbeitern entscheiden, die Web Payment aktiviert haben. Literary Universe nimmt automatisch 10%.',
+    'workshop.webMonetization.revShare': 'Aufgrund der Einschränkungen der Web-Monetarisierung wird probabilistisches Revenue Sharing verwendet. Probabilistisches Revenue-Sharing funktioniert, indem jedes Mal, wenn ein Besucher mit Web-Monetarisierung Ihre Seite lädt, zufällig aus einer Liste vordefinierter Zahlungszeiger ausgewählt wird. Der Besucher zahlt an den gewählten Zeiger, bis die Seite neu geladen oder geschlossen wird.',
+    'workshop.webMonetization.revShareMore': 'Erfahren Sie mehr über Probabilistic Revenue Sharing. Wir verwenden den gleichen Code wie auf dieser Seite.',
+    'workshop.story.notEligible.licence': `Die Lizenz der Geschichte erlaubt keine Monetarisierung.`,
+    'workshop.universe.notEligible.licence': `Die Lizenz des Universums erlaubt keine Monetarisierung.`,
+    'workshop.story.notEligible.fanFiction': 'Fan-Fiction-Geschichten sind nicht für die Monetarisierung geeignet.'
 };
