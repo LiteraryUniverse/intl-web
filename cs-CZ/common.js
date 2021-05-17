@@ -185,6 +185,6 @@ export default {
     'common.time.weeks': 'Týdny',
     'common.time.months': 'Měsíce',
     'common.time.years': 'Roky',
-    'common.monetization': 'Monetization',
-    'common.tab.monetizationOptions': 'Monetization options'
+    'common.monetization': 'Monetizace',
+    'common.tab.monetizationOptions': 'Možnosti monetizace'
 }    /* eslint-enable max-len */;
