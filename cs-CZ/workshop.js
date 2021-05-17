@@ -217,13 +217,13 @@ export default {
     'workshop.story.textopianExplained': 'Textopian je platforma pro diskuzi o dílech ve veřejné doméně.',
     'workshop.story.authorsNotesExplained': 'Vaše poznámky pro čtenáře na začátku kapitoly.',
     'workshop.story.chapterSortSwitch': 'Přepnout pořadí kapitol',
-    'workshop.universe.monetizationTitle': '{title} monetization',
-    'workshop.story.monetizationTitle': '{universeTitle} {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
-    'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
-    'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
-    'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
-    'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
-    'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
-    'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.'
+    'workshop.universe.monetizationTitle': '{title} monetizace',
+    'workshop.story.monetizationTitle': '{universeTitle} {storyTitle} monetizace',
+    'workshop.universe.monetizationWebMonetization': 'Webová Monetizace',
+    'workshop.webMonetization.explain': 'Webová monetizace Vám bude posílat platby podle toho, kolik času uživatel stráví na vašem obsahu. V nastavení monetizace svého profilu si můžete nastavit vlastní ukazatel plateb. Zde můžete rozhodnout o rozdělení se svými spolupracovníky, kteří mají povolenou funkci Webová platba. Literary Universe si automaticky bere 10 %.',
+    'workshop.webMonetization.revShare': 'Vzhledem k omezením webové monetizace se používá pravděpodobnostní sdílení příjmů. Pravděpodobnostní sdílení příjmů funguje tak, že se náhodně vybírá ze seznamu předem definovaných ukazatelů plateb pokaždé, když návštěvník monetizovaného webu načte vaši stránku. Návštěvník platí vybranému ukazateli, dokud není stránka znovu načtena nebo zavřena.',
+    'workshop.webMonetization.revShareMore': 'Další informace o pravděpodobnostním sdílení příjmů. Používáme stejný kód jako na této stránce.',
+    'workshop.story.notEligible.licence': `Licence příběhu neumožňuje monetalizaci.`,
+    'workshop.universe.notEligible.licence': `Licence vesmíru neumožňuje monetizaci.`,
+    'workshop.story.notEligible.fanFiction': 'Fan fikce nejsou způsobilé pro monetizaci.'
 };
