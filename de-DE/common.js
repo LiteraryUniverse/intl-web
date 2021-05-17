@@ -185,6 +185,6 @@ export default {
     'common.time.weeks': 'Wochen',
     'common.time.months': 'Monate',
     'common.time.years': 'Jahre',
-    'common.monetization': 'Monetization',
-    'common.tab.monetizationOptions': 'Monetization options'
+    'common.monetization': 'Monetarisierung',
+    'common.tab.monetizationOptions': 'Monetarisierungsoptionen'
 }    /* eslint-enable max-len */;
