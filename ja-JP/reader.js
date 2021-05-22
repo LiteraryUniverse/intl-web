@@ -3,7 +3,7 @@ export default {
     'reader.storyEnd.description': 'あなたは物語の終わりを迎えました。',
     'reader.externalSale.heading': 'まだ来ていない',
     'reader.externalSale.description': 'この物語は文学ユニバースでは入手できませんが、他の場所では入手できます。',
-    'reader.storyTBC.heading': 'To be continued...',
+    'reader.storyTBC.heading': '次回につづく',
     'reader.storyTBC.description': 'ここまでが物語の始まりですが、今後も冒険は続きますので、ぜひチェックしてみてください。',
     'chapter.translation.notYetDescription': 'またすぐにチェックしてください。',
     'reader.externalShopping.heading': '店頭で{storyName}を購入する：',
