@@ -25,29 +25,29 @@ export default {
     'feedback.copyrightReport.title': '著作権侵害',
     'feedback.copyrightReport.desc': '著作権侵害の報告',
     'feedback.report.noUser': 'レポートを提出するには、サインインする必要があります。',
-    'feedback.voting.totalVoters': 'Users voted: {voted, number}',
+    'feedback.voting.totalVoters': 'ユーザーが投票しました：{voted, number}',
     'feedback.voting.upvote': 'アップ投票',
     'feedback.voting.downvote': '下限票',
     'feedback.voting.score': '累計スコア',
-    'feedback.report.title': 'Report content',
+    'feedback.report.title': 'レポート内容',
     'feedback.report.typeSelect': '問題は何ですか。',
     'feedback.reportType.law': '法律違反',
     'feedback.reportType.vulgar': '下品・卑猥な言葉',
     'feedback.reportType.copyright': '著作権侵害',
     'feedback.reportType.storyRating': '誤った年齢評価',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
+    'feedback.report.submit': 'レポート',
+    'feedback.report.submitting': 'レポート',
     'feedback.report.violationDesc': '詳細',
     'feedback.report.reportSaved': 'ご報告ありがとうございました。調査を行い、必要に応じて対応させていただきます。',
     'feedback.report.copyrightReportSaved': 'ご報告ありがとうございました。調査してご連絡いたします。',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
+    'feedback.report.copyrightOwnershipDesc': 'オーナーシップ・ステートメント',
     'feedback.report.copyrightNotice': 'このフォームを使用するには、作品の正当な所有者である必要がありますのでご注意ください。もしあなたが権利者でない場合は、権利者に知らせるか、他のカテゴリーを利用してお知らせください。私たちは、著作権侵害を非常に重く受け止めており、このフォームの不適切な使用や不正使用も同様です。',
     'feedback.report.copyrightInternalProperty': '私はこの作品を文学の宇宙について発表しました。',
     'feedback.reportType.spam': 'スパムやフィッシング',
     'feedback.reportType.other': 'その他',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `どの {type, select,
+    universe {宇宙}
+    story {物語}
+    other {物語}
+  }が侵害されているのか？`
 };
