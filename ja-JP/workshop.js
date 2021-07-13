@@ -33,26 +33,26 @@ export default {
     'workshop.publication.options': '公開オプション',
     'workshop.rating': '一般的な評価',
     'workshop.universe.rating.desc': 'このレーティング以上の物語やファンフィクションは、匿名のユーザーや適切な年齢に達していないユーザーのユニバースページのリストから隠されます。',
-    'workshop.universe.license': 'Universe license',
-    'workshop.universe.genre.pick': 'Select genre for the universe',
-    'workshop.story.genre.pick': 'Select genres for the story',
+    'workshop.universe.license': '宇宙ライセンス',
+    'workshop.universe.genre.pick': '宇宙のジャンルを選ぶ',
+    'workshop.story.genre.pick': '物語のジャンルを選ぶ',
     'workshop.cover': 'カバーアート',
     'workshop.nothingtosee': '申し訳ありませんが、現在ここに表示されるものはありません。',
     'workshop.story.cannon': 'カノン物語',
     'workshop.story.cannon.desc': 'この物語は{universe}宇宙では標準的です。',
-    'workshop.story.cannon.desc.create': 'This story will be created as a canonical story in {universe} universe.',
-    'workshop.story.fanfiction.search': 'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
-    'workshop.story.error.nogenres': 'You need to select at least one genre.',
-    'workshop.story.error.toomanygenres': 'Only two genres per story are allowed.',
+    'workshop.story.cannon.desc.create': 'この物語は、{universe}宇宙のカノニカルな物語として作成されます。',
+    'workshop.story.fanfiction.search': '宇宙の名前を入力します（ライブラリに入っている必要があります）。そして、サジェストから選択します。',
+    'workshop.story.error.nogenres': '最低でも1つのジャンルを選択する必要があります。',
+    'workshop.story.error.toomanygenres': '1話につき2つのジャンルのみ可能です。',
     'workshop.story.error.fanfiction.selectuniverse': 'ファンフィクションにはオリジナルの世界観を選択する必要があるのです。',
-    'workshop.story.error.tags.toomany': 'You can only have 10 tags per story.',
+    'workshop.story.error.tags.toomany': 'タグは1つの物語につき10個までしか設定できません。',
     'workshop.story.new': '新しい物語の作成',
     'workshop.story.publishing.notice': '第一章を公開すると、物語が自動的に公開されます。',
     'workshop.settings.edit': '設定の変更',
-    'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
+    'workshop.story.publishedOn': 'この物語は{date, date,long} {date, time,short}に公開されました。',
     'workshop.story.settings': '物語の設定',
     'workshop.settings.basic': '基本設定',
-    'workshop.settings.genres': 'Genres (max 2)',
+    'workshop.settings.genres': 'ジャンル(最大2)',
     'workshop.story.license': '物語の著作権',
     'workshop.story.settings.universe': '宇宙の設定',
     'workshop.settings.tags': 'タグ',
@@ -93,20 +93,19 @@ export default {
     other {}
   }, you need to increase your membership tier.`,
     'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+    'workshop.collaborators.requests.invite': `あなたは、以下の{role, select,
+    beta {ベータ・リーダー}
+    translator {翻訳者}
+    collaborator {ことで協力者}
     other {}
-  } for the following:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
-  }.`,
-    'workshop.collaborators.language.added': 'Language added',
+  }として招待されました。`,
+    'workshop.collaborators.requests.dashboard': `あなたは、{count, plural,
+    zero {文学作品ではなく、コラボレーションに招待されました。}
+    other {#つの文学作品を共同で制作するよう招待されています。}
+  }`,
+    'workshop.collaborators.language.added': '言語追加',
     'workshop.story.noChaptersFound': '章は見つかりませんでした。',
-    'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
+    'workshop.fanfic.needUniverseInLibrary': '世の中にはたくさんの宇宙があります。あなたが書きたい宇宙は、まずあなたのライブラリーに入れてください。',
     'workshop.fanfic.findUniverse': '素晴らしい宇宙を見つけてください。',
     'workshop.encSettings': '百科事典の設定',
     'workshop.collaborators.removeUser': 'ユーザーを削除',
@@ -122,18 +121,14 @@ export default {
     'workshop.hideOrgs': '組織からコンテンツを非表示にする',
     'workshop.translation.premium': '翻訳を追加するには、最低でも「エクスプローラー」のサブスクリプションが必要です。',
     'workshop.story.finished': '物語が完成しました',
-    'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
+    'workshop.story.publishing.externalSellingNotice': 'あなたは文学の宇宙の外で販売しているので、今すぐ物語を公開することができます。あなたのストアリストへのリンクは、その物語上か、ここで公開した現在の物語の最後に表示されます。',
     'workshop.sharing.publicURL': '公開版',
     'workshop.fictionalTime.title': 'Fictional times for {universeName}',
     'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
     'workshop.fictionalTime.createNow': 'Create one now!',
     'workshop.fictionalTime.createTitle': 'Create a new fictional time',
     'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `ここでは、あなた自身の架空の時間を作ることができます。現在、このツールには制限があり、対称的な時間を作成することしかできません。つまり、マヤ暦やグレゴリオ暦を再現することはできません。現時点では、このツールは、すべての時間が常に同じであることを期待しています、例えば、月は常に30日であり、例外はありません。を想定しています。この点については、今後のバージョンで対応する予定ですが、それまでは、このツールは主に このツールは、主にSFベースの時間を作成するのに適しています。`,
     'workshop.fictionalTime.timeName': 'Time name',
     'workshop.fictionalTime.basicInfo': '基本情報',
     'workshop.fictionalTime.timeSetup': 'Time setup',

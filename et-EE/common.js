@@ -39,7 +39,7 @@ export default {
     'common.showmore': 'Show more',
     'common.futurefeature.title': 'Future feature',
     'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
-    'common.nothingfound': 'Nothing found',
+    'common.nothingfound': 'Midagi ei leitud',
     'common.explore': 'Explore',
     'common.by': 'by ',
     // keep the space at the end as username follows
