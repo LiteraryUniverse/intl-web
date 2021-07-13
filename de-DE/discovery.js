@@ -7,15 +7,15 @@ export default {
     'discovery.continue': 'Lesen Sie weiter',
     'discovery.stories.similar.new': 'Neue Geschichten in der Nachbarschaft',
     'discovery.stories.similar.regular': 'Geschichten aus der Nachbarschaft',
-    'story.estimatedReadingTime': `Diese Geschichte sollte {hours, plural,
+    'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
-        one {1 Stunde und }
-        other {# Stunden und }
+        one {1 hour and }
+        other {# hours and }
     }{minutes, plural,
-        =0 {}
-        one {1 Minute}
-        other {# Minuten}
-    } zum Lesen brauchen.`,
+        =0 {0 minutes}
+        one {1 minute}
+        other {# minutes}
+    } to read.`,
     'story.estimatedReadingTime.explained': 'Basierend auf einer durchschnittlichen Lesegeschwindigkeit von {avgReadingNum} Wörtern pro Minute.',
     'discover.search.text': 'Suchbegriff',
     'discover.searchStory.title': 'Suche nach Geschichte',
