@@ -214,11 +214,11 @@ export default {
     'workshop.story.chapterSortSwitch': 'Cambiar el orden de los capítulos',
     'workshop.universe.monetizationTitle': 'Monetización de {title}',
     'workshop.story.monetizationTitle': 'Monetización de {universeTitle} {storyTitle}',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
-    'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
-    'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
-    'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
-    'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
-    'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
-    'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.'
+    'workshop.universe.monetizationWebMonetization': 'Monetización Web',
+    'workshop.webMonetization.explain': 'La monetización de la web le hará llegar los pagos en función del tiempo que el usuario pase en su contenido. En los ajustes de monetización de tu perfil puedes establecer tu propio puntero de pago. Aquí puedes decidir un reparto con tus colaboradores que tengan activado el Pago Web. Universo Literario se queda automáticamente con el 10%.',
+    'workshop.webMonetization.revShare': 'Debido a la limitación de la monetización web, se utiliza el reparto probabilístico de ingresos. El reparto probabilístico de ingresos funciona eligiendo aleatoriamente entre una lista de punteros de pago predefinidos cada vez que un visitante de la monetización web carga su página. El visitante paga al puntero elegido hasta que la página se vuelve a cargar o se cierra.',
+    'workshop.webMonetization.revShareMore': 'Más información sobre el reparto probabilístico de los ingresos. Utilizamos el mismo código que en esa página.',
+    'workshop.story.notEligible.licence': `La licencia de la historia no permite la monetización.`,
+    'workshop.universe.notEligible.licence': `La licencia del universo no permite la monetización.`,
+    'workshop.story.notEligible.fanFiction': 'Las historias de Fan Fiction no pueden ser monetizadas.'
 };
