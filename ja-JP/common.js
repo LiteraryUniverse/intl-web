@@ -41,7 +41,7 @@ export default {
     'common.futurefeature.text': '大変申し訳ありませんが、この機能は現在のところ利用できません。できるだけ早く利用できるように努力しています。',
     'common.nothingfound': '何も見つかりません',
     'common.explore': '探る',
-    'common.by': 'by ',
+    'common.by': '文責',
     // keep the space at the end as username follows
     'common.scratchpad': 'メモ帳',
     'common.scratchpad.own': 'あなたのメモ帳',
@@ -185,6 +185,6 @@ export default {
     'common.time.weeks': '週間',
     'common.time.months': '月',
     'common.time.years': '年',
-    'common.monetization': 'Monetization',
-    'common.tab.monetizationOptions': 'Monetization options'
+    'common.monetization': '収益化',
+    'common.tab.monetizationOptions': '収益化オプション'
 }    /* eslint-enable max-len */;
