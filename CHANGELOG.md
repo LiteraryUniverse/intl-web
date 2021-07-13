@@ -1,6 +1,7 @@
 # Changelog for languages
 ## 2021-07-13 - v1.4.1
   * Adjusted zero minutes option in `story.estimatedReadingTime`
+  * Removed unused `encyclopedia.entries.total`
 
 ## 2021-05-10 - v1.4.0
   * German and Spanish added into UI languages

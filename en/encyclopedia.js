@@ -32,11 +32,6 @@ export default {
   'encyclopedia.help.sidebar': 'Sidebar Toolbox',
   'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
   'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-  'encyclopedia.entries.total': `There are currently {num, plural,
-    =0 {no entries}
-    one {one entry}
-    other {# entries}
-  } in this encyclopedia.`,
   'encyclopedia.add.title': 'Add a new entry to encyclopedia',
   'encyclopedia.add.heading': 'What do you wish to add?',
   'encyclopedia.add.moresoon': 'More categories coming soon!',
