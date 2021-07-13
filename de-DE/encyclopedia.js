@@ -32,11 +32,6 @@ export default {
     'encyclopedia.help.sidebar': 'Werkzeugkasten der Seitenleiste',
     'encyclopedia.help.sidebar.text': 'Willkommen zu Ihrer Geschichte! Diese Seitenleiste ermöglicht Ihnen einen einfachen Zugriff auf alle Ressourcen, die mit Ihrer Geschichte zusammenhängen. Über die Symbole oben können Sie die letzten Kommentare und Ihre Notizen einsehen, Ihre Enzyklopädie durchsuchen und neue Einträge zu Ihrer Enzyklopädie hinzufügen. Wenn Sie eine Verbindung zu einem Eintrag aus dem Text der Geschichte hinzufügen möchten, markieren Sie den Text an der gewünschten Stelle und klicken dann auf die Schaltfläche "Verbinden". Sie werden dann aufgefordert, einen Eintrag zu suchen und auszuwählen.',
     'encyclopedia.intro': 'Willkommen in der {universe} Enzyklopädie.',
-    'encyclopedia.entries.total': `Es sind derzeit {num, plural,
-    =0 {keine Einträge}
-    one {ein Eintrag}
-    other {# Einträge}
-  } in dieser Enzyklopädie.`,
     'encyclopedia.add.title': 'Neuen Eintrag zur Enzyklopädie hinzufügen',
     'encyclopedia.add.heading': 'Was möchten Sie hinzufügen?',
     'encyclopedia.add.moresoon': 'Weitere Kategorien folgen in Kürze!',
