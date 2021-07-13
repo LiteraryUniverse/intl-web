@@ -45,7 +45,7 @@ export default {
     'plans.current.none': 'あなたは現在、文学の宇宙をサポートしていません。',
     'plans.current.buying': 'ご購入内容の確認に時間がかかる場合があります。恐れ入りますが、ご了承ください。',
     'plans.current.heading': '現在の購読プラン',
-    'payment.methods.title': 'お支払い方法',
+    'payment.methods.title': 'Payments & monetization',
     'payment.methods.tabs': '支払い方法',
     'payment.option.title': '支払い方法',
     'payment.option.notFount': '決済方法が保存されていません。',
@@ -127,5 +127,9 @@ export default {
     'payment.method.add': 'Add a new payment method',
     'payment.methods.adding': 'You new payment method has been added to your account.',
     'payment.methods.delete': 'Delete payment method',
-    'payment.upgradePlan.option': '{plan} - {price}'
+    'payment.upgradePlan.option': '{plan} - {price}',
+    'payment.methods.webMonetization': 'Web Monetization',
+    'settings.webMonetization.placeholder': 'Your payment pointer',
+    'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
+    'payment.webMonetization.learnMore': 'Learn more about Web Monetization'
 };

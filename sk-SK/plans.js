@@ -45,7 +45,7 @@ export default {
     'plans.current.none': 'Momentálne nepodporujete Literary Universe.',
     'plans.current.buying': 'Overenie vášho nákupu môže chvíľu trvať. Oceňujeme vašu trpezlivosť.',
     'plans.current.heading': 'Súčasný plán predplatného',
-    'payment.methods.title': 'Spôsoby platby',
+    'payment.methods.title': 'Platby a monetizácia',
     'payment.methods.tabs': 'Možnosti platby',
     'payment.option.title': 'Možnosť platby',
     'payment.option.notFount': 'Nemáte uloženú žiadnu možnosť platby.',
@@ -127,5 +127,9 @@ export default {
     'payment.method.add': 'Pridanie novej možnosti platby',
     'payment.methods.adding': 'Do vášho účtu bol pridaný nový spôsob platby.',
     'payment.methods.delete': 'Odstránenie spôsobu platby',
-    'payment.upgradePlan.option': '{plan} - {price}'
+    'payment.upgradePlan.option': '{plan} - {price}',
+    'payment.methods.webMonetization': 'Webová monetizácia',
+    'settings.webMonetization.placeholder': 'Váš ukazovateľ platby',
+    'payment.webMonetization.explained': 'Webová monetizácia je navrhovaný štandard pre webové platby. Tu môžete pridať svoj platobný ukazovateľ, ktorý sa potom pridá na vašu profilovú stránku, blog, univerzá a príbehy, ktoré sa budú využívať v rámci služby Web Monetization.',
+    'payment.webMonetization.learnMore': 'Ďalšie informácie o Webové Monetizácii'
 };

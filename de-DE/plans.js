@@ -45,7 +45,7 @@ export default {
     'plans.current.none': 'Sie unterstützen derzeit nicht Literary Universe.',
     'plans.current.buying': 'Es kann ein paar Augenblicke dauern, um Ihren Kauf zu überprüfen. Wir danken Ihnen für Ihre Geduld.',
     'plans.current.heading': 'Aktueller Abonnementplan',
-    'payment.methods.title': 'Bezahlmethoden',
+    'payment.methods.title': 'Zahlungen & Monetarisierung',
     'payment.methods.tabs': 'Zahlungsoptionen',
     'payment.option.title': 'Zahlungsoption',
     'payment.option.notFount': 'Sie haben keine Zahlungsoption gespeichert.',
@@ -127,5 +127,9 @@ export default {
     'payment.method.add': 'Eine neue Zahlungsmethode hinzufügen',
     'payment.methods.adding': 'Ihre neue Zahlungsmethode wurde zu Ihrem Konto hinzugefügt.',
     'payment.methods.delete': 'Zahlungsmethode löschen',
-    'payment.upgradePlan.option': '{plan} - {price}'
+    'payment.upgradePlan.option': '{plan} - {price}',
+    'payment.methods.webMonetization': 'Web Monetisierung',
+    'settings.webMonetization.placeholder': 'Ihr Zahlungszeiger',
+    'payment.webMonetization.explained': 'Web Monetization ist ein vorgeschlagener Standard für Web-Zahlungen. Hier können Sie Ihren Zahlungszeiger hinzufügen, der dann zu Ihrer Profilseite, Ihrem Blog, Ihren Universen und Geschichten hinzugefügt wird, um von Web Monetization genutzt zu werden.',
+    'payment.webMonetization.learnMore': 'Erfahren Sie mehr über Web-Monetarisierung'
 };

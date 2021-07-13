@@ -184,5 +184,7 @@ export default {
     'common.time.days': 'Дні',
     'common.time.weeks': 'Тижні',
     'common.time.months': 'Місяці',
-    'common.time.years': 'Роки'
+    'common.time.years': 'Роки',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;

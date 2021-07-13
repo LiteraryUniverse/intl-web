@@ -12,7 +12,7 @@ export default {
         one {1時間と}
         other {#時間と}
     }{minutes, plural,
-        =0 {}
+        =0 {0分}
         one {1分}
         other {#分}
     }で読めるはずです。`,

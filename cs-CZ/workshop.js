@@ -216,5 +216,14 @@ export default {
     'workshop.story.textopian': 'Odkaz na Textopian',
     'workshop.story.textopianExplained': 'Textopian je platforma pro diskuzi o dílech ve veřejné doméně.',
     'workshop.story.authorsNotesExplained': 'Vaše poznámky pro čtenáře na začátku kapitoly.',
-    'workshop.story.chapterSortSwitch': 'Přepnout pořadí kapitol'
+    'workshop.story.chapterSortSwitch': 'Přepnout pořadí kapitol',
+    'workshop.universe.monetizationTitle': '{title} monetizace',
+    'workshop.story.monetizationTitle': '{universeTitle} {storyTitle} monetizace',
+    'workshop.universe.monetizationWebMonetization': 'Webová Monetizace',
+    'workshop.webMonetization.explain': 'Webová monetizace Vám bude posílat platby podle toho, kolik času uživatel stráví na vašem obsahu. V nastavení monetizace svého profilu si můžete nastavit vlastní ukazatel plateb. Zde můžete rozhodnout o rozdělení se svými spolupracovníky, kteří mají povolenou funkci Webová platba. Literary Universe si automaticky bere 10 %.',
+    'workshop.webMonetization.revShare': 'Vzhledem k omezením webové monetizace se používá pravděpodobnostní sdílení příjmů. Pravděpodobnostní sdílení příjmů funguje tak, že se náhodně vybírá ze seznamu předem definovaných ukazatelů plateb pokaždé, když návštěvník monetizovaného webu načte vaši stránku. Návštěvník platí vybranému ukazateli, dokud není stránka znovu načtena nebo zavřena.',
+    'workshop.webMonetization.revShareMore': 'Další informace o pravděpodobnostním sdílení příjmů. Používáme stejný kód jako na této stránce.',
+    'workshop.story.notEligible.licence': `Licence příběhu neumožňuje monetalizaci.`,
+    'workshop.universe.notEligible.licence': `Licence vesmíru neumožňuje monetizaci.`,
+    'workshop.story.notEligible.fanFiction': 'Fan fikce nejsou způsobilé pro monetizaci.'
 };

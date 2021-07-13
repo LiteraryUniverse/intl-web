@@ -45,7 +45,7 @@ export default {
     'plans.current.none': 'Actualmente no estás contribuyendo a Literary Universe.',
     'plans.current.buying': 'La comprobación de tu compra puede tardar unos minutos. Te agradecemos tu paciencia.',
     'plans.current.heading': 'Plan de suscripción actual',
-    'payment.methods.title': 'Métodos de pago',
+    'payment.methods.title': 'Pagos y monetización',
     'payment.methods.tabs': 'Opciones de pago',
     'payment.option.title': 'Opción de pago',
     'payment.option.notFount': 'No has guardado ninguna opción de pago.',
@@ -127,5 +127,9 @@ export default {
     'payment.method.add': 'Añade un nuevo método de pago',
     'payment.methods.adding': 'Tu nuevo método de pago se ha añadido a tu cuenta.',
     'payment.methods.delete': 'Eliminar método de pago',
-    'payment.upgradePlan.option': '{plan} - {price}'
+    'payment.upgradePlan.option': '{plan} - {price}',
+    'payment.methods.webMonetization': 'Monetización Web',
+    'settings.webMonetization.placeholder': 'Su puntero de pago',
+    'payment.webMonetization.explained': 'Web Monetization es una propuesta de estándar para los pagos en la web. Aquí puedes añadir tu puntero de pago que luego se añadirá a tu página de perfil, blog, universos e historias para ser utilizado por la Monetización Web.',
+    'payment.webMonetization.learnMore': 'Más información sobre la monetización web'
 };

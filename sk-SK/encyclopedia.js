@@ -33,12 +33,6 @@ export default {
     'encyclopedia.help.sidebar': 'Súbor nástrojov bočného panela',
     'encyclopedia.help.sidebar.text': 'Vitajte vo svojom príbehu! Tento bočný panel vám umožňuje jednoduchý prístup ku všetkým zdrojom súvisiacim s vaším príbehom. Zaškrtnutím ikon vyššie si môžete pozrieť najnovšie komentáre, svoje poznámky, vyhľadávať vo svojej encyklopédii, prechádzať a pridávať nové záznamy do svojej encyklopédie. Ak chcete pridať pripojenie k záznamu z textu príbehu, vyberte text, kam ho chcete umiestniť, a potom kliknite na tlačidlo pripojiť. Následne budete vyzvaní na vyhľadanie a výber položky.',
     'encyclopedia.intro': 'Vitajte v encyklopédii {universe}.',
-    'encyclopedia.entries.total': `V tejto encyklopédii {num, plural,
-    =0 {nie sú žiadne položky}
-    one {je jedna položka}
-    few {sú # položky}
-    other {je # položiek}
-  }.`,
     'encyclopedia.add.title': 'Pridanie nového záznamu do encyklopédie',
     'encyclopedia.add.heading': 'Čo chcete pridať?',
     'encyclopedia.add.moresoon': 'Ďalšie kategórie už čoskoro!',

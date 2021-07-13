@@ -1,9 +1,9 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
+    'encyclopedia.add': 'エントリーの追加',
+    'encyclopedia.browse': '百科事典の閲覧',
+    'encyclopedia.search': '百科事典の検索',
+    'encyclopedia.back.universe': '宇宙のページに戻る',
+    'encyclopedia.back.workshop': 'ワークショップに戻る',
     'encyclopedia.categories': 'カテゴリー',
     'encyclopedia.groups': 'ツリー表示',
     'encyclopedia.category.character': 'キャラクター',
@@ -24,19 +24,13 @@ export default {
     'encyclopedia.category.species': '正貨',
     'encyclopedia.category.technologies': '技術',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-    'encyclopedia.entries.total': `There are currently {num, plural,
-    =0 {no entries}
-    one {one entry}
-    other {# entries}
-  } in this encyclopedia.`,
+    =0 {関連エントリが見つかりません。}
+    other {#件の関連エントリーが見つかりました。}
+  }`,
+    'encyclopedia.help.text': '左側のメニューを使って、百科事典の項目間を移動することができます。項目を選択すると、この文章の代わりに項目が表示されます。',
+    'encyclopedia.help.sidebar': 'サイドバーのツールバー',
+    'encyclopedia.help.sidebar.text': 'あなたの物語へようこそ このサイドバーでは、あなたの物語に関連するすべてのリソースに簡単にアクセスできます。上のアイコンをチェックすると、最新のコメント、自分のメモ、百科事典の検索、閲覧、百科事典への新しいエントリの追加ができます。物語のテキストからエントリに接続を追加したい場合は、配置したいテキストを選択してから接続ボタンをクリックします。すると、項目を探して選択するように促されます。',
+    'encyclopedia.intro': 'ようこそ{universe}エンサイクロペディアへ。',
     'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
     'encyclopedia.add.heading': '何を追加しますか？',
     'encyclopedia.add.moresoon': 'より多くのカテゴリがまもなく登場します！',
@@ -125,19 +119,18 @@ export default {
     'encyclopedia.cover': '表紙画像',
     'encyclopedia.translation.title': 'ようこそ{universe}宇宙翻訳へ!',
     'encyclopedia.translation.desc': 'この百科事典のインターフェースは{language}への翻訳に使われます。左側のリストから既存の項目を選ぶと、その翻訳が始まります。',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `{totalEntries, plural,
+    =0 {現在、この宇宙にはエントリがありません}
+    other {この宇宙には現在#件のエントリーがあります}
+  }。`,
     'encyclopedia.settings.title': '百科事典の設定',
     'encyclopedia.settings.categoriesDesc': '百科事典で使用したいカテゴリーのオン・オフを設定します。',
     'encyclopedia.settings.introText': '宇宙の説明の後に表示されるウェルカムメッセージ。',
     'encyclopedia.fields.placeholder': 'フィールド名',
     'encyclopedia.fields.delete': 'フィールドを削除',
-    'encyclopedia.timeOption.fictionalDate': 'Fictional date',
-    'encyclopedia.timeOption.fictionalTime': 'Fictional time',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
+    'encyclopedia.timeOption.fictionalDate': '架空の日付',
+    'encyclopedia.timeOption.fictionalTime': '架空の時間',
+    'encyclopedia.timeOption.fictionalDateTime': '架空の日付時間',
     'encyclopedia.timeOption.date': '日付',
     'encyclopedia.timeOption.time': '時間',
     'encyclopedia.timeOption.dateTime': '日付時刻',
@@ -146,9 +139,8 @@ export default {
     'encyclopedia.menuClose': '百科事典メニューを閉じる',
     'encyclopedia.menuAria': '百科事典メニュー',
     'enc.newField': '新しい分野',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
-    other {{max, number}}
-  } entries.`,
+    'enc.entries.limit': `現在、{max, plural,
+    =0 {無制限}
+    other {{max, number}}}件中{value, number}件のエントリーがあります。`,
     'enc.entries.limitReached': '現在の購読期間中に許容される百科事典の最大エントリ数に達しました。'
 };

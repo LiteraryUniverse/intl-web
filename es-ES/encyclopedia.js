@@ -32,11 +32,6 @@ export default {
     'encyclopedia.help.sidebar': 'Caja de herramientas de la barra lateral',
     'encyclopedia.help.sidebar.text': '¡Bievenido a tu historia! La barra lateral te permite acceder fácilmente a todos los recursos relacionados con tu historia. Cliquea los iconos de arriba para ver los últimos comentarios, tus notas, buscar en la enciclopedia, navegar y añadir nuevas entradas a tu enciclopedia. Si quieres añadir una conexión a la entrada a partir del texto de la historia, selecciona el texto donde quieras colocarlo y haz clic al botón "conectar". Después tendrás que encontrar y seleccionar un elemento.',
     'encyclopedia.intro': 'Bienvenido a la enciclopedia de {universe}.',
-    'encyclopedia.entries.total': `En estos momentos {num, plural,
-    =0 {no hay entradas}
-    one {hay una entrada}
-    other {hay # entradas}
-  } en esta enciclopedia.`,
     'encyclopedia.add.title': 'Añade una nueva entrada a la enciclopedia',
     'encyclopedia.add.heading': '¿Qué quieres añadir?',
     'encyclopedia.add.moresoon': '¡Más categorías en breve!',

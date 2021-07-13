@@ -12,7 +12,7 @@ export default {
         one {1 Stunde und }
         other {# Stunden und }
     }{minutes, plural,
-        =0 {}
+        =0 {0 Minuten}
         one {1 Minute}
         other {# Minuten}
     } zum Lesen brauchen.`,

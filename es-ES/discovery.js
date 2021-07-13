@@ -12,7 +12,7 @@ export default {
         one {1 hora y }
         other {# horas y }
     }{minutes, plural,
-        =0 {}
+        =0 {0 minutos}
         one {1 minuto}
         other {# minutos}
     } en leer esta historia.`,

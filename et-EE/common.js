@@ -184,5 +184,7 @@ export default {
     'common.time.days': 'Päeva',
     'common.time.weeks': 'Nädalat',
     'common.time.months': 'Kuud',
-    'common.time.years': 'Aastad'
+    'common.time.years': 'Aastad',
+    'common.monetization': 'Monetization',
+    'common.tab.monetizationOptions': 'Monetization options'
 }    /* eslint-enable max-len */;
