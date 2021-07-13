@@ -7,15 +7,15 @@ export default {
     'discovery.continue': '続きを読む',
     'discovery.stories.similar.new': 'ご近所の新しい物語',
     'discovery.stories.similar.regular': '近所の話',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `この物語は{hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1時間と}
+        other {#時間と}
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
+        =0 {0分}
+        one {1分}
+        other {#分}
+    }で読めるはずです。`,
     'story.estimatedReadingTime.explained': '毎分{avgReadingNum}文字の平均読取速度に基づいています。',
     'discover.search.text': '検索語',
     'discover.searchStory.title': '物語を探す',
