@@ -7,15 +7,15 @@ export default {
     'discovery.continue': 'Leer más',
     'discovery.stories.similar.new': 'Nuevas historias en el vecindario',
     'discovery.stories.similar.regular': 'Historias en el vecindario',
-    'story.estimatedReadingTime': `Tardarías {hours, plural,
+    'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
-        one {1 hora y }
-        other {# horas y }
+        one {1 hour and }
+        other {# hours and }
     }{minutes, plural,
-        =0 {}
-        one {1 minuto}
-        other {# minutos}
-    } en leer esta historia.`,
+        =0 {0 minutes}
+        one {1 minute}
+        other {# minutes}
+    } to read.`,
     'story.estimatedReadingTime.explained': 'En base a una velocidad de lectura media de {avgReadingNum} palabras por minuto.',
     'discover.search.text': 'Buscar término',
     'discover.searchStory.title': 'Buscar historia',
