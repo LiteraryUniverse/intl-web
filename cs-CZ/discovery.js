@@ -14,12 +14,12 @@ export default {
         many {# hodin }
         other {# hodin }
     }{minutes, plural,
-        =0 {}
+        =0 {0 minut}
         one {1 minutu }
         few {# minuty }
         many {# minut }
         other {# minut }
-    }k přečtení.`,
+    } k přečtení.`,
     'story.estimatedReadingTime.explained': 'Na základě průměrné rychlosti čtení {avgReadingNum} slov za minutu.',
     'discover.search.text': 'Hledaný výraz',
     'discover.searchStory.title': 'Najít příběh',
