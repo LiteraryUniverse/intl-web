@@ -14,7 +14,7 @@ export default {
         many {# hodín a}
         other {# hodín a }
     }{minutes, plural,
-        =0 {}
+        =0 {0 minút}
         one {1 minúta}
         few {# minúty}
         many {# minút}
