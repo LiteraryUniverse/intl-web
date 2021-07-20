@@ -20,5 +20,12 @@ export default {
     'user.profile.visit': 'Navštívit profil {user}.',
     'user.profile.avatar': 'Avatar uživatele {username}',
     'user.friend.list.requests': 'Žádosti o přátelství',
-    'user.friend.norequests': 'Nemáte žádné žádosti o přátelství.'
+    'user.friend.norequests': 'Nemáte žádné žádosti o přátelství.',
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {Dobré ráno}
+    afternoon {Dobré odpoledne}
+    evening {Dobrý večer}
+    night {Dobrou noc}
+    other {Dobrý den}
+  } {displayName}!`
 };
