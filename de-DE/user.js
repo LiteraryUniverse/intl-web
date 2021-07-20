@@ -20,11 +20,11 @@ export default {
     'user.profile.avatar': 'Avatar von {username}',
     'user.friend.list.requests': 'Freundschaftsanfragen',
     'user.friend.norequests': 'Sie haben keinen Wunsch nach Freundschaft.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {Guten Morgen}
+    afternoon {Guten Tag}
+    evening {Guten Abend}
+    night {Gute Nacht}
+    other {Guten Tag}
   } {displayName}!`
 };
