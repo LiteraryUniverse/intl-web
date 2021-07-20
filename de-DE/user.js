@@ -19,5 +19,12 @@ export default {
     'user.profile.visit': 'Besuchen Sie das Profil von {user}.',
     'user.profile.avatar': 'Avatar von {username}',
     'user.friend.list.requests': 'Freundschaftsanfragen',
-    'user.friend.norequests': 'Sie haben keinen Wunsch nach Freundschaft.'
+    'user.friend.norequests': 'Sie haben keinen Wunsch nach Freundschaft.',
+    'user.dashboardWelcome': `Good {dayPart, select,
+    morning {morning}
+    afternoon {afternoon}
+    evening {evening}
+    night {night}
+    other {day}
+  } {displayName}!`
 };
