@@ -19,5 +19,12 @@ export default {
     'user.profile.visit': 'Visitar el perfil de {user}.',
     'user.profile.avatar': 'Avatar de {username}',
     'user.friend.list.requests': 'Peticiones de amistad',
-    'user.friend.norequests': 'No tienes peticiones de amistad.'
+    'user.friend.norequests': 'No tienes peticiones de amistad.',
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {Buenos días}
+    afternoon {Buenas tardes}
+    evening {Buenas noches}
+    night {Buenas noches}
+    other {Buenas noches}
+  } {displayName}!`
 };
