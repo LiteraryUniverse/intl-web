@@ -20,4 +20,11 @@ export default {
   'user.profile.avatar': '{username}\'s avatar',
   'user.friend.list.requests': 'Friendships requests',
   'user.friend.norequests': 'You have no requests for friendship.',
+  'user.dashboardWelcome': `Good {dayPart, select,
+    morning {morning}
+    afternoon {afternoon}
+    evening {evening}
+    night {night}
+    other {day}
+  } {displayName}!`
 }

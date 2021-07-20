@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-07-20 - v1.4.2
+  * Added `user.dashboardWelcome`
+
 ## 2021-07-13 - v1.4.1
   * Adjusted zero minutes option in `story.estimatedReadingTime`
   * Removed unused `encyclopedia.entries.total`
