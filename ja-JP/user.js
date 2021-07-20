@@ -12,5 +12,12 @@ export default {
     'user.profile.visit': '{user}のプロフィールを見る。',
     'user.profile.avatar': '{username}のアバター',
     'user.friend.list.requests': '友達リクエスト',
-    'user.friend.norequests': '友情のリクエストはありません。'
+    'user.friend.norequests': '友情のリクエストはありません。',
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {おはようございます}
+    afternoon {こんにちは}
+    evening {こんにちは}
+    night {こんばんは}
+    other {こんにちは}
+  }{displayName}さん。`
 };
