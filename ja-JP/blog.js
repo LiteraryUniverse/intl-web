@@ -14,7 +14,7 @@ export default {
   } settings`,
     'blog.description': 'ブログ紹介',
     'blog.theme': 'テーマ',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.theme.info': 'テーマを調整することで、ページの外観を変更することができます。この機能は、現時点では準備ができていません。',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': '{title} を編集',
     'blog.post.text': 'テキストを投稿',
     'common.slug': 'SEO対応アドレス',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
+    'blog.slug.explained': '記事のURLがいい感じですね。"-"以外の特殊文字の使用は避けてください。',
     'blog.publicView': '公開表示',
     'blog.post.notfound': 'ブログの投稿が見つかりませんでした',
     'blog.lists.works': `{type, select,
@@ -33,16 +33,16 @@ export default {
     fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'ここに掲載されているのは独立した物語ですが、物語が宇宙の一部として書かれた場合は、宇宙のページに掲載されます。',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
+    'blog.social.website': '公式サイト',
+    'blog.settings.universeSettings': '宇宙ブログは、宇宙ページに統合されており、基本的な設定は宇宙の設定を参考にしています。',
+    'blogs.lu': '文学の宇宙公式ブログ',
+    'blogs.featured': '注目のブログ',
     'blogs.new': '最新のブログ',
     'blogs.title': '文学の宇宙のブログ',
     'blogs.description': '文学の宇宙プラットフォーム上のブログの一覧。',
