@@ -21,11 +21,11 @@ export default {
     'user.profile.avatar': 'Avatar {username}',
     'user.friend.list.requests': 'Žiadosti o priateľstvá',
     'user.friend.norequests': 'Nemáte žiadne žiadosti o priateľstvo.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {Dobré ráno}
+    afternoon {Dobrý deň}
+    evening {Dobrý večer}
+    night {Dobrú noc}
+    other {Dobrú noc}
   } {displayName}!`
 };
