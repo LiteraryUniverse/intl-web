@@ -1,6 +1,7 @@
 # Changelog for languages
-## 2021-07-25
+## 2021-07-25 - v1.5
   * Added keys for split monetization
+  * Add CodeQL GitHub action
 
 ## 2021-07-20 - v1.4.2
   * Added `user.dashboardWelcome`
