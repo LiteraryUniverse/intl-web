@@ -223,5 +223,11 @@ export default {
     'workshop.webMonetization.revShareMore': 'Ďalšie informácie o pravdepodobnostnom rozdelení príjmov. Používame rovnaký kód ako na tejto stránke.',
     'workshop.story.notEligible.licence': `Licencia príbehu neumožňuje monetizáciu.`,
     'workshop.universe.notEligible.licence': `Licencia vesmíru neumožňuje speňaženie.`,
-    'workshop.story.notEligible.fanFiction': 'Príbehy Fan Fiction nie sú oprávnené na monetizáciu.'
+    'workshop.story.notEligible.fanFiction': 'Príbehy Fan Fiction nie sú oprávnené na monetizáciu.',
+    'workshop.revShare.mustBe100': 'Share must equal 100%',
+    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
+    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
+    'workshop.revShare.undecided': 'Undecided',
+    'workshop.revShare.origLangCreators': 'Original language creators'
 };
