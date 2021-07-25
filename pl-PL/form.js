@@ -1,8 +1,8 @@
 export default {
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
+    'form.validator.required': 'Wymagane pole',
+    'form.validator.mustBeNumber': 'Musi być liczbą',
+    'form.validator.minNumber': 'Powinna być większa niż {min}',
+    'form.validator.maxNumber': 'Powinna być niższa niż {max}',
     'form.validator.maxLength': `Should be less than {max} {what, select,
     characters {characters}
     tags {tags}
@@ -16,16 +16,16 @@ export default {
     genre {genre}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+    'form.validator.email': 'Musi to być ważny adres e-mail',
+    'form.validator.url': 'Musi być prawidłowym adresem URL',
+    'form.validator.slug': 'Musi być poprawną częścią adresu URL',
+    'form.submitting.signup': 'Tworzenie konta...',
+    'form.submitting.signin': 'Logowanie...',
+    'form.submitting.default': 'Wysyłanie...',
+    'form.submitting.sending': 'Trwa przesyłanie...',
+    'form.validator.whitespace': 'Nie może mieć białego miejsca',
+    'form.validator.zipCode': 'Musi to być ważny kod pocztowy (ZIP)',
+    'form.validator.isbn': 'Akceptujemy tylko 10 lub 13 wersję ISBN',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} jest wymagane',
