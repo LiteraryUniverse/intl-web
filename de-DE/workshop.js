@@ -221,10 +221,10 @@ export default {
     'workshop.story.notEligible.licence': `Die Lizenz der Geschichte erlaubt keine Monetarisierung.`,
     'workshop.universe.notEligible.licence': `Die Lizenz des Universums erlaubt keine Monetarisierung.`,
     'workshop.story.notEligible.fanFiction': 'Fan-Fiction-Geschichten sind nicht für die Monetarisierung geeignet.',
-    'workshop.revShare.mustBe100': 'Share must equal 100%',
-    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
-    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.revShare.mustBe100': 'Anteil muss 100 % entsprechen',
+    'workshop.revShare.LUCut': 'Literary Universe & Zahlungsmittel',
+    'workshop.revShare.unallocated': 'Nicht zugewiesener Anteil {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': 'Undecided',
-    'workshop.revShare.origLangCreators': 'Original language creators'
+    'workshop.revShare.origLangCreators': 'Ersteller der Originalsprache'
 };
