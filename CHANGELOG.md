@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-07-25
+  * Added keys for split monetization
+
 ## 2021-07-20 - v1.4.2
   * Added `user.dashboardWelcome`
 
