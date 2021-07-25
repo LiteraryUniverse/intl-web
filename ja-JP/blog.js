@@ -1,25 +1,24 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    org {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `現在{type, select,
+    org {はブログを持っていませんね}
+    universe {、あなたの宇宙にはブログがありません}
+    user {はブログを持っていませんね}
     other {}
-  }.`,
+  }。`,
     'blog.create': '新しいブログを作成する',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ブログ}
+    universe {宇宙のページ}
+    user {ブログ}
     other {}
-  } settings`,
+  }設定`,
     'blog.description': 'ブログ紹介',
     'blog.theme': 'テーマ',
     'blog.theme.info': 'テーマを調整することで、ページの外観を変更することができます。この機能は、現時点では準備ができていません。',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `このブログには{total, plural,
+    zero {記事がありません}
+    other {#つの記事があります}
+  }。`,
     'blog.post.create': '新しい投稿を作成',
     'blog.post.update': '{title} を編集',
     'blog.post.text': 'テキストを投稿',
@@ -28,17 +27,17 @@ export default {
     'blog.publicView': '公開表示',
     'blog.post.notfound': 'ブログの投稿が見つかりませんでした',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {宇宙}
+    stories {独立した物語}
+    fanfiction {ファンフィクション作品}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'ここに掲載されているのは独立した物語ですが、物語が宇宙の一部として書かれた場合は、宇宙のページに掲載されます。',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `ソーシャルリンクは、{type, select,
+    organization {組織設定}
+    user {ユーザープロファイル}
     other {}
-  }`,
+  }で設定されているものと同じです。`,
     'blog.social.website': '公式サイト',
     'blog.settings.universeSettings': '宇宙ブログは、宇宙ページに統合されており、基本的な設定は宇宙の設定を参考にしています。',
     'blogs.lu': '文学の宇宙公式ブログ',

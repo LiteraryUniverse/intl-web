@@ -114,7 +114,7 @@ export default {
     'encyclopedia.connections.remove': '接続を削除',
     'encyclopedia.connections.extra': '既存の記事',
     'encyclopedia.connections.existing': '既存のエントリー',
-    'encyclopedia.connections.existing.abbr': 'EE',
+    'encyclopedia.connections.existing.abbr': 'エエ',
     // abbreviation for Existing Entry
     'encyclopedia.cover': '表紙画像',
     'encyclopedia.translation.title': 'ようこそ{universe}宇宙翻訳へ!',

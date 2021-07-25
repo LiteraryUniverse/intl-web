@@ -213,12 +213,18 @@ export default {
     'workshop.story.authorsNotesExplained': 'Notas para que tus lectores las lean al principio del capítulo.',
     'workshop.story.chapterSortSwitch': 'Cambiar el orden de los capítulos',
     'workshop.universe.monetizationTitle': 'Monetización de {title}',
-    'workshop.story.monetizationTitle': 'Monetización de {universeTitle} {storyTitle}',
+    'workshop.story.monetizationTitle': 'Monetización de {universeTitle}: {storyTitle}',
     'workshop.universe.monetizationWebMonetization': 'Monetización Web',
     'workshop.webMonetization.explain': 'La monetización de la web le hará llegar los pagos en función del tiempo que el usuario pase en su contenido. En los ajustes de monetización de tu perfil puedes establecer tu propio puntero de pago. Aquí puedes decidir un reparto con tus colaboradores que tengan activado el Pago Web. Universo Literario se queda automáticamente con el 10%.',
     'workshop.webMonetization.revShare': 'Debido a la limitación de la monetización web, se utiliza el reparto probabilístico de ingresos. El reparto probabilístico de ingresos funciona eligiendo aleatoriamente entre una lista de punteros de pago predefinidos cada vez que un visitante de la monetización web carga su página. El visitante paga al puntero elegido hasta que la página se vuelve a cargar o se cierra.',
     'workshop.webMonetization.revShareMore': 'Más información sobre el reparto probabilístico de los ingresos. Utilizamos el mismo código que en esa página.',
     'workshop.story.notEligible.licence': `La licencia de la historia no permite la monetización.`,
     'workshop.universe.notEligible.licence': `La licencia del universo no permite la monetización.`,
-    'workshop.story.notEligible.fanFiction': 'Las historias de Fan Fiction no pueden ser monetizadas.'
+    'workshop.story.notEligible.fanFiction': 'Las historias de Fan Fiction no pueden ser monetizadas.',
+    'workshop.revShare.mustBe100': 'La cuota debe ser igual al 100%',
+    'workshop.revShare.LUCut': 'Literary Universe y puerta de pago',
+    'workshop.revShare.unallocated': 'Parte no asignada {total, number, ::percent}',
+    'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
+    'workshop.revShare.undecided': 'Indeciso',
+    'workshop.revShare.origLangCreators': 'Creadores de idiomas originales'
 };

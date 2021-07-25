@@ -213,12 +213,18 @@ export default {
     'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
     'workshop.story.chapterSortSwitch': 'Switch chapter\'s order',
     'workshop.universe.monetizationTitle': '{title} monetization',
-    'workshop.story.monetizationTitle': '{universeTitle} {storyTitle} monetization',
+    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
     'workshop.universe.monetizationWebMonetization': 'Web Monetization',
     'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
     'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
     'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
     'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
     'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
-    'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.'
+    'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.',
+    'workshop.revShare.mustBe100': 'Share must equal 100%',
+    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
+    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
+    'workshop.revShare.undecided': 'Undecided',
+    'workshop.revShare.origLangCreators': 'Original language creators'
 };
