@@ -40,12 +40,12 @@ export default {
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
+    'blog.social.website': 'Oficjalna strona',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
     'blogs.new': 'Newest blogs',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog'
+    'blogs.visit': 'Odwiedź blog'
 };
