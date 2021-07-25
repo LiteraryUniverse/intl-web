@@ -1,29 +1,30 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    org {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Obecnie nie posiadasz {type, select,
+    org {żadnego bloga}
+    universe {bloga dla swojego uniwersum}
+    user {bloga}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Utwórz nowego bloga',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Strona uniwersum}
     user {Blog}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
+  } - ustawienia`,
+    'blog.description': 'Wprowadzenie do bloga',
+    'blog.theme': 'Motyw',
+    'blog.theme.info': 'Dostosowanie motywu umożliwi Ci zmianę wyglądu tej strony. Ta funkcja nie jest jeszcze gotowa.',
+    'blog.posts.total': `W tym blogu {total, plural,
+    one {znajduje się jeden wpis}
+    few {znajdują się # wpisy}
+    many {znajduje się # wpisów}
+    other {znajduje się # wpisów}
+  }.`,
+    'blog.post.create': 'Utwórz nowy wpis',
+    'blog.post.update': 'Edytowanie {title}',
+    'blog.post.text': 'Tekst wpisu',
+    'common.slug': 'Adres przyjazny pozycjonowaniu',
     'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
