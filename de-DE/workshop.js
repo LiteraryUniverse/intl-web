@@ -220,5 +220,11 @@ export default {
     'workshop.webMonetization.revShareMore': 'Erfahren Sie mehr über Probabilistic Revenue Sharing. Wir verwenden den gleichen Code wie auf dieser Seite.',
     'workshop.story.notEligible.licence': `Die Lizenz der Geschichte erlaubt keine Monetarisierung.`,
     'workshop.universe.notEligible.licence': `Die Lizenz des Universums erlaubt keine Monetarisierung.`,
-    'workshop.story.notEligible.fanFiction': 'Fan-Fiction-Geschichten sind nicht für die Monetarisierung geeignet.'
+    'workshop.story.notEligible.fanFiction': 'Fan-Fiction-Geschichten sind nicht für die Monetarisierung geeignet.',
+    'workshop.revShare.mustBe100': 'Share must equal 100%',
+    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
+    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
+    'workshop.revShare.undecided': 'Undecided',
+    'workshop.revShare.origLangCreators': 'Original language creators'
 };
