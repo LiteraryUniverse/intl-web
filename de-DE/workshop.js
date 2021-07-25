@@ -213,7 +213,7 @@ export default {
     'workshop.story.authorsNotesExplained': 'Ihre Notizen für die Leser zum Lesen am Anfang des Kapitels.',
     'workshop.story.chapterSortSwitch': 'Reihenfolge des Kapitels ändern',
     'workshop.universe.monetizationTitle': '{title} Monetarisierung',
-    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
+    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} Monetarisierung',
     'workshop.universe.monetizationWebMonetization': 'Web Monetisierung',
     'workshop.webMonetization.explain': 'Web Monetization leitet Zahlungen an Sie weiter, basierend darauf, wie viel Zeit der Benutzer mit Ihren Inhalten verbringt. In den Monetarisierungseinstellungen Ihres Profils können Sie Ihren eigenen Zahlungszeiger festlegen. Hier können Sie sich für eine Aufteilung mit Ihren Mitarbeitern entscheiden, die Web Payment aktiviert haben. Literary Universe nimmt automatisch 10%.',
     'workshop.webMonetization.revShare': 'Aufgrund der Einschränkungen der Web-Monetarisierung wird probabilistisches Revenue Sharing verwendet. Probabilistisches Revenue-Sharing funktioniert, indem jedes Mal, wenn ein Besucher mit Web-Monetarisierung Ihre Seite lädt, zufällig aus einer Liste vordefinierter Zahlungszeiger ausgewählt wird. Der Besucher zahlt an den gewählten Zeiger, bis die Seite neu geladen oder geschlossen wird.',
@@ -225,6 +225,6 @@ export default {
     'workshop.revShare.LUCut': 'Literary Universe & Zahlungsmittel',
     'workshop.revShare.unallocated': 'Nicht zugewiesener Anteil {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
-    'workshop.revShare.undecided': 'Undecided',
+    'workshop.revShare.undecided': 'Nicht entschieden',
     'workshop.revShare.origLangCreators': 'Ersteller der Originalsprache'
 };
