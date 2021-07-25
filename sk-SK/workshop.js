@@ -224,10 +224,10 @@ export default {
     'workshop.story.notEligible.licence': `Licencia príbehu neumožňuje monetizáciu.`,
     'workshop.universe.notEligible.licence': `Licencia vesmíru neumožňuje speňaženie.`,
     'workshop.story.notEligible.fanFiction': 'Príbehy Fan Fiction nie sú oprávnené na monetizáciu.',
-    'workshop.revShare.mustBe100': 'Share must equal 100%',
-    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
-    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.revShare.mustBe100': 'Podiel sa musí rovnať 100%',
+    'workshop.revShare.LUCut': 'Literary Universe a platobná brána',
+    'workshop.revShare.unallocated': 'Nepridelený podiel {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
-    'workshop.revShare.undecided': 'Undecided',
-    'workshop.revShare.origLangCreators': 'Original language creators'
+    'workshop.revShare.undecided': 'Nerozhodnutý',
+    'workshop.revShare.origLangCreators': 'Tvorcovia pôvodného jazyka'
 };
