@@ -221,4 +221,10 @@ export default {
   'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
   'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
   'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.',
+  'workshop.revShare.mustBe100': 'Share must equal 100%',
+  'workshop.revShare.LUCut': 'Literary Universe & payment gate',
+  'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+  'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
+  'workshop.revShare.undecided': 'Undecided',
+  'workshop.revShare.origLangCreators': 'Original language creators',
 }
