@@ -64,28 +64,28 @@ export default {
     'payment.card.name': 'カードの名前',
     'plans.subscribed.thankYou': '文学の宇宙を支援していただきありがとうございます。',
     'plans.subscribed.periodEnd': 'ご利用期間は{end, date, medium}までです。',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `{method, select,
+    charge_automatically {契約終了時には自動的に更新}
+    send_invoice {終了時に請求書をお支払いいただくと、契約が更新}
     other {}
-  }.`,
+  }更新されます。`,
     'plans.subscribed.paymentMethod': '次のサイクルのお支払いには、お客様のデフォルトのお支払い方法が使用されます。',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `購読状況：{status, select,
+    active {アクティブ}
+    incomplete {何かが足りない}
+    incomplete_expired {何かが足りない}
+    trialing {トライアル}
+    past_due {お支払いが滞っています}
+    canceled {キャンセル}
+    unpaid {未払い}
     other {}
   }`,
     'payments.changeMethod': '支払い方法の変更',
-    'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
+    'plans.subscribed.willNotRenew': 'は、サイクルの終わりには更新されません。',
     'plans.cancel.button': '購読解除',
-    'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.',
-    'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
-    'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
+    'plans.cancel.question': '月額プランをキャンセルしてもよろしいですか？お客様のサブスクリプションは、請求サイクルの最後まで有効です。',
+    'plans.cancel.confirmationButton': 'はい、解約したいと思います。',
+    'plans.cancel.failed': '申し訳ありませんが、現時点ではお客様のプランをキャンセルすることができませんでした。後でもう一度お試しください。',
     'plans.cancel.restoreBtn': 'サブスクリプションの復元',
     'plans.cancel.restoreFailed': '申し訳ありませんが、現時点では購読の復元ができませんでした。後でもう一度お試しください。',
     'plans.change.button': 'サブスクリプションの変更',
@@ -100,14 +100,14 @@ export default {
     'payments.card.info': '{cardType}カード、{ending}で終わる',
     'payments.none': '保存された支払い方法は見つかりませんでした。',
     'payments.added': '新しい支払い方法の追加に成功しました。',
-    'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
+    'payments.delete.confirm': '本当に{ending}で終わる{cardType}を削除したいのですか？',
     'payment.invoice.status': '請求書のステータス',
     'payment.invoice.statusMessage': `{status, select,
-    draft {Draft}
-    open {Open}
-    paid {Paid}
-    uncollectible {Uncollectible}
-    void {Void}
+    draft {ドラフト}
+    open {開}
+    paid {有料}
+    uncollectible {貸し倒れ}
+    void {ボイド}
     other {}
   }`,
     'payment.invoice.id': '請求書ID',
@@ -116,20 +116,20 @@ export default {
     'payment.invoice.what': '請求書の説明',
     'payment.stripe.powered': 'Powered by ',
     'payment.listMethods.card': 'カード',
-    'payment.expiresAt': 'Expires {month}/{year}',
-    'payment.card.details': `{type, select,
-    credit {Credit card}
-    debit {Debit card}
-    other {Card}
-  } ending with {last4}`,
+    'payment.expiresAt': '期限は{month}/{year}です。',
+    'payment.card.details': `{last4}で終わる{type, select,
+    credit {クレジット・カード}
+    debit {デビットカード}
+    other {カード}
+  }`,
     'payment.options.default': 'デフォルト',
     // Added 2020-05-27
     'payment.method.add': '新しい支払方法の追加',
     'payment.methods.adding': 'お客様のアカウントに新しいお支払い方法が追加されました。',
     'payment.methods.delete': '決済方法の削除',
     'payment.upgradePlan.option': '{plan} - {price}',
-    'payment.methods.webMonetization': 'Web Monetization',
-    'settings.webMonetization.placeholder': 'Your payment pointer',
-    'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
-    'payment.webMonetization.learnMore': 'Learn more about Web Monetization'
+    'payment.methods.webMonetization': 'ウェブマネタイズ',
+    'settings.webMonetization.placeholder': 'お支払い方法',
+    'payment.webMonetization.explained': 'Web Monetizationは、ウェブ決済の標準規格として提案されています。ここでは、あなたのプロフィールページ、ブログ、ユニバース、ストーリーに、Webマネタイズで利用される決済ポインタを追加することができます。',
+    'payment.webMonetization.learnMore': 'ウェブマネタイズについて詳しくはこちら'
 };
