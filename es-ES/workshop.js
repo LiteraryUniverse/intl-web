@@ -220,5 +220,11 @@ export default {
     'workshop.webMonetization.revShareMore': 'Más información sobre el reparto probabilístico de los ingresos. Utilizamos el mismo código que en esa página.',
     'workshop.story.notEligible.licence': `La licencia de la historia no permite la monetización.`,
     'workshop.universe.notEligible.licence': `La licencia del universo no permite la monetización.`,
-    'workshop.story.notEligible.fanFiction': 'Las historias de Fan Fiction no pueden ser monetizadas.'
+    'workshop.story.notEligible.fanFiction': 'Las historias de Fan Fiction no pueden ser monetizadas.',
+    'workshop.revShare.mustBe100': 'Share must equal 100%',
+    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
+    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
+    'workshop.revShare.undecided': 'Undecided',
+    'workshop.revShare.origLangCreators': 'Original language creators'
 };
