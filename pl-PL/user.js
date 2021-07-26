@@ -15,16 +15,16 @@ export default {
     'user.friend.request.accept': 'Zaakceptuj zaproszenie do znajomych',
     'user.friend.request.cancel': 'Anuluj zaproszenie do znajomych',
     'user.friend.request.deny': 'Odrzuć zaproszenie',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.listing': 'Lista użytkowników',
+    'user.profile.visit': 'Odwiedź profil {user}.',
+    'user.profile.avatar': 'Awatar {username}',
+    'user.friend.list.requests': 'Zaproszenia do znajomych',
+    'user.friend.norequests': 'Nie masz żadnych zaproszeń do znajomych.',
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {Dzień dobry}
+    afternoon {Miłego popołudnia}
+    evening {Dobry wieczór}
+    night {Dobrej nocy}
+    other {Dzień dobry}
   } {displayName}!`
 };
