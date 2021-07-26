@@ -3,17 +3,17 @@ export default {
     'form.validator.mustBeNumber': 'Musi być liczbą',
     'form.validator.minNumber': 'Powinna być większa niż {min}',
     'form.validator.maxNumber': 'Powinna być niższa niż {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.maxLength': `Należy użyć mniej niż {max} {what, select,
+    characters {znaków}
+    tags {etykiet}
+    genres {gatunków}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
+    'form.validator.minLength': `Należy użyć co najmniej {min} {what, select,
+    characters {znaków}
+    tags {etykiet}
+    genres {gatunków}
+    genre {gatunek}
     other {}
   }`,
     'form.validator.email': 'Musi to być ważny adres e-mail',
@@ -25,7 +25,7 @@ export default {
     'form.submitting.sending': 'Trwa przesyłanie...',
     'form.validator.whitespace': 'Nie może mieć białego miejsca',
     'form.validator.zipCode': 'Musi to być ważny kod pocztowy (ZIP)',
-    'form.validator.isbn': 'Akceptujemy tylko 10 lub 13 wersję ISBN',
+    'form.validator.isbn': 'Akceptujemy tylko 10- lub 13-cyfrowy numer ISBN',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} jest wymagane',
