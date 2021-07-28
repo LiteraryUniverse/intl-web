@@ -69,7 +69,7 @@ export default {
     'search.user': 'Wyszukaj użytkownika',
     'common.help': 'Pomoc',
     'common.or': 'lub',
-    'common.account.create': 'Załóż konto',
+    'common.account.create': 'Utwórz konto',
     'signup.username': 'Nazwa użytkownika',
     'signup.email': 'Twój e-mail',
     'signup.password.label': 'Twoje hasło',
