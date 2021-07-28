@@ -7,7 +7,7 @@ export default {
     'email.enrollAccount.message': `Witaj {username}\n\n
     Chcielibyśmy zaprosić Cię do Literary Universe! Stworzyliśmy dla Ciebie specjalne osobiste konto, z którego możesz korzystać z wszystkich funkcji Literary Universe! Proszę, dołącz do nas w tworzeniu nowej generacji narzędzi do kreatywnego pisania i czytania!
     Aby aktywować swoje konto, po prostu kliknij na poniższy link:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
+    'email.resetPassword.subject': 'Wyzerowanie hasła Literary Universe',
     'email.resetPassword.message': `Witaj {username}!\n\nDostaliśmy prośbę o zresetowanie hasła do Twojego konta.
         Proszę kliknąć na poniższy link, aby zresetować swoje hasło: \n\n{url}`,
     'email.verifyEmail.subject': 'Weryfikacja poczty elektronicznej Literary Universe',
