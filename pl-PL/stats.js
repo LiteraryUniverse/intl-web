@@ -29,12 +29,12 @@ export default {
     'stats.chapter.chartTooltipViews': `Chapter {chapter, number}: {views, number} views`,
     'stats.chapter.chartTooltipVisitors': `Chapter {chapter, number}: {visitors, number} unique visitors`,
     'stats.chapter.chartTooltipWordCount': `Chapter {chapter, number}: {wordCount, number} words`,
-    'stats.totalHits': 'Total views',
-    'stats.totalVisitors': 'Total unique visitors',
-    'stats.totalWords': 'Total words',
-    'stats.totalEntries': 'Encyclopedia entries',
-    'stats.blogPage': 'Page',
-    'stats.blog.typeSelectionAria': 'Type selection',
-    'stats.blog.pages': 'Pages',
-    'stats.blog.posts': 'Posts'
+    'stats.totalHits': 'Wyświetleń łącznie',
+    'stats.totalVisitors': 'Wszystkich unikalnych użytkowników',
+    'stats.totalWords': 'Słów łącznie',
+    'stats.totalEntries': 'Wpisów encyklopedii',
+    'stats.blogPage': 'Strona',
+    'stats.blog.typeSelectionAria': 'Wybór typu',
+    'stats.blog.pages': 'Stron',
+    'stats.blog.posts': 'Wpisów'
 };
