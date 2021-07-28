@@ -26,12 +26,12 @@ export default {
     'blog.post.text': 'Tekst wpisu',
     'common.slug': 'Adres przyjazny pozycjonowaniu',
     'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.publicView': 'Widok publiczny',
+    'blog.post.notfound': 'Nie znaleziono wpisu na blogu',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Uniwersa}
+    stories {Pojedyncze opowieści}
+    fanfiction {Twórczość fanowska}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
