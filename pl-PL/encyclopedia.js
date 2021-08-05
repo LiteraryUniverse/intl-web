@@ -24,55 +24,57 @@ export default {
     'encyclopedia.category.species': 'Gatunki',
     'encyclopedia.category.technologies': 'Technologie',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    =0 {Brak pasujących wpisów}
+    one {1 pasujący wpis}
+    few {# pasujące wpisy}
+    many {# pasujących wpisów}
+    other {# pasujących wpisów}
+  }.`,
+    'encyclopedia.help.text': 'Użyj menu po lewej stronie, aby poruszać się pomiędzy elementami w encyklopedii. Po wybraniu elementu, zostanie on wyświetlony zamiast tego tekstu.',
+    'encyclopedia.help.sidebar': 'Boczny pasek narzędzi',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
     'encyclopedia.add.title': 'Add a new entry to encyclopedia',
     'encyclopedia.add.heading': 'What do you wish to add?',
     'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Dodaj {category, select,
+    character {postać}
+    event {wydarzenie}
+    group {grupę}
+    item {przedmiot}
+    location {lokalizację}
+    other {uwagę}
+    state {region}
+    governments {rząd}
+    languages {język}
+    creatures {stworzenie}
+    deity {bóstwo}
+    religions {religię}
+    flora {roślinę}
+    magic {magię}
+    planets {planetę}
+    species {gatunek}
+    technologies {technologię}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
+    'encyclopedia.create.header': `Dodaj {category, select,
+    character {postać}
+    event {wydarzenie}
+    group {grupę}
+    item {przedmiot}
+    location {lokalizację}
+    other {uwagę}
+    state {region}
+    governments {rząd}
+    languages {język}
+    creatures {stworzenie}
+    deity {bóstwo}
+    religions {religię}
+    flora {roślinę}
+    magic {magię}
+    planets {planetę}
+    species {gatunek}
+    technologies {technologię}
+  } do {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
     event {Event}
@@ -92,32 +94,32 @@ export default {
     species {Specie}
     technologies {Technology}
   }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
-    'encyclopedia.fields.image': 'Image',
-    'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
-    'encyclopedia.container': 'Container',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-    'encyclopedia.entry.name': 'Name of the entry',
-    'encyclopedia.summary': 'Summary',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
-    'encyclopedia.parent': 'Parent entry',
-    'encyclopedia.related': 'Related entries',
-    'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
-    'encyclopedia.field.private': 'Private field',
-    'encyclopedia.ft.indev': 'This option is in development.',
-    'encyclopedia.connections.remove': 'Remove connection',
-    'encyclopedia.connections.extra': 'Extra information',
-    'encyclopedia.connections.existing': 'Existing entry',
+    'encyclopedia.entry.category.legend': 'Kategoria',
+    'encyclopedia.fields.add': 'Dodaj nowe pole',
+    'encyclopedia.fields.text': 'Definicja',
+    'encyclopedia.fields.textarea': 'Tekst',
+    'encyclopedia.fields.connection': 'Połączenie',
+    'encyclopedia.fields.time': 'Czas',
+    'encyclopedia.fields.image': 'Obraz',
+    'encyclopedia.visibility': 'Widoczność',
+    'encyclopedia.public': 'Publiczne',
+    'encyclopedia.private': 'Prywatne',
+    'encyclopedia.container': 'Zbiór',
+    'encyclopedia.container.desc': 'Uczyń ten wpis zbiorem grupującym wielu wpisów. Zostanie on ukryty w liście kategorii.',
+    'encyclopedia.entry.name': 'Nazwa wpisu',
+    'encyclopedia.summary': 'Podsumowanie',
+    'encyclopedia.summary.desc': 'To podsumowanie będzie jedyną początkową informacją widoczną w czytniku.',
+    'encyclopedia.parent': 'Wpis nadrzędny',
+    'encyclopedia.related': 'Powiązane wpisy',
+    'encyclopedia.errors.tags': 'Jeden wpis może mieć do 10 etykiet.',
+    'encyclopedia.field.private': 'Pole prywatne',
+    'encyclopedia.ft.indev': 'Ta opcja jest jeszcze rozwijana.',
+    'encyclopedia.connections.remove': 'Usuń połączenie',
+    'encyclopedia.connections.extra': 'Dodatkowe informacje',
+    'encyclopedia.connections.existing': 'Istniejący wpis',
     'encyclopedia.connections.existing.abbr': 'EE',
     // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Cover image',
+    'encyclopedia.cover': 'Obraz okładki',
     'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
     'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
     'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
