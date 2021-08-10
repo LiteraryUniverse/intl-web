@@ -16,7 +16,7 @@ export default {
     'genre.mystery': 'Detektywistyczne',
     'genre.thriller': 'Thriller',
     'genre.western': 'Western',
-    'genre.memoir': 'Memoir',
+    'genre.memoir': 'Pamiętnik',
     'genre.biography': 'Biografia',
     'genre.steampunk': 'Steampunk',
     'genre.mythology': 'Mitologia',
