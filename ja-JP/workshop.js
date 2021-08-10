@@ -84,14 +84,14 @@ export default {
     'workshop.cover.alt': 'カバー画像',
     'workshop.translation.updatedOrig': 'オリジナルの最終更新日：{updatedAt, date,long}{updatedAt, time,medium}',
     'workshop.translation.updatedTrs': '翻訳の最終更新日：{updatedAt, date,long}{updatedAt, time,medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.translation.revisionOrig': 'オリジナルの最終改訂{revision, number}：{updatedAt, date, long}{updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': '翻訳の最終改訂{revision, number}：{updatedAt, date,long}{updatedAt, time,medium}',
+    'workshop.collaborators.premium': `{type, select,
+    collaborator {協力者を増やす}
+    beta {ベータリーダーを追加する}
+    translator {翻訳者を増やす}
     other {}
-  }, you need to increase your membership tier.`,
+  }には、会員ランクを上げる必要があります。`,
     'workshop.collaborators.requests.sent': 'リクエストの送信',
     'workshop.collaborators.requests.invite': `あなたは、以下の{role, select,
     beta {ベータ・リーダー}
@@ -117,29 +117,29 @@ export default {
     'workshop.beta.revisionInfo': 'これは、{createdAt, date, long}で作成されたリビジョン {revision, number}です。',
     'workshop.story.notes.title': '{storyTitle}の注意点',
     'workshop.story.notes.desc': '物語の概要メモ',
-    'workshop.story.notes.tile': 'Overview notes',
+    'workshop.story.notes.tile': '物語概要メモ',
     'workshop.hideOrgs': '組織からコンテンツを非表示にする',
     'workshop.translation.premium': '翻訳を追加するには、最低でも「エクスプローラー」のサブスクリプションが必要です。',
     'workshop.story.finished': '物語が完成しました',
     'workshop.story.publishing.externalSellingNotice': 'あなたは文学の宇宙の外で販売しているので、今すぐ物語を公開することができます。あなたのストアリストへのリンクは、その物語上か、ここで公開した現在の物語の最後に表示されます。',
     'workshop.sharing.publicURL': '公開版',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
+    'workshop.fictionalTime.title': '{universeName}の架空の時間',
     'workshop.fictionalTime.none': '現在、フィクションの時間が設定されていません。',
-    'workshop.fictionalTime.createNow': 'Create one now!',
+    'workshop.fictionalTime.createNow': '架空の時間を今すぐ作る！',
     'workshop.fictionalTime.createTitle': '新しい架空の時間を作る',
     'workshop.fictionalTime.editTitle': '編集{ftName}',
     'workshop.fictionalTime.formDescription': `ここでは、あなた自身の架空の時間を作ることができます。現在、このツールには制限があり、対称的な時間を作成することしかできません。つまり、マヤ暦やグレゴリオ暦を再現することはできません。現時点では、このツールは、すべての時間が常に同じであることを期待しています、例えば、月は常に30日であり、例外はありません。を想定しています。この点については、今後のバージョンで対応する予定ですが、それまでは、このツールは主に このツールは、主にSFベースの時間を作成するのに適しています。`,
     'workshop.fictionalTime.timeName': '時間名',
     'workshop.fictionalTime.basicInfo': '基本情報',
-    'workshop.fictionalTime.timeSetup': 'Time setup',
+    'workshop.fictionalTime.timeSetup': '時間設定',
     'workshop.fictionalTime.linkedToET': 'この時間は地球上の日付（グレゴリオ暦）から始まるのですか。',
-    'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
-    'workshop.fictionalTime.declarationBefore': 'Before units',
-    'workshop.fictionalTime.declarationAfter': 'After units',
-    'workshop.fictionalTime.declarationNone': 'None',
-    'workshop.fictionalTime.units': 'Units',
-    'workshop.fictionalTime.ETStart': 'Starting date of this time',
+    'workshop.fictionalTime.timeDeclaration': '時間宣言',
+    'workshop.fictionalTime.declarationLocation': '時間の名前をどこで宣言するか。',
+    'workshop.fictionalTime.declarationBefore': '時間単位の前',
+    'workshop.fictionalTime.declarationAfter': '時間単位の後',
+    'workshop.fictionalTime.declarationNone': 'なし',
+    'workshop.fictionalTime.units': '時間単位',
+    'workshop.fictionalTime.ETStart': '今回の開始日',
     'workshop.fictionalTime.unitsDescFirst': 'この単位は、ミリ秒から何番目の単位なのか？',
     'workshop.fictionalTime.unitsDesc': '今回は前作から何台目ですか？',
     'workshop.fictionalTime.unitsName': '単位名',
@@ -158,11 +158,9 @@ export default {
     'workshop.shoppingExternal.storesOther': '他の店',
     'fictionalTime.units.milliseconds': '{units}ミリ秒',
     'fictionalTime.countdownToStart': '始まりの時間までのカウントダウン',
-    'fictionalTime.unitsToETList': `{units} {unitName} = 
-    {days, plural,
+    'fictionalTime.unitsToETList': `{units} {unitName}＝{days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      other {{days}日}
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -174,29 +172,24 @@ export default {
       other {{seconds}}
     }
   `,
-    'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
+    'fictionalTime.ETToUnitsList': `{units, number}{unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      other {秒}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      other {分}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      other {時間}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      other {日}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      other {年}
     }}
     other {}
-  } = {targetResult, number} {targetType}`,
+  }＝{targetResult, number}{targetType}`,
     'fictionalTime.inputFrom': 'から',
     'fictionalTime.inputSelectTimeUnit': '時間単位の選択',
     'fictionalTime.inputSelectETUnit': '地球時間単位の選択',
