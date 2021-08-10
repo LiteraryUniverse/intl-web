@@ -17,7 +17,7 @@ export default {
     'challenges.endDate': '終了日',
     'challenges.future': '今後の課題',
     'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
-    'challenges.future.nanowrimo': 'NaNoWriMo challenge is ready.',
+    'challenges.future.nanowrimo': 'ナショナル・ノベル・ライティング・マンスのチャレンジは準備ができています。',
     'challenges.wordcount': 'Word count',
     'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
     story {story}
@@ -31,7 +31,7 @@ export default {
     'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
     'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
     // NaNoWriMo
-    'nanowrimo.full': 'National Novel Writing Month',
+    'nanowrimo.full': 'ナショナル・ノベル・ライティング・マンス',
     'nanowrimo.site': 'NaNoWriMo公式サイト',
     'nanowrimo.settings': 'NaNoWriMo account',
     'nanowrimo.username': 'NaNoWriMo username',
@@ -47,7 +47,7 @@ export default {
     'nanowrimo.select': 'Designate this story for NaNoWriMo.',
     'nanowrimo.baseline': 'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
     'nanowrimo.victory': 'Congratulation! You won NaNoWriMo!',
-    'nanowrimo.challenge': 'NaNoWriMo challenge',
+    'nanowrimo.challenge': 'ナショナル・ノベル・ライティング・マンスチャレンジ',
     'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
     'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
     'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
