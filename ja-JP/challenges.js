@@ -11,7 +11,7 @@ export default {
     'challenges.wordcount.finishOn': 'At current speed you will finish on',
     'challenges.wordcount.finishOnTime': 'Words to write daily to finish on time',
     'challenges.wordcount.graph.day': '{day}日目',
-    'challenges.underway': 'This challenge is already underway.',
+    'challenges.underway': 'この挑戦はすでに始まっています。',
     'challenges.targetWords': 'Total targeted word count',
     'challenges.startDate': '開始日',
     'challenges.endDate': '終了日',
@@ -28,7 +28,7 @@ export default {
     'challenges.start': 'チャレンジを開始',
     'challenges.report': '概要',
     'challenges.victory': 'おめでとう！ このチャレンジを完了しました。',
-    'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
+    'challenges.defeat': '残念ながら、この課題をクリアできませんでした。',
     'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
     // NaNoWriMo
     'nanowrimo.full': 'ナショナル・ノベル・ライティング・マンス',
@@ -44,14 +44,14 @@ export default {
       other {# days}
     }! Get ready!`,
     'nanowrimo.isover': 'NaNoWriMoは終わりました。また来年お会いしましょう！',
-    'nanowrimo.select': 'Designate this story for NaNoWriMo.',
+    'nanowrimo.select': 'この話をNaNoWriMoに指定する。',
     'nanowrimo.baseline': 'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
-    'nanowrimo.victory': 'Congratulation! You won NaNoWriMo!',
+    'nanowrimo.victory': 'おめでとうございます。あなたはNaNoWriMoに勝ちました!',
     'nanowrimo.challenge': 'ナショナル・ノベル・ライティング・マンスチャレンジ',
     'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
     'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
     'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
     'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
     'nanowrimo.connected': 'あなたはこの物語をNaNoWriMoに指定しました。',
-    'nanowrimo.connected.other': 'You have already connected another story.'
+    'nanowrimo.connected.other': 'すでに別の話をつなげていますね。'
 };
