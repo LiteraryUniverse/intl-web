@@ -1,4 +1,7 @@
 # Changelog for languages
+## 2021-09-16 - v1.5.1
+  * Updated translations from Crowdin
+
 ## 2021-07-25 - v1.5
   * Added keys for split monetization
   * Add CodeQL GitHub action
