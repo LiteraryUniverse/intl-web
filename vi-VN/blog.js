@@ -5,23 +5,23 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Tạo một blog mới',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.description': 'Giới thiệu về Blog',
+    'blog.theme': 'Giao diện',
+    'blog.theme.info': 'Điều chỉnh chủ đề, bạn sẽ có thể thay đổi giao diện của trang. Tính năng này hiện chưa có vào lúc này.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
+    'blog.post.create': 'Tạo bài viết mới',
+    'blog.post.update': 'Đang chỉnh sửa {title}',
     'blog.post.text': 'Post text',
     'common.slug': 'SEO friendly address',
     'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
@@ -43,7 +43,7 @@ export default {
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
+    'blogs.new': 'Blog mới nhất',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog'
