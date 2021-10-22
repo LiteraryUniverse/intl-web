@@ -26,7 +26,7 @@ export default {
     'email.resetPassword.button': 'Reset password',
     // E-mail verification
     'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.button': 'Verifique seu endereço de email',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Your account has been upgraded',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
