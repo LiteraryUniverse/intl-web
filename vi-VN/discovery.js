@@ -1,10 +1,10 @@
 export default {
     'discovery.meta.desc': 'Discover new stories and universes.',
     'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
+    'discovery.stories.new': 'Những truyện mới',
     'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
+    'discovery.stories.updated': 'Các truyện được cập nhật gần đây',
+    'discovery.continue': 'Tiếp tục Đọc',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
     'story.estimatedReadingTime': `This story should take {hours, plural,
