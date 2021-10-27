@@ -118,7 +118,7 @@ export default {
     'common.friends': 'Friends',
     'lang.orig': 'Original language',
     'lang.orig.plus': 'Original language - {language}',
-    buy: 'Buy',
+    buy: 'Koop',
     confirm: 'Bevestig',
     cancel: 'Kanselleer',
     processing: 'Processing...',
