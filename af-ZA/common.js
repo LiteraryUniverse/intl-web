@@ -152,7 +152,7 @@ export default {
     'editor.saved.public': 'New version published!',
     goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Let us know what we can do better',
-    'common.edit': 'Edit',
+    'common.edit': 'Pas aan',
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
     'a11y.user.menu': 'User menu',
