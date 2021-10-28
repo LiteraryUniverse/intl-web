@@ -10,7 +10,7 @@ export default {
     'chapter.next': 'Next chapter',
     'chapter.previous': 'Previous chapter',
     'chapter.comment': 'Comments on this chapter',
-    'reader.language': 'Language:',
+    'reader.language': 'Ngôn ngữ:',
     'reader.fullscreen.enter': 'Enter fullscreen',
     'reader.fullscreen.exit': 'Exit fullscreen',
     'reader.details.universe': 'Universe details',
