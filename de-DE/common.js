@@ -186,5 +186,6 @@ export default {
     'common.time.months': 'Monate',
     'common.time.years': 'Jahre',
     'common.monetization': 'Monetarisierung',
-    'common.tab.monetizationOptions': 'Monetarisierungsoptionen'
+    'common.tab.monetizationOptions': 'Monetarisierungsoptionen',
+    'common.pagination': 'Pagination'
 }    /* eslint-enable max-len */;
