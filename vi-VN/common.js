@@ -186,5 +186,6 @@ export default {
     'common.time.months': 'Tháng',
     'common.time.years': 'Năm',
     'common.monetization': 'Monetization',
-    'common.tab.monetizationOptions': 'Monetization options'
+    'common.tab.monetizationOptions': 'Monetization options',
+    'common.pagination': 'Pagination'
 }    /* eslint-enable max-len */;
