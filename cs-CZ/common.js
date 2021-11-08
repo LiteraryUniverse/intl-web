@@ -186,5 +186,6 @@ export default {
     'common.time.months': 'Měsíce',
     'common.time.years': 'Roky',
     'common.monetization': 'Monetizace',
-    'common.tab.monetizationOptions': 'Možnosti monetizace'
+    'common.tab.monetizationOptions': 'Možnosti monetizace',
+    'common.pagination': 'Pagination'
 }    /* eslint-enable max-len */;
