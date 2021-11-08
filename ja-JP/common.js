@@ -186,5 +186,6 @@ export default {
     'common.time.months': '月',
     'common.time.years': '年',
     'common.monetization': '収益化',
-    'common.tab.monetizationOptions': '収益化オプション'
+    'common.tab.monetizationOptions': '収益化オプション',
+    'common.pagination': 'Pagination'
 }    /* eslint-enable max-len */;
