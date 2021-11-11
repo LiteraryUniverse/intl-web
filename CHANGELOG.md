@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2021-11- - v1.5.2
+## 2021-11-11 - v1.5.2
 
 * Added new keywords for accessibility
 * Merged new translations from Crowdin
