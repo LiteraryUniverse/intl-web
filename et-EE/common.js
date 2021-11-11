@@ -186,5 +186,6 @@ export default {
     'common.time.months': 'Kuud',
     'common.time.years': 'Aastad',
     'common.monetization': 'Monetization',
-    'common.tab.monetizationOptions': 'Monetization options'
+    'common.tab.monetizationOptions': 'Monetization options',
+    'common.pagination': 'Pagination'
 }    /* eslint-enable max-len */;

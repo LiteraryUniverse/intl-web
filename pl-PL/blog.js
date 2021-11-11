@@ -25,7 +25,7 @@ export default {
     'blog.post.update': 'Edytowanie {title}',
     'blog.post.text': 'Tekst wpisu',
     'common.slug': 'Adres przyjazny pozycjonowaniu',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
+    'blog.slug.explained': 'Ładnie wyglądający odnośnik do wpisu. Unikaj używania znaków specjalnych z wyjątkiem "-".',
     'blog.publicView': 'Widok publiczny',
     'blog.post.notfound': 'Nie znaleziono wpisu na blogu',
     'blog.lists.works': `{type, select,

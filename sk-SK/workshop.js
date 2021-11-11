@@ -229,5 +229,7 @@ export default {
     'workshop.revShare.unallocated': 'Nepridelený podiel {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': 'Nerozhodnutý',
-    'workshop.revShare.origLangCreators': 'Tvorcovia pôvodného jazyka'
+    'workshop.revShare.origLangCreators': 'Tvorcovia pôvodného jazyka',
+    'workshop.story.prolog': 'Prolog',
+    'workshop.story.chapter': 'Kapitola {sequence, number}'
 };
