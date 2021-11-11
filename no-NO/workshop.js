@@ -226,5 +226,7 @@ export default {
     'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': 'Undecided',
-    'workshop.revShare.origLangCreators': 'Original language creators'
+    'workshop.revShare.origLangCreators': 'Original language creators',
+    'workshop.story.prolog': 'Prolog',
+    'workshop.story.chapter': 'Chapter {sequence, number}'
 };
