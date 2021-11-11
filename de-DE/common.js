@@ -187,5 +187,5 @@ export default {
     'common.time.years': 'Jahre',
     'common.monetization': 'Monetarisierung',
     'common.tab.monetizationOptions': 'Monetarisierungsoptionen',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Paginierung'
 }    /* eslint-enable max-len */;
