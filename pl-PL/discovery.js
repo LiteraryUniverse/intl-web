@@ -42,7 +42,7 @@ export default {
         one {1 story found}
         other {# stories found}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
+    'discover.viewSelection.aria': 'Zobacz zaznaczenie',
     'discover.searchDisplay.covers': 'Covers listing',
     'discover.searchDisplay.list': 'Compact list'
 };
