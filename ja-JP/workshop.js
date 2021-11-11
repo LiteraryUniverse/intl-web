@@ -215,6 +215,6 @@ export default {
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': '未定',
     'workshop.revShare.origLangCreators': 'オリジナル言語のクリエーター',
-    'workshop.story.prolog': 'Prolog',
-    'workshop.story.chapter': 'Chapter {sequence, number}'
+    'workshop.story.prolog': 'プログ',
+    'workshop.story.chapter': '章 {sequence, number}'
 };
