@@ -214,5 +214,7 @@ export default {
     'workshop.revShare.unallocated': '未配分のシェア　{total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': '未定',
-    'workshop.revShare.origLangCreators': 'オリジナル言語のクリエーター'
+    'workshop.revShare.origLangCreators': 'オリジナル言語のクリエーター',
+    'workshop.story.prolog': 'Prolog',
+    'workshop.story.chapter': 'Chapter {sequence, number}'
 };
