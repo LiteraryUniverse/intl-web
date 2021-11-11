@@ -4,6 +4,7 @@
 
 * Added new keywords for accessibility
 * Merged new translations from Crowdin
+* Add keys for `Prolog` and chapter sequence when creating a new chapter in story
 
 ## 2021-09-16 - v1.5.1
 
