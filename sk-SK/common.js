@@ -187,5 +187,5 @@ export default {
     'common.time.years': 'Roky',
     'common.monetization': 'Monetizácia',
     'common.tab.monetizationOptions': 'Možnosti monetizácie',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Stránkovanie'
 }    /* eslint-enable max-len */;
