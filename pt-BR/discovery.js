@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'Descubra novas histórias e universos.',
+    'discovery.universes.new': 'Universos emergentes',
+    'discovery.stories.new': 'Novas histórias',
+    'discovery.stories.standalone.new': 'Novas histórias autônomas',
+    'discovery.stories.updated': 'Histórias atualizadas recentemente',
+    'discovery.continue': 'Continue lendo',
+    'discovery.stories.similar.new': 'Novas histórias no bairro',
+    'discovery.stories.similar.regular': 'Histórias no bairro',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
@@ -16,22 +16,22 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.',
-    'discover.search.text': 'Search term',
+    'story.estimatedReadingTime.explained': 'Baseado em uma velocidade média de leitura de {avgReadingNum} palavras por minuto.',
+    'discover.search.text': 'Pesquisar termo',
     'discover.searchStory.title': 'Search for a story',
     'discover.searchStory.description': 'Search for a stories',
     'discover.searchUniverse.title': 'Search for a universe',
     'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
+    'discover.search.storyStatus': 'Status do progresso da história',
     'story.status.complete': 'Complete',
     'story.status.inProgress': 'In-progress',
     'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.universeRelation.standalone': 'História autônomas',
+    'story.universeRelation.fanFiction': 'Ficção do ventilador',
+    'story.universeRelation.universe': 'Parte de um universo',
+    'discover.search.rating': 'Classificação etária',
+    'discover.search.license': 'Licença de direitos autorais',
+    'discover.search.language': 'Idioma',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
@@ -42,7 +42,7 @@ export default {
         one {1 story found}
         other {# stories found}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list'
+    'discover.viewSelection.aria': 'Ver seleção',
+    'discover.searchDisplay.covers': 'Listagem de coberturas',
+    'discover.searchDisplay.list': 'Lista compacta'
 };
