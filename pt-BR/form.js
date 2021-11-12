@@ -2,30 +2,30 @@ export default {
     'form.validator.required': 'Requeridos',
     'form.validator.mustBeNumber': 'Deve ser um número',
     'form.validator.minNumber': 'Deve ser maior que {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.maxNumber': 'Deve ser menor que {max}',
+    'form.validator.maxLength': `Deve ser menor que {max} {what, select,
+    characters {caracteres}
+    tags {marcadores}
+    genres {gêneros}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
+    'form.validator.minLength': `Deve ter pelo menos {min} {what, select,
+    characters {carateres}
+    tags {marcadores}
+    genres {gêneros}
+    genre {gênero}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+    'form.validator.email': 'Deve ser um e-mail válido',
+    'form.validator.url': 'A URL precisa ser válida',
+    'form.validator.slug': 'Deve ser uma parte válida da URL',
+    'form.submitting.signup': 'Criando conta...',
+    'form.submitting.signin': 'Logando...',
+    'form.submitting.default': 'Submetendo...',
+    'form.submitting.sending': 'Enviando...',
+    'form.validator.whitespace': 'Não deve ter espaço em branco',
+    'form.validator.zipCode': 'Deve ser um código postal válido',
+    'form.validator.isbn': 'Somente aceitamos a versão 10 ou 13 do ISBN',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} é obrigatório',
