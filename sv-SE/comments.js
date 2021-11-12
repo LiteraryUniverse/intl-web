@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'Skriv din kommentar',
+    'comments.none': 'Tyvärr, inga kommentarer att visa.',
+    'comments.total': `Det {count, plural,
+    =0 {finns inga kommentarer}
+    one {är 1 kommentar}
+    other {är # kommentarer}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Visa äldre kommentarer'
 };
