@@ -1,6 +1,6 @@
 export default {
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
+    'form.validator.required': 'Obligatoriskt fält',
+    'form.validator.mustBeNumber': 'Måste vara ett nummer',
     'form.validator.minNumber': 'Should be greater than {min}',
     'form.validator.maxNumber': 'Should be lower than {max}',
     'form.validator.maxLength': `Should be less than {max} {what, select,
@@ -16,16 +16,16 @@ export default {
     genre {genre}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
+    'form.validator.email': 'Måste vara en giltig e-postadress',
+    'form.validator.url': 'Måste vara en giltig URL',
+    'form.validator.slug': 'Måste vara en giltig del av URL',
+    'form.submitting.signup': 'Skapa ett konto...',
+    'form.submitting.signin': 'Loggar in...',
+    'form.submitting.default': 'Skickar...',
+    'form.submitting.sending': 'Skickar...',
+    'form.validator.whitespace': 'Får inte ha något vitt utrymme',
+    'form.validator.zipCode': 'Måste vara ett giltigt postnummer',
+    'form.validator.isbn': 'Vi accepterar endast 10 eller 13 versioner av ISBN',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} krävs',
