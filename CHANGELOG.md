@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2021-11-12 - v1.5.3
+
+* Make number input be translated as input in lang files
+
 ## 2021-11-11 - v1.5.2
 
 * Added new keywords for accessibility
