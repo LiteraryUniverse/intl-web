@@ -161,13 +161,13 @@ export default {
     'workshop.shoppingExternal.storeName': 'Nombre de la tienda',
     'workshop.shoppingExternal.itemUrl': 'Elemento URL',
     'workshop.shoppingExternal.storesOther': 'Otras tiendas',
-    'fictionalTime.units.milliseconds': '{units} milisegundos',
+    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
     'fictionalTime.countdownToStart': 'Cuenta atrás para el inicio del tiempo',
-    'fictionalTime.unitsToETList': `{units} {unitName} = 
+    'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {un día}
-      other {{days} días }
+      one {1 day }
+      other {{days} days }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
