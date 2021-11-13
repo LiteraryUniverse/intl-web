@@ -1,9 +1,10 @@
 # Changelog for languages
 
-## 2021-11-12 - v1.5.3
+## 2021-11-13 - v1.5.3
 
 * Make number input be translated as input in lang files
 * New keys for GDPR page
+* Added `twitterHandle` key to common
 
 ## 2021-11-11 - v1.5.2
 
