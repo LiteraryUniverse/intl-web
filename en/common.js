@@ -4,8 +4,11 @@
 /* eslint-disable max-len */
 export default {
   siteName: 'Literary Universe',
-  'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
-  'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
+  twitterHandle: '@lituniapp',
+  'site.description':
+    'Literary Universe is a creative and publishing platform for grand story universes.',
+  'site.keywords':
+    'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
   'site.logoAlt': 'Literary Universe logo',
   mobileMenu: 'Mobile menu',
   'common.signin': 'Login',
@@ -24,7 +27,8 @@ export default {
   'common.blogs': 'Blogs',
   'common.about': 'About us',
   'common.accessdenied': 'Access denied',
-  'common.accessdenied.msg': 'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',
+  'common.accessdenied.msg':
+    'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',
   'common.loading': 'Loading...',
   'common.add': 'Add',
   'common.save': 'Save',
@@ -38,7 +42,8 @@ export default {
   'common.users': 'Users',
   'common.showmore': 'Show more',
   'common.futurefeature.title': 'Future feature',
-  'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
+  'common.futurefeature.text':
+    'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
   'common.nothingfound': 'Nothing found',
   'common.explore': 'Explore',
   'common.by': 'by ',
@@ -84,10 +89,13 @@ export default {
   'common.legal.community': 'Community Guidelines',
   'common.legal.privacy': 'Privacy Policy',
   'common.legal.copyright': 'Copyright Agreement',
-  'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
+  'common.legal.disclaimer':
+    '© {year} All rights reserved, all texts belong to their respective authors.',
   'premium.only.title': 'Not high enough membership rank',
-  'premium.only.msg': 'We apologize, your membership rank is not high enough to access this feature.',
-  'premium.only.join': 'We offer varieties of plans for everyone to get the most out of Literary Universe.',
+  'premium.only.msg':
+    'We apologize, your membership rank is not high enough to access this feature.',
+  'premium.only.join':
+    'We offer varieties of plans for everyone to get the most out of Literary Universe.',
   'premium.only.link': 'Check it out!',
 
   'universe.visit': 'Visit universe page',
@@ -97,15 +105,18 @@ export default {
   'story.genre': 'Genre',
   'story.genres': 'Genres',
   'story.read': 'Read',
-  'story.lastUpdate': 'Last updated on {date, date, medium} {date, time, short}.',
+  'story.lastUpdate':
+    'Last updated on {date, date, medium} {date, time, short}.',
   'story.finishedAt': 'Finished on {date, date, medium}.',
   'story.comments.for': 'Comments for {story} {chapter}.',
   'story.cover.alt': 'Story cover image for {story}.',
-  'story.note.fanfiction': 'NOTE: This story is a fan fiction on {universe} universe.',
+  'story.note.fanfiction':
+    'NOTE: This story is a fan fiction on {universe} universe.',
   copyrights: 'Copyrights',
   'common.challenges': 'Challenges',
   // for beta only
-  'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
+  'beta.notice':
+    'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
   'beta.thanks': 'Thank you for your support!',
   'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
   'common.feedback': 'Feedback',
@@ -131,7 +142,8 @@ export default {
   'common.legal.effectiveAt': 'Effective from {date, date, medium}',
   select: 'Please select',
   'common.statusFailed': 'Failed to connect to the server.',
-  'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
+  'common.statusConnecting':
+    'Attempting to connect to the server... ({count, number})',
   'slug.checking': 'Checking...',
   'slug.failed': 'This address already exists.',
   'slug.success': 'This address is available!',
@@ -140,7 +152,8 @@ export default {
   unknown: 'unknown',
   'common.legal.guidelines': 'Community Guidelines',
   'errorLoading.title': 'Error during page load',
-  'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+  'errorLoading.explained':
+    'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
   'errorLoading.retry': 'Retry!',
   'errorLoading.takingLong': 'This is taking a long time...',
   'common.title': 'Title',
@@ -151,7 +164,8 @@ export default {
   'editor.placeholder.connection': 'Search for encyclopedia entry...',
   'editor.saved.beta': 'New revision for Beta readers created!',
   'editor.saved.public': 'New version published!',
-  goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
+  goodbyeForever:
+    "We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we'll meet again! Live long and prosper!",
   'goodbyeForever.feedback': 'Let us know what we can do better',
   'common.edit': 'Edit',
   'common.publish': 'Publish',
@@ -167,7 +181,7 @@ export default {
   'story.notes.audience': 'Target audience',
   'story.notes.pitch': 'Pitch',
   'story.notes.notes': 'Notes',
-  'story.authorsNotes': 'Author\'s notes',
+  'story.authorsNotes': "Author's notes",
   'common.members': 'Members',
   'common.language': 'Language',
   next: 'Next',
