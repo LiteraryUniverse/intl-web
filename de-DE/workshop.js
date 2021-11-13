@@ -161,13 +161,13 @@ export default {
     'workshop.shoppingExternal.storeName': 'Name des Ladens',
     'workshop.shoppingExternal.itemUrl': 'Element-URL',
     'workshop.shoppingExternal.storesOther': 'Andere Geschäfte',
-    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
+    'fictionalTime.units.milliseconds': '{units, number} Millisekunden',
     'fictionalTime.countdownToStart': 'Countdown zum Zeitbeginn',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 Tag }
+      other {{days} Tage }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
