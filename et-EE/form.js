@@ -1,15 +1,15 @@
 export default {
     'form.validator.required': 'Required field',
     'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
+    'form.validator.minNumber': 'Should be greater than {min, number}',
+    'form.validator.maxNumber': 'Should be lower than {max, number}',
+    'form.validator.maxLength': `Should be less than {max, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
+    'form.validator.minLength': `Should be at least {min, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} on kohustuslik',
-    'simpleschema.minString': '{label} peab olema vähemalt {min} tähemärki',
-    'simpleschema.maxString': '{label} ei tohi ületada {max} tähemärki',
-    'simpleschema.minNumber': '{label} peab olema vähemalt {min}',
-    'simpleschema.maxNumber': '{label} ei tohi ületada {max}',
-    'simpleschema.minNumberExclusive': '{label} peab olema enam kui {min}',
-    'simpleschema.maxNumberExclusive': '{label} peab olema vähem kui {max}',
-    'simpleschema.minDate': '{label} varaseim lubatud kuupäev on {min}',
-    'simpleschema.maxDate': '{label} hiliseim lubatud kuupäev on {max}',
+    'simpleschema.minString': '{label} must be at least {min, number} characters',
+    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
+    'simpleschema.minNumber': '{label} must be at least {min, number}',
+    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
+    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
+    'simpleschema.minDate': '{label} must be on or after {min, number}',
+    'simpleschema.maxDate': '{label} cannot be after {max, number}',
     'simpleschema.badDate': '{label} ei ole korrektne kuupäev',
-    'simpleschema.minCount': 'Pead valima vähemalt {minCount} väärtust',
-    'simpleschema.maxCount': 'Ei saa valida enam kui {maxCount} väärtust',
+    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
+    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
     'simpleschema.noDecimal': '{label} peab olema arv',
     'simpleschema.notAllowed': '{value} ei ole lubatud väärtus',
     'simpleschema.expectedString': '{label} peab olema sõne',
