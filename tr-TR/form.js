@@ -1,15 +1,15 @@
 export default {
     'form.validator.required': 'Required field',
     'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
+    'form.validator.minNumber': 'Should be greater than {min, number}',
+    'form.validator.maxNumber': 'Should be lower than {max, number}',
+    'form.validator.maxLength': `Should be less than {max, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
+    'form.validator.minLength': `Should be at least {min, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} girmek zorunludur',
-    'simpleschema.minString': '{label} en az {min} karakter olmalı',
-    'simpleschema.maxString': '{label} {max} karakteri geçemez',
-    'simpleschema.minNumber': '{label} en az {min} olabilir',
-    'simpleschema.maxNumber': '{label} en fazla {max} olabilir',
-    'simpleschema.minNumberExclusive': '{label} {min} üzeri olmalı',
-    'simpleschema.maxNumberExclusive': '{label} {max} altı olmalı',
-    'simpleschema.minDate': '{label} {min} veya daha ileri olmalı',
-    'simpleschema.maxDate': '{label} {max} tarihinden sonra olamaz',
+    'simpleschema.minString': '{label} must be at least {min, number} characters',
+    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
+    'simpleschema.minNumber': '{label} must be at least {min, number}',
+    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
+    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
+    'simpleschema.minDate': '{label} must be on or after {min, number}',
+    'simpleschema.maxDate': '{label} cannot be after {max, number}',
     'simpleschema.badDate': '{label} geçerli bir tarih değil',
-    'simpleschema.minCount': 'En az {minCount} tane değer olmalı',
-    'simpleschema.maxCount': '{maxCount} üstü sayıda değer olamaz',
+    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
+    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
     'simpleschema.noDecimal': '{label} bir tamsayı olmalı',
     'simpleschema.notAllowed': '{value} izin verilen bir değer değil',
     'simpleschema.expectedString': '{label} bir metin olmalı',
