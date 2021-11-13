@@ -15,11 +15,11 @@ export default {
     'user.friend.request.accept': 'Accept friendship request',
     'user.friend.request.cancel': 'Cancel friendship request',
     'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
+    'user.listing': 'Listagem de usuários',
     'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    'user.profile.avatar': 'Avatar de {username}',
+    'user.friend.list.requests': 'Pedidos de amizades',
+    'user.friend.norequests': 'Você não tem nenhum pedido de amizade.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
