@@ -1,19 +1,19 @@
 export default {
     'form.validator.required': 'Povinné pole',
     'form.validator.mustBeNumber': 'Musí být číslo',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
+    'form.validator.minNumber': 'Mala by byť väčšia ako {min, number}',
+    'form.validator.maxNumber': 'Mala by byť nižšia ako {max, number}',
+    'form.validator.maxLength': `Mala by byť menšia ako {max, number} {what, select,
+    characters {znakov}
     tags {tags}
-    genres {genres}
+    genres {žánre}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
+    'form.validator.minLength': `Mala by byť aspoň {min, number} {what, select,
+    characters {znakov}
     tags {tags}
-    genres {genres}
-    genre {genre}
+    genres {žánre}
+    genre {žáner}
     other {}
   }`,
     'form.validator.email': 'Musí to byť platný e-mail',
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': 'Pole {label} je povinné',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
+    'simpleschema.minString': '{label} musí mať aspoň {min, number} znakov',
+    'simpleschema.maxString': '{label} nesmie mať viac ako {max, number} znakov',
+    'simpleschema.minNumber': '{label} musí byť aspoň {min, number}',
+    'simpleschema.maxNumber': '{label} nesmie mať viac ako {max, number}',
+    'simpleschema.minNumberExclusive': '{label} musí byť väčší ako {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} musí byť menší ako {max, number}',
+    'simpleschema.minDate': '{label} nesmie byť pred {min, date}',
+    'simpleschema.maxDate': '{label} nesmie byť za {max, date}',
     'simpleschema.badDate': '{label} nie je validný dátum',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+    'simpleschema.minCount': 'Musíš definovať aspoň {minCount, number} hodnôt',
+    'simpleschema.maxCount': 'Môžeš definovať maximálne {maxCount, number} hodnôt',
     'simpleschema.noDecimal': '{label} musí byť celé číslo',
     'simpleschema.notAllowed': '{value} nie je povolená hodnota',
     'simpleschema.expectedString': '{label} musí byť slovo alebo veta',
