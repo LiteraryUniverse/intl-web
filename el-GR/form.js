@@ -1,15 +1,15 @@
 export default {
     'form.validator.required': 'Υποχρεωτικό πεδίο',
     'form.validator.mustBeNumber': 'Πρέπει να είναι αριθμός',
-    'form.validator.minNumber': 'Πρέπει να είναι μεγαλύτερη από {min}',
-    'form.validator.maxNumber': 'Θα πρέπει να είναι μικρότερη από {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
+    'form.validator.minNumber': 'Should be greater than {min, number}',
+    'form.validator.maxNumber': 'Should be lower than {max, number}',
+    'form.validator.maxLength': `Should be less than {max, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
+    'form.validator.minLength': `Should be at least {min, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': 'Το πεδίο {label} είναι απαραίτητο',
-    'simpleschema.minString': 'To πεδίο {label} πρέπει να είναι τουλάχιστον {min} χαρακτήρες',
-    'simpleschema.maxString': 'To πεδίο {label} δεν μπορεί να υπερβαίνει τους {max} χαρακτήρες',
-    'simpleschema.minNumber': 'To πεδίο {label} πρέπει να είναι τουλάχιστον {min}',
-    'simpleschema.maxNumber': 'To πεδίο {label} δεν μπορεί να είναι μεγαλύτερο από {max}',
-    'simpleschema.minNumberExclusive': 'To πεδίο {label} πρέπει να είναι μεγαλύτερο από {min}',
-    'simpleschema.maxNumberExclusive': 'To πεδίο {label} πρέπει να είναι μικρότερο από {max}',
-    'simpleschema.minDate': 'Το πεδίο {label} πρέπει να είναι μία ημερομηνία μετά από {min}',
-    'simpleschema.maxDate': 'Το πεδίο {label} πρέπει να είναι μία ημερομηνία πρίν από {max}',
+    'simpleschema.minString': '{label} must be at least {min, number} characters',
+    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
+    'simpleschema.minNumber': '{label} must be at least {min, number}',
+    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
+    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
+    'simpleschema.minDate': '{label} must be on or after {min, number}',
+    'simpleschema.maxDate': '{label} cannot be after {max, number}',
     'simpleschema.badDate': 'Το πεδίο {label} δεν είναι έγκυρη ημερομηνία',
-    'simpleschema.minCount': 'Πρέπει να επιλέξετε τουλάχιστον {minCount} τιμές',
-    'simpleschema.maxCount': 'Δεν μπορείτε να επιλέξετε περισσότερες από {maxCount} τιμές',
+    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
+    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
     'simpleschema.noDecimal': 'Το πεδίο {label} πρέπει να είναι ακέραιος αριθμός',
     'simpleschema.notAllowed': 'To {value} δεν είναι αποδεκτή τιμή',
     'simpleschema.expectedString': 'Το πεδίο {label} πρέπει να είναι μια σειρά χαρακτήρων',
