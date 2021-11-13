@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-    siteName: 'Literary Universe',
+    siteName: 'Kirjanduslik Universum',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
@@ -39,7 +39,7 @@ export default {
     'common.users': 'Users',
     'common.showmore': 'Show more',
     'common.futurefeature.title': 'Future feature',
-    'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
+    'common.futurefeature.text': 'Meil on väga kahju, kuid see funktsioon ei ole praegu saadaval. Töötame kõvasti selle võimalikult kiireks kättesaadavaks tegemiseks.',
     'common.nothingfound': 'Midagi ei leitud',
     'common.explore': 'Explore',
     'common.by': 'by ',
@@ -105,8 +105,8 @@ export default {
     copyrights: 'Copyrights',
     'common.challenges': 'Challenges',
     // for beta only
-    'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
-    'beta.thanks': 'Thank you for your support!',
+    'beta.notice': 'Tere tulemast Kirjandusuniversumi BETA-sse. See on avalik eelvaade ja seetõttu on rakendus veel pooleli. See tähendab, et võite veel oodata vigu ja lõpetamata funktsioone. Kui teil tekib viga või midagi ei tööta, andke meile sellest teada ja olge kannatlik, kuni me kõik paika saame.',
+    'beta.thanks': 'Täname teid toetuse eest!',
     'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Created on {date, date, long}',
@@ -151,8 +151,8 @@ export default {
     'editor.placeholder.connection': 'Search for encyclopedia entry...',
     'editor.saved.beta': 'New revision for Beta readers created!',
     'editor.saved.public': 'New version published!',
-    goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
-    'goodbyeForever.feedback': 'Let us know what we can do better',
+    goodbyeForever: 'Meil on kahju, et sa lahkud. Kas see oli midagi, mida me tegime? Palun andke meile teada, kui see on nii. Nii või teisiti soovime teile parimat edasistes ettevõtmistes ja loodetavasti kohtume veel! Elagu kaua ja jõudu!',
+    'goodbyeForever.feedback': 'Andke meile teada, mida me saame paremini teha',
     'common.edit': 'Edit',
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
