@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Báo cáo',
     'challenges.victory': 'Chúc mừng! Bạn đã hoàn thành thử thách này.',
     'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
+    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'NaNoWriMo official site',
