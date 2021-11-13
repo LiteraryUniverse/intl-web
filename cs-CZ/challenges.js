@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Nahlásit',
     'challenges.victory': 'Blahopřejeme! Dokončili jste tuto výzvu.',
     'challenges.defeat': 'Bohužel jste tuto výzvu nedokončili.',
-    'challenges.baseline': 'Současný počet slov pro tento příběh je {wordcount}, bude to výchozí bod.',
+    'challenges.baseline': 'Současný počet slov pro tento příběh je {wordcount, number}, bude to výchozí bod.',
     // NaNoWriMo
     'nanowrimo.full': 'Měsíc národního psaní knih',
     'nanowrimo.site': 'Oficiální stránka NaNoWriMo',

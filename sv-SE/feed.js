@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Ström',
+    'feed.post.new': 'Nytt inlägg',
+    'feed.post.like': 'Gilla inlägg',
+    'feed.post.unlike': 'Till skillnad från inlägget',
+    'feed.post.send': 'Inlägg',
+    'feed.empty': 'Inga poster i matningen.'
 };

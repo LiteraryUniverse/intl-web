@@ -4,6 +4,7 @@
 /* eslint-disable max-len */
 export default {
     siteName: 'Literary Universe',
+    twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe to platforma twórcza i wydawnicza dla wielkich uniwersów opowieści.',
     'site.keywords': 'kreatywne pisanie, scifi, sci-fi, fantasy, pisanie, wydawanie, tłumaczenia, opowiadanie, opowiadania, wszechświat',
     'site.logoAlt': 'Logo Literary Universe',

@@ -4,6 +4,7 @@
 /* eslint-disable max-len */
 export default {
     siteName: '文学の宇宙',
+    twitterHandle: '@lituniapp',
     'site.description': '文学の宇宙は、壮大な物語の宇宙のための創造的で出版のプラットフォームです。',
     'site.keywords': '文芸, SF, ファンタジー, 書き込み, 出版, 翻訳, 物語, 宇宙, ストーリー',
     'site.logoAlt': '文学の宇宙のロゴ',
@@ -187,5 +188,5 @@ export default {
     'common.time.years': '年',
     'common.monetization': '収益化',
     'common.tab.monetizationOptions': '収益化オプション',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'ページング'
 }    /* eslint-enable max-len */;

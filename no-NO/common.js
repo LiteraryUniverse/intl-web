@@ -4,6 +4,7 @@
 /* eslint-disable max-len */
 export default {
     siteName: 'Literary Universe',
+    twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
     'site.logoAlt': 'Literary Universe logo',

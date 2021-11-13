@@ -29,7 +29,7 @@ export default {
     'challenges.report': '概要',
     'challenges.victory': 'おめでとう！ このチャレンジを完了しました。',
     'challenges.defeat': '残念ながら、この課題をクリアできませんでした。',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount}, this will be the starting point.',
+    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
     // NaNoWriMo
     'nanowrimo.full': 'ナショナル・ノベル・ライティング・マンス',
     'nanowrimo.site': 'NaNoWriMo公式サイト',

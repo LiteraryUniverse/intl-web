@@ -4,6 +4,7 @@
 /* eslint-disable max-len */
 export default {
     siteName: 'Literary Universe',
+    twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
     'site.logoAlt': 'Literary Universe logo',
@@ -28,7 +29,7 @@ export default {
     'common.loading': 'Loading...',
     'common.add': 'Aldoni',
     'common.save': 'Konservu',
-    'common.email': 'E-mail',
+    'common.email': 'Retpoŝto',
     'common.soon': 'Coming soon...',
     'common.search': 'Search',
     'common.search.do': 'Search',
@@ -62,7 +63,7 @@ export default {
     'common.lang.select': 'Select language',
     'common.submit': 'Sendi',
     'common.close': 'Fermi',
-    'common.comment': 'Comment',
+    'common.comment': 'Komentoj',
     'common.comments': 'Komentoj',
     404: 'Paĝo ne trovita',
     'search.users': 'Search for users',

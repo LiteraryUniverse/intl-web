@@ -1,15 +1,15 @@
 export default {
     'form.validator.required': 'Required field',
     'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
+    'form.validator.minNumber': 'Should be greater than {min, number}',
+    'form.validator.maxNumber': 'Should be lower than {max, number}',
+    'form.validator.maxLength': `Should be less than {max, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
+    'form.validator.minLength': `Should be at least {min, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} és obligatori',
-    'simpleschema.minString': '{label} ha de tenir almenys {min} caràcters',
-    'simpleschema.maxString': '{label} no pot tenir més de {max} caràcters',
-    'simpleschema.minNumber': '{label} ha de ser almenys {min}',
-    'simpleschema.maxNumber': '{label} no pot excedir {max}',
-    'simpleschema.minNumberExclusive': '{label} ha de ser més gran que {min}',
-    'simpleschema.maxNumberExclusive': '{label} ha de ser més petit que {max}',
-    'simpleschema.minDate': '{label} ha de ser anterior a {min}',
-    'simpleschema.maxDate': '{label} no pot ser posterior a {max}',
+    'simpleschema.minString': '{label} must be at least {min, number} characters',
+    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
+    'simpleschema.minNumber': '{label} must be at least {min, number}',
+    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
+    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
+    'simpleschema.minDate': '{label} must be on or after {min, date}',
+    'simpleschema.maxDate': '{label} cannot be after {max, date}',
     'simpleschema.badDate': '{label} no és una data vàlida',
-    'simpleschema.minCount': 'Ha d\'especificar almenys {minCount} valors',
-    'simpleschema.maxCount': 'No pot especificar més de {maxCount} valors',
+    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
+    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
     'simpleschema.noDecimal': '{label} ha de ser un nombre sencer',
     'simpleschema.notAllowed': '{value} no és un valor permès',
     'simpleschema.expectedString': '{label} ha de ser una cadena de caràcters',

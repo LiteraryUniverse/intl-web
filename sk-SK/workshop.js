@@ -158,9 +158,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Názov obchodu',
     'workshop.shoppingExternal.itemUrl': 'URL adresa položky',
     'workshop.shoppingExternal.storesOther': 'Ostatné obchody',
-    'fictionalTime.units.milliseconds': '{units} milisekúnd',
+    'fictionalTime.units.milliseconds': '{units, number} milisekúnd',
     'fictionalTime.countdownToStart': 'Odpočítavanie do začiatku času',
-    'fictionalTime.unitsToETList': `{units} {unitName} = 
+    'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
       one {1 deňy }

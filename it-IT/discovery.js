@@ -1,35 +1,35 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Scopri nuove storie e universi.',
+    'discovery.universes.new': 'Universi emergenti',
+    'discovery.stories.new': 'Nuove storie',
+    'discovery.stories.standalone.new': 'Nuove storie autonome',
+    'discovery.stories.updated': 'Storie aggiornate da poco',
+    'discovery.continue': 'Continua a leggere',
+    'discovery.stories.similar.new': 'Nuove storie nel quartiere',
+    'discovery.stories.similar.regular': 'Storie nel quartiere',
+    'story.estimatedReadingTime': `Questa storia si legge in {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one { 1 ora e }
+        other {# ore e }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
+        =0 {0 minuti}
+        one {1 minuto}
+        other {# minuti}
+    }.`,
+    'story.estimatedReadingTime.explained': 'Secondo una velocità di lettura media di {avgReadingNum} parole al minuto.',
+    'discover.search.text': 'Cerca un termine',
+    'discover.searchStory.title': 'Cerca una storia',
+    'discover.searchStory.description': 'Cerca delle storie',
+    'discover.searchUniverse.title': 'Cerca un universo',
+    'discover.searchUniverse.description': 'Cerca degli universi',
+    'discover.search.storyStatus': 'Stato progressi storia',
+    'story.status.complete': 'Completato',
+    'story.status.inProgress': 'In corso',
+    'discover.search.universeConnection': 'Collegamento storia a universo',
+    'story.universeRelation.standalone': 'Storia autonoma',
     'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
+    'story.universeRelation.universe': 'Parte di un universo',
+    'discover.search.rating': 'Classificazione età',
     'discover.search.license': 'Copyright license',
     'discover.search.language': 'Language',
     'discover.search.resultsTotal.universe': `{results, plural,

@@ -156,9 +156,9 @@ export default {
     'workshop.shoppingExternal.storeName': '店名',
     'workshop.shoppingExternal.itemUrl': 'アイテムのURL',
     'workshop.shoppingExternal.storesOther': '他の店',
-    'fictionalTime.units.milliseconds': '{units}ミリ秒',
+    'fictionalTime.units.milliseconds': '{units, number}ミリ秒',
     'fictionalTime.countdownToStart': '始まりの時間までのカウントダウン',
-    'fictionalTime.unitsToETList': `{units} {unitName}＝{days, plural,
+    'fictionalTime.unitsToETList': `{units, number} {unitName}＝{days, plural,
       =0 {}
       other {{days}日}
     }{hours, plural,

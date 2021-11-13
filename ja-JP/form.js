@@ -1,15 +1,15 @@
 export default {
     'form.validator.required': '必須項目',
     'form.validator.mustBeNumber': '数値を指定してください',
-    'form.validator.minNumber': '{min} より大きい必要があります',
-    'form.validator.maxNumber': '{max} より小さい必要があります',
-    'form.validator.maxLength': `{max} {what, select,
+    'form.validator.minNumber': '{min, number}以上であること',
+    'form.validator.maxNumber': '{max, number}以下であること',
+    'form.validator.maxLength': `{max, number}{what, select,
     characters {文字}
     tags {タグ}
     genres {ジャンルは}
     other {}
   }`,
-    'form.validator.minLength': `少なくとも {min} {what, select,
+    'form.validator.minLength': `少なくとも{min,number}{what, select,
     characters {文字}
     tags {タグ}
     genres {ジャンルは}
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '「{label}」が必要です',
-    'simpleschema.minString': '{label}は少なくとも {min} 文字必要です',
-    'simpleschema.maxString': '{label} は {max} 文字を超えることはできません',
-    'simpleschema.minNumber': '{label} は少なくとも {min} でなければなりません',
-    'simpleschema.maxNumber': '{label} は {max} を超えることはできません',
-    'simpleschema.minNumberExclusive': '{label} は {min} より大きくなければなりません',
-    'simpleschema.maxNumberExclusive': '{label} は {max} より小さくなければなりません',
-    'simpleschema.minDate': '{label} は{min}以降で入力してください',
-    'simpleschema.maxDate': '{label} は{max}以前で入力してください',
+    'simpleschema.minString': '{label}は少なくとも{min, number}文字必要です',
+    'simpleschema.maxString': '{label}は{max, number}文字を超えることはできません',
+    'simpleschema.minNumber': '{label}は少なくとも{min, number}でなければなりません',
+    'simpleschema.maxNumber': '{label}は{max, number}を超えることはできません',
+    'simpleschema.minNumberExclusive': '{label}は{min, number}よりも大きくなければなりません。',
+    'simpleschema.maxNumberExclusive': '{label}は{max, number}よりも小さくなければなりません。',
+    'simpleschema.minDate': '{label}は{min, date}以降で入力してください',
+    'simpleschema.maxDate': '{label}は{max, date}以前で入力してください',
     'simpleschema.badDate': '{label} は日付で入力してください',
-    'simpleschema.minCount': '{label} は{minCount}項目以上で指定してください',
-    'simpleschema.maxCount': '{label} は{maxCount}項目以内で指定してください',
+    'simpleschema.minCount': '{label} は{minCount, number}項目以上で指定してください',
+    'simpleschema.maxCount': '{label}は{maxCount, number}項目以内で指定してください',
     'simpleschema.noDecimal': '{label} は整数で入力してください',
     'simpleschema.notAllowed': '{value} は有効ではない',
     'simpleschema.expectedString': '{label} は文字列で入力してください',

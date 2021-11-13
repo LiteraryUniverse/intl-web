@@ -4,6 +4,7 @@
 /* eslint-disable max-len */
 export default {
     siteName: 'Literary Universe',
+    twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe je tvůrčí a vydavatelská platforma pro velké příběhové vesmíry.',
     'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasie, psaní, publikace, překlady, příběh, příběhy, vesmír',
     'site.logoAlt': 'Logo Literary Universe',

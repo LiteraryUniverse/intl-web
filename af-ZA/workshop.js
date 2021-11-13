@@ -161,9 +161,9 @@ export default {
     'workshop.shoppingExternal.storeName': 'Winkel Naam',
     'workshop.shoppingExternal.itemUrl': 'Item URL',
     'workshop.shoppingExternal.storesOther': 'Other stores',
-    'fictionalTime.units.milliseconds': '{units} milliseconds',
+    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
     'fictionalTime.countdownToStart': 'Countdown to time beginning',
-    'fictionalTime.unitsToETList': `{units} {unitName} = 
+    'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
       one {1 day }

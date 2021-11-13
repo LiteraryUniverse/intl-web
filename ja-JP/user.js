@@ -1,6 +1,6 @@
 export default {
     'user.friend.request.add': '友達に追加',
-    'user.friend.requests': `あなたには{num}件の新しい友達リクエストがあります。`,
+    'user.friend.requests': `あなたには{num, number}件の新しい友達リクエストがあります。`,
     'user.friend.unfriend': 'フレンドリストから削除',
     'user.block': 'ブロック',
     'user.unblock': 'ブロック解除',
