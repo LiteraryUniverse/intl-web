@@ -1,15 +1,15 @@
 export default {
     'form.validator.required': 'Required field',
     'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
+    'form.validator.minNumber': 'Should be greater than {min, number}',
+    'form.validator.maxNumber': 'Should be lower than {max, number}',
+    'form.validator.maxLength': `Should be less than {max, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
+    'form.validator.minLength': `Should be at least {min, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} è richiesto',
-    'simpleschema.minString': '{label} deve essere almeno {min} caratteri',
-    'simpleschema.maxString': '{label} non può essere più di {max} caratteri',
-    'simpleschema.minNumber': '{label} deve essere almeno {min}',
-    'simpleschema.maxNumber': '{label} non può essere più di {max}',
-    'simpleschema.minNumberExclusive': '{label} deve essere maggiore di {min}',
-    'simpleschema.maxNumberExclusive': '{label} deve essere minore di {max}',
-    'simpleschema.minDate': '{label} deve coincidere o essere successivo a {min}',
-    'simpleschema.maxDate': '{label} non può essere successivo a {max}',
+    'simpleschema.minString': '{label} must be at least {min, number} characters',
+    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
+    'simpleschema.minNumber': '{label} must be at least {min, number}',
+    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
+    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
+    'simpleschema.minDate': '{label} must be on or after {min, number}',
+    'simpleschema.maxDate': '{label} cannot be after {max, number}',
     'simpleschema.badDate': '{label} non è una data valida',
-    'simpleschema.minCount': 'Devi specificare almeno {minCount} valori',
-    'simpleschema.maxCount': 'Non puoi specificare più di {maxCount} valori',
+    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
+    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
     'simpleschema.noDecimal': '{label} deve essere un intero',
     'simpleschema.notAllowed': '{value} non è un valore consentito',
     'simpleschema.expectedString': '{label} deve essere una stringa',
