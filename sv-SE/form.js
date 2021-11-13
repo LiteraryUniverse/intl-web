@@ -1,15 +1,15 @@
 export default {
     'form.validator.required': 'Obligatoriskt fält',
     'form.validator.mustBeNumber': 'Måste vara ett nummer',
-    'form.validator.minNumber': 'Should be greater than {min}',
-    'form.validator.maxNumber': 'Should be lower than {max}',
-    'form.validator.maxLength': `Should be less than {max} {what, select,
+    'form.validator.minNumber': 'Should be greater than {min, number}',
+    'form.validator.maxNumber': 'Should be lower than {max, number}',
+    'form.validator.maxLength': `Should be less than {max, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min} {what, select,
+    'form.validator.minLength': `Should be at least {min, number} {what, select,
     characters {characters}
     tags {tags}
     genres {genres}
@@ -29,17 +29,17 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} krävs',
-    'simpleschema.minString': '{label} måste vara minst {min} bokstäver',
-    'simpleschema.maxString': '{label} får inte överskrida {max} bokstäver',
-    'simpleschema.minNumber': '{label} måste vara minst {min}',
-    'simpleschema.maxNumber': '{label} får inte överskrida {max}',
-    'simpleschema.minNumberExclusive': '{label} måste vara större än {min}',
-    'simpleschema.maxNumberExclusive': '{label} måste vara mindre än {max}',
-    'simpleschema.minDate': '{label} måste vara den {min} eller senare',
-    'simpleschema.maxDate': '{label} får inte vara senare än {max}',
+    'simpleschema.minString': '{label} must be at least {min, number} characters',
+    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
+    'simpleschema.minNumber': '{label} must be at least {min, number}',
+    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
+    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
+    'simpleschema.minDate': '{label} must be on or after {min, number}',
+    'simpleschema.maxDate': '{label} cannot be after {max, number}',
     'simpleschema.badDate': '{label} är inte ett godkänt datum',
-    'simpleschema.minCount': 'Du måste åtminstone ange {minCount} värden',
-    'simpleschema.maxCount': 'Du får inte ange fler än {maxCount} värden',
+    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
+    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
     'simpleschema.noDecimal': '{label} måste vara ett nummer',
     'simpleschema.notAllowed': '{value} är inte ett godkänt nummer',
     'simpleschema.expectedString': '{label} måste vara en sträng',
