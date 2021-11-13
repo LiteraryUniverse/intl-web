@@ -1,12 +1,12 @@
 export default {
     'form.validator.required': '必須項目',
     'form.validator.mustBeNumber': '数値を指定してください',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
+    'form.validator.minNumber': '{min, number}より大きい必要があります',
     'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.maxLength': `{max, number}{what, select,
+    characters {文字}
+    tags {タグ}
+    genres {ジャンルは}
     other {}
   }`,
     'form.validator.minLength': `Should be at least {min, number} {what, select,
@@ -35,8 +35,8 @@ export default {
     'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
     'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
     'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, number}',
-    'simpleschema.maxDate': '{label} cannot be after {max, number}',
+    'simpleschema.minDate': '{label} must be on or after {min, date}',
+    'simpleschema.maxDate': '{label} cannot be after {max, date}',
     'simpleschema.badDate': '{label} は日付で入力してください',
     'simpleschema.minCount': 'You must specify at least {minCount, number} values',
     'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
