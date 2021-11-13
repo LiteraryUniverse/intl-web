@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Bericht',
     'challenges.victory': 'Herzlichen Glückwunsch! Sie haben diese Herausforderung abgeschlossen.',
     'challenges.defeat': 'Leider haben Sie diese Herausforderung nicht abgeschlossen.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Die aktuelle Wortanzahl für diese Geschichte ist {wordcount, number}, dies wird der Ausgangspunkt sein.',
     // NaNoWriMo
     'nanowrimo.full': 'Nationaler Monat des Romanschreibens',
     'nanowrimo.site': 'NaNoWriMo offizielle Seite',
