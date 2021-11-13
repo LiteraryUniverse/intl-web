@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Prehľad',
     'challenges.victory': 'Gratulujeme! Túto výzvu ste splnili.',
     'challenges.defeat': 'Bohužiaľ ste túto výzvu nedokončili.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Aktuálny počet slov pre tento príbeh je {wordcount, number}, to bude východiskový bod.',
     // NaNoWriMo
     'nanowrimo.full': 'Národný mesiac písania noviel',
     'nanowrimo.site': 'Oficiálna stránka NaNoWriMo',
