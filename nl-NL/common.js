@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-    siteName: 'Literary Universe',
+    siteName: 'Literair Universum',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
@@ -105,8 +105,8 @@ export default {
     copyrights: 'Copyrights',
     'common.challenges': 'Challenges',
     // for beta only
-    'beta.notice': 'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
-    'beta.thanks': 'Thank you for your support!',
+    'beta.notice': 'Welkom bij Literair Universum BETA. Dit is een publieke preview en als zodanig is de app nog steeds werk in uitvoering. Dit betekent dat u nog steeds fouten en onafgewerkte functies kunt verwachten. Als u een fout tegenkomt of iets werkt niet, laat het ons weten en wees geduldig terwijl we alles op zijn plaats krijgen.',
+    'beta.thanks': 'Dank u voor uw steun!',
     'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Created on {date, date, long}',
