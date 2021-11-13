@@ -156,13 +156,11 @@ export default {
     'workshop.shoppingExternal.storeName': '店名',
     'workshop.shoppingExternal.itemUrl': 'アイテムのURL',
     'workshop.shoppingExternal.storesOther': '他の店',
-    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
+    'fictionalTime.units.milliseconds': '{units, number}ミリ秒',
     'fictionalTime.countdownToStart': '始まりの時間までのカウントダウン',
-    'fictionalTime.unitsToETList': `{units, number} {unitName} = 
-    {days, plural,
+    'fictionalTime.unitsToETList': `{units, number} {unitName}＝{days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      other {{days}日}
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
