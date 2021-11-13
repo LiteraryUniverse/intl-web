@@ -161,13 +161,14 @@ export default {
     'workshop.shoppingExternal.storeName': 'Jméno obchodu',
     'workshop.shoppingExternal.itemUrl': 'URL položky',
     'workshop.shoppingExternal.storesOther': 'Ostatní obchody',
-    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
+    'fictionalTime.units.milliseconds': '{units, number} milisekund',
     'fictionalTime.countdownToStart': 'Odpočítávání do začátku času',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 den }
+      few {{days} dny}
+      other {{days} dnů }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -177,8 +178,7 @@ export default {
     }{seconds, plural,
       =0 {00}
       other {{seconds}}
-    }
-  `,
+    }  `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
       one {sekunda}
