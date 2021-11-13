@@ -36,8 +36,8 @@ export default {
   'simpleschema.minNumberExclusive':
     '{label} must be greater than {min, number}',
   'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-  'simpleschema.minDate': '{label} must be on or after {min, number}',
-  'simpleschema.maxDate': '{label} cannot be after {max, number}',
+  'simpleschema.minDate': '{label} must be on or after {min, date}',
+  'simpleschema.maxDate': '{label} cannot be after {max, date}',
   'simpleschema.badDate': '{label} is not a valid date',
   'simpleschema.minCount':
     'You must specify at least {minCount, number} values',
