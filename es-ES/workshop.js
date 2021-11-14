@@ -228,5 +228,6 @@ export default {
     'workshop.revShare.undecided': 'Indeciso',
     'workshop.revShare.origLangCreators': 'Creadores de idiomas originales',
     'workshop.story.prolog': 'Prologar',
-    'workshop.story.chapter': 'Capítulo {sequence, number}'
+    'workshop.story.chapter': 'Capítulo {sequence, number}',
+    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?'
 };
