@@ -229,5 +229,5 @@ export default {
     'workshop.revShare.origLangCreators': 'Ersteller der Originalsprache',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Kapitel {sequence, number}',
-    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?'
+    'workshop.work.includesAds': 'Gibt es Werbung oder Produktplatzierungen in dem Werk?'
 };
