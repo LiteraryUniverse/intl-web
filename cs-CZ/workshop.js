@@ -234,5 +234,5 @@ export default {
     'workshop.revShare.origLangCreators': 'Tvůrci v originální řeči',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Kapitola {sequence, number}',
-    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?'
+    'workshop.work.includesAds': 'Jsou v tvorbě nějaké reklamy nebo umístění produktu?'
 };
