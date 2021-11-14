@@ -228,5 +228,6 @@ export default {
     'workshop.revShare.undecided': 'Nicht entschieden',
     'workshop.revShare.origLangCreators': 'Ersteller der Originalsprache',
     'workshop.story.prolog': 'Prolog',
-    'workshop.story.chapter': 'Kapitel {sequence, number}'
+    'workshop.story.chapter': 'Kapitel {sequence, number}',
+    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?'
 };
