@@ -44,5 +44,6 @@ export default {
     }.`,
     'discover.viewSelection.aria': 'Ver seleção',
     'discover.searchDisplay.covers': 'Listagem de coberturas',
-    'discover.searchDisplay.list': 'Lista compacta'
+    'discover.searchDisplay.list': 'Lista compacta',
+    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
 };
