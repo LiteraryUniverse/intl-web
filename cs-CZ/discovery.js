@@ -52,5 +52,6 @@ export default {
     }.`,
     'discover.viewSelection.aria': 'Zobrazení výběru',
     'discover.searchDisplay.covers': 'Zobrazení dle obálky',
-    'discover.searchDisplay.list': 'Kompaktní zobrazení'
+    'discover.searchDisplay.list': 'Kompaktní zobrazení',
+    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
 };
