@@ -5,12 +5,12 @@ export default {
     'feedback.features': 'Pomysły i sugestie',
     'feedback.features.desc': 'Masz pomysły na nowej funkcje lub usprawnienie witryny? Daj nam znać!',
     'feedback.help': 'Pomoc i samouczki',
-    'feedback.help.desc': 'How do you _____? Go here to find the answers.',
+    'feedback.help.desc': 'Jak _____? Idź tutaj, aby znaleźć odpowiedzi.',
     'feedback.desc': 'Witaj w naszym centrum rozwiązywania problemów!',
     'feedback.open': 'Otwarte',
     'feedback.closed': 'Zamknięte',
     'feedback.accepted': 'Zaakceptowane',
-    'feedback.inprogress': 'In progress',
+    'feedback.inprogress': 'W trakcie realizacji',
     'feedback.completed': 'Ukończone',
     'feedback.fixed': 'Naprawione',
     'feedback.new.bugs': 'Zgłoś nowy błąd',
@@ -41,13 +41,13 @@ export default {
     'feedback.report.reportSaved': 'Dziękujemy za Twoje zgłoszenie! Zbadamy sprawę i podejmiemy czynności, jeśli będzie to konieczne.',
     'feedback.report.copyrightReportSaved': 'Dziękujemy za Twoje zgłoszenie! Zbadamy sprawę i skontaktujemy się z Tobą.',
     'feedback.report.copyrightOwnershipDesc': 'Deklaracja własności',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
+    'feedback.report.copyrightNotice': 'Pamiętaj, że musisz być prawowitym właścicielem pracy, aby skorzystać z tego formularza. Jeśli nie jesteś właścicielem, poinformuj go o tym lub skorzystaj z innej kategorii, aby nas poinformować. Naruszenie praw autorskich traktujemy bardzo poważnie i to samo dotyczy niewłaściwego i obraźliwego użycia tego formularza.',
+    'feedback.report.copyrightInternalProperty': 'Opublikowałem tę pracę na Literary Universe',
     'feedback.reportType.spam': 'Spam lub wyłudzanie danych',
     'feedback.reportType.other': 'Inne',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `Który {type, select,
+    universe {wszechświat}
+    story {historia}
+    other {historia}
+  } jest naruszona?`
 };

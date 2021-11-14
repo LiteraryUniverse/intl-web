@@ -106,7 +106,7 @@ export default {
   }.`,
     'workshop.collaborators.language.added': 'Język dodano',
     'workshop.story.noChaptersFound': 'No chapters found.',
-    'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
+    'workshop.fanfic.needUniverseInLibrary': 'Istnieje wiele wszechświatów. Proszę dodaj najpierw do swojej biblioteki te, w których chcesz pisać, abyśmy mogli je znaleźć.',
     'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
     'workshop.encSettings': 'Encyclopedia settings',
     'workshop.collaborators.removeUser': 'Remove user',
@@ -129,11 +129,7 @@ export default {
     'workshop.fictionalTime.createNow': 'Create one now!',
     'workshop.fictionalTime.createTitle': 'Create a new fictional time',
     'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Tutaj możesz stworzyć swój własny fikcyjny czas. Obecnie to narzędzie jest ograniczone i jest w stanie tworzyć tylko symetrycznych czasów. Oznacza to, że nie będziesz w stanie odtworzyć kalendarza Majów lub gregoriańskiego. W tej chwili to narzędzie oczekuje, że wszystkie czasy są zawsze takie same, np. miesiące mają zawsze 30 dni bez wyjątków i tak dalej. i tak dalej. Zajmiemy się tym w późniejszych wersjach, ale do tego czasu to narzędzie jest bardziej odpowiednie do tworzenia głównie czasów opartych na sci-fi.`,
     'workshop.fictionalTime.timeName': 'Time name',
     'workshop.fictionalTime.basicInfo': 'Basic information',
     'workshop.fictionalTime.timeSetup': 'Time setup',
@@ -228,5 +224,6 @@ export default {
     'workshop.revShare.undecided': 'Undecided',
     'workshop.revShare.origLangCreators': 'Original language creators',
     'workshop.story.prolog': 'Prolog',
-    'workshop.story.chapter': 'Rozdział {sequence, number}'
+    'workshop.story.chapter': 'Rozdział {sequence, number}',
+    'workshop.work.includesAds': 'Czy w pracy są jakieś reklamy lub lokowanie produktu?'
 };

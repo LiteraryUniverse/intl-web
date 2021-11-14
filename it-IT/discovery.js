@@ -30,19 +30,20 @@ export default {
     'story.universeRelation.fanFiction': 'Fan Fiction',
     'story.universeRelation.universe': 'Parte di un universo',
     'discover.search.rating': 'Classificazione età',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.license': 'Licenza di copyright',
+    'discover.search.language': 'Lingua',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Nessun universo corrisponde ai parametri}
+        one {1 universo trovato}
+        other {# universi trovati}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Nessuna storia corrisponde ai parametri}
+        one {1 storia trovata}
+        other {# storie trovate}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list'
+    'discover.viewSelection.aria': 'Mostra selezione',
+    'discover.searchDisplay.covers': 'Riguarda l\'elenco',
+    'discover.searchDisplay.list': 'Elenco compatto',
+    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
 };

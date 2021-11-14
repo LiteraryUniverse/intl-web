@@ -50,5 +50,6 @@ export default {
     }.`,
     'discover.viewSelection.aria': 'Výber typu',
     'discover.searchDisplay.covers': 'Výpis s obalov',
-    'discover.searchDisplay.list': 'Kompaktné zobrazenie'
+    'discover.searchDisplay.list': 'Kompaktné zobrazenie',
+    'discover.includesAds': 'Táto práca obsahuje umiestňovanie produktov alebo inú formu reklamy.'
 };
