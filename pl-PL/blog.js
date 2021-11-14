@@ -34,15 +34,15 @@ export default {
     fanfiction {Twórczość fanowska}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Wymienione tutaj są samodzielne historie, jeśli historia została napisana jako część uniwersum to będzie wymieniona na stronie uniwersum.',
+    'blog.social.sameAsMain': `Linki społecznościowe są takie same jak te ustawione w {type, select,
+    organization {ustawienia organizacji}
+    user {profil użytkownika}
     other {}
   }`,
     'blog.social.website': 'Oficjalna strona',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blogs.lu': 'Official Literary Universe blogs',
+    'blog.settings.universeSettings': 'Blogi wszechświata są zintegrowane ze stronami wszechświata, a ich podstawowe ustawienia są pobierane z ustawień wszechświata.',
+    'blogs.lu': 'Oficjalne blogi Literary Universe',
     'blogs.featured': 'Polecane blogi',
     'blogs.new': 'Najnowsze blogi',
     'blogs.title': 'Blogi Literary Universe',
