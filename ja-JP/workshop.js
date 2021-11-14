@@ -216,5 +216,6 @@ export default {
     'workshop.revShare.undecided': '未定',
     'workshop.revShare.origLangCreators': 'オリジナル言語のクリエーター',
     'workshop.story.prolog': 'プログ',
-    'workshop.story.chapter': '章 {sequence, number}'
+    'workshop.story.chapter': '章 {sequence, number}',
+    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?'
 };
