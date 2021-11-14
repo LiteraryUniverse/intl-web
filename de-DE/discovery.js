@@ -45,5 +45,5 @@ export default {
     'discover.viewSelection.aria': 'Auswahl der Ansichten',
     'discover.searchDisplay.covers': 'Auflistung der Abdeckungen',
     'discover.searchDisplay.list': 'Kompakte Liste',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
+    'discover.includesAds': 'Diese Arbeit enthält Produktplatzierungen oder andere Formen von Werbung.'
 };
