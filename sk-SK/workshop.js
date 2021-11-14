@@ -231,5 +231,6 @@ export default {
     'workshop.revShare.undecided': 'Nerozhodnutý',
     'workshop.revShare.origLangCreators': 'Tvorcovia pôvodného jazyka',
     'workshop.story.prolog': 'Prolog',
-    'workshop.story.chapter': 'Kapitola {sequence, number}'
+    'workshop.story.chapter': 'Kapitola {sequence, number}',
+    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?'
 };
