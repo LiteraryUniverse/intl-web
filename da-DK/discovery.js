@@ -44,5 +44,6 @@ export default {
     }.`,
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list'
+    'discover.searchDisplay.list': 'Compact list',
+    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
 };
