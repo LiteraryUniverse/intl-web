@@ -44,5 +44,6 @@ export default {
     }.`,
     'discover.viewSelection.aria': 'Mostra selezione',
     'discover.searchDisplay.covers': 'Riguarda l\'elenco',
-    'discover.searchDisplay.list': 'Elenco compatto'
+    'discover.searchDisplay.list': 'Elenco compatto',
+    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
 };
