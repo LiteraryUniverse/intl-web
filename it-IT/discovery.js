@@ -5,8 +5,8 @@ export default {
     'discovery.stories.standalone.new': 'Nuove storie autonome',
     'discovery.stories.updated': 'Storie aggiornate da poco',
     'discovery.continue': 'Continua a leggere',
-    'discovery.stories.similar.new': 'Nuove storie nel quartiere',
-    'discovery.stories.similar.regular': 'Storie nel quartiere',
+    'discovery.stories.similar.new': 'Nuove storie in circolazione',
+    'discovery.stories.similar.regular': 'Storie in circolazione',
     'story.estimatedReadingTime': `Questa storia si legge in {hours, plural,
         =0 {}
         one { 1 ora e }
