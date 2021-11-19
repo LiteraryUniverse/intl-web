@@ -17,9 +17,9 @@ export default {
     'email.welcome': 'Benvenuto a Literary Universe!',
     'email.signature': 'Cordialmente,<br />il team di Literary Universe',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.welcome': 'Benvenuto/a a bordo',
+    'email.enrollAccount.messageHtml': 'Ti invitiamo a Literary Universe! Abbiamo creato il tuo speciale account personale dove puoi accedere a tutte le funzionalità di Literary Universe! Unisciti a noi per dare vita alla prossima generazione di scrittura creativa e strumenti di lettura!',
+    'email.enrollAccount.button': 'Accedi al tuo account',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
