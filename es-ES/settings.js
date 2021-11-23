@@ -49,7 +49,7 @@ export default {
     'settings.account': 'Configuración de la cuenta',
     'settings.legal.export.download': 'Descargar tus datos',
     'settings.legal.export.gathering': 'Recolectando tus datos... Esto puede tardar un tiempo.',
-    'settings.gender.title': 'Sexo',
+    'settings.gender.title': 'Your sex',
     'settings.gender.usage': 'Está información seguirá siendo privada. Utilizamos estos datos en análisis de plataforma y anónimos para los creados cuando leas sus historias.',
     'settings.age.title': 'Edad',
     'settings.age.explicit': 'Mostrar contenido explícito (público 21+)',
