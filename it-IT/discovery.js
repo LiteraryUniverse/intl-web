@@ -5,8 +5,8 @@ export default {
     'discovery.stories.standalone.new': 'Nuove storie autonome',
     'discovery.stories.updated': 'Storie aggiornate da poco',
     'discovery.continue': 'Continua a leggere',
-    'discovery.stories.similar.new': 'Nuove storie nel quartiere',
-    'discovery.stories.similar.regular': 'Storie nel quartiere',
+    'discovery.stories.similar.new': 'Nuove storie in circolazione',
+    'discovery.stories.similar.regular': 'Storie in circolazione',
     'story.estimatedReadingTime': `Questa storia si legge in {hours, plural,
         =0 {}
         one { 1 ora e }
@@ -45,5 +45,5 @@ export default {
     'discover.viewSelection.aria': 'Mostra selezione',
     'discover.searchDisplay.covers': 'Riguarda l\'elenco',
     'discover.searchDisplay.list': 'Elenco compatto',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
+    'discover.includesAds': 'Questo lavoro include pubblicità indiretta o altre forme di pubblicità.'
 };
