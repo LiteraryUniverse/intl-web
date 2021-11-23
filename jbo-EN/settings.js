@@ -49,7 +49,7 @@ export default {
     'settings.account': 'Account settings',
     'settings.legal.export.download': 'Download Your data',
     'settings.legal.export.gathering': 'Gathering Your data... This might take a while.',
-    'settings.gender.title': 'Your gender',
+    'settings.gender.title': 'Your sex',
     'settings.gender.usage': 'This information will remain private. We use this data for platform analytics and in anonymized analytics to creators when you read their stories.',
     'settings.age.title': 'Your age',
     'settings.age.explicit': 'Show explicit content (rating age 21+)',
