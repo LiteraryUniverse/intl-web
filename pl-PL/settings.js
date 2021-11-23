@@ -49,7 +49,7 @@ export default {
     'settings.account': 'Ustawienia konta',
     'settings.legal.export.download': 'Pobierz swoje dane',
     'settings.legal.export.gathering': 'Gromadzenie Twoich danych... Może to chwilę potrwać.',
-    'settings.gender.title': 'Twoja płeć',
+    'settings.gender.title': 'Your sex',
     'settings.gender.usage': 'Te informacje pozostaną prywatne. Używamy tych danych do analizowania platformy oraz w anonimowych podsumowaniach dla twórców, gdy czytasz ich twórczość.',
     'settings.age.title': 'Twój wiek',
     'settings.age.explicit': 'Pokazuj treści wulgarne (kwalifikacja wiekowa 21+)',
