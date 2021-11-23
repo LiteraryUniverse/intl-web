@@ -49,7 +49,7 @@ export default {
     'settings.account': 'Kontoeinstellungen',
     'settings.legal.export.download': 'Download Ihrer Daten',
     'settings.legal.export.gathering': 'Sammeln Sie Ihre Daten... Dies kann eine Weile dauern.',
-    'settings.gender.title': 'Ihr Geschlecht',
+    'settings.gender.title': 'Your sex',
     'settings.gender.usage': 'Diese Informationen bleiben privat. Wir verwenden diese Daten für die Plattformanalyse und in anonymisierter Form für die Ersteller, wenn Sie deren Geschichten lesen.',
     'settings.age.title': 'Ihr Alter',
     'settings.age.explicit': 'Expliziten Inhalt anzeigen (Altersfreigabe ab 21 Jahren)',
