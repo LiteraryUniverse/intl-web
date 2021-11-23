@@ -3,6 +3,7 @@
 ## 2021-11-15 - v1.5.4
 
 * Add keys for advertising in stories/universes notices
+* Bumped minimum Meteor version to the one currently used
 
 ## 2021-11-13 - v1.5.3
 
