@@ -47,7 +47,7 @@ export default {
     'settings.account': 'Nastavenie účtu',
     'settings.legal.export.download': 'Stiahnuť moje údaje',
     'settings.legal.export.gathering': 'Zhromažďovanie údajov... To môže chvíľu trvať.',
-    'settings.gender.title': 'Your sex',
+    'settings.gender.title': 'Vaše pohlavie',
     'settings.gender.usage': 'Tieto informácie zostanú súkromné. Tieto údaje používame na analýzu platformy a v anonymizovanej analýze pre tvorcov, keď čítate ich príbehy.',
     'settings.age.title': 'Váš vek',
     'settings.age.explicit': 'Zobraziť explicitný obsah (veková kategória 21+)',
