@@ -47,7 +47,7 @@ export default {
     'settings.account': 'アカウント設定',
     'settings.legal.export.download': 'あなたのデータをダウンロードする',
     'settings.legal.export.gathering': 'あなたのデータを収集しています。これにはしばらく時間がかかる場合があります。',
-    'settings.gender.title': 'Your sex',
+    'settings.gender.title': 'あなたの性別',
     'settings.gender.usage': 'この情報は非公開となります。このデータは、プラットフォームの分析や、クリエイターがストーリーを読んだ際の匿名の分析に使用されます。',
     'settings.age.title': 'あなたの年齢',
     'settings.age.explicit': '露骨な内容の表示（評価年齢21以上）',
