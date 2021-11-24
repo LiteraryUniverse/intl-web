@@ -41,7 +41,15 @@ export default {
       name: 'German',
       native: 'Deutsch',
       defaultLocale: 'de-GE',
-      supportedLocales: ['de-GE', 'de-BE', 'de-AT', 'de-CH', 'de-IT', 'de-LI', 'de-LU'],
+      supportedLocales: [
+        'de-GE',
+        'de-BE',
+        'de-AT',
+        'de-CH',
+        'de-IT',
+        'de-LI',
+        'de-LU'
+      ],
       rtl: false
     },
     {
@@ -49,36 +57,75 @@ export default {
       name: 'Spanish',
       native: 'Español',
       defaultLocale: 'es-ES',
-      supportedLocales: ['es-ES', 'es-AR', 'es-BO', 'es-BR', 'es-BZ', 'es-CL', 'es-CO', 'es-CR', 'es-CU', 'es-DO', 'es-EA', 'es-EC', 'ES-GQ', 'es-GT', 'es-HN', 'es-IC', 'es-MX', 'es-NI', ' es-PA', 'es-PE', 'es-PH', 'es-PR', 'es-PY', 'es-SV', 'es-US', 'es-UY', 'es-VE'],
+      supportedLocales: [
+        'es-ES',
+        'es-AR',
+        'es-BO',
+        'es-BR',
+        'es-BZ',
+        'es-CL',
+        'es-CO',
+        'es-CR',
+        'es-CU',
+        'es-DO',
+        'es-EA',
+        'es-EC',
+        'ES-GQ',
+        'es-GT',
+        'es-HN',
+        'es-IC',
+        'es-MX',
+        'es-NI',
+        ' es-PA',
+        'es-PE',
+        'es-PH',
+        'es-PR',
+        'es-PY',
+        'es-SV',
+        'es-US',
+        'es-UY',
+        'es-VE'
+      ],
       rtl: false
     },
+    {
+      code: 'pl',
+      name: 'Polish',
+      native: 'Polski',
+      defaultLocale: 'pl-PL',
+      supportedLocales: ['pl-PL'],
+      rtl: false
+    }
   ],
   /**
    * Get the array of language codes of supported languages
    * @returns {[String]}
    */
-  supportedLanguages() { return this.languages.map(lang => lang.code) || [] },
+  supportedLanguages() {
+    return this.languages.map((lang) => lang.code) || []
+  },
   /**
    * Returns details of all supported languages for stories.
    * This includes stories supported through the app in addition to those listed here.
    * @returns {({defaultLocale: string, code: string, supportedLocales: [string, string, string, string, string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean})[]}
    */
   storyLanguages() {
-    return [...this.languages,
+    return [
+      ...this.languages,
       {
         code: 'fr',
         name: 'French',
         native: 'Français',
         defaultLocale: 'fr-FR',
-        supportedLocales: ['fr-FR', 'fr-CA', 'fr-CH', 'fr-LU', 'fr-BE', 'fr-MC', 'fr-CF'],
-        rtl: false
-      },
-      {
-        code: 'pl',
-        name: 'Polish',
-        native: 'Polski',
-        defaultLocale: 'pl-PL',
-        supportedLocales: ['pl-PL'],
+        supportedLocales: [
+          'fr-FR',
+          'fr-CA',
+          'fr-CH',
+          'fr-LU',
+          'fr-BE',
+          'fr-MC',
+          'fr-CF'
+        ],
         rtl: false
       },
       {
@@ -86,7 +133,19 @@ export default {
         name: 'Portuguese (Portugal)',
         native: 'Português',
         defaultLocale: 'pt-PT',
-        supportedLocales: ['pt-PT', 'pt-AO', 'pt-CH', 'pt-CV', 'pt-GQ', ' pt-GW', 'pt-LU', 'pt-MO', 'pt-MZ', 'pt-ST', 'pt-TL'],
+        supportedLocales: [
+          'pt-PT',
+          'pt-AO',
+          'pt-CH',
+          'pt-CV',
+          'pt-GQ',
+          ' pt-GW',
+          'pt-LU',
+          'pt-MO',
+          'pt-MZ',
+          'pt-ST',
+          'pt-TL'
+        ],
         rtl: false
       },
       {
@@ -94,7 +153,19 @@ export default {
         name: 'Portuguese (Brazil)',
         native: 'português brasileiro',
         defaultLocale: 'pt-BR',
-        supportedLocales: ['pt-BR', 'pt-AO', 'pt-CH', 'pt-CV', 'pt-GQ', ' pt-GW', 'pt-LU', 'pt-MO', 'pt-MZ', 'pt-ST', 'pt-TL'],
+        supportedLocales: [
+          'pt-BR',
+          'pt-AO',
+          'pt-CH',
+          'pt-CV',
+          'pt-GQ',
+          ' pt-GW',
+          'pt-LU',
+          'pt-MO',
+          'pt-MZ',
+          'pt-ST',
+          'pt-TL'
+        ],
         rtl: false
       },
       {
@@ -126,7 +197,15 @@ export default {
         name: 'Dutch',
         native: 'Nederlands',
         defaultLocale: 'nl-NL',
-        supportedLocales: ['nl-NL', 'nl-AW', 'nl-BE', 'nl-BQ', 'nl-CW', 'nl-SX', 'nl-SR'],
+        supportedLocales: [
+          'nl-NL',
+          'nl-AW',
+          'nl-BE',
+          'nl-BQ',
+          'nl-CW',
+          'nl-SX',
+          'nl-SR'
+        ],
         rtl: false
       },
       {
@@ -238,7 +317,14 @@ export default {
         name: 'Russian',
         native: 'русский',
         defaultLocale: 'ru-RU',
-        supportedLocales: ['ru-RU', 'ru-BY', 'ru-KG', 'ru-KZ', 'ru-MD', 'ru-UA'],
+        supportedLocales: [
+          'ru-RU',
+          'ru-BY',
+          'ru-KG',
+          'ru-KZ',
+          'ru-MD',
+          'ru-UA'
+        ],
         rtl: false
       },
       {
@@ -283,7 +369,9 @@ export default {
       }
     ]
   },
-  storyLocales() { return this.storyLanguages().map(lang => lang.code) },
+  storyLocales() {
+    return this.storyLanguages().map((lang) => lang.code)
+  },
   /**
    * Definition of currencies for intl
    */
@@ -329,7 +417,11 @@ export default {
     if (countryCode === 'US' || countryCode === 'CA') return 'USD'
     if (countryCode === 'JP') return 'JPY'
     // EU check
-    if (this.euCountries.indexOf(countryCode) >= 0 || this.euAssociated.indexOf(countryCode) >= 0) return 'EUR'
+    if (
+      this.euCountries.indexOf(countryCode) >= 0 ||
+      this.euAssociated.indexOf(countryCode) >= 0
+    )
+      return 'EUR'
     return 'USD'
   },
   /**
@@ -717,5 +809,5 @@ export default {
     'PR',
     'UM',
     'VI'
-  ],
+  ]
 }

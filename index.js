@@ -5,6 +5,7 @@ import ja from './ja-JP'
 import sk from './sk-SK'
 import de from './de-DE'
 import es from './es-ES'
+import pl from './pl-PL'
 
 export default {
   settings,
@@ -13,5 +14,6 @@ export default {
   ja,
   sk,
   de,
-  es
+  es,
+  pl
 }
