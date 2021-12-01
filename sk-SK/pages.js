@@ -55,8 +55,8 @@ export default {
     'dmca.step3.desc1': 'Po prijatí sťažnosti má vlastník určenej nehnuteľnosti 14 dní na podanie protioznámenia. Určený zástupca potom pristúpi k prešetreniu sporu. Akékoľvek rozhodnutie určeného zástupcu v tejto fáze bude konečné.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
     'team.name.jdvorak': 'Jan Dvořák',
-    'about.attributions': 'Attributions',
-    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
-    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
+    'about.attributions': 'Atribuce',
+    'about.attributionsIntro': 'Literary Universe je postavený na mnohých projektoch s otvoreným zdrojovým kódom a bezplatných zdrojoch. Nižšie nájdete ich zoznam.',
+    'about.attributionsMatomo': 'Naša analytika využíva vlastný hosting Matomo s údajmi IP2Location LITE dostupnými zo stránky https://lite.ip2location.com.',
+    'about.attributionIcons': 'Na stránke sa používajú nasledujúce ikony prostredníctvom styled-icons:'
 };
