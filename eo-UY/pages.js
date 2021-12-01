@@ -54,5 +54,9 @@ export default {
     'dmca.step2.desc1': 'Upon receiving your report we will verify your credentials and ownership claim. If everything is fine we will proceed to check claim. If we determine claim as true we will make the infringing property inaccessible until counter-notice determination or 14 days have passed after which it will be deleted.',
     'dmca.step3.desc1': 'Once a complaint has been received the owner of designated property will have 14 days to file a counter notice. Designated Agent will then proceed to investigate the dispute. Any decision by the Designated Agent at this stage will be final.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
-    'team.name.jdvorak': 'Jan Dvořák'
+    'team.name.jdvorak': 'Jan Dvořák',
+    'about.attributions': 'Attributions',
+    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
+    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
+    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
 };
