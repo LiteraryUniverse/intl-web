@@ -54,5 +54,9 @@ export default {
     'dmca.step2.desc1': 'Po obdržení vaší zprávy ověříme Vaše údaje a vlastnické nároky. Pokud je vše v pořádku, přistoupíme k ověření nároku. Pokud určíme nárok jako pravdivý, učiníme neoprávněné obsah nepřístupným, pokud nedojde k odvolání do 14 dní, po kterém bude tento majetek vymazán.',
     'dmca.step3.desc1': 'Po obdržení stížnosti bude mít vlastník určeného majetku 14 dní na podání odvolání. Jmenovaný agent pak přistoupí k vyšetřování sporu. Každé rozhodnutí jmenovaného agenta v této fázi bude konečné.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
-    'team.name.jdvorak': 'Jan Dvořák'
+    'team.name.jdvorak': 'Jan Dvořák',
+    'about.attributions': 'Attributions',
+    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
+    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
+    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
 };
