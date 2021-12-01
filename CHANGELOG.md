@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2021-12-01 - v1.6.1
+
+* Added attributions to about page
+
 ## 2021-11-24 - v1.6.0
 
 * Added Polish as a selectable language
