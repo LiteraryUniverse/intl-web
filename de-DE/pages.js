@@ -55,8 +55,8 @@ export default {
     'dmca.step3.desc1': 'Sobald eine Beschwerde eingegangen ist, hat der Eigentümer der bezeichneten Immobilie 14 Tage Zeit, eine Gegenanzeige einzureichen. Der designierte Agent wird dann den Streitfall untersuchen. Jede Entscheidung des Designated Agent in diesem Stadium ist endgültig.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
     'team.name.jdvorak': 'Jan Dvořák',
-    'about.attributions': 'Attributions',
-    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
-    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
+    'about.attributions': 'Urhebernachweise',
+    'about.attributionsIntro': 'Literary Universe baut auf vielen Open-Source-Projekten und anderen Ressourcen auf. Unten finden Sie deren Auflistung.',
+    'about.attributionsMatomo': 'Unsere Analysen verwenden das selbst gehostete Matomo mit IP2Location LITE-Daten, die unter https://lite.ip2location.com verfügbar sind.',
+    'about.attributionIcons': 'Die folgenden Icons werden auf der Website über Styled-Icons verwendet:'
 };
