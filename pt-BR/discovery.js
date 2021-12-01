@@ -7,15 +7,15 @@ export default {
     'discovery.continue': 'Continue lendo',
     'discovery.stories.similar.new': 'Novas histórias no bairro',
     'discovery.stories.similar.regular': 'Histórias no bairro',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Esta história deve levar {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 hora e }
+        other {# horas e }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
+        =0 {0 minutos}
+        one {1 minuto}
+        other {# minutos}
+    }.`,
     'story.estimatedReadingTime.explained': 'Baseado em uma velocidade média de leitura de {avgReadingNum} palavras por minuto.',
     'discover.search.text': 'Pesquisar termo',
     'discover.searchStory.title': 'Busca de uma história',
@@ -33,17 +33,17 @@ export default {
     'discover.search.license': 'Licença de direitos autorais',
     'discover.search.language': 'Idioma',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Nenhum universo corresponde a seus parâmetros}
+        one {1 universo encontrado}
+        other {# universos encontrados}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Nenhuma história corresponde aos seus parâmetros}
+        one {1 história encontrada}
+        other {# histórias encontradas}
     }.`,
     'discover.viewSelection.aria': 'Ver seleção',
     'discover.searchDisplay.covers': 'Listagem de coberturas',
     'discover.searchDisplay.list': 'Lista compacta',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
+    'discover.includesAds': 'Este trabalho tem colocação de produtos ou inclui outras formas de anúncios.'
 };
