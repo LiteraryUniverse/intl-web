@@ -54,5 +54,9 @@ export default {
     'dmca.step2.desc1': 'Po otrzymaniu raportu zweryfikujemy Twoje referencje i roszczenie własności. Jeśli wszystko jest w porządku, przejdziemy do sprawdzenia roszczenia. Jeśli stwierdzimy, że roszczenie jest prawdziwe, uniemożliwimy dostęp do naruszonej własności do czasu ustalenia kontrpowiadomienia lub upływu 14 dni, po których zostanie ona usunięta.',
     'dmca.step3.desc1': 'Po otrzymaniu skargi właściciel wyznaczonej nieruchomości będzie miał 14 dni na złożenie przeciwnego zawiadomienia. Wyznaczony Agent przystąpi następnie do zbadania sporu. Każda decyzja Wyznaczonego Agenta na tym etapie będzie ostateczna.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
-    'team.name.jdvorak': 'Jan Dvořák'
+    'team.name.jdvorak': 'Jan Dvořák',
+    'about.attributions': 'Attributions',
+    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
+    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
+    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
 };

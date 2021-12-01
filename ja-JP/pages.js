@@ -54,5 +54,9 @@ export default {
     'dmca.step2.desc1': 'レポートを受け取り次第、お客様の資格と所有権の主張を確認します。問題がなければ、主張の確認に進みます。主張が真実であると判断した場合、反論通知の決定または14日が経過するまで、侵害物件にアクセスできないようにし、その後削除します。',
     'dmca.step3.desc1': '苦情が受理されると、指定物件の所有者は14日間以内に反論の通知を提出します。指定代理店はその後、紛争の調査を行います。この段階での指定代理店の決定は最終的なものとなります。',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
-    'team.name.jdvorak': 'ドヴォルザーク ジャン'
+    'team.name.jdvorak': 'ドヴォルザーク ジャン',
+    'about.attributions': 'Attributions',
+    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
+    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
+    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
 };

@@ -54,5 +54,9 @@ export default {
     'dmca.step2.desc1': 'Nach Erhalt Ihres Berichts werden wir Ihre Berechtigungsnachweise und Ihren Eigentumsanspruch überprüfen. Wenn alles in Ordnung ist, fahren wir fort, die Behauptung zu prüfen. Wenn wir feststellen, dass die Behauptung wahr ist, werden wir das verletzende Eigentum unzugänglich machen, bis eine Gegenmeldung erfolgt oder 14 Tage vergangen sind, nach denen es gelöscht wird.',
     'dmca.step3.desc1': 'Sobald eine Beschwerde eingegangen ist, hat der Eigentümer der bezeichneten Immobilie 14 Tage Zeit, eine Gegenanzeige einzureichen. Der designierte Agent wird dann den Streitfall untersuchen. Jede Entscheidung des Designated Agent in diesem Stadium ist endgültig.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
-    'team.name.jdvorak': 'Jan Dvořák'
+    'team.name.jdvorak': 'Jan Dvořák',
+    'about.attributions': 'Attributions',
+    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
+    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
+    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
 };
