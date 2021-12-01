@@ -55,8 +55,8 @@ export default {
     'dmca.step3.desc1': 'Po obdržení stížnosti bude mít vlastník určeného majetku 14 dní na podání odvolání. Jmenovaný agent pak přistoupí k vyšetřování sporu. Každé rozhodnutí jmenovaného agenta v této fázi bude konečné.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
     'team.name.jdvorak': 'Jan Dvořák',
-    'about.attributions': 'Attributions',
-    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
-    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
+    'about.attributions': 'Atribuce',
+    'about.attributionsIntro': 'Literární Universe staví na mnoha Open Source projektech a dalších zdrojích. Zde je seznam některých z nich.',
+    'about.attributionsMatomo': 'Naše analytika používá vlastní Matomo s IP2Location LITE daty dostupné na https://lite.ip2location.com.',
+    'about.attributionIcons': 'Následující ikony jsou používány pomocí styled-icons:'
 };
