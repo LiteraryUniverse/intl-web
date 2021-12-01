@@ -54,5 +54,9 @@ export default {
     'dmca.step2.desc1': 'Po prijatí vašej správy overíme vaše poverenia a nárok na vlastníctvo. Ak je všetko v poriadku, pristúpime ku kontrole nároku. Ak zistíme, že tvrdenie je pravdivé, zneprístupníme majetok, ktorý porušuje práva, až do určenia protioznámenia alebo do uplynutia 14 dní, po ktorých bude odstránený.',
     'dmca.step3.desc1': 'Po prijatí sťažnosti má vlastník určenej nehnuteľnosti 14 dní na podanie protioznámenia. Určený zástupca potom pristúpi k prešetreniu sporu. Akékoľvek rozhodnutie určeného zástupcu v tejto fáze bude konečné.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
-    'team.name.jdvorak': 'Jan Dvořák'
+    'team.name.jdvorak': 'Jan Dvořák',
+    'about.attributions': 'Attributions',
+    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
+    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
+    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
 };
