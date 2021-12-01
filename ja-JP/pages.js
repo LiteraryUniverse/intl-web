@@ -55,8 +55,8 @@ export default {
     'dmca.step3.desc1': '苦情が受理されると、指定物件の所有者は14日間以内に反論の通知を提出します。指定代理店はその後、紛争の調査を行います。この段階での指定代理店の決定は最終的なものとなります。',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
     'team.name.jdvorak': 'ドヴォルザーク ジャン',
-    'about.attributions': 'Attributions',
-    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
-    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
+    'about.attributions': '属性',
+    'about.attributionsIntro': '文学の宇宙は、多くのオープンソース・プロジェクトやフリー・リソースの上に構築されています。以下にそれらのリストを掲載します。',
+    'about.attributionsMatomo': '当社の分析には、セルフホスティングのMatomoと、https://lite.ip2location.com から入手可能なIP2Location LITEデータを使用しています。',
+    'about.attributionIcons': '以下のアイコンは、styled-iconsを介してサイト内で使用されています。'
 };
