@@ -55,8 +55,8 @@ export default {
     'dmca.step3.desc1': 'Una vez se haya recibido una queja, el propietario de la propiedad designada dispondrá de 14 días para enviar una contranotificación. El agente designado procederá a investigar la controversia. La decisión del agente designado será determinante.',
     // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
     'team.name.jdvorak': 'Jan Dvořák',
-    'about.attributions': 'Attributions',
-    'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
-    'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
+    'about.attributions': 'Atribuciones',
+    'about.attributionsIntro': 'Literary Universe se basa en muchos proyectos de código abierto y recursos gratuitos. A continuación encontrará su listado.',
+    'about.attributionsMatomo': 'Nuestros análisis utilizan Matomo con datos IP2Location LITE disponibles en https://lite.ip2location.com.',
+    'about.attributionIcons': 'Los siguientes iconos se utilizan en el sitio a través de styled-icons:'
 };
