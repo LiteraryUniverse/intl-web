@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'No se ha encontrado nada',
     'common.explore': 'Explorar',
     'common.by': 'por ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Bloc de notas',
     'common.scratchpad.own': 'Tú bloc de notas',
     'common.news': 'Novedades',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Publicar',
     'common.publishAt': 'Fecha y hora de la publicación',
     'a11y.user.menu': 'Menú de usuario',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Tu perfil',
     'profile.website': 'Página web personal',
     'story.notes.concept': 'Concepto',
