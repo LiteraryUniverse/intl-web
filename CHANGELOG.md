@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2021-12-09 - v1.6.2
+
+* Added `a11y.navigation` for missing aria description
+
 ## 2021-12-01 - v1.6.1
 
 * Added attributions to about page

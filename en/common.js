@@ -47,7 +47,7 @@ export default {
   'common.nothingfound': 'Nothing found',
   'common.explore': 'Explore',
   'common.by': 'by ',
-  // keep the space at the end as username follows
+  // keep the space at the end as username follows TODO: needs fixing
   'common.scratchpad': 'Scratchpad',
   'common.scratchpad.own': 'Your scratchpad',
   'common.news': 'News',
@@ -171,6 +171,7 @@ export default {
   'common.publish': 'Publish',
   'common.publishAt': 'Publication date and time',
   'a11y.user.menu': 'User menu',
+  'a11y.navigation': 'Navigation',
   'dashboard.profile': 'Your profile',
   'profile.website': 'My personal website',
   'story.notes.concept': 'Concept',
