@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': '何も見つかりません',
     'common.explore': '探る',
     'common.by': '文責',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'メモ帳',
     'common.scratchpad.own': 'あなたのメモ帳',
     'common.news': 'ニュース',
@@ -157,6 +157,7 @@ export default {
     'common.publish': '発行',
     'common.publishAt': '公開日時',
     'a11y.user.menu': 'ユーザーメニュー',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'あなたのプロフィール',
     'profile.website': '私の個人的なウェブサイト',
     'story.notes.concept': '物語のコンセプト',
