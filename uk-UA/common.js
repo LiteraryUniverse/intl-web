@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'Нічого не знайдено',
     'common.explore': 'Дослідити',
     'common.by': 'за ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Чернетка',
     'common.scratchpad.own': 'Ваша чернетка',
     'common.news': 'Новини',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Опублікувати',
     'common.publishAt': 'Дата і час публікації',
     'a11y.user.menu': 'Меню користувача',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Ваш профіль',
     'profile.website': 'Мій особистий сайт',
     'story.notes.concept': 'Концепція',
