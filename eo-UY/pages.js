@@ -32,6 +32,7 @@ export default {
     'gdpr.compliant.text': 'Literary Universe has implemented various updates and changes to its codebase in preparation for GDPR enforcement on May 25th 2018.',
     'common.legal.dmca': 'DMCA',
     'common.legal.dmca.long': 'Digital Millennium Copyright Act',
+    'common.legal.changelog': 'Changes in this version',
     'dmca.title': 'Digital Millennium Copyright Act (DMCA) Policy',
     'dmca.subtitle': 'Copyright Dispute Policy',
     'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
