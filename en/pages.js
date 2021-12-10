@@ -4,7 +4,7 @@ export default {
   'homepage.explore': 'Explore',
   'homepage.create': 'Create',
   'homepage.read.desc':
-    'Enjoy a great reading experience with access to details of the stories\' universe adjacent to the story text, without the need to leave the story window.',
+    "Enjoy a great reading experience with access to details of the stories' universe adjacent to the story text, without the need to leave the story window.",
   'homepage.explore.desc':
     'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
   'homepage.create.desc':
@@ -28,7 +28,7 @@ export default {
   'about.jan':
     'Jan is the founder, visionary and technological brain behind Literary Universe. As a writer of large literary universes, Jan had always found it difficult to write stories from a technical and readability point of view that would not compromise the reading experience. As such, Jan decided to pursue his studies in web development to create an application that would make it easy to write stories in large universes.',
   'about.history.text':
-    'In 2010 Jan started at Rochester Institute of Technology to learn more about web development in order to be able to build a creative writing site. This materialized in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies and in 2016 a new version of the app was created as a Master\'s Capstone Project. The project continued in fall 2016 and further developed into what you see today.',
+    "In 2010 Jan started at Rochester Institute of Technology to learn more about web development in order to be able to build a creative writing site. This materialized in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies and in 2016 a new version of the app was created as a Master's Capstone Project. The project continued in fall 2016 and further developed into what you see today.",
   'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
   'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
   'guidelines.desc': 'Community Guidelines of Literary Universe.',
@@ -43,6 +43,7 @@ export default {
     'Literary Universe has implemented various updates and changes to its codebase in preparation for GDPR enforcement on May 25th 2018.',
   'common.legal.dmca': 'DMCA',
   'common.legal.dmca.long': 'Digital Millennium Copyright Act',
+  'common.legal.changelog': 'Changes in this version',
   'dmca.title': 'Digital Millennium Copyright Act (DMCA) Policy',
   'dmca.subtitle': 'Copyright Dispute Policy',
   'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
@@ -76,7 +77,10 @@ export default {
   // Team members - only translate if lang has specific spelling for foreign names or switches the order of family vs given name
   'team.name.jdvorak': 'Jan Dvořák',
   'about.attributions': 'Attributions',
-  'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
-  'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-  'about.attributionIcons': 'The following icons are used through the site via styled-icons:',
+  'about.attributionsIntro':
+    'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
+  'about.attributionsMatomo':
+    'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
+  'about.attributionIcons':
+    'The following icons are used through the site via styled-icons:'
 }
