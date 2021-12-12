@@ -157,7 +157,7 @@ export default {
     'common.publish': 'Veröffentlichen',
     'common.publishAt': 'Datum und Uhrzeit der Veröffentlichung',
     'a11y.user.menu': 'Benutzermenü',
-    'a11y.navigation': 'Navigation',
+    'a11y.navigation': 'Navigationsleiste',
     'dashboard.profile': 'Ihr Profil',
     'profile.website': 'Persönliche Webseite',
     'story.notes.concept': 'Konzept',
