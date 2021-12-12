@@ -157,7 +157,7 @@ export default {
     'common.publish': '発行',
     'common.publishAt': '公開日時',
     'a11y.user.menu': 'ユーザーメニュー',
-    'a11y.navigation': 'Navigation',
+    'a11y.navigation': 'ナビ',
     'dashboard.profile': 'あなたのプロフィール',
     'profile.website': '私の個人的なウェブサイト',
     'story.notes.concept': '物語のコンセプト',
