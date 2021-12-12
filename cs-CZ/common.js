@@ -157,7 +157,7 @@ export default {
     'common.publish': 'Zveřejnit',
     'common.publishAt': 'Datum a čas zveřejnění',
     'a11y.user.menu': 'Uživatelské menu',
-    'a11y.navigation': 'Navigation',
+    'a11y.navigation': 'Navigace',
     'dashboard.profile': 'Váš profil',
     'profile.website': 'Moje osobní stránka',
     'story.notes.concept': 'Koncept',
