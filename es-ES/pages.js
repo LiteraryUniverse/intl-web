@@ -32,7 +32,7 @@ export default {
     'gdpr.compliant.text': 'Literary Universe ha implementado varias actualizaciones y cambios a su base de código para prepararse para un refuerzo de RGPD el 25 de mayo de 2018.',
     'common.legal.dmca': 'DMCA',
     'common.legal.dmca.long': 'Ley de Derechos de Autor de la Era Digital',
-    'common.legal.changelog': 'Changes in this version',
+    'common.legal.changelog': 'Cambios en esta versión',
     'dmca.title': 'Política de Ley de Derechos de Autor de la Era Digital (DMCA)',
     'dmca.subtitle': 'Políticas de controversias de derechos de autor',
     'dmca.step1.title': 'Procedimiento para notificar infracciones de derechos de autor.',
