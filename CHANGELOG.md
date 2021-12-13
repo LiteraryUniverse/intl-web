@@ -1,13 +1,10 @@
 # Changelog for languages
 
-## 2021-12-13 - v1.6.3
-
-* Added changelog for legal documents
-* Added strings for verification badges
-
-## 2021-12-09 - v1.6.2
+## 2021-12-13 - v1.6.2
 
 * Added `a11y.navigation` for missing aria description
+* Added changelog for legal documents
+* Added strings for verification badges
 
 ## 2021-12-01 - v1.6.1
 
