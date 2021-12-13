@@ -1,5 +1,5 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
+    'user.friend.request.add': 'Lisää ystäville',
     'user.friend.requests': `You have {num, number} new friend {num, plural,
     zero {requests}
     one {request}
@@ -18,7 +18,7 @@ export default {
     'user.listing': 'User listing',
     'user.profile.visit': 'Visit {user}\'s profile.',
     'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
+    'user.friend.list.requests': 'Ystävyyspyynnöt',
     'user.friend.norequests': 'You have no requests for friendship.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
@@ -27,8 +27,8 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
+    'user.verification.publishedAuthor': 'Tämä kirjailija on julkaistu perinteisellä tavalla',
     'user.verification.luAuthor': 'Literary Universe based author of note',
     'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure'
+    'user.verification.publicFigure': 'Todennettu julkisuuden henkilö'
 };
