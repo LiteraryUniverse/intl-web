@@ -27,8 +27,8 @@ export default {
     night {dia}
     other {dia}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure'
+    'user.verification.publishedAuthor': 'Este autor tem sido publicado da maneira tradicional',
+    'user.verification.luAuthor': 'Autor de nota com base no Universo Literário',
+    'user.verification.luEmployee': 'Funcionário do Universo Literário',
+    'user.verification.publicFigure': 'Figura pública verificada'
 };
