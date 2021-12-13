@@ -10,7 +10,7 @@ export default {
     'site.logoAlt': 'Literary Universe logo',
     mobileMenu: 'Mobile menu',
     'common.signin': 'Login',
-    'common.signup': 'Register',
+    'common.signup': 'Rekisteröidy',
     'common.signout': 'Logout',
     'common.dashboard': 'Dashboard',
     'common.discovery': 'Discovery',
@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'Mitään ei löytynyt',
     'common.explore': 'Explore',
     'common.by': 'by ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
     'common.news': 'News',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
     'a11y.user.menu': 'User menu',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Your profile',
     'profile.website': 'My personal website',
     'story.notes.concept': 'Concept',

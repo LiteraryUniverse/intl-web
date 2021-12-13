@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'Niks gevind',
     'common.explore': 'Verken',
     'common.by': 'deur ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Krapblad',
     'common.scratchpad.own': 'Jou krapblad',
     'common.news': 'Nuus',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
     'a11y.user.menu': 'User menu',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Your profile',
     'profile.website': 'My personal website',
     'story.notes.concept': 'Concept',

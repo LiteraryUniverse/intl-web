@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'Không tìm thấy gì',
     'common.explore': 'Khám phá',
     'common.by': 'bởi ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
     'common.news': 'Tin tức',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Xuất bản',
     'common.publishAt': 'Ngày Giờ Xuất bản',
     'a11y.user.menu': 'Menu người dùng',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Hồ sơ của bạn',
     'profile.website': 'My personal website',
     'story.notes.concept': 'Concept',

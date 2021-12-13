@@ -26,5 +26,9 @@ export default {
     evening {Guten Abend}
     night {Gute Nacht}
     other {Guten Tag}
-  } {displayName}!`
+  } {displayName}!`,
+    'user.verification.publishedAuthor': 'Geprüfte Persönlichkeiten des öffentlichen Lebens',
+    'user.verification.luAuthor': 'Bemerkenswerter Autor aus dem literarischen Universum',
+    'user.verification.luEmployee': 'Mitarbeiter von Literary Universe',
+    'user.verification.publicFigure': 'Geprüfte Persönlichkeit des öffentlichen Lebens'
 };

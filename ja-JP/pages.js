@@ -32,6 +32,7 @@ export default {
     'gdpr.compliant.text': '文学の宇宙では、2018年5月25日のGDPR施行に向けて、コードベースの様々なアップデートや変更を実施しました。',
     'common.legal.dmca': 'DMCA',
     'common.legal.dmca.long': 'デジタルミレニアム著作権法(Digital Millennium Copyright Act)',
+    'common.legal.changelog': 'このバージョンの新機能',
     'dmca.title': 'デジタルミレニアム著作権法(DMCA)ポリシー',
     'dmca.subtitle': '著作権紛争の方針',
     'dmca.step1.title': '著作権侵害の報告の手順',

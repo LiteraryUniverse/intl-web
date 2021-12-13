@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'Ничего не найдено',
     'common.explore': 'Проводник',
     'common.by': 'от ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Блокнот',
     'common.scratchpad.own': 'Ваш блокнот',
     'common.news': 'Новости',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Публиковать',
     'common.publishAt': 'Дата и время публикации',
     'a11y.user.menu': 'User menu',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Your profile',
     'profile.website': 'My personal website',
     'story.notes.concept': 'Concept',

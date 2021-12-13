@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'Nic nenalezeno',
     'common.explore': 'Objev',
     'common.by': 'od ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Zápisník',
     'common.scratchpad.own': 'Váš Zápisník',
     'common.news': 'Novinky',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Zveřejnit',
     'common.publishAt': 'Datum a čas zveřejnění',
     'a11y.user.menu': 'Uživatelské menu',
+    'a11y.navigation': 'Navigace',
     'dashboard.profile': 'Váš profil',
     'profile.website': 'Moje osobní stránka',
     'story.notes.concept': 'Koncept',

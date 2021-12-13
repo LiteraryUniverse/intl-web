@@ -32,6 +32,7 @@ export default {
     'gdpr.compliant.text': 'Literary Universe implementoval rôzne aktualizácie a zmeny vo svojej kódovej základni v rámci príprav na zavedenie GDPR 25. mája 2018.',
     'common.legal.dmca': 'DMCA',
     'common.legal.dmca.long': 'Zákon o autorských právach digitálneho tisícročia',
+    'common.legal.changelog': 'Zmeny v teto verzii',
     'dmca.title': 'Zásady zákona o autorských právach v digitálnom tisícročí (DMCA)',
     'dmca.subtitle': 'Zásady riešenia sporov týkajúcich sa autorských práv',
     'dmca.step1.title': 'Postup pri nahlasovaní porušenia autorských práv.',

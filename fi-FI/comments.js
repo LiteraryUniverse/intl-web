@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'Kirjoita kommenttisi',
+    'comments.none': 'Anteeksi, ei kommentteja näytettäväksi.',
+    'comments.total': `{count, plural,
+    =0 {Ei kommentteja}
+    one {On 1 kommentti}
+    other {On # kommenttia}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Näytä vanhemmat kommentit'
 };

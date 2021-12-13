@@ -8,7 +8,7 @@ export default {
     'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
     'site.logoAlt': 'Literary Universe logo',
-    mobileMenu: 'Mobile menu',
+    mobileMenu: 'Menu móvel',
     'common.signin': 'Login',
     'common.signup': 'Register',
     'common.signout': 'Logout',
@@ -43,7 +43,7 @@ export default {
     'common.nothingfound': 'Nothing found',
     'common.explore': 'Explore',
     'common.by': 'by ',
-    // keep the space at the end as username follows
+    // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
     'common.news': 'News',
@@ -157,6 +157,7 @@ export default {
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
     'a11y.user.menu': 'User menu',
+    'a11y.navigation': 'Navigation',
     'dashboard.profile': 'Your profile',
     'profile.website': 'My personal website',
     'story.notes.concept': 'Concept',
