@@ -26,5 +26,9 @@ export default {
     evening {Buenas noches}
     night {Buenas noches}
     other {Buenas noches}
-  } {displayName}!`
+  } {displayName}!`,
+    'user.verification.publishedAuthor': 'This author has been published the traditional way',
+    'user.verification.luAuthor': 'Literary Universe based author of note',
+    'user.verification.luEmployee': 'Literary Universe employee',
+    'user.verification.publicFigure': 'Verified public figure'
 };
