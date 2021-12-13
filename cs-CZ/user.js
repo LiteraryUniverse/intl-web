@@ -28,8 +28,8 @@ export default {
     night {Dobrou noc}
     other {Dobrý den}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure'
+    'user.verification.publishedAuthor': 'Tento autor byl publikován tradičním způsobem',
+    'user.verification.luAuthor': 'Ověřený autor z Literary Universe',
+    'user.verification.luEmployee': 'Zaměstnanec Literary Universe',
+    'user.verification.publicFigure': 'Ověřená veřejná osoba'
 };
