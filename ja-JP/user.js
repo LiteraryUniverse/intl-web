@@ -20,8 +20,8 @@ export default {
     night {こんばんは}
     other {こんにちは}
   }{displayName}さん。`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure'
+    'user.verification.publishedAuthor': 'この作家は伝統的な方法で出版されている',
+    'user.verification.luAuthor': '文学の宇宙での注目の作家',
+    'user.verification.luEmployee': '文学の宇宙社員',
+    'user.verification.publicFigure': '検証された公人'
 };
