@@ -10,7 +10,7 @@ export default {
     'site.logoAlt': 'Literary Universe logo',
     mobileMenu: 'Mobile menu',
     'common.signin': 'Login',
-    'common.signup': 'Register',
+    'common.signup': 'Rekisteröidy',
     'common.signout': 'Logout',
     'common.dashboard': 'Dashboard',
     'common.discovery': 'Discovery',
