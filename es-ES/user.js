@@ -27,8 +27,8 @@ export default {
     night {Buenas noches}
     other {Buenas noches}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure'
+    'user.verification.publishedAuthor': 'Este autor ha sido publicado de forma tradicional',
+    'user.verification.luAuthor': 'Autor destacado del Universo Literario',
+    'user.verification.luEmployee': 'Empleado del Universo Literario',
+    'user.verification.publicFigure': 'Personaje público verificado'
 };
