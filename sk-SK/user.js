@@ -27,5 +27,9 @@ export default {
     evening {Dobrý večer}
     night {Dobrú noc}
     other {Dobrú noc}
-  } {displayName}!`
+  } {displayName}!`,
+    'user.verification.publishedAuthor': 'This author has been published the traditional way',
+    'user.verification.luAuthor': 'Literary Universe based author of note',
+    'user.verification.luEmployee': 'Literary Universe employee',
+    'user.verification.publicFigure': 'Verified public figure'
 };
