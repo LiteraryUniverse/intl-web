@@ -28,6 +28,7 @@ import writer from './writer'
 import universe from './universe'
 import audit from './audit'
 import user from './user'
+import forums from './forums'
 
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -60,5 +61,6 @@ export default {
   ...legal,
   ...universe,
   ...audit,
-  ...user
+  ...user,
+  ...forums
 }
