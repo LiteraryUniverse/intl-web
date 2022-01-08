@@ -39,7 +39,7 @@ export default {
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
+    'blog.social.website': 'Trang web chính thức',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
