@@ -1,9 +1,9 @@
 export default {
   'forums.create': 'Enable forums',
-  'forums.archive': 'Archive forums',
+  'forums.archive': 'Archivovat fórum',
   'forums.archive.explained': 'Archiving forum will prevent users from posting any further content, but it will remain visible.',
-  'forums.archive.success': 'Forum has been archived',
-  'forums.unArchive': 'Re-activate forums',
+  'forums.archive.success': 'Fórum bylo archivováno',
+  'forums.unArchive': 'Znovu aktivovat fórum',
   'forums.unArchive.success': 'Forum has been re-activated!',
   'forums.settings': 'Forum settings',
   'forums.category.create': 'Create forum category',
