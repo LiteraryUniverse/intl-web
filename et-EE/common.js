@@ -85,7 +85,7 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Privacy Policy',
     'common.legal.copyright': 'Copyright Agreement',
-    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
+    'common.legal.newVersionAvailable': 'Käesoleva dokumendi uus versioon ({newVersion}) jõustub {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'Not high enough membership rank',
     'premium.only.msg': 'We apologize, your membership rank is not high enough to access this feature.',
