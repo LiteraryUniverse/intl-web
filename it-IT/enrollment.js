@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Richiedi il tuo account!',
+    'enrollment.description': 'Benvenuto/a {username}! Per accedere al tuo account speciale devi solo creare una password.',
+    'enrollment.submitting': 'Rivendicazione del tuo account...',
+    'enrollment.submit': 'Richiedi il tuo account!'
 };
