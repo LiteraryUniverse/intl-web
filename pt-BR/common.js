@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Diretrizes Comunitárias',
     'common.legal.privacy': 'Política de Privacidade',
     'common.legal.copyright': 'Acordo de Copyright',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Todos os direitos reservados, todos os textos pertencem a seus respectivos autores.',
     'premium.only.title': 'Não é suficientemente alto para ser membro',
     'premium.only.msg': 'Pedimos desculpas, sua posição de membro não é alta o suficiente para acessar este recurso.',
