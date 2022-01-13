@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2022-01-13 - v1.6.3
+
+* Added `common.legal.newVersionAvailable` key
+
 ## 2021-12-13 - v1.6.2
 
 * Added `a11y.navigation` for missing aria description
