@@ -85,7 +85,7 @@ export default {
     'common.legal.community': 'Leitlinien der Gemeinschaft',
     'common.legal.privacy': 'Datenschutzrichtlinie',
     'common.legal.copyright': 'Copyright-Vereinbarung',
-    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
+    'common.legal.newVersionAvailable': 'Eine neue Version ({newVersion}) dieses Dokuments tritt am {effectiveAt, date} in Kraft.',
     'common.legal.disclaimer': '© {year} Alle Rechte vorbehalten, alle Texte gehören ihren jeweiligen Autoren.',
     'premium.only.title': 'Nicht ausreichend hoher Mitgliedsrang',
     'premium.only.msg': 'Entschuldigung, Ihr Mitgliedsrang ist nicht hoch genug, um auf diese Funktion zuzugreifen.',
