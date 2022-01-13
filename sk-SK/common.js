@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Usmernenia Spoločenstva',
     'common.legal.privacy': 'Zásady ochrany osobných údajov',
     'common.legal.copyright': 'Dohoda o autorských právach',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všetky práva vyhradené, všetky texty patria ich autorom.',
     'premium.only.title': 'Nedostatočne vysoká členská hodnosť',
     'premium.only.msg': 'Ospravedlňujeme sa, vaša členská hodnosť nie je dostatočne vysoká na prístup k tejto funkcii.',
