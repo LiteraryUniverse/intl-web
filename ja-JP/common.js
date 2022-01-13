@@ -85,7 +85,7 @@ export default {
     'common.legal.community': 'コミュニティ・ガイドライン',
     'common.legal.privacy': 'プライバシーポリシー',
     'common.legal.copyright': '著作権規約',
-    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
+    'common.legal.newVersionAvailable': 'この文書の新しいバージョン（{newVersion}）は、{effectiveAt, date}に発効する予定です。',
     'common.legal.disclaimer': '© {year} すべての文章の著作権は、それぞれの著者に帰属します。',
     'premium.only.title': '会員ランクが十分に高くない',
     'premium.only.msg': '申し訳ありませんが、あなたの会員ランクはこの機能を利用するには十分ではありません。',
