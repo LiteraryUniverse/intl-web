@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Pravidla komunity',
     'common.legal.privacy': 'Zásady ochrany osobních údajů',
     'common.legal.copyright': 'Prohlášení o autorských právech',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich příslušným autorům.',
     'premium.only.title': 'Nedostatečné hodnost členství',
     'premium.only.msg': 'Omlouváme se, ale Vaše členství nemá povolenou tuto funkcionalitu.',
