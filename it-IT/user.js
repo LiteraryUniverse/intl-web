@@ -1,21 +1,21 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
+    'user.friend.request.add': 'Aggiungi agli amici',
+    'user.friend.requests': `Hai {num, number}
     zero {requests}
-    one {request}
-    many {requests}
-  }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    una {request}
+    molte {requests}
+  } d'amicizia`,
+    'user.friend.unfriend': 'Rimuovi',
+    'user.block': 'Blocca',
+    'user.unblock': 'Sblocca',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
+    male {Aggiunto}
+    female {Aggiunta}
+other {Aggiunti}} il {date, date,long}`,
+    'user.friend.request.accept': 'Accetta richiesta di amicizia',
+    'user.friend.request.cancel': 'Cancella richiesta di amicizia',
+    'user.friend.request.deny': 'Rifiuta amicizia',
+    'user.listing': 'Lista utenti',
     'user.profile.visit': 'Visit {user}\'s profile.',
     'user.profile.avatar': '{username}\'s avatar',
     'user.friend.list.requests': 'Friendships requests',
