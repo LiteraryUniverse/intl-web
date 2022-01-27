@@ -47,5 +47,8 @@ export default {
     'blogs.new': 'Najnovšie blogy',
     'blogs.title': 'Blogy Literary Universe',
     'blogs.description': 'Zoznam blogov na platforme Literary Universe.',
-    'blogs.visit': 'Navštíviť blog'
+    'blogs.visit': 'Navštíviť blog',
+    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forums': 'Forums'
 };
