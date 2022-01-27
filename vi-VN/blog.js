@@ -46,5 +46,8 @@ export default {
     'blogs.new': 'Blog mới nhất',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog'
+    'blogs.visit': 'Visit blog',
+    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forums': 'Forums'
 };
