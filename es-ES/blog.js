@@ -46,5 +46,8 @@ export default {
     'blogs.new': 'Blogs más recientes',
     'blogs.title': 'Blogs de Literary Universe',
     'blogs.description': 'Lista de blogs en la plataforma de Literary Universe.',
-    'blogs.visit': 'Visitar blog'
+    'blogs.visit': 'Visitar blog',
+    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forums': 'Forums'
 };
