@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2022-0X-XX - v1.7.0
+
+* Added forums
+
 ## 2022-01-13 - v1.6.3
 
 * Added `common.legal.newVersionAvailable` key
