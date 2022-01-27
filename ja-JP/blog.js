@@ -45,5 +45,8 @@ export default {
     'blogs.new': '最新のブログ',
     'blogs.title': '文学の宇宙のブログ',
     'blogs.description': '文学の宇宙プラットフォーム上のブログの一覧。',
-    'blogs.visit': 'ブログへ行く'
+    'blogs.visit': 'ブログへ行く',
+    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forums': 'Forums'
 };
