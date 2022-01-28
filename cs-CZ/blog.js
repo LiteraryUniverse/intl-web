@@ -48,7 +48,7 @@ export default {
     'blogs.title': 'Blogy Literary Universe',
     'blogs.description': 'Blogy na Literary Universe platformě.',
     'blogs.visit': 'Navštívit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settingsAria': 'Kategorie nastavení pro blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forums': 'Forums'
+    'blog.settings.forums': 'Fórum'
 };
