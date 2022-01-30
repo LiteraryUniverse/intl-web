@@ -190,5 +190,6 @@ export default {
     'common.time.years': 'Évek',
     'common.monetization': 'Monetizáció',
     'common.tab.monetizationOptions': 'Monetizációs lehetőségek',
-    'common.pagination': 'Oldalszámozás'
+    'common.pagination': 'Oldalszámozás',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;
