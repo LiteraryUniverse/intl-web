@@ -48,5 +48,5 @@ export default {
     'blogs.visit': 'Blog besuchen',
     'blog.settingsAria': 'Settings categories for the blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forums': 'Forums'
+    'blog.settings.forum': 'Forum'
 };
