@@ -190,5 +190,6 @@ export default {
     'common.time.years': 'Roky',
     'common.monetization': 'Monetizácia',
     'common.tab.monetizationOptions': 'Možnosti monetizácie',
-    'common.pagination': 'Stránkovanie'
+    'common.pagination': 'Stránkovanie',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;
