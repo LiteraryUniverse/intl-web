@@ -190,5 +190,6 @@ export default {
     'common.time.years': 'Años',
     'common.monetization': 'Monetización',
     'common.tab.monetizationOptions': 'Opciones de monetización',
-    'common.pagination': 'Paginación'
+    'common.pagination': 'Paginación',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;
