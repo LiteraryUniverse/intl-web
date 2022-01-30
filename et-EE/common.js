@@ -190,5 +190,6 @@ export default {
     'common.time.years': 'Aastad',
     'common.monetization': 'Monetization',
     'common.tab.monetizationOptions': 'Monetization options',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Pagination',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;
