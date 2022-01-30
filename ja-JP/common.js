@@ -190,5 +190,6 @@ export default {
     'common.time.years': '年',
     'common.monetization': '収益化',
     'common.tab.monetizationOptions': '収益化オプション',
-    'common.pagination': 'ページング'
+    'common.pagination': 'ページング',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;
