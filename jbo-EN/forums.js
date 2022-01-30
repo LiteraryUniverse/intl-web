@@ -18,8 +18,11 @@ export default {
   'forums.post.new': 'New post',
   'forums.archived.forum': 'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
   'forums.category.archive': 'Archive category',
+  'forums.category.archiveExplained': 'Category that has no threads will be deleted, while categories with content will prevent creation of new threads.',
   'forums.category.reactivate': 'Re-activate category',
   'forums.category.isVotable': 'Allow users to up/down vote threads',
+  'forums.category.titleIsGlobal': 'This category title will be displayed in the user\'s language if we support it.',
+  'forums.category.languageLimited': 'This category will display only to users in this language.',
   // Pre-defined category names
   'forums.category.intlName.general': 'General',
   'forums.category.intlName.announcements': 'Announcements',
@@ -34,6 +37,9 @@ export default {
   'forums.category.intlName.art': 'Art',
   'forums.category.intlName.inspiration': 'Inspiration',
   'forums.category.intlName.news': 'News',
+  'forums.category.intlName.help': 'Help',
+  'forums.category.intlName.questions': 'Questions',
   // Forum restrictions
-  'forums.forumRestriction.usersOnly': 'Only allow access to registered users'
+  'forums.forumRestriction.usersOnly': 'Only allow access to registered users',
+  'forums.settings.accessControls': 'Access controls'
 };
