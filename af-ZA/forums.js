@@ -1,6 +1,6 @@
 export default {
-  'forums.create': 'Enable forums',
-  'forums.archive': 'Archive forums',
+  'forums.create': 'Enable forum',
+  'forums.archive': 'Archive forum',
   'forums.archive.explained': 'Archiving forum will prevent users from posting any further content, but it will remain visible.',
   'forums.archive.success': 'Forum has been archived',
   'forums.unArchive': 'Re-activate forums',
@@ -23,6 +23,7 @@ export default {
   'forums.category.isVotable': 'Allow users to up/down vote threads',
   'forums.category.titleIsGlobal': 'This category title will be displayed in the user\'s language if we support it.',
   'forums.category.languageLimited': 'This category will display only to users in this language.',
+  'forums.threadsCounter': 'Total number of topics discussions',
   // Pre-defined category names
   'forums.category.intlName.general': 'General',
   'forums.category.intlName.announcements': 'Announcements',
@@ -41,5 +42,6 @@ export default {
   'forums.category.intlName.questions': 'Questions',
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Only allow access to registered users',
-  'forums.settings.accessControls': 'Access controls'
+  'forums.settings.accessControls': 'Access controls',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'This forum is accessible only to registered users.'
 };
