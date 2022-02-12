@@ -50,5 +50,5 @@ export default {
     'blogs.visit': 'Navštívit blog',
     'blog.settingsAria': 'Kategorie nastavení pro blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum'
+    'blog.settings.forum': 'Fórum'
 };
