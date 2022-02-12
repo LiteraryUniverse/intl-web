@@ -191,5 +191,5 @@ export default {
     'common.monetization': 'Monetizace',
     'common.tab.monetizationOptions': 'Možnosti monetizace',
     'common.pagination': 'Stránkování',
-    'common.forum': 'Forum'
+    'common.forum': 'Fórum'
 }    /* eslint-enable max-len */;
