@@ -14,5 +14,6 @@ export default {
     'writer.wordcount': '{characters, number} znaków, {words, number} słów',
     'finder.details': 'szczegóły',
     'finder.remove': 'usuń połączenie',
-    'finder.connect': 'Połącz zaznaczenie z wpisem encyklopedii'
+    'finder.connect': 'Połącz zaznaczenie z wpisem encyklopedii',
+    'writer.aside.ariaLabel': 'Help options menu'
 };
