@@ -40,8 +40,18 @@ export default {
   'forums.category.intlName.news': 'Novinky',
   'forums.category.intlName.help': 'Pomoc',
   'forums.category.intlName.questions': 'Otázky',
+  'forums.category.back': 'Back to forum overview',
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Povolit přístup pouze registrovaným uživatelům',
   'forums.settings.accessControls': 'Nastavení přístupů',
-  'forums.forumRestrictionsMessages.usersOnlyForum': 'Toto fórum je přístupné pouze registrovaným uživatelům.'
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Toto fórum je přístupné pouze registrovaným uživatelům.',
+  'forums.noThreads': 'Nothing to see here. It is up to you to start conversation.',
+  'forums.noPosts': 'No one has replied yet. Be the first!',
+  // Threads
+  'forums.createThread': 'Create a new discussion',
+  'forums.createThreadIn': 'Create a new thread in {categoryName}',
+  'forums.openingPost': 'Opening post',
+  'forums.createQuestionLabel': 'Is this a question?',
+  'forums.thread.noReplies': 'There are currently no replies here.',
+  'forums.reply': 'Reply'
 };
