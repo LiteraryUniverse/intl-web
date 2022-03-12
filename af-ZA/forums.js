@@ -40,8 +40,18 @@ export default {
   'forums.category.intlName.news': 'News',
   'forums.category.intlName.help': 'Help',
   'forums.category.intlName.questions': 'Questions',
+  'forums.category.back': 'Back to forum overview',
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Only allow access to registered users',
   'forums.settings.accessControls': 'Access controls',
-  'forums.forumRestrictionsMessages.usersOnlyForum': 'This forum is accessible only to registered users.'
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'This forum is accessible only to registered users.',
+  'forums.noThreads': 'Nothing to see here. It is up to you to start conversation.',
+  'forums.noPosts': 'No one has replied yet. Be the first!',
+  // Threads
+  'forums.createThread': 'Create a new discussion',
+  'forums.createThreadIn': 'Create a new thread in {categoryName}',
+  'forums.openingPost': 'Opening post',
+  'forums.createQuestionLabel': 'Is this a question?',
+  'forums.thread.noReplies': 'There are currently no replies here.',
+  'forums.reply': 'Reply'
 };
