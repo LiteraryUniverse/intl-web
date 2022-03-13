@@ -61,8 +61,8 @@ export default {
   'forums.yourMessage': 'Your message',
   'forums.thread.replyPosted': 'Your message has been posted',
   'forums.thread.totalPosts': `{totalReplies, number} {totalReplies, plural,
-    one {reply}
-    other {replies}
+    one {resposta}
+    other {respostas}
   }`,
   'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
 };
