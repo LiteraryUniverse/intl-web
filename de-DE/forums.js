@@ -52,17 +52,17 @@ export default {
   'forums.createThreadIn': 'Erstellen Sie ein neues Thema in {categoryName}',
   'forums.openingPost': 'Eröffnungsposten',
   'forums.createQuestionLabel': 'Ist das eine Frage?',
-  'forums.thread.noReplies': 'There are currently no replies here.',
-  'forums.reply': 'Reply',
-  'forums.post': 'Post',
-  'forums.posting': 'Posting...',
+  'forums.thread.noReplies': 'Derzeit liegen keine Antworten vor.',
+  'forums.reply': 'Antwort',
+  'forums.post': 'Beitrag',
+  'forums.posting': 'Veröffentliche...',
   'forums.reset': 'Reset',
-  'forum.thread.reply': 'Add a reply to this thread',
-  'forums.yourMessage': 'Your message',
-  'forums.thread.replyPosted': 'Your message has been posted',
+  'forum.thread.reply': 'Eine Antwort zu diesem Thema hinzufügen',
+  'forums.yourMessage': 'Ihre Nachricht',
+  'forums.thread.replyPosted': 'Ihre Nachricht wurde veröffentlicht',
   'forums.thread.totalPosts': `{totalReplies, number} {totalReplies, plural,
     one {Antwort}
     other {Antworten}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
+  'forums.thread.createdAt': 'Erstellt am {createdAt, date, medium}'
 };
