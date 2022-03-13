@@ -40,29 +40,31 @@ export default {
   'forums.category.intlName.news': 'Novinky',
   'forums.category.intlName.help': 'Pomoc',
   'forums.category.intlName.questions': 'Otázky',
-  'forums.category.back': 'Back to forum overview',
+  'forums.category.back': 'Zpět na přehled fóra',
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Povolit přístup pouze registrovaným uživatelům',
   'forums.settings.accessControls': 'Nastavení přístupů',
   'forums.forumRestrictionsMessages.usersOnlyForum': 'Toto fórum je přístupné pouze registrovaným uživatelům.',
-  'forums.noThreads': 'Nothing to see here. It is up to you to start conversation.',
-  'forums.noPosts': 'No one has replied yet. Be the first!',
+  'forums.noThreads': 'Zatím tu nic není. Je na Vás něco začít.',
+  'forums.noPosts': 'Zatím nikdo neodpověděl. Buďte první!',
   // Threads
-  'forums.createThread': 'Create a new discussion',
-  'forums.createThreadIn': 'Create a new thread in {categoryName}',
-  'forums.openingPost': 'Opening post',
-  'forums.createQuestionLabel': 'Is this a question?',
-  'forums.thread.noReplies': 'There are currently no replies here.',
-  'forums.reply': 'Reply',
-  'forums.post': 'Post',
-  'forums.posting': 'Posting...',
-  'forums.reset': 'Reset',
-  'forum.thread.reply': 'Add a reply to this thread',
-  'forums.yourMessage': 'Your message',
-  'forums.thread.replyPosted': 'Your message has been posted',
+  'forums.createThread': 'Vytvořit novou diskuzi',
+  'forums.createThreadIn': 'Vytvořit novou diskusi v {categoryName}',
+  'forums.openingPost': 'Úvodní příspěvek',
+  'forums.createQuestionLabel': 'Je toto otázka?',
+  'forums.thread.noReplies': 'V současné době nejsou žádné odpovědi.',
+  'forums.reply': 'Odpovědět',
+  'forums.post': 'Poslat',
+  'forums.posting': 'Odesílám...',
+  'forums.reset': 'Resetovat',
+  'forum.thread.reply': 'Přidat odpověď do této diskuse',
+  'forums.yourMessage': 'Vaše zpráva',
+  'forums.thread.replyPosted': 'Vaše zpráva byla odeslána',
   'forums.thread.totalPosts': `{totalReplies, number} {totalReplies, plural,
-    one {reply}
-    other {replies}
+    one {odpověď}
+    few {odpovědi}
+    many {odpovědí}
+    other {odpovědí}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
+  'forums.thread.createdAt': 'Vytvořeno {createdAt, date, medium}'
 };
