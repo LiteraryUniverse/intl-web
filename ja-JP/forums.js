@@ -60,9 +60,8 @@ export default {
   'forum.thread.reply': 'Add a reply to this thread',
   'forums.yourMessage': 'Your message',
   'forums.thread.replyPosted': 'Your message has been posted',
-  'forums.thread.totalPosts': `{totalReplies, number} {totalReplies, plural,
-    one {reply}
-    other {replies}
+  'forums.thread.totalPosts': `{totalReplies, number}{totalReplies, plural,
+    other {件の返信}
   }`,
   'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
 };
