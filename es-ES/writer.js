@@ -15,5 +15,5 @@ export default {
     'finder.details': 'detalles',
     'finder.remove': 'quitar la conexión',
     'finder.connect': 'Conectar selección a la entrada de la enciclopedia',
-    'writer.aside.ariaLabel': 'Help options menu'
+    'writer.aside.ariaLabel': 'Menú de opciones de ayuda'
 };
