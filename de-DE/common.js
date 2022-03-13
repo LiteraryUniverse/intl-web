@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Leitlinien der Gemeinschaft',
     'common.legal.privacy': 'Datenschutzrichtlinie',
     'common.legal.copyright': 'Copyright-Vereinbarung',
+    'common.legal.newVersionAvailable': 'Eine neue Version ({newVersion}) dieses Dokuments tritt am {effectiveAt, date} in Kraft.',
     'common.legal.disclaimer': '© {year} Alle Rechte vorbehalten, alle Texte gehören ihren jeweiligen Autoren.',
     'premium.only.title': 'Nicht ausreichend hoher Mitgliedsrang',
     'premium.only.msg': 'Entschuldigung, Ihr Mitgliedsrang ist nicht hoch genug, um auf diese Funktion zuzugreifen.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Jahre',
     'common.monetization': 'Monetarisierung',
     'common.tab.monetizationOptions': 'Monetarisierungsoptionen',
-    'common.pagination': 'Paginierung'
+    'common.pagination': 'Paginierung',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;

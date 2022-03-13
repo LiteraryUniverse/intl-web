@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Usmernenia Spoločenstva',
     'common.legal.privacy': 'Zásady ochrany osobných údajov',
     'common.legal.copyright': 'Dohoda o autorských právach',
+    'common.legal.newVersionAvailable': 'Nová verzia ({newVersion}) tohto dokumentu nadobudne účinnosť dňa {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všetky práva vyhradené, všetky texty patria ich autorom.',
     'premium.only.title': 'Nedostatočne vysoká členská hodnosť',
     'premium.only.msg': 'Ospravedlňujeme sa, vaša členská hodnosť nie je dostatočne vysoká na prístup k tejto funkcii.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Roky',
     'common.monetization': 'Monetizácia',
     'common.tab.monetizationOptions': 'Možnosti monetizácie',
-    'common.pagination': 'Stránkovanie'
+    'common.pagination': 'Stránkovanie',
+    'common.forum': 'Fórum'
 }    /* eslint-enable max-len */;

@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Правила спільноти',
     'common.legal.privacy': 'Політика конфіденційності',
     'common.legal.copyright': 'Угода про авторські права',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Всі права захищені, всі тексти належать їх відповідним авторам.',
     'premium.only.title': 'Недостатньо високий рівень членства',
     'premium.only.msg': 'Ми приносимо вибачення, ваш рівень членства недостатньо високий, щоб отримати доступ до цієї функції.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Роки',
     'common.monetization': 'Monetization',
     'common.tab.monetizationOptions': 'Monetization options',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Pagination',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;

@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Linee guida della community',
     'common.legal.privacy': 'Condizioni sulla Privacy',
     'common.legal.copyright': 'Accordo Copyright',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Tutti i diritti riservati, tutti i testi appartengono ai rispettivi autori.',
     'premium.only.title': 'Grado di iscrizione non sufficiente',
     'premium.only.msg': 'Ci scusiamo, il tuo grado di iscrizione non è abbastanza alto per accedere a questa funzionalità.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Anni',
     'common.monetization': 'Monetizzazione',
     'common.tab.monetizationOptions': 'Opzioni di monetizzazione',
-    'common.pagination': 'Impaginazione'
+    'common.pagination': 'Impaginazione',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;

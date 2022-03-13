@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Gemeenskapsriglyne',
     'common.legal.privacy': 'Privaatheidsbeleid',
     'common.legal.copyright': 'Kopiereg ooreenkoms',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Alle regte voorbehou, alle tekste behoort aan hul onderskeie outeurs.',
     'premium.only.title': 'Nie hoë genoeg litmaatskap',
     'premium.only.msg': 'Ons vra om verskoning, u lidmaatskap is nie hoog genoeg om toegang tot hierdie funksie te kry nie.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Jare',
     'common.monetization': 'Monetization',
     'common.tab.monetizationOptions': 'Monetization options',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Pagination',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;

@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
+    'feed.name': 'Diretta',
+    'feed.post.new': 'Nuovo post',
+    'feed.post.like': 'Metti mi piace',
+    'feed.post.unlike': 'Togli mi piace',
     'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.empty': 'Nessuna voce nel feed.'
 };

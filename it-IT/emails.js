@@ -20,28 +20,28 @@ export default {
     'email.enrollAccount.welcome': 'Benvenuto/a a bordo',
     'email.enrollAccount.messageHtml': 'Ti invitiamo a Literary Universe! Abbiamo creato il tuo speciale account personale dove puoi accedere a tutte le funzionalità di Literary Universe! Unisciti a noi per dare vita alla prossima generazione di scrittura creativa e strumenti di lettura!',
     'email.enrollAccount.button': 'Accedi al tuo account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Non vediamo l\'ora di vederti,<br />il team di Literary Universe',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Abbiamo ricevuto una richiesta per reimpostare la password del tuo account, clicca sul pulsante qui sotto per continuare il processo. Se non hai effettuato la richiesta, puoi ignorare questa e-mail, ma potrebbe essere una buona occasione per rivedere le tue impostazioni di sicurezza.',
+    'email.resetPassword.button': 'Reimposta password',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Siamo felici di averti con noi! Clicca il pulsante qui sotto per verificare questo indirizzo e-mail.',
+    'email.verifyEmail.button': 'Verifica indirizzo e-mail',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.subject': 'Il tuo account è stato aggiornato',
+    'email.adminUpgrade.message': `Abbiamo aggiornato il tuo account a livello {plan, select,
+    explorer {Esploratore}
+    adventurer {Avventuriero}
+    storyteller {Cantastorie}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } per i prossimi {days} giorni.\n\nDivertiti,\nil team di Literary Universe`,
+    'email.adminUpgrade.messageHtml': `Abbiamo aggiornato il tuo account a livello {plan, select,
+    explorer {Esploratore}
+    adventurer {Avventuriero}
+    storyteller {Cantastorie}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } per i prossimi {days} giorni. Divertiti!`,
+    'email.verification': 'Verifica e-mail',
+    'email.verifying': 'Verifica della tua e-mail. Ci vorrà solo un momento...',
+    'email.verified': 'Buone notizie! La tua e-mail è stata verificata!'
 };    /* eslint-enable max-len */

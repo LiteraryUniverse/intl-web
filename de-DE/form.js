@@ -1,4 +1,5 @@
 export default {
+    'form.requiredSymbol': '*',
     'form.validator.required': 'Benötigtes Feld',
     'form.validator.mustBeNumber': 'Muss eine Zahl sein',
     'form.validator.minNumber': 'Muss größer als {min, number} sein',

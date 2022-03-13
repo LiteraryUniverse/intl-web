@@ -1,4 +1,5 @@
 export default {
+    'form.requiredSymbol': '*',
     'form.validator.required': 'Υποχρεωτικό πεδίο',
     'form.validator.mustBeNumber': 'Πρέπει να είναι αριθμός',
     'form.validator.minNumber': 'Should be greater than {min, number}',

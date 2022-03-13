@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Privacy Policy',
     'common.legal.copyright': 'Copyright Agreement',
+    'common.legal.newVersionAvailable': 'Tämän asiakirjan uusi versio ({newVersion}) tulee voimaan {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Kaikki oikeudet pidätetään, kaikki tekstit kuuluvat tekijöilleen.',
     'premium.only.title': 'Not high enough membership rank',
     'premium.only.msg': 'We apologize, your membership rank is not high enough to access this feature.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Years',
     'common.monetization': 'Monetization',
     'common.tab.monetizationOptions': 'Monetization options',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Pagination',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;

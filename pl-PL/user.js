@@ -27,7 +27,7 @@ export default {
     night {Dobrej nocy}
     other {Dzień dobry}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
+    'user.verification.publishedAuthor': 'Ten autor został opublikowany jako tradycyjny sposób',
     'user.verification.luAuthor': 'Literary Universe based author of note',
     'user.verification.luEmployee': 'Literary Universe employee',
     'user.verification.publicFigure': 'Verified public figure'

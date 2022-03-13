@@ -14,5 +14,6 @@ export default {
     'writer.wordcount': '{characters, number} znakov, {words, number} slov',
     'finder.details': 'podrobnosti',
     'finder.remove': 'odstrániť spojenie',
-    'finder.connect': 'Pripojenie výberu k záznamu v encyklopédii'
+    'finder.connect': 'Pripojenie výberu k záznamu v encyklopédii',
+    'writer.aside.ariaLabel': 'Menu postráního panelu'
 };

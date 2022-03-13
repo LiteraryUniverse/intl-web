@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Pravidla komunity',
     'common.legal.privacy': 'Zásady ochrany osobních údajů',
     'common.legal.copyright': 'Prohlášení o autorských právech',
+    'common.legal.newVersionAvailable': 'Nová verze ({newVersion}) tohoto dokumentu vstoupí v platnost dne {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich příslušným autorům.',
     'premium.only.title': 'Nedostatečné hodnost členství',
     'premium.only.msg': 'Omlouváme se, ale Vaše členství nemá povolenou tuto funkcionalitu.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Roky',
     'common.monetization': 'Monetizace',
     'common.tab.monetizationOptions': 'Možnosti monetizace',
-    'common.pagination': 'Stránkování'
+    'common.pagination': 'Stránkování',
+    'common.forum': 'Fórum'
 }    /* eslint-enable max-len */;

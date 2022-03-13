@@ -1,4 +1,5 @@
 export default {
+    'form.requiredSymbol': '*',
     'form.validator.required': '必須項目',
     'form.validator.mustBeNumber': '数値を指定してください',
     'form.validator.minNumber': '{min, number}以上であること',

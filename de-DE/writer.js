@@ -14,5 +14,6 @@ export default {
     'writer.wordcount': '{characters, number} Zeichen, {words, number} Wörter',
     'finder.details': 'Details',
     'finder.remove': 'entfernen Sie die Verbindung',
-    'finder.connect': 'Auswahl mit Enzyklopädieeintrag verbinden'
+    'finder.connect': 'Auswahl mit Enzyklopädieeintrag verbinden',
+    'writer.aside.ariaLabel': 'Menü Hilfeoptionen'
 };

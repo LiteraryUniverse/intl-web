@@ -1,4 +1,5 @@
 export default {
+    'form.requiredSymbol': '*',
     'form.validator.required': 'Deviga kampo',
     'form.validator.mustBeNumber': 'Must be a number',
     'form.validator.minNumber': 'Should be greater than {min, number}',

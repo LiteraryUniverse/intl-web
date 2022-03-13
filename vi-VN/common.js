@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Quy tắc cộng đồng',
     'common.legal.privacy': 'Chính Sách Quyền Riêng Tư',
     'common.legal.copyright': 'Copyright Agreement',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'Xếp hàng thành viên không đủ',
     'premium.only.msg': 'Chúng tôi rất xin lỗi, thứ hạng thành viên của bạn chưa đủ để truy cập tính năng này.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Năm',
     'common.monetization': 'Monetization',
     'common.tab.monetizationOptions': 'Monetization options',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Pagination',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;

@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Diretrizes Comunitárias',
     'common.legal.privacy': 'Política de Privacidade',
     'common.legal.copyright': 'Acordo de Copyright',
+    'common.legal.newVersionAvailable': 'Uma nova versão ({newVersion}) deste documento entrará em vigor em {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Todos os direitos reservados, todos os textos pertencem a seus respectivos autores.',
     'premium.only.title': 'Não é suficientemente alto para ser membro',
     'premium.only.msg': 'Pedimos desculpas, sua posição de membro não é alta o suficiente para acessar este recurso.',
@@ -166,7 +167,7 @@ export default {
     'story.notes.impact': 'Impacto desejado',
     'story.notes.outcome': 'Resultado',
     'story.notes.audience': 'Público Alvo',
-    'story.notes.pitch': 'Pitch',
+    'story.notes.pitch': 'Passo',
     'story.notes.notes': 'Notas',
     'story.authorsNotes': 'Notas do autor',
     'common.members': 'Membros',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Anos',
     'common.monetization': 'Monetização',
     'common.tab.monetizationOptions': 'Opções de Monetização',
-    'common.pagination': 'Paginação'
+    'common.pagination': 'Paginação',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;

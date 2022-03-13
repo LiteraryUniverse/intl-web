@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Striimi',
+    'feed.post.new': 'Uusi virka',
+    'feed.post.like': 'Tykkää viestistä',
+    'feed.post.unlike': 'Toisin kuin viesti',
+    'feed.post.send': 'Lähetä',
+    'feed.empty': 'Syötteessä ei ole merkintöjä.'
 };

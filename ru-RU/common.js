@@ -85,6 +85,7 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Политика конфиденциальности',
     'common.legal.copyright': 'Соглашение об авторских правах',
+    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Все права защищены, все тексты принадлежат их авторам.',
     'premium.only.title': 'Not high enough membership rank',
     'premium.only.msg': 'We apologize, your membership rank is not high enough to access this feature.',
@@ -189,5 +190,6 @@ export default {
     'common.time.years': 'Годы',
     'common.monetization': 'Монетизация',
     'common.tab.monetizationOptions': 'Monetization options',
-    'common.pagination': 'Pagination'
+    'common.pagination': 'Pagination',
+    'common.forum': 'Forum'
 }    /* eslint-enable max-len */;
