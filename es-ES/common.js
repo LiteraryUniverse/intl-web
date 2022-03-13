@@ -191,5 +191,5 @@ export default {
     'common.monetization': 'Monetización',
     'common.tab.monetizationOptions': 'Opciones de monetización',
     'common.pagination': 'Paginación',
-    'common.forum': 'Forum'
+    'common.forum': 'Foro'
 }    /* eslint-enable max-len */;
