@@ -28,7 +28,7 @@ export default {
     other {Dzień dobry}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Ten autor został opublikowany jako tradycyjny sposób',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure'
+    'user.verification.luAuthor': 'Autorka z Literackiego Wszechświata',
+    'user.verification.luEmployee': 'Pracownik Wszechświata Literackiego',
+    'user.verification.publicFigure': 'Zweryfikowana osoba publiczna'
 };
