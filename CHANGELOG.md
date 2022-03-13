@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2022-0X-XX - v1.7.0
+## 2022-03-13 - v1.7.0
 
 * Added forums
 
