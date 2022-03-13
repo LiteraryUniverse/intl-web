@@ -15,5 +15,5 @@ export default {
     'finder.details': '詳細',
     'finder.remove': '接続解除',
     'finder.connect': '選択肢を百科事典の項目に接続',
-    'writer.aside.ariaLabel': 'Help options menu'
+    'writer.aside.ariaLabel': 'ヘルプオプションメニュー'
 };
