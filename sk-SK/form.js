@@ -4,17 +4,19 @@ export default {
     'form.validator.mustBeNumber': 'Musí být číslo',
     'form.validator.minNumber': 'Mala by byť väčšia ako {min, number}',
     'form.validator.maxNumber': 'Mala by byť nižšia ako {max, number}',
-    'form.validator.maxLength': `Mala by byť menšia ako {max, number} {what, select,
-    characters {znakov}
+    'form.validator.maxLength': `Should be less than {max, number} {what, select,
+    characters {characters}
     tags {tags}
-    genres {žánre}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Mala by byť aspoň {min, number} {what, select,
-    characters {znakov}
+    'form.validator.minLength': `Should be at least {min, number} {what, select,
+    characters {characters}
     tags {tags}
-    genres {žánre}
-    genre {žáner}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Musí to byť platný e-mail',
