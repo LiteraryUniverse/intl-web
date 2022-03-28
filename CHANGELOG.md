@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2022-03-28 - v1.8.0
+
+* Added 2-Factor Authentication
+* Added numbers to form's min/max selector
+
 ## 2022-03-13 - v1.7.0
 
 * Added forums
