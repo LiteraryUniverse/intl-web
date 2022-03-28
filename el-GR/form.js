@@ -8,6 +8,7 @@ export default {
     characters {characters}
     tags {tags}
     genres {genres}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.minLength': `Should be at least {min, number} {what, select,
@@ -15,6 +16,7 @@ export default {
     tags {tags}
     genres {genres}
     genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Πρέπει να είναι έγκυρο e-mail',
