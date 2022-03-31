@@ -69,7 +69,7 @@ export default {
     send_invoice {renewed after paying an invoice}
     other {}
   }.`,
-    'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
+    'plans.subscribed.paymentMethod': 'Do zapłaty za następny cykl zostanie użyta domyślna metoda płatności.',
     'plans.subscribed.status': `Subscription status: {status, select,
     active {Active}
     incomplete {There is something missing}
@@ -80,17 +80,17 @@ export default {
     unpaid {Unpaid}
     other {}
   }`,
-    'payments.changeMethod': 'Change payment method',
+    'payments.changeMethod': 'Zmień metodę płatności',
     'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
     'plans.cancel.button': 'Anuluj subskrypcję',
-    'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.',
-    'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
-    'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
-    'plans.cancel.restoreBtn': 'Restore subscription',
-    'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
+    'plans.cancel.question': 'Czy na pewno chcesz anulować subskrypcję? Twoja subskrypcja pozostanie aktywna do końca cyklu rozliczeniowego.',
+    'plans.cancel.confirmationButton': 'Tak, chcę anulować subskrypcję',
+    'plans.cancel.failed': 'Przepraszamy, ale w tej chwili nie możemy anulować Twojego planu. Prosimy spróbować ponownie później.',
+    'plans.cancel.restoreBtn': 'Przywrócenie subskrypcji',
+    'plans.cancel.restoreFailed': 'Przepraszamy, ale w tej chwili nie możemy przywrócić subskrypcji. Prosimy spróbować ponownie później.',
     'plans.change.button': 'Zmiana subskrypcji',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
-    'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
+    'plans.change.explanation': 'Wybierz plan, który chcesz zmienić na wyższy lub niższy. Różnica w cenie zostanie natychmiast naliczona.',
+    'plans.change.failed': 'Przepraszamy, w tej chwili nie możemy zmienić Twojego planu. Prosimy spróbować ponownie później.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'Payment information and processing is done via Stripe. We do not keep any credit card or bank account information on our servers.',
     'buy.payment.optionsSelect': 'Select payment option',
