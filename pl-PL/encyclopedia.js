@@ -143,9 +143,9 @@ export default {
     'encyclopedia.menuClose': 'Zamknij menu Encyklopedia',
     'encyclopedia.menuAria': 'Menu encyklopedii',
     'enc.newField': 'Nowe pole',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'enc.entries.limit': `Aktualnie masz {value, number} z {max, plural, one {} few {{max, number}} many {{max, number}}
+    =0 {nieograniczony}
     other {{max, number}}
-  } entries.`,
+  } wpisy.`,
     'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.'
 };
