@@ -191,5 +191,8 @@ export default {
     'common.monetization': 'Monetizácia',
     'common.tab.monetizationOptions': 'Možnosti monetizácie',
     'common.pagination': 'Stránkovanie',
-    'common.forum': 'Fórum'
+    'common.forum': 'Fórum',
+    'common.2faCode': 'Kód 2FA',
+    'common.2faCodeIntro': 'Zadajte svoj jednorazový kód vygenerovaný aplikáciou autentifikátora.',
+    'common.2faCodeAria': 'Formulár na zadanie kódu 2FA'
 }    /* eslint-enable max-len */;

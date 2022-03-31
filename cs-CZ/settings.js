@@ -71,5 +71,22 @@ export default {
     'settings.links.title': 'Odkazy na Vaše další webové stránky',
     'settings.links.description': 'Tyto odkazy se zobrazí na Vaší profilové stránce.',
     'settings.links.website': 'Vaše osobní stránka',
-    'settings.links.social': 'Ostatní webové stránky'
+    'settings.links.social': 'Ostatní webové stránky',
+    // 2FA
+    'settings.2fa.title': 'Dvoufázové ověření',
+    'settings.2fa.explained': 'Dvoufaktorové ověření poskytuje další vrstvu zabezpečení vašeho účtu přidáním dalšího kroku ověřování během přihlášení. To brání škodlivým aktérům získat přístup k vašemu účtu, pokud je váš první krok přihlášení zkompromitován.',
+    'settings.2fa.otpTitle': 'OTP',
+    'settings.2fa.otpExplained': 'Dvoufázové ověřování pomocí OTP kódu vytváří jednorázové heslo prostřednictvím autentizačních aplikací (jako je Authy, Google/Microsoft Authenticator, atd.), které zadáte při přihlášení.',
+    'settings.2fa.otpModalAria': '2FA OTP metoda',
+    'settings.2fa.otpAdd': 'Přidat 2FA OTP',
+    'settings.2fa.confirmCode': 'Kód, který se zobrazí ve Vaší ověřovací aplikaci',
+    'settings.2fa.svgAlt': 'QR kód pro autentikační aplikaci',
+    'settings.2fa.codeHeading': 'Pokud nelze naskenovat QR kód, můžete ručně zadat následující kód:',
+    'settings.2fa.instructionsTitle': 'Pokyny',
+    'settings.2fa.instructions1': 'Nainstalujte a otevřete autentikační aplikaci dle vašeho výběru (Authy, Google/Microsoft Authenticator, FreeOTP, atd.)',
+    'settings.2fa.instructions2': 'Zvolte "Přidat účet" (může být viditelná ikona "+" nebo může být skryta v nabídce)',
+    'settings.2fa.instructions3': 'Naskenujte QR kód na obrazovce nebo pokud to není možné, zadejte kód níže.',
+    'settings.2fa.instructions4': 'Zadejte 6 čísel, která se objeví na obrazovce do vstupu pro dokončení.',
+    'settings.2fa.saved': 'Dvoufaktorové ověření bylo úspěšně vytvořeno!',
+    'settings.2fa.disableOTP': 'Vypnout OTP dvoufaktorové ověřování'
 };

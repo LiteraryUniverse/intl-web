@@ -71,5 +71,22 @@ export default {
     'settings.links.title': 'Enlazar a tus otros sitios web',
     'settings.links.description': 'Estos enlaces se mostrarán en tu página de perfil.',
     'settings.links.website': 'Tu sitio web personal',
-    'settings.links.social': 'Otros sitios web'
+    'settings.links.social': 'Otros sitios web',
+    // 2FA
+    'settings.2fa.title': 'Two-factor authentication',
+    'settings.2fa.explained': 'Two-factor authentication provides an additional layer of security for your account by adding an additional authentication step during login. This prevents malicious actors from gaining access to your account if your first login step is compromised.',
+    'settings.2fa.otpTitle': 'OTP',
+    'settings.2fa.otpExplained': 'Two-factor authentication with OTP code creates one-time password via authenticator applications (like Authy, Google/Microsoft Authenticator, etc.) that you enter on login.',
+    'settings.2fa.otpModalAria': '2FA OTP method',
+    'settings.2fa.otpAdd': 'Add 2FA OTP',
+    'settings.2fa.confirmCode': 'Code that shows in your authentication application',
+    'settings.2fa.svgAlt': 'QR code for authentication app',
+    'settings.2fa.codeHeading': 'If you can\'t scan QR code, you can manually enter the following code:',
+    'settings.2fa.instructionsTitle': 'Instructions',
+    'settings.2fa.instructions1': 'Install and open authenticator application of your choice (Authy, Google/Microsoft Authenticator, FreeOTP, etc.)',
+    'settings.2fa.instructions2': 'Select "Add account" (can be a visible "+" icon or can be hidden in a menu)',
+    'settings.2fa.instructions3': 'Scan the QR code presented on the screen here or if not possible enter the code bellow.',
+    'settings.2fa.instructions4': 'Type in the 6 numbers that appear on the screen into the input here to finish.',
+    'settings.2fa.saved': 'Two-factor authentication successfully established!',
+    'settings.2fa.disableOTP': 'Disable OTP two-factor authentication'
 };

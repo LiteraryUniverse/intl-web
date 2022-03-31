@@ -4,10 +4,12 @@ export default {
     'form.validator.mustBeNumber': 'Musí být číslo',
     'form.validator.minNumber': 'Mala by byť väčšia ako {min, number}',
     'form.validator.maxNumber': 'Mala by byť nižšia ako {max, number}',
-    'form.validator.maxLength': `Mala by byť menšia ako {max, number} {what, select,
+    'form.validator.maxLength': `Mala by byť aspoň {max, number} {what, select,
     characters {znakov}
     tags {tags}
     genres {žánre}
+    genre {žáner}
+    numbers {čísel}
     other {}
   }`,
     'form.validator.minLength': `Mala by byť aspoň {min, number} {what, select,
@@ -15,6 +17,7 @@ export default {
     tags {tags}
     genres {žánre}
     genre {žáner}
+    numbers {čísel}
     other {}
   }`,
     'form.validator.email': 'Musí to byť platný e-mail',
