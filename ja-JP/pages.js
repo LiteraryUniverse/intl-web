@@ -46,7 +46,7 @@ export default {
     'gdpr.rectification.title': '訂正する権利',
     'gdpr.rectification.desc': '',
     'gdpr.processing.title': '処理の制限に関する権利',
-    'gdpr.processing.desc': '',
+    'gdpr.processing.desc': 'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
     'gdpr.object.title': '異議申し立ての権利',
     'gdpr.object.desc': '',
     'dmca.step1.desc1': '報告は2つのシナリオに分かれています。1. 内部財産（敷地内に存在する財産の敷地内での侵害）。2. 外部財産（敷地内に存在しない財産の敷地内での侵害）。',
