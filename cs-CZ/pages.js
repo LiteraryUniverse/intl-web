@@ -46,7 +46,7 @@ export default {
     'gdpr.rectification.title': 'Právo na opravu',
     'gdpr.rectification.desc': '',
     'gdpr.processing.title': 'Právo na omezení zpracování',
-    'gdpr.processing.desc': '',
+    'gdpr.processing.desc': 'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
     'gdpr.object.title': 'Právo vznést námitku',
     'gdpr.object.desc': '',
     'dmca.step1.desc1': 'Hlášení je rozděleno na dva scénáře. 1. Vnitřní majetek (porušení na stránce). 2. Externí majetek (porušení majetku, který na stránce neexistuje).',
