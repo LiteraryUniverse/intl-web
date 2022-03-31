@@ -4,19 +4,19 @@ export default {
     'form.validator.mustBeNumber': '数値を指定してください',
     'form.validator.minNumber': '{min, number}以上であること',
     'form.validator.maxNumber': '{max, number}以下であること',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.maxLength': `{max, number}{what, select,
+    characters {文字}
+    tags {タグ}
+    genres {ジャンルは}
+    numbers {計数}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `少なくとも{min,number}{what, select,
+    characters {文字}
+    tags {タグ}
+    genres {ジャンルは}
+    genre {ジャンルは}
+    numbers {計数}
     other {}
   }`,
     'form.validator.email': '有効なメールアドレスである必要があります',
