@@ -61,7 +61,8 @@ export default {
   'gdpr.rectification.title': 'Right to Rectification',
   'gdpr.rectification.desc': '',
   'gdpr.processing.title': 'Right to restriction of processing',
-  'gdpr.processing.desc': '',
+  'gdpr.processing.desc':
+    'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
   'gdpr.object.title': 'Right to Object',
   'gdpr.object.desc': '',
   'dmca.step1.desc1':
