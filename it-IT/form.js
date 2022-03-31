@@ -4,19 +4,19 @@ export default {
     'form.validator.mustBeNumber': 'Deve essere un numero',
     'form.validator.minNumber': 'Dovrebbe essere maggiore di {min, number}',
     'form.validator.maxNumber': 'Dovrebbe essere inferiore a {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.maxLength': `Dovrebbe essere meno di {max, number} {what, select,
+    characters {personaggi}
+    tags {tag}
+    genres {generi}
+    numbers {numeri}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Dovrebbe essere minimo {min, number} {what, select,
+    characters {personaggi}
+    tags {tag}
+    genres {generi}
+    genre {genere}
+    numbers {numeri}
     other {}
   }`,
     'form.validator.email': 'Deve essere un indirizzo email valido',
