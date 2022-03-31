@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2022-03-31 - v1.8.1
+
+* Added sentence under `Right to restriction of processing`
+* Merged translations for 2FA
+
 ## 2022-03-28 - v1.8.0
 
 * Added 2-Factor Authentication
