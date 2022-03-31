@@ -71,8 +71,8 @@ export default {
     'settings.links.website': 'Vaša osobná webová stránka',
     'settings.links.social': 'Iné webové stránky',
     // 2FA
-    'settings.2fa.title': 'Two-factor authentication',
-    'settings.2fa.explained': 'Two-factor authentication provides an additional layer of security for your account by adding an additional authentication step during login. This prevents malicious actors from gaining access to your account if your first login step is compromised.',
+    'settings.2fa.title': 'Dvojfaktorové overovanie',
+    'settings.2fa.explained': 'Dvojfaktorové overovanie poskytuje ďalšiu úroveň zabezpečenia vášho konta pridaním ďalšieho kroku overovania počas prihlasovania. To zabraňuje škodlivým subjektom získať prístup k vášmu účtu, ak je prvý krok prihlásenia kompromitovaný.',
     'settings.2fa.otpTitle': 'OTP',
     'settings.2fa.otpExplained': 'Two-factor authentication with OTP code creates one-time password via authenticator applications (like Authy, Google/Microsoft Authenticator, etc.) that you enter on login.',
     'settings.2fa.otpModalAria': '2FA OTP method',
