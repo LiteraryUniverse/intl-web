@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Ροή',
+    'feed.post.new': 'Νέα θέση',
+    'feed.post.like': 'Όπως η θέση',
+    'feed.post.unlike': 'Σε αντίθεση με τη θέση',
+    'feed.post.send': 'Θέση',
+    'feed.empty': 'Δεν υπάρχουν καταχωρήσεις στην τροφοδοσία.'
 };
