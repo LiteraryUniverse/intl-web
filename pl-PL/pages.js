@@ -46,7 +46,7 @@ export default {
     'gdpr.rectification.title': 'Prawo do sprostowania',
     'gdpr.rectification.desc': '',
     'gdpr.processing.title': 'Prawo do ograniczenia przetwarzania',
-    'gdpr.processing.desc': 'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
+    'gdpr.processing.desc': 'Literary Universe w pełni respektuje ustawienia przeglądarki, takie jak "Nie śledź" dla raportowania do naszego serwera statystyk Matomo.',
     'gdpr.object.title': 'Prawo do sprzeciwu',
     'gdpr.object.desc': '',
     'dmca.step1.desc1': 'Raportowanie jest podzielone na dwa scenariusze. 1. Własność wewnętrzna (naruszenie na miejscu własności istniejącej na miejscu). 2. Własność zewnętrzna (naruszenie na terenie obiektu własności nieistniejącej na terenie obiektu).',
