@@ -12,7 +12,7 @@ export default {
     'universe.authors.desc': 'Criadores e colaboradores de {universe}',
     'universe.contributors': 'Colaboradores',
     'universe.translators': 'Tradutores',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.notice': 'Cada história pode ter pessoal adicional que tenha trabalhado nela. Para mais detalhes, veja os detalhes da história.',
     'universe.createdBy': `{gender, select,
     male {Created}
     female {Created}
