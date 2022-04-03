@@ -2,8 +2,8 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Υποχρεωτικό πεδίο',
     'form.validator.mustBeNumber': 'Πρέπει να είναι αριθμός',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
+    'form.validator.minNumber': 'Πρέπει να είναι μεγαλύτερη από {min, number}',
+    'form.validator.maxNumber': 'Θα πρέπει να είναι μικρότερη από {max, number}',
     'form.validator.maxLength': `Should be less than {max, number} {what, select,
     characters {characters}
     tags {tags}
