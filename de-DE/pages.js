@@ -46,7 +46,7 @@ export default {
     'gdpr.rectification.title': 'Das Recht auf Nachbesserung',
     'gdpr.rectification.desc': '',
     'gdpr.processing.title': 'Recht auf Einschränkung der Verarbeitung',
-    'gdpr.processing.desc': 'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
+    'gdpr.processing.desc': 'Literary Universe respektiert in vollem Umfang die Einstellungen des Browsers, wie z. B. "Do not track"-Anfragen für Berichte an unseren Matomo-Statistikserver.',
     'gdpr.object.title': 'Recht auf Widerspruch',
     'gdpr.object.desc': '',
     'dmca.step1.desc1': 'Die Berichterstattung ist in zwei Szenarien unterteilt. 1. Internes Eigentum (Verletzung von auf dem Gelände vorhandenem Eigentum). 2. Externes Eigentum (Verletzung auf dem Gelände von nicht auf dem Gelände vorhandenem Eigentum).',
