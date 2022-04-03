@@ -46,7 +46,7 @@ export default {
     'gdpr.rectification.title': 'Právo na nápravu',
     'gdpr.rectification.desc': '',
     'gdpr.processing.title': 'Právo na obmedzenie spracovania',
-    'gdpr.processing.desc': 'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
+    'gdpr.processing.desc': 'Literary Universe plne rešpektuje nastavenia prehliadača, ako napríklad požiadavky "Nesledovať" pre vykazovanie na náš štatistický server Matomo.',
     'gdpr.object.title': 'Právo vzniesť námietku',
     'gdpr.object.desc': '',
     'dmca.step1.desc1': 'Hlásenie je rozdelené do dvoch scenárov. 1. Interné vlastníctvo (porušenie vlastníctva existujúceho na mieste). 2. Externý majetok (porušenie na mieste majetku, ktorý na mieste neexistuje).',
