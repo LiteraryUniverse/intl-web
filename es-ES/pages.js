@@ -46,7 +46,7 @@ export default {
     'gdpr.rectification.title': 'Derecho a la rectificación',
     'gdpr.rectification.desc': '',
     'gdpr.processing.title': 'Derecho a la limitación del tratamiento',
-    'gdpr.processing.desc': 'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
+    'gdpr.processing.desc': 'Literary Universe respeta plenamente la configuración del navegador, como las solicitudes de "Do not track" para informar a nuestro servidor de estadísticas Matomo.',
     'gdpr.object.title': 'Derecho a la objeción',
     'gdpr.object.desc': '',
     'dmca.step1.desc1': 'Reportar se divide en dos escenarios 1. propiedad interna (infracción en el sitio de propiedad existente en el sitio). 2. Propiedad externa (infracción en el sitio de propiedad inexistente en el sitio).',
