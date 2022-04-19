@@ -20,5 +20,6 @@ export default {
     'org.authorOverride.legend': '著者のオーバーライド',
     'org.authorOverride.desc': '組織名の代わりにこの文字を表示します。',
     'org.authorOverride.label': '著者名',
-    'org.membersAdd.title': 'メンバーを組織に招待する'
+    'org.membersAdd.title': 'メンバーを組織に招待する',
+    'org.flashnews.admin': 'Flashnews administration'
 };
