@@ -20,5 +20,6 @@ export default {
     'org.authorOverride.legend': 'Asignación de autoría',
     'org.authorOverride.desc': 'Muestra este texto en lugar del nombre de la organización.',
     'org.authorOverride.label': 'Nombre del autor',
-    'org.membersAdd.title': 'Invitar miembros a la organización'
+    'org.membersAdd.title': 'Invitar miembros a la organización',
+    'org.flashnews.admin': 'Flashnews administration'
 };
