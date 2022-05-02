@@ -29,6 +29,7 @@ import universe from './universe'
 import audit from './audit'
 import user from './user'
 import forums from './forums'
+import notifications from './notifications'
 
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -62,5 +63,6 @@ export default {
   ...universe,
   ...audit,
   ...user,
-  ...forums
+  ...forums,
+  ...notifications
 }

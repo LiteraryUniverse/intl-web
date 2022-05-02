@@ -2,7 +2,7 @@
 
 ## 2022-05-XX - v1.9.0
 
-* Added strings for flashnews module
+* Added strings for flashnews module & prepared file for notifications
 * Added strings related to internal universe and organization forums
 
 ## 2022-03-31 - v1.8.1
