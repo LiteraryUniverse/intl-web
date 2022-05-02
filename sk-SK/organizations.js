@@ -22,5 +22,6 @@ export default {
     'org.authorOverride.label': 'Meno autora',
     'org.membersAdd.title': 'Pozvať členov do organizácie',
     'org.flashnews.admin': 'Flashnews administration',
-    'org.settings.tabListAria': 'Setting sections for organization'
+    'org.settings.tabListAria': 'Setting sections for organization',
+    'org.forums.title': '{orgName} forums'
 };
