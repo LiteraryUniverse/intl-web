@@ -194,5 +194,6 @@ export default {
     'common.forum': '掲示板',
     'common.2faCode': '2FAコード',
     'common.2faCodeIntro': '認証アプリケーションで生成されたワンタイムコードを入力してください。',
-    'common.2faCodeAria': '2FAコードエントリフォーム'
+    'common.2faCodeAria': '2FAコードエントリフォーム',
+    'common.flashnews': 'Flashnews'
 }    /* eslint-enable max-len */;
