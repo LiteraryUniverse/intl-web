@@ -22,5 +22,6 @@ export default {
     'org.authorOverride.label': '著者名',
     'org.membersAdd.title': 'メンバーを組織に招待する',
     'org.flashnews.admin': 'Flashnews administration',
-    'org.settings.tabListAria': 'Setting sections for organization'
+    'org.settings.tabListAria': 'Setting sections for organization',
+    'org.forums.title': '{orgName} forums'
 };
