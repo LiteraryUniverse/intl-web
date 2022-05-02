@@ -194,5 +194,6 @@ export default {
     'common.forum': 'Foro',
     'common.2faCode': 'Código 2FA',
     'common.2faCodeIntro': 'Por favor, introduzca su código de tiempo único generado por su aplicación de autenticación.',
-    'common.2faCodeAria': 'Formulario de entrada de código 2FA'
+    'common.2faCodeAria': 'Formulario de entrada de código 2FA',
+    'common.flashnews': 'Flashnews'
 }    /* eslint-enable max-len */;
