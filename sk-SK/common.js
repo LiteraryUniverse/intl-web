@@ -194,5 +194,6 @@ export default {
     'common.forum': 'Fórum',
     'common.2faCode': 'Kód 2FA',
     'common.2faCodeIntro': 'Zadajte svoj jednorazový kód vygenerovaný aplikáciou autentifikátora.',
-    'common.2faCodeAria': 'Formulár na zadanie kódu 2FA'
+    'common.2faCodeAria': 'Formulár na zadanie kódu 2FA',
+    'common.flashnews': 'Flashnews'
 }    /* eslint-enable max-len */;
