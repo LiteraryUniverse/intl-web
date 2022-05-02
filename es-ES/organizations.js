@@ -21,5 +21,6 @@ export default {
     'org.authorOverride.desc': 'Muestra este texto en lugar del nombre de la organización.',
     'org.authorOverride.label': 'Nombre del autor',
     'org.membersAdd.title': 'Invitar miembros a la organización',
-    'org.flashnews.admin': 'Flashnews administration'
+    'org.flashnews.admin': 'Flashnews administration',
+    'org.settings.tabListAria': 'Setting sections for organization'
 };
