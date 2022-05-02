@@ -21,5 +21,6 @@ export default {
     'org.authorOverride.desc': 'Zobrazí tento text místo názvu organizace.',
     'org.authorOverride.label': 'Jméno autora',
     'org.membersAdd.title': 'Pozvat uživatele do organizace',
-    'org.flashnews.admin': 'Flashnews administration'
+    'org.flashnews.admin': 'Flashnews administration',
+    'org.settings.tabListAria': 'Setting sections for organization'
 };
