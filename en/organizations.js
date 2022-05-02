@@ -18,8 +18,11 @@ export default {
   'org.settings.hideMembers.label': 'Hide members from the public',
   'org.visit': 'Go to {organization} page',
   'org.authorOverride.legend': 'Author override',
-  'org.authorOverride.desc': 'Shows this text instead of the name of the organization.',
-  'org.authorOverride.label': 'Author\'s name',
+  'org.authorOverride.desc':
+    'Shows this text instead of the name of the organization.',
+  'org.authorOverride.label': "Author's name",
   'org.membersAdd.title': 'Invite members to the organization',
-  'org.flashnews.admin': 'Flashnews administration'
+  'org.flashnews.admin': 'Flashnews administration',
+  'org.settings.tabListAria': 'Setting sections for organization',
+  'org.forums.title': '{orgName} forums'
 }
