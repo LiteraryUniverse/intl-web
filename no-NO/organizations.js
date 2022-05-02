@@ -22,5 +22,6 @@ export default {
     'org.authorOverride.label': 'Author\'s name',
     'org.membersAdd.title': 'Invite members to the organization',
     'org.flashnews.admin': 'Flashnews administration',
-    'org.settings.tabListAria': 'Setting sections for organization'
+    'org.settings.tabListAria': 'Setting sections for organization',
+    'org.forums.title': '{orgName} forums'
 };
