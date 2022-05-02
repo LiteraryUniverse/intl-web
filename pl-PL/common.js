@@ -194,5 +194,6 @@ export default {
     'common.forum': 'Forum',
     'common.2faCode': 'Kod 2FA',
     'common.2faCodeIntro': 'Wprowadź swój jednorazowy kod wygenerowany przez aplikację uwierzytelniającą.',
-    'common.2faCodeAria': 'Formularz wprowadzania kodu 2FA'
+    'common.2faCodeAria': 'Formularz wprowadzania kodu 2FA',
+    'common.flashnews': 'Flashnews'
 }    /* eslint-enable max-len */;
