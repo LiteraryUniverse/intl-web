@@ -194,5 +194,6 @@ export default {
     'common.forum': 'Forum',
     'common.2faCode': '2FA-Code',
     'common.2faCodeIntro': 'Bitte geben Sie Ihren einmaligen Code ein, der von Ihrer Authentifizierungsanwendung generiert wurde.',
-    'common.2faCodeAria': '2FA Code Eintragsformular'
+    'common.2faCodeAria': '2FA Code Eintragsformular',
+    'common.flashnews': 'Flashnews'
 }    /* eslint-enable max-len */;
