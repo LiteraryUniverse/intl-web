@@ -195,5 +195,6 @@ export default {
     'common.2faCode': '2FAコード',
     'common.2faCodeIntro': '認証アプリケーションで生成されたワンタイムコードを入力してください。',
     'common.2faCodeAria': '2FAコードエントリフォーム',
-    'common.flashnews': 'Flashnews'
+    'common.flashnews': 'Flashnews',
+    'common.defaultLanguage': 'Default language'
 }    /* eslint-enable max-len */;
