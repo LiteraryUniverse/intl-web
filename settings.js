@@ -76,7 +76,7 @@ export default {
         'es-IC',
         'es-MX',
         'es-NI',
-        ' es-PA',
+        'es-PA',
         'es-PE',
         'es-PH',
         'es-PR',
@@ -139,7 +139,7 @@ export default {
           'pt-CH',
           'pt-CV',
           'pt-GQ',
-          ' pt-GW',
+          'pt-GW',
           'pt-LU',
           'pt-MO',
           'pt-MZ',
@@ -159,7 +159,7 @@ export default {
           'pt-CH',
           'pt-CV',
           'pt-GQ',
-          ' pt-GW',
+          'pt-GW',
           'pt-LU',
           'pt-MO',
           'pt-MZ',
@@ -742,9 +742,7 @@ export default {
     'MA',
     'PS',
     'SY',
-    'TN',
-    // Other
-    'RU'
+    'TN'
   ],
   /**
    * USA states

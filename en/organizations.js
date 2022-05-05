@@ -24,5 +24,12 @@ export default {
   'org.membersAdd.title': 'Invite members to the organization',
   'org.flashnews.admin': 'Flashnews administration',
   'org.settings.tabListAria': 'Setting sections for organization',
-  'org.forums.title': '{orgName} forums'
+  'org.forums.title': '{orgName} forums',
+  'org.flashnews.internal': 'Internal news flashes',
+  'org.flashnews.publicAll': 'Public news flashes for all properties',
+  'org.flashnews.createTitle': `Create a new news flash for {type, select,
+    internal {the organization}
+    allProperties {display to public on all properties}
+    other {the organization}
+  }`
 }
