@@ -195,5 +195,6 @@ export default {
     'common.2faCode': 'Codice 2FA',
     'common.2faCodeIntro': 'Inserisci il tuo codice unico generato dalla tua applicazione di autenticazione.',
     'common.2faCodeAria': 'Modulo di inserimento del codice 2FA',
-    'common.flashnews': 'Flashnews'
+    'common.flashnews': 'Flashnews',
+    'common.defaultLanguage': 'Default language'
 }    /* eslint-enable max-len */;
