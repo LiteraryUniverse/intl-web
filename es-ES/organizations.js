@@ -21,14 +21,14 @@ export default {
     'org.authorOverride.desc': 'Muestra este texto en lugar del nombre de la organización.',
     'org.authorOverride.label': 'Nombre del autor',
     'org.membersAdd.title': 'Invitar miembros a la organización',
-    'org.flashnews.admin': 'Flashnews administration',
-    'org.settings.tabListAria': 'Setting sections for organization',
-    'org.forums.title': '{orgName} forums',
-    'org.flashnews.internal': 'Internal news flashes',
-    'org.flashnews.publicAll': 'Public news flashes for all properties',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.admin': 'Administración de Flashnews',
+    'org.settings.tabListAria': 'Configurando secciones para la organización',
+    'org.forums.title': '{orgName} foros',
+    'org.flashnews.internal': 'Noticias internas',
+    'org.flashnews.publicAll': 'Noticias públicas para todas las propiedades',
+    'org.flashnews.createTitle': `¡Crea un nuevo flash de noticias para {type, select,
+    internal {¡la organización}
+    allProperties {muestra al público en todas las propiedades}
+    other {¡la organización}
   }`
 };
