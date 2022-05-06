@@ -196,5 +196,5 @@ export default {
     'common.2faCodeIntro': 'Bitte geben Sie Ihren einmaligen Code ein, der von Ihrer Authentifizierungsanwendung generiert wurde.',
     'common.2faCodeAria': '2FA Code Eintragsformular',
     'common.flashnews': 'Flashnews',
-    'common.defaultLanguage': 'Default language'
+    'common.defaultLanguage': 'Standardsprache'
 }    /* eslint-enable max-len */;
