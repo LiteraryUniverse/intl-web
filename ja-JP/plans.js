@@ -38,6 +38,7 @@ export default {
     'plans.feature.accessToBeta': 'ベータ版の機能にアクセス',
     'plans.feature.userGroups': 'ユーザーグループ',
     'plans.feature.privateUserGroups': 'プライベートおよび隠しユーザーグループの作成',
+    'plans.feature.internalUniverseForums': '宇宙のための社内フォーラム',
     'plans.currency.select': '通貨を選択',
     'plans.subscription.ownAlready': '現在、このプランを持っています。',
     'plans.subscription.title': 'サブスクリプション',
