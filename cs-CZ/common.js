@@ -195,6 +195,6 @@ export default {
     'common.2faCode': '2FA kód',
     'common.2faCodeIntro': 'Zadejte Váš jednorázový kód vygenerovaný vaší ověřovací aplikací.',
     'common.2faCodeAria': 'Formulář pro zadávání kódu 2FA',
-    'common.flashnews': 'Flashnews',
-    'common.defaultLanguage': 'Default language'
+    'common.flashnews': 'Rychlé zprávy',
+    'common.defaultLanguage': 'Výchozí jazyk'
 }    /* eslint-enable max-len */;
