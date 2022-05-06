@@ -267,5 +267,7 @@ export default {
   'workshop.story.prolog': 'Prolog',
   'workshop.story.chapter': 'Chapter {sequence, number}',
   'workshop.work.includesAds':
-    'Are there any advertisements or product placements in the work?'
+    'Are there any advertisements or product placements in the work?',
+  'workshop.universe.forumSettings': 'Internal universe forum settings',
+  'workshop.universe.forum': 'Internal {universeName} forum'
 }
