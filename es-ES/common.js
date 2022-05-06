@@ -196,5 +196,5 @@ export default {
     'common.2faCodeIntro': 'Por favor, introduzca su código de tiempo único generado por su aplicación de autenticación.',
     'common.2faCodeAria': 'Formulario de entrada de código 2FA',
     'common.flashnews': 'Flashnews',
-    'common.defaultLanguage': 'Default language'
+    'common.defaultLanguage': 'Idioma predeterminado'
 }    /* eslint-enable max-len */;
