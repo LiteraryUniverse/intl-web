@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2022-05-XX - v1.9.0
+## 2022-05-06 - v1.9.0
 
 * Added strings for flashnews module & prepared file for notifications
 * Added strings related to internal universe and organization forums
