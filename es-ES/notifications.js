@@ -4,5 +4,5 @@ export default {
   'flashnews.startsAt': 'Comienza a mostrar este mensaje en',
   'flashnews.endsAt': 'Deje de mostrar este mensaje en',
   'flashnews.newLanguage': 'Seleccione el nuevo idioma a añadir',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.'
+  'flashnews.onlyDisplayOn': 'Las noticias se mostrarán sólo en los idiomas seleccionados a continuación (si se selecciona alguno), no se mostrarán noticias, ni siquiera en el idioma por defecto, en otros idiomas.'
 };
