@@ -1,10 +1,10 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
+    'discovery.meta.desc': 'Відкрийте для себе нові історії та світи.',
+    'discovery.universes.new': 'Виникаючі світи',
+    'discovery.stories.new': 'Нові історії',
+    'discovery.stories.standalone.new': 'Нові автономні історії',
+    'discovery.stories.updated': 'Нещодавно оновлені історії',
+    'discovery.continue': 'Продовжити читання',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
     'story.estimatedReadingTime': `This story should take {hours, plural,
@@ -26,12 +26,12 @@ export default {
     'story.status.complete': 'Complete',
     'story.status.inProgress': 'In-progress',
     'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.universeRelation.standalone': 'Автономна історія',
+    'story.universeRelation.fanFiction': 'Фанфік',
+    'story.universeRelation.universe': 'Частина всесвіту',
+    'discover.search.rating': 'Віковий рейтинг',
+    'discover.search.license': 'Авторські права',
+    'discover.search.language': 'Мова',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
@@ -44,6 +44,6 @@ export default {
     }.`,
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
+    'discover.searchDisplay.list': 'Компактний список',
     'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
 };
