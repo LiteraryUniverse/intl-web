@@ -225,5 +225,7 @@ export default {
     'workshop.revShare.origLangCreators': 'Original language creators',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Rozdział {sequence, number}',
-    'workshop.work.includesAds': 'Czy w pracy są jakieś reklamy lub lokowanie produktu?'
+    'workshop.work.includesAds': 'Czy w pracy są jakieś reklamy lub lokowanie produktu?',
+    'workshop.universe.forumSettings': 'Internal universe forum settings',
+    'workshop.universe.forum': 'Internal {universeName} forum'
 };
