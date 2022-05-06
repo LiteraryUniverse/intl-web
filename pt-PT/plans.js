@@ -38,6 +38,7 @@ export default {
     'plans.feature.accessToBeta': 'Access Beta features',
     'plans.feature.userGroups': 'User groups',
     'plans.feature.privateUserGroups': 'Create private and hidden user groups',
+    'plans.feature.internalUniverseForums': 'Internal forum for universes',
     'plans.currency.select': 'Select currency',
     'plans.subscription.ownAlready': 'You currently have this plan',
     'plans.subscription.title': 'Subscription',

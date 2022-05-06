@@ -217,5 +217,7 @@ export default {
     'workshop.revShare.origLangCreators': 'オリジナル言語のクリエーター',
     'workshop.story.prolog': 'プログ',
     'workshop.story.chapter': '章 {sequence, number}',
-    'workshop.work.includesAds': '作品の中に広告や商品の紹介はありますか？'
+    'workshop.work.includesAds': '作品の中に広告や商品の紹介はありますか？',
+    'workshop.universe.forumSettings': '内部宇宙フォーラムの設定',
+    'workshop.universe.forum': '内部 {universeName} フォーラム'
 };

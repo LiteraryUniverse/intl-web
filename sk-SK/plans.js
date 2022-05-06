@@ -38,6 +38,7 @@ export default {
     'plans.feature.accessToBeta': 'Prístup k funkciám beta verzie',
     'plans.feature.userGroups': 'Skupiny užívateľov',
     'plans.feature.privateUserGroups': 'Vytvorenie súkromných a skrytých skupín používateľov',
+    'plans.feature.internalUniverseForums': 'Interné fórum pre vesmíry',
     'plans.currency.select': 'Zvoľte menu',
     'plans.subscription.ownAlready': 'V súčasnosti máte tento plán',
     'plans.subscription.title': 'Predplatné',
