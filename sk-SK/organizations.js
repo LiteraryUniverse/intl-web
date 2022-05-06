@@ -21,14 +21,14 @@ export default {
     'org.authorOverride.desc': 'Zobrazí tento text namiesto názvu organizácie.',
     'org.authorOverride.label': 'Meno autora',
     'org.membersAdd.title': 'Pozvať členov do organizácie',
-    'org.flashnews.admin': 'Flashnews administration',
-    'org.settings.tabListAria': 'Setting sections for organization',
-    'org.forums.title': '{orgName} forums',
-    'org.flashnews.internal': 'Internal news flashes',
-    'org.flashnews.publicAll': 'Public news flashes for all properties',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.admin': 'Správa bleskových správ',
+    'org.settings.tabListAria': 'Sekcie nastavenie pre organizáciu',
+    'org.forums.title': '{orgName} fóra',
+    'org.flashnews.internal': 'Interné bleskové správy',
+    'org.flashnews.publicAll': 'Verejné správy pre všetky verejné nehnuteľnosti vo vlastníctve',
+    'org.flashnews.createTitle': `Vytvořte novou bleskovou správu pro {type, select,
+    internal {organizaci}
+    allProperties {veřejnost}
+    other {organizaci}
   }`
 };
