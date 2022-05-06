@@ -194,5 +194,7 @@ export default {
     'common.forum': 'Fórum',
     'common.2faCode': 'Código 2FA',
     'common.2faCodeIntro': 'Por favor, digite seu código único gerado por sua aplicação autenticadora.',
-    'common.2faCodeAria': 'Formulário de entrada de código 2FA'
+    'common.2faCodeAria': 'Formulário de entrada de código 2FA',
+    'common.flashnews': 'Flashnews',
+    'common.defaultLanguage': 'Default language'
 }    /* eslint-enable max-len */;

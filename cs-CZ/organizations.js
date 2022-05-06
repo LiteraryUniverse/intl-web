@@ -20,5 +20,15 @@ export default {
     'org.authorOverride.legend': 'Přepsání autora',
     'org.authorOverride.desc': 'Zobrazí tento text místo názvu organizace.',
     'org.authorOverride.label': 'Jméno autora',
-    'org.membersAdd.title': 'Pozvat uživatele do organizace'
+    'org.membersAdd.title': 'Pozvat uživatele do organizace',
+    'org.flashnews.admin': 'Správa bleskových zpráv',
+    'org.settings.tabListAria': 'Sekce nastavení pro organizaci',
+    'org.forums.title': '{orgName} fóra',
+    'org.flashnews.internal': 'Interné bleskové zprávy',
+    'org.flashnews.publicAll': 'Veřejné bleskové zprávy pro všechny vlastněné IP',
+    'org.flashnews.createTitle': `Vytvořte novou bleskovou novinku pro {type, select,
+    internal {organizaci}
+    allProperties {veřejnost}
+    other {organizaci}
+  }`
 };

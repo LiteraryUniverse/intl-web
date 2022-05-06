@@ -20,5 +20,15 @@ export default {
     'org.authorOverride.legend': 'Author override',
     'org.authorOverride.desc': 'Shows this text instead of the name of the organization.',
     'org.authorOverride.label': 'Author\'s name',
-    'org.membersAdd.title': 'Invite members to the organization'
+    'org.membersAdd.title': 'Invite members to the organization',
+    'org.flashnews.admin': 'Flashnews administration',
+    'org.settings.tabListAria': 'Setting sections for organization',
+    'org.forums.title': '{orgName} forums',
+    'org.flashnews.internal': 'Internal news flashes',
+    'org.flashnews.publicAll': 'Public news flashes for all properties',
+    'org.flashnews.createTitle': `Create a new news flash for {type, select,
+    internal {the organization}
+    allProperties {display to public on all properties}
+    other {the organization}
+  }`
 };

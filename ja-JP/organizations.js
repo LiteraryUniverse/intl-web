@@ -20,5 +20,15 @@ export default {
     'org.authorOverride.legend': '著者のオーバーライド',
     'org.authorOverride.desc': '組織名の代わりにこの文字を表示します。',
     'org.authorOverride.label': '著者名',
-    'org.membersAdd.title': 'メンバーを組織に招待する'
+    'org.membersAdd.title': 'メンバーを組織に招待する',
+    'org.flashnews.admin': 'フラッシュニュースの運営',
+    'org.settings.tabListAria': '整理整頓のためのセクション設定',
+    'org.forums.title': '{orgName} フォーラム',
+    'org.flashnews.internal': '社内ニュース速報',
+    'org.flashnews.publicAll': '全物件の公開フラッシュニュース',
+    'org.flashnews.createTitle': `{type, select,
+    internal {組織のための新しいニュースフラッシュを作成します。}
+    allProperties {すべてのプロパティで一般に表示するための新しいニュースフラッシュを作成します。}
+    other {組織のための新しいニュースフラッシュを作成します。}
+  }`
 };

@@ -1,10 +1,12 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
-  }.`,
-    'comments.show.older': 'Show older comments'
+    'comment.write': 'Напишіть свій коментар',
+    'comments.none': 'Вибачте, жодних коментарів для показу.',
+    'comments.total': `{count, plural,
+    =0 {Немає коментарів}
+    one {є 1 коментар}
+    few {# коментарі}
+    many {# коментарі}
+    other {# коментарі}
+  }`,
+    'comments.show.older': 'Показати старі коментарі'
 };
