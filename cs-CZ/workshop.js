@@ -234,5 +234,7 @@ export default {
     'workshop.revShare.origLangCreators': 'Tvůrci v originální řeči',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Kapitola {sequence, number}',
-    'workshop.work.includesAds': 'Jsou v tvorbě nějaké reklamy nebo umístění produktu?'
+    'workshop.work.includesAds': 'Jsou v tvorbě nějaké reklamy nebo umístění produktu?',
+    'workshop.universe.forumSettings': 'Nastavení interního fóra pro vesmír',
+    'workshop.universe.forum': 'Interní fórum {universeName}'
 };
