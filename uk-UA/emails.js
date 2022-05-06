@@ -23,12 +23,12 @@ export default {
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.button': 'Скинути пароль',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
+    'email.verifyEmail.messageHtml': 'Ми раді, що ви на борту! Будь ласка, натисніть кнопку нижче, щоб перевірити цю електронну адресу.',
     'email.verifyEmail.button': 'Verify this e-mail address',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Ваш обліковий запис оновлено',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
@@ -41,7 +41,7 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verification': 'Перевірка електронної пошти',
+    'email.verifying': 'Перевірка електронної пошти. Це займе лише мить...',
+    'email.verified': 'Відмінна новина! Ваша електронна пошта була перевірена!'
 };    /* eslint-enable max-len */
