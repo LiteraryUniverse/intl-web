@@ -232,5 +232,7 @@ export default {
     'workshop.revShare.origLangCreators': 'Tvorcovia pôvodného jazyka',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Kapitola {sequence, number}',
-    'workshop.work.includesAds': 'Sú v diele nejaké reklamy alebo umiestňovanie produktov?'
+    'workshop.work.includesAds': 'Sú v diele nejaké reklamy alebo umiestňovanie produktov?',
+    'workshop.universe.forumSettings': 'Nastavenia interného fóra vesmíru',
+    'workshop.universe.forum': 'Interné fórum {universeName}'
 };
