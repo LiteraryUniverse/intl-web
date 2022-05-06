@@ -196,5 +196,5 @@ export default {
     'common.2faCodeIntro': 'Wprowadź swój jednorazowy kod wygenerowany przez aplikację uwierzytelniającą.',
     'common.2faCodeAria': 'Formularz wprowadzania kodu 2FA',
     'common.flashnews': 'Flashnews',
-    'common.defaultLanguage': 'Default language'
+    'common.defaultLanguage': 'Domyślny język'
 }    /* eslint-enable max-len */;
