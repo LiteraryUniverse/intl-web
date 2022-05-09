@@ -88,5 +88,13 @@ export default {
     'settings.2fa.instructions3': 'Escanee el código QR que aparece en la pantalla o, si no es posible, introduzca el código que aparece a continuación.',
     'settings.2fa.instructions4': 'Escriba los 6 números que aparecen en la pantalla en la entrada aquí para terminar.',
     'settings.2fa.saved': 'La autenticación de dos factores se ha establecido con éxito!',
-    'settings.2fa.disableOTP': 'Desactivar la autenticación de dos factores OTP'
+    'settings.2fa.disableOTP': 'Desactivar la autenticación de dos factores OTP',
+    'settings.web3.legend': 'Web3 wallet connection',
+    'settings.web3.explained': 'You can connect your Web3 crypto wallet to you Literary Universe account. Once connected you will be able to login with your wallet and do even more things in the future as we expand our Web3 offering.',
+    'settings.web3.connect': 'Connect your wallet',
+    'settings.web3.address': 'Connected address: {address}',
+    'settings.web3.verify': 'Sign your address',
+    'settings.web3.verify.explained': 'To verify that this address belongs to you we will ask you to sign a message to ensure your ownership of the wallet.',
+    'settings.web3.verified': 'Verified',
+    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe.'
 };
