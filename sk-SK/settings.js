@@ -86,5 +86,13 @@ export default {
     'settings.2fa.instructions3': 'Naskenujte kód QR zobrazený na obrazovke alebo, ak to nie je možné, zadajte kód uvedený nižšie.',
     'settings.2fa.instructions4': 'Zadajte 6 čísel, ktoré sa zobrazia na obrazovke, do vstupného poľa a dokončite.',
     'settings.2fa.saved': 'Dvojfaktorové overenie bolo úspešne vytvorené!',
-    'settings.2fa.disableOTP': 'Vypnúť dvojfaktorové OTP overenie'
+    'settings.2fa.disableOTP': 'Vypnúť dvojfaktorové OTP overenie',
+    'settings.web3.legend': 'Web3 wallet connection',
+    'settings.web3.explained': 'You can connect your Web3 crypto wallet to you Literary Universe account. Once connected you will be able to login with your wallet and do even more things in the future as we expand our Web3 offering.',
+    'settings.web3.connect': 'Connect your wallet',
+    'settings.web3.address': 'Connected address: {address}',
+    'settings.web3.verify': 'Sign your address',
+    'settings.web3.verify.explained': 'To verify that this address belongs to you we will ask you to sign a message to ensure your ownership of the wallet.',
+    'settings.web3.verified': 'Verified',
+    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe.'
 };
