@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Verifica in corso...',
     'slug.failed': 'Indirizzo già esistente.',
     'slug.success': 'Indirizzo disponibile!',
-    'notVerified.msg': 'L\'e-mail del tuo account non è verificata.',
-    'notVerified.verify': 'Verifica la tua e-mail.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'sconosciuto',
     'common.legal.guidelines': 'Linee guida della community',
     'errorLoading.title': 'Errore durante il caricamento della pagina',
