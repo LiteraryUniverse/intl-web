@@ -136,14 +136,14 @@ export default {
     'slug.checking': 'Comprobando...',
     'slug.failed': 'Esta dirección ya existe.',
     'slug.success': '¡La dirección está disponible!',
-    'notVerified.msg': `Your account {option, select,
+    'notVerified.msg': `¡Tu cuenta {option, select,
     email {e-mail}
-    wallet {wallet}
+    wallet {monedero}
     other {e-mail}
-    } is not verified.`,
-    'notVerified.verify': `Please verify your {option, select,
+    } no está verificado.`,
+    'notVerified.verify': `Por favor verifica tu {option, select,
     email {e-mail}
-    wallet {wallet}
+    wallet {monedero}
     other {e-mail}
     }.`,
     unknown: 'desconocido',
