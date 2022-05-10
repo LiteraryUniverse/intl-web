@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Перевірка...',
     'slug.failed': 'Така адреса вже існує.',
     'slug.success': 'Ця адреса доступна!',
-    'notVerified.msg': 'Адресу вашої електронної пошти не підтверджено.',
-    'notVerified.verify': 'Підтвердіть адресу електронної пошти.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'невизначено',
     'common.legal.guidelines': 'Правила спільноти',
     'errorLoading.title': 'Помилка при завантаженні сторінки',
