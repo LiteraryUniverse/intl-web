@@ -136,8 +136,16 @@ export default {
     'slug.checking': '確認しています...',
     'slug.failed': 'このアドレスはすでに存在しています。',
     'slug.success': 'このアドレスは利用可能です!',
-    'notVerified.msg': 'アカウントのメールアドレスは確認されていません。',
-    'notVerified.verify': 'メールアドレスを確認してください。',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: '道の',
     'common.legal.guidelines': 'コミュニティ・ガイドライン',
     'errorLoading.title': 'ページ読み込み中のエラー',
