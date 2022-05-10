@@ -196,5 +196,6 @@ export default {
     'common.2faCodeIntro': 'Zadejte Váš jednorázový kód vygenerovaný vaší ověřovací aplikací.',
     'common.2faCodeAria': 'Formulář pro zadávání kódu 2FA',
     'common.flashnews': 'Bleskové zprávy',
-    'common.defaultLanguage': 'Výchozí jazyk'
+    'common.defaultLanguage': 'Výchozí jazyk',
+    'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method.'
 }    /* eslint-enable max-len */;
