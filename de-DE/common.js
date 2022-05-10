@@ -136,15 +136,15 @@ export default {
     'slug.checking': 'Prüfen…',
     'slug.failed': 'Diese Adresse existiert schon.',
     'slug.success': 'Diese Adresse ist verfügbar!',
-    'notVerified.msg': `Your account {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
-    } is not verified.`,
-    'notVerified.verify': `Please verify your {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
+    'notVerified.msg': `Dein Konto {option, select,
+    email {E-Mail}
+    wallet {Brieftasche}
+    other {E-Mail}
+    } ist nicht verifiziert.`,
+    'notVerified.verify': `Bitte verifiziere {option, select,
+    email {dein E-Mail}
+    wallet {deine Brieftasche}
+    other {dein E-Mail}
     }.`,
     unknown: 'unbekannt',
     'common.legal.guidelines': 'Leitlinien der Gemeinschaft',
