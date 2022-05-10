@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Checking...',
     'slug.failed': 'This address already exists.',
     'slug.success': 'This address is available!',
-    'notVerified.msg': 'Your account e-mail is not verified.',
-    'notVerified.verify': 'Please verify your e-mail.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'nekonata',
     'common.legal.guidelines': 'Komunumaj Gvidnormoj',
     'errorLoading.title': 'Error during page load',
