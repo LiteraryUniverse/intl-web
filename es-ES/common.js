@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Comprobando...',
     'slug.failed': 'Esta dirección ya existe.',
     'slug.success': '¡La dirección está disponible!',
-    'notVerified.msg': 'Tu e-mail no está verificado.',
-    'notVerified.verify': 'Por favor, verifique su e-mail.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'desconocido',
     'common.legal.guidelines': 'Normas de la comunidad',
     'errorLoading.title': 'Error al cargar la página',
