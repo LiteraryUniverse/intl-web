@@ -136,15 +136,15 @@ export default {
     'slug.checking': 'Ověřuji...',
     'slug.failed': 'Tato adresa už existuje.',
     'slug.success': 'Tato adresa je k dispozici!',
-    'notVerified.msg': `Your account {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
-    } is not verified.`,
-    'notVerified.verify': `Please verify your {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
+    'notVerified.msg': `Váš{option, select,
+    email { e-mail není ověřen}
+    wallet {e peněženka není ověřena}
+    other { e-mail není ověřen}
+    }.`,
+    'notVerified.verify': `Ověřte prosím {option, select,
+    email {svůj e-mail}
+    wallet {Vaší peněženku}
+    other {svůj e-mail}
     }.`,
     unknown: 'neznámé',
     'common.legal.guidelines': 'Pravidla komunity',
