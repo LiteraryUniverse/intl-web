@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Kontrollerar...',
     'slug.failed': 'Denna adress finns redan.',
     'slug.success': 'This address is available!',
-    'notVerified.msg': 'Your account e-mail is not verified.',
-    'notVerified.verify': 'Please verify your e-mail.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'okänd',
     'common.legal.guidelines': 'Communityns riktlinjer',
     'errorLoading.title': 'Error during page load',
