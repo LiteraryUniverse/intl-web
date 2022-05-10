@@ -196,5 +196,6 @@ export default {
     'common.2faCodeIntro': '認証アプリケーションで生成されたワンタイムコードを入力してください。',
     'common.2faCodeAria': '2FAコードエントリフォーム',
     'common.flashnews': 'フラッシュニュース',
-    'common.defaultLanguage': '既定の言語'
+    'common.defaultLanguage': '既定の言語',
+    'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method.'
 }    /* eslint-enable max-len */;
