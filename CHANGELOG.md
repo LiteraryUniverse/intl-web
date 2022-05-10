@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2022-05-10 - v1.10.0
+
+* Added strings for wallet connect in settings
+
 ## 2022-05-06 - v1.9.0
 
 * Added strings for flashnews module & prepared file for notifications
