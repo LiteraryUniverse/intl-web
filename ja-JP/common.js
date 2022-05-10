@@ -136,11 +136,11 @@ export default {
     'slug.checking': '確認しています...',
     'slug.failed': 'このアドレスはすでに存在しています。',
     'slug.success': 'このアドレスは利用可能です!',
-    'notVerified.msg': `Your account {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
-    } is not verified.`,
+    'notVerified.msg': `あなたのアカウント{option, select,
+    email {メール}
+    wallet {ウォレット}
+    other {メール}
+    }は確認されていません。`,
     'notVerified.verify': `Please verify your {option, select,
     email {e-mail}
     wallet {wallet}
