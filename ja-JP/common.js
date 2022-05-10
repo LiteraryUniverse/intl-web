@@ -141,11 +141,11 @@ export default {
     wallet {ウォレット}
     other {メール}
     }は確認されていません。`,
-    'notVerified.verify': `Please verify your {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
-    }.`,
+    'notVerified.verify': `{option, select,
+    email {メール}
+    wallet {ウォレット}
+    other {メール}
+    }の確認をお願いします。`,
     unknown: '道の',
     'common.legal.guidelines': 'コミュニティ・ガイドライン',
     'errorLoading.title': 'ページ読み込み中のエラー',
