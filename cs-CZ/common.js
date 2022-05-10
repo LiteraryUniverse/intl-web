@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Ověřuji...',
     'slug.failed': 'Tato adresa už existuje.',
     'slug.success': 'Tato adresa je k dispozici!',
-    'notVerified.msg': 'E-mail Vašeho účtu není ověřen.',
-    'notVerified.verify': 'Prosím potvrďte Váš e-mail.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'neznámé',
     'common.legal.guidelines': 'Pravidla komunity',
     'errorLoading.title': 'Chyba při načítání stránky',
