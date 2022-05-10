@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Kontroluje sa...',
     'slug.failed': 'Táto adresa už existuje.',
     'slug.success': 'Táto adresa je k dispozícii!',
-    'notVerified.msg': 'Váš e-mail nie je overený.',
-    'notVerified.verify': 'Overte si prosím svoj e-mail.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'neznáme',
     'common.legal.guidelines': 'Usmernenia Spoločenstva',
     'errorLoading.title': 'Chyba počas načítania stránky',
