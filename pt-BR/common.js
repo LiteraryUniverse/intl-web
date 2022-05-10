@@ -196,5 +196,6 @@ export default {
     'common.2faCodeIntro': 'Por favor, digite seu código único gerado por sua aplicação autenticadora.',
     'common.2faCodeAria': 'Formulário de entrada de código 2FA',
     'common.flashnews': 'Flashnews',
-    'common.defaultLanguage': 'Default language'
+    'common.defaultLanguage': 'Default language',
+    'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method.'
 }    /* eslint-enable max-len */;
