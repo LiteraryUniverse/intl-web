@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Conferindo...',
     'slug.failed': 'Este endereço já existe.',
     'slug.success': 'Este endereço está disponível!',
-    'notVerified.msg': 'Seu e-mail não foi verificado.',
-    'notVerified.verify': 'Por favor, verifique seu e-mail.',
+    'notVerified.msg': `Your account {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    } is not verified.`,
+    'notVerified.verify': `Please verify your {option, select,
+    email {e-mail}
+    wallet {wallet}
+    other {e-mail}
+    }.`,
     unknown: 'desconhecido',
     'common.legal.guidelines': 'Diretrizes Comunitárias',
     'errorLoading.title': 'Erro durante o carregamento da página',
