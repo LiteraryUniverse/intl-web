@@ -136,8 +136,16 @@ export default {
     'slug.checking': '確認しています...',
     'slug.failed': 'このアドレスはすでに存在しています。',
     'slug.success': 'このアドレスは利用可能です!',
-    'notVerified.msg': 'アカウントのメールアドレスは確認されていません。',
-    'notVerified.verify': 'メールアドレスを確認してください。',
+    'notVerified.msg': `あなたのアカウント{option, select,
+    email {メール}
+    wallet {ウォレット}
+    other {メール}
+    }は確認されていません。`,
+    'notVerified.verify': `{option, select,
+    email {メール}
+    wallet {ウォレット}
+    other {メール}
+    }の確認をお願いします。`,
     unknown: '道の',
     'common.legal.guidelines': 'コミュニティ・ガイドライン',
     'errorLoading.title': 'ページ読み込み中のエラー',
@@ -196,5 +204,7 @@ export default {
     'common.2faCodeIntro': '認証アプリケーションで生成されたワンタイムコードを入力してください。',
     'common.2faCodeAria': '2FAコードエントリフォーム',
     'common.flashnews': 'フラッシュニュース',
-    'common.defaultLanguage': '既定の言語'
+    'common.defaultLanguage': '既定の言語',
+    'signin.web3.signMessage': 'ウォレットを認証方法として文学の宇宙に参入することを確認してください。コード：{code}',
+    'common.web3.confirmationCode': '確認用コード：　{code}'
 }    /* eslint-enable max-len */;

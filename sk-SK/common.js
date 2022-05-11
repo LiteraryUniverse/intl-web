@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Kontroluje sa...',
     'slug.failed': 'Táto adresa už existuje.',
     'slug.success': 'Táto adresa je k dispozícii!',
-    'notVerified.msg': 'Váš e-mail nie je overený.',
-    'notVerified.verify': 'Overte si prosím svoj e-mail.',
+    'notVerified.msg': `{option, select,
+    email {E-mail vášho účtu nie je overený}
+    wallet {Peňaženka vášho účtu nie je overená}
+    other {E-mail vášho účtu nie je overený}
+    }.`,
+    'notVerified.verify': `Overte si prosím svoj{option, select,
+    email { e-mail}
+    wallet {u peňaženku}
+    other { e-mail}
+    }.`,
     unknown: 'neznáme',
     'common.legal.guidelines': 'Usmernenia Spoločenstva',
     'errorLoading.title': 'Chyba počas načítania stránky',
@@ -196,5 +204,7 @@ export default {
     'common.2faCodeIntro': 'Zadajte svoj jednorazový kód vygenerovaný aplikáciou autentifikátora.',
     'common.2faCodeAria': 'Formulár na zadanie kódu 2FA',
     'common.flashnews': 'Bleskové správy',
-    'common.defaultLanguage': 'Predvolený jazyk'
+    'common.defaultLanguage': 'Predvolený jazyk',
+    'signin.web3.signMessage': 'Potvrďte, že chcete vstúpiť do Literary Universe s vašou peňaženkou ako metódou overovania. Kód: {code}',
+    'common.web3.confirmationCode': 'Potvrdzovací kód: {code}'
 }    /* eslint-enable max-len */;

@@ -88,5 +88,16 @@ export default {
     'settings.2fa.instructions3': 'Zeskanuj kod QR widoczny na ekranie lub, jeśli nie jest to możliwe, wpisz kod znajdujący się poniżej.',
     'settings.2fa.instructions4': 'Aby zakończyć, wpisz 6 liczb, które pojawią się na ekranie, w polu wprowadzania danych.',
     'settings.2fa.saved': 'Uwierzytelnianie dwuskładnikowe zostało pomyślnie ustanowione!',
-    'settings.2fa.disableOTP': 'Wyłącz uwierzytelnianie dwuskładnikowe OTP'
+    'settings.2fa.disableOTP': 'Wyłącz uwierzytelnianie dwuskładnikowe OTP',
+    'settings.web3.legend': 'Połączenie z portfelem Web3',
+    'settings.web3.explained': 'Możesz połączyć swój portfel kryptowalutowy Web3 z kontem Literary Universe. Po połączeniu będziesz mógł logować się za pomocą swojego portfela i robić jeszcze więcej rzeczy w przyszłości, w miarę jak będziemy rozszerzać naszą ofertę Web3.',
+    'settings.web3.connect': 'Podłącz swój portfel',
+    'settings.web3.address': 'Adres połączony: {address}',
+    'settings.web3.verify': 'Podpisz swój adres',
+    'settings.web3.verify.explained': 'Aby sprawdzić, czy ten adres należy do Ciebie, poprosimy Cię o podpisanie wiadomości, która potwierdzi Twoje prawo własności do portfela.',
+    'settings.web3.verified': 'Zweryfikowana',
+    'settings.web3.verificationMessage': 'Weryfikacja użytkownika {username} dla Literary Universe. Kod: {code}',
+    'settings.web3.unlink': 'Usuń portfel',
+    'settings.web3.linkingMessage': 'Potwierdź, że chcesz połączyć swój portfel z Literary Universe. Kod: {code}',
+    'settings.web3.linkError': 'Ten adres jest już zapisany w naszej bazie danych i nie może zostać przypisany!'
 };

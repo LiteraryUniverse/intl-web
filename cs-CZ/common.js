@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Ověřuji...',
     'slug.failed': 'Tato adresa už existuje.',
     'slug.success': 'Tato adresa je k dispozici!',
-    'notVerified.msg': 'E-mail Vašeho účtu není ověřen.',
-    'notVerified.verify': 'Prosím potvrďte Váš e-mail.',
+    'notVerified.msg': `Váš{option, select,
+    email { e-mail není ověřen}
+    wallet {e peněženka není ověřena}
+    other { e-mail není ověřen}
+    }.`,
+    'notVerified.verify': `Ověřte prosím {option, select,
+    email {svůj e-mail}
+    wallet {Vaší peněženku}
+    other {svůj e-mail}
+    }.`,
     unknown: 'neznámé',
     'common.legal.guidelines': 'Pravidla komunity',
     'errorLoading.title': 'Chyba při načítání stránky',
@@ -196,5 +204,7 @@ export default {
     'common.2faCodeIntro': 'Zadejte Váš jednorázový kód vygenerovaný vaší ověřovací aplikací.',
     'common.2faCodeAria': 'Formulář pro zadávání kódu 2FA',
     'common.flashnews': 'Bleskové zprávy',
-    'common.defaultLanguage': 'Výchozí jazyk'
+    'common.defaultLanguage': 'Výchozí jazyk',
+    'signin.web3.signMessage': 'Potvrďte, že chcete vstoupit do Literary Univese s Vaší peněženkou jako metodu ověření. Kód: {code}',
+    'common.web3.confirmationCode': 'Ověřovací kód: {code}'
 }    /* eslint-enable max-len */;

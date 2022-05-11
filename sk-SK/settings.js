@@ -86,5 +86,16 @@ export default {
     'settings.2fa.instructions3': 'Naskenujte kód QR zobrazený na obrazovke alebo, ak to nie je možné, zadajte kód uvedený nižšie.',
     'settings.2fa.instructions4': 'Zadajte 6 čísel, ktoré sa zobrazia na obrazovke, do vstupného poľa a dokončite.',
     'settings.2fa.saved': 'Dvojfaktorové overenie bolo úspešne vytvorené!',
-    'settings.2fa.disableOTP': 'Vypnúť dvojfaktorové OTP overenie'
+    'settings.2fa.disableOTP': 'Vypnúť dvojfaktorové OTP overenie',
+    'settings.web3.legend': 'Pripojenie peňaženky Web3',
+    'settings.web3.explained': 'Svoju kryptografickú peňaženku Web3 môžete pripojiť k účtu Literary Universe. Po pripojení sa budete môcť prihlásiť pomocou svojej peňaženky a v budúcnosti robiť ešte viac vecí, pretože našu ponuku Web3 rozširujeme.',
+    'settings.web3.connect': 'Pripojenie peňaženky',
+    'settings.web3.address': 'Pripojená adresa: {address}',
+    'settings.web3.verify': 'Podpíšte svoju adresu',
+    'settings.web3.verify.explained': 'Aby sme overili, že táto adresa patrí vám, požiadame vás o podpísanie správy, ktorá zaručí vaše vlastníctvo peňaženky.',
+    'settings.web3.verified': 'Overené',
+    'settings.web3.verificationMessage': 'Overovanie používateľa {username} pre Literary Universe. Kód: {code}',
+    'settings.web3.unlink': 'Odstránenie peňaženky',
+    'settings.web3.linkingMessage': 'Potvrďte, že chcete prepojiť svoju peňaženku s Literary Universe. Kód: {code}',
+    'settings.web3.linkError': 'Táto adresa je už uvedená v našej databáze a nemôže byť pridelená!'
 };

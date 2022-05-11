@@ -86,5 +86,16 @@ export default {
     'settings.2fa.instructions3': '画面上に表示されたQRコードを読み取るか、それができない場合は下のコードを入力してください。',
     'settings.2fa.instructions4': '画面に表示される6つの数字をここに入力すると終了です。',
     'settings.2fa.saved': '二要素認証が正常に確立されました。',
-    'settings.2fa.disableOTP': 'OTP二要素認証の無効化'
+    'settings.2fa.disableOTP': 'OTP二要素認証の無効化',
+    'settings.web3.legend': 'Web3ウォレット接続',
+    'settings.web3.explained': 'Web3暗号ウォレットをリテラリーユニバースのアカウントに接続することができます。一度接続すると、あなたの財布でログインすることができ、私たちがWeb3の提供を拡大するにつれて、将来的にはさらに多くのことができるようになります。',
+    'settings.web3.connect': 'ウォレットを接続する',
+    'settings.web3.address': '接続先アドレス：　{address}',
+    'settings.web3.verify': '住所を署名する',
+    'settings.web3.verify.explained': 'このアドレスがお客様のものであることを確認するため、ウォレットの所有権を証明するメッセージに署名していただくようお願いしています。',
+    'settings.web3.verified': '検証済み',
+    'settings.web3.verificationMessage': '文学の宇宙のユーザー{username}を検証しています。コード：　{code}',
+    'settings.web3.unlink': 'ウォレットを取り除く',
+    'settings.web3.linkingMessage': 'ウォレットを文学の宇宙に接続することを確認してください。コード：　{code}',
+    'settings.web3.linkError': 'このアドレスはすでに私たちのデータベースに登録されており、割り当てることができません。'
 };

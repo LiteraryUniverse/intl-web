@@ -88,5 +88,16 @@ export default {
     'settings.2fa.instructions3': 'Escanee el código QR que aparece en la pantalla o, si no es posible, introduzca el código que aparece a continuación.',
     'settings.2fa.instructions4': 'Escriba los 6 números que aparecen en la pantalla en la entrada aquí para terminar.',
     'settings.2fa.saved': 'La autenticación de dos factores se ha establecido con éxito!',
-    'settings.2fa.disableOTP': 'Desactivar la autenticación de dos factores OTP'
+    'settings.2fa.disableOTP': 'Desactivar la autenticación de dos factores OTP',
+    'settings.web3.legend': 'Conexión del monedero Web3',
+    'settings.web3.explained': 'Puedes conectar tu monedero de criptomonedas Web3 a tu cuenta de Literary Universe. Una vez conectado, podrás iniciar sesión con tu monedero y hacer aún más cosas en el futuro, a medida que ampliamos nuestra oferta de Web3.',
+    'settings.web3.connect': 'Conecte su cartera',
+    'settings.web3.address': 'Dirección conectada: {address}',
+    'settings.web3.verify': 'Firma tu dirección',
+    'settings.web3.verify.explained': 'Para verificar que esta dirección te pertenece te pediremos que firmes un mensaje para asegurar tu propiedad del monedero.',
+    'settings.web3.verified': 'Verificado',
+    'settings.web3.verificationMessage': 'Verificando el usuario {username} para el Literary Universe. Código: {code}',
+    'settings.web3.unlink': 'Eliminar cartera',
+    'settings.web3.linkingMessage': 'Por favor, confirme que desea vincular su cartera con el Literary Universe. Código: {code}',
+    'settings.web3.linkError': 'Esta dirección ya figura en nuestra base de datos y no puede ser asignada!'
 };

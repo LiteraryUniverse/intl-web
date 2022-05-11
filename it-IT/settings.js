@@ -88,5 +88,16 @@ export default {
     'settings.2fa.instructions3': 'Scannerizzare il codice QR presentato sullo schermo qui o se non è possibile inserire il codice qui sotto.',
     'settings.2fa.instructions4': 'Digita i 6 numeri che appaiono sullo schermo nell\'input qui per finire.',
     'settings.2fa.saved': 'Autenticazione a due fattori stabilita con successo!',
-    'settings.2fa.disableOTP': 'Disattivare l\'autenticazione a due fattori OTP'
+    'settings.2fa.disableOTP': 'Disattivare l\'autenticazione a due fattori OTP',
+    'settings.web3.legend': 'Connessione al portafoglio Web3',
+    'settings.web3.explained': 'Potete collegare il vostro portafoglio Web3 al vostro conto Literary Universe. Una volta collegato, potrete effettuare il login con il vostro portafoglio e fare ancora più cose in futuro, man mano che espanderemo la nostra offerta Web3.',
+    'settings.web3.connect': 'Collegare il portafoglio',
+    'settings.web3.address': 'Indirizzo connesso: {address}',
+    'settings.web3.verify': 'Firma il tuo indirizzo',
+    'settings.web3.verify.explained': 'Per verificare che questo indirizzo appartenga a voi, vi chiederemo di firmare un messaggio per garantire la vostra proprietà del portafoglio.',
+    'settings.web3.verified': 'Verificato',
+    'settings.web3.verificationMessage': 'Verifica dell\'utente {username} per Literary Universe. Codice: {code}',
+    'settings.web3.unlink': 'Rimuovere il portafoglio',
+    'settings.web3.linkingMessage': 'Confermate di voler collegare il vostro portafoglio a Literary Universe. Codice: {code}',
+    'settings.web3.linkError': 'Questo indirizzo è già presente nel nostro database e non può essere assegnato!'
 };

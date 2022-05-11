@@ -136,8 +136,16 @@ export default {
     'slug.checking': 'Comprobando...',
     'slug.failed': 'Esta dirección ya existe.',
     'slug.success': '¡La dirección está disponible!',
-    'notVerified.msg': 'Tu e-mail no está verificado.',
-    'notVerified.verify': 'Por favor, verifique su e-mail.',
+    'notVerified.msg': `¡Tu cuenta {option, select,
+    email {e-mail}
+    wallet {monedero}
+    other {e-mail}
+    } no está verificado.`,
+    'notVerified.verify': `Por favor verifica tu {option, select,
+    email {e-mail}
+    wallet {monedero}
+    other {e-mail}
+    }.`,
     unknown: 'desconocido',
     'common.legal.guidelines': 'Normas de la comunidad',
     'errorLoading.title': 'Error al cargar la página',
@@ -196,5 +204,7 @@ export default {
     'common.2faCodeIntro': 'Por favor, introduzca su código de tiempo único generado por su aplicación de autenticación.',
     'common.2faCodeAria': 'Formulario de entrada de código 2FA',
     'common.flashnews': 'Flashnews',
-    'common.defaultLanguage': 'Idioma predeterminado'
+    'common.defaultLanguage': 'Idioma predeterminado',
+    'signin.web3.signMessage': 'Por favor, confirme que quiere entrar en Literary Universe con su cartera como método de autenticación. Código: {code}',
+    'common.web3.confirmationCode': 'Código de confirmación: {code}'
 }    /* eslint-enable max-len */;
