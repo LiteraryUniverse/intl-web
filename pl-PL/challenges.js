@@ -32,10 +32,10 @@ export default {
     'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
-    'nanowrimo.site': 'NaNoWriMo official site',
-    'nanowrimo.settings': 'NaNoWriMo account',
-    'nanowrimo.username': 'NaNoWriMo username',
-    'nanowrimo.key': 'Secret key',
+    'nanowrimo.site': 'Oficjalna strona NaNoWriMo',
+    'nanowrimo.settings': 'Konto NaNoWriMo',
+    'nanowrimo.username': 'Nazwa użytkownika NaNoWriMo',
+    'nanowrimo.key': 'Tajny klucz',
     'nanowrimo.key.get': 'Get your NaNoWriMo key.',
     'nanowrimo.key.get.notice': 'You need to be logged in to see it.',
     'nanowrimo.ongoing': 'is in full swing! {countdown} more days to go!',
@@ -43,8 +43,8 @@ export default {
       one {1 day}
       other {# days}
     }! Get ready!`,
-    'nanowrimo.isover': 'NaNoWriMo is over. See you next year!',
-    'nanowrimo.select': 'Designate this story for NaNoWriMo.',
+    'nanowrimo.isover': 'NaNoWriMo zakończył się. Zobaczcie w przyszłym roku!',
+    'nanowrimo.select': 'Wyznacz tę opowieść dla NaNoWriMo.',
     'nanowrimo.baseline': 'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
     'nanowrimo.victory': 'Congratulation! You won NaNoWriMo!',
     'nanowrimo.challenge': 'NaNoWriMo challenge',
