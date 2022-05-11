@@ -136,14 +136,14 @@ export default {
     'slug.checking': 'Sprawdzanie...',
     'slug.failed': 'Ten adres już istnieje.',
     'slug.success': 'Ten adres jest dostępny!',
-    'notVerified.msg': `Your account {option, select,
+    'notVerified.msg': `Twoje konto {option, select,
     email {e-mail}
-    wallet {wallet}
+    wallet {portfel}
     other {e-mail}
-    } is not verified.`,
-    'notVerified.verify': `Please verify your {option, select,
+    } nie został zweryfikowany.`,
+    'notVerified.verify': `Proszę zweryfikować swój {option, select,
     email {e-mail}
-    wallet {wallet}
+    wallet {portfel}
     other {e-mail}
     }.`,
     unknown: 'nieznane',
@@ -205,6 +205,6 @@ export default {
     'common.2faCodeAria': 'Formularz wprowadzania kodu 2FA',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Domyślny język',
-    'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method. Code: {code}',
-    'common.web3.confirmationCode': 'Confirmation code: {code}'
+    'signin.web3.signMessage': 'Potwierdź, że chcesz wejść do Literary Universe, używając swojego portfela jako metody uwierzytelniania. Kod: {code}',
+    'common.web3.confirmationCode': 'Kod potwierdzenia: {code}'
 }    /* eslint-enable max-len */;
