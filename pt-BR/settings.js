@@ -94,7 +94,8 @@ export default {
     'settings.web3.verify': 'Sign your address',
     'settings.web3.verify.explained': 'To verify that this address belongs to you we will ask you to sign a message to ensure your ownership of the wallet.',
     'settings.web3.verified': 'Verified',
-    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe.',
+    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe. Code: {code}',
     'settings.web3.unlink': 'Remove wallet',
-    'settings.web3.linkingMessage': 'Please confirm that you want to link your wallet to Literary Universe.'
+    'settings.web3.linkingMessage': 'Please confirm that you want to link your wallet to Literary Universe. Code: {code}',
+    'settings.web3.linkError': 'This address is already listed in our database and can\'t assigned!'
 };
