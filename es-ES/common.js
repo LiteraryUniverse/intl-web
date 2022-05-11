@@ -205,6 +205,6 @@ export default {
     'common.2faCodeAria': 'Formulario de entrada de código 2FA',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Idioma predeterminado',
-    'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method. Code: {code}',
-    'common.web3.confirmationCode': 'Confirmation code: {code}'
+    'signin.web3.signMessage': 'Por favor, confirme que quiere entrar en Literary Universe con su cartera como método de autenticación. Código: {code}',
+    'common.web3.confirmationCode': 'Código de confirmación: {code}'
 }    /* eslint-enable max-len */;
