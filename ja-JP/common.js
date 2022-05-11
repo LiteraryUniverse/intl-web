@@ -205,6 +205,6 @@ export default {
     'common.2faCodeAria': '2FAコードエントリフォーム',
     'common.flashnews': 'フラッシュニュース',
     'common.defaultLanguage': '既定の言語',
-    'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method. Code: {code}',
-    'common.web3.confirmationCode': 'Confirmation code: {code}'
+    'signin.web3.signMessage': 'ウォレットを認証方法として文学の宇宙に参入することを確認してください。コード：{code}',
+    'common.web3.confirmationCode': '確認用コード：　{code}'
 }    /* eslint-enable max-len */;
