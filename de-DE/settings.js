@@ -96,8 +96,8 @@ export default {
     'settings.web3.verify': 'Unterschreiben Sie Ihre Adresse',
     'settings.web3.verify.explained': 'Um zu überprüfen, dass diese Adresse Ihnen gehört, werden wir Sie bitten, eine Nachricht zu unterschreiben, um sicherzustellen, dass Sie der Eigentümer der Brieftasche sind.',
     'settings.web3.verified': 'Überprüft',
-    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe. Code: {code}',
+    'settings.web3.verificationMessage': 'Überprüfung des Benutzers {username} für Literary Universe. Code: {code}',
     'settings.web3.unlink': 'Brieftasche entfernen',
-    'settings.web3.linkingMessage': 'Please confirm that you want to link your wallet to Literary Universe. Code: {code}',
-    'settings.web3.linkError': 'This address is already listed in our database and can\'t assigned!'
+    'settings.web3.linkingMessage': 'Bitte bestätigen Sie, dass Sie Ihre Brieftasche mit Literary Universe verknüpfen möchten. Code: {code}',
+    'settings.web3.linkError': 'Diese Adresse ist bereits in unserer Datenbank aufgeführt und kann nicht zugewiesen werden!'
 };
