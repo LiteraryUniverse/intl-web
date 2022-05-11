@@ -94,7 +94,8 @@ export default {
     'settings.web3.verify': '住所を署名する',
     'settings.web3.verify.explained': 'このアドレスがお客様のものであることを確認するため、ウォレットの所有権を証明するメッセージに署名していただくようお願いしています。',
     'settings.web3.verified': '検証済み',
-    'settings.web3.verificationMessage': '文学の宇宙のユーザー{username}を検証しています。',
+    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe. Code: {code}',
     'settings.web3.unlink': 'ウォレットを取り除く',
-    'settings.web3.linkingMessage': 'ウォレットを文学の宇宙に接続することを確認してください。'
+    'settings.web3.linkingMessage': 'Please confirm that you want to link your wallet to Literary Universe. Code: {code}',
+    'settings.web3.linkError': 'This address is already listed in our database and can\'t assigned!'
 };
