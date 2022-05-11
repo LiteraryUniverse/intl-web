@@ -94,8 +94,8 @@ export default {
     'settings.web3.verify': 'Podpíšte svoju adresu',
     'settings.web3.verify.explained': 'Aby sme overili, že táto adresa patrí vám, požiadame vás o podpísanie správy, ktorá zaručí vaše vlastníctvo peňaženky.',
     'settings.web3.verified': 'Overené',
-    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe. Code: {code}',
+    'settings.web3.verificationMessage': 'Overovanie používateľa {username} pre Literary Universe. Kód: {code}',
     'settings.web3.unlink': 'Odstránenie peňaženky',
-    'settings.web3.linkingMessage': 'Please confirm that you want to link your wallet to Literary Universe. Code: {code}',
-    'settings.web3.linkError': 'This address is already listed in our database and can\'t assigned!'
+    'settings.web3.linkingMessage': 'Potvrďte, že chcete prepojiť svoju peňaženku s Literary Universe. Kód: {code}',
+    'settings.web3.linkError': 'Táto adresa je už uvedená v našej databáze a nemôže byť pridelená!'
 };
