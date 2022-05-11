@@ -96,8 +96,8 @@ export default {
     'settings.web3.verify': 'Firma tu dirección',
     'settings.web3.verify.explained': 'Para verificar que esta dirección te pertenece te pediremos que firmes un mensaje para asegurar tu propiedad del monedero.',
     'settings.web3.verified': 'Verificado',
-    'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe. Code: {code}',
+    'settings.web3.verificationMessage': 'Verificando el usuario {username} para el Literary Universe. Código: {code}',
     'settings.web3.unlink': 'Eliminar cartera',
-    'settings.web3.linkingMessage': 'Please confirm that you want to link your wallet to Literary Universe. Code: {code}',
-    'settings.web3.linkError': 'This address is already listed in our database and can\'t assigned!'
+    'settings.web3.linkingMessage': 'Por favor, confirme que desea vincular su cartera con el Literary Universe. Código: {code}',
+    'settings.web3.linkError': 'Esta dirección ya figura en nuestra base de datos y no puede ser asignada!'
 };
