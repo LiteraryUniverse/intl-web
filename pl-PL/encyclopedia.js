@@ -122,11 +122,13 @@ export default {
     'encyclopedia.cover': 'Obraz okładki',
     'encyclopedia.translation.title': 'Witamy w {universe} tłumaczeniu wszechświata!',
     'encyclopedia.translation.desc': 'Ten interfejs encyklopedii jest używany do tłumaczenia na {language}. Wybierz istniejące wpisy z listy po lewej stronie, aby rozpocząć ich tłumaczenie.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `W tym wszechświecie {totalEntries, plural,
+    zero {nie ma żadnych wpisów}
+    one {jest jedno wejście}
+    few {są # wejścia}
+    many {jest # wejść}
+    other {jest # wejść}
+    }.`,
     'encyclopedia.settings.title': 'Ustawienia encyklopedii',
     'encyclopedia.settings.categoriesDesc': 'Włączaj i wyłączaj kategorie, których chcesz używać w swojej encyklopedii.',
     'encyclopedia.settings.introText': 'Komunikat powitalny, który ma być wyświetlany po opisie wszechświata.',
