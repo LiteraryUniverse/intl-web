@@ -15,7 +15,7 @@ export default {
   'blog.description': 'Blog introduction',
   'blog.theme': 'Theme',
   'blog.theme.info':
-    'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'Adjusting the theme you will be able to change the look of the page. Only change these if you know what you are doing.',
   'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -53,5 +53,31 @@ export default {
   'blogs.visit': 'Visit blog',
   'blog.settingsAria': 'Settings categories for the blog',
   'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Forum'
+  'blog.settings.forum': 'Forum',
+
+  // Styling options
+  'blog.theme.select': 'Pre-defined theme',
+  'blog.theme.default': 'Default Literary Universe look',
+  'blog.theme.custom': 'Completely custom',
+  'blog.customCSS.themeLight': 'Light theme',
+  'blog.customCSS.themeDark': 'Dark theme',
+  'blog.customCSS.background': 'Background',
+  'blog.customCSS.backgroundDesc': 'Background behind the main page',
+  'blog.customCSS.menu': 'Menu',
+  'blog.customCSS.menuDesc': 'The blog menu',
+  'blog.customCSS.page': 'Page',
+  'blog.customCSS.pageDesc': 'Container of the blog page with content',
+  'blog.customCSS.header': 'Header',
+  'blog.customCSS.headerDesc': '',
+  'blog.customCSS.article': 'Article',
+  'blog.customCSS.articleDesc': 'Displayed article',
+  'blog.customCSS.articleBox': 'Article summary',
+  'blog.customCSS.articleBoxDesc':
+    'Article summary box on the main page or in the archive',
+  'blog.customCSS.forum': 'Forum',
+  'blog.customCSS.forumDesc': 'The forum display',
+  'blog.customCSS.forumThread': 'Forum thread',
+  'blog.customCSS.forumThreadDesc': '',
+  'blog.customCSS.forumPost': 'Forum post',
+  'blog.customCSS.forumPostDesc': 'Individual forum posts'
 }
