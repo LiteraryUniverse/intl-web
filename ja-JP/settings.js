@@ -87,6 +87,7 @@ export default {
     'settings.2fa.instructions4': '画面に表示される6つの数字をここに入力すると終了です。',
     'settings.2fa.saved': '二要素認証が正常に確立されました。',
     'settings.2fa.disableOTP': 'OTP二要素認証の無効化',
+    // Web3
     'settings.web3.legend': 'Web3ウォレット接続',
     'settings.web3.explained': 'Web3暗号ウォレットをリテラリーユニバースのアカウントに接続することができます。一度接続すると、あなたの財布でログインすることができ、私たちがWeb3の提供を拡大するにつれて、将来的にはさらに多くのことができるようになります。',
     'settings.web3.connect': 'ウォレットを接続する',
