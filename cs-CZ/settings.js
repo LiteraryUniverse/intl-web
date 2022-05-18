@@ -89,6 +89,7 @@ export default {
     'settings.2fa.instructions4': 'Zadejte 6 čísel, která se objeví na obrazovce do vstupu pro dokončení.',
     'settings.2fa.saved': 'Dvoufaktorové ověření bylo úspěšně vytvořeno!',
     'settings.2fa.disableOTP': 'Vypnout OTP dvoufaktorové ověřování',
+    // Web3
     'settings.web3.legend': 'Připojení k Web3 peněžence',
     'settings.web3.explained': 'K vašemu účtu Literary Universe můžete připojit peněženku Web3. Jakmile budete připojeni, budete se moci přihlásit do Vaší peněženky a v budoucnosti bude k dispozicí ještě více funkcionality, protože rozšiřujeme naši nabídku pro Web3.',
     'settings.web3.connect': 'Připojit peněženku',
