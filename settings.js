@@ -742,7 +742,10 @@ export default {
     'MA',
     'PS',
     'SY',
-    'TN'
+    'TN',
+    // Other
+    'UK',
+    'RU'
   ],
   /**
    * USA states

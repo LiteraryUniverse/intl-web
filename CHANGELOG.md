@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2022-05-25 - v1.11.0
+
+* Added strings for new form validators
+* Added UK and RU to list of other countries in settings
+
 ## 2022-05-10 - v1.10.0
 
 * Added strings for wallet connect in settings
