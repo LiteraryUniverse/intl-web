@@ -206,5 +206,6 @@ export default {
     'common.flashnews': 'Bleskové zprávy',
     'common.defaultLanguage': 'Výchozí jazyk',
     'signin.web3.signMessage': 'Potvrďte, že chcete vstoupit do Literary Univese s Vaší peněženkou jako metodu ověření. Kód: {code}',
-    'common.web3.confirmationCode': 'Ověřovací kód: {code}'
+    'common.web3.confirmationCode': 'Ověřovací kód: {code}',
+    'common.roadmap': 'Roadmap'
 }    /* eslint-enable max-len */;
