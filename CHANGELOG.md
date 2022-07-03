@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2022-07-xx - v1.12.0
+
+* Added roadmap translations
+
 ## 2022-05-25 - v1.11.0
 
 * Added strings for new form validators
