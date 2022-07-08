@@ -83,5 +83,17 @@ export default {
   'about.attributionsMatomo':
     'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
   'about.attributionIcons':
-    'The following icons are used through the site via styled-icons:'
+    'The following icons are used through the site via styled-icons:',
+  'team.name.sedwards': 'Scott Edwards',
+  'team.name.rhubbell': 'Raena Hubbell',
+  'team.name.pjakubec': 'Pavel Jakubec',
+  'team.name.asebesta': 'Adam Šebesta',
+  'about.developer': 'Developer',
+  'about.seniorDeveloper': 'Senior Developer',
+  'about.juniorDeveloper': 'Junior Developer',
+  'about.apprenticeDeveloper': 'Apprentice Developer',
+  'about.intern': 'Intern',
+  'about.advisor': 'Advisor',
+  'about.headOfResearch': 'Head of Research',
+  'about.cfo': 'Chief Financial Officer'
 }
