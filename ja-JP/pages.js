@@ -59,5 +59,17 @@ export default {
     'about.attributions': '属性',
     'about.attributionsIntro': '文学の宇宙は、多くのオープンソース・プロジェクトやフリー・リソースの上に構築されています。以下にそれらのリストを掲載します。',
     'about.attributionsMatomo': '当社の分析には、セルフホスティングのMatomoと、https://lite.ip2location.com から入手可能なIP2Location LITEデータを使用しています。',
-    'about.attributionIcons': '以下のアイコンは、styled-iconsを介してサイト内で使用されています。'
+    'about.attributionIcons': '以下のアイコンは、styled-iconsを介してサイト内で使用されています。',
+    'team.name.sedwards': 'Scott Edwards',
+    'team.name.rhubbell': 'Raena Hubbell',
+    'team.name.pjakubec': 'Pavel Jakubec',
+    'team.name.asebesta': 'Adam Šebesta',
+    'about.developer': 'Developer',
+    'about.seniorDeveloper': 'Senior Developer',
+    'about.juniorDeveloper': 'Junior Developer',
+    'about.apprenticeDeveloper': 'Apprentice Developer',
+    'about.intern': 'Intern',
+    'about.advisor': 'Advisor',
+    'about.headOfResearch': 'Head of Research',
+    'about.cfo': 'Chief Financial Officer'
 };
