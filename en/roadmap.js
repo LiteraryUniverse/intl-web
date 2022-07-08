@@ -13,5 +13,18 @@ export default {
   'roadmap.eta.q1.long': 'First quarter',
   'roadmap.eta.q2.long': 'Second quarter',
   'roadmap.eta.q3.long': 'Third quarter',
-  'roadmap.eta.q4.long': 'Fourth quarter'
+  'roadmap.eta.q4.long': 'Fourth quarter',
+  'roadmap.backlog': 'Backlog',
+  'roadmap.history': 'History of development',
+  'roadmap.item.inBacklog':
+    'We are planning to develop this feature in the future.',
+  'roadmap.item.inProgress':
+    'The development of the feature started {startedAt, date}.',
+  'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
+  'roadmap.item.inPreview':
+    'This feature became available to Storyteller subscribers on {previewAt, date}.',
+  'roadmap.item.inGa':
+    'This feature has become generally available on {gaAt, date}.',
+  'roadmap.item.originalIssue':
+    'This feature was originally suggested by our users.'
 }
