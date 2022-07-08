@@ -26,5 +26,16 @@ export default {
   'roadmap.item.inGa':
     'This feature has become generally available on {gaAt, date}.',
   'roadmap.item.originalIssue':
-    'This feature was originally suggested by our users.'
+    'This feature was originally suggested by our users.',
+  'roadmap.eta.mapTitle': `Planned for {quarter, select,
+    Q1 {Q1}
+    Q2 {Q2}
+    Q3 {Q3}
+    Q4 {Q4}
+    other {}
+  } {year, date, ::yyyy}`,
+  'roadmap.back': 'Back to roadmap',
+  'roadmap.seeBacklog': 'Check out what other things we plan to do',
+  'roadmap.seeFinished':
+    'If you like to dig more into our history, we have a nice overview ready for you'
 }
