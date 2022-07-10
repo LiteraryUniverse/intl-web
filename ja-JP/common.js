@@ -206,5 +206,6 @@ export default {
     'common.flashnews': 'フラッシュニュース',
     'common.defaultLanguage': '既定の言語',
     'signin.web3.signMessage': 'ウォレットを認証方法として文学の宇宙に参入することを確認してください。コード：{code}',
-    'common.web3.confirmationCode': '確認用コード：　{code}'
+    'common.web3.confirmationCode': '確認用コード：　{code}',
+    'common.roadmap': 'ロードマップ'
 }    /* eslint-enable max-len */;

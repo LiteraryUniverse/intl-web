@@ -89,6 +89,7 @@ export default {
     'settings.2fa.instructions4': 'Escriba los 6 números que aparecen en la pantalla en la entrada aquí para terminar.',
     'settings.2fa.saved': 'La autenticación de dos factores se ha establecido con éxito!',
     'settings.2fa.disableOTP': 'Desactivar la autenticación de dos factores OTP',
+    // Web3
     'settings.web3.legend': 'Conexión del monedero Web3',
     'settings.web3.explained': 'Puedes conectar tu monedero de criptomonedas Web3 a tu cuenta de Literary Universe. Una vez conectado, podrás iniciar sesión con tu monedero y hacer aún más cosas en el futuro, a medida que ampliamos nuestra oferta de Web3.',
     'settings.web3.connect': 'Conecte su cartera',

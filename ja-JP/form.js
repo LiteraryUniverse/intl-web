@@ -29,6 +29,9 @@ export default {
     'form.validator.whitespace': 'スペースを空白にしてはいけません',
     'form.validator.zipCode': '有効な郵便番号である必要があります',
     'form.validator.isbn': 'ISBNのバージョンは10または13です。',
+    'form.validator.btc': 'これは有効なBTCアドレスではありません。',
+    'form.validator.eth': 'これは有効なETHアドレスではありません。',
+    'form.weakPassword': 'このパスワードは弱いようです。数字や特殊文字を追加して、より強固なものにすることを検討してください。',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '「{label}」が必要です',

@@ -206,5 +206,6 @@ export default {
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Lingua predefinita',
     'signin.web3.signMessage': 'Confermare che si desidera entrare in Literary Universe con il proprio portafoglio come metodo di autenticazione. Codice: {code}',
-    'common.web3.confirmationCode': 'Codice di conferma: {code}'
+    'common.web3.confirmationCode': 'Codice di conferma: {code}',
+    'common.roadmap': 'Roadmap'
 }    /* eslint-enable max-len */;

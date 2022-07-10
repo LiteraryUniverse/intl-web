@@ -87,6 +87,7 @@ export default {
     'settings.2fa.instructions4': 'Digite os 6 números que aparecem na tela na entrada aqui para finalizar.',
     'settings.2fa.saved': 'Autenticação de dois fatores estabelecida com sucesso!',
     'settings.2fa.disableOTP': 'Desativar a autenticação OTP de dois fatores',
+    // Web3
     'settings.web3.legend': 'Web3 wallet connection',
     'settings.web3.explained': 'You can connect your Web3 crypto wallet to you Literary Universe account. Once connected you will be able to login with your wallet and do even more things in the future as we expand our Web3 offering.',
     'settings.web3.connect': 'Connect your wallet',

@@ -15,7 +15,7 @@ export default {
     'universe.translators': 'Překladatelé',
     'universe.authors.notice': 'Každý příběh může mít další osobu, která na něm pracuje. Další podrobnosti naleznete v podrobnostech příběhu.',
     'universe.createdBy': `{gender, select,
-    male {Vyvořil}
+    male {Vytvořil}
     female {Vytvořila}
     other {Vytvořil}} `,
     'universe.stories.for': 'Příběhy z {universe}',

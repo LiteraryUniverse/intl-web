@@ -89,6 +89,7 @@ export default {
     'settings.2fa.instructions4': 'Geben Sie die 6 Zahlen, die auf dem Bildschirm erscheinen, in das Eingabefeld ein, um den Vorgang abzuschließen.',
     'settings.2fa.saved': 'Zwei-Faktor-Authentifizierung erfolgreich eingerichtet!',
     'settings.2fa.disableOTP': 'OTP-Zwei-Faktor-Authentifizierung deaktivieren',
+    // Web3
     'settings.web3.legend': 'Web3 Wallet-Verbindung',
     'settings.web3.explained': 'Sie können Ihre Web3-Krypto-Brieftasche mit Ihrem Literary Universe-Konto verbinden. Sobald Sie verbunden sind, können Sie sich mit Ihrer Wallet anmelden und in Zukunft noch mehr Dinge tun, da wir unser Web3-Angebot erweitern.',
     'settings.web3.connect': 'Verbinden Sie Ihre Brieftasche',

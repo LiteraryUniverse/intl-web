@@ -89,6 +89,7 @@ export default {
     'settings.2fa.instructions4': 'Aby zakończyć, wpisz 6 liczb, które pojawią się na ekranie, w polu wprowadzania danych.',
     'settings.2fa.saved': 'Uwierzytelnianie dwuskładnikowe zostało pomyślnie ustanowione!',
     'settings.2fa.disableOTP': 'Wyłącz uwierzytelnianie dwuskładnikowe OTP',
+    // Web3
     'settings.web3.legend': 'Połączenie z portfelem Web3',
     'settings.web3.explained': 'Możesz połączyć swój portfel kryptowalutowy Web3 z kontem Literary Universe. Po połączeniu będziesz mógł logować się za pomocą swojego portfela i robić jeszcze więcej rzeczy w przyszłości, w miarę jak będziemy rozszerzać naszą ofertę Web3.',
     'settings.web3.connect': 'Podłącz swój portfel',

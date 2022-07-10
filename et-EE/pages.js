@@ -1,8 +1,8 @@
 export default {
     'homepage.welcome': 'Welcome to Literary Universe!',
-    'homepage.read': 'Read',
-    'homepage.explore': 'Explore',
-    'homepage.create': 'Create',
+    'homepage.read': 'Loe',
+    'homepage.explore': 'Avasta',
+    'homepage.create': 'Loo',
     'homepage.read.desc': 'Enjoy a great reading experience with access to details of the stories\' universe adjacent to the story text, without the need to leave the story window.',
     'homepage.explore.desc': 'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
     'homepage.create.desc': 'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
@@ -59,5 +59,17 @@ export default {
     'about.attributions': 'Attributions',
     'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
     'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-    'about.attributionIcons': 'The following icons are used through the site via styled-icons:'
+    'about.attributionIcons': 'The following icons are used through the site via styled-icons:',
+    'team.name.sedwards': 'Scott Edwards',
+    'team.name.rhubbell': 'Raena Hubbell',
+    'team.name.pjakubec': 'Pavel Jakubec',
+    'team.name.asebesta': 'Adam Šebesta',
+    'about.developer': 'Arendaja',
+    'about.seniorDeveloper': 'Senior Developer',
+    'about.juniorDeveloper': 'Junior Developer',
+    'about.apprenticeDeveloper': 'Apprentice Developer',
+    'about.intern': 'Intern',
+    'about.advisor': 'Nõuandja',
+    'about.headOfResearch': 'Head of Research',
+    'about.CFO': 'Chief Financial Officer'
 };

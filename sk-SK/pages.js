@@ -59,5 +59,17 @@ export default {
     'about.attributions': 'Atribuce',
     'about.attributionsIntro': 'Literary Universe je postavený na mnohých projektoch s otvoreným zdrojovým kódom a bezplatných zdrojoch. Nižšie nájdete ich zoznam.',
     'about.attributionsMatomo': 'Naša analytika využíva vlastný hosting Matomo s údajmi IP2Location LITE dostupnými zo stránky https://lite.ip2location.com.',
-    'about.attributionIcons': 'Na stránke sa používajú nasledujúce ikony prostredníctvom styled-icons:'
+    'about.attributionIcons': 'Na stránke sa používajú nasledujúce ikony prostredníctvom styled-icons:',
+    'team.name.sedwards': 'Scott Edwards',
+    'team.name.rhubbell': 'Raena Hubbell',
+    'team.name.pjakubec': 'Pavel Jakubec',
+    'team.name.asebesta': 'Adam Šebesta',
+    'about.developer': 'Vývojár',
+    'about.seniorDeveloper': 'Senior vývojár',
+    'about.juniorDeveloper': 'Junior vývojár',
+    'about.apprenticeDeveloper': 'Učeň vývojár',
+    'about.intern': 'Stážista',
+    'about.advisor': 'Poradca',
+    'about.headOfResearch': 'Vedúci výskumu',
+    'about.CFO': 'Finančný riaditeľ'
 };

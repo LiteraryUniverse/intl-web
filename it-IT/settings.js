@@ -89,6 +89,7 @@ export default {
     'settings.2fa.instructions4': 'Digita i 6 numeri che appaiono sullo schermo nell\'input qui per finire.',
     'settings.2fa.saved': 'Autenticazione a due fattori stabilita con successo!',
     'settings.2fa.disableOTP': 'Disattivare l\'autenticazione a due fattori OTP',
+    // Web3
     'settings.web3.legend': 'Connessione al portafoglio Web3',
     'settings.web3.explained': 'Potete collegare il vostro portafoglio Web3 al vostro conto Literary Universe. Una volta collegato, potrete effettuare il login con il vostro portafoglio e fare ancora più cose in futuro, man mano che espanderemo la nostra offerta Web3.',
     'settings.web3.connect': 'Collegare il portafoglio',

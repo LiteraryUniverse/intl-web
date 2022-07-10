@@ -28,6 +28,9 @@ export default {
     'form.validator.whitespace': 'Muss keinen Leerzeichen haben',
     'form.validator.zipCode': 'Muss eine gültige Postleitzahl sein',
     'form.validator.isbn': 'Wir akzeptieren nur 10 oder 13 Versionen von ISBN',
+    'form.validator.btc': 'Dies ist keine gültige BTC-Adresse.',
+    'form.validator.eth': 'Dies ist keine gültige ETH-Adresse.',
+    'form.weakPassword': 'Dieses Passwort sieht schwach aus. Bitte überlegen Sie, ob Sie es durch Zahlen und Sonderzeichen verstärken können.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} ist erforderlich',

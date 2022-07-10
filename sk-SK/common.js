@@ -206,5 +206,6 @@ export default {
     'common.flashnews': 'Bleskové správy',
     'common.defaultLanguage': 'Predvolený jazyk',
     'signin.web3.signMessage': 'Potvrďte, že chcete vstúpiť do Literary Universe s vašou peňaženkou ako metódou overovania. Kód: {code}',
-    'common.web3.confirmationCode': 'Potvrdzovací kód: {code}'
+    'common.web3.confirmationCode': 'Potvrdzovací kód: {code}',
+    'common.roadmap': 'Plán'
 }    /* eslint-enable max-len */;

@@ -59,5 +59,17 @@ export default {
     'about.attributions': 'Urhebernachweise',
     'about.attributionsIntro': 'Literary Universe baut auf vielen Open-Source-Projekten und anderen Ressourcen auf. Unten finden Sie deren Auflistung.',
     'about.attributionsMatomo': 'Unsere Analysen verwenden das selbst gehostete Matomo mit IP2Location LITE-Daten, die unter https://lite.ip2location.com verfügbar sind.',
-    'about.attributionIcons': 'Die folgenden Icons werden auf der Website über Styled-Icons verwendet:'
+    'about.attributionIcons': 'Die folgenden Icons werden auf der Website über Styled-Icons verwendet:',
+    'team.name.sedwards': 'Scott Edwards',
+    'team.name.rhubbell': 'Raena Hubbell',
+    'team.name.pjakubec': 'Pavel Jakubec',
+    'team.name.asebesta': 'Adam Šebesta',
+    'about.developer': 'Entwickler',
+    'about.seniorDeveloper': 'Senior Entwickler',
+    'about.juniorDeveloper': 'Junior-Entwickler',
+    'about.apprenticeDeveloper': 'Lehrling Entwickler',
+    'about.intern': 'Praktikant',
+    'about.advisor': 'Berater',
+    'about.headOfResearch': 'Leiter der Forschung',
+    'about.CFO': 'Finanzvorstand'
 };
