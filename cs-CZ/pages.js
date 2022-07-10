@@ -71,5 +71,5 @@ export default {
     'about.intern': 'Stážista',
     'about.advisor': 'Poradce',
     'about.headOfResearch': 'Vedoucí výzkumu',
-    'about.cfo': 'Finanční Ředitel'
+    'about.CFO': 'Finanční Ředitel'
 };
