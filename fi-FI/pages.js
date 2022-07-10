@@ -1,8 +1,8 @@
 export default {
     'homepage.welcome': 'Welcome to Literary Universe!',
-    'homepage.read': 'Read',
-    'homepage.explore': 'Explore',
-    'homepage.create': 'Create',
+    'homepage.read': 'Lue',
+    'homepage.explore': 'Etsi',
+    'homepage.create': 'Luo',
     'homepage.read.desc': 'Enjoy a great reading experience with access to details of the stories\' universe adjacent to the story text, without the need to leave the story window.',
     'homepage.explore.desc': 'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
     'homepage.create.desc': 'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
@@ -16,8 +16,8 @@ export default {
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
-    'about.CEO': 'Chief Executive Officer',
-    'about.CTO': 'Chief Technology Officer',
+    'about.CEO': 'Toimitusjohtaja',
+    'about.CTO': 'Teknologiajohtaja',
     'about.jan': 'Jan is the founder, visionary and technological brain behind Literary Universe. As a writer of large literary universes, Jan had always found it difficult to write stories from a technical and readability point of view that would not compromise the reading experience. As such, Jan decided to pursue his studies in web development to create an application that would make it easy to write stories in large universes.',
     'about.history.text': 'In 2010 Jan started at Rochester Institute of Technology to learn more about web development in order to be able to build a creative writing site. This materialized in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies and in 2016 a new version of the app was created as a Master\'s Capstone Project. The project continued in fall 2016 and further developed into what you see today.',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
@@ -64,12 +64,12 @@ export default {
     'team.name.rhubbell': 'Raena Hubbell',
     'team.name.pjakubec': 'Pavel Jakubec',
     'team.name.asebesta': 'Adam Šebesta',
-    'about.developer': 'Developer',
+    'about.developer': 'Kehittäjä',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
     'about.apprenticeDeveloper': 'Apprentice Developer',
     'about.intern': 'Intern',
     'about.advisor': 'Advisor',
     'about.headOfResearch': 'Head of Research',
-    'about.cfo': 'Chief Financial Officer'
+    'about.cfo': 'Talousjohtaja'
 };
