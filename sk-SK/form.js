@@ -30,9 +30,9 @@ export default {
     'form.validator.whitespace': 'Nesmie mať biele miesto',
     'form.validator.zipCode': 'Musí to byť platné PSČ',
     'form.validator.isbn': 'Prijímame iba 10 alebo 13 verziu ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.btc': 'Toto nie je platná adresa BTC.',
+    'form.validator.eth': 'Toto nie je platná adresa ETH.',
+    'form.weakPassword': 'Toto heslo je slabé. Zvážte jeho posilnenie pridaním číslic a špeciálnych znakov.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': 'Pole {label} je povinné',
