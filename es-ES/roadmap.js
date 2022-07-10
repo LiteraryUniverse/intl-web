@@ -1,34 +1,34 @@
 export default {
-  'roadmap.ariaTimeOptions': 'Selections for roadmap items based on their status.',
+  'roadmap.ariaTimeOptions': 'Selección de elementos de la hoja de ruta en función de su estado.',
   'roadmap.state.backlog': 'Backlog',
-  'roadmap.state.inprogress': 'In-progress',
-  'roadmap.state.preview': 'Preview',
+  'roadmap.state.inprogress': 'En progreso',
+  'roadmap.state.preview': 'Vista previa',
   'roadmap.state.beta': 'Beta',
-  'roadmap.state.ga': 'General availability',
-  'roadmap.eta.q1.short': 'Q1',
-  'roadmap.eta.q2.short': 'Q2',
-  'roadmap.eta.q3.short': 'Q3',
-  'roadmap.eta.q4.short': 'Q4',
-  'roadmap.eta.q1.long': 'First quarter',
-  'roadmap.eta.q2.long': 'Second quarter',
-  'roadmap.eta.q3.long': 'Third quarter',
-  'roadmap.eta.q4.long': 'Fourth quarter',
+  'roadmap.state.ga': 'Disponibilidad general',
+  'roadmap.eta.q1.short': 'P1',
+  'roadmap.eta.q2.short': 'P2',
+  'roadmap.eta.q3.short': 'P3',
+  'roadmap.eta.q4.short': 'P4',
+  'roadmap.eta.q1.long': 'Primer trimestre',
+  'roadmap.eta.q2.long': 'Segundo trimestre',
+  'roadmap.eta.q3.long': 'Tercer trimestre',
+  'roadmap.eta.q4.long': 'Cuarto trimestre',
   'roadmap.backlog': 'Backlog',
-  'roadmap.history': 'History of development',
-  'roadmap.item.inBacklog': 'We are planning to develop this feature in the future.',
-  'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
-  'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
-  'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
-  'roadmap.item.inGa': 'This feature has become generally available on {gaAt, date}.',
-  'roadmap.item.originalIssue': 'This feature was originally suggested by our users.',
-  'roadmap.eta.mapTitle': `Planned for {quarter, select,
-    Q1 {Q1}
-    Q2 {Q2}
-    Q3 {Q3}
-    Q4 {Q4}
+  'roadmap.history': 'Historia de la evolución',
+  'roadmap.item.inBacklog': 'Tenemos previsto desarrollar esta función en el futuro.',
+  'roadmap.item.inProgress': 'El desarrollo de la función comenzó {startedAt, date}.',
+  'roadmap.item.inBeta': 'Esta función ha entrado en fase beta en {betaAt, date}.',
+  'roadmap.item.inPreview': 'Esta función está disponible para los suscriptores de Storyteller desde {previewAt, date}.',
+  'roadmap.item.inGa': 'Esta función está disponible de forma generalizada desde {gaAt, date}.',
+  'roadmap.item.originalIssue': 'Esta función fue sugerida originalmente por nuestros usuarios.',
+  'roadmap.eta.mapTitle': `¡Planeado para {quarter, select,
+    Q1 {P1}
+    Q2 {P2}
+    Q3 {P3}
+    Q4 {P4}
     other {}
   } {year, date, ::yyyy}`,
-  'roadmap.back': 'Back to roadmap',
-  'roadmap.seeBacklog': 'Check out what other things we plan to do',
-  'roadmap.seeFinished': 'If you like to dig more into our history, we have a nice overview ready for you'
+  'roadmap.back': 'Volver a la hoja de ruta',
+  'roadmap.seeBacklog': 'Vea qué otras cosas tenemos previsto hacer',
+  'roadmap.seeFinished': 'Si quiere profundizar en nuestra historia, tenemos un buen resumen preparado para usted'
 };
