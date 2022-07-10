@@ -18,7 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Plánujeme vytvoření této funkce v budoucnu.',
   'roadmap.item.inProgress': 'Vývoj začal {startedAt, date}.',
   'roadmap.item.inBeta': 'Tato funkce vstoupila do bety dne {betaAt, date}.',
-  'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
+  'roadmap.item.inPreview': 'Tato funkce byla předplatitelům služby Storyteller zpřístupněna dne {previewAt, date}.',
   'roadmap.item.inGa': 'Tato funkce je obecně dostupná od {gaAt, date}.',
   'roadmap.item.originalIssue': 'Tuto funkci původně navrhli naši uživatelé.',
   'roadmap.eta.mapTitle': `Naplánováno na {quarter, select,
@@ -30,5 +30,5 @@ export default {
   } {year, date, ::yyyy}`,
   'roadmap.back': 'Zpět k plánu',
   'roadmap.seeBacklog': 'Podívejte se, co plánujeme udělat',
-  'roadmap.seeFinished': 'If you like to dig more into our history, we have a nice overview ready for you'
+  'roadmap.seeFinished': 'Pokud byste rádi pronikli více do naší historie, máme pro vás připravený pěkný přehled'
 };
