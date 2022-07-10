@@ -1,8 +1,8 @@
 export default {
     'homepage.welcome': 'Welcome to Literary Universe!',
-    'homepage.read': 'Read',
-    'homepage.explore': 'Explore',
-    'homepage.create': 'Create',
+    'homepage.read': 'Loe',
+    'homepage.explore': 'Avasta',
+    'homepage.create': 'Loo',
     'homepage.read.desc': 'Enjoy a great reading experience with access to details of the stories\' universe adjacent to the story text, without the need to leave the story window.',
     'homepage.explore.desc': 'Stories are not the only way to explore the literary universes. Each universe has its own page where you can explore all the minutia in the universe encyclopedia, see all the stories in the universe or explore what other fans have written.',
     'homepage.create.desc': 'Create your own stories and universes via our editor. Build and manage your ever expanding universes. We offer an expanding toolset, from a great story editor, through a great encyclopedia to management of translations of your stories and universe!',
@@ -64,12 +64,12 @@ export default {
     'team.name.rhubbell': 'Raena Hubbell',
     'team.name.pjakubec': 'Pavel Jakubec',
     'team.name.asebesta': 'Adam Šebesta',
-    'about.developer': 'Developer',
+    'about.developer': 'Arendaja',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
     'about.apprenticeDeveloper': 'Apprentice Developer',
     'about.intern': 'Intern',
-    'about.advisor': 'Advisor',
+    'about.advisor': 'Nõuandja',
     'about.headOfResearch': 'Head of Research',
     'about.cfo': 'Chief Financial Officer'
 };
