@@ -71,5 +71,5 @@ export default {
     'about.intern': 'Intern',
     'about.advisor': 'Conseiller',
     'about.headOfResearch': 'Chef de la Recherche',
-    'about.cfo': 'Directeur financier'
+    'about.CFO': 'Chief Financial Officer'
 };
