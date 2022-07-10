@@ -64,12 +64,12 @@ export default {
     'team.name.rhubbell': 'Raena Hubbell',
     'team.name.pjakubec': 'Pavel Jakubec',
     'team.name.asebesta': 'Adam Šebesta',
-    'about.developer': 'Developer',
-    'about.seniorDeveloper': 'Senior Developer',
-    'about.juniorDeveloper': 'Junior Developer',
-    'about.apprenticeDeveloper': 'Apprentice Developer',
-    'about.intern': 'Intern',
-    'about.advisor': 'Advisor',
-    'about.headOfResearch': 'Head of Research',
-    'about.cfo': 'Chief Financial Officer'
+    'about.developer': 'Desarrollador',
+    'about.seniorDeveloper': 'Desarrollador sénior',
+    'about.juniorDeveloper': 'Desarollador Junior',
+    'about.apprenticeDeveloper': 'Aprendiz de desarrollador',
+    'about.intern': 'Pasante',
+    'about.advisor': 'Asesor',
+    'about.headOfResearch': 'Jefe de Investigación',
+    'about.CFO': 'Director Financiero'
 };
