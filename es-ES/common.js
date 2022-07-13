@@ -207,5 +207,6 @@ export default {
     'common.defaultLanguage': 'Idioma predeterminado',
     'signin.web3.signMessage': 'Por favor, confirme que quiere entrar en Literary Universe con su cartera como método de autenticación. Código: {code}',
     'common.web3.confirmationCode': 'Código de confirmación: {code}',
-    'common.roadmap': 'Hoja de ruta del desarrollo'
+    'common.roadmap': 'Hoja de ruta del desarrollo',
+    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
 }    /* eslint-enable max-len */;
