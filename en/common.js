@@ -229,5 +229,6 @@ export default {
     'Please confirm that you want to enter Literary Universe with your wallet as authentication method. Code: {code}',
   'common.web3.confirmationCode': 'Confirmation code: {code}',
 
-  'common.roadmap': 'Roadmap'
+  'common.roadmap': 'Roadmap',
+  'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
 } /* eslint-enable max-len */
