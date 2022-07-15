@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2022-07-xx - v1.12.0
+## 2022-07-15 - v1.12.0
 
 * Added roadmap translations
 
