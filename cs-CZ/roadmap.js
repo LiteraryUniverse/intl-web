@@ -28,10 +28,10 @@ export default {
     Q4 {Q4}
     other {}
   } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': 'Finished in {time, date, ::MMMM ::yyyy}',
+  'roadmap.eta.mapTitleFinished': 'Dokončeno v {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Zpět k plánu',
   'roadmap.seeBacklog': 'Podívejte se, co plánujeme udělat',
   'roadmap.seeFinished': 'Pokud byste rádi pronikli více do naší historie, máme pro vás připravený pěkný přehled',
-  'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished'
+  'roadmap.planned': 'Plánováno',
+  'roadmap.finished': 'Dokončeno'
 };
