@@ -208,5 +208,5 @@ export default {
     'signin.web3.signMessage': 'Potvrďte, že chcete vstúpiť do Literary Universe s vašou peňaženkou ako metódou overovania. Kód: {code}',
     'common.web3.confirmationCode': 'Potvrdzovací kód: {code}',
     'common.roadmap': 'Plán',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+    'common.luStatsIFrameOptOut': 'Štatistiky Literary Universe opt-out'
 }    /* eslint-enable max-len */;
