@@ -207,5 +207,6 @@ export default {
     'common.defaultLanguage': 'Domyślny język',
     'signin.web3.signMessage': 'Potwierdź, że chcesz wejść do Literary Universe, używając swojego portfela jako metody uwierzytelniania. Kod: {code}',
     'common.web3.confirmationCode': 'Kod potwierdzenia: {code}',
-    'common.roadmap': 'Mapa drogowa'
+    'common.roadmap': 'Mapa drogowa',
+    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
 }    /* eslint-enable max-len */;
