@@ -208,5 +208,5 @@ export default {
     'signin.web3.signMessage': 'ウォレットを認証方法として文学の宇宙に参入することを確認してください。コード：{code}',
     'common.web3.confirmationCode': '確認用コード：　{code}',
     'common.roadmap': 'ロードマップ',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+    'common.luStatsIFrameOptOut': '文学の宇宙統計をオプトアウトする'
 }    /* eslint-enable max-len */;
