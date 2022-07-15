@@ -208,5 +208,5 @@ export default {
     'signin.web3.signMessage': 'Bitte bestätigen Sie, dass Sie das Literary Universe mit Ihrer Brieftasche als Authentifizierungsmethode betreten möchten. Code: {code}',
     'common.web3.confirmationCode': 'Bestätigungscode: {code}',
     'common.roadmap': 'Roadmap',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+    'common.luStatsIFrameOptOut': 'Opt-out für Literary Universe Statistiken'
 }    /* eslint-enable max-len */;
