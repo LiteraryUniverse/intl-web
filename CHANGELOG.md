@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2022-07-18 - v1.12.1
+
+* Added strings for organization membership page
+* Added miscellaneous strings around organization pages
+
 ## 2022-07-15 - v1.12.0
 
 * Added roadmap translations
