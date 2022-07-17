@@ -4,6 +4,7 @@ export default {
     'org.settings.name': '組織名',
     'org.settings.membersPrivate': 'メンバを公開しない',
     'org.logo': '組織ロゴ',
+    'org.logo.alt': '{organizationName} logo',
     'org.superAdmin': 'スーパーアドミン',
     'org.settings.language': '主な言語',
     'org.meta.desc': '文学の宇宙に掲載されている団体やクリエイティブなグループを紹介します。',
@@ -30,5 +31,17 @@ export default {
     internal {組織のための新しいニュースフラッシュを作成します。}
     allProperties {すべてのプロパティで一般に表示するための新しいニュースフラッシュを作成します。}
     other {組織のための新しいニュースフラッシュを作成します。}
-  }`
+  }`,
+    'org.members.invited': 'Invited members',
+    'org.members.list': 'Organization members',
+    'org.invitesTileNotice': 'You have been invited to {count, number} {count, plural, one {organization} other {organizations}}',
+    'org.invitePage.title': 'Invitations to organizations',
+    'org.invitePage.invitedAt': 'You have been invited on {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'You are currently ignoring this invitation, which means that it is still active, but doesn\'t bothers with notifications.',
+    'org.invitePage.expiresAt': 'This invitation will expire at {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Join organization',
+    'org.invitePage.reject': 'Reject invitation',
+    'org.invitePage.ignore': 'Ignore for now',
+    'org.leaveOrg.title': 'Leave organization',
+    'org.leaveOrg.confirm': 'This is a destructive action. Once you leave you will loose all access to this organization. Are you sure you want to leave the organization?'
 };
