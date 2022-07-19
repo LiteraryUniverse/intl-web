@@ -1,9 +1,10 @@
 # Changelog for languages
 
-## 2022-07-18 - v1.12.1
+## 2022-07-20 - v1.12.1
 
 * Added strings for organization membership page
 * Added miscellaneous strings around organization pages
+* Returned Scott's about text
 
 ## 2022-07-15 - v1.12.0
 
