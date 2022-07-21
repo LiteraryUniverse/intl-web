@@ -53,5 +53,6 @@ export default {
   'org.confirmRemove.aria': 'Confirm user removal',
   'org.confirmRemove.confirm':
     'Are you sure that you want to remove {username} from {organization}?',
-  'org.confirmRemove.remove': 'Remove user'
+  'org.confirmRemove.remove': 'Remove user',
+  'org.mainBlog': 'Main blog'
 }
