@@ -57,5 +57,6 @@ export default {
   'org.mainBlog': 'Main blog',
   'org.teams': 'Teams',
   'org.teams.total': 'Total teams: {totalTeams, number}',
-  'org.teams.create': 'Create a new team'
+  'org.teams.create': 'Create a new team',
+  'org.teams.settings': 'Team settings'
 }
