@@ -208,5 +208,8 @@ export default {
     'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method. Code: {code}',
     'common.web3.confirmationCode': 'Confirmation code: {code}',
     'common.roadmap': 'Roadmap',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out',
+    'common.image': 'Image',
+    'common.home': 'Home',
+    'common.administration': 'Administration'
 }    /* eslint-enable max-len */;
