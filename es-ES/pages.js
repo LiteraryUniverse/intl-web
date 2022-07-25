@@ -60,7 +60,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe se basa en muchos proyectos de código abierto y recursos gratuitos. A continuación encontrará su listado.',
     'about.attributionsMatomo': 'Nuestros análisis utilizan Matomo con datos IP2Location LITE disponibles en https://lite.ip2location.com.',
     'about.attributionIcons': 'Los siguientes iconos se utilizan en el sitio a través de styled-icons:',
-    'team.name.sedwards': 'Scott Edwards',
     'team.name.rhubbell': 'Raena Hubbell',
     'team.name.pjakubec': 'Pavel Jakubec',
     'team.name.asebesta': 'Adam Šebesta',
@@ -71,6 +70,5 @@ export default {
     'about.intern': 'Pasante',
     'about.advisor': 'Asesor',
     'about.headOfResearch': 'Jefe de Investigación',
-    'about.CFO': 'Director Financiero',
-    'about.scott': 'Scott is the co-founder of Literary Universe. Scott became interested in creative writing in his early years and to this day is an avid reader. As someone who has always wanted to write his own book Scott became interested in Literary Universe when Jan Dvorak approached him with the idea for Literary Universe while they were in college. Scott has been been a part of Jan\'s development team since its inception and created the name for the site, among other notable contributions. Scott manages the business side of Literary Universe to allow Jan to focus on technological development.'
+    'about.CFO': 'Director Financiero'
 };
