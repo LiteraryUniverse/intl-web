@@ -230,5 +230,8 @@ export default {
   'common.web3.confirmationCode': 'Confirmation code: {code}',
 
   'common.roadmap': 'Roadmap',
-  'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+  'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out',
+  'common.image': 'Image',
+  'common.home': 'Home',
+  'common.administration': 'Administration'
 } /* eslint-enable max-len */
