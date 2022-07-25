@@ -60,7 +60,6 @@ export default {
     'about.attributionsIntro': '文学の宇宙は、多くのオープンソース・プロジェクトやフリー・リソースの上に構築されています。以下にそれらのリストを掲載します。',
     'about.attributionsMatomo': '当社の分析には、セルフホスティングのMatomoと、https://lite.ip2location.com から入手可能なIP2Location LITEデータを使用しています。',
     'about.attributionIcons': '以下のアイコンは、styled-iconsを介してサイト内で使用されています。',
-    'team.name.sedwards': 'エドワルドス・スコット',
     'team.name.rhubbell': 'フベル・ラエナ',
     'team.name.pjakubec': 'ジャクベク・パブル',
     'team.name.asebesta': 'セベスタ・アダム',
@@ -71,6 +70,5 @@ export default {
     'about.intern': '実習生',
     'about.advisor': '顧問',
     'about.headOfResearch': '研究責任者',
-    'about.CFO': '最高財務責任者',
-    'about.scott': 'Scott is the co-founder of Literary Universe. Scott became interested in creative writing in his early years and to this day is an avid reader. As someone who has always wanted to write his own book Scott became interested in Literary Universe when Jan Dvorak approached him with the idea for Literary Universe while they were in college. Scott has been been a part of Jan\'s development team since its inception and created the name for the site, among other notable contributions. Scott manages the business side of Literary Universe to allow Jan to focus on technological development.'
+    'about.CFO': '最高財務責任者'
 };
