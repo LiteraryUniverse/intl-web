@@ -3,6 +3,7 @@
 ## 2022-07-XX - v1.12.2
 
 * Added initial strings for groups and organizations
+* Added symbol for truncated text
 
 ## 2022-07-22 - v1.12.1
 
