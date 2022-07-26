@@ -211,5 +211,8 @@ export default {
     'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out',
     'common.image': 'Image',
     'common.home': 'Home',
-    'common.administration': 'Administration'
+    'common.administration': 'Administration',
+    'common.truncateAppend': '...',
+    // What should be the symbol used to denote that the text continues when it was truncated
+    'common.groups': 'Groups'
 }    /* eslint-enable max-len */;
