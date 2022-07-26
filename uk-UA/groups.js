@@ -1,7 +1,7 @@
 export default {
     'groups.listing.title': 'User groups',
     'groups.listing.organizationTitle': 'Teams',
-    'groups.create.title': 'Create a new team',
+    'groups.create.title': 'Create a new group',
     'groups.type.label': 'Type',
     'groups.type.open': 'Open',
     'groups.type.openDesc': 'Open - Anyone can join the group.',
@@ -18,5 +18,11 @@ export default {
   } in this group`,
     'groups.leaveGroup': 'Leave group',
     'groups.leaveGroup.confirm': 'Just to make sure. Are you certain that you want to leave {groupName}?',
-    'group.settings': 'Group settings'
+    'group.settings': 'Group settings',
+    'group.role.member': 'Member',
+    'group.role.moderator': 'Moderator',
+    'group.role.admin': 'Admin',
+    'groups.join.openGroup': 'Join group',
+    'groups.join.closedGroup': 'Request to join group',
+    'groups.join.questionToJoin': 'Question for new members'
 };
