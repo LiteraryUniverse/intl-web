@@ -209,10 +209,10 @@ export default {
     'common.web3.confirmationCode': 'Código de confirmación: {code}',
     'common.roadmap': 'Hoja de ruta del desarrollo',
     'common.luStatsIFrameOptOut': 'Exclusión de estadísticas del Literary Universe',
-    'common.image': 'Image',
+    'common.image': 'Imagen',
     'common.home': 'Home',
-    'common.administration': 'Administration',
+    'common.administration': 'Administración',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups'
+    'common.groups': 'Grupos'
 }    /* eslint-enable max-len */;
