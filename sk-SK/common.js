@@ -209,10 +209,10 @@ export default {
     'common.web3.confirmationCode': 'Potvrdzovací kód: {code}',
     'common.roadmap': 'Plán',
     'common.luStatsIFrameOptOut': 'Štatistiky Literary Universe opt-out',
-    'common.image': 'Image',
-    'common.home': 'Home',
-    'common.administration': 'Administration',
+    'common.image': 'Obrázok',
+    'common.home': 'Domovská stránka',
+    'common.administration': 'Administrácia',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups'
+    'common.groups': 'Skupiny'
 }    /* eslint-enable max-len */;
