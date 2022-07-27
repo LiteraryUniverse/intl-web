@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2022-07-XX - v1.12.2
+## 2022-07-27 - v1.12.2
 
 * Added initial strings for groups and organizations
 * Added symbol for truncated text
