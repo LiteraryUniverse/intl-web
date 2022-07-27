@@ -207,6 +207,12 @@ export default {
     'common.defaultLanguage': 'Lingua predefinita',
     'signin.web3.signMessage': 'Confermare che si desidera entrare in Literary Universe con il proprio portafoglio come metodo di autenticazione. Codice: {code}',
     'common.web3.confirmationCode': 'Codice di conferma: {code}',
-    'common.roadmap': 'Roadmap',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+    'common.roadmap': 'Tabella di marcia dello sviluppo',
+    'common.luStatsIFrameOptOut': 'Literary Universe: opt-out per le statistiche',
+    'common.image': 'Image',
+    'common.home': 'Home',
+    'common.administration': 'Administration',
+    'common.truncateAppend': '...',
+    // What should be the symbol used to denote that the text continues when it was truncated
+    'common.groups': 'Groups'
 }    /* eslint-enable max-len */;

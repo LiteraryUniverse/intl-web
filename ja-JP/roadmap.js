@@ -28,10 +28,10 @@ export default {
     Q4 {Q4}
     other {}
   } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': 'Finished in {time, date, ::MMMM ::yyyy}',
+  'roadmap.eta.mapTitleFinished': '{time, date, ::MMMM ::yyyy} で完了',
   'roadmap.back': 'ロードマップに戻る',
   'roadmap.seeBacklog': 'その他、どのようなことを予定しているかは、こちらをご覧ください。',
   'roadmap.seeFinished': '当社の歴史についてもっと知りたい方は、その概要をご覧ください。',
-  'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished'
+  'roadmap.planned': '計画',
+  'roadmap.finished': '完成した'
 };

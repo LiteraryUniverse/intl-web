@@ -1,10 +1,10 @@
 export default {
-  'roadmap.ariaTimeOptions': 'Selections for roadmap items based on their status.',
+  'roadmap.ariaTimeOptions': 'Selezione delle voci della roadmap in base al loro stato.',
   'roadmap.state.backlog': 'Backlog',
-  'roadmap.state.inprogress': 'In-progress',
-  'roadmap.state.preview': 'Preview',
+  'roadmap.state.inprogress': 'In corso',
+  'roadmap.state.preview': 'Anteprima',
   'roadmap.state.beta': 'Beta',
-  'roadmap.state.ga': 'General availability',
+  'roadmap.state.ga': 'Disponibilità generale',
   'roadmap.eta.q1.short': 'Q1',
   'roadmap.eta.q2.short': 'Q2',
   'roadmap.eta.q3.short': 'Q3',
@@ -14,8 +14,8 @@ export default {
   'roadmap.eta.q3.long': 'Third quarter',
   'roadmap.eta.q4.long': 'Fourth quarter',
   'roadmap.backlog': 'Backlog',
-  'roadmap.history': 'History of development',
-  'roadmap.item.inBacklog': 'We are planning to develop this feature in the future.',
+  'roadmap.history': 'Storia dello sviluppo',
+  'roadmap.item.inBacklog': 'Abbiamo in programma di sviluppare questa funzione in futuro.',
   'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
   'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
   'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
@@ -30,8 +30,8 @@ export default {
   } {year, date, ::yyyy}`,
   'roadmap.eta.mapTitleFinished': 'Finished in {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Back to roadmap',
-  'roadmap.seeBacklog': 'Check out what other things we plan to do',
-  'roadmap.seeFinished': 'If you like to dig more into our history, we have a nice overview ready for you',
-  'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished'
+  'roadmap.seeBacklog': 'Scopri le altre cose che abbiamo in programma di fare',
+  'roadmap.seeFinished': 'Se volete approfondire la nostra storia, abbiamo preparato una bella panoramica per voi',
+  'roadmap.planned': 'Pianificato',
+  'roadmap.finished': 'Finito'
 };

@@ -208,5 +208,11 @@ export default {
     'signin.web3.signMessage': 'Potwierdź, że chcesz wejść do Literary Universe, używając swojego portfela jako metody uwierzytelniania. Kod: {code}',
     'common.web3.confirmationCode': 'Kod potwierdzenia: {code}',
     'common.roadmap': 'Mapa drogowa',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+    'common.luStatsIFrameOptOut': 'Opt-out statystyki Literary Universe',
+    'common.image': 'Obraz',
+    'common.home': 'Home',
+    'common.administration': 'Administracja',
+    'common.truncateAppend': '...',
+    // What should be the symbol used to denote that the text continues when it was truncated
+    'common.groups': 'Grupy'
 }    /* eslint-enable max-len */;

@@ -40,6 +40,7 @@ export default {
   }で設定されているものと同じです。`,
     'blog.social.website': '公式サイト',
     'blog.settings.universeSettings': '宇宙ブログは、宇宙ページに統合されており、基本的な設定は宇宙の設定を参考にしています。',
+    'blog.settings.organizationSettings': '組織ブログは、組織ページに統合されています。',
     'blogs.lu': '文学の宇宙公式ブログ',
     'blogs.featured': '注目のブログ',
     'blogs.new': '最新のブログ',

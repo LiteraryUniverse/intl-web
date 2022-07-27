@@ -4,6 +4,7 @@ export default {
     'org.settings.name': 'Nombre de la organización',
     'org.settings.membersPrivate': 'NO mostrar miembros públicamente',
     'org.logo': 'Logo de la organización',
+    'org.logo.alt': 'Logo de {organizationName}',
     'org.superAdmin': 'Superadministrador',
     'org.settings.language': 'Idioma principal',
     'org.meta.desc': 'Organizaciones y grupos creativos en Literary Universe.',
@@ -30,5 +31,25 @@ export default {
     internal {¡la organización}
     allProperties {muestra al público en todas las propiedades}
     other {¡la organización}
-  }`
+  }`,
+    'org.members.invited': 'Inviterede medlemmer',
+    'org.members.list': 'Miembros de la organización',
+    'org.invitesTileNotice': 'Has sido invitado a {count, number} {count, plural, one {organización} other {organizaciones}}',
+    'org.invitePage.title': 'Invitaciones a organizaciones',
+    'org.invitePage.invitedAt': 'Has sido invitado en {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'Actualmente está ignorando esta invitación, lo que significa que sigue activa, pero no molesta con las notificaciones.',
+    'org.invitePage.expiresAt': 'Esta invitación expirará el {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Únete a la organización',
+    'org.invitePage.reject': 'Rechazar invitación',
+    'org.invitePage.ignore': 'Ignorar por ahora',
+    'org.leaveOrg.title': 'Dejar la organización',
+    'org.leaveOrg.confirm': 'Esta es una acción destructiva. Una vez que te vayas perderás todo el acceso a esta organización. ¿Estás seguro de que quieres dejar la organización?',
+    'org.confirmRemove.aria': 'Confirmar la eliminación del usuario',
+    'org.confirmRemove.confirm': '¿Está seguro de que quiere eliminar a {username} de {organization}?',
+    'org.confirmRemove.remove': 'Eliminar usuario',
+    'org.mainBlog': 'Blog principal',
+    'org.teams': 'Equipos',
+    'org.teams.total': 'Equipos totales: {totalTeams, number}',
+    'org.teams.create': 'Crear un nuevo equipo',
+    'org.teams.settings': 'Configuración del equipo'
 };

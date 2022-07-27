@@ -208,5 +208,11 @@ export default {
     'signin.web3.signMessage': 'Potvrďte, že chcete vstoupit do Literary Univese s Vaší peněženkou jako metodu ověření. Kód: {code}',
     'common.web3.confirmationCode': 'Ověřovací kód: {code}',
     'common.roadmap': 'Plán vývoje',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out'
+    'common.luStatsIFrameOptOut': 'Literary Universe statistiky opt-out',
+    'common.image': 'Obrázek',
+    'common.home': 'Domovská stránka',
+    'common.administration': 'Administrace',
+    'common.truncateAppend': '...',
+    // What should be the symbol used to denote that the text continues when it was truncated
+    'common.groups': 'Skupiny'
 }    /* eslint-enable max-len */;

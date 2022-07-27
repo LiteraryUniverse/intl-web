@@ -40,6 +40,7 @@ export default {
   }`,
     'blog.social.website': 'Offizielle Website',
     'blog.settings.universeSettings': 'Universe-Blogs sind in Universe-Seiten integriert, deren Grundeinstellungen aus den Universe-Einstellungen übernommen werden.',
+    'blog.settings.organizationSettings': 'Organisationsblogs sind in Organisationsseiten integriert.',
     'blogs.lu': 'Offizielle Literary Universe-Blogs',
     'blogs.featured': 'Ausgewählte Blogs',
     'blogs.new': 'Neueste Blogs',

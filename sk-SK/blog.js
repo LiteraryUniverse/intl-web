@@ -42,6 +42,7 @@ export default {
   }`,
     'blog.social.website': 'Oficiálna webstránka',
     'blog.settings.universeSettings': 'Blogy vesmíru sú integrované do stránok vesmíru a ich základné nastavenia sú prevzaté z nastavení vesmíru.',
+    'blog.settings.organizationSettings': 'Blogy organizácie sú integrované do stránok organizácie.',
     'blogs.lu': 'Oficiálne blogy Literary Universe',
     'blogs.featured': 'Vybrané blogy',
     'blogs.new': 'Najnovšie blogy',

@@ -42,6 +42,7 @@ export default {
   }`,
     'blog.social.website': 'Oficjalna strona',
     'blog.settings.universeSettings': 'Blogi wszechświata są zintegrowane ze stronami wszechświata, a ich podstawowe ustawienia są pobierane z ustawień wszechświata.',
+    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
     'blogs.lu': 'Oficjalne blogi Literary Universe',
     'blogs.featured': 'Polecane blogi',
     'blogs.new': 'Najnowsze blogi',

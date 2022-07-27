@@ -1,1 +1,26 @@
-export default {};
+export default {
+    'groups.listing.title': 'ユーザーグループ',
+    'groups.listing.organizationTitle': 'チーム',
+    'groups.create.title': '新しいグループを作成する',
+    'groups.type.label': 'タイプ',
+    'groups.type.open': 'オープン',
+    'groups.type.openDesc': 'オープン - 誰でも参加できるグループです。',
+    'groups.type.closed': 'クローズド',
+    'groups.type.closedDesc': 'クローズド - グループに参加するには、承認が必要です。',
+    'groups.type.hidden': 'ヒドゥン',
+    'groups.type.hiddenDesc': '非表示 - あなたが招待した人だけが参加できます。',
+    'groups.imageAlt': '{groupName}の画像',
+    'groups.members': 'メンバー',
+    'groups.members.total': `ありません {totalMembers, plural,
+    other {このグループのメンバーは # メンバーです}
+  }`,
+    'groups.leaveGroup': 'グループから離脱',
+    'groups.leaveGroup.confirm': '念のため 本当に{groupName}を辞めたいですか？',
+    'group.settings': 'グループ設定',
+    'group.role.member': 'メンバー',
+    'group.role.moderator': '開催者',
+    'group.role.admin': '管理者',
+    'groups.join.openGroup': 'グループに参加する',
+    'groups.join.closedGroup': 'グループへの参加申請',
+    'groups.join.questionToJoin': '新メンバーへの質問'
+};

@@ -4,6 +4,7 @@ export default {
     'org.settings.name': 'Meno organizácie',
     'org.settings.membersPrivate': 'Nezobrazujte členov verejne',
     'org.logo': 'Logo organizácie',
+    'org.logo.alt': 'Logo {organizationName}',
     'org.superAdmin': 'Hlavný administrátor',
     'org.settings.language': 'Hlavný jazyk',
     'org.meta.desc': 'Organizácie a tvorivé skupiny na Literary Universe.',
@@ -30,5 +31,25 @@ export default {
     internal {organizaci}
     allProperties {veřejnost}
     other {organizaci}
-  }`
+  }`,
+    'org.members.invited': 'Pozvaní členovia',
+    'org.members.list': 'Členovia organizácie',
+    'org.invitesTileNotice': 'Boli ste pozvaní do {count, number} {count, plural, one {organizácie} other {organizácií}}',
+    'org.invitePage.title': 'Pozvánky pre organizácie',
+    'org.invitePage.invitedAt': 'Boli ste pozvaní {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'Túto pozvánku momentálne ignorujete, čo znamená, že je stále aktívna, ale neobťažuje upozorneniami.',
+    'org.invitePage.expiresAt': 'Platnosť tejto pozvánky uplynie v {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Pripojte sa k organizácii',
+    'org.invitePage.reject': 'Odmietnuť pozvanie',
+    'org.invitePage.ignore': 'Nateraz ignorovať',
+    'org.leaveOrg.title': 'Opustiť organizáciu',
+    'org.leaveOrg.confirm': 'Ide o deštruktívnu činnosť. Po odchode stratíte akýkoľvek prístup do tejto organizácie. Ste si istí, že chcete opustiť túto organizáciu?',
+    'org.confirmRemove.aria': 'Potvrdenie odstránenia používateľa',
+    'org.confirmRemove.confirm': 'Ste si istí, že chcete odstrániť {username} z {organization}?',
+    'org.confirmRemove.remove': 'Odstrániť užívateľa',
+    'org.mainBlog': 'Hlavný blog',
+    'org.teams': 'Tímy',
+    'org.teams.total': 'Celkový počet tímov: {totalTeams, number}',
+    'org.teams.create': 'Vytvorenie nového tímu',
+    'org.teams.settings': 'Nastavenia tímu'
 };
