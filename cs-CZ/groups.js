@@ -6,23 +6,24 @@ export default {
     'groups.type.open': 'Otevřená',
     'groups.type.openDesc': 'Otevřená - kdokoliv může přijít do skupiny.',
     'groups.type.closed': 'Uzavřená',
-    'groups.type.closedDesc': 'Closed - People need to approved before they can join your group.',
-    'groups.type.hidden': 'Hidden',
-    'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
-    'groups.imageAlt': '{groupName} picture',
-    'groups.members': 'Members',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
-    'groups.leaveGroup': 'Leave group',
-    'groups.leaveGroup.confirm': 'Just to make sure. Are you certain that you want to leave {groupName}?',
-    'group.settings': 'Group settings',
-    'group.role.member': 'Member',
-    'group.role.moderator': 'Moderator',
+    'groups.type.closedDesc': 'Uzavřená - Pro připojení do skupiny je zapotřebí schválení majitelem skupiny.',
+    'groups.type.hidden': 'Skrytá',
+    'groups.type.hiddenDesc': 'Skrytá - Připojit se mohou pouze lidé, které pozvete.',
+    'groups.imageAlt': 'Obrázek {groupName}',
+    'groups.members': 'Členové',
+    'groups.members.total': `Ve skupině {totalMembers, plural,
+    one {je jeden člen}
+    few {jsou # členové}
+    many {jsou # členů}
+    other {jsou # členů}
+  }`,
+    'groups.leaveGroup': 'Opustit skupinu',
+    'groups.leaveGroup.confirm': 'Jen pro ujištění. Jste si jistí, že chcete opustit {groupName}?',
+    'group.settings': 'Nastavení skupiny',
+    'group.role.member': 'Člen',
+    'group.role.moderator': 'Moderátor',
     'group.role.admin': 'Admin',
-    'groups.join.openGroup': 'Join group',
-    'groups.join.closedGroup': 'Request to join group',
-    'groups.join.questionToJoin': 'Question for new members'
+    'groups.join.openGroup': 'Připojit se ke skupině',
+    'groups.join.closedGroup': 'Požádat o vstup do skupiny',
+    'groups.join.questionToJoin': 'Otázka pro členy žádájící o vstup'
 };
