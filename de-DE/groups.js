@@ -1,28 +1,28 @@
 export default {
-    'groups.listing.title': 'User groups',
+    'groups.listing.title': 'Benutzergruppen',
     'groups.listing.organizationTitle': 'Teams',
-    'groups.create.title': 'Create a new group',
-    'groups.type.label': 'Type',
-    'groups.type.open': 'Open',
-    'groups.type.openDesc': 'Open - Anyone can join the group.',
-    'groups.type.closed': 'Closed',
-    'groups.type.closedDesc': 'Closed - People need to approved before they can join your group.',
-    'groups.type.hidden': 'Hidden',
-    'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
-    'groups.imageAlt': '{groupName} picture',
-    'groups.members': 'Members',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
-    'groups.leaveGroup': 'Leave group',
-    'groups.leaveGroup.confirm': 'Just to make sure. Are you certain that you want to leave {groupName}?',
-    'group.settings': 'Group settings',
-    'group.role.member': 'Member',
+    'groups.create.title': 'Neue Gruppe erstellen',
+    'groups.type.label': 'Typ',
+    'groups.type.open': 'Offen',
+    'groups.type.openDesc': 'Offen - Jeder kann der Gruppe beitreten.',
+    'groups.type.closed': 'Geschlossen',
+    'groups.type.closedDesc': 'Geschlossen - Personen müssen erst zugelassen werden, bevor sie Ihrer Gruppe beitreten können.',
+    'groups.type.hidden': 'Versteckt',
+    'groups.type.hiddenDesc': 'Versteckt - Nur Personen, die Sie einladen, können teilnehmen.',
+    'groups.imageAlt': '{groupName} Bild',
+    'groups.members': 'Mitglieder',
+    'groups.members.total': `Es gibt {totalMembers, plural,
+    zero {keine Mitglieder}
+    one {ein Mitglied}
+    other {# Mitglieder}
+  } in dieser Gruppe`,
+    'groups.leaveGroup': 'Gruppe verlassen',
+    'groups.leaveGroup.confirm': 'Nur um sicher zu gehen. Sind Sie sicher, dass Sie {groupName} verlassen wollen?',
+    'group.settings': 'Einstellungen der Gruppe',
+    'group.role.member': 'Mitglied',
     'group.role.moderator': 'Moderator',
     'group.role.admin': 'Admin',
-    'groups.join.openGroup': 'Join group',
-    'groups.join.closedGroup': 'Request to join group',
-    'groups.join.questionToJoin': 'Question for new members'
+    'groups.join.openGroup': 'Gruppe beitreten',
+    'groups.join.closedGroup': 'Antrag auf Beitritt zur Gruppe',
+    'groups.join.questionToJoin': 'Frage für neue Mitglieder'
 };
