@@ -209,10 +209,10 @@ export default {
     'common.web3.confirmationCode': '確認用コード：　{code}',
     'common.roadmap': 'ロードマップ',
     'common.luStatsIFrameOptOut': '文学の宇宙統計をオプトアウトする',
-    'common.image': 'Image',
-    'common.home': 'Home',
-    'common.administration': 'Administration',
+    'common.image': '画像',
+    'common.home': 'ホーム',
+    'common.administration': '管理部門',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups'
+    'common.groups': 'グループ'
 }    /* eslint-enable max-len */;
