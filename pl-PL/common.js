@@ -214,5 +214,6 @@ export default {
     'common.administration': 'Administracja',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Grupy'
+    'common.groups': 'Grupy',
+    'common.upload': 'Upload'
 }    /* eslint-enable max-len */;
