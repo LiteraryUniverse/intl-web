@@ -22,5 +22,9 @@ export default {
     'group.role.admin': '管理者',
     'groups.join.openGroup': 'グループに参加する',
     'groups.join.closedGroup': 'グループへの参加申請',
-    'groups.join.questionToJoin': '新メンバーへの質問'
+    'groups.join.questionToJoin': '新メンバーへの質問',
+    'groups.join.closedAria': 'Request form to join closed group',
+    'groups.join.questionDefault': 'Why should you be allowed to join?',
+    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
+    'groups.join.requesting': 'Requesting to join'
 };
