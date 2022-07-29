@@ -24,5 +24,9 @@ export default {
     'group.role.admin': 'Admin',
     'groups.join.openGroup': 'Gruppe beitreten',
     'groups.join.closedGroup': 'Antrag auf Beitritt zur Gruppe',
-    'groups.join.questionToJoin': 'Frage für neue Mitglieder'
+    'groups.join.questionToJoin': 'Frage für neue Mitglieder',
+    'groups.join.closedAria': 'Request form to join closed group',
+    'groups.join.questionDefault': 'Why should you be allowed to join?',
+    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
+    'groups.join.requesting': 'Requesting to join'
 };
