@@ -25,5 +25,9 @@ export default {
     'group.role.admin': 'Admin',
     'groups.join.openGroup': 'Připojit se ke skupině',
     'groups.join.closedGroup': 'Požádat o vstup do skupiny',
-    'groups.join.questionToJoin': 'Otázka pro členy žádájící o vstup'
+    'groups.join.questionToJoin': 'Otázka pro členy žádájící o vstup',
+    'groups.join.closedAria': 'Request form to join closed group',
+    'groups.join.questionDefault': 'Why should you be allowed to join?',
+    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
+    'groups.join.requesting': 'Requesting to join'
 };
