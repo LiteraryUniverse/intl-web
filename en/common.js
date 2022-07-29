@@ -237,5 +237,7 @@ export default {
   'common.truncateAppend': '...', // What should be the symbol used to denote that the text continues when it was truncated
   'common.groups': 'Groups',
   'common.upload': 'Upload',
-  'common.backToDashboard': 'Back to dashboard'
+  'common.backToDashboard': 'Back to dashboard',
+  'common.accept': 'Accept',
+  'common.reject': 'Reject'
 } /* eslint-enable max-len */
