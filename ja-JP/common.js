@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'あなたのメモ帳',
     'common.news': 'ニュース',
     'common.encyclopedia': '百科事典',
+    'common.art': 'Art',
     'common.story': '物語',
     'common.stories': '物語',
     'common.universe': '宇宙',
