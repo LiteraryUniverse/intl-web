@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Your scratchpad',
     'common.news': 'Tin tức',
     'common.encyclopedia': 'Bách khoa toàn thư',
+    'common.art': 'Art',
     'common.story': 'Câu chuyện',
     'common.stories': 'Câu chuyện',
     'common.universe': 'Universe',
