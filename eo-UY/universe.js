@@ -4,6 +4,7 @@ export default {
     'universe.fanfiction.desc': 'Fan Fiction for {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.fanarts.for': '{universe} Fan Arts',
+    'universe.fansettings.for': '{universe} Fan Settings',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
