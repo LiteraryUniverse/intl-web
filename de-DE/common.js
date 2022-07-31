@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Ihr Scratchpad',
     'common.news': 'Neuigkeiten',
     'common.encyclopedia': 'Enzyklopädie',
+    'common.art': 'Art',
     'common.story': 'Geschichte',
     'common.stories': 'Geschichten',
     'common.universe': 'Universum',
