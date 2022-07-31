@@ -4,6 +4,7 @@ export default {
     'universe.fanfiction.desc': 'Fan Fiction for {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.fanarts.for': '{universe} Fan Arts',
+    'universe.fansettings.for': '{universe} Fan Settings',
     'universe.stories.count': `Oba {num, plural,
     =0 {não há histórias}
     one {é uma história}
