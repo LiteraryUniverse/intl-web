@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Ваша чернетка',
     'common.news': 'Новини',
     'common.encyclopedia': 'Енциклопедія',
+    'common.art': 'Art',
     'common.story': 'Історія',
     'common.stories': 'Iсторії',
     'common.universe': 'Всесвіт',
