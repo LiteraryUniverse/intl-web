@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Váš Zápisník',
     'common.news': 'Novinky',
     'common.encyclopedia': 'Encyklopedie',
+    'common.art': 'Art',
     'common.story': 'Příběh',
     'common.stories': 'Příběhy',
     'common.universe': 'Vesmír',
