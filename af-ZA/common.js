@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Jou krapblad',
     'common.news': 'Nuus',
     'common.encyclopedia': 'Ensiklopedie',
+    'common.art': 'Art',
     'common.story': 'Storie',
     'common.stories': 'Stories',
     'common.universe': 'Heelal',
