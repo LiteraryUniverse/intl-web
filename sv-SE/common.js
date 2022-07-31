@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Ditt skrapblock',
     'common.news': 'Nyheter',
     'common.encyclopedia': 'Encyclopedia',
+    'common.art': 'Art',
     'common.story': 'Story',
     'common.stories': 'Stories',
     'common.universe': 'Universe',
