@@ -3,6 +3,7 @@ export default {
     'universe.fanfiction.see': 'Všechny fan fikce pro {universe}',
     'universe.fanfiction.desc': 'Fan fikce pro {universe}',
     'universe.fanfiction.for': '{universe} Fan fikce',
+    'universe.fanarts.for': '{universe} Fan Arts',
     'universe.stories.count': `Tento vesmír {num, plural,
     =0 {nemá žádné příběhy}
     one {má jeden příběh}
