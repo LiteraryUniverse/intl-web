@@ -3,6 +3,7 @@ export default {
     'universe.fanfiction.see': 'Fan-Fiktion für {universe}',
     'universe.fanfiction.desc': 'Fan-Fiktion für {universe}',
     'universe.fanfiction.for': '{universe} Fan-Fiktion',
+    'universe.fanarts.for': '{universe} Fan Arts',
     'universe.stories.count': `Es {num, plural,
     =0 {gibt es keine Geschichten}
     one {ist eine Geschichte}
