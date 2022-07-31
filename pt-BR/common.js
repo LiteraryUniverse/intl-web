@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Seu bloco de rascunho',
     'common.news': 'Novidades',
     'common.encyclopedia': 'Enciclopédia',
+    'common.art': 'Art',
     'common.story': 'História',
     'common.stories': 'Histórias',
     'common.universe': 'Universo',
