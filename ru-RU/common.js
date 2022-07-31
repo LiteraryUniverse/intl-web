@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Ваш блокнот',
     'common.news': 'Новости',
     'common.encyclopedia': 'Энциклопедия',
+    'common.art': 'Art',
     'common.story': 'История',
     'common.stories': 'Истории',
     'common.universe': 'Вселенная',
