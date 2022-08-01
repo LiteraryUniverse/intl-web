@@ -26,5 +26,9 @@ export default {
     'groups.join.closedAria': 'Request form to join closed group',
     'groups.join.questionDefault': 'Why should you be allowed to join?',
     'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
-    'groups.join.requesting': 'Requesting to join'
+    'groups.join.requesting': 'Requesting to join',
+    'groups.invite.btn': 'Invite to group',
+    'groups.invite.modalAria': 'Invite users to group dialog',
+    'groups.invite.send': 'Send invite',
+    'groups.invite.label': 'Find user to invite'
 };
