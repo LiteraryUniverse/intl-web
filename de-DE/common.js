@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Ihr Scratchpad',
     'common.news': 'Neuigkeiten',
     'common.encyclopedia': 'Enzyklopädie',
+    'common.art': 'Art',
     'common.story': 'Geschichte',
     'common.stories': 'Geschichten',
     'common.universe': 'Universum',
@@ -92,7 +93,10 @@ export default {
     'premium.only.join': 'Wir bieten verschiedene Pläne an, damit jeder das Beste aus Literary Universe herausholen kann.',
     'premium.only.link': 'Schauen Sie sich das an!',
     'universe.visit': 'Besuche die Universum Seite',
+    'common.fanmanager': 'Fan Manager',
+    'common.fanarts': 'Fan Arts',
     'common.fanfiction': 'Fan-Fiktion',
+    'common.fansettings': 'Fan-Einstellungen',
     'story.chapter': 'Kapitel',
     'story.chapters': 'Kapitel',
     'story.genre': 'Genre',
@@ -214,5 +218,9 @@ export default {
     'common.administration': 'Administration',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Gruppen'
+    'common.groups': 'Gruppen',
+    'common.upload': 'Hochladen',
+    'common.backToDashboard': 'Zurück zum Dashboard',
+    'common.accept': 'Akzeptieren',
+    'common.reject': 'Ablehnen'
 }    /* eslint-enable max-len */;

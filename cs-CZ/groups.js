@@ -25,5 +25,21 @@ export default {
     'group.role.admin': 'Admin',
     'groups.join.openGroup': 'Připojit se ke skupině',
     'groups.join.closedGroup': 'Požádat o vstup do skupiny',
-    'groups.join.questionToJoin': 'Otázka pro členy žádájící o vstup'
+    'groups.join.questionToJoin': 'Otázka pro členy žádájící o vstup',
+    'groups.join.closedAria': 'Požádat o vstup do uzavřené skupiny',
+    'groups.join.questionDefault': 'Proč byste měli být přidáni?',
+    'groups.join.pendingRequest': 'Váš požadavek pro členství v této skupině čeká na schválení ze strany správců skupiny.',
+    'groups.join.requesting': 'Žádající o vstup do skupiny',
+    'groups.invite.btn': 'Pozvat do skupiny',
+    'groups.invite.modalAria': 'Dialog pro pozvíní uživatele do skupiny',
+    'groups.invite.send': 'Poslat pozvánku',
+    'groups.invite.label': 'Najít uživatele k pozvání',
+    'groups.invite.tileMsg': `Máte {count, plural,
+    one {jedno skupinové}
+    few {# skupinová}
+    many {# skupinových}
+    other {# skupinových}
+  } pozvání`,
+    'groups.invites.title': 'Pozvánky do skupiny',
+    'group.invite.accept': 'Přijmout pozvánku'
 };

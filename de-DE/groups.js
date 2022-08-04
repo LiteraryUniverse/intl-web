@@ -24,5 +24,18 @@ export default {
     'group.role.admin': 'Admin',
     'groups.join.openGroup': 'Gruppe beitreten',
     'groups.join.closedGroup': 'Antrag auf Beitritt zur Gruppe',
-    'groups.join.questionToJoin': 'Frage für neue Mitglieder'
+    'groups.join.questionToJoin': 'Frage für neue Mitglieder',
+    'groups.join.closedAria': 'Antragsformular für den Beitritt zur geschlossenen Gruppe',
+    'groups.join.questionDefault': 'Warum sollten Sie beitreten dürfen?',
+    'groups.join.pendingRequest': 'Ihre Anfrage, dieser Gruppe beizutreten, wartet auf die Genehmigung durch die Gruppenadministration.',
+    'groups.join.requesting': 'Antrag auf Beitritt',
+    'groups.invite.btn': 'Zur Gruppe einladen',
+    'groups.invite.modalAria': 'Dialog zum Einladen von Benutzern in die Gruppe',
+    'groups.invite.send': 'Einladung verschicken',
+    'groups.invite.label': 'Benutzer zum Einladen finden',
+    'groups.invite.tileMsg': `You have {count, plural,
+    other {# group invites}
+  }`,
+    'groups.invites.title': 'Gruppeneinladungen',
+    'group.invite.accept': 'Einladung annehmen'
 };

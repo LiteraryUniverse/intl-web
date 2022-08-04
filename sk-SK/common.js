@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Váš zápisník',
     'common.news': 'Novinky',
     'common.encyclopedia': 'Encyklopédia',
+    'common.art': 'Umenie',
     'common.story': 'Príbeh',
     'common.stories': 'Príbehy',
     'common.universe': 'Vesmír',
@@ -92,7 +93,10 @@ export default {
     'premium.only.join': 'Ponúkame rôzne plány pre každého, kto chce získať čo najviac z Literary Universe.',
     'premium.only.link': 'Pozrite sa na to!',
     'universe.visit': 'Navštívte stránku vesmíru',
+    'common.fanmanager': 'Manažér fanúšikov',
+    'common.fanarts': 'Umenie fanúšikov',
     'common.fanfiction': 'Fanúšikovská fikcia',
+    'common.fansettings': 'Nastavenia fanúšikov',
     'story.chapter': 'Kapitola',
     'story.chapters': 'Kapitoly',
     'story.genre': 'Žáner',
@@ -214,5 +218,9 @@ export default {
     'common.administration': 'Administrácia',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Skupiny'
+    'common.groups': 'Skupiny',
+    'common.upload': 'Nahrať',
+    'common.backToDashboard': 'Späť na prehľad',
+    'common.accept': 'Prijať',
+    'common.reject': 'Odmietnuť'
 }    /* eslint-enable max-len */;

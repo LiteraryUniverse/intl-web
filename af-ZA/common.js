@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Jou krapblad',
     'common.news': 'Nuus',
     'common.encyclopedia': 'Ensiklopedie',
+    'common.art': 'Art',
     'common.story': 'Storie',
     'common.stories': 'Stories',
     'common.universe': 'Heelal',
@@ -92,7 +93,10 @@ export default {
     'premium.only.join': 'Ons bied \'n verskeidenheid planne aan sodat almal die meeste uit Literary Universe kan put.',
     'premium.only.link': 'Kyk hierna!',
     'universe.visit': 'Besoek die heelal blad',
+    'common.fanmanager': 'Fan Manager',
+    'common.fanarts': 'Fan Arts',
     'common.fanfiction': 'Fan Fiction',
+    'common.fansettings': 'Fan Settings',
     'story.chapter': 'Hoofstuk',
     'story.chapters': 'Hoofstukke',
     'story.genre': 'Genre',
@@ -214,5 +218,9 @@ export default {
     'common.administration': 'Administration',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups'
+    'common.groups': 'Groups',
+    'common.upload': 'Upload',
+    'common.backToDashboard': 'Back to dashboard',
+    'common.accept': 'Accept',
+    'common.reject': 'Reject'
 }    /* eslint-enable max-len */;

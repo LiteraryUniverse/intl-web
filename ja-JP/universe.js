@@ -3,6 +3,8 @@ export default {
     'universe.fanfiction.see': '{universe}のすべてのファンフィクション',
     'universe.fanfiction.desc': '{universe}のファンフィクション',
     'universe.fanfiction.for': '{universe}ファンフィクション',
+    'universe.fanarts.for': '{universe} のファンの美術',
+    'universe.fansettings.for': '{universe} のファン設定',
     'universe.stories.count': `この宇宙には{num, plural,
     =0 {物語がない}
     other {#の物語がある}

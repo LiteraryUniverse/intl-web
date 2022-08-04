@@ -24,5 +24,18 @@ export default {
     'group.role.admin': 'Admin',
     'groups.join.openGroup': 'Dołącz do grupy',
     'groups.join.closedGroup': 'Wniosek o przyłączenie się do grupy',
-    'groups.join.questionToJoin': 'Pytanie do nowych członków'
+    'groups.join.questionToJoin': 'Pytanie do nowych członków',
+    'groups.join.closedAria': 'Request form to join closed group',
+    'groups.join.questionDefault': 'Why should you be allowed to join?',
+    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
+    'groups.join.requesting': 'Requesting to join',
+    'groups.invite.btn': 'Invite to group',
+    'groups.invite.modalAria': 'Invite users to group dialog',
+    'groups.invite.send': 'Send invite',
+    'groups.invite.label': 'Find user to invite',
+    'groups.invite.tileMsg': `You have {count, plural,
+    other {# group invites}
+  }`,
+    'groups.invites.title': 'Group invitations',
+    'group.invite.accept': 'Accept invite'
 };

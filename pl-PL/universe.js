@@ -3,6 +3,8 @@ export default {
     'universe.fanfiction.see': 'Wszystkie Fan Fiction dla {universe}',
     'universe.fanfiction.desc': 'Fan Fiction dla {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
+    'universe.fanarts.for': '{universe} Fan Arts',
+    'universe.fansettings.for': '{universe} Fan Settings',
     'universe.stories.count': `Tutaj {num, plural,
     =0 {nie ma opowieści}
     one {to jedna opowieść}

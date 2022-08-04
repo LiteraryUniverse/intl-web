@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Your scratchpad',
     'common.news': 'Tin tức',
     'common.encyclopedia': 'Bách khoa toàn thư',
+    'common.art': 'Art',
     'common.story': 'Câu chuyện',
     'common.stories': 'Câu chuyện',
     'common.universe': 'Universe',
@@ -92,7 +93,10 @@ export default {
     'premium.only.join': 'We offer varieties of plans for everyone to get the most out of Literary Universe.',
     'premium.only.link': 'Khám phá ngay!',
     'universe.visit': 'Visit universe page',
+    'common.fanmanager': 'Fan Manager',
+    'common.fanarts': 'Fan Arts',
     'common.fanfiction': 'Fan Fiction',
+    'common.fansettings': 'Fan Settings',
     'story.chapter': 'Chương',
     'story.chapters': 'Các chương',
     'story.genre': 'Thể loại',
@@ -214,5 +218,9 @@ export default {
     'common.administration': 'Administration',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups'
+    'common.groups': 'Groups',
+    'common.upload': 'Upload',
+    'common.backToDashboard': 'Back to dashboard',
+    'common.accept': 'Accept',
+    'common.reject': 'Reject'
 }    /* eslint-enable max-len */;

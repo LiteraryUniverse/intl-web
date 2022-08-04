@@ -3,6 +3,8 @@ export default {
     'universe.fanfiction.see': 'Všetky fanfiction pre {universe}',
     'universe.fanfiction.desc': 'Fanfiction pre {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
+    'universe.fanarts.for': '{universe} Umenie fanúšikov',
+    'universe.fansettings.for': '{universe} Nastavenia fan tvorby',
     'universe.stories.count': `V tomto vesmíre {num, plural,
     =0 {neexistujú žiadne príbehy}
     one {je jeden príbeh}

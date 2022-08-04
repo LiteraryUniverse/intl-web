@@ -23,5 +23,18 @@ export default {
     'group.role.admin': 'Admin',
     'groups.join.openGroup': 'Unirse al grupo',
     'groups.join.closedGroup': 'Solicitud de adhesión al grupo',
-    'groups.join.questionToJoin': 'Pregunta para los nuevos miembros'
+    'groups.join.questionToJoin': 'Pregunta para los nuevos miembros',
+    'groups.join.closedAria': 'Formulario de solicitud de adhesión al grupo cerrado',
+    'groups.join.questionDefault': '¿Por qué se le debe permitir unirse?',
+    'groups.join.pendingRequest': 'Su solicitud para unirse a este grupo está esperando la aprobación de los administradores del grupo.',
+    'groups.join.requesting': 'Solicitud de adhesión',
+    'groups.invite.btn': 'Invitar al grupo',
+    'groups.invite.modalAria': 'Diálogo para invitar a los usuarios al grupo',
+    'groups.invite.send': 'Enviar invitación',
+    'groups.invite.label': 'Buscar usuario para invitar',
+    'groups.invite.tileMsg': `You have {count, plural,
+    other {# group invites}
+  }`,
+    'groups.invites.title': 'Invitaciones de grupo',
+    'group.invite.accept': 'Aceptar invitación'
 };

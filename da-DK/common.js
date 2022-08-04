@@ -48,6 +48,7 @@ export default {
     'common.scratchpad.own': 'Your scratchpad',
     'common.news': 'Nyheder',
     'common.encyclopedia': 'Encyclopedia',
+    'common.art': 'Art',
     'common.story': 'Story',
     'common.stories': 'Stories',
     'common.universe': 'Universe',
@@ -92,7 +93,10 @@ export default {
     'premium.only.join': 'We offer varieties of plans for everyone to get the most out of Literary Universe.',
     'premium.only.link': 'Check it out!',
     'universe.visit': 'Visit universe page',
+    'common.fanmanager': 'Fan Manager',
+    'common.fanarts': 'Fan Arts',
     'common.fanfiction': 'Fan Fiction',
+    'common.fansettings': 'Fan Settings',
     'story.chapter': 'Chapter',
     'story.chapters': 'Chapters',
     'story.genre': 'Genre',
@@ -214,5 +218,9 @@ export default {
     'common.administration': 'Administration',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups'
+    'common.groups': 'Groups',
+    'common.upload': 'Upload',
+    'common.backToDashboard': 'Back to dashboard',
+    'common.accept': 'Accept',
+    'common.reject': 'Reject'
 }    /* eslint-enable max-len */;
