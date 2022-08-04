@@ -96,7 +96,7 @@ export default {
     'common.fanmanager': 'Fan Manager',
     'common.fanarts': 'Fan Arts',
     'common.fanfiction': 'Fan-Fiktion',
-    'common.fansettings': 'Fan Settings',
+    'common.fansettings': 'Fan-Einstellungen',
     'story.chapter': 'Kapitel',
     'story.chapters': 'Kapitel',
     'story.genre': 'Genre',
@@ -219,8 +219,8 @@ export default {
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
     'common.groups': 'Gruppen',
-    'common.upload': 'Upload',
-    'common.backToDashboard': 'Back to dashboard',
-    'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.upload': 'Hochladen',
+    'common.backToDashboard': 'Zurück zum Dashboard',
+    'common.accept': 'Akzeptieren',
+    'common.reject': 'Ablehnen'
 }    /* eslint-enable max-len */;
