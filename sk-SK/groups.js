@@ -34,8 +34,11 @@ export default {
     'groups.invite.modalAria': 'Dialógové okno na pozvanie používateľov do skupiny',
     'groups.invite.send': 'Odoslať pozvánku',
     'groups.invite.label': 'Nájsť používateľa, ktorého chcete pozvať',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
+    'groups.invite.tileMsg': `Máte {count, plural,
+    one {jednu skupinovú pozvánku}
+    few {# skupinové pozvánky}
+    many {# skupinových pozvánok}
+    other {# skupinových pozvánok}
   }`,
     'groups.invites.title': 'Pozvánky do skupín',
     'group.invite.accept': 'Prijať pozvanie'
