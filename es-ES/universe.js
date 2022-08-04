@@ -3,8 +3,8 @@ export default {
     'universe.fanfiction.see': 'Todos los fánfics para {universe}',
     'universe.fanfiction.desc': 'Fánfic para {universe}',
     'universe.fanfiction.for': 'Fánfic de {universe}',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
+    'universe.fanarts.for': '{universe} Fan Artes',
+    'universe.fansettings.for': 'Ajustes de fans de {universe}',
     'universe.stories.count': `{num, plural,
     =0 {No hay historias}
     one {Hay una historia}
