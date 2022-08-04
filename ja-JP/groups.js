@@ -23,15 +23,17 @@ export default {
     'groups.join.openGroup': 'グループに参加する',
     'groups.join.closedGroup': 'グループへの参加申請',
     'groups.join.questionToJoin': '新メンバーへの質問',
-    'groups.join.closedAria': 'Request form to join closed group',
-    'groups.join.questionDefault': 'Why should you be allowed to join?',
-    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
-    'groups.join.requesting': 'Requesting to join',
-    'groups.invite.btn': 'Invite to group',
-    'groups.invite.modalAria': 'Invite users to group dialog',
-    'groups.invite.send': 'Send invite',
-    'groups.invite.label': 'Find user to invite',
-    'groups.invite.tileMsg': 'You have {count, number} group invites',
-    'groups.invites.title': 'Group invitations',
-    'group.invite.accept': 'Accept invite'
+    'groups.join.closedAria': 'クローズドグループへの参加申請フォーム',
+    'groups.join.questionDefault': 'なぜ参加させる必要があるのですか。',
+    'groups.join.pendingRequest': 'このグループへの参加リクエストは、グループ管理者の承認待ちです。',
+    'groups.join.requesting': '参加希望',
+    'groups.invite.btn': 'グループへの招待',
+    'groups.invite.modalAria': 'ユーザーをグループに招待するためのダイアログ',
+    'groups.invite.send': '招待状の送付',
+    'groups.invite.label': '招待するユーザーを探す',
+    'groups.invite.tileMsg': `You have {count, plural,
+    other {# group invites}
+  }`,
+    'groups.invites.title': 'グループ招待',
+    'group.invite.accept': '招待を受ける'
 };
