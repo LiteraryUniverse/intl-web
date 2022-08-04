@@ -219,8 +219,8 @@ export default {
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
     'common.groups': 'Skupiny',
-    'common.upload': 'Upload',
-    'common.backToDashboard': 'Back to dashboard',
-    'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.upload': 'Nahrát',
+    'common.backToDashboard': 'Zpět na ovládací panel',
+    'common.accept': 'Přijmout',
+    'common.reject': 'Odmítnout'
 }    /* eslint-enable max-len */;
