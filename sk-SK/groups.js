@@ -26,15 +26,17 @@ export default {
     'groups.join.openGroup': 'Pripojiť k skupine',
     'groups.join.closedGroup': 'Žiadosť o pripojenie k skupine',
     'groups.join.questionToJoin': 'Otázka pre nových členov',
-    'groups.join.closedAria': 'Request form to join closed group',
-    'groups.join.questionDefault': 'Why should you be allowed to join?',
-    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
-    'groups.join.requesting': 'Requesting to join',
-    'groups.invite.btn': 'Invite to group',
-    'groups.invite.modalAria': 'Invite users to group dialog',
-    'groups.invite.send': 'Send invite',
-    'groups.invite.label': 'Find user to invite',
-    'groups.invite.tileMsg': 'You have {count, number} group invites',
-    'groups.invites.title': 'Group invitations',
-    'group.invite.accept': 'Accept invite'
+    'groups.join.closedAria': 'Formulár žiadosti o vstup do uzavretej skupiny',
+    'groups.join.questionDefault': 'Prečo by vám malo byť umožnené vstúpiť?',
+    'groups.join.pendingRequest': 'Vaša žiadosť o pripojenie k tejto skupine čaká na schválenie od správcov skupiny.',
+    'groups.join.requesting': 'Žiadosť o vstup',
+    'groups.invite.btn': 'Pozvať do skupiny',
+    'groups.invite.modalAria': 'Dialógové okno na pozvanie používateľov do skupiny',
+    'groups.invite.send': 'Odoslať pozvánku',
+    'groups.invite.label': 'Nájsť používateľa, ktorého chcete pozvať',
+    'groups.invite.tileMsg': `You have {count, plural,
+    other {# group invites}
+  }`,
+    'groups.invites.title': 'Pozvánky do skupín',
+    'group.invite.accept': 'Prijať pozvanie'
 };
