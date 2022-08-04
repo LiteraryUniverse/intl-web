@@ -48,7 +48,7 @@ export default {
     'common.scratchpad.own': 'あなたのメモ帳',
     'common.news': 'ニュース',
     'common.encyclopedia': '百科事典',
-    'common.art': 'Art',
+    'common.art': '美術',
     'common.story': '物語',
     'common.stories': '物語',
     'common.universe': '宇宙',
@@ -93,10 +93,10 @@ export default {
     'premium.only.join': '文学の宇宙を最大限に活用していただくために、様々なプランをご用意しています。',
     'premium.only.link': 'ぜひチェックしてみてください。',
     'universe.visit': '宇宙のページを見る',
-    'common.fanmanager': 'Fan Manager',
-    'common.fanarts': 'Fan Arts',
+    'common.fanmanager': 'ファン管理者',
+    'common.fanarts': 'ファンの芸術',
     'common.fanfiction': 'ファンフィクション',
-    'common.fansettings': 'Fan Settings',
+    'common.fansettings': 'ファン設定',
     'story.chapter': '章',
     'story.chapters': '章',
     'story.genre': 'ジャンル',
@@ -219,8 +219,8 @@ export default {
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
     'common.groups': 'グループ',
-    'common.upload': 'Upload',
-    'common.backToDashboard': 'Back to dashboard',
-    'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.upload': 'アップロード',
+    'common.backToDashboard': 'ダッシュボードに戻る',
+    'common.accept': '受理する',
+    'common.reject': '拒絶する'
 }    /* eslint-enable max-len */;
