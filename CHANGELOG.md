@@ -1,8 +1,9 @@
 # Changelog for languages
 
-## 2022-07-29 - v1.12.3
+## 2022-08-04 - v1.12.3
 
 * Added `Upload` and `Back to dashboard` common strings
+* Additional group strings
 
 ## 2022-07-27 - v1.12.2
 
