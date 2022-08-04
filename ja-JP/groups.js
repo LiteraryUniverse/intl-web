@@ -31,9 +31,9 @@ export default {
     'groups.invite.modalAria': 'ユーザーをグループに招待するためのダイアログ',
     'groups.invite.send': '招待状の送付',
     'groups.invite.label': '招待するユーザーを探す',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
-  }`,
+    'groups.invite.tileMsg': `グループ招待は{count, plural,
+    other {#}
+  }回です`,
     'groups.invites.title': 'グループ招待',
     'group.invite.accept': '招待を受ける'
 };
