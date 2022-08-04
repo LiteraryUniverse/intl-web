@@ -24,15 +24,17 @@ export default {
     'groups.join.openGroup': 'Unirse al grupo',
     'groups.join.closedGroup': 'Solicitud de adhesión al grupo',
     'groups.join.questionToJoin': 'Pregunta para los nuevos miembros',
-    'groups.join.closedAria': 'Request form to join closed group',
-    'groups.join.questionDefault': 'Why should you be allowed to join?',
-    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
-    'groups.join.requesting': 'Requesting to join',
-    'groups.invite.btn': 'Invite to group',
-    'groups.invite.modalAria': 'Invite users to group dialog',
-    'groups.invite.send': 'Send invite',
-    'groups.invite.label': 'Find user to invite',
-    'groups.invite.tileMsg': 'You have {count, number} group invites',
-    'groups.invites.title': 'Group invitations',
-    'group.invite.accept': 'Accept invite'
+    'groups.join.closedAria': 'Formulario de solicitud de adhesión al grupo cerrado',
+    'groups.join.questionDefault': '¿Por qué se le debe permitir unirse?',
+    'groups.join.pendingRequest': 'Su solicitud para unirse a este grupo está esperando la aprobación de los administradores del grupo.',
+    'groups.join.requesting': 'Solicitud de adhesión',
+    'groups.invite.btn': 'Invitar al grupo',
+    'groups.invite.modalAria': 'Diálogo para invitar a los usuarios al grupo',
+    'groups.invite.send': 'Enviar invitación',
+    'groups.invite.label': 'Buscar usuario para invitar',
+    'groups.invite.tileMsg': `You have {count, plural,
+    other {# group invites}
+  }`,
+    'groups.invites.title': 'Invitaciones de grupo',
+    'group.invite.accept': 'Aceptar invitación'
 };
