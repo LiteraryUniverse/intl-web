@@ -33,8 +33,9 @@ export default {
     'groups.invite.modalAria': 'Dialog zum Einladen von Benutzern in die Gruppe',
     'groups.invite.send': 'Einladung verschicken',
     'groups.invite.label': 'Benutzer zum Einladen finden',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
+    'groups.invite.tileMsg': `Sie haben {count, plural,
+    one {eine Gruppeneinladung}
+    other {# Gruppeneinladungen}
   }`,
     'groups.invites.title': 'Gruppeneinladungen',
     'group.invite.accept': 'Einladung annehmen'
