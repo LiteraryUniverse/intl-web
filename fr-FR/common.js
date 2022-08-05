@@ -6,7 +6,7 @@ export default {
     siteName: 'Univers Littéraire',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe est une plateforme de création et de publication de grands univers narratifs.',
-    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
+    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Univers Littéraire logo',
     mobileMenu: 'Menu mobile',
     'common.signin': 'Connexion',
@@ -222,5 +222,7 @@ export default {
     'common.upload': 'Upload',
     'common.backToDashboard': 'Back to dashboard',
     'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.reject': 'Reject',
+    'common.events': 'Events',
+    'common.event': 'Event'
 }    /* eslint-enable max-len */;
