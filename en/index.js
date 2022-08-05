@@ -31,6 +31,8 @@ import user from './user'
 import forums from './forums'
 import notifications from './notifications'
 import roadmap from './roadmap'
+import events from './events'
+import fanManager from './fan_manager'
 
 export default {
   locales: ['en', 'en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
@@ -66,5 +68,7 @@ export default {
   ...user,
   ...forums,
   ...notifications,
-  ...roadmap
+  ...roadmap,
+  ...events,
+  ...fanManager
 }

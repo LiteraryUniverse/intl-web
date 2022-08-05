@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2022-08-XX - v1.13.0
+
+* New file for fan manager strings
+* New file for events strings
+
 ## 2022-08-04 - v1.12.3
 
 * Added `Upload` and `Back to dashboard` common strings
