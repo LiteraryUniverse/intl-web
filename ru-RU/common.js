@@ -6,7 +6,7 @@ export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
     'site.description': '«Литературная вселенная» - это творческая и издательская платформа для вселенных грандиозных историй.',
-    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
+    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Literary Universe logo',
     mobileMenu: 'Мобильное меню',
     'common.signin': 'Войти',
@@ -222,5 +222,7 @@ export default {
     'common.upload': 'Upload',
     'common.backToDashboard': 'Back to dashboard',
     'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.reject': 'Reject',
+    'common.events': 'Events',
+    'common.event': 'Event'
 }    /* eslint-enable max-len */;
