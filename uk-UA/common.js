@@ -6,7 +6,7 @@ export default {
     siteName: 'Літературний Всесвіт',
     twitterHandle: '@lituniapp',
     'site.description': 'Літературний Всесвіт - креативна і видавнича платформа для грандіозних всесвітів.',
-    'site.keywords': 'креативне письмо, наукова фантастика, наукова фантастика, фентезі, написання, видавнича справа, переклади, історія, історії, всесвіт',
+    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Логотип Літературного Всесвіту',
     mobileMenu: 'Мобільне меню',
     'common.signin': 'Увійти',
@@ -222,5 +222,7 @@ export default {
     'common.upload': 'Upload',
     'common.backToDashboard': 'Back to dashboard',
     'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.reject': 'Reject',
+    'common.events': 'Events',
+    'common.event': 'Event'
 }    /* eslint-enable max-len */;
