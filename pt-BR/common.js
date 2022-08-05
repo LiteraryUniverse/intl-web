@@ -6,7 +6,7 @@ export default {
     siteName: 'Universo Literário',
     twitterHandle: '@lituniapp',
     'site.description': 'Universo literário é uma plataforma criativa e de publicação para universos de grandes histórias.',
-    'site.keywords': 'escrita criativa, ficção cientifica, fantasia, escrita, publicação, traduções, história, histórias, universo',
+    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Logotipo Universo Literário',
     mobileMenu: 'Menu Mobile',
     'common.signin': 'Login',
@@ -222,5 +222,7 @@ export default {
     'common.upload': 'Upload',
     'common.backToDashboard': 'Back to dashboard',
     'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.reject': 'Reject',
+    'common.events': 'Events',
+    'common.event': 'Event'
 }    /* eslint-enable max-len */;
