@@ -224,5 +224,6 @@ export default {
     'common.accept': 'Přijmout',
     'common.reject': 'Odmítnout',
     'common.events': 'Akce',
-    'common.event': 'Akce'
+    'common.event': 'Akce',
+    'common.all': 'All'
 }    /* eslint-enable max-len */;
