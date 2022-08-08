@@ -6,7 +6,7 @@ export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe to platforma twórcza i wydawnicza dla wielkich uniwersów opowieści.',
-    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
+    'site.keywords': 'kreatywne pisanie, nauka, nauka, fantazja, pisanie, wydawanie, historia, historie, wszechświat, novel, powieść internetowa',
     'site.logoAlt': 'Logo Literary Universe',
     mobileMenu: 'Menu mobilne',
     'common.signin': 'Zaloguj się',
@@ -219,10 +219,10 @@ export default {
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
     'common.groups': 'Grupy',
-    'common.upload': 'Upload',
-    'common.backToDashboard': 'Back to dashboard',
-    'common.accept': 'Accept',
-    'common.reject': 'Reject',
-    'common.events': 'Events',
-    'common.event': 'Event'
+    'common.upload': 'Prześlij',
+    'common.backToDashboard': 'Powrót do tablicy rozdzielczej',
+    'common.accept': 'Akceptuj',
+    'common.reject': 'Odrzuć',
+    'common.events': 'Spotkania',
+    'common.event': 'Spotkanie'
 }    /* eslint-enable max-len */;
