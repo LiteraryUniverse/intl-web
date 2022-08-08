@@ -224,5 +224,6 @@ export default {
     'common.accept': 'Accetta',
     'common.reject': 'Rifiuta',
     'common.events': 'Eventi',
-    'common.event': 'Evento'
+    'common.event': 'Evento',
+    'common.all': 'All'
 }    /* eslint-enable max-len */;
