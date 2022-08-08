@@ -25,7 +25,7 @@ export default {
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
     'homepage.intro': 'Explore and create literally universes & great stories.',
-    'homepage.explanation': 'Literary Universe is a creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
+    'homepage.explanation': 'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
     'gdpr.title': 'GDPR Compliance',
     'gdpr.desc': 'Literary Universe is compliant with the EU GDPR directives.',
     'gdpr.compliant': 'Literary Universe is GDPR Compliant',
