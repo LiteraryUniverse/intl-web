@@ -1,1 +1,1 @@
-export default { 'events.settings.title': 'Event settings' };
+export default { 'events.settings.title': 'イベントの設定' };
