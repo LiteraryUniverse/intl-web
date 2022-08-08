@@ -6,7 +6,7 @@ export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe je tvůrčí a vydavatelská platforma pro velké příběhové vesmíry.',
-    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
+    'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasie, psaní, publikace, příběhy, vesmíru, webromán, webnovel',
     'site.logoAlt': 'Logo Literary Universe',
     mobileMenu: 'Mobilní menu',
     'common.signin': 'Přihlásit se',
@@ -223,6 +223,6 @@ export default {
     'common.backToDashboard': 'Zpět na ovládací panel',
     'common.accept': 'Přijmout',
     'common.reject': 'Odmítnout',
-    'common.events': 'Events',
-    'common.event': 'Event'
+    'common.events': 'Akce',
+    'common.event': 'Akce'
 }    /* eslint-enable max-len */;
