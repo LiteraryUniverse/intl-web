@@ -224,5 +224,6 @@ export default {
     'common.accept': 'Prijať',
     'common.reject': 'Odmietnuť',
     'common.events': 'Stretnutia',
-    'common.event': 'Stretnutie'
+    'common.event': 'Stretnutie',
+    'common.all': 'All'
 }    /* eslint-enable max-len */;
