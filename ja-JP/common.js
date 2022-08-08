@@ -223,6 +223,6 @@ export default {
     'common.backToDashboard': 'ダッシュボードに戻る',
     'common.accept': '受理する',
     'common.reject': '拒絶する',
-    'common.events': 'Events',
-    'common.event': 'Event'
+    'common.events': 'イベント',
+    'common.event': 'イベント'
 }    /* eslint-enable max-len */;
