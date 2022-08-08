@@ -4,6 +4,7 @@
 
 * New file for fan manager strings
 * New file for events strings
+* Updated LU description to include `all-in-one` part
 
 ## 2022-08-04 - v1.12.3
 
