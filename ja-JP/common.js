@@ -224,5 +224,6 @@ export default {
     'common.accept': '受理する',
     'common.reject': '拒絶する',
     'common.events': 'イベント',
-    'common.event': 'イベント'
+    'common.event': 'イベント',
+    'common.all': 'All'
 }    /* eslint-enable max-len */;
