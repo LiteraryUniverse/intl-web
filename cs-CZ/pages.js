@@ -25,7 +25,7 @@ export default {
     'guidelines.desc': 'Komunitní směrnice Literary Universe.',
     'tos.desc': 'Úplný právní text Podmínek služby Literary Universe.',
     'homepage.intro': 'Prozkoumejte a vytvořte literární vesmíry a skvělé příběhy.',
-    'homepage.explanation': 'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
+    'homepage.explanation': 'Literární Universe je, vše v jednom, tvůrčí platforma pro čtení a psaní, zaměřená na komplexní literární vesmíry. Naším cílem je poskytnout vzájemně propojené nástroje pro psaní složitých vesmírů a příběhů, a skvělý zážitek pro fanoušky a čtenáře při průzkumu těchto vesmíru.',
     'gdpr.title': 'Soulad s GDPR',
     'gdpr.desc': 'Literární Universe je v souladu s GDPR.',
     'gdpr.compliant': 'Literární Universe splňuje GDPR',
