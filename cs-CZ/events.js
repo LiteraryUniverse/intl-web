@@ -1,5 +1,5 @@
 export default {
-  'events.upcoming': 'Upcoming events',
+  'events.upcoming': 'Nadcházející akce',
   'events.settings.title': 'Nastavení akce',
   'events.attendance.attending': 'Attending',
   'events.attendance.tentative': 'Tentative',
@@ -8,7 +8,7 @@ export default {
   'events.details.image': 'Obrázek události',
   'events.details.description': 'Popis akce / Agenda',
   'events.details.url': 'Odkaz na více informací',
-  'events.details.virtualLink': 'Link to virtual location (ie. Zoom, Google Meets, etc.)',
+  'events.details.virtualLink': 'Odkaz na virtuální lokaci (tj. Zoom, Google Meets, atd.)',
   'events.details.address': 'Adresa místa konání',
   'events.details.startsAt': 'Začátek',
   'events.details.endsAt': 'Konec',
@@ -18,20 +18,20 @@ export default {
   'events.type.hybrid': 'Hybridní',
   'events.join.startsIn': 'Událost začíná {startsAt}',
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
-  'events.join.virtual': 'Join event',
-  'events.selection.origin': 'Event origin',
+  'events.join.virtual': 'Připojit se',
+  'events.selection.origin': 'Původ akce',
   'events.origin.universe': 'Vesmír',
   'events.origin.author': 'Autor',
   'events.origin.groups': 'Skupiny',
   'events.origin.organizations': 'Organizace',
   'events.origin.lu': 'Oficiální akce Literary Universe',
   'events.visibility.public': 'Veřejná - Kdokoli může vidět tuto událost',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
+  'events.visibility.owner': `Vlastník - pouze {type, select,
+    group {členové Vaší skupiny}
+    universe {spolupracovníci a fanoušci vesmíru}
+    organization {členové Vaší organizace}
+    other {Vy a lidé, které pozvete}
+  } mohou vidět tuto událost`,
   'events.visibility.private': 'Soukromé - pouze osoby, které pozvete uvidí událost',
   'events.inviting': 'Mohou lidé, kteří vidí tuto událost, pozvat ostatní?'
 };
