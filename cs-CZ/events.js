@@ -1,9 +1,9 @@
 export default {
   'events.upcoming': 'Nadcházející akce',
   'events.settings.title': 'Nastavení akce',
-  'events.attendance.attending': 'Attending',
-  'events.attendance.tentative': 'Tentative',
-  'events.attendance.notAttending': 'Not attending',
+  'events.attendance.attending': 'Zůčastním se',
+  'events.attendance.tentative': 'Možná',
+  'events.attendance.notAttending': 'Nezúčastním se',
   'events.details.name': 'Jméno akce',
   'events.details.image': 'Obrázek události',
   'events.details.description': 'Popis akce / Agenda',
