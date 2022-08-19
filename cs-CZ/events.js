@@ -25,6 +25,7 @@ export default {
   'events.origin.groups': 'Skupiny',
   'events.origin.organizations': 'Organizace',
   'events.origin.lu': 'Oficiální akce Literary Universe',
+  'events.visibility.label': 'Even visibility',
   'events.visibility.public': 'Veřejná - Kdokoli může vidět tuto událost',
   'events.visibility.owner': `Vlastník - pouze {type, select,
     group {členové Vaší skupiny}
@@ -33,5 +34,7 @@ export default {
     other {Vy a lidé, které pozvete}
   } mohou vidět tuto událost`,
   'events.visibility.private': 'Soukromé - pouze osoby, které pozvete uvidí událost',
-  'events.inviting': 'Mohou lidé, kteří vidí tuto událost, pozvat ostatní?'
+  'events.inviting': 'Mohou lidé, kteří vidí tuto událost, pozvat ostatní?',
+  'events.administration': 'Events administration',
+  'events.create.title': 'Create a new event'
 };
