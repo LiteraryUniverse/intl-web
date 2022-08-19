@@ -25,6 +25,7 @@ export default {
   'events.origin.groups': 'Groups',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
+  'events.visibility.label': 'Even visibility',
   'events.visibility.public': 'Public - anyone can see this event',
   'events.visibility.owner': `Owner - only {type, select,
     group {members of your group}
@@ -34,5 +35,7 @@ export default {
   } can see this event`,
   'events.visibility.private':
     'Private - only people you invite will see the event',
-  'events.inviting': 'Can people who see this event invite others?'
+  'events.inviting': 'Can people who see this event invite others?',
+  'events.administration': 'Events administration',
+  'events.create.title': 'Create a new event'
 }
