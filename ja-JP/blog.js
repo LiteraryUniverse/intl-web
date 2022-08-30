@@ -1,10 +1,10 @@
 export default {
-    'blog.noneMsg': `現在{type, select,
-    org {はブログを持っていませんね}
-    universe {、あなたの宇宙にはブログがありません}
-    user {はブログを持っていませんね}
+    'blog.noneMsg': `You currently don't have {type, select,
+    organization {any blog}
+    universe {a blog for your universe}
+    user {a blog}
     other {}
-  }。`,
+  }.`,
     'blog.create': '新しいブログを作成する',
     'blog.settings': `{type, select,
     org {ブログ}
