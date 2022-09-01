@@ -36,5 +36,6 @@ export default {
     'stats.blogPage': 'Página',
     'stats.blog.typeSelectionAria': 'Introducir selección',
     'stats.blog.pages': 'Páginas',
-    'stats.blog.posts': 'Publicaciones'
+    'stats.blog.posts': 'Publicaciones',
+    'stats.unknown': 'Unknown'
 };
