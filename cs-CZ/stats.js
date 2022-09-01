@@ -36,5 +36,6 @@ export default {
     'stats.blogPage': 'Stránka',
     'stats.blog.typeSelectionAria': 'Výběr typu',
     'stats.blog.pages': 'Stránky',
-    'stats.blog.posts': 'Příspěvky'
+    'stats.blog.posts': 'Příspěvky',
+    'stats.unknown': 'Unknown'
 };
