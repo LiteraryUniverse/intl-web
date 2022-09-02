@@ -5,8 +5,8 @@ export default {
     'universe.fanfiction.for': '{universe} Fan fikce',
     'universe.fanarts.for': '{universe} fanouškovské úmení',
     'universe.fansettings.for': '{universe} nastavení fanouškovské tvorby',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.fanfiction.stories': 'Příběhy',
+    'universe.fanfiction.fanarts': 'Fanouškovské úmění',
     'universe.stories.count': `Tento vesmír {num, plural,
     =0 {nemá žádné příběhy}
     one {má jeden příběh}
