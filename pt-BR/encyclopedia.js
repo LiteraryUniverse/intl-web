@@ -28,12 +28,12 @@ export default {
     one {1 related entry}
     other {# related entries}
   } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
+    'encyclopedia.help.text': 'Use o menu à esquerda para navegar entre os itens na enciclopédia. Depois de selecionar um iten, será exibido no lugar deste texto.',
     'encyclopedia.help.sidebar': 'Sidebar Toolbox',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
     'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
+    'encyclopedia.add.heading': 'O que você deseja adicionar?',
     'encyclopedia.add.moresoon': 'More categories coming soon!',
     'encyclopedia.create': `Create a new {category, select,
     character {character}
