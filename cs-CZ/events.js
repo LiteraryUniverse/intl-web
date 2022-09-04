@@ -36,5 +36,7 @@ export default {
   'events.visibility.private': 'Soukromé - pouze osoby, které pozvete uvidí událost',
   'events.inviting': 'Mohou lidé, kteří vidí tuto událost, pozvat ostatní?',
   'events.administration': 'Administrace akcí',
-  'events.create.title': 'Vytvořit novou akci'
+  'events.create.title': 'Vytvořit novou akci',
+  'events.hostedBy': 'Hosted by {hostName}',
+  'events.openVirtual': 'Go to virtual location'
 };
