@@ -38,5 +38,9 @@ export default {
   'events.administration': 'Events administration',
   'events.create.title': 'Create a new event',
   'events.hostedBy': 'Hosted by {hostName}',
-  'events.openVirtual': 'Go to virtual location'
+  'events.openVirtual': 'Go to virtual location',
+  'events.moreInfo': 'More information',
+  'event.visibilityShort.private': 'Private',
+  'event.visibilityShort.public': 'Public',
+  'event.visibilityShort.owner': 'Owner'
 };
