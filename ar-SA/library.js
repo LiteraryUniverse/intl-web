@@ -1,5 +1,5 @@
 export default {
-    'library.add': 'Add to library',
+    'library.add': 'أضف إلى المكتبة',
     'library.remove': 'Remove from library',
     'library.bought': 'Bought stories',
     'library.stories': 'Followed stories',
