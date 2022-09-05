@@ -15,7 +15,7 @@ export default {
     'challenges.targetWords': 'Total targeted word count',
     'challenges.startDate': 'Start date',
     'challenges.endDate': 'End date',
-    'challenges.future': 'Upcoming challenges',
+    'challenges.future': 'التحديات القادمة',
     'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
     'challenges.future.nanowrimo': 'NaNoWriMo challenge is ready.',
     'challenges.wordcount': 'Word count',
