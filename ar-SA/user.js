@@ -1,5 +1,5 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
+    'user.friend.request.add': 'إضافة إلى الأصدقاء',
     'user.friend.requests': `You have {num, number} new friend {num, plural,
     zero {requests}
     one {request}
