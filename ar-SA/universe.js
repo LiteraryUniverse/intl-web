@@ -14,8 +14,8 @@ export default {
     } in this universe.`,
     'universe.authors.title': 'Authors',
     'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
+    'universe.contributors': 'المساهمون',
+    'universe.translators': 'المترجمون',
     'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
     'universe.createdBy': `{gender, select,
     male {Created}
