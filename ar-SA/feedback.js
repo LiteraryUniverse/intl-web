@@ -21,7 +21,7 @@ export default {
     'feedback.comment.desc': 'Send us your feedback',
     'feedback.comment.legend': 'Your feedback - let us know about anything',
     'feedback.comment.success': 'Thank you for your feedback!',
-    'feedback.comment.label': 'Your comment',
+    'feedback.comment.label': 'تعليقك',
     'feedback.copyrightReport.title': 'Copyright violation',
     'feedback.copyrightReport.desc': 'Report Copyright violation',
     'feedback.report.noUser': 'You need to be signed in, in order to file a report.',
