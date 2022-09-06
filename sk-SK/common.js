@@ -5,7 +5,7 @@
 export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe je tvorivá a vydavateľská platforma pre veľké príbehové vesmíry.',
+    'site.description': 'Literary Universe is an all-in-one creative and publishing platform for grand story universes.',
     'site.keywords': 'tvorivé písanie, scifi, sci-fi, fantasy, písanie, publikovanie, príbeh, príbehy, vesmír, web novel, webnovel',
     'site.logoAlt': 'Logo Literary Universe',
     mobileMenu: 'Mobilné menu',
