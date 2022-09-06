@@ -25,17 +25,17 @@ export default {
     'groups.join.openGroup': 'Dołącz do grupy',
     'groups.join.closedGroup': 'Wniosek o przyłączenie się do grupy',
     'groups.join.questionToJoin': 'Pytanie do nowych członków',
-    'groups.join.closedAria': 'Request form to join closed group',
-    'groups.join.questionDefault': 'Why should you be allowed to join?',
-    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
-    'groups.join.requesting': 'Requesting to join',
-    'groups.invite.btn': 'Invite to group',
-    'groups.invite.modalAria': 'Invite users to group dialog',
-    'groups.invite.send': 'Send invite',
-    'groups.invite.label': 'Find user to invite',
+    'groups.join.closedAria': 'Formularz wniosku o dołączenie do grupy zamkniętej',
+    'groups.join.questionDefault': 'Dlaczego powinieneś mieć prawo do przyłączenia się?',
+    'groups.join.pendingRequest': 'Twoja prośba o dołączenie do tej grupy czeka na zatwierdzenie przez administratorów grupy.',
+    'groups.join.requesting': 'Prośba o przyłączenie się',
+    'groups.invite.btn': 'Zaproś do grupy',
+    'groups.invite.modalAria': 'Zaproś użytkowników do grupowego dialogu',
+    'groups.invite.send': 'Wyślij zaproszenie',
+    'groups.invite.label': 'Znajdź użytkownika do zaproszenia',
     'groups.invite.tileMsg': `You have {count, plural,
     other {# group invites}
   }`,
-    'groups.invites.title': 'Group invitations',
-    'group.invite.accept': 'Accept invite'
+    'groups.invites.title': 'Zaproszenia grupowe',
+    'group.invite.accept': 'Przyjmij zaproszenie'
 };
