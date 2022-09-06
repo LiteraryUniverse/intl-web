@@ -27,10 +27,10 @@ export default {
     'org.forums.title': '{orgName} forum',
     'org.flashnews.internal': 'Berita kilat internal',
     'org.flashnews.publicAll': 'Berita kilat publik untuk semua properti',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Membuat kilasan berita baru untuk {type, select,
+    internal {organisasi}
+    allProperties {ditampilkan kepada publik}
+    other {organisasi}
   }`,
     'org.members.invited': 'Anggota yang diundang',
     'org.members.list': 'Anggota organisasi',
