@@ -1,6 +1,6 @@
 export default {
-    'auditLog.header.date': 'Date',
-    'auditLog.header.action': 'What',
-    'auditLog.header.group': 'Group',
-    'auditLog.header.user': 'Who'
+    'auditLog.header.date': 'التاريخ',
+    'auditLog.header.action': 'ماذا',
+    'auditLog.header.group': 'مجموعة',
+    'auditLog.header.user': 'مَن'
 };
