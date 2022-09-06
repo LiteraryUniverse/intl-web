@@ -25,7 +25,7 @@ export default {
   'events.origin.groups': 'Groups',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
-  'events.visibility.label': 'Even visibility',
+  'events.visibility.label': 'Event visibility',
   'events.visibility.public': 'عام - يمكن لأي شخص رؤية هذا الحدث',
   'events.visibility.owner': `Owner - only {type, select,
     group {members of your group}
