@@ -13,7 +13,7 @@ export default {
     'email.verifyEmail.subject': 'Literary Universe e-mail verification',
     'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
+    'email.salutation': 'مرحبا {username}،',
     'email.welcome': 'Welcome to Literary Universe!',
     'email.signature': 'Sincerely,<br />Literary Universe team',
     // Enrollment
