@@ -225,5 +225,5 @@ export default {
     'common.reject': 'Ablehnen',
     'common.events': 'Ereignisse',
     'common.event': 'Ereignis',
-    'common.all': 'All'
+    'common.all': 'Alle'
 }    /* eslint-enable max-len */;
