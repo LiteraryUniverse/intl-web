@@ -37,10 +37,10 @@ export default {
   'events.inviting': 'Mohou lidé, kteří vidí tuto událost, pozvat ostatní?',
   'events.administration': 'Administrace akcí',
   'events.create.title': 'Vytvořit novou akci',
-  'events.hostedBy': 'Hosted by {hostName}',
-  'events.openVirtual': 'Go to virtual location',
-  'events.moreInfo': 'More information',
-  'event.visibilityShort.private': 'Private',
-  'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Owner'
+  'events.hostedBy': 'Hostuje {hostName}',
+  'events.openVirtual': 'Přejít na virtuální lokaci',
+  'events.moreInfo': 'Více informací',
+  'event.visibilityShort.private': 'Soukromé',
+  'event.visibilityShort.public': 'Veřejné',
+  'event.visibilityShort.owner': 'Vlastník'
 };
