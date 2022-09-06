@@ -25,7 +25,7 @@ export default {
     'guidelines.desc': 'Normas comunitarias de Literary Universe.',
     'tos.desc': 'Vista completa de condiciones de servicio de Literary Universe.',
     'homepage.intro': 'Explora y crea literalmente universos y grandes historias.',
-    'homepage.explanation': 'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
+    'homepage.explanation': 'Literary Universe es una plataforma de lectura y escritura creativa todo en uno, centrada en el complejo universo literario. Aspiramos a proporcionar herramientas interconectadas para escribir historias y universos complejos de historias, y también una gran experiencia para fans y lectores explorando dichos universos.',
     'gdpr.title': 'Cumplimiento RGPD',
     'gdpr.desc': 'Literary Universe cumple con las directivas RGPD de la UE.',
     'gdpr.compliant': 'Literary Universe cumple con RGPD',
