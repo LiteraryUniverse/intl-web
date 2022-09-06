@@ -93,10 +93,10 @@ export default {
     'premium.only.join': 'Oferujemy różne plany dla każdego, aby uzyskać jak najwięcej korzyści z Literary Universe.',
     'premium.only.link': 'Sprawdź teraz!',
     'universe.visit': 'Odwiedź stronę uniwersum',
-    'common.fanmanager': 'Fan Manager',
+    'common.fanmanager': 'Kierownik wentylatora',
     'common.fanarts': 'Fan Arts',
     'common.fanfiction': 'Fanfiction',
-    'common.fansettings': 'Fan Settings',
+    'common.fansettings': 'Ustawienia wentylatora',
     'story.chapter': 'Rozdział',
     'story.chapters': 'Rozdziały',
     'story.genre': 'Gatunek',
@@ -225,5 +225,5 @@ export default {
     'common.reject': 'Odrzuć',
     'common.events': 'Spotkania',
     'common.event': 'Spotkanie',
-    'common.all': 'All'
+    'common.all': 'Wszystkie'
 }    /* eslint-enable max-len */;
