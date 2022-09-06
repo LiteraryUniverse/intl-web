@@ -27,20 +27,20 @@ export default {
   'events.origin.lu': 'Literarische Universe Veranstaltung',
   'events.visibility.label': 'Sichtbarkeit der Veranstaltung',
   'events.visibility.public': 'Öffentlich - jeder kann dieses Ereignis sehen',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
-  'events.visibility.private': 'Private - only people you invite will see the event',
-  'events.inviting': 'Can people who see this event invite others?',
-  'events.administration': 'Events administration',
-  'events.create.title': 'Create a new event',
-  'events.hostedBy': 'Hosted by {hostName}',
-  'events.openVirtual': 'Go to virtual location',
-  'events.moreInfo': 'More information',
-  'event.visibilityShort.private': 'Private',
-  'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Owner'
+  'events.visibility.owner': `Besitzer - nur {type, select,
+    group {Mitglieder Ihrer Gruppe}
+    universe {Mitarbeiter und Fans des Universums}
+    organization {Mitglieder Ihrer Organisation}
+    other {Sie und die Personen, die Sie einladen,}
+  } können diese Veranstaltung sehen`,
+  'events.visibility.private': 'Privat - nur Personen, die Sie einladen werden das Event sehen',
+  'events.inviting': 'Können Personen, die dieses Ereignis sehen, andere einladen?',
+  'events.administration': 'Verwaltung von Veranstaltungen',
+  'events.create.title': 'Eine neue Veranstaltung erstellen',
+  'events.hostedBy': 'Gehostet von {hostName}',
+  'events.openVirtual': 'Zum virtuellen Standort gehen',
+  'events.moreInfo': 'Mehr Informationen',
+  'event.visibilityShort.private': 'Privat',
+  'event.visibilityShort.public': 'Öffentlich',
+  'event.visibilityShort.owner': 'Besitzer'
 };
