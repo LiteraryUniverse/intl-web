@@ -4,7 +4,7 @@ export default {
     'discovery.stories.new': 'New stories',
     'discovery.stories.standalone.new': 'New standalone stories',
     'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
+    'discovery.continue': 'متابعة القراءة',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
     'story.estimatedReadingTime': `This story should take {hours, plural,
@@ -31,7 +31,7 @@ export default {
     'story.universeRelation.universe': 'Part of a universe',
     'discover.search.rating': 'Age rating',
     'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.language': 'اللغة',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
