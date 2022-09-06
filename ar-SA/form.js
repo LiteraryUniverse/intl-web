@@ -1,6 +1,6 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
+    'form.validator.required': 'الحقل مطلوب',
     'form.validator.mustBeNumber': 'Must be a number',
     'form.validator.minNumber': 'Should be greater than {min, number}',
     'form.validator.maxNumber': 'Should be lower than {max, number}',
