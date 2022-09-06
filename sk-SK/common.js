@@ -225,5 +225,5 @@ export default {
     'common.reject': 'Odmietnuť',
     'common.events': 'Stretnutia',
     'common.event': 'Stretnutie',
-    'common.all': 'All'
+    'common.all': 'Všetko'
 }    /* eslint-enable max-len */;
