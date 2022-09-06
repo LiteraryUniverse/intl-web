@@ -225,5 +225,5 @@ export default {
     'common.reject': '拒絶する',
     'common.events': 'イベント',
     'common.event': 'イベント',
-    'common.all': 'All'
+    'common.all': 'すべて'
 }    /* eslint-enable max-len */;
