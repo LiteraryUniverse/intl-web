@@ -6,7 +6,7 @@ export default {
     siteName: '文学宇宙',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
-    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, translations, story, stories, universe',
+    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Literary Universe logo',
     mobileMenu: '手機菜單',
     'common.signin': 'Login',
@@ -14,8 +14,8 @@ export default {
     'common.signout': 'Logout',
     'common.dashboard': 'Dashboard',
     'common.discovery': 'Discovery',
-    'common.library': 'Library',
-    'common.library.own': 'Your Library',
+    'common.library': '音樂庫',
+    'common.library.own': '我的音樂庫',
     'common.workshop': 'Workshop',
     'common.pm': 'Messages',
     'common.settings': 'Settings',
@@ -24,7 +24,7 @@ export default {
     'common.blog': '部落格',
     'common.blogs': '部落格',
     'common.about': '關於我們',
-    'common.accessdenied': 'Access denied',
+    'common.accessdenied': '已拒絕存取',
     'common.accessdenied.msg': 'You were not given permission to go here. If you should have access here, please contact the owner and tell them to double check the settings.',
     'common.loading': 'Loading...',
     'common.add': 'Add',
@@ -222,5 +222,8 @@ export default {
     'common.upload': 'Upload',
     'common.backToDashboard': 'Back to dashboard',
     'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.reject': 'Reject',
+    'common.events': 'Events',
+    'common.event': 'Event',
+    'common.all': 'All'
 }    /* eslint-enable max-len */;

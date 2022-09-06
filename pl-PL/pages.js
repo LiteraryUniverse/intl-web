@@ -25,7 +25,7 @@ export default {
     'guidelines.desc': 'Wytyczne społecznościowe Literary Universe.',
     'tos.desc': 'Pełny tekst prawny Regulaminu Serwisu Literary Universe.',
     'homepage.intro': 'Odkrywaj i twórz dosłowne wszechświaty i wspaniałe historie.',
-    'homepage.explanation': 'Literary Universe jest platformą kreatywnego pisania i czytania, skupioną na złożonych literackich wszechświatach.  Naszym celem jest dostarczenie narzędzi do pisania skomplikowanych historii i opowiadań, a także zapewnienie fanom i czytelnikom wspaniałych doświadczeń w odkrywaniu tych uniwersów.',
+    'homepage.explanation': 'Literary Universe to platforma do kreatywnego pisania i czytania, skupiająca się na złożonych literackich wszechświatach.  Naszym celem jest dostarczenie narzędzi do pisania skomplikowanych historii i opowiadań, a także zapewnienie fanom i czytelnikom wspaniałych doświadczeń w odkrywaniu tych uniwersów.',
     'gdpr.title': 'Zgodność z GDPR',
     'gdpr.desc': 'Literary Universe jest zgodny z dyrektywami EU GDPR.',
     'gdpr.compliant': 'Literary Universe jest zgodne z GDPR',

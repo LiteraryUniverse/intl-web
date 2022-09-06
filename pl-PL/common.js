@@ -6,7 +6,7 @@ export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe to platforma twórcza i wydawnicza dla wielkich uniwersów opowieści.',
-    'site.keywords': 'kreatywne pisanie, scifi, sci-fi, fantasy, pisanie, wydawanie, tłumaczenia, opowiadanie, opowiadania, wszechświat',
+    'site.keywords': 'kreatywne pisanie, nauka, nauka, fantazja, pisanie, wydawanie, historia, historie, wszechświat, novel, powieść internetowa',
     'site.logoAlt': 'Logo Literary Universe',
     mobileMenu: 'Menu mobilne',
     'common.signin': 'Zaloguj się',
@@ -93,10 +93,10 @@ export default {
     'premium.only.join': 'Oferujemy różne plany dla każdego, aby uzyskać jak najwięcej korzyści z Literary Universe.',
     'premium.only.link': 'Sprawdź teraz!',
     'universe.visit': 'Odwiedź stronę uniwersum',
-    'common.fanmanager': 'Fan Manager',
+    'common.fanmanager': 'Kierownik wentylatora',
     'common.fanarts': 'Fan Arts',
     'common.fanfiction': 'Fanfiction',
-    'common.fansettings': 'Fan Settings',
+    'common.fansettings': 'Ustawienia wentylatora',
     'story.chapter': 'Rozdział',
     'story.chapters': 'Rozdziały',
     'story.genre': 'Gatunek',
@@ -219,8 +219,11 @@ export default {
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
     'common.groups': 'Grupy',
-    'common.upload': 'Upload',
-    'common.backToDashboard': 'Back to dashboard',
-    'common.accept': 'Accept',
-    'common.reject': 'Reject'
+    'common.upload': 'Prześlij',
+    'common.backToDashboard': 'Powrót do tablicy rozdzielczej',
+    'common.accept': 'Akceptuj',
+    'common.reject': 'Odrzuć',
+    'common.events': 'Spotkania',
+    'common.event': 'Spotkanie',
+    'common.all': 'Wszystkie'
 }    /* eslint-enable max-len */;

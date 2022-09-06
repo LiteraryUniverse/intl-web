@@ -1,0 +1,41 @@
+export default {
+    'groups.listing.title': 'مجموعات المستخدم',
+    'groups.listing.organizationTitle': 'Teams',
+    'groups.create.title': 'إنشاء مجموعة جديدة',
+    'groups.type.label': 'النوع',
+    'groups.type.open': 'مفتوح',
+    'groups.type.openDesc': 'مفتوح - يمكن لأي شخص الانضمام إلى المجموعة.',
+    'groups.type.closed': 'مغلق',
+    'groups.type.closedDesc': 'Closed - People need to approved before they can join your group.',
+    'groups.type.hidden': 'مخفي',
+    'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
+    'groups.imageAlt': 'صورة {groupName}',
+    'groups.members': 'الأعضاء',
+    'groups.members.total': `There {totalMembers, plural,
+    zero {are no members}
+    one {is one member}
+    other {are # members}
+  } in this group`,
+    'groups.leaveGroup': 'مغادرة المجموعة',
+    'groups.leaveGroup.confirm': 'فقط للتأكيد. هل أنت متيقِّن من أنك تريد مغادرة {groupName}؟',
+    'group.settings': 'إعدادات المجموعة',
+    'group.role.member': 'عضو',
+    'group.role.moderator': 'مشرف',
+    'group.role.admin': 'مدير',
+    'groups.join.openGroup': 'الانضمام للمجموعة',
+    'groups.join.closedGroup': 'طلب الانضمام إلى المجموعة',
+    'groups.join.questionToJoin': 'سؤال للأعضاء الجدد',
+    'groups.join.closedAria': 'Request form to join closed group',
+    'groups.join.questionDefault': 'Why should you be allowed to join?',
+    'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
+    'groups.join.requesting': 'Requesting to join',
+    'groups.invite.btn': 'Invite to group',
+    'groups.invite.modalAria': 'Invite users to group dialog',
+    'groups.invite.send': 'إرسال الدعوة',
+    'groups.invite.label': 'Find user to invite',
+    'groups.invite.tileMsg': `You have {count, plural,
+    other {# group invites}
+  }`,
+    'groups.invites.title': 'دعوات المجموعة',
+    'group.invite.accept': 'قبول الدعوة'
+};

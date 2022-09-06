@@ -1,0 +1,46 @@
+export default {
+  'events.upcoming': 'Nadchádzajúce stretnutia',
+  'events.settings.title': 'Nastavenia stretnutie',
+  'events.attendance.attending': 'Zúčastní sa',
+  'events.attendance.tentative': 'Nezáväzné',
+  'events.attendance.notAttending': 'Nezúčastňujúci sa',
+  'events.details.name': 'Názov udalosti',
+  'events.details.image': 'Obrázok udalosti',
+  'events.details.description': 'Popis podujatia / program',
+  'events.details.url': 'Odkaz na ďalšie podrobnosti',
+  'events.details.virtualLink': 'Prepojenie na virtuálne miesto (napr. Zoom, Google Meets atď.)',
+  'events.details.address': 'Adresa miesta konania',
+  'events.details.startsAt': 'Začiatok akcie',
+  'events.details.endsAt': 'Koniec akcie',
+  'events.details.type': 'Typ udalosti',
+  'events.type.inPerson': 'Osobné',
+  'events.type.virtual': 'Virtuálne',
+  'events.type.hybrid': 'Hybridné',
+  'events.join.startsIn': 'Udalosť začína {startsAt}',
+  // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
+  'events.join.virtual': 'Pripojte sa k podujatiu',
+  'events.selection.origin': 'Pôvod podujatia',
+  'events.origin.universe': 'Vesmír',
+  'events.origin.author': 'Autor',
+  'events.origin.groups': 'Skupiny',
+  'events.origin.organizations': 'Organizácie',
+  'events.origin.lu': 'Literary Universe akcie',
+  'events.visibility.label': 'Viditeľnosť udalosti',
+  'events.visibility.public': 'Verejnosť - túto udalosť môže vidieť ktokoľvek',
+  'events.visibility.owner': `Vlastník - túto udalosť {type, select,
+    group {môžu vidieť len členovia vašej skupiny}
+    universe {môžu vidieť len spolupracovníci a fanúšikovia univerza}
+    organization {môžu vidieť iba členovia vašej organizácie}
+    other {môžete vidieť len vy a ľudia, ktorých ste pozvali}
+  }`,
+  'events.visibility.private': 'Súkromné - udalosť uvidia len pozvaní ľudia',
+  'events.inviting': 'Môžu ľudia, ktorí vidia túto udalosť, pozvať ďalších?',
+  'events.administration': 'Správa udalostí',
+  'events.create.title': 'Vytvoriť novú udalosť',
+  'events.hostedBy': 'Hostiteľ: {hostName}',
+  'events.openVirtual': 'Prejsť na virtuálne miesto',
+  'events.moreInfo': 'Viac informácií',
+  'event.visibilityShort.private': 'Súkromné',
+  'event.visibilityShort.public': 'Verejné',
+  'event.visibilityShort.owner': 'Vlastník'
+};

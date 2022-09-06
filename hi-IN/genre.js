@@ -21,5 +21,6 @@ export default {
     'genre.steampunk': 'Steampunk',
     'genre.mythology': 'Mythology',
     'genre.fairytale': 'परियों की कहानी',
-    'genre.superhero': 'Superhero'
+    'genre.superhero': 'Superhero',
+    'genre.children': 'Children'
 };

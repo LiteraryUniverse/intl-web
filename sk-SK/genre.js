@@ -21,5 +21,6 @@ export default {
     'genre.steampunk': 'Steampunk',
     'genre.mythology': 'Mytológia',
     'genre.fairytale': 'Pohádka',
-    'genre.superhero': 'Superhrdinovia'
+    'genre.superhero': 'Superhrdinovia',
+    'genre.children': 'Deti'
 };

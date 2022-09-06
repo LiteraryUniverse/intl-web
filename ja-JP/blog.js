@@ -1,6 +1,6 @@
 export default {
     'blog.noneMsg': `現在{type, select,
-    org {はブログを持っていませんね}
+    organization {はブログを持っていませんね}
     universe {、あなたの宇宙にはブログがありません}
     user {はブログを持っていませんね}
     other {}

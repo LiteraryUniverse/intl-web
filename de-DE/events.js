@@ -1,0 +1,46 @@
+export default {
+  'events.upcoming': 'Kommende Veranstaltungen',
+  'events.settings.title': 'Ereigniseinstellungen',
+  'events.attendance.attending': 'Teilnehmend',
+  'events.attendance.tentative': 'Vorläufig',
+  'events.attendance.notAttending': 'Nimmt nicht teil',
+  'events.details.name': 'Veranstaltung Titel',
+  'events.details.image': 'Bild der Veranstaltung',
+  'events.details.description': 'Beschreibung der Veranstaltung / Tagesordnung',
+  'events.details.url': 'Link zu weiteren Details',
+  'events.details.virtualLink': 'Link zum virtuellen Standort (z.B. Zoom, Google Meets, etc.)',
+  'events.details.address': 'Adresse des Veranstaltungsorts',
+  'events.details.startsAt': 'Beginn der Veranstaltung',
+  'events.details.endsAt': 'Veranstaltung endet',
+  'events.details.type': 'Typ der Veranstaltung',
+  'events.type.inPerson': 'Persönlich',
+  'events.type.virtual': 'Virtuell',
+  'events.type.hybrid': 'Gemischt',
+  'events.join.startsIn': 'Die Veranstaltung beginnt am {startsAt}',
+  // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
+  'events.join.virtual': 'Veranstaltung beitreten',
+  'events.selection.origin': 'Ursprung der Veranstaltung',
+  'events.origin.universe': 'Universum',
+  'events.origin.author': 'Autor',
+  'events.origin.groups': 'Gruppe',
+  'events.origin.organizations': 'Organisation',
+  'events.origin.lu': 'Literarische Universe Veranstaltung',
+  'events.visibility.label': 'Sichtbarkeit der Veranstaltung',
+  'events.visibility.public': 'Öffentlich - jeder kann dieses Ereignis sehen',
+  'events.visibility.owner': `Besitzer - nur {type, select,
+    group {Mitglieder Ihrer Gruppe}
+    universe {Mitarbeiter und Fans des Universums}
+    organization {Mitglieder Ihrer Organisation}
+    other {Sie und die Personen, die Sie einladen,}
+  } können diese Veranstaltung sehen`,
+  'events.visibility.private': 'Privat - nur Personen, die Sie einladen werden das Event sehen',
+  'events.inviting': 'Können Personen, die dieses Ereignis sehen, andere einladen?',
+  'events.administration': 'Verwaltung von Veranstaltungen',
+  'events.create.title': 'Eine neue Veranstaltung erstellen',
+  'events.hostedBy': 'Gehostet von {hostName}',
+  'events.openVirtual': 'Zum virtuellen Standort gehen',
+  'events.moreInfo': 'Mehr Informationen',
+  'event.visibilityShort.private': 'Privat',
+  'event.visibilityShort.public': 'Öffentlich',
+  'event.visibilityShort.owner': 'Besitzer'
+};

@@ -32,9 +32,10 @@ export default {
     'groups.invite.modalAria': 'Diálogo para invitar a los usuarios al grupo',
     'groups.invite.send': 'Enviar invitación',
     'groups.invite.label': 'Buscar usuario para invitar',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
-  }`,
+    'groups.invite.tileMsg': `Tiene {count, plural,
+    one {una invitación}
+    other {# invitaciones}
+  } de grupo`,
     'groups.invites.title': 'Invitaciones de grupo',
     'group.invite.accept': 'Aceptar invitación'
 };

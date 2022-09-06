@@ -1,0 +1,46 @@
+export default {
+  'events.upcoming': 'Nadchodzące wydarzenia',
+  'events.settings.title': 'Ustawienia zdarzeń',
+  'events.attendance.attending': 'Strona',
+  'events.attendance.tentative': 'Wstępna',
+  'events.attendance.notAttending': 'Nieuczestniczenie',
+  'events.details.name': 'Nazwa wydarzenia',
+  'events.details.image': 'Obraz zdarzenia',
+  'events.details.description': 'Opis wydarzenia / Agenda',
+  'events.details.url': 'Link do dalszych szczegółów',
+  'events.details.virtualLink': 'Link do wirtualnej lokalizacji (np. Zoom, Google Meets, itp.)',
+  'events.details.address': 'Adres siedziby',
+  'events.details.startsAt': 'Początek imprezy',
+  'events.details.endsAt': 'Koniec imprezy',
+  'events.details.type': 'Rodzaj zdarzenia',
+  'events.type.inPerson': 'Osobiście',
+  'events.type.virtual': 'Wirtualny',
+  'events.type.hybrid': 'Hybrydowa',
+  'events.join.startsIn': 'Zdarzenie rozpoczyna się {startsAt}',
+  // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
+  'events.join.virtual': 'Dołącz do wydarzenia',
+  'events.selection.origin': 'Pochodzenie zdarzenia',
+  'events.origin.universe': 'Uniwersum',
+  'events.origin.author': 'Autor',
+  'events.origin.groups': 'Grupy',
+  'events.origin.organizations': 'Organizacje',
+  'events.origin.lu': 'Imprezy w ramach Literackiego Wszechświata',
+  'events.visibility.label': 'Widoczność wydarzenia',
+  'events.visibility.public': 'Publiczny - każdy może zobaczyć to wydarzenie',
+  'events.visibility.owner': `Właściciel - tylko {type, select,
+    group {członkowie Twojej grupy}
+    universe {współpracownicy i fani uniwersum}
+    organization {członkowie Twojej organizacj}
+    other {Ty i osoby, które zaprosiłeś}
+  } mogą zobaczyć to wydarzenie`,
+  'events.visibility.private': 'Prywatne - wydarzenie zobaczą tylko osoby, które zaprosisz',
+  'events.inviting': 'Czy osoby, które widzą to wydarzenie mogą zapraszać innych?',
+  'events.administration': 'Administracja imprez',
+  'events.create.title': 'Utwórz nowe wydarzenie',
+  'events.hostedBy': 'Hostowane przez {hostName}',
+  'events.openVirtual': 'Przejdź do wirtualnej lokalizacji',
+  'events.moreInfo': 'Więcej informacji',
+  'event.visibilityShort.private': 'Prywatny',
+  'event.visibilityShort.public': 'Publiczne',
+  'event.visibilityShort.owner': 'Właściciel'
+};

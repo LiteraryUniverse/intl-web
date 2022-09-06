@@ -1,0 +1,46 @@
+export default {
+  'events.upcoming': '今後のイベント予定',
+  'events.settings.title': 'イベントの設定',
+  'events.attendance.attending': '出席します',
+  'events.attendance.tentative': '仮出席',
+  'events.attendance.notAttending': '不参加',
+  'events.details.name': 'イベント名',
+  'events.details.image': 'イベント画像',
+  'events.details.description': 'イベント概要・アジェンダ',
+  'events.details.url': '詳細へのURLリンク',
+  'events.details.virtualLink': 'バーチャルロケーションへのリンク（例：Zoom、Google Meetsなど）',
+  'events.details.address': '会場住所',
+  'events.details.startsAt': 'イベント開始',
+  'events.details.endsAt': 'イベント終了',
+  'events.details.type': 'イベントのタイプ',
+  'events.type.inPerson': '対面式',
+  'events.type.virtual': 'バーチャル',
+  'events.type.hybrid': 'ハイブリッド',
+  'events.join.startsIn': 'イベント開始日　{startsAt}',
+  // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
+  'events.join.virtual': '前夜祭に参加',
+  'events.selection.origin': 'イベントの起源',
+  'events.origin.universe': '宇宙',
+  'events.origin.author': '作者',
+  'events.origin.groups': 'グループ',
+  'events.origin.organizations': '組織',
+  'events.origin.lu': '文学の宇宙のエベント',
+  'events.visibility.label': 'イベントの視認性',
+  'events.visibility.public': '公開 - 誰でもこのイベントを見ることができます。',
+  'events.visibility.owner': `所有者 - {type, select,
+    group {あなたのグループのメンバーだけがこのイベントを}
+    universe {このイベントは、コラボレーターと宇宙のファンだけが}
+    organization {組織のメンバーのみがこのイベントを}
+    other {あなたとあなたが招待した人だけがこのイベントを}
+  }見ることができます。`,
+  'events.visibility.private': '非公開 - あなたが招待した人だけがイベントを見ることができます。',
+  'events.inviting': 'このイベントを見た人が他の人を招待することはできますか？',
+  'events.administration': 'イベント運営',
+  'events.create.title': '新規イベントの作成',
+  'events.hostedBy': '主催：{hostName}',
+  'events.openVirtual': 'バーチャルロケーションへ移動',
+  'events.moreInfo': '詳しくは',
+  'event.visibilityShort.private': '民間',
+  'event.visibilityShort.public': '公衆',
+  'event.visibilityShort.owner': '所有者'
+};

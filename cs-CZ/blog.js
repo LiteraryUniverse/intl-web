@@ -1,6 +1,6 @@
 export default {
     'blog.noneMsg': `Momentálně nemáte {type, select,
-    org {žádný blog}
+    organization {žádný blog}
     universe {stránky pro svůj vesmír}
     user {osobní blog}
     other {}

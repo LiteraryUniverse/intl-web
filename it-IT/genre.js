@@ -21,5 +21,6 @@ export default {
     'genre.steampunk': 'Steampunk',
     'genre.mythology': 'Mitologia',
     'genre.fairytale': 'Fairy tale',
-    'genre.superhero': 'Supereroe'
+    'genre.superhero': 'Supereroe',
+    'genre.children': 'Children'
 };

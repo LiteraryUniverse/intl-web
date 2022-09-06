@@ -138,7 +138,7 @@ export default {
     debit {Debit card}
     other {Card}
   } ending with {last4}`,
-    'payment.options.default': 'Default',
+    'payment.options.default': 'Domyślne',
     // Added 2020-05-27
     'payment.method.add': 'Dodaj nową metodę płatności',
     'payment.methods.adding': 'Nowa metoda płatności została dodana do Twojego konta.',
@@ -146,6 +146,6 @@ export default {
     'payment.upgradePlan.option': '{plan} - {price}',
     'payment.methods.webMonetization': 'Web Monetization',
     'settings.webMonetization.placeholder': 'Your payment pointer',
-    'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
-    'payment.webMonetization.learnMore': 'Learn more about Web Monetization'
+    'payment.webMonetization.explained': 'Web Monetization jest proponowanym standardem dla płatności internetowych. Tutaj możesz dodać swój wskaźnik płatności, który zostanie następnie dodany do Twojej strony profilowej, bloga, wszechświatów i opowiadań, które zostaną wykorzystane przez Web Monetization.',
+    'payment.webMonetization.learnMore': 'Dowiedz się więcej o Web Monetization'
 };

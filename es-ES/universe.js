@@ -5,6 +5,8 @@ export default {
     'universe.fanfiction.for': 'Fánfic de {universe}',
     'universe.fanarts.for': '{universe} Fan Artes',
     'universe.fansettings.for': 'Ajustes de fans de {universe}',
+    'universe.fanfiction.stories': 'Historias',
+    'universe.fanfiction.fanarts': 'Fan Artes',
     'universe.stories.count': `{num, plural,
     =0 {No hay historias}
     one {Hay una historia}

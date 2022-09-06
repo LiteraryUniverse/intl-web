@@ -5,6 +5,8 @@ export default {
     'universe.fanfiction.for': '{universe}ファンフィクション',
     'universe.fanarts.for': '{universe} のファンの美術',
     'universe.fansettings.for': '{universe} のファン設定',
+    'universe.fanfiction.stories': '物語',
+    'universe.fanfiction.fanarts': 'ファンの芸術',
     'universe.stories.count': `この宇宙には{num, plural,
     =0 {物語がない}
     other {#の物語がある}

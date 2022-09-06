@@ -1,6 +1,6 @@
 export default {
     'blog.noneMsg': `Ahora mismo no tienes {type, select,
-    org {ningún blog}
+    organization {ningún blog}
     universe {un blog para tu universo}
     user {un blog}
     other {}
