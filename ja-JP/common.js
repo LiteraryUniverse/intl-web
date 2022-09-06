@@ -6,7 +6,7 @@ export default {
     siteName: '文学の宇宙',
     twitterHandle: '@lituniapp',
     'site.description': '文学の宇宙は、壮大な物語の宇宙のための創造的で出版のプラットフォームです。',
-    'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
+    'site.keywords': '文芸, SF, ファンタジー, 書き込み, 出版, 翻訳, 物語, 宇宙, ストーリー, ウェブ小説',
     'site.logoAlt': '文学の宇宙のロゴ',
     mobileMenu: 'モバイル メニュー',
     'common.signin': 'ログイン',
