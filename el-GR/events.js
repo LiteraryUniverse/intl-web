@@ -27,12 +27,12 @@ export default {
   'events.origin.lu': 'Literary Universe events',
   'events.visibility.label': 'Event visibility',
   'events.visibility.public': 'Public - anyone can see this event',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
+  'events.visibility.owner': `Ιδιοκτήτης - μόνο {type, select,
+    group {μέλη της ομάδας σας}
+    universe {συνεργάτες και οπαδοί του σύμπαντος}
+    organization {μέλη του οργανισμού σας}
+    other {εσείς και οι άνθρωποι που προσκαλείτε}
+  } μπορείτε να δείτε αυτό το γεγονός`,
   'events.visibility.private': 'Private - only people you invite will see the event',
   'events.inviting': 'Can people who see this event invite others?',
   'events.administration': 'Events administration',
