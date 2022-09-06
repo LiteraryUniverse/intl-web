@@ -5,14 +5,14 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'إنشاء مدونة جديدة',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-    'blog.description': 'Blog introduction',
+    'blog.description': 'مقدمة المدونة',
     'blog.theme': 'Theme',
     'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
@@ -44,11 +44,11 @@ export default {
     'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
+    'blogs.new': 'أحدث المدونات',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
+    'blogs.visit': 'زيارة المدونة',
     'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum'
+    'blog.settings.blog': 'المدونة',
+    'blog.settings.forum': 'المنتدى'
 };
