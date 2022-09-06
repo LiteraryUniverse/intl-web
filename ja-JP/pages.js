@@ -25,7 +25,7 @@ export default {
     'guidelines.desc': '文学宇宙のコミュニティ・ガイドラインです。',
     'tos.desc': '文学の宇宙の利用規約の法的全文を掲載しています。',
     'homepage.intro': '文字通り宇宙と素晴らしい物語を探検し、創造してください。',
-    'homepage.explanation': 'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
+    'homepage.explanation': '文学の宇宙は、複雑な文学の世界に焦点を当てた、創造的な執筆と読書のオールインワン・プラットフォームです。 私たちは、複雑な物語の世界やストーリーを書くための相互接続されたツールを提供し、ファンや読者がそれらの宇宙を探索するための素晴らしい経験を提供することを目指しています。',
     'gdpr.title': 'GDPR コンプライアンス',
     'gdpr.desc': '文学の宇宙は、EUのGDPR指令に準拠しています。',
     'gdpr.compliant': '文学の宇宙はGDPRに準拠しています',
