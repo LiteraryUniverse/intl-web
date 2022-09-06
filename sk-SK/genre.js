@@ -22,5 +22,5 @@ export default {
     'genre.mythology': 'Mytológia',
     'genre.fairytale': 'Pohádka',
     'genre.superhero': 'Superhrdinovia',
-    'genre.children': 'Children'
+    'genre.children': 'Deti'
 };
