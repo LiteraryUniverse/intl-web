@@ -5,7 +5,7 @@
 export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe è una piattaforma creativa per pubblicazioni di interi universi di storie.',
+    'site.description': 'Literary Universe is an all-in-one creative and publishing platform for grand story universes.',
     'site.keywords': 'scrittura creativa, scifi, sci-fi, fantasia, scrittura, pubblicazione, storia, storie, universo, web novel, webnovel',
     'site.logoAlt': 'Literary Universe logo',
     mobileMenu: 'Menù telefono',
