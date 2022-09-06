@@ -13,34 +13,34 @@ export default {
   'events.details.startsAt': 'イベント開始',
   'events.details.endsAt': 'イベント終了',
   'events.details.type': 'イベントのタイプ',
-  'events.type.inPerson': 'In-person',
-  'events.type.virtual': 'Virtual',
-  'events.type.hybrid': 'Hybrid',
-  'events.join.startsIn': 'Event starts {startsAt}',
+  'events.type.inPerson': '対面式',
+  'events.type.virtual': 'バーチャル',
+  'events.type.hybrid': 'ハイブリッド',
+  'events.join.startsIn': 'イベント開始日　{startsAt}',
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
-  'events.join.virtual': 'Join event',
-  'events.selection.origin': 'Event origin',
-  'events.origin.universe': 'Universe',
-  'events.origin.author': 'Author',
-  'events.origin.groups': 'Groups',
-  'events.origin.organizations': 'Organizations',
-  'events.origin.lu': 'Literary Universe events',
-  'events.visibility.label': 'Even visibility',
-  'events.visibility.public': 'Public - anyone can see this event',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
-  'events.visibility.private': 'Private - only people you invite will see the event',
-  'events.inviting': 'Can people who see this event invite others?',
-  'events.administration': 'Events administration',
-  'events.create.title': 'Create a new event',
-  'events.hostedBy': 'Hosted by {hostName}',
-  'events.openVirtual': 'Go to virtual location',
-  'events.moreInfo': 'More information',
-  'event.visibilityShort.private': 'Private',
-  'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Owner'
+  'events.join.virtual': '前夜祭に参加',
+  'events.selection.origin': 'イベントの起源',
+  'events.origin.universe': '宇宙',
+  'events.origin.author': '作者',
+  'events.origin.groups': 'グループ',
+  'events.origin.organizations': '組織',
+  'events.origin.lu': '文学の宇宙のエベント',
+  'events.visibility.label': 'イベントの視認性',
+  'events.visibility.public': '公開 - 誰でもこのイベントを見ることができます。',
+  'events.visibility.owner': `所有者 - {type, select,
+    group {あなたのグループのメンバーだけがこのイベントを}
+    universe {このイベントは、コラボレーターと宇宙のファンだけが}
+    organization {組織のメンバーのみがこのイベントを}
+    other {あなたとあなたが招待した人だけがこのイベントを}
+  }見ることができます。`,
+  'events.visibility.private': '非公開 - あなたが招待した人だけがイベントを見ることができます。',
+  'events.inviting': 'このイベントを見た人が他の人を招待することはできますか？',
+  'events.administration': 'イベント運営',
+  'events.create.title': '新規イベントの作成',
+  'events.hostedBy': '主催：{hostName}',
+  'events.openVirtual': 'バーチャルロケーションへ移動',
+  'events.moreInfo': '詳しくは',
+  'event.visibilityShort.private': '民間',
+  'event.visibilityShort.public': '公衆',
+  'event.visibilityShort.owner': '所有者'
 };
