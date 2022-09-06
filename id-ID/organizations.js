@@ -32,7 +32,7 @@ export default {
     allProperties {display to public on all properties}
     other {the organization}
   }`,
-    'org.members.invited': 'Invited members',
+    'org.members.invited': 'Anggota yang diundang',
     'org.members.list': 'Anggota organisasi',
     'org.invitesTileNotice': 'Anda diundang ke {count, number} {count, plural, one {organization} other {organizations}}',
     'org.invitePage.title': 'Undangan ke organisasi',
