@@ -5,7 +5,7 @@
 export default {
     siteName: 'Літературний Всесвіт',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe is an all-in-one creative and publishing platform for grand story universes.',
+    'site.description': 'Літературний Всесвіт - це універсальна творча та видавнича платформа для грандіозних сюжетних всесвітів.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Логотип Літературного Всесвіту',
     mobileMenu: 'Мобільне меню',
