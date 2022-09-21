@@ -218,12 +218,12 @@ export default {
     'common.administration': 'Administrasi',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups',
-    'common.upload': 'Upload',
-    'common.backToDashboard': 'Back to dashboard',
-    'common.accept': 'Accept',
-    'common.reject': 'Reject',
-    'common.events': 'Events',
-    'common.event': 'Event',
-    'common.all': 'All'
+    'common.groups': 'Grup',
+    'common.upload': 'Unggah',
+    'common.backToDashboard': 'Kembali ke dasbor',
+    'common.accept': 'Terima',
+    'common.reject': 'Tolak',
+    'common.events': 'Kegiatan',
+    'common.event': 'Kegiatan',
+    'common.all': 'Semua'
 }    /* eslint-enable max-len */;
