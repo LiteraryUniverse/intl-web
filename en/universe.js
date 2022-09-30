@@ -16,8 +16,7 @@ export default {
   'universe.authors.desc': 'Creators and contributors to {universe}',
   'universe.contributors': 'Contributors',
   'universe.translators': 'Translators',
-  'universe.authors.notice':
-    'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+  'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
   'universe.createdBy': `{gender, select,
     male {Created}
     female {Created}
@@ -27,5 +26,4 @@ export default {
   'universe.stories.desc': 'Cannon stories for {universe}',
   'universe.encyclopedia.title': '{universe} encyclopedia',
   'universe.encyclopedia.desc': 'All the details for {universe}',
-  'universe.fanArt.submit': 'Submit your art'
 }
