@@ -27,5 +27,6 @@ export default {
     'universe.stories.own': '{universe} historie',
     'universe.stories.desc': 'Historia z działem dla {universe}',
     'universe.encyclopedia.title': '{universe} encyklopedia',
-    'universe.encyclopedia.desc': 'Wszystkie szczegóły dla {universe}'
+    'universe.encyclopedia.desc': 'Wszystkie szczegóły dla {universe}',
+    'universe.fanArt.submit': 'Submit your art'
 };
