@@ -5,7 +5,7 @@
 export default {
     siteName: 'Літературний Всесвіт',
     twitterHandle: '@lituniapp',
-    'site.description': 'Літературний Всесвіт - креативна і видавнича платформа для грандіозних всесвітів.',
+    'site.description': 'Літературний Всесвіт - це універсальна творча та видавнича платформа для грандіозних сюжетних всесвітів.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Логотип Літературного Всесвіту',
     mobileMenu: 'Мобільне меню',

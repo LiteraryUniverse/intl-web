@@ -5,7 +5,7 @@
 export default {
     siteName: 'Irodalmi Univerzum',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
+    'site.description': 'Az Irodalmi Univerzum egy mindenre kiterjedő kreatív és kiadói platform a nagyszerű történetek univerzumaihoz.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Literary Universe logo',
     mobileMenu: 'Mobile menu',

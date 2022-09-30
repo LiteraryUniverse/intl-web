@@ -5,7 +5,7 @@
 export default {
     siteName: 'Literair Universum',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe is a creative and publishing platform for grand story universes.',
+    'site.description': 'Literair Universum is een alles-in-één creatief en publicatieplatform voor grote verhalenuniversums.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Literary Universe logo',
     mobileMenu: 'Mobile menu',
