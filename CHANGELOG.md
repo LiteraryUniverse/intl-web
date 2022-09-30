@@ -1,8 +1,9 @@
 # Changelog for languages
 
-## 2022-09-XX - v1.13.0
+## 2022-09-30 - v1.13.0
 
 * New file for fan manager strings
+* New fan manager strings
 * New file for events strings
 * Updated LU description to include `all-in-one` part
 * Add `children` genre
