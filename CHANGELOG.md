@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2022-10-07 - v1.13.1
+
+* New strings for settings for reader and reader accessibility
+
 ## 2022-09-30 - v1.13.0
 
 * New file for fan manager strings
