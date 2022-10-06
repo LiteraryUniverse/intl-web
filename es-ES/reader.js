@@ -24,5 +24,10 @@ export default {
     'externalShopping.buyLink.other': 'Comprar en {storeName}',
     'externalShopping.buyLink.bookshop': 'Comprar en Bookshop.org',
     'external.textopian': 'Textopian',
-    'external.textopian.title': 'Leer y comentar trabajo de dominio público en Textopian'
+    'external.textopian.title': 'Leer y comentar trabajo de dominio público en Textopian',
+    'reader.accessibility.aria': 'Accessibility options',
+    'reader.accessibility.toggleDyslectic': 'Toggle dyslectic text',
+    'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
+    'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
+    'reader.accessibility.toggleRules': 'Toggle assistive ruler'
 };
