@@ -98,5 +98,16 @@ export default {
     'settings.web3.verificationMessage': 'Overovanie používateľa {username} pre Literary Universe. Kód: {code}',
     'settings.web3.unlink': 'Odstránenie peňaženky',
     'settings.web3.linkingMessage': 'Potvrďte, že chcete prepojiť svoju peňaženku s Literary Universe. Kód: {code}',
-    'settings.web3.linkError': 'Táto adresa je už uvedená v našej databáze a nemôže byť pridelená!'
+    'settings.web3.linkError': 'Táto adresa je už uvedená v našej databáze a nemôže byť pridelená!',
+    // Reader settings
+    'settings.reader.title': 'Reader settings',
+    'settings.reader.darkMode': 'Always display in dark mode',
+    'settings.reader.asideView': 'Show magical aside panel',
+    'settings.reader.textSize': 'Show text in larger font',
+    // Accessibility
+    'settings.accessibility.title': 'Reader accessibility',
+    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
+    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
+    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
+    'settings.accessibility.ruler': 'Attach a ruler to the mouse'
 };
