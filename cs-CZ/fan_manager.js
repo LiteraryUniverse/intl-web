@@ -1,12 +1,12 @@
 export default {
-  'fanManager.settings.for': 'Fan manager settings',
-  'fanManager.allowArtSubmissions': 'Allow fan art submissions',
-  'fanManager.displayFanArt': 'Allow displaying fan arts',
-  'fanManager.allowFanStories': 'Allow fan fiction',
-  'fanManager.displayFanStories': 'Allow displaying fan stories',
-  'fanManager.state.aria': 'Select state of submitted artwork',
-  'fanManager.state.submitted': 'Submitted',
-  'fanManager.state.approved': 'Approved',
-  'fanManager.state.rejected': 'Rejected',
-  'fanManager.state.hidden': 'Hidden'
+  'fanManager.settings.for': 'Správce fanouškovské aktivity',
+  'fanManager.allowArtSubmissions': 'Povolit zasílání fanouškovských obrázků',
+  'fanManager.displayFanArt': 'Povolit zobrazení fanouškovských obrázků',
+  'fanManager.allowFanStories': 'Povolit fan fikci',
+  'fanManager.displayFanStories': 'Povolit zobrazování fan fikce',
+  'fanManager.state.aria': 'Vyberte status obrázku',
+  'fanManager.state.submitted': 'Odeslaný',
+  'fanManager.state.approved': 'Schválený',
+  'fanManager.state.rejected': 'Odmítnuté',
+  'fanManager.state.hidden': 'Skryté'
 };
