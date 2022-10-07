@@ -100,14 +100,14 @@ export default {
     'settings.web3.linkingMessage': 'Potvrďte, že chcete prepojiť svoju peňaženku s Literary Universe. Kód: {code}',
     'settings.web3.linkError': 'Táto adresa je už uvedená v našej databáze a nemôže byť pridelená!',
     // Reader settings
-    'settings.reader.title': 'Reader settings',
-    'settings.reader.darkMode': 'Always display in dark mode',
-    'settings.reader.asideView': 'Show magical aside panel',
-    'settings.reader.textSize': 'Show text in larger font',
+    'settings.reader.title': 'Nastavenia čítačky',
+    'settings.reader.darkMode': 'Vždy zobrazenie v tmavom režime',
+    'settings.reader.asideView': 'Zobraziť magický bočný panel',
+    'settings.reader.textSize': 'Zobrazenie textu väčším písmom',
     // Accessibility
-    'settings.accessibility.title': 'Reader accessibility',
-    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
-    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
-    'settings.accessibility.ruler': 'Attach a ruler to the mouse'
+    'settings.accessibility.title': 'Zjednodušené ovládania čítačky',
+    'settings.accessibility.openDyslexic': 'Použitie písma OpenDyslexic',
+    'settings.accessibility.paragraphStripes': 'Striedanie farby pozadia odseku',
+    'settings.accessibility.paragraphHighlighting': 'Zvýraznite aktuálny odsek, na ktorý ste nabehli',
+    'settings.accessibility.ruler': 'Pripojenie pravítka k myši'
 };
