@@ -48,7 +48,7 @@ export default {
     'common.scratchpad.own': 'Twój notatnik',
     'common.news': 'Aktualności',
     'common.encyclopedia': 'Encyklopedia',
-    'common.art': 'Art',
+    'common.art': 'Sztuka',
     'common.story': 'Opowieść',
     'common.stories': 'Opowieści',
     'common.universe': 'Uniwersum',
