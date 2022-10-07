@@ -25,9 +25,9 @@ export default {
     'externalShopping.buyLink.bookshop': 'Kúpiť na Bookshop.org',
     'external.textopian': 'Textopian',
     'external.textopian.title': 'Čítanie a diskusia o verejne prístupných prácach na portáli Textopian',
-    'reader.accessibility.aria': 'Accessibility options',
-    'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
-    'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
-    'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
-    'reader.accessibility.toggleRules': 'Toggle assistive ruler'
+    'reader.accessibility.aria': 'Možnosti zjednodušeného ovládania',
+    'reader.accessibility.toggleDyslexic': 'Prepínanie dyslektického písma',
+    'reader.accessibility.toggleParagraphStripes': 'Prepínanie odsekov na pozadí',
+    'reader.accessibility.toggleParagraphHighlight': 'Prepínanie zvýraznenia vybraného odseku',
+    'reader.accessibility.toggleRules': 'Prepínanie asistenčného pravítka'
 };
