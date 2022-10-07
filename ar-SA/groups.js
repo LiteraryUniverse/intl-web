@@ -37,5 +37,6 @@ export default {
     other {# group invites}
   }`,
     'groups.invites.title': 'دعوات المجموعة',
-    'group.invite.accept': 'قبول الدعوة'
+    'group.invite.accept': 'قبول الدعوة',
+    'group.noticeBoard': 'Notice board'
 };
