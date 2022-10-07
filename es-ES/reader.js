@@ -25,9 +25,9 @@ export default {
     'externalShopping.buyLink.bookshop': 'Comprar en Bookshop.org',
     'external.textopian': 'Textopian',
     'external.textopian.title': 'Leer y comentar trabajo de dominio público en Textopian',
-    'reader.accessibility.aria': 'Accessibility options',
-    'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
-    'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
-    'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
-    'reader.accessibility.toggleRules': 'Toggle assistive ruler'
+    'reader.accessibility.aria': 'Opciones de accesibilidad',
+    'reader.accessibility.toggleDyslexic': 'Alternar la fuente disléxica',
+    'reader.accessibility.toggleParagraphStripes': 'Alterar el fondo de los párrafos',
+    'reader.accessibility.toggleParagraphHighlight': 'Conmutar el resaltado del párrafo seleccionado',
+    'reader.accessibility.toggleRules': 'Alternar la regla de asistencia'
 };
