@@ -25,9 +25,9 @@ export default {
     'externalShopping.buyLink.bookshop': 'Bookshop.orgで購入',
     'external.textopian': 'Textopian',
     'external.textopian.title': 'Textopianでパブリックドメインの作品を読んで議論する',
-    'reader.accessibility.aria': 'Accessibility options',
-    'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
-    'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
-    'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
-    'reader.accessibility.toggleRules': 'Toggle assistive ruler'
+    'reader.accessibility.aria': 'アクセシビリティオプション',
+    'reader.accessibility.toggleDyslexic': 'トグル式ディスレクティックフォント',
+    'reader.accessibility.toggleParagraphStripes': '段落の背景をトグルする',
+    'reader.accessibility.toggleParagraphHighlight': '選択した段落のハイライトをトグルする',
+    'reader.accessibility.toggleRules': 'トグルアシストルーラー'
 };
