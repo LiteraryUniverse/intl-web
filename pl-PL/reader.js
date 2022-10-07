@@ -25,9 +25,9 @@ export default {
     'externalShopping.buyLink.bookshop': 'Kup na Bookshop.org',
     'external.textopian': 'Textopian',
     'external.textopian.title': 'Czytaj i dyskutuj o pracach w domenie publicznej na Textopian',
-    'reader.accessibility.aria': 'Accessibility options',
-    'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
-    'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
-    'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
-    'reader.accessibility.toggleRules': 'Toggle assistive ruler'
+    'reader.accessibility.aria': 'Opcje dostępności',
+    'reader.accessibility.toggleDyslexic': 'Przełączanie czcionki dyslektycznej',
+    'reader.accessibility.toggleParagraphStripes': 'Przełączanie zmiany tła akapitów',
+    'reader.accessibility.toggleParagraphHighlight': 'Przełączanie podświetlenia wybranego akapitu',
+    'reader.accessibility.toggleRules': 'Przełączanie linijki pomocniczej'
 };
