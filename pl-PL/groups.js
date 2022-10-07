@@ -38,5 +38,5 @@ export default {
   }`,
     'groups.invites.title': 'Zaproszenia grupowe',
     'group.invite.accept': 'Przyjmij zaproszenie',
-    'group.noticeBoard': 'Notice board'
+    'group.noticeBoard': 'Tablica ogłoszeń'
 };
