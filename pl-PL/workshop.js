@@ -82,17 +82,17 @@ export default {
     'workshop.translation.original.cover': 'Original cover',
     'workshop.translation.original.tags': 'Original tags',
     'workshop.cover.alt': 'obraz na okładce',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedOrig': 'Ostatnia aktualizacja oryginału: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'Ostatnia aktualizacja tłumaczenia {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'Ostatnia wersja {revision, number}, oryginału: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'Ostatnia wersja {revision, number}, tłumaczenia: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.collaborators.premium': `To add more {type, select,
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
     other {}
   }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
+    'workshop.collaborators.requests.sent': 'Wysłane wnioski',
     'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
     beta {beta reader}
     translator {translator}
