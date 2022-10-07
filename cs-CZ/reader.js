@@ -24,5 +24,10 @@ export default {
     'externalShopping.buyLink.other': 'Koupit v {storeName}',
     'externalShopping.buyLink.bookshop': 'Koupit na Bookshop.org',
     'external.textopian': 'Textopian',
-    'external.textopian.title': 'Texty z veřejné domény si můžete přečíst a diskutovat o, na Textopianu'
+    'external.textopian.title': 'Texty z veřejné domény si můžete přečíst a diskutovat o, na Textopianu',
+    'reader.accessibility.aria': 'Možnosti usnadnění přístupu',
+    'reader.accessibility.toggleDyslexic': 'Přepnout dyslexické písmo',
+    'reader.accessibility.toggleParagraphStripes': 'Přepnout změnu pozadí odstavce',
+    'reader.accessibility.toggleParagraphHighlight': 'Přepnout zvýraznění vybraného odstavce',
+    'reader.accessibility.toggleRules': 'Přepnout asistenční pravidlo'
 };

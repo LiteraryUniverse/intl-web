@@ -100,5 +100,16 @@ export default {
     'settings.web3.verificationMessage': 'Weryfikacja użytkownika {username} dla Literary Universe. Kod: {code}',
     'settings.web3.unlink': 'Usuń portfel',
     'settings.web3.linkingMessage': 'Potwierdź, że chcesz połączyć swój portfel z Literary Universe. Kod: {code}',
-    'settings.web3.linkError': 'Ten adres jest już zapisany w naszej bazie danych i nie może zostać przypisany!'
+    'settings.web3.linkError': 'Ten adres jest już zapisany w naszej bazie danych i nie może zostać przypisany!',
+    // Reader settings
+    'settings.reader.title': 'Ustawienia czytnika',
+    'settings.reader.darkMode': 'Wyświetlanie zawsze w trybie ciemnym',
+    'settings.reader.asideView': 'Pokaż magiczny panel boczny',
+    'settings.reader.textSize': 'Pokaż tekst większą czcionką',
+    // Accessibility
+    'settings.accessibility.title': 'Dostępność dla czytelników',
+    'settings.accessibility.openDyslexic': 'Użyj czcionki OpenDyslexic',
+    'settings.accessibility.paragraphStripes': 'Zmiana koloru tła akapitu',
+    'settings.accessibility.paragraphHighlighting': 'Podświetlić bieżący akapit, nad którym znajduje się kursor',
+    'settings.accessibility.ruler': 'Przymocuj linijkę do myszy'
 };

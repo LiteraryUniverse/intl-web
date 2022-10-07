@@ -24,5 +24,10 @@ export default {
     'externalShopping.buyLink.other': '{storeName}で購入',
     'externalShopping.buyLink.bookshop': 'Bookshop.orgで購入',
     'external.textopian': 'Textopian',
-    'external.textopian.title': 'Textopianでパブリックドメインの作品を読んで議論する'
+    'external.textopian.title': 'Textopianでパブリックドメインの作品を読んで議論する',
+    'reader.accessibility.aria': 'アクセシビリティオプション',
+    'reader.accessibility.toggleDyslexic': 'トグル式ディスレクティックフォント',
+    'reader.accessibility.toggleParagraphStripes': '段落の背景をトグルする',
+    'reader.accessibility.toggleParagraphHighlight': '選択した段落のハイライトをトグルする',
+    'reader.accessibility.toggleRules': 'トグルアシストルーラー'
 };

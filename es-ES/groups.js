@@ -37,5 +37,6 @@ export default {
     other {# invitaciones}
   } de grupo`,
     'groups.invites.title': 'Invitaciones de grupo',
-    'group.invite.accept': 'Aceptar invitación'
+    'group.invite.accept': 'Aceptar invitación',
+    'group.noticeBoard': 'Tablón de anuncios'
 };

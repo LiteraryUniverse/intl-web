@@ -100,5 +100,16 @@ export default {
     'settings.web3.verificationMessage': 'Verifying user {username} for Literary Universe. Code: {code}',
     'settings.web3.unlink': 'Remove wallet',
     'settings.web3.linkingMessage': 'Please confirm that you want to link your wallet to Literary Universe. Code: {code}',
-    'settings.web3.linkError': 'This address is already listed in our database and can\'t assigned!'
+    'settings.web3.linkError': 'This address is already listed in our database and can\'t assigned!',
+    // Reader settings
+    'settings.reader.title': 'Reader settings',
+    'settings.reader.darkMode': 'Always display in dark mode',
+    'settings.reader.asideView': 'Show magical aside panel',
+    'settings.reader.textSize': 'Show text in larger font',
+    // Accessibility
+    'settings.accessibility.title': 'Reader accessibility',
+    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
+    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
+    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
+    'settings.accessibility.ruler': 'Attach a ruler to the mouse'
 };

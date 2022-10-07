@@ -41,5 +41,6 @@ export default {
     other {# skupinových}
   } pozvání`,
     'groups.invites.title': 'Pozvánky do skupiny',
-    'group.invite.accept': 'Přijmout pozvánku'
+    'group.invite.accept': 'Přijmout pozvánku',
+    'group.noticeBoard': 'Vývěska'
 };

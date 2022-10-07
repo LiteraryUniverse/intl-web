@@ -100,5 +100,16 @@ export default {
     'settings.web3.verificationMessage': 'Ověřování uživatele {username} pro Literary Universe. Kód: {code}',
     'settings.web3.unlink': 'Odstranit peněženku',
     'settings.web3.linkingMessage': 'Potvrďte, že chcete propojit Vaši peněženku s Literary Universe. Kód: {code}',
-    'settings.web3.linkError': 'Tato adresa je již uvedena v naší databázi a nemůže být přiřazena!'
+    'settings.web3.linkError': 'Tato adresa je již uvedena v naší databázi a nemůže být přiřazena!',
+    // Reader settings
+    'settings.reader.title': 'Nastavení čtečky',
+    'settings.reader.darkMode': 'Vždy zobrazovat ve tmavém režimu',
+    'settings.reader.asideView': 'Zobrazit magické menu',
+    'settings.reader.textSize': 'Zobrazit text ve větším písmu',
+    // Accessibility
+    'settings.accessibility.title': 'Přístupnost čtečky',
+    'settings.accessibility.openDyslexic': 'Použít OpenDyslexic písmo',
+    'settings.accessibility.paragraphStripes': 'Alternující barva pozadí odstavců',
+    'settings.accessibility.paragraphHighlighting': 'Zvýraznit aktuální odstavec, nad kterým se nachází myš',
+    'settings.accessibility.ruler': 'Přiložit k myši pravítko'
 };

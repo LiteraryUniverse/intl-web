@@ -4,8 +4,8 @@ export default {
     'universe.fanfiction.desc': 'Fan Fiction dla {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
+    'universe.fansettings.for': '{universe} fan menedżera',
+    'universe.fanfiction.stories': 'Opowieści',
     'universe.fanfiction.fanarts': 'Fan Arts',
     'universe.stories.count': `Tutaj {num, plural,
     =0 {nie ma opowieści}
@@ -27,5 +27,6 @@ export default {
     'universe.stories.own': '{universe} historie',
     'universe.stories.desc': 'Historia z działem dla {universe}',
     'universe.encyclopedia.title': '{universe} encyklopedia',
-    'universe.encyclopedia.desc': 'Wszystkie szczegóły dla {universe}'
+    'universe.encyclopedia.desc': 'Wszystkie szczegóły dla {universe}',
+    'universe.fanArt.submit': 'Zgłoś swoją sztukę'
 };
