@@ -102,14 +102,14 @@ export default {
     'settings.web3.linkingMessage': 'Potwierdź, że chcesz połączyć swój portfel z Literary Universe. Kod: {code}',
     'settings.web3.linkError': 'Ten adres jest już zapisany w naszej bazie danych i nie może zostać przypisany!',
     // Reader settings
-    'settings.reader.title': 'Reader settings',
-    'settings.reader.darkMode': 'Always display in dark mode',
-    'settings.reader.asideView': 'Show magical aside panel',
-    'settings.reader.textSize': 'Show text in larger font',
+    'settings.reader.title': 'Ustawienia czytnika',
+    'settings.reader.darkMode': 'Wyświetlanie zawsze w trybie ciemnym',
+    'settings.reader.asideView': 'Pokaż magiczny panel boczny',
+    'settings.reader.textSize': 'Pokaż tekst większą czcionką',
     // Accessibility
-    'settings.accessibility.title': 'Reader accessibility',
-    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
-    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
-    'settings.accessibility.ruler': 'Attach a ruler to the mouse'
+    'settings.accessibility.title': 'Dostępność dla czytelników',
+    'settings.accessibility.openDyslexic': 'Użyj czcionki OpenDyslexic',
+    'settings.accessibility.paragraphStripes': 'Zmiana koloru tła akapitu',
+    'settings.accessibility.paragraphHighlighting': 'Podświetlić bieżący akapit, nad którym znajduje się kursor',
+    'settings.accessibility.ruler': 'Przymocuj linijkę do myszy'
 };
