@@ -25,9 +25,9 @@ export default {
     'externalShopping.buyLink.bookshop': 'Auf Bookshop.org kaufen',
     'external.textopian': 'Textopian',
     'external.textopian.title': 'Lesen & Diskutieren von gemeinfreien Arbeiten auf Textopian',
-    'reader.accessibility.aria': 'Accessibility options',
-    'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
-    'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
-    'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
-    'reader.accessibility.toggleRules': 'Toggle assistive ruler'
+    'reader.accessibility.aria': 'Barrierefreiheit Optionen',
+    'reader.accessibility.toggleDyslexic': 'Legasthenie-Schriftart umschalten',
+    'reader.accessibility.toggleParagraphStripes': 'Änderung der Hintergrundfarbe von Absätzen umschalten',
+    'reader.accessibility.toggleParagraphHighlight': 'Hervorhebung ausgewählter Absätze ein- und ausschalten',
+    'reader.accessibility.toggleRules': 'Hilfslineal umschalten'
 };
