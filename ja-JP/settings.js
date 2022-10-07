@@ -100,14 +100,14 @@ export default {
     'settings.web3.linkingMessage': 'ウォレットを文学の宇宙に接続することを確認してください。コード：　{code}',
     'settings.web3.linkError': 'このアドレスはすでに私たちのデータベースに登録されており、割り当てることができません。',
     // Reader settings
-    'settings.reader.title': 'Reader settings',
-    'settings.reader.darkMode': 'Always display in dark mode',
-    'settings.reader.asideView': 'Show magical aside panel',
-    'settings.reader.textSize': 'Show text in larger font',
+    'settings.reader.title': 'リーダーの設定',
+    'settings.reader.darkMode': '常にダークモードで表示',
+    'settings.reader.asideView': 'マジカルアサイドパネルを表示する',
+    'settings.reader.textSize': '文字を大きく表示する',
     // Accessibility
-    'settings.accessibility.title': 'Reader accessibility',
-    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
-    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
-    'settings.accessibility.ruler': 'Attach a ruler to the mouse'
+    'settings.accessibility.title': '読者アクセシビリティ',
+    'settings.accessibility.openDyslexic': 'OpenDyslexicフォントを使用する',
+    'settings.accessibility.paragraphStripes': '段落の背景色を交互に変更する',
+    'settings.accessibility.paragraphHighlighting': '現在カーソルを置いている段落をハイライト表示します',
+    'settings.accessibility.ruler': 'マウスに定規を付ける'
 };
