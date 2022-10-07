@@ -39,5 +39,5 @@ export default {
   }`,
     'groups.invites.title': 'Gruppeneinladungen',
     'group.invite.accept': 'Einladung annehmen',
-    'group.noticeBoard': 'Notice board'
+    'group.noticeBoard': 'Schwarzes Brett'
 };
