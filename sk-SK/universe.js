@@ -27,5 +27,5 @@ export default {
     'universe.stories.desc': 'Kanonické príbehy pre {universe}',
     'universe.encyclopedia.title': 'encyklopédia {universe}',
     'universe.encyclopedia.desc': 'Všetky podrobnosti pre {universe}',
-    'universe.fanArt.submit': 'Submit your art'
+    'universe.fanArt.submit': 'Odoslať vaše umenie'
 };
