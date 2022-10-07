@@ -22,5 +22,5 @@ export default {
     'universe.stories.desc': '{universe}のキャノニカルストーリー',
     'universe.encyclopedia.title': '{universe}百科事典',
     'universe.encyclopedia.desc': '{universe}のすべての詳細',
-    'universe.fanArt.submit': 'Submit your art'
+    'universe.fanArt.submit': '作品を投稿する'
 };
