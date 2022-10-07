@@ -1,12 +1,12 @@
 export default {
-  'fanManager.settings.for': 'Fan manager settings',
-  'fanManager.allowArtSubmissions': 'Allow fan art submissions',
-  'fanManager.displayFanArt': 'Allow displaying fan arts',
-  'fanManager.allowFanStories': 'Allow fan fiction',
-  'fanManager.displayFanStories': 'Allow displaying fan stories',
-  'fanManager.state.aria': 'Select state of submitted artwork',
-  'fanManager.state.submitted': 'Submitted',
-  'fanManager.state.approved': 'Approved',
-  'fanManager.state.rejected': 'Rejected',
-  'fanManager.state.hidden': 'Hidden'
+  'fanManager.settings.for': 'Ajustes del gestor de ventiladores',
+  'fanManager.allowArtSubmissions': 'Permitir el envío de fan arts',
+  'fanManager.displayFanArt': 'Permitir la visualización de fan arts',
+  'fanManager.allowFanStories': 'Permitir la ficción de los fans',
+  'fanManager.displayFanStories': 'Permitir la visualización de las historias de los fans',
+  'fanManager.state.aria': 'Seleccione el estado de la obra presentada',
+  'fanManager.state.submitted': 'Enviado',
+  'fanManager.state.approved': 'Aprobado',
+  'fanManager.state.rejected': 'Rechazado',
+  'fanManager.state.hidden': 'Oculto'
 };
