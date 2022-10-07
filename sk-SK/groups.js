@@ -42,5 +42,5 @@ export default {
   }`,
     'groups.invites.title': 'Pozvánky do skupín',
     'group.invite.accept': 'Prijať pozvanie',
-    'group.noticeBoard': 'Notice board'
+    'group.noticeBoard': 'Informačná tabuľa'
 };
