@@ -42,5 +42,5 @@ export default {
   } pozvání`,
     'groups.invites.title': 'Pozvánky do skupiny',
     'group.invite.accept': 'Přijmout pozvánku',
-    'group.noticeBoard': 'Notice board'
+    'group.noticeBoard': 'Vývěska'
 };
