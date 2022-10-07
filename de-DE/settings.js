@@ -102,14 +102,14 @@ export default {
     'settings.web3.linkingMessage': 'Bitte bestätigen Sie, dass Sie Ihre Brieftasche mit Literary Universe verknüpfen möchten. Code: {code}',
     'settings.web3.linkError': 'Diese Adresse ist bereits in unserer Datenbank aufgeführt und kann nicht zugewiesen werden!',
     // Reader settings
-    'settings.reader.title': 'Reader settings',
-    'settings.reader.darkMode': 'Always display in dark mode',
-    'settings.reader.asideView': 'Show magical aside panel',
-    'settings.reader.textSize': 'Show text in larger font',
+    'settings.reader.title': 'Reader-Einstellungen',
+    'settings.reader.darkMode': 'Immer im Dunklen Modus anzeigen',
+    'settings.reader.asideView': 'Zeige magische Nebentafel',
+    'settings.reader.textSize': 'Text in größerer Schriftart anzeigen',
     // Accessibility
-    'settings.accessibility.title': 'Reader accessibility',
-    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
-    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
-    'settings.accessibility.ruler': 'Attach a ruler to the mouse'
+    'settings.accessibility.title': 'Barrierefreiheit Optionen',
+    'settings.accessibility.openDyslexic': 'OpenDyslexis-Schriftart verwenden',
+    'settings.accessibility.paragraphStripes': 'Alternative in Absatzhintergrundfarbe',
+    'settings.accessibility.paragraphHighlighting': 'Hervorheben Sie den aktuellen Absatz, über den Sie schweben',
+    'settings.accessibility.ruler': 'Lineal an die Maus anhängen'
 };
