@@ -102,14 +102,14 @@ export default {
     'settings.web3.linkingMessage': 'Por favor, confirme que desea vincular su cartera con el Literary Universe. Código: {code}',
     'settings.web3.linkError': 'Esta dirección ya figura en nuestra base de datos y no puede ser asignada!',
     // Reader settings
-    'settings.reader.title': 'Reader settings',
-    'settings.reader.darkMode': 'Always display in dark mode',
-    'settings.reader.asideView': 'Show magical aside panel',
-    'settings.reader.textSize': 'Show text in larger font',
+    'settings.reader.title': 'Configuración del lector',
+    'settings.reader.darkMode': 'Mostrar siempre en modo oscuro',
+    'settings.reader.asideView': 'Mostrar panel mágico aparte',
+    'settings.reader.textSize': 'Mostrar el texto en una fuente más grande',
     // Accessibility
-    'settings.accessibility.title': 'Reader accessibility',
-    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
-    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
-    'settings.accessibility.ruler': 'Attach a ruler to the mouse'
+    'settings.accessibility.title': 'Accesibilidad de los lectores',
+    'settings.accessibility.openDyslexic': 'Utilice la fuente OpenDyslexic',
+    'settings.accessibility.paragraphStripes': 'Alternar el color de fondo del párrafo',
+    'settings.accessibility.paragraphHighlighting': 'Resalte el párrafo actual sobre el que está pasando el ratón',
+    'settings.accessibility.ruler': 'Colocar una regla en el ratón'
 };
