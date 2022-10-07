@@ -1,12 +1,12 @@
 export default {
-  'fanManager.settings.for': 'Fan manager settings',
-  'fanManager.allowArtSubmissions': 'Allow fan art submissions',
-  'fanManager.displayFanArt': 'Allow displaying fan arts',
-  'fanManager.allowFanStories': 'Allow fan fiction',
-  'fanManager.displayFanStories': 'Allow displaying fan stories',
-  'fanManager.state.aria': 'Select state of submitted artwork',
-  'fanManager.state.submitted': 'Submitted',
-  'fanManager.state.approved': 'Approved',
-  'fanManager.state.rejected': 'Rejected',
-  'fanManager.state.hidden': 'Hidden'
+  'fanManager.settings.for': 'ファンマネージャーの設定',
+  'fanManager.allowArtSubmissions': 'ファンアートの投稿を許可する',
+  'fanManager.displayFanArt': 'ファンアートを表示できるようにする',
+  'fanManager.allowFanStories': 'ファンフィクションを許可する',
+  'fanManager.displayFanStories': 'ファンストーリーを表示できるようにする',
+  'fanManager.state.aria': '応募作品の状態を選択する',
+  'fanManager.state.submitted': '提出された',
+  'fanManager.state.approved': '承認済み',
+  'fanManager.state.rejected': '不採用',
+  'fanManager.state.hidden': 'ヒドゥン'
 };
