@@ -1,12 +1,12 @@
 export default {
   'fanManager.settings.for': 'Fan manager settings',
-  'fanManager.allowArtSubmissions': 'Allow fan art submissions',
-  'fanManager.displayFanArt': 'Allow displaying fan arts',
-  'fanManager.allowFanStories': 'Allow fan fiction',
-  'fanManager.displayFanStories': 'Allow displaying fan stories',
-  'fanManager.state.aria': 'Select state of submitted artwork',
-  'fanManager.state.submitted': 'Submitted',
-  'fanManager.state.approved': 'Approved',
-  'fanManager.state.rejected': 'Rejected',
-  'fanManager.state.hidden': 'Hidden'
+  'fanManager.allowArtSubmissions': 'Zezwolenie na przesyłanie fan artów',
+  'fanManager.displayFanArt': 'Umożliwienie wyświetlania fan artów',
+  'fanManager.allowFanStories': 'Pozwólcie na fan fiction',
+  'fanManager.displayFanStories': 'Umożliwienie wyświetlania historii fanów',
+  'fanManager.state.aria': 'Wybierz państwo, w którym znajduje się nadesłane dzieło sztuki',
+  'fanManager.state.submitted': 'Zatwierdzone',
+  'fanManager.state.approved': 'Zaakceptowana',
+  'fanManager.state.rejected': 'Odrzucony',
+  'fanManager.state.hidden': 'Ukryta'
 };
