@@ -38,5 +38,6 @@ export default {
     other {# Gruppeneinladungen}
   }`,
     'groups.invites.title': 'Gruppeneinladungen',
-    'group.invite.accept': 'Einladung annehmen'
+    'group.invite.accept': 'Einladung annehmen',
+    'group.noticeBoard': 'Notice board'
 };
