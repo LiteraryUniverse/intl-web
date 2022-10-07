@@ -26,7 +26,7 @@ export default {
     'external.textopian': 'Textopian',
     'external.textopian.title': 'Texty z veřejné domény si můžete přečíst a diskutovat o, na Textopianu',
     'reader.accessibility.aria': 'Možnosti usnadnění přístupu',
-    'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
+    'reader.accessibility.toggleDyslexic': 'Přepnout dyslexické písmo',
     'reader.accessibility.toggleParagraphStripes': 'Přepnout změnu pozadí odstavce',
     'reader.accessibility.toggleParagraphHighlight': 'Přepnout zvýraznění vybraného odstavce',
     'reader.accessibility.toggleRules': 'Přepnout asistenční pravidlo'
