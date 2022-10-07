@@ -36,5 +36,5 @@ export default {
   }回です`,
     'groups.invites.title': 'グループ招待',
     'group.invite.accept': '招待を受ける',
-    'group.noticeBoard': 'Notice board'
+    'group.noticeBoard': '掲示板'
 };
