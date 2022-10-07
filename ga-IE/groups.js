@@ -37,5 +37,6 @@ export default {
     other {# group invites}
   }`,
     'groups.invites.title': 'Group invitations',
-    'group.invite.accept': 'Accept invite'
+    'group.invite.accept': 'Accept invite',
+    'group.noticeBoard': 'Notice board'
 };
