@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2022-10-08 - v2.0.0
+
+* Breaking change, `index.js` no longer exports all messages. They need to be imported by directly referencing the
+  directory. This is so that you can load them dynamically and not all at once. This reduces the bundle size.
+
 ## 2022-10-07 - v1.13.1
 
 * New strings for settings for reader and reader accessibility
