@@ -8,5 +8,9 @@ export default {
   'fanManager.state.submitted': 'Enviado',
   'fanManager.state.approved': 'Aprobado',
   'fanManager.state.rejected': 'Rechazado',
-  'fanManager.state.hidden': 'Oculto'
+  'fanManager.state.hidden': 'Oculto',
+  'fanManager.publicComment': 'Public comment',
+  'fanManager.publicComment.desc': 'This text will be displayed on the public page as your official comment on this art.',
+  'fanManager.authorComment': 'Comment for the author',
+  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.'
 };
