@@ -4,6 +4,7 @@ export default {
     zero {requests}
     one {request}
     many {requests}
+    other {requests}
   }`,
     'user.friend.unfriend': 'Unfriend',
     'user.block': 'Blocáil',
