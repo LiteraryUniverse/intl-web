@@ -8,5 +8,9 @@ export default {
   'fanManager.state.submitted': 'Odoslané',
   'fanManager.state.approved': 'Schválené',
   'fanManager.state.rejected': 'Odmietnuté',
-  'fanManager.state.hidden': 'Skryté'
+  'fanManager.state.hidden': 'Skryté',
+  'fanManager.publicComment': 'Public comment',
+  'fanManager.publicComment.desc': 'This text will be displayed on the public page as your official comment on this art.',
+  'fanManager.authorComment': 'Comment for the author',
+  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.'
 };
