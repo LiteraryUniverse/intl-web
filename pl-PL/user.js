@@ -1,9 +1,10 @@
 export default {
     'user.friend.request.add': 'Dodaj do znajomych',
-    'user.friend.requests': `Masz {num, number} nowych {num, plural,
-    zero {zaproszeń}
-    one {zaproszenie}
-    many {zaproszeń}
+    'user.friend.requests': `You have {num, number} new friend {num, plural,
+    zero {requests}
+    one {request}
+    many {requests}
+    other {requests}
   }`,
     'user.friend.unfriend': 'Usuń ze znajomych',
     'user.block': 'Zablokuj',
