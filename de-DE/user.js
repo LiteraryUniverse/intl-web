@@ -1,9 +1,10 @@
 export default {
     'user.friend.request.add': 'Zu Freunden hinzufügen',
-    'user.friend.requests': `Sie haben {num, number} neuen Freund {num, Plural,
-    zero {Anfrage}
-    one {Anfrage}
-    other {Anfragen}
+    'user.friend.requests': `You have {num, number} new friend {num, plural,
+    zero {requests}
+    one {request}
+    many {requests}
+    other {requests}
   }`,
     'user.friend.unfriend': 'Entfreunden',
     'user.block': 'Blocken',
