@@ -1,3 +1,12 @@
+export type LanguageSettingsType = {
+  code: string
+  name: string
+  native: string
+  defaultLocale: string
+  supportedLocales: string[]
+  rtl: boolean
+}
+
 export default {
   supportedLocales: ['en', 'cs'],
   /**
@@ -101,7 +110,7 @@ export default {
    * Get the array of language codes of supported languages
    * @returns {[String]}
    */
-  supportedLanguages() {
+  supportedLanguages(): string[] {
     return this.languages.map((lang) => lang.code) || []
   },
   /**
@@ -109,7 +118,7 @@ export default {
    * This includes stories supported through the app in addition to those listed here.
    * @returns {({defaultLocale: string, code: string, supportedLocales: [string, string, string, string, string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean})[]}
    */
-  storyLanguages() {
+  storyLanguages(): LanguageSettingsType[] {
     return [
       ...this.languages,
       {
@@ -369,7 +378,7 @@ export default {
       }
     ]
   },
-  storyLocales() {
+  storyLocales(): string[] {
     return this.storyLanguages().map((lang) => lang.code)
   },
   /**
@@ -411,7 +420,7 @@ export default {
    * @param countryCode {String} 2-key country string
    * @returns {String} 3-key currency string
    */
-  currencyByCountry(countryCode) {
+  currencyByCountry(countryCode: string): string {
     if (!countryCode) return 'USD'
     if (countryCode === 'GB') return 'GBP'
     if (countryCode === 'US' || countryCode === 'CA') return 'USD'

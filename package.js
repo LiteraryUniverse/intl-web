@@ -8,8 +8,8 @@ Package.describe({
 
 Package.onUse(function (api) {
   api.versionsFrom('2.6')
-  api.use('ecmascript')
-  api.mainModule('./index.js', ['client', 'server'], { lazy: true })
+  api.use(['ecmascript', 'typescript'])
+  api.mainModule('./index.ts', ['client', 'server'], { lazy: true })
 })
 
 Package.onTest(function (api) {

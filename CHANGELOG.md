@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2022-10-10 - v2.1.0
+
+* Converted index and settings to TypeScript
+* In `user.friend.requests` plural selector added `other` option
+
 ## 2022-10-08 - v2.0.0
 
 * Breaking change, `index.js` no longer exports all messages. They need to be imported by directly referencing the
@@ -32,8 +37,6 @@
 
 * Added strings for organization membership page
 * Added miscellaneous strings around organization pages
-* Returned Scott's about text
-* Added some initial
 
 ## 2022-07-15 - v1.12.0
 
