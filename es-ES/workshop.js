@@ -231,5 +231,6 @@ export default {
     'workshop.story.chapter': 'Capítulo {sequence, number}',
     'workshop.work.includesAds': '¿Hay publicidad o colocación de productos en la obra?',
     'workshop.universe.forumSettings': 'Configuración del foro del universo interno',
-    'workshop.universe.forum': 'Foro interno de {universeName}'
+    'workshop.universe.forum': 'Foro interno de {universeName}',
+    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.'
 };
