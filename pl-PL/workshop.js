@@ -227,5 +227,6 @@ export default {
     'workshop.story.chapter': 'Rozdział {sequence, number}',
     'workshop.work.includesAds': 'Czy w pracy są jakieś reklamy lub lokowanie produktu?',
     'workshop.universe.forumSettings': 'Ustawienia wewnętrznego forum wszechświata',
-    'workshop.universe.forum': 'Wewnętrzne forum {universeName}'
+    'workshop.universe.forum': 'Wewnętrzne forum {universeName}',
+    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.'
 };
