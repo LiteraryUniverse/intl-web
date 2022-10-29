@@ -9,8 +9,8 @@ export default {
   'fanManager.state.approved': '承認済み',
   'fanManager.state.rejected': '不採用',
   'fanManager.state.hidden': 'ヒドゥン',
-  'fanManager.publicComment': 'Public comment',
-  'fanManager.publicComment.desc': 'This text will be displayed on the public page as your official comment on this art.',
-  'fanManager.authorComment': 'Comment for the author',
-  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.'
+  'fanManager.publicComment': 'パブリックコメント',
+  'fanManager.publicComment.desc': 'この文章は、このアートに対するあなたの公式コメントとして、公開ページに表示されます。',
+  'fanManager.authorComment': '著者へのコメント',
+  'fanManager.authorComment.desc': 'これは、あなたからこのアートの作者への私的なコメントです。'
 };
