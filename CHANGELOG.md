@@ -1,9 +1,12 @@
 # Changelog for languages
 
-## 2022-10-10 - v2.1.0
+## 2022-10-30 - v2.1.0
 
 * Converted index and settings to TypeScript
 * In `user.friend.requests` plural selector added `other` option
+* Added workshop string about age rating lock
+* Auto formatting fixes in feedback file
+* Added missing strings for fan manager
 
 ## 2022-10-08 - v2.0.0
 
