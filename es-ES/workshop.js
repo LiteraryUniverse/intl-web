@@ -232,5 +232,5 @@ export default {
     'workshop.work.includesAds': '¿Hay publicidad o colocación de productos en la obra?',
     'workshop.universe.forumSettings': 'Configuración del foro del universo interno',
     'workshop.universe.forum': 'Foro interno de {universeName}',
-    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.'
+    'workshop.ratingAdjusted': 'Debido a las quejas hemos tenido que ajustar su calificación a la que consideramos apropiada. Por lo tanto, el cambio de calificación está ahora desactivado.'
 };
