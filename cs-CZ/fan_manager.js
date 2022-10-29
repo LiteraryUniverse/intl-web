@@ -9,8 +9,8 @@ export default {
   'fanManager.state.approved': 'Schválený',
   'fanManager.state.rejected': 'Odmítnuté',
   'fanManager.state.hidden': 'Skryté',
-  'fanManager.publicComment': 'Public comment',
-  'fanManager.publicComment.desc': 'This text will be displayed on the public page as your official comment on this art.',
-  'fanManager.authorComment': 'Comment for the author',
-  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.'
+  'fanManager.publicComment': 'Veřejný komentář',
+  'fanManager.publicComment.desc': 'Tento text se zobrazí na veřejné stránce jako váš oficiální komentář k tomuto obrázku.',
+  'fanManager.authorComment': 'Komentář pro autora',
+  'fanManager.authorComment.desc': 'Toto je váš soukromý komentář k autorovi tohoto fanouškovského obrázku.'
 };
