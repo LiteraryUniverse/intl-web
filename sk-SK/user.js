@@ -1,11 +1,11 @@
 export default {
     'user.friend.request.add': 'Pridať medzi priateľov',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
-  }`,
+    'user.friend.requests': `Máte {num, number} {num, plural,
+    zero {nových žiadostí}
+    one {novú žiadosť}
+    few {nové žiadosti}
+    other {nových žiadostí}
+  } o priateľstvo`,
     'user.friend.unfriend': 'Zrušenie priateľstva',
     'user.block': 'Blokovať',
     'user.unblock': 'Odblokovať',
