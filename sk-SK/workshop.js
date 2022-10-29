@@ -235,5 +235,5 @@ export default {
     'workshop.work.includesAds': 'Sú v diele nejaké reklamy alebo umiestňovanie produktov?',
     'workshop.universe.forumSettings': 'Nastavenia interného fóra vesmíru',
     'workshop.universe.forum': 'Interné fórum {universeName}',
-    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.'
+    'workshop.ratingAdjusted': 'Kvôli sťažnostiam sme museli upraviť vaše hodnotenie na také, ktoré sme považovali za primerané. Zmena hodnotenia je preto teraz zakázaná.'
 };
