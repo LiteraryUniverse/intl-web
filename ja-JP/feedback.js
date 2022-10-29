@@ -35,6 +35,7 @@ export default {
     'feedback.reportType.vulgar': '下品・卑猥な言葉',
     'feedback.reportType.copyright': '著作権侵害',
     'feedback.reportType.storyRating': '誤った年齢評価',
+    'feedback.reportType.scam': 'Scam',
     'feedback.report.submit': 'レポート',
     'feedback.report.submitting': 'レポート',
     'feedback.report.violationDesc': '詳細',
