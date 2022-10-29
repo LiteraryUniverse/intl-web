@@ -236,5 +236,6 @@ export default {
     'workshop.story.chapter': 'Kapitola {sequence, number}',
     'workshop.work.includesAds': 'Jsou v tvorbě nějaké reklamy nebo umístění produktu?',
     'workshop.universe.forumSettings': 'Nastavení interního fóra pro vesmír',
-    'workshop.universe.forum': 'Interní fórum {universeName}'
+    'workshop.universe.forum': 'Interní fórum {universeName}',
+    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.'
 };
