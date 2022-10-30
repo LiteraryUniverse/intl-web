@@ -1,7 +1,6 @@
 export default {
     'user.friend.request.add': 'Přidat mezi přátele',
     'user.friend.requests': `Máte {num, number} {num, plural,
-    zero {nových žádostí}
     one {novou žádost}
     few {nové žádosti}
     other {nových žádostí}

@@ -8,5 +8,9 @@ export default {
   'fanManager.state.submitted': 'Odoslané',
   'fanManager.state.approved': 'Schválené',
   'fanManager.state.rejected': 'Odmietnuté',
-  'fanManager.state.hidden': 'Skryté'
+  'fanManager.state.hidden': 'Skryté',
+  'fanManager.publicComment': 'Verejný komentár',
+  'fanManager.publicComment.desc': 'Tento text sa zobrazí na verejnej stránke ako váš oficiálny komentár k tomuto dielu.',
+  'fanManager.authorComment': 'Komentár pre autora',
+  'fanManager.authorComment.desc': 'Toto je váš súkromný komentár autorovi tohto diela.'
 };

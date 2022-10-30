@@ -8,5 +8,9 @@ export default {
   'fanManager.state.submitted': 'Odeslaný',
   'fanManager.state.approved': 'Schválený',
   'fanManager.state.rejected': 'Odmítnuté',
-  'fanManager.state.hidden': 'Skryté'
+  'fanManager.state.hidden': 'Skryté',
+  'fanManager.publicComment': 'Veřejný komentář',
+  'fanManager.publicComment.desc': 'Tento text se zobrazí na veřejné stránce jako váš oficiální komentář k tomuto obrázku.',
+  'fanManager.authorComment': 'Komentář pro autora',
+  'fanManager.authorComment.desc': 'Toto je váš soukromý komentář k autorovi tohoto fanouškovského obrázku.'
 };

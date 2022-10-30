@@ -1,9 +1,8 @@
 export default {
     'user.friend.request.add': 'Añadir a amigos',
     'user.friend.requests': `Tienes {num, number} amigo nuevo {num, plural,
-    cero {requests}
-    una {request}
-    muchas {requests}
+    one {solicitud}
+    other {solicitudes}
   }`,
     'user.friend.unfriend': 'Quitar de amigos',
     'user.block': 'Bloquear',

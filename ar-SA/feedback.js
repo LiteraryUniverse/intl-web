@@ -35,6 +35,7 @@ export default {
     'feedback.reportType.vulgar': 'Vulgar/obscene',
     'feedback.reportType.copyright': 'انتهاك حقوق الطبع والنشر',
     'feedback.reportType.storyRating': 'التصنيف العمري غير صحيح',
+    'feedback.reportType.scam': 'Scam',
     'feedback.report.submit': 'إبلاغ',
     'feedback.report.submitting': 'Reporting...',
     'feedback.report.violationDesc': 'التفاصيل',

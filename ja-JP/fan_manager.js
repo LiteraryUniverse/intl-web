@@ -8,5 +8,9 @@ export default {
   'fanManager.state.submitted': '提出された',
   'fanManager.state.approved': '承認済み',
   'fanManager.state.rejected': '不採用',
-  'fanManager.state.hidden': 'ヒドゥン'
+  'fanManager.state.hidden': 'ヒドゥン',
+  'fanManager.publicComment': 'パブリックコメント',
+  'fanManager.publicComment.desc': 'この文章は、このアートに対するあなたの公式コメントとして、公開ページに表示されます。',
+  'fanManager.authorComment': '著者へのコメント',
+  'fanManager.authorComment.desc': 'これは、あなたからこのアートの作者への私的なコメントです。'
 };

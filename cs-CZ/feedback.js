@@ -35,6 +35,7 @@ export default {
     'feedback.reportType.vulgar': 'Vulgarní/obsení',
     'feedback.reportType.copyright': 'Porušení autorských práv',
     'feedback.reportType.storyRating': 'Špatné věkové hodnocení',
+    'feedback.reportType.scam': 'Podvod',
     'feedback.report.submit': 'Nahlásit',
     'feedback.report.submitting': 'Oznamuji...',
     'feedback.report.violationDesc': 'Podrobnosti',

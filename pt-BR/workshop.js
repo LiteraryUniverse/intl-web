@@ -227,5 +227,6 @@ export default {
     'workshop.story.chapter': 'Capítulo {sequence, number}',
     'workshop.work.includesAds': 'Há algum anúncio ou posicionamento de produtos no trabalho?',
     'workshop.universe.forumSettings': 'Internal universe forum settings',
-    'workshop.universe.forum': 'Internal {universeName} forum'
+    'workshop.universe.forum': 'Internal {universeName} forum',
+    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.'
 };

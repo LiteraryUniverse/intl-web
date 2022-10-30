@@ -8,5 +8,9 @@ export default {
   'fanManager.state.submitted': 'Übermittelt',
   'fanManager.state.approved': 'Bestätigt',
   'fanManager.state.rejected': 'Abgelehnt',
-  'fanManager.state.hidden': 'Versteckt'
+  'fanManager.state.hidden': 'Versteckt',
+  'fanManager.publicComment': 'Öffentlicher Kommentar',
+  'fanManager.publicComment.desc': 'Dieser Text wird auf der öffentlichen Seite als Ihr offizieller Kommentar zu diesem Kunstwerk angezeigt.',
+  'fanManager.authorComment': 'Kommentar für den Autor',
+  'fanManager.authorComment.desc': 'Dies ist ein privater Kommentar von Ihnen an den Autor dieses Werkes.'
 };
