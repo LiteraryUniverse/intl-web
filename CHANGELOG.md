@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2020-11-XX - v2.1.1
+
+* Add Gettr and Pinterest to sharing translation
+
 ## 2022-10-30 - v2.1.0
 
 * Converted index and settings to TypeScript
