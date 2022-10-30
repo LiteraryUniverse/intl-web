@@ -12,5 +12,7 @@ export default {
     'sharing.line': 'LINE',
     'sharing.mastodonSocial': 'mastodon.social',
     'sharing.mastodonJapan': 'mstdn.jp',
-    'sharing.gab': 'Gab'
+    'sharing.gab': 'Gab',
+    'sharing.pinterest': 'Pinterest',
+    'sharing.gettr': 'Gettr'
 };
