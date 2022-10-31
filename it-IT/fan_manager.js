@@ -12,5 +12,9 @@ export default {
   'fanManager.publicComment': 'Public comment',
   'fanManager.publicComment.desc': 'This text will be displayed on the public page as your official comment on this art.',
   'fanManager.authorComment': 'Comment for the author',
-  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.'
+  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.',
+  'fanManager.stateChange.approve': 'Approve fan art',
+  'fanManager.stateChange.reject': 'Reject fan art',
+  'fanManager.stateChange.hide': 'Hide fan art',
+  'fanManager.stateChange.unhide': 'Make fan art visible'
 };
