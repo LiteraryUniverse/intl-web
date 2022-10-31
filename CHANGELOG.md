@@ -4,6 +4,7 @@
 
 * Add Gettr and Pinterest to sharing translation
 * Add missing strings for fan manager
+* Fix indexes for non `en` translations
 
 ## 2022-10-30 - v2.1.0
 

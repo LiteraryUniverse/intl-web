@@ -28,9 +28,43 @@ import writer from './writer'
 import universe from './universe'
 import audit from './audit'
 import user from './user'
+import forums from './forums'
+import notifications from './notifications'
+import roadmap from './roadmap'
+import events from './events'
+import fanManager from './fan_manager'
 
 export default {
-  locales: ['es', 'es-ES', 'es-AR', 'es-BO', 'es-BR', 'es-BZ', 'es-CL', 'es-CO', 'es-CR', 'es-CU', 'es-DO', 'es-EA', 'es-EC', 'ES-GQ', 'es-GT', 'es-HN', 'es-IC', 'es-MX', 'es-NI', ' es-PA', 'es-PE', 'es-PH', 'es-PR', 'es-PY', 'es-SV', 'es-US', 'es-UY', 'es-VE'],
+  locales: [
+    'es',
+    'es-ES',
+    'es-AR',
+    'es-BO',
+    'es-BR',
+    'es-BZ',
+    'es-CL',
+    'es-CO',
+    'es-CR',
+    'es-CU',
+    'es-DO',
+    'es-EA',
+    'es-EC',
+    'ES-GQ',
+    'es-GT',
+    'es-HN',
+    'es-IC',
+    'es-MX',
+    'es-NI',
+    ' es-PA',
+    'es-PE',
+    'es-PH',
+    'es-PR',
+    'es-PY',
+    'es-SV',
+    'es-US',
+    'es-UY',
+    'es-VE'
+  ],
   ...common,
   ...form,
   ...emails,
@@ -60,5 +94,10 @@ export default {
   ...legal,
   ...universe,
   ...audit,
-  ...user
+  ...user,
+  ...forums,
+  ...notifications,
+  ...roadmap,
+  ...events,
+  ...fanManager
 }

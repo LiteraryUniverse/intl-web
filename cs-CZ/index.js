@@ -28,6 +28,11 @@ import writer from './writer'
 import universe from './universe'
 import audit from './audit'
 import user from './user'
+import forums from './forums'
+import notifications from './notifications'
+import roadmap from './roadmap'
+import events from './events'
+import fanManager from './fan_manager'
 
 export default {
   locales: ['cs', 'cs-CZ'],
@@ -60,5 +65,10 @@ export default {
   ...legal,
   ...universe,
   ...audit,
-  ...user
+  ...user,
+  ...forums,
+  ...notifications,
+  ...roadmap,
+  ...events,
+  ...fanManager
 }
