@@ -1,8 +1,9 @@
 # Changelog for languages
 
-## 2020-11-XX - v2.1.1
+## 2020-11-01 - v2.1.1
 
 * Add Gettr and Pinterest to sharing translation
+* Add missing strings for fan manager
 
 ## 2022-10-30 - v2.1.0
 
