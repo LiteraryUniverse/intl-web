@@ -27,5 +27,8 @@ export default {
   'universe.stories.desc': 'Cannon stories for {universe}',
   'universe.encyclopedia.title': '{universe} encyclopedia',
   'universe.encyclopedia.desc': 'All the details for {universe}',
-  'universe.fanArt.submit': 'Submit your art'
+  'universe.fanArt.submit': 'Submit your art',
+  'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
+  'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
+  'universe.fanArtHeaderDesc.overview': '{universe} fan art'
 }
