@@ -200,6 +200,7 @@ export default {
   'common.members': 'Members',
   'common.language': 'Language',
   next: 'Next',
+  previous: 'Previous',
   'common.legal.tos.short': 'Terms',
   'common.legal.privacy.short': 'Privacy',
   'premium.increaseLimit': 'Consider upgrading to increase you limit.',
