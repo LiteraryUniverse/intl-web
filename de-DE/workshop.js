@@ -232,5 +232,6 @@ export default {
     'workshop.work.includesAds': 'Gibt es Werbung oder Produktplatzierungen in dem Werk?',
     'workshop.universe.forumSettings': 'Einstellungen des internen Universumsforums',
     'workshop.universe.forum': 'Internes {universeName} Forum',
-    'workshop.ratingAdjusted': 'Aufgrund von Beschwerden mussten wir Ihre Bewertung so anpassen, wie wir es für angemessen hielten. Daher ist die Änderung der Bewertung nun deaktiviert.'
+    'workshop.ratingAdjusted': 'Aufgrund von Beschwerden mussten wir Ihre Bewertung so anpassen, wie wir es für angemessen hielten. Daher ist die Änderung der Bewertung nun deaktiviert.',
+    'workshop.selectCollaborator': 'Select collaborator'
 };
