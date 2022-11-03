@@ -185,6 +185,7 @@ export default {
     'common.members': 'Учасники',
     'common.language': 'Мова',
     next: 'Далі',
+    previous: 'Previous',
     'common.legal.tos.short': 'Умови',
     'common.legal.privacy.short': 'Конфіденційність',
     'premium.increaseLimit': 'Розгляньте оновлення, щоб збільшити ліміт.',
