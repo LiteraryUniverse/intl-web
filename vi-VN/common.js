@@ -185,6 +185,7 @@ export default {
     'common.members': 'Thành viên',
     'common.language': 'Ngôn ngữ',
     next: 'Tiếp theo',
+    previous: 'Previous',
     'common.legal.tos.short': 'Điều khoản',
     'common.legal.privacy.short': 'Quyền riêng tư',
     'premium.increaseLimit': 'Consider upgrading to increase you limit.',
