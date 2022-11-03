@@ -185,6 +185,7 @@ export default {
     'common.members': 'メンバー',
     'common.language': '言語',
     next: '次へ',
+    previous: 'Previous',
     'common.legal.tos.short': '条件',
     'common.legal.privacy.short': '通知',
     'premium.increaseLimit': '限度額を増やすためにアップグレードを検討してください。',
