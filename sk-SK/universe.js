@@ -28,7 +28,7 @@ export default {
     'universe.encyclopedia.title': 'encyklopédia {universe}',
     'universe.encyclopedia.desc': 'Všetky podrobnosti pre {universe}',
     'universe.fanArt.submit': 'Odoslať vaše umenie',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.fanArtHeaderDesc.item': '{universe} fanúšikovské umenie - {name}',
+    'universe.fanArtHeaderDesc.submit': 'Predloženie fanúšikovského umenia {universe}',
+    'universe.fanArtHeaderDesc.overview': '{universe} umenie fanúšikov'
 };
