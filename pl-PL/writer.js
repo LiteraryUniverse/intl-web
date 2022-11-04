@@ -16,5 +16,5 @@ export default {
     'finder.remove': 'usuń połączenie',
     'finder.connect': 'Połącz zaznaczenie z wpisem encyklopedii',
     'writer.aside.ariaLabel': 'Menu opcji pomocy',
-    'writer.nothingToSave': 'Nothing to save'
+    'writer.nothingToSave': 'Nie ma nic do zapisania'
 };
