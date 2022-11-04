@@ -13,8 +13,8 @@ export default {
   'fanManager.publicComment.desc': 'この文章は、このアートに対するあなたの公式コメントとして、公開ページに表示されます。',
   'fanManager.authorComment': '著者へのコメント',
   'fanManager.authorComment.desc': 'これは、あなたからこのアートの作者への私的なコメントです。',
-  'fanManager.stateChange.approve': 'Approve fan art',
-  'fanManager.stateChange.reject': 'Reject fan art',
-  'fanManager.stateChange.hide': 'Hide fan art',
-  'fanManager.stateChange.unhide': 'Make fan art visible'
+  'fanManager.stateChange.approve': 'ファンアートを承認する',
+  'fanManager.stateChange.reject': 'ファンアートを拒否',
+  'fanManager.stateChange.hide': 'ファンアートを隠す',
+  'fanManager.stateChange.unhide': 'ファンアートを可視化する'
 };
