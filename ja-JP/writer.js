@@ -16,5 +16,5 @@ export default {
     'finder.remove': '接続解除',
     'finder.connect': '選択肢を百科事典の項目に接続',
     'writer.aside.ariaLabel': 'ヘルプオプションメニュー',
-    'writer.nothingToSave': 'Nothing to save'
+    'writer.nothingToSave': 'セーブする記録がありません。'
 };
