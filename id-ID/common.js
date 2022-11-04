@@ -185,6 +185,7 @@ export default {
     'common.members': 'Anggota',
     'common.language': 'Bahasa',
     next: 'Selanjutnya',
+    previous: 'Previous',
     'common.legal.tos.short': 'Ketentuan',
     'common.legal.privacy.short': 'Privasi',
     'premium.increaseLimit': 'Pertimbangkan meng-upgrade untuk menaikkan limit Anda.',

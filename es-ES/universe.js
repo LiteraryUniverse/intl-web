@@ -26,5 +26,8 @@ export default {
     'universe.stories.desc': 'Historias canónicas para {universe}',
     'universe.encyclopedia.title': 'Enciclopedia de {universe}',
     'universe.encyclopedia.desc': 'Todos los detalles para {universe}',
-    'universe.fanArt.submit': 'Envíe su arte'
+    'universe.fanArt.submit': 'Envíe su arte',
+    'universe.fanArtHeaderDesc.item': 'Fan art de {universe} - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} envíos de fan art',
+    'universe.fanArtHeaderDesc.overview': 'Fan art de {universe}'
 };

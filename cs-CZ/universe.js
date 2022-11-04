@@ -27,5 +27,8 @@ export default {
     'universe.stories.desc': 'Cannon příběhy pro {universe}',
     'universe.encyclopedia.title': '{universe} encyklopedie',
     'universe.encyclopedia.desc': 'Všechny podrobnosti pro {universe}',
-    'universe.fanArt.submit': 'Poslat obrázek'
+    'universe.fanArt.submit': 'Poslat obrázek',
+    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} fan art příspěvek',
+    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
 };

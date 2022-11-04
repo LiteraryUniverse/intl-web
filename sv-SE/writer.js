@@ -15,5 +15,6 @@ export default {
     'finder.details': 'details',
     'finder.remove': 'remove the connection',
     'finder.connect': 'Connect selection to encyclopedia entry',
-    'writer.aside.ariaLabel': 'Help options menu'
+    'writer.aside.ariaLabel': 'Help options menu',
+    'writer.nothingToSave': 'Inget att spara'
 };

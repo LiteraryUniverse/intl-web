@@ -12,5 +12,9 @@ export default {
   'fanManager.publicComment': 'Öffentlicher Kommentar',
   'fanManager.publicComment.desc': 'Dieser Text wird auf der öffentlichen Seite als Ihr offizieller Kommentar zu diesem Kunstwerk angezeigt.',
   'fanManager.authorComment': 'Kommentar für den Autor',
-  'fanManager.authorComment.desc': 'Dies ist ein privater Kommentar von Ihnen an den Autor dieses Werkes.'
+  'fanManager.authorComment.desc': 'Dies ist ein privater Kommentar von Ihnen an den Autor dieses Werkes.',
+  'fanManager.stateChange.approve': 'Fan-Kunst genehmigen',
+  'fanManager.stateChange.reject': 'Fan-Kunst ablehnen',
+  'fanManager.stateChange.hide': 'Fan-Kunst ausblenden',
+  'fanManager.stateChange.unhide': 'Fan-Kunst sichtbar machen'
 };

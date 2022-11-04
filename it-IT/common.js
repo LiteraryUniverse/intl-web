@@ -185,6 +185,7 @@ export default {
     'common.members': 'Membri',
     'common.language': 'Lingua',
     next: 'Avanti',
+    previous: 'Previous',
     'common.legal.tos.short': 'Termini',
     'common.legal.privacy.short': 'Privacy',
     'premium.increaseLimit': 'Considera l\'upgrade per avere un limite maggiore.',

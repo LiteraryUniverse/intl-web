@@ -220,5 +220,6 @@ export default {
     'workshop.work.includesAds': '作品の中に広告や商品の紹介はありますか？',
     'workshop.universe.forumSettings': '内部宇宙フォーラムの設定',
     'workshop.universe.forum': '内部 {universeName} フォーラム',
-    'workshop.ratingAdjusted': 'ご指摘を受け、適切と思われるレーティングに変更させていただきました。そのため、現在レーティングの変更は無効になっています。'
+    'workshop.ratingAdjusted': 'ご指摘を受け、適切と思われるレーティングに変更させていただきました。そのため、現在レーティングの変更は無効になっています。',
+    'workshop.selectCollaborator': 'コラボレーターを選択'
 };
