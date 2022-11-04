@@ -13,8 +13,8 @@ export default {
   'fanManager.publicComment.desc': 'Tento text se zobrazí na veřejné stránce jako váš oficiální komentář k tomuto obrázku.',
   'fanManager.authorComment': 'Komentář pro autora',
   'fanManager.authorComment.desc': 'Toto je váš soukromý komentář k autorovi tohoto fanouškovského obrázku.',
-  'fanManager.stateChange.approve': 'Approve fan art',
-  'fanManager.stateChange.reject': 'Reject fan art',
-  'fanManager.stateChange.hide': 'Hide fan art',
-  'fanManager.stateChange.unhide': 'Make fan art visible'
+  'fanManager.stateChange.approve': 'Schválit fan art',
+  'fanManager.stateChange.reject': 'Odmítnout fan art',
+  'fanManager.stateChange.hide': 'Skrýt fan art',
+  'fanManager.stateChange.unhide': 'Zviditelnit fan art'
 };
