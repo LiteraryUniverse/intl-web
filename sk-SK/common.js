@@ -185,7 +185,7 @@ export default {
     'common.members': 'Členovia',
     'common.language': 'Jazyk',
     next: 'Ďalšie',
-    previous: 'Previous',
+    previous: 'Predošlá',
     'common.legal.tos.short': 'Podmienky',
     'common.legal.privacy.short': 'Súkromie',
     'premium.increaseLimit': 'Zvážte upgrade, aby ste zvýšili svoj limit.',
