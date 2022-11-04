@@ -23,7 +23,7 @@ export default {
     'universe.encyclopedia.title': '{universe}百科事典',
     'universe.encyclopedia.desc': '{universe}のすべての詳細',
     'universe.fanArt.submit': '作品を投稿する',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.fanArtHeaderDesc.item': '{universe} ファンアート - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} 個のファンアート投稿',
+    'universe.fanArtHeaderDesc.overview': '{universe} ファンアート'
 };
