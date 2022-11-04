@@ -16,5 +16,5 @@ export default {
     'finder.remove': 'odstrániť spojenie',
     'finder.connect': 'Pripojenie výberu k záznamu v encyklopédii',
     'writer.aside.ariaLabel': 'Menu postráního panelu',
-    'writer.nothingToSave': 'Nothing to save'
+    'writer.nothingToSave': 'Nie je čo uložiť'
 };
