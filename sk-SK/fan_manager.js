@@ -13,8 +13,8 @@ export default {
   'fanManager.publicComment.desc': 'Tento text sa zobrazí na verejnej stránke ako váš oficiálny komentár k tomuto dielu.',
   'fanManager.authorComment': 'Komentár pre autora',
   'fanManager.authorComment.desc': 'Toto je váš súkromný komentár autorovi tohto diela.',
-  'fanManager.stateChange.approve': 'Approve fan art',
-  'fanManager.stateChange.reject': 'Reject fan art',
-  'fanManager.stateChange.hide': 'Hide fan art',
-  'fanManager.stateChange.unhide': 'Make fan art visible'
+  'fanManager.stateChange.approve': 'Schváliť fanúšikovské umenie',
+  'fanManager.stateChange.reject': 'Odmietnuť fanúšikovské umenie',
+  'fanManager.stateChange.hide': 'Skryť fanúšikovské umenie',
+  'fanManager.stateChange.unhide': 'Zviditeľnite fanúšikovské umenie'
 };
