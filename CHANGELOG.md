@@ -1,11 +1,12 @@
 # Changelog for languages
 
-## 2020-11-03 - v2.1.1
+## 2020-11-04 - v2.1.1
 
 * Add Gettr and Pinterest to sharing translation
 * Add missing strings for fan manager
 * Fix indexes for non `en` translations
 * Add missing string `workshop.selectCollaborator`
+* Add error message `writer.nothingToSave`
 
 ## 2022-10-30 - v2.1.0
 
