@@ -27,7 +27,7 @@ export default {
     'universe.encyclopedia.title': '{universe} Enzyklopädie',
     'universe.encyclopedia.desc': 'Alle Details für {universe}',
     'universe.fanArt.submit': 'Reichen Sie Ihre Kunst ein',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.fanArtHeaderDesc.item': '{universe} Fan-Kunst - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} Fan-Art-Einreichungen',
+    'universe.fanArtHeaderDesc.overview': '{universe} Fan-Kunst'
 };
