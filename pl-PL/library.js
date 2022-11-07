@@ -3,5 +3,5 @@ export default {
     'library.remove': 'Usuń z biblioteczki',
     'library.bought': 'Zakupione opowieści',
     'library.stories': 'Obserwowane opowieści',
-    'library.universes': 'Obserwowane uniwersum'
+    'library.universes': 'Podążanie za wszechświatami'
 };
