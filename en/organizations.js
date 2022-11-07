@@ -58,5 +58,7 @@ export default {
   'org.teams': 'Teams',
   'org.teams.total': 'Total teams: {totalTeams, number}',
   'org.teams.create': 'Create a new team',
-  'org.teams.settings': 'Team settings'
+  'org.teams.settings': 'Team settings',
+  'org.workshop.ownerUser': 'Not a guild work',
+  'org.workshop.caption': 'Guild ownership'
 }
