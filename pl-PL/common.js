@@ -185,7 +185,7 @@ export default {
     'common.members': 'Członkowie',
     'common.language': 'Język',
     next: 'Dalej',
-    previous: 'Previous',
+    previous: 'Poprzednie',
     'common.legal.tos.short': 'Regulamin',
     'common.legal.privacy.short': 'Prywatność',
     'premium.increaseLimit': 'Rozważ ulepszenie aby zwiększyć limit.',
