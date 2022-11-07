@@ -1,9 +1,9 @@
 export default {
-    'sharing.title': 'Share',
-    'sharing.button': 'Sharing Button',
-    'sharing.share': 'Share with...',
-    'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
-    'sharing.copy': 'Copy',
+    'sharing.title': 'Поділитися',
+    'sharing.button': 'Кнопка Поділитися',
+    'sharing.share': 'Поділитися...',
+    'sharing.feedback': 'Ми пропустили якесь місце, про яке ви хотіли б розповісти? Повідомте нам про це!',
+    'sharing.copy': 'Прийнято',
     'sharing.email': 'E-Mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
@@ -14,7 +14,7 @@ export default {
     'sharing.facebook': 'Facebook',
     'sharing.line': 'LINE',
     'sharing.mastodonSocial': 'Mastodon Social',
-    'sharing.mastodonJapan': 'Mastodon Japan',
+    'sharing.mastodonJapan': 'Mastodon Японія',
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr'
