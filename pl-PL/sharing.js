@@ -1,8 +1,8 @@
 export default {
     'sharing.title': 'Udostępnij',
-    'sharing.button': 'Sharing Button',
-    'sharing.share': 'Share with...',
-    'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
+    'sharing.button': 'Przycisk udostępniania',
+    'sharing.share': 'Udostępnij z...',
+    'sharing.feedback': 'Brakuje nam jakiegoś miejsca, którym chciałbyś się podzielić? Daj nam o tym znać!',
     'sharing.copy': 'Skopiuj',
     'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
@@ -14,7 +14,7 @@ export default {
     'sharing.facebook': 'Facebook',
     'sharing.line': 'LINE',
     'sharing.mastodonSocial': 'Mastodon Social',
-    'sharing.mastodonJapan': 'Mastodon Japan',
+    'sharing.mastodonJapan': 'Mastodon Japonia',
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr'
