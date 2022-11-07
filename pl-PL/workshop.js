@@ -50,7 +50,7 @@ export default {
     'workshop.story.publishing.notice': 'Opowiadanie zostanie opublikowane automatycznie po opublikowaniu pierwszego rozdziału.',
     'workshop.settings.edit': 'Edytuj ustawienia',
     'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
-    'workshop.story.settings': 'Story settings',
+    'workshop.story.settings': 'Ustawienia opowieści',
     'workshop.settings.basic': 'Podstawowe ustawienia',
     'workshop.settings.genres': 'Genres (max 2)',
     'workshop.story.license': 'Licencja na opowiadanie',
@@ -222,12 +222,12 @@ export default {
     'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': 'Niezdecydowany',
-    'workshop.revShare.origLangCreators': 'Original language creators',
+    'workshop.revShare.origLangCreators': 'Twórcy języka oryginalnego',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Rozdział {sequence, number}',
     'workshop.work.includesAds': 'Czy w pracy są jakieś reklamy lub lokowanie produktu?',
     'workshop.universe.forumSettings': 'Ustawienia wewnętrznego forum wszechświata',
     'workshop.universe.forum': 'Wewnętrzne forum {universeName}',
-    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
-    'workshop.selectCollaborator': 'Select collaborator'
+    'workshop.ratingAdjusted': 'Z powodu skarg musieliśmy dostosować Twoją ocenę do tej, którą uznaliśmy za właściwą. W związku z tym zmiana oceny jest teraz wyłączona.',
+    'workshop.selectCollaborator': 'Wybierz współpracownika'
 };
