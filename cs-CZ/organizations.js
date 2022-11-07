@@ -51,5 +51,7 @@ export default {
     'org.teams': 'Týmy',
     'org.teams.total': 'Celkem týmů: {totalTeams, number}',
     'org.teams.create': 'Vytvořit nový tým',
-    'org.teams.settings': 'Nastavení týmu'
+    'org.teams.settings': 'Nastavení týmu',
+    'org.workshop.ownerUser': 'Není to práce guildy',
+    'org.workshop.caption': 'Vlastnictví guildy'
 };
