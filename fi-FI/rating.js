@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Ikäluokitus',
+    'rating.explained': 'Ikäluokitus ja rajoitus.',
+    'rating.all': 'Kaikki',
+    'rating.desc.all': 'Sopii kaikenikäisille ja -ryhmille.',
+    'rating.teens': 'Teini',
+    'rating.desc.teens': 'Sopii 12-18-vuotiaille katsojille.',
+    'rating.mature': 'Kypsä',
+    'rating.desc.mature': 'Sisältää ennakkoteemoja, karkeaa kieltä ja epäsuoria kohtauksia.',
+    'rating.explicit': 'Eksplisiittinen',
+    'rating.desc.explicit': 'Sisältää selkeitä kohtauksia.',
+    'rating.selection.all': 'Kaikki - Sopii kaikenikäisille ja -ryhmille.',
+    'rating.selection.teens': 'Teini (12-18) - Sopii 12-18-vuotiaille.',
+    'rating.selection.mature': 'Kypsä (18+) - Sisältää ennakkoteemoja, karkeaa kieltä ja epäsuoria kohtauksia.',
+    'rating.selection.explicit': 'Eksplisiittinen (21+) - Sisältää selkeitä kohtauksia.'
 };
