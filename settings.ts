@@ -113,6 +113,32 @@ export default {
   supportedLanguages(): string[] {
     return this.languages.map((lang) => lang.code) || []
   },
+  allSupportedLocales(): string[] {
+    const supported = []
+    this.languages.forEach((lang) =>
+      lang.supportedLocales.forEach((locale) => supported.push(locale))
+    )
+    return supported
+  },
+  supportedLocalesForLanguage(languageCode: string): string[] {
+    const langDetails = this.languages.find(
+      (lang) => lang.code === languageCode
+    )
+    return [langDetails.code, ...langDetails.supportedLocales]
+  },
+  findLanguageCodeByLocale(locale: string): string {
+    if (locale.length === 2 && this.supportedLanguages().includes(locale)) {
+      return locale
+    }
+    if (locale.length === 5) {
+      // Go by supported locales
+      const language = this.languages.find((lang) =>
+        lang.supportedLocales.includes(locale)
+      )
+      if (language) return language.code
+    }
+    return 'en'
+  },
   /**
    * Returns details of all supported languages for stories.
    * This includes stories supported through the app in addition to those listed here.

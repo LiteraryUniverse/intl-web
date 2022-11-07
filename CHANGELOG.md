@@ -1,6 +1,11 @@
 # Changelog for languages
 
-## 2020-11-04 - v2.1.1
+## 2022-11-07 - v2.2.0
+
+* Added additional strings for sharing
+* New functions: `allSupportedLocales`, `supportedLocalesForLanguage` and `findLanguageCodeByLocale`
+
+## 2022-11-04 - v2.1.1
 
 * Add Gettr and Pinterest to sharing translation
 * Add missing strings for fan manager
