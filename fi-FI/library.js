@@ -1,7 +1,7 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universe'
+    'library.add': 'Lisää kirjastoon',
+    'library.remove': 'Poista kirjastosta',
+    'library.bought': 'Ostetut tarinat',
+    'library.stories': 'Seuratut tarinat',
+    'library.universes': 'Followed universes'
 };
