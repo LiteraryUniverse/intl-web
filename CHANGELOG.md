@@ -4,6 +4,8 @@
 
 * Added additional strings for sharing
 * New functions: `allSupportedLocales`, `supportedLocalesForLanguage` and `findLanguageCodeByLocale`
+* Add missing strings `org.workshop.ownerUser` and `org.workshop.caption` to workshop
+* Fix typo in `library.universes`
 
 ## 2022-11-04 - v2.1.1
 
