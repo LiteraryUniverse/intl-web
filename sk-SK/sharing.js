@@ -1,5 +1,8 @@
 export default {
     'sharing.title': 'Sdílet',
+    'sharing.button': 'Tlačidlo zdieľať',
+    'sharing.share': 'Zdielať na...',
+    'sharing.feedback': 'Chýba nám nejaké miesto, na ktorém by ste chceli zdielať? Dajte nám o ňom vedieť!',
     'sharing.copy': 'Kopírovat',
     'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
@@ -10,8 +13,8 @@ export default {
     'sharing.telegram': 'Telegram',
     'sharing.facebook': 'Facebook',
     'sharing.line': 'LINE',
-    'sharing.mastodonSocial': 'mastodon.social',
-    'sharing.mastodonJapan': 'mstdn.jp',
+    'sharing.mastodonSocial': 'Mastodon Social',
+    'sharing.mastodonJapan': 'Mastodon Japonsko',
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr'

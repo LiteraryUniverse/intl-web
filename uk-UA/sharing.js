@@ -1,6 +1,9 @@
 export default {
-    'sharing.title': 'Share',
-    'sharing.copy': 'Copy',
+    'sharing.title': 'Поділитися',
+    'sharing.button': 'Кнопка Поділитися',
+    'sharing.share': 'Поділитися...',
+    'sharing.feedback': 'Ми пропустили якесь місце, про яке ви хотіли б розповісти? Повідомте нам про це!',
+    'sharing.copy': 'Прийнято',
     'sharing.email': 'E-Mail',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
@@ -10,8 +13,8 @@ export default {
     'sharing.telegram': 'Telegram',
     'sharing.facebook': 'Facebook',
     'sharing.line': 'LINE',
-    'sharing.mastodonSocial': 'mastodon.social',
-    'sharing.mastodonJapan': 'mstdn.jp',
+    'sharing.mastodonSocial': 'Mastodon Social',
+    'sharing.mastodonJapan': 'Mastodon Японія',
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr'

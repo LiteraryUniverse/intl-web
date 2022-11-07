@@ -1,5 +1,8 @@
 export default {
     'sharing.title': 'Jaa',
+    'sharing.button': 'Jakaminen-painike',
+    'sharing.share': 'Jaa...',
+    'sharing.feedback': 'Puuttuuko meiltä jokin paikka, jonka haluaisit jakaa? Kerro meille siitä!',
     'sharing.copy': 'Kopioi',
     'sharing.email': 'Sähköposti',
     'sharing.sms': 'SMS',
@@ -10,8 +13,8 @@ export default {
     'sharing.telegram': 'Telegram',
     'sharing.facebook': 'Facebook',
     'sharing.line': 'LINE',
-    'sharing.mastodonSocial': 'mastodon.social',
-    'sharing.mastodonJapan': 'mstdn.jp',
+    'sharing.mastodonSocial': 'Mastodon Social',
+    'sharing.mastodonJapan': 'Mastodon Japani',
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr'

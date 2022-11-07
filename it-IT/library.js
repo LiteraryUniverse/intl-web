@@ -3,5 +3,5 @@ export default {
     'library.remove': 'Rimuovi dalla libreria',
     'library.bought': 'Storie acquistate',
     'library.stories': 'Storie seguite',
-    'library.universes': 'Universo seguito'
+    'library.universes': 'Followed universes'
 };

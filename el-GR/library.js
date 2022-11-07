@@ -3,5 +3,5 @@ export default {
     'library.remove': 'Αφαίρεση από τη βιβλιοθήκη',
     'library.bought': 'Αγόρασε ιστορίες',
     'library.stories': 'Ακολούθησαν ιστορίες',
-    'library.universes': 'Ακολουθούμενο σύμπαν'
+    'library.universes': 'Followed universes'
 };

@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Lunasta tilisi!',
+    'enrollment.description': 'Tervetuloa {username}! Saadaksesi pääsyn erityistilillesi sinun tarvitsee vain luoda salasana.',
+    'enrollment.submitting': 'Tilisi lunastaminen...',
+    'enrollment.submit': 'Lunasta tilisi!'
 };

@@ -51,5 +51,7 @@ export default {
     'org.teams': 'チーム',
     'org.teams.total': '総チーム数： {totalTeams, number}',
     'org.teams.create': '新しいチームを作る',
-    'org.teams.settings': 'チーム設定'
+    'org.teams.settings': 'チーム設定',
+    'org.workshop.ownerUser': 'ギルド作品ではありません',
+    'org.workshop.caption': 'ギルドの所有権'
 };

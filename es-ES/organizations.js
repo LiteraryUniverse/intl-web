@@ -51,5 +51,7 @@ export default {
     'org.teams': 'Equipos',
     'org.teams.total': 'Equipos totales: {totalTeams, number}',
     'org.teams.create': 'Crear un nuevo equipo',
-    'org.teams.settings': 'Configuración del equipo'
+    'org.teams.settings': 'Configuración del equipo',
+    'org.workshop.ownerUser': 'No es una obra gremial',
+    'org.workshop.caption': 'Propiedad del gremio'
 };

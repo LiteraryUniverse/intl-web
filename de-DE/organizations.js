@@ -51,5 +51,7 @@ export default {
     'org.teams': 'Teams',
     'org.teams.total': 'Mannschaften insgesamt: {totalTeams, number}',
     'org.teams.create': 'Ein neues Team erstellen',
-    'org.teams.settings': 'Teameinstellungen'
+    'org.teams.settings': 'Teameinstellungen',
+    'org.workshop.ownerUser': 'Keine Gildenarbeit',
+    'org.workshop.caption': 'Eigentum der Gilde'
 };
