@@ -29,7 +29,7 @@ export default {
     'universe.encyclopedia.title': '{universe} encyklopedia',
     'universe.encyclopedia.desc': 'Wszystkie szczegóły dla {universe}',
     'universe.fanArt.submit': 'Zgłoś swoją sztukę',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.fanArtHeaderDesc.item': '{universe} sztuka fanów - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} przedłożenie sztuki fanów',
+    'universe.fanArtHeaderDesc.overview': '{universe} sztuka fanów'
 };
