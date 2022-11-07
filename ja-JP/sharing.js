@@ -1,8 +1,8 @@
 export default {
     'sharing.title': '共有する',
-    'sharing.button': 'Sharing Button',
-    'sharing.share': 'Share with...',
-    'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
+    'sharing.button': '共有ボタン',
+    'sharing.share': '共有する',
+    'sharing.feedback': '共有したい場所がありませんか。お知らせください。',
     'sharing.copy': 'コピーする',
     'sharing.email': 'メール',
     'sharing.sms': '連絡先を選択してください',
@@ -14,7 +14,7 @@ export default {
     'sharing.facebook': 'Facebook',
     'sharing.line': 'LINE',
     'sharing.mastodonSocial': 'Mastodon Social',
-    'sharing.mastodonJapan': 'Mastodon Japan',
+    'sharing.mastodonJapan': 'Mastodon日本',
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr'
