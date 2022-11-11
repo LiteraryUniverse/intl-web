@@ -23,6 +23,11 @@ export default {
     'We hope that you join us as we explore what the internet medium can do for creative writing!',
   'about.team': 'The team',
   'about.history': 'History',
+  'about.company': 'The company',
+  'about.companyCountry.czechia': 'Czechia',
+  'about.companyCountry.japan': 'Japan',
+  'about.companyCity.prague': 'Prague',
+  'about.companyCity.sendai': 'Sendai',
   'about.CEO': 'Chief Executive Officer',
   'about.CTO': 'Chief Technology Officer',
   'about.jan':
