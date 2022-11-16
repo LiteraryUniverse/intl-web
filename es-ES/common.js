@@ -226,5 +226,7 @@ export default {
     'common.reject': 'Rechazar',
     'common.events': 'Eventos',
     'common.event': 'Evento',
-    'common.all': 'Todos'
+    'common.all': 'Todos',
+    'common.social': 'Social',
+    'common.discordCommunity': 'Discord Community'
 }    /* eslint-enable max-len */;
