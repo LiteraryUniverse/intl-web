@@ -3,6 +3,7 @@
 ## 2022-11-12 - v2.2.1
 
 * Add strings for new stuff on about us page
+* New strings related to re-designed top navigation
 
 ## 2022-11-07 - v2.2.0
 
