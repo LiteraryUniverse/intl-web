@@ -226,5 +226,7 @@ export default {
     'common.reject': '拒絶する',
     'common.events': 'イベント',
     'common.event': 'イベント',
-    'common.all': 'すべて'
+    'common.all': 'すべて',
+    'common.social': 'Social',
+    'common.discordCommunity': 'Discord Community'
 }    /* eslint-enable max-len */;
