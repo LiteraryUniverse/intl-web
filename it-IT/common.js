@@ -226,5 +226,7 @@ export default {
     'common.reject': 'Rifiuta',
     'common.events': 'Eventi',
     'common.event': 'Evento',
-    'common.all': 'All'
+    'common.all': 'All',
+    'common.social': 'Social',
+    'common.discordCommunity': 'Discord Community'
 }    /* eslint-enable max-len */;
