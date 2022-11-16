@@ -226,5 +226,7 @@ export default {
     'common.reject': 'Odrzuć',
     'common.events': 'Spotkania',
     'common.event': 'Spotkanie',
-    'common.all': 'Wszystkie'
+    'common.all': 'Wszystkie',
+    'common.social': 'Social',
+    'common.discordCommunity': 'Discord Community'
 }    /* eslint-enable max-len */;
