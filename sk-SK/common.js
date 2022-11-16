@@ -226,5 +226,7 @@ export default {
     'common.reject': 'Odmietnuť',
     'common.events': 'Stretnutia',
     'common.event': 'Stretnutie',
-    'common.all': 'Všetko'
+    'common.all': 'Všetko',
+    'common.social': 'Social',
+    'common.discordCommunity': 'Discord Community'
 }    /* eslint-enable max-len */;
