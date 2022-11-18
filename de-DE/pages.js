@@ -65,15 +65,19 @@ export default {
     'about.attributionsIntro': 'Literary Universe baut auf vielen Open-Source-Projekten und anderen Ressourcen auf. Unten finden Sie deren Auflistung.',
     'about.attributionsMatomo': 'Unsere Analysen verwenden das selbst gehostete Matomo mit IP2Location LITE-Daten, die unter https://lite.ip2location.com verfügbar sind.',
     'about.attributionIcons': 'Die folgenden Icons werden auf der Website über Styled-Icons verwendet:',
-    'team.name.rhubbell': 'Raena Hubbell',
     'team.name.pjakubec': 'Pavel Jakubec',
     'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Entwickler',
     'about.seniorDeveloper': 'Senior Entwickler',
     'about.juniorDeveloper': 'Junior-Entwickler',
-    'about.apprenticeDeveloper': 'Lehrling Entwickler',
+    'about.leadDesigner': 'Lead designer',
+    'about.leadUX': 'Lead UX designer',
     'about.intern': 'Praktikant',
     'about.advisor': 'Berater',
     'about.headOfResearch': 'Leiter der Forschung',
-    'about.CFO': 'Finanzvorstand'
+    'about.CFO': 'Finanzvorstand',
+    'team.name.hsconovianus': 'Hendry Sconovianus',
+    'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
+    'about.pavel': 'Web3, Metaverse, AI, all that and anything new is what Pavel looks into and how it can be added to improve Literary Universe. A true multidisciplinary researcher Pavel holds insight into many areas and works on adding new interesting features to Literary Universe',
+    'about.seba': 'Once a gamer, Adam is now studying to become a fully fledged developer.'
 };
