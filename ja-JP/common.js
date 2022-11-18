@@ -227,8 +227,8 @@ export default {
     'common.events': 'イベント',
     'common.event': 'イベント',
     'common.all': 'すべて',
-    'common.social': 'Social',
-    'common.discordCommunity': 'Discord Community',
-    'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.social': '人付き合い',
+    'common.discordCommunity': 'Discordコミュニティ',
+    'common.account': 'アカウント',
+    'common.notifications': '通知'
 }    /* eslint-enable max-len */;
