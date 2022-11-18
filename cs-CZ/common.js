@@ -227,8 +227,8 @@ export default {
     'common.events': 'Akce',
     'common.event': 'Akce',
     'common.all': 'Vše',
-    'common.social': 'Social',
-    'common.discordCommunity': 'Discord Community',
-    'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.social': 'Komunita',
+    'common.discordCommunity': 'Discord komunita',
+    'common.account': 'Účet',
+    'common.notifications': 'Upozornění'
 }    /* eslint-enable max-len */;
