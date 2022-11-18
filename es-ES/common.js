@@ -227,8 +227,8 @@ export default {
     'common.events': 'Eventos',
     'common.event': 'Evento',
     'common.all': 'Todos',
-    'common.social': 'Social',
-    'common.discordCommunity': 'Discord Community',
-    'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.social': 'Comunidad',
+    'common.discordCommunity': 'Comunidad de Discord',
+    'common.account': 'Cuenta',
+    'common.notifications': 'Notificaciones'
 }    /* eslint-enable max-len */;
