@@ -13,7 +13,7 @@ export default {
     'workshop.translations': 'Tłumaczenia',
     'workshop.createnew': 'Utwórz nowy...',
     'workshop.story.standalone': 'Samodzielna historia',
-    'workshop.story.standalone.desc': 'This is a standalone story.',
+    'workshop.story.standalone.desc': 'To samodzielna opowieść.',
     'workshop.controlpanel': 'Panel sterowania {name}',
     'workshop.universe.page': 'Universe page',
     'workshop.fictionaltime': 'Czas fikcyjny',
