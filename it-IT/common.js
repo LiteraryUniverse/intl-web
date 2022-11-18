@@ -226,9 +226,9 @@ export default {
     'common.reject': 'Rifiuta',
     'common.events': 'Eventi',
     'common.event': 'Evento',
-    'common.all': 'All',
-    'common.social': 'Social',
-    'common.discordCommunity': 'Discord Community',
-    'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.all': 'Tutti',
+    'common.social': 'Sociale',
+    'common.discordCommunity': 'Comunità Di Discord',
+    'common.account': 'Profilo',
+    'common.notifications': 'Notifiche'
 }    /* eslint-enable max-len */;
