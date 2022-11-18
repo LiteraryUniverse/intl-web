@@ -227,8 +227,8 @@ export default {
     'common.events': 'Stretnutia',
     'common.event': 'Stretnutie',
     'common.all': 'Všetko',
-    'common.social': 'Social',
-    'common.discordCommunity': 'Discord Community',
-    'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.social': 'Komunita',
+    'common.discordCommunity': 'Discord komunita',
+    'common.account': 'Účet',
+    'common.notifications': 'Oznámenia'
 }    /* eslint-enable max-len */;
