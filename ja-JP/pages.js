@@ -65,15 +65,19 @@ export default {
     'about.attributionsIntro': '文学の宇宙は、多くのオープンソース・プロジェクトやフリー・リソースの上に構築されています。以下にそれらのリストを掲載します。',
     'about.attributionsMatomo': '当社の分析には、セルフホスティングのMatomoと、https://lite.ip2location.com から入手可能なIP2Location LITEデータを使用しています。',
     'about.attributionIcons': '以下のアイコンは、styled-iconsを介してサイト内で使用されています。',
-    'team.name.rhubbell': 'フベル・ラエナ',
     'team.name.pjakubec': 'ジャクベク・パブル',
     'team.name.asebesta': 'セベスタ・アダム',
     'about.developer': '開発者',
     'about.seniorDeveloper': '上級開発者',
     'about.juniorDeveloper': '下位開発者',
-    'about.apprenticeDeveloper': '開発者見習い',
+    'about.leadDesigner': 'Lead designer',
+    'about.leadUX': 'Lead UX designer',
     'about.intern': '実習生',
     'about.advisor': '顧問',
     'about.headOfResearch': '研究責任者',
-    'about.CFO': '最高財務責任者'
+    'about.CFO': '最高財務責任者',
+    'team.name.hsconovianus': 'Hendry Sconovianus',
+    'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
+    'about.pavel': 'Web3, Metaverse, AI, all that and anything new is what Pavel looks into and how it can be added to improve Literary Universe. A true multidisciplinary researcher Pavel holds insight into many areas and works on adding new interesting features to Literary Universe',
+    'about.seba': 'Once a gamer, Adam is now studying to become a fully fledged developer.'
 };
