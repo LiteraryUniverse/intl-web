@@ -226,5 +226,9 @@ export default {
     'common.reject': 'Rechazar',
     'common.events': 'Eventos',
     'common.event': 'Evento',
-    'common.all': 'Todos'
+    'common.all': 'Todos',
+    'common.social': 'Comunidad',
+    'common.discordCommunity': 'Comunidad de Discord',
+    'common.account': 'Cuenta',
+    'common.notifications': 'Notificaciones'
 }    /* eslint-enable max-len */;

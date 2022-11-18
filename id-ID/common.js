@@ -226,5 +226,9 @@ export default {
     'common.reject': 'Tolak',
     'common.events': 'Kegiatan',
     'common.event': 'Kegiatan',
-    'common.all': 'Semua'
+    'common.all': 'Semua',
+    'common.social': 'Social',
+    'common.discordCommunity': 'Discord Community',
+    'common.account': 'Account',
+    'common.notifications': 'Notifications'
 }    /* eslint-enable max-len */;
