@@ -226,5 +226,9 @@ export default {
     'common.reject': 'Ablehnen',
     'common.events': 'Ereignisse',
     'common.event': 'Ereignis',
-    'common.all': 'Alle'
+    'common.all': 'Alle',
+    'common.social': 'Gemeinschaft',
+    'common.discordCommunity': 'Discord-Gemeinschaft',
+    'common.account': 'Benutzerkonto',
+    'common.notifications': 'Benachrichtigungen'
 }    /* eslint-enable max-len */;

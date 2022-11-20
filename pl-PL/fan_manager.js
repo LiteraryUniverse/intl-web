@@ -9,12 +9,12 @@ export default {
   'fanManager.state.approved': 'Zaakceptowana',
   'fanManager.state.rejected': 'Odrzucony',
   'fanManager.state.hidden': 'Ukryta',
-  'fanManager.publicComment': 'Public comment',
-  'fanManager.publicComment.desc': 'This text will be displayed on the public page as your official comment on this art.',
-  'fanManager.authorComment': 'Comment for the author',
-  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.',
-  'fanManager.stateChange.approve': 'Approve fan art',
-  'fanManager.stateChange.reject': 'Reject fan art',
-  'fanManager.stateChange.hide': 'Hide fan art',
-  'fanManager.stateChange.unhide': 'Make fan art visible'
+  'fanManager.publicComment': 'Publiczny komentarz',
+  'fanManager.publicComment.desc': 'Ten tekst zostanie wyświetlony na stronie publicznej jako Twój oficjalny komentarz do tej sztuki.',
+  'fanManager.authorComment': 'Komentarz dla autora',
+  'fanManager.authorComment.desc': 'To jest prywatny komentarz od Ciebie do autora tej sztuki.',
+  'fanManager.stateChange.approve': 'Zatwierdzić fan art',
+  'fanManager.stateChange.reject': 'Odrzuć fan art',
+  'fanManager.stateChange.hide': 'Ukryj fan art',
+  'fanManager.stateChange.unhide': 'Spraw, by fan art był widoczny'
 };

@@ -226,5 +226,9 @@ export default {
     'common.reject': 'Відхилити',
     'common.events': 'Події',
     'common.event': 'Подія',
-    'common.all': 'Всі'
+    'common.all': 'Всі',
+    'common.social': 'Social',
+    'common.discordCommunity': 'Discord Community',
+    'common.account': 'Account',
+    'common.notifications': 'Notifications'
 }    /* eslint-enable max-len */;

@@ -185,7 +185,7 @@ export default {
     'common.members': 'Członkowie',
     'common.language': 'Język',
     next: 'Dalej',
-    previous: 'Previous',
+    previous: 'Poprzednie',
     'common.legal.tos.short': 'Regulamin',
     'common.legal.privacy.short': 'Prywatność',
     'premium.increaseLimit': 'Rozważ ulepszenie aby zwiększyć limit.',
@@ -226,5 +226,9 @@ export default {
     'common.reject': 'Odrzuć',
     'common.events': 'Spotkania',
     'common.event': 'Spotkanie',
-    'common.all': 'Wszystkie'
+    'common.all': 'Wszystkie',
+    'common.social': 'Społeczność',
+    'common.discordCommunity': 'Społeczność Discorda',
+    'common.account': 'Konto',
+    'common.notifications': 'Powiadomienia'
 }    /* eslint-enable max-len */;
