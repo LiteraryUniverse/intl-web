@@ -221,5 +221,6 @@ export default {
     'workshop.universe.forumSettings': '内部宇宙フォーラムの設定',
     'workshop.universe.forum': '内部 {universeName} フォーラム',
     'workshop.ratingAdjusted': 'ご指摘を受け、適切と思われるレーティングに変更させていただきました。そのため、現在レーティングの変更は無効になっています。',
-    'workshop.selectCollaborator': 'コラボレーターを選択'
+    'workshop.selectCollaborator': 'コラボレーターを選択',
+    'workshop.chapters.scheduledOn': 'Will be published on {publishDate, date, short} at {publishDate, time}'
 };
