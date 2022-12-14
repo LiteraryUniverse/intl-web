@@ -16,5 +16,10 @@ export default {
     'finder.remove': 'usuń połączenie',
     'finder.connect': 'Połącz zaznaczenie z wpisem encyklopedii',
     'writer.aside.ariaLabel': 'Menu opcji pomocy',
-    'writer.nothingToSave': 'Nie ma nic do zapisania'
+    'writer.nothingToSave': 'Nie ma nic do zapisania',
+    'writer.publish.publishAria': 'Publication options',
+    'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
+    'writer.publish.schedule': 'Set publication date time',
+    'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
+    'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}'
 };
