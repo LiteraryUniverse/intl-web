@@ -236,5 +236,6 @@ export default {
     'workshop.universe.forumSettings': 'Nastavenia interného fóra vesmíru',
     'workshop.universe.forum': 'Interné fórum {universeName}',
     'workshop.ratingAdjusted': 'Kvôli sťažnostiam sme museli upraviť vaše hodnotenie na také, ktoré sme považovali za primerané. Zmena hodnotenia je preto teraz zakázaná.',
-    'workshop.selectCollaborator': 'Vyberte spolupracovníka'
+    'workshop.selectCollaborator': 'Vyberte spolupracovníka',
+    'workshop.chapters.scheduledOn': 'Will be published on {publishDate, date, short} at {publishDate, time}'
 };
