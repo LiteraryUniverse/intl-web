@@ -239,5 +239,8 @@ export default {
     'workshop.universe.forum': 'Interní fórum {universeName}',
     'workshop.ratingAdjusted': 'Kvůli stížnostem jsme museli přizpůsobit váš rating takovému, který jsme považovali za vhodný. Proto je změna ratingu nyní vypnuta.',
     'workshop.selectCollaborator': 'Vybrat spolupracovníka',
-    'workshop.chapters.scheduledOn': 'Will be published on {publishDate, date, short} at {publishDate, time}'
+    'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
+    'workshop.chapterStatus.draft': 'Draft',
+    'workshop.chapterStatus.scheduled': 'Scheduled',
+    'workshop.chapterStatus.published': 'Published'
 };
