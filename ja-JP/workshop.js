@@ -222,5 +222,8 @@ export default {
     'workshop.universe.forum': '内部 {universeName} フォーラム',
     'workshop.ratingAdjusted': 'ご指摘を受け、適切と思われるレーティングに変更させていただきました。そのため、現在レーティングの変更は無効になっています。',
     'workshop.selectCollaborator': 'コラボレーターを選択',
-    'workshop.chapters.scheduledOn': 'Will be published on {publishDate, date, short} at {publishDate, time}'
+    'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
+    'workshop.chapterStatus.draft': 'Draft',
+    'workshop.chapterStatus.scheduled': 'Scheduled',
+    'workshop.chapterStatus.published': 'Published'
 };
