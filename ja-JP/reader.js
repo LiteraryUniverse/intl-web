@@ -29,5 +29,6 @@ export default {
     'reader.accessibility.toggleDyslexic': 'トグル式ディスレクティックフォント',
     'reader.accessibility.toggleParagraphStripes': '段落の背景をトグルする',
     'reader.accessibility.toggleParagraphHighlight': '選択した段落のハイライトをトグルする',
-    'reader.accessibility.toggleRules': 'トグルアシストルーラー'
+    'reader.accessibility.toggleRules': 'トグルアシストルーラー',
+    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
 };
