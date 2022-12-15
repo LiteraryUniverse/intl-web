@@ -29,5 +29,6 @@ export default {
     'reader.accessibility.toggleDyslexic': 'Legasthenie-Schriftart umschalten',
     'reader.accessibility.toggleParagraphStripes': 'Änderung der Hintergrundfarbe von Absätzen umschalten',
     'reader.accessibility.toggleParagraphHighlight': 'Hervorhebung ausgewählter Absätze ein- und ausschalten',
-    'reader.accessibility.toggleRules': 'Hilfslineal umschalten'
+    'reader.accessibility.toggleRules': 'Hilfslineal umschalten',
+    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
 };
