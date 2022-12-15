@@ -272,5 +272,6 @@ export default {
   'workshop.universe.forum': 'Internal {universeName} forum',
   'workshop.ratingAdjusted':
     'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
-  'workshop.selectCollaborator': 'Select collaborator'
+  'workshop.selectCollaborator': 'Select collaborator',
+  'workshop.chapters.scheduledOn': 'Will be published on {publishDate, date, short} at {publishDate, time}',
 }
