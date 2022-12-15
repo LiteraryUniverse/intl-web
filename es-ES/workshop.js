@@ -234,5 +234,8 @@ export default {
     'workshop.universe.forum': 'Foro interno de {universeName}',
     'workshop.ratingAdjusted': 'Debido a las quejas hemos tenido que ajustar su calificación a la que consideramos apropiada. Por lo tanto, el cambio de calificación está ahora desactivado.',
     'workshop.selectCollaborator': 'Seleccionar colaborador',
-    'workshop.chapters.scheduledOn': 'Will be published on {publishDate, date, short} at {publishDate, time}'
+    'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
+    'workshop.chapterStatus.draft': 'Draft',
+    'workshop.chapterStatus.scheduled': 'Scheduled',
+    'workshop.chapterStatus.published': 'Published'
 };
