@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2022-12-15 - v2.2.2
+
+* Strings for scheduling publication of chapters
+
 ## 2022-11-12 - v2.2.1
 
 * Add strings for new stuff on about us page
