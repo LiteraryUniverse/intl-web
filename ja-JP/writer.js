@@ -17,9 +17,9 @@ export default {
     'finder.connect': '選択肢を百科事典の項目に接続',
     'writer.aside.ariaLabel': 'ヘルプオプションメニュー',
     'writer.nothingToSave': 'セーブする記録がありません。',
-    'writer.publish.publishAria': 'Publication options',
-    'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
-    'writer.publish.schedule': 'Set publication date time',
-    'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
-    'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}'
+    'writer.publish.publishAria': 'パブリケーションオプション',
+    'writer.publish.scheduleExplained': 'すぐに公開することも、後日公開するようにスケジュールを組むことも可能です。',
+    'writer.publish.schedule': '発行日時設定',
+    'writer.publish.previousChapterPublished': '前の章は{publishDate, date, short}に{publishDate, time}で公開されました。',
+    'writer.publish.previousChapterScheduled': '前の章は{publishDate, date, short}に{publishDate, time}で公開される予定です。'
 };
