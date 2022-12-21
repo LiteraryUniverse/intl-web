@@ -233,5 +233,9 @@ export default {
     'workshop.universe.forumSettings': 'Impostazioni del forum dell\'universo interno',
     'workshop.universe.forum': 'Forum interno di {universeName}',
     'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
-    'workshop.selectCollaborator': 'Select collaborator'
+    'workshop.selectCollaborator': 'Select collaborator',
+    'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
+    'workshop.chapterStatus.draft': 'Draft',
+    'workshop.chapterStatus.scheduled': 'Scheduled',
+    'workshop.chapterStatus.published': 'Published'
 };

@@ -229,5 +229,9 @@ export default {
     'workshop.universe.forumSettings': 'Ustawienia wewnętrznego forum wszechświata',
     'workshop.universe.forum': 'Wewnętrzne forum {universeName}',
     'workshop.ratingAdjusted': 'Z powodu skarg musieliśmy dostosować Twoją ocenę do tej, którą uznaliśmy za właściwą. W związku z tym zmiana oceny jest teraz wyłączona.',
-    'workshop.selectCollaborator': 'Wybierz współpracownika'
+    'workshop.selectCollaborator': 'Wybierz współpracownika',
+    'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
+    'workshop.chapterStatus.draft': 'Draft',
+    'workshop.chapterStatus.scheduled': 'Scheduled',
+    'workshop.chapterStatus.published': 'Published'
 };

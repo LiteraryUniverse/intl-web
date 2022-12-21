@@ -29,5 +29,6 @@ export default {
     'reader.accessibility.toggleDyslexic': 'Přepnout dyslexické písmo',
     'reader.accessibility.toggleParagraphStripes': 'Přepnout změnu pozadí odstavce',
     'reader.accessibility.toggleParagraphHighlight': 'Přepnout zvýraznění vybraného odstavce',
-    'reader.accessibility.toggleRules': 'Přepnout asistenční pravidlo'
+    'reader.accessibility.toggleRules': 'Přepnout asistenční pravidlo',
+    'reader.nextRelease.scheduled': 'Další kapitola vyjde {nextReleaseAt, date} v {nextReleaseAt, time}!'
 };

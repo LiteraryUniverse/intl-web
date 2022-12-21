@@ -16,5 +16,10 @@ export default {
     'finder.remove': 'odstrániť spojenie',
     'finder.connect': 'Pripojenie výberu k záznamu v encyklopédii',
     'writer.aside.ariaLabel': 'Menu postráního panelu',
-    'writer.nothingToSave': 'Nie je čo uložiť'
+    'writer.nothingToSave': 'Nie je čo uložiť',
+    'writer.publish.publishAria': 'Publication options',
+    'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
+    'writer.publish.schedule': 'Set publication date time',
+    'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
+    'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}'
 };

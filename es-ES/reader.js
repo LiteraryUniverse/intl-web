@@ -29,5 +29,6 @@ export default {
     'reader.accessibility.toggleDyslexic': 'Alternar la fuente disléxica',
     'reader.accessibility.toggleParagraphStripes': 'Alterar el fondo de los párrafos',
     'reader.accessibility.toggleParagraphHighlight': 'Conmutar el resaltado del párrafo seleccionado',
-    'reader.accessibility.toggleRules': 'Alternar la regla de asistencia'
+    'reader.accessibility.toggleRules': 'Alternar la regla de asistencia',
+    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
 };
