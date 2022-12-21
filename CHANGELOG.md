@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2022-12-15 - v2.2.2
+## 2022-12-21 - v2.2.2
 
 * Strings for scheduling publication of chapters
 
