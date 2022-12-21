@@ -238,7 +238,7 @@ export default {
     'workshop.ratingAdjusted': 'Kvôli sťažnostiam sme museli upraviť vaše hodnotenie na také, ktoré sme považovali za primerané. Zmena hodnotenia je preto teraz zakázaná.',
     'workshop.selectCollaborator': 'Vyberte spolupracovníka',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
-    'workshop.chapterStatus.draft': 'Draft',
-    'workshop.chapterStatus.scheduled': 'Scheduled',
-    'workshop.chapterStatus.published': 'Published'
+    'workshop.chapterStatus.draft': 'Návrh',
+    'workshop.chapterStatus.scheduled': 'Naplánované',
+    'workshop.chapterStatus.published': 'Zverejnené'
 };
