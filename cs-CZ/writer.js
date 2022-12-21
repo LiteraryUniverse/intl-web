@@ -17,9 +17,9 @@ export default {
     'finder.connect': 'Připojit výběr ke záznamu v encyklopedii',
     'writer.aside.ariaLabel': 'Menu postráního panelu',
     'writer.nothingToSave': 'Nic k uložení',
-    'writer.publish.publishAria': 'Publication options',
-    'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
-    'writer.publish.schedule': 'Set publication date time',
-    'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
-    'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}'
+    'writer.publish.publishAria': 'Možnosti zveřejnění',
+    'writer.publish.scheduleExplained': 'Můžete buď okamžitě publikovat nebo naplánovat kdy kapitola bude zveřejněna.',
+    'writer.publish.schedule': 'Nastavit datum publikace',
+    'writer.publish.previousChapterPublished': 'Předchozí kapitola byla zveřejněna {publishDate, date, short} v {publishDate, time}',
+    'writer.publish.previousChapterScheduled': 'Předchozí kapitola je naplánována na publikování {publishDate, date, short} v {publishDate, time}'
 };
