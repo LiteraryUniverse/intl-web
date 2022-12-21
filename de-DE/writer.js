@@ -17,9 +17,9 @@ export default {
     'finder.connect': 'Auswahl mit Enzyklopädieeintrag verbinden',
     'writer.aside.ariaLabel': 'Menü Hilfeoptionen',
     'writer.nothingToSave': 'Nichts zu speichern',
-    'writer.publish.publishAria': 'Publication options',
-    'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
-    'writer.publish.schedule': 'Set publication date time',
-    'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
-    'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}'
+    'writer.publish.publishAria': 'Optionen für die Veröffentlichung',
+    'writer.publish.scheduleExplained': 'Sie können das Kapitel entweder sofort veröffentlichen oder die Veröffentlichung für einen späteren Zeitpunkt planen.',
+    'writer.publish.schedule': 'Datum und Uhrzeit der Veröffentlichung festlegen',
+    'writer.publish.previousChapterPublished': 'Das vorherige Kapitel wurde am {publishDate, date, short} um {publishDate, time} veröffentlicht',
+    'writer.publish.previousChapterScheduled': 'Das vorherige Kapitel soll am {publishDate, date, short} um {publishDate, time} veröffentlicht werden'
 };
