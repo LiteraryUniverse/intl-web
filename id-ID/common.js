@@ -228,7 +228,7 @@ export default {
     'common.event': 'Kegiatan',
     'common.all': 'Semua',
     'common.social': 'Social',
-    'common.discordCommunity': 'Discord Community',
-    'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.discordCommunity': 'Komunitas Discord',
+    'common.account': 'Akun',
+    'common.notifications': 'Notifikasi'
 }    /* eslint-enable max-len */;
