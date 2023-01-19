@@ -1,5 +1,5 @@
 export default {
-    'writer.menu.optionsAria': 'Editor options menu',
+    'writer.menu.optionsAria': 'ସମ୍ପାଦକ ଵିକଳ୍ପ ମେନୁ',
     'writer.menu.saveOptionsAria': 'Save options',
     'writer.undo': 'Undo',
     'writer.redo': 'Redo',
