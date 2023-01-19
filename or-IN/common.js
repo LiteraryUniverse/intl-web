@@ -19,7 +19,7 @@ export default {
     'common.workshop': 'Workshop',
     'common.pm': 'Messages',
     'common.settings': 'Settings',
-    'common.options': 'Options',
+    'common.options': 'ଵିକଳ୍ପ',
     'common.profile': 'Profile',
     'common.blog': 'Blog',
     'common.blogs': 'Blogs',
