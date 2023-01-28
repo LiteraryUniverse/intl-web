@@ -25,7 +25,7 @@ export default {
     'common.blogs': 'Blogs',
     'common.about': 'Sobre nosotros',
     'common.accessdenied': 'Acceso denegado',
-    'common.accessdenied.msg': 'No tienes permiso para acceder aquí. Si tienes que acceder, ponte en contacto con el propietario y dile que revise la configuración.',
+    'common.accessdenied.msg': 'No tienes permiso para acceder aquí. Si deberías tener acceso aquí, ponte en contacto con el propietario y dile que revise la configuración.',
     'common.loading': 'Cargando...',
     'common.add': 'Añadir',
     'common.save': 'Guardar',
