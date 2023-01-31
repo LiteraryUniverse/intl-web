@@ -37,7 +37,7 @@ export default {
     'common.report': 'Reportar',
     'common.user': 'Usuario',
     'common.users': 'Usuarios',
-    'common.showmore': 'Ver mas',
+    'common.showmore': 'Ver más',
     'common.futurefeature.title': 'Función futura',
     'common.futurefeature.text': 'Lo sentimos, pero esta función no está disponible por ahora. Estamos trabajando para habilitarla lo más pronto posible.',
     'common.nothingfound': 'No se ha encontrado nada',
