@@ -16,5 +16,6 @@ export default {
   'fanManager.stateChange.approve': 'Zatwierdzić fan art',
   'fanManager.stateChange.reject': 'Odrzuć fan art',
   'fanManager.stateChange.hide': 'Ukryj fan art',
-  'fanManager.stateChange.unhide': 'Spraw, by fan art był widoczny'
+  'fanManager.stateChange.unhide': 'Spraw, by fan art był widoczny',
+  'fanManager.fanFictionNotAllowed': 'Fan fiction is not allowed by the nature of your license.'
 };
