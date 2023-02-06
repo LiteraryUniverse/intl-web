@@ -17,9 +17,9 @@ export default {
     'licenses.name.cc-by-nc-sa': 'Creative Commons Atribución-NoComercial-CompartirIgual 4.0',
     'licenses.cc-by-nc-sa': 'Esta licencia permite a otros mezclar, retocar y basarse en tu obra sin comercializarla siempre que te acrediten y licencien sus nuevas creaciones con condiciones idénticas.',
     'licenses.name.cc-by-nc-nd': 'Creative Commons Atribución-NoComercial-SinDerivadas 4.0',
-    'licenses.cc-by-nc-nd': 'Esta licencia es la más restrictiva de entre nuestra seis. Sólo permite a terceros descargar tus obras y compartirlas siempre que te acrediten, pero no pueden modificarlas en absoluto ni usarlas con fines comerciales.',
+    'licenses.cc-by-nc-nd': 'Esta licencia es la más restrictiva de entre nuestra seis. Solo permite a terceros descargar tus obras y compartirlas siempre que te acrediten, pero no pueden modificarlas en absoluto ni usarlas con fines comerciales.',
     'licenses.name.lu-c': 'Derechos de autor de Literary Universe',
-    'licenses.lu-c': 'La licencia estándar de derechos de autor te permite vender y publicar tu obra como desees protegiendo tus derechos sobre ésta. Esta licencia también te posibilita vender tus historias en Literary Universe.',
+    'licenses.lu-c': 'La licencia estándar de derechos de autor te permite vender y publicar tu obra como desees protegiendo tus derechos sobre esta. Esta licencia también te posibilita vender tus historias en Literary Universe.',
     'licenses.name.cc0': 'Sin derechos reservados - CC0 1.0',
     'licenses.cc0': 'Pon tu trabajo en un dominio público. A diferencia de las licencias CC que permiten a los titulares de derechos de autor elegir entre un abanico de permisos conservando sus derechos, CC0 ofrece otra alternativa: desentenderse de protección de los derechos de autor y de la base de datos y de los derechos exclusivas que se adjudican automáticamente a los autores. Es la alternativa sin derechos reservados a nuestras licencias.'
 };
