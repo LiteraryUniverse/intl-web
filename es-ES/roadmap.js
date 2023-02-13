@@ -1,6 +1,6 @@
 export default {
   'roadmap.ariaTimeOptions': 'Selección de elementos de la hoja de ruta en función de su estado.',
-  'roadmap.state.backlog': 'Backlog',
+  'roadmap.state.backlog': 'Elementos pendientes',
   'roadmap.state.inprogress': 'En progreso',
   'roadmap.state.preview': 'Vista previa',
   'roadmap.state.beta': 'Beta',
