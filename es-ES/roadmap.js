@@ -5,10 +5,10 @@ export default {
   'roadmap.state.preview': 'Vista previa',
   'roadmap.state.beta': 'Beta',
   'roadmap.state.ga': 'Disponibilidad general',
-  'roadmap.eta.q1.short': 'T1',
-  'roadmap.eta.q2.short': 'T2',
-  'roadmap.eta.q3.short': 'T3',
-  'roadmap.eta.q4.short': 'T4',
+  'roadmap.eta.q1.short': 'P1',
+  'roadmap.eta.q2.short': 'P2',
+  'roadmap.eta.q3.short': 'P3',
+  'roadmap.eta.q4.short': 'P4',
   'roadmap.eta.q1.long': 'Primer trimestre',
   'roadmap.eta.q2.long': 'Segundo trimestre',
   'roadmap.eta.q3.long': 'Tercer trimestre',
@@ -22,16 +22,16 @@ export default {
   'roadmap.item.inGa': 'Esta función está disponible de forma generalizada desde el {gaAt, date}.',
   'roadmap.item.originalIssue': 'Esta función fue sugerida originalmente por nuestros usuarios.',
   'roadmap.eta.mapTitle': `¡Planeado para {quarter, select,
-    Q1 {P1}
-    Q2 {P2}
-    Q3 {P3}
-    Q4 {P4}
-    other {}
+    P1 {Q1}
+    P2 {Q2}
+    P3 {Q3}
+    P4 {Q4}
+    otro {}
   } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': 'Finalizado en {time, date, ::MMMM ::yyyy}',
+  'roadmap.eta.mapTitleFinished': 'Finalizado el {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Volver a la hoja de ruta',
-  'roadmap.seeBacklog': 'Vea qué otras cosas tenemos previsto hacer',
-  'roadmap.seeFinished': 'Si quiere profundizar en nuestra historia, tenemos un buen resumen preparado para usted',
-  'roadmap.planned': 'Planificación',
+  'roadmap.seeBacklog': 'Mira que otras cosas tenemos previsto hacer',
+  'roadmap.seeFinished': 'Si quieres profundizar en nuestra historia, tenemos un buen resumen preparado para ti',
+  'roadmap.planned': 'Planeado',
   'roadmap.finished': 'Completado'
 };
