@@ -31,7 +31,7 @@ export default {
     'challenges.defeat': 'Lamentablemente, no has completado este desafío.',
     'challenges.baseline': 'El número de palabras actual de esta historia es {wordcount, number}, este será nuestro punto de partida.',
     // NaNoWriMo
-    'nanowrimo.full': 'National Novel Writing Month',
+    'nanowrimo.full': 'Mes de la Escritura de Novelas',
     'nanowrimo.site': 'Página oficial de NaNoWriMo',
     'nanowrimo.settings': 'Cuenta de NaNoWriMo',
     'nanowrimo.username': 'Nombre de usuario de NaNoWriMo',
