@@ -1,5 +1,5 @@
 export default {
-    'challenges.current': 'Retos actuales',
+    'challenges.current': 'Desafíos actuales',
     'challenges.wordcount.goal': 'Meta de palabras',
     'challenges.wordcount.dailygoal': 'Meta de palabras diarias',
     'challenges.wordcount.today': 'Escrito hoy',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Reportar',
     'challenges.victory': '¡Enhorabuena! Has completado este reto.',
     'challenges.defeat': 'Lamentablemente, no has completado este desafío.',
-    'challenges.baseline': 'El número de palabras actual de esta historia es {wordcount, number}. Este será el punto de partida.',
+    'challenges.baseline': 'El número de palabras actual de esta historia es {wordcount, number}, este será nuestro punto de partida.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'Página oficial de NaNoWriMo',
