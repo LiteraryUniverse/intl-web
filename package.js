@@ -1,7 +1,7 @@
 /* global Package */
 Package.describe({
   name: 'lu-intl',
-  version: '2.2.2',
+  version: '2.2.3',
   summary: 'Intl for Literary Universe',
   documentation: 'README.md'
 })
@@ -13,7 +13,7 @@ Package.onUse(function (api) {
 })
 
 Package.onTest(function (api) {
-  api.use('ecmascript')
+  api.use(['ecmascript', 'typescript'])
   api.use('tinytest')
   api.use('lu-intl')
 })
