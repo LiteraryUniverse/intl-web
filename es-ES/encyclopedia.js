@@ -35,7 +35,7 @@ export default {
     'encyclopedia.add.title': 'Añade una nueva entrada a la enciclopedia',
     'encyclopedia.add.heading': '¿Qué quieres añadir?',
     'encyclopedia.add.moresoon': '¡Más categorías en breve!',
-    'encyclopedia.create': `Crear nuevo {category, select,
+    'encyclopedia.create': `Crear nuevo elemento de {category, select,
     character {personaje}
     event {acontecimiento}
     group {grupo}
@@ -54,7 +54,7 @@ export default {
     species {especie}
     technologies {tecnología}
   }`,
-    'encyclopedia.create.header': `Crear nuevo {category, select,
+    'encyclopedia.create.header': `Crear nuevo elemento de {category, select,
     character {personaje}
     event {acontecimiento}
     group {grupo}
@@ -107,9 +107,9 @@ export default {
     'encyclopedia.entry.name': 'Nombre de la entrada',
     'encyclopedia.summary': 'Resumen',
     'encyclopedia.summary.desc': 'Esto es un resumen que será la única información inicial que se muestre al lector.',
-    'encyclopedia.parent': 'Entrada padre',
+    'encyclopedia.parent': 'Entrada original',
     'encyclopedia.related': 'Entradas relacionadas',
-    'encyclopedia.errors.tags': 'Una entrada sólo puede tener 10 etiquetas.',
+    'encyclopedia.errors.tags': 'Una entrada solo puede tener 10 etiquetas.',
     'encyclopedia.field.private': 'Campo privado',
     'encyclopedia.ft.indev': 'Esta opción está en fase de desarrollo.',
     'encyclopedia.connections.remove': 'Eliminar conexión',
