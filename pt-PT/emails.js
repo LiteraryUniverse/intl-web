@@ -3,45 +3,45 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Convite ao Universo Literário para {username}',
+    'email.enrollAccount.message': `Olá {username}\n\n
+    Gostaríamos de convidá-lo a visitar o Universo Literário! Criámos uma conta pessoal especial para si onde pode aceder a todas as funcionalidades do Universo Literário! Junte-se a nós na criação da próxima geração de ferramentas criativas de escrita e leitura!
+    Para ativar a sua conta, basta clicar no link abaixo:\n\n{url}`,
+    'email.resetPassword.subject': 'Reinicialização da palavra passe do Universo Literário',
+    'email.resetPassword.message': `Olá {username}!\n\n Recebemos um pedido para reinicializar a sua palavra passe da sua conta.
+        Siga o link abaixo para reinicializar a sua palavra passe:\n\n{url}`,
+    'email.verifyEmail.subject': 'Verificação do email do Universo Literário',
+    'email.verifyEmail.message': 'Olá {username}!\n\n Por favor, verifique o seu email, clicando no link abaixo:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Olá {username},',
+    'email.welcome': 'Bem-vindo ao Universo Literário!',
+    'email.signature': 'Atenciosamente,<br />Equipa do Universo Literário',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Bem-vindo a bordo',
+    'email.enrollAccount.messageHtml': 'Gostaríamos de convidá-lo a visitar o Universo Literário! Prosseguimos e preparámos para si uma conta pessoal onde pode aceder a todas as funcionalidades do Universo Literário! Junte-se a nós na criação da próxima geração de escrita e leitura criativa!',
+    'email.enrollAccount.button': 'Aceda à sua conta',
+    'email.enrollAccount.signature': 'Estamos ansiosos para o ver,<br />Equipa do Universo Literário',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Recebemos um pedido para reiniciar a palavra passe da sua conta, por favor clique no botão abaixo para continuar o processo. Se não fez este pedido, pode ignorar este email, mas pode ser um bom momento para rever as suas definições de segurança.',
+    'email.resetPassword.button': 'Redefinir palavra passe',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Estamos felizes por tê-lo a bordo! Por favor clique no botão abaixo para verificar este endereço de email.',
+    'email.verifyEmail.button': 'Verifique este endereço de email',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.subject': 'A sua conta foi atualizada',
+    'email.adminUpgrade.message': `Atualizámos a sua conta para o nível de {plan, select,
+    explorer {Explorador}
+    adventurer {Aventureiro}
+    storyteller {Contador de Histórias}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } para os próximos {days} dias.\n\nAproveite,\nEquipa do Universo Literário`,
+    'email.adminUpgrade.messageHtml': `Atualizámos a sua conta para o nível de {plan, select,
+    explorer {Explorador}
+    adventurer {Aventureiro}
+    storyteller {Contador de Histórias}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } para os próximos {days} dias. Aproveite!`,
+    'email.verification': 'Verificação de email',
+    'email.verifying': 'Verificando o seu email. Isto vai demorar apenas um momento...',
+    'email.verified': 'Grandes notícias! O seu email foi verificado!'
 };    /* eslint-enable max-len */
