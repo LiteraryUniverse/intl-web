@@ -94,7 +94,7 @@ export default {
     'premium.only.link': 'Veja isto!',
     'universe.visit': 'Visite a página do universo',
     'common.fanmanager': 'Gestor de fãs',
-    'common.fanarts': 'Artes de fãs',
+    'common.fanarts': 'Arte de fãs',
     'common.fanfiction': 'Ficção de fãs',
     'common.fansettings': 'Definições de fãs',
     'story.chapter': 'Capítulo',
