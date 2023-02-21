@@ -1,49 +1,49 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Découvrez de nouvelles histoires et de nouveaux univers.',
+    'discovery.universes.new': 'Univers émergents',
+    'discovery.stories.new': 'Nouvelles histoires',
+    'discovery.stories.standalone.new': 'Nouvelles histoires autonomes',
+    'discovery.stories.updated': 'Histoires récemment mises à jour',
+    'discovery.continue': 'Continuer la lecture',
+    'discovery.stories.similar.new': 'Nouvelles histoires dans le quartier',
+    'discovery.stories.similar.regular': 'Histoires dans le quartier',
+    'story.estimatedReadingTime': `Cette histoire devrait prendre {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 heure et }
+        other {# heures et }
     }{minutes, plural,
         =0 {0 minutes}
         one {1 minute}
         other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    } à lire.`,
+    'story.estimatedReadingTime.explained': 'Basé sur une vitesse de lecture moyenne de {avgReadingNum} mots par minute.',
+    'discover.search.text': 'Terme de recherche',
+    'discover.searchStory.title': 'Recherche d\'une histoire',
+    'discover.searchStory.description': 'Recherche d\'histoires',
+    'discover.searchUniverse.title': 'Recherche d\'un univers',
+    'discover.searchUniverse.description': 'Recherche d\'univers',
+    'discover.search.storyStatus': 'État d\'avancement de l\'histoire',
+    'story.status.complete': 'Complété',
+    'story.status.inProgress': 'En cours',
+    'discover.search.universeConnection': 'Connexion de l\'histoire à l\'univers',
+    'story.universeRelation.standalone': 'Histoire autonome',
+    'story.universeRelation.fanFiction': 'Fiction de fans',
+    'story.universeRelation.universe': 'Partie d\'un univers',
+    'discover.search.rating': 'Classement par âge',
+    'discover.search.license': 'Licence de droit d\'auteur',
+    'discover.search.language': 'Langue',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Aucun univers ne correspond à vos paramètres}
+        one {1 univers trouvé}
+        other {# univers trouvés}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Aucune histoire ne correspond à vos paramètres}
+        one {1 histoire trouvée}
+        other {# histoires trouvées}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.'
+    'discover.viewSelection.aria': 'Voir la sélection',
+    'discover.searchDisplay.covers': 'Liste des couvertures',
+    'discover.searchDisplay.list': 'Liste compacte',
+    'discover.includesAds': 'Cette œuvre comporte un placement de produit ou inclut d\'autres formes de publicité.'
 };
