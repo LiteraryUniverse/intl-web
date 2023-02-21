@@ -17,5 +17,5 @@ export default {
   'fanManager.stateChange.reject': 'ファンアートを拒否',
   'fanManager.stateChange.hide': 'ファンアートを隠す',
   'fanManager.stateChange.unhide': 'ファンアートを可視化する',
-  'fanManager.fanFictionNotAllowed': 'Fan fiction is not allowed by the nature of your license.'
+  'fanManager.fanFictionNotAllowed': 'ファンフィクションは、ライセンスの性質上、禁止されています。'
 };
