@@ -42,6 +42,6 @@ export default {
     other {}
   } para los próximos {days} días. ¡Que lo disfrutes!`,
     'email.verification': 'Verificación de e-mail',
-    'email.verifying': 'Verificando tu e-mail. Esto sólo llevará un momento...',
+    'email.verifying': 'Verificando tu e-mail. Esto solo llevará un momento...',
     'email.verified': '¡Buenas noticias! ¡Tu correo electrónico se ha verificado!'
 };    /* eslint-enable max-len */

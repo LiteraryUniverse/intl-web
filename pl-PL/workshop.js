@@ -15,7 +15,7 @@ export default {
     'workshop.story.standalone': 'Samodzielna historia',
     'workshop.story.standalone.desc': 'To samodzielna opowieść.',
     'workshop.controlpanel': 'Panel sterowania {name}',
-    'workshop.universe.page': 'Universe page',
+    'workshop.universe.page': 'Strony Wszechświata',
     'workshop.fictionaltime': 'Czas fikcyjny',
     'workshop.dashboard.name': 'Panel {name}',
     'workshop.stories.in': 'Opowiadania w {universe}',
@@ -116,7 +116,7 @@ export default {
     'workshop.scenesManager': 'Scenes Manager',
     'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
     'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
-    'workshop.story.notes.title': 'Your notes for {storyTitle}',
+    'workshop.story.notes.title': 'Twoje notatki do {storyTitle}',
     'workshop.story.notes.desc': 'Notatki poglądowe do opowiadania.',
     'workshop.story.notes.tile': 'Overview notes',
     'workshop.hideOrgs': 'Ukryj zawartość przed organizacjami',
@@ -158,7 +158,7 @@ export default {
     'workshop.shoppingExternal.itemUrl': 'Adres URL produktu',
     'workshop.shoppingExternal.storesOther': 'Inne sklepy',
     'fictionalTime.units.milliseconds': '{units, number} milisekundy',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'fictionalTime.countdownToStart': 'Odliczanie do rozpoczęcia czasu',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
@@ -231,7 +231,7 @@ export default {
     'workshop.ratingAdjusted': 'Z powodu skarg musieliśmy dostosować Twoją ocenę do tej, którą uznaliśmy za właściwą. W związku z tym zmiana oceny jest teraz wyłączona.',
     'workshop.selectCollaborator': 'Wybierz współpracownika',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
-    'workshop.chapterStatus.draft': 'Draft',
-    'workshop.chapterStatus.scheduled': 'Scheduled',
-    'workshop.chapterStatus.published': 'Published'
+    'workshop.chapterStatus.draft': 'Szkic',
+    'workshop.chapterStatus.scheduled': 'Zaplanowane',
+    'workshop.chapterStatus.published': 'Opublikowano'
 };

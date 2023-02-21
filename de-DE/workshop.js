@@ -235,7 +235,7 @@ export default {
     'workshop.ratingAdjusted': 'Aufgrund von Beschwerden mussten wir Ihre Bewertung so anpassen, wie wir es für angemessen hielten. Daher ist die Änderung der Bewertung nun deaktiviert.',
     'workshop.selectCollaborator': 'Mitarbeiter auswählen',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
-    'workshop.chapterStatus.draft': 'Draft',
-    'workshop.chapterStatus.scheduled': 'Scheduled',
-    'workshop.chapterStatus.published': 'Published'
+    'workshop.chapterStatus.draft': 'Entwurf',
+    'workshop.chapterStatus.scheduled': 'Geplant',
+    'workshop.chapterStatus.published': 'Veröffentlicht'
 };

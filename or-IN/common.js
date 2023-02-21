@@ -19,7 +19,7 @@ export default {
     'common.workshop': 'Workshop',
     'common.pm': 'Messages',
     'common.settings': 'Settings',
-    'common.options': 'Options',
+    'common.options': 'ଵିକଳ୍ପ',
     'common.profile': 'Profile',
     'common.blog': 'Blog',
     'common.blogs': 'Blogs',
@@ -230,5 +230,5 @@ export default {
     'common.social': 'Social',
     'common.discordCommunity': 'Discord Community',
     'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.notifications': 'ଵିଜ୍ଞପ୍ତି'
 }    /* eslint-enable max-len */;

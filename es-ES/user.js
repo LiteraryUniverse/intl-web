@@ -1,8 +1,10 @@
 export default {
     'user.friend.request.add': 'Añadir a amigos',
-    'user.friend.requests': `Tienes {num, number} amigo nuevo {num, plural,
-    one {solicitud}
-    other {solicitudes}
+    'user.friend.requests': `Te han llegado {num, number} nuevos amigos {num, plural,
+    zero {peticiones}
+    one {petición}
+    many {peticiones}
+    other {petición}
   }`,
     'user.friend.unfriend': 'Quitar de amigos',
     'user.block': 'Bloquear',
@@ -10,7 +12,7 @@ export default {
     'user.joined': `{gender, select,
     male {¡Se unió a}
     female {¡Se unió a}
-    other {¡Se unió a}} en {date, date, long}`,
+    other {¡Se unió a}} el {date, date, long}`,
     'user.friend.request.accept': 'Aceptar petición de amistad',
     'user.friend.request.cancel': 'Cancelar petición de amistad',
     'user.friend.request.deny': 'Rechazar amistad',
@@ -27,7 +29,7 @@ export default {
     other {Buenas noches}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Este autor ha sido publicado de forma tradicional',
-    'user.verification.luAuthor': 'Autor destacado del Universo Literario',
-    'user.verification.luEmployee': 'Empleado del Universo Literario',
+    'user.verification.luAuthor': 'Autor destacado de Litarary Universe',
+    'user.verification.luEmployee': 'Empleado de Literary Universe',
     'user.verification.publicFigure': 'Personaje público verificado'
 };

@@ -30,5 +30,5 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'Prepínanie odsekov na pozadí',
     'reader.accessibility.toggleParagraphHighlight': 'Prepínanie zvýraznenia vybraného odseku',
     'reader.accessibility.toggleRules': 'Prepínanie asistenčného pravítka',
-    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
+    'reader.nextRelease.scheduled': 'Ďalšia kapitola bude uverejnená {nextReleaseAt, date} v {nextReleaseAt, time}!'
 };

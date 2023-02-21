@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': '.i se jivna do lo za\'u reno cevni',
+    'enrollment.description': '.i ci\'o la\'edi {username}! ca lo nu rinsa lo za\'u reno cevni do cu djica lo nu do punji lo jaspu.',
+    'enrollment.submitting': '.i se jivna lo za\'u reno cevni...',
+    'enrollment.submit': '.i se jivna do lo za\'u reno cevni!'
 };
