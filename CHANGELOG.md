@@ -1,5 +1,11 @@
 # Changelog for languages
 
+## 2023-02-2X - v2.3.0
+
+* Added Typescript package to testing for consistency
+* New string for fan fiction manager
+* New section for reading lists
+
 ## 2022-12-21 - v2.2.2
 
 * Strings for scheduling publication of chapters
