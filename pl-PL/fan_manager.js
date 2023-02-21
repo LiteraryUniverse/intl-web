@@ -1,5 +1,5 @@
 export default {
-  'fanManager.settings.for': 'Fan manager settings',
+  'fanManager.settings.for': 'Kierownik ds. działalności kibiców',
   'fanManager.allowArtSubmissions': 'Zezwolenie na przesyłanie fan artów',
   'fanManager.displayFanArt': 'Umożliwienie wyświetlania fan artów',
   'fanManager.allowFanStories': 'Pozwólcie na fan fiction',
@@ -17,5 +17,5 @@ export default {
   'fanManager.stateChange.reject': 'Odrzuć fan art',
   'fanManager.stateChange.hide': 'Ukryj fan art',
   'fanManager.stateChange.unhide': 'Spraw, by fan art był widoczny',
-  'fanManager.fanFictionNotAllowed': 'Fan fiction is not allowed by the nature of your license.'
+  'fanManager.fanFictionNotAllowed': 'Fan fiction nie jest dozwolone ze względu na charakter licencji.'
 };
