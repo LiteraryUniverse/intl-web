@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Vérifier cette adresse email',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Votre compte a été mis à jour',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Nous avons mis à jour votre compte au niveau {plan, select,
+    explorer {Explorateur}
+    adventurer {Aventurier}
+    storyteller {Compteur}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } pour les prochains {days} jours.\n\nProfitez,\nl'équipe de l'Univers Littéraire`,
+    'email.adminUpgrade.messageHtml': `Nous avons mis à jour votre compte au niveau {plan, select,
+    explorer {Explorateur}
+    adventurer {Aventurier}
+    storyteller {Compteur}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } pour les prochains {days} jours. Profitez !`,
+    'email.verification': 'Vérification de l\'email',
+    'email.verifying': 'Vérification de votre email. Cela ne prendra qu\'un instant...',
+    'email.verified': 'Bonnes nouvelles ! Votre email a été vérifié !'
 };    /* eslint-enable max-len */
