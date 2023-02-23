@@ -230,5 +230,6 @@ export default {
     'common.social': 'Social',
     'common.discordCommunity': 'Communité Discord',
     'common.account': 'Compte',
-    'common.notifications': 'Notifications'
+    'common.notifications': 'Notifications',
+    'common.byDeclaration': 'By:'
 }    /* eslint-enable max-len */;
