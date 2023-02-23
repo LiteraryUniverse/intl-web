@@ -231,5 +231,5 @@ export default {
     'common.discordCommunity': 'Comunidad de Discord',
     'common.account': 'Cuenta',
     'common.notifications': 'Notificaciones',
-    'common.byDeclaration': 'By:'
+    'common.byDeclaration': 'Por:'
 }    /* eslint-enable max-len */;
