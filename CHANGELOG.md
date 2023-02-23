@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2023-02-2X - v2.3.0
+## 2023-02-23 - v2.3.0
 
 * Added Typescript package to testing for consistency
 * New string for fan fiction manager
