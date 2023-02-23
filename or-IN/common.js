@@ -230,5 +230,6 @@ export default {
     'common.social': 'Social',
     'common.discordCommunity': 'Discord Community',
     'common.account': 'Account',
-    'common.notifications': 'ଵିଜ୍ଞପ୍ତି'
+    'common.notifications': 'ଵିଜ୍ଞପ୍ତି',
+    'common.byDeclaration': 'By:'
 }    /* eslint-enable max-len */;
