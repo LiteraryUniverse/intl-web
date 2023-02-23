@@ -230,5 +230,6 @@ export default {
     'common.social': '人付き合い',
     'common.discordCommunity': 'Discordコミュニティ',
     'common.account': 'アカウント',
-    'common.notifications': '通知'
+    'common.notifications': '通知',
+    'common.byDeclaration': 'By:'
 }    /* eslint-enable max-len */;
