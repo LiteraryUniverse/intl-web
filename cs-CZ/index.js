@@ -33,6 +33,7 @@ import notifications from './notifications'
 import roadmap from './roadmap'
 import events from './events'
 import fanManager from './fan_manager'
+import readingList from './reading_list'
 
 export default {
   locales: ['cs', 'cs-CZ'],
@@ -70,5 +71,6 @@ export default {
   ...notifications,
   ...roadmap,
   ...events,
-  ...fanManager
+  ...fanManager,
+  ...readingList
 }

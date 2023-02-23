@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2023-02-24 - v2.3.1
+
+* Fix imports of new reading list lang in other languages than English
+*
+
 ## 2023-02-23 - v2.3.0
 
 * Added Typescript package to testing for consistency
