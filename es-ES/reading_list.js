@@ -1,8 +1,8 @@
 export default {
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universe',
-  'readingList.ranked.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list'
+  'readingList.type.label': 'Tipo de lista',
+  'readingList.type.stories': 'Historias',
+  'readingList.type.universes': 'Universo',
+  'readingList.ranked.label': 'Lista por valoraciones',
+  'readingList.button.add': 'Añadir a la lista de lectura',
+  'readingList.selectList': 'Elegir lista de lectura'
 };
