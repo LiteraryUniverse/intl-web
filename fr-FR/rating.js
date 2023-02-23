@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Évaluation',
+    'rating.explained': 'Classification par âge et restriction.',
+    'rating.all': 'Tous',
+    'rating.desc.all': 'Accessible à tous les âges et à tous les groupes.',
+    'rating.teens': 'Adolescents',
+    'rating.desc.teens': 'Convient à un public âgé de 12 à 18 ans.',
+    'rating.mature': 'Adulte',
+    'rating.desc.mature': 'Contient des thèmes avancés, un langage cru et des scènes implicites.',
+    'rating.explicit': 'Explicite',
+    'rating.desc.explicit': 'Contient des scènes explicites.',
+    'rating.selection.all': 'Tous - Accessible à tous les âges et à tous les groupes.',
+    'rating.selection.teens': 'Adolescents (12-18) - Convient à un public âgé de 12 à 18 ans.',
+    'rating.selection.mature': 'Adulte (18+) - Contient des thèmes avancés, un langage cru et des scènes implicites.',
+    'rating.selection.explicit': 'Explicite (21+) - Contient des scènes explicites.'
 };
