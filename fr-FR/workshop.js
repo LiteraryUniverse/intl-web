@@ -1,13 +1,13 @@
 export default {
-    'workshop.title': 'Your work',
-    'workshop.noneassigned': 'You have not been assigned any yet.',
-    'workshop.notavailable': 'This feature is not yet available.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.title': 'Votre travail',
+    'workshop.noneassigned': 'On ne vous en a pas encore assigné.',
+    'workshop.notavailable': 'Cette fonctionnalité n\'est pas encore disponible.',
+    'workshop.none': `Vous n'avez actuellement {type, select,
+      universe {aucun univers}
+      story {aucune histoire}
+      fanfiction {aucune fan fiction}
       other {}
-    }. Create one now!`,
+    }. Créez-en un maintenant !`,
     'workshop.collab': 'Collaborative work',
     'workshop.betareadings': 'Beta readings',
     'workshop.translations': 'Translations',
