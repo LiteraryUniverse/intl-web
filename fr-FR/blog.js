@@ -28,27 +28,27 @@ export default {
     'blog.publicView': 'Vue publique',
     'blog.post.notfound': 'Le post du blog n\'a pas été trouvé',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Univers}
+    stories {Histoires Autonome}
+    fanfiction {Œuvre Fan Fiction}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Les histoires listées ici sont des histoires autonomes, si l\'histoire a été écrite dans le cadre d\'un univers, elle sera listée sur la page de l\'univers.',
+    'blog.social.sameAsMain': `Les liens sociaux sont les mêmes que ceux définis dans {type, select,
+    organization {les paramètres de l'organisation}
+    user {le profil d'utilisateur}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.social.website': 'Site officiel',
+    'blog.settings.universeSettings': 'Les blogs de l\'univers sont intégrés aux pages de l\'univers et leurs paramètres de base proviennent des paramètres de l\'univers.',
+    'blog.settings.organizationSettings': 'Les blogs de l\'organisation sont intégrés dans les pages de l\'organisation.',
+    'blogs.lu': 'Blogs officiels de l\'Univers Littéraire',
+    'blogs.featured': 'Blogs en vedette',
+    'blogs.new': 'Blogs les plus récents',
+    'blogs.title': 'Blogs de l\'Univers Littéraire',
+    'blogs.description': 'Liste des blogs de la plateforme de l\'Univers Littéraire.',
+    'blogs.visit': 'Visitez le blog',
+    'blog.settingsAria': 'Paramètres des catégories pour le blog',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum'
 };
