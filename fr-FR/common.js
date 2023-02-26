@@ -95,7 +95,7 @@ export default {
     'universe.visit': 'Visitez la page univers',
     'common.fanmanager': 'Gestionnaire de fans',
     'common.fanarts': 'Arts de fans',
-    'common.fanfiction': 'Fiction de fans',
+    'common.fanfiction': 'Fan fiction',
     'common.fansettings': 'Paramètres de fans',
     'story.chapter': 'Chapitre',
     'story.chapters': 'Chapitres',
@@ -106,7 +106,7 @@ export default {
     'story.finishedAt': 'Terminé le {date, date, medium}.',
     'story.comments.for': 'Commentaires pour {story} {chapter}.',
     'story.cover.alt': 'Image de couverture de l\'histoire pour {story}.',
-    'story.note.fanfiction': 'NOTE : Cette histoire est une fiction de fan sur l\'univers {universe}.',
+    'story.note.fanfiction': 'NOTE : Cette histoire est une fan fiction sur l\'univers {universe}.',
     copyrights: 'Droit d\'auteur',
     'common.challenges': 'Défis',
     // for beta only
@@ -231,5 +231,5 @@ export default {
     'common.discordCommunity': 'Communité Discord',
     'common.account': 'Compte',
     'common.notifications': 'Notifications',
-    'common.byDeclaration': 'By:'
+    'common.byDeclaration': 'Par :'
 }    /* eslint-enable max-len */;
