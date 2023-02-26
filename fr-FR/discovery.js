@@ -27,7 +27,7 @@ export default {
     'story.status.inProgress': 'En cours',
     'discover.search.universeConnection': 'Connexion de l\'histoire à l\'univers',
     'story.universeRelation.standalone': 'Histoire autonome',
-    'story.universeRelation.fanFiction': 'Fiction de fans',
+    'story.universeRelation.fanFiction': 'Fan Fiction',
     'story.universeRelation.universe': 'Partie d\'un univers',
     'discover.search.rating': 'Classement par âge',
     'discover.search.license': 'Licence de droit d\'auteur',
