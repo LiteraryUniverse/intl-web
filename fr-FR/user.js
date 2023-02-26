@@ -1,35 +1,35 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
-  }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.request.add': 'Ajouter aux amis',
+    'user.friend.requests': `Vous avez {num, number} {num, plural,
+    zero {demande}
+    one {demande}
+    many {demandes}
+    other {demandes}
+ } de nouvel ami`,
+    'user.friend.unfriend': 'Ne plus être ami',
+    'user.block': 'Bloquer',
+    'user.unblock': 'Débloquer',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
-  } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure'
+    male {Joint}
+    female {Jointe}
+    other {Joint}} le {date, date, long}`,
+    'user.friend.request.accept': 'Accepter la demande d\'ami',
+    'user.friend.request.cancel': 'Annuler la demande d\'ami',
+    'user.friend.request.deny': 'Refuser l\'amitié',
+    'user.listing': 'Liste des utilisateurs',
+    'user.profile.visit': 'Visiter le profil de {user}.',
+    'user.profile.avatar': 'Avatar de {username}',
+    'user.friend.list.requests': 'Demandes d\'amis',
+    'user.friend.norequests': 'Vous n\'avez aucune demande d\'amitié.',
+    'user.dashboardWelcome': `{dayPart, select,
+    morning {Bonjour}
+    afternoon {Bon après-midi}
+    evening {Bon soir}
+    night {Bonne nuit}
+    other {Bonne jounée}
+  } {displayName} !`,
+    'user.verification.publishedAuthor': 'Cet auteur a été publié de manière traditionnelle',
+    'user.verification.luAuthor': 'Auteur de référence basé sur l\'Univers Littéraire',
+    'user.verification.luEmployee': 'Employé de l\'Univers Littéraire',
+    'user.verification.publicFigure': 'Personnalité publique vérifiée'
 };
