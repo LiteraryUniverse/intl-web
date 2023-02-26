@@ -4,7 +4,7 @@ export default {
     'sharing.share': 'Partager avec...',
     'sharing.feedback': 'Manque-t-il un endroit que vous aimeriez partager avec nous? Faites-le nous savoir!',
     'sharing.copy': 'Copier',
-    'sharing.email': 'E-mail',
+    'sharing.email': 'Email',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
