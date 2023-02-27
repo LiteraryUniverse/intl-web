@@ -3,7 +3,7 @@
 ## 2023-02-24 - v2.3.1
 
 * Fix imports of new reading list lang in other languages than English
-*
+* Add more common and reading list related strings
 
 ## 2023-02-23 - v2.3.0
 
