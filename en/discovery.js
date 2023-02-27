@@ -47,5 +47,8 @@ export default {
   'discover.searchDisplay.covers': 'Covers listing',
   'discover.searchDisplay.list': 'Compact list',
   'discover.includesAds':
-    'This work has product placement or includes other form of advertisements in it.'
+    'This work has product placement or includes other form of advertisements in it.',
+
+  'discovery.featured.universes': 'Featured universes',
+  'discovery.featured.stories': 'Featured stories',
 }
