@@ -45,5 +45,7 @@ export default {
     'discover.viewSelection.aria': 'Ver seleção',
     'discover.searchDisplay.covers': 'Listagem de coberturas',
     'discover.searchDisplay.list': 'Lista compacta',
-    'discover.includesAds': 'Este trabalho tem colocação de produtos ou inclui outras formas de anúncios.'
+    'discover.includesAds': 'Este trabalho tem colocação de produtos ou inclui outras formas de anúncios.',
+    'discovery.featured.universes': 'Featured universes',
+    'discovery.featured.stories': 'Featured stories'
 };
