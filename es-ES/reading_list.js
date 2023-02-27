@@ -11,17 +11,17 @@ export default {
   'readingList.edit.aria': 'Editar los ajustes de la lista de lecturas',
   'readingList.library.title': 'Tus listas de lectura',
   'readingList.public.label': '¿Quieres que el público la vea?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
+  'readingList.addItem': `Añadir {type, select,
+    universes {un universo}
+    stories {una historia}
   }`,
-  'readingList.addItem.modalAria': `Modal to add a {type, select,
-    universes {universe}
-    stories {story}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
+  'readingList.addItem.modalAria': `Opciones para añadir {type, select,
+    universes {un universo}
+    stories {una historia}
+  } a la lista de lecturas.`,
+  'readingList.addItem.fromLibrary': 'Desde la biblioteca',
   'readingList.addItem.added': `{type, select,
-    universes {Universe}
-    stories {Story}
-  } has been added.`
+    universes {Un Universo}
+    stories {Una Historia}
+  } se ha añadido a la lista.`
 };
