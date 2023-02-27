@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Caché - Seules les personnes que vous invitez peuvent se joindre à vous.',
     'groups.imageAlt': 'Image de {groupName}',
     'groups.members': 'Membres',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Il {totalMembers, plural,
+    zero {n'y a pas de membres}
+    one {y a un membre}
+    other {y a # membres}
+  } dans ce groupe`,
     'groups.leaveGroup': 'Quitter le groupe',
     'groups.leaveGroup.confirm': 'Juste pour être sûr. Êtes-vous certain de vouloir quitter {groupName}?',
     'group.settings': 'Paramètres du groupe',
@@ -25,16 +25,16 @@ export default {
     'groups.join.openGroup': 'Rejoindre le groupe',
     'groups.join.closedGroup': 'Demande d\'adhésion au groupe',
     'groups.join.questionToJoin': 'Question pour les nouveaux membres',
-    'groups.join.closedAria': 'Formulaire de demande d\'adhésion à un groupe fermé',
-    'groups.join.questionDefault': 'Pourquoi devriez-vous être autorisé à adhérer?',
+    'groups.join.closedAria': 'Demander le formulaire pour rejoindre un groupe fermé',
+    'groups.join.questionDefault': 'Pourquoi devriez-vous être autorisé à vous joindre ?',
     'groups.join.pendingRequest': 'Votre demande d\'adhésion à ce groupe est en attente d\'approbation par les administrateurs du groupe.',
     'groups.join.requesting': 'Demande d\'adhésion',
     'groups.invite.btn': 'Inviter au groupe',
     'groups.invite.modalAria': 'Inviter les utilisateurs au dialogue de groupe',
     'groups.invite.send': 'Envoyer une invitation',
     'groups.invite.label': 'Trouver l\'utilisateur à inviter',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
+    'groups.invite.tileMsg': `Vous avez {count, plural,
+    other {# invitations de groupe}
   }`,
     'groups.invites.title': 'Invitations de groupe',
     'group.invite.accept': 'Accepter l\'invitation',
