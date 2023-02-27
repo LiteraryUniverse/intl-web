@@ -51,5 +51,7 @@ export default {
     'discover.viewSelection.aria': 'Zobacz zaznaczenie',
     'discover.searchDisplay.covers': 'Lista okładek',
     'discover.searchDisplay.list': 'Lista kompaktowa',
-    'discover.includesAds': 'Ta praca zawiera lokowanie produktu lub zawiera inne formy reklamy.'
+    'discover.includesAds': 'Ta praca zawiera lokowanie produktu lub zawiera inne formy reklamy.',
+    'discovery.featured.universes': 'Featured universes',
+    'discovery.featured.stories': 'Featured stories'
 };
