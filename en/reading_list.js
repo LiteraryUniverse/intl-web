@@ -10,5 +10,18 @@ export default {
   'readingList.create.aria': 'Modal with settings for a new reading list',
   'readingList.edit.aria': "Modal to edit reading list's settings",
   'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?'
+  'readingList.public.label': 'Is publicly visible?',
+  'readingList.addItem': `Add {type, select,
+    universes {universe}
+    stories {story}
+  }`,
+  'readingList.addItem.modalAria': `Modal to add a {type, select,
+    universes {universe}
+    stories {story}
+  } to the reading list.`,
+  'readingList.addItem.fromLibrary': 'From library',
+  'readingList.addItem.added': `{type, select,
+    universes {Universe}
+    stories {Story}
+  } has been added.`
 }
