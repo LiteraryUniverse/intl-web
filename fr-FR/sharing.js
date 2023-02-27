@@ -2,7 +2,7 @@ export default {
     'sharing.title': 'Partager',
     'sharing.button': 'Bouton de partage',
     'sharing.share': 'Partager avec...',
-    'sharing.feedback': 'Manque-t-il un endroit que vous aimeriez partager avec nous? Faites-le nous savoir!',
+    'sharing.feedback': 'Manque-t-il un endroit que vous aimeriez partager avec nous ? Faites-le nous savoir !',
     'sharing.copy': 'Copier',
     'sharing.email': 'Email',
     'sharing.sms': 'SMS',
