@@ -1,108 +1,108 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
+    'encyclopedia.add': 'Ajouter une nouvelle entrée',
+    'encyclopedia.browse': 'Parcourir l\'encyclopédie',
+    'encyclopedia.search': 'Rechercher dans l\'encyclopédie',
+    'encyclopedia.back.universe': 'Retour à la page de l\'univers',
+    'encyclopedia.back.workshop': 'Retour au workshop',
+    'encyclopedia.categories': 'Catégories',
+    'encyclopedia.groups': 'Groupes',
+    'encyclopedia.category.character': 'Personnages',
+    'encyclopedia.category.event': 'Événements',
+    'encyclopedia.category.group': 'Groupes',
+    'encyclopedia.category.item': 'Articles',
+    'encyclopedia.category.location': 'Emplacements',
+    'encyclopedia.category.other': 'Autre',
+    'encyclopedia.category.state': 'États',
+    'encyclopedia.category.governments': 'Gouvernements',
+    'encyclopedia.category.languages': 'Langues',
+    'encyclopedia.category.creatures': 'Créatures',
+    'encyclopedia.category.deity': 'Divinités',
     'encyclopedia.category.religions': 'Religions',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
+    'encyclopedia.category.flora': 'Flore',
+    'encyclopedia.category.magic': 'Magie',
+    'encyclopedia.category.planets': 'Planètes',
+    'encyclopedia.category.species': 'Espèces',
     'encyclopedia.category.technologies': 'Technologies',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    =0 {Aucune entrée liée}
+    one {1 entrée liée}
+    other {# entrées liées}
+  } trouvées.`,
+    'encyclopedia.help.text': 'Utilisez le menu de gauche pour naviguer entre les articles de l\'encyclopédie. Une fois que vous aurez sélectionné un article, il sera affiché à la place de ce texte.',
+    'encyclopedia.help.sidebar': 'Boîte à outils de la barre latérale',
+    'encyclopedia.help.sidebar.text': 'Bienvenue dans votre histoire ! Cette barre latérale vous permet d\'accéder facilement à toutes les ressources liées à votre histoire. Cochez les icônes ci-dessus pour voir les derniers commentaires, vos notes, faire une recherche dans votre encyclopédie, parcourir et ajouter de nouvelles entrées à votre encyclopédie. Si vous souhaitez ajouter une connexion à une entrée à partir du texte de l\'histoire, sélectionnez le texte où vous souhaitez la placer, puis cliquez sur le bouton de connexion. Vous serez alors invité à trouver et à sélectionner un élément.',
+    'encyclopedia.intro': 'Bienvenue dans l\'encyclopédie {universe}.',
+    'encyclopedia.add.title': 'Ajouter une nouvelle entrée à l\'encyclopédie',
+    'encyclopedia.add.heading': 'Que souhaitez-vous ajouter ?',
+    'encyclopedia.add.moresoon': 'Plus de catégories bientôt !',
+    'encyclopedia.create': `Créer {category, select,
+    character {un nouveau personnage}
+    event {un nouvel événement}
+    group {un nouveau groupe}
+    item {un nouvel article}
+    location {un nouvel emplacement}
+    other {une nouvelle note}
+    state {un nouvel état}
+    governments {un nouveau gouvernement}
+    languages {une nouvelle langue}
+    creatures {une nouvelle créature}
+    deity {une nouvelle divinité}
+    religions {une nouvelle religion}
+    flora {une nouvelle flore}
+    magic {une nouvelle magie}
+    planets {une nouvelle planète}
+    species {une nouvelle espèce}
+    technologies {une nouvelle technologie}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
+    'encyclopedia.create.header': `Créer {category, select,
+    character {un nouveau personnage}
+    event {un nouvel événement}
+    group {un nouveau groupe}
+    item {un nouvel article}
+    location {un nouvel emplacement}
+    other {une nouvelle note}
+    state {un nouvel état}
+    governments {un nouveau gouvernement}
+    languages {une nouvelle langue}
+    creatures {une nouvelle créature}
+    deity {une nouvelle divinité}
+    religions {une nouvelle religion}
+    flora {une nouvelle flore}
+    magic {une nouvelle magie}
+    planets {une nouvelle planète}
+    species {une nouvelle espèce}
+    technologies {une nouvelle technologie}
+  } dans {universe}`,
+    'encyclopedia.entry.category': `Catégorie d'entrée : {category, select,
+    character {Caractère}
+    event {Événement}
+    group {Groupe}
+    item {Article}
     location {Location}
     other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
+    state {État}
+    governments {Gouvernement}
+    languages {Langue}
+    creatures {Créature}
+    deity {Divinité}
     religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    flora {Flore}
+    magic {Magie}
+    planets {Planète}
+    species {Espèce}
+    technologies {Technologie}
   }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
+    'encyclopedia.entry.category.legend': 'Catégorie',
+    'encyclopedia.fields.add': 'Ajouter un nouveau champ',
+    'encyclopedia.fields.text': 'Définition',
+    'encyclopedia.fields.textarea': 'Texte',
+    'encyclopedia.fields.connection': 'Connexion',
+    'encyclopedia.fields.time': 'Heure',
     'encyclopedia.fields.image': 'Image',
-    'encyclopedia.visibility': 'Visibility',
+    'encyclopedia.visibility': 'Visibilité',
     'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
-    'encyclopedia.container': 'Container',
+    'encyclopedia.private': 'Privé',
+    'encyclopedia.container': 'Conteneur',
     'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
     'encyclopedia.entry.name': 'Name of the entry',
     'encyclopedia.summary': 'Summary',
