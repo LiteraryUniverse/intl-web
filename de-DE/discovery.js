@@ -45,5 +45,7 @@ export default {
     'discover.viewSelection.aria': 'Auswahl der Ansichten',
     'discover.searchDisplay.covers': 'Auflistung der Abdeckungen',
     'discover.searchDisplay.list': 'Kompakte Liste',
-    'discover.includesAds': 'Diese Arbeit enthält Produktplatzierungen oder andere Formen von Werbung.'
+    'discover.includesAds': 'Diese Arbeit enthält Produktplatzierungen oder andere Formen von Werbung.',
+    'discovery.featured.universes': 'Featured universes',
+    'discovery.featured.stories': 'Featured stories'
 };
