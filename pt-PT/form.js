@@ -55,7 +55,7 @@ export default {
     'simpleschema.expectedObject': '{label} tem de ser um objecto',
     'simpleschema.expectedConstructor': '{label} tem de ser um(a) {type}',
     'simpleschema.keyNotInSchema': '{key} não é permitido pelo esquema',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label} tem de ser único',
     'simpleschema.regEx.0': '{label} falhou no teste de expressão regular',
     'simpleschema.regEx.1': '{label} tem de ser um endereço de email válido',
     'simpleschema.regEx.2': '{label} tem de ser um endereço de email válido',
