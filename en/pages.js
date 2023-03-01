@@ -102,12 +102,12 @@ export default {
   'gdpr.forget.desc':
     'Any account can be deleted via user settings. Some data might be preserved, especially if they have been subject to sale and/or disputes.',
   'gdpr.rectification.title': 'Right to Rectification',
-  'gdpr.rectification.desc': '',
+  'gdpr.rectification.desc': ' ',
   'gdpr.processing.title': 'Right to restriction of processing',
   'gdpr.processing.desc':
     'Literary Universe fully respects the browser settings, such as "Do not track" requests for reporting to our Matomo statistics server.',
   'gdpr.object.title': 'Right to Object',
-  'gdpr.object.desc': '',
+  'gdpr.object.desc': ' ',
   'dmca.step1.desc1':
     'Reporting is split into two scenarios. 1. Internal property (infringement on site of property existing on site). 2. External property (infringement on site of property not existing on site).',
   'dmca.step1.desc2':
