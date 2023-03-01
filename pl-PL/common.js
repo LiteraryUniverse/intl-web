@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Wytyczne dla społeczności',
     'common.legal.privacy': 'Polityka prywatności',
     'common.legal.copyright': 'Umowa o prawie autorskim',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nowa wersja ({newVersion}) niniejszego dokumentu wejdzie w życie w dniu {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Wszelkie prawa zastrzeżone, wszystkie teksty są własnością ich autorów.',
     'premium.only.title': 'Niewystarczająco wysoka ranga członkowska',
