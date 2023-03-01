@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Gemeenskapsriglyne',
     'common.legal.privacy': 'Privaatheidsbeleid',
     'common.legal.copyright': 'Kopiereg ooreenkoms',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': '\'n Nuwe weergawe ({newVersion}) van hierdie dokument sal in werking tree op {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Alle regte voorbehou, alle tekste behoort aan hul onderskeie outeurs.',
     'premium.only.title': 'Nie hoë genoeg litmaatskap',
