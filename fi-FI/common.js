@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Privacy Policy',
     'common.legal.copyright': 'Copyright Agreement',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Tämän asiakirjan uusi versio ({newVersion}) tulee voimaan {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Kaikki oikeudet pidätetään, kaikki tekstit kuuluvat tekijöilleen.',
     'premium.only.title': 'Not high enough membership rank',
