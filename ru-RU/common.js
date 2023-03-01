@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Политика конфиденциальности',
     'common.legal.copyright': 'Соглашение об авторских правах',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Все права защищены, все тексты принадлежат их авторам.',
     'premium.only.title': 'Not high enough membership rank',
