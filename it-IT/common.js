@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Linee guida della community',
     'common.legal.privacy': 'Condizioni sulla Privacy',
     'common.legal.copyright': 'Accordo Copyright',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nuova versione ({newVersion}) di questo documento entrerà in vigore il {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Tutti i diritti riservati, tutti i testi appartengono ai rispettivi autori.',
     'premium.only.title': 'Grado di iscrizione non sufficiente',
