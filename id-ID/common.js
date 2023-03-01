@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Pedoman Komunitas',
     'common.legal.privacy': 'Kebijakan Privasi',
     'common.legal.copyright': 'Persetujuan Hak Cipta',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Versi baru ({newVersion}) dari dokumen ini akan berlaku pada {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Hak cipta dilindungi undang-undang, semua karya adalah milik penulis masing-masing.',
     'premium.only.title': 'Rank membership tidak cukup tinggi',
