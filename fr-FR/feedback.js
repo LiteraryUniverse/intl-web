@@ -50,5 +50,5 @@ export default {
     universe {univers}
     story {histoire}
     other {histoire}
-  } est violée ?`
+  } est en train d'être violée ?`
 };
