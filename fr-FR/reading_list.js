@@ -11,15 +11,15 @@ export default {
   'readingList.edit.aria': 'Modal pour modifier les paramètres de la liste de lecture',
   'readingList.library.title': 'Vos listes de lecture',
   'readingList.public.label': 'Est-elle visible par le public ?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.addItem': `Ajoutez {type, select,
+    universes {univers}
+    stories {histoire}
+    other {histoires et univers}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
+  'readingList.addItem.modalAria': `Modal pour ajouter {type, select,
+    universes {univers}
+    stories {histoires}
+    other {histoires et univers}
+  } à la liste de lecture.`,
   'readingList.addItem.fromLibrary': 'Depuis la bibliothèque'
 };
