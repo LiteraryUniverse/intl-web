@@ -14,14 +14,12 @@ export default {
   'readingList.addItem': `Add {type, select,
     universes {universe}
     stories {story}
+    other {stories and universes}
   }`,
-  'readingList.addItem.modalAria': `Modal to add a {type, select,
-    universes {universe}
-    stories {story}
+  'readingList.addItem.modalAria': `Modal to add {type, select,
+    universes {universes}
+    stories {stories}
+    other {stories and universes}
   } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.addItem.added': `{type, select,
-    universes {Universe}
-    stories {Story}
-  } has been added.`
+  'readingList.addItem.fromLibrary': 'From library'
 }
