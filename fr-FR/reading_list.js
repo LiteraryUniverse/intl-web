@@ -1,27 +1,27 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universe',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
+  'readingList.title': 'Liste de lecture',
+  'readingList.type.label': 'Type de liste',
+  'readingList.type.stories': 'Histoires',
+  'readingList.type.universes': 'Univers',
+  'readingList.ordered.label': 'Liste classée',
+  'readingList.button.add': 'Ajouter à la liste de lecture',
+  'readingList.selectList': 'Sélectionner la liste de lecture',
+  'readingList.create': 'Créer une nouvelle liste de lecture',
+  'readingList.create.aria': 'Modal avec paramètres pour nouvelle liste de lecture',
+  'readingList.edit.aria': 'Modal pour modifier les paramètres de la liste de lecture',
+  'readingList.library.title': 'Vos listes de lecture',
+  'readingList.public.label': 'Est-elle visible par le public ?',
+  'readingList.addItem': `Ajoutez {type, select,
+    universes {univers}
+    stories {histoire}
   }`,
-  'readingList.addItem.modalAria': `Modal to add a {type, select,
-    universes {universe}
-    stories {story}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
+  'readingList.addItem.modalAria': `Modal pour ajouter {type, select,
+    universes {un univers}
+    stories {une histoire}
+  } à la liste de lecture.`,
+  'readingList.addItem.fromLibrary': 'Depuis la bibliothèque',
   'readingList.addItem.added': `{type, select,
-    universes {Universe}
-    stories {Story}
-  } has been added.`
+    universes {Univers a été ajouté}
+    stories {Histoire a été ajoutée}
+  }.`
 };
