@@ -51,101 +51,101 @@ export default {
     'plans.feature.overviewNotes': 'Notes de présentation de l\'histoire',
     'plans.feature.personalNotesStoriesUniverses': 'Notes personnelles sur les histoires et les univers',
     'plans.feature.storyReviews': 'Critiques d\'histoires',
-    'plans.feature.readingLists': 'Reading lists',
-    'plans.feature.scenesManager': 'Scenes manager',
-    'plans.feature.glossaries': 'Translation glossaries',
-    'plans.currency.select': 'Select currency',
-    'plans.subscription.ownAlready': 'You currently have this plan',
-    'plans.subscription.title': 'Subscription',
-    'plans.see': 'See available subscription plans',
-    'plans.current.none': 'You are currently not supporting Literary Universe.',
-    'plans.current.buying': 'It might take a few moments to verify your purchase. We appreciate your patience.',
-    'plans.current.heading': 'Current subscription plan',
-    'payment.methods.title': 'Payments & monetization',
-    'payment.methods.tabs': 'Payment options',
-    'payment.option.title': 'Payment option',
-    'payment.option.notFount': 'You don\'t have any payment option saved.',
-    'payment.option.create': 'Add a new payment option',
-    'payment.option.description': 'Here is a list of your saved payment methods. You can save new payment methods here for faster checkout. Literary Universe does not store nor process your payment credentials like credit card number.',
-    'payment.history.title': 'Payment history',
-    'payment.history.tab': 'History',
-    'payment.history.none': 'We don\'t have any records of past payments.',
+    'plans.feature.readingLists': 'Listes de lecture',
+    'plans.feature.scenesManager': 'Gestionnaire de Scénarios',
+    'plans.feature.glossaries': 'Glossaires de traduction',
+    'plans.currency.select': 'Sélectionner la devise',
+    'plans.subscription.ownAlready': 'Vous avez actuellement ce plan',
+    'plans.subscription.title': 'Abonnement',
+    'plans.see': 'Voir les plans d\'abonnement disponibles',
+    'plans.current.none': 'Vous ne soutenez pas actuellement l\'Univers Littéraire.',
+    'plans.current.buying': 'La vérification de votre achat peut prendre quelques instants. Nous vous remercions de votre patience.',
+    'plans.current.heading': 'Plan actuel de souscription',
+    'payment.methods.title': 'Paiements et monétisation',
+    'payment.methods.tabs': 'Options de paiement',
+    'payment.option.title': 'Option de paiement',
+    'payment.option.notFount': 'Vous n\'avez pas enregistré d\'option de paiement.',
+    'payment.option.create': 'Ajouter une nouvelle option de paiement',
+    'payment.option.description': 'Voici une liste de vos méthodes de paiement enregistrées. Vous pouvez enregistrer de nouveaux modes de paiement ici pour accélérer le passage à la caisse. L\'Univers Littéraire ne stocke pas et ne traite pas vos informations de paiement comme le numéro de votre carte de crédit.',
+    'payment.history.title': 'Historique des payements',
+    'payment.history.tab': 'Historique',
+    'payment.history.none': 'Nous n\'avons pas d\'historique des paiements passés.',
     // Added 2020-04-30
-    'plans.options.aria': 'Payment options',
-    'plans.options.creditCard': 'Credit Card',
-    'plans.purchase.action': 'Subscribe',
-    'plans.purchase.title': 'Buy Literary Universe subscription',
-    'payment.creditCard.details': 'Credit Card details',
-    'payments.zipcode.label': 'ZIP code',
-    'payment.card.name': 'Name on card',
-    'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-    'plans.subscribed.periodEnd': 'Your subscription is valid until: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.options.aria': 'Options de paiement',
+    'plans.options.creditCard': 'Carte de crédit',
+    'plans.purchase.action': 'S\'abonner',
+    'plans.purchase.title': 'Acheter un abonnement à l\'Univers Littéraire',
+    'payment.creditCard.details': 'Détails de Carte de Crédit',
+    'payments.zipcode.label': 'Code postal',
+    'payment.card.name': 'Nom sur la carte',
+    'plans.subscribed.thankYou': 'Merci de soutenir l\'Univers Littéraire',
+    'plans.subscribed.periodEnd': 'Votre abonnement est valable jusqu\'à : {end, date, medium}',
+    'plans.subscribed.renewal': `A la fin, votre abonnement sera {method, select,
+    charge_automatically {renouvelé automatiquement}
+    send_invoice {renouvelé après le paiement d'une facture}
     other {}
   }.`,
-    'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.paymentMethod': 'Votre mode de paiement par défaut sera utilisé pour payer le prochain cycle.',
+    'plans.subscribed.status': `Statut de l'abonnement : {status, select,
+    active {Actif}
+    incomplete {Il manque quelque chose}
+    incomplete_expired {Il manque quelque chose}
+    trialing {Essai}
+    past_due {Il nous manque votre paiement}
+    canceled {Annulé}
+    unpaid {Impayé}
     other {}
   }`,
-    'payments.changeMethod': 'Change payment method',
-    'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
-    'plans.cancel.button': 'Cancel subscription',
-    'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.',
-    'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
-    'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
-    'plans.cancel.restoreBtn': 'Restore subscription',
-    'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
-    'plans.change.button': 'Change subscription',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
-    'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
-    'plans.change.upgrade': 'Upgrade',
-    'payments.disclaimer': 'Payment information and processing is done via Stripe. We do not keep any credit card or bank account information on our servers.',
-    'buy.payment.optionsSelect': 'Select payment option',
-    'payments.card.number': 'Card number',
-    'payments.card.expire': 'Valid Thru',
+    'payments.changeMethod': 'Modifier le mode de paiement',
+    'plans.subscribed.willNotRenew': ', ne sera pas renouvelé à la fin du cycle.',
+    'plans.cancel.button': 'Annuler l\'abonnement',
+    'plans.cancel.question': 'Êtes-vous sûr de vouloir annuler votre abonnement ? Votre abonnement restera actif jusqu\'à la fin du cycle de facturation.',
+    'plans.cancel.confirmationButton': 'Oui, je veux annuler mon abonnement',
+    'plans.cancel.failed': 'Nous sommes désolés, mais nous n\'avons pas pu annuler votre plan pour le moment. Veuillez réessayer plus tard.',
+    'plans.cancel.restoreBtn': 'Restaurer l\'abonnement',
+    'plans.cancel.restoreFailed': 'Nous sommes désolés, mais nous n\'avons pas été en mesure de restaurer l\'abonnement pour le moment. Veuillez réessayer plus tard.',
+    'plans.change.button': 'Modifier l\'abonnement',
+    'plans.change.explanation': 'Sélectionnez le plan que vous souhaitez mettre à niveau ou rétrograder. La différence de prix vous sera immédiatement facturée.',
+    'plans.change.failed': 'Nous sommes désolés, mais nous n\'avons pas pu modifier votre plan pour le moment. Veuillez réessayer plus tard.',
+    'plans.change.upgrade': 'Mise à niveau',
+    'payments.disclaimer': 'Les informations et le traitement des paiements sont effectués via Stripe. Nous ne conservons aucune information sur les cartes de crédit ou les comptes bancaires sur nos serveurs.',
+    'buy.payment.optionsSelect': 'Sélectionnez l\'option de paiement',
+    'payments.card.number': 'Numéro de carte',
+    'payments.card.expire': 'Valable jusqu\'au',
     'payments.card.cvv': 'CVV',
-    'payments.card.info': '{cardType} card, ending in {ending}',
-    'payments.none': 'No saved payment options found.',
-    'payments.added': 'New payment option has been successfully added.',
-    'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
-    'payment.invoice.status': 'Invoice status',
+    'payments.card.info': 'Carte {cardType} , se terminant par {ending}',
+    'payments.none': 'Aucune option de paiement enregistrée n\'a été trouvée.',
+    'payments.added': 'Une nouvelle option de paiement a été ajoutée avec succès.',
+    'payments.delete.confirm': 'Êtes-vous sûr de vouloir supprimer {cardType}, se terminant par {ending} ?',
+    'payment.invoice.status': 'Statut de la facture',
     'payment.invoice.statusMessage': `{status, select,
-    draft {Draft}
-    open {Open}
-    paid {Paid}
-    uncollectible {Uncollectible}
-    void {Void}
+    draft {Brouillon}
+    open {Ouvert}
+    paid {Payé}
+    uncollectible {Incollectible}
+    void {Vide}
     other {}
   }`,
-    'payment.invoice.id': 'Invoice id',
-    'payment.invoice.pdf': 'Invoice pdf',
+    'payment.invoice.id': 'Identifiant de la facture',
+    'payment.invoice.pdf': 'Facture pdf',
     'payment.invoice.total': 'Total',
-    'payment.invoice.what': 'Invoice description',
-    'payment.stripe.powered': 'Powered by ',
-    'payment.listMethods.card': 'Cards',
-    'payment.expiresAt': 'Expires {month}/{year}',
+    'payment.invoice.what': 'Description de la facture',
+    'payment.stripe.powered': 'Propulsé par ',
+    'payment.listMethods.card': 'Cartes',
+    'payment.expiresAt': 'Expire le {month}/{year}',
     'payment.card.details': `{type, select,
-    credit {Credit card}
-    debit {Debit card}
-    other {Card}
-  } ending with {last4}`,
-    'payment.options.default': 'Default',
+    credit {Carte de crédit}
+    debit {Carte de débit}
+    other {Carte}
+  } se terminant par {last4}`,
+    'payment.options.default': 'Défaut',
     // Added 2020-05-27
-    'payment.method.add': 'Add a new payment method',
-    'payment.methods.adding': 'You new payment method has been added to your account.',
-    'payment.methods.delete': 'Delete payment method',
+    'payment.method.add': 'Ajouter un nouveau mode de paiement',
+    'payment.methods.adding': 'Votre nouveau mode de paiement a été ajouté à votre compte.',
+    'payment.methods.delete': 'Supprimer le mode de paiement',
     'payment.upgradePlan.option': '{plan} - {price}',
     'payment.methods.webMonetization': 'Web Monetization',
-    'settings.webMonetization.placeholder': 'Your payment pointer',
-    'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
-    'payment.webMonetization.learnMore': 'Learn more about Web Monetization'
+    'settings.webMonetization.placeholder': 'Votre pointeur de paiement',
+    'payment.webMonetization.explained': 'Web Monetization est une proposition de norme pour les paiements sur le Web. Ici, vous pouvez ajouter votre pointeur de paiement qui sera ensuite ajouté à votre page de profil, votre blog, vos univers et vos histoires pour être utilisé par Web Monetization.',
+    'payment.webMonetization.learnMore': 'En savoir plus sur Web Mmonetization'
 };
