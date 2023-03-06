@@ -46,6 +46,6 @@ export default {
     'discover.searchDisplay.covers': 'Liste des couvertures',
     'discover.searchDisplay.list': 'Liste compacte',
     'discover.includesAds': 'Cette œuvre comporte un placement de produit ou inclut d\'autres formes de publicité.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discovery.featured.universes': 'Univers Recommandés',
+    'discovery.featured.stories': 'Histoires Recommandées'
 };
