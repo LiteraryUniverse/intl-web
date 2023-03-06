@@ -1,8 +1,8 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.'
+  'flashnews.create': 'Créer un nouveau flash d\'actualité',
+  'flashnews.startsAt': 'Commencer à afficher ce message à',
+  'flashnews.endsAt': 'Arrêter l\'affichage de ce message à',
+  'flashnews.newLanguage': 'Sélectionnez la nouvelle langue à ajouter',
+  'flashnews.onlyDisplayOn': 'Les actualités ne seront affichées que dans les langues sélectionnées ci-dessous (s\'il y en a une sélectionnée), il n\'y aura pas d\'actualités affichées, même dans la langue par défaut, dans d\'autres langues.'
 };
