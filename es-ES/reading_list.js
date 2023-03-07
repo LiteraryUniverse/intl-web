@@ -21,5 +21,6 @@ export default {
     stories {stories}
     other {stories and universes}
   } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'Desde la biblioteca'
+  'readingList.addItem.fromLibrary': 'Desde la biblioteca',
+  'readingList.button.added': 'Added'
 };
