@@ -238,5 +238,6 @@ export default {
     'common.discordCommunity': 'Społeczność Discorda',
     'common.account': 'Konto',
     'common.notifications': 'Powiadomienia',
-    'common.byDeclaration': 'By:'
+    'common.byDeclaration': 'By:',
+    'common.done': 'Done'
 }    /* eslint-enable max-len */;
