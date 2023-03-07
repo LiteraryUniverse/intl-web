@@ -238,5 +238,6 @@ export default {
     'common.discordCommunity': 'Discordコミュニティ',
     'common.account': 'アカウント',
     'common.notifications': '通知',
-    'common.byDeclaration': 'By:'
+    'common.byDeclaration': 'By:',
+    'common.done': 'Done'
 }    /* eslint-enable max-len */;
