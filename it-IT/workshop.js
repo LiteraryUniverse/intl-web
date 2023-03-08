@@ -64,7 +64,11 @@ export default {
     'workshop.revisions.toeditor': 'Vai all\'editor',
     'workshop.revisions.comments': 'Commenti sulla revisione',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revisione {revision} - Commenti',
-    'workshop.revisions.comments.list': '{revision}: {publication, select, beta {per i lettori Beta} readers {Pubblico} other {}} {datetime, date, medium} {datetime, time, short}',
+    'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
+      beta {for Beta readers}
+      readers {Public}
+      other {}
+    } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'È necessario creare prima una revisione.',
     'workshop.revisions.comments.select': 'Seleziona revisione',
     'workshop.collaborators.noresults': 'Nessun risultato',
