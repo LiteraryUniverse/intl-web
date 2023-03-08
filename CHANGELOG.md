@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-03-09 - v2.4.1
+
+* Update `workshop.revisions.comments.list` to include `language` variable
+
 ## 2023-03-08 - v2.4.0
 
 * Fix imports of new reading list lang in other languages than English
