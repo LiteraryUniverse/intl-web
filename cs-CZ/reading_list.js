@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universe',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Seznamy četby',
+  'readingList.type.label': 'Typ seznamu',
+  'readingList.type.stories': 'Příběhy',
+  'readingList.type.universes': 'Vesmíry',
+  'readingList.ordered.label': 'Řazený seznam',
+  'readingList.button.add': 'Přidat do seznamu četby',
+  'readingList.selectList': 'Vyberte seznam čtení',
+  'readingList.create': 'Vytvořit nový seznam četby',
+  'readingList.create.aria': 'Modal s nastavením pro nový seznam četby',
+  'readingList.edit.aria': 'Modál pro úpravu nastavení seznamu četby',
+  'readingList.library.title': 'Vaše seznamy četby',
+  'readingList.public.label': 'Veřejně viditelný?',
+  'readingList.addItem': `Přidat {type, select,
+    universes {vesmír}
+    stories {příběh}
+    other {příběhy a univerzity}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modál pro přidání {type, select,
+    universes {vesmírů}
+    stories {příběhů}
+    other {příběhů a vesmírů}
+  } do seznamu četby.`,
+  'readingList.addItem.fromLibrary': 'Z knihovny',
+  'readingList.button.added': 'Přidáno'
 };
