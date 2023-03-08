@@ -76,8 +76,11 @@ export default {
   'workshop.revisions.comments': 'Revision comments',
   'workshop.revisions.comments.title':
     '{story}: {chapter} - Revision {revision} - Comments',
-  'workshop.revisions.comments.list':
-    '{revision}: {publication, select, beta {for Beta readers} readers {Public} other {}} {datetime, date, medium} {datetime, time, short}',
+  'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
+      beta {for Beta readers}
+      readers {Public}
+      other {}
+    } {datetime, date, medium} {datetime, time, short}`,
   'workshop.revisions.comments.norevision':
     'You need to create a revision first.',
   'workshop.revisions.comments.select': 'Select revision',
@@ -273,8 +276,9 @@ export default {
   'workshop.ratingAdjusted':
     'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
   'workshop.selectCollaborator': 'Select collaborator',
-  'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
+  'workshop.chapters.scheduledOn':
+    '{publishDate, date, short} | {publishDate, time}',
   'workshop.chapterStatus.draft': 'Draft',
   'workshop.chapterStatus.scheduled': 'Scheduled',
-  'workshop.chapterStatus.published': 'Published',
+  'workshop.chapterStatus.published': 'Published'
 }
