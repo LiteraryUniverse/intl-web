@@ -3,11 +3,11 @@
  * https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
  */
 export default {
-    'licenses.about': 'About licenses',
-    'licenses.more': 'More information',
-    'licenses.legal': 'Legal document',
+    'licenses.about': 'À propos des licences',
+    'licenses.more': 'Plus d\'informations',
+    'licenses.legal': 'Document légal',
     'licenses.name.cc-by': 'Creative Commons Attribution 4.0',
-    'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
+    'licenses.cc-by': 'Cette licence permet aux autres de distribuer, remixer, modifier et développer votre travail, même à des fins commerciales, à condition qu\'ils vous attribuent la création originale. C\'est la plus souple des licences proposées. Recommandée pour une diffusion et une utilisation maximales du matériel sous licence.',
     'licenses.name.cc-by-sa': 'Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0',
     'licenses.cc-by-sa': 'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
     'licenses.name.cc-by-nd': 'Creative Commons Attribution - Pas de Modification 4.0',
