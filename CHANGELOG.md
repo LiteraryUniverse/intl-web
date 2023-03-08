@@ -1,10 +1,11 @@
 # Changelog for languages
 
-## 2023-02-28 - v2.3.1
+## 2023-03-08 - v2.4.0
 
 * Fix imports of new reading list lang in other languages than English
 * Add more common and reading list related strings
 * New texts for homepage
+* Added French as a language option
 
 ## 2023-02-23 - v2.3.0
 

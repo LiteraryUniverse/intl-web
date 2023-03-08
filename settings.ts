@@ -104,6 +104,22 @@ export default {
       defaultLocale: 'pl-PL',
       supportedLocales: ['pl-PL'],
       rtl: false
+    },
+    {
+      code: 'fr',
+      name: 'French',
+      native: 'Français',
+      defaultLocale: 'fr-FR',
+      supportedLocales: [
+        'fr-FR',
+        'fr-CA',
+        'fr-CH',
+        'fr-LU',
+        'fr-BE',
+        'fr-MC',
+        'fr-CF'
+      ],
+      rtl: false
     }
   ],
   /**
@@ -147,22 +163,6 @@ export default {
   storyLanguages(): LanguageSettingsType[] {
     return [
       ...this.languages,
-      {
-        code: 'fr',
-        name: 'French',
-        native: 'Français',
-        defaultLocale: 'fr-FR',
-        supportedLocales: [
-          'fr-FR',
-          'fr-CA',
-          'fr-CH',
-          'fr-LU',
-          'fr-BE',
-          'fr-MC',
-          'fr-CF'
-        ],
-        rtl: false
-      },
       {
         code: 'pt-PT',
         name: 'Portuguese (Portugal)',
