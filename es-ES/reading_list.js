@@ -2,7 +2,7 @@ export default {
   'readingList.title': 'Lista de lectura',
   'readingList.type.label': 'Tipo de lista',
   'readingList.type.stories': 'Historias',
-  'readingList.type.universes': 'Universo',
+  'readingList.type.universes': 'Universes',
   'readingList.ordered.label': 'Ranking',
   'readingList.button.add': 'Añadir a la lista de lectura',
   'readingList.selectList': 'Elegir lista de lectura',
