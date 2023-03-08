@@ -46,6 +46,6 @@ export default {
     'discover.searchDisplay.covers': 'Auflistung der Abdeckungen',
     'discover.searchDisplay.list': 'Kompakte Liste',
     'discover.includesAds': 'Diese Arbeit enthält Produktplatzierungen oder andere Formen von Werbung.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discovery.featured.universes': 'Ausgewählte Universen',
+    'discovery.featured.stories': 'Ausgewählte Geschichten'
 };
