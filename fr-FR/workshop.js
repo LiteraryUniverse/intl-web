@@ -65,7 +65,7 @@ export default {
     'workshop.revisions.comments': 'Commentaires de révision',
     'workshop.revisions.comments.title': '{story} : {chapter} - Révision {revision} - Commentaires',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
+      beta {pour les lecteurs bêta}
       readers {Public}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
