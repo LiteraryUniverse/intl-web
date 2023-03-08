@@ -87,12 +87,12 @@ export default {
     'common.legal.privacy': 'Política de Privacidade',
     'common.legal.copyright': 'Acordo de Direitos de Autor',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Termos de Utilização}
+    community {Normas da Comunidade}
+    privacy {Política de Privacidade}
+    copyright {Acordo de Direitos de Autor}
+    other {Acordo}
+  } Versão {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Uma nova versão ({newVersion}) deste documento entrará em vigor no {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Todos os direitos reservados, todos os textos pertencem aos seus respetivos autores.',
     'premium.only.title': 'Posição de membro não é suficientemente elevada',
@@ -239,5 +239,5 @@ export default {
     'common.account': 'Conta',
     'common.notifications': 'Notificações',
     'common.byDeclaration': 'Por:',
-    'common.done': 'Done'
+    'common.done': 'Concluído'
 }    /* eslint-enable max-len */;
