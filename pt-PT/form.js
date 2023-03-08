@@ -1,32 +1,32 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
+    'form.validator.required': 'Campo obrigatório',
+    'form.validator.mustBeNumber': 'Tem de ser um número',
+    'form.validator.minNumber': 'Deve ser maior que {min, number}',
+    'form.validator.maxNumber': 'Deve ser menor que {max, number}',
+    'form.validator.maxLength': `Deve ter menos que {max, number} {what, select,
+    characters {caracteres}
     tags {tags}
-    genres {genres}
-    numbers {numbers}
+    genres {géneros}
+    numbers {números}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
+    'form.validator.minLength': `Deve ter pelo menos {min, number} {what, select,
+    characters {caracteres}
     tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    genres {géneros}
+    genre {género}
+    numbers {números}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
+    'form.validator.email': 'Tem de ser um email válido',
+    'form.validator.url': 'Tem de ser um URL válido',
+    'form.validator.slug': 'Tem de ser uma parte de um URL válido',
+    'form.submitting.signup': 'A criar conta...',
+    'form.submitting.signin': 'A iniciar sessão...',
+    'form.submitting.default': 'A submeter...',
+    'form.submitting.sending': 'A enviar...',
+    'form.validator.whitespace': 'Não deve ter espaço em branco',
     'form.validator.zipCode': 'Must be a valid ZIP code',
     'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
     'form.validator.btc': 'This is not a valid BTC address.',
