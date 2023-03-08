@@ -45,5 +45,7 @@ export default {
     'discover.viewSelection.aria': 'Mostra selezione',
     'discover.searchDisplay.covers': 'Riguarda l\'elenco',
     'discover.searchDisplay.list': 'Elenco compatto',
-    'discover.includesAds': 'Questo lavoro include pubblicità indiretta o altre forme di pubblicità.'
+    'discover.includesAds': 'Questo lavoro include pubblicità indiretta o altre forme di pubblicità.',
+    'discovery.featured.universes': 'Featured universes',
+    'discovery.featured.stories': 'Featured stories'
 };

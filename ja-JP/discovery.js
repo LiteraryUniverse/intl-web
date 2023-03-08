@@ -43,5 +43,7 @@ export default {
     'discover.viewSelection.aria': 'セレクションを見る',
     'discover.searchDisplay.covers': 'カバー一覧',
     'discover.searchDisplay.list': 'コンパクトリスト',
-    'discover.includesAds': 'この作品にはプロダクトプレイスメントなどの広告が含まれています。'
+    'discover.includesAds': 'この作品にはプロダクトプレイスメントなどの広告が含まれています。',
+    'discovery.featured.universes': 'Featured universes',
+    'discovery.featured.stories': 'Featured stories'
 };

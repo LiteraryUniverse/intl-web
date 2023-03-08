@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Privacy Policy',
     'common.legal.copyright': 'Copyright Agreement',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Όλα τα δικαιώματα διατηρούνται, όλα τα κείμενα ανήκουν στους αντίστοιχους συγγραφείς τους.',
     'premium.only.title': 'Not high enough membership rank',
@@ -230,5 +237,7 @@ export default {
     'common.social': 'Social',
     'common.discordCommunity': 'Discord Community',
     'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.notifications': 'Notifications',
+    'common.byDeclaration': 'By:',
+    'common.done': 'Done'
 }    /* eslint-enable max-len */;

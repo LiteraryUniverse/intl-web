@@ -21,8 +21,8 @@ export default {
     'common.settings': 'Paramètres',
     'common.options': 'Options',
     'common.profile': 'Profil',
-    'common.blog': 'Blogue',
-    'common.blogs': 'Blogues',
+    'common.blog': 'Blog',
+    'common.blogs': 'Blogs',
     'common.about': 'À propos de nous',
     'common.accessdenied': 'Accès refusé',
     'common.accessdenied.msg': 'On ne vous a pas donné la permission d\'aller ici. Si vous devez avoir accès à ce site, veuillez contacter le propriétaire et lui demander de vérifier les paramètres.',
@@ -79,13 +79,20 @@ export default {
     'common.password': 'Mot de passe',
     'signin.password.forgot': 'Mot de passe oublié ?',
     'dashboard.whatsnew': 'Ce qui est nouveau',
-    'dashboard.blog': 'Votre blogue',
+    'dashboard.blog': 'Votre blog',
     'common.footer.tagline': 'Écrire et lire des univers complexes en toute simplicité.',
     'common.footer.plans': 'Plans & Tarif',
     'common.legal.tos': 'Conditions d\'Utilisation',
     'common.legal.community': 'Directives Communautaires',
     'common.legal.privacy': 'Politique de Confidentialité',
     'common.legal.copyright': 'Accord sur les droit d\'auteur',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Conditions d'Utilisation}
+    community {Directives Communautaires}
+    privacy {Politique de Confidentialité}
+    copyright {Accord sur les droit d'auteur}
+    other {Accord}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Une nouvelle version ({newVersion}) de ce document entrera en vigueur le {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Tous droits réservés, tous les textes appartiennent à leurs auteurs respectifs.',
     'premium.only.title': 'Rang de membre insuffisant',
@@ -95,7 +102,7 @@ export default {
     'universe.visit': 'Visitez la page univers',
     'common.fanmanager': 'Gestionnaire de fans',
     'common.fanarts': 'Arts de fans',
-    'common.fanfiction': 'Fiction de fans',
+    'common.fanfiction': 'Fan fiction',
     'common.fansettings': 'Paramètres de fans',
     'story.chapter': 'Chapitre',
     'story.chapters': 'Chapitres',
@@ -106,7 +113,7 @@ export default {
     'story.finishedAt': 'Terminé le {date, date, medium}.',
     'story.comments.for': 'Commentaires pour {story} {chapter}.',
     'story.cover.alt': 'Image de couverture de l\'histoire pour {story}.',
-    'story.note.fanfiction': 'NOTE : Cette histoire est une fiction de fan sur l\'univers {universe}.',
+    'story.note.fanfiction': 'NOTE : Cette histoire est une fan fiction sur l\'univers {universe}.',
     copyrights: 'Droit d\'auteur',
     'common.challenges': 'Défis',
     // for beta only
@@ -230,5 +237,7 @@ export default {
     'common.social': 'Social',
     'common.discordCommunity': 'Communité Discord',
     'common.account': 'Compte',
-    'common.notifications': 'Notifications'
+    'common.notifications': 'Notifications',
+    'common.byDeclaration': 'Par :',
+    'common.done': 'Terminé'
 }    /* eslint-enable max-len */;

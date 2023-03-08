@@ -1,33 +1,33 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': '{title} auteurs',
+    'universe.fanfiction.see': 'Toutes les Fan Fiction pour {universe}',
+    'universe.fanfiction.desc': 'Fan Fiction pour {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
+    'universe.fansettings.for': '{universe} Paramètres des fans',
+    'universe.fanfiction.stories': 'Histoires',
     'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.stories.count': `Il {num, plural,
+    =0 {n'y a pas d'histoires}
+    one {y a une histoire}
+    other {y a # histoires}
+    } dans cet univers.`,
+    'universe.authors.title': 'Auteurs',
+    'universe.authors.desc': 'Créateurs et contributeurs de {universe}',
+    'universe.contributors': 'Contributeurs',
+    'universe.translators': 'Traducteurs',
+    'universe.authors.notice': 'Chaque histoire peut avoir des personnes supplémentaires qui ont travaillé dessus. Pour plus de détails, consultez les détails de l\'histoire.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
+    male {Créé}
+    female {Créé}
+    other {Créé}} par `,
+    'universe.stories.for': 'Histoires pour {universe}',
+    'universe.stories.own': 'Histoires de {universe}',
+    'universe.stories.desc': 'Histoires canon pour {universe}',
+    'universe.encyclopedia.title': 'Encyclopédie de {universe}',
+    'universe.encyclopedia.desc': 'Tous les détails sur {universe}',
+    'universe.fanArt.submit': 'Soumettez votre art',
+    'universe.fanArtHeaderDesc.item': 'Fan art de {universe} - {name}',
+    'universe.fanArtHeaderDesc.submit': 'Soumission d\'un fan art de {universe}',
     'universe.fanArtHeaderDesc.overview': '{universe} fan art'
 };

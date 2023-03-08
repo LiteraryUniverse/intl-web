@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Usmernenia Spoločenstva',
     'common.legal.privacy': 'Zásady ochrany osobných údajov',
     'common.legal.copyright': 'Dohoda o autorských právach',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nová verzia ({newVersion}) tohto dokumentu nadobudne účinnosť dňa {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všetky práva vyhradené, všetky texty patria ich autorom.',
     'premium.only.title': 'Nedostatočne vysoká členská hodnosť',
@@ -230,5 +237,7 @@ export default {
     'common.social': 'Komunita',
     'common.discordCommunity': 'Discord komunita',
     'common.account': 'Účet',
-    'common.notifications': 'Oznámenia'
+    'common.notifications': 'Oznámenia',
+    'common.byDeclaration': 'By:',
+    'common.done': 'Done'
 }    /* eslint-enable max-len */;

@@ -45,5 +45,7 @@ export default {
     'discover.viewSelection.aria': 'Visualizar seleção',
     'discover.searchDisplay.covers': 'Listagem de capas',
     'discover.searchDisplay.list': 'Lista compacta',
-    'discover.includesAds': 'Este trabalho possui uma colocação de produto ou inclui nele outras formas de publicidade.'
+    'discover.includesAds': 'Este trabalho possui uma colocação de produto ou inclui nele outras formas de publicidade.',
+    'discovery.featured.universes': 'Universos em destaque',
+    'discovery.featured.stories': 'Histórias em destaque'
 };

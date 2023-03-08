@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Правила спільноти',
     'common.legal.privacy': 'Політика конфіденційності',
     'common.legal.copyright': 'Угода про авторські права',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Нова версія ({newVersion}) цього документа набуде чинності {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Всі права захищені, всі тексти належать їх відповідним авторам.',
     'premium.only.title': 'Недостатньо високий рівень членства',
@@ -230,5 +237,7 @@ export default {
     'common.social': 'Social',
     'common.discordCommunity': 'Discord Community',
     'common.account': 'Account',
-    'common.notifications': 'Notifications'
+    'common.notifications': 'Notifications',
+    'common.byDeclaration': 'By:',
+    'common.done': 'Done'
 }    /* eslint-enable max-len */;

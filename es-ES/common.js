@@ -86,6 +86,13 @@ export default {
     'common.legal.community': 'Normas de la comunidad',
     'common.legal.privacy': 'Política de privacidad',
     'common.legal.copyright': 'Acuerdos de derecho de autor',
+    'common.legal.versionDisplay': `{type, select,
+    tos {Términos de Servicio}
+    community {Directrices Comunitarias}
+    privacy {Políticas de Privacidad}
+    copyright {Acuerdos de Copyright}
+    other {Acuerdos}
+  } Versión {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nueva versión ({newVersion}) de este documento entrará en vigor el {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Todos los derechos reservados, todos los textos pertenecen a sus respectivos autores.',
     'premium.only.title': 'Rango de membresía insuficiente',
@@ -230,5 +237,7 @@ export default {
     'common.social': 'Redes sociales',
     'common.discordCommunity': 'Comunidad de Discord',
     'common.account': 'Cuenta',
-    'common.notifications': 'Notificaciones'
+    'common.notifications': 'Notificaciones',
+    'common.byDeclaration': 'Por:',
+    'common.done': 'Done'
 }    /* eslint-enable max-len */;
