@@ -54,6 +54,6 @@ export default {
     'discover.searchDisplay.covers': 'Zobrazení dle obálky',
     'discover.searchDisplay.list': 'Kompaktní zobrazení',
     'discover.includesAds': 'Toto dílo má umístění produktu nebo je v ní zahrnuta jiná forma reklamy.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discovery.featured.universes': 'Doporučené vesmíry',
+    'discovery.featured.stories': 'Doporučené příběhy'
 };
