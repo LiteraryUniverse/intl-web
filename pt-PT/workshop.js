@@ -1,6 +1,6 @@
 export default {
-    'workshop.title': 'Your work',
-    'workshop.noneassigned': 'You have not been assigned any yet.',
+    'workshop.title': 'O seu trabalho',
+    'workshop.noneassigned': 'Ainda não lhe foi atribuído nenhum.',
     'workshop.notavailable': 'This feature is not yet available.',
     'workshop.none': `You currently have no {type, select,
       universe {universe}
