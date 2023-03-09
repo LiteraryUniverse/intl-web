@@ -27,9 +27,9 @@ export default {
     'form.submitting.default': 'A submeter...',
     'form.submitting.sending': 'A enviar...',
     'form.validator.whitespace': 'Não deve ter espaço em branco',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
+    'form.validator.zipCode': 'Tem de ser um código postal válido',
+    'form.validator.isbn': 'Aceitamos apenas a versão 10 ou 13 do ISBN',
+    'form.validator.btc': 'Isto não é um endereço BTC válido.',
     'form.validator.eth': 'This is not a valid ETH address.',
     'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
