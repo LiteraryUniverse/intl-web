@@ -65,8 +65,8 @@ export default {
     'workshop.revisions.comments': 'Comentarios de revisión',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revisión {revision} - Comentarios',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+      beta {para Lectores Beta}
+      readers {Público}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'Tienes que crear primero una revisión.',
