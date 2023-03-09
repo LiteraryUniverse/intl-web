@@ -47,68 +47,68 @@ export default {
     'workshop.story.error.fanfiction.selectuniverse': 'Precisa de selecionar o universo original para a sua ficção de fãs!',
     'workshop.story.error.tags.toomany': 'Só se pode ter 10 tags por história.',
     'workshop.story.new': 'Crie uma nova história',
-    'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
-    'workshop.settings.edit': 'Edit settings',
-    'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
-    'workshop.story.settings': 'Story settings',
-    'workshop.settings.basic': 'Basic settings',
-    'workshop.settings.genres': 'Genres (max 2)',
-    'workshop.story.license': 'Story license',
-    'workshop.story.settings.universe': 'Universe settings',
+    'workshop.story.publishing.notice': 'A história será publicada automaticamente uma vez publicado o primeiro capítulo.',
+    'workshop.settings.edit': 'Editar definições',
+    'workshop.story.publishedOn': 'Esta história foi publicada em {date, date, long} {date, time, short}',
+    'workshop.story.settings': 'Definições de histórias',
+    'workshop.settings.basic': 'Configurações básicas',
+    'workshop.settings.genres': 'Géneros (máx. 2)',
+    'workshop.story.license': 'Licença da história',
+    'workshop.story.settings.universe': 'Definições do universo',
     'workshop.settings.tags': 'Tags',
-    'workshop.revision': 'Revision',
-    'workshop.revisions.title': '{story}: {chapter} Revisions',
-    'workshop.revisions.current': 'Current draft',
-    'workshop.revisions.new.beta': 'Create a new revision out of the draft.',
-    'workshop.revisions.new.public': 'Create a new public revision out of the draft.',
-    'workshop.revisions.toeditor': 'Go to the editor',
-    'workshop.revisions.comments': 'Revision comments',
-    'workshop.revisions.comments.title': '{story}: {chapter} - Revision {revision} - Comments',
+    'workshop.revision': 'Revisão',
+    'workshop.revisions.title': '{story}: {chapter} Revisões',
+    'workshop.revisions.current': 'Rascunho atual',
+    'workshop.revisions.new.beta': 'Criar uma nova revisão a partir do rascunho.',
+    'workshop.revisions.new.public': 'Criar uma nova revisão pública a partir do rascunho.',
+    'workshop.revisions.toeditor': 'Ir para o editor',
+    'workshop.revisions.comments': 'Comentários da revisão',
+    'workshop.revisions.comments.title': '{story}: {chapter} - Revisão {revision} - Comentários',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+      beta {para leitores Beta}
+      readers {Público}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
-    'workshop.revisions.comments.norevision': 'You need to create a revision first.',
-    'workshop.revisions.comments.select': 'Select revision',
-    'workshop.collaborators.noresults': 'No results',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
-    'workshop.collaborators.language.add': 'Create a new translation',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
-    'workshop.revisions.beta.none': 'No revisions at this time.',
-    'reader.asidetoggle': 'Toggle aside information',
+    'workshop.revisions.comments.norevision': 'Precisa de criar uma revisão primeiro.',
+    'workshop.revisions.comments.select': 'Selecionar revisão',
+    'workshop.collaborators.noresults': 'Sem resultados',
+    'workshop.collaborators.add.beta': 'Adicionar leitor Beta',
+    'workshop.collaborators.add.collaborator': 'Adicionar colaborador',
+    'workshop.collaborators.add.translator': 'Adicionar tradutor',
+    'workshop.collaborators.language.add': 'Criar uma nova tradução',
+    'workshop.translations.stories': 'Traduções - histórias',
+    'workshop.translations.universes': 'Traduções - universos',
+    'workshop.revisions.beta.none': 'Nenhuma revisão neste momento.',
+    'reader.asidetoggle': 'Alternar a informação para o lado',
     'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
-    'workshop.cover.alt': 'cover image',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.translation.original.title': 'Título original:',
+    'workshop.translation.original.description': 'Descrição original:',
+    'workshop.translation.original.cover': 'Capa original',
+    'workshop.translation.original.tags': 'Tags originais',
+    'workshop.cover.alt': 'imagem da capa',
+    'workshop.translation.updatedOrig': 'Última atualização do original: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'Última atualização da tradução: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'Última revisão {revision, number}, do original: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'Última revisão {revision, number}, da tradução: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.collaborators.premium': `Para adicionar mais {type, select,
+    collaborator {colaboradores}
+    beta {leitores beta}
+    translator {tradutores}
     other {}
-  }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+  }, precisa de aumentar o seu nível de adesão.`,
+    'workshop.collaborators.requests.sent': 'Pedidos enviados',
+    'workshop.collaborators.requests.invite': `Foi convidado a tornar-se {role, select,
+    beta {leitor beta}
+    translator {tradutor}
+    collaborator {colaborador}
     other {}
-  } for the following:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
+  } para o seguinte:`,
+    'workshop.collaborators.requests.dashboard': `Foi convidado a colaborar {count, plural,
+    zero {em zero trabalhos}
+    one {numa obra literária}
+    other {em # obras literárias}
   }.`,
-    'workshop.collaborators.language.added': 'Language added',
+    'workshop.collaborators.language.added': 'Idioma adicionado',
     'workshop.story.noChaptersFound': 'No chapters found.',
     'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
     'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
