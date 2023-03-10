@@ -44,6 +44,6 @@ export default {
     'discover.searchDisplay.covers': 'カバー一覧',
     'discover.searchDisplay.list': 'コンパクトリスト',
     'discover.includesAds': 'この作品にはプロダクトプレイスメントなどの広告が含まれています。',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discovery.featured.universes': '注目の宇宙',
+    'discovery.featured.stories': '注目の物語'
 };
