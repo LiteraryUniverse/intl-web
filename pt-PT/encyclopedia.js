@@ -9,7 +9,7 @@ export default {
     'encyclopedia.category.character': 'Caracteres',
     'encyclopedia.category.event': 'Eventos',
     'encyclopedia.category.group': 'Grupos',
-    'encyclopedia.category.item': 'Items',
+    'encyclopedia.category.item': 'Itens',
     'encyclopedia.category.location': 'Localizações',
     'encyclopedia.category.other': 'Outros',
     'encyclopedia.category.state': 'Estados',
@@ -24,55 +24,55 @@ export default {
     'encyclopedia.category.species': 'Espécies',
     'encyclopedia.category.technologies': 'Tecnologias',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    =0 {Sem entradas relacionadas encontradas}
+    one {1 entrada relacionada encontrada}
+    other {# rentradas relacionadas encontradas}
+  }.`,
+    'encyclopedia.help.text': 'Utilize o menu da esquerda para navegar entre os itens da enciclopédia. Uma vez selecionado um item, este será exibido em vez deste texto.',
+    'encyclopedia.help.sidebar': 'Caixa de ferramentas da barra lateral',
+    'encyclopedia.help.sidebar.text': 'Bem-vindo à sua história! Esta barra lateral permite-lhe acesso fácil a todos os recursos relacionados com a sua história. Verifique os ícones acima para ver os últimos comentários, as suas notas, pesquisar a sua enciclopédia, navegar e adicionar novas entradas à sua enciclopédia. Se quiser adicionar ligação a uma entrada do texto da história, selecione o texto onde a quer colocar e depois clique no botão de ligação. Ser-lhe-á então pedido que encontre e selecione um item.',
+    'encyclopedia.intro': 'Bem-vindo à enciclopédia de {universe}.',
+    'encyclopedia.add.title': 'Adicionar uma nova entrada à enciclopédia',
+    'encyclopedia.add.heading': 'O que deseja acrescentar?',
+    'encyclopedia.add.moresoon': 'Mais categorias em breve!',
+    'encyclopedia.create': `Criar {category, select,
+    character {um novo caracter}
+    event {um novo evento}
+    group {um novo groupo}
+    item {um novo item}
+    location {uma nova localização}
+    other {uma nova nota}
+    state {um novo estado}
+    governments {um novo governo}
+    languages {uma nova língua}
+    creatures {uma nova criatura}
+    deity {uma nova divindade}
+    religions {uma nova religião}
+    flora {uma nova flora}
+    magic {uma nova magia}
+    planets {um novo planeta}
+    species {uma nova espécie}
+    technologies {uma nova tecnologia}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
+    'encyclopedia.create.header': `Criar {category, select,
+    character {um novo caracter}
+    event {um novo evento}
+    group {um novo groupo}
+    item {um novo item}
+    location {uma nova localização}
+    other {uma nova nota}
+    state {um novo estado}
+    governments {um novo governo}
+    languages {uma nova língua}
+    creatures {uma nova criatura}
+    deity {uma nova divindade}
+    religions {uma nova religião}
+    flora {uma nova flora}
+    magic {uma nova magia}
+    planets {um novo planeta}
+    species {uma nova espécie}
+    technologies {uma nova tecnologia}
+  } em {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
     event {Event}
