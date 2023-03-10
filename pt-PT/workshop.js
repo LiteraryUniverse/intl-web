@@ -159,19 +159,19 @@ export default {
     'fictionalTime.pageStartElapsedTime': 'Tempo decorrido desde a abertura desta página',
     'fictionalTime.currentTime': 'Tempo atual',
     'workshop.shoppingExternal.options': 'Opções de compra externa',
-    'workshop.shoppingExternal.explainer': 'If your story is sold elsewhere you can set the links here. The links will then show instead of the content or at the end of the content you choose to preview.',
-    'workshop.shoppingExternal.amazonStore': 'Amazon store',
+    'workshop.shoppingExternal.explainer': 'Se a sua história for vendida noutro local, pode estabelecer os links aqui. Os links irão então aparecer em vez do conteúdo ou no final do conteúdo que escolher visualizar.',
+    'workshop.shoppingExternal.amazonStore': 'Loja Amazon',
     'workshop.shoppingExternal.amazon': 'Amazon',
-    'workshop.shoppingExternal.storeName': 'Store name',
-    'workshop.shoppingExternal.itemUrl': 'Item URL',
-    'workshop.shoppingExternal.storesOther': 'Other stores',
-    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'workshop.shoppingExternal.storeName': 'Nome da loja',
+    'workshop.shoppingExternal.itemUrl': 'URL do artigo',
+    'workshop.shoppingExternal.storesOther': 'Outras lojas',
+    'fictionalTime.units.milliseconds': '{units, number} milissegundos',
+    'fictionalTime.countdownToStart': 'Contagem decrescente até ao início do tempo',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 dia }
+      other {{days} dias }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -185,61 +185,61 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {segundo}
+      other {segundos}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {minuto}
+      other {minutos}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {hora}
+      other {horas}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {dia}
+      other {dias}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {ano}
+      other {anos}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
-    'fictionalTime.inputSelectTimeUnit': 'Select time unit',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputFrom': 'De',
+    'fictionalTime.inputSelectTimeUnit': 'Selecione unidade de tempo',
+    'fictionalTime.inputSelectETUnit': 'Selecione unidade de tempo da Terra',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
-    'workshop.writerSidebar.title': 'Sidebar Toolbox',
-    'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.textopian': 'Link to Textopian',
-    'workshop.story.textopianExplained': 'Textopian is a reading and discussion platform for works in the public domain.',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order',
-    'workshop.universe.monetizationTitle': '{title} monetization',
-    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
+    'workshop.writerSidebar.title': 'Caixa de ferramentas da barra lateral',
+    'workshop.writerSidebar.description': 'Bem-vindo à sua história! Esta barra lateral permite-lhe acesso fácil a todos os recursos relacionados com a sua história. Verifique os ícones acima para ver os últimos comentários, as suas notas e muito mais!',
+    'workshop.story.textopian': 'Link para Textopiano',
+    'workshop.story.textopianExplained': 'Textopian é uma plataforma de leitura e discussão para obras no domínio público.',
+    'workshop.story.authorsNotesExplained': 'As suas notas para os leitores lerem no início do capítulo.',
+    'workshop.story.chapterSortSwitch': 'Alternar ordem do capítulo',
+    'workshop.universe.monetizationTitle': 'monetização de {title}',
+    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetização',
     'workshop.universe.monetizationWebMonetization': 'Web Monetization',
-    'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
-    'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
-    'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
-    'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
-    'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
-    'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.',
-    'workshop.revShare.mustBe100': 'Share must equal 100%',
-    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
-    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.webMonetization.explain': 'Web Monetization irá transmitir-lhe pagamentos com base em quanto tempo o utilizador gasta no seu conteúdo. Nas definições de monetização do seu perfil, pode definir o seu próprio ponteiro de pagamento. Aqui pode decidir sobre uma divisão com os seus colaboradores que tenham o Pagamento Web activado. O Universo Literário leva automaticamente 10%.',
+    'workshop.webMonetization.revShare': 'Devido à limitação da Web Monetization, é utilizada uma partilha probabilística de receitas. A partilha probabilística de receitas funciona escolhendo aleatoriamente a partir de uma lista de indicadores de pagamento predefinidos cada vez que um visitante da Web monetizado carrega a sua página. O visitante paga ao ponteiro escolhido até que a página seja recarregada ou fechada.',
+    'workshop.webMonetization.revShareMore': 'Saiba mais sobre a Partilha Probabilística de Receitas. Usamos o mesmo código que naquela página.',
+    'workshop.story.notEligible.licence': `A licença da história não permite a monetização.`,
+    'workshop.universe.notEligible.licence': `A licença do universo não permite a monetização.`,
+    'workshop.story.notEligible.fanFiction': 'Histórias de ficção de fãs não são elegíveis para monetização.',
+    'workshop.revShare.mustBe100': 'Partilha deve ser igual a 100%',
+    'workshop.revShare.LUCut': 'Universo Literário & porta de pagamento',
+    'workshop.revShare.unallocated': 'Partilha não atribuída {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
-    'workshop.revShare.undecided': 'Undecided',
-    'workshop.revShare.origLangCreators': 'Original language creators',
+    'workshop.revShare.undecided': 'Indecidido',
+    'workshop.revShare.origLangCreators': 'Criadores de idioma originais',
     'workshop.story.prolog': 'Prolog',
-    'workshop.story.chapter': 'Chapter {sequence, number}',
-    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
-    'workshop.universe.forumSettings': 'Internal universe forum settings',
-    'workshop.universe.forum': 'Internal {universeName} forum',
-    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
-    'workshop.selectCollaborator': 'Select collaborator',
+    'workshop.story.chapter': 'Capítulo {sequence, number}',
+    'workshop.work.includesAds': 'Existem anúncios ou colocações de produtos no trabalho?',
+    'workshop.universe.forumSettings': 'Definições do fórum interno do universo',
+    'workshop.universe.forum': 'Fórum interno {universeName}',
+    'workshop.ratingAdjusted': 'Devido a queixas, tivemos de ajustar a sua classificação à que nos pareceu adequada. Como tal, a alteração da classificação está agora desativada.',
+    'workshop.selectCollaborator': 'Selecionar colaborador',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
-    'workshop.chapterStatus.draft': 'Draft',
-    'workshop.chapterStatus.scheduled': 'Scheduled',
-    'workshop.chapterStatus.published': 'Published'
+    'workshop.chapterStatus.draft': 'Rascunho',
+    'workshop.chapterStatus.scheduled': 'Programado',
+    'workshop.chapterStatus.published': 'Publicado'
 };
