@@ -1,29 +1,29 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Atualmente não tem {type, select,
+    organization {nenhum blog}
+    universe {um blog para o seu universo}
+    user {um blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
-    'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    'blog.create': 'Crie um novo blog',
+    'blog.settings': `Definições {type, select,
+    org {do Blog}
+    universe {da página do universo}
+    user {do blog}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
+  }`,
+    'blog.description': 'Introdução ao Blog',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Ajustando o tema será capaz de alterar o aspeto da página. Esta funcionalidade não está pronta neste momento.',
+    'blog.posts.total': `{total, plural,
+    zero {Existem zero publicações}
+    one {Existem uma publicação}
+    other {Existem # publicações}
+  } neste blog.`,
+    'blog.post.create': 'Criar um novo post',
+    'blog.post.update': 'Editando {title}',
+    'blog.post.text': 'Postar texto',
+    'common.slug': 'Endereço SEO amigável',
     'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
