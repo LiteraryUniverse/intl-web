@@ -24,31 +24,31 @@ export default {
     'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Postar texto',
     'common.slug': 'Endereço SEO amigável',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.slug.explained': 'Bom url para o post. Evite usar caracteres especiais, exceto "-".',
+    'blog.publicView': 'Vista pública',
+    'blog.post.notfound': 'Não foi encontrado a publicação do blog',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universos}
+    stories {Histórias independentes}
+    fanfiction {Trabalho de ficção de fãs}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Aqui estão listadas histórias independentes, se a história foi escrita como uma parte de um universo, então será listada na página do universo.',
+    'blog.social.sameAsMain': `Os links sociais são os mesmos que estão definidos {type, select,
+    organization {nas configurações de uma organização}
+    user {no perfil do utilizador}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.social.website': 'Website oficial',
+    'blog.settings.universeSettings': 'Os blogs do universo estão integrados em páginas do universo com as suas definições básicas retiradas de definições do universo.',
+    'blog.settings.organizationSettings': 'Os blogs da organização são integrados nas páginas da organização.',
+    'blogs.lu': 'Blogs oficiais do Universo Literário',
+    'blogs.featured': 'Blogs em destaque',
+    'blogs.new': 'Blogs mais recentes',
+    'blogs.title': 'Blogs do Universo Literário',
+    'blogs.description': 'Listagem de blogs na plataforma do Universo Literário.',
+    'blogs.visit': 'Visite o blog',
+    'blog.settingsAria': 'Categorias de definições para o blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum'
+    'blog.settings.forum': 'Fórum'
 };
