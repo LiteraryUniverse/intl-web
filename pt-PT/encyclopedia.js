@@ -36,7 +36,7 @@ export default {
     'encyclopedia.add.heading': 'O que deseja acrescentar?',
     'encyclopedia.add.moresoon': 'Mais categorias em breve!',
     'encyclopedia.create': `Criar {category, select,
-    character {um novo caracter}
+    character {um novo personagem}
     event {um novo evento}
     group {um novo groupo}
     item {um novo item}
@@ -55,7 +55,7 @@ export default {
     technologies {uma nova tecnologia}
   }`,
     'encyclopedia.create.header': `Criar {category, select,
-    character {um novo caracter}
+    character {um novo personagem}
     event {um novo evento}
     group {um novo groupo}
     item {um novo item}
@@ -73,36 +73,36 @@ export default {
     species {uma nova espécie}
     technologies {uma nova tecnologia}
   } em {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
+    'encyclopedia.entry.category': `Categoria de entrada: {category, select,
+    character {Personagem}
+    event {Evento}
+    group {Groupo}
     item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    location {Localização}
+    other {Nota}
+    state {Estado}
+    governments {Governo}
+    languages {Língua}
+    creatures {Criatura}
+    deity {Divindade}
+    religions {Religião}
     flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    magic {Magia}
+    planets {Planeta}
+    species {Espécie}
+    technologies {Tecnologia}
   }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
-    'encyclopedia.fields.image': 'Image',
-    'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
-    'encyclopedia.container': 'Container',
+    'encyclopedia.entry.category.legend': 'Categoria',
+    'encyclopedia.fields.add': 'Adicionar um novo campo',
+    'encyclopedia.fields.text': 'Definição',
+    'encyclopedia.fields.textarea': 'Texto',
+    'encyclopedia.fields.connection': 'Conexão',
+    'encyclopedia.fields.time': 'Tempo',
+    'encyclopedia.fields.image': 'Imagem',
+    'encyclopedia.visibility': 'Visibilidade',
+    'encyclopedia.public': 'Público',
+    'encyclopedia.private': 'Privado',
+    'encyclopedia.container': 'Contentor',
     'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
     'encyclopedia.entry.name': 'Name of the entry',
     'encyclopedia.summary': 'Summary',
