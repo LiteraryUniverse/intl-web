@@ -1,16 +1,16 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
+  'readingList.title': 'Zoznam čítania',
+  'readingList.type.label': 'Typ zoznamu',
+  'readingList.type.stories': 'Príbehy',
+  'readingList.type.universes': 'Vesmíry',
+  'readingList.ordered.label': 'Zoradený zoznam',
+  'readingList.button.add': 'Pridať do zoznamu na čítanie',
+  'readingList.selectList': 'Vybrať zoznam čítania',
+  'readingList.create': 'Vytvorenie nového zoznamu čítania',
+  'readingList.create.aria': 'Modálne okno s nastaveniami pre nový zoznam čítania',
+  'readingList.edit.aria': 'Modálne okno na úpravu nastavení zoznamu čítania',
+  'readingList.library.title': 'Vaše zoznamy čítania',
+  'readingList.public.label': 'Verejne dostupný?',
   'readingList.addItem': `Add {type, select,
     universes {universe}
     stories {story}
@@ -21,6 +21,6 @@ export default {
     stories {stories}
     other {stories and universes}
   } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.fromLibrary': 'Z tvojej knižnice',
+  'readingList.button.added': 'Pridané'
 };
