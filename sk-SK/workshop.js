@@ -65,8 +65,8 @@ export default {
     'workshop.revisions.comments': 'Pripomienky k revízii',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revízia {revision} - Komentáre',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+      beta {pre Beta čitateľov}
+      readers {pre verejnosť}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'Najprv musíte vytvoriť revíziu.',
