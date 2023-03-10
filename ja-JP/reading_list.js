@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
-  }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.title': '読書リスト',
+  'readingList.type.label': 'リストタイプ',
+  'readingList.type.stories': '物語',
+  'readingList.type.universes': '宇宙',
+  'readingList.ordered.label': '順位付けされたリスト',
+  'readingList.button.add': '読書リストに追加する',
+  'readingList.selectList': '読み取りリストを選択',
+  'readingList.create': '新しい読書リストを作成',
+  'readingList.create.aria': '新しい読書リストの設定を持つモーダル',
+  'readingList.edit.aria': 'リーディングリストの設定を編集するためのモーダル',
+  'readingList.library.title': 'あなたの読書リスト',
+  'readingList.public.label': '公開されているか？',
+  'readingList.addItem': `{type, select,
+    universes {宇宙}
+    stories {物語}
+    other {物語と宇宙}
+  }を`,
+  'readingList.addItem.modalAria': `{type, select,
+    universes {宇宙}
+    stories {物語}
+    other {物語と宇宙}
+  }を追加するためのモーダル。`,
+  'readingList.addItem.fromLibrary': 'ライブラリから',
+  'readingList.button.added': '追加されました'
 };
