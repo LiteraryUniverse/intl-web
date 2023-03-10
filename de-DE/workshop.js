@@ -64,9 +64,9 @@ export default {
     'workshop.revisions.toeditor': 'Zum Editor gehen',
     'workshop.revisions.comments': 'Kommentare zur Revision',
     'workshop.revisions.comments.title': '{story}: {chapter} - Überarbeitung {revision} - Kommentare',
-    'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+    'workshop.revisions.comments.list': `{revision}: {language} {publication, select,
+      beta {für Beta-Leser}
+      readers {Öffentlich}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'Sie müssen zuerst eine Überarbeitung erstellen.',
