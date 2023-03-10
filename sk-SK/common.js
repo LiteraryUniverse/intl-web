@@ -238,6 +238,6 @@ export default {
     'common.discordCommunity': 'Discord komunita',
     'common.account': 'Účet',
     'common.notifications': 'Oznámenia',
-    'common.byDeclaration': 'By:',
-    'common.done': 'Done'
+    'common.byDeclaration': 'Od:',
+    'common.done': 'Hotovo'
 }    /* eslint-enable max-len */;
