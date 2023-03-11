@@ -147,5 +147,6 @@ export default {
     'payment.methods.webMonetization': 'Web Monetization',
     'settings.webMonetization.placeholder': 'Votre pointeur de paiement',
     'payment.webMonetization.explained': 'Web Monetization est une proposition de norme pour les paiements sur le Web. Ici, vous pouvez ajouter votre pointeur de paiement qui sera ensuite ajouté à votre page de profil, votre blog, vos univers et vos histoires pour être utilisé par Web Monetization.',
-    'payment.webMonetization.learnMore': 'En savoir plus sur Web Mmonetization'
+    'payment.webMonetization.learnMore': 'En savoir plus sur Web Mmonetization',
+    'plans.subscription.settingsAria': 'Subscription settings options'
 };
