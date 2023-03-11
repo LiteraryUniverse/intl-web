@@ -111,5 +111,7 @@ export default {
     'settings.accessibility.openDyslexic': 'Utiliser la police OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Alternance de la couleur de fond des paragraphes',
     'settings.accessibility.paragraphHighlighting': 'Mettre en évidence le paragraphe actuel que vous survolez',
-    'settings.accessibility.ruler': 'Fixer une règle à la souris'
+    'settings.accessibility.ruler': 'Fixer une règle à la souris',
+    'settings.tab.legal': 'Legal documents',
+    'settings.tab.exportDelete': 'Export data & delete account'
 };
