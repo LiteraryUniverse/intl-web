@@ -147,5 +147,6 @@ export default {
     'payment.methods.webMonetization': 'Webová Monetizace',
     'settings.webMonetization.placeholder': 'Váš platební ukazatel',
     'payment.webMonetization.explained': 'Webová Monetizace je navrhovaným standardem pro webové platby. Zde můžete přidat ukazatel platby, který bude přidán na Vaši profilovou stránku, blog, vesmíry a příběhy, které mohou využít webovou Monetizací.',
-    'payment.webMonetization.learnMore': 'Zjistěte více o Webové monetizaci'
+    'payment.webMonetization.learnMore': 'Zjistěte více o Webové monetizaci',
+    'plans.subscription.settingsAria': 'Subscription settings options'
 };
