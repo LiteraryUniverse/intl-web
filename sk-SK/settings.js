@@ -109,5 +109,7 @@ export default {
     'settings.accessibility.openDyslexic': 'Použitie písma OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Striedanie farby pozadia odseku',
     'settings.accessibility.paragraphHighlighting': 'Zvýraznite aktuálny odsek, na ktorý ste nabehli',
-    'settings.accessibility.ruler': 'Pripojenie pravítka k myši'
+    'settings.accessibility.ruler': 'Pripojenie pravítka k myši',
+    'settings.tab.legal': 'Legal documents',
+    'settings.tab.exportDelete': 'Export data & delete account'
 };
