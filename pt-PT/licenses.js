@@ -4,22 +4,22 @@
  */
 export default {
     'licenses.about': 'Sobre as licenças',
-    'licenses.more': 'More information',
-    'licenses.legal': 'Legal document',
+    'licenses.more': 'Mais informações',
+    'licenses.legal': 'Documento legal',
     'licenses.name.cc-by': 'Creative Commons Atribuição 4.0',
-    'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
+    'licenses.cc-by': 'Esta licença permite a outros distribuir, remixar, afinar, e construir sobre o seu trabalho, mesmo comercialmente, desde que lhe deem crédito pela criação original. Esta é a licença mais adequada oferecida. Recomendada para a máxima divulgação e utilização de materiais licenciados.',
     'licenses.name.cc-by-sa': 'Creative Commons Atribuição-CompartilhaIgual 4.0',
-    'licenses.cc-by-sa': 'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
+    'licenses.cc-by-sa': 'Esta licença permite a outros remixar, afinar, e construir sobre o seu trabalho mesmo para fins comerciais, desde que o credenciem e licenciem as suas novas criações sob os mesmos termos. Esta licença é frequentemente comparada a licenças de software livre e de código aberto "copyleft". Todas as novas obras baseadas na sua terão a mesma licença, pelo que quaisquer derivados também permitirão o uso comercial. Esta é a licença utilizada pela Wikipedia, e é recomendada para materiais que beneficiariam da incorporação de conteúdos da Wikipedia e de projetos licenciados de forma semelhante.',
     'licenses.name.cc-by-nd': 'Creative Commons Atribuição-SemDerivações 4.0',
-    'licenses.cc-by-nd': 'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
+    'licenses.cc-by-nd': 'Esta licença permite a redistribuição, comercial e não-comercial, desde que seja transmitida inalterada e no seu conjunto, com crédito para si.',
     'licenses.name.cc-by-nc': 'Creative Commons Atribuição-NãoComercial 4.0',
-    'licenses.cc-by-nc': 'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
+    'licenses.cc-by-nc': 'Esta licença permite a outros remixar, afinar e construir sobre a sua obra de forma não comercial, e embora as suas novas obras devam também reconhecê-lo e ser não comerciais, eles não têm de licenciar as suas obras derivadas nos mesmos termos.',
     'licenses.name.cc-by-nc-sa': 'Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0',
-    'licenses.cc-by-nc-sa': 'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
+    'licenses.cc-by-nc-sa': 'Esta licença permite a outros remixar, afinar e construir sobre o seu trabalho de forma não comercial, desde que lhe deem crédito e licenciem as suas novas criações sob os mesmos termos.',
     'licenses.name.cc-by-nc-nd': 'Creative Commons Atribuição-NãoComercial-SemDerivações 4.0',
-    'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
-    'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
+    'licenses.cc-by-nc-nd': 'Esta licença é a mais restritiva das nossas seis principais licenças, permitindo apenas que outros descarreguem as suas obras e as partilhem com outros desde que lhe deem crédito, mas não podem alterá-las de forma alguma ou utilizá-las comercialmente.',
+    'licenses.name.lu-c': 'Direitos de Autor do Universo Literário',
+    'licenses.lu-c': 'Licença padrão completa de direitos de autor que lhe permite vender, publicar a sua obra como quiser e ter os seus direitos protegidos. Esta licença dá-lhe também a opção de vender as suas histórias sobre o Universo Literário.',
     'licenses.name.cc0': 'Sem Direito de Autor nem Direitos Conexos - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.cc0': 'Coloque o seu trabalho no domínio público. Em contraste com as licenças da CC que permitem aos detentores de direitos de autor escolher entre uma série de permissões enquanto mantêm os seus direitos de autor, a CC0 permite uma outra escolha completamente diferente - a escolha de não optar pela proteção dos direitos de autor e das bases de dados, e os direitos exclusivos concedidos automaticamente aos criadores - a alternativa "sem direitos reservados" às nossas licenças.'
 };
