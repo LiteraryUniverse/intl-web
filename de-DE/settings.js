@@ -111,5 +111,7 @@ export default {
     'settings.accessibility.openDyslexic': 'OpenDyslexis-Schriftart verwenden',
     'settings.accessibility.paragraphStripes': 'Alternative in Absatzhintergrundfarbe',
     'settings.accessibility.paragraphHighlighting': 'Hervorheben Sie den aktuellen Absatz, über den Sie schweben',
-    'settings.accessibility.ruler': 'Lineal an die Maus anhängen'
+    'settings.accessibility.ruler': 'Lineal an die Maus anhängen',
+    'settings.tab.legal': 'Legal documents',
+    'settings.tab.exportDelete': 'Export data & delete account'
 };
