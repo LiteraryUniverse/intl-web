@@ -111,5 +111,7 @@ export default {
     'settings.accessibility.openDyslexic': 'Użyj czcionki OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Zmiana koloru tła akapitu',
     'settings.accessibility.paragraphHighlighting': 'Podświetlić bieżący akapit, nad którym znajduje się kursor',
-    'settings.accessibility.ruler': 'Przymocuj linijkę do myszy'
+    'settings.accessibility.ruler': 'Przymocuj linijkę do myszy',
+    'settings.tab.legal': 'Legal documents',
+    'settings.tab.exportDelete': 'Export data & delete account'
 };
