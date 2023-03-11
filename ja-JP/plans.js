@@ -147,5 +147,6 @@ export default {
     'payment.methods.webMonetization': 'ウェブマネタイズ',
     'settings.webMonetization.placeholder': 'お支払い方法',
     'payment.webMonetization.explained': 'Web Monetizationは、ウェブ決済の標準規格として提案されています。ここでは、あなたのプロフィールページ、ブログ、ユニバース、ストーリーに、Webマネタイズで利用される決済ポインタを追加することができます。',
-    'payment.webMonetization.learnMore': 'ウェブマネタイズについて詳しくはこちら'
+    'payment.webMonetization.learnMore': 'ウェブマネタイズについて詳しくはこちら',
+    'plans.subscription.settingsAria': 'Subscription settings options'
 };
