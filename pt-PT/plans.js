@@ -67,85 +67,85 @@ export default {
     'payment.option.notFount': 'Não tem nenhuma opção de pagamento guardada.',
     'payment.option.create': 'Adicione uma nova opção de pagamento',
     'payment.option.description': 'Aqui está uma lista dos seus métodos de pagamento guardados. Pode guardar aqui novos métodos de pagamento para um checkout mais rápido. O Universo Literário não armazena nem processa as suas credenciais de pagamento como o número do cartão de crédito.',
-    'payment.history.title': 'Payment history',
-    'payment.history.tab': 'History',
-    'payment.history.none': 'We don\'t have any records of past payments.',
+    'payment.history.title': 'Histórico de pagamentos',
+    'payment.history.tab': 'História',
+    'payment.history.none': 'Não temos quaisquer registos de pagamentos passados.',
     // Added 2020-04-30
-    'plans.options.aria': 'Payment options',
-    'plans.options.creditCard': 'Credit Card',
-    'plans.purchase.action': 'Subscribe',
-    'plans.purchase.title': 'Buy Literary Universe subscription',
-    'payment.creditCard.details': 'Credit Card details',
-    'payments.zipcode.label': 'ZIP code',
-    'payment.card.name': 'Name on card',
-    'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-    'plans.subscribed.periodEnd': 'Your subscription is valid until: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.options.aria': 'Opções de pagamento',
+    'plans.options.creditCard': 'Cartão de crédito',
+    'plans.purchase.action': 'Subscrever',
+    'plans.purchase.title': 'Comprar uma subscrição no Universo Literário',
+    'payment.creditCard.details': 'Detalhes do Cartão de Crédito',
+    'payments.zipcode.label': 'Código postal',
+    'payment.card.name': 'Nome no cartão',
+    'plans.subscribed.thankYou': 'Obrigado por apoiar o Universo Literário',
+    'plans.subscribed.periodEnd': 'A sua subscrição é válida até: {end, date, medium}',
+    'plans.subscribed.renewal': `No final, a sua subscrição será {method, select,
+    charge_automatically {renovada automaticamente}
+    send_invoice {renovada após o pagamento de uma fatura}
     other {}
   }.`,
-    'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.paymentMethod': 'O seu método de pagamento por defeito será utilizado para pagar o próximo ciclo.',
+    'plans.subscribed.status': `Estado da subscrição: {status, select,
+    active {Ativo}
+    incomplete {Algo está em falta}
+    incomplete_expired {Algo está em falta}
+    trialing {Teste}
+    past_due {Falta-nos o seu pagamento}
+    canceled {Cancelado}
+    unpaid {Não pago}
     other {}
   }`,
-    'payments.changeMethod': 'Change payment method',
-    'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
-    'plans.cancel.button': 'Cancel subscription',
-    'plans.cancel.question': 'Are you sure you want to cancel your subscription? Your subscription will remain active till the end of the billing cycle.',
-    'plans.cancel.confirmationButton': 'Yes, I want to cancel my subscription',
-    'plans.cancel.failed': 'Apologies, we were unable to cancel your plan at this moment. Please try again later.',
-    'plans.cancel.restoreBtn': 'Restore subscription',
-    'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
-    'plans.change.button': 'Change subscription',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
-    'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
+    'payments.changeMethod': 'Alterar método de pagamento',
+    'plans.subscribed.willNotRenew': ', não se renovará no final do ciclo.',
+    'plans.cancel.button': 'Cancelar subscrição',
+    'plans.cancel.question': 'Tem a certeza de que quer cancelar a sua subscrição? A sua subscrição permanecerá ativa até ao final do ciclo de faturação.',
+    'plans.cancel.confirmationButton': 'Sim, quero cancelar a minha subscrição',
+    'plans.cancel.failed': 'Pedimos desculpa, neste momento não conseguimos cancelar a sua subscrição. Por favor, tente novamente mais tarde.',
+    'plans.cancel.restoreBtn': 'Restaurar subscrição',
+    'plans.cancel.restoreFailed': 'Pedimos desculpa, neste momento não pudemos restabelecer a subscrição. Por favor, tente novamente mais tarde.',
+    'plans.change.button': 'Alterar subscrição',
+    'plans.change.explanation': 'Selecione o plano para o qual pretende fazer o upgrade ou o downgrade. Ser-lhe-á imediatamente cobrada a diferença de preço.',
+    'plans.change.failed': 'Desculpe, neste momento não nos foi possível alterar o seu plano. Por favor, tente novamente mais tarde.',
     'plans.change.upgrade': 'Upgrade',
-    'payments.disclaimer': 'Payment information and processing is done via Stripe. We do not keep any credit card or bank account information on our servers.',
-    'buy.payment.optionsSelect': 'Select payment option',
-    'payments.card.number': 'Card number',
-    'payments.card.expire': 'Valid Thru',
+    'payments.disclaimer': 'A informação e processamento do pagamento é feita através de Stripe. Não mantemos qualquer informação de cartão de crédito ou conta bancária nos nossos servidores.',
+    'buy.payment.optionsSelect': 'Selecione a opção de pagamento',
+    'payments.card.number': 'Número do Cartão',
+    'payments.card.expire': 'Válido até',
     'payments.card.cvv': 'CVV',
-    'payments.card.info': '{cardType} card, ending in {ending}',
-    'payments.none': 'No saved payment options found.',
-    'payments.added': 'New payment option has been successfully added.',
-    'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
-    'payment.invoice.status': 'Invoice status',
+    'payments.card.info': 'cartão {cardType}, terminando em {ending}',
+    'payments.none': 'Não foram encontradas opções de pagamento guardadas.',
+    'payments.added': 'Foi adicionada com sucesso uma nova opção de pagamento.',
+    'payments.delete.confirm': 'Tem a certeza que quer apagar {cardType}, terminando em {ending}?',
+    'payment.invoice.status': 'Estado da fatura',
     'payment.invoice.statusMessage': `{status, select,
-    draft {Draft}
-    open {Open}
-    paid {Paid}
-    uncollectible {Uncollectible}
-    void {Void}
+    draft {Rascunho}
+    open {Aberto}
+    paid {Pago}
+    uncollectible {Incobrável}
+    void {Nulo}
     other {}
   }`,
-    'payment.invoice.id': 'Invoice id',
-    'payment.invoice.pdf': 'Invoice pdf',
+    'payment.invoice.id': 'Identificação da fatura',
+    'payment.invoice.pdf': 'Fatura pdf',
     'payment.invoice.total': 'Total',
-    'payment.invoice.what': 'Invoice description',
-    'payment.stripe.powered': 'Powered by ',
-    'payment.listMethods.card': 'Cards',
-    'payment.expiresAt': 'Expires {month}/{year}',
+    'payment.invoice.what': 'Descrição da fatura',
+    'payment.stripe.powered': 'Com o apoio de ',
+    'payment.listMethods.card': 'Cartas',
+    'payment.expiresAt': 'Expira {month}/{year}',
     'payment.card.details': `{type, select,
-    credit {Credit card}
-    debit {Debit card}
-    other {Card}
-  } ending with {last4}`,
-    'payment.options.default': 'Default',
+    credit {Carta de crédito}
+    debit {Carta de débito}
+    other {Carta}
+  } terminando em {last4}`,
+    'payment.options.default': 'Por defeito',
     // Added 2020-05-27
-    'payment.method.add': 'Add a new payment method',
-    'payment.methods.adding': 'You new payment method has been added to your account.',
-    'payment.methods.delete': 'Delete payment method',
+    'payment.method.add': 'Adicionar um novo método de pagamento',
+    'payment.methods.adding': 'O seu novo método de pagamento foi adicionado à sua conta.',
+    'payment.methods.delete': 'Eliminar método de pagamento',
     'payment.upgradePlan.option': '{plan} - {price}',
     'payment.methods.webMonetization': 'Web Monetization',
-    'settings.webMonetization.placeholder': 'Your payment pointer',
-    'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
-    'payment.webMonetization.learnMore': 'Learn more about Web Monetization'
+    'settings.webMonetization.placeholder': 'O seu ponteiro de pagamento',
+    'payment.webMonetization.explained': 'A Monetização da Web é uma norma proposta para pagamentos pela Web. Aqui pode adicionar o seu ponteiro de pagamento que será depois adicionado à sua página de perfil, blog, universos e histórias a serem utilizadas pela Web Monetização.',
+    'payment.webMonetization.learnMore': 'Saiba mais sobre Web Monetization'
 };
