@@ -147,5 +147,6 @@ export default {
     'payment.methods.webMonetization': 'Web Monetization',
     'settings.webMonetization.placeholder': 'O seu ponteiro de pagamento',
     'payment.webMonetization.explained': 'A Monetização da Web é uma norma proposta para pagamentos pela Web. Aqui pode adicionar o seu ponteiro de pagamento que será depois adicionado à sua página de perfil, blog, universos e histórias a serem utilizadas pela Web Monetização.',
-    'payment.webMonetization.learnMore': 'Saiba mais sobre Web Monetization'
+    'payment.webMonetization.learnMore': 'Saiba mais sobre Web Monetization',
+    'plans.subscription.settingsAria': 'Subscription settings options'
 };
