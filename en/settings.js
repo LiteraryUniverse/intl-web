@@ -148,5 +148,8 @@ export default {
     'Alternate in paragraph background color',
   'settings.accessibility.paragraphHighlighting':
     'Highlight the current paragraph that you are hovering over',
-  'settings.accessibility.ruler': 'Attach a ruler to the mouse'
+  'settings.accessibility.ruler': 'Attach a ruler to the mouse',
+
+  'settings.tab.legal': 'Legal documents',
+  'settings.tab.exportDelete': 'Export data & delete account'
 }
