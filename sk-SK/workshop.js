@@ -64,7 +64,11 @@ export default {
     'workshop.revisions.toeditor': 'Prejsť na editor',
     'workshop.revisions.comments': 'Pripomienky k revízii',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revízia {revision} - Komentáre',
-    'workshop.revisions.comments.list': '{revision}: {publication, select, bet {pre beta čitateľov} readers {pre verejnosť} other {}} {datetime, date, medium} {datetime, time, short}',
+    'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
+      beta {pre Beta čitateľov}
+      readers {pre verejnosť}
+      other {}
+    } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'Najprv musíte vytvoriť revíziu.',
     'workshop.revisions.comments.select': 'Vyberte revíziu',
     'workshop.collaborators.noresults': 'Žiadne výsledky',

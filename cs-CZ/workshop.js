@@ -64,7 +64,11 @@ export default {
     'workshop.revisions.toeditor': 'Přejít do editoru',
     'workshop.revisions.comments': 'Komentáře k revizi',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revize {revision} - Komentáře',
-    'workshop.revisions.comments.list': '{revision}: {publication, select, beta {pro Beta čtenáře} readers {Veřejné} other {}} {datetime, date, medium} {datetime, time, short}',
+    'workshop.revisions.comments.list': `{revision}: {language} {publication, select,
+      beta {pro Beta čtenáře}
+      readers {Veřejné}
+      other {}
+    } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'Nejprve musíte vytvořit revizi.',
     'workshop.revisions.comments.select': 'Vybrat revizi',
     'workshop.collaborators.noresults': 'Žádné výsledky',

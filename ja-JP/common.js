@@ -87,12 +87,12 @@ export default {
     'common.legal.privacy': 'プライバシーポリシー',
     'common.legal.copyright': '著作権規約',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {利用規約}
+    community {コミュニティガイドライン}
+    privacy {プライバシーポリシー}
+    copyright {著作権契約}
+    other {契約}
+  } バージョン {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'この文書の新しいバージョン（{newVersion}）は、{effectiveAt, date}に発効する予定です。',
     'common.legal.disclaimer': '© {year} すべての文章の著作権は、それぞれの著者に帰属します。',
     'premium.only.title': '会員ランクが十分に高くない',
@@ -238,6 +238,6 @@ export default {
     'common.discordCommunity': 'Discordコミュニティ',
     'common.account': 'アカウント',
     'common.notifications': '通知',
-    'common.byDeclaration': 'By:',
-    'common.done': 'Done'
+    'common.byDeclaration': '作成者：',
+    'common.done': '完了'
 }    /* eslint-enable max-len */;

@@ -1,9 +1,9 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.fewmore': 'Few more things...',
-    'legal.modal.finish': 'Finish'
+    'legal.modal.intro': 'Désolé de vous interrompre. Mais avant de vous laisser aller plus loin, nous sommes légalement tenus de nous assurer que vous connaissez et acceptez nos Conditions de Service, notre Politique de Confidentialité et notre Accord de Droits d\'Auteur.',
+    'legal.modal.agree': 'Je suis d\'accord',
+    'legal.modal.disagree': 'Je ne suis pas d\'accord',
+    'legal.modal.register': 'Vous ne verrez plus cela si vous vous inscrivez.',
+    'legal.modal.goToSettings': 'Allez dans vos paramètres',
+    'legal.modal.fewmore': 'Quelques éléments supplémentaires...',
+    'legal.modal.finish': 'Terminer'
 };

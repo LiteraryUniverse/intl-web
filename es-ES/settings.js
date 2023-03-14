@@ -111,5 +111,7 @@ export default {
     'settings.accessibility.openDyslexic': 'Utilizar la fuente OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Alternar el color de fondo del párrafo',
     'settings.accessibility.paragraphHighlighting': 'Resaltar el párrafo actual sobre el que estás pasando el ratón',
-    'settings.accessibility.ruler': 'Colocar una regla en el ratón'
+    'settings.accessibility.ruler': 'Colocar una regla en el ratón',
+    'settings.tab.legal': 'Legal documents',
+    'settings.tab.exportDelete': 'Export data & delete account'
 };

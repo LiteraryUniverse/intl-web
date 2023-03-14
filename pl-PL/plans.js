@@ -147,5 +147,6 @@ export default {
     'payment.methods.webMonetization': 'Web Monetization',
     'settings.webMonetization.placeholder': 'Your payment pointer',
     'payment.webMonetization.explained': 'Web Monetization jest proponowanym standardem dla płatności internetowych. Tutaj możesz dodać swój wskaźnik płatności, który zostanie następnie dodany do Twojej strony profilowej, bloga, wszechświatów i opowiadań, które zostaną wykorzystane przez Web Monetization.',
-    'payment.webMonetization.learnMore': 'Dowiedz się więcej o Web Monetization'
+    'payment.webMonetization.learnMore': 'Dowiedz się więcej o Web Monetization',
+    'plans.subscription.settingsAria': 'Subscription settings options'
 };

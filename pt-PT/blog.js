@@ -1,54 +1,54 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Atualmente não tem {type, select,
+    organization {nenhum blog}
+    universe {um blog para o seu universo}
+    user {um blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
-    'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    'blog.create': 'Crie um novo blog',
+    'blog.settings': `Definições {type, select,
+    org {do Blog}
+    universe {da página do universo}
+    user {do blog}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  }`,
+    'blog.description': 'Introdução ao Blog',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Ajustando o tema será capaz de alterar o aspeto da página. Esta funcionalidade não está pronta neste momento.',
+    'blog.posts.total': `{total, plural,
+    zero {Existem zero publicações}
+    one {Existem uma publicação}
+    other {Existem # publicações}
+  } neste blog.`,
+    'blog.post.create': 'Criar um novo post',
+    'blog.post.update': 'Editando {title}',
+    'blog.post.text': 'Postar texto',
+    'common.slug': 'Endereço SEO amigável',
+    'blog.slug.explained': 'Bom url para o post. Evite usar caracteres especiais, exceto "-".',
+    'blog.publicView': 'Vista pública',
+    'blog.post.notfound': 'Não foi encontrado a publicação do blog',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universos}
+    stories {Histórias independentes}
+    fanfiction {Trabalho de ficção de fãs}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Aqui estão listadas histórias independentes, se a história foi escrita como uma parte de um universo, então será listada na página do universo.',
+    'blog.social.sameAsMain': `Os links sociais são os mesmos que estão definidos {type, select,
+    organization {nas configurações de uma organização}
+    user {no perfil do utilizador}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.social.website': 'Website oficial',
+    'blog.settings.universeSettings': 'Os blogs do universo estão integrados em páginas do universo com as suas definições básicas retiradas de definições do universo.',
+    'blog.settings.organizationSettings': 'Os blogs da organização são integrados nas páginas da organização.',
+    'blogs.lu': 'Blogs oficiais do Universo Literário',
+    'blogs.featured': 'Blogs em destaque',
+    'blogs.new': 'Blogs mais recentes',
+    'blogs.title': 'Blogs do Universo Literário',
+    'blogs.description': 'Listagem de blogs na plataforma do Universo Literário.',
+    'blogs.visit': 'Visite o blog',
+    'blog.settingsAria': 'Categorias de definições para o blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum'
+    'blog.settings.forum': 'Fórum'
 };

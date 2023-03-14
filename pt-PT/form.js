@@ -1,51 +1,51 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
+    'form.validator.required': 'Campo obrigatório',
+    'form.validator.mustBeNumber': 'Tem de ser um número',
+    'form.validator.minNumber': 'Deve ser maior que {min, number}',
+    'form.validator.maxNumber': 'Deve ser menor que {max, number}',
+    'form.validator.maxLength': `Deve ter menos que {max, number} {what, select,
+    characters {caracteres}
     tags {tags}
-    genres {genres}
-    numbers {numbers}
+    genres {géneros}
+    numbers {números}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
+    'form.validator.minLength': `Deve ter pelo menos {min, number} {what, select,
+    characters {caracteres}
     tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    genres {géneros}
+    genre {género}
+    numbers {números}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'Tem de ser um email válido',
+    'form.validator.url': 'Tem de ser um URL válido',
+    'form.validator.slug': 'Tem de ser uma parte de um URL válido',
+    'form.submitting.signup': 'A criar conta...',
+    'form.submitting.signin': 'A iniciar sessão...',
+    'form.submitting.default': 'A submeter...',
+    'form.submitting.sending': 'A enviar...',
+    'form.validator.whitespace': 'Não deve ter espaço em branco',
+    'form.validator.zipCode': 'Tem de ser um código postal válido',
+    'form.validator.isbn': 'Aceitamos apenas a versão 10 ou 13 do ISBN',
+    'form.validator.btc': 'Isto não é um endereço BTC válido.',
+    'form.validator.eth': 'Isto não é um endereço ETH válido.',
+    'form.weakPassword': 'Esta palavra-passe parece fraca. Por favor, considere torná-la mais forte, adicionando números e caracteres especiais.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} é obrigatório',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} não é uma Data válida',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+    'simpleschema.minString': '{label} deve ter no mínimo {min, number} caracteres',
+    'simpleschema.maxString': '{label} não pode ter mais do que {max, number} caracteres',
+    'simpleschema.minNumber': '{label} deve ser pelo menos {min, number}',
+    'simpleschema.maxNumber': '{label} não pode ter mais de {max, number}',
+    'simpleschema.minNumberExclusive': '{label} deve ser maior que {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} deve ser menor que {max, number}',
+    'simpleschema.minDate': '{label} deve ser no a ou depois de {min, date}',
+    'simpleschema.maxDate': '{label} não pode ser depois de {max, date}',
+    'simpleschema.badDate': '{label} não é uma data válida',
+    'simpleschema.minCount': 'Deve especificar no mínimo {minCount, number} valores',
+    'simpleschema.maxCount': 'Não pode especificar mais do que {maxCount, number} valores',
     'simpleschema.noDecimal': '{label} tem de ser um número inteiro',
     'simpleschema.notAllowed': '{value} não é um valor permitido',
     'simpleschema.expectedString': '{label} tem de ser um string',

@@ -109,5 +109,7 @@ export default {
     'settings.accessibility.openDyslexic': 'OpenDyslexicフォントを使用する',
     'settings.accessibility.paragraphStripes': '段落の背景色を交互に変更する',
     'settings.accessibility.paragraphHighlighting': '現在カーソルを置いている段落をハイライト表示します',
-    'settings.accessibility.ruler': 'マウスに定規を付ける'
+    'settings.accessibility.ruler': 'マウスに定規を付ける',
+    'settings.tab.legal': 'Legal documents',
+    'settings.tab.exportDelete': 'Export data & delete account'
 };

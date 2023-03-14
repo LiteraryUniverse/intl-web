@@ -64,7 +64,11 @@ export default {
     'workshop.revisions.toeditor': 'エディターへ',
     'workshop.revisions.comments': '修正コメント',
     'workshop.revisions.comments.title': '{story}：{chapter} - リビジョン {revision} - コメント',
-    'workshop.revisions.comments.list': '{revision}：{publication, select, beta {ベータ版読者のために} readers {公開用} other {}}{datetime, date,medium}{datetime, time,short}',
+    'workshop.revisions.comments.list': `{revision}：{language}、{publication, select,
+      beta {ベータ版読者のために}
+      readers {公開用}
+      other {}
+    }{datetime, date,medium}{datetime, time,short}`,
     'workshop.revisions.comments.norevision': 'まずリビジョンを作成する必要があります。',
     'workshop.revisions.comments.select': 'リビジョンの選択',
     'workshop.collaborators.noresults': '結果がありません',
