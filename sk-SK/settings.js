@@ -110,6 +110,6 @@ export default {
     'settings.accessibility.paragraphStripes': 'Striedanie farby pozadia odseku',
     'settings.accessibility.paragraphHighlighting': 'Zvýraznite aktuálny odsek, na ktorý ste nabehli',
     'settings.accessibility.ruler': 'Pripojenie pravítka k myši',
-    'settings.tab.legal': 'Legal documents',
-    'settings.tab.exportDelete': 'Export data & delete account'
+    'settings.tab.legal': 'Právne dokumenty',
+    'settings.tab.exportDelete': 'Export údajov & vymazanie účtu'
 };
