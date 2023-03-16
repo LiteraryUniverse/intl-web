@@ -11,16 +11,16 @@ export default {
   'readingList.edit.aria': 'Modálne okno na úpravu nastavení zoznamu čítania',
   'readingList.library.title': 'Vaše zoznamy čítania',
   'readingList.public.label': 'Verejne dostupný?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.addItem': `Pridať {type, select,
+    universes {vesmíry}
+    stories {príbehy}
+    other {príbehy a vesmíry}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
+  'readingList.addItem.modalAria': `Modál pro přidání {type, select,
+    universes {vesmíry}
+    stories {príbehy}
+    other {príbehy a vesmíry}
+  } do zoznamu čítania.`,
   'readingList.addItem.fromLibrary': 'Z tvojej knižnice',
   'readingList.button.added': 'Pridané'
 };
