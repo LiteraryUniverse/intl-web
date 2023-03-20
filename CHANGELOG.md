@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2023-03-11 - v2.4.1
+## 2023-03-20 - v2.4.1
 
 * Update `workshop.revisions.comments.list` to include `language` variable
 * New strings for updated user settings
