@@ -52,6 +52,6 @@ export default {
     'discover.searchDisplay.covers': 'Výpis s obalov',
     'discover.searchDisplay.list': 'Kompaktné zobrazenie',
     'discover.includesAds': 'Táto práca obsahuje umiestňovanie produktov alebo inú formu reklamy.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discovery.featured.universes': 'Odporúčané vesmíry',
+    'discovery.featured.stories': 'Odporúčané príbehy'
 };

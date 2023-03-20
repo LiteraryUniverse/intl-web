@@ -1,5 +1,5 @@
 export default {
-    'comment.write': 'コメントを書く',
+    'comment.write': 'コメントを書いてください',
     'comments.none': '申し訳ありませんが、表示するコメントはありません。',
     'comments.total': `{count, plural,
     =0 {コメントはありません}

@@ -148,5 +148,5 @@ export default {
     'settings.webMonetization.placeholder': 'Tu dirección de cuenta de pagos',
     'payment.webMonetization.explained': 'La monetización web es una propuesta para estandarizar los pagos en la web. Aquí puedes añadir tu dirección de cuenta de pagos que se añadirá a tu página de perfil, blog, universos e historias que se podrá utilizar para la monetización web.',
     'payment.webMonetization.learnMore': 'Más información sobre la monetización web',
-    'plans.subscription.settingsAria': 'Subscription settings options'
+    'plans.subscription.settingsAria': 'Opciones de ajustes de la suscripción'
 };

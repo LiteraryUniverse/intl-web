@@ -28,7 +28,7 @@ export default {
     'homepage.writer.workshopFeatureDesc': 'Naša neustále sa rozvíjajúca dielňa je ústredným miestom pre vaše tvorivé potreby. Z jednoduchého nápadu vytvorte úžasné vesmíry, príbehy a všetko ostatné, čo je okolo neho potrebné.',
     'homepage.writer.monetizationFeatureTitle': 'Monetizácia',
     'homepage.writer.monetizationDesc': 'Sme presvedčení, že ľudia by mali byť za svoju prácu platení, a neustále hľadáme nové možnosti monetizácie pre autorov. Funkcia monetizácie vám umožňuje, aby ste boli ocenení za to, čo robíte. Preskúmajte všetky rôzne možnosti, ktoré vašim fanúšikom umožňujú prejaviť vám svoje uznanie.',
-    'homepage.writer.start': 'Setup Your workshop!',
+    'homepage.writer.start': 'Vstúpte do svojej ateliéru!',
     'homepage.featureSelection': 'Pozrite si tieto populárne vesmíry!',
     'about.title': 'O Literary Universe',
     'about.desc': 'História, tajomstvá a ľudia za Literary Universe.',
