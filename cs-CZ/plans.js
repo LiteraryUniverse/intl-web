@@ -115,6 +115,7 @@ export default {
     'payments.card.cvv': 'CVV',
     'payments.card.info': '{cardType} karta končící {ending}',
     'payments.none': 'Nebyly nalezeny žádné uložené možnosti platby.',
+    'payments.none.cards': 'No cards were found.',
     'payments.added': 'Nová možnost platby byla úspěšně přidána.',
     'payments.delete.confirm': 'Jste si jisti, že chcete odstranit {cardType}, končící {ending}?',
     'payment.invoice.status': 'Stav faktury',
