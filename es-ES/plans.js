@@ -115,6 +115,7 @@ export default {
     'payments.card.cvv': 'CVV',
     'payments.card.info': 'Tarjeta {cardType}, acabada en {ending}',
     'payments.none': 'No se encontraron opciones de pago guardadas.',
+    'payments.none.cards': 'No cards were found.',
     'payments.added': 'Nueva opción de pago añadida correctamente.',
     'payments.delete.confirm': '¿Estás seguro de que quieres eliminar {cardType}, acabada en {ending}?',
     'payment.invoice.status': 'Estado de la factura',
