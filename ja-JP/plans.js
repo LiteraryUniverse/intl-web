@@ -115,6 +115,7 @@ export default {
     'payments.card.cvv': 'CVV',
     'payments.card.info': '{cardType}カード、{ending}で終わる',
     'payments.none': '保存された支払い方法は見つかりませんでした。',
+    'payments.none.cards': 'No cards were found.',
     'payments.added': '新しい支払い方法の追加に成功しました。',
     'payments.delete.confirm': '本当に{ending}で終わる{cardType}を削除したいのですか？',
     'payment.invoice.status': '請求書のステータス',
