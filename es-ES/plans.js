@@ -73,7 +73,7 @@ export default {
     'plans.options.aria': 'Opciones de pago',
     'plans.options.creditCard': 'Tarjeta de crédito',
     'plans.options.creditCardNew': 'New Credit Card',
-    'plans.options.existing': 'Saved payment method',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': 'Suscríbete',
     'plans.purchase.title': 'Comprar suscripción de Literary Universe',
     'payment.creditCard.details': 'Datos de la tarjeta de crédito',
@@ -141,7 +141,6 @@ export default {
     other {Tarjeta}
   } acabada en {last4}`,
     'payment.options.default': 'Por defecto',
-    // Added 2020-05-27
     'payment.method.add': 'Añade un nuevo método de pago',
     'payment.methods.adding': 'Tu nuevo método de pago se ha añadido a tu cuenta.',
     'payment.methods.delete': 'Eliminar método de pago',
@@ -150,5 +149,6 @@ export default {
     'settings.webMonetization.placeholder': 'Tu dirección de cuenta de pagos',
     'payment.webMonetization.explained': 'La monetización web es una propuesta para estandarizar los pagos en la web. Aquí puedes añadir tu dirección de cuenta de pagos que se añadirá a tu página de perfil, blog, universos e historias que se podrá utilizar para la monetización web.',
     'payment.webMonetization.learnMore': 'Más información sobre la monetización web',
-    'plans.subscription.settingsAria': 'Opciones de ajustes de la suscripción'
+    'plans.subscription.settingsAria': 'Opciones de ajustes de la suscripción',
+    'plans.buttonStatus.submitting': 'Submitting your request...'
 };
