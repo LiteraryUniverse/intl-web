@@ -70,9 +70,10 @@ export default {
     'payment.history.title': 'Payment history',
     'payment.history.tab': 'History',
     'payment.history.none': 'We don\'t have any records of past payments.',
-    // Added 2020-04-30
     'plans.options.aria': 'Payment options',
     'plans.options.creditCard': 'Credit Card',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existing': 'Saved payment method',
     'plans.purchase.action': 'Subscribe',
     'plans.purchase.title': 'Buy Literary Universe subscription',
     'payment.creditCard.details': 'Credit Card details',
