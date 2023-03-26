@@ -70,9 +70,10 @@ export default {
     'payment.history.title': 'Historique des payements',
     'payment.history.tab': 'Historique',
     'payment.history.none': 'Nous n\'avons pas d\'historique des paiements passés.',
-    // Added 2020-04-30
     'plans.options.aria': 'Options de paiement',
     'plans.options.creditCard': 'Carte de crédit',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existing': 'Saved payment method',
     'plans.purchase.action': 'S\'abonner',
     'plans.purchase.title': 'Acheter un abonnement à l\'Univers Littéraire',
     'payment.creditCard.details': 'Détails de Carte de Crédit',
