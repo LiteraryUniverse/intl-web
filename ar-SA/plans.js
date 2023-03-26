@@ -73,7 +73,7 @@ export default {
     'plans.options.aria': 'خيارات الدفع',
     'plans.options.creditCard': 'بطاقة ائتمان',
     'plans.options.creditCardNew': 'New Credit Card',
-    'plans.options.existing': 'Saved payment method',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': 'اشتراك',
     'plans.purchase.title': 'Buy Literary Universe subscription',
     'payment.creditCard.details': 'تفاصيل بطاقة الائتمان',
@@ -141,7 +141,6 @@ export default {
     other {Card}
   } ending with {last4}`,
     'payment.options.default': 'الافتراضي',
-    // Added 2020-05-27
     'payment.method.add': 'إضافة طريقة جديدة للدفع',
     'payment.methods.adding': 'لقد تمت إضافة طريقة دفع جديدة إلى حسابك.',
     'payment.methods.delete': 'حذف طريقة الدفع',
@@ -150,5 +149,6 @@ export default {
     'settings.webMonetization.placeholder': 'Your payment pointer',
     'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
     'payment.webMonetization.learnMore': 'Learn more about Web Monetization',
-    'plans.subscription.settingsAria': 'Subscription settings options'
+    'plans.subscription.settingsAria': 'Subscription settings options',
+    'plans.buttonStatus.submitting': 'Submitting your request...'
 };
