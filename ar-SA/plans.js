@@ -70,9 +70,10 @@ export default {
     'payment.history.title': 'سجل الدفع',
     'payment.history.tab': 'السجل',
     'payment.history.none': 'ليس لدينا أي سجلات للمدفوعات السابقة.',
-    // Added 2020-04-30
     'plans.options.aria': 'خيارات الدفع',
     'plans.options.creditCard': 'بطاقة ائتمان',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existing': 'Saved payment method',
     'plans.purchase.action': 'اشتراك',
     'plans.purchase.title': 'Buy Literary Universe subscription',
     'payment.creditCard.details': 'تفاصيل بطاقة الائتمان',
