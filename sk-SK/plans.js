@@ -73,7 +73,7 @@ export default {
     'plans.options.aria': 'Možnosti platby',
     'plans.options.creditCard': 'Kreditná karta',
     'plans.options.creditCardNew': 'New Credit Card',
-    'plans.options.existing': 'Saved payment method',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': 'Predplatiť',
     'plans.purchase.title': 'Kúpiť predplatné Literary Universe',
     'payment.creditCard.details': 'Údaje o kreditnej karte',
@@ -141,7 +141,6 @@ export default {
     other {Karta}
     } končiace na {last4}`,
     'payment.options.default': 'Predvolené',
-    // Added 2020-05-27
     'payment.method.add': 'Pridanie novej možnosti platby',
     'payment.methods.adding': 'Do vášho účtu bol pridaný nový spôsob platby.',
     'payment.methods.delete': 'Odstránenie spôsobu platby',
@@ -150,5 +149,6 @@ export default {
     'settings.webMonetization.placeholder': 'Váš ukazovateľ platby',
     'payment.webMonetization.explained': 'Webová monetizácia je navrhovaný štandard pre webové platby. Tu môžete pridať svoj platobný ukazovateľ, ktorý sa potom pridá na vašu profilovú stránku, blog, univerzá a príbehy, ktoré sa budú využívať v rámci služby Web Monetization.',
     'payment.webMonetization.learnMore': 'Ďalšie informácie o Webové Monetizácii',
-    'plans.subscription.settingsAria': 'Možnosti nastavení predplatného'
+    'plans.subscription.settingsAria': 'Možnosti nastavení predplatného',
+    'plans.buttonStatus.submitting': 'Submitting your request...'
 };
