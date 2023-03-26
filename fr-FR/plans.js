@@ -73,7 +73,7 @@ export default {
     'plans.options.aria': 'Options de paiement',
     'plans.options.creditCard': 'Carte de crédit',
     'plans.options.creditCardNew': 'New Credit Card',
-    'plans.options.existing': 'Saved payment method',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': 'S\'abonner',
     'plans.purchase.title': 'Acheter un abonnement à l\'Univers Littéraire',
     'payment.creditCard.details': 'Détails de Carte de Crédit',
@@ -141,7 +141,6 @@ export default {
     other {Carte}
   } se terminant par {last4}`,
     'payment.options.default': 'Défaut',
-    // Added 2020-05-27
     'payment.method.add': 'Ajouter un nouveau mode de paiement',
     'payment.methods.adding': 'Votre nouveau mode de paiement a été ajouté à votre compte.',
     'payment.methods.delete': 'Supprimer le mode de paiement',
@@ -150,5 +149,6 @@ export default {
     'settings.webMonetization.placeholder': 'Votre pointeur de paiement',
     'payment.webMonetization.explained': 'Web Monetization est une proposition de norme pour les paiements sur le Web. Ici, vous pouvez ajouter votre pointeur de paiement qui sera ensuite ajouté à votre page de profil, votre blog, vos univers et vos histoires pour être utilisé par Web Monetization.',
     'payment.webMonetization.learnMore': 'En savoir plus sur Web Mmonetization',
-    'plans.subscription.settingsAria': 'Subscription settings options'
+    'plans.subscription.settingsAria': 'Subscription settings options',
+    'plans.buttonStatus.submitting': 'Submitting your request...'
 };
