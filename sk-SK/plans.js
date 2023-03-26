@@ -70,9 +70,10 @@ export default {
     'payment.history.title': 'História platieb',
     'payment.history.tab': 'História',
     'payment.history.none': 'Nemáme žiadne záznamy o minulých platbách.',
-    // Added 2020-04-30
     'plans.options.aria': 'Možnosti platby',
     'plans.options.creditCard': 'Kreditná karta',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existing': 'Saved payment method',
     'plans.purchase.action': 'Predplatiť',
     'plans.purchase.title': 'Kúpiť predplatné Literary Universe',
     'payment.creditCard.details': 'Údaje o kreditnej karte',
