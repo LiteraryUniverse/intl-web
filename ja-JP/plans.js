@@ -70,9 +70,10 @@ export default {
     'payment.history.title': '支払履歴',
     'payment.history.tab': '支払履歴',
     'payment.history.none': '過去の支払いに関する記録はありません。',
-    // Added 2020-04-30
     'plans.options.aria': '支払い方法',
     'plans.options.creditCard': 'クレジットカード',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existing': 'Saved payment method',
     'plans.purchase.action': '購読する',
     'plans.purchase.title': '文学の宇宙のサブスクリプションを購入する',
     'payment.creditCard.details': 'クレジットカードの詳細',
