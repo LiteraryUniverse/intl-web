@@ -73,7 +73,7 @@ export default {
     'plans.options.aria': '支払い方法',
     'plans.options.creditCard': 'クレジットカード',
     'plans.options.creditCardNew': 'New Credit Card',
-    'plans.options.existing': 'Saved payment method',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': '購読する',
     'plans.purchase.title': '文学の宇宙のサブスクリプションを購入する',
     'payment.creditCard.details': 'クレジットカードの詳細',
@@ -141,7 +141,6 @@ export default {
     other {カード}
   }`,
     'payment.options.default': 'デフォルト',
-    // Added 2020-05-27
     'payment.method.add': '新しい支払方法の追加',
     'payment.methods.adding': 'お客様のアカウントに新しいお支払い方法が追加されました。',
     'payment.methods.delete': '決済方法の削除',
@@ -150,5 +149,6 @@ export default {
     'settings.webMonetization.placeholder': 'お支払い方法',
     'payment.webMonetization.explained': 'Web Monetizationは、ウェブ決済の標準規格として提案されています。ここでは、あなたのプロフィールページ、ブログ、ユニバース、ストーリーに、Webマネタイズで利用される決済ポインタを追加することができます。',
     'payment.webMonetization.learnMore': 'ウェブマネタイズについて詳しくはこちら',
-    'plans.subscription.settingsAria': 'Subscription settings options'
+    'plans.subscription.settingsAria': 'Subscription settings options',
+    'plans.buttonStatus.submitting': 'Submitting your request...'
 };
