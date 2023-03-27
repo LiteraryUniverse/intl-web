@@ -25,6 +25,7 @@ export default {
     'plans.limits.encEntries': 'エンサイクロペディアのエントリー',
     'plans.limits.maxCollaborators': 'プロジェクトごとの協力者',
     'plans.limits.pmChats': 'プライベートメッセージの最大受信者数',
+    'plans.feature.creative': 'Create amazing universes and stories',
     'plans.feature.encCustomFields': 'エントリ上のカスタマイズ可能な百科事典フィールド',
     'plans.feature.encAdvCategories': 'その他の百科事典のカテゴリ',
     'plans.feature.scratchpad': 'メモ帳',
@@ -150,5 +151,12 @@ export default {
     'payment.webMonetization.explained': 'Web Monetizationは、ウェブ決済の標準規格として提案されています。ここでは、あなたのプロフィールページ、ブログ、ユニバース、ストーリーに、Webマネタイズで利用される決済ポインタを追加することができます。',
     'payment.webMonetization.learnMore': 'ウェブマネタイズについて詳しくはこちら',
     'plans.subscription.settingsAria': 'Subscription settings options',
-    'plans.buttonStatus.submitting': 'Submitting your request...'
+    'plans.buttonStatus.submitting': 'Submitting your request...',
+    'plans.button.manageOnStripe': 'Manage Billing on Stripe',
+    'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
+    'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
+    'plans.button.chooseThisSubscription': '',
+    'plans.button.chooseFree': 'Start for free',
+    'plans.features.allInPreviousTiers': 'Everything in previous tier',
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
 };
