@@ -25,6 +25,7 @@ export default {
     'plans.limits.encEntries': 'Záznamů v encyklopedii',
     'plans.limits.maxCollaborators': 'Spolupracovníci na projekt',
     'plans.limits.pmChats': 'Maximální počet příjemců pro soukromou zprávu',
+    'plans.feature.creative': 'Create amazing universes and stories',
     'plans.feature.encCustomFields': 'Pokročilá editace encyklopedických vstupů',
     'plans.feature.encAdvCategories': 'Více kategorií v encyklopedii',
     'plans.feature.scratchpad': 'Zápisník',
@@ -150,5 +151,12 @@ export default {
     'payment.webMonetization.explained': 'Webová Monetizace je navrhovaným standardem pro webové platby. Zde můžete přidat ukazatel platby, který bude přidán na Vaši profilovou stránku, blog, vesmíry a příběhy, které mohou využít webovou Monetizací.',
     'payment.webMonetization.learnMore': 'Zjistěte více o Webové monetizaci',
     'plans.subscription.settingsAria': 'Nastavení předplatného',
-    'plans.buttonStatus.submitting': 'Submitting your request...'
+    'plans.buttonStatus.submitting': 'Submitting your request...',
+    'plans.button.manageOnStripe': 'Manage Billing on Stripe',
+    'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
+    'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
+    'plans.button.chooseThisSubscription': '',
+    'plans.button.chooseFree': 'Start for free',
+    'plans.features.allInPreviousTiers': 'Everything in previous tier',
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
 };
