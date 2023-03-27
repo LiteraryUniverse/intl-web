@@ -25,6 +25,7 @@ export default {
     'plans.limits.encEntries': 'Entradas enciclopédicas',
     'plans.limits.maxCollaborators': 'Colaboradores por projeto',
     'plans.limits.pmChats': '# máximo de destinatários por mensagem privada',
+    'plans.feature.creative': 'Create amazing universes and stories',
     'plans.feature.encCustomFields': 'Campos enciclopédicos personalizáveis numa entrada',
     'plans.feature.encAdvCategories': 'Mais categorias enciclopédias',
     'plans.feature.scratchpad': 'Bloco de notas',
@@ -150,5 +151,12 @@ export default {
     'payment.webMonetization.explained': 'A Monetização da Web é uma norma proposta para pagamentos pela Web. Aqui pode adicionar o seu ponteiro de pagamento que será depois adicionado à sua página de perfil, blog, universos e histórias a serem utilizadas pela Web Monetização.',
     'payment.webMonetization.learnMore': 'Saiba mais sobre Web Monetization',
     'plans.subscription.settingsAria': 'Subscription settings options',
-    'plans.buttonStatus.submitting': 'Submitting your request...'
+    'plans.buttonStatus.submitting': 'Submitting your request...',
+    'plans.button.manageOnStripe': 'Manage Billing on Stripe',
+    'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
+    'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
+    'plans.button.chooseThisSubscription': '',
+    'plans.button.chooseFree': 'Start for free',
+    'plans.features.allInPreviousTiers': 'Everything in previous tier',
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
 };
