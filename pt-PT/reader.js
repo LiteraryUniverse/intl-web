@@ -23,8 +23,6 @@ export default {
     'externalShopping.buyLink.amazon': 'Comprar na Amazon',
     'externalShopping.buyLink.other': 'Comprar em {storeName}',
     'externalShopping.buyLink.bookshop': 'Comprar na Bookshop.org',
-    'external.textopian': 'Textopian',
-    'external.textopian.title': 'Leia e discuta trabalhos no domínio público sobre Textopian',
     'reader.accessibility.aria': 'Opções de acessibilidade',
     'reader.accessibility.toggleDyslexic': 'Alternar a fonte disléxica',
     'reader.accessibility.toggleParagraphStripes': 'Alternar alteração de fundo dos parágrafos',
