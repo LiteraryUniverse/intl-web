@@ -25,8 +25,6 @@ export default {
   'externalShopping.buyLink.amazon': 'Buy on Amazon',
   'externalShopping.buyLink.other': 'Buy on {storeName}',
   'externalShopping.buyLink.bookshop': 'Buy on Bookshop.org',
-  'external.textopian': 'Textopian',
-  'external.textopian.title': 'Read & discuss public domain work on Textopian',
   'reader.accessibility.aria': 'Accessibility options',
   'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
   'reader.accessibility.toggleParagraphStripes':
@@ -34,5 +32,6 @@ export default {
   'reader.accessibility.toggleParagraphHighlight':
     'Toggle selected paragraph highlighting',
   'reader.accessibility.toggleRules': 'Toggle assistive ruler',
-  'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
+  'reader.nextRelease.scheduled':
+    'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
 }
