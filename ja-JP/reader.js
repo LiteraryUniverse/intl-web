@@ -23,8 +23,6 @@ export default {
     'externalShopping.buyLink.amazon': 'Amazonで購入',
     'externalShopping.buyLink.other': '{storeName}で購入',
     'externalShopping.buyLink.bookshop': 'Bookshop.orgで購入',
-    'external.textopian': 'Textopian',
-    'external.textopian.title': 'Textopianでパブリックドメインの作品を読んで議論する',
     'reader.accessibility.aria': 'アクセシビリティオプション',
     'reader.accessibility.toggleDyslexic': 'トグル式ディスレクティックフォント',
     'reader.accessibility.toggleParagraphStripes': '段落の背景をトグルする',
