@@ -212,8 +212,6 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Boîte à outils de la barre latérale',
     'workshop.writerSidebar.description': 'Bienvenue dans votre histoire ! Cette barre latérale vous permet d\'accéder facilement à toutes les ressources liées à votre histoire. Vérifiez les icônes ci-dessus pour voir les derniers commentaires, vos notes et bien plus encore !',
-    'workshop.story.textopian': 'Lien vers Textopian',
-    'workshop.story.textopianExplained': 'Textopian est une plateforme de lecture et de discussion pour les œuvres du domaine public.',
     'workshop.story.authorsNotesExplained': 'Vos notes pour que les lecteurs lisent au début du chapitre.',
     'workshop.story.chapterSortSwitch': 'Changer l\'ordre du chapitre',
     'workshop.universe.monetizationTitle': 'Monétisation de {title}',
