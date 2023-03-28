@@ -21,5 +21,6 @@ export default {
     'writer.publish.scheduleExplained': 'Můžete buď okamžitě publikovat nebo naplánovat kdy kapitola bude zveřejněna.',
     'writer.publish.schedule': 'Nastavit datum publikace',
     'writer.publish.previousChapterPublished': 'Předchozí kapitola byla zveřejněna {publishDate, date, short} v {publishDate, time}',
-    'writer.publish.previousChapterScheduled': 'Předchozí kapitola je naplánována na publikování {publishDate, date, short} v {publishDate, time}'
+    'writer.publish.previousChapterScheduled': 'Předchozí kapitola je naplánována na publikování {publishDate, date, short} v {publishDate, time}',
+    'writer.publish.alreadyPublished': 'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.'
 };
