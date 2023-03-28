@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2023-03-28 - v2.4.2
+
+* Remove Textopian strings
+* Add new strings for subscriptions
+
 ## 2023-03-20 - v2.4.1
 
 * Update `workshop.revisions.comments.list` to include `language` variable
