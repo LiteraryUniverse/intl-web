@@ -112,6 +112,6 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternative in Absatzhintergrundfarbe',
     'settings.accessibility.paragraphHighlighting': 'Hervorheben Sie den aktuellen Absatz, über den Sie schweben',
     'settings.accessibility.ruler': 'Lineal an die Maus anhängen',
-    'settings.tab.legal': 'Legal documents',
-    'settings.tab.exportDelete': 'Export data & delete account'
+    'settings.tab.legal': 'Juristische Dokumente',
+    'settings.tab.exportDelete': 'Daten exportieren & Konto löschen'
 };
