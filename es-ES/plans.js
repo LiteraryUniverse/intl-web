@@ -158,5 +158,6 @@ export default {
     'plans.button.chooseThisSubscription': 'Select this plan',
     'plans.button.chooseFree': 'Start for free',
     'plans.features.allInPreviousTiers': 'Everything in previous tier',
-    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now',
+    'plans.subscription.manage': 'Manage subscription'
 };
