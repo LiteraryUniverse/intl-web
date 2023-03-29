@@ -158,5 +158,6 @@ export default {
     'plans.button.chooseThisSubscription': 'Vybrat tento plán',
     'plans.button.chooseFree': 'Začněte zdarma',
     'plans.features.allInPreviousTiers': 'Vše v předchozí úrovni',
-    'plan.button.chooseNow': 'Vyberte si svůj plán pro Literary Universe'
+    'plan.button.chooseNow': 'Vyberte si svůj plán pro Literary Universe',
+    'plans.subscription.manage': 'Manage subscription'
 };
