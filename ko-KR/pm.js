@@ -1,22 +1,22 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
+    'pm.conversation': '대화',
+    'pm.showolder': '이전 메시지 표시',
+    'pm.errors.saysomething': '정말 뭐라고 말해야 할 것 같은데...',
+    'pm.errors.addrecipient': '다른 사용자를 한 명 이상 추가해야 합니다.',
+    'pm.message': '메시지',
+    'pm.send.message': '메시지 보내기',
+    'pm.messages.own': '메시지',
+    'pm.conversations.none': '현재 누구와도 대화하고 있지 않습니다.',
     'pm.to': 'To:',
     'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
+    'pm.send': '보내기',
     'pm.conversations.unreadCount': `You have {count, plural,
     zero {no unread conversations}
     one {one unread conversation}
     other {# unread conversations}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': 'You can have maximum of 10 people in a conversation.',
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': '수신자를 선택해야 합니다.',
+    'pm.form.maxParticipants': '최대 10명까지 대화에 참여할 수 있습니다.',
+    'pm.new.aria': '새 대화',
+    'pm.new.buttonTitle': '새 대화 시작'
 };
