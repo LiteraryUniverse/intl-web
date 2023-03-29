@@ -1,9 +1,10 @@
 # Changelog for languages
 
-## 2023-03-28 - v2.4.2
+## 2023-03-29 - v2.5.0
 
 * Remove Textopian strings
 * Add new strings for subscriptions
+* Enable Portuguese (`pt-PT`)
 
 ## 2023-03-20 - v2.4.1
 

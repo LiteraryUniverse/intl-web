@@ -120,6 +120,27 @@ export default {
         'fr-CF'
       ],
       rtl: false
+    },
+    {
+      code: 'pt-PT',
+      name: 'Portuguese (Portugal)',
+      native: 'Português',
+      defaultLocale: 'pt-PT',
+      supportedLocales: [
+        'pt',
+        'pt-PT',
+        'pt-AO',
+        'pt-CH',
+        'pt-CV',
+        'pt-GQ',
+        'pt-GW',
+        'pt-LU',
+        'pt-MO',
+        'pt-MZ',
+        'pt-ST',
+        'pt-TL'
+      ],
+      rtl: false
     }
   ],
   /**
@@ -164,43 +185,11 @@ export default {
     return [
       ...this.languages,
       {
-        code: 'pt-PT',
-        name: 'Portuguese (Portugal)',
-        native: 'Português',
-        defaultLocale: 'pt-PT',
-        supportedLocales: [
-          'pt-PT',
-          'pt-AO',
-          'pt-CH',
-          'pt-CV',
-          'pt-GQ',
-          'pt-GW',
-          'pt-LU',
-          'pt-MO',
-          'pt-MZ',
-          'pt-ST',
-          'pt-TL'
-        ],
-        rtl: false
-      },
-      {
         code: 'pt-BR',
         name: 'Portuguese (Brazil)',
         native: 'português brasileiro',
         defaultLocale: 'pt-BR',
-        supportedLocales: [
-          'pt-BR',
-          'pt-AO',
-          'pt-CH',
-          'pt-CV',
-          'pt-GQ',
-          'pt-GW',
-          'pt-LU',
-          'pt-MO',
-          'pt-MZ',
-          'pt-ST',
-          'pt-TL'
-        ],
+        supportedLocales: ['pt-BR'],
         rtl: false
       },
       {
