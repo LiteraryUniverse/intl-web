@@ -16,7 +16,10 @@ export default {
     other {# messaggi non letti}
   }.`,
     'pm.form.minimumParticipants': 'È necessario scegliere un destinatario.',
-    'pm.form.maxParticipants': 'In una chat possono esserci un massimo di 10 persone.',
+    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
+    one {one person}
+    other {# people}
+  } in a conversation.`,
     'pm.new.aria': 'Nuova chat',
     'pm.new.buttonTitle': 'Avvia una nuova chat'
 };
