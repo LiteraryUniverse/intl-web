@@ -158,5 +158,6 @@ export default {
     'plans.button.chooseThisSubscription': 'Wählen Sie diesen Plan',
     'plans.button.chooseFree': 'Kostenloser Start',
     'plans.features.allInPreviousTiers': 'Alles in der vorherigen Stufe',
-    'plan.button.chooseNow': 'Wählen Sie jetzt Ihren Plan für das Literarische Universum'
+    'plan.button.chooseNow': 'Wählen Sie jetzt Ihren Plan für das Literarische Universum',
+    'plans.subscription.manage': 'Manage subscription'
 };
