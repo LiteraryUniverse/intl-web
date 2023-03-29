@@ -5,6 +5,7 @@
 * Remove Textopian strings
 * Add new strings for subscriptions
 * Enable Portuguese (`pt-PT`)
+* `pm.form.maxParticipants` was changed
 
 ## 2023-03-20 - v2.4.1
 
