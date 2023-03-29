@@ -15,7 +15,10 @@ export default {
     other {が#件あります}
   }`,
     'pm.form.minimumParticipants': '受信者を選択する必要があります。',
-    'pm.form.maxParticipants': '会話では最大10人まで参加できます。',
+    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
+    one {one person}
+    other {# people}
+  } in a conversation.`,
     'pm.new.aria': '新しい会話',
     'pm.new.buttonTitle': '新しい会話を始める'
 };
