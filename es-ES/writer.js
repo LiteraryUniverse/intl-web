@@ -21,5 +21,6 @@ export default {
     'writer.publish.scheduleExplained': 'Puede publicar el capítulo inmediatamente o programarlo para que esté disponible más adelante.',
     'writer.publish.schedule': 'Fijar fecha y hora de publicación',
     'writer.publish.previousChapterPublished': 'El capítulo anterior se publicó el {publishDate, date, short} a las {publishDate, time}',
-    'writer.publish.previousChapterScheduled': 'Está previsto que el capítulo anterior se publique el {publishDate, date, short} a las {publishDate, time}'
+    'writer.publish.previousChapterScheduled': 'Está previsto que el capítulo anterior se publique el {publishDate, date, short} a las {publishDate, time}',
+    'writer.publish.alreadyPublished': 'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.'
 };

@@ -215,8 +215,6 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Sada nástrojov bočného panela',
     'workshop.writerSidebar.description': 'Vitajte vo svojom príbehu! Tento bočný panel vám umožňuje jednoduchý prístup ku všetkým zdrojom súvisiacim s vaším príbehom. Pozrite si ikony vyššie, aby ste videli najnovšie komentáre, svoje poznámky a mnoho ďalšieho!',
-    'workshop.story.textopian': 'Odkaz na Textopian',
-    'workshop.story.textopianExplained': 'Textopian je platforma na čítanie a diskusiu o dielach vo verejnom vlastníctve.',
     'workshop.story.authorsNotesExplained': 'Vaše poznámky pre čitateľov na začiatku kapitoly.',
     'workshop.story.chapterSortSwitch': 'Prepnúť poradie kapitoly',
     'workshop.universe.monetizationTitle': '{title} monetizácia',

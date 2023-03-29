@@ -25,6 +25,7 @@ export default {
     'plans.limits.encEntries': 'Entradas de la enciclopedia',
     'plans.limits.maxCollaborators': 'Colaboradores por proyecto',
     'plans.limits.pmChats': 'Máximo # de destinatarios por mensaje privado',
+    'plans.feature.creative': 'Create amazing universes and stories',
     'plans.feature.encCustomFields': 'Campos de la enciclopedia personalizables en una entrada',
     'plans.feature.encAdvCategories': 'Más categoría para enciclopedia',
     'plans.feature.scratchpad': 'Bloc de notas',
@@ -70,9 +71,10 @@ export default {
     'payment.history.title': 'Historial de pagos',
     'payment.history.tab': 'Historial',
     'payment.history.none': 'No tenemos ningún registro de pagos anteriores.',
-    // Added 2020-04-30
     'plans.options.aria': 'Opciones de pago',
     'plans.options.creditCard': 'Tarjeta de crédito',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': 'Suscríbete',
     'plans.purchase.title': 'Comprar suscripción de Literary Universe',
     'payment.creditCard.details': 'Datos de la tarjeta de crédito',
@@ -115,6 +117,7 @@ export default {
     'payments.card.cvv': 'CVV',
     'payments.card.info': 'Tarjeta {cardType}, acabada en {ending}',
     'payments.none': 'No se encontraron opciones de pago guardadas.',
+    'payments.none.cards': 'No cards were found.',
     'payments.added': 'Nueva opción de pago añadida correctamente.',
     'payments.delete.confirm': '¿Estás seguro de que quieres eliminar {cardType}, acabada en {ending}?',
     'payment.invoice.status': 'Estado de la factura',
@@ -139,7 +142,6 @@ export default {
     other {Tarjeta}
   } acabada en {last4}`,
     'payment.options.default': 'Por defecto',
-    // Added 2020-05-27
     'payment.method.add': 'Añade un nuevo método de pago',
     'payment.methods.adding': 'Tu nuevo método de pago se ha añadido a tu cuenta.',
     'payment.methods.delete': 'Eliminar método de pago',
@@ -148,5 +150,13 @@ export default {
     'settings.webMonetization.placeholder': 'Tu dirección de cuenta de pagos',
     'payment.webMonetization.explained': 'La monetización web es una propuesta para estandarizar los pagos en la web. Aquí puedes añadir tu dirección de cuenta de pagos que se añadirá a tu página de perfil, blog, universos e historias que se podrá utilizar para la monetización web.',
     'payment.webMonetization.learnMore': 'Más información sobre la monetización web',
-    'plans.subscription.settingsAria': 'Opciones de ajustes de la suscripción'
+    'plans.subscription.settingsAria': 'Opciones de ajustes de la suscripción',
+    'plans.buttonStatus.submitting': 'Submitting your request...',
+    'plans.button.manageOnStripe': 'Manage Billing on Stripe',
+    'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
+    'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
+    'plans.button.chooseThisSubscription': 'Select this plan',
+    'plans.button.chooseFree': 'Start for free',
+    'plans.features.allInPreviousTiers': 'Everything in previous tier',
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
 };

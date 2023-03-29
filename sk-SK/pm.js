@@ -17,7 +17,10 @@ export default {
      other {Máte # neprečítaných konverzácií}
 }.`,
     'pm.form.minimumParticipants': 'Musíte si vybrať príjemcu.',
-    'pm.form.maxParticipants': 'V jednej konverzácii môže byť maximálne 10 ľudí.',
+    'pm.form.maxParticipants': `Môžete mať maximálne {maxPeople, plural,
+    one {jednu osobu}
+    other {# ľudí}
+  } v konverzácii.`,
     'pm.new.aria': 'Nová konverzácia',
     'pm.new.buttonTitle': 'Začať novú konverzáciu'
 };

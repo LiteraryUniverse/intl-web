@@ -23,8 +23,6 @@ export default {
     'externalShopping.buyLink.amazon': 'Kúpiť na Amazone',
     'externalShopping.buyLink.other': 'Kúpiť na {storeName}',
     'externalShopping.buyLink.bookshop': 'Kúpiť na Bookshop.org',
-    'external.textopian': 'Textopian',
-    'external.textopian.title': 'Čítanie a diskusia o verejne prístupných prácach na portáli Textopian',
     'reader.accessibility.aria': 'Možnosti zjednodušeného ovládania',
     'reader.accessibility.toggleDyslexic': 'Prepínanie dyslektického písma',
     'reader.accessibility.toggleParagraphStripes': 'Prepínanie odsekov na pozadí',

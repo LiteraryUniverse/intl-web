@@ -25,6 +25,7 @@ export default {
     'plans.limits.encEntries': 'エンサイクロペディアのエントリー',
     'plans.limits.maxCollaborators': 'プロジェクトごとの協力者',
     'plans.limits.pmChats': 'プライベートメッセージの最大受信者数',
+    'plans.feature.creative': 'Create amazing universes and stories',
     'plans.feature.encCustomFields': 'エントリ上のカスタマイズ可能な百科事典フィールド',
     'plans.feature.encAdvCategories': 'その他の百科事典のカテゴリ',
     'plans.feature.scratchpad': 'メモ帳',
@@ -70,9 +71,10 @@ export default {
     'payment.history.title': '支払履歴',
     'payment.history.tab': '支払履歴',
     'payment.history.none': '過去の支払いに関する記録はありません。',
-    // Added 2020-04-30
     'plans.options.aria': '支払い方法',
     'plans.options.creditCard': 'クレジットカード',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': '購読する',
     'plans.purchase.title': '文学の宇宙のサブスクリプションを購入する',
     'payment.creditCard.details': 'クレジットカードの詳細',
@@ -115,6 +117,7 @@ export default {
     'payments.card.cvv': 'CVV',
     'payments.card.info': '{cardType}カード、{ending}で終わる',
     'payments.none': '保存された支払い方法は見つかりませんでした。',
+    'payments.none.cards': 'No cards were found.',
     'payments.added': '新しい支払い方法の追加に成功しました。',
     'payments.delete.confirm': '本当に{ending}で終わる{cardType}を削除したいのですか？',
     'payment.invoice.status': '請求書のステータス',
@@ -139,7 +142,6 @@ export default {
     other {カード}
   }`,
     'payment.options.default': 'デフォルト',
-    // Added 2020-05-27
     'payment.method.add': '新しい支払方法の追加',
     'payment.methods.adding': 'お客様のアカウントに新しいお支払い方法が追加されました。',
     'payment.methods.delete': '決済方法の削除',
@@ -148,5 +150,13 @@ export default {
     'settings.webMonetization.placeholder': 'お支払い方法',
     'payment.webMonetization.explained': 'Web Monetizationは、ウェブ決済の標準規格として提案されています。ここでは、あなたのプロフィールページ、ブログ、ユニバース、ストーリーに、Webマネタイズで利用される決済ポインタを追加することができます。',
     'payment.webMonetization.learnMore': 'ウェブマネタイズについて詳しくはこちら',
-    'plans.subscription.settingsAria': 'Subscription settings options'
+    'plans.subscription.settingsAria': 'Subscription settings options',
+    'plans.buttonStatus.submitting': 'Submitting your request...',
+    'plans.button.manageOnStripe': 'Manage Billing on Stripe',
+    'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
+    'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
+    'plans.button.chooseThisSubscription': 'Select this plan',
+    'plans.button.chooseFree': 'Start for free',
+    'plans.features.allInPreviousTiers': 'Everything in previous tier',
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
 };

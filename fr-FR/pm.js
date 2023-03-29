@@ -16,7 +16,10 @@ export default {
     other {# conversations non lues}
   }.`,
     'pm.form.minimumParticipants': 'Vous devez choisir un destinataire.',
-    'pm.form.maxParticipants': 'Vous pouvez avoir un maximum de 10 personnes dans une conversation.',
+    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
+    one {one person}
+    other {# people}
+  } in a conversation.`,
     'pm.new.aria': 'Nouvelle conversation',
     'pm.new.buttonTitle': 'Commencer une nouvelle conversation'
 };

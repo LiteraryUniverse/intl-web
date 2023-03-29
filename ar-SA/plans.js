@@ -25,6 +25,7 @@ export default {
     'plans.limits.encEntries': 'Encyclopedia entries',
     'plans.limits.maxCollaborators': 'Collaborators per project',
     'plans.limits.pmChats': 'Maximum # of recipients for private message',
+    'plans.feature.creative': 'Create amazing universes and stories',
     'plans.feature.encCustomFields': 'Customizable encyclopedia fields on an entry',
     'plans.feature.encAdvCategories': 'More encyclopedia categories',
     'plans.feature.scratchpad': 'Scratchpad',
@@ -70,9 +71,10 @@ export default {
     'payment.history.title': 'سجل الدفع',
     'payment.history.tab': 'السجل',
     'payment.history.none': 'ليس لدينا أي سجلات للمدفوعات السابقة.',
-    // Added 2020-04-30
     'plans.options.aria': 'خيارات الدفع',
     'plans.options.creditCard': 'بطاقة ائتمان',
+    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': 'اشتراك',
     'plans.purchase.title': 'Buy Literary Universe subscription',
     'payment.creditCard.details': 'تفاصيل بطاقة الائتمان',
@@ -115,6 +117,7 @@ export default {
     'payments.card.cvv': 'CVV',
     'payments.card.info': '{cardType} card, ending in {ending}',
     'payments.none': 'No saved payment options found.',
+    'payments.none.cards': 'No cards were found.',
     'payments.added': 'تمت إضافة خيار الدفع الجديد بنجاح.',
     'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
     'payment.invoice.status': 'حالة الفاتورة',
@@ -139,7 +142,6 @@ export default {
     other {Card}
   } ending with {last4}`,
     'payment.options.default': 'الافتراضي',
-    // Added 2020-05-27
     'payment.method.add': 'إضافة طريقة جديدة للدفع',
     'payment.methods.adding': 'لقد تمت إضافة طريقة دفع جديدة إلى حسابك.',
     'payment.methods.delete': 'حذف طريقة الدفع',
@@ -148,5 +150,13 @@ export default {
     'settings.webMonetization.placeholder': 'Your payment pointer',
     'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
     'payment.webMonetization.learnMore': 'Learn more about Web Monetization',
-    'plans.subscription.settingsAria': 'Subscription settings options'
+    'plans.subscription.settingsAria': 'Subscription settings options',
+    'plans.buttonStatus.submitting': 'Submitting your request...',
+    'plans.button.manageOnStripe': 'Manage Billing on Stripe',
+    'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
+    'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
+    'plans.button.chooseThisSubscription': 'Select this plan',
+    'plans.button.chooseFree': 'Start for free',
+    'plans.features.allInPreviousTiers': 'Everything in previous tier',
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
 };

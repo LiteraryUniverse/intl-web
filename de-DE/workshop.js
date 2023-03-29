@@ -212,8 +212,6 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Werkzeugkasten der Seitenleiste',
     'workshop.writerSidebar.description': 'Willkommen zu Ihrer Geschichte! Diese Seitenleiste ermöglicht Ihnen einen einfachen Zugriff auf alle Ressourcen, die mit Ihrer Geschichte zusammenhängen. Überprüfen Sie die Symbole oben, um die neuesten Kommentare, Ihre Notizen und vieles mehr zu sehen!',
-    'workshop.story.textopian': 'Link zu Textopian',
-    'workshop.story.textopianExplained': 'Textopian ist eine Lese- und Diskussionsplattform für gemeinfreie Werke.',
     'workshop.story.authorsNotesExplained': 'Ihre Notizen für die Leser zum Lesen am Anfang des Kapitels.',
     'workshop.story.chapterSortSwitch': 'Reihenfolge des Kapitels ändern',
     'workshop.universe.monetizationTitle': '{title} Monetarisierung',

@@ -25,6 +25,7 @@ export default {
     'plans.limits.encEntries': 'Záznamy v encyklopédii',
     'plans.limits.maxCollaborators': 'Spolupracovníci na projekt',
     'plans.limits.pmChats': 'Maximálny počet príjemcov pre súkromnú správu',
+    'plans.feature.creative': 'Vytvárajte úžasné vesmíry a príbehy',
     'plans.feature.encCustomFields': 'Prispôsobiteľné polia encyklopédie v položke',
     'plans.feature.encAdvCategories': 'Viac kategórií encyklopédií',
     'plans.feature.scratchpad': 'Zápisník',
@@ -70,9 +71,10 @@ export default {
     'payment.history.title': 'História platieb',
     'payment.history.tab': 'História',
     'payment.history.none': 'Nemáme žiadne záznamy o minulých platbách.',
-    // Added 2020-04-30
     'plans.options.aria': 'Možnosti platby',
     'plans.options.creditCard': 'Kreditná karta',
+    'plans.options.creditCardNew': 'Nová kreditná karta',
+    'plans.options.existingCards': 'Uložené kreditné karty',
     'plans.purchase.action': 'Predplatiť',
     'plans.purchase.title': 'Kúpiť predplatné Literary Universe',
     'payment.creditCard.details': 'Údaje o kreditnej karte',
@@ -115,6 +117,7 @@ export default {
     'payments.card.cvv': 'CVV',
     'payments.card.info': '{cardType} karta, končiaca na {ending}',
     'payments.none': 'Nenašli sa žiadne uložené možnosti platby.',
+    'payments.none.cards': 'Nenašli sa žiadne karty.',
     'payments.added': 'Nová možnosť platby bola úspešne pridaná.',
     'payments.delete.confirm': 'Ste si istí, že chcete odstrániť {cardType}, končiaci na {ending}?',
     'payment.invoice.status': 'Stav faktúry',
@@ -139,7 +142,6 @@ export default {
     other {Karta}
     } končiace na {last4}`,
     'payment.options.default': 'Predvolené',
-    // Added 2020-05-27
     'payment.method.add': 'Pridanie novej možnosti platby',
     'payment.methods.adding': 'Do vášho účtu bol pridaný nový spôsob platby.',
     'payment.methods.delete': 'Odstránenie spôsobu platby',
@@ -148,5 +150,13 @@ export default {
     'settings.webMonetization.placeholder': 'Váš ukazovateľ platby',
     'payment.webMonetization.explained': 'Webová monetizácia je navrhovaný štandard pre webové platby. Tu môžete pridať svoj platobný ukazovateľ, ktorý sa potom pridá na vašu profilovú stránku, blog, univerzá a príbehy, ktoré sa budú využívať v rámci služby Web Monetization.',
     'payment.webMonetization.learnMore': 'Ďalšie informácie o Webové Monetizácii',
-    'plans.subscription.settingsAria': 'Možnosti nastavení predplatného'
+    'plans.subscription.settingsAria': 'Možnosti nastavení predplatného',
+    'plans.buttonStatus.submitting': 'Odoslanie žiadosti...',
+    'plans.button.manageOnStripe': 'Správa fakturácie v službe Stripe',
+    'plans.call.signUpBottom': 'Zaregistrujte si bezplatné konto Literary Universe a začnite tvoriť!',
+    'plans.button.seeComparison': 'Viac informácií o plánoch a cenách nájdete na našej porovnávacej stránke!',
+    'plans.button.chooseThisSubscription': 'Vyberte tento plán',
+    'plans.button.chooseFree': 'Začnite zadarmo',
+    'plans.features.allInPreviousTiers': 'Všetko v predchádzajúcej úrovni',
+    'plan.button.chooseNow': 'Vyberte si svoj plán Literary Universe teraz'
 };

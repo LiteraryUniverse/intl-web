@@ -208,8 +208,6 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Boczny pasek narzędzi',
     'workshop.writerSidebar.description': 'Witamy w Twojej historii! Ten pasek boczny umożliwia Ci łatwy dostęp do wszystkich zasobów związanych z Twoją historią. Sprawdź ikony powyżej, aby zobaczyć najnowsze komentarze, Twoje notatki i wiele więcej!',
-    'workshop.story.textopian': 'Link do Textopianu',
-    'workshop.story.textopianExplained': 'Textopian to platforma do czytania i dyskusji o dziełach znajdujących się w domenie publicznej.',
     'workshop.story.authorsNotesExplained': 'Twoje uwagi dla czytelników do przeczytania na początku rozdziału.',
     'workshop.story.chapterSortSwitch': 'Zmienić kolejność rozdziałów',
     'workshop.universe.monetizationTitle': '{title} monetyzacja',

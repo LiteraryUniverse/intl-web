@@ -200,8 +200,6 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'サイドバーツールボックス',
     'workshop.writerSidebar.description': 'あなたのストーリーへようこそ このサイドバーでは、あなたのストーリーに関連するすべてのリソースに簡単にアクセスすることができます。上のアイコンをクリックすると、最新のコメントやあなたのメモなどを見ることができます。',
-    'workshop.story.textopian': 'Textopianへのリンク',
-    'workshop.story.textopianExplained': 'Textopianは、パブリックドメインの作品を読むためのディスカッションプラットフォームです。',
     'workshop.story.authorsNotesExplained': '章の最初に読者に読んでもらうためのメモ。',
     'workshop.story.chapterSortSwitch': 'チャプターの順番を入れ替える',
     'workshop.universe.monetizationTitle': '{title}マネタイズ',
