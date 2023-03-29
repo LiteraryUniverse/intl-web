@@ -155,7 +155,7 @@ export default {
     'plans.button.manageOnStripe': 'Spravovat fakturaci na Stripe',
     'plans.call.signUpBottom': 'Založte si Literary Universe účet a začněte tvořit!',
     'plans.button.seeComparison': 'Zjistěte více o plánech a cenách na naší porovnávací stránce!',
-    'plans.button.chooseThisSubscription': '',
+    'plans.button.chooseThisSubscription': 'Vybrat tento plán',
     'plans.button.chooseFree': 'Začněte zdarma',
     'plans.features.allInPreviousTiers': 'Vše v předchozí úrovni',
     'plan.button.chooseNow': 'Vyberte si svůj plán pro Literary Universe'
