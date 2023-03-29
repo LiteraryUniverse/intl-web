@@ -17,7 +17,10 @@ export default {
     other {# nieprzeczytanych wiadomości}
   }.`,
     'pm.form.minimumParticipants': 'Należy wybrać odbiorcę.',
-    'pm.form.maxParticipants': 'W rozmowie może uczestniczyć do 10 osób.',
+    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
+    one {one person}
+    other {# people}
+  } in a conversation.`,
     'pm.new.aria': 'Nowa rozmowa',
     'pm.new.buttonTitle': 'Rozpocznij nową rozmowę'
 };
