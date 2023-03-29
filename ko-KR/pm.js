@@ -16,7 +16,10 @@ export default {
     other {# unread conversations}
   }.`,
     'pm.form.minimumParticipants': '수신자를 선택해야 합니다.',
-    'pm.form.maxParticipants': '최대 10명까지 대화에 참여할 수 있습니다.',
+    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
+    one {one person}
+    other {# people}
+  } in a conversation.`,
     'pm.new.aria': '새 대화',
     'pm.new.buttonTitle': '새 대화 시작'
 };
