@@ -16,7 +16,10 @@ export default {
     other {# ungelesene Unterhaltungen}
   }.`,
     'pm.form.minimumParticipants': 'Sie müssen einen Empfänger auswählen.',
-    'pm.form.maxParticipants': 'Sie können maximal 10 Personen an einer Unterhaltung teilnehmen lassen.',
+    'pm.form.maxParticipants': `Sie können maximal {maxPeople, plural,
+    one {eine Person}
+    other {# Personen}
+  } an einer Unterhaltung teilnehmen.`,
     'pm.new.aria': 'Neues Gespräch',
     'pm.new.buttonTitle': 'Neues Gespräch beginnen'
 };
