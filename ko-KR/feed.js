@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
+    'feed.post.new': '새 게시물',
+    'feed.post.like': '게시물 좋아요',
+    'feed.post.unlike': '포스트와 달리',
     'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.empty': '피드에 항목이 없습니다.'
 };
