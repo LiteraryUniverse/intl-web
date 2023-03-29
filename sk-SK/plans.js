@@ -155,7 +155,7 @@ export default {
     'plans.button.manageOnStripe': 'Správa fakturácie v službe Stripe',
     'plans.call.signUpBottom': 'Zaregistrujte si bezplatné konto Literary Universe a začnite tvoriť!',
     'plans.button.seeComparison': 'Viac informácií o plánoch a cenách nájdete na našej porovnávacej stránke!',
-    'plans.button.chooseThisSubscription': '',
+    'plans.button.chooseThisSubscription': 'Vyberte tento plán',
     'plans.button.chooseFree': 'Začnite zadarmo',
     'plans.features.allInPreviousTiers': 'Všetko v predchádzajúcej úrovni',
     'plan.button.chooseNow': 'Vyberte si svoj plán Literary Universe teraz'
