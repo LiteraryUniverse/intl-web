@@ -155,7 +155,7 @@ export default {
     'plans.button.manageOnStripe': 'Manage Billing on Stripe',
     'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
     'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
-    'plans.button.chooseThisSubscription': '',
+    'plans.button.chooseThisSubscription': 'Select this plan',
     'plans.button.chooseFree': 'Start for free',
     'plans.features.allInPreviousTiers': 'Everything in previous tier',
     'plan.button.chooseNow': 'Choose your Literary Universe plan now'
