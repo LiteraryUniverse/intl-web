@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': '새로운 이야기와 우주를 발견하세요.',
+    'discovery.universes.new': '신흥 우주',
+    'discovery.stories.new': '새로운 스토리',
+    'discovery.stories.standalone.new': '새로운 독립형 스토리',
+    'discovery.stories.updated': '최근 업데이트된 스토리',
+    'discovery.continue': '계속 읽기',
+    'discovery.stories.similar.new': '이웃의 새로운 이야기',
+    'discovery.stories.similar.regular': '이웃의 이야기',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
@@ -16,22 +16,22 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
+    'story.estimatedReadingTime.explained': '분당 평균 읽기 속도 {avgReadingNum} 단어 기준.',
+    'discover.search.text': '검색어',
+    'discover.searchStory.title': '스토리 검색',
+    'discover.searchStory.description': '스토리 검색',
+    'discover.searchUniverse.title': '유니버스 검색',
     'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.storyStatus': '스토리 진행 상태',
+    'story.status.complete': '완료',
+    'story.status.inProgress': '진행 중',
+    'discover.search.universeConnection': '스토리를 우주와 연결',
+    'story.universeRelation.standalone': '독립형 스토리',
+    'story.universeRelation.fanFiction': '팬 픽션',
+    'story.universeRelation.universe': '우주의 일부',
+    'discover.search.rating': '연령 등급',
+    'discover.search.license': '저작권 라이선스',
+    'discover.search.language': '언어',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
@@ -42,10 +42,10 @@ export default {
         one {1 story found}
         other {# stories found}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discover.viewSelection.aria': '선택 보기',
+    'discover.searchDisplay.covers': '커버 목록',
+    'discover.searchDisplay.list': '간결한 목록',
+    'discover.includesAds': '이 작품에는 제품 배치가 있거나 다른 형태의 광고가 포함되어 있습니다.',
+    'discovery.featured.universes': '주요 유니버스',
+    'discovery.featured.stories': '추천 스토리'
 };
