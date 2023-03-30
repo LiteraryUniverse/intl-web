@@ -239,5 +239,6 @@ export default {
     'common.account': 'Account',
     'common.notifications': 'ଵିଜ୍ଞପ୍ତି',
     'common.byDeclaration': 'By:',
-    'common.done': 'Done'
+    'common.done': 'Done',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
