@@ -239,5 +239,6 @@ export default {
     'common.account': '계정',
     'common.notifications': '알림',
     'common.byDeclaration': 'By:',
-    'common.done': 'Done'
+    'common.done': 'Done',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
