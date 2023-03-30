@@ -239,5 +239,6 @@ export default {
     'common.account': 'Cuenta',
     'common.notifications': 'Notificaciones',
     'common.byDeclaration': 'Por:',
-    'common.done': 'Hecho'
+    'common.done': 'Hecho',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
