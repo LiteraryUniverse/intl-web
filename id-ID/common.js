@@ -239,5 +239,6 @@ export default {
     'common.account': 'Akun',
     'common.notifications': 'Notifikasi',
     'common.byDeclaration': 'By:',
-    'common.done': 'Done'
+    'common.done': 'Done',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
