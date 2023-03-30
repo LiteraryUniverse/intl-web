@@ -1,5 +1,11 @@
 # Changelog for languages
 
+## 2023-03-31 - v2.5.1
+
+* Added `recommended`
+* Added `plans.subscription.manage`
+* Technical adjustment to subscription length strings
+
 ## 2023-03-29 - v2.5.0
 
 * Remove Textopian strings
