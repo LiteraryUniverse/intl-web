@@ -239,5 +239,6 @@ export default {
     'common.account': 'アカウント',
     'common.notifications': '通知',
     'common.byDeclaration': '作成者：',
-    'common.done': '完了'
+    'common.done': '完了',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
