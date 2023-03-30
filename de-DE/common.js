@@ -239,5 +239,6 @@ export default {
     'common.account': 'Benutzerkonto',
     'common.notifications': 'Benachrichtigungen',
     'common.byDeclaration': 'Von:',
-    'common.done': 'Fertig'
+    'common.done': 'Fertig',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
