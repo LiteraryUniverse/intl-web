@@ -239,5 +239,6 @@ export default {
     'common.account': 'Účet',
     'common.notifications': 'Upozornění',
     'common.byDeclaration': 'Od:',
-    'common.done': 'Hotovo'
+    'common.done': 'Hotovo',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
