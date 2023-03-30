@@ -239,5 +239,6 @@ export default {
     'common.account': 'Compte',
     'common.notifications': 'Notifications',
     'common.byDeclaration': 'Par :',
-    'common.done': 'Terminé'
+    'common.done': 'Terminé',
+    recommended: 'Recommended'
 }    /* eslint-enable max-len */;
