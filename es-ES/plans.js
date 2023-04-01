@@ -17,10 +17,10 @@ export default {
     'plans.unlimited': 'Ilimitado',
     'plans.price': 'Precio',
     'plans.price.free': 'GRATIS',
-    'plans.price.monthly': 'un mes',
-    'plans.price.annually': 'al año',
-    'plans.price.perMonth': '{price} / month',
-    'plans.price.perYear': '{price} / year',
+    'plans.price.monthly': 'a month*',
+    'plans.price.annually': 'annually*',
+    'plans.price.perMonth': '{price} / month*',
+    'plans.price.perYear': '{price} / year*',
     'plans.development': 'En desarrollo',
     'plans.limits.encEntries': 'Entradas de la enciclopedia',
     'plans.limits.maxCollaborators': 'Colaboradores por proyecto',
@@ -159,5 +159,6 @@ export default {
     'plans.button.chooseFree': 'Start for free',
     'plans.features.allInPreviousTiers': 'Everything in previous tier',
     'plan.button.chooseNow': 'Choose your Literary Universe plan now',
-    'plans.subscription.manage': 'Manage subscription'
+    'plans.subscription.manage': 'Manage subscription',
+    'plans.taxMayApply': '* VAT and other local taxes may apply'
 };
