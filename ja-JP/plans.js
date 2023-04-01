@@ -17,10 +17,10 @@ export default {
     'plans.unlimited': '無制限',
     'plans.price': '価格',
     'plans.price.free': '自由',
-    'plans.price.monthly': '毎月',
-    'plans.price.annually': '毎年',
-    'plans.price.perMonth': '{price} / month',
-    'plans.price.perYear': '{price} / year',
+    'plans.price.monthly': 'a month*',
+    'plans.price.annually': 'annually*',
+    'plans.price.perMonth': '{price} / month*',
+    'plans.price.perYear': '{price} / year*',
     'plans.development': '開発中',
     'plans.limits.encEntries': 'エンサイクロペディアのエントリー',
     'plans.limits.maxCollaborators': 'プロジェクトごとの協力者',
@@ -159,5 +159,6 @@ export default {
     'plans.button.chooseFree': 'Start for free',
     'plans.features.allInPreviousTiers': 'Everything in previous tier',
     'plan.button.chooseNow': 'Choose your Literary Universe plan now',
-    'plans.subscription.manage': 'Manage subscription'
+    'plans.subscription.manage': 'Manage subscription',
+    'plans.taxMayApply': '* VAT and other local taxes may apply'
 };
