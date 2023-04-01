@@ -8,7 +8,7 @@ Package.describe({
 
 Package.onUse(function (api) {
   api.versionsFrom('2.6')
-  api.use(['ecmascript', 'typescript'])
+  api.use(['ecmascript', 'typescript', 'zodern:types'])
   api.mainModule('./index.ts', ['client', 'server'], { lazy: true })
 })
 

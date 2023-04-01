@@ -402,23 +402,23 @@ export default {
   currencies: {
     USD: {
       sign: '$',
-      location: 'before',
-      fromUSD: 1
+      location: 'before'
     },
     EUR: {
       sign: '€',
-      location: 'after',
-      fromUSD: 0.9
+      location: 'after'
     },
     GBP: {
       sign: '$',
-      location: 'before',
-      fromUSD: 0.8
+      location: 'before'
     },
     JPY: {
       sign: '￥',
-      location: 'before',
-      fromUSD: 110
+      location: 'before'
+    },
+    CZK: {
+      sign: 'Kč',
+      location: 'after'
     }
   },
   intlCurrencyFormats: {
@@ -427,7 +427,8 @@ export default {
       jpy: { style: 'currency', currency: 'JPY' },
       gbp: { style: 'currency', currency: 'GBP' },
       eur: { style: 'currency', currency: 'EUR' },
-      usd: { style: 'currency', currency: 'USD' }
+      usd: { style: 'currency', currency: 'USD' },
+      czk: { style: 'currency', currency: 'CZK' }
     }
   },
   /**
@@ -436,17 +437,26 @@ export default {
    * @returns {String} 3-key currency string
    */
   currencyByCountry(countryCode: string): string {
-    if (!countryCode) return 'USD'
-    if (countryCode === 'GB') return 'GBP'
-    if (countryCode === 'US' || countryCode === 'CA') return 'USD'
-    if (countryCode === 'JP') return 'JPY'
+    if (!countryCode) return 'EUR'
+    const code = countryCode.toUpperCase()
+    switch (code) {
+      case 'GB':
+        return 'GBP'
+      case 'US':
+      case 'CA':
+        return 'USD'
+      case 'CZ':
+        return 'CZK'
+      case 'JP':
+        return 'JPY'
+    }
     // EU check
     if (
-      this.euCountries.indexOf(countryCode) >= 0 ||
-      this.euAssociated.indexOf(countryCode) >= 0
+      this.euCountries.indexOf(code) >= 0 ||
+      this.euAssociated.indexOf(code) >= 0
     )
       return 'EUR'
-    return 'USD'
+    return 'EUR'
   },
   /**
    * 2-key list of all countries
