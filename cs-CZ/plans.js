@@ -17,10 +17,10 @@ export default {
     'plans.unlimited': 'Bez omezení',
     'plans.price': 'Cena',
     'plans.price.free': 'ZDARMA',
-    'plans.price.monthly': 'a month*',
-    'plans.price.annually': 'annually*',
-    'plans.price.perMonth': '{price} / month*',
-    'plans.price.perYear': '{price} / year*',
+    'plans.price.monthly': 'měsíčně*',
+    'plans.price.annually': 'ročně*',
+    'plans.price.perMonth': '{price} / měsíc*',
+    'plans.price.perYear': '{price} / rok*',
     'plans.development': 'Ve vývoji',
     'plans.limits.encEntries': 'Záznamů v encyklopedii',
     'plans.limits.maxCollaborators': 'Spolupracovníci na projekt',
@@ -159,6 +159,6 @@ export default {
     'plans.button.chooseFree': 'Začněte zdarma',
     'plans.features.allInPreviousTiers': 'Vše v předchozí úrovni',
     'plan.button.chooseNow': 'Vyberte si svůj plán pro Literary Universe',
-    'plans.subscription.manage': 'Manage subscription',
-    'plans.taxMayApply': '* VAT and other local taxes may apply'
+    'plans.subscription.manage': 'Spravovat předplatné',
+    'plans.taxMayApply': '* DPH a další daně zde nejsou započteny'
 };
