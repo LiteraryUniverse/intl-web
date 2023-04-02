@@ -1,10 +1,11 @@
 # Changelog for languages
 
-## 2023-04-01 - v2.6.0
+## 2023-04-02 - v2.6.0
 
 * Added new strings for selects
 * Types
 * `currencyByCountry` now takes 'CZK into account'
+* Banner strings added
 
 ## 2023-03-31 - v2.5.1
 
