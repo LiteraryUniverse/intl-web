@@ -249,6 +249,6 @@ export default {
     'select.selectOptions': 'Seleccionar opciones de {name}',
     'select.selectOption': 'Elige una opción de {name}',
     create: 'Crear',
-    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.'
+    'banner.support': '¡Los usuarios como tú sois quienes mantenéis Literary Universe a flote! Por favor, considera unirte a uno de nuestros planes de suscripción y hacer de Literary Universe algo incluso mejor!',
+    'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.'
 }    /* eslint-enable max-len */;
