@@ -243,11 +243,7 @@ export default {
     recommended: 'Recomendado',
     'select.typeToCreate': 'Teclea para crear un artículo',
     'select.noSearchResults': 'No se encuentran resultados para “{search}”',
-    'select.filterOptions': 'Opciones de filtrado',
-    'select.closeDropdown': 'Cerrar Desplegable',
     'select.removeOption': 'Eliminar {option}',
-    'select.selectOptions': 'Seleccionar opciones de {name}',
-    'select.selectOption': 'Elige una opción de {name}',
     create: 'Crear',
     'banner.support': '¡Los usuarios como tú sois quienes mantenéis Literary Universe a flote! Por favor, considera unirte a uno de nuestros planes de suscripción y hacer de Literary Universe algo incluso mejor!',
     'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.'
