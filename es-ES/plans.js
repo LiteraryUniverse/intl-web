@@ -17,8 +17,8 @@ export default {
     'plans.unlimited': 'Ilimitado',
     'plans.price': 'Precio',
     'plans.price.free': 'GRATIS',
-    'plans.price.monthly': 'a month*',
-    'plans.price.annually': 'annually*',
+    'plans.price.monthly': 'al mes*',
+    'plans.price.annually': 'al año*',
     'plans.price.perMonth': '{price} / al mes*',
     'plans.price.perYear': '{price} / al año*',
     'plans.development': 'En desarrollo',
@@ -161,6 +161,6 @@ export default {
     'plan.button.chooseNow': 'Elige tu plan de suscripción de Literary Universe',
     'plans.subscription.manage': 'Administrar tu suscripción',
     'plans.taxMayApply': '* Puede añadirse el IVA y otros impuestos similares',
-    'plans.faq.crypto': 'Will you offer crypto payments?',
-    'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.'
+    'plans.faq.crypto': '¿Y ofreceréis pagos en criptomoneda?',
+    'plans.faq.cryptoAnswer': 'Así es, estamos trabajando en ello. Somos fans de la Web3 y estamos buscando formas de integrar la Web3 en la plataforma de cara a futuro. Por ahora hemos permitido el acceso con Web3 y queremos expandir esta opción, en concreto a la hora de pagar a los creadores y darles la posibilidad de aceptar cualquier tipo de opción de pago que quieran escoger.'
 };
