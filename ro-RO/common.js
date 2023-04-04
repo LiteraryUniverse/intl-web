@@ -243,11 +243,7 @@ export default {
     recommended: 'Recommended',
     'select.typeToCreate': 'Start typing to create an item',
     'select.noSearchResults': 'No results for “{search}”',
-    'select.filterOptions': 'Filter options',
-    'select.closeDropdown': 'Close Dropdown',
     'select.removeOption': 'Remove {option}',
-    'select.selectOptions': 'Select options for {name}',
-    'select.selectOption': 'Select an option for {name}',
     create: 'Create',
     'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
     'banner.seePlans': 'Visit our plans page for more information.'
