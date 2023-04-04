@@ -243,11 +243,7 @@ export default {
     recommended: 'Recommended',
     'select.typeToCreate': 'Start typing to create an item',
     'select.noSearchResults': 'No results for “{search}”',
-    'select.filterOptions': 'Filter options',
-    'select.closeDropdown': 'Close Dropdown',
     'select.removeOption': 'Remove {option}',
-    'select.selectOptions': 'Select options for {name}',
-    'select.selectOption': 'Select an option for {name}',
     create: 'Create',
     'banner.support': 'Literary Universeは、あなたのようなユーザーによって支えられています！Literary Universeのイベントをより良いものにするために、ぜひ購読をご検討ください！',
     'banner.seePlans': '詳しくは、プランのページをご覧ください。'
