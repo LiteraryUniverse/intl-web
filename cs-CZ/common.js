@@ -243,11 +243,7 @@ export default {
     recommended: 'Doporučené',
     'select.typeToCreate': 'Začněte psát pro vytvoření nové položky',
     'select.noSearchResults': 'Žádné výsledky pro „{search}“',
-    'select.filterOptions': 'Možnosti filtrů',
-    'select.closeDropdown': 'Zavřít rozbalovací seznam',
     'select.removeOption': 'Odstranit {option}',
-    'select.selectOptions': 'Vybrat možnosti pro {name}',
-    'select.selectOption': 'Vyberte možnost pro {name}',
     create: 'Vytořit',
     'banner.support': 'Literární Universe je podporován uživateli, jako jste vy! Zvažte prosím přihlášení k odběru jednoho z našich předplatitelských plánů, abyjsme mohli zůstali nezávislí a dále rozvýjet Literary Univers!',
     'banner.seePlans': 'Navštivte naši stránku s plány pro více informací.'
