@@ -160,5 +160,7 @@ export default {
     'plans.features.allInPreviousTiers': 'Incluye lo de planes anteriores',
     'plan.button.chooseNow': 'Elige tu plan de suscripción de Literary Universe',
     'plans.subscription.manage': 'Administrar tu suscripción',
-    'plans.taxMayApply': '* Puede añadirse el IVA y otros impuestos similares'
+    'plans.taxMayApply': '* Puede añadirse el IVA y otros impuestos similares',
+    'plans.faq.crypto': 'Will you offer crypto payments?',
+    'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.'
 };
