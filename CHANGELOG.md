@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2023-04-02 - v2.6.0
+## 2023-04-05 - v2.6.0
 
 * Added new strings for selects
 * Types
