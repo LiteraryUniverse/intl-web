@@ -17,10 +17,10 @@ export default {
     'plans.unlimited': '無制限',
     'plans.price': '価格',
     'plans.price.free': '自由',
-    'plans.price.monthly': '毎月',
-    'plans.price.annually': '毎年',
-    'plans.price.perMonth': ' / 月',
-    'plans.price.perYear': ' / 年',
+    'plans.price.monthly': 'a month*',
+    'plans.price.annually': 'annually*',
+    'plans.price.perMonth': '{price} / month*',
+    'plans.price.perYear': '{price} / year*',
     'plans.development': '開発中',
     'plans.limits.encEntries': 'エンサイクロペディアのエントリー',
     'plans.limits.maxCollaborators': 'プロジェクトごとの協力者',
@@ -158,5 +158,9 @@ export default {
     'plans.button.chooseThisSubscription': 'Select this plan',
     'plans.button.chooseFree': 'Start for free',
     'plans.features.allInPreviousTiers': 'Everything in previous tier',
-    'plan.button.chooseNow': 'Choose your Literary Universe plan now'
+    'plan.button.chooseNow': 'Choose your Literary Universe plan now',
+    'plans.subscription.manage': 'Manage subscription',
+    'plans.taxMayApply': '* VAT and other local taxes may apply',
+    'plans.faq.crypto': 'Will you offer crypto payments?',
+    'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.'
 };

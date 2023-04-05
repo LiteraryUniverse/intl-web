@@ -239,5 +239,12 @@ export default {
     'common.account': 'Cuenta',
     'common.notifications': 'Notificaciones',
     'common.byDeclaration': 'Por:',
-    'common.done': 'Hecho'
+    'common.done': 'Hecho',
+    recommended: 'Recomendado',
+    'select.typeToCreate': 'Teclea para crear un artículo',
+    'select.noSearchResults': 'No se encuentran resultados para “{search}”',
+    'select.removeOption': 'Eliminar {option}',
+    create: 'Crear',
+    'banner.support': '¡Los usuarios como tú sois quienes mantenéis Literary Universe a flote! Por favor, considera unirte a uno de nuestros planes de suscripción y hacer de Literary Universe algo incluso mejor!',
+    'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.'
 }    /* eslint-enable max-len */;

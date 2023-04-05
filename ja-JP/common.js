@@ -239,5 +239,12 @@ export default {
     'common.account': 'アカウント',
     'common.notifications': '通知',
     'common.byDeclaration': '作成者：',
-    'common.done': '完了'
+    'common.done': '完了',
+    recommended: 'Recommended',
+    'select.typeToCreate': 'Start typing to create an item',
+    'select.noSearchResults': 'No results for “{search}”',
+    'select.removeOption': 'Remove {option}',
+    create: 'Create',
+    'banner.support': 'Literary Universeは、あなたのようなユーザーによって支えられています！Literary Universeのイベントをより良いものにするために、ぜひ購読をご検討ください！',
+    'banner.seePlans': '詳しくは、プランのページをご覧ください。'
 }    /* eslint-enable max-len */;

@@ -17,10 +17,10 @@ export default {
     'plans.unlimited': 'Bez omezení',
     'plans.price': 'Cena',
     'plans.price.free': 'ZDARMA',
-    'plans.price.monthly': 'měsíčně',
-    'plans.price.annually': 'ročně',
-    'plans.price.perMonth': ' / měsíc',
-    'plans.price.perYear': ' / rok',
+    'plans.price.monthly': 'měsíčně*',
+    'plans.price.annually': 'ročně*',
+    'plans.price.perMonth': '{price} / měsíc*',
+    'plans.price.perYear': '{price} / rok*',
     'plans.development': 'Ve vývoji',
     'plans.limits.encEntries': 'Záznamů v encyklopedii',
     'plans.limits.maxCollaborators': 'Spolupracovníci na projekt',
@@ -158,5 +158,9 @@ export default {
     'plans.button.chooseThisSubscription': 'Vybrat tento plán',
     'plans.button.chooseFree': 'Začněte zdarma',
     'plans.features.allInPreviousTiers': 'Vše v předchozí úrovni',
-    'plan.button.chooseNow': 'Vyberte si svůj plán pro Literary Universe'
+    'plan.button.chooseNow': 'Vyberte si svůj plán pro Literary Universe',
+    'plans.subscription.manage': 'Spravovat předplatné',
+    'plans.taxMayApply': '* DPH a další daně zde nejsou započteny',
+    'plans.faq.crypto': 'Nabídnete krypto platby?',
+    'plans.faq.cryptoAnswer': 'Ano, pracujeme na tom. Jsme velcí fanoušci Web3 hledáme způsoby, jak integrovat Web3 do platformy v blízké budoucnosti. V současné době povolujeme přihlášení pomocí Web3 a hledáme chytré možnosti rozšíření z tohoto základu, zejména pokud jde o poskytování náhrad tvůrcům a tvůrcům možnost vybrat si všechny možné možnosti platby, které chtějí přijmout.'
 };

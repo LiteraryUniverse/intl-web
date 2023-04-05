@@ -17,10 +17,10 @@ export default {
     'plans.unlimited': 'Unbegrenzt',
     'plans.price': 'Preis',
     'plans.price.free': 'GRATIS',
-    'plans.price.monthly': 'Monat',
-    'plans.price.annually': 'jährlich',
-    'plans.price.perMonth': ' / Monat',
-    'plans.price.perYear': ' / Jahr',
+    'plans.price.monthly': 'a month*',
+    'plans.price.annually': 'annually*',
+    'plans.price.perMonth': '{price} / month*',
+    'plans.price.perYear': '{price} / year*',
     'plans.development': 'In Entwicklung',
     'plans.limits.encEntries': 'Enzyklopädie-Einträge',
     'plans.limits.maxCollaborators': 'Mitarbeiter pro Projekt',
@@ -158,5 +158,9 @@ export default {
     'plans.button.chooseThisSubscription': 'Wählen Sie diesen Plan',
     'plans.button.chooseFree': 'Kostenloser Start',
     'plans.features.allInPreviousTiers': 'Alles in der vorherigen Stufe',
-    'plan.button.chooseNow': 'Wählen Sie jetzt Ihren Plan für das Literarische Universum'
+    'plan.button.chooseNow': 'Wählen Sie jetzt Ihren Plan für das Literarische Universum',
+    'plans.subscription.manage': 'Manage subscription',
+    'plans.taxMayApply': '* VAT and other local taxes may apply',
+    'plans.faq.crypto': 'Will you offer crypto payments?',
+    'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.'
 };

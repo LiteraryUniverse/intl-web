@@ -239,5 +239,12 @@ export default {
     'common.account': 'Akun',
     'common.notifications': 'Notifikasi',
     'common.byDeclaration': 'By:',
-    'common.done': 'Done'
+    'common.done': 'Done',
+    recommended: 'Recommended',
+    'select.typeToCreate': 'Start typing to create an item',
+    'select.noSearchResults': 'No results for “{search}”',
+    'select.removeOption': 'Remove {option}',
+    create: 'Create',
+    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
+    'banner.seePlans': 'Visit our plans page for more information.'
 }    /* eslint-enable max-len */;

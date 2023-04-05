@@ -239,5 +239,12 @@ export default {
     'common.account': 'Účet',
     'common.notifications': 'Upozornění',
     'common.byDeclaration': 'Od:',
-    'common.done': 'Hotovo'
+    'common.done': 'Hotovo',
+    recommended: 'Doporučené',
+    'select.typeToCreate': 'Začněte psát pro vytvoření nové položky',
+    'select.noSearchResults': 'Žádné výsledky pro „{search}“',
+    'select.removeOption': 'Odstranit {option}',
+    create: 'Vytořit',
+    'banner.support': 'Literární Universe je podporován uživateli, jako jste vy! Zvažte prosím přihlášení k odběru jednoho z našich předplatitelských plánů, abyjsme mohli zůstali nezávislí a dále rozvýjet Literary Univers!',
+    'banner.seePlans': 'Navštivte naši stránku s plány pro více informací.'
 }    /* eslint-enable max-len */;
