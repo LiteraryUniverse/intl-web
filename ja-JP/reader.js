@@ -28,5 +28,6 @@ export default {
     'reader.accessibility.toggleParagraphStripes': '段落の背景をトグルする',
     'reader.accessibility.toggleParagraphHighlight': '選択した段落のハイライトをトグルする',
     'reader.accessibility.toggleRules': 'トグルアシストルーラー',
-    'reader.nextRelease.scheduled': '次の章は、{nextReleaseAt, date}の{nextReleaseAt, time}に公開される予定です!'
+    'reader.nextRelease.scheduled': '次の章は、{nextReleaseAt, date}の{nextReleaseAt, time}に公開される予定です!',
+    'reader.storyContinues': 'The story continues...'
 };
