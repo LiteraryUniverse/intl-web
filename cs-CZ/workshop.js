@@ -245,6 +245,6 @@ export default {
     'workshop.chapterStatus.draft': 'Koncept',
     'workshop.chapterStatus.scheduled': 'Naplánované',
     'workshop.chapterStatus.published': 'Zveřejněno',
-    'workshop.story.continuedIn': 'Which stories continue this story?',
-    'workshop.story.continuedPlaceholder': 'Select story from this universe'
+    'workshop.story.continuedIn': 'Které příběhy pokračují v tomto příběhu?',
+    'workshop.story.continuedPlaceholder': 'Vyber příběh z tohoto vesmíru'
 };
