@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-04-08 - v2.6.1
+
+* 3 new strings for continued stories
+
 ## 2023-04-05 - v2.6.0
 
 * Added new strings for selects

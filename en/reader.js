@@ -33,5 +33,6 @@ export default {
     'Toggle selected paragraph highlighting',
   'reader.accessibility.toggleRules': 'Toggle assistive ruler',
   'reader.nextRelease.scheduled':
-    'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
+    'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
+  'reader.storyContinues': 'The story continues...'
 }
