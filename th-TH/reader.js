@@ -28,5 +28,6 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
-    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!'
+    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
+    'reader.storyContinues': 'The story continues...'
 };
