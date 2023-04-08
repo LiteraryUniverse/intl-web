@@ -228,6 +228,6 @@ export default {
     'workshop.chapterStatus.draft': '草案',
     'workshop.chapterStatus.scheduled': '予定',
     'workshop.chapterStatus.published': '発行',
-    'workshop.story.continuedIn': 'Which stories continue this story?',
-    'workshop.story.continuedPlaceholder': 'Select story from this universe'
+    'workshop.story.continuedIn': 'この物語の続きはどの物語ですか？',
+    'workshop.story.continuedPlaceholder': 'この宇宙から物語を選ぶ'
 };
