@@ -29,5 +29,5 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Prepínanie zvýraznenia vybraného odseku',
     'reader.accessibility.toggleRules': 'Prepínanie asistenčného pravítka',
     'reader.nextRelease.scheduled': 'Ďalšia kapitola bude uverejnená {nextReleaseAt, date} v {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...'
+    'reader.storyContinues': 'Príbeh pokračuje...'
 };
