@@ -22,5 +22,5 @@ export default {
     'writer.publish.schedule': '発行日時設定',
     'writer.publish.previousChapterPublished': '前の章は{publishDate, date, short}に{publishDate, time}で公開されました。',
     'writer.publish.previousChapterScheduled': '前の章は{publishDate, date, short}に{publishDate, time}で公開される予定です。',
-    'writer.publish.alreadyPublished': 'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.'
+    'writer.publish.alreadyPublished': 'この章は{publishedAt, date, short}に既に公開されています。新しいバージョンはすぐに公開されます。'
 };
