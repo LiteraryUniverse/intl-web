@@ -227,5 +227,7 @@ export default {
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
     'workshop.chapterStatus.draft': '草案',
     'workshop.chapterStatus.scheduled': '予定',
-    'workshop.chapterStatus.published': '発行'
+    'workshop.chapterStatus.published': '発行',
+    'workshop.story.continuedIn': 'Which stories continue this story?',
+    'workshop.story.continuedPlaceholder': 'Select story from this universe'
 };
