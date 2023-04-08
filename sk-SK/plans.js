@@ -17,10 +17,10 @@ export default {
     'plans.unlimited': 'Neobmedzené',
     'plans.price': 'Cena',
     'plans.price.free': 'ZADARMO',
-    'plans.price.monthly': 'a month*',
-    'plans.price.annually': 'annually*',
-    'plans.price.perMonth': '{price} / month*',
-    'plans.price.perYear': '{price} / year*',
+    'plans.price.monthly': 'mesiac*',
+    'plans.price.annually': 'ročne*',
+    'plans.price.perMonth': '{price} / mesiac*',
+    'plans.price.perYear': '{price} / rok *',
     'plans.development': 'Vo vývoji',
     'plans.limits.encEntries': 'Záznamy v encyklopédii',
     'plans.limits.maxCollaborators': 'Spolupracovníci na projekt',
@@ -159,8 +159,8 @@ export default {
     'plans.button.chooseFree': 'Začnite zadarmo',
     'plans.features.allInPreviousTiers': 'Všetko v predchádzajúcej úrovni',
     'plan.button.chooseNow': 'Vyberte si svoj plán Literary Universe teraz',
-    'plans.subscription.manage': 'Manage subscription',
-    'plans.taxMayApply': '* VAT and other local taxes may apply',
-    'plans.faq.crypto': 'Will you offer crypto payments?',
-    'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.'
+    'plans.subscription.manage': 'Správa predplatného',
+    'plans.taxMayApply': '* Môže sa uplatňovať DPH a iné miestne dane',
+    'plans.faq.crypto': 'Budete ponúkať kryptografické platby?',
+    'plans.faq.cryptoAnswer': 'Áno, pracujeme na tom. Sme veľkými fanúšikmi Web3 a hľadáme spôsoby, ako Web3 v blízkej budúcnosti integrovať do platformy. V súčasnosti umožňujeme prihlasovanie pomocou Web3 a túto ponuku chceme rozšíriť, najmä pokiaľ ide o poskytovanie kompenzácií tvorcom a poskytnutie možnosti tvorcom vybrať si všetky možné spôsoby platby, ktoré chcú akceptovať.'
 };
