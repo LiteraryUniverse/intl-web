@@ -28,5 +28,6 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'Basculer la modification de l\'arrière-plan des paragraphes',
     'reader.accessibility.toggleParagraphHighlight': 'Basculer les paragraphes sélectionnés en surbrillance',
     'reader.accessibility.toggleRules': 'Basculer la règle d\'assistance',
-    'reader.nextRelease.scheduled': 'Le prochain chapitre sera publié le {nextReleaseAt, date} à {nextReleaseAt, time}!'
+    'reader.nextRelease.scheduled': 'Le prochain chapitre sera publié le {nextReleaseAt, date} à {nextReleaseAt, time}!',
+    'reader.storyContinues': 'The story continues...'
 };
