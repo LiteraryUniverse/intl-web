@@ -240,11 +240,11 @@ export default {
     'common.notifications': 'Oznámenia',
     'common.byDeclaration': 'Od:',
     'common.done': 'Hotovo',
-    recommended: 'Recommended',
-    'select.typeToCreate': 'Start typing to create an item',
-    'select.noSearchResults': 'No results for “{search}”',
-    'select.removeOption': 'Remove {option}',
-    create: 'Create',
-    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.'
+    recommended: 'Odporúčané',
+    'select.typeToCreate': 'Začnite písať a vytvorte položku',
+    'select.noSearchResults': 'Žiadne výsledky pre “{search}“',
+    'select.removeOption': 'Odstrániť {option}',
+    create: 'Vytvoriť',
+    'banner.support': 'Literary Universe podporujú používatelia ako vy! Zvážte, prosím, možnosť predplatiť si niektorý z našich predplatiteľských plánov, aby ste zostali nezávislí a zlepšili podujatie Literary Universe!',
+    'banner.seePlans': 'Viac informácií nájdete na našej stránke s plánmi.'
 }    /* eslint-enable max-len */;

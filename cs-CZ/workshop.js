@@ -244,5 +244,7 @@ export default {
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
     'workshop.chapterStatus.draft': 'Koncept',
     'workshop.chapterStatus.scheduled': 'Naplánované',
-    'workshop.chapterStatus.published': 'Zveřejněno'
+    'workshop.chapterStatus.published': 'Zveřejněno',
+    'workshop.story.continuedIn': 'Které příběhy pokračují v tomto příběhu?',
+    'workshop.story.continuedPlaceholder': 'Vyber příběh z tohoto vesmíru'
 };

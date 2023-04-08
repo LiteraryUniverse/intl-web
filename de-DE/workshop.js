@@ -239,5 +239,7 @@ export default {
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
     'workshop.chapterStatus.draft': 'Entwurf',
     'workshop.chapterStatus.scheduled': 'Geplant',
-    'workshop.chapterStatus.published': 'Veröffentlicht'
+    'workshop.chapterStatus.published': 'Veröffentlicht',
+    'workshop.story.continuedIn': 'Which stories continue this story?',
+    'workshop.story.continuedPlaceholder': 'Select story from this universe'
 };

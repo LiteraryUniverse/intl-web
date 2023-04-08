@@ -28,5 +28,6 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'Przełączanie zmiany tła akapitów',
     'reader.accessibility.toggleParagraphHighlight': 'Przełączanie podświetlenia wybranego akapitu',
     'reader.accessibility.toggleRules': 'Przełączanie linijki pomocniczej',
-    'reader.nextRelease.scheduled': 'Następny rozdział pojawi się {nextReleaseAt, date} o {nextReleaseAt, time}!'
+    'reader.nextRelease.scheduled': 'Następny rozdział pojawi się {nextReleaseAt, date} o {nextReleaseAt, time}!',
+    'reader.storyContinues': 'The story continues...'
 };

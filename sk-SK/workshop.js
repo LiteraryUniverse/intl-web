@@ -242,5 +242,7 @@ export default {
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
     'workshop.chapterStatus.draft': 'Návrh',
     'workshop.chapterStatus.scheduled': 'Naplánované',
-    'workshop.chapterStatus.published': 'Zverejnené'
+    'workshop.chapterStatus.published': 'Zverejnené',
+    'workshop.story.continuedIn': 'Ktoré príbehy pokračujú v tomto príbehu?',
+    'workshop.story.continuedPlaceholder': 'Vyberte príbeh z tohto vesmíru'
 };

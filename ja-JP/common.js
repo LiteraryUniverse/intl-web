@@ -240,11 +240,11 @@ export default {
     'common.notifications': '通知',
     'common.byDeclaration': '作成者：',
     'common.done': '完了',
-    recommended: 'Recommended',
-    'select.typeToCreate': 'Start typing to create an item',
-    'select.noSearchResults': 'No results for “{search}”',
-    'select.removeOption': 'Remove {option}',
-    create: 'Create',
+    recommended: '推奨',
+    'select.typeToCreate': '項目を作成するために入力を開始する',
+    'select.noSearchResults': '"{search}"の検索結果がありません。',
+    'select.removeOption': '{option}を削除します。',
+    create: '作成する',
     'banner.support': 'Literary Universeは、あなたのようなユーザーによって支えられています！Literary Universeのイベントをより良いものにするために、ぜひ購読をご検討ください！',
     'banner.seePlans': '詳しくは、プランのページをご覧ください。'
 }    /* eslint-enable max-len */;

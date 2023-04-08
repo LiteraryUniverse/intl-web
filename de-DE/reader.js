@@ -28,5 +28,6 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'Änderung der Hintergrundfarbe von Absätzen umschalten',
     'reader.accessibility.toggleParagraphHighlight': 'Hervorhebung ausgewählter Absätze ein- und ausschalten',
     'reader.accessibility.toggleRules': 'Hilfslineal umschalten',
-    'reader.nextRelease.scheduled': 'Das nächste Kapitel erscheint am {nextReleaseAt, date} um {nextReleaseAt, time}!'
+    'reader.nextRelease.scheduled': 'Das nächste Kapitel erscheint am {nextReleaseAt, date} um {nextReleaseAt, time}!',
+    'reader.storyContinues': 'The story continues...'
 };
