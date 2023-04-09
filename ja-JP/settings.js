@@ -70,6 +70,7 @@ export default {
     'settings.links.description': 'これらのリンクは、あなたのプロフィールページに表示されます。',
     'settings.links.website': 'あなたの個人的なウェブサイト',
     'settings.links.social': 'その他のウェブサイト',
+    'settings.links.select': 'Select website to add',
     // 2FA
     'settings.2fa.title': '二要素認証',
     'settings.2fa.explained': '二要素認証は、ログイン時に追加の認証ステップを設けることで、お客様のアカウントにさらなるセキュリティを提供します。これにより、最初のログインステップが侵害された場合、悪意のある行為者がお客様のアカウントにアクセスするのを防ぐことができます。',
