@@ -70,6 +70,7 @@ export default {
     'settings.links.description': 'Estes links serão exibidos em sua página de perfil.',
     'settings.links.website': 'Seu site pessoal',
     'settings.links.social': 'Outros sites',
+    'settings.links.select': 'Select website to add',
     // 2FA
     'settings.2fa.title': 'Autenticação de dois fatores',
     'settings.2fa.explained': 'A autenticação de dois fatores proporciona uma camada adicional de segurança para sua conta, acrescentando uma etapa adicional de autenticação durante o login. Isto evita que atores maliciosos tenham acesso à sua conta se sua primeira etapa de login for comprometida.',
