@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-04-09 - v2.6.2
+
+* Added `settings.links.select`
+
 ## 2023-04-08 - v2.6.1
 
 * 3 new strings for continued stories

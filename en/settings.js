@@ -89,6 +89,7 @@ export default {
     'These links will be displayed on your profile page.',
   'settings.links.website': 'Your personal website',
   'settings.links.social': 'Other websites',
+  'settings.links.select': 'Select website to add',
 
   // 2FA
   'settings.2fa.title': 'Two-factor authentication',
