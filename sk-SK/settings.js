@@ -70,6 +70,7 @@ export default {
     'settings.links.description': 'Tieto odkazy sa zobrazia na stránke vášho profilu.',
     'settings.links.website': 'Vaša osobná webová stránka',
     'settings.links.social': 'Iné webové stránky',
+    'settings.links.select': 'Select website to add',
     // 2FA
     'settings.2fa.title': 'Dvojfaktorové overovanie',
     'settings.2fa.explained': 'Dvojfaktorové overovanie poskytuje ďalšiu úroveň zabezpečenia vášho konta pridaním ďalšieho kroku overovania počas prihlasovania. To zabraňuje škodlivým subjektom získať prístup k vášmu účtu, ak je prvý krok prihlásenia kompromitovaný.',
