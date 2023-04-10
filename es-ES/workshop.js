@@ -1,5 +1,5 @@
 export default {
-    'workshop.title': 'Tu trabajo',
+    'workshop.title': 'Tu obra',
     'workshop.noneassigned': 'No se te ha asignado nada aún.',
     'workshop.notavailable': 'Esta función no está disponible.',
     'workshop.none': `Actualmente no tienes {type, select,
@@ -240,6 +240,6 @@ export default {
     'workshop.chapterStatus.draft': 'Borrador',
     'workshop.chapterStatus.scheduled': 'Programado',
     'workshop.chapterStatus.published': 'Publicado',
-    'workshop.story.continuedIn': 'Which stories continue this story?',
-    'workshop.story.continuedPlaceholder': 'Select story from this universe'
+    'workshop.story.continuedIn': '¿Qué historias continúan esta historia?',
+    'workshop.story.continuedPlaceholder': 'Elige una historia de este universo'
 };
