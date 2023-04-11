@@ -72,7 +72,7 @@ export default {
     'settings.links.description': 'Tyto odkazy se zobrazí na Vaší profilové stránce.',
     'settings.links.website': 'Vaše osobní stránka',
     'settings.links.social': 'Ostatní webové stránky',
-    'settings.links.select': 'Select website to add',
+    'settings.links.select': 'Vyberte webovou stránku k přidání',
     // 2FA
     'settings.2fa.title': 'Dvoufázové ověření',
     'settings.2fa.explained': 'Dvoufaktorové ověření poskytuje další vrstvu zabezpečení vašeho účtu přidáním dalšího kroku ověřování během přihlášení. To brání škodlivým aktérům získat přístup k vašemu účtu, pokud je váš první krok přihlášení zkompromitován.',
