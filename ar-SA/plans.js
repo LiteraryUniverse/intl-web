@@ -55,6 +55,7 @@ export default {
     'plans.feature.readingLists': 'قوائم القراءة',
     'plans.feature.scenesManager': 'إدارة المشاهد',
     'plans.feature.glossaries': 'مصطلحات الترجمة',
+    'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'اختر العملة',
     'plans.subscription.ownAlready': 'You currently have this plan',
     'plans.subscription.title': 'الاشتراك',
