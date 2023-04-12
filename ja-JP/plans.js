@@ -55,6 +55,7 @@ export default {
     'plans.feature.readingLists': 'リーディングリスト',
     'plans.feature.scenesManager': 'シーンマネージャー',
     'plans.feature.glossaries': '翻訳用語集',
+    'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': '通貨を選択',
     'plans.subscription.ownAlready': '現在、このプランを持っています。',
     'plans.subscription.title': 'サブスクリプション',
