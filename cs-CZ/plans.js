@@ -55,6 +55,7 @@ export default {
     'plans.feature.readingLists': 'Seznamy četby',
     'plans.feature.scenesManager': 'Správce scén',
     'plans.feature.glossaries': 'Slovníky pro překlad',
+    'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'Vybrat měnu',
     'plans.subscription.ownAlready': 'Momentálně máte tento plán',
     'plans.subscription.title': 'Předplatné',
