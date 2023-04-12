@@ -55,6 +55,7 @@ export default {
     'plans.feature.readingLists': 'Reading lists',
     'plans.feature.scenesManager': 'Scenes manager',
     'plans.feature.glossaries': 'Translation glossaries',
+    'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'Select currency',
     'plans.subscription.ownAlready': 'You currently have this plan',
     'plans.subscription.title': 'Subscription',
