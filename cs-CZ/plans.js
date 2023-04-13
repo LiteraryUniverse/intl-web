@@ -164,5 +164,5 @@ export default {
     'plans.taxMayApply': '* DPH a další daně zde nejsou započteny',
     'plans.faq.crypto': 'Nabídnete krypto platby?',
     'plans.faq.cryptoAnswer': 'Ano, pracujeme na tom. Jsme velcí fanoušci Web3 hledáme způsoby, jak integrovat Web3 do platformy v blízké budoucnosti. V současné době povolujeme přihlášení pomocí Web3 a hledáme chytré možnosti rozšíření z tohoto základu, zejména pokud jde o poskytování náhrad tvůrcům a tvůrcům možnost vybrat si všechny možné možnosti platby, které chtějí přijmout.',
-    'plans.subscribed.updating': 'It might take a bit to update your your subscription information. Thank you for your patience!'
+    'plans.subscribed.updating': 'Aktualizace předplatného může chvíli trvat. Děkujeme Vám za trpělivost!'
 };
