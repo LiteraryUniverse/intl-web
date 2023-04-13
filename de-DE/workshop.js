@@ -240,6 +240,6 @@ export default {
     'workshop.chapterStatus.draft': 'Entwurf',
     'workshop.chapterStatus.scheduled': 'Geplant',
     'workshop.chapterStatus.published': 'Veröffentlicht',
-    'workshop.story.continuedIn': 'Which stories continue this story?',
-    'workshop.story.continuedPlaceholder': 'Select story from this universe'
+    'workshop.story.continuedIn': 'Welche Geschichten setzen diese Geschichte fort?',
+    'workshop.story.continuedPlaceholder': 'Wähle eine Geschichte aus diesem Universum'
 };
