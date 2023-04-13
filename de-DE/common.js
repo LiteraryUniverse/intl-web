@@ -240,11 +240,11 @@ export default {
     'common.notifications': 'Benachrichtigungen',
     'common.byDeclaration': 'Von:',
     'common.done': 'Fertig',
-    recommended: 'Recommended',
-    'select.typeToCreate': 'Start typing to create an item',
-    'select.noSearchResults': 'No results for “{search}”',
-    'select.removeOption': 'Remove {option}',
-    create: 'Create',
-    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.'
+    recommended: 'Empfohlen',
+    'select.typeToCreate': 'Tippen Sie, um einen Artikel zu erstellen',
+    'select.noSearchResults': 'Keine Ergebnisse für “{search}”',
+    'select.removeOption': '{option} entfernen',
+    create: 'Erstelle',
+    'banner.support': 'Literary Universe wird von Nutzern wie Ihnen unterstützt! Bitte denken Sie darüber nach, eines unserer Abonnements abzuschließen, um unabhängig zu bleiben und die Veranstaltungen von Literary Universe zu verbessern!',
+    'banner.seePlans': 'Besuchen Sie unsere Plan-Seite für weitere Informationen.'
 }    /* eslint-enable max-len */;
