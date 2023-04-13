@@ -74,7 +74,7 @@ export default {
     'payment.history.none': 'We don\'t have any records of past payments.',
     'plans.options.aria': 'Opcje płatności',
     'plans.options.creditCard': 'Karta kredytowa',
-    'plans.options.creditCardNew': 'New Credit Card',
+    'plans.options.creditCardNew': 'Nowa karta kredytowa',
     'plans.options.existingCards': 'Saved Credit Cards',
     'plans.purchase.action': 'Subskrybuj',
     'plans.purchase.title': 'Buy Literary Universe subscription',
@@ -110,7 +110,7 @@ export default {
     'plans.change.button': 'Zmiana subskrypcji',
     'plans.change.explanation': 'Wybierz plan, który chcesz zmienić na wyższy lub niższy. Różnica w cenie zostanie natychmiast naliczona.',
     'plans.change.failed': 'Przepraszamy, w tej chwili nie możemy zmienić Twojego planu. Prosimy spróbować ponownie później.',
-    'plans.change.upgrade': 'Upgrade',
+    'plans.change.upgrade': 'Aktualizuj',
     'payments.disclaimer': 'Informacje o płatnościach i ich przetwarzanie odbywa się za pośrednictwem Stripe. Nie przechowujemy żadnych informacji o kartach kredytowych ani kontach bankowych na naszych serwerach.',
     'buy.payment.optionsSelect': 'Wybierz opcję płatności',
     'payments.card.number': 'Numer karty',
@@ -135,8 +135,8 @@ export default {
     'payment.invoice.total': 'Total',
     'payment.invoice.what': 'Invoice description',
     'payment.stripe.powered': 'Powered by ',
-    'payment.listMethods.card': 'Cards',
-    'payment.expiresAt': 'Expires {month}/{year}',
+    'payment.listMethods.card': 'Karty',
+    'payment.expiresAt': 'Wygasa {month}/{year}',
     'payment.card.details': `{type, select,
     credit {Credit card}
     debit {Debit card}
