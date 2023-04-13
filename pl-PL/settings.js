@@ -72,6 +72,7 @@ export default {
     'settings.links.description': 'Te linki będą wyświetlane na stronie Twojego profilu.',
     'settings.links.website': 'Osobista strona internetowa',
     'settings.links.social': 'Inne strony',
+    'settings.links.select': 'Select website to add',
     // 2FA
     'settings.2fa.title': 'Uwierzytelnianie dwuskładnikowe',
     'settings.2fa.explained': 'Uwierzytelnianie dwuskładnikowe zapewnia dodatkową warstwę bezpieczeństwa konta poprzez dodanie dodatkowego kroku uwierzytelniania podczas logowania. Zapobiega to uzyskaniu dostępu do konta przez złośliwe podmioty, jeśli pierwszy etap logowania zostanie naruszony.',

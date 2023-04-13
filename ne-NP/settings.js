@@ -72,6 +72,7 @@ export default {
     'settings.links.description': 'These links will be displayed on your profile page.',
     'settings.links.website': 'Your personal website',
     'settings.links.social': 'Other websites',
+    'settings.links.select': 'Select website to add',
     // 2FA
     'settings.2fa.title': 'Two-factor authentication',
     'settings.2fa.explained': 'Two-factor authentication provides an additional layer of security for your account by adding an additional authentication step during login. This prevents malicious actors from gaining access to your account if your first login step is compromised.',

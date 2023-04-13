@@ -29,5 +29,5 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Hervorhebung ausgewählter Absätze ein- und ausschalten',
     'reader.accessibility.toggleRules': 'Hilfslineal umschalten',
     'reader.nextRelease.scheduled': 'Das nächste Kapitel erscheint am {nextReleaseAt, date} um {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...'
+    'reader.storyContinues': 'Die Geschichte geht weiter...'
 };

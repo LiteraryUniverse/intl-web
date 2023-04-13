@@ -29,5 +29,5 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Conmutar el resaltado del párrafo seleccionado',
     'reader.accessibility.toggleRules': 'Alternar la regla de asistencia',
     'reader.nextRelease.scheduled': '¡El próximo capítulo llegará el {nextReleaseAt, date} a las {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...'
+    'reader.storyContinues': 'La historia continúa...'
 };

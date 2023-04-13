@@ -55,6 +55,7 @@ export default {
     'plans.feature.readingLists': 'Listas de leitura',
     'plans.feature.scenesManager': 'Gestor de cenas',
     'plans.feature.glossaries': 'Glossários de tradução',
+    'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'Selecione o tipo de moeda',
     'plans.subscription.ownAlready': 'Tem atualmente este plano',
     'plans.subscription.title': 'Subscrição',
@@ -162,5 +163,6 @@ export default {
     'plans.subscription.manage': 'Manage subscription',
     'plans.taxMayApply': '* VAT and other local taxes may apply',
     'plans.faq.crypto': 'Will you offer crypto payments?',
-    'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.'
+    'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.',
+    'plans.subscribed.updating': 'It might take a bit to update your your subscription information. Thank you for your patience!'
 };

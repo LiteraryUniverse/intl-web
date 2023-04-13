@@ -5,5 +5,5 @@ export default {
     =0 {コメントはありません}
     other {#件のコメントがあります}
 }。`,
-    'comments.show.older': '古いコメントの表示'
+    'comments.show.older': '古いコメントを表示'
 };

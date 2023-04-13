@@ -55,6 +55,7 @@ export default {
     'plans.feature.readingLists': 'Zoznamy čítania',
     'plans.feature.scenesManager': 'Správca scén',
     'plans.feature.glossaries': 'Prekladové slovníky',
+    'plans.feature.chatSupport': 'Chatová podpora',
     'plans.currency.select': 'Zvoľte menu',
     'plans.subscription.ownAlready': 'V súčasnosti máte tento plán',
     'plans.subscription.title': 'Predplatné',
@@ -162,5 +163,6 @@ export default {
     'plans.subscription.manage': 'Správa predplatného',
     'plans.taxMayApply': '* Môže sa uplatňovať DPH a iné miestne dane',
     'plans.faq.crypto': 'Budete ponúkať kryptografické platby?',
-    'plans.faq.cryptoAnswer': 'Áno, pracujeme na tom. Sme veľkými fanúšikmi Web3 a hľadáme spôsoby, ako Web3 v blízkej budúcnosti integrovať do platformy. V súčasnosti umožňujeme prihlasovanie pomocou Web3 a túto ponuku chceme rozšíriť, najmä pokiaľ ide o poskytovanie kompenzácií tvorcom a poskytnutie možnosti tvorcom vybrať si všetky možné spôsoby platby, ktoré chcú akceptovať.'
+    'plans.faq.cryptoAnswer': 'Áno, pracujeme na tom. Sme veľkými fanúšikmi Web3 a hľadáme spôsoby, ako Web3 v blízkej budúcnosti integrovať do platformy. V súčasnosti umožňujeme prihlasovanie pomocou Web3 a túto ponuku chceme rozšíriť, najmä pokiaľ ide o poskytovanie kompenzácií tvorcom a poskytnutie možnosti tvorcom vybrať si všetky možné spôsoby platby, ktoré chcú akceptovať.',
+    'plans.subscribed.updating': 'Aktualizácia informácií o predplatnom môže chvíľu trvať. Ďakujeme za vašu trpezlivosť!'
 };
