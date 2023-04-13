@@ -164,5 +164,5 @@ export default {
     'plans.taxMayApply': '* MwSt. und andere lokale Steuern können gelten',
     'plans.faq.crypto': 'Werden Sie Krypto-Zahlungen anbieten?',
     'plans.faq.cryptoAnswer': 'Ja, wir arbeiten daran. Wir sind große Fans von Web3 und suchen nach Möglichkeiten, Web3 in naher Zukunft in die Plattform zu integrieren. Wir ermöglichen derzeit die Anmeldung mit Web3 und möchten dieses Angebot erweitern, insbesondere wenn es darum geht, Urhebern eine Vergütung zu bieten und ihnen die Möglichkeit zu geben, alle möglichen Zahlungsoptionen zu wählen, die sie akzeptieren möchten.',
-    'plans.subscribed.updating': 'It might take a bit to update your your subscription information. Thank you for your patience!'
+    'plans.subscribed.updating': 'Es kann ein wenig dauern, um Ihre Abonnementinformationen zu aktualisieren. Vielen Dank für Ihre Geduld!'
 };
