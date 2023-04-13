@@ -4,6 +4,7 @@
 
 * Added `settings.links.select`
 * Added `plans.feature.chatSupport`
+* Added `plans.subscribed.updating`
 
 ## 2023-04-08 - v2.6.1
 
