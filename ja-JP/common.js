@@ -125,7 +125,7 @@ export default {
     'common.createdOn.title': '作成日',
     // account types
     admin: '管理者',
-    goodbye: 'ありがとうございました！ またね！',
+    goodbye: 'ありがとうございました。',
     'common.saved': '保存されました',
     'common.saving': '保存しています',
     'common.friends': '友達',
