@@ -11,7 +11,7 @@ export default {
   'fanManager.state.hidden': 'ヒドゥン',
   'fanManager.publicComment': 'パブリックコメント',
   'fanManager.publicComment.desc': 'この文章は、このアートに対するあなたの公式コメントとして、公開ページに表示されます。',
-  'fanManager.authorComment': '著者へのコメント',
+  'fanManager.authorComment': '作者へのコメント',
   'fanManager.authorComment.desc': 'これは、あなたからこのアートの作者への私的なコメントです。',
   'fanManager.stateChange.approve': 'ファンアートを承認する',
   'fanManager.stateChange.reject': 'ファンアートを拒否',
