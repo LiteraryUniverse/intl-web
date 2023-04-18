@@ -15,9 +15,9 @@ export default {
         =0 {0分}
         one {1分}
         other {#分}
-    }で読めるはずです。`,
-    'story.estimatedReadingTime.explained': '毎分{avgReadingNum}文字の平均読取速度に基づいています。',
-    'discover.search.text': '検索語',
+    }で読めると思います`,
+    'story.estimatedReadingTime.explained': '平均読取速度、毎分{avgReadingNum}文字に基づき計算されています。',
+    'discover.search.text': '検索語句',
     'discover.searchStory.title': '物語を探す',
     'discover.searchStory.description': '物語を探す',
     'discover.searchUniverse.title': '宇宙を探す',
@@ -30,7 +30,7 @@ export default {
     'story.universeRelation.fanFiction': 'ファンフィクション',
     'story.universeRelation.universe': '宇宙の一部',
     'discover.search.rating': '年齢評価',
-    'discover.search.license': '著作権表示',
+    'discover.search.license': '著作権ライセンス',
     'discover.search.language': '言語',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {あなたのパラメータに合う宇宙はありません}
