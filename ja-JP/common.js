@@ -3,9 +3,9 @@
  */
 /* eslint-disable max-len */
 export default {
-    siteName: '知識教養文学の世界',
+    siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
-    'site.description': '知識教養文学の世界は、壮大な文学の世界をオールインワン・プラットフォームで制作・出版します。',
+    'site.description': 'Literary Universeは、壮大な文学の世界をオールインワン・プラットフォームで制作・出版します。',
     'site.keywords': '文芸作品、 Sf、ファンタジー、書き込み、出版, 小説、物語、宇宙小説、ウェブ小説',
     'site.logoAlt': '知識教養文学の世界のロゴ',
     mobileMenu: 'モバイル メニュー',
@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': '大変申し訳ありませんが、この機能は現在のところご利用できません。できるだけ早く利用できるように努めております。',
     'common.nothingfound': '何も見つかりませんでした。',
     'common.explore': '調査',
-    'common.by': '～で　（～の手段で） ',
+    'common.by': '～で　 ',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'メモ欄',
     'common.scratchpad.own': '専用のメモ欄',
@@ -75,7 +75,7 @@ export default {
     'signup.username': 'ユーザー名',
     'signup.email': 'あなたのメールアドレス',
     'signup.password.label': 'あなたのパスワード',
-    'signup.password.repeat': 'パスワードの繰り返し',
+    'signup.password.repeat': 'パスワードを再度入力',
     'common.password': 'パスワード',
     'signin.password.forgot': 'パスワードをお忘れですか？',
     'dashboard.whatsnew': '新着情報',
@@ -97,7 +97,7 @@ export default {
     'common.legal.disclaimer': '© {year} すべての文章の著作権は、それぞれの著者に帰属します。',
     'premium.only.title': '会員ランクが十分ではありません',
     'premium.only.msg': '申し訳ありませんが、あなたの会員ランクはこの機能を利用するには十分ではありません。',
-    'premium.only.join': '皆様が知識教養文学の世界を最大限に活用していただくために、様々なプランをご用意しています。',
+    'premium.only.join': '皆様がLiteracy Universeを最大限活用していただくために、様々なプランをご用意しています。',
     'premium.only.link': 'ぜひチェックしてみてください。',
     'universe.visit': '宇宙文学のページをご覧ください',
     'common.fanmanager': 'ファン管理者',
