@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': '新しい物語や宇宙を発見する。',
-    'discovery.universes.new': '新たな宇宙',
+    'discovery.meta.desc': '新しい物語や宇宙に関する物語を見つける。',
+    'discovery.universes.new': '宇宙関連の視野拡大',
     'discovery.stories.new': '新しい物語',
-    'discovery.stories.standalone.new': '個別の新規物語',
+    'discovery.stories.standalone.new': '単独の新たな物語',
     'discovery.stories.updated': '最近更新された物語',
     'discovery.continue': '続きを読む',
-    'discovery.stories.similar.new': 'ご近所の新しい物語',
-    'discovery.stories.similar.regular': '近所の話',
+    'discovery.stories.similar.new': '他から発表された最新物語',
+    'discovery.stories.similar.regular': '他で発表されているストーリ',
     'story.estimatedReadingTime': `この物語は{hours, plural,
         =0 {}
         one {1時間と}
@@ -20,8 +20,8 @@ export default {
     'discover.search.text': '検索語句',
     'discover.searchStory.title': '物語を探す',
     'discover.searchStory.description': '物語を探す',
-    'discover.searchUniverse.title': '宇宙を探す',
-    'discover.searchUniverse.description': '宇宙を探す',
+    'discover.searchUniverse.title': '宇宙関連物語を探す',
+    'discover.searchUniverse.description': '宇宙関連物語を探す',
     'discover.search.storyStatus': '物語の進行状況',
     'story.status.complete': '完了',
     'story.status.inProgress': '進行中',
@@ -29,7 +29,7 @@ export default {
     'story.universeRelation.standalone': '独立した物語',
     'story.universeRelation.fanFiction': 'ファンフィクション',
     'story.universeRelation.universe': '宇宙の一部',
-    'discover.search.rating': '年齢評価',
+    'discover.search.rating': '読者年齢別評価',
     'discover.search.license': '著作権ライセンス',
     'discover.search.language': '言語',
     'discover.search.resultsTotal.universe': `{results, plural,
@@ -44,6 +44,6 @@ export default {
     'discover.searchDisplay.covers': 'カバー一覧',
     'discover.searchDisplay.list': 'コンパクトリスト',
     'discover.includesAds': 'この作品にはプロダクトプレイスメントなどの広告が含まれています。',
-    'discovery.featured.universes': '注目の宇宙',
+    'discovery.featured.universes': '注目の宇宙関連物語',
     'discovery.featured.stories': '注目の物語'
 };
