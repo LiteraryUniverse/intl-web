@@ -19,28 +19,28 @@ export default {
   'events.join.startsIn': 'イベント開始日時　{startsAt}',
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'イベントに参加',
-  'events.selection.origin': 'イベントの起源',
+  'events.selection.origin': 'イベントの原点',
   'events.origin.universe': '宇宙',
   'events.origin.author': '作者',
   'events.origin.groups': 'グループ',
   'events.origin.organizations': '組織',
-  'events.origin.lu': '知識教養文学の世界のエベント',
+  'events.origin.lu': 'Literary Universeのエベント',
   'events.visibility.label': 'イベントの見える化',
-  'events.visibility.public': '一般公開 - 誰でもこのイベントを見ることができます。',
-  'events.visibility.owner': `所有者 - {type, select,
+  'events.visibility.public': '一般公開 - どなたでもこのイベントを見ることができます。',
+  'events.visibility.owner': `オーナー - {type, select,
     group {あなたのグループのメンバーだけがこのイベントを}
     universe {このイベントは、コラボレーターと宇宙のファンだけが}
     organization {組織のメンバーのみがこのイベントを}
     other {あなたとあなたが招待した人だけがこのイベントを}
   }見ることができます。`,
   'events.visibility.private': '非公開 - あなたが招待した人だけがイベントを見ることができます。',
-  'events.inviting': 'このイベントを視聴可能な人が他の人を招待することはできますか？',
+  'events.inviting': 'このイベントを視聴可能な人は他の人を招待することはできますか？',
   'events.administration': 'イベント事務局',
   'events.create.title': '新規イベント作成',
   'events.hostedBy': '主催は{hostName}',
-  'events.openVirtual': 'バーチャル環境へ移動',
+  'events.openVirtual': 'バーチャル会場へ移動',
   'events.moreInfo': '詳しくは',
-  'event.visibilityShort.private': '民間',
-  'event.visibilityShort.public': '公衆',
-  'event.visibilityShort.owner': '所有者'
+  'event.visibilityShort.private': '非公開（プライベート）',
+  'event.visibilityShort.public': '一般公開',
+  'event.visibilityShort.owner': 'オーナー'
 };
