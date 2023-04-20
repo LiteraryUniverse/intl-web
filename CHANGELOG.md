@@ -2,7 +2,7 @@
 
 ## 2023-04-XX - v2.6.3
 
-* Added `'stats.noData'`
+* Added `stats.noData`
 
 ## 2023-04-13 - v2.6.2
 
