@@ -10,7 +10,7 @@ export default {
     genres {ジャンルは}
     numbers {計数}
     other {}
-  }`,
+  }以下であること`,
     'form.validator.minLength': `少なくとも{min,number}{what, select,
     characters {文字}
     tags {タグ}
@@ -21,13 +21,13 @@ export default {
   }`,
     'form.validator.email': '有効なメールアドレスである必要があります',
     'form.validator.url': '有効なURIである必要があります',
-    'form.validator.slug': 'URIの有効な部分である必要があります',
+    'form.validator.slug': 'URIの一部が有効である必要があります',
     'form.submitting.signup': 'アカウントを作成中',
     'form.submitting.signin': 'ログインしています...',
     'form.submitting.default': '送信しています。',
     'form.submitting.sending': '送信中...',
-    'form.validator.whitespace': 'スペースを空白にしてはいけません',
-    'form.validator.zipCode': '有効な郵便番号である必要があります',
+    'form.validator.whitespace': 'スペースは空白にしないでください。',
+    'form.validator.zipCode': '有効な郵便番号を使用してください。',
     'form.validator.isbn': 'ISBNのバージョンは10または13です。',
     'form.validator.btc': 'これは有効なBTCアドレスではありません。',
     'form.validator.eth': 'これは有効なETHアドレスではありません。',
@@ -37,7 +37,7 @@ export default {
     'simpleschema.required': '「{label}」が必要です',
     'simpleschema.minString': '{label}は少なくとも{min, number}文字必要です',
     'simpleschema.maxString': '{label}は{max, number}文字を超えることはできません',
-    'simpleschema.minNumber': '{label}は少なくとも{min, number}でなければなりません',
+    'simpleschema.minNumber': '{label}は少なくとも{min, number}でなければなりません。',
     'simpleschema.maxNumber': '{label}は{max, number}を超えることはできません',
     'simpleschema.minNumberExclusive': '{label}は{min, number}よりも大きくなければなりません。',
     'simpleschema.maxNumberExclusive': '{label}は{max, number}よりも小さくなければなりません。',
@@ -47,9 +47,9 @@ export default {
     'simpleschema.minCount': '{label} は{minCount, number}項目以上で指定してください',
     'simpleschema.maxCount': '{label}は{maxCount, number}項目以内で指定してください',
     'simpleschema.noDecimal': '{label} は整数で入力してください',
-    'simpleschema.notAllowed': '{value} は有効ではない',
+    'simpleschema.notAllowed': '{value} は有効ではありません。',
     'simpleschema.expectedString': '{label} は文字列で入力してください',
-    'simpleschema.expectedNumber': '{label} は数値で入力してください',
+    'simpleschema.expectedNumber': '{label} は数字を入力してください',
     'simpleschema.expectedBoolean': '{label} は真偽で入力してください',
     'simpleschema.expectedArray': '{label} は配列で入力してください',
     'simpleschema.expectedObject': '{label} はオブジェクトで入力してください',
