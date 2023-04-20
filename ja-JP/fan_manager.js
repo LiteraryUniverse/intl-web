@@ -14,8 +14,8 @@ export default {
   'fanManager.authorComment': '著者へのコメント',
   'fanManager.authorComment.desc': 'これは、このアート作者への個人的なコメントです。',
   'fanManager.stateChange.approve': 'ファンアートを承認する',
-  'fanManager.stateChange.reject': 'ファンアートを拒否',
-  'fanManager.stateChange.hide': 'ファンアートを隠す',
+  'fanManager.stateChange.reject': 'ファンアートは却下されました',
+  'fanManager.stateChange.hide': 'ファンアートを非表示にする',
   'fanManager.stateChange.unhide': 'ファンアートを可視化する',
   'fanManager.fanFictionNotAllowed': 'ファンフィクションは、ライセンスの性質上、禁止されています。'
 };
