@@ -42,13 +42,13 @@ export default {
     'feedback.report.reportSaved': 'ご報告ありがとうございました。調査を行い、必要に応じて対応させていただきます。',
     'feedback.report.copyrightReportSaved': 'ご報告ありがとうございました。調査してご連絡いたします。',
     'feedback.report.copyrightOwnershipDesc': 'オーナーシップ・ステートメント',
-    'feedback.report.copyrightNotice': 'このフォームの使用に際して、作品の正当な所有者である必要があることをご留意下さい。もし所有者でない場合は、所有者に知らせるか、別のカテゴリーからお知らせください。私たちは、著作権侵害を非常に重く受け止めておりにおいても、このフォームの不適切な使用や不正使用においても同様です。',
-    'feedback.report.copyrightInternalProperty': '私はこの作品を文学の宇宙について発表しました。',
+    'feedback.report.copyrightNotice': 'このフォームの使用に際しては正当な所有者である必要があります。もし所有者でない場合は、所有者にご連絡するか、別のカテゴリーからお知らせください。私たちは、著作権侵害を非常に重く受け止めており、このフォームの不適切な使用や不正使用においても同様です。',
+    'feedback.report.copyrightInternalProperty': '私はこの作品をLieterary Universeに発表しました。',
     'feedback.reportType.spam': 'スパムやフィッシング',
     'feedback.reportType.other': 'その他',
     'feedback.report.copyrightType.propertySelectLabel': `どの {type, select,
     universe {宇宙}
     story {物語}
     other {物語}
-  }が侵害されているのか？`
+  }が侵害されていますか？`
 };
