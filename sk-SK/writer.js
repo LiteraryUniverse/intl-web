@@ -24,5 +24,5 @@ export default {
     'writer.publish.previousChapterScheduled': 'Uverejnenie predchádzajúcej kapitoly je naplánované na {publishDate, date, short} v {publishDate, time}',
     'writer.publish.alreadyPublished': 'Táto kapitola už bola uverejnená {publishedAt, date, short}. Nové verzie budú uverejnené okamžite.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Publikovať'
 };
