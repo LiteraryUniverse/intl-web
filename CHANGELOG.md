@@ -1,8 +1,9 @@
 # Changelog for languages
 
-## 2023-04-XX - v2.6.3
+## 2023-04-21 - v2.6.3
 
 * Added `stats.noData`
+* Added `writer.publish.betaReader` and `writer.publish.public`
 
 ## 2023-04-13 - v2.6.2
 
