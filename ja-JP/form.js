@@ -56,7 +56,7 @@ export default {
     'simpleschema.expectedConstructor': '{label} は{type}で入力してください',
     'simpleschema.keyNotInSchema': '{key} は無効なスキーマです',
     'simpleschema.notUnique': '{label}は他にない特殊なものを使用してください。',
-    'simpleschema.regEx.0': '{label} は正規表現で失敗しました',
+    'simpleschema.regEx.0': '{label} は通常の表現検証を満たしませんでした。',
     'simpleschema.regEx.1': '{label} は有効なメールアドレスを入力してください。',
     'simpleschema.regEx.2': '{label} は有効なメールアドレスを入力してください。',
     'simpleschema.regEx.3': '{label} は有効なドメインを使用してください。',
