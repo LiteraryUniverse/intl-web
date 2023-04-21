@@ -38,5 +38,5 @@ export default {
     'stats.blog.pages': 'Stránky',
     'stats.blog.posts': 'Príspevky',
     'stats.unknown': 'Neznáme',
-    'stats.noData': 'No data available at this time.'
+    'stats.noData': 'V tomto okamihu nie sú k dispozicii žiadne data.'
 };
