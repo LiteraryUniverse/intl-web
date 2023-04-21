@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
+    'feed.name': 'Socia fluo',
     'feed.post.new': 'Nova skribaĵo',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.like': 'Gajeti afiŝon',
+    'feed.post.unlike': 'Malkajeti afiŝon',
+    'feed.post.send': 'Afiŝo',
+    'feed.empty': 'Ne estas eniroj en la fluo.'
 };
