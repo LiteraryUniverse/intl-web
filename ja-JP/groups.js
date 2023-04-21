@@ -12,7 +12,7 @@ export default {
     'groups.imageAlt': '{groupName}の画像',
     'groups.members': 'メンバー',
     'groups.members.total': `ありません {totalMembers, plural,
-    other {このグループのメンバーは # メンバーです}
+    other {このグループのメンバーは # 人です}
   }`,
     'groups.leaveGroup': 'グループからの脱会',
     'groups.leaveGroup.confirm': '念のため 本当に{groupName}を辞めたいですか？',
@@ -24,10 +24,10 @@ export default {
     'groups.join.closedGroup': 'グループへの参加申請',
     'groups.join.questionToJoin': '新メンバーへの質問',
     'groups.join.closedAria': 'クローズドグループへの参加申請フォーム',
-    'groups.join.questionDefault': 'なぜ参加させる必要があるのですか。',
+    'groups.join.questionDefault': '参加希望理由は何でしょうか？',
     'groups.join.pendingRequest': 'このグループへの参加リクエストは、グループ管理者の承認待ちです。',
-    'groups.join.requesting': '参加希望',
-    'groups.invite.btn': 'グループへの招待',
+    'groups.join.requesting': '参加申請中',
+    'groups.invite.btn': 'グループを招待',
     'groups.invite.modalAria': 'グループダイアログにユーザーを招待する',
     'groups.invite.send': '招待状を送る',
     'groups.invite.label': '招待するユーザーを探す',
