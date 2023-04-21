@@ -37,5 +37,6 @@ export default {
     'stats.blog.typeSelectionAria': 'Type selection',
     'stats.blog.pages': 'الصفحات',
     'stats.blog.posts': 'Posts',
-    'stats.unknown': 'غير معروف'
+    'stats.unknown': 'غير معروف',
+    'stats.noData': 'No data available at this time.'
 };

@@ -37,5 +37,6 @@ export default {
     'stats.blog.typeSelectionAria': 'タイプ選択',
     'stats.blog.pages': 'ページ',
     'stats.blog.posts': 'ポスト',
-    'stats.unknown': '不明'
+    'stats.unknown': '不明',
+    'stats.noData': 'No data available at this time.'
 };

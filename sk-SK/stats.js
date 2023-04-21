@@ -37,5 +37,6 @@ export default {
     'stats.blog.typeSelectionAria': 'Výber typu',
     'stats.blog.pages': 'Stránky',
     'stats.blog.posts': 'Príspevky',
-    'stats.unknown': 'Neznáme'
+    'stats.unknown': 'Neznáme',
+    'stats.noData': 'V tomto okamihu nie sú k dispozicii žiadne data.'
 };

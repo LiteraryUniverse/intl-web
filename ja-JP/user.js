@@ -1,18 +1,18 @@
 export default {
     'user.friend.request.add': '友達に追加',
     'user.friend.requests': `あなたには{num, number}件の新しい友達リクエストがあります。{num, plural,other {}}`,
-    'user.friend.unfriend': 'フレンドリストから削除',
+    'user.friend.unfriend': '友達リストから削除',
     'user.block': 'ブロック',
     'user.unblock': 'ブロック解除',
     'user.joined': `{date, date,long}にユーザー登録`,
     'user.friend.request.accept': '友達リクエストを承認する',
-    'user.friend.request.cancel': 'フレンドリクエストを取り消す',
-    'user.friend.request.deny': '友情の否定',
-    'user.listing': 'ユーザーの一覧',
+    'user.friend.request.cancel': '友達申請を取り消す',
+    'user.friend.request.deny': '友達申請を拒否',
+    'user.listing': 'ユーザー一覧',
     'user.profile.visit': '{user}のプロフィールを見る。',
     'user.profile.avatar': '{username}のアバター',
-    'user.friend.list.requests': '友達リクエスト',
-    'user.friend.norequests': '友情のリクエストはありません。',
+    'user.friend.list.requests': '友達申請',
+    'user.friend.norequests': '友達申請ははありません。',
     'user.dashboardWelcome': `{dayPart, select,
     morning {おはようございます}
     afternoon {こんにちは}
@@ -20,8 +20,8 @@ export default {
     night {こんばんは}
     other {こんにちは}
   }{displayName}さん。`,
-    'user.verification.publishedAuthor': 'この作家は伝統的な方法で出版されている',
-    'user.verification.luAuthor': '文学の宇宙での注目の作家',
-    'user.verification.luEmployee': '文学の宇宙社員',
-    'user.verification.publicFigure': '検証された公人'
+    'user.verification.publishedAuthor': 'この作家は一般的な方法で出版しています。',
+    'user.verification.luAuthor': 'Literary Universe による注目の作家',
+    'user.verification.luEmployee': 'Lieterary Universe社員',
+    'user.verification.publicFigure': '著名人'
 };

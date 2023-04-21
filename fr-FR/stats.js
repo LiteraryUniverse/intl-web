@@ -37,5 +37,6 @@ export default {
     'stats.blog.typeSelectionAria': 'Type de sélection',
     'stats.blog.pages': 'Pages',
     'stats.blog.posts': 'Posts',
-    'stats.unknown': 'Inconnu'
+    'stats.unknown': 'Inconnu',
+    'stats.noData': 'No data available at this time.'
 };

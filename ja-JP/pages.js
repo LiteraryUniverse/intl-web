@@ -1,8 +1,8 @@
 export default {
-    'homepage.welcome': 'Welcome to',
-    'homepage.start': '旅に出よう',
+    'homepage.welcome': 'ようこそ',
+    'homepage.start': 'ジャーニーを始めましょう',
     'homepage.iAm': '私は',
-    'homepage.iAm.aria': '読者向け、作家向けの機能表示から選択できます。',
+    'homepage.iAm.aria': '表示されている読者向け、作家向けの機能を選択します。',
     'homepage.reader': '読者',
     'homepage.writer': '作家',
     'homepage.reader.title': '読書はこんなにも面白いものだったのか',

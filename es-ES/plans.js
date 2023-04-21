@@ -55,7 +55,7 @@ export default {
     'plans.feature.readingLists': 'Listas de lectura',
     'plans.feature.scenesManager': 'Gestor de escenas',
     'plans.feature.glossaries': 'Glosarios de traducción',
-    'plans.feature.chatSupport': 'Chat support',
+    'plans.feature.chatSupport': 'Asistencia por chat',
     'plans.currency.select': 'Seleccionar divisa',
     'plans.subscription.ownAlready': 'Actualmente tienes este plan',
     'plans.subscription.title': 'Suscripción',
@@ -164,5 +164,5 @@ export default {
     'plans.taxMayApply': '* Puede añadirse el IVA y otros impuestos similares',
     'plans.faq.crypto': '¿Y ofreceréis pagos en criptomoneda?',
     'plans.faq.cryptoAnswer': 'Así es, estamos trabajando en ello. Somos fans de la Web3 y estamos buscando formas de integrar la Web3 en la plataforma de cara a futuro. Por ahora hemos permitido el acceso con Web3 y queremos expandir esta opción, en concreto a la hora de pagar a los creadores y darles la posibilidad de aceptar cualquier tipo de opción de pago que quieran escoger.',
-    'plans.subscribed.updating': 'It might take a bit to update your your subscription information. Thank you for your patience!'
+    'plans.subscribed.updating': 'Puede que tardemos un poco en actualizar la información de tu suscripción. ¡Gracias por la paciencia!'
 };

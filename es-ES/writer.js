@@ -22,5 +22,7 @@ export default {
     'writer.publish.schedule': 'Fijar fecha y hora de publicación',
     'writer.publish.previousChapterPublished': 'El capítulo anterior se publicó el {publishDate, date, short} a las {publishDate, time}',
     'writer.publish.previousChapterScheduled': 'Está previsto que el capítulo anterior se publique el {publishDate, date, short} a las {publishDate, time}',
-    'writer.publish.alreadyPublished': 'Este capítulo ya ha sido publicado en {publishedAt, date, short}. Las nuevas versiones se publicarán en breves.'
+    'writer.publish.alreadyPublished': 'Este capítulo ya ha sido publicado en {publishedAt, date, short}. Las nuevas versiones se publicarán en breves.',
+    'writer.publish.betaReader': 'Beta',
+    'writer.publish.public': 'Publish'
 };
