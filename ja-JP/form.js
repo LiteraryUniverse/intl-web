@@ -1,14 +1,14 @@
 export default {
     'form.requiredSymbol': '*',
     'form.validator.required': '必須項目',
-    'form.validator.mustBeNumber': '数値を指定してください',
+    'form.validator.mustBeNumber': '数字を指定してください',
     'form.validator.minNumber': '{min, number}以上であること',
     'form.validator.maxNumber': '{max, number}以下であること',
     'form.validator.maxLength': `{max, number}{what, select,
     characters {文字}
     tags {タグ}
     genres {ジャンルは}
-    numbers {計数}
+    numbers {数字}
     other {}
   }以下であること`,
     'form.validator.minLength': `少なくとも{min,number}{what, select,
@@ -16,7 +16,7 @@ export default {
     tags {タグ}
     genres {ジャンルは}
     genre {ジャンルは}
-    numbers {計数}
+    numbers {数字}
     other {}
   }`,
     'form.validator.email': '有効なメールアドレスである必要があります',
@@ -41,9 +41,9 @@ export default {
     'simpleschema.maxNumber': '{label}は{max, number}を超えることはできません',
     'simpleschema.minNumberExclusive': '{label}は{min, number}よりも大きくなければなりません。',
     'simpleschema.maxNumberExclusive': '{label}は{max, number}よりも小さくなければなりません。',
-    'simpleschema.minDate': '{label}は{min, date}以降で入力してください',
-    'simpleschema.maxDate': '{label}は{max, date}以前で入力してください',
-    'simpleschema.badDate': '{label} は日付で入力してください',
+    'simpleschema.minDate': '{label}は{min, date}以降に入力してください',
+    'simpleschema.maxDate': '{label}は{max, date}より前に入力してください',
+    'simpleschema.badDate': '{label} は有効な日付ではありません。',
     'simpleschema.minCount': '{label} は{minCount, number}項目以上で指定してください',
     'simpleschema.maxCount': '{label}は{maxCount, number}項目以内で指定してください',
     'simpleschema.noDecimal': '{label} は整数で入力してください',
@@ -52,10 +52,10 @@ export default {
     'simpleschema.expectedNumber': '{label} は数字を入力してください',
     'simpleschema.expectedBoolean': '{label} はブール値で入力してください',
     'simpleschema.expectedArray': '{label} は配列で入力してください',
-    'simpleschema.expectedObject': '{label} はオブジェクトで入力してください',
+    'simpleschema.expectedObject': '{label} はオブジェクトを入力してください',
     'simpleschema.expectedConstructor': '{label} は{type}で入力してください',
     'simpleschema.keyNotInSchema': '{key} は無効なスキーマです',
-    'simpleschema.notUnique': '{label}は一意でなければなりません',
+    'simpleschema.notUnique': '{label}は他にない特殊なものを使用してください。',
     'simpleschema.regEx.0': '{label} は正規表現で失敗しました',
     'simpleschema.regEx.1': '{label} は有効なメールアドレスを入力してください。',
     'simpleschema.regEx.2': '{label} は有効なメールアドレスを入力してください。',
