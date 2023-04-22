@@ -2,7 +2,7 @@
 
 ## 2023-04-22 - v2.6.4
 
-* Added `common.noAccountQuestion` and `common.haveAccountQuestion` for new entry screens
+* Added `common.noAccountQuestion`, `common.haveAccountQuestion` and `common.socialLogin` for new entry screens
 
 ## 2023-04-21 - v2.6.3
 
