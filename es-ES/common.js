@@ -248,5 +248,6 @@ export default {
     'banner.support': '¡Los usuarios como tú sois quienes mantenéis Literary Universe a flote! Por favor, considera unirte a uno de nuestros planes de suscripción y hacer de Literary Universe algo incluso mejor!',
     'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.',
     'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?'
+    'common.haveAccountQuestion': 'Already have an account?',
+    'common.socialLogin': 'Login with other services'
 }    /* eslint-enable max-len */;
