@@ -246,5 +246,7 @@ export default {
     'select.removeOption': '{option}を削除します。',
     create: '作成する',
     'banner.support': 'Literary Universeは、あなたのようなユーザーによって支えられています！Literary Universeのイベントをより良いものにするために、ぜひ購読をご検討ください！',
-    'banner.seePlans': '詳しくは、プランのページをご覧ください。'
+    'banner.seePlans': '詳しくは、プランのページをご覧ください。',
+    'common.noAccountQuestion': 'Don\'t have an account?',
+    'common.haveAccountQuestion': 'Already have an account?'
 }    /* eslint-enable max-len */;
