@@ -7,7 +7,7 @@ export default {
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universeは、壮大な文学の世界をオールインワン・プラットフォームで制作・出版します。',
     'site.keywords': '文芸作品、 Sf、ファンタジー、書き込み、出版, 小説、物語、宇宙小説、ウェブ小説',
-    'site.logoAlt': '知識教養文学の世界のロゴ',
+    'site.logoAlt': 'Literary Universeのロゴ',
     mobileMenu: 'モバイル メニュー',
     'common.signin': 'ログイン',
     'common.signup': '会員登録',
@@ -39,7 +39,7 @@ export default {
     'common.users': 'ユーザー',
     'common.showmore': 'さらに表示',
     'common.futurefeature.title': '今後の機能',
-    'common.futurefeature.text': '大変申し訳ありませんが、この機能は現在のところご利用できません。できるだけ早く利用できるように努めております。',
+    'common.futurefeature.text': '大変申し訳ありませんが、この機能は現在のところご利用できません。できるだけ早くご利用できるように取り組んでおります。',
     'common.nothingfound': '何も見つかりませんでした。',
     'common.explore': '調査',
     'common.by': '～で　 ',
@@ -117,7 +117,7 @@ export default {
     copyrights: '著作権',
     'common.challenges': '挑戦',
     // for beta only
-    'beta.notice': '文学の宇宙BETAへようこそ。これはパブリックプレビューであり、アプリはまだ進行中です。そのため、エラーや未完成の機能があることが予想されます。エラーや機能しないものがありましたら、ぜひお知らせください。また、すべての機能が整うまでお待ちください。',
+    'beta.notice': 'Literary Universe BETAへようこそ。これはパブリックプレビューであり、アプリはまだ進行中です。そのため、エラーや未完成の機能があることが予想されます。エラーや機能しないものがありましたら、ぜひお知らせください。また、すべての機能が整うまでお待ちください。',
     'beta.thanks': 'ご協力ありがとうございました。',
     'scratchpad.about': 'サイトのどこからでもご自身専用のメモ欄やアイデアにアクセスが可能です。',
     'common.feedback': 'ご意見',
@@ -246,5 +246,8 @@ export default {
     'select.removeOption': '{option}を削除します。',
     create: '作成する',
     'banner.support': 'Literary Universeは、あなたのようなユーザーによって支えられています！Literary Universeのイベントをより良いものにするために、ぜひ購読をご検討ください！',
-    'banner.seePlans': '詳しくは、プランのページをご覧ください。'
+    'banner.seePlans': '詳しくは、プランのページをご覧ください。',
+    'common.noAccountQuestion': 'Don\'t have an account?',
+    'common.haveAccountQuestion': 'Already have an account?',
+    'common.socialLogin': 'Login with other services'
 }    /* eslint-enable max-len */;
