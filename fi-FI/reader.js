@@ -1,5 +1,5 @@
 export default {
-    'reader.storyEnd.heading': 'The END',
+    'reader.storyEnd.heading': 'LOPPU',
     'reader.storyEnd.description': 'You have reached the end of the story.',
     'reader.externalSale.heading': 'Not here yet',
     'reader.externalSale.description': 'This story is not available on Literary Universe, but you can get it in other places.',
