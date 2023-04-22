@@ -247,6 +247,7 @@ export default {
     create: 'Vytvoriť',
     'banner.support': 'Literary Universe podporujú používatelia ako vy! Zvážte, prosím, možnosť predplatiť si niektorý z našich predplatiteľských plánov, aby ste zostali nezávislí a zlepšili podujatie Literary Universe!',
     'banner.seePlans': 'Viac informácií nájdete na našej stránke s plánmi.',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?'
+    'common.noAccountQuestion': 'Nemáte účet?',
+    'common.haveAccountQuestion': 'Už máte účet?',
+    'common.socialLogin': 'Login with other services'
 }    /* eslint-enable max-len */;
