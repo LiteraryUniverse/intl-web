@@ -246,5 +246,7 @@ export default {
     'select.removeOption': 'Remove {option}',
     create: 'Create',
     'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.'
+    'banner.seePlans': 'Visit our plans page for more information.',
+    'common.noAccountQuestion': 'Don\'t have an account?',
+    'common.haveAccountQuestion': 'Already have an account?'
 }    /* eslint-enable max-len */;
