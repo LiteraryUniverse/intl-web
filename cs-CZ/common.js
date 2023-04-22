@@ -249,5 +249,5 @@ export default {
     'banner.seePlans': 'Navštivte naši stránku s plány pro více informací.',
     'common.noAccountQuestion': 'Nemáte účet?',
     'common.haveAccountQuestion': 'Již máte účet?',
-    'common.socialLogin': 'Login with other services'
+    'common.socialLogin': 'Přihlášení pomocí jiných služeb'
 }    /* eslint-enable max-len */;
