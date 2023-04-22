@@ -186,7 +186,7 @@ export default {
   'editor.saved.beta': 'New revision for Beta readers created!',
   'editor.saved.public': 'New version published!',
   goodbyeForever:
-    "We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we'll meet again! Live long and prosper!",
+    'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
   'goodbyeForever.feedback': 'Let us know what we can do better',
   'common.edit': 'Edit',
   'common.publish': 'Publish',
@@ -203,7 +203,7 @@ export default {
   'story.notes.audience': 'Target audience',
   'story.notes.pitch': 'Pitch',
   'story.notes.notes': 'Notes',
-  'story.authorsNotes': "Author's notes",
+  'story.authorsNotes': 'Author\'s notes',
   'common.members': 'Members',
   'common.language': 'Language',
   next: 'Next',
@@ -270,5 +270,9 @@ export default {
 
   'banner.support':
     'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-  'banner.seePlans': 'Visit our plans page for more information.'
+  'banner.seePlans': 'Visit our plans page for more information.',
+
+  'common.noAccountQuestion': 'Don\'t have an account?',
+  'common.haveAccountQuestion': 'Already have an account?',
+  'common.socialLogin': 'Login with other services'
 } /* eslint-enable max-len */
