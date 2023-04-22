@@ -1,7 +1,7 @@
 /* global Package */
 Package.describe({
   name: 'lu-intl',
-  version: '2.6.3',
+  version: '2.6.4',
   summary: 'Intl for Literary Universe',
   documentation: 'README.md'
 })
