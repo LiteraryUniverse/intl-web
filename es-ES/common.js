@@ -246,5 +246,7 @@ export default {
     'select.removeOption': 'Eliminar {option}',
     create: 'Crear',
     'banner.support': '¡Los usuarios como tú sois quienes mantenéis Literary Universe a flote! Por favor, considera unirte a uno de nuestros planes de suscripción y hacer de Literary Universe algo incluso mejor!',
-    'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.'
+    'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.',
+    'common.noAccountQuestion': 'Don\'t have an account?',
+    'common.haveAccountQuestion': 'Already have an account?'
 }    /* eslint-enable max-len */;
