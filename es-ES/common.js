@@ -247,7 +247,7 @@ export default {
     create: 'Crear',
     'banner.support': '¡Los usuarios como tú sois quienes mantenéis Literary Universe a flote! Por favor, considera unirte a uno de nuestros planes de suscripción y hacer de Literary Universe algo incluso mejor!',
     'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services'
+    'common.noAccountQuestion': '¿Aún no tienes una cuenta?',
+    'common.haveAccountQuestion': '¿Ya tienes una cuenta?',
+    'common.socialLogin': 'Inicia sesión desde otros servicios'
 }    /* eslint-enable max-len */;
