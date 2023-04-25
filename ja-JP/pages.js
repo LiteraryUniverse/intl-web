@@ -11,7 +11,7 @@ export default {
     'homepage.reader.favoriteTitle': 'お気に入りの物語や作家について、もっと発見しましょう',
     'homepage.reader.favoriteDesc': '宇宙関連辞典や作者のブログなどは好きな物語や設定、作者について知ることができる機能の一部です。',
     'homepage.reader.communityTitle': 'コミュニティに参加する',
-    'homepage.reader.communityDesc': '宇宙や作家の専用フォーラム、ブログなど、同じ志を持つファンが集まるコミュニティ機能で、世界中の人々と出会えます。すべてを1つの場所で。',
+    'homepage.reader.communityDesc': '宇宙関連や作家の専用フォーラムまたはブログから、あるいは同じような考え方を持ったファンが集うコミュニティにアクセスをして世界中の人々とこの１つの場所から繋がることができます。',
     'homepage.reader.readingFeatureTitle': '没入感がありながら実用的な読書体験が楽しめる',
     'homepage.reader.readingFeatureDesc': '物語や宇宙から、ページを切り替えることなく細部にアクセスできる、楽な読書ができる利点があります。',
     'homepage.reader.readingExploreTitle': '宇宙のあらゆるミニュチュアを探求する',
