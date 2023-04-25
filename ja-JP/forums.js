@@ -63,5 +63,5 @@ export default {
   'forums.thread.totalPosts': `{totalReplies, number}{totalReplies, plural,
     other {件の返信}
   }`,
-  'forums.thread.createdAt': '{createdAt, date, medium}に作成'
+  'forums.thread.createdAt': '{createdAt, date, medium}で作成'
 };
