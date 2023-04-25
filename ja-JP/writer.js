@@ -1,5 +1,5 @@
 export default {
-    'writer.menu.optionsAria': 'エディターオプションメニュー',
+    'writer.menu.optionsAria': 'エディターのオプションメニュー',
     'writer.menu.saveOptionsAria': 'オプションの保存',
     'writer.undo': '取り消し',
     'writer.redo': 'やり直し',
@@ -16,13 +16,13 @@ export default {
     'finder.remove': '接続解除',
     'finder.connect': '選択肢を百科事典の項目に接続',
     'writer.aside.ariaLabel': 'ヘルプオプションメニュー',
-    'writer.nothingToSave': 'セーブする記録がありません。',
+    'writer.nothingToSave': '保存するものはありません。',
     'writer.publish.publishAria': 'パブリケーションオプション',
-    'writer.publish.scheduleExplained': 'すぐに公開することも、後日公開するようにスケジュールを組むことも可能です。',
-    'writer.publish.schedule': '発行日時設定',
-    'writer.publish.previousChapterPublished': '前の章は{publishDate, date, short}に{publishDate, time}で公開されました。',
-    'writer.publish.previousChapterScheduled': '前の章は{publishDate, date, short}に{publishDate, time}で公開される予定です。',
-    'writer.publish.alreadyPublished': 'この章は{publishedAt, date, short}に既に公開されています。新しいバージョンはすぐに公開されます。',
-    'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Publish'
+    'writer.publish.scheduleExplained': 'この章をすぐに公開することも、後日公開するようスケジュールすることも可能です。',
+    'writer.publish.schedule': '発行日時の設定',
+    'writer.publish.previousChapterPublished': '前の章は{publishDate, date, short}に{publishDate, time}に公開されました。',
+    'writer.publish.previousChapterScheduled': '前の章は{publishDate, date, short}に{publishDate, time}に公開予定です。',
+    'writer.publish.alreadyPublished': 'この章は{publishedAt, date, short}に既に公開されています。新しいバージョンはやがて公開されます。',
+    'writer.publish.betaReader': 'ベータ版',
+    'writer.publish.public': '発行する'
 };
