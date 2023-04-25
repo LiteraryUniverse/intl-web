@@ -164,5 +164,5 @@ export default {
     'plans.taxMayApply': '* VATおよびその他の現地税が適用される場合があります。',
     'plans.faq.crypto': '暗号決済を提供するのですか',
     'plans.faq.cryptoAnswer': 'はい、私たちはそれに取り組んでいます。私たちはWeb3の大ファンであり、近い将来、Web3をプラットフォームに統合する方法を探しています。現在、Web3でのログインを可能にしていますが、特にクリエイターへの報酬の提供や、クリエイターが受け入れたい支払い方法をすべて選択できるようにするために、このサービスを拡張することを検討しています。',
-    'plans.subscribed.updating': 'It might take a bit to update your your subscription information. Thank you for your patience!'
+    'plans.subscribed.updating': 'サブスクリプション情報を更新するには少し時間がかかる場合があります。お待ちください。'
 };
