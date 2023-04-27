@@ -1,7 +1,7 @@
 export default {
     'reader.storyEnd.heading': '終わり',
     'reader.storyEnd.description': 'この物語の終わです。。',
-    'reader.externalSale.heading': 'まだ来ていない',
+    'reader.externalSale.heading': 'まだありません。',
     'reader.externalSale.description': 'この物語はLieterary Universeでは入手できませんが、他の場所で手に入れることは可能です。',
     'reader.storyTBC.heading': '次回につづく',
     'reader.storyTBC.description': '私たちが用意できるこの物語はここまでですが、アドベンチャーは今後も続きますので追ってご確認ください。',
@@ -12,7 +12,7 @@ export default {
     'chapter.comment': 'この章へのコメント',
     'reader.language': '言語:',
     'reader.fullscreen.enter': 'フルスクリーンにする',
-    'reader.fullscreen.exit': 'フルスクリーンの終了',
+    'reader.fullscreen.exit': 'フルスクリーンを終了する',
     'reader.details.universe': '宇宙の詳細',
     'reader.details.story': '物語の詳細',
     'reader.darkmode': 'ダークモードの切り替え',
@@ -26,7 +26,7 @@ export default {
     'reader.accessibility.aria': 'アクセシビリティのオプションメニュー',
     'reader.accessibility.toggleDyslexic': 'トグル式ディスレクティックフォント',
     'reader.accessibility.toggleParagraphStripes': '段落の背景をトグルする',
-    'reader.accessibility.toggleParagraphHighlight': '選択した段落のハイライトをトグルする',
+    'reader.accessibility.toggleParagraphHighlight': '選択した段落のハイライトをトグルにする',
     'reader.accessibility.toggleRules': 'アシストルーラーをトグルする',
     'reader.nextRelease.scheduled': '次の章は、{nextReleaseAt, date}の{nextReleaseAt, time}に公開予定です!',
     'reader.storyContinues': '物語は続く・・・'
