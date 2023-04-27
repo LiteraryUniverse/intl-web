@@ -5,7 +5,7 @@ export default {
     'user.block': 'ブロック',
     'user.unblock': 'ブロック解除',
     'user.joined': `{date, date,long}にユーザー登録`,
-    'user.friend.request.accept': '友達リクエストを承認する',
+    'user.friend.request.accept': '友達申請を承認する',
     'user.friend.request.cancel': '友達申請を取り消す',
     'user.friend.request.deny': '友達申請を拒否',
     'user.listing': 'ユーザー一覧',

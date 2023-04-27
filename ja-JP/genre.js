@@ -16,7 +16,7 @@ export default {
     'genre.mystery': 'ミステリー小説',
     'genre.thriller': 'スリラー小説',
     'genre.western': '西部劇',
-    'genre.memoir': '伝記小説',
+    'genre.memoir': '自叙伝',
     'genre.biography': '伝記小説',
     'genre.steampunk': 'スチームパンク小説',
     'genre.mythology': '神話',

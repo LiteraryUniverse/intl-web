@@ -20,10 +20,10 @@ export default {
   'forums.category.archive': 'アーカイブカテゴリー',
   'forums.category.archiveExplained': 'スレッドがないカテゴリは削除され、内容のあるカテゴリは新しいスレッドが作成されないようになります。',
   'forums.category.reactivate': 'カテゴリを再度有効にする',
-  'forums.category.isVotable': 'ユーザーがスレッドにアップ/ダウン投票できるようにする',
+  'forums.category.isVotable': 'ユーザーがスレッドに賛成票/反対票を投じることができます',
   'forums.category.titleIsGlobal': 'このカテゴリタイトルは、弊社がサポートしている場合、ユーザーの言語で表示されます。',
-  'forums.category.languageLimited': 'このカテゴリは、この言語のユーザーにのみ表示されます。',
-  'forums.threadsCounter': 'トピックディスカッションの数',
+  'forums.category.languageLimited': 'このカテゴリは、この言語を使用されているユーザーのみに表示されます。',
+  'forums.threadsCounter': 'ディスカッションされているトピックス数',
   // Pre-defined category names
   'forums.category.intlName.general': '総合討論',
   'forums.category.intlName.announcements': 'お知らせ',
@@ -44,7 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': '登録されたユーザーのみアクセスが許可されます',
   'forums.settings.accessControls': 'アクセス制御',
-  'forums.forumRestrictionsMessages.usersOnlyForum': 'このフォーラムは、登録ユーザーのみがアクセスできます。',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'このフォーラムは、登録されたユーザーのみアクセスできます。',
   'forums.noThreads': '何も掲示するものはありません。会話を始めるのはあなた次第です。',
   'forums.noPosts': 'まだ誰も返信していません。一番乗りを目指しましょう。',
   // Threads

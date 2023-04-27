@@ -3,7 +3,7 @@ export default {
   'roadmap.state.backlog': 'バックログ',
   'roadmap.state.inprogress': '進行中',
   'roadmap.state.preview': 'プレビュー',
-  'roadmap.state.beta': 'ベータ',
+  'roadmap.state.beta': 'ベータ版',
   'roadmap.state.ga': '一般利用可能',
   'roadmap.eta.q1.short': 'Q1',
   'roadmap.eta.q2.short': 'Q2',
@@ -14,12 +14,12 @@ export default {
   'roadmap.eta.q3.long': '第3四半期',
   'roadmap.eta.q4.long': '第4四半期',
   'roadmap.backlog': 'バックログ',
-  'roadmap.history': '開発の歴史',
-  'roadmap.item.inBacklog': '今後、この機能を発展させていく予定です。',
-  'roadmap.item.inProgress': '機能の開発が開始された{startedAt, date}。',
-  'roadmap.item.inBeta': 'この機能は、{betaAt, date}でベータ版になりました。',
-  'roadmap.item.inPreview': 'この機能は、{previewAt, date}にStoryteller購読者に提供されるようになりました。',
-  'roadmap.item.inGa': 'この機能は{gaAt, date}で一般に利用可能になりました。',
+  'roadmap.history': '開発履歴',
+  'roadmap.item.inBacklog': '今後この機能は開発予定です。',
+  'roadmap.item.inProgress': '機能の開発は{startedAt, date}に開始しました。',
+  'roadmap.item.inBeta': 'この機能は、{betaAt, date}にベータ版になりました。',
+  'roadmap.item.inPreview': 'この機能は、{previewAt, date}にStorytellerで購読可能になりました。',
+  'roadmap.item.inGa': 'この機能は{gaAt, date}で一般に利用可能となりました。',
   'roadmap.item.originalIssue': 'この機能は、もともとユーザーから提案されたものです。',
   'roadmap.eta.mapTitle': `{quarter, select,
     Q1 {Q1}
@@ -28,10 +28,10 @@ export default {
     Q4 {Q4}
     other {}
   } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': '{time, date, ::MMMM ::yyyy} で完了',
+  'roadmap.eta.mapTitleFinished': '{time, date, ::MMMM ::yyyy} に完了',
   'roadmap.back': 'ロードマップに戻る',
   'roadmap.seeBacklog': 'その他、どのようなことを予定しているかは、こちらをご覧ください。',
   'roadmap.seeFinished': '当社の歴史についてもっと知りたい方は、その概要をご覧ください。',
-  'roadmap.planned': '計画',
-  'roadmap.finished': '完成した'
+  'roadmap.planned': '今後予定されていること',
+  'roadmap.finished': '完了'
 };

@@ -35,7 +35,7 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '「{label}」が必要です',
-    'simpleschema.minString': '{label}は少なくとも{min, number}文字必要です',
+    'simpleschema.minString': '{label}は少なくとも{min, number}文字数が必要です',
     'simpleschema.maxString': '{label}は{max, number}文字を超えることはできません',
     'simpleschema.minNumber': '{label}は少なくとも{min, number}でなければなりません。',
     'simpleschema.maxNumber': '{label}は{max, number}を超えることはできません',
@@ -54,8 +54,8 @@ export default {
     'simpleschema.expectedArray': '{label} は配列で入力してください',
     'simpleschema.expectedObject': '{label} はオブジェクトを入力してください',
     'simpleschema.expectedConstructor': '{label} は{type}で入力してください',
-    'simpleschema.keyNotInSchema': '{key} は無効なスキーマです',
-    'simpleschema.notUnique': '{label}は他にない特殊なものを使用してください。',
+    'simpleschema.keyNotInSchema': '{key} はスキーマで許可されていません。',
+    'simpleschema.notUnique': '{label}は特殊なものを使用してください。',
     'simpleschema.regEx.0': '{label} は通常の表現検証を満たしませんでした。',
     'simpleschema.regEx.1': '{label} は有効なメールアドレスを入力してください。',
     'simpleschema.regEx.2': '{label} は有効なメールアドレスを入力してください。',
@@ -65,5 +65,5 @@ export default {
     'simpleschema.regEx.6': '{label} は有効なIPv4アドレスを入力してください。',
     'simpleschema.regEx.7': '{label} は有効なIPv6アドレスで入力してください',
     'simpleschema.regEx.8': '{label} は有効なURLを入力してください',
-    'simpleschema.regEx.9': '{label} は有効な英数字を入力してください'
+    'simpleschema.regEx.9': '{label} は英数字で入力してください'
 };

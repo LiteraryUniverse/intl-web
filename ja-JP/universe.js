@@ -1,21 +1,21 @@
 export default {
-    'universe.authors.title.meta': '{title} 人の著者',
+    'universe.authors.title.meta': '{title} の著者',
     'universe.fanfiction.see': '{universe}のすべてのファンフィクション',
     'universe.fanfiction.desc': '{universe}のファンフィクション',
     'universe.fanfiction.for': '{universe}ファンフィクション',
-    'universe.fanarts.for': '{universe} のファンの美術',
+    'universe.fanarts.for': '{universe} のファンアート',
     'universe.fansettings.for': '{universe} のファン設定',
     'universe.fanfiction.stories': '物語',
-    'universe.fanfiction.fanarts': 'ファンの芸術',
+    'universe.fanfiction.fanarts': 'ファンアート',
     'universe.stories.count': `この宇宙には{num, plural,
     =0 {物語がない}
     other {#の物語がある}
     }。`,
     'universe.authors.title': '著者',
-    'universe.authors.desc': '{universe}のクリエーターとコントリビューター。',
-    'universe.contributors': '貢献者',
+    'universe.authors.desc': '{universe}のクリエーターと携わった人',
+    'universe.contributors': '携わった方々',
     'universe.translators': '翻訳者',
-    'universe.authors.notice': '各物語には、その物語に取り組んだ個人が追加されている場合があります。詳細については、もｎの詳細をご覧ください。',
+    'universe.authors.notice': 'それぞれの物語には、その他関わってくださった方が追加されている場合があります。詳細についてはその物語でご確認ください。',
     'universe.createdBy': `作成者`,
     'universe.stories.for': '{universe}の物語',
     'universe.stories.own': '{universe}物語',
@@ -24,6 +24,6 @@ export default {
     'universe.encyclopedia.desc': '{universe}のすべての詳細',
     'universe.fanArt.submit': '作品を投稿する',
     'universe.fanArtHeaderDesc.item': '{universe} ファンアート - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} 個のファンアート投稿',
+    'universe.fanArtHeaderDesc.submit': '{universe} ファンアートを提出する',
     'universe.fanArtHeaderDesc.overview': '{universe} ファンアート'
 };
