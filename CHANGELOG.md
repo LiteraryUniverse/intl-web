@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-04-27 - v2.7.0
+
+* Added Indonesian to story languages
+
 ## 2023-04-22 - v2.6.4
 
 * Added `common.noAccountQuestion`, `common.haveAccountQuestion` and `common.socialLogin` for new entry screens

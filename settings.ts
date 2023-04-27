@@ -147,23 +147,23 @@ export default {
    * Get the array of language codes of supported languages
    * @returns {[String]}
    */
-  supportedLanguages(): string[] {
+  supportedLanguages (): string[] {
     return this.languages.map((lang) => lang.code) || []
   },
-  allSupportedLocales(): string[] {
+  allSupportedLocales (): string[] {
     const supported = []
     this.languages.forEach((lang) =>
       lang.supportedLocales.forEach((locale) => supported.push(locale))
     )
     return supported
   },
-  supportedLocalesForLanguage(languageCode: string): string[] {
+  supportedLocalesForLanguage (languageCode: string): string[] {
     const langDetails = this.languages.find(
       (lang) => lang.code === languageCode
     )
     return [langDetails.code, ...langDetails.supportedLocales]
   },
-  findLanguageCodeByLocale(locale: string): string {
+  findLanguageCodeByLocale (locale: string): string {
     if (locale.length === 2 && this.supportedLanguages().includes(locale)) {
       return locale
     }
@@ -181,7 +181,7 @@ export default {
    * This includes stories supported through the app in addition to those listed here.
    * @returns {({defaultLocale: string, code: string, supportedLocales: [string, string, string, string, string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean})[]}
    */
-  storyLanguages(): LanguageSettingsType[] {
+  storyLanguages (): LanguageSettingsType[] {
     return [
       ...this.languages,
       {
@@ -390,10 +390,18 @@ export default {
         defaultLocale: 'vi-VN',
         supportedLocales: ['vi-VN'],
         rtl: false
+      },
+      {
+        code: 'id',
+        name: 'Indonesian',
+        native: 'Bahasa Indonesia',
+        defaultLocale: 'id-ID',
+        supportedLocales: ['id-ID'],
+        rtl: false
       }
     ]
   },
-  storyLocales(): string[] {
+  storyLocales (): string[] {
     return this.storyLanguages().map((lang) => lang.code)
   },
   /**
@@ -436,7 +444,7 @@ export default {
    * @param countryCode {String} 2-key country string
    * @returns {String} 3-key currency string
    */
-  currencyByCountry(countryCode: string): string {
+  currencyByCountry (countryCode: string): string {
     if (!countryCode) return 'EUR'
     const code = countryCode.toUpperCase()
     switch (code) {
