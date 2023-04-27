@@ -94,14 +94,14 @@ export default {
     'settings.web3.connect': 'あなたのウォレットに接続',
     'settings.web3.address': '接続先アドレス：　{address}',
     'settings.web3.verify': 'アドレスをサインする',
-    'settings.web3.verify.explained': 'このアドレスがお客様のものであることを確認するため、ウォレットの所有権を証明するメッセージに署名していただくようお願いしています。',
-    'settings.web3.verified': '検証済み',
-    'settings.web3.verificationMessage': '文学の宇宙のユーザー{username}を検証しています。コード：　{code}',
-    'settings.web3.unlink': 'ウォレットを取り除く',
-    'settings.web3.linkingMessage': 'ウォレットを文学の宇宙に接続することを確認してください。コード：　{code}',
+    'settings.web3.verify.explained': 'このアドレスがお客様のものであることを検証するにあたり、このウォレットの所有者があなたかどうかを確認するための署名をお願いしています。',
+    'settings.web3.verified': '確認されました。',
+    'settings.web3.verificationMessage': 'Lieterary Universeのユーザー{username}を検証しています。コード：　{code}',
+    'settings.web3.unlink': 'ウォレットの削除',
+    'settings.web3.linkingMessage': 'Lieterary Universeにウォレットを接続することを確認してください。コード：　{code}',
     'settings.web3.linkError': 'このアドレスはすでに私たちのデータベースに登録されており、割り当てることができません。',
     // Reader settings
-    'settings.reader.title': 'リーダーの設定',
+    'settings.reader.title': 'リーダー設定',
     'settings.reader.darkMode': '常にダークモードで表示',
     'settings.reader.asideView': 'マジカルアサイドパネルを表示する',
     'settings.reader.textSize': '文字を大きく表示する',
@@ -111,6 +111,6 @@ export default {
     'settings.accessibility.paragraphStripes': '段落の背景色を交互に変更する',
     'settings.accessibility.paragraphHighlighting': '現在カーソルを置いている段落をハイライト表示します',
     'settings.accessibility.ruler': 'マウスに定規を付ける',
-    'settings.tab.legal': 'Legal documents',
-    'settings.tab.exportDelete': 'Export data & delete account'
+    'settings.tab.legal': '法的文書',
+    'settings.tab.exportDelete': 'データのエキスポートとアカウントの削除'
 };
