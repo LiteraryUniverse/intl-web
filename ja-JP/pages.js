@@ -2,7 +2,7 @@ export default {
     'homepage.welcome': 'ようこそ',
     'homepage.start': 'ジャーニーを始めましょう',
     'homepage.iAm': '私は',
-    'homepage.iAm.aria': '表示されている読者向け、作家向けのいずれかを選択します。',
+    'homepage.iAm.aria': '読者向け、作家向けのいずれかの画面を選択します。',
     'homepage.reader': '読者',
     'homepage.writer': '作家',
     'homepage.reader.title': 'これほどまでに読書が面白かったことはありません',
