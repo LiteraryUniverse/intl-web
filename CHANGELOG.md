@@ -3,6 +3,7 @@
 ## 2023-04-30 - v2.7.1
 
 * Added strings for workshop settings asking about AI generated content
+* Added `genre.postapocalyptic`
 
 ## 2023-04-27 - v2.7.0
 
