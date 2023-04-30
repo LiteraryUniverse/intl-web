@@ -246,5 +246,9 @@ export default {
     'workshop.chapterStatus.scheduled': 'Naplánované',
     'workshop.chapterStatus.published': 'Zveřejněno',
     'workshop.story.continuedIn': 'Které příběhy pokračují v tomto příběhu?',
-    'workshop.story.continuedPlaceholder': 'Vyber příběh z tohoto vesmíru'
+    'workshop.story.continuedPlaceholder': 'Vyber příběh z tohoto vesmíru',
+    'workshop.universe.isAIGenerated': 'Je obsah vesmíru vygenerován pomocí úmělé inteligence?',
+    'workshop.universe.isAIGeneratedTooltip': 'Dejte nám prosím vědět, zda byl nějaký obsah ve vesmíru generován pomocí úmělé inteligence. Tyto informace používáme pro správné označení a vzhledem k tomu, jak jsou programy AI generovány, mohou existovat některá omezení ve funkcionalitě.',
+    'workshop.story.isAIGenerated': 'Je příběh generovaný s úmělou inteligencí?',
+    'workshop.story.isAIGeneratedTooltip': 'Dejte nám prosím vědět, zda byl příběh generován pomocí úmělé inteligence. Tuto informaci používáme pro správné označení a vzhledem k tomu, jak jsou programy AI generovány, mohou existovat některá omezení.'
 };

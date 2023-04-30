@@ -22,5 +22,6 @@ export default {
     'genre.mythology': 'Mythologie',
     'genre.fairytale': 'Conte de fées',
     'genre.superhero': 'Superhéros',
-    'genre.children': 'Enfants'
+    'genre.children': 'Enfants',
+    'genre.postapocalyptic': 'Post-Apocalyptic'
 };

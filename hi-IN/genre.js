@@ -22,5 +22,6 @@ export default {
     'genre.mythology': 'Mythology',
     'genre.fairytale': 'परियों की कहानी',
     'genre.superhero': 'Superhero',
-    'genre.children': 'Children'
+    'genre.children': 'Children',
+    'genre.postapocalyptic': 'Post-Apocalyptic'
 };
