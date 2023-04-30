@@ -23,5 +23,5 @@ export default {
     'genre.fairytale': 'Pohádka',
     'genre.superhero': 'Super hrdina',
     'genre.children': 'Dětské',
-    'genre.postapocalyptic': 'Post-Apocalyptic'
+    'genre.postapocalyptic': 'Post-Apokalyptická'
 };
