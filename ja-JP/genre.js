@@ -22,5 +22,6 @@ export default {
     'genre.mythology': '神話',
     'genre.fairytale': 'おとぎ話',
     'genre.superhero': 'スーパーヒーロー物語',
-    'genre.children': '子ども向け'
+    'genre.children': '子ども向け',
+    'genre.postapocalyptic': 'Post-Apocalyptic'
 };
