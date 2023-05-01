@@ -23,5 +23,7 @@ export default {
     'genre.fairytale': 'Conte de fées',
     'genre.superhero': 'Superhéros',
     'genre.children': 'Enfants',
-    'genre.postapocalyptic': 'Post-Apocalyptic'
+    'genre.postapocalyptic': 'Post-Apocalyptic',
+    'genre.political': 'Political document',
+    'genre.history': 'History'
 };

@@ -23,5 +23,7 @@ export default {
     'genre.fairytale': 'Pohádka',
     'genre.superhero': 'Superhrdinovia',
     'genre.children': 'Deti',
-    'genre.postapocalyptic': 'Post-Apocalyptic'
+    'genre.postapocalyptic': 'Postapokalyptický',
+    'genre.political': 'Political document',
+    'genre.history': 'History'
 };

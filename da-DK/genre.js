@@ -23,5 +23,7 @@ export default {
     'genre.fairytale': 'Eventyr',
     'genre.superhero': 'Superhelten',
     'genre.children': 'Children',
-    'genre.postapocalyptic': 'Post-Apocalyptic'
+    'genre.postapocalyptic': 'Post-Apocalyptic',
+    'genre.political': 'Political document',
+    'genre.history': 'History'
 };
