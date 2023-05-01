@@ -39,7 +39,7 @@ export default {
     'about.team': 'チームの紹介',
     'about.history': '沿革',
     'about.company': '会社について',
-    'about.companyCountry.czechia': 'チェコ共和国',
+    'about.companyCountry.czechia': 'チェコ',
     'about.companyCountry.japan': '日本',
     'about.companyCity.prague': 'プラハ',
     'about.companyCity.sendai': '宮城県仙台市',
