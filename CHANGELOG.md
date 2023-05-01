@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-05-01 - v2.7.2
+
+* Added two new genres
+
 ## 2023-04-30 - v2.7.1
 
 * Added strings for workshop settings asking about AI generated content
