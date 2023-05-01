@@ -24,6 +24,6 @@ export default {
     'genre.superhero': 'Super hrdina',
     'genre.children': 'Dětské',
     'genre.postapocalyptic': 'Post-Apokalyptická',
-    'genre.political': 'Political document',
-    'genre.history': 'History'
+    'genre.political': 'Politický dokument',
+    'genre.history': 'Historie'
 };
