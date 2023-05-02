@@ -27,7 +27,7 @@ export default {
     'homepage.writer.workshopFeatureTitle': '作品作りに必要なものを一つにまとめる場所',
     'homepage.writer.workshopFeatureDesc': '私達のワークショップこれからも進化し続け、あなたの作品作りに必要なものを一つにまとめるためのものです。 それはシンプルなアイデアを驚愕の宇宙関連小説を生んだりと、小説/物語作りに必要なものとなります。',
     'homepage.writer.monetizationFeatureTitle': '収益化',
-    'homepage.writer.monetizationDesc': '仕事をしたらそれなりの支払いがなされるべきで、また常に作家にとって生活の糧になるものを求めています。この収益化の機能は、作家としてなさっていることを正しく評価するものです。あなたのファンが評価している内容を見られる、それぞれすべてのオプションをチェックして見てください。',
+    'homepage.writer.monetizationDesc': '作家には作品作りに相応の対価が支払われ、また、作家として収益につながる作品作りの機会が不変的に与えられるべきと、私たちは強く感じています。この収益化の機能は、作家としてなさっていることを正しく評価するものです。あなたのファンが評価している内容を見られるなど、すべてのオプションをチェックして見てください。',
     'homepage.writer.start': 'あなたのワークショップを設定してください。',
     'homepage.featureSelection': 'これら人気の宇宙関連小説をチェックしてください。',
     'about.title': 'Lieterary Universeについて',
