@@ -50,20 +50,20 @@ export default {
     'plans.feature.fanFiction': 'ファンフィクションの執筆・管理',
     'plans.feature.universeFanArt': 'ファンアートマネージャー',
     'plans.feature.overviewNotes': '物語の概要メモ',
-    'plans.feature.personalNotesStoriesUniverses': '物語と宇宙に関する個人用メモ',
+    'plans.feature.personalNotesStoriesUniverses': '物語と宇宙に関する自分専用メモ',
     'plans.feature.storyReviews': 'ストーリーレビュー',
     'plans.feature.readingLists': 'リーディングリスト',
     'plans.feature.scenesManager': 'シーンマネージャー',
     'plans.feature.glossaries': '翻訳向け用語集',
     'plans.feature.chatSupport': 'チャット支援',
     'plans.currency.select': '通貨の選択',
-    'plans.subscription.ownAlready': '現在ご使用中のプラン',
+    'plans.subscription.ownAlready': '現在、このプランを持っています。',
     'plans.subscription.title': 'サブスクリプション',
     'plans.see': '利用可能なサブスクリプションプランを見る',
     'plans.current.none': '現在あなたはLiterary Universeをサポートしていません。',
     'plans.current.buying': 'ご購入内容の確認に時間がかかる場合があります。お待ちいただけますよう、お願いいたします。',
     'plans.current.heading': '現在のサブスクリプションプラン',
-    'payment.methods.title': '支払いと現金化について',
+    'payment.methods.title': '支払いとマネタイズについて',
     'payment.methods.tabs': '支払い方法',
     'payment.option.title': '支払い方法',
     'payment.option.notFount': '決済方法が保存されていません。',
@@ -71,7 +71,7 @@ export default {
     'payment.option.description': '保存されているお支払い方法は以下の通りです。ここで新しいお支払い方法を保存しておくと、チェックアウトが早くなります。Literary Universeでは、お客様のクレジットカード番号などのお支払い情報を保存したり、処理したりすることはありません。',
     'payment.history.title': '支払履歴',
     'payment.history.tab': '支払履歴',
-    'payment.history.none': '過去の支払い履歴はありません。',
+    'payment.history.none': '支払い履歴はありません。',
     'plans.options.aria': '支払いオプション',
     'plans.options.creditCard': 'クレジットカード',
     'plans.options.creditCardNew': '新規クレジットカード',
@@ -80,7 +80,7 @@ export default {
     'plans.purchase.title': 'Literary Universeのサブスクリプション購入',
     'payment.creditCard.details': 'クレジットカードの詳細情報',
     'payments.zipcode.label': '郵便番号',
-    'payment.card.name': 'カードに記載されている方の名前',
+    'payment.card.name': 'カードに記載されている名前',
     'plans.subscribed.thankYou': 'Literary Universeへのご支援ありがとうございます。',
     'plans.subscribed.periodEnd': 'ご利用期間は{end, date, medium}までです。',
     'plans.subscribed.renewal': `{method, select,
@@ -88,7 +88,7 @@ export default {
     send_invoice {終了時に請求書をお支払いいただくと、契約が更新}
     other {}
   }更新されます。`,
-    'plans.subscribed.paymentMethod': '次回の支払いサイクルにも、お客様の既存の支払い方法が適用されます。',
+    'plans.subscribed.paymentMethod': '次回の支払いの際も、お客様の現在の支払い方法が適用されます。',
     'plans.subscribed.status': `購読状況：{status, select,
     active {アクティブ}
     incomplete {不足情報があります}
@@ -101,10 +101,10 @@ export default {
   }`,
     'payments.changeMethod': '支払い方法の変更',
     'plans.subscribed.willNotRenew': 'は、サイクル終了まで更新されません。',
-    'plans.cancel.button': '購読契約終了',
-    'plans.cancel.question': 'サブスク契約を解除してもよろしいですか？お客様のサブスクリプションは、次回の請求末まで有効です。',
+    'plans.cancel.button': '購読キャンセル',
+    'plans.cancel.question': 'サブスク契約を解除してもよろしいですか？お客様のサブスクリプションは、次回の請求日まで有効です。',
     'plans.cancel.confirmationButton': 'はい、解約をお願いします。',
-    'plans.cancel.failed': '申し訳ありませんが、現時点ではお客様のプランを解約することができませんでした。後ほどもう一度手続きをしてください。',
+    'plans.cancel.failed': '申し訳ありませんが、現時点ではお客様のプランを解約することができませんでした。後ほどもう一度手続きをお願いします。',
     'plans.cancel.restoreBtn': 'サブスクリプションの復元',
     'plans.cancel.restoreFailed': '申し訳ありませんが、現時点では購読の復元ができませんでした。後でもう一度お試しください。',
     'plans.change.button': 'サブスクリプションの変更',
@@ -123,8 +123,8 @@ export default {
     'payments.delete.confirm': '本当に{ending}で{cardType}を削除でよろしいですか？',
     'payment.invoice.status': '請求書のステータス',
     'payment.invoice.statusMessage': `{status, select,
-    draft {ドラフト}
-    open {}
+    draft {暫定価格}
+    open {オープン}
     paid {支払い済み}
     uncollectible {}
     void {無効}
@@ -134,7 +134,7 @@ export default {
     'payment.invoice.pdf': '請求書のpdf',
     'payment.invoice.total': '合計',
     'payment.invoice.what': '請求書詳細',
-    'payment.stripe.powered': 'Powered by ',
+    'payment.stripe.powered': '～で処理',
     'payment.listMethods.card': 'カード',
     'payment.expiresAt': '有効期限は{month}/{year}です。',
     'payment.card.details': `{last4}で無効{type, select,
@@ -143,7 +143,7 @@ export default {
     other {カード}
   }`,
     'payment.options.default': 'デフォルト',
-    'payment.method.add': '新しい支払方法を追加',
+    'payment.method.add': '新しい支払方法の追加',
     'payment.methods.adding': 'お客様のアカウントに新しいお支払い方法が追加されました。',
     'payment.methods.delete': '決済方法の削除',
     'payment.upgradePlan.option': '{plan} - {price}',
@@ -158,11 +158,11 @@ export default {
     'plans.button.seeComparison': 'プランと価格の詳細は、比較ページでご確認ください！',
     'plans.button.chooseThisSubscription': 'このプランを選択する',
     'plans.button.chooseFree': '無料で始める',
-    'plans.features.allInPreviousTiers': '前の階層にあるものすべてを表示',
+    'plans.features.allInPreviousTiers': 'これまでのものは前の階層にあります',
     'plan.button.chooseNow': 'Literary Universeのプランを今すぐ選ぶ',
     'plans.subscription.manage': 'サブスクリプションの管理',
-    'plans.taxMayApply': '* VATおよびその他の現地の税が適用される場合があります。',
+    'plans.taxMayApply': '* VATと地方税が適用される場合があります。',
     'plans.faq.crypto': '暗号決済されますか？',
     'plans.faq.cryptoAnswer': '現在、取り組んでいます。私たちはWeb3の大ファンであり、近い将来、Web3をプラットフォームに統合する方法を探っています。現在、Web3でのログインは可能です。特にクリエイターへの報酬の提供や、クリエイターが受け入れたい支払い方法をすべて選択できるようにするために、このサービスを拡張することを検討しています。',
-    'plans.subscribed.updating': 'サブスクリプション情報を更新するには少し時間がかかる場合があります。お待ちください。'
+    'plans.subscribed.updating': 'サブスクリプション情報を更新するには少し時間がかかる場合があります。お待ちいただけますようお願いいたします。'
 };
