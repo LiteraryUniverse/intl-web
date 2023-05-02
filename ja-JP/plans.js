@@ -63,45 +63,45 @@ export default {
     'plans.current.none': '現在あなたはLiterary Universeをサポートしていません。',
     'plans.current.buying': 'ご購入内容の確認に時間がかかる場合があります。お待ちいただけますよう、お願いいたします。',
     'plans.current.heading': '現在のサブスクリプションプラン',
-    'payment.methods.title': 'ペイメント＆マネタイズ',
+    'payment.methods.title': '支払いと現金化について',
     'payment.methods.tabs': '支払い方法',
     'payment.option.title': '支払い方法',
     'payment.option.notFount': '決済方法が保存されていません。',
-    'payment.option.create': '新しい支払い方法の追加',
-    'payment.option.description': '保存されているお支払い方法の一覧です。ここで新しいお支払い方法を保存しておくと、チェックアウトが早くなります。リテラリー・ユニバースでは、お客様のクレジットカード番号などのお支払い情報を保存したり、処理したりすることはありません。',
+    'payment.option.create': '新たな支払いオプションを追加',
+    'payment.option.description': '保存されているお支払い方法は以下の通りです。ここで新しいお支払い方法を保存しておくと、チェックアウトが早くなります。Literary Universeでは、お客様のクレジットカード番号などのお支払い情報を保存したり、処理したりすることはありません。',
     'payment.history.title': '支払履歴',
     'payment.history.tab': '支払履歴',
-    'payment.history.none': '過去の支払いに関する記録はありません。',
-    'plans.options.aria': '支払い方法',
+    'payment.history.none': '過去の支払い履歴はありません。',
+    'plans.options.aria': '支払いオプション',
     'plans.options.creditCard': 'クレジットカード',
-    'plans.options.creditCardNew': '新クレジットカード',
-    'plans.options.existingCards': '保存されたクレジットカード',
+    'plans.options.creditCardNew': '新規クレジットカード',
+    'plans.options.existingCards': 'クレジットカード情報を保存しました',
     'plans.purchase.action': '購読する',
-    'plans.purchase.title': '文学の宇宙のサブスクリプションを購入する',
-    'payment.creditCard.details': 'クレジットカードの詳細',
+    'plans.purchase.title': 'Literary Universeのサブスクリプション購入',
+    'payment.creditCard.details': 'クレジットカードの詳細情報',
     'payments.zipcode.label': '郵便番号',
-    'payment.card.name': 'カードの名前',
-    'plans.subscribed.thankYou': '文学の宇宙を支援していただきありがとうございます。',
+    'payment.card.name': 'カードに記載されている方の名前',
+    'plans.subscribed.thankYou': 'Literary Universeへのご支援ありがとうございます。',
     'plans.subscribed.periodEnd': 'ご利用期間は{end, date, medium}までです。',
     'plans.subscribed.renewal': `{method, select,
     charge_automatically {契約終了時には自動的に更新}
     send_invoice {終了時に請求書をお支払いいただくと、契約が更新}
     other {}
   }更新されます。`,
-    'plans.subscribed.paymentMethod': '次のサイクルのお支払いには、お客様のデフォルトのお支払い方法が使用されます。',
+    'plans.subscribed.paymentMethod': '次回の支払いサイクルにも、お客様の既存の支払い方法が適用されます。',
     'plans.subscribed.status': `購読状況：{status, select,
     active {アクティブ}
-    incomplete {何かが足りない}
-    incomplete_expired {何かが足りない}
+    incomplete {不足情報があります}
+    incomplete_expired {不足情報があります}
     trialing {トライアル}
-    past_due {お支払いが滞っています}
+    past_due {お支払いがされていません}
     canceled {キャンセル}
     unpaid {未払い}
     other {}
   }`,
     'payments.changeMethod': '支払い方法の変更',
-    'plans.subscribed.willNotRenew': 'は、サイクルの終わりには更新されません。',
-    'plans.cancel.button': '購読解除',
+    'plans.subscribed.willNotRenew': 'は、サイクル終了まで更新されません。',
+    'plans.cancel.button': '購読契約終了',
     'plans.cancel.question': '月額プランをキャンセルしてもよろしいですか？お客様のサブスクリプションは、請求サイクルの最後まで有効です。',
     'plans.cancel.confirmationButton': 'はい、解約したいと思います。',
     'plans.cancel.failed': '申し訳ありませんが、現時点ではお客様のプランをキャンセルすることができませんでした。後でもう一度お試しください。',
