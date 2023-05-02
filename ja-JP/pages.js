@@ -7,7 +7,7 @@ export default {
     'homepage.writer': '作家',
     'homepage.reader.title': 'これほどまでに読書が面白かったことはありません',
     'homepage.reader.readingTitle': '特別な読書体験',
-    'homepage.reader.readingDesc': 'Lieterary Universeであなたの好きな宇宙フィクションをもっと深く味わってください。 Lieterary Universeは同じような宇宙関連物語を扱うサイトとつながっています。そうすることで読者は宇宙百科事典にすぐアクセスすることができます。',
+    'homepage.reader.readingDesc': 'Lieterary Universeであなたの好きな宇宙フィクションをもっと深く味わってください。 Lieterary Universeは同じような宇宙関連物語を扱うサイトとつながっていて、そのサイトからすぐに宇宙百科事典にアクセスできます。',
     'homepage.reader.favoriteTitle': 'お気に入りの物語や作家についてもっと発見しましょう。',
     'homepage.reader.favoriteDesc': '宇宙関連辞典や作者のブログは、お気に入りの物語、設定、作者について知ることができる機能の一部にしかすぎません。',
     'homepage.reader.communityTitle': 'コミュニティに参加しましょう。',
