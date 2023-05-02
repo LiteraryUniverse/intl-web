@@ -15,15 +15,15 @@ export default {
     'universe.authors.desc': '{universe}のクリエーターと携わった人',
     'universe.contributors': '携わった方々',
     'universe.translators': '翻訳者',
-    'universe.authors.notice': 'それぞれの物語には、その他関わってくださった方が追加されている場合があります。詳細についてはその物語でご確認ください。',
+    'universe.authors.notice': 'それぞれの物語には、その他関わってくださった方がいます。詳細については各物語でご確認ください。',
     'universe.createdBy': `作成者`,
     'universe.stories.for': '{universe}の物語',
     'universe.stories.own': '{universe}物語',
     'universe.stories.desc': '{universe}のキャノニカルストーリー',
     'universe.encyclopedia.title': '{universe}百科事典',
-    'universe.encyclopedia.desc': '{universe}のすべての詳細',
+    'universe.encyclopedia.desc': '{universe}の詳細',
     'universe.fanArt.submit': '作品を投稿する',
     'universe.fanArtHeaderDesc.item': '{universe} ファンアート - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} ファンアートを提出する',
+    'universe.fanArtHeaderDesc.submit': '{universe} ファンアートを投稿する',
     'universe.fanArtHeaderDesc.overview': '{universe} ファンアート'
 };
