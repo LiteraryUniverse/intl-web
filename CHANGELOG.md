@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-05-04 - v2.8.0
+
+* Added Latin and Esperanto as story languages
+
 ## 2023-05-01 - v2.7.2
 
 * Added two new genres

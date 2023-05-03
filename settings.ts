@@ -398,7 +398,23 @@ export default {
         defaultLocale: 'id-ID',
         supportedLocales: ['id-ID'],
         rtl: false
-      }
+      },
+      {
+        code: 'la',
+        name: 'Latin',
+        native: 'lingua Latīna',
+        defaultLocale: 'la-EU',
+        supportedLocales: ['la-EU', 'la-HU', 'la-HR', 'la-PL'],
+        rtl: false
+      },
+      {
+        code: 'eo',
+        name: 'Esperanto',
+        native: 'Lingvo Internacia',
+        defaultLocale: 'eo-UN',
+        supportedLocales: ['eo-UN', 'eo-US', 'eo-HU', 'eo-CN', 'eo-VA', 'eo-HR', 'eo-DE', 'eo-NZ'],
+        rtl: false
+      },
     ]
   },
   storyLocales (): string[] {
