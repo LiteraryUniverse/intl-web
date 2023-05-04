@@ -23,7 +23,7 @@ export default {
     'genre.fairytale': 'Cuento de hadas',
     'genre.superhero': 'Superhéroe',
     'genre.children': 'Niños',
-    'genre.postapocalyptic': 'Post-Apocalyptic',
-    'genre.political': 'Political document',
-    'genre.history': 'History'
+    'genre.postapocalyptic': 'Postapocalíptico',
+    'genre.political': 'Documento político',
+    'genre.history': 'Historia'
 };
