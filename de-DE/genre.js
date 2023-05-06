@@ -25,5 +25,6 @@ export default {
     'genre.children': 'Kinder',
     'genre.postapocalyptic': 'Post-Apokalyptisch',
     'genre.political': 'Politisches Dokument',
-    'genre.history': 'Geschichte'
+    'genre.history': 'Geschichte',
+    'genre.iseaki': 'Isekai'
 };
