@@ -24,6 +24,7 @@ export default {
     'genre.superhero': 'Superhrdinovia',
     'genre.children': 'Deti',
     'genre.postapocalyptic': 'Postapokalyptický',
-    'genre.political': 'Political document',
-    'genre.history': 'History'
+    'genre.political': 'Politický dokument',
+    'genre.history': 'História',
+    'genre.iseaki': 'Isekai'
 };
