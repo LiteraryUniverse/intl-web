@@ -3,6 +3,7 @@
 ## 2023-05-04 - v2.8.0
 
 * Added Latin and Esperanto as story languages
+* Add Isekai genre
 
 ## 2023-05-01 - v2.7.2
 
