@@ -1,6 +1,6 @@
 export default {
     'writer.menu.optionsAria': 'エディターのオプションメニュー',
-    'writer.menu.saveOptionsAria': 'オプションの保存',
+    'writer.menu.saveOptionsAria': '保存オプション',
     'writer.undo': '取り消し',
     'writer.redo': 'やり直し',
     'writer.ul': '順不同のリスト',
