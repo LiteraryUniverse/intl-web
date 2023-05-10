@@ -265,14 +265,6 @@ export default {
         rtl: false
       },
       {
-        code: 'eo',
-        name: 'Esperanto',
-        native: 'Esperanto',
-        defaultLocale: 'eo-UY',
-        supportedLocales: ['eo-UY'],
-        rtl: false
-      },
-      {
         code: 'et',
         name: 'Estonian',
         native: 'eesti keel',
@@ -412,7 +404,7 @@ export default {
         name: 'Esperanto',
         native: 'Lingvo Internacia',
         defaultLocale: 'eo-UN',
-        supportedLocales: ['eo-UN', 'eo-US', 'eo-HU', 'eo-CN', 'eo-VA', 'eo-HR', 'eo-DE', 'eo-NZ'],
+        supportedLocales: ['eo-UN', 'eo-US', 'eo-HU', 'eo-CN', 'eo-VA', 'eo-HR', 'eo-DE', 'eo-NZ', 'eo-UY'],
         rtl: false
       },
     ]

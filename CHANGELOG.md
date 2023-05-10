@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-05-10 - v2.8.1
+
+* Fix double Esperanto value
+
 ## 2023-05-06 - v2.8.0
 
 * Added Latin and Esperanto as story languages
