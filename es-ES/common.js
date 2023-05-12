@@ -249,5 +249,6 @@ export default {
     'banner.seePlans': 'Visita nuestra página de suscripciones si quieres más información.',
     'common.noAccountQuestion': '¿Aún no tienes una cuenta?',
     'common.haveAccountQuestion': '¿Ya tienes una cuenta?',
-    'common.socialLogin': 'Inicia sesión desde otros servicios'
+    'common.socialLogin': 'Inicia sesión desde otros servicios',
+    'common.viewMore': 'View more'
 }    /* eslint-enable max-len */;
