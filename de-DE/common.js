@@ -247,7 +247,9 @@ export default {
     create: 'Erstelle',
     'banner.support': 'Literary Universe wird von Nutzern wie Ihnen unterstützt! Bitte denken Sie darüber nach, eines unserer Abonnements abzuschließen, um unabhängig zu bleiben und die Veranstaltungen von Literary Universe zu verbessern!',
     'banner.seePlans': 'Besuchen Sie unsere Plan-Seite für weitere Informationen.',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services'
+    'common.noAccountQuestion': 'Haben Sie noch kein Konto?',
+    'common.haveAccountQuestion': 'Haben Sie bereits ein Konto?',
+    'common.socialLogin': 'Mit anderen Diensten anmelden',
+    'common.viewMore': 'Mehr ansehen',
+    'common.overview': 'Übersicht'
 }    /* eslint-enable max-len */;

@@ -249,5 +249,7 @@ export default {
     'banner.seePlans': 'Visit our plans page for more information.',
     'common.noAccountQuestion': 'Don\'t have an account?',
     'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services'
+    'common.socialLogin': 'Login with other services',
+    'common.viewMore': 'View more',
+    'common.overview': 'Overview'
 }    /* eslint-enable max-len */;

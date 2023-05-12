@@ -31,7 +31,7 @@ export default {
     group {члены вашей группы}
     universe {соавторы и поклонники вселенной}
     organization {члены вашей организации}
-    other {вы и приглашенные вами люди}
+    other {вы и приглашённые вами люди}
   } могут видеть это событие`,
   'events.visibility.private': 'Private - only people you invite will see the event',
   'events.inviting': 'Can people who see this event invite others?',
