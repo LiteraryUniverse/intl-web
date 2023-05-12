@@ -249,5 +249,6 @@ export default {
     'banner.seePlans': '詳しくは、プランのページをご覧ください。',
     'common.noAccountQuestion': 'Don\'t have an account?',
     'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services'
+    'common.socialLogin': 'Login with other services',
+    'common.viewMore': 'View more'
 }    /* eslint-enable max-len */;
