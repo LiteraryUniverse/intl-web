@@ -250,5 +250,6 @@ export default {
     'common.noAccountQuestion': 'Nemáte účet?',
     'common.haveAccountQuestion': 'Již máte účet?',
     'common.socialLogin': 'Přihlášení pomocí jiných služeb',
-    'common.viewMore': 'View more'
+    'common.viewMore': 'Zobrazit více',
+    'common.overview': 'Přehled'
 }    /* eslint-enable max-len */;
