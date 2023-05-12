@@ -4,6 +4,7 @@
 
 * Fix double Esperanto value
 * Add `common.viewMore`
+* Add `common.overview`
 
 ## 2023-05-06 - v2.8.0
 
