@@ -250,5 +250,6 @@ export default {
     'common.noAccountQuestion': '¿Aún no tienes una cuenta?',
     'common.haveAccountQuestion': '¿Ya tienes una cuenta?',
     'common.socialLogin': 'Inicia sesión desde otros servicios',
-    'common.viewMore': 'View more'
+    'common.viewMore': 'View more',
+    'common.overview': 'Overview'
 }    /* eslint-enable max-len */;
