@@ -233,5 +233,7 @@ export default {
     'workshop.universe.isAIGenerated': 'この宇宙のコンテンツはAIで生成されたものですか？',
     'workshop.universe.isAIGeneratedTooltip': '宇宙関連コンテンツでAIで生成されたもの、または、一部AIの機能を使ったものがあれば教えてください。その情報をラベルに記載します。AIプログラム使用に制限と規定がある場合があるからです。',
     'workshop.story.isAIGenerated': '物語はAIで生成されたものですか？',
-    'workshop.story.isAIGeneratedTooltip': 'AIで生成、または、一部AIの機能を使って生成された作品があれば教えてください。その情報をラベルに記載します。AIプログラム使用に制限と規定がある場合があるからです。'
+    'workshop.story.isAIGeneratedTooltip': 'AIで生成、または、一部AIの機能を使って生成された作品があれば教えてください。その情報をラベルに記載します。AIプログラム使用に制限と規定がある場合があるからです。',
+    'workshop.publicationAgreement.aria': 'Publication agreement for work',
+    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.'
 };
