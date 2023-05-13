@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2023-05-13 - v2.8.2
+
+* Added strings for workshop legal agreement
+* Fix typo in Isekai genre id
+
 ## 2023-05-12 - v2.8.1
 
 * Fix double Esperanto value
