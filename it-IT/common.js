@@ -91,6 +91,7 @@ export default {
     community {Community Guidelines}
     privacy {Privacy Policy}
     copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
     other {Agreement}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nuova versione ({newVersion}) di questo documento entrerà in vigore il {effectiveAt, date}.',
