@@ -250,5 +250,7 @@ export default {
     'workshop.universe.isAIGenerated': 'Je obsah vesmíru vygenerován pomocí úmělé inteligence?',
     'workshop.universe.isAIGeneratedTooltip': 'Dejte nám prosím vědět, zda byl nějaký obsah ve vesmíru generován pomocí úmělé inteligence. Tyto informace používáme pro správné označení a vzhledem k tomu, jak jsou programy AI generovány, mohou existovat některá omezení ve funkcionalitě.',
     'workshop.story.isAIGenerated': 'Je příběh generovaný s úmělou inteligencí?',
-    'workshop.story.isAIGeneratedTooltip': 'Dejte nám prosím vědět, zda byl příběh generován pomocí úmělé inteligence. Tuto informaci používáme pro správné označení a vzhledem k tomu, jak jsou programy AI generovány, mohou existovat některá omezení.'
+    'workshop.story.isAIGeneratedTooltip': 'Dejte nám prosím vědět, zda byl příběh generován pomocí úmělé inteligence. Tuto informaci používáme pro správné označení a vzhledem k tomu, jak jsou programy AI generovány, mohou existovat některá omezení.',
+    'workshop.publicationAgreement.aria': 'Publication agreement for work',
+    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.'
 };
