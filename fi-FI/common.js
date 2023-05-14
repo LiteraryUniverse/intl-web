@@ -91,6 +91,7 @@ export default {
     community {Community Guidelines}
     privacy {Privacy Policy}
     copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
     other {Agreement}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Tämän asiakirjan uusi versio ({newVersion}) tulee voimaan {effectiveAt, date}.',

@@ -87,12 +87,13 @@ export default {
     'common.legal.privacy': 'プライバシーポリシー',
     'common.legal.copyright': '著作権規約',
     'common.legal.versionDisplay': `{type, select,
-    tos {利用規約}
-    community {コミュニティガイドライン}
-    privacy {プライバシーポリシー}
-    copyright {著作権契約}
-    other {契約}
-  } バージョン {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'この文書の新バージョン（{newVersion}）は、{effectiveAt, date}に有効になります。',
     'common.legal.disclaimer': '© {year} すべての文章の著作権は、それぞれの著者に帰属します。',
     'premium.only.title': '会員ランクが十分ではありません',

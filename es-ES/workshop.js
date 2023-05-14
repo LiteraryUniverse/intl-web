@@ -245,5 +245,7 @@ export default {
     'workshop.universe.isAIGenerated': '¿El contenido de este universo está generado por una IA?',
     'workshop.universe.isAIGeneratedTooltip': 'Por favor, haznos saber si parte del contenido del universo está generado por o con la ayuda de una IA. Usamos esta información para mejorar nuestra categorización debido a cómo están generados los programas de IA estas pueden tener ciertas limitaciones y restricciones.',
     'workshop.story.isAIGenerated': '¿Esta historia está generada por IA?',
-    'workshop.story.isAIGeneratedTooltip': 'Por favor, haznos saber si parte de la historia está generada por o con la ayuda de una IA. Usamos esta información para mejorar nuestra categorización debido a cómo están generados los programas de IA estas pueden tener ciertas limitaciones y restricciones.'
+    'workshop.story.isAIGeneratedTooltip': 'Por favor, haznos saber si parte de la historia está generada por o con la ayuda de una IA. Usamos esta información para mejorar nuestra categorización debido a cómo están generados los programas de IA estas pueden tener ciertas limitaciones y restricciones.',
+    'workshop.publicationAgreement.aria': 'Publication agreement for work',
+    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.'
 };

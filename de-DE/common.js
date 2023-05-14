@@ -87,11 +87,12 @@ export default {
     'common.legal.privacy': 'Datenschutzrichtlinie',
     'common.legal.copyright': 'Copyright-Vereinbarung',
     'common.legal.versionDisplay': `{type, select,
-    tos {Nutzungsbedingung}
-    community {Gemeinschaftsrichtlinien}
-    privacy {Datenschutzerklärung}
-    copyright {Urheberrechtsvereinbarung}
-    other {Vereinbarung}
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    other {Agreement}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Eine neue Version ({newVersion}) dieses Dokuments tritt am {effectiveAt, date} in Kraft.',
     'common.legal.disclaimer': '© {year} Alle Rechte vorbehalten, alle Texte gehören ihren jeweiligen Autoren.',

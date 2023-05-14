@@ -87,12 +87,13 @@ export default {
     'common.legal.privacy': 'Zásady ochrany osobních údajů',
     'common.legal.copyright': 'Prohlášení o autorských právech',
     'common.legal.versionDisplay': `{type, select,
-    tos {Podmínky služby}
-    community {Komunitní zásady}
-    privacy {Zásady ochrany osobních údajů}
-    copyright {Ochrana autorských práv}
-    other {Dohoda}
-  } Verze {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nová verze ({newVersion}) tohoto dokumentu vstoupí v platnost dne {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich příslušným autorům.',
     'premium.only.title': 'Nedostatečné hodnost členství',
