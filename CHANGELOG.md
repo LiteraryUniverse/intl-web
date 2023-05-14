@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-05-1X - v2.9.0
+
+* Add descriptions for genres
+
 ## 2023-05-13 - v2.8.2
 
 * Added strings for workshop legal agreement
