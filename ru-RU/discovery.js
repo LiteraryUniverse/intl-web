@@ -28,28 +28,32 @@ export default {
     'discover.searchUniverse.description': 'Поиск вселенных',
     'discover.search.storyStatus': 'Состояние прогресса истории',
     'story.status.complete': 'Закончена',
-    'story.status.inProgress': 'В процессе разработки',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.status.inProgress': 'В разработке',
+    'discover.search.universeConnection': 'Подключение истории к вселенной',
+    'story.universeRelation.standalone': 'Отдельная история',
+    'story.universeRelation.fanFiction': 'Фанфик',
+    'story.universeRelation.universe': 'Часть вселенной',
+    'discover.search.rating': 'Возрастной рейтинг',
+    'discover.search.license': 'Лицензия на авторское право',
+    'discover.search.language': 'Язык',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Ни одна вселенная не соответствует вашим параметрам}
+        one {Найдена 1 вселенная}
+        few {Найдено # вселенные}
+        many {Найдено # вселенных}
+        other {Найдено # вселенных}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Ни одна история не соответствует вашим параметрам}
+        one {Найдена 1 история}
+        few {Найдено # истории}
+        many {Найдено # историй}
+        other {Найдено # историй}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discover.viewSelection.aria': 'Просмотр выбранного',
+    'discover.searchDisplay.covers': 'Список обложек',
+    'discover.searchDisplay.list': 'Компактный список',
+    'discover.includesAds': 'Эта работа имеет размещение продукта или включает в себя другие формы рекламы.',
+    'discovery.featured.universes': 'Рекомендуемые вселенные',
+    'discovery.featured.stories': 'Рекомендуемые истории'
 };
