@@ -1,222 +1,241 @@
 export default {
     'workshop.title': 'Ваша работа',
-    'workshop.noneassigned': 'You have not been assigned any yet.',
-    'workshop.notavailable': 'This feature is not yet available.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.noneassigned': 'Вы ещё ничего не назначили.',
+    'workshop.notavailable': 'Эта функция пока недоступна.',
+    'workshop.none': `У вас нет {type, select,
+      universe {вселенной. Создайте её прямо сейчас}
+      story {истории. Создайте её прямо сейчас}
+      fanfiction {фанфика. Создайте его прямо сейчас}
       other {}
-    }. Create one now!`,
-    'workshop.collab': 'Collaborative work',
-    'workshop.betareadings': 'Beta readings',
-    'workshop.translations': 'Translations',
-    'workshop.createnew': 'Create new...',
-    'workshop.story.standalone': 'Standalone story',
-    'workshop.story.standalone.desc': 'This is a standalone story.',
-    'workshop.controlpanel': '{name} control panel',
-    'workshop.universe.page': 'Universe page',
-    'workshop.fictionaltime': 'Fictional time',
-    'workshop.dashboard.name': '{name} dashboard',
-    'workshop.stories.in': 'Stories in {universe}',
-    'workshop.universe.nostories': 'There are no stories in this universe.',
-    'workshop.story.chapter.add': 'New chapter',
-    'workshop.universe.new': 'Create a new universe',
-    'workshop.universe.publish': 'Publish universe',
-    'workshop.universe.publishing.notice': 'If you do not publish the universe, it will be published automatically when the first story connected to the universe is published.',
-    'workshop.universe.settings': '{universe} universe settings',
-    'workshop.universe.publishedOn': 'This universe has been published on {date, date, long} {date, time, short}',
-    'workshop.universe.description': 'Universe description',
-    'workshop.settings.title': 'Title',
-    'workshop.description': 'Description',
-    'workshop.language.primary': 'Primary language',
-    'workshop.publication.options': 'Publication options',
-    'workshop.rating': 'General rating',
-    'workshop.universe.rating.desc': 'Stories and fanfiction above this rating will be hidden from the universe page listing from anonymous users and users who are not of the appropriate age.',
-    'workshop.universe.license': 'Universe license',
-    'workshop.universe.genre.pick': 'Select genre for the universe',
-    'workshop.story.genre.pick': 'Select genres for the story',
-    'workshop.cover': 'Cover',
-    'workshop.nothingtosee': 'Nothing to see here...',
-    'workshop.story.cannon': 'Canon story',
-    'workshop.story.cannon.desc': 'This story is canonical in {universe} universe.',
-    'workshop.story.cannon.desc.create': 'This story will be created as a canonical story in {universe} universe.',
-    'workshop.story.fanfiction.search': 'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
-    'workshop.story.error.nogenres': 'You need to select at least one genre.',
-    'workshop.story.error.toomanygenres': 'Only two genres per story are allowed.',
-    'workshop.story.error.fanfiction.selectuniverse': 'You need to select original universe for your fan fiction!',
-    'workshop.story.error.tags.toomany': 'You can only have 10 tags per story.',
-    'workshop.story.new': 'Create a new story',
-    'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
-    'workshop.settings.edit': 'Edit settings',
-    'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
-    'workshop.story.settings': 'Story settings',
-    'workshop.settings.basic': 'Basic settings',
-    'workshop.settings.genres': 'Genres (max 2)',
-    'workshop.story.license': 'Story license',
-    'workshop.story.settings.universe': 'Universe settings',
-    'workshop.settings.tags': 'Tags',
-    'workshop.revision': 'Revision',
-    'workshop.revisions.title': '{story}: {chapter} Revisions',
-    'workshop.revisions.current': 'Current draft',
-    'workshop.revisions.new.beta': 'Create a new revision out of the draft.',
-    'workshop.revisions.new.public': 'Create a new public revision out of the draft.',
-    'workshop.revisions.toeditor': 'Go to the editor',
-    'workshop.revisions.comments': 'Revision comments',
-    'workshop.revisions.comments.title': '{story}: {chapter} - Revision {revision} - Comments',
+    }!`,
+    'workshop.collab': 'Совместная работа',
+    'workshop.betareadings': 'Читатели-тестировщиков',
+    'workshop.translations': 'Переводы',
+    'workshop.createnew': 'Создать новый...',
+    'workshop.story.standalone': 'Отдельная история',
+    'workshop.story.standalone.desc': 'Это отдельная история.',
+    'workshop.controlpanel': 'Панель управления {name}',
+    'workshop.universe.page': 'Страница вселенной',
+    'workshop.fictionaltime': 'Время фанфика',
+    'workshop.dashboard.name': 'Панель управления {name}',
+    'workshop.stories.in': 'Истории в: {universe}',
+    'workshop.universe.nostories': 'В этой вселенной нет историй.',
+    'workshop.story.chapter.add': 'Новая глава',
+    'workshop.universe.new': 'Создать новую вселенную',
+    'workshop.universe.publish': 'Опубликовать вселенную',
+    'workshop.universe.publishing.notice': 'Если вы не опубликуете вселенную, она будет опубликована автоматически, когда будет опубликована первая история, связанная с этой вселенной.',
+    'workshop.universe.settings': 'Настройки вселенной {universe}',
+    'workshop.universe.publishedOn': 'Эта вселенная была опубликована {date, date, long} {date, time, short}',
+    'workshop.universe.description': 'Описание вселенной',
+    'workshop.settings.title': 'Название',
+    'workshop.description': 'Описание',
+    'workshop.language.primary': 'Основной язык',
+    'workshop.publication.options': 'Настройки публикации',
+    'workshop.rating': 'Общий рейтинг',
+    'workshop.universe.rating.desc': 'Истории и фанфики выше этого рейтинга будут скрыты от просмотра на странице вселенной анонимными пользователями и пользователями, не достигшими соответствующего возраста.',
+    'workshop.universe.license': 'Лицензия вселенной',
+    'workshop.universe.genre.pick': 'Выберите жанр для вселенной',
+    'workshop.story.genre.pick': 'Выберите жанры для истории',
+    'workshop.cover': 'Обложка',
+    'workshop.nothingtosee': 'Здесь ничего нет...',
+    'workshop.story.cannon': 'Каноничная история',
+    'workshop.story.cannon.desc': 'Эта история канонична во вселенной {universe}.',
+    'workshop.story.cannon.desc.create': 'Эта история будет создана как каноническая история во вселенной {universe}.',
+    'workshop.story.fanfiction.search': 'Введите название вселенной (она должна быть в вашей библиотеке). Затем выберите из предложенных вариантов.',
+    'workshop.story.error.nogenres': 'Вам необходимо выбрать хотя бы один жанр.',
+    'workshop.story.error.toomanygenres': 'Разрешено только два жанра на историю.',
+    'workshop.story.error.fanfiction.selectuniverse': 'Вы должны выбрать оригинальную вселенную для своего фанфика!',
+    'workshop.story.error.tags.toomany': 'В одной истории может быть только 10 меток.',
+    'workshop.story.new': 'Создать новую историю',
+    'workshop.story.publishing.notice': 'История будет опубликована автоматически после публикации первой главы.',
+    'workshop.settings.edit': 'Изменить настройки',
+    'workshop.story.publishedOn': 'Эта история была опубликована {date, date, long} {date, time, short}',
+    'workshop.story.settings': 'Настройки истории',
+    'workshop.settings.basic': 'Основные настройки',
+    'workshop.settings.genres': 'Жанры (не более 2)',
+    'workshop.story.license': 'Лицензия истории',
+    'workshop.story.settings.universe': 'Настройки вселенной',
+    'workshop.settings.tags': 'Метки',
+    'workshop.revision': 'Пересмотр',
+    'workshop.revisions.title': '{story}: {chapter} пересмотров',
+    'workshop.revisions.current': 'Текущий черновик',
+    'workshop.revisions.new.beta': 'Создать новый пересмотр из черновика.',
+    'workshop.revisions.new.public': 'Создать новый публичный пересмотр из черновика.',
+    'workshop.revisions.toeditor': 'Перейти к редактору',
+    'workshop.revisions.comments': 'Комментарии к пересмотру',
+    'workshop.revisions.comments.title': '{story}: {chapter} - пересмотр {revision} - комментариев',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+      beta {для читателей-тестировщиков}
+      readers {публичное}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
-    'workshop.revisions.comments.norevision': 'You need to create a revision first.',
-    'workshop.revisions.comments.select': 'Select revision',
-    'workshop.collaborators.noresults': 'No results',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
-    'workshop.collaborators.language.add': 'Create a new translation',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
-    'workshop.revisions.beta.none': 'No revisions at this time.',
-    'reader.asidetoggle': 'Toggle aside information',
-    'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
-    'workshop.cover.alt': 'cover image',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.revisions.comments.norevision': 'Сначала нужно создать пересмотр.',
+    'workshop.revisions.comments.select': 'Выберите пересмотр',
+    'workshop.collaborators.noresults': 'Ничего не найденo',
+    'workshop.collaborators.add.beta': 'Добавить читателя-тестировщика',
+    'workshop.collaborators.add.collaborator': 'Добавить соавтора',
+    'workshop.collaborators.add.translator': 'Добавить переводчика',
+    'workshop.collaborators.language.add': 'Создать новый перевод',
+    'workshop.translations.stories': 'Переводы - истории',
+    'workshop.translations.universes': 'Переводы - вселенные',
+    'workshop.revisions.beta.none': 'Пока нет пересмотров.',
+    'reader.asidetoggle': 'Информация в стороне',
+    'workshop.translation.original': 'Оригинал:',
+    'workshop.translation.original.title': 'Оригинальное название:',
+    'workshop.translation.original.description': 'Оригинальное описание:',
+    'workshop.translation.original.cover': 'Оригинальная обложка',
+    'workshop.translation.original.tags': 'Оригинальные метки',
+    'workshop.cover.alt': 'обложка',
+    'workshop.translation.updatedOrig': 'Последнее обновление оригинала: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'Последнее обновление перевода: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'Последний пересмотр {revision, number}, оригинала: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'Последний пересмотр {revision, number}, перевода: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.collaborators.premium': `Чтобы добавить больше {type, select,
+    collaborator {соавторов}
+    beta {читателей-тестировщиков}
+    translator {переводчиков}
     other {}
-  }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+  }, вам нужно повысить свой уровень участника.`,
+    'workshop.collaborators.requests.sent': 'Отправленные запросы',
+    'workshop.collaborators.requests.invite': `Вы были приглашены стать {role, select,
+    beta {читателем-тестировщиком}
+    translator {переводчиком}
+    collaborator {соавтором}
     other {}
-  } for the following:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
+  }:`,
+    'workshop.collaborators.requests.dashboard': `Вас пригласили стать соавтором {count, plural,
+    one {одной литературной работы}
+    few {# литературных работ}
+    many {# литературных работ}
+    other {# литературных работ}
   }.`,
-    'workshop.collaborators.language.added': 'Language added',
-    'workshop.story.noChaptersFound': 'No chapters found.',
-    'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
-    'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
-    'workshop.encSettings': 'Encyclopedia settings',
-    'workshop.collaborators.removeUser': 'Remove user',
-    'workshop.collaborators.cancelInvite': 'Cancel invite',
-    'workshop.universe.createFirstStory': 'Create the first story',
-    'workshop.storylines': 'Storylines',
-    'workshop.scenesManager': 'Scenes Manager',
-    'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
-    'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
-    'workshop.story.notes.title': 'Your notes for {storyTitle}',
-    'workshop.story.notes.desc': 'Overview notes for the story.',
-    'workshop.story.notes.tile': 'Overview notes',
-    'workshop.hideOrgs': 'Hide content from organizations',
-    'workshop.translation.premium': 'In order to add translations, you need to have at least Explorer subscription.',
-    'workshop.story.finished': 'Story is complete',
-    'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
-    'workshop.sharing.publicURL': 'Public version',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
-    'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
-    'workshop.fictionalTime.createNow': 'Create one now!',
-    'workshop.fictionalTime.createTitle': 'Create a new fictional time',
-    'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
-    'workshop.fictionalTime.timeName': 'Time name',
-    'workshop.fictionalTime.basicInfo': 'Basic information',
-    'workshop.fictionalTime.timeSetup': 'Time setup',
-    'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date (Gregorian calendar)?',
-    'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
-    'workshop.fictionalTime.declarationBefore': 'Before units',
-    'workshop.fictionalTime.declarationAfter': 'After units',
-    'workshop.fictionalTime.declarationNone': 'None',
-    'workshop.fictionalTime.units': 'Units',
-    'workshop.fictionalTime.ETStart': 'Starting date of this time',
-    'workshop.fictionalTime.unitsDescFirst': 'How many units are there in this unit from milliseconds?',
-    'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
-    'workshop.fictionalTime.unitsName': 'Unit name',
-    'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
-    'workshop.fictionalTime.unitAdd': 'Add unit',
-    'workshop.fictionalTime.clocks': 'Clocks',
-    'workshop.fictionalTime.unitTransfer': 'Transfer units',
-    'fictionalTime.pageStartElapsedTime': 'Time elapsed since opening this page',
-    'fictionalTime.currentTime': 'Current time',
-    'workshop.shoppingExternal.options': 'External purchase options',
-    'workshop.shoppingExternal.explainer': 'If your story is sold elsewhere you can set the links here. The links will then show instead of the content or at the end of the content you choose to preview.',
-    'workshop.shoppingExternal.amazonStore': 'Amazon store',
+    'workshop.collaborators.language.added': 'Язык добавлен',
+    'workshop.story.noChaptersFound': 'Главы не найдены.',
+    'workshop.fanfic.needUniverseInLibrary': 'Существует множество вселенных. Пожалуйста, сначала добавьте те, в которых вы хотите писать, в свою библиотеку, чтобы мы могли их найти.',
+    'workshop.fanfic.findUniverse': 'Найдите удивительную вселенную!',
+    'workshop.encSettings': 'Настройки энциклопедии',
+    'workshop.collaborators.removeUser': 'Удалить пользователя',
+    'workshop.collaborators.cancelInvite': 'Отменить приглашение',
+    'workshop.universe.createFirstStory': 'Создать первую историю',
+    'workshop.storylines': 'Истории',
+    'workshop.scenesManager': 'Менеджер сцен',
+    'workshop.collaborators.addRoleForLang': 'Добавить «{role}» для: {language}',
+    'workshop.beta.revisionInfo': 'Этот пересмотр {revision, number}, создан {createdAt, date, long}.',
+    'workshop.story.notes.title': 'Ваши заметки для {storyTitle}',
+    'workshop.story.notes.desc': 'Обзор заметок к истории.',
+    'workshop.story.notes.tile': 'Обзор заметок',
+    'workshop.hideOrgs': 'Скрыть содержимое от организаций',
+    'workshop.translation.premium': 'Для того чтобы добавлять переводы, необходимо иметь как минимум подписку плана «Исследователь».',
+    'workshop.story.finished': 'История завершена',
+    'workshop.story.publishing.externalSellingNotice': 'Поскольку вы продаёте за пределами Literary Universe, вы можете опубликовать историю сейчас. Ссылки на листинг вашего магазина появятся в истории или в конце текущей истории, которую вы опубликуете здесь.',
+    'workshop.sharing.publicURL': 'Публичная версия',
+    'workshop.fictionalTime.title': 'Время фанфика для {universeName}',
+    'workshop.fictionalTime.none': 'В настоящее время у вас не установлено время фанфика.',
+    'workshop.fictionalTime.createNow': 'Создать сейчас!',
+    'workshop.fictionalTime.createTitle': 'Создать новое время фанфика',
+    'workshop.fictionalTime.editTitle': 'Изменить {ftName}',
+    'workshop.fictionalTime.formDescription': `Здесь вы можете создать своё собственное время фанфика. В настоящее время этот инструмент
+        ограничен и способен создавать только симметричное время. Это означает, что вы не сможете воссоздать календарь майя или григорианский календарь. На данный момент
+        этот инструмент ожидает, что все времена всегда одинаковы, например, месяцы всегда имеют 30 дней без исключений и так далее. и так
+        далее. Мы будем решать эту проблему в последующих версиях, но до тех пор этот инструмент 
+        больше подходит для создания преимущественно времени, основанного на научной фантастике.`,
+    'workshop.fictionalTime.timeName': 'Название времени',
+    'workshop.fictionalTime.basicInfo': 'Основная информация',
+    'workshop.fictionalTime.timeSetup': 'Настройка времени',
+    'workshop.fictionalTime.linkedToET': 'Начинается ли это время с земной даты (григорианский календарь)?',
+    'workshop.fictionalTime.timeDeclaration': 'Объявление времени',
+    'workshop.fictionalTime.declarationLocation': 'Где должно быть объявлено название времени?',
+    'workshop.fictionalTime.declarationBefore': 'До единиц',
+    'workshop.fictionalTime.declarationAfter': 'После единиц',
+    'workshop.fictionalTime.declarationNone': 'Нет',
+    'workshop.fictionalTime.units': 'Единицы',
+    'workshop.fictionalTime.ETStart': 'Дата начала данного времени',
+    'workshop.fictionalTime.unitsDescFirst': 'Сколько единиц в этой единице от миллисекунд?',
+    'workshop.fictionalTime.unitsDesc': 'На сколько единиц эта единица отличается от предыдущей?',
+    'workshop.fictionalTime.unitsName': 'Название единицы',
+    'workshop.fictionalTime.unitsSeparator': 'Разделитель от предыдущих единиц',
+    'workshop.fictionalTime.unitAdd': 'Добавить единицу',
+    'workshop.fictionalTime.clocks': 'Часы',
+    'workshop.fictionalTime.unitTransfer': 'Перевод единиц',
+    'fictionalTime.pageStartElapsedTime': 'Время, прошедшее с момента открытия этой страницы',
+    'fictionalTime.currentTime': 'Текущее время',
+    'workshop.shoppingExternal.options': 'Настройки внешней покупки',
+    'workshop.shoppingExternal.explainer': 'Если ваша история продаётся в другом месте, вы можете установить ссылки здесь. Тогда ссылки будут отображаться вместо содержания или в конце содержания, которое вы выбрали для предварительного просмотра.',
+    'workshop.shoppingExternal.amazonStore': 'Магазин Amazon',
     'workshop.shoppingExternal.amazon': 'Amazon',
-    'workshop.shoppingExternal.storeName': 'Store name',
-    'workshop.shoppingExternal.itemUrl': 'Item URL',
-    'workshop.shoppingExternal.storesOther': 'Other stores',
-    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'workshop.shoppingExternal.storeName': 'Название магазина',
+    'workshop.shoppingExternal.itemUrl': 'Ссылка предмета',
+    'workshop.shoppingExternal.storesOther': 'Другие магазины',
+    'fictionalTime.units.milliseconds': '{units, number} миллисекунд',
+    'fictionalTime.countdownToStart': 'Обратный отсчёт до начала времени',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 день }
+      few {{days} дн. }
+      many {{days} дн. }
+      other {{days} дн. }
     }{hours, plural,
-      =0 {00:}
+      
+      few {{hours}:}
+      many {{hours}:}=0 {00:}
       other {{hours}:}
     }{minutes, plural,
-      =0 {00:}
+      
+      few {{minutes}:}
+      many {{minutes}:}=0 {00:}
       other {{minutes}:}
     }{seconds, plural,
-      =0 {00}
+      
+      few {{seconds}}
+      many {{seconds}}=0 {00}
       other {{seconds}}
     }
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {секунда}
+      few {секунды}
+      many {секунд}
+      other {секунд}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {минута}
+      few {минуты}
+      many {минут}
+      other {минут}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {час}
+      few {часа}
+      many {часов}
+      other {часов}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {день}
+      few {дня}
+      many {дней}
+      other {дней}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {год}
+      few {года}
+      many {лет}
+      other {лет}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
-    'fictionalTime.inputSelectTimeUnit': 'Select time unit',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputFrom': 'От',
+    'fictionalTime.inputSelectTimeUnit': 'Выберите единицу времени',
+    'fictionalTime.inputSelectETUnit': 'Выберите единицу времени Земли',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
-    'workshop.writerSidebar.title': 'Sidebar Toolbox',
-    'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order',
-    'workshop.universe.monetizationTitle': '{title} monetization',
-    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
+    'workshop.writerSidebar.title': 'Панель инструментов боковой панели',
+    'workshop.writerSidebar.description': 'Добро пожаловать в вашу историю! Эта боковая панель позволяет вам легко получить доступ ко всем ресурсам, связанным с вашей историей. Отметьте значки выше, чтобы увидеть последние комментарии, ваши заметки и многое другое!',
+    'workshop.story.authorsNotesExplained': 'Ваши заметки для читателей в начале главы.',
+    'workshop.story.chapterSortSwitch': 'Сменить порядок глав',
+    'workshop.universe.monetizationTitle': 'Монетизация {title}',
+    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} - монетизация',
+    'workshop.universe.monetizationWebMonetization': 'Веб-монетизация',
     'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
     'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
     'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
