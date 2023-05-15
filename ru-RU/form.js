@@ -1,51 +1,51 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'Обязательное поле',
+    'form.validator.mustBeNumber': 'Должно быть числом',
+    'form.validator.minNumber': 'Должно быть больше {min, number}',
+    'form.validator.maxNumber': 'Должно быть меньше {max, number}',
+    'form.validator.maxLength': `Должно быть меньше {max, number} {what, select,
+    characters {символов}
+    tags {меток}
+    genres {жанров}
+    numbers {цифр}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Должно быть хотя бы {min, number} {what, select,
+    characters {символов}
+    tags {меток}
+    genres {жанров}
+    genre {жанр}
+    numbers {цифр}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'Должен быть действующий адрес эл. почты',
+    'form.validator.url': 'Должна быть действующая ссылка',
+    'form.validator.slug': 'Должна быть действующая часть ссылки',
+    'form.submitting.signup': 'Создание учётной записи...',
+    'form.submitting.signin': 'Вход...',
+    'form.submitting.default': 'Обработка...',
+    'form.submitting.sending': 'Отправка...',
+    'form.validator.whitespace': 'Не должно быть пробелов',
+    'form.validator.zipCode': 'Почтовый индекс должен быть действительным',
+    'form.validator.isbn': 'Мы принимаем только 10 или 13 версию ISBN',
+    'form.validator.btc': 'Это не действительный адрес BTC.',
+    'form.validator.eth': 'Это не действительный адрес ETH.',
+    'form.weakPassword': 'Этот пароль выглядит слабым. Пожалуйста, подумайте о том, чтобы сделать его более надёжным, добавив цифры и специальные символы.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} обязательно',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
+    'simpleschema.minString': '{label} должно содержать не менее {min, number} символов',
+    'simpleschema.maxString': '{label} не может превышать {max, number} символов',
+    'simpleschema.minNumber': '{label} должно содержать не менее {min, number}',
+    'simpleschema.maxNumber': '{label} не может превышать {max, number}',
+    'simpleschema.minNumberExclusive': '{label} должно быть больше {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} должно быть меньше {max, number}',
+    'simpleschema.minDate': '{label} должно начинаться {min, date}',
+    'simpleschema.maxDate': '{label} не может быть после {max, date}',
     'simpleschema.badDate': '{label} не является корректной датой',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+    'simpleschema.minCount': 'Вы должны указать по крайней мере {minCount, number} значение(-ий)',
+    'simpleschema.maxCount': 'Вы не можете указать более {maxCount, number} значений',
     'simpleschema.noDecimal': '{label} должно быть числом',
     'simpleschema.notAllowed': '{value} является недопустимым значением',
     'simpleschema.expectedString': '{label} должно быть строкой',
@@ -55,7 +55,7 @@ export default {
     'simpleschema.expectedObject': '{label} должно быть объектом',
     'simpleschema.expectedConstructor': '{label} должно быть типа {type}',
     'simpleschema.keyNotInSchema': '{key} недопустимо схемой',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label} должно быть уникальным',
     'simpleschema.regEx.0': '{label} не прошло валидацию',
     'simpleschema.regEx.1': '{label} должно быть корректным e-mail адресом',
     'simpleschema.regEx.2': '{label} должно быть корректным e-mail адресом',
