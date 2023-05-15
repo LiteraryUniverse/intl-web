@@ -10,7 +10,7 @@ export default {
     'genre.romance': 'Romantika',
     'genre.satire': 'Satura',
     'genre.tragedy': 'Tragédie',
-    'genre.crime': 'Crime',
+    'genre.crime': 'Krimi',
     'genre.historical': 'Historická fikce',
     'genre.horror': 'Horor',
     'genre.mystery': 'Záhada',
