@@ -3,45 +3,45 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Приглашение в Literary Universe для {username}',
+    'email.enrollAccount.message': `Здравствуйте {username}\n\n
+    Мы хотели бы пригласить вас в Literary Universe! Мы создали для вас специальную личную учётную запись, где вы можете получить доступ ко всем возможностям Literary Universe! Пожалуйста, присоединяйтесь к нам в создании нового поколения инструментов для творческого письма и чтения!
+    Чтобы активировать свою учётную запись, просто нажмите на ссылку ниже:\n\n{url}`,
+    'email.resetPassword.subject': 'Literary Universe - сброс пароля',
+    'email.resetPassword.message': `Здравствуйте {username}!\n\n Мы получили запрос на сброс пароля для вашей учётной записи.
+        Пожалуйста, перейдите по ссылке ниже, чтобы сбросить пароль:\n\n{url}`,
+    'email.verifyEmail.subject': 'Literary Universe - подтверждение электронной почты',
+    'email.verifyEmail.message': 'Здравствуйте {username}!\n\n Пожалуйста, подтвердите свой адрес электронной почты, перейдя по ссылке ниже:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Здравствуйте {username},',
+    'email.welcome': 'Добро пожаловать в Literary Universe!',
+    'email.signature': 'Искренне ваша,<br />команда Literary Universe',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Добро пожаловать на борт',
+    'email.enrollAccount.messageHtml': 'Мы хотели бы пригласить вас в Literary Universe! Мы подготовили для вас личную учётную запись, где вы сможете получить доступ ко всем возможностям Literary Universe! Пожалуйста, присоединяйтесь к нам в создании нового поколения творческого письма и чтения!',
+    'email.enrollAccount.button': 'Перейти к учётной записи',
+    'email.enrollAccount.signature': 'Мы с нетерпением ждём встречи с вами,<br />команда Literary Universe',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Мы получили запрос на сброс пароля для вашей учётной записи, пожалуйста, нажмите на кнопку ниже, чтобы продолжить процесс. Если вы не делали этого запроса, вы можете проигнорировать это письмо, но, возможно, сейчас самое время пересмотреть настройки безопасности.',
+    'email.resetPassword.button': 'Сбросить пароль',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Мы рады видеть вас на борту! Пожалуйста, нажмите на кнопку ниже, чтобы подтвердить этот адрес электронной почты.',
+    'email.verifyEmail.button': 'Подтвердить адрес электронной почты',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.subject': 'Ваша учётная запись была повышена',
+    'email.adminUpgrade.message': `Мы повысили вашу учётную запись до уровня {plan, select,
+    explorer {исследователя}
+    adventurer {авантюриста}
+    storyteller {рассказчика}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } на следующие {days} дн.\n\nНаслаждайтесь,\nкоманда Literary Universe`,
+    'email.adminUpgrade.messageHtml': `Мы повысили вашу учётную запись до уровня {plan, select,
+    explorer {исследователя}
+    adventurer {авантюриста}
+    storyteller {рассказчика}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } на следующие {days} дн. Наслаждайтесь!`,
+    'email.verification': 'Подтверждение эл. почты',
+    'email.verifying': 'Проверка вашей электронной почты. Это займёт всего минуту...',
+    'email.verified': 'Отличные новости! Ваш адрес электронной почты был подтверждён!'
 };    /* eslint-enable max-len */
