@@ -1,5 +1,5 @@
 export default {
-    'workshop.title': 'Your work',
+    'workshop.title': 'Ваша работа',
     'workshop.noneassigned': 'You have not been assigned any yet.',
     'workshop.notavailable': 'This feature is not yet available.',
     'workshop.none': `You currently have no {type, select,
