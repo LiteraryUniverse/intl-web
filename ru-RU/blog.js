@@ -1,28 +1,29 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `У вас пока нет {type, select,
+    organization {какого-либо}
+    universe {блога для вашей вселенной}
+    user {блога}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
-    'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    'blog.create': 'Создать новый блог',
+    'blog.settings': `Настройки {type, select,
+    org {блога}
+    universe {страницы вселенной}
+    user {блога}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
+  }`,
+    'blog.description': 'Ознакомление к блогом',
+    'blog.theme': 'Тема',
+    'blog.theme.info': 'Настроив тему, вы сможете изменить внешний вид страницы. На данный момент эта функция не готова.',
+    'blog.posts.total': `В этом блоге {total, plural,
+    one {одна публикация}
+    few {# публикации}
+    many {# публикаций}
+    other {# публикаций}
+  }.`,
+    'blog.post.create': 'Создать новую публикацию',
+    'blog.post.update': 'Редактирование {title}',
+    'blog.post.text': 'Текст публикации',
     'common.slug': 'SEO friendly address',
     'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Public view',
