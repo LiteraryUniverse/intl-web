@@ -1,149 +1,154 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.add': 'Добавить новую запись',
+    'encyclopedia.browse': 'Обзор по энциклопедии',
+    'encyclopedia.search': 'Поиск в энциклопедии',
+    'encyclopedia.back.universe': 'Назад к странице вселенной',
+    'encyclopedia.back.workshop': 'Назад в мастерскую',
+    'encyclopedia.categories': 'Категории',
+    'encyclopedia.groups': 'Группы',
+    'encyclopedia.category.character': 'Персонажи',
+    'encyclopedia.category.event': 'События',
+    'encyclopedia.category.group': 'Группы',
+    'encyclopedia.category.item': 'Предметы',
+    'encyclopedia.category.location': 'Места',
+    'encyclopedia.category.other': 'Другое',
+    'encyclopedia.category.state': 'Страны',
+    'encyclopedia.category.governments': 'Правительства',
+    'encyclopedia.category.languages': 'Языки',
+    'encyclopedia.category.creatures': 'Существа',
+    'encyclopedia.category.deity': 'Божества',
+    'encyclopedia.category.religions': 'Религии',
+    'encyclopedia.category.flora': 'Флора',
+    'encyclopedia.category.magic': 'Магия',
+    'encyclopedia.category.planets': 'Планеты',
+    'encyclopedia.category.species': 'Виды',
+    'encyclopedia.category.technologies': 'Технологии',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    =0 {Нет найденных соответствующих записей}
+    one {1 соответствующая запись найдена}
+    few {# соответствующие записи найдено}
+    many {# соответствующих записей найдено}
+    other {# соответствующих записей найдено}
+  }.`,
+    'encyclopedia.help.text': 'Используйте меню слева для перехода между пунктами энциклопедии. После выбора пункта он будет отображаться вместо данного текста.',
+    'encyclopedia.help.sidebar': 'Панель инструментов боковой панели',
+    'encyclopedia.help.sidebar.text': 'Добро пожаловать в вашу историю! Эта боковая панель позволяет вам получить лёгкий доступ ко всем ресурсам, связанным с вашей историей. Отметьте значки выше, чтобы увидеть последние комментарии, ваши заметки, поиск в энциклопедии, просмотр и добавление новых записей в энциклопедию. Если вы хотите добавить связь с записью из текста рассказа, выделите текст, куда вы хотите её поместить, а затем нажмите кнопку подключения. Затем вам будет предложено найти и выбрать элемент.',
+    'encyclopedia.intro': 'Добро пожаловать в энциклопедию {universe}.',
+    'encyclopedia.add.title': 'Добавить новую запись в энциклопедию',
+    'encyclopedia.add.heading': 'Что вы хотите добавить?',
+    'encyclopedia.add.moresoon': 'Скоро появятся новые категории!',
+    'encyclopedia.create': `Создать {category, select,
+    character {нового персонажа}
+    event {новое событие}
+    group {новую группу}
+    item {новый предмет}
+    location {новое место}
+    other {новую заметку}
+    state {новую страну}
+    governments {новое правительство}
+    languages {новый язык}
+    creatures {новое существо}
+    deity {новое божество}
+    religions {новую религию}
+    flora {новую флору}
+    magic {новую магию}
+    planets {новую планету}
+    species {новый вид}
+    technologies {новую технологию}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `Создать {category, select,
+    character {нового персонажа}
+    event {новое событие}
+    group {новую группу}
+    item {новый предмет}
+    location {новое место}
+    other {новую заметку}
+    state {новую страну}
+    governments {новое правительство}
+    languages {новый язык}
+    creatures {новое существо}
+    deity {новое божество}
+    religions {новую религию}
+    flora {новую флору}
+    magic {новую магию}
+    planets {новую планету}
+    species {новый вид}
+    technologies {новую технологию}
+  } в {universe}`,
+    'encyclopedia.entry.category': `Категория записи: {category, select,
+    character {Персонаж}
+    event {Событие}
+    group {Группа}
+    item {Предмет}
+    location {Место}
+    other {Заметка}
+    state {Страна}
+    governments {Правительство}
+    languages {Язык}
+    creatures {Существо}
+    deity {Божество}
+    religions {Религия}
+    flora {Флора}
+    magic {Магия}
+    planets {Планета}
+    species {Вид}
+    technologies {Технология}
   }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
-    'encyclopedia.fields.image': 'Image',
-    'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
-    'encyclopedia.container': 'Container',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-    'encyclopedia.entry.name': 'Name of the entry',
-    'encyclopedia.summary': 'Summary',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
-    'encyclopedia.parent': 'Parent entry',
-    'encyclopedia.related': 'Related entries',
-    'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
-    'encyclopedia.field.private': 'Private field',
-    'encyclopedia.ft.indev': 'This option is in development.',
-    'encyclopedia.connections.remove': 'Remove connection',
-    'encyclopedia.connections.extra': 'Extra information',
-    'encyclopedia.connections.existing': 'Existing entry',
-    'encyclopedia.connections.existing.abbr': 'EE',
+    'encyclopedia.entry.category.legend': 'Категория',
+    'encyclopedia.fields.add': 'Добавить новое поле',
+    'encyclopedia.fields.text': 'Определение',
+    'encyclopedia.fields.textarea': 'Текст',
+    'encyclopedia.fields.connection': 'Подключение',
+    'encyclopedia.fields.time': 'Время',
+    'encyclopedia.fields.image': 'Изображение',
+    'encyclopedia.visibility': 'Видимость',
+    'encyclopedia.public': 'Открытая',
+    'encyclopedia.private': 'Закрытая',
+    'encyclopedia.container': 'Контейнер',
+    'encyclopedia.container.desc': 'Сделать эту запись контейнером для новой группы записей. Это позволит скрыть её из списка категорий.',
+    'encyclopedia.entry.name': 'Название записи',
+    'encyclopedia.summary': 'Краткое описание',
+    'encyclopedia.summary.desc': 'Это краткое описание, которое будет единственной первоначальной информацией, отображаемой на экране читателя.',
+    'encyclopedia.parent': 'Родительская запись',
+    'encyclopedia.related': 'Похожие записи',
+    'encyclopedia.errors.tags': 'В одной записи может быть только 10 меток.',
+    'encyclopedia.field.private': 'Закрытое поле',
+    'encyclopedia.ft.indev': 'Этот вариант находится в разработке.',
+    'encyclopedia.connections.remove': 'Удалить подключение',
+    'encyclopedia.connections.extra': 'Дополнительная информация',
+    'encyclopedia.connections.existing': 'Существующая запись',
+    'encyclopedia.connections.existing.abbr': 'Сущ. запись',
     // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Cover image',
-    'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
-    'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-    'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
-    'encyclopedia.timeOption.fictionalDate': 'Fictional date',
-    'encyclopedia.timeOption.fictionalTime': 'Fictional time',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
-    'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
-    'encyclopedia.menuOpen': 'Open Encyclopedia menu',
-    'encyclopedia.menuClose': 'Close Encyclopedia menu',
-    'encyclopedia.menuAria': 'Encyclopedia menu',
-    'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'encyclopedia.cover': 'Обложка',
+    'encyclopedia.translation.title': 'Добро пожаловать в перевод вселенной {universe}!',
+    'encyclopedia.translation.desc': 'Этот интерфейс энциклопедии используется для перевода на: {language}. Выберите существующие записи в списке слева, чтобы начать их перевод.',
+    'encyclopedia.welcome.totalEntries': `В этой вселенной {totalEntries, plural, 
+    one {одна публикация} 
+    few {# публикации} 
+    many {# публикаций}
+    other {# публикаций}
+  }.`,
+    'encyclopedia.settings.title': 'Настройки энциклопедии',
+    'encyclopedia.settings.categoriesDesc': 'Включайте и выключайте категории, которые вы хотите использовать в своей энциклопедии.',
+    'encyclopedia.settings.introText': 'Приветственное сообщение, которое будет отображаться после описания вселенной.',
+    'encyclopedia.fields.placeholder': 'Название поля',
+    'encyclopedia.fields.delete': 'Удалить поле',
+    'encyclopedia.timeOption.fictionalDate': 'Дата фанфика',
+    'encyclopedia.timeOption.fictionalTime': 'Время фанфика',
+    'encyclopedia.timeOption.fictionalDateTime': 'Дата и время фанфика',
+    'encyclopedia.timeOption.date': 'Дата',
+    'encyclopedia.timeOption.time': 'Время',
+    'encyclopedia.timeOption.dateTime': 'Дата и время',
+    'encyclopedia.settings.groupByCategories': 'Включить категории в список групп',
+    'encyclopedia.menuOpen': 'Открыть меню энциклопедии',
+    'encyclopedia.menuClose': 'Закрыть меню энциклопедии',
+    'encyclopedia.menuAria': 'Меню энциклопедии',
+    'enc.newField': 'Новое поле',
+    'enc.entries.limit': `Сейчас у вас {value, number} записей из {max, plural,
+    one {}
+    few {{max, number}}
+    many {{max, number}}=0 {бесконечных записей}
     other {{max, number}}
-  } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.'
+  }.`,
+    'enc.entries.limitReached': 'Вы достигли максимально допустимого количества записей в энциклопедии для вашей подписки.'
 };
