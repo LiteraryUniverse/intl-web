@@ -26,7 +26,7 @@ export default {
   'events.origin.organizations': 'Организации',
   'events.origin.lu': 'События Literary Universe',
   'events.visibility.label': 'Видимость события',
-  'events.visibility.public': 'Публичное - любой желающий может увидеть это событие',
+  'events.visibility.public': 'Открытое - любой желающий может увидеть это событие',
   'events.visibility.owner': `Владелец - только {type, select,
     group {члены вашей группы}
     universe {соавторы и поклонники вселенной}
@@ -41,6 +41,6 @@ export default {
   'events.openVirtual': 'Перейти к виртуальному местоположению',
   'events.moreInfo': 'Узнать больше',
   'event.visibilityShort.private': 'Закрытое',
-  'event.visibilityShort.public': 'Публичное',
+  'event.visibilityShort.public': 'Открытое',
   'event.visibilityShort.owner': 'Владелец'
 };
