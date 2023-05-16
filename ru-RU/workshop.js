@@ -128,7 +128,7 @@ export default {
     'workshop.translation.premium': 'Для того чтобы добавлять переводы, необходимо иметь как минимум подписку плана «Исследователь».',
     'workshop.story.finished': 'История завершена',
     'workshop.story.publishing.externalSellingNotice': 'Поскольку вы продаёте за пределами Literary Universe, вы можете опубликовать историю сейчас. Ссылки на листинг вашего магазина появятся в истории или в конце текущей истории, которую вы опубликуете здесь.',
-    'workshop.sharing.publicURL': 'Публичная версия',
+    'workshop.sharing.publicURL': 'Общедоступная версия',
     'workshop.fictionalTime.title': 'Время фанфика для {universeName}',
     'workshop.fictionalTime.none': 'В настоящее время у вас не установлено время фанфика.',
     'workshop.fictionalTime.createNow': 'Создать сейчас!',
