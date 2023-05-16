@@ -216,7 +216,7 @@ export default {
     'common.2faCode': 'Код двухфакторной авторизации',
     'common.2faCodeIntro': 'Введите одноразовый код, созданный вашим приложением авторизации.',
     'common.2faCodeAria': 'Форма ввода кода двухфакторной авторизации',
-    'common.flashnews': 'Flashnews',
+    'common.flashnews': 'Новости',
     'common.defaultLanguage': 'Язык по умолчанию',
     'signin.web3.signMessage': 'Пожалуйста, подтвердите, что вы хотите войти в Literary Universe, используя свой кошелёк в качестве метода авторизации. Код: {code}',
     'common.web3.confirmationCode': 'Код подтверждения: {code}',
