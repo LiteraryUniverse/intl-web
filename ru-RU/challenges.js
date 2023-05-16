@@ -50,10 +50,10 @@ export default {
     'nanowrimo.baseline': 'Когда начнётся NaNoWriMo, он примет текущее количество слов и будет использовать её в качестве базового уровня, от которого будут отниматься любые дополнительные слова в рамках NaNoWriMo.',
     'nanowrimo.victory': 'Поздравляем! Вы выиграли в NaNoWriMo!',
     'nanowrimo.challenge': 'Испытание NaNoWriMo',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
-    'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
-    'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
-    'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
-    'nanowrimo.connected': 'You have designated this story for NaNoWriMo.',
-    'nanowrimo.connected.other': 'You have already connected another story.'
+    'nanowrimo.description': 'Задача - написать роман из {words, number} слов в течение ноября.',
+    'nanowrimo.error.usernotfound': 'Имя пользователя не было найдено на серверах NaNoWriMo.',
+    'nanowrimo.error.nobook': 'Книга не найдена. Пожалуйста, убедитесь, что вы создали свою книгу на NaNoWriMo.',
+    'nanowrimo.error.wordcount': 'Невозможно установить количество слов на NaNoWrimo, пожалуйста, проверьте свои учётные данные и повторите попытку.',
+    'nanowrimo.connected': 'Вы назначили эту историю для NaNoWriMo.',
+    'nanowrimo.connected.other': 'Вы уже подключили другую историю.'
 };
