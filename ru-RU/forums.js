@@ -9,7 +9,7 @@ export default {
   'forums.category.create': 'Создать категорию форума',
   'forums.category.delete': 'Удалить категорию',
   'forums.category.name': 'Название категории',
-  'forums.category.slug': 'Часть ссылки',
+  'forums.category.slug': 'Часть ссылки SEO',
   'forums.category.settings': 'Настройки категории',
   'forums.category.language': 'Ограничить отображение этой категории только для следующего языка. Оставьте пустым, если вы хотите отображать категорию на всех языках.',
   'forums.category.intlNameDescription': 'Мы локализовали названия распространённых категорий для вашего выбора, чтобы категория была доступна для всех поддерживаемых языков.',
