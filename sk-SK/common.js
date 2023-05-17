@@ -126,7 +126,6 @@ export default {
     'common.createdOn.title': 'Vytvorené',
     // account types
     admin: 'Správca',
-    goodbye: 'Ďakujeme! Dovidenia!',
     'common.saved': 'Uložené!',
     'common.saving': 'Ukladám...',
     'common.friends': 'Priatelia',
@@ -252,5 +251,8 @@ export default {
     'common.haveAccountQuestion': 'Už máte účet?',
     'common.socialLogin': 'Prihlásenie pomocou iných služieb',
     'common.viewMore': 'Zobraziť viac',
-    'common.overview': 'Prehľad'
+    'common.overview': 'Prehľad',
+    'common.loggingOut': 'Logging out',
+    'common.thankYou': 'Thank you!',
+    'common.seeYouAgain': 'See you again!'
 }    /* eslint-enable max-len */;
