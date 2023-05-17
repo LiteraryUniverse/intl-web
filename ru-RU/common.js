@@ -126,7 +126,6 @@ export default {
     'common.createdOn.title': 'Создано',
     // account types
     admin: 'Администратор',
-    goodbye: 'Спасибо! До новых встреч!',
     'common.saved': 'Сохранено!',
     'common.saving': 'Сохранение...',
     'common.friends': 'Друзья',
@@ -252,5 +251,8 @@ export default {
     'common.haveAccountQuestion': 'Уже есть учётная запись?',
     'common.socialLogin': 'Войти через другие сервисы',
     'common.viewMore': 'Ещё',
-    'common.overview': 'Обзор'
+    'common.overview': 'Обзор',
+    'common.loggingOut': 'Logging out',
+    'common.thankYou': 'Thank you!',
+    'common.seeYouAgain': 'See you again!'
 }    /* eslint-enable max-len */;
