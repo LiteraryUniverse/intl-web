@@ -126,7 +126,6 @@ export default {
     'common.createdOn.title': 'Vytvořeno',
     // account types
     admin: 'Administrátor',
-    goodbye: 'Děkujeme! Těšíme na Vaší další návštěvu!',
     'common.saved': 'Uloženo!',
     'common.saving': 'Ukládám...',
     'common.friends': 'Přátelé',
@@ -252,5 +251,8 @@ export default {
     'common.haveAccountQuestion': 'Již máte účet?',
     'common.socialLogin': 'Přihlášení pomocí jiných služeb',
     'common.viewMore': 'Zobrazit více',
-    'common.overview': 'Přehled'
+    'common.overview': 'Přehled',
+    'common.loggingOut': 'Logging out',
+    'common.thankYou': 'Thank you!',
+    'common.seeYouAgain': 'See you again!'
 }    /* eslint-enable max-len */;
