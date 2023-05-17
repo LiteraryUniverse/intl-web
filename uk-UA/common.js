@@ -126,7 +126,6 @@ export default {
     'common.createdOn.title': 'Створено',
     // account types
     admin: 'Адміністратор',
-    goodbye: 'Дякуємо! Побачимося знову!',
     'common.saved': 'Збережено!',
     'common.saving': 'Збереження...',
     'common.friends': 'Друзі',
@@ -252,5 +251,8 @@ export default {
     'common.haveAccountQuestion': 'Already have an account?',
     'common.socialLogin': 'Login with other services',
     'common.viewMore': 'View more',
-    'common.overview': 'Overview'
+    'common.overview': 'Overview',
+    'common.loggingOut': 'Logging out',
+    'common.thankYou': 'Thank you!',
+    'common.seeYouAgain': 'See you again!'
 }    /* eslint-enable max-len */;
