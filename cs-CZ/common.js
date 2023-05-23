@@ -252,7 +252,7 @@ export default {
     'common.socialLogin': 'Přihlášení pomocí jiných služeb',
     'common.viewMore': 'Zobrazit více',
     'common.overview': 'Přehled',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!'
+    'common.loggingOut': 'Odhlašování',
+    'common.thankYou': 'Děkujeme!',
+    'common.seeYouAgain': 'Naviděnou!'
 }    /* eslint-enable max-len */;
