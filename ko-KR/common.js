@@ -126,7 +126,6 @@ export default {
     'common.createdOn.title': 'Created on',
     // account types
     admin: 'Admin',
-    goodbye: '감사합니다! 또 뵙겠습니다!',
     'common.saved': '저장되었습니다!',
     'common.saving': '저장...',
     'common.friends': 'Friends',
@@ -252,5 +251,8 @@ export default {
     'common.haveAccountQuestion': 'Already have an account?',
     'common.socialLogin': 'Login with other services',
     'common.viewMore': 'View more',
-    'common.overview': 'Overview'
+    'common.overview': 'Overview',
+    'common.loggingOut': 'Logging out',
+    'common.thankYou': 'Thank you!',
+    'common.seeYouAgain': 'See you again!'
 }    /* eslint-enable max-len */;

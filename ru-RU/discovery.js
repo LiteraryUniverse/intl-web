@@ -1,51 +1,59 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Откройте для себя новые истории и вселенные.',
+    'discovery.universes.new': 'Формирующиеся вселенные',
+    'discovery.stories.new': 'Новые истории',
+    'discovery.stories.standalone.new': 'Новые отдельные истории',
+    'discovery.stories.updated': 'Недавно обновлённые истории',
+    'discovery.continue': 'Продолжить чтение',
+    'discovery.stories.similar.new': 'Новые истории по соседству',
+    'discovery.stories.similar.regular': 'Истории по соседству',
+    'story.estimatedReadingTime': `Чтение этой истории займёт {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 час и }
+        few {# часа и }
+        many {# часов и }
+        other {# часов и }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 минут}
+        one {1 минуту}
+        few {# минуты}
+        many {# минут}
+        other {# минут}
+    }.`,
+    'story.estimatedReadingTime.explained': 'На основе средней скорости чтения {avgReadingNum} слов в минуту.',
+    'discover.search.text': 'Поисковый запрос',
+    'discover.searchStory.title': 'Поиск истории',
+    'discover.searchStory.description': 'Поиск историй',
+    'discover.searchUniverse.title': 'Поиск вселенной',
+    'discover.searchUniverse.description': 'Поиск вселенных',
+    'discover.search.storyStatus': 'Состояние прогресса истории',
+    'story.status.complete': 'Закончена',
+    'story.status.inProgress': 'В разработке',
+    'discover.search.universeConnection': 'Подключение истории к вселенной',
+    'story.universeRelation.standalone': 'Отдельная история',
+    'story.universeRelation.fanFiction': 'Фанфик',
+    'story.universeRelation.universe': 'Часть вселенной',
+    'discover.search.rating': 'Возрастной рейтинг',
+    'discover.search.license': 'Лицензия на авторское право',
+    'discover.search.language': 'Язык',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Ни одна вселенная не соответствует вашим параметрам}
+        one {Найдена 1 вселенная}
+        few {Найдено # вселенные}
+        many {Найдено # вселенных}
+        other {Найдено # вселенных}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Ни одна история не соответствует вашим параметрам}
+        one {Найдена 1 история}
+        few {Найдено # истории}
+        many {Найдено # историй}
+        other {Найдено # историй}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discover.viewSelection.aria': 'Просмотр выбранного',
+    'discover.searchDisplay.covers': 'Список обложек',
+    'discover.searchDisplay.list': 'Компактный список',
+    'discover.includesAds': 'Эта работа имеет размещение продукта или включает в себя другие формы рекламы.',
+    'discovery.featured.universes': 'Рекомендуемые вселенные',
+    'discovery.featured.stories': 'Рекомендуемые истории'
 };

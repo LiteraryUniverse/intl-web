@@ -126,7 +126,6 @@ export default {
     'common.createdOn.title': 'Creato su',
     // account types
     admin: 'Amministratore',
-    goodbye: 'Grazie! Alla prossima!',
     'common.saved': 'Salvato!',
     'common.saving': 'Salvataggio...',
     'common.friends': 'Amici',
@@ -252,5 +251,8 @@ export default {
     'common.haveAccountQuestion': 'Already have an account?',
     'common.socialLogin': 'Login with other services',
     'common.viewMore': 'View more',
-    'common.overview': 'Overview'
+    'common.overview': 'Overview',
+    'common.loggingOut': 'Logging out',
+    'common.thankYou': 'Thank you!',
+    'common.seeYouAgain': 'See you again!'
 }    /* eslint-enable max-len */;

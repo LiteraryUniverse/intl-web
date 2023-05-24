@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Список литературы',
+  'readingList.type.label': 'Тип списка',
+  'readingList.type.stories': 'Истории',
+  'readingList.type.universes': 'Вселенные',
+  'readingList.ordered.label': 'Рейтинговый список',
+  'readingList.button.add': 'Добавить в список литературы',
+  'readingList.selectList': 'Выбрать список литературы',
+  'readingList.create': 'Создать новый список литературы',
+  'readingList.create.aria': 'Модал с настройками для нового списка литературы',
+  'readingList.edit.aria': 'Модальное окно для изменения настроек списка литературы',
+  'readingList.library.title': 'Ваши списки литературы',
+  'readingList.public.label': 'Общедоступный?',
+  'readingList.addItem': `Добавить {type, select,
+    universes {вселенную}
+    stories {историю}
+    other {истории и вселенные}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Модал для добавления {type, select,
+    universes {вселенных}
+    stories {историй}
+    other {историй и вселенных}
+  } в список литературы.`,
+  'readingList.addItem.fromLibrary': 'Из библиотеки',
+  'readingList.button.added': 'Добавлено'
 };

@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'Zásady ochrany osobních údajů',
     'common.legal.copyright': 'Prohlášení o autorských právech',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Podmínky služby}
+    community {Komunitní zásady}
+    privacy {Zásady ochrany osobních údajů}
+    copyright {Ochrana autorských práv}
+    publishingAgreement {Publikační dohoda}
+    other {Dohoda}
+  } Verze {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nová verze ({newVersion}) tohoto dokumentu vstoupí v platnost dne {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich příslušným autorům.',
     'premium.only.title': 'Nedostatečné hodnost členství',
@@ -126,7 +126,6 @@ export default {
     'common.createdOn.title': 'Vytvořeno',
     // account types
     admin: 'Administrátor',
-    goodbye: 'Děkujeme! Těšíme na Vaší další návštěvu!',
     'common.saved': 'Uloženo!',
     'common.saving': 'Ukládám...',
     'common.friends': 'Přátelé',
@@ -252,5 +251,8 @@ export default {
     'common.haveAccountQuestion': 'Již máte účet?',
     'common.socialLogin': 'Přihlášení pomocí jiných služeb',
     'common.viewMore': 'Zobrazit více',
-    'common.overview': 'Přehled'
+    'common.overview': 'Přehled',
+    'common.loggingOut': 'Odhlašování',
+    'common.thankYou': 'Děkujeme!',
+    'common.seeYouAgain': 'Naviděnou!'
 }    /* eslint-enable max-len */;

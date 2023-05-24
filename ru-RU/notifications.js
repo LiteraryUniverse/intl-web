@@ -1,8 +1,8 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.'
+  'flashnews.create': 'Создать новую новость',
+  'flashnews.startsAt': 'Запустить отображение этого сообщения',
+  'flashnews.endsAt': 'Остановить отображение этого сообщения',
+  'flashnews.newLanguage': 'Выберите новый язык для добавления',
+  'flashnews.onlyDisplayOn': 'Новости будут отображаться только на выбранных ниже языках (если они выбраны), на других языках новости, даже на языке по умолчанию, отображаться не будут.'
 };

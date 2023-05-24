@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Лента',
+    'feed.post.new': 'Новая публикация',
+    'feed.post.like': 'Нравится',
+    'feed.post.unlike': 'Не нравится',
+    'feed.post.send': 'Публикация',
+    'feed.empty': 'Нет записей в ленте.'
 };

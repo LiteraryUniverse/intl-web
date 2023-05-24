@@ -1,7 +1,7 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes'
+    'library.add': 'Добавить в библиотеку',
+    'library.remove': 'Удалить из библиотеки',
+    'library.bought': 'Купленные истории',
+    'library.stories': 'Отслеживаемые истории',
+    'library.universes': 'Отслеживаемые вселенные'
 };
