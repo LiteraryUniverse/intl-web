@@ -249,6 +249,6 @@ export default {
     'workshop.universe.isAIGeneratedTooltip': 'Dajte nám vedieť, či bol niektorý obsah vo vesmíre vytvorený umelou inteligenciou alebo s jej pomocou. Tieto informácie používame na správne označenie a vzhľadom na spôsob generovania programov AI môžu existovať určité obmedzenia.',
     'workshop.story.isAIGenerated': 'Je príbeh generovaný umelou inteligenciou?',
     'workshop.story.isAIGeneratedTooltip': 'Dajte nám vedieť, či bol niektorý z príbehov vytvorený umelou inteligenciou alebo s jej pomocou. Tieto informácie používame na správne označenie a vzhľadom na spôsob generovania programov AI môžu existovať určité obmedzenia.',
-    'workshop.publicationAgreement.aria': 'Publication agreement for work',
-    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.'
+    'workshop.publicationAgreement.aria': 'Zmluva o zverejnení diela',
+    'workshop.publicationAgreement.intro': 'Sme radi, že ste sa rozhodli uverejniť svoju tvorbu u nás. Predtým, ako budeme pokračovať, potrebujeme, aby ste si prečítali našu zmluvu o publikovaní, aby ste pochopili, čo to znamená po právnej stránke.'
 };
