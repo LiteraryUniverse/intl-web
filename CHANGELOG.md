@@ -1,9 +1,10 @@
 # Changelog for languages
 
-## 2023-05-1X - v2.9.0
+## 2023-05-24 - v2.9.0
 
 * Add descriptions for genres
 * Logout strings adjusted
+* Add Russian
 
 ## 2023-05-13 - v2.8.2
 

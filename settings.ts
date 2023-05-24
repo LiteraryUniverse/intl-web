@@ -141,7 +141,22 @@ export default {
         'pt-TL'
       ],
       rtl: false
-    }
+    },
+    {
+      code: 'ru',
+      name: 'Russian',
+      native: 'русский',
+      defaultLocale: 'ru-RU',
+      supportedLocales: [
+        'ru-RU',
+        'ru-BY',
+        'ru-KG',
+        'ru-KZ',
+        'ru-MD',
+        'ru-UA'
+      ],
+      rtl: false
+    },
   ],
   /**
    * Get the array of language codes of supported languages
@@ -326,21 +341,6 @@ export default {
         native: 'Română',
         defaultLocale: 'ro-RO',
         supportedLocales: ['ro-RO', 'ro-MD'],
-        rtl: false
-      },
-      {
-        code: 'ru',
-        name: 'Russian',
-        native: 'русский',
-        defaultLocale: 'ru-RU',
-        supportedLocales: [
-          'ru-RU',
-          'ru-BY',
-          'ru-KG',
-          'ru-KZ',
-          'ru-MD',
-          'ru-UA'
-        ],
         rtl: false
       },
       {
