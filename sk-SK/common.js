@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'Zásady ochrany osobných údajov',
     'common.legal.copyright': 'Dohoda o autorských právach',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Podmienky služby}
+    community {Usmernenia Spoločenstva}
+    privacy {Zásady ochrany osobných údajov}
+    copyright {Dohoda o autorských právach}
+    publishingAgreement {Vydavateľská zmluva}
+    other {Dohoda}
+  } Verze {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nová verzia ({newVersion}) tohto dokumentu nadobudne účinnosť dňa {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všetky práva vyhradené, všetky texty patria ich autorom.',
     'premium.only.title': 'Nedostatočne vysoká členská hodnosť',
@@ -252,7 +252,7 @@ export default {
     'common.socialLogin': 'Prihlásenie pomocou iných služieb',
     'common.viewMore': 'Zobraziť viac',
     'common.overview': 'Prehľad',
-    'common.loggingOut': 'Logging out',
+    'common.loggingOut': 'Odhlasovanie',
     'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!'
+    'common.seeYouAgain': 'Naviděnou!'
 }    /* eslint-enable max-len */;
