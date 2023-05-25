@@ -253,5 +253,6 @@ export default {
     'workshop.publicationAgreement.intro': 'Sme radi, že ste sa rozhodli uverejniť svoju tvorbu u nás. Predtým, ako budeme pokračovať, potrebujeme, aby ste si prečítali našu zmluvu o publikovaní, aby ste pochopili, čo to znamená po právnej stránke.',
     'workshop.sortChapters': 'Sort order:',
     'workshop.sortChapters.ascending': 'From beginning',
-    'workshop.sortChapters.descending': 'From latest'
+    'workshop.sortChapters.descending': 'From latest',
+    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing'
 };
