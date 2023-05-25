@@ -269,5 +269,6 @@ export default {
     'workshop.publicationAgreement.intro': 'Мы рады, что вы решили опубликовать свою творческую работу у нас. Прежде чем мы продолжим, мы просим вас ознакомиться с нашим соглашением о публикации, чтобы понять, что оно означает с юридической стороны.',
     'workshop.sortChapters': 'Sort order:',
     'workshop.sortChapters.ascending': 'From beginning',
-    'workshop.sortChapters.descending': 'From latest'
+    'workshop.sortChapters.descending': 'From latest',
+    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing'
 };
