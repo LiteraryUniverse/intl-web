@@ -238,5 +238,6 @@ export default {
     'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.',
     'workshop.sortChapters': 'Sort order:',
     'workshop.sortChapters.ascending': 'From beginning',
-    'workshop.sortChapters.descending': 'From latest'
+    'workshop.sortChapters.descending': 'From latest',
+    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing'
 };
