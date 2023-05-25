@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-05-XX - v2.9.1
+
+* Added keys for chapter sorting
+
 ## 2023-05-24 - v2.9.0
 
 * Add descriptions for genres
