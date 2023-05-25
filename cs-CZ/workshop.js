@@ -255,5 +255,6 @@ export default {
     'workshop.publicationAgreement.intro': 'Jsme rádi, že jste se rozhodli zveřejnit svou kreativní práci s námi. Než budeme pokračovat, stačí se podívat na naši dohodu o zveřejnění, abyste pochopili, co to znamená z právního hlediska.',
     'workshop.sortChapters': 'Sort order:',
     'workshop.sortChapters.ascending': 'From beginning',
-    'workshop.sortChapters.descending': 'From latest'
+    'workshop.sortChapters.descending': 'From latest',
+    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing'
 };
