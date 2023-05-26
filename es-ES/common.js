@@ -250,9 +250,9 @@ export default {
     'common.noAccountQuestion': '¿Aún no tienes una cuenta?',
     'common.haveAccountQuestion': '¿Ya tienes una cuenta?',
     'common.socialLogin': 'Inicia sesión desde otros servicios',
-    'common.viewMore': 'View more',
-    'common.overview': 'Overview',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!'
+    'common.viewMore': 'Ver más',
+    'common.overview': 'Información general',
+    'common.loggingOut': 'Cerrar sesión',
+    'common.thankYou': '¡Muchas gracias!',
+    'common.seeYouAgain': '¡Hasta la próxima!'
 }    /* eslint-enable max-len */;
