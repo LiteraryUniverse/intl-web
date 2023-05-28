@@ -20,7 +20,7 @@ export default {
         many {# минут}
         other {# минут}
     }.`,
-    'story.estimatedReadingTime.explained': 'На основе средней скорости чтения {avgReadingNum} слов в минуту.',
+    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
     'discover.search.text': 'Поисковый запрос',
     'discover.searchStory.title': 'Поиск истории',
     'discover.searchStory.description': 'Поиск историй',
@@ -55,5 +55,7 @@ export default {
     'discover.searchDisplay.list': 'Компактный список',
     'discover.includesAds': 'Эта работа имеет размещение продукта или включает в себя другие формы рекламы.',
     'discovery.featured.universes': 'Рекомендуемые вселенные',
-    'discovery.featured.stories': 'Рекомендуемые истории'
+    'discovery.featured.stories': 'Рекомендуемые истории',
+    'discovery.story.tableOfContent': 'Table of content',
+    'story.status.hiatus': 'On hiatus'
 };
