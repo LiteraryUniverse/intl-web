@@ -17,7 +17,7 @@ export default {
         other {# minutes}
     } to read.`,
   'story.estimatedReadingTime.explained':
-    'Based on an average reading speed of {avgReadingNum} words per minute.',
+    'Based on an average reading speed of {avgReadingNum, number} words per minute.',
   'discover.search.text': 'Search term',
   'discover.searchStory.title': 'Search for a story',
   'discover.searchStory.description': 'Search for a stories',
@@ -51,4 +51,6 @@ export default {
 
   'discovery.featured.universes': 'Featured universes',
   'discovery.featured.stories': 'Featured stories',
+  'discovery.story.tableOfContent': 'Table of content',
+  'story.status.hiatus': 'On hiatus'
 }
