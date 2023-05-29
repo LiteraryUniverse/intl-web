@@ -10,7 +10,7 @@ export default {
     'genre.romance': 'Romántico',
     'genre.satire': 'Sátira',
     'genre.tragedy': 'Tragedia',
-    'genre.crime': 'Crime',
+    'genre.crime': 'Policiacas',
     'genre.historical': 'Ficción histórica',
     'genre.horror': 'Terror',
     'genre.mystery': 'Misterio',
