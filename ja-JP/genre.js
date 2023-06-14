@@ -23,7 +23,7 @@ export default {
     'genre.fairytale': 'おとぎ話',
     'genre.superhero': 'スーパーヒーロー物語',
     'genre.children': '子ども向け',
-    'genre.postapocalyptic': 'Post-Apocalyptic',
+    'genre.postapocalyptic': '終末ものフィクション',
     'genre.political': 'Political document',
     'genre.history': 'History',
     'genre.isekai': 'Isekai',
