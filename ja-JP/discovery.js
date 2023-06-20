@@ -47,5 +47,7 @@ export default {
     'discovery.featured.universes': '注目の宇宙関連物語',
     'discovery.featured.stories': '注目の物語',
     'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus'
+    'story.status.hiatus': 'On hiatus',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}'
 };
