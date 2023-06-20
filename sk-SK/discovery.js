@@ -55,5 +55,7 @@ export default {
     'discovery.featured.universes': 'Odporúčané vesmíry',
     'discovery.featured.stories': 'Odporúčané príbehy',
     'discovery.story.tableOfContent': 'Obsah',
-    'story.status.hiatus': 'Pozastaveno'
+    'story.status.hiatus': 'Pozastaveno',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}'
 };
