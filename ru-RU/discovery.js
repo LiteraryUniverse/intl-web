@@ -57,5 +57,7 @@ export default {
     'discovery.featured.universes': 'Рекомендуемые вселенные',
     'discovery.featured.stories': 'Рекомендуемые истории',
     'discovery.story.tableOfContent': 'Содержание',
-    'story.status.hiatus': 'Приостановлено'
+    'story.status.hiatus': 'Приостановлено',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}'
 };
