@@ -49,5 +49,7 @@ export default {
     'discovery.featured.universes': '주요 유니버스',
     'discovery.featured.stories': '추천 스토리',
     'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus'
+    'story.status.hiatus': 'On hiatus',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}'
 };
