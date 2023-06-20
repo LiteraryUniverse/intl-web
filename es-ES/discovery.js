@@ -49,5 +49,7 @@ export default {
     'discovery.featured.universes': 'Universos destacados',
     'discovery.featured.stories': 'Historias destacadas',
     'discovery.story.tableOfContent': 'Índice de contenido',
-    'story.status.hiatus': 'En pausa'
+    'story.status.hiatus': 'En pausa',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}'
 };
