@@ -1,9 +1,10 @@
 # Changelog for languages
 
-## 2023-05-XX - v2.9.1
+## 2023-06-XX - v2.9.1
 
 * Added keys for chapter sorting
 * Added `discovery.story.tableOfContent` and `story.status.hiatus` in discovery
+* Added `story.status.cancelled` and `story.chapter.wasRead`
 
 ## 2023-05-24 - v2.9.0
 
