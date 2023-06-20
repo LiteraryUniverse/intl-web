@@ -55,5 +55,7 @@ export default {
     'discovery.featured.universes': 'Featured universes',
     'discovery.featured.stories': 'Featured stories',
     'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus'
+    'story.status.hiatus': 'On hiatus',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}'
 };
