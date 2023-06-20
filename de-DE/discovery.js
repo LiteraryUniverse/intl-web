@@ -49,5 +49,7 @@ export default {
     'discovery.featured.universes': 'Ausgewählte Universen',
     'discovery.featured.stories': 'Ausgewählte Geschichten',
     'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus'
+    'story.status.hiatus': 'On hiatus',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}'
 };
