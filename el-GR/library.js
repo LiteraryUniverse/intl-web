@@ -3,5 +3,6 @@ export default {
     'library.remove': 'Αφαίρεση από τη βιβλιοθήκη',
     'library.bought': 'Αγόρασε ιστορίες',
     'library.stories': 'Ακολούθησαν ιστορίες',
-    'library.universes': 'Followed universes'
+    'library.universes': 'Followed universes',
+    'bookmark.continueReading': 'Continue reading'
 };
