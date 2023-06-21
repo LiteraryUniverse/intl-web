@@ -3,5 +3,6 @@ export default {
     'library.remove': 'Odstrániť z knižnice',
     'library.bought': 'Kúpené príbehy',
     'library.stories': 'Sledované príbehy',
-    'library.universes': 'Sledované vesmíry'
+    'library.universes': 'Sledované vesmíry',
+    'bookmark.continueReading': 'Continue reading'
 };
