@@ -3,5 +3,6 @@ export default {
     'library.remove': 'Supprimer de la bibliothèque',
     'library.bought': 'Histoires achetées',
     'library.stories': 'Histoires suivies',
-    'library.universes': 'Univers suivis'
+    'library.universes': 'Univers suivis',
+    'bookmark.continueReading': 'Continue reading'
 };
