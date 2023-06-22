@@ -10,7 +10,7 @@ export default {
     'genre.romance': 'ロマンス',
     'genre.satire': '風刺',
     'genre.tragedy': '悲劇',
-    'genre.crime': 'Crime',
+    'genre.crime': '犯罪小説',
     'genre.historical': '歴史小説',
     'genre.horror': 'ホラー小説',
     'genre.mystery': 'ミステリー小説',
