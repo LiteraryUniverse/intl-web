@@ -4,5 +4,5 @@ export default {
     'library.bought': 'Купленные истории',
     'library.stories': 'Отслеживаемые истории',
     'library.universes': 'Отслеживаемые вселенные',
-    'bookmark.continueReading': 'Continue reading'
+    'bookmark.continueReading': 'Продолжить чтение'
 };
