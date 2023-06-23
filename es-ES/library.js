@@ -4,5 +4,5 @@ export default {
     'library.bought': 'Historias compradas',
     'library.stories': 'Historias que sigues',
     'library.universes': 'Universo que sigues',
-    'bookmark.continueReading': 'Continue reading'
+    'bookmark.continueReading': 'Continuar leyendo'
 };
