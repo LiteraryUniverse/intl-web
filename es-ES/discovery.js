@@ -51,5 +51,6 @@ export default {
     'discovery.story.tableOfContent': 'Índice de contenido',
     'story.status.hiatus': 'En pausa',
     'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}'
+    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'discovery.moreDetails': 'More details'
 };
