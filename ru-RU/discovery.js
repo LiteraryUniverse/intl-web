@@ -59,5 +59,6 @@ export default {
     'discovery.story.tableOfContent': 'Содержание',
     'story.status.hiatus': 'Приостановлено',
     'story.status.cancelled': 'Отменено',
-    'story.chapter.wasRead': 'Прочитано - {readAt, date}'
+    'story.chapter.wasRead': 'Прочитано - {readAt, date}',
+    'discovery.moreDetails': 'More details'
 };
