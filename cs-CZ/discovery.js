@@ -59,5 +59,6 @@ export default {
     'discovery.story.tableOfContent': 'Obsah',
     'story.status.hiatus': 'Pozastaveno',
     'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}'
+    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'discovery.moreDetails': 'More details'
 };
