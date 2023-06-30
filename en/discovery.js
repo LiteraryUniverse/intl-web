@@ -55,5 +55,6 @@ export default {
   'story.status.hiatus': 'On hiatus',
   'story.status.cancelled': 'Cancelled',
   'story.chapter.wasRead': 'Read - {readAt, date}',
-  'discovery.moreDetails': 'More details'
+  'discovery.moreDetails': 'More details',
+  'discovery.read': 'Read'
 }
