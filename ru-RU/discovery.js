@@ -60,5 +60,6 @@ export default {
     'story.status.hiatus': 'Приостановлено',
     'story.status.cancelled': 'Отменено',
     'story.chapter.wasRead': 'Прочитано - {readAt, date}',
-    'discovery.moreDetails': 'More details'
+    'discovery.moreDetails': 'More details',
+    'discovery.read': 'Read'
 };
