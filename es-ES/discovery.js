@@ -50,8 +50,8 @@ export default {
     'discovery.featured.stories': 'Historias destacadas',
     'discovery.story.tableOfContent': 'Índice de contenido',
     'story.status.hiatus': 'En pausa',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read'
+    'story.status.cancelled': 'Cancelada',
+    'story.chapter.wasRead': 'Leída - {readAt, date}',
+    'discovery.moreDetails': 'Más detalles',
+    'discovery.read': 'Leído'
 };
