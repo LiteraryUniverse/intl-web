@@ -4,5 +4,5 @@ export default {
     'library.bought': 'Kúpené príbehy',
     'library.stories': 'Sledované príbehy',
     'library.universes': 'Sledované vesmíry',
-    'bookmark.continueReading': 'Continue reading'
+    'bookmark.continueReading': 'Pokračovať v čítaní'
 };
