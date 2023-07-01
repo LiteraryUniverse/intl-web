@@ -254,5 +254,5 @@ export default {
     'workshop.sortChapters': 'Poradie zoradenia:',
     'workshop.sortChapters.ascending': 'Od začiatku',
     'workshop.sortChapters.descending': 'Od konce',
-    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing'
+    'workshop.sortChapters.aria': 'Vyberte, akým spôsobom sa má zoradiť zoznam kapitol'
 };
