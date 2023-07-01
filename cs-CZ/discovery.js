@@ -58,8 +58,8 @@ export default {
     'discovery.featured.stories': 'Doporučené příběhy',
     'discovery.story.tableOfContent': 'Obsah',
     'story.status.hiatus': 'Pozastaveno',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read'
+    'story.status.cancelled': 'Zrušeno',
+    'story.chapter.wasRead': 'Přečteno - {readAt, date}',
+    'discovery.moreDetails': 'Více informací',
+    'discovery.read': 'Číst'
 };
