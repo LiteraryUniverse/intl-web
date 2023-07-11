@@ -4,5 +4,6 @@ export default {
     'library.bought': 'Zakoupené příběhy',
     'library.stories': 'Sledované příběhy',
     'library.universes': 'Sledované vesmíry',
-    'bookmark.continueReading': 'Pokračovat ve čtení'
+    'bookmark.continueReading': 'Pokračovat ve čtení',
+    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
 };
