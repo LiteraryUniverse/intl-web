@@ -246,6 +246,10 @@ export default {
     'workshop.universe.isAIGeneratedTooltip': 'Por favor, haznos saber si parte del contenido del universo está generado por o con la ayuda de una IA. Usamos esta información para mejorar nuestra categorización debido a cómo están generados los programas de IA estas pueden tener ciertas limitaciones y restricciones.',
     'workshop.story.isAIGenerated': '¿Esta historia está generada por IA?',
     'workshop.story.isAIGeneratedTooltip': 'Por favor, haznos saber si parte de la historia está generada por o con la ayuda de una IA. Usamos esta información para mejorar nuestra categorización debido a cómo están generados los programas de IA estas pueden tener ciertas limitaciones y restricciones.',
-    'workshop.publicationAgreement.aria': 'Publication agreement for work',
-    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.'
+    'workshop.publicationAgreement.aria': 'Acuerdo de publicación para trabajos',
+    'workshop.publicationAgreement.intro': 'Nos complace que hayas elegido publicar tus obras con nosotros. Antes de continuar solo necesitamos que compruebes nuestros acuerdos de publicación, para que conozcas los entresijos legales relacionados.',
+    'workshop.sortChapters': 'Orden de organización:',
+    'workshop.sortChapters.ascending': 'Desde el comienzo',
+    'workshop.sortChapters.descending': 'Desde lo más reciente',
+    'workshop.sortChapters.aria': 'Elige una forma de organizar la lista de capítulos'
 };

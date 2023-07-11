@@ -252,5 +252,9 @@ export default {
     'workshop.story.isAIGenerated': 'Je příběh generovaný s úmělou inteligencí?',
     'workshop.story.isAIGeneratedTooltip': 'Dejte nám prosím vědět, zda byl příběh generován pomocí úmělé inteligence. Tuto informaci používáme pro správné označení a vzhledem k tomu, jak jsou programy AI generovány, mohou existovat některá omezení.',
     'workshop.publicationAgreement.aria': 'Publikační dohoda pro díla',
-    'workshop.publicationAgreement.intro': 'Jsme rádi, že jste se rozhodli zveřejnit svou kreativní práci s námi. Než budeme pokračovat, stačí se podívat na naši dohodu o zveřejnění, abyste pochopili, co to znamená z právního hlediska.'
+    'workshop.publicationAgreement.intro': 'Jsme rádi, že jste se rozhodli zveřejnit svou kreativní práci s námi. Než budeme pokračovat, stačí se podívat na naši dohodu o zveřejnění, abyste pochopili, co to znamená z právního hlediska.',
+    'workshop.sortChapters': 'Řadit podle:',
+    'workshop.sortChapters.ascending': 'Od začátku',
+    'workshop.sortChapters.descending': 'Od posledního',
+    'workshop.sortChapters.aria': 'Vyberte způsob, jak seřadit kapitoly'
 };

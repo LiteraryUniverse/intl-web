@@ -20,7 +20,7 @@ export default {
         many {# minut }
         other {# minut }
     } k přečtení.`,
-    'story.estimatedReadingTime.explained': 'Na základě průměrné rychlosti čtení {avgReadingNum} slov za minutu.',
+    'story.estimatedReadingTime.explained': 'Na základě průměrné rychlosti čtení {avgReadingNum, number} slov za minutu.',
     'discover.search.text': 'Hledaný výraz',
     'discover.searchStory.title': 'Najít příběh',
     'discover.searchStory.description': 'Najít příběhy',
@@ -55,5 +55,11 @@ export default {
     'discover.searchDisplay.list': 'Kompaktní zobrazení',
     'discover.includesAds': 'Toto dílo má umístění produktu nebo je v ní zahrnuta jiná forma reklamy.',
     'discovery.featured.universes': 'Doporučené vesmíry',
-    'discovery.featured.stories': 'Doporučené příběhy'
+    'discovery.featured.stories': 'Doporučené příběhy',
+    'discovery.story.tableOfContent': 'Obsah',
+    'story.status.hiatus': 'Pozastaveno',
+    'story.status.cancelled': 'Zrušeno',
+    'story.chapter.wasRead': 'Přečteno - {readAt, date}',
+    'discovery.moreDetails': 'Více informací',
+    'discovery.read': 'Číst'
 };

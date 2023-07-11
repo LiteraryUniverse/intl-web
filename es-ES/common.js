@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'Política de privacidad',
     'common.legal.copyright': 'Acuerdos de derecho de autor',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Términos de Servicio}
+    community {Directrices de la Comunidad}
+    privacy {Política de Privacidad}
+    copyright {Acuerdo de Copyright}
+    publishingAgreement {Acuerdo de Publicación}
+    other {Acuerdo}
+  } Versión {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nueva versión ({newVersion}) de este documento entrará en vigor el {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Todos los derechos reservados, todos los textos pertenecen a sus respectivos autores.',
     'premium.only.title': 'Rango de membresía insuficiente',
@@ -250,9 +250,9 @@ export default {
     'common.noAccountQuestion': '¿Aún no tienes una cuenta?',
     'common.haveAccountQuestion': '¿Ya tienes una cuenta?',
     'common.socialLogin': 'Inicia sesión desde otros servicios',
-    'common.viewMore': 'View more',
-    'common.overview': 'Overview',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!'
+    'common.viewMore': 'Ver más',
+    'common.overview': 'Información general',
+    'common.loggingOut': 'Cerrar sesión',
+    'common.thankYou': '¡Muchas gracias!',
+    'common.seeYouAgain': '¡Hasta la próxima!'
 }    /* eslint-enable max-len */;

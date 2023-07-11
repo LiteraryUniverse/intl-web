@@ -235,5 +235,9 @@ export default {
     'workshop.story.isAIGenerated': '物語はAIで生成されたものですか？',
     'workshop.story.isAIGeneratedTooltip': 'AIで生成、または、一部AIの機能を使って生成された作品があれば教えてください。その情報をラベルに記載します。AIプログラム使用に制限と規定がある場合があるからです。',
     'workshop.publicationAgreement.aria': 'Publication agreement for work',
-    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.'
+    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.',
+    'workshop.sortChapters': 'Sort order:',
+    'workshop.sortChapters.ascending': 'From beginning',
+    'workshop.sortChapters.descending': 'From latest',
+    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing'
 };

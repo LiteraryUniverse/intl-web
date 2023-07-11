@@ -253,6 +253,6 @@ export default {
     'common.viewMore': 'Zobraziť viac',
     'common.overview': 'Prehľad',
     'common.loggingOut': 'Odhlasovanie',
-    'common.thankYou': 'Thank you!',
+    'common.thankYou': 'Ďakujeme!',
     'common.seeYouAgain': 'Naviděnou!'
 }    /* eslint-enable max-len */;

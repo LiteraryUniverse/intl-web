@@ -16,7 +16,7 @@ export default {
         one {1分}
         other {#分}
     }で読めると思います`,
-    'story.estimatedReadingTime.explained': '平均読取速度、毎分{avgReadingNum}文字に基づいて計算されています。',
+    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
     'discover.search.text': '語句の検索',
     'discover.searchStory.title': '物語を探す',
     'discover.searchStory.description': '物語を探す',
@@ -45,5 +45,11 @@ export default {
     'discover.searchDisplay.list': 'コンパクトリスト',
     'discover.includesAds': 'この作品にはプロダクトプレイスメントなどの広告が含まれています。',
     'discovery.featured.universes': '注目の宇宙関連物語',
-    'discovery.featured.stories': '注目の物語'
+    'discovery.featured.stories': '注目の物語',
+    'discovery.story.tableOfContent': 'Table of content',
+    'story.status.hiatus': 'On hiatus',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'discovery.moreDetails': 'More details',
+    'discovery.read': 'Read'
 };

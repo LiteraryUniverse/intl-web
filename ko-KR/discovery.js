@@ -16,7 +16,7 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': '분당 평균 읽기 속도 {avgReadingNum} 단어 기준.',
+    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
     'discover.search.text': '검색어',
     'discover.searchStory.title': '스토리 검색',
     'discover.searchStory.description': '스토리 검색',
@@ -47,5 +47,11 @@ export default {
     'discover.searchDisplay.list': '간결한 목록',
     'discover.includesAds': '이 작품에는 제품 배치가 있거나 다른 형태의 광고가 포함되어 있습니다.',
     'discovery.featured.universes': '주요 유니버스',
-    'discovery.featured.stories': '추천 스토리'
+    'discovery.featured.stories': '추천 스토리',
+    'discovery.story.tableOfContent': 'Table of content',
+    'story.status.hiatus': 'On hiatus',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'discovery.moreDetails': 'More details',
+    'discovery.read': 'Read'
 };

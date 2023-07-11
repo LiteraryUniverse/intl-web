@@ -18,7 +18,7 @@ export default {
         one {1 minuta}
         other {# minut}
     } do przeczytania.`,
-    'story.estimatedReadingTime.explained': 'W oparciu o średnią prędkość czytania {avgReadingNum} słów.',
+    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
     'discover.search.text': 'Termin wyszukiwania',
     'discover.searchStory.title': 'Wyszukaj historię',
     'discover.searchStory.description': 'Szukaj historii',
@@ -53,5 +53,11 @@ export default {
     'discover.searchDisplay.list': 'Lista kompaktowa',
     'discover.includesAds': 'Ta praca zawiera lokowanie produktu lub zawiera inne formy reklamy.',
     'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories'
+    'discovery.featured.stories': 'Featured stories',
+    'discovery.story.tableOfContent': 'Table of content',
+    'story.status.hiatus': 'On hiatus',
+    'story.status.cancelled': 'Cancelled',
+    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'discovery.moreDetails': 'More details',
+    'discovery.read': 'Read'
 };
