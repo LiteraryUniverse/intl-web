@@ -247,5 +247,21 @@ export default {
     'workshop.sortChapters': 'Sort order:',
     'workshop.sortChapters.ascending': 'From beginning',
     'workshop.sortChapters.descending': 'From latest',
-    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing'
+    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing',
+    'workshop.hiatus.btn': 'Change story status to Hiatus',
+    'workshop.cancelled.btn': 'Change story status to Cancelled',
+    'workshop.complete.btn': 'Change story status to Completed',
+    'workshop.statusChange.modalTop': 'Are you sure you want to change the status to',
+    'workshop.statusName.hiatus': 'Hiatus',
+    'workshop.statusName.cancelled': 'Cancelled',
+    'workshop.statusName.completed': 'Completed',
+    'workshop.statusExplain.hiatus1': 'Hiatus means that you are stepping away from working on this story for a while for what ever reason. It will tell your readers that they should not expect any new updates in the coming weeks or even up to few months.',
+    'workshop.statusExplain.hiatus2': 'The hiatus status will be automatically lifted if you publish any chapter. Or you can change it your self.',
+    'workshop.statusExplain.hiatus3': 'If you keep your hiatus on for a year, we will automatically mark this story as cancelled.',
+    'workshop.statusExplain.cancelled1': 'We are sorry to hear that you can\'t continue working on the story. On the other hand we are happy that you are willing to let your readers know.',
+    'workshop.statusExplain.cancelled2': 'Cancelling story will let your readers know that they should not expect any new updates.',
+    'workshop.statusExplain.cancelled3': 'You can always revert this by publishing a chapter or changing the status.',
+    'workshop.statusExplain.finished1': 'Congratulations! After all that hard work you have finally reached the end of an incredible journey. While the story might end now, we hope that there will be more stories to tell in the future, but for now, relax and enjoy the well earned rest.',
+    'workshop.statusExplain.finished2': 'Marking story as complete will tell the readers that the story is finished. While you shouldn\'t be adding any new chapters we won\'t stop you and adding special chapters isn\'t a bad idea, to for example add more epilogues for all characters.',
+    'workshop.statusExplain.finished3': 'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.'
 };
