@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-07-XX - v2.9.2
+
+* Added strings for hiatus, cancellations and new completion
+
 ## 2023-07-11 - v2.9.1
 
 * Added keys for chapter sorting
