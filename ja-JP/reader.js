@@ -29,5 +29,8 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': '選択した段落のハイライトをトグルにする',
     'reader.accessibility.toggleRules': 'アシストルーラーをトグルする',
     'reader.nextRelease.scheduled': '次の章は、{nextReleaseAt, date}の{nextReleaseAt, time}に公開予定です!',
-    'reader.storyContinues': '物語は続く・・・'
+    'reader.storyContinues': '物語は続く・・・',
+    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
+    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyCancelled.heading': 'Cancelled'
 };
