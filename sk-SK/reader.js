@@ -29,5 +29,8 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Prepínanie zvýraznenia vybraného odseku',
     'reader.accessibility.toggleRules': 'Prepínanie asistenčného pravítka',
     'reader.nextRelease.scheduled': 'Ďalšia kapitola bude uverejnená {nextReleaseAt, date} v {nextReleaseAt, time}!',
-    'reader.storyContinues': 'Príbeh pokračuje...'
+    'reader.storyContinues': 'Príbeh pokračuje...',
+    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
+    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyCancelled.heading': 'Cancelled'
 };
