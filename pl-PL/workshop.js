@@ -263,5 +263,6 @@ export default {
     'workshop.statusExplain.cancelled3': 'You can always revert this by publishing a chapter or changing the status.',
     'workshop.statusExplain.finished1': 'Congratulations! After all that hard work you have finally reached the end of an incredible journey. While the story might end now, we hope that there will be more stories to tell in the future, but for now, relax and enjoy the well earned rest.',
     'workshop.statusExplain.finished2': 'Marking story as complete will tell the readers that the story is finished. While you shouldn\'t be adding any new chapters we won\'t stop you and adding special chapters isn\'t a bad idea, to for example add more epilogues for all characters.',
-    'workshop.statusExplain.finished3': 'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.'
+    'workshop.statusExplain.finished3': 'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.',
+    'workshop.status.goActive': 'Make the story active again'
 };
