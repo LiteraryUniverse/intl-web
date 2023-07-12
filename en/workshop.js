@@ -319,5 +319,6 @@ export default {
   'workshop.statusExplain.finished2':
     "Marking story as complete will tell the readers that the story is finished. While you shouldn't be adding any new chapters we won't stop you and adding special chapters isn't a bad idea, to for example add more epilogues for all characters.",
   'workshop.statusExplain.finished3':
-    'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.'
+    'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.',
+  'workshop.status.goActive': 'Make the story active again'
 }
