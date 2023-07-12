@@ -29,5 +29,8 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Выделение выбранного абзаца',
     'reader.accessibility.toggleRules': 'Вспомогательная линейка',
     'reader.nextRelease.scheduled': 'Следующая глава выйдет {nextReleaseAt, date} в {nextReleaseAt, time}!',
-    'reader.storyContinues': 'История продолжается...'
+    'reader.storyContinues': 'История продолжается...',
+    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
+    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyCancelled.heading': 'Cancelled'
 };
