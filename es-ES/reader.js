@@ -32,5 +32,5 @@ export default {
     'reader.storyContinues': 'La historia continúa...',
     'reader.storyOnHiatus': 'El autor está ahora mismo tomándose un respiro y esta historia se encuentra en un hiato por ahora. Vuelve a echarle un vistazo en un mes o dos.',
     'reader.storyCancelled': 'Por desgracia hasta aquí hemos llegado. Se ha cancelado la historia y es muy poco probable que veas algo nuevo.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyCancelled.heading': 'Cancelada'
 };
