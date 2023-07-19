@@ -280,7 +280,7 @@ export default {
     'workshop.statusName.completed': 'Завершено',
     'workshop.statusExplain.hiatus1': 'Приостановлено означает, что вы на некоторое время прекращаете работу над этой историей по какой-либо причине. Это означает, что читателям не следует ожидать новых обновлений в ближайшие недели или даже несколько месяцев.',
     'workshop.statusExplain.hiatus2': 'Приостановленное состояние будет автоматически снято, если вы опубликуете любую главу. Или вы можете изменить его самостоятельно.',
-    'workshop.statusExplain.hiatus3': 'Если она будет приостановлена в течение года, мы автоматически пометим эту историю как отменённую.',
+    'workshop.statusExplain.hiatus3': 'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',
     'workshop.statusExplain.cancelled1': 'Мы сожалеем, что вы не можете продолжать работу над историей. С другой стороны, мы рады, что вы готовы сообщить об этом своим читателям.',
     'workshop.statusExplain.cancelled2': 'Отмена истории даст вашим читателям понять, что им не стоит ожидать новых обновлений.',
     'workshop.statusExplain.cancelled3': 'Это всегда можно исправить, опубликовав главу или изменив состояние.',
