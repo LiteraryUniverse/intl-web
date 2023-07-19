@@ -307,7 +307,7 @@ export default {
   'workshop.statusExplain.hiatus2':
     'The hiatus status will be automatically lifted if you publish any chapter. Or you can change it your self.',
   'workshop.statusExplain.hiatus3':
-    'If you keep your hiatus on for a year, we will automatically mark this story as cancelled.',
+    'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',
   'workshop.statusExplain.cancelled1':
     "We are sorry to hear that you can't continue working on the story. On the other hand we are happy that you are willing to let your readers know.",
   'workshop.statusExplain.cancelled2':
