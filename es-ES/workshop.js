@@ -261,7 +261,7 @@ export default {
     'workshop.statusName.completed': 'Completada?',
     'workshop.statusExplain.hiatus1': 'Un hiato en este caso significa que vas a dejar temporalmente de escribir esta historia por algún motivo. Esto le notificará a tus lectores que será mejor que no esperen actualizaciones en las próximas semanas o meses.',
     'workshop.statusExplain.hiatus2': 'El estado de En Hiato se modificará automáticamente si publicas un capítulo. También puedes modificarlo por tu cuenta.',
-    'workshop.statusExplain.hiatus3': 'Si mantienes el hiato a lo largo de un año marcaremos la historia como cancelada automáticamente.',
+    'workshop.statusExplain.hiatus3': 'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',
     'workshop.statusExplain.cancelled1': 'Lamentamos que no puedas seguir escribiendo tu historia. Por otro lado te agradecemos que se lo comuniques a tus lectores.',
     'workshop.statusExplain.cancelled2': 'Cancelar una historia les hará saber a tus lectores que no deberían esperar futuras actualizaciones.',
     'workshop.statusExplain.cancelled3': 'Siempre puedes revertir este cambio publicando un capítulo o cambiando el estado.',
