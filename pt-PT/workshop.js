@@ -261,7 +261,7 @@ export default {
     'workshop.statusName.completed': 'Completed',
     'workshop.statusExplain.hiatus1': 'Hiatus means that you are stepping away from working on this story for a while for what ever reason. It will tell your readers that they should not expect any new updates in the coming weeks or even up to few months.',
     'workshop.statusExplain.hiatus2': 'The hiatus status will be automatically lifted if you publish any chapter. Or you can change it your self.',
-    'workshop.statusExplain.hiatus3': 'If you keep your hiatus on for a year, we will automatically mark this story as cancelled.',
+    'workshop.statusExplain.hiatus3': 'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',
     'workshop.statusExplain.cancelled1': 'We are sorry to hear that you can\'t continue working on the story. On the other hand we are happy that you are willing to let your readers know.',
     'workshop.statusExplain.cancelled2': 'Cancelling story will let your readers know that they should not expect any new updates.',
     'workshop.statusExplain.cancelled3': 'You can always revert this by publishing a chapter or changing the status.',
