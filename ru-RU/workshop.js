@@ -287,5 +287,13 @@ export default {
     'workshop.statusExplain.finished1': 'Поздравляем! После столь напряжённой работы вы наконец-то достигли конца невероятного путешествия. Мы надеемся, что в будущем вас ждут новые истории, а пока расслабьтесь и наслаждайтесь заслуженным отдыхом.',
     'workshop.statusExplain.finished2': 'Пометка истории как завершённой сообщит читателям, что история закончена. Хотя вам не следует добавлять новые главы, мы не будем вас останавливать, и добавление специальных глав - неплохая идея, например, добавить эпилоги для всех персонажей.',
     'workshop.statusExplain.finished3': 'Хотя вы всегда можете отменить это состояние, мы настоятельно рекомендуем этого не делать. Если история должна продолжаться, лучше начать новую.',
-    'workshop.status.goActive': 'Вновь сделать историю активной'
+    'workshop.status.goActive': 'Вновь сделать историю активной',
+    'workshop.statusChangeEmail.storyIntro': 'We would like to inform you that your story:',
+    'workshop.statusChangeEmail.hiatusTitle': 'Your story status was automatically set to hiatus',
+    'workshop.statusChangeEmail.hiatusIntro': 'Due to inactivity your story status was automatically set to hiatus.',
+    'workshop.statusChangeEmail.hiatusWhy': 'Has been automatically put on hiatus due to no new chapter being published for over 6 months.',
+    'workshop.statusChangeEmail.hiatusWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t publish a new chapter in the next 6 months we will automatically set the story as cancelled.',
+    'workshop.statusChangeEmail.cancellationIntro': 'Your story status was automatically set to cancelled.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.'
 };
