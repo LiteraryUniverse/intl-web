@@ -257,7 +257,7 @@ export default {
     'workshop.sortChapters.ascending': 'Od začátku',
     'workshop.sortChapters.descending': 'Od posledního',
     'workshop.sortChapters.aria': 'Vyberte způsob, jak seřadit kapitoly',
-    'workshop.hiatus.btn': 'Change story status to Hiatus',
+    'workshop.hiatus.btn': 'Změnit stav příběhu na Hiatus',
     'workshop.cancelled.btn': 'Change story status to Cancelled',
     'workshop.complete.btn': 'Change story status to Completed',
     'workshop.statusChange.modalTop': 'Are you sure you want to change the status to',
