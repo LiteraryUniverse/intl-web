@@ -4,5 +4,5 @@ export default {
   'personalNotes.storyNotes': 'Story Notes',
   'personalNotes.chapterNotes': 'Chapter Notes',
   'personalNotes.universeNotes': 'Universe Notes',
-  'personalNotes.encyclopediaNotes': 'Encyclopedia Notes'
+  'personalNotes.encyclopediaNotes': 'Encyclopedia Entry Notes'
 };
