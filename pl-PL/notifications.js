@@ -4,5 +4,9 @@ export default {
   'flashnews.startsAt': 'Zacznij wyświetlać tę wiadomość na',
   'flashnews.endsAt': 'Zatrzymaj wyświetlanie tej wiadomości na',
   'flashnews.newLanguage': 'Wybierz nowy język do dodania',
-  'flashnews.onlyDisplayOn': 'Wiadomości będą wyświetlane tylko w językach wybranych poniżej (jeśli zostały wybrane), w innych językach nie będą wyświetlane żadne wiadomości, nawet w języku domyślnym.'
+  'flashnews.onlyDisplayOn': 'Wiadomości będą wyświetlane tylko w językach wybranych poniżej (jeśli zostały wybrane), w innych językach nie będą wyświetlane żadne wiadomości, nawet w języku domyślnym.',
+  'notifications.menu.all': 'All notification',
+  'notifications.menu.following': 'Following',
+  'notifications.menu.workshop': 'Workshop',
+  'notifications.menu.news': 'News & updates'
 };
