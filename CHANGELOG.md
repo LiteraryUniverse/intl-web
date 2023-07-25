@@ -1,6 +1,8 @@
 # Changelog for languages
 
-## 2023-07-XX - v2.9.2
+## 2023-07-XX - v2.10.0
+
+## 2023-07-25 - v2.9.2
 
 * Added strings for hiatus, cancellations and new completion
 
