@@ -2,6 +2,9 @@
 
 ## 2023-07-XX - v2.10.0
 
+* New personal notes translation file
+* Added strings for notifications
+
 ## 2023-07-25 - v2.9.2
 
 * Added strings for hiatus, cancellations and new completion

@@ -34,6 +34,7 @@ import roadmap from './roadmap'
 import events from './events'
 import fanManager from './fan_manager'
 import readingList from './reading_list'
+import personalNotes from './personalNotes'
 
 export default {
   locales: ['pl', 'pl-PL'],
@@ -72,5 +73,6 @@ export default {
   ...roadmap,
   ...events,
   ...fanManager,
-  ...readingList
+  ...readingList,
+  ...personalNotes
 }
