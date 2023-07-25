@@ -29,5 +29,8 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Conmutar el resaltado del párrafo seleccionado',
     'reader.accessibility.toggleRules': 'Alternar la regla de asistencia',
     'reader.nextRelease.scheduled': '¡El próximo capítulo llegará el {nextReleaseAt, date} a las {nextReleaseAt, time}!',
-    'reader.storyContinues': 'La historia continúa...'
+    'reader.storyContinues': 'La historia continúa...',
+    'reader.storyOnHiatus': 'El autor está ahora mismo tomándose un respiro y esta historia se encuentra en un hiato por ahora. Vuelve a echarle un vistazo en un mes o dos.',
+    'reader.storyCancelled': 'Por desgracia hasta aquí hemos llegado. Se ha cancelado la historia y es muy poco probable que veas algo nuevo.',
+    'reader.storyCancelled.heading': 'Cancelada'
 };

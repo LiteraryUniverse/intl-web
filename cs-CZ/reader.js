@@ -29,5 +29,8 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Přepnout zvýraznění vybraného odstavce',
     'reader.accessibility.toggleRules': 'Přepnout asistenční pravidlo',
     'reader.nextRelease.scheduled': 'Další kapitola vyjde {nextReleaseAt, date} v {nextReleaseAt, time}!',
-    'reader.storyContinues': 'Příběh pokračuje...'
+    'reader.storyContinues': 'Příběh pokračuje...',
+    'reader.storyOnHiatus': 'Autor si v současné době bere přestávku a tento příběh je nyní na hiatusu. Zkuste se vrátit za měsíc nebo dva.',
+    'reader.storyCancelled': 'Bohužel tohle je vše. Tento příběh je tak zvaně zrušen a je velice nepravděpodobné že budou následovat další kapitoly.',
+    'reader.storyCancelled.heading': 'Zrušeno'
 };

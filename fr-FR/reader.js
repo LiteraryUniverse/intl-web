@@ -29,5 +29,8 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Basculer les paragraphes sélectionnés en surbrillance',
     'reader.accessibility.toggleRules': 'Basculer la règle d\'assistance',
     'reader.nextRelease.scheduled': 'Le prochain chapitre sera publié le {nextReleaseAt, date} à {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...'
+    'reader.storyContinues': 'The story continues...',
+    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
+    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyCancelled.heading': 'Cancelled'
 };
