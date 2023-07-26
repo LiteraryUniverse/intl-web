@@ -4,5 +4,5 @@ export default {
   'personalNotes.storyNotes': 'Poznámky k příběhu',
   'personalNotes.chapterNotes': 'Poznámky ke kapitole',
   'personalNotes.universeNotes': 'Poznámky k vesmíru',
-  'personalNotes.encyclopediaNotes': 'Encyclopedia Entry Notes'
+  'personalNotes.encyclopediaNotes': 'Poznámky k Encyklopedii'
 };
