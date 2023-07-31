@@ -273,8 +273,8 @@ export default {
     'workshop.statusChangeEmail.hiatusTitle': 'Hemos marcado automáticamente el estado de tu historia como en hiato',
     'workshop.statusChangeEmail.hiatusIntro': 'Debido a la inactividad hemos establecido automáticamente el estado de tu historia como en hiato.',
     'workshop.statusChangeEmail.hiatusWhy': 'Ha sido marcada automáticamente como en hiato debido a que no se han publicado nuevos capítulos en más de 6 meses.',
-    'workshop.statusChangeEmail.hiatusWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t publish a new chapter in the next 6 months we will automatically set the story as cancelled.',
-    'workshop.statusChangeEmail.cancellationIntro': 'Your story status was automatically set to cancelled.',
-    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
-    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.'
+    'workshop.statusChangeEmail.hiatusWhatFollows': 'El estado se cambiará automáticamente si publicas un nuevo capítulo. Si no publicas un capítulo en los próximos 6 meses marcaremos automáticamente la historia como cancelada.',
+    'workshop.statusChangeEmail.cancellationIntro': 'El estado de tu historia ha sido cambiado automáticamente a cancelada.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Esto ha ocurrido debido a que no has publicado ningún capítulo nuevo desde que se marcó como en hiato hace 6 meses. Así pues, tras un año de inactividad hemos marcado las historias como canceladas automáticamente para que los lectores sepan cuales están en activo.',
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'Este estado se revocará automáticamente si publicas un nuevo capítulo. Si no tienes pensado seguir escribiendo esta historia no necesitas hacer nada más.'
 };
