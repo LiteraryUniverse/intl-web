@@ -1,8 +1,8 @@
 export default {
-  'personalNotes.personalNotes': 'Personal Notes',
-  'personalNotes.chooseType': 'Choose the type of personal note',
-  'personalNotes.storyNotes': 'Story Notes',
-  'personalNotes.chapterNotes': 'Chapter Notes',
-  'personalNotes.universeNotes': 'Universe Notes',
-  'personalNotes.encyclopediaNotes': 'Encyclopedia Entry Notes'
+  'personalNotes.personalNotes': 'Notas Personales',
+  'personalNotes.chooseType': 'Elige el tipo de notas personales',
+  'personalNotes.storyNotes': 'Notas de Historia',
+  'personalNotes.chapterNotes': 'Notas de Capítulo',
+  'personalNotes.universeNotes': 'Notas de Universo',
+  'personalNotes.encyclopediaNotes': 'Notas de Entrada de la Enciclopedia'
 };
