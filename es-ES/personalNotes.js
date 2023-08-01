@@ -4,5 +4,8 @@ export default {
   'personalNotes.storyNotes': 'Notas de Historia',
   'personalNotes.chapterNotes': 'Notas de Capítulo',
   'personalNotes.universeNotes': 'Notas de Universo',
-  'personalNotes.encyclopediaNotes': 'Notas de Entrada de la Enciclopedia'
+  'personalNotes.encyclopediaNotes': 'Encyclopedia Notes',
+  'personalNotes.storyPersonalNotesHeading': 'Personal Notes on Stories',
+  'personalNotes.encyclopediaPersonalNotesHeading': 'Personal Notes on Encyclopedia',
+  'personalNotes.searchPersonalNotesHeading': 'Search Personal Notes'
 };
