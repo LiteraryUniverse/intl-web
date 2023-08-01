@@ -7,5 +7,8 @@ export default {
   'personalNotes.encyclopediaNotes': 'Encyclopedia Notes',
   'personalNotes.storyPersonalNotesHeading': 'Personal Notes on Stories',
   'personalNotes.encyclopediaPersonalNotesHeading': 'Personal Notes on Encyclopedia',
-  'personalNotes.searchPersonalNotesHeading': 'Search Personal Notes'
+  'personalNotes.searchPersonalNotesHeading': 'Search Personal Notes',
+  'personalNotes.goToStory': 'Go to story',
+  'personalNotes.goToChapter': 'Go to chapter',
+  'personalNotes.closeDropdown': 'Close the dropdown'
 };
