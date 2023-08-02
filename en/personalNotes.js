@@ -10,5 +10,7 @@ export default {
   'personalNotes.searchPersonalNotesHeading': 'Search Personal Notes',
   'personalNotes.goToStory': 'Go to story',
   'personalNotes.goToChapter': 'Go to chapter',
+  'personalNotes.goToEncyclopedia': 'Go to Universe’s Encyclopedia',
+  'personalNotes.goToEncyclopediaEntry': 'Go To Enscylopedia’s Entry',
   'personalNotes.closeDropdown': 'Close the dropdown',
 }
