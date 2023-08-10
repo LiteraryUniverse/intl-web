@@ -4,13 +4,13 @@ export default {
   'personalNotes.storyNotes': 'Notas de Historia',
   'personalNotes.chapterNotes': 'Notas de Capítulo',
   'personalNotes.universeNotes': 'Notas de Universo',
-  'personalNotes.encyclopediaNotes': 'Encyclopedia Notes',
-  'personalNotes.storyPersonalNotesHeading': 'Personal Notes on Stories',
-  'personalNotes.encyclopediaPersonalNotesHeading': 'Personal Notes on Encyclopedia',
-  'personalNotes.searchPersonalNotesHeading': 'Search Personal Notes',
-  'personalNotes.goToStory': 'Go to story',
-  'personalNotes.goToChapter': 'Go to chapter',
-  'personalNotes.goToEncyclopedia': 'Go to Universe’s Encyclopedia',
-  'personalNotes.goToEncyclopediaEntry': 'Go To Enscylopedia’s Entry',
-  'personalNotes.closeDropdown': 'Close the dropdown'
+  'personalNotes.encyclopediaNotes': 'Notas de Enciclopedia',
+  'personalNotes.storyPersonalNotesHeading': 'Notas Personales sobre las Historias',
+  'personalNotes.encyclopediaPersonalNotesHeading': 'Notas Personales sobre la Enciclopedia',
+  'personalNotes.searchPersonalNotesHeading': 'Buscar Notas Personales',
+  'personalNotes.goToStory': 'Ir a la historia',
+  'personalNotes.goToChapter': 'Ir a un capítulo',
+  'personalNotes.goToEncyclopedia': 'Ir a la Enciclopedia del Universo',
+  'personalNotes.goToEncyclopediaEntry': 'Ir a una Entrada de la Enciclopedia',
+  'personalNotes.closeDropdown': 'Cerrar el desplegable'
 };
