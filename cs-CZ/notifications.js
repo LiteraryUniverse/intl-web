@@ -5,15 +5,15 @@ export default {
   'flashnews.endsAt': 'Přestaneme zobrazovat tuto zprávu od',
   'flashnews.newLanguage': 'Vyberte nový jazyk pro přidání',
   'flashnews.onlyDisplayOn': 'Zprávy budou zobrazeny pouze na jazycích vybraných níže (pokud jsou vybrány). Zpráva nebude zobrazena ve výchozím jazyku pro uživatele s jiným jazykem.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
+  'notifications.menu.all': 'Všechna oznámení',
+  'notifications.menu.following': 'Sledující',
+  'notifications.menu.workshop': 'Ateliér',
+  'notifications.menu.news': 'Novinky a aktualizace',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': '{username} has commented on {storyName}'
+  'notification.workshopStoryStatus.toHiatus': 'Váš příběh {storyName} byl automaticky nastaven na hiatus po 6 měsících nečinnosti.',
+  'notification.workshopStoryStatus.toCancelled': 'Váš příběh {storyName} byl automaticky nastaven na zrušený po roce bez nových kapitol.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} je na hiatusu.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} byla zrušena.',
+  'notification.followingNewChapter.new': 'Nová kapitola {storyName} byla publikována!',
+  'notification.workshopStory.newComment': '{username} okomentoval/a na {storyName}'
 };
