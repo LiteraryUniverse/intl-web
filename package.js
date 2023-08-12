@@ -1,13 +1,13 @@
 /* global Package */
 Package.describe({
   name: 'lu-intl',
-  version: '2.9.2',
+  version: '2.10.0',
   summary: 'Intl for Literary Universe',
   documentation: 'README.md'
 })
 
 Package.onUse(function (api) {
-  api.versionsFrom('2.6')
+  api.versionsFrom('2.8.1')
   api.use(['ecmascript', 'typescript', 'zodern:types'])
   api.mainModule('./index.ts', ['client', 'server'], { lazy: true })
 })
