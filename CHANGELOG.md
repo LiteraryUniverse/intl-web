@@ -1,9 +1,10 @@
 # Changelog for languages
 
-## 2023-07-XX - v2.10.0
+## 2023-08-12 - v2.10.0
 
 * New personal notes translation file
 * Added strings for notifications
+* Bump Meteor minimum version to 2.8.1
 
 ## 2023-07-25 - v2.9.2
 
