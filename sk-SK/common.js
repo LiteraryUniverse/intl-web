@@ -255,5 +255,5 @@ export default {
     'common.loggingOut': 'Odhlasovanie',
     'common.thankYou': 'Ďakujeme!',
     'common.seeYouAgain': 'Naviděnou!',
-    'email.hello': 'Hello {username},'
+    'email.hello': 'Dobrý deň {username},'
 }    /* eslint-enable max-len */;
