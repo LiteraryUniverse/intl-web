@@ -11,6 +11,6 @@ export default {
   'personalNotes.goToStory': 'Přejít na příběh',
   'personalNotes.goToChapter': 'Přejít do kapitoly',
   'personalNotes.goToEncyclopedia': 'Přejít do encykoplopédie',
-  'personalNotes.goToEncyclopediaEntry': 'Přejít na záznam v encyklopédii',
+  'personalNotes.goToEncEntry': 'Go to entry',
   'personalNotes.closeDropdown': 'Zavřít seznam'
 };
