@@ -11,6 +11,6 @@ export default {
   'personalNotes.goToStory': 'Go to story',
   'personalNotes.goToChapter': 'Go to chapter',
   'personalNotes.goToEncyclopedia': 'Go to Universe’s Encyclopedia',
-  'personalNotes.goToEncyclopediaEntry': 'Go To Enscylopedia’s Entry',
+  'personalNotes.goToEncEntry': 'Go to entry',
   'personalNotes.closeDropdown': 'Close the dropdown'
 };
