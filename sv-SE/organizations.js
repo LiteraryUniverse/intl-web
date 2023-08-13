@@ -34,7 +34,7 @@ export default {
   }`,
     'org.members.invited': 'Invited members',
     'org.members.list': 'Organization members',
-    'org.invitesTileNotice': 'You have been invited to {count, number} {count, plural, one {organization} other {organizations}}',
+    'org.invitesTileNotice': 'Du har blivit inbjuden till {count, number} {count, plural, one {organisation} other {organisationer}}',
     'org.invitePage.title': 'Invitations to organizations',
     'org.invitePage.invitedAt': 'You have been invited on {invitedAt, date, short}.',
     'org.invitePage.ignoring': 'You are currently ignoring this invitation, which means that it is still active, but doesn\'t bothers with notifications.',
