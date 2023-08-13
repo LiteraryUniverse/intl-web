@@ -230,7 +230,7 @@ export default {
     'workshop.revShare.undecided': 'Undecided',
     'workshop.revShare.origLangCreators': 'Original language creators',
     'workshop.story.prolog': 'Prolog',
-    'workshop.story.chapter': 'Chapter {sequence, number}',
+    'workshop.story.chapter': 'Kapitel {sequence, number}',
     'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
     'workshop.universe.forumSettings': 'Internal universe forum settings',
     'workshop.universe.forum': 'Internal {universeName} forum',
