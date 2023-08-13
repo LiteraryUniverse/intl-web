@@ -27,7 +27,7 @@ export default {
     'stats.chapter.visitorsAndViews': 'Total visitors and views per chapter',
     'stats.chapter.wordCount': 'Word count per chapter',
     'stats.chapter.chartTooltipViews': `Kapitel {chapter, number}: {views, number} visningar`,
-    'stats.chapter.chartTooltipVisitors': `Chapter {chapter, number}: {visitors, number} unique visitors`,
+    'stats.chapter.chartTooltipVisitors': `Kapitel {chapter, number}: {visitors, number} unika besökare`,
     'stats.chapter.chartTooltipWordCount': `Kapitel {chapter, number}: {wordCount, number} ord`,
     'stats.totalHits': 'Total views',
     'stats.totalVisitors': 'Total unique visitors',
