@@ -11,7 +11,7 @@ export default {
     'writer.bold': 'Bold the selection',
     'writer.underline': 'Underline the selection',
     'writer.italic': 'Emphasize the selection',
-    'writer.wordcount': '{characters, number} characters, {words, number} words',
+    'writer.wordcount': '{characters, number} tecken, {words, number} ord',
     'finder.details': 'details',
     'finder.remove': 'remove the connection',
     'finder.connect': 'Connect selection to encyclopedia entry',
