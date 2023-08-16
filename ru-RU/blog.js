@@ -1,6 +1,6 @@
 export default {
     'blog.noneMsg': `У вас пока нет {type, select,
-    organization {какого-либо}
+    organization {какого-либо блога}
     universe {блога для вашей вселенной}
     user {блога}
     other {}
