@@ -1,6 +1,6 @@
 export default {
     'workshop.title': 'Ваша работа',
-    'workshop.noneassigned': 'Вы ещё ничего не назначили.',
+    'workshop.noneassigned': 'Вы ещё ничего/никого не назначили.',
     'workshop.notavailable': 'Эта функция пока недоступна.',
     'workshop.none': `У вас нет {type, select,
       universe {вселенной. Создайте её прямо сейчас}
@@ -9,7 +9,7 @@ export default {
       other {}
     }!`,
     'workshop.collab': 'Совместная работа',
-    'workshop.betareadings': 'Читатели-тестировщиков',
+    'workshop.betareadings': 'Читатели-тестировщики',
     'workshop.translations': 'Переводы',
     'workshop.createnew': 'Создать новый...',
     'workshop.story.standalone': 'Отдельная история',
