@@ -29,7 +29,7 @@ export default {
     'feedback.voting.upvote': 'Полож. голос',
     'feedback.voting.downvote': 'Отриц. голос',
     'feedback.voting.score': 'Всего голосов',
-    'feedback.report.title': 'Содержание жалобы',
+    'feedback.report.title': 'Пожаловаться',
     'feedback.report.typeSelect': 'В чём проблема?',
     'feedback.reportType.law': 'Нарушение закона',
     'feedback.reportType.vulgar': 'Вульгарность/непристойность',
