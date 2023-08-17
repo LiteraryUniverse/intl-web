@@ -30,7 +30,7 @@ export default {
     'plans.feature.encAdvCategories': 'Больше категорий энциклопедии',
     'plans.feature.scratchpad': 'Блокнот',
     'plans.feature.library': 'Библиотека',
-    'plans.feature.blog': 'Личные и вселенские блоги',
+    'plans.feature.blog': 'Личные блоги и блоги вселенной',
     'plans.feature.customBlogTheme': 'Настраиваемые темы блога',
     'plans.feature.advanceStats': 'Расширенная статистика',
     'plans.feature.challenges': 'Испытания написания',
