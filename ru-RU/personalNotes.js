@@ -13,6 +13,6 @@ export default {
   'personalNotes.goToEncyclopedia': 'Перейти к энциклопедии вселенной',
   'personalNotes.goToEncEntry': 'Перейти к записи',
   'personalNotes.closeDropdown': 'Закрыть раскрывающийся список',
-  'personalNotes.chapterName': 'Chapter {sequence} - {title}',
-  'personalNotes.objectPersonalNotes': '{object} personal note'
+  'personalNotes.chapterName': 'Глава {sequence} - {title}',
+  'personalNotes.objectPersonalNotes': 'Личная заметка {object}'
 };
