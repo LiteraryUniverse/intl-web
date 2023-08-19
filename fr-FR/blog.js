@@ -50,5 +50,6 @@ export default {
     'blogs.visit': 'Visitez le blog',
     'blog.settingsAria': 'Paramètres des catégories pour le blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum'
+    'blog.settings.forum': 'Forum',
+    'blog.post.introText': 'Introduction paragraph'
 };
