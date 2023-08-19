@@ -1,5 +1,5 @@
 export default {
-    'homepage.welcome': 'Welcome to',
+    'homepage.welcome': 'Välkommen till',
     'homepage.start': 'Start Your journey!',
     'homepage.iAm': 'I am a',
     'homepage.iAm.aria': 'Select between display of features for readers and writers',
