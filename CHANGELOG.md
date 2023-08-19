@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2023-08-19 - v2.10.1
+
+* Additional texts for personal notes
+* New string for blog introduction field
+
 ## 2023-08-12 - v2.10.0
 
 * New personal notes translation file
