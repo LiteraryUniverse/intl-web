@@ -1,7 +1,7 @@
 export default {
     'groups.listing.title': 'User groups',
     'groups.listing.organizationTitle': 'Teams',
-    'groups.create.title': 'Create a new group',
+    'groups.create.title': 'Skapa en ny grupp',
     'groups.type.label': 'Type',
     'groups.type.open': 'Open',
     'groups.type.openDesc': 'Open - Anyone can join the group.',
@@ -16,7 +16,7 @@ export default {
     one {is one member}
     other {are # members}
   } in this group`,
-    'groups.leaveGroup': 'Leave group',
+    'groups.leaveGroup': 'Lämna grupp',
     'groups.leaveGroup.confirm': 'Just to make sure. Are you certain that you want to leave {groupName}?',
     'group.settings': 'Group settings',
     'group.role.member': 'Member',
