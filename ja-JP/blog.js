@@ -49,5 +49,6 @@ export default {
     'blogs.visit': 'ブログへ行く',
     'blog.settingsAria': 'ブログのカテゴリ設定',
     'blog.settings.blog': 'ブログ',
-    'blog.settings.forum': '掲示板'
+    'blog.settings.forum': '掲示板',
+    'blog.post.introText': 'Introduction paragraph'
 };
