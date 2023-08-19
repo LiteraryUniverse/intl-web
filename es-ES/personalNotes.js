@@ -12,5 +12,7 @@ export default {
   'personalNotes.goToChapter': 'Ir a un capítulo',
   'personalNotes.goToEncyclopedia': 'Ir a la Enciclopedia del Universo',
   'personalNotes.goToEncEntry': 'Ir a la entrada',
-  'personalNotes.closeDropdown': 'Cerrar el desplegable'
+  'personalNotes.closeDropdown': 'Cerrar el desplegable',
+  'personalNotes.chapterName': 'Chapter {sequence} - {title}',
+  'personalNotes.objectPersonalNotes': '{object} personal note'
 };
