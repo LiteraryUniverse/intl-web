@@ -1,5 +1,5 @@
 export default {
-    'groups.listing.title': 'Группы пользователя',
+    'groups.listing.title': 'Группы пользователей',
     'groups.listing.organizationTitle': 'Команды',
     'groups.create.title': 'Создать новую группу',
     'groups.type.label': 'Тип',

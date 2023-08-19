@@ -121,7 +121,7 @@ export default {
     'beta.notice': 'Добро пожаловать в Literary Universe БЕТА. Это общедоступная предварительная версия, и поэтому приложение всё ещё находится в разработке. Это означает, что вы всё ещё можете ожидать ошибок и незавершённых функций. Если вы столкнулись с ошибкой или что-то не работает, сообщите нам об этом и проявите терпение, пока мы всё исправим.',
     'beta.thanks': 'Спасибо за поддержку!',
     'scratchpad.about': 'Ваши заметки и идеи доступны в любом месте на сайте.',
-    'common.feedback': 'Отзыв',
+    'common.feedback': 'Обратная связь',
     'common.createdOn': 'Создано {date, date, long}',
     'common.createdOn.title': 'Создано',
     // account types
@@ -255,5 +255,5 @@ export default {
     'common.loggingOut': 'Выход',
     'common.thankYou': 'Спасибо!',
     'common.seeYouAgain': 'Увидимся!',
-    'email.hello': 'Hello {username},'
+    'email.hello': 'Здравствуйте {username},'
 }    /* eslint-enable max-len */;

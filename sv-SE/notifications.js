@@ -10,7 +10,7 @@ export default {
   'notifications.menu.workshop': 'Workshop',
   'notifications.menu.news': 'News & updates',
   'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
+  'notifications.menu.markRead': 'Markera som läst',
   'notifications.menu.delete': 'Delete notification',
   // Notification messages
   'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',

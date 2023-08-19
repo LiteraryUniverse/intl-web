@@ -1,6 +1,6 @@
 export default {
     'blog.noneMsg': `У вас пока нет {type, select,
-    organization {какого-либо}
+    organization {какого-либо блога}
     universe {блога для вашей вселенной}
     user {блога}
     other {}
@@ -31,7 +31,7 @@ export default {
     'blog.lists.works': `{type, select,
     universes {Вселенные}
     stories {Отдельные истории}
-    fanfiction {Работа в жанре фанфика}
+    fanfiction {Работ в жанре фанфика}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Здесь перечислены отдельные истории, если история была написана как часть вселенной, то она будет указана на странице вселенной.',
@@ -51,5 +51,6 @@ export default {
     'blogs.visit': 'Перейти в блог',
     'blog.settingsAria': 'Настройки категорий для блога',
     'blog.settings.blog': 'Блог',
-    'blog.settings.forum': 'Форум'
+    'blog.settings.forum': 'Форум',
+    'blog.post.introText': 'Introduction paragraph'
 };

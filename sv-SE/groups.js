@@ -1,7 +1,7 @@
 export default {
     'groups.listing.title': 'User groups',
     'groups.listing.organizationTitle': 'Teams',
-    'groups.create.title': 'Create a new group',
+    'groups.create.title': 'Skapa en ny grupp',
     'groups.type.label': 'Type',
     'groups.type.open': 'Open',
     'groups.type.openDesc': 'Open - Anyone can join the group.',
@@ -16,7 +16,7 @@ export default {
     one {is one member}
     other {are # members}
   } in this group`,
-    'groups.leaveGroup': 'Leave group',
+    'groups.leaveGroup': 'Lämna grupp',
     'groups.leaveGroup.confirm': 'Just to make sure. Are you certain that you want to leave {groupName}?',
     'group.settings': 'Group settings',
     'group.role.member': 'Member',
@@ -33,8 +33,9 @@ export default {
     'groups.invite.modalAria': 'Invite users to group dialog',
     'groups.invite.send': 'Send invite',
     'groups.invite.label': 'Find user to invite',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
+    'groups.invite.tileMsg': `Du har {count, plural,
+    one {en gruppinbjudan}
+    other {# gruppinbjudningar}
   }`,
     'groups.invites.title': 'Group invitations',
     'group.invite.accept': 'Accept invite',

@@ -50,5 +50,6 @@ export default {
     'blogs.visit': 'زيارة المدونة',
     'blog.settingsAria': 'Settings categories for the blog',
     'blog.settings.blog': 'المدونة',
-    'blog.settings.forum': 'المنتدى'
+    'blog.settings.forum': 'المنتدى',
+    'blog.post.introText': 'Introduction paragraph'
 };

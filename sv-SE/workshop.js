@@ -165,7 +165,7 @@ export default {
     'workshop.shoppingExternal.storeName': 'Store name',
     'workshop.shoppingExternal.itemUrl': 'Item URL',
     'workshop.shoppingExternal.storesOther': 'Other stores',
-    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
+    'fictionalTime.units.milliseconds': '{units, number} millisekunder',
     'fictionalTime.countdownToStart': 'Countdown to time beginning',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
@@ -185,24 +185,24 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {sekund}
+      other {sekunder}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {minut}
+      other {minuter}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {timme}
+      other {timmar}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {dag}
+      other {dagar}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {år}
+      other {år}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
@@ -230,7 +230,7 @@ export default {
     'workshop.revShare.undecided': 'Undecided',
     'workshop.revShare.origLangCreators': 'Original language creators',
     'workshop.story.prolog': 'Prolog',
-    'workshop.story.chapter': 'Chapter {sequence, number}',
+    'workshop.story.chapter': 'Kapitel {sequence, number}',
     'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
     'workshop.universe.forumSettings': 'Internal universe forum settings',
     'workshop.universe.forum': 'Internal {universeName} forum',
