@@ -164,5 +164,9 @@ export default {
     'plans.taxMayApply': '* Puede añadirse el IVA y otros impuestos similares',
     'plans.faq.crypto': '¿Y ofreceréis pagos en criptomoneda?',
     'plans.faq.cryptoAnswer': 'Así es, estamos trabajando en ello. Somos fans de la Web3 y estamos buscando formas de integrar la Web3 en la plataforma de cara a futuro. Por ahora hemos permitido el acceso con Web3 y queremos expandir esta opción, en concreto a la hora de pagar a los creadores y darles la posibilidad de aceptar cualquier tipo de opción de pago que quieran escoger.',
-    'plans.subscribed.updating': 'Puede que tardemos un poco en actualizar la información de tu suscripción. ¡Gracias por la paciencia!'
+    'plans.subscribed.updating': 'Puede que tardemos un poco en actualizar la información de tu suscripción. ¡Gracias por la paciencia!',
+    'payments.methods.webMonetization': 'Web Monetization',
+    'stripeConnect.settings.title': 'Payouts',
+    'stripeConnect.settings.intro': 'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
+    'stripeConnect.settings.connectAccount': 'Setup Stripe Account'
 };
