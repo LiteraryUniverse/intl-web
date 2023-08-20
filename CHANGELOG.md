@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2023-08-XX - v2.10.2
+
+* Added new texts for Stripe Connect
+
 ## 2023-08-19 - v2.10.1
 
 * Additional texts for personal notes
