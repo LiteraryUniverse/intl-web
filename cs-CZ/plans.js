@@ -164,5 +164,9 @@ export default {
     'plans.taxMayApply': '* DPH a další daně zde nejsou započteny',
     'plans.faq.crypto': 'Nabídnete krypto platby?',
     'plans.faq.cryptoAnswer': 'Ano, pracujeme na tom. Jsme velcí fanoušci Web3 hledáme způsoby, jak integrovat Web3 do platformy v blízké budoucnosti. V současné době povolujeme přihlášení pomocí Web3 a hledáme chytré možnosti rozšíření z tohoto základu, zejména pokud jde o poskytování náhrad tvůrcům a tvůrcům možnost vybrat si všechny možné možnosti platby, které chtějí přijmout.',
-    'plans.subscribed.updating': 'Aktualizace předplatného může chvíli trvat. Děkujeme Vám za trpělivost!'
+    'plans.subscribed.updating': 'Aktualizace předplatného může chvíli trvat. Děkujeme Vám za trpělivost!',
+    'payments.methods.webMonetization': 'Web Monetization',
+    'stripeConnect.settings.title': 'Payouts',
+    'stripeConnect.settings.intro': 'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
+    'stripeConnect.settings.connectAccount': 'Setup Stripe Account'
 };
