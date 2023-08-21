@@ -165,8 +165,8 @@ export default {
     'plans.faq.crypto': 'Будете ли вы предлагать криптовалютные платежи?',
     'plans.faq.cryptoAnswer': 'Да, мы работаем над этим. Мы большие поклонники Web3 и ищем способы интегрировать Web3 в платформу в ближайшем будущем. В настоящее время мы разрешаем вход в учётную запись с помощью Web3, и мы хотим расширить это предложение, особенно когда речь идёт о предоставлении компенсации создателям и предоставлении им возможности выбирать все возможные варианты оплаты, которые они хотят принять.',
     'plans.subscribed.updating': 'Обновление информации о вашей подписке может занять некоторое время. Спасибо за ваше терпение!',
-    'payments.methods.webMonetization': 'Web Monetization',
-    'stripeConnect.settings.title': 'Payouts',
-    'stripeConnect.settings.intro': 'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
-    'stripeConnect.settings.connectAccount': 'Setup Stripe Account'
+    'payments.methods.webMonetization': 'Веб-монетизация',
+    'stripeConnect.settings.title': 'Выплаты',
+    'stripeConnect.settings.intro': 'Если вы хотите получать средства или продавать через Literary Universe, вам необходимо создать аккаунт Stripe с помощью кнопки, расположенной ниже.',
+    'stripeConnect.settings.connectAccount': 'Установка Stripe аккаунта'
 };
