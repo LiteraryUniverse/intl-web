@@ -185,5 +185,10 @@ export default {
   'plans.faq.cryptoAnswer':
     'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.',
   'plans.subscribed.updating':
-    'It might take a bit to update your your subscription information. Thank you for your patience!'
+    'It might take a bit to update your your subscription information. Thank you for your patience!',
+  'payments.methods.webMonetization': 'Web Monetization',
+  'stripeConnect.settings.title': 'Payouts',
+  'stripeConnect.settings.intro':
+    'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
+  'stripeConnect.settings.connectAccount': 'Setup Stripe Account'
 }
