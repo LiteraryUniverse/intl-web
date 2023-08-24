@@ -21,7 +21,7 @@ export default {
     'homepage.writer.writingTitle': 'Jednoduché písanie a tvorba',
     'homepage.writer.writingDesc': 'Zažite nový spôsob písania s Literary Universe workshopom. Vytvorte si všetky detaily svojho vesmíru v encyklopédii, o ktorú sa môžete podeliť s čitateľmi, a na tomto základe píšte úžasné príbehy.',
     'homepage.writer.collaborationTitle': 'Spoločná tvorba',
-    'homepage.writer.profitDesc': 'Na tvorivom procese sa často podieľa viacero ľudí. Nemusíte sa obávať, máme pre vás poistku! Do svojich príbehov a vesmírov môžete jednoducho pridať beta čitateľov, spoluautorov a prekladateľov.',
+    'homepage.writer.collaborationDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
     'homepage.writer.communityTitle': 'Spojte sa so svojimi čitateľmi',
     'homepage.writer.communityDesc': 'Prekročte rámec písania a spojte sa so svojimi čitateľmi prostredníctvom blogov, fór a iných komunitných funkcií, ktoré súvisia s vaším svetom alebo s vami ako spisovateľom.',
     'homepage.writer.workshopFeatureTitle': 'Jedno miesto pre všetky vaše kreatívne potreby',
