@@ -21,7 +21,7 @@ export default {
     'homepage.writer.writingTitle': 'Schreiben und Gestalten leicht gemacht',
     'homepage.writer.writingDesc': 'Erleben Sie die neue Art des Schreibens mit dem Literary Universes Workshop. Erstellen Sie alle Details Ihres Universums in einer Enzyklopädie, um sie mit Ihren Lesern zu teilen, und schreiben Sie auf dieser Grundlage erstaunliche Geschichten.',
     'homepage.writer.collaborationTitle': 'Gemeinsame Erstellung',
-    'homepage.writer.profitDesc': 'An einem kreativen Prozess sind oft mehrere Personen beteiligt. Keine Sorge, wir haben für Sie gesorgt! Sie können ganz einfach Beta-Leser, Co-Autoren und Übersetzer zu Ihren Geschichten und Universen hinzufügen.',
+    'homepage.writer.collaborationDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
     'homepage.writer.communityTitle': 'Verbinden Sie sich mit Ihren Lesern',
     'homepage.writer.communityDesc': 'Gehen Sie über das Schreiben hinaus und verbinden Sie sich mit Ihren Lesern über Blogs, Foren und andere Community-Funktionen, die mit Ihrem Universum oder mit Ihnen als Autor verbunden sind.',
     'homepage.writer.workshopFeatureTitle': 'Ein Ort für alle Ihre kreativen Bedürfnisse',
