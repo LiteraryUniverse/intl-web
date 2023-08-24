@@ -21,7 +21,7 @@ export default {
     'homepage.writer.writingTitle': 'Escrita & criação facilitada',
     'homepage.writer.writingDesc': 'Experimente a nova forma de escrever com o Workshop do Universo Literário. Crie todos os detalhes do seu universo numa enciclopédia para partilhar com os seus leitores e escreva histórias espantosas sobre essa base.',
     'homepage.writer.collaborationTitle': 'Criação colaborativa',
-    'homepage.writer.profitDesc': 'O processo criativo envolve frequentemente múltiplas pessoas. Não se preocupe, nós tratamos de si! Pode facilmente adicionar leitores beta, co-autores e tradutores às suas histórias e universos.',
+    'homepage.writer.collaborationDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
     'homepage.writer.communityTitle': 'Conecte-se com os seus leitores',
     'homepage.writer.communityDesc': 'Vá além da escrita e conecte-se com os seus leitores através de blogs, fóruns e outras características da comunidade ligadas aos seus universos ou a si como escritor.',
     'homepage.writer.workshopFeatureTitle': 'Um lugar para todas as suas necessidades criativas',
