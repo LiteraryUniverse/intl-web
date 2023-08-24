@@ -21,7 +21,7 @@ export default {
     'homepage.writer.writingTitle': 'Писать и творить стало проще',
     'homepage.writer.writingDesc': 'Испытайте новый способ писать с помощью мастерской Literary Universe. Создайте все детали вашей вселенной в энциклопедии, чтобы поделиться ими с читателями, и пишите удивительные истории на этой основе.',
     'homepage.writer.collaborationTitle': 'Совместное созидание',
-    'homepage.writer.profitDesc': 'В творческом процессе часто участвуют несколько человек. Не беспокойтесь, мы позаботимся об этом! Вы можете легко добавить читателей-тестировщиков, соавторов и переводчиков в свои истории и вселенные.',
+    'homepage.writer.collaborationDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
     'homepage.writer.communityTitle': 'Связь с вашими читателями',
     'homepage.writer.communityDesc': 'Не ограничивайтесь написанием и общайтесь со своими читателями через блоги, форумы и другие сообщества, связанные с вашими вселенными или с вами как с писателем.',
     'homepage.writer.workshopFeatureTitle': 'Одно место для всех ваших творческих нужд',
