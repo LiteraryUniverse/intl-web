@@ -21,7 +21,7 @@ export default {
     'homepage.writer.writingTitle': 'Writing & creating made easy',
     'homepage.writer.writingDesc': 'Experience the new way of writing with Literary Universes Workshop. Create all the details of your universe in an encyclopedia to share with your readers and write amazing stories on that foundation.',
     'homepage.writer.collaborationTitle': 'Collaborative creation',
-    'homepage.writer.profitDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
+    'homepage.writer.collaborationDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
     'homepage.writer.communityTitle': 'Connect with Your readers',
     'homepage.writer.communityDesc': 'Go beyond writing and connect with your readers via blogs, forums and other community features connected to your universes or to you as a writer.',
     'homepage.writer.workshopFeatureTitle': 'One place for all your creative needs',
