@@ -21,7 +21,7 @@ export default {
     'homepage.writer.writingTitle': '文書を書いたり、小説作りがし易くなりました。',
     'homepage.writer.writingDesc': 'Literary Universesワークショップを通じて新たな形の小説作り体験をしてください。あなたの持っている宇宙に関することを読者と共有できるように百科事典にまとめ、それをベースに読者を感動させる本を書いてください。',
     'homepage.writer.collaborationTitle': '共同作品',
-    'homepage.writer.profitDesc': 'クリエイティブな作業には多くの方が関わることがありますが、私たちがサポートしますので、心配ご無用です。 あなたの物語やユニバースに、ベタリーダー、共同著者、翻訳者を簡単に追加することができます。',
+    'homepage.writer.collaborationDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
     'homepage.writer.communityTitle': '読者とつながりましょう',
     'homepage.writer.communityDesc': '作品作り以外にも、ブログやフォーラムなどその他コミュニティツールを通じて読者とあなた自信の宇宙を繋げたり、作家として繋がってみましょう。',
     'homepage.writer.workshopFeatureTitle': '作品作りに必要なものを一つにまとめる場所',
