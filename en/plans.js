@@ -197,5 +197,8 @@ export default {
     'You are all set to receive money via Stripe Connect.',
   'stripeConnect.settings.balance': 'Balance',
   'stripeConnect.settings.balanceAvailable': 'Available balance',
-  'stripeConnect.settings.balancePending': 'Pending balance'
+  'stripeConnect.settings.balancePending': 'Pending balance',
+  'stripeConnect.settings.recentTransfers': 'Recent transfers',
+  'stripeConnect.transfers.amount': 'Amount',
+  'stripeConnect.transfers.reason': 'Reason'
 }
