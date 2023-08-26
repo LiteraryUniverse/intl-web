@@ -168,5 +168,13 @@ export default {
     'payments.methods.webMonetization': 'Веб-монетизация',
     'stripeConnect.settings.title': 'Выплаты',
     'stripeConnect.settings.intro': 'Если вы хотите получать средства или продавать через Literary Universe, вам необходимо создать аккаунт Stripe с помощью кнопки, расположенной ниже.',
-    'stripeConnect.settings.connectAccount': 'Установка Stripe аккаунта'
+    'stripeConnect.settings.connectAccount': 'Установка Stripe аккаунта',
+    'stripeConnect.settings.ongoing': 'We are waiting to hear back from Stripe in regards to your account. This might take a little bit. If this is taking too long click on the button bellow which will take you back to Stripe.',
+    'stripeConnect.settings.finished': 'You are all set to receive money via Stripe Connect.',
+    'stripeConnect.settings.balance': 'Balance',
+    'stripeConnect.settings.balanceAvailable': 'Available balance',
+    'stripeConnect.settings.balancePending': 'Pending balance',
+    'stripeConnect.settings.recentTransfers': 'Recent transfers',
+    'stripeConnect.transfers.amount': 'Amount',
+    'stripeConnect.transfers.reason': 'Reason'
 };
