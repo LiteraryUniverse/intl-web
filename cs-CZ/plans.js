@@ -178,5 +178,9 @@ export default {
     'stripeConnect.transfers.amount': 'Amount',
     'stripeConnect.transfers.reason': 'Reason',
     'payment.settings.donations': 'Donations settings',
-    'payment.settings.requiresConnect': 'You first need to connect your Stripe account to be able to manage this option.'
+    'payment.settings.requiresConnect': 'You first need to connect your Stripe account to be able to manage this option.',
+    'plans.fanClub.heading': 'Fan Clubs',
+    'payment.donations.enable': 'Enable donations',
+    'payment.donations.suggestedAmount': 'Suggested amount',
+    'payment.donations.preferredCurrency': 'Preferred currency'
 };
