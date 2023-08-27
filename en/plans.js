@@ -187,7 +187,7 @@ export default {
   'plans.subscribed.updating':
     'It might take a bit to update your your subscription information. Thank you for your patience!',
   'payments.methods.webMonetization': 'Web Monetization',
-  'stripeConnect.settings.title': 'Payouts',
+  'stripeConnect.settings.title': 'Payouts settings',
   'stripeConnect.settings.intro':
     'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
   'stripeConnect.settings.connectAccount': 'Setup Stripe Account',
@@ -200,5 +200,8 @@ export default {
   'stripeConnect.settings.balancePending': 'Pending balance',
   'stripeConnect.settings.recentTransfers': 'Recent transfers',
   'stripeConnect.transfers.amount': 'Amount',
-  'stripeConnect.transfers.reason': 'Reason'
+  'stripeConnect.transfers.reason': 'Reason',
+  'payment.settings.donations': 'Donations settings',
+  'payment.settings.requiresConnect':
+    'You first need to connect your Stripe account to be able to manage this option.'
 }
