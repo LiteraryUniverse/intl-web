@@ -166,7 +166,7 @@ export default {
     'plans.faq.cryptoAnswer': 'Ja, wir arbeiten daran. Wir sind große Fans von Web3 und suchen nach Möglichkeiten, Web3 in naher Zukunft in die Plattform zu integrieren. Wir ermöglichen derzeit die Anmeldung mit Web3 und möchten dieses Angebot erweitern, insbesondere wenn es darum geht, Urhebern eine Vergütung zu bieten und ihnen die Möglichkeit zu geben, alle möglichen Zahlungsoptionen zu wählen, die sie akzeptieren möchten.',
     'plans.subscribed.updating': 'Es kann ein wenig dauern, um Ihre Abonnementinformationen zu aktualisieren. Vielen Dank für Ihre Geduld!',
     'payments.methods.webMonetization': 'Web Monetization',
-    'stripeConnect.settings.title': 'Payouts',
+    'stripeConnect.settings.title': 'Payouts settings',
     'stripeConnect.settings.intro': 'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
     'stripeConnect.settings.connectAccount': 'Setup Stripe Account',
     'stripeConnect.settings.ongoing': 'We are waiting to hear back from Stripe in regards to your account. This might take a little bit. If this is taking too long click on the button bellow which will take you back to Stripe.',
@@ -176,5 +176,7 @@ export default {
     'stripeConnect.settings.balancePending': 'Pending balance',
     'stripeConnect.settings.recentTransfers': 'Recent transfers',
     'stripeConnect.transfers.amount': 'Amount',
-    'stripeConnect.transfers.reason': 'Reason'
+    'stripeConnect.transfers.reason': 'Reason',
+    'payment.settings.donations': 'Donations settings',
+    'payment.settings.requiresConnect': 'You first need to connect your Stripe account to be able to manage this option.'
 };
