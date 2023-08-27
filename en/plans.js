@@ -190,5 +190,15 @@ export default {
   'stripeConnect.settings.title': 'Payouts',
   'stripeConnect.settings.intro':
     'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
-  'stripeConnect.settings.connectAccount': 'Setup Stripe Account'
+  'stripeConnect.settings.connectAccount': 'Setup Stripe Account',
+  'stripeConnect.settings.ongoing':
+    'We are waiting to hear back from Stripe in regards to your account. This might take a little bit. If this is taking too long click on the button bellow which will take you back to Stripe.',
+  'stripeConnect.settings.finished':
+    'You are all set to receive money via Stripe Connect.',
+  'stripeConnect.settings.balance': 'Balance',
+  'stripeConnect.settings.balanceAvailable': 'Available balance',
+  'stripeConnect.settings.balancePending': 'Pending balance',
+  'stripeConnect.settings.recentTransfers': 'Recent transfers',
+  'stripeConnect.transfers.amount': 'Amount',
+  'stripeConnect.transfers.reason': 'Reason'
 }
