@@ -182,5 +182,11 @@ export default {
     'plans.fanClub.heading': 'Clubs de Fans',
     'payment.donations.enable': 'Permitir donaciones',
     'payment.donations.suggestedAmount': 'Cantidad sugerida',
-    'payment.donations.preferredCurrency': 'Divisa preferida'
+    'payment.donations.amount': 'Amount',
+    'payment.donations.preferredCurrency': 'Divisa preferida',
+    'payment.donations.currency': 'Currency',
+    'payment.donations.stripeDescription': 'Donation to {username}',
+    'payment.donations.support': 'Support {username}',
+    'payment.donations.donate': 'Donate',
+    'payment.donations.donationModal': 'Donation confirmation'
 };
