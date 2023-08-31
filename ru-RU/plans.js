@@ -182,5 +182,11 @@ export default {
     'plans.fanClub.heading': 'Фанклубы',
     'payment.donations.enable': 'Включить пожертвования',
     'payment.donations.suggestedAmount': 'Предлагаемая сумма',
-    'payment.donations.preferredCurrency': 'Предпочтительная валюта'
+    'payment.donations.amount': 'Amount',
+    'payment.donations.preferredCurrency': 'Предпочтительная валюта',
+    'payment.donations.currency': 'Currency',
+    'payment.donations.stripeDescription': 'Donation to {username}',
+    'payment.donations.support': 'Support {username}',
+    'payment.donations.donate': 'Donate',
+    'payment.donations.donationModal': 'Donation confirmation'
 };
