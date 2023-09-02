@@ -51,8 +51,10 @@ export default {
     'privacy.desc': 'Úplný právní text Zásad ochrany osobních údajů Literary Universe.',
     'guidelines.desc': 'Komunitní směrnice Literary Universe.',
     'tos.desc': 'Úplný právní text Podmínek služby Literary Universe.',
-    'homepage.intro': 'Prozkoumejte a vytvořte literární vesmíry a skvělé příběhy.',
-    'homepage.explanation': 'Literární Universe je, vše v jednom, tvůrčí platforma pro čtení a psaní, zaměřená na komplexní literární vesmíry. Naším cílem je poskytnout vzájemně propojené nástroje pro psaní složitých vesmírů a příběhů, a skvělý zážitek pro fanoušky a čtenáře při průzkumu těchto vesmíru.',
+    'homepage.intro': 'Let Your Creativity Run Wild Across the Literary Universe',
+    // 'homepage.explanation':
+    //   'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
+    'homepage.explanation': 'Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That\'s why we\'ve designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it\'s a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.',
     'gdpr.title': 'Soulad s GDPR',
     'gdpr.desc': 'Literární Universe je v souladu s GDPR.',
     'gdpr.compliant': 'Literární Universe splňuje GDPR',
