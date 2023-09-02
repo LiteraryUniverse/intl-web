@@ -51,8 +51,10 @@ export default {
     'privacy.desc': 'Полный юридический текст Политики конфиденциальности Literary Universe.',
     'guidelines.desc': 'Правила сообщества Literary Universe.',
     'tos.desc': 'Полный юридический текст Условий использования Literary Universe.',
-    'homepage.intro': 'Исследуйте и создавайте литературные вселенные и великие истории.',
-    'homepage.explanation': 'Literary Universe - это универсальная платформа для творческого письма и чтения, ориентированная на сложные литературные вселенные.  Наша цель - предоставить взаимосвязанные инструменты для написания сложных сюжетных вселенных и историй, а также большой опыт для поклонников и читателей в исследовании этих вселенных.',
+    'homepage.intro': 'Let Your Creativity Run Wild Across the Literary Universe',
+    // 'homepage.explanation':
+    //   'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
+    'homepage.explanation': 'Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That\'s why we\'ve designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it\'s a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.',
     'gdpr.title': 'Соответствие требованиям GDPR',
     'gdpr.desc': 'Literary Universe соответствует директивам GDPR Европейского союза.',
     'gdpr.compliant': 'Literary Universe соответствует требованиям GDPR',
