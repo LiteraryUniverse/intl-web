@@ -255,5 +255,6 @@ export default {
     'common.loggingOut': 'Выход',
     'common.thankYou': 'Спасибо!',
     'common.seeYouAgain': 'Увидимся!',
-    'email.hello': 'Здравствуйте {username},'
+    'email.hello': 'Здравствуйте {username},',
+    'common.back': 'Back'
 }    /* eslint-enable max-len */;
