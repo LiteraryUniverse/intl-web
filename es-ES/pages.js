@@ -51,10 +51,10 @@ export default {
     'privacy.desc': 'Vista completa de las políticas de privacidad de Literary Universe.',
     'guidelines.desc': 'Normas comunitarias de Literary Universe.',
     'tos.desc': 'Vista completa de condiciones de servicio de Literary Universe.',
-    'homepage.intro': 'Let Your Creativity Run Wild Across the Literary Universe',
+    'homepage.intro': 'Da Rienda Suelta a Tu Creatividad en Literary Universe',
     // 'homepage.explanation':
     //   'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
-    'homepage.explanation': 'Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That\'s why we\'ve designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it\'s a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.',
+    'homepage.explanation': '¿Alguna vez has soñado con crear un mundo de ficción tan complejo que hasta tú te has quedado absorto? En Literary Universe te daremos las herramientas para hacer tus sueños realidad. Todo autor tiene derecho a las mejores herramientas disponibles y todo nuestro apoyo. Es por ello que hemos diseñado un espacio inclusivo que aúna la narrativa más compleja y la pasión por la lectura. Para nuestros autores, esto es un taller de ensueño, para los lectores esto es una odisea que explorar. Únete a nosotros a medida que nos adentramos más y más en un mundo repleto de imaginación.',
     'gdpr.title': 'Cumplimiento RGPD',
     'gdpr.desc': 'Literary Universe cumple con las directivas RGPD de la UE.',
     'gdpr.compliant': 'Literary Universe cumple con RGPD',
