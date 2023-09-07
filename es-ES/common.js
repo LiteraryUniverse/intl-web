@@ -256,5 +256,5 @@ export default {
     'common.thankYou': '¡Muchas gracias!',
     'common.seeYouAgain': '¡Hasta la próxima!',
     'email.hello': 'Hola {username},',
-    'common.back': 'Back'
+    'common.back': 'Volver'
 }    /* eslint-enable max-len */;
