@@ -35,7 +35,7 @@ export default {
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} krävs',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
+    'simpleschema.minString': '{label} måste bestå av minst {min, number} tecken',
     'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
     'simpleschema.minNumber': '{label} must be at least {min, number}',
     'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
