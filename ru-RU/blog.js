@@ -52,5 +52,5 @@ export default {
     'blog.settingsAria': 'Настройки категорий для блога',
     'blog.settings.blog': 'Блог',
     'blog.settings.forum': 'Форум',
-    'blog.post.introText': 'Introduction paragraph'
+    'blog.post.introText': 'Вступительный абзац'
 };

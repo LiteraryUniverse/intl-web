@@ -255,5 +255,6 @@ export default {
     'common.loggingOut': 'Cerrar sesión',
     'common.thankYou': '¡Muchas gracias!',
     'common.seeYouAgain': '¡Hasta la próxima!',
-    'email.hello': 'Hola {username},'
+    'email.hello': 'Hola {username},',
+    'common.back': 'Volver'
 }    /* eslint-enable max-len */;
