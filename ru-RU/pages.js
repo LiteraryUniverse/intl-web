@@ -51,10 +51,10 @@ export default {
     'privacy.desc': 'Полный юридический текст Политики конфиденциальности Literary Universe.',
     'guidelines.desc': 'Правила сообщества Literary Universe.',
     'tos.desc': 'Полный юридический текст Условий использования Literary Universe.',
-    'homepage.intro': 'Let Your Creativity Run Wild Across the Literary Universe',
+    'homepage.intro': 'Дайте волю своему творчеству в Literary Universe',
     // 'homepage.explanation':
     //   'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
-    'homepage.explanation': 'Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That\'s why we\'ve designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it\'s a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.',
+    'homepage.explanation': 'Вы когда-нибудь мечтали о создании настолько детального вымышленного мира, что даже сами заблудились в нём? В Literary Universe мы предоставляем инструменты, позволяющие воплотить эту мечту в жизнь. Каждый писатель заслуживает доступа к первоклассным ресурсам и поддержке. Именно поэтому мы создали комплексное пространство, которое позволяет преодолеть разрыв между сложным сюжетом и увлечённым чтением. Для писателей это рабочее пространство мечты, для читателей - одиссея исследования. Присоединяйтесь к нам, чтобы узнать, как далеко заведёт нас литературная кроличья нора в мир воображения.',
     'gdpr.title': 'Соответствие требованиям GDPR',
     'gdpr.desc': 'Literary Universe соответствует директивам GDPR Европейского союза.',
     'gdpr.compliant': 'Literary Universe соответствует требованиям GDPR',
