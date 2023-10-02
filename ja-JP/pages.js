@@ -88,7 +88,6 @@ export default {
     'about.attributions': '職務',
     'about.attributionsIntro': 'Literary Universeは、多くのオープンソース・プロジェクトやフリー・リソース上に構築されています。以下にそのリストを掲載しました。',
     'about.attributionsMatomo': '当社の分析には、https://lite.ip2location.com から入手可能なIP2Location LITEデータを使用したセルフホスティングのMatomoを使用しています。',
-    'about.attributionIcons': '以下のアイコンは、styled-iconsを介してサイト内で使用されています。',
     'team.name.pjakubec': 'パブル・ジャクベク',
     'team.name.asebesta': 'アダム・セベスタ',
     'about.developer': '開発者',
