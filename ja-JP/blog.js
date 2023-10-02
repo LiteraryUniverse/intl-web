@@ -50,5 +50,7 @@ export default {
     'blog.settingsAria': 'ブログのカテゴリ設定',
     'blog.settings.blog': 'ブログ',
     'blog.settings.forum': '掲示板',
-    'blog.post.introText': 'Introduction paragraph'
+    'blog.post.introText': 'Introduction paragraph',
+    'blog.post.writtenBy': 'Written by {usernameDisplay}',
+    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
 };
