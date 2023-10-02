@@ -88,7 +88,6 @@ export default {
     'about.attributions': 'Attributions',
     'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
     'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
-    'about.attributionIcons': 'The following icons are used through the site via styled-icons:',
     'team.name.pjakubec': 'Pavel Jakubec',
     'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Programisto',
