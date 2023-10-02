@@ -1,8 +1,9 @@
 # Changelog for languages
 
-## 2023-08-XX - v2.10.2
+## 2023-10-03 - v2.10.2
 
 * Added new texts for Stripe Connect
+* Added new texts for blog posts authorship
 
 ## 2023-08-19 - v2.10.1
 
