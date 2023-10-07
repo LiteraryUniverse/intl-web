@@ -52,6 +52,6 @@ export default {
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Foro',
     'blog.post.introText': 'Introducción',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.writtenBy': 'Escrito por {usernameDisplay}',
+    'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}'
 };
