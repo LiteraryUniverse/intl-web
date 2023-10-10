@@ -9,7 +9,7 @@ export default {
   'sharing.sms': 'SMS',
   'sharing.messenger': 'Facebook Messenger',
   'sharing.whatsapp': 'WhatsApp',
-  'sharing.twitter': 'Twitter',
+  'sharing.twitter': 'X/Twitter',
   'sharing.linkedin': 'LinkedIn',
   'sharing.telegram': 'Telegram',
   'sharing.facebook': 'Facebook',
@@ -18,5 +18,7 @@ export default {
   'sharing.mastodonJapan': 'Mastodon Japan',
   'sharing.gab': 'Gab',
   'sharing.pinterest': 'Pinterest',
-  'sharing.gettr': 'Gettr'
+  'sharing.gettr': 'Gettr',
+  'sharing.minds': 'Minds.com',
+  'sharing.instagram': 'Instagram'
 }
