@@ -177,7 +177,7 @@ export default {
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
     'a11y.user.menu': 'User menu',
-    'a11y.navigation': 'Navigation',
+    'a11y.navigation': 'ଦିଗଚଳନ',
     'dashboard.profile': 'Your profile',
     'profile.website': 'My personal website',
     'story.notes.concept': 'Concept',
