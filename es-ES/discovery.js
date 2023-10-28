@@ -53,5 +53,7 @@ export default {
     'story.status.cancelled': 'Cancelada',
     'story.chapter.wasRead': 'Leída - {readAt, date}',
     'discovery.moreDetails': 'Más detalles',
-    'discovery.read': 'Leído'
+    'discovery.read': 'Leído',
+    'discovery.chapters.showAll': 'Show all chapters',
+    'discovery.chapters.showMore': 'Show more chapters'
 };
