@@ -61,5 +61,7 @@ export default {
     'story.status.cancelled': 'Zrušeno',
     'story.chapter.wasRead': 'Přečteno - {readAt, date}',
     'discovery.moreDetails': 'Více informací',
-    'discovery.read': 'Číst'
+    'discovery.read': 'Číst',
+    'discovery.chapters.showAll': 'Show all chapters',
+    'discovery.chapters.showMore': 'Show more chapters'
 };
