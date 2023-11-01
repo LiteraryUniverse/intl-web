@@ -145,5 +145,6 @@ export default {
     =0 {unlimited}
     other {{max, number}}
   } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.'
+    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
 };
