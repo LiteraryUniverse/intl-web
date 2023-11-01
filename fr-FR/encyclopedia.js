@@ -145,5 +145,6 @@ export default {
     =0 {un nombre illimité d'entrées}
     other {{max, number}}
   }.`,
-    'enc.entries.limitReached': 'Vous avez atteint le nombre maximum d\'entrées d\'encyclopédie pour votre abonnement actuel.'
+    'enc.entries.limitReached': 'Vous avez atteint le nombre maximum d\'entrées d\'encyclopédie pour votre abonnement actuel.',
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
 };
