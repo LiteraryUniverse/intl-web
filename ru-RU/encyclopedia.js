@@ -150,5 +150,6 @@ export default {
     many {{max, number}}=0 {бесконечных записей}
     other {{max, number}}
   }.`,
-    'enc.entries.limitReached': 'Вы достигли максимально допустимого количества записей в энциклопедии для вашей подписки.'
+    'enc.entries.limitReached': 'Вы достигли максимально допустимого количества записей в энциклопедии для вашей подписки.',
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
 };

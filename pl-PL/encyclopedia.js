@@ -149,5 +149,6 @@ export default {
     =0 {nieograniczony}
     other {{max, number}}
   } wpisy.`,
-    'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.'
+    'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.',
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
 };

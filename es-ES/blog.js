@@ -51,5 +51,7 @@ export default {
     'blog.settingsAria': 'Configuración de las categorías del blog',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Foro',
-    'blog.post.introText': 'Introducción'
+    'blog.post.introText': 'Introducción',
+    'blog.post.writtenBy': 'Escrito por {usernameDisplay}',
+    'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}'
 };

@@ -51,5 +51,7 @@ export default {
     'blog.settingsAria': 'Settings categories for the blog',
     'blog.settings.blog': 'المدونة',
     'blog.settings.forum': 'المنتدى',
-    'blog.post.introText': 'Introduction paragraph'
+    'blog.post.introText': 'Introduction paragraph',
+    'blog.post.writtenBy': 'Written by {usernameDisplay}',
+    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
 };

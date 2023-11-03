@@ -88,7 +88,6 @@ export default {
     'about.attributions': 'Attributions',
     'about.attributionsIntro': 'L\'Univers Littéraire s\'appuie sur de nombreux projets Open Source et ressources gratuites. Vous trouverez ci-dessous leur liste.',
     'about.attributionsMatomo': 'Nos analyses utilisent Matomo, hébergé par nos soins, avec les données IP2Location LITE disponibles sur https://lite.ip2location.com.',
-    'about.attributionIcons': 'Les icônes suivantes sont utilisées sur le site par le biais des icônes de style :',
     'team.name.pjakubec': 'Pavel Jakubec',
     'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Développeur',

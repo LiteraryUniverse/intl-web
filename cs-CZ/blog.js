@@ -52,5 +52,7 @@ export default {
     'blog.settingsAria': 'Kategorie nastavení pro blog',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Fórum',
-    'blog.post.introText': 'Úvodní odstavec'
+    'blog.post.introText': 'Úvodní odstavec',
+    'blog.post.writtenBy': 'Napsal {usernameDisplay}',
+    'blog.post.writtenByFor': 'Napsal {usernameDisplay} pro {publicationName}'
 };

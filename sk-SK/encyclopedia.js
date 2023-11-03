@@ -150,5 +150,6 @@ other {je # položiek}
     many {{max, number} položiek}
     other {{max, number} položiek}
   }.`,
-    'enc.entries.limitReached': 'Dosiahli ste maximálny povolený počet záznamov v encyklopédii pre aktuálne predplatné.'
+    'enc.entries.limitReached': 'Dosiahli ste maximálny povolený počet záznamov v encyklopédii pre aktuálne predplatné.',
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
 };

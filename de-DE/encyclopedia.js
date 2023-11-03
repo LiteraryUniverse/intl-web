@@ -145,5 +145,6 @@ export default {
     =0 {Unbegrenzt}
     other {{max, number}}
   } Einträge.`,
-    'enc.entries.limitReached': 'Sie haben die maximal zulässigen Enzyklopädie-Einträge für Ihr aktuelles Abonnement erreicht.'
+    'enc.entries.limitReached': 'Sie haben die maximal zulässigen Enzyklopädie-Einträge für Ihr aktuelles Abonnement erreicht.',
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
 };

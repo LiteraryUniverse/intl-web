@@ -256,5 +256,5 @@ export default {
     'common.thankYou': 'Спасибо!',
     'common.seeYouAgain': 'Увидимся!',
     'email.hello': 'Здравствуйте {username},',
-    'common.back': 'Back'
+    'common.back': 'Назад'
 }    /* eslint-enable max-len */;

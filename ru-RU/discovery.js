@@ -61,5 +61,7 @@ export default {
     'story.status.cancelled': 'Отменено',
     'story.chapter.wasRead': 'Прочитано - {readAt, date}',
     'discovery.moreDetails': 'Больше подробностей',
-    'discovery.read': 'Читать'
+    'discovery.read': 'Читать',
+    'discovery.chapters.showAll': 'Show all chapters',
+    'discovery.chapters.showMore': 'Show more chapters'
 };
