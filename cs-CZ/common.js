@@ -256,5 +256,5 @@ export default {
     'common.thankYou': 'Děkujeme!',
     'common.seeYouAgain': 'Naviděnou!',
     'email.hello': 'Dobrý den {username},',
-    'common.back': 'Back'
+    'common.back': 'Zpět'
 }    /* eslint-enable max-len */;
