@@ -21,7 +21,7 @@ export default {
     'homepage.writer.writingTitle': 'Psaní & tvorba jednodušše',
     'homepage.writer.writingDesc': 'Vyzkoušejte si nový způsob psaní s workshopem Literární vesmíry. Vytvořte si v encyklopedii všechny detaily Vašeho vesmíru, které budete sdílet se čtenáři, a na tomto základě pište úžasné příběhy.',
     'homepage.writer.collaborationTitle': 'Týmová práce',
-    'homepage.writer.collaborationDesc': 'Creative process often involves multiple people. No worries, we got you covered! You can easily add beta readers, co-authors and translators to your stories and universes.',
+    'homepage.writer.collaborationDesc': 'Na tvůrčím procesu se často podílí více lidí. Nebojte se, máme pro vás řešení! Do Vašich příběhů a vesmírů můžete snadno přidávat beta čtenáře, spoluautory a překladatele.',
     'homepage.writer.communityTitle': 'Spojení s Vašimi čtenáři',
     'homepage.writer.communityDesc': 'Překročte rámec psaní a spojte se se svými čtenáři prostřednictvím blogů, fór a dalších komunitních funkcí spojených s vaším světem nebo s vámi jako spisovatelem.',
     'homepage.writer.workshopFeatureTitle': 'Jedno místo pro všechny Vaše kreativní potřeby',
