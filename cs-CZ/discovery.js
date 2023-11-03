@@ -62,6 +62,6 @@ export default {
     'story.chapter.wasRead': 'Přečteno - {readAt, date}',
     'discovery.moreDetails': 'Více informací',
     'discovery.read': 'Číst',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showAll': 'Zobrazit všechny kapitoly',
+    'discovery.chapters.showMore': 'Zobrazit další kapitoly'
 };
