@@ -53,6 +53,6 @@ export default {
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Fórum',
     'blog.post.introText': 'Úvodní odstavec',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.writtenBy': 'Napsal {usernameDisplay}',
+    'blog.post.writtenByFor': 'Napsal {usernameDisplay} pro {publicationName}'
 };
