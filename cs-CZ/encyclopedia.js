@@ -148,5 +148,5 @@ export default {
     other {{max, number}}
   } položek.`,
     'enc.entries.limitReached': 'Dosáhli jste maximálního povoleného počtu položek pro aktuální předplatné.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
+    'enc.menuControls.ariaDesc': 'Nastavení encyklopédie'
 };
