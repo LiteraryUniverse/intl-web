@@ -178,7 +178,7 @@ export default {
     'stripeConnect.transfers.amount': 'Částka',
     'stripeConnect.transfers.reason': 'Důvod',
     'payment.settings.donations': 'Nastavení darů',
-    'plans.fanClub.heading': 'Fan Clubs',
+    'plans.fanClub.heading': 'Fan Klub',
     'payment.donations.enable': 'Povolit dary',
     'payment.donations.suggestedAmount': 'Doporučená částka',
     'payment.donations.amount': 'Částka',
