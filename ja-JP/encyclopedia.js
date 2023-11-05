@@ -144,7 +144,7 @@ export default {
     other {{max, number}}}件中{value, number}件のエントリーがあります。`,
     'enc.entries.limitReached': '現在の購読期間中に許容される百科事典の最大エントリ数に達しました。',
     'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'enc.pronunciation.title': 'Pronunciation',
-    'enc.wip.abbreviation': 'WIP',
-    'enc.wip.full': 'Work in Progress'
+    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'encyclopedia.wip.abbreviation': 'WIP',
+    'encyclopedia.wip.full': 'Work in Progress'
 };
