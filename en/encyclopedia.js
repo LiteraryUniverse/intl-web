@@ -157,7 +157,7 @@ export default {
   'enc.entries.limitReached':
     'You have reached maximum allowed encyclopedia entries for you current subscription.',
   'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-  'enc.pronunciation.title': 'Pronunciation',
-  'enc.wip.abbreviation': 'WIP',
-  'enc.wip.full': 'Work in Progress'
+  'encyclopedia.pronunciation.title': 'Pronunciation',
+  'encyclopedia.wip.abbreviation': 'WIP',
+  'encyclopedia.wip.full': 'Work in Progress'
 }
