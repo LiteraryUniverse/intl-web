@@ -151,5 +151,8 @@ export default {
     other {{max, number}}
   }.`,
     'enc.entries.limitReached': 'Вы достигли максимально допустимого количества записей в энциклопедии для вашей подписки.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
+    'enc.pronunciation.title': 'Pronunciation',
+    'enc.wip.abbreviation': 'WIP',
+    'enc.wip.full': 'Work in Progress'
 };
