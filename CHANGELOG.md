@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2023-11-05 - v2.10.3
+
+* New strings for encyclopedia WIP and Pronunciation
+* Few new general strings and fixes
+
 ## 2023-10-03 - v2.10.2
 
 * Added new texts for Stripe Connect
