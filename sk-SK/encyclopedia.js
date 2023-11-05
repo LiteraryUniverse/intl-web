@@ -152,7 +152,7 @@ other {je # položiek}
   }.`,
     'enc.entries.limitReached': 'Dosiahli ste maximálny povolený počet záznamov v encyklopédii pre aktuálne predplatné.',
     'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'enc.pronunciation.title': 'Pronunciation',
-    'enc.wip.abbreviation': 'WIP',
-    'enc.wip.full': 'Work in Progress'
+    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'encyclopedia.wip.abbreviation': 'WIP',
+    'encyclopedia.wip.full': 'Work in Progress'
 };
