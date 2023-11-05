@@ -148,5 +148,8 @@ export default {
     other {{max, number}}
   } položek.`,
     'enc.entries.limitReached': 'Dosáhli jste maximálního povoleného počtu položek pro aktuální předplatné.',
-    'enc.menuControls.ariaDesc': 'Nastavení encyklopédie'
+    'enc.menuControls.ariaDesc': 'Nastavení encyklopédie',
+    'enc.pronunciation.title': 'Pronunciation',
+    'enc.wip.abbreviation': 'WIP',
+    'enc.wip.full': 'Work in Progress'
 };
