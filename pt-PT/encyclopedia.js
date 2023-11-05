@@ -146,5 +146,8 @@ export default {
     other {{max, number}}
   } entradas.`,
     'enc.entries.limitReached': 'Atingiu o máximo de entradas enciclopédicas permitidas para a sua subscrição atual.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
+    'enc.pronunciation.title': 'Pronunciation',
+    'enc.wip.abbreviation': 'WIP',
+    'enc.wip.full': 'Work in Progress'
 };
