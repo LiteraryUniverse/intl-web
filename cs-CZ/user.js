@@ -30,5 +30,17 @@ export default {
     'user.verification.publishedAuthor': 'Tento autor byl publikován tradičním způsobem',
     'user.verification.luAuthor': 'Ověřený autor z Literary Universe',
     'user.verification.luEmployee': 'Zaměstnanec Literary Universe',
-    'user.verification.publicFigure': 'Ověřená veřejná osoba'
+    'user.verification.publicFigure': 'Ověřená veřejná osoba',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {story}
+    other {stories}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {universe}
+    other {universes}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {fan fiction}
+    other {fan fictions} 
+  }`
 };
