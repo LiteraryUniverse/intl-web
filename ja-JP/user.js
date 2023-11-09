@@ -23,5 +23,17 @@ export default {
     'user.verification.publishedAuthor': 'この作家は一般的な方法で出版しています。',
     'user.verification.luAuthor': 'Literary Universe による注目の作家',
     'user.verification.luEmployee': 'Lieterary Universe社員',
-    'user.verification.publicFigure': '著名人'
+    'user.verification.publicFigure': '著名人',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {story}
+    other {stories}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {universe}
+    other {universes}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {fan fiction}
+    other {fan fictions} 
+  }`
 };
