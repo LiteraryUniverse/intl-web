@@ -45,5 +45,7 @@ export default {
   'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
     other {fan fictions} 
-  }`
+  }`,
+  'profile.works': 'Works', // As in creative/literary works
+  'profile.wishlist': 'Wishlist'
 }
