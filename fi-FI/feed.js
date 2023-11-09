@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Striimi',
+    'feed.name': 'Feed',
     'feed.post.new': 'Uusi virka',
     'feed.post.like': 'Tykkää viestistä',
     'feed.post.unlike': 'Toisin kuin viesti',
