@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Stream',
+    'feed.name': 'Feed',
     'feed.post.new': 'Neuer Post',
     'feed.post.like': 'Beitrag gefällt',
     'feed.post.unlike': 'Im Gegensatz zu Post',
