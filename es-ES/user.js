@@ -31,5 +31,17 @@ export default {
     'user.verification.publishedAuthor': 'Este autor ha sido publicado de forma tradicional',
     'user.verification.luAuthor': 'Autor destacado de Litarary Universe',
     'user.verification.luEmployee': 'Empleado de Literary Universe',
-    'user.verification.publicFigure': 'Personaje público verificado'
+    'user.verification.publicFigure': 'Personaje público verificado',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {story}
+    other {stories}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {universe}
+    other {universes}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {fan fiction}
+    other {fan fictions} 
+  }`
 };
