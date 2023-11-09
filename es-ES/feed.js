@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Flujo',
+    'feed.name': 'Feed',
     'feed.post.new': 'Nueva publicación',
     'feed.post.like': 'Dar me gusta',
     'feed.post.unlike': 'Quitar me gusta',
