@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Diretta',
+    'feed.name': 'Feed',
     'feed.post.new': 'Nuovo post',
     'feed.post.like': 'Metti mi piace',
     'feed.post.unlike': 'Togli mi piace',
