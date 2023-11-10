@@ -47,5 +47,8 @@ export default {
     other {fan fictions} 
   }`,
   'profile.works': 'Works', // As in creative/literary works
-  'profile.wishlist': 'Wishlist'
+  'profile.wishlist': 'Wishlist',
+  'profile.storiesBy': 'Stories created by {username}',
+  'profile.universesBy': 'Universes created by {username}',
+  'profile.fanFictionBy': 'Fan Fiction created by {username}'
 }

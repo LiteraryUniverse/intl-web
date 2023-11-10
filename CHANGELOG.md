@@ -1,5 +1,11 @@
 # Changelog for languages
 
+## 2023-11-10 - v2.10.4
+
+* New strings for profile page
+* Fixed encyclopedia ids
+*
+
 ## 2023-11-05 - v2.10.3
 
 * New strings for encyclopedia WIP and Pronunciation
