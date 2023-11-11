@@ -33,12 +33,12 @@ export default {
     'user.verification.luEmployee': 'Empleado de Literary Universe',
     'user.verification.publicFigure': 'Personaje público verificado',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {historia}
+    other {historias}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {universo}
+    other {universos}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
