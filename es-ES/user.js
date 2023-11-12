@@ -41,13 +41,13 @@ export default {
     other {universos}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {historia hecha por los fans}
+    other {historias hechas por los fans} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Obras',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Lista de deseados',
+    'profile.storiesBy': 'Historias creadas por {username}',
+    'profile.universesBy': 'Universos creados por {username}',
+    'profile.fanFictionBy': 'Fanficción creada por {username}'
 };
