@@ -4,6 +4,8 @@ export default {
     'legal.modal.disagree': 'Jag godkänner inte',
     'legal.modal.register': 'Du kommer inte att se detta längre om du registrerar dig.',
     'legal.modal.goToSettings': 'Gå till dina inställningar',
-    'legal.modal.fewmore': 'Några fler saker...',
-    'legal.modal.finish': 'Slutförande'
+    'legal.modal.oneLastThing': 'One last thing...',
+    'legal.modal.finish': 'Slutförande',
+    'legal.modal.existingUser': 'Already registered?',
+    'legal.modal.pleaseLogin': 'Please login.'
 };
