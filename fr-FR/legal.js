@@ -4,6 +4,8 @@ export default {
     'legal.modal.disagree': 'Je ne suis pas d\'accord',
     'legal.modal.register': 'Vous ne verrez plus cela si vous vous inscrivez.',
     'legal.modal.goToSettings': 'Allez dans vos paramètres',
-    'legal.modal.fewmore': 'Quelques éléments supplémentaires...',
-    'legal.modal.finish': 'Terminer'
+    'legal.modal.oneLastThing': 'One last thing...',
+    'legal.modal.finish': 'Terminer',
+    'legal.modal.existingUser': 'Already registered?',
+    'legal.modal.pleaseLogin': 'Please login.'
 };
