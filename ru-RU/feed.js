@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Лента',
     'feed.post.new': 'Новая публикация',
     'feed.post.like': 'Нравится',
     'feed.post.unlike': 'Не нравится',
