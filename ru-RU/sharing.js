@@ -8,7 +8,7 @@ export default {
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Мессенджер Facebook',
     'sharing.whatsapp': 'WhatsApp',
-    'sharing.twitter': 'X/Twitter',
+    'sharing.twitter': 'X/Твиттер',
     'sharing.linkedin': 'LinkedIn',
     'sharing.telegram': 'Telegram',
     'sharing.facebook': 'Facebook',
