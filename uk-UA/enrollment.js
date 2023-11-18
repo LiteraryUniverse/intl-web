@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Ловіть свій обліковий запис!',
+    'enrollment.description': 'Ласкаво просимо, {username}! Щоб отримати доступ до вашого спеціального облікового запису, вам потрібно лише створити пароль.',
+    'enrollment.submitting': 'Створення облікового запису...',
+    'enrollment.submit': 'Ловіть свій обліковий запис!'
 };
