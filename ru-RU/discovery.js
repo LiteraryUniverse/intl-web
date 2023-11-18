@@ -62,6 +62,6 @@ export default {
     'story.chapter.wasRead': 'Прочитано - {readAt, date}',
     'discovery.moreDetails': 'Больше подробностей',
     'discovery.read': 'Читать',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showAll': 'Показать все главы',
+    'discovery.chapters.showMore': 'Ещё главы'
 };
