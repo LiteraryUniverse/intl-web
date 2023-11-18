@@ -14,7 +14,7 @@ export default {
     'licenses.cc-by-nd': 'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
     'licenses.name.cc-by-nc': 'Creative Commons Atıf-GayriTicari 4.0',
     'licenses.cc-by-nc': 'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
-    'licenses.name.cc-by-nc-sa': 'Creative Commons Atıf-GayriTicari-AynıLisanslaPaylaş 4.0',
+    'licenses.name.cc-by-nc-sa': 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0',
     'licenses.cc-by-nc-sa': 'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
     'licenses.name.cc-by-nc-nd': 'Creative Commons Alıntı-GayriTicari-Türetilemez 4.0',
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
