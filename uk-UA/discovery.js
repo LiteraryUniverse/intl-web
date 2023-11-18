@@ -1,8 +1,8 @@
 export default {
-    'discovery.meta.desc': 'Відкрийте для себе нові історії та світи.',
-    'discovery.universes.new': 'Виникаючі світи',
+    'discovery.meta.desc': 'Відкрийте для себе нові історії та всесвіти.',
+    'discovery.universes.new': 'Нові всесвіти, що формуються',
     'discovery.stories.new': 'Нові історії',
-    'discovery.stories.standalone.new': 'Нові автономні історії',
+    'discovery.stories.standalone.new': 'Нові окремі історії',
     'discovery.stories.updated': 'Нещодавно оновлені історії',
     'discovery.continue': 'Продовжити читання',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
@@ -16,10 +16,10 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
+    'story.estimatedReadingTime.explained': 'На основі середньої швидкості читання {avgReadingNum, number} слів за хвилину.',
+    'discover.search.text': 'Пошуковий запит',
+    'discover.searchStory.title': 'Шукати історію',
+    'discover.searchStory.description': 'Шукати історії',
     'discover.searchUniverse.title': 'Search for a universe',
     'discover.searchUniverse.description': 'Search for a universes',
     'discover.search.storyStatus': 'Story progress status',
