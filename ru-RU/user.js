@@ -33,21 +33,27 @@ export default {
     'user.verification.luEmployee': 'Сотрудник Literary Universe',
     'user.verification.publicFigure': 'Подтверждённая общественная фигура',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {история}
+    few {истории}
+    many {историй}
+    other {историй}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {вселенная}
+    few {вселенные}
+    many {вселенных}
+    other {вселенных}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {фанфик}
+    few {фанфика}
+    many {фанфиков}
+    other {фанфиков} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Произведения',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Список желаемого',
+    'profile.storiesBy': 'Истории, созданные {username}',
+    'profile.universesBy': 'Вселенные, созданные {username}',
+    'profile.fanFictionBy': 'Фанфики, созданные {username}'
 };
