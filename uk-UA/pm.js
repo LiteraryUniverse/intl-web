@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Листування',
+    'pm.showolder': 'Показати старіші листи',
+    'pm.errors.saysomething': 'Нумо скажіть щось...',
+    'pm.errors.addrecipient': 'Вам потрібно додати принаймні ще одного користувача.',
+    'pm.message': 'Лист',
+    'pm.send.message': 'Надіслати лист',
+    'pm.messages.own': 'Ваші листи',
+    'pm.conversations.none': 'Наразі ви ні з ким не листуєтесь.',
+    'pm.to': 'До:',
+    'pm.with': 'Листування з:',
+    'pm.send': 'Надіслати',
+    'pm.conversations.unreadCount': `У вас {count, plural,
+    zero {немає непрочитаних листів}
+    one {1 непрочитаний лист}
+    other {# непрочитаних листів}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Вам потрібно вибрати одержувача.',
+    'pm.form.maxParticipants': `У розмові може брати участь максимум {maxPeople, plural,
+    one {1 людина}
+    other {# людей}
+  }.`,
+    'pm.new.aria': 'Нове листування',
+    'pm.new.buttonTitle': 'Почати нове листування'
 };
