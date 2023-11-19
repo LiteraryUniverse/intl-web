@@ -278,5 +278,8 @@ export default {
     'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.',
     'workshop.startCreating': 'Start creating',
-    'workshop.ownWork': 'Own work'
+    'workshop.ownWork': 'Own work',
+    'workshop.list.thumbs': 'Thumbnails list',
+    'workshop.list.list': 'Short list',
+    'workshop.fanfiction.new': 'Create a new fan fiction'
 };
