@@ -297,5 +297,8 @@ export default {
     'workshop.statusChangeEmail.cancellationWhy': 'Это произошло потому, что вы не разместили ни одной новой главы в истории с тех пор, как она получила состояние «Приостановлено» 6 месяцев назад. Таким образом, после года бездействия мы автоматически переводим истории в разряд отменённых, чтобы читатели знали, какие рассказы истории.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Это состоние будет автоматически снято, если вы опубликуете новую главу. Если вы больше не планируете работать над этой историей, то вам больше ничего не нужно делать.',
     'workshop.startCreating': 'Start creating',
-    'workshop.ownWork': 'Own work'
+    'workshop.ownWork': 'Own work',
+    'workshop.list.thumbs': 'Thumbnails list',
+    'workshop.list.list': 'Short list',
+    'workshop.fanfiction.new': 'Create a new fan fiction'
 };
