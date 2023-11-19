@@ -282,6 +282,9 @@ export default {
     'workshop.statusChangeEmail.cancellationIntro': 'Stav Vašeho příběhu byl automaticky nastaven jako zrušený.',
     'workshop.statusChangeEmail.cancellationWhy': 'Tato situace nastala, jelikož jste nepublikovali žádnou novou kapitolu příběhu od doby, kdy byl před šesti měsíci nastaven stav na hiatus. Po roce nečinnosti jsme tedy automaticky nastavili Váš příběh jako zrušený, aby čtenáři věděli, které příběhy jsou aktivní.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Tento stav bude automaticky zrušen, pokud zveřejníte novou kapitolu. Pokud už neplánujete pracovat na tomto příběhu, nemusíte nic dělat.',
-    'workshop.startCreating': 'Start creating',
-    'workshop.ownWork': 'Own work'
+    'workshop.startCreating': 'Začněte tvořit',
+    'workshop.ownWork': 'Vlastní díla',
+    'workshop.list.thumbs': 'Thumbnails list',
+    'workshop.list.list': 'Short list',
+    'workshop.fanfiction.new': 'Create a new fan fiction'
 };
