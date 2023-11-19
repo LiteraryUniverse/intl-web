@@ -14,5 +14,12 @@ export default {
   'personalNotes.goToEncEntry': 'Přejít na záznam',
   'personalNotes.closeDropdown': 'Zavřít seznam',
   'personalNotes.chapterName': 'Kapitola {sequence} - {title}',
-  'personalNotes.objectPersonalNotes': 'Osobní poznámka - {object}'
+  'personalNotes.objectPersonalNotes': 'Osobní poznámka - {object}',
+  'personalNotes.searchResults': 'Search Results',
+  'personalNotes.type.story': 'Story',
+  'personalNotes.type.universe': 'Universe',
+  'personalNotes.type.chapter': 'Chapter',
+  'personalNotes.type.encEntry': 'Encyclopedia Entry',
+  'personalNotes.type.revTextBlock': 'Revision Text Block',
+  'personalNotes.chapter': 'Chapter'
 };
