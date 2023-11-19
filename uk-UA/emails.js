@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Підтвердіть цю адресу електронної пошти',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Ваш обліковий запис оновлено',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Ми оновили ваш обліковий запис до звання {plan, select,
+    explorer {Дослідник}
+    adventurer {Шукач пригод}
+    storyteller {Оповідач}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } на наступні {days} днів.\n\nХай щастить,\nкоманда Літературного Всесвіту`,
+    'email.adminUpgrade.messageHtml': `Ми оновили ваш обліковий запис до звання {plan, select,
+    explorer {Дослідник}
+    adventurer {Шукач пригод}
+    storyteller {Оповідач}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'Перевірка електронної пошти',
-    'email.verifying': 'Перевірка електронної пошти. Це займе лише мить...',
-    'email.verified': 'Відмінна новина! Ваша електронна пошта була перевірена!'
+  } на наступні {days} днів. Хай щастить!`,
+    'email.verification': 'Верифікація електронної пошти',
+    'email.verifying': 'Верифікація електронної пошти. Це займе всього хвилину...',
+    'email.verified': 'Чудові новини! Вашу електронну пошту підтверджено!'
 };    /* eslint-enable max-len */
