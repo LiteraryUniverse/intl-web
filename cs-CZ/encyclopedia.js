@@ -149,7 +149,7 @@ export default {
   } položek.`,
     'enc.entries.limitReached': 'Dosáhli jste maximálního povoleného počtu položek pro aktuální předplatné.',
     'enc.menuControls.ariaDesc': 'Nastavení encyklopédie',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'encyclopedia.pronunciation.title': 'Výslovnost',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Rozpracované'
 };
