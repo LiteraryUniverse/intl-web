@@ -279,5 +279,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t publish a new chapter in the next 6 months we will automatically set the story as cancelled.',
     'workshop.statusChangeEmail.cancellationIntro': 'Your story status was automatically set to cancelled.',
     'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
-    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.'
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.',
+    'workshop.startCreating': 'Start creating',
+    'workshop.ownWork': 'Own work'
 };
