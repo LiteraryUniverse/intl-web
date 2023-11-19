@@ -2,13 +2,13 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
+    'rating.name': 'Рейтинг',
+    'rating.explained': 'Віковий ценз та обмеження.',
+    'rating.all': 'Всі',
+    'rating.desc.all': 'Доступний для всіх вікових категорій.',
+    'rating.teens': 'Підлітки',
+    'rating.desc.teens': 'Підходить для аудиторії віком від 12 до 18 років.',
+    'rating.mature': 'Дорослі',
     'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
     'rating.explicit': 'Explicit',
     'rating.desc.explicit': 'Contains explicit scenes.',
