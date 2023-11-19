@@ -32,21 +32,27 @@ export default {
     'user.verification.luEmployee': 'Zaměstnanec Literary Universe',
     'user.verification.publicFigure': 'Ověřená veřejná osoba',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {příběh}
+    few {příběhy}
+    many {příběhů}
+    other {příběhů}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {vesmír}
+    few {vesmíry}
+    many {vesmírů}
+    other {vesmírů}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {fan fikce}
+    few {fan fikce}
+    many {fan fikcí}
+    other {fan fikcí} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Děl',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Seznam přání',
+    'profile.storiesBy': 'Příběhy vytvořené {username}',
+    'profile.universesBy': 'Vesmíry vytvořené {username}',
+    'profile.fanFictionBy': 'Fan fikce vytvořená {username}'
 };
