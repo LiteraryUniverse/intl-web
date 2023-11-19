@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': '등급',
+    'rating.explained': '연령 등급 및 제한.',
+    'rating.all': '모두',
+    'rating.desc.all': '모든 연령과 그룹이 이용할 수 있습니다.',
+    'rating.teens': '청소년',
+    'rating.desc.teens': '12세 이상 18세 미만의 시청자에게 적합합니다.',
+    'rating.mature': '성숙',
+    'rating.desc.mature': '고급 테마, 거친 언어 및 암시적인 장면이 포함되어 있습니다.',
+    'rating.explicit': '명시적',
+    'rating.desc.explicit': '노골적인 장면이 포함되어 있습니다.',
+    'rating.selection.all': '모두 - 모든 연령과 그룹이 이용할 수 있습니다.',
+    'rating.selection.teens': '청소년(12~18세) - 12세에서 18세 사이의 시청자에게 적합합니다.',
+    'rating.selection.mature': '성인 (18+) - 고급 테마, 거친 언어 및 암시적인 장면이 포함되어 있습니다.',
+    'rating.selection.explicit': '명시적 (21+) - 명시적인 장면을 포함합니다.'
 };
