@@ -1,7 +1,7 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
+    'form.validator.required': '필수 필드',
+    'form.validator.mustBeNumber': '숫자여야합니다',
     'form.validator.minNumber': 'Should be greater than {min, number}',
     'form.validator.maxNumber': 'Should be lower than {max, number}',
     'form.validator.maxLength': `Should be less than {max, number} {what, select,
