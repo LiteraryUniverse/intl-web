@@ -1,51 +1,51 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'Обов\'язкове для заповнення поле',
+    'form.validator.mustBeNumber': 'Повинно бути число',
+    'form.validator.minNumber': 'Повинно бути більшим за {min, number}',
+    'form.validator.maxNumber': 'Повинно бути меншим за {max, number}',
+    'form.validator.maxLength': `Повинно бути менше {max, number} {what, select,
+    characters {символів}
+    tags {позначок}
+    genres {жанрів}
+    numbers {чисел}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Повинно бути не менше {min, number} {what, select,
+    characters {символів}
+    tags {позначок}
+    genres {жанрів}
+    genre {жанру}
+    numbers {чисел}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'Повинна бути дійсна електронна пошта',
+    'form.validator.url': 'Повинна бути дійсна URL-адреса',
+    'form.validator.slug': 'Повинна бути дійсна частина URL-адреси',
+    'form.submitting.signup': 'Створення облікового запису...',
+    'form.submitting.signin': 'Здійснюється вхід...',
+    'form.submitting.default': 'Додаємо...',
+    'form.submitting.sending': 'Надсилаємо...',
+    'form.validator.whitespace': 'Не повинно бути пробілів',
+    'form.validator.zipCode': 'Повинен бути дійсний ZIP-код',
+    'form.validator.isbn': 'Ми приймаємо тільки 10 або 13 версію ISBN',
+    'form.validator.btc': 'Ця адреса не є дійсною BTC-адресою.',
+    'form.validator.eth': 'Ця адреса не є дійсною адресою ETH.',
+    'form.weakPassword': 'Цей пароль виглядає ненадійним. Будь ласка, подумайте над тим, щоб зробити його надійнішим, додавши цифри та спеціальні символи.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} є обов\'язковим',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
+    'simpleschema.minString': '{label} має містити не менше  {min, number} символів',
+    'simpleschema.maxString': '{label} не може перевищувати {max, number} символів',
+    'simpleschema.minNumber': '{label} має містити не менше {min, number}',
+    'simpleschema.maxNumber': '{label} не може перевищувати {max, number}',
+    'simpleschema.minNumberExclusive': '{label} має бути більшим за число {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} має бути меншим за число {max, number}',
+    'simpleschema.minDate': '{label} повинен бути датованим не пізніше {min, date}',
+    'simpleschema.maxDate': '{label} не може бути датованим пізніше {max, date}',
     'simpleschema.badDate': '{label} не є коректною датою',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+    'simpleschema.minCount': 'Ви повинні вказати щонайменше {minCount, number} значень',
+    'simpleschema.maxCount': 'Ви не можете вказати більше {maxCount, number} значень',
     'simpleschema.noDecimal': '{label} має бути цілим числом',
     'simpleschema.notAllowed': '{value} не є допустимим значенням',
     'simpleschema.expectedString': '{label} має бути стрічкою',
@@ -55,7 +55,7 @@ export default {
     'simpleschema.expectedObject': '{label} має бути об\'єктом',
     'simpleschema.expectedConstructor': '{label} має відповідати типу {type}',
     'simpleschema.keyNotInSchema': '{key} не дозволено схемою',
-    'simpleschema.notUnique': '{label} must be unique',
+    'simpleschema.notUnique': '{label} має бути унікальним значенням',
     'simpleschema.regEx.0': '{label} не відповідає заданим критеріям',
     'simpleschema.regEx.1': '{label} має бути коректною e-mail адресою',
     'simpleschema.regEx.2': '{label} має бути коректною e-mail адресою',
