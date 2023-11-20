@@ -133,22 +133,22 @@ export default {
     'workshop.fictionalTime.createNow': 'Створіть його зараз!',
     'workshop.fictionalTime.createTitle': 'Створити новий неіснуючий час',
     'workshop.fictionalTime.editTitle': 'Редагувати {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
-    'workshop.fictionalTime.timeName': 'Time name',
-    'workshop.fictionalTime.basicInfo': 'Basic information',
-    'workshop.fictionalTime.timeSetup': 'Time setup',
-    'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date (Gregorian calendar)?',
-    'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
-    'workshop.fictionalTime.declarationBefore': 'Before units',
-    'workshop.fictionalTime.declarationAfter': 'After units',
-    'workshop.fictionalTime.declarationNone': 'None',
-    'workshop.fictionalTime.units': 'Units',
-    'workshop.fictionalTime.ETStart': 'Starting date of this time',
+    'workshop.fictionalTime.formDescription': `Тут ви можете створити власний неіснуючий час. Наразі цей інструмент обмежений і може створювати лише
+        симетричний час. Це означає, що ви не зможете відтворити календар майя або григоріанський. На даний момент
+        цей інструмент передбачає, що всі часи завжди однакові, наприклад, місяці завжди мають 30 днів без винятків і так далі.
+        Ми вирішимо цю проблему у наступних версіях, але поки що цей інструмент більше підходить для створення, насамперед
+        науково-фантастичних часових періодів.`,
+    'workshop.fictionalTime.timeName': 'Назва часового періоду',
+    'workshop.fictionalTime.basicInfo': 'Основа інформація',
+    'workshop.fictionalTime.timeSetup': 'Налаштування часового періоду',
+    'workshop.fictionalTime.linkedToET': 'Чи починається цей час від земної дати (за григоріанським календарем)?',
+    'workshop.fictionalTime.timeDeclaration': 'Оголошення часу',
+    'workshop.fictionalTime.declarationLocation': 'Де слід оголошувати назву часу?',
+    'workshop.fictionalTime.declarationBefore': 'Перед розділами',
+    'workshop.fictionalTime.declarationAfter': 'Після розділів',
+    'workshop.fictionalTime.declarationNone': 'Не треба оголошувати',
+    'workshop.fictionalTime.units': 'Розділи',
+    'workshop.fictionalTime.ETStart': 'Початкова дата цього часового відрізку',
     'workshop.fictionalTime.unitsDescFirst': 'How many units are there in this unit from milliseconds?',
     'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
     'workshop.fictionalTime.unitsName': 'Unit name',
