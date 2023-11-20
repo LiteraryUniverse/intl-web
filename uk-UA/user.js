@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Додати в друзі',
+    'user.friend.requests': `Ви маєте {num, number} нових {num, plural,
+    zero {запитів на дружбу}
+    one {запит на дружбу}
+    many {запитів на дружбу}
+    other {запитів на дружбу}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Видалити друга',
+    'user.block': 'Заблокувати',
+    'user.unblock': 'Розблокувати',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
+    male {Приєднався}
+    female {Приєдналася}
+    other {Приєднався}} {date, date, long}`,
+    'user.friend.request.accept': 'Прийняти запит на дружбу',
+    'user.friend.request.cancel': 'Відхилити запит на дружбу',
+    'user.friend.request.deny': 'Відмовити у спробі подружитись',
+    'user.listing': 'Список користувачів',
+    'user.profile.visit': 'Відвідати профіль {user}.',
+    'user.profile.avatar': 'Зображення профілю {username}',
+    'user.friend.list.requests': 'Запити на дружбу',
+    'user.friend.norequests': 'У вас немає запитів на дружбу.',
+    'user.dashboardWelcome': `Добрий {dayPart, select,
+    morning {ранок}
+    afternoon {день}
+    evening {вечір}
     night {night}
-    other {day}
+    other {день}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Цей автор був опублікований традиційним чином',
+    'user.verification.luAuthor': 'Автор примітки на основі Літературного Всесвіту',
+    'user.verification.luEmployee': 'Співробітник Літературного Всесвіту',
+    'user.verification.publicFigure': 'Перевірений громадський діяч',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {історія}
+    other {історії}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {всесвіт}
+    other {всесвіти}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {фанфік}
+    other {фанфіки} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Творіння',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Список бажань',
+    'profile.storiesBy': 'Історії створені {username}',
+    'profile.universesBy': 'Всесвіти створені {username}',
+    'profile.fanFictionBy': 'Фанфіки створені {username}'
 };
