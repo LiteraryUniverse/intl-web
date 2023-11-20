@@ -108,11 +108,11 @@ export default {
     'settings.reader.asideView': 'Показати чарівну бічну панель',
     'settings.reader.textSize': 'Показати текст більшим шрифтом',
     // Accessibility
-    'settings.accessibility.title': 'Reader accessibility',
-    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
-    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
-    'settings.accessibility.ruler': 'Attach a ruler to the mouse',
-    'settings.tab.legal': 'Legal documents',
-    'settings.tab.exportDelete': 'Export data & delete account'
+    'settings.accessibility.title': 'Зчитувальний пристрій',
+    'settings.accessibility.openDyslexic': 'Використовувати шрифт OpenDyslexic',
+    'settings.accessibility.paragraphStripes': 'Зміна кольору фону в абзаці',
+    'settings.accessibility.paragraphHighlighting': 'Виділяти поточний абзац, на який ви навели курсор',
+    'settings.accessibility.ruler': 'Прикріпити повзунок до миші',
+    'settings.tab.legal': 'Юридичні документи',
+    'settings.tab.exportDelete': 'Експортувати дані та видалити обліковий запис'
 };
