@@ -15,11 +15,11 @@ export default {
   'personalNotes.closeDropdown': 'Cerrar el desplegable',
   'personalNotes.chapterName': 'Capítulo {sequence} - {title}',
   'personalNotes.objectPersonalNotes': 'Nota personal {object}',
-  'personalNotes.searchResults': 'Search Results',
-  'personalNotes.type.story': 'Story',
-  'personalNotes.type.universe': 'Universe',
-  'personalNotes.type.chapter': 'Chapter',
-  'personalNotes.type.encEntry': 'Encyclopedia Entry',
-  'personalNotes.type.revTextBlock': 'Revision Text Block',
-  'personalNotes.chapter': 'Chapter'
+  'personalNotes.searchResults': 'Resultados de la búsqueda',
+  'personalNotes.type.story': 'Historia',
+  'personalNotes.type.universe': 'Universo',
+  'personalNotes.type.chapter': 'Capítulo',
+  'personalNotes.type.encEntry': 'Entrada de la Enciclopedia',
+  'personalNotes.type.revTextBlock': 'Bloque de texto de revisión',
+  'personalNotes.chapter': 'Capítulo'
 };
