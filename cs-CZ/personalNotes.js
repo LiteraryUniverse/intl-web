@@ -21,5 +21,6 @@ export default {
   'personalNotes.type.chapter': 'Kapitola',
   'personalNotes.type.encEntry': 'Záznam v encyklopedii',
   'personalNotes.type.revTextBlock': 'Textový blok revize',
-  'personalNotes.chapter': 'Kapitola'
+  'personalNotes.chapter': 'Kapitola',
+  'personalNotes.recentSearches': 'Recent Searches:'
 };
