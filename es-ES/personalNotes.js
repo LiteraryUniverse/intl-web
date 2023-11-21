@@ -21,5 +21,6 @@ export default {
   'personalNotes.type.chapter': 'Capítulo',
   'personalNotes.type.encEntry': 'Entrada de la Enciclopedia',
   'personalNotes.type.revTextBlock': 'Bloque de texto de revisión',
-  'personalNotes.chapter': 'Capítulo'
+  'personalNotes.chapter': 'Capítulo',
+  'personalNotes.recentSearches': 'Recent Searches:'
 };
