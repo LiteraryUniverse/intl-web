@@ -21,5 +21,6 @@ export default {
   'personalNotes.type.chapter': 'Chapter',
   'personalNotes.type.encEntry': 'Encyclopedia Entry',
   'personalNotes.type.revTextBlock': 'Revision Text Block',
-  'personalNotes.chapter': 'Chapter'
+  'personalNotes.chapter': 'Chapter',
+  'personalNotes.recentSearches': 'Recent Searches:'
 };
