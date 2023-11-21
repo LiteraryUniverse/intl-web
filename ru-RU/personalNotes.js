@@ -16,10 +16,11 @@ export default {
   'personalNotes.chapterName': 'Глава {sequence} - {title}',
   'personalNotes.objectPersonalNotes': 'Личная заметка {object}',
   'personalNotes.searchResults': 'Search Results',
-  'personalNotes.type.story': 'Story',
-  'personalNotes.type.universe': 'Universe',
-  'personalNotes.type.chapter': 'Chapter',
+  'personalNotes.type.story': 'История',
+  'personalNotes.type.universe': 'Вселенная',
+  'personalNotes.type.chapter': 'Глава',
   'personalNotes.type.encEntry': 'Encyclopedia Entry',
   'personalNotes.type.revTextBlock': 'Revision Text Block',
-  'personalNotes.chapter': 'Chapter'
+  'personalNotes.chapter': 'Глава',
+  'personalNotes.recentSearches': 'Recent Searches:'
 };
