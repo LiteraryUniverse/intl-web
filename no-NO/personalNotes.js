@@ -16,10 +16,11 @@ export default {
   'personalNotes.chapterName': 'Chapter {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} personal note',
   'personalNotes.searchResults': 'Search Results',
-  'personalNotes.type.story': 'Story',
+  'personalNotes.type.story': 'Historie',
   'personalNotes.type.universe': 'Universe',
-  'personalNotes.type.chapter': 'Chapter',
+  'personalNotes.type.chapter': 'Kapittel',
   'personalNotes.type.encEntry': 'Encyclopedia Entry',
   'personalNotes.type.revTextBlock': 'Revision Text Block',
-  'personalNotes.chapter': 'Chapter'
+  'personalNotes.chapter': 'Kapittel',
+  'personalNotes.recentSearches': 'Recent Searches:'
 };
