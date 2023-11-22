@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Continue reading',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `ამ მოთხოვნას უნდა გადავიყვანოთ {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 საათის და }
+        other {# საათის და }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 წუთი}
+        one {1 წუთი}
+        other {# წუთი}
+    } საათის კითხვაზე.`,
+    'story.estimatedReadingTime.explained': 'საშუალო კითხვის სიჩქარეს {avgReadingNum, number} სიტყვა წუთზე დაცვის გასაჩერებად.',
     'discover.search.text': 'Search term',
     'discover.searchStory.title': 'Search for a story',
     'discover.searchStory.description': 'Search for a stories',
@@ -45,16 +45,16 @@ export default {
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
     'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discover.includesAds': 'ამ ცხოვრებაში მოცულო პროდუქტის განცხადება ან სხვა რეკლამის ფორმათედ არაა.',
+    'discovery.featured.universes': 'გამოცემული უნივერსები',
+    'discovery.featured.stories': 'გამოცემული ამბები',
+    'discovery.story.tableOfContent': 'შიგთავსის ტაბლო',
+    'story.status.hiatus': 'შეჩერებულია',
+    'story.status.cancelled': 'გაუქმებულია',
+    'story.chapter.wasRead': 'კითხვა - {readAt, date}',
+    'discovery.moreDetails': 'მსგავსი დეტალები',
+    'discovery.read': 'კითხვა',
+    'discovery.chapters.showAll': 'ყველა თემას ჩანაცვლების ნახვა',
+    'discovery.chapters.showMore': 'მსგავსი თემების მეტი ნახვა',
+    'discovery.chaptersTotal': 'სათაურის ყველა თემი'
 };
