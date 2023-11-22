@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'नई कथाहरू र जगतसामग्री आविष्कार गर्नुहोस्।',
+    'discovery.universes.new': 'आविर्भावी जगतहरू',
+    'discovery.stories.new': 'नई कथाहरू',
+    'discovery.stories.standalone.new': 'नयाँ एकल कथाहरू',
+    'discovery.stories.updated': 'हालै संशोधित कथाहरू',
+    'discovery.continue': 'पढ्न जारी राख्नुहोस्',
+    'discovery.stories.similar.new': 'पड़ोसमा नयाँ कथाहरू',
+    'discovery.stories.similar.regular': 'पड़ोसमा कथाहरू',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
@@ -17,43 +17,44 @@ export default {
         other {# minutes}
     } to read.`,
     'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.text': 'खोजी शब्द',
+    'discover.searchStory.title': 'कथामा खोजी गर्नुहोस्',
+    'discover.searchStory.description': 'कथामा खोजी गर्नुहोस्',
+    'discover.searchUniverse.title': 'ब्रह्माण्डमा खोजी गर्नुहोस्',
+    'discover.searchUniverse.description': 'ब्रह्माण्डमा खोजी गर्नुहोस्',
+    'discover.search.storyStatus': 'कथा प्रगति स्थिति',
+    'story.status.complete': 'पूर्ण',
+    'story.status.inProgress': 'काम मा',
+    'discover.search.universeConnection': 'ब्रह्माण्डसँग कथा कनेक्सन',
+    'story.universeRelation.standalone': 'एकल कथा',
+    'story.universeRelation.fanFiction': 'फ्यान फिक्सन',
+    'story.universeRelation.universe': 'ब्रह्माण्डको हिस्सा',
+    'discover.search.rating': 'उमेर रेटिङ्ग',
+    'discover.search.license': 'कापराइट लाइसेन्स',
+    'discover.search.language': 'भाषा',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {आपके मापदण्डों के साथ कोई ब्रह्माण्ड नहीं मिल रहा है}
+        one {1 ब्रह्माण्ड मिला}
+        other {# ब्रह्माण्ड मिला}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {आपके मापदण्डों के साथ कोई कथा नहीं मिल रही है}
+        one {1 कथा मिली}
+        other {# कथा मिली}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
+    'discover.viewSelection.aria': 'चयन हेर्नुहोस्',
+    'discover.searchDisplay.covers': 'कवरहरूको सूची',
+    'discover.searchDisplay.list': 'संक्षेप तालिका',
+    'discover.includesAds': 'इस कार्य में उत्पाद स्थान या अन्य प्रकार के विज्ञापन शामिल हैं।',
+    'discovery.featured.universes': 'चयनित विश्वों',
+    'discovery.featured.stories': 'चयनित कहानियाँ',
+    'discovery.story.tableOfContent': 'सूची दर्ज करें',
+    'story.status.hiatus': 'हायेटस पर',
+    'story.status.cancelled': 'रद्द कर दिया गया है',
     'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.moreDetails': 'अधिक विवरण',
+    'discovery.read': 'पढ़ें',
+    'discovery.chapters.showAll': 'सभी अध्याय दिखाएँ',
+    'discovery.chapters.showMore': 'और भी अध्याय दिखाएँ',
+    'discovery.chaptersTotal': 'कहानी में कुल अध्यायों की योग्यता'
 };
