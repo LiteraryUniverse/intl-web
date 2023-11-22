@@ -48,13 +48,13 @@ export default {
     'discover.includesAds': 'Diese Arbeit enthält Produktplatzierungen oder andere Formen von Werbung.',
     'discovery.featured.universes': 'Ausgewählte Universen',
     'discovery.featured.stories': 'Ausgewählte Geschichten',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
+    'discovery.story.tableOfContent': 'Inhaltsverzeichnis',
+    'story.status.hiatus': 'Auf Eis',
+    'story.status.cancelled': 'Abgebrochen',
+    'story.chapter.wasRead': 'Lesen - {readAt, date}',
+    'discovery.moreDetails': 'Weitere Details',
     'discovery.read': 'Lesen',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discovery.chapters.showAll': 'Alle Kapitel anzeigen',
+    'discovery.chapters.showMore': 'Mehr Kapitel anzeigen',
+    'discovery.chaptersTotal': 'Gesamtzahl der Kapitel in der Geschichte'
 };
