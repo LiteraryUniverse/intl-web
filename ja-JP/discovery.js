@@ -46,13 +46,13 @@ export default {
     'discover.includesAds': 'この作品にはプロダクトプレイスメントなどの広告が含まれています。',
     'discovery.featured.universes': '注目の宇宙関連物語',
     'discovery.featured.stories': '注目の物語',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
+    'discovery.story.tableOfContent': '目次',
+    'story.status.hiatus': '休止中',
+    'story.status.cancelled': 'キャンセル',
+    'story.chapter.wasRead': '読む - {readAt, date}',
+    'discovery.moreDetails': '詳細を表示',
     'discovery.read': '読む',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discovery.chapters.showAll': 'すべての章を表示',
+    'discovery.chapters.showMore': 'もっと多くの章を表示',
+    'discovery.chaptersTotal': '物語の総章数'
 };
