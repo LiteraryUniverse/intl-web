@@ -63,5 +63,6 @@ export default {
     'discovery.moreDetails': 'Детальніше',
     'discovery.read': 'Прочитано',
     'discovery.chapters.showAll': 'Показати всі розділи',
-    'discovery.chapters.showMore': 'Показати більше розділів'
+    'discovery.chapters.showMore': 'Показати більше розділів',
+    'discovery.chaptersTotal': 'Total number of chapters in the story'
 };
