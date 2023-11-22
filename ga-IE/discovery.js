@@ -1,37 +1,37 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Deirfimid scéalta agus áiteanna úra.',
+    'discovery.universes.new': 'Áiteanna ag teacht chun cinn',
+    'discovery.stories.new': 'Scéalta nua',
+    'discovery.stories.standalone.new': 'Scéalta neamhspleáchta nua',
+    'discovery.stories.updated': 'Scéalta atá cothaithe le déanaí',
+    'discovery.continue': 'Lean ar aghaidh ag léamh',
+    'discovery.stories.similar.new': 'Scéalta nua sa cheantar',
+    'discovery.stories.similar.regular': 'Scéalta sa cheantar',
+    'story.estimatedReadingTime': `Ba chóir go dtógfadh an scéal seo {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 uair agus }
+        other {# uaireanta agus }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
+        =0 {0 nóiméad}
+        one {1 nóiméad}
+        other {# nóiméad}
+    } le léamh.`,
+    'story.estimatedReadingTime.explained': 'Bunaithe ar luas léitheoireachta meánach de {avgReadingNum, number} focail sa nóiméad.',
+    'discover.search.text': 'Focal faire',
+    'discover.searchStory.title': 'Cuardaigh scéal',
+    'discover.searchStory.description': 'Cuardaigh scéalta',
+    'discover.searchUniverse.title': 'Cuardaigh uileann',
+    'discover.searchUniverse.description': 'Cuardaigh uileanna',
+    'discover.search.storyStatus': 'Stádas dul chun cinn an scéil',
+    'story.status.complete': 'Críochnaithe',
+    'story.status.inProgress': 'Ar siúl',
+    'discover.search.universeConnection': 'Ceangal scéal le uileann',
+    'story.universeRelation.standalone': 'Scéal neamhspleách',
     'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.universeRelation.universe': 'Rann de uileann',
+    'discover.search.rating': 'Aitheantas aoise',
+    'discover.search.license': 'Ceadúnas cóipcheart',
+    'discover.search.language': 'Teanga',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
@@ -42,19 +42,19 @@ export default {
         one {1 story found}
         other {# stories found}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discover.viewSelection.aria': 'Rogha féachta',
+    'discover.searchDisplay.covers': 'Liostaí comharthaí',
+    'discover.searchDisplay.list': 'Liosta cumachta',
+    'discover.includesAds': 'Tá áitithe táirgíochta nó faisnéis bhreise i gcuid den obair seo.',
+    'discovery.featured.universes': 'Réimseacha mór le rá',
+    'discovery.featured.stories': 'Scéalta ceannródaíocha',
+    'discovery.story.tableOfContent': 'Clár ábhair',
+    'story.status.hiatus': 'Ar sos',
+    'story.status.cancelled': 'Cealaigh',
+    'story.chapter.wasRead': 'Léighte - {readAt, date}',
+    'discovery.moreDetails': 'Tuilleadh sonraí',
+    'discovery.read': 'Léigh',
+    'discovery.chapters.showAll': 'Taispeáin gach chaibidil',
+    'discovery.chapters.showMore': 'Taispeáin níos mó chaibidlí',
+    'discovery.chaptersTotal': 'Iomlán líon chaibidlí sa scéal'
 };
