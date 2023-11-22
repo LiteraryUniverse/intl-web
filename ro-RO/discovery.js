@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'Descoperă povești și universuri noi.',
+    'discovery.universes.new': 'Universuri emergente',
+    'discovery.stories.new': 'Povești noi',
+    'discovery.stories.standalone.new': 'Povești noi independente',
+    'discovery.stories.updated': 'Povești actualizate recent',
+    'discovery.continue': 'Continuă lectura',
+    'discovery.stories.similar.new': 'Povești noi în vecinătate',
+    'discovery.stories.similar.regular': 'Povești în vecinătate',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
@@ -17,44 +17,44 @@ export default {
         other {# minutes}
     } to read.`,
     'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
+    'discover.search.text': 'Termen de căutare',
+    'discover.searchStory.title': 'Caută o poveste',
+    'discover.searchStory.description': 'Caută povești',
+    'discover.searchUniverse.title': 'Caută un univers',
+    'discover.searchUniverse.description': 'Caută universuri',
+    'discover.search.storyStatus': 'Statusul progresului povestirii',
+    'story.status.complete': 'Completă',
+    'story.status.inProgress': 'În desfășurare',
+    'discover.search.universeConnection': 'Legătura povestirii cu universul',
+    'story.universeRelation.standalone': 'Poveste independentă',
     'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.universeRelation.universe': 'Parte a unui univers',
+    'discover.search.rating': 'Clasificare de vârstă',
+    'discover.search.license': 'Licență de drepturi de autor',
+    'discover.search.language': 'Limba',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Nu există universuri care să se potrivească cu parametrii tăi}
+        one {1 univers găsit}
+        other {# universuri găsite}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Nu există povești care să se potrivească cu parametrii tăi}
+        one {1 poveste găsită}
+        other {# povești găsite}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
+    'discover.viewSelection.aria': 'Vizualizare selecție',
+    'discover.searchDisplay.covers': 'Listă cu coperți',
+    'discover.searchDisplay.list': 'Listă compactă',
+    'discover.includesAds': 'Această lucrare conține reclame produs sau include alte forme de publicitate.',
+    'discovery.featured.universes': 'Universuri prezentate',
+    'discovery.featured.stories': 'Povestiri prezentate',
+    'discovery.story.tableOfContent': 'Cuprins',
+    'story.status.hiatus': 'Întrerupt',
+    'story.status.cancelled': 'Anulat',
     'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discovery.moreDetails': 'Mai multe detalii',
+    'discovery.read': 'Citește',
+    'discovery.chapters.showAll': 'Afișează toate capitolele',
+    'discovery.chapters.showMore': 'Afișează mai multe capitole',
+    'discovery.chaptersTotal': 'Numărul total de capitole în poveste'
 };
