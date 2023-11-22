@@ -31,7 +31,7 @@ export default {
     'story.universeRelation.universe': 'Part of a universe',
     'discover.search.rating': 'Age rating',
     'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.language': 'Bahasa',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
@@ -53,7 +53,8 @@ export default {
     'story.status.cancelled': 'Cancelled',
     'story.chapter.wasRead': 'Read - {readAt, date}',
     'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
+    'discovery.read': 'Baca',
     'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showMore': 'Show more chapters',
+    'discovery.chaptersTotal': 'Total number of chapters in the story'
 };
