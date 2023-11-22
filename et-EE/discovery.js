@@ -1,59 +1,60 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
-        =0 {}
-        one {1 hour and }
-        other {# hours and }
+    'discovery.meta.desc': 'Avasta uusi lugusid ja universumeid.',
+    'discovery.universes.new': 'Esile kerkinud universumid',
+    'discovery.stories.new': 'Uued lood',
+    'discovery.stories.standalone.new': 'Uued eraldiseisvad lood',
+    'discovery.stories.updated': 'Hiljuti uuendatud lood',
+    'discovery.continue': 'Jätka lugemist',
+    'discovery.stories.similar.new': 'Uued lood läheduses',
+    'discovery.stories.similar.regular': 'Lood läheduses',
+    'story.estimatedReadingTime': `Selle loo lugemiseks kulub umbes {hours, plural,
+        =0 {tunnike}
+        one {1 tunnike ja }
+        other {# tunnid ja }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 minutit}
+        one {1 minut}
+        other {# minutit}
+    } lugemiseks.`,
+    'story.estimatedReadingTime.explained': 'Põhinedes keskmisele lugemiskiirusele {avgReadingNum, number} sõna minutis.',
+    'discover.search.text': 'Otsingusõna',
+    'discover.searchStory.title': 'Otsi lugu',
+    'discover.searchStory.description': 'Otsi lugusid',
+    'discover.searchUniverse.title': 'Otsi universumit',
+    'discover.searchUniverse.description': 'Otsi universumeid',
+    'discover.search.storyStatus': 'Loo edenemise olek',
+    'story.status.complete': 'Valmis',
+    'story.status.inProgress': 'Pooleli',
+    'discover.search.universeConnection': 'Ühendus loo ja universumi vahel',
+    'story.universeRelation.standalone': 'Iseseisev lugu',
+    'story.universeRelation.fanFiction': 'Fännifiktsioon',
+    'story.universeRelation.universe': 'Osa universumist',
+    'discover.search.rating': 'Vanuse hinnang',
+    'discover.search.license': 'Autoriõiguse litsents',
+    'discover.search.language': 'Keel',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Ühtegi universumit ei vasta teie parameetritele}
+        one {1 universum leitud}
+        other {# universumit leitud}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Ühtegi lugu ei vasta teie parameetritele}
+        one {1 lugu leitud}
+        other {# lugusid leitud}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': 'Vaate valik',
+    'discover.searchDisplay.covers': 'Kaatrite loetelu',
+    'discover.searchDisplay.list': 'Kompaktne loend',
+    'discover.includesAds': 'Selles töös on tooteplaatseerimine või sisaldab muid reklaamvorme.',
+    'discovery.featured.universes': 'Esiletõstetud universumid',
+    'discovery.featured.stories': 'Esiletõstetud lood',
+    'discovery.story.tableOfContent': 'Sisukord',
+    'story.status.hiatus': 'Katkestus',
+    'story.status.cancelled': 'Tühistatud',
+    'story.chapter.wasRead': 'Loetud - {readAt, date}',
+    'discovery.moreDetails': 'Rohkem üksikasju',
+    'discovery.read': 'Loe',
+    'discovery.chapters.showAll': 'Näita kõiki peatükke',
+    'discovery.chapters.showMore': 'Näita rohkem peatükke',
+    'discovery.chaptersTotal': 'Lugude koguarv'
 };
