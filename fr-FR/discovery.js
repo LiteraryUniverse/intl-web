@@ -48,13 +48,13 @@ export default {
     'discover.includesAds': 'Cette œuvre comporte un placement de produit ou inclut d\'autres formes de publicité.',
     'discovery.featured.universes': 'Univers Recommandés',
     'discovery.featured.stories': 'Histoires Recommandées',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
+    'discovery.story.tableOfContent': 'Table des matières',
+    'story.status.hiatus': 'En pause',
+    'story.status.cancelled': 'Annulé',
+    'story.chapter.wasRead': 'Lu - {readAt, date}',
+    'discovery.moreDetails': 'Plus de détails',
     'discovery.read': 'Lire',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discovery.chapters.showAll': 'Afficher tous les chapitres',
+    'discovery.chapters.showMore': 'Afficher plus de chapitres',
+    'discovery.chaptersTotal': 'Nombre total de chapitres dans l\'histoire'
 };
