@@ -16,7 +16,7 @@ export default {
         one {1 Minute}
         other {# Minuten}
     } zum Lesen brauchen.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': 'Basierend auf einer durchschnittlichen Lesegeschwindigkeit von {avgReadingNum, number} Wörtern pro Minute.',
     'discover.search.text': 'Suchbegriff',
     'discover.searchStory.title': 'Suche nach Geschichte',
     'discover.searchStory.description': 'Suche nach einer Geschichte',
@@ -53,7 +53,8 @@ export default {
     'story.status.cancelled': 'Cancelled',
     'story.chapter.wasRead': 'Read - {readAt, date}',
     'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
+    'discovery.read': 'Lesen',
     'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showMore': 'Show more chapters',
+    'discovery.chaptersTotal': 'Total number of chapters in the story'
 };
