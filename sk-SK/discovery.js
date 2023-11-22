@@ -61,5 +61,6 @@ export default {
     'discovery.moreDetails': 'Viac detailov',
     'discovery.read': 'Prečítajte si',
     'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showMore': 'Show more chapters',
+    'discovery.chaptersTotal': 'Total number of chapters in the story'
 };
