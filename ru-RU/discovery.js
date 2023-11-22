@@ -64,5 +64,5 @@ export default {
     'discovery.read': 'Читать',
     'discovery.chapters.showAll': 'Показать все главы',
     'discovery.chapters.showMore': 'Ещё главы',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discovery.chaptersTotal': 'Общее количество глав в истории'
 };
