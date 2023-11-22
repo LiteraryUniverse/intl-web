@@ -16,7 +16,7 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': '분당 평균 읽기 속도 {avgReadingNum, number} 단어 기준.',
     'discover.search.text': '검색어',
     'discover.searchStory.title': '스토리 검색',
     'discover.searchStory.description': '스토리 검색',
@@ -55,5 +55,6 @@ export default {
     'discovery.moreDetails': 'More details',
     'discovery.read': 'Read',
     'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showMore': 'Show more chapters',
+    'discovery.chaptersTotal': 'Total number of chapters in the story'
 };
