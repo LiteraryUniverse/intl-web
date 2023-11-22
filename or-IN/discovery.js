@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Continue reading',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `ଏହା କଥା ପଢ଼ିବା କଲେ {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 ଘଣ୍ଟା ଏବଂ }
+        other {# ଘଣ୍ଟା ଏବଂ }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 ମିନିଟ ଏବଂ}
+        one {1 ମିନିଟ ଏବଂ}
+        other {# ମିନିଟ ଏବଂ}
+    } ପଢିବାରେ ।`,
+    'story.estimatedReadingTime.explained': 'ପ୍ରତ୍ୟେକ ମିନିଟରେ {avgReadingNum, number} ଶବ୍ଦ ପଢ଼ିବା ସ୍ଥଳେ ଆଧାରିତ ।',
     'discover.search.text': 'Search term',
     'discover.searchStory.title': 'Search for a story',
     'discover.searchStory.description': 'Search for a stories',
@@ -45,16 +45,16 @@ export default {
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
     'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discover.includesAds': 'ଏହା କାର୍ଯ୍ୟରେ ଉପସ୍ଥାପନ ପନ୍ଧରୁ ଉପଭୋଗ ଅଛି ବା ଅନ୍ୟ ପ୍ରକାରରେ ବିଜ୍ଞାପନ ଅଛି ।',
+    'discovery.featured.universes': 'ପ୍ରସିଦ୍ଧ ବିଷୟଗୁଡିକ',
+    'discovery.featured.stories': 'ପ୍ରସିଦ୍ଧ କଥାଗୁଡିକ',
+    'discovery.story.tableOfContent': 'ବିଷୟସୂଚୀ',
+    'story.status.hiatus': 'ହାଇଆସ୍ ରେ',
+    'story.status.cancelled': 'ବାତିଲ',
+    'story.chapter.wasRead': 'ପଢ଼ାସାରେ {readAt, date}',
+    'discovery.moreDetails': 'ଅଧିକ ବିବରଣୀ',
+    'discovery.read': 'ପଢ଼ନ୍ତୁ',
+    'discovery.chapters.showAll': 'ସମସ୍ତ ଅଧ୍ୟାୟ ଦେଖାନ‌କୁ',
+    'discovery.chapters.showMore': 'ସମସ୍ତ ଅଧ୍ୟାୟ ଅଧିକ ଦେଖାନ‌କୁ',
+    'discovery.chaptersTotal': 'କଥାରେ ମୋଟ ଅଧ୍ୟାୟ ସଂଖ୍ୟା'
 };
