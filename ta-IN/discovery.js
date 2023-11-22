@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Continue reading',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `இந்த கதைக்கு {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 மணி நேரம் மற்றும் }
+        other {# மணி நேரமாக இருக்க வேண்டும் மற்றும் }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 நிமிடம்}
+        one {1 நிமிடம்}
+        other {# நிமிடம்}
+    } படிக்க`,
+    'story.estimatedReadingTime.explained': 'மிகவும் சரியான படிக்கும் வேகத்தின் மூலம் உள்ள பெரும்பாலும் படித்த அல்லது படிக்க முடியேன்கள் {avgReadingNum, number} வார்த்தைகள் பேர் நிமிடத்திற்க்கு பிறகு.',
     'discover.search.text': 'Search term',
     'discover.searchStory.title': 'Search for a story',
     'discover.searchStory.description': 'Search for a stories',
@@ -45,16 +45,16 @@ export default {
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
     'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discover.includesAds': 'இந்த பணியம் பொறுப்பு அல்லது பிரசாரப் பகுதிகளைக் கொண்டுள்ளது.',
+    'discovery.featured.universes': 'புதிய உலகில் உள்ள கதைகள்',
+    'discovery.featured.stories': 'புதிய கதைகள்',
+    'discovery.story.tableOfContent': 'பேட்டி அட்டவணை',
+    'story.status.hiatus': 'இடமாற்றப்பட்டுள்ளது',
+    'story.status.cancelled': 'ரத்துசெய்யப்பட்டுள்ளது',
+    'story.chapter.wasRead': 'படிக்கப்பட்டது - {readAt, date}',
+    'discovery.moreDetails': 'மேலும் விவரங்கள்',
+    'discovery.read': 'படிக்க',
+    'discovery.chapters.showAll': 'அனைத்து அத்தியாயங்களையும் காட்டு',
+    'discovery.chapters.showMore': 'மேலும் அத்தியாயங்களைக் காட்டு',
+    'discovery.chaptersTotal': 'கதையின் மொத்த அத்தியாயங்கள் எண்ணிக்கை'
 };
