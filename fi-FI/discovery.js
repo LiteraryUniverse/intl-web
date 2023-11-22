@@ -53,7 +53,8 @@ export default {
     'story.status.cancelled': 'Cancelled',
     'story.chapter.wasRead': 'Read - {readAt, date}',
     'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
+    'discovery.read': 'Lue',
     'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showMore': 'Show more chapters',
+    'discovery.chaptersTotal': 'Total number of chapters in the story'
 };
