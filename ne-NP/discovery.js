@@ -1,60 +1,60 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'नयाँ कथाहरू र विश्वहरू खोज्नुहोस्।',
+    'discovery.universes.new': 'उभयोग्य बिश्वहरू',
+    'discovery.stories.new': 'नयाँ कथाहरू',
+    'discovery.stories.standalone.new': 'नयाँ स्ट्यान्डअलोन कथाहरू',
+    'discovery.stories.updated': 'हालसम्म अद्यावधिक कथाहरू',
+    'discovery.continue': 'पढ्न जारी राख्नुहोस्',
+    'discovery.stories.similar.new': 'नयाँ कथाहरू समुदायमा',
+    'discovery.stories.similar.regular': 'समुदायमा कथाहरू',
+    'story.estimatedReadingTime': `यो कथा {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 घण्टा र }
+        other {# घण्टा र }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 मिनेटहरू}
+        one {1 मिनेटहरू}
+        other {# मिनेटहरू}
+    } पढ्न लागेको हुन्छ।`,
+    'story.estimatedReadingTime.explained': 'प्रति {avgReadingNum, number} शब्दहरूको साधारण पठनीयता प्रदर्शनमा आधारित।',
+    'discover.search.text': 'खोजी शब्द',
+    'discover.searchStory.title': 'कथाको खोजी गर्नुहोस्',
+    'discover.searchStory.description': 'कथाको खोजी गर्नुहोस्',
+    'discover.searchUniverse.title': 'विश्वहरूको खोजी गर्नुहोस्',
+    'discover.searchUniverse.description': 'विश्वहरूको खोजी गर्नुहोस्',
+    'discover.search.storyStatus': 'कथा प्रगति स्थिति',
+    'story.status.complete': 'पूर्ण',
+    'story.status.inProgress': 'कार्यान्वित भइरहेको',
+    'discover.search.universeConnection': 'कथा र विश्वमा कनेक्सन',
+    'story.universeRelation.standalone': 'स्ट्यान्डअलोन कथा',
+    'story.universeRelation.fanFiction': 'प्रशंसाका कथा',
+    'story.universeRelation.universe': 'कुराहरूको भाग',
+    'discover.search.rating': 'मापदण्ड रेटिङ',
+    'discover.search.license': 'कपिराइट लाइसेन्स',
+    'discover.search.language': 'भाषा',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {तपाईंका मापदण्डहरूसँग कुनै विश्वहरू मेल खाँदैनन्}
+        one {१ विश्व प्राप्त भयो}
+        other {# विश्वहरू प्राप्त भयो}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {तपाईंका मापदण्डहरूसँग कुनै कथाहरू मेल खाँदैनन्}
+        one {१ कथा प्राप्त भयो}
+        other {# कथाहरू प्राप्त भयो}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discover.viewSelection.aria': 'दृश्य चयन',
+    'discover.searchDisplay.covers': 'कवरहरूको सूची',
+    'discover.searchDisplay.list': 'संक्षिप्त सूची',
+    'discover.includesAds': 'यसमा उत्पादन स्थानविहीन वा अन्य प्रकारको विज्ञापनहरू छन्।',
+    'discovery.featured.universes': 'चर्चित विश्वहरू',
+    'discovery.featured.stories': 'चर्चित कथाहरू',
+    'discovery.story.tableOfContent': 'सामग्रीको सारांश',
+    'story.status.hiatus': 'अनुपस्थित',
+    'story.status.cancelled': 'रद्द गरिएको',
+    'story.chapter.wasRead': 'पढिएको - {readAt, date}',
+    'discovery.moreDetails': 'थप विवरणहरू',
+    'discovery.read': 'पढ्नुहोस्',
+    'discovery.chapters.showAll': 'सबै अध्यायहरू देखाउनुहोस्',
+    'discovery.chapters.showMore': 'थप अध्यायहरू देखाउनुहोस्',
+    'discovery.chaptersTotal': 'कथामा कुल अध्याय संख्या'
 };
