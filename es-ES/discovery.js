@@ -56,5 +56,5 @@ export default {
     'discovery.read': 'Leído',
     'discovery.chapters.showAll': 'Mostrar todos los capítulos',
     'discovery.chapters.showMore': 'Mostrar más capítulos',
-    'discovery.chaptersTotal': 'Total number of chapters in the story'
+    'discovery.chaptersTotal': 'Número total de capítulos en la historia'
 };
