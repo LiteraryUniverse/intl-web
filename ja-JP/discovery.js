@@ -16,7 +16,7 @@ export default {
         one {1分}
         other {#分}
     }で読めると思います`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': '平均読取速度、毎分{avgReadingNum, number}文字に基づいて計算されています。',
     'discover.search.text': '語句の検索',
     'discover.searchStory.title': '物語を探す',
     'discover.searchStory.description': '物語を探す',
@@ -51,7 +51,8 @@ export default {
     'story.status.cancelled': 'Cancelled',
     'story.chapter.wasRead': 'Read - {readAt, date}',
     'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
+    'discovery.read': '読む',
     'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showMore': 'Show more chapters',
+    'discovery.chaptersTotal': 'Total number of chapters in the story'
 };
