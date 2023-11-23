@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Lue',
     'discovery.chapters.showAll': 'Näytä kaikki luvut',
     'discovery.chapters.showMore': 'Näytä lisää lukuja',
-    'discovery.chaptersTotal': 'Tarinan kokonaislukujen määrä'
+    'discovery.chaptersTotal': 'Tarinan kokonaislukujen määrä',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
