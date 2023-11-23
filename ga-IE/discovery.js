@@ -33,14 +33,14 @@ export default {
     'discover.search.license': 'Ceadúnas cóipcheart',
     'discover.search.language': 'Teanga',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Níl aon domhain arím ar a dtaispeántar do chuid patrún}
+        one {Aimsíodh domhan amháin}
+        other {aimsíodh domhananna #}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Níl aon scéal arím ar a dtaispeántar do chuid patrún}
+        one {Aimsíodh scéal amháin}
+        other {aimsíodh scéalta #}
     }.`,
     'discover.viewSelection.aria': 'Rogha féachta',
     'discover.searchDisplay.covers': 'Liostaí comharthaí',
@@ -57,6 +57,6 @@ export default {
     'discovery.chapters.showAll': 'Taispeáin gach chaibidil',
     'discovery.chapters.showMore': 'Taispeáin níos mó chaibidlí',
     'discovery.chaptersTotal': 'Iomlán líon chaibidlí sa scéal',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.readFromStart': 'Léigh ón gcéad chaibidil',
+    'discovery.readLatest': 'Léigh an cúigiú caibidil is déanaí'
 };
