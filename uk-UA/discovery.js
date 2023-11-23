@@ -64,5 +64,7 @@ export default {
     'discovery.read': 'Прочитано',
     'discovery.chapters.showAll': 'Показати всі розділи',
     'discovery.chapters.showMore': 'Показати більше розділів',
-    'discovery.chaptersTotal': 'Загальна кількість глав у історії'
+    'discovery.chaptersTotal': 'Загальна кількість глав у історії',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
