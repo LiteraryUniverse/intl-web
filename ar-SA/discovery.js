@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'اقرأ',
     'discovery.chapters.showAll': 'عرض جميع الفصول',
     'discovery.chapters.showMore': 'عرض المزيد من الفصول',
-    'discovery.chaptersTotal': 'إجمالي عدد الفصول في القصة'
+    'discovery.chaptersTotal': 'إجمالي عدد الفصول في القصة',
+    'discovery.readFromStart': 'اقرأ من الفصل الأول',
+    'discovery.readLatest': 'اقرأ أحدث الفصول'
 };
