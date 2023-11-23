@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'पढ़ें',
     'discovery.chapters.showAll': 'सभी अध्याय दिखाएँ',
     'discovery.chapters.showMore': 'और भी अध्याय दिखाएँ',
-    'discovery.chaptersTotal': 'कहानी में कुल अध्यायों की योग्यता'
+    'discovery.chaptersTotal': 'कहानी में कुल अध्यायों की योग्यता',
+    'discovery.readFromStart': 'पहले दिल्ली से पढ़ें',
+    'discovery.readLatest': 'नवीनतम अध्याय पढ़ें'
 };
