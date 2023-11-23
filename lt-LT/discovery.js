@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Skaityti',
     'discovery.chapters.showAll': 'Rodyti visus skyrius',
     'discovery.chapters.showMore': 'Rodyti daugiau skyrių',
-    'discovery.chaptersTotal': 'Istorijos skyrių skaičius'
+    'discovery.chaptersTotal': 'Istorijos skyrių skaičius',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
