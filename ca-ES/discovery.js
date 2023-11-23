@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Llegiu',
     'discovery.chapters.showAll': 'Mostrar tots els capítols',
     'discovery.chapters.showMore': 'Mostrar més capítols',
-    'discovery.chaptersTotal': 'Nombre total de capítols de la història'
+    'discovery.chaptersTotal': 'Nombre total de capítols de la història',
+    'discovery.readFromStart': 'Llegir des del primer capítol',
+    'discovery.readLatest': 'Llegir l\'últim capítol'
 };
