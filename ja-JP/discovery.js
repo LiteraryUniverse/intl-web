@@ -54,5 +54,7 @@ export default {
     'discovery.read': '読む',
     'discovery.chapters.showAll': 'すべての章を表示',
     'discovery.chapters.showMore': 'もっと多くの章を表示',
-    'discovery.chaptersTotal': '物語の総章数'
+    'discovery.chaptersTotal': '物語の総章数',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
