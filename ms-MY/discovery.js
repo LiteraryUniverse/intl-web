@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Terus membaca',
     'discovery.stories.similar.new': 'Cerita baru di sekitar',
     'discovery.stories.similar.regular': 'Cerita di sekitar',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Cerita ini sepatutnya mengambil masa {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 jam dan }
+        other {# jam dan }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 minit}
+        one {1 minit}
+        other {# minit}
+    } untuk dibaca.`,
+    'story.estimatedReadingTime.explained': 'Berdasarkan purata kelajuan membaca {avgReadingNum, number} perkataan per minit.',
     'discover.search.text': 'Kata kunci pencarian',
     'discover.searchStory.title': 'Cari cerita',
     'discover.searchStory.description': 'Cari cerita-cerita',
@@ -33,14 +33,14 @@ export default {
     'discover.search.license': 'Lisensi hak cipta',
     'discover.search.language': 'Bahasa',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Tiada alam semesta sepadan dengan parameter anda}
+        one {1 alam semesta dijumpai}
+        other {# alam semesta dijumpai}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Tiada cerita sepadan dengan parameter anda}
+        one {1 cerita dijumpai}
+        other {# cerita dijumpai}
     }.`,
     'discover.viewSelection.aria': 'Pilihan tampilan',
     'discover.searchDisplay.covers': 'Daftar sampul',
@@ -51,10 +51,12 @@ export default {
     'discovery.story.tableOfContent': 'Kandungan',
     'story.status.hiatus': 'Ditangguhkan',
     'story.status.cancelled': 'Dibatalkan',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Dibaca - {readAt, date}',
     'discovery.moreDetails': 'Butiran lebih lanjut',
     'discovery.read': 'Baca',
     'discovery.chapters.showAll': 'Paparkan semua bab',
     'discovery.chapters.showMore': 'Paparkan lebih banyak bab',
-    'discovery.chaptersTotal': 'Jumlah keseluruhan bab dalam cerita'
+    'discovery.chaptersTotal': 'Jumlah keseluruhan bab dalam cerita',
+    'discovery.readFromStart': 'Baca dari bab pertama',
+    'discovery.readLatest': 'Baca bab terbaru'
 };
