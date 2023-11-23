@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Loe',
     'discovery.chapters.showAll': 'Näita kõiki peatükke',
     'discovery.chapters.showMore': 'Näita rohkem peatükke',
-    'discovery.chaptersTotal': 'Lugude koguarv'
+    'discovery.chaptersTotal': 'Lugude koguarv',
+    'discovery.readFromStart': 'Lugeda esimesest peatükist',
+    'discovery.readLatest': 'Lugeda viimast peatükist'
 };
