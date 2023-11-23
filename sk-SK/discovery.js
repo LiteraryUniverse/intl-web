@@ -62,5 +62,7 @@ export default {
     'discovery.read': 'Prečítajte si',
     'discovery.chapters.showAll': 'Zobraziť všetky kapitoly',
     'discovery.chapters.showMore': 'Zobraziť viac kapitol',
-    'discovery.chaptersTotal': 'Celkový počet kapitol v príbehu'
+    'discovery.chaptersTotal': 'Celkový počet kapitol v príbehu',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
