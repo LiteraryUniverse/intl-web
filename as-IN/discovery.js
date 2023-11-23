@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'পড়ুন',
     'discovery.chapters.showAll': 'সমস্ত অধ্যায় দেখান',
     'discovery.chapters.showMore': 'আরও অধ্যায় দেখান',
-    'discovery.chaptersTotal': 'গল্পের মোট সংখ্যা পর্যালোচনা করুন'
+    'discovery.chaptersTotal': 'গল্পের মোট সংখ্যা পর্যালোচনা করুন',
+    'discovery.readFromStart': 'প্ৰথম অধ্যায়ৰ পৰা পঢ়ক',
+    'discovery.readLatest': 'সাম্প্ৰতিক অধ্যায় পৰা পঢ়ক'
 };
