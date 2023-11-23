@@ -57,6 +57,6 @@ export default {
     'discovery.chapters.showAll': 'Mostrar todos os capítulos',
     'discovery.chapters.showMore': 'Mostrar mais capítulos',
     'discovery.chaptersTotal': 'Número total de capítulos do livro',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.readFromStart': 'Ler a partir do primeiro capítulo',
+    'discovery.readLatest': 'Ler o último capítulo'
 };
