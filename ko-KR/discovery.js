@@ -56,5 +56,7 @@ export default {
     'discovery.read': '읽기',
     'discovery.chapters.showAll': '모든 챕터 보기',
     'discovery.chapters.showMore': '더 많은 챕터 보기',
-    'discovery.chaptersTotal': '이 이야기의 총 챕터 수'
+    'discovery.chaptersTotal': '이 이야기의 총 챕터 수',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
