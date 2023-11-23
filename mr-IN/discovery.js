@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'वाचा',
     'discovery.chapters.showAll': 'सर्व अध्याय दाखवा',
     'discovery.chapters.showMore': 'अधिक अध्याय दाखवा',
-    'discovery.chaptersTotal': 'कहाणीतील एकूण अध्यायांची संख्या'
+    'discovery.chaptersTotal': 'कहाणीतील एकूण अध्यायांची संख्या',
+    'discovery.readFromStart': 'पहील्या अध्यायापासून वाचा',
+    'discovery.readLatest': 'नवीनतम अध्याय वाचा'
 };
