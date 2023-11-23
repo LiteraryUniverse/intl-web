@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Lees',
     'discovery.chapters.showAll': 'Toon alle hoofdstukken',
     'discovery.chapters.showMore': 'Toon meer hoofdstukken',
-    'discovery.chaptersTotal': 'Totaal aantal hoofdstukken in het verhaal'
+    'discovery.chaptersTotal': 'Totaal aantal hoofdstukken in het verhaal',
+    'discovery.readFromStart': 'Lees vanaf het eerste hoofdstuk',
+    'discovery.readLatest': 'Lees het laatste hoofdstuk'
 };
