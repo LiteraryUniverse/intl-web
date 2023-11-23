@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'კითხვა',
     'discovery.chapters.showAll': 'ყველა თემას ჩანაცვლების ნახვა',
     'discovery.chapters.showMore': 'მსგავსი თემების მეტი ნახვა',
-    'discovery.chaptersTotal': 'სათაურის ყველა თემი'
+    'discovery.chaptersTotal': 'სათაურის ყველა თემი',
+    'discovery.readFromStart': 'წაიკითხეთ პირველი თავადი თვალწინააღმდეგეს',
+    'discovery.readLatest': 'წაიკითხეთ უახლესი თავადი თვალწინააღმდეგეს'
 };
