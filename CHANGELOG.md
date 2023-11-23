@@ -4,7 +4,8 @@
 
 * New strings for profile page
 * Fixed encyclopedia ids
-*
+* Profile, discovery and workshop strings update for re-design
+* Personal notes strings updates
 
 ## 2023-11-05 - v2.10.3
 
