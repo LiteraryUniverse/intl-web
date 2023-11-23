@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Lido',
     'discovery.chapters.showAll': 'Mostrar todos os capítulos',
     'discovery.chapters.showMore': 'Mostrar mais capítulos',
-    'discovery.chaptersTotal': 'Número total de capítulos da história'
+    'discovery.chaptersTotal': 'Número total de capítulos da história',
+    'discovery.readFromStart': 'Ler desde o primeiro capítulo',
+    'discovery.readLatest': 'Ler o último capítulo'
 };
