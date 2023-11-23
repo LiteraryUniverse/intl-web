@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Léigh',
     'discovery.chapters.showAll': 'Taispeáin gach chaibidil',
     'discovery.chapters.showMore': 'Taispeáin níos mó chaibidlí',
-    'discovery.chaptersTotal': 'Iomlán líon chaibidlí sa scéal'
+    'discovery.chaptersTotal': 'Iomlán líon chaibidlí sa scéal',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
