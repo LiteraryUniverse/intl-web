@@ -57,6 +57,6 @@ export default {
     'discovery.chapters.showAll': 'Tüm bölümleri göster',
     'discovery.chapters.showMore': 'Daha fazla bölüm göster',
     'discovery.chaptersTotal': 'Hikayenin toplam bölüm sayısı',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.readFromStart': 'İlk üçten oku',
+    'discovery.readLatest': 'En son bölümü oku'
 };
