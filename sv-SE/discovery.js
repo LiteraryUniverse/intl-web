@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Läs',
     'discovery.chapters.showAll': 'Visa alla kapitel',
     'discovery.chapters.showMore': 'Visa fler kapitel',
-    'discovery.chaptersTotal': 'Totalt antal kapitel i berättelsen'
+    'discovery.chaptersTotal': 'Totalt antal kapitel i berättelsen',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
