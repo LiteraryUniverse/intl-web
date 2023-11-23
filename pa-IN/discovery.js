@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'ਪੜ੍ਹੋ',
     'discovery.chapters.showAll': 'ਸਭ ਅਧਿਆਇਆਂ ਵੇਖੋ',
     'discovery.chapters.showMore': 'ਹੋਰ ਅਧਾਇਆਂ ਵੇਖੋ',
-    'discovery.chaptersTotal': 'ਕਹਾਣੀ ਵਿੱਚ ਕੁੱਲ ਅਧਾਇਆਂ ਦੀ ਗਿਣਤੀ'
+    'discovery.chaptersTotal': 'ਕਹਾਣੀ ਵਿੱਚ ਕੁੱਲ ਅਧਾਇਆਂ ਦੀ ਗਿਣਤੀ',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
