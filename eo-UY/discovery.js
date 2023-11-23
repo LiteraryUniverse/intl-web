@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
+    'discovery.meta.desc': 'Malkovru novajn rakontojn kaj universojn.',
+    'discovery.universes.new': 'Survenantaj universoj',
+    'discovery.stories.new': 'Novaj rakontoj',
+    'discovery.stories.standalone.new': 'Novaj memstariaj rakontoj',
+    'discovery.stories.updated': 'Lastatempe ĝisdatigitaj rakontoj',
     'discovery.continue': 'Legi plu',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.stories.similar.new': 'Novaj rakontoj en la najbaraĵo',
+    'discovery.stories.similar.regular': 'Rakontoj en la najbaraĵo',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
@@ -17,43 +17,46 @@ export default {
         other {# minutes}
     } to read.`,
     'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.text': 'Enserĉopa vorto',
+    'discover.searchStory.title': 'Serĉu rakonton',
+    'discover.searchStory.description': 'Serĉu rakontojn',
+    'discover.searchUniverse.title': 'Serĉu universon',
+    'discover.searchUniverse.description': 'Serĉu universojn',
+    'discover.search.storyStatus': 'Stara progreso de la rakonto',
+    'story.status.complete': 'Plena',
+    'story.status.inProgress': 'Progresanta',
+    'discover.search.universeConnection': 'Rilato de rakonto al universo',
+    'story.universeRelation.standalone': 'Memstara rakonto',
+    'story.universeRelation.fanFiction': 'Fanfikcio',
+    'story.universeRelation.universe': 'Parto de universo',
+    'discover.search.rating': 'Aĝorekordaĵo',
+    'discover.search.license': 'Aŭtorrajta permesilo',
+    'discover.search.language': 'Lingvo',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Ne ekzistas universoj kongruantaj viajn parametron}
+        one {1 universo trovita}
+        other {# universoj trovitaj}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Ne ekzistas rakontoj kongruantaj viajn parametron}
+        one {1 rakonto trovita}
+        other {# rakontoj trovitaj}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
+    'discover.viewSelection.aria': 'Elektita vidado',
+    'discover.searchDisplay.covers': 'Kovrilistigo',
+    'discover.searchDisplay.list': 'Kompakta listo',
+    'discover.includesAds': 'Ĉi tiu verko havas produkta lokigojn aŭ aliajn formojn de reklamo en ĝi.',
+    'discovery.featured.universes': 'Elstaraj universoj',
+    'discovery.featured.stories': 'Elstaraj rakontoj',
+    'discovery.story.tableOfContent': 'Enhavo-tabelo',
+    'story.status.hiatus': 'Interrompita',
+    'story.status.cancelled': 'Nuligita',
     'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.moreDetails': 'Pliaj detaloj',
+    'discovery.read': 'Legi',
+    'discovery.chapters.showAll': 'Montri ĉiujn ĉapitrojn',
+    'discovery.chapters.showMore': 'Montri pliajn ĉapitrojn',
+    'discovery.chaptersTotal': 'Entuta nombro de ĉapitroj en la rakonto',
+    'discovery.readFromStart': 'Legu de la unua ĉapitro',
+    'discovery.readLatest': 'Legu la lastan ĉapitron'
 };

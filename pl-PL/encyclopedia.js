@@ -150,5 +150,8 @@ export default {
     other {{max, number}}
   } wpisy.`,
     'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
+    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'encyclopedia.wip.abbreviation': 'WIP',
+    'encyclopedia.wip.full': 'Work in Progress'
 };

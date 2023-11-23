@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'కొత్త కథలు మరియు యూనివర్సులను కనుగొనండి.',
+    'discovery.universes.new': 'ప్రారంభ అవసరంలో ఉన్న యూనివర్సులు',
+    'discovery.stories.new': 'కొత్త కథలు',
+    'discovery.stories.standalone.new': 'కొత్త ఘణ్యమైన కథలు',
+    'discovery.stories.updated': 'ఇతర కథలను మెరుగుపరచాయండి',
+    'discovery.continue': 'చూడడానికి కొనసాగండి',
+    'discovery.stories.similar.new': 'ప్రాంతంలో కొత్త కథలు',
+    'discovery.stories.similar.regular': 'ప్రాంతంలో కథలు',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
@@ -17,43 +17,46 @@ export default {
         other {# minutes}
     } to read.`,
     'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.text': 'శోధన పదం',
+    'discover.searchStory.title': 'ఒక కథకు శోధించండి',
+    'discover.searchStory.description': 'కథలకు శోధించండి',
+    'discover.searchUniverse.title': 'యూనివర్సుకు శోధించండి',
+    'discover.searchUniverse.description': 'యూనివర్సులకు శోధించండి',
+    'discover.search.storyStatus': 'కథ పురావ స్థితి',
+    'story.status.complete': 'పూర్తి చేయబడింది',
+    'story.status.inProgress': 'ప్రగతింపులో',
+    'discover.search.universeConnection': 'కథకు యూనివర్సు కనెక్షన్',
+    'story.universeRelation.standalone': 'అన్నీంటిని స్వతంత్ర కథ',
+    'story.universeRelation.fanFiction': 'ఫాన్ ఫిక్షన్',
+    'story.universeRelation.universe': 'యూనివర్సు భాగమైన కథ',
+    'discover.search.rating': 'వయస్సు రేటింగ్',
+    'discover.search.license': 'కాపీరైట్ లైసెన్స్',
+    'discover.search.language': 'భాష',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {మీ పరామీతాలకు యూనివర్సులు ఎక్కడించవడం లేదు}
+        one {1 యూనివర్సు కనుగొనబడింది}
+        other {# యూనివర్సులు కనుగొనబడింది}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {మీ పరామీతాలకు కథలు ఎక్కడించవడం లేదు}
+        one {1 కథ కనుగొనబడింది}
+        other {# కథలు కనుగొనబడింది}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
+    'discover.viewSelection.aria': 'చూడడానికి ఎంపిక',
+    'discover.searchDisplay.covers': 'కవర్ల జాబితా',
+    'discover.searchDisplay.list': 'సంక్షేప జాబితా',
+    'discover.includesAds': 'ఈ పనితీరిని మార్కెటింగ్ ప్లేస్‌మెంట్ లేదా ఇతర ప్రకారాల ప్రకటనలను కలిగి ఉన్నాయి.',
+    'discovery.featured.universes': 'లక్ష్య విశ్వాలు',
+    'discovery.featured.stories': 'లక్ష్య కథలు',
+    'discovery.story.tableOfContent': 'విషయ పటిక',
+    'story.status.hiatus': 'విరమణ',
+    'story.status.cancelled': 'రద్దు చేయబడింది',
     'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.moreDetails': 'మరింత వివరాలు',
+    'discovery.read': 'చదువు',
+    'discovery.chapters.showAll': 'అన్ని అధ్యాయాలను చూపుము',
+    'discovery.chapters.showMore': 'మరిన్ని అధ్యాయాలను చూపుము',
+    'discovery.chaptersTotal': 'కథలో ఆది నుండి చదవడానికి మొత్తం అనుక్రమణిక అందులో ఉన్నది',
+    'discovery.readFromStart': 'మొదటి అధ్యాయం నుండి చదవండి',
+    'discovery.readLatest': 'తాజా అధ్యాయాన్ని చదవండి'
 };

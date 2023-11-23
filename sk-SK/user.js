@@ -31,5 +31,23 @@ export default {
     'user.verification.publishedAuthor': 'Tento autor bol publikovaný tradičným spôsobom',
     'user.verification.luAuthor': 'Pozoruhodný autor z Literary Universe',
     'user.verification.luEmployee': 'Zamestnanec Literary Universe',
-    'user.verification.publicFigure': 'Overená verejná osoba'
+    'user.verification.publicFigure': 'Overená verejná osoba',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {story}
+    other {stories}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {universe}
+    other {universes}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {fan fiction}
+    other {fan fictions} 
+  }`,
+    'profile.works': 'Works',
+    // As in creative/literary works
+    'profile.wishlist': 'Wishlist',
+    'profile.storiesBy': 'Stories created by {username}',
+    'profile.universesBy': 'Universes created by {username}',
+    'profile.fanFictionBy': 'Fan Fiction created by {username}'
 };

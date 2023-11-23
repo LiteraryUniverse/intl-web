@@ -29,5 +29,23 @@ export default {
     'user.verification.publishedAuthor': 'Geprüfte Persönlichkeiten des öffentlichen Lebens',
     'user.verification.luAuthor': 'Bemerkenswerter Autor aus dem literarischen Universum',
     'user.verification.luEmployee': 'Mitarbeiter von Literary Universe',
-    'user.verification.publicFigure': 'Geprüfte Persönlichkeit des öffentlichen Lebens'
+    'user.verification.publicFigure': 'Geprüfte Persönlichkeit des öffentlichen Lebens',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {story}
+    other {stories}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {universe}
+    other {universes}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {fan fiction}
+    other {fan fictions} 
+  }`,
+    'profile.works': 'Works',
+    // As in creative/literary works
+    'profile.wishlist': 'Wishlist',
+    'profile.storiesBy': 'Stories created by {username}',
+    'profile.universesBy': 'Universes created by {username}',
+    'profile.fanFictionBy': 'Fan Fiction created by {username}'
 };

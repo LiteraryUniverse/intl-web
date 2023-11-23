@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Continue reading',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `སློབ་ཚན་འདི་ {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 ཆུ་ཚོད་ལས་ དུས་པའི་ }
+        other {ཆུ་ཚོད་ # ཆུ་ཚོད་ དང་ }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 སྐར་པའི་}
+        one {1 སྐར་ དང་}
+        other {# སྐར་ དང་}
+    } སྐར་མ་ འདི་ནང་ ཡིག་ཨན།`,
+    'story.estimatedReadingTime.explained': 'ཟིན་བྱོལ་ལུ་ཆེ་ {avgReadingNum, number} སྐར་བཀོད་པའི་བདེན་གྱི་སྐར་ཚད་དུས་པའི་ཆུ་ཚོད་སེམས་ ནང་ཡིག་ཨན་གྱི་བརྡ་གསུང་ལས་ནང་དེ།',
     'discover.search.text': 'Search term',
     'discover.searchStory.title': 'Search for a story',
     'discover.searchStory.description': 'Search for a stories',
@@ -45,15 +45,18 @@ export default {
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
     'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.includesAds': 'ཡན་ལག་དོན་ཚན་བོད་ནང་དབྱེ་བ་ཡིན། ཤར་དེབ་སྣོད་དབྱེ་བ་འདི་ཡོད་པ་འབདཝ་ཨིན།',
+    'discovery.featured.universes': 'མཚན་གྱི་རི་མོའི་འགྲེལ་པའི་སྣ་ཚ།',
+    'discovery.featured.stories': 'མཚན་གྱི་ཐབས་དང་འགྲེལ།',
+    'discovery.story.tableOfContent': 'བརྡ་གསུང་གི་གནས་བཏུས།',
+    'story.status.hiatus': 'ཚེ་སྲོག་དོན།',
+    'story.status.cancelled': 'རེ་སི།',
+    'story.chapter.wasRead': 'རྗེས་ - {readAt, date}',
+    'discovery.moreDetails': 'ཆོས་འབྲེལ་གནས་བཏུས།',
+    'discovery.read': 'རྗེས་',
+    'discovery.chapters.showAll': 'མཆོག་སྣོད་ཆ་ཚང་བཞིན།',
+    'discovery.chapters.showMore': 'མཆོག་སྣོད་ཆ་འདི་ཚང་བཞིན།',
+    'discovery.chaptersTotal': 'སྐུའི་ཆོས་ཚོགས་རིགས་གཞན་འབྱེད་དགོས།',
+    'discovery.readFromStart': 'དཔེ་ཆ་འགྱུར་བའི་ཆོས་གྲགས་སྣོད་བརྗོད་པའི་གནས་དང་བབས་པར་ལིན་ལུ་ཁྱད་རེད།',
+    'discovery.readLatest': 'གཞུང་རེ་བསྐུར་དགོས་འདི་དང་ལས་གནས་སྟེར་རྗེས་འདི་ལོངས་སྒྲར་'
 };

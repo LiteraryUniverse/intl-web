@@ -16,7 +16,7 @@ export default {
         one {1 minute}
         other {# minutes}
     } à lire.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': 'Basé sur une vitesse de lecture moyenne de {avgReadingNum, number} mots par minute.',
     'discover.search.text': 'Terme de recherche',
     'discover.searchStory.title': 'Recherche d\'une histoire',
     'discover.searchStory.description': 'Recherche d\'histoires',
@@ -48,12 +48,15 @@ export default {
     'discover.includesAds': 'Cette œuvre comporte un placement de produit ou inclut d\'autres formes de publicité.',
     'discovery.featured.universes': 'Univers Recommandés',
     'discovery.featured.stories': 'Histoires Recommandées',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.story.tableOfContent': 'Table des matières',
+    'story.status.hiatus': 'En pause',
+    'story.status.cancelled': 'Annulé',
+    'story.chapter.wasRead': 'Lu - {readAt, date}',
+    'discovery.moreDetails': 'Plus de détails',
+    'discovery.read': 'Lire',
+    'discovery.chapters.showAll': 'Afficher tous les chapitres',
+    'discovery.chapters.showMore': 'Afficher plus de chapitres',
+    'discovery.chaptersTotal': 'Nombre total de chapitres dans l\'histoire',
+    'discovery.readFromStart': 'Lire depuis le premier chapitre',
+    'discovery.readLatest': 'Lire le dernier chapitre'
 };

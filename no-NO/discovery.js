@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Continue reading',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Denne historien bør ta {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 time og }
+        other {# timer og }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 minutter}
+        one {1 minutt}
+        other {# minutter}
+    } å lese.`,
+    'story.estimatedReadingTime.explained': 'Basert på en gjennomsnittlig lesehastighet på {avgReadingNum, number} ord per minutt.',
     'discover.search.text': 'Search term',
     'discover.searchStory.title': 'Search for a story',
     'discover.searchStory.description': 'Search for a stories',
@@ -45,15 +45,18 @@ export default {
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
     'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.includesAds': 'Dette verket har produkt plassering eller inneholder annen form for reklame.',
+    'discovery.featured.universes': 'Utvalgte univers',
+    'discovery.featured.stories': 'Utvalgte historier',
+    'discovery.story.tableOfContent': 'Innholdsfortegnelse',
+    'story.status.hiatus': 'På pause',
+    'story.status.cancelled': 'Avlyst',
+    'story.chapter.wasRead': 'Lest - {readAt, date}',
+    'discovery.moreDetails': 'Flere detaljer',
+    'discovery.read': 'Les',
+    'discovery.chapters.showAll': 'Vis alle kapitler',
+    'discovery.chapters.showMore': 'Vis flere kapitler',
+    'discovery.chaptersTotal': 'Totalt antall kapitler i historien',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };

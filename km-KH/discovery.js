@@ -1,59 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
-        =0 {}
-        one {1 hour and }
-        other {# hours and }
-    }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discovery.meta.desc': 'រកឃើញផ្នែកថ្មី និងសង្គមថ្មីៗ។',
+    'discovery.universes.new': 'ជំហានដំណើរការ​ថ្មីម្ចាស់ៗ',
+    'discovery.stories.new': 'រឿងថ្មីៗ',
+    'discovery.stories.standalone.new': 'រឿងថ្មីៗបែកចែក​ដោយឯក្សារាជ្យ',
+    'discovery.stories.updated': 'រឿងដែលបានធ្វើបច្ចុប្បន្នភាពថ្មីៗ',
+    'discovery.continue': 'បន្តការអាន',
+    'discovery.stories.similar.new': 'រឿងថ្មីនៅក្នុងភពតំបន់',
+    'discovery.stories.similar.regular': 'រឿងក្នុងតំបន់',
+    'story.estimatedReadingTime': `ការប្រមូលផ្តតទៅរបស់នរណាស់ត្រូវកាត់ពន្លឺ {hours, plural,
+        =0 {មែន}
+        one {1 ម៉ោង និង }
+        other {# ម៉ោង និង }
+    }នៃពេលវ័យប៉ុណ្ណោះ{minutes, plural,
+        =0 {0 នាទី}
+        one {1 នាទី}
+        other {# នាទី}
+    } ដើម្បីអាន។`,
+    'story.estimatedReadingTime.explained': 'ឆ្នាំត្រូវប្រមូលបញ្ចេញ {avgReadingNum, number} ពាក្យក្នុងមួយនាទី។',
+    'discover.search.text': 'តើអ្នកស្វែងរកអ្វី?',
+    'discover.searchStory.title': 'ស្វែងរករឿងមួយចំនួន',
+    'discover.searchStory.description': 'ស្វែងរករឿងច្រើននឹងរឿង',
+    'discover.searchUniverse.title': 'ស្វែងរកជីវិតមួយចំនួន',
+    'discover.searchUniverse.description': 'ស្វែងរកជីវិតច្រើននឹងច្រើនជីវិត',
+    'discover.search.storyStatus': 'ស្ថានភាគរឿង',
+    'story.status.complete': 'បញ្ចប់',
+    'story.status.inProgress': 'ក្រោយពេលប្រតេជន',
+    'discover.search.universeConnection': 'ការភ្ជាប់រឿងទៅជីវិត',
+    'story.universeRelation.standalone': 'រឿងមួយចំនួន',
+    'story.universeRelation.fanFiction': 'ប្រភេទខ្លួនឯកសារ',
+    'story.universeRelation.universe': 'ដែលជាផ្នែកនៃជីវិត',
+    'discover.search.rating': 'ការវាយតម្លៃអាយុ',
+    'discover.search.license': 'អាជ្ញាធរកាសរដ្ឋ',
+    'discover.search.language': 'ភាសា',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
-    }.`,
+        =0 {គ្មានជីវិតដែលត្រូវលើភាពរបស់អ្នក}
+        one {រឿងមួយទូទៅបានរកឃើញ}
+        other {រឿងបានរកឃើញ}
+    }រឿងបានរកឃើញ។`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
-    }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+        =0 {គ្មានរឿងដែលត្រូវលើភាពរបស់អ្នក}
+        one {រឿងមួយទូទៅបានរកឃើញ}
+        other {រឿងបានរកឃើញ}
+    }រឿងបានរកឃើញ។`,
+    'discover.viewSelection.aria': 'ជម្រើសកែមើល',
+    'discover.searchDisplay.covers': 'បញ្ជីផ្សាំ',
+    'discover.searchDisplay.list': 'បញ្ជីតិច',
+    'discover.includesAds': 'ការងារនេះមានទិន្នន័យផ្លឺផ្លាតកວັນសម្រាប់សង្គមឬរបាយការណ៍ផ្សេងទៀត។',
+    'discovery.featured.universes': 'ជីវឌីហ្សាពិន្ទុពិសេស',
+    'discovery.featured.stories': 'រឿងព្រឹត្តិការណ៍ពេញនិយម',
+    'discovery.story.tableOfContent': 'មាតិការំណរភាព',
+    'story.status.hiatus': 'ត្រូវបានសម្លាប់អសកម្ម',
+    'story.status.cancelled': 'បានលុប',
+    'story.chapter.wasRead': 'អាន - {readAt, date}',
+    'discovery.moreDetails': 'លំអិតបន្ថែម',
+    'discovery.read': 'អាន',
+    'discovery.chapters.showAll': 'បង្ហាញបញ្ជីធនាគារទាំងអស់',
+    'discovery.chapters.showMore': 'បង្ហាញបញ្ជីច្រើនទៀត',
+    'discovery.chaptersTotal': 'ចំនួនទសភាផ្នែកប៉ុណ្ណោះក្នុងរឿង',
+    'discovery.readFromStart': 'អានពីជំពូកដំបូង',
+    'discovery.readLatest': 'អានចំណាត់ថ្នាក់ថ្មីបំផុត'
 };

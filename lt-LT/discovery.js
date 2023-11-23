@@ -1,59 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Atraskite naujas istorijas ir visatus.',
+    'discovery.universes.new': 'Atsirandančios visatos',
+    'discovery.stories.new': 'Naujos istorijos',
+    'discovery.stories.standalone.new': 'Naujos atskiros istorijos',
+    'discovery.stories.updated': 'Neseniai atnaujintos istorijos',
+    'discovery.continue': 'Tęskite skaitymą',
+    'discovery.stories.similar.new': 'Naujos istorijos kaimynystėje',
+    'discovery.stories.similar.regular': 'Istorijos kaimynystėje',
+    'story.estimatedReadingTime': `Tai istorija turėtų užtrukti {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 valandą ir }
+        other {# valandos ir }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
+        =0 {0 minutės}
+        one {1 minutė}
         other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    } skaityti.`,
+    'story.estimatedReadingTime.explained': 'Remiantis vidutine skaitymo greičiu {avgReadingNum, number} žodžių per minutę.',
+    'discover.search.text': 'Paieškos terminas',
+    'discover.searchStory.title': 'Ieškoti istorijos',
+    'discover.searchStory.description': 'Ieškoti istorijų',
+    'discover.searchUniverse.title': 'Ieškoti visatos',
+    'discover.searchUniverse.description': 'Ieškoti visatų',
+    'discover.search.storyStatus': 'Istorijos pažangos būsena',
+    'story.status.complete': 'Užbaigta',
+    'story.status.inProgress': 'Vyksta',
+    'discover.search.universeConnection': 'Istorijos ryšys su visata',
+    'story.universeRelation.standalone': 'Atskira istorija',
+    'story.universeRelation.fanFiction': 'Fanų kūrinys',
+    'story.universeRelation.universe': 'Dalis visatos',
+    'discover.search.rating': 'Amžiaus reitingas',
+    'discover.search.license': 'Autorinės teisės licencija',
+    'discover.search.language': 'Kalba',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Jūsų parametrams neatitinka jokie visatos}
+        one {Surasta 1 visata}
+        other {Surasta # visatos}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Jūsų parametrams neatitinka jokie istorijos}
+        one {Surasta 1 istorija}
+        other {Surasta # istorijos}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': 'Peržiūrėti pasirinkimą',
+    'discover.searchDisplay.covers': 'Viršelių sąrašas',
+    'discover.searchDisplay.list': 'Sutrumpintas sąrašas',
+    'discover.includesAds': 'Šiame darbe yra produktų paskelbimas arba jame yra kita forma reklamos.',
+    'discovery.featured.universes': 'Pateikti universai',
+    'discovery.featured.stories': 'Rekomenduojamos istorijos',
+    'discovery.story.tableOfContent': 'Turinio sąrašas',
+    'story.status.hiatus': 'Pristabdyta',
+    'story.status.cancelled': 'Atšaukta',
+    'story.chapter.wasRead': 'Perskaityta - {readAt, date}',
+    'discovery.moreDetails': 'Daugiau informacijos',
+    'discovery.read': 'Skaityti',
+    'discovery.chapters.showAll': 'Rodyti visus skyrius',
+    'discovery.chapters.showMore': 'Rodyti daugiau skyrių',
+    'discovery.chaptersTotal': 'Istorijos skyrių skaičius',
+    'discovery.readFromStart': 'Skaityti nuo pirmo skyriaus',
+    'discovery.readLatest': 'Skaityti naujausią skyrių'
 };

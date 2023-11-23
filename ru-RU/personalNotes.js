@@ -14,5 +14,13 @@ export default {
   'personalNotes.goToEncEntry': 'Перейти к записи',
   'personalNotes.closeDropdown': 'Закрыть раскрывающийся список',
   'personalNotes.chapterName': 'Глава {sequence} - {title}',
-  'personalNotes.objectPersonalNotes': 'Личная заметка {object}'
+  'personalNotes.objectPersonalNotes': 'Личная заметка {object}',
+  'personalNotes.searchResults': 'Результаты поиска',
+  'personalNotes.type.story': 'История',
+  'personalNotes.type.universe': 'Вселенная',
+  'personalNotes.type.chapter': 'Глава',
+  'personalNotes.type.encEntry': 'Запись энциклопедии',
+  'personalNotes.type.revTextBlock': 'Текст блока редактирования',
+  'personalNotes.chapter': 'Глава',
+  'personalNotes.recentSearches': 'Недавние поиски:'
 };

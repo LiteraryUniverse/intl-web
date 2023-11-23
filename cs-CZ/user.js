@@ -30,5 +30,29 @@ export default {
     'user.verification.publishedAuthor': 'Tento autor byl publikován tradičním způsobem',
     'user.verification.luAuthor': 'Ověřený autor z Literary Universe',
     'user.verification.luEmployee': 'Zaměstnanec Literary Universe',
-    'user.verification.publicFigure': 'Ověřená veřejná osoba'
+    'user.verification.publicFigure': 'Ověřená veřejná osoba',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {příběh}
+    few {příběhy}
+    many {příběhů}
+    other {příběhů}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {vesmír}
+    few {vesmíry}
+    many {vesmírů}
+    other {vesmírů}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {fan fikce}
+    few {fan fikce}
+    many {fan fikcí}
+    other {fan fikcí} 
+  }`,
+    'profile.works': 'Děl',
+    // As in creative/literary works
+    'profile.wishlist': 'Seznam přání',
+    'profile.storiesBy': 'Příběhy vytvořené {username}',
+    'profile.universesBy': 'Vesmíry vytvořené {username}',
+    'profile.fanFictionBy': 'Fan fikce vytvořená {username}'
 };

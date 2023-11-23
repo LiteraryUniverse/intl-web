@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'Opdag nye historier og universer.',
+    'discovery.universes.new': 'Opstigende universer',
+    'discovery.stories.new': 'Nye historier',
+    'discovery.stories.standalone.new': 'Nye fristående historier',
+    'discovery.stories.updated': 'Nyligt opdaterede historier',
+    'discovery.continue': 'Fortsæt med at læse',
+    'discovery.stories.similar.new': 'Nye historier i nabolaget',
+    'discovery.stories.similar.regular': 'Historier i nabolaget',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
@@ -17,43 +17,46 @@ export default {
         other {# minutes}
     } to read.`,
     'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
+    'discover.search.text': 'Søgeudtryk',
+    'discover.searchStory.title': 'Søg efter en historie',
+    'discover.searchStory.description': 'Søg efter historier',
+    'discover.searchUniverse.title': 'Søg efter et univers',
+    'discover.searchUniverse.description': 'Søg efter universer',
+    'discover.search.storyStatus': 'Historie fremskridt status',
+    'story.status.complete': 'Fuldført',
+    'story.status.inProgress': 'I gang',
+    'discover.search.universeConnection': 'Forbindelse mellem historie og univers',
+    'story.universeRelation.standalone': 'Fristående historie',
     'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.universeRelation.universe': 'En del af et univers',
+    'discover.search.rating': 'Aldersvurdering',
+    'discover.search.license': 'Ophavsret licens',
+    'discover.search.language': 'Sprog',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Ingen universer matcher dine parametre}
+        one {1 univers fundet}
+        other {# universer fundet}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Ingen historier matcher dine parametre}
+        one {1 historie fundet}
+        other {# historier fundet}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
+    'discover.viewSelection.aria': 'Visning af valg',
+    'discover.searchDisplay.covers': 'Omslag liste',
+    'discover.searchDisplay.list': 'Kompakt liste',
+    'discover.includesAds': 'Dette værk indeholder produktplacering eller andre former for reklamer.',
+    'discovery.featured.universes': 'Udvalgte universer',
+    'discovery.featured.stories': 'Udvalgte historier',
+    'discovery.story.tableOfContent': 'Indholdsfortegnelse',
+    'story.status.hiatus': 'I hiatus',
+    'story.status.cancelled': 'Annulleret',
     'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.moreDetails': 'Yderligere detaljer',
+    'discovery.read': 'Læs',
+    'discovery.chapters.showAll': 'Vis alle kapitler',
+    'discovery.chapters.showMore': 'Vis flere kapitler',
+    'discovery.chaptersTotal': 'Samlet antal kapitler i historien',
+    'discovery.readFromStart': 'Læs fra første kapitel',
+    'discovery.readLatest': 'Læs det seneste kapitel'
 };

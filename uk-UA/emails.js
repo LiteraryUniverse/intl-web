@@ -3,45 +3,45 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Запрошення приєднатися до спільноти Літературного Всесвіту для {username}',
+    'email.enrollAccount.message': `Вітаємо, {username}\n\n
+     Запрошуємо вас до Літературного Всесвіту! Ми заздалегідь підготували для вас особистий кабінет, де ви зможете отримати доступ до всіх функцій Літературного Всесвіту! Приєднуйтеся до нас та допоможіть створити наступне покоління майстерних письменників!
+     Щоб активувати обліковий запис, просто перейдіть за посиланням нижче:\n\n{url}`,
+    'email.resetPassword.subject': 'Скидання паролю до Літературного Всесвіту',
+    'email.resetPassword.message': `Вітаємо, {username}!\n\n Ми отримали запит на зміну паролю до вашого облікового запису.
+        Будь ласка, перейдіть за посиланням нижче, щоб змінити пароль:\n\n{url}`,
+    'email.verifyEmail.subject': 'Верифікація електронної пошти для Літературного Всесвіту',
+    'email.verifyEmail.message': 'Привіт, {username}!\n\n Будь ласка, підтвердьте свою електронну адресу, перейшовши за посиланням нижче:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Вітаємо, {username}',
+    'email.welcome': 'Ласкаво просимо до Літературного Всесвіту!',
+    'email.signature': 'З повагою, <br />Команда Літературного Всесвіту',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Вітаємо на борту',
+    'email.enrollAccount.messageHtml': 'Запрошуємо вас до Літературного Всесвіту! Ми заздалегідь підготували для вас особистий кабінет, де ви зможете отримати доступ до всіх функцій Літературного Всесвіту! Приєднуйтеся до нас та допоможіть створити наступне покоління майстерних письменників!',
+    'email.enrollAccount.button': 'Доступ до свого облікового запису',
+    'email.enrollAccount.signature': 'З нетерпінням чекаємо на вас,<br />команда Літературного Всесвіту',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Скинути пароль',
+    'email.resetPassword.messageHtml': 'Ми отримали запит на зміну паролю до вашого облікового запису, будь ласка, натисніть на кнопку нижче, щоб продовжити. Якщо ви не робили такого запиту, ви можете проігнорувати цей лист та рекомендуємо переглянути ваші налаштування безпеки.',
+    'email.resetPassword.button': 'Змінити пароль',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Ми раді, що ви на борту! Будь ласка, натисніть кнопку нижче, щоб перевірити цю електронну адресу.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Ми раді бачити вас на борту! Будь ласка, натисніть кнопку нижче, щоб підтвердити цю адресу електронної пошти.',
+    'email.verifyEmail.button': 'Підтвердіть цю адресу електронної пошти',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Ваш обліковий запис оновлено',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Ми оновили ваш обліковий запис до звання {plan, select,
+    explorer {Дослідник}
+    adventurer {Шукач пригод}
+    storyteller {Оповідач}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } на наступні {days} днів.\n\nХай щастить,\nкоманда Літературного Всесвіту`,
+    'email.adminUpgrade.messageHtml': `Ми оновили ваш обліковий запис до звання {plan, select,
+    explorer {Дослідник}
+    adventurer {Шукач пригод}
+    storyteller {Оповідач}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'Перевірка електронної пошти',
-    'email.verifying': 'Перевірка електронної пошти. Це займе лише мить...',
-    'email.verified': 'Відмінна новина! Ваша електронна пошта була перевірена!'
+  } на наступні {days} днів. Хай щастить!`,
+    'email.verification': 'Верифікація електронної пошти',
+    'email.verifying': 'Верифікація електронної пошти. Це займе всього хвилину...',
+    'email.verified': 'Чудові новини! Вашу електронну пошту підтверджено!'
 };    /* eslint-enable max-len */

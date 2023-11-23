@@ -1,59 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Yeni hikayeler ve evrenler keşfedin.',
+    'discovery.universes.new': 'Yeni evrenler',
+    'discovery.stories.new': 'Yeni hikayeler',
+    'discovery.stories.standalone.new': 'Yeni bağımsız hikayeler',
+    'discovery.stories.updated': 'Yakın zamanda güncellenen hikayeler',
+    'discovery.continue': 'Okumaya devam et',
+    'discovery.stories.similar.new': 'Mahalledeki yeni hikayeler',
+    'discovery.stories.similar.regular': 'Mahalledeki hikayeler',
+    'story.estimatedReadingTime': `Bu hikaye {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 saat ve }
+        other {saat ve }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 dakika}
+        one {1 dakika}
+        other {dakika}
+    } okumak için.`,
+    'story.estimatedReadingTime.explained': 'Ortalama olarak dakikada {avgReadingNum, number} kelime okuma hızına dayanılarak.',
+    'discover.search.text': 'Arama terimi',
+    'discover.searchStory.title': 'Bir hikaye arayın',
+    'discover.searchStory.description': 'Bir hikaye arayın',
+    'discover.searchUniverse.title': 'Bir evren arayın',
+    'discover.searchUniverse.description': 'Bir evren arayın',
+    'discover.search.storyStatus': 'Hikaye ilerleme durumu',
+    'story.status.complete': 'Tamamlandı',
+    'story.status.inProgress': 'Devam ediyor',
+    'discover.search.universeConnection': 'Hikayenin evrene bağlantısı',
+    'story.universeRelation.standalone': 'Bağımsız hikaye',
+    'story.universeRelation.fanFiction': 'Hayran Hikayesi',
+    'story.universeRelation.universe': 'Bir evrenin parçası',
+    'discover.search.rating': 'Yaş sınırlaması',
+    'discover.search.license': 'Telif hakkı lisansı',
+    'discover.search.language': 'Dil',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Parametrelerinizle eşleşen evren bulunamadı}
+        one {1 evren bulundu}
+        other {# evren bulundu}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Parametrelerinizle eşleşen hikaye bulunamadı}
+        one {1 hikaye bulundu}
+        other {# hikaye bulundu}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': 'Görüntü seçimi',
+    'discover.searchDisplay.covers': 'Kapaklar listesi',
+    'discover.searchDisplay.list': 'Kompakt liste',
+    'discover.includesAds': 'Bu çalışma ürün yerleştirme veya diğer reklam türlerini içerir.',
+    'discovery.featured.universes': 'Öne çıkan evrenler',
+    'discovery.featured.stories': 'Öne çıkan hikayeler',
+    'discovery.story.tableOfContent': 'İçindekiler',
+    'story.status.hiatus': 'Arası',
+    'story.status.cancelled': 'İptal Edildi',
+    'story.chapter.wasRead': 'Okundu - {readAt, date}',
+    'discovery.moreDetails': 'Daha fazla detay',
+    'discovery.read': 'Oku',
+    'discovery.chapters.showAll': 'Tüm bölümleri göster',
+    'discovery.chapters.showMore': 'Daha fazla bölüm göster',
+    'discovery.chaptersTotal': 'Hikayenin toplam bölüm sayısı',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };

@@ -14,5 +14,13 @@ export default {
   'personalNotes.goToEncEntry': 'Go to entry',
   'personalNotes.closeDropdown': 'Close the dropdown',
   'personalNotes.chapterName': 'Chapter {sequence} - {title}',
-  'personalNotes.objectPersonalNotes': '{object} personal note'
+  'personalNotes.objectPersonalNotes': '{object} personal note',
+  'personalNotes.searchResults': 'Search Results',
+  'personalNotes.type.story': 'Story',
+  'personalNotes.type.universe': 'Universe',
+  'personalNotes.type.chapter': 'Chapter',
+  'personalNotes.type.encEntry': 'Encyclopedia Entry',
+  'personalNotes.type.revTextBlock': 'Revision Text Block',
+  'personalNotes.chapter': 'Chapter',
+  'personalNotes.recentSearches': 'Recent Searches:'
 };

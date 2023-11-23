@@ -60,6 +60,9 @@ export default {
     'story.chapter.wasRead': 'Prečítané - {readAt, date}',
     'discovery.moreDetails': 'Viac detailov',
     'discovery.read': 'Prečítajte si',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.chapters.showAll': 'Zobraziť všetky kapitoly',
+    'discovery.chapters.showMore': 'Zobraziť viac kapitol',
+    'discovery.chaptersTotal': 'Celkový počet kapitol v príbehu',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };

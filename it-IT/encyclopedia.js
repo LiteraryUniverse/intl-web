@@ -146,5 +146,8 @@ export default {
     other {{max, number}}
   } disponibili.`,
     'enc.entries.limitReached': 'Hai raggiunto il massimo di voci consentito nell\'enciclopedia per il tuo abbonamento attuale.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
+    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'encyclopedia.wip.abbreviation': 'WIP',
+    'encyclopedia.wip.full': 'Work in Progress'
 };

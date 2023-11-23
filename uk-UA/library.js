@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'Додати до книгозбірні',
+    'library.remove': 'Вилучити з книгозбірні',
+    'library.bought': 'Придбані історії',
+    'library.stories': 'Відстежувані історії',
+    'library.universes': 'Відстежувані всесвіти',
+    'bookmark.continueReading': 'Продовжити читання',
+    'bookmark.statusSummary': 'Ви прочитали {readPercent, number, ::percent} історії.'
 };

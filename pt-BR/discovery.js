@@ -16,7 +16,7 @@ export default {
         one {1 minuto}
         other {# minutos}
     }.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': 'Baseado em uma velocidade média de leitura de {avgReadingNum, number} palavras por minuto.',
     'discover.search.text': 'Pesquisar termo',
     'discover.searchStory.title': 'Busca de uma história',
     'discover.searchStory.description': 'Busca de uma história',
@@ -46,14 +46,17 @@ export default {
     'discover.searchDisplay.covers': 'Listagem de coberturas',
     'discover.searchDisplay.list': 'Lista compacta',
     'discover.includesAds': 'Este trabalho tem colocação de produtos ou inclui outras formas de anúncios.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.featured.universes': 'Universos em destaque',
+    'discovery.featured.stories': 'Histórias em destaque',
+    'discovery.story.tableOfContent': 'Sumário',
+    'story.status.hiatus': 'Em hiato',
+    'story.status.cancelled': 'Cancelado',
+    'story.chapter.wasRead': 'Lido - {readAt, date}',
+    'discovery.moreDetails': 'Mais detalhes',
+    'discovery.read': 'Lido',
+    'discovery.chapters.showAll': 'Mostrar todos os capítulos',
+    'discovery.chapters.showMore': 'Mostrar mais capítulos',
+    'discovery.chaptersTotal': 'Número total de capítulos da história',
+    'discovery.readFromStart': 'Ler desde o primeiro capítulo',
+    'discovery.readLatest': 'Ler o último capítulo'
 };

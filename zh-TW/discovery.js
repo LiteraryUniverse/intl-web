@@ -1,59 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': '探索新故事和宇宙。',
+    'discovery.universes.new': '新興宇宙',
+    'discovery.stories.new': '新故事',
+    'discovery.stories.standalone.new': '新獨立故事',
+    'discovery.stories.updated': '最近更新的故事',
+    'discovery.continue': '繼續閱讀',
+    'discovery.stories.similar.new': '附近的新故事',
+    'discovery.stories.similar.regular': '附近的故事',
+    'story.estimatedReadingTime': `這個故事應該需要 {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1小時和 }
+        other {#小時和 }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0分鐘}
+        one {1分鐘}
+        other {#分鐘}
+    } 閱讀。`,
+    'story.estimatedReadingTime.explained': '根據每分鐘 {avgReadingNum, number} 字的平均閱讀速度。',
+    'discover.search.text': '搜尋詞',
+    'discover.searchStory.title': '搜尋故事',
+    'discover.searchStory.description': '搜尋故事',
+    'discover.searchUniverse.title': '搜尋宇宙',
+    'discover.searchUniverse.description': '搜尋宇宙',
+    'discover.search.storyStatus': '故事進度狀態',
+    'story.status.complete': '已完成',
+    'story.status.inProgress': '進行中',
+    'discover.search.universeConnection': '故事與宇宙的連接',
+    'story.universeRelation.standalone': '獨立故事',
+    'story.universeRelation.fanFiction': '粉絲創作',
+    'story.universeRelation.universe': '宇宙的一部分',
+    'discover.search.rating': '年齡分級',
+    'discover.search.license': '版權許可',
+    'discover.search.language': '語言',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {沒有符合您條件的宇宙}
+        one {找到1個宇宙}
+        other {找到#個宇宙}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {沒有符合您條件的故事}
+        one {找到1個故事}
+        other {找到#個故事}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': '檢視選擇',
+    'discover.searchDisplay.covers': '封面列表',
+    'discover.searchDisplay.list': '簡潔列表',
+    'discover.includesAds': '這個作品有產品放置或包含其他形式的廣告。',
+    'discovery.featured.universes': '精選宇宙',
+    'discovery.featured.stories': '精選故事',
+    'discovery.story.tableOfContent': '目錄',
+    'story.status.hiatus': '暫停中',
+    'story.status.cancelled': '已取消',
+    'story.chapter.wasRead': '已讀 - {readAt, date}',
+    'discovery.moreDetails': '更多詳細資訊',
+    'discovery.read': '閱讀',
+    'discovery.chapters.showAll': '顯示所有章節',
+    'discovery.chapters.showMore': '顯示更多章節',
+    'discovery.chaptersTotal': '故事中的總章節數',
+    'discovery.readFromStart': '從第一章開始閱讀',
+    'discovery.readLatest': '閱讀最新章節'
 };

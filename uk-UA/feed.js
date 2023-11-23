@@ -1,8 +1,8 @@
 export default {
-    'feed.name': 'Stream',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Стрічка',
+    'feed.post.new': 'Нова публікація',
+    'feed.post.like': 'Вподобати публікацію',
+    'feed.post.unlike': 'Прибрати вподобайку',
+    'feed.post.send': 'Опублікувати',
+    'feed.empty': 'Жодних публікацій у стрічці.'
 };

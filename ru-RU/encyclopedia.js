@@ -151,5 +151,8 @@ export default {
     other {{max, number}}
   }.`,
     'enc.entries.limitReached': 'Вы достигли максимально допустимого количества записей в энциклопедии для вашей подписки.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
+    'enc.menuControls.ariaDesc': 'Клавиши энциклопедии',
+    'encyclopedia.pronunciation.title': 'Произношение',
+    'encyclopedia.wip.abbreviation': 'РЗБ',
+    'encyclopedia.wip.full': 'В разработке'
 };

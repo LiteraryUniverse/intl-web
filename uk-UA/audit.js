@@ -1,6 +1,6 @@
 export default {
-    'auditLog.header.date': 'Date',
-    'auditLog.header.action': 'What',
-    'auditLog.header.group': 'Group',
-    'auditLog.header.user': 'Who'
+    'auditLog.header.date': 'Дата',
+    'auditLog.header.action': 'Що',
+    'auditLog.header.group': 'Група',
+    'auditLog.header.user': 'Хто'
 };

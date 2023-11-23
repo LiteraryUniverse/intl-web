@@ -7,8 +7,8 @@ export default {
     'pm.send.message': '메시지 보내기',
     'pm.messages.own': '메시지',
     'pm.conversations.none': '현재 누구와도 대화하고 있지 않습니다.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
+    'pm.to': '받는 사람:',
+    'pm.with': '대화 상대:',
     'pm.send': '보내기',
     'pm.conversations.unreadCount': `You have {count, plural,
     zero {no unread conversations}

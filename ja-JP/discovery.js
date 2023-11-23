@@ -16,7 +16,7 @@ export default {
         one {1分}
         other {#分}
     }で読めると思います`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': '平均読取速度、毎分{avgReadingNum, number}文字に基づいて計算されています。',
     'discover.search.text': '語句の検索',
     'discover.searchStory.title': '物語を探す',
     'discover.searchStory.description': '物語を探す',
@@ -46,12 +46,15 @@ export default {
     'discover.includesAds': 'この作品にはプロダクトプレイスメントなどの広告が含まれています。',
     'discovery.featured.universes': '注目の宇宙関連物語',
     'discovery.featured.stories': '注目の物語',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discovery.story.tableOfContent': '目次',
+    'story.status.hiatus': '休止中',
+    'story.status.cancelled': 'キャンセル',
+    'story.chapter.wasRead': '読む - {readAt, date}',
+    'discovery.moreDetails': '詳細を表示',
+    'discovery.read': '読む',
+    'discovery.chapters.showAll': 'すべての章を表示',
+    'discovery.chapters.showMore': 'もっと多くの章を表示',
+    'discovery.chaptersTotal': '物語の総章数',
+    'discovery.readFromStart': '最初の章から読んでください',
+    'discovery.readLatest': '最新の章を読んでください'
 };

@@ -1,59 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'Ontdek nuwe stories en universums.',
+    'discovery.universes.new': 'Opkomende universums',
+    'discovery.stories.new': 'Nuwe stories',
+    'discovery.stories.standalone.new': 'Nuwe selfstandige stories',
+    'discovery.stories.updated': 'Onlangs opgedateerde stories',
+    'discovery.continue': 'Bly lees',
+    'discovery.stories.similar.new': 'Nuwe stories in die buurt',
+    'discovery.stories.similar.regular': 'Stories in die buurt',
+    'story.estimatedReadingTime': `Hierdie storie behoort {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 uur en }
+        other {# ure en }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 minute}
+        one {1 minuut}
+        other {# minute}
+    } om te lees.`,
+    'story.estimatedReadingTime.explained': 'Gebaseer op \'n gemiddelde lees spoed van {avgReadingNum, number} woorde per minuut.',
+    'discover.search.text': 'Soek term',
+    'discover.searchStory.title': 'Soek vir \'n story',
+    'discover.searchStory.description': 'Soek vir stories',
+    'discover.searchUniverse.title': 'Soek vir \'n universum',
+    'discover.searchUniverse.description': 'Soek vir universums',
+    'discover.search.storyStatus': 'Story vordering status',
+    'story.status.complete': 'Voltooid',
+    'story.status.inProgress': 'In-proses',
+    'discover.search.universeConnection': 'Verbinding van story na universum',
+    'story.universeRelation.standalone': 'Selfstandige story',
+    'story.universeRelation.fanFiction': 'Fan Fiksie',
+    'story.universeRelation.universe': 'Deel van \'n universum',
+    'discover.search.rating': 'Ouderdomsgradering',
+    'discover.search.license': 'Kopiereg lisensie',
+    'discover.search.language': 'Taal',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Geen universums voldoen aan jou parameters}
+        one {1 universum gevind}
+        other {# universums gevind}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Geen stories voldoen aan jou parameters}
+        one {1 story gevind}
+        other {# stories gevind}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': 'Beskouingskeuse',
+    'discover.searchDisplay.covers': 'Omslae lys',
+    'discover.searchDisplay.list': 'Kompakte lys',
+    'discover.includesAds': 'Hierdie werk bevat produk plaasings of ander vorme van advertensies.',
+    'discovery.featured.universes': 'Uitgeligte heelalle',
+    'discovery.featured.stories': 'Uitgeligte stories',
+    'discovery.story.tableOfContent': 'Inhoudsopgawe',
+    'story.status.hiatus': 'Op hiatus',
+    'story.status.cancelled': 'Gekanselleer',
+    'story.chapter.wasRead': 'Gelees - {readAt, date}',
+    'discovery.moreDetails': 'Meer besonderhede',
+    'discovery.read': 'Lees',
+    'discovery.chapters.showAll': 'Wys alle hoofstukke',
+    'discovery.chapters.showMore': 'Wys meer hoofstukke',
+    'discovery.chaptersTotal': 'Totale aantal hoofstukke in die storie',
+    'discovery.readFromStart': 'Lees vanaf die eerste hoofstuk',
+    'discovery.readLatest': 'Lees die nuutste hoofstuk'
 };

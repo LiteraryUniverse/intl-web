@@ -1,59 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'নতুন গল্প এবং বিশ্ব আবিষ্কার করুন।',
+    'discovery.universes.new': 'উদ্ভাবিত বিশ্ব',
+    'discovery.stories.new': 'নতুন গল্প',
+    'discovery.stories.standalone.new': 'নতুন স্ট্যান্ডলোন গল্প',
+    'discovery.stories.updated': 'সাম্প্রতিকতার সাথে আপডেট হওয়া গল্পগুলি',
+    'discovery.continue': 'পড়াশোনা চালিয়ে যান',
+    'discovery.stories.similar.new': 'সাম্প্রতিকতার সমান গল্পগুলি এলাকায়',
+    'discovery.stories.similar.regular': 'গল্পসমূহ এলাকায়',
+    'story.estimatedReadingTime': `এই গল্পটি পড়ার জন্য প্রাকশ্যে {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 ঘণ্টা নেবে এবং }
+        other {# ঘন্টা আপেক্ষিকভাবে এবং }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 মিনিট এবং}
+        one {1 মিনিট এবং}
+        other {# মিনিট এবং}
+    } পড়া হবে।`,
+    'story.estimatedReadingTime.explained': 'প্রতি মিনিটে {avgReadingNum, number} শব্দ পড়ার গড়মাত্রায় ভিত্তি করে।',
+    'discover.search.text': 'অনুসন্ধানের শব্দ',
+    'discover.searchStory.title': 'গল্প অনুসন্ধান করুন',
+    'discover.searchStory.description': 'গল্প অনুসন্ধান করুন',
+    'discover.searchUniverse.title': 'বিশ্ব অনুসন্ধান করুন',
+    'discover.searchUniverse.description': 'বিশ্ব অনুসন্ধান করুন',
+    'discover.search.storyStatus': 'গল্পের অগ্রগতির স্থিতি',
+    'story.status.complete': 'সম্পূর্ণ',
+    'story.status.inProgress': 'অবধির',
+    'discover.search.universeConnection': 'গল্পের ইউনিভার্সের সংযোগ',
+    'story.universeRelation.standalone': 'স্থানাপন্ন গল্প',
+    'story.universeRelation.fanFiction': 'ফ্যান ফিকশন',
+    'story.universeRelation.universe': 'একটি ইউনিভার্সের অংশ',
+    'discover.search.rating': 'বয়স রেটিং',
+    'discover.search.license': 'কপিরাইট লাইসেন্স',
+    'discover.search.language': 'ভাষা',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {আপনার প্যারামিটারগুলির সাথে কোনও বিশ্বগুলি মেলে না}
+        one {1 টি বিশ্ব পাওয়া গেছে}
+        other {# টি বিশ্ব পাওয়া গেছে}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {আপনার প্যারামিটারগুলির সাথে কোনও গল্পগুলি মেলে না}
+        one {1 টি গল্প পাওয়া গেছে}
+        other {# টি গল্প পাওয়া গেছে}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': 'ভিউ নির্বাচন',
+    'discover.searchDisplay.covers': 'কাভার তালিকা',
+    'discover.searchDisplay.list': 'সংক্ষিপ্ত তালিকা',
+    'discover.includesAds': 'এই কাজটিতে পণ্য প্রকাশ বা অন্য কোনও প্রকার বিজ্ঞাপন থাকে।',
+    'discovery.featured.universes': 'বৈশিষ্ট্যযুক্ত বিশ্বসমূহ',
+    'discovery.featured.stories': 'বৈশিষ্ট্যযুক্ত গল্পসমূহ',
+    'discovery.story.tableOfContent': 'সূচীপত্র',
+    'story.status.hiatus': 'বিলম্বিত',
+    'story.status.cancelled': 'বাতিল করা হয়েছে',
+    'story.chapter.wasRead': 'পড়া হয়েছে - {readAt, date}',
+    'discovery.moreDetails': 'আরও বিশদসম্পন্ন',
+    'discovery.read': 'পড়ুন',
+    'discovery.chapters.showAll': 'সমস্ত অধ্যায় দেখান',
+    'discovery.chapters.showMore': 'আরও অধ্যায় দেখান',
+    'discovery.chaptersTotal': 'গল্পের মোট সংখ্যা পর্যালোচনা করুন',
+    'discovery.readFromStart': 'প্ৰথম অধ্যায়ৰ পৰা পঢ়ক',
+    'discovery.readLatest': 'সাম্প্ৰতিক অধ্যায় পৰা পঢ়ক'
 };

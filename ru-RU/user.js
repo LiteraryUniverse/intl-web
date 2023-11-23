@@ -31,5 +31,29 @@ export default {
     'user.verification.publishedAuthor': 'Этот автор публикуется традиционным способом',
     'user.verification.luAuthor': 'Известный писатель Literary Universe',
     'user.verification.luEmployee': 'Сотрудник Literary Universe',
-    'user.verification.publicFigure': 'Подтверждённая общественная фигура'
+    'user.verification.publicFigure': 'Подтверждённая общественная фигура',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {история}
+    few {истории}
+    many {историй}
+    other {историй}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {вселенная}
+    few {вселенные}
+    many {вселенных}
+    other {вселенных}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {фанфик}
+    few {фанфика}
+    many {фанфиков}
+    other {фанфиков} 
+  }`,
+    'profile.works': 'Произведения',
+    // As in creative/literary works
+    'profile.wishlist': 'Список желаемого',
+    'profile.storiesBy': 'Истории, созданные {username}',
+    'profile.universesBy': 'Вселенные, созданные {username}',
+    'profile.fanFictionBy': 'Фанфики, созданные {username}'
 };

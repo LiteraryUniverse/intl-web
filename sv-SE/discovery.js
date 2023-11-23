@@ -5,55 +5,58 @@ export default {
     'discovery.stories.standalone.new': 'Nya fristående berättelser',
     'discovery.stories.updated': 'Nyligen uppdaterade berättelser',
     'discovery.continue': 'Fortsätt läsa',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.stories.similar.new': 'Nya berättelser i grannskapet',
+    'discovery.stories.similar.regular': 'Berättelser i grannskapet',
+    'story.estimatedReadingTime': `Denna berättelse bör ta {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 timme och }
+        other {# timmar och }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
+        =0 {0 minuter}
+        one {1 minut}
+        other {# minuter}
+    } att läsa.`,
+    'story.estimatedReadingTime.explained': 'Baserat på en genomsnittlig läshastighet på {avgReadingNum, number} ord per minut.',
+    'discover.search.text': 'Sökterm',
+    'discover.searchStory.title': 'Sök efter en berättelse',
+    'discover.searchStory.description': 'Sök efter berättelser',
+    'discover.searchUniverse.title': 'Sök efter ett universum',
+    'discover.searchUniverse.description': 'Sök efter universum',
+    'discover.search.storyStatus': 'Berättelsens framskridande',
+    'story.status.complete': 'Komplett',
+    'story.status.inProgress': 'Pågående',
+    'discover.search.universeConnection': 'Koppling av berättelse till universum',
     'story.universeRelation.standalone': 'Fristående berättelse',
     'story.universeRelation.fanFiction': 'Fanfiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
+    'story.universeRelation.universe': 'Del av ett universum',
+    'discover.search.rating': 'Åldersgräns',
+    'discover.search.license': 'Upphovsrättslicens',
     'discover.search.language': 'Språk',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Inga universum matchar dina parametrar}
+        one {1 universum hittat}
+        other {# universum hittade}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Inga berättelser matchar dina parametrar}
+        one {1 berättelse hittad}
+        other {# berättelser hittade}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': 'Visa urval',
+    'discover.searchDisplay.covers': 'Omslagförteckning',
+    'discover.searchDisplay.list': 'Kompakt lista',
+    'discover.includesAds': 'Detta verk innehåller produktplacering eller andra former av reklam.',
+    'discovery.featured.universes': 'Utvalda universum',
+    'discovery.featured.stories': 'Utvalda berättelser',
+    'discovery.story.tableOfContent': 'Innehållsförteckning',
+    'story.status.hiatus': 'På paus',
+    'story.status.cancelled': 'Inställd',
+    'story.chapter.wasRead': 'Läst - {readAt, date}',
+    'discovery.moreDetails': 'Mer information',
+    'discovery.read': 'Läs',
+    'discovery.chapters.showAll': 'Visa alla kapitel',
+    'discovery.chapters.showMore': 'Visa fler kapitel',
+    'discovery.chaptersTotal': 'Totalt antal kapitel i berättelsen',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };

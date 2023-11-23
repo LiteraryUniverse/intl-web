@@ -276,5 +276,10 @@ export default {
     'workshop.statusChangeEmail.hiatusWhatFollows': 'El estado se cambiará automáticamente si publicas un nuevo capítulo. Si no publicas un capítulo en los próximos 6 meses marcaremos automáticamente la historia como cancelada.',
     'workshop.statusChangeEmail.cancellationIntro': 'El estado de tu historia ha sido cambiado automáticamente a cancelada.',
     'workshop.statusChangeEmail.cancellationWhy': 'Esto ha ocurrido debido a que no has publicado ningún capítulo nuevo desde que se marcó como en hiato hace 6 meses. Así pues, tras un año de inactividad hemos marcado las historias como canceladas automáticamente para que los lectores sepan cuales están en activo.',
-    'workshop.statusChangeEmail.cancellationWhatFollows': 'Este estado se revocará automáticamente si publicas un nuevo capítulo. Si no tienes pensado seguir escribiendo esta historia no necesitas hacer nada más.'
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'Este estado se revocará automáticamente si publicas un nuevo capítulo. Si no tienes pensado seguir escribiendo esta historia no necesitas hacer nada más.',
+    'workshop.startCreating': 'Comenzar a crear',
+    'workshop.ownWork': 'Mis propias obras',
+    'workshop.list.thumbs': 'Lista de miniaturas',
+    'workshop.list.list': 'Lista acortada',
+    'workshop.fanfiction.new': 'Crear una nueva fanficción'
 };

@@ -1,59 +1,70 @@
 export default {
-    'discovery.meta.desc': 'Відкрийте для себе нові історії та світи.',
-    'discovery.universes.new': 'Виникаючі світи',
+    'discovery.meta.desc': 'Відкрийте для себе нові історії та всесвіти.',
+    'discovery.universes.new': 'Нові всесвіти, що формуються',
     'discovery.stories.new': 'Нові історії',
-    'discovery.stories.standalone.new': 'Нові автономні історії',
+    'discovery.stories.standalone.new': 'Нові окремі історії',
     'discovery.stories.updated': 'Нещодавно оновлені історії',
     'discovery.continue': 'Продовжити читання',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.stories.similar.new': 'Нові історії з\'явились неподалік',
+    'discovery.stories.similar.regular': 'Історії неподалік',
+    'story.estimatedReadingTime': `Ця історія займе {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 годину і }
+        few {# годин і }
+        many {# годин і }
+        other {# годин і }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Автономна історія',
+        =0 {0 хвилин}
+        one {1 хвилину}
+        few {# хвилин}
+        many {# хвилин}
+        other {# хвилин}
+    } на читання.`,
+    'story.estimatedReadingTime.explained': 'На основі середньої швидкості читання {avgReadingNum, number} слів за хвилину.',
+    'discover.search.text': 'Пошуковий запит',
+    'discover.searchStory.title': 'Знайти історію',
+    'discover.searchStory.description': 'Знайти історії',
+    'discover.searchUniverse.title': 'Знайти всесвіт',
+    'discover.searchUniverse.description': 'Знайти всесвіти',
+    'discover.search.storyStatus': 'Статус виконання історії',
+    'story.status.complete': 'Завершено',
+    'story.status.inProgress': 'В процесі написання',
+    'discover.search.universeConnection': 'Зв\'язок історії зі всесвітом',
+    'story.universeRelation.standalone': 'Окрема історія',
     'story.universeRelation.fanFiction': 'Фанфік',
     'story.universeRelation.universe': 'Частина всесвіту',
-    'discover.search.rating': 'Віковий рейтинг',
+    'discover.search.rating': 'Вікова категорія',
     'discover.search.license': 'Авторські права',
     'discover.search.language': 'Мова',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Жоден всесвіт не відповідає вашим параметрам}
+        one {Знайдено 1 всесвіт}
+        few {# всесвітів знайдено}
+        many {# всесвітів знайдено}
+        other {# всесвіти знайдено}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Жодна історія не відповідає вашим параметрам}
+        one {історію знайдено}
+        few {# історій знайдено}
+        many {# історій знайдено}
+        other {# історії знайдено}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Компактний список',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.viewSelection.aria': 'Переглянути вибране',
+    'discover.searchDisplay.covers': 'Перелік обкладинок',
+    'discover.searchDisplay.list': 'Стислий список',
+    'discover.includesAds': 'Ця робота містить продакт-плейсмент або рекламу в іншій формі.',
+    'discovery.featured.universes': 'Рекомендовані всесвіти',
+    'discovery.featured.stories': 'Рекомендовані історії',
+    'discovery.story.tableOfContent': 'Зміст',
+    'story.status.hiatus': 'Призупинено',
+    'story.status.cancelled': 'Перервано',
+    'story.chapter.wasRead': 'Читати - {readAt, date}',
+    'discovery.moreDetails': 'Детальніше',
+    'discovery.read': 'Прочитано',
+    'discovery.chapters.showAll': 'Показати всі розділи',
+    'discovery.chapters.showMore': 'Показати більше розділів',
+    'discovery.chaptersTotal': 'Загальна кількість глав у історії',
+    'discovery.readFromStart': 'Читати з першої глави',
+    'discovery.readLatest': 'Читати останню главу'
 };

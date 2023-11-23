@@ -10,7 +10,7 @@ export default {
     'challenges.wordcount.average': 'Average words per day',
     'challenges.wordcount.finishOn': 'At current speed you will finish on',
     'challenges.wordcount.finishOnTime': 'Words to write daily to finish on time',
-    'challenges.wordcount.graph.day': 'Day {day}',
+    'challenges.wordcount.graph.day': '일 {day}',
     'challenges.underway': 'This challenge is already underway.',
     'challenges.targetWords': 'Total targeted word count',
     'challenges.startDate': 'Start date',

@@ -31,5 +31,23 @@ export default {
     'user.verification.publishedAuthor': 'Ten autor został opublikowany jako tradycyjny sposób',
     'user.verification.luAuthor': 'Autorka z Literackiego Wszechświata',
     'user.verification.luEmployee': 'Pracownik Wszechświata Literackiego',
-    'user.verification.publicFigure': 'Zweryfikowana osoba publiczna'
+    'user.verification.publicFigure': 'Zweryfikowana osoba publiczna',
+    'profile.storiesCount': `{count, number} {count, plural,
+    one {story}
+    other {stories}
+  }`,
+    'profile.universesCount': `{count, number} {count, plural,
+    one {universe}
+    other {universes}
+  }`,
+    'profile.fanFictionsCount': `{count, number} {count, plural,
+    one {fan fiction}
+    other {fan fictions} 
+  }`,
+    'profile.works': 'Works',
+    // As in creative/literary works
+    'profile.wishlist': 'Wishlist',
+    'profile.storiesBy': 'Stories created by {username}',
+    'profile.universesBy': 'Universes created by {username}',
+    'profile.fanFictionBy': 'Fan Fiction created by {username}'
 };

@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Continue reading',
     'discovery.stories.similar.new': 'New stories in the neighborhood',
     'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Cerita ini harus mengambil {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 jam dan }
+        other {jam # dan }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 menit}
+        one {1 menit}
+        other {# menit}
+    } untuk dibaca.`,
+    'story.estimatedReadingTime.explained': 'Berdasarkan kecepatan membaca rata-rata {avgReadingNum, number} kata per menit.',
     'discover.search.text': 'Search term',
     'discover.searchStory.title': 'Search for a story',
     'discover.searchStory.description': 'Search for a stories',
@@ -31,7 +31,7 @@ export default {
     'story.universeRelation.universe': 'Part of a universe',
     'discover.search.rating': 'Age rating',
     'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.language': 'Bahasa',
     'discover.search.resultsTotal.universe': `{results, plural,
         =0 {No universes match your parameters}
         one {1 universe found}
@@ -45,15 +45,18 @@ export default {
     'discover.viewSelection.aria': 'View selection',
     'discover.searchDisplay.covers': 'Covers listing',
     'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters'
+    'discover.includesAds': 'Karya ini memiliki penempatan produk atau mencakup bentuk iklan lainnya didalamnya.',
+    'discovery.featured.universes': 'Alam semesta unggulan',
+    'discovery.featured.stories': 'Cerita unggulan',
+    'discovery.story.tableOfContent': 'Daftar isi',
+    'story.status.hiatus': 'Sedang beristirahat',
+    'story.status.cancelled': 'Dibatalkan',
+    'story.chapter.wasRead': 'Dibaca - {readAt, date}',
+    'discovery.moreDetails': 'Lebih banyak detail',
+    'discovery.read': 'Baca',
+    'discovery.chapters.showAll': 'Tampilkan semua bab',
+    'discovery.chapters.showMore': 'Tampilkan lebih banyak bab',
+    'discovery.chaptersTotal': 'Total jumlah bab dalam cerita',
+    'discovery.readFromStart': 'Baca dari bab pertama',
+    'discovery.readLatest': 'Baca bab terbaru'
 };

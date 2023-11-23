@@ -146,5 +146,8 @@ export default {
     other {{max, number}}
   }.`,
     'enc.entries.limitReached': 'Vous avez atteint le nombre maximum d\'entrées d\'encyclopédie pour votre abonnement actuel.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls'
+    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
+    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'encyclopedia.wip.abbreviation': 'WIP',
+    'encyclopedia.wip.full': 'Work in Progress'
 };

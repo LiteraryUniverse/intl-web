@@ -14,5 +14,13 @@ export default {
   'personalNotes.goToEncEntry': 'Přejít na záznam',
   'personalNotes.closeDropdown': 'Zavřít seznam',
   'personalNotes.chapterName': 'Kapitola {sequence} - {title}',
-  'personalNotes.objectPersonalNotes': 'Osobní poznámka - {object}'
+  'personalNotes.objectPersonalNotes': 'Osobní poznámka - {object}',
+  'personalNotes.searchResults': 'Výsledky hledání',
+  'personalNotes.type.story': 'Příběh',
+  'personalNotes.type.universe': 'Vesmír',
+  'personalNotes.type.chapter': 'Kapitola',
+  'personalNotes.type.encEntry': 'Záznam v encyklopedii',
+  'personalNotes.type.revTextBlock': 'Textový blok revize',
+  'personalNotes.chapter': 'Kapitola',
+  'personalNotes.recentSearches': 'Nedávné vyhledávání:'
 };
