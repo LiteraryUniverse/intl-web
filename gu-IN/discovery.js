@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'વાંચો',
     'discovery.chapters.showAll': 'બધા અધ્યાયો બતાવો',
     'discovery.chapters.showMore': 'વધુ અધ્યાયો બતાવો',
-    'discovery.chaptersTotal': 'કથામાં કુલ અધ્યાયોની સંખ્યા'
+    'discovery.chaptersTotal': 'કથામાં કુલ અધ્યાયોની સંખ્યા',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
