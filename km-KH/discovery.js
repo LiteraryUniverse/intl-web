@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'អាន',
     'discovery.chapters.showAll': 'បង្ហាញបញ្ជីធនាគារទាំងអស់',
     'discovery.chapters.showMore': 'បង្ហាញបញ្ជីច្រើនទៀត',
-    'discovery.chaptersTotal': 'ចំនួនទសភាផ្នែកប៉ុណ្ណោះក្នុងរឿង'
+    'discovery.chaptersTotal': 'ចំនួនទសភាផ្នែកប៉ុណ្ណោះក្នុងរឿង',
+    'discovery.readFromStart': 'អានពីជំពូកដំបូង',
+    'discovery.readLatest': 'អានចំណាត់ថ្នាក់ថ្មីបំផុត'
 };
