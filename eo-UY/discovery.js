@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Legi',
     'discovery.chapters.showAll': 'Montri ĉiujn ĉapitrojn',
     'discovery.chapters.showMore': 'Montri pliajn ĉapitrojn',
-    'discovery.chaptersTotal': 'Entuta nombro de ĉapitroj en la rakonto'
+    'discovery.chaptersTotal': 'Entuta nombro de ĉapitroj en la rakonto',
+    'discovery.readFromStart': 'Legu de la unua ĉapitro',
+    'discovery.readLatest': 'Legu la lastan ĉapitron'
 };
