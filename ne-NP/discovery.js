@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'पढ्नुहोस्',
     'discovery.chapters.showAll': 'सबै अध्यायहरू देखाउनुहोस्',
     'discovery.chapters.showMore': 'थप अध्यायहरू देखाउनुहोस्',
-    'discovery.chaptersTotal': 'कथामा कुल अध्याय संख्या'
+    'discovery.chaptersTotal': 'कथामा कुल अध्याय संख्या',
+    'discovery.readFromStart': 'पहिलो अध्यायबाट पढ्नुहोस्',
+    'discovery.readLatest': 'नवीनतम अध्याय पढ्नुहोस्'
 };
