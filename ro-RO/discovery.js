@@ -57,6 +57,6 @@ export default {
     'discovery.chapters.showAll': 'Afișează toate capitolele',
     'discovery.chapters.showMore': 'Afișează mai multe capitole',
     'discovery.chaptersTotal': 'Numărul total de capitole în poveste',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.readFromStart': 'Citit de la primul capitol',
+    'discovery.readLatest': 'Citit ultimul capitol'
 };
