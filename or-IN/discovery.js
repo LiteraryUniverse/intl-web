@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'ପଢ଼ନ୍ତୁ',
     'discovery.chapters.showAll': 'ସମସ୍ତ ଅଧ୍ୟାୟ ଦେଖାନ‌କୁ',
     'discovery.chapters.showMore': 'ସମସ୍ତ ଅଧ୍ୟାୟ ଅଧିକ ଦେଖାନ‌କୁ',
-    'discovery.chaptersTotal': 'କଥାରେ ମୋଟ ଅଧ୍ୟାୟ ସଂଖ୍ୟା'
+    'discovery.chaptersTotal': 'କଥାରେ ମୋଟ ଅଧ୍ୟାୟ ସଂଖ୍ୟା',
+    'discovery.readFromStart': 'ପ୍ରଥମ ପ୍ରବନ୍ଧରୁ ପଢନ୍ତୁ',
+    'discovery.readLatest': 'ନବୀନତମ ପ୍ରବନ୍ଧ ପଢନ୍ତୁ'
 };
