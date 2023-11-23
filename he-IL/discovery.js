@@ -57,6 +57,6 @@ export default {
     'discovery.chapters.showAll': 'הצג את כל הפרקים',
     'discovery.chapters.showMore': 'הצג עוד פרקים',
     'discovery.chaptersTotal': 'סך הכל מספר הפרקים בסיפור',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.readFromStart': 'קרא מהפרק הראשון',
+    'discovery.readLatest': 'קרא את הפרק האחרון'
 };
