@@ -62,5 +62,7 @@ export default {
     'discovery.read': 'Czytaj',
     'discovery.chapters.showAll': 'Pokaż wszystkie rozdziały',
     'discovery.chapters.showMore': 'Pokaż więcej rozdziałów',
-    'discovery.chaptersTotal': 'Liczba wszystkich rozdziałów w opowiadaniu'
+    'discovery.chaptersTotal': 'Liczba wszystkich rozdziałów w opowiadaniu',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
