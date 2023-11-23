@@ -57,6 +57,6 @@ export default {
     'discovery.chapters.showAll': 'Alle Kapitel anzeigen',
     'discovery.chapters.showMore': 'Mehr Kapitel anzeigen',
     'discovery.chaptersTotal': 'Gesamtzahl der Kapitel in der Geschichte',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.readFromStart': 'Vom ersten Kapitel lesen',
+    'discovery.readLatest': 'Das neueste Kapitel lesen'
 };
