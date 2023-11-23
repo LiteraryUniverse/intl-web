@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Διάβασμα',
     'discovery.chapters.showAll': 'Εμφάνιση όλων των κεφαλαίων',
     'discovery.chapters.showMore': 'Εμφάνιση περισσότερων κεφαλαίων',
-    'discovery.chaptersTotal': 'Συνολικός αριθμός κεφαλαίων στην ιστορία'
+    'discovery.chaptersTotal': 'Συνολικός αριθμός κεφαλαίων στην ιστορία',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
