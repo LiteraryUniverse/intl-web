@@ -56,5 +56,7 @@ export default {
     'discovery.read': 'Les',
     'discovery.chapters.showAll': 'Vis alle kapitler',
     'discovery.chapters.showMore': 'Vis flere kapitler',
-    'discovery.chaptersTotal': 'Totalt antall kapitler i historien'
+    'discovery.chaptersTotal': 'Totalt antall kapitler i historien',
+    'discovery.readFromStart': 'Read from first chapter',
+    'discovery.readLatest': 'Read the latest chapter'
 };
