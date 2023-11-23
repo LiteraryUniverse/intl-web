@@ -1,62 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
+    'discovery.meta.desc': 'Khám phá những câu chuyện và vũ trụ mới.',
+    'discovery.universes.new': 'Vũ trụ mới nổi',
     'discovery.stories.new': 'Những truyện mới',
-    'discovery.stories.standalone.new': 'New standalone stories',
+    'discovery.stories.standalone.new': 'Các câu chuyện độc lập mới',
     'discovery.stories.updated': 'Các truyện được cập nhật gần đây',
     'discovery.continue': 'Tiếp tục Đọc',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.stories.similar.new': 'Các câu chuyện mới trong khu vực lân cận',
+    'discovery.stories.similar.regular': 'Các câu chuyện trong khu vực lân cận',
+    'story.estimatedReadingTime': `Câu chuyện này sẽ mất {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 giờ và }
+        other {# giờ và }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
+        =0 {0 phút}
+        one {1 phút}
+        other {# phút}
+    } để đọc.`,
+    'story.estimatedReadingTime.explained': 'Dựa trên tốc độ đọc trung bình của {avgReadingNum, number} từ mỗi phút.',
+    'discover.search.text': 'Thuật ngữ tìm kiếm',
+    'discover.searchStory.title': 'Tìm kiếm một câu chuyện',
+    'discover.searchStory.description': 'Tìm kiếm các câu chuyện',
+    'discover.searchUniverse.title': 'Tìm kiếm vũ trụ',
+    'discover.searchUniverse.description': 'Tìm kiếm các vũ trụ',
+    'discover.search.storyStatus': 'Trạng thái tiến độ câu chuyện',
+    'story.status.complete': 'Hoàn thành',
+    'story.status.inProgress': 'Đang tiến hành',
+    'discover.search.universeConnection': 'Kết nối của câu chuyện với vũ trụ',
+    'story.universeRelation.standalone': 'Câu chuyện độc lập',
     'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
+    'story.universeRelation.universe': 'Một phần của vũ trụ',
+    'discover.search.rating': 'Đánh giá tuổi',
+    'discover.search.license': 'Giấy phép bản quyền',
     'discover.search.language': 'Ngôn ngữ',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Không có vũ trụ nào khớp với các thông số của bạn}
+        one {Tìm thấy 1 vũ trụ}
+        other {Tìm thấy # vũ trụ}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Không có câu chuyện nào khớp với các thông số của bạn}
+        one {Tìm thấy 1 câu chuyện}
+        other {Tìm thấy # câu chuyện}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
+    'discover.viewSelection.aria': 'Lựa chọn xem',
+    'discover.searchDisplay.covers': 'Danh sách bìa',
+    'discover.searchDisplay.list': 'Danh sách nhỏ gọn',
+    'discover.includesAds': 'Công việc này chứa quảng cáo sản phẩm hoặc bao gồm hình thức quảng cáo khác.',
+    'discovery.featured.universes': 'Vũ trụ nổi bật',
+    'discovery.featured.stories': 'Những câu chuyện nổi bật',
+    'discovery.story.tableOfContent': 'Mục lục',
+    'story.status.hiatus': 'Tạm ngừng',
+    'story.status.cancelled': 'Hủy',
+    'story.chapter.wasRead': 'Đã đọc - {readAt, date}',
+    'discovery.moreDetails': 'Thêm chi tiết',
     'discovery.read': 'Đọc',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.chapters.showAll': 'Hiển thị tất cả các chương',
+    'discovery.chapters.showMore': 'Hiển thị thêm các chương',
+    'discovery.chaptersTotal': 'Tổng số chương trong câu chuyện',
+    'discovery.readFromStart': 'Đọc từ chương đầu tiên',
+    'discovery.readLatest': 'Đọc chương mới nhất'
 };
