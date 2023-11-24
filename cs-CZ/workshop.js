@@ -284,7 +284,7 @@ export default {
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Tento stav bude automaticky zrušen, pokud zveřejníte novou kapitolu. Pokud už neplánujete pracovat na tomto příběhu, nemusíte nic dělat.',
     'workshop.startCreating': 'Začněte tvořit',
     'workshop.ownWork': 'Vlastní díla',
-    'workshop.list.thumbs': 'Thumbnails list',
-    'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.list.thumbs': 'Obrázkový seznam',
+    'workshop.list.list': 'Stručný seznam',
+    'workshop.fanfiction.new': 'Vytvořit novou fan fikci'
 };
