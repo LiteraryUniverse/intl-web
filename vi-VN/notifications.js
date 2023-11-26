@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Tạo một tin tức mới nhanh',
+  'flashnews.startsAt': 'Bắt đầu hiển thị tin nhắn này từ',
+  'flashnews.endsAt': 'Ngừng hiển thị tin nhắn này từ',
+  'flashnews.newLanguage': 'Chọn ngôn ngữ mới để thêm',
+  'flashnews.onlyDisplayOn': 'Tin tức sẽ chỉ hiển thị trên các ngôn ngữ đã chọn bên dưới (nếu có), không có tin tức nào được hiển thị, thậm chí trong ngôn ngữ mặc định, trong các ngôn ngữ khác.',
+  'notifications.menu.all': 'Tất cả thông báo',
+  'notifications.menu.following': 'Theo dõi',
+  'notifications.menu.workshop': 'Hội thảo',
+  'notifications.menu.news': 'Tin tức & cập nhật',
+  'notifications.menu.markUnread': 'Đánh dấu là chưa đọc',
+  'notifications.menu.markRead': 'Đánh dấu là đã đọc',
+  'notifications.menu.delete': 'Xóa thông báo',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Câu chuyện của bạn {storyName} đã tự động chuyển sang tạm dừng sau 6 tháng không hoạt động.',
+  'notification.workshopStoryStatus.toCancelled': 'Câu chuyện của bạn {storyName} đã tự động chuyển sang hủy sau một năm không hoạt động.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} đang tạm dừng.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} đã bị hủy.',
+  'notification.followingNewChapter.new': 'Chương mới trong {storyName} đã được xuất bản!',
+  'notification.workshopStory.newComment': 'đã bình luận về {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'đã gửi cho bạn một lời mời kết bạn.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Đi đến câu chuyện'
 };
