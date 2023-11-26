@@ -1,17 +1,17 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'ko jdima lo nu zbasu fo lo se sukmadi se ctuca',
+  'flashnews.startsAt': 'ko se temci lo ka tcini ti bo ta zmadu ti',
+  'flashnews.endsAt': 'ko se temci lo ka tcini ti bo ta mleca ti',
+  'flashnews.newLanguage': 'ko pilno lo bangu be lo nu ve kalri lo nu zasne ko',
+  'flashnews.onlyDisplayOn': 'lo nu co\'e lo nu xamsi le\'i banzu lo velnu se jdice lo nu cnino co\'a nilmivyminde se galfi di\'ai lo kagai vei banzu vei gi\'a na banzu co\'a fau lo girzu ve\'o jersi sekai',
+  'notifications.menu.all': 'co\'e cabna mu\'i lo nu prami ko',
+  'notifications.menu.following': 'ko sutra fukpi',
+  'notifications.menu.workshop': 'ko pinxe lo ckafi',
+  'notifications.menu.news': 'ko jarco lo xatra gi\'e jinvi lo ckafi',
+  'notifications.menu.markUnread': 'o\'o\'o lo nu binxo facki',
+  'notifications.menu.markRead': 'oi\'o\'o lo nu binxo facki',
+  'notifications.menu.delete': 'ko ranji lo nu vimcu lo jbobau',
   // Notification messages
   'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
   'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
@@ -20,8 +20,8 @@ export default {
   'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
   'notification.workshopStory.newComment': 'has commented on {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'ko frili ni\'o ta zei sanmi',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'klama ro da'
 };
