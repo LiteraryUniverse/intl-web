@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Skep \'n nuwe nuusflits',
+  'flashnews.startsAt': 'Begin hierdie boodskap wys vanaf',
+  'flashnews.endsAt': 'Stop om hierdie boodskap te wys vanaf',
+  'flashnews.newLanguage': 'Kies \'n nuwe taal om by te voeg',
+  'flashnews.onlyDisplayOn': 'Die nuus sal slegs op die onderstaande gekose tale vertoon word (as enige gekies), geen nuus sal vertoon word, selfs nie in die verstektaal nie, in ander tale nie.',
+  'notifications.menu.all': 'Alle kennisgewings',
+  'notifications.menu.following': 'Volg',
+  'notifications.menu.workshop': 'Werkswinkel',
+  'notifications.menu.news': 'Nuus & opdaterings',
+  'notifications.menu.markUnread': 'Merk as ongelees',
+  'notifications.menu.markRead': 'Merk as gelees',
+  'notifications.menu.delete': 'Verwyder kennisgewing',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Jou storie {storyName} het outomaties op hiatus gesit na 6 maande van inaktiwiteit.',
+  'notification.workshopStoryStatus.toCancelled': 'Jou storie {storyName} het outomaties gekanselleer na een jaar van inaktiwiteit.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} is op hiatus.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} is gekanselleer.',
+  'notification.followingNewChapter.new': 'Nuwe hoofstuk in {storyName} is gepubliseer!',
+  'notification.workshopStory.newComment': 'het kommentaar gelewer op {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'het \'n vriendversoek aan jou gestuur.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Gaan na storie'
 };
