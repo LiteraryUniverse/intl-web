@@ -1,16 +1,16 @@
 export default {
-    'reader.storyEnd.heading': 'The END',
+    'reader.storyEnd.heading': '끝',
     'reader.storyEnd.description': 'You have reached the end of the story.',
-    'reader.externalSale.heading': 'Not here yet',
+    'reader.externalSale.heading': '아직 여기에 없습니다',
     'reader.externalSale.description': 'This story is not available on Literary Universe, but you can get it in other places.',
     'reader.storyTBC.heading': 'To be continued...',
     'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
     'chapter.translation.notYetDescription': 'Check back again soon!',
     'reader.externalShopping.heading': 'Buy {storyName} in stores:',
-    'chapter.next': 'Next chapter',
-    'chapter.previous': 'Previous chapter',
+    'chapter.next': '다음 장',
+    'chapter.previous': '이전 장',
     'chapter.comment': 'Comments on this chapter',
-    'reader.language': 'Language:',
+    'reader.language': '언어:',
     'reader.fullscreen.enter': 'Enter fullscreen',
     'reader.fullscreen.exit': 'Exit fullscreen',
     'reader.details.universe': 'Universe details',
@@ -32,5 +32,5 @@ export default {
     'reader.storyContinues': 'The story continues...',
     'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
     'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyCancelled.heading': '취소됨'
 };
