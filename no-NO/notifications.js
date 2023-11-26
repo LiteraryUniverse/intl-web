@@ -7,7 +7,7 @@ export default {
   'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
   'notifications.menu.all': 'All notification',
   'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
+  'notifications.menu.workshop': 'Verksted',
   'notifications.menu.news': 'News & updates',
   'notifications.menu.markUnread': 'Mark as unread',
   'notifications.menu.markRead': 'Mark as read',
@@ -20,8 +20,8 @@ export default {
   'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
   'notification.workshopStory.newComment': 'has commented on {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'sent you a friend request.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Gå til historie'
 };
