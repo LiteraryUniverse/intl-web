@@ -87,12 +87,12 @@ export default {
     'common.legal.privacy': 'Datenschutzrichtlinie',
     'common.legal.copyright': 'Copyright-Vereinbarung',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
+    tos {Nutzungsbedingungen}
+    community {Community-Richtlinien}
+    privacy {Datenschutzrichtlinie}
+    copyright {Urheberrechtsvereinbarung}
+    publishingAgreement {Veröffentlichungsvereinbarung}
+    other {Vereinbarung}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Eine neue Version ({newVersion}) dieses Dokuments tritt am {effectiveAt, date} in Kraft.',
     'common.legal.disclaimer': '© {year} Alle Rechte vorbehalten, alle Texte gehören ihren jeweiligen Autoren.',
@@ -252,9 +252,9 @@ export default {
     'common.socialLogin': 'Mit anderen Diensten anmelden',
     'common.viewMore': 'Mehr ansehen',
     'common.overview': 'Übersicht',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!',
-    'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.loggingOut': 'Logout läuft',
+    'common.thankYou': 'Vielen Dank!',
+    'common.seeYouAgain': 'Auf Wiedersehen!',
+    'email.hello': 'Hallo {username},',
+    'common.back': 'Zurück'
 }    /* eslint-enable max-len */;
