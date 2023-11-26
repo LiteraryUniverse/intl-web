@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Δημιουργία νέας ενημέρωσης ειδήσεων',
+  'flashnews.startsAt': 'Έναρξη εμφάνισης αυτού του μηνύματος στις',
+  'flashnews.endsAt': 'Τερματισμός εμφάνισης αυτού του μηνύματος στις',
+  'flashnews.newLanguage': 'Επιλέξτε νέα γλώσσα για προσθήκη',
+  'flashnews.onlyDisplayOn': 'Οι ειδήσεις θα εμφανίζονται μόνο στις επιλεγμένες παρακάτω γλώσσες (εάν έχουν επιλεγεί), δεν θα εμφανίζονται καθόλου ειδήσεις, ακόμα και στην προεπιλεγμένη γλώσσα, σε άλλες γλώσσες.',
+  'notifications.menu.all': 'Όλες οι ειδοποιήσεις',
+  'notifications.menu.following': 'Ακολουθούμενα',
+  'notifications.menu.workshop': 'Εργαστήριο',
+  'notifications.menu.news': 'Ειδήσεις και ενημερώσεις',
+  'notifications.menu.markUnread': 'Σημείωση ως μη αναγνωσμένο',
+  'notifications.menu.markRead': 'Σημείωση ως αναγνωσμένο',
+  'notifications.menu.delete': 'Διαγραφή ειδοποίησης',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Η ιστορία σας {storyName} πήρε αυτόματα μία παύση μετά από 6 μήνες αδράνειας.',
+  'notification.workshopStoryStatus.toCancelled': 'Η ιστορία σας {storyName} πήρε αυτόματα ακύρωση μετά από ένα χρόνο αδράνειας.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} είναι σε παύση.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} έχει ακυρωθεί.',
+  'notification.followingNewChapter.new': 'Νέο κεφάλαιο στο {storyName} έχει δημοσιευτεί!',
+  'notification.workshopStory.newComment': 'σχολίασε στο {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'σας στάλθηκε αίτημα φιλίας.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Μετάβαση στην Ιστορία'
 };
