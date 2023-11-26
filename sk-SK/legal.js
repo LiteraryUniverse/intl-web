@@ -4,8 +4,8 @@ export default {
     'legal.modal.disagree': 'Nesúhlasím',
     'legal.modal.register': 'Ak sa zaregistrujete, už to neuvidíte.',
     'legal.modal.goToSettings': 'Prejsť do nastavení',
-    'legal.modal.oneLastThing': 'One last thing...',
+    'legal.modal.oneLastThing': 'Jedna posledná vec...',
     'legal.modal.finish': 'Dokončiť',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.existingUser': 'Už ste sa zaregistrovali?',
+    'legal.modal.pleaseLogin': 'Prosím, prihláste sa.'
 };
