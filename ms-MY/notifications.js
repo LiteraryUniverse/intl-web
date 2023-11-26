@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Cipta berita kilat baru',
+  'flashnews.startsAt': 'Mula paparkan mesej ini pada',
+  'flashnews.endsAt': 'Hentikan paparan mesej ini pada',
+  'flashnews.newLanguage': 'Pilih bahasa baru untuk ditambah',
+  'flashnews.onlyDisplayOn': 'Berita akan dipaparkan hanya dalam bahasa yang dipilih di bawah (jika ada yang dipilih), tidak akan ada berita yang ditunjukkan, bahkan dalam bahasa lalai, dalam bahasa lain.',
+  'notifications.menu.all': 'Semua pemberitahuan',
+  'notifications.menu.following': 'Mengikuti',
+  'notifications.menu.workshop': 'Bengkel',
+  'notifications.menu.news': 'Berita & kemas kini',
+  'notifications.menu.markUnread': 'Tandai sebagai belum dibaca',
+  'notifications.menu.markRead': 'Tandai sebagai sudah dibaca',
+  'notifications.menu.delete': 'Padam pemberitahuan',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Kisah anda {storyName} telah ditetapkan kepada hiatus selepas 6 bulan tidak aktif.',
+  'notification.workshopStoryStatus.toCancelled': 'Kisah anda {storyName} telah ditetapkan kepada terbatal selepas satu tahun tidak aktif.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} sedang dalam hiatus.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} telah dibatalkan.',
+  'notification.followingNewChapter.new': 'Bab baharu dalam {storyName} telah diterbitkan!',
+  'notification.workshopStory.newComment': 'telah mengomentari {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'menghantar permintaan pertemanan kepada anda.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Pergi ke cerita'
 };
