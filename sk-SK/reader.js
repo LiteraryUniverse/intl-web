@@ -30,7 +30,7 @@ export default {
     'reader.accessibility.toggleRules': 'Prepínanie asistenčného pravítka',
     'reader.nextRelease.scheduled': 'Ďalšia kapitola bude uverejnená {nextReleaseAt, date} v {nextReleaseAt, time}!',
     'reader.storyContinues': 'Príbeh pokračuje...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyOnHiatus': 'Autor momentálne robí prestávku pri tejto príbehu a táto príbeh je momentálne na prerušení. Skontrolujte znova o mesiac alebo dva.',
+    'reader.storyCancelled': 'Bohužiaľ, toto je všetko. Príbeh bol zrušený, takže je nepravdepodobné, že by sa niečo nové objavilo.',
     'reader.storyCancelled.heading': 'Zrušené'
 };
