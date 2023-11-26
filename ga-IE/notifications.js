@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Cruthaigh flaithis teangabhála nua',
+  'flashnews.startsAt': 'Tosaíonn an teachtaireacht seo a thaispeáint ag',
+  'flashnews.endsAt': 'Stop an teachtaireacht seo a thaispeáint ag',
+  'flashnews.newLanguage': 'Roghnaigh teanga nua a chur leis',
+  'flashnews.onlyDisplayOn': 'Beidh an scéala á sheinm ar na teangacha a roghnaítear thíos (mura roghnaítear aon cheannacha), ní bheidh aon scéal le feiceáil, fiú sa teanga réamhshocraithe, i dteangacha eile.',
+  'notifications.menu.all': 'Gach fógra',
+  'notifications.menu.following': 'Ina dhiaidh seo',
+  'notifications.menu.workshop': 'Ceardlann',
+  'notifications.menu.news': 'Nuacht & nuashonruithe',
+  'notifications.menu.markUnread': 'Marcáil mar gan léamh',
+  'notifications.menu.markRead': 'Marcáil mar léite',
+  'notifications.menu.delete': 'Scrios fógra',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Tá do scéal {storyName} curtha ar athló tar éis 6 mí gan gníomhaíocht.',
+  'notification.workshopStoryStatus.toCancelled': 'Tá do scéal {storyName} curtha ar ceal go huathoibríoch tar éis bliain gan gníomhaíocht.',
+  'notification.followingStoryStatus.toHiatus': 'Tá  {storyName} faoi athló.',
+  'notification.followingStoryStatus.toCancelled': 'Tá  {storyName} curtha ar ceal.',
+  'notification.followingNewChapter.new': 'Caipitle nua curtha ar fáil i {storyName}!',
+  'notification.workshopStory.newComment': 'tá trácht déanta ag {storyName}ar',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'chuir iarratas cairde chugaibh.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Téigh go dtí an scéal'
 };
