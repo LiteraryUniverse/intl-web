@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Forfatteren tager i øjeblikket en pause fra denne historie, og historien er sat på pause for nu. Kom tilbage om en måned eller to.',
     'reader.storyCancelled': 'Desværre er det slut. Historien er blevet aflyst, så det er usandsynligt, at der kommer noget nyt.',
     'reader.storyCancelled.heading': 'Annulleret',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Vi vil også give en estimering af, hvornår det næste kapitel kan blive udgivet, når denne historie har mere end ét kapitel.'
 };
