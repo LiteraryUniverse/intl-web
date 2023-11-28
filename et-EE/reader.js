@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Autor võtab hetkel loost pausi ja see lugu on hetkel pausil. Tagasi kontrollimiseks mõne kuu pärast.',
     'reader.storyCancelled': 'Kahjuks on see kõik. Lugu on tühistatud, seega on ebatõenäoline, et midagi uut tuleb.',
     'reader.storyCancelled.heading': 'Tühistatud',
-    'reader.nextChapterEstimation.verySoon': 'Väga varsti oodatakse järgmise peatüki avaldamist lähtuvalt viimase {chaptersCount} peatüki avaldamise kuupäevadest.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Viimase {chaptersCount, number} peatüki avaldamise kuupäevade põhjal oodatakse väga varsti järgmist peatükki.',
+    'reader.nextChapterEstimation.days': 'Viimase {chaptersCount, number} peatüki avaldamise kuupäevade põhjal peaks järgmine peatükk olema saadaval umbes {daysLeft, plural, one {1 päeva} other {jooksul}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Kui sellel lool on rohkem kui üks peatükk, siis anname ka hinnangu, millal järgmine peatükk võib avaldatud saada.'
 };
