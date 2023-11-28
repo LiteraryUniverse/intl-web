@@ -29,11 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.storyContinues': 'ਕਹਾਣੀ ਜਾਰੀ ਰਹੇਗੀ...',
+    'reader.storyOnHiatus': 'ਲੇਖਕ ਇਸ ਕਹਾਣੀ ਤੋਂ ਇਕ ਅਵਕਾਸ਼ ਵੱਧ ਝਟਕਾ ਦੂਰ ਜਾ ਰਿਹਾ ਹੈ ਅਤੇ ਕਹਾਣੀ ਹੁਣ ਲਮ੍ਹੇ ਲਈ ਰੁਕੀ ਹੈ। ਮੰਹਿਲ ਜਾਂ ਦੋ ਵਿੱਚ ਵਾਪਸ ਆਓ।',
+    'reader.storyCancelled': 'ਦੁਖਦਾਇ ਕਿ ਇਹ ਹੈ। ਕਹਾਣੀ ਰੱਦ ਕਰ ਦਿੱਤੀ ਹੈ, ਇਸ ਲਈ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਹੈ ਕਿ ਕੁਝ ਨਵੇਂ ਨਾ ਹੋਵੇਗਾ।',
+    'reader.storyCancelled.heading': 'ਮੰਨਿਆ ਕੀਤਾ',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'ਕਦੇ ਭੀ ਇਸ ਕਹਾਣੀ ਵਿੱਚ ਅਗਲੀ ਪਰਚੀ ਵੱਧ ਤੋਂ ਜਿਵੇਂ ਹੀ ਹੋਵੇਗੀ, ਉਸ ਵੇਲੇ ਅਸੀਂ ਅਗਲੀ ਪਰਚੀ ਦੀ ਤਾਰੀਖ਼ ਦੀ ਇਮਾਰਤ ਵੀ ਪ੍ਰਦਾਨ ਕਰਾਂਗੇ।'
 };
