@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'La aŭtoro nun malfermas paŭzon ĉi pri la rakonto kaj ĝi estas interrompita. Revenu en monato aŭ du.',
     'reader.storyCancelled': 'Bedaŭrinde, tion estas ĉio. La rakonto estas nuligita do ne verŝajne estos io nova.',
     'reader.storyCancelled.heading': 'Nuligita',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Ankaŭ ni liveros antaŭŝatitan daton por la eldado de la sekvonta ĉapitro, post kiam tiu rakonto havos pli ol unu ĉapitro.'
 };
