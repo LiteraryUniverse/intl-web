@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'लेखकले हाल यो अंश पढ़ै प्रमाणित छन् र यो कथा अस्थायी रुपमा रहेको छ। एक महिना वा दुई महिना पछि पुन: यहाँ फेरि जाँच गर्नुहोस्।',
     'reader.storyCancelled': 'दु:ख भयो। कथालाई रद्द गरिएको भएर उम्मेद छ कि कुनै नयाँ कुरा हुदैन।',
     'reader.storyCancelled.heading': 'रद्द कर दिया गया है',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'यस कथामा बढिरहेर प्रकाशन भए पछि पनि अर्को अध्यायको मिति अनुमान उपलब्ध गराउनेछ।'
 };
