@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Die skrywer neem tans \'n pouse van hierdie storie en die storie is vir nou op skorsing. Kom terug oor \'n maand of twee.',
     'reader.storyCancelled': 'Ongelukkig is dit alles. Die storie is gekanselleer, so dit is onwaarskynlik dat daar iets nuuts gaan wees.',
     'reader.storyCancelled.heading': 'Gekanselleer',
-    'reader.nextChapterEstimation.verySoon': 'Gebaseer op die laaste {chaptersCount} hoofstukke se publikasiedatum sal die volgende hoofstuk baie binnekort uitkom.',
-    'reader.nextChapterEstimation.days': 'Gebaseer op die laaste {chaptersCount} hoofstukke se publikasiedatum sal die volgende hoofstuk oor {daysLeft} dae uitkom.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Ons sal ook \'n skatting gee van wanneer die volgende hoofstuk gepubliseer kan word as hierdie storie meer as een hoofstuk het.'
 };
