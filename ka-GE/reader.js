@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'სიმართლე განრისხდება...',
+    'reader.storyOnHiatus': 'მოსაწყრელია ავტორი მოცემული სიმართლეს გააჩნიათ და ეს სიმართლე დრომდე გაჩნდება. მოგვიანებით ერთი-ორი თვის შემდეგ ისეთ სიმართლეზე კიდევ არ იქნება არჩეული.',
+    'reader.storyCancelled': 'საწყისშია. სიმართლე გაუქმდა, ამიტომ შემოსავლოდ ახლიდან საკმაოდ არასადამეგობრებელია რაიმე ახალი რამ.',
+    'reader.storyCancelled.heading': 'გაუქმებულია',
+    'reader.nextChapterEstimation.verySoon': 'ბოლო {chaptersCount} თავის გამოცემის თარიღზე მიხედვით შემდეგი თავის გამოცემა უკვე ძალიან მალე გამოიწვეთ.',
+    'reader.nextChapterEstimation.days': 'ბოლო {chaptersCount} თავის გამოცემის თარიღზე მიხედვით შემდეგი თავის გამოცემა გამოიწვეთ {daysLeft} დღში.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'სიმართლე მეტი უნდა იყოს, როდესაც მოწევისთვის უკვე აქვს ერთი ან რამოდენიმე თავისი გამოცალინი.'
 };
