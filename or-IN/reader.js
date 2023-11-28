@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'ଲେଖକ ଏହି ଗପ ର ସମୟକାଣି ନିରାବର୍ତ୍ତ୍ମ କରୁଛନ୍ତି ଏବଂ ଏହି ଗପ ଏମିତି ଅବସ୍ଥାରେ ଅବସ୍ଥା ନିଷ୍କ୍ରିୟ।  ଏକ ମାସ ବା ଦୁଇମାସ ପରେ ଫେରିବେ ଦେଖନ୍ତୁ |',
     'reader.storyCancelled': 'ଯଦିଓ ଏହି ହେଲେ | ଗପ ବାଧ୍ୟ ରେ ଛାଡ଼ା ପଡ଼ି ଦେଇଛି ଏବଂ କିଛି ନଣ୍ଟି ପାଇଁ ଅସମ୍ଭାବିତ |',
     'reader.storyCancelled.heading': 'ବାତିଲ',
-    'reader.nextChapterEstimation.verySoon': 'ଗତ ଦୁଇ {chaptersCount} ଅଧ୍ୟାୟ ପ୍ରକାଶନ ତାରିଖର ଆଧାରରେ, ପ୍ରତିଟି ଅଧ୍ୟାୟ ମୁଣ୍ଡ ପାଇଁ ତ୍ଵରିତ ପ୍ରକାଶିତ ହେବା ପାଇବା ପାଇବେ |',
-    'reader.nextChapterEstimation.days': 'ଗତ ଦୁଇ {chaptersCount} ଅଧ୍ୟାୟ ପ୍ରକାଶନ ତାରିଖ ଆଧାରରେ, ପରବର୍ତ୍ତୀ ଅଧ୍ୟାୟ ପ୍ରାପ୍ତ ପାଇବା ପିଣଦିତ {daysLeft} ଦିନରେ ।',
+    'reader.nextChapterEstimation.verySoon': 'ସମାଚାର ପ୍ରକାଶନ ତାରିଖେ ଆଧାରେ  ଅନୁଯାୟିକ {chaptersCount, number} ଅଧ୍ୟାୟ ର ପ୍ରକାଶନ ତଥ୍ୟ ଦ୍ଵାରା, ପରବର୍ତ୍ତିକ ଅଧ୍ୟାୟ ବହୁତ ଶୀଘ୍ରଇ ପ୍ରକାଶନ ହେବ ଚାହିଁଛି।',
+    'reader.nextChapterEstimation.days': 'ସମାଚାର ପ୍ରକାଶନ ତାରିଖେ ଆଧାରେ  ଅନୁଯାୟିକ {chaptersCount, number} ଅଧ୍ୟାୟ ର ପ୍ରକାଶନ ତଥ୍ୟ ଦ୍ବାରା, ପରବର୍ତ୍ତିକ ଅଧ୍ୟାୟ ପ୍ରାସଙ୍ଗିକ {daysLeft, plural, one {1 ଦିନ} other {ରେ ଉପଲବ୍ଧ ହେବ}}ଦିନ ।',
     'reader.nextChapterEstimation.notEnoughChapters': 'ଏହି ଗପରେ ଏକଟି ଭାଗରେ ହାଖଖୋରେ ଏହି ଗପ ଅଧ୍ୟାୟ ୧ ପାଇଁ ପ୍ରକାଶନ କରିବେ, ତେବେ ଯଥାଯଥ ଅବଧି ନିର୍ଧାରଣ କରିବେ।'
 };
