@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'L\'autor/a està prenent un descans d\'aquesta història i aquesta història està en pausa per ara. Torna en un mes o dos.',
     'reader.storyCancelled': 'Desafortunadament, aquest és el final. La història ha estat cancel·lada, així que és improbable que hi hagi res de nou.',
     'reader.storyCancelled.heading': 'Cancel·lat',
-    'reader.nextChapterEstimation.verySoon': 'Basant-se en l\'última data de publicació de {chaptersCount} capítols, el proper capítol hauria de sortir molt aviat.',
-    'reader.nextChapterEstimation.days': 'Basant-se en l\'última data de publicació de {chaptersCount} capítols, el proper capítol hauria de sortir en {daysLeft} dies',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
     'reader.nextChapterEstimation.notEnoughChapters': 'També proporcionarem una estimació de quan el proper capítol podria ser publicat una vegada aquesta història tingui més d\'un capítol.'
 };
