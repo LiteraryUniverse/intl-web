@@ -32,8 +32,8 @@ export default {
     'reader.storyContinues': 'Câu chuyện tiếp tục...',
     'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
     'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.storyCancelled.heading': 'Hủy bỏ',
+    'reader.nextChapterEstimation.verySoon': 'Dựa trên các ngày xuất bản của {chaptersCount, number} những chương gần đây nhất, chương tiếp theo dự kiến sẽ được phát hành sớm thôi.',
+    'reader.nextChapterEstimation.days': 'Dựa trên các ngày xuất bản của {chaptersCount, number} những chương gần đây nhất, chương tiếp theo sẽ có sẵn sau khoảng {daysLeft, plural, one {1 ngày} other {# ngày}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
 };
