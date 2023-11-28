@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'La història continua...',
+    'reader.storyOnHiatus': 'L\'autor/a està prenent un descans d\'aquesta història i aquesta història està en pausa per ara. Torna en un mes o dos.',
+    'reader.storyCancelled': 'Desafortunadament, aquest és el final. La història ha estat cancel·lada, així que és improbable que hi hagi res de nou.',
+    'reader.storyCancelled.heading': 'Cancel·lat',
+    'reader.nextChapterEstimation.verySoon': 'Basant-se en l\'última data de publicació de {chaptersCount} capítols, el proper capítol hauria de sortir molt aviat.',
+    'reader.nextChapterEstimation.days': 'Basant-se en l\'última data de publicació de {chaptersCount} capítols, el proper capítol hauria de sortir en {daysLeft} dies',
+    'reader.nextChapterEstimation.notEnoughChapters': 'També proporcionarem una estimació de quan el proper capítol podria ser publicat una vegada aquesta història tingui més d\'un capítol.'
 };
