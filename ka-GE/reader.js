@@ -28,12 +28,12 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
-    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
+    'reader.nextRelease.scheduled': 'შემდეგი თემა გამოგვიგზავნის {nextReleaseAt, date} -ის დარჩენილი  ‏ {nextReleaseAt, time}დღეს!',
     'reader.storyContinues': 'სიმართლე განრისხდება...',
     'reader.storyOnHiatus': 'მოსაწყრელია ავტორი მოცემული სიმართლეს გააჩნიათ და ეს სიმართლე დრომდე გაჩნდება. მოგვიანებით ერთი-ორი თვის შემდეგ ისეთ სიმართლეზე კიდევ არ იქნება არჩეული.',
     'reader.storyCancelled': 'საწყისშია. სიმართლე გაუქმდა, ამიტომ შემოსავლოდ ახლიდან საკმაოდ არასადამეგობრებელია რაიმე ახალი რამ.',
     'reader.storyCancelled.heading': 'გაუქმებულია',
-    'reader.nextChapterEstimation.verySoon': 'ბოლო {chaptersCount} თარიღთი გამოქვეყნდა განმეორებების გაუმჯობესებით, შემდეგი თავისი გამოცემა გაფრთხილებულადაა.',
-    'reader.nextChapterEstimation.days': 'ბოლო {chaptersCount} თარიღთი გამოქვეყნდა განმეორებების გაუმჯობესებით, შემდეგი თავისი გამოცემა ხდება დღეებისთვის {daysLeft} შემდეგ.',
+    'reader.nextChapterEstimation.verySoon': 'ბოლო {chaptersCount, number} -ის გამოვლენის დაფუძველის პუბლიკაციად შეგვიძლია.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'სიმართლე მეტი უნდა იყოს, როდესაც მოწევისთვის უკვე აქვს ერთი ან რამოდენიმე თავისი გამოცალინი.'
 };
