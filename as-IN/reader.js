@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'লেখকটি এই গল্প থেমে আছেন এবং এই গল্পটি এখন অনিশ্চিত সময়ের জন্য হায়েটাসে আছে। একটু পরে চেক করুন।',
     'reader.storyCancelled': 'দুঃখিত এটা শেষ। গল্পটি বাতিল হয়েছে তাই মাথায় লাগবে নতুন কিছু হওয়ার সম্ভাবনা নেই।',
     'reader.storyCancelled.heading': 'বাতিল করা হয়েছে',
-    'reader.nextChapterEstimation.verySoon': 'শেষ {chaptersCount} অধ্যায়ের প্রকাশের শিল্পান্তরে ভবিষ্যদ্বাণী দেয়া হয়েছে যে পরবর্তী অধ্যায়টি খুব শীঘ্রই প্রকাশিত হবে।',
-    'reader.nextChapterEstimation.days': 'শেষ {chaptersCount} অধ্যায়ের প্রকাশের শিল্পান্তরে ভিতরে অনুপলব্ধকে পরবর্তী অধ্যায়টি প্রায় {daysLeft} দিনে উপলব্ধ হবে।',
+    'reader.nextChapterEstimation.verySoon': 'শেহতীয়া প্রকাশের তারিখসমূহের ভিত্তিতে {chaptersCount, number} অধ্যায়ের মধ্যে, পরবর্তী অধ্যায় খুব শীঘ্রই মুক্তিপ্রাপ্ত হবে।',
+    'reader.nextChapterEstimation.days': 'শেহতীয়া প্রকাশের তারিখসমূহের ভিত্তিতে {chaptersCount, number} অধ্যায়ের মধ্যে, পরবর্তী অধ্যায় প্রাপ্তযোগ্য হবে আশঙ্কিত {daysLeft, plural, one {1 দিনে} other {# দিন}}।',
     'reader.nextChapterEstimation.notEnoughChapters': 'এই গল্পের একটি অধ্যায় থেকে বেশি থাকলে পরবর্তী অধ্যায়ের প্রকাশের একটি আনুমানিক সময় উপস্থাপন করব।'
 };
