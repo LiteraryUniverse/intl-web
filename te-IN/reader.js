@@ -29,11 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.storyContinues': 'కథ కొనసాగింది...',
+    'reader.storyOnHiatus': 'కథానాయిక ప్రస్తుతం ప్రవాసం తీసుకోకపోయింది మరియు ప్రస్తుతం కథ ఒక నిలవ కొనసాగే స్థితిలో ఉంది. ఒక నెల లేదా రెండు నెలల నుంచి తిరిగి వచ్చండి.',
+    'reader.storyCancelled': 'దుఃఖంగా గుంటీసారం, ఇది. కథ రద్దు చేయబడింది కాబట్టి కొద్ది కథ లేదు అని ఇక్కడ ఏమి ప్రకటించవు.',
+    'reader.storyCancelled.heading': 'రద్దు చేయబడింది',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'కథ ఒక అధ్యాయం పైన ఒకటికి తదితర అధ్యాయాలు ప్రకటన కలబడిన తర్వాత మేము ఇప్పటికే ప్రకటన తేదీకి ఒక అంచనా ఇవ్వబోతున్నాము.'
 };
