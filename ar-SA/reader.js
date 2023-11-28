@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'المؤلف حاليًا في إجازة من هذه القصة وهذه القصة في وقفة مؤقتة الآن. تفقد مرة أخرى في شهر أو اثنين.',
     'reader.storyCancelled': 'للأسف هذا هو الأمر. تم إلغاء القصة لذا من غير المرجح أن يكون هناك أي شيء جديد.',
     'reader.storyCancelled.heading': 'ملغى',
-    'reader.nextChapterEstimation.verySoon': 'بناءً على تواريخ النشر لآخر {chaptersCount} فصل، من المتوقع أن يتم إصدار الفصل التالي قريبًا جدًا.',
-    'reader.nextChapterEstimation.days': 'بناءً على تواريخ النشر لآخر {chaptersCount} فصل، يجب أن يكون الفصل التالي متاحًا في حوالي {daysLeft} يومًا.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
 };
