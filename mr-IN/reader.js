@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'लेखक ही कथा वर्तमानपत्रापासून ब्रेक घेतली आहे आणि ही कथा ही आता हायेटसच्या अवधीत आहे. एका महिन्यात किंवा दोन महिन्यात नंतर परत तपासा.',
     'reader.storyCancelled': 'दुर्दैवी ही आहे. लवकरच एक नवीन गोष्टी नसेल कारण ही कथा रद्द केली आहे आणि संभवतः नयेही काहीतरी असणार नाही.',
     'reader.storyCancelled.heading': 'रद्द केलं.',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'ही कथा एकाच अध्यायांपेक्षा अधिक असेल तेव्हा म्हणजे या कथेच्या पुढच्या अध्यायाची तारीख आपल्याला पुरवठा करणारी आहे.'
 };
