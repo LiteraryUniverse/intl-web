@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'লেখকটি এখনই এই গল্প থেকে বিরত হয়েছেন এবং এই গল্পটি এখন বিশ্রামের জন্যই সময়সীমার মধ্যে রয়েছে। এক মাস বা দুই মাস পরে আবার দেখতে হবে।',
     'reader.storyCancelled': 'দুর্ভাগ্যবশত এটি শেষ। গল্পটি বাতিল হয়েছে এবং মাত্র এই জন্য এখানে কিছু নতুন হবার সম্ভাবনা কম।',
     'reader.storyCancelled.heading': 'বাতিল হয়েছে',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'শেষ {chaptersCount, number} টি অধ্যায়ের প্রকাশের তারিখ উপস্থিত হলে, পরবর্তী অধ্যায়টি খুব শীঘ্রই মুক্ত হবে।',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'এই গল্পে একটি অধ্যায়ের বেশি হওয়ায়, পরবর্তী অধ্যায়ের প্রকাশের তথ্য আমরা প্রদান করব।'
 };
