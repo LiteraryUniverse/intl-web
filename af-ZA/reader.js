@@ -10,7 +10,7 @@ export default {
     'chapter.next': 'Next chapter',
     'chapter.previous': 'Previous chapter',
     'chapter.comment': 'Comments on this chapter',
-    'reader.language': 'Language:',
+    'reader.language': 'Taal:',
     'reader.fullscreen.enter': 'Enter fullscreen',
     'reader.fullscreen.exit': 'Exit fullscreen',
     'reader.details.universe': 'Universe details',
@@ -30,7 +30,10 @@ export default {
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
     'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyOnHiatus': 'Die skrywer neem tans \'n pouse van hierdie storie en die storie is vir nou op skorsing. Kom terug oor \'n maand of twee.',
+    'reader.storyCancelled': 'Ongelukkig is dit alles. Die storie is gekanselleer, so dit is onwaarskynlik dat daar iets nuuts gaan wees.',
+    'reader.storyCancelled.heading': 'Gekanselleer',
+    'reader.nextChapterEstimation.verySoon': 'Gebaseer op die laaste {chaptersCount} hoofstukke se publikasiedatum sal die volgende hoofstuk baie binnekort uitkom.',
+    'reader.nextChapterEstimation.days': 'Gebaseer op die laaste {chaptersCount} hoofstukke se publikasiedatum sal die volgende hoofstuk oor {daysLeft} dae uitkom.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Ons sal ook \'n skatting gee van wanneer die volgende hoofstuk gepubliseer kan word as hierdie storie meer as een hoofstuk het.'
 };
