@@ -29,11 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Alternar o destaque do parágrafo selecionado',
     'reader.accessibility.toggleRules': 'Alternar a régua de assistência',
     'reader.nextRelease.scheduled': 'O próximo capítulo virá no {nextReleaseAt, date} às {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.storyContinues': 'A história continua...',
+    'reader.storyOnHiatus': 'O autor está atualmente dando uma pausa nesta história e ela está em hiato por enquanto. Volte daqui a um ou dois meses.',
+    'reader.storyCancelled': 'Infelizmente é isso. A história foi cancelada, então é improvável que haja algo novo.',
+    'reader.storyCancelled.heading': 'Cancelado',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Também forneceremos uma estimativa de quando o próximo capítulo poderá ser publicado assim que esta história tiver mais de um capítulo.'
 };
