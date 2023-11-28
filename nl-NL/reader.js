@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'De auteur neemt momenteel een pauze van dit verhaal en het verhaal staat tijdelijk stil. Kom over een maand of twee terug.',
     'reader.storyCancelled': 'Helaas is dit het einde. Het verhaal is geannuleerd, dus het is onwaarschijnlijk dat er iets nieuws zal zijn.',
     'reader.storyCancelled.heading': 'Geannuleerd',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Op basis van de publicatiedatums van de laatste {chaptersCount, number} hoofdstukken, wordt verwacht dat het volgende hoofdstuk zeer binnenkort wordt uitgebracht.',
+    'reader.nextChapterEstimation.days': 'Op basis van de publicatiedatums van de laatste {chaptersCount, number} hoofdstukken, zou het volgende hoofdstuk naar verwachting beschikbaar zijn binnen ongeveer {daysLeft, plural, one {1 dag} other {# dagen}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Zodra dit verhaal meer dan één hoofdstuk heeft, zullen we ook een schatting geven van wanneer het volgende hoofdstuk gepubliceerd kan worden.'
 };
