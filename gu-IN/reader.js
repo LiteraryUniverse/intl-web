@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'લેખક હવે આ કથાની થોડો વખત મુકવામાં છે અને હવે આ કથા પ્રાથમિકતા માટે સમય સુથારવાવામાં છે. એક મહિનોમાં અથવા બે મહિનામાં આગળ ચેક કરો.',
     'reader.storyCancelled': 'દુઃખે એ આ અંત છે. કથા રદ કરી દેવાઈ છે તેથી પ્રશ્ન છે કે તેમની પાસે નવી વસ્તુ કેટલાક છે તે પ્રસંગિત છે.',
     'reader.storyCancelled.heading': 'રદ થયેલ',
-    'reader.nextChapterEstimation.verySoon': 'છેલ્લી {chaptersCount} અધ્યાયની પ્રકાશન તારીખ પર આધાર રાખીને આગળના અધ્યાય ખૂબ જલદી બહાર આવશે.',
-    'reader.nextChapterEstimation.days': 'છેલ્લી {chaptersCount} અધ્યાયની પ્રકાશન તારીખ પર આધાર રાખીને આગળના અધ્યાય આવશે {daysLeft} દિવસે',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
     'reader.nextChapterEstimation.notEnoughChapters': 'કેવળ એક અધ્યાયથી વધુ હોય ત્યારે આ કથાની આગામી અધ્યાય કયારે પ્રકાશિત થશે તેની અનુમાનિત સમયગાળો પણ આપવીશું.'
 };
