@@ -29,11 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.storyContinues': 'கதை தொடருகிறது...',
+    'reader.storyOnHiatus': 'இந்த கதையமாக மின்னஞ்சல் லிங்கு வரும்போது ஆசிரியர் ஒரு அனுபவத்தை எடுத்து தற்போது இந்த கதை உலகப் பொருள் அல்லது ஒருமுறை அரியாமையாக உள்ளது என்பதை ஓர் மாதத்தின் பின் சரிபார்க்கிறோம். மூணு மாதங்களோ அதன் மேலானகாலத்தில் புதியது ஏதும் ஏதும் வரை எதுவும் சந்திக்கப்படாது.',
+    'reader.storyCancelled': 'இது முடிவடைந்தது என்பதில் மரியாதையும் நிகழ்ச்சியமும் அன்பு இல்லாமல் செல்கின்றது. உருப்படிகள் முதன்முதலில் சரியான ஸ்தானத்தில் உள்ள தரவை இந்த கதையில் ஒன்றும் இருக்காது.',
+    'reader.storyCancelled.heading': 'ரத்துசெய்யப்பட்டுள்ளது',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'இந்த கதையில் மேலும் ஒரு அத்தியாயம் உள்ள போது அடுத்த அத்தியாயம் எப்போது வெளியிடப்பட முடியும் என்பது நாம் தரவினையும் உள்ளமையும் அறிந்த பின் தெரியும்.'
 };
