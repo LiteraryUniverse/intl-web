@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Наразі автор(ка) бере перерву у роботі над цією історією. Повертайтеся через місяць-два.',
     'reader.storyCancelled': 'На жаль, це все. Роботу над цією історією припинено, тож навряд чи буде щось нове.',
     'reader.storyCancelled.heading': 'Припинено',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Ми також надамо оцінку того, коли наступний розділ може бути опублікований, якщо ця історія має більше одного розділу.'
 };
