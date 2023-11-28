@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'В настоящее время автор делает перерыв в работе над этой историей, и пока что эта история находится на перерыве. Загляните через месяц или два.',
     'reader.storyCancelled': 'К сожалению, на этом всё. История отменена, так что вряд ли будет что-то новое.',
     'reader.storyCancelled.heading': 'Отменено',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Мы также предоставим приблизительную дату публикации следующей главы, когда в этом рассказе будет больше одной главы.'
 };
