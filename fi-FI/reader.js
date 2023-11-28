@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Kirjailija pitää tällä hetkellä taukoa tästä tarinasta, ja tarina on toistaiseksi tauolla. Tarkista uudelleen kuukauden tai kahden kuluttua.',
     'reader.storyCancelled': 'Valitettavasti tämä on kaikki. Tarina on peruutettu, joten uutta sisältöä ei todennäköisesti tule.',
     'reader.storyCancelled.heading': 'Peruutettu',
-    'reader.nextChapterEstimation.verySoon': 'Viimeisen {chaptersCount} julkaistun luvun perusteella seuraavan luvun pitäisi ilmestyä hyvin pian.',
-    'reader.nextChapterEstimation.days': 'Viimeisen {chaptersCount} julkaistun luvun perusteella seuraavan luvun pitäisi ilmestyä {daysLeft} päivän kuluttua',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Kun tarinalla on enemmän kuin yksi luku, annamme myös arvion siitä, milloin seuraava luku saattaisi ilmestyä.'
 };
