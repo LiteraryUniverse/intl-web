@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'കഥാപാത്രം ഇപ്പോൾ ഒരു വിശ്രമത്തിന് വരെ അടുക്കുമെന്ന് അഭിപ്രായിക്കുന്നു ആൻ നിയന്ത്രിക്കുക. ഈ കഥയൊരു മാസത്തിനും രണ്ട് മാസത്തിനും പിന്നെ തന്നെ മുതലാവും. അങ്ങനെയുള്ളത് ഒന്നും ഇല്ലാതാക്കപ്പെട്ടു.',
     'reader.storyCancelled': 'ദു:ഖപൂർണ്ണമായും ഇതെന്നാൽ മാത്രമാണ്. കഥ റദ്ദാക്കപ്പെട്ടതുകാൽ ഏതെങ്കിലും പുതിയതും ഒന്നും തന്നെ ഉണ്ടാവുകയില്ലെന്ന് ആശംസിക്കുന്നവരാണ്.',
     'reader.storyCancelled.heading': 'റദ്ദാക്കിയിരിക്കുന്നു',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'ഈ കഥയിൽ 1 അദ്ധ്യായംകൂടാതെ മറ്റൊന്നും ഇല്ലാതാകുന്നതിനു ശേഷം പുതിയ അദ്ധ്യായം പ്രസിദ്ധീകരിക്കപ്പെടുന്നതിനോടുള്ള ഒരു അംഗീകാരം നൽകുന്നു.'
 };
