@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Autorius šiuo metu pertrauką ima nuo šios istorijos ir ši istorija dabar yra sustabdyta. Patikrinkite po mėnesio ar dviejų.',
     'reader.storyCancelled': 'Deja, tai yra tai. Istorija buvo atšaukta, todėl mažai tikėtina, kad atsiras ką nors naujo.',
     'reader.storyCancelled.heading': 'Atšaukta',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Remiantis paskutinių {chaptersCount, number} skyrių leidimo datomis, kitas skyrius turėtų būti išleistas labai netrukus.',
+    'reader.nextChapterEstimation.days': 'Remiantis paskutinių {chaptersCount, number} skyrių leidimo datomis, kitas skyrius turėtų būti prieinamas apytiksliai per {daysLeft, plural, one {1 dieną} other {# dienas}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Kai ši istorija turės daugiau nei vieną skyrių, taip pat pateiksime įvertinimą, kada gali būti publikuojamas kitas skyrius.'
 };
