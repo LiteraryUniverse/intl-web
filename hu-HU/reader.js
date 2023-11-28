@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Az író jelenleg szünetet tart ebben a történetben, és ez a történet jelenleg szünetel. Jöjjön vissza egy vagy két hónap múlva ellenőrizni.',
     'reader.storyCancelled': 'Sajnos ez minden. A történetet törölték, szóval valószínűleg nem lesz semmi új.',
     'reader.storyCancelled.heading': 'Törölt',
-    'reader.nextChapterEstimation.verySoon': 'A legutóbbi {chaptersCount} fejezet közzétételi dátumai alapján a következő fejezet hamarosan megjelenik.',
-    'reader.nextChapterEstimation.days': 'A legutóbbi {chaptersCount} fejezet közzétételi dátumai alapján a következő fejezet várhatóan {daysLeft} nap múlva lesz elérhető.',
+    'reader.nextChapterEstimation.verySoon': 'A legutóbbi {chaptersCount, number} fejezetek megjelenési dátuma alapján a következő fejezet hamarosan elérhetővé válik.',
+    'reader.nextChapterEstimation.days': 'A legutóbbi {chaptersCount, number} fejezetek megjelenési dátuma alapján a következő fejezet várhatóan {daysLeft, plural, one {1 nap múlva lesz elérhető} other {# nap}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Az következő fejezet várható közzétételének időpontját is megadunk, amint ez a történet több fejezetet tartalmaz.'
 };
