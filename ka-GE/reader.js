@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'To be continued...',
     'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
     'chapter.translation.notYetDescription': 'Check back again soon!',
-    'reader.externalShopping.heading': 'Buy {storyName} in stores:',
+    'reader.externalShopping.heading': 'ყიდვა {storyName} მაღაზიაში:',
     'chapter.next': 'Next chapter',
     'chapter.previous': 'Previous chapter',
     'chapter.comment': 'Comments on this chapter',
@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Toggle accessibility',
     'chapter.translation.notYet': 'This chapter has not yet been translated.',
     'externalShopping.buyLink.amazon': 'Buy on Amazon',
-    'externalShopping.buyLink.other': 'Buy on {storeName}',
+    'externalShopping.buyLink.other': 'ყიდვა {storeName}',
     'externalShopping.buyLink.bookshop': 'Buy on Bookshop.org',
     'reader.accessibility.aria': 'Accessibility options',
     'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'მოსაწყრელია ავტორი მოცემული სიმართლეს გააჩნიათ და ეს სიმართლე დრომდე გაჩნდება. მოგვიანებით ერთი-ორი თვის შემდეგ ისეთ სიმართლეზე კიდევ არ იქნება არჩეული.',
     'reader.storyCancelled': 'საწყისშია. სიმართლე გაუქმდა, ამიტომ შემოსავლოდ ახლიდან საკმაოდ არასადამეგობრებელია რაიმე ახალი რამ.',
     'reader.storyCancelled.heading': 'გაუქმებულია',
-    'reader.nextChapterEstimation.verySoon': 'ბოლო {chaptersCount} თავის გამოცემის თარიღზე მიხედვით შემდეგი თავის გამოცემა უკვე ძალიან მალე გამოიწვეთ.',
-    'reader.nextChapterEstimation.days': 'ბოლო {chaptersCount} თავის გამოცემის თარიღზე მიხედვით შემდეგი თავის გამოცემა გამოიწვეთ {daysLeft} დღში.',
+    'reader.nextChapterEstimation.verySoon': 'ბოლო {chaptersCount} თარიღთი გამოქვეყნდა განმეორებების გაუმჯობესებით, შემდეგი თავისი გამოცემა გაფრთხილებულადაა.',
+    'reader.nextChapterEstimation.days': 'ბოლო {chaptersCount} თარიღთი გამოქვეყნდა განმეორებების გაუმჯობესებით, შემდეგი თავისი გამოცემა ხდება დღეებისთვის {daysLeft} შემდეგ.',
     'reader.nextChapterEstimation.notEnoughChapters': 'სიმართლე მეტი უნდა იყოს, როდესაც მოწევისთვის უკვე აქვს ერთი ან რამოდენიმე თავისი გამოცალინი.'
 };
