@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Penulis sedang beristirahat sejenak dari kisah ini dan kisah ini sedang berhenti sekarang. Kembali lagi dalam satu atau dua bulan.',
     'reader.storyCancelled': 'Sayang sekali ini saja. Kisahnya telah dibatalkan jadi tidak mungkin akan ada yang baru.',
     'reader.storyCancelled.heading': 'Dibatalkan',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Berdasarkan tarikh penerbitan bagi {chaptersCount, number} bab terakhir, bab seterusnya dijangka akan dikeluarkan tidak lama lagi.',
+    'reader.nextChapterEstimation.days': 'Berdasarkan tarikh penerbitan bagi {chaptersCount, number} bab terakhir, bab seterusnya harus tersedia dalam lebih kurang {daysLeft, plural, one {1 hari} other {hari}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Kami juga akan memberikan perkiraan kapan bab berikutnya mungkin akan diterbitkan begitu kisah ini memiliki lebih dari satu bab.'
 };
