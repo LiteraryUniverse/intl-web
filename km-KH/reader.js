@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'អ្នកនិពន្ទោះកើតឡើងស្ថាប់ពីរបៀបក្លះដំណើរស្ម័គ្រប់នេរ។ រឿងនឹងរងនៅសប្តាហ៍មួយឬពីរថ្ងៃ។',
     'reader.storyCancelled': 'ស្ថាប់ដែលគ្មានសរសេរអំពីររឿងនេះបានប្រុងប្រយែត។ រឿងនឹងរងមិននៅទីនេះប្រពន្ធដែរទេ។',
     'reader.storyCancelled.heading': 'បានលុប',
-    'reader.nextChapterEstimation.verySoon': 'មានអ្វីខាតបុកប្រព័ន្ធពីពិចារណាមួយនៃកម្រិតក្រោយ {chaptersCount} ដែលបានបែកគ្នា, សេចក្ដីបញ្ជូនប្រាកដនេះគួរតែចាប់ផ្តើមដោយយូរទាប់ពីយប់។',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'លើកលែង​ពី​ការ​បោះពុម្ព {chaptersCount, number} ចុងក្រោយរបស់ជំរិះទីនេះ ការបោះពុម្ពបន្ទាប់មក​គឺត្រូវបានចេញជាមួយ ពួកថ្ងៃព្រហសរបស់ជំរិះទីនេះ.',
+    'reader.nextChapterEstimation.days': 'លើកលែង​ពី​ការ​បោះពុម្ព {chaptersCount, number} ចុងក្រោយរបស់ជំរិះទីនេះ ការបោះពុម្ពបន្ទាប់មក​គឺអាចទទួលបាននៅក្នុងរយៈពេល {daysLeft, plural, one {ថ្ងៃ} other {សប្ដាហ៍}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'ព័ត៌មាននេះនឹងត្រូវបានផ្តល់ថ្លៃមួយពេលដែលរឿងនេះមានច្រើនជាងរួចហើយ។'
 };
