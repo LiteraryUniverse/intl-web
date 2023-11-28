@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'ರಚಯಿತೆ ಈ ಕಥೆಯಿಂದ ತಾನು ಈಗ ವಿಶ್ರಮಣೆ ಪಡುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಈ ಕಥೆಗೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಲ್ಲಿಸಲಾಗಿದೆ. ಮೇಲೆ ಒಂದು ತಿಂಗಳು ಅಥವಾ ಎರಡು ತಿಂಗಳಲ್ಲಿ ಹಿಂತಿರುಗಿ ನೋಡಿ.',
     'reader.storyCancelled': 'ದುಃಖದಾರಿಯಾಗಿ ಇದು. ಕಥೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಯಿತು, ಆದುದರಿಂದ ಹೊಸದೊಂದು ಮಾಹಿತಿ ಬರಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ನಿಶ್ಚಯಿಸಲಾಗಿದೆ.',
     'reader.storyCancelled.heading': 'ರದ್ದುಗೊಳ್ಳಲಾಗಿದೆ',
-    'reader.nextChapterEstimation.verySoon': 'ಕೊನೆಯ {chaptersCount} ಅಧ್ಯಾಯಗಳ ಪ್ರಕಟಣೆ ದಿನಾಂಕಗಳ ಆಧಾರದಿಂದ, ಮುಂದಿನ ಅಧ್ಯಾಯವು ತುಂಬ ಬೇಗ ಬಿಡುಗಡೆಯಾಗುವಂತೆ ನಿರೀಕ್ಷಿಸಲಾಗುವುದು.',
-    'reader.nextChapterEstimation.days': 'ಕೊನೆಯ {chaptersCount} ಅಧ್ಯಾಯಗಳ ಪ್ರಕಟಣೆ ದಿನಾಂಕಗಳ ಆಧಾರದಿಂದ, ಮುಂದಿನ ಅಧ್ಯಾಯವು ಪ್ರಕಟಣೆಗೆ ಪ್ರಾಪ್ತವಾಗುವುದು ಪ್ರಕಟಣೆಗೆ ಪ್ರಾಪ್ತವಾಗುವುದು {daysLeft} ದಿನಗಳೊಳಗೆ ಲಭ್ಯವಾಗುವ ಸಾಧ್ಯತೆಯಿಂದ.',
+    'reader.nextChapterEstimation.verySoon': 'ಹಿಂದಿನ {chaptersCount, number} ಅಧ್ಯಾಯಗಳ ಪ್ರಕಟಣೆ ದಿನಾಂಕಗಳ ಆಧಾರದಿಂದ ಮುಂದಿನ ಅಧ್ಯಾಯವು ಬಹುಶಃ ತುಂಬಾ ಬೇಗ ಬರಬೇಕಾಗಿದೆ.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'ಈ ಕಥೆಗೆ ಹೆಚ್ಚು ಮೊದಲಿನ ಒಂದು ಅಧ್ಯಾಯ ಆಗಿದೆಯೇ ಇಲ್ಲವೇ ಎಂದು ನಿಶ್ಚಯಿಸಬೇಕಾಗಿ ಬಂದಾಗ, ಮುಂದಿನ ಅಧ್ಯಾಯದ ಪ್ರಕಟಣೆಯ ಅಂಕಿಗೆ ಒಂದು ಅಂಕಿಗೆ ನಿಗದಿಕೊಡುತ್ತೇವೆ.'
 };
