@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Autorul ia o pauză deocamdată de la această poveste și ea va fi întreruptă. Verifică peste o lună sau două.',
     'reader.storyCancelled': 'Din păcate, aceasta este tot. Povestea a fost anulată, deci este puțin probabil să mai apară ceva nou.',
     'reader.storyCancelled.heading': 'Anulat',
-    'reader.nextChapterEstimation.verySoon': 'Bazat pe datele de publicare ale ultimelor {chaptersCount} capitole, urmatorul capitol este de asteptat sa fie lansat foarte curand.',
-    'reader.nextChapterEstimation.days': 'Bazat pe datele de publicare ale ultimelor {chaptersCount} capitole, urmatorul capitol ar trebui sa fie disponibil in aproximativ {daysLeft} zile.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Vom oferi și o estimare a momentului în care următorul capitol ar putea fi publicat odată ce această poveste va avea mai mult de un capitol.'
 };
