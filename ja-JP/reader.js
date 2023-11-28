@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': '現在、この物語の著者は休憩中であり、この物語は現在休止状態です。1ヶ月または2ヶ月後に再度チェックしてください。',
     'reader.storyCancelled': '残念ながらこれで終了です。物語は中止されたため、新しい情報はないでしょう。',
     'reader.storyCancelled.heading': 'キャンセル',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': '過去の {chaptersCount, number} 章の投稿日に基づいて、次の章は非常に近いうちにリリースされる予定です。',
+    'reader.nextChapterEstimation.days': '過去の {chaptersCount, number} 章の投稿日に基づいて、次の章はおおよそ {daysLeft, plural, one {1日} other {日後に利用可能となります}}。',
     'reader.nextChapterEstimation.notEnoughChapters': 'この物語に複数のチャプターがある場合、次のチャプターがいつ公開されるかの見積もりも提供します。'
 };
