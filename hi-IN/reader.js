@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
     'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
     'reader.storyCancelled.heading': 'रद्द',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'पिछले {chaptersCount, number} अध्यायों के प्रकाशन तिथियों के आधार पर, अगला अध्याय बहुत जल्द ही जारी होने की संभावना है।',
+    'reader.nextChapterEstimation.days': 'पिछले {chaptersCount, number} अध्यायों के प्रकाशन तिथियों के आधार पर, अगले अध्याय के लिए लगभग {daysLeft, plural, one {1 दिन} other {दिनों}}में उपलब्ध होना चाहिए।',
     'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
 };
