@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': '作者目前正在休息此故事，故此故事暫停。請再過一個月或兩個月來查看。',
     'reader.storyCancelled': '很遺憾，這是結束了。這個故事已被取消，因此不太可能會有新的內容。',
     'reader.storyCancelled.heading': '已取消',
-    'reader.nextChapterEstimation.verySoon': '根据前 {chaptersCount} 章的出版日期，预计下一章将很快发布。',
-    'reader.nextChapterEstimation.days': '根据前 {chaptersCount} 章的出版日期，预计下一章将在大约 {daysLeft} 天内可用。',
+    'reader.nextChapterEstimation.verySoon': '基於最近 {chaptersCount, number} 章節的發布日期，下一章預計很快就會發布。',
+    'reader.nextChapterEstimation.days': '基於最近 {chaptersCount, number} 章節的發布日期，下一章預計在大約 {daysLeft, plural, one {1天} other {天}}後可用。',
     'reader.nextChapterEstimation.notEnoughChapters': '一旦這個故事有超過一章時，我們也會提供下一章可能發布的一個估計。'
 };
