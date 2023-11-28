@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'ಕಥೆ ಮುಂದುವರೆಯುತ್ತದೆ...',
+    'reader.storyOnHiatus': 'ರಚಯಿತೆ ಈ ಕಥೆಯಿಂದ ತಾನು ಈಗ ವಿಶ್ರಮಣೆ ಪಡುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಈ ಕಥೆಗೆ ತಾತ್ಕಾಲಿಕವಾಗಿ ನಿಲ್ಲಿಸಲಾಗಿದೆ. ಮೇಲೆ ಒಂದು ತಿಂಗಳು ಅಥವಾ ಎರಡು ತಿಂಗಳಲ್ಲಿ ಹಿಂತಿರುಗಿ ನೋಡಿ.',
+    'reader.storyCancelled': 'ದುಃಖದಾರಿಯಾಗಿ ಇದು. ಕಥೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಯಿತು, ಆದುದರಿಂದ ಹೊಸದೊಂದು ಮಾಹಿತಿ ಬರಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ನಿಶ್ಚಯಿಸಲಾಗಿದೆ.',
+    'reader.storyCancelled.heading': 'ರದ್ದುಗೊಳ್ಳಲಾಗಿದೆ',
+    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
+    'reader.nextChapterEstimation.notEnoughChapters': 'ಈ ಕಥೆಗೆ ಹೆಚ್ಚು ಮೊದಲಿನ ಒಂದು ಅಧ್ಯಾಯ ಆಗಿದೆಯೇ ಇಲ್ಲವೇ ಎಂದು ನಿಶ್ಚಯಿಸಬೇಕಾಗಿ ಬಂದಾಗ, ಮುಂದಿನ ಅಧ್ಯಾಯದ ಪ್ರಕಟಣೆಯ ಅಂಕಿಗೆ ಒಂದು ಅಂಕಿಗೆ ನಿಗದಿಕೊಡುತ್ತೇವೆ.'
 };
