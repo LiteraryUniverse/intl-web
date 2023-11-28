@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'Ang kwento ay patuloy...',
+    'reader.storyOnHiatus': 'Sa kasalukuyan, ang may-akda ay nagpapahinga muna sa kwentong ito at pansamantalang hindi ito maipapagpatuloy. Tignan muli ito pagkatapos ng isang buwan o dalawa.',
+    'reader.storyCancelled': 'Sa kasamaang palad, ito na ang wakas. Itinigil na ang kwento kaya malamang wala nang bago dito.',
+    'reader.storyCancelled.heading': 'Itinigil',
+    'reader.nextChapterEstimation.verySoon': 'Batay sa petsa ng huling {chaptersCount} na publikadong kabanata, dapat lumabas na ang susunod na kabanata nang napakasoon.',
+    'reader.nextChapterEstimation.days': 'Batay sa petsa ng huling {chaptersCount} na publikadong kabanata, dapat lumabas na ang susunod na kabanata sa loob ng {daysLeft} araw',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Magbibigay din kami ng taya kung kailan maaaring mai-publish ang susunod na kabanata kapag mayroon nang higit sa isang kabanata ang kwentong ito.'
 };
