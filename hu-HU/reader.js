@@ -28,12 +28,12 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'Bekezdések háttérváltoztatásának kapcsolása',
     'reader.accessibility.toggleParagraphHighlight': 'Kijelölt bekezdés kiemelésének kapcsolása',
     'reader.accessibility.toggleRules': 'Segédrács kapcsolása',
-    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
+    'reader.nextRelease.scheduled': 'A következő fejezet megjelenése {nextReleaseAt, date} napján várható, {nextReleaseAt, time}!',
     'reader.storyContinues': 'A történet folytatódik...',
     'reader.storyOnHiatus': 'Az író jelenleg szünetet tart ebben a történetben, és ez a történet jelenleg szünetel. Jöjjön vissza egy vagy két hónap múlva ellenőrizni.',
     'reader.storyCancelled': 'Sajnos ez minden. A történetet törölték, szóval valószínűleg nem lesz semmi új.',
     'reader.storyCancelled.heading': 'Törölt',
-    'reader.nextChapterEstimation.verySoon': 'A legutolsó {chaptersCount} fejezet publikálásának dátuma alapján a következő fejezet nagyon hamar megjelenik.',
-    'reader.nextChapterEstimation.days': 'A legutolsó {chaptersCount} fejezet publikálásának dátuma alapján a következő fejezet {daysLeft} nap múlva jelenik meg.',
+    'reader.nextChapterEstimation.verySoon': 'A legutóbbi {chaptersCount} fejezet közzétételi dátumai alapján a következő fejezet hamarosan megjelenik.',
+    'reader.nextChapterEstimation.days': 'A legutóbbi {chaptersCount} fejezet közzétételi dátumai alapján a következő fejezet várhatóan {daysLeft} nap múlva lesz elérhető.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Az következő fejezet várható közzétételének időpontját is megadunk, amint ez a történet több fejezetet tartalmaz.'
 };
