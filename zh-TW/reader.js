@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': '故事持續中...',
+    'reader.storyOnHiatus': '作者目前正在休息此故事，故此故事暫停。請再過一個月或兩個月來查看。',
+    'reader.storyCancelled': '很遺憾，這是結束了。這個故事已被取消，因此不太可能會有新的內容。',
+    'reader.storyCancelled.heading': '已取消',
+    'reader.nextChapterEstimation.verySoon': '根據最後 {chaptersCount} 章的發布日期，下一章應該很快就會出來。',
+    'reader.nextChapterEstimation.days': '根據最後 {chaptersCount} 章的發布日期，下一章應該在 {daysLeft} 天內出來',
+    'reader.nextChapterEstimation.notEnoughChapters': '一旦這個故事有超過一章時，我們也會提供下一章可能發布的一個估計。'
 };
