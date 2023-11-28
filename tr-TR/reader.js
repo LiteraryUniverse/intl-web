@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Yazar şu anda hikayeden ara veriyor ve bu hikaye şu anda ara vermiştir. Bir ay veya iki içinde tekrar kontrol edin.',
     'reader.storyCancelled': 'Ne yazık ki, bu kadar. Hikaye iptal edildi, bu yüzden yeni bir şey olması olası değil.',
     'reader.storyCancelled.heading': 'İptal Edildi',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Son {chaptersCount, number} bölümün yayın tarihlerine göre, bir sonraki bölüm çok yakında yayınlanacak.',
+    'reader.nextChapterEstimation.days': 'Son {chaptersCount, number} bölümün yayın tarihlerine göre, bir sonraki bölüm yaklaşık olarak {daysLeft, plural, one {1 gün içinde mevcut olmalıdır} other {# gün}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Bu hikaye birkaç bölümden fazlası olduğunda, bir sonraki bölümün ne zaman yayınlanabileceği konusunda bir tahmin de vereceğiz.'
 };
