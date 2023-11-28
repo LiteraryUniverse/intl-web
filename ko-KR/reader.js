@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': '작가님은 현재 이 작품에서 휴식 중이며, 이 작품은 잠시 휴재 중입니다. 한 달 또는 두 달 후에 다시 확인하십시오.',
     'reader.storyCancelled': '안타깝게도 이게 다야. 이야기는 취소되었으니 새로운 것은 있을 가능성이 희박하다.',
     'reader.storyCancelled.heading': '취소됨',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': '이 작품에 한 장 이상이 있을 때 다음 장이 출간될 예정을 제공할 것입니다.'
 };
