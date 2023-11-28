@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Ο συγγραφέας αυτή την περίοδο κάνει διάλειμμα από αυτή την ιστορία και αυτή η ιστορία είναι προσωρινά σε παύση. Ελέγξτε ξανά σε έναν μήνα ή δύο.',
     'reader.storyCancelled': 'Δυστυχώς αυτό είναι όλο. Η ιστορία έχει ακυρωθεί, οπότε είναι απίθανο να υπάρξει κάτι καινούργιο.',
     'reader.storyCancelled.heading': 'Ακυρωμένο',
-    'reader.nextChapterEstimation.verySoon': 'Βασιζόμενοι στις ημερομηνίες δημοσίευσης των τελευταίων {chaptersCount} κεφαλαίων, το επόμενο κεφάλαιο αναμένεται να κυκλοφορήσει πολύ σύντομα.',
-    'reader.nextChapterEstimation.days': 'Βασιζόμενοι στις ημερομηνίες δημοσίευσης των τελευταίων {chaptersCount} κεφαλαίων, το επόμενο κεφάλαιο θα είναι διαθέσιμο σε περίπου {daysLeft} ημέρες.',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Θα παρέχουμε επίσης μια εκτίμηση για το πότε μπορεί να δημοσιευτεί το επόμενο κεφάλαιο αφού αυτή η ιστορία έχει περισσότερα από ένα κεφάλαια.'
 };
