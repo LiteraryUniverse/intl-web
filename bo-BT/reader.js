@@ -29,11 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.storyContinues': 'སྙན་ཞིག་ལྷུག་ཐོར་ལ།',
+    'reader.storyOnHiatus': 'གསར་ཅོའི་གནས་བསྡུ་བདེན་པ་རོགས་པ། སྙན་ཞིག་ཟག་ན་བསྡུ་བདེན་ལ།',
+    'reader.storyCancelled': 'ཁྱེད་ཀྱིས་བྱ་རྒྱུ་ཤོག་འདི་འདི་བཟོ་ནི་ཡོད་དོ། སྙན་ཞིག་འདི་བཏོན་སྦྱོང་བའི་ཡོད་པའི་བརྗོད་གནས་བྱས་ཟིན་པ་དང་མཉེས་པ་སོགས་རམ་ལས་འདུག',
+    'reader.storyCancelled.heading': 'བརྗོད་གན།',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'འགྱུར་ཡུལ་དང་ཤུ་ཨེ་བརྗོད་གནས་སྤྱོད་པའི་བསྗོད་འབད་པའི་དོགས་པ་སོགས་དང་ནང་བདེའགས་དོན་གང་རུང་གི་རྡོ་བདག་སྟེ་བསྡུ་བསྐུལ་འདེམས་ཁེལ་ནང་དེ་ཡོད་པ་ལག་གསོ་བརྐྱབས་རྫོགས་བཞིན་མ་འོངས་པ་ཡོད།'
 };
