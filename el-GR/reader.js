@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'Η ιστορία συνεχίζεται...',
+    'reader.storyOnHiatus': 'Ο συγγραφέας αυτή την περίοδο κάνει διάλειμμα από αυτή την ιστορία και αυτή η ιστορία είναι προσωρινά σε παύση. Ελέγξτε ξανά σε έναν μήνα ή δύο.',
+    'reader.storyCancelled': 'Δυστυχώς αυτό είναι όλο. Η ιστορία έχει ακυρωθεί, οπότε είναι απίθανο να υπάρξει κάτι καινούργιο.',
+    'reader.storyCancelled.heading': 'Ακυρωμένο',
+    'reader.nextChapterEstimation.verySoon': 'Με βάση την ημερομηνία δημοσίευσης των τελευταίων {chaptersCount} κεφαλαίων, το επόμενο κεφάλαιο θα πρέπει να είναι διαθέσιμο πολύ σύντομα.',
+    'reader.nextChapterEstimation.days': 'Με βάση την ημερομηνία δημοσίευσης των τελευταίων {chaptersCount} κεφαλαίων, το επόμενο κεφάλαιο θα πρέπει να είναι διαθέσιμο σε {daysLeft} ημέρα',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Θα παρέχουμε επίσης μια εκτίμηση για το πότε μπορεί να δημοσιευτεί το επόμενο κεφάλαιο αφού αυτή η ιστορία έχει περισσότερα από ένα κεφάλαια.'
 };
