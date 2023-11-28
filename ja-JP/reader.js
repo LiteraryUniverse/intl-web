@@ -30,10 +30,10 @@ export default {
     'reader.accessibility.toggleRules': 'アシストルーラーをトグルする',
     'reader.nextRelease.scheduled': '次の章は、{nextReleaseAt, date}の{nextReleaseAt, time}に公開予定です!',
     'reader.storyContinues': '物語は続く・・・',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled',
-    'reader.nextChapterEstimation.verySoon': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the last {chaptersCount} chapters publish date the next chapter should be out in {daysLeft} days',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.storyOnHiatus': '現在、この物語の著者は休憩中であり、この物語は現在休止状態です。1ヶ月または2ヶ月後に再度チェックしてください。',
+    'reader.storyCancelled': '残念ながらこれで終了です。物語は中止されたため、新しい情報はないでしょう。',
+    'reader.storyCancelled.heading': 'キャンセル',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'この物語に複数のチャプターがある場合、次のチャプターがいつ公開されるかの見積もりも提供します。'
 };
