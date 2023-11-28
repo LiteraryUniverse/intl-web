@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'הסופר כרגע לוקח הפסקה מהסיפור הזה והסיפור הזה בפועל בהשהייה עכשיו. מומלץ לחזור עוד חודש או שניים.',
     'reader.storyCancelled': 'לצערנו זהו הסוף. הסיפור בוטל אז כנראה שאין יכולת לצפות יותר לשום דבר חדש.',
     'reader.storyCancelled.heading': 'לא נמשך',
-    'reader.nextChapterEstimation.verySoon': 'מבוסס על התאריך הפרסום האחרון של {chaptersCount} פרקים הסדרה הבאה צפויה בקרוב מאוד.',
-    'reader.nextChapterEstimation.days': 'מבוסס על התאריך הפרסום האחרון של {chaptersCount} פרקים הסדרה הבאה צפויה תוך {daysLeft} ימים',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount} chapters, the next chapter should be available in approximately {daysLeft} days.',
     'reader.nextChapterEstimation.notEnoughChapters': 'אנו נספק ערך משוער לכאשר הפרק הבא עשוי להתפרסם כאשר יהיה לסיפור זה יותר מפרק אחד.'
 };
