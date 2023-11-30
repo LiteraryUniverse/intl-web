@@ -5,53 +5,54 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'নতুন ব্লগ তৈরি কৰক',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ব্লগটো}
+    universe {ইউনিভার্সৰ পৃষ্ঠা}
+    user {ব্লগটো}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  } ছেটিংস`,
+    'blog.description': 'ব্লগ পরিচিতি',
+    'blog.theme': 'থিম',
+    'blog.theme.info': 'পাতৰ বুতাম সলনি কৰাৰ মাধ্যমে আপুনি পৃষ্ঠাটোৰ চেহাৰা সলনি কৰিব পাৰিবে। এই বৈশিষ্ট্য এই সময়তে লভ্য নহয়।',
+    'blog.posts.total': `এই ব্লগত {total, plural,
+    zero {কোনো প'ষ্ট}
+    one {এটা পোষ্ট}
+    other {# প'ষ্ট আছে}
+  } ।`,
+    'blog.post.create': 'নতুন পোষ্ট তৈরি কৰক',
+    'blog.post.update': 'সম্পাদনা কৰা হৈছে {title}',
+    'blog.post.text': 'পোষ্ট পাঠ',
+    'common.slug': 'SEO বন্ধুত্বপূৰ্ণ ঠিংগ নাম',
+    'blog.slug.explained': 'পোষ্টৰ বালে মনোৱেত দুটা "-"ৰ বাহিৰত বিশেষ চিহ্ন ব্যৱহাৰ কৰক৷',
+    'blog.publicView': 'সাধাৰণ পৰিদৰ্শন',
+    'blog.post.notfound': 'ব্লগ পোষ্ট পোৱা নহয়',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Standalone stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'এইয়াবলগত আলাপিটা গথালৈ থকা দিনবন্ধু কাহিনীসমূহ উপস্থিত থাকে, যদি কোনো কাহিনীটো এক নক্ষত্ অংশৰ হিচাপে লিখা হয় হৈছে তেনে তা নক্ষত্ পৃষ্ঠাৰ চাপৰিত দেখা পোৱা যায়।',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.social.website': 'আধিকাৰিক ওয়েবচাইট',
+    'blog.settings.universeSettings': 'ইউনিভার্স ব্লগসমূহ ইউনিভার্স ছাইটৰ পৃষ্ঠাসমূহত সংযোজিত আছে আৰু তেয়াজকীয় কথা ইউনিভার্স ছাইটৰ সংযোজন সেটিংছত সহাওক হয়ে থাকে।',
+    'blog.settings.organizationSettings': 'সংস্থাৰ ব্লগবিলাক সংমিলিত কৰা হৈছে।',
+    'blogs.lu': 'আধিকাৰিক সাহিত্যিক ইউনিভার্স ব্লগসমূহ',
+    'blogs.featured': 'বৈশিষ্ট্যযুক্ত ব্লগসমূহ',
+    'blogs.new': 'নতুনতম ব্লগসমূহ',
+    'blogs.title': 'সাহিত্যিক ইউনিভার্সৰ ব্লগসমূহ',
+    'blogs.description': 'সাহিত্যিক ইউনিভার্স প্লেটফৰ্মত ব্লগসমূহৰ তালিকাৰণী।',
+    'blogs.visit': 'ব্লগটো দেখক',
+    'blog.settingsAria': 'সেয়াৰস কেটাগ\'ৰি ব্লগসমূহ',
+    'blog.settings.blog': 'ব্লগ',
+    'blog.settings.forum': 'মন্তৰাম',
+    'blog.post.introText': 'ভূমিকা প্ৰবন্ধ',
+    'blog.post.writtenBy': 'লিখিত হৈছে {usernameDisplay}',
+    'blog.post.writtenByFor': 'লিখিত হৈছে {usernameDisplay} আৰু {publicationName}',
+    'blog.posts.recent': 'সাম্প্ৰতিক প্ৰবন্ধসমূহ'
 };
