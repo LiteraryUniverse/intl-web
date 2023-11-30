@@ -54,5 +54,6 @@ export default {
     'blog.settings.forum': 'Форум',
     'blog.post.introText': 'Вступительный абзац',
     'blog.post.writtenBy': 'Написано {usernameDisplay}',
-    'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}'
+    'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
+    'blog.posts.recent': 'Recent posts'
 };
