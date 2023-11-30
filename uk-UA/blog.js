@@ -1,17 +1,17 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `У вас наразі немає {type, select,
+    organization {жодного блогу}
+    universe {блог для вашого всесвіту}
+    user {блог}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Створити новий блог',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Сторінка Всесвіту блогу}
+    universe {Налаштування блогу}
+    user {Блог}
     other {}
-  } settings`,
+  }`,
     'blog.description': 'Blog introduction',
     'blog.theme': 'Тема',
     'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
