@@ -13,7 +13,7 @@ export default {
     other {}
   } settings`,
     'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
+    'blog.theme': 'Тема',
     'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
@@ -49,9 +49,10 @@ export default {
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog',
     'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
+    'blog.settings.blog': 'Блог',
+    'blog.settings.forum': 'Форум',
     'blog.post.introText': 'Introduction paragraph',
     'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.posts.recent': 'Recent posts'
 };
