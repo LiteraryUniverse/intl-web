@@ -5,54 +5,54 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
-    'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
-    other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.create': 'สร้างบล็อกใหม่',
+    'blog.settings': `บล็อก {type, select,
+    org {หน้าจักรวาล}
+    universe {บล็อก}
+    user {}
+    other {การตั้งค่า}
+  }`,
+    'blog.description': 'คำนำสำหรับบล็อก',
+    'blog.theme': 'ธีม',
+    'blog.theme.info': 'การปรับแต่งธีมจะช่วยเปลี่ยนหน้าตาของหน้าเว็บได้ เดี๋ยวนี้ฟังก์ชันนี้ยังไม่พร้อมใช้งาน',
+    'blog.posts.total': `มีบล็อกนี้ไม่มีโพสต์หรือสร้างไปแล้ว {total, plural,
+    zero {โพสต์}
+    one {มีโพสต์มา 1 เรื่อง}
+    other {โพสต์}
+  } และ # โพสต์`,
+    'blog.post.create': 'สร้างโพสต์ใหม่',
+    'blog.post.update': 'แก้ไขโพสต์ {title}',
+    'blog.post.text': 'ข้อความโพสต์',
+    'common.slug': 'ที่อยู่ผ่านการจัดการ SEO',
+    'blog.slug.explained': 'URL ที่ดูดีให้กับโพสต์ อย่าใช้อักขระพิเศษนอกจาก "-"',
+    'blog.publicView': 'มุมมองสาธารณะ',
+    'blog.post.notfound': 'ไม่พบโพสต์บล็อก',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {ยูนิเวิร์ส}
+    stories {เรื่องสั้น}
+    fanfiction {งานแฟนฟิค}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'นี่คือเรื่องเล่าเป็นประกอบของเรื่องราวแยกต่างหาก ถ้าเรื่องเป็นส่วนหนึ่งของจักรวาล จะระบุไว้ในหน้าแยกของจักรวาล',
+    'blog.social.sameAsMain': `ลิงค์ทางสังคมเหมือนกับที่ตั้งค่า {type, select,
+    organization {การตั้งค่าองค์กร}
+    user {โปรไฟล์ผู้ใช้งาน}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.social.website': 'เว็บไซต์อย่างเป็นทางการ',
+    'blog.settings.universeSettings': 'บล็อกจักรวาลผสมรวมกับหน้าจักรวาลด้วยการตั้งค่าพื้นฐานจากการตั้งค่าจักรวาล',
+    'blog.settings.organizationSettings': 'บล็อกขององค์กรรวมอยู่ในหน้าขององค์กร',
+    'blogs.lu': 'บล็อกแห่งจักรวาลวรรณกรรมทางการอย่างเป็นทางการ',
+    'blogs.featured': 'บล็อกแนะนำ',
+    'blogs.new': 'บล็อกล่าสุด',
+    'blogs.title': 'บล็อกของจักรวาลวรรณกรรม',
+    'blogs.description': 'รายการบล็อกในแพลตฟอร์มจักรวาลวรรณกรรม',
+    'blogs.visit': 'เข้าชมบล็อก',
+    'blog.settingsAria': 'หมวดหมู่การตั้งค่าสำหรับบล็อก',
+    'blog.settings.blog': 'บล็อก',
+    'blog.settings.forum': 'ฟอรัม',
+    'blog.post.introText': 'ยำแถนโปรด',
+    'blog.post.writtenBy': 'เขียนโดย {usernameDisplay}',
+    'blog.post.writtenByFor': 'เขียนโดย {usernameDisplay} สำหรับ {publicationName}',
+    'blog.posts.recent': 'โพสต์ล่าสุด'
 };
