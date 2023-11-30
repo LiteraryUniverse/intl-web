@@ -52,8 +52,8 @@ export default {
     'blog.settingsAria': 'Ustawienia kategorii dla bloga',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.post.introText': 'Akapit wprowadzenia',
+    'blog.post.writtenBy': 'Napisane przez {usernameDisplay}',
+    'blog.post.writtenByFor': 'Napisane przez {usernameDisplay} dla {publicationName}',
+    'blog.posts.recent': 'Najnowsze posty'
 };
