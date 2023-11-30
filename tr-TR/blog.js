@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Şu anda {type, select,
+    organization {blogunuz yok}
+    universe {evreniniz için bir blog}
+    user {bir blog}
     other {}
   }.`,
     'blog.create': 'Create a new blog',
@@ -28,31 +28,31 @@ export default {
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Evrenler}
+    stories {Bağımsız hikayeler}
+    fanfiction {Hayran Kurgu çalışması}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Sosyal bağlantılar {type, select,
+    organization {kuruluş ayarları}
+    user {kullanıcı profiliyle aynıdır}
     other {}
   }`,
     'blog.social.website': 'Official website',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blog.settings.organizationSettings': 'Kuruluş blogları kuruluş sayfalarına entegre edilir.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
     'blogs.new': 'Newest blogs',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settingsAria': 'Blog için ayar kategorileri',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.post.introText': 'Giriş paragrafı',
+    'blog.post.writtenBy': '{usernameDisplay}tarafından yazıldı',
+    'blog.post.writtenByFor': '{usernameDisplay} tarafından {publicationName}için yazıldı',
+    'blog.posts.recent': 'Son gönderiler'
 };
