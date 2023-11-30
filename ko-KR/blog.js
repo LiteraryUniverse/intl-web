@@ -53,5 +53,6 @@ export default {
     'blog.settings.forum': '포럼',
     'blog.post.introText': '소개 단락',
     'blog.post.writtenBy': '작성자: {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.posts.recent': 'Recent posts'
 };
