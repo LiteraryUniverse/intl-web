@@ -5,54 +5,54 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'नवीन ब्लॉग तयार करा',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.description': 'ब्लॉगचे परिचय',
+    'blog.theme': 'थीम',
+    'blog.theme.info': 'पृष्ठाची दृष्टीकोन बदलायला थीम सापडल्यांना तुम्ही पृष्ठाची दिसणखाली बदलू शकता. ही वैशिष्ट्ये हे वेळेत नाहीत.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.post.create': 'नवीन प्रतिलेख तयार करा',
+    'blog.post.update': '{title}संपादन करीत आहे',
+    'blog.post.text': 'प्रतिलेख मजकूर',
+    'common.slug': 'एसईओ मित्रदर्शक पत्ता',
+    'blog.slug.explained': 'प्रतिलेखसाठी सुंदर url. "-" यासारख्या विशेष वर्णांचा वापर करण्यासाठीy टाळा.',
+    'blog.publicView': 'सार्वजनिक दृश्य',
+    'blog.post.notfound': 'ब्लॉग प्रतिलेख सापडला नाही',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Standalone stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'येथे एकाच विश्वातील स्वतंत्र कथांची यादी दिली गेली आहे, जर कथा एक विश्वाचा एक भागाच्या रूपात लिहली गेली असेल तर ही विश्व कथांची यादी विश्वाच्या पृष्ठावर दिली गेली आहे.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.social.website': 'अधिकृत वेबसाइट',
+    'blog.settings.universeSettings': 'विश्वच्या सामान्य सेटिंग्ज प्रमाणे विश्वच्या ब्लॉगे विश्वांच्या पृष्ठांमध्ये समाविष्ट करण्यात आलेले आहेत.',
+    'blog.settings.organizationSettings': 'संस्थेच्या पानांमध्ये ब्लॉग एकत्रित केलेले आहेत',
+    'blogs.lu': 'अधिकृत साहित्यिक विश्व ब्लॉगे',
+    'blogs.featured': 'वैशिष्ट्यपूर्ण ब्लॉगे',
+    'blogs.new': 'नवीनतम ब्लॉगे',
+    'blogs.title': 'साहित्यिक विश्वाला असलेले ब्लॉगे',
+    'blogs.description': 'साहित्यिक विश्व स्थळावरची ब्लॉग यादी.',
+    'blogs.visit': 'ब्लॉगला भेट द्या',
+    'blog.settingsAria': 'ब्लॉगसाठी सेटींग्ज क्यॅटेगोर्या',
+    'blog.settings.blog': 'ब्लॉग',
+    'blog.settings.forum': 'मराठीत लिहिलेले ब्लॉग',
+    'blog.post.introText': 'परिचय अनुच्छेद',
+    'blog.post.writtenBy': 'द्वारे लिहिलेले {usernameDisplay}',
+    'blog.post.writtenByFor': 'द्वारे लिहिलेले {usernameDisplay} {publicationName}प्रतिष्ठानासाठी',
+    'blog.posts.recent': 'ताज्या पोस्ट'
 };
