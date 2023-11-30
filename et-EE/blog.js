@@ -49,9 +49,10 @@ export default {
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog',
     'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
+    'blog.settings.blog': 'Blogi',
     'blog.settings.forum': 'Forum',
     'blog.post.introText': 'Introduction paragraph',
     'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.posts.recent': 'Recent posts'
 };
