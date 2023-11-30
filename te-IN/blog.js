@@ -5,54 +5,54 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'కొత్త బ్లాగ్ సృష్టించండి',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {బ్లాగ్}
+    universe {యూనివర్స్ పేజీ}
+    user {బ్లాగ్}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  } అమరికై సెట్టింగ్లు`,
+    'blog.description': 'బ్లాగ్ పరిచయం',
+    'blog.theme': 'థీమ్',
+    'blog.theme.info': 'థీమ్ సవరించడం ద్వారా మీరు పేజీ చూపించడం మారుతుంది. ఈ విశంగా ఈ విధంగా లేదు.',
+    'blog.posts.total': `ఇక్కడ ఈ బ్లాగ్లో {total, plural,
+    zero {పోస్టులు}
+    one {ఒక పోస్టు}
+    other {పోస్టులు}
+  } ఉన్నాయి.`,
+    'blog.post.create': 'కొత్త పోస్ట్ సృష్టించండి',
+    'blog.post.update': 'సవరించు {title}',
+    'blog.post.text': 'పోస్టు వచనం',
+    'common.slug': 'SEO సౌజన్యం గూర్చి చిరునామా',
+    'blog.slug.explained': 'ఉత్కృష్ట కనబడే URL పోస్టుకు. "-" తో పద్ధతి చేయది తప్పక.',
+    'blog.publicView': 'పబ్లిక్ వీక్షణ',
+    'blog.post.notfound': 'బ్లాగ్ పోస్టు కనపడలేదు',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Standalone stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'ఇక్కడ స్వతంత్ర కథలు ఉంటాయి. ఉనికి కథనం మా యూనివర్సు పేజీలో చూపించబడతాయి.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.social.website': 'అధికారిక వెబ్సైట్',
+    'blog.settings.universeSettings': 'యూనివర్స్ బ్లాగ్లు యూనివర్సు సెట్టింగ్ల నుండి అందుబాటులో ఉన్నాయి.',
+    'blog.settings.organizationSettings': 'సంఘటన బ్లాగ్లు సంఘటన సంపుటలలో ఏకీకరించబడ్డాయి.',
+    'blogs.lu': 'అధికారిక సాహిత్య యూనివర్స్ బ్లాగ్లు',
+    'blogs.featured': 'ఫీచర్ చేయబడిన బ్లాగ్లు',
+    'blogs.new': 'క్రొత్తతరమైన బ్లాగ్లు',
+    'blogs.title': 'సాహిత్య యూనివర్స్ బ్లాగ్లు',
+    'blogs.description': 'సాహిత్య యూనివర్స్ ప్లాట్‌ఫారమ్ లో ఉన్న బ్లాగ్ల జాబితా.',
+    'blogs.visit': 'బ్లాగ్ని సందర్శించండి',
+    'blog.settingsAria': 'బ్లాగ్ కొత్త  పరికరాల కోసం',
+    'blog.settings.blog': 'బ్లాగ్',
+    'blog.settings.forum': 'ఫోరం',
+    'blog.post.introText': 'పరిచయ పేరణా వాక్యం',
+    'blog.post.writtenBy': 'రాచించినది {usernameDisplay}',
+    'blog.post.writtenByFor': 'రాచినది {usernameDisplay} {publicationName}కోసం',
+    'blog.posts.recent': 'ఇటరాల పోస్టులు'
 };
