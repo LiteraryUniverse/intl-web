@@ -22,37 +22,37 @@ export default {
   } in this blog.`,
     'blog.post.create': 'Tạo bài viết mới',
     'blog.post.update': 'Đang chỉnh sửa {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.post.text': 'Đoạn văn bản bài viết',
+    'common.slug': 'Địa chỉ tựa đề thân thiện với SEO',
+    'blog.slug.explained': 'URL đẹp cho bài viết. Tránh sử dụng các ký tự đặc biệt trừ "-".',
+    'blog.publicView': 'Xem công khai',
+    'blog.post.notfound': 'Không tìm thấy bài viết trong blog',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Standalone stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'Danh sách đây là những câu chuyện đứng một mình, nếu câu chuyện được viết là một phần của một vũ trụ thì sẽ được liệt kê trên trang vũ trụ.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
     'blog.social.website': 'Trang web chính thức',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
+    'blog.settings.universeSettings': 'Blog vũ trụ được tích hợp vào trang vũ trụ với cài đặt cơ bản lấy từ cài đặt vũ trụ.',
+    'blog.settings.organizationSettings': 'Blog tổ chức được tích hợp vào trang tổ chức.',
+    'blogs.lu': 'Blog âm nhạc Vũ trụ Văn học chính thức',
+    'blogs.featured': 'Các blog nổi bật',
     'blogs.new': 'Blog mới nhất',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blogs.title': 'Blog Vũ trụ Văn học',
+    'blogs.description': 'Danh sách các blog trên nền tảng Vũ trụ Văn học.',
+    'blogs.visit': 'Ghé thăm blog',
+    'blog.settingsAria': 'Các loại cài đặt cho blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.settings.forum': 'Diễn đàn',
+    'blog.post.introText': 'Đoạn giới thiệu',
+    'blog.post.writtenBy': 'Viết bởi {usernameDisplay}',
+    'blog.post.writtenByFor': 'Viết bởi {usernameDisplay} cho {publicationName}',
+    'blog.posts.recent': 'Bài viết gần đây'
 };
