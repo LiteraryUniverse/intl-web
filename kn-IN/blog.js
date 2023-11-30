@@ -5,54 +5,54 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'ಹೊಸ ಬ್ಲಾಗ್ ರಚಿಸಿ',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.description': 'ಬ್ಲಾಗ್‌ ಪರಿಚಯ',
+    'blog.theme': 'ಥೀಮ್',
+    'blog.theme.info': 'ಥೀಮ್‌ಗನುಗ್ಗಿಸುವುದರಿಂದ ಪುಟದ ಹೊಂದಿಕೆ ಬದಲಾಗುತ್ತದೆ. ಈ ಅಂಶ ಈ ಸಮಯದಲ್ಲಿ ಯೋಗ್ಯತೆ ಪಡೆದಿಲ್ಲ.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.post.create': 'ಹೊಸ ಪೋಸ್ಟ್ ರಚಿಸಿ',
+    'blog.post.update': 'ಸಂಪಾದನೆ {title}',
+    'blog.post.text': 'ಪೋಸ್ಟ್ ಪಠ್ಯ',
+    'common.slug': 'SEO ಮಿತ್ರ ಪರಿಚಯ',
+    'blog.slug.explained': 'ಪೋಸ್ಟ್‌ಗೆ ಒಳ್ಳೆಯ URL. "-" ಹೊಂದಿರುವುದೊಂದನ್ನೇ ಬಾಳ್ಕೊಳ್ಳುವುದು, ವಿಶೇಷ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಬೇಡಿ.',
+    'blog.publicView': 'ಜನರ ದೃಷ್ಟಿಗೆ ಸೂಕ್ತವಾದುದು',
+    'blog.post.notfound': 'ಈ ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ನ ಪ್ರಕಟಣೆ ಕಾಣಲಿಲ್ಲ',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Standalone stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'ಇಲ್ಲಿ ಸ್ವತಂತ್ರ ಕಥೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ, ಯಾಕೆಂದರೆ ಕಥೆ ಏಕ ಪದವಿಯ ಭಾಗವಾಗಿ ಬಂದಿರುವುದಾದ್ದರಿಂದ ಅದು ಯೂನಿವರ್ಸ್ ಪುಟದಲ್ಲಿ ಪ್ರಕಟವಾಗುತ್ತದೆ.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
+    'blog.social.website': 'ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್',
+    'blog.settings.universeSettings': 'ಯೂನಿವರ್ಸ್ ಬ್ಲಾಗ್‌ಗಳನ್ನು ಯೂನಿವರ್ಸ್ ಪುಟಗಳ ಮೂಲ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಂದ ಕೊಳೆಗೊಳ್ಳುತ್ತದೆ.',
+    'blog.settings.organizationSettings': 'ಸಂಸ್ಥೆ ಬ್ಲಾಗ್‌ಗಳು ಸಂಸ್ಥೆ ಪುಟಗಳ ಒಳಗೊಳಗಾಗಿವೆ.',
+    'blogs.lu': 'ಅಧಿಕೃತ ಸಾಹಿತ್ಯ ವಿಶ್ವ ಬ್ಲಾಗ್‌ಗಳು',
+    'blogs.featured': 'ಆಕರ್ಷಿತ ಬ್ಲಾಗ್‌ಗಳು',
+    'blogs.new': 'ಹೊಸತೇ ಬ್ಲಾಗ್‌ಗಳು',
+    'blogs.title': 'ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿ ಬ್ಲಾಗ್‌ಗಳು',
+    'blogs.description': 'ಸಾಹಿತ್ಯ ಸಂಸ್ಕೃತಿ ಪ್ಲ್ಯಾಟ್‌ಫಾರ್ಮ್‌ನ ಬ್ಲಾಗ್‌ಗಳ ಪಟ್ಟಿ',
+    'blogs.visit': 'ಬ್ಲಾಗ್ ಭೇಟಿ',
+    'blog.settingsAria': 'ಬ್ಲಾಗ್ ಸೆಟ್ಟಿಂಗ್ಸ್ ವಿಭಾಗಗಳು',
+    'blog.settings.blog': 'ಬ್ಲಾಗ್',
+    'blog.settings.forum': 'ಫೋರಂ',
+    'blog.post.introText': 'ಪರಿಚಯಾತ್ಮಕ ಪೇರಿಕೆ',
     'blog.post.writtenBy': 'Written by {usernameDisplay}',
     'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.posts.recent': 'ಇತ್ತಿಚಿನ ಪೋಸ್ಟ್‌‌‌ಗಳು'
 };
