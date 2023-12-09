@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title.meta': '{title} ამბები',
+    'universe.fanfiction.see': 'ყველა ფან ფიქშენი ავტორისთვის {universe}',
+    'universe.fanfiction.desc': 'ფან ფიქშენი ავტორისთვის {universe}',
+    'universe.fanfiction.for': '{universe} ფან ფიქშენი',
+    'universe.fanarts.for': '{universe} ფან ხელოვნება',
+    'universe.fansettings.for': '{universe} ფან კონფიგურაციები',
+    'universe.fanfiction.stories': 'ამონაწილები',
+    'universe.fanfiction.fanarts': 'ფან არტი',
+    'universe.stories.count': `ამ უნივერსში არის {num, plural,
+    =0 {ისწავლელმა არაფერსი}
+    one {არის ერთი ამონაწერი}
+    other {არის}
+    } ამოთხავები`,
+    'universe.authors.title': 'ავტორები',
+    'universe.authors.desc': 'შემქმნელები და მონაწილეები {universe}',
+    'universe.contributors': 'მონაწილეები',
+    'universe.translators': 'თარგმნელები',
+    'universe.authors.notice': 'ყოველი ამონაწერი შიგან შეიძლება მნიშვნელოვნიანი პიროვნება ჰორისარის შესასწავლად. დეტალური ინფორმაციისათვის, იხილეთ ამონაწერის დეტალები.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    male {შექმნა}
+    female {შექმნა}
+    other {შექმნა}} გამგზავნია `,
+    'universe.stories.for': 'ამ უნივერსისთვის ამონაწილებისათვის {universe}',
+    'universe.stories.own': '{universe} ამოხსენი',
+    'universe.stories.desc': 'კანონური ამონაწილები ამ უნივერსისთვის {universe}',
+    'universe.encyclopedia.title': '{universe} ენციკლოფედია',
+    'universe.encyclopedia.desc': 'ყველა მონაწილეობა ამ უნივერსისთვის {universe}',
+    'universe.fanArt.submit': 'განათავსე თქვენი ხელოვნება',
+    'universe.fanArtHeaderDesc.item': '{universe} ფან არტი - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} ფან არტის პაროლის შეყვანა',
+    'universe.fanArtHeaderDesc.overview': '{universe} ფან არტი',
+    'universe.fanFiction.hidden': 'Hidden',
+    'universe.fanFiction.hide': 'ფანფიქშენის დამალვა',
+    'universe.fanFiction.unhide': 'ფანფიქშენის აღდგენა'
 };
