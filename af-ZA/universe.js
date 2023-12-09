@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
+    'universe.authors.title.meta': '{title} skrywers',
+    'universe.fanfiction.see': 'Alle Aanhangerskryfwerk vir {universe}',
+    'universe.fanfiction.desc': 'Aanhangerskryfwerk vir {universe}',
+    'universe.fanfiction.for': '{universe} Aanhangerskryfwerk',
+    'universe.fanarts.for': '{universe} Aanhanger kuns',
+    'universe.fansettings.for': '{universe} Aanhangersinstellings',
     'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.fanfiction.fanarts': 'Aanhanger kuns',
+    'universe.stories.count': `Daar {num, plural,
+    =0 {is geen stories}
+    one {is een storie}
+    other {is # stories}
+    } in hierdie universum nie.`,
+    'universe.authors.title': 'Skrywers',
+    'universe.authors.desc': 'Skeppers en bydraers tot {universe}',
+    'universe.contributors': 'Bydraers',
+    'universe.translators': 'Vertalers',
+    'universe.authors.notice': 'Elke storie mag additionele persone hê wat daaraan gewerk het. Vir meer besonderhede sien die besonderhede van die storie.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
+    male {Geskep}
+    female {Geskep}
+    other {Geskep}} deur `,
+    'universe.stories.for': 'Stories vir {universe}',
     'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.stories.desc': 'Kanonstories vir {universe}',
+    'universe.encyclopedia.title': '{universe} ensiklopedie',
+    'universe.encyclopedia.desc': 'Al die besonderhede vir {universe}',
+    'universe.fanArt.submit': 'Stuur jou kuns in',
+    'universe.fanArtHeaderDesc.item': '{universe} fannaan - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} fannaan submission',
+    'universe.fanArtHeaderDesc.overview': '{universe} fannaan',
+    'universe.fanFiction.hidden': 'Versteek',
+    'universe.fanFiction.hide': 'Hide fanfiction',
+    'universe.fanFiction.unhide': 'Unhide fanfiction'
 };
