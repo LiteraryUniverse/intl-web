@@ -6,7 +6,7 @@ export default {
     'universe.fanarts.for': '{universe} Fan Arts',
     'universe.fansettings.for': '{universe} Fan Settings',
     'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.fanfiction.fanarts': 'ศิลปะของแฟน',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
@@ -26,11 +26,11 @@ export default {
     'universe.stories.desc': 'Cannon stories for {universe}',
     'universe.encyclopedia.title': '{universe} encyclopedia',
     'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
-    'universe.fanFiction.hidden': 'Hidden',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanArt.submit': 'ส่งงานศิลปะของคุณ',
+    'universe.fanArtHeaderDesc.item': '{universe} งานศิลปะของแฟน - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} การส่งงานศิลปะของแฟน',
+    'universe.fanArtHeaderDesc.overview': '{universe} งานศิลปะของแฟน',
+    'universe.fanFiction.hidden': 'ซ่อน',
+    'universe.fanFiction.hide': 'ซ่อนนิยายของแฟน',
+    'universe.fanFiction.unhide': 'แสดงนิยายของแฟน'
 };
