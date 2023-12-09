@@ -1,36 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': '{title} författare',
+    'universe.fanfiction.see': 'Alla Fan Fiction för {universe}',
+    'universe.fanfiction.desc': 'Fan Fiction för {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
+    'universe.fansettings.for': '{universe} Faninställningar',
+    'universe.fanfiction.stories': 'Berättelser',
     'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.stories.count': `Det finns {num, plural,
+    =0 {inga berättelser}
+    one {det finns en berättelse}
+    other {det finns # berättelser}
+    } i detta universum.`,
+    'universe.authors.title': 'Författare',
+    'universe.authors.desc': 'Skapare och bidragsgivare till {universe}',
+    'universe.contributors': 'Bidragsgivare',
+    'universe.translators': 'Översättare',
+    'universe.authors.notice': 'Varje berättelse kan ha ytterligare personer som har arbetat på den. För mer detaljer se berättelsens detaljer.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
+    male {Skapat av}
+    female {Skapat av}
+    other {Skapat av}} av `,
+    'universe.stories.for': 'Berättelser för {universe}',
+    'universe.stories.own': '{universe} berättelser',
+    'universe.stories.desc': 'Kanonberättelser för {universe}',
+    'universe.encyclopedia.title': '{universe} uppslagsverk',
+    'universe.encyclopedia.desc': 'Alla detaljer för {universe}',
+    'universe.fanArt.submit': 'Skicka in din konst',
     'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
+    'universe.fanArtHeaderDesc.submit': '{universe} inlämning av fan art',
     'universe.fanArtHeaderDesc.overview': '{universe} fan art',
-    'universe.fanFiction.hidden': 'Hidden',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hidden': 'Dold',
+    'universe.fanFiction.hide': 'Dölj fanfiction',
+    'universe.fanFiction.unhide': 'Visa fanfiction igen'
 };
