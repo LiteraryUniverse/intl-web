@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': '{title} kirjailijat',
+    'universe.fanfiction.see': 'Kaikki Fan Fiction -tarinat {universe}',
+    'universe.fanfiction.desc': 'Fan Fiction -tarinat {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.fanarts.for': '{universe} Fan Artit',
+    'universe.fansettings.for': '{universe} Fan Asetukset',
+    'universe.fanfiction.stories': 'Tarinat',
+    'universe.fanfiction.fanarts': 'Fanitaiteet',
+    'universe.stories.count': `Tässä universumissa on {num, plural,
+    =0 {kirjaa}
+    one {on yksi tarina}
+    other {, ja}
+    } on lukumäärä tarinaa.`,
+    'universe.authors.title': 'Kirjailijat',
+    'universe.authors.desc': 'Luojat ja yhteistyössä toimineet {universe}',
+    'universe.contributors': 'Yhteistyössä toimineet',
+    'universe.translators': 'Kääntäjät',
+    'universe.authors.notice': 'Jokaisella tarinalla voi olla lisää henkilöitä, jotka ovat olleet mukana. Lisätietoja näet tarinan tiedoista.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    male {Luonut}
+    female {Luonut}
+    other {Luonut}} , `,
+    'universe.stories.for': 'Tarinat {universe}',
+    'universe.stories.own': '{universe} tarinat',
+    'universe.stories.desc': 'Kanoniset tarinat {universe}',
+    'universe.encyclopedia.title': '{universe} tietosanakirja',
+    'universe.encyclopedia.desc': 'Kaikki tiedot {universe}',
+    'universe.fanArt.submit': 'Lähetä taidettasi',
+    'universe.fanArtHeaderDesc.item': '{universe} fanitaide - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} fanitaiteen lähettäminen',
+    'universe.fanArtHeaderDesc.overview': '{universe} fanitaidetta',
+    'universe.fanFiction.hidden': 'Piilotettu',
+    'universe.fanFiction.hide': 'Piilota fanifiktiot',
+    'universe.fanFiction.unhide': 'Näytä piilotetut fanifiktiot'
 };
