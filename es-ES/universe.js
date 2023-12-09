@@ -31,6 +31,6 @@ export default {
     'universe.fanArtHeaderDesc.submit': 'Publicaciones de arte de los fans de {universe}',
     'universe.fanArtHeaderDesc.overview': 'Arte de los fans de {universe}',
     'universe.fanFiction.hidden': 'Oculto',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hide': 'Ocultar fanfiction',
+    'universe.fanFiction.unhide': 'Mostrar fanfiction'
 };
