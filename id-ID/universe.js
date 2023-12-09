@@ -1,36 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': '{title} penulis',
+    'universe.fanfiction.see': 'Semua Fan Fiction untuk {universe}',
+    'universe.fanfiction.desc': 'Fan Fiction untuk {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
+    'universe.fanarts.for': '{universe} Seni Fan',
+    'universe.fansettings.for': '{universe} Pengaturan Fan',
     'universe.fanfiction.stories': 'Cerita',
     'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
+    'universe.stories.count': `Ada {num, plural,
+    =0 {tidak ada cerita}
+    one {satu cerita}
+    other {ada # cerita}
+    } di alam semesta ini.`,
+    'universe.authors.title': 'Penulis',
+    'universe.authors.desc': 'Pencipta dan kontributor untuk {universe}',
+    'universe.contributors': 'Kontributor',
     'universe.translators': 'Penerjemah',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.notice': 'Setiap cerita mungkin memiliki personil tambahan yang telah bekerja pada cerita tersebut. Untuk lebih jelasnya, lihat detail cerita.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
-    'universe.fanFiction.hidden': 'Hidden',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    male {Dibuat}
+    female {Dibuat}
+    other {Dibuat}} oleh `,
+    'universe.stories.for': 'Cerita-cerita untuk {universe}',
+    'universe.stories.own': '{universe} cerita',
+    'universe.stories.desc': 'Cerita Kanon untuk {universe}',
+    'universe.encyclopedia.title': 'Ensiklopedia  {universe}',
+    'universe.encyclopedia.desc': 'Semua detail untuk {universe}',
+    'universe.fanArt.submit': 'Kirimkan seni Anda',
+    'universe.fanArtHeaderDesc.item': '{universe} seni penggemar - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} pengajuan seni penggemar',
+    'universe.fanArtHeaderDesc.overview': '{universe} seni penggemar',
+    'universe.fanFiction.hidden': 'Tersembunyi',
+    'universe.fanFiction.hide': 'Sembunyikan fanfiction',
+    'universe.fanFiction.unhide': 'Tampilkan kembali fanfiction'
 };
