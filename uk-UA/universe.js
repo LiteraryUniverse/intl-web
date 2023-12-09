@@ -1,10 +1,10 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
+    'universe.authors.title.meta': '{title} авторов',
+    'universe.fanfiction.see': 'Усі фанфіки для {universe}',
+    'universe.fanfiction.desc': 'Фанфик для {universe}',
+    'universe.fanfiction.for': '{universe} Фанфик',
+    'universe.fanarts.for': '{universe} фан-артів',
+    'universe.fansettings.for': '{universe} налаштувань для фанатів',
     'universe.fanfiction.stories': 'Iсторії',
     'universe.fanfiction.fanarts': 'Фан-Артс',
     'universe.stories.count': `There {num, plural,
@@ -12,25 +12,25 @@ export default {
     one {is one story}
     other {are # stories}
     } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
+    'universe.authors.title': 'Автори',
+    'universe.authors.desc': 'Творці та співавтори для {universe}',
+    'universe.contributors': 'Співавтори',
     'universe.translators': 'Перекладачі',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
-    'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
-    'universe.fanFiction.hidden': 'Hidden',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.authors.notice': 'Кожна історія може мати додаткових осіб, які працювали над нею. Більше деталей дивіться у деталях історії.',
+    'universe.createdBy': `Створено {gender, select,
+    male {}
+    female {}
+    other {}} `,
+    'universe.stories.for': 'Історії для {universe}',
+    'universe.stories.own': '{universe} історій',
+    'universe.stories.desc': 'Канонічні історії для {universe}',
+    'universe.encyclopedia.title': '{universe} енциклопедія',
+    'universe.encyclopedia.desc': 'Всі деталі для {universe}',
+    'universe.fanArt.submit': 'Надішліть своє мистецтво',
+    'universe.fanArtHeaderDesc.item': '{universe} фан-арт - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} подача фан-арта',
+    'universe.fanArtHeaderDesc.overview': '{universe} фан-арт',
+    'universe.fanFiction.hidden': 'Приховано',
+    'universe.fanFiction.hide': 'Сховати фанфік',
+    'universe.fanFiction.unhide': 'Показати фанфік'
 };
