@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': '{title} autors',
+    'universe.fanfiction.see': 'Tota la Fan Fiction per {universe}',
+    'universe.fanfiction.desc': 'Fan Fiction per {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.fanarts.for': '{universe} Arts de Fans',
+    'universe.fansettings.for': '{universe} Configuracions de Fans',
+    'universe.fanfiction.stories': 'Històries',
+    'universe.fanfiction.fanarts': 'Arts sobtades',
+    'universe.stories.count': `Hi ha {num, plural,
+    =0 {històries}
+    one {hi ha una història}
+    other {hi ha # històries}
+    } en aquest univers.`,
+    'universe.authors.title': 'Autors',
+    'universe.authors.desc': 'Creadors i col·laboradors a {universe}',
+    'universe.contributors': 'Col·laboradors',
+    'universe.translators': 'Traductors',
+    'universe.authors.notice': 'Cada història pot tenir personal addicional que hi ha treballat. Per obtenir més detalls, consulteu els detalls de la història.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    male {Creat per}
+    female {Creat per}
+    other {Creat per}} `,
+    'universe.stories.for': 'Històries per {universe}',
+    'universe.stories.own': '{universe} històries',
+    'universe.stories.desc': 'Històries canòniques per {universe}',
+    'universe.encyclopedia.title': '{universe} enciclopèdia',
+    'universe.encyclopedia.desc': 'Tots els detalls per {universe}',
+    'universe.fanArt.submit': 'Envia la teva art',
+    'universe.fanArtHeaderDesc.item': '{universe} art dels fans - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} enviaments art fan',
+    'universe.fanArtHeaderDesc.overview': '{universe} art dels fans',
+    'universe.fanFiction.hidden': 'Ocult',
+    'universe.fanFiction.hide': 'Amaga fanfictions',
+    'universe.fanFiction.unhide': 'Desamaga fanfictions'
 };
