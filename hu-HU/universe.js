@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.authors.title.meta': '{title} szerző',
+    'universe.fanfiction.see': 'Összes rajongói történet {universe}-re',
+    'universe.fanfiction.desc': 'Rajongói történetek {universe}-ről',
+    'universe.fanfiction.for': '{universe} Rajongói Történet',
+    'universe.fanarts.for': '{universe} Rajongói Képzőművészet',
+    'universe.fansettings.for': '{universe} Rajongói Beállítás',
+    'universe.fanfiction.stories': 'Történetek',
+    'universe.fanfiction.fanarts': 'Ventilátor művészetek',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
     other {are # stories}
     } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
-    'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.authors.title': 'Szerzők',
+    'universe.authors.desc': 'Készítők és hozzájárulók {universe}-hez',
+    'universe.contributors': 'Hozzájárulók',
+    'universe.translators': 'Fordítók',
+    'universe.authors.notice': 'Minden történet esetén előfordulhat, hogy vannak további személyek, akik rajta dolgoztak. További részletekért nézze meg a történet részleteit.',
+    'universe.createdBy': `!Created by {gender, select,
+    male {Created by}
+    female {Created by}
+    other {Created by}} `,
+    'universe.stories.for': 'Történetek {universe}-ról',
+    'universe.stories.own': '{universe} történet',
+    'universe.stories.desc': 'Kanonikus történetek {universe}-ról',
+    'universe.encyclopedia.title': '{universe} enciklopédia',
+    'universe.encyclopedia.desc': 'Minden részlet {universe}-ról',
+    'universe.fanArt.submit': 'A te művészeted beküldése',
+    'universe.fanArtHeaderDesc.item': '{universe} ventillátor művészet - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} ventillátor művészet beküldés',
+    'universe.fanArtHeaderDesc.overview': '{universe} ventillátor művészet',
+    'universe.fanFiction.hidden': 'Elrejtett',
+    'universe.fanFiction.hide': 'Fanfiction elrejtése',
+    'universe.fanFiction.unhide': 'Fanfiction megjelenítése'
 };
