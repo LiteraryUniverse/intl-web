@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': '{title} autorid',
+    'universe.fanfiction.see': 'Kogu Fan Fiction {universe}jaoks',
+    'universe.fanfiction.desc': 'Fan Fiction {universe}jaoks',
     'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.fanarts.for': '{universe} fännikunsti',
+    'universe.fansettings.for': '{universe} fänniseaded',
+    'universe.fanfiction.stories': 'Lood',
+    'universe.fanfiction.fanarts': 'Fännikunstid',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
     other {are # stories}
     } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title': 'Autorid',
+    'universe.authors.desc': '{universe}loojad ja kaasautorid',
+    'universe.contributors': 'Kaasautorid',
+    'universe.translators': 'Tõlkijad',
+    'universe.authors.notice': 'Iga lugu võib sisaldada täiendavat personali, kes selle kallal tööd teinud. Üksikasjade kohta vaadake loo üksikasju.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    male {Autor}
+    female {Autor}
+    other {Autor}} poolt loodud `,
+    'universe.stories.for': 'Lood {universe}jaoks',
+    'universe.stories.own': '{universe} lood',
+    'universe.stories.desc': 'Tsunni lood {universe}jaoks',
+    'universe.encyclopedia.title': '{universe} entsüklopeedia',
+    'universe.encyclopedia.desc': 'Kõik üksikasjad {universe}kohta',
+    'universe.fanArt.submit': 'Esitage oma kunst',
+    'universe.fanArtHeaderDesc.item': '{universe} fännikunst - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} fännikunsti esitamine',
+    'universe.fanArtHeaderDesc.overview': '{universe} fännikunst',
+    'universe.fanFiction.hidden': 'Peidetud',
+    'universe.fanFiction.hide': 'Peida fännifilmi',
+    'universe.fanFiction.unhide': 'Näita fännifilmi'
 };
