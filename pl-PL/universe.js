@@ -31,5 +31,8 @@ export default {
     'universe.fanArt.submit': 'Zgłoś swoją sztukę',
     'universe.fanArtHeaderDesc.item': '{universe} sztuka fanów - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} przedłożenie sztuki fanów',
-    'universe.fanArtHeaderDesc.overview': '{universe} sztuka fanów'
+    'universe.fanArtHeaderDesc.overview': '{universe} sztuka fanów',
+    'universe.fanFiction.hidden': 'Ukryta',
+    'universe.fanFiction.hide': 'Hide fanfiction',
+    'universe.fanFiction.unhide': 'Unhide fanfiction'
 };
