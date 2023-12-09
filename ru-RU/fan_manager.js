@@ -17,5 +17,6 @@ export default {
   'fanManager.stateChange.reject': 'Отклонить иллюстрацию',
   'fanManager.stateChange.hide': 'Скрыть иллюстрацию',
   'fanManager.stateChange.unhide': 'Сделать иллюстрацию видимой',
-  'fanManager.fanFictionNotAllowed': 'Фанфики запрещены по характеру лицензии.'
+  'fanManager.fanFictionNotAllowed': 'Фанфики запрещены по характеру лицензии.',
+  'fanManager.fanFiction.maxRating': 'Maximum rating of displayed fan fiction.'
 };
