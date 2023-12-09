@@ -1,36 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title.meta': '{title} អ្នកនិពន្ធករ',
+    'universe.fanfiction.see': 'រឿងប្លីទាំងអស់ទៅរកមើលបន្ថែមពី {universe}',
+    'universe.fanfiction.desc': 'រឿងប្លីមួយចំនួនសម្លេងសម្លេអំពី {universe}',
+    'universe.fanfiction.for': '{universe} រឿងប្លីចំនួនសម្លេង',
+    'universe.fanarts.for': '{universe} សម្លេងបរិជាបន្ថែម',
+    'universe.fansettings.for': '{universe} ការកំណត់ចំណេះដឹងរបស់អ្នកចូលទៅក្នុង',
+    'universe.fanfiction.stories': 'រឿងប្លី',
+    'universe.fanfiction.fanarts': 'សិល្បៈប្លុកប្រាំឆ្នាំ',
+    'universe.stories.count': `មិនមានរឿងប្លីចំនួន០នាក់នេះ {num, plural,
+    =0 {រឿងបៃតន៖}
+    one {រឿងបៃតន៖}
+    other {រឿងបៃតន៖}
+    }`,
+    'universe.authors.title': 'អ្នកនិពន្ធរបស់រឿងបៃតប្រចាំថ្ងៃ',
+    'universe.authors.desc': 'អ្នកនិពន្ធនិងអ្នកដើរវិទ្យាសាស្រ្តទាំង១៨របស់ {universe}',
+    'universe.contributors': 'អ្នករក្សាសម្ព័ន្ធភាព',
+    'universe.translators': 'អ្នកបកប្រែទន្នន័យ',
+    'universe.authors.notice': 'ទាំងនេះឯកសារអាចមានការបន្ថែមពីបុរាណនៃការងាររបស់មន្ដសំខាន់ដូចជាលក្ខណៈពណ៌នាក្កណាដែរ។ សូមមើលផលិតកម្មអត្តសញ្ញានៃរឿងបៃតឲ្យមានពត៌មានលម្អិតបន្ថែម។',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
+    male {បានបង្កើតដោយ}
+    female {បានបង្កើតដោយ}
+    other {បានបង្កើតដោយ}} ដោយ `,
+    'universe.stories.for': 'រឿងពិតនៃ {universe}',
+    'universe.stories.own': '{universe} រឿង',
+    'universe.stories.desc': 'រឿងអត្តសញ្ញានៃ {universe}',
+    'universe.encyclopedia.title': 'មីការបង្កើតដោយ  {universe}',
+    'universe.encyclopedia.desc': 'ព័ត៌មានទាំងអស់របស់ {universe}',
+    'universe.fanArt.submit': 'ដាក់កាត់រូបភាពរបស់អ្នក',
+    'universe.fanArtHeaderDesc.item': '{universe} រូបភាពអ្នកចម្រៀង - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} ការដាក់កាត់រូបភាពអ្នកចម្រៀង',
+    'universe.fanArtHeaderDesc.overview': '{universe} រូបភាពអ្នកចម្រៀង',
     'universe.fanFiction.hidden': 'Hidden',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំ',
+    'universe.fanFiction.unhide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំត្រូវបង្ហាញឡើងវិញ'
 };
