@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'Ukryj fan art',
   'fanManager.stateChange.unhide': 'Spraw, by fan art był widoczny',
   'fanManager.fanFictionNotAllowed': 'Fan fiction nie jest dozwolone ze względu na charakter licencji.',
-  'fanManager.fanFiction.maxRating': 'Maximum rating of displayed fan fiction.'
+  'fanManager.fanFiction.maxRating': 'Maksymalna ocena wyświetlanego fan fiction.'
 };
