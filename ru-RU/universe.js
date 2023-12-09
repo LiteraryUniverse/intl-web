@@ -33,6 +33,6 @@ export default {
     'universe.fanArtHeaderDesc.submit': 'Предложенная иллюстрация фаната {universe}',
     'universe.fanArtHeaderDesc.overview': 'Иллюстрация фаната {universe}',
     'universe.fanFiction.hidden': 'Скрытая',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hide': 'Скрыть фанфики',
+    'universe.fanFiction.unhide': 'Показать фанфики'
 };
