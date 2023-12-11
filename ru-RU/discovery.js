@@ -53,7 +53,7 @@ export default {
     'discover.viewSelection.aria': 'Просмотр выбранного',
     'discover.searchDisplay.covers': 'Список обложек',
     'discover.searchDisplay.list': 'Компактный список',
-    'discover.includesAds': 'Эта работа имеет размещение продукта или включает в себя другие формы рекламы.',
+    'discover.includesAds': 'Это произведение имеет размещение продукта или включает в себя другие формы рекламы.',
     'discovery.featured.universes': 'Рекомендуемые вселенные',
     'discovery.featured.stories': 'Рекомендуемые истории',
     'discovery.story.tableOfContent': 'Содержание',
