@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
-    expired {Expired}
+    'plans.subscribed.status': `सब्सक्रिप्शन की स्थिति: {status, select,
+    active {सक्रिय}
+    incomplete {कुछ छूट रह गया है}
+    incomplete_expired {कुछ छूट रह गया है}
+    trialing {परीक्षण}
+    past_due {हमें आपके भुगतान की कुछ कमी है}
+    canceled {रद्द}
+    unpaid {अवैतनिक}
+    expired {समाप्त}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
