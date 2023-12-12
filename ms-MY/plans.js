@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
-    expired {Expired}
+    'plans.subscribed.status': `Status langganan: {status, select,
+    active {Aktif}
+    incomplete {Ada sesuatu yang hilang}
+    incomplete_expired {Ada sesuatu yang hilang}
+    trialing {Percobaan}
+    past_due {Kami kehilangan pembayaran Anda}
+    canceled {Dibatalkan}
+    unpaid {Belum Dibayar}
+    expired {Kedaluwarsa}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
