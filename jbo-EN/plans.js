@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `sorcu zo'e: {status, select,
+    active {farvi}
+    incomplete {da drauganti}
+    incomplete_expired {da drauganti}
+    trialing {cliraeresa'a}
+    past_due {da drauganti}
+    canceled {farvi}
+    unpaid {farvi}
+    expired {farvi}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
