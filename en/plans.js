@@ -105,6 +105,7 @@ export default {
     past_due {We are missing your payment}
     canceled {Cancelled}
     unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
   'payments.changeMethod': 'Change payment method',
