@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `Abonnement status: {status, select,
+    active {Actief}
+    incomplete {Er ontbreekt iets}
+    incomplete_expired {Er ontbreekt iets}
+    trialing {Proefperiode}
+    past_due {We missen uw betaling}
+    canceled {Geannuleerd}
+    unpaid {Onbetaald}
+    expired {Verlopen}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
