@@ -30,5 +30,8 @@ export default {
     'universe.fanArt.submit': 'Odoslať vaše umenie',
     'universe.fanArtHeaderDesc.item': '{universe} fanúšikovské umenie - {name}',
     'universe.fanArtHeaderDesc.submit': 'Predloženie fanúšikovského umenia {universe}',
-    'universe.fanArtHeaderDesc.overview': '{universe} umenie fanúšikov'
+    'universe.fanArtHeaderDesc.overview': '{universe} umenie fanúšikov',
+    'universe.fanFiction.hidden': 'Skryté',
+    'universe.fanFiction.hide': 'Skryť fanfiction',
+    'universe.fanFiction.unhide': 'Odstrániť skrytie fanfiction'
 };

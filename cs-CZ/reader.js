@@ -32,5 +32,8 @@ export default {
     'reader.storyContinues': 'Příběh pokračuje...',
     'reader.storyOnHiatus': 'Autor si v současné době bere přestávku a tento příběh je nyní na hiatusu. Zkuste se vrátit za měsíc nebo dva.',
     'reader.storyCancelled': 'Bohužel tohle je vše. Tento příběh je tak zvaně zrušen a je velice nepravděpodobné že budou následovat další kapitoly.',
-    'reader.storyCancelled.heading': 'Zrušeno'
+    'reader.storyCancelled.heading': 'Zrušeno',
+    'reader.nextChapterEstimation.verySoon': 'Na základě dat vydání posledních {chaptersCount, number} kapitol se očekává, že další kapitola bude vydána velmi brzy.',
+    'reader.nextChapterEstimation.days': 'Na základě dat vydání posledních {chaptersCount, number} kapitol by další kapitola měla být k dispozici přibližně za {daysLeft, plural, one {1 den} few {# dny} many {# dní} other {# dní}}.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Jakmile bude mít tato povídka více než jednu kapitolu, poskytneme i odhad kdy by mohla být další kapitola publikována.'
 };

@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `מצב מנוי: {status, select,
+    active {פעיל}
+    incomplete {יש משהו חסר}
+    incomplete_expired {יש משהו חסר}
+    trialing {ניסיון}
+    past_due {חסרים את התשלום שלך}
+    canceled {מבוטל}
+    unpaid {לא שולם}
+    expired {פג תוקף}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',

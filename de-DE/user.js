@@ -31,21 +31,21 @@ export default {
     'user.verification.luEmployee': 'Mitarbeiter von Literary Universe',
     'user.verification.publicFigure': 'Geprüfte Persönlichkeit des öffentlichen Lebens',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {Geschichte}
+    other {Geschichten}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {Universum}
+    other {Universen}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {Fanfiktion}
+    other {Fanfiktions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Werke',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Wunschliste',
+    'profile.storiesBy': 'Geschichten von {username}',
+    'profile.universesBy': 'Universen von {username}',
+    'profile.fanFictionBy': 'Fan-Fiction von {username}'
 };

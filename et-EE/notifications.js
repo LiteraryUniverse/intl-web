@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Loo uus uudiste välk',
+  'flashnews.startsAt': 'Alustage selle sõnumi kuvamist kell',
+  'flashnews.endsAt': 'Lõpetage selle sõnumi kuvamine kell',
+  'flashnews.newLanguage': 'Valige uus keel, et lisada',
+  'flashnews.onlyDisplayOn': 'Uudised kuvatakse ainult allpool valitud keelte puhul (kui üldse valitud), teistes keeltes uudiseid ei kuvata isegi vaikimisi keeles.',
+  'notifications.menu.all': 'Kõik teated',
+  'notifications.menu.following': 'Järgmine',
+  'notifications.menu.workshop': 'Töötuba',
+  'notifications.menu.news': 'Uudised ja uuendused',
+  'notifications.menu.markUnread': 'Märgi lugemata',
+  'notifications.menu.markRead': 'Märgi loetuks',
+  'notifications.menu.delete': 'Kustuta teavitus',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Teie lugu {storyName} seati pärast 6 kuud tegevusetust automaatselt peatusse.',
+  'notification.workshopStoryStatus.toCancelled': 'Teie lugu {storyName} seati pärast üheaastast tegevusetust automaatselt tühistatuks.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} on peatusse seatud.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} on tühistatud.',
+  'notification.followingNewChapter.new': '{storyName} -s on avaldatud uus peatükk!',
+  'notification.workshopStory.newComment': 'kommenteeris {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'saatis teile sõbrakutse.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Mine loo juurde'
 };

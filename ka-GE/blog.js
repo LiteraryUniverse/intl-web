@@ -1,57 +1,58 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `ამჟამად თქვენ არ გაქვს {type, select,
+    organization {არცერთი ბლოგი}
+    universe {სამაგიდოსთვის}
+    user {ბლოგი}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'ახალი ბლოგის შექმნა',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.description': 'ბლოგის შესავალი',
+    'blog.theme': 'თემა',
+    'blog.theme.info': 'თქვენ შეიძლებათ გაავრცელოთ გვერდის გარეგულება, თქვენი ბლოგის სარგემოს შეცვლა. ეს ფუნქცია არ არის მზად მარტივად.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
+    'blog.post.create': 'ახალი პოსტის შექმნა',
     'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.post.text': 'პოსტის ტექსტი',
+    'common.slug': 'SEO მეგობრებული ბმული',
+    'blog.slug.explained': 'მინიმუმუმ სპეციალურ სიმბოლოებს, "-" გამოისყიდე',
+    'blog.publicView': 'საჯარო ხედვა',
+    'blog.post.notfound': 'ბლოგის პოსტი ვერ მოიძებნა',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {უნივერსები}
+    stories {ცილებიანი ამბები}
+    fanfiction {ფან ფიქრის ტრელბში}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'აქ მარცხენათვალია ცალკე ამოცანები. თუ ამოცანა წესებითაა ჩაწერილი, მაშინ ის ჩამოინახება უნივერსის გვერდზე.',
+    'blog.social.sameAsMain': `სოციალური ბმულები იგივეა, როგორც {type, select,
+    organization {ორგანიზაციის პარამეტრების შეცვლაში}
+    user {მომხმარებლის პროფილში}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.social.website': 'ოფიციალური ვებსაიტი',
+    'blog.settings.universeSettings': 'უნივერსიტეტსის ბლოგები შეიცავენ უნივერსიტეტის გვერდის ბაზარზე დაყენებული სეტინგებისგან.',
+    'blog.settings.organizationSettings': 'ორგანიზაციის ბლოგები შეერთება გვერდებში',
+    'blogs.lu': 'უბანის ბლოგი',
+    'blogs.featured': 'განცალკევებული ბლოგები',
+    'blogs.new': 'უახლესი ბლოგები',
+    'blogs.title': 'ლიტერატურული უნივერსიტეტის ბლოგები',
+    'blogs.description': 'ბლოგების ჩამონათვალთარი სია ლიტერატურული უნივერსიტეტის პლათფორმაზე.',
+    'blogs.visit': 'ბლოგის ვიზიტი',
+    'blog.settingsAria': 'პარამეტრების კატეგორიები ბლოგში',
+    'blog.settings.blog': 'ბლოგი',
+    'blog.settings.forum': 'ფორუმი',
+    'blog.post.introText': 'შესატყვისი აბზაცი',
+    'blog.post.writtenBy': 'დაწერილია {usernameDisplay}',
+    'blog.post.writtenByFor': 'დაწერილია {usernameDisplay} {publicationName}',
+    'blog.posts.recent': 'ბოლო პოსტები'
 };

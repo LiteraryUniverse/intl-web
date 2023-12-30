@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'O seu método de pagamento por defeito será utilizado para pagar o próximo ciclo.',
-    'plans.subscribed.status': `Estado da subscrição: {status, select,
+    'plans.subscribed.status': `Status da assinatura: {status, select,
     active {Ativo}
-    incomplete {Algo está em falta}
-    incomplete_expired {Algo está em falta}
+    incomplete {Algo está faltando}
+    incomplete_expired {Algo está faltando}
     trialing {Teste}
-    past_due {Falta-nos o seu pagamento}
+    past_due {Estamos aguardando seu pagamento}
     canceled {Cancelado}
     unpaid {Não pago}
+    expired {Expirado}
     other {}
   }`,
     'payments.changeMethod': 'Alterar método de pagamento',

@@ -5,53 +5,54 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Crea un nuovo blog',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Pagina dell'universo}
     user {Blog}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+  } impostazioni`,
+    'blog.description': 'Introduzione al blog',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Regolando il tema, sarai in grado di cambiare l\'aspetto della pagina. Questa funzione non è ancora pronta.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.post.create': 'Crea un nuovo post',
+    'blog.post.update': 'Modifica {title}',
+    'blog.post.text': 'Testo del post',
+    'common.slug': 'Indirizzo SEO friendly',
+    'blog.slug.explained': 'Url bello per il post. Evita di utilizzare caratteri speciali tranne "-".',
+    'blog.publicView': 'Visibile al pubblico',
+    'blog.post.notfound': 'Il post del blog non è stato trovato',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universi}
+    stories {Storie autonome}
+    fanfiction {Lavori di Fan Fiction}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'Qui sono elencate storie autonome, se la storia è stata scritta come parte di un universo, verrà elencata nella pagina dell\'universo.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.social.website': 'Sito web ufficiale',
+    'blog.settings.universeSettings': 'I blog dell\'universo sono integrati nelle pagine dell\'universo con le impostazioni di base prese dalle impostazioni dell\'universo.',
+    'blog.settings.organizationSettings': 'I blog dell\'organizzazione sono integrati nelle pagine dell\'organizzazione.',
+    'blogs.lu': 'Blog ufficiali di Literary Universe',
+    'blogs.featured': 'Blog in evidenza',
+    'blogs.new': 'Blog più recenti',
+    'blogs.title': 'Blog di Literary Universe',
+    'blogs.description': 'Elenco dei blog sulla piattaforma Literary Universe.',
+    'blogs.visit': 'Visita il blog',
+    'blog.settingsAria': 'Categorie delle impostazioni per il blog',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.introText': 'Paragrafo introduttivo',
+    'blog.post.writtenBy': 'Scritto da {usernameDisplay}',
+    'blog.post.writtenByFor': 'Scritto da {usernameDisplay} per {publicationName}',
+    'blog.posts.recent': 'Post recenti'
 };

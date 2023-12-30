@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Przełączanie podświetlenia wybranego akapitu',
     'reader.accessibility.toggleRules': 'Przełączanie linijki pomocniczej',
     'reader.nextRelease.scheduled': 'Następny rozdział pojawi się {nextReleaseAt, date} o {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'Historia kontynuuje się...',
+    'reader.storyOnHiatus': 'Autor aktualnie robi przerwę od tej historii i jest ona wstrzymana na razie. Sprawdź ponownie za miesiąc lub dwa.',
+    'reader.storyCancelled': 'Niestety to już wszystko. Historia została anulowana, więc mało prawdopodobne, że pojawi się coś nowego.',
+    'reader.storyCancelled.heading': 'Anulowane',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Również podamy przybliżoną datę publikacji następnego rozdziału, gdy historia będzie miała więcej niż jeden rozdział.'
 };

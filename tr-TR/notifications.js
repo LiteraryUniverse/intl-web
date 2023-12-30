@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Yeni bir flaş haber oluşturun',
+  'flashnews.startsAt': 'Bu mesajı şuradan itibaren göstermeye başla',
+  'flashnews.endsAt': 'Bu mesajı şuradan itibaren göstermeyi durdur',
+  'flashnews.newLanguage': 'Eklenecek yeni dil seç',
+  'flashnews.onlyDisplayOn': 'Haberler sadece aşağıda seçilen dillerde gösterilecek (eğer herhangi bir dil seçili ise), diğer dillerde varsayılan dilde bile haber gösterilmeyecek.',
+  'notifications.menu.all': 'Tüm bildirimler',
+  'notifications.menu.following': 'Takip ettiğim',
+  'notifications.menu.workshop': 'Atölye',
+  'notifications.menu.news': 'Haberler ve güncellemeler',
+  'notifications.menu.markUnread': 'Okunmamış olarak işaretle',
+  'notifications.menu.markRead': 'Okundu olarak işaretle',
+  'notifications.menu.delete': 'Bildirimi sil',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Hikayeniz {storyName} hareketsizlik nedeniyle otomatik olarak ara verildi.',
+  'notification.workshopStoryStatus.toCancelled': 'Hikayeniz {storyName} bir yıllık hareketsizlikten sonra otomatik olarak iptal edildi.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} ara verdi.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} iptal edildi.',
+  'notification.followingNewChapter.new': '{storyName} adlı hikayede yeni bir bölüm yayınlandı!',
+  'notification.workshopStory.newComment': '{storyName}hakkında yorum yaptı.',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'size bir arkadaşlık isteği gönderdi.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Hikayeye Git'
 };

@@ -89,15 +89,16 @@ export default {
     other {}
   }更新されます。`,
     'plans.subscribed.paymentMethod': '次回の支払いの際も、お客様の現在の支払い方法が適用されます。',
-    'plans.subscribed.status': `購読状況：{status, select,
-    active {アクティブ}
-    incomplete {不足情報があります}
-    incomplete_expired {不足情報があります}
-    trialing {トライアル}
-    past_due {お支払いがされていません}
-    canceled {キャンセル}
-    unpaid {未払い}
-    other {}
+    'plans.subscribed.status': `購読状況：!< {status, select,
+    active {アクティブ <}
+    incomplete {何かが抜けています<}
+    incomplete_expired {何かが抜けています<}
+    trialing {トライアル<}
+    past_due {お支払いが不足しています<}
+    canceled {キャンセル済<}
+    unpaid {未払い<}
+    expired {期限切れ<}
+    other {<}
   }`,
     'payments.changeMethod': '支払い方法の変更',
     'plans.subscribed.willNotRenew': 'は、サイクル終了まで更新されません。',

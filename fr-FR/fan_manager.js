@@ -17,5 +17,6 @@ export default {
   'fanManager.stateChange.reject': 'Rejeter l\'art du fan',
   'fanManager.stateChange.hide': 'Cacher l\'art du fan',
   'fanManager.stateChange.unhide': 'Rendre visible l\'art du fan',
-  'fanManager.fanFictionNotAllowed': 'La fan fiction n\'est pas autorisée par la nature de votre licence.'
+  'fanManager.fanFictionNotAllowed': 'La fan fiction n\'est pas autorisée par la nature de votre licence.',
+  'fanManager.fanFiction.maxRating': 'Note that the french translation of the term \'fan fiction\' should be \'fanfiction\'. Please translate accordingly.'
 };

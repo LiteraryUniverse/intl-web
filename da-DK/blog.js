@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Du har i øjeblikket ingen {type, select,
+    organization {blog}
+    universe {en blog til dit univers}
+    user {en blog}
     other {}
   }.`,
     'blog.create': 'Create a new blog',
@@ -28,30 +28,31 @@ export default {
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universer}
+    stories {Enkeltstående historier}
+    fanfiction {Fan Fiction arbejde}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Sociale links er de samme som indstillet i {type, select,
+    organization {organisationsindstillinger}
+    user {brugerprofil}
     other {}
   }`,
     'blog.social.website': 'Official website',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blog.settings.organizationSettings': 'Organisationsblogs er integreret i organisationsider.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
     'blogs.new': 'Newest blogs',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settingsAria': 'Indstillingskategorier for bloggen',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.introText': 'Introduktionstekst',
+    'blog.post.writtenBy': 'Skrevet af {usernameDisplay}',
+    'blog.post.writtenByFor': 'Skrevet af {usernameDisplay} til {publicationName}',
+    'blog.posts.recent': 'Seneste indlæg'
 };

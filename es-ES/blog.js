@@ -53,5 +53,6 @@ export default {
     'blog.settings.forum': 'Foro',
     'blog.post.introText': 'Introducción',
     'blog.post.writtenBy': 'Escrito por {usernameDisplay}',
-    'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}'
+    'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}',
+    'blog.posts.recent': 'Publicaciones recientes'
 };

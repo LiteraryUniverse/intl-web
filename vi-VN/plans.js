@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `Tình trạng đăng ký: {status, select,
+    active {Hoạt động}
+    incomplete {Có điều gì đó bị thiếu}
+    incomplete_expired {Có điều gì đó bị thiếu}
+    trialing {Thử nghiệm}
+    past_due {Thiếu thanh toán của bạn}
+    canceled {Đã hủy}
+    unpaid {Chưa thanh toán}
+    expired {Hết hạn}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',

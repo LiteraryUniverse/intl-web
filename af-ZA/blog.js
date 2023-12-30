@@ -1,57 +1,58 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Jy het tans geen {type, select,
+    organization {enige blog}
+    universe {'n blog vir jou heelal}
+    user {'n blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Skep \'n nuwe blog',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {heelal bladsy}
     user {Blog}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  } instellings`,
+    'blog.description': 'Blog inleiding',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Deur die tema aan te pas sal jy die voorkoms van die bladsy kan verander. Hierdie funksie is nie gereed op hierdie tydstip nie.',
+    'blog.posts.total': `Daar {total, plural,
+    zero {is geen plasings}
+    one {is een plasing}
+    other {is # plasings}
+  } in hierdie blog nie.`,
+    'blog.post.create': 'Skep \'n nuwe plasing',
+    'blog.post.update': 'Wysig {title}',
+    'blog.post.text': 'Plasing teks',
+    'common.slug': 'SEO vriendelike adres',
+    'blog.slug.explained': 'Netjiese URL vir die bladsy. Vermy die gebruik van spesiale karakters behalwe vir "-".',
+    'blog.publicView': 'Openbare aansig',
+    'blog.post.notfound': 'Blog plasing kon nie gevind word nie',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Heelalle}
+    stories {Standom stories}
+    fanfiction {Fanfiksie-werk}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Hier is alleenstaande stories gelys. As \'n storie deel is van \'n heelal, sal dit op die heelal bladsy gelys word.',
+    'blog.social.sameAsMain': `Sosiale skakels is dieselfde as ingestel in {type, select,
+    organization {organisasie-instellings}
+    user {gebruikersprofiel}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.social.website': 'Amptelike webwerf',
+    'blog.settings.universeSettings': 'Heelal blogs word geintegreer in heelal bladsye met hul basiese instellings geneem vanaf heelal instellings.',
+    'blog.settings.organizationSettings': 'Organisasieblogs is geïntegreer in organisasiebladsye.',
+    'blogs.lu': 'Amptelike Literêre Heelal blogs',
+    'blogs.featured': 'Uitgeligte blogs',
+    'blogs.new': 'Nuutste blogs',
+    'blogs.title': 'Blogs van Literêre Heelal',
+    'blogs.description': 'Lys van blogs op die Literêre Heelal platform.',
+    'blogs.visit': 'Besoek blog',
+    'blog.settingsAria': 'Instellingskategorieë vir die blog',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.introText': 'Inleidende paragraaf',
+    'blog.post.writtenBy': 'Geskryf deur {usernameDisplay}',
+    'blog.post.writtenByFor': 'Geskryf deur {usernameDisplay} vir {publicationName}',
+    'blog.posts.recent': 'Onlangse plasings'
 };

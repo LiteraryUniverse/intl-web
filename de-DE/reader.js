@@ -30,7 +30,10 @@ export default {
     'reader.accessibility.toggleRules': 'Hilfslineal umschalten',
     'reader.nextRelease.scheduled': 'Das nächste Kapitel erscheint am {nextReleaseAt, date} um {nextReleaseAt, time}!',
     'reader.storyContinues': 'Die Geschichte geht weiter...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyOnHiatus': 'Der Autor nimmt sich derzeit eine Auszeit von dieser Geschichte und diese Geschichte ist vorerst auf Eis gelegt. Schauen Sie in ein oder zwei Monaten wieder vorbei.',
+    'reader.storyCancelled': 'Leider ist das alles. Die Geschichte wurde abgebrochen, daher ist es unwahrscheinlich, dass es etwas Neues geben wird.',
+    'reader.storyCancelled.heading': 'Abgebrochen',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Wenn diese Geschichte mehr als ein Kapitel hat, werden wir auch eine Schätzung abgeben, wann das nächste Kapitel veröffentlicht wird.'
 };

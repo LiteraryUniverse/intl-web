@@ -5,7 +5,7 @@ export default {
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.fanarts.for': '{universe} Fan Arts',
     'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
+    'universe.fanfiction.stories': 'lisri',
     'universe.fanfiction.fanarts': 'Fan Arts',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
@@ -29,5 +29,8 @@ export default {
     'universe.fanArt.submit': 'Submit your art',
     'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
+    'universe.fanFiction.hidden': 'Relfuch limfa',
+    'universe.fanFiction.hide': 'Hide fanfiction',
+    'universe.fanFiction.unhide': 'Unhide fanfiction'
 };

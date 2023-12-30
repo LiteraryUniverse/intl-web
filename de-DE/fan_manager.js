@@ -17,5 +17,6 @@ export default {
   'fanManager.stateChange.reject': 'Fan-Kunst ablehnen',
   'fanManager.stateChange.hide': 'Fan-Kunst ausblenden',
   'fanManager.stateChange.unhide': 'Fan-Kunst sichtbar machen',
-  'fanManager.fanFictionNotAllowed': 'Fanfiction ist aufgrund der Art der Lizenz nicht erlaubt.'
+  'fanManager.fanFictionNotAllowed': 'Fanfiction ist aufgrund der Art der Lizenz nicht erlaubt.',
+  'fanManager.fanFiction.maxRating': 'Höchstbewertung von angezeigter Fan-Fiction.'
 };

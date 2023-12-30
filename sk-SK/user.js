@@ -44,10 +44,10 @@ export default {
     one {fan fiction}
     other {fan fictions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Práce',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Zoznam želaní',
+    'profile.storiesBy': 'Príbehy vytvorené {username}',
+    'profile.universesBy': 'Vesmíry vytvorené {username}',
+    'profile.fanFictionBy': 'Fan Fiction vytvorené {username}'
 };

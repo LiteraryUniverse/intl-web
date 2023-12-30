@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `Stádas síntiúsú: {status, select,
+    active {Faoi ​​díobháil}
+    incomplete {Tá rud éigin ar iarraidh}
+    incomplete_expired {Tá rud éigin ar iarraidh}
+    trialing {Triail}
+    past_due {Tá do phá ag iarraidh orainn}
+    canceled {Cealaíteach}
+    unpaid {Neamhiadvócháilte}
+    expired {Rite}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',

@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'To be continued...',
     'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
     'chapter.translation.notYetDescription': 'Check back again soon!',
-    'reader.externalShopping.heading': 'Buy {storyName} in stores:',
+    'reader.externalShopping.heading': 'ସ୍ଟୋର୍ ରେ {storyName} କୋଣାକୁ କିନିବା:',
     'chapter.next': 'Next chapter',
     'chapter.previous': 'Previous chapter',
     'chapter.comment': 'Comments on this chapter',
@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Toggle accessibility',
     'chapter.translation.notYet': 'This chapter has not yet been translated.',
     'externalShopping.buyLink.amazon': 'Buy on Amazon',
-    'externalShopping.buyLink.other': 'Buy on {storeName}',
+    'externalShopping.buyLink.other': '{storeName}ରେ କେନ୍ଦ୍ରିତ କର:',
     'externalShopping.buyLink.bookshop': 'Buy on Bookshop.org',
     'reader.accessibility.aria': 'ଅଭିଗମ୍ୟତା ଵିକଳ୍ପ',
     'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
@@ -30,7 +30,10 @@ export default {
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
     'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyOnHiatus': 'ଲେଖକ ଏହି ଗପ ର ସମୟକାଣି ନିରାବର୍ତ୍ତ୍ମ କରୁଛନ୍ତି ଏବଂ ଏହି ଗପ ଏମିତି ଅବସ୍ଥାରେ ଅବସ୍ଥା ନିଷ୍କ୍ରିୟ।  ଏକ ମାସ ବା ଦୁଇମାସ ପରେ ଫେରିବେ ଦେଖନ୍ତୁ |',
+    'reader.storyCancelled': 'ଯଦିଓ ଏହି ହେଲେ | ଗପ ବାଧ୍ୟ ରେ ଛାଡ଼ା ପଡ଼ି ଦେଇଛି ଏବଂ କିଛି ନଣ୍ଟି ପାଇଁ ଅସମ୍ଭାବିତ |',
+    'reader.storyCancelled.heading': 'ବାତିଲ',
+    'reader.nextChapterEstimation.verySoon': 'ସମାଚାର ପ୍ରକାଶନ ତାରିଖେ ଆଧାରେ  ଅନୁଯାୟିକ {chaptersCount, number} ଅଧ୍ୟାୟ ର ପ୍ରକାଶନ ତଥ୍ୟ ଦ୍ଵାରା, ପରବର୍ତ୍ତିକ ଅଧ୍ୟାୟ ବହୁତ ଶୀଘ୍ରଇ ପ୍ରକାଶନ ହେବ ଚାହିଁଛି।',
+    'reader.nextChapterEstimation.days': 'ସମାଚାର ପ୍ରକାଶନ ତାରିଖେ ଆଧାରେ  ଅନୁଯାୟିକ {chaptersCount, number} ଅଧ୍ୟାୟ ର ପ୍ରକାଶନ ତଥ୍ୟ ଦ୍ବାରା, ପରବର୍ତ୍ତିକ ଅଧ୍ୟାୟ ପ୍ରାସଙ୍ଗିକ {daysLeft, plural, one {1 ଦିନ} other {ରେ ଉପଲବ୍ଧ ହେବ}}ଦିନ ।',
+    'reader.nextChapterEstimation.notEnoughChapters': 'ଏହି ଗପରେ ଏକଟି ଭାଗରେ ହାଖଖୋରେ ଏହି ଗପ ଅଧ୍ୟାୟ ୧ ପାଇଁ ପ୍ରକାଶନ କରିବେ, ତେବେ ଯଥାଯଥ ଅବଧି ନିର୍ଧାରଣ କରିବେ।'
 };

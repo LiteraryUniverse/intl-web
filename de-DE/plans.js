@@ -93,10 +93,11 @@ export default {
     active {Aktiv}
     incomplete {Etwas fehlt}
     incomplete_expired {Etwas fehlt}
-    trialing {Probe}
-    past_due {Deine Zahlung fehlt}
-    canceled {Abgebrochen}
-    unpaid {Unbezahlt}
+    trialing {Test!}
+    past_due {Uns fehlt Ihre Zahlung}
+    canceled {Storniert}
+    unpaid {Ungezahlt}
+    expired {Abgelaufen}
     other {}
   }`,
     'payments.changeMethod': 'Zahlungsmethode ändern',

@@ -43,7 +43,7 @@ export default {
     'feedback.report.copyrightReportSaved': 'Спасибо за сообщение! Мы проведём расследование и свяжемся с вами.',
     'feedback.report.copyrightOwnershipDesc': 'Заявление о праве собственности',
     'feedback.report.copyrightNotice': 'Обратите внимание, что для использования этой формы вы должны быть законным владельцем произведения. Если вы не являетесь владельцем, пожалуйста, сообщите об этом владельцу или воспользуйтесь другой категорией, чтобы сообщить нам. Мы крайне серьёзно относимся к нарушениям авторских прав, и то же самое относится к ненадлежащему и неправомерному использованию этой формы.',
-    'feedback.report.copyrightInternalProperty': 'Я опубликовал(-а) эту работу на сайте Literary Universe',
+    'feedback.report.copyrightInternalProperty': 'Я опубликовал(-а) это произведение на сайте Literary Universe',
     'feedback.reportType.spam': 'Спам или фишинг',
     'feedback.reportType.other': 'Другое',
     'feedback.report.copyrightType.propertySelectLabel': `Какая {type, select,

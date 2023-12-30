@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `Tellimuse staatus: {status, select,
+    active {Aktiivne}
+    incomplete {Midagi on puudu}
+    incomplete_expired {Midagi on puudu}
+    trialing {Prooviperiood}
+    past_due {Me ei ole saanud sinu makset}
+    canceled {Tühistatud}
+    unpaid {Maksmata}
+    expired {Aegunud}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',

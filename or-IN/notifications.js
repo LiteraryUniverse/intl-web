@@ -20,8 +20,8 @@ export default {
   'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
   'notification.workshopStory.newComment': 'has commented on {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'sent you a friend request.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'କାହାଣୀରେ ଯାନ୍ତୁ'
 };

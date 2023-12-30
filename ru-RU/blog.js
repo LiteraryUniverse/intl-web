@@ -31,7 +31,7 @@ export default {
     'blog.lists.works': `{type, select,
     universes {Вселенные}
     stories {Отдельные истории}
-    fanfiction {Работ в жанре фанфика}
+    fanfiction {Произведений в жанре фанфика}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Здесь перечислены отдельные истории, если история была написана как часть вселенной, то она будет указана на странице вселенной.',
@@ -54,5 +54,6 @@ export default {
     'blog.settings.forum': 'Форум',
     'blog.post.introText': 'Вступительный абзац',
     'blog.post.writtenBy': 'Написано {usernameDisplay}',
-    'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}'
+    'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
+    'blog.posts.recent': 'Последние сообщения'
 };

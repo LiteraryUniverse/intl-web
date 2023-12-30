@@ -5,53 +5,54 @@ export default {
     user {a blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Loo uus blogi',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Blogi}
+    universe {Universumi leht}
+    user {Blogi}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  } seaded`,
+    'blog.description': 'Blogi sissejuhatus',
+    'blog.theme': 'Teema',
+    'blog.theme.info': 'Lehekülje väljanägemise muutmiseks saate teemat kohandada. See funktsioon ei ole praegu valmis.',
+    'blog.posts.total': `Selles blogis pole {total, plural,
+    zero {postitusi}
+    one {on üks postitus}
+    other {on # postitused}
+  }.`,
+    'blog.post.create': 'Loo uus postitus',
+    'blog.post.update': 'Redigeeritakse {title}',
+    'blog.post.text': 'Postituse tekst',
+    'common.slug': 'SEO sõbralik aadress',
+    'blog.slug.explained': 'Kenalt välja nägev URL postituse juurde. Vältige erimärke, välja arvatud "-".',
+    'blog.publicView': 'Avalik vaade',
+    'blog.post.notfound': 'Blogi postitust ei leitud',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Standalone stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'Siin on eraldi lugude loetelu. Kui lugu on kirjutatud osana universumist, kuvatakse see universumi lehel.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.social.website': 'Ametlik veebileht',
+    'blog.settings.universeSettings': 'Universe blogid on integreeritud universumi lehtedega, võttes arvesse nende põhiseadeid.',
+    'blog.settings.organizationSettings': 'Organisatsiooni blogid on integreeritud organisatsiooni lehtedesse.',
+    'blogs.lu': 'Ametlik Kirjandusliku Universumi blogid',
+    'blogs.featured': 'Esiletõstetud blogid',
+    'blogs.new': 'Uusimad blogid',
+    'blogs.title': 'Kirjandusliku Universumi blogid',
+    'blogs.description': 'Loendi kujul olevad blogid Kirjandusliku Universumi platvormil.',
+    'blogs.visit': 'Külasta blogi',
+    'blog.settingsAria': 'Sätete kategooriad blogile',
+    'blog.settings.blog': 'Blogi',
+    'blog.settings.forum': 'Foorum',
+    'blog.post.introText': 'Sissejuhatav lõik',
+    'blog.post.writtenBy': 'Kirjutas {usernameDisplay}',
+    'blog.post.writtenByFor': 'Kirjutas {usernameDisplay} {publicationName}jaoks',
+    'blog.posts.recent': 'Viimased postitused'
 };

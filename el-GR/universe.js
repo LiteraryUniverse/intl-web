@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.authors.title.meta': '{title} συγγραφείς',
+    'universe.fanfiction.see': 'Όλο το Fan Fiction για το {universe}',
+    'universe.fanfiction.desc': 'Fan Fiction για {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.fanarts.for': '{universe} έργα ανεμίδας',
+    'universe.fansettings.for': '{universe} ρυθμίσεις ανεμίδας',
+    'universe.fanfiction.stories': 'Ιστορίες',
+    'universe.fanfiction.fanarts': 'Τέχνη των θαυμαστών',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
     other {are # stories}
     } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title': 'Συγγραφείς',
+    'universe.authors.desc': 'Δημιουργοί και συνεισφέροντες στο {universe}',
+    'universe.contributors': 'Συνεισφέροντες',
+    'universe.translators': 'Μεταφραστές',
+    'universe.authors.notice': 'Κάθε ιστορία μπορεί να έχει επιπλέον προσωπικό που έχει εργαστεί πάνω της. Για περισσότερες λεπτομέρειες δείτε τα στοιχεία της ιστορίας.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    male {Δημιουργήθηκε}
+    female {Δημιουργήθηκαν}
+    other {Δημιουργήθηκαν}} από `,
+    'universe.stories.for': 'Ιστορίες για το {universe}',
+    'universe.stories.own': '{universe} ιστορίες',
+    'universe.stories.desc': 'Ιστορίες βασικής γραφής για το {universe}',
+    'universe.encyclopedia.title': '{universe} εγκυκλοπαίδεια',
+    'universe.encyclopedia.desc': 'Όλες οι λεπτομέρειες για το {universe}',
+    'universe.fanArt.submit': 'Υποβάλετε την τέχνη σας',
+    'universe.fanArtHeaderDesc.item': '{universe} έργα φαν - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} υποβολή έργου φαν',
+    'universe.fanArtHeaderDesc.overview': '{universe} έργα φαν',
+    'universe.fanFiction.hidden': 'Κρυφό',
+    'universe.fanFiction.hide': 'Απόκρυψη φανταστικής αφήγησης',
+    'universe.fanFiction.unhide': 'Εμφάνιση φανταστικής αφήγησης'
 };

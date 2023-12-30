@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `{type, select,
+    organization {നിങ്ങൾക്ക് ഇപ്പോൾ}
+    universe {ഒരു യൂണിവേഴ്സിനുള്ള blog ഉണ്ടാക്കാൻ സാധിച്ചിട്ടില്ല}
+    user {ഒരു blog}
     other {}
   }.`,
     'blog.create': 'Create a new blog',
@@ -28,30 +28,31 @@ export default {
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {യൂണിവേഴ്സ്}
+    stories {സ്വതന്ത്ര കഥകൾ}
+    fanfiction {ഫാൻ ഫിക്ഷൻ കാര്യം}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `സോഷ്യൽ ലിങ്കുകൾ എഴുതേണ്ടത് {type, select,
+    organization {ഓർഗനൈസേഷൻ ക്രമങ്ങളിൽ അമർത്താൻ}
+    user {ഉപയോക്തൃ പ്രൊഫൈൽ ക്രമങ്ങളിൽ}
     other {}
   }`,
     'blog.social.website': 'Official website',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blog.settings.organizationSettings': 'കമ്പനി ബ്ലോഗുകൾ കമ്പനി പേജുകൾക്ക് ഐക്യകരിക്കപ്പെടുന്നു.',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
     'blogs.new': 'Newest blogs',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.settingsAria': 'ബ്ലോഗിന് ക്രമങ്ങൾ വേണം',
+    'blog.settings.blog': 'ബ്ലോഗ്',
+    'blog.settings.forum': 'ഫോറം',
+    'blog.post.introText': 'പ്രസ്താവന പഠിപ്പ്',
+    'blog.post.writtenBy': 'എഴുതിയത് {usernameDisplay}',
+    'blog.post.writtenByFor': 'എഴുതിയത് {usernameDisplay} യുടെയാണ് {publicationName}',
+    'blog.posts.recent': 'ഏറ്റവും പുതിയ പോസ്റ്റുകൾ'
 };

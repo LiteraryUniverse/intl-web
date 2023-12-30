@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': 'To be continued...',
     'reader.storyTBC.description': 'This is all we have for the story so far, but the adventure will continue in the future, check back soon!',
     'chapter.translation.notYetDescription': 'Check back again soon!',
-    'reader.externalShopping.heading': 'Buy {storyName} in stores:',
+    'reader.externalShopping.heading': 'སྣེ་འབྱོར་ཀྱི་ཕྱིར་ {storyName} རྗེས་ས་ནས་ཕྱིར་འབྱུང་གི་དོན་གསལ།',
     'chapter.next': 'Next chapter',
     'chapter.previous': 'Previous chapter',
     'chapter.comment': 'Comments on this chapter',
@@ -21,7 +21,7 @@ export default {
     'reader.accessibility': 'Toggle accessibility',
     'chapter.translation.notYet': 'This chapter has not yet been translated.',
     'externalShopping.buyLink.amazon': 'Buy on Amazon',
-    'externalShopping.buyLink.other': 'Buy on {storeName}',
+    'externalShopping.buyLink.other': 'སྣེ་འབྱོར་ {storeName}ནང་དུ་ས་རྗེས་མི་གིས་རྗེས་ས་ནས་ཕྱིར་འབྱུང་གི་དྲ་གནས་གླེང་བཟོས།',
     'externalShopping.buyLink.bookshop': 'Buy on Bookshop.org',
     'reader.accessibility.aria': 'Accessibility options',
     'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
     'reader.accessibility.toggleRules': 'Toggle assistive ruler',
     'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'སྙན་ཞིག་ལྷུག་ཐོར་ལ།',
+    'reader.storyOnHiatus': 'གསར་ཅོའི་གནས་བསྡུ་བདེན་པ་རོགས་པ། སྙན་ཞིག་ཟག་ན་བསྡུ་བདེན་ལ།',
+    'reader.storyCancelled': 'ཁྱེད་ཀྱིས་བྱ་རྒྱུ་ཤོག་འདི་འདི་བཟོ་ནི་ཡོད་དོ། སྙན་ཞིག་འདི་བཏོན་སྦྱོང་བའི་ཡོད་པའི་བརྗོད་གནས་བྱས་ཟིན་པ་དང་མཉེས་པ་སོགས་རམ་ལས་འདུག',
+    'reader.storyCancelled.heading': 'བརྗོད་གན།',
+    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'འགྱུར་ཡུལ་དང་ཤུ་ཨེ་བརྗོད་གནས་སྤྱོད་པའི་བསྗོད་འབད་པའི་དོགས་པ་སོགས་དང་ནང་བདེའགས་དོན་གང་རུང་གི་རྡོ་བདག་སྟེ་བསྡུ་བསྐུལ་འདེམས་ཁེལ་ནང་དེ་ཡོད་པ་ལག་གསོ་བརྐྱབས་རྫོགས་བཞིན་མ་འོངས་པ་ཡོད།'
 };

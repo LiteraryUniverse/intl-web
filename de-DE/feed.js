@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'News-Feeds',
     'feed.post.new': 'Neuer Post',
     'feed.post.like': 'Beitrag gefällt',
     'feed.post.unlike': 'Im Gegensatz zu Post',

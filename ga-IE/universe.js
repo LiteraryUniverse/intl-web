@@ -1,33 +1,36 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
-    'universe.fanfiction.for': '{universe} Fan Fiction',
-    'universe.fanarts.for': '{universe} Fan Arts',
-    'universe.fansettings.for': '{universe} Fan Settings',
-    'universe.fanfiction.stories': 'Stories',
+    'universe.authors.title.meta': '{title} údair',
+    'universe.fanfiction.see': 'Gach Scríobh Fiction do {universe}',
+    'universe.fanfiction.desc': 'Scríobh Fiction d\'aon {universe}',
+    'universe.fanfiction.for': 'Ficsean Fan  {universe}',
+    'universe.fanarts.for': '{universe} Ealaín Bhfanna',
+    'universe.fansettings.for': '{universe} Socruithe Bhfanna',
+    'universe.fanfiction.stories': 'Scéalta',
     'universe.fanfiction.fanarts': 'Fan Arts',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
     other {are # stories}
     } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
-    'universe.translators': 'Translators',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.title': 'Údair',
+    'universe.authors.desc': 'Cruthaitheoirí agus cuiditheoirí d\'aois {universe}',
+    'universe.contributors': 'Cuiditheoirí',
+    'universe.translators': 'Aistritheoirí',
+    'universe.authors.notice': 'D\'fhéadfadh go mbeadh duine pearsanta breise ag gach scéal a raibh baint acu leis. Chun tuilleadh eolais a fháil féach ar mhionsonra gach scéil.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
-    'universe.stories.for': 'Stories for {universe}',
-    'universe.stories.own': '{universe} stories',
-    'universe.stories.desc': 'Cannon stories for {universe}',
-    'universe.encyclopedia.title': '{universe} encyclopedia',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
+    male {Cruthaíodh}
+    female {Cruthaíodh}
+    other {Cruthaíodh}} ag `,
+    'universe.stories.for': 'Scéalta d\'aon {universe}',
+    'universe.stories.own': '{universe} scéal',
+    'universe.stories.desc': 'Scéalta Cainteoir do {universe}',
+    'universe.encyclopedia.title': 'Cinniúint do  {universe}',
+    'universe.encyclopedia.desc': 'Gach sonraí do {universe}',
     'universe.fanArt.submit': 'Submit your art',
     'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art'
+    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
+    'universe.fanFiction.hidden': 'Iascríbhne a bhaint amach',
+    'universe.fanFiction.hide': 'Hide fanfiction',
+    'universe.fanFiction.unhide': 'Unhide fanfiction'
 };

@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Informačný kanál',
     'feed.post.new': 'Nový príspevok',
     'feed.post.like': 'Páči sa mi príspevok',
     'feed.post.unlike': 'Na rozdiel od príspevku',

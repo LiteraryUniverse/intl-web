@@ -89,14 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Ваш способ оплаты по умолчанию будет использоваться для оплаты следующего цикла.',
-    'plans.subscribed.status': `Состояние подписки: {status, select,
-    active {Действует}
-    incomplete {Чего-то не хватает}
-    incomplete_expired {Чего-то не хватает}
-    trialing {Пробная версия}
-    past_due {Мы не получили ваш платёж}
+    'plans.subscribed.status': `Статус подписки: {status, select,
+    active {Активная}
+    incomplete {Что-то отсутствует}
+    incomplete_expired {Что-то отсутствует}
+    trialing {Испытание}
+    past_due {Нам не хватает вашего платежа}
     canceled {Отменена}
-    unpaid {Неоплачена}
+    unpaid {Неоплаченная}
+    expired {Истекший}
     other {}
   }`,
     'payments.changeMethod': 'Изменить метод оплаты',

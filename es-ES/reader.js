@@ -32,5 +32,8 @@ export default {
     'reader.storyContinues': 'La historia continúa...',
     'reader.storyOnHiatus': 'El autor está ahora mismo tomándose un respiro y esta historia se encuentra en un hiato por ahora. Vuelve a echarle un vistazo en un mes o dos.',
     'reader.storyCancelled': 'Por desgracia hasta aquí hemos llegado. Se ha cancelado la historia y es muy poco probable que veas algo nuevo.',
-    'reader.storyCancelled.heading': 'Cancelada'
+    'reader.storyCancelled.heading': 'Cancelada',
+    'reader.nextChapterEstimation.verySoon': 'Basado en las fechas de publicación de los últimos {chaptersCount, number} capítulos, se espera que el próximo capítulo sea lanzado muy pronto.',
+    'reader.nextChapterEstimation.days': 'Basado en las fechas de publicación de los últimos {chaptersCount, number} capítulos, el próximo capítulo debería estar disponible en aproximadamente {daysLeft, plural, one {1 día} other {# días}}.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'También proporcionaremos una estimación de cuándo se podría publicar el próximo capítulo una vez que esta historia tenga más de un capítulo.'
 };

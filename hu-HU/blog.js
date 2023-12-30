@@ -1,57 +1,58 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Jelenleg nincs semmilyen {type, select,
+    organization {blog}
+    universe {blog az univerzuma számára}
+    user {blog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Új blog létrehozása',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Univerzum oldal}
     user {Blog}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  } beállítások`,
+    'blog.description': 'Blog bevezetés',
+    'blog.theme': 'Téma',
+    'blog.theme.info': 'Az oldal kinézetét a téma beállításával módosíthatja. Ez a funkció jelenleg nem érhető el.',
+    'blog.posts.total': `Ebben a blogban {total, plural,
+    zero {nincsenek bejegyzések}
+    one {egy bejegyzés}
+    other {# bejegyzése van}
+  }.`,
+    'blog.post.create': 'Új bejegyzés létrehozása',
+    'blog.post.update': 'A(z) {title}szerkesztése',
+    'blog.post.text': 'Bejegyzés szövege',
+    'common.slug': 'SEO barát URL',
+    'blog.slug.explained': 'Vonzó kinézetű URL a bejegyzéshez. Kerülje a különleges karakterek használatát, kivéve "-" karaktert.',
+    'blog.publicView': 'Nyilvános megtekintés',
+    'blog.post.notfound': 'A blogbejegyzés nem található',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Univerzumok}
+    stories {Önálló történetek}
+    fanfiction {Rajongói Szöveg}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Ebben a listában önálló történetek szerepelnek. Ha egy történet egy univerzum részeként van írva, akkor az univerzum oldalon kerül felsorolásra.',
+    'blog.social.sameAsMain': `A közösségi linkek ugyanazok, mint amik a {type, select,
+    organization {szervezeti beállításokban vannak beállítva}
+    user {felhasználói profilban}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.social.website': 'Hivatalos weboldal',
+    'blog.settings.universeSettings': 'Az univerzum blogok integrálva vannak az univerzum oldalakra, ahol az alapbeállításaik az univerzum beállításairól származnak.',
+    'blog.settings.organizationSettings': 'Szervezeti blogok integrálódnak a szervezet oldalába.',
+    'blogs.lu': 'Hivatalos Irodalmi Univerzum blogok',
+    'blogs.featured': 'Kiemelt blogok',
+    'blogs.new': 'Legújabb blogok',
+    'blogs.title': 'Irodalmi Univerzum blogjai',
+    'blogs.description': 'Blogok felsorolása az Irodalmi Univerzum platformon.',
+    'blogs.visit': 'Látogassa meg a blogot',
+    'blog.settingsAria': 'Beállítási kategóriák a bloghoz',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.settings.forum': 'Fórum',
+    'blog.post.introText': 'Bevezető bekezdés',
+    'blog.post.writtenBy': 'Írta: {usernameDisplay}',
+    'blog.post.writtenByFor': 'Írta: {usernameDisplay} {publicationName}részére',
+    'blog.posts.recent': 'Legfrissebb bejegyzések'
 };

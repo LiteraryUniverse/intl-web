@@ -20,7 +20,7 @@ export default {
   'notification.followingNewChapter.new': 'Опубликована новая глава в "{storyName}"!',
   'notification.workshopStory.newComment': 'оставляет комментарий к "{storyName}"',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'отправляет вам запрос на добавление в друзья.',
+  'notification.friendRequest': 'отправил вам запрос на добавление в друзья.',
   // Before this text will be the username of the user
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Перейти к истории'

@@ -25,5 +25,8 @@ export default {
     'universe.fanArt.submit': '作品を投稿する',
     'universe.fanArtHeaderDesc.item': '{universe} ファンアート - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} ファンアートを投稿する',
-    'universe.fanArtHeaderDesc.overview': '{universe} ファンアート'
+    'universe.fanArtHeaderDesc.overview': '{universe} ファンアート',
+    'universe.fanFiction.hidden': '非表示',
+    'universe.fanFiction.hide': 'ファンフィクションを非表示にする',
+    'universe.fanFiction.unhide': 'ファンフィクションを表示する'
 };
