@@ -4,6 +4,10 @@
 
 * Added support for Meteor 3.0-beta.0
 * Merged strings from Crowdin
+* Fixed strings for chapters estimation
+* New blog strings
+* New fan fiction rating strings
+* New plan strings
 
 ## 2023-11-10 - v2.10.4
 
