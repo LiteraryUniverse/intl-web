@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2023-12-30 - v2.10.5
+
+* Added support for Meteor 3.0-beta.0
+* Merged strings from Crowdin
+
 ## 2023-11-10 - v2.10.4
 
 * New strings for profile page
