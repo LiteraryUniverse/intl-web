@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Stop!',
+    'console.explain': 'Dit is een browserfunctie bedoeld voor ontwikkelaars. Als iemand je heeft verteld om iets hier te kopiëren en plakken om een functie van Literary Universe mogelijk te maken of iemands account te "hacken", dan is het oplichting en geeft het hen toegang tot jouw Literary Universe-account.'
 }    /* eslint-enable max-len */;
