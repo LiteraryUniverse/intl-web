@@ -258,5 +258,5 @@ export default {
     'email.hello': 'Hello {username},',
     'common.back': 'Back',
     'console.stop': 'Stop!',
-    'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.'
+    'console.explain': 'Hierdie is \'n blaaier eienskap bedoel vir ontwikkelaars. As iemand jou vertel het om iets hier te kopieer en plak om \'n Literêre Heelal eienskap te aktiveer of iemand se rekening te "hack", is dit \'n bedrog en sal dit hulle toegang gee tot jou Literêre Heelal rekening.'
 }    /* eslint-enable max-len */;
