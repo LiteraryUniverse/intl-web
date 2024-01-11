@@ -27,7 +27,7 @@ export default {
   // Pre-defined category names
   'forums.category.intlName.general': 'General',
   'forums.category.intlName.announcements': 'Announcements',
-  'forums.category.intlName.stories': 'Stories',
+  'forums.category.intlName.stories': 'Cerita',
   'forums.category.intlName.universes': 'Universes',
   'forums.category.intlName.universe': 'Universe',
   'forums.category.intlName.community': 'Community',
@@ -35,10 +35,10 @@ export default {
   'forums.category.intlName.characters': 'Characters',
   'forums.category.intlName.locations': 'Locations',
   'forums.category.intlName.history': 'History',
-  'forums.category.intlName.art': 'Art',
+  'forums.category.intlName.art': 'Seni',
   'forums.category.intlName.inspiration': 'Inspiration',
-  'forums.category.intlName.news': 'News',
-  'forums.category.intlName.help': 'Help',
+  'forums.category.intlName.news': 'Berita',
+  'forums.category.intlName.help': 'Bantuan',
   'forums.category.intlName.questions': 'Questions',
   'forums.category.back': 'Back to forum overview',
   // Forum restrictions
@@ -54,7 +54,7 @@ export default {
   'forums.createQuestionLabel': 'Is this a question?',
   'forums.thread.noReplies': 'There are currently no replies here.',
   'forums.reply': 'Reply',
-  'forums.post': 'Post',
+  'forums.post': 'Kiriman',
   'forums.posting': 'Posting...',
   'forums.reset': 'Reset',
   'forum.thread.reply': 'Add a reply to this thread',
@@ -64,5 +64,5 @@ export default {
     one {reply}
     other {replies}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
+  'forums.thread.createdAt': 'Dibuat pada {createdAt, date, medium}'
 };
