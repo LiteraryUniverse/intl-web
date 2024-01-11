@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'Temukan cerita dan alam semesta baru.',
+    'discovery.universes.new': 'Alam semesta yang baru muncul',
+    'discovery.stories.new': 'Cerita baru',
+    'discovery.stories.standalone.new': 'Cerita mandiri baru',
+    'discovery.stories.updated': 'Cerita yang baru diperbarui',
+    'discovery.continue': 'Lanjutkan membaca',
+    'discovery.stories.similar.new': 'Cerita baru di sekitar',
+    'discovery.stories.similar.regular': 'Cerita di sekitar',
     'story.estimatedReadingTime': `Cerita ini harus mengambil {hours, plural,
         =0 {}
         one {1 jam dan }
