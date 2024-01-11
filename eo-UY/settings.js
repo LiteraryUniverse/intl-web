@@ -1,5 +1,5 @@
 export default {
-    'settings.biography': 'Biography',
+    'settings.biography': 'Biografio',
     'settings.biography.placeholder': 'A little bit about yourself to be shown on your profile.',
     'settings.avatar.title': 'Avatar',
     'settings.avatar.own': 'Your avatar',
@@ -16,7 +16,7 @@ export default {
     'settings.name.given': 'Given name',
     'settings.name.family': 'Family name',
     'settings.username.change': 'Change username',
-    'settings.username.label': 'Username',
+    'settings.username.label': 'Uzantnomo',
     'settings.password.title': 'Change password',
     'settings.password.current': 'Current password',
     'settings.password.new': 'New password',
