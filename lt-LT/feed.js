@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'Naujas įrašas',
+    'feed.post.like': 'Patinka įrašas',
+    'feed.post.unlike': 'Nepatinka įrašas',
+    'feed.post.send': 'Įrašas',
+    'feed.empty': 'Nėra įrašų naujienose.'
 };
