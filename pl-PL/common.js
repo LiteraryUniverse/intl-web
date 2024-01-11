@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Bardzo nam przykro, ale ta funkcja nie jest dostępna w tej chwili. Pracujemy nad tym, aby udostępnić ją tak szybko, jak to możliwe.',
     'common.nothingfound': 'Nic nie znaleziono',
     'common.explore': 'Odkrywaj',
-    'common.by': 'od ',
+    'common.by': 'przez {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Notatnik',
     'common.scratchpad.own': 'Twój notatnik',
