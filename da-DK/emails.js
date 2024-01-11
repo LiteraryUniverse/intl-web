@@ -14,7 +14,7 @@ export default {
     'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
     // New html email keys
     'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
+    'email.welcome': 'Velkommen til Litterære Universe!',
     'email.signature': 'Sincerely,<br />Literary Universe team',
     // Enrollment
     'email.enrollAccount.welcome': 'Welcome aboard',
