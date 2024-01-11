@@ -33,12 +33,16 @@ export default {
     'user.verification.luEmployee': 'Zamestnanec Literary Universe',
     'user.verification.publicFigure': 'Overená verejná osoba',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {príbeh}
+    few {príbehy}
+    many {príbehy}
+    other {príbehy}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {vesmír}
+    few {vesmíry}
+    many {vesmíry}
+    other {vesmíry}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
