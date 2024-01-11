@@ -20,9 +20,9 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Join event',
   'events.selection.origin': 'Event origin',
-  'events.origin.universe': 'Universe',
+  'events.origin.universe': 'Universo',
   'events.origin.author': 'Author',
-  'events.origin.groups': 'Groups',
+  'events.origin.groups': 'Gruppi',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
   'events.visibility.label': 'Event visibility',
@@ -39,8 +39,8 @@ export default {
   'events.create.title': 'Create a new event',
   'events.hostedBy': 'Hosted by {hostName}',
   'events.openVirtual': 'Go to virtual location',
-  'events.moreInfo': 'More information',
-  'event.visibilityShort.private': 'Private',
-  'event.visibilityShort.public': 'Public',
+  'events.moreInfo': 'Ulteriori informazioni',
+  'event.visibilityShort.private': 'Privato',
+  'event.visibilityShort.public': 'Pubblico',
   'event.visibilityShort.owner': 'Owner'
 };
