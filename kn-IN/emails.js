@@ -20,15 +20,15 @@ export default {
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'ನೀವು ಬರುವುದನ್ನು ನಿರೀಕ್ಷಿಸುತ್ತಿದ್ದೇವೆ,<br />ಸಾಹಿತ್ಯ ಬ್ರಹ್ಮಾಂಡ ತಂಡ',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'ನಿಮ್ಮ ಖಾತೆಗೆ ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಲು ಒಂದು ವಿನಂತಿ ಬಂದಿದೆ, ಈ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಮುಂದುವರಿಸಲು ದಯವಿಟ್ಟು ಕೆಳಗಿನ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ. ಈ ವಿನಂತಿಯನ್ನು ನೀವು ಮಾಡಿಲ್ಲದಿದ್ದರೆ, ಈ ಇಮೇಲ್ ಅನದಿಕ್ಕು ಬಿಡಿಬಿಡಿಯಿರಲು ಸಮಯವಿದೆಯೇ ಎಂದು ನೋಡುವುದು ಒಳ್ಳೆಯದಿರಬಹುದು.',
+    'email.resetPassword.button': 'ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'ನಮ್ಮಲ್ಲಿ ನೀವು ಇರುವುದಕ್ಕೆ ಸಂತೋಷವಾಗಿದೆ! ದಯವಿಟ್ಟು ಈ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಪರಿಶೀಲಿಸಲು ಕೆಳಗಿನ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ.',
+    'email.verifyEmail.button': 'ಈ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಪರಿಶೀಲಿಸಿ',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'ನಿಮ್ಮ ಖಾತೆಗೆ ಮೇಲ್ಪಂಕ್ತಿ ಆಗಿದೆ',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
