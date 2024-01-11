@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': '{username}için Edebi Evrene Davet',
+    'email.enrollAccount.message': `Merhaba {username}\n\n
+    ,     Sizi Edebi Evrene davet etmek istiyoruz! Size özel bir hesap oluşturduk, bu hesap aracılığıyla Edebi Evren'in tüm özelliklerine erişebilirsiniz! Lütfen, yaratıcı yazma ve okuma araçlarının gelecek neslini oluşturmak için bize katılın!
+    Hesabınızı etkinleştirmek için aşağıdaki bağlantıya tıklayın:\n\n{url}`,
+    'email.resetPassword.subject': 'Edebi Evren şifre sıfırlama',
+    'email.resetPassword.message': `Merhaba {username}!\n\n Hesabınızın şifresini sıfırlama talebi aldık.
+        Lütfen, şifrenizi sıfırlamak için aşağıdaki bağlantıyı takip edin:\n\n{url}`,
+    'email.verifyEmail.subject': 'Edebi Evren e-posta doğrulama',
+    'email.verifyEmail.message': 'Merhaba {username}!\n\n Lütfen e-posta adresinizi doğrulamak için aşağıdaki bağlantıya tıklayın:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Merhaba {username},',
+    'email.welcome': 'Edebi Evren\'e Hoş Geldiniz!',
+    'email.signature': 'Saygılarımızla,<br />Edebi Evren ekibi',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Aramıza hoş geldiniz',
+    'email.enrollAccount.messageHtml': 'Sizi Edebi Evrene davet etmek istiyoruz! Özel bir hesap oluşturduk, bu hesap aracılığıyla Edebi Evren\'in tüm özelliklerine erişebilirsiniz! Lütfen, yaratıcı yazma ve okuma araçlarının gelecek neslini oluşturmak için bize katılın!',
+    'email.enrollAccount.button': 'Hesabınıza erişin',
+    'email.enrollAccount.signature': 'Sizi görmek için sabırsızlanıyoruz,<br />Literary Universe ekibi',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Hesabınızın şifresini sıfırlamak için bir talep aldık, işlemi devam ettirmek için lütfen aşağıdaki düğmeye tıklayın. Eğer bu talebi siz yapmadıysanız bu e-postayı görmezden gelebilirsiniz, ancak güvenlik ayarlarınızı gözden geçirmek için iyi bir zaman olabilir.',
+    'email.resetPassword.button': 'Şifreyi sıfırla',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Sizi aramızda görmekten mutluluk duyuyoruz! Lütfen bu e-posta adresini doğrulamak için aşağıdaki düğmeye tıklayın.',
+    'email.verifyEmail.button': 'Bu e-posta adresini doğrula',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Hesabınız yükseltilmiştir',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
