@@ -133,7 +133,7 @@ export default {
     'encyclopedia.timeOption.fictionalDate': 'Fictional date',
     'encyclopedia.timeOption.fictionalTime': 'Fictional time',
     'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
+    'encyclopedia.timeOption.date': 'Datum',
     'encyclopedia.timeOption.time': 'Time',
     'encyclopedia.timeOption.dateTime': 'Date and time',
     'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
