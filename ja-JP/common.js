@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': '止めてください！',
+    'console.explain': 'これは開発者向けのブラウザ機能です。もし誰かがあなたに文学の宇宙の機能を有効にするために何かをここにコピー＆ペーストするように言ったり、誰かのアカウントを"ハック"するためにそうするように言ったりした場合、それは詐欺であり、文学の宇宙のアカウントへのアクセスを提供します。'
 }    /* eslint-enable max-len */;
