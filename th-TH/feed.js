@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'โพสต์ใหม่',
+    'feed.post.like': 'ถูกใจโพสต์',
+    'feed.post.unlike': 'ไม่ถูกใจโพสต์',
+    'feed.post.send': 'โพสต์',
+    'feed.empty': 'ไม่มีรายการในฟีด'
 };
