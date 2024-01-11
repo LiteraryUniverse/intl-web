@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Pareikalaukite savo paskyros!',
+    'enrollment.description': 'Sveiki, {username}! Norėdami gauti prieigą prie savo ypatingos paskyros, jums tereikia sukurti slaptažodį.',
+    'enrollment.submitting': 'Pareikalaujama jūsų paskyros...',
+    'enrollment.submit': 'Pareikalaukite savo paskyros!'
 };
