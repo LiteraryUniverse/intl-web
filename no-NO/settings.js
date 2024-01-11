@@ -16,7 +16,7 @@ export default {
     'settings.name.given': 'Given name',
     'settings.name.family': 'Family name',
     'settings.username.change': 'Change username',
-    'settings.username.label': 'Username',
+    'settings.username.label': 'Brukernavn',
     'settings.password.title': 'Change password',
     'settings.password.current': 'Current password',
     'settings.password.new': 'New password',
