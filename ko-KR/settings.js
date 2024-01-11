@@ -60,7 +60,7 @@ export default {
     'settings.country.select': 'Select your country',
     'settings.emailSubscriptions.newsletterTech': 'Occasional newsletter from our developers',
     'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
-    'settings.emailNotifications.title': 'Notifications',
+    'settings.emailNotifications.title': '알림',
     'settings.emailNotifications.pm': 'New messages',
     'settings.emailNotifications.newChapters': 'New chapters',
     'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.',
