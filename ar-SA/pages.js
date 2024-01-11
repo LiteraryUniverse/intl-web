@@ -37,7 +37,7 @@ export default {
     'about.text.3': 'The future for Literary Universe involves creating a marketplace for authors to sell their work and adding community features to enhance author and reader communication through blogs and forums. Writer’s tools will be added over time, with over a dozen currently either in development or on the board. Our ultimate goal is to enhance the experiences of writers and readers through providing more innovative use of the internet medium.',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'فريق العمل',
-    'about.history': 'History',
+    'about.history': 'السجل',
     'about.company': 'The company',
     'about.companyCountry.czechia': 'Czechia',
     'about.companyCountry.japan': 'Japan',
