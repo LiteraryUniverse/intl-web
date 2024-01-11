@@ -244,7 +244,7 @@ export default {
     'select.typeToCreate': 'Start typing to create an item',
     'select.noSearchResults': 'No results for “{search}”',
     'select.removeOption': 'Remove {option}',
-    create: 'Create',
+    create: 'Créer',
     'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
     'banner.seePlans': 'Visit our plans page for more information.',
     'common.noAccountQuestion': 'Don\'t have an account?',
@@ -255,7 +255,7 @@ export default {
     'common.loggingOut': 'Logging out',
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
-    'email.hello': 'Hello {username},',
+    'email.hello': 'Bonjour {username},',
     'common.back': 'Back',
     'console.stop': 'Arrêtez!',
     'console.explain': 'Il s\'agit d\'une fonctionnalité du navigateur destinée aux développeurs. Si quelqu\'un vous a demandé de copier-coller quelque chose ici pour activer une fonctionnalité de l\'univers littéraire ou "pirater" le compte de quelqu\'un, il s\'agit d\'une arnaque qui leur donnera accès à votre compte de l\'univers littéraire.'
