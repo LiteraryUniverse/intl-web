@@ -258,5 +258,5 @@ export default {
     'email.hello': 'Hello {username},',
     'common.back': 'Back',
     'console.stop': 'توقف!',
-    'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.'
+    'console.explain': 'هذه ميزة مستعرض مخصصة للمطورين. إذا قال لك شخص ما أن تنسخ وتلصق شيئًا هنا لتمكين ميزة في الكون الأدبي أو "اختراق" حساب شخص ما، فهذا عمل احتيالي وسيمنحهم الوصول إلى حسابك في الكون الأدبي.'
 }    /* eslint-enable max-len */;
