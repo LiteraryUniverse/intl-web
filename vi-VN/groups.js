@@ -10,7 +10,7 @@ export default {
     'groups.type.hidden': 'Hidden',
     'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
     'groups.imageAlt': '{groupName} picture',
-    'groups.members': 'Members',
+    'groups.members': 'Thành viên',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}
     one {is one member}
@@ -21,7 +21,7 @@ export default {
     'group.settings': 'Group settings',
     'group.role.member': 'Member',
     'group.role.moderator': 'Moderator',
-    'group.role.admin': 'Admin',
+    'group.role.admin': 'Quản trị viên',
     'groups.join.openGroup': 'Join group',
     'groups.join.closedGroup': 'Request to join group',
     'groups.join.questionToJoin': 'Question for new members',
