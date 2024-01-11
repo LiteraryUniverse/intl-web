@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Αξιοποιήστε τον λογαριασμό σας!',
+    'enrollment.description': 'Καλωσήρθατε {username}! Για να αποκτήσετε πρόσβαση στον ειδικό σας λογαριασμό, αρκεί να δημιουργήσετε έναν κωδικό πρόσβασης.',
+    'enrollment.submitting': 'Αξιοποιήστε τον λογαριασμό σας...',
+    'enrollment.submit': 'Αξιοποιήστε τον λογαριασμό σας!'
 };
