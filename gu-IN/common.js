@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'થમો!',
+    'console.explain': 'આ બ્રાઉઝર ફીચર ડેવલપર્સ માટે છે. જો કોઈએ તમને કોઈ પણ સ્થાનિક વિશેષતા અથવા કોઈની એકાઉન્ટ હેક કરવાની માટે કંપ્યુટરમાં કંપી પેસ્ટ કરવાની રહી હોય તો તે સ્કેમ છે અને તેને તમારા લિટરરી યુનિવર્સ એકાઉન્ટ એક્સેસ મળશે.'
 }    /* eslint-enable max-len */;
