@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'ការ​ប្រកាស​ថ្មី',
+    'feed.post.like': 'ចូល​ចិត្ត​ការ​ប្រកាស',
+    'feed.post.unlike': 'មិន​ចូល​ចិត្ត​ការ​ប្រកាស',
+    'feed.post.send': 'ប្រកាស',
+    'feed.empty': 'គ្មាន​ធាតុ​ក្នុង​ប្រកាស។'
 };
