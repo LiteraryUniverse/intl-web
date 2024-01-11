@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'ادع Ansible account الخاص بك!',
+    'enrollment.description': 'مرحبًا {username}! للوصول إلى حسابك الخاص، تحتاج فقط إلى إنشاء كلمة مرور.',
+    'enrollment.submitting': 'جارٍ استرداد حسابك...',
+    'enrollment.submit': 'ادع Ansible account الخاص بك!'
 };
