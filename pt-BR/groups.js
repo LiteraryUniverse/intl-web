@@ -3,14 +3,14 @@ export default {
     'groups.listing.organizationTitle': 'Teams',
     'groups.create.title': 'Create a new group',
     'groups.type.label': 'Type',
-    'groups.type.open': 'Open',
+    'groups.type.open': 'Aberta',
     'groups.type.openDesc': 'Open - Anyone can join the group.',
-    'groups.type.closed': 'Closed',
+    'groups.type.closed': 'Fechado',
     'groups.type.closedDesc': 'Closed - People need to approved before they can join your group.',
     'groups.type.hidden': 'Hidden',
     'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
     'groups.imageAlt': '{groupName} picture',
-    'groups.members': 'Members',
+    'groups.members': 'Membros',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}
     one {is one member}
