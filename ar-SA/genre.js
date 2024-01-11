@@ -17,7 +17,7 @@ export default {
     'genre.thriller': 'إثارة',
     'genre.western': 'Western',
     'genre.memoir': 'Memoir',
-    'genre.biography': 'Biography',
+    'genre.biography': 'السيرة الذاتية',
     'genre.steampunk': 'Steampunk',
     'genre.mythology': 'Mythology',
     'genre.fairytale': 'Fairy tale',
