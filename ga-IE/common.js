@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Stop!',
+    'console.explain': 'Is gné brabhsála é seo atá dírithe ar fhorbróirí. Má dúirt duine ar bith leat rud éigin a chóipeáil agus a pháistí anseo chun gné Léitheoireachta Cruinne a chumasú nó chun cuntas duine ar bith a "hackáil", is scam é sin agus tabharfaidh sé rochtain dóibh ar do chuntas Léitheoireachta Cruinne.'
 }    /* eslint-enable max-len */;
