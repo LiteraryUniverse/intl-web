@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'रोकें!',
+    'console.explain': 'यह एक ब्राउज़र सुविधा है जो डेवलपर्स के लिए है। यदि किसी ने आपसे कहा है कि आपको यहां कुछ कॉपी-पेस्ट करके एक साहित्यिक यूनिवर्स फीचर या किसी के खाते को "हैक" करने के लिए करें, तो यह एक धोखाधड़ी है और इससे उन्हें आपके साहित्यिक यूनिवर्स खाते तक पहुंच मिलेगी।'
 }    /* eslint-enable max-len */;
