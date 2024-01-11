@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Sustok!',
+    'console.explain': 'Tai yra naršyklės funkcija, skirta programuotojams. Jei kas nors pasakė jums, kad čia nukopijuosite kažką, kad įgalintumėte „Literary Universe“ funkciją arba „įsilaužtumėte“ į kieno nors paskyrą, tai yra apgavystė ir leis jiems patekti į jūsų „Literary Universe“ paskyrą.'
 }    /* eslint-enable max-len */;
