@@ -4,7 +4,7 @@ export default {
     'sharing.share': 'Share with...',
     'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
     'sharing.copy': 'Copy',
-    'sharing.email': 'E-mail',
+    'sharing.email': '이메일',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',
