@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Lamentamos muito, mas este recurso não está disponível neste momento. Estamos trabalhando para torná-lo disponível o mais rápido possível.',
     'common.nothingfound': 'Nada encontrado',
     'common.explore': 'Explorar',
-    'common.by': 'por ',
+    'common.by': 'por {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Bloco de rascunho',
     'common.scratchpad.own': 'Seu bloco de rascunho',
