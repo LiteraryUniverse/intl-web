@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Mohon maaf atas ketidaknyamanannya, fitur ini sedang tidak tersedia saat ini. Kami sedang berupaya agar fitur ini dapat tersedia secepatnya.',
     'common.nothingfound': 'Tidak ditemukan',
     'common.explore': 'Jelajahi',
-    'common.by': 'oleh ',
+    'common.by': 'oleh {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Coretan',
     'common.scratchpad.own': 'Coretan Anda',
