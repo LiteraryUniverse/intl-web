@@ -26,7 +26,7 @@ export default {
   }.`,
     'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
     'challenges.start': 'Start challenge',
-    'challenges.report': 'Report',
+    'challenges.report': 'Rapporteer',
     'challenges.victory': 'Congratulations! You have completed this challenge.',
     'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
     'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
