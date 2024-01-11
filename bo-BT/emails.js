@@ -20,15 +20,15 @@ export default {
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'ང་བཅས་དང་འདི་ལས་གནས་པའི་འགྲེལ་བཤད་སྟེ།<br />བཅུ་གཅིག་ལེན་མི་འདུག་པའི་སྒྲོམ་སྡེ་ཚན་རིགས་བྱ་བ་ཡོད།',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'ཁྱེད་ཀྱིས་ཁྱེད་ལས་ལུ་ཁྱོད་འདི་ཁྱོད་ཀྱིས་གནང་བ་བསྐྱར་བཅོས་འདི་ལུ་འགོ་བཙུགས་སྤྱོད་འབད་དེ་བཞིན་དུ་གནང་བའི་དྲི་བ་འབྱེད་པའི་དོན་ལུ་མིན་འདུག',
+    'email.resetPassword.button': 'ཁྱེད་ཀྱིས་གནང་བ་དང་འདི་ཁྱོད་ཀྱིས་འགོ་བཙུགས་སྤྱོད་འབད་དེ་བཞིན་དུ་གནང་བའི་དྲི་བ་འབྱེད་པའི་དོན་ལུ་མིན་འདུག',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'ང་བཅས་དང་འདི་ལས་གནས་པའི་འགྲེལ་བཤད་སྟེ། ཁྱེད་ཀྱིས་ཁྱེད་ལས་ལུ་ཁྱོད་འདི་ཁྱོད་ཀྱིས་གནང་བ་བསྐྱར་བཅོས་འདི་ལུ་འགོ་བཙུགས་སྤྱོད་འབད་དེ་བཞིན་དུ་གནང་བའི་དྲི་བ་འབྱེད་པའི་དོན་ལུ་མིན་འདུག',
+    'email.verifyEmail.button': 'ཁྱེད་ཀྱིས་གནང་བ་དང་འདི་ཁྱོད་ཀྱིས་འགོ་བཙུགས་སྤྱོད་འབད་དེ་བཞིན་དུ་གནང་བའི་དྲི་བ་འབྱེད་པའི་དོན་ལུ་མིན་འདུག',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'ཁྱེད་ཀྱིས་ཁྱེད་ལས་ལུ་ཁྱོད་འདི་གནང་བ་བསྐྱར་བཅོས་འདི་ལུ་འགོ་བཙུགས་སྤྱོད་འབད་དེ་བཞིན་དུ་གནང་བའི་དྲི་བ་འབྱེད་པའི་དོན་ལུ་མིན་འདུག',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
