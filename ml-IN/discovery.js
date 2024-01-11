@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'പുതിയ കഥകളും യൂണിവേഴ്സുകളും കണ്ടെത്തുക.',
+    'discovery.universes.new': 'പുതിയ യൂണിവേഴ്സുകള്‍',
+    'discovery.stories.new': 'പുതിയ കഥകള്‍',
+    'discovery.stories.standalone.new': 'പുതിയ സ്വതന്ത്ര കഥകള്‍',
+    'discovery.stories.updated': 'അപ്‌ഡേറ്റ് ചെയ്ത കഥകള്‍',
+    'discovery.continue': 'വായിക്കുകയും തുടരുകയും',
+    'discovery.stories.similar.new': 'പരസ്യത്തിലുള്ള പുതിയ കഥകള്‍',
+    'discovery.stories.similar.regular': 'പരസ്യത്തിലുള്ള കഥകള്‍',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
