@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'નવા કથાઓ અને વિશ્વો શોધો.',
+    'discovery.universes.new': 'ઉભરતા વિશ્વો',
+    'discovery.stories.new': 'નવી કથાઓ',
+    'discovery.stories.standalone.new': 'નવી સ્વતંત્ર કથાઓ',
+    'discovery.stories.updated': 'હાલમાં સુધારાયેલી કથાઓ',
+    'discovery.continue': 'વાંચવા જારી રાખો',
+    'discovery.stories.similar.new': 'પડતા કથાઓની નજીકના સ્થળોમાં નવી કથાઓ',
+    'discovery.stories.similar.regular': 'પડતા કથાઓની નજીકના સ્થળોમાં કથાઓ',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
