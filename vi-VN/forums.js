@@ -27,7 +27,7 @@ export default {
   // Pre-defined category names
   'forums.category.intlName.general': 'General',
   'forums.category.intlName.announcements': 'Announcements',
-  'forums.category.intlName.stories': 'Stories',
+  'forums.category.intlName.stories': 'Câu chuyện',
   'forums.category.intlName.universes': 'Universes',
   'forums.category.intlName.universe': 'Universe',
   'forums.category.intlName.community': 'Community',
@@ -37,8 +37,8 @@ export default {
   'forums.category.intlName.history': 'History',
   'forums.category.intlName.art': 'Art',
   'forums.category.intlName.inspiration': 'Inspiration',
-  'forums.category.intlName.news': 'News',
-  'forums.category.intlName.help': 'Help',
+  'forums.category.intlName.news': 'Tin tức',
+  'forums.category.intlName.help': 'Trợ giúp',
   'forums.category.intlName.questions': 'Questions',
   'forums.category.back': 'Back to forum overview',
   // Forum restrictions
@@ -64,5 +64,5 @@ export default {
     one {reply}
     other {replies}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
+  'forums.thread.createdAt': 'Tạo vào ngày {createdAt, date, medium}'
 };
