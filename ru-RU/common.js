@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Сожалеем, но данная функция недоступна в настоящий момент. Мы работаем над тем, чтобы сделать её доступной в ближайшее время.',
     'common.nothingfound': 'Ничего не найдено',
     'common.explore': 'Проводник',
-    'common.by': 'от ',
+    'common.by': 'по {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Блокнот',
     'common.scratchpad.own': 'Ваш блокнот',
