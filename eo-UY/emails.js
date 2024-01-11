@@ -20,15 +20,15 @@ export default {
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Ni antaŭenrigardas por vidi vin, teamo de<br />Literatura Universo',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Ni ricevis peton por rekomenci vian pasvorton por via konto, bonvolu klaki sur la butonon sube por daŭrigi la proceson. Se vi ne petis tion, vi povas ignori ĉi tiun retpoŝton, sed estus bona tempo revizii viajn sekurecajn agordojn.',
+    'email.resetPassword.button': 'Rekomenci pasvorton',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Ni ĝojas havi vin surŝipe! Bonvolu klaki la butonon sube por verifi ĉi tiun retpoŝtan adreson.',
+    'email.verifyEmail.button': 'Verifi ĉi tiun retpoŝtan adreson',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Via konto estis plibonigita',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
