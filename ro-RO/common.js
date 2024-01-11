@@ -258,5 +258,5 @@ export default {
     'email.hello': 'Hello {username},',
     'common.back': 'Back',
     'console.stop': 'Oprește-te!',
-    'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.'
+    'console.explain': 'Aceasta este o funcționalitate a browserului destinată dezvoltatorilor. Dacă cineva ți-a spus să copiezi și să lipești ceva aici pentru a activa o funcționalitate a Universului Literar sau pentru a "hăcui" contul cuiva, este o înșelătorie și le va oferi acces la contul tău de Univers Literar.'
 }    /* eslint-enable max-len */;
