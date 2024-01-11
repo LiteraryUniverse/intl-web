@@ -22,7 +22,7 @@ export default {
   'events.selection.origin': 'Event origin',
   'events.origin.universe': 'Universe',
   'events.origin.author': 'Author',
-  'events.origin.groups': 'Groups',
+  'events.origin.groups': 'Grup',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
   'events.visibility.label': 'Event visibility',
@@ -39,7 +39,7 @@ export default {
   'events.create.title': 'Create a new event',
   'events.hostedBy': 'Hosted by {hostName}',
   'events.openVirtual': 'Go to virtual location',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'Informasi lebih lanjut',
   'event.visibilityShort.private': 'Private',
   'event.visibilityShort.public': 'Public',
   'event.visibilityShort.owner': 'Owner'
