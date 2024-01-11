@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'Ny post',
+    'feed.post.like': 'Synes godt om post',
+    'feed.post.unlike': 'Synes ikke godt om post',
+    'feed.post.send': 'Indlæg',
+    'feed.empty': 'Ingen indlæg i feeden.'
 };
