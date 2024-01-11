@@ -5,49 +5,49 @@ export default {
     user {en blogg}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Skapa en ny blogg',
     'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.description': 'Blogginledning',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Genom att justera temat kan du ändra utseendet på sidan. Den här funktionen är inte redo just nu.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.post.create': 'Skapa ett nytt inlägg',
+    'blog.post.update': 'Redigerar {title}',
+    'blog.post.text': 'Inläggstext',
+    'common.slug': 'SEO-vänlig adress',
+    'blog.slug.explained': 'Snygg url till inlägget. Undvik att använda specialtecken förutom "-".',
+    'blog.publicView': 'Offentlig visning',
+    'blog.post.notfound': 'Blogginlägget hittades inte',
     'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Fristående berättelser}
     fanfiction {Fan Fiction-arbete}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
+    'blog.lists.stories.disclaimer': 'Här listas fristående berättelser. Om berättelsen är skriven som en del av ett universum kommer den att listas på universumsidan.',
     'blog.social.sameAsMain': `Sociala länkar är desamma som anges i {type, select,
     organization {organisationsinställningar}
     user {användarprofil}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
+    'blog.social.website': 'Officiell webbplats',
+    'blog.settings.universeSettings': 'Universumsbloggar integreras i universumssidor med sina grundläggande inställningar tagna från universumsinställningar.',
     'blog.settings.organizationSettings': 'Organisationsbloggar är integrerade i organisationsidorna.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
+    'blogs.lu': 'Officiella Litterärt Universum-bloggar',
+    'blogs.featured': 'Utvalda bloggar',
+    'blogs.new': 'Senaste bloggarna',
+    'blogs.title': 'Bloggar i Litterärt Universum',
+    'blogs.description': 'Lista över bloggar på Litterärt Universum-plattformen.',
+    'blogs.visit': 'Besök bloggen',
     'blog.settingsAria': 'Inställningskategorier för bloggen',
     'blog.settings.blog': 'Blogg',
     'blog.settings.forum': 'Forum',
