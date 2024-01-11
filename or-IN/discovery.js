@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'ନୂତନ କାହାଣୀ ଏବଂ ବିଶ୍ଵାଭିନ୍ନତା ଆବିଷ୍କର୍ଯ୍ୟ କରନ୍ତୁ।',
+    'discovery.universes.new': 'ଉଦ୍ଭାବିତ ବିଶ୍ଵାଭିନ୍ନତା',
+    'discovery.stories.new': 'ନୂତନ କାହାଣୀଗୁଡିକ',
+    'discovery.stories.standalone.new': 'ନୂତନ ଏକାନ୍ତ କାହାଣୀଗୁଡିକ',
+    'discovery.stories.updated': 'ପ୍ରଶ୍ନ କରିବା କାହାଣୀଗୁଡିକ',
+    'discovery.continue': 'ପଠନ ଜାରି ରଖନ୍ତୁ',
+    'discovery.stories.similar.new': 'ନୂତନ କାହାଣୀ ସହରେ',
+    'discovery.stories.similar.regular': 'ସମୀପରେ କାହାଣୀଗୁଡିକ',
     'story.estimatedReadingTime': `ଏହା କଥା ପଢ଼ିବା କଲେ {hours, plural,
         =0 {}
         one {1 ଘଣ୍ଟା ଏବଂ }
