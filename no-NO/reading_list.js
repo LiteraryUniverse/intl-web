@@ -1,7 +1,7 @@
 export default {
   'readingList.title': 'Reading list',
   'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
+  'readingList.type.stories': 'Historier',
   'readingList.type.universes': 'Universes',
   'readingList.ordered.label': 'Ranked list',
   'readingList.button.add': 'Add to reading list',
