@@ -258,5 +258,5 @@ export default {
     'email.hello': 'Hello {username},',
     'common.back': 'Back',
     'console.stop': 'Atura\'t!',
-    'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.'
+    'console.explain': 'Aquesta és una funcionalitat del navegador destinada als desenvolupadors. Si algú t\'ha dit que copiïs i enganxis alguna cosa aquí per habilitar una funcionalitat de L\'univers literari o per "hackejar" el compte d\'algú, és un frau i els donarà accés al teu compte de L\'univers literari.'
 }    /* eslint-enable max-len */;
