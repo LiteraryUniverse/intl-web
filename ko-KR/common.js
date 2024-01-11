@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': '정지하세요!',
+    'console.explain': '이것은 개발자를 위한 브라우저 기능입니다. 누군가가 문학 우주 기능을 활성화하거나 누군가의 계정을 "해킹"하기 위해 여기에 무언가를 복사하여 붙여넣으라고 말했다면, 그것은 사기입니다. 그것은 그들에게 당신의 문학 우주 계정에 대한 액세스 권한을 제공할 것입니다.'
 }    /* eslint-enable max-len */;
