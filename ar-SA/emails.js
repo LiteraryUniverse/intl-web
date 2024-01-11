@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'دعوة لعالم الأدب لـ {username}',
+    'email.enrollAccount.message': `مرحبًا {username}\n\n
+    نود دعوتك للانضمام إلى عالم الأدب! لقد قمنا بإنشاء حساب شخصي خاص بك حيث يمكنك الوصول إلى جميع ميزات عالم الأدب! يرجى الانضمام إلينا في إبداع أدوات الكتابة والقراءة في الجيل القادم!
+    لتفعيل حسابك، ما عليك سوى النقر على الرابط أدناه:\n\n{url}`,
+    'email.resetPassword.subject': 'إعادة تعيين كلمة مرور عالم الأدب',
+    'email.resetPassword.message': `مرحبًا {username}!\n\n تلقينا طلبًا لإعادة تعيين كلمة المرور الخاصة بحسابك.
+        يرجى اتباع الرابط أدناه لإعادة تعيين كلمة المرور الخاصة بك:\n\n{url}`,
+    'email.verifyEmail.subject': 'تحقق من البريد الإلكتروني لعالم الأدب',
+    'email.verifyEmail.message': 'مرحبًا {username}!\n\n يرجى التحقق من عنوان بريدك الإلكتروني عن طريق النقر على الرابط أدناه:\n\n{url}',
     // New html email keys
     'email.salutation': 'مرحبا {username}،',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.welcome': 'مرحبًا بك في عالم الأدب!',
+    'email.signature': 'مع خالص التحية، فريق عالم الأدب<br />',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'مرحبًا بك على متن السفينة',
+    'email.enrollAccount.messageHtml': 'نود دعوتك لعالم الأدب! لقد قمنا بإعداد حساب شخصي خاص بك حيث يمكنك الوصول إلى جميع ميزات عالم الأدب! يرجى الانضمام إلينا في إبداع الكتابة والقراءة في الجيل القادم!',
+    'email.enrollAccount.button': 'الوصول إلى حسابك',
+    'email.enrollAccount.signature': 'نتطلع إلى رؤيتك، فريق عالم الأدب<br />',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'لقد تلقينا طلبًا لإعادة تعيين كلمة المرور الخاصة بحسابك، يرجى النقر على الزر أدناه لمتابعة العملية. إذا لم تقم بطلب ذلك، يمكنك تجاهل هذا البريد الإلكتروني، ولكن قد يكون من الجيد مراجعة إعدادات الأمان الخاصة بك.',
+    'email.resetPassword.button': 'إعادة تعيين كلمة المرور',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'نحن سعداء بوجودك معنا! يرجى النقر على الزر أدناه للتحقق من عنوان البريد الإلكتروني هذا.',
+    'email.verifyEmail.button': 'التحقق من عنوان البريد الإلكتروني هذا',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'تمت ترقية حسابك',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
