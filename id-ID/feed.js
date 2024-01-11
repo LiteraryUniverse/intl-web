@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'Pos baru',
+    'feed.post.like': 'Suka pos',
+    'feed.post.unlike': 'Batal suka pos',
+    'feed.post.send': 'Kiriman',
+    'feed.empty': 'Tidak ada entri dalam feed.'
 };
