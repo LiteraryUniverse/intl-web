@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'ახალი მოთხარებებისა და უნივერსუმების განსახილვება.',
+    'discovery.universes.new': 'ახალი უნივერსუმები',
+    'discovery.stories.new': 'ახალი მოთხარებები',
+    'discovery.stories.standalone.new': 'ახალი ცხოველთათვის მოთხარებები',
+    'discovery.stories.updated': 'ბოლოს განახლებული მოთხარებები',
+    'discovery.continue': 'კიდევ წაკითხვა',
+    'discovery.stories.similar.new': 'ახალი მოთხარებები მეურნეობის მიხედვით',
+    'discovery.stories.similar.regular': 'მოთხარებები მეურნეობის მიხედვით',
     'story.estimatedReadingTime': `ამ მოთხოვნას უნდა გადავიყვანოთ {hours, plural,
         =0 {}
         one {1 საათის და }
