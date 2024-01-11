@@ -46,7 +46,7 @@ export default {
     'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
   'common.nothingfound': 'Nothing found',
   'common.explore': 'Explore',
-  'common.by': 'by ',
+  'common.by': 'by {author}',
   // keep the space at the end as username follows TODO: needs fixing
   'common.scratchpad': 'Scratchpad',
   'common.scratchpad.own': 'Your scratchpad',

@@ -3,6 +3,7 @@
 ## 2024-01-12 - v2.11.0
 
 * New strings for console warning
+* Update `common.by` to include the author name, to allow for RTL languages
 
 ## 2023-12-30 - v2.10.5
 
