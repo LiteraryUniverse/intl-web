@@ -33,7 +33,7 @@ export default {
     'feedback.report.typeSelect': 'What is the issue here?',
     'feedback.reportType.law': 'Law violation',
     'feedback.reportType.vulgar': 'Vulgar/obscene',
-    'feedback.reportType.copyright': 'Copyright violation',
+    'feedback.reportType.copyright': 'Tekijänoikeuden rikkominen',
     'feedback.reportType.storyRating': 'Virheellinen ikäluokitus',
     'feedback.reportType.scam': 'Scam',
     'feedback.report.submit': 'Report',
