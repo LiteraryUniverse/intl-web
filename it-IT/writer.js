@@ -12,17 +12,17 @@ export default {
     'writer.underline': 'Underline the selection',
     'writer.italic': 'Emphasize the selection',
     'writer.wordcount': '{characters, number} characters, {words, number} words',
-    'finder.details': 'details',
+    'finder.details': 'dettagli',
     'finder.remove': 'remove the connection',
     'finder.connect': 'Connect selection to encyclopedia entry',
     'writer.aside.ariaLabel': 'Help options menu',
     'writer.nothingToSave': 'Niente da salvare',
-    'writer.publish.publishAria': 'Publication options',
+    'writer.publish.publishAria': 'Opzioni di pubblicazione',
     'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
     'writer.publish.schedule': 'Set publication date time',
     'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
     'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}',
     'writer.publish.alreadyPublished': 'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Pubblica'
 };
