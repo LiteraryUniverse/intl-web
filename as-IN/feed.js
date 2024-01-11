@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'নতুন পোষ্ট',
+    'feed.post.like': 'পোষ্টটি পছন্দ কৰক',
+    'feed.post.unlike': 'পোষ্টটি পছন্দ নকৰক',
+    'feed.post.send': 'পোষ্ট',
+    'feed.empty': 'ফিডত কোনো প্ৰৱেশ নাই।'
 };
