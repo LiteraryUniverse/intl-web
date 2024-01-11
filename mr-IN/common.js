@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'रुका!',
+    'console.explain': 'हा एक डेव्हलपर्ससाठी वापरण्यात येणारा ब्राउझर फिचर आहे. जर कोणी आपल्याला काहीतरी कॉपी-पेस्ट करता येते असा आपल्याला सांगितलं असेल की लिटररी युनिव्हर्सचे एक फिचर चालू करण्यासाठी किंवा कोणाच्या खात्याला "हॅक" करण्यासाठी असेल तर तो फसवणूक आहे आणि त्यांनी तुमच्या लिटररी युनिव्हर्सच्या खात्याकडे प्रवेश मिळवणार आहे.'
 }    /* eslint-enable max-len */;
