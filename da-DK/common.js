@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Vi beklager meget, men denne funktion er ikke tilgængelig på nuværende tidspunkt. Vi arbejder hårdt på at gøre den tilgængelig så hurtigt som muligt.',
     'common.nothingfound': 'Nothing found',
     'common.explore': 'Explore',
-    'common.by': 'by ',
+    'common.by': 'af {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
