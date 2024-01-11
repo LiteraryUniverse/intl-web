@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Kvietimas į Literatūrinę Visatą {username}',
+    'email.enrollAccount.message': `Sveiki {username}\n\n
+    Mes norėtume pakviesti jus į Literatūrinę Visatą! Mes sukūrėme specialią asmeninę paskyrą, kurioje galėsite pasiekti visus Literatūrinės Visatos funkcionalumus! Prašome prisijungti prie mūsų kuriant ateities kūrybinės rašymo ir skaitymo įrankius!
+    Norėdami aktyvuoti savo paskyrą, tiesiog spustelėkite žemiau esantį nuorodos adresą:\n\n{url}`,
+    'email.resetPassword.subject': 'Literatūrinės Visatos slaptažodžio atkūrimas',
+    'email.resetPassword.message': `Sveiki {username}!\n\n Mes gavome prašymą atkurti jūsų paskyros slaptažodį.
+        Prašome paspausti žemiau esančią nuorodą, kad atkurtumėte savo slaptažodį:\n\n{url}`,
+    'email.verifyEmail.subject': 'Literatūrinės Visatos el. pašto patvirtinimas',
+    'email.verifyEmail.message': 'Sveiki {username}!\n\n Prašome patvirtinti savo el. pašto adresą paspaudę žemiau esančią nuorodą:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Sveiki {username},',
+    'email.welcome': 'Sveiki atvykę į Literatūrinę Visatą!',
+    'email.signature': 'Su pagarba,<br />Literatūrinės Visatos komanda',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Sveiki atvykę į mūsų komandą',
+    'email.enrollAccount.messageHtml': 'Mes norėtume pakviesti jus į Literatūrinę Visatą! Mes jau sukūrėme jums asmeninę paskyrą, kurioje galėsite pasiekti visus Literatūrinės Visatos funkcionalumus! Prašome prisijungti prie mūsų kuriant ateities kūrybinės rašymo ir skaitymo įrankius!',
+    'email.enrollAccount.button': 'Pasiekti savo paskyrą',
+    'email.enrollAccount.signature': 'Mes laukiame Jūsų,<br />Literatinės Visatos komanda',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Mes gavome prašymą atkurti Jūsų slaptažodį Jūsų paskyrai, prašome paspausti žemiau esantį mygtuką, kad tęstumėte procesą. Jei Jūs nesate padaręs šio prašymo, galite ignoruoti šį el. laišką, tačiau tai gali būti geras laikas peržiūrėti saugumo nustatymus.',
+    'email.resetPassword.button': 'Atkurti slaptažodį',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Džiaugiamės, kad Jūs prisijungėte! Prašome paspausti žemiau esantį mygtuką, kad patvirtintumėte šį el. pašto adresą.',
+    'email.verifyEmail.button': 'Patvirtinti šį el. pašto adresą',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Jūsų paskyra buvo atnaujinta',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
