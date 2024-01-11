@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': '죄송하지만 현재 이 기능을 사용할 수 없습니다. 가능한 한 빨리 이 기능을 사용할 수 있도록 최선을 다하고 있습니다.',
     'common.nothingfound': '아무것도 찾을 수 없음',
     'common.explore': '탐구하다',
-    'common.by': 'by ',
+    'common.by': 'by {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
