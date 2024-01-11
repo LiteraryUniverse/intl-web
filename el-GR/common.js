@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Σταμάτα!',
+    'console.explain': 'Αυτό είναι ένα χαρακτηριστικό του προγράμματος περιήγησης που προορίζεται για προγραμματιστές. Αν κάποιος σας είπε να αντιγράψετε-επικολλήσετε κάτι εδώ για να ενεργοποιήσετε ένα χαρακτηριστικό του Literary Universe ή να "χακάρετε" τον λογαριασμό κάποιου, είναι μια απάτη και θα τους δώσει πρόσβαση στον λογαριασμό σας στο Literary Universe.'
 }    /* eslint-enable max-len */;
