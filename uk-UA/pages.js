@@ -26,7 +26,7 @@ export default {
     'homepage.writer.communityDesc': 'Go beyond writing and connect with your readers via blogs, forums and other community features connected to your universes or to you as a writer.',
     'homepage.writer.workshopFeatureTitle': 'One place for all your creative needs',
     'homepage.writer.workshopFeatureDesc': 'Our ever evolving workshop is the central place for your creative needs. From a simple idea create amazing universes, stories and everything else that is needed around it.',
-    'homepage.writer.monetizationFeatureTitle': 'Monetization',
+    'homepage.writer.monetizationFeatureTitle': 'Монетизація',
     'homepage.writer.monetizationDesc': 'We strongly believe that people should be payed for their work and are constantly looking for new monetization opportunities for writers. Monetization feature allows you writers to be appreciated for what you do. Explore all the different options that allow your fans to show you their appreciation.',
     'homepage.writer.start': 'Setup Your workshop!',
     'homepage.featureSelection': 'Check out these popular universe!',
