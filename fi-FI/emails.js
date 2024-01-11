@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Kutsu Literary Universeen {username}',
+    'email.enrollAccount.message': `Hei {username}\n\n
+    Haluamme kutsua sinut Literary Universeen! Olemme luoneet sinulle oman henkilökohtaisen tilin, josta voit käyttää kaikkia Literary Universen ominaisuuksia! Liity kanssamme luomaan seuraavan sukupolven luovan kirjoittamisen ja lukemisen työkaluja!
+    Aktivoidaksesi tilisi, klikkaa alla olevaa linkkiä:\n\n{url}`,
+    'email.resetPassword.subject': 'Literary Universen salasanan palautus',
+    'email.resetPassword.message': `Hei {username}!\n\n Olemme vastaanottaneet pyynnön nollata salasanasi tilillesi.
+        Ole hyvä ja seuraa alla olevaa linkkiä palauttaaksesi salasanasi:\n\n{url}`,
+    'email.verifyEmail.subject': 'Literary Universen sähköpostin vahvistus',
+    'email.verifyEmail.message': 'Hei {username}!\n\n Vahvista sähköpostiosoitteesi klikkaamalla alla olevaa linkkiä:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Hei {username},',
+    'email.welcome': 'Tervetuloa Literary Universeen!',
+    'email.signature': 'Ystävällisin terveisin,<br />Literary Universen tiimi',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Tervetuloa kyytiin',
+    'email.enrollAccount.messageHtml': 'Haluamme kutsua sinut Literary Universeen! Olemme valmistelleet sinulle henkilökohtaisen tilin, josta voit käyttää kaikkia Literary Universen ominaisuuksia! Liity kanssamme luomaan seuraavan sukupolven luovan kirjoittamisen ja lukemisen työkaluja!',
+    'email.enrollAccount.button': 'Avaa tilisi',
+    'email.enrollAccount.signature': 'Odotamme innolla tapaamistamme,<br />Literary Universe -tiimi',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Olemme vastaanottaneet pyynnön salasanan palauttamiseksi tilillesi. Ole hyvä ja klikkaa alla olevaa painiketta jatkaaksesi prosessia. Mikäli et ole tehnyt tätä pyyntöä, voit jättää tämän sähköpostin huomiotta, mutta nyt voisi olla hyvä hetki tarkistaa turvallisuusasetuksesi.',
+    'email.resetPassword.button': 'Palauta salasana',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Olemme iloisia, että olet mukana! Ole hyvä ja klikkaa alla olevaa painiketta vahvistaaksesi tämän sähköpostiosoitteen.',
+    'email.verifyEmail.button': 'Vahvista tämä sähköpostiosoite',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Tilisi on päivitetty',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
