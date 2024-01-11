@@ -20,15 +20,15 @@ export default {
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'మీకు కలవడానికి కోసం కోరుకుంటున్నాము,<br />లిటరరీ యూనివర్స్ టీమ్',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'మీ ఖాతాకు మీ పాస్వర్డ్ రీసెట్ చేయడానికి మేము ఒక అభ్యర్థన పొందాము, దయచేసి ప్రారంభించే ప్రాసెస్ కొరకు క్రింది బటన్‌ను క్లిక్ చేయండి. మీరు ఈ అభ్యర్థన చేసినట్లయితే, మీరు ఈ ఇమెయిల్‌ని నిరాకరించగలరు, కానీ మీ భద్రతా సెట్టింగ్‌లను సవిశేషంగా సమీక్షించడం ఒక మంచి సమయంలో ఉంటుంది.',
+    'email.resetPassword.button': 'పాస్వర్డ్ రీసెట్ చేయండి',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'మనం మీకు గుండెలో ఉండటం సంతోషంగా ఉంది! దయచేసి ఈ ఇమెయిల్ చిరునామాను ధృవీకరించే క్రింది బటన్‌ను క్లిక్ చేయండి.',
+    'email.verifyEmail.button': 'ఈ ఇమెయిల్ చిరునామాను ధృవీకరించు',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'మీ ఖాతాను నవీకరించారు',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
