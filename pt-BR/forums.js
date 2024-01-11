@@ -15,7 +15,7 @@ export default {
   'forums.category.intlNameDescription': 'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
   'forums.thread.new': 'New thread',
   'forums.thread.delete': 'Delete thread',
-  'forums.post.new': 'New post',
+  'forums.post.new': 'Novos postos',
   'forums.archived.forum': 'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
   'forums.category.archive': 'Archive category',
   'forums.category.archiveExplained': 'Category that has no threads will be deleted, while categories with content will prevent creation of new threads.',
@@ -27,18 +27,18 @@ export default {
   // Pre-defined category names
   'forums.category.intlName.general': 'General',
   'forums.category.intlName.announcements': 'Announcements',
-  'forums.category.intlName.stories': 'Stories',
-  'forums.category.intlName.universes': 'Universes',
-  'forums.category.intlName.universe': 'Universe',
+  'forums.category.intlName.stories': 'Histórias',
+  'forums.category.intlName.universes': 'Universos',
+  'forums.category.intlName.universe': 'Universo',
   'forums.category.intlName.community': 'Community',
   'forums.category.intlName.meetups': 'Meetups',
-  'forums.category.intlName.characters': 'Characters',
-  'forums.category.intlName.locations': 'Locations',
-  'forums.category.intlName.history': 'History',
+  'forums.category.intlName.characters': 'Caracteres',
+  'forums.category.intlName.locations': 'Localização',
+  'forums.category.intlName.history': 'História',
   'forums.category.intlName.art': 'Art',
   'forums.category.intlName.inspiration': 'Inspiration',
-  'forums.category.intlName.news': 'News',
-  'forums.category.intlName.help': 'Help',
+  'forums.category.intlName.news': 'Novidades',
+  'forums.category.intlName.help': 'Socorro',
   'forums.category.intlName.questions': 'Questions',
   'forums.category.back': 'Back to forum overview',
   // Forum restrictions
@@ -54,7 +54,7 @@ export default {
   'forums.createQuestionLabel': 'Is this a question?',
   'forums.thread.noReplies': 'There are currently no replies here.',
   'forums.reply': 'Reply',
-  'forums.post': 'Post',
+  'forums.post': 'Posto',
   'forums.posting': 'Posting...',
   'forums.reset': 'Reset',
   'forum.thread.reply': 'Add a reply to this thread',
@@ -64,5 +64,5 @@ export default {
     one {resposta}
     other {respostas}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
+  'forums.thread.createdAt': 'Criado em {createdAt, date, medium}'
 };
