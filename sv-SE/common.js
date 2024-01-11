@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Vi är ledsna, men den här funktionen är inte tillgänglig just nu. Vi arbetar hårt för att göra den tillgänglig så snart som möjligt.',
     'common.nothingfound': 'Nothing found',
     'common.explore': 'Explore',
-    'common.by': 'by ',
+    'common.by': 'av {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Skraplatta',
     'common.scratchpad.own': 'Ditt skrapblock',
