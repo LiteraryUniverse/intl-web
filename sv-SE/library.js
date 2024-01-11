@@ -4,6 +4,6 @@ export default {
     'library.bought': 'Köpta berättelser',
     'library.stories': 'Följda berättelser',
     'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
+    'bookmark.continueReading': 'Fortsätt läsa',
     'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
 };
