@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'གསར་པའི་གྲོགས་སྡེབ་དང་གནས་སྡེབ་དང་ཆེན་པོ་བསྟོད་པའི་སྐོར།',
+    'discovery.universes.new': 'གསར་པའི་གྲོགས་སྡེབ་དང་གནས་སྡེབ་དང་ཆེན་པོ་བསྟོད་པའི་སྐོར་གསར་བཞིན་པའི་སྐོར།',
+    'discovery.stories.new': 'གསར་པའི་གནས་སྡེབ་དང་ཆེན་པོ་བསྟོད་པའི་སྐོར།',
+    'discovery.stories.standalone.new': 'གསར་པའི་གནས་སྡེབ་དང་གསལ་གཞི་གྲོགས་པའི་སྐོར་གསར་བཞིན་པའི་སྐོར།',
+    'discovery.stories.updated': 'གསར་པའི་གནས་སྡེབ་དང་བརྗོད་པའི་གྲོགས་པའི་སྐོར།',
+    'discovery.continue': 'འཕྲལ་གྱི་བཀོད་པའི་གནས་སྡེབ་ཚེ་འདི་བཟོས་བརྗོད་པའི་སྐོར་བརྩེ་བ།',
+    'discovery.stories.similar.new': 'གསར་པའི་གྲོགས་སྡེབ་དང་སྒྲོམ་གྱི་གནས་སྡེབ་དང་ཆེན་པོ་བསྟོད་པའི་སྐོར་གསར་བཞིན་པའི་སྐོར།',
+    'discovery.stories.similar.regular': 'གསར་པའི་གྲོགས་སྡེབ་དང་སྒྲོམ་གྱི་གནས་སྡེབ་དང་ཆེན་པོ་བསྟོད་པའི་སྐོར།',
     'story.estimatedReadingTime': `སློབ་ཚན་འདི་ {hours, plural,
         =0 {}
         one {1 ཆུ་ཚོད་ལས་ དུས་པའི་ }
