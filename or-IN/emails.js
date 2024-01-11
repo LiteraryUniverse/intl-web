@@ -20,15 +20,15 @@ export default {
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'ଆପଣଙ୍କୁ ଦେଖିବାକୁ ଆଗାମୀ ଅପେକ୍ଷା କରୁଛି,<br />ଲିଟେରରୀ ବ୍ୟାପାରରେ ଟିମ୍‌',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'ଆପଣଙ୍କର ଏକାଉଣ୍ଟର ପାସ୍‌ଵାର୍ଡ ରିସେଟ କରିବା ପାଇଁ ଆମେ ଏକ ଅନୁରୋଧ ପାଇଛି, ଦୟାକରି ପ୍ରକ୍ରିୟାଟି ଜାରି ରଖିବାରେ ବଟନ୍‌କୁ କ୍ଲିକ୍‌ କରନ୍ତୁ । ଯଦି ଆପଣ ଏହି ଅନୁରୋଧ କରିନଥିବା ହେବାରେ ତାହାକୁ ଆପଣ ଅଗ୍ରହରେ ନିହାତିପାରିବେ, କିନ୍ତୁ ଏହା ଆପଣଙ୍କ ସୁରକ୍ଷା ସେଟିଂସମେଣେ ଏକ ଭଲ ସମୟରେ ପରିଗଣନା କରିବାରେ ଉପଯୁକ୍ତ ହେବା ପାଇଁ ।',
+    'email.resetPassword.button': 'ପାସ୍‌ଵାର୍ଡ ରିସେଟ କରନ୍ତୁ',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'ଆମେ ଆପଣଙ୍କୁ ସ୍ୱାଗତ କରୁଛୁ! ଦୟାକରି ଏହି ଇମେଲ୍ ଠାରୁ ଯାଆହେବା ବଟନ୍‌କୁ କ୍ଲିକ୍‌ କରନ୍ତୁ ।',
+    'email.verifyEmail.button': 'ଏହି ଇମେଲ୍ ଠାରୁ ସ୍ୱାଗତ କରନ୍ତୁ',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'ଆପଣଙ୍କ ଏକାଉଣ୍ଟଟି ଉନ୍ନତ କରାଯାଇଛି',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
