@@ -12,7 +12,7 @@ export default {
     'writer.underline': 'Underline the selection',
     'writer.italic': 'Emphasize the selection',
     'writer.wordcount': '{characters, number} characters, {words, number} words',
-    'finder.details': 'details',
+    'finder.details': 'detaloj',
     'finder.remove': 'remove the connection',
     'finder.connect': 'Connect selection to encyclopedia entry',
     'writer.aside.ariaLabel': 'Help options menu',
