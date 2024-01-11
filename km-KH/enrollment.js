@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'ទាមទារ​គណនី​របស់​អ្នក។',
+    'enrollment.description': 'សូម​ស្វាគមន៍ {username}! ដើម្បី​ទទួល​បាន​ចូល​ទៅ​គណនី​របស់​អ្នក​ប្រើប្រាស់​ពិសេស អ្នក​ត្រូវ​តែ​បង្កើត​ពាក្យ​សម្ងាត់។',
+    'enrollment.submitting': 'ការ​ទាមទារ​គណនី​របស់​អ្នកកំពុង​ដំណើរការ...',
+    'enrollment.submit': 'ទាមទារ​គណនី​របស់​អ្នក។'
 };
