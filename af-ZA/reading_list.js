@@ -2,7 +2,7 @@ export default {
   'readingList.title': 'Reading list',
   'readingList.type.label': 'List type',
   'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
+  'readingList.type.universes': 'Heelalle',
   'readingList.ordered.label': 'Ranked list',
   'readingList.button.add': 'Add to reading list',
   'readingList.selectList': 'Select reading list',
