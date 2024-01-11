@@ -15,11 +15,11 @@ export default {
     'blog.description': 'مقدمة المدونة',
     'blog.theme': 'الموضوع',
     'blog.theme.info': 'عند ضبط الموضوع ، ستتمكن من تغيير شكل الصفحة. هذه الميزة غير متاحة في الوقت الحالي.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `{total, plural,
+    zero {لا توجد مشاركات}
+    one {هناك مشاركة واحدة}
+    other {هناك # مشاركات}
+  } في هذه المدونة.`,
     'blog.post.create': 'إنشاء مشاركة جديدة',
     'blog.post.update': 'تحرير {title}',
     'blog.post.text': 'نص المشاركة',
