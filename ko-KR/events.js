@@ -22,7 +22,7 @@ export default {
   'events.selection.origin': 'Event origin',
   'events.origin.universe': 'Universe',
   'events.origin.author': 'Author',
-  'events.origin.groups': 'Groups',
+  'events.origin.groups': '그룹',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
   'events.visibility.label': 'Event visibility',
