@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Omlouváme se, ale tato funkcionalita je momentálně ve vývoji.',
     'common.nothingfound': 'Nic nenalezeno',
     'common.explore': 'Objev',
-    'common.by': 'od ',
+    'common.by': 'od {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Zápisník',
     'common.scratchpad.own': 'Váš Zápisník',
