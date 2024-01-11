@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Revendică-ți contul!',
+    'enrollment.description': 'Bun venit {username}! Pentru a avea acces la contul tău special, trebuie doar să creezi o parolă.',
+    'enrollment.submitting': 'Se revendică contul tău...',
+    'enrollment.submit': 'Revendică-ți contul!'
 };
