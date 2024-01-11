@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Нам дуже шкода, але ця функція наразі недоступна. Ми працюємо над тим, щоб зробити її доступною якомога швидше.',
     'common.nothingfound': 'Нічого не знайдено',
     'common.explore': 'Дослідити',
-    'common.by': 'за ',
+    'common.by': 'за {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Чернетка',
     'common.scratchpad.own': 'Ваша чернетка',
