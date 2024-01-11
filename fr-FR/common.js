@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Nous sommes désolés, mais cette fonctionnalité n\'est pas disponible pour le moment. Nous nous efforçons de la rendre disponible dès que possible.',
     'common.nothingfound': 'Aucun résultat',
     'common.explore': 'Explorer',
-    'common.by': 'par ',
+    'common.by': 'par {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Bloc-notes',
     'common.scratchpad.own': 'Votre bloc-notes',
