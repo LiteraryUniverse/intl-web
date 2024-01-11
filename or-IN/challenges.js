@@ -36,22 +36,22 @@ export default {
     'nanowrimo.settings': 'NaNoWriMo account',
     'nanowrimo.username': 'NaNoWriMo username',
     'nanowrimo.key': 'Secret key',
-    'nanowrimo.key.get': 'Get your NaNoWriMo key.',
-    'nanowrimo.key.get.notice': 'You need to be logged in to see it.',
-    'nanowrimo.ongoing': 'is in full swing! {countdown} more days to go!',
-    'nanowrimo.startsin': `will start in {countdown, plural,
-      one {1 day}
-      other {# days}
-    }! Get ready!`,
-    'nanowrimo.isover': 'NaNoWriMo is over. See you next year!',
-    'nanowrimo.select': 'Designate this story for NaNoWriMo.',
-    'nanowrimo.baseline': 'When NaNoWriMo starts it will take the current wordcount and use it as a baseline from which any additional words will be taken as part of NaNoWriMo.',
-    'nanowrimo.victory': 'Congratulation! You won NaNoWriMo!',
-    'nanowrimo.challenge': 'NaNoWriMo challenge',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
-    'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
-    'nanowrimo.error.nobook': 'No book has been found. Please make sure you have created your book on NaNoWriMo.',
-    'nanowrimo.error.wordcount': 'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
-    'nanowrimo.connected': 'You have designated this story for NaNoWriMo.',
-    'nanowrimo.connected.other': 'You have already connected another story.'
+    'nanowrimo.key.get': 'ଆପଣଙ୍କର NaNoWriMo କୀ ପାନ୍ତି ପାନ୍ତି ପାନ୍ତି।',
+    'nanowrimo.key.get.notice': 'ଆପଣ ଦେଖିବା ପାଇଁ ଲଗଇନ ହେବା ଆବଶ୍ୟକ।',
+    'nanowrimo.ongoing': 'ପୂର୍ଣ ଗତିରେ ଅଛି! {countdown} ଆଉଛି ଆଗକୁ ଯାଇବା ପାଇଁ!',
+    'nanowrimo.startsin': `!ଶୁରୁ ହେବାକୁ ବାକି ଅଛି {countdown, plural,
+      one {1 ଦିନ}
+      other {# ଦିନ}
+    }! ପ୍ରସ୍ତୁତ ହୋନ୍ତିରାହିବାକୁ`,
+    'nanowrimo.isover': 'NaNoWriMo ଶେଷ ହେଇଛି। ଆଗବାଢ଼ି ତାରିଖରେ ଦେଖିବାକୁ ପାଇବେ!',
+    'nanowrimo.select': 'ଏହି ଗଳ୍ପକୁ NaNoWriMo ପାଇଁ ନିର୍ଧାରଣ କରନ୍ତୁ।',
+    'nanowrimo.baseline': 'NaNoWriMo ଶୁରୁ ହେଲେ ଏହି ବର୍ତ୍ତମାନ ଶବ୍ଦଗୁଡିକୁ ନିମନ୍ତେ ନିର୍ଧାରଣ କରିବେ ।',
+    'nanowrimo.victory': 'ଅଭିନନ୍ଦନ! ଆପଣ NaNoWriMo ଜୟୀ ହୋଇଛନ୍ତି!',
+    'nanowrimo.challenge': 'NaNoWriMo ଚାଲଞ୍ଚ',
+    'nanowrimo.description': 'ଚାଲଞ୍ଚ ହେଲା {words, number} ଶବ୍ଦଗୁଡ଼ି ଲେଖିବା ନଭେମ୍ବରରେ।',
+    'nanowrimo.error.usernotfound': 'NaNoWriMo ସର୍ଭରରେ ବ୍ୟବହାରକାରୀଙ୍କ ନାମ ପାଇବାରେ ପ୍ରାପ୍ତ ହେଉଛି ନାହିଁ।',
+    'nanowrimo.error.nobook': 'କୌଣସି ବହିନା ପାଇଁ କୌଣସି ବହିନା ପାଇଁ ନାହିଁ । ଦୟାକରି ନାହିଁଲେ ନାହିଁ ନାହିଁ ।',
+    'nanowrimo.error.wordcount': 'NaNoWrimo ରେ wordcount ନିର୍ଧାରଣ କରିବାକୁ ଅସମର୍ଥ, ଦୟାକରି ଆପଣଙ୍କର ସତ୍ୟାପାତ୍ରତା ଦ୍ୱିତୀୟ ଚେକ କରନ୍ତୁ ଏବଂ ପୁନର୍ଚ୍ଚେଷ୍ଟା କରନ୍ତୁ ।',
+    'nanowrimo.connected': 'ଆପଣ ଏହି ଗଳ୍ପକୁ NaNoWriMo ପାଇକୁ ନିର୍ଧାରଣ କରିଛନ୍ତି ।',
+    'nanowrimo.connected.other': 'ଆପଣ ଇତ୍ୟାଦି ଏକ ଅନ୍ୟ ଗଳ୍ପ ସଂଯୁକ୍ତ କରିଛନ୍ତି ।'
 };
