@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Je nám veľmi ľúto, ale táto funkcia momentálne nie je k dispozícii. Usilovne pracujeme na tom, aby bola k dispozícii čo najskôr.',
     'common.nothingfound': 'Nič sa nenašlo',
     'common.explore': 'Preskúmajte',
-    'common.by': 'od ',
+    'common.by': 'od {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Zápisník',
     'common.scratchpad.own': 'Váš zápisník',
