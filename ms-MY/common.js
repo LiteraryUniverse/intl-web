@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Berhenti!',
+    'console.explain': 'Ini adalah fungsi peramban yang ditujukan untuk para pengembang. Jika seseorang meminta Anda untuk menyalin-tempel sesuatu di sini untuk mengaktifkan fitur Literary Universe atau "membobol" akun seseorang, itu adalah penipuan dan akan memberikan mereka akses ke akun Literary Universe Anda.'
 }    /* eslint-enable max-len */;
