@@ -238,7 +238,7 @@ export default {
     'common.discordCommunity': 'Comunità Di Discord',
     'common.account': 'Profilo',
     'common.notifications': 'Notifiche',
-    'common.byDeclaration': 'By:',
+    'common.byDeclaration': 'Di:',
     'common.done': 'Done',
     recommended: 'Recommended',
     'select.typeToCreate': 'Start typing to create an item',
@@ -255,7 +255,7 @@ export default {
     'common.loggingOut': 'Logging out',
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
-    'email.hello': 'Hello {username},',
+    'email.hello': 'Ciao {username},',
     'common.back': 'Back',
     'console.stop': 'Fermati!',
     'console.explain': 'Questa è una funzionalità del browser destinata agli sviluppatori. Se qualcuno ti ha detto di copiare e incollare qualcosa qui per abilitare una funzione dell\'Universo Letterario o "hackerare" l\'account di qualcuno, si tratta di una truffa e darà loro accesso al tuo account dell\'Universo Letterario.'
