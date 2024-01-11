@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'གནས་ཚུལ་གསརཔ་གློག་མིན།',
+    'feed.post.like': 'གནས་ཚུལ་གློག་བཞག་པ།',
+    'feed.post.unlike': 'གནས་ཚུལ་གློག་བསྐྱར་མེད།',
+    'feed.post.send': 'གསར་བསྐྱོད།',
+    'feed.empty': 'གནས་ཚུལ་མིང་ཆ་མེད་པ་མིན་འདུག་མེད།'
 };
