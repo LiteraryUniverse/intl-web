@@ -1,7 +1,7 @@
 export default {
   'roadmap.ariaTimeOptions': 'Selections for roadmap items based on their status.',
   'roadmap.state.backlog': 'Backlog',
-  'roadmap.state.inprogress': 'In-progress',
+  'roadmap.state.inprogress': 'Em progresso',
   'roadmap.state.preview': 'Preview',
   'roadmap.state.beta': 'Beta',
   'roadmap.state.ga': 'General availability',
