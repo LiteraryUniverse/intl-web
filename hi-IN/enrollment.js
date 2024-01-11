@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'अपने खाते को दावा करें!',
+    'enrollment.description': 'आपका स्वागत है {username}! अपने विशेष खाते तक पहुंच पाने के लिए आपको केवल पासवर्ड बनाना होगा।',
+    'enrollment.submitting': 'अपने खाते को दावा कर रहे हैं...',
+    'enrollment.submit': 'अपने खाते को दावा करें!'
 };
