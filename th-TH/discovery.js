@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'ค้นพบเรื่องราวและจักรวาลใหม่',
+    'discovery.universes.new': 'จักรวาลที่กำลังเจริญเติบโต',
+    'discovery.stories.new': 'เรื่องราวใหม่',
+    'discovery.stories.standalone.new': 'เรื่องราวแบบแยกตัว',
+    'discovery.stories.updated': 'เรื่องราวที่ได้รับการอัพเดตล่าสุด',
+    'discovery.continue': 'ดำเนินการอ่านต่อ',
+    'discovery.stories.similar.new': 'เรื่องราวใหม่ในย่านใกล้เคียง',
+    'discovery.stories.similar.regular': 'เรื่องราวในย่านใกล้เคียง',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
