@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'নতুন গল্প এবং বিশ্বসৃষ্টি আবিষ্কার করুন।',
+    'discovery.universes.new': 'উদযাপিত বিশ্বসৃষ্টিসমূহ',
+    'discovery.stories.new': 'নতুন গল্পসমূহ',
+    'discovery.stories.standalone.new': 'নতুন নির্যাসকৃত গল্পসমূহ',
+    'discovery.stories.updated': 'সাম্প্রতিকভাবে আপডেট করা গল্পসমূহ',
+    'discovery.continue': 'পঠিত করা চালিয়ে যান',
+    'discovery.stories.similar.new': 'নিকটবর্তীতে নতুন গল্পসমূহ',
+    'discovery.stories.similar.regular': 'নিকটবর্তীতে গল্পসমূহ',
     'story.estimatedReadingTime': `This story should take {hours, plural,
         =0 {}
         one {1 hour and }
