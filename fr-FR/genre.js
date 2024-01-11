@@ -25,7 +25,7 @@ export default {
     'genre.children': 'Enfants',
     'genre.postapocalyptic': 'Post-Apocalyptic',
     'genre.political': 'Political document',
-    'genre.history': 'History',
+    'genre.history': 'Historique',
     'genre.isekai': 'Isekai',
     'genre.scifi.description': 'Science fiction is a literary genre that explores speculative or futuristic concepts, often incorporating scientific and technological elements. It often deals with imaginative and futuristic concepts, such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life. Science fiction often delves into social, political, and philosophical issues, reflecting and commenting on contemporary society. It can be categorized into sub-genres such as cyberpunk, hard science fiction, dystopian fiction, and space opera, among others.',
     'genre.fantasy.description': 'Fantasy is a literary genre that involves elements of magic, supernatural events, and mythical creatures, often set in imaginary worlds. It may feature heroes on quests, battles between good and evil, and coming-of-age tales. Fantasy can be categorized into sub-genres such as high fantasy, urban fantasy, dark fantasy, and fairy tales, among others. It often incorporates themes of morality and ethics, exploring the nature of good and evil.',
