@@ -21,7 +21,7 @@ export default {
     other {are # posts}
   } in this blog.`,
     'blog.post.create': 'Criar um novo posto',
-    'blog.post.update': 'Editing {title}',
+    'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Texto do post',
     'common.slug': 'Endereço amigável de SEO',
     'blog.slug.explained': 'Belo visual url para o posto. Evite usar caracteres especiais, exceto "-".',
