@@ -6,7 +6,7 @@ export default {
     'org.logo': 'Organization logo',
     'org.logo.alt': '{organizationName} logo',
     'org.superAdmin': 'Super Admin',
-    'org.settings.language': 'Primary language',
+    'org.settings.language': 'Primêre taal',
     'org.meta.desc': 'Organizations and creative groups on Literary Universe.',
     'org.luOrgs': 'Literary Universe Organizations',
     'org.otherOrgs': 'Guilds & Organizations',
