@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Durdur!',
+    'console.explain': 'Bu, geliştiriciler için tasarlanmış bir tarayıcı özelliğidir. Eğer birisi size, Edebiyat Evreni özelliğini etkinleştirmek veya birinin hesabını "hacklemek" için buraya bir şeyler kopyalamayı söylediyse, bu bir dolandırıcılıktır ve size Edebiyat Evreni hesabına erişim sağlayacaktır.'
 }    /* eslint-enable max-len */;
