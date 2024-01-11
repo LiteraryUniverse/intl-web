@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Chúng tôi rất xin lỗi, nhưng tính năng này hiện chưa có sẵn tại thời điểm này. Chúng tôi đang nỗ lực hết sức để thêm tính năng này sớm nhất có thể.',
     'common.nothingfound': 'Không tìm thấy gì',
     'common.explore': 'Khám phá',
-    'common.by': 'bởi ',
+    'common.by': 'bởi {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
