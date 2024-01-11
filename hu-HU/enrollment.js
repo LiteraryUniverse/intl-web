@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Igényeld a fiókodat!',
+    'enrollment.description': 'Üdvözlünk {username}! A különleges fiókodhoz csak létre kell hoznod egy jelszót.',
+    'enrollment.submitting': 'Fiókod igénylése...',
+    'enrollment.submit': 'Igényeld a fiókodat!'
 };
