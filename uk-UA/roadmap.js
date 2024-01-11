@@ -13,7 +13,7 @@ export default {
   'roadmap.eta.q2.long': 'Другий квартал',
   'roadmap.eta.q3.long': 'Третій квартал',
   'roadmap.eta.q4.long': 'Четвертий квартал',
-  'roadmap.backlog': 'Backlog',
+  'roadmap.backlog': 'Відставання',
   'roadmap.history': 'Історія розвитку',
   'roadmap.item.inBacklog': 'Ми плануємо розвивати цю функцію в майбутньому.',
   'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
