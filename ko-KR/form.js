@@ -22,10 +22,10 @@ export default {
     'form.validator.email': '유효한 이메일이어야 합니다',
     'form.validator.url': '유효한 URL이어야 해요',
     'form.validator.slug': '유효한 URL의 일부여야 해요',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
+    'form.submitting.signup': '계정 생성 중...',
+    'form.submitting.signin': '로그인 중...',
+    'form.submitting.default': '전송중...',
+    'form.submitting.sending': '보내는 중...',
     'form.validator.whitespace': '공백이 없어야합니다',
     'form.validator.zipCode': '유효한 우편번호여야 합니다',
     'form.validator.isbn': 'ISBN은 10 또는 13 버전만 허용됩니다',
@@ -34,7 +34,7 @@ export default {
     'form.weakPassword': '이 비밀번호는 약합니다. 숫자와 특수문자를 추가하여 강화하는 것을 고려해주세요.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
+    'simpleschema.required': '{label} 필수',
     'simpleschema.minString': '{label} must be at least {min, number} characters',
     'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
     'simpleschema.minNumber': '{label} must be at least {min, number}',
