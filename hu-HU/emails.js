@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Meghívás az Irodalmi Univerzumba {username}részére',
+    'email.enrollAccount.message': `Üdvözöljük {username}\n\n
+    ! Szeretnénk meghívni az Irodalmi Univerzumba! Létrehoztunk Önnek egy speciális személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum összes funkciójához! Kérjük, csatlakozzon hozzánk a következő generációs kreatív írás- és olvasóeszközök létrehozásában!
+    Az fiók aktiválásához egyszerűen kattintson az alábbi linkre:\n\n{url}`,
+    'email.resetPassword.subject': 'Irodalmi Univerzum jelszó visszaállítás',
+    'email.resetPassword.message': `Üdvözöljük {username}!\n\n Megkaptunk egy kérést a jelszava visszaállítására a fiókjához.
+        Kérjük, kövesse az alábbi linket a jelszó visszaállításához:\n\n{url}`,
+    'email.verifyEmail.subject': 'Irodalmi Univerzum e-mail megerősítés',
+    'email.verifyEmail.message': 'Üdvözöljük {username}!\n\n Kérjük, erősítse meg az e-mail címét az alábbi linkre kattintva:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Üdvözöljük {username},',
+    'email.welcome': 'Üdvözöljük az Irodalmi Univerzumban!',
+    'email.signature': 'Üdvözlettel,<br />az Irodalmi Univerzum csapata',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.welcome': 'Üdvözöljük a fedélzeten',
+    'email.enrollAccount.messageHtml': 'Szeretnénk meghívni az Irodalmi Univerzumba! Előre elkészítettünk Önnek egy személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum összes funkciójához! Kérjük, csatlakozzon hozzánk a kreatív írás és olvasás következő generációjának létrehozásában!',
+    'email.enrollAccount.button': 'Fiókhoz való hozzáférés',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Megkaptunk egy kérelmet a jelszavad visszaállítására a fiókodhoz. Kérjük, kattints az alábbi gombra a folyamat folytatásához. Ha nem te voltál, aki kérelmezte ezt, nyugodtan figyelmen kívül hagyhatod ezt az e-mailt, de érdemes lehet átnézned a biztonsági beállításaidat.',
+    'email.resetPassword.button': 'Jelszó visszaállítása',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Örülünk, hogy velünk vagy! Kérjük, kattints az alábbi gombra a felhasználói e-mail cím megerősítéséhez.',
+    'email.verifyEmail.button': 'Megerősítés a felhasználói e-mail címről',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'A fiókodat frissítettük',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
