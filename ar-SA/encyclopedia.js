@@ -100,8 +100,8 @@ export default {
     'encyclopedia.fields.time': 'الوقت',
     'encyclopedia.fields.image': 'الصورة',
     'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
+    'encyclopedia.public': 'عام',
+    'encyclopedia.private': 'خاص',
     'encyclopedia.container': 'Container',
     'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
     'encyclopedia.entry.name': 'Name of the entry',
@@ -125,7 +125,7 @@ export default {
     one {is one entry}
     other {are # entries}
   } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
+    'encyclopedia.settings.title': 'إعدادات الموسوعة',
     'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
     'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
     'encyclopedia.fields.placeholder': 'Field name',
