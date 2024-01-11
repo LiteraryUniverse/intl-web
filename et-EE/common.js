@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Meil on väga kahju, kuid see funktsioon ei ole praegu saadaval. Töötame kõvasti selle võimalikult kiireks kättesaadavaks tegemiseks.',
     'common.nothingfound': 'Midagi ei leitud',
     'common.explore': 'Explore',
-    'common.by': 'by ',
+    'common.by': 'autor {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Your scratchpad',
