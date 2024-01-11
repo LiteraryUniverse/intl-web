@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
+    'email.enrollAccount.subject': 'कविता बिश्वमा स्वागत गर्न आमन्त्रण! {username}',
+    'email.enrollAccount.message': `नमस्ते {username}\n\n
+    हामीले तपाईंलाई कविता बिश्वमा आमन्त्रण गर्न चाहान्छौं! हामीले तपाईंको लागि एक विशेष व्यक्तिगत खाता सिर्जना गरेका छौं जहाँ तपाईंले कविता बिश्वका सबै सुविधाहरूमा पहुँच प्राप्त गर्न सक्नुहुन्छ! कृपया हामीले सृजनात्मक लेखन र पठन उपकरणको अगाडीको पीडीएफ बनाउँदा हामीसँग साझा होइनुहोस्!
+    तपाईंको खाता सक्रिय गर्नका लागि, कृपया तलको लिंकमा क्लिक गर्नुहोस्:\n\n{url}`,
+    'email.resetPassword.subject': 'कविता बिश्वको पासवर्ड रीसेट',
     'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
         Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.verifyEmail.subject': 'कविता बिश्वको ईमेल प्रमाणिकरण',
+    'email.verifyEmail.message': 'नमस्ते {username}!\n\n कृपया तपाईंको ईमेल ठेगाना प्रमाणित गर्नको लागि तलको लिंकमा क्लिक गर्नुहोस्:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'नमस्ते {username},',
+    'email.welcome': 'कविता बिश्वमा स्वागत छ!',
+    'email.signature': 'सधैं सत्य,<br />कविता बिश्व टोली',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'स्वागत छ',
+    'email.enrollAccount.messageHtml': 'हामीले तपाईंलाई कविता बिश्वमा आमन्त्रण गर्न चाहान्छौं! हामीले तपाईंको लागि एक व्यक्तिगत खाता सिर्जना गरेका छौं जहाँ तपाईंले कविता बिश्वका सबै सुविधाहरूमा पहुँच प्राप्त गर्न सक्नुहुन्छ! कृपया हामीले सृजनात्मक लेखन र पठनमा सहभागी होइनुहोस्!',
+    'email.enrollAccount.button': 'तपाईंको खातामा पहुँच गर्नुहोस्',
+    'email.enrollAccount.signature': 'हामीले तपाईंलाई देख्ने उत्सुक छौं,<br />कथाकारी ब्रह्माण्ड टोली',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'तपाईंको खाताको पासवर्ड रिसेट गर्नका लागि हामीलाई एक अनुरोध प्राप्त भयो, कृपया प्रक्रिया सुरु राख्नका लागि तलको बटनमा क्लिक गर्नुहोस्। यदि तपाईंले यो अनुरोध नगरेको छन् भने तपाईं यो ईमेललाई अनदेखि गर्न सक्नुहुन्छ, तर यसलाई तपाईंको सुरक्षा सेटिङहरूलाई समीक्षा गर्ने राम्रो समय हुन सक्छ।',
+    'email.resetPassword.button': 'पासवर्ड रिसेट गर्नुहोस्',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'हामीले तपाईंलाई स्वागत गर्दछौं! कृपया यो ईमेल ठेगानालाई सत्यापित गर्नका लागि तलको बटनमा क्लिक गर्नुहोस्।',
+    'email.verifyEmail.button': 'यो ईमेल ठेगाना सत्यापित गर्नुहोस्',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'तपाईंको खाता अपग्रेड गरिएको छ',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
