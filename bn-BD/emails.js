@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'সাহিত্যিক বিশ্বে আপনাকে আমন্ত্রণ! {username}',
+    'email.enrollAccount.message': `হ্যালো {username}\n\n
+    আমরা আপনাকে সাহিত্যিক বিশ্বে আমন্ত্রণ জানাতে চাই! আপনার জন্য আমরা একটি বিশেষ ব্যক্তিগত অ্যাকাউন্ট তৈরি করেছি যেখানে আপনি সাহিত্যিক বিশ্বের সমস্ত বৈশিষ্ট্য অ্যাক্সেস করতে পারবেন! অগ্রসর হতে আমাদের সাহিত্যিক লেখা এবং পঠন সরঞ্জামের পরবর্তী প্রজন্মকে সৃষ্টি করাতে আমাদের সঙ্গে যোগ দিন!
+    আপনার অ্যাকাউন্ট সক্রিয় করতে, নিচের লিংকটি ক্লিক করুন:\n\n{url}`,
+    'email.resetPassword.subject': 'সাহিত্যিক বিশ্ব পাসওয়ার্ড রিসেট করুন',
+    'email.resetPassword.message': `হ্যালো {username}!\n\n আপনার অ্যাকাউন্টের পাসওয়ার্ড রিসেট করার জন্য আমরা একটি অনুরোধ পেয়েছি।
+        আপনার পাসওয়ার্ড রিসেট করতে নিচের লিংকটি ফলো করুন:\n\n{url}`,
+    'email.verifyEmail.subject': 'সাহিত্যিক বিশ্ব ইমেল যাচাই',
+    'email.verifyEmail.message': 'হ্যালো {username}!\n\n দয়া করে আপনার ইমেল ঠিকানা যাচাই করতে নিচের লিংকটি ক্লিক করুন:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'হ্যালো {username},',
+    'email.welcome': 'সাহিত্যিক বিশ্বে স্বাগতম!',
+    'email.signature': 'সত্যিই,<br />সাহিত্যিক বিশ্ব দল',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'স্বাগতম বোর্ডে',
+    'email.enrollAccount.messageHtml': 'আমরা আপনাকে সাহিত্যিক বিশ্বে আমন্ত্রণ জানাতে চাই! আমরা আগে থেকেই আপনার জন্য একটি ব্যক্তিগত অ্যাকাউন্ট তৈরি করেছি যেখানে আপনি সাহিত্যিক বিশ্বের সমস্ত বৈশিষ্ট্য অ্যাক্সেস করতে পারবেন! অনুগ্রহ করে আমাদের সাহিত্যিক লেখা এবং পঠনের পরবর্তী প্রজন্মে আমাদের সঙ্গে যোগ দিন!',
+    'email.enrollAccount.button': 'আপনার অ্যাকাউন্ট অ্যাক্সেস করুন',
+    'email.enrollAccount.signature': 'আমরা আপনাকে দেখতে অপেক্ষা করছি,<br />লিটারারি ইউনিভার্স দল',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'আপনার অ্যাকাউন্টের পাসওয়ার্ড রিসেট করতে আমরা একটি অনুরোধ পেয়েছি, প্রক্রিয়াটি চালিয়ে যেতে নিচের বাটনে ক্লিক করুন। যদি আপনি এই অনুরোধটি না করে থাকেন তবে আপনি এই ইমেলটি উপেক্ষা করতে পারেন, তবে এটি আপনার নিরাপত্তা সেটিংস পর্যালোচনার একটি ভালো সময় হতে পারে।',
+    'email.resetPassword.button': 'পাসওয়ার্ড রিসেট করুন',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'আমরা আপনাকে স্বাগত জানাচ্ছি! দয়া করে এই ইমেল ঠিকানাটি যাচাই করতে নিচের বাটনে ক্লিক করুন।',
+    'email.verifyEmail.button': 'এই ইমেল ঠিকানা যাচাই করুন',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'আপনার অ্যাকাউন্ট আপগ্রেড করা হয়েছে',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
