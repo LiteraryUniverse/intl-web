@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'থামুন!',
+    'console.explain': 'এটি একটি ব্রাউজার ফিচার যা ডেভেলপারদের জন্য প্রয়োজনীয়। যদি কেউ আপনাকে এখানে কিছু কপি-পেস্ট করতে বলে লিটারারি ইউনিভার্স ফিচার বা কারো অ্যাকাউন্ট হ্যাক করার জন্য, তাহলে এটি একটি স্ক্যাম এবং এটি তাদেরকে আপনার লিটারারি ইউনিভার্স অ্যাকাউন্টে অ্যাক্সেস দেবে।'
 }    /* eslint-enable max-len */;
