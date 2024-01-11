@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Pysähdy!',
+    'console.explain': 'Tämä on selaimen ominaisuus, joka on tarkoitettu kehittäjille. Jos joku pyysi sinua kopioimaan ja liittämään jotain tänne ottaaksesi käyttöön Literary Universe -ominaisuuden tai "hakkeroidaksesi" jonkun tilin, se on huijaus ja antaa heille pääsyn Literary Universe -tiliisi.'
 }    /* eslint-enable max-len */;
