@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Invitație în Universul Literar pentru {username}',
+    'email.enrollAccount.message': `Bună {username}\n\n
+    Ne-ar plăcea să te invităm în Universul Literar! Ți-am creat un cont personal special în care poți accesa toate funcțiile Universului Literar! Te rugăm să ni te alături în crearea următoarei generații de instrumente pentru scriere și lectură creative!
+    Pentru a-ți activa contul, pur și simplu apasă pe link-ul de mai jos:\n\n{url}`,
+    'email.resetPassword.subject': 'Resetare parolă Universul Literar',
+    'email.resetPassword.message': `Bună {username}!\n\n Am primit o cerere de resetare a parolei pentru contul tău.
+        Te rugăm să urmezi link-ul de mai jos pentru a-ți reseta parola:\n\n{url}`,
+    'email.verifyEmail.subject': 'Verificare e-mail Universul Literar',
+    'email.verifyEmail.message': 'Bună {username}!\n\n Te rugăm să-ți verifici adresa de e-mail apăsând pe link-ul de mai jos:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Bună {username},',
+    'email.welcome': 'Bun venit în Universul Literar!',
+    'email.signature': 'Cu sinceritate,<br />Echipa Universul Literar',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.welcome': 'Bun venit la bord',
+    'email.enrollAccount.messageHtml': 'Ne-ar plăcea să te invităm în Universul Literar! Am pregătit deja un cont personal pentru tine în care poți accesa toate funcțiile Universului Literar! Te rugăm să ni te alături în crearea următoarei generații de scriere și lectură creative!',
+    'email.enrollAccount.button': 'Accesează-ți contul',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Am primit o cerere de resetare a parolei pentru contul tău, te rugăm să apeși pe butonul de mai jos pentru a continua procesul. Dacă nu ai făcut această cerere, poți ignora acest e-mail, dar ar fi bine să verifici setările tale de securitate.',
+    'email.resetPassword.button': 'Resetează parola',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Ne bucurăm să te avem alături! Te rugăm să apeși pe butonul de mai jos pentru a verifica adresa de e-mail.',
+    'email.verifyEmail.button': 'Verifică această adresă de e-mail',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Contul tău a fost actualizat',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
