@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'Új bejegyzés',
+    'feed.post.like': 'Bejegyzés kedvelése',
+    'feed.post.unlike': 'Bejegyzés kedvelésének visszavonása',
+    'feed.post.send': 'Bejegyzés',
+    'feed.empty': 'Nincsenek bejegyzések az adatfolyamban.'
 };
