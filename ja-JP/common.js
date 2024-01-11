@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': '大変申し訳ありませんが、この機能は現在のところご利用できません。できるだけ早くご利用できるように取り組んでおります。',
     'common.nothingfound': '何も見つかりませんでした。',
     'common.explore': '調査',
-    'common.by': '～で　 ',
+    'common.by': 'by {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'メモ欄',
     'common.scratchpad.own': '専用のメモ欄',
