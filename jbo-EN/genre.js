@@ -17,7 +17,7 @@ export default {
     'genre.thriller': 'Thriller',
     'genre.western': 'Western',
     'genre.memoir': 'Memoir',
-    'genre.biography': 'Biography',
+    'genre.biography': 'Velski do fo do',
     'genre.steampunk': 'Steampunk',
     'genre.mythology': 'Mythology',
     'genre.fairytale': 'Fairy tale',
