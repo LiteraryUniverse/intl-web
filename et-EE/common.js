@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Peatu!',
+    'console.explain': 'See on brauseri funktsioon, mis on mõeldud arendajatele. Kui keegi palus teil midagi siia kopeerida, et lubada kirjandusliku universumi funktsioon või kellegi konto "häkkimine", siis tegemist on pettusega ja see annab neile juurdepääsu teie kirjandusliku universumi kontole.'
 }    /* eslint-enable max-len */;
