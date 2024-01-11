@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'Postare nouă',
+    'feed.post.like': 'Apreciază postarea',
+    'feed.post.unlike': 'Nu mai apreciaza postarea',
+    'feed.post.send': 'Postare',
+    'feed.empty': 'Nu există intrări în feed.'
 };
