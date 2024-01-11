@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Uitnodiging na die Literêre Heelal vir {username}',
+    'email.enrollAccount.message': `Hallo {username}\n\n
+    Ons wil jou graag uitnooi na die Literêre Heelal! Ons het 'n spesiale persoonlike rekening vir jou geskep waar jy toegang kan kry tot alle kenmerke van die Literêre Heelal! Sluit asseblief by ons aan om die volgende generasie van skeppende skryf- en leestegnieke te skep!
+    Om jou rekening te aktiveer, klik eenvoudig op die skakel hieronder:\n\n{url}`,
+    'email.resetPassword.subject': 'Literêre Heelal herstel wagwoord',
+    'email.resetPassword.message': `Hallo {username}!\n\n Ons het 'n versoek ontvang om jou wagwoord vir jou rekening te herstel.
+        Volg asseblief die skakel hieronder om jou wagwoord te herstel:\n\n{url}`,
+    'email.verifyEmail.subject': 'Literêre Heelal e-pos verifikasie',
+    'email.verifyEmail.message': 'Hallo {username}!\n\n Verifieer asseblief jou e-posadres deur op die skakel hieronder te klik:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Hallo {username},',
+    'email.welcome': 'Welkom by die Literêre Heelal!',
+    'email.signature': 'Opreg,<br />Literêre Heelal span',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Welkom aan boord',
+    'email.enrollAccount.messageHtml': 'Ons wil jou graag uitnooi na die Literêre Heelal! Ons het \'n persoonlike rekening vir jou voorberei waar jy toegang kan kry tot alle kenmerke van die Literêre Heelal! Sluit asseblief by ons aan om die volgende generasie van skeppende skryf- en leeswerk te skep!',
+    'email.enrollAccount.button': 'Kry toegang tot jou rekening',
+    'email.enrollAccount.signature': 'Ons sien daarna uit om jou te sien,<br />Literary Universe-span',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Ons het \'n versoek ontvang om jou wagwoord vir jou rekening te herstel, klik asseblief op die knoppie hieronder om die proses voort te sit. As jy nie hierdie versoek gemaak het nie, kan jy hierdie e-pos ignoreer, maar dit mag \'n goeie tyd wees om jou sekuriteitsinstellings te hersien.',
+    'email.resetPassword.button': 'Herstel wagwoord',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Ons is bly om jou aan boord te hê! Klik asseblief op die knoppie hieronder om hierdie e-posadres te verifieer.',
+    'email.verifyEmail.button': 'Verifieer hierdie e-posadres',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Jou rekening is opgegradeer',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
