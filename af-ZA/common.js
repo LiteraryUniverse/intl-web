@@ -158,7 +158,7 @@ export default {
     other {e-mail}
     }.`,
     unknown: 'unknown',
-    'common.legal.guidelines': 'Community Guidelines',
+    'common.legal.guidelines': 'Gemeenskapsriglyne',
     'errorLoading.title': 'Error during page load',
     'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
     'errorLoading.retry': 'Probeer weer!',
