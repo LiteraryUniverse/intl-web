@@ -64,7 +64,7 @@ export default {
     'plans.current.buying': 'Może to potrwać kilka chwil, aby zweryfikować Twój zakup. Doceniamy Twoją cierpliwość.',
     'plans.current.heading': 'Aktualna subskrypcja',
     'payment.methods.title': 'Payments & monetization',
-    'payment.methods.tabs': 'Payment options',
+    'payment.methods.tabs': 'Opcje płatności',
     'payment.option.title': 'Payment option',
     'payment.option.notFount': 'You don\'t have any payment option saved.',
     'payment.option.create': 'Dodaj nową opcję płatności',
