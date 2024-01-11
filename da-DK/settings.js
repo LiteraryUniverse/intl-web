@@ -1,5 +1,5 @@
 export default {
-    'settings.biography': 'Biography',
+    'settings.biography': 'Biografi',
     'settings.biography.placeholder': 'A little bit about yourself to be shown on your profile.',
     'settings.avatar.title': 'Avatar',
     'settings.avatar.own': 'Your avatar',
