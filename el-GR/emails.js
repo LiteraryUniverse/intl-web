@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Πρόσκληση στο Λογοτεχνικό Σύμπαν για {username}',
+    'email.enrollAccount.message': `Γεια σας {username}\n\n
+    Θα θέλαμε να σας προσκαλέσουμε στο Λογοτεχνικό Σύμπαν! Έχουμε δημιουργήσει ένα ειδικό προσωπικό λογαριασμό για εσάς, όπου μπορείτε να έχετε πρόσβαση σε όλες τις δυνατότητες του Λογοτεχνικού Σύμπαντος! Παρακαλούμε ελάτε να μας συνοδεύσετε στη δημιουργία της επόμενης γενιάς εργαλείων δημιουργικής γραφής και ανάγνωσης!
+    Για να ενεργοποιήσετε τον λογαριασμό σας, απλά κάντε κλικ στον παρακάτω σύνδεσμο:\n\n{url}`,
+    'email.resetPassword.subject': 'Επαναφορά κωδικού πρόσβασης Λογοτεχνικού Σύμπαντος',
+    'email.resetPassword.message': `Γεια σας {username}!\n\n Λάβαμε μια αίτηση για επαναφορά του κωδικού πρόσβασης για τον λογαριασμό σας.
+        Παρακαλούμε ακολουθήστε τον παρακάτω σύνδεσμο για να επαναφέρετε τον κωδικό πρόσβασής σας:\n\n{url}`,
+    'email.verifyEmail.subject': 'Επαλήθευση email Λογοτεχνικού Σύμπαντος',
+    'email.verifyEmail.message': 'Γεια σας {username}!\n\n Παρακαλούμε επαληθεύστε τη διεύθυνση email σας κάνοντας κλικ στον παρακάτω σύνδεσμο:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Γεια σας {username},',
+    'email.welcome': 'Καλωσορίσατε στο Λογοτεχνικό Σύμπαν!',
+    'email.signature': 'Με εκτίμηση,<br />Ομάδα Λογοτεχνικού Σύμπαντος',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.welcome': 'Καλωσορίσατε στο σκάφος',
+    'email.enrollAccount.messageHtml': 'Θα θέλαμε να σας προσκαλέσουμε στο Λογοτεχνικό Σύμπαν! Προχωρήσαμε και δημιουργήσαμε έναν προσωπικό λογαριασμό για εσάς, όπου μπορείτε να έχετε πρόσβαση σε όλες τις δυνατότητες του Λογοτεχνικού Σύμπαντος! Παρακαλούμε ελάτε να μας συνοδεύσετε στη δημιουργία της επόμενης γενιάς δημιουργικής γραφής και ανάγνωσης!',
+    'email.enrollAccount.button': 'Πρόσβαση στον λογαριασμό σας',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Λάβαμε μια αίτηση για επαναφορά του κωδικού πρόσβασης για τον λογαριασμό σας, παρακαλούμε κάντε κλικ στο κουμπί παρακάτω για να συνεχίσετε τη διαδικασία. Αν δεν έχετε κάνει αυτήν την αίτηση, μπορείτε να αγνοήσετε αυτό το μήνυμα, αλλά ίσως είναι καλή ιδέα να ελέγξετε τις ρυθμίσεις ασφαλείας σας.',
+    'email.resetPassword.button': 'Επαναφορά κωδικού πρόσβασης',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Χαρούμενοι που είστε μέλος της ομάδας μας! Παρακαλούμε κάντε κλικ στο κουμπί παρακάτω για να επιβεβαιώσετε τη διεύθυνση αυτού του e-mail.',
+    'email.verifyEmail.button': 'Επιβεβαίωση αυτής της διεύθυνσης e-mail',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Ο λογαριασμός σας έχει αναβαθμιστεί',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
