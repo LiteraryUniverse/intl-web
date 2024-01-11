@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Ďakujeme!',
     'common.seeYouAgain': 'Naviděnou!',
     'email.hello': 'Dobrý deň {username},',
-    'common.back': 'Späť'
+    'common.back': 'Späť',
+    'console.stop': 'Zastavte!',
+    'console.explain': 'Toto je funkcia prehliadača určená pre vývojárov. Ak vám niekto povedal, aby ste sem niečo skopírovali, aby ste povolili funkciu Literárneho vesmíru alebo "hackovali" účet niekoho iného, ide o podvod a umožní mu prístup k vášmu účtu v Literárnom vesmíre.'
 }    /* eslint-enable max-len */;
