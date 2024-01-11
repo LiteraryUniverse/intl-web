@@ -4,7 +4,7 @@
 export default {
     'rating.name': 'Rating',
     'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
+    'rating.all': 'Semua',
     'rating.desc.all': 'Accessible to all ages and groups.',
     'rating.teens': 'Teens',
     'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
