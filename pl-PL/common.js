@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'Zatrzymaj się!',
+    'console.explain': 'To jest funkcja przeglądarki przeznaczona dla programistów. Jeśli ktoś kazał ci skopiować coś tutaj, aby włączyć funkcję Uniwersum Literackiego lub "zhakować" czyjeś konto, to oszustwo i da mu dostęp do twojego konta Uniwersum Literackiego.'
 }    /* eslint-enable max-len */;
