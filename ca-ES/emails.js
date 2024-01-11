@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Invitació a l\'Univers Literari per a {username}',
+    'email.enrollAccount.message': `Hola {username}\n\n
+    Hem creat un compte personal especial per a tu a l'Univers Literari, on podràs accedir a totes les funcionalitats de l'Univers Literari! Uneix-te a nosaltres per crear la propera generació d'eines de escriptura i lectura creatives!
+    Per activar el teu compte, simplement fes clic a l'enllaç següent:\n\n{url}`,
+    'email.resetPassword.subject': 'Restablir contrasenya de l\'Univers Literari',
+    'email.resetPassword.message': `Hola {username}!\n\n Hem rebut una sol·licitud per restablir la teva contrasenya del teu compte.
+        Si us plau, segueix l'enllaç següent per restablir la teva contrasenya:\n\n{url}`,
+    'email.verifyEmail.subject': 'Verificació de correu electrònic de l\'Univers Literari',
+    'email.verifyEmail.message': 'Hola {username}!\n\n Si us plau, verifica la teva adreça de correu electrònic fent clic a l\'enllaç següent:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Hola {username},',
+    'email.welcome': 'Benvingut a l\'Univers Literari!',
+    'email.signature': 'Atentament,<br />l\'equip de l\'Univers Literari',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.welcome': 'Benvingut a bord',
+    'email.enrollAccount.messageHtml': 'Volem convidar-te a l\'Univers Literari! Hem preparat un compte personal per a tu on podràs accedir a totes les funcionalitats de l\'Univers Literari! Uneix-te a nosaltres per crear la propera generació d\'escriptura i lectura creatives!',
+    'email.enrollAccount.button': 'Accedeix al teu compte',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Hem rebut una sol·licitud per restablir la teva contrasenya del teu compte, si us plau fes clic al botó de sota per continuar amb el procés. Si no has fet aquesta sol·licitud, pots ignorar aquest correu electrònic, però pot ser un bon moment per revisar la configuració de seguretat.',
+    'email.resetPassword.button': 'Restablir contrasenya',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Estem encantats de tenir-te a bord! Si us plau fes clic al botó de sota per verificar aquesta adreça de correu electrònic.',
+    'email.verifyEmail.button': 'Verificar aquesta adreça de correu electrònic',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'El teu compte ha estat millorat',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
