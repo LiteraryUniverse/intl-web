@@ -258,5 +258,5 @@ export default {
     'email.hello': 'Dobrý den {username},',
     'common.back': 'Zpět',
     'console.stop': 'Zastavte!',
-    'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.'
+    'console.explain': 'Toto je funkce prohlížeče určená pro vývojáře. Pokud vám někdo řekl, abyste sem něco zkopírovali, abyste povolili funkci Literárního vesmíru nebo "hackovali" něčí účet, jedná se o podvod a tímto získá přístup k vašemu účtu Literárního vesmíru.'
 }    /* eslint-enable max-len */;
