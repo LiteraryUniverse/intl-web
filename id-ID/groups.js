@@ -1,6 +1,6 @@
 export default {
     'groups.listing.title': 'User groups',
-    'groups.listing.organizationTitle': 'Teams',
+    'groups.listing.organizationTitle': 'Tim',
     'groups.create.title': 'Create a new group',
     'groups.type.label': 'Type',
     'groups.type.open': 'Open',
@@ -10,7 +10,7 @@ export default {
     'groups.type.hidden': 'Hidden',
     'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
     'groups.imageAlt': '{groupName} picture',
-    'groups.members': 'Members',
+    'groups.members': 'Anggota',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}
     one {is one member}
