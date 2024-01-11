@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Λυπούμαστε πολύ, αλλά αυτή η λειτουργία δεν είναι διαθέσιμη αυτή τη στιγμή. Εργαζόμαστε σκληρά για να το κάνουμε διαθέσιμο το συντομότερο δυνατό.',
     'common.nothingfound': 'Nothing found',
     'common.explore': 'Explore',
-    'common.by': 'by ',
+    'common.by': 'από {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Σημειωματάριο',
     'common.scratchpad.own': 'Your scratchpad',
