@@ -17,7 +17,7 @@ export default {
     'finder.connect': 'Connect selection to encyclopedia entry',
     'writer.aside.ariaLabel': 'Help options menu',
     'writer.nothingToSave': 'Nothing to save',
-    'writer.publish.publishAria': 'Publication options',
+    'writer.publish.publishAria': 'خيارات النشر',
     'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
     'writer.publish.schedule': 'Set publication date time',
     'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
