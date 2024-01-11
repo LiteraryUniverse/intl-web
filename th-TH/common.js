@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'หยุด!',
+    'console.explain': 'นี่เป็นคุณลักษณะของเบราว์เซอร์ที่ตั้งใจสำหรับนักพัฒนา หากมีใครบอกคุณให้คัดลอกและวางสิ่งใดสิ่งนึงที่นี่เพื่อเปิดใช้งานคุณลักษณะของจักรวาลวรรณกรรมหรือ "แฮก" บัญชีของคนอื่น นั่นเป็นการหลอกลวงและจะให้พวกเขาเข้าถึงบัญชีจักรวาลวรรณกรรมของคุณ'
 }    /* eslint-enable max-len */;
