@@ -21,7 +21,7 @@ export default {
     other {are # posts}
   } in this blog.`,
     'blog.post.create': 'ახალი პოსტის შექმნა',
-    'blog.post.update': 'Editing {title}',
+    'blog.post.update': 'პოსტის რედაქტირება {title}',
     'blog.post.text': 'პოსტის ტექსტი',
     'common.slug': 'SEO მეგობრებული ბმული',
     'blog.slug.explained': 'მინიმუმუმ სპეციალურ სიმბოლოებს, "-" გამოისყიდე',
