@@ -256,5 +256,7 @@ export default {
     'common.thankYou': 'Thank you!',
     'common.seeYouAgain': 'See you again!',
     'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.back': 'Back',
+    'console.stop': 'रोक्नुहोस्!',
+    'console.explain': 'यो एक ब्राउजर सुविधा हो जुन विकासकर्ताहरूका लागि निर्मित गरिएको हो। यदि कसैले तपाईंलाई एक साहित्यिक विश्व सुविधा वा कसैको खातामा "ह्याक" गर्न यहाँ कसैले केहि कपी-पेस्ट गर्नु भने, त्यो एक ठगी हो र त्यसले तपाईंलाई तपाईंको साहित्यिक विश्व खातामा पहुँच दिनेछ।'
 }    /* eslint-enable max-len */;
