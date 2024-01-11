@@ -3,32 +3,32 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'Undangan ke Literary Universe untuk {username}',
+    'email.enrollAccount.message': `Halo {username}\n\n
+    Kami ingin mengundang Anda ke Literary Universe! Kami telah membuat akun pribadi khusus untuk Anda di mana Anda dapat mengakses semua fitur dari Literary Universe! Silakan bergabunglah dengan kami dalam menciptakan generasi berikutnya dari alat menulis dan membaca yang kreatif!
+    Untuk mengaktifkan akun Anda, cukup klik tautan di bawah ini:\n\n{url}`,
+    'email.resetPassword.subject': 'Reset kata sandi Literary Universe',
+    'email.resetPassword.message': `Halo {username}!\n\n Kami telah menerima permintaan untuk mereset kata sandi akun Anda.
+        Silakan ikuti tautan di bawah ini untuk mereset kata sandi Anda:\n\n{url}`,
+    'email.verifyEmail.subject': 'Verifikasi email Literary Universe',
+    'email.verifyEmail.message': 'Halo {username}!\n\n Silakan verifikasi alamat email Anda dengan mengklik tautan di bawah ini:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'Halo {username},',
+    'email.welcome': 'Selamat datang di Literary Universe!',
+    'email.signature': 'Hormat kami,<br />Tim Literary Universe',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'Selamat datang',
+    'email.enrollAccount.messageHtml': 'Kami ingin mengundang Anda ke Literary Universe! Kami telah menyiapkan akun pribadi untuk Anda di mana Anda dapat mengakses semua fitur dari Literary Universe! Silakan bergabung dengan kami dalam menciptakan generasi berikutnya dari menulis dan membaca yang kreatif!',
+    'email.enrollAccount.button': 'Akses akun Anda',
+    'email.enrollAccount.signature': 'Kami sangat menantikan untuk bertemu dengan Anda, tim Literary Universe<br />',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'Kami telah menerima permintaan untuk mengatur ulang kata sandi akun Anda, silakan klik tombol di bawah ini untuk melanjutkan proses. Jika Anda tidak melakukan permintaan ini, Anda dapat mengabaikan email ini, tetapi ini mungkin saat yang tepat untuk meninjau pengaturan keamanan Anda.',
+    'email.resetPassword.button': 'Atur ulang kata sandi',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'Kami senang memiliki Anda bergabung! Silakan klik tombol di bawah ini untuk memverifikasi alamat email ini.',
+    'email.verifyEmail.button': 'Verifikasi alamat email ini',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'Akun Anda telah ditingkatkan',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
