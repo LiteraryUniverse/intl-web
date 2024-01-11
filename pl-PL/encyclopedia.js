@@ -151,7 +151,7 @@ export default {
   } wpisy.`,
     'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.',
     'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'encyclopedia.pronunciation.title': 'Wymowa',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Praca w toku'
 };
