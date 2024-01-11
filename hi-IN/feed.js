@@ -1,8 +1,8 @@
 export default {
     'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.post.new': 'नया पोस्ट',
+    'feed.post.like': 'पोस्ट पसंद करें',
+    'feed.post.unlike': 'पोस्ट को पसंद नहीं करें',
+    'feed.post.send': 'पोस्ट',
+    'feed.empty': 'फ़ीड में कोई एंट्री नहीं है।'
 };
