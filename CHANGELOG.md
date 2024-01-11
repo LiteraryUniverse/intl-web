@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2024-01-12 - v2.11.0
+
+* New strings for console warning
+
 ## 2023-12-30 - v2.10.5
 
 * Added support for Meteor 3.0-beta.0
