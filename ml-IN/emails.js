@@ -20,15 +20,15 @@ export default {
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'നിങ്ങൾക്ക് കാണാൻ ആഗ്രഹമുണ്ട്,<br />ലിറ്റററി യൂണിവേഴ്‌സ് ടീം',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'നിങ്ങളുടെ അക്കൗണ്ടിനായി നിങ്ങളുടെ പാസ്വേഡ് റീസെറ്റ് ചെയ്യുന്നതിന് ഒരു അഭ്യർത്ഥന ലഭിച്ചു, പ്രോസസ് തുടങ്ങുന്നതിന് ദയവായി ബട്ടൺ അമർത്തുക. ഇത് നിങ്ങൾ ഈ അഭ്യർത്ഥന ചെയ്തതല്ലേയുള്ളൂ എന്നാൽ നിങ്ങളുടെ സുരക്ഷാ ക്രമങ്ങളെ പരിശോധിക്കാൻ ഒരു നല്ല സമയമാണിത്.',
+    'email.resetPassword.button': 'പാസ്വേഡ് റീസെറ്റ് ചെയ്യുക',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'നിങ്ങളെ പരിശോധിക്കാൻ ഞങ്ങൾ സന്തുഷ്ടമാണ്! ദയവായി ഈ ഇമെയിൽ വിരിയുകയാണ് ബട്ടൺ അമർത്തുക.',
+    'email.verifyEmail.button': 'ഈ ഇമെയിൽ വിരിയുക',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'നിങ്ങളുടെ അക്കൗണ്ട് അപ്‌ഗ്രേഡ് ചെയ്തു',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
