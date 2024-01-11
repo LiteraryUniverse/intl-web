@@ -15,11 +15,11 @@ export default {
     'blog.description': 'ब्लॉगचे परिचय',
     'blog.theme': 'थीम',
     'blog.theme.info': 'पृष्ठाची दृष्टीकोन बदलायला थीम सापडल्यांना तुम्ही पृष्ठाची दिसणखाली बदलू शकता. ही वैशिष्ट्ये हे वेळेत नाहीत.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `येथे कोणतेही पोस्ट नाहीत {total, plural,
+    zero {एक पोस्ट आहे}
+    one {पोस्ट आहेत}
+    other {पोस्ट आहेत}
+  } या ब्लॉगमध्ये.`,
     'blog.post.create': 'नवीन प्रतिलेख तयार करा',
     'blog.post.update': '{title}संपादन करीत आहे',
     'blog.post.text': 'प्रतिलेख मजकूर',
