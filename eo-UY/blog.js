@@ -15,13 +15,13 @@ export default {
     'blog.description': 'Enkonduko de la blogo',
     'blog.theme': 'Etoso',
     'blog.theme.info': 'Pliigu la aspekton de la paĝo modifante la temon. Tiu ebleco ne estas preta nun.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Ĉi tie {total, plural,
+    zero {estas neniu poŝto}
+    one {estas unu poŝto}
+    other {estas # poŝtoj}
+  } en ĉi tiu blogo.`,
     'blog.post.create': 'Krei afiŝon',
-    'blog.post.update': 'Editing {title}',
+    'blog.post.update': 'Redaktado de {title}',
     'blog.post.text': 'Afiŝa teksto',
     'common.slug': 'Amikeca URL',
     'blog.slug.explained': 'Bela aspekta retadreso al la afiŝo. Evitu uzi specialajn signojn krom "-".',
