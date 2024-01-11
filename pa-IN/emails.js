@@ -3,23 +3,23 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': 'ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਵਾਲੇ ਨੂੰ ਆਮੰਤਰਣ {username}ਲਈ',
+    'email.enrollAccount.message': `ਹੈਲੋ {username}\n\n
+    ਜੀ,     ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਵਿੱਚ ਆਮੰਤਰਿਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਾਂ! ਅਸੀਂਨੇ ਤੁਹਾਡੇ ਲਈ ਇੱਕ ਖਾਸ ਨਿੱਜੀ ਖਾਤਾ ਬਣਾਇਆ ਹੈ ਜਿਥੇ ਤੁਸੀਂ ਸਾਰੇ ਸੰਗੀਤ ਯੂਨੀਵਰਸ ਦੀਆਂ ਸਾਧਨਾਂ ਨੂੰ ਪਹੁੰਚ ਸਕਦੇ ਹੋ! ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਸਹਿਯੋਗ ਕਰੋ ਅਗਲੀ ਪੀੜੀ ਦੀ ਰਚਨਾ ਅਤੇ ਪੜ੍ਹਾਈ ਸੰਗੀਤ ਦੀ!
+    ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸਰਗਰਮ ਕਰਨ ਲਈ, ਬਸ ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੇ ਕਲਿੱਕ ਕਰੋ:\n\n{url}`,
+    'email.resetPassword.subject': 'ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਪਾਸਵਰਡ ਰੀਸੈਟ',
+    'email.resetPassword.message': `ਹੈਲੋ {username}ਜੀ!\n\n ਅਸੀਂਨੇ ਤੁਹਾਡੇ ਖਾਤੇ ਲਈ ਤੁਹਾਡੇ ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰਨ ਦੀ ਬੇਨਤੀ ਪ੍ਰਾਪਤ ਕੀਤੀ ਹੈ.
+        ਆਪਣੇ ਪਾਸਵਰਡ ਰੀਸੈਟ ਕਰਨ ਲਈ ਕਿਰਪਾ ਕਰਕੇ ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਨੂੰ ਫੋਲੋ ਕਰੋ:\n\n{url}`,
+    'email.verifyEmail.subject': 'ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਈਮੇਲ ਪੁਸ਼ਟੀਕਰਣ',
+    'email.verifyEmail.message': 'ਹੈਲੋ {username}ਜੀ!\n\n ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਈਮੇਲ ਐਡਰੈੱਸ ਦੀ ਪੁਸ਼ਟੀਕਰਣ ਕਰੋ ਹੇਠਾਂ ਦਿੱਤੇ ਲਿੰਕ ਤੇ ਕਲਿੱਕ ਕਰਕੇ:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'ਹੈਲੋ {username},',
+    'email.welcome': 'ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ!',
+    'email.signature': 'ਨਿਸ਼ਾਨਾ ਵਿਚ,<br />ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਟੀਮ',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
+    'email.enrollAccount.welcome': 'ਜੋੜਨ ਲਈ ਸਵਾਗਤ ਹੈ',
+    'email.enrollAccount.messageHtml': 'ਅਸੀਂ ਤੁਹਾਨੂੰ ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਵਿੱਚ ਆਮੰਤਰਿਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹਾਂ! ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਇੱਕ ਨਿੱਜੀ ਖਾਤਾ ਤਿਆਰ ਕਰ ਦਿੱਤਾ ਹੈ ਜਿਥੇ ਤੁਸੀਂ ਸਾਰੇ ਸੰਗੀਤ ਯੂਨੀਵਰਸ ਦੀਆਂ ਸੰਗੀਤ ਅਤੇ ਪੜ੍ਹਾਈ ਦੀਆਂ ਸੰਗੀਤ ਨੂੰ ਪਹੁੰਚ ਸਕਦੇ ਹੋ!',
+    'email.enrollAccount.button': 'ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਪਹੁੰਚੋ',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
