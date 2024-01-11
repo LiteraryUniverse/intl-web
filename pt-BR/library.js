@@ -4,6 +4,6 @@ export default {
     'library.bought': 'Histórias compradas',
     'library.stories': 'Histórias seguidas',
     'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
+    'bookmark.continueReading': 'Continue lendo',
     'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
 };
