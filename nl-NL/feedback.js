@@ -17,7 +17,7 @@ export default {
     'feedback.new.features': 'Suggest a new feature',
     'feedback.lang.nosupport': 'Your current language is not supported for feedback, please write in English. Thank you!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shorty.',
-    'feedback.comment.title': 'Comment',
+    'feedback.comment.title': 'Reactie',
     'feedback.comment.desc': 'Send us your feedback',
     'feedback.comment.legend': 'Your feedback - let us know about anything',
     'feedback.comment.success': 'Thank you for your feedback!',
