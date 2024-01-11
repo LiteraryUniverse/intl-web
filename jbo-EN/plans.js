@@ -29,7 +29,7 @@ export default {
     'plans.feature.encCustomFields': 'Customizable encyclopedia fields on an entry',
     'plans.feature.encAdvCategories': 'More encyclopedia categories',
     'plans.feature.scratchpad': 'Scratchpad',
-    'plans.feature.library': 'Library',
+    'plans.feature.library': 'Ckursro',
     'plans.feature.blog': 'Personal & universe blogs',
     'plans.feature.customBlogTheme': 'Customizable blog themes',
     'plans.feature.advanceStats': 'Advanced statistics',
