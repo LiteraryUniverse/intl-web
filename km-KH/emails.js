@@ -22,13 +22,13 @@ export default {
     'email.enrollAccount.button': 'Access your account',
     'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'យើងបានទទួលការស្នើសុំកំណើតឡើងដើម្បីកំណត់ពាក្យសម្ងាត់របស់អ្នកសម្រាប់គណនីរបស់អ្នក, សូមចុចលើប៊ូតុងខាងក្រោមដើម្បីបន្តបន្ទាប់ពីវិញ។ ប្រសិនបើអ្នកមិនបានស្នើសុំការស្នើសុំនេះសូមមេត្តាប្រាប់ពួកគេបន្តិចម្បងនេះទេ, ប៉ុន្តែនេះគឺជាព័ត៌មានល្អប្រសើរសំរាប់អ្នកក្នុងការពិនិត្យការកំណត់សុវត្ថិភាពរបស់អ្នក។',
+    'email.resetPassword.button': 'កំណត់ពាក្យសម្ងាត់ឡើងវិញ',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'យើងរីករាយដោយមិនចេញពីកន្លែងផ្សេងទៀតទេ! សូមចុចលើប៊ូតុងខាងក្រោមដើម្បីផ្ទៀងផ្ទាត់អាសយដ្ឋានអ៊ីម៉ែលនេះ។',
+    'email.verifyEmail.button': 'ផ្ទៀងផ្ទាត់អាសយដ្ឋានអ៊ីម៉ែលនេះ',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
+    'email.adminUpgrade.subject': 'គណនីរបស់អ្នកត្រូវបានធ្វើបូកបន្តបន្ទាប់',
     'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
