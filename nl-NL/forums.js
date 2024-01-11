@@ -34,7 +34,7 @@ export default {
   'forums.category.intlName.meetups': 'Meetups',
   'forums.category.intlName.characters': 'Characters',
   'forums.category.intlName.locations': 'Locations',
-  'forums.category.intlName.history': 'History',
+  'forums.category.intlName.history': 'Geschiedenis',
   'forums.category.intlName.art': 'Art',
   'forums.category.intlName.inspiration': 'Inspiration',
   'forums.category.intlName.news': 'News',
