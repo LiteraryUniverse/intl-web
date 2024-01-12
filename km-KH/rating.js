@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'ការវាយតម្លៃ',
+    'rating.explained': 'ការវាយតម្លៃអាយុ និងការដាក់កូនស្រី។',
+    'rating.all': 'ទាំងអស់',
+    'rating.desc.all': 'អាចចូលរួមបានដោយអាយុទាំងអស់គ្នា និងក្រុមទាំងអស់។',
+    'rating.teens': 'សុពលភាព',
+    'rating.desc.teens': 'មានស្រាប់សប្បាយចំណាត់ថ្នាក់ពីអាយុ ១២ ដល់ ១៨។',
+    'rating.mature': 'អ្នកស្រាប់សប្បាយចម្បង',
+    'rating.desc.mature': 'មានបញ្ជុនដែលមានបច្ចេកទេសជាច្រើន ភាសាល្អ និងសម្រាប់ការបង្ហាញមិត្តភក្តិរបស់អ្នក។',
+    'rating.explicit': 'ស្តីពីការបង្ហាញសម្រាប់ក្រុមដែលមានបញ្ជុនស្តង់ដាម៉ានិងសប្បាយស្រាប់សប្បាយ។',
+    'rating.desc.explicit': 'មានស្តង់ដាម៉ានស្បែក។',
+    'rating.selection.all': 'ទាំងអស់ - អាចចូលរួមបានដោយអាយុទាំងអស់គ្នា និងក្រុមទាំងអស់។',
+    'rating.selection.teens': 'សុពលភាព (១២-១៨) - មានស្រាប់សប្បាយចំណាត់ថ្នាក់ពីអាយុ ១២ ដល់ ១៨។',
+    'rating.selection.mature': 'អ្នកស្រាប់សប្បាយចម្បង (១៨+) - មានបញ្ជុនដែលមានបច្ចេកទេសជាច្រើន ភាសាល្អ និងសម្រាប់ការបង្ហាញមិត្តភក្តិរបស់អ្នក។',
+    'rating.selection.explicit': 'ស្តីពីការបង្ហាញសម្រាប់ក្រុមដែលមានបញ្ជុនស្តង់ដាម៉ាន។'
 };
