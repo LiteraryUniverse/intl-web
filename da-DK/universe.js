@@ -18,9 +18,9 @@ export default {
     'universe.translators': 'Oversættere',
     'universe.authors.notice': 'Hver historie kan have yderligere personale, der har arbejdet på den. For flere detaljer, se historiens detaljer.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {Oprettet}
+    female {Oprettet}
+    other {Oprettet}} af `,
     'universe.stories.for': 'Historier for {universe}',
     'universe.stories.own': '{universe} historier',
     'universe.stories.desc': 'Kanonhistorier for {universe}',
