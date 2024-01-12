@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
+    'pm.conversation': 'المحادثة',
+    'pm.showolder': 'عرض رسائل أقدم',
+    'pm.errors.saysomething': 'يجب أن تقول شيئًا حقًا...',
+    'pm.errors.addrecipient': 'يجب عليك إضافة مستخدم واحد على الأقل.',
+    'pm.message': 'رسالة',
     'pm.send.message': 'إرسال رسالة',
     'pm.messages.own': 'رسائلك',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
+    'pm.conversations.none': 'أنت لا تتحدث حاليًا مع أي شخص.',
     'pm.to': 'إلى:',
     'pm.with': 'محادثة مع:',
     'pm.send': 'إرسال',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversations.unreadCount': `ليس لديك {count, plural,
+    zero {محادثات غير مقروءة}
+    one {محادثة غير مقروءة واحدة}
+    other {محادثات غير مقروءة #}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
+    'pm.form.minimumParticipants': 'يجب عليك اختيار مستلم.',
+    'pm.form.maxParticipants': `يمكنك أن تكون لديك الحد الأقصى من {maxPeople, plural,
+    one {شخص واحد}
+    other {# أشخاص}
+  } في محادثة.`,
     'pm.new.aria': 'محادثة جديدة',
     'pm.new.buttonTitle': 'بدء محادثة جديدة'
 };
