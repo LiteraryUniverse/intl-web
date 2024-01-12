@@ -29,68 +29,68 @@ export default {
     other {# intrări asociate}
   } găsită.`,
     'encyclopedia.help.text': 'Utilizați meniul din stânga pentru a naviga între elementele din enciclopedie. Odată ce selectați un element, acesta va fi afișat în locul acestui text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Bara de unelte din lateral',
+    'encyclopedia.help.sidebar.text': 'Bine ați venit în povestea dumneavoastră! Această bară laterală vă permite acces ușor la toate resursele legate de povestea dumneavoastră. Verificați pictogramele de mai sus pentru a vedea ultimele comentarii, notele dumneavoastră, căutați în enciclopedia dumneavoastră, navigați și adăugați intrări noi în enciclopedia dumneavoastră. Dacă doriți să adăugați o conexiune la o intrare din textul povestii, selectați textul unde doriți să o plasați și apoi apăsați butonul de conectare. Vi se va solicita să găsiți și să selectați un element.',
     'encyclopedia.intro': 'Bun venit în enciclopedia {universe} .',
     'encyclopedia.add.title': 'Adăugați o nouă intrare în enciclopedie',
     'encyclopedia.add.heading': 'Ce doriți să adăugați?',
     'encyclopedia.add.moresoon': 'Mai multe categorii vor fi disponibile în curând!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
+    'encyclopedia.create': `Creați un nou {category, select,
+    character {caracter}
+    event {eveniment}
+    group {grup}
+    item {obiect}
+    location {locație}
+    other {notă}
+    state {stat}
+    governments {guvern}
+    languages {limbă}
+    creatures {creatură}
+    deity {zeitate}
+    religions {religie}
+    flora {floră}
+    magic {magie}
+    planets {planetă}
     species {specie}
-    technologies {technology}
+    technologies {tehnologie}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
+    'encyclopedia.create.header': `Creați un nou {category, select,
+    character {caracter}
+    event {eveniment}
+    group {grup}
+    item {obiect}
+    location {locație}
+    other {notă}
+    state {stat}
+    governments {guvern}
+    languages {limbă}
+    creatures {creatură}
+    deity {zeitate}
+    religions {religie}
+    flora {floră}
+    magic {magie}
+    planets {planetă}
     species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
+    technologies {tehnologie}
+  } în {universe}`,
+    'encyclopedia.entry.category': `Categorie de intrare: {category, select,
+    character {Caracter}
+    event {Eveniment}
+    group {Grup}
+    item {Element}
+    location {Locație}
+    other {Notă}
+    state {Stat}
+    governments {Guvern}
+    languages {Limbă}
+    creatures {Creatură}
+    deity {Zeitate}
+    religions {Religie}
+    flora {Floră}
+    magic {Magie}
+    planets {Planetă}
     species {Specie}
-    technologies {Technology}
+    technologies {Tehnologie}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Adăugați un câmp nou',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } intrări.`,
     'enc.entries.limitReached': 'Ați atins numărul maxim de intrări permise în enciclopedie pentru abonamentul dumneavoastră curent.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Controalele enciclopediei',
+    'encyclopedia.pronunciation.title': 'Pronunție',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Lucrări în curs'
 };
