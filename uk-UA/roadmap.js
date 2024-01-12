@@ -3,7 +3,7 @@ export default {
   'roadmap.state.backlog': 'Відставання',
   'roadmap.state.inprogress': 'У процесі виконання',
   'roadmap.state.preview': 'Перегляд',
-  'roadmap.state.beta': 'Beta',
+  'roadmap.state.beta': 'Бета',
   'roadmap.state.ga': 'Загальна доступність',
   'roadmap.eta.q1.short': 'Q1',
   'roadmap.eta.q2.short': 'Q2',
@@ -16,22 +16,22 @@ export default {
   'roadmap.backlog': 'Відставання',
   'roadmap.history': 'Історія розвитку',
   'roadmap.item.inBacklog': 'Ми плануємо розвивати цю функцію в майбутньому.',
-  'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
-  'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
-  'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
-  'roadmap.item.inGa': 'This feature has become generally available on {gaAt, date}.',
-  'roadmap.item.originalIssue': 'This feature was originally suggested by our users.',
-  'roadmap.eta.mapTitle': `Planned for {quarter, select,
+  'roadmap.item.inProgress': 'Розробка функції розпочалась {startedAt, date}.',
+  'roadmap.item.inBeta': 'Ця функція ввійшла в бета-версію на {betaAt, date}.',
+  'roadmap.item.inPreview': 'Ця функція стала доступною для підписників Storyteller на {previewAt, date}.',
+  'roadmap.item.inGa': 'Ця функція стала доступною для всіх на {gaAt, date}.',
+  'roadmap.item.originalIssue': 'Ця функція була запропонована нашими користувачами.',
+  'roadmap.eta.mapTitle': `Заплановано на {quarter, select,
     Q1 {Q1}
     Q2 {Q2}
     Q3 {Q3}
     Q4 {Q4}
     other {}
   } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': 'Finished in {time, date, ::MMMM ::yyyy}',
-  'roadmap.back': 'Back to roadmap',
-  'roadmap.seeBacklog': 'Check out what other things we plan to do',
-  'roadmap.seeFinished': 'If you like to dig more into our history, we have a nice overview ready for you',
-  'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished'
+  'roadmap.eta.mapTitleFinished': 'Завершено в {time, date, ::MMMM ::yyyy}',
+  'roadmap.back': 'Повернутися до дорожньої карти',
+  'roadmap.seeBacklog': 'Перегляньте, що ми плануємо зробити',
+  'roadmap.seeFinished': 'Якщо ви хочете дізнатися більше про нашу історію, у нас є гарний огляд для вас',
+  'roadmap.planned': 'Заплановано',
+  'roadmap.finished': 'Завершено'
 };
