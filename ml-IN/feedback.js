@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'നിയമ ലംഘനം',
     'feedback.reportType.vulgar': 'അശ്ലീലം/അപരമായ',
     'feedback.reportType.copyright': 'കോപിറൈറ്റ് ലംഘനം',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'തെറ്റായ പ്രായ റേറ്റിംഗ്',
+    'feedback.reportType.scam': 'പിശക്',
+    'feedback.report.submit': 'റിപ്പോർട്ട്',
+    'feedback.report.submitting': 'റിപ്പോർട്ട് ചെയ്യുന്നു...',
+    'feedback.report.violationDesc': 'വിവരങ്ങൾ',
+    'feedback.report.reportSaved': 'റിപ്പോർട്ട് ചെയ്തതിന് നന്ദി! ഞങ്ങൾ പരിശോധിക്കുംവിചാരിക്കുംവന്നാൽ ആക്ഷൻ എടുക്കുംവരുന്നതാണ്.',
+    'feedback.report.copyrightReportSaved': 'റിപ്പോർട്ട് ചെയ്തതിന് നന്ദി! ഞങ്ങൾ പരിശോധിക്കുംവിചാരിക്കുംവന്നാൽ ഞങ്ങൾ ബന്ധപ്പെടുംവരുന്നതാണ്.',
+    'feedback.report.copyrightOwnershipDesc': 'ഉടമസ്ഥത പ്രസ്താവന',
+    'feedback.report.copyrightNotice': 'ദയവായി ശ്രദ്ധിക്കുക: ഈ ഫോം ഉപയോക്താവിനെയാണ് അനുവദിക്കുന്നത്. ഉപയോക്താവിനല്ലെങ്കിൽ, ദയവായി ഉപയോക്താവിനെ അറിയിപ്പ് നല്‍കുക അല്ലെങ്കിൽ മറ്റ് വിഭാഗം ഉപയോഗിക്കുകയുംചെയ്യുക. ഞങ്ങൾ കോപിറൈറ്റ് ഉല്ലംഘനങ്ങളെ ഗുരുതിക്കുന്നുവല്ലോപ്പേഴ്‌സ് ഉപയോഗിക്കുന്നതും തീവ്രവാദിതമായ ഉപയോഗം ഉപയോഗിക്കുന്നതും തന്നെ ഗുരുതിക്കുന്നു.',
+    'feedback.report.copyrightInternalProperty': 'ഞാൻ ഇതു സാഹിത്യ യൂണിവേഴ്‌സിറ്റിയിൽ പ്രസിദ്ധീകരിച്ചുവന്നു',
+    'feedback.reportType.spam': 'സ്പാം അല്ലെങ്കിൽ ഫിഷിംഗ്',
+    'feedback.reportType.other': 'മറ്റുള്ളവ',
+    'feedback.report.copyrightType.propertySelectLabel': `ഏത് {type, select,
+    universe {യൂണിവേഴ്സ്}
+    story {കഥ}
+    other {കഥ}
+  } അപകടപ്പെടുത്തപ്പെടുന്നു?`
 };
