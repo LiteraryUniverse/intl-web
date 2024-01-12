@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'একটি নতুন ব্লগ তৈরি করুন',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ব্লগ}
+    universe {ইউনিভার্স পৃষ্ঠা}
+    user {ব্লগ}
     other {}
-  } settings`,
+  } সেটিংস`,
     'blog.description': 'ব্লগ পরিচিতি',
     'blog.theme': 'থিম',
     'blog.theme.info': 'পৃষ্ঠার চেহারা পরিবর্তন করে আপনি পৃষ্ঠার দেখতে পাবেন। এই বৈশিষ্ট্যটি এখনও প্রস্তুত নেই।',
@@ -28,31 +28,31 @@ export default {
     'blog.publicView': 'পাবলিক দৃশ্য',
     'blog.post.notfound': 'ব্লগ পোস্ট পাওয়া যায়নি',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {ইউনিভার্স}
+    stories {স্বতন্ত্র গল্পসমূহ}
+    fanfiction {ফ্যান ফিকশন কাজ}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'এখানে স্থানিক গল্পগুলি তালিকাভুক্ত করা হয়, যদি গল্পটি একটি বিশ্বের অংশ হিসাবে লেখা হয় তবে এটি বিশ্বের পৃষ্ঠায় তালিকাভুক্ত হবে।',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `সামাজিক লিঙ্কগুলি একই হিসাবে সেট করা হয় যেমন যেমন নিবন্ধন সেটিংসে {type, select,
+    organization {ব্যবস্থাপনা সেটিংস}
+    user {ব্যবহারকারী প্রোফাইল}
     other {}
   }`,
     'blog.social.website': 'অফিসিয়াল ওয়েবসাইট',
     'blog.settings.universeSettings': 'বিশ্ব ব্লগগুলি বিশ্ব সেটিংস থেকে গ্রহণ করে বিশ্ব পৃষ্ঠায় সংযুক্ত হয়।',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blog.settings.organizationSettings': 'সংগঠনের ব্লগগুলি সংগঠনের পৃষ্ঠাগুলিতে সংযুক্ত করা হয়।',
     'blogs.lu': 'অফিসিয়াল সাহিত্যিক বিশ্ব ব্লগগুলি',
     'blogs.featured': 'বৈশিষ্ট্যযুক্ত ব্লগগুলি',
     'blogs.new': 'নতুনতম ব্লগগুলি',
     'blogs.title': 'সাহিত্যিক বিশ্বের ব্লগগুলি',
     'blogs.description': 'সাহিত্যিক বিশ্ব প্ল্যাটফর্মের ব্লগগুলির তালিকা।',
     'blogs.visit': 'ব্লগ দেখুন',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.settingsAria': 'ব্লগের জন্য সেটিংস বিভাগসমূহ',
+    'blog.settings.blog': 'ব্লগ',
+    'blog.settings.forum': 'ফোরাম',
+    'blog.post.introText': 'পরিচিতি প্যারাগ্রাফ',
+    'blog.post.writtenBy': '{usernameDisplay}দ্বারা লিখিত',
+    'blog.post.writtenByFor': '{usernameDisplay} দ্বারা লিখিত, {publicationName}এর জন্য',
+    'blog.posts.recent': 'সাম্প্রতিক পোস্টসমূহ'
 };
