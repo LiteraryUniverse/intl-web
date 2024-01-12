@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Pardonu la interrompon. Sed antaŭ ol ni lasas vin pluiri, ni estas lege devigitaj certigi, ke vi estas konscia pri kaj konsentas kun niaj Uzokondiĉoj, Politiko pri Privateco kaj Kopirajto-Akordo.',
+    'legal.modal.agree': 'Mi Konsentas',
+    'legal.modal.disagree': 'Mi Ne Konsentas',
+    'legal.modal.register': 'Vi ne plu vidos tion se vi registras.',
+    'legal.modal.goToSettings': 'Iru al viaj agordoj',
+    'legal.modal.oneLastThing': 'Unu lasta afero...',
+    'legal.modal.finish': 'Fini',
+    'legal.modal.existingUser': 'Ĉu vi jam registriĝis?',
+    'legal.modal.pleaseLogin': 'Bonvolu ensaluti.'
 };
