@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'कानून उल्लंघन',
     'feedback.reportType.vulgar': 'अश्लील/अभद्र',
     'feedback.reportType.copyright': 'कॉपीराइट उल्लंघन',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'गलत उमेर दर्जा',
+    'feedback.reportType.scam': 'धोखाधड़ी',
+    'feedback.report.submit': 'रिपोर्ट',
+    'feedback.report.submitting': 'प्रतिवेदन गर्दै छ...',
+    'feedback.report.violationDesc': 'विवरणहरू',
+    'feedback.report.reportSaved': 'प्रतिवेदनको लागि धन्यवाद! हामी छानबिन गर्नेछौं र आवश्यक छानबिन गर्नेछौं भने कार्यवाही गर्नेछौं।',
+    'feedback.report.copyrightReportSaved': 'प्रतिवेदनको लागि धन्यवाद! हामी छानबिन गर्नेछौं र सम्पर्कमा रहनेछौं।',
+    'feedback.report.copyrightOwnershipDesc': 'स्वामित्व वक्तव्य',
+    'feedback.report.copyrightNotice': 'कृपया ध्यान दिनुहोस् कि तपाईंले यस ढाँचाको प्रयोग गर्ने कार्यकर्ता हुनुपर्छ। यदि तपाईं मालिक हुनुभएन भने कृपया मालिकलाई सूचित गर्नुहोस् वा हामीलाई सूचित गर्न अन्य श्रेणी प्रयोग गर्नुहोस्। हामीले कपिराइट उल्लंघन अत्यन्तै गम्भीर रुपमा लिन्छौं र यस ढाँचाको अयोग्य र अशोभनीय प्रयोगलाई पनि यहाँको प्रयोगमा ल्याउँछौं।',
+    'feedback.report.copyrightInternalProperty': 'मैले यस कृतिलाई साहित्यिक विश्वमा प्रकाशित गरेको छु',
+    'feedback.reportType.spam': 'स्पैम वा फिशिंग',
+    'feedback.reportType.other': 'अन्य',
+    'feedback.report.copyrightType.propertySelectLabel': `कुन {type, select,
+    universe {ब्रह्माण्ड}
+    story {कथा}
+    other {कथा}
+  } अतिक्रमण भइरहेको छ?`
 };
