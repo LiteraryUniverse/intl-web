@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'దయచేసి మధ్యలో ముందుకు వెళ్ళని ముందు, మేము నియమాలను సేకరించడానికి, మా సేవల నిబంధనలను, గోప్యతా నియమాలను మరియు కాపీరైట్ ఒప్పందాన్ని మీకు తెలియజేయాలని కానీ, దయచేసి తరచుగా అంగీకరించండి.',
+    'legal.modal.agree': 'నాకు అంగీకారం',
+    'legal.modal.disagree': 'నాకు అంగీకారం లేదు',
+    'legal.modal.register': 'మీరు నమోదు చేస్తే మీరు ఇక్కడ ఇక్కడ చూడలేరు.',
+    'legal.modal.goToSettings': 'మీ సెట్టింగ్స్‌కు వెళ్ళండి',
+    'legal.modal.oneLastThing': 'ఒక చివరి విషయం...',
+    'legal.modal.finish': 'ముగింపు',
+    'legal.modal.existingUser': 'ఈరోజు నమోదు చేయబడాలా?',
+    'legal.modal.pleaseLogin': 'దయచేసి లాగిన్ చేయండి.'
 };
