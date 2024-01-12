@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Strøm',
     'feed.post.new': 'Ny post',
     'feed.post.like': 'Lik post',
     'feed.post.unlike': 'Avlik post',
