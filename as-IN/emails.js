@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'এই ইমেইল ঠিক কৰক',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'আপোনাৰ একাউণ্টটো আপগ্ৰেড কৰা হৈছে',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `আমি আপোনাৰ একাউণ্টটো আপগ্ৰেড কৰিছো {plan, select,
+    explorer {এক্সপ্লৰাৰ}
+    adventurer {এডভেঞ্চাৰাৰ}
+    storyteller {ষ্টৰিটেলাৰ}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } টিয়াৰ পৰা পৰব {days} দিন।\n\nআনন্দ কৰক,\nলিটেৰেৰী ইউনিভাৰ্স টীম`,
+    'email.adminUpgrade.messageHtml': `আমি আপোনাৰ একাউণ্টটো আপগ্ৰেড কৰিছো {plan, select,
+    explorer {এক্সপ্লৰাৰ}
+    adventurer {এডভেঞ্চাৰাৰ}
+    storyteller {ষ্টৰিটেলাৰ}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } টিয়াৰ পৰা পৰব {days} দিন। আনন্দ কৰক!`,
+    'email.verification': 'ই-মেইল যাচাইকৰণ',
+    'email.verifying': 'আপোনাৰ ই-মেইল যাচাই কৰা হব। এইটো কেৱল কিছুটা সময় লগাইব।',
+    'email.verified': 'আপোনাৰ ই-মেইল যাচাই হৈছে! সুখবৰ!'
 };    /* eslint-enable max-len */
