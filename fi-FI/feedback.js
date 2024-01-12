@@ -25,30 +25,30 @@ export default {
     'feedback.copyrightReport.title': 'Tekijänoikeuden rikkominen',
     'feedback.copyrightReport.desc': 'Raportti tekijänoikeusrikkomuksesta',
     'feedback.report.noUser': 'Sinun on kirjauduttava sisään, jotta voit tehdä raportin.',
-    'feedback.voting.totalVoters': 'Users voted: {voted, number}',
-    'feedback.voting.upvote': 'Up vote',
-    'feedback.voting.downvote': 'Down vote',
-    'feedback.voting.score': 'Total score',
-    'feedback.report.title': 'Report content',
-    'feedback.report.typeSelect': 'What is the issue here?',
-    'feedback.reportType.law': 'Law violation',
-    'feedback.reportType.vulgar': 'Vulgar/obscene',
+    'feedback.voting.totalVoters': 'Käyttäjät äänestivät: {voted, number}',
+    'feedback.voting.upvote': 'Tykkää',
+    'feedback.voting.downvote': 'Tykkäämättä',
+    'feedback.voting.score': 'Kokonaispisteet',
+    'feedback.report.title': 'Ilmoita sisältö',
+    'feedback.report.typeSelect': 'Mikä on ongelma tässä?',
+    'feedback.reportType.law': 'Lain rikkominen',
+    'feedback.reportType.vulgar': 'Vulgarismi/pornografia',
     'feedback.reportType.copyright': 'Tekijänoikeuden rikkominen',
     'feedback.reportType.storyRating': 'Virheellinen ikäluokitus',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
+    'feedback.reportType.scam': 'Huijaus',
+    'feedback.report.submit': 'Raportti',
+    'feedback.report.submitting': 'Raportoidaan...',
+    'feedback.report.violationDesc': 'Tiedot',
     'feedback.report.reportSaved': 'Kiitos raportista! Tutkimme asian ja ryhdymme tarvittaessa toimenpiteisiin.',
     'feedback.report.copyrightReportSaved': 'Kiitos raportista! Tutkimme asiaa ja otamme yhteyttä.',
     'feedback.report.copyrightOwnershipDesc': 'Omistusilmoitus',
     'feedback.report.copyrightNotice': 'Huomaa, että sinun on oltava teoksen laillinen omistaja voidaksesi käyttää tätä lomaketta. Jos et ole teoksen omistaja, ilmoita siitä omistajalle tai ilmoita siitä meille muussa kategoriassa. Suhtaudumme tekijänoikeusrikkomuksiin erittäin vakavasti, ja sama pätee myös tämän lomakkeen epäasialliseen ja väärinkäytölliseen käyttöön.',
     'feedback.report.copyrightInternalProperty': 'Olen julkaissut tämän teoksen Literary Universe -lehdessä.',
     'feedback.reportType.spam': 'Roskaposti tai phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.other': 'Muut',
+    'feedback.report.copyrightType.propertySelectLabel': `Minkä {type, select,
+    universe {universumin}
+    story {tarinaa}
+    other {tarinaa}
+  } loukataan?`
 };
