@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'Condizioni sulla Privacy',
     'common.legal.copyright': 'Accordo Copyright',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Termini di servizio}
+    community {Linee guida della community}
+    privacy {Informativa sulla privacy}
+    copyright {Accordo sul copyright}
+    publishingAgreement {Accordo di pubblicazione}
+    other {Accordo}
+  } Versione {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nuova versione ({newVersion}) di questo documento entrerà in vigore il {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Tutti i diritti riservati, tutti i testi appartengono ai rispettivi autori.',
     'premium.only.title': 'Grado di iscrizione non sufficiente',
@@ -101,10 +101,10 @@ export default {
     'premium.only.join': 'Offriamo diversi piani per permettere a tutti di avere il meglio da Literary Universe.',
     'premium.only.link': 'Guarda qui!',
     'universe.visit': 'Visita pagina universo',
-    'common.fanmanager': 'Fan manager',
-    'common.fanarts': 'Fan arts',
+    'common.fanmanager': 'Gestore dei fan',
+    'common.fanarts': 'Fan art',
     'common.fanfiction': 'Fan fiction',
-    'common.fansettings': 'Fan settings',
+    'common.fansettings': 'Impostazioni dei fan',
     'story.chapter': 'Capitolo',
     'story.chapters': 'Capitoli',
     'story.genre': 'Genere',
@@ -192,7 +192,7 @@ export default {
     'common.members': 'Membri',
     'common.language': 'Lingua',
     next: 'Avanti',
-    previous: 'Previous',
+    previous: 'Precedente',
     'common.legal.tos.short': 'Termini',
     'common.legal.privacy.short': 'Privacy',
     'premium.increaseLimit': 'Considera l\'upgrade per avere un limite maggiore.',
@@ -239,24 +239,24 @@ export default {
     'common.account': 'Profilo',
     'common.notifications': 'Notifiche',
     'common.byDeclaration': 'Di:',
-    'common.done': 'Done',
-    recommended: 'Recommended',
-    'select.typeToCreate': 'Start typing to create an item',
-    'select.noSearchResults': 'No results for “{search}”',
-    'select.removeOption': 'Remove {option}',
-    create: 'Create',
-    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services',
-    'common.viewMore': 'View more',
-    'common.overview': 'Overview',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!',
+    'common.done': 'Fatto',
+    recommended: 'Consigliato',
+    'select.typeToCreate': 'Inizia a digitare per creare un elemento',
+    'select.noSearchResults': 'Nessun risultato per "{search}"',
+    'select.removeOption': 'Rimuovi {option}',
+    create: 'Crea',
+    'banner.support': 'Literary Universe è supportato dagli utenti come te! Considera di abbonarti a uno dei nostri piani di abbonamento per rimanere indipendente e rendere Literary Universe ancora migliore!',
+    'banner.seePlans': 'Visita la nostra pagina dei piani per ulteriori informazioni.',
+    'common.noAccountQuestion': 'Non hai un account?',
+    'common.haveAccountQuestion': 'Hai già un account?',
+    'common.socialLogin': 'Accedi con altri servizi',
+    'common.viewMore': 'Visualizza di più',
+    'common.overview': 'Panoramica',
+    'common.loggingOut': 'Disconnessione in corso',
+    'common.thankYou': 'Grazie!',
+    'common.seeYouAgain': 'A presto!',
     'email.hello': 'Ciao {username},',
-    'common.back': 'Back',
+    'common.back': 'Indietro',
     'console.stop': 'Fermati!',
     'console.explain': 'Questa è una funzionalità del browser destinata agli sviluppatori. Se qualcuno ti ha detto di copiare e incollare qualcosa qui per abilitare una funzione dell\'Universo Letterario o "hackerare" l\'account di qualcuno, si tratta di una truffa e darà loro accesso al tuo account dell\'Universo Letterario.'
 }    /* eslint-enable max-len */;
