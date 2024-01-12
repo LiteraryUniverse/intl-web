@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Tarikh mula',
     'challenges.endDate': 'Tarikh tamat',
     'challenges.future': 'Cabaran akan datang',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Cabaran pengiraan patah kata bermula pada {startDate, date, short} dengan matlamat {target, number} oleh {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Cabaran NaNoWriMo sudah sedia.',
     'challenges.wordcount': 'Bilangan perkataan',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Tetapkan matlamat berapa banyak perkataan yang anda ingin tulis bulan ini untuk cerita {type, select,
+    story {alam semesta}
+    universe {ini}
     other {}
   }.`,
     'challenges.wordcount.select': 'Berapa banyak perkataan yang anda ingin cabar diri anda?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Laporan',
     'challenges.victory': 'Tahniah! Anda telah berjaya menamatkan cabaran ini.',
     'challenges.defeat': 'Sayangnya anda tidak berjaya menamatkan cabaran ini.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Jumlah perkataan semasa untuk cerita ini adalah {wordcount, number}, ini akan menjadi titik permulaan.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'Laman web rasmi NaNoWriMo',
