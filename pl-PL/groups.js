@@ -33,8 +33,8 @@ export default {
     'groups.invite.modalAria': 'Zaproś użytkowników do grupowego dialogu',
     'groups.invite.send': 'Wyślij zaproszenie',
     'groups.invite.label': 'Znajdź użytkownika do zaproszenia',
-    'groups.invite.tileMsg': `You have {count, plural,
-    other {# group invites}
+    'groups.invite.tileMsg': `Masz {count, plural,
+    other {zaproszeń do grupy}
   }`,
     'groups.invites.title': 'Zaproszenia grupowe',
     'group.invite.accept': 'Przyjmij zaproszenie',
