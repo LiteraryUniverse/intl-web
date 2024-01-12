@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'ফিড',
     'feed.post.new': 'নতুন পোষ্ট',
     'feed.post.like': 'পোষ্টটি পছন্দ কৰক',
     'feed.post.unlike': 'পোষ্টটি পছন্দ নকৰক',
