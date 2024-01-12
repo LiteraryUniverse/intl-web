@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Data de început',
     'challenges.endDate': 'Data de sfârșit',
     'challenges.future': 'Provocări viitoare',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Provocarea numărului de cuvinte începe pe {startDate, date, short} cu obiectivul de {target, number} până la {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Provocarea NaNoWriMo este pregătită.',
     'challenges.wordcount': 'Contor de cuvinte',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Stabiliți-vă un obiectiv cu câte cuvinte doriți să scrieți în această lună pentru această poveste din {type, select,
+    story {universul}
+    universe {}
     other {}
   }.`,
     'challenges.wordcount.select': 'Câte cuvinte vrei să-ți propui ca provocare?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Raport',
     'challenges.victory': 'Felicitări! Ai finalizat această provocare.',
     'challenges.defeat': 'Din păcate, nu ai finalizat această provocare.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Numărul actual de cuvinte pentru această poveste este {wordcount, number}, acesta va fi punctul de plecare.',
     // NaNoWriMo
     'nanowrimo.full': 'Luna Națională a Scrierii unui Roman',
     'nanowrimo.site': 'Site-ul oficial NaNoWriMo',
