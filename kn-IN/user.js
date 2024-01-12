@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'ಸ್ನೇಹಿತರನ್ನು ಸೇರಿಸಿ',
+    'user.friend.requests': `ನೀವು {num, number} ಹೊಸ ಸ್ನೇಹಿತ {num, plural,
+    zero {ಕೋರಿಕೆಗಳು}
+    one {ಕೋರಿಕೆ}
+    many {ಕೋರಿಕೆಗಳು}
+    other {ಕೋರಿಕೆಗಳು}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'ಸ್ನೇಹಿತರನ್ನು ರದ್ದುಮಾಡಿ',
+    'user.block': 'ಮುಚ್ಚಿಡಿ',
+    'user.unblock': 'ಮುಚ್ಚಿಗೆ ತೆರವು ಮಾಡಿ',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    male {ಸೇರಿದ್ದೀರಿ}
+    female {ಸೇರಿದ್ದೀರಿ}
+    other {ಸೇರಿದ್ದೀರಿ}} ನಲ್ಲಿ {date, date, long}`,
+    'user.friend.request.accept': 'ಸ್ನೇಹಿತರ ಕೋರಿಕೆಯನ್ನು ಸ್ವೀಕರಿಸಿ',
+    'user.friend.request.cancel': 'ಸ್ನೇಹಿತರ ಕೋರಿಕೆಯನ್ನು ರದ್ದುಮಾಡಿ',
+    'user.friend.request.deny': 'ಸ್ನೇಹಿತರಾಗಿ ನಿರಾಕರಿಸಿ',
+    'user.listing': 'ಬಳಕೆದಾರರ ಪಟ್ಟಿ',
+    'user.profile.visit': '{user}ರ ಪ್ರೊಫೈಲ್ ಗೆ ಭೇಟಿ ನೀಡಿ.',
+    'user.profile.avatar': '{username}ರ ಅವತಾರ',
+    'user.friend.list.requests': 'ಸ್ನೇಹಿತರ ಕೋರಿಕೆಗಳು',
+    'user.friend.norequests': 'ನೀವು ಯಾವುದೇ ಸ್ನೇಹಿತರ ಕೋರಿಕೆಗಳನ್ನು ಹೊಂದಿಲ್ಲ.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
@@ -28,26 +28,26 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'ಈ ಲೇಖಕ ಸಾಮಾನ್ಯ ವಿಧಾನದಲ್ಲಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ',
+    'user.verification.luAuthor': 'ಸಾಹಿತ್ಯ ವಿಶ್ವದ ಆಧಾರದ ಲೇಖಕ',
+    'user.verification.luEmployee': 'ಸಾಹಿತ್ಯ ವಿಶ್ವ ನೌಕರ',
+    'user.verification.publicFigure': 'ಪರಿಶೀಲಿಸಲಾಗಿದ್ದ ಸಾರ್ವಜನಿಕ ವ್ಯಕ್ತಿ',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {ಕಥೆ}
+    other {ಕಥೆಗಳು}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {ಬ್ರಹ್ಮಾಂಡ}
+    other {ಬ್ರಹ್ಮಾಂಡಗಳು}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ಫ್ಯಾನ್ ಫಿಕ್ಷನ್}
+    other {ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ಗಳು} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'ಕೃತಿಗಳು',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'ಇಚ್ಛಾಪಟುಗಳು',
+    'profile.storiesBy': '{username}ದ್ವಾರಾ ರಚಿತವಾದ ಕಥೆಗಳು',
+    'profile.universesBy': '{username}ದ್ವಾರಾ ರಚಿತವಾದ ಬ್ರಹ್ಮಾಂಡಗಳು',
+    'profile.fanFictionBy': '{username}ದ್ವಾರಾ ರಚಿತವಾದ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್'
 };
