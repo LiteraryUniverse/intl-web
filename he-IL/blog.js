@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'צור בלוג חדש',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {בלוג}
+    universe {דף יחידת היקום}
+    user {בלוג}
     other {}
-  } settings`,
+  } הגדרות`,
     'blog.description': 'מבוא לבלוג',
     'blog.theme': 'ערכת עיצוב',
     'blog.theme.info': 'על ידי התאמת הערכת עיצוב תהיה לך אפשרות לשנות את מראה העמוד. תכונה זו אינה מוכנה כרגע.',
