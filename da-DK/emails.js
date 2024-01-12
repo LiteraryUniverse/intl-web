@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Verificer denne e-mail-adresse',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Din konto er blevet opgraderet',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Vi har opgraderet din konto til {plan, select,
+    explorer {Udforsker}
+    adventurer {Eventyrer}
+    storyteller {Historiefortæller}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } niveau i de næste {days} dage.\n\nNyd det,\nLiterary Universe team`,
+    'email.adminUpgrade.messageHtml': `Vi har opgraderet din konto til {plan, select,
+    explorer {Udforsker}
+    adventurer {Eventyrer}
+    storyteller {Historiefortæller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } niveau i de næste {days} dage. Nyd det!`,
+    'email.verification': 'E-mail verifikation',
+    'email.verifying': 'Verificerer din e-mail. Dette vil kun tage et øjeblik...',
+    'email.verified': 'Fantastiske nyheder! Din e-mail er blevet verificeret!'
 };    /* eslint-enable max-len */
