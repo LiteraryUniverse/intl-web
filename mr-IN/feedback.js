@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'कायदेशीर उल्लंघन',
     'feedback.reportType.vulgar': 'अश्लील/अशिष्ट',
     'feedback.reportType.copyright': 'कॉपीराइट उल्लंघन',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'चुकीची वय मान्यता',
+    'feedback.reportType.scam': 'धोखा',
+    'feedback.report.submit': 'अहवाल',
+    'feedback.report.submitting': 'तक्रार करीत आहे...',
+    'feedback.report.violationDesc': 'तपशील',
+    'feedback.report.reportSaved': 'तक्राराबद्दल धन्यवाद! आपल्याला तपशीलची तपासणी करण्यात येईल आणि आवश्यक असेल तर कारवाई करण्यात येईल.',
+    'feedback.report.copyrightReportSaved': 'तक्राराबद्दल धन्यवाद! आपल्याला तपशीलची तपासणी करण्यात येईल आणि आमच्याशी संपर्क साधण्यात येईल.',
+    'feedback.report.copyrightOwnershipDesc': 'स्वामित्वाची माहिती',
+    'feedback.report.copyrightNotice': 'कृपया लक्षात घ्या की तुम्हाला हे फॉर्म वापरण्यासाठी कामगार असलेला मालक हवा. जर तुम्ही मालक नाहीत, तर कृपया मालकांना सूचित करा किंवा आम्हाला सूचित करण्यासाठी इतर श्रेणी वापरा. आम्ही कॉपीराइट उल्लंघनांच्या अत्यंत गंभीरतेने घेतलेले आहे आणि या फॉर्मच्या अयोग्य आणि अशिष्ट वापराच्या समस्येसाठीही तीव्र तपासणी करतो.',
+    'feedback.report.copyrightInternalProperty': 'माझ्याकडे लिटररी युनिव्हर्सवर ही कामगिरी प्रकाशित केली आहे',
+    'feedback.reportType.spam': 'स्पॅम किंवा फिशिंग',
+    'feedback.reportType.other': 'इतर',
+    'feedback.report.copyrightType.propertySelectLabel': `कोणती विश्व {type, select,
+    universe {कथा}
+    story {कथा}
+    other {कथा}
+  } उल्लंघित केली जात आहे?`
 };
