@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Saat ini Anda tidak memiliki {type, select,
+    organization {blog}
+    universe {sebuah blog untuk alam semesta Anda}
+    user {sebuah blog}
     other {}
   }.`,
     'blog.create': 'Buat blog baru',
@@ -34,9 +34,9 @@ export default {
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Berikut ini adalah cerita mandiri, jika cerita ditulis sebagai bagian dari alam semesta, maka akan terdaftar di halaman alam semesta.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Tautan sosial sama dengan yang diatur dalam pengaturan organisasi {type, select,
+    organization {profil pengguna}
+    user {}
     other {}
   }`,
     'blog.social.website': 'Situs web resmi',
@@ -52,7 +52,7 @@ export default {
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
     'blog.post.introText': 'Paragraf pengantar',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.post.writtenBy': 'Ditulis oleh {usernameDisplay}',
+    'blog.post.writtenByFor': 'Ditulis oleh {usernameDisplay} untuk {publicationName}',
     'blog.posts.recent': 'Posting terbaru'
 };
