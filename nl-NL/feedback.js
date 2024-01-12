@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'Law violation',
     'feedback.reportType.vulgar': 'Vulgar/obscene',
     'feedback.reportType.copyright': 'Copyright violation',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
+    'feedback.reportType.storyRating': 'Onjuiste leeftijdsclassificatie',
+    'feedback.reportType.scam': 'Oplichting',
+    'feedback.report.submit': 'Rapport',
+    'feedback.report.submitting': 'Rapporteren...',
     'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.reportSaved': 'Bedankt voor het rapport! We zullen het onderzoeken en actie ondernemen indien nodig.',
+    'feedback.report.copyrightReportSaved': 'Bedankt voor het rapport! We zullen het onderzoeken en contact met u opnemen.',
+    'feedback.report.copyrightOwnershipDesc': 'Verklaring van eigendom',
+    'feedback.report.copyrightNotice': 'Houd er rekening mee dat u de rechtmatige eigenaar van het werk moet zijn om dit formulier te gebruiken. Als u niet de eigenaar bent, informeer dan alstublieft de eigenaar of gebruik de andere categorie om ons te informeren. Wij nemen auteursrechtinbreuken zeer serieus en hetzelfde geldt voor het onjuiste en misbruik van dit formulier.',
+    'feedback.report.copyrightInternalProperty': 'Ik heb dit werk gepubliceerd op Literary Universe',
+    'feedback.reportType.spam': 'Spam of phishing',
+    'feedback.reportType.other': 'Overig',
+    'feedback.report.copyrightType.propertySelectLabel': `Welk {type, select,
+    universe {universum}
+    story {verhaal}
+    other {verhaal}
+  } wordt geschonden?`
 };
