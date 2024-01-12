@@ -6,7 +6,7 @@ export default {
     'universe.fanarts.for': '{universe} ഫാൻ ആർട്ട്സ്',
     'universe.fansettings.for': '{universe} ഫാൻ കാലവല്ലവർ',
     'universe.fanfiction.stories': 'കഥകൾ',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.fanfiction.fanarts': 'ഫാൻ ആർട്ടുകൾ',
     'universe.stories.count': `ഇതിനിടെ {num, plural,
     =0 {കഥകൾഇല്ലുമുണ്ട്}
     one {ഒരു കഥ}
@@ -26,11 +26,11 @@ export default {
     'universe.stories.desc': '{universe}സ്ഥിരം കഥകൾ',
     'universe.encyclopedia.title': '{universe} നാമാവശേഷം',
     'universe.encyclopedia.desc': '{universe}വിശദമായി എല്ലാ വിശദാംശങ്ങൾ',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
+    'universe.fanArt.submit': 'നിങ്ങളുടെ കല സമർപ്പിക്കുക',
+    'universe.fanArtHeaderDesc.item': '{universe} ഫാൻ ആർട്ട് - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} ഫാൻ ആർട്ട് സമർപ്പിക്കൽ',
+    'universe.fanArtHeaderDesc.overview': '{universe} ഫാൻ ആർട്ട്',
     'universe.fanFiction.hidden': 'മറയ്ക്കപ്പെട്ടു',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hide': 'ഫാൻഫിക്ഷൻ മറയ്ക്കുക',
+    'universe.fanFiction.unhide': 'ഫാൻഫിക്ഷൻ അനാവരണം ചെയ്യുക'
 };
