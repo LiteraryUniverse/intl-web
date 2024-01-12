@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Atsiprašome, kad pertraukėme. Tačiau prieš leisdami jums eiti toliau, mes teisiškai įsipareigojame įsitikinti, kad jūs esate informuoti ir sutinkate su mūsų Paslaugų sąlygomis, Privatumo politika ir Autorių teisių sutartimi.',
+    'legal.modal.agree': 'Sutinku',
+    'legal.modal.disagree': 'Nesutinku',
+    'legal.modal.register': 'Jūs toliau šito daugiau nematysite, jei užsiregistruosite.',
+    'legal.modal.goToSettings': 'Eikite į savo nustatymus',
+    'legal.modal.oneLastThing': 'Vienas paskutinis dalykas...',
+    'legal.modal.finish': 'Baigti',
+    'legal.modal.existingUser': 'Jau užsiregistravote?',
+    'legal.modal.pleaseLogin': 'Prisijunkite, prašome.'
 };
