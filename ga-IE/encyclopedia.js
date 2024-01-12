@@ -29,8 +29,8 @@ export default {
     other {# iontrálacha gaolmhara}
   } faighte.`,
     'encyclopedia.help.text': 'Úsáid an roghchlár ar chlé chun siúlóid a dhéanamh idir na míreanna san eolaire. Nuair a roghnaíonn tú mír, taispeánfar í in ionad an téacs seo.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Bosca Uirlisí ar an Taobhchlár',
+    'encyclopedia.help.sidebar.text': 'Fáilte go dtí do scéal! Ligeann an taobhchlár seo duit rochtain éasca a fháil ar gach acmhainn a bhaineann le do scéal. Seiceáil na híomhánna thuas chun na nótaí is déanaí a fheiceáil, do nótaí féin, do chuardach a dhéanamh ar do leabhrán, iontrálacha a sheiceáil agus iontrálacha nua a chur le do leabhrán. Má tá tú ag iarraidh nasc a chur le iontráil ón téacs an scéil, roghnaigh an téacs ina bhfuil tú ag iarraidh é a chur ann agus ansin brúigh an cnaipe nasc. Beidh ort ansin rogha a dhéanamh ar ábhar agus é a roghnú.',
     'encyclopedia.intro': 'Fáilte go dtí an eolaire {universe} .',
     'encyclopedia.add.title': 'Cuir iontráil nua leis an eolaire',
     'encyclopedia.add.heading': 'Cad ba mhaith leat a chur leis?',
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `Catagóir Iontrála: {category, select,
+    character {Carachtar}
+    event {Imeacht}
+    group {Grúpa}
+    item {Mír}
+    location {Áit}
+    other {Nóta}
+    state {Stádas}
+    governments {Rialtas}
+    languages {Teanga}
+    creatures {Créatúr}
+    deity {Déithe}
+    religions {Creideamh}
+    flora {Plandaí}
+    magic {Draíocht}
+    planets {Pláinéad}
+    species {Speiceas}
+    technologies {Teicneolaíocht}
   }`,
     'encyclopedia.entry.category.legend': 'Catagóir',
     'encyclopedia.fields.add': 'Cuir réimse nua leis',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } .`,
     'enc.entries.limitReached': 'Tá tú tar éis teacht ar an líon is mó iontrálacha leabhair na heagna a cheadaítear le do síntiús reatha.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Rialuithe na hEagnaíochta',
+    'encyclopedia.pronunciation.title': 'Caint',
+    'encyclopedia.wip.abbreviation': 'Faoi Mhíniú',
+    'encyclopedia.wip.full': 'Obair i gCur Chun Cinn'
 };
