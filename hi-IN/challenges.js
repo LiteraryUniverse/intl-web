@@ -16,20 +16,20 @@ export default {
     'challenges.startDate': 'प्रारंभ तिथि',
     'challenges.endDate': 'समाप्ति तिथि',
     'challenges.future': 'आगामी चुनौतियाँ',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'शब्दगणना चुनौती शुरू हो रही है {startDate, date, short} के साथ, जिसका लक्ष्य है {target, number} , {endDate, date, short}तक।',
     'challenges.future.nanowrimo': 'NaNoWriMo चुनौती तैयार है।',
     'challenges.wordcount': 'शब्द गणना',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `इस {type, select,
+    story {कहानी}
+    universe {यूनिवर्स}
     other {}
-  }.`,
+  }के लिए इस महीने लिखने की आपकी एक लक्ष्य तय करें।`,
     'challenges.wordcount.select': 'आप कितने शब्दों के लिए खुद को चुनौती देना चाहते हैं?',
     'challenges.start': 'चुनौती शुरू करें',
     'challenges.report': 'रिपोर्ट',
     'challenges.victory': 'बधाई हो! आपने इस चुनौती को पूरा कर लिया है।',
     'challenges.defeat': 'दुख की बात है, आपने इस चुनौती को पूरा नहीं किया।',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'इस कहानी के लिए वर्तमान शब्दों की संख्या {wordcount, number}है, यह प्रारंभिक बिंदु होगा।',
     // NaNoWriMo
     'nanowrimo.full': 'राष्ट्रीय उपन्यास लेखन माह',
     'nanowrimo.site': 'NaNoWriMo आधिकारिक साइट',
