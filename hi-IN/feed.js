@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'फ़ीड',
     'feed.post.new': 'नया पोस्ट',
     'feed.post.like': 'पोस्ट पसंद करें',
     'feed.post.unlike': 'पोस्ट को पसंद नहीं करें',
