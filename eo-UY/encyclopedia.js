@@ -29,68 +29,68 @@ export default {
     other {# rilataj eniroj}
   } trovitaj.`,
     'encyclopedia.help.text': 'Uzu la menuon en la maldekstra flanko por navigi inter la eroj en la enciklopedio. Unufoje elektita ero, ĝi estos montrita anstataŭ ĉi tiu teksto.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Iujo de flankbara ilobretoj',
+    'encyclopedia.help.sidebar.text': 'Bonvenon al via rakonto! Ĉi tiu flankbreto permesas al vi facile atingi ĉiujn rimedojn rilatajn al via rakonto. Kontrolu la suprajn ikonojn por vidi lastajn komentojn, viajn notojn, serĉi en via enciklopedio, foliumi kaj aldoni novajn enigaĵojn al via enciklopedio. Se vi volas aldoni konekton al artikolo el la teksto de la rakonto, elektu la tekston kie vi volas meti ĝin kaj poste klaku la konekti butonon. Vi tiam estos instigita trovi kaj elekti artikolon.',
     'encyclopedia.intro': 'Bonvenon en la enciklopedio de {universe} .',
     'encyclopedia.add.title': 'Aldoni novan eniron al la enciklopedio',
     'encyclopedia.add.heading': 'Kion vi deziras aldoni?',
     'encyclopedia.add.moresoon': 'Pliaj kategorioj venos baldaŭ!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Krei novan {category, select,
+    character {karaktero}
+    event {evento}
+    group {grupo}
+    item {ero}
+    location {loko}
+    other {noto}
+    state {ŝtato}
+    governments {registaro}
+    languages {lingvo}
+    creatures {estaĵo}
+    deity {dio}
+    religions {religio}
+    flora {floro}
+    magic {magio}
+    planets {planedo}
+    species {specio}
+    technologies {teknologio}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `Krei novan {category, select,
+    character {karaktero}
+    event {evento}
+    group {grupo}
+    item {ero}
+    location {loko}
+    other {noto}
+    state {ŝtato}
+    governments {registaro}
+    languages {lingvo}
+    creatures {estaĵo}
+    deity {dio}
+    religions {religio}
+    flora {floro}
+    magic {magio}
+    planets {planedo}
+    species {specio}
+    technologies {teknologio}
+  } en {universe}`,
+    'encyclopedia.entry.category': `Eniga kategorio: {category, select,
+    character {Karaktero}
+    event {Evento}
+    group {Grupo}
+    item {Objekto}
+    location {Loko}
+    other {Noto}
+    state {Stato}
+    governments {Registaro}
+    languages {Lingvo}
+    creatures {Kreitaĵo}
+    deity {Diaĵo}
+    religions {Religio}
+    flora {Floro}
+    magic {Magio}
+    planets {Planedo}
+    species {Specio}
+    technologies {Teknologio}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorio',
     'encyclopedia.fields.add': 'Aldoni novan kampeton',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } enigaĵoj.`,
     'enc.entries.limitReached': 'Vi atingis la maksimuman permesitan nombron de enigaĵoj en la enciklopedio por via nuna abono.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Stiriloj de enciklopedio',
+    'encyclopedia.pronunciation.title': 'Elparolo',
+    'encyclopedia.wip.abbreviation': 'En konstruo',
+    'encyclopedia.wip.full': 'Laboro en progreso'
 };
