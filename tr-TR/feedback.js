@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'Kanun ihlali',
     'feedback.reportType.vulgar': 'Kaba/edepsiz',
     'feedback.reportType.copyright': 'Telif hakkı ihlali',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'Yanlış yaş derecelendirmesi',
+    'feedback.reportType.scam': 'Dolandırıcılık',
+    'feedback.report.submit': 'Rapor',
+    'feedback.report.submitting': 'Raporlanıyor...',
+    'feedback.report.violationDesc': 'Detaylar',
+    'feedback.report.reportSaved': 'Raporunuz için teşekkür ederiz! Gerekliyse araştırma yapacak ve gereken önlemleri alacağız.',
+    'feedback.report.copyrightReportSaved': 'Raporunuz için teşekkür ederiz! Araştırma yapacak ve sizinle iletişime geçeceğiz.',
+    'feedback.report.copyrightOwnershipDesc': 'Mülkiyet bildirimi',
+    'feedback.report.copyrightNotice': 'Lütfen bu formu kullanmak için eserin hak sahibi olmanız gerektiğini unutmayın. Eğer sahip değilseniz, lütfen sahibi bilgilendirin veya bize bilgi vermek için diğer kategoriyi kullanın. Telif hakkı ihlallerini son derece ciddiye alıyoruz ve aynı şey bu formun yanlış ve kötüye kullanımı için de geçerlidir.',
+    'feedback.report.copyrightInternalProperty': 'Bu eseri Literary Universe üzerinde yayımladım',
+    'feedback.reportType.spam': 'Spam veya phishing',
+    'feedback.reportType.other': 'Diğer',
+    'feedback.report.copyrightType.propertySelectLabel': `Hangi {type, select,
+    universe {evrenin}
+    story {hikayesi}
+    other {hikayesi}
+  } ihlal ediliyor?`
 };
