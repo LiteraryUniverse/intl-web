@@ -1,10 +1,10 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `ଆପଣ ବର୍ତମାନରେ {type, select,
+    organization {କୌଣସି ବ୍ଲଗ}
+    universe {ଆପଣଙ୍କ ବିଶ୍ବରେ ଏକ ବ୍ଲଗ}
+    user {ଏବଂ ଏକ ବ୍ଲଗ}
     other {}
-  }.`,
+  }ନାହିଁ ।`,
     'blog.create': 'Create a new blog',
     'blog.settings': `{type, select,
     org {Blog}
@@ -41,18 +41,18 @@ export default {
   }`,
     'blog.social.website': 'Official website',
     'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blog.settings.organizationSettings': 'ପ୍ରତିଷ୍ଠାନ ବ୍ଲଗଗୁଡ଼ିକ ପ୍ରତିଷ୍ଠାନ ପୃଷ୍ଠାମାନଙ୍କୁ ସଂଯୁକ୍ତ କରାଯାଇଛି।',
     'blogs.lu': 'Official Literary Universe blogs',
     'blogs.featured': 'Featured blogs',
     'blogs.new': 'Newest blogs',
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.settingsAria': 'ବ୍ଲଗର ସେଟିଂସମୂହ ପ୍ରକାରଗୁଡ଼ିକ',
+    'blog.settings.blog': 'ବ୍ଲଗ',
+    'blog.settings.forum': 'ଫୋରମ୍',
+    'blog.post.introText': 'ପରିଚୟ ପାଠକରେ',
+    'blog.post.writtenBy': '{usernameDisplay}ଦ୍ୱାରା ଲେଖାଯାଇଛି',
+    'blog.post.writtenByFor': '{usernameDisplay} ଦ୍ୱାରା ଲେଖାଯାଇଛି {publicationName}ପାଇଁ',
+    'blog.posts.recent': 'ନବୀନ ପୋଷ୍ଟଗୁଡ଼ିକ'
 };
