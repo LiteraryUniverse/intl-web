@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'Cuir le leabharlann',
+    'library.remove': 'Bain ón leabharlann',
+    'library.bought': 'Scéalta a cheannaigh',
+    'library.stories': 'Scéalta a lean',
+    'library.universes': 'Dháileadh na cruinneachtaí',
+    'bookmark.continueReading': 'Lean ar aghaidh ag léamh',
+    'bookmark.statusSummary': 'Tá tú tar éis léamh {readPercent, number, ::percent} den scéal.'
 };
