@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'உரையாடல்',
+    'pm.showolder': 'பழைய செய்திகளைக் காட்டு',
+    'pm.errors.saysomething': 'நீங்கள் ஏதாவது சொல்ல வேண்டும்...',
+    'pm.errors.addrecipient': 'நீங்கள் குறைந்ததும் ஒரு பயனரை சேர்க்க வேண்டும்.',
+    'pm.message': 'செய்தி',
+    'pm.send.message': 'செய்தி அனுப்பு',
+    'pm.messages.own': 'உங்கள் செய்திகள்',
+    'pm.conversations.none': 'நீங்கள் தற்போது யாருடனும் உரையாட்டம் செய்யவில்லை.',
+    'pm.to': 'பெயர்க்கு:',
+    'pm.with': 'உரையாடல் உடனாக:',
+    'pm.send': 'அனுப்பு',
+    'pm.conversations.unreadCount': `உங்களுக்கு {count, plural,
+    zero {வாசிக்கப்படாத உரையாடல்கள்}
+    one {ஒரு வாசிக்கப்படாத உரையாடல்}
+    other {# வாசிக்கப்படாத உரையாடல்கள்}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'நீங்கள் பொருத்தமாக ஒருவரைத் தேர்ந்தெடுக்க வேண்டும்.',
+    'pm.form.maxParticipants': `உங்களுக்கு உச்சத்தில் {maxPeople, plural,
+    one {ஒரு நபர்}
+    other {# மக்கள்}
+  } உள்ளனர் உள்ளது.`,
+    'pm.new.aria': 'புதிய உரையாடல்',
+    'pm.new.buttonTitle': 'புதிய உரையாடலைத் தொடங்குங்கள்'
 };
