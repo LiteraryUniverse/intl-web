@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
+  'readingList.title': 'Leseliste',
+  'readingList.type.label': 'Listetype',
   'readingList.type.stories': 'Historier',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.type.universes': 'Universer',
+  'readingList.ordered.label': 'Rangert liste',
+  'readingList.button.add': 'Legg til i leseliste',
+  'readingList.selectList': 'Velg leseliste',
+  'readingList.create': 'Opprett en ny leseliste',
+  'readingList.create.aria': 'Modal med innstillinger for en ny leseliste',
+  'readingList.edit.aria': 'Modal for å redigere leselistens innstillinger',
+  'readingList.library.title': 'Dine leselister',
+  'readingList.public.label': 'Er offentlig synlig?',
+  'readingList.addItem': `Legg til {type, select,
+    universes {univers}
+    stories {historie}
+    other {historier og universer}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modal for å legge til {type, select,
+    universes {universer}
+    stories {historier}
+    other {historier og universer}
+  } i leselisten.`,
+  'readingList.addItem.fromLibrary': 'Fra biblioteket',
+  'readingList.button.added': 'Lagt til'
 };
