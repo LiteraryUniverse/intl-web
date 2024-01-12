@@ -1,17 +1,17 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `तपाईंलाई हालसम्म कुनै पनि ब्लग छैन {type, select,
+    organization {तपाईंको ब्रह्माण्डका लागि ब्लग छैन}
+    universe {एउटा ब्लग}
+    user {ब्लग छैन}
     other {}
   }.`,
     'blog.create': 'नयाँ ब्लग सिर्जना गर्नुहोस्',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ब्लग}
+    universe {ब्रह्माण्ड पृष्ठ}
+    user {ब्लग}
     other {}
-  } settings`,
+  } सेटिङ्स`,
     'blog.description': 'ब्लग परिचय',
     'blog.theme': 'थिम',
     'blog.theme.info': 'पृष्ठको देखावट बदल्न सक्ने गर्ने थिममा समायोजन गर्दा। यो सुविधा यस समय तयार छैन।',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'सार्वजनिक दृश्य',
     'blog.post.notfound': 'ब्लग पोस्ट भेटिएन',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {ब्रह्माण्डहरू}
+    stories {स्थानिय कथाहरू}
+    fanfiction {प्रशंसा कथानी कार्य}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'यहाँ स्वतंत्र कथाहरू सूचीबद्ध छन्, यदि कथा कसैको यूनिभर्सको भागको रूपमा लेखिएको छ भने त्यसो यूनिभर्स पृष्ठमा सूचीबद्ध हुनेछ।',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `सामाजिक लिङ्कहरू मुख्य {type, select,
+    organization {संगठन सेटिङ्समा सेट गरिएका छन्}
+    user {प्रयोगकर्ता प्रोफाइल}
     other {}
   }`,
     'blog.social.website': 'आधिकारिक वेबसाइट',
@@ -52,7 +52,7 @@ export default {
     'blog.settings.blog': 'ब्लग',
     'blog.settings.forum': 'फोरम',
     'blog.post.introText': 'परिचय अनुच्छेद',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.post.writtenBy': '{usernameDisplay}द्वारा लेखित',
+    'blog.post.writtenByFor': '{usernameDisplay} द्वारा लेखित {publicationName}को लागि',
     'blog.posts.recent': 'आधुनिक पोष्टहरू'
 };
