@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'ഫീഡ്',
     'feed.post.new': 'പുതിയ പോസ്റ്റ്',
     'feed.post.like': 'പോസ്റ്റ് ഇഷ്ടപ്പെട്ടു',
     'feed.post.unlike': 'പോസ്റ്റ് അരികൊടുക്കുക',
