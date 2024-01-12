@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'མཐོང་།',
     'feed.post.new': 'གནས་ཚུལ་གསརཔ་གློག་མིན།',
     'feed.post.like': 'གནས་ཚུལ་གློག་བཞག་པ།',
     'feed.post.unlike': 'གནས་ཚུལ་གློག་བསྐྱར་མེད།',
