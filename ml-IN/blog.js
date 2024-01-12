@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'ഒരു പുതിയ ബ്ലോഗ് സൃഷ്ടിക്കുക',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ബ്ലോഗ്}
+    universe {യൂണിവേഴ്‌സ് പേജ്}
+    user {ബ്ലോഗ്}
     other {}
-  } settings`,
+  } ക്രമീകരണങ്ങൾ`,
     'blog.description': 'ബ്ലോഗ് പരിചയം',
     'blog.theme': 'തീം',
     'blog.theme.info': 'തീം സജ്ജീകരിച്ചാൽ നിങ്ങൾക്ക് പേജിന്റെ രൂപം മാറ്റാൻ കഴിയും. ഈ സവിശേഷത ഇപ്പോൾ പൂർണമായി പരിശോധിക്കപ്പെടുന്നില്ല.',
