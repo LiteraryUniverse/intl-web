@@ -30,10 +30,10 @@ export default {
     'reader.accessibility.toggleRules': 'Chuyển đổi thước đo trợ giúp',
     'reader.nextRelease.scheduled': 'Chương tới sẽ được phát hành vào {nextReleaseAt, date} vào lúc {nextReleaseAt, time}!',
     'reader.storyContinues': 'Câu chuyện tiếp tục...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyOnHiatus': 'Tác giả hiện đang nghỉ ngơi và truyện này tạm thời đình chỉ. Hãy kiểm tra lại sau một hoặc hai tháng.',
+    'reader.storyCancelled': 'Rất tiếc, đây là tất cả. Truyện đã bị hủy nên khả năng sẽ không có gì mới.',
     'reader.storyCancelled.heading': 'Hủy bỏ',
     'reader.nextChapterEstimation.verySoon': 'Dựa trên các ngày xuất bản của {chaptersCount, number} những chương gần đây nhất, chương tiếp theo dự kiến sẽ được phát hành sớm thôi.',
     'reader.nextChapterEstimation.days': 'Dựa trên các ngày xuất bản của {chaptersCount, number} những chương gần đây nhất, chương tiếp theo sẽ có sẵn sau khoảng {daysLeft, plural, one {1 ngày} other {# ngày}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Chúng tôi cũng sẽ cung cấp một ước tính về thời gian phát hành chương tiếp theo sau khi truyện này có nhiều hơn một chương.'
 };
