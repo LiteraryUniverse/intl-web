@@ -29,68 +29,68 @@ export default {
     other {# დაკავებული ჩანაწერი}
   } მოიძებნა.`,
     'encyclopedia.help.text': 'გამოიყენეთ მენიუ მარცხენა მხარეში ენციკლოპედიაში გადასვლისთვის. ერთხელ რომ აირჩიეთ ერთი ელემენტი, ის გამოჩნდება ამ ტექსტის ნაცვლად.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    'encyclopedia.help.sidebar': 'სარკეელი ხელსაწყოები',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'კეთილია {universe} ენციკლოპედიაში მოხსნა.',
     'encyclopedia.add.title': 'დაამატეთ ახალი ჩანაწერი ენციკლოპედიაში',
     'encyclopedia.add.heading': 'რას გსურთ დაამატოთ?',
     'encyclopedia.add.moresoon': 'მეტი კატეგორიები მომავალში!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `შექმენი ახალი {category, select,
+    character {პერსონაჟი}
+    event {მოვლენა}
+    group {ჯგუფი}
+    item {ნივთი}
+    location {ადგილი}
+    other {შენიშვნა}
+    state {სტატუსი}
+    governments {მთავარი}
+    languages {ენა}
+    creatures {მაცივარი}
+    deity {ღმერთი}
+    religions {რელიგია}
+    flora {ფლორა}
+    magic {მაგია}
+    planets {პლანეტა}
+    species {სპეციე}
+    technologies {ტექნოლოგია}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `შექმენი ახალი {category, select,
+    character {პერსონაჟი}
+    event {მოვლენა}
+    group {ჯგუფი}
+    item {ნივთი}
+    location {ადგილი}
+    other {შენიშვნა}
+    state {სტატუსი}
+    governments {მთავარი}
+    languages {ენა}
+    creatures {მაცივარი}
+    deity {ღმერთი}
+    religions {რელიგია}
+    flora {ფლორა}
+    magic {მაგია}
+    planets {პლანეტა}
+    species {სპეციე}
+    technologies {ტექნოლოგია}
+  } თარიღით {universe}`,
+    'encyclopedia.entry.category': `ჩანაწერის კატეგორია: {category, select,
+    character {პერსონაჟი}
+    event {მოვლენა}
+    group {ჯგუფი}
+    item {ნივთი}
+    location {ადგილმდებარეობა}
+    other {შენიშვნა}
+    state {სტატუსი}
+    governments {მთავარი ადგილი}
+    languages {ენა}
+    creatures {მარაგი}
+    deity {ღმერთი}
+    religions {რელიგია}
+    flora {ფლორა}
+    magic {მაგია}
+    planets {პლანეტა}
+    species {სპეციე}
+    technologies {ტექნოლოგია}
   }`,
     'encyclopedia.entry.category.legend': 'კატეგორია',
     'encyclopedia.fields.add': 'ახალი ველის დამატება',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } ჩანაწერი.`,
     'enc.entries.limitReached': 'თქვენ მიაღწიათ მაქსიმალურად დაშვებული ენციკლოპედიის ჩანაწერები თქვენი მიმდინარე გამოწერისთვის.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'ენციკლოპედიის კონტროლები',
+    'encyclopedia.pronunciation.title': 'გამოსახელებასი',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'მუშაობა მიმდინარეობაში'
 };
