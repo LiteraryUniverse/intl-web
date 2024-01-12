@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Atualmente você não tem {type, select,
+    organization {nenhum blog}
+    universe {um blog para o seu universo}
+    user {um blog}
     other {}
   }.`,
     'blog.create': 'Criar um novo blog',
@@ -28,9 +28,9 @@ export default {
     'blog.publicView': 'Opinião pública',
     'blog.post.notfound': 'Não foi encontrado um post no blog',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universos}
+    stories {Histórias Avulsas}
+    fanfiction {Trabalhos de Fan Fiction}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Listadas aqui estão histórias autônomas, se a história foi escrita como parte de um universo, então ela será listada na página do universo.',
