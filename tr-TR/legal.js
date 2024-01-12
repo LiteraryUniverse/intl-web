@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Özür dilerim. Ancak daha ileri gitmeden önce, yasal olarak, Hizmet Şartları, Gizlilik Politikası ve Telif Hakkı Sözleşmemiz hakkında bilgilendirildiğinizden ve kabul ettiğinizden emin olmamız gerekiyor.',
+    'legal.modal.agree': 'Kabul Ediyorum',
+    'legal.modal.disagree': 'Kabul Etmiyorum',
+    'legal.modal.register': 'Kayıt olursanız bunu bir daha görmeyeceksiniz.',
+    'legal.modal.goToSettings': 'Ayarlarınıza git',
+    'legal.modal.oneLastThing': 'Son bir şey...',
+    'legal.modal.finish': 'Tamamla',
+    'legal.modal.existingUser': 'Zaten kayıtlı mısınız?',
+    'legal.modal.pleaseLogin': 'Lütfen giriş yapın.'
 };
