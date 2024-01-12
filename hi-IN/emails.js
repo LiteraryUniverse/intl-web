@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'इस ईमेल पते की पुष्टि करें',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'आपका खाता अपग्रेड किया गया है',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `हमने आपके खाते को अपग्रेड कर दिया है {plan, select,
+    explorer {एक्सप्लोरर}
+    adventurer {एडवेंचरर}
+    storyteller {स्टोरीटेलर}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } टियर अगले {days} दिनों तक।\n\nआनंद लें,\nलिट्रेरी यूनिवर्स टीम`,
+    'email.adminUpgrade.messageHtml': `हमने आपके खाते को अपग्रेड कर दिया है {plan, select,
+    explorer {एक्सप्लोरर}
+    adventurer {एडवेंचरर}
+    storyteller {स्टोरीटेलर}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } टियर अगले {days} दिनों तक। आनंद लें!`,
+    'email.verification': 'ईमेल सत्यापन',
+    'email.verifying': 'आपके ईमेल की सत्यापन की जा रही है। यह कुछ क्षण लगेगा...',
+    'email.verified': 'बधाई हो! आपके ईमेल की सत्यापन हो गयी है!'
 };    /* eslint-enable max-len */
