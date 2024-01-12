@@ -29,68 +29,68 @@ export default {
     other {# σχετικές καταχωρήσεις}
   } βρέθηκαν.`,
     'encyclopedia.help.text': 'Χρησιμοποιήστε το μενού στα αριστερά για να πλοηγηθείτε ανάμεσα στα στοιχεία της εγκυκλοπαίδειας. Μόλις επιλέξετε ένα στοιχείο, θα εμφανιστεί αντί αυτού του κειμένου.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Εργαλειοθήκη πλευρικής στήλης',
+    'encyclopedia.help.sidebar.text': 'Καλώς ήρθατε στην ιστορία σας! Αυτή η πλαϊνή γραμμή σας επιτρέπει εύκολη πρόσβαση σε όλους τους πόρους που σχετίζονται με την ιστορία σας. Ελέγξτε τα εικονίδια παραπάνω για να δείτε τα τελευταία σχόλια, τις σημειώσεις σας, αναζητήστε στην εγκυκλοπαίδειά σας, περιηγηθείτε και προσθέστε νέες καταχωρήσεις στην εγκυκλοπαίδειά σας. Εάν θέλετε να προσθέσετε σύνδεση σε μια καταχώρηση από το κείμενο της ιστορίας, επιλέξτε το κείμενο όπου θέλετε να το τοποθετήσετε και κάντε κλικ στο κουμπί σύνδεσης. Στη συνέχεια, θα σας ζητηθεί να βρείτε και να επιλέξετε ένα στοιχείο.',
     'encyclopedia.intro': 'Καλώς ήρθατε στην εγκυκλοπαίδεια {universe} .',
     'encyclopedia.add.title': 'Προσθέστε μια νέα καταχώριση στην εγκυκλοπαίδεια',
     'encyclopedia.add.heading': 'Τι θέλετε να προσθέσετε;',
     'encyclopedia.add.moresoon': 'Περισσότερες κατηγορίες έρχονται σύντομα!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Δημιουργήστε ένα νέο {category, select,
+    character {χαρακτήρα}
+    event {γεγονός}
+    group {ομάδα}
+    item {αντικείμενο}
+    location {τοποθεσία}
+    other {σημείωση}
+    state {κατάσταση}
+    governments {κυβέρνηση}
+    languages {γλώσσα}
+    creatures {πλάσμα}
+    deity {θεότητα}
+    religions {θρησκεία}
+    flora {φυτό}
+    magic {μαγεία}
+    planets {πλανήτης}
+    species {είδος}
+    technologies {τεχνολογία}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `Δημιουργήστε ένα νέο {category, select,
+    character {χαρακτήρα}
+    event {γεγονός}
+    group {ομάδα}
+    item {αντικείμενο}
+    location {τοποθεσία}
+    other {σημείωση}
+    state {κατάσταση}
+    governments {κυβέρνηση}
+    languages {γλώσσα}
+    creatures {πλάσμα}
+    deity {θεότητα}
+    religions {θρησκεία}
+    flora {φυτό}
+    magic {μαγεία}
+    planets {πλανήτης}
+    species {είδος}
+    technologies {τεχνολογία}
+  } στον {universe}`,
+    'encyclopedia.entry.category': `Κατηγορία καταχώρησης: {category, select,
+    character {Χαρακτήρας}
+    event {Γεγονός}
+    group {Ομάδα}
+    item {Αντικείμενο}
+    location {Τοποθεσία}
+    other {Σημείωση}
+    state {Κατάσταση}
+    governments {Κυβέρνηση}
+    languages {Γλώσσα}
+    creatures {Πλάσμα}
+    deity {Θεός}
+    religions {Θρησκεία}
+    flora {Φυτό}
+    magic {Μαγεία}
+    planets {Πλανήτης}
+    species {Είδος}
+    technologies {Τεχνολογία}
   }`,
     'encyclopedia.entry.category.legend': 'Κατηγορία',
     'encyclopedia.fields.add': 'Προσθήκη νέου πεδίου',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   }.`,
     'enc.entries.limitReached': 'Έχετε φτάσει το μέγιστο επιτρεπόμενο αριθμό καταχωρήσεων στην εγκυκλοπαίδεια για την τρέχουσα συνδρομή σας.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Ελέγχοι εγκυκλοπαίδειας',
+    'encyclopedia.pronunciation.title': 'Προφορά',
+    'encyclopedia.wip.abbreviation': 'Εξέλιξη σε εξέλιξη',
+    'encyclopedia.wip.full': 'Εξέλιξη σε εξέλιξη'
 };
