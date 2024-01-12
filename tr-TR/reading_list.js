@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
-  }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.title': 'Okuma listesi',
+  'readingList.type.label': 'Liste tipi',
+  'readingList.type.stories': 'Hikayeler',
+  'readingList.type.universes': 'Evrenler',
+  'readingList.ordered.label': 'Sıralı liste',
+  'readingList.button.add': 'Okuma listesine ekle',
+  'readingList.selectList': 'Okuma listesini seç',
+  'readingList.create': 'Yeni bir okuma listesi oluştur',
+  'readingList.create.aria': 'Yeni bir okuma listesi için ayarlar içeren iletişim kutusu',
+  'readingList.edit.aria': 'Okuma listesinin ayarlarını düzenlemek için iletişim kutusu',
+  'readingList.library.title': 'Okuma listeleriniz',
+  'readingList.public.label': 'Herkese açık mı?',
+  'readingList.addItem': `{type, select,
+    universes {evren}
+    stories {hikaye}
+    other {hikaye ve evren}
+  }ekle`,
+  'readingList.addItem.modalAria': `Okuma listesine {type, select,
+    universes {evren}
+    stories {hikaye}
+    other {hikaye ve evren}
+  } ekleme iletişim kutusu`,
+  'readingList.addItem.fromLibrary': 'Kütüphaneden',
+  'readingList.button.added': 'Eklendi'
 };
