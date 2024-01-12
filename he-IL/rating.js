@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'דירוג',
+    'rating.explained': 'דירוג גיל והגבלה.',
+    'rating.all': 'הכל',
+    'rating.desc.all': 'נגיש לכל הגילאים והקבוצות.',
+    'rating.teens': 'נוער',
+    'rating.desc.teens': 'מתאים לקהל בין גילאי 12 ל-18.',
+    'rating.mature': 'מבוגרים',
+    'rating.desc.mature': 'מכיל נושאים מתקדמים, שפה גסה וסצינות מרומזות.',
+    'rating.explicit': 'מפורט',
+    'rating.desc.explicit': 'מכיל סצינות מפורטות.',
+    'rating.selection.all': 'הכל - נגיש לכל הגילאים והקבוצות.',
+    'rating.selection.teens': 'נוער (12-18) - מתאים לקהל בין גילאי 12 ל-18.',
+    'rating.selection.mature': 'מבוגרים (18+) - מכיל נושאים מתקדמים, שפה גסה וסצינות מרומזות.',
+    'rating.selection.explicit': 'מפורט (21+) - מכיל סצינות מפורטות.'
 };
