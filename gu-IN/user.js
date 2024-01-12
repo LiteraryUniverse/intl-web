@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'મિત્રોમાં ઉમેરો',
+    'user.friend.requests': `તમારે {num, number} નવા મિત્ર {num, plural,
+    zero {માટેની વિનંતીઓ}
+    one {વિનંતી}
+    many {વિનંતીઓ}
+    other {વિનંતીઓ}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'મિત્રતા તોડી નાંખો',
+    'user.block': 'બ્લોક કરો',
+    'user.unblock': 'અનબ્લોક કરો',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {ને}
+    female {પર જોડાયેલી છે}
+    other {પર જોડાયેલી છે}} પર જોડાયેલી છે {date, date, long}પર જોડાયેલી છે!`,
+    'user.friend.request.accept': 'મિત્રતાની વિનંતી સ્વીકારો',
+    'user.friend.request.cancel': 'મિત્રતાની વિનંતી રદ કરો',
+    'user.friend.request.deny': 'મિત્રતા નકારો',
+    'user.listing': 'વપરાશકર્તાઓની યાદી',
+    'user.profile.visit': 'મુલાકાત લો {user}ની પ્રોફાઇલ પર.',
+    'user.profile.avatar': '{username}નો એવાટાર',
+    'user.friend.list.requests': 'મિત્રતાની વિનંતીઓ',
+    'user.friend.norequests': 'તમારી મિત્રતાની વિનંતીઓ નથી.',
+    'user.dashboardWelcome': `સવાર {dayPart, select,
+    morning {સવારે}
+    afternoon {બપોર}
+    evening {સાંજ}
+    night {રાત}
+    other {દિવસ}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'આ લેખકે પારંપરિક રીતે પ્રકાશિત કર્યું છે',
+    'user.verification.luAuthor': 'સાહિત્યિક વિશ્વમાં આધારિત લેખક',
+    'user.verification.luEmployee': 'સાહિત્યિક વિશ્વ કર્મચારી',
+    'user.verification.publicFigure': 'ચકાસીત સાર્વજનિક આદર્શ',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {વાર્તા}
+    other {વાર્તાઓ}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {વિશ્વ}
+    other {વિશ્વો}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ફેન ફિક્શન}
+    other {ફેન ફિક્શનો} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'કાર્યો',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'ઇચ્છાપત્ર',
+    'profile.storiesBy': '{username}દ્વારા બનાવવામાં આવેલી વાર્તાઓ',
+    'profile.universesBy': '{username}દ્વારા બનાવવામાં આવેલા વિશ્વો',
+    'profile.fanFictionBy': '{username}દ્વારા બનાવવામાં આવેલી ફેન ફિક્શનો'
 };
