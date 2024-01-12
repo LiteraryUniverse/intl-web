@@ -35,13 +35,13 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.messageHtml': `Táimid tar éis do chuntas a uasghrádú go dtí an {plan, select,
+    explorer {Lorgaire}
+    adventurer {Eachtraí}
+    storyteller {Léiritheoir Scéalta}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } leibhéal ar feadh na {days} lá amach romhainn. Bain sult as!`,
+    'email.verification': 'Dearbhaíocht Ríomhphoist',
+    'email.verifying': 'Ag dearbhú do ríomhphost. Ní gá ach nóiméad amháin...',
+    'email.verified': 'Féach ort! Tá do ríomhphost dearbhaithe!'
 };    /* eslint-enable max-len */
