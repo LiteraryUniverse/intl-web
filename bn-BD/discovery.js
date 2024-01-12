@@ -7,51 +7,51 @@ export default {
     'discovery.continue': 'পঠিত করা চালিয়ে যান',
     'discovery.stories.similar.new': 'নিকটবর্তীতে নতুন গল্পসমূহ',
     'discovery.stories.similar.regular': 'নিকটবর্তীতে গল্পসমূহ',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `এই গল্পটি পড়ার জন্য আনুমানিক {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 ঘন্টা এবং }
+        other {# ঘন্টা এবং }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 মিনিট}
+        one {1 মিনিট}
+        other {# মিনিট}
+    } সময় নেবে।`,
+    'story.estimatedReadingTime.explained': 'প্রতিমিনিটে {avgReadingNum, number} শব্দের গড় পঠন দ্রুততা ভিত্তিক।',
+    'discover.search.text': 'অনুসন্ধান শব্দ',
+    'discover.searchStory.title': 'একটি গল্পের জন্য অনুসন্ধান করুন',
+    'discover.searchStory.description': 'গল্পের জন্য অনুসন্ধান করুন',
+    'discover.searchUniverse.title': 'একটি বিশ্বের জন্য অনুসন্ধান করুন',
+    'discover.searchUniverse.description': 'বিশ্বের জন্য অনুসন্ধান করুন',
+    'discover.search.storyStatus': 'গল্পের অগ্রগতির অবস্থা',
+    'story.status.complete': 'সম্পূর্ণ',
+    'story.status.inProgress': 'চলমান',
+    'discover.search.universeConnection': 'গল্পের বিশ্বের সংযোগ',
+    'story.universeRelation.standalone': 'স্বতন্ত্র গল্প',
+    'story.universeRelation.fanFiction': 'ফ্যান ফিকশন',
+    'story.universeRelation.universe': 'একটি বিশ্বের অংশ',
+    'discover.search.rating': 'বয়স রেটিং',
+    'discover.search.license': 'কপিরাইট লাইসেন্স',
+    'discover.search.language': 'ভাষা',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {আপনার পরিমাণগুলির সাথে কোনও বিশ্ব মেলে না}
+        one {1 টি বিশ্ব পাওয়া গেছে}
+        other {# টি বিশ্ব পাওয়া গেছে}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {আপনার পরিমাণগুলির সাথে কোনও গল্প মেলে না}
+        one {1 টি গল্প পাওয়া গেছে}
+        other {# টি গল্প পাওয়া গেছে}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
+    'discover.viewSelection.aria': 'দেখার নির্বাচন',
+    'discover.searchDisplay.covers': 'কভারগুলি তালিকা',
+    'discover.searchDisplay.list': 'সংক্ষিপ্ত তালিকা',
     'discover.includesAds': 'এই কাজে পণ্য পরিষ্কার বিজ্ঞাপন সংযোজন করে অথবা অন্য রূপে বিজ্ঞাপন যুক্ত করা হয়েছে।',
     'discovery.featured.universes': 'বৈশিষ্ট্যযুক্ত বিশ্বগুলি',
     'discovery.featured.stories': 'বৈশিষ্ট্যযুক্ত গল্পগুলি',
     'discovery.story.tableOfContent': 'সারণীতে সামগ্রী',
     'story.status.hiatus': 'স্থগিত',
     'story.status.cancelled': 'বাতিল করা হয়েছে',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'পড়ুন - {readAt, date}',
     'discovery.moreDetails': 'বিস্তারিত',
     'discovery.read': 'পড়ুন',
     'discovery.chapters.showAll': 'সমস্ত অধ্যায় দেখাও',
