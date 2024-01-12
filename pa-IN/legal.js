@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'ਮਾਫ ਕਰਨਾ ਕਿ ਮੁੜ ਇੱਕ ਵਾਰ ਤੁਹਾਨੂੰ ਅੱਗੇ ਜਾਣ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣ ਤੋਂ ਪਹਿਲਾਂ, ਅਸੀਂ ਕਾਨੂੰਨੀ ਤੌਰ \'ਤੇ ਬੰਧਿਤ ਹਾਂ ਕਿ ਤੁਸੀਂ ਸਾਡੇ ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ, ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਅਤੇ ਕਾਪੀਰਾਈਟ ਇਕਰਾਰ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਰੱਖਣ ਅਤੇ ਉਨ੍ਹਾਂ ਨਾਲ ਸਹਿਮਤ ਹੋਣ ਦੀ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਹੈ।',
+    'legal.modal.agree': 'ਮੈਂ ਸਹਿਮਤ ਹਾਂ',
+    'legal.modal.disagree': 'ਮੈਂ ਗੈਰ-ਸਹਿਮਤ ਹਾਂ',
+    'legal.modal.register': 'ਜੇ ਤੁਸੀਂ ਰਜਿਸਟਰ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਹ ਹੋਰ ਨਹੀਂ ਵੇਖੋਗੇ।',
+    'legal.modal.goToSettings': 'ਆਪਣੇ ਸੈਟਿੰਗਾਂ \'ਤੇ ਜਾਓ',
+    'legal.modal.oneLastThing': 'ਇੱਕ ਆਖਰੀ ਗੱਲ...',
+    'legal.modal.finish': 'ਮੁਕੰਮਲ ਕਰੋ',
+    'legal.modal.existingUser': 'ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰ ਕੀਤਾ ਹੈ?',
+    'legal.modal.pleaseLogin': 'ਕਿਰਪਾ ਕਰਕੇ ਲਾਗਇਨ ਕਰੋ।'
 };
