@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Komenco-dato',
     'challenges.endDate': 'Fino-dato',
     'challenges.future': 'Venontaj defioj',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Vortnombrado defio komenciĝas je {startDate, date, short} kun celo de {target, number} ĝis {endDate, date, short}.',
     'challenges.future.nanowrimo': 'NaNoWriMo defio estas preta.',
     'challenges.wordcount': 'Vorto-kvanto',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Starigi al vi mem celon pri kiom da vortoj vi volas skribi ĉi tiun monaton por ĉi tiu {type, select,
+    story {rakonto en la}
+    universe {universo}
     other {}
   }.`,
     'challenges.wordcount.select': 'Kiom da vortoj vi volas defii al vi mem?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Raporti',
     'challenges.victory': 'Gratulojn! Vi sukcesis ĉi tiun defion.',
     'challenges.defeat': 'Bedaŭrinde vi ne sukcesis ĉi tiun defion.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'La aktuala vortokvanto por ĉi tiu rakonto estas {wordcount, number}, tio estos la komencopunkto.',
     // NaNoWriMo
     'nanowrimo.full': 'Nacia Monato de Verkado de Romano',
     'nanowrimo.site': 'Oficiala retejo de NaNoWriMo',
