@@ -22,10 +22,10 @@ export default {
   'events.selection.origin': 'Event origin',
   'events.origin.universe': 'Universe',
   'events.origin.author': 'Author',
-  'events.origin.groups': 'Groups',
+  'events.origin.groups': 'ଗୋଷ୍ଠୀଗୁଡ଼ିକ',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
-  'events.visibility.label': 'Event visibility',
+  'events.visibility.label': 'ଘଟଣା ଦୃଶ୍ୟତା',
   'events.visibility.public': 'Public - anyone can see this event',
   'events.visibility.owner': `Owner - only {type, select,
     group {members of your group}
@@ -34,13 +34,13 @@ export default {
     other {you and the people you invite}
   } can see this event`,
   'events.visibility.private': 'Private - only people you invite will see the event',
-  'events.inviting': 'Can people who see this event invite others?',
-  'events.administration': 'Events administration',
-  'events.create.title': 'Create a new event',
-  'events.hostedBy': 'Hosted by {hostName}',
-  'events.openVirtual': 'Go to virtual location',
+  'events.inviting': 'କିମ୍ବା ମାନୁଷମାନଙ୍କ ଯେଉଁଠା ଏହି ଘଟଣା ଦେଖିପାରିବେ କିମ୍ବା ଅନ୍ୟରେ ଆମନ୍ତ୍ରଣ କରିପାରିବେ?',
+  'events.administration': 'ଘଟଣା ପ୍ରଶାସନ',
+  'events.create.title': 'ନୂତନ ଘଟଣା ତିଆରି କରନ୍ତୁ',
+  'events.hostedBy': '{hostName}ଦ୍ୱାରା ଆଯୋଜିତ',
+  'events.openVirtual': 'ଭର୍ଚୁଆଲ୍ ସ୍ଥାନକୁ ଯାଉଥିବା',
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'Private',
   'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Owner'
+  'event.visibilityShort.owner': 'ମାଲିକ'
 };
