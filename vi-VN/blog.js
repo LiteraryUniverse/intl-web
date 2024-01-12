@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'Tạo một blog mới',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Trang Blog}
+    universe {Trang Vũ trụ}
+    user {Trang Blog}
     other {}
-  } settings`,
+  } Cài đặt`,
     'blog.description': 'Giới thiệu về Blog',
     'blog.theme': 'Giao diện',
     'blog.theme.info': 'Điều chỉnh chủ đề, bạn sẽ có thể thay đổi giao diện của trang. Tính năng này hiện chưa có vào lúc này.',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Xem công khai',
     'blog.post.notfound': 'Không tìm thấy bài viết trong blog',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Vũ trụ}
+    stories {Các câu chuyện độc lập}
+    fanfiction {Công việc Fan Fiction}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Danh sách đây là những câu chuyện đứng một mình, nếu câu chuyện được viết là một phần của một vũ trụ thì sẽ được liệt kê trên trang vũ trụ.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Liên kết xã hội giống như được thiết lập trong {type, select,
+    organization {cài đặt tổ chức}
+    user {hồ sơ người dùng}
     other {}
   }`,
     'blog.social.website': 'Trang web chính thức',
