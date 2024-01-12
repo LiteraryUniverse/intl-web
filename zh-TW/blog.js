@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': '創建一個新的部落格',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {部落格}
+    universe {宇宙頁面}
+    user {部落格}
     other {}
-  } settings`,
+  } 設定`,
     'blog.description': '部落格介紹',
     'blog.theme': '主題',
     'blog.theme.info': '通過調整主題，您將能夠改變頁面的外觀。此功能目前尚未準備好。',
