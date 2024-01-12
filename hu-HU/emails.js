@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Megerősítés a felhasználói e-mail címről',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'A fiókodat frissítettük',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Frissítettük a fiókodat a következőre: {plan, select,
+    explorer {Felfedező}
+    adventurer {Kalandor}
+    storyteller {Mesemondó}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } szintre a következő {days} napra.\n\nJó szórakozást,\nLiterary Universe csapat`,
+    'email.adminUpgrade.messageHtml': `Frissítettük a fiókodat a következőre: {plan, select,
+    explorer {Felfedező}
+    adventurer {Kalandor}
+    storyteller {Mesemondó}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } szintre a következő {days} napra. Jó szórakozást!`,
+    'email.verification': 'E-mail ellenőrzése',
+    'email.verifying': 'Az e-mail ellenőrzése. Ez csak egy pillanat...',
+    'email.verified': 'Nagyszerű hír! Az e-mail címed ellenőrzésre került!'
 };    /* eslint-enable max-len */
