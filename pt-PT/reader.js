@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'O autor está atualmente dando uma pausa nesta história e ela está em hiato por enquanto. Volte daqui a um ou dois meses.',
     'reader.storyCancelled': 'Infelizmente é isso. A história foi cancelada, então é improvável que haja algo novo.',
     'reader.storyCancelled.heading': 'Cancelado',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
+    'reader.nextChapterEstimation.verySoon': 'Com base nas datas de publicação dos últimos {chaptersCount, number} capítulos, o próximo capítulo deve ser lançado muito em breve.',
+    'reader.nextChapterEstimation.days': 'Com base nas datas de publicação dos últimos {chaptersCount, number} capítulos, o próximo capítulo deve estar disponível em aproximadamente {daysLeft, plural, one {1 dia} other {# dias}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Também forneceremos uma estimativa de quando o próximo capítulo poderá ser publicado assim que esta história tiver mais de um capítulo.'
 };
