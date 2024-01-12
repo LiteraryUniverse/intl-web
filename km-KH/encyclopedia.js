@@ -29,7 +29,7 @@ export default {
     other {# ធាតុដែលទាក់ទង}
   } រកឃើញ។`,
     'encyclopedia.help.text': 'ប្រើម៉ឺនុយនៅផ្នែកឆ្វេងដើម្បីរកមើលរាល់ធាតុនៅក្នុងសៀវភៅបណ្ដាញ។ នៅពេលដែលអ្នកជ្រើសរើសធាតុមួយហើយ វានឹងត្រូវបានបង្ហាញជាមួយអត្ថបទនេះ។',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    'encyclopedia.help.sidebar': 'ឧបករណ៍របារឧបករណ៍របារផ្ទៃខាងឆ្វេង',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'សូមស្វាគមន៍ទៅកាន់សៀវភៅបណ្ដាញរបស់ {universe} ។',
     'encyclopedia.add.title': 'បន្ថែមធាតុថ្មីទៅក្នុងសៀវភៅបណ្ដាញ',
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `ប្រភេទធាតុ: {category, select,
+    character {តួនាទី}
+    event {ព្រឹក្សា}
+    group {ក្រុម}
+    item {ធាតុ}
+    location {ទីកន្លែង}
+    other {ចំណាំ}
+    state {រដ្ឋ}
+    governments {រាជធានី}
+    languages {ភាសា}
+    creatures {សត្វ}
+    deity {អមជ្ឈមណ្ឌល}
+    religions {សាសនា}
+    flora {រឿងជាតិ}
+    magic {ប្រេងសាំង}
+    planets {ផលប៉ះពាល់}
+    species {ម៉ាស៊ីន}
+    technologies {ប្រព័ន្ធបន្ទប់បន្តិច}
   }`,
     'encyclopedia.entry.category.legend': 'ប្រភេទ',
     'encyclopedia.fields.add': 'បន្ថែមវាលថ្មី',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } ធាតុ។`,
     'enc.entries.limitReached': 'អ្នកបានដាក់បញ្ចូលចំណាត់ថ្នាក់អតិបរមា​សំរាប់ធាតុវិទ្យាចំណាត់ថ្នាក់របស់អ្នកហើយ។',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'ការត្រួតពិនិត្យប្រភេទទូរស័ព្ទ',
+    'encyclopedia.pronunciation.title': 'ការបញ្ចេញសម្រាប់សន្លឹកមធ្យមសញ្ញានីយ៍',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'ការងារកំពុងធ្វើបច្ចុប្បន្ន'
 };
