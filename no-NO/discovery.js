@@ -33,14 +33,14 @@ export default {
     'discover.search.license': 'Opphavsrettlisens',
     'discover.search.language': 'Språk',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {Ingen universer samsvarer med parameterne dine}
+        one {1 univers funnet}
+        other {# universer funnet}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {Ingen historier samsvarer med parameterne dine}
+        one {1 historie funnet}
+        other {# historier funnet}
     }.`,
     'discover.viewSelection.aria': 'Visningsvalg',
     'discover.searchDisplay.covers': 'Liste over omslag',
