@@ -4,19 +4,19 @@ export default {
     'form.validator.mustBeNumber': 'Πρέπει να είναι αριθμός',
     'form.validator.minNumber': 'Πρέπει να είναι μεγαλύτερη από {min, number}',
     'form.validator.maxNumber': 'Θα πρέπει να είναι μικρότερη από {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.maxLength': `Θα πρέπει να είναι λιγότερο από {max, number} {what, select,
+    characters {χαρακτήρες}
+    tags {ετικέτες}
+    genres {είδη}
+    numbers {αριθμοί}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Θα πρέπει να είναι τουλάχιστον {min, number} {what, select,
+    characters {χαρακτήρες}
+    tags {ετικέτες}
+    genres {είδη}
+    genre {είδος}
+    numbers {αριθμοί}
     other {}
   }`,
     'form.validator.email': 'Πρέπει να είναι έγκυρο e-mail',
@@ -29,9 +29,9 @@ export default {
     'form.validator.whitespace': 'Δεν πρέπει να έχει λευκό χώρο',
     'form.validator.zipCode': 'Πρέπει να είναι έγκυρος ταχυδρομικός κώδικας',
     'form.validator.isbn': 'Δεχόμαστε μόνο 10 ή 13 έκδοση του ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.btc': 'Αυτή δεν είναι μια έγκυρη διεύθυνση BTC.',
+    'form.validator.eth': 'Αυτή δεν είναι μια έγκυρη διεύθυνση ETH.',
+    'form.weakPassword': 'Αυτός ο κωδικός φαίνεται αδύναμος. Παρακαλώ λάβετε υπόψη να τον κάνετε πιο ισχυρό προσθέτοντας αριθμούς και ειδικούς χαρακτήρες.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': 'Το πεδίο {label} είναι απαραίτητο',
