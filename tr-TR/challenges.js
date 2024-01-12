@@ -16,7 +16,7 @@ export default {
     'challenges.startDate': 'Başlangıç tarihi',
     'challenges.endDate': 'Bitiş tarihi',
     'challenges.future': 'Yaklaşan meydan okumaları',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': '{endDate, date, short}ile başlayan {startDate, date, short} kelime sayısı meydan okuması, hedefi {target, number} olan bir etkinlik.',
     'challenges.future.nanowrimo': 'NaNoWriMo meydan okuması hazır.',
     'challenges.wordcount': 'Kelime sayısı',
     'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Rapor',
     'challenges.victory': 'Tebrikler! Bu meydan okumayı tamamladınız.',
     'challenges.defeat': 'Maalesef bu meydan okumayı tamamlayamadınız.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Bu hikayenin mevcut kelime sayısı {wordcount, number}, bu başlangıç noktası olacak.',
     // NaNoWriMo
     'nanowrimo.full': 'Ulusal Roman Yazma Ayı',
     'nanowrimo.site': 'NaNoWriMo resmi sitesi',
