@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Srautas',
     'feed.post.new': 'Naujas įrašas',
     'feed.post.like': 'Patinka įrašas',
     'feed.post.unlike': 'Nepatinka įrašas',
