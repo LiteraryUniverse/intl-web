@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'રેટિંગ',
+    'rating.explained': 'ઉંમર રેટિંગ અને પ્રતિબંધ.',
+    'rating.all': 'બધા',
+    'rating.desc.all': 'બધી ઉંમરો અને જૂથો માટે ઉપયોગી.',
+    'rating.teens': 'ટીનેજર્સ',
+    'rating.desc.teens': '12 થી 18 વર્ષ ની વયગત માટે યોગ્ય.',
+    'rating.mature': 'પક્કી',
+    'rating.desc.mature': 'આગળની વિષયો, કચો ભાષા અને નિહિત દૃશ્યો ધરાવે છે.',
+    'rating.explicit': 'પ્રત્યક્ષ',
+    'rating.desc.explicit': 'પ્રત્યક્ષ દૃશ્યો ધરાવે છે.',
+    'rating.selection.all': 'બધા - બધી ઉંમરો અને જૂથો માટે ઉપયોગી.',
+    'rating.selection.teens': 'ટીનેજર્સ (12-18) - 12 થી 18 વર્ષ ની વયગત માટે યોગ્ય.',
+    'rating.selection.mature': 'પક્કી (18+) - આગળની વિષયો, કચો ભાષા અને નિહિત દૃશ્યો ધરાવે છે.',
+    'rating.selection.explicit': 'પ્રત્યક્ષ (21+) - પ્રત્યક્ષ દૃશ્યો ધરાવે છે.'
 };
