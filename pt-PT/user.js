@@ -33,21 +33,21 @@ export default {
     'user.verification.luEmployee': 'Empregado do Universo Literário',
     'user.verification.publicFigure': 'Figura pública verificada',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {história}
+    other {histórias}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {universo}
+    other {universos}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
     other {fan fictions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Obras',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Lista de desejos',
+    'profile.storiesBy': 'Histórias criadas por {username}',
+    'profile.universesBy': 'Universos criados por {username}',
+    'profile.fanFictionBy': 'Fan Fiction criada por {username}'
 };
