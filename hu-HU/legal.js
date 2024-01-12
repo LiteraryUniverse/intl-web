@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Elnézést a közbeavatkozásért. Azonban mielőtt továbbengednénk, jogi kötelezettségünk, hogy megbizonyosodjunk arról, hogy tisztában van és egyetért a Szolgáltatási Feltételeinkkel, Adatvédelmi Irányelveinkkel és Szerzői Jogi Megállapodásunkkal.',
+    'legal.modal.agree': 'Elfogadom',
+    'legal.modal.disagree': 'Nem értek egyet',
+    'legal.modal.register': 'Ha regisztrál, többé nem fogja látni ezt.',
+    'legal.modal.goToSettings': 'Menjen a beállításokhoz',
+    'legal.modal.oneLastThing': 'Még egy utolsó dolog...',
+    'legal.modal.finish': 'Befejezés',
+    'legal.modal.existingUser': 'Már regisztráltál?',
+    'legal.modal.pleaseLogin': 'Kérlek jelentkezz be.'
 };
