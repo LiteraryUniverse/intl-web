@@ -8,10 +8,10 @@ export default {
     'blog.create': 'Yeni bir blog oluştur',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Evren sayfası}
     user {Blog}
     other {}
-  } settings`,
+  } ayarları`,
     'blog.description': 'Blog tanıtımı',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Sayfanın görünümünü değiştirmek için tema ayarlarını düzenleyebilirsiniz. Bu özellik şu anda kullanıma hazır değil.',
