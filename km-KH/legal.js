@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'សូមទោសប្រយ័ត្ន។ មុនពេលយើងអនុញ្ញាតឱ្យអ្នកបន្តទៅមកបន្តផ្សាយបន្តិចបន្តឹមការប្រើប្រាស់របស់យើង យើងត្រូវការឲ្យអ្នកដឹងពី និងយល់ពីគោលនយោបាយរបស់យើង ដូច្នេះអ្នកគួរតែយល់ពីនិងយល់ពីការប្រើប្រាស់របស់យើងដើម្បីបន្តផ្សាយបន្តិចបន្តឹមការប្រើប្រាស់របស់យើង។',
+    'legal.modal.agree': 'យល់ពីនេះ',
+    'legal.modal.disagree': 'មិនយល់ពីនេះ',
+    'legal.modal.register': 'អ្នកនឹងមិនឃើញវា​ទេទើបអ្នកចុះឈ្មោះរួចហើយ។',
+    'legal.modal.goToSettings': 'ទៅកាន់ការកំណត់របស់អ្នក',
+    'legal.modal.oneLastThing': 'មួយផ្សេងទៀតទេ...',
+    'legal.modal.finish': 'បញ្ចប់',
+    'legal.modal.existingUser': 'បានចុះឈ្មោះរួចហើយមែនទេ?',
+    'legal.modal.pleaseLogin': 'សូមចូលប្រើប្រាស់។'
 };
