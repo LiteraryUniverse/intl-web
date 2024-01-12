@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Bu e-posta adresini doğrula',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Hesabınız yükseltilmiştir',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Hesabınızı {plan, select,
+    explorer {Gezgin}
+    adventurer {Maceraperest}
+    storyteller {Hikayeci}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } seviyesine yükselttik. Bir sonraki {days} gün boyunca geçerli.\n\nKeyfini çıkarın,\nLiterary Universe ekibi`,
     'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verification': 'E-posta doğrulama',
+    'email.verifying': 'E-postanızı doğruluyoruz. Bu birkaç dakika sürebilir...',
+    'email.verified': 'Harika haber! E-postanız doğrulandı!'
 };    /* eslint-enable max-len */
