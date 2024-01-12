@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'Legg til bibliotek',
+    'library.remove': 'Fjern fra bibliotek',
+    'library.bought': 'Kjøpte historier',
+    'library.stories': 'Følgte historier',
+    'library.universes': 'Fulgte universer',
+    'bookmark.continueReading': 'Fortsett å lese',
+    'bookmark.statusSummary': 'Du har lest {readPercent, number, ::percent} av historien.'
 };
