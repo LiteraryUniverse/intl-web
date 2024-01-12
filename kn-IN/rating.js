@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'ರೇಟಿಂಗ್',
+    'rating.explained': 'ವಯಸ್ಸಾಗಿ ಮತ್ತು ಪ್ರತಿಬಂಧಗಳು ರೇಟಿಂಗ್.',
+    'rating.all': 'ಎಲ್ಲಾ',
+    'rating.desc.all': 'ಎಲ್ಲಾ ವಯಸ್ಸು ಮತ್ತು ಗುಂಪುಗಳಿಗೆ ಸುಲಭವಾಗಿ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯ.',
+    'rating.teens': 'ಟೀನೇಜರ್ಸ್',
+    'rating.desc.teens': '12 ವರ್ಷದ ಮತ್ತು 18 ವರ್ಷಗಳ ನಡುವೆ ಪ್ರೇಕ್ಷಕರಿಗೆ ಸೂಕ್ತವಾಗಿದೆ.',
+    'rating.mature': 'ಪರಿಪಕ್ವ',
+    'rating.desc.mature': 'ಮುಂದಿನ ವಿಷಯಗಳನ್ನು, ಕಸರತ್ತು ಭಾಷೆಯನ್ನೂ ಗೋಚರಿಸುವ ದೃಶ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.',
+    'rating.explicit': 'ನಿರ್ದಿಷ್ಟ',
+    'rating.desc.explicit': 'ನಿರ್ದಿಷ್ಟ ದೃಶ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.',
+    'rating.selection.all': 'ಎಲ್ಲಾ - ಎಲ್ಲಾ ವಯಸ್ಸು ಮತ್ತು ಗುಂಪುಗಳಿಗೆ ಸುಲಭವಾಗಿ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯ.',
+    'rating.selection.teens': 'ಟೀನೇಜರ್ಸ್ (12-18) - 12 ವರ್ಷದ ಮತ್ತು 18 ವರ್ಷಗಳ ನಡುವೆ ಪ್ರೇಕ್ಷಕರಿಗೆ ಸೂಕ್ತವಾಗಿದೆ.',
+    'rating.selection.mature': 'ಪರಿಪಕ್ವ (18+) - ಮುಂದಿನ ವಿಷಯಗಳನ್ನು, ಕಸರತ್ತು ಭಾಷೆಯನ್ನೂ ಗೋಚರಿಸುವ ದೃಶ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.',
+    'rating.selection.explicit': 'ನಿರ್ದಿಷ್ಟ (21+) - ನಿರ್ದಿಷ್ಟ ದೃಶ್ಯಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.'
 };
