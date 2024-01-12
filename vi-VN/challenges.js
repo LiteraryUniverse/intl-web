@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Ngày bắt đầu',
     'challenges.endDate': 'End date',
     'challenges.future': 'Thử thách sắp tới',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Thử thách đếm từ bắt đầu vào {startDate, date, short} với mục tiêu là {target, number} vào {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Thử thách NaNoWriMo đã sẵn sàng.',
     'challenges.wordcount': 'Số từ',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Đặt mục tiêu cho bản thân về số từ bạn muốn viết trong tháng này cho câu chuyện {type, select,
+    story {trong vũ trụ}
+    universe {}
     other {}
   }.`,
     'challenges.wordcount.select': 'Bạn muốn thách thức bản thân bao nhiêu từ?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Báo cáo',
     'challenges.victory': 'Chúc mừng! Bạn đã hoàn thành thử thách này.',
     'challenges.defeat': 'Rất tiếc, bạn chưa hoàn thành thử thách này.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Số từ hiện tại của câu chuyện này là {wordcount, number}, đây sẽ là điểm bắt đầu.',
     // NaNoWriMo
     'nanowrimo.full': 'Tháng viết tiểu thuyết quốc gia',
     'nanowrimo.site': 'Trang web chính thức của NaNoWriMo',
