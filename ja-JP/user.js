@@ -25,21 +25,21 @@ export default {
     'user.verification.luEmployee': 'Lieterary Universe社員',
     'user.verification.publicFigure': '著名人',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {ストーリー}
+    other {ストーリー}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {ユニバース}
+    other {ユニバース}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ファンフィクション}
+    other {ファンフィクション} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': '作品',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'ウィッシュリスト',
+    'profile.storiesBy': '! {username}!が作成したストーリー',
+    'profile.universesBy': '! {username}!が作成したユニバース',
+    'profile.fanFictionBy': '! {username}!が作成したファンフィクション'
 };
