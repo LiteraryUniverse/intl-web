@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Vestlus',
+    'pm.showolder': 'Näita vanemaid sõnumeid',
+    'pm.errors.saysomething': 'Sa peaksid tõesti midagi ütlema...',
+    'pm.errors.addrecipient': 'Peate lisama vähemalt ühe teise kasutaja.',
+    'pm.message': 'Sõnum',
+    'pm.send.message': 'Saada sõnum',
+    'pm.messages.own': 'Sinu sõnumid',
+    'pm.conversations.none': 'Sa ei vestle hetkel kellegagi.',
+    'pm.to': 'Saajale:',
+    'pm.with': 'Vestlus kasutajaga:',
+    'pm.send': 'Saada',
+    'pm.conversations.unreadCount': `Sul on {count, plural,
+    zero {lugemata vestlust}
+    one {üks lugemata vestlus}
+    other {# lugemata vestlust}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
+    'pm.form.minimumParticipants': 'Peate valima saaja.',
     'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
     one {one person}
     other {# people}
   } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.new.aria': 'Uus vestlus',
+    'pm.new.buttonTitle': 'Alusta uut vestlust'
 };
