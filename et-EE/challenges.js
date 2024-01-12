@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Alguskuupäev',
     'challenges.endDate': 'Lõppkuupäev',
     'challenges.future': 'Tulevased väljakutsed',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Sõnade arvu väljakutse algab {startDate, date, short} eesmärgiga kirjutada kokku {target, number} sõna {endDate, date, short}poolt.',
     'challenges.future.nanowrimo': 'NaNoWriMo väljakutse on valmis.',
     'challenges.wordcount': 'Sõnade arv',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Sea endale eesmärk, mitu sõna sa soovid sel kuul kirjutada selle {type, select,
+    story {loo}
+    universe {universumi}
     other {}
   }.`,
     'challenges.wordcount.select': 'Mitu sõna soovite endale väljakutseks seada?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Aruanne',
     'challenges.victory': 'Õnnitlused! Olete selle väljakutse lõpetanud.',
     'challenges.defeat': 'Kahjuks te ei lõpetanud seda väljakutset.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Selle loo hetkene sõnade arv on {wordcount, number}, see saab olema alguspunkt.',
     // NaNoWriMo
     'nanowrimo.full': 'Rahvusvaheline romaani kirjutamise kuu',
     'nanowrimo.site': 'NaNoWriMo ametlik veebisait',
