@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Verifi ĉi tiun retpoŝtan adreson',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Via konto estis plibonigita',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Ni plibonigis vian konton al {plan, select,
+    explorer {Esploristo}
+    adventurer {Aventuristo}
+    storyteller {Rakontisto}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } rango por la venontaj {days} tagoj.\n\nĜuu,\nteamo de Litera Universo`,
+    'email.adminUpgrade.messageHtml': `Ni plibonigis vian konton al {plan, select,
+    explorer {Esploristo}
+    adventurer {Aventuristo}
+    storyteller {Rakontisto}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } rango por la venontaj {days} tagoj. Ĝuu!`,
+    'email.verification': 'Verifo de retpoŝto',
+    'email.verifying': 'Ni verifas vian retpoŝton. Tio nur iom daŭros...',
+    'email.verified': 'Granda novaĵo! Via retpoŝto estis verifita!'
 };    /* eslint-enable max-len */
