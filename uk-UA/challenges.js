@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Дата початку',
     'challenges.endDate': 'Дата закінчення',
     'challenges.future': 'Майбутні виклики',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Виклик на підрахунок слів починається {startDate, date, short} з метою досягнення {target, number} до {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Виклик NaNoWriMo готовий.',
     'challenges.wordcount': 'Кількість слів',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Встановіть собі ціль, скільки слів ви хочете написати цього місяця для цієї {type, select,
+    story {історії}
+    universe {всесвіту}
     other {}
   }.`,
     'challenges.wordcount.select': 'На яку кількість слів ви хочете викликати себе?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Звіт',
     'challenges.victory': 'Вітаємо! Ви завершили цей виклик.',
     'challenges.defeat': 'На жаль, ви не завершили цей виклик.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Поточна кількість слів для цієї історії становить {wordcount, number}, це буде початкова точка.',
     // NaNoWriMo
     'nanowrimo.full': 'Місяць національного написання роману',
     'nanowrimo.site': 'Офіційний сайт NaNoWriMo',
