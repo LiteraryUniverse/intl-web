@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'இந்த மின்னஞ்சல் முகவரியை சரிபார்க்க',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'உங்கள் கணக்கு மேம்படுத்தப்பட்டுள்ளது',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `உங்கள் கணக்கை மேம்படுத்துகின்றோம் {plan, select,
+    explorer {ஆய்வாளர்}
+    adventurer {சாயாளர்}
+    storyteller {கதைப்பாட்டாளர்}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } அடிப்படைக்கு அடுக்கு இருக்கும் {days} நாட்கள்.\n\nமகிழுங்கள்,\nஇலக்கண உலகு அணி`,
+    'email.adminUpgrade.messageHtml': `உங்கள் கணக்கை மேம்படுத்துகின்றோம் {plan, select,
+    explorer {ஆய்வாளர்}
+    adventurer {சாயாளர்}
+    storyteller {கதைப்பாட்டாளர்}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } அடிப்படைக்கு அடுக்கு இருக்கும் {days} நாட்கள். மகிழுங்கள்!`,
+    'email.verification': 'மின்னஞ்சல் சரிபார்ப்பு',
+    'email.verifying': 'உங்கள் மின்னஞ்சலை சரிபார்க்கின்றோம். இது ஒரு குறிப்பு மட்டம் எடுக்கும்...',
+    'email.verified': 'அற்புதமான செய்தி! உங்கள் மின்னஞ்சல் சரிபார்க்கப்பட்டுள்ளது!'
 };    /* eslint-enable max-len */
