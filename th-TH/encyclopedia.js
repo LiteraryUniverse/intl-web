@@ -29,68 +29,68 @@ export default {
     other {รายการที่เกี่ยวข้อง # รายการ}
   } พบ`,
     'encyclopedia.help.text': 'ใช้เมนูทางด้านซ้ายเพื่อนำทางระหว่างรายการในสารานุกรม หลังจากเลือกรายการหนึ่ง เนื้อหาจะถูกแสดงแทนที่ข้อความนี้',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'เครื่องมือแถบด้านข้าง',
+    'encyclopedia.help.sidebar.text': 'ยินดีต้อนรับสู่เรื่องราวของคุณ! แถบด้านข้างนี้ช่วยให้คุณเข้าถึงทรัพยากรที่เกี่ยวข้องกับเรื่องราวของคุณได้อย่างง่ายดาย ตรวจสอบไอคอนด้านบนเพื่อดูความคิดเห็นล่าสุด เช็คโน้ตของคุณ ค้นหาในสารานุกรมของคุณ ค้นหาและเพิ่มรายการใหม่ในสารานุกรมของคุณ หากคุณต้องการเชื่อมต่อกับรายการจากข้อความเรื่องราว ให้เลือกข้อความที่คุณต้องการวางไว้แล้วคลิกที่ปุ่มเชื่อมต่อ จากนั้นคุณจะต้องเลือกและเชื่อมต่อรายการ',
     'encyclopedia.intro': 'ยินดีต้อนรับสู่สารานุกรม {universe}',
     'encyclopedia.add.title': 'เพิ่มรายการใหม่ในสารานุกรม',
     'encyclopedia.add.heading': 'คุณต้องการเพิ่มอะไร?',
     'encyclopedia.add.moresoon': 'หมวดหมู่เพิ่มเติมเร็วๆ นี้',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `สร้าง {category, select,
+    character {ตัวละคร}
+    event {เหตุการณ์}
+    group {กลุ่ม}
+    item {รายการ}
+    location {สถานที่}
+    other {บันทึก}
+    state {สถานะ}
+    governments {รัฐบาล}
+    languages {ภาษา}
+    creatures {สัตว์}
+    deity {เทพ}
+    religions {ศาสนา}
+    flora {พืช}
+    magic {เวทมนตร์}
+    planets {ดาวเคราะห์}
+    species {สายพันธุ์}
+    technologies {เทคโนโลยี}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `สร้าง {category, select,
+    character {ตัวละคร}
+    event {เหตุการณ์}
+    group {กลุ่ม}
+    item {รายการ}
+    location {สถานที่}
+    other {บันทึก}
+    state {สถานะ}
+    governments {รัฐบาล}
+    languages {ภาษา}
+    creatures {สัตว์}
+    deity {เทพ}
+    religions {ศาสนา}
+    flora {พืช}
+    magic {เวทมนตร์}
+    planets {ดาวเคราะห์}
+    species {สายพันธุ์}
+    technologies {เทคโนโลยี}
+  } ใน {universe}`,
+    'encyclopedia.entry.category': `หมวดหมู่ของรายการ: {category, select,
+    character {ตัวละคร}
+    event {เหตุการณ์}
+    group {กลุ่ม}
+    item {สิ่งของ}
+    location {สถานที่}
+    other {บันทึก}
+    state {สถานะ}
+    governments {รัฐบาล}
+    languages {ภาษา}
+    creatures {สัตว์}
+    deity {พระเจ้า}
+    religions {ศาสนา}
+    flora {พืช}
+    magic {มนตร์}
+    planets {ดาวเคราะห์}
+    species {สายพันธุ์}
+    technologies {เทคโนโลยี}
   }`,
     'encyclopedia.entry.category.legend': 'หมวดหมู่',
     'encyclopedia.fields.add': 'เพิ่มฟิลด์ใหม่',
@@ -146,8 +146,8 @@ export default {
     other {ที่ไม่จำกัด{max, number}}
   }`,
     'enc.entries.limitReached': 'คุณได้ถึงจำนวนสูงสุดของรายการสารานุกรมที่อนุญาตสำหรับการสมัครสมาชิกปัจจุบันของคุณ',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'ควบคุมในสารานุกรม',
+    'encyclopedia.pronunciation.title': 'การออกเสียง',
+    'encyclopedia.wip.abbreviation': 'กำลังทำงาน',
+    'encyclopedia.wip.full': 'กำลังปรับปรุง'
 };
