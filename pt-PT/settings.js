@@ -72,7 +72,7 @@ export default {
     'settings.links.description': 'Esses links serão exibidos na sua página de perfil.',
     'settings.links.website': 'O seu website pessoal',
     'settings.links.social': 'Outros websites',
-    'settings.links.select': 'Select website to add',
+    'settings.links.select': 'Selecionar website para adicionar',
     // 2FA
     'settings.2fa.title': 'Autenticação com dois fatores',
     'settings.2fa.explained': 'A autenticação com dois fatores proporciona uma camada adicional de segurança para a sua conta, acrescentando um passo adicional de autenticação ao iniciar sessão. Isto evita que atores maliciosos tenham acesso à sua conta se a sua primeira etapa de conexão for comprometida.',
@@ -113,6 +113,6 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternar na cor de fundo do parágrafo',
     'settings.accessibility.paragraphHighlighting': 'Destaque o parágrafo atual que que está a sobrevoar',
     'settings.accessibility.ruler': 'Anexe uma régua ao rato',
-    'settings.tab.legal': 'Legal documents',
-    'settings.tab.exportDelete': 'Export data & delete account'
+    'settings.tab.legal': 'Documentos legais',
+    'settings.tab.exportDelete': 'Exportar dados e excluir conta'
 };
