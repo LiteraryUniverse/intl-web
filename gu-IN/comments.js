@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'તમારી ટિપ્પણી લખો',
+    'comments.none': 'માફ કરશો, કોઈ ટિપ્પણીઓ બતાવવા માટે નથી.',
+    'comments.total': `અહીં {count, plural,
+    =0 {કોઈ ટિપ્પણીઓ નથી}
+    one {એક ટિપ્પણી છે}
+    other {# ટિપ્પણીઓ છે}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'જૂની ટિપ્પણીઓ બતાવો'
 };
