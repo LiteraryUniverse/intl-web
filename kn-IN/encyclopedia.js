@@ -29,68 +29,68 @@ export default {
     other {# ಸಂಬಂಧಿತ ಪ್ರವೇಶಗಳು}
   } ಕಂಡು ಬಂದಿಲ್ಲ.`,
     'encyclopedia.help.text': 'ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾದ ವಿಷಯಗಳ ನಡುವೆ ನಾವು ಸಂಚರಿಸಲು ಎಡದ ಮೆನುವನ್ನು ಬಳಸಿ. ಒಂದು ವಿಷಯವನ್ನು ಆಯ್ಕೆ ಮಾಡಿದ ಮೇಲೆ, ಇದರ ಜಾಗದಲ್ಲಿ ಈ ಪಠ್ಯ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    'encyclopedia.help.sidebar': 'ಸೈಡ್‌ಬಾರ್ ಟೂಲ್‌ಬಾಕ್ಸ್',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'ಸ್ವಾಗತ! {universe} ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾಗೆ.',
     'encyclopedia.add.title': 'ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾಗೆ ಹೊಸ ಪ್ರವೇಶ ಸೇರಿಸಿ',
     'encyclopedia.add.heading': 'ನೀವು ಏನು ಸೇರಿಸಲು ಬಯಸುವಿರಿ?',
     'encyclopedia.add.moresoon': 'ಹೆಚ್ಚಿನ ವರ್ಗಗಳು ಬರುತ್ತಿವೆ!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `ಹೊಸ {category, select,
+    character {ಪಾತ್ರ}
+    event {ಘಟನೆ}
+    group {ಗುಂಪು}
+    item {ವಸ್ತು}
+    location {ಸ್ಥಳ}
+    other {ನೋಟ}
+    state {ರಾಜ್ಯ}
+    governments {ಸರ್ಕಾರ}
+    languages {ಭಾಷೆ}
+    creatures {ಜೀವ}
+    deity {ದೈವ}
+    religions {ಧರ್ಮ}
+    flora {ಸಸ್ಯ}
+    magic {ಮಾಯಾ}
+    planets {ಗ್ರಹ}
+    species {ಜಾತಿ}
+    technologies {ತಂತ್ರಜ್ಞಾನ}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `ಹೊಸ {category, select,
+    character {ಪಾತ್ರ}
+    event {ಘಟನೆ}
+    group {ಗುಂಪು}
+    item {ವಸ್ತು}
+    location {ಸ್ಥಳ}
+    other {ನೋಟ}
+    state {ರಾಜ್ಯ}
+    governments {ಸರ್ಕಾರ}
+    languages {ಭಾಷೆ}
+    creatures {ಜೀವ}
+    deity {ದೈವ}
+    religions {ಧರ್ಮ}
+    flora {ಸಸ್ಯ}
+    magic {ಮಾಯಾ}
+    planets {ಗ್ರಹ}
+    species {ಜಾತಿ}
+    technologies {ತಂತ್ರಜ್ಞಾನ}
+  } ನಲ್ಲಿ {universe}`,
+    'encyclopedia.entry.category': `ಪ್ರವೇಶ ವರ್ಗ: {category, select,
+    character {ಪಾತ್ರ}
+    event {ಸಂಭ್ರಮ}
+    group {ಗುಂಪು}
+    item {ವಸ್ತು}
+    location {ಸ್ಥಳ}
+    other {ನೋಟ}
+    state {ಸ್ಥಿತಿ}
+    governments {ಸರ್ಕಾರ}
+    languages {ಭಾಷೆ}
+    creatures {ಪ್ರಾಣಿ}
+    deity {ದೈವತ}
+    religions {ಧರ್ಮ}
+    flora {ಸಸ್ಯ}
+    magic {ಮಾಯಾಚಕ್ರ}
+    planets {ಗ್ರಹ}
+    species {ಜಾತಿ}
+    technologies {ತಂತ್ರಜ್ಞಾನ}
   }`,
     'encyclopedia.entry.category.legend': 'ವರ್ಗ',
     'encyclopedia.fields.add': 'ಹೊಸ ಕ್ಷೇತ್ರ ಸೇರಿಸಿ',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'ನೀವು ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಚಂಚಲನದ ಪತ್ರಿಕೆಗಾಗಿ ಅನುಮತಿತ ಮಹತ್ತರಗಳನ್ನು ಮುಟ್ಟಿದ್ದೀರಿ.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'ದಿದ್ಯೆಗಳು ನಿಯಂತ್ರಣಗಳು',
+    'encyclopedia.pronunciation.title': 'ಉಚ್ಚಾರಣೆ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'ಕೆಲಸ ನಡೆಸುತ್ತಿದೆ'
 };
