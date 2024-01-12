@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Pahoittelut keskeytyksestä. Mutta ennen kuin päästämme sinut etenemään, meidän on laillisesti varmistettava, että olet tietoinen ja hyväksyt palveluehtomme, tietosuojakäytäntömme ja tekijänoikeussopimuksemme.',
+    'legal.modal.agree': 'Hyväksyn',
+    'legal.modal.disagree': 'En hyväksy',
+    'legal.modal.register': 'Et näe tätä enää, jos rekisteröidyt.',
+    'legal.modal.goToSettings': 'Siirry asetuksiisi',
+    'legal.modal.oneLastThing': 'Viimeinen asia...',
+    'legal.modal.finish': 'Valmis',
+    'legal.modal.existingUser': 'Jo rekisteröitynyt?',
+    'legal.modal.pleaseLogin': 'Kirjaudu sisään.'
 };
