@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
+  'readingList.title': 'Danh sách đọc',
+  'readingList.type.label': 'Loại danh sách',
   'readingList.type.stories': 'Câu chuyện',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.type.universes': 'Các vũ trụ',
+  'readingList.ordered.label': 'Danh sách xếp hạng',
+  'readingList.button.add': 'Thêm vào danh sách đọc',
+  'readingList.selectList': 'Chọn danh sách đọc',
+  'readingList.create': 'Tạo danh sách đọc mới',
+  'readingList.create.aria': 'Cửa sổ hiển thị cài đặt cho danh sách đọc mới',
+  'readingList.edit.aria': 'Cửa sổ hiển thị cài đặt để chỉnh sửa danh sách đọc',
+  'readingList.library.title': 'Danh sách đọc của bạn',
+  'readingList.public.label': 'Có hiển thị công khai không?',
+  'readingList.addItem': `Thêm {type, select,
+    universes {vũ trụ}
+    stories {câu chuyện}
+    other {câu chuyện và vũ trụ}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Cửa sổ hiển thị để thêm {type, select,
+    universes {vũ trụ}
+    stories {câu chuyện}
+    other {câu chuyện và vũ trụ}
+  } vào danh sách đọc.`,
+  'readingList.addItem.fromLibrary': 'Từ thư viện',
+  'readingList.button.added': 'Đã thêm'
 };
