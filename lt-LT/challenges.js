@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Pradžios data',
     'challenges.endDate': 'Pabaigos data',
     'challenges.future': 'Artėjantys iššūkiai',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Iššūkis žodžių skaičiui prasideda {startDate, date, short} su tikslu pasiekti {target, number} iki {endDate, date, short}.',
     'challenges.future.nanowrimo': 'NaNoWriMo iššūkis yra pasiruošęs.',
     'challenges.wordcount': 'Žodžių skaičius',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Nustatykite sau tikslą, kiek žodžių norite parašyti šį mėnesį šiai {type, select,
+    story {istorijai}
+    universe {visatoje}
     other {}
   }.`,
     'challenges.wordcount.select': 'Keliems žodžiams norite iškelti sau iššūkį?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Ataskaita',
     'challenges.victory': 'Sveikiname! Jūs baigėte šį iššūkį.',
     'challenges.defeat': 'Deja, jūs nepavykdėte šio iššūkio.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Šios istorijos dabartinis žodžių skaičius yra {wordcount, number}, tai bus pradžios taškas.',
     // NaNoWriMo
     'nanowrimo.full': 'Nacionalinė romanų rašymo mėnuo',
     'nanowrimo.site': 'NaNoWriMo oficialus tinklalapis',
