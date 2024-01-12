@@ -35,7 +35,7 @@ export default {
     'feedback.reportType.vulgar': 'བྱེད་མི་བྱེད་པ།',
     'feedback.reportType.copyright': 'དཀར་ཆག་ཆོས་འབྱེད།',
     'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
+    'feedback.reportType.scam': 'བརྗེའི་འབྲེལ་བ།',
     'feedback.report.submit': 'Report',
     'feedback.report.submitting': 'Reporting...',
     'feedback.report.violationDesc': 'Details',
@@ -45,7 +45,7 @@ export default {
     'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
     'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
     'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
+    'feedback.reportType.other': 'གཞན་པ།',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
