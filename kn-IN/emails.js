@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'ಈ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಪರಿಶೀಲಿಸಿ',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'ನಿಮ್ಮ ಖಾತೆಗೆ ಮೇಲ್ಪಂಕ್ತಿ ಆಗಿದೆ',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `ನಿಮ್ಮ ಖಾತೆಯನ್ನು {plan, select,
+    explorer {ಎಕ್ಸ್ಪ್ಲೋರರ್}
+    adventurer {ಅಡ್ವೆಂಚರರ್}
+    storyteller {ಸ್ಟೋರಿಟೆಲರ್}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } ಟಿಯರ್ ಗೆ {days} ದಿನಗಳವರೆಗೆ ನವೀಕರಿಸಲಾಗಿದೆ.\n\nಆನಂದಿಸಿ,\nಲಿಟರರಿ ಯೂನಿವರ್ಸ್ ತಂಡ`,
+    'email.adminUpgrade.messageHtml': `ನಿಮ್ಮ ಖಾತೆಯನ್ನು {plan, select,
+    explorer {ಎಕ್ಸ್ಪ್ಲೋರರ್}
+    adventurer {ಅಡ್ವೆಂಚರರ್}
+    storyteller {ಸ್ಟೋರಿಟೆಲರ್}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } ಟಿಯರ್ ಗೆ {days} ದಿನಗಳವರೆಗೆ ನವೀಕರಿಸಲಾಗಿದೆ. ಆನಂದಿಸಿ!`,
+    'email.verification': 'ಇಮೇಲ್ ಪರಿಶೀಲನೆ',
+    'email.verifying': 'ನಿಮ್ಮ ಇಮೇಲ್ ಪರಿಶೀಲಿಸುವುದು. ಇದು ಕೆಲವು ಕ್ಷಣಗಳಲ್ಲಿ ಮಾತ್ರ ನಿರೀಕ್ಷಿಸುತ್ತದೆ...',
+    'email.verified': 'ಉತ್ತಮ ಸುದ್ದಿ! ನಿಮ್ಮ ಇಮೇಲ್ ಪರಿಶೀಲಿತವಾಗಿದೆ!'
 };    /* eslint-enable max-len */
