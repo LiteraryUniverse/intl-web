@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'הוסף לספריה',
+    'library.remove': 'הסר מהספריה',
+    'library.bought': 'סיפורים שנרכשו',
+    'library.stories': 'סיפורים שנמצאים במעקב',
+    'library.universes': 'יקומי המערכת',
+    'bookmark.continueReading': 'המשך לקרוא',
+    'bookmark.statusSummary': 'קראת {readPercent, number, ::percent} מהסיפור.'
 };
