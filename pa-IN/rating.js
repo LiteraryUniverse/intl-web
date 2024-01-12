@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'ਰੇਟਿੰਗ',
+    'rating.explained': 'ਉਮਰ ਰੇਟਿੰਗ ਅਤੇ ਪਾਬੰਦੀ।',
+    'rating.all': 'ਸਭ',
+    'rating.desc.all': 'ਸਭ ਉਮਰਾਂ ਅਤੇ ਗਰੁੱਪਾਂ ਲਈ ਪਹੁੰਚਯੋਗ।',
+    'rating.teens': 'ਟੀਨਜ਼',
+    'rating.desc.teens': '12 ਤੋਂ 18 ਸਾਲ ਦੀ ਉਡੀਕ ਵਾਲੇ ਦਰਸ਼ਕਾਂ ਲਈ ਉਪਯੋਗੀ।',
+    'rating.mature': 'ਪ੍ਰਸੰਗਿਕ',
+    'rating.desc.mature': 'ਉੱਚ-ਤਾਂਤਰਿਕ ਵਿਸ਼ਾ, ਬੇਅਦਬੀ ਭਾਸ਼ਾ ਅਤੇ ਅਵਾਂਛਨਾਤਮਕ ਦਰਸ਼ਨਾਂ ਸ਼ਾਮਲ ਹਨ।',
+    'rating.explicit': 'ਸਪ਷ਟ',
+    'rating.desc.explicit': 'ਸਪ਷ਟ ਦਰਸ਼ਨਾਂ ਸ਼ਾਮਲ ਹਨ।',
+    'rating.selection.all': 'ਸਭ - ਸਭ ਉਮਰਾਂ ਅਤੇ ਗਰੁੱਪਾਂ ਲਈ ਪਹੁੰਚਯੋਗ।',
+    'rating.selection.teens': 'ਟੀਨਜ਼ (12-18) - 12 ਤੋਂ 18 ਸਾਲ ਦੀ ਉਡੀਕ ਵਾਲੇ ਦਰਸ਼ਕਾਂ ਲਈ ਉਪਯੋਗੀ।',
+    'rating.selection.mature': 'ਪ੍ਰਸੰਗਿਕ (18+) - ਉੱਚ-ਤਾਂਤਰਿਕ ਵਿਸ਼ਾ, ਬੇਅਦਬੀ ਭਾਸ਼ਾ ਅਤੇ ਅਵਾਂਛਨਾਤਮਕ ਦਰਸ਼ਨਾਂ ਸ਼ਾਮਲ ਹਨ।',
+    'rating.selection.explicit': 'ਸਪ਷ਟ (21+) - ਸਪ਷ਟ ਦਰਸ਼ਨਾਂ ਸ਼ਾਮਲ ਹਨ।'
 };
