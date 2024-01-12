@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'Kebijakan Privasi',
     'common.legal.copyright': 'Persetujuan Hak Cipta',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Syarat Layanan}
+    community {Pedoman Komunitas}
+    privacy {Kebijakan Privasi}
+    copyright {Perjanjian Hak Cipta}
+    publishingAgreement {Perjanjian Penerbitan}
+    other {Perjanjian}
+  } Versi {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Versi baru ({newVersion}) dari dokumen ini akan berlaku pada {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Hak cipta dilindungi undang-undang, semua karya adalah milik penulis masing-masing.',
     'premium.only.title': 'Rank membership tidak cukup tinggi',
@@ -101,10 +101,10 @@ export default {
     'premium.only.join': 'Kami menawarkan berbagai paket kepada semua orang untuk mendapatkan hasil maksimal dari Literary Universe.',
     'premium.only.link': 'Lihat ini!',
     'universe.visit': 'Kunjungi halaman universe',
-    'common.fanmanager': 'Fan manager',
-    'common.fanarts': 'Fan arts',
-    'common.fanfiction': 'Fan fiction',
-    'common.fansettings': 'Fan settings',
+    'common.fanmanager': 'Manajer penggemar',
+    'common.fanarts': 'Seni penggemar',
+    'common.fanfiction': 'Fiksi penggemar',
+    'common.fansettings': 'Pengaturan penggemar',
     'story.chapter': 'Bab',
     'story.chapters': 'Bab',
     'story.genre': 'Genre',
@@ -192,7 +192,7 @@ export default {
     'common.members': 'Anggota',
     'common.language': 'Bahasa',
     next: 'Selanjutnya',
-    previous: 'Previous',
+    previous: 'Sebelumnya',
     'common.legal.tos.short': 'Ketentuan',
     'common.legal.privacy.short': 'Privasi',
     'premium.increaseLimit': 'Pertimbangkan meng-upgrade untuk menaikkan limit Anda.',
@@ -234,29 +234,29 @@ export default {
     'common.events': 'Kegiatan',
     'common.event': 'Kegiatan',
     'common.all': 'Semua',
-    'common.social': 'Social',
+    'common.social': 'Sosial',
     'common.discordCommunity': 'Komunitas Discord',
     'common.account': 'Akun',
     'common.notifications': 'Notifikasi',
     'common.byDeclaration': 'Oleh:',
-    'common.done': 'Done',
-    recommended: 'Recommended',
-    'select.typeToCreate': 'Start typing to create an item',
-    'select.noSearchResults': 'No results for “{search}”',
-    'select.removeOption': 'Remove {option}',
-    create: 'Create',
-    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services',
-    'common.viewMore': 'View more',
-    'common.overview': 'Overview',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!',
-    'email.hello': 'Hello {username},',
-    'common.back': 'Back',
+    'common.done': 'Selesai',
+    recommended: 'Direkomendasikan',
+    'select.typeToCreate': 'Mulai mengetik untuk membuat item',
+    'select.noSearchResults': 'Tidak ada hasil untuk “{search}”',
+    'select.removeOption': 'Hapus {option}',
+    create: 'Buat',
+    'banner.support': 'Literary Universe didukung oleh pengguna seperti Anda! Pertimbangkan untuk berlangganan salah satu paket langganan kami untuk tetap independen dan membuat Literary Universe menjadi lebih baik!',
+    'banner.seePlans': 'Kunjungi halaman paket kami untuk informasi lebih lanjut.',
+    'common.noAccountQuestion': 'Belum punya akun?',
+    'common.haveAccountQuestion': 'Sudah punya akun?',
+    'common.socialLogin': 'Masuk dengan layanan lain',
+    'common.viewMore': 'Lihat lebih banyak',
+    'common.overview': 'Ikhtisar',
+    'common.loggingOut': 'Keluar',
+    'common.thankYou': 'Terima kasih!',
+    'common.seeYouAgain': 'Sampai jumpa lagi!',
+    'email.hello': 'Halo {username},',
+    'common.back': 'Kembali',
     'console.stop': 'Berhenti!',
     'console.explain': 'Ini adalah fitur peramban yang ditujukan untuk para pengembang. Jika seseorang meminta Anda untuk menyalin-tempel sesuatu di sini untuk mengaktifkan fitur Literary Universe atau "membobol" akun seseorang, itu adalah penipuan dan akan memberikan akses kepada mereka ke akun Literary Universe Anda.'
 }    /* eslint-enable max-len */;
