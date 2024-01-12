@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'రేటింగ్',
+    'rating.explained': 'వయోగ్రాన్ని మరియు పరిమితిని గమనించేందుకు.',
+    'rating.all': 'అన్ని',
+    'rating.desc.all': 'అన్ని వయోజనాలకు మరియు గుంపులకు ప్రాప్యంగా ఉండేందుకు అనుకూలంగా ఉంటుంది.',
+    'rating.teens': 'టీన్స్',
+    'rating.desc.teens': '12 నుండి 18 వయస్సుల మధ్య ప్రేక్షకులకు సరిపడేది.',
+    'rating.mature': 'పెద్దది',
+    'rating.desc.mature': 'ఆధ్వితీయ విషయాలను, మూర్ఖ భాషను మరియు గుట్టుపు దృశ్యాలను కలిగి ఉంటుంది.',
+    'rating.explicit': 'నిర్దిష్టంగా',
+    'rating.desc.explicit': 'నిర్దిష్టంగా దృశ్యాలను కలిగి ఉంటుంది.',
+    'rating.selection.all': 'అన్ని - అన్ని వయోజనాలకు మరియు గుంపులకు ప్రాప్యంగా ఉండేందుకు అనుకూలంగా ఉంటుంది.',
+    'rating.selection.teens': 'టీన్స్ (12-18) - 12 నుండి 18 వయస్సుల మధ్య ప్రేక్షకులకు సరిపడేది.',
+    'rating.selection.mature': 'పెద్దది (18+) - ఆధ్వితీయ విషయాలను, మూర్ఖ భాషను మరియు గుట్టుపు దృశ్యాలను కలిగి ఉంటుంది.',
+    'rating.selection.explicit': 'నిర్దిష్టంగా (21+) - నిర్దిష్టంగా దృశ్యాలను కలిగి ఉంటుంది.'
 };
