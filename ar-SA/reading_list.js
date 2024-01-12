@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
+  'readingList.title': 'قائمة القراءة',
+  'readingList.type.label': 'نوع القائمة',
   'readingList.type.stories': 'قصص',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.type.universes': 'الأكوان',
+  'readingList.ordered.label': 'قائمة مرتبة',
+  'readingList.button.add': 'إضافة إلى قائمة القراءة',
+  'readingList.selectList': 'اختيار قائمة القراءة',
+  'readingList.create': 'إنشاء قائمة قراءة جديدة',
+  'readingList.create.aria': 'نافذة مع إعدادات لقائمة قراءة جديدة',
+  'readingList.edit.aria': 'نافذة مودال لتحرير إعدادات قائمة القراءة',
+  'readingList.library.title': 'قوائم القراءة الخاصة بك',
+  'readingList.public.label': 'هل هو مرئي علنيًا؟',
+  'readingList.addItem': `إضافة {type, select,
+    universes {كون}
+    stories {قصة}
+    other {قصص وكواكب}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `نافذة مودال لإضافة {type, select,
+    universes {كواكب}
+    stories {قصص}
+    other {قصص وكواكب}
+  } إلى قائمة القراءة.`,
+  'readingList.addItem.fromLibrary': 'من المكتبة',
+  'readingList.button.added': 'تمت الإضافة'
 };
