@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Petsa ng simula',
     'challenges.endDate': 'Petsa ng pagtatapos',
     'challenges.future': 'Mga darating na hamon',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Simulan ang hamon sa bilang ng salita sa {startDate, date, short} na may layuning {target, number} sa pamamagitan ng {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Handa na ang hamon ng NaNoWriMo.',
     'challenges.wordcount': 'Bilang ng salita',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Magtakda ng layunin kung ilang salita ang nais mong isulat ngayong buwan para sa kuwentong {type, select,
+    story {sa uniberso ng}
+    universe {}
     other {}
   }.`,
     'challenges.wordcount.select': 'Ilang salita ang nais mong hamunin ang iyong sarili?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Iulat',
     'challenges.victory': 'Congratulations! Natapos mo ang hamong ito.',
     'challenges.defeat': 'Sayang, hindi mo natapos ang hamong ito.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Ang kasalukuyang bilang ng salita para sa kwentong ito ay {wordcount, number}, ito ang magiging simula.',
     // NaNoWriMo
     'nanowrimo.full': 'Buwan ng Pambansang Pagsusulat ng Nobela',
     'nanowrimo.site': 'Opisyal na site ng NaNoWriMo',
