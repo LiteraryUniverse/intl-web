@@ -1,17 +1,17 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Sinulla ei tällä hetkellä ole {type, select,
+    organization {mitään blogia}
+    universe {blogia universumillesi}
+    user {blogia}
     other {}
   }.`,
     'blog.create': 'Luo uusi blogi',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Blogi}
+    universe {Universumi sivu}
+    user {Blogi}
     other {}
-  } settings`,
+  } asetukset`,
     'blog.description': 'Blogiesittely',
     'blog.theme': 'Teema',
     'blog.theme.info': 'Muokkaamalla teemaa voit muuttaa sivun ulkonäköä. Tämä toiminto ei ole tällä hetkellä käytettävissä.',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Julkinen näkymä',
     'blog.post.notfound': 'Blogiviestiä ei löytynyt',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universumit}
+    stories {Erilliset tarinat}
+    fanfiction {Fanifiktio työ}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Tässä luetellaan itsenäiset tarinat. Jos tarina on osa universumia, se näkyy universumin sivulla.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Sosiaaliset linkit ovat samat kuin {type, select,
+    organization {organisaation asetukset}
+    user {käyttäjäprofiili}
     other {}
   }`,
     'blog.social.website': 'Virallinen verkkosivusto',
