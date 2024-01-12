@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Aldoni al amikoj',
+    'user.friend.requests': `Vi havas {num, number} novajn amikajn petojn {num, plural,
+    zero {peto}
+    one {petoj}
+    many {peto}
+    other {petoj}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Forigi amikon',
+    'user.block': 'Blokigi',
+    'user.unblock': 'Malblokigi',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {Aliĝis}
+    female {Aliĝis}
+    other {Aliĝis}} je {date, date, long}`,
+    'user.friend.request.accept': 'Akcepti peton pri amikeco',
+    'user.friend.request.cancel': 'Nuligi peton pri amikeco',
+    'user.friend.request.deny': 'Rifuzi amikecon',
+    'user.listing': 'Listo de uzantoj',
+    'user.profile.visit': 'Viziti la profilon de {user}.',
+    'user.profile.avatar': 'Avataro de {username}',
+    'user.friend.list.requests': 'Petoj pri amikeco',
+    'user.friend.norequests': 'Vi ne havas petojn pri amikeco.',
+    'user.dashboardWelcome': `Bonan matenon {dayPart, select,
+    morning {bonan tagon}
+    afternoon {bonan posttagmezon}
+    evening {bonan vesperon}
+    night {bonan nokton}
+    other {bonan tagon}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Ĉi tiu aŭtoro estas publikigita la tradicia maniero',
+    'user.verification.luAuthor': 'Aŭtoro bazita en Litera Universo de noto',
+    'user.verification.luEmployee': 'Laboranto de Litera Universo',
+    'user.verification.publicFigure': 'Verifita publika figuro',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {rakonto}
+    other {rakontoj}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {universo}
+    other {universoj}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {fanfikcio}
+    other {fanfikcioj} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Verkoj',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Deziro',
+    'profile.storiesBy': 'Rakontoj kreitaj de {username}',
+    'profile.universesBy': 'Universoj kreitaj de {username}',
+    'profile.fanFictionBy': 'Fanfikcio kreita de {username}'
 };
