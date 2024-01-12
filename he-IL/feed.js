@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'פיד',
     'feed.post.new': 'פוסט חדש',
     'feed.post.like': 'אהבת פוסט',
     'feed.post.unlike': 'ביטול אהבת פוסט',
