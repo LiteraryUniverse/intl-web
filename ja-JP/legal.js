@@ -4,8 +4,8 @@ export default {
     'legal.modal.disagree': '同意しません',
     'legal.modal.register': '登録すると今後このメッセージは表示されません。',
     'legal.modal.goToSettings': '設定画面へ進む',
-    'legal.modal.oneLastThing': 'One last thing...',
+    'legal.modal.oneLastThing': '最後のこと...',
     'legal.modal.finish': '完了しました',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.existingUser': 'すでに登録済みですか？',
+    'legal.modal.pleaseLogin': 'ログインしてください。'
 };
