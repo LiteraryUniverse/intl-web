@@ -29,68 +29,68 @@ export default {
     other {# entrades relacionades}
   } trobades.`,
     'encyclopedia.help.text': 'Utilitzeu el menú de l\'esquerra per navegar entre els elements de l\'enciclopèdia. Un cop seleccioneu un element, aquest es mostrarà en lloc d\'aquest text.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Caixa d\'eines de la barra lateral',
+    'encyclopedia.help.sidebar.text': 'Benvingut a la teva història! Aquesta barra lateral et permet accedir fàcilment a tots els recursos relacionats amb la teva història. Comprova les icones de dalt per veure els últims comentaris, les teves notes, cercar a la teva enciclopèdia, navegar i afegir noves entrades a la teva enciclopèdia. Si vols afegir una connexió a una entrada des del text de la història, selecciona el text on vols posar-la i després fes clic al botó de connexió. Aleshores se\'t demanarà que trobis i seleccionis un element.',
     'encyclopedia.intro': 'Benvingut a l\'enciclopèdia {universe} .',
     'encyclopedia.add.title': 'Afegiu una nova entrada a l\'enciclopèdia',
     'encyclopedia.add.heading': 'Què voleu afegir?',
     'encyclopedia.add.moresoon': 'Més categories pròximament!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    'encyclopedia.create': `Crea un nou {category, select,
+    character {personatge}
+    event {esdeveniment}
+    group {grup}
+    item {objecte}
+    location {ubicació}
+    other {nota}
+    state {estat}
+    governments {govern}
+    languages {idioma}
+    creatures {criatura}
+    deity {deïtat}
+    religions {religió}
     flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    magic {màgia}
+    planets {planeta}
+    species {espècie}
+    technologies {tecnologia}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    'encyclopedia.create.header': `Crea un nou {category, select,
+    character {personatge}
+    event {esdeveniment}
+    group {grup}
+    item {objecte}
+    location {ubicació}
+    other {nota}
+    state {estat}
+    governments {govern}
+    languages {idioma}
+    creatures {criatura}
+    deity {deïtat}
+    religions {religió}
     flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    magic {màgia}
+    planets {planeta}
+    species {espècie}
+    technologies {tecnologia}
+  } a {universe}`,
+    'encyclopedia.entry.category': `Categoria de l'entrada: {category, select,
+    character {Caràcter}
+    event {Esdeveniment}
+    group {Grup}
+    item {Element}
+    location {Ubicació}
+    other {Nota}
+    state {Estat}
+    governments {Govern}
+    languages {Idioma}
+    creatures {Criatura}
+    deity {Deïtat}
+    religions {Religió}
     flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    magic {Màgia}
+    planets {Planeta}
+    species {Espècie}
+    technologies {Tecnologia}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Afegiu un nou camp',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   }.`,
     'enc.entries.limitReached': 'Has arribat al màxim d\'entrades permeses a l\'enciclopèdia per a la teva subscripció actual.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Controls de l\'enciclopèdia',
+    'encyclopedia.pronunciation.title': 'Pronunciació',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Obra en curs'
 };
