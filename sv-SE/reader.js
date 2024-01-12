@@ -33,7 +33,7 @@ export default {
     'reader.storyOnHiatus': 'Författaren tar för närvarande en paus från denna berättelse och berättelsen är för tillfället pausad. Kolla tillbaka om en månad eller två.',
     'reader.storyCancelled': 'Tyvärr är detta allt. Berättelsen har blivit avbruten så det är osannolikt att det kommer att finnas något nytt.',
     'reader.storyCancelled.heading': 'Inställd',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
+    'reader.nextChapterEstimation.verySoon': 'Baserat på publiceringsdatumen för de senaste {chaptersCount, number} kapitlen förväntas nästa kapitel släppas mycket snart.',
+    'reader.nextChapterEstimation.days': 'Baserat på publiceringsdatumen för de senaste {chaptersCount, number} kapitlen bör nästa kapitel vara tillgängligt om cirka {daysLeft, plural, one {1 dag} other {# dagar}}.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Vi kommer också att ge en uppskattning av när nästa kapitel kan bli publicerat när denna berättelse har mer än ett kapitel.'
 };
