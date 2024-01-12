@@ -28,9 +28,9 @@ export default {
     'blog.publicView': 'Публічний перегляд',
     'blog.post.notfound': 'Пост блогу не знайдено',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Всесвіти}
+    stories {Самостійні історії}
+    fanfiction {Фанфікшн роботи}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Тут перераховані самостійні історії, якщо історія була написана як частина всесвіту, то вона буде перерахована на сторінці всесвіту.',
@@ -41,18 +41,18 @@ export default {
   }`,
     'blog.social.website': 'Офіційний веб-сайт',
     'blog.settings.universeSettings': 'Блоги всесвіту інтегровані на сторінки всесвіту з їх базовими налаштуваннями, взятими з налаштувань всесвіту.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blog.settings.organizationSettings': 'Блоги організації інтегровані на сторінки організації.',
     'blogs.lu': 'Офіційні блоги Літературного Всесвіту',
     'blogs.featured': 'Рекомендовані блоги',
     'blogs.new': 'Найновіші блоги',
     'blogs.title': 'Блоги Літературного Всесвіту',
     'blogs.description': 'Перелік блогів на платформі Літературного Всесвіту.',
     'blogs.visit': 'Відвідати блог',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settingsAria': 'Категорії налаштувань для блогу',
     'blog.settings.blog': 'Блог',
     'blog.settings.forum': 'Форум',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.post.introText': 'Вступний абзац',
+    'blog.post.writtenBy': 'Написано {usernameDisplay}',
+    'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
+    'blog.posts.recent': 'Останні записи'
 };
