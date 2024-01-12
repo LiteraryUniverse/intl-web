@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Startdato',
     'challenges.endDate': 'Slutdato',
     'challenges.future': 'Kommende udfordringer',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Ordantal udfordring starter den {startDate, date, short} med et mål om {target, number} inden {endDate, date, short}.',
     'challenges.future.nanowrimo': 'NaNoWriMo-udfordringen er klar.',
     'challenges.wordcount': 'Ordtælling',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Sæt dig selv et mål om, hvor mange ord du vil skrive denne måned for denne {type, select,
+    story {historie}
+    universe {univers}
     other {}
   }.`,
     'challenges.wordcount.select': 'Hvor mange ord vil du udfordre dig selv til?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Rapport',
     'challenges.victory': 'Tillykke! Du har fuldført denne udfordring.',
     'challenges.defeat': 'Desværre fuldførte du ikke denne udfordring.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Det aktuelle ordantal for denne historie er {wordcount, number}, dette vil være startpunktet.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'NaNoWriMo officielle hjemmeside',
