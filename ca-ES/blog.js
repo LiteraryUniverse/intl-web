@@ -1,14 +1,14 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Actualment no tens cap blog per al teu univers {type, select,
+    organization {un blog}
+    universe {un blog per al teu univers}
+    user {un blog}
     other {}
   }.`,
     'blog.create': 'Crear un nou blog',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
+    org {Pàgina del blog de l'univers}
+    universe {Configuració del blog}
     user {Blog}
     other {}
   } settings`,
@@ -28,31 +28,31 @@ export default {
     'blog.publicView': 'Vista pública',
     'blog.post.notfound': 'No s\'ha trobat l\'entrada del blog',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universos}
+    stories {Històries independents}
+    fanfiction {Obra de fan fiction}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Aquí es mostren les històries independents, si la història s\'ha escrit com a part d\'un univers, es mostrarà a la pàgina de l\'univers.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Els enllaços socials són els mateixos que els establerts a la {type, select,
+    organization {configuració de l'organització}
+    user {perfil d'usuari}
     other {}
   }`,
     'blog.social.website': 'Lloc web oficial',
     'blog.settings.universeSettings': 'Els blogs d\'univers estan integrats a les pàgines d\'univers amb la configuració bàsica presa de la configuració de l\'univers.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blog.settings.organizationSettings': 'Els blogs de l\'organització estan integrats a les pàgines de l\'organització.',
     'blogs.lu': 'Blogs oficials de Literary Universe',
     'blogs.featured': 'Blogs destacats',
     'blogs.new': 'Blogs més recents',
     'blogs.title': 'Blogs de Literary Universe',
     'blogs.description': 'Llistat de blogs a la plataforma de Literary Universe.',
     'blogs.visit': 'Visita el blog',
-    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settingsAria': 'Categories de configuració per al blog',
     'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.settings.forum': 'Fòrum',
+    'blog.post.introText': 'Paràgraf d\'introducció',
+    'blog.post.writtenBy': 'Escrit per {usernameDisplay}',
+    'blog.post.writtenByFor': 'Escrit per {usernameDisplay} per a {publicationName}',
+    'blog.posts.recent': 'Entrades recents'
 };
