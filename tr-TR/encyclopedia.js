@@ -29,68 +29,68 @@ export default {
     other {# ilgili giriş bulundu}
   } bulundu.`,
     'encyclopedia.help.text': 'Ansiklopedideki öğeler arasında gezinmek için sol taraftaki menüyü kullanın. Bir öğe seçtiğinizde, bu metnin yerine gösterilecektir.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Kenar Çubuğu Araç Kutusu',
+    'encyclopedia.help.sidebar.text': 'Hikayenize hoş geldiniz! Bu kenar çubuğu, hikayenizle ilgili tüm kaynaklara kolay erişim sağlar. En son yorumları görmek, notlarınızı kontrol etmek, ansiklopedinizi aramak, yeni girişler eklemek için yukarıdaki simgeleri kontrol edin. Hikaye metninden bir girişe bağlantı eklemek isterseniz, yerleştirmek istediğiniz metni seçin ve ardından bağlantı düğmesine tıklayın. Ardından bir öğe bulmanız ve seçmeniz istenecektir.',
     'encyclopedia.intro': '{universe} ansiklopedisine hoş geldiniz.',
     'encyclopedia.add.title': 'Yeni bir giriş ekleyin',
     'encyclopedia.add.heading': 'Ne eklemek istersiniz?',
     'encyclopedia.add.moresoon': 'Daha fazla kategori yakında gelecek!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Yeni bir {category, select,
+    character {karakter}
+    event {etkinlik}
+    group {grup}
+    item {öğe}
+    location {konum}
+    other {not}
+    state {durum}
+    governments {hükümet}
+    languages {dil}
+    creatures {yaratık}
+    deity {tanrı}
+    religions {din}
+    flora {bitki}
+    magic {sihir}
+    planets {gezegen}
+    species {tür}
+    technologies {teknoloji}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    'encyclopedia.create.header': `Yeni bir {category, select,
+    character {karakter}
+    event {etkinlik}
+    group {grup}
+    item {öğe}
+    location {konum}
+    other {not}
+    state {durum}
+    governments {hükümet}
+    languages {dil}
+    creatures {yaratık}
+    deity {tanrı}
+    religions {din}
+    flora {bitki}
+    magic {sihir}
+    planets {gezegen}
+    species {tür}
+    technologies {teknoloji}
+  } içinde {universe}`,
+    'encyclopedia.entry.category': `Giriş kategorisi: {category, select,
+    character {Karakter}
+    event {Etkinlik}
+    group {Grup}
+    item {Öğe}
+    location {Konum}
+    other {Not}
+    state {Durum}
+    governments {Hükümet}
+    languages {Dil}
+    creatures {Yaratık}
+    deity {Tanrı}
+    religions {Din}
     flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    magic {Büyü}
+    planets {Gezegen}
+    species {Tür}
+    technologies {Teknoloji}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Yeni bir alan ekleyin',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } girişiniz bulunmaktadır.`,
     'enc.entries.limitReached': 'Geçerli aboneliğiniz için izin verilen en fazla ansiklopedi girişine ulaştınız.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Ansiklopedi kontrolleri',
+    'encyclopedia.pronunciation.title': 'Telaffuz',
+    'encyclopedia.wip.abbreviation': 'Çalışma İlerlemede',
+    'encyclopedia.wip.full': 'Çalışma İlerlemede'
 };
