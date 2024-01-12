@@ -16,20 +16,20 @@ export default {
     'challenges.startDate': 'ಪ್ರಾರಂಭ ದಿನಾಂಕ',
     'challenges.endDate': 'ಕೊನೆಯ ದಿನಾಂಕ',
     'challenges.future': 'ಮುಂದಿನ ಚಾಲೆಂಜ್‌ಗಳು',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'ಶಬ್ದಗಣನೆ ಚಾಲೆಂಜ್ ಈ ಮೂಲಕ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ {startDate, date, short} ಗೆ ಗುರಿಯಾಗಿ {target, number} ಶಬ್ದಗಳನ್ನು {endDate, date, short}ವರೆಗೂ ಬರೆಯಲು.',
     'challenges.future.nanowrimo': 'NaNoWriMo ಚಾಲೆಂಜ್ ಸಿದ್ಧವಾಗಿದೆ.',
     'challenges.wordcount': 'ಪದ ಸಂಖ್ಯೆ',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
-    other {}
+    'challenges.wordcount.desc': `ಈ ಮಾತುಗಾರನ {type, select,
+    story {ಕಥೆಯ ಈ ಮಂತ್ರಾಲಯ}
+    universe {ಯೂನಿವರ್ಸ್}
+    other {ಗೆ ಈ ತಿಂಗಳು ನೀವು ಬರೆಯಬೇಕಾದ ಶಬ್ದಗಳ ಗುರಿಯನ್ನು ಹೊಂದಿರಿ}
   }.`,
     'challenges.wordcount.select': 'ನೀವು ನಿಮಗೆ ಚಾಲೆಂಜ್ ಕೊಡಲು ಎಷ್ಟು ಪದ ಬರೆಯಲು ಬಯಸುತ್ತೀರಿ?',
     'challenges.start': 'ಚಾಲೆಂಜ್ ಪ್ರಾರಂಭಿಸಿ',
     'challenges.report': 'ವರದಿ',
     'challenges.victory': 'ಅಭಿನಂದನೆಗಳು! ನೀವು ಈ ಚಾಲೆಂಜ್ ಮುಗಿಸಿದ್ದೀರಿ.',
     'challenges.defeat': 'ದುಃಖವಾಗಿ ನೀವು ಈ ಚಾಲೆಂಜ್ ಮುಗಿಸಲಿಲ್ಲ.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'ಈ ಕಥೆಗೆ ಪ್ರಸ್ತುತ ಪದಸಂಖ್ಯೆ {wordcount, number}ಆಗಿದೆ, ಇದು ಆರಂಭ ಬಿಂದುವಾಗುವುದು.',
     // NaNoWriMo
     'nanowrimo.full': 'ನ್ಯಾಷನಲ್ ನವೆಲ್ ರೈಟಿಂಗ್ ಮಾಸ್',
     'nanowrimo.site': 'NaNoWriMo ಅಧಿಕೃತ ಸೈಟ್',
