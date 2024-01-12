@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'Kurti naują tinklaraštį',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
-    other {}
-  } settings`,
+    org {Tinklaraščio}
+    universe {Pasaulio puslapis}
+    user {Tinklaraščio}
+    other {nustatymai}
+  }`,
     'blog.description': 'Tinklaraščio įvadas',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Keisdami temą, galėsite pakeisti puslapio išvaizdą. Ši funkcija šiuo metu nėra pasirengusi.',
