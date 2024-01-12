@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'Política de Privacidade',
     'common.legal.copyright': 'Acordo de Direitos de Autor',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Termos de Serviço}
+    community {Diretrizes da Comunidade}
+    privacy {Política de Privacidade}
+    copyright {Acordo de Direitos Autorais}
+    publishingAgreement {Acordo de Publicação}
+    other {Acordo}
+  } Versão {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Uma nova versão ({newVersion}) deste documento entrará em vigor no {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Todos os direitos reservados, todos os textos pertencem aos seus respetivos autores.',
     'premium.only.title': 'Nível de adesão não é suficientemente elevado',
@@ -240,23 +240,23 @@ export default {
     'common.notifications': 'Notificações',
     'common.byDeclaration': 'Por:',
     'common.done': 'Concluído',
-    recommended: 'Recommended',
-    'select.typeToCreate': 'Start typing to create an item',
-    'select.noSearchResults': 'No results for “{search}”',
-    'select.removeOption': 'Remove {option}',
-    create: 'Create',
-    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services',
-    'common.viewMore': 'View more',
-    'common.overview': 'Overview',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!',
+    recommended: 'Recomendado',
+    'select.typeToCreate': 'Comece a digitar para criar um item',
+    'select.noSearchResults': 'Sem resultados para "{search}"',
+    'select.removeOption': 'Remover {option}',
+    create: 'Criar',
+    'banner.support': 'O Literary Universe é apoiado por usuários como você! Considere assinar um de nossos planos de assinatura para se manter independente e tornar o Literary Universe ainda melhor!',
+    'banner.seePlans': 'Visite nossa página de planos para mais informações.',
+    'common.noAccountQuestion': 'Não tem uma conta?',
+    'common.haveAccountQuestion': 'Já tem uma conta?',
+    'common.socialLogin': 'Entrar com outros serviços',
+    'common.viewMore': 'Ver mais',
+    'common.overview': 'Visão geral',
+    'common.loggingOut': 'A terminar sessão',
+    'common.thankYou': 'Obrigado!',
+    'common.seeYouAgain': 'Até breve!',
     'email.hello': 'Olá {username},',
-    'common.back': 'Back',
+    'common.back': 'Voltar',
     'console.stop': 'Parar!',
     'console.explain': 'Este é um recurso do navegador destinado a desenvolvedores. Se alguém lhe disse para copiar e colar algo aqui para ativar um recurso do Literary Universe ou "hackear" a conta de alguém, é uma fraude e dará a eles acesso à sua conta do Literary Universe.'
 }    /* eslint-enable max-len */;
