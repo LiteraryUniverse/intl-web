@@ -35,13 +35,13 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.messageHtml': `لقد قمنا بترقية حسابك إلى {plan, select,
+    explorer {مستكشف}
+    adventurer {مغامر}
+    storyteller {راوي قصص}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } للمستوى التالي لمدة {days} أيام. استمتع!`,
+    'email.verification': 'تحقق من البريد الإلكتروني',
+    'email.verifying': 'جاري التحقق من بريدك الإلكتروني. سيستغرق هذا لحظة...',
+    'email.verified': 'أخبار رائعة! تم التحقق من بريدك الإلكتروني بنجاح!'
 };    /* eslint-enable max-len */
