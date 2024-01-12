@@ -24,7 +24,7 @@ export default {
   'events.origin.author': '.i lo skicu',
   'events.origin.groups': '.i lo grupu',
   'events.origin.organizations': '.i lo jecta',
-  'events.origin.lu': 'Literary Universe events',
+  'events.origin.lu': 'kevna cfika be la lojban',
   'events.visibility.label': 'Event visibility',
   'events.visibility.public': 'Public - anyone can see this event',
   'events.visibility.owner': `Owner - only {type, select,
@@ -39,7 +39,7 @@ export default {
   'events.create.title': 'Create a new event',
   'events.hostedBy': 'Hosted by {hostName}',
   'events.openVirtual': 'Go to virtual location',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'Moi je\'u',
   'event.visibilityShort.private': 'Private',
   'event.visibilityShort.public': 'Public',
   'event.visibilityShort.owner': 'Owner'
