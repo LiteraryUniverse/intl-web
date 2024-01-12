@@ -41,7 +41,7 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verification': 'ཨེ་མེན་སེམས་ཅན།',
+    'email.verifying': 'ཁྱེད་ཀྱིས་ཨེ་མེན་སེམས་བཟོ་བ་འདི་གིས་བྱུང་བའི་དུས་ཡུན་ནང་འཛིན་པའི་དུས་ཡུན་རྗེས་སུ་མཉེན་ཆས་འབད་དེ་བཞིན་པར་བཟོ་བ།',
+    'email.verified': 'རྗེས་སུ་ཨེ་མེན་སེམས་བཟོ་བ། ཁྱེད་ཀྱིས་ཨེ་མེན་སེམས་བཟོ་བའི་དུས་ཡུན་ནང་འཛིན་པའི་དུས་ཡུན་འདི་གིས་བྱུང་བའི་དུས་ཡུན་རྗེས་སུ་མཉེན་ཆས་འབད་དེ་བཞིན་པར་བཟོ་བ།'
 };    /* eslint-enable max-len */
