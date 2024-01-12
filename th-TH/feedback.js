@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'การละเมิดกฎหมาย',
     'feedback.reportType.vulgar': 'หยาบคาย/ไม่สุภาพ',
     'feedback.reportType.copyright': 'การละเมิดลิขสิทธิ์',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'การจัดอันดับอายุไม่ถูกต้อง',
+    'feedback.reportType.scam': 'การหลอกลวง',
+    'feedback.report.submit': 'รายงานผล',
+    'feedback.report.submitting': 'กำลังรายงาน...',
+    'feedback.report.violationDesc': 'รายละเอียด',
+    'feedback.report.reportSaved': 'ขอบคุณสำหรับการรายงาน! เราจะศึกษาและดำเนินการตามต้องการ (หากจำเป็น)',
+    'feedback.report.copyrightReportSaved': 'ขอบคุณสำหรับการรายงาน! เราจะศึกษาและติดต่อกลับ',
+    'feedback.report.copyrightOwnershipDesc': 'คำชี้แจงเกี่ยวกับการเป็นเจ้าของ',
+    'feedback.report.copyrightNotice': 'โปรดทราบว่าคุณจำเป็นต้องเป็นเจ้าของสิ่งงานเพื่อใช้แบบฟอร์มนี้ หากคุณไม่ใช่เจ้าของ โปรดแจ้งเจ้าของหรือใช้หมวดหมู่อื่นเพื่อแจ้งให้เรารับทราบ การละเมิดลิขสิทธิ์เป็นเรื่องที่เราใส่ใจอย่างยิ่งและเราใช้วิธีการเดียวกันเมื่อมีการใช้แบบฟอร์มนี้อย่างไม่ถูกต้องและเป็นการละเมิด',
+    'feedback.report.copyrightInternalProperty': 'ฉันได้เผยแพร่งานนี้บน Literary Universe',
+    'feedback.reportType.spam': 'สแปมหรือการฟิชชิ่ง',
+    'feedback.reportType.other': 'อื่นๆ',
+    'feedback.report.copyrightType.propertySelectLabel': `ในจักรวาล {type, select,
+    universe {นิทาน}
+    story {เรื่อง}
+    other {เรื่อง}
+  } ที่ถูกละเมิด?`
 };
