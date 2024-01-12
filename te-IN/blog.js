@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `మీరు ప్రస్తుతం ఎందుకున్నారు కాదు {type, select,
+    organization {ఏదీనికి సంబంధించిన బ్లాగు లేదు}
+    universe {మీ యూనివర్స్ కోసం ఒక బ్లాగు లేదు}
+    user {బ్లాగు లేదు}
     other {}
   }.`,
     'blog.create': 'కొత్త బ్లాగ్ సృష్టించండి',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'పబ్లిక్ వీక్షణ',
     'blog.post.notfound': 'బ్లాగ్ పోస్టు కనపడలేదు',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {యూనివర్స్లు}
+    stories {స్వతంత్ర కథలు}
+    fanfiction {ఫ్యాన్ ఫిక్షన్ పని}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'ఇక్కడ స్వతంత్ర కథలు ఉంటాయి. ఉనికి కథనం మా యూనివర్సు పేజీలో చూపించబడతాయి.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `సామాజిక లింక్స్ ముఖ్య సెట్ చేసినందున ఒకే అవస్థలో ఉన్నాయి {type, select,
+    organization {సంస్థ సెట్టింగ్లలో}
+    user {వాడుకరి ప్రొఫైల్లో}
     other {}
   }`,
     'blog.social.website': 'అధికారిక వెబ్సైట్',
