@@ -18,9 +18,9 @@ export default {
     'universe.translators': 'अनुवादक',
     'universe.authors.notice': 'प्रत्येक कहानी में अतिरिक्त व्यक्तिगत हो सकते हैं जिन्होंने इसपर काम किया हो। अधिक जानकारी के लिए कहानी का विवरण देखें।',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {द्वारा बनाया गया}
+    female {बनाया गया}
+    other {बनाया गया}} `,
     'universe.stories.for': '{universe}के लिए कहानियाँ',
     'universe.stories.own': '{universe} कहानियाँ',
     'universe.stories.desc': '{universe}के लिए कैनन कहानियाँ',
