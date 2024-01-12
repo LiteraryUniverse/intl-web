@@ -29,8 +29,8 @@ export default {
     other {إدخالات ذات صلة #}
   } تم العثور عليها.`,
     'encyclopedia.help.text': 'استخدم القائمة على اليسار للتنقل بين العناصر في الموسوعة. بمجرد اختيار عنصر، سيتم عرضه بدلاً من هذا النص.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'مجموعة أدوات الشريط الجانبي',
+    'encyclopedia.help.sidebar.text': 'مرحبًا بك في قصتك! يسمح لك هذا الشريط الجانبي بسهولة الوصول إلى جميع الموارد المتعلقة بقصتك. تحقق من الرموز أعلاه لرؤية أحدث التعليقات، وملاحظاتك، والبحث في الموسوعة، وتصفح وإضافة إدخالات جديدة إلى الموسوعة الخاصة بك. إذا كنت ترغب في إضافة اتصال إلى إدخال من نص القصة، حدد النص الذي ترغب في وضعه ثم انقر فوق زر الاتصال. سيتم طلب منك بعد ذلك العثور على عنصر وتحديده.',
     'encyclopedia.intro': 'مرحبا بك في موسوعة {universe}.',
     'encyclopedia.add.title': 'إضافة إدخال جديد إلى الموسوعة',
     'encyclopedia.add.heading': 'ما الذي ترغب في إضافته؟',
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `فئة الإدخال: {category, select,
+    character {شخصية}
+    event {حدث}
+    group {مجموعة}
+    item {عنصر}
+    location {موقع}
+    other {ملاحظة}
+    state {حالة}
+    governments {حكومة}
+    languages {لغة}
+    creatures {مخلوق}
+    deity {إله}
+    religions {ديانة}
+    flora {نباتات}
+    magic {سحر}
+    planets {كوكب}
+    species {نوع}
+    technologies {تكنولوجيا}
   }`,
     'encyclopedia.entry.category.legend': 'التصنيف',
     'encyclopedia.fields.add': 'إضافة حقل جديد',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'لقد وصلت إلى الحد الأقصى المسموح به لإدخالات الموسوعة لاشتراكك الحالي.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'ضوابط الموسوعة',
+    'encyclopedia.pronunciation.title': 'النطق',
+    'encyclopedia.wip.abbreviation': 'قيد التطوير',
+    'encyclopedia.wip.full': 'قيد التطوير'
 };
