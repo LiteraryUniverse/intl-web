@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'プライバシーポリシー',
     'common.legal.copyright': '著作権規約',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {利用規約}
+    community {コミュニティガイドライン}
+    privacy {プライバシーポリシー}
+    copyright {著作権契約}
+    publishingAgreement {出版契約}
+    other {契約}
+  } バージョン {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'この文書の新バージョン（{newVersion}）は、{effectiveAt, date}に有効になります。',
     'common.legal.disclaimer': '© {year} すべての文章の著作権は、それぞれの著者に帰属します。',
     'premium.only.title': '会員ランクが十分ではありません',
@@ -247,16 +247,16 @@ export default {
     create: '作成する',
     'banner.support': 'Literary Universeは、あなたのようなユーザーによって支えられています！Literary Universeのイベントをより良いものにするために、ぜひ購読をご検討ください！',
     'banner.seePlans': '詳しくは、プランのページをご覧ください。',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services',
-    'common.viewMore': 'View more',
-    'common.overview': 'Overview',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!',
+    'common.noAccountQuestion': 'アカウントをお持ちではありませんか？',
+    'common.haveAccountQuestion': 'すでにアカウントをお持ちですか？',
+    'common.socialLogin': '他のサービスでログイン',
+    'common.viewMore': 'もっと見る',
+    'common.overview': '概要',
+    'common.loggingOut': 'ログアウトしています',
+    'common.thankYou': 'ありがとうございます！',
+    'common.seeYouAgain': 'またお会いしましょう！',
     'email.hello': 'こんにちは{username},',
-    'common.back': 'Back',
+    'common.back': '戻る',
     'console.stop': '止めてください！',
     'console.explain': 'これは開発者向けのブラウザ機能です。もし誰かがあなたに文学の宇宙の機能を有効にするために何かをここにコピー＆ペーストするように言ったり、誰かのアカウントを"ハック"するためにそうするように言ったりした場合、それは詐欺であり、文学の宇宙のアカウントへのアクセスを提供します。'
 }    /* eslint-enable max-len */;
