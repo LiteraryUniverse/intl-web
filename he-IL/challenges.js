@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'תאריך התחלה',
     'challenges.endDate': 'תאריך סיום',
     'challenges.future': 'אתגרים עתידיים',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'אתגר ספירת המילים מתחיל ב {startDate, date, short} עם מטרה של {target, number} עד {endDate, date, short}.',
     'challenges.future.nanowrimo': 'אתגר NaNoWriMo מוכן.',
     'challenges.wordcount': 'ספירת מילים',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `קבעו לעצמכם מטרה לכמה מילים תרצו לכתוב החודש עבור סיפור ה {type, select,
+    story {ביקום ה}
+    universe {}
     other {}
   }.`,
     'challenges.wordcount.select': 'כמה מילים תרצה לאתגר את עצמך לכתוב?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'דוח',
     'challenges.victory': 'מזל טוב! השלמת את האתגר הזה.',
     'challenges.defeat': 'לצערנו, לא השלמת את האתגר הזה.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'מספר המילים הנוכחי עבור סיפור זה הוא {wordcount, number}, זה יהיה נקודת ההתחלה.',
     // NaNoWriMo
     'nanowrimo.full': 'חודש כתיבה לרומן לאומי',
     'nanowrimo.site': 'אתר הרשמי של NaNoWriMo',
