@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
+  'readingList.title': 'Lista di lettura',
+  'readingList.type.label': 'Tipo di lista',
   'readingList.type.stories': 'Storie',
   'readingList.type.universes': 'Universi',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.ordered.label': 'Lista ordinata',
+  'readingList.button.add': 'Aggiungi alla lista di lettura',
+  'readingList.selectList': 'Seleziona lista di lettura',
+  'readingList.create': 'Crea una nuova lista di lettura',
+  'readingList.create.aria': 'Modale con impostazioni per una nuova lista di lettura',
+  'readingList.edit.aria': 'Modale per modificare le impostazioni della lista di lettura',
+  'readingList.library.title': 'Le tue liste di lettura',
+  'readingList.public.label': 'È visibile pubblicamente?',
+  'readingList.addItem': `Aggiungi {type, select,
+    universes {universo}
+    stories {storia}
+    other {storie e universi}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modale per aggiungere {type, select,
+    universes {universi}
+    stories {storie}
+    other {storie e universi}
+  } alla lista di lettura.`,
+  'readingList.addItem.fromLibrary': 'Dalla libreria',
+  'readingList.button.added': 'Aggiunto'
 };
