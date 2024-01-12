@@ -19,10 +19,10 @@ export default {
     'challenges.future.wordcount': 'Wyzwanie liczby słów rozpocznie się w dniu {startDate, date, short} z liczbą docelową {target, number} i potrwa do dnia {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Wyzwanie NaNoWriMo jest gotowe.',
     'challenges.wordcount': 'Liczba słów',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
-    other {}
+    'challenges.wordcount.desc': `Postaw sobie cel, ile słów chcesz napisać w tym miesiącu dla tej {type, select,
+    story {historii}
+    universe {w tym}
+    other {uniwersum}
   }.`,
     'challenges.wordcount.select': 'Jak wiele słów chcesz sobie narzucić?',
     'challenges.start': 'Rozpocznij wyzwanie',
