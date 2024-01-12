@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Féach',
     'feed.post.new': 'Altachán nua',
     'feed.post.like': 'Cosaint post',
     'feed.post.unlike': 'Ná cosaint post',
