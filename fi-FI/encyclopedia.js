@@ -29,68 +29,68 @@ export default {
     other {# liittyvää merkintää}
   } löydetty.`,
     'encyclopedia.help.text': 'Käytä vasemmanpuoleista valikkoa siirtyäksesi tietosanakirjan kohteiden välillä. Kun valitset kohteen, se näytetään tämän tekstin sijaan.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Sivupalkin työkalut',
+    'encyclopedia.help.sidebar.text': 'Tervetuloa tarinaasi! Tämä sivupalkki antaa sinulle helpon pääsyn kaikkiin tarinaasi liittyviin resursseihin. Tarkista yläpuolella olevat kuvakkeet nähdäksesi viimeisimmät kommentit, muistiinpanosi, hae tietoa tietosanakirjastasi, selaa ja lisää uusia merkintöjä tietosanakirjaasi. Jos haluat lisätä yhteyden merkintään tarinan tekstissä, valitse teksti, johon haluat sen sijoittaa, ja napsauta sitten yhdistä-painiketta. Sinua pyydetään sitten etsimään ja valitsemaan kohde.',
     'encyclopedia.intro': 'Tervetuloa {universe} tietosanakirjaan.',
     'encyclopedia.add.title': 'Lisää uusi merkintä tietosanakirjaan',
     'encyclopedia.add.heading': 'Mitä haluat lisätä?',
     'encyclopedia.add.moresoon': 'Lisää kategorioita tulossa pian!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Luo uusi {category, select,
+    character {hahmo}
+    event {tapahtuma}
+    group {ryhmä}
+    item {esine}
+    location {sijainti}
+    other {muistiinpano}
+    state {tila}
+    governments {hallitus}
+    languages {kieli}
+    creatures {olento}
+    deity {jumaluus}
+    religions {uskonto}
+    flora {kasvi}
+    magic {taika}
+    planets {planeetta}
+    species {laji}
+    technologies {teknologia}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create.header': `Luo uusi {category, select,
+    character {hahmo}
+    event {tapahtuma}
+    group {ryhmä}
+    item {esine}
+    location {sijainti}
+    other {muistiinpano}
+    state {tila}
+    governments {hallitus}
+    languages {kieli}
+    creatures {olento}
+    deity {jumaluus}
+    religions {uskonto}
+    flora {kasvi}
+    magic {taika}
+    planets {planeetta}
+    species {laji}
+    technologies {teknologia}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `Tietueen kategoria: {category, select,
+    character {Hahmo}
+    event {Tapahtuma}
+    group {Ryhmä}
+    item {Esine}
+    location {Sijainti}
+    other {Huomautus}
+    state {Tilanne}
+    governments {Hallitus}
+    languages {Kieli}
+    creatures {Olento}
+    deity {Jumaluus}
+    religions {Uskonto}
+    flora {Kasvisto}
+    magic {Taikuus}
+    planets {Planeetta}
+    species {Laji}
+    technologies {Teknologia}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Lisää uusi kenttä',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'Olet saavuttanut maksimimäärän sallittuja tietosanakirjamerkintöjä nykyisellä tilauksellasi.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Tietosanakirjan ohjaus',
+    'encyclopedia.pronunciation.title': 'Ääntäminen',
+    'encyclopedia.wip.abbreviation': 'KES',
+    'encyclopedia.wip.full': 'Työn alla'
 };
