@@ -51,10 +51,10 @@ export default {
     'privacy.desc': 'Literary Universeのプライバシーポリシーの法的文書全文です。',
     'guidelines.desc': 'Lieterary Universeのコミュニティ・ガイドラインです。',
     'tos.desc': 'Lieterary Universeの利用規約の法的文書全文を掲載しています。',
-    'homepage.intro': 'Let Your Creativity Run Wild Across the Literary Universe',
+    'homepage.intro': '文学の宇宙で創造力を思う存分に発揮しましょう',
     // 'homepage.explanation':
     //   'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
-    'homepage.explanation': 'Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That\'s why we\'ve designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it\'s a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.',
+    'homepage.explanation': '詳細まで入り込んでしまうほど詳細な架空の世界を作り上げることは、夢見たことはありませんか？Literary Universeでは、このビジョンを現実のものにするためのツールを提供しています。すべての作家は、一流のリソースとサポートにアクセスする価値があります。それが、複雑なストーリーテリングと情熱的な読書のギャップを埋める包括的なスペースを設計した理由です。作家にとっては夢の職場、読者にとっては探求の冒険です。文学のウサギの穴に続いて、想像の世界がどこまで私たちを導くのかを発見するために、私たちに参加してください。',
     'gdpr.title': 'GDPR コンプライアンス',
     'gdpr.desc': 'Lieterary Universeは、EUのGDPR指示に準じています。',
     'gdpr.compliant': 'Literary UniverseはGDPRに準拠しています。',
