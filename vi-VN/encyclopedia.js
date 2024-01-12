@@ -29,8 +29,8 @@ export default {
     other {# mục liên quan}
   } tìm thấy.`,
     'encyclopedia.help.text': 'Sử dụng menu bên trái để điều hướng giữa các mục trong bách khoa toàn thư. Sau khi bạn chọn một mục, nó sẽ được hiển thị thay vì văn bản này.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Hộp công cụ thanh bên',
+    'encyclopedia.help.sidebar.text': 'Chào mừng bạn đến với câu chuyện của bạn! Thanh bên này cho phép bạn dễ dàng truy cập vào tất cả các tài nguyên liên quan đến câu chuyện của bạn. Kiểm tra các biểu tượng ở trên để xem những bình luận mới nhất, ghi chú của bạn, tìm kiếm trong bách khoa của bạn, duyệt và thêm các mục mới vào bách khoa của bạn. Nếu bạn muốn thêm kết nối đến một mục từ văn bản câu chuyện, hãy chọn văn bản mà bạn muốn đặt nó và sau đó nhấp vào nút kết nối. Bạn sẽ được yêu cầu tìm và chọn một mục.',
     'encyclopedia.intro': 'Chào mừng bạn đến với bách khoa toàn thư {universe} .',
     'encyclopedia.add.title': 'Thêm một mục mới vào bách khoa toàn thư',
     'encyclopedia.add.heading': 'Bạn muốn thêm gì?',
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `Danh mục mục nhập: {category, select,
+    character {Nhân vật}
+    event {Sự kiện}
+    group {Nhóm}
+    item {Vật phẩm}
+    location {Địa điểm}
+    other {Ghi chú}
+    state {Trạng thái}
+    governments {Chính phủ}
+    languages {Ngôn ngữ}
+    creatures {Sinh vật}
+    deity {Thần thánh}
+    religions {Tôn giáo}
+    flora {Thực vật}
+    magic {Ma thuật}
+    planets {Hành tinh}
+    species {Loài}
+    technologies {Công nghệ}
   }`,
     'encyclopedia.entry.category.legend': 'Danh mục',
     'encyclopedia.fields.add': 'Thêm một trường mới',
@@ -146,8 +146,8 @@ export default {
     other {không giới hạn{max, number}}
   }.`,
     'enc.entries.limitReached': 'Bạn đã đạt đến số lượng tối đa cho phép các mục bách khoa của bạn hiện tại.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Bảng điều khiển Bách khoa toàn thư',
+    'encyclopedia.pronunciation.title': 'Phát âm',
+    'encyclopedia.wip.abbreviation': 'Đang thực hiện',
+    'encyclopedia.wip.full': 'Đang được phát triển'
 };
