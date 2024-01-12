@@ -87,13 +87,13 @@ export default {
     'common.legal.privacy': 'Polityka prywatności',
     'common.legal.copyright': 'Umowa o prawie autorskim',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
+    tos {Regulamin}
+    community {Wytyczne społeczności}
+    privacy {Polityka prywatności}
+    copyright {Umowa o prawach autorskich}
+    publishingAgreement {Umowa publikacyjna}
+    other {Umowa}
+  } Wersja {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nowa wersja ({newVersion}) niniejszego dokumentu wejdzie w życie w dniu {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Wszelkie prawa zastrzeżone, wszystkie teksty są własnością ich autorów.',
     'premium.only.title': 'Niewystarczająco wysoka ranga członkowska',
@@ -241,22 +241,22 @@ export default {
     'common.byDeclaration': 'Od:',
     'common.done': 'Gotowe',
     recommended: 'Zalecane',
-    'select.typeToCreate': 'Start typing to create an item',
-    'select.noSearchResults': 'No results for “{search}”',
-    'select.removeOption': 'Remove {option}',
+    'select.typeToCreate': 'Zacznij pisać, aby utworzyć element',
+    'select.noSearchResults': 'Brak wyników dla „{search}”',
+    'select.removeOption': 'Usuń {option}',
     create: 'Utwórz',
-    'banner.support': 'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-    'banner.seePlans': 'Visit our plans page for more information.',
-    'common.noAccountQuestion': 'Don\'t have an account?',
-    'common.haveAccountQuestion': 'Already have an account?',
-    'common.socialLogin': 'Login with other services',
+    'banner.support': 'Literary Universe jest wspierane przez użytkowników takich jak Ty! Prosimy rozważ subskrypcję jednego z naszych planów, aby pozostać niezależnym i uczynić Literary Universe jeszcze lepszym miejscem!',
+    'banner.seePlans': 'Odwiedź naszą stronę z planami, aby uzyskać więcej informacji.',
+    'common.noAccountQuestion': 'Nie masz konta?',
+    'common.haveAccountQuestion': 'Masz już konto?',
+    'common.socialLogin': 'Zaloguj przez inne usługi',
     'common.viewMore': 'Zobacz więcej',
     'common.overview': 'Przegląd',
-    'common.loggingOut': 'Logging out',
+    'common.loggingOut': 'Wylogowywanie',
     'common.thankYou': 'Dziękujemy!',
-    'common.seeYouAgain': 'See you again!',
+    'common.seeYouAgain': 'Do zobaczenia ponownie!',
     'email.hello': 'Witaj {username},',
-    'common.back': 'Back',
+    'common.back': 'Powrót',
     'console.stop': 'Zatrzymaj się!',
     'console.explain': 'To jest funkcja przeglądarki przeznaczona dla programistów. Jeśli ktoś kazał ci skopiować coś tutaj, aby włączyć funkcję Uniwersum Literackiego lub "zhakować" czyjeś konto, to oszustwo i da mu dostęp do twojego konta Uniwersum Literackiego.'
 }    /* eslint-enable max-len */;
