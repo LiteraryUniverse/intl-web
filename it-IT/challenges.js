@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Data di inizio',
     'challenges.endDate': 'Data di fine',
     'challenges.future': 'Prossime sfide',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Sfida di conteggio delle parole che inizia il {startDate, date, short} con l\'obiettivo di {target, number} entro il {endDate, date, short}.',
     'challenges.future.nanowrimo': 'La sfida NaNoWriMo è pronta.',
     'challenges.wordcount': 'Conteggio parole',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Impostati un obiettivo di quante parole vuoi scrivere questo mese per questa storia {type, select,
+    story {universo}
+    universe {}
     other {}
   }.`,
     'challenges.wordcount.select': 'Quante parole vuoi sfidarti a scrivere?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Segnala',
     'challenges.victory': 'Congratulazioni! Hai completato questa sfida.',
     'challenges.defeat': 'Purtroppo non hai completato questa sfida.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Il conteggio delle parole attuale per questa storia è {wordcount, number}, questo sarà il punto di partenza.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'Sito ufficiale di NaNoWriMo',
