@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'Lovbrudd',
     'feedback.reportType.vulgar': 'Vulgært/obskønt',
     'feedback.reportType.copyright': 'Opphavsrettsbrudd',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'Feil aldersvurdering',
+    'feedback.reportType.scam': 'Svindel',
+    'feedback.report.submit': 'Rapport',
+    'feedback.report.submitting': 'Rapporterer...',
+    'feedback.report.violationDesc': 'Detaljer',
+    'feedback.report.reportSaved': 'Takk for rapporten! Vi vil undersøke og ta nødvendige tiltak hvis det er nødvendig.',
+    'feedback.report.copyrightReportSaved': 'Takk for rapporten! Vi vil undersøke og ta kontakt.',
+    'feedback.report.copyrightOwnershipDesc': 'Eierskapserklæring',
+    'feedback.report.copyrightNotice': 'Vennligst merk at du må være den rettmessige eieren av verket for å bruke dette skjemaet. Hvis du ikke er eieren, vennligst informer eieren eller bruk den andre kategorien for å informere oss. Vi tar brudd på opphavsrett svært alvorlig, og det samme gjelder misbruk og feil bruk av dette skjemaet.',
+    'feedback.report.copyrightInternalProperty': 'Jeg har publisert dette verket på Literary Universe',
+    'feedback.reportType.spam': 'Søppelpost eller phishing',
+    'feedback.reportType.other': 'Annet',
+    'feedback.report.copyrightType.propertySelectLabel': `Hvilket {type, select,
+    universe {univers}
+    story {historie}
+    other {historie}
+  } blir det krenket?`
 };
