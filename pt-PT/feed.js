@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Alimentação',
     'feed.post.new': 'Nova publicação',
     'feed.post.like': 'Gostar publicação',
     'feed.post.unlike': 'Retirar gosto da publicação',
