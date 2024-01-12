@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
+    'pm.conversation': 'ਗੱਲਬਾਤ',
+    'pm.showolder': 'ਪੁਰਾਣੀ ਸੁਨੇਹੇ ਵੇਖੋ',
+    'pm.errors.saysomething': 'ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਕੁਝ ਕਹਿਣਾ ਚਾਹੀਦਾ ਹੈ...',
+    'pm.errors.addrecipient': 'ਤੁਹਾਨੂੰ ਕਮ ਸਵਾਰਥੀ ਜੋੜਨਾ ਚਾਹੀਦਾ ਹੈ।',
+    'pm.message': 'ਸੁਨੇਹਾ',
+    'pm.send.message': 'ਸੁਨੇਹਾ ਭੇਜੋ',
+    'pm.messages.own': 'ਤੁਹਾਡੇ ਸੁਨੇਹੇ',
+    'pm.conversations.none': 'ਤੁਸੀਂ ਮੌਜੂਦਾਂ ਵਿਅਕਤੀ ਨਾਲ ਗੱਲਬਾਤ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ।',
+    'pm.to': 'ਨੂੰ:',
+    'pm.with': 'ਨਾਲ ਗੱਲਬਾਤ:',
+    'pm.send': 'ਭੇਜੋ',
     'pm.conversations.unreadCount': `You have {count, plural,
     zero {no unread conversations}
     one {one unread conversation}
     other {# unread conversations}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'ਤੁਸੀਂ ਇੱਕ ਪ੍ਰਾਪਤਕਰਤਾ ਚੁਣਨੀ ਚਾਹੀਦੇ ਹੋ।',
+    'pm.form.maxParticipants': `ਤੁਸੀਂ ਇੱਕ ਮੁੱਖ ਗੱਲਬਾਤ ਵਿੱਚ ਵੱਧ ਤੋਂ ਵੱਧ {maxPeople, plural,
+    one {ਇੱਕ ਵਿਅਕਤੀ}
+    other {# ਲੋਕ}
+  } ਹੋ ਸਕਦੇ ਹੋ।`,
+    'pm.new.aria': 'ਨਵੀਂ ਗੱਲਬਾਤ',
+    'pm.new.buttonTitle': 'ਨਵੀਂ ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ'
 };
