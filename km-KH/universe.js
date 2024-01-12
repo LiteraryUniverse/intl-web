@@ -30,7 +30,7 @@ export default {
     'universe.fanArtHeaderDesc.item': '{universe} រូបភាពអ្នកចម្រៀង - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} ការដាក់កាត់រូបភាពអ្នកចម្រៀង',
     'universe.fanArtHeaderDesc.overview': '{universe} រូបភាពអ្នកចម្រៀង',
-    'universe.fanFiction.hidden': 'Hidden',
+    'universe.fanFiction.hidden': 'លាក់',
     'universe.fanFiction.hide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំ',
     'universe.fanFiction.unhide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំត្រូវបង្ហាញឡើងវិញ'
 };
