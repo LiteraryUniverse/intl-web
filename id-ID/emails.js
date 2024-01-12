@@ -35,13 +35,13 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.messageHtml': `Kami telah meningkatkan akun Anda menjadi {plan, select,
+    explorer {Penjelajah}
+    adventurer {Petualang}
+    storyteller {Pencerita}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } untuk ! {days} hari ke depan. Nikmati!`,
+    'email.verification': 'Verifikasi E-mail',
+    'email.verifying': 'Memverifikasi e-mail Anda. Ini akan memakan waktu sebentar...',
+    'email.verified': 'Berita bagus! E-mail Anda telah diverifikasi!'
 };    /* eslint-enable max-len */
