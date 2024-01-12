@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'Seaduserikkumine',
     'feedback.reportType.vulgar': 'Vulgaarne/obsöönne',
     'feedback.reportType.copyright': 'Autoriõiguse rikkumine',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'Vale vanusehinnang',
+    'feedback.reportType.scam': 'Petuskeem',
+    'feedback.report.submit': 'Aruanne',
+    'feedback.report.submitting': 'Esitamine...',
+    'feedback.report.violationDesc': 'Üksikasjad',
+    'feedback.report.reportSaved': 'Aitäh tagasiside eest! Uurime seda ja võtame vajadusel meetmeid.',
+    'feedback.report.copyrightReportSaved': 'Aitäh tagasiside eest! Uurime seda ja võtame ühendust.',
+    'feedback.report.copyrightOwnershipDesc': 'Omandiõiguse deklaratsioon',
+    'feedback.report.copyrightNotice': 'Palun märkige, et selle vormi kasutamiseks peate olema töö õiguspärane omanik. Kui te ei ole omanik, palun teavitage omanikku või kasutage teist kategooriat meie teavitamiseks. Me võtame autoriõiguse rikkumisi äärmiselt tõsiselt ja sama kehtib ka selle vormi ebaõige ja väärkasutuse kohta.',
+    'feedback.report.copyrightInternalProperty': 'Olen avaldanud selle töö Literary Universe\'is',
+    'feedback.reportType.spam': 'Spämm või kalastamiskatse',
+    'feedback.reportType.other': 'Muu',
+    'feedback.report.copyrightType.propertySelectLabel': `Milline {type, select,
+    universe {universum}
+    story {lugu}
+    other {lugu}
+  } on rikutud?`
 };
