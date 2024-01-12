@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Fortsæt med at læse',
     'discovery.stories.similar.new': 'Nye historier i nabolaget',
     'discovery.stories.similar.regular': 'Historier i nabolaget',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Denne historie bør tage {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 time og }
+        other {# timer og }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 minutter}
+        one {1 minut}
+        other {# minutter}
+    } at læse.`,
+    'story.estimatedReadingTime.explained': 'Baseret på en gennemsnitlig læsehastighed på {avgReadingNum, number} ord per minut.',
     'discover.search.text': 'Søgeudtryk',
     'discover.searchStory.title': 'Søg efter en historie',
     'discover.searchStory.description': 'Søg efter historier',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'Indholdsfortegnelse',
     'story.status.hiatus': 'I hiatus',
     'story.status.cancelled': 'Annulleret',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Læst - {readAt, date}',
     'discovery.moreDetails': 'Yderligere detaljer',
     'discovery.read': 'Læs',
     'discovery.chapters.showAll': 'Vis alle kapitler',
