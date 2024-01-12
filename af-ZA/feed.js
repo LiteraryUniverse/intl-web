@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Voer',
     'feed.post.new': 'Nuwe pos',
     'feed.post.like': 'Hou van pos',
     'feed.post.unlike': 'Moenie van pos hou nie',
