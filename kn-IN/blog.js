@@ -1,17 +1,17 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `ನೀವು ಪ್ರಸ್ತುತವಾಗಿ ಯಾವುದೇ ಬ್ಲಾಗ್‌ನೊಂದಿಗೆ ಇಲ್ಲಿದ್ದೀರಿ {type, select,
+    organization {ಯಾವುದೇ ಬ್ಲಾಗ್‌ಗಳು ನಿಮ್ಮ ಯೂನಿವರ್ಸ್‌ಗೆ ಇಲ್ಲವೆ}
+    universe {ಒಂದು ಬ್ಲಾಗ್‌ಗೆ}
+    user {ಬ್ಲಾಗ್‌ಗಳು ಇಲ್ಲವೆ}
     other {}
-  }.`,
+  }`,
     'blog.create': 'ಹೊಸ ಬ್ಲಾಗ್ ರಚಿಸಿ',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ಬ್ಲಾಗ್ ವಿನ್ಯಾಸಗಳು}
+    universe {ಬ್ಲಾಗ್ ವಿಶ್ವ ಪುಟ}
+    user {ಬ್ಲಾಗ್ ಸೆಟ್ಟಿಂಗ್ಗಳು}
     other {}
-  } settings`,
+  } ಸೆಟ್ಟಿಂಗ್ಗಳು`,
     'blog.description': 'ಬ್ಲಾಗ್‌ ಪರಿಚಯ',
     'blog.theme': 'ಥೀಮ್',
     'blog.theme.info': 'ಥೀಮ್‌ಗನುಗ್ಗಿಸುವುದರಿಂದ ಪುಟದ ಹೊಂದಿಕೆ ಬದಲಾಗುತ್ತದೆ. ಈ ಅಂಶ ಈ ಸಮಯದಲ್ಲಿ ಯೋಗ್ಯತೆ ಪಡೆದಿಲ್ಲ.',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'ಜನರ ದೃಷ್ಟಿಗೆ ಸೂಕ್ತವಾದುದು',
     'blog.post.notfound': 'ಈ ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ನ ಪ್ರಕಟಣೆ ಕಾಣಲಿಲ್ಲ',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {ವಿಶ್ವಗಳು}
+    stories {ಸ್ವತಂತ್ರ ಕಥೆಗಳು}
+    fanfiction {ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಕೆಲಸ}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'ಇಲ್ಲಿ ಸ್ವತಂತ್ರ ಕಥೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ, ಯಾಕೆಂದರೆ ಕಥೆ ಏಕ ಪದವಿಯ ಭಾಗವಾಗಿ ಬಂದಿರುವುದಾದ್ದರಿಂದ ಅದು ಯೂನಿವರ್ಸ್ ಪುಟದಲ್ಲಿ ಪ್ರಕಟವಾಗುತ್ತದೆ.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `ಸಾಮಾಜಿಕ ಲಿಂಕ್ಗಳು ಹೊಂದಿರುವುದು ಹೀಗೆಯೇ ಹೊಂದಿರುತ್ತವೆ {type, select,
+    organization {ಸಂಸ್ಥೆ ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ}
+    user {ಬಳಕೆದಾರ ಪ್ರೊಫೈಲ್ನಲ್ಲಿ}
     other {}
   }`,
     'blog.social.website': 'ಅಧಿಕೃತ ವೆಬ್‌ಸೈಟ್',
@@ -52,7 +52,7 @@ export default {
     'blog.settings.blog': 'ಬ್ಲಾಗ್',
     'blog.settings.forum': 'ಫೋರಂ',
     'blog.post.introText': 'ಪರಿಚಯಾತ್ಮಕ ಪೇರಿಕೆ',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.post.writtenBy': '{usernameDisplay}ಅವರಿಂದ ಬರೆಯಲ್ಪಟ್ಟಿದೆ',
+    'blog.post.writtenByFor': '{usernameDisplay} ಅವರಿಂದ ಬರೆಯಲ್ಪಟ್ಟಿದೆ {publicationName}ಗೆ',
     'blog.posts.recent': 'ಇತ್ತಿಚಿನ ಪೋಸ್ಟ್‌‌‌ಗಳು'
 };
