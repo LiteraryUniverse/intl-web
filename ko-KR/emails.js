@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': '이 이메일 주소 확인',
     // Getting premium from admins
     'email.adminUpgrade.subject': '계정이 업그레이드되었습니다',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `당신의 계정을 {plan, select,
+    explorer {탐험가}
+    adventurer {모험가}
+    storyteller {이야기꾼}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } 티어로 업그레이드했습니다. 다음 {days} 일 동안 이용할 수 있습니다.\n\n즐겨주세요,\nLiterary Universe 팀`,
     'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verification': '이메일 확인',
+    'email.verifying': '이메일을 확인 중입니다. 잠시만 기다려주세요...',
+    'email.verified': '좋은 소식입니다! 이메일이 확인되었습니다!'
 };    /* eslint-enable max-len */
