@@ -51,10 +51,10 @@ export default {
     'privacy.desc': 'Texto legal completo da Política de Privacidade do Universo Literário.',
     'guidelines.desc': 'Orientações Comunitárias do Universo Literário.',
     'tos.desc': 'Texto legal completo dos Termos de Serviço do Universo Literário.',
-    'homepage.intro': 'Let Your Creativity Run Wild Across the Literary Universe',
+    'homepage.intro': 'Deixe sua criatividade correr solta pelo Universo Literário',
     // 'homepage.explanation':
     //   'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
-    'homepage.explanation': 'Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That\'s why we\'ve designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it\'s a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.',
+    'homepage.explanation': 'Já sonhou em desenvolver um mundo fictício tão detalhado que até mesmo você se perde nele? No Literary Universe, fornecemos as ferramentas para tornar essa visão uma realidade. Todo escritor merece ter acesso a recursos e suporte de primeira qualidade. É por isso que criamos um espaço completo que une a narrativa intricada e a leitura apaixonada. Para os escritores, é um ambiente de trabalho dos sonhos; para os leitores, uma odisseia de exploração. Junte-se a nós enquanto seguimos a toca do coelho literário para descobrir até onde ela nos leva no mundo da imaginação.',
     'gdpr.title': 'Cumprimento do GDPR',
     'gdpr.desc': 'Universo Literário está em conformidade com as diretivas do GDPR da UE.',
     'gdpr.compliant': 'O Universo Literário está em conformidade com o GDPR',
