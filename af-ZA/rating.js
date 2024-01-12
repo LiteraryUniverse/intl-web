@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Gradering',
+    'rating.explained': 'Ouderdomsgradering en beperking.',
+    'rating.all': 'Almal',
+    'rating.desc.all': 'Toeganklik vir alle ouderdomme en groepe.',
+    'rating.teens': 'Tieners',
+    'rating.desc.teens': 'Geskik vir \'n gehoor tussen die ouderdom van 12 en 18.',
+    'rating.mature': 'Volwasse',
+    'rating.desc.mature': 'Bevat gevorderde temas, ruwe taal en implisiete tonele.',
+    'rating.explicit': 'Uitdruklik',
+    'rating.desc.explicit': 'Bevat uitdruklike tonele.',
+    'rating.selection.all': 'Almal - Toeganklik vir alle ouderdomme en groepe.',
+    'rating.selection.teens': 'Tieners (12-18) - Geskik vir gehoor tussen die ouderdom van 12 en 18.',
+    'rating.selection.mature': 'Volwasse (18+) - Bevat gevorderde temas, ruwe taal en implisiete tonele.',
+    'rating.selection.explicit': 'Uitdruklik (21+) - Bevat uitdruklike tonele.'
 };
