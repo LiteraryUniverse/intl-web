@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Hírfolyam',
     'feed.post.new': 'Új bejegyzés',
     'feed.post.like': 'Bejegyzés kedvelése',
     'feed.post.unlike': 'Bejegyzés kedvelésének visszavonása',
