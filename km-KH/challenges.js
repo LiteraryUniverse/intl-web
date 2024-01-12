@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'របាយការណ៍',
     'challenges.victory': 'អបអរសាទរ! អ្នកបានបញ្ចប់ការប្រកាសនេះហើយ។',
     'challenges.defeat': 'សូមអភ័យទោស! អ្នកមិនបានបញ្ចប់ការប្រកាសនេះទេ។',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'ចំនួនពាក្យបច្ចុប្បន្ននេះស្មើនឹង {wordcount, number}ពាក្យ នេះនឹងជាចំណុចចាប់ផ្តើម។',
     // NaNoWriMo
     'nanowrimo.full': 'វិទ្យាស្ថានបរិស្ថានជាតិនៃការសរសេរញឹកញាប់ស្តង់ដា',
     'nanowrimo.site': 'គេហទំព័ររបស់វិទ្យាស្ថានបរិស្ថានជាតិនៃ NaNoWriMo',
