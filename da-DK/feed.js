@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Forsyning',
     'feed.post.new': 'Ny post',
     'feed.post.like': 'Synes godt om post',
     'feed.post.unlike': 'Synes ikke godt om post',
