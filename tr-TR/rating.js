@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Derecelendirme',
+    'rating.explained': 'Yaş derecelendirmesi ve kısıtlama.',
+    'rating.all': 'Tümü',
+    'rating.desc.all': 'Tüm yaş ve gruplara uygun.',
+    'rating.teens': 'Gençler',
+    'rating.desc.teens': '12 ila 18 yaş arası bir izleyici kitlesi için uygun.',
+    'rating.mature': 'Olgun',
+    'rating.desc.mature': 'Gelişmiş temalar, kaba dil ve ima edilen sahneler içerir.',
+    'rating.explicit': 'Açık',
+    'rating.desc.explicit': 'Açık sahneler içerir.',
+    'rating.selection.all': 'Tüm - Tüm yaş ve gruplara uygun.',
+    'rating.selection.teens': 'Gençler (12-18) - 12 ila 18 yaş arası izleyici kitlesi için uygun.',
+    'rating.selection.mature': 'Olgun (18+) - Gelişmiş temalar, kaba dil ve ima edilen sahneler içerir.',
+    'rating.selection.explicit': 'Açık (21+) - Açık sahneler içerir.'
 };
