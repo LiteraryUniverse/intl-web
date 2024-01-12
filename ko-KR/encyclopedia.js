@@ -29,68 +29,68 @@ export default {
     other {#개의 관련 항목}
   } 발견됨.`,
     'encyclopedia.help.text': '왼쪽 메뉴를 사용하여 백과사전의 항목 사이를 이동하세요. 항목을 선택하면 이 텍스트 대신에 표시됩니다.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': '사이드바 도구상자',
+    'encyclopedia.help.sidebar.text': '당신의 이야기에 오신 것을 환영합니다! 이 사이드바를 통해 이야기와 관련된 모든 자원에 쉽게 접근할 수 있습니다. 최신 댓글, 메모, 백과사전 검색, 새로운 항목을 찾아 추가하는 아이콘을 확인하려면 위의 아이콘을 확인하세요. 이야기 텍스트에서 항목과의 연결을 추가하려면, 연결을 배치하려는 텍스트를 선택한 후에 연결 버튼을 클릭하세요. 그럼 항목을 찾아 선택하라는 메시지가 나타납니다.',
     'encyclopedia.intro': '{universe} 백과사전에 오신 것을 환영합니다.',
     'encyclopedia.add.title': '백과사전에 새 항목 추가',
     'encyclopedia.add.heading': '무엇을 추가하시겠습니까?',
     'encyclopedia.add.moresoon': '추가 카테고리가 곧 제공됩니다!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `새로운 {category, select,
+    character {캐릭터}
+    event {이벤트}
+    group {그룹}
+    item {아이템}
+    location {위치}
+    other {노트}
+    state {상태}
+    governments {정부}
+    languages {언어}
+    creatures {생물}
+    deity {신}
+    religions {종교}
+    flora {식물}
+    magic {마법}
+    planets {행성}
+    species {종}
+    technologies {기술}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create.header': `새로운 {category, select,
+    character {캐릭터}
+    event {이벤트}
+    group {그룹}
+    item {아이템}
+    location {위치}
+    other {노트}
+    state {상태}
+    governments {정부}
+    languages {언어}
+    creatures {생물}
+    deity {신}
+    religions {종교}
+    flora {식물}
+    magic {마법}
+    planets {행성}
+    species {종}
+    technologies {기술}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `항목 카테고리: {category, select,
+    character {캐릭터}
+    event {이벤트}
+    group {그룹}
+    item {아이템}
+    location {위치}
+    other {노트}
+    state {상태}
+    governments {정부}
+    languages {언어}
+    creatures {생물}
+    deity {신}
+    religions {종교}
+    flora {식물}
+    magic {마법}
+    planets {행성}
+    species {종}
+    technologies {기술}
   }`,
     'encyclopedia.entry.category.legend': '카테고리',
     'encyclopedia.fields.add': '새 필드 추가',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': '현재 구독에 허용된 최대 백과사전 항목 수에 도달하였습니다.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': '백과사전 제어',
+    'encyclopedia.pronunciation.title': '발음',
     'encyclopedia.wip.abbreviation': '개발중',
     'encyclopedia.wip.full': '작업 진행중'
 };
