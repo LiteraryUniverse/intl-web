@@ -16,7 +16,7 @@ export default {
     'challenges.startDate': 'Tanggal mulai',
     'challenges.endDate': 'Tanggal berakhir',
     'challenges.future': 'Tantangan mendatang',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Tantangan hitung kata dimulai pada {startDate, date, short} dengan tujuan {target, number} oleh {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Tantangan NaNoWriMo sudah siap.',
     'challenges.wordcount': 'Jumlah kata',
     'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Lapor',
     'challenges.victory': 'Selamat! Anda telah menyelesaikan tantangan ini.',
     'challenges.defeat': 'Sayangnya Anda tidak menyelesaikan tantangan ini.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Jumlah kata saat ini untuk cerita ini adalah {wordcount, number}, ini akan menjadi titik awal.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'Situs resmi NaNoWriMo',
