@@ -1,8 +1,8 @@
 export default {
-    'sharing.title': 'Share',
-    'sharing.button': 'Sharing Button',
-    'sharing.share': 'Share with...',
-    'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
+    'sharing.title': 'Delen',
+    'sharing.button': 'Delenknop',
+    'sharing.share': 'Delen met...',
+    'sharing.feedback': 'Missen we een plek waar je naar wilt delen? Laat het ons weten!',
     'sharing.copy': 'Kopiëren',
     'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',
