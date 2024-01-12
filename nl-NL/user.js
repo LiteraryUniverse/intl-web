@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Toevoegen aan vrienden',
+    'user.friend.requests': `Je hebt {num, number} nieuwe vriend {num, plural,
+    zero {verzoeken}
+    one {verzoek}
+    many {verzoeken}
+    other {verzoeken}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Ontvrienden',
+    'user.block': 'Blokkeer',
+    'user.unblock': 'Deblokkeer',
     'user.joined': `{gender, select,
     male {Joined}
     female {Joined}
     other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    'user.friend.request.accept': 'Vriendschapsverzoek accepteren',
+    'user.friend.request.cancel': 'Vriendschapsverzoek annuleren',
+    'user.friend.request.deny': 'Vriendschap weigeren',
+    'user.listing': 'Gebruikerslijst',
+    'user.profile.visit': 'Bezoek het profiel van {user}.',
+    'user.profile.avatar': 'Avatar van {username}',
+    'user.friend.list.requests': 'Vriendschapsverzoeken',
+    'user.friend.norequests': 'Je hebt geen vriendschapsverzoeken.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
@@ -28,26 +28,26 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Deze auteur is op traditionele wijze gepubliceerd',
+    'user.verification.luAuthor': 'Auteur van het Literair Universum',
+    'user.verification.luEmployee': 'Medewerker van het Literair Universum',
+    'user.verification.publicFigure': 'Geverifieerde publieke figuur',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {verhaal}
+    other {verhalen}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {universum}
+    other {universums}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {fanfictie}
+    other {fanficties} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Werken',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Verlanglijst',
+    'profile.storiesBy': 'Verhalen gemaakt door {username}',
+    'profile.universesBy': 'Universums gemaakt door {username}',
+    'profile.fanFictionBy': 'Fanfictie gemaakt door {username}'
 };
