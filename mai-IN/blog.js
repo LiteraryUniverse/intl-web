@@ -1,17 +1,17 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `तुम्हारे वर्तमान में कोई ब्लॉग नहीं है {type, select,
+    organization {तुम्हारे यूनिवर्स के लिए कोई ब्लॉग नहीं है}
+    universe {एक ब्लॉग}
+    user {एक ब्लॉग}
     other {}
   }.`,
     'blog.create': 'नया ब्लॉग बनाएँ',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ब्लॉग}
+    universe {ब्रह्माण्ड पृष्ठ}
+    user {ब्लॉग}
     other {}
-  } settings`,
+  } सेटिंग्स`,
     'blog.description': 'ब्लॉग परिचय',
     'blog.theme': 'विषय',
     'blog.theme.info': 'पृष्ठ के दिखावट को बदलकर आप पृष्ठ की दिखावट को बदल सकते हैं। यह सुविधा इस समय तैयार नहीं है।',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'सार्वजनिक दृश्य',
     'blog.post.notfound': 'ब्लॉग पोस्ट नहीं मिली',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {ब्रह्माण्ड}
+    stories {स्वतंत्र कहानियाँ}
+    fanfiction {प्रशंसा कार्य}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'यहाँ स्वतंत्र कथाएँ सूचीबद्ध हैं, यदि कहानी किसी ब्रह्मांड का हिस्सा के रूप में लिखी गई है तो वह ब्रह्मांड पृष्ठ पर सूचीबद्ध होगी।',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `सामाजिक संपर्क सेटिंग्स में सेट किए गए समान हैं जैसे कि {type, select,
+    organization {संगठन सेटिंग्स}
+    user {उपयोगकर्ता प्रोफ़ाइल}
     other {}
   }`,
     'blog.social.website': 'आधिकारिक वेबसाइट',
