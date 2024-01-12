@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'Creative Commons Attribution-NonCommercial-NoDerivs 4.0',
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.lu-c': 'సాధారణ పూర్తి కాపీరైట్ లైసెన్స్ ఇది మీరు మీ పనిని ఎలా అమలు చేయాలో అందించడం మరియు మీ అధికారాలను అందించడం ద్వారా మీ పనిని ప్రచురించడం కూడా అనుమతిస్తుంది. ఈ లైసెన్స్ మీరు కథలను లిటరరీ యూనివర్స్‌లో మీ కథలను అమలు చేయడానికి కూడా అనుకూలంగా ఉంది.',
+    'licenses.name.cc0': 'ఏ అధికారాలను రాకుండా ఉంచవలేని - CC0 1.0',
+    'licenses.cc0': 'మీ పనిని పబ్లిక్ డొమైన్‌లో ఉంచండి. CC లైసెన్సులతో తుంటున్న కాపీరైట్ హోల్డర్లకు అనేక అనుమతులను ఎంచుకోవడం చేస్తుందని వేరియింట్‌లు ఉంచేటప్పుడు, CC0 కాపీరైట్ మరియు డేటాబేస్ రక్షణను త్యజింపు చేస్తుంది, మరియు సృష్టికర్తలకు స్వచ్ఛ హక్కులను స్వయంగా అందిస్తుంది - మా లైసెన్సులకు అందిస్తున్న అంతర్గత అనుమతుల కంటే మరొక ఎంపిక - కాపీరైట్ లేకుండా మరియు డేటాబేస్ రక్షణ చేసే అనుమతిని త్యజింపు చేసే అంతర్గత మా లైసెన్సుల ప్రతిస్పందనకు.'
 };
