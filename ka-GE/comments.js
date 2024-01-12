@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'დაწერეთ თქვენი კომენტარი',
+    'comments.none': 'უკაცრავად, კომენტარები არ არის არსებული',
+    'comments.total': `არაფერიანდებს {count, plural,
+    =0 {კომენტარს}
+    one {1 კომენტარი}
+    other {# კომენტარი}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'ძველი კომენტარების ნახვა'
 };
