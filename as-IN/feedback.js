@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'আইনী লঙ্ঘন',
     'feedback.reportType.vulgar': 'অশ্লীল/অশোভনীয়',
     'feedback.reportType.copyright': 'কপিৰাইট লঙ্ঘন',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'অশুদ্ধ বয়স্কতা রেটিং',
+    'feedback.reportType.scam': 'প্রতারণা',
+    'feedback.report.submit': 'রিপোর্ট',
+    'feedback.report.submitting': 'প্ৰতিবেদন কৰা হৈছে...',
+    'feedback.report.violationDesc': 'বিশদ',
+    'feedback.report.reportSaved': 'প্ৰতিবেদনৰ বাবে ধন্যবাদ! আমি যদি প্ৰয়োজন হয় তেন্তে আমি তথ্য সংগ্ৰহ কৰি আৰোপ নিবাৰিব।',
+    'feedback.report.copyrightReportSaved': 'প্ৰতিবেদনৰ বাবে ধন্যবাদ! আমি তথ্য সংগ্ৰহ কৰি আৰোপ নিবাৰিব আৰু যোগাযোগ কৰিব।',
+    'feedback.report.copyrightOwnershipDesc': 'মালিকানা বিবৰণী',
+    'feedback.report.copyrightNotice': 'দয়া কৰি মনত ধৰণীত আপুনি কাজটোৰ মালিক হওৱা লাগিব। যদি আপুনি মালিক নহয়, অনুগ্ৰহ কৰি মালিকক জানাইব অথবা আপুনি আমাৰ লগত যোগাযোগ কৰিব বাবে অন্য শ্ৰেণীত ব্যৱহাৰ কৰক। আমি কপিৰাইট লঙ্ঘনসমূহক অসম্ভবত গম্ভীৰভাৱে নেওৱাৰ চেষ্টা কৰি থাকোঁ আৰু এই ফর্মৰ অপচয়কৰ ব্যৱহাৰও তথ্য সংগ্ৰহ কৰি আৰোপ নিবাৰিব।',
+    'feedback.report.copyrightInternalProperty': 'মই এই কামটো সাহিত্যিক বিশ্বত প্ৰকাশ কৰিছো',
+    'feedback.reportType.spam': 'স্প্যাম অথবা ফিশিং',
+    'feedback.reportType.other': 'অন্যান্য',
+    'feedback.report.copyrightType.propertySelectLabel': `কোন {type, select,
+    universe {পৰিবেশ}
+    story {গল্প}
+    other {গল্প}
+  } লংঘন কৰা হৈছে?`
 };
