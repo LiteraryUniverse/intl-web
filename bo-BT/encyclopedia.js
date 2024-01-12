@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `ཐོག་མིང་དབྱེ་བ། {category, select,
+    character {ཚོགས་པ།}
+    event {བརྗོད།}
+    group {སྡེ་ཚན།}
+    item {གནས་ཚུལ།}
+    location {ས་ཁོང་།}
+    other {དང་པོ།}
+    state {རྒྱུ་མཚན།}
+    governments {རྒྱལ་ཁབ།}
+    languages {སྐད་རིགས།}
+    creatures {སྦྱོང་ཚོགས།}
+    deity {ལྷ་མོ།}
+    religions {བསྟན་འཛིན།}
+    flora {སྟོན།}
+    magic {རྒྱལ་པོ།}
+    planets {གྲོང་ཁྱེར།}
+    species {རིགས།}
+    technologies {རིགས་ཀྱི་རྩ་བ།}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
@@ -146,8 +146,8 @@ export default {
     other {་{max, number}་}
   } ་སྡེ་ཚན་བྱེད།`,
     'enc.entries.limitReached': 'ཁྱོད་ཀྱི་སློབ་ཚན་གཞི་འདི་གི་རིམ་པ་འདུ་བས་ཤོག་མིན་འདུག་པ་དང་གཅིག་ཁར་བསྐྱོད་པའི་སློབ་ཚན་གཞི་བཟོ་བ།',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'བརྡ་འབྲེལ་གྱི་སྒྲིག་འཛུལ་',
+    'encyclopedia.pronunciation.title': 'སྐུགས་ལྡོག་པ།',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'སྡེ་དགོན་གསརཔ་འགྱུར།'
 };
