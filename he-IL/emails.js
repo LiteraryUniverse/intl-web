@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'אמת כתובת דוא"ל זו',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'חשבונך עודכן',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `שדרגנו את החשבון שלך ל {plan, select,
+    explorer {חוקר}
+    adventurer {הרפתקן}
+    storyteller {סופר}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } לשלב הבא במשך {days} ימים.\n\nתהנה,\nצוות היקום הספרותי`,
+    'email.adminUpgrade.messageHtml': `שדרגנו את החשבון שלך ל {plan, select,
+    explorer {חוקר}
+    adventurer {הרפתקן}
+    storyteller {סופר}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } לשלב הבא במשך {days} ימים. תהנה!`,
+    'email.verification': 'אימות דואר אלקטרוני',
+    'email.verifying': 'מאמתים את הדואר האלקטרוני שלך. זה ייקח רק רגע...',
+    'email.verified': 'חדשות טובות! הדואר האלקטרוני שלך אומת בהצלחה!'
 };    /* eslint-enable max-len */
