@@ -15,8 +15,8 @@ export default {
   // Notification messages
   'notification.workshopStoryStatus.toHiatus': 'உங்கள் கதை {storyName} நிரப்புப்படுத்தப்பட்டுள்ளது பொறுப்பற்றது என்று தானாக்கம் செய்யப்பட்டது.',
   'notification.workshopStoryStatus.toCancelled': 'உங்கள் கதை {storyName} நிரப்புப்பட்டுள்ளது ரத்துசெய்யப்பட்டது என்று தானாக்கம் செய்யப்பட்டது.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} முன்னேற்றம் நிறுத்தப்பட்டுள்ளது.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} ரத்து செய்யப்பட்டுள்ளது.',
   'notification.followingNewChapter.new': 'புதிய பதிகை {storyName} வெளியிடப்பட்டுள்ளது!',
   'notification.workshopStory.newComment': '{storyName}குறிச்சொல்லில்  {storyName} பரப்பப்பட்டார்',
   // Before this text will be the username of the user
