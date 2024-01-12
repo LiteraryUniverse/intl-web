@@ -16,7 +16,7 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': 'Batay sa isang average na bilis ng pagbasa na {avgReadingNum, number} salita bawat minuto.',
     'discover.search.text': 'Search term',
     'discover.searchStory.title': 'I-search ang isang kwento',
     'discover.searchStory.description': 'I-search ang mga kwento',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'Table ng nilalaman',
     'story.status.hiatus': 'On hiatus',
     'story.status.cancelled': 'Itinigil',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Basahin - {readAt, date}',
     'discovery.moreDetails': 'Karagdagang mga detalye',
     'discovery.read': 'Basahin',
     'discovery.chapters.showAll': 'Ipakita lahat ng mga kabanata',
