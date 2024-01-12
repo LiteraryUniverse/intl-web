@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Rátáil',
+    'rating.explained': 'Rátáil aoise agus srianta.',
+    'rating.all': 'Gach',
+    'rating.desc.all': 'Ar fáil do gach aoisghrúpa agus grúpa.',
+    'rating.teens': 'Déagóirí',
+    'rating.desc.teens': 'Oiriúnach do lucht féachana idir 12 agus 18 bliain d\'aois.',
+    'rating.mature': 'Fásta',
+    'rating.desc.mature': 'Ábhair chun tosaigh, teanga mhíchuí agus radharcanna neamhshásta.',
+    'rating.explicit': 'Achoimre',
+    'rating.desc.explicit': 'Ábhair achoimre.',
+    'rating.selection.all': 'Gach - Ar fáil do gach aoisghrúpa agus grúpa.',
+    'rating.selection.teens': 'Déagóirí (12-18) - Oiriúnach do lucht féachana idir 12 agus 18 bliain d\'aois.',
+    'rating.selection.mature': 'Fásta (18+) - Ábhair chun tosaigh, teanga mhíchuí agus radharcanna neamhshásta.',
+    'rating.selection.explicit': 'Achoimre (21+) - Ábhair achoimre.'
 };
