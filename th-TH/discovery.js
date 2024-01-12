@@ -7,56 +7,56 @@ export default {
     'discovery.continue': 'ดำเนินการอ่านต่อ',
     'discovery.stories.similar.new': 'เรื่องราวใหม่ในย่านใกล้เคียง',
     'discovery.stories.similar.regular': 'เรื่องราวในย่านใกล้เคียง',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
-        =0 {}
-        one {1 hour and }
-        other {# hours and }
+    'story.estimatedReadingTime': `เรื่องนี้ควรใช้เวลาอ่านประมาณ {hours, plural,
+        =0 {ชั่วโมงและ}
+        one {1 ชั่วโมงและ }
+        other {# ชั่วโมงและ }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 นาที}
+        one {1 นาที}
+        other {# นาที}
+    } ในการอ่าน`,
+    'story.estimatedReadingTime.explained': 'อิงจากความเร็วในการอ่านเฉลี่ยของ {avgReadingNum, number} คำต่อนาที',
+    'discover.search.text': 'คำค้นหา',
+    'discover.searchStory.title': 'ค้นหาเรื่อง',
+    'discover.searchStory.description': 'ค้นหาเรื่อง',
+    'discover.searchUniverse.title': 'ค้นหาจักรวาล',
+    'discover.searchUniverse.description': 'ค้นหาจักรวาล',
+    'discover.search.storyStatus': 'สถานะความคืบหน้าของเรื่อง',
+    'story.status.complete': 'เสร็จสมบูรณ์',
+    'story.status.inProgress': 'กำลังเขียน',
+    'discover.search.universeConnection': 'ความเชื่อมโยงของเรื่องกับจักรวาล',
+    'story.universeRelation.standalone': 'เรื่องสั้นเดี่ยว',
+    'story.universeRelation.fanFiction': 'เรื่องแฟนฟิค',
+    'story.universeRelation.universe': 'เป็นส่วนหนึ่งของจักรวาล',
+    'discover.search.rating': 'อายุการใช้งาน',
+    'discover.search.license': 'ลิขสิทธิ์',
+    'discover.search.language': 'ภาษา',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {ไม่มีจักรวาลที่ตรงกับพารามิเตอร์ของคุณ}
+        one {พบจักรวาล 1 รายการ}
+        other {พบจักรวาล # รายการ}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {ไม่มีเรื่องที่ตรงกับพารามิเตอร์ของคุณ}
+        one {พบเรื่อง 1 รายการ}
+        other {พบเรื่อง # รายการ}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discover.viewSelection.aria': 'เลือกการแสดงผล',
+    'discover.searchDisplay.covers': 'รายการปก',
+    'discover.searchDisplay.list': 'รายการย่อ',
+    'discover.includesAds': 'งานนี้มีการจัดวางสินค้าหรือมีการโฆษณาแบบอื่นๆ ในนั้น',
+    'discovery.featured.universes': 'จักรวาลที่แนะนำ',
+    'discovery.featured.stories': 'เรื่องน่าสนใจที่แนะนำ',
+    'discovery.story.tableOfContent': 'สารบัญ',
+    'story.status.hiatus': 'หยุดชั่วคราว',
+    'story.status.cancelled': 'ยกเลิก',
+    'story.chapter.wasRead': 'อ่านแล้ว - {readAt, date}',
+    'discovery.moreDetails': 'รายละเอียดเพิ่มเติม',
+    'discovery.read': 'อ่าน',
+    'discovery.chapters.showAll': 'แสดงบททั้งหมด',
+    'discovery.chapters.showMore': 'แสดงบทเพิ่มเติม',
+    'discovery.chaptersTotal': 'จำนวนบททั้งหมดในเรื่อง',
+    'discovery.readFromStart': 'อ่านตั้งแต่ตอนแรก',
+    'discovery.readLatest': 'อ่านตอนล่าสุด'
 };
