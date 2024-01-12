@@ -13,12 +13,12 @@ export default {
   'notifications.menu.markRead': 'កំណត់ថ្នាក់អានរួច។',
   'notifications.menu.delete': 'លុប​ការជូនដំណឹង',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'របាយការណ៍របស់អ្នក {storyName} ត្រូវបានកំណត់ឱ្យបញ្ឈប់បន្ទាន់ពីកាលបរិច្ឆេទអស់រយៈពេល ៦ ខែក្រោយនៃការអស់ទុន។',
+  'notification.workshopStoryStatus.toCancelled': 'របាយការណ៍របស់អ្នក {storyName} ត្រូវបានកំណត់ឱ្យសំរាប់បន្ទាន់ពីកាលបរិច្ឆេទអស់រយៈពេលមួយឆ្នាំក្រោយនៃការអស់ទុន។',
+  'notification.followingStoryStatus.toHiatus': '{storyName} កំពុងសម្លាប់ទុន។',
+  'notification.followingStoryStatus.toCancelled': '{storyName} ត្រូវបានបោះបង់។',
+  'notification.followingNewChapter.new': 'បានបោះពុម្ពថ្មីនៃជិតដំបូងក្នុង {storyName}!',
+  'notification.workshopStory.newComment': 'បានធ្វើយោបល់លើ {storyName}',
   // Before this text will be the username of the user
   'notification.friendRequest': 'អ្នក​បានចែក​រំលែក​អ្នកដឹកនាំ។',
   // Before this text will be the username of the user
