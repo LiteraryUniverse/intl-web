@@ -35,13 +35,13 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.messageHtml': `Ți-am upgrade-at contul la nivelul {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } pentru următoarele {days} zile. Bucură-te!`,
+    'email.verification': 'Verificare e-mail',
+    'email.verifying': 'Se verifică adresa ta de e-mail. Acest proces va dura doar un moment...',
+    'email.verified': 'Vestea bună! Adresa ta de e-mail a fost verificată!'
 };    /* eslint-enable max-len */
