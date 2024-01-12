@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Τροφοδοσία',
     'feed.post.new': 'Νέα θέση',
     'feed.post.like': 'Όπως η θέση',
     'feed.post.unlike': 'Σε αντίθεση με τη θέση',
