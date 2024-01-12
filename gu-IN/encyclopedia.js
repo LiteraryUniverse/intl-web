@@ -29,68 +29,68 @@ export default {
     other {# સંબંધિત એન્ટ્રીઓ છે}
   } મળી ગઈને છે.`,
     'encyclopedia.help.text': 'વિજ્ઞાનકોશમાં આઇટમ્સની વચાલણી કરવા માટે ડાબી બાજુનો મેનૂ વપરો. એક આઇટમ પસંદ કરેલ પછી, આ ટેક્સટની જગ્યાએ તે દર્શાવાશે.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    'encyclopedia.help.sidebar': 'સાઇડબાર ટૂલબોક્સ',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
     'encyclopedia.add.title': 'વિજ્ઞાનકોશમાં નવી એન્ટ્રી ઉમેરો',
     'encyclopedia.add.heading': 'શું ઉમેરવા માંગો છો?',
     'encyclopedia.add.moresoon': 'વધુ કેટેગરીઓ આવતી આવશે!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `નવું બનાવો {category, select,
+    character {ચરિત્ર}
+    event {ઘટના}
+    group {ગ્રુપ}
+    item {વસ્તુ}
+    location {સ્થળ}
+    other {નોંધ}
+    state {રાજ્ય}
+    governments {સરકાર}
+    languages {ભાષા}
+    creatures {પ્રાણી}
+    deity {દેવતા}
+    religions {ધર્મ}
+    flora {વૃક્ષો}
+    magic {જાદુ}
+    planets {પ્રદેશ}
+    species {પ્રજા}
+    technologies {તકનીક}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `નવું બનાવો {category, select,
+    character {ચરિત્ર}
+    event {ઘટના}
+    group {ગ્રુપ}
+    item {વસ્તુ}
+    location {સ્થળ}
+    other {નોંધ}
+    state {રાજ્ય}
+    governments {સરકાર}
+    languages {ભાષા}
+    creatures {પ્રાણી}
+    deity {દેવતા}
+    religions {ધર્મ}
+    flora {વૃક્ષો}
+    magic {જાદુ}
+    planets {પ્રદેશ}
+    species {પ્રજા}
+    technologies {તકનીક}
+  } માં {universe}`,
+    'encyclopedia.entry.category': `એન્ટ્રી શ્રેણી: {category, select,
+    character {અક્ષર}
+    event {ઈવેન્ટ}
+    group {ગ્રૂપ}
+    item {આઇટમ}
+    location {સ્થળ}
+    other {નોંધ}
+    state {રાજ્ય}
+    governments {સરકાર}
+    languages {ભાષા}
+    creatures {પ્રાણી}
+    deity {દૈવ}
+    religions {ધર્મ}
+    flora {વનસ્પતિ}
+    magic {જાદૂ}
+    planets {ગ્રહ}
+    species {જાતિ}
+    technologies {ટેકનોલોજી}
   }`,
     'encyclopedia.entry.category.legend': 'કેટેગરી',
     'encyclopedia.fields.add': 'નવી ફીલ્ડ ઉમેરો',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'તમે તમારી વર્તમાન ગણિતશાસ્ત્ર પુસ્તકમાંથી મહત્તમ અનુમત પ્રવેશો પ્રાપ્ત કર્યા છે.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'ઍન્સાય્ક્લોપીડિયા નિયંત્રણો',
+    'encyclopedia.pronunciation.title': 'ઉચ્ચારણ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'પ્રગતિમાં છેલ્લી સ્થિતિ'
 };
