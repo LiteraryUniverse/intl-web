@@ -6,12 +6,12 @@ export default {
     'universe.fanarts.for': '{universe} Ealaín Bhfanna',
     'universe.fansettings.for': '{universe} Socruithe Bhfanna',
     'universe.fanfiction.stories': 'Scéalta',
-    'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.fanfiction.fanarts': 'Ealaín Lucht leanúna',
+    'universe.stories.count': `Níl aon scéalta anseo in {num, plural,
+    =0 {}
+    one {Tá scéal amháin anseo!}
+    other {Tá !<span class="notranslate">#</span>! scéalta anseo!}
+    } sa chruinne seo.`,
     'universe.authors.title': 'Údair',
     'universe.authors.desc': 'Cruthaitheoirí agus cuiditheoirí d\'aois {universe}',
     'universe.contributors': 'Cuiditheoirí',
@@ -26,11 +26,11 @@ export default {
     'universe.stories.desc': 'Scéalta Cainteoir do {universe}',
     'universe.encyclopedia.title': 'Cinniúint do  {universe}',
     'universe.encyclopedia.desc': 'Gach sonraí do {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
+    'universe.fanArt.submit': 'Cuir in iúl do chuid ealaíne',
+    'universe.fanArtHeaderDesc.item': '{universe} ealaín lucht leanúna - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} iarratas ealaíne lucht leanúna',
+    'universe.fanArtHeaderDesc.overview': '{universe} ealaín lucht leanúna',
     'universe.fanFiction.hidden': 'Iascríbhne a bhaint amach',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hide': 'Folaigh ficsean',
+    'universe.fanFiction.unhide': 'Taispeáin ficsean'
 };
