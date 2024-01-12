@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Avalik vaade',
     'blog.post.notfound': 'Blogi postitust ei leitud',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universumid}
+    stories {Iseseisvad lood}
+    fanfiction {Fännikirjandus}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Siin on eraldi lugude loetelu. Kui lugu on kirjutatud osana universumist, kuvatakse see universumi lehel.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Sotsiaalsed lingid on samad kui määratud {type, select,
+    organization {organisatsiooni seadetes}
+    user {kasutaja profiilis}
     other {}
   }`,
     'blog.social.website': 'Ametlik veebileht',
