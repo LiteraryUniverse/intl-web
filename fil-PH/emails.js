@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Patunayan ang e-mail address na ito',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Ang iyong account ay na-upgrade',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.message': `Na-upgrade namin ang iyong account sa {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+  } tier para sa susunod na {days} araw.\n\nMag-enjoy,\nLiterary Universe team`,
+    'email.adminUpgrade.messageHtml': `Na-upgrade namin ang iyong account sa {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } tier para sa susunod na {days} araw. Mag-enjoy!`,
+    'email.verification': 'Pagpapatunay ng E-mail',
+    'email.verifying': 'Sinusuri ang iyong e-mail. Ito ay magtatagal ng ilang sandali lamang...',
+    'email.verified': 'Magandang balita! Na-verify na ang iyong e-mail!'
 };    /* eslint-enable max-len */
