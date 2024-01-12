@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'Įstatymo pažeidimas',
     'feedback.reportType.vulgar': 'Vulgari/neskoninga',
     'feedback.reportType.copyright': 'Autorių teisių pažeidimas',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'Neteisingas amžiaus įvertinimas',
+    'feedback.reportType.scam': 'Apgavystė',
+    'feedback.report.submit': 'Ataskaita',
+    'feedback.report.submitting': 'Pranešama...',
+    'feedback.report.violationDesc': 'Informacija',
+    'feedback.report.reportSaved': 'Ačiū už pranešimą! Ištirsime ir imsimės veiksmų, jei reikės.',
+    'feedback.report.copyrightReportSaved': 'Ačiū už pranešimą! Ištirsime ir susisieksime su jumis.',
+    'feedback.report.copyrightOwnershipDesc': 'Nuosavybės deklaracija',
+    'feedback.report.copyrightNotice': 'Prašome atkreipti dėmesį, kad norint naudotis šia forma, turite būti teisėtas darbo savininkas. Jei nesate savininkas, prašome informuoti savininką arba naudoti kitą kategoriją, kad mus informuotumėte. Mes labai rimtai vertiname autorių teisių pažeidimus, taip pat netinkamą ir piktnaudžiavimą šia forma.',
+    'feedback.report.copyrightInternalProperty': 'Aš paskelbiau šį darbą „Literary Universe“',
+    'feedback.reportType.spam': 'Šlamštas arba phishinimas',
+    'feedback.reportType.other': 'Kita',
+    'feedback.report.copyrightType.propertySelectLabel': `Kurios {type, select,
+    universe {visatos}
+    story {istorijos}
+    other {istorija}
+  } yra pažeidžiama?`
 };
