@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Aktualnie nie masz {type, select,
+    organization {żadnego bloga}
+    universe {bloga dla twojego świata}
+    user {bloga}
     other {}
   }.`,
     'blog.create': 'Utwórz nowego bloga',
