@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Makanan',
     'feed.post.new': 'Entri baru',
     'feed.post.like': 'Suka entri',
     'feed.post.unlike': 'Batal suka entri',
