@@ -30,67 +30,67 @@ export default {
   } natagpuan.`,
     'encyclopedia.help.text': 'Gamitin ang menu sa kaliwa upang mag-navigate sa mga item sa ensiklopedya. Kapag pinili mo ang isang item, ito ay ipapakita sa halip ng teksto na ito.',
     'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar.text': 'Maligayang pagdating sa iyong kuwento! Ang sidebar na ito ay nagbibigay sa iyo ng madaling access sa lahat ng mga mapagkukunan na may kinalaman sa iyong kuwento. Tingnan ang mga icon sa itaas upang makita ang pinakabagong mga komento, ang iyong mga tala, hanapin ang iyong ensiklopedya, mag-browse at magdagdag ng mga bagong entry sa iyong ensiklopedya. Kung gusto mong magdagdag ng koneksyon sa isang entry mula sa teksto ng kuwento, piliin ang teksto kung saan mo nais ito ilagay at i-click ang button na kumonekta. Pagkatapos ay papupuntahin ka upang hanapin at piliin ang isang item.',
     'encyclopedia.intro': 'Maligayang pagdating sa ensiklopedya ng {universe}.',
     'encyclopedia.add.title': 'Magdagdag ng bagong entry sa ensiklopedya',
     'encyclopedia.add.heading': 'Ano ang nais mong idagdag?',
     'encyclopedia.add.moresoon': 'Mas maraming mga kategorya ang darating sa lalong madaling panahon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.create': `Gumawa ng bagong {category, select,
+    character {karakter}
+    event {kaganapan}
+    group {grupo}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    location {lokasyon}
+    other {tala}
+    state {estado}
+    governments {pamahalaan}
+    languages {wika}
+    creatures {nilalang}
+    deity {diyos}
+    religions {relihiyon}
+    flora {halaman}
+    magic {mahika}
+    planets {planeta}
+    species {uri}
+    technologies {teknolohiya}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.create.header': `Gumawa ng bagong {category, select,
+    character {karakter}
+    event {kaganapan}
+    group {grupo}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
+    location {lokasyon}
+    other {tala}
+    state {estado}
+    governments {pamahalaan}
+    languages {wika}
+    creatures {nilalang}
+    deity {diyos}
+    religions {relihiyon}
+    flora {halaman}
+    magic {mahika}
+    planets {planeta}
+    species {uri}
+    technologies {teknolohiya}
+  } sa {universe}`,
+    'encyclopedia.entry.category': `Kategorya ng Pag-entry: {category, select,
     character {Character}
     event {Event}
     group {Group}
     item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    location {Lokasyon}
+    other {Tala}
+    state {Estado}
+    governments {Pamahalaan}
+    languages {Wika}
+    creatures {Nilalang}
+    deity {Diyos}
+    religions {Relihiyon}
+    flora {Halaman}
+    magic {Mahika}
+    planets {Planeta}
+    species {Uri}
+    technologies {Teknolohiya}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorya',
     'encyclopedia.fields.add': 'Magdagdag ng bagong field',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'Naratnan mo na ang pinakamataas na pinapayagang mga entry sa ensiklopedya para sa iyong kasalukuyang subscription.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Mga kontrol ng Encyclopedia',
+    'encyclopedia.pronunciation.title': 'Pagsasalita',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Ginagawa Pa'
 };
