@@ -16,7 +16,7 @@ export default {
     'challenges.startDate': 'Ημερομηνία έναρξης',
     'challenges.endDate': 'Ημερομηνία λήξης',
     'challenges.future': 'Προσεχείς προκλήσεις',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Πρόκληση μετρήσεων λέξεων που ξεκινάει στις {startDate, date, short} με στόχο τις {target, number} μέχρι τις {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Η πρόκληση NaNoWriMo είναι έτοιμη.',
     'challenges.wordcount': 'Μέτρηση λέξεων',
     'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Αναφορά',
     'challenges.victory': 'Συγχαρητήρια! Ολοκληρώσατε αυτήν την πρόκληση.',
     'challenges.defeat': 'Δυστυχώς δεν ολοκληρώσατε αυτήν την πρόκληση.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Ο τρέχων αριθμός λέξεων για αυτήν την ιστορία είναι {wordcount, number}, αυτό θα είναι το αρχικό σημείο.',
     // NaNoWriMo
     'nanowrimo.full': 'Εθνικός Μήνας Συγγραφής Μυθιστορήματος',
     'nanowrimo.site': 'Επίσημη ιστοσελίδα NaNoWriMo',
