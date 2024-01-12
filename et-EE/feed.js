@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Sööt',
     'feed.post.new': 'Uus postitus',
     'feed.post.like': 'Meeldib postitusele',
     'feed.post.unlike': 'Ei meeldi postitusele',
