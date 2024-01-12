@@ -1,10 +1,10 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `আপুনি বৰ্তমানে কোনো ব্লগ নাই {type, select,
+    organization {আপোনাৰ বিশ্বৰ বাবে এটা ব্লগ}
+    universe {নহয়}
+    user {এটা ব্লগ}
     other {}
-  }.`,
+  }।`,
     'blog.create': 'নতুন ব্লগ তৈরি কৰক',
     'blog.settings': `{type, select,
     org {ব্লগটো}
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'সাধাৰণ পৰিদৰ্শন',
     'blog.post.notfound': 'ব্লগ পোষ্ট পোৱা নহয়',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {বিশ্বসমূহ}
+    stories {একজন লিখকের গল্পসমূহ}
+    fanfiction {ফ্যান ফিকশন কাজ}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'এইয়াবলগত আলাপিটা গথালৈ থকা দিনবন্ধু কাহিনীসমূহ উপস্থিত থাকে, যদি কোনো কাহিনীটো এক নক্ষত্ অংশৰ হিচাপে লিখা হয় হৈছে তেনে তা নক্ষত্ পৃষ্ঠাৰ চাপৰিত দেখা পোৱা যায়।',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `সামাজিক লিঙ্কগুলি একইভাবে সেট করা হয় যেমন যেমন নির্ধারণ করা আছে {type, select,
+    organization {সংগঠনের সেটিংস}
+    user {ব্যবহারকারীর প্রোফাইল}
     other {}
   }`,
     'blog.social.website': 'আধিকাৰিক ওয়েবচাইট',
