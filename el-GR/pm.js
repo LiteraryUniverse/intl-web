@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Συνομιλία',
+    'pm.showolder': 'Εμφάνιση παλαιότερων μηνυμάτων',
+    'pm.errors.saysomething': 'Θα έπρεπε να πεις κάτι...',
+    'pm.errors.addrecipient': 'Πρέπει να προσθέσετε τουλάχιστον έναν άλλο χρήστη.',
+    'pm.message': 'Μήνυμα',
+    'pm.send.message': 'Αποστολή μηνύματος',
+    'pm.messages.own': 'Τα μηνύματά σας',
+    'pm.conversations.none': 'Δεν συνομιλείτε αυτήν τη στιγμή με κανέναν.',
+    'pm.to': 'Προς:',
+    'pm.with': 'Συνομιλία με:',
+    'pm.send': 'Αποστολή',
+    'pm.conversations.unreadCount': `Έχετε {count, plural,
+    zero {καμία αδιάβαστη συνομιλία}
+    one {μία αδιάβαστη συνομιλία}
+    other {# αδιάβαστες συνομιλίες}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Πρέπει να επιλέξετε έναν παραλήπτη.',
+    'pm.form.maxParticipants': `Μπορείτε να έχετε μέγιστο {maxPeople, plural,
+    one {ένα άτομο}
+    other {# άτομα}
+  } σε μια συνομιλία.`,
+    'pm.new.aria': 'Νέα συνομιλία',
+    'pm.new.buttonTitle': 'Ξεκινήστε μια νέα συνομιλία'
 };
