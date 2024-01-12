@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'מצטערים על ההפרעה. אך לפני שנתנגש יותר, אנחנו מחוייבים משפטית לוודא שאתה מודע ומסכים לתנאי השימוש שלנו, מדיניות הפרטיות וההסכם על זכויות יוצרים.',
+    'legal.modal.agree': 'אני מסכים',
+    'legal.modal.disagree': 'אני לא מסכים',
+    'legal.modal.register': 'לא תראה זאת יותר אם תרשם.',
+    'legal.modal.goToSettings': 'עבור להגדרות',
+    'legal.modal.oneLastThing': 'דבר אחרון...',
+    'legal.modal.finish': 'סיום',
+    'legal.modal.existingUser': 'כבר רשום?',
+    'legal.modal.pleaseLogin': 'אנא התחבר.'
 };
