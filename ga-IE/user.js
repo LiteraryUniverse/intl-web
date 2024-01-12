@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Cuir le cairde',
+    'user.friend.requests': `Tá {num, number} iarratas nua cairde {num, plural,
+    zero {agat}
+    one {iarratas}
+    many {iarratas}
+    other {iarratas}
   }`,
-    'user.friend.unfriend': 'Unfriend',
+    'user.friend.unfriend': 'Cealaigh cairde',
     'user.block': 'Blocáil',
     'user.unblock': 'Ná cosc a thuilleadh',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    male {Gabhann le}
+    female {Gabhann le}
+    other {Gabhann le}} ar {date, date, long}`,
+    'user.friend.request.accept': 'Glac le iarratas cairdis',
+    'user.friend.request.cancel': 'Cealaigh iarratas cairdis',
+    'user.friend.request.deny': 'Diúltaigh cairde',
+    'user.listing': 'Liosta úsáideoirí',
+    'user.profile.visit': 'Cuairt a thabhairt ar phróifíl {user}.',
+    'user.profile.avatar': 'Aoisbhrat {username}.',
+    'user.friend.list.requests': 'Iarratais cairdis',
+    'user.friend.norequests': 'Níl iarratais cairdis ort.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
@@ -28,26 +28,26 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Tá an t-údar seo foilsithe ar an mbealach traidisiúnta',
+    'user.verification.luAuthor': 'Údar bunaithe ar Literary Universe',
+    'user.verification.luEmployee': 'Fostaí Literary Universe',
+    'user.verification.publicFigure': 'Duine poiblí dhearbaithe',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {scéal}
+    other {scéalta}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {unibhersal}
+    other {unibhersail}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
-    other {fan fictions} 
+    other {fan fics} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Oibreacha',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Liosta mianta',
+    'profile.storiesBy': 'Scéalta cruthaithe ag {username}',
+    'profile.universesBy': 'Unibhersail cruthaithe ag {username}',
+    'profile.fanFictionBy': 'Fan Fiction cruthaithe ag {username}'
 };
