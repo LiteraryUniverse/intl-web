@@ -1,69 +1,69 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'აუცილებელი ველია',
+    'form.validator.mustBeNumber': 'უნდა იყოს რიცხვი',
+    'form.validator.minNumber': 'უნდა იყოს მეტი ვიდრე {min, number}',
+    'form.validator.maxNumber': 'უნდა იყოს ნაკლები ვიდრე {max, number}',
+    'form.validator.maxLength': `უნდა იყოს ნაკლები {max, number} {what, select,
+    characters {სიმბოლო}
+    tags {ტეგი}
+    genres {ჟანრი}
+    numbers {რაოდენობა}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `უნდა იყოს მინიმუმი {min, number} {what, select,
+    characters {სიმბოლო}
+    tags {ტეგი}
+    genres {ჟანრი}
+    genre {ჟანრი}
+    numbers {რაოდენობა}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'უნდა იყოს მითითებული ელ-ფოსტა',
+    'form.validator.url': 'უნდა იყოს მითითებული URL',
+    'form.validator.slug': 'უნდა იყოს მითითებული URL-ის ნაწილი',
+    'form.submitting.signup': 'ანგარიშის შექმნა...',
+    'form.submitting.signin': 'ავტორიზაცია...',
+    'form.submitting.default': 'გაგზავნა...',
+    'form.submitting.sending': 'გაგზავნა...',
+    'form.validator.whitespace': 'არ უნდა იყოს ცარიელი სიმბოლო',
+    'form.validator.zipCode': 'უნდა იყოს მითითებული ZIP კოდი',
+    'form.validator.isbn': 'მხოლოდ 10 ან 13 ვერსიას იღებთ ISBN-ისგან',
+    'form.validator.btc': 'ეს არ არის მართვადი BTC მისამართი.',
+    'form.validator.eth': 'ეს არ არის მართვადი ETH მისამართი.',
+    'form.weakPassword': 'ეს პაროლი მუშაობს სუფთად. გთხოვთ მიუთითოთ უფრო ძლიერი პაროლი, დაამატოთ ციფრები და სპეციალური სიმბოლოები.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} is not a valid date',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
-    'simpleschema.noDecimal': '{label} must be an integer',
-    'simpleschema.notAllowed': '{value} is not an allowed value',
-    'simpleschema.expectedString': '{label} must be a string',
-    'simpleschema.expectedNumber': '{label} must be a number',
-    'simpleschema.expectedBoolean': '{label} must be a boolean',
-    'simpleschema.expectedArray': '{label} must be an array',
-    'simpleschema.expectedObject': '{label} must be an object',
-    'simpleschema.expectedConstructor': '{label} must be a {type}',
-    'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
-    'simpleschema.regEx.0': '{label} failed regular expression validation',
-    'simpleschema.regEx.1': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.2': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.3': '{label} must be a valid domain',
-    'simpleschema.regEx.4': '{label} must be a valid domain',
-    'simpleschema.regEx.5': '{label} must be a valid IPv4 or IPv6 address',
-    'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
-    'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
-    'simpleschema.regEx.8': '{label} must be a valid URL',
-    'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
+    'simpleschema.required': '{label} აუცილებელია',
+    'simpleschema.minString': '{label} უნდა იყოს მინიმუმ {min, number} სიმბოლო',
+    'simpleschema.maxString': '{label} ვერ აღემატება {max, number} სიმბოლოს',
+    'simpleschema.minNumber': '{label} უნდა იყოს მინიმუმ {min, number}',
+    'simpleschema.maxNumber': '{label} ვერ აღემატება {max, number}',
+    'simpleschema.minNumberExclusive': '{label} უნდა იყოს მეტი ვიდრე {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} უნდა იყოს ნაკლები ვიდრე {max, number}',
+    'simpleschema.minDate': '{label} უნდა იყოს ან შემდეგი {min, date}',
+    'simpleschema.maxDate': '{label} ვერ იყოფა {max, date}',
+    'simpleschema.badDate': '{label} არ არის მარტივი თარიღი',
+    'simpleschema.minCount': 'უნდა მიუთითოს მცირე მინიმუმ {minCount, number} მნიშვნელობა',
+    'simpleschema.maxCount': 'არ შეიძლება მიუთითოს მეტი ვიდრე {maxCount, number} მნიშვნელობა',
+    'simpleschema.noDecimal': '{label} უნდა იყოს მთელი რიცხვი',
+    'simpleschema.notAllowed': '{value} არ არის დაშვებული მნიშვნელობა',
+    'simpleschema.expectedString': '{label} უნდა იყოს სტრიქონი',
+    'simpleschema.expectedNumber': '{label} უნდა იყოს რიცხვი',
+    'simpleschema.expectedBoolean': '{label} უნდა იყოს ლოგიკური მნიშვნელობა',
+    'simpleschema.expectedArray': '{label} უნდა იყოს მასივი',
+    'simpleschema.expectedObject': '{label} უნდა იყოს ობიექტი',
+    'simpleschema.expectedConstructor': '{label} უნდა იყოს {type}',
+    'simpleschema.keyNotInSchema': '{key} არ არის დაშვებული სქემაში',
+    'simpleschema.notUnique': '{label} უნდა იყოს უნიკალური',
+    'simpleschema.regEx.0': '{label} ვერ გადამოწმდა რეგულარული გამონაკლისების ვალიდაცია',
+    'simpleschema.regEx.1': '{label} უნდა იყოს მართალი ელ-ფოსტის მისამართი',
+    'simpleschema.regEx.2': '{label} უნდა იყოს მართალი ელ-ფოსტის მისამართი',
+    'simpleschema.regEx.3': '{label} უნდა იყოს მართალი დომენი',
+    'simpleschema.regEx.4': '{label} უნდა იყოს მართალი დომენი',
+    'simpleschema.regEx.5': '{label} უნდა იყოს მართალი IPv4 ან IPv6 მისამართი',
+    'simpleschema.regEx.6': '{label} უნდა იყოს მართალი IPv4 მისამართი',
+    'simpleschema.regEx.7': '{label} უნდა იყოს მართალი IPv6 მისამართი',
+    'simpleschema.regEx.8': '{label} უნდა იყოს მართალი URL',
+    'simpleschema.regEx.9': '{label} უნდა იყოს მართალი ალფანუმერიკული ID'
 };
