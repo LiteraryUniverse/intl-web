@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'చదువుకు జాబితా',
+  'readingList.type.label': 'జాబితా రకం',
+  'readingList.type.stories': 'కథలు',
+  'readingList.type.universes': 'యూనివర్స్‌లు',
+  'readingList.ordered.label': 'అనుక్రమ జాబితా',
+  'readingList.button.add': 'జాబితాకు జోడించండి',
+  'readingList.selectList': 'జాబితా ఎంచుకోండి',
+  'readingList.create': 'కొత్త చదువుకు జాబితా సృష్టించండి',
+  'readingList.create.aria': 'కొత్త చదువుకు జాబితా సెట్టింగ్ల కోసం మోడల్',
+  'readingList.edit.aria': 'చదువుకు జాబితా సెట్టింగ్లను సవరించే మోడల్',
+  'readingList.library.title': 'మీ చదువుకు జాబితాలు',
+  'readingList.public.label': 'ప్రత్యక్షంగా చూపించబడతాయా?',
+  'readingList.addItem': `జోడించే {type, select,
+    universes {యూనివర్సు}
+    stories {కథ}
+    other {కథలు మరియు యూనివర్సులు}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `చదువుకు జాబితాకు జోడించడానికి {type, select,
+    universes {యూనివర్సులు}
+    stories {కథలు}
+    other {కథలు మరియు యూనివర్సులు}
+  } కొత్త జాబితాకు మోడల్ జోడించండి.`,
+  'readingList.addItem.fromLibrary': 'లైబ్రరీ నుండి',
+  'readingList.button.added': 'జోడించబడినది'
 };
