@@ -28,7 +28,7 @@ export default {
     'reader.accessibility.toggleParagraphStripes': 'bane le te vrusi cmalu prike ta\'o',
     'reader.accessibility.toggleParagraphHighlight': 'bane le te velmamta mulno',
     'reader.accessibility.toggleRules': 'bane le tesle bimxra',
-    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
+    'reader.nextRelease.scheduled': 'Jaspu be lo te ckupra cu klama le {nextReleaseAt, date} li {nextReleaseAt, time}!',
     'reader.storyContinues': 'mi nelci ku\'o',
     'reader.storyOnHiatus': 'Lo penmi cu pa sruri manku lo ni judri vau lo jamsu be li 0 be\'o vecnu lo vensa li 1.',
     'reader.storyCancelled': 'xunre pasifikabri cu\'o lo nu fai ke\'a .i lo lisri cu to\'e rinka tu\'a lo nu mo\'u ku la\'o zoi gy.boi gy. lo se du\'u se makfa de ne\'i lo vreji fe tu\'a lo ni manku.',
