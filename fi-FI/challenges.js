@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Aloitusajankohta',
     'challenges.endDate': 'Päättymispäivä',
     'challenges.future': 'Tulevat haasteet',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Sanamäärähaaste alkaa {startDate, date, short} tavoitteena kirjoittaa {target, number} mennessä {endDate, date, short}.',
     'challenges.future.nanowrimo': 'NaNoWriMo-haaste on valmis.',
     'challenges.wordcount': 'Sanamäärä',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Aseta itsellesi tavoite siitä, kuinka monta sanaa haluat kirjoittaa tähän kuukauteen tästä {type, select,
+    story {tarinasta}
+    universe {universumista}
     other {}
   }.`,
     'challenges.wordcount.select': 'Kuinka monta sanaa haluat haastaa itsesi?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Raportti',
     'challenges.victory': 'Onnittelut! Olet suorittanut tämän haasteen.',
     'challenges.defeat': 'Valitettavasti et suorittanut tätä haastetta.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Tämän tarinan nykyinen sanamäärä on {wordcount, number}, tämä tulee olemaan lähtökohta.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'NaNoWriMo virallinen sivusto',
