@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
-  }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.title': 'पढ़ने की सूची',
+  'readingList.type.label': 'सूची प्रकार',
+  'readingList.type.stories': 'कहानियाँ',
+  'readingList.type.universes': 'ब्रह्मांडों',
+  'readingList.ordered.label': 'स्थानांकित सूची',
+  'readingList.button.add': 'पढ़ने की सूची में जोड़ें',
+  'readingList.selectList': 'सूची का चयन करें',
+  'readingList.create': 'नई पढ़ने की सूची बनाएं',
+  'readingList.create.aria': 'नई पढ़ने की सूची के लिए सेटिंग्स के साथ मॉडल',
+  'readingList.edit.aria': 'पढ़ने की सूची की सेटिंग्स संपादित करने के लिए मॉडल',
+  'readingList.library.title': 'आपकी पढ़ने की सूचियाँ',
+  'readingList.public.label': 'क्या सार्वजनिक रूप से दिखाई देता है?',
+  'readingList.addItem': `{type, select,
+    universes {यूनिवर्स}
+    stories {कहानी}
+    other {कहानियाँ और यूनिवर्स}
+  }जोड़ें`,
+  'readingList.addItem.modalAria': `पढ़ने की सूची में {type, select,
+    universes {यूनिवर्स}
+    stories {कहानियाँ}
+    other {कहानियाँ और यूनिवर्स}
+  } को जोड़ने के लिए मॉडल`,
+  'readingList.addItem.fromLibrary': 'लाइब्रेरी से',
+  'readingList.button.added': 'जोड़ दिया गया है'
 };
