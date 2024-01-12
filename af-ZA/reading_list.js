@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
+  'readingList.title': 'Leeslys',
+  'readingList.type.label': 'Lys tipe',
   'readingList.type.stories': 'Stories',
   'readingList.type.universes': 'Heelalle',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
-  }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
+  'readingList.ordered.label': 'Gerangskikte lys',
+  'readingList.button.add': 'Voeg by leeslys',
+  'readingList.selectList': 'Kies leeslys',
+  'readingList.create': 'Skep \'n nuwe leeslys',
+  'readingList.create.aria': 'Modale venster met instellings vir \'n nuwe leeslys',
+  'readingList.edit.aria': 'Modale venster om leeslys se instellings te wysig',
+  'readingList.library.title': 'Jou leeslyste',
+  'readingList.public.label': 'Is dit openbaar sigbaar?',
+  'readingList.addItem': `Voeg {type, select,
+    universes {heelal}
+    stories {storie}
+    other {stories en heelale}
+  }by`,
+  'readingList.addItem.modalAria': `Modale venster om {type, select,
+    universes {heelale}
     stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+    other {stories en heelale}
+  } by die leeslys te voeg.`,
+  'readingList.addItem.fromLibrary': 'Vanaf biblioteek',
+  'readingList.button.added': 'Bygevoeg'
 };
