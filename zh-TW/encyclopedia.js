@@ -29,8 +29,8 @@ export default {
     other {#個相關的條目}
   } 找到。`,
     'encyclopedia.help.text': '使用左側的菜單在百科全書的項目之間切換。一旦您選擇了一個項目，它將顯示在這段文字的位置。',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': '側邊欄工具箱',
+    'encyclopedia.help.sidebar.text': '歡迎來到您的故事！此側邊欄可讓您輕鬆存取與您的故事相關的所有資源。請查看上方的圖示以查看最新評論、您的筆記、搜尋百科全書、瀏覽並新增百科全書條目。如果您想要在故事文本中添加連結到一個條目，請選取您想要放置連結的文本，然後點擊連結按鈕。然後，您將被提示找到並選擇一個項目。',
     'encyclopedia.intro': '歡迎來到 {universe} 百科全書。',
     'encyclopedia.add.title': '添加新條目到百科全書',
     'encyclopedia.add.heading': '您想要添加什麼？',
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `條目類別： {category, select,
+    character {角色}
+    event {事件}
+    group {團體}
+    item {物品}
+    location {地點}
+    other {筆記}
+    state {狀態}
+    governments {政府}
+    languages {語言}
+    creatures {生物}
+    deity {神明}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {星球}
+    species {物種}
+    technologies {科技}
   }`,
     'encyclopedia.entry.category.legend': '類別',
     'encyclopedia.fields.add': '添加新字段',
@@ -146,8 +146,8 @@ export default {
   } 項目中的 {max, plural,
     =0 {個。`,
     'enc.entries.limitReached': '您已達到目前訂閱所允許的最大百科全書項目數量。',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': '百科控制項',
+    'encyclopedia.pronunciation.title': '發音',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': '進行中'
 };
