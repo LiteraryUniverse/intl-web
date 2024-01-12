@@ -5,5 +5,5 @@ export default {
     'library.stories': 'ストーリーをフォローする',
     'library.universes': '宇宙小説をフォローする',
     'bookmark.continueReading': '続きを読む',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'bookmark.statusSummary': '物語の {readPercent, number, ::percent} を読みました。'
 };
