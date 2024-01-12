@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'שיחה',
+    'pm.showolder': 'הצג הודעות ישנות יותר',
+    'pm.errors.saysomething': 'אתה צריך לומר משהו באמת...',
+    'pm.errors.addrecipient': 'עליך להוסיף לפחות משתמש אחד נוסף.',
+    'pm.message': 'הודעה',
+    'pm.send.message': 'שלח הודעה',
+    'pm.messages.own': 'ההודעות שלך',
+    'pm.conversations.none': 'אתה לא משוחח כרגע עם אף אחד.',
+    'pm.to': 'אל:',
+    'pm.with': 'שיחה עם:',
+    'pm.send': 'שלח',
+    'pm.conversations.unreadCount': `יש לך {count, plural,
+    zero {אין לך שיחות שלא נקראו}
+    one {שיחה שלא נקראה}
+    other {שיחות שלא נקראו}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'עליך לבחור נמען.',
+    'pm.form.maxParticipants': `ניתן לקיים מקסימום של {maxPeople, plural,
+    one {אדם אחד}
+    other {# אנשים}
+  } בשיחה.`,
+    'pm.new.aria': 'שיחה חדשה',
+    'pm.new.buttonTitle': 'התחל שיחה חדשה'
 };
