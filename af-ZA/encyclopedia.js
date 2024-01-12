@@ -29,68 +29,68 @@ export default {
     other {# verwante inskrywings}
   } gevind.`,
     'encyclopedia.help.text': 'Gebruik die menu aan die linkerkant om tussen die items in die ensiklopedie te navigeer. Sodra jy \'n item kies, sal dit in plaas van hierdie teks vertoon word.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Kantbalk-gereedskapkas',
+    'encyclopedia.help.sidebar.text': 'Welkom by jou verhaal! Hierdie sybalk bied jou maklike toegang tot alle hulpbronne wat verband hou met jou verhaal. Kyk na die ikone hierbo om die nuutste kommentaar te sien, jou notas, jou ensiklopedie te deursoek, nuwe inskrywings by jou ensiklopedie te voeg en \'n skakel na \'n inskrywing vanuit die verhaalteks te maak. As jy \'n skakel na \'n inskrywing wil byvoeg, kies die teks waar jy dit wil plaas en klik dan op die verbind-knoppie. Dan sal jy genooi word om \'n item te vind en te kies.',
     'encyclopedia.intro': 'Welkom by die {universe} ensiklopedie.',
     'encyclopedia.add.title': 'Voeg \'n nuwe inskrywing by die ensiklopedie',
     'encyclopedia.add.heading': 'Wat wil jy byvoeg?',
     'encyclopedia.add.moresoon': 'Meer kategorieë binnekort beskikbaar!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.create': `Skep 'n nuwe {category, select,
+    character {karakter}
+    event {gebeurtenis}
+    group {groep}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    location {plek}
+    other {nota}
+    state {staat}
+    governments {regering}
+    languages {taal}
+    creatures {kreatuur}
+    deity {godheid}
+    religions {godsdiens}
     flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    magic {magie}
+    planets {planeet}
+    species {spesie}
+    technologies {tegnologie}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.create.header': `Skep 'n nuwe {category, select,
+    character {karakter}
+    event {gebeurtenis}
+    group {groep}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    location {plek}
+    other {nota}
+    state {staat}
+    governments {regering}
+    languages {taal}
+    creatures {kreatuur}
+    deity {godheid}
+    religions {godsdiens}
     flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    magic {magie}
+    planets {planeet}
+    species {spesie}
+    technologies {tegnologie}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
+    'encyclopedia.entry.category': `Inskrywingskategorie: {category, select,
+    character {Karakter}
+    event {Gebeurtenis}
+    group {Groep}
     item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    location {Ligging}
+    other {Nota}
+    state {Toestand}
+    governments {Regering}
+    languages {Taal}
+    creatures {Kreatuur}
+    deity {Godheid}
+    religions {Godsdiens}
     flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    magic {Magie}
+    planets {Planeet}
+    species {Spesie}
+    technologies {Tegnologie}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Voeg \'n nuwe veld by',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } inskrywings.`,
     'enc.entries.limitReached': 'Jy het die maksimum toegelate ensiklopedie inskrywings bereik vir jou huidige intekening.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Ensiklopedie beheer',
+    'encyclopedia.pronunciation.title': 'Uitspraak',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Werk in Uitvoering'
 };
