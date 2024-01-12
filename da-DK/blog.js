@@ -8,10 +8,10 @@ export default {
     'blog.create': 'Opret en ny blog',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Universe side}
     user {Blog}
     other {}
-  } settings`,
+  } indstillinger`,
     'blog.description': 'Blog introduktion',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Ved at justere temaet kan du ændre udseendet af siden. Denne funktion er ikke klar på nuværende tidspunkt.',
