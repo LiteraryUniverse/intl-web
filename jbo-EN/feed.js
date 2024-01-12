@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Pagbu',
     'feed.post.new': 'Selskapi be lo se jorne',
     'feed.post.like': 'Rojyjorne lo se jorne',
     'feed.post.unlike': 'Nalrojyjorne lo se jorne',
