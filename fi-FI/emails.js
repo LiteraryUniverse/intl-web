@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Vahvista tämä sähköpostiosoite',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Tilisi on päivitetty',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.message': `Olemme päivittäneet tilisi {plan, select,
     explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    adventurer {Seikkailija}
+    storyteller {Kertoja}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+  } tasolle seuraavaksi {days} päiväksi.\n\nNauti,\nLiterary Universe -tiimi`,
+    'email.adminUpgrade.messageHtml': `Olemme päivittäneet tilisi {plan, select,
     explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    adventurer {Seikkailija}
+    storyteller {Kertoja}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } tasolle seuraavaksi {days} päiväksi. Nauti!`,
+    'email.verification': 'Sähköpostin vahvistus',
+    'email.verifying': 'Vahvistetaan sähköpostiasi. Tämä vie vain hetken...',
+    'email.verified': 'Hienoa uutista! Sähköpostisi on vahvistettu!'
 };    /* eslint-enable max-len */
