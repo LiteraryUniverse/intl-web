@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'कानून का उल्लंघन',
     'feedback.reportType.vulgar': 'अश्लील/अशोभनीय',
     'feedback.reportType.copyright': 'कॉपीराइट का उल्लंघन',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'गलत आयु रेटिंग',
+    'feedback.reportType.scam': 'धोखाधड़ी',
+    'feedback.report.submit': 'रिपोर्ट',
+    'feedback.report.submitting': 'रिपोर्ट कर रहा है...',
+    'feedback.report.violationDesc': 'विवरण',
+    'feedback.report.reportSaved': 'रिपोर्ट के लिए धन्यवाद! हम जांच करेंगे और यदि आवश्यक हो तो कार्रवाई करेंगे।',
+    'feedback.report.copyrightReportSaved': 'रिपोर्ट के लिए धन्यवाद! हम जांच करेंगे और संपर्क में रहेंगे।',
+    'feedback.report.copyrightOwnershipDesc': 'स्वामित्व का दावा',
+    'feedback.report.copyrightNotice': 'कृपया ध्यान दें कि आपको इस फॉर्म का उपयोग करने के लिए कार्य का वास्तविक मालिक होना चाहिए। यदि आप मालिक नहीं हैं, तो कृपया मालिक को सूचित करें या हमें सूचित करने के लिए अन्य श्रेणी का उपयोग करें। हम कॉपीराइट उल्लंघन को अत्यंत गंभीरता से लेते हैं और इसी तरह इस फॉर्म के अनुचित और अपयश उपयोग पर भी यही लागू होता है।',
+    'feedback.report.copyrightInternalProperty': 'मैंने इस कार्य को लिटररी यूनिवर्स पर प्रकाशित किया है',
+    'feedback.reportType.spam': 'स्पैम या फिशिंग',
+    'feedback.reportType.other': 'अन्य',
+    'feedback.report.copyrightType.propertySelectLabel': `कौनसा {type, select,
+    universe {यूनिवर्स}
+    story {कहानी}
+    other {कहानी}
+  } का उल्लंघन किया जा रहा है?`
 };
