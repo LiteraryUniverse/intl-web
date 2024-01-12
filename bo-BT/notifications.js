@@ -1,10 +1,10 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
+  'flashnews.create': 'གསརཔ་འགྱུར་གསལ་བཤད་གཏོང་བའི་གནས་བསྡུ་བསྐྱོད་པ།',
+  'flashnews.startsAt': 'གནས་བསྡུ་འདི་སྟོན་པའི་སྐབས་དང་བཅུ་གཅིག་འབྲེལ་བ་བཞག་པ།',
+  'flashnews.endsAt': 'གནས་བསྡུ་འདི་སྟོན་པའི་སྐབས་དང་བཅུ་གཅིག་རྗེས་བཞག་པ།',
+  'flashnews.newLanguage': 'སྐད་རིགས་གཞན་ལ་གསརཔ་འགྱུར་གསལ་བཤད་འབད་བཞག་པ།',
+  'flashnews.onlyDisplayOn': 'གནས་བསྡུ་འདི་སྟོན་པའི་སྐབས་དང་བཅུ་གཅིག་འབྲེལ་གནང་འགྱུར་འབྲེལ་བ་མེད་པའི་སྐབས་ལ་གསརཔ་བཞག་ནི། དེ་གིས་ཁ་བྱང་གིས་སྐབས་བརྡ་འགྱུར་མེད་པའི་སྐབས་ལ་གསརཔ་བཞག་ནི་འདི་དེའི་སྐབས་མེད་པའི་སྐབས་ལ་གསརཔ་བཞག་མི་འདུག',
   'notifications.menu.all': 'All notification',
   'notifications.menu.following': 'Following',
   'notifications.menu.workshop': 'Workshop',
@@ -23,5 +23,5 @@ export default {
   'notification.friendRequest': 'sent you a friend request.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'བརྗོད་འབྲི་གི་ལག་གི་ལས་ཁུངས་ལ།'
 };
