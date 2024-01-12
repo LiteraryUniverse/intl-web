@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Verifieer dit e-mailadres',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Je account is geüpgraded',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `We hebben uw account geüpgraded naar {plan, select,
+    explorer {Ontdekkingsreiziger}
+    adventurer {Avonturier}
+    storyteller {Verhalenverteller}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } niveau voor de komende {days} dagen.\n\nGeniet ervan,\nLiterary Universe team`,
+    'email.adminUpgrade.messageHtml': `We hebben uw account geüpgraded naar {plan, select,
+    explorer {Ontdekkingsreiziger}
+    adventurer {Avonturier}
+    storyteller {Verhalenverteller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } niveau voor de komende {days} dagen. Geniet ervan!`,
+    'email.verification': 'E-mail verificatie',
+    'email.verifying': 'Uw e-mail verifiëren. Dit duurt slechts een moment...',
+    'email.verified': 'Geweldig nieuws! Uw e-mail is geverifieerd!'
 };    /* eslint-enable max-len */
