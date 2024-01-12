@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': '驗證此電子郵件地址',
     // Getting premium from admins
     'email.adminUpgrade.subject': '您的帳戶已升級',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `我們已將您的帳戶升級為 {plan, select,
+    explorer {探險者}
+    adventurer {冒險家}
+    storyteller {故事創作者}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } 等級，持續 {days} 天。\n\n祝您愉快，\nLiterary Universe 團隊`,
+    'email.adminUpgrade.messageHtml': `我們已將您的帳戶升級為 {plan, select,
+    explorer {探險者}
+    adventurer {冒險家}
+    storyteller {故事創作者}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } 等級，持續 {days} 天。祝您愉快！`,
+    'email.verification': '電子郵件驗證',
+    'email.verifying': '正在驗證您的電子郵件。這只會花一點時間...',
+    'email.verified': '太棒了！您的電子郵件已經驗證成功！'
 };    /* eslint-enable max-len */
