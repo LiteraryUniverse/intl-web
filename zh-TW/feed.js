@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': '動態',
     'feed.post.new': '新的貼文',
     'feed.post.like': '喜歡貼文',
     'feed.post.unlike': '取消喜歡貼文',
