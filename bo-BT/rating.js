@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'སྙན་ཞུའི་ཚད།',
+    'rating.explained': 'དུས་གསལ་འཇུག་པའི་ཚད་དང་སྒྲིག་འཇུག་པའི་འབྲེལ་བ།',
+    'rating.all': 'ཆེ་ཆུང་',
+    'rating.desc.all': 'སློབ་དཔོན་གནང་བ་དང་ཚད་དང་སྡེབ་སྦྱོར་གནང་བ་བཟོ།',
+    'rating.teens': 'ལྷོ་བསྒྲགས།',
+    'rating.desc.teens': 'སྡེབ་སྦྱོར་གནང་བ་བཟོ་བའི་སྙན་ཚད་དང་སྒྲིག་འཇུག་པའི་འབྲེལ་བ།',
+    'rating.mature': 'བརྒྱད།',
+    'rating.desc.mature': 'གནང་བ་འདི་དང་གནང་བའི་སྐད་རིགས་དང་ལྷོ་བསྒྲགས་འཇུག་པའི་ཚད་དང་ཡིག་ཚགས་བཟོ།',
+    'rating.explicit': 'འབྲེལ་བ།',
+    'rating.desc.explicit': 'ཡིག་ཚགས་འདི་གནང་བའི་སྐད་རིགས་དང་འབྲེལ་བ་བཟོ།',
+    'rating.selection.all': 'ཆེ་ཆུང་ - སློབ་དཔོན་གནང་བ་དང་ཚད་དང་སྡེབ་སྦྱོར་གནང་བ་བཟོ།',
+    'rating.selection.teens': 'ལྷོ་བསྒྲགས་ (12-18) - སྡེབ་སྦྱོར་གནང་བ་བཟོ་བའི་སྙན་ཚད་དང་སྒྲིག་འཇུག་པའི་འབྲེལ་བ།',
+    'rating.selection.mature': 'བརྒྱད་ (18+) - གནང་བ་འདི་དང་གནང་བའི་སྐད་རིགས་དང་ལྷོ་བསྒྲགས་འཇུག་པའི་ཚད་དང་ཡིག་ཚགས་བཟོ།',
+    'rating.selection.explicit': 'འབྲེལ་བ་ (21+) - ཡིག་ཚགས་འདི་གནང་བའི་སྐད་རིགས་དང་འབྲེལ་བ་བཟོ།'
 };
