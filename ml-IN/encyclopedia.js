@@ -29,68 +29,68 @@ export default {
     other {# സംബന്ധിച്ച പ്രവേശനങ്ങൾ കാണുന്നു}
   } കണ്ടെത്തി.`,
     'encyclopedia.help.text': 'എൽഎൽഎസ്റ്റിൽ ഇൻസൈക്ലോപീഡിയ ഇനങ്ങളിലേക്ക് നാവിഗേറ്റുചെയ്യുവാൻ ഇടയാക്കാനുള്ള മെനു ഉപയോഗിക്കുക. ഒരു ഇനം തിരഞ്ഞെടുത്താൽ, ഈ ടെക്സ്റ്റ് പ്രദർശിപ്പിക്കപ്പെടും.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    'encyclopedia.help.sidebar': 'സൈഡ്ബാര്‍ ടൂള്‍ബോക്സ്',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'സ്വാഗതം {universe} എൻസൈക്ലോപീഡിയയിലേക്ക്.',
     'encyclopedia.add.title': 'എൻസൈക്ലോപീഡിയയിലേക്ക് ഒരു പുതിയ പ്രവേശനം ചേർക്കുക',
     'encyclopedia.add.heading': 'നിങ്ങൾ എന്താണ് ചേർക്കാൻ ആഗ്രഹിക്കുന്നത്?',
     'encyclopedia.add.moresoon': 'കൂടുതൽ വിഭാഗങ്ങൾ വേണമെങ്കിൽ വരികളുംകൂടി വരിക്കുന്നു!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `ഒരു പുതിയ {category, select,
+    character {പ്രകടനം}
+    event {സംഘം}
+    group {ഇനം}
+    item {ഉപയോക്താവിനായി}
+    location {സ്ഥലം}
+    other {അവലോകനം}
+    state {സ്ഥിതി}
+    governments {സർക്കാർ}
+    languages {ഭാഷ}
+    creatures {ജീവി}
+    deity {ദൈവം}
+    religions {മതം}
+    flora {പൂവ}
+    magic {മാന്ത്രികം}
+    planets {ഗ്രഹം}
+    species {ജാതി}
+    technologies {സാങ്കേതികം}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `ഒരു പുതിയ {category, select,
+    character {പ്രകടനം}
+    event {സംഘം}
+    group {ഇനം}
+    item {ഉപയോക്താവിനായി}
+    location {സ്ഥലം}
+    other {അവലോകനം}
+    state {സ്ഥിതി}
+    governments {സർക്കാർ}
+    languages {ഭാഷ}
+    creatures {ജീവി}
+    deity {ദൈവം}
+    religions {മതം}
+    flora {പൂവ}
+    magic {മാന്ത്രികം}
+    planets {ഗ്രഹം}
+    species {ജാതി}
+    technologies {സാങ്കേതികം}
+  } ഉണ്ടാക്കുക {universe}`,
+    'encyclopedia.entry.category': `പ്രവർത്തന വിഭാഗം: പ്രതീകം {category, select,
+    character {കാരണം}
+    event {സംഭവം}
+    group {ഗ്രൂപ്പ്}
+    item {ഇനം}
+    location {സ്ഥലം}
+    other {കുറിപ്പ്}
+    state {സംസ്ഥാനം}
+    governments {സർക്കാർ}
+    languages {ഭാഷ}
+    creatures {ജീവി}
+    deity {ദൈവം}
+    religions {മതം}
+    flora {പൂന്തോട്ടം}
+    magic {മാന്ത്രിക}
+    planets {പ്രപഞ്ചം}
+    species {ജാതി}
+    technologies {സാങ്കേതികം}
   }`,
     'encyclopedia.entry.category.legend': 'വിഭാഗം',
     'encyclopedia.fields.add': 'പുതിയ ഫീൽഡ് ചേർക്കുക',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } എൻട്രീകൾ ഉണ്ട്.`,
     'enc.entries.limitReached': 'നിങ്ങൾക്ക് നിയമനിർമ്മിതമായ എൻട്രീകൾക്കായി ഏറ്റവും പരമാവധി അനുവദനീയമായിരിക്കുന്നു.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'എൻസൈക്ലോപീഡിയ നിയന്ത്രണങ്ങൾ',
+    'encyclopedia.pronunciation.title': 'ഉച്ചാരണം',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'പ്രവർത്തനത്തിൽ ഉൾപ്പെടുന്നു'
 };
