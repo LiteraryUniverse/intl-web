@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'నివేదింపు',
     'challenges.victory': 'అభినందనలు! మీరు ఈ ఛాలెంజ్‌ను పూర్తిగా చేసారు.',
     'challenges.defeat': 'క్షమించండి, మీరు ఈ ఛాలెంజ్‌ను పూర్తిగా చేయలేకపోయారు.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'ఈ కథ కు ప్రస్తుత పదసంఖ్య ఉంది {wordcount, number}, ఇది ప్రారంభ పాయింట్ అవుతుంది.',
     // NaNoWriMo
     'nanowrimo.full': 'జాతీయ నవల రచన నెల',
     'nanowrimo.site': 'NaNoWriMo అధికారిక సైట్',
