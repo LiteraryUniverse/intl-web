@@ -16,7 +16,7 @@ export default {
     'challenges.startDate': 'วันที่เริ่มต้น',
     'challenges.endDate': 'วันที่สิ้นสุด',
     'challenges.future': 'การท้าทายที่จะเกิดขึ้นในอนาคต',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'ท้าทายนับคำเริ่มต้นในวันที่ {startDate, date, short} ด้วยเป้าหมายที่จะเขียน {target, number} ภาพยนตร์ในจักรวาล {endDate, date, short}โดย !<span class="notranslate">3</span>!',
     'challenges.future.nanowrimo': 'การท้าทาย NaNoWriMo พร้อมแล้ว',
     'challenges.wordcount': 'จำนวนคำ',
     'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'รายงานผล',
     'challenges.victory': 'ขอแสดงความยินดี! คุณเสร็จสิ้นการท้าทายนี้แล้ว',
     'challenges.defeat': 'น่าเสียดายที่คุณไม่สามารถเสร็จสิ้นการท้าทายนี้',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'จำนวนคำปัจจุบันสำหรับเรื่องนี้คือ {wordcount, number}, นี่จะเป็นจุดเริ่มต้น',
     // NaNoWriMo
     'nanowrimo.full': 'เดือนเขียนนวนิยายแห่งชาติ',
     'nanowrimo.site': 'เว็บไซต์อย่างเป็นทางการของ NaNoWriMo',
