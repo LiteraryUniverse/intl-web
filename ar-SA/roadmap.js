@@ -1,37 +1,37 @@
 export default {
-  'roadmap.ariaTimeOptions': 'Selections for roadmap items based on their status.',
-  'roadmap.state.backlog': 'Backlog',
-  'roadmap.state.inprogress': 'In-progress',
-  'roadmap.state.preview': 'Preview',
-  'roadmap.state.beta': 'Beta',
-  'roadmap.state.ga': 'General availability',
-  'roadmap.eta.q1.short': 'Q1',
-  'roadmap.eta.q2.short': 'Q2',
-  'roadmap.eta.q3.short': 'Q3',
-  'roadmap.eta.q4.short': 'Q4',
+  'roadmap.ariaTimeOptions': 'التحديدات لعناصر خريطة الطريق بناءً على حالتها.',
+  'roadmap.state.backlog': 'المتأخرات',
+  'roadmap.state.inprogress': 'قيد التنفيذ',
+  'roadmap.state.preview': 'معاينة',
+  'roadmap.state.beta': 'بيتا',
+  'roadmap.state.ga': 'توافر عام',
+  'roadmap.eta.q1.short': 'الربع الأول',
+  'roadmap.eta.q2.short': 'الربع الثاني',
+  'roadmap.eta.q3.short': 'الربع الثالث',
+  'roadmap.eta.q4.short': 'الربع الرابع',
   'roadmap.eta.q1.long': 'الربع الأول',
   'roadmap.eta.q2.long': 'الربع الثاني',
   'roadmap.eta.q3.long': 'الربع الثالث',
   'roadmap.eta.q4.long': 'الربع الرابع',
-  'roadmap.backlog': 'Backlog',
-  'roadmap.history': 'History of development',
-  'roadmap.item.inBacklog': 'We are planning to develop this feature in the future.',
-  'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
-  'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
-  'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
-  'roadmap.item.inGa': 'This feature has become generally available on {gaAt, date}.',
-  'roadmap.item.originalIssue': 'This feature was originally suggested by our users.',
-  'roadmap.eta.mapTitle': `Planned for {quarter, select,
-    Q1 {Q1}
-    Q2 {Q2}
-    Q3 {Q3}
-    Q4 {Q4}
+  'roadmap.backlog': 'المتأخرات',
+  'roadmap.history': 'تاريخ التطوير',
+  'roadmap.item.inBacklog': 'نحن نخطط لتطوير هذه الميزة في المستقبل.',
+  'roadmap.item.inProgress': 'بدأ تطوير الميزة {startedAt, date}.',
+  'roadmap.item.inBeta': 'هذه الميزة دخلت مرحلة التجربة في {betaAt, date}.',
+  'roadmap.item.inPreview': 'أصبحت هذه الميزة متاحة لمشتركي Storyteller في {previewAt, date}.',
+  'roadmap.item.inGa': 'أصبحت هذه الميزة متاحة عمومًا في {gaAt, date}.',
+  'roadmap.item.originalIssue': 'تم اقتراح هذه الميزة أصلاً من قبل مستخدمينا.',
+  'roadmap.eta.mapTitle': `مخطط ل {quarter, select,
+    Q1 {الربع الأول}
+    Q2 {الربع الثاني}
+    Q3 {الربع الثالث}
+    Q4 {الربع الرابع}
     other {}
   } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': 'Finished in {time, date, ::MMMM ::yyyy}',
-  'roadmap.back': 'Back to roadmap',
-  'roadmap.seeBacklog': 'Check out what other things we plan to do',
-  'roadmap.seeFinished': 'If you like to dig more into our history, we have a nice overview ready for you',
-  'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished'
+  'roadmap.eta.mapTitleFinished': 'تم الانتهاء في {time, date, ::MMMM ::yyyy}',
+  'roadmap.back': 'العودة إلى خريطة الطريق',
+  'roadmap.seeBacklog': 'تحقق من ما نخطط للقيام به',
+  'roadmap.seeFinished': 'إذا كنت ترغب في استكشاف تاريخنا بشكل أكبر ، لدينا نظرة عامة جميلة جاهزة لك',
+  'roadmap.planned': 'مخطط',
+  'roadmap.finished': 'منتهي'
 };
