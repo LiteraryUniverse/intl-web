@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'റേറ്റിംഗ്',
+    'rating.explained': 'പ്രായ റേറ്റിംഗും പരിധിയും',
+    'rating.all': 'എല്ലാം',
+    'rating.desc.all': 'എല്ലാ പ്രായവും ഗ്രൂപ്പുകളും ആകർഷകമായി ലഭ്യമാക്കാനുള്ളത്',
+    'rating.teens': 'ടീൻസ്',
+    'rating.desc.teens': '12 മുതൽ 18 വയസ്സിനുള്ള പേരുകൾക്ക് പാടുകയുള്ളത്',
+    'rating.mature': 'പ്രതിഭാസങ്ങൾ, കടപ്പാടുകൾ എന്നിവ ഉൾക്കൊള്ളുന്നുണ്ട്',
+    'rating.desc.mature': 'മുൻപരിചയപ്പെടുത്തിയ വിഷയങ്ങൾ, കടപ്പാടുകൾ എന്നിവയും പ്രകടമാക്കാൻ ഉള്ളത്',
+    'rating.explicit': 'പ്രത്യക്ഷമായി',
+    'rating.desc.explicit': 'പ്രത്യക്ഷമായ കാഴ്ചകൾ ഉൾക്കൊള്ളുന്നു',
+    'rating.selection.all': 'എല്ലാം - എല്ലാ പ്രായവും ഗ്രൂപ്പുകളും ആകർഷകമായി ലഭ്യമാക്കാനുള്ളത്',
+    'rating.selection.teens': 'ടീൻസ് (12-18) - 12 മുതൽ 18 വയസ്സിനുള്ള പേരുകൾക്ക് പാടുകയുള്ളത്',
+    'rating.selection.mature': 'പ്രതിഭാസങ്ങൾ, കടപ്പാടുകൾ എന്നിവ ഉൾക്കൊള്ളുന്നുണ്ട് (18+) - മുൻപരിചയപ്പെടുത്തിയ വിഷയങ്ങൾ, കടപ്പാടുകൾ എന്നിവയും പ്രകടമാക്കാൻ ഉള്ളത്',
+    'rating.selection.explicit': 'പ്രത്യക്ഷമായി (21+) - പ്രത്യക്ഷമായ കാഴ്ചകൾ ഉൾക്കൊള്ളുന്നു'
 };
