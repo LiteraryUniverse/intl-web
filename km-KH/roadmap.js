@@ -14,24 +14,24 @@ export default {
   'roadmap.eta.q3.long': 'Third quarter',
   'roadmap.eta.q4.long': 'Fourth quarter',
   'roadmap.backlog': 'Backlog',
-  'roadmap.history': 'History of development',
-  'roadmap.item.inBacklog': 'We are planning to develop this feature in the future.',
-  'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
-  'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
-  'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
-  'roadmap.item.inGa': 'This feature has become generally available on {gaAt, date}.',
-  'roadmap.item.originalIssue': 'This feature was originally suggested by our users.',
-  'roadmap.eta.mapTitle': `Planned for {quarter, select,
-    Q1 {Q1}
-    Q2 {Q2}
-    Q3 {Q3}
-    Q4 {Q4}
+  'roadmap.history': 'ប្រវត្តិនៃការអភិវឌ្ឍន៍',
+  'roadmap.item.inBacklog': 'យើងកំពុងចូលរួមក្នុងការអភិវឌ្ឍន៍លើប្រភេទនេះនៅក្នុងអនុសាសន៍។',
+  'roadmap.item.inProgress': 'ការអភិវឌ្ឍន៍នៃប្រភេទនេះបានចាប់ផ្តើមនៅលើ {startedAt, date}។',
+  'roadmap.item.inBeta': 'ប្រភេទនេះបានចូលពីរបៀបប្រជុំលេខសំណួរលើ {betaAt, date}។',
+  'roadmap.item.inPreview': 'ប្រភេទនេះបានមានជាអនុសាសន៍ជាមួយនឹងអ្នកជាន់ស្រីរបស់ Storyteller នៅលើ {previewAt, date}។',
+  'roadmap.item.inGa': 'ប្រភេទនេះបានមានជាអនុសាសន៍ជាធម្មតានៅលើ {gaAt, date}។',
+  'roadmap.item.originalIssue': 'ប្រភេទនេះត្រូវបានគេបង្កើតឡើងដោយការផ្តល់អំពីអ្នកប្រើប្រាស់ដែលបានផ្អែកលើវិធីសាស្រ្តរបស់ពួកគេ។',
+  'roadmap.eta.mapTitle': `បញ្ចប់ក្នុង {quarter, select,
+    Q1 {ត្រឹមត្រូវដោយប៉ុន្តែក្នុងឆ្នាំទី១}
+    Q2 {ឆ្នាំទី២}
+    Q3 {ឆ្នាំទី៣}
+    Q4 {ឆ្នាំទី៤}
     other {}
-  } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': 'Finished in {time, date, ::MMMM ::yyyy}',
-  'roadmap.back': 'Back to roadmap',
-  'roadmap.seeBacklog': 'Check out what other things we plan to do',
-  'roadmap.seeFinished': 'If you like to dig more into our history, we have a nice overview ready for you',
-  'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished'
+  } {year, date, ::yyyy}។`,
+  'roadmap.eta.mapTitleFinished': 'បញ្ចប់នៅក្នុង {time, date, ::MMMM ::yyyy}',
+  'roadmap.back': 'ត្រឡប់ទៅផ្លូវបង្ហាញពីប្រវត្តិរបស់យើងវិញទៅវិញ',
+  'roadmap.seeBacklog': 'ពិនិត្យមើលអ្វីផ្សេងទៀតដែលយើងចង់ធ្វើទៅ',
+  'roadmap.seeFinished': 'ប្រសិនបើអ្នកចូលចិត្តស្វែងរកពួកគេប្រវត្តិរបស់យើងទេយើងមានការបង្ហាញទំព័រទូលស្បែកសម្រាប់អ្នក',
+  'roadmap.planned': 'បានគេបោះបង់',
+  'roadmap.finished': 'បានបញ្ចប់'
 };
