@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'ಗ್ರಂಥಾಲಯಕ್ಕೆ ಸೇರಿಸಿ',
+    'library.remove': 'ಗ್ರಂಥಾಲಯದಿಂದ ತೆಗೆದುಹಾಕಿ',
+    'library.bought': 'ಖರೀದಿಸಿದ ಕಥೆಗಳು',
+    'library.stories': 'ಅನುಸರಿಸಲಾದ ಕಥೆಗಳು',
+    'library.universes': 'ಅನುಸರಿಸಲಾದ ಬ್ರಹ್ಮಾಂಡಗಳು',
+    'bookmark.continueReading': 'ಓದುತ್ತ ಮುಂದುವರಿಯಿರಿ',
+    'bookmark.statusSummary': 'ನೀವು ಕಥೆಯ ಆರಂಭದಿಂದ {readPercent, number, ::percent} ಓದಿದ್ದೀರಿ.'
 };
