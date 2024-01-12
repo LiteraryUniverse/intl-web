@@ -34,9 +34,9 @@ export default {
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Εδώ παρατίθενται ανεξάρτητες ιστορίες. Εάν η ιστορία έχει γραφεί ως μέρος ενός σύμπαντος, τότε θα παρατίθεται στη σελίδα του σύμπαντος.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Οι κοινωνικοί σύνδεσμοι είναι οι ίδιοι με αυτούς που έχουν οριστεί στις ρυθμίσεις του οργανισμού {type, select,
+    organization {και στο προφίλ χρήστη}
+    user {}
     other {}
   }`,
     'blog.social.website': 'Επίσημη ιστοσελίδα',
