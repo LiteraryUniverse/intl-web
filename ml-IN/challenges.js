@@ -16,20 +16,20 @@ export default {
     'challenges.startDate': 'ആരംഭ തീയതി',
     'challenges.endDate': 'അവസാന തീയതി',
     'challenges.future': 'അടുത്ത ചേലഞ്ഞാൾക്ക്',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'വാക്കൗണ്ട് ചാലഞ്ച് {startDate, date, short} ആരംഭിക്കുന്നു, ലക്ഷ്യമായി {target, number} വാക്കുകൾ {endDate, date, short}വരെ എഴുതാൻ.',
     'challenges.future.nanowrimo': 'നാനോറൈമോ ചേലഞ്ഞാൾ പൂർത്തിയാക്കിയിട്ടുണ്ട്.',
     'challenges.wordcount': 'വാക്കുപടി',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
-    other {}
+    'challenges.wordcount.desc': `ഈ {type, select,
+    story {കഥയുടെ}
+    universe {യൂണിവേഴ്‌സിലേക്ക് ഈ മാസം നിങ്ങൾക്ക് എത്തിക്കാനുള്ള}
+    other {വാക്കുകളുടെ ലക്ഷ്യം സ്ഥാപിക്കുക}
   }.`,
     'challenges.wordcount.select': 'എത്ര വാക്കുകൾ നിങ്ങൾ നിങ്ങളുടെയുള്ളിൽ ചേലാക്കാനാണ് ആഗ്രഹിക്കുന്നത്?',
     'challenges.start': 'ചേലഞ്ഞാൾ ആരംഭിക്കുക',
     'challenges.report': 'റിപ്പോർട്ട്',
     'challenges.victory': 'അഭിനന്ദനങ്ങൾ! നിങ്ങൾ ഈ ചേലഞ്ഞാൾ പൂർത്തിയാക്കിയുണ്ട്.',
     'challenges.defeat': 'ദു:ഖപൂർവ്വം നിങ്ങൾ ഈ ചേലഞ്ഞാൾ പൂർത്തിയാക്കാനായില്ല.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'ഈ കഥയുടെ നിലവിലെ വാക്കുപടിക്ക് {wordcount, number}ആണ്, ഇത് ആരംഭ പോയിട്ടാകും.',
     // NaNoWriMo
     'nanowrimo.full': 'നാഷണൽ നോവൽ റൈറ്റിങ് മാസം',
     'nanowrimo.site': 'നാനോറൈമോ സാധാരണ സൈറ്റ്',
