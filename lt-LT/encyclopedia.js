@@ -29,68 +29,68 @@ export default {
     other {# susiję įrašai}
   } rasti.`,
     'encyclopedia.help.text': 'Naudokite meniu kairėje, kad naviguotumėte tarp elementų enciklopedijoje. Kai pasirinksite elementą, jis bus rodomas vietoj šio teksto.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Įrankių juosta šoninėje panelėje',
+    'encyclopedia.help.sidebar.text': 'Sveiki atvykę į savo istoriją! Šis šoninis skydelis suteikia jums lengvą prieigą prie visų išteklių, susijusių su jūsų istorija. Patikrinkite viršuje esančius piktogramas, kad pamatytumėte naujausius komentarus, savo pastabas, ieškotumėte savo enciklopedijoje, naršytumėte ir pridėtumėte naujas įrašus į savo enciklopediją. Jei norite pridėti ryšį su įrašu iš istorijos teksto, pažymėkite tekstą, kuriame norite jį įdėti, ir tada spustelėkite mygtuką „Prijungti“. Tada bus paprašyta rasti ir pasirinkti elementą.',
     'encyclopedia.intro': 'Sveiki atvykę į {universe} enciklopediją.',
     'encyclopedia.add.title': 'Pridėkite naują įrašą į enciklopediją',
     'encyclopedia.add.heading': 'Ką norite pridėti?',
     'encyclopedia.add.moresoon': 'Daugiau kategorijų greitai bus!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Kurti naują {category, select,
+    character {veikėją}
+    event {įvykį}
+    group {grupę}
+    item {daiktą}
+    location {vietą}
+    other {užrašą}
+    state {būseną}
+    governments {vyriausybę}
+    languages {kalbą}
+    creatures {būtybę}
+    deity {dievą}
+    religions {religiją}
+    flora {augmeniją}
+    magic {magiją}
+    planets {planetą}
+    species {rūšį}
+    technologies {technologiją}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create.header': `Kurti naują {category, select,
+    character {veikėją}
+    event {įvykį}
+    group {grupę}
+    item {daiktą}
+    location {vietą}
+    other {užrašą}
+    state {būseną}
+    governments {vyriausybę}
+    languages {kalbą}
+    creatures {būtybę}
+    deity {dievą}
+    religions {religiją}
+    flora {augmeniją}
+    magic {magiją}
+    planets {planetą}
+    species {rūšį}
+    technologies {technologiją}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `Įrašo kategorija: {category, select,
+    character {Simbolis}
+    event {Įvykis}
+    group {Grupė}
+    item {Daiktas}
+    location {Vieta}
+    other {Pastaba}
+    state {Būsena}
+    governments {Vyriausybė}
+    languages {Kalba}
+    creatures {Kūrinys}
+    deity {Dievybė}
+    religions {Religija}
+    flora {Augalija}
+    magic {Magija}
+    planets {Planeta}
+    species {Rūšis}
+    technologies {Technologija}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorija',
     'encyclopedia.fields.add': 'Pridėkite naują lauką',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } įrašų.`,
     'enc.entries.limitReached': 'Jūs pasiekėte maksimalų leistiną enciklopedijos įrašų skaičių jūsų dabartinei prenumeratai.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Enciklopedijos valdymas',
+    'encyclopedia.pronunciation.title': 'Tarimas',
+    'encyclopedia.wip.abbreviation': 'Vyksta darbai',
+    'encyclopedia.wip.full': 'Darbai vyksta'
 };
