@@ -35,13 +35,13 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.messageHtml': `Αναβαθμίσαμε τον λογαριασμό σας σε {plan, select,
+    explorer {Εξερευνητής}
+    adventurer {Περιπλανώμενος}
+    storyteller {Διηγητής}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } επίπεδο για τις επόμενες {days} ημέρες. Απολαύστε!`,
+    'email.verification': 'Επαλήθευση ηλεκτρονικού ταχυδρομείου',
+    'email.verifying': 'Γίνεται επαλήθευση του ηλεκτρονικού ταχυδρομείου σας. Αυτό θα πάρει μόνο ένα λεπτό...',
+    'email.verified': 'Εξαιρετικά νέα! Το ηλεκτρονικό ταχυδρομείο σας έχει επαληθευτεί!'
 };    /* eslint-enable max-len */
