@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Hozzáadás barátokhoz',
+    'user.friend.requests': `Van {num, number} új barát {num, plural,
+    zero {kérésed}
+    one {kérés}
+    many {kérések}
+    other {kérések}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Barátság megszüntetése',
+    'user.block': 'Blokkolás',
+    'user.unblock': 'Blokkolás feloldása',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {csatlakozott}
+    female {-hoz}
+    other {-hoz}} -hoz {date, date, long}-kor.`,
+    'user.friend.request.accept': 'Barátságkérés elfogadása',
+    'user.friend.request.cancel': 'Barátságkérés visszavonása',
+    'user.friend.request.deny': 'Barátság visszautasítása',
+    'user.listing': 'Felhasználói lista',
+    'user.profile.visit': 'Látogasd meg {user}profilját.',
+    'user.profile.avatar': '{username}profilképe',
+    'user.friend.list.requests': 'Barátságkérések',
+    'user.friend.norequests': 'Nincsenek barátságkéréseid.',
+    'user.dashboardWelcome': `Jó reggelt {dayPart, select,
+    morning {jó napot}
+    afternoon {jó délutánt}
+    evening {jó estét}
+    night {jó éjszakát}
+    other {szép napot}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Ez az író hagyományos módon jelent meg',
+    'user.verification.luAuthor': 'Irodalmi Univerzum alapú jegyzett szerző',
+    'user.verification.luEmployee': 'Irodalmi Univerzum alkalmazott',
+    'user.verification.publicFigure': 'Ellenőrzött közszereplő',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {történet}
+    other {történetek}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {univerzum}
+    other {univerzumok}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {rajongói írás}
+    other {rajongói írások} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Művek',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Kívánságlista',
+    'profile.storiesBy': '{username}által létrehozott történetek',
+    'profile.universesBy': '{username}által létrehozott univerzumok',
+    'profile.fanFictionBy': '{username}által létrehozott rajongói írások'
 };
