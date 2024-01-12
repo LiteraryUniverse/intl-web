@@ -5,5 +5,5 @@ export default {
     'library.stories': 'Obserwowane opowieści',
     'library.universes': 'Podążanie za wszechświatami',
     'bookmark.continueReading': 'Czytaj dalej',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'bookmark.statusSummary': 'Przeczytałeś {readPercent, number, ::percent} z historii.'
 };
