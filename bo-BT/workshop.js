@@ -1,15 +1,15 @@
 export default {
-    'workshop.title': 'Your work',
-    'workshop.noneassigned': 'You have not been assigned any yet.',
-    'workshop.notavailable': 'This feature is not yet available.',
+    'workshop.title': 'ཁྱོད་རའི་ལས་བརྟེན།',
+    'workshop.noneassigned': 'ཁྱོད་རའི་ལས་བརྟེན་མི་འདུག་མེད།',
+    'workshop.notavailable': 'གནས་སྐབས་བརྟེན་མི་འདུག་མེད་འདོན་མི་འགོ་བ་མེད།',
     'workshop.none': `You currently have no {type, select,
       universe {universe}
       story {story}
       fanfiction {fan fiction}
       other {}
     }. Create one now!`,
-    'workshop.collab': 'Collaborative work',
-    'workshop.betareadings': 'Beta readings',
+    'workshop.collab': 'ཁྱོད་རའི་ལས་བརྟེན་གསལ་བཤད།',
+    'workshop.betareadings': 'བརྟེན་འདི་འདི་གི་འགོ་བ་མེད།',
     'workshop.translations': 'Translations',
     'workshop.createnew': 'Create new...',
     'workshop.story.standalone': 'Standalone story',
@@ -29,7 +29,7 @@ export default {
     'workshop.universe.description': 'Universe description',
     'workshop.settings.title': 'Title',
     'workshop.description': 'Description',
-    'workshop.language.primary': 'Primary language',
+    'workshop.language.primary': 'སྒྲོག་འཛུལ་གྱི་སྐད་ཡིག།',
     'workshop.publication.options': 'Publication options',
     'workshop.rating': 'General rating',
     'workshop.universe.rating.desc': 'Stories and fanfiction above this rating will be hidden from the universe page listing from anonymous users and users who are not of the appropriate age.',
@@ -70,33 +70,33 @@ export default {
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'You need to create a revision first.',
-    'workshop.revisions.comments.select': 'Select revision',
-    'workshop.collaborators.noresults': 'No results',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
-    'workshop.collaborators.language.add': 'Create a new translation',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
-    'workshop.revisions.beta.none': 'No revisions at this time.',
-    'reader.asidetoggle': 'Toggle aside information',
-    'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
-    'workshop.cover.alt': 'cover image',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.revisions.comments.select': 'སོར་བཞག་འབད་བཅུག',
+    'workshop.collaborators.noresults': 'གྲུབ་འབྱུང་མེད་པར་བཟོ་མི།',
+    'workshop.collaborators.add.beta': 'བསྣམ་འཛིན་གཏན་འཁེལ་བཞག་པ།',
+    'workshop.collaborators.add.collaborator': 'གཞན་ལྷག་གཏན་འཁེལ་བཞག་པ།',
+    'workshop.collaborators.add.translator': 'བསྣམ་གྲུབ་གཏན་འཁེལ་བཞག་པ།',
+    'workshop.collaborators.language.add': 'སྐད་བརྗོད་གསར་བསྒྱུར་གཏན་འཁེལ་བཞག་པ།',
+    'workshop.translations.stories': 'བསྣམ་གྲུབ་ཚུ་གི་གྲོགས་པར།',
+    'workshop.translations.universes': 'གསར་བསྒྱུར་ཚུ་གི་གྲོགས་པར།',
+    'workshop.revisions.beta.none': 'ད་མ་བསྣམ་པར་མི་མེད།',
+    'reader.asidetoggle': 'དཔེ་མཛོད་འབྱིན་པ་གཞི་བཞག་པ།',
+    'workshop.translation.original': 'སྒྲིག་བཅོས་:',
+    'workshop.translation.original.title': 'སྒྲིག་བཅོས་གནས་སྤྱོད་:',
+    'workshop.translation.original.description': 'སྒྲིག་བཅོས་བཀོད་པ་གནས་སྤྱོད་:',
+    'workshop.translation.original.cover': 'སྒྲིག་བཅོས་བརྗོད་པ།',
+    'workshop.translation.original.tags': 'སྒྲིག་བཅོས་ཚིག་ཡིག་པ།',
+    'workshop.cover.alt': 'གོམ་པར་རིགས།',
+    'workshop.translation.updatedOrig': 'སྙོམས་གནས་གསར་བསྒྱུར་དང་འབྱུང་གཏན་འཁེལ་བཞག་པ། {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'སྙོམས་གནས་གསར་བསྒྱུར་དང་སྐད་བརྗོད་གཏན་འཁེལ་བཞག་པ། {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'མགོ་རིམ་གནས་གསར་བསྒྱུར་དང་སྙོམས་གནས་གསར་བསྒྱུར་གནང་གི་ལོ་རྒྱུས་ {revision, number}, སྒྲིག་བཅོས་: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'མགོ་རིམ་གནས་གསར་བསྒྱུར་དང་སྙོམས་གནས་གསར་བསྒྱུར་གནང་གི་ལོ་རྒྱུས་ {revision, number}, སྒྲིག་བཅོས་: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.collaborators.premium': `To add more {type, select,
     collaborator {collaborators}
     beta {beta readers}
     translator {translators}
     other {}
   }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
+    'workshop.collaborators.requests.sent': 'འཕྲིན་ལས་འཛིན་པ།',
     'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
     beta {beta reader}
     translator {translator}
@@ -185,24 +185,24 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {སྐར་མ།}
+      other {སྐར་མ་ཚུ།}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {ཆུ་ཚོད།}
+      other {ཆུ་ཚོད་ཚུ།}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {ཆུ་ཚོད།}
+      other {ཆུ་ཚོད་ཚུ།}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {ཉིན།}
+      other {ཉིན་ཚུ།}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {ལོ་ཁམས།}
+      other {ལོ་ཁམས་ཚུ།}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
@@ -212,11 +212,11 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Sidebar Toolbox',
     'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order',
+    'workshop.story.authorsNotesExplained': 'ཁྱེད་ཀྱི་བཅོས་པ་ནང་གི་དངོས་གྲུབ་པའི་འགྲེལ་བཤད་ནང་བཀོད་པའི་བརྗོད་པ་ཚུ་གི་དོན་ལུ་གྲོལ་བར་བཀོད་པའི་བཅོས་པ།',
+    'workshop.story.chapterSortSwitch': 'བཅོས་པ་གནང་དུ་བཟོ་བ་བཞག་པ།',
     'workshop.universe.monetizationTitle': '{title} monetization',
     'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
+    'workshop.universe.monetizationWebMonetization': 'ཝེབ་མོ་ནིཊི་གི་དོན་ཚན་བྱེད་པ།',
     'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
     'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
     'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
@@ -232,8 +232,8 @@ export default {
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Chapter {sequence, number}',
     'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
-    'workshop.universe.forumSettings': 'Internal universe forum settings',
-    'workshop.universe.forum': 'Internal {universeName} forum',
+    'workshop.universe.forumSettings': 'ཆོས་ཀྱི་འབྱུང་གནས་སྒྲིག་འཐུས་པའི་གནས་ཚུལ་གྱི་དོན་སྒྲིག་གསར་བསྐྱེད་ཀྱི་དགོས་པའི་གནས་ཚུལ།',
+    'workshop.universe.forum': 'ཆོས་ཀྱི་ {universeName} གནས་ཚུལ་གྱི་དོན་སྒྲིག་གསར་བསྐྱེད།',
     'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
     'workshop.selectCollaborator': 'Select collaborator',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
