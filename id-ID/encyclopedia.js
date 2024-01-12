@@ -29,68 +29,68 @@ export default {
     other {# entri terkait}
   } ditemukan.`,
     'encyclopedia.help.text': 'Gunakan menu di sebelah kiri untuk navigasi antara item-item dalam ensiklopedia. Setelah Anda memilih sebuah item, itu akan ditampilkan sebagai pengganti teks ini.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Kotak Perkakas Sidebar',
+    'encyclopedia.help.sidebar.text': 'Selamat datang di ceritamu! Sidebar ini memudahkan akses ke semua sumber daya terkait ceritamu. Periksa ikon di atas untuk melihat komentar terbaru, catatanmu, mencari dalam ensiklopediamu, menjelajah dan menambah entri baru ke dalam ensiklopediamu. Jika kamu ingin menambahkan koneksi ke entri dari teks cerita, pilih teks di mana kamu ingin menempatkannya, lalu klik tombol sambung. Kamu akan diminta untuk mencari dan memilih item.',
     'encyclopedia.intro': 'Selamat datang di ensiklopedia {universe}.',
     'encyclopedia.add.title': 'Tambahkan entri baru ke ensiklopedia',
     'encyclopedia.add.heading': 'Apa yang ingin Anda tambahkan?',
     'encyclopedia.add.moresoon': 'Kategori lainnya akan segera hadir!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.create': `Buat acara baru {category, select,
+    character {karakter}
+    event {acara}
+    group {kelompok}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    location {lokasi}
+    other {catatan}
+    state {negara}
+    governments {pemerintah}
+    languages {bahasa}
+    creatures {makhluk}
+    deity {dewa}
+    religions {agama}
     flora {flora}
-    magic {magic}
+    magic {sihir}
     planets {planet}
-    species {specie}
-    technologies {technology}
+    species {spesies}
+    technologies {teknologi}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.create.header': `Buat acara baru {category, select,
+    character {karakter}
+    event {acara}
+    group {kelompok}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    location {lokasi}
+    other {catatan}
+    state {negara}
+    governments {pemerintah}
+    languages {bahasa}
+    creatures {makhluk}
+    deity {dewa}
+    religions {agama}
     flora {flora}
-    magic {magic}
+    magic {sihir}
     planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
+    species {spesies}
+    technologies {teknologi}
+  } di {universe}`,
+    'encyclopedia.entry.category': `Kategori entri: {category, select,
+    character {Karakter}
+    event {Acara}
+    group {Grup}
     item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    location {Lokasi}
+    other {Catatan}
+    state {Negara}
+    governments {Pemerintahan}
+    languages {Bahasa}
+    creatures {Makhluk}
+    deity {Dewa}
+    religions {Agama}
     flora {Flora}
-    magic {Magic}
+    magic {Sihir}
     planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    species {Spesies}
+    technologies {Teknologi}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambahkan bidang baru',
@@ -146,8 +146,8 @@ export default {
     other {tak terbatas{max, number}}
   }.`,
     'enc.entries.limitReached': 'Anda telah mencapai batas maksimum entri ensiklopedia yang diizinkan untuk langganan Anda saat ini.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Kontrol Ensiklopedia',
+    'encyclopedia.pronunciation.title': 'Pengucapan',
+    'encyclopedia.wip.abbreviation': 'Dalam Proses',
+    'encyclopedia.wip.full': 'Sedang Dalam Proses'
 };
