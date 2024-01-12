@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'ഈ ഇമെയിൽ വിരിയുക',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'നിങ്ങളുടെ അക്കൗണ്ട് അപ്‌ഗ്രേഡ് ചെയ്തു',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `നിങ്ങളുടെ അക്കൗണ്ട് നിർമ്മിച്ചുവെച്ചു {plan, select,
+    explorer {എക്സ്പ്ലോറർ}
+    adventurer {അഡ്വെഞ്ചറർ}
+    storyteller {സ്റ്റോറിടെലർ}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } ടിയർ അടുത്ത {days} ദിവസങ്ങൾ.\n\nആനന്ദിക്കുക,\nലിറ്റററി യൂണിവേർസ് ടീം`,
+    'email.adminUpgrade.messageHtml': `നിങ്ങളുടെ അക്കൗണ്ട് നിർമ്മിച്ചുവെച്ചു {plan, select,
+    explorer {എക്സ്പ്ലോറർ}
+    adventurer {അഡ്വെഞ്ചറർ}
+    storyteller {സ്റ്റോറിടെലർ}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } ടിയർ അടുത്ത {days} ദിവസങ്ങൾ. ആനന്ദിക്കുക!`,
+    'email.verification': 'ഇമെയിൽ പരിശോധന',
+    'email.verifying': 'നിങ്ങളുടെ ഇമെയിൽ പരിശോധിക്കുന്നു. ഇത് കുറച്ചു മിനിറ്റ് എടുക്കും...',
+    'email.verified': 'അറിയിപ്പുകൾ! നിങ്ങളുടെ ഇമെയിൽ പരിശോധിച്ചു!'
 };    /* eslint-enable max-len */
