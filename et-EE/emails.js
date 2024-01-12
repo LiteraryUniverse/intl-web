@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Kinnita see e-posti aadress',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Teie konto on täiustatud',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.message': `Oleme uuendanud teie konto {plan, select,
     explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    adventurer {Seikleja}
+    storyteller {Jutuvestja}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+  } tasemele järgnevateks {days} päevaks.\n\nNautige,\nLiterary Universe'i meeskond`,
+    'email.adminUpgrade.messageHtml': `Oleme uuendanud teie konto {plan, select,
     explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    adventurer {Seikleja}
+    storyteller {Jutuvestja}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } tasemele järgnevateks {days} päevaks. Nautige!`,
+    'email.verification': 'E-posti verifitseerimine',
+    'email.verifying': 'Teie e-posti verifitseerimine. See võtab vaid hetke aega...',
+    'email.verified': 'Suurepärased uudised! Teie e-post on verifitseeritud!'
 };    /* eslint-enable max-len */
