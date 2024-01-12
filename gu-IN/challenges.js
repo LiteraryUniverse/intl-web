@@ -16,20 +16,20 @@ export default {
     'challenges.startDate': 'શરૂઆતી તારીખ',
     'challenges.endDate': 'અંતિમ તારીખ',
     'challenges.future': 'આવતી ચૂંટણીઓ',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'શબ્દગણના ચેલેંજ આગામી {startDate, date, short} પર શરૂ થાય છે, જેમાં લક્ષ્ય છે કે તમે {target, number} સાથે {endDate, date, short}સાથે કેટલાક શબ્દો લખવાના માંગો છો.',
     'challenges.future.nanowrimo': 'NaNoWriMo ચૂંટણી તૈયાર છે.',
     'challenges.wordcount': 'શબ્દગણતરી',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `આ મહિના માટે તમારા આ {type, select,
+    story {કથા}
+    universe {યુનિવર્સ}
     other {}
-  }.`,
+  }માટે કેટલાક શબ્દો લખવાનો લક્ષ્ય સેટ કરો.`,
     'challenges.wordcount.select': 'તમે કેટલા શબ્દોની ચૂંટણી લેવાની ઈચ્છો છો?',
     'challenges.start': 'ચૂંટણી શરૂ કરો',
     'challenges.report': 'અહેવાલ',
     'challenges.victory': 'અભિનંદન! તમે આ ચૂંટણી પૂરી કરી લેવી ગયા છે.',
     'challenges.defeat': 'અફસોસ, તમે આ ચૂંટણી પૂરી ન કરી શક્યા.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'આ વાર્તા માટેનો વર્તમાન શબ્દગણકોંટ છે {wordcount, number}, આ આરંભિક બિંદુ હશે.',
     // NaNoWriMo
     'nanowrimo.full': 'નેશનલ નોવેલ લેખન મહિનો',
     'nanowrimo.site': 'NaNoWriMo આધિકારિક સાઇટ',
