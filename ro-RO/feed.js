@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Flux',
     'feed.post.new': 'Postare nouă',
     'feed.post.like': 'Apreciază postarea',
     'feed.post.unlike': 'Nu mai apreciaza postarea',
