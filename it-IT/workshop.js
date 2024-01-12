@@ -65,8 +65,8 @@ export default {
     'workshop.revisions.comments': 'Commenti sulla revisione',
     'workshop.revisions.comments.title': '{story}: {chapter} - Revisione {revision} - Commenti',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+      beta {per i lettori Beta}
+      readers {Pubblico}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'È necessario creare prima una revisione.',
@@ -149,13 +149,13 @@ export default {
     'workshop.fictionalTime.declarationNone': 'Nessuna',
     'workshop.fictionalTime.units': 'Unità',
     'workshop.fictionalTime.ETStart': 'Data d\'inizio di questo tempo',
-    'workshop.fictionalTime.unitsDescFirst': 'How many units are there in this unit from milliseconds?',
-    'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
-    'workshop.fictionalTime.unitsName': 'Unit name',
-    'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
-    'workshop.fictionalTime.unitAdd': 'Add unit',
-    'workshop.fictionalTime.clocks': 'Clocks',
-    'workshop.fictionalTime.unitTransfer': 'Transfer units',
+    'workshop.fictionalTime.unitsDescFirst': 'Quante unità ci sono in questa unità da millisecondi?',
+    'workshop.fictionalTime.unitsDesc': 'Quante unità sono queste rispetto alla precedente?',
+    'workshop.fictionalTime.unitsName': 'Nome dell\'unità',
+    'workshop.fictionalTime.unitsSeparator': 'Separatore dalla precedente unità',
+    'workshop.fictionalTime.unitAdd': 'Aggiungi unità',
+    'workshop.fictionalTime.clocks': 'Orologi',
+    'workshop.fictionalTime.unitTransfer': 'Trasferisci unità',
     'fictionalTime.pageStartElapsedTime': 'Tempo trascorso dall\'apertura di questa pagina',
     'fictionalTime.currentTime': 'Ora corrente',
     'workshop.shoppingExternal.options': 'Opzioni di acquisto esterne',
@@ -165,8 +165,8 @@ export default {
     'workshop.shoppingExternal.storeName': 'Nome del negozio',
     'workshop.shoppingExternal.itemUrl': 'URL Articolo',
     'workshop.shoppingExternal.storesOther': 'Altri negozi',
-    'fictionalTime.units.milliseconds': '{units, number} milliseconds',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'fictionalTime.units.milliseconds': '{units, number} millisecondi',
+    'fictionalTime.countdownToStart': 'Conto alla rovescia per l\'inizio del tempo',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
@@ -185,46 +185,46 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {secondo}
+      other {secondi}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {minuto}
+      other {minuti}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {ora}
+      other {ore}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {giorno}
+      other {giorni}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {anno}
+      other {anni}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
-    'fictionalTime.inputSelectTimeUnit': 'Select time unit',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputFrom': 'Da',
+    'fictionalTime.inputSelectTimeUnit': 'Seleziona unità di tempo',
+    'fictionalTime.inputSelectETUnit': 'Seleziona unità di tempo terrestre',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Barra Laterale Strumenti',
     'workshop.writerSidebar.description': 'Benvenuti nella vostra storia! Questa barra laterale vi permette di accedere facilmente a tutte le risorse relative alla vostra storia. Controlla le icone in alto per vedere gli ultimi commenti, le tue note e molto altro ancora!',
     'workshop.story.authorsNotesExplained': 'Le vostre note per i lettori da leggere all\'inizio del capitolo.',
     'workshop.story.chapterSortSwitch': 'Cambiare l\'ordine dei capitoli',
-    'workshop.universe.monetizationTitle': '{title} monetization',
-    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
-    'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
-    'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
+    'workshop.universe.monetizationTitle': '{title} monetizzazione',
+    'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetizzazione',
+    'workshop.universe.monetizationWebMonetization': 'Monetizzazione Web',
+    'workshop.webMonetization.explain': 'Web Monetization ti invierà pagamenti in base al tempo che l\'utente trascorre sul tuo contenuto. Nelle impostazioni di monetizzazione del tuo profilo puoi impostare il tuo indirizzo di pagamento. Qui puoi decidere una divisione con i tuoi collaboratori che hanno abilitato i pagamenti web. Literary Universe trattiene automaticamente il 10%.',
+    'workshop.webMonetization.revShare': 'A causa delle limitazioni di Web Monetization viene utilizzato un sistema di condivisione delle entrate probabilistico. La condivisione delle entrate probabilistica funziona scegliendo casualmente da un elenco di indirizzi di pagamento predefiniti ogni volta che un visitatore con pagamenti web carica la tua pagina. Il visitatore paga all\'indirizzo scelto fino al ricaricamento o alla chiusura della pagina.',
     'workshop.webMonetization.revShareMore': 'Per saperne di più sulla ripartizione probabilistica dei ricavi. Utilizziamo lo stesso codice di quella pagina.',
     'workshop.story.notEligible.licence': `La licenza della storia non consente la monetizzazione.`,
     'workshop.universe.notEligible.licence': `La licenza dell'universo non consente la monetizzazione.`,
     'workshop.story.notEligible.fanFiction': 'Le storie di Fan Fiction non possono essere monetizzate.',
     'workshop.revShare.mustBe100': 'La quota deve essere pari al 100%',
-    'workshop.revShare.LUCut': 'Literary Universe & payment gate',
+    'workshop.revShare.LUCut': 'Literary Universe e il gateway di pagamento',
     'workshop.revShare.unallocated': 'Quota non assegnata {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': 'Indeciso',
@@ -234,52 +234,52 @@ export default {
     'workshop.work.includesAds': 'Ci sono pubblicità o inserimenti di prodotti nell\'opera?',
     'workshop.universe.forumSettings': 'Impostazioni del forum dell\'universo interno',
     'workshop.universe.forum': 'Forum interno di {universeName}',
-    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
-    'workshop.selectCollaborator': 'Select collaborator',
+    'workshop.ratingAdjusted': 'A causa di reclami abbiamo dovuto modificare la tua valutazione a quella che abbiamo ritenuto appropriata. Pertanto, la modifica della valutazione è ora disabilitata.',
+    'workshop.selectCollaborator': 'Seleziona un collaboratore',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
-    'workshop.chapterStatus.draft': 'Draft',
-    'workshop.chapterStatus.scheduled': 'Scheduled',
-    'workshop.chapterStatus.published': 'Published',
-    'workshop.story.continuedIn': 'Which stories continue this story?',
-    'workshop.story.continuedPlaceholder': 'Select story from this universe',
-    'workshop.universe.isAIGenerated': 'Is the content of the universe generated by AI?',
-    'workshop.universe.isAIGeneratedTooltip': 'Please let us know if any of the content in the universe was generated by or with the help of AI. We use this information for proper labeling and due to how AI programs are generated there might be some limitations and restrictions.',
-    'workshop.story.isAIGenerated': 'Is the story generated by AI?',
-    'workshop.story.isAIGeneratedTooltip': 'Please let us know if any of the story was generated by or with the help of AI. We use this information for proper labeling and due to how AI programs are generated there might be some limitations and restrictions.',
-    'workshop.publicationAgreement.aria': 'Publication agreement for work',
-    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.',
-    'workshop.sortChapters': 'Sort order:',
-    'workshop.sortChapters.ascending': 'From beginning',
-    'workshop.sortChapters.descending': 'From latest',
-    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing',
-    'workshop.hiatus.btn': 'Change story status to Hiatus',
-    'workshop.cancelled.btn': 'Change story status to Cancelled',
-    'workshop.complete.btn': 'Change story status to Completed',
-    'workshop.statusChange.modalTop': 'Are you sure you want to change the status to',
-    'workshop.statusName.hiatus': 'Hiatus',
-    'workshop.statusName.cancelled': 'Cancelled',
+    'workshop.chapterStatus.draft': 'Bozza',
+    'workshop.chapterStatus.scheduled': 'Pianificato',
+    'workshop.chapterStatus.published': 'Pubblicato',
+    'workshop.story.continuedIn': 'Quali storie continuano questa storia?',
+    'workshop.story.continuedPlaceholder': 'Seleziona una storia da questo universo',
+    'workshop.universe.isAIGenerated': 'Il contenuto dell\'universo è generato da IA?',
+    'workshop.universe.isAIGeneratedTooltip': 'Per favore, facci sapere se parte del contenuto dell\'universo è stato generato da o con l\'aiuto di IA. Utilizziamo queste informazioni per una corretta etichettatura e a causa delle limitazioni e restrizioni dei programmi di IA.',
+    'workshop.story.isAIGenerated': 'La storia è generata da IA?',
+    'workshop.story.isAIGeneratedTooltip': 'Per favore, facci sapere se parte della storia è stata generata da o con l\'aiuto di IA. Utilizziamo queste informazioni per una corretta etichettatura e a causa delle limitazioni e restrizioni dei programmi di IA.',
+    'workshop.publicationAgreement.aria': 'Accordo di pubblicazione per il lavoro',
+    'workshop.publicationAgreement.intro': 'Siamo felici che tu abbia scelto di pubblicare il tuo lavoro creativo con noi. Prima di procedere, ti chiediamo solo di leggere il nostro accordo di pubblicazione, per capire cosa significa dal punto di vista legale.',
+    'workshop.sortChapters': 'Ordine di visualizzazione:',
+    'workshop.sortChapters.ascending': 'Dall\'inizio',
+    'workshop.sortChapters.descending': 'Dalla più recente',
+    'workshop.sortChapters.aria': 'Seleziona in quale modo ordinare l\'elenco dei capitoli',
+    'workshop.hiatus.btn': 'Cambia lo stato della storia in Pausa',
+    'workshop.cancelled.btn': 'Cambia lo stato della storia in Annullata',
+    'workshop.complete.btn': 'Cambia lo stato della storia in Completata',
+    'workshop.statusChange.modalTop': 'Sei sicuro di voler cambiare lo stato in',
+    'workshop.statusName.hiatus': 'Pausa',
+    'workshop.statusName.cancelled': 'Annullata',
     'workshop.statusName.completed': 'Completato',
-    'workshop.statusExplain.hiatus1': 'Hiatus means that you are stepping away from working on this story for a while for what ever reason. It will tell your readers that they should not expect any new updates in the coming weeks or even up to few months.',
-    'workshop.statusExplain.hiatus2': 'The hiatus status will be automatically lifted if you publish any chapter. Or you can change it your self.',
-    'workshop.statusExplain.hiatus3': 'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',
-    'workshop.statusExplain.cancelled1': 'We are sorry to hear that you can\'t continue working on the story. On the other hand we are happy that you are willing to let your readers know.',
-    'workshop.statusExplain.cancelled2': 'Cancelling story will let your readers know that they should not expect any new updates.',
-    'workshop.statusExplain.cancelled3': 'You can always revert this by publishing a chapter or changing the status.',
-    'workshop.statusExplain.finished1': 'Congratulations! After all that hard work you have finally reached the end of an incredible journey. While the story might end now, we hope that there will be more stories to tell in the future, but for now, relax and enjoy the well earned rest.',
-    'workshop.statusExplain.finished2': 'Marking story as complete will tell the readers that the story is finished. While you shouldn\'t be adding any new chapters we won\'t stop you and adding special chapters isn\'t a bad idea, to for example add more epilogues for all characters.',
-    'workshop.statusExplain.finished3': 'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.',
-    'workshop.status.goActive': 'Make the story active again',
-    'workshop.statusChangeEmail.storyIntro': 'We would like to inform you that your story:',
-    'workshop.statusChangeEmail.hiatusTitle': 'Your story status was automatically set to hiatus',
-    'workshop.statusChangeEmail.hiatusIntro': 'Due to inactivity your story status was automatically set to hiatus.',
-    'workshop.statusChangeEmail.hiatusWhy': 'Has been automatically put on hiatus due to no new chapter being published for over 6 months.',
-    'workshop.statusChangeEmail.hiatusWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t publish a new chapter in the next 6 months we will automatically set the story as cancelled.',
-    'workshop.statusChangeEmail.cancellationIntro': 'Your story status was automatically set to cancelled.',
-    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
-    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.',
-    'workshop.startCreating': 'Start creating',
-    'workshop.ownWork': 'Own work',
-    'workshop.list.thumbs': 'Thumbnails list',
-    'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.statusExplain.hiatus1': 'La pausa significa che ti stai allontanando dal lavoro su questa storia per un po\' di tempo, per qualsiasi motivo. Dirà ai tuoi lettori che non devono aspettarsi nuovi aggiornamenti nelle prossime settimane o anche nei prossimi mesi.',
+    'workshop.statusExplain.hiatus2': 'Lo stato di pausa verrà automaticamente rimosso se pubblichi un capitolo. Oppure puoi cambiarlo tu stesso.',
+    'workshop.statusExplain.hiatus3': 'Se mantieni la tua storia in pausa per sei mesi, la segnaleremo automaticamente come annullata.',
+    'workshop.statusExplain.cancelled1': 'Ci dispiace sentire che non puoi continuare a lavorare sulla storia. D\'altra parte siamo felici che tu sia disposto a farlo sapere ai tuoi lettori.',
+    'workshop.statusExplain.cancelled2': 'Annullare la storia farà sapere ai tuoi lettori che non devono aspettarsi nuovi aggiornamenti.',
+    'workshop.statusExplain.cancelled3': 'Puoi sempre annullare questa operazione pubblicando un capitolo o cambiando lo stato.',
+    'workshop.statusExplain.finished1': 'Congratulazioni! Dopo tutto quel duro lavoro hai finalmente raggiunto la fine di un\'incredibile avventura. Anche se la storia potrebbe finire ora, speriamo che ci saranno altre storie da raccontare in futuro, ma per ora, rilassati e goditi il meritato riposo.',
+    'workshop.statusExplain.finished2': 'Segnalare la storia come completata dirà ai lettori che la storia è finita. Anche se non dovresti aggiungere nuovi capitoli, non ti impediremo di farlo e aggiungere capitoli speciali non è una cattiva idea, ad esempio per aggiungere più epiloghi per tutti i personaggi.',
+    'workshop.statusExplain.finished3': 'Anche se puoi sempre annullare questo stato, sconsigliamo vivamente di farlo. Se la storia deve continuare, potrebbe essere meglio iniziare una nuova storia.',
+    'workshop.status.goActive': 'Rendi di nuovo attiva la storia',
+    'workshop.statusChangeEmail.storyIntro': 'Desideriamo informarti che la tua storia:',
+    'workshop.statusChangeEmail.hiatusTitle': 'Lo stato della tua storia è stato automaticamente impostato su pausa',
+    'workshop.statusChangeEmail.hiatusIntro': 'A causa dell\'inattività, lo stato della tua storia è stato automaticamente impostato su pausa.',
+    'workshop.statusChangeEmail.hiatusWhy': 'È stata messa automaticamente in pausa perché non hai pubblicato un nuovo capitolo da oltre 6 mesi.',
+    'workshop.statusChangeEmail.hiatusWhatFollows': 'Questo stato verrà automaticamente rimosso se pubblichi un nuovo capitolo. Se non pubblichi un nuovo capitolo nei prossimi 6 mesi, la storia verrà automaticamente impostata come cancellata.',
+    'workshop.statusChangeEmail.cancellationIntro': 'Lo stato della tua storia è stato automaticamente impostato su cancellata.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Questo è accaduto perché non hai pubblicato alcun nuovo capitolo della storia da quando è stata messa in pausa 6 mesi fa. Quindi, dopo un anno di inattività, impostiamo automaticamente le storie come cancellate in modo che i lettori sappiano quali storie sono attive.',
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'Questo stato verrà automaticamente rimosso se pubblichi un nuovo capitolo. Se non hai intenzione di continuare a lavorare su questa storia, non c\'è altro che devi fare.',
+    'workshop.startCreating': 'Inizia a creare',
+    'workshop.ownWork': 'Lavoro proprio',
+    'workshop.list.thumbs': 'Elenco delle miniature',
+    'workshop.list.list': 'Elenco breve',
+    'workshop.fanfiction.new': 'Crea una nuova fan fiction'
 };
