@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Tá brón orm rud éigin a chur isteach. Ach roimh dul ar aghaidh leat níos faide, táimid dliteach go dlúth a chinntiú go bhfuil tú ar an eolas faoi ár nTreoracha Seirbhíse, Árachas Príobháideachta agus Comhaontú Cearta Cóipcheart.',
+    'legal.modal.agree': 'Glacaim',
+    'legal.modal.disagree': 'Ní Glacaim',
+    'legal.modal.register': 'Ní fheicfidh tú seo arís má chláraíonn tú.',
+    'legal.modal.goToSettings': 'Téigh chuig do shocruithe',
+    'legal.modal.oneLastThing': 'Rud amháin deireanach...',
+    'legal.modal.finish': 'Críochnaigh',
+    'legal.modal.existingUser': 'Cláraithe cheana féin?',
+    'legal.modal.pleaseLogin': 'Logáil isteach, le do thoil.'
 };
