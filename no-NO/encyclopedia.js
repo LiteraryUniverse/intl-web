@@ -29,68 +29,68 @@ export default {
     other {# relaterte oppføringer}
   } funnet.`,
     'encyclopedia.help.text': 'Bruk menyen på venstre side for å navigere mellom elementene i encyklopedien. Når du velger et element, vil det vises i stedet for denne teksten.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Verktøylinje for sidepanel',
+    'encyclopedia.help.sidebar.text': 'Velkommen til din historie! Denne sidepanelet gir deg enkel tilgang til alle ressurser relatert til historien din. Sjekk ikonene ovenfor for å se de siste kommentarene, notatene dine, søk i oppslagsverket ditt, bla gjennom og legg til nye oppføringer i oppslagsverket ditt. Hvis du vil legge til en kobling til en oppføring fra historieteksten, velger du teksten der du vil plassere den og klikker deretter på koble-knappen. Du blir deretter bedt om å finne og velge et element.',
     'encyclopedia.intro': 'Velkommen til {universe} encyklopedien.',
     'encyclopedia.add.title': 'Legg til en ny oppføring i encyklopedien',
     'encyclopedia.add.heading': 'Hva ønsker du å legge til?',
     'encyclopedia.add.moresoon': 'Flere kategorier kommer snart!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
+    'encyclopedia.create': `Opprett en ny {category, select,
+    character {karakter}
+    event {hendelse}
+    group {gruppe}
+    item {gjenstand}
+    location {sted}
+    other {notat}
+    state {tilstand}
+    governments {regjering}
+    languages {språk}
+    creatures {skapning}
+    deity {guddom}
     religions {religion}
     flora {flora}
-    magic {magic}
+    magic {magi}
     planets {planet}
-    species {specie}
-    technologies {technology}
+    species {art}
+    technologies {teknologi}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
+    'encyclopedia.create.header': `Opprett en ny {category, select,
+    character {karakter}
+    event {hendelse}
+    group {gruppe}
+    item {gjenstand}
+    location {sted}
+    other {notat}
+    state {tilstand}
+    governments {regjering}
+    languages {språk}
+    creatures {skapning}
+    deity {guddom}
     religions {religion}
     flora {flora}
-    magic {magic}
+    magic {magi}
     planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
+    species {art}
+    technologies {teknologi}
+  } i {universe}`,
+    'encyclopedia.entry.category': `Oppføringskategori: {category, select,
+    character {Karakter}
+    event {Hendelse}
+    group {Gruppe}
+    item {Gjenstand}
+    location {Sted}
+    other {Merknad}
+    state {Tilstand}
+    governments {Regjering}
+    languages {Språk}
+    creatures {Skapning}
+    deity {Guddom}
     religions {Religion}
     flora {Flora}
-    magic {Magic}
+    magic {Magi}
     planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    species {Art}
+    technologies {Teknologi}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Legg til et nytt felt',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } oppføringer.`,
     'enc.entries.limitReached': 'Du har nådd maksimalt tillatte oppføringer i encyklopedien for ditt nåværende abonnement.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Encyklopedikontroller',
+    'encyclopedia.pronunciation.title': 'Uttale',
+    'encyclopedia.wip.abbreviation': 'Pågående arbeid',
+    'encyclopedia.wip.full': 'Arbeid pågår'
 };
