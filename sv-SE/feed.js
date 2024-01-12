@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Flöde',
     'feed.post.new': 'Nytt inlägg',
     'feed.post.like': 'Gilla inlägg',
     'feed.post.unlike': 'Till skillnad från inlägget',
