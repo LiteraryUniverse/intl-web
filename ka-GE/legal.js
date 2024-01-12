@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'ბოდიშვით შეგვეძლებათ შეწყვიტოთ. მაგრამ მიიღებთ წესების, კონფიდენციალურობის პოლიტიკისა და საავტორო უფლებების შესახებ გამოცხადებას და თქვენ უნდა იცოდეთ და დაეთანხმეთ მათ.',
+    'legal.modal.agree': 'მე ვეთანხმები',
+    'legal.modal.disagree': 'მე არ ვეთანხმები',
+    'legal.modal.register': 'თუ დარეგისტრირებულხარ, ეს ვერ ხელმეორედ გინდა დაგიმატებები.',
+    'legal.modal.goToSettings': 'გადადით თქვენი პარამეტრებისათვის',
+    'legal.modal.oneLastThing': 'ბოლო რამდენიმეს დამატება...',
+    'legal.modal.finish': 'დასრულება',
+    'legal.modal.existingUser': 'უკვე რეგისტრირებული ხარ?',
+    'legal.modal.pleaseLogin': 'გთხოვთ შესვლა.'
 };
