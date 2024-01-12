@@ -30,67 +30,67 @@ export default {
   } found.`,
     'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
     'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar.text': 'coi ro do .i do\'e la\'o gy.encyclopedia.help.sidebar.text.gy. co\'e lo nu pilno lo sidju be fi lo do lisri .i ko catra lo simsa be lo se dunda be\'o gy.encyclopedia.help.sidebar.text.gy. .i ko pilno lo simsa be lo se dunda be\'o gy.encyclopedia.help.sidebar.icons.gy. lo nu catra lo notci se casnu be\'o gy.encyclopedia.help.sidebar.comments.gy. .i ko pilno lo simsa be lo se dunda be\'o gy.encyclopedia.help.sidebar.notes.gy. lo nu catra lo bangu be lo do enciklopedias.gy. .i ko pilno lo simsa be lo se dunda be\'o gy.encyclopedia.help.sidebar.search.gy. lo nu catra lo bangu be lo do enciklopedias.gy. .i ko pilno lo simsa be lo se dunda be\'o gy.encyclopedia.help.sidebar.add_entry.gy. lo nu catra lo bangu be lo do enciklopedias.gy. .i lo nu do pilno lo simsa be lo se dunda be\'o gy.encyclopedia.help.connect.gy. lo nu catra lo valsi be lo do lisri .i ko pilno lo simsa be lo se dunda be\'o gy.encyclopedia.help.connect.gy. .i do se benji lo se dunda be\'o gy.encyclopedia.help.connect.prompt.gy. lo nu do kavbu gi\'e pilno lo se dunda be\'o gy.encyclopedia.help.connect.prompt.gy. .i',
     'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
     'encyclopedia.add.title': 'Add a new entry to encyclopedia',
     'encyclopedia.add.heading': 'What do you wish to add?',
     'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Citka lo nu jdice lo nu zukte fi lo {category, select,
+    character {lo}
+    event {lo}
+    group {lo}
+    item {lo}
+    location {lo}
+    other {lo}
+    state {lo}
+    governments {lo}
+    languages {lo}
+    creatures {lo}
+    deity {lo}
+    religions {lo}
+    flora {lo}
+    magic {lo}
+    planets {lo}
+    species {lo}
+    technologies {lo}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
+    'encyclopedia.create.header': `Citka lo nu jdice lo nu zukte fi lo {category, select,
+    character {lo}
+    event {lo}
+    group {lo}
+    item {lo}
+    location {lo}
+    other {lo}
+    state {lo}
+    governments {lo}
+    languages {lo}
+    creatures {lo}
+    deity {lo}
+    religions {lo}
+    flora {lo}
+    magic {lo}
+    planets {lo}
+    species {lo}
+    technologies {lo}
+  } lo {universe}`,
+    'encyclopedia.entry.category': `Kategorya ng Pag-entry: {category, select,
     character {Character}
     event {Event}
     group {Group}
     item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    location {Lokasyon}
+    other {Tala}
+    state {Kalagayan}
+    governments {Pamahalaan}
+    languages {Wika}
+    creatures {Nilalang}
+    deity {Diyos}
+    religions {Relihiyon}
+    flora {Halaman}
+    magic {Mahika}
+    planets {Planeta}
+    species {Uri}
+    technologies {Teknolohiya}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entrise.`,
     'enc.entries.limitReached': 'Ijasu cu klama le traji le te jerna nandu be do.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Enciklopedias kontroloj',
+    'encyclopedia.pronunciation.title': 'Prononco',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Verketo en Progreso'
 };
