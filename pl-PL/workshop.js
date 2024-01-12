@@ -2,12 +2,12 @@ export default {
     'workshop.title': 'Twoja praca',
     'workshop.noneassigned': 'Nie przydzielono Ci jeszcze żadnych projektów.',
     'workshop.notavailable': 'Ta funkcja nie jest jeszcze dostępna.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
+    'workshop.none': `Obecnie nie masz żadnego {type, select,
+      universe {uniwersum}
+      story {historii}
       fanfiction {fan fiction}
       other {}
-    }. Create one now!`,
+    }. Stwórz teraz jedno!`,
     'workshop.collab': 'Wspólna praca',
     'workshop.betareadings': 'Czytania Beta',
     'workshop.translations': 'Tłumaczenia',
@@ -38,7 +38,7 @@ export default {
     'workshop.story.genre.pick': 'Wybierz gatunki dla opowiadania',
     'workshop.cover': 'Obraz na okładce',
     'workshop.nothingtosee': 'Niczego tu nie ma...',
-    'workshop.story.cannon': 'Canon story',
+    'workshop.story.cannon': 'Historia kanoniczna',
     'workshop.story.cannon.desc': 'Ta historia jest kanoniczna w uniwersum {universe}.',
     'workshop.story.cannon.desc.create': 'Ta historia zostanie stworzona jako kanoniczna w uniwersum {universe}.',
     'workshop.story.fanfiction.search': 'Wpisz nazwę wszechświata (musi być w Twojej bibliotece). A następnie wybierz z propozycji.',
@@ -49,13 +49,13 @@ export default {
     'workshop.story.new': 'Utwórz nową historię',
     'workshop.story.publishing.notice': 'Opowiadanie zostanie opublikowane automatycznie po opublikowaniu pierwszego rozdziału.',
     'workshop.settings.edit': 'Edytuj ustawienia',
-    'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
+    'workshop.story.publishedOn': 'Ta historia została opublikowana w {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Ustawienia opowieści',
     'workshop.settings.basic': 'Podstawowe ustawienia',
-    'workshop.settings.genres': 'Genres (max 2)',
+    'workshop.settings.genres': 'Gatunki (maks. 2)',
     'workshop.story.license': 'Licencja na opowiadanie',
-    'workshop.story.settings.universe': 'Universe settings',
-    'workshop.settings.tags': 'Tags',
+    'workshop.story.settings.universe': 'Ustawienia uniwersum',
+    'workshop.settings.tags': 'Tagi',
     'workshop.revision': 'Rewizja',
     'workshop.revisions.title': '{story}: {chapter} wersji',
     'workshop.revisions.current': 'Aktualny projekt',
@@ -63,50 +63,50 @@ export default {
     'workshop.revisions.new.public': 'Utwórz nową publiczną rewizję z projektu.',
     'workshop.revisions.toeditor': 'Przejdź do edytora',
     'workshop.revisions.comments': 'Uwagi dotyczące przeglądu',
-    'workshop.revisions.comments.title': '{story}: {chapter} - Revision {revision} - Comments',
+    'workshop.revisions.comments.title': '{story}: {chapter} - Rewizja {revision} - Komentarze',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+      beta {dla czytelników Beta}
+      readers {Publiczne}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'Najpierw musisz utworzyć rewizję.',
     'workshop.revisions.comments.select': 'Wybór zmian',
     'workshop.collaborators.noresults': 'Brak wyników',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
+    'workshop.collaborators.add.beta': 'Dodaj czytelnika beta',
+    'workshop.collaborators.add.collaborator': 'Dodaj współtwórcę',
+    'workshop.collaborators.add.translator': 'Dodaj tłumacza',
     'workshop.collaborators.language.add': 'Utwórz nowe tłumaczenie',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
+    'workshop.translations.stories': 'Tłumaczenia - opowiadania',
+    'workshop.translations.universes': 'Tłumaczenia - uniwersa',
     'workshop.revisions.beta.none': 'Na chwilę obecną brak zmian.',
     'reader.asidetoggle': 'Przełączanie informacji na bok',
-    'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
+    'workshop.translation.original': 'Oryginalne:',
+    'workshop.translation.original.title': 'Oryginalny tytuł:',
+    'workshop.translation.original.description': 'Oryginalny opis:',
+    'workshop.translation.original.cover': 'Oryginalna okładka',
+    'workshop.translation.original.tags': 'Oryginalne tagi',
     'workshop.cover.alt': 'obraz na okładce',
     'workshop.translation.updatedOrig': 'Ostatnia aktualizacja oryginału: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.updatedTrs': 'Ostatnia aktualizacja tłumaczenia {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionOrig': 'Ostatnia wersja {revision, number}, oryginału: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionTrs': 'Ostatnia wersja {revision, number}, tłumaczenia: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.collaborators.premium': `Aby dodać więcej {type, select,
+    collaborator {współpracowników}
+    beta {beta readerów}
+    translator {tłumaczy}
     other {}
-  }, you need to increase your membership tier.`,
+  }, musisz zwiększyć swój poziom członkostwa.`,
     'workshop.collaborators.requests.sent': 'Wysłane wnioski',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+    'workshop.collaborators.requests.invite': `Zostałeś zaproszony do zostania {role, select,
+    beta {beta readerem}
+    translator {tłumaczem}
+    collaborator {współpracownikiem}
     other {}
-  } for the following:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
+  } dla następującego:`,
+    'workshop.collaborators.requests.dashboard': `Zostałeś zaproszony do współpracy przy {count, plural,
+    zero {żadnej pracy}
+    one {jednej pracy literackiej}
+    other {# prac literackich}
   }.`,
     'workshop.collaborators.language.added': 'Język dodano',
     'workshop.story.noChaptersFound': 'Nie znaleziono żadnych rozdziałów.',
@@ -116,42 +116,42 @@ export default {
     'workshop.collaborators.removeUser': 'Usuń użytkownika',
     'workshop.collaborators.cancelInvite': 'Anuluj zaproszenie',
     'workshop.universe.createFirstStory': 'Stwórz pierwszą historię',
-    'workshop.storylines': 'Storylines',
-    'workshop.scenesManager': 'Scenes Manager',
-    'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
-    'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
+    'workshop.storylines': 'Wątki fabularne',
+    'workshop.scenesManager': 'Menadżer scen',
+    'workshop.collaborators.addRoleForLang': 'Dodaj {role} dla {language}',
+    'workshop.beta.revisionInfo': 'To jest rewizja {revision, number}, utworzona dnia {createdAt, date, long}.',
     'workshop.story.notes.title': 'Twoje notatki do {storyTitle}',
     'workshop.story.notes.desc': 'Notatki poglądowe do opowiadania.',
-    'workshop.story.notes.tile': 'Overview notes',
+    'workshop.story.notes.tile': 'Uwagi dotyczące przeglądu historii',
     'workshop.hideOrgs': 'Ukryj zawartość przed organizacjami',
     'workshop.translation.premium': 'Aby dodać tłumaczenia, musisz mieć co najmniej subskrypcję Explorer.',
     'workshop.story.finished': 'Historia jest kompletna',
-    'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
+    'workshop.story.publishing.externalSellingNotice': 'Ponieważ sprzedajesz poza Uniwersum Literackim, możesz teraz opublikować historię. Linki do twojej oferty w sklepie pojawią się w historii lub na końcu obecnej historii, którą publikujesz tutaj.',
     'workshop.sharing.publicURL': 'Wersja publiczna',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
-    'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
+    'workshop.fictionalTime.title': 'Fikcyjne czasy dla {universeName}',
+    'workshop.fictionalTime.none': 'Obecnie nie masz żadnych fikcyjnych czasów ustawionych.',
     'workshop.fictionalTime.createNow': 'Stwórz go już teraz!',
-    'workshop.fictionalTime.createTitle': 'Create a new fictional time',
-    'workshop.fictionalTime.editTitle': 'Edit {ftName}',
+    'workshop.fictionalTime.createTitle': 'Utwórz nowy fikcyjny czas',
+    'workshop.fictionalTime.editTitle': 'Edytuj {ftName}',
     'workshop.fictionalTime.formDescription': `Tutaj możesz stworzyć swój własny fikcyjny czas. Obecnie to narzędzie jest ograniczone i jest w stanie tworzyć tylko symetrycznych czasów. Oznacza to, że nie będziesz w stanie odtworzyć kalendarza Majów lub gregoriańskiego. W tej chwili to narzędzie oczekuje, że wszystkie czasy są zawsze takie same, np. miesiące mają zawsze 30 dni bez wyjątków i tak dalej. i tak dalej. Zajmiemy się tym w późniejszych wersjach, ale do tego czasu to narzędzie jest bardziej odpowiednie do tworzenia głównie czasów opartych na sci-fi.`,
-    'workshop.fictionalTime.timeName': 'Time name',
+    'workshop.fictionalTime.timeName': 'Nazwa czasu',
     'workshop.fictionalTime.basicInfo': 'Podstawowe informacje',
-    'workshop.fictionalTime.timeSetup': 'Time setup',
+    'workshop.fictionalTime.timeSetup': 'Konfiguracja czasu',
     'workshop.fictionalTime.linkedToET': 'Czy czas ten rozpoczyna się w dniu ziemskim (kalendarz gregoriański)?',
     'workshop.fictionalTime.timeDeclaration': 'Deklaracja czasu',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
-    'workshop.fictionalTime.declarationBefore': 'Before units',
-    'workshop.fictionalTime.declarationAfter': 'After units',
-    'workshop.fictionalTime.declarationNone': 'None',
-    'workshop.fictionalTime.units': 'Units',
-    'workshop.fictionalTime.ETStart': 'Starting date of this time',
+    'workshop.fictionalTime.declarationLocation': 'Gdzie powinna być zadeklarowana nazwa czasu?',
+    'workshop.fictionalTime.declarationBefore': 'Przed jednostkami',
+    'workshop.fictionalTime.declarationAfter': 'Po jednostkach',
+    'workshop.fictionalTime.declarationNone': 'Brak',
+    'workshop.fictionalTime.units': 'Jednostki',
+    'workshop.fictionalTime.ETStart': 'Data rozpoczęcia tego czasu',
     'workshop.fictionalTime.unitsDescFirst': 'Ile jest jednostek w tej jednostce z milisekund?',
     'workshop.fictionalTime.unitsDesc': 'O ile jednostek różni się ten egzemplarz od poprzedniego?',
-    'workshop.fictionalTime.unitsName': 'Unit name',
-    'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
-    'workshop.fictionalTime.unitAdd': 'Add unit',
+    'workshop.fictionalTime.unitsName': 'Nazwa jednostki',
+    'workshop.fictionalTime.unitsSeparator': 'Separator od poprzedniej jednostki',
+    'workshop.fictionalTime.unitAdd': 'Dodaj jednostkę',
     'workshop.fictionalTime.clocks': 'Zegary',
-    'workshop.fictionalTime.unitTransfer': 'Transfer units',
+    'workshop.fictionalTime.unitTransfer': 'Przenieś jednostki',
     'fictionalTime.pageStartElapsedTime': 'Czas, jaki upłynął od otwarcia tej strony',
     'fictionalTime.currentTime': 'Aktualny czas',
     'workshop.shoppingExternal.options': 'Opcje zakupu zewnętrznego',
@@ -166,8 +166,8 @@ export default {
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 dzień }
+      other {{days} dni }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -181,30 +181,30 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {sekunda}
+      other {sekundy}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {minuta}
+      other {minuty}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {godzina}
+      other {godziny}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {dzień}
+      other {dni}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {rok}
+      other {lata}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
+    'fictionalTime.inputFrom': 'Od',
     'fictionalTime.inputSelectTimeUnit': 'Wybierz jednostkę czasu',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputSelectETUnit': 'Wybierz jednostkę czasu ziemskiego',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Boczny pasek narzędzi',
     'workshop.writerSidebar.description': 'Witamy w Twojej historii! Ten pasek boczny umożliwia Ci łatwy dostęp do wszystkich zasobów związanych z Twoją historią. Sprawdź ikony powyżej, aby zobaczyć najnowsze komentarze, Twoje notatki i wiele więcej!',
@@ -212,7 +212,7 @@ export default {
     'workshop.story.chapterSortSwitch': 'Zmienić kolejność rozdziałów',
     'workshop.universe.monetizationTitle': '{title} monetyzacja',
     'workshop.story.monetizationTitle': '{universeTitle}: Monetyzacja {storyTitle}',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
+    'workshop.universe.monetizationWebMonetization': 'Monetyzacja internetowa',
     'workshop.webMonetization.explain': 'Monetyzacja stron internetowych dostarcza Ci płatności w oparciu o czas, jaki użytkownik spędza na Twoich treściach. W ustawieniach monetyzacji profilu możesz ustawić swój własny wskaźnik płatności. Tutaj możesz zdecydować o podziale z Twoimi współpracownikami, którzy mają włączoną płatność internetową. Literary Universe automatycznie weźmie 10%.',
     'workshop.webMonetization.revShare': 'Ze względu na ograniczenia monetyzacji stron internetowych stosowany jest probabilistyczny podział przychodów. Probabilistyczny podział przychodów działa na zasadzie losowego wyboru z listy predefiniowanych wskaźników płatności za każdym razem, gdy zmonetyzowany odwiedzający załaduje Twoją stronę. Odwiedzający płaci do wybranego wskaźnika, dopóki strona nie zostanie ponownie załadowana lub zamknięta.',
     'workshop.webMonetization.revShareMore': 'Dowiedz się więcej o Probabilistycznym Podziale Dochodu. Używamy tego samego kodu, co na tej stronie.',
@@ -221,7 +221,7 @@ export default {
     'workshop.story.notEligible.fanFiction': 'Historie Fan Fiction nie kwalifikują się do monetyzacji.',
     'workshop.revShare.mustBe100': 'Udział musi wynosić 100%',
     'workshop.revShare.LUCut': 'Literary uniwersalny i bramka płatności',
-    'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+    'workshop.revShare.unallocated': 'Nieprzydzielony udział {total, number, ::percent}',
     'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
     'workshop.revShare.undecided': 'Niezdecydowany',
     'workshop.revShare.origLangCreators': 'Twórcy języka oryginalnego',
@@ -236,46 +236,46 @@ export default {
     'workshop.chapterStatus.draft': 'Szkic',
     'workshop.chapterStatus.scheduled': 'Zaplanowane',
     'workshop.chapterStatus.published': 'Opublikowano',
-    'workshop.story.continuedIn': 'Which stories continue this story?',
-    'workshop.story.continuedPlaceholder': 'Select story from this universe',
-    'workshop.universe.isAIGenerated': 'Is the content of the universe generated by AI?',
-    'workshop.universe.isAIGeneratedTooltip': 'Please let us know if any of the content in the universe was generated by or with the help of AI. We use this information for proper labeling and due to how AI programs are generated there might be some limitations and restrictions.',
-    'workshop.story.isAIGenerated': 'Is the story generated by AI?',
-    'workshop.story.isAIGeneratedTooltip': 'Please let us know if any of the story was generated by or with the help of AI. We use this information for proper labeling and due to how AI programs are generated there might be some limitations and restrictions.',
-    'workshop.publicationAgreement.aria': 'Publication agreement for work',
-    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.',
-    'workshop.sortChapters': 'Sort order:',
-    'workshop.sortChapters.ascending': 'From beginning',
-    'workshop.sortChapters.descending': 'From latest',
-    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing',
-    'workshop.hiatus.btn': 'Change story status to Hiatus',
-    'workshop.cancelled.btn': 'Change story status to Cancelled',
-    'workshop.complete.btn': 'Change story status to Completed',
-    'workshop.statusChange.modalTop': 'Are you sure you want to change the status to',
-    'workshop.statusName.hiatus': 'Hiatus',
-    'workshop.statusName.cancelled': 'Cancelled',
+    'workshop.story.continuedIn': 'Które opowieści kontynuują tę historię?',
+    'workshop.story.continuedPlaceholder': 'Wybierz opowieść z tego uniwersum',
+    'workshop.universe.isAIGenerated': 'Czy treść uniwersum jest generowana przez sztuczną inteligencję?',
+    'workshop.universe.isAIGeneratedTooltip': 'Prosimy o informację, czy jakakolwiek treść w uniwersum została wygenerowana przez lub z pomocą sztucznej inteligencji. Używamy tej informacji do odpowiedniego oznaczania, a ze względu na sposób generowania programów AI mogą wystąpić pewne ograniczenia i restrykcje.',
+    'workshop.story.isAIGenerated': 'Czy opowieść jest generowana przez sztuczną inteligencję?',
+    'workshop.story.isAIGeneratedTooltip': 'Prosimy o informację, czy jakakolwiek część opowieści została wygenerowana przez lub z pomocą sztucznej inteligencji. Używamy tej informacji do odpowiedniego oznaczania, a ze względu na sposób generowania programów AI mogą wystąpić pewne ograniczenia i restrykcje.',
+    'workshop.publicationAgreement.aria': 'Umowa publikacyjna dla pracy',
+    'workshop.publicationAgreement.intro': 'Cieszymy się, że zdecydowałeś się opublikować swoje twórcze dzieło z nami. Przed kontynuacją prosimy Cię o zapoznanie się z naszą umową publikacyjną, aby zrozumieć, co to oznacza z punktu widzenia prawnego.',
+    'workshop.sortChapters': 'Kolejność sortowania:',
+    'workshop.sortChapters.ascending': 'Od początku',
+    'workshop.sortChapters.descending': 'Od najnowszych',
+    'workshop.sortChapters.aria': 'Wybierz sposób sortowania listy rozdziałów',
+    'workshop.hiatus.btn': 'Zmień status opowieści na Przerwa',
+    'workshop.cancelled.btn': 'Zmień status opowieści na Anulowane',
+    'workshop.complete.btn': 'Zmień status opowieści na Zakończone',
+    'workshop.statusChange.modalTop': 'Czy na pewno chcesz zmienić status na',
+    'workshop.statusName.hiatus': 'Przerwa',
+    'workshop.statusName.cancelled': 'Anulowane',
     'workshop.statusName.completed': 'Ukończone',
-    'workshop.statusExplain.hiatus1': 'Hiatus means that you are stepping away from working on this story for a while for what ever reason. It will tell your readers that they should not expect any new updates in the coming weeks or even up to few months.',
-    'workshop.statusExplain.hiatus2': 'The hiatus status will be automatically lifted if you publish any chapter. Or you can change it your self.',
-    'workshop.statusExplain.hiatus3': 'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',
-    'workshop.statusExplain.cancelled1': 'We are sorry to hear that you can\'t continue working on the story. On the other hand we are happy that you are willing to let your readers know.',
-    'workshop.statusExplain.cancelled2': 'Cancelling story will let your readers know that they should not expect any new updates.',
-    'workshop.statusExplain.cancelled3': 'You can always revert this by publishing a chapter or changing the status.',
-    'workshop.statusExplain.finished1': 'Congratulations! After all that hard work you have finally reached the end of an incredible journey. While the story might end now, we hope that there will be more stories to tell in the future, but for now, relax and enjoy the well earned rest.',
-    'workshop.statusExplain.finished2': 'Marking story as complete will tell the readers that the story is finished. While you shouldn\'t be adding any new chapters we won\'t stop you and adding special chapters isn\'t a bad idea, to for example add more epilogues for all characters.',
-    'workshop.statusExplain.finished3': 'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.',
-    'workshop.status.goActive': 'Make the story active again',
-    'workshop.statusChangeEmail.storyIntro': 'We would like to inform you that your story:',
-    'workshop.statusChangeEmail.hiatusTitle': 'Your story status was automatically set to hiatus',
-    'workshop.statusChangeEmail.hiatusIntro': 'Due to inactivity your story status was automatically set to hiatus.',
-    'workshop.statusChangeEmail.hiatusWhy': 'Has been automatically put on hiatus due to no new chapter being published for over 6 months.',
-    'workshop.statusChangeEmail.hiatusWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t publish a new chapter in the next 6 months we will automatically set the story as cancelled.',
-    'workshop.statusChangeEmail.cancellationIntro': 'Your story status was automatically set to cancelled.',
-    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
-    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.',
-    'workshop.startCreating': 'Start creating',
-    'workshop.ownWork': 'Own work',
-    'workshop.list.thumbs': 'Thumbnails list',
-    'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.statusExplain.hiatus1': 'Przerwa oznacza, że na jakiś czas rezygnujesz z pracy nad tą historią, z jakiegoś powodu. Powie to Twoim czytelnikom, że nie powinni oczekiwać żadnych nowych aktualizacji w nadchodzących tygodniach, a nawet przez kilka miesięcy.',
+    'workshop.statusExplain.hiatus2': 'Status przerwy zostanie automatycznie zniesiony, jeśli opublikujesz jakikolwiek rozdział. Możesz go również samodzielnie zmienić.',
+    'workshop.statusExplain.hiatus3': 'Jeśli zostawisz swoją historię w przerwie przez sześć miesięcy, automatycznie oznaczymy tę historię jako anulowaną.',
+    'workshop.statusExplain.cancelled1': 'Przykro nam, że nie możesz kontynuować pracy nad historią. Z drugiej strony cieszymy się, że chcesz poinformować swoich czytelników.',
+    'workshop.statusExplain.cancelled2': 'Anulowanie historii powie czytelnikom, że nie powinni oczekiwać żadnych nowych aktualizacji.',
+    'workshop.statusExplain.cancelled3': 'Zawsze możesz to cofnąć, publikując rozdział lub zmieniając status.',
+    'workshop.statusExplain.finished1': 'Gratulacje! Po całej tej ciężkiej pracy wreszcie dotarłeś do końca niesamowitej podróży. Chociaż historia może się teraz skończyć, mamy nadzieję, że w przyszłości będzie więcej historii do opowiedzenia. Teraz jednak odpocznij i ciesz się zasłużonym wypoczynkiem.',
+    'workshop.statusExplain.finished2': 'Oznaczenie historii jako zakończonej powie czytelnikom, że historia jest skończona. Chociaż nie powinieneś dodawać nowych rozdziałów, nie powstrzymamy Cię, a dodanie specjalnych rozdziałów to niezły pomysł, na przykład dodanie więcej epilogów dla wszystkich postaci.',
+    'workshop.statusExplain.finished3': 'Chociaż zawsze możesz anulować ten status, zdecydowanie odradzamy to. Jeśli historia ma być kontynuowana, lepiej rozpocząć nową historię.',
+    'workshop.status.goActive': 'Aktywuj historię ponownie',
+    'workshop.statusChangeEmail.storyIntro': 'Chcielibyśmy poinformować Cię, że Twoja historia:',
+    'workshop.statusChangeEmail.hiatusTitle': 'Status Twojej historii został automatycznie ustawiony na przerwę',
+    'workshop.statusChangeEmail.hiatusIntro': 'Ze względu na brak aktywności, status Twojej historii został automatycznie ustawiony na przerwę.',
+    'workshop.statusChangeEmail.hiatusWhy': 'Status Twojej historii został automatycznie zmieniony na przerwę z powodu braku publikacji nowego rozdziału przez ponad 6 miesięcy.',
+    'workshop.statusChangeEmail.hiatusWhatFollows': 'Ten status zostanie automatycznie cofnięty, jeśli opublikujesz nowy rozdział. Jeśli nie opublikujesz nowego rozdziału w ciągu najbliższych 6 miesięcy, automatycznie ustawimy opowieść jako anulowaną.',
+    'workshop.statusChangeEmail.cancellationIntro': 'Status Twojej opowieści został automatycznie ustawiony jako anulowany.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Stało się tak, ponieważ nie opublikowałeś żadnego nowego rozdziału od czasu, gdy opowieść została zawieszona 6 miesięcy temu. Po roku nieaktywności automatycznie ustawiamy opowieści jako anulowane, aby czytelnicy wiedzieli, które opowieści są aktywne.',
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'Ten status zostanie automatycznie cofnięty, jeśli opublikujesz nowy rozdział. Jeśli nie planujesz już pracować nad tą opowieścią, nie musisz podejmować żadnych dodatkowych działań.',
+    'workshop.startCreating': 'Zacznij tworzyć',
+    'workshop.ownWork': 'Własna praca',
+    'workshop.list.thumbs': 'Lista miniatur',
+    'workshop.list.list': 'Krótka lista',
+    'workshop.fanfiction.new': 'Utwórz nowe tłumaczenie'
 };
