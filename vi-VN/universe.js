@@ -1,7 +1,7 @@
 export default {
-    'universe.authors.title.meta': '{title} authors',
+    'universe.authors.title.meta': '{title} tác giả',
     'universe.fanfiction.see': 'All Fan Fiction for {universe}',
-    'universe.fanfiction.desc': 'Fan Fiction for {universe}',
+    'universe.fanfiction.desc': 'Fan Fiction cho {universe}',
     'universe.fanfiction.for': '{universe} Fan Fiction',
     'universe.fanarts.for': '{universe} Fan Arts',
     'universe.fansettings.for': '{universe} Fan Settings',
@@ -12,11 +12,11 @@ export default {
     one {is one story}
     other {are # stories}
     } in this universe.`,
-    'universe.authors.title': 'Authors',
-    'universe.authors.desc': 'Creators and contributors to {universe}',
-    'universe.contributors': 'Contributors',
+    'universe.authors.title': 'Tác giả',
+    'universe.authors.desc': 'Người tạo và đóng góp cho {universe}',
+    'universe.contributors': 'Người đóng góp',
     'universe.translators': 'Các dịch giả',
-    'universe.authors.notice': 'Each story might have additional personal that has worked on it. For more details see the details of the story.',
+    'universe.authors.notice': 'Mỗi câu chuyện có thể có thêm nhân sự đã làm việc trên đó. Để biết thêm chi tiết, xem thông tin chi tiết của câu chuyện.',
     'universe.createdBy': `{gender, select,
     male {Created}
     female {Created}
