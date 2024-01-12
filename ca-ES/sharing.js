@@ -1,5 +1,5 @@
 export default {
-    'sharing.title': 'Share',
+    'sharing.title': 'Compartir',
     'sharing.button': 'Sharing Button',
     'sharing.share': 'Share with...',
     'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
