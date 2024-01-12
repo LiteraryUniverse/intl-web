@@ -29,68 +29,68 @@ export default {
     other {# пов'язаних записів}
   } знайдено.`,
     'encyclopedia.help.text': 'Використовуйте меню зліва, щоб переміщуватися між елементами енциклопедії. Після вибору елемента, він буде відображатися замість цього тексту.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Бічна панель інструментів',
+    'encyclopedia.help.sidebar.text': 'Ласкаво просимо до вашої історії! Ця бічна панель надає вам легкий доступ до всіх ресурсів, пов\'язаних з вашою історією. Перевірте значки вище, щоб побачити останні коментарі, ваші нотатки, шукайте в своїй енциклопедії, переглядайте та додавайте нові записи до вашої енциклопедії. Якщо ви хочете додати зв\'язок до запису з тексту історії, виділіть текст, де ви хочете його розмістити, а потім натисніть кнопку "Підключити". Вам буде запропоновано знайти та вибрати елемент.',
     'encyclopedia.intro': 'Ласкаво просимо до енциклопедії {universe} .',
     'encyclopedia.add.title': 'Додати новий запис до енциклопедії',
     'encyclopedia.add.heading': 'Що бажаєте додати?',
     'encyclopedia.add.moresoon': 'Більше категорій незабаром!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `Створити новий {category, select,
+    character {персонаж}
+    event {подія}
+    group {група}
+    item {предмет}
+    location {розташування}
+    other {примітка}
+    state {стан}
+    governments {уряд}
+    languages {мова}
+    creatures {створіння}
+    deity {божество}
+    religions {релігія}
+    flora {флора}
+    magic {магія}
+    planets {планета}
+    species {вид}
+    technologies {технологія}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `Створити новий {category, select,
+    character {персонаж}
+    event {подія}
+    group {група}
+    item {предмет}
+    location {розташування}
+    other {примітка}
+    state {стан}
+    governments {уряд}
+    languages {мова}
+    creatures {створіння}
+    deity {божество}
+    religions {релігія}
+    flora {флора}
+    magic {магія}
+    planets {планета}
+    species {вид}
+    technologies {технологія}
+  } у {universe}`,
+    'encyclopedia.entry.category': `Категорія запису: {category, select,
+    character {Персонаж}
+    event {Подія}
+    group {Група}
+    item {Предмет}
+    location {Місцезнаходження}
+    other {Примітка}
+    state {Стан}
+    governments {Уряд}
+    languages {Мова}
+    creatures {Створіння}
+    deity {Божество}
+    religions {Релігія}
+    flora {Флора}
+    magic {Магія}
+    planets {Планета}
+    species {Вид}
+    technologies {Технологія}
   }`,
     'encyclopedia.entry.category.legend': 'Категорія',
     'encyclopedia.fields.add': 'Додати нове поле',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } записів.`,
     'enc.entries.limitReached': 'Ви досягли максимально допустимої кількості записів в енциклопедії для вашої поточної підписки.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Енциклопедія контролів',
+    'encyclopedia.pronunciation.title': 'Вимова',
+    'encyclopedia.wip.abbreviation': 'ВРВ',
+    'encyclopedia.wip.full': 'Робота у процесі'
 };
