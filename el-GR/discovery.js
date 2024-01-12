@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Συνεχίστε την ανάγνωση',
     'discovery.stories.similar.new': 'Νέες ιστορίες στη γειτονιά',
     'discovery.stories.similar.regular': 'Ιστορίες στη γειτονιά',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Αυτή η ιστορία θα πρέπει να πάρει {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 ώρα και }
+        other {# ώρες και }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 λεπτά}
+        one {1 λεπτό}
+        other {# λεπτά}
+    } για να διαβαστεί.`,
+    'story.estimatedReadingTime.explained': 'Βασισμένο σε μια μέση ταχύτητα ανάγνωσης των {avgReadingNum, number} λέξεων ανά λεπτό.',
     'discover.search.text': 'Όρος αναζήτησης',
     'discover.searchStory.title': 'Αναζητήστε μια ιστορία',
     'discover.searchStory.description': 'Αναζητήστε ιστορίες',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'Πίνακας περιεχομένων',
     'story.status.hiatus': 'Σε αναστολή',
     'story.status.cancelled': 'Ακυρωμένο',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Ανάγνωση - {readAt, date}',
     'discovery.moreDetails': 'Περισσότερες λεπτομέρειες',
     'discovery.read': 'Διάβασμα',
     'discovery.chapters.showAll': 'Εμφάνιση όλων των κεφαλαίων',
