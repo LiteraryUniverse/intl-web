@@ -1,69 +1,69 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'Privalomas laukas',
+    'form.validator.mustBeNumber': 'Turi būti skaičius',
+    'form.validator.minNumber': 'Turi būti didesnis nei {min, number}',
+    'form.validator.maxNumber': 'Turi būti mažesnis nei {max, number}',
+    'form.validator.maxLength': `Turi būti mažiau nei {max, number} {what, select,
+    characters {simboliai}
+    tags {žymės}
+    genres {žanrai}
+    numbers {skaičiai}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Turi būti bent {min, number} {what, select,
+    characters {simboliai}
+    tags {žymės}
+    genres {žanrai}
+    genre {žanras}
+    numbers {skaičiai}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'Turi būti galiojantis el. paštas',
+    'form.validator.url': 'Turi būti galiojantis URL',
+    'form.validator.slug': 'Turi būti galiojanti URL dalis',
+    'form.submitting.signup': 'Kuriamas paskyra...',
+    'form.submitting.signin': 'Prisijungiama...',
+    'form.submitting.default': 'Siunčiama...',
+    'form.submitting.sending': 'Siunčiama...',
+    'form.validator.whitespace': 'Negali turėti tarpų',
+    'form.validator.zipCode': 'Turi būti galiojantis pašto kodas',
+    'form.validator.isbn': 'Priimame tik 10 arba 13 ISBN versiją',
+    'form.validator.btc': 'Tai nėra galiojantis BTC adresas.',
+    'form.validator.eth': 'Tai nėra galiojantis ETH adresas.',
+    'form.weakPassword': 'Šis slaptažodis atrodo silpnas. Prašome jį sustiprinti pridedant skaičių ir specialiųjų simbolių.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} is not a valid date',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
-    'simpleschema.noDecimal': '{label} must be an integer',
-    'simpleschema.notAllowed': '{value} is not an allowed value',
-    'simpleschema.expectedString': '{label} must be a string',
-    'simpleschema.expectedNumber': '{label} must be a number',
-    'simpleschema.expectedBoolean': '{label} must be a boolean',
-    'simpleschema.expectedArray': '{label} must be an array',
-    'simpleschema.expectedObject': '{label} must be an object',
-    'simpleschema.expectedConstructor': '{label} must be a {type}',
-    'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
-    'simpleschema.regEx.0': '{label} failed regular expression validation',
-    'simpleschema.regEx.1': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.2': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.3': '{label} must be a valid domain',
-    'simpleschema.regEx.4': '{label} must be a valid domain',
-    'simpleschema.regEx.5': '{label} must be a valid IPv4 or IPv6 address',
-    'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
-    'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
-    'simpleschema.regEx.8': '{label} must be a valid URL',
-    'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
+    'simpleschema.required': '{label} yra privalomas',
+    'simpleschema.minString': '{label} turi būti bent {min, number} simboliai',
+    'simpleschema.maxString': '{label} negali viršyti {max, number} simbolius',
+    'simpleschema.minNumber': '{label} turi būti bent {min, number}',
+    'simpleschema.maxNumber': '{label} negali viršyti {max, number}',
+    'simpleschema.minNumberExclusive': '{label} turi būti didesnis nei {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} turi būti mažesnis nei {max, number}',
+    'simpleschema.minDate': '{label} turi būti nuo {min, date}arba vėliau',
+    'simpleschema.maxDate': '{label} negali būti po {max, date}',
+    'simpleschema.badDate': '{label} nėra galiojanti data',
+    'simpleschema.minCount': 'Turite nurodyti bent {minCount, number} reikšmes',
+    'simpleschema.maxCount': 'Negalite nurodyti daugiau nei {maxCount, number} reikšmes',
+    'simpleschema.noDecimal': '{label} turi būti sveikasis skaičius',
+    'simpleschema.notAllowed': '{value} nėra leistina reikšmė',
+    'simpleschema.expectedString': '{label} turi būti tekstinis laukas',
+    'simpleschema.expectedNumber': '{label} turi būti skaičius',
+    'simpleschema.expectedBoolean': '{label} turi būti loginė reikšmė',
+    'simpleschema.expectedArray': '{label} turi būti masyvas',
+    'simpleschema.expectedObject': '{label} turi būti objektas',
+    'simpleschema.expectedConstructor': '{label} turi būti {type}',
+    'simpleschema.keyNotInSchema': '{key} nėra leidžiamas pagal schemą',
+    'simpleschema.notUnique': '{label} turi būti unikalus',
+    'simpleschema.regEx.0': '{label} nepavyko atpažinti pagal įprastą išraišką',
+    'simpleschema.regEx.1': '{label} turi būti galiojantis el. pašto adresas',
+    'simpleschema.regEx.2': '{label} turi būti galiojantis el. pašto adresas',
+    'simpleschema.regEx.3': '{label} turi būti galiojantis domenas',
+    'simpleschema.regEx.4': '{label} turi būti galiojantis domenas',
+    'simpleschema.regEx.5': '{label} turi būti galiojantis IPv4 arba IPv6 adresas',
+    'simpleschema.regEx.6': '{label} turi būti galiojantis IPv4 adresas',
+    'simpleschema.regEx.7': '{label} turi būti galiojantis IPv6 adresas',
+    'simpleschema.regEx.8': '{label} turi būti galiojantis URL',
+    'simpleschema.regEx.9': '{label} turi būti galiojantis alfanumerinis ID'
 };
