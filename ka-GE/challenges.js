@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'დაწყების თარიღი',
     'challenges.endDate': 'დასრულების თარიღი',
     'challenges.future': 'მომავალი გამოცდები',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'სიტყვთა რაოდენობის ჩალენჯი დაიწყება {startDate, date, short} თარიღით, მიზეზით, რომელიც არის {target, number} სიტყვა {endDate, date, short}ავტორის მიმართულებაში.',
     'challenges.future.nanowrimo': 'NaNoWriMo გამოცდა მზად არის.',
     'challenges.wordcount': 'სიტყვების რაოდენობა',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `დააყენეთ თქვენი მიზანი, რამდენი სიტყვა გსურთ დაწერა ამ თვისთვის ამ {type, select,
+    story {ისტორიაში}
+    universe {უნივერსუმში}
     other {}
   }.`,
     'challenges.wordcount.select': 'რამდენი სიტყვა გსურთ თქვენს თავს გამოიცანით?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'ანგარიში',
     'challenges.victory': 'გილოცავთ! თქვენ ამ გამოცდას დასრულებენი.',
     'challenges.defeat': 'ბედნიერად ამ გამოცდას დასრულებდით.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'ამ ისტორიის მიმდინარე სიტყვის რაოდენობა არის {wordcount, number}, ეს იქნება საწყისი წერტილი.',
     // NaNoWriMo
     'nanowrimo.full': 'ერთადერთი მაგარი რომალისტური რუკაა მთელი კალათბურთის მწიგნობრების სამყაროში დაცული',
     'nanowrimo.site': 'NaNoWriMo საიტი',
