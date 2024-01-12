@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Ne pare rău că întrerupem. Înainte de a merge mai departe, suntem legal obligați să ne asigurăm că sunteți conștient și de acord cu Termenii de utilizare, Politica de confidențialitate și Acordul de drepturi de autor.',
+    'legal.modal.agree': 'Sunt de acord',
+    'legal.modal.disagree': 'Nu sunt de acord',
+    'legal.modal.register': 'Nu veți mai vedea asta dacă vă înregistrați.',
+    'legal.modal.goToSettings': 'Mergeți la setările dumneavoastră',
+    'legal.modal.oneLastThing': 'Un ultim lucru...',
+    'legal.modal.finish': 'Finalizați',
+    'legal.modal.existingUser': 'Deja înregistrat?',
+    'legal.modal.pleaseLogin': 'Vă rugăm să vă autentificați.'
 };
