@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'Idagdag sa aklatan',
+    'library.remove': 'Tanggalin sa aklatan',
+    'library.bought': 'Mga biniling kwento',
+    'library.stories': 'Mga sinusundang kwento',
+    'library.universes': 'Sinusundang mga universe',
+    'bookmark.continueReading': 'Magpatuloy sa pagbasa',
+    'bookmark.statusSummary': 'Nabasa mo na ang {readPercent, number, ::percent} ng kwento.'
 };
