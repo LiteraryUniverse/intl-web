@@ -35,13 +35,13 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.messageHtml': `Chúng tôi đã nâng cấp tài khoản của bạn lên hạng {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } trong vòng {days} ngày tới. Thưởng thức!`,
+    'email.verification': 'Xác minh E-mail',
+    'email.verifying': 'Đang xác minh E-mail của bạn. Điều này chỉ mất một chút thời gian...',
+    'email.verified': 'Tin tốt! E-mail của bạn đã được xác minh!'
 };    /* eslint-enable max-len */
