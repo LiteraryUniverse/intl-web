@@ -29,68 +29,68 @@ export default {
     other {# संबंधित प्रविष्टी}
   } आहेत.`,
     'encyclopedia.help.text': 'विज्ञानकोशातील प्रविष्ट्यांमध्ये विचारलेल्या वस्त्रावर जाण्यासाठी, डावीकडील मेनू वापरा. एक वस्त्र निवडल्यानंतर, ती या मजकूरच्या जागेवर प्रदर्शित केली जाईल.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'साइडबार टूलबॉक्स',
+    'encyclopedia.help.sidebar.text': 'तुमच्या कथेचे स्वागत आहे! हा साइडबार तुमच्या कथेशी संबंधित सर्व संसाधनांची सोपी प्रवेश देतो. नवीनतम टिप्पण्या पहा, तुमच्या नोट्स पहा, तुमच्या ज्ञानकोशाची शोध करा, ज्ञानकोशात नवीन प्रविष्टीचे ब्राउझ करा आणि त्यात नवीन प्रविष्टी जोडा. कथेच्या मजकूरातून एंट्रीसोबत संबंध जोडण्यासाठी, तुमच्या निवडलेल्या मजकूराच्या तथ्यावर क्लिक करा. त्यानंतर तुम्हाला एक आयटम शोधायला आणि निवडायला प्रॉम्प्ट केली जाईल.',
     'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
     'encyclopedia.add.title': 'विज्ञानकोशात एक नवीन प्रविष्टी जोडा',
     'encyclopedia.add.heading': 'तुम्हाला काय जोडायचे आहे?',
     'encyclopedia.add.moresoon': 'अधिक श्रेणी लवकरच येत आहेत!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `नवीन {category, select,
+    character {कर्मचारी}
+    event {घटना}
+    group {गट}
+    item {वस्त्र}
+    location {स्थान}
+    other {टिप्पणी}
+    state {राज्य}
+    governments {सरकार}
+    languages {भाषा}
+    creatures {प्राणी}
+    deity {देवता}
+    religions {धर्म}
+    flora {वनस्पती}
+    magic {जादू}
+    planets {ग्रह}
+    species {प्रजाति}
+    technologies {तंत्रज्ञान}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `नवीन {category, select,
+    character {कर्मचारी}
+    event {घटना}
+    group {गट}
+    item {वस्त्र}
+    location {स्थान}
+    other {टिप्पणी}
+    state {राज्य}
+    governments {सरकार}
+    languages {भाषा}
+    creatures {प्राणी}
+    deity {देवता}
+    religions {धर्म}
+    flora {वनस्पती}
+    magic {जादू}
+    planets {ग्रह}
+    species {प्रजाति}
+    technologies {तंत्रज्ञान}
+  } येथे {universe}`,
+    'encyclopedia.entry.category': `प्रवेश श्रेणी: {category, select,
+    character {वर्ण}
+    event {कार्यक्रम}
+    group {समूह}
+    item {वस्त्र}
+    location {स्थान}
+    other {टीप}
+    state {राज्य}
+    governments {सरकार}
+    languages {भाषा}
+    creatures {प्राणी}
+    deity {देवता}
+    religions {धर्म}
+    flora {वनस्पती}
+    magic {जादू}
+    planets {ग्रह}
+    species {प्रजाति}
+    technologies {तंत्रज्ञान}
   }`,
     'encyclopedia.entry.category.legend': 'श्रेणी',
     'encyclopedia.fields.add': 'नवीन फील्ड जोडा',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } प्रविष्टी आहेत.`,
     'enc.entries.limitReached': 'तुम्ही आपल्या वर्तमान सदस्यतेसाठी अधिकतम परवानगी दिलील्या विज्ञानकोश प्रविष्ट्यांची संख्या आली आहे.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'ज्ञानकोश नियंत्रणे',
+    'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'काम प्रगतीत'
 };
