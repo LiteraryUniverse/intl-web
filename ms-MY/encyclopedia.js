@@ -29,8 +29,8 @@ export default {
     other {# entri berkaitan}
   } dijumpai.`,
     'encyclopedia.help.text': 'Gunakan menu di sebelah kiri untuk berpindah antara item-item dalam ensiklopedia. Setelah anda memilih satu item, ia akan dipaparkan sebagai gantinya teks ini.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Peti Alat Tersamping',
+    'encyclopedia.help.sidebar.text': 'Selamat datang ke cerita anda! Sidebar ini membolehkan anda mengakses dengan mudah semua sumber yang berkaitan dengan cerita anda. Semak ikon di atas untuk melihat komen terkini, nota anda, cari dalam ensiklopedia anda, jelajahi dan tambah entri baru ke dalam ensiklopedia anda. Jika anda ingin menambah sambungan ke entri daripada teks cerita, pilih teks di mana anda ingin meletakkannya dan klik butang sambung. Anda akan diminta untuk mencari dan memilih item.',
     'encyclopedia.intro': 'Selamat datang ke ensiklopedia {universe} .',
     'encyclopedia.add.title': 'Tambah entri baru ke dalam ensiklopedia',
     'encyclopedia.add.heading': 'Apakah yang ingin anda tambah?',
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
+    'encyclopedia.entry.category': `Kategori entri: {category, select,
+    character {Watak}
+    event {Acara}
+    group {Kumpulan}
     item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
+    location {Lokasi}
+    other {Nota}
+    state {Negeri}
+    governments {Kerajaan}
+    languages {Bahasa}
+    creatures {Makhluk}
+    deity {Dewa}
+    religions {Agama}
     flora {Flora}
-    magic {Magic}
+    magic {Sihir}
     planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    species {Spesies}
+    technologies {Teknologi}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambah medan baru',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entri tanpa had.`,
     'enc.entries.limitReached': 'Anda telah mencapai had maksimum entri ensiklopedia yang dibenarkan untuk langganan semasa anda.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Kawalan Ensiklopedia',
+    'encyclopedia.pronunciation.title': 'Sebutan',
+    'encyclopedia.wip.abbreviation': 'Dalam Pembaikan',
+    'encyclopedia.wip.full': 'Kerja dalam Proses'
 };
