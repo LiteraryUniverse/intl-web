@@ -18,11 +18,11 @@ export default {
     'writer.aside.ariaLabel': 'Menu opcji pomocy',
     'writer.nothingToSave': 'Nie ma nic do zapisania',
     'writer.publish.publishAria': 'Opcje publikacji',
-    'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
-    'writer.publish.schedule': 'Set publication date time',
-    'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
-    'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}',
-    'writer.publish.alreadyPublished': 'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.',
+    'writer.publish.scheduleExplained': 'Możesz albo opublikować natychmiast, albo zaplanować, żeby rozdział był dostępny w późniejszym terminie.',
+    'writer.publish.schedule': 'Ustaw datę i godzinę publikacji',
+    'writer.publish.previousChapterPublished': 'Poprzedni rozdział został opublikowany {publishDate, date, short} o {publishDate, time}',
+    'writer.publish.previousChapterScheduled': 'Poprzedni rozdział jest zaplanowany do publikacji {publishDate, date, short} o {publishDate, time}',
+    'writer.publish.alreadyPublished': 'Ten rozdział został już opublikowany {publishedAt, date, short}. Nowe wersje będą publikowane natychmiast.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Opublikuj'
 };
