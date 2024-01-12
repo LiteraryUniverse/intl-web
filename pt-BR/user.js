@@ -1,10 +1,10 @@
 export default {
     'user.friend.request.add': 'Adicionar aos amigos',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.requests': `Você tem {num, number} novos pedidos de amizade {num, plural,
+    zero {}
+    one {pedido}
+    many {pedidos}
+    other {pedidos}
   }`,
     'user.friend.unfriend': 'Desfazer Amizade',
     'user.block': 'Bloquear',
@@ -44,10 +44,10 @@ export default {
     one {fan fiction}
     other {fan fictions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Obras',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Lista de Desejos',
+    'profile.storiesBy': 'Histórias criadas por {username}',
+    'profile.universesBy': 'Universos criados por {username}',
+    'profile.fanFictionBy': 'Fan Fictions criadas por {username}'
 };
