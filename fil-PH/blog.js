@@ -8,7 +8,7 @@ export default {
     'blog.create': 'Gumawa ng bagong blog',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Pahina ng Universe ng Blog}
     user {Blog}
     other {}
   } settings`,
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Pampublikong tanawin',
     'blog.post.notfound': 'Hindi natagpuan ang blog post',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Mga Universe}
+    stories {Mga standalone na kuwento}
+    fanfiction {Fan Fiction na gawain}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Narito ang mga hiwalay na kuwento, kung ang kuwento ay isinulat bilang bahagi ng isang universe, ito ay ililista sa pahina ng universe.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Ang mga social link ay katulad ng naka-set sa {type, select,
+    organization {mga setting ng organisasyon}
+    user {profile ng user}
     other {}
   }`,
     'blog.social.website': 'Opisyal na website',
@@ -52,7 +52,7 @@ export default {
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
     'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.post.writtenBy': 'Isinulat ni {usernameDisplay}',
+    'blog.post.writtenByFor': 'Isinulat ni {usernameDisplay} para kay {publicationName}',
     'blog.posts.recent': 'Recent posts'
 };
