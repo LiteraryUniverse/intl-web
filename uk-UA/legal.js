@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Вибачте за переривання. Але перед тим, як ви продовжите, ми зобов\'язані законом переконатися, що ви знаєте та погоджуєтесь з нашими Умовами надання послуг, Політикою конфіденційності та Угодою про авторські права.',
+    'legal.modal.agree': 'Погоджуюся',
+    'legal.modal.disagree': 'Не погоджуюся',
+    'legal.modal.register': 'Ви більше не будете бачити це, якщо зареєструєтесь.',
+    'legal.modal.goToSettings': 'Перейти до налаштувань',
+    'legal.modal.oneLastThing': 'Останнє...',
+    'legal.modal.finish': 'Завершити',
+    'legal.modal.existingUser': 'Вже зареєстровані?',
+    'legal.modal.pleaseLogin': 'Будь ласка, увійдіть.'
 };
