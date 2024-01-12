@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'המשך קריאה',
     'discovery.stories.similar.new': 'סיפורים חדשים בשכונה',
     'discovery.stories.similar.regular': 'סיפורים בשכונה',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `הסיפור הזה צריך לקחת {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {שעה ו }
+        other {# שעות ו }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 דקות}
+        one {1 דקה}
+        other {# דקות}
+    } לקריאה.`,
+    'story.estimatedReadingTime.explained': 'בהינתן מהירות קריאה ממוצעת של {avgReadingNum, number} מילים לדקה.',
     'discover.search.text': 'טקסט חיפוש',
     'discover.searchStory.title': 'חפש סיפור',
     'discover.searchStory.description': 'חפש סיפורים',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'מחולקים לפרקים',
     'story.status.hiatus': 'בהשהייה',
     'story.status.cancelled': 'לא נמשך',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'נקרא - {readAt, date}',
     'discovery.moreDetails': 'עוד פרטים',
     'discovery.read': 'נקרא',
     'discovery.chapters.showAll': 'הצג את כל הפרקים',
