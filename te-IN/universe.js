@@ -6,7 +6,7 @@ export default {
     'universe.fanarts.for': '{universe} ఫన్ ఆర్ట్లు',
     'universe.fansettings.for': '{universe} ఫన్ ఆకరణాలు',
     'universe.fanfiction.stories': 'కథలు',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.fanfiction.fanarts': 'ఫాన్ ఆర్ట్స్',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
@@ -25,12 +25,12 @@ export default {
     'universe.stories.own': '{universe} కథలు',
     'universe.stories.desc': '{universe}కు కానన్ కథలు',
     'universe.encyclopedia.title': '{universe} సంక్షిప్తవిజ్ఞానపీఠం',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
+    'universe.encyclopedia.desc': 'అన్ని వివరాలు {universe}కొరకు',
+    'universe.fanArt.submit': 'మీ ఆర్ట్‌ను సమర్పించండి',
+    'universe.fanArtHeaderDesc.item': '{universe} ఫాన్ ఆర్ట్ - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} ఫాన్ ఆర్ట్ సమర్పణ',
+    'universe.fanArtHeaderDesc.overview': '{universe} ఫాన్ ఆర్ట్స్',
     'universe.fanFiction.hidden': 'దాగిన',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hide': 'ఫాన్ కథను దాచు',
+    'universe.fanFiction.unhide': 'ఫాన్ కథను దాటంచేయండి'
 };
