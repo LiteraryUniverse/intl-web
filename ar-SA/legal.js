@@ -4,8 +4,8 @@ export default {
     'legal.modal.disagree': 'غير موافق',
     'legal.modal.register': 'لن ترى هذا بعد الآن إذا قمت بالتسجيل.',
     'legal.modal.goToSettings': 'انتقل إلى إعداداتك',
-    'legal.modal.oneLastThing': 'One last thing...',
+    'legal.modal.oneLastThing': 'شيء واحد آخر...',
     'legal.modal.finish': 'إنهاء',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.existingUser': 'هل لديك حساب بالفعل؟',
+    'legal.modal.pleaseLogin': 'يرجى تسجيل الدخول.'
 };
