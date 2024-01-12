@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Dáta tosaithe',
     'challenges.endDate': 'Dáta críoch',
     'challenges.future': 'Dúshláin amach romhainn',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Tosaíonn an dúshlán wordcount ar {startDate, date, short} le spriocdháta de {target, number} faoi {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Tá an dúshlán NaNoWriMo réidh.',
     'challenges.wordcount': 'Líon focal',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Socraigh sprioc duit féin maidir le líon na bhfocal a scríobh tú an mhí seo do scéal {type, select,
+    story {sa domhan}
+    universe {}
     other {}
   }.`,
     'challenges.wordcount.select': 'Cén líon focal ba mhaith leat duit féin a thabhairt dúshlán air?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Tuairisc',
     'challenges.victory': 'Comhghairdeas! Tá tú tar éis an dúshláin seo a chríochnú.',
     'challenges.defeat': 'Áfach, níor chríochnaigh tú an dúshlán seo.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'Is é an líon focal reatha don scéal seo {wordcount, number}, seo a bheidh mar thús áite.',
     // NaNoWriMo
     'nanowrimo.full': 'Mí na Scríbhneoireachta Leabhar Náisiúnta',
     'nanowrimo.site': 'Suíomh oifigiúil NaNoWriMo',
