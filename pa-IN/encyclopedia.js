@@ -29,68 +29,68 @@ export default {
     other {# ਸਬੰਧਿਤ ਇੰਟਰੀਆਂ ਮਿਲੀਆਂ}
   } ਲੱਭੀਆਂ ਗਈਆਂ ਹਨ।`,
     'encyclopedia.help.text': 'ਜਣਾਂਕਾਰੀ ਦੇ ਆਈਟਮਾਂ ਵਿੱਚ ਘੁੰਮਣ ਲਈ ਖੱਬੇ ਮੇਨੂ ਵਰਤੋ। ਇੱਕ ਆਈਟਮ ਚੁਣਨ ਤੋਂ ਬਾਅਦ, ਇਹ ਟੈਕਸਟ ਦਿਖਾਈ ਦਿੱਤਾ ਜਾਵੇਗਾ।',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
+    'encyclopedia.help.sidebar': 'ਸਾਇਡਬਾਰ ਟੂਲਬਾਕਸ',
     'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
     'encyclopedia.intro': 'ਜੀ ਆਇਆਂ ਨੂੰ {universe} ਜਣਾਕਾਰੀ ਸਭਿਆਚਾਰਕ ਵਿੱਚ।',
     'encyclopedia.add.title': 'ਜਣਾਕਾਰੀ ਵਿੱਚ ਇੱਕ ਨਵਾਂ ਇੰਟਰੀ ਸ਼ਾਮਲ ਕਰੋ',
     'encyclopedia.add.heading': 'ਤੁਸੀਂ ਕੀ ਸ਼ਾਮਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?',
     'encyclopedia.add.moresoon': 'ਹੋਰ ਕੈਟੇਗਰੀਆਂ ਜਲਦ ਹੀ ਆ ਰਹੀਆਂ ਹਨ!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `ਨਵਾਂ ਬਣਾਓ {category, select,
+    character {ਚਰਿਤਰ}
+    event {ਇਵੈਂਟ}
+    group {ਗਰੁੱਪ}
+    item {ਆਈਟਮ}
+    location {ਸਥਾਨ}
+    other {ਨੋਟ}
+    state {ਸਟੇਟ}
+    governments {ਸਰਕਾਰ}
+    languages {ਭਾਸ਼ਾ}
+    creatures {ਪ੍ਰਾਣੀ}
+    deity {ਦੇਵਤਾ}
+    religions {ਧਰਮ}
+    flora {ਫਲੋਰਾ}
+    magic {ਜਾਦੂ}
+    planets {ਗ੍ਰਹ}
+    species {ਜਾਤ}
+    technologies {ਤਕਨੀਕੀ}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `ਨਵਾਂ ਬਣਾਓ {category, select,
+    character {ਚਰਿਤਰ}
+    event {ਇਵੈਂਟ}
+    group {ਗਰੁੱਪ}
+    item {ਆਈਟਮ}
+    location {ਸਥਾਨ}
+    other {ਨੋਟ}
+    state {ਸਟੇਟ}
+    governments {ਸਰਕਾਰ}
+    languages {ਭਾਸ਼ਾ}
+    creatures {ਪ੍ਰਾਣੀ}
+    deity {ਦੇਵਤਾ}
+    religions {ਧਰਮ}
+    flora {ਫਲੋਰਾ}
+    magic {ਜਾਦੂ}
+    planets {ਗ੍ਰਹ}
+    species {ਜਾਤ}
+    technologies {ਤਕਨੀਕੀ}
+  } ਵਿੱਚ {universe}`,
+    'encyclopedia.entry.category': `ਪ੍ਰਵੇਸ ਸ਼੍ਰੇਣੀ: {category, select,
+    character {ਅੱਖਰ}
+    event {ਇਵੈਂਟ}
+    group {ਗਰੁੱਪ}
+    item {ਆਈਟਮ}
+    location {ਸਥਾਨ}
+    other {ਨੋਟ}
+    state {ਸਟੇਟ}
+    governments {ਸਰਕਾਰ}
+    languages {ਭਾਸ਼ਾ}
+    creatures {ਜੀਵ}
+    deity {ਦੈਵਤਾ}
+    religions {ਧਰਮ}
+    flora {ਫਲੋਰਾ}
+    magic {ਜਾਦੂ}
+    planets {ਗ੍ਰਹ}
+    species {ਜਾਤ}
+    technologies {ਟੈਕਨੋਲੋਜੀ}
   }`,
     'encyclopedia.entry.category.legend': 'ਕੈਟੇਗਰੀ',
     'encyclopedia.fields.add': 'ਨਵੀਂ ਫੀਲਡ ਸ਼ਾਮਲ ਕਰੋ',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } ਹਨ।`,
     'enc.entries.limitReached': 'ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਲਈ ਤੁਸੀਂ ਮੱਧਮਿਕ ਮੰਤਰਾਲਿਸਟ ਇੰਟਰੀਜ਼ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਮਾਪਦੰਡ ਪ੍ਰਾਪਤ ਕਰ ਚੁੱਕੇ ਹੋ।',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'ਜਾਣਕਾਰੀਕ ਨਿਯੰਤਰਣ',
+    'encyclopedia.pronunciation.title': 'ਉਚਾਰਨ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'ਕੰਮ ਚਲਦਾ ਰਿਹਾ ਹੈ'
 };
