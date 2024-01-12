@@ -41,7 +41,7 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verification': 'ការផ្ទៀងផ្ទាត់អ៊ីម៉ែល',
+    'email.verifying': 'ការផ្ទៀងផ្ទាត់អ៊ីម៉ែលរបស់អ្នក។ នេះនឹងចំណាយពេលប៉ុន្មានពាន់ប៉ុណ្ណោះ...',
+    'email.verified': 'សុវត្ថិភាពល្អ! អ៊ីម៉ែលរបស់អ្នកត្រូវបានផ្ទៀងផ្ទាត់ហើយ។'
 };    /* eslint-enable max-len */
