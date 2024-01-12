@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Pangkat',
+    'rating.explained': 'Pangkat ng edad at pagbabawal.',
+    'rating.all': 'Lahat',
+    'rating.desc.all': 'Abot-kaya para sa lahat ng edad at grupo.',
+    'rating.teens': 'Mga Kabataan',
+    'rating.desc.teens': 'Angkop para sa manonood na nasa edad 12 hanggang 18.',
+    'rating.mature': 'Matanda',
+    'rating.desc.mature': 'Naglalaman ng mga masalimuot na tema, bastos na salita, at hindi diretsahang mga eksena.',
+    'rating.explicit': 'Malinaw',
+    'rating.desc.explicit': 'Naglalaman ng mga malinaw na eksena.',
+    'rating.selection.all': 'Lahat - Abot-kaya para sa lahat ng edad at grupo.',
+    'rating.selection.teens': 'Mga Kabataan (12-18) - Angkop para sa manonood na nasa edad 12 hanggang 18.',
+    'rating.selection.mature': 'Matanda (18+) - Naglalaman ng mga masalimuot na tema, bastos na salita, at hindi diretsahang mga eksena.',
+    'rating.selection.explicit': 'Malinaw (21+) - Naglalaman ng mga malinaw na eksena.'
 };
