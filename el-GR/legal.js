@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Λυπούμαστε που διακόπτουμε. Πριν σας αφήσουμε να προχωρήσετε περαιτέρω, είμαστε νομικά υποχρεωμένοι, να σας ενημερώσουμε και να συμφωνήσετε με τους Όρους Χρήσης, την Πολιτική Απορρήτου και την Συμφωνία Πνευματικών Δικαιωμάτων μας.',
+    'legal.modal.agree': 'Συμφωνώ',
+    'legal.modal.disagree': 'Διαφωνώ',
+    'legal.modal.register': 'Δεν θα το ξαναδείτε αυτό αν εγγραφείτε.',
+    'legal.modal.goToSettings': 'Πηγαίνετε στις ρυθμίσεις σας',
+    'legal.modal.oneLastThing': 'Ένα τελευταίο πράγμα...',
+    'legal.modal.finish': 'Ολοκλήρωση',
+    'legal.modal.existingUser': 'Ήδη εγγεγραμμένος;',
+    'legal.modal.pleaseLogin': 'Παρακαλώ συνδεθείτε.'
 };
