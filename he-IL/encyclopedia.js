@@ -29,8 +29,8 @@ export default {
     other {# ערכים קשורים}
   } נמצאו.`,
     'encyclopedia.help.text': 'השתמש בתפריט בצד שמאל כדי לנווט בין הפריטים באנציקלופדיה. לאחר בחירת פריט, הוא יוצג במקום הטקסט הזה.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'סרגל כלים צדדי',
+    'encyclopedia.help.sidebar.text': 'ברוך הבא לסיפור שלך! סרגל הצד הזה מאפשר לך גישה נוחה לכל המשאבים הקשורים לסיפור שלך. בדוק את הסמלים למעלה כדי לראות את התגובות האחרונות, ההערות שלך, לחפש באנציקלופדיה שלך, לעיין ולהוסיף ערכים חדשים לאנציקלופדיה שלך. אם ברצונך להוסיף קישור לערך מתוך הטקסט של הסיפור, סמן את הטקסט במקום שבו ברצונך למקם אותו ולחץ על כפתור החיבור. תתבקש למצוא ולבחור פריט.',
     'encyclopedia.intro': 'ברוכים הבאים לאנציקלופדיה של {universe} .',
     'encyclopedia.add.title': 'הוסף פריט חדש לאנציקלופדיה',
     'encyclopedia.add.heading': 'מה ברצונך להוסיף?',
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `קטגוריית ערך: {category, select,
+    character {דמות}
+    event {אירוע}
+    group {קבוצה}
+    item {פריט}
+    location {מיקום}
+    other {הערה}
+    state {מצב}
+    governments {ממשלה}
+    languages {שפה}
+    creatures {יצור}
+    deity {אלוהות}
+    religions {דת}
+    flora {צמח}
+    magic {קסם}
+    planets {כוכב}
+    species {מין}
+    technologies {טכנולוגיה}
   }`,
     'encyclopedia.entry.category.legend': 'קטגוריה',
     'encyclopedia.fields.add': 'הוסף שדה חדש',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': '!הגעת למספר המרבי של ערכי האנציקלופדיה המותרים עבור המינוי הנוכחי שלך',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'בקרי האנציקלופדיה',
+    'encyclopedia.pronunciation.title': 'הגייה',
+    'encyclopedia.wip.abbreviation': 'עבודה בתהליך',
+    'encyclopedia.wip.full': 'עבודה בתהליך'
 };
