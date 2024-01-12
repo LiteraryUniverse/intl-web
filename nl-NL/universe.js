@@ -18,9 +18,9 @@ export default {
     'universe.translators': 'Vertalers',
     'universe.authors.notice': 'Elk verhaal kan extra personen hebben die eraan hebben gewerkt. Voor meer details zie de details van het verhaal.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {Aangemaakt door}
+    female {Aangemaakt door}
+    other {Aangemaakt door}} `,
     'universe.stories.for': 'Verhalen voor {universe}',
     'universe.stories.own': '{universe} verhalen',
     'universe.stories.desc': 'Canonverhalen voor {universe}',
