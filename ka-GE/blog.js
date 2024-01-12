@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'ახალი ბლოგის შექმნა',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ბლოგის}
+    universe {უნივერსის გვერდი}
+    user {ბლოგის}
     other {}
-  } settings`,
+  } პარამეტრები`,
     'blog.description': 'ბლოგის შესავალი',
     'blog.theme': 'თემა',
     'blog.theme.info': 'თქვენ შეიძლებათ გაავრცელოთ გვერდის გარეგულება, თქვენი ბლოგის სარგემოს შეცვლა. ეს ფუნქცია არ არის მზად მარტივად.',
