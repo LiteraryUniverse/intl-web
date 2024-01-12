@@ -1,11 +1,11 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'বিষয়বস্তুতে আগ্রহী হওয়ার আগে আমরা আইনগতভাবে নিশ্চিত করতে চাই, আপনি আমাদের সেবা শর্তাদি, গোপনীয়তা নীতি এবং কপিরাইট চুক্তি সম্পর্কে জানেন এবং সম্মত হন।',
+    'legal.modal.agree': 'আমি সম্মত',
+    'legal.modal.disagree': 'আমি অসম্মত',
+    'legal.modal.register': 'আপনি এটা আর দেখবেন না যদি আপনি নিবন্ধন করুন।',
+    'legal.modal.goToSettings': 'আপনার সেটিংসে যান',
+    'legal.modal.oneLastThing': 'এটা শেষ কিছু...',
+    'legal.modal.finish': 'সমাপ্ত',
+    'legal.modal.existingUser': 'ইতিমধ্যে নিবন্ধিত?',
+    'legal.modal.pleaseLogin': 'অনুগ্রহ করে লগ ইন কৰক।'
 };
