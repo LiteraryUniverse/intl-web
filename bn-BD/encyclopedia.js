@@ -29,68 +29,68 @@ export default {
     other {# সম্পর্কিত নির্দেশিকা প্রবেশ}
   } পাওয়া গেল।`,
     'encyclopedia.help.text': 'এনসাইক্লোপিডিয়াতে আইটেমগুলির মধ্যে সঞ্চয় করতে বামের মেনুটি ব্যবহার করুন। একটি আইটেম নির্বাচন করলে, এটি এই পাঠ্যটির পরিবর্তে প্রদর্শিত হবে।',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'সাইডবার টুলবক্স',
+    'encyclopedia.help.sidebar.text': 'আপনার গল্পে স্বাগতম! এই সাইডবারটি আপনাকে আপনার গল্পের সম্পর্কিত সমস্ত সম্পদে সহজলভ্য করে দেয়। সর্বশেষ মন্তব্যগুলি, আপনার নোটগুলি, আপনার বিশ্বকোষ অনুসন্ধান করুন, আপনার বিশ্বকোষে নতুন এন্ট্রি ব্রাউজ করুন এবং যুক্ত করুন। যদি আপনি গল্প পাঠ্যে একটি এন্ট্রিতে সংযোগ যুক্ত করতে চান, তবে এটি যেখানে স্থান দিতে চান সেখানে টেক্সট নির্বাচন করুন এবং তারপরে সংযোগ বোতামটি ক্লিক করুন। তারপর আপনাকে একটি আইটেম খুঁজে বের করতে এবং নির্বাচন করতে প্রম্পট করা হবে।',
     'encyclopedia.intro': 'স্বাগতম {universe} এনসাইক্লোপিডিয়াতে।',
     'encyclopedia.add.title': 'নতুন এন্ট্রি যোগ করুন এনসাইক্লোপিডিয়ায়',
     'encyclopedia.add.heading': 'আপনি কী যোগ করতে চান?',
     'encyclopedia.add.moresoon': 'আসছে আরও ক্যাটাগরি!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `একটি নতুন {category, select,
+    character {চরিত্র}
+    event {ঘটনা}
+    group {গ্রুপ}
+    item {আইটেম}
+    location {অবস্থান}
+    other {নোট}
+    state {রাষ্ট্র}
+    governments {সরকার}
+    languages {ভাষা}
+    creatures {প্রাণী}
+    deity {দেবতা}
+    religions {ধর্ম}
+    flora {উদ্ভিদ}
+    magic {জাদু}
+    planets {গ্রহ}
+    species {প্রজাতি}
+    technologies {প্রযুক্তি}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `একটি নতুন {category, select,
+    character {চরিত্র}
+    event {ঘটনা}
+    group {গ্রুপ}
+    item {আইটেম}
+    location {অবস্থান}
+    other {নোট}
+    state {রাষ্ট্র}
+    governments {সরকার}
+    languages {ভাষা}
+    creatures {প্রাণী}
+    deity {দেবতা}
+    religions {ধর্ম}
+    flora {উদ্ভিদ}
+    magic {জাদু}
+    planets {গ্রহ}
+    species {প্রজাতি}
+    technologies {প্রযুক্তি}
+  } এখানে {universe}`,
+    'encyclopedia.entry.category': `এন্ট্রি বিভাগ: {category, select,
+    character {অক্ষর}
+    event {ঘটনা}
+    group {গোষ্ঠী}
+    item {পদার্থ}
+    location {অবস্থান}
+    other {নোট}
+    state {অবস্থা}
+    governments {সরকার}
+    languages {ভাষা}
+    creatures {প্রাণী}
+    deity {দেবতা}
+    religions {ধর্ম}
+    flora {উদ্ভিদ}
+    magic {জাদু}
+    planets {গ্রহ}
+    species {জাতি}
+    technologies {প্রযুক্তি}
   }`,
     'encyclopedia.entry.category.legend': 'বিভাগ',
     'encyclopedia.fields.add': 'নতুন ক্ষেত্র যোগ করুন',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } এন্ট্রি রয়েছেন।`,
     'enc.entries.limitReached': 'আপনি আপনার বর্তমান সাবস্ক্রিপশনের জন্য অনুমোদিত এনসাইক্লোপিডিয়া এন্ট্রিগুলির সর্বাধিক সীমা অবুদ্ধ করেছেন।',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'বিজ্ঞানকোষ নিয়ন্ত্রণসমূহ',
+    'encyclopedia.pronunciation.title': 'উচ্চারণ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'চলমান প্রকল্প'
 };
