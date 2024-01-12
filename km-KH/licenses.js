@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'Creative Commons Attribution-NonCommercial-NoDerivs 4.0',
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.lu-c': 'អាជ្ញាធរសម្រាប់អាននិងលក្ខណៈពន្ធរបស់អ្នកដែលអនុញ្ញាតឱ្យលក្ខណៈសម្បត្តិរបស់អ្នកបានការលក្ខណៈការលក្ខណៈរបស់អ្នកបានការពារត្រាំមួយ។ អាជ្ញាធរនេះក៏ឱ្យអ្នកជួយលក្ខណៈរបស់អ្នកបានជួយលក្ខណៈរបស់អ្នកបានលក្ខណៈការលក្ខណៈរបស់អ្នកបានការលក្ខណៈរបស់អ្នកបានការពារត្រាំមួយ។',
+    'licenses.name.cc0': 'គ្មានការការិយាល័យដែលបានគេការការិយាល័យ - CC0 1.0',
+    'licenses.cc0': 'ដាក់លក្ខណៈរបស់អ្នកចូលក្នុងបរិស្ថានសាធារណៈសាធារណៈសន្ទនារបស់ CC ដែលអនុញ្ញាតឱ្យមានការជ្រើសរើសពីការអនុញ្ញាតការអនុញ្ញាតប្រភេទចរន្តដែលអនុញ្ញាតឱ្យមានការការការិយាល័យមួយចំនួនដែលអនុញ្ញាតឱ្យមានការការការការការលក្ខណៈការលក្ខណៈរបស់អ្នកបានការពារត្រាំមួយ - ការជ្រើសរើសពីការអនុញ្ញាតរបស់យើង។'
 };
