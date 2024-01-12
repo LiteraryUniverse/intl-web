@@ -16,47 +16,47 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'story.estimatedReadingTime.explained': 'ઔસત વાંચન ગતિમાંથી આધારીત છે {avgReadingNum, number} શબ્દો પ્રતિ મિનિટમાં.',
+    'discover.search.text': 'શોધ શબ્દ',
+    'discover.searchStory.title': 'એક વાર્તા માટે શોધો',
+    'discover.searchStory.description': 'વાર્તાઓ માટે શોધો',
+    'discover.searchUniverse.title': 'એક યુનિવર્સ માટે શોધો',
+    'discover.searchUniverse.description': 'યુનિવર્સો માટે શોધો',
+    'discover.search.storyStatus': 'વાર્તાનો પ્રગતિનો સ્થિતિ',
+    'story.status.complete': 'પૂર્ણ',
+    'story.status.inProgress': 'ચાલી રહેલી',
+    'discover.search.universeConnection': 'વાર્તાનો યુનિવર્સ સંપૃક્ષ્ટતા',
+    'story.universeRelation.standalone': 'સ્વતંત્ર વાર્તા',
+    'story.universeRelation.fanFiction': 'ફેન ફિક્શન',
+    'story.universeRelation.universe': 'એક યુનિવર્સનો ભાગ',
+    'discover.search.rating': 'ઉંમર રેટિંગ',
+    'discover.search.license': 'કૉપિરાઈટ લાઇસન્સ',
+    'discover.search.language': 'ભાષા',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {તમારા પેરામેટર્સથી કોઈ યુનિવર્સ મેળવી શકાય નથી}
+        one {1 યુનિવર્સ મળ્યું}
+        other {# યુનિવર્સ મળ્યા}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {તમારા પેરામેટર્સથી કોઈ વાર્તા મેળવી શકાય નથી}
+        one {1 વાર્તા મળી}
+        other {# વાર્તાઓ મળીઓ}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
+    'discover.viewSelection.aria': 'વિઝ્યુ પસંદગી',
+    'discover.searchDisplay.covers': 'કવર્સ યાદી',
+    'discover.searchDisplay.list': 'સંકુચિત યાદી',
     'discover.includesAds': 'આ કામમાં પ્રોડક્ટ પ્લેસમેન્ટ અથવા અન્ય પ્રકારની જાહેરાતો છે.',
     'discovery.featured.universes': 'પ્રમુખ યુનિવર્સસ',
     'discovery.featured.stories': 'પ્રમુખ કથાઓ',
     'discovery.story.tableOfContent': 'વિષયપત્ર',
     'story.status.hiatus': 'નિયંત્રિત થતી હોય છે',
     'story.status.cancelled': 'રદ થયેલ',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'વાંચો - {readAt, date}',
     'discovery.moreDetails': 'વધુ વિગતો',
     'discovery.read': 'વાંચો',
     'discovery.chapters.showAll': 'બધા અધ્યાયો બતાવો',
     'discovery.chapters.showMore': 'વધુ અધ્યાયો બતાવો',
     'discovery.chaptersTotal': 'કથામાં કુલ અધ્યાયોની સંખ્યા',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discovery.readFromStart': 'પ્રથમ અધ્યાયથી વાંચો',
+    'discovery.readLatest': 'તાજેતરનું અધ્યાય વાંચો'
 };
