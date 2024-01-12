@@ -41,7 +41,7 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+    'email.verification': 'ఇమెయిల్ ధృవీకరణ',
+    'email.verifying': 'మీ ఇమెయిల్ ధృవీకరించడానికి కొనసాగుతున్నాం. ఇది కొనసాగుతుంది...',
+    'email.verified': 'మంచి సమాచారం! మీ ఇమెయిల్ ధృవీకరించబడింది!'
 };    /* eslint-enable max-len */
