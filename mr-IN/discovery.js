@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'पुढे वाचण्याची सुरवात करा',
     'discovery.stories.similar.new': 'आणखी एक कथा',
     'discovery.stories.similar.regular': 'पडद्यातील कथा',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `ही कथा वाचण्यासाठी {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 तास आणि }
+        other {# तास आणि }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 मिनिटे}
+        one {1 मिनिट}
+        other {# मिनिटे}
+    } लागतील.`,
+    'story.estimatedReadingTime.explained': 'प्रतिमितील औसत वाचनशीलतेनुसार {avgReadingNum, number} शब्द प्रति मिनिटे.',
     'discover.search.text': 'शोधशब्द',
     'discover.searchStory.title': 'कथा शोधा',
     'discover.searchStory.description': 'कथांची शोध करा',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'विषयसूची',
     'story.status.hiatus': 'ज़री विरामी.',
     'story.status.cancelled': 'रद्द केलं.',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'वाचले गेले - {readAt, date}',
     'discovery.moreDetails': 'और तपशील',
     'discovery.read': 'वाचा',
     'discovery.chapters.showAll': 'सर्व अध्याय दाखवा',
