@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Obligatoriskt fält',
     'form.validator.mustBeNumber': 'Måste vara ett nummer',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.minNumber': 'Bör vara större än {min, number}',
+    'form.validator.maxNumber': 'Bör vara lägre än {max, number}',
+    'form.validator.maxLength': `Bör vara mindre än {max, number} {what, select,
+    characters {tecken}
+    tags {taggar}
+    genres {genrer}
+    numbers {nummer}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.minLength': `Bör vara minst {min, number} {what, select,
+    characters {tecken}
+    tags {taggar}
+    genres {genrer}
     genre {genre}
-    numbers {numbers}
+    numbers {nummer}
     other {}
   }`,
     'form.validator.email': 'Måste vara en giltig e-postadress',
@@ -29,9 +29,9 @@ export default {
     'form.validator.whitespace': 'Får inte ha något vitt utrymme',
     'form.validator.zipCode': 'Måste vara ett giltigt postnummer',
     'form.validator.isbn': 'Vi accepterar endast 10 eller 13 versioner av ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.btc': 'Detta är inte en giltig BTC-adress.',
+    'form.validator.eth': 'Detta är inte en giltig ETH-adress.',
+    'form.weakPassword': 'Detta lösenord ser svagt ut. Överväg att göra det starkare genom att lägga till siffror och specialtecken.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} krävs',
