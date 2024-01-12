@@ -6,7 +6,7 @@ export default {
     'reader.storyTBC.heading': '계속될 것입니다...',
     'reader.storyTBC.description': '지금까지 이야기에 대한 모든 정보는 여기까지입니다. 하지만 모험은 미래에 계속될 것이니 곧 다시 확인하세요!',
     'chapter.translation.notYetDescription': '곧 다시 확인하세요!',
-    'reader.externalShopping.heading': 'Buy {storyName} in stores:',
+    'reader.externalShopping.heading': '{storyName} 을(를) 상점에서 구매하세요:',
     'chapter.next': '다음 장',
     'chapter.previous': '이전 장',
     'chapter.comment': '이 장에 대한 댓글',
@@ -28,12 +28,12 @@ export default {
     'reader.accessibility.toggleParagraphStripes': '문단 배경 변경 전환',
     'reader.accessibility.toggleParagraphHighlight': '선택된 문단 강조 전환',
     'reader.accessibility.toggleRules': '보조 자루 전환',
-    'reader.nextRelease.scheduled': 'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
+    'reader.nextRelease.scheduled': '다음 장은 {nextReleaseAt, date} 에 {nextReleaseAt, time}에 나올 예정입니다!',
     'reader.storyContinues': '이야기는 계속됩니다...',
     'reader.storyOnHiatus': '작가님은 현재 이 작품에서 휴식 중이며, 이 작품은 잠시 휴재 중입니다. 한 달 또는 두 달 후에 다시 확인하십시오.',
     'reader.storyCancelled': '안타깝게도 이게 다야. 이야기는 취소되었으니 새로운 것은 있을 가능성이 희박하다.',
     'reader.storyCancelled.heading': '취소됨',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
+    'reader.nextChapterEstimation.verySoon': '지난 {chaptersCount, number} 개 장의 출판일을 기반으로 하면, 다음 장은 곧 출시될 것으로 예상됩니다.',
     'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
     'reader.nextChapterEstimation.notEnoughChapters': '이 작품에 한 장 이상이 있을 때 다음 장이 출간될 예정을 제공할 것입니다.'
 };
