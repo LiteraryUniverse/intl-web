@@ -1,69 +1,69 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'आवश्यक फील्ड',
+    'form.validator.mustBeNumber': 'एक अंक असावा पाहिजे',
+    'form.validator.minNumber': 'च्या पेक्षा मोठं असावं पाहिजे {min, number}',
+    'form.validator.maxNumber': 'च्या पेक्षा कमी असावं पाहिजे {max, number}',
+    'form.validator.maxLength': `{max, number} किंमती {what, select,
+    characters {पेक्षा कमी असावीत}
+    tags {टॅग}
+    genres {जॅनर}
+    numbers {आकडे}
     other {}
-  }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+  }असावीत.`,
+    'form.validator.minLength': `{min, number} किंमती {what, select,
+    characters {पेक्षा जास्त असावीत}
+    tags {टॅग}
+    genres {जॅनर}
+    genre {जॅनर}
+    numbers {आकडे}
     other {}
-  }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+  }असावीत.`,
+    'form.validator.email': 'एक वैध ईमेल असावा पाहिजे',
+    'form.validator.url': 'एक वैध URL असावा पाहिजे',
+    'form.validator.slug': 'URL चा एक वैध भाग असावा पाहिजे',
+    'form.submitting.signup': 'खाते तयार करीत आहे...',
+    'form.submitting.signin': 'लॉग इन करीत आहे...',
+    'form.submitting.default': 'सबमिट करीत आहे...',
+    'form.submitting.sending': 'पाठवित आहे...',
+    'form.validator.whitespace': 'अंतर नसलेलं असावं पाहिजे',
+    'form.validator.zipCode': 'एक वैध जिप कोड असावं पाहिजे',
+    'form.validator.isbn': 'आम्ही केवळ 10 किंवा 13 आवृत्तीचा ISBN स्वीकारतो',
+    'form.validator.btc': 'हा एक वैध BTC पत्ता नाही.',
+    'form.validator.eth': 'हा एक वैध ETH पत्ता नाही.',
+    'form.weakPassword': 'ही पासवर्ड कमजोर दिसते. कृपया ते अधिक मजबूत करण्यासाठी नंबर आणि विशेष वर्णांक जोडण्याचे विचार करा.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} is not a valid date',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
-    'simpleschema.noDecimal': '{label} must be an integer',
-    'simpleschema.notAllowed': '{value} is not an allowed value',
-    'simpleschema.expectedString': '{label} must be a string',
-    'simpleschema.expectedNumber': '{label} must be a number',
-    'simpleschema.expectedBoolean': '{label} must be a boolean',
-    'simpleschema.expectedArray': '{label} must be an array',
-    'simpleschema.expectedObject': '{label} must be an object',
-    'simpleschema.expectedConstructor': '{label} must be a {type}',
-    'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
-    'simpleschema.regEx.0': '{label} failed regular expression validation',
-    'simpleschema.regEx.1': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.2': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.3': '{label} must be a valid domain',
-    'simpleschema.regEx.4': '{label} must be a valid domain',
-    'simpleschema.regEx.5': '{label} must be a valid IPv4 or IPv6 address',
-    'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
-    'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
-    'simpleschema.regEx.8': '{label} must be a valid URL',
-    'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
+    'simpleschema.required': '{label} आवश्यक आहे',
+    'simpleschema.minString': '{label} किमानपेक्षा कमीपेक्षा कमी {min, number} अक्षरे असावीत पाहिजेत',
+    'simpleschema.maxString': '{label} च्या पेक्षा जास्त अक्षरे असावीत नाहीत {max, number}',
+    'simpleschema.minNumber': '{label} किमानपेक्षा कमीपेक्षा कमी {min, number}असावे लागते',
+    'simpleschema.maxNumber': '{label} च्या पेक्षा जास्त असावे लागते {max, number}',
+    'simpleschema.minNumberExclusive': '{label} च्या पेक्षा मोठं असावं पाहिजे {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} च्या पेक्षा कमी असावं पाहिजे {max, number}',
+    'simpleschema.minDate': '{label} किंवा त्यापेक्षा नंतर {min, date}असावीत पाहिजे',
+    'simpleschema.maxDate': '{label} नंतरपेक्षा जास्त असावं नये {max, date}',
+    'simpleschema.badDate': '{label} एक वैध तारीख नाही',
+    'simpleschema.minCount': 'किमानपेक्षा कमीपेक्षा किंवा त्यापेक्षा जास्त {minCount, number} मूल्ये निर्दिष्ट करणे आवश्यक आहे',
+    'simpleschema.maxCount': 'तुम्ही किमानपेक्षा कमीपेक्षा किंवा त्यापेक्षा जास्त {maxCount, number} मूल्ये निर्दिष्ट करू शकत नाही',
+    'simpleschema.noDecimal': '{label} एक पूर्णांक असावा पाहिजे',
+    'simpleschema.notAllowed': '{value} मान्य मान्यता नाही',
+    'simpleschema.expectedString': '{label} एक स्ट्रिंग असावी पाहिजे',
+    'simpleschema.expectedNumber': '{label} एक अंक असावा पाहिजे',
+    'simpleschema.expectedBoolean': '{label} एक बूलियन असावा पाहिजे',
+    'simpleschema.expectedArray': '{label} एक अ‍ॅरे असावी पाहिजे',
+    'simpleschema.expectedObject': '{label} एक ऑब्जेक्ट असावं पाहिजे',
+    'simpleschema.expectedConstructor': '{label} एक {type}असावं पाहिजे',
+    'simpleschema.keyNotInSchema': '{key} स्कीमद्वारे परवानगी नाही',
+    'simpleschema.notUnique': '{label} अद्वितीय असावं पाहिजे',
+    'simpleschema.regEx.0': '{label} विफल नियमित अभिवादन सत्यापन',
+    'simpleschema.regEx.1': '{label} एक वैध ईमेल पत्ता असणे आवश्यक आहे',
+    'simpleschema.regEx.2': '{label} एक वैध ईमेल पत्ता असणे आवश्यक आहे',
+    'simpleschema.regEx.3': '{label} एक वैध डोमेन असणे आवश्यक आहे',
+    'simpleschema.regEx.4': '{label} एक वैध डोमेन असणे आवश्यक आहे',
+    'simpleschema.regEx.5': '{label} एक वैध IPv4 किंवा IPv6 पत्ता असणे आवश्यक आहे',
+    'simpleschema.regEx.6': '{label} एक वैध IPv4 पत्ता असणे आवश्यक आहे',
+    'simpleschema.regEx.7': '{label} एक वैध IPv6 पत्ता असणे आवश्यक आहे',
+    'simpleschema.regEx.8': '{label} एक वैध URL असणे आवश्यक आहे',
+    'simpleschema.regEx.9': '{label} एक वैध अक्षरांमधील ID असणे आवश्यक आहे'
 };
