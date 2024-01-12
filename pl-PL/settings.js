@@ -72,7 +72,7 @@ export default {
     'settings.links.description': 'Te linki będą wyświetlane na stronie Twojego profilu.',
     'settings.links.website': 'Osobista strona internetowa',
     'settings.links.social': 'Inne strony',
-    'settings.links.select': 'Select website to add',
+    'settings.links.select': 'Wybierz stronę internetową do dodania',
     // 2FA
     'settings.2fa.title': 'Uwierzytelnianie dwuskładnikowe',
     'settings.2fa.explained': 'Uwierzytelnianie dwuskładnikowe zapewnia dodatkową warstwę bezpieczeństwa konta poprzez dodanie dodatkowego kroku uwierzytelniania podczas logowania. Zapobiega to uzyskaniu dostępu do konta przez złośliwe podmioty, jeśli pierwszy etap logowania zostanie naruszony.',
@@ -113,6 +113,6 @@ export default {
     'settings.accessibility.paragraphStripes': 'Zmiana koloru tła akapitu',
     'settings.accessibility.paragraphHighlighting': 'Podświetlić bieżący akapit, nad którym znajduje się kursor',
     'settings.accessibility.ruler': 'Przymocuj linijkę do myszy',
-    'settings.tab.legal': 'Legal documents',
-    'settings.tab.exportDelete': 'Export data & delete account'
+    'settings.tab.legal': 'Dokumenty prawne',
+    'settings.tab.exportDelete': 'Eksportuj dane i usuń konto'
 };
