@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Bản tin',
     'feed.post.new': 'Bài viết mới',
     'feed.post.like': 'Thích bài viết',
     'feed.post.unlike': 'Bỏ thích bài viết',
