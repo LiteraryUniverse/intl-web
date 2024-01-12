@@ -29,68 +29,68 @@ export default {
     other {# relaterede indlæg}
   } fundet.`,
     'encyclopedia.help.text': 'Brug menuen til venstre til at navigere mellem emnerne i encyklopædien. Når du vælger et emne, vil det blive vist i stedet for denne tekst.',
-    'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'encyclopedia.help.sidebar': 'Sidebar Værktøjskasse',
+    'encyclopedia.help.sidebar.text': 'Velkommen til din historie! Denne sidebjælke giver dig nem adgang til alle ressourcer, der er relateret til din historie. Tjek ikonerne ovenfor for at se de seneste kommentarer, dine noter, søge i din encyklopædi, gennemse og tilføje nye indgange til din encyklopædi. Hvis du vil tilføje forbindelse til en indgang fra historieteksten, skal du vælge den tekst, hvor du vil placere den, og klik derefter på forbind-knappen. Du bliver derefter bedt om at finde og vælge et element.',
     'encyclopedia.intro': 'Velkommen til {universe} encyklopædien.',
     'encyclopedia.add.title': 'Tilføj en ny indgang til encyklopædien',
     'encyclopedia.add.heading': 'Hvad ønsker du at tilføje?',
     'encyclopedia.add.moresoon': 'Flere kategorier kommer snart!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
+    'encyclopedia.create': `Opret en ny {category, select,
+    character {karakter}
+    event {begivenhed}
+    group {gruppe}
+    item {genstand}
+    location {placering}
     other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
+    state {tilstand}
+    governments {regering}
+    languages {sprog}
+    creatures {væsen}
+    deity {guddom}
     religions {religion}
     flora {flora}
-    magic {magic}
+    magic {magi}
     planets {planet}
-    species {specie}
-    technologies {technology}
+    species {art}
+    technologies {teknologi}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
+    'encyclopedia.create.header': `Opret en ny {category, select,
+    character {karakter}
+    event {begivenhed}
+    group {gruppe}
+    item {genstand}
+    location {placering}
     other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
+    state {tilstand}
+    governments {regering}
+    languages {sprog}
+    creatures {væsen}
+    deity {guddom}
     religions {religion}
     flora {flora}
-    magic {magic}
+    magic {magi}
     planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
+    species {art}
+    technologies {teknologi}
+  } i {universe}`,
+    'encyclopedia.entry.category': `Indgangskategori: {category, select,
+    character {Tegn}
+    event {Begivenhed}
+    group {Gruppe}
+    item {Genstand}
+    location {Sted}
     other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
+    state {Tilstand}
+    governments {Regering}
+    languages {Sprog}
+    creatures {Væsen}
+    deity {Gud}
     religions {Religion}
     flora {Flora}
-    magic {Magic}
+    magic {Magi}
     planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    species {Art}
+    technologies {Teknologi}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tilføj en ny felt',
@@ -146,8 +146,8 @@ export default {
     other {{max, number}}
   } opslag.`,
     'enc.entries.limitReached': 'Du har nået det maksimale antal tilladte opslag i encyklopædien for dit nuværende abonnement.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
-    'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'enc.menuControls.ariaDesc': 'Encyklopædi kontroller',
+    'encyclopedia.pronunciation.title': 'Udtale',
+    'encyclopedia.wip.abbreviation': 'Arbejdes i gang',
+    'encyclopedia.wip.full': 'Arbejde i gang'
 };
