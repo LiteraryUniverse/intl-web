@@ -1,17 +1,17 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Vi aktuale ne havas {type, select,
+    organization {ian blogon}
+    universe {blogon por via universo}
+    user {blogon}
     other {}
   }.`,
     'blog.create': 'Krei novan blogon',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Bloga}
+    universe {Paĝo de la universo}
+    user {Bloga}
     other {}
-  } settings`,
+  } agordoj`,
     'blog.description': 'Enkonduko de la blogo',
     'blog.theme': 'Etoso',
     'blog.theme.info': 'Pliigu la aspekton de la paĝo modifante la temon. Tiu ebleco ne estas preta nun.',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Publika vidado',
     'blog.post.notfound': 'Afiŝo de la blogo ne troviĝis',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universoj}
+    stories {Sendependaj rakontoj}
+    fanfiction {Fanfikcio}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Ĉi tie aperas fajne staraj rakontoj, se la rakonto estas verkita kiel parto de kosmo tiam ĝi troviĝos en la paĝo de la kosmo.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Sociaj ligiloj estas samaj kiel agordite en {type, select,
+    organization {agordoj de la organizo}
+    user {uzantoprofilo}
     other {}
   }`,
     'blog.social.website': 'Oficiala retejo',
