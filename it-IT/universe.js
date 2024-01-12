@@ -18,9 +18,9 @@ export default {
     'universe.translators': 'Traduttori',
     'universe.authors.notice': 'Ogni storia potrebbe avere personale aggiuntivo che ha lavorato su di essa. Per maggiori dettagli vedere i dettagli della storia.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {Creato da}
+    female {Creato da}
+    other {Creato da}} by `,
     'universe.stories.for': 'Storie per {universe}',
     'universe.stories.own': '{universe} storie',
     'universe.stories.desc': 'Storie di fantascienza per {universe}',
