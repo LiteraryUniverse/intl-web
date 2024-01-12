@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'தொடக்க தேதி',
     'challenges.endDate': 'முடிவு தேதி',
     'challenges.future': 'வரவிருக்கும் சவால்கள்',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'வார்த்தைகள் எண்ணிக்கை மேலாண்மை போட்டியில் தொடங்குகிறது {startDate, date, short} இன் லக்கம் என்ன என்பதை {target, number} இன் மூலம் {endDate, date, short}அடைய வேண்டும்.',
     'challenges.future.nanowrimo': 'NaNoWriMo சவால் தயாராகிவிட்டது.',
     'challenges.wordcount': 'வார்த்தை எண்ணிக்கை',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `இந்த மாதத்திற்கான உங்கள் உண்மையான கதைக்கான எத்தனை வார்த்தைகளை எழுத விரும்புகின்றீர்கள்? இந்த {type, select,
+    story {கதையின் உலகம்}
+    universe {உலகம்}
     other {}
   }.`,
     'challenges.wordcount.select': 'நீங்கள் எவ்வாறு சவால்களை எண்ணிக்கை செய்ய விரும்புகிறீர்கள்?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'அறிக்கை',
     'challenges.victory': 'வாழ்த்துக்கள்! நீங்கள் இந்த சவாலை முடித்துவிட்டீர்கள்.',
     'challenges.defeat': 'மனதில் பதில் ஏற்படவில்லை. நீங்கள் இந்த சவாலை முடிக்க முடியவில்லை.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'இந்த கதையின் தற்போதைய சொற்கள் எண்ணிக்கை இதுவரை {wordcount, number}, இது தொடக்க புள்ளி ஆகும்.',
     // NaNoWriMo
     'nanowrimo.full': 'தேசிய நாவல் எழுதும் மாதம்',
     'nanowrimo.site': 'NaNoWriMo அதிகாரப்பூர்வ இணையதளம்',
