@@ -16,20 +16,20 @@ export default {
     'challenges.startDate': '시작 날짜',
     'challenges.endDate': '종료 날짜',
     'challenges.future': '다가오는 도전',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': '단어 수 도전은 {startDate, date, short} 에 시작하여 목표로 {target, number} 달성을 위해 {endDate, date, short}에 의해 진행됩니다.',
     'challenges.future.nanowrimo': 'NaNoWriMo 도전이 준비되었습니다.',
     'challenges.wordcount': '단어 수',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
-    other {}
+    'challenges.wordcount.desc': `이번 {type, select,
+    story {이야기}
+    universe {우주}
+    other {에서 이번 달에 쓸 단어 수 목표를 정하세요}
   }.`,
     'challenges.wordcount.select': '도전할 단어 수는 얼마나 되나요?',
     'challenges.start': '도전 시작',
     'challenges.report': '보고서',
     'challenges.victory': '축하합니다! 이 도전을 완료하셨습니다.',
     'challenges.defeat': '안타깝게도 이 도전을 완료하지 못했습니다.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': '현재 이 이야기의 단어 수는 {wordcount, number}입니다, 이것이 시작점이 될 것입니다.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'NaNoWriMo 공식 사이트',
