@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Hinnang',
+    'rating.explained': 'Vanusehinnang ja piirang.',
+    'rating.all': 'Kõik',
+    'rating.desc.all': 'Ligipääsetav kõikidele vanusegruppidele.',
+    'rating.teens': 'Teismelised',
+    'rating.desc.teens': 'Sobib publikule vanuses 12 kuni 18 aastat.',
+    'rating.mature': 'Küps',
+    'rating.desc.mature': 'Sisaldab täiskasvanutele suunatud teemasid, ropendamist ja vihjelisi stseene.',
+    'rating.explicit': 'Eksplicitne',
+    'rating.desc.explicit': 'Sisaldab eksplicitseid stseene.',
+    'rating.selection.all': 'Kõik - Ligipääsetav kõikidele vanusegruppidele.',
+    'rating.selection.teens': 'Teismelised (12-18) - Sobib publikule vanuses 12 kuni 18 aastat.',
+    'rating.selection.mature': 'Küps (18+) - Sisaldab täiskasvanutele suunatud teemasid, ropendamist ja vihjelisi stseene.',
+    'rating.selection.explicit': 'Eksplicitne (21+) - Sisaldab eksplicitseid stseene.'
 };
