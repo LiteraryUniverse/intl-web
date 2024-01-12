@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'Skapa en ny blogg',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Blogg}
+    universe {Universumssida för bloggen}
+    user {Blogg}
     other {}
-  } settings`,
+  } inställningar`,
     'blog.description': 'Blogginledning',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Genom att justera temat kan du ändra utseendet på sidan. Den här funktionen är inte redo just nu.',
