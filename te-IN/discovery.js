@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'చూడడానికి కొనసాగండి',
     'discovery.stories.similar.new': 'ప్రాంతంలో కొత్త కథలు',
     'discovery.stories.similar.regular': 'ప్రాంతంలో కథలు',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `ఈ కథ చదవడానికి {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 గంట  మరియు }
+        other {# గంటలు మరియు }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 నిమిషాలు}
+        one {1 నిమిషం}
+        other {# నిమిషాలు}
+    } చదవడానికి పడితే సాకుండాలు.`,
+    'story.estimatedReadingTime.explained': 'సగటు వరుసగా {avgReadingNum, number} పదాల ప్రతి నిమిషం చదవడం ఆధారంగా ఉంది.',
     'discover.search.text': 'శోధన పదం',
     'discover.searchStory.title': 'ఒక కథకు శోధించండి',
     'discover.searchStory.description': 'కథలకు శోధించండి',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'విషయ పటిక',
     'story.status.hiatus': 'విరమణ',
     'story.status.cancelled': 'రద్దు చేయబడింది',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'చదవబడినది - {readAt, date}',
     'discovery.moreDetails': 'మరింత వివరాలు',
     'discovery.read': 'చదువు',
     'discovery.chapters.showAll': 'అన్ని అధ్యాయాలను చూపుము',
