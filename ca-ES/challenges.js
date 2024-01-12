@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Data d\'inici',
     'challenges.endDate': 'Data de finalització',
     'challenges.future': 'Desafiaments futurs',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Desafiaments de comptador de paraules començant el {startDate, date, short} amb l\'objectiu de {target, number} per {endDate, date, short}.',
     'challenges.future.nanowrimo': 'El desafiament de NaNoWriMo està a punt.',
     'challenges.wordcount': 'Compte de paraules',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Estableix-te un objectiu de quantes paraules vols escriure aquest mes per a aquesta història de l'univers {type, select,
+    story {}
+    universe {}
     other {}
   }.`,
     'challenges.wordcount.select': 'Quantes paraules vols desafiar-te a escriure?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Informe',
     'challenges.victory': 'Felicitats! Has completat aquest desafiament.',
     'challenges.defeat': 'Lamentablement no has completat aquest desafiament.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'El nombre actual de paraules d\'aquesta història és {wordcount, number}, aquest serà el punt de partida.',
     // NaNoWriMo
     'nanowrimo.full': 'Mes Nacional d\'Escriptura de Novel·la',
     'nanowrimo.site': 'Lloc web oficial de NaNoWriMo',
