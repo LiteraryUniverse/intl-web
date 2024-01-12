@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'Leĝa malobservo',
     'feedback.reportType.vulgar': 'Vulgara/malĉasta',
     'feedback.reportType.copyright': 'Aŭtorsrajta malobservo',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
+    'feedback.reportType.storyRating': 'Malĝusta aĝorekompenco',
+    'feedback.reportType.scam': 'Helaĵo',
     'feedback.report.submit': 'Raporti',
-    'feedback.report.submitting': 'Reporting...',
+    'feedback.report.submitting': 'Raportante...',
     'feedback.report.violationDesc': 'Detaloj',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.reportSaved': 'Dankon por la raporto! Ni esploros kaj prenos agadon se necese.',
+    'feedback.report.copyrightReportSaved': 'Dankon por la raporto! Ni esploros kaj kontaktos vin.',
+    'feedback.report.copyrightOwnershipDesc': 'Deklaro pri posedo',
+    'feedback.report.copyrightNotice': 'Bonvolu noti, ke vi devas esti la rajta posedanto de la verko por uzi ĉi tiun formularon. Se vi ne estas la posedanto, bonvolu informi la posedanton aŭ uzi la alian kategorion por informi nin. Ni tre serioze konsideras kopirajtajn malobservojn, same kiel malĝustan kaj abuzan uzon de ĉi tiu formularo.',
+    'feedback.report.copyrightInternalProperty': 'Mi publikigis ĉi tiun verkon en Literatura Universo',
+    'feedback.reportType.spam': 'Spamo aŭ fiŝkaptado',
+    'feedback.reportType.other': 'Aliaj',
+    'feedback.report.copyrightType.propertySelectLabel': `Kiu {type, select,
+    universe {universo}
+    story {rakonto}
+    other {rakonto}
+  } estas ŝteliĝanta?`
 };
