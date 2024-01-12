@@ -16,20 +16,20 @@ export default {
     'challenges.startDate': '開始日期',
     'challenges.endDate': '結束日期',
     'challenges.future': '即將到來的挑戰',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': '挑戰字數挑戰即將開始！目標是在 {startDate, date, short} 前寫下 {target, number} 個字，截止日期為 {endDate, date, short}。',
     'challenges.future.nanowrimo': 'NaNoWriMo 挑戰已準備好。',
     'challenges.wordcount': '字數',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `為這個 {type, select,
+    story {故事/宇宙設定設定一個本月想要寫下的字數目標：}
+    universe {}
     other {}
-  }.`,
+  }。`,
     'challenges.wordcount.select': '你想要挑戰自己多少字數？',
     'challenges.start': '開始挑戰',
     'challenges.report': '報告',
     'challenges.victory': '恭喜！你已完成此挑戰。',
     'challenges.defeat': '很遺憾，你未完成此挑戰。',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': '本故事的當前字數為 {wordcount, number}，這將是起點。',
     // NaNoWriMo
     'nanowrimo.full': '國家小說寫作月',
     'nanowrimo.site': 'NaNoWriMo 官方網站',
