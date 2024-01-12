@@ -16,12 +16,12 @@ export default {
     'challenges.startDate': 'Kezdés dátuma',
     'challenges.endDate': 'Befejezés dátuma',
     'challenges.future': 'Következő kihívások',
-    'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
+    'challenges.future.wordcount': 'Szószámláló kihívás kezdődik {startDate, date, short} , a cél pedig {target, number} szó {endDate, date, short}-ig.',
     'challenges.future.nanowrimo': 'A NaNoWriMo kihívás készen áll.',
     'challenges.wordcount': 'Szószám',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Tűzz ki magadnak egy célt, hogy hány szót szeretnél megírni ebben a hónapban ehhez a {type, select,
+    story {történethez}
+    universe {univerzumban}
     other {}
   }.`,
     'challenges.wordcount.select': 'Mennyi szóra szeretnél kihívást vállalni?',
@@ -29,7 +29,7 @@ export default {
     'challenges.report': 'Jelentés',
     'challenges.victory': 'Gratulálok! Teljesítetted ezt a kihívást.',
     'challenges.defeat': 'Sajnos nem sikerült teljesíteni ezt a kihívást.',
-    'challenges.baseline': 'The current wordcount for this story is {wordcount, number}, this will be the starting point.',
+    'challenges.baseline': 'A jelenlegi szószám ennek a történetnek a {wordcount, number}, ez lesz a kiindulási pont.',
     // NaNoWriMo
     'nanowrimo.full': 'National Novel Writing Month',
     'nanowrimo.site': 'NaNoWriMo hivatalos oldala',
