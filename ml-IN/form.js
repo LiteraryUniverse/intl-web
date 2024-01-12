@@ -1,69 +1,69 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'ആവശ്യമായ ഫീൽഡ്',
+    'form.validator.mustBeNumber': 'ഒരു സംഖ്യയായിരിക്കണം',
+    'form.validator.minNumber': 'ശരിയായി ആയിരിക്കണം {min, number}',
+    'form.validator.maxNumber': 'ശരിയായി അധികം {max, number}',
+    'form.validator.maxLength': `അതിനാൽ {max, number} {what, select,
+    characters {പ്രാമാണികമായി കുറഞ്ഞതായിരിക്കണം}
+    tags {ടാഗുകൾ,}
+    genres {ജൻറർ,}
+    numbers {സംഖ്യകൾ,}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `അതിനാൽ {min, number} {what, select,
+    characters {പ്രാമാണികമായി കൂടുതൽപ്പെടുത്തണം}
+    tags {ടാഗുകൾ,}
+    genres {ജൻറർ,}
+    genre {ജന്റർ,}
+    numbers {സംഖ്യകൾ,}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'ഒരു സാധുവായ ഇമെയിൽ ആവശ്യമാണ്',
+    'form.validator.url': 'ഒരു സാധുവായ URL ആവശ്യമാണ്',
+    'form.validator.slug': 'URL യുടെ ഒരു സാധുവായ ഭാഗമായിരിക്കണം',
+    'form.submitting.signup': 'അക്കൗണ്ട് സൃഷ്ടിക്കുന്നു...',
+    'form.submitting.signin': 'ലോഗിൻ ചെയ്യുന്നു...',
+    'form.submitting.default': 'സമർപ്പിക്കുന്നു...',
+    'form.submitting.sending': 'അയയ്ക്കുന്നു...',
+    'form.validator.whitespace': 'വെളുപ്പിക്കരുതാത്തതാണ്',
+    'form.validator.zipCode': 'ഒരു സാധുവായ ZIP കോഡ് ആവശ്യമാണ്',
+    'form.validator.isbn': 'ഞങ്ങൾ 10 അല്ലെങ്കിൽ 13 പതിപ്പായ ISBN മാത്രം സ്വീകരിക്കുന്നു',
+    'form.validator.btc': 'ഇത് സാധുവായ BTC വിലാസമല്ല.',
+    'form.validator.eth': 'ഇത് സാധുവായ ETH വിലാസമല്ല.',
+    'form.weakPassword': 'ഈ പാസ്വേഡ് ദുർബലമാണ്. ദയവായി അത് ശക്തമാക്കുക എന്നായിട്ട് അതിനെ സംഖ്യകളും പ്രത്യേക പ്രതീകങ്ങളും ചേർക്കുക.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} is not a valid date',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
-    'simpleschema.noDecimal': '{label} must be an integer',
-    'simpleschema.notAllowed': '{value} is not an allowed value',
-    'simpleschema.expectedString': '{label} must be a string',
-    'simpleschema.expectedNumber': '{label} must be a number',
-    'simpleschema.expectedBoolean': '{label} must be a boolean',
-    'simpleschema.expectedArray': '{label} must be an array',
-    'simpleschema.expectedObject': '{label} must be an object',
-    'simpleschema.expectedConstructor': '{label} must be a {type}',
-    'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
-    'simpleschema.regEx.0': '{label} failed regular expression validation',
-    'simpleschema.regEx.1': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.2': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.3': '{label} must be a valid domain',
-    'simpleschema.regEx.4': '{label} must be a valid domain',
-    'simpleschema.regEx.5': '{label} must be a valid IPv4 or IPv6 address',
-    'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
-    'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
-    'simpleschema.regEx.8': '{label} must be a valid URL',
-    'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
+    'simpleschema.required': '{label} ആവശ്യമാണ്',
+    'simpleschema.minString': '{label} അതിനാൽ കുറഞ്ഞത് {min, number} അക്ഷരങ്ങൾ ആയിരിക്കണം',
+    'simpleschema.maxString': '{label} അതിനാൽ കൂടാതെ {max, number} അക്ഷരങ്ങൾ ആയിരിക്കണം',
+    'simpleschema.minNumber': '{label} അതിനാൽ കുറഞ്ഞത് {min, number}',
+    'simpleschema.maxNumber': '{label} അതിനാൽ കൂടാതെ {max, number}',
+    'simpleschema.minNumberExclusive': '{label} ശരിയായി ആയിരിക്കണം {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} ശരിയായി അല്ലെങ്കിൽ കുറഞ്ഞത് {max, number}',
+    'simpleschema.minDate': '{label} അല്ലെങ്കിൽ അതിനു ശേഷം {min, date}ഉണ്ടായിരിക്കണം',
+    'simpleschema.maxDate': '{label} അതിനു ശേഷം {max, date}കഴിഞ്ഞില്ല',
+    'simpleschema.badDate': '{label} സാധുവായ തീയതി അല്ലെങ്കിൽ സമയമല്ല',
+    'simpleschema.minCount': 'നിങ്ങൾക്ക് കുറഞ്ഞത് {minCount, number} മൂല്യങ്ങൾ നിർവ്വചിക്കേണ്ടതുണ്ട്',
+    'simpleschema.maxCount': 'നിങ്ങൾക്ക് കൂടാതെ {maxCount, number} മൂല്യങ്ങൾ നിർവ്വചിക്കാൻ പാടുണ്ട്',
+    'simpleschema.noDecimal': '{label} ഒരു പൂർണ്ണാംകം ആവശ്യമാണ്',
+    'simpleschema.notAllowed': '{value} ഒരു അനുവദനീയ മൂല്യമല്ല',
+    'simpleschema.expectedString': '{label} ഒരു സ്ട്രിംഗ് ആവശ്യമാണ്',
+    'simpleschema.expectedNumber': '{label} ഒരു സംഖ്യ ആവശ്യമാണ്',
+    'simpleschema.expectedBoolean': '{label} ഒരു ബൂളിയൻ ആവശ്യമാണ്',
+    'simpleschema.expectedArray': '{label} ഒരു അറോയി ആവശ്യമാണ്',
+    'simpleschema.expectedObject': '{label} ഒരു ഒബ്ജക്റ്റ് ആവശ്യമാണ്',
+    'simpleschema.expectedConstructor': '{label} ഒരു {type}ആവശ്യമാണ്',
+    'simpleschema.keyNotInSchema': '{key} സ്കീമയിൽ അനുവദനീയമല്ല',
+    'simpleschema.notUnique': '{label} അനന്യമായിരിക്കണം',
+    'simpleschema.regEx.0': '{label} പരിശോധിച്ചിട്ടില്ലാത്ത നിയമാവശ്യതയാണ് വരുത്തൽ',
+    'simpleschema.regEx.1': '{label} ഒരു സാധുവായ ഇമെയിൽ വിലാസമായിരിക്കണം',
+    'simpleschema.regEx.2': '{label} ഒരു സാധുവായ ഇമെയിൽ വിലാസമായിരിക്കണം',
+    'simpleschema.regEx.3': '{label} ഒരു സാധുവായ ഡൊമെയിൻ ആയിരിക്കണം',
+    'simpleschema.regEx.4': '{label} ഒരു സാധുവായ ഡൊമെയിൻ ആയിരിക്കണം',
+    'simpleschema.regEx.5': '{label} ഒരു സാധുവായ IPv4 അല്ലെങ്കിൽ IPv6 വിലാസമായിരിക്കണം',
+    'simpleschema.regEx.6': '{label} ഒരു സാധുവായ IPv4 വിലാസമായിരിക്കണം',
+    'simpleschema.regEx.7': '{label} ഒരു സാധുവായ IPv6 വിലാസമായിരിക്കണം',
+    'simpleschema.regEx.8': '{label} ഒരു സാധുവായ URL ആയിരിക്കണം',
+    'simpleschema.regEx.9': '{label} ഒരു സാധുവായ അക്ഷരസംഖ്യാപരമായ ഐഡി ആയിരിക്കണം'
 };
