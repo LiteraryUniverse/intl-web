@@ -34,21 +34,21 @@ export default {
     'feedback.reportType.law': 'சட்டம் மீறல்',
     'feedback.reportType.vulgar': 'அழகான/அரசியலாளர் மொழிபெயர்ப்பு',
     'feedback.reportType.copyright': 'பதிப்புரிமை மீறல்',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.reportType.storyRating': 'தவறான வயது மதிப்பு',
+    'feedback.reportType.scam': 'பாத்திரம்',
+    'feedback.report.submit': 'அறிக்கை',
+    'feedback.report.submitting': 'அறிக்கை செய்கிறது...',
+    'feedback.report.violationDesc': 'விவரங்கள்',
+    'feedback.report.reportSaved': 'அறிவிப்புக்கு நன்றி! நாங்கள் சந்தேகம் செய்யும் மற்றும் தீர்வு எடுக்கப்பட்டால் நடவடிக்கை எடுக்கும்.',
+    'feedback.report.copyrightReportSaved': 'அறிவிப்புக்கு நன்றி! நாங்கள் சந்தேகம் செய்யும் மற்றும் தொடர்பு கொள்வோம்.',
+    'feedback.report.copyrightOwnershipDesc': 'உரிமை அறிப்பு',
+    'feedback.report.copyrightNotice': 'தயவுசெய்து இந்த படிவத்தைப் பயன்படுத்துவதற்கு நீங்கள் தமிழ் உலாவியில் உள்ள உரிமையாளர் ஆக வேண்டும். நீங்கள் உரிமையாளர் அல்லது உரிமையாளராக இல்லையானால், தயவுசெய்து உரிமையாளருக்கு அறிவிக்க அல்லது மற்ற வகையில் எங்களுக்கு அறிவிக்க பயன்படுத்துகின்றோம். நாங்கள் பதிலளிக்கும் முடிவுகளை மிகுந்த முடிவுகளாக எடுக்கின்றோம்.',
+    'feedback.report.copyrightInternalProperty': 'நான் இந்த பணியத்தை இலக்கணக்கல் உலாவியில் வெளியிட்டுள்ளேன்',
+    'feedback.reportType.spam': 'அஞ்சல் அல்லது பிஷிங்',
+    'feedback.reportType.other': 'மற்றவை',
+    'feedback.report.copyrightType.propertySelectLabel': `எந்த {type, select,
+    universe {உலகம்}
+    story {கதை}
+    other {கதை}
+  } மீட்டப்படுகிறது?`
 };
