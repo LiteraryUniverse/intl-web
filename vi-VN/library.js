@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
+    'library.add': 'Thêm vào thư viện',
+    'library.remove': 'Xóa khỏi thư viện',
+    'library.bought': 'Các truyện đã mua',
+    'library.stories': 'Các truyện đã theo dõi',
+    'library.universes': 'Các vũ trụ đã theo dõi',
     'bookmark.continueReading': 'Tiếp tục Đọc',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'bookmark.statusSummary': 'Bạn đã đọc {readPercent, number, ::percent} của câu chuyện.'
 };
