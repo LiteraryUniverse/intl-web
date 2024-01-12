@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Fluo',
     'feed.post.new': 'Nova skribaĵo',
     'feed.post.like': 'Gajeti afiŝon',
     'feed.post.unlike': 'Malkajeti afiŝon',
