@@ -1,5 +1,5 @@
 export default {
-    'feed.name': 'Feed',
+    'feed.name': 'Flux',
     'feed.post.new': 'Nouveau post',
     'feed.post.like': 'Aimer le post',
     'feed.post.unlike': 'Enlever j\'aime du poste',
