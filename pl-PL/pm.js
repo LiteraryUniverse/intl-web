@@ -17,10 +17,10 @@ export default {
     other {# nieprzeczytanych wiadomości}
   }.`,
     'pm.form.minimumParticipants': 'Należy wybrać odbiorcę.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
+    'pm.form.maxParticipants': `Możesz mieć maksymalnie {maxPeople, plural,
+    one {jedną osobę}
+    other {# osób}
+  } w rozmowie.`,
     'pm.new.aria': 'Nowa rozmowa',
     'pm.new.buttonTitle': 'Rozpocznij nową rozmowę'
 };
