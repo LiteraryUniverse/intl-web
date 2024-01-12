@@ -3,7 +3,7 @@
  */
 /* eslint-disable max-len */
 export default {
-    siteName: 'Literary Universe',
+    siteName: 'བརྗོད་སྡེ་ཚན།',
     twitterHandle: '@lituniapp',
     'site.description': 'Literary Universe is an all-in-one creative and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
@@ -87,14 +87,14 @@ export default {
     'common.legal.privacy': 'Privacy Policy',
     'common.legal.copyright': 'Copyright Agreement',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
-  } Version {version} - {date, date}`,
-    'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
+    tos {དགའ་བསད་ཚུ་གི་དོན་ལུ་}
+    community {འགན་ཚུལ་དང་སྡེ་ཚན་}
+    privacy {དགོང་བའི་གྲོགས་ཚང་}
+    copyright {དགོང་དོན་གྲོགས་ཚང་}
+    publishingAgreement {བསྐྱེད་པའི་གྲོགས་ཚང་}
+    other {གྲོགས་ཚང་}
+  } ཐོ་བཀོད་ཚང་ {date, date}- ཐོབ་ཐང་། {version}`,
+    'common.legal.newVersionAvailable': 'སློབ་ཚན། ({newVersion}) ཡོད་མི་དོན་ཚན་གཅིག་རེ་བ་དང་མཉེན་ཆས་འབྲེལ་བའི་ཡིག་ཆ་འདི་ལ། {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'Not high enough membership rank',
     'premium.only.msg': 'We apologize, your membership rank is not high enough to access this feature.',
@@ -122,8 +122,8 @@ export default {
     'beta.thanks': 'ཁྱེད་ཀྱི་དབང་པོ་བསྐྱེད་པའི་བདག་སྐྱེལ་བཞིན་དུ་བཅུག་པ་ལས་བྱེད་མཁན་རྗེས་!',
     'scratchpad.about': 'ཁྱེད་ཀྱི་དངོས་གྲུབ་དང་འབྲེལ་བ་གི་མིང་ཚིག་རྣམ་པར་བསྐུར་བཞིན་དུ་བཅུག་པ་ལས་བྱེད་མཁན་རྗེས་ལྟ་བུ་བཅུག་པ་རེད།',
     'common.feedback': 'བདག་སྐྱེད།',
-    'common.createdOn': 'Created on {date, date, long}',
-    'common.createdOn.title': 'Created on',
+    'common.createdOn': 'སྤྱི་སྡུད་ནང་ {date, date, long}',
+    'common.createdOn.title': 'སྤྱི་སྡུད་ནང་',
     // account types
     admin: 'བརྗོད།',
     'common.saved': 'སྲུང་བཞག་ཚུན་ཚོགས་པ།',
@@ -135,28 +135,28 @@ export default {
     confirm: 'གདམ་ཁ།',
     cancel: 'བཏང་སྤོ།',
     processing: 'བརྗོད་བསྐྱོད་པ།',
-    'common.noData': 'No data',
+    'common.noData': 'གནས་མི།',
     'error.title': 'འཛོལ་བ་བཀོལ་ནས་བྱེད་པའི་དོན་མིང་འདུག ། རྒྱ་གར་བཟུང་འཇུག་བྱས་པའི་དོན་མིང་འདུག །',
     'common.offlineStatus': 'ཁྱེད་ཀྱིས་འདི་འགོ་བཙུགས་པའི་དོན་མིང་འདུག་པ།',
     male: 'བདག་སྐྱེད།',
     female: 'Female',
-    'common.legal.effectiveAt': 'Effective from {date, date, medium}',
+    'common.legal.effectiveAt': 'བསྐྱེད་བརྗོད་ནང་ {date, date, medium}',
     select: 'Please select',
     'common.statusFailed': 'Failed to connect to the server.',
     'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
     'slug.checking': 'Checking...',
     'slug.failed': 'This address already exists.',
     'slug.success': 'This address is available!',
-    'notVerified.msg': `Your account {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
-    } is not verified.`,
-    'notVerified.verify': `Please verify your {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
-    }.`,
+    'notVerified.msg': `ཁྱེད་ཀྱི་གསང་བ་ {option, select,
+    email {ཨེ་མེན་ཡིག་ཚགས་}
+    wallet {ཝལ་སྐུལ་}
+    other {ཨེ་མེན་ཡིག་ཚགས་}
+    } འདིའི་མིང་གི་སྐད་ཡིག་འདི་བཟུང་བའི་ཡིག་ཚགས་ནང་བཟོད་པ།`,
+    'notVerified.verify': `ཁྱེད་ཀྱི་གསང་བ་ {option, select,
+    email {ཨེ་མེན་ཡིག་ཚགས་}
+    wallet {ཝལ་སྐུལ་}
+    other {ཨེ་མེན་ཡིག་ཚགས་}
+    }བཟོད་པ་གསརཔ་འདི་བཟུང་བའི་ཡིག་ཚགས་ནང་བཟོད་པ།`,
     unknown: 'unknown',
     'common.legal.guidelines': 'Community Guidelines',
     'errorLoading.title': 'Error during page load',
@@ -177,7 +177,7 @@ export default {
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
     'a11y.user.menu': 'User menu',
-    'a11y.navigation': 'Navigation',
+    'a11y.navigation': 'འཛོལ་བ།',
     'dashboard.profile': 'Your profile',
     'profile.website': 'My personal website',
     'story.notes.concept': 'Concept',
@@ -188,7 +188,7 @@ export default {
     'story.notes.audience': 'སྤྱི་ཚོགས་པ་འདི་གི་གནས་ཚུལ།',
     'story.notes.pitch': 'བརྗོད་སྒྲིག་།',
     'story.notes.notes': 'མགྱོགས།',
-    'story.authorsNotes': 'Author\'s notes',
+    'story.authorsNotes': 'རྩོམ་པ་རྣམས།',
     'common.members': 'ཁྱེད་ཀྱི་སྐོར།',
     'common.language': 'སྐད་ཡིག།',
     next: 'རྗེས་ལུགས།',
@@ -208,32 +208,32 @@ export default {
     'common.time.weeks': 'བདུན་བརྗོད།',
     'common.time.months': 'ཟླ་བ།',
     'common.time.years': 'ལོ་བ།',
-    'common.monetization': 'Monetization',
-    'common.tab.monetizationOptions': 'Monetization options',
-    'common.pagination': 'Pagination',
-    'common.forum': 'Forum',
-    'common.2faCode': '2FA code',
-    'common.2faCodeIntro': 'Please enter your one time code generated by your authenticator application.',
-    'common.2faCodeAria': '2FA code entry form',
-    'common.flashnews': 'Flashnews',
-    'common.defaultLanguage': 'Default language',
-    'signin.web3.signMessage': 'Please confirm that you want to enter Literary Universe with your wallet as authentication method. Code: {code}',
-    'common.web3.confirmationCode': 'Confirmation code: {code}',
-    'common.roadmap': 'Roadmap',
-    'common.luStatsIFrameOptOut': 'Literary Universe statistics opt-out',
+    'common.monetization': 'ཚོགས་པའི་རྩོམ་པ།',
+    'common.tab.monetizationOptions': 'ཚོགས་པའི་རྩོམ་པ་གཅིག',
+    'common.pagination': 'རིམ་པའི་དངོས།',
+    'common.forum': 'གྲོགས',
+    'common.2faCode': 'དྲན་དེབ་གྲངས།',
+    'common.2faCodeIntro': 'ཁྱེད་ཀྱི་དྲན་དེབ་གྲངས་གསལ་བརྗོད་པའི་འཛོལ་བ་བཟུང་བའི་སྐད་ཡིག་གི་མིང་།',
+    'common.2faCodeAria': 'དྲན་དེབ་གྲངས་གསལ་བརྗོད་པ་ཐོག་མའི་ཡིག་ཚགས་པ།',
+    'common.flashnews': 'བརྗོད་བརྗོད།',
+    'common.defaultLanguage': 'སྒྲོམ་གྱི་སྐད་ཡིག་གི་སྐད་རིགས་',
+    'signin.web3.signMessage': 'ཁྱེད་ཀྱི་དོན་གཞི་གསར་པ་བཟོ་བ་བརྗོད་པ་འདི་གི་མིང་། ཁྱེད་ཀྱི་ཡིག་ཚགས་གསལ་བརྗོད་པའི་གསང་བ་: {code}',
+    'common.web3.confirmationCode': 'གསང་བ་བརྗོད་པ་: {code}',
+    'common.roadmap': 'གནས་སྡུད་རིགས།',
+    'common.luStatsIFrameOptOut': 'བརྡ་གྱི་གསར་འགྱུར་དམིགས་མེད་བྱེད་པའི་དགོ་པས་བྱུང་བ།',
     'common.image': 'Image',
-    'common.home': 'Home',
-    'common.administration': 'Administration',
+    'common.home': 'གནས་སྡུད།',
+    'common.administration': 'དོན་ཚན།',
     'common.truncateAppend': '...',
     // What should be the symbol used to denote that the text continues when it was truncated
-    'common.groups': 'Groups',
-    'common.upload': 'Upload',
-    'common.backToDashboard': 'Back to dashboard',
-    'common.accept': 'Accept',
-    'common.reject': 'Reject',
-    'common.events': 'Events',
+    'common.groups': 'སྡེ་ཚན།',
+    'common.upload': 'ཡིག་ཆ་བརྗེ་བ།',
+    'common.backToDashboard': 'དུས་མཐུན་གྱི་ཐོ་གསལ་བསྐྱར་མེད་པ།',
+    'common.accept': 'དགོངས།',
+    'common.reject': 'བདག་སྐྲུན།',
+    'common.events': 'བྱེད་ཚིག།',
     'common.event': 'Event',
-    'common.all': 'All',
+    'common.all': 'ཆེ་ཆུང་',
     'common.social': 'Social',
     'common.discordCommunity': 'Discord Community',
     'common.account': 'Account',
@@ -252,11 +252,11 @@ export default {
     'common.socialLogin': 'Login with other services',
     'common.viewMore': 'View more',
     'common.overview': 'Overview',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!',
-    'email.hello': 'Hello {username},',
-    'common.back': 'Back',
+    'common.loggingOut': 'སློབ་གསརཔ་བདེའི་སྦྱོར།',
+    'common.thankYou': 'ཐོག་མར་པའི་རེ་གནས་པ།',
+    'common.seeYouAgain': 'ཆོས་མཆོག་གི་བརྗོད་པ།',
+    'email.hello': 'སློབ་ཚན་ {username},',
+    'common.back': 'རྒྱབ་གཞུང་',
     'console.stop': 'རེད་པས།',
     'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.'
 }    /* eslint-enable max-len */;
