@@ -1,37 +1,37 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
+    'form.validator.required': 'Verplicht veld',
+    'form.validator.mustBeNumber': 'Moet een nummer zijn',
+    'form.validator.minNumber': 'Moet groter zijn dan {min, number}',
+    'form.validator.maxNumber': 'Moet lager zijn dan {max, number}',
+    'form.validator.maxLength': `Moet minder dan {max, number} {what, select,
+    characters {tekens}
     tags {tags}
     genres {genres}
-    numbers {numbers}
+    numbers {nummers}
     other {}
-  }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
+  }zijn.`,
+    'form.validator.minLength': `Moet minimaal {min, number} {what, select,
+    characters {tekens}
     tags {tags}
     genres {genres}
     genre {genre}
-    numbers {numbers}
+    numbers {nummers}
     other {}
-  }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+  }zijn.`,
+    'form.validator.email': 'Moet een geldig e-mailadres zijn',
+    'form.validator.url': 'Moet een geldige URL zijn',
+    'form.validator.slug': 'Moet een geldig onderdeel van de URL zijn',
+    'form.submitting.signup': 'Account aanmaken...',
+    'form.submitting.signin': 'Inloggen...',
+    'form.submitting.default': 'Bezig met verzenden...',
+    'form.submitting.sending': 'Verzenden...',
+    'form.validator.whitespace': 'Mag geen spaties bevatten',
+    'form.validator.zipCode': 'Moet een geldige postcode zijn',
+    'form.validator.isbn': 'We accepteren alleen versie 10 of 13 van ISBN',
+    'form.validator.btc': 'Dit is geen geldig BTC-adres.',
+    'form.validator.eth': 'Dit is geen geldig ETH-adres.',
+    'form.weakPassword': 'Dit wachtwoord lijkt zwak. Overweeg om het sterker te maken door nummers en speciale tekens toe te voegen.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} is vereist',
