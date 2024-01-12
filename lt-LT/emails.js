@@ -29,19 +29,19 @@ export default {
     'email.verifyEmail.button': 'Patvirtinti šį el. pašto adresą',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Jūsų paskyra buvo atnaujinta',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Mes atnaujinome jūsų paskyrą į {plan, select,
+    explorer {Tyrinėtojas}
+    adventurer {Nuotykių ieškotojas}
+    storyteller {Pasakotojas}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } lygį kitoms {days} dienoms.\n\nMėgaukitės,\nLiteratinės Visatos komanda`,
+    'email.adminUpgrade.messageHtml': `Mes atnaujinome jūsų paskyrą į {plan, select,
+    explorer {Tyrinėtojas}
+    adventurer {Nuotykių ieškotojas}
+    storyteller {Pasakotojas}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } lygį kitoms {days} dienoms. Mėgaukitės!`,
+    'email.verification': 'El. pašto patvirtinimas',
+    'email.verifying': 'Patvirtinkite savo el. paštą. Tai užtruks vos akimirką...',
+    'email.verified': 'Puiki naujiena! Jūsų el. paštas buvo patvirtintas!'
 };    /* eslint-enable max-len */
