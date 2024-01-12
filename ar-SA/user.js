@@ -10,28 +10,28 @@ export default {
     'user.block': 'حظر',
     'user.unblock': 'إلغاء الحظر',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
+    male {انضم إلى}
+    female {انضم إلى}
+    other {انضم إلى}} في {date, date, long}`,
     'user.friend.request.accept': 'قبول طلب الصداقة',
     'user.friend.request.cancel': 'إلغاء طلب الصداقة',
     'user.friend.request.deny': 'رفض الصداقة',
-    'user.listing': 'User listing',
+    'user.listing': 'قائمة المستخدمين',
     'user.profile.visit': 'زيارة ملف {user} الشخصي.',
-    'user.profile.avatar': '{username}\'s avatar',
+    'user.profile.avatar': 'صورة الملف الشخصي لـ {username}',
     'user.friend.list.requests': 'طلبات الصداقة',
     'user.friend.norequests': 'ليس لديك أي طلبات للصداقة.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `صباح الخير {dayPart, select,
+    morning {مساء الخير}
+    afternoon {صباح الخير}
+    evening {مساء الخير}
+    night {ليلة سعيدة}
+    other {يوم جيد}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'لقد تم نشر هذا الكاتب بالطريقة التقليدية',
+    'user.verification.luAuthor': 'كاتب معتمد في عالم الأدب',
+    'user.verification.luEmployee': 'موظف في عالم الأدب',
+    'user.verification.publicFigure': 'شخصية عامة موثوق بها',
     'profile.storiesCount': `{count, number} {count, plural,
     one {story}
     other {stories}
@@ -44,10 +44,10 @@ export default {
     one {fan fiction}
     other {fan fictions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'الأعمال',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'قائمة الرغبات',
+    'profile.storiesBy': 'القصص التي تم إنشاؤها بواسطة {username}',
+    'profile.universesBy': 'الكونات التي تم إنشاؤها بواسطة {username}',
+    'profile.fanFictionBy': 'قصص المشجعين التي تم إنشاؤها بواسطة {username}'
 };
