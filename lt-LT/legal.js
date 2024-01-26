@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Vienas paskutinis dalykas...',
     'legal.modal.finish': 'Baigti',
     'legal.modal.existingUser': 'Jau užsiregistravote?',
-    'legal.modal.pleaseLogin': 'Prisijunkite, prašome.'
+    'legal.modal.pleaseLogin': 'Prisijunkite, prašome.',
+    'legal.publicationAgreements': 'Leidimo sutartys',
+    'legal.generalPublishingAgreement': 'Bendra leidybos sutartis',
+    'legal.documentsFor': 'Teisiniai dokumentai skirti {workTitle}'
 };
