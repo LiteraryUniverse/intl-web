@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Un ultim lucru...',
     'legal.modal.finish': 'Finalizați',
     'legal.modal.existingUser': 'Deja înregistrat?',
-    'legal.modal.pleaseLogin': 'Vă rugăm să vă autentificați.'
+    'legal.modal.pleaseLogin': 'Vă rugăm să vă autentificați.',
+    'legal.publicationAgreements': 'Acorduri de publicare',
+    'legal.generalPublishingAgreement': 'Acord general de publicare',
+    'legal.documentsFor': 'Documente legale pentru {workTitle}'
 };
