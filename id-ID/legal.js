@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Satu hal terakhir...',
     'legal.modal.finish': 'Selesai',
     'legal.modal.existingUser': 'Sudah terdaftar?',
-    'legal.modal.pleaseLogin': 'Silakan masuk.'
+    'legal.modal.pleaseLogin': 'Silakan masuk.',
+    'legal.publicationAgreements': 'Perjanjian Publikasi',
+    'legal.generalPublishingAgreement': 'Perjanjian Penerbitan Umum',
+    'legal.documentsFor': 'Dokumen hukum untuk {workTitle}'
 };
