@@ -10,5 +10,5 @@ export default {
     'legal.modal.pleaseLogin': 'Maak asseblief aanmelding.',
     'legal.publicationAgreements': 'Publikasie-ooreenkomste',
     'legal.generalPublishingAgreement': 'Algemene Publikasie-ooreenkoms',
-    'legal.documentsFor': 'Legal documents for {workTitle}'
+    'legal.documentsFor': 'Regsdokumente vir {workTitle}'
 };
