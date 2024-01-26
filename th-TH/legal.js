@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'อีกอย่างสุดท้าย...',
     'legal.modal.finish': 'เสร็จสิ้น',
     'legal.modal.existingUser': 'เคยลงทะเบียนแล้วหรือยัง?',
-    'legal.modal.pleaseLogin': 'กรุณาเข้าสู่ระบบ'
+    'legal.modal.pleaseLogin': 'กรุณาเข้าสู่ระบบ',
+    'legal.publicationAgreements': 'ข้อตกลงการเผยแพร่',
+    'legal.generalPublishingAgreement': 'ข้อตกลงการเผยแพร่ทั่วไป',
+    'legal.documentsFor': 'เอกสารทางกฎหมายสำหรับ {workTitle}'
 };
