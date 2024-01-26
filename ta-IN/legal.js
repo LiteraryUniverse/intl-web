@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'ஒரு கடைசி விஷயம்...',
     'legal.modal.finish': 'முடிந்தது',
     'legal.modal.existingUser': 'ஏற்கனவே பதிவு செய்யப்பட்டதா?',
-    'legal.modal.pleaseLogin': 'தயவுசெய்து உள்நுழையவும்.'
+    'legal.modal.pleaseLogin': 'தயவுசெய்து உள்நுழையவும்.',
+    'legal.publicationAgreements': 'பதிப்பு ஒப்பநிலைகள்',
+    'legal.generalPublishingAgreement': 'பொது பதிப்பு ஒப்பநிலை',
+    'legal.documentsFor': '{workTitle}க்கான சட்ட ஆவணங்கள்'
 };
