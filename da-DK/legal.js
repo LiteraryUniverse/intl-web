@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'En sidste ting...',
     'legal.modal.finish': 'Afslut',
     'legal.modal.existingUser': 'Allerede registreret?',
-    'legal.modal.pleaseLogin': 'Log ind, venligst.'
+    'legal.modal.pleaseLogin': 'Log ind, venligst.',
+    'legal.publicationAgreements': 'Publikationsaftaler',
+    'legal.generalPublishingAgreement': 'Generel udgivelsesaftale',
+    'legal.documentsFor': 'Legal documents for {workTitle}'
 };
