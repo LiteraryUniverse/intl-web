@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Lo nu cu bunpe\'i...',
     'legal.modal.finish': 'mulgau',
     'legal.modal.existingUser': 'co\'e se tcidu?',
-    'legal.modal.pleaseLogin': 'co\'a logji'
+    'legal.modal.pleaseLogin': 'co\'a logji',
+    'legal.publicationAgreements': 'lo se tcita be le pamoi se pagbu',
+    'legal.generalPublishingAgreement': 'lo se tcita be le pamoi se pagbu be lo se tcita be lo se jibri',
+    'legal.documentsFor': 'Legal documents for {workTitle}'
 };
