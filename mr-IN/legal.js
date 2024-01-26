@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'एक अंतिम गोष्ट...',
     'legal.modal.finish': 'संपलं',
     'legal.modal.existingUser': 'आधीच नोंदणी केली आहे?',
-    'legal.modal.pleaseLogin': 'कृपया लॉगिन करा.'
+    'legal.modal.pleaseLogin': 'कृपया लॉगिन करा.',
+    'legal.publicationAgreements': 'प्रकाशन समजौते',
+    'legal.generalPublishingAgreement': 'सामान्य प्रकाशन समजौता',
+    'legal.documentsFor': '{workTitle}साठी कायदेशीर दस्तऐवज'
 };
