@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Apenas mais uma coisa...',
     'legal.modal.finish': 'Finalizar',
     'legal.modal.existingUser': 'Já está registrado?',
-    'legal.modal.pleaseLogin': 'Por favor, faça login.'
+    'legal.modal.pleaseLogin': 'Por favor, faça login.',
+    'legal.publicationAgreements': 'Acordos de publicação',
+    'legal.generalPublishingAgreement': 'Contrato Geral de Publicação',
+    'legal.documentsFor': 'Documentos legais para {workTitle}'
 };
