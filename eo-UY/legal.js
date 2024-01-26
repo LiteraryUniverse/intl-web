@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Unu lasta afero...',
     'legal.modal.finish': 'Fini',
     'legal.modal.existingUser': 'Ĉu vi jam registriĝis?',
-    'legal.modal.pleaseLogin': 'Bonvolu ensaluti.'
+    'legal.modal.pleaseLogin': 'Bonvolu ensaluti.',
+    'legal.publicationAgreements': 'Aldonoj pri publikigo',
+    'legal.generalPublishingAgreement': 'Ĝenerala kunteksto pri publikigo',
+    'legal.documentsFor': 'Jura dokumentoj por {workTitle}'
 };
