@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'ბოლო რამდენიმეს დამატება...',
     'legal.modal.finish': 'დასრულება',
     'legal.modal.existingUser': 'უკვე რეგისტრირებული ხარ?',
-    'legal.modal.pleaseLogin': 'გთხოვთ შესვლა.'
+    'legal.modal.pleaseLogin': 'გთხოვთ შესვლა.',
+    'legal.publicationAgreements': 'გამოქვეყნების ხელშეკრულებები',
+    'legal.generalPublishingAgreement': 'ზოგადი გამოქვეყნების ხელშეკრულება',
+    'legal.documentsFor': 'იურიდიული დოკუმენტები {workTitle}-ისთვის'
 };
