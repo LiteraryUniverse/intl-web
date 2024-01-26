@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Een laaste ding...',
     'legal.modal.finish': 'Voltooi',
     'legal.modal.existingUser': 'Reeds geregistreer?',
-    'legal.modal.pleaseLogin': 'Maak asseblief aanmelding.'
+    'legal.modal.pleaseLogin': 'Maak asseblief aanmelding.',
+    'legal.publicationAgreements': 'Publikasie-ooreenkomste',
+    'legal.generalPublishingAgreement': 'Algemene Publikasie-ooreenkoms',
+    'legal.documentsFor': 'Legal documents for {workTitle}'
 };
