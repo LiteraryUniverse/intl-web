@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'ಒಂದು ಕೊನೆಯ ವಿಷಯ...',
     'legal.modal.finish': 'ಮುಗಿಸು',
     'legal.modal.existingUser': 'ಈಗಾಗಲೇ ನೇಮಕವಾಗಿದ್ದೀರಾ?',
-    'legal.modal.pleaseLogin': 'ದಯವಿಟ್ಟು ಲಾಗಿನ್ ಮಾಡಿ.'
+    'legal.modal.pleaseLogin': 'ದಯವಿಟ್ಟು ಲಾಗಿನ್ ಮಾಡಿ.',
+    'legal.publicationAgreements': 'ಪ್ರಕಟಣೆ ಒಪ್ಪಂದಗಳು',
+    'legal.generalPublishingAgreement': 'ಸಾಮಾನ್ಯ ಪ್ರಕಟಣೆ ಒಪ್ಪಂದ',
+    'legal.documentsFor': 'ಕಾನೂನಿಗೆ ಸಂಬಂಧಿಸಿದ ಆವಶ್ಯಕ ದಾಖಲೆಗಳು {workTitle}'
 };
