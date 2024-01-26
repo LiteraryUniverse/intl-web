@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'একটি শেষ বিষয়...',
     'legal.modal.finish': 'সমাপ্ত',
     'legal.modal.existingUser': 'ইতিমধ্যে নিবন্ধিত?',
-    'legal.modal.pleaseLogin': 'দয়া করে লগইন করুন।'
+    'legal.modal.pleaseLogin': 'দয়া করে লগইন করুন।',
+    'legal.publicationAgreements': 'প্রকাশনা চুক্তিসমূহ',
+    'legal.generalPublishingAgreement': 'সাধারণ প্রকাশনা চুক্তি',
+    'legal.documentsFor': 'আইনগত নথি সংক্রান্ত {workTitle}'
 };
