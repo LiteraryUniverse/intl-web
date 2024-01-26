@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'ఒక చివరి విషయం...',
     'legal.modal.finish': 'ముగింపు',
     'legal.modal.existingUser': 'ఈరోజు నమోదు చేయబడాలా?',
-    'legal.modal.pleaseLogin': 'దయచేసి లాగిన్ చేయండి.'
+    'legal.modal.pleaseLogin': 'దయచేసి లాగిన్ చేయండి.',
+    'legal.publicationAgreements': 'ప్రచురణ ఒప్పందాలు',
+    'legal.generalPublishingAgreement': 'సాధారణ ప్రచురణ ఒప్పందం',
+    'legal.documentsFor': '{workTitle}కోసం కానూనీ పత్రాలు'
 };
