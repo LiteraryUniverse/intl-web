@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Ένα τελευταίο πράγμα...',
     'legal.modal.finish': 'Ολοκλήρωση',
     'legal.modal.existingUser': 'Ήδη εγγεγραμμένος;',
-    'legal.modal.pleaseLogin': 'Παρακαλώ συνδεθείτε.'
+    'legal.modal.pleaseLogin': 'Παρακαλώ συνδεθείτε.',
+    'legal.publicationAgreements': 'Συμβάσεις δημοσίευσης',
+    'legal.generalPublishingAgreement': 'Γενική Συμφωνία Δημοσίευσης',
+    'legal.documentsFor': 'Νομικά έγγραφα για {workTitle}'
 };
