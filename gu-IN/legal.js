@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'એક છેલ્લી વાત...',
     'legal.modal.finish': 'પૂર્ણ કરો',
     'legal.modal.existingUser': 'પહેલેથી નોંધાયેલ છે?',
-    'legal.modal.pleaseLogin': 'કૃપા કરીને લોગઈન કરો.'
+    'legal.modal.pleaseLogin': 'કૃપા કરીને લોગઈન કરો.',
+    'legal.publicationAgreements': 'પ્રકાશન ચુકવણીઓ',
+    'legal.generalPublishingAgreement': 'સામાન્ય પ્રકાશન ચુકવણી',
+    'legal.documentsFor': 'કાયદાસંબંધીત દસ્તાવેજો માટે {workTitle}'
 };
