@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'ഒരു അവസാന കാര്യം...',
     'legal.modal.finish': 'പൂർത്തിയാക്കുക',
     'legal.modal.existingUser': 'ഇതാണ് ഇതിനകം രേജിസ്റ്റർ ചെയ്തിട്ടുള്ളവർക്ക്...',
-    'legal.modal.pleaseLogin': 'ദയവായി ലോഗിൻ ചെയ്യുക.'
+    'legal.modal.pleaseLogin': 'ദയവായി ലോഗിൻ ചെയ്യുക.',
+    'legal.publicationAgreements': 'പ്രസിദ്ധീകരണ ഒപ്പം ഒപ്പം',
+    'legal.generalPublishingAgreement': 'പൊതു പ്രസിദ്ധീകരണ ഒപ്പം',
+    'legal.documentsFor': 'കാനൂനിക പത്രങ്ങൾ {workTitle}കൊണ്ട്'
 };
