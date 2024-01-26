@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Một điều cuối cùng...',
     'legal.modal.finish': 'Hoàn thành',
     'legal.modal.existingUser': 'Đã đăng ký?',
-    'legal.modal.pleaseLogin': 'Vui lòng đăng nhập.'
+    'legal.modal.pleaseLogin': 'Vui lòng đăng nhập.',
+    'legal.publicationAgreements': 'Thỏa thuận xuất bản',
+    'legal.generalPublishingAgreement': 'Thỏa thuận xuất bản chung',
+    'legal.documentsFor': 'Tài liệu pháp lý cho {workTitle}'
 };
