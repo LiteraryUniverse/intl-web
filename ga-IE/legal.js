@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Rud amháin deireanach...',
     'legal.modal.finish': 'Críochnaigh',
     'legal.modal.existingUser': 'Cláraithe cheana féin?',
-    'legal.modal.pleaseLogin': 'Logáil isteach, le do thoil.'
+    'legal.modal.pleaseLogin': 'Logáil isteach, le do thoil.',
+    'legal.publicationAgreements': 'Comhoiriúnachtaí Foilseacháin',
+    'legal.generalPublishingAgreement': 'Comhaontú Foilseacháin Ginearálta',
+    'legal.documentsFor': 'Dócain dlí do {workTitle}'
 };
