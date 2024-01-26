@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': '마지막으로...',
     'legal.modal.finish': '완료',
     'legal.modal.existingUser': '이미 등록되었습니까?',
-    'legal.modal.pleaseLogin': '로그인해주세요.'
+    'legal.modal.pleaseLogin': '로그인해주세요.',
+    'legal.publicationAgreements': '게시 동의서',
+    'legal.generalPublishingAgreement': '일반 게시 동의서',
+    'legal.documentsFor': '법적 문서들을 위한 {workTitle}'
 };
