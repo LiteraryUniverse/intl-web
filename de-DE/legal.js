@@ -10,5 +10,5 @@ export default {
     'legal.modal.pleaseLogin': 'Hier anmelden.',
     'legal.publicationAgreements': 'Veröffentlichungsvereinbarungen',
     'legal.generalPublishingAgreement': 'Allgemeine Veröffentlichungsvereinbarung',
-    'legal.documentsFor': 'Legal documents for {workTitle}'
+    'legal.documentsFor': 'Rechtliche Dokumente für {workTitle}'
 };
