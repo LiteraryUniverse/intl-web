@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': '最後のこと...',
     'legal.modal.finish': '完了しました',
     'legal.modal.existingUser': 'すでに登録済みですか？',
-    'legal.modal.pleaseLogin': 'ログインしてください。'
+    'legal.modal.pleaseLogin': 'ログインしてください。',
+    'legal.publicationAgreements': '出版契約',
+    'legal.generalPublishingAgreement': '一般的な出版契約',
+    'legal.documentsFor': '{workTitle}の法的文書'
 };
