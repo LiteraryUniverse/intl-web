@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Isa pang bagay...',
     'legal.modal.finish': 'Tapos na',
     'legal.modal.existingUser': 'Nakarehistro na ba kayo?',
-    'legal.modal.pleaseLogin': 'Mag-login po kayo.'
+    'legal.modal.pleaseLogin': 'Mag-login po kayo.',
+    'legal.publicationAgreements': 'Mga Kasunduan sa Paglilimbag',
+    'legal.generalPublishingAgreement': 'Pangkalahatang Kasunduan sa Paglilimbag',
+    'legal.documentsFor': 'Legal documents para sa {workTitle}'
 };
