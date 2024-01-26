@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2024-01-24 - v2.11.1
+
+* Added new strings for legal documents
+
 ## 2024-01-12 - v2.11.0
 
 * New strings for console warning
