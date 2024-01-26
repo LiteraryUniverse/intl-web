@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'ਇੱਕ ਆਖਰੀ ਗੱਲ...',
     'legal.modal.finish': 'ਮੁਕੰਮਲ ਕਰੋ',
     'legal.modal.existingUser': 'ਪਹਿਲਾਂ ਹੀ ਰਜਿਸਟਰ ਕੀਤਾ ਹੈ?',
-    'legal.modal.pleaseLogin': 'ਕਿਰਪਾ ਕਰਕੇ ਲਾਗਇਨ ਕਰੋ।'
+    'legal.modal.pleaseLogin': 'ਕਿਰਪਾ ਕਰਕੇ ਲਾਗਇਨ ਕਰੋ।',
+    'legal.publicationAgreements': 'ਪ੍ਰਕਾਸ਼ਨ ਸੁਝਾਅ',
+    'legal.generalPublishingAgreement': 'ਆਮ ਪ੍ਰਕਾਸ਼ਨ ਸਮਝੌਤਾ',
+    'legal.documentsFor': 'ਕਾਨੂੰਨੀ ਦਸਤਾਵੇਜ਼ {workTitle}ਲਈ'
 };
