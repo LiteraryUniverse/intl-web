@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Останнє...',
     'legal.modal.finish': 'Завершити',
     'legal.modal.existingUser': 'Вже зареєстровані?',
-    'legal.modal.pleaseLogin': 'Будь ласка, увійдіть.'
+    'legal.modal.pleaseLogin': 'Будь ласка, увійдіть.',
+    'legal.publicationAgreements': 'Угоди про публікацію',
+    'legal.generalPublishingAgreement': 'Загальна угода про видавництво',
+    'legal.documentsFor': 'Юридичні документи для {workTitle}'
 };
