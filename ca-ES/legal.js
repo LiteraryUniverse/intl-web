@@ -10,5 +10,5 @@ export default {
     'legal.modal.pleaseLogin': 'Si us plau, inicia sessió.',
     'legal.publicationAgreements': 'Acords de publicació',
     'legal.generalPublishingAgreement': 'Acord de publicació general',
-    'legal.documentsFor': 'Legal documents for {workTitle}'
+    'legal.documentsFor': 'Documents legals per a {workTitle}'
 };
