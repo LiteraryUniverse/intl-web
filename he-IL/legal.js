@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'דבר אחרון...',
     'legal.modal.finish': 'סיום',
     'legal.modal.existingUser': 'כבר רשום?',
-    'legal.modal.pleaseLogin': 'אנא התחבר.'
+    'legal.modal.pleaseLogin': 'אנא התחבר.',
+    'legal.publicationAgreements': 'הסכמי פרסום',
+    'legal.generalPublishingAgreement': 'הסכם פרסום כללי',
+    'legal.documentsFor': 'מסמכים משפטיים עבור {workTitle}'
 };
