@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'One last thing...',
     'legal.modal.finish': 'འཛོལ་བ།',
     'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.pleaseLogin': 'Please login.',
+    'legal.publicationAgreements': 'བསྐྱར་རྗེས་འབྲེལ་ལམ་ཚུ།',
+    'legal.generalPublishingAgreement': 'སྤྱིའི་རྩོམ་པ་འབྲེལ་ལམ་ཚུ།',
+    'legal.documentsFor': 'གནས་ཚུལ་འགྲེལ་བཤད་ཚུ་ {workTitle}'
 };
