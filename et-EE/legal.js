@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Üks viimane asi...',
     'legal.modal.finish': 'Lõpeta',
     'legal.modal.existingUser': 'Juba registreeritud?',
-    'legal.modal.pleaseLogin': 'Palun logige sisse.'
+    'legal.modal.pleaseLogin': 'Palun logige sisse.',
+    'legal.publicationAgreements': 'Avaldamislepingud',
+    'legal.generalPublishingAgreement': 'Üldine avaldamisleping',
+    'legal.documentsFor': 'Õigusdokumendid {workTitle}'
 };
