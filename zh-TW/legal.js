@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': '最後一件事...',
     'legal.modal.finish': '完成',
     'legal.modal.existingUser': '已經註冊？',
-    'legal.modal.pleaseLogin': '請登入。'
+    'legal.modal.pleaseLogin': '請登入。',
+    'legal.publicationAgreements': '出版協議',
+    'legal.generalPublishingAgreement': '一般出版協議',
+    'legal.documentsFor': '法律文件給 {workTitle}'
 };
