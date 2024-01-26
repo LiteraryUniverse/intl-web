@@ -10,5 +10,5 @@ export default {
     'legal.modal.pleaseLogin': 'Log ind, venligst.',
     'legal.publicationAgreements': 'Publikationsaftaler',
     'legal.generalPublishingAgreement': 'Generel udgivelsesaftale',
-    'legal.documentsFor': 'Legal documents for {workTitle}'
+    'legal.documentsFor': 'Juridiske dokumenter for {workTitle}'
 };
