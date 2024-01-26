@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'अन्तिम कुरा...',
     'legal.modal.finish': 'समाप्त गर्नुहोस्',
     'legal.modal.existingUser': 'पहिले नै दर्ता गरिएको छ?',
-    'legal.modal.pleaseLogin': 'कृपया लगइन गर्नुहोस्।'
+    'legal.modal.pleaseLogin': 'कृपया लगइन गर्नुहोस्।',
+    'legal.publicationAgreements': 'प्रकाशन सम्झौताहरू',
+    'legal.generalPublishingAgreement': 'सामान्य प्रकाशन सम्झौता',
+    'legal.documentsFor': '{workTitle}को लागि कानूनी कागजातहरू'
 };
