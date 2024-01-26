@@ -10,5 +10,5 @@ export default {
     'legal.modal.pleaseLogin': 'يرجى تسجيل الدخول.',
     'legal.publicationAgreements': 'اتفاقيات النشر',
     'legal.generalPublishingAgreement': 'اتفاقية النشر العامة',
-    'legal.documentsFor': 'Legal documents for {workTitle}'
+    'legal.documentsFor': 'الوثائق القانونية لـ {workTitle}'
 };
