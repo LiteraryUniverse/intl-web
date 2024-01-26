@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Viimeinen asia...',
     'legal.modal.finish': 'Valmis',
     'legal.modal.existingUser': 'Jo rekisteröitynyt?',
-    'legal.modal.pleaseLogin': 'Kirjaudu sisään.'
+    'legal.modal.pleaseLogin': 'Kirjaudu sisään.',
+    'legal.publicationAgreements': 'Julkaisusopimukset',
+    'legal.generalPublishingAgreement': 'Yleinen julkaisusopimus',
+    'legal.documentsFor': 'Oikeudelliset asiakirjat {workTitle}'
 };
