@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Még egy utolsó dolog...',
     'legal.modal.finish': 'Befejezés',
     'legal.modal.existingUser': 'Már regisztráltál?',
-    'legal.modal.pleaseLogin': 'Kérlek jelentkezz be.'
+    'legal.modal.pleaseLogin': 'Kérlek jelentkezz be.',
+    'legal.publicationAgreements': 'Kiadási szerződések',
+    'legal.generalPublishingAgreement': 'Általános kiadási szerződés',
+    'legal.documentsFor': 'Jogi dokumentumok {workTitle}számára'
 };
