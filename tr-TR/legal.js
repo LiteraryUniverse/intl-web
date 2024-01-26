@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Son bir şey...',
     'legal.modal.finish': 'Tamamla',
     'legal.modal.existingUser': 'Zaten kayıtlı mısınız?',
-    'legal.modal.pleaseLogin': 'Lütfen giriş yapın.'
+    'legal.modal.pleaseLogin': 'Lütfen giriş yapın.',
+    'legal.publicationAgreements': 'Yayın sözleşmeleri',
+    'legal.generalPublishingAgreement': 'Genel Yayın Sözleşmesi',
+    'legal.documentsFor': '{workTitle}için hukuki belgeler'
 };
