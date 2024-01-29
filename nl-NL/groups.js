@@ -5,17 +5,16 @@ export default {
     'groups.type.label': 'Type',
     'groups.type.open': 'Open',
     'groups.type.openDesc': 'Open - Iedereen kan lid worden van de groep.',
-    'groups.type.closed': 'Closed',
+    'groups.type.closed': 'Gesloten',
     'groups.type.closedDesc': 'Gesloten - Mensen moeten goedgekeurd worden voordat ze lid kunnen worden van je groep.',
     'groups.type.hidden': 'Verborgen',
     'groups.type.hiddenDesc': 'Verborgen - Alleen mensen die je uitnodigt kunnen lid worden.',
     'groups.imageAlt': '{groupName} afbeelding',
     'groups.members': 'Leden',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Er {totalMembers, plural,
+    one {is één lid}
+    other {zijn # leden}
+  } in deze groep`,
     'groups.leaveGroup': 'Verlaat groep',
     'groups.leaveGroup.confirm': 'Even voor de zekerheid. Weet je zeker dat je {groupName}wilt verlaten?',
     'group.settings': 'Groepsinstellingen',
