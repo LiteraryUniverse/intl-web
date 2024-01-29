@@ -83,9 +83,9 @@ export default {
     'payment.card.name': 'Naam op kaart',
     'plans.subscribed.thankYou': 'Bedankt voor uw steun aan Literary Universe',
     'plans.subscribed.periodEnd': 'Je abonnement is geldig tot: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `Aan het einde wordt uw abonnement {method, select,
+    charge_automatically {automatisch verlengd}
+    send_invoice {verlengd na betaling van een factuur}
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Uw standaard betaalmethode wordt gebruikt om te betalen voor de volgende cyclus.',
@@ -124,11 +124,11 @@ export default {
     'payments.delete.confirm': 'Weet u zeker dat u {cardType}wilt verwijderen, eindigend op {ending}?',
     'payment.invoice.status': 'Factuurstatus',
     'payment.invoice.statusMessage': `{status, select,
-    draft {Draft}
+    draft {Klad}
     open {Open}
-    paid {Paid}
-    uncollectible {Uncollectible}
-    void {Void}
+    paid {Betaald}
+    uncollectible {Oninbaar}
+    void {Ongeldig}
     other {}
   }`,
     'payment.invoice.id': 'Factuurnummer',
