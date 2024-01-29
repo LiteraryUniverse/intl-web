@@ -120,11 +120,10 @@ export default {
     'encyclopedia.cover': 'Titelafbeelding',
     'encyclopedia.translation.title': 'Welkom bij de vertaling van het {universe} universum!',
     'encyclopedia.translation.desc': 'Deze encyclopedie-interface wordt gebruikt voor vertaling naar het {language}. Kies bestaande vermeldingen in de lijst aan de linkerkant om hun vertaling te beginnen.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Er {totalEntries, plural, 
+    one {is één vermelding}
+    other {zijn # vermeldingen}
+  } in dit universum.`,
     'encyclopedia.settings.title': 'Encyclopedie-instellingen',
     'encyclopedia.settings.categoriesDesc': 'Schakel categorieën in en uit die je wilt gebruiken in je encyclopedie.',
     'encyclopedia.settings.introText': 'Welkomstbericht dat wordt weergegeven na de beschrijving van het universum.',
