@@ -10,9 +10,9 @@ export default {
     'user.block': 'Blokkeer',
     'user.unblock': 'Deblokkeer',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
+    male {Aangesloten}
+    female {Aangesloten}
+    other {Aangesloten}} op {date, date, long}`,
     'user.friend.request.accept': 'Vriendschapsverzoek accepteren',
     'user.friend.request.cancel': 'Vriendschapsverzoek annuleren',
     'user.friend.request.deny': 'Vriendschap weigeren',
@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': 'Avatar van {username}',
     'user.friend.list.requests': 'Vriendschapsverzoeken',
     'user.friend.norequests': 'Je hebt geen vriendschapsverzoeken.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Goede {dayPart, select,
+    morning {ochtend}
+    afternoon {middag}
+    evening {avond}
+    night {nacht}
+    other {dag}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Deze auteur is op traditionele wijze gepubliceerd',
     'user.verification.luAuthor': 'Auteur van het Literair Universum',
