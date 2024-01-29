@@ -258,7 +258,7 @@ export default {
     'workshop.statusChange.modalTop': 'Weet je zeker dat je de status wilt veranderen naar',
     'workshop.statusName.hiatus': 'Hiatus',
     'workshop.statusName.cancelled': 'Geannuleerd',
-    'workshop.statusName.completed': 'Completed',
+    'workshop.statusName.completed': 'Voltooid',
     'workshop.statusExplain.hiatus1': 'Hiatus betekent dat je even stopt met werken aan dit verhaal, om welke reden dan ook. Het vertelt je lezers dat ze de komende weken of zelfs maanden geen nieuwe updates hoeven te verwachten.',
     'workshop.statusExplain.hiatus2': 'De hiatus status wordt automatisch opgeheven als je een hoofdstuk publiceert. Of je kunt het zelf veranderen.',
     'workshop.statusExplain.hiatus3': 'Als je je verhaal zes maanden in hiatus houdt, zullen we dit verhaal automatisch markeren als geannuleerd.',
