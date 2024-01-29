@@ -15,11 +15,10 @@ export default {
     'blog.description': 'Blog introductie',
     'blog.theme': 'Thema',
     'blog.theme.info': 'Door het aanpassen van het thema kunt u het uiterlijk van de pagina veranderen. Deze functie is momenteel nog niet beschikbaar.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Er {total, plural,
+    one {is één bericht}
+    other {zijn # berichten}
+  } in deze blog.`,
     'blog.post.create': 'Nieuw bericht maken',
     'blog.post.update': 'Bewerken van {title}',
     'blog.post.text': 'Berichttekst',
