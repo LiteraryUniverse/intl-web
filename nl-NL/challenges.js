@@ -48,7 +48,7 @@ export default {
     'nanowrimo.baseline': 'Wanneer NaNoWriMo begint, neemt het de huidige woordentelling over en gebruikt het als basis waarvan eventuele extra woorden deel uitmaken van NaNoWriMo.',
     'nanowrimo.victory': 'Gefeliciteerd! Je hebt NaNoWriMo gewonnen!',
     'nanowrimo.challenge': 'NaNoWriMo-uitdaging',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
+    'nanowrimo.description': 'De uitdaging is om in november een roman van {words, number} woorden te schrijven.',
     'nanowrimo.error.usernotfound': 'Gebruikersnaam is niet gevonden op de NaNoWriMo-servers.',
     'nanowrimo.error.nobook': 'Geen boek gevonden. Zorg ervoor dat je je boek hebt aangemaakt op NaNoWriMo.',
     'nanowrimo.error.wordcount': 'Kan woordentelling niet instellen op NaNoWrimo, controleer je referenties en probeer het opnieuw.',
