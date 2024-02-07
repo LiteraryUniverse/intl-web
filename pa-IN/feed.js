@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'ਪੋਸਟ ਪਸੰਦ ਕਰੋ',
     'feed.post.unlike': 'ਪੋਸਟ ਦੀ ਪਸੰਦ ਵਾਪਸ ਲੈਣਾ',
     'feed.post.send': 'ਪੋਸਟ',
-    'feed.empty': 'ਫੀਡ ਵਿੱਚ ਕੋਈ ਇੰਟਰੀ ਨਹੀਂ ਹੈ।'
+    'feed.empty': 'ਫੀਡ ਵਿੱਚ ਕੋਈ ਇੰਟਰੀ ਨਹੀਂ ਹੈ।',
+    'feed.placeholder': 'ਤੁਹਾਡੇ ਮਨ ਵਿੱਚ ਕੀ ਹੈ?'
 };
