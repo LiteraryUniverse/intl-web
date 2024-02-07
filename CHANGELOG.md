@@ -1,8 +1,9 @@
 # Changelog for languages
 
-## 2024-01-24 - v2.11.1
+## 2024-02-08 - v2.11.1
 
 * Added new strings for legal documents
+* New string for feed placeholder
 
 ## 2024-01-12 - v2.11.0
 
