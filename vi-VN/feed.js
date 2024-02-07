@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Thích bài viết',
     'feed.post.unlike': 'Bỏ thích bài viết',
     'feed.post.send': 'Bài viết',
-    'feed.empty': 'Không có bài viết trong dòng thời gian.'
+    'feed.empty': 'Không có bài viết trong dòng thời gian.',
+    'feed.placeholder': 'Bạn đang nghĩ gì?'
 };
