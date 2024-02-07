@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Post leuk vinden',
     'feed.post.unlike': 'Post niet leuk vinden',
     'feed.post.send': 'Bericht',
-    'feed.empty': 'Geen berichten in de feed.'
+    'feed.empty': 'Geen berichten in de feed.',
+    'feed.placeholder': 'Waar denk je aan?'
 };
