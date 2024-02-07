@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Gönderiyi beğen',
     'feed.post.unlike': 'Gönderiyi beğenme',
     'feed.post.send': 'Gönderi',
-    'feed.empty': 'Akışta giriş yok.'
+    'feed.empty': 'Akışta giriş yok.',
+    'feed.placeholder': 'Aklınızda ne var?'
 };
