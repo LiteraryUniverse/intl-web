@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Cosaint post',
     'feed.post.unlike': 'Ná cosaint post',
     'feed.post.send': 'Poist',
-    'feed.empty': 'Gan iontrálacha sa bhfuinneog.'
+    'feed.empty': 'Gan iontrálacha sa bhfuinneog.',
+    'feed.placeholder': 'Cad atá ar do intinn?'
 };
