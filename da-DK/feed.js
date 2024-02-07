@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Synes godt om post',
     'feed.post.unlike': 'Synes ikke godt om post',
     'feed.post.send': 'Indlæg',
-    'feed.empty': 'Ingen indlæg i feeden.'
+    'feed.empty': 'Ingen indlæg i feeden.',
+    'feed.placeholder': 'Hvad tænker du på?'
 };
