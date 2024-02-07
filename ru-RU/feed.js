@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Нравится',
     'feed.post.unlike': 'Не нравится',
     'feed.post.send': 'Опубликовать',
-    'feed.empty': 'Нет записей в ленте.'
+    'feed.empty': 'Нет записей в ленте.',
+    'feed.placeholder': 'О чем вы думаете?'
 };
