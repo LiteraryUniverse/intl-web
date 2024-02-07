@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'პოსტზე მოწონება',
     'feed.post.unlike': 'პოსტზე მოწონის გაუქმება',
     'feed.post.send': 'პოსტი',
-    'feed.empty': 'არცერთი ჩანაწერი არ არის ლენტაში.'
+    'feed.empty': 'არცერთი ჩანაწერი არ არის ლენტაში.',
+    'feed.placeholder': 'რა გაქვს თქვენი ზედმეტი?'
 };
