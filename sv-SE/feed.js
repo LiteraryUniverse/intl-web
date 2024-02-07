@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Gilla inlägg',
     'feed.post.unlike': 'Till skillnad från inlägget',
     'feed.post.send': 'Inlägg',
-    'feed.empty': 'Inga poster i matningen.'
+    'feed.empty': 'Inga poster i matningen.',
+    'feed.placeholder': 'Vad tänker du på?'
 };
