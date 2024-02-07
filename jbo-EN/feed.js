@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Rojyjorne lo se jorne',
     'feed.post.unlike': 'Nalrojyjorne lo se jorne',
     'feed.post.send': 'stuzi',
-    'feed.empty': 'Naljorne be lo se jorne'
+    'feed.empty': 'Naljorne be lo se jorne',
+    'feed.placeholder': 'ma cmene do?'
 };
