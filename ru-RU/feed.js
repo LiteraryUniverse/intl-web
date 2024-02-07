@@ -5,5 +5,5 @@ export default {
     'feed.post.unlike': 'Не нравится',
     'feed.post.send': 'Опубликовать',
     'feed.empty': 'Нет записей в ленте.',
-    'feed.placeholder': 'О чем вы думаете?'
+    'feed.placeholder': 'Что у вас нового?'
 };
