@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Lo sentimos, pero esta función no está disponible por ahora. Estamos trabajando para habilitarla lo más pronto posible.',
     'common.nothingfound': 'No se ha encontrado nada',
     'common.explore': 'Explorar',
-    'common.by': 'por ',
+    'common.by': 'por {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Bloc de notas',
     'common.scratchpad.own': 'Tu bloc de notas',
@@ -256,5 +256,7 @@ export default {
     'common.thankYou': '¡Muchas gracias!',
     'common.seeYouAgain': '¡Hasta la próxima!',
     'email.hello': 'Hola {username},',
-    'common.back': 'Volver'
+    'common.back': 'Volver',
+    'console.stop': '¡Detente!',
+    'console.explain': 'Esta es una función del navegador destinada a los desarrolladores. Si alguien te dijo que copies y pegues algo aquí para habilitar una función del Universo Literario o "hackear" la cuenta de alguien, es una estafa y les dará acceso a tu cuenta del Universo Literario.'
 }    /* eslint-enable max-len */;

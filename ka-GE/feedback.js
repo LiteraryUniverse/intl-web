@@ -17,7 +17,7 @@ export default {
     'feedback.new.features': 'Suggest a new feature',
     'feedback.lang.nosupport': 'Your current language is not supported for feedback, please write in English. Thank you!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shorty.',
-    'feedback.comment.title': 'Comment',
+    'feedback.comment.title': 'კომენტარი',
     'feedback.comment.desc': 'Send us your feedback',
     'feedback.comment.legend': 'Your feedback - let us know about anything',
     'feedback.comment.success': 'Thank you for your feedback!',
@@ -29,26 +29,26 @@ export default {
     'feedback.voting.upvote': 'Up vote',
     'feedback.voting.downvote': 'Down vote',
     'feedback.voting.score': 'Total score',
-    'feedback.report.title': 'Report content',
-    'feedback.report.typeSelect': 'What is the issue here?',
-    'feedback.reportType.law': 'Law violation',
-    'feedback.reportType.vulgar': 'Vulgar/obscene',
-    'feedback.reportType.copyright': 'Copyright violation',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
-    'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.title': 'შინაარსის ანგარიში',
+    'feedback.report.typeSelect': 'რა არის აქ პრობლემა?',
+    'feedback.reportType.law': 'სამართალის დარღვევა',
+    'feedback.reportType.vulgar': 'გამარჯვებული/გულისხმობითი',
+    'feedback.reportType.copyright': 'საავტორო უფლების დარღვევა',
+    'feedback.reportType.storyRating': 'არასწორი ასაკის რეიტინგი',
+    'feedback.reportType.scam': 'ავარი',
+    'feedback.report.submit': 'ანგარიში',
+    'feedback.report.submitting': 'ანგარიშება...',
+    'feedback.report.violationDesc': 'დეტალები',
+    'feedback.report.reportSaved': 'გმადლობთ რეპორტისთვის! ჩვენ გამოვიყენებთ დამატებითი კადრებს და გამოვაქვეყნებთ საჭირო მდგომარეობისას.',
+    'feedback.report.copyrightReportSaved': 'გმადლობთ რეპორტისთვის! ჩვენ გამოვიყენებთ დამატებითი კადრებს და დაგვიკავშირდებით.',
+    'feedback.report.copyrightOwnershipDesc': 'საკოპირაიტის უფლებების მიმოხილვა',
+    'feedback.report.copyrightNotice': 'გთხოვთ გახსენით, რომ თქვენ უნდა იყოთ ნამდვილი მფლობელი საქმიანი საქმიანი მუშაობისთვის. თუ თქვენ არ ხართ მფლობელი, გთხოვთ შეატყობინოთ მფლობელს ან გამოიყენოთ სხვა კატეგორია ჩვენთვის შესახებ. ჩვენ ვიყენებთ საკოპირაიტის გაყვარებისთვის უფლებებს საუკეთესო სერიოზობით და არასასურველი და აბურდისაგან გამოყენებისთვის.',
+    'feedback.report.copyrightInternalProperty': 'მე ვარ ამ ნამუშავებზე გამოქვეყნებული მქონება',
+    'feedback.reportType.spam': 'სპამი ან ფიშინგი',
+    'feedback.reportType.other': 'სხვა',
+    'feedback.report.copyrightType.propertySelectLabel': `რომელი {type, select,
+    universe {უნივერსუმი}
+    story {ისტორია}
+    other {ისტორია}
+  } არის დაფიქსირებული?`
 };

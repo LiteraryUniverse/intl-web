@@ -1,8 +1,8 @@
 export default {
     'sharing.title': 'Del',
-    'sharing.button': 'Sharing Button',
-    'sharing.share': 'Share with...',
-    'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
+    'sharing.button': 'Delingsknapp',
+    'sharing.share': 'Del med...',
+    'sharing.feedback': 'Mangler vi noen steder du vil dele til? Gi oss beskjed om det!',
     'sharing.copy': 'Kopier',
     'sharing.email': 'E-mail',
     'sharing.sms': 'SMS',

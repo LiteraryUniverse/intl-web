@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'รายการอ่าน',
+  'readingList.type.label': 'ประเภทรายการ',
+  'readingList.type.stories': 'เรื่องราว',
+  'readingList.type.universes': 'จักรวาล',
+  'readingList.ordered.label': 'รายการที่จัดลำดับ',
+  'readingList.button.add': 'เพิ่มในรายการอ่าน',
+  'readingList.selectList': 'เลือกรายการอ่าน',
+  'readingList.create': 'สร้างรายการอ่านใหม่',
+  'readingList.create.aria': 'หน้าต่างโมดอลสำหรับการตั้งค่ารายการอ่านใหม่',
+  'readingList.edit.aria': 'หน้าต่างโมดอลสำหรับแก้ไขการตั้งค่ารายการอ่าน',
+  'readingList.library.title': 'รายการอ่านของคุณ',
+  'readingList.public.label': 'เป็นสาธารณะได้หรือไม่',
+  'readingList.addItem': `เพิ่ม {type, select,
+    universes {จักรวาล}
+    stories {เรื่อง}
+    other {เรื่องและจักรวาล}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `หน้าต่างโมดอลสำหรับเพิ่ม {type, select,
+    universes {จักรวาล}
+    stories {เรื่อง}
+    other {เรื่องและจักรวาล}
+  } ในรายการอ่าน`,
+  'readingList.addItem.fromLibrary': 'จากห้องสมุด',
+  'readingList.button.added': 'เพิ่มแล้ว'
 };

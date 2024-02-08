@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'การสนทนา',
+    'pm.showolder': 'แสดงข้อความเก่ากว่า',
+    'pm.errors.saysomething': 'คุณควรพูดอะไรบางอย่าง...',
+    'pm.errors.addrecipient': 'คุณต้องเพิ่มผู้รับอย่างน้อยหนึ่งคน',
+    'pm.message': 'ข้อความ',
+    'pm.send.message': 'ส่งข้อความ',
+    'pm.messages.own': 'ข้อความของคุณ',
+    'pm.conversations.none': 'คุณไม่ได้สนทนากับใครในขณะนี้',
+    'pm.to': 'ถึง:',
+    'pm.with': 'สนทนากับ:',
+    'pm.send': 'ส่ง',
+    'pm.conversations.unreadCount': `คุณมี {count, plural,
+    zero {การสนทนาที่ยังไม่ได้อ่าน}
+    one {การสนทนาที่ยังไม่ได้อ่าน 1 รายการ}
+    other {การสนทนาที่ยังไม่ได้อ่าน # รายการ}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'คุณต้องเลือกผู้รับ',
+    'pm.form.maxParticipants': `คุณสามารถมีคนได้สูงสุด {maxPeople, plural,
+    one {คน}
+    other {# คน}
+  } ในการสนทนา`,
+    'pm.new.aria': 'สนทนาใหม่',
+    'pm.new.buttonTitle': 'เริ่มสนทนาใหม่'
 };

@@ -30,7 +30,7 @@ export default {
     'universe.fanArtHeaderDesc.item': '{universe} ફેન આર્ટ્સ - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} ફેન આર્ટ સબમિશન',
     'universe.fanArtHeaderDesc.overview': '{universe} ફેન આર્ટ્સ',
-    'universe.fanFiction.hidden': 'Hidden',
+    'universe.fanFiction.hidden': 'છુપાવેલ',
     'universe.fanFiction.hide': 'ફેનફિક્શન છુપાવો',
     'universe.fanFiction.unhide': 'ફેનફિક્શન અનછોડો કરો'
 };

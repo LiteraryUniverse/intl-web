@@ -1,11 +1,14 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Maaf mengganggu. Namun sebelum kami membiarkan Anda melanjutkan lebih jauh, kami secara hukum terikat, untuk memastikan bahwa Anda menyadari dan setuju dengan Ketentuan Layanan, Kebijakan Privasi, dan Perjanjian Hak Cipta kami.',
+    'legal.modal.agree': 'Saya Setuju',
+    'legal.modal.disagree': 'Saya Tidak Setuju',
+    'legal.modal.register': 'Anda tidak akan melihat ini lagi jika Anda mendaftar.',
+    'legal.modal.goToSettings': 'Pergi ke pengaturan Anda',
+    'legal.modal.oneLastThing': 'Satu hal terakhir...',
+    'legal.modal.finish': 'Selesai',
+    'legal.modal.existingUser': 'Sudah terdaftar?',
+    'legal.modal.pleaseLogin': 'Silakan masuk.',
+    'legal.publicationAgreements': 'Perjanjian Publikasi',
+    'legal.generalPublishingAgreement': 'Perjanjian Penerbitan Umum',
+    'legal.documentsFor': 'Dokumen hukum untuk {workTitle}'
 };

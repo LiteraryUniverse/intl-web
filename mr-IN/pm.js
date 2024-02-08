@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'वादांवाद',
+    'pm.showolder': 'जुने संदेश दाखवा',
+    'pm.errors.saysomething': 'तुम्हाला खरंतर काहीतरी सांगायला पाहिजे...',
+    'pm.errors.addrecipient': 'तुम्हाला किमान एक इतर वापरकर्ता जोडायला आवश्यक आहे.',
+    'pm.message': 'संदेश',
+    'pm.send.message': 'संदेश पाठवा',
+    'pm.messages.own': 'तुमचे संदेश',
+    'pm.conversations.none': 'तुम्ही सध्या कोणताही वादांवाद करत नाहीत.',
+    'pm.to': 'कोणाला:',
+    'pm.with': 'वादांवाद सह:',
+    'pm.send': 'पाठवा',
+    'pm.conversations.unreadCount': `तुम्हाला {count, plural,
+    zero {कोणतेही वाचनांचे वादांवाद नाहीत}
+    one {एक वाचनांचे वादांवाद नाही}
+    other {# वाचनांचे वादांवाद नाहीत}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'तुम्हाला एक प्राप्तकर्ता निवडायला आवश्यक आहे.',
+    'pm.form.maxParticipants': `तुम्ही एक चर्चेत {maxPeople, plural,
+    one {अधिकतम एक व्यक्ती}
+    other {# लोक}
+  } असू शकता.`,
+    'pm.new.aria': 'नवीन वादांवाद',
+    'pm.new.buttonTitle': 'नवीन वादांवाद सुरू करा'
 };

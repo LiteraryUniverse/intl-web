@@ -1,11 +1,14 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'क्षमा गर्नुहोस्। तर अघि बढ्न अघि, हामीले आफ्नो सेवा सङ्कलन, गोपनीयता नीति र कानुनी अधिकार सम्बन्धमा तपाईंलाई जागरूक गराउनुपर्छ र तपाईंले सहमत छन् भन्ने नियमहरूलाई।',
+    'legal.modal.agree': 'म सहमत छु',
+    'legal.modal.disagree': 'म सहमत छैन',
+    'legal.modal.register': 'तपाईंले यसलाई थप देख्नुहुन्छैन यदि तपाईं दर्ता गर्नुहुन्छ।',
+    'legal.modal.goToSettings': 'तपाईंको सेटिङ्गमा जानुहोस्',
+    'legal.modal.oneLastThing': 'अन्तिम कुरा...',
+    'legal.modal.finish': 'समाप्त गर्नुहोस्',
+    'legal.modal.existingUser': 'पहिले नै दर्ता गरिएको छ?',
+    'legal.modal.pleaseLogin': 'कृपया लगइन गर्नुहोस्।',
+    'legal.publicationAgreements': 'प्रकाशन सम्झौताहरू',
+    'legal.generalPublishingAgreement': 'सामान्य प्रकाशन सम्झौता',
+    'legal.documentsFor': '{workTitle}को लागि कानूनी कागजातहरू'
 };

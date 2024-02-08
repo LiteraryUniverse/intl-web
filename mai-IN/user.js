@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
-  }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.request.add': 'मित्र में जोड़ें',
+    'user.friend.requests': `तुम्हारे पास {num, number} नये मित्र {num, plural,
+    zero {अनुरोध}
+    one {अनुरोध}
+    many {अनुरोध}
+    other {अनुरोध}
+  }हैं।`,
+    'user.friend.unfriend': 'मित्रता तोड़ें',
+    'user.block': 'अवरुद्ध करें',
+    'user.unblock': 'अवरुद्ध हटाएँ',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {ने}
+    female {में शामिल हो गए!}
+    other {में शामिल हो गए!}} में शामिल हो गए! {date, date, long}पर।`,
+    'user.friend.request.accept': 'मित्रता अनुरोध स्वीकार करें',
+    'user.friend.request.cancel': 'मित्रता अनुरोध रद्द करें',
+    'user.friend.request.deny': 'मित्रता अस्वीकार करें',
+    'user.listing': 'उपयोगकर्ता सूची',
+    'user.profile.visit': '{user}के प्रोफ़ाइल पर जाएँ।',
+    'user.profile.avatar': '{username}का अवतार',
+    'user.friend.list.requests': 'मित्रता अनुरोध',
+    'user.friend.norequests': 'आपके पास मित्रता के लिए कोई अनुरोध नहीं है।',
+    'user.dashboardWelcome': `सुप्रभात {dayPart, select,
+    morning {साँझ}
+    afternoon {दोपहर}
+    evening {साँझ}
+    night {रात}
+    other {दिन}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'यह लेखक पारंपरिक तरीके से प्रकाशित हुए हैं',
+    'user.verification.luAuthor': 'साहित्यिक ब्रह्मांड पर आधारित महत्वपूर्ण लेखक',
+    'user.verification.luEmployee': 'साहित्यिक ब्रह्मांड कर्मचारी',
+    'user.verification.publicFigure': 'सत्यापित सार्वजनिक आदर्श',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
-  }`,
+    one {कहानी}
+    other {कहानियाँ}
+  }हैं।`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
-  }`,
+    one {ब्रह्मांड}
+    other {ब्रह्मांड}
+  }हैं।`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
-  }`,
-    'profile.works': 'Works',
+    one {प्रशंसा की कहानी}
+    other {प्रशंसा की कहानियाँ} 
+  }हैं।`,
+    'profile.works': 'कार्य',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'इच्छा-सूची',
+    'profile.storiesBy': '! {username}! द्वारा बनाई गई कहानियाँ',
+    'profile.universesBy': '! {username}! द्वारा बनाए गए ब्रह्मांड',
+    'profile.fanFictionBy': '! {username}! द्वारा बनाई गई प्रशंसा की कहानियाँ'
 };

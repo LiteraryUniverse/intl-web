@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'გააცნობეთ თქვენი ანგარიში!',
+    'enrollment.description': 'მოგესალმებით {username}! თქვენ სპეციალურ ანგარიშზე წვდომისთვის მხოლოდ პაროლის შექმნა გჭირდებათ.',
+    'enrollment.submitting': 'თქვენი ანგარიშის გაცნობა...',
+    'enrollment.submit': 'გააცნობეთ თქვენი ანგარიში!'
 };

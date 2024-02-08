@@ -1,15 +1,15 @@
 export default {
-    'workshop.title': 'Your work',
-    'workshop.noneassigned': 'You have not been assigned any yet.',
-    'workshop.notavailable': 'This feature is not yet available.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.title': 'ଆପଣଙ୍କ କାର୍ଯ୍ୟ',
+    'workshop.noneassigned': 'ଆପଣଙ୍କୁ ଏହିଏ କିଛି ନିର୍ଧାରଣ ହେଉନାହିଁ।',
+    'workshop.notavailable': 'ଏହି ବୈଶିଷ୍ଟ୍ୟ ଏଖନ୍ତରେ ଉପଲବ୍ଧ ନାହିଁ।',
+    'workshop.none': `ଆପଣ ବର୍ତମାନରେ କୌଣସି {type, select,
+      universe {ବିଶ୍ୱରେ}
+      story {କାହାଣୀ ବା}
+      fanfiction {ଫାଣ୍ ଫିକ୍ସନରେ}
       other {}
-    }. Create one now!`,
-    'workshop.collab': 'Collaborative work',
-    'workshop.betareadings': 'Beta readings',
+    }ନାହିଁ । ଏକ ନୂଆ କାହାଣୀ କରନ୍ତୁ ଏବଂ ଏକ ନୂଆ ବିଶ୍ୱ ତତ୍ତ୍ଵ ତତ୍ତ୍ଵରେ କରନ୍ତୁ!`,
+    'workshop.collab': 'ସହଯୋଗୀ କାର୍ଯ୍ୟ',
+    'workshop.betareadings': 'ବେଟା ପାଠଗୁଡ଼ିକରେ ପଠାଯାଇଥିବା କାର୍ଯ୍ୟ',
     'workshop.translations': 'Translations',
     'workshop.createnew': 'Create new...',
     'workshop.story.standalone': 'Standalone story',
@@ -25,11 +25,11 @@ export default {
     'workshop.universe.publish': 'Publish universe',
     'workshop.universe.publishing.notice': 'If you do not publish the universe, it will be published automatically when the first story connected to the universe is published.',
     'workshop.universe.settings': '{universe} universe settings',
-    'workshop.universe.publishedOn': 'This universe has been published on {date, date, long} {date, time, short}',
+    'workshop.universe.publishedOn': 'ଏହି ବିଶ୍ୱରେ ପ୍ରକାଶିତ ହୋଇଛି {date, date, long} {date, time, short}',
     'workshop.universe.description': 'Universe description',
     'workshop.settings.title': 'Title',
     'workshop.description': 'Description',
-    'workshop.language.primary': 'Primary language',
+    'workshop.language.primary': 'ପ୍ରାଥମିକ ଭାଷା',
     'workshop.publication.options': 'Publication options',
     'workshop.rating': 'General rating',
     'workshop.universe.rating.desc': 'Stories and fanfiction above this rating will be hidden from the universe page listing from anonymous users and users who are not of the appropriate age.',
@@ -49,7 +49,7 @@ export default {
     'workshop.story.new': 'Create a new story',
     'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
     'workshop.settings.edit': 'Edit settings',
-    'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
+    'workshop.story.publishedOn': 'ଏହି କାହାଣି ପ୍ରକାଶିତ ହୋଇଛି {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Story settings',
     'workshop.settings.basic': 'Basic settings',
     'workshop.settings.genres': 'Genres (max 2)',
@@ -70,39 +70,39 @@ export default {
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'You need to create a revision first.',
-    'workshop.revisions.comments.select': 'Select revision',
-    'workshop.collaborators.noresults': 'No results',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
-    'workshop.collaborators.language.add': 'Create a new translation',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
-    'workshop.revisions.beta.none': 'No revisions at this time.',
-    'reader.asidetoggle': 'Toggle aside information',
-    'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
-    'workshop.cover.alt': 'cover image',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.revisions.comments.select': 'ରିଭିଜନ ପସନ୍ଦ କରନ୍ତୁ',
+    'workshop.collaborators.noresults': 'କୌଣସି ଫଳାଫଳ ନାହିଁ',
+    'workshop.collaborators.add.beta': 'ବେଟା ରେଡାର୍ ଯୋଗ କରନ୍ତୁ',
+    'workshop.collaborators.add.collaborator': 'ସହଯୋଗୀ ଯୋଗ କରନ୍ତୁ',
+    'workshop.collaborators.add.translator': 'ଅନୁବାଦକ ଯୋଗ କରନ୍ତୁ',
+    'workshop.collaborators.language.add': 'ନୂଆ ଅନୁବାଦ ତିଆରି କରନ୍ତୁ',
+    'workshop.translations.stories': 'ଅନୁବାଦ - କାହାଣୀଗୁଡିକ',
+    'workshop.translations.universes': 'ଅନୁବାଦ - ବିଶ୍ୱଗୁଡିକ',
+    'workshop.revisions.beta.none': 'ଏହି ସମୟରେ କୌଣସି ପୁନର୍ନିର୍ଦ୍ଦେଶ ନାହିଁ।',
+    'reader.asidetoggle': 'ପାଇଁ ସଂଶୋଧନ ତାଲିକା ଟୋଗଲ୍ କରନ୍ତୁ',
+    'workshop.translation.original': 'ମୂଲ:',
+    'workshop.translation.original.title': 'ମୂଲ ଶୀର୍ଷକ:',
+    'workshop.translation.original.description': 'ମୂଲ ବର୍ଣନା:',
+    'workshop.translation.original.cover': 'ମୂଲ କଭର୍',
+    'workshop.translation.original.tags': 'ମୂଲ ଟ୍ୟାଗ୍',
+    'workshop.cover.alt': 'କଭର୍ ଚିତ୍ର',
+    'workshop.translation.updatedOrig': 'ମୂଲର ଶେଷ ଅଦ୍ୟତନ: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'ଅନୁବାଦର ଶେଷ ଅଦ୍ୟତନ: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'ମୂଲର ଶେଷ ପୁନର୍ନିର୍ଦ୍ଦେଶ {revision, number}, {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'ଅନୁବାଦର ଶେଷ ପୁନର୍ନିର୍ଦ୍ଦେଶ {revision, number}, {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.collaborators.premium': `ଆପଣ ଆପଣ ସହିତ {type, select,
+    collaborator {ଇଣ୍ଟରପ୍ରେଟର୍ ବା}
+    beta {ବେଟା ପଠକ ବା}
+    translator {ସହଯୋଗୀ ବା}
     other {}
-  }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+  }ଯୋଗ କରିବା ପାଇଁ, ଆପଣଙ୍କର ସଭାଦାନତିକରଣ ଟିୟର୍ ବୃଦ୍ଧି କରିବା ଆବଶ୍ୟକ।`,
+    'workshop.collaborators.requests.sent': 'ପଠାଯାଇଛି ଅନୁରୋଧ',
+    'workshop.collaborators.requests.invite': `ଆପଣ ଉପରେ {role, select,
+    beta {ବେଟା ପଠକ ବା}
+    translator {ଅନୁବାଦକ ବା}
+    collaborator {ସହଯୋଗୀ ବା}
     other {}
-  } for the following:`,
+  } ହେବାକୁ ଆମନ୍ତ୍ରିତ କରାଯାଇଛି |`,
     'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
     zero {no work}
     one {one literary work}
@@ -170,8 +170,8 @@ export default {
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 ଦିନ }
+      other {{days} ଦିନ }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -179,30 +179,30 @@ export default {
       =0 {00:}
       other {{minutes}:}
     }{seconds, plural,
-      =0 {00}
+      =0 {00 ମିନିଟ}
       other {{seconds}}
     }
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {ଦ୍ୱିତୀୟ}
+      other {ଦ୍ୱିତୀୟ}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {ମିନିଟ}
+      other {ମିନିଟ}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {ଘଣ୍ଟା}
+      other {ଘଣ୍ଟା}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {ଦିନ}
+      other {ଦିନ}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {ବର୍ଷ}
+      other {ବର୍ଷ}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
@@ -212,11 +212,11 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Sidebar Toolbox',
     'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order',
+    'workshop.story.authorsNotesExplained': 'ଆପଣଙ୍କର ନୋଟ ଯେଉଁଥିରେ ପଠକମାନଙ୍କୁ ପଢ଼ିବା ପାଇଁ ଅଧାରରେ ଅଛନ୍ତି ମୂଳାଂଶଗୁଡ଼ିକ |',
+    'workshop.story.chapterSortSwitch': 'ଅଧ୍ୟାୟର କ୍ରମ ପରିବର୍ତନ କରନ୍ତୁ',
     'workshop.universe.monetizationTitle': '{title} monetization',
     'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
+    'workshop.universe.monetizationWebMonetization': 'ୱେବ ମୋନେଟାଇଜେସନ',
     'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
     'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
     'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
@@ -231,9 +231,9 @@ export default {
     'workshop.revShare.origLangCreators': 'Original language creators',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Chapter {sequence, number}',
-    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
-    'workshop.universe.forumSettings': 'Internal universe forum settings',
-    'workshop.universe.forum': 'Internal {universeName} forum',
+    'workshop.work.includesAds': 'କିମ୍ବା କୌଣସି ବିଜ୍ଞାପନ କିମ୍ବା ପ୍ରୋଡକ୍ଟ୍ ପ୍ଲେସମେଣ୍ଟ କିମ୍ବା କିଛି କଷ୍ଟକର ପାଇଁ କରାଯାଇଛି?',
+    'workshop.universe.forumSettings': 'ଆନ୍ତର୍ଗତ ବ୍ରହ୍ମାଣ୍ଡ ଫୋରମ୍ ସେଟିଂସ୍',
+    'workshop.universe.forum': 'ଆନ୍ତର୍ଗତ {universeName} ଫୋରମ୍',
     'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
     'workshop.selectCollaborator': 'Select collaborator',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',

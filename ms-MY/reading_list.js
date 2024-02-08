@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Senarai bacaan',
+  'readingList.type.label': 'Jenis senarai',
+  'readingList.type.stories': 'Cerita',
+  'readingList.type.universes': 'Univers-univers',
+  'readingList.ordered.label': 'Senarai berperingkat',
+  'readingList.button.add': 'Tambah ke senarai bacaan',
+  'readingList.selectList': 'Pilih senarai bacaan',
+  'readingList.create': 'Cipta senarai bacaan baru',
+  'readingList.create.aria': 'Modal dengan tetapan untuk senarai bacaan baru',
+  'readingList.edit.aria': 'Modal untuk mengedit tetapan senarai bacaan',
+  'readingList.library.title': 'Senarai bacaan anda',
+  'readingList.public.label': 'Boleh dilihat secara awam?',
+  'readingList.addItem': `Tambah {type, select,
+    universes {alam semesta}
+    stories {cerita}
+    other {cerita dan alam semesta}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modal untuk menambah {type, select,
+    universes {alam semesta}
+    stories {cerita}
+    other {cerita dan alam semesta}
+  } ke dalam senarai bacaan.`,
+  'readingList.addItem.fromLibrary': 'Dari perpustakaan',
+  'readingList.button.added': 'Ditambah'
 };

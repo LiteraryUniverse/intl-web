@@ -1,25 +1,25 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `तुमच्याकडे आतापर्यंत कोणतीही ब्लॉग नाहीत {type, select,
+    organization {तुमच्या विश्वासासाठी एक ब्लॉग नाही}
+    universe {एक ब्लॉग}
+    user {नाहीत}
     other {}
   }.`,
     'blog.create': 'नवीन ब्लॉग तयार करा',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ब्लॉग}
+    universe {यूनिवर्स पृष्ठ}
+    user {ब्लॉग}
     other {}
-  } settings`,
+  } सेटिंग्ज`,
     'blog.description': 'ब्लॉगचे परिचय',
     'blog.theme': 'थीम',
     'blog.theme.info': 'पृष्ठाची दृष्टीकोन बदलायला थीम सापडल्यांना तुम्ही पृष्ठाची दिसणखाली बदलू शकता. ही वैशिष्ट्ये हे वेळेत नाहीत.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `येथे कोणतेही पोस्ट नाहीत {total, plural,
+    zero {एक पोस्ट आहे}
+    one {पोस्ट आहेत}
+    other {पोस्ट आहेत}
+  } या ब्लॉगमध्ये.`,
     'blog.post.create': 'नवीन प्रतिलेख तयार करा',
     'blog.post.update': '{title}संपादन करीत आहे',
     'blog.post.text': 'प्रतिलेख मजकूर',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'सार्वजनिक दृश्य',
     'blog.post.notfound': 'ब्लॉग प्रतिलेख सापडला नाही',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {यूनिवर्स}
+    stories {स्वतंत्र कथा}
+    fanfiction {फॅन फिक्शन काम}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'येथे एकाच विश्वातील स्वतंत्र कथांची यादी दिली गेली आहे, जर कथा एक विश्वाचा एक भागाच्या रूपात लिहली गेली असेल तर ही विश्व कथांची यादी विश्वाच्या पृष्ठावर दिली गेली आहे.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `सोशल लिंक्स त्यांचे सेट केलेले आहेत ज्यामुळे त्यांनी सेट केलेले आहे त्यामुळे {type, select,
+    organization {संघटना सेटिंग्ज}
+    user {वापरकर्ता प्रोफाइल}
     other {}
   }`,
     'blog.social.website': 'अधिकृत वेबसाइट',

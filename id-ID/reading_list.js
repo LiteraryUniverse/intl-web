@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
+  'readingList.title': 'Daftar bacaan',
+  'readingList.type.label': 'Jenis daftar',
+  'readingList.type.stories': 'Cerita',
   'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.ordered.label': 'Daftar berperingkat',
+  'readingList.button.add': 'Tambahkan ke daftar bacaan',
+  'readingList.selectList': 'Pilih daftar bacaan',
+  'readingList.create': 'Buat daftar bacaan baru',
+  'readingList.create.aria': 'Modal dengan pengaturan untuk daftar bacaan baru',
+  'readingList.edit.aria': 'Modal untuk mengedit pengaturan daftar bacaan',
+  'readingList.library.title': 'Daftar bacaan Anda',
+  'readingList.public.label': 'Terlihat secara publik?',
+  'readingList.addItem': `Tambahkan {type, select,
+    universes {alam semesta}
+    stories {cerita}
+    other {cerita dan alam semesta}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modal untuk menambahkan {type, select,
+    universes {alam semesta}
+    stories {cerita}
+    other {cerita dan alam semesta}
+  } ke daftar bacaan.`,
+  'readingList.addItem.fromLibrary': 'Dari perpustakaan',
+  'readingList.button.added': 'Ditambahkan'
 };

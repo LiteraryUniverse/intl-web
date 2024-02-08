@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
-  }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.conversation': 'સંવાદ',
+    'pm.showolder': 'જૂના સંદેશો બતાવો',
+    'pm.errors.saysomething': 'તમે ખૂબ શુંબો આપી શકો છો...',
+    'pm.errors.addrecipient': 'તમે ઓછામાં ઓછી એક અન્ય વપરાશકર્તા ઉમેરવી જોઈએ.',
+    'pm.message': 'સંદેશ',
+    'pm.send.message': 'સંદેશ મોકલો',
+    'pm.messages.own': 'તમારા સંદેશો',
+    'pm.conversations.none': 'તમે હાલમાં કોઈનો સંવાદ નથી કરી રહ્યા.',
+    'pm.to': 'થી:',
+    'pm.with': 'સંવાદ સાથે:',
+    'pm.send': 'મોકલો',
+    'pm.conversations.unreadCount': `તમારા સંવાદોમાં કોઈ વાંચનયોગ્ય સંવાદો નથી {count, plural,
+    zero {ના વાંચનયોગ્ય સંવાદો}
+    one {એક વાંચનયોગ્ય સંવાદ}
+    other {# વાંચનયોગ્ય સંવાદો}
+  }છે.`,
+    'pm.form.minimumParticipants': 'તમે પ્રાપ્તિકર્તા પસંદ કરવી જ જોઈએ.',
+    'pm.form.maxParticipants': `તમે એક સંભાષણમાં મહકામાં સુધી મહત્તમ {maxPeople, plural,
+    one {એક વ્યક્તિ હોઈ શકો છો! લોકોની સંખ્યા છે}
+    other {# લોકો}
+  } માં.`,
+    'pm.new.aria': 'નવો સંવાદ',
+    'pm.new.buttonTitle': 'નવો સંવાદ શરૂ કરો'
 };

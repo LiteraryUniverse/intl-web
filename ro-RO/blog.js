@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Vizualizare publică',
     'blog.post.notfound': 'Postarea blogului nu a fost găsită',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universuri}
+    stories {Povești independente}
+    fanfiction {Lucrări Fan Fiction}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Aici sunt prezentate povestiri independente; dacă o poveste a fost scrisă ca parte a unui univers, aceasta va fi prezentată pe pagina universului.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Linkurile sociale sunt aceleași ca cele setate în {type, select,
+    organization {setările organizației}
+    user {profilul utilizatorului}
     other {}
   }`,
     'blog.social.website': 'Site web oficial',
@@ -52,7 +52,7 @@ export default {
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
     'blog.post.introText': 'Paragraful de introducere',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.post.writtenBy': 'Scris de {usernameDisplay}',
+    'blog.post.writtenByFor': 'Scris de {usernameDisplay} pentru {publicationName}',
     'blog.posts.recent': 'Postări recente'
 };

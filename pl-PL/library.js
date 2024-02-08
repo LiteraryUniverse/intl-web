@@ -4,6 +4,6 @@ export default {
     'library.bought': 'Zakupione opowieści',
     'library.stories': 'Obserwowane opowieści',
     'library.universes': 'Podążanie za wszechświatami',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'bookmark.continueReading': 'Czytaj dalej',
+    'bookmark.statusSummary': 'Przeczytałeś {readPercent, number, ::percent} z historii.'
 };

@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'Create a new blog',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {བློ་གྲོས་}
+    universe {འབྲེལ་ཡོད་པའི་ ཤོག་ལེབ་}
+    user {བློ་གྲོས་}
     other {}
-  } settings`,
+  } སྒྲིག་འཇུགས་`,
     'blog.description': 'Blog introduction',
     'blog.theme': 'Theme',
     'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {སྒྲིག་འཇུགས་}
+    stories {རིགས་དྲུག་ཆེན་པོ་}
+    fanfiction {འཕྲུལ་ཡོད་པའི་ བརྡ་དོན་}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `སྒྲིག་འཇུགས་གསལ་བཤད་འདི་ བཀོད་སྤྱོད་གནས་སྡུད་བསྐྱེད་པའི་ སྐོར་ལས་འདི་ནང་གི་ལེན་མི་བརྡ་དོན་བྱེད་པའི་ དགོས་པར་ཡོད་པའི་ {type, select,
+    organization {གང་རུང་སྒྲིག་འཇུགས་}
+    user {ལག་ལེན་པའི་གནས་སྡུད་}
     other {}
   }`,
     'blog.social.website': 'Official website',
@@ -48,9 +48,9 @@ export default {
     'blogs.title': 'Blogs of Literary Universe',
     'blogs.description': 'Listing of blogs on the Literary Universe platform.',
     'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
+    'blog.settingsAria': 'སྤྱིར་གཟིགས་སྒྲིག་སྟེང་ཚོགས་པའི་དབྱེ་ཚན་ཚུ་གི་དབྱེར་མེད་ཚུ་གི་དབྱེ་བ།',
+    'blog.settings.blog': 'བྷོག།',
+    'blog.settings.forum': 'གྲོགས',
     'blog.post.introText': 'Introduction paragraph',
     'blog.post.writtenBy': 'Written by {usernameDisplay}',
     'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',

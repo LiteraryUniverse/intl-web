@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'საუბრის ადგილი',
+    'pm.showolder': 'ძველი შეტყობინებების ჩვენება',
+    'pm.errors.saysomething': 'რამოდენიმეს უნდა თქვა...',
+    'pm.errors.addrecipient': 'უნდა დაამატოთ მინიმუმ ერთი მომხმარებელი.',
+    'pm.message': 'შეტყობინება',
+    'pm.send.message': 'შეტყობინების გაგზავნა',
+    'pm.messages.own': 'თქვენი შეტყობინებები',
+    'pm.conversations.none': 'თქვენ ამჟამად არ იქნებით საუბრების მქონე.',
+    'pm.to': 'მიმდინარეობს:',
+    'pm.with': 'საუბრის მქონე:',
+    'pm.send': 'გაგზავნა',
+    'pm.conversations.unreadCount': `გაქვთ {count, plural,
+    zero {წუთისთვის წაუკითხავი საუბრება}
+    one {წუთისთვის წაუკითხავი საუბრება}
+    other {წუთისთვის წაუკითხავი საუბრება}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'უნდა აირჩიოთ მიმღები.',
+    'pm.form.maxParticipants': `თქვენ შეგიძლიათ მაქსიმუმ {maxPeople, plural,
+    one {ერთი ადამიანი}
+    other {# ადამიანი}
+  } საუბრის შემდეგ.`,
+    'pm.new.aria': 'ახალი საუბრება',
+    'pm.new.buttonTitle': 'ახალი საუბრების დაწყება'
 };

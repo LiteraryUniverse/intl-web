@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'Creative Commons Attribution-NonCommercial-NoDerivs 4.0',
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.lu-c': 'നിങ്ങളുടെ പ്രവർത്തനം വിൽപ്പനയ്ക്ക് അനുവദനീയമാക്കുന്ന സ്റ്റാൻഡേർഡ് പൂർണ്ണകോപ്പിറൈറ്റ് ലൈസൻസ്, നിങ്ങളുടെ കൃതിയെ എങ്ങനെയാണും വിൽപ്പനചെയ്യാൻ അനുവദിക്കുകയും അതിനുള്ള നിങ്ങളുടെ അവകാശങ്ങൾ സംരക്ഷിക്കുകയും ചെയ്യുന്നു. ഈ ലൈസൻസ് നിങ്ങളുടെ കഥകൾ ലിറ്റററി യൂണിവേഴ്‌സിനെയും വിൽപ്പനചെയ്യാൻ നിങ്ങളെ തുവക്കാനും അനുവദിക്കുന്നു.',
+    'licenses.name.cc0': 'എന്നിലും അനുവദനീയമല്ലെങ്കിൽ അവകാശങ്ങളില്ലാത്തതാണ് - CC0 1.0',
+    'licenses.cc0': 'നിങ്ങളുടെ പ്രവർത്തനം പൊതുവായ പ്രദേശത്തേക്ക് അടക്കം ചെയ്യുക. CC ലൈസൻസുകളുമായി പ്രവർത്തനാധികാരികളുടെ കൃതികളെ വിവിധ അനുമതികൾ തിരഞ്ഞെടുക്കാൻ അനുവദിക്കുന്നതുകൊണ്ട് അവരുടെ പൂർണ്ണകോപ്പിറൈറ്റ് ആവശ്യപ്പെടുന്നതിനും ഡാറ്റാബേസ് സംരക്ഷണത്തിനും എല്ലാവർക്കും പ്രത്യേക അനുവാദം നൽകുന്നു - കോപ്പിറൈറ്റും ഡാറ്റാബേസ് സംരക്ഷണവും സ്വന്തമാക്കാൻ നിരവധി അനുവാദം നൽകുന്ന ഒരു വികല്പമാണ് CC0.'
 };

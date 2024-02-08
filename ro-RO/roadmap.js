@@ -1,37 +1,37 @@
 export default {
-  'roadmap.ariaTimeOptions': 'Selections for roadmap items based on their status.',
-  'roadmap.state.backlog': 'Backlog',
-  'roadmap.state.inprogress': 'In-progress',
-  'roadmap.state.preview': 'Preview',
+  'roadmap.ariaTimeOptions': 'Selecții pentru elementele din planul de lucru bazate pe starea lor.',
+  'roadmap.state.backlog': 'Listă de așteptare',
+  'roadmap.state.inprogress': 'În desfășurare',
+  'roadmap.state.preview': 'Previzualizare',
   'roadmap.state.beta': 'Beta',
-  'roadmap.state.ga': 'General availability',
-  'roadmap.eta.q1.short': 'Q1',
-  'roadmap.eta.q2.short': 'Q2',
-  'roadmap.eta.q3.short': 'Q3',
-  'roadmap.eta.q4.short': 'Q4',
-  'roadmap.eta.q1.long': 'First quarter',
-  'roadmap.eta.q2.long': 'Second quarter',
-  'roadmap.eta.q3.long': 'Third quarter',
-  'roadmap.eta.q4.long': 'Fourth quarter',
-  'roadmap.backlog': 'Backlog',
-  'roadmap.history': 'History of development',
-  'roadmap.item.inBacklog': 'We are planning to develop this feature in the future.',
-  'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
-  'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
-  'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
-  'roadmap.item.inGa': 'This feature has become generally available on {gaAt, date}.',
-  'roadmap.item.originalIssue': 'This feature was originally suggested by our users.',
-  'roadmap.eta.mapTitle': `Planned for {quarter, select,
-    Q1 {Q1}
-    Q2 {Q2}
-    Q3 {Q3}
-    Q4 {Q4}
+  'roadmap.state.ga': 'Disponibilitate generală',
+  'roadmap.eta.q1.short': 'T1',
+  'roadmap.eta.q2.short': 'T2',
+  'roadmap.eta.q3.short': 'T3',
+  'roadmap.eta.q4.short': 'T4',
+  'roadmap.eta.q1.long': 'Primul trimestru',
+  'roadmap.eta.q2.long': 'Al doilea trimestru',
+  'roadmap.eta.q3.long': 'Al treilea trimestru',
+  'roadmap.eta.q4.long': 'Al patrulea trimestru',
+  'roadmap.backlog': 'Listă de așteptare',
+  'roadmap.history': 'Istoricul dezvoltării',
+  'roadmap.item.inBacklog': 'Planificăm să dezvoltăm această funcționalitate în viitor.',
+  'roadmap.item.inProgress': 'Dezvoltarea funcționalității a început {startedAt, date}.',
+  'roadmap.item.inBeta': 'Această funcționalitate a intrat în versiunea beta pe {betaAt, date}.',
+  'roadmap.item.inPreview': 'Această funcționalitate a devenit disponibilă pentru abonații Storyteller pe {previewAt, date}.',
+  'roadmap.item.inGa': 'Această funcționalitate a devenit disponibilă în mod general pe {gaAt, date}.',
+  'roadmap.item.originalIssue': 'Această funcționalitate a fost sugerată inițial de către utilizatorii noștri.',
+  'roadmap.eta.mapTitle': `Planificată pentru {quarter, select,
+    Q1 {T1}
+    Q2 {T2}
+    Q3 {T3}
+    Q4 {T4}
     other {}
   } {year, date, ::yyyy}`,
-  'roadmap.eta.mapTitleFinished': 'Finished in {time, date, ::MMMM ::yyyy}',
-  'roadmap.back': 'Back to roadmap',
-  'roadmap.seeBacklog': 'Check out what other things we plan to do',
-  'roadmap.seeFinished': 'If you like to dig more into our history, we have a nice overview ready for you',
-  'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished'
+  'roadmap.eta.mapTitleFinished': 'Finalizat în {time, date, ::MMMM ::yyyy}',
+  'roadmap.back': 'Înapoi la hartă',
+  'roadmap.seeBacklog': 'Verifică ce alte lucruri planificăm să facem',
+  'roadmap.seeFinished': 'Dacă dorești să afli mai multe despre istoricul nostru, avem o prezentare generală pregătită pentru tine',
+  'roadmap.planned': 'Planificat',
+  'roadmap.finished': 'Finalizat'
 };

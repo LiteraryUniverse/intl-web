@@ -1,11 +1,14 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Paumanhin sa abala. Ngunit bago namin kayo pahintulutan na magpatuloy, kami ay legal na obligado na tiyakin na alam ninyo at sumasang-ayon kayo sa aming Mga Tuntunin ng Serbisyo, Patakaran sa Pagkapribado, at Kasunduan sa Karapatang-Sipi.',
+    'legal.modal.agree': 'Sumasang-ayon ako',
+    'legal.modal.disagree': 'Hindi ako sumasang-ayon',
+    'legal.modal.register': 'Hindi na ninyo makikita ito kung kayo ay magrehistro.',
+    'legal.modal.goToSettings': 'Pumunta sa inyong mga setting',
+    'legal.modal.oneLastThing': 'Isa pang bagay...',
+    'legal.modal.finish': 'Tapos na',
+    'legal.modal.existingUser': 'Nakarehistro na ba kayo?',
+    'legal.modal.pleaseLogin': 'Mag-login po kayo.',
+    'legal.publicationAgreements': 'Mga Kasunduan sa Paglilimbag',
+    'legal.generalPublishingAgreement': 'Pangkalahatang Kasunduan sa Paglilimbag',
+    'legal.documentsFor': 'Legal documents para sa {workTitle}'
 };

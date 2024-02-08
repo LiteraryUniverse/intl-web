@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'הוסף לחברים',
+    'user.friend.requests': `יש לך {num, number} בקשת חברות חדשה {num, plural,
+    zero {}
+    one {בקשה}
+    many {בקשות}
+    other {בקשות}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'הסר מחברים',
+    'user.block': 'חסום',
+    'user.unblock': 'בטל חסימה',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    male {הצטרף ל}
+    female {הצטרף ל}
+    other {הצטרף ל}} ב {date, date, long}`,
+    'user.friend.request.accept': 'קבל בקשת חברות',
+    'user.friend.request.cancel': 'בטל בקשת חברות',
+    'user.friend.request.deny': 'דחה בקשת חברות',
+    'user.listing': 'רשימת משתמשים',
+    'user.profile.visit': 'בקר בפרופיל של {user}.',
+    'user.profile.avatar': 'אווטר של {username}',
+    'user.friend.list.requests': 'בקשות חברות',
+    'user.friend.norequests': 'אין לך בקשות לחברות.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
@@ -28,26 +28,26 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'מחבר זה פורסם בדרך המסורתית',
+    'user.verification.luAuthor': 'מחבר מבוסס ביקום הספרותי',
+    'user.verification.luEmployee': 'עובד ביקום הספרותי',
+    'user.verification.publicFigure': 'דמות ציבור מאומתת',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {סיפור}
+    other {סיפורים}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {ייצוג}
+    other {ייצוגים}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {פאן פיקשן}
+    other {פאן פיקשנים} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'עבודות',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'רשימת השאלות',
+    'profile.storiesBy': 'סיפורים שנוצרו על ידי {username}',
+    'profile.universesBy': 'יצירת ייצוגים על ידי {username}',
+    'profile.fanFictionBy': 'יצירת פאן פיקשן על ידי {username}'
 };

@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'ലൈബ്രറിയിലേക്ക് ചേരുക',
+    'library.remove': 'ലൈബ്രറിയിൽ നിന്ന് നീക്കം ചെയ്യുക',
+    'library.bought': 'വാങ്ങിയ കഥകൾ',
+    'library.stories': 'പിന്തുടരുന്ന കഥകൾ',
+    'library.universes': 'പിന്തുടരുന്ന മാനദണ്ഡങ്ങൾ',
+    'bookmark.continueReading': 'വായിക്കുകയും തുടരുകയും',
+    'bookmark.statusSummary': 'നിങ്ങൾ {readPercent, number, ::percent} കഥയെ വായിച്ചുകൊണ്ടിരിക്കുന്നു.'
 };

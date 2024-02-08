@@ -17,7 +17,7 @@ export default {
     'feedback.new.features': 'Suggest a new feature',
     'feedback.lang.nosupport': 'Your current language is not supported for feedback, please write in English. Thank you!',
     'feedback.new.thanks': 'Thank you for the notice! We will look into it shorty.',
-    'feedback.comment.title': 'Comment',
+    'feedback.comment.title': 'ମତାମତ',
     'feedback.comment.desc': 'Send us your feedback',
     'feedback.comment.legend': 'Your feedback - let us know about anything',
     'feedback.comment.success': 'Thank you for your feedback!',
@@ -29,26 +29,26 @@ export default {
     'feedback.voting.upvote': 'Up vote',
     'feedback.voting.downvote': 'Down vote',
     'feedback.voting.score': 'Total score',
-    'feedback.report.title': 'Report content',
-    'feedback.report.typeSelect': 'What is the issue here?',
-    'feedback.reportType.law': 'Law violation',
-    'feedback.reportType.vulgar': 'Vulgar/obscene',
-    'feedback.reportType.copyright': 'Copyright violation',
-    'feedback.reportType.storyRating': 'Incorrect age rating',
-    'feedback.reportType.scam': 'Scam',
+    'feedback.report.title': 'ପରିଶୋଧ ବିଷୟବସ୍ତୁ',
+    'feedback.report.typeSelect': 'ଏଠାରେ କିମ୍ବା ମୁଳେ କିଛି ଅଛି?',
+    'feedback.reportType.law': 'ଆଇନ୍ୟାନ ଭଙ୍ଗ',
+    'feedback.reportType.vulgar': 'ଅଶୋଭନୀୟ/ଅଶୋଭନକାରୀ',
+    'feedback.reportType.copyright': 'କପୀରାଇଟ୍ ଭଙ୍ଗ',
+    'feedback.reportType.storyRating': 'ଭୁଲ ବୟସ ରେଟିଂ',
+    'feedback.reportType.scam': 'ପଞ୍ଚାୟତୀ',
     'feedback.report.submit': 'Report',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
-    'feedback.reportType.other': 'Other',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.submitting': 'ରିପୋର୍ଟ କରୁଛି...',
+    'feedback.report.violationDesc': 'ବିବରଣୀ',
+    'feedback.report.reportSaved': 'ରିପୋର୍ଟ କରିବା ପାଇଁ ଧନ୍ୟବାଦ! ଆମେ ଯଦି ଆବଶ୍ୟକ ହୋଇଲେ ତାହା ପର୍ଯ୍ୟାଇ କରିବୁକ।',
+    'feedback.report.copyrightReportSaved': 'ରିପୋର୍ଟ କରିବା ପାଇଁ ଧନ୍ୟବାଦ! ଆମେ ଯଦି ଆବଶ୍ୟକ ହୋଇଲେ ତାହା ପର୍ଯ୍ୟାଇ କରିବୁ।',
+    'feedback.report.copyrightOwnershipDesc': 'ମାଲିକା ବକ୍ତବ୍ୟ',
+    'feedback.report.copyrightNotice': 'ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ ଯେ ଆପଣ ଏହି ଫର୍ମଟି ବ୍ୟବହାର କରିବା ପାଇଁ ସହୀତ ମାଲିକ ହେବା ଆବଶ୍ୟକ। ଯଦି ଆପଣ ମାଲିକ ନାହିଁଥିବା ହେବା, ଦୟାକରି ମାଲିକଙ୍କୁ ଜାଣାଇବା କିମ୍ବା ଅନ୍ୟ ବିଭାଗ ବ୍ୟବହାର କରିବା ପାଇଁ ଆମେ ଜଣାଇବୁ। ଆମେ କୋପିରାଇଟ ଲଙ୍ଘନ ଖୁବ ଗମ୍ଭୀରତା ସହିତ ନିଯୁକ୍ତି ନିଯୁକ୍ତି ନେଇଥାଏ।',
+    'feedback.report.copyrightInternalProperty': 'ମୁଁ ଏହି କାର୍ଯ୍ୟକଳା ଲିଟେରରୀ ଇୟୁନିଭର୍ସରେ ପ୍ରକାଶିତ କରିଛି',
+    'feedback.reportType.spam': 'ସ୍ପାମ କିମ୍ବା ଫିଶିଂ',
+    'feedback.reportType.other': 'ଅନ୍ୟ',
+    'feedback.report.copyrightType.propertySelectLabel': `କୌଣ {type, select,
+    universe {ବିଶ୍ବ}
+    story {କାହାଣୀ}
+    other {କାହାଣୀ}
+  } ଅପରାଧ କରାଯାଇଛି?`
 };

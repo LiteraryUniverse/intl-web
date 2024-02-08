@@ -30,7 +30,7 @@ export default {
     'universe.fanArtHeaderDesc.item': '{universe} ფან არტი - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} ფან არტის პაროლის შეყვანა',
     'universe.fanArtHeaderDesc.overview': '{universe} ფან არტი',
-    'universe.fanFiction.hidden': 'Hidden',
+    'universe.fanFiction.hidden': 'დამალულია',
     'universe.fanFiction.hide': 'ფანფიქშენის დამალვა',
     'universe.fanFiction.unhide': 'ფანფიქშენის აღდგენა'
 };

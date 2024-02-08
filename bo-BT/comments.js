@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'ཁྱེད་ཀྱི་བསམ་བཀོད་ཚར་རྒྱུ་མཚན་བཟོ་བ།',
+    'comments.none': 'དྲ་མེད་མི་འདུག བསམ་བཀོད་མེད་པས་མི་འདུག་པའི་བསྟོད་པ་མེད།',
+    'comments.total': `འདིའི་གྲོགས་པ་ {count, plural,
+    =0 {བསམ་བཀོད་ཚར་རྒྱུ་མཚན་འདི་བཟོ་བ།}
+    one {བསམ་བཀོད་ཚར་རྒྱུ་མཚན་འདི་བཀོད་འདི་བཟོ་བ།}
+    other {བསམ་བཀོད་ཚར་རྒྱུ་མཚན་འདི་# བསམ་བཀོད་ཚར་རྒྱུ་མཚན་བཟོ་བ།}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'བརྗོད་པའི་བསམ་བཀོད་ཚར་རྒྱུ་མཚན་འདི་སྟོན་པའི་བསྟོད་པ་བཟོ།'
 };

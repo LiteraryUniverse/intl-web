@@ -7,11 +7,11 @@ export default {
   }.`,
     'blog.create': 'ახალი ბლოგის შექმნა',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ბლოგის}
+    universe {უნივერსის გვერდი}
+    user {ბლოგის}
     other {}
-  } settings`,
+  } პარამეტრები`,
     'blog.description': 'ბლოგის შესავალი',
     'blog.theme': 'თემა',
     'blog.theme.info': 'თქვენ შეიძლებათ გაავრცელოთ გვერდის გარეგულება, თქვენი ბლოგის სარგემოს შეცვლა. ეს ფუნქცია არ არის მზად მარტივად.',
@@ -21,7 +21,7 @@ export default {
     other {are # posts}
   } in this blog.`,
     'blog.post.create': 'ახალი პოსტის შექმნა',
-    'blog.post.update': 'Editing {title}',
+    'blog.post.update': 'პოსტის რედაქტირება {title}',
     'blog.post.text': 'პოსტის ტექსტი',
     'common.slug': 'SEO მეგობრებული ბმული',
     'blog.slug.explained': 'მინიმუმუმ სპეციალურ სიმბოლოებს, "-" გამოისყიდე',

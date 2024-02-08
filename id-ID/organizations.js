@@ -52,6 +52,6 @@ export default {
     'org.teams.total': 'Total tim: {totalTeams, number}',
     'org.teams.create': 'Buat tim baru',
     'org.teams.settings': 'Pengaturan tim',
-    'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.ownerUser': 'Bukan pekerjaan guild',
+    'org.workshop.caption': 'Kepemilikan guild'
 };

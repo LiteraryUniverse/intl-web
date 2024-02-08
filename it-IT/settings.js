@@ -72,7 +72,7 @@ export default {
     'settings.links.description': 'Questi link saranno visibili nella pagina del tuo profilo.',
     'settings.links.website': 'Il tuo sito personale',
     'settings.links.social': 'Altri siti web',
-    'settings.links.select': 'Select website to add',
+    'settings.links.select': 'Seleziona il sito web da aggiungere',
     // 2FA
     'settings.2fa.title': 'Autenticazione a due fattori',
     'settings.2fa.explained': 'L\'autenticazione a due fattori fornisce un ulteriore livello di sicurezza per il tuo account aggiungendo un ulteriore passaggio di autenticazione durante il login. Questo impedisce ad attori malintenzionati di ottenere l\'accesso al tuo account se il tuo primo passo di login è compromesso.',
@@ -103,16 +103,16 @@ export default {
     'settings.web3.linkingMessage': 'Confermate di voler collegare il vostro portafoglio a Literary Universe. Codice: {code}',
     'settings.web3.linkError': 'Questo indirizzo è già presente nel nostro database e non può essere assegnato!',
     // Reader settings
-    'settings.reader.title': 'Reader settings',
-    'settings.reader.darkMode': 'Always display in dark mode',
-    'settings.reader.asideView': 'Show magical aside panel',
-    'settings.reader.textSize': 'Show text in larger font',
+    'settings.reader.title': 'Impostazioni del lettore',
+    'settings.reader.darkMode': 'Mostra sempre in modalità scura',
+    'settings.reader.asideView': 'Mostra pannello laterale magico',
+    'settings.reader.textSize': 'Mostra testo con caratteri più grandi',
     // Accessibility
-    'settings.accessibility.title': 'Reader accessibility',
-    'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-    'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
-    'settings.accessibility.paragraphHighlighting': 'Highlight the current paragraph that you are hovering over',
-    'settings.accessibility.ruler': 'Attach a ruler to the mouse',
-    'settings.tab.legal': 'Legal documents',
-    'settings.tab.exportDelete': 'Export data & delete account'
+    'settings.accessibility.title': 'Accessibilità del lettore',
+    'settings.accessibility.openDyslexic': 'Utilizza il font OpenDyslexic',
+    'settings.accessibility.paragraphStripes': 'Alternare il colore di sfondo nel paragrafo',
+    'settings.accessibility.paragraphHighlighting': 'Evidenzia il paragrafo corrente su cui passi il mouse',
+    'settings.accessibility.ruler': 'Aggiungi una riga al mouse',
+    'settings.tab.legal': 'Documenti legali',
+    'settings.tab.exportDelete': 'Esporta dati ed elimina account'
 };

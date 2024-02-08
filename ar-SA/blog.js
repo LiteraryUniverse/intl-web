@@ -7,19 +7,19 @@ export default {
   }.`,
     'blog.create': 'إنشاء مدونة جديدة',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {صفحة المدونة في الكون}
+    universe {إعدادات المدونة}
+    user {المدونة}
     other {}
-  } settings`,
+  }`,
     'blog.description': 'مقدمة المدونة',
     'blog.theme': 'الموضوع',
     'blog.theme.info': 'عند ضبط الموضوع ، ستتمكن من تغيير شكل الصفحة. هذه الميزة غير متاحة في الوقت الحالي.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `{total, plural,
+    zero {لا توجد مشاركات}
+    one {هناك مشاركة واحدة}
+    other {هناك # مشاركات}
+  } في هذه المدونة.`,
     'blog.post.create': 'إنشاء مشاركة جديدة',
     'blog.post.update': 'تحرير {title}',
     'blog.post.text': 'نص المشاركة',
@@ -28,9 +28,9 @@ export default {
     'blog.publicView': 'عرض عام',
     'blog.post.notfound': 'لم يتم العثور على مدونة',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {الكونات}
+    stories {القصص المستقلة}
+    fanfiction {أعمال الخيال العلمي}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'هنا توجد قصص مستقلة ، إذا تم كتابة القصة كجزء من عالم خيالي ستظهر في صفحة العالم.',
@@ -52,7 +52,7 @@ export default {
     'blog.settings.blog': 'المدونة',
     'blog.settings.forum': 'المنتدى',
     'blog.post.introText': 'فقرة المقدمة',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.post.writtenBy': 'مكتوب بواسطة {usernameDisplay}',
+    'blog.post.writtenByFor': 'مكتوب بواسطة {usernameDisplay} لـ {publicationName}',
     'blog.posts.recent': 'المقالات الأخيرة'
 };

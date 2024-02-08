@@ -29,11 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'चयनित पैराग्राफ हाइलाइट करना परिवर्तित करें',
     'reader.accessibility.toggleRules': 'सहायक नियम',
     'reader.nextRelease.scheduled': 'अगला अध्याय {nextReleaseAt, date} को आएगा {nextReleaseAt, time}को  ! पर!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyContinues': 'कहानी जारी रहती है...',
+    'reader.storyOnHiatus': 'लेखक वर्तमान में इस कहानी से एक ब्रेक ले रहे हैं और यह कहानी अब ठहरी हुई है। एक महीने या दो महीने में फिर से जांचें।',
+    'reader.storyCancelled': 'दुख के साथ यही है। कहानी रद्द कर दी गई है, इसलिए नई कोई चीज़ होने की संभावना नहीं है।',
     'reader.storyCancelled.heading': 'रद्द',
     'reader.nextChapterEstimation.verySoon': 'पिछले {chaptersCount, number} अध्यायों के प्रकाशन तिथियों के आधार पर, अगला अध्याय बहुत जल्द ही जारी होने की संभावना है।',
     'reader.nextChapterEstimation.days': 'पिछले {chaptersCount, number} अध्यायों के प्रकाशन तिथियों के आधार पर, अगले अध्याय के लिए लगभग {daysLeft, plural, one {1 दिन} other {दिनों}}में उपलब्ध होना चाहिए।',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'जब इस कहानी में एक से अधिक अध्याय हो जाएं तो हम अगले अध्याय के प्रकाशन के लिए एक अनुमान भी प्रदान करेंगे।'
 };

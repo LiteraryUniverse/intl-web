@@ -1,69 +1,69 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'Medan yang diperlukan',
+    'form.validator.mustBeNumber': 'Mesti menjadi nombor',
+    'form.validator.minNumber': 'Harus lebih besar daripada {min, number}',
+    'form.validator.maxNumber': 'Harus lebih rendah daripada {max, number}',
+    'form.validator.maxLength': `Perlu kurang dari {max, number} {what, select,
+    characters {aksara}
+    tags {tag}
+    genres {genre}
+    numbers {nombor}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.minLength': `Perlu sekurang-kurangnya {min, number} {what, select,
+    characters {aksara}
+    tags {tag}
+    genres {genre}
     genre {genre}
-    numbers {numbers}
+    numbers {nombor}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'Mesti menjadi e-mel yang sah',
+    'form.validator.url': 'Mesti menjadi URL yang sah',
+    'form.validator.slug': 'Mesti menjadi bahagian URL yang sah',
+    'form.submitting.signup': 'Mencipta akaun...',
+    'form.submitting.signin': 'Log masuk...',
+    'form.submitting.default': 'Menghantar...',
+    'form.submitting.sending': 'Menghantar...',
+    'form.validator.whitespace': 'Tidak boleh mempunyai ruang kosong',
+    'form.validator.zipCode': 'Mesti menjadi kod ZIP yang sah',
+    'form.validator.isbn': 'Kami hanya menerima versi 10 atau 13 ISBN',
+    'form.validator.btc': 'Ini bukan alamat BTC yang sah.',
+    'form.validator.eth': 'Ini bukan alamat ETH yang sah.',
+    'form.weakPassword': 'Kata laluan ini kelihatan lemah. Sila pertimbangkan untuk menjadikannya lebih kuat dengan menambah nombor dan karakter khas.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} is not a valid date',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
-    'simpleschema.noDecimal': '{label} must be an integer',
-    'simpleschema.notAllowed': '{value} is not an allowed value',
-    'simpleschema.expectedString': '{label} must be a string',
-    'simpleschema.expectedNumber': '{label} must be a number',
-    'simpleschema.expectedBoolean': '{label} must be a boolean',
-    'simpleschema.expectedArray': '{label} must be an array',
-    'simpleschema.expectedObject': '{label} must be an object',
-    'simpleschema.expectedConstructor': '{label} must be a {type}',
-    'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
-    'simpleschema.regEx.0': '{label} failed regular expression validation',
-    'simpleschema.regEx.1': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.2': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.3': '{label} must be a valid domain',
-    'simpleschema.regEx.4': '{label} must be a valid domain',
-    'simpleschema.regEx.5': '{label} must be a valid IPv4 or IPv6 address',
-    'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
-    'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
-    'simpleschema.regEx.8': '{label} must be a valid URL',
-    'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
+    'simpleschema.required': '{label} diperlukan',
+    'simpleschema.minString': '{label} mesti sekurang-kurangnya {min, number} aksara',
+    'simpleschema.maxString': '{label} tidak boleh melebihi {max, number} aksara',
+    'simpleschema.minNumber': '{label} mesti sekurang-kurangnya {min, number}',
+    'simpleschema.maxNumber': '{label} tidak boleh melebihi {max, number}',
+    'simpleschema.minNumberExclusive': '{label} mesti lebih besar daripada {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} mesti kurang daripada {max, number}',
+    'simpleschema.minDate': '{label} mesti pada atau selepas {min, date}',
+    'simpleschema.maxDate': '{label} tidak boleh selepas {max, date}',
+    'simpleschema.badDate': '{label} bukan tarikh yang sah',
+    'simpleschema.minCount': 'Anda mesti menentukan sekurang-kurangnya {minCount, number} nilai',
+    'simpleschema.maxCount': 'Anda tidak boleh menentukan lebih daripada {maxCount, number} nilai',
+    'simpleschema.noDecimal': '{label} mesti menjadi integer',
+    'simpleschema.notAllowed': '{value} bukan nilai yang dibenarkan',
+    'simpleschema.expectedString': '{label} mesti menjadi rentetan',
+    'simpleschema.expectedNumber': '{label} mesti menjadi nombor',
+    'simpleschema.expectedBoolean': '{label} mesti menjadi boolean',
+    'simpleschema.expectedArray': '{label} mesti menjadi array',
+    'simpleschema.expectedObject': '{label} mesti menjadi objek',
+    'simpleschema.expectedConstructor': '{label} mesti menjadi {type}',
+    'simpleschema.keyNotInSchema': '{key} tidak dibenarkan oleh skema',
+    'simpleschema.notUnique': '{label} mesti unik',
+    'simpleschema.regEx.0': '{label} gagal dalam pengesahan ungkapan biasa',
+    'simpleschema.regEx.1': '{label} mesti menjadi alamat e-mel yang sah',
+    'simpleschema.regEx.2': '{label} mesti menjadi alamat e-mel yang sah',
+    'simpleschema.regEx.3': '{label} mesti menjadi domain yang sah',
+    'simpleschema.regEx.4': '{label} mesti menjadi domain yang sah',
+    'simpleschema.regEx.5': '{label} mesti menjadi alamat IPv4 atau IPv6 yang sah',
+    'simpleschema.regEx.6': '{label} mesti menjadi alamat IPv4 yang sah',
+    'simpleschema.regEx.7': '{label} mesti menjadi alamat IPv6 yang sah',
+    'simpleschema.regEx.8': '{label} mesti menjadi URL yang sah',
+    'simpleschema.regEx.9': '{label} mesti menjadi ID alfanumerik yang sah'
 };

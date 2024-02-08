@@ -1,37 +1,37 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Idagdag sa mga kaibigan',
+    'user.friend.requests': `Mayroon kang {num, number} bagong kaibigan {num, plural,
+    zero {na mga kahilingan}
+    one {kahilingan}
+    many {mga kahilingan}
+    other {mga kahilingan}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Tanggalin sa mga kaibigan',
+    'user.block': 'I-block',
+    'user.unblock': 'I-unblock',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {Sumali sa}
+    female {Sumali sa}
+    other {Sumali sa}} noong {date, date, long}`,
+    'user.friend.request.accept': 'Tanggapin ang kahilingan ng pagkakaibigan',
+    'user.friend.request.cancel': 'Kanselahin ang kahilingan ng pagkakaibigan',
+    'user.friend.request.deny': 'Tanggihan ang pagkakaibigan',
+    'user.listing': 'Listahan ng mga User',
+    'user.profile.visit': 'Pumunta sa profile ni {user}.',
+    'user.profile.avatar': 'Avatar ni {username}',
+    'user.friend.list.requests': 'Mga kahilingan ng pagkakaibigan',
+    'user.friend.norequests': 'Wala kang mga kahilingan para sa pagkakaibigan.',
+    'user.dashboardWelcome': `Magandang umaga {dayPart, select,
+    morning {tanghali}
+    afternoon {hapon}
+    evening {gabi}
+    night {gabi}
+    other {araw}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Ang may-akda na ito ay nag-publish sa tradisyonal na paraan',
+    'user.verification.luAuthor': 'May-akdang batay sa Literary Universe',
+    'user.verification.luEmployee': 'Kawani ng Literary Universe',
+    'user.verification.publicFigure': 'Berdadong kilalang personalidad',
     'profile.storiesCount': `{count, number} {count, plural,
     one {story}
     other {stories}
@@ -44,7 +44,7 @@ export default {
     one {fan fiction}
     other {fan fictions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Mga Gawa',
     // As in creative/literary works
     'profile.wishlist': 'Wishlist',
     'profile.storiesBy': 'Stories created by {username}',

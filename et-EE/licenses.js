@@ -3,23 +3,23 @@
  * https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
  */
 export default {
-    'licenses.about': 'About licenses',
-    'licenses.more': 'More information',
-    'licenses.legal': 'Legal document',
+    'licenses.about': 'Litsentsidest',
+    'licenses.more': 'Rohkem infot',
+    'licenses.legal': 'Õiguslik dokument',
     'licenses.name.cc-by': 'Creative Commons Attribution 4.0',
-    'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
+    'licenses.cc-by': 'See litsents võimaldab teistel levitada, muuta, kohandada ja luua sinu töö põhjal uusi teoseid, ka kommertslikul eesmärgil, tingimusel et nad annavad sulle autorikrediidi algse loomingu eest. See on kõige paindlikum litsents, mida pakutakse. Soovitatav maksimaalseks levitamiseks ja litsentsitud materjalide kasutamiseks.',
     'licenses.name.cc-by-sa': 'Creative Commons Attribution-ShareAlike 4.0',
-    'licenses.cc-by-sa': 'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
+    'licenses.cc-by-sa': 'See litsents võimaldab teistel muuta, kohandada ja luua sinu töö põhjal uusi teoseid isegi kommertslikul eesmärgil, tingimusel et nad annavad sulle autorikrediidi ja litsenseerivad oma uued teosed samadel tingimustel. Seda litsentsi võrreldakse sageli "copyleft" vaba ja avatud lähtekoodiga tarkvaralitsentsidega. Kõik sinu tööle baseeruvad uued teosed kannavad sama litsentsi, seega võimaldab see ka kommertslikku kasutamist. Seda litsentsi kasutatakse Wikipedias ja soovitatakse materjalidele, mis saaksid kasu Wikipedias ja sarnaselt litsenseeritud projektidest sisu integreerimisest.',
     'licenses.name.cc-by-nd': 'Creative Commons Attribution-NoDerivs 4.0',
-    'licenses.cc-by-nd': 'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
+    'licenses.cc-by-nd': 'See litsents võimaldab teistel levitada sinu tööd nii kommertslikul kui ka mitteärilisel eesmärgil, tingimusel et see edastatakse muutumatul kujul ja tervikuna ning antakse sulle autorikrediit.',
     'licenses.name.cc-by-nc': 'Creative Commons Attribution-NonCommercial 4.0',
-    'licenses.cc-by-nc': 'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
+    'licenses.cc-by-nc': 'See litsents võimaldab teistel muuta, kohandada ja luua sinu töö põhjal uusi teoseid mitteärilisel eesmärgil ning kuigi nende uued teosed peavad samuti tunnustama sinu panust ja olema mitteärilised, ei pea nad oma tuletatud teoseid litsentseerima samadel tingimustel.',
     'licenses.name.cc-by-nc-sa': 'Creative Commons Attribution-NonCommercial-ShareAlike 4.0',
-    'licenses.cc-by-nc-sa': 'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
+    'licenses.cc-by-nc-sa': 'See litsents võimaldab teistel muuta, kohandada ja luua sinu töö põhjal uusi teoseid mitteärilisel eesmärgil, tingimusel et nad annavad sulle autorikrediidi ja litsenseerivad oma uued loomingu samadel tingimustel.',
     'licenses.name.cc-by-nc-nd': 'Creative Commons Attribution-NonCommercial-NoDerivs 4.0',
-    'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
-    'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.cc-by-nc-nd': 'See litsents on meie kuuest peamisest litsentsist kõige piiravam, lubades teistel ainult sinu töid alla laadida ja neid teistega jagada, tingimusel et nad annavad sulle autorikrediidi, kuid nad ei tohi neid mingil viisil muuta ega kasutada kommertslikul eesmärgil.',
+    'licenses.name.lu-c': 'Kirjandusliku Universumi autoriõigused',
+    'licenses.lu-c': 'Standardne täielik autoriõiguste litsents, mis võimaldab teil oma tööd müüa ja avaldada nii, nagu soovite, ning kaitsta oma õigusi sellele. Selle litsentsi abil saate ka oma lugusid müüa Literatuurne Universumis.',
+    'licenses.name.cc0': 'Ühtegi õigust ei ole kaitstud - CC0 1.0',
+    'licenses.cc0': 'Avaldage oma töö avalikku valda. Erinevalt CC litsentsidest, mis võimaldavad autoriõiguste omajatel valida erinevate lubade vahel, säilitades samas oma autoriõigused, annab CC0 veel ühe valiku - võimaluse loobuda autoriõigusest ja andmebaasi kaitsest ning loojatele automaatselt antud ainuõigustest - "ühtegi õigust ei ole kaitstud" alternatiivi meie litsentsidele.'
 };

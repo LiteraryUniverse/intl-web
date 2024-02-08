@@ -7,5 +7,8 @@ export default {
     'legal.modal.oneLastThing': 'Jedna posledná vec...',
     'legal.modal.finish': 'Dokončiť',
     'legal.modal.existingUser': 'Už ste sa zaregistrovali?',
-    'legal.modal.pleaseLogin': 'Prosím, prihláste sa.'
+    'legal.modal.pleaseLogin': 'Prosím, prihláste sa.',
+    'legal.publicationAgreements': 'Zmluvy o zverejnení',
+    'legal.generalPublishingAgreement': 'Všeobecná zmluva o vydavateľstve',
+    'legal.documentsFor': 'Právne dokumenty pre {workTitle}'
 };

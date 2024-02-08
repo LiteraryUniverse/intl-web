@@ -4,5 +4,6 @@ export default {
     'feed.post.like': '게시물 좋아요',
     'feed.post.unlike': '포스트와 달리',
     'feed.post.send': '포스트',
-    'feed.empty': '피드에 항목이 없습니다.'
+    'feed.empty': '피드에 항목이 없습니다.',
+    'feed.placeholder': '무슨 생각을 하고 있나요?'
 };

@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'ბიბლიოთეკაში დამატება',
+    'library.remove': 'ბიბლიოთეკიდან ამოღება',
+    'library.bought': 'ყიდული ამბები',
+    'library.stories': 'გამოწერილი ამბები',
+    'library.universes': 'გამოყენებული უნივერსები',
+    'bookmark.continueReading': 'კიდევ წაკითხვა',
+    'bookmark.statusSummary': 'თქვენ წაიკითხეთ {readPercent, number, ::percent} ისტორია.'
 };

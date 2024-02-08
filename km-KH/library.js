@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'បន្ថែម​ទៅ​ក្រុមបណ្ដុំ',
+    'library.remove': 'យកចេញ​ពី​ក្រុមបណ្ដុំ',
+    'library.bought': 'របៀប​បញ្ជាទិញ​របស់​របរ',
+    'library.stories': 'របៀប​តាមដាន​របរ',
+    'library.universes': 'ការតាមដានជីវិតរបស់ជនជាតិ',
+    'bookmark.continueReading': 'បន្តទៅអានបន្តទៅអាន',
+    'bookmark.statusSummary': 'អ្នកបានអានរួចហើយ {readPercent, number, ::percent} នៃរឿងនេះ។'
 };

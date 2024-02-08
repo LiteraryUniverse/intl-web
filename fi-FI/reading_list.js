@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Lukulista',
+  'readingList.type.label': 'Luettelon tyyppi',
+  'readingList.type.stories': 'Tarinat',
+  'readingList.type.universes': 'Universumit',
+  'readingList.ordered.label': 'Järjestetty lista',
+  'readingList.button.add': 'Lisää lukulistalle',
+  'readingList.selectList': 'Valitse lukulista',
+  'readingList.create': 'Luo uusi lukulista',
+  'readingList.create.aria': 'Valintaikkuna uuden lukulistan asetuksille',
+  'readingList.edit.aria': 'Valintaikkuna lukulistan asetusten muokkaamiselle',
+  'readingList.library.title': 'Omat lukulistat',
+  'readingList.public.label': 'Onko julkinen näkyvyys?',
+  'readingList.addItem': `Lisää {type, select,
+    universes {universumi}
+    stories {tarina}
+    other {tarinat ja universumit}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Valintaikkuna {type, select,
+    universes {universumeille}
+    stories {tarinoille}
+    other {tarinoille ja universumeille}
+  } lisäämistä varten lukulistaan.`,
+  'readingList.addItem.fromLibrary': 'Kirjastosta',
+  'readingList.button.added': 'Lisätty'
 };

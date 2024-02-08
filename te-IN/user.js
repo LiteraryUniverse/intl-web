@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'స్నేహంలో జోడించండి',
+    'user.friend.requests': `మీకు {num, number} కొత్త స్నేహితుడు {num, plural,
+    zero {అభ్యర్థనలు}
+    one {అభ్యర్థన}
+    many {అభ్యర్థనలు}
+    other {అభ్యర్థనలు}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'స్నేహితుడను తొలగించు',
+    'user.block': 'నిరోధించు',
+    'user.unblock': 'నిరోధనను తీసుకోండి',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    male {}
+    female {}
+    other {}} లో {date, date, long}లో చేరారు.`,
+    'user.friend.request.accept': 'స్నేహం అభ్యర్థనను అంగీకరించండి',
+    'user.friend.request.cancel': 'స్నేహం అభ్యర్థనను రద్దు చేయండి',
+    'user.friend.request.deny': 'స్నేహం తిరస్కరించాలి',
+    'user.listing': 'వాడుకరి జాబితా',
+    'user.profile.visit': 'సందర్శించు {user}ప్రొఫైల్.',
+    'user.profile.avatar': '{username}యొక్క అవతారం',
+    'user.friend.list.requests': 'స్నేహం అభ్యర్థనలు',
+    'user.friend.norequests': 'మీకు స్నేహం అభ్యర్థనలు లేవు.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
@@ -28,26 +28,26 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'ఈ రచయిత పాఠశాల పద్ధతిలో ప్రచురించబడింది',
+    'user.verification.luAuthor': 'సాహిత్య యూనివర్స్ ఆధారిత రచయిత',
+    'user.verification.luEmployee': 'సాహిత్య యూనివర్స్ ఉద్యోగి',
+    'user.verification.publicFigure': 'ధృవీకరించిన ప్రముఖ వ్యక్తి',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {కథ}
+    other {కథలు}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {యూనివర్సు}
+    other {యూనివర్సులు}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ఫ్యాన్ ఫిక్షన్}
+    other {ఫ్యాన్ ఫిక్షన్స్} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'పనితీరులు',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'ఇష్టాలు జాబితా',
+    'profile.storiesBy': '{username}ద్వారా సృష్టించిన కథలు',
+    'profile.universesBy': '{username}ద్వారా సృష్టించిన యూనివర్సులు',
+    'profile.fanFictionBy': '{username}ద్వారా సృష్టించిన ఫ్యాన్ ఫిక్షన్'
 };

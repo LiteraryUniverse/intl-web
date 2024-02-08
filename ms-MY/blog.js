@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Anda kini tidak mempunyai {type, select,
+    organization {sebarang blog}
+    universe {satu blog untuk alam semesta anda}
+    user {sebuah blog}
     other {}
   }.`,
     'blog.create': 'Cipta blog baru',
@@ -28,15 +28,15 @@ export default {
     'blog.publicView': 'Paparan awam',
     'blog.post.notfound': 'Pos blog tidak dijumpai',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Alam semesta}
+    stories {Cerita berdiri sendiri}
+    fanfiction {Karya Fan Fiction}
     other {}
   }`,
     'blog.lists.stories.disclaimer': 'Berikut adalah cerita berdiri sendiri, jika cerita tersebut ditulis sebagai sebahagian daripada sebuah alam, ia akan disenaraikan di halaman alam tersebut.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Pautan sosial adalah sama seperti yang ditetapkan dalam {type, select,
+    organization {tetapan organisasi}
+    user {profil pengguna}
     other {}
   }`,
     'blog.social.website': 'Laman web rasmi',

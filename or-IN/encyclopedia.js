@@ -1,28 +1,28 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.add': 'ଏକ ନୂଆ ଏଣ୍ଟ୍ରି ଯୋଡ଼ନ୍ତୁ',
+    'encyclopedia.browse': 'ଏଣ୍ସାଇକଲୋପିଡ଼ିଆରେ ବ୍ରାଉଜ୍ କରନ୍ତୁ',
+    'encyclopedia.search': 'ଏଣ୍ସାଇକଲୋପିଡ଼ିଆରେ ଖୋଜ କରନ୍ତୁ',
+    'encyclopedia.back.universe': 'ବିଶ୍ବ ପୃଷ୍ଠାରେ ଫେରନ୍ତୁ',
+    'encyclopedia.back.workshop': 'କାର୍ଯ୍ୟଶାଳାରେ ଫେରନ୍ତୁ',
+    'encyclopedia.categories': 'ବର୍ଗଗୁଡ଼ିକ',
+    'encyclopedia.groups': 'ଗୋଷ୍ଠୀଗୁଡ଼ିକ',
+    'encyclopedia.category.character': 'ଚରିତ୍ରଗୁଡ଼ିକ',
+    'encyclopedia.category.event': 'ଘଟଣାଗୁଡ଼ିକ',
+    'encyclopedia.category.group': 'ଗୋଷ୍ଠୀଗୁଡ଼ିକ',
+    'encyclopedia.category.item': 'ପଦାର୍ଥଗୁଡ଼ିକ',
+    'encyclopedia.category.location': 'ଅବସ୍ଥାଗୁଡ଼ିକ',
+    'encyclopedia.category.other': 'ଅନ୍ୟ',
+    'encyclopedia.category.state': 'ରାଜ୍ୟଗୁଡ଼ିକ',
+    'encyclopedia.category.governments': 'ଶାସନଗୁଡ଼ିକ',
+    'encyclopedia.category.languages': 'ଭାଷାଗୁଡ଼ିକ',
+    'encyclopedia.category.creatures': 'ପ୍ରାଣୀଗୁଡ଼ିକ',
+    'encyclopedia.category.deity': 'ଦେବତାଗୁଡ଼ିକ',
+    'encyclopedia.category.religions': 'ଧର୍ମଗୁଡ଼ିକ',
+    'encyclopedia.category.flora': 'ଓଷଧିଗୁଡ଼ିକ',
+    'encyclopedia.category.magic': 'ଜାଦୁ',
+    'encyclopedia.category.planets': 'ଗ୍ରହଗୁଡ଼ିକ',
+    'encyclopedia.category.species': 'ଜାତିଗୁଡ଼ିକ',
+    'encyclopedia.category.technologies': 'ପ୍ରଯୁକ୍ତିଗୁଡ଼ିକ',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -35,69 +35,69 @@ export default {
     'encyclopedia.add.title': 'Add a new entry to encyclopedia',
     'encyclopedia.add.heading': 'What do you wish to add?',
     'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `ନବିନିର୍ମାଣ କରନ୍ତୁ {category, select,
+    character {ଚରିତ୍ର}
+    event {ଘଟଣା}
+    group {ଗୋଷ୍ଠୀ}
+    item {ପଦାର୍ଥ}
+    location {ଅବସ୍ଥା}
+    other {ଲୋକାଷ୍ଟି}
+    state {ରାଜ୍ୟ}
+    governments {ସରକାର}
+    languages {ଭାଷା}
+    creatures {ପ୍ରାଣୀ}
+    deity {ଦୈତ୍ୟ}
+    religions {ଧର୍ମ}
+    flora {ଉଦ୍ୟାନ}
+    magic {ଜାଦୁ}
+    planets {ଗ୍ରହ}
+    species {ପ୍ରଜା}
+    technologies {ପ୍ରଯୁକ୍ତି}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `ନବିନିର୍ମାଣ କରନ୍ତୁ {category, select,
+    character {ଚରିତ୍ର}
+    event {ଘଟଣା}
+    group {ଗୋଷ୍ଠୀ}
+    item {ପଦାର୍ଥ}
+    location {ଅବସ୍ଥା}
+    other {ଲୋକାଷ୍ଟି}
+    state {ରାଜ୍ୟ}
+    governments {ସରକାର}
+    languages {ଭାଷା}
+    creatures {ପ୍ରାଣୀ}
+    deity {ଦୈତ୍ୟ}
+    religions {ଧର୍ମ}
+    flora {ଉଦ୍ୟାନ}
+    magic {ଜାଦୁ}
+    planets {ଗ୍ରହ}
+    species {ପ୍ରଜା}
+    technologies {ପ୍ରଯୁକ୍ତି}
+  } ରେ {universe}`,
+    'encyclopedia.entry.category': `ଏଣ୍ଟ୍ରି ବର୍ଗ: {category, select,
+    character {ଚିହ୍ନ}
+    event {ଘଟଣା}
+    group {ଗୋଷ୍ଠୀ}
+    item {ପଦାର୍ଥ}
+    location {ଅବସ୍ଥା}
+    other {ସ୍ଥାନ}
+    state {ନିର୍ଦେଶ}
+    governments {ଶାସନ}
+    languages {ଭାଷା}
+    creatures {ପ୍ରାଣୀ}
+    deity {ଦୈବ}
+    religions {ଧର୍ମ}
+    flora {ଓଷଧି}
+    magic {ଜାଦୁ}
+    planets {ଗ୍ରହ}
+    species {ଜାତି}
+    technologies {ପ୍ରଯୁକ୍ତି}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
     'encyclopedia.fields.text': 'Definition',
     'encyclopedia.fields.textarea': 'Text',
     'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
+    'encyclopedia.fields.time': 'ସମୟ',
     'encyclopedia.fields.image': 'Image',
     'encyclopedia.visibility': 'Visibility',
     'encyclopedia.public': 'Public',
@@ -141,13 +141,13 @@ export default {
     'encyclopedia.menuClose': 'Close Encyclopedia menu',
     'encyclopedia.menuAria': 'Encyclopedia menu',
     'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'enc.entries.limit': `ଆପଣ ବର୍ତ୍ତମାନରେ {value, number} ମଧ୍ୟରୁ {max, plural,
+    =0 {ଅମରାନ୍ତ}
     other {{max, number}}
-  } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+  } ଏଣ୍ଟ୍ରି ରହିଛି ।`,
+    'enc.entries.limitReached': 'ଆପଣ ଆପଣ ବର୍ତ୍ତମାନ ଚଟିଆମାନ ଚର୍ଚାପତ୍ର ଏଣ୍ଟ୍ରି ପାଇଁ ଅନୁମତି ପାଇଛନ୍ତି ।',
+    'enc.menuControls.ariaDesc': 'ଜ୍ଞାନକୋଷ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ',
+    'encyclopedia.pronunciation.title': 'ଉଚ୍ଚାରଣ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'ଚାଲୁ ରହିଛି'
 };

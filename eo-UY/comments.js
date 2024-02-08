@@ -1,10 +1,10 @@
 export default {
     'comment.write': 'Verki komenton',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comments.none': 'Pardonu, ne estas komentoj por montri.',
+    'comments.total': `Jen {count, plural,
+    =0 {ne estas komentoj}
+    one {estas 1 komento}
+    other {estas # komentoj}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Montri pli malnovajn komentojn'
 };

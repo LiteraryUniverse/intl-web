@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
-  }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
+    'pm.conversation': 'Caint',
+    'pm.showolder': 'Taispeáin teachtaireachtaí níos sine',
+    'pm.errors.saysomething': 'Ba cheart duit rud éigin a rá go fírinneach...',
+    'pm.errors.addrecipient': 'Ní mór duit ar a laghad duine eile a chur leis.',
+    'pm.message': 'Teachtaireacht',
+    'pm.send.message': 'Cuir teachtaireacht',
+    'pm.messages.own': 'Do chuid teachtaireachtaí',
+    'pm.conversations.none': 'Níl tú ag comhrá le haon duine faoi láthair.',
+    'pm.to': 'Le:',
+    'pm.with': 'Caint le:',
+    'pm.send': 'Cuir',
+    'pm.conversations.unreadCount': `Tá {count, plural,
+    zero {}
+    one {}
+    other {}
+  }`,
+    'pm.form.minimumParticipants': 'Ní mór duit rogha a dhéanamh ar faighteoir.',
+    'pm.form.maxParticipants': `Is féidir leat a bheith agat ar a má saoránaigh amháin {maxPeople, plural,
+    one {duine amháin}
+    other {# daoine}
   } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.new.aria': 'Caint nua',
+    'pm.new.buttonTitle': 'Tosaigh caint nua'
 };

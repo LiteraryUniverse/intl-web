@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Jatka lukemista',
     'discovery.stories.similar.new': 'Uudet tarinat naapurustossa',
     'discovery.stories.similar.regular': 'Tarinat naapurustossa',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Tämän tarinan pitäisi kestää {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 tunti ja }
+        other {# tuntia ja }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 minuuttia}
+        one {1 minuutti}
+        other {# minuuttia}
+    } lukea.`,
+    'story.estimatedReadingTime.explained': 'Perustuu keskimääräiseen lukunopeuteen, joka on {avgReadingNum, number} sanaa minuutissa.',
     'discover.search.text': 'Hakusana',
     'discover.searchStory.title': 'Hae tarinaa',
     'discover.searchStory.description': 'Hae tarinoita',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'Sisällysluettelo',
     'story.status.hiatus': 'Tauolla',
     'story.status.cancelled': 'Peruutettu',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Lue - {readAt, date}',
     'discovery.moreDetails': 'Lisätiedot',
     'discovery.read': 'Lue',
     'discovery.chapters.showAll': 'Näytä kaikki luvut',

@@ -6,7 +6,7 @@ export default {
     'universe.fanarts.for': '{universe} ਪ੍ਰਸ਼ੰਸਾ ਕਲਾਕਾਰੀਆਂ',
     'universe.fansettings.for': '{universe} ਫੈਨ ਸੈਟਿੰਗਾਂ',
     'universe.fanfiction.stories': 'ਕਹਾਣੀਆਂ',
-    'universe.fanfiction.fanarts': 'Fan Arts',
+    'universe.fanfiction.fanarts': 'ਫੈਨ ਕਲਾ',
     'universe.stories.count': `There {num, plural,
     =0 {are no stories}
     one {is one story}
@@ -18,19 +18,19 @@ export default {
     'universe.translators': 'ਅਨੁਵਾਦਕ',
     'universe.authors.notice': 'ਹਰ ਕਹਾਣੀ ਵਿੱਚ ਵਿਆਕਰਾਨਕ ਅਤੇ ਹੋਰ ਸ਼ਖਸੀਅਤ ਵੀ ਹੋ ਸਕਦੀ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਹਾਣੀ ਦੀ ਵੇਰਵਾ ਵੇਖੋ।',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ}
+    female {ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ}
+    other {ਦੁਆਰਾ ਬਣਾਇਆ ਗਿਆ}} ਦੁਆਰਾ `,
     'universe.stories.for': '{universe}ਲਈ ਕਹਾਣੀਆਂ',
     'universe.stories.own': '{universe} ਕਹਾਣੀਆਂ',
     'universe.stories.desc': '{universe}ਲਈ ਕੈਨਨ ਕਹਾਣੀਆਂ',
     'universe.encyclopedia.title': '{universe} ਜਾਣਕਾਰੀਸੂਚੀ',
     'universe.encyclopedia.desc': '{universe}ਦੇ ਲਈ ਪੂਰੀ ਜਾਂਚ ਕਰੋ',
-    'universe.fanArt.submit': 'Submit your art',
-    'universe.fanArtHeaderDesc.item': '{universe} fan art - {name}',
-    'universe.fanArtHeaderDesc.submit': '{universe} fan art submission',
-    'universe.fanArtHeaderDesc.overview': '{universe} fan art',
+    'universe.fanArt.submit': 'ਆਪਣੀ ਕਲਾ ਸਬਮਿਟ ਕਰੋ',
+    'universe.fanArtHeaderDesc.item': '{universe} ਫੈਨ ਕਲਾ - {name}',
+    'universe.fanArtHeaderDesc.submit': '{universe} ਫੈਨ ਕਲਾ ਸਬਮਿਸ਼ਨ',
+    'universe.fanArtHeaderDesc.overview': '{universe} ਫੈਨ ਕਲਾ',
     'universe.fanFiction.hidden': 'ਲੁਕਾਇਆ',
-    'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.hide': 'ਫੈਨਫਿਕਸ਼ਨ ਛੁਪਾਓ',
+    'universe.fanFiction.unhide': 'ਫੈਨਫਿਕਸ਼ਨ ਦਿਖਾਓ'
 };

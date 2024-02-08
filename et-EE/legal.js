@@ -1,11 +1,14 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'Vabandust, et segame. Kuid enne kui lasete teil edasi minna, oleme seaduslikult kohustatud veenduma, et olete teadlik meie Teenusetingimustest, Privaatsuspoliitikast ja Autoriõiguse lepingust ning nendega nõustute.',
+    'legal.modal.agree': 'Nõustun',
+    'legal.modal.disagree': 'Ei nõustu',
+    'legal.modal.register': 'Te ei näe seda enam, kui registreerute.',
+    'legal.modal.goToSettings': 'Minge oma seadetesse',
+    'legal.modal.oneLastThing': 'Üks viimane asi...',
+    'legal.modal.finish': 'Lõpeta',
+    'legal.modal.existingUser': 'Juba registreeritud?',
+    'legal.modal.pleaseLogin': 'Palun logige sisse.',
+    'legal.publicationAgreements': 'Avaldamislepingud',
+    'legal.generalPublishingAgreement': 'Üldine avaldamisleping',
+    'legal.documentsFor': 'Õigusdokumendid {workTitle}'
 };

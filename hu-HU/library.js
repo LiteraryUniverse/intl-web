@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'Hozzáadás a könyvtárhoz',
+    'library.remove': 'Eltávolítás a könyvtárból',
+    'library.bought': 'Megvásárolt történetek',
+    'library.stories': 'Követett történetek',
+    'library.universes': 'Követett univerzumok',
+    'bookmark.continueReading': 'Olvasás folytatása',
+    'bookmark.statusSummary': 'Elolvastad a történetet {readPercent, number, ::percent} alkalommal.'
 };

@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'Creative Commons Attribution-NonCommercial-NoDerivs 4.0',
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.lu-c': 'ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಮನವರಿಕೆ ಪಡಿಸಿಕೊಳ್ಳುವುದರ ಮೂಲಕ ನೀವು ಬೇಕಾದಷ್ಟು ಮಾರುಕಟ್ಟಿರಿ ಮತ್ತು ನಿಮ್ಮ ಹಕ್ಕುಗಳನ್ನು ರಕ್ಷಿಸುವ ಪೂರ್ಣ ಕಾರ್ಯಾಚರಣೆ ಅನುಮತಿಸುವ ಸಾಮಾನ್ಯ ಪೂರ್ಣ ಕಾಪಿರೈಟ್ ಅನುಮತಿ. ಈ ಅನುಮತಿ ನಿಮಗೆ ಸಾಹಿತ್ಯ ವಿಶ್ವದಲ್ಲಿ ನಿಮ್ಮ ಕಥೆಗಳನ್ನು ಮಾರುಕಟ್ಟಿದ್ದರೆ ಮತ್ತು ಅದರ ಮೇಲೆ ನಿಮ್ಮ ಕಥೆಗಳನ್ನು ಮಾರುಕಟ್ಟಬಹುದು ಎಂದು ನೀವು ಆಯ್ಕೆ ಮಾಡಬಹುದು.',
+    'licenses.name.cc0': 'ಯಾವುದೇ ಹಕ್ಕುಗಳನ್ನು ಮೀರಿದ ರೂಪದಲ್ಲಿ - CC0 1.0',
+    'licenses.cc0': 'ನಿಮ್ಮ ಕೆಲಸವನ್ನು ಸಾರ್ವಜನಿಕ ವಿಭಾಗಕ್ಕೆ ಹಾಕಿಕೊಳ್ಳಿ. CC ಅನುಮತಿಗಳು ಕಾಪಿರೈಟ್ ಹಿಡಿದುಕೊಂಡು ಕೆಲಸದ ಹಾಕುಗಳ ಸಾಮರಾಜ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಲು ಅನುಮತಿ ಹೊಂದುವಂತೆ ಅವರಿಗೆ ಅವಕಾಶ ಕೊಡುತ್ತದೆ, CC0 ಕಾಪಿರೈಟ್ ಮತ್ತು ಡೇಟಾಬೇಸ್ ಸಂರಕ್ಷಣೆಯಿಂದ ಹೊರಗೆ ಬರಲು ಮತ್ತು ಸೃಷ್ಟಿಸುವವರಿಗೆ ಸ್ವತಃಸ್ವತಃ ನೀಡಲ್ಪಟ್ಟ ಪ್ರತಿಸ್ಪಂದನಗಳನ್ನು ಆಯ್ಕೆಮಾಡುವ ಆಯ್ಕೆಗೆ ಬೇರೆಯೇ ಆಯ್ಕೆಯೆಂದು ಹೇಳಬಹುದು.'
 };

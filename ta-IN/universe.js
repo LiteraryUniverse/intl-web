@@ -18,14 +18,14 @@ export default {
     'universe.translators': 'மொழிபெயர்ப்பாளர்கள்',
     'universe.authors.notice': 'ஒவ்வொரு கதையிலும் சேர்க்கப்பட்டவராக உள்ள தொழில்நுட்ப தனியார்கள் இருக்கலாம். மேலும் விவரங்களுக்கு கதையின் விபரங்களைப் பார்வையிட்டு பாருங்கள்.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {உருவாக்கப்பட்டது}
+    female {உருவாக்கப்பட்டது}
+    other {உருவாக்கப்பட்டது}} ஆவணப்படுத்தியது `,
     'universe.stories.for': '{universe}க்கான கதைகள்',
     'universe.stories.own': '{universe} கதைகள்',
     'universe.stories.desc': '{universe}சம்பவக் கதைகள்',
     'universe.encyclopedia.title': '{universe} கூடுரைத் தமிழ்மொழி அல்லது அறிவுக் குறிப்புகள்',
-    'universe.encyclopedia.desc': 'All the details for {universe}',
+    'universe.encyclopedia.desc': 'அனைத்து விவரங்களும் {universe}க்கான விவரங்கள்',
     'universe.fanArt.submit': 'உங்கள் கலையை சமர்ப்பிக்கவும்',
     'universe.fanArtHeaderDesc.item': '{universe} ரசிகர் கலைகள் - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} ரசிகர் கலைச்செயல்பாட்டு',

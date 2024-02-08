@@ -18,9 +18,9 @@ export default {
     'universe.translators': 'מתרגמים',
     'universe.authors.notice': 'על כל סיפור עשוי להיות בנאים נוספים שעבדו עליו. לפרטים נוספים ראה את פרטי הסיפור.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {נוצר}
+    female {נוצר}
+    other {נוצר}} על ידי `,
     'universe.stories.for': 'סיפורים ל- {universe}',
     'universe.stories.own': '{universe} סיפורים',
     'universe.stories.desc': 'סיפורי קנון ל- {universe}',
@@ -30,7 +30,7 @@ export default {
     'universe.fanArtHeaderDesc.item': '{universe} אמנות מעריצים - {name}',
     'universe.fanArtHeaderDesc.submit': '{universe} הגשת אמנות מעריצים',
     'universe.fanArtHeaderDesc.overview': '{universe} אמנות מעריצים',
-    'universe.fanFiction.hidden': 'Hidden',
+    'universe.fanFiction.hidden': 'מוסתר',
     'universe.fanFiction.hide': 'הסתר פאנפיקשן',
     'universe.fanFiction.unhide': 'הצג פאנפיקשן'
 };

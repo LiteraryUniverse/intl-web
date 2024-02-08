@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'การจัดอันดับ',
+    'rating.explained': 'การจัดอันดับและข้อจำกัดอายุ',
+    'rating.all': 'ทั้งหมด',
+    'rating.desc.all': 'เหมาะสำหรับทุกช่วงอายุและกลุ่ม',
+    'rating.teens': 'วัยรุ่น',
+    'rating.desc.teens': 'เหมาะสำหรับผู้ชมที่อายุระหว่าง 12 ถึง 18 ปี',
+    'rating.mature': 'ผู้ใหญ่',
+    'rating.desc.mature': 'มีเนื้อหาที่เป็นแนวคิดขั้นสูง มีภาษาหยาบคายและฉากที่นำเสนออย่างไม่ตรงไปตรงมา',
+    'rating.explicit': 'เนื้อหาสำหรับผู้ใหญ่',
+    'rating.desc.explicit': 'มีฉากที่นำเสนออย่างไม่ตรงไปตรงมา',
+    'rating.selection.all': 'ทั้งหมด - เหมาะสำหรับทุกช่วงอายุและกลุ่ม',
+    'rating.selection.teens': 'วัยรุ่น (12-18) - เหมาะสำหรับผู้ชมที่อายุระหว่าง 12 ถึง 18 ปี',
+    'rating.selection.mature': 'ผู้ใหญ่ (18+) - มีเนื้อหาที่เป็นแนวคิดขั้นสูง มีภาษาหยาบคายและฉากที่นำเสนออย่างไม่ตรงไปตรงมา',
+    'rating.selection.explicit': 'เนื้อหาสำหรับผู้ใหญ่ (21+) - มีฉากที่นำเสนออย่างไม่ตรงไปตรงมา'
 };

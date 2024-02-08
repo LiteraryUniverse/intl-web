@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Seltcita',
+    'rating.explained': 'Seltcita be lo se zmadu be lo nunmu\'i',
+    'rating.all': 'Censa',
+    'rating.desc.all': 'Jai se ralju lo se zmadu be lo nunmu\'i e lo se zmadu be lo grupu',
+    'rating.teens': 'Censa be lo se zmadu be lo nunmu\'i',
+    'rating.desc.teens': 'Censa be lo se zmadu be lo nunmu\'i be lo se zmadu be lo cerni',
+    'rating.mature': 'Censa be lo se zmadu be lo nunmu\'i be lo se zmadu be lo cerni',
+    'rating.desc.mature': 'Cu se zmadu lo temci be lo nunmu\'i be lo se zmadu be lo nunmu\'i be lo cerni',
+    'rating.explicit': 'Cu se zmadu lo temci be lo nunmu\'i be lo se zmadu be lo nunmu\'i',
+    'rating.desc.explicit': 'Cu se zmadu lo temci be lo nunmu\'i be lo se zmadu be lo nunmu\'i',
+    'rating.selection.all': 'Censa - Jai se ralju lo se zmadu be lo nunmu\'i e lo se zmadu be lo grupu',
+    'rating.selection.teens': 'Censa be lo se zmadu be lo nunmu\'i - Cu se zmadu lo temci be lo nunmu\'i be lo se zmadu be lo nunmu\'i be lo cerni',
+    'rating.selection.mature': 'Censa be lo se zmadu be lo nunmu\'i be lo se zmadu be lo cerni - Cu se zmadu lo temci be lo nunmu\'i be lo se zmadu be lo nunmu\'i be lo cerni',
+    'rating.selection.explicit': 'Cu se zmadu lo temci be lo nunmu\'i be lo se zmadu be lo nunmu\'i be lo cerni - Cu se zmadu lo temci be lo nunmu\'i be lo se zmadu be lo nunmu\'i'
 };

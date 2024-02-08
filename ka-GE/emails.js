@@ -20,28 +20,28 @@ export default {
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'გვიამბებთ, რომ გიხდით ხელმეორედ ხელმისაწვდომი,<br />ლიტერატურის უნივერსიტეტის გუნდი',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'მიიღეთ მოთხოვნა თქვენი პაროლის განულებისთვის, გთხოვთ, დააწკაპუნეთ ღილაკზე ქვემოთ, რათა გაგრძელოთ პროცესი. თუ არ განისაზღვრეთ ამ მოთხოვნას, შეგიძლიათ არასაჭიროების შემოწმება, მაგრამ ეს შესაძლებლობაა კარგი დრო თქვენი უსაფრთხოების პარამეტრების განახლებისთვის.',
+    'email.resetPassword.button': 'პაროლის განულება',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'გვიამბებთ, რომ გვთავაზობთ თქვენს მიერ არჩეულ პროექტში მონაწილეობას! გთხოვთ, დააწკაპუნოთ ღილაკზე ქვემოთ, რათა დაამოწმოთ ეს ელ-ფოსტის მისამართი.',
+    'email.verifyEmail.button': 'ეს ელ-ფოსტის მისამართის დამოწმება',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.subject': 'თქვენი ანგარიში განახლებულია',
+    'email.adminUpgrade.message': `გილოცავთ! თქვენი ანგარიში გადაიხადა {plan, select,
+    explorer {გამომყევი}
+    adventurer {მცგრადი}
+    storyteller {მკრავალი}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } ტიერზე შემდეგი {days} დღისთვის.\n\nსიახლეები,\nLiterary Universe გუნდი`,
+    'email.adminUpgrade.messageHtml': `გილოცავთ! თქვენი ანგარიში გადაიხადა {plan, select,
+    explorer {გამომყევი}
+    adventurer {მცგრადი}
+    storyteller {მკრავალი}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } ტიერზე შემდეგი {days} დღისთვის. სიახლეები მიიღებთ!`,
+    'email.verification': 'ელ-ფოსტის ვერიფიკაცია',
+    'email.verifying': 'გთხოვთ, დაადასტუროთ თქვენი ელ-ფოსტა. ეს მოხდება მხოლოდ რამდენიმე წუთში...',
+    'email.verified': 'სასაცილოდ! თქვენი ელ-ფოსტა დადასტურდა!'
 };    /* eslint-enable max-len */

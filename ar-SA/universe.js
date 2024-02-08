@@ -18,9 +18,9 @@ export default {
     'universe.translators': 'المترجمون',
     'universe.authors.notice': 'ربما يكون لكل قصة مساهمون إضافيون. لمزيد من التفاصيل، راجع تفاصيل القصة.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {تم إنشاؤها}
+    female {تم إنشاؤها}
+    other {تم إنشاؤها}} بواسطة `,
     'universe.stories.for': 'قصص لـ {universe}',
     'universe.stories.own': '{universe} قصة',
     'universe.stories.desc': 'قصص الكتابة الأصلية لـ {universe}',

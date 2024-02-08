@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'पुस्तकालयात जोडा',
+    'library.remove': 'पुस्तकालयातून काढा',
+    'library.bought': 'विकत घेतलेली कथा',
+    'library.stories': 'अनुसरण केलेली कथा',
+    'library.universes': 'अनुसरण केलेले विश्व',
+    'bookmark.continueReading': 'पुढे वाचा',
+    'bookmark.statusSummary': 'तुम्ही कथेचे {readPercent, number, ::percent} वाचले आहे.'
 };

@@ -7,20 +7,20 @@ export default {
     'universe.fansettings.for': '{universe} Fan Settings',
     'universe.fanfiction.stories': 'Rakontoj',
     'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Ekzistas {num, plural,
+    =0 {neniu rakonto}
+    one {estas unu rakonto}
+    other {estas # rakontoj}
+    } en ĉi tiu universo.`,
     'universe.authors.title': 'Aŭtoroj',
     'universe.authors.desc': 'Kreintoj kaj kontribuantoj al {universe}',
     'universe.contributors': 'Kontribuantoj',
     'universe.translators': 'Tradukistoj',
     'universe.authors.notice': 'Ĉiu rakonto povas havi aldonan personan, kiu laboris ĝin. Por pliaj detaloj vidu la detalojn de la rakonto.',
     'universe.createdBy': `{gender, select,
-    male {Created}
-    female {Created}
-    other {Created}} by `,
+    male {Kreita}
+    female {Kreita}
+    other {Kreita}} de `,
     'universe.stories.for': 'Rakontoj por {universe}',
     'universe.stories.own': '{universe} rakontoj',
     'universe.stories.desc': 'Kanonaj rakontoj por {universe}',

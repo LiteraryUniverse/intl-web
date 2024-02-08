@@ -7,11 +7,11 @@ export default {
   }។`,
     'blog.create': 'បង្កើត​ក្រុមទិន្នន័យ​ថ្មីនៅក្នុង​ប្លុក',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ប្លុក}
+    universe {ទំព័រជីវិត}
+    user {ប្លុក}
     other {}
-  } settings`,
+  } ការកំណត់`,
     'blog.description': 'ការ​ណែនាំ​ពីប្លុក',
     'blog.theme': 'ស្បែក',
     'blog.theme.info': 'ដោះស្វែងរក​ស្បែក​និង​អភិក្ខាប័ត្រក្នុង​បញ្ជាក់​បញ្ជីទំព័រ។ ការ​លក់ខ្លី​នេះ​គ្មានទេពីរបៀបទទក់ទងទៅ​នឹង​ភាពរស់នៅពេលនេះ។',

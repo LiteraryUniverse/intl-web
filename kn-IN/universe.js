@@ -1,6 +1,6 @@
 export default {
     'universe.authors.title.meta': '{title} ಲೇಖಕರು',
-    'universe.fanfiction.see': 'All Fan Fiction for {universe}',
+    'universe.fanfiction.see': 'ಎಲ್ಲಾ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಗಳು {universe}ಗೆ',
     'universe.fanfiction.desc': '{universe}ಗೆ ಸಂಬಂಧಪಟ್ಟ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್',
     'universe.fanfiction.for': '{universe} ಫ್ಯಾನ್ ಫಿಕ್ಷನ್',
     'universe.fanarts.for': '{universe} ಫ್ಯಾನ್ ಆರ್ಟ್ಸ್',

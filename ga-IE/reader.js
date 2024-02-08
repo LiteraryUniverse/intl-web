@@ -29,11 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Sonraí an chuid is roghnaithe a dhéanamh in airde',
     'reader.accessibility.toggleRules': 'Athraigh príomhgeallaire',
     'reader.nextRelease.scheduled': 'Tiocfaidh an chéad chaibidil as an {nextReleaseAt, date} ag {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
+    'reader.storyContinues': 'Leanann an scéal...',
+    'reader.storyOnHiatus': 'Tá an t-údar ag gabháil sos ón scéal seo faoi láthair agus tá an scéal ar fionraí. Seiceáil ar ais i mí nó dhó.',
+    'reader.storyCancelled': 'Is é seo an deireadh. Tá an scéal curtha ar ceal agus is dócha nach mbeidh aon rud nua ann.',
     'reader.storyCancelled.heading': 'Cealaigh',
-    'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'reader.nextChapterEstimation.verySoon': 'Bunaithe ar dátaí foilseachán na {chaptersCount, number} cinn deiridh, táthar ag súil go mbeidh an chéad chaibidil ar fáil go luath.',
+    'reader.nextChapterEstimation.days': 'Bunaithe ar dátaí foilseachán na {chaptersCount, number} cinn deiridh, táthar ag súil go mbeidh an chéad chaibidil ar fáil i gcomhair {daysLeft, plural, one {1 lá} other {# lá}}.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Tabharfaimid meastachán freisin ar an am a d\'fhéadfadh an chéad chaibidil a bheith foilsithe nuair a bheidh níos mó ná cúpla chaibidil sa scéal seo.'
 };

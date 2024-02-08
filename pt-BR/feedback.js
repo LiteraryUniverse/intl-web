@@ -35,7 +35,7 @@ export default {
     'feedback.reportType.vulgar': 'Vulgar/obscena',
     'feedback.reportType.copyright': 'Violação dos Direitos Autorais',
     'feedback.reportType.storyRating': 'Classificação etária incorreta',
-    'feedback.reportType.scam': 'Scam',
+    'feedback.reportType.scam': 'Fraude',
     'feedback.report.submit': 'Reportar',
     'feedback.report.submitting': 'Reportando...',
     'feedback.report.violationDesc': 'Detalhes',

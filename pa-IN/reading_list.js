@@ -1,16 +1,16 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
+  'readingList.title': 'ਪੜ੍ਹਨ ਲਿਸਟ',
+  'readingList.type.label': 'ਸੂਚੀ ਦੀ ਕਿਸਮ',
+  'readingList.type.stories': 'ਕਹਾਣੀਆਂ',
+  'readingList.type.universes': 'ਬ੍ਰਹਮੰਡਾਂ',
+  'readingList.ordered.label': 'ਕ੍ਰਮਬੱਧ ਸੂਚੀ',
+  'readingList.button.add': 'ਪੜ੍ਹਨ ਲਿਸਟ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ',
+  'readingList.selectList': 'ਪੜ੍ਹਨ ਲਿਸਟ ਚੁਣੋ',
+  'readingList.create': 'ਨਵੀਂ ਪੜ੍ਹਨ ਲਿਸਟ ਬਣਾਓ',
+  'readingList.create.aria': 'ਨਵੀਂ ਪੜ੍ਹਨ ਲਿਸਟ ਦੇ ਸੈਟਿੰਗਾਂ ਲਈ ਮੋਡਲ',
+  'readingList.edit.aria': 'ਪੜ੍ਹਨ ਲਿਸਟ ਦੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਸੋਧਣ ਲਈ ਮੋਡਲ',
+  'readingList.library.title': 'ਤੁਹਾਡੀਆਂ ਪੜ੍ਹਨ ਲਿਸਟਾਂ',
+  'readingList.public.label': 'ਜਨਤਕ ਤੌਰ ਤੇ ਦਿੱਖਣਯੋਗ?',
   'readingList.addItem': `Add {type, select,
     universes {universe}
     stories {story}
@@ -21,6 +21,6 @@ export default {
     stories {stories}
     other {stories and universes}
   } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.fromLibrary': 'ਲਾਇਬ੍ਰੇਰੀ ਤੋਂ',
+  'readingList.button.added': 'ਜੋੜਿਆ ਗਿਆ ਹੈ'
 };

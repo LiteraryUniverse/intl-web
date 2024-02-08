@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'মিত্ৰ সংযোজন কৰক',
+    'user.friend.requests': `আপোনালোকে {num, number} নতুন বন্ধু {num, plural,
+    zero {অনুৰোধ}
+    one {অনুৰোধ}
+    many {অনুৰোধ}
+    other {অনুৰোধ}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'মিত্ৰতা বিছাৰি পোৱা বন্ধ কৰক',
+    'user.block': 'ব্লক কৰক',
+    'user.unblock': 'আনব্লক কৰক',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {যোগদান কৰিছে}
+    female {যোগদান কৰিছে}
+    other {যোগদান কৰিছে}} তাৰিখত {date, date, long}`,
+    'user.friend.request.accept': 'মিত্ৰতা অনুৰোধ স্বীকাৰ কৰক',
+    'user.friend.request.cancel': 'মিত্ৰতা অনুৰোধ বাতিল কৰক',
+    'user.friend.request.deny': 'মিত্ৰতা অনুৰোধ বাজাওক',
+    'user.listing': 'ব্যৱহাৰকাৰীৰ তালিকা',
+    'user.profile.visit': '{user}ৰ প্ৰোফাইললৈ যাওক।',
+    'user.profile.avatar': '{username}ৰ এভাটাৰ',
+    'user.friend.list.requests': 'মিত্ৰতাৰ অনুৰোধসমূহ',
+    'user.friend.norequests': 'আপুনি কোনো মিত্ৰতাৰ অনুৰোধ নাই।',
+    'user.dashboardWelcome': `ভাল {dayPart, select,
+    morning {সকাল}
+    afternoon {দুপৰ}
+    evening {সন্ধ্যা}
+    night {রাত্ৰি}
+    other {দিন}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'এই লেখকটো ঐতিহাসিক পদ্ধতিতে প্ৰকাশ কৰা হৈছে',
+    'user.verification.luAuthor': 'সাহিত্যিক বিশ্বত প্ৰকাশিত লেখক',
+    'user.verification.luEmployee': 'সাহিত্যিক বিশ্বত কৰ্মচাৰী',
+    'user.verification.publicFigure': 'যাচাইকৃত জনপ্রিয় ব্যক্তি',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {গল্প}
+    other {গল্পসমূহ}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {বিশ্ব}
+    other {বিশ্বসমূহ}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ফ্যান ফিকশন}
+    other {ফ্যান ফিকশনসমূহ} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'কামকাজ',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'ইচ্ছাপত্র',
+    'profile.storiesBy': '{username}দ্বারা সৃষ্ট গল্পসমূহ',
+    'profile.universesBy': '{username}দ্বারা সৃষ্ট বিশ্বসমূহ',
+    'profile.fanFictionBy': '{username}দ্বারা সৃষ্ট ফ্যান ফিকশনসমূহ'
 };

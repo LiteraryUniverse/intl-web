@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Olvasási lista',
+  'readingList.type.label': 'Lista típus',
+  'readingList.type.stories': 'Történetek',
+  'readingList.type.universes': 'Univerzumok',
+  'readingList.ordered.label': 'Rangsorolt lista',
+  'readingList.button.add': 'Hozzáadás az olvasási listához',
+  'readingList.selectList': 'Olvasási lista kiválasztása',
+  'readingList.create': 'Új olvasási lista létrehozása',
+  'readingList.create.aria': 'A beállításokkal rendelkező modális ablak egy új olvasási listához',
+  'readingList.edit.aria': 'Olvasási lista beállításainak szerkesztésére szolgáló modális ablak',
+  'readingList.library.title': 'Az olvasási listáid',
+  'readingList.public.label': 'Nyilvánosan látható?',
+  'readingList.addItem': `Hozzáadás {type, select,
+    universes {univerzum}
+    stories {történethez}
+    other {történetek és univerzumok}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modális ablak a {type, select,
+    universes {univerzumok}
+    stories {történetekhez}
+    other {történetek és univerzumok}
+  } hozzáadásához az olvasási listához.`,
+  'readingList.addItem.fromLibrary': 'Könyvtárból',
+  'readingList.button.added': 'Hozzáadva'
 };

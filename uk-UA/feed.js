@@ -4,5 +4,6 @@ export default {
     'feed.post.like': 'Вподобати публікацію',
     'feed.post.unlike': 'Прибрати вподобайку',
     'feed.post.send': 'Опублікувати',
-    'feed.empty': 'Жодних публікацій у стрічці.'
+    'feed.empty': 'Жодних публікацій у стрічці.',
+    'feed.placeholder': 'Що у вас на думці?'
 };

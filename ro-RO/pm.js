@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Conversație',
+    'pm.showolder': 'Arată mesajele mai vechi',
+    'pm.errors.saysomething': 'Ar trebui să spui ceva...',
+    'pm.errors.addrecipient': 'Trebuie să adăugați cel puțin un alt utilizator.',
+    'pm.message': 'Mesaj',
+    'pm.send.message': 'Trimite mesaj',
+    'pm.messages.own': 'Mesajele tale',
+    'pm.conversations.none': 'În prezent nu conversezi cu nimeni.',
+    'pm.to': 'Către:',
+    'pm.with': 'Conversație cu:',
+    'pm.send': 'Trimite',
+    'pm.conversations.unreadCount': `Ai {count, plural,
+    zero {nicio conversație necitită}
+    one {o conversație necitită}
+    other {# conversații necitite}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Trebuie să alegi un destinatar.',
+    'pm.form.maxParticipants': `Poți avea maximum de {maxPeople, plural,
+    one {o persoană}
+    other {# persoane}
+  } într-o conversație.`,
+    'pm.new.aria': 'Conversație nouă',
+    'pm.new.buttonTitle': 'Începe o conversație nouă'
 };

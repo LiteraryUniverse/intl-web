@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Liosta léitheoireachta',
+  'readingList.type.label': 'Cineál liosta',
+  'readingList.type.stories': 'Scéalta',
+  'readingList.type.universes': 'Aontachtaí',
+  'readingList.ordered.label': 'Liosta rangaithe',
+  'readingList.button.add': 'Cuir le liosta léitheoireachta',
+  'readingList.selectList': 'Roghnaigh liosta léitheoireachta',
+  'readingList.create': 'Cruthaigh liosta léitheoireachta nua',
+  'readingList.create.aria': 'Modal le socruithe do liosta léitheoireachta nua',
+  'readingList.edit.aria': 'Modal chun socruithe liosta léitheoireachta a chur in eagar',
+  'readingList.library.title': 'Do liostaí léitheoireachta',
+  'readingList.public.label': 'An bhfeictear go poiblí?',
+  'readingList.addItem': `Cuir {type, select,
+    universes {uile shaol}
+    stories {scéal}
+    other {scéalta agus saolta}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modal chun {type, select,
+    universes {saolta}
+    stories {scéalta}
+    other {scéalta agus saolta}
+  } a chur leis an liosta léitheoireachta.`,
+  'readingList.addItem.fromLibrary': 'Ón leabharlann',
+  'readingList.button.added': 'Curtha leis'
 };

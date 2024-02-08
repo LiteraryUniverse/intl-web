@@ -13,12 +13,12 @@ export default {
   'notifications.menu.markRead': 'पठित चिह्नित करें',
   'notifications.menu.delete': 'सूचना हटाएं',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'आपकी कहानी {storyName} स्वचालित रूप से सक्रियता के 6 महीने के बाद विराम पर सेट की गई है।',
+  'notification.workshopStoryStatus.toCancelled': 'आपकी कहानी {storyName} स्वचालित रूप से सक्रियता के एक वर्ष के बाद रद्द कर दी गई है।',
+  'notification.followingStoryStatus.toHiatus': '{storyName} विराम पर है।',
+  'notification.followingStoryStatus.toCancelled': '{storyName} रद्द कर दी गई है।',
+  'notification.followingNewChapter.new': '{storyName} में नया अध्याय प्रकाशित हुआ है!',
+  'notification.workshopStory.newComment': '{storyName}ने {storyName} पर टिप्पणी की है।',
   // Before this text will be the username of the user
   'notification.friendRequest': 'आपको एक मित्र अनुरोध भेजा गया है।',
   // Before this text will be the username of the user
