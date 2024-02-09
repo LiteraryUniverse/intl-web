@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Verified e-mail',
     'settings.email.add': 'Add e-mail',
     'settings.languages.title': 'Language settings',
-    'settings.languages.notice': 'English is currently the only officially supported language. Other languages are available thanks to amazing volunteers, but they might still be incomplete.',
+    'settings.languages.notice': 'ଇଂରାଜୀ ଏବଂ ଚେକ୍ ବର୍ତମାନରେ ଏକମାତ୍ର ସମର୍ଥିତ ଭାଷାଗୁଡ଼ିକ । ଅନ୍ୟ ଭାଷାଗୁଡ଼ିକ ଅଦ୍ୟାଯାବଧାନରେ ଉପସ୍ଥିତ ଅଟେ । ଅଦ୍ୟାୟାବଧାନରେ ଉପସ୍ଥିତ ଭାଷାଗୁଡ଼ିକ ଅପୂର୍ଣାଙ୍କରେ ଏବଂ କୌଣସି ଜାଗାରେ ଭୁଲ ଥାଏ ।',
     'settings.languages.join': 'If you would like to help us, you can translate Literary Universe as well.',
     'settings.name.title': 'Real name',
     'settings.name.given': 'Given name',
