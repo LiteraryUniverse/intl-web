@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'E-mail verificado',
     'settings.email.add': 'Adicionar e-mail',
     'settings.languages.title': 'Configurações de idioma',
-    'settings.languages.notice': 'O inglês é atualmente a única língua oficialmente suportada. Outros idiomas estão disponíveis graças a voluntários incríveis, mas ainda podem estar incompletos.',
+    'settings.languages.notice': 'O inglês e o tcheco são atualmente os únicos idiomas oficialmente suportados. Outros idiomas estão disponíveis graças a voluntários incríveis e tradução por inteligência artificial, mas ainda podem estar incompletos e incorretos em alguns lugares.',
     'settings.languages.join': 'Se você gostaria de nos ajudar, você pode traduzir também o Universo Literário.',
     'settings.name.title': 'Nome real',
     'settings.name.given': 'Nome',
