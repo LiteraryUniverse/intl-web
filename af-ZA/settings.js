@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Geverifieerde e-pos',
     'settings.email.add': 'Voeg e-pos by',
     'settings.languages.title': 'Taalinstellings',
-    'settings.languages.notice': 'Engels is tans die enigste amptelik ondersteunde taal. Ander tale is beskikbaar danksy fantastiese vrywilligers, maar dit kan nog onvolledig wees.',
+    'settings.languages.notice': 'Engels en Tsjechies is tans die enigste amptelik ondersteunde tale. Ander tale is beskikbaar dankie aan wonderlike vrywilligers en AI-vertaling, maar hulle mag nog onvolledig en onkorrek wees op sekere plekke.',
     'settings.languages.join': 'As jy ons wil help, kan jy ook Literary Universe vertaal.',
     'settings.name.title': 'Regte naam',
     'settings.name.given': 'Voornaam',
