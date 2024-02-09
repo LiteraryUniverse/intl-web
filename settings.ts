@@ -266,8 +266,8 @@ export default {
     },
     {
       code: 'zh',
-      name: 'Traditional Chinese',
-      native: '中文',
+      name: 'Chinese (Traditional)',
+      native: '中文 (繁體)',
       defaultLocale: 'zh-TW',
       supportedLocales: ['zh-TW', 'zh-HK', 'zh-MO'],
       rtl: false
