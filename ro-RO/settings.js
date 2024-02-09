@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'E-mail verificat',
     'settings.email.add': 'Adaugă e-mail',
     'settings.languages.title': 'Setări limbă',
-    'settings.languages.notice': 'În prezent, limba engleză este singura limbă oficial acceptată. Alte limbi sunt disponibile datorită voluntarilor uimitori, dar ar putea fi încă incomplete.',
+    'settings.languages.notice': 'Engleza și ceha sunt în prezent singurele limbi acceptate oficial. Alte limbi sunt disponibile datorită voluntarilor și traducerii AI uimitoare, dar ar putea fi încă incomplete și incorecte în anumite locuri.',
     'settings.languages.join': 'Dacă doriți să ne ajutați, puteți traduce și Literary Universe.',
     'settings.name.title': 'Nume real',
     'settings.name.given': 'Prenume',
