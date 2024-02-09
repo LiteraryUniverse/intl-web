@@ -12,7 +12,7 @@ export default {
   'settings.email.add': 'Add e-mail',
   'settings.languages.title': 'Language settings',
   'settings.languages.notice':
-    'English is currently the only officially supported language. Other languages are available thanks to amazing volunteers, but they might still be incomplete.',
+    'English and Czech are currently the only officially supported languages. Other languages are available thanks to amazing volunteers and AI translation, but they might still be incomplete and incorrect in places.',
   'settings.languages.join':
     'If you would like to help us, you can translate Literary Universe as well.',
   'settings.name.title': 'Real name',

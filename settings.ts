@@ -38,6 +38,14 @@ export default {
       rtl: false
     },
     {
+      code: 'id',
+      name: 'Indonesian',
+      native: 'Bahasa Indonesia',
+      defaultLocale: 'id-ID',
+      supportedLocales: ['id-ID'],
+      rtl: false
+    },
+    {
       code: 'sk',
       name: 'Slovakian',
       native: 'Slovenčina',
@@ -143,42 +151,141 @@ export default {
       rtl: false
     },
     {
+      code: 'uk',
+      name: 'Ukrainian',
+      native: 'украї́нська',
+      defaultLocale: 'uk-UA',
+      supportedLocales: ['uk-UA'],
+      rtl: false
+    },
+    {
       code: 'ru',
       name: 'Russian',
       native: 'русский',
       defaultLocale: 'ru-RU',
+      supportedLocales: ['ru-RU', 'ru-BY', 'ru-KG', 'ru-KZ', 'ru-MD', 'ru-UA'],
+      rtl: false
+    },
+    {
+      code: 'nl',
+      name: 'Dutch',
+      native: 'Nederlands',
+      defaultLocale: 'nl-NL',
       supportedLocales: [
-        'ru-RU',
-        'ru-BY',
-        'ru-KG',
-        'ru-KZ',
-        'ru-MD',
-        'ru-UA'
+        'nl-NL',
+        'nl-AW',
+        'nl-BE',
+        'nl-BQ',
+        'nl-CW',
+        'nl-SX',
+        'nl-SR'
       ],
       rtl: false
     },
+    {
+      code: 'it',
+      name: 'Italian',
+      native: 'Italiano',
+      defaultLocale: 'it-IT',
+      supportedLocales: ['it-IT', 'it-CH'],
+      rtl: false
+    },
+    {
+      code: 'fi',
+      name: 'Finnish',
+      native: 'Suomi',
+      defaultLocale: 'fi-FI',
+      supportedLocales: ['fi-FI'],
+      rtl: false
+    },
+    {
+      code: 'et',
+      name: 'Estonian',
+      native: 'eesti keel',
+      defaultLocale: 'et-EE',
+      supportedLocales: ['et-EE'],
+      rtl: false
+    },
+    {
+      code: 'hu',
+      name: 'Hungarian',
+      native: 'Magyar',
+      defaultLocale: 'hu-HU',
+      supportedLocales: ['hu-HU'],
+      rtl: false
+    },
+    {
+      code: 'no',
+      name: 'Norwegian',
+      native: 'Norsk',
+      defaultLocale: 'no-NO',
+      supportedLocales: ['no-NO'],
+      rtl: false
+    },
+    {
+      code: 'sv',
+      name: 'Swedish',
+      native: 'Svenska',
+      defaultLocale: 'sv-SE',
+      supportedLocales: ['sv-SE', 'sv-FI', 'sv-AX'],
+      rtl: false
+    },
+    {
+      code: 'eo',
+      name: 'Esperanto',
+      native: 'Lingvo Internacia',
+      defaultLocale: 'eo-UN',
+      supportedLocales: [
+        'eo-UN',
+        'eo-US',
+        'eo-HU',
+        'eo-CN',
+        'eo-VA',
+        'eo-HR',
+        'eo-DE',
+        'eo-NZ',
+        'eo-UY'
+      ],
+      rtl: false
+    },
+    {
+      code: 'vi',
+      name: 'Vietnamese',
+      native: 'Tiếng Việt',
+      defaultLocale: 'vi-VN',
+      supportedLocales: ['vi-VN'],
+      rtl: false
+    },
+    {
+      code: 'ko',
+      name: 'Korean',
+      native: '한국어',
+      defaultLocale: 'ko-KR',
+      supportedLocales: ['ko-KR'],
+      rtl: false
+    }
   ],
   /**
    * Get the array of language codes of supported languages
    * @returns {[String]}
    */
-  supportedLanguages (): string[] {
+  supportedLanguages(): string[] {
     return this.languages.map((lang) => lang.code) || []
   },
-  allSupportedLocales (): string[] {
+  allSupportedLocales(): string[] {
     const supported = []
     this.languages.forEach((lang) =>
       lang.supportedLocales.forEach((locale) => supported.push(locale))
     )
     return supported
   },
-  supportedLocalesForLanguage (languageCode: string): string[] {
+  supportedLocalesForLanguage(languageCode: string): string[] {
     const langDetails = this.languages.find(
       (lang) => lang.code === languageCode
     )
     return [langDetails.code, ...langDetails.supportedLocales]
   },
-  findLanguageCodeByLocale (locale: string): string {
+  findLanguageCodeByLocale(locale: string): string {
     if (locale.length === 2 && this.supportedLanguages().includes(locale)) {
       return locale
     }
@@ -196,7 +303,7 @@ export default {
    * This includes stories supported through the app in addition to those listed here.
    * @returns {({defaultLocale: string, code: string, supportedLocales: [string, string, string, string, string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean}|{defaultLocale: string, code: string, supportedLocales: [string], native: string, name: string, rtl: boolean})[]}
    */
-  storyLanguages (): LanguageSettingsType[] {
+  storyLanguages(): LanguageSettingsType[] {
     return [
       ...this.languages,
       {
@@ -208,51 +315,11 @@ export default {
         rtl: false
       },
       {
-        code: 'ko',
-        name: 'Korean',
-        native: '한국어',
-        defaultLocale: 'ko-KR',
-        supportedLocales: ['ko-KR'],
-        rtl: false
-      },
-      {
         code: 'hi',
         name: 'Hindi',
         native: 'मानक हिन्दी', // modern standard hindi
         defaultLocale: 'hi-IN',
         supportedLocales: ['hi-IN'],
-        rtl: false
-      },
-      {
-        code: 'it',
-        name: 'Italian',
-        native: 'Italiano',
-        defaultLocale: 'it-IT',
-        supportedLocales: ['it-IT', 'it-CH'],
-        rtl: false
-      },
-      {
-        code: 'nl',
-        name: 'Dutch',
-        native: 'Nederlands',
-        defaultLocale: 'nl-NL',
-        supportedLocales: [
-          'nl-NL',
-          'nl-AW',
-          'nl-BE',
-          'nl-BQ',
-          'nl-CW',
-          'nl-SX',
-          'nl-SR'
-        ],
-        rtl: false
-      },
-      {
-        code: 'fi',
-        name: 'Finnish',
-        native: 'Suomi',
-        defaultLocale: 'fi-FI',
-        supportedLocales: ['fi-FI'],
         rtl: false
       },
       {
@@ -280,14 +347,6 @@ export default {
         rtl: false
       },
       {
-        code: 'et',
-        name: 'Estonian',
-        native: 'eesti keel',
-        defaultLocale: 'et-EE',
-        supportedLocales: ['et-EE'],
-        rtl: false
-      },
-      {
         code: 'fil',
         name: 'Filipino',
         native: 'Tagalog',
@@ -301,14 +360,6 @@ export default {
         native: 'Ελληνικά',
         defaultLocale: 'el-GR',
         supportedLocales: ['el-CY', 'el-GR'],
-        rtl: false
-      },
-      {
-        code: 'hu',
-        name: 'Hungarian',
-        native: 'Magyar',
-        defaultLocale: 'hu-HU',
-        supportedLocales: ['hu-HU'],
         rtl: false
       },
       {
@@ -328,27 +379,11 @@ export default {
         rtl: false
       },
       {
-        code: 'no',
-        name: 'Norwegian',
-        native: 'Norsk',
-        defaultLocale: 'no-NO',
-        supportedLocales: ['no-NO'],
-        rtl: false
-      },
-      {
         code: 'ro',
         name: 'Romanian',
         native: 'Română',
         defaultLocale: 'ro-RO',
         supportedLocales: ['ro-RO', 'ro-MD'],
-        rtl: false
-      },
-      {
-        code: 'sv',
-        name: 'Swedish',
-        native: 'Svenska',
-        defaultLocale: 'sv-SE',
-        supportedLocales: ['sv-SE', 'sv-FI', 'sv-AX'],
         rtl: false
       },
       {
@@ -368,30 +403,6 @@ export default {
         rtl: false
       },
       {
-        code: 'uk',
-        name: 'Ukrainian',
-        native: 'украї́нська',
-        defaultLocale: 'uk-UA',
-        supportedLocales: ['uk-UA'],
-        rtl: false
-      },
-      {
-        code: 'vi',
-        name: 'Vietnamese',
-        native: 'Tiếng Việt',
-        defaultLocale: 'vi-VN',
-        supportedLocales: ['vi-VN'],
-        rtl: false
-      },
-      {
-        code: 'id',
-        name: 'Indonesian',
-        native: 'Bahasa Indonesia',
-        defaultLocale: 'id-ID',
-        supportedLocales: ['id-ID'],
-        rtl: false
-      },
-      {
         code: 'la',
         name: 'Latin',
         native: 'lingua Latīna',
@@ -400,16 +411,16 @@ export default {
         rtl: false
       },
       {
-        code: 'eo',
-        name: 'Esperanto',
-        native: 'Lingvo Internacia',
-        defaultLocale: 'eo-UN',
-        supportedLocales: ['eo-UN', 'eo-US', 'eo-HU', 'eo-CN', 'eo-VA', 'eo-HR', 'eo-DE', 'eo-NZ', 'eo-UY'],
+        code: 'zh',
+        name: 'Traditional Chinese',
+        native: '中文',
+        defaultLocale: 'zh-TW',
+        supportedLocales: ['zh-TW', 'zh-HK', 'zh-MO'],
         rtl: false
-      },
+      }
     ]
   },
-  storyLocales (): string[] {
+  storyLocales(): string[] {
     return this.storyLanguages().map((lang) => lang.code)
   },
   /**
@@ -452,7 +463,7 @@ export default {
    * @param countryCode {String} 2-key country string
    * @returns {String} 3-key currency string
    */
-  currencyByCountry (countryCode: string): string {
+  currencyByCountry(countryCode: string): string {
     if (!countryCode) return 'EUR'
     const code = countryCode.toUpperCase()
     switch (code) {
