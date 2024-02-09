@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': '已驗證的電子郵件',
     'settings.email.add': '添加電子郵件',
     'settings.languages.title': '語言設定',
-    'settings.languages.notice': '目前只支援英文。其他語言是由令人驚奇的志願者提供的，但可能仍然不完整。',
+    'settings.languages.notice': '目前只有英文和捷克文是官方支援的語言。其他語言是由了不可思議的志願者和AI翻譯提供，但可能在某些地方仍然不完整和不正確。',
     'settings.languages.join': '如果您想幫助我們，您也可以翻譯Literary Universe。',
     'settings.name.title': '真實姓名',
     'settings.name.given': '名',
