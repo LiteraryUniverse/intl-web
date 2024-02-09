@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Correo electrónico verificado',
     'settings.email.add': 'Añadir correo electrónico',
     'settings.languages.title': 'Configuración de idioma',
-    'settings.languages.notice': 'La única lengua disponible oficialmente es el inglés. Otras lenguas están disponibles gracias a unos voluntarios maravillosos, pero pueden estar incompletas.',
+    'settings.languages.notice': 'El inglés y el checo son actualmente los únicos idiomas oficialmente admitidos. Otros idiomas están disponibles gracias a voluntarios increíbles y traducción por inteligencia artificial, pero aún pueden estar incompletos e incorrectos en algunos lugares.',
     'settings.languages.join': 'Si quieres ayudarnos, tú también puedes traducir Literary Universe.',
     'settings.name.title': 'Nombre',
     'settings.name.given': 'Segundo nombre',
