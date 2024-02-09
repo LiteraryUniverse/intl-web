@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Correu electrònic verificat',
     'settings.email.add': 'Afegeix correu electrònic',
     'settings.languages.title': 'Configuració de l\'idioma',
-    'settings.languages.notice': 'Actualment, l\'anglès és l\'únic idioma oficialment admès. Altres idiomes estan disponibles gràcies als increïbles voluntaris, però poden ser incomplets.',
+    'settings.languages.notice': 'L\'anglès i el txec són actualment els únics idiomes oficialment compatibles. Altres idiomes estan disponibles gràcies als increïbles voluntaris i a la traducció automàtica, però poden ser incomplets i incorrectes en alguns llocs.',
     'settings.languages.join': 'Si vols ajudar-nos, també pots traduir Literary Universe.',
     'settings.name.title': 'Nom real',
     'settings.name.given': 'Nom de pila',
