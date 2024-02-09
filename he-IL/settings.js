@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'אימייל מאומת',
     'settings.email.add': 'הוספת אימייל',
     'settings.languages.title': 'הגדרות שפה',
-    'settings.languages.notice': 'באופן רשמי, אנגלית היא השפה היחידה שתומכת כרגע. שפות אחרות זמינות בזכות מתנדבים מדהימים, אך הן עדיין עשויות להיות חסרות מידע.',
+    'settings.languages.notice': 'אנגלית וצ׳כית הן כרגע השפות המותמנות רשמית. שפות אחרות זמינות בזכות מתנדבים מדהימים ותרגום באמצעות AI, אך עשויות להיות חסרות או שגויות במקומות מסוימים.',
     'settings.languages.join': 'אם ברצונך לעזור לנו, תוכל לתרגם את Literary Universe גם.',
     'settings.name.title': 'שם אמיתי',
     'settings.name.given': 'שם פרטי',
