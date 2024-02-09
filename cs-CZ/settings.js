@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Ověřený e-mail',
     'settings.email.add': 'Přidat e-mail',
     'settings.languages.title': 'Jazyková nastavení',
-    'settings.languages.notice': 'Angličtina je momentálně jediná oficiálně podporovaný jazyk. Ostatní jazyky jsou přístupné díky dobrovolníkům, ale nemusejí být úplné.',
+    'settings.languages.notice': 'Angličtina a čeština jsou momentálně jediné oficiálně podporované jazyky. Ostatní jazyky jsou přístupné díky úžasným dobrovolníkům a překladu pomocí umělé inteligence, ale nemusejí být úplné a mohou obsahovat chyby na některých místech.',
     'settings.languages.join': 'Pokud nám chcete pomoci, můžete také přeložit Literary Universe.',
     'settings.name.title': 'Skutečné jméno',
     'settings.name.given': 'Křestní jméno',
