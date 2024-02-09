@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Ellenőrzött e-mail',
     'settings.email.add': 'E-mail hozzáadása',
     'settings.languages.title': 'Nyelvi beállítások',
-    'settings.languages.notice': 'Az angol jelenleg az egyetlen hivatalosan támogatott nyelv. Más nyelvek elérhetőek fantasztikus önkéntesek segítségével, de lehet, hogy még nem teljesek.',
+    'settings.languages.notice': 'Az angol és a cseh jelenleg az egyetlen hivatalosan támogatott nyelvek. Más nyelvek elérhetőek fantasztikus önkéntesek és AI fordítás segítségével, de lehetnek hiányosságok és hibák bizonyos helyeken.',
     'settings.languages.join': 'Ha szeretnél segíteni, fordíthatod a Literary Universe-t is.',
     'settings.name.title': 'Valódi név',
     'settings.name.given': 'Utónév',
