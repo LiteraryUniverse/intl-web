@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Overený e-mail',
     'settings.email.add': 'Pridaj e-mail',
     'settings.languages.title': 'Nastavenia jazyka',
-    'settings.languages.notice': 'V súčasnosti je jediným oficiálne podporovaným jazykom angličtina. Ostatné jazyky sú k dispozícii vďaka úžasným dobrovoľníkom, ale môžu byť ešte neúplné.',
+    'settings.languages.notice': 'V súčasnosti sú angličtina a čeština jedinými oficiálne podporovanými jazykmi. Ostatné jazyky sú k dispozícii vďaka úžasným dobrovoľníkom a automatickému prekladu pomocou AI, ale môžu byť ešte neúplné a nesprávne na niektorých miestach.',
     'settings.languages.join': 'Ak nám chcete pomôcť, môžete preložiť aj Literárny vesmír.',
     'settings.name.title': 'Skutočné meno',
     'settings.name.given': 'Krstné meno',
