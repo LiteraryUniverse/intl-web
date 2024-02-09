@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Email vérifié',
     'settings.email.add': 'Ajouter un email',
     'settings.languages.title': 'Paramètres de la langue',
-    'settings.languages.notice': 'L\'anglais est actuellement la seule langue officiellement prise en charge. D\'autres langues sont disponibles grâce à des volontaires extraordinaires, mais elles peuvent être encore incomplètes.',
+    'settings.languages.notice': 'L\'anglais et le tchèque sont actuellement les seules langues officiellement prises en charge. D\'autres langues sont disponibles grâce à des volontaires extraordinaires et à la traduction par IA, mais elles peuvent encore être incomplètes et incorrectes à certains endroits.',
     'settings.languages.join': 'Si vous souhaitez nous aider, vous pouvez également traduire l\'Univers Littéraire.',
     'settings.name.title': 'Nom véritable',
     'settings.name.given': 'Prénom',
