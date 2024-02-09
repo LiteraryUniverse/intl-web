@@ -263,6 +263,14 @@ export default {
       defaultLocale: 'ko-KR',
       supportedLocales: ['ko-KR'],
       rtl: false
+    },
+    {
+      code: 'zh',
+      name: 'Traditional Chinese',
+      native: '中文',
+      defaultLocale: 'zh-TW',
+      supportedLocales: ['zh-TW', 'zh-HK', 'zh-MO'],
+      rtl: false
     }
   ],
   /**
@@ -408,14 +416,6 @@ export default {
         native: 'lingua Latīna',
         defaultLocale: 'la-EU',
         supportedLocales: ['la-EU', 'la-HU', 'la-HR', 'la-PL'],
-        rtl: false
-      },
-      {
-        code: 'zh',
-        name: 'Traditional Chinese',
-        native: '中文',
-        defaultLocale: 'zh-TW',
-        supportedLocales: ['zh-TW', 'zh-HK', 'zh-MO'],
         rtl: false
       }
     ]
