@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Verifita retpoŝto',
     'settings.email.add': 'Aldoni retpoŝton',
     'settings.languages.title': 'Lingvaj agordoj',
-    'settings.languages.notice': 'La angla nuntempe estas la sola oficiala subtenata lingvo. Aliaj lingvoj estas disponeblaj dank\' al bonegaj volontuloj, sed ili eble ankoraŭ estas nekompletaj.',
+    'settings.languages.notice': 'La angla kaj la ĉeĥa nuntempe estas la nur oficialaj subtenataj lingvoj. Aliaj lingvoj estas haveblaj dank\'al bonegaj volontuloj kaj inteligenta aŭtomata traduko, sed ili eble ankoraŭ estas nekompletaj kaj malĝustaj en kelkaj lokoj.',
     'settings.languages.join': 'Se vi volas helpi nin, vi povas ankaŭ traduki Literary Universe.',
     'settings.name.title': 'Vera nomo',
     'settings.name.given': 'Donita nomo',
