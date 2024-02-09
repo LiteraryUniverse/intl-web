@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Na-verify na e-mail',
     'settings.email.add': 'Magdagdag ng e-mail',
     'settings.languages.title': 'Mga setting ng wika',
-    'settings.languages.notice': 'Ang Ingles ang tanging opisyal na suportadong wika ngayon. Ang iba pang mga wika ay magagamit dahil sa mga kahanga-hangang boluntaryo, pero maaaring hindi pa kumpleto.',
+    'settings.languages.notice': 'Sa ngayon, ang Ingles at Czech lamang ang opisyal na suportadong mga wika. Ang ibang mga wika ay available salamat sa mga kamangha-manghang volunteers at AI translation, ngunit maaaring hindi pa ito kumpleto at tama sa ilang mga lugar.',
     'settings.languages.join': 'Kung nais mong tumulong sa amin, maaari kang mag-translate ng Literary Universe rin.',
     'settings.name.title': 'Tunay na pangalan',
     'settings.name.given': 'Pangalan',
