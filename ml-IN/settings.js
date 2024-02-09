@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Verified e-mail',
     'settings.email.add': 'Add e-mail',
     'settings.languages.title': 'Language settings',
-    'settings.languages.notice': 'English is currently the only officially supported language. Other languages are available thanks to amazing volunteers, but they might still be incomplete.',
+    'settings.languages.notice': 'ഇംഗ്ലീഷ് ആന്റ് ചെക്ക് നിലവാരമാണ് പ്രസ്ഥാനത്തിന് പിന്നിൽ പിന്നെ പിന്തുണയ്ക്കുന്ന ഭാഷകളാണ്. മറ്റ് ഭാഷകളെ അതിന്റെ അദ്ധ്യാപകരുടെയും AI പരിഭാഷയുടെയും സഹായത്താൽ ലഭ്യമാണ്, പക്ഷേ അവ ഇനിയും പൂർണ്ണമായി അനുപൂർവ്വമായിരിക്കാനാകില്ലാത്തതാണ്.',
     'settings.languages.join': 'If you would like to help us, you can translate Literary Universe as well.',
     'settings.name.title': 'Real name',
     'settings.name.given': 'Given name',
