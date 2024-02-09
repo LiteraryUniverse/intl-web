@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'གནས་བསྐུར་བདག་སྐྱེད།',
     'settings.email.add': 'གནས་བསྐུར་གསར་འགྱུར་བརྗོད་པའི་གནས་བསྐུར་གནང་།',
     'settings.languages.title': 'སྐད་རིགས་གྱི་སྐབས་ཀྱི་གནས་བསྐུར།',
-    'settings.languages.notice': 'ཨང་གྲངས་གསར་འགྱུར་བརྗོད་པའི་སྐད་རིགས་རྩིས་བརྗོད་གསུང་བརྗོད་དང་གནས་བསྐུར་བརྒྱུད་རྩིས་གྲངས་པའི་སྐད་རིགས་བསྐུར་ཡོད་པའི་སྐད་རིགས་གནས་སྐབས་བརྗོད་དང་བརྗོད་པའི་སྐད་རིགས་སྐད་རིགས་བརྗོད་པའི་གནས་སྐབས།',
+    'settings.languages.notice': 'English and Czech are currently the only officially supported languages. Other languages are available thanks to amazing volunteers and AI translation, but they might still be incomplete and incorrect in places.',
     'settings.languages.join': 'ཁྱེད་ཀྱི་འདྲ་བཤུས་བྱེད་པའི་བརྗོད་པ་འདི་མིན་འདུག',
     'settings.name.title': 'མིང་ཆ།',
     'settings.name.given': 'མིང་འགོ་བཙུགས།',
