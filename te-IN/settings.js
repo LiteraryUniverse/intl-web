@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Verified e-mail',
     'settings.email.add': 'Add e-mail',
     'settings.languages.title': 'Language settings',
-    'settings.languages.notice': 'English is currently the only officially supported language. Other languages are available thanks to amazing volunteers, but they might still be incomplete.',
+    'settings.languages.notice': 'ఇంగ్లీష్ మరియు చెక్ ప్రస్తుతం మాత్రమే అధికారికంగా మద్దతు చేసే భాషలు. మరియుల్లోని భాషలు అద్భుతమైన స్వంతంత్ర సేవలు మరియు AI అనువాదం వల్ల అందరికీ అందుబాటులో ఉన్నాయి, కానీ వాటిలో కొన్ని స్థలాల్లో పూర్తిగా లేక తప్పనిసరిగా ఉండవచ్చు.',
     'settings.languages.join': 'If you would like to help us, you can translate Literary Universe as well.',
     'settings.name.title': 'Real name',
     'settings.name.given': 'Given name',
