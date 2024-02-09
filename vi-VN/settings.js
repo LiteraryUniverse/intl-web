@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'E-mail đã xác minh',
     'settings.email.add': 'Thêm e-mail',
     'settings.languages.title': 'Cài đặt ngôn ngữ',
-    'settings.languages.notice': 'Hiện tại, tiếng Anh là ngôn ngữ được hỗ trợ chính thức duy nhất. Các ngôn ngữ khác có sẵn nhờ sự đóng góp tuyệt vời của các tình nguyện viên, nhưng có thể vẫn chưa hoàn thiện.',
+    'settings.languages.notice': 'Tiếng Anh và Tiếng Séc hiện tại là hai ngôn ngữ được hỗ trợ chính thức. Các ngôn ngữ khác có sẵn nhờ sự đóng góp tuyệt vời của các tình nguyện viên và trí tuệ nhân tạo, nhưng có thể vẫn chưa hoàn chỉnh và không chính xác ở một số nơi.',
     'settings.languages.join': 'Nếu bạn muốn giúp chúng tôi, bạn cũng có thể dịch Literary Universe.',
     'settings.name.title': 'Tên thật',
     'settings.name.given': 'Tên đầu',
