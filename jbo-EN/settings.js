@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Jbera lo djanca',
     'settings.email.add': 'Tumla lo djanca',
     'settings.languages.title': 'Klesi lo bangu',
-    'settings.languages.notice': 'Lo glibau cu zasti la\'e di\'u lo bangu je\'u lo nu do cilre fi lo glibau cu se zasti lo nu lo do jibri cu se jalge fi lo sevzi lo nu do jorne',
+    'settings.languages.notice': '.i .inglis. .ije. .ceske. cu .ca\'e. .jimpe. .lo .ckire. .bangu. .i .lo .drata. .bangu. cu .zenba. .lo .volunteer. .ku\'e. .e .lo .AI. .jufra. .i .taso. .lo .plise. .ku\'o. .lo .ckire. .bangu. cu na .jalge.',
     'settings.languages.join': 'Xu do ca cilre fi lo nu do sidju mi lo nu mi jorne lo glibau be lo sevzi',
     'settings.name.title': 'Stuzi be lo sevzi',
     'settings.name.given': 'Lo du\'acme',
