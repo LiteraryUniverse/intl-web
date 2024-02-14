@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Serĉu universojn',
     'discover.search.storyStatus': 'Stara progreso de la rakonto',
     'story.status.complete': 'Plena',
-    'story.status.inProgress': 'Progresanta',
+    'story.status.inProgress': 'Daŭranta',
     'discover.search.universeConnection': 'Rilato de rakonto al universo',
     'story.universeRelation.standalone': 'Memstara rakonto',
     'story.universeRelation.fanFiction': 'Fanfikcio',
