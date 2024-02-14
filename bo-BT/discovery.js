@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'བརྗོད་གསར་བརྗོད་གང་རེ་འཚོལ་ཞིབ།',
     'discover.search.storyStatus': 'གློག་འཕྲིན་གསར་བརྗོད་གནས་སྐྱེད།',
     'story.status.complete': 'མཇུག་གི་གློག་འཕྲིན།',
-    'story.status.inProgress': 'ལས་གཞི་གློག་འཕྲིན།',
+    'story.status.inProgress': 'འཛོལ་ཞིབ།',
     'discover.search.universeConnection': 'གློག་འཕྲིན་གསར་བརྗོད་དང་བརྗོད་ཀྱིས་འཚོལ་ཞིབ།',
     'story.universeRelation.standalone': 'བརྗོད་གསར་བརྗོད་གང་རེ་འཚོལ་ཞིབ།',
     'story.universeRelation.fanFiction': 'འཕྲིན་གསར་བརྗོད་གང་རེ་འཚོལ་ཞིབ།',
