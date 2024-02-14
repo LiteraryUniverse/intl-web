@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ବିଶ୍ବସମ୍ବନ୍ଧଗୁଡ଼ିକା ଖୋଜନ୍ତୁ',
     'discover.search.storyStatus': 'ଗଳ୍ପ ପ୍ରଗତି ଅବସ୍ଥା',
     'story.status.complete': 'ସମ୍ପୂର୍ଣ',
-    'story.status.inProgress': 'ଚାଳିଛିତ',
+    'story.status.inProgress': 'ଚାଲୁ ଅଛି',
     'discover.search.universeConnection': 'ଗଳ୍ପରେ ବିଶ୍ବସମ୍ବନ୍ଧ',
     'story.universeRelation.standalone': 'ସ୍ଥାନିକ ଗଳ୍ପ',
     'story.universeRelation.fanFiction': 'ଫାଣ୍ ଫିକ୍ସନ',
