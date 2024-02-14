@@ -28,7 +28,7 @@ export default {
     'discover.searchUniverse.description': 'Поиск вселенных',
     'discover.search.storyStatus': 'Состояние прогресса истории',
     'story.status.complete': 'Закончена',
-    'story.status.inProgress': 'В разработке',
+    'story.status.inProgress': 'В процессе',
     'discover.search.universeConnection': 'Подключение истории к вселенной',
     'story.universeRelation.standalone': 'Отдельная история',
     'story.universeRelation.fanFiction': 'Фанфик',
