@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Tìm kiếm các vũ trụ',
     'discover.search.storyStatus': 'Trạng thái tiến độ câu chuyện',
     'story.status.complete': 'Hoàn thành',
-    'story.status.inProgress': 'Đang tiến hành',
+    'story.status.inProgress': 'Đang tiếp diễn',
     'discover.search.universeConnection': 'Kết nối của câu chuyện với vũ trụ',
     'story.universeRelation.standalone': 'Câu chuyện độc lập',
     'story.universeRelation.fanFiction': 'Fan Fiction',
