@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Ieškoti visatų',
     'discover.search.storyStatus': 'Istorijos pažangos būsena',
     'story.status.complete': 'Užbaigta',
-    'story.status.inProgress': 'Vyksta',
+    'story.status.inProgress': 'Vykstantis',
     'discover.search.universeConnection': 'Istorijos ryšys su visata',
     'story.universeRelation.standalone': 'Atskira istorija',
     'story.universeRelation.fanFiction': 'Fanų kūrinys',
