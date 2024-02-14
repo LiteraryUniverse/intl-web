@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2024-02-XX - v2.12.1
+
+* `story.status.inProgress` term updated
+
 ## 2024-02-09 - v2.12.0
 
 * Updated `settings.languages.notice` to include mention of AI generated translations
