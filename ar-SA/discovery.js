@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ابحث عن كواكب',
     'discover.search.storyStatus': 'حالة تقدم القصة',
     'story.status.complete': 'مكتملة',
-    'story.status.inProgress': 'قيد التنفيذ',
+    'story.status.inProgress': 'قائم',
     'discover.search.universeConnection': 'ارتباط القصة بالكون',
     'story.universeRelation.standalone': 'قصة مستقلة',
     'story.universeRelation.fanFiction': 'قصة مشتقة من المعجبين',
