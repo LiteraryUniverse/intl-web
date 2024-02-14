@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'celxa se samselvinji',
     'discover.search.storyStatus': 'samselvinji pe skina',
     'story.status.complete': 'pipno',
-    'story.status.inProgress': 'lukin',
+    'story.status.inProgress': 'Ciska',
     'discover.search.universeConnection': 'steci-be-lo-skina tangra',
     'story.universeRelation.standalone': 'samselvinji pe solri pe skina',
     'story.universeRelation.fanFiction': 'samselvinji pe mivmu\'i lo skina',
