@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'უნივერსების ძიება',
     'discover.search.storyStatus': 'ისტორიის პროგრესის სტატუსი',
     'story.status.complete': 'დასრულებული',
-    'story.status.inProgress': 'პროცესში',
+    'story.status.inProgress': 'მიმდინარეობს',
     'discover.search.universeConnection': 'ისტორიის კავშირი უნივერსულისთვის',
     'story.universeRelation.standalone': 'ცივი ისტორია',
     'story.universeRelation.fanFiction': 'ფან ფიქშენი',
