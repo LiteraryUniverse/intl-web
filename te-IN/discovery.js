@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'యూనివర్సులకు శోధించండి',
     'discover.search.storyStatus': 'కథ పురావ స్థితి',
     'story.status.complete': 'పూర్తి చేయబడింది',
-    'story.status.inProgress': 'ప్రగతింపులో',
+    'story.status.inProgress': 'చల్లిసారి',
     'discover.search.universeConnection': 'కథకు యూనివర్సు కనెక్షన్',
     'story.universeRelation.standalone': 'అన్నీంటిని స్వతంత్ర కథ',
     'story.universeRelation.fanFiction': 'ఫాన్ ఫిక్షన్',
