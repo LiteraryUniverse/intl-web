@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Bir evren arayın',
     'discover.search.storyStatus': 'Hikaye ilerleme durumu',
     'story.status.complete': 'Tamamlandı',
-    'story.status.inProgress': 'Devam ediyor',
+    'story.status.inProgress': 'Devam Ediyor',
     'discover.search.universeConnection': 'Hikayenin evrene bağlantısı',
     'story.universeRelation.standalone': 'Bağımsız hikaye',
     'story.universeRelation.fanFiction': 'Hayran Hikayesi',
