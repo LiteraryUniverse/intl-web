@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Hae universumeja',
     'discover.search.storyStatus': 'Tarinan edistyminen',
     'story.status.complete': 'Valmis',
-    'story.status.inProgress': 'Käynnissä',
+    'story.status.inProgress': 'Kesken',
     'discover.search.universeConnection': 'Tarinan yhdistäminen universumiin',
     'story.universeRelation.standalone': 'Erillinen tarina',
     'story.universeRelation.fanFiction': 'Fani-fiktio',
