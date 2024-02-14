@@ -25,7 +25,7 @@ export default {
   'discover.searchUniverse.description': 'Search for a universes',
   'discover.search.storyStatus': 'Story progress status',
   'story.status.complete': 'Complete',
-  'story.status.inProgress': 'In-progress',
+  'story.status.inProgress': 'Ongoing',
   'discover.search.universeConnection': 'Connection of story to universe',
   'story.universeRelation.standalone': 'Standalone story',
   'story.universeRelation.fanFiction': 'Fan Fiction',
