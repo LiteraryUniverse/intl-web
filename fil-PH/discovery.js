@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'I-search ang mga palapagang mundo',
     'discover.search.storyStatus': 'Katayuang pag-angat ng kwento',
     'story.status.complete': 'Kumpleto',
-    'story.status.inProgress': 'Nasa proseso',
+    'story.status.inProgress': 'Patuloy',
     'discover.search.universeConnection': 'Koneksyon ng kwento sa palapagang mundo',
     'story.universeRelation.standalone': 'Kwento na mag-isa',
     'story.universeRelation.fanFiction': 'Fan Fiction',
