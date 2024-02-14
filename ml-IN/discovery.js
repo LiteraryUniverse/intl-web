@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'യൂണിവേഴ്സുകൾ തിരയൽ',
     'discover.search.storyStatus': 'കഥയുടെ പുരോഗതി സ്ഥിതി',
     'story.status.complete': 'പൂർത്തിയായി',
-    'story.status.inProgress': 'പുരോഗതിയിൽ',
+    'story.status.inProgress': 'പുരോഗതിയിലാണ്',
     'discover.search.universeConnection': 'കഥയും യൂണിവേഴ്സും ബന്ധപ്പെടുത്തൽ',
     'story.universeRelation.standalone': 'സ്വതന്ത്ര കഥ',
     'story.universeRelation.fanFiction': 'ഫാൻ ഫിക്ഷൻ',
