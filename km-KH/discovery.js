@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ស្វែងរកជីវិតច្រើននឹងច្រើនជីវិត',
     'discover.search.storyStatus': 'ស្ថានភាគរឿង',
     'story.status.complete': 'បញ្ចប់',
-    'story.status.inProgress': 'ក្រោយពេលប្រតេជន',
+    'story.status.inProgress': 'កំពុងតែបន្ត',
     'discover.search.universeConnection': 'ការភ្ជាប់រឿងទៅជីវិត',
     'story.universeRelation.standalone': 'រឿងមួយចំនួន',
     'story.universeRelation.fanFiction': 'ប្រភេទខ្លួនឯកសារ',
