@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Caută universuri',
     'discover.search.storyStatus': 'Statusul progresului povestirii',
     'story.status.complete': 'Completă',
-    'story.status.inProgress': 'În desfășurare',
+    'story.status.inProgress': 'În curs',
     'discover.search.universeConnection': 'Legătura povestirii cu universul',
     'story.universeRelation.standalone': 'Poveste independentă',
     'story.universeRelation.fanFiction': 'Fan Fiction',
