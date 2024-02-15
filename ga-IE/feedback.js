@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Cúnamh agus Teagasc',
     'feedback.help.desc': 'Conas a dhéanann tú _____? Téigh anseo chun na freagraí a fháil.',
     'feedback.desc': 'Fáilte chuig ár ionad cúnamh agus réiteach!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Oscailte',
     'feedback.closed': 'Dúnta',
     'feedback.accepted': 'Glactha',
@@ -50,5 +52,15 @@ export default {
     universe {domhan}
     story {scéal}
     other {scéal}
-  } atá á gcruthú?`
+  } atá á gcruthú?`,
+    'faq.section.about': 'Eolas fúinn',
+    'faq.section.settings': 'Socruithe',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Leabharlann',
+    'faq.section.workshop': 'Ceardlann',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
