@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Hilfe & Tutorials',
     'feedback.help.desc': 'Wie funktioniert _____? Gehen Sie hier, um die Antworten zu finden.',
     'feedback.desc': 'Willkommen in unserem Hilfe- und Lösungscenter!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Geöffnet',
     'feedback.closed': 'Geschlossen',
     'feedback.accepted': 'Angenommen',
@@ -50,5 +52,15 @@ export default {
     universe {Universum}
     story {Geschichte}
     other {Geschichte}
-  } wird verletzt?`
+  } wird verletzt?`,
+    'faq.section.about': 'Über uns',
+    'faq.section.settings': 'Einstellungen',
+    'faq.section.discovery': 'Entdeckung',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Bibliothek',
+    'faq.section.workshop': 'Werkstatt',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Enzyklopädie',
+    'faq.section.groups': 'Gruppe',
+    'faq.section.blogs': 'Blogs'
 };
