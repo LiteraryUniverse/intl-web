@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'সাহায্য এবং টিউটোরিয়াল',
     'feedback.help.desc': 'আপনি কিভাবে _____করবেন? উত্তর পেতে এখানে যান।',
     'feedback.desc': 'আমাদের সাহায্য এবং সমাধান কেন্দ্রে আপনাকে স্বাগতম!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'খোলা',
     'feedback.closed': 'বন্ধ',
     'feedback.accepted': 'গৃহীত',
@@ -50,5 +52,15 @@ export default {
     universe {পৰিবেশ}
     story {গল্প}
     other {গল্প}
-  } লংঘন কৰা হৈছে?`
+  } লংঘন কৰা হৈছে?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'সেটিংস',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'লাইব্রেরী',
+    'faq.section.workshop': 'কার্যশালা',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
