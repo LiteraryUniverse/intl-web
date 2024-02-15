@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'المساعدة والبرامج التعليمية',
     'feedback.help.desc': 'كيف يمكن أن _____؟ انتقل هنا للعثور على الإجابات.',
     'feedback.desc': 'مرحبًا بك في مركز المساعدة والحلول الخاص بنا!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'مفتوح',
     'feedback.closed': 'مغلق',
     'feedback.accepted': 'تم قبوله',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'نبذة عنا',
+    'faq.section.settings': 'الإعدادات',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'المكتبة',
+    'faq.section.workshop': 'ورشة عمل',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'الموسوعة',
+    'faq.section.groups': 'المجموعات',
+    'faq.section.blogs': 'المدونات'
 };
