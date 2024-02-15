@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Ajutor și tutoriale',
     'feedback.help.desc': 'Cum faci _____? Mergi aici pentru a găsi răspunsurile.',
     'feedback.desc': 'Bine ai venit în centrul nostru de ajutor și rezoluții!',
+    'feedback.faq': 'Întrebări frecvente',
+    'feedback.faq.desc': 'Întrebări frecvente',
     'feedback.open': 'Deschis',
     'feedback.closed': 'Închis',
     'feedback.accepted': 'Acceptat',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'Despre noi',
+    'faq.section.settings': 'Setări',
+    'faq.section.discovery': 'Descoperire',
+    'faq.section.reader': 'Cititor',
+    'faq.section.library': 'Bibliotecă',
+    'faq.section.workshop': 'Atelier',
+    'faq.section.writer': 'Scriitor',
+    'faq.section.encyclopedia': 'Enciclopedie',
+    'faq.section.groups': 'Grupuri',
+    'faq.section.blogs': 'Bloguri'
 };
