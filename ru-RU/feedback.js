@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Помощь и руководства',
     'feedback.help.desc': 'Как сделать _____? Перейдите сюда, чтобы найти ответы.',
     'feedback.desc': 'Добро пожаловать в наш центр помощи и решений!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Открыто',
     'feedback.closed': 'Закрыто',
     'feedback.accepted': 'Принято',
@@ -50,5 +52,15 @@ export default {
     universe {вселенная}
     story {история}
     other {история}
-  } нарушается?`
+  } нарушается?`,
+    'faq.section.about': 'О нас',
+    'faq.section.settings': 'Настройки',
+    'faq.section.discovery': 'Исследовать',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Библиотека',
+    'faq.section.workshop': 'Мастерская',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Энциклопедия',
+    'faq.section.groups': 'Группы',
+    'faq.section.blogs': 'Блоги'
 };
