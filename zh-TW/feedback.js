@@ -7,6 +7,8 @@ export default {
     'feedback.help': '幫助和教程',
     'feedback.help.desc': '您如何 _____？請到這裡找答案。',
     'feedback.desc': '歡迎來到我們的幫助和解決中心！',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': '開放',
     'feedback.closed': '已關閉',
     'feedback.accepted': '已接受',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': '關於我們',
+    'faq.section.settings': '設定',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': '音樂庫',
+    'faq.section.workshop': '工作坊',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': '部落格'
 };
