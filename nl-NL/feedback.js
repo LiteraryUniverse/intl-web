@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Hulp & Handleidingen',
     'feedback.help.desc': 'Hoe werkt _____? Ga hierheen om de antwoorden te vinden.',
     'feedback.desc': 'Welkom bij ons hulp- en oplossingscentrum!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Open',
     'feedback.closed': 'Gesloten',
     'feedback.accepted': 'Geaccepteerd',
@@ -50,5 +52,15 @@ export default {
     universe {universum}
     story {verhaal}
     other {verhaal}
-  } wordt geschonden?`
+  } wordt geschonden?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Instellingen',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Bibliotheek',
+    'faq.section.workshop': 'Workshop',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
