@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'Dove vengono memorizzati i dati di LU?',
     'faq.answer.about.dataLocation': 'I dati dell\'Universo Letterario sono memorizzati su server negli Stati Uniti d\'America, nello specifico nella regione AWS us-east-1.',
     'faq.question.about.incorporation': 'Dove siete incorporati?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'L\'Universo Letterario è incorporato nella Repubblica Ceca. Puoi trovare ulteriori dettagli sulla nostra pagina <a href="/about">su di noi</a>.',
+    'faq.question.about.roadmap': 'Quali sono i prossimi passi per l\'Universo Letterario?',
+    'faq.answer.about.roadmap': 'Questo è in costante evoluzione. Dai un\'occhiata alla nostra <a href="/roadmap">roadmap</a> per ulteriori dettagli.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'Come posso cambiare l\'aspetto dell\'Universo Letterario?',
+    'faq.answer.settings.changeTheme': 'Gli utenti registrati possono cambiare il loro tema nelle impostazioni dell\'account <a href="/user/settings/account"></a> nella sezione "temi del sito". Abbiamo a disposizione un tema chiaro e un tema scuro. Se non sei registrato, cerchiamo di determinare quale tema servirti in base alle impostazioni del tuo browser e del tuo sistema operativo.',
+    'faq.question.settings.changeAvatar': 'Come posso cambiare il mio avatar?',
+    'faq.answer.settings.changeAvatar': 'Puoi cambiare il tuo avatar nelle impostazioni del profilo <a href="/user/settings/profile"></a>.',
+    'faq.question.settings.changeLanguage': 'Come posso cambiare la lingua?',
+    'faq.answer.settings.changeLanguage': 'Puoi cambiare la lingua dell\'Universo Letterario nelle impostazioni dell\'account <a href="/user/settings/account"></a>.',
+    'faq.question.settings.translationMistake': 'Ho trovato un errore nel testo sul sito web, dove posso segnalarlo?',
+    'faq.answer.settings.translationMistake': 'Tutti i nostri file di lingua sono disponibili su GitHub. Puoi <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">segnalare un problema lì</a> o nella sezione Bug del feedback, oppure, se lo desideri, puoi correggerlo direttamente tu stesso tramite <a href="https://crowdin.com/project/literary-universe" target="_blank">la nostra pagina Crowdin</a>.'
 };
