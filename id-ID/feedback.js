@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Bantuan & Tutorial',
     'feedback.help.desc': 'Bagaimana cara Anda _____? Pergi ke sini untuk menemukan jawabannya.',
     'feedback.desc': 'Selamat datang di pusat bantuan dan penyelesaian kami!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Terbuka',
     'feedback.closed': 'Tertutup',
     'feedback.accepted': 'Diterima',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'Tentang kami',
+    'faq.section.settings': 'Pengaturan',
+    'faq.section.discovery': 'Jelajah',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Pustaka',
+    'faq.section.workshop': 'Workshop',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Ensiklopedia',
+    'faq.section.groups': 'Grup',
+    'faq.section.blogs': 'Blog'
 };
