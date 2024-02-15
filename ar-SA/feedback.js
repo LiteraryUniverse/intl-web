@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'أين يتم تخزين بيانات LU؟',
     'faq.answer.about.dataLocation': 'تُخزن بيانات الكون الأدبي في خوادم في الولايات المتحدة الأمريكية، تحديدًا في منطقة AWS us-east-1.',
     'faq.question.about.incorporation': 'أين تم تأسيسكم؟',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'تم تأسيس Literary Universe في جمهورية التشيك. يمكنك العثور على مزيد من التفاصيل في صفحة <a href="/about">حولنا</a>.',
+    'faq.question.about.roadmap': 'ما هي الخطوات التالية لـ Literary Universe؟',
+    'faq.answer.about.roadmap': 'هذا يتطور باستمرار. تحقق من <a href="/roadmap">خارطة الطريق</a> لدينا لمزيد من التفاصيل.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+    'faq.question.settings.changeTheme': 'كيف يمكنني تغيير مظهر Literary Universe؟',
     'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
+    'faq.question.settings.changeAvatar': 'كيف يمكنني تغيير صورتي الرمزية؟',
     'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
+    'faq.question.settings.changeLanguage': 'كيف يمكنني تغيير اللغة؟',
     'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.translationMistake': 'لقد وجدت خطأ في النص على الموقع ، أين يمكنني الإبلاغ عنه؟',
+    'faq.answer.settings.translationMistake': 'جميع ملفات اللغة الخاصة بنا متاحة على GitHub. يمكنك <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">تقديم مشكلة هناك</a> أو في قسم الأخطاء من التعليقات ، أو إذا كنت ميالًا لذلك ، يمكنك إصلاحها مباشرة بنفسك عبر <a href="https://crowdin.com/project/literary-universe" target="_blank">صفحتنا على Crowdin</a>.'
 };
