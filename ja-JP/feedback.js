@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'ヘルプ・操作解説',
     'feedback.help.desc': 'こんにちは_____？ 回答はこちらに進んでください。',
     'feedback.desc': '問題解決ヘルプ・サポートセンターへようこそ！',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': '開いた',
     'feedback.closed': '閉館',
     'feedback.accepted': '承認されました',
@@ -50,5 +52,15 @@ export default {
     universe {宇宙}
     story {物語}
     other {物語}
-  }が侵害されていますか？`
+  }が侵害されていますか？`,
+    'faq.section.about': '私たちについて',
+    'faq.section.settings': '設定',
+    'faq.section.discovery': '発見',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'ライブラリー',
+    'faq.section.workshop': 'ワークショップ',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'エンサイクロペディア',
+    'faq.section.groups': 'グループ',
+    'faq.section.blogs': 'ブログ'
 };
