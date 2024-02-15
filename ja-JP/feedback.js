@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'LUデータはどこに保存されていますか？',
     'faq.answer.about.dataLocation': 'Literary Universeのデータは、特にAWSのus-east-1リージョンにあるサーバーに保存されています。',
     'faq.question.about.incorporation': 'どこに法人登記されていますか？',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'Literary Universeはチェコ共和国に法人登記されています。詳細は <a href="/about">私たちについて</span>のページ</a>でご確認いただけます。',
+    'faq.question.about.roadmap': 'Literary Universeの次のステップは何ですか？',
+    'faq.answer.about.roadmap': 'これは常に進化しています。詳細は <a href="/roadmap">ロードマップ</span>をご覧ください。</a>',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+    'faq.question.settings.changeTheme': 'Literary Universeの外観を変更する方法は？',
     'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
+    'faq.question.settings.changeAvatar': 'アバターを変更する方法は？',
     'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
+    'faq.question.settings.changeLanguage': '言語を変更する方法は？',
     'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
+    'faq.question.settings.translationMistake': 'ウェブサイトのテキストに誤りを見つけました。どこで報告すればいいですか？',
     'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
 };
