@@ -7,8 +7,8 @@ export default {
     'feedback.help': 'Help & Tutorials',
     'feedback.help.desc': 'How do you _____? Go here to find the answers.',
     'feedback.desc': 'Welcome to our help and resolution center!',
-    'feedback.faq': 'FAQ',
-    'feedback.faq.desc': 'Frequently asked questions',
+    'feedback.faq': 'សំណួរដែលដូចជា',
+    'feedback.faq.desc': 'សំណួរដែលសួរញឹកញាប់ទាក់ទងគ្នា',
     'feedback.open': 'Open',
     'feedback.closed': 'Closed',
     'feedback.accepted': 'Accepted',
@@ -53,14 +53,30 @@ export default {
     story {story}
     other {story}
   } is being infringed?`,
-    'faq.section.about': 'About us',
+    'faq.section.about': 'អំពីពួកយើង',
     'faq.section.settings': 'ការកំណត់',
-    'faq.section.discovery': 'Discovery',
-    'faq.section.reader': 'Reader',
+    'faq.section.discovery': 'ការរកឃើញ',
+    'faq.section.reader': 'អ្នកអាន',
     'faq.section.library': 'បណ្ណាល័យ',
     'faq.section.workshop': 'សិក្សា',
-    'faq.section.writer': 'Writer',
-    'faq.section.encyclopedia': 'Encyclopedia',
-    'faq.section.groups': 'Groups',
-    'faq.section.blogs': 'Blogs'
+    'faq.section.writer': 'អ្នកសរសេរ',
+    'faq.section.encyclopedia': 'អក្សរសម្រាប់អត្ថបទបណ្ដឹង',
+    'faq.section.groups': 'ក្រុម',
+    'faq.section.blogs': 'ប្លុក',
+    // About us questions
+    'faq.question.about.dataLocation': 'ទីតាំងរបស់ទិន្នន័យ LU ត្រូវបានរក្សាទុកនៅទីតាំងណា?',
+    'faq.answer.about.dataLocation': 'ទិន្នន័យនៃ Literary Universe ត្រូវបានរក្សាទុកនៅលើម៉ាស៊ីនបម្រើនទីតាំងនៅសហរដ្ឋអាមេរិក និងជាពិសេសនៅតំបន់ us-east-1 នៃ AWS។',
+    'faq.question.about.incorporation': 'អ្នកបានបង្កើតក្រុមហ៊ុននៅទីតាំងណា?',
+    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
+    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
+    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    // Settings questions
+    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
+    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
+    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
+    'faq.question.settings.changeLanguage': 'How do I change the language?',
+    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
+    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
+    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
 };
