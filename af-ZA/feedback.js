@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Hulp & Tutoriale',
     'feedback.help.desc': 'Hoe doen jy _____? Gaan hierheen om die antwoorde te vind.',
     'feedback.desc': 'Welkom by ons hulp- en oplossingsentrum!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Oop',
     'feedback.closed': 'Gesluit',
     'feedback.accepted': 'Aanvaar',
@@ -50,5 +52,15 @@ export default {
     universe {heelal se}
     story {storie}
     other {storie}
-  } word geskend?`
+  } word geskend?`,
+    'faq.section.about': 'Oor Ons',
+    'faq.section.settings': 'Instellings',
+    'faq.section.discovery': 'Ontdek',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Biblioteek',
+    'faq.section.workshop': 'Werkswinkel',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Ensiklopedie',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
