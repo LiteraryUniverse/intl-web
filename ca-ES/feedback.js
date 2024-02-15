@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Ajuda i tutorials',
     'feedback.help.desc': 'Com ho fas per a _____? Vés aquí per trobar les respostes.',
     'feedback.desc': 'Benvingut al nostre centre d\'ajuda i resolució!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Obert',
     'feedback.closed': 'Tancat',
     'feedback.accepted': 'Acceptat',
@@ -50,5 +52,15 @@ export default {
     universe {univers}
     story {història}
     other {història}
-  } s'està infringint?`
+  } s'està infringint?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Configuració',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Biblioteca',
+    'faq.section.workshop': 'Taller',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
