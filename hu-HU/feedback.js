@@ -7,8 +7,8 @@ export default {
     'feedback.help': 'Segítség és útmutatók',
     'feedback.help.desc': 'Hogyan kell _____? Gyere ide, és találd meg a válaszokat.',
     'feedback.desc': 'Üdvözöljük a segítség- és problémamegoldó központunkban!',
-    'feedback.faq': 'FAQ',
-    'feedback.faq.desc': 'Frequently asked questions',
+    'feedback.faq': 'GYIK',
+    'feedback.faq.desc': 'Gyakran ismételt kérdések',
     'feedback.open': 'Megnyitva',
     'feedback.closed': 'Lezárt',
     'feedback.accepted': 'Elfogadva',
@@ -53,14 +53,30 @@ export default {
     story {történet}
     other {történet}
   } sérül?`,
-    'faq.section.about': 'About us',
+    'faq.section.about': 'Rólunk',
     'faq.section.settings': 'Beállítások',
-    'faq.section.discovery': 'Discovery',
-    'faq.section.reader': 'Reader',
+    'faq.section.discovery': 'Felfedezés',
+    'faq.section.reader': 'Olvasó',
     'faq.section.library': 'Könyvtár',
     'faq.section.workshop': 'Műhely',
-    'faq.section.writer': 'Writer',
-    'faq.section.encyclopedia': 'Encyclopedia',
-    'faq.section.groups': 'Groups',
-    'faq.section.blogs': 'Blogs'
+    'faq.section.writer': 'Író',
+    'faq.section.encyclopedia': 'Enciklopédia',
+    'faq.section.groups': 'Csoportok',
+    'faq.section.blogs': 'Blogok',
+    // About us questions
+    'faq.question.about.dataLocation': 'Hol van tárolva az LU adat?',
+    'faq.answer.about.dataLocation': 'A Literary Universe adatok az Amerikai Egyesült Államokban található szervereken vannak tárolva, konkrétan az AWS us-east-1 régióban.',
+    'faq.question.about.incorporation': 'Hol van bejegyezve a vállalat?',
+    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
+    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
+    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    // Settings questions
+    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
+    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
+    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
+    'faq.question.settings.changeLanguage': 'How do I change the language?',
+    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
+    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
+    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
 };
