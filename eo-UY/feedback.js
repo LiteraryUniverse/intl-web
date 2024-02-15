@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Helpo kaj instruoj',
     'feedback.help.desc': 'Kiel vi _____? Iru ĉi tien por trovi la respondojn.',
     'feedback.desc': 'Bonvenon al nia helpa kaj solva centro!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Malfermi',
     'feedback.closed': 'Fermi',
     'feedback.accepted': 'Akceptita',
@@ -50,5 +52,15 @@ export default {
     universe {universo}
     story {rakonto}
     other {rakonto}
-  } estas ŝteliĝanta?`
+  } estas ŝteliĝanta?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Agordoj',
+    'faq.section.discovery': 'Eltrovo',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Biblioteko',
+    'faq.section.workshop': 'Laborejo',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
