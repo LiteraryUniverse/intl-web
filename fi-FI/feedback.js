@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Ohjeet & Oppaat',
     'feedback.help.desc': 'Miten sinä _____? Etsi vastaukset täältä.',
     'feedback.desc': 'Tervetuloa apu- ja ratkaisukeskukseemme!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Avaa',
     'feedback.closed': 'Suljettu',
     'feedback.accepted': 'Hyväksytty',
@@ -50,5 +52,15 @@ export default {
     universe {universumin}
     story {tarinaa}
     other {tarinaa}
-  } loukataan?`
+  } loukataan?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Asetukset',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Kirjasto',
+    'faq.section.workshop': 'Työpaja',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
