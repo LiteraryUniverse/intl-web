@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'LU தரவு எங்கே சேமிக்கப்படுகிறது?',
     'faq.answer.about.dataLocation': 'இலக்கண உலகம் தரவு ஐகான்சர்கள் அமெரிக்கத்தின் ஐபிஎஸ்-கிழக்கு 1 பகுதியில் உள்ள சேவையகங்களில் சேமிக்கப்படுகின்றன.',
     'faq.question.about.incorporation': 'நீங்கள் எங்களிடம் சேர்க்கப்பட்டுள்ளீர்களா?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'இலக்கண உலகம் செசுகிய மாடலானது. எங்களைப் பற்றி மேலும் விவரங்களைப் பெற நீங்கள் இங்கே பார்க்க முடியும் <a href="/about">பக்கத்தில்</a>.',
+    'faq.question.about.roadmap': 'இலக்கண உலகம் அடுத்த படி என்ன தொடர்புகள் உள்ளன?',
+    'faq.answer.about.roadmap': 'இது தொடர்புகளின் மூலமாக செயல்படுகின்றது. மேலும் விவரங்களுக்கு எங்கள் <a href="/roadmap">தொடர்புகள் பக்கத்தை சோதிக்கவும்</a>.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+    'faq.question.settings.changeTheme': 'இலக்கண உலகம் பார்வையை எப்படி மாற்றுவது?',
     'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeAvatar': 'என்ன வடிவமைப்பை மாற்ற வேண்டும்?',
+    'faq.answer.settings.changeAvatar': 'நீங்கள் உங்களுடைய வடிவமைப்பை மாற்றலாம் <a href="/user/settings/profile">சுயவிவர அமைப்புகள்</a>.',
+    'faq.question.settings.changeLanguage': 'மொழியை எப்படி மாற்ற வேண்டும்?',
+    'faq.answer.settings.changeLanguage': 'இலக்கண உலகத்தின் மொழியை நீங்கள் மாற்றலாம் <a href="/user/settings/account">சுயவிவர அமைப்புகள்</a>.',
+    'faq.question.settings.translationMistake': 'வல்லுநரிடம் உள்ள உரையில் ஒரு தவறைக் கண்டுபிடித்தேன், அதை நான் எப்படி அறிவிக்க வேண்டும்?',
+    'faq.answer.settings.translationMistake': 'எங்கள் மொழி கோப்புகள் அனைத்தும் GitHub இல் கிடைக்கின்றன. நீங்கள் <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">அங்கே ஒரு பிரச்சனையை சமர்ப்பிக்க முடியும்</a> அல்லது பின்னர் விளக்கப்படும் பிரச்சனையையும் அல்லது நீங்கள் விரும்பினால், நீங்கள் தனிப்பட்டவராகவும் உட்பட்ட மூலத்தையும் மூடிவிடலாம் <a href="https://crowdin.com/project/literary-universe" target="_blank">எங்கள் கிரவூடின் பக்கம்</a>.'
 };
