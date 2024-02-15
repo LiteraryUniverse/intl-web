@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'איפה מאוחסנים נתוני LU?',
     'faq.answer.about.dataLocation': 'נתוני Literary Universe מאוחסנים על שרתים בארצות הברית, בדיוק באזור AWS us-east-1.',
     'faq.question.about.incorporation': 'איפה אתם מוסכמים?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'היקום הספרותי מוכנס בצ\'כיה. ניתן למצוא פרטים נוספים בעמוד <a href="/about">אודותינו</a>.',
+    'faq.question.about.roadmap': 'מהם השלבים הבאים עבור היקום הספרותי?',
+    'faq.answer.about.roadmap': 'זה כל הזמן מתפתח. בדקו את מפת הדרכים שלנו <a href="/roadmap">כאן</a> לפרטים נוספים.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'כיצד אני משנה את המראה של היקום הספרותי?',
+    'faq.answer.settings.changeTheme': 'משתמשים רשומים יכולים לשנות את הערכת הנושא שלהם בהגדרות החשבון <a href="/user/settings/account">כאן</a> בחלק "עיצוב האתר". יש לנו ערכות נושא בהירה וכהה זמינות. אם אינך רשום, אנו מנסים לקבוע איזו ערכת נושא להציע לך בהתאם להגדרות הדפדפן והמערכת הפעלה שלך.',
+    'faq.question.settings.changeAvatar': 'כיצד אני משנה את התמונה הזוגית שלי?',
+    'faq.answer.settings.changeAvatar': 'ניתן לשנות את התמונה הזוגית בהגדרות הפרופיל <a href="/user/settings/profile">כאן</a>.',
+    'faq.question.settings.changeLanguage': 'כיצד אני משנה את השפה?',
+    'faq.answer.settings.changeLanguage': 'ניתן לשנות את השפה של היקום הספרותי בהגדרות החשבון <a href="/user/settings/account">כאן</a>.',
+    'faq.question.settings.translationMistake': 'מצאתי טעות בטקסט באתר, איפה אני יכול לדווח על זאת?',
+    'faq.answer.settings.translationMistake': 'כל קבצי השפה שלנו זמינים ב-GitHub. ניתן ל <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">להגיש בעיה שם</a> או בחלק הבאגים של המשוב, או אם אתה מעוניין, ניתן לתקן ישירות בעצמך דרך <a href="https://crowdin.com/project/literary-universe" target="_blank">דף ה-Crowdin שלנו</a>.'
 };
