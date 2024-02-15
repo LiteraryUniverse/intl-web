@@ -62,5 +62,21 @@ export default {
     'faq.section.writer': 'Écrivain',
     'faq.section.encyclopedia': 'Encyclopédie',
     'faq.section.groups': 'Groupes',
-    'faq.section.blogs': 'Blogs'
+    'faq.section.blogs': 'Blogs',
+    // About us questions
+    'faq.question.about.dataLocation': 'Où les données de LU sont-elles stockées?',
+    'faq.answer.about.dataLocation': 'Les données de l\'Univers Littéraire sont stockées sur des serveurs aux États-Unis d\'Amérique, plus précisément dans la région AWS us-east-1.',
+    'faq.question.about.incorporation': 'Où êtes-vous incorporé?',
+    'faq.answer.about.incorporation': 'L\'Univers Littéraire est incorporé en République tchèque. Vous pouvez trouver plus de détails sur la page <a href="/about">à propos de nous</a>.',
+    'faq.question.about.roadmap': 'Quelles sont les prochaines étapes pour l\'Univers Littéraire?',
+    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    // Settings questions
+    'faq.question.settings.changeTheme': 'Comment changer l\'apparence de l\'Univers Littéraire?',
+    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
+    'faq.question.settings.changeAvatar': 'Comment changer mon avatar?',
+    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
+    'faq.question.settings.changeLanguage': 'Comment changer la langue?',
+    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
+    'faq.question.settings.translationMistake': 'J\'ai trouvé une erreur dans le texte sur le site web, où puis-je la signaler?',
+    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
 };
