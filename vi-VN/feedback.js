@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Trợ giúp & Hướng dẫn',
     'feedback.help.desc': 'Làm thế nào để bạn _____? Đến đây để tìm câu trả lời.',
     'feedback.desc': 'Chào mừng bạn đến trung tâm trợ giúp và giải quyết vấn đề của chúng tôi!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Mở',
     'feedback.closed': 'Đã đóng',
     'feedback.accepted': 'Đã chấp nhận',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'Về chúng tôi',
+    'faq.section.settings': 'Cài đặt',
+    'faq.section.discovery': 'Khám phá',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Thư viện',
+    'faq.section.workshop': 'Hội thảo',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Bách khoa toàn thư',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
