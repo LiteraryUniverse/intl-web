@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Segítség és útmutatók',
     'feedback.help.desc': 'Hogyan kell _____? Gyere ide, és találd meg a válaszokat.',
     'feedback.desc': 'Üdvözöljük a segítség- és problémamegoldó központunkban!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Megnyitva',
     'feedback.closed': 'Lezárt',
     'feedback.accepted': 'Elfogadva',
@@ -50,5 +52,15 @@ export default {
     universe {univerzum}
     story {történet}
     other {történet}
-  } sérül?`
+  } sérül?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Beállítások',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Könyvtár',
+    'faq.section.workshop': 'Műhely',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
