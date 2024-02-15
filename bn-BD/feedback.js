@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'Where is LU data stored?',
     'faq.answer.about.dataLocation': 'Literary Universe data is stored on servers in the United States of America, specifically AWS us-east-1 region.',
     'faq.question.about.incorporation': 'Where are you incorporated?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'লিটারেরি ইউনিভার্স চেক রিপাবলিকে প্রতিষ্ঠিত। আমাদের সম্পর্কের বিস্তারিত জানতে পারেন <a href="/about">আমাদের সম্পর্কে পৃষ্ঠা</a>এ।',
+    'faq.question.about.roadmap': 'লিটারেরি ইউনিভার্সের পরবর্তী পদক্ষেপগুলি কী?',
+    'faq.answer.about.roadmap': 'এটা সময়ক্রমে উন্নত হচ্ছে। বিস্তারিত জানতে আমাদের <a href="/roadmap">পথপ্রদর্শন পৃষ্ঠা</a> দেখুন।',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'লিটারেরি ইউনিভার্সের চেহারা কিভাবে পরিবর্তন করব?',
+    'faq.answer.settings.changeTheme': 'নিবন্ধিত ব্যবহারকারীরা তাদের থিমটি পরিবর্তন করতে পারেন <a href="/user/settings/account">অ্যাকাউন্ট সেটিংস</a> এর "সাইট থিমিং" সেকশনে। আমাদের একটি হালকা এবং একটি গাঢ় থিম উপলব্ধ। আপনি যদি নিবন্ধিত না হন, তবে আমরা আপনার ব্রাউজার এবং অপারেটিং সিস্টেম সেটিংস ভিত্তিক থিম পরিবর্তন করতে চেষ্টা করি।',
+    'faq.question.settings.changeAvatar': 'আমি কিভাবে আমার অবতার পরিবর্তন করব?',
+    'faq.answer.settings.changeAvatar': 'আপনি আপনার অবতারটি পরিবর্তন করতে পারেন <a href="/user/settings/profile">প্রোফাইল সেটিংস</a>এ।',
+    'faq.question.settings.changeLanguage': 'ভাষা কিভাবে পরিবর্তন করব?',
+    'faq.answer.settings.changeLanguage': 'আপনি লিটারেরি ইউনিভার্সের ভাষা পরিবর্তন করতে পারেন <a href="/user/settings/account">অ্যাকাউন্ট সেটিংস</a>এ।',
+    'faq.question.settings.translationMistake': 'ওয়েবসাইটে পাঠ্যে একটি ভুল খুঁজে পেলাম, এটি কোথায় রিপোর্ট করব?',
+    'faq.answer.settings.translationMistake': 'সমস্ত ভাষা ফাইলগুলি আমাদের জিটহাবে উপলব্ধ। আপনি <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">সেখানে একটি ইস্যু জমা দিতে পারেন</a> অথবা প্রতিক্রিয়ার বাগ বিভাগে বা যদি আপনি ইচ্ছাশক্তিসম্পন্ন হন তবে আপনি নিজে সরাসরি ঠিক করতে পারেন <a href="https://crowdin.com/project/literary-universe" target="_blank">আমাদের ক্রোউডিন পৃষ্ঠা</a>এর মাধ্যমে।'
 };
