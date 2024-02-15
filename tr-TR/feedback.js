@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Yardım ve Öğreticiler',
     'feedback.help.desc': '_____nasıl yapılır? Cevapları burada bulabilirsiniz.',
     'feedback.desc': 'Yardım ve çözüm merkezimize hoş geldiniz!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Açık',
     'feedback.closed': 'Kapalı',
     'feedback.accepted': 'Kabul edildi',
@@ -50,5 +52,15 @@ export default {
     universe {evrenin}
     story {hikayesi}
     other {hikayesi}
-  } ihlal ediliyor?`
+  } ihlal ediliyor?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Ayarlar',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Kütüphane',
+    'faq.section.workshop': 'Atölye',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
