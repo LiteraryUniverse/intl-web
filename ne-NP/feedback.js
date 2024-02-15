@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'सहायता र ट्युटोरियलहरू',
     'feedback.help.desc': 'तपाईंले कसरी _____? उत्तरहरू यहाँ खोज्नुहोस्।',
     'feedback.desc': 'हाम्रो सहायता र समस्या परिषदमा तपाईंलाई स्वागत छ!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'खुला',
     'feedback.closed': 'बन्द',
     'feedback.accepted': 'स्वीकार गरिएको',
@@ -50,5 +52,15 @@ export default {
     universe {ब्रह्माण्ड}
     story {कथा}
     other {कथा}
-  } अतिक्रमण भइरहेको छ?`
+  } अतिक्रमण भइरहेको छ?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'सेटिङ्स',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'लाइब्रेरी',
+    'faq.section.workshop': 'कार्यशाला',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
