@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'Dữ liệu LU được lưu trữ ở đâu?',
     'faq.answer.about.dataLocation': 'Dữ liệu Vũ trụ Văn học được lưu trữ trên các máy chủ tại Hoa Kỳ, cụ thể là khu vực AWS us-east-1.',
     'faq.question.about.incorporation': 'Bạn được thành lập ở đâu?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'Vũ trụ Văn học được thành lập tại Cộng hòa Séc. Bạn có thể tìm thêm chi tiết trên trang <a href="/about">về chúng tôi</a>.',
+    'faq.question.about.roadmap': 'Các bước tiếp theo cho Vũ trụ Văn học là gì?',
+    'faq.answer.about.roadmap': 'Điều này đang liên tục phát triển. Xem <a href="/roadmap">lộ trình</a> của chúng tôi để biết thêm chi tiết.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'Làm thế nào để thay đổi giao diện của Vũ trụ Văn học?',
+    'faq.answer.settings.changeTheme': 'Người dùng đã đăng ký có thể thay đổi chủ đề của mình trong cài đặt tài khoản <a href="/user/settings/account"></a> dưới phần "thiết lập trang web". Chúng tôi có sẵn chủ đề sáng và chủ đề tối. Nếu bạn chưa đăng ký, chúng tôi sẽ cố gắng xác định chủ đề phục vụ bạn dựa trên trình duyệt và cài đặt hệ điều hành của bạn.',
+    'faq.question.settings.changeAvatar': 'Làm thế nào để thay đổi avatar của tôi?',
+    'faq.answer.settings.changeAvatar': 'Bạn có thể thay đổi avatar của mình trong cài đặt hồ sơ <a href="/user/settings/profile"></a>.',
+    'faq.question.settings.changeLanguage': 'Làm thế nào để thay đổi ngôn ngữ?',
+    'faq.answer.settings.changeLanguage': 'Bạn có thể thay đổi ngôn ngữ của Vũ trụ Văn học trong cài đặt tài khoản <a href="/user/settings/account"></a>.',
+    'faq.question.settings.translationMistake': 'Tôi đã tìm thấy một lỗi trong văn bản trên trang web, tôi có thể báo cáo ở đâu?',
+    'faq.answer.settings.translationMistake': 'Tất cả các tệp ngôn ngữ của chúng tôi đều có sẵn trên GitHub. Bạn có thể <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">gửi một vấn đề tại đó</a> hoặc trong phần Góp ý của phần phản hồi, hoặc nếu bạn muốn, bạn có thể sửa trực tiếp qua <a href="https://crowdin.com/project/literary-universe" target="_blank">trang Crowdin của chúng tôi</a>.'
 };
