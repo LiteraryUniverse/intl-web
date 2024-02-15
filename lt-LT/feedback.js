@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Pagalba ir vadovėliai',
     'feedback.help.desc': 'Kaip jūs _____? Įeikite čia, kad rastumėte atsakymus.',
     'feedback.desc': 'Sveiki atvykę į mūsų pagalbos ir sprendimų centrą!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Atidaryta',
     'feedback.closed': 'Uždaryta',
     'feedback.accepted': 'Priimta',
@@ -50,5 +52,15 @@ export default {
     universe {visatos}
     story {istorijos}
     other {istorija}
-  } yra pažeidžiama?`
+  } yra pažeidžiama?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Nustatymai',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Biblioteka',
+    'faq.section.workshop': 'Dirbtuvė',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
