@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'Wo werden die LU-Daten gespeichert?',
     'faq.answer.about.dataLocation': 'Die Daten des Literarischen Universums werden auf Servern in den Vereinigten Staaten von Amerika gespeichert, genauer gesagt in der AWS us-east-1 Region.',
     'faq.question.about.incorporation': 'Wo sind Sie eingetragen?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'Literary Universe ist in der Tschechischen Republik eingetragen. Weitere Details findest du auf der <a href="/about">Über uns Seite</a>.',
+    'faq.question.about.roadmap': 'Was sind die nächsten Schritte für Literary Universe?',
+    'faq.answer.about.roadmap': 'Dies entwickelt sich ständig weiter. Schau dir unseren <a href="/roadmap">Fahrplan</a> für weitere Details an.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'Wie ändere ich das Aussehen von Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Registrierte Benutzer können ihr Thema in den <a href="/user/settings/account">Kontoeinstellungen</a> unter dem Abschnitt "Seiten-Theming" ändern. Es stehen ein helles und ein dunkles Thema zur Verfügung. Wenn du nicht registriert bist, versuchen wir, das Thema basierend auf den Einstellungen deines Browsers und Betriebssystems für dich festzulegen.',
+    'faq.question.settings.changeAvatar': 'Wie ändere ich meinen Avatar?',
+    'faq.answer.settings.changeAvatar': 'Du kannst deinen Avatar in den <a href="/user/settings/profile">Profil-Einstellungen</a>ändern.',
+    'faq.question.settings.changeLanguage': 'Wie ändere ich die Sprache?',
+    'faq.answer.settings.changeLanguage': 'Du kannst die Sprache von Literary Universe in den <a href="/user/settings/account">Kontoeinstellungen</a>ändern.',
+    'faq.question.settings.translationMistake': 'Ich habe einen Fehler im Text auf der Website gefunden, wo kann ich ihn melden?',
+    'faq.answer.settings.translationMistake': 'Alle unsere Sprachdateien sind auf GitHub verfügbar. Du kannst dort <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">ein Problem melden</a> oder im Bug-Bereich des Feedbacks, oder wenn du es bevorzugst, kannst du es direkt selbst über unsere <a href="https://crowdin.com/project/literary-universe" target="_blank">Crowdin-Seite</a>beheben.'
 };
