@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'ช่วยเหลือและบทแนะนำ',
     'feedback.help.desc': 'คุณต้องการทราบวิธีการ _____? ไปที่นี่เพื่อหาคำตอบ',
     'feedback.desc': 'ยินดีต้อนรับสู่ศูนย์ช่วยเหลือและการแก้ไขปัญหาของเรา!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'เปิด',
     'feedback.closed': 'ปิด',
     'feedback.accepted': 'ยอมรับแล้ว',
@@ -50,5 +52,15 @@ export default {
     universe {นิทาน}
     story {เรื่อง}
     other {เรื่อง}
-  } ที่ถูกละเมิด?`
+  } ที่ถูกละเมิด?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'การตั้งค่า',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'ห้องสมุด',
+    'faq.section.workshop': 'สถานที่ประชุม',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
