@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'עזרה והדרכות',
     'feedback.help.desc': 'איך אתה _____? עבור לכאן כדי למצוא את התשובות.',
     'feedback.desc': 'ברוכים הבאים למרכז העזרה והפתרון שלנו!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'פתוח',
     'feedback.closed': 'סגור',
     'feedback.accepted': 'התקבל',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'הגדרות',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'ספריה',
+    'faq.section.workshop': 'סדנה',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
