@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Help & Tutorials',
     'feedback.help.desc': 'How do you _____? Go here to find the answers.',
     'feedback.desc': 'Welcome to our help and resolution center!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Open',
     'feedback.closed': 'Closed',
     'feedback.accepted': 'Accepted',
@@ -50,5 +52,15 @@ export default {
     universe {യൂണിവേഴ്സ്}
     story {കഥ}
     other {കഥ}
-  } അപകടപ്പെടുത്തപ്പെടുന്നു?`
+  } അപകടപ്പെടുത്തപ്പെടുന്നു?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'ക്രമീകരണങ്ങൾ',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'ലൈബ്രറി',
+    'faq.section.workshop': 'പ്രശ്നശാല',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
