@@ -68,15 +68,15 @@ export default {
     'faq.answer.about.dataLocation': 'ข้อมูล Literary Universe ถูกเก็บไว้บนเซิร์ฟเวอร์ในสหรัฐอเมริกา โดยเฉพาะในภูมิภาค AWS us-east-1',
     'faq.question.about.incorporation': 'คุณจดทะเบียนที่ไหน?',
     'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.question.about.roadmap': 'ขั้นตอนถัดไปสำหรับ Literary Universe คืออะไร?',
+    'faq.answer.about.roadmap': 'สิ่งนี้เปลี่ยนแปลงอยู่เสมอ คุณสามารถดู <a href="/roadmap">roadmap</a> เพื่อดูรายละเอียดเพิ่มเติม',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+    'faq.question.settings.changeTheme': 'ฉันจะเปลี่ยนรูปแบบของ Literary Universe ได้อย่างไร?',
     'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
+    'faq.question.settings.changeAvatar': 'ฉันจะเปลี่ยนอวาตาร์ของฉันได้อย่างไร?',
     'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
+    'faq.question.settings.changeLanguage': 'ฉันจะเปลี่ยนภาษาได้อย่างไร?',
     'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.translationMistake': 'ฉันพบข้อผิดพลาดในข้อความบนเว็บไซต์ ฉันสามารถรายงานได้ที่ไหน?',
+    'faq.answer.settings.translationMistake': 'ไฟล์ภาษาทั้งหมดของเราสามารถใช้งานได้บน GitHub คุณสามารถ <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">ส่งปัญหาที่นี่</a> หรือในส่วนของข้อผิดพลาด หรือหากคุณต้องการคุณสามารถแก้ไขด้วยตนเองได้ที่ <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>'
 };
