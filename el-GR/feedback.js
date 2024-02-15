@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Βοήθεια & Οδηγοί',
     'feedback.help.desc': 'Πώς μπορείτε να _____; Πηγαίνετε εδώ για να βρείτε τις απαντήσεις.',
     'feedback.desc': 'Καλώς ήρθατε στο κέντρο βοήθειας και επίλυσης προβλημάτων μας!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Ανοιχτό',
     'feedback.closed': 'Κλειστό',
     'feedback.accepted': 'Αποδεκτό',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'Σχετικά με εμάς',
+    'faq.section.settings': 'Ρυθμίσεις',
+    'faq.section.discovery': 'Ανακάλυψη',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Βιβλιοθήκη',
+    'faq.section.workshop': 'Εργαστήριο',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Ιστολόγια'
 };
