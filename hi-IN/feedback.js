@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'सहायता और ट्यूटोरियल',
     'feedback.help.desc': 'आप _____कैसे करते हैं? यहाँ जाकर जवाब पाएं।',
     'feedback.desc': 'हमारे सहायता और समाधान केंद्र में आपका स्वागत है!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'खुला',
     'feedback.closed': 'बंद',
     'feedback.accepted': 'स्वीकृत',
@@ -50,5 +52,15 @@ export default {
     universe {यूनिवर्स}
     story {कहानी}
     other {कहानी}
-  } का उल्लंघन किया जा रहा है?`
+  } का उल्लंघन किया जा रहा है?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'सेटिंग्स',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'पुस्तकालय',
+    'faq.section.workshop': 'वर्कशॉप',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
