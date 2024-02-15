@@ -62,5 +62,21 @@ export default {
     'faq.section.writer': 'Scriitor',
     'faq.section.encyclopedia': 'Enciclopedie',
     'faq.section.groups': 'Grupuri',
-    'faq.section.blogs': 'Bloguri'
+    'faq.section.blogs': 'Bloguri',
+    // About us questions
+    'faq.question.about.dataLocation': 'Unde sunt stocate datele LU?',
+    'faq.answer.about.dataLocation': 'Datele Literary Universe sunt stocate pe servere în Statele Unite ale Americii, în mod specific în regiunea AWS us-east-1.',
+    'faq.question.about.incorporation': 'Unde sunteți încorporați?',
+    'faq.answer.about.incorporation': 'Universul Literar este înregistrat în Cehia. Puteți găsi mai multe detalii pe pagina <a href="/about">despre noi</a>.',
+    'faq.question.about.roadmap': 'Care sunt următorii pași pentru Universul Literar?',
+    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    // Settings questions
+    'faq.question.settings.changeTheme': 'Cum pot schimba aspectul Universului Literar?',
+    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
+    'faq.question.settings.changeAvatar': 'Cum pot schimba avatarul meu?',
+    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
+    'faq.question.settings.changeLanguage': 'Cum pot schimba limba?',
+    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
+    'faq.question.settings.translationMistake': 'Am găsit o greșeală în textul de pe website, unde pot raporta asta?',
+    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
 };
