@@ -7,6 +7,8 @@ export default {
     'feedback.help': '도움말 및 자습서',
     'feedback.help.desc': '어떻게 _____하나요? 답변을 찾으려면 여기로 이동하세요.',
     'feedback.desc': '도움말 및 문제 해결 센터에 오신 것을 환영합니다!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': '열림',
     'feedback.closed': '닫힘',
     'feedback.accepted': '수락됨',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': '회사 소개',
+    'faq.section.settings': '설정',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': '도서관',
+    'faq.section.workshop': '작업장',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': '그룹',
+    'faq.section.blogs': '블로그'
 };
