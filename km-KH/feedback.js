@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'ទីតាំងរបស់ទិន្នន័យ LU ត្រូវបានរក្សាទុកនៅទីតាំងណា?',
     'faq.answer.about.dataLocation': 'ទិន្នន័យនៃ Literary Universe ត្រូវបានរក្សាទុកនៅលើម៉ាស៊ីនបម្រើនទីតាំងនៅសហរដ្ឋអាមេរិក និងជាពិសេសនៅតំបន់ us-east-1 នៃ AWS។',
     'faq.question.about.incorporation': 'អ្នកបានបង្កើតក្រុមហ៊ុននៅទីតាំងណា?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'ជាក្រុមហ៊ុន Literary Universe ត្រូវបានបញ្ចូលក្នុងសាធារណៈកម្ពុជា។ អ្នកអាចរកឃើញព័ត៌មានបន្ថែមអំពីយើងនៅលើទំព័រ <a href="/about">about us page</a>។',
+    'faq.question.about.roadmap': 'អ្វីជាជំហានបន្ទាប់សម្រាប់ Literary Universe?',
+    'faq.answer.about.roadmap': 'វាកំពុងផ្លាស់ប្តូរជានិច្ច។ សូមពិនិត្យមើលក្តីវិលបំផុតរបស់យើងនៅលើទំព័រ <a href="/roadmap">roadmap</a> សម្រាប់ព័ត៌មានបន្ថែម។',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'តើខ្ញុំអាចផ្លាស់ប្តូររូបភាពនៃ Literary Universe ដូចម្តេច?',
+    'faq.answer.settings.changeTheme': 'អ្នកប្រើប្រាស់ដែលបានចុះឈ្មោះអាចផ្លាស់ប្តូររូបភាពរបស់ខ្ញុំនៅក្នុងការកំណត់គណនី <a href="/user/settings/account">account settings</a> ក្នុងផ្នែក "site theming"។ យើងមានរូបភាពប្រភេទស្រទាប់និងរូបភាពប្រភេទងាយ។ ប្រសិនបើអ្នកមិនបានចុះឈ្មោះទេនោះយើងនឹងព្យាយាមស្វែងរករូបភាពណា ដែលត្រូវបានផ្ដល់ជូនអ្នកតាមរយៈការកំណត់កម្មវិធីរុក្ខប្រព័ន្ធនិងការកំណត់ប្រព័ន្ធប្រតិបត្តិការរបស់ប្រព័ន្ធរបស់អ្នក។',
+    'faq.question.settings.changeAvatar': 'តើខ្ញុំអាចផ្លាស់ប្តូររូបភាពរបស់ខ្ញុំដូចម្តេច?',
+    'faq.answer.settings.changeAvatar': 'អ្នកអាចផ្លាស់ប្តូររូបភាពរបស់អ្នកនៅក្នុងការកំណត់គណនី <a href="/user/settings/profile">profile settings</a>។',
+    'faq.question.settings.changeLanguage': 'តើខ្ញុំអាចផ្លាស់ប្តូរភាសារនៃ Literary Universe ដូចម្តេច?',
+    'faq.answer.settings.changeLanguage': 'អ្នកអាចផ្លាស់ប្តូរភាសានៃ Literary Universe នៅក្នុងការកំណត់គណនី <a href="/user/settings/account">account settings</a>។',
+    'faq.question.settings.translationMistake': 'ខ្ញុំបានរកឃើញកំហុសនៅក្នុងអត្ថបទនៅលើវេបសាយ តើខ្ញុំអាចរាយការណ៍វានៅទីណាមួយ?',
+    'faq.answer.settings.translationMistake': 'ឯកសារភាសាររបស់យើងអាចរកបាននៅលើ GitHub។ អ្នកអាចដាក់ស្នើបញ្ហានៅទីនេះ <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> ឬនៅក្នុងផ្នែក Bug នៃការផ្តល់មតិរបស់អ្នក ឬប្រសិនបើអ្នកចង់កែប្រែវាដោយខ្លួនឯងបានផ្ទាល់ខ្លួនឯងតាមរយៈទំព័ររបស់យើងនៅលើ Crowdin <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>។'
 };
