@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'Πού αποθηκεύονται τα δεδομένα του Λογοτεχνικού Σύμπαντος;',
     'faq.answer.about.dataLocation': 'Τα δεδομένα του Λογοτεχνικού Σύμπαντος αποθηκεύονται σε διακομιστές στις Ηνωμένες Πολιτείες της Αμερικής, συγκεκριμένα στην περιοχή us-east-1 της AWS.',
     'faq.question.about.incorporation': 'Σε ποια εταιρεία είστε ενσωματωμένοι;',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'Το Literary Universe είναι ενσωματωμένο στην Τσεχική Δημοκρατία. Μπορείτε να βρείτε περισσότερες λεπτομέρειες στην <a href="/about">σελίδα για εμάς</a>.',
+    'faq.question.about.roadmap': 'Ποια είναι τα επόμενα βήματα για το Literary Universe;',
+    'faq.answer.about.roadmap': 'Αυτό εξελίσσεται συνεχώς. Ρίξτε μια ματιά στο <a href="/roadmap">χάρτη πορείας</a> μας για περισσότερες λεπτομέρειες.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'Πώς μπορώ να αλλάξω την εμφάνιση του Literary Universe;',
+    'faq.answer.settings.changeTheme': 'Οι εγγεγραμμένοι χρήστες μπορούν να αλλάξουν το θέμα τους στις <a href="/user/settings/account">ρυθμίσεις λογαριασμού</a> στην ενότητα "εμφάνιση ιστότοπου". Έχουμε διαθέσιμο ένα φωτεινό και ένα σκοτεινό θέμα. Αν δεν είστε εγγεγραμμένοι, τότε προσπαθούμε να καθορίσουμε ποιο θέμα να σας εξυπηρετήσουμε με βάση τις ρυθμίσεις του προγράμματος περιήγησης και του λειτουργικού συστήματος σας.',
+    'faq.question.settings.changeAvatar': 'Πώς μπορώ να αλλάξω το αβατάρ μου;',
+    'faq.answer.settings.changeAvatar': 'Μπορείτε να αλλάξετε το αβατάρ σας στις <a href="/user/settings/profile">ρυθμίσεις προφίλ</a>.',
+    'faq.question.settings.changeLanguage': 'Πώς μπορώ να αλλάξω τη γλώσσα;',
+    'faq.answer.settings.changeLanguage': 'Μπορείτε να αλλάξετε τη γλώσσα του Literary Universe στις <a href="/user/settings/account">ρυθμίσεις λογαριασμού</a>.',
+    'faq.question.settings.translationMistake': 'Βρήκα ένα λάθος στο κείμενο του ιστότοπου, πού μπορώ να το αναφέρω;',
+    'faq.answer.settings.translationMistake': 'Όλα τα αρχεία γλώσσας μας είναι διαθέσιμα στο GitHub. Μπορείτε να <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">υποβάλετε ένα θέμα εκεί</a> ή στην ενότητα Σφάλματα της ανατροφοδότησης, ή αν το επιθυμείτε, μπορείτε να το διορθώσετε απευθείας μόνοι σας μέσω <a href="https://crowdin.com/project/literary-universe" target="_blank">της σελίδας μας στο Crowdin</a>.'
 };
