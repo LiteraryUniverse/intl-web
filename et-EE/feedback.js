@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Abi ja õpetused',
     'feedback.help.desc': 'Kuidas teha _____? Minge siia, et leida vastused.',
     'feedback.desc': 'Tere tulemast meie abikeskusesse ja lahenduste keskusesse!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Ava',
     'feedback.closed': 'Suletud',
     'feedback.accepted': 'Vastu võetud',
@@ -50,5 +52,15 @@ export default {
     universe {universum}
     story {lugu}
     other {lugu}
-  } on rikutud?`
+  } on rikutud?`,
+    'faq.section.about': 'Meist',
+    'faq.section.settings': 'Seaded',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Raamatukogu',
+    'faq.section.workshop': 'Töötuba',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogid'
 };
