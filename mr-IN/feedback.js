@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'मदत आणि सूचना',
     'feedback.help.desc': 'तुम्हाला _____कसं करायचं आहे? उत्तरे येथे शोधण्यासाठी येथे जा.',
     'feedback.desc': 'आमच्या मदत आणि समाधान केंद्रात आपले स्वागत आहे!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'उघडा',
     'feedback.closed': 'बंद',
     'feedback.accepted': 'स्वीकृत',
@@ -50,5 +52,15 @@ export default {
     universe {कथा}
     story {कथा}
     other {कथा}
-  } उल्लंघित केली जात आहे?`
+  } उल्लंघित केली जात आहे?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Settings',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Library',
+    'faq.section.workshop': 'Workshop',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
