@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Tulong at Mga Tutorial',
     'feedback.help.desc': 'Paano mo ginagamit ang _____? Pumunta dito para makahanap ng mga sagot.',
     'feedback.desc': 'Maligayang pagdating sa aming sentro ng tulong at resolusyon!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Buksan',
     'feedback.closed': 'Isara',
     'feedback.accepted': 'Tinanggap',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'Tungkol sa atin',
+    'faq.section.settings': 'Mga Setting',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Aklatan',
+    'faq.section.workshop': 'Pagsasanay',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
