@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'On es guarda la informació de LU?',
     'faq.answer.about.dataLocation': 'La informació de Literary Universe es guarda en servidors als Estats Units d\'Amèrica, concretament a la regió AWS us-east-1.',
     'faq.question.about.incorporation': 'On esteu constituïts?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'Literary Universe està incorporat a la República Txeca. Podeu trobar més detalls a la pàgina <a href="/about">sobre nosaltres</a>.',
+    'faq.question.about.roadmap': 'Quins són els propers passos per a Literary Universe?',
+    'faq.answer.about.roadmap': 'Això està en constant evolució. Consulteu el nostre <a href="/roadmap">mapa de ruta</a> per obtenir més detalls.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'Com puc canviar l\'aparença de Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Els usuaris registrats poden canviar el seu tema a la configuració del compte <a href="/user/settings/account"></a> a la secció "tematització del lloc". Tenim disponibles un tema clar i un tema fosc. Si no esteu registrats, intentem determinar quin tema us servim en funció de la configuració del navegador i del sistema operatiu.',
+    'faq.question.settings.changeAvatar': 'Com puc canviar el meu avatar?',
+    'faq.answer.settings.changeAvatar': 'Podeu canviar el vostre avatar a la configuració del perfil <a href="/user/settings/profile"></a>.',
+    'faq.question.settings.changeLanguage': 'Com puc canviar l\'idioma?',
+    'faq.answer.settings.changeLanguage': 'Podeu canviar l\'idioma de Literary Universe a la configuració del compte <a href="/user/settings/account"></a>.',
+    'faq.question.settings.translationMistake': 'He trobat un error en el text del lloc web, on el puc informar?',
+    'faq.answer.settings.translationMistake': 'Tots els nostres fitxers d\'idioma estan disponibles a GitHub. Podeu <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">informar d\'un problema allà</a> o a la secció d\'Errors del feedback, o si ho preferiu, podeu corregir-lo directament vosaltres mateixos a través de <a href="https://crowdin.com/project/literary-universe" target="_blank">la nostra pàgina de Crowdin</a>.'
 };
