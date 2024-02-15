@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Aide & Tutoriels',
     'feedback.help.desc': 'Comment faire pour _____ ? Allez ici pour trouver les réponses.',
     'feedback.desc': 'Bienvenue dans notre centre d\'aide et de résolution !',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Questions fréquemment posées',
     'feedback.open': 'Ouvert',
     'feedback.closed': 'Fermé',
     'feedback.accepted': 'Accepté',
@@ -50,5 +52,15 @@ export default {
     universe {univers}
     story {histoire}
     other {histoire}
-  } est en train d'être violée ?`
+  } est en train d'être violée ?`,
+    'faq.section.about': 'À propos de nous',
+    'faq.section.settings': 'Paramètres',
+    'faq.section.discovery': 'Découverte',
+    'faq.section.reader': 'Lecteur',
+    'faq.section.library': 'Bibliothèque',
+    'faq.section.workshop': 'Workshop',
+    'faq.section.writer': 'Écrivain',
+    'faq.section.encyclopedia': 'Encyclopédie',
+    'faq.section.groups': 'Groupes',
+    'faq.section.blogs': 'Blogs'
 };
