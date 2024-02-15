@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'LU डेटा कुठे संग्रहित आहे?',
     'faq.answer.about.dataLocation': 'साहित्यिक विश्व डेटा संयुक्त राज्य अमेरिका, विशेषतः AWS us-east-1 प्रदेशातील सर्व्हरवर संग्रहित आहे.',
     'faq.question.about.incorporation': 'तुमचं कोठेही समावेश केलं आहे का?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'साहित्यिक युनिवर्स चेक रिपब्लिकमध्ये समाविष्ट आहे. आपण आमच्या विषयी अधिक माहिती <a href="/about">या पृष्ठावर मिळवू शकता</a>.',
+    'faq.question.about.roadmap': 'साहित्यिक युनिवर्ससाठी पुढची कायदे काय आहेत?',
+    'faq.answer.about.roadmap': 'ही सदैव विकसित होत आहे. अधिक माहितीसाठी आमच्या <a href="/roadmap">रोडमॅप</a> बघा.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'साहित्यिक युनिवर्सचा दिसा कसा बदलायला?',
+    'faq.answer.settings.changeTheme': 'नोंदणीकृत वापरकर्ते "साइट थीमिंग" विभागात आपल्या थीम बदलू शकतात. आपली थीम बदलू शकण्यासाठी आपल्या <a href="/user/settings/account">खात्याच्या सेटिंग्ज</a> मध्ये जा.',
+    'faq.question.settings.changeAvatar': 'माझे अवतार कसे बदलायला?',
+    'faq.answer.settings.changeAvatar': 'आपण आपले अवतार <a href="/user/settings/profile">प्रोफाइल सेटिंग्ज</a>मध्ये बदलू शकता.',
+    'faq.question.settings.changeLanguage': 'भाषा कसे बदलायला?',
+    'faq.answer.settings.changeLanguage': 'साहित्यिक युनिवर्सची भाषा आपण <a href="/user/settings/account">खात्याच्या सेटिंग्ज</a>मध्ये बदलू शकता.',
+    'faq.question.settings.translationMistake': 'मला वेबसाइटवर अशी चुक दिसली आहे, ती मला कुठे सूचित करावी?',
+    'faq.answer.settings.translationMistake': 'आपल्या सर्व भाषा फाइल GitHub वर उपलब्ध आहेत. आपण ती <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">तिथे सूचित करू शकता</a> किंवा प्रतिक्रिया अनुभागातील त्रुटीसाठी किंवा आपण त्याची सर्व्ह करू शकता, किंवा आपण स्वतःच्या <a href="https://crowdin.com/project/literary-universe" target="_blank">क्राउडिन पेजवर दुरुस्त करू शकता</a>.'
 };
