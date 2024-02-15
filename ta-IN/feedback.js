@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'உதவி மற்றும் பயிற்சிகள்',
     'feedback.help.desc': 'நீங்கள் எப்படி _____செய்வது? பதில்களைக் கண்டுபிடிக்க இங்கே செல்லவும்.',
     'feedback.desc': 'எங்கள் உதவி மற்றும் தீர்வு மையத்திற்கு வரவேற்கிறோம்!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'திறக்கப்பட்டது',
     'feedback.closed': 'மூடப்பட்டது',
     'feedback.accepted': 'ஏற்கப்பட்டது',
@@ -50,5 +52,15 @@ export default {
     universe {உலகம்}
     story {கதை}
     other {கதை}
-  } மீட்டப்படுகிறது?`
+  } மீட்டப்படுகிறது?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'அமைப்புகள்',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'நூலகம்',
+    'faq.section.workshop': 'பயிற்சி மனைவர்',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
