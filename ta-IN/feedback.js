@@ -7,8 +7,8 @@ export default {
     'feedback.help': 'உதவி மற்றும் பயிற்சிகள்',
     'feedback.help.desc': 'நீங்கள் எப்படி _____செய்வது? பதில்களைக் கண்டுபிடிக்க இங்கே செல்லவும்.',
     'feedback.desc': 'எங்கள் உதவி மற்றும் தீர்வு மையத்திற்கு வரவேற்கிறோம்!',
-    'feedback.faq': 'FAQ',
-    'feedback.faq.desc': 'Frequently asked questions',
+    'feedback.faq': 'கேள்விகள் மற்றும் பதில்கள்',
+    'feedback.faq.desc': 'அடிப்படைப் பொது கேள்விகள்',
     'feedback.open': 'திறக்கப்பட்டது',
     'feedback.closed': 'மூடப்பட்டது',
     'feedback.accepted': 'ஏற்கப்பட்டது',
@@ -53,14 +53,30 @@ export default {
     story {கதை}
     other {கதை}
   } மீட்டப்படுகிறது?`,
-    'faq.section.about': 'About us',
+    'faq.section.about': 'எங்களை பற்றி',
     'faq.section.settings': 'அமைப்புகள்',
-    'faq.section.discovery': 'Discovery',
-    'faq.section.reader': 'Reader',
+    'faq.section.discovery': 'விளக்கம்',
+    'faq.section.reader': 'வாசிப்போர்',
     'faq.section.library': 'நூலகம்',
     'faq.section.workshop': 'பயிற்சி மனைவர்',
-    'faq.section.writer': 'Writer',
-    'faq.section.encyclopedia': 'Encyclopedia',
-    'faq.section.groups': 'Groups',
-    'faq.section.blogs': 'Blogs'
+    'faq.section.writer': 'எழுதுபவர்',
+    'faq.section.encyclopedia': 'அறிவியல் அமைப்பு',
+    'faq.section.groups': 'குழுக்கள்',
+    'faq.section.blogs': 'வலைப்பதிவுகள்',
+    // About us questions
+    'faq.question.about.dataLocation': 'LU தரவு எங்கே சேமிக்கப்படுகிறது?',
+    'faq.answer.about.dataLocation': 'இலக்கண உலகம் தரவு ஐகான்சர்கள் அமெரிக்கத்தின் ஐபிஎஸ்-கிழக்கு 1 பகுதியில் உள்ள சேவையகங்களில் சேமிக்கப்படுகின்றன.',
+    'faq.question.about.incorporation': 'நீங்கள் எங்களிடம் சேர்க்கப்பட்டுள்ளீர்களா?',
+    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
+    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
+    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    // Settings questions
+    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
+    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
+    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
+    'faq.question.settings.changeLanguage': 'How do I change the language?',
+    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
+    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
+    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
 };
