@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'LU數據存儲在哪裡？',
     'faq.answer.about.dataLocation': 'Literary Universe數據存儲在美國的伺服器上，具體地說是在AWS us-east-1區域。',
     'faq.question.about.incorporation': '你們的公司註冊在哪裡？',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': '文學宇宙在捷克共和國註冊成立。您可以在我們的關於我們頁面上找到更多詳細資訊 <a href="/about"></a>。',
+    'faq.question.about.roadmap': '文學宇宙的下一步是什麼？',
+    'faq.answer.about.roadmap': '這是不斷演進的。請查看我們的路線圖 <a href="/roadmap"></a> 以獲得更多詳細資訊。',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': '我如何更改文學宇宙的外觀？',
+    'faq.answer.settings.changeTheme': '註冊用戶可以在帳戶設定的「網站主題」部分更改他們的主題 <a href="/user/settings/account"></a> 。我們提供了明亮和黑暗兩種主題。如果您尚未註冊，我們將根據您的瀏覽器和作業系統設定來確定要提供給您哪種主題。',
+    'faq.question.settings.changeAvatar': '我如何更改我的頭像？',
+    'faq.answer.settings.changeAvatar': '您可以在個人資料設定中更改您的頭像 <a href="/user/settings/profile"></a>。',
+    'faq.question.settings.changeLanguage': '如何更改語言？',
+    'faq.answer.settings.changeLanguage': '您可以在帳戶設定中更改文學宇宙的語言 <a href="/user/settings/account"></a>。',
+    'faq.question.settings.translationMistake': '我在網站上發現了一個文字錯誤，我應該在哪裡報告？',
+    'faq.answer.settings.translationMistake': '我們所有的語言文件都可以在GitHub上找到。您可以在那裡提交問題 <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose"></a> ，或者在反饋的錯誤部分提交問題。如果您有意願，您也可以直接在我們的Crowdin頁面上修正它 <a href="https://crowdin.com/project/literary-universe" target="_blank"></a>。'
 };
