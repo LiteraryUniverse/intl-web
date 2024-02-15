@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Hjälp och handledningar',
     'feedback.help.desc': 'Hur gör du _____? Gå hit för att hitta svaren.',
     'feedback.desc': 'Välkommen till vårt hjälp- och supportcenter!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Öppen',
     'feedback.closed': 'Stängd',
     'feedback.accepted': 'Accepterad',
@@ -50,5 +52,15 @@ export default {
     universe {universum}
     story {berättelse}
     other {berättelse}
-  } blir kränkt?`
+  } blir kränkt?`,
+    'faq.section.about': 'Om oss',
+    'faq.section.settings': 'Inställningar',
+    'faq.section.discovery': 'Upptäck',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Bibliotek',
+    'faq.section.workshop': 'Verkstad',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Bloggar'
 };
