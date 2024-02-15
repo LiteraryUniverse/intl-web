@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Довідка та посібники',
     'feedback.help.desc': 'Як ви _____? Перейдіть сюди, щоб знайти відповіді.',
     'feedback.desc': 'Ласкаво просимо до нашого центру допомоги та вирішення проблем!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Відкрито',
     'feedback.closed': 'Закрито',
     'feedback.accepted': 'Прийнято',
@@ -50,5 +52,15 @@ export default {
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'faq.section.about': 'Про нас',
+    'faq.section.settings': 'Налаштування',
+    'faq.section.discovery': 'Відкриття',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Книгозбірня',
+    'faq.section.workshop': 'Майстерня',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Енциклопедія',
+    'faq.section.groups': 'Групи',
+    'faq.section.blogs': 'Блоги'
 };
