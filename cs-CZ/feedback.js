@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Nápověda a návody',
     'feedback.help.desc': 'Jak můžu _____? Jděte sem a najděte si odpovědi.',
     'feedback.desc': 'Vítejte v našem zákaznickém centru!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Otevřeno',
     'feedback.closed': 'Uzavřeno',
     'feedback.accepted': 'Přijato',
@@ -50,5 +52,15 @@ export default {
     universe {vesmír}
     story {příběh}
     other {}
-  } je zde zneužit?`
+  } je zde zneužit?`,
+    'faq.section.about': 'O nás',
+    'faq.section.settings': 'Nastavení',
+    'faq.section.discovery': 'Objevování',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Knihovna',
+    'faq.section.workshop': 'Ateliér',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyklopedie',
+    'faq.section.groups': 'Skupina',
+    'faq.section.blogs': 'Blogy'
 };
