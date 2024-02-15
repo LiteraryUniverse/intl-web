@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Hjælp og vejledninger',
     'feedback.help.desc': 'Hvordan gør du _____? Gå herind for at finde svarene.',
     'feedback.desc': 'Velkommen til vores hjælpe- og løsningscenter!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Åben',
     'feedback.closed': 'Lukket',
     'feedback.accepted': 'Accepteret',
@@ -50,5 +52,15 @@ export default {
     universe {univers}
     story {historie}
     other {historie}
-  } bliver overtrådt?`
+  } bliver overtrådt?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'Indstillinger',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'Bibliotek',
+    'faq.section.workshop': 'Værksted',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
