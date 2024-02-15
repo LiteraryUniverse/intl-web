@@ -7,6 +7,8 @@ export default {
     'feedback.help': 'Help & Tutorials',
     'feedback.help.desc': 'How do you _____? Go here to find the answers.',
     'feedback.desc': 'Welcome to our help and resolution center!',
+    'feedback.faq': 'FAQ',
+    'feedback.faq.desc': 'Frequently asked questions',
     'feedback.open': 'Open',
     'feedback.closed': 'Closed',
     'feedback.accepted': 'Accepted',
@@ -50,5 +52,15 @@ export default {
     universe {ବିଶ୍ବ}
     story {କାହାଣୀ}
     other {କାହାଣୀ}
-  } ଅପରାଧ କରାଯାଇଛି?`
+  } ଅପରାଧ କରାଯାଇଛି?`,
+    'faq.section.about': 'About us',
+    'faq.section.settings': 'ସେଟିଂସ୍',
+    'faq.section.discovery': 'Discovery',
+    'faq.section.reader': 'Reader',
+    'faq.section.library': 'ଲାଇବ୍ରେରୀ',
+    'faq.section.workshop': 'କାର୍ଯ୍ୟଶାଳା',
+    'faq.section.writer': 'Writer',
+    'faq.section.encyclopedia': 'Encyclopedia',
+    'faq.section.groups': 'Groups',
+    'faq.section.blogs': 'Blogs'
 };
