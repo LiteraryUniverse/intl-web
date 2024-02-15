@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': 'Waar word LU-data gestoor?',
     'faq.answer.about.dataLocation': 'Literary Universe-data word gestoor op bedieners in die Verenigde State van Amerika, spesifiek AWS us-east-1 streek.',
     'faq.question.about.incorporation': 'Waar is julle geïnkorporeer?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'Literary Universe is opgenoem in die Tsjeggiese Republiek. Jy kan meer besonderhede vind op die <a href="/about">oor ons bladsy</a>.',
+    'faq.question.about.roadmap': 'Wat is die volgende stappe vir Literary Universe?',
+    'faq.answer.about.roadmap': 'Dit is voortdurend in ontwikkeling. Kyk na ons <a href="/roadmap">padkaart</a> vir meer besonderhede.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': 'Hoe verander ek die voorkoms van Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Geregistreerde gebruikers kan hul tema verander in die <a href="/user/settings/account">rekeninginstellings</a> onder die "werf uitleg" afdeling. Ons het \'n ligte en \'n donker tema beskikbaar. As jy nie geregistreer is nie, probeer ons om te bepaal watter tema ons jou moet bedien gebaseer op jou blaaier en bedryfstelsel-instellings.',
+    'faq.question.settings.changeAvatar': 'Hoe verander ek my avatar?',
+    'faq.answer.settings.changeAvatar': 'Jy kan jou avatar verander in die <a href="/user/settings/profile">profielinstellings</a>.',
+    'faq.question.settings.changeLanguage': 'Hoe verander ek die taal?',
+    'faq.answer.settings.changeLanguage': 'Jy kan die taal van Literary Universe verander in die <a href="/user/settings/account">rekeninginstellings</a>.',
+    'faq.question.settings.translationMistake': 'Ek het \'n fout in die teks op die webwerf gevind, waar kan ek dit rapporteer?',
+    'faq.answer.settings.translationMistake': 'Al ons taal lêers is beskikbaar op GitHub. Jy kan <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">\'n probleem daar indien</a> of in die Fout afdeling van die terugvoer, of as jy so geneig is, kan jy dit direk self regmaak via <a href="https://crowdin.com/project/literary-universe" target="_blank">ons Crowdin-bladsy</a>.'
 };
