@@ -67,16 +67,16 @@ export default {
     'faq.question.about.dataLocation': '¿Dónde se almacenan los datos de LU?',
     'faq.answer.about.dataLocation': 'Los datos del Universo Literario se almacenan en servidores en los Estados Unidos de América, específicamente en la región AWS us-east-1.',
     'faq.question.about.incorporation': '¿Dónde estás incorporado?',
-    'faq.answer.about.incorporation': 'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-    'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
-    'faq.answer.about.roadmap': 'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
+    'faq.answer.about.incorporation': 'Literary Universe está incorporado en la República Checa. Puedes encontrar más detalles en la página <a href="/about">sobre nosotros</a>.',
+    'faq.question.about.roadmap': '¿Cuáles son los próximos pasos para Literary Universe?',
+    'faq.answer.about.roadmap': 'Esto está en constante evolución. Consulta nuestro <a href="/roadmap">plan de desarrollo</a> para más detalles.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
-    'faq.answer.settings.changeTheme': 'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
-    'faq.question.settings.changeAvatar': 'How do I change my avatar?',
-    'faq.answer.settings.changeAvatar': 'You can change your avatar in the <a href="/user/settings/profile">profile settings</a>.',
-    'faq.question.settings.changeLanguage': 'How do I change the language?',
-    'faq.answer.settings.changeLanguage': 'You can change the language of Literary Universe in the <a href="/user/settings/account">account settings</a>.',
-    'faq.question.settings.translationMistake': 'I found a mistake in the text on the website, where can I report it?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.question.settings.changeTheme': '¿Cómo cambio la apariencia de Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Los usuarios registrados pueden cambiar su apariencia en la configuración de la cuenta <a href="/user/settings/account"></a> en la sección "temas del sitio". Tenemos un tema claro y un tema oscuro disponibles. Si no estás registrado, intentamos determinar qué tema ofrecerte según la configuración de tu navegador y sistema operativo.',
+    'faq.question.settings.changeAvatar': '¿Cómo cambio mi avatar?',
+    'faq.answer.settings.changeAvatar': 'Puedes cambiar tu avatar en la configuración del perfil <a href="/user/settings/profile"></a>.',
+    'faq.question.settings.changeLanguage': '¿Cómo cambio el idioma?',
+    'faq.answer.settings.changeLanguage': 'Puedes cambiar el idioma de Literary Universe en la configuración de la cuenta <a href="/user/settings/account"></a>.',
+    'faq.question.settings.translationMistake': 'Encontré un error en el texto del sitio web, ¿dónde puedo reportarlo?',
+    'faq.answer.settings.translationMistake': 'Todos nuestros archivos de idioma están disponibles en GitHub. Puedes <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">enviar un informe allí</a> o en la sección de errores de la retroalimentación, o si lo prefieres, puedes corregirlo directamente tú mismo a través de <a href="https://crowdin.com/project/literary-universe" target="_blank">nuestra página de Crowdin</a>.'
 };
