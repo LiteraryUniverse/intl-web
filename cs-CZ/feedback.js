@@ -78,5 +78,5 @@ export default {
     'faq.question.settings.changeLanguage': 'Jak změnit jazyk?',
     'faq.answer.settings.changeLanguage': 'Jazyk Literary Universe můžete změnit v <a href="/user/settings/account">nastavení účtu</a>.',
     'faq.question.settings.translationMistake': 'Nalezl(a) jsem chybu v textu na webu, kde ji mohu nahlásit?',
-    'faq.answer.settings.translationMistake': 'All our language files are available on GitHub. You can <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">submit an issue there</a> or in the Bug section of the feedback, or if you are so inclined, you can fix it directly yourself via <a href="https://crowdin.com/project/literary-universe" target="_blank">our Crowdin page</a>.'
+    'faq.answer.settings.translationMistake': 'Všechny naše jazykové soubory jsou k dispozici na GitHubu. Můžete <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">odeslat problém tam</a> nebo v sekci Bug v rámci zpětné vazby, nebo pokud máte chuť, můžete jej opravit přímo sami prostřednictvím <a href="https://crowdin.com/project/literary-universe" target="_blank">naší stránky na Crowdinu</a>.'
 };
