@@ -219,7 +219,7 @@ export default {
     'common.defaultLanguage': 'Язык по умолчанию',
     'signin.web3.signMessage': 'Пожалуйста, подтвердите, что вы хотите войти в Literary Universe, используя свой кошелёк в качестве метода авторизации. Код: {code}',
     'common.web3.confirmationCode': 'Код подтверждения: {code}',
-    'common.roadmap': 'План разработки',
+    'common.roadmap': 'Карта разработки',
     'common.luStatsIFrameOptOut': 'Отказ в регистрации статистики Literary Universe',
     'common.image': 'Изображение',
     'common.home': 'Главная',
