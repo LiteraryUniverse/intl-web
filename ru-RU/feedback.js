@@ -7,7 +7,7 @@ export default {
     'feedback.help': 'Помощь и руководства',
     'feedback.help.desc': 'Как сделать _____? Перейдите сюда, чтобы найти ответы.',
     'feedback.desc': 'Добро пожаловать в наш центр помощи и решений!',
-    'feedback.faq': 'Часто задаваемые вопросы',
+    'feedback.faq': 'ЧаВО',
     'feedback.faq.desc': 'Часто задаваемые вопросы',
     'feedback.open': 'Открыто',
     'feedback.closed': 'Закрыто',
@@ -65,18 +65,18 @@ export default {
     'faq.section.blogs': 'Блоги',
     // About us questions
     'faq.question.about.dataLocation': 'Где хранятся данные LU?',
-    'faq.answer.about.dataLocation': 'Данные Литературной Вселенной хранятся на серверах в Соединенных Штатах Америки, конкретно в регионе AWS us-east-1.',
+    'faq.answer.about.dataLocation': 'Данные Literary Universe хранятся на серверах в Соединённых Штатах Америки, а именно в регионе AWS us-east-1.',
     'faq.question.about.incorporation': 'Где вы зарегистрированы?',
-    'faq.answer.about.incorporation': 'Литературная Вселенная зарегистрирована в Чешской Республике. Вы можете найти более подробную информацию на странице <a href="/about">о нас</a>.',
-    'faq.question.about.roadmap': 'Какие следующие шаги для Литературной Вселенной?',
-    'faq.answer.about.roadmap': 'Это постоянно развивается. Подробности можно найти в нашей дорожной карте <a href="/roadmap"></a>.',
+    'faq.answer.about.incorporation': 'Literary Universe зарегистрирована в Чешской Республике. Более подробную информацию вы можете найти на странице <a href="/about">о нас</a>.',
+    'faq.question.about.roadmap': 'Каковы следующие шаги для Literary Universe?',
+    'faq.answer.about.roadmap': 'Мы постоянно развиваемся. Ознакомьтесь с нашей <a href="/roadmap">картой разработки</a> для получения более подробной информации.',
     // Settings questions
-    'faq.question.settings.changeTheme': 'Как изменить внешний вид Литературной Вселенной?',
-    'faq.answer.settings.changeTheme': 'Зарегистрированные пользователи могут изменить тему в своих настройках аккаунта <a href="/user/settings/account"></a> в разделе "настройка сайта". У нас есть светлая и темная темы. Если вы не зарегистрированы, мы пытаемся определить, какую тему предложить вам на основе настроек вашего браузера и операционной системы.',
+    'faq.question.settings.changeTheme': 'Как изменить внешний вид Literary Universe?',
+    'faq.answer.settings.changeTheme': 'Зарегистрированные пользователи могут изменить тему в своих <a href="/user/settings/account">настройках учётной записи</a> в разделе «Темы сайта». У нас есть светлая и тёмная темы. Если вы не зарегистрированы, мы пытаемся определить, какую тему предложить вам на основе настроек вашего браузера и операционной системы.',
     'faq.question.settings.changeAvatar': 'Как изменить мой аватар?',
-    'faq.answer.settings.changeAvatar': 'Вы можете изменить свой аватар в настройках профиля <a href="/user/settings/profile"></a>.',
+    'faq.answer.settings.changeAvatar': 'Вы можете изменить свой аватар в <a href="/user/settings/profile">настройках профиля</a>.',
     'faq.question.settings.changeLanguage': 'Как изменить язык?',
-    'faq.answer.settings.changeLanguage': 'Вы можете изменить язык Литературной Вселенной в настройках аккаунта <a href="/user/settings/account"></a>.',
-    'faq.question.settings.translationMistake': 'Я нашел ошибку в тексте на сайте, где мне ее сообщить?',
-    'faq.answer.settings.translationMistake': 'Все наши языковые файлы доступны на GitHub. Вы можете <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">сообщить об этом проблему там</a> или в разделе Ошибки обратной связи, или, если вы склонны к этому, вы можете исправить ее самостоятельно на нашей странице Crowdin <a href="https://crowdin.com/project/literary-universe" target="_blank"></a>.'
+    'faq.answer.settings.changeLanguage': 'Вы можете изменить язык Literary Universe в <a href="/user/settings/account">настройках учётной записи</a>.',
+    'faq.question.settings.translationMistake': 'Мной была замечена ошибка в тексте на сайте, где мне о ней сообщить?',
+    'faq.answer.settings.translationMistake': 'Все наши языковые файлы доступны на GitHub. Вы можете <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">сообщить об этой проблеме там</a> или в разделе ошибок в обратной связи, или, если вам так хочется, вы можете исправить её самостоятельно на <a href="https://crowdin.com/project/literary-universe" target="_blank">нашей странице Crowdin</a>.'
 };
