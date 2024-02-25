@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'നിങ്ങൾക്ക് സ്പോൺസർ ചെയ്യാൻ ആഗ്രഹിക്കുന്നവർ അവരുടെ പ്രവർത്തനത്തിൽ ആഗ്രഹിക്കുന്നവരാണെന്ന് അറിയാം. 100 ആരാധകരുടെ യൂണിവേഴ്സ് അവരുടെ ലൈബ്രറിയിൽ ചേർക്കുന്നത് ആരംഭ രേഖയാണ്.',
     'payment.settings.yourFanClub': 'നിങ്ങളുടെ ആരാധക ക്ലബ്',
-    'payment.settings.newWork': 'ഒരു പുതിയ പ്രവർത്തനം സൃഷ്ടിക്കുക'
+    'payment.settings.newWork': 'ഒരു പുതിയ പ്രവർത്തനം സൃഷ്ടിക്കുക',
+    'payment.amount.withNet': `{amount} (നെറ്റ്: {netAmount})`
 };
