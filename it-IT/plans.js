@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Riempi la tua enciclopedia, con almeno 30 voci! Meglio se raggiungi il margine di 100.',
     'payment.universe.haveFans': 'È più facile ottenere sponsor se le persone sono già interessate a ciò che stai facendo. 100 fan che aggiungono il tuo universo alla loro libreria è la linea di partenza.',
     'payment.settings.yourFanClub': 'Il tuo fan club',
-    'payment.settings.newWork': 'Crea una nuova opera'
+    'payment.settings.newWork': 'Crea una nuova opera',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
