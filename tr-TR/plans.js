@@ -95,7 +95,7 @@ export default {
     incomplete_expired {Bir şey eksik}
     trialing {Deneme}
     past_due {Ödemeniz eksik}
-    canceled {İptal edildi}
+    cancelled {İptal edildi}
     unpaid {Ödenmemiş}
     expired {Süresi doldu}
     other {}
