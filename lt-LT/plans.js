@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Užpildykite savo enciklopediją, turėkite bent 30 įrašų! Geriau, jei siekiate 100 ribos.',
     'payment.universe.haveFans': 'Lengviau gauti rėmėjus, jei jie jau domisi tuo, ką darote. 100 gerbėjų, pridedančių jūsų visatą į savo biblioteką, yra starto linija.',
     'payment.settings.yourFanClub': 'Jūsų gerbėjų klubas',
-    'payment.settings.newWork': 'Sukurti naują kūrinį'
+    'payment.settings.newWork': 'Sukurti naują kūrinį',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
