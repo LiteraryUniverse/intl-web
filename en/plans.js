@@ -103,7 +103,7 @@ export default {
     incomplete_expired {There is something missing}
     trialing {Trial}
     past_due {We are missing your payment}
-    canceled {Cancelled}
+    cancelled {Cancelled}
     unpaid {Unpaid}
     expired {Expired}
     other {}
