@@ -89,14 +89,14 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'A következő ciklusra a default fizetési módot fogjuk használni.',
-    'plans.subscribed.status': `Előfizetési állapot: {status, select,
+    'plans.subscribed.status': `Előfizetés állapota: {status, select,
     active {Aktív}
     incomplete {Hiányzik valami}
     incomplete_expired {Hiányzik valami}
-    trialing {Próbaverzió}
+    trialing {Próba}
     past_due {Hiányzik a fizetés}
-    canceled {Lemondva}
-    unpaid {Még nem fizetett}
+    cancelled {Törölve}
+    unpaid {Kifizetetlen}
     expired {Lejárt}
     other {}
   }`,
