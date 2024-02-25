@@ -94,10 +94,10 @@ export default {
     incomplete {Щось відсутнє}
     incomplete_expired {Щось відсутнє}
     trialing {Пробний}
-    past_due {Нам не вистачає вашого платежу}
-    canceled {Скасовано}
-    unpaid {Неоплачено}
-    expired {Закінчився термін дії}
+    past_due {Відсутня оплата}
+    cancelled {Скасована}
+    unpaid {Неоплачена}
+    expired {Закінчилась}
     other {}
   }`,
     'payments.changeMethod': 'Змінити метод оплати',
