@@ -89,15 +89,15 @@ export default {
     other {}
   }. gy.`,
     'plans.subscribed.paymentMethod': 'lo se lidne se jibri be do cu zukte lo nu jdima lo se jibri be lo lidne jbini',
-    'plans.subscribed.status': `sorcu zo'e: {status, select,
-    active {farvi}
-    incomplete {da drauganti}
-    incomplete_expired {da drauganti}
-    trialing {cliraeresa'a}
-    past_due {da drauganti}
-    canceled {farvi}
-    unpaid {farvi}
-    expired {farvi}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Aktiva}
+    incomplete {Di'u se kancu}
+    incomplete_expired {Di'u se kancu}
+    trialing {Tcidu}
+    past_due {Mi djica lo jdima be do}
+    cancelled {Kancu}
+    unpaid {Friti se jerna}
+    expired {Cedra}
     other {}
   }`,
     'payments.changeMethod': 'binxo lo nu zukte lo nu jdima lo se jibri be lo lidne',
