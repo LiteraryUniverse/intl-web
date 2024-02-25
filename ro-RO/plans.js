@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Completează enciclopedia ta, cu cel puțin 30 de intrări! Cu atât mai bine dacă ataci marginea de 100.',
     'payment.universe.haveFans': 'Este mai ușor să obții sponsorizări de la oameni care sunt deja interesați de ceea ce faci. 100 de fani care adaugă universul tău în biblioteca lor reprezintă linia de start.',
     'payment.settings.yourFanClub': 'Clubul tău de fani',
-    'payment.settings.newWork': 'Creează o lucrare nouă'
+    'payment.settings.newWork': 'Creează o lucrare nouă',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
