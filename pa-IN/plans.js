@@ -90,14 +90,14 @@ export default {
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
     'plans.subscribed.status': `ਗਾਹਕੀ ਦੀ ਸਥਿਤੀ: {status, select,
-    active {ਚਲਦੀ ਹੈ}
-    incomplete {ਕੁਝ ਮਾਰਪੀਟ ਹੈ}
-    incomplete_expired {ਕੁਝ ਮਾਰਪੀਟ ਹੈ}
-    trialing {ਟਰਾਇਲ}
-    past_due {ਸਾਡੇ ਕੋਲ ਤੁਹਾਡੀ ਪੈਮੈਂਟ ਦੀ ਕੁਝ ਖਾਸ਼ੀ ਨਹੀਂ ਹੈ}
-    canceled {ਰੱਦ ਹੋ ਗਈ ਹੈ}
-    unpaid {ਅਪੂਣੀ ਹੈ}
-    expired {ਖਤਮ ਹੋ ਗਈ ਹੈ}
+    active {ਚਾਲੂ ਹੈ}
+    incomplete {ਕੁਝ ਗੱਲ ਹੈ}
+    incomplete_expired {ਕੁਝ ਗੱਲ ਹੈ}
+    trialing {ਟਰਾਈਲ}
+    past_due {ਸਾਡੀ ਪੈਮੇਂਟ ਗੱਲਬਾਤ ਹੈ}
+    cancelled {ਰੱਦ ਕੀਤਾ ਗਿਆ ਹੈ}
+    unpaid {ਅਨਪੈਡ}
+    expired {ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
