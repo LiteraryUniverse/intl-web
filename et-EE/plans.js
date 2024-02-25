@@ -93,10 +93,10 @@ export default {
     active {Aktiivne}
     incomplete {Midagi on puudu}
     incomplete_expired {Midagi on puudu}
-    trialing {Prooviperiood}
-    past_due {Me ei ole saanud sinu makset}
-    canceled {Tühistatud}
-    unpaid {Maksmata}
+    trialing {Katsetus}
+    past_due {Meil jääb makse saamata}
+    cancelled {Tühistatud}
+    unpaid {Tasumata}
     expired {Aegunud}
     other {}
   }`,
