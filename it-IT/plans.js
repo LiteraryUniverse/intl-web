@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Il tuo metodo di pagamento predefinito sarà utilizzato per pagare il prossimo ciclo.',
-    'plans.subscribed.status': `Stato sottoscrizione: {status, select,
+    'plans.subscribed.status': `Stato dell'abbonamento: {status, select,
     active {Attivo}
     incomplete {Qualcosa manca}
     incomplete_expired {Qualcosa manca}
     trialing {Prova}
     past_due {Ci manca il tuo pagamento}
-    canceled {Annullato}
+    cancelled {Annullato}
     unpaid {Non pagato}
     expired {Scaduto}
     other {}
