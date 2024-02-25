@@ -95,9 +95,9 @@ export default {
     incomplete_expired {Ada sesuatu yang hilang}
     trialing {Percobaan}
     past_due {Kami kehilangan pembayaran Anda}
-    canceled {Dibatalkan}
+    cancelled {Dibatalkan}
     unpaid {Belum dibayar}
-    expired {Sudah kedaluwarsa}
+    expired {Kadaluarsa}
     other {}
   }`,
     'payments.changeMethod': 'Ubah metode pembayaran',
