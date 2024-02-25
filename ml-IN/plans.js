@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ചുമത്തല്‍ അവസ്ഥ: {status, select,
+    'plans.subscribed.status': `അംഗത്വം നില: {status, select,
     active {സജീവമാണ്}
-    incomplete {എനിക്ക് എന്തോ കിട്ടിയില്ല}
-    incomplete_expired {എനിക്ക് എന്തോ കിട്ടിയില്ല}
-    trialing {ട്രയല്‍}
-    past_due {എനിക്ക് നമ്മെ പണമ്}
-    canceled {പരിഹരിച്ചെന്ന്}
-    unpaid {അപേക്ഷിച്ചിട്ടില്ല}
-    expired {കാലഹരണപ്പെട്ടു}
+    incomplete {ഒന്നും കാണുന്നില്ല}
+    incomplete_expired {ഒന്നും കാണുന്നില്ല}
+    trialing {ട്രയൽ}
+    past_due {നിങ്ങളുടെ പേയ്മെന്റ് കാണുന്നില്ല}
+    cancelled {റദ്ദാക്കിയിട്ടുണ്ട്}
+    unpaid {അപേക്ഷിക്കാത്തവ}
+    expired {കാലാവധിയായിരിക്കുന്നു}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
