@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Наполните свою энциклопедию, пусть в ней будет не менее 30 записей! Лучше, если вы будете стремиться к отметке 100.',
     'payment.universe.haveFans': 'Легче привлечь людей к спонсорству, если они уже заинтересованы в том, что вы делаете. 100 фанатов, добавивших вашу вселенную в свою библиотеку, - это уже отправная точка.',
     'payment.settings.yourFanClub': 'Ваш фанклуб',
-    'payment.settings.newWork': 'Создать новое произведение'
+    'payment.settings.newWork': 'Создать новое произведение',
+    'payment.amount.withNet': `{amount} (с учетом: {netAmount})`
 };
