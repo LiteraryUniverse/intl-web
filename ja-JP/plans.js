@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': '自分の百科事典を埋める。少なくとも30のエントリーを持ってください！100のマージンを攻撃する方が良いです。',
     'payment.universe.haveFans': 'すでにあなたのやっていることに興味を持っている人々にスポンサーを募るのは簡単です。100人のファンがあなたの宇宙を彼らのライブラリに追加することがスタートラインです。',
     'payment.settings.yourFanClub': 'あなたのファンクラブ',
-    'payment.settings.newWork': '新しい作品を作成する'
+    'payment.settings.newWork': '新しい作品を作成する',
+    'payment.amount.withNet': `{amount} （ネット： {netAmount}）`
 };
