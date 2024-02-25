@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Täitke oma entsüklopeedia, olge vähemalt 30 kirjega! Veel parem, kui ületate 100 märgi piiri.',
     'payment.universe.haveFans': 'Inimeste veenmine sponsorluseks on lihtsam, kui neid juba huvitab see, mida sa teed. 100 fänni, kes lisavad su universumi oma raamatukokku, on stardijooneks.',
     'payment.settings.yourFanClub': 'Sinu fänniklubi',
-    'payment.settings.newWork': 'Loo uus töö'
+    'payment.settings.newWork': 'Loo uus töö',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
