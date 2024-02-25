@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ગોઠવણી સ્થિતિ: {status, select,
+    'plans.subscribed.status': `ગોઠવણીની સ્થિતિ: {status, select,
     active {સક્રિય}
-    incomplete {થઈ ગયું છેં}
-    incomplete_expired {કુછ છેં!કરતાં છેં}
-    trialing {પરીક્ષણસભા}
-    past_due {અમને તમારું ચુકવણું છેં}
-    canceled {રદ થઈ ગયું છેં}
-    unpaid {અવાચીનું છેં}
-    expired {સમાપ્ત ગયું છેં}
+    incomplete {કંઈ ચીજ ચૂકી ગયેલી છે}
+    incomplete_expired {કંઈ ચીજ ચૂકી ગયેલી છે}
+    trialing {ટ્રાયલ}
+    past_due {અમને તમારી ચુકવણી થઈ ગઈ છે}
+    cancelled {રદ કરેલી}
+    unpaid {અપેમાનીત}
+    expired {સમાપ્ત}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
