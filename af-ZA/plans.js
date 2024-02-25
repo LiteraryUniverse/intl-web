@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Vul jou ensiklopedie aan, hê ten minste 30 inskrywings! Beter as jy die 100-grens aanval.',
     'payment.universe.haveFans': 'Dit is makliker om mense te kry om jou te borg as hulle reeds belangstel in wat jy doen. 100 ondersteuners wat jou universum by hul biblioteek voeg, is die beginlyn.',
     'payment.settings.yourFanClub': 'Jou ondersteunersklub',
-    'payment.settings.newWork': 'Skep \'n nuwe werk'
+    'payment.settings.newWork': 'Skep \'n nuwe werk',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
