@@ -93,11 +93,11 @@ export default {
     active {Aktivní}
     incomplete {Něco chybí}
     incomplete_expired {Něco chybí}
-    trialing {Zkušební doba}
+    trialing {Zkušební verze}
     past_due {Chybí nám platba}
-    canceled {Zrušeno}
+    cancelled {Zrušeno}
     unpaid {Nezaplaceno}
-    expired {Vypršelo}
+    expired {Expirovalo}
     other {}
   }`,
     'payments.changeMethod': 'Změnit způsob platby',
