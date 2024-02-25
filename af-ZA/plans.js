@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Jou verstek betalingsmetode sal gebruik word om vir die volgende siklus te betaal.',
-    'plans.subscribed.status': `Intekengroepstatus: {status, select,
+    'plans.subscribed.status': `Intekenaarstatus: {status, select,
     active {Aktief}
     incomplete {Daar is iets wat ontbreek}
     incomplete_expired {Daar is iets wat ontbreek}
-    trialing {Proef}
+    trialing {Proeftydperk}
     past_due {Ons mis jou betaling}
-    canceled {Gekanselleer}
+    cancelled {Gekanselleer}
     unpaid {Onbetaal}
     expired {Verval}
     other {}
