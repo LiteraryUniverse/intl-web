@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Ansiklopedinizi doldurun, en az 30 girişiniz olsun! 100 sınırına yaklaşıyorsanız daha iyi.',
     'payment.universe.haveFans': 'Eğer insanlar zaten yaptığınız şeye ilgi duyuyorsa, onları sponsor olmaya ikna etmek daha kolay olur. 100 hayranın evreninizi kütüphanesine eklemesi başlangıç çizgisidir.',
     'payment.settings.yourFanClub': 'Hayran kulübünüz',
-    'payment.settings.newWork': 'Yeni bir çalışma oluştur'
+    'payment.settings.newWork': 'Yeni bir çalışma oluştur',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
