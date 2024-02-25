@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ಚುಕ್ತಿ ಸ್ಥಿತಿ: {status, select,
+    'plans.subscribed.status': `ಚಂದಾ ಸ್ಥಿತಿ: {status, select,
     active {ಸಕ್ರಿಯ}
-    incomplete {ಏನಾದರೂ ಮಿಸ್ಸಿಂಗ್ ಇದೆ}
-    incomplete_expired {ಏನಾದರೂ ಮಿಸ್ಸಿಂಗ್ ಇದೆ}
-    trialing {ಪರೀಕ್ಷಾಯೋಗ}
-    past_due {ನಿಮ್ಮ ಪಾವತಿ ಮಿಸ್ಸಿಂಗ್ ಇದೆ}
-    canceled {ರದ್ದು ಮಾಡಲಾಗಿದೆ}
-    unpaid {ಪಾವತಿ ಇಲ್ಲ}
-    expired {ಮುಕ್ತಾಯ}
+    incomplete {ಏನೋ ಕೆಲವು ಮುಂದುವರಿಕೆಗಳಿವೆ}
+    incomplete_expired {ಏನೋ ಕೆಲವು ಮುಂದುವರಿಕೆಗಳಿವೆ}
+    trialing {ಟ್ರಯಲ್}
+    past_due {ನಿಮ್ಮ ಪಾವತಿ ಕಡಿಮೆಯಾಗಿದೆ}
+    cancelled {ರದ್ದು ಮಾಡಲಾಗಿದೆ}
+    unpaid {ಪಾವತಿ ಪಾಡಿಸಲಾಗದೆ}
+    expired {ಅವಧಿ ಮುಗಿದಿದೆ}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
