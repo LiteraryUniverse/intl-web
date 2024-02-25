@@ -95,7 +95,7 @@ export default {
     incomplete_expired {Det mangler noe}
     trialing {Prøveperiode}
     past_due {Vi mangler betalingen din}
-    canceled {Avbrutt}
+    cancelled {Avbrutt}
     unpaid {Ubetalt}
     expired {Utløpt}
     other {}
