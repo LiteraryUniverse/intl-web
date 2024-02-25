@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'ನೀವು ಮಾಡುವ ಕೆಲಸಕ್ಕೆ ಮೊದಲು ಆಸಕ್ತರಾಗಿರುವ ಜನರು ನಿಮಗೆ ಸ್ಪಾನ್ಸರ್ ಆಗುವುದು ಸುಲಭ. 100 ರಸಾಯನಗಳನ್ನು ಅವರ ಲೈಬ್ರರಿಗೆ ಸೇರಿಸುವುದು ಪ್ರಾರಂಭ ರೇಖೆ.',
     'payment.settings.yourFanClub': 'ನಿಮ್ಮ ಅನುಯಾಯ ಕೌಟುಂಬಿಕ',
-    'payment.settings.newWork': 'ಹೊಸ ಕೆಲಸ ರಚಿಸಿ'
+    'payment.settings.newWork': 'ಹೊಸ ಕೆಲಸ ರಚಿಸಿ',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
