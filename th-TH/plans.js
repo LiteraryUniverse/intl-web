@@ -90,14 +90,14 @@ export default {
   }.`,
     'plans.subscribed.paymentMethod': 'วิธีการชำระเงินเริ่มต้นของคุณจะถูกใช้ในการชำระเงินสำหรับรอบถัดไป',
     'plans.subscribed.status': `สถานะการสมัครสมาชิก: {status, select,
-    active {ใช้งานอยู่}
-    incomplete {บางอย่างขาดหายไป}
-    incomplete_expired {บางอย่างขาดหายไป}
+    active {ใช้งาน}
+    incomplete {มีบางอย่างขาดหาย}
+    incomplete_expired {มีบางอย่างขาดหาย}
     trialing {ทดลองใช้}
-    past_due {เราขาดการชำระเงินของคุณ}
-    canceled {ยกเลิกแล้ว}
-    unpaid {ยังไม่ชำระเงิน}
-    expired {หมดอายุแล้ว}
+    past_due {เราไม่ได้รับการชำระเงินของคุณ}
+    cancelled {ยกเลิก}
+    unpaid {ยังไม่ได้ชำระเงิน}
+    expired {หมดอายุ}
     other {}
   }`,
     'payments.changeMethod': 'เปลี่ยนวิธีการชำระเงิน',
