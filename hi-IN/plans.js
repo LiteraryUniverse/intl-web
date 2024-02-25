@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'आपका डिफ़ॉल्ट भुगतान विधि अगले साइकल के लिए उपयोग किया जाएगा।',
-    'plans.subscribed.status': `सब्सक्रिप्शन की स्थिति: {status, select,
+    'plans.subscribed.status': `सदस्यता स्थिति: {status, select,
     active {सक्रिय}
-    incomplete {कुछ छूट रह गया है}
-    incomplete_expired {कुछ छूट रह गया है}
+    incomplete {कुछ चीज़ गुम है}
+    incomplete_expired {कुछ चीज़ गुम है}
     trialing {परीक्षण}
-    past_due {हमें आपके भुगतान की कुछ कमी है}
-    canceled {रद्द}
+    past_due {हमें आपका भुगतान गुम है}
+    cancelled {रद्द किया गया}
     unpaid {अवैतनिक}
     expired {समाप्त}
     other {}
