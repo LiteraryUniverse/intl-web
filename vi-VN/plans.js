@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Phương thức thanh toán mặc định của bạn sẽ được sử dụng để thanh toán cho chu kỳ tiếp theo.',
-    'plans.subscribed.status': `Tình trạng đăng ký: {status, select,
-    active {Hoạt động}
-    incomplete {Có điều gì đó bị thiếu}
-    incomplete_expired {Có điều gì đó bị thiếu}
-    trialing {Thử nghiệm}
-    past_due {Thiếu thanh toán của bạn}
-    canceled {Đã hủy}
+    'plans.subscribed.status': `Trạng thái đăng ký: {status, select,
+    active {Đang hoạt động}
+    incomplete {Có một số thông tin bị thiếu}
+    incomplete_expired {Có một số thông tin bị thiếu}
+    trialing {Dùng thử}
+    past_due {Chúng tôi đang thiếu thanh toán của bạn}
+    cancelled {Đã hủy}
     unpaid {Chưa thanh toán}
-    expired {Hết hạn}
+    expired {Đã hết hạn}
     other {}
   }`,
     'payments.changeMethod': 'Thay đổi phương thức thanh toán',
