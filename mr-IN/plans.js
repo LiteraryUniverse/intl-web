@@ -89,14 +89,14 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'आपली पूर्वनिर्धारित पेमेंट पद्धत पुढील सायकलसाठी वापरली जाईल.',
-    'plans.subscribed.status': `अंशदानाची स्थिती: {status, select,
+    'plans.subscribed.status': `सदस्यता स्थिती: {status, select,
     active {सक्रिय}
-    incomplete {काही गोष्ट बरेच आहेत}
-    incomplete_expired {काही गोष्ट बरेच आहेत}
-    trialing {परीक्षा}
-    past_due {आम्हास तुमचे देय व्यवहार चुकले आहे}
-    canceled {रद्द}
-    unpaid {बक्षिस ग्राह्य नाही}
+    incomplete {काहीतरी अच्छा नाही}
+    incomplete_expired {काहीतरी अच्छा नाही}
+    trialing {प्रयोगस्वरूप}
+    past_due {आपला पेमेंट अच्छा नाही}
+    cancelled {रद्द}
+    unpaid {बक्षिस नाही}
     expired {समाप्त}
     other {}
   }`,
