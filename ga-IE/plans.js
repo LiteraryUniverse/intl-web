@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Líon isteach do leabhrán, bí agat ar a laghad 30 iontráil! Níos fearr má tá tú ag streachailt leis an margadh 100.',
     'payment.universe.haveFans': 'Is éasca daoine a mhealladh chun tacaíocht a thabhairt duit má tá suim acu cheana féin sa rud atá á dhéanamh agat. Tosaíonn an líne tosaigh nuair a chuireann 100 lucht leanúna do chruinneas leabharlann orthu.',
     'payment.settings.yourFanClub': 'Do chlub lucht leanúna',
-    'payment.settings.newWork': 'Cruthaigh saothar nua'
+    'payment.settings.newWork': 'Cruthaigh saothar nua',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
