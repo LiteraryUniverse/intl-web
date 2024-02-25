@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'ملأ الموسوعة الخاصة بك، ويجب أن تكون لديك 30 إدخالًا على الأقل! الأفضل إذا كنت تستهدف الحاجز 100.',
     'payment.universe.haveFans': 'من الأسهل الحصول على رعاة إذا كانوا مهتمين بما تقوم به. إضافة 100 معجب إلى مكتبتك هو خط البداية.',
     'payment.settings.yourFanClub': 'نادي المعجبين الخاص بك',
-    'payment.settings.newWork': 'إنشاء عمل جديد'
+    'payment.settings.newWork': 'إنشاء عمل جديد',
+    'payment.amount.withNet': `{amount} (صافي: {netAmount})`
 };
