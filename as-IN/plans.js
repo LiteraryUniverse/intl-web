@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'আপোনাৰ ডিফল্ট পেমেন্ট পদ্ধতি পৰাৰ পৰা পৰ্বটৰ বাবে ব্যৱহাৰ কৰা হব।',
-    'plans.subscribed.status': `চূঢ়াৰ অবস্থা: {status, select,
-    active {সক্রিয়}
-    incomplete {এটা অনুপস্থিত কিছু আছে}
-    incomplete_expired {এটা অনুপস্থিত কিছু আছে}
-    trialing {পরীক্ষণ}
-    past_due {আমাদেৰ পেমেন্ট অনুপস্থিত}
-    canceled {বাতিল কৰা হৈছে}
-    unpaid {পেমেন্ট অনুপস্থিত}
-    expired {মেয়াদ উত্তীৰ্ণ হৈছে}
+    'plans.subscribed.status': `গ্রাহকত্বৰ অৱস্থা: {status, select,
+    active {সক্ৰিয়}
+    incomplete {কিছু নেই}
+    incomplete_expired {কিছু নেই}
+    trialing {প্ৰয়াস}
+    past_due {আমি আপোনাৰ পেমেন্ট পোৱা নহয়}
+    cancelled {বাতিল কৰা হৈছে}
+    unpaid {অপৰিশোধিত}
+    expired {মেয়াদ উকলি গছে}
     other {}
   }`,
     'payments.changeMethod': 'পেমেন্টৰ পদ্ধতি সলনি কৰক',
