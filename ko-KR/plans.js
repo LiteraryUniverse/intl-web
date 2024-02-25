@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': '다음 주기에는 기본 결제 방법이 사용됩니다.',
-    'plans.subscribed.status': `구독 상태: {status, select,
-    active {활성화됨}
-    incomplete {누락된 항목이 있습니다}
-    incomplete_expired {누락된 항목이 있습니다}
-    trialing {체험판}
-    past_due {결제가 누락되었습니다}
-    canceled {취소됨}
-    unpaid {미지급}
-    expired {만료됨}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
     'payments.changeMethod': '결제 방법 변경',
