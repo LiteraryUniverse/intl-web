@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Töltsd fel az enciklopédiádat, legalább 30 bejegyzéssel! Jobb, ha a 100-as határt támadod meg.',
     'payment.universe.haveFans': 'Sokkal könnyebb embereket szponzorálni, ha már érdeklődnek az általad végzett tevékenység iránt. 100 rajongó, akik hozzáadják az univerzumodat a könyvtárukhoz, az induló vonal.',
     'payment.settings.yourFanClub': 'A rajongói klubod',
-    'payment.settings.newWork': 'Új mű létrehozása'
+    'payment.settings.newWork': 'Új mű létrehozása',
+    'payment.amount.withNet': `{amount} (nettó: {netAmount})`
 };
