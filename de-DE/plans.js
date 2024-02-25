@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Fülle deine Enzyklopädie aus, habe mindestens 30 Einträge! Besser ist es, wenn du die 100er-Marke angreifst.',
     'payment.universe.haveFans': 'Es ist einfacher, Menschen dazu zu bringen, dich zu unterstützen, wenn sie bereits an dem interessiert sind, was du tust. 100 Fans, die dein Universum zu ihrer Bibliothek hinzufügen, sind der Ausgangspunkt.',
     'payment.settings.yourFanClub': 'Dein Fanclub',
-    'payment.settings.newWork': 'Einen neuen Beitrag erstellen'
+    'payment.settings.newWork': 'Einen neuen Beitrag erstellen',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
