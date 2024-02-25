@@ -91,13 +91,13 @@ export default {
     'plans.subscribed.paymentMethod': 'तपाईंको पूर्वनिर्धारित भुक्तानी विधि अगाडीको चक्रका लागि प्रयोग गरिनेछ।',
     'plans.subscribed.status': `सदस्यता स्थिति: {status, select,
     active {सक्रिय}
-    incomplete {कुछ खोया गया है}
-    incomplete_expired {कुछ खोया गया है}
+    incomplete {केही कुरा छुटेको छ}
+    incomplete_expired {केही कुरा छुटेको छ}
     trialing {परीक्षण}
-    past_due {हमें आपके भुगतान की वस्तु की कमी है}
-    canceled {रद्द}
-    unpaid {अवैतनिक}
-    expired {समाप्त}
+    past_due {हामीलाई तपाईंको भुक्तानी चाहिएको छ}
+    cancelled {रद्द गरियो}
+    unpaid {अबुकेल}
+    expired {समय सकियो}
     other {}
   }`,
     'payments.changeMethod': 'भुक्तानी विधि परिवर्तन गर्नुहोस्',
