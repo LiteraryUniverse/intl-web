@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Isi ensiklopedia Anda, miliki setidaknya 30 entri! Lebih baik jika Anda mencapai 100 entri.',
     'payment.universe.haveFans': 'Lebih mudah mendapatkan sponsor jika mereka sudah tertarik dengan apa yang Anda lakukan. 100 penggemar yang menambahkan universe Anda ke perpustakaan mereka adalah garis awal.',
     'payment.settings.yourFanClub': 'Klub penggemar Anda',
-    'payment.settings.newWork': 'Buat karya baru'
+    'payment.settings.newWork': 'Buat karya baru',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
