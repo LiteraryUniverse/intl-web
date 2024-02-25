@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
+    'plans.subscribed.status': `გამოწერის სტატუსი: {status, select,
     active {აქტიური}
-    incomplete {რაღაც საკითხია}
-    incomplete_expired {რაღაც საკითხია}
-    trialing {ცდამოწმება}
-    past_due {გადახდა გვიანია}
-    canceled {გაუქმებული}
-    unpaid {გადახდური}
-    expired {ვადაგასული}
+    incomplete {რაიმე დაკარგულია}
+    incomplete_expired {რაიმე დაკარგულია}
+    trialing {ცდა}
+    past_due {გადახდის გაგრძელება მოგვარებისას}
+    cancelled {გაუქმებულია}
+    unpaid {გადახდისგასამუშავებელია}
+    expired {ვადაგასულია}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
