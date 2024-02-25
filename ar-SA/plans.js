@@ -93,10 +93,10 @@ export default {
     active {نشط}
     incomplete {هناك شيء مفقود}
     incomplete_expired {هناك شيء مفقود}
-    trialing {تجريبي}
-    past_due {ينقصنا عملية الدفع الخاصة بك}
-    canceled {تم الإلغاء}
-    unpaid {غير المدفوع}
+    trialing {تجربة}
+    past_due {نحن بحاجة إلى دفعتك}
+    cancelled {تم الإلغاء}
+    unpaid {غير مدفوع}
     expired {منتهي الصلاحية}
     other {}
   }`,
