@@ -91,13 +91,13 @@ export default {
     'plans.subscribed.paymentMethod': 'Na platbu za ďalší cyklus sa použije váš predvolený spôsob platby.',
     'plans.subscribed.status': `Stav predplatného: {status, select,
     active {Aktívne}
-    incomplete {Chýba niečo}
-    incomplete_expired {Chýba niečo}
-    trialing {Skúšobná verzia}
-    past_due {Chýba nám Vaša platba}
-    canceled {Zrušené}
+    incomplete {Niečo chýba}
+    incomplete_expired {Niečo chýba}
+    trialing {Skúšobné}
+    past_due {Chýba nám platba}
+    cancelled {Zrušené}
     unpaid {Nezaplatené}
-    expired {Expirované}
+    expired {Vypršané}
     other {}
   }`,
     'payments.changeMethod': 'Zmeniť spôsob platby',
