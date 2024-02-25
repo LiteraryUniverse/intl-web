@@ -93,10 +93,10 @@ export default {
     active {Aktiv}
     incomplete {Etwas fehlt}
     incomplete_expired {Etwas fehlt}
-    trialing {Test!}
-    past_due {Uns fehlt Ihre Zahlung}
-    canceled {Storniert}
-    unpaid {Ungezahlt}
+    trialing {Testphase}
+    past_due {Wir vermissen Ihre Zahlung}
+    cancelled {Storniert}
+    unpaid {Unbezahlt}
     expired {Abgelaufen}
     other {}
   }`,
