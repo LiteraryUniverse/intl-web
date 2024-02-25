@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Συμπληρώστε την εγκυκλοπαίδειά σας, έχετε τουλάχιστον 30 καταχωρήσεις! Καλύτερα αν πλησιάζετε τα 100.',
     'payment.universe.haveFans': 'Είναι πιο εύκολο να πείσετε ανθρώπους να σας χορηγήσουν αν ενδιαφέρονται ήδη για αυτό που κάνετε. 100 θαυμαστές προσθέτοντας το σύμπαν σας στη βιβλιοθήκη τους είναι η αφετηρία.',
     'payment.settings.yourFanClub': 'Ο οπαδικός σας σύλλογος',
-    'payment.settings.newWork': 'Δημιουργία νέου έργου'
+    'payment.settings.newWork': 'Δημιουργία νέου έργου',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
