@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'El mètode de pagament predeterminat s\'utilitzarà per pagar el cicle següent.',
-    'plans.subscribed.status': `Estat de subscripció: {status, select,
+    'plans.subscribed.status': `Estat de la subscripció: {status, select,
     active {Activa}
-    incomplete {Falta alguna cosa}
-    incomplete_expired {Falta alguna cosa}
+    incomplete {Hi ha alguna cosa que falta}
+    incomplete_expired {Hi ha alguna cosa que falta}
     trialing {Prova}
-    past_due {Ens falten les vostres pagaments}
-    canceled {Cancel·lada}
+    past_due {Ens falta el teu pagament}
+    cancelled {Cancel·lada}
     unpaid {No pagada}
-    expired {Caducada}
+    expired {Expirada}
     other {}
   }`,
     'payments.changeMethod': 'Canvia el mètode de pagament',
