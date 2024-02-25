@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'आफ्नो ज्ञानकोष भर्नुहोस्, कम्तिमा ३० प्रविष्टिहरू हुनुपर्छ! १०० मार्जिनमा हमीले आक्रमण गर्ने भएको राम्रो छ।',
     'payment.universe.haveFans': 'यदि लोग आपके कार्य में पहले से ही रुचि रखते हैं, तो आपको उन्हें प्रायोजित करना आसान होता है। 100 प्रशंसक जो आपकी यूनिवर्स को अपनी लाइब्रेरी में जोड़ते हैं, वह स्टार्टिंग लाइन है।',
     'payment.settings.yourFanClub': 'आपके प्रशंसक क्लब',
-    'payment.settings.newWork': 'नया कार्य बनाएं'
+    'payment.settings.newWork': 'नया कार्य बनाएं',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
