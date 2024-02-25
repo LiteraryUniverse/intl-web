@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'आपल्या विज्ञानकोशाला भरा, किमान ३० प्रविष्ट्यांची आवश्यकता आहे! १०० मर्जाने आपल्याला आक्रमण करण्याची निश्चितता असेल तर चांगलं.',
     'payment.universe.haveFans': 'तुमच्या कार्यावर आधारित असलेल्या लोकांना जर आधिकारिकपणे प्रायोजक करण्याची सुविधा आहे तर तुम्हाला प्रायोजन करणाऱ्या 100 चाहत्यांची तुमच्या लायब्ररीमध्ये उमेदवारी सुरुवातीचा पाठवण्याचा संकेत आहे.',
     'payment.settings.yourFanClub': 'तुमच्या फॅन क्लब',
-    'payment.settings.newWork': 'नवीन कार्य तयार करा'
+    'payment.settings.newWork': 'नवीन कार्य तयार करा',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
