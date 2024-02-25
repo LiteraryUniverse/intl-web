@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Η προεπιλεγμένη μέθοδος πληρωμής σας θα χρησιμοποιηθεί για την επόμενη περίοδο χρέωσης.',
-    'plans.subscribed.status': `Κατάσταση συνδρομής: {status, select,
-    active {Ενεργή}
-    incomplete {Λείπει κάτι}
-    incomplete_expired {Λείπει κάτι}
-    trialing {Δοκιμή}
-    past_due {Λείπει η πληρωμή σας}
-    canceled {Ακυρώθηκε}
-    unpaid {Απλήρωτη}
-    expired {Έληξε}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
     'payments.changeMethod': 'Αλλαγή μεθόδου πληρωμής',
