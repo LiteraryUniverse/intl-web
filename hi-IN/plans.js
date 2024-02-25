@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'अपना विज्ञान कोश भरें, कम से कम 30 प्रविष्टियाँ हों! यदि आप 100 सीमा पर हमला कर रहे हैं तो बेहतर है।',
     'payment.universe.haveFans': 'यदि वे पहले से ही उन्हें जो आप कर रहे हैं में रुचि रखते हैं, तो लोगों को आपका प्रायोजक बनाना आसान हो जाता है। 100 प्रशंसक जो आपकी यूनिवर्स को अपनी पुस्तकालय में जोड़ रहे हैं, यह स्टार्टिंग लाइन है।',
     'payment.settings.yourFanClub': 'आपका फैन क्लब',
-    'payment.settings.newWork': 'नया काम बनाएं'
+    'payment.settings.newWork': 'नया काम बनाएं',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
