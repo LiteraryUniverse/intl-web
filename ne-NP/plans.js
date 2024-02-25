@@ -89,15 +89,15 @@ export default {
     other {बुझाइएको बिल तिर्ने पछि स्वतः}
   }नवीनीकृत हुनेछ ।`,
     'plans.subscribed.paymentMethod': 'तपाईंको पूर्वनिर्धारित भुक्तानी विधि अर्को चक्रका लागि प्रयोग गरिनेछ।',
-    'plans.subscribed.status': `चाडपरिवर्तन स्थिति: {status, select,
+    'plans.subscribed.status': `सदस्यता स्थिति: {status, select,
     active {सक्रिय}
-    incomplete {केही कुरा छैन}
-    incomplete_expired {केही कुरा छैन}
-    trialing {परिक्षण}
-    past_due {तपाईंको भुक्तानी छैन}
-    canceled {रद्द गरिएको}
-    unpaid {अभुक्तानीले}
-    expired {म्याद सकिएको}
+    incomplete {केहि कुरा छुटेको छ}
+    incomplete_expired {केहि कुरा छुटेको छ}
+    trialing {परीक्षण}
+    past_due {हामीले तपाईंको भुक्तानी नगरेको छ}
+    cancelled {रद्द गरियो}
+    unpaid {अबुकेको छ}
+    expired {समाप्त भयो}
     other {}
   }`,
     'payments.changeMethod': 'भुक्तानी विधि परिवर्तन गर्नुहोस्',
