@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Täytä tietosanakirjasi, sinulla tulee olla vähintään 30 merkintää! Parempi, jos ylität 100 rajan.',
     'payment.universe.haveFans': 'On helpompaa saada ihmisiä tukemaan sinua, jos he ovat jo kiinnostuneita siitä, mitä teet. 100 faniasi lisäämässä universumisi kirjastoonsa on lähtöviiva.',
     'payment.settings.yourFanClub': 'Fanikerhosi',
-    'payment.settings.newWork': 'Luo uusi teos'
+    'payment.settings.newWork': 'Luo uusi teos',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
