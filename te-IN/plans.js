@@ -91,13 +91,13 @@ export default {
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
     'plans.subscribed.status': `చందా స్థితి: {status, select,
     active {క్రియాశీలం}
-    incomplete {ఏదేమో లేదు}
-    incomplete_expired {ఏదేమో లేదు}
-    trialing {ప్రయాతి}
+    incomplete {ఏదో కొంత లేదు}
+    incomplete_expired {ఏదో కొంత లేదు}
+    trialing {ప్రయాసం}
     past_due {మాకు మీ చెల్లింపు లేదు}
-    canceled {రద్దు చేసారు}
-    unpaid {పైకాస్తి}
-    expired {అయితేది}
+    cancelled {రద్దు చేయబడింది}
+    unpaid {చెల్లింపు చెల్లించనిది}
+    expired {గడువున ముగివేయబడింది}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
