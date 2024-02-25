@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Remplissez votre encyclopédie, ayez au moins 30 entrées ! Mieux si vous visez les 100.',
     'payment.universe.haveFans': 'Il est plus facile d\'obtenir des sponsors si ils sont déjà intéressés par ce que vous faites. 100 fans ajoutant votre univers à leur bibliothèque est la ligne de départ.',
     'payment.settings.yourFanClub': 'Votre club de fans',
-    'payment.settings.newWork': 'Créer un nouveau travail'
+    'payment.settings.newWork': 'Créer un nouveau travail',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
