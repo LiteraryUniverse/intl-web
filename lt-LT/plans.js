@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Jūsų numatytas mokėjimo metodas bus naudojamas apmokėti kitą ciklą.',
-    'plans.subscribed.status': `Prenumeracija: {status, select,
+    'plans.subscribed.status': `Prenumeracijos būsena: {status, select,
     active {Aktyvi}
     incomplete {Kažkas trūksta}
     incomplete_expired {Kažkas trūksta}
-    trialing {Bandomoji}
-    past_due {Missing your payment}
-    canceled {Atšaukta}
-    unpaid {Nepriimtas}
-    expired {Baigėsi!}
+    trialing {Išbandymas}
+    past_due {Trūksta jūsų mokėjimo}
+    cancelled {Atšaukta}
+    unpaid {Neapmokėta}
+    expired {Pasibaigusi}
     other {}
   }`,
     'payments.changeMethod': 'Keisti mokėjimo metodą',
