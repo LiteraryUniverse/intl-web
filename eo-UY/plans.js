@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Plenigu vian enciklopedion, havu almenaŭ 30 artikolojn! Plibonu se vi atingas la limon de 100.',
     'payment.universe.haveFans': 'Estas pli facile akiri sponsorojn se ili jam interesas pri tio, kion vi faras. 100 fanoj, kiuj aldonas vian universon al sia biblioteko, estas la starta linio.',
     'payment.settings.yourFanClub': 'Via fanklubo',
-    'payment.settings.newWork': 'Krei novan verkon'
+    'payment.settings.newWork': 'Krei novan verkon',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
