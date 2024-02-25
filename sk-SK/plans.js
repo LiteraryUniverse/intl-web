@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Naplňte svoju encyklopédiu, majte aspoň 30 položiek! Lepšie, ak atakujete hranicu 100.',
     'payment.universe.haveFans': 'Je ľahšie získať ľudí, aby vás sponzorovali, ak už majú záujem o to, čo robíte. 100 fanúšikov, ktorí pridajú vašu vesmír do svojej knižnice, je štartovnou čiarou.',
     'payment.settings.yourFanClub': 'Váš fanúšikovský klub',
-    'payment.settings.newWork': 'Vytvoriť nové dielo'
+    'payment.settings.newWork': 'Vytvoriť nové dielo',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
