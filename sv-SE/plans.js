@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Fyll på din encyklopedi, ha minst 30 poster! Bättre om du når 100-gränsen.',
     'payment.universe.haveFans': 'Det är lättare att få människor att sponsra dig om de redan är intresserade av det du gör. 100 fans som lägger till ditt universum i sin bibliotek är startlinjen.',
     'payment.settings.yourFanClub': 'Din fan club',
-    'payment.settings.newWork': 'Skapa ett nytt arbete'
+    'payment.settings.newWork': 'Skapa ett nytt arbete',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
