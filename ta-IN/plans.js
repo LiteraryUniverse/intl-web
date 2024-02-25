@@ -91,12 +91,12 @@ export default {
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
     'plans.subscribed.status': `சந்தா நிலை: {status, select,
     active {செயலில் உள்ளது}
-    incomplete {ஏதேனும் இல்லை}
-    incomplete_expired {ஏதேனும் இல்லை}
-    trialing {சேயல்பாடு}
-    past_due {நாம் உங்கள் செலவை காணவில்லை}
-    canceled {ரத்துசெய்யப்பட்டது}
-    unpaid {வாய்ப்பு இல்லை}
+    incomplete {ஒன்று இல்லை}
+    incomplete_expired {ஒன்று இல்லை}
+    trialing {சோதனை}
+    past_due {உங்கள் கட்டணம் இல்லை}
+    cancelled {ரத்து செய்யப்பட்டது}
+    unpaid {பணம் செலுத்தப்படவில்லை}
     expired {காலாவதியானது}
     other {}
   }`,
