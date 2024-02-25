@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Punan ang iyong ensiklopedya, magkaroon ng hindi bababa sa 30 na mga entry! Mas maganda kung higit sa 100 ang iyong target.',
     'payment.universe.haveFans': 'Mas madali kang makakakuha ng mga taong susuporta sa iyo kung sila ay interesado na sa ginagawa mo. Ang 100 na fans na nagdadagdag ng iyong universe sa kanilang library ang simula.',
     'payment.settings.yourFanClub': 'Ang iyong fan club',
-    'payment.settings.newWork': 'Lumikha ng bagong gawa'
+    'payment.settings.newWork': 'Lumikha ng bagong gawa',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
