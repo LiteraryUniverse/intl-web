@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': '填寫您的百科全書，至少有30個條目！如果能達到100個條目就更好了。',
     'payment.universe.haveFans': '如果他們已經對你的做事感興趣，那麼讓人贊助你會更容易。100個粉絲將你的宇宙加入他們的圖書館，這是起跑線。',
     'payment.settings.yourFanClub': '你的粉絲俱樂部',
-    'payment.settings.newWork': '創建一個新作品'
+    'payment.settings.newWork': '創建一個新作品',
+    'payment.amount.withNet': `{amount} （淨額： {netAmount}）`
 };
