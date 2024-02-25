@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'Dễ dàng hơn để có được những người tài trợ nếu họ đã quan tâm đến những gì bạn đang làm. 100 fan thêm vũ trụ của bạn vào thư viện của họ là điểm khởi đầu.',
     'payment.settings.yourFanClub': 'Câu lạc bộ fan của bạn',
-    'payment.settings.newWork': 'Tạo một công việc mới'
+    'payment.settings.newWork': 'Tạo một công việc mới',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
