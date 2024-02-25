@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ཕྱིར་རྟགས་འཁྲུངས་སྐྱོང: {status, select,
-    active {བཀོལ་ནས་བརྐྱབས་བསྒྱུར་གཅིག་མིན་འདུག་}
-    incomplete {གསརཔ་ནི་ལས་ཐོག་རྐྱེན་ལེབ་སྟེ་ཡོད།}
-    incomplete_expired {གསརཔ་ནི་ལས་ཐོག་རྐྱེན་ལེབ་སྟེ་ཡོད།}
-    trialing {བྱེད་སྐུའི་དབང་བསྒྱ་}
-    past_due {ང་སྐྱེད་གཏང་ཡང་ངོ་བསྐུའི་དབང་སྐྱེད་}
-    canceled {བཀལ་ནས་མིན་འདུག་}
-    unpaid {ང་དང་བརྗེད་མིན་འདུག་}
-    expired {ཚེས་གྲངས་ཟློས་པའི་དབང་སྐྱེད་}
+    'plans.subscribed.status': `གསརཔ་འབྱེད་གནང་བ།: {status, select,
+    active {བཀོལ་ནས་བྱེད་པ།}
+    incomplete {གནང་བ་མིན་འདུག}
+    incomplete_expired {གནང་བ་མིན་འདུག}
+    trialing {བརྩོན་འབྲེལ།}
+    past_due {ངེས་དོན་འདུག}
+    cancelled {བྲིས་བུའི་བཀོལ་ནས་བྱེད་པ།}
+    unpaid {བཀོལ་ནས་མེད་པ།}
+    expired {འགོ་བཀོལ་ནས་བྱེད་པ།}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
