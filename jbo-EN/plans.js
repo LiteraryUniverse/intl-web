@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Tolcanci lo se jikca be lo do crepu, .i do nitcu lo nu cilre lo nu se jikca lo do barna gi\'o lo nu do nitcu lo nu se jikca',
     'payment.universe.haveFans': 'Le nu prenu cu se sinmau lo nu do sidju lo nu do cilre cu se xamgu. lo fanmoi cu se cmavo lo nu do zbasu lo do kantu.',
     'payment.settings.yourFanClub': 'lo fanri\'u be do',
-    'payment.settings.newWork': 'lo nu zbasu lo nu djuno'
+    'payment.settings.newWork': 'lo nu zbasu lo nu djuno',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
