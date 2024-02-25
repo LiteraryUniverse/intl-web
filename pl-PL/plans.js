@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Wypełnij swoją encyklopedię, miej przynajmniej 30 wpisów! Lepiej jeśli zbliżasz się do 100.',
     'payment.universe.haveFans': 'Łatwiej jest zdobyć sponsorów, jeśli już są zainteresowani tym, co robisz. 100 fanów dodających twoją przestrzeń do swojej biblioteki to linia startowa.',
     'payment.settings.yourFanClub': 'Twój klub fanów',
-    'payment.settings.newWork': 'Utwórz nowe dzieło'
+    'payment.settings.newWork': 'Utwórz nowe dzieło',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
