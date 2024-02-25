@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Vyplňte svou encyklopedii, mějte alespoň 30 záznamů! Lepší, pokud útočíte na 100 záznamů.',
     'payment.universe.haveFans': 'Je snazší vás přimět k sponzorování, pokud už mají zájem o to, co děláte. 100 fanoušků kteří mají Váš vesmír ve své knihovně je dobrý počáteční laťka.',
     'payment.settings.yourFanClub': 'Váš fanouškový klub',
-    'payment.settings.newWork': 'Vytvořit nové dílo'
+    'payment.settings.newWork': 'Vytvořit nové dílo',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
