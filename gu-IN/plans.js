@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'જો તમારી કરતા વ્યક્તિઓ પહેલાથીથી તેમને તમારા કાર્યક્રમમાં રુચિ રાખે છે, તો તમારે સ્પોન્સરશીપ માટે લોકોને મળવો આસાન થાય છે. 100 ફેન્સ તમારા યુનિવર્સને તેમના લાઇબ્રેરીમાં ઉમેરી રહ્યાં છે તે શરૂ કરવાની રેખા છે.',
     'payment.settings.yourFanClub': 'તમારું ફેન ક્લબ',
-    'payment.settings.newWork': 'નવું કાર્ય બનાવો'
+    'payment.settings.newWork': 'નવું કાર્ય બનાવો',
+    'payment.amount.withNet': `{amount} (નેટ: {netAmount})`
 };
