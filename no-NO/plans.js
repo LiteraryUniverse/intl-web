@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Fyll opp din encyklopedi, ha minst 30 oppføringer! Enda bedre om du nærmer deg 100.',
     'payment.universe.haveFans': 'Det er lettere å få folk til å sponsorere deg hvis de allerede er interessert i det du gjør. 100 fans som legger til universet ditt i biblioteket sitt er startlinjen.',
     'payment.settings.yourFanClub': 'Din fanklubb',
-    'payment.settings.newWork': 'Opprett et nytt verk'
+    'payment.settings.newWork': 'Opprett et nytt verk',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
