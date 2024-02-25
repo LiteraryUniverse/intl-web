@@ -94,8 +94,8 @@ export default {
     incomplete {יש משהו חסר}
     incomplete_expired {יש משהו חסר}
     trialing {ניסיון}
-    past_due {חסרים את התשלום שלך}
-    canceled {מבוטל}
+    past_due {אנחנו מפספסים את התשלום שלך}
+    cancelled {בוטל}
     unpaid {לא שולם}
     expired {פג תוקף}
     other {}
