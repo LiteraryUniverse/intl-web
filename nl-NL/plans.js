@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Vul uw encyclopedie aan, met minstens 30 vermeldingen! Beter als u de marge van 100 aanvalt.',
     'payment.universe.haveFans': 'Het is makkelijker om mensen te vinden die je willen sponsoren als ze al geïnteresseerd zijn in wat je doet. 100 fans die jouw universum aan hun bibliotheek toevoegen is de startlijn.',
     'payment.settings.yourFanClub': 'Jouw fanclub',
-    'payment.settings.newWork': 'Creëer een nieuw werk'
+    'payment.settings.newWork': 'Creëer een nieuw werk',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
