@@ -89,14 +89,14 @@ export default {
     other {}
   }។`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ស្ថានភាពការជាវអ្នកជាវ: {status, select,
-    active {ធ្លាក់ចុះតែបន្តកំពុងជាវ}
-    incomplete {មានអ្វីមួយខ្វះប្រើប្រាស់ប្រចាំទៅមិនមានប៉ាសកាល់}
-    incomplete_expired {មានអ្វីមួយខ្វះប្រើប្រាស់ប្រចាំទៅមិនមានប៉ាសកាល់}
-    trialing {ពាក្យសាកល្បង}
+    'plans.subscribed.status': `ស្ថានភាពការជាវ: {status, select,
+    active {ដំណើរការរបស់អ្នកនៅសល់}
+    incomplete {មានអ្វីមួយខ្វះបាន}
+    incomplete_expired {មានអ្វីមួយខ្វះបាន}
+    trialing {សាកល្បង}
     past_due {យើងខ្វះការបង់ប្រាក់របស់អ្នក}
-    canceled {បោះបង់}
-    unpaid {មិនបានបង់}
+    cancelled {បោះបង់}
+    unpaid {មិនបានបង់ប្រាក់}
     expired {ផុតកំណត់}
     other {}
   }`,
