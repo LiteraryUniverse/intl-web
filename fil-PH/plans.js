@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Ang iyong default na paraan ng pagbabayad ay gagamitin para sa susunod na siklo.',
-    'plans.subscribed.status': `Katayuan ng Subscription: {status, select,
+    'plans.subscribed.status': `Katayuan ng subscription: {status, select,
     active {Aktibo}
-    incomplete {May kulang}
-    incomplete_expired {May kulang}
+    incomplete {May nawawalang bagay}
+    incomplete_expired {May nawawalang bagay}
     trialing {Pagsusubok}
-    past_due {Kulang ang iyong pagbabayad}
-    canceled {Nakansela}
+    past_due {Nawawala ang iyong pagbabayad}
+    cancelled {Kinansela}
     unpaid {Hindi nabayaran}
     expired {Nag-expire}
     other {}
