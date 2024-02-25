@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'Ompli la teva enciclopèdia, amb almenys 30 entrades! Millor si t\'apropes a les 100.',
     'payment.universe.haveFans': 'És més fàcil aconseguir que les persones et patrocinin si ja estan interessades en el que estàs fent. 100 fans afegint el teu univers a la seva biblioteca és la línia d\'inici.',
     'payment.settings.yourFanClub': 'El teu club de fans',
-    'payment.settings.newWork': 'Crea una obra nova'
+    'payment.settings.newWork': 'Crea una obra nova',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
