@@ -94,10 +94,10 @@ export default {
     incomplete {Jotain puuttuu}
     incomplete_expired {Jotain puuttuu}
     trialing {Kokeilu}
-    past_due {Maksu puuttuu}
-    canceled {Peruutettu}
+    past_due {Maksusuoritustasi puuttuu}
+    cancelled {Peruutettu}
     unpaid {Maksamaton}
-    expired {Päättynyt}
+    expired {Vanhentunut}
     other {}
   }`,
     'payments.changeMethod': 'Vaihda maksutapaa',
