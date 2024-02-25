@@ -91,11 +91,11 @@ export default {
     'plans.subscribed.paymentMethod': 'Ditt standardbetalningssätt kommer att användas för att betala för nästa period.',
     'plans.subscribed.status': `Prenumerationsstatus: {status, select,
     active {Aktiv}
-    incomplete {Något saknas}
-    incomplete_expired {Något saknas}
+    incomplete {Det saknas något}
+    incomplete_expired {Det saknas något}
     trialing {Test}
     past_due {Vi saknar din betalning}
-    canceled {Avbruten}
+    cancelled {Avbruten}
     unpaid {Obetald}
     expired {Utlöpt}
     other {}
