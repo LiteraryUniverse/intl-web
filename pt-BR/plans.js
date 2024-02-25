@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Seu método de pagamento padrão será usado para pagar pelo próximo ciclo.',
-    'plans.subscribed.status': `Status de assinatura: {status, select,
-    active {Ativo}
-    incomplete {Alguma coisa está faltando}
-    incomplete_expired {Alguma coisa está faltando}
+    'plans.subscribed.status': `Status da assinatura: {status, select,
+    active {Ativa}
+    incomplete {Há algo faltando}
+    incomplete_expired {Há algo faltando}
     trialing {Teste}
-    past_due {Estamos perdendo o seu pagamento}
-    canceled {Cancelado}
-    unpaid {Não pago}
-    expired {Expirado}
+    past_due {Estamos aguardando seu pagamento}
+    cancelled {Cancelada}
+    unpaid {Não paga}
+    expired {Expirada}
     other {}
   }`,
     'payments.changeMethod': 'Alterar método de pagamento',
