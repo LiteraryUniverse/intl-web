@@ -91,12 +91,12 @@ export default {
     'plans.subscribed.paymentMethod': 'Do zapłaty za następny cykl zostanie użyta domyślna metoda płatności.',
     'plans.subscribed.status': `Status subskrypcji: {status, select,
     active {Aktywna}
-    incomplete {Brakuje czegoś}
-    incomplete_expired {Brakuje czegoś}
+    incomplete {Coś brakuje}
+    incomplete_expired {Coś brakuje}
     trialing {Próba}
-    past_due {Brakuje nam twojej płatności}
-    canceled {Anulowana}
-    unpaid {Nieopłacone}
+    past_due {Brakuje nam Twojej płatności}
+    cancelled {Anulowana}
+    unpaid {Nieopłacona}
     expired {Wygasła}
     other {}
   }`,
