@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'מלא את האנציקלופדיה שלך, עם לפחות 30 ערכים! טוב יותר אם אתה מתקרב למרקם של 100.',
     'payment.universe.haveFans': 'קל יותר לקבל תומכים אם הם כבר מתעניינים במה שאתה עושה. 100 אוהדים שמוסיפים את היקום שלך לספרייתם הוא קו התחלה.',
     'payment.settings.yourFanClub': 'מועדון האוהדים שלך',
-    'payment.settings.newWork': 'צור יצירה חדשה'
+    'payment.settings.newWork': 'צור יצירה חדשה',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
