@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': 'আপনার বিশ্বটি পূর্ণ করুন, কমপক্ষে 30 টি এন্ট্রি থাকতে হবে! যদি আপনি 100 এর মার্জিনে আক্রমণ করেন তাহলে আরও ভাল।',
     'payment.universe.haveFans': 'যদি মানুষদের যা তুমি করছো তায় তারা আগ্রহী হয়, তাহলে তোমার স্পন্সর পাওয়া সহজ হয়। ১০০ ফ্যান তোমার ইউনিভার্সে সংযুক্ত করে তোমার শুরুর লাইন।',
     'payment.settings.yourFanClub': 'তোমার ফ্যান ক্লাব',
-    'payment.settings.newWork': 'নতুন কাজ তৈরি করো'
+    'payment.settings.newWork': 'নতুন কাজ তৈরি করো',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
