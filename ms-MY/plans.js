@@ -93,11 +93,11 @@ export default {
     active {Aktif}
     incomplete {Ada sesuatu yang hilang}
     incomplete_expired {Ada sesuatu yang hilang}
-    trialing {Percobaan}
-    past_due {Kami kehilangan pembayaran Anda}
-    canceled {Dibatalkan}
-    unpaid {Belum Dibayar}
-    expired {Kedaluwarsa}
+    trialing {Percubaan}
+    past_due {Kami tidak menerima pembayaran anda}
+    cancelled {Dibatalkan}
+    unpaid {Belum dibayar}
+    expired {Tamat tempoh}
     other {}
   }`,
     'payments.changeMethod': 'Tukar kaedah pembayaran',
