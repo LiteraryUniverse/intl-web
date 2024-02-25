@@ -214,5 +214,6 @@ export default {
     'payment.universe.directivesEncFull': '백과사전을 채우세요. 최소한 30개의 항목이 있어야 합니다! 100개 이상이면 더 좋습니다.',
     'payment.universe.haveFans': '당신이 하는 일에 이미 관심이 있는 사람들이 후원자가 되는 것은 더 쉽습니다. 100명의 팬이 당신의 작품을 자신의 라이브러리에 추가하는 것이 시작선입니다.',
     'payment.settings.yourFanClub': '팬 클럽',
-    'payment.settings.newWork': '새 작품 만들기'
+    'payment.settings.newWork': '새 작품 만들기',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`
 };
