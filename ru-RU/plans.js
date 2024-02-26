@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Ваш способ оплаты по умолчанию будет использоваться для оплаты следующего цикла.',
-    'plans.subscribed.status': `Статус подписки: {status, select,
-    active {Активна}
-    incomplete {Что-то отсутствует}
-    incomplete_expired {Что-то отсутствует}
+    'plans.subscribed.status': `Состояние подписки: {status, select,
+    active {Действует}
+    incomplete {Чего-то не хватает}
+    incomplete_expired {Чего-то не хватает}
     trialing {Пробная}
-    past_due {Нам не хватает вашей оплаты}
+    past_due {Мы не получили ваш платёж}
     cancelled {Отменена}
-    unpaid {Неоплаченная}
-    expired {Истекший}
+    unpaid {Не оплачена}
+    expired {Истекла}
     other {}
   }`,
     'payments.changeMethod': 'Изменить метод оплаты',
@@ -215,5 +215,5 @@ export default {
     'payment.universe.haveFans': 'Легче привлечь людей к спонсорству, если они уже заинтересованы в том, что вы делаете. 100 фанатов, добавивших вашу вселенную в свою библиотеку, - это уже отправная точка.',
     'payment.settings.yourFanClub': 'Ваш фанклуб',
     'payment.settings.newWork': 'Создать новое произведение',
-    'payment.amount.withNet': `{amount} (с учетом: {netAmount})`
+    'payment.amount.withNet': `{amount} (с учётом: {netAmount})`
 };
