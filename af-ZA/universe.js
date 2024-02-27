@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Versteek',
     'universe.fanFiction.hide': 'Hide fanfiction',
     'universe.fanFiction.unhide': 'Unhide fanfiction',
-    'universe.fanFiction.create': 'Skep nuwe fanfiksie'
+    'universe.fanFiction.create': 'Skep nuwe fanfiksie',
+    'universe.fanFiction.notAllowed': 'Hierdie Heelal laat nie fanfiksie wys nie.'
 };
