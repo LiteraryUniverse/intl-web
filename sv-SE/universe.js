@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Dold',
     'universe.fanFiction.hide': 'Dölj fanfiction',
     'universe.fanFiction.unhide': 'Visa fanfiction igen',
-    'universe.fanFiction.create': 'Skapa ny fan fiction'
+    'universe.fanFiction.create': 'Skapa ny fan fiction',
+    'universe.fanFiction.notAllowed': 'Detta universum tillåter inte visning av fanfiction.'
 };
