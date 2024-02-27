@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'დამალულია',
     'universe.fanFiction.hide': 'ფანფიქშენის დამალვა',
     'universe.fanFiction.unhide': 'ფანფიქშენის აღდგენა',
-    'universe.fanFiction.create': 'შექმენი ახალი ფან ფიქცია'
+    'universe.fanFiction.create': 'შექმენი ახალი ფან ფიქცია',
+    'universe.fanFiction.notAllowed': 'ეს უნივერსუმი არ არის ნებადართული ფან ფიქციების ჩვენებას.'
 };
