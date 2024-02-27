@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'যদি লোকজন ইতিমধ্যে তোমার কাজে আগ্রহী থাকে তবে তাদেরকে স্পন্সর করতে পাওয়া সহজ। ১০০ প্রশংসক তোমার বিশ্বকে তাদের লাইব্রেরি যোগ করলেই শুরু হয়।',
     'payment.settings.yourFanClub': 'তোমার প্রশংসক ক্লাব',
     'payment.settings.newWork': 'নতুন কাজ তৈরি করো',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
