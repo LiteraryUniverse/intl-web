@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': 'تصميمات المشجعين {universe}',
     'universe.fanFiction.hidden': 'مخفي',
     'universe.fanFiction.hide': 'إخفاء القصص الخيالية',
-    'universe.fanFiction.unhide': 'إظهار القصص الخيالية'
+    'universe.fanFiction.unhide': 'إظهار القصص الخيالية',
+    'universe.fanFiction.create': 'إنشاء قصة خيالية جديدة'
 };
