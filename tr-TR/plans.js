@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Eğer insanlar zaten yaptığınız şeye ilgi duyuyorsa, onları sponsor olmaya ikna etmek daha kolay olur. 100 hayranın evreninizi kütüphanesine eklemesi başlangıç çizgisidir.',
     'payment.settings.yourFanClub': 'Hayran kulübünüz',
     'payment.settings.newWork': 'Yeni bir çalışma oluştur',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
