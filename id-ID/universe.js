@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} seni penggemar',
     'universe.fanFiction.hidden': 'Tersembunyi',
     'universe.fanFiction.hide': 'Sembunyikan fanfiction',
-    'universe.fanFiction.unhide': 'Tampilkan kembali fanfiction'
+    'universe.fanFiction.unhide': 'Tampilkan kembali fanfiction',
+    'universe.fanFiction.create': 'Buat fan fiction baru'
 };
