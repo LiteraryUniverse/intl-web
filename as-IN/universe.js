@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ফ্যান আৰ্ট',
     'universe.fanFiction.hidden': 'গুপ্তভাৱে হোৱা হৈছে',
     'universe.fanFiction.hide': 'ৰচনাকহ  আৰ্ট লুকাওক',
-    'universe.fanFiction.unhide': 'ৰচনাকহ  আৰ্ট লুকুৱাওক'
+    'universe.fanFiction.unhide': 'ৰচনাকহ  আৰ্ট লুকুৱাওক',
+    'universe.fanFiction.create': 'নতুন ফ্যান ফিকশন তৈরি কৰক'
 };
