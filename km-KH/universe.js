@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} រូបភាពអ្នកចម្រៀង',
     'universe.fanFiction.hidden': 'លាក់',
     'universe.fanFiction.hide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំ',
-    'universe.fanFiction.unhide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំត្រូវបង្ហាញឡើងវិញ'
+    'universe.fanFiction.unhide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំត្រូវបង្ហាញឡើងវិញ',
+    'universe.fanFiction.create': 'បង្កើតរឿងក្បកថ្មី'
 };
