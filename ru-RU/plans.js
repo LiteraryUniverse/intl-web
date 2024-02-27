@@ -216,6 +216,6 @@ export default {
     'payment.settings.yourFanClub': 'Ваш фанклуб',
     'payment.settings.newWork': 'Создать новое произведение',
     'payment.amount.withNet': `{amount} (с учётом: {netAmount})`,
-    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.intro': 'В этом разделе вы можете изменить настройки вашего фан-клуба. От уровней подписки до истории платежей.',
+    'payment.fanClub.tiers': 'Уровни'
 };
