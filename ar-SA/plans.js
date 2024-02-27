@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'من الأسهل الحصول على رعاة إذا كانوا مهتمين بما تقوم به. إضافة 100 معجب إلى مكتبتك هو خط البداية.',
     'payment.settings.yourFanClub': 'نادي المعجبين الخاص بك',
     'payment.settings.newWork': 'إنشاء عمل جديد',
-    'payment.amount.withNet': `{amount} (صافي: {netAmount})`
+    'payment.amount.withNet': `{amount} (صافي: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
