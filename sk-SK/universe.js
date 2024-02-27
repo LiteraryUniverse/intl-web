@@ -34,5 +34,6 @@ export default {
     'universe.fanFiction.hidden': 'Skryté',
     'universe.fanFiction.hide': 'Skryť fanfiction',
     'universe.fanFiction.unhide': 'Odstrániť skrytie fanfiction',
-    'universe.fanFiction.create': 'Vytvoriť novú fan fiction'
+    'universe.fanFiction.create': 'Vytvoriť novú fan fiction',
+    'universe.fanFiction.notAllowed': 'Tento Vesmír neumožňuje zobrazenie fanúšikovskej fikcie.'
 };
