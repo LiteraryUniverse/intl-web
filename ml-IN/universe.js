@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'മറയ്ക്കപ്പെട്ടു',
     'universe.fanFiction.hide': 'ഫാൻഫിക്ഷൻ മറയ്ക്കുക',
     'universe.fanFiction.unhide': 'ഫാൻഫിക്ഷൻ അനാവരണം ചെയ്യുക',
-    'universe.fanFiction.create': 'പുതിയ ഫാൻ ഫിക്ഷൻ സൃഷ്ടിക്കുക'
+    'universe.fanFiction.create': 'പുതിയ ഫാൻ ഫിക്ഷൻ സൃഷ്ടിക്കുക',
+    'universe.fanFiction.notAllowed': 'ഈ യൂണിവേഴ്‌സ് ഫാൻ ഫിക്ഷൻ കാണിക്കാൻ അനുവദിക്കുന്നില്ല.'
 };
