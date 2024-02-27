@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} art dels fans',
     'universe.fanFiction.hidden': 'Ocult',
     'universe.fanFiction.hide': 'Amaga fanfictions',
-    'universe.fanFiction.unhide': 'Desamaga fanfictions'
+    'universe.fanFiction.unhide': 'Desamaga fanfictions',
+    'universe.fanFiction.create': 'Crear nova ficció de fans'
 };
