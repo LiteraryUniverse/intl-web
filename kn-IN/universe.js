@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'ಮರೆಯಲಾಗಿದೆ',
     'universe.fanFiction.hide': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಮರುಹೊಂದಿಸಿ',
     'universe.fanFiction.unhide': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ದೃಶ್ಯದಲ್ಲಿ ತಂದುಕೊಳ್ಳಿ',
-    'universe.fanFiction.create': 'ಹೊಸ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ರಚಿಸಿ'
+    'universe.fanFiction.create': 'ಹೊಸ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ರಚಿಸಿ',
+    'universe.fanFiction.notAllowed': 'ಈ ಬ್ರಹ್ಮಾಂಡವು ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ತೋರಿಸುವುದನ್ನು ಅನುಮತಿಸುವುದಿಲ್ಲ.'
 };
