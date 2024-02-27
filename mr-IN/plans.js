@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'तुमच्या कार्यावर आधारित असलेल्या लोकांना जर आधिकारिकपणे प्रायोजक करण्याची सुविधा आहे तर तुम्हाला प्रायोजन करणाऱ्या 100 चाहत्यांची तुमच्या लायब्ररीमध्ये उमेदवारी सुरुवातीचा पाठवण्याचा संकेत आहे.',
     'payment.settings.yourFanClub': 'तुमच्या फॅन क्लब',
     'payment.settings.newWork': 'नवीन कार्य तयार करा',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]'
 };
