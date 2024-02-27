@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Je snazší vás přimět k sponzorování, pokud už mají zájem o to, co děláte. 100 fanoušků kteří mají Váš vesmír ve své knihovně je dobrý počáteční laťka.',
     'payment.settings.yourFanClub': 'Váš fanouškový klub',
     'payment.settings.newWork': 'Vytvořit nové dílo',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
