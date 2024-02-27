@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Verborgen',
     'universe.fanFiction.hide': 'Verberg fanfictie',
     'universe.fanFiction.unhide': 'Toon fanfictie',
-    'universe.fanFiction.create': 'Nieuwe fanfictie maken'
+    'universe.fanFiction.create': 'Nieuwe fanfictie maken',
+    'universe.fanFiction.notAllowed': 'Deze Universum staat geen fanfictie toe.'
 };
