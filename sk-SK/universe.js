@@ -33,5 +33,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} umenie fanúšikov',
     'universe.fanFiction.hidden': 'Skryté',
     'universe.fanFiction.hide': 'Skryť fanfiction',
-    'universe.fanFiction.unhide': 'Odstrániť skrytie fanfiction'
+    'universe.fanFiction.unhide': 'Odstrániť skrytie fanfiction',
+    'universe.fanFiction.create': 'Vytvoriť novú fan fiction'
 };
