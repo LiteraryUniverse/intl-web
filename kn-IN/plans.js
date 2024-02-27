@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'ನೀವು ಮಾಡುವ ಕೆಲಸಕ್ಕೆ ಮೊದಲು ಆಸಕ್ತರಾಗಿರುವ ಜನರು ನಿಮಗೆ ಸ್ಪಾನ್ಸರ್ ಆಗುವುದು ಸುಲಭ. 100 ರಸಾಯನಗಳನ್ನು ಅವರ ಲೈಬ್ರರಿಗೆ ಸೇರಿಸುವುದು ಪ್ರಾರಂಭ ರೇಖೆ.',
     'payment.settings.yourFanClub': 'ನಿಮ್ಮ ಅನುಯಾಯ ಕೌಟುಂಬಿಕ',
     'payment.settings.newWork': 'ಹೊಸ ಕೆಲಸ ರಚಿಸಿ',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
