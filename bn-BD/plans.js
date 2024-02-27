@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'যদি মানুষদের যা তুমি করছো তায় তারা আগ্রহী হয়, তাহলে তোমার স্পন্সর পাওয়া সহজ হয়। ১০০ ফ্যান তোমার ইউনিভার্সে সংযুক্ত করে তোমার শুরুর লাইন।',
     'payment.settings.yourFanClub': 'তোমার ফ্যান ক্লাব',
     'payment.settings.newWork': 'নতুন কাজ তৈরি করো',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
