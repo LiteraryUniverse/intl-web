@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Caché',
     'universe.fanFiction.hide': 'Masquer la fanfiction',
     'universe.fanFiction.unhide': 'Afficher la fanfiction',
-    'universe.fanFiction.create': 'Créer une nouvelle fan fiction'
+    'universe.fanFiction.create': 'Créer une nouvelle fan fiction',
+    'universe.fanFiction.notAllowed': 'Cet Univers ne permet pas d\'afficher des fanfictions.'
 };
