@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'ཁྱེད་ཀྱིས་ ཁྱེད་ཀྱིས་ལས་འགན་སྤྲོད་པའི་མིང་ཚིག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད་པའི་འགྱངས་ཆེན་པོ། ༡༠༠ ཕར་དག་གི་བསྐྱེད་པ་ཚུ་བརྟག་པར་བསྐྱེད་པའི་ཡང་དག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད་པའི་འགྱངས་ཆེན་པོ་བཟོས་པར་བསྐྱེད་པའི་ལས་འགན་སྤྲོད་པའི་མིང་ཚིག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད་པའི་འགྱངས་ཆེན་པོ།',
     'payment.settings.yourFanClub': 'ཁྱེད་ཀྱིས་ཁྱེད་ཀྱིས་ལས་འགན་སྤྲོད་པའི་མིང་ཚིག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད།',
     'payment.settings.newWork': 'བསྐྱེད་པ་གསརཔ་པོ།',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
