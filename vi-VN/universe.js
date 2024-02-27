@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} nghệ thuật của fan',
     'universe.fanFiction.hidden': 'Ẩn đi',
     'universe.fanFiction.hide': 'Ẩn fanfiction',
-    'universe.fanFiction.unhide': 'Hiện fanfiction'
+    'universe.fanFiction.unhide': 'Hiện fanfiction',
+    'universe.fanFiction.create': 'Tạo fan fiction mới'
 };
