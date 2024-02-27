@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ഫാൻ ആർട്ട്',
     'universe.fanFiction.hidden': 'മറയ്ക്കപ്പെട്ടു',
     'universe.fanFiction.hide': 'ഫാൻഫിക്ഷൻ മറയ്ക്കുക',
-    'universe.fanFiction.unhide': 'ഫാൻഫിക്ഷൻ അനാവരണം ചെയ്യുക'
+    'universe.fanFiction.unhide': 'ഫാൻഫിക്ഷൻ അനാവരണം ചെയ്യുക',
+    'universe.fanFiction.create': 'പുതിയ ഫാൻ ഫിക്ഷൻ സൃഷ്ടിക്കുക'
 };
