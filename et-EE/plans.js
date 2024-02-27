@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Inimeste veenmine sponsorluseks on lihtsam, kui neid juba huvitab see, mida sa teed. 100 fänni, kes lisavad su universumi oma raamatukokku, on stardijooneks.',
     'payment.settings.yourFanClub': 'Sinu fänniklubi',
     'payment.settings.newWork': 'Loo uus töö',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
