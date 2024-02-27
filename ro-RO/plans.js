@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Este mai ușor să obții sponsorizări de la oameni care sunt deja interesați de ceea ce faci. 100 de fani care adaugă universul tău în biblioteca lor reprezintă linia de start.',
     'payment.settings.yourFanClub': 'Clubul tău de fani',
     'payment.settings.newWork': 'Creează o lucrare nouă',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
