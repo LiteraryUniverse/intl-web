@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ventillátor művészet',
     'universe.fanFiction.hidden': 'Elrejtett',
     'universe.fanFiction.hide': 'Fanfiction elrejtése',
-    'universe.fanFiction.unhide': 'Fanfiction megjelenítése'
+    'universe.fanFiction.unhide': 'Fanfiction megjelenítése',
+    'universe.fanFiction.create': 'Új rajongói történet létrehozása'
 };
