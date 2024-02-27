@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fan art',
     'universe.fanFiction.hidden': 'Nascosta',
     'universe.fanFiction.hide': 'Nascondi fanfiction',
-    'universe.fanFiction.unhide': 'Mostra fanfiction'
+    'universe.fanFiction.unhide': 'Mostra fanfiction',
+    'universe.fanFiction.create': 'Crea nuova fan fiction'
 };
