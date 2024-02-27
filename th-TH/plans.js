@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'การให้บุคคลที่สนับสนุนคุณเป็นเรื่องง่ายขึ้นถ้าพวกเขามีความสนใจในสิ่งที่คุณกำลังทำอยู่แล้ว 100 แฟนที่เพิ่มจักรวาลของคุณเข้าสู่ห้องสมุดของพวกเขาเป็นเส้นตรงเริ่มต้น',
     'payment.settings.yourFanClub': 'สโมสรแฟนของคุณ',
     'payment.settings.newWork': 'สร้างงานใหม่',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
