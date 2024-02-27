@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'மறைக்கப்பட்டது',
     'universe.fanFiction.hide': 'கதைகளை மறைக்க',
     'universe.fanFiction.unhide': 'கதைகளை காட்டு',
-    'universe.fanFiction.create': 'புதிய புனைப்பட கதையை உருவாக்குங்கள்'
+    'universe.fanFiction.create': 'புதிய புனைப்பட கதையை உருவாக்குங்கள்',
+    'universe.fanFiction.notAllowed': 'இந்த உலகம் பக்கம் உரையாற்ற அனுமதிக்காது.'
 };
