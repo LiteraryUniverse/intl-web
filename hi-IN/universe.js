@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} फैन आर्ट',
     'universe.fanFiction.hidden': 'छिपाया गया',
     'universe.fanFiction.hide': 'फैन फिक्शन छिपाएं',
-    'universe.fanFiction.unhide': 'फैन फिक्शन दिखाएं'
+    'universe.fanFiction.unhide': 'फैन फिक्शन दिखाएं',
+    'universe.fanFiction.create': 'नयी फैन फिक्शन बनाएं'
 };
