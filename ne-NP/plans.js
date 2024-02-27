@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'यदि तपाईंले गर्नुभएको काममा पहिले नै रुचि राख्ने व्यक्तिहरूलाई तपाईंलाई स्पन्सर गर्न सजिलो छ। १०० फनहरूले तपाईंको यूनिभर्सलाई आफ्नो पुस्तकालयमा थप्ने शुरुवाती रेखा हो।',
     'payment.settings.yourFanClub': 'तपाईंको प्रशंसा समूह',
     'payment.settings.newWork': 'नयाँ कार्य सिर्जना गर्नुहोस्',
-    'payment.amount.withNet': `{amount} (नेट: {netAmount})`
+    'payment.amount.withNet': `{amount} (नेट: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
