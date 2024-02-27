@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Estas pli facile akiri sponsorojn se ili jam interesas pri tio, kion vi faras. 100 fanoj, kiuj aldonas vian universon al sia biblioteko, estas la starta linio.',
     'payment.settings.yourFanClub': 'Via fanklubo',
     'payment.settings.newWork': 'Krei novan verkon',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
