@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'ადამიანები უფრო მარტივად შეიძლება გააწიოთ თქვენი სპონსორები, თუ ისინი უკვე ინტერესებს გამოაქვეყნებენ იმას, რაც თქვენ აკეთებთ. 100 ფანსი, რომლებიც დაამატებენ თქვენს უნივერსიტეტს მათი ბიბლიოთეკაში, არის სტარტინგის ხაზი.',
     'payment.settings.yourFanClub': 'თქვენი ფანკლუბი',
     'payment.settings.newWork': 'ახალი ნამუშის შექმნა',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]'
 };
