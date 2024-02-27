@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': '如果他們已經對你的做事感興趣，那麼讓人贊助你會更容易。100個粉絲將你的宇宙加入他們的圖書館，這是起跑線。',
     'payment.settings.yourFanClub': '你的粉絲俱樂部',
     'payment.settings.newWork': '創建一個新作品',
-    'payment.amount.withNet': `{amount} （淨額： {netAmount}）`
+    'payment.amount.withNet': `{amount} （淨額： {netAmount}）`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
