@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Le nu prenu cu se sinmau lo nu do sidju lo nu do cilre cu se xamgu. lo fanmoi cu se cmavo lo nu do zbasu lo do kantu.',
     'payment.settings.yourFanClub': 'lo fanri\'u be do',
     'payment.settings.newWork': 'lo nu zbasu lo nu djuno',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
