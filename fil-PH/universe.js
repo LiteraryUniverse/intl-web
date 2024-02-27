@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} sining ng mga fan',
     'universe.fanFiction.hidden': 'Nakatago',
     'universe.fanFiction.hide': 'Itago ang fanfiction',
-    'universe.fanFiction.unhide': 'Huwag itago ang fanfiction'
+    'universe.fanFiction.unhide': 'Huwag itago ang fanfiction',
+    'universe.fanFiction.create': 'Gumawa ng bagong fan fiction'
 };
