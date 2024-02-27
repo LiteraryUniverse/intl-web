@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fanitaidetta',
     'universe.fanFiction.hidden': 'Piilotettu',
     'universe.fanFiction.hide': 'Piilota fanifiktiot',
-    'universe.fanFiction.unhide': 'Näytä piilotetut fanifiktiot'
+    'universe.fanFiction.unhide': 'Näytä piilotetut fanifiktiot',
+    'universe.fanFiction.create': 'Luo uusi fanifiktiota'
 };
