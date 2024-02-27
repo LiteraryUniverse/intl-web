@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ਫੈਨ ਕਲਾ',
     'universe.fanFiction.hidden': 'ਲੁਕਾਇਆ',
     'universe.fanFiction.hide': 'ਫੈਨਫਿਕਸ਼ਨ ਛੁਪਾਓ',
-    'universe.fanFiction.unhide': 'ਫੈਨਫਿਕਸ਼ਨ ਦਿਖਾਓ'
+    'universe.fanFiction.unhide': 'ਫੈਨਫਿਕਸ਼ਨ ਦਿਖਾਓ',
+    'universe.fanFiction.create': 'ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ'
 };
