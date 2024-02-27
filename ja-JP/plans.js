@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'すでにあなたのやっていることに興味を持っている人々にスポンサーを募るのは簡単です。100人のファンがあなたの宇宙を彼らのライブラリに追加することがスタートラインです。',
     'payment.settings.yourFanClub': 'あなたのファンクラブ',
     'payment.settings.newWork': '新しい作品を作成する',
-    'payment.amount.withNet': `{amount} （ネット： {netAmount}）`
+    'payment.amount.withNet': `{amount} （ネット： {netAmount}）`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
