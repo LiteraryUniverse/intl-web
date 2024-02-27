@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'छिपाया गया',
     'universe.fanFiction.hide': 'फैन फिक्शन छिपाएं',
     'universe.fanFiction.unhide': 'फैन फिक्शन दिखाएं',
-    'universe.fanFiction.create': 'नयी फैन फिक्शन बनाएं'
+    'universe.fanFiction.create': 'नयी फैन फिक्शन बनाएं',
+    'universe.fanFiction.notAllowed': 'यह ब्रह्मांड फैन फिक्शन दिखाने की अनुमति नहीं देता है।'
 };
