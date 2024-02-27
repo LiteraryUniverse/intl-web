@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Skjult',
     'universe.fanFiction.hide': 'Skjul fan fiction',
     'universe.fanFiction.unhide': 'Vis fan fiction',
-    'universe.fanFiction.create': 'Opret ny fan fiction'
+    'universe.fanFiction.create': 'Opret ny fan fiction',
+    'universe.fanFiction.notAllowed': 'Dette Univers tillader ikke visning af fan fiction.'
 };
