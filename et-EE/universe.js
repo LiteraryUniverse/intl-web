@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Peidetud',
     'universe.fanFiction.hide': 'Peida fännifilmi',
     'universe.fanFiction.unhide': 'Näita fännifilmi',
-    'universe.fanFiction.create': 'Loo uus fännifiktsioon'
+    'universe.fanFiction.create': 'Loo uus fännifiktsioon',
+    'universe.fanFiction.notAllowed': 'See Universum ei võimalda fännifiktsiooni näitamist.'
 };
