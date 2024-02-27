@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Es ist einfacher, Menschen dazu zu bringen, dich zu unterstützen, wenn sie bereits an dem interessiert sind, was du tust. 100 Fans, die dein Universum zu ihrer Bibliothek hinzufügen, sind der Ausgangspunkt.',
     'payment.settings.yourFanClub': 'Dein Fanclub',
     'payment.settings.newWork': 'Einen neuen Beitrag erstellen',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]'
 };
