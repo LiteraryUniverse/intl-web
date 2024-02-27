@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Είναι πιο εύκολο να πείσετε ανθρώπους να σας χορηγήσουν αν ενδιαφέρονται ήδη για αυτό που κάνετε. 100 θαυμαστές προσθέτοντας το σύμπαν σας στη βιβλιοθήκη τους είναι η αφετηρία.',
     'payment.settings.yourFanClub': 'Ο οπαδικός σας σύλλογος',
     'payment.settings.newWork': 'Δημιουργία νέου έργου',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
