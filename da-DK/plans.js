@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Det er nemmere at få folk til at sponsorere dig, hvis de allerede er interesserede i det, du laver. 100 fans, der tilføjer dit univers til deres bibliotek, er startlinjen.',
     'payment.settings.yourFanClub': 'Din fan klub',
     'payment.settings.newWork': 'Opret et nyt værk',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]'
 };
