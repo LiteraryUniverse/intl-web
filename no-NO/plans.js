@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Det er lettere å få folk til å sponsorere deg hvis de allerede er interessert i det du gjør. 100 fans som legger til universet ditt i biblioteket sitt er startlinjen.',
     'payment.settings.yourFanClub': 'Din fanklubb',
     'payment.settings.newWork': 'Opprett et nytt verk',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
