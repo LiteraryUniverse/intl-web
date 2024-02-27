@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'קל יותר לקבל תומכים אם הם כבר מתעניינים במה שאתה עושה. 100 אוהדים שמוסיפים את היקום שלך לספרייתם הוא קו התחלה.',
     'payment.settings.yourFanClub': 'מועדון האוהדים שלך',
     'payment.settings.newWork': 'צור יצירה חדשה',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
