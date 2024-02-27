@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fan art',
     'universe.fanFiction.hidden': 'Skjult',
     'universe.fanFiction.hide': 'Skjul fan fiction',
-    'universe.fanFiction.unhide': 'Vis fan fiction'
+    'universe.fanFiction.unhide': 'Vis fan fiction',
+    'universe.fanFiction.create': 'Opret ny fan fiction'
 };
