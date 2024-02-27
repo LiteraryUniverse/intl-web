@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Nakatago',
     'universe.fanFiction.hide': 'Itago ang fanfiction',
     'universe.fanFiction.unhide': 'Huwag itago ang fanfiction',
-    'universe.fanFiction.create': 'Gumawa ng bagong fan fiction'
+    'universe.fanFiction.create': 'Gumawa ng bagong fan fiction',
+    'universe.fanFiction.notAllowed': 'Ang Universe na ito ay hindi nagpapahintulot ng pagpapakita ng fan fiction.'
 };
