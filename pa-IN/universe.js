@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'ਲੁਕਾਇਆ',
     'universe.fanFiction.hide': 'ਫੈਨਫਿਕਸ਼ਨ ਛੁਪਾਓ',
     'universe.fanFiction.unhide': 'ਫੈਨਫਿਕਸ਼ਨ ਦਿਖਾਓ',
-    'universe.fanFiction.create': 'ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ'
+    'universe.fanFiction.create': 'ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ',
+    'universe.fanFiction.notAllowed': 'ਇਹ ਬ੍ਰਹਮਾਂਡ ਫੈਨ ਕਲਪਨਾ ਦਿਖਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦੇਂਦਾ।'
 };
