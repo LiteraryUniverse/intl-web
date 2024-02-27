@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fannaan',
     'universe.fanFiction.hidden': 'Versteek',
     'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.unhide': 'Unhide fanfiction',
+    'universe.fanFiction.create': 'Skep nuwe fanfiksie'
 };
