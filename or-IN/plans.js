@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'ଯଦି ମାନଙ୍କୁ ଆପଣଙ୍କର କାର୍ଯ୍ୟରେ ଆଗରେଇ ଆକର୍ଷିତ ହେବାକୁ କଠିନ ନୁହେଁ। 100 ପ୍ରଶଂସକରେ ଆପଣଙ୍କର ବିଶ୍ବରେ ଆପଣଙ୍କର ପୁସ୍ତକାଳୟରେ ଯୋଡ଼ିବାକୁ ଆରମ୍ଭିକ ରେସ୍ତା ଅଟେ।',
     'payment.settings.yourFanClub': 'ଆପଣଙ୍କର ପ୍ରଶଂସ କ୍ଲବ',
     'payment.settings.newWork': 'ନୂତନ କାର୍ଯ୍ୟ ସୃଷ୍ଟି କରନ୍ତୁ',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
