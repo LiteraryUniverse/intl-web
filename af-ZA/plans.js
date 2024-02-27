@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Dit is makliker om mense te kry om jou te borg as hulle reeds belangstel in wat jy doen. 100 ondersteuners wat jou universum by hul biblioteek voeg, is die beginlyn.',
     'payment.settings.yourFanClub': 'Jou ondersteunersklub',
     'payment.settings.newWork': 'Skep \'n nuwe werk',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
