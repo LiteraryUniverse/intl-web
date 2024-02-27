@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Kaŝita',
     'universe.fanFiction.hide': 'Kaŝi fanaĵon',
     'universe.fanFiction.unhide': 'Malapereigi fanaĵon',
-    'universe.fanFiction.create': 'Krei novan fanfikcion'
+    'universe.fanFiction.create': 'Krei novan fanfikcion',
+    'universe.fanFiction.notAllowed': 'Ĉi tiu Universo ne permesas montri fanfikcion.'
 };
