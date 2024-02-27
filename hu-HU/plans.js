@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Sokkal könnyebb embereket szponzorálni, ha már érdeklődnek az általad végzett tevékenység iránt. 100 rajongó, akik hozzáadják az univerzumodat a könyvtárukhoz, az induló vonal.',
     'payment.settings.yourFanClub': 'A rajongói klubod',
     'payment.settings.newWork': 'Új mű létrehozása',
-    'payment.amount.withNet': `{amount} (nettó: {netAmount})`
+    'payment.amount.withNet': `{amount} (nettó: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
