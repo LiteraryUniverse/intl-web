@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Is éasca daoine a mhealladh chun tacaíocht a thabhairt duit má tá suim acu cheana féin sa rud atá á dhéanamh agat. Tosaíonn an líne tosaigh nuair a chuireann 100 lucht leanúna do chruinneas leabharlann orthu.',
     'payment.settings.yourFanClub': 'Do chlub lucht leanúna',
     'payment.settings.newWork': 'Cruthaigh saothar nua',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
