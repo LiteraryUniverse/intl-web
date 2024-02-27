@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'És més fàcil aconseguir que les persones et patrocinin si ja estan interessades en el que estàs fent. 100 fans afegint el teu univers a la seva biblioteca és la línia d\'inici.',
     'payment.settings.yourFanClub': 'El teu club de fans',
     'payment.settings.newWork': 'Crea una obra nova',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
