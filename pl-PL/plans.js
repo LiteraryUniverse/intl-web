@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Łatwiej jest zdobyć sponsorów, jeśli już są zainteresowani tym, co robisz. 100 fanów dodających twoją przestrzeń do swojej biblioteki to linia startowa.',
     'payment.settings.yourFanClub': 'Twój klub fanów',
     'payment.settings.newWork': 'Utwórz nowe dzieło',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
