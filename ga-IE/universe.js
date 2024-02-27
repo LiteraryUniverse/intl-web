@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ealaín lucht leanúna',
     'universe.fanFiction.hidden': 'Iascríbhne a bhaint amach',
     'universe.fanFiction.hide': 'Folaigh ficsean',
-    'universe.fanFiction.unhide': 'Taispeáin ficsean'
+    'universe.fanFiction.unhide': 'Taispeáin ficsean',
+    'universe.fanFiction.create': 'Cruthaigh scéal nua de léiriú na bhfanna'
 };
