@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'On helpompaa saada ihmisiä tukemaan sinua, jos he ovat jo kiinnostuneita siitä, mitä teet. 100 faniasi lisäämässä universumisi kirjastoonsa on lähtöviiva.',
     'payment.settings.yourFanClub': 'Fanikerhosi',
     'payment.settings.newWork': 'Luo uusi teos',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]'
 };
