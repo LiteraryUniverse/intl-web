@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ಫ್ಯಾನ್ ಕಲೆ',
     'universe.fanFiction.hidden': 'ಮರೆಯಲಾಗಿದೆ',
     'universe.fanFiction.hide': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಮರುಹೊಂದಿಸಿ',
-    'universe.fanFiction.unhide': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ದೃಶ್ಯದಲ್ಲಿ ತಂದುಕೊಳ್ಳಿ'
+    'universe.fanFiction.unhide': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ದೃಶ್ಯದಲ್ಲಿ ತಂದುಕೊಳ್ಳಿ',
+    'universe.fanFiction.create': 'ಹೊಸ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ರಚಿಸಿ'
 };
