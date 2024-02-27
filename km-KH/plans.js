@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'ស្វែងយល់ជាងថ្នាក់ទីមួយដើម្បីទទួលបានអ្នកជំនុំអតិបរមាដែលមានចំនួនសមាជិកដែលមានចំណេះដឹងប្រឹក្សានៅលើអ្វីដែលអ្នកកំពុងធ្វើ។ ការបន្ថែមជំនុំរបស់អ្នកទៅកាន់បណ្ដាញសម្រាប់ទិញសៀវភៅនេះគឺជាជំនួយក្នុងការចាប់ផ្តើម។',
     'payment.settings.yourFanClub': 'ក្លឹបអ្នកចូលរួមជាមួយអ្នកជំនុំរបស់អ្នក',
     'payment.settings.newWork': 'បង្កើតការងារថ្មី',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
