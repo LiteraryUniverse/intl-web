@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'நீங்கள் செய்கின்ற விஷயத்தில் ஏற்கனவே ஆர்வம் கொண்ட மக்கள் உங்களை மதிப்பிடுவது எளிதாகும். 100 பிரம்மாண்ட உங்கள் நெருங்கிய படைப்பை அவர்களின் நூலகத்தில் சேர்க்கிறவர்கள் ஆரம்ப வேர்வுகள் ஆகும்.',
     'payment.settings.yourFanClub': 'உங்கள் ரசிப்பான குழு',
     'payment.settings.newWork': 'புதிய பணி உருவாக்குக',
-    'payment.amount.withNet': `{amount} (நிகரானது: {netAmount})`
+    'payment.amount.withNet': `{amount} (நிகரானது: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]'
 };
