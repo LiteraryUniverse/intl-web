@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Lebih mudah mendapatkan sponsor jika mereka sudah tertarik dengan apa yang Anda lakukan. 100 penggemar yang menambahkan universe Anda ke perpustakaan mereka adalah garis awal.',
     'payment.settings.yourFanClub': 'Klub penggemar Anda',
     'payment.settings.newWork': 'Buat karya baru',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
