@@ -32,5 +32,6 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} hayran sanatı',
     'universe.fanFiction.hidden': 'Gizli',
     'universe.fanFiction.hide': 'Hayran Kurguyu Gizle',
-    'universe.fanFiction.unhide': 'Hayran Kurguyu Göster'
+    'universe.fanFiction.unhide': 'Hayran Kurguyu Göster',
+    'universe.fanFiction.create': 'Yeni hayran kurgusu oluştur'
 };
