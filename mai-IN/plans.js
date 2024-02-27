@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'यदि लोग आपके कार्य में पहले से ही रुचि रखते हैं, तो आपको उन्हें प्रायोजित करना आसान होता है। 100 प्रशंसक जो आपकी यूनिवर्स को अपनी लाइब्रेरी में जोड़ते हैं, वह स्टार्टिंग लाइन है।',
     'payment.settings.yourFanClub': 'आपके प्रशंसक क्लब',
     'payment.settings.newWork': 'नया कार्य बनाएं',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
