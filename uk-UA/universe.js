@@ -33,5 +33,6 @@ export default {
     'universe.fanFiction.hidden': 'Приховано',
     'universe.fanFiction.hide': 'Сховати фанфік',
     'universe.fanFiction.unhide': 'Показати фанфік',
-    'universe.fanFiction.create': 'Створити нову фантастичну історію'
+    'universe.fanFiction.create': 'Створити нову фантастичну історію',
+    'universe.fanFiction.notAllowed': 'Цей Всесвіт не дозволяє показу фанфіків.'
 };
