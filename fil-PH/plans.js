@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Mas madali kang makakakuha ng mga taong susuporta sa iyo kung sila ay interesado na sa ginagawa mo. Ang 100 na fans na nagdadagdag ng iyong universe sa kanilang library ang simula.',
     'payment.settings.yourFanClub': 'Ang iyong fan club',
     'payment.settings.newWork': 'Lumikha ng bagong gawa',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
