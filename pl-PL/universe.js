@@ -35,5 +35,6 @@ export default {
     'universe.fanFiction.hidden': 'Ukryta',
     'universe.fanFiction.hide': 'Ukryj fanfiction',
     'universe.fanFiction.unhide': 'Przywróć widoczność fanfiction',
-    'universe.fanFiction.create': 'Utwórz nową fanfiction'
+    'universe.fanFiction.create': 'Utwórz nową fanfiction',
+    'universe.fanFiction.notAllowed': 'Ten Wszechświat nie pozwala na wyświetlanie fan fiction.'
 };
