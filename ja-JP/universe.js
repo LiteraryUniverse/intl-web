@@ -29,5 +29,6 @@ export default {
     'universe.fanFiction.hidden': '非表示',
     'universe.fanFiction.hide': 'ファンフィクションを非表示にする',
     'universe.fanFiction.unhide': 'ファンフィクションを表示する',
-    'universe.fanFiction.create': '新しいファンフィクションを作成する'
+    'universe.fanFiction.create': '新しいファンフィクションを作成する',
+    'universe.fanFiction.notAllowed': 'この宇宙では、ファンフィクションの表示は許可されていません。'
 };
