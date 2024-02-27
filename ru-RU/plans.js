@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Легче привлечь людей к спонсорству, если они уже заинтересованы в том, что вы делаете. 100 фанатов, добавивших вашу вселенную в свою библиотеку, - это уже отправная точка.',
     'payment.settings.yourFanClub': 'Ваш фанклуб',
     'payment.settings.newWork': 'Создать новое произведение',
-    'payment.amount.withNet': `{amount} (с учётом: {netAmount})`
+    'payment.amount.withNet': `{amount} (с учётом: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
