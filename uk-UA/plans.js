@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Легше знайти спонсорів, якщо вони вже зацікавлені в тому, що ви робите. 100 фанатів, які додають вашу всесвіт до своєї бібліотеки - це стартова лінія.',
     'payment.settings.yourFanClub': 'Ваш фан-клуб',
     'payment.settings.newWork': 'Створити нову роботу',
-    'payment.amount.withNet': `{amount} (мережа: {netAmount})`
+    'payment.amount.withNet': `{amount} (мережа: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
