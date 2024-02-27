@@ -215,5 +215,7 @@ export default {
     'payment.universe.haveFans': 'Lengviau gauti rėmėjus, jei jie jau domisi tuo, ką darote. 100 gerbėjų, pridedančių jūsų visatą į savo biblioteką, yra starto linija.',
     'payment.settings.yourFanClub': 'Jūsų gerbėjų klubas',
     'payment.settings.newWork': 'Sukurti naują kūrinį',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers'
 };
