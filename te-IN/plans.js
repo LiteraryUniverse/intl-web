@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'కొత్త పని సృష్టించండి',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': '[object Promise]'
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.createTier': 'టియర్ జోడించండి',
+    'payment.fanClub.description': 'టియర్ వివరణ',
+    'payment.fanClub.picture': 'టియర్ చిత్రం'
 };
