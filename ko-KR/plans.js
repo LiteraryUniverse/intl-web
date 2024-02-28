@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': '새 작품 만들기',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': '티어 추가',
+    'payment.fanClub.description': '티어 설명',
+    'payment.fanClub.picture': '티어 사진'
 };
