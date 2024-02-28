@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Lumikha ng bagong gawa',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': 'Magdagdag ng tier',
+    'payment.fanClub.description': 'Deskripsyon ng tier',
+    'payment.fanClub.picture': 'Larawan ng tier'
 };
