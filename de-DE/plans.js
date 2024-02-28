@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Einen neuen Beitrag erstellen',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': '[object Promise]',
-    'payment.fanClub.tiers': '[object Promise]'
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.createTier': 'Tier hinzufügen',
+    'payment.fanClub.description': 'Tierbeschreibung',
+    'payment.fanClub.picture': 'Tierbild'
 };
