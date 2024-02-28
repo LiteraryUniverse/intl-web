@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Labas, {username},',
     'common.back': 'Atgal',
     'console.stop': 'Sustok!',
-    'console.explain': 'Tai yra naršyklės funkcija, skirta programuotojams. Jei kas nors pasakė jums, kad čia nukopijuosite kažką, kad įgalintumėte „Literary Universe“ funkciją arba „įsilaužtumėte“ į kieno nors paskyrą, tai yra apgavystė ir leis jiems patekti į jūsų „Literary Universe“ paskyrą.'
+    'console.explain': 'Tai yra naršyklės funkcija, skirta programuotojams. Jei kas nors pasakė jums, kad čia nukopijuosite kažką, kad įgalintumėte „Literary Universe“ funkciją arba „įsilaužtumėte“ į kieno nors paskyrą, tai yra apgavystė ir leis jiems patekti į jūsų „Literary Universe“ paskyrą.',
+    'common.cancel': 'Atšaukti'
 }    /* eslint-enable max-len */;
