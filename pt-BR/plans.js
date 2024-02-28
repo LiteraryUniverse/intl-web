@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Criar um novo trabalho',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': '[object Promise]'
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.createTier': 'Adicionar nível',
+    'payment.fanClub.description': 'Descrição do nível',
+    'payment.fanClub.picture': 'Imagem do nível'
 };
