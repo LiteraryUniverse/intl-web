@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Opret et nyt værk',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': '[object Promise]',
-    'payment.fanClub.tiers': '[object Promise]'
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.createTier': 'Tilføj niveau',
+    'payment.fanClub.description': 'Niveau beskrivelse',
+    'payment.fanClub.picture': 'Niveau billede'
 };
