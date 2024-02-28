@@ -258,5 +258,6 @@ export default {
     'email.hello': '你好 {username}，',
     'common.back': '返回',
     'console.stop': '停止！',
-    'console.explain': '這是一個專為開發人員設計的瀏覽器功能。如果有人告訴你在這裡複製粘貼某些內容以啟用文學宇宙功能或"駭入"某人的帳戶，這是一個詐騙行為，將使他們能夠訪問你的文學宇宙帳戶。'
+    'console.explain': '這是一個專為開發人員設計的瀏覽器功能。如果有人告訴你在這裡複製粘貼某些內容以啟用文學宇宙功能或"駭入"某人的帳戶，這是一個詐騙行為，將使他們能夠訪問你的文學宇宙帳戶。',
+    'common.cancel': '取消'
 }    /* eslint-enable max-len */;
