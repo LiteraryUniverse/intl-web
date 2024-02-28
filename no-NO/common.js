@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Hei {username},',
     'common.back': 'Tilbake',
     'console.stop': 'Stopp!',
-    'console.explain': 'Dette er en nettleserfunksjon ment for utviklere. Hvis noen har bedt deg om å kopiere og lime inn noe her for å aktivere en Literary Universe-funksjon eller "hacke" noen konto, er det svindel og vil gi dem tilgang til din Literary Universe-konto.'
+    'console.explain': 'Dette er en nettleserfunksjon ment for utviklere. Hvis noen har bedt deg om å kopiere og lime inn noe her for å aktivere en Literary Universe-funksjon eller "hacke" noen konto, er det svindel og vil gi dem tilgang til din Literary Universe-konto.',
+    'common.cancel': 'Avbryt'
 }    /* eslint-enable max-len */;
