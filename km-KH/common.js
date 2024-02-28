@@ -258,5 +258,6 @@ export default {
     'email.hello': 'សួស្តី {username},',
     'common.back': 'ត្រឡប់ក្រោយ',
     'console.stop': 'ឈប់វាយតម្លៃទូរស័ព្ទ។',
-    'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.'
+    'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
+    'common.cancel': 'បោះបង់'
 }    /* eslint-enable max-len */;
