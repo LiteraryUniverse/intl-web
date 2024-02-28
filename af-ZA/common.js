@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Hallo {username},',
     'common.back': 'Terug',
     'console.stop': 'Stop!',
-    'console.explain': 'Hierdie is \'n blaaier eienskap bedoel vir ontwikkelaars. As iemand jou vertel het om iets hier te kopieer en plak om \'n Literêre Heelal eienskap te aktiveer of iemand se rekening te "hack", is dit \'n bedrog en sal dit hulle toegang gee tot jou Literêre Heelal rekening.'
+    'console.explain': 'Hierdie is \'n blaaier eienskap bedoel vir ontwikkelaars. As iemand jou vertel het om iets hier te kopieer en plak om \'n Literêre Heelal eienskap te aktiveer of iemand se rekening te "hack", is dit \'n bedrog en sal dit hulle toegang gee tot jou Literêre Heelal rekening.',
+    'common.cancel': 'Kanselleer'
 }    /* eslint-enable max-len */;
