@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Создать новое произведение',
     'payment.amount.withNet': `{amount} (с учётом: {netAmount})`,
     'payment.fanClub.intro': 'В этом разделе вы можете изменить настройки вашего фан-клуба. От уровней подписки до истории платежей.',
-    'payment.fanClub.tiers': 'Уровни'
+    'payment.fanClub.tiers': 'Уровни',
+    'payment.fanClub.createTier': 'Добавить уровень',
+    'payment.fanClub.description': 'Описание уровня',
+    'payment.fanClub.picture': 'Изображение уровня'
 };
