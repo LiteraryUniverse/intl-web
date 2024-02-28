@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Створити нову роботу',
     'payment.amount.withNet': `{amount} (мережа: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': 'Додати рівень',
+    'payment.fanClub.description': 'Опис рівня',
+    'payment.fanClub.picture': 'Зображення рівня'
 };
