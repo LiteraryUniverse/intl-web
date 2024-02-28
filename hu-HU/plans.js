@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Új mű létrehozása',
     'payment.amount.withNet': `{amount} (nettó: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': 'Réteg hozzáadása',
+    'payment.fanClub.description': 'Réteg leírása',
+    'payment.fanClub.picture': 'Réteg képe'
 };
