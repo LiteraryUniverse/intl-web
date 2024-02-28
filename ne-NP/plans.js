@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'नयाँ कार्य सिर्जना गर्नुहोस्',
     'payment.amount.withNet': `{amount} (नेट: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': 'टियर थप्नुहोस्',
+    'payment.fanClub.description': 'टियर विवरण',
+    'payment.fanClub.picture': 'टियर तस्वीर'
 };
