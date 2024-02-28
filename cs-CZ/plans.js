@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'Vytvořit nové dílo',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': 'Přidat úroveň',
+    'payment.fanClub.description': 'Popis úrovně',
+    'payment.fanClub.picture': 'Obrázek úrovně'
 };
