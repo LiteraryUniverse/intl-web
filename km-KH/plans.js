@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'បង្កើតការងារថ្មី',
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': 'បន្ថែមកាំងថ្មី',
+    'payment.fanClub.description': 'ការពិពណ៌នាកាំង',
+    'payment.fanClub.picture': 'រូបភាពកាំង'
 };
