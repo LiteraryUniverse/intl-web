@@ -217,5 +217,8 @@ export default {
     'payment.settings.newWork': 'ഒരു പുതിയ പ്രവർത്തനം സൃഷ്ടിക്കുക',
     'payment.amount.withNet': `{amount} (നെറ്റ്: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
-    'payment.fanClub.tiers': 'Tiers'
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.createTier': 'ടിയർ ചേർക്കുക',
+    'payment.fanClub.description': 'ടിയർ വിവരണം',
+    'payment.fanClub.picture': 'ടിയർ ചിത്രം'
 };
