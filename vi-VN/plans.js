@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': '[object Promise]',
     'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Tên hạng',
     'payment.fanClub.createTier': 'Thêm hạng',
     'payment.fanClub.description': 'Mô tả hạng',
     'payment.fanClub.picture': 'Ảnh hạng'
