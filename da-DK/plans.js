@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': '[object Promise]',
     'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Navn på niveau',
     'payment.fanClub.createTier': 'Tilføj niveau',
     'payment.fanClub.description': 'Niveau beskrivelse',
     'payment.fanClub.picture': 'Niveau billede'
