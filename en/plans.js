@@ -257,6 +257,7 @@ export default {
   'payment.fanClub.intro':
     'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
   'payment.fanClub.tiers': 'Tiers',
+  'payment.fanClub.tierName': 'Tier name'
   'payment.fanClub.createTier': 'Add tier',
   'payment.fanClub.description': 'Tier description',
   'payment.fanClub.picture': 'Tier picture'
