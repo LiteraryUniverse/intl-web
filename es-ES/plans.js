@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (neto: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
     'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nombre de nivel',
     'payment.fanClub.createTier': 'Agregar nivel',
     'payment.fanClub.description': 'Descripción del nivel',
     'payment.fanClub.picture': 'Imagen del nivel'
