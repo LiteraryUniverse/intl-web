@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
     'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Taseme nimi',
     'payment.fanClub.createTier': 'Lisa tase',
     'payment.fanClub.description': 'Taseme kirjeldus',
     'payment.fanClub.picture': 'Taseme pilt'
