@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': '[object Promise]',
     'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Tason nimi',
     'payment.fanClub.createTier': 'Lisää taso',
     'payment.fanClub.description': 'Tason kuvaus',
     'payment.fanClub.picture': 'Tason kuva'
