@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
     'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'तहानाचं नाव',
     'payment.fanClub.createTier': 'टियर जोडा',
     'payment.fanClub.description': 'टियरचे वर्णन',
     'payment.fanClub.picture': 'टियरचा चित्र'
