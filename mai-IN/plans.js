@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
     'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'टियर नाम',
     'payment.fanClub.createTier': 'टियर थप्नुहोस्',
     'payment.fanClub.description': 'टियर वर्णन',
     'payment.fanClub.picture': 'टियर तस्वीर'
