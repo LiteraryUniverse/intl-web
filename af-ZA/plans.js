@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
     'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Tiersnaam',
     'payment.fanClub.createTier': 'Voeg vlak by',
     'payment.fanClub.description': 'Vlak beskrywing',
     'payment.fanClub.picture': 'Vlak prentjie'
