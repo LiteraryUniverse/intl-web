@@ -218,6 +218,7 @@ export default {
     'payment.amount.withNet': `{amount} (net: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
     'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'ტიერის სახელი',
     'payment.fanClub.createTier': 'დონის დამატება',
     'payment.fanClub.description': 'დონის აღწერის დასახელება',
     'payment.fanClub.picture': 'დონის სურათი'
