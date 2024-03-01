@@ -36,5 +36,5 @@ export default {
     'universe.fanFiction.hide': 'Скрыть фанфики',
     'universe.fanFiction.unhide': 'Показать фанфики',
     'universe.fanFiction.create': 'Создать новый фанфик',
-    'universe.fanFiction.notAllowed': 'Эта Вселенная не позволяет показывать фанфики.'
+    'universe.fanFiction.notAllowed': 'Эта вселенная не позволяет показывать фанфики.'
 };
