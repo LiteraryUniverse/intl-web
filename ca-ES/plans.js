@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Nom de la capa',
     'payment.fanClub.createTier': 'Afegir nivell',
     'payment.fanClub.description': 'Descripció del nivell',
-    'payment.fanClub.picture': 'Imatge del nivell'
+    'payment.fanClub.picture': 'Imatge del nivell',
+    'payment.fanClub.priceBreakdown': 'El subscriptor pagarà: {amount}. La comissió de la plataforma és {fee}, obtindràs: {net}',
+    'payment.feeNotice': 'Cal tenir en compte que això és una estimació i la comissió real pot ser diferent en funció del tipus de pagament del client i càrrecs addicionals de la passarel·la de pagament.'
 };
