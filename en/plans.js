@@ -262,5 +262,7 @@ export default {
   'payment.fanClub.description': 'Tier description',
   'payment.fanClub.picture': 'Tier picture',
   'payment.fanClub.priceBreakdown':
-    'Subscriber will pay: {amount}. Platform fee is {fee}, you will get: {net}'
+    'Subscriber will pay: {amount}. Platform fee is {fee}, you will get: {net}',
+  'payment.feeNotice':
+    "Please do note that this is an estimate and the actual fee might be different based on customer's payment type and additional charges from the pay gate."
 }
