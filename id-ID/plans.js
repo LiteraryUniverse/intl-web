@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Nama tier',
     'payment.fanClub.createTier': 'Tambahkan tier',
     'payment.fanClub.description': 'Deskripsi tier',
-    'payment.fanClub.picture': 'Gambar tier'
+    'payment.fanClub.picture': 'Gambar tier',
+    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Biaya platform adalah {fee}, Anda akan mendapatkan: {net}',
+    'payment.feeNotice': 'Harap dicatat bahwa ini hanya perkiraan dan biaya sebenarnya mungkin berbeda berdasarkan jenis pembayaran pelanggan dan biaya tambahan dari gerbang pembayaran.'
 };
