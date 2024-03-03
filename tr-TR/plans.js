@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Seviye adı',
     'payment.fanClub.createTier': 'Katman ekle',
     'payment.fanClub.description': 'Katman açıklaması',
-    'payment.fanClub.picture': 'Katman resmi'
+    'payment.fanClub.picture': 'Katman resmi',
+    'payment.fanClub.priceBreakdown': 'Abone ödeyecek: {amount}. Platform ücreti {fee}, alacaksınız: {net}',
+    'payment.feeNotice': 'Lütfen dikkate alın ki bu bir tahmindir ve gerçek ücret müşterinin ödeme türüne ve ödeme kapısından gelen ek ücretlere bağlı olarak farklı olabilir.'
 };
