@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Název úrovně',
     'payment.fanClub.createTier': 'Přidat úroveň',
     'payment.fanClub.description': 'Popis úrovně',
-    'payment.fanClub.picture': 'Obrázek úrovně'
+    'payment.fanClub.picture': 'Obrázek úrovně',
+    'payment.fanClub.priceBreakdown': 'Odběratel zaplatí: {amount}. Poplatek platformy je {fee}, obdržíte: {net}',
+    'payment.feeNotice': 'Mějte prosím na paměti, že se jedná o odhad a skutečný poplatek se může lišit v závislosti na způsobu platby zákazníka a případných dalších poplatcích od platební brány.'
 };
