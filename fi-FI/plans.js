@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Tason nimi',
     'payment.fanClub.createTier': 'Lisää taso',
     'payment.fanClub.description': 'Tason kuvaus',
-    'payment.fanClub.picture': 'Tason kuva'
+    'payment.fanClub.picture': 'Tason kuva',
+    'payment.fanClub.priceBreakdown': 'Tilaaja maksaa: {amount}. Alustamaksu on {fee}, saat: {net}',
+    'payment.feeNotice': 'Huomioithan, että tämä on arvio ja todellinen maksu voi poiketa asiakkaan maksutavasta ja mahdollisista lisämaksuista maksuportilta.'
 };
