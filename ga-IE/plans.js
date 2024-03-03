@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Ainm an tsraith',
     'payment.fanClub.createTier': 'Cuir leibhéal',
     'payment.fanClub.description': 'Cur síos ar an leibhéal',
-    'payment.fanClub.picture': 'Íomhá den leibhéal'
+    'payment.fanClub.picture': 'Íomhá den leibhéal',
+    'payment.fanClub.priceBreakdown': 'Íocfaidh an t-ábharóir: {amount}. Is é an táille an ghnóthach, gheobhaidh tú: {net}',
+    'payment.feeNotice': 'Tabhair faoi deara go bhfuil seo mar mheasúnú agus d\'fhéadfadh an táille fhíorúil difriúil a bheith de réir cineál íocaíochta an chustaiméara agus táillí breise ón ngeata íocaíochta.'
 };
