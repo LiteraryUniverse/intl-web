@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Tên hạng',
     'payment.fanClub.createTier': 'Thêm hạng',
     'payment.fanClub.description': 'Mô tả hạng',
-    'payment.fanClub.picture': 'Ảnh hạng'
+    'payment.fanClub.picture': 'Ảnh hạng',
+    'payment.fanClub.priceBreakdown': 'Người đăng ký sẽ thanh toán: {amount}. Phí nền tảng là {fee}, bạn sẽ nhận được: {net}',
+    'payment.feeNotice': 'Xin lưu ý rằng đây là một ước tính và phí thực tế có thể khác nhau dựa trên loại thanh toán của khách hàng và các khoản phụ phí từ cổng thanh toán.'
 };
