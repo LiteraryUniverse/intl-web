@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Nivån',
     'payment.fanClub.createTier': 'Lägg till nivå',
     'payment.fanClub.description': 'Nivåbeskrivning',
-    'payment.fanClub.picture': 'Nivåbild'
+    'payment.fanClub.picture': 'Nivåbild',
+    'payment.fanClub.priceBreakdown': 'Abonnenten kommer att betala: {amount}. Plattformavgiften är {fee}, du kommer att få: {net}',
+    'payment.feeNotice': 'Observera att detta endast är en uppskattning och den faktiska avgiften kan variera beroende på kundens betalningssätt och eventuella extra avgifter från betalningsportalen.'
 };
