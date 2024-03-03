@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Название уровня',
     'payment.fanClub.createTier': 'Добавить уровень',
     'payment.fanClub.description': 'Описание уровня',
-    'payment.fanClub.picture': 'Изображение уровня'
+    'payment.fanClub.picture': 'Изображение уровня',
+    'payment.fanClub.priceBreakdown': 'Абонент заплатит: {amount}. Плата за платформу составляет {fee}, вы получите: {net}',
+    'payment.feeNotice': 'Пожалуйста, обратите внимание, что это только оценка, и фактическая комиссия может отличаться в зависимости от способа оплаты клиента и дополнительных сборов платежного шлюза.'
 };
