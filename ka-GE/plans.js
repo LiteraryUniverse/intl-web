@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'ტიერის სახელი',
     'payment.fanClub.createTier': 'დონის დამატება',
     'payment.fanClub.description': 'დონის აღწერის დასახელება',
-    'payment.fanClub.picture': 'დონის სურათი'
+    'payment.fanClub.picture': 'დონის სურათი',
+    'payment.fanClub.priceBreakdown': 'გამომხმარებელმა გადაიხადათ: {amount}. პლატფორმის გადასახადი არის {fee}, თქვენ მიიღებთ: {net}',
+    'payment.feeNotice': 'გთხოვთ გაიგოთ, რომ ეს არის შეფასება და სამუშაო გადახდის ტიპიდან და დამატებითი ხარჯებიდან დამატებით გადასახადი განიცადება'
 };
