@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Nombre de nivel',
     'payment.fanClub.createTier': 'Agregar nivel',
     'payment.fanClub.description': 'Descripción del nivel',
-    'payment.fanClub.picture': 'Imagen del nivel'
+    'payment.fanClub.picture': 'Imagen del nivel',
+    'payment.fanClub.priceBreakdown': 'El suscriptor pagará: {amount}. La tarifa de la plataforma es {fee}, recibirás: {net}',
+    'payment.feeNotice': 'Por favor, ten en cuenta que esto es solo una estimación y la tarifa real podría ser diferente según el tipo de pago del cliente y los cargos adicionales del proveedor de pago.'
 };
