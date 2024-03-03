@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Nazwa poziomu',
     'payment.fanClub.createTier': 'Dodaj poziom',
     'payment.fanClub.description': 'Opis poziomu',
-    'payment.fanClub.picture': 'Zdjęcie poziomu'
+    'payment.fanClub.picture': 'Zdjęcie poziomu',
+    'payment.fanClub.priceBreakdown': 'Abonent zapłaci: {amount}. Opłata platformy wynosi {fee}, otrzymasz: {net}',
+    'payment.feeNotice': 'Prosimy zauważyć, że jest to szacunek, a rzeczywista opłata może się różnić w zależności od rodzaju płatności klienta i dodatkowych opłat od bramki płatności.'
 };
