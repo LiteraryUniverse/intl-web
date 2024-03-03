@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Tiername',
     'payment.fanClub.createTier': 'Tier hinzufügen',
     'payment.fanClub.description': 'Tierbeschreibung',
-    'payment.fanClub.picture': 'Tierbild'
+    'payment.fanClub.picture': 'Tierbild',
+    'payment.fanClub.priceBreakdown': 'Der Abonnent zahlt: {amount}. Die Plattformgebühr beträgt {fee}, Sie erhalten: {net}',
+    'payment.feeNotice': 'Bitte beachten Sie, dass dies nur eine Schätzung ist und die tatsächliche Gebühr je nach Zahlungsart des Kunden und zusätzlichen Gebühren des Zahlungsgateways unterschiedlich sein kann.'
 };
