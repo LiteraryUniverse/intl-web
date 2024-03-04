@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'टियर का नाम',
     'payment.fanClub.createTier': 'टियर जोड़ें',
     'payment.fanClub.description': 'टियर विवरण',
-    'payment.fanClub.picture': 'टियर चित्र'
+    'payment.fanClub.picture': 'टियर चित्र',
+    'payment.fanClub.priceBreakdown': 'सदस्य {amount} भुगतान करेगा। प्लेटफ़ॉर्म शुल्क {fee} है, आपको मिलेगा: {net}',
+    'payment.feeNotice': 'कृपया ध्यान दें कि यह एक अनुमान है और वास्तविक शुल्क ग्राहक के भुगतान प्रकार और पेगेट से अतिरिक्त शुल्क के आधार पर अलग हो सकता है।'
 };
