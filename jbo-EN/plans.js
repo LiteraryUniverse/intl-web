@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'joi noi',
     'payment.fanClub.createTier': 'Jmina tierni',
     'payment.fanClub.description': 'Mildi tierni',
-    'payment.fanClub.picture': 'Cfipu tierni'
+    'payment.fanClub.picture': 'Cfipu tierni',
+    'payment.fanClub.priceBreakdown': '.i lo pelxu cu jdima {amount}. lo jdima be lo ciste cu {fee}, do pu\'o se jerna lo jdima be {net}',
+    'payment.feeNotice': '.i ko catlu lo nu ti cu zmadu .i ku\'i lo jdima cu se zmadu lo jdima be lo ciste be lo prenu be lo nunli\'i lo jdima be lo vamji'
 };
