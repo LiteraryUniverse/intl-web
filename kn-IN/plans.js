@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'ಟಿಯರ್ ಹೆಸರು',
     'payment.fanClub.createTier': 'ಟಿಯರ್ ಸೇರಿಸಿ',
     'payment.fanClub.description': 'ಟಿಯರ್ ವಿವರಣೆ',
-    'payment.fanClub.picture': 'ಟಿಯರ್ ಚಿತ್ರ'
+    'payment.fanClub.picture': 'ಟಿಯರ್ ಚಿತ್ರ',
+    'payment.fanClub.priceBreakdown': 'ಅಭಿನಂದನೆಗಳು, ಗ್ರಾಹಕರು ಪಾವತಿ ಮಾಡುವಾಗ: {amount}. ಪ್ಲಾಟ್‌ಫಾರಂ ಶುಲ್ಕ {fee}, ನೀವು ಪಡೆಯುವುದು: {net}',
+    'payment.feeNotice': 'ದಯವಿಟ್ಟು ಗಮನಿಸಿ, ಇದು ಒಂದು ಅಂಕಿತ ಮೂಲಕ ಮಾತ್ರವೇ ಮತ್ತು ವಾಸ್ತವಿಕ ಶುಲ್ಕ ಗ್ರಾಹಕರ ಪಾವತಿ ಪ್ರಕಾರ ಮತ್ತು ಪಾವತಿ ಗೇಟ್‌ನಿಂದ ಹೆಚ್ಚು ಶುಲ್ಕಗಳ ಆಧಾರದ ಮೇಲೆ ಬೇರೆಯಾಗಬಹುದು.'
 };
