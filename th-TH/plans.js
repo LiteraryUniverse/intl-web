@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'ชื่อระดับ',
     'payment.fanClub.createTier': 'เพิ่มชั้น',
     'payment.fanClub.description': 'คำอธิบายของชั้น',
-    'payment.fanClub.picture': 'รูปภาพของชั้น'
+    'payment.fanClub.picture': 'รูปภาพของชั้น',
+    'payment.fanClub.priceBreakdown': 'ผู้สมัครจะต้องชำระเงิน: {amount} ค่าบริการแพลตฟอร์มคือ {fee} คุณจะได้รับ: {net}',
+    'payment.feeNotice': 'โปรดทราบว่านี้เป็นการประมาณการเท่านั้นและค่าธรรมเนียมจริงอาจแตกต่างขึ้นอยู่กับประเภทการชำระเงินของลูกค้าและค่าใช้จ่ายเพิ่มเติมจากเกตเวย์การชำระเงิน'
 };
