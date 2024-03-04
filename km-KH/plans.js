@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'ឈ្មោះកាំង',
     'payment.fanClub.createTier': 'បន្ថែមកាំងថ្មី',
     'payment.fanClub.description': 'ការពិពណ៌នាកាំង',
-    'payment.fanClub.picture': 'រូបភាពកាំង'
+    'payment.fanClub.picture': 'រូបភាពកាំង',
+    'payment.fanClub.priceBreakdown': 'អ្នកជាអតិថិជននឹងបង់ប្រាក់: {amount}។ ថ្លៃប្រតិបត្តិការគឺ {fee} អ្នកនឹងទទួលបាន: {net}',
+    'payment.feeNotice': 'សូមបញ្ចូលចំនួននេះជាកំណត់ត្រា ហើយថ្លៃប្រតិបត្តិការពិតជាអាចផ្លាស់ប្តូរតាមប្រភេទបង់ប្រាក់របស់អតិថិជននិងថ្លៃបន្ថែមពីការបង់ប្រាក់ផ្សេងៗពីផ្ទេរប្រតិបត្តិការ។'
 };
