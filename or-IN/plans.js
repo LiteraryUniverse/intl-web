@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'ଟିୟର ନାମ',
     'payment.fanClub.createTier': 'ଟିୟର ଯୋଡ଼ନ୍ତୁ',
     'payment.fanClub.description': 'ଟିୟର ବର୍ଣନା',
-    'payment.fanClub.picture': 'ଟିୟର ଛବି'
+    'payment.fanClub.picture': 'ଟିୟର ଛବି',
+    'payment.fanClub.priceBreakdown': 'ଗ୍ରାହକ ପାଇଁ ଦେଇବାକୁ ହେବ: {amount}। ପ୍ଲାଟଫରମ ଫି ହେବ {fee}, ଆପଣ ପାଇବେ: {net}',
+    'payment.feeNotice': 'ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ ଏହା ଏକ ଆକଳନ ମାତ୍ରା ଅଟେ ଏବଂ ଗ୍ରାହକଙ୍କ ସଂଦାୟର ପ୍ରକାର ଏବଂ ପେ ଗେଟ୍ ଥରୁ ଅତିରିକ୍ତ ଶୁଲ୍କରେ ଭିନ୍ନ ହେବାକୁ ହୋଇପାରେ।'
 };
