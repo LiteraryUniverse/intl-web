@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'టియర్ పేరు',
     'payment.fanClub.createTier': 'టియర్ జోడించండి',
     'payment.fanClub.description': 'టియర్ వివరణ',
-    'payment.fanClub.picture': 'టియర్ చిత్రం'
+    'payment.fanClub.picture': 'టియర్ చిత్రం',
+    'payment.fanClub.priceBreakdown': 'సభ్యుడు చెల్లించినది: {amount}। ప్లాట్‌ఫారం ఫీ {fee} ఉంది, మీరు పొందుతారు: {net}',
+    'payment.feeNotice': 'దయచేసి గమనించండి, ఇది ఒక అందించడం మాత్రమే మరియు వాస్తవంగా ఫీ వివరము విభిన్న చెల్లని పేమెంట్ రకం మరియు పే గేట్ నుండి వచ్చే అదనపు ధరల ఆధారంగా మారవచ్చు.'
 };
