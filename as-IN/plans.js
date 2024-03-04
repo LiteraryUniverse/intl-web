@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'টিয়াৰ নাম',
     'payment.fanClub.createTier': 'টিয়াৰ যোগ কৰক',
     'payment.fanClub.description': 'টিয়াৰৰ বিৱৰণ',
-    'payment.fanClub.picture': 'টিয়াৰৰ ছবি'
+    'payment.fanClub.picture': 'টিয়াৰৰ ছবি',
+    'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান কৰিব: {amount}। প্লেটফৰ্ম ফি হৈছে {fee}, আপুনি পাব: {net}',
+    'payment.feeNotice': 'অনুগ্ৰহ কৰি লক্ষ্য কৰক যে এইটো এটা আনুমানিক মাত্ৰা হৈছে আৰু গ্ৰাহকৰ পেমেন্ট প্ৰকাৰ আৰু অতিৰিক্ত চাৰ্জৰ উপৰ ভিত্তিত পৰিবৰ্তন কৰিব পাৰে।'
 };
