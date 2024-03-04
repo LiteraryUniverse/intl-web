@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'Nomo de nivelo',
     'payment.fanClub.createTier': 'Aldoni nivelon',
     'payment.fanClub.description': 'Priskribo de nivelo',
-    'payment.fanClub.picture': 'Bildo de nivelo'
+    'payment.fanClub.picture': 'Bildo de nivelo',
+    'payment.fanClub.priceBreakdown': 'Abonanto pagos: {amount}. La platforma kosto estas {fee}, vi ricevos: {net}',
+    'payment.feeNotice': 'Bonvolu noti ke ĉi tio estas takso-prognozo kaj la efektiva takso povas esti malsama laŭ la pago-tipo de la kliento kaj aldonaj pagoj de la paga pordego.'
 };
