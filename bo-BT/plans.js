@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'སྡེ་ཚན་གྱི་མཚན།',
     'payment.fanClub.createTier': 'སྒྲོམ་པ་བཟོ་བ།',
     'payment.fanClub.description': 'སྒྲོམ་ཚད་འགྲེལ།',
-    'payment.fanClub.picture': 'སྒྲོམ་པར་རིན།'
+    'payment.fanClub.picture': 'སྒྲོམ་པར་རིན།',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee}, you will get: {net}',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual fee might be different based on customer\'s payment type and additional charges from the pay gate.'
 };
