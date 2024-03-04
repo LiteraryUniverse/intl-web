@@ -221,5 +221,7 @@ export default {
     'payment.fanClub.tierName': 'அடுக்கு பெயர்',
     'payment.fanClub.createTier': 'அடுக்கு சேர்க்கவும்',
     'payment.fanClub.description': 'அடுக்கு விளக்கம்',
-    'payment.fanClub.picture': 'அடுக்கு படம்'
+    'payment.fanClub.picture': 'அடுக்கு படம்',
+    'payment.fanClub.priceBreakdown': 'சந்தாதாரர் செலுத்தும் தொகை: {amount}. மூலோபாய கட்டணம் இதுவரை {fee}, நீங்கள் பெறுவீர்கள்: {net}',
+    'payment.feeNotice': 'தயவுசெய்து இது ஒரு மதிப்பிடல் மட்டுமே என்று கவனத்தில் கொள்ளுங்கள் மற்றும் உண்மையில் கட்டணம் வாங்குவதற்கு வாடிக்கையாளரின் கட்டண வகைமுறையில் மாறும் மற்றும் பண கட்டணங்களின் சேர்க்கைகள் அதிக விலை கொண்டிருக்கலாம்.'
 };
