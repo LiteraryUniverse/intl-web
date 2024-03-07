@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'Vlak beskrywing',
     'payment.fanClub.picture': 'Vlak prentjie',
     'payment.fanClub.priceBreakdown': 'Abonnee sal betaal: {amount}. Platformfooi is {fee}, jy sal kry: {net}',
-    'payment.feeNotice': 'Let daarop dat hierdie \'n skatting is en die werklike fooi mag verskil op grond van die kliënt se betaalmetode en ekstra kostes van die betaalhek.'
+    'payment.feeNotice': 'Let daarop dat hierdie \'n skatting is en die werklike fooi mag verskil op grond van die kliënt se betaalmetode en ekstra kostes van die betaalhek.',
+    'payment.fanClub.perks': 'Voordele'
 };
