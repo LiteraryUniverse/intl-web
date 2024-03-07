@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'レベルの説明',
     'payment.fanClub.picture': 'レベルの画像',
     'payment.fanClub.priceBreakdown': '購読者は{amount}を支払います。プラットフォーム手数料は{fee}で、あなたは{net}を受け取ります。',
-    'payment.feeNotice': 'なお、これは見積もりであり、実際の手数料は、お客様の支払い方法やペイゲートからの追加料金によって異なる場合がありますので、ご了承ください。'
+    'payment.feeNotice': 'なお、これは見積もりであり、実際の手数料は、お客様の支払い方法やペイゲートからの追加料金によって異なる場合がありますので、ご了承ください。',
+    'payment.fanClub.perks': '特典'
 };
