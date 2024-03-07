@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'Popis úrovne',
     'payment.fanClub.picture': 'Obrázok úrovne',
     'payment.fanClub.priceBreakdown': 'Odberateľ zaplatí: {amount}. Poplatok platformy je {fee}, dostanete: {net}',
-    'payment.feeNotice': 'Prosím, majte na pamäti, že ide o odhad a skutočný poplatok sa môže líšiť v závislosti od typu platby zákazníka a ďalších poplatkov od platobnej brány.'
+    'payment.feeNotice': 'Prosím, majte na pamäti, že ide o odhad a skutočný poplatok sa môže líšiť v závislosti od typu platby zákazníka a ďalších poplatkov od platobnej brány.',
+    'payment.fanClub.perks': 'Výhody'
 };
