@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'Penerangan tier',
     'payment.fanClub.picture': 'Gambar tier',
     'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Yuran platform adalah {fee}, anda akan mendapat: {net}',
-    'payment.feeNotice': 'Sila ambil perhatian bahawa ini hanyalah anggaran dan yuran sebenar mungkin berbeza berdasarkan jenis pembayaran pelanggan dan caj tambahan dari gerbang bayaran.'
+    'payment.feeNotice': 'Sila ambil perhatian bahawa ini hanyalah anggaran dan yuran sebenar mungkin berbeza berdasarkan jenis pembayaran pelanggan dan caj tambahan dari gerbang bayaran.',
+    'payment.fanClub.perks': 'Kelebihan'
 };
