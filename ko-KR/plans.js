@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': '티어 설명',
     'payment.fanClub.picture': '티어 사진',
     'payment.fanClub.priceBreakdown': '구독자는 {amount}을(를) 지불합니다. 플랫폼 수수료는 {fee}이며, 실제로 받을 금액은 {net}입니다.',
-    'payment.feeNotice': '고객의 결제 유형 및 결제 게이트의 추가 요금에 따라 실제 수수료가 다를 수 있음을 참고해주세요.'
+    'payment.feeNotice': '고객의 결제 유형 및 결제 게이트의 추가 요금에 따라 실제 수수료가 다를 수 있음을 참고해주세요.',
+    'payment.fanClub.perks': '혜택'
 };
