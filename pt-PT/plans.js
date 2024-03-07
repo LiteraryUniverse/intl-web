@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'Descrição do nível',
     'payment.fanClub.picture': 'Imagem do nível',
     'payment.fanClub.priceBreakdown': 'O assinante pagará: {amount}. A taxa da plataforma é {fee}, você receberá: {net}',
-    'payment.feeNotice': 'Por favor, observe que esta é apenas uma estimativa e a taxa real pode ser diferente com base no tipo de pagamento do cliente e nas taxas adicionais do gateway de pagamento.'
+    'payment.feeNotice': 'Por favor, observe que esta é apenas uma estimativa e a taxa real pode ser diferente com base no tipo de pagamento do cliente e nas taxas adicionais do gateway de pagamento.',
+    'payment.fanClub.perks': 'Benefícios'
 };
