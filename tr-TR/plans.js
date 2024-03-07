@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'Katman açıklaması',
     'payment.fanClub.picture': 'Katman resmi',
     'payment.fanClub.priceBreakdown': 'Abone ödeyecek: {amount}. Platform ücreti {fee}, alacaksınız: {net}',
-    'payment.feeNotice': 'Lütfen dikkate alın ki bu bir tahmindir ve gerçek ücret müşterinin ödeme türüne ve ödeme kapısından gelen ek ücretlere bağlı olarak farklı olabilir.'
+    'payment.feeNotice': 'Lütfen dikkate alın ki bu bir tahmindir ve gerçek ücret müşterinin ödeme türüne ve ödeme kapısından gelen ek ücretlere bağlı olarak farklı olabilir.',
+    'payment.fanClub.perks': 'Avantajlar'
 };
