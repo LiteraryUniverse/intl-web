@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'Description du niveau',
     'payment.fanClub.picture': 'Image du niveau',
     'payment.fanClub.priceBreakdown': 'L\'abonné paiera : {amount}. Les frais de plateforme sont de {fee}, vous recevrez : {net}',
-    'payment.feeNotice': 'Veuillez noter que ceci est une estimation et les frais réels peuvent être différents en fonction du type de paiement du client et des frais supplémentaires du portail de paiement.'
+    'payment.feeNotice': 'Veuillez noter que ceci est une estimation et les frais réels peuvent être différents en fonction du type de paiement du client et des frais supplémentaires du portail de paiement.',
+    'payment.fanClub.perks': 'Avantages'
 };
