@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': '層級描述',
     'payment.fanClub.picture': '層級圖片',
     'payment.fanClub.priceBreakdown': '訂閱者將支付：{amount}。平台費用為{fee}，您將獲得：{net}',
-    'payment.feeNotice': '請注意，這只是一個估計，實際費用可能根據客戶的付款方式和支付閘口的額外費用而有所不同。'
+    'payment.feeNotice': '請注意，這只是一個估計，實際費用可能根據客戶的付款方式和支付閘口的額外費用而有所不同。',
+    'payment.fanClub.perks': '福利'
 };
