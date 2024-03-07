@@ -223,5 +223,6 @@ export default {
     'payment.fanClub.description': 'وصف الطبقة',
     'payment.fanClub.picture': 'صورة الطبقة',
     'payment.fanClub.priceBreakdown': 'المشترك سيدفع: {amount}. رسوم المنصة هي {fee}، ستحصل على: {net}',
-    'payment.feeNotice': 'يرجى ملاحظة أن هذا تقدير وقد تكون الرسوم الفعلية مختلفة بناءً على نوع الدفع الخاص بالعميل والرسوم الإضافية من بوابة الدفع.'
+    'payment.feeNotice': 'يرجى ملاحظة أن هذا تقدير وقد تكون الرسوم الفعلية مختلفة بناءً على نوع الدفع الخاص بالعميل والرسوم الإضافية من بوابة الدفع.',
+    'payment.fanClub.perks': 'الامتيازات'
 };
