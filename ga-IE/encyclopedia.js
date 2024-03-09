@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Rialuithe na hEagnaíochta',
     'encyclopedia.pronunciation.title': 'Caint',
     'encyclopedia.wip.abbreviation': 'Faoi Mhíniú',
-    'encyclopedia.wip.full': 'Obair i gCur Chun Cinn'
+    'encyclopedia.wip.full': 'Obair i gCur Chun Cinn',
+    'encyclopedia.settings.templateLegend': 'An Saolra Teimpléad',
+    'encyclopedia.settings.templateDescription': 'Ceadaigh go gcuirfear cóip den ábhar sa saolra seo isteach i saolta eile. Is fearr é seo má tá tú gan aon scéalta agus má tá tú ag cruthú teimpléad amháin le haghaidh daoine eile a úsáid.',
+    'encyclopedia.settings.templateCheckbox': 'Seo saolra teimpléad é',
+    'encyclopedia.templateCopy.modalTitle': 'Cóipeáil ábhar an einciclopaidéara',
+    'encyclopedia.templateCopy.description': 'Cóipeáil ábhar an einciclopaidéara seo isteach i do shaolra chun é a shaibhriú.',
+    'encyclopedia.templateCopy.targetUniverse': 'Saolra le cóipeáil chuig'
 };
