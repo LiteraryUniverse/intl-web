@@ -146,5 +146,11 @@ export default {
     'enc.menuControls.ariaDesc': 'エンサイクロペディアのコントロール',
     'encyclopedia.pronunciation.title': '発音',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': '作業中'
+    'encyclopedia.wip.full': '作業中',
+    'encyclopedia.settings.templateLegend': 'テンプレートの宇宙',
+    'encyclopedia.settings.templateDescription': 'この百科事典の内容を他の宇宙にコピーすることを許可します。これは、物語を持っていない代わりに他の人が使用するためのテンプレートを作成する場合に最適です。',
+    'encyclopedia.settings.templateCheckbox': 'これはテンプレートの宇宙です',
+    'encyclopedia.templateCopy.modalTitle': '百科事典の内容をコピーする',
+    'encyclopedia.templateCopy.description': 'この百科事典の内容をあなたの宇宙にコピーして豊かにします。',
+    'encyclopedia.templateCopy.targetUniverse': 'コピー先の宇宙'
 };
