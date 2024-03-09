@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'విజ్ఞాన సంగ్రహాల నియంత్రణలు',
     'encyclopedia.pronunciation.title': 'ఉచ్చారణ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'పని ప్రగతిలో'
+    'encyclopedia.wip.full': 'పని ప్రగతిలో',
+    'encyclopedia.settings.templateLegend': 'మూలకు అనుగుణంగా ఉన్న మాట్లాడుతుంది',
+    'encyclopedia.settings.templateDescription': 'ఇతర యూనివర్సులలో ఈ ఎన్సైక్లోపీడియా కంటెంట్ ను కాపీ చేయడం అనువదిస్తుంది. ఇది మీకు ఎమ్మికైనంత మంచిది ఉంటే, మీకు ఏ కథలు లేకుండా మరియు మరొకరికి ఉపయోగం కోసం ఒక టెంప్లేట్ ను సృష్టించేందుకు అనువదిస్తుంది.',
+    'encyclopedia.settings.templateCheckbox': 'ఇది ఒక టెంప్లేట్ యూనివర్సు',
+    'encyclopedia.templateCopy.modalTitle': 'ఎన్సైక్లోపీడియా కంటెంట్ ను కాపీ చేయండి',
+    'encyclopedia.templateCopy.description': 'మీ యూనివర్సులో ఈ ఎన్సైక్లోపీడియా కంటెంట్ ను కాపీ చేయడం ద్వారా దానిని పుష్టించండి.',
+    'encyclopedia.templateCopy.targetUniverse': 'కాపీ చేయడానికి యూనివర్సు'
 };
