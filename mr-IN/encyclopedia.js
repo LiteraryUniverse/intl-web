@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'ज्ञानकोश नियंत्रणे',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'काम प्रगतीत'
+    'encyclopedia.wip.full': 'काम प्रगतीत',
+    'encyclopedia.settings.templateLegend': 'टेंप्लेट विश्व',
+    'encyclopedia.settings.templateDescription': 'या विश्वाचे सामग्री इतर विश्वांमध्ये कॉपी केली जाऊ द्या. तुमच्याकडे काही कथा नसतील तरी तुम्ही फक्त इतरांना वापरायला टेंप्लेट तयार करत आहात.',
+    'encyclopedia.settings.templateCheckbox': 'हे एक टेंप्लेट विश्व आहे',
+    'encyclopedia.templateCopy.modalTitle': 'विश्वसृजन ची सामग्री कॉपी करा',
+    'encyclopedia.templateCopy.description': 'तुमच्या विश्वात या विश्वाची सामग्री कॉपी करून त्याची संपूर्ण करा.',
+    'encyclopedia.templateCopy.targetUniverse': 'कॉपी करण्यासाठी विश्व'
 };
