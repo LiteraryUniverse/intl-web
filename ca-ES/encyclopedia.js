@@ -150,10 +150,10 @@ export default {
     'encyclopedia.pronunciation.title': 'Pronunciació',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Obra en curs',
-    'encyclopedia.settings.templateLegend': 'Template universe',
-    'encyclopedia.settings.templateDescription': 'Allow the content of this encyclopedia to be copied into other universes. This is best if you don\'t have any stories and instead are just creating a template for others to use.',
-    'encyclopedia.settings.templateCheckbox': 'This is a template universe',
-    'encyclopedia.templateCopy.modalTitle': 'Copy encyclopedia content',
-    'encyclopedia.templateCopy.description': 'Copy content of this encyclopedia into your universe to enrich it.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to'
+    'encyclopedia.settings.templateLegend': 'Univers template',
+    'encyclopedia.settings.templateDescription': 'Permet que el contingut d\'aquesta enciclopèdia es pugui copiar a altres universos. Això és el millor si no tens cap història i en canvi estàs creant una plantilla perquè altres la facin servir.',
+    'encyclopedia.settings.templateCheckbox': 'Aquest és un univers template',
+    'encyclopedia.templateCopy.modalTitle': 'Copia el contingut de l\'enciclopèdia',
+    'encyclopedia.templateCopy.description': 'Copia el contingut d\'aquesta enciclopèdia al teu univers per enriquir-lo.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univers on copiar'
 };
