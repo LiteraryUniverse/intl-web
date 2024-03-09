@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Contrôles de l\'encyclopédie',
     'encyclopedia.pronunciation.title': 'Prononciation',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Travail en cours'
+    'encyclopedia.wip.full': 'Travail en cours',
+    'encyclopedia.settings.templateLegend': 'Univers modèle',
+    'encyclopedia.settings.templateDescription': 'Autoriser le contenu de cette encyclopédie à être copié dans d\'autres univers. C\'est idéal si vous n\'avez pas d\'histoires et que vous créez simplement un modèle pour que d\'autres l\'utilisent.',
+    'encyclopedia.settings.templateCheckbox': 'Il s\'agit d\'un univers modèle',
+    'encyclopedia.templateCopy.modalTitle': 'Copier le contenu de l\'encyclopédie',
+    'encyclopedia.templateCopy.description': 'Copiez le contenu de cette encyclopédie dans votre univers pour l\'enrichir.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univers de destination pour la copie'
 };
