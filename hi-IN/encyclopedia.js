@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'ज्ञानकोश नियंत्रण',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'कार्य प्रगति'
+    'encyclopedia.wip.full': 'कार्य प्रगति',
+    'encyclopedia.settings.templateLegend': 'टेम्पलेट यूनिवर्स',
+    'encyclopedia.settings.templateDescription': 'इस एन्साइक्लोपीडिया की सामग्री को अन्य यूनिवर्स में कॉपी किया जा सके। यह सर्वश्रेष्ठ है यदि आपके पास कोई कहानियाँ नहीं हैं और आप केवल दूसरों के उपयोग के लिए एक टेम्पलेट बना रहे हैं।',
+    'encyclopedia.settings.templateCheckbox': 'यह एक टेम्पलेट यूनिवर्स है',
+    'encyclopedia.templateCopy.modalTitle': 'एन्साइक्लोपीडिया की सामग्री की कॉपी करें',
+    'encyclopedia.templateCopy.description': 'इस एन्साइक्लोपीडिया की सामग्री को अपने यूनिवर्स में कॉपी करें और उसे समृद्ध करें।',
+    'encyclopedia.templateCopy.targetUniverse': 'कॉपी करने के लिए यूनिवर्स'
 };
