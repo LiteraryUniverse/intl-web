@@ -153,5 +153,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Kontrolki encyklopedii',
     'encyclopedia.pronunciation.title': 'Wymowa',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Praca w toku'
+    'encyclopedia.wip.full': 'Praca w toku',
+    'encyclopedia.settings.templateLegend': 'Wszechświat szablonowy',
+    'encyclopedia.settings.templateDescription': 'Zezwól na kopiowanie zawartości tej encyklopedii do innych wszechświatów. Jest to najlepsze rozwiązanie, jeśli nie masz żadnych historii i chcesz stworzyć szablon do wykorzystania przez innych.',
+    'encyclopedia.settings.templateCheckbox': 'To jest wszechświat szablonowy',
+    'encyclopedia.templateCopy.modalTitle': 'Skopiuj zawartość encyklopedii',
+    'encyclopedia.templateCopy.description': 'Skopiuj zawartość tej encyklopedii do swojego wszechświata, aby go wzbogacić.',
+    'encyclopedia.templateCopy.targetUniverse': 'Wszechświat, do którego ma zostać skopiowana zawartość'
 };
