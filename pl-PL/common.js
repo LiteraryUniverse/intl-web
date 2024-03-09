@@ -259,5 +259,5 @@ export default {
     'common.back': 'Powrót',
     'console.stop': 'Zatrzymaj się!',
     'console.explain': 'To jest funkcja przeglądarki przeznaczona dla programistów. Jeśli ktoś kazał ci skopiować coś tutaj, aby włączyć funkcję Uniwersum Literackiego lub "zhakować" czyjeś konto, to oszustwo i da mu dostęp do twojego konta Uniwersum Literackiego.',
-    'common.cancel': 'Anuluj'
+    'common.coping': 'Kopiowanie...'
 }    /* eslint-enable max-len */;
