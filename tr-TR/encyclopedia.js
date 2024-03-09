@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Ansiklopedi kontrolleri',
     'encyclopedia.pronunciation.title': 'Telaffuz',
     'encyclopedia.wip.abbreviation': 'Çalışma İlerlemede',
-    'encyclopedia.wip.full': 'Çalışma İlerlemede'
+    'encyclopedia.wip.full': 'Çalışma İlerlemede',
+    'encyclopedia.settings.templateLegend': 'Şablon evreni',
+    'encyclopedia.settings.templateDescription': 'Bu ansiklopedinin içeriğinin diğer evrenlere kopyalanmasına izin verin. Bu, hikayeleriniz olmadan sadece başkalarının kullanması için bir şablon oluşturuyorsanız en iyisidir.',
+    'encyclopedia.settings.templateCheckbox': 'Bu bir şablon evrenidir',
+    'encyclopedia.templateCopy.modalTitle': 'Ansiklopedi içeriğini kopyala',
+    'encyclopedia.templateCopy.description': 'Bu ansiklopedinin içeriğini evreninize kopyalayarak zenginleştirin.',
+    'encyclopedia.templateCopy.targetUniverse': 'Kopyalanacak evren'
 };
