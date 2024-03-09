@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Enciklopédia vezérlők',
     'encyclopedia.pronunciation.title': 'Kiejtés',
     'encyclopedia.wip.abbreviation': 'FOLYAMATBAN',
-    'encyclopedia.wip.full': 'Folyamatban lévő munka'
+    'encyclopedia.wip.full': 'Folyamatban lévő munka',
+    'encyclopedia.settings.templateLegend': 'Sablon univerzum',
+    'encyclopedia.settings.templateDescription': 'Engedélyezze ennek az enciklopédiának a más univerzumokba való másolását. Ez a legjobb választás, ha nincsenek történetek, és csak egy sablont hoz létre mások számára.',
+    'encyclopedia.settings.templateCheckbox': 'Ez egy sablon univerzum',
+    'encyclopedia.templateCopy.modalTitle': 'Enciklopédia tartalmának másolása',
+    'encyclopedia.templateCopy.description': 'Másolja ennek az enciklopédiának a tartalmát az univerzumába, hogy gazdagítsa azt.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univerzum, amibe másolni szeretné'
 };
