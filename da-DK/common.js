@@ -259,5 +259,5 @@ export default {
     'common.back': 'Tilbage',
     'console.stop': 'Stop!',
     'console.explain': 'Dette er en browser-funktion beregnet til udviklere. Hvis nogen har bedt dig om at kopiere og indsætte noget her for at aktivere en Literary Universe-funktion eller "hacke" nogens konto, er det et svindelnummer, og det vil give dem adgang til din Literary Universe-konto.',
-    'common.cancel': 'Annuller'
+    'common.coping': 'Kopierer...'
 }    /* eslint-enable max-len */;
