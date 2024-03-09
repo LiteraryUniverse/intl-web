@@ -152,10 +152,10 @@ export default {
     'encyclopedia.pronunciation.title': 'Výslovnost',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'Rozpracované',
-    'encyclopedia.settings.templateLegend': 'Template universe',
-    'encyclopedia.settings.templateDescription': 'Allow the content of this encyclopedia to be copied into other universes. This is best if you don\'t have any stories and instead are just creating a template for others to use.',
-    'encyclopedia.settings.templateCheckbox': 'This is a template universe',
-    'encyclopedia.templateCopy.modalTitle': 'Copy encyclopedia content',
-    'encyclopedia.templateCopy.description': 'Copy content of this encyclopedia into your universe to enrich it.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to'
+    'encyclopedia.settings.templateLegend': 'Šablona vesmíru',
+    'encyclopedia.settings.templateDescription': 'Povolit kopírování obsahu této encyklopedie do jiných vesmírů. Toto je nejlepší volba, pokud nemáte žádné příběhy a místo toho jen vytváříte šablonu pro ostatní.',
+    'encyclopedia.settings.templateCheckbox': 'Toto je šablona vesmíru',
+    'encyclopedia.templateCopy.modalTitle': 'Kopírovat obsah encyklopedie',
+    'encyclopedia.templateCopy.description': 'Zkopírujte obsah této encyklopedie do svého vesmíru, aby jste ho obohatili.',
+    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do kterého se má zkopírovat'
 };
