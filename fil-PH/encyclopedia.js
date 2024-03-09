@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Mga kontrol ng Encyclopedia',
     'encyclopedia.pronunciation.title': 'Pagsasalita',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Ginagawa Pa'
+    'encyclopedia.wip.full': 'Ginagawa Pa',
+    'encyclopedia.settings.templateLegend': 'Uniberso ng Template',
+    'encyclopedia.settings.templateDescription': 'Payagan ang nilalaman ng pambansang aklatan na mailipat sa iba pang mga uniberso. Ito ay pinakamahusay kung wala kang anumang mga kwento at sa halip ay gumagawa lamang ng isang template na magagamit ng iba.',
+    'encyclopedia.settings.templateCheckbox': 'Ito ay isang uniberso ng template',
+    'encyclopedia.templateCopy.modalTitle': 'Kopyahin ang nilalaman ng pambansang aklatan',
+    'encyclopedia.templateCopy.description': 'Kopyahin ang nilalaman ng pambansang aklatan na ito sa iyong uniberso upang palawakin ito.',
+    'encyclopedia.templateCopy.targetUniverse': 'Unibersong pagkopyahan'
 };
