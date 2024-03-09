@@ -259,5 +259,5 @@ export default {
     'common.back': 'Indietro',
     'console.stop': 'Fermati!',
     'console.explain': 'Questa è una funzionalità del browser destinata agli sviluppatori. Se qualcuno ti ha detto di copiare e incollare qualcosa qui per abilitare una funzione dell\'Universo Letterario o "hackerare" l\'account di qualcuno, si tratta di una truffa e darà loro accesso al tuo account dell\'Universo Letterario.',
-    'common.cancel': 'Annulla'
+    'common.coping': 'Copia in corso...'
 }    /* eslint-enable max-len */;
