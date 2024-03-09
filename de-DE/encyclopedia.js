@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Enzyklopädie-Einstellungen',
     'encyclopedia.pronunciation.title': 'Aussprache',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'In Bearbeitung'
+    'encyclopedia.wip.full': 'In Bearbeitung',
+    'encyclopedia.settings.templateLegend': 'Vorlagen-Universum',
+    'encyclopedia.settings.templateDescription': 'Erlaubt es, den Inhalt dieser Enzyklopädie in andere Universen zu kopieren. Dies ist am besten, wenn du keine Geschichten hast und stattdessen nur eine Vorlage für andere erstellst.',
+    'encyclopedia.settings.templateCheckbox': 'Dies ist ein Vorlagen-Universum',
+    'encyclopedia.templateCopy.modalTitle': 'Enzyklopädie-Inhalt kopieren',
+    'encyclopedia.templateCopy.description': 'Kopiere den Inhalt dieser Enzyklopädie in dein Universum, um es zu bereichern.',
+    'encyclopedia.templateCopy.targetUniverse': 'Zieluniversum'
 };
