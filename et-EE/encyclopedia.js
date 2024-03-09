@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Entsüklopeedia juhtelemendid',
     'encyclopedia.pronunciation.title': 'Hääldus',
     'encyclopedia.wip.abbreviation': 'TÖÖ',
-    'encyclopedia.wip.full': 'Töö käib'
+    'encyclopedia.wip.full': 'Töö käib',
+    'encyclopedia.settings.templateLegend': 'Mallide universum',
+    'encyclopedia.settings.templateDescription': 'Luba selle entsüklopeedia sisu kopeerimine teistesse universumitesse. See on parim variant, kui sul pole lugusid ja lood lihtsalt malli teiste kasutamiseks.',
+    'encyclopedia.settings.templateCheckbox': 'See on malli universum',
+    'encyclopedia.templateCopy.modalTitle': 'Kopeeri entsüklopeedia sisu',
+    'encyclopedia.templateCopy.description': 'Kopeeri selle entsüklopeedia sisu oma universumisse, et seda rikastada.',
+    'encyclopedia.templateCopy.targetUniverse': 'Universum, kuhu kopeerida'
 };
