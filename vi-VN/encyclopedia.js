@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Bảng điều khiển Bách khoa toàn thư',
     'encyclopedia.pronunciation.title': 'Phát âm',
     'encyclopedia.wip.abbreviation': 'Đang thực hiện',
-    'encyclopedia.wip.full': 'Đang được phát triển'
+    'encyclopedia.wip.full': 'Đang được phát triển',
+    'encyclopedia.settings.templateLegend': 'Vũ trụ mẫu',
+    'encyclopedia.settings.templateDescription': 'Cho phép nội dung của bách khoa toàn thư này được sao chép vào các vũ trụ khác. Điều này tốt nhất nếu bạn không có bất kỳ câu chuyện nào và thay vào đó chỉ đang tạo một mẫu để người khác sử dụng.',
+    'encyclopedia.settings.templateCheckbox': 'Đây là một vũ trụ mẫu',
+    'encyclopedia.templateCopy.modalTitle': 'Sao chép nội dung bách khoa toàn thư',
+    'encyclopedia.templateCopy.description': 'Sao chép nội dung của bách khoa toàn thư này vào vũ trụ của bạn để làm giàu nó.',
+    'encyclopedia.templateCopy.targetUniverse': 'Vũ trụ để sao chép đến'
 };
