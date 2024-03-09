@@ -148,5 +148,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Encyclopediebediening',
     'encyclopedia.pronunciation.title': 'Uitspraak',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Werk in uitvoering'
+    'encyclopedia.wip.full': 'Werk in uitvoering',
+    'encyclopedia.settings.templateLegend': 'Sjabloon universum',
+    'encyclopedia.settings.templateDescription': 'Sta toe dat de inhoud van deze encyclopedie wordt gekopieerd naar andere universums. Dit is het beste als je geen verhalen hebt en in plaats daarvan gewoon een sjabloon maakt voor anderen om te gebruiken.',
+    'encyclopedia.settings.templateCheckbox': 'Dit is een sjabloon universum',
+    'encyclopedia.templateCopy.modalTitle': 'Kopieer encyclopedie inhoud',
+    'encyclopedia.templateCopy.description': 'Kopieer de inhoud van deze encyclopedie naar jouw universum om het te verrijken.',
+    'encyclopedia.templateCopy.targetUniverse': 'Universum om naar te kopiëren'
 };
