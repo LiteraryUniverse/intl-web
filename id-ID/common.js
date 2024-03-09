@@ -259,5 +259,5 @@ export default {
     'common.back': 'Kembali',
     'console.stop': 'Berhenti!',
     'console.explain': 'Ini adalah fitur peramban yang ditujukan untuk para pengembang. Jika seseorang meminta Anda untuk menyalin-tempel sesuatu di sini untuk mengaktifkan fitur Literary Universe atau "membobol" akun seseorang, itu adalah penipuan dan akan memberikan akses kepada mereka ke akun Literary Universe Anda.',
-    'common.cancel': 'Batalkan'
+    'common.coping': 'Menyalin...'
 }    /* eslint-enable max-len */;
