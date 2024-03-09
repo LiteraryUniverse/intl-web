@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Kontrol Ensiklopedia',
     'encyclopedia.pronunciation.title': 'Pengucapan',
     'encyclopedia.wip.abbreviation': 'Dalam Proses',
-    'encyclopedia.wip.full': 'Sedang Dalam Proses'
+    'encyclopedia.wip.full': 'Sedang Dalam Proses',
+    'encyclopedia.settings.templateLegend': 'Univers template',
+    'encyclopedia.settings.templateDescription': 'Izinkan konten dari ensiklopedia ini untuk disalin ke univers lain. Ini lebih baik jika Anda tidak memiliki cerita dan hanya membuat template untuk orang lain gunakan.',
+    'encyclopedia.settings.templateCheckbox': 'Ini adalah univers template',
+    'encyclopedia.templateCopy.modalTitle': 'Salin konten ensiklopedia',
+    'encyclopedia.templateCopy.description': 'Salin konten dari ensiklopedia ini ke univers Anda untuk memperkayanya.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univers tujuan untuk disalin'
 };
