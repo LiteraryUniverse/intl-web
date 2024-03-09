@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'བརྡ་འབྲེལ་གྱི་སྒྲིག་འཛུལ་',
     'encyclopedia.pronunciation.title': 'སྐུགས་ལྡོག་པ།',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'སྡེ་དགོན་གསརཔ་འགྱུར།'
+    'encyclopedia.wip.full': 'སྡེ་དགོན་གསརཔ་འགྱུར།',
+    'encyclopedia.settings.templateLegend': 'དཔེ་སྐྱོང་བྱེད་པ།',
+    'encyclopedia.settings.templateDescription': 'བརྗོད་བདེ་བཞིན་པའི་དཔེ་སྐྱོང་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བྱེད་པ་ཨིན། གནས་བདེན་གང་གི་སྐོར་གྱི་སྒྲིག་སྟངས་མེ་ཏོག་བྱེད་པའི་དོན་གཞི་འདི་གིས་བརྗོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བྱེད་པ།',
+    'encyclopedia.settings.templateCheckbox': 'དཔེ་སྐྱོང་བྱེད་པ་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར།',
+    'encyclopedia.templateCopy.modalTitle': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་བརྗོད་པ།',
+    'encyclopedia.templateCopy.description': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བརྗོད་པ།',
+    'encyclopedia.templateCopy.targetUniverse': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་ལས་འགན་བྱེད་པ།'
 };
