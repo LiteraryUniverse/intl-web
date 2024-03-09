@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'Encyklopædi kontroller',
     'encyclopedia.pronunciation.title': 'Udtale',
     'encyclopedia.wip.abbreviation': 'Arbejdes i gang',
-    'encyclopedia.wip.full': 'Arbejde i gang'
+    'encyclopedia.wip.full': 'Arbejde i gang',
+    'encyclopedia.settings.templateLegend': 'Skabelonunivers',
+    'encyclopedia.settings.templateDescription': 'Tillad indholdet af denne encyklopædi at blive kopieret til andre universer. Dette er bedst, hvis du ikke har nogen historier og i stedet bare opretter en skabelon, som andre kan bruge.',
+    'encyclopedia.settings.templateCheckbox': 'Dette er et skabelonunivers',
+    'encyclopedia.templateCopy.modalTitle': 'Kopier encyklopædiindhold',
+    'encyclopedia.templateCopy.description': 'Kopier indholdet af denne encyklopædi ind i dit univers for at berige det.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univers at kopiere til'
 };
