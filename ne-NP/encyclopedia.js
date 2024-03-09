@@ -149,5 +149,11 @@ export default {
     'enc.menuControls.ariaDesc': 'ज्ञानकोष नियंत्रणहरू',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'काम प्रगतिमा'
+    'encyclopedia.wip.full': 'काम प्रगतिमा',
+    'encyclopedia.settings.templateLegend': 'टेम्पलेट ब्रह्माण्ड',
+    'encyclopedia.settings.templateDescription': 'यस विज्ञानकोशको सामग्रीलाई अन्य ब्रह्माण्डमा प्रतिलिपि गर्न अनुमति दिनुहोस्। यदि तपाईंलाई कुनै कथाहरू छैनन् र तपाईंले अरूलाई प्रयोग गर्ने टेम्पलेट मात्र बनाउँदै हुनुहुन्छ।',
+    'encyclopedia.settings.templateCheckbox': 'यो एउटा टेम्पलेट ब्रह्माण्ड हो',
+    'encyclopedia.templateCopy.modalTitle': 'विज्ञानकोश सामग्री प्रतिलिपि गर्नुहोस्',
+    'encyclopedia.templateCopy.description': 'यस विज्ञानकोशको सामग्रीलाई तपाईंको ब्रह्माण्डमा प्रतिलिपि गर्नुहोस् र यसले तपाईंको ब्रह्माण्डलाई धनी गर्दैछ।',
+    'encyclopedia.templateCopy.targetUniverse': 'प्रतिलिपि गर्ने ब्रह्माण्ड'
 };
