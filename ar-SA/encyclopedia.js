@@ -150,10 +150,10 @@ export default {
     'encyclopedia.pronunciation.title': 'النطق',
     'encyclopedia.wip.abbreviation': 'قيد التطوير',
     'encyclopedia.wip.full': 'قيد التطوير',
-    'encyclopedia.settings.templateLegend': 'Template universe',
-    'encyclopedia.settings.templateDescription': 'Allow the content of this encyclopedia to be copied into other universes. This is best if you don\'t have any stories and instead are just creating a template for others to use.',
-    'encyclopedia.settings.templateCheckbox': 'This is a template universe',
-    'encyclopedia.templateCopy.modalTitle': 'Copy encyclopedia content',
-    'encyclopedia.templateCopy.description': 'Copy content of this encyclopedia into your universe to enrich it.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to'
+    'encyclopedia.settings.templateLegend': 'كون القالب',
+    'encyclopedia.settings.templateDescription': 'السماح بنسخ محتوى هذه الموسوعة إلى كواكب أخرى. هذا هو الأفضل إذا كان لديك أي قصص وبدلاً من ذلك تقوم فقط بإنشاء قالب للآخرين لاستخدامه.',
+    'encyclopedia.settings.templateCheckbox': 'هذا كون قالب',
+    'encyclopedia.templateCopy.modalTitle': 'نسخ محتوى الموسوعة',
+    'encyclopedia.templateCopy.description': 'انسخ محتوى هذه الموسوعة إلى كونك لإثراءه.',
+    'encyclopedia.templateCopy.targetUniverse': 'الكون المستهدف للنسخ إليه'
 };
