@@ -159,5 +159,13 @@ export default {
   'enc.menuControls.ariaDesc': 'Encyclopedia controls',
   'encyclopedia.pronunciation.title': 'Pronunciation',
   'encyclopedia.wip.abbreviation': 'WIP',
-  'encyclopedia.wip.full': 'Work in Progress'
+  'encyclopedia.wip.full': 'Work in Progress',
+  'encyclopedia.settings.templateLegend': 'Template universe',
+  'encyclopedia.settings.templateDescription':
+    "Allow the content of this encyclopedia to be copied into other universes. This is best if you don't have any stories and instead are just creating a template for others to use.",
+  'encyclopedia.settings.templateCheckbox': 'This is a template universe',
+  'encyclopedia.templateCopy.modalTitle': 'Copy encyclopedia content',
+  'encyclopedia.templateCopy.description':
+    'Copy content of this encyclopedia into your universe to enrich it.',
+  'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to'
 }
