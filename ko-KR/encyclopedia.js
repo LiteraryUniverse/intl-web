@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': '이것은 템플릿 우주입니다',
     'encyclopedia.templateCopy.modalTitle': '백과 내용 복사',
     'encyclopedia.templateCopy.description': '이 백과의 내용을 복사하여 당신의 우주를 풍부하게 만드세요.',
-    'encyclopedia.templateCopy.targetUniverse': '복사할 우주'
+    'encyclopedia.templateCopy.targetUniverse': '복사할 우주',
+    'encyclopedia.templateCopy.finished': '복사 완료'
 };
