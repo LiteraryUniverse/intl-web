@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'ଏହା ଟେମ୍ପଲେଟ୍ ବିଶ୍ବ',
     'encyclopedia.templateCopy.modalTitle': 'ଏନ୍ସାଇକ୍ଲୋପିଡ଼ିଆ ବିଷୟବସ୍ତୁ କପି କରନ୍ତୁ',
     'encyclopedia.templateCopy.description': 'ଏହି ଏନ୍ସାଇକ୍ଲୋପିଡ଼ିଆର ବିଷୟବସ୍ତୁଟି ଆପଣଙ୍କର ବିଶ୍ବମାନକୁ କପି କରିପାରିବେ |',
-    'encyclopedia.templateCopy.targetUniverse': 'କପି କରିବା ବିଶ୍ବ'
+    'encyclopedia.templateCopy.targetUniverse': 'କପି କରିବା ବିଶ୍ବ',
+    'encyclopedia.templateCopy.finished': 'ପ୍ରତିଲେପଣା କିଣ୍ତିଶୁଣ୍ଯ୍ୟାକୁ ଶେଷ ହେଲା'
 };
