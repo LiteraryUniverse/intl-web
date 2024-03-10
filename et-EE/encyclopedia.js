@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'See on malli universum',
     'encyclopedia.templateCopy.modalTitle': 'Kopeeri entsüklopeedia sisu',
     'encyclopedia.templateCopy.description': 'Kopeeri selle entsüklopeedia sisu oma universumisse, et seda rikastada.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universum, kuhu kopeerida'
+    'encyclopedia.templateCopy.targetUniverse': 'Universum, kuhu kopeerida',
+    'encyclopedia.templateCopy.finished': 'Kopeerimine lõpetatud'
 };
