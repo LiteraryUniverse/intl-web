@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'ಇದೊಂದು ಟೆಂಪ್ಲೇಟ್ ಬ್ರಹ್ಮಾಂಡ',
     'encyclopedia.templateCopy.modalTitle': 'ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ನಕಲಿಸಿ',
     'encyclopedia.templateCopy.description': 'ಈ ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾದ ವಿಷಯವನ್ನು ನಿಮ್ಮ ಬ್ರಹ್ಮಾಂಡಕ್ಕೆ ನಕಲಿಸಿ ಅದನ್ನು ಸಮೃದ್ಧಿಪಡಿಸಿ.',
-    'encyclopedia.templateCopy.targetUniverse': 'ನಕಲಿಸಬೇಕಾದ ಬ್ರಹ್ಮಾಂಡ'
+    'encyclopedia.templateCopy.targetUniverse': 'ನಕಲಿಸಬೇಕಾದ ಬ್ರಹ್ಮಾಂಡ',
+    'encyclopedia.templateCopy.finished': 'ನಕಲಿ ಮುಗಿಯಿತು'
 };
