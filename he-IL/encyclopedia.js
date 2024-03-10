@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'זהו יקום תבנית',
     'encyclopedia.templateCopy.modalTitle': 'העתקת תוכן האנציקלופדיה',
     'encyclopedia.templateCopy.description': 'העתקת תוכן של אנציקלופדיה זו ליקומך כדי להעשיר אותו.',
-    'encyclopedia.templateCopy.targetUniverse': 'יקום להעתיק אליו'
+    'encyclopedia.templateCopy.targetUniverse': 'יקום להעתיק אליו',
+    'encyclopedia.templateCopy.finished': 'העתקה הושלמה'
 };
