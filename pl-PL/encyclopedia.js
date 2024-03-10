@@ -159,5 +159,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'To jest wszechświat szablonowy',
     'encyclopedia.templateCopy.modalTitle': 'Skopiuj zawartość encyklopedii',
     'encyclopedia.templateCopy.description': 'Skopiuj zawartość tej encyklopedii do swojego wszechświata, aby go wzbogacić.',
-    'encyclopedia.templateCopy.targetUniverse': 'Wszechświat, do którego ma zostać skopiowana zawartość'
+    'encyclopedia.templateCopy.targetUniverse': 'Wszechświat, do którego ma zostać skopiowana zawartość',
+    'encyclopedia.templateCopy.finished': 'Kopiowanie zakończone'
 };
