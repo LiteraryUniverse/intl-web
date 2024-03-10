@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'ეს არის შაბლონის უნივერსუმი',
     'encyclopedia.templateCopy.modalTitle': 'ენციკლოპედიის შინაარსის კოპირება',
     'encyclopedia.templateCopy.description': 'კოპირების შინაარსის ამ ენციკლოპედიის ფარგლებში განაახლეთ თქვენი უნივერსი.',
-    'encyclopedia.templateCopy.targetUniverse': 'უნივერსუმი, რომლის ფარგლებში განაახლეთ'
+    'encyclopedia.templateCopy.targetUniverse': 'უნივერსუმი, რომლის ფარგლებში განაახლეთ',
+    'encyclopedia.templateCopy.finished': 'კოპირება დასრულებულია'
 };
