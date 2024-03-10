@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Dit is \'n sjabloon heelal',
     'encyclopedia.templateCopy.modalTitle': 'Kopieer ensiklopedie-inhoud',
     'encyclopedia.templateCopy.description': 'Kopieer die inhoud van hierdie ensiklopedie na jou heelal om dit te verryk.',
-    'encyclopedia.templateCopy.targetUniverse': 'Heelal om na te kopieer'
+    'encyclopedia.templateCopy.targetUniverse': 'Heelal om na te kopieer',
+    'encyclopedia.templateCopy.finished': 'Kopiëring voltooi'
 };
