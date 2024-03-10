@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Dette er en malunivers',
     'encyclopedia.templateCopy.modalTitle': 'Kopier encyklopediinnhold',
     'encyclopedia.templateCopy.description': 'Kopier innholdet i denne encyklopedien til ditt univers for å berike det.',
-    'encyclopedia.templateCopy.targetUniverse': 'Univers å kopiere til'
+    'encyclopedia.templateCopy.targetUniverse': 'Univers å kopiere til',
+    'encyclopedia.templateCopy.finished': 'Kopiering fullført'
 };
