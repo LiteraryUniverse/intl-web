@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Ini adalah univers template',
     'encyclopedia.templateCopy.modalTitle': 'Salin konten ensiklopedia',
     'encyclopedia.templateCopy.description': 'Salin konten dari ensiklopedia ini ke univers Anda untuk memperkayanya.',
-    'encyclopedia.templateCopy.targetUniverse': 'Univers tujuan untuk disalin'
+    'encyclopedia.templateCopy.targetUniverse': 'Univers tujuan untuk disalin',
+    'encyclopedia.templateCopy.finished': 'Penyalinan selesai'
 };
