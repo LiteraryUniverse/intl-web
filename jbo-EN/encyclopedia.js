@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'ti cu vrici be fi drata',
     'encyclopedia.templateCopy.modalTitle': 'se kopygau lo vrici be lo ckini vrici',
     'encyclopedia.templateCopy.description': 'se kopygau lo se du\'u le nunpe\'i be ti cu se pilno lo nu do se banro lo ckini vrici',
-    'encyclopedia.templateCopy.targetUniverse': 'ckini vrici be lo se du\'u ri cu se kopygau'
+    'encyclopedia.templateCopy.targetUniverse': 'ckini vrici be lo se du\'u ri cu se kopygau',
+    'encyclopedia.templateCopy.finished': 'Kopiranje klāstu'
 };
