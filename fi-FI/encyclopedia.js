@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Tämä on mallimaailma',
     'encyclopedia.templateCopy.modalTitle': 'Kopioi tietosanakirjan sisältö',
     'encyclopedia.templateCopy.description': 'Kopioi tämän tietosanakirjan sisältö omaan maailmaasi rikastuttaaksesi sitä.',
-    'encyclopedia.templateCopy.targetUniverse': 'Kohdemaailma kopioimiseen'
+    'encyclopedia.templateCopy.targetUniverse': 'Kohdemaailma kopioimiseen',
+    'encyclopedia.templateCopy.finished': 'Kopiointi valmis'
 };
