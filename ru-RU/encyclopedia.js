@@ -160,5 +160,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Это шаблонная вселенная',
     'encyclopedia.templateCopy.modalTitle': 'Копировать содержимое энциклопедии',
     'encyclopedia.templateCopy.description': 'Скопируйте содержимое этой энциклопедии в свою вселенную, чтобы обогатить ее.',
-    'encyclopedia.templateCopy.targetUniverse': 'Вселенная для копирования'
+    'encyclopedia.templateCopy.targetUniverse': 'Вселенная для копирования',
+    'encyclopedia.templateCopy.finished': 'Копирование завершено'
 };
