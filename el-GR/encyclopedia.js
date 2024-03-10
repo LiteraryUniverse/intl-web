@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Αυτό είναι ένα σύμπαν προτύπου',
     'encyclopedia.templateCopy.modalTitle': 'Αντιγραφή περιεχομένου εγκυκλοπαίδειας',
     'encyclopedia.templateCopy.description': 'Αντιγράψτε το περιεχόμενο αυτής της εγκυκλοπαίδειας στο σύμπαν σας για να το εμπλουτίσετε.',
-    'encyclopedia.templateCopy.targetUniverse': 'Σύμπαν για αντιγραφή'
+    'encyclopedia.templateCopy.targetUniverse': 'Σύμπαν για αντιγραφή',
+    'encyclopedia.templateCopy.finished': 'Ολοκληρώθηκε η αντιγραφή'
 };
