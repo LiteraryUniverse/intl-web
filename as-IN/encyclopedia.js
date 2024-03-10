@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'এটি একটি টেমপ্লেট বিশ্ব',
     'encyclopedia.templateCopy.modalTitle': 'বিশ্বের বিষয়বস্তু কপি করুন',
     'encyclopedia.templateCopy.description': 'এই বিশ্বের বিষয়বস্তুকে আপনার বিশ্বে কপি করে তা সমৃদ্ধ করুন।',
-    'encyclopedia.templateCopy.targetUniverse': 'কপি করার জন্য বিশ্ব'
+    'encyclopedia.templateCopy.targetUniverse': 'কপি করার জন্য বিশ্ব',
+    'encyclopedia.templateCopy.finished': 'প্ৰতিলিপি সম্পূৰ্ণ কৰা হ\'ল'
 };
