@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Detta är ett malluniversum',
     'encyclopedia.templateCopy.modalTitle': 'Kopiera encyklopediinnehåll',
     'encyclopedia.templateCopy.description': 'Kopiera innehållet i denna encyklopedi till ditt universum för att berika det.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universum att kopiera till'
+    'encyclopedia.templateCopy.targetUniverse': 'Universum att kopiera till',
+    'encyclopedia.templateCopy.finished': 'Kopiering klar'
 };
