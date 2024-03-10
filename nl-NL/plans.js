@@ -89,14 +89,14 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Uw standaard betaalmethode wordt gebruikt om te betalen voor de volgende cyclus.',
-    'plans.subscribed.status': `Abonnement status: {status, select,
+    'plans.subscribed.status': `Abonnementsstatus: {status, select,
     active {Actief}
     incomplete {Er ontbreekt iets}
     incomplete_expired {Er ontbreekt iets}
     trialing {Proefperiode}
     past_due {We missen uw betaling}
-    canceled {Geannuleerd}
-    unpaid {Onbetaald}
+    cancelled {Geannuleerd}
+    unpaid {Niet betaald}
     expired {Verlopen}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Vul uw encyclopedie aan, met minstens 30 vermeldingen! Beter als u de marge van 100 aanvalt.',
     'payment.universe.haveFans': 'Het is makkelijker om mensen te vinden die je willen sponsoren als ze al geïnteresseerd zijn in wat je doet. 100 fans die jouw universum aan hun bibliotheek toevoegen is de startlijn.',
     'payment.settings.yourFanClub': 'Jouw fanclub',
-    'payment.settings.newWork': 'Creëer een nieuw werk'
+    'payment.settings.newWork': 'Creëer een nieuw werk',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Naam van het niveau',
+    'payment.fanClub.createTier': 'Voeg niveau toe',
+    'payment.fanClub.description': 'Niveaubeschrijving',
+    'payment.fanClub.picture': 'Niveau afbeelding',
+    'payment.fanClub.priceBreakdown': 'De abonnee betaalt: {amount}. De platformkosten bedragen {fee}, u ontvangt: {net}',
+    'payment.feeNotice': 'Houd er rekening mee dat dit een schatting is en dat de werkelijke kosten kunnen verschillen op basis van de betaalmethode van de klant en eventuele extra kosten van het betaalplatform.',
+    'payment.fanClub.perks': 'Voordelen'
 };

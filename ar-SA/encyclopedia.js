@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ضوابط الموسوعة',
     'encyclopedia.pronunciation.title': 'النطق',
     'encyclopedia.wip.abbreviation': 'قيد التطوير',
-    'encyclopedia.wip.full': 'قيد التطوير'
+    'encyclopedia.wip.full': 'قيد التطوير',
+    'encyclopedia.settings.templateLegend': 'كون القالب',
+    'encyclopedia.settings.templateDescription': 'السماح بنسخ محتوى هذه الموسوعة إلى كواكب أخرى. هذا هو الأفضل إذا كان لديك أي قصص وبدلاً من ذلك تقوم فقط بإنشاء قالب للآخرين لاستخدامه.',
+    'encyclopedia.settings.templateCheckbox': 'هذا كون قالب',
+    'encyclopedia.templateCopy.modalTitle': 'نسخ محتوى الموسوعة',
+    'encyclopedia.templateCopy.description': 'انسخ محتوى هذه الموسوعة إلى كونك لإثراءه.',
+    'encyclopedia.templateCopy.targetUniverse': 'الكون المستهدف للنسخ إليه',
+    'encyclopedia.templateCopy.finished': 'انتهاء عملية النسخ'
 };

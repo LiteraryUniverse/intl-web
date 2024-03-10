@@ -93,10 +93,10 @@ export default {
     active {نشط}
     incomplete {هناك شيء مفقود}
     incomplete_expired {هناك شيء مفقود}
-    trialing {تجريبي}
-    past_due {ينقصنا عملية الدفع الخاصة بك}
-    canceled {تم الإلغاء}
-    unpaid {غير المدفوع}
+    trialing {تجربة}
+    past_due {نحن بحاجة إلى دفعتك}
+    cancelled {تم الإلغاء}
+    unpaid {غير مدفوع}
     expired {منتهي الصلاحية}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'ملأ الموسوعة الخاصة بك، ويجب أن تكون لديك 30 إدخالًا على الأقل! الأفضل إذا كنت تستهدف الحاجز 100.',
     'payment.universe.haveFans': 'من الأسهل الحصول على رعاة إذا كانوا مهتمين بما تقوم به. إضافة 100 معجب إلى مكتبتك هو خط البداية.',
     'payment.settings.yourFanClub': 'نادي المعجبين الخاص بك',
-    'payment.settings.newWork': 'إنشاء عمل جديد'
+    'payment.settings.newWork': 'إنشاء عمل جديد',
+    'payment.amount.withNet': `{amount} (صافي: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'اسم الطبقة',
+    'payment.fanClub.createTier': 'إضافة طبقة',
+    'payment.fanClub.description': 'وصف الطبقة',
+    'payment.fanClub.picture': 'صورة الطبقة',
+    'payment.fanClub.priceBreakdown': 'المشترك سيدفع: {amount}. رسوم المنصة هي {fee}، ستحصل على: {net}',
+    'payment.feeNotice': 'يرجى ملاحظة أن هذا تقدير وقد تكون الرسوم الفعلية مختلفة بناءً على نوع الدفع الخاص بالعميل والرسوم الإضافية من بوابة الدفع.',
+    'payment.fanClub.perks': 'الامتيازات'
 };

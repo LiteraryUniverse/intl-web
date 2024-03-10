@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ফ্যান আর্ট',
     'universe.fanFiction.hidden': 'গোপন',
     'universe.fanFiction.hide': 'ফ্যানফিকশন লুকান',
-    'universe.fanFiction.unhide': 'ফ্যানফিকশন লুকান ছাড়ুন'
+    'universe.fanFiction.unhide': 'ফ্যানফিকশন লুকান ছাড়ুন',
+    'universe.fanFiction.create': 'নতুন ফ্যান ফিকশন তৈরি করুন',
+    'universe.fanFiction.notAllowed': 'এই বিশ্বে ফ্যান ফিকশন প্রদর্শন করা অনুমোদিত নয়।'
 };

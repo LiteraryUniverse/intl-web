@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Hei {username},',
     'common.back': 'Takaisin',
     'console.stop': 'Pysähdy!',
-    'console.explain': 'Tämä on selaimen ominaisuus, joka on tarkoitettu kehittäjille. Jos joku pyysi sinua kopioimaan ja liittämään jotain tänne ottaaksesi käyttöön Literary Universe -ominaisuuden tai "hakkeroidaksesi" jonkun tilin, se on huijaus ja antaa heille pääsyn Literary Universe -tiliisi.'
+    'console.explain': 'Tämä on selaimen ominaisuus, joka on tarkoitettu kehittäjille. Jos joku pyysi sinua kopioimaan ja liittämään jotain tänne ottaaksesi käyttöön Literary Universe -ominaisuuden tai "hakkeroidaksesi" jonkun tilin, se on huijaus ja antaa heille pääsyn Literary Universe -tiliisi.',
+    'common.coping': 'Kopioidaan...'
 }    /* eslint-enable max-len */;

@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ଫ୍ୟାନ ଆର୍ଟ',
     'universe.fanFiction.hidden': 'ଲୁଚା',
     'universe.fanFiction.hide': 'ଛଡିବେ ଫନଫିକ୍ସନ',
-    'universe.fanFiction.unhide': 'ଦାଖିବେ ଫନଫିକ୍ସନ'
+    'universe.fanFiction.unhide': 'ଦାଖିବେ ଫନଫିକ୍ସନ',
+    'universe.fanFiction.create': 'ନବମ ଫାନ୍ ଫିକ୍ସନ ତିଆରି କରନ୍ତୁ',
+    'universe.fanFiction.notAllowed': 'ଏହି ବିଶ୍ୱରେ ଫାନ୍ ଫିକ୍ସନର ପ୍ରଦର୍ଶନ ଅନୁମୋଦିତ ନାହିଁ।'
 };

@@ -89,14 +89,14 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'A következő ciklusra a default fizetési módot fogjuk használni.',
-    'plans.subscribed.status': `Előfizetési állapot: {status, select,
+    'plans.subscribed.status': `Előfizetés állapota: {status, select,
     active {Aktív}
     incomplete {Hiányzik valami}
     incomplete_expired {Hiányzik valami}
-    trialing {Próbaverzió}
+    trialing {Próba}
     past_due {Hiányzik a fizetés}
-    canceled {Lemondva}
-    unpaid {Még nem fizetett}
+    cancelled {Törölve}
+    unpaid {Kifizetetlen}
     expired {Lejárt}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Töltsd fel az enciklopédiádat, legalább 30 bejegyzéssel! Jobb, ha a 100-as határt támadod meg.',
     'payment.universe.haveFans': 'Sokkal könnyebb embereket szponzorálni, ha már érdeklődnek az általad végzett tevékenység iránt. 100 rajongó, akik hozzáadják az univerzumodat a könyvtárukhoz, az induló vonal.',
     'payment.settings.yourFanClub': 'A rajongói klubod',
-    'payment.settings.newWork': 'Új mű létrehozása'
+    'payment.settings.newWork': 'Új mű létrehozása',
+    'payment.amount.withNet': `{amount} (nettó: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Típus neve',
+    'payment.fanClub.createTier': 'Réteg hozzáadása',
+    'payment.fanClub.description': 'Réteg leírása',
+    'payment.fanClub.picture': 'Réteg képe',
+    'payment.fanClub.priceBreakdown': 'Az előfizető fizetni fog: {amount}. A platform díja {fee}, amit megkap: {net}',
+    'payment.feeNotice': 'Kérjük, vegye figyelembe, hogy ez csak egy becslés, és a tényleges díj változhat a vásárló fizetési módjától és a fizetési kapu által felszámolt további díjak alapján.',
+    'payment.fanClub.perks': 'Juttatások'
 };

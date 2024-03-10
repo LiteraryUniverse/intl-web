@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Jou verstek betalingsmetode sal gebruik word om vir die volgende siklus te betaal.',
-    'plans.subscribed.status': `Intekengroepstatus: {status, select,
+    'plans.subscribed.status': `Intekenaarstatus: {status, select,
     active {Aktief}
     incomplete {Daar is iets wat ontbreek}
     incomplete_expired {Daar is iets wat ontbreek}
-    trialing {Proef}
+    trialing {Proeftydperk}
     past_due {Ons mis jou betaling}
-    canceled {Gekanselleer}
+    cancelled {Gekanselleer}
     unpaid {Onbetaal}
     expired {Verval}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Vul jou ensiklopedie aan, hê ten minste 30 inskrywings! Beter as jy die 100-grens aanval.',
     'payment.universe.haveFans': 'Dit is makliker om mense te kry om jou te borg as hulle reeds belangstel in wat jy doen. 100 ondersteuners wat jou universum by hul biblioteek voeg, is die beginlyn.',
     'payment.settings.yourFanClub': 'Jou ondersteunersklub',
-    'payment.settings.newWork': 'Skep \'n nuwe werk'
+    'payment.settings.newWork': 'Skep \'n nuwe werk',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Tiersnaam',
+    'payment.fanClub.createTier': 'Voeg vlak by',
+    'payment.fanClub.description': 'Vlak beskrywing',
+    'payment.fanClub.picture': 'Vlak prentjie',
+    'payment.fanClub.priceBreakdown': 'Abonnee sal betaal: {amount}. Platformfooi is {fee}, jy sal kry: {net}',
+    'payment.feeNotice': 'Let daarop dat hierdie \'n skatting is en die werklike fooi mag verskil op grond van die kliënt se betaalmetode en ekstra kostes van die betaalhek.',
+    'payment.fanClub.perks': 'Voordele'
 };

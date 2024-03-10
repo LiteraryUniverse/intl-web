@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'યુનિવર્સો માટે શોધો',
     'discover.search.storyStatus': 'વાર્તાનો પ્રગતિનો સ્થિતિ',
     'story.status.complete': 'પૂર્ણ',
-    'story.status.inProgress': 'ચાલી રહેલી',
+    'story.status.inProgress': 'ચાલુ છે',
     'discover.search.universeConnection': 'વાર્તાનો યુનિવર્સ સંપૃક્ષ્ટતા',
     'story.universeRelation.standalone': 'સ્વતંત્ર વાર્તા',
     'story.universeRelation.fanFiction': 'ફેન ફિક્શન',

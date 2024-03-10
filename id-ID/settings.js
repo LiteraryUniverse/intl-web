@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Surel terverifikasi',
     'settings.email.add': 'Tambah surel',
     'settings.languages.title': 'Pengaturan bahasa',
-    'settings.languages.notice': 'Saat ini, bahasa Inggris adalah satu-satunya bahasa yang didukung secara resmi. Bahasa lain tersedia berkat sukarelawan yang luar biasa, tetapi mungkin masih belum lengkap.',
+    'settings.languages.notice': 'Bahasa Inggris dan Bahasa Czech saat ini adalah satu-satunya bahasa yang didukung secara resmi. Bahasa lain tersedia berkat sukarelawan yang luar biasa dan terjemahan AI, tetapi mungkin masih belum lengkap dan tidak akurat di beberapa tempat.',
     'settings.languages.join': 'Jika Anda ingin membantu kami, Anda dapat menerjemahkan Literary Universe juga.',
     'settings.name.title': 'Nama asli',
     'settings.name.given': 'Nama depan',

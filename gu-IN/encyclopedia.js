@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ઍન્સાય્ક્લોપીડિયા નિયંત્રણો',
     'encyclopedia.pronunciation.title': 'ઉચ્ચારણ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'પ્રગતિમાં છેલ્લી સ્થિતિ'
+    'encyclopedia.wip.full': 'પ્રગતિમાં છેલ્લી સ્થિતિ',
+    'encyclopedia.settings.templateLegend': 'ટેમ્પલેટ યુનિવર્સ',
+    'encyclopedia.settings.templateDescription': 'આ એન્સાયક્લોપીડિયાની સામગ્રીને અન્ય યુનિવર્સમાં કૉપિ કરવાની પરવાનગી આપો. જો તમારી પાસે કોઈ કથાઓ નથી અને તમે ફક્ત અન્યોને વપરાશ માટે ટેમ્પલેટ બનાવી રહ્યા છો તો આ સૌથી સારી છે.',
+    'encyclopedia.settings.templateCheckbox': 'આ એક ટેમ્પલેટ યુનિવર્સ છે',
+    'encyclopedia.templateCopy.modalTitle': 'એન્સાયક્લોપીડિયાની સામગ્રી કૉપિ કરો',
+    'encyclopedia.templateCopy.description': 'આ એન્સાયક્લોપીડિયાની સામગ્રીને તમારા યુનિવર્સમાં કૉપિ કરો અને તેને વધારો આપો.',
+    'encyclopedia.templateCopy.targetUniverse': 'કૉપિ કરવા માટેનું યુનિવર્સ',
+    'encyclopedia.templateCopy.finished': 'કોપીંગ પૂર્ણ થઈ ગઈ'
 };

@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Halo {username},',
     'common.back': 'Kembali',
     'console.stop': 'Berhenti!',
-    'console.explain': 'Ini adalah fitur peramban yang ditujukan untuk para pengembang. Jika seseorang meminta Anda untuk menyalin-tempel sesuatu di sini untuk mengaktifkan fitur Literary Universe atau "membobol" akun seseorang, itu adalah penipuan dan akan memberikan akses kepada mereka ke akun Literary Universe Anda.'
+    'console.explain': 'Ini adalah fitur peramban yang ditujukan untuk para pengembang. Jika seseorang meminta Anda untuk menyalin-tempel sesuatu di sini untuk mengaktifkan fitur Literary Universe atau "membobol" akun seseorang, itu adalah penipuan dan akan memberikan akses kepada mereka ke akun Literary Universe Anda.',
+    'common.coping': 'Menyalin...'
 }    /* eslint-enable max-len */;

@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ენციკლოპედიის კონტროლები',
     'encyclopedia.pronunciation.title': 'გამოსახელებასი',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'მუშაობა მიმდინარეობაში'
+    'encyclopedia.wip.full': 'მუშაობა მიმდინარეობაში',
+    'encyclopedia.settings.templateLegend': 'თარგის უნივერსუმი',
+    'encyclopedia.settings.templateDescription': 'აჩვენეთ ამ ენციკლოპედიის შინაარსი კოპირების სხვა უნივერსებში. ეს საუკეთესოა, თუ თქვენ არ გაქვთ რომელიმე მოთავსება და გარკვეულიათ მარტივი შაბლონის შექმნა სხვებისთვის.',
+    'encyclopedia.settings.templateCheckbox': 'ეს არის შაბლონის უნივერსუმი',
+    'encyclopedia.templateCopy.modalTitle': 'ენციკლოპედიის შინაარსის კოპირება',
+    'encyclopedia.templateCopy.description': 'კოპირების შინაარსის ამ ენციკლოპედიის ფარგლებში განაახლეთ თქვენი უნივერსი.',
+    'encyclopedia.templateCopy.targetUniverse': 'უნივერსუმი, რომლის ფარგლებში განაახლეთ',
+    'encyclopedia.templateCopy.finished': 'კოპირება დასრულებულია'
 };

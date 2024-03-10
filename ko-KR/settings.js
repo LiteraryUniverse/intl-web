@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': '인증된 이메일',
     'settings.email.add': '이메일 추가',
     'settings.languages.title': '언어 설정',
-    'settings.languages.notice': '현재 영어만 공식적으로 지원됩니다. 다른 언어는 놀라운 자원봉사자들의 덕분에 사용할 수 있지만, 아직 완전하지는 않을 수 있습니다.',
+    'settings.languages.notice': '영어와 체코어는 현재 공식적으로 지원되는 언어입니다. 다른 언어는 놀라운 자원봉사자들과 AI 번역 덕분에 사용할 수 있지만, 여전히 부분적으로 완성되지 않거나 잘못된 부분이 있을 수 있습니다.',
     'settings.languages.join': 'Literary Universe를 번역하여 도움을 주실 수 있습니다.',
     'settings.name.title': '실명',
     'settings.name.given': '이름',

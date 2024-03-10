@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} artă fan',
     'universe.fanFiction.hidden': 'Ascunsă',
     'universe.fanFiction.hide': 'Ascunde fanfiction',
-    'universe.fanFiction.unhide': 'Afisează fanfiction'
+    'universe.fanFiction.unhide': 'Afisează fanfiction',
+    'universe.fanFiction.create': 'Creează o nouă ficțiune fan',
+    'universe.fanFiction.notAllowed': 'Această Univers nu permite afișarea ficțiunii fan.'
 };

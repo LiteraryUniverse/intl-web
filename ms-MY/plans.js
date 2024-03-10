@@ -93,11 +93,11 @@ export default {
     active {Aktif}
     incomplete {Ada sesuatu yang hilang}
     incomplete_expired {Ada sesuatu yang hilang}
-    trialing {Percobaan}
-    past_due {Kami kehilangan pembayaran Anda}
-    canceled {Dibatalkan}
-    unpaid {Belum Dibayar}
-    expired {Kedaluwarsa}
+    trialing {Percubaan}
+    past_due {Kami tidak menerima pembayaran anda}
+    cancelled {Dibatalkan}
+    unpaid {Belum dibayar}
+    expired {Tamat tempoh}
     other {}
   }`,
     'payments.changeMethod': 'Tukar kaedah pembayaran',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Isi ensiklopedia anda, ada sekurang-kurangnya 30 entri! Lebih baik jika anda mencapai margin 100.',
     'payment.universe.haveFans': 'Lebih mudah mendapatkan orang untuk mensponsori Anda jika mereka sudah tertarik dengan apa yang Anda lakukan. 100 penggemar menambahkan alam semesta Anda ke perpustakaan mereka adalah garis start.',
     'payment.settings.yourFanClub': 'Kelab peminat anda',
-    'payment.settings.newWork': 'Buat kerja baru'
+    'payment.settings.newWork': 'Buat kerja baru',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Nama tier',
+    'payment.fanClub.createTier': 'Tambah tier',
+    'payment.fanClub.description': 'Penerangan tier',
+    'payment.fanClub.picture': 'Gambar tier',
+    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Yuran platform adalah {fee}, anda akan mendapat: {net}',
+    'payment.feeNotice': 'Sila ambil perhatian bahawa ini hanyalah anggaran dan yuran sebenar mungkin berbeza berdasarkan jenis pembayaran pelanggan dan caj tambahan dari gerbang bayaran.',
+    'payment.fanClub.perks': 'Kelebihan'
 };

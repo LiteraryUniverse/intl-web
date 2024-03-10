@@ -33,5 +33,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fan art',
     'universe.fanFiction.hidden': 'Skryté',
     'universe.fanFiction.hide': 'Skrýt fanfikci',
-    'universe.fanFiction.unhide': 'Odhalit fanfikci'
+    'universe.fanFiction.unhide': 'Odhalit fanfikci',
+    'universe.fanFiction.create': 'Vytvořit novou fan fikci',
+    'universe.fanFiction.notAllowed': 'Tento Vesmír neumožňuje zobrazení fanouškovské fikce.'
 };

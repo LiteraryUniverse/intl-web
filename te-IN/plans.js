@@ -91,13 +91,13 @@ export default {
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
     'plans.subscribed.status': `చందా స్థితి: {status, select,
     active {క్రియాశీలం}
-    incomplete {ఏదేమో లేదు}
-    incomplete_expired {ఏదేమో లేదు}
-    trialing {ప్రయాతి}
+    incomplete {ఏదో కొంత లేదు}
+    incomplete_expired {ఏదో కొంత లేదు}
+    trialing {ప్రయాసం}
     past_due {మాకు మీ చెల్లింపు లేదు}
-    canceled {రద్దు చేసారు}
-    unpaid {పైకాస్తి}
-    expired {అయితేది}
+    cancelled {రద్దు చేయబడింది}
+    unpaid {చెల్లింపు చెల్లించనిది}
+    expired {గడువున ముగివేయబడింది}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'మీకు ప్రాముఖ్యత ఉందానారో వారిని మీరు మీ పనిని ఆకర్షించడం సులభం. 100 అభిమానాలు మీ యూనివర్స్‌ను తమ లైబ్రరీకి జోడించడం ప్రారంభ రేఖ.',
     'payment.settings.yourFanClub': 'మీ అభిమాన సంఘం',
-    'payment.settings.newWork': 'కొత్త పని సృష్టించండి'
+    'payment.settings.newWork': 'కొత్త పని సృష్టించండి',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'టియర్ పేరు',
+    'payment.fanClub.createTier': 'టియర్ జోడించండి',
+    'payment.fanClub.description': 'టియర్ వివరణ',
+    'payment.fanClub.picture': 'టియర్ చిత్రం',
+    'payment.fanClub.priceBreakdown': 'సభ్యుడు చెల్లించినది: {amount}। ప్లాట్‌ఫారం ఫీ {fee} ఉంది, మీరు పొందుతారు: {net}',
+    'payment.feeNotice': 'దయచేసి గమనించండి, ఇది ఒక అందించడం మాత్రమే మరియు వాస్తవంగా ఫీ వివరము విభిన్న చెల్లని పేమెంట్ రకం మరియు పే గేట్ నుండి వచ్చే అదనపు ధరల ఆధారంగా మారవచ్చు.',
+    'payment.fanClub.perks': 'ప్రతిఫలాలు'
 };

@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'বিশ্বকোষ নিয়ন্ত্রণসমূহ',
     'encyclopedia.pronunciation.title': 'উচ্চারণ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'চলমান কাজ'
+    'encyclopedia.wip.full': 'চলমান কাজ',
+    'encyclopedia.settings.templateLegend': 'টেমপ্লেট বিশ্ব',
+    'encyclopedia.settings.templateDescription': 'এই বিশ্বের বিষয়বস্তুকে অন্য বিশ্বে কপি করার অনুমতি দিন। যদি আপনার কোনও গল্প না থাকে এবং পরিবর্তে আপনি শুধুমাত্র অন্যদের জন্য একটি টেমপ্লেট তৈরি করছেন তবে এটি সেরা হবে।',
+    'encyclopedia.settings.templateCheckbox': 'এটি একটি টেমপ্লেট বিশ্ব',
+    'encyclopedia.templateCopy.modalTitle': 'বিশ্বের বিষয়বস্তু কপি করুন',
+    'encyclopedia.templateCopy.description': 'এই বিশ্বের বিষয়বস্তুকে আপনার বিশ্বে কপি করে তা সমৃদ্ধ করুন।',
+    'encyclopedia.templateCopy.targetUniverse': 'কপি করার জন্য বিশ্ব',
+    'encyclopedia.templateCopy.finished': 'প্ৰতিলিপি সম্পূৰ্ণ কৰা হ\'ল'
 };

@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Votre mode de paiement par défaut sera utilisé pour payer le prochain cycle.',
-    'plans.subscribed.status': `État de l'abonnement: {status, select,
+    'plans.subscribed.status': `État de l'abonnement : {status, select,
     active {Actif}
     incomplete {Quelque chose manque}
     incomplete_expired {Quelque chose manque}
     trialing {Essai}
-    past_due {Nous manquons de paiement}
-    canceled {Annulé}
+    past_due {Nous n'avons pas reçu votre paiement}
+    cancelled {Annulé}
     unpaid {Impayé}
     expired {Expiré}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Remplissez votre encyclopédie, ayez au moins 30 entrées ! Mieux si vous visez les 100.',
     'payment.universe.haveFans': 'Il est plus facile d\'obtenir des sponsors si ils sont déjà intéressés par ce que vous faites. 100 fans ajoutant votre univers à leur bibliothèque est la ligne de départ.',
     'payment.settings.yourFanClub': 'Votre club de fans',
-    'payment.settings.newWork': 'Créer un nouveau travail'
+    'payment.settings.newWork': 'Créer un nouveau travail',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nom du niveau',
+    'payment.fanClub.createTier': 'Ajouter un niveau',
+    'payment.fanClub.description': 'Description du niveau',
+    'payment.fanClub.picture': 'Image du niveau',
+    'payment.fanClub.priceBreakdown': 'L\'abonné paiera : {amount}. Les frais de plateforme sont de {fee}, vous recevrez : {net}',
+    'payment.feeNotice': 'Veuillez noter que ceci est une estimation et les frais réels peuvent être différents en fonction du type de paiement du client et des frais supplémentaires du portail de paiement.',
+    'payment.fanClub.perks': 'Avantages'
 };

@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ಚುಕ್ತಿ ಸ್ಥಿತಿ: {status, select,
+    'plans.subscribed.status': `ಚಂದಾ ಸ್ಥಿತಿ: {status, select,
     active {ಸಕ್ರಿಯ}
-    incomplete {ಏನಾದರೂ ಮಿಸ್ಸಿಂಗ್ ಇದೆ}
-    incomplete_expired {ಏನಾದರೂ ಮಿಸ್ಸಿಂಗ್ ಇದೆ}
-    trialing {ಪರೀಕ್ಷಾಯೋಗ}
-    past_due {ನಿಮ್ಮ ಪಾವತಿ ಮಿಸ್ಸಿಂಗ್ ಇದೆ}
-    canceled {ರದ್ದು ಮಾಡಲಾಗಿದೆ}
-    unpaid {ಪಾವತಿ ಇಲ್ಲ}
-    expired {ಮುಕ್ತಾಯ}
+    incomplete {ಏನೋ ಕೆಲವು ಮುಂದುವರಿಕೆಗಳಿವೆ}
+    incomplete_expired {ಏನೋ ಕೆಲವು ಮುಂದುವರಿಕೆಗಳಿವೆ}
+    trialing {ಟ್ರಯಲ್}
+    past_due {ನಿಮ್ಮ ಪಾವತಿ ಕಡಿಮೆಯಾಗಿದೆ}
+    cancelled {ರದ್ದು ಮಾಡಲಾಗಿದೆ}
+    unpaid {ಪಾವತಿ ಪಾಡಿಸಲಾಗದೆ}
+    expired {ಅವಧಿ ಮುಗಿದಿದೆ}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'ನೀವು ಮಾಡುವ ಕೆಲಸಕ್ಕೆ ಮೊದಲು ಆಸಕ್ತರಾಗಿರುವ ಜನರು ನಿಮಗೆ ಸ್ಪಾನ್ಸರ್ ಆಗುವುದು ಸುಲಭ. 100 ರಸಾಯನಗಳನ್ನು ಅವರ ಲೈಬ್ರರಿಗೆ ಸೇರಿಸುವುದು ಪ್ರಾರಂಭ ರೇಖೆ.',
     'payment.settings.yourFanClub': 'ನಿಮ್ಮ ಅನುಯಾಯ ಕೌಟುಂಬಿಕ',
-    'payment.settings.newWork': 'ಹೊಸ ಕೆಲಸ ರಚಿಸಿ'
+    'payment.settings.newWork': 'ಹೊಸ ಕೆಲಸ ರಚಿಸಿ',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'ಟಿಯರ್ ಹೆಸರು',
+    'payment.fanClub.createTier': 'ಟಿಯರ್ ಸೇರಿಸಿ',
+    'payment.fanClub.description': 'ಟಿಯರ್ ವಿವರಣೆ',
+    'payment.fanClub.picture': 'ಟಿಯರ್ ಚಿತ್ರ',
+    'payment.fanClub.priceBreakdown': 'ಅಭಿನಂದನೆಗಳು, ಗ್ರಾಹಕರು ಪಾವತಿ ಮಾಡುವಾಗ: {amount}. ಪ್ಲಾಟ್‌ಫಾರಂ ಶುಲ್ಕ {fee}, ನೀವು ಪಡೆಯುವುದು: {net}',
+    'payment.feeNotice': 'ದಯವಿಟ್ಟು ಗಮನಿಸಿ, ಇದು ಒಂದು ಅಂಕಿತ ಮೂಲಕ ಮಾತ್ರವೇ ಮತ್ತು ವಾಸ್ತವಿಕ ಶುಲ್ಕ ಗ್ರಾಹಕರ ಪಾವತಿ ಪ್ರಕಾರ ಮತ್ತು ಪಾವತಿ ಗೇಟ್‌ನಿಂದ ಹೆಚ್ಚು ಶುಲ್ಕಗಳ ಆಧಾರದ ಮೇಲೆ ಬೇರೆಯಾಗಬಹುದು.',
+    'payment.fanClub.perks': 'ಸೌಲಭ್ಯಗಳು'
 };

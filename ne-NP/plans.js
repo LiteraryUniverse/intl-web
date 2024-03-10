@@ -89,15 +89,15 @@ export default {
     other {बुझाइएको बिल तिर्ने पछि स्वतः}
   }नवीनीकृत हुनेछ ।`,
     'plans.subscribed.paymentMethod': 'तपाईंको पूर्वनिर्धारित भुक्तानी विधि अर्को चक्रका लागि प्रयोग गरिनेछ।',
-    'plans.subscribed.status': `चाडपरिवर्तन स्थिति: {status, select,
+    'plans.subscribed.status': `सदस्यता स्थिति: {status, select,
     active {सक्रिय}
-    incomplete {केही कुरा छैन}
-    incomplete_expired {केही कुरा छैन}
-    trialing {परिक्षण}
-    past_due {तपाईंको भुक्तानी छैन}
-    canceled {रद्द गरिएको}
-    unpaid {अभुक्तानीले}
-    expired {म्याद सकिएको}
+    incomplete {केहि कुरा छुटेको छ}
+    incomplete_expired {केहि कुरा छुटेको छ}
+    trialing {परीक्षण}
+    past_due {हामीले तपाईंको भुक्तानी नगरेको छ}
+    cancelled {रद्द गरियो}
+    unpaid {अबुकेको छ}
+    expired {समाप्त भयो}
     other {}
   }`,
     'payments.changeMethod': 'भुक्तानी विधि परिवर्तन गर्नुहोस्',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'तपाईंको ज्ञानकोष भर्नुहोस्, कम्तीमा ३० प्रविष्टिहरू भएको हुनुपर्छ! १०० मार्जिनमा हमला गर्नु भएको भने राम्रो हुन्छ।',
     'payment.universe.haveFans': 'यदि तपाईंले गर्नुभएको काममा पहिले नै रुचि राख्ने व्यक्तिहरूलाई तपाईंलाई स्पन्सर गर्न सजिलो छ। १०० फनहरूले तपाईंको यूनिभर्सलाई आफ्नो पुस्तकालयमा थप्ने शुरुवाती रेखा हो।',
     'payment.settings.yourFanClub': 'तपाईंको प्रशंसा समूह',
-    'payment.settings.newWork': 'नयाँ कार्य सिर्जना गर्नुहोस्'
+    'payment.settings.newWork': 'नयाँ कार्य सिर्जना गर्नुहोस्',
+    'payment.amount.withNet': `{amount} (नेट: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'नाम टियर',
+    'payment.fanClub.createTier': 'टियर थप्नुहोस्',
+    'payment.fanClub.description': 'टियर विवरण',
+    'payment.fanClub.picture': 'टियर तस्वीर',
+    'payment.fanClub.priceBreakdown': 'ग्राहकले भुक्तान गर्नेछ: {amount}। प्लेटफ़ोर्म शुल्क {fee} छ, तपाईंलाई प्राप्त हुनेछ: {net}',
+    'payment.feeNotice': 'कृपया ध्यान दिनुहोस् कि यो अनुमान हो र ग्राहकको भुक्तानी प्रकार र अतिरिक्त शुल्कहरूबाट व्यापारद्वाराबाट व्यतिरिक्त शुल्क फेरि अलग भइ सक्छ।',
+    'payment.fanClub.perks': 'लाभहरू'
 };

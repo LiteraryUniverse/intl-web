@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Controalele enciclopediei',
     'encyclopedia.pronunciation.title': 'Pronunție',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Lucrări în curs'
+    'encyclopedia.wip.full': 'Lucrări în curs',
+    'encyclopedia.settings.templateLegend': 'Univers template',
+    'encyclopedia.settings.templateDescription': 'Permite ca conținutul acestei enciclopedii să fie copiat în alte universuri. Aceasta este cea mai bună opțiune dacă nu aveți nicio poveste și în schimb creați doar un șablon pentru alții să-l utilizeze.',
+    'encyclopedia.settings.templateCheckbox': 'Acesta este un univers template',
+    'encyclopedia.templateCopy.modalTitle': 'Copiază conținutul enciclopediei',
+    'encyclopedia.templateCopy.description': 'Copiază conținutul acestei enciclopedii în universul tău pentru a-l îmbogăți.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univers în care să se facă copierea',
+    'encyclopedia.templateCopy.finished': 'Copierea s-a încheiat'
 };

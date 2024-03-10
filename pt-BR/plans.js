@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Seu método de pagamento padrão será usado para pagar pelo próximo ciclo.',
-    'plans.subscribed.status': `Status de assinatura: {status, select,
-    active {Ativo}
-    incomplete {Alguma coisa está faltando}
-    incomplete_expired {Alguma coisa está faltando}
+    'plans.subscribed.status': `Status da assinatura: {status, select,
+    active {Ativa}
+    incomplete {Há algo faltando}
+    incomplete_expired {Há algo faltando}
     trialing {Teste}
-    past_due {Estamos perdendo o seu pagamento}
-    canceled {Cancelado}
-    unpaid {Não pago}
-    expired {Expirado}
+    past_due {Estamos aguardando seu pagamento}
+    cancelled {Cancelada}
+    unpaid {Não paga}
+    expired {Expirada}
     other {}
   }`,
     'payments.changeMethod': 'Alterar método de pagamento',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Preencha sua enciclopédia, tenha pelo menos 30 entradas! Melhor se você estiver atingindo a margem de 100.',
     'payment.universe.haveFans': 'É mais fácil conseguir patrocinadores se eles já estiverem interessados no que você está fazendo. 100 fãs adicionando seu universo à biblioteca deles é a linha de partida.',
     'payment.settings.yourFanClub': 'Seu clube de fãs',
-    'payment.settings.newWork': 'Criar um novo trabalho'
+    'payment.settings.newWork': 'Criar um novo trabalho',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Nome do nível',
+    'payment.fanClub.createTier': 'Adicionar nível',
+    'payment.fanClub.description': 'Descrição do nível',
+    'payment.fanClub.picture': 'Imagem do nível',
+    'payment.fanClub.priceBreakdown': 'O assinante pagará: {amount}. A taxa da plataforma é {fee}, você receberá: {net}',
+    'payment.feeNotice': 'Por favor, observe que esta é uma estimativa e a taxa real pode ser diferente com base no tipo de pagamento do cliente e encargos adicionais da plataforma de pagamento.',
+    'payment.fanClub.perks': 'Benefícios'
 };

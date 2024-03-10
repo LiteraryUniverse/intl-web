@@ -94,8 +94,8 @@ export default {
     incomplete {יש משהו חסר}
     incomplete_expired {יש משהו חסר}
     trialing {ניסיון}
-    past_due {חסרים את התשלום שלך}
-    canceled {מבוטל}
+    past_due {אנחנו מפספסים את התשלום שלך}
+    cancelled {בוטל}
     unpaid {לא שולם}
     expired {פג תוקף}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'מלא את האנציקלופדיה שלך, עם לפחות 30 ערכים! טוב יותר אם אתה מתקרב למרקם של 100.',
     'payment.universe.haveFans': 'קל יותר לקבל תומכים אם הם כבר מתעניינים במה שאתה עושה. 100 אוהדים שמוסיפים את היקום שלך לספרייתם הוא קו התחלה.',
     'payment.settings.yourFanClub': 'מועדון האוהדים שלך',
-    'payment.settings.newWork': 'צור יצירה חדשה'
+    'payment.settings.newWork': 'צור יצירה חדשה',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'שם השכבה',
+    'payment.fanClub.createTier': 'הוסף שכבה',
+    'payment.fanClub.description': 'תיאור השכבה',
+    'payment.fanClub.picture': 'תמונת השכבה',
+    'payment.fanClub.priceBreakdown': 'המנוי ישלם: {amount}. דמי הפלטפורמה הם {fee}, תקבל: {net}',
+    'payment.feeNotice': 'יש לשים לב כי זהו הערך המשוער והדמי המדויק עשוי להיות שונה בהתאם לסוג התשלום של הלקוח ולתשלומים נוספים משער התשלום.',
+    'payment.fanClub.perks': 'הטבות'
 };

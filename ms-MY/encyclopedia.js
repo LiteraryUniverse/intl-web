@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Kawalan Ensiklopedia',
     'encyclopedia.pronunciation.title': 'Sebutan',
     'encyclopedia.wip.abbreviation': 'Dalam Pembaikan',
-    'encyclopedia.wip.full': 'Kerja dalam Proses'
+    'encyclopedia.wip.full': 'Kerja dalam Proses',
+    'encyclopedia.settings.templateLegend': 'Sempadan templat',
+    'encyclopedia.settings.templateDescription': 'Benarkan kandungan ensiklopedia ini disalin ke alam semesta lain. Ini adalah yang terbaik jika anda tidak mempunyai sebarang cerita dan sebaliknya hanya membuat templat untuk digunakan oleh orang lain.',
+    'encyclopedia.settings.templateCheckbox': 'Ini adalah sempadan templat',
+    'encyclopedia.templateCopy.modalTitle': 'Salin kandungan ensiklopedia',
+    'encyclopedia.templateCopy.description': 'Salin kandungan ensiklopedia ini ke alam semesta anda untuk memperkayakannya.',
+    'encyclopedia.templateCopy.targetUniverse': 'Alam semesta untuk disalin ke',
+    'encyclopedia.templateCopy.finished': 'Penyalinan selesai'
 };

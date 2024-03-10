@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ವಿಶ್ವಗಳಿಗೆ ಹುಡುಕಿ',
     'discover.search.storyStatus': 'ಕಥೆಯ ಪ್ರಗತಿ ಸ್ಥಿತಿ',
     'story.status.complete': 'ಪೂರ್ಣಗೊಂಡಿದೆ',
-    'story.status.inProgress': 'ಪ್ರಗತಿಯಲ್ಲಿದೆ',
+    'story.status.inProgress': 'ನಡುವೆಯೇ',
     'discover.search.universeConnection': 'ಕಥೆಯನ್ನು ವಿಶ್ವದ ಸಂಪರ್ಕದೊಂದಿಗೆ',
     'story.universeRelation.standalone': 'ಪ್ರತ್ಯೇಕ ಕಥೆ',
     'story.universeRelation.fanFiction': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್',

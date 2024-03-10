@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Merhaba {username},',
     'common.back': 'Geri',
     'console.stop': 'Durdur!',
-    'console.explain': 'Bu, geliştiriciler için tasarlanmış bir tarayıcı özelliğidir. Eğer birisi size, Edebiyat Evreni özelliğini etkinleştirmek veya birinin hesabını "hacklemek" için buraya bir şeyler kopyalamayı söylediyse, bu bir dolandırıcılıktır ve size Edebiyat Evreni hesabına erişim sağlayacaktır.'
+    'console.explain': 'Bu, geliştiriciler için tasarlanmış bir tarayıcı özelliğidir. Eğer birisi size, Edebiyat Evreni özelliğini etkinleştirmek veya birinin hesabını "hacklemek" için buraya bir şeyler kopyalamayı söylediyse, bu bir dolandırıcılıktır ve size Edebiyat Evreni hesabına erişim sağlayacaktır.',
+    'common.coping': 'Kopyalanıyor...'
 }    /* eslint-enable max-len */;

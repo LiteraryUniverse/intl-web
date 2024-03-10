@@ -93,9 +93,9 @@ export default {
     active {Aktiv}
     incomplete {Der mangler noget}
     incomplete_expired {Der mangler noget}
-    trialing {Prøveversion}
+    trialing {Prøveperiode}
     past_due {Vi mangler din betaling}
-    canceled {Annulleret}
+    cancelled {Annulleret}
     unpaid {Ubetalt}
     expired {Udløbet}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fyld din encyklopædi ud, hav mindst 30 indgange! Bedre, hvis du nærmer dig 100-grænsen.',
     'payment.universe.haveFans': 'Det er nemmere at få folk til at sponsorere dig, hvis de allerede er interesserede i det, du laver. 100 fans, der tilføjer dit univers til deres bibliotek, er startlinjen.',
     'payment.settings.yourFanClub': 'Din fan klub',
-    'payment.settings.newWork': 'Opret et nyt værk'
+    'payment.settings.newWork': 'Opret et nyt værk',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Navn på niveau',
+    'payment.fanClub.createTier': 'Tilføj niveau',
+    'payment.fanClub.description': 'Niveau beskrivelse',
+    'payment.fanClub.picture': 'Niveau billede',
+    'payment.fanClub.priceBreakdown': 'Abonnenten vil betale: {amount}. Platformgebyret er {fee}, du vil få: {net}',
+    'payment.feeNotice': 'Bemærk venligst, at dette er et skøn, og det faktiske gebyr kan være anderledes baseret på kundens betalingstype og eventuelle tillægsgebyrer fra betalingsgatewayen.',
+    'payment.fanClub.perks': 'Fordele'
 };

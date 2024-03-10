@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ਜਾਣਕਾਰੀਕ ਨਿਯੰਤਰਣ',
     'encyclopedia.pronunciation.title': 'ਉਚਾਰਨ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'ਕੰਮ ਚਲਦਾ ਰਿਹਾ ਹੈ'
+    'encyclopedia.wip.full': 'ਕੰਮ ਚਲਦਾ ਰਿਹਾ ਹੈ',
+    'encyclopedia.settings.templateLegend': 'ਟੈਂਪਲੇਟ ਯੂਨੀਵਰਸ',
+    'encyclopedia.settings.templateDescription': 'ਇਸ ਇੰਸਾਈਕਲੋਪੀਡੀਆ ਦੀ ਸਮੱਗਰੀ ਨੂੰ ਹੋਰ ਯੂਨੀਵਰਸਾਂ ਵਿੱਚ ਕਾਪੀ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ। ਇਹ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਕਹਾਣੀਆਂ ਨਹੀਂ ਹਨ ਅਤੇ ਤੁਸੀਂ ਬਸ ਹੋਰਾਂ ਲਈ ਇੱਕ ਟੈਂਪਲੇਟ ਬਣਾ ਰਹੇ ਹੋ।',
+    'encyclopedia.settings.templateCheckbox': 'ਇਹ ਇੱਕ ਟੈਂਪਲੇਟ ਯੂਨੀਵਰਸ ਹੈ',
+    'encyclopedia.templateCopy.modalTitle': 'ਇੰਸਾਈਕਲੋਪੀਡੀਆ ਸਮੱਗਰੀ ਕਾਪੀ ਕਰੋ',
+    'encyclopedia.templateCopy.description': 'ਇਸ ਇੰਸਾਈਕਲੋਪੀਡੀਆ ਦੀ ਸਮੱਗਰੀ ਨੂੰ ਆਪਣੇ ਯੂਨੀਵਰਸ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰਨ ਲਈ ਕਾਪੀ ਕਰੋ।',
+    'encyclopedia.templateCopy.targetUniverse': 'ਕਾਪੀ ਕਰਨ ਲਈ ਯੂਨੀਵਰਸ',
+    'encyclopedia.templateCopy.finished': 'ਕਾਪੀ ਮੁਕੰਮਲ ਹੋ ਗਈ ਹੈ'
 };

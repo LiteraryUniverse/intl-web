@@ -93,10 +93,10 @@ export default {
     active {Aktiivne}
     incomplete {Midagi on puudu}
     incomplete_expired {Midagi on puudu}
-    trialing {Prooviperiood}
-    past_due {Me ei ole saanud sinu makset}
-    canceled {Tühistatud}
-    unpaid {Maksmata}
+    trialing {Katsetus}
+    past_due {Meil jääb makse saamata}
+    cancelled {Tühistatud}
+    unpaid {Tasumata}
     expired {Aegunud}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Täitke oma entsüklopeedia, olge vähemalt 30 kirjega! Veel parem, kui ületate 100 märgi piiri.',
     'payment.universe.haveFans': 'Inimeste veenmine sponsorluseks on lihtsam, kui neid juba huvitab see, mida sa teed. 100 fänni, kes lisavad su universumi oma raamatukokku, on stardijooneks.',
     'payment.settings.yourFanClub': 'Sinu fänniklubi',
-    'payment.settings.newWork': 'Loo uus töö'
+    'payment.settings.newWork': 'Loo uus töö',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Taseme nimi',
+    'payment.fanClub.createTier': 'Lisa tase',
+    'payment.fanClub.description': 'Taseme kirjeldus',
+    'payment.fanClub.picture': 'Taseme pilt',
+    'payment.fanClub.priceBreakdown': 'Tellija maksab: {amount}. Platvormitasu on {fee}, sulle jääb kätte: {net}',
+    'payment.feeNotice': 'Palun pane tähele, et see on hinnang ja tegelik tasu võib erineda sõltuvalt kliendi makseviisist ja lisatasudest makseväravalt.',
+    'payment.fanClub.perks': 'Eelised'
 };

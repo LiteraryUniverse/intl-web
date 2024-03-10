@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'আপোনাৰ ডিফল্ট পেমেন্ট পদ্ধতি পৰাৰ পৰা পৰ্বটৰ বাবে ব্যৱহাৰ কৰা হব।',
-    'plans.subscribed.status': `চূঢ়াৰ অবস্থা: {status, select,
-    active {সক্রিয়}
-    incomplete {এটা অনুপস্থিত কিছু আছে}
-    incomplete_expired {এটা অনুপস্থিত কিছু আছে}
-    trialing {পরীক্ষণ}
-    past_due {আমাদেৰ পেমেন্ট অনুপস্থিত}
-    canceled {বাতিল কৰা হৈছে}
-    unpaid {পেমেন্ট অনুপস্থিত}
-    expired {মেয়াদ উত্তীৰ্ণ হৈছে}
+    'plans.subscribed.status': `গ্রাহকত্বৰ অৱস্থা: {status, select,
+    active {সক্ৰিয়}
+    incomplete {কিছু নেই}
+    incomplete_expired {কিছু নেই}
+    trialing {প্ৰয়াস}
+    past_due {আমি আপোনাৰ পেমেন্ট পোৱা নহয়}
+    cancelled {বাতিল কৰা হৈছে}
+    unpaid {অপৰিশোধিত}
+    expired {মেয়াদ উকলি গছে}
     other {}
   }`,
     'payments.changeMethod': 'পেমেন্টৰ পদ্ধতি সলনি কৰক',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'আপোনাৰ জ্ঞানকোষ পূৰ্ণ কৰক, কমেওলৈ ৩০ লগতেও প্ৰবেশ কৰক! যথাসমূহ যদি ১০০ বৰ্গমূলত আক্ৰমণ কৰিবলৈ ভাল হয়।',
     'payment.universe.haveFans': 'যদি লোকজন ইতিমধ্যে তোমার কাজে আগ্রহী থাকে তবে তাদেরকে স্পন্সর করতে পাওয়া সহজ। ১০০ প্রশংসক তোমার বিশ্বকে তাদের লাইব্রেরি যোগ করলেই শুরু হয়।',
     'payment.settings.yourFanClub': 'তোমার প্রশংসক ক্লাব',
-    'payment.settings.newWork': 'নতুন কাজ তৈরি করো'
+    'payment.settings.newWork': 'নতুন কাজ তৈরি করো',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'টিয়াৰ নাম',
+    'payment.fanClub.createTier': 'টিয়াৰ যোগ কৰক',
+    'payment.fanClub.description': 'টিয়াৰৰ বিৱৰণ',
+    'payment.fanClub.picture': 'টিয়াৰৰ ছবি',
+    'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান কৰিব: {amount}। প্লেটফৰ্ম ফি হৈছে {fee}, আপুনি পাব: {net}',
+    'payment.feeNotice': 'অনুগ্ৰহ কৰি লক্ষ্য কৰক যে এইটো এটা আনুমানিক মাত্ৰা হৈছে আৰু গ্ৰাহকৰ পেমেন্ট প্ৰকাৰ আৰু অতিৰিক্ত চাৰ্জৰ উপৰ ভিত্তিত পৰিবৰ্তন কৰিব পাৰে।',
+    'payment.fanClub.perks': 'সুবিধা'
 };

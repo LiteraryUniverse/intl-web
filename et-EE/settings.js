@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Kinnitatud e-post',
     'settings.email.add': 'Lisa e-post',
     'settings.languages.title': 'Keelte seaded',
-    'settings.languages.notice': 'Hetkel on inglise keel ainus ametlikult toetatud keel. Teised keeled on saadaval tänu suurepärastele vabatahtlikele, kuid need võivad olla veel lõpetamata.',
+    'settings.languages.notice': 'Hetkel on inglise ja tšehhi keel ainsad ametlikult toetatud keeled. Teised keeled on saadaval tänu suurepärastele vabatahtlikele ja tehisintellekti tõlkele, kuid võivad siiski olla lõpetamata ja vigadega kohtades.',
     'settings.languages.join': 'Kui soovid meid aidata, saad tõlkida ka Literary Universet.',
     'settings.name.title': 'Tegelik nimi',
     'settings.name.given': 'Eesnimi',

@@ -89,17 +89,17 @@ export default {
     other {}
   }।`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ଚଟାରୀ ପ୍ରଦାନ ଅବସ୍ଥା:  ! {status, select,
-    active {! କ୍ରିୟାଶୀଳ !}
-    incomplete {! କ୍ଷତିପର୍ଯ୍ୟାନ !}
-    incomplete_expired {! କ୍ଷତିପର୍ଯ୍ୟାନ !}
-    trialing {! ପ୍ରୟାସ୍ତ !}
-    past_due {! ଆମେ ଆପଣଙ୍କ ସଁଓଁପ ନିୟମିତ କମକାଲ !}
-    canceled {! ରଦ୍‍ଦ !}
-    unpaid {! ଅସ୍ବଃପରିଚିତ !}
-    expired {! ମାଳିନପୂର୍ଣ !}
-    other {!  !}
-  }!`,
+    'plans.subscribed.status': `ଚୟନ ଅବସ୍ଥା: {status, select,
+    active {କ୍ରିୟାଶୀଳ}
+    incomplete {କିଛି ଅପରୁଣିତ}
+    incomplete_expired {କିଛି ଅପରୁଣିତ}
+    trialing {ପ୍ରଯୋଗକାଳିନ}
+    past_due {ଆପଣଙ୍କ ପୈମେଣ୍ଟ ଅପରାପ୍ତ}
+    cancelled {ରଦ୍ଦ}
+    unpaid {ଅପୈମେଣ୍ଟ ନାହିଁନ୍ତି}
+    expired {ମାଗଣା ହୋଇଛି}
+    other {}
+  }`,
     'payments.changeMethod': 'Change payment method',
     'plans.subscribed.willNotRenew': ', will not renew at the end of the cycle.',
     'plans.cancel.button': 'Cancel subscription',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'ଯଦି ମାନଙ୍କୁ ଆପଣଙ୍କର କାର୍ଯ୍ୟରେ ଆଗରେଇ ଆକର୍ଷିତ ହେବାକୁ କଠିନ ନୁହେଁ। 100 ପ୍ରଶଂସକରେ ଆପଣଙ୍କର ବିଶ୍ବରେ ଆପଣଙ୍କର ପୁସ୍ତକାଳୟରେ ଯୋଡ଼ିବାକୁ ଆରମ୍ଭିକ ରେସ୍ତା ଅଟେ।',
     'payment.settings.yourFanClub': 'ଆପଣଙ୍କର ପ୍ରଶଂସ କ୍ଲବ',
-    'payment.settings.newWork': 'ନୂତନ କାର୍ଯ୍ୟ ସୃଷ୍ଟି କରନ୍ତୁ'
+    'payment.settings.newWork': 'ନୂତନ କାର୍ଯ୍ୟ ସୃଷ୍ଟି କରନ୍ତୁ',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'ଟିୟର ନାମ',
+    'payment.fanClub.createTier': 'ଟିୟର ଯୋଡ଼ନ୍ତୁ',
+    'payment.fanClub.description': 'ଟିୟର ବର୍ଣନା',
+    'payment.fanClub.picture': 'ଟିୟର ଛବି',
+    'payment.fanClub.priceBreakdown': 'ଗ୍ରାହକ ପାଇଁ ଦେଇବାକୁ ହେବ: {amount}। ପ୍ଲାଟଫରମ ଫି ହେବ {fee}, ଆପଣ ପାଇବେ: {net}',
+    'payment.feeNotice': 'ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ ଏହା ଏକ ଆକଳନ ମାତ୍ରା ଅଟେ ଏବଂ ଗ୍ରାହକଙ୍କ ସଂଦାୟର ପ୍ରକାର ଏବଂ ପେ ଗେଟ୍ ଥରୁ ଅତିରିକ୍ତ ଶୁଲ୍କରେ ଭିନ୍ନ ହେବାକୁ ହୋଇପାରେ।',
+    'payment.fanClub.perks': 'ପ୍ରତିଷ୍ଠାନଗୁଡ଼ିକ'
 };

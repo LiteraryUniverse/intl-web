@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} งานศิลปะของแฟน',
     'universe.fanFiction.hidden': 'ซ่อน',
     'universe.fanFiction.hide': 'ซ่อนนิยายของแฟน',
-    'universe.fanFiction.unhide': 'แสดงนิยายของแฟน'
+    'universe.fanFiction.unhide': 'แสดงนิยายของแฟน',
+    'universe.fanFiction.create': 'สร้างนิยายแฟนตาซีใหม่',
+    'universe.fanFiction.notAllowed': 'จักรวาลนี้ไม่อนุญาตให้แสดงนิยายแฟนตาซี'
 };

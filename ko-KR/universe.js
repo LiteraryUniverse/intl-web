@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} 팬 아트',
     'universe.fanFiction.hidden': '숨김',
     'universe.fanFiction.hide': '팬픽 숨기기',
-    'universe.fanFiction.unhide': '팬픽 숨김 해제'
+    'universe.fanFiction.unhide': '팬픽 숨김 해제',
+    'universe.fanFiction.create': '새로운 팬픽션 생성하기',
+    'universe.fanFiction.notAllowed': '이 우주는 팬 픽션을 표시할 수 없습니다.'
 };

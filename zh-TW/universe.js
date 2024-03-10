@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} 粉丝艺术',
     'universe.fanFiction.hidden': '已隱藏',
     'universe.fanFiction.hide': '隐藏同人小说',
-    'universe.fanFiction.unhide': '取消隐藏同人小说'
+    'universe.fanFiction.unhide': '取消隐藏同人小说',
+    'universe.fanFiction.create': '創建新的粉絲小說',
+    'universe.fanFiction.notAllowed': '這個宇宙不允許展示同人小說。'
 };

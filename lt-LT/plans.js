@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Jūsų numatytas mokėjimo metodas bus naudojamas apmokėti kitą ciklą.',
-    'plans.subscribed.status': `Prenumeracija: {status, select,
+    'plans.subscribed.status': `Prenumeracijos būsena: {status, select,
     active {Aktyvi}
     incomplete {Kažkas trūksta}
     incomplete_expired {Kažkas trūksta}
-    trialing {Bandomoji}
-    past_due {Missing your payment}
-    canceled {Atšaukta}
-    unpaid {Nepriimtas}
-    expired {Baigėsi!}
+    trialing {Išbandymas}
+    past_due {Trūksta jūsų mokėjimo}
+    cancelled {Atšaukta}
+    unpaid {Neapmokėta}
+    expired {Pasibaigusi}
     other {}
   }`,
     'payments.changeMethod': 'Keisti mokėjimo metodą',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Užpildykite savo enciklopediją, turėkite bent 30 įrašų! Geriau, jei siekiate 100 ribos.',
     'payment.universe.haveFans': 'Lengviau gauti rėmėjus, jei jie jau domisi tuo, ką darote. 100 gerbėjų, pridedančių jūsų visatą į savo biblioteką, yra starto linija.',
     'payment.settings.yourFanClub': 'Jūsų gerbėjų klubas',
-    'payment.settings.newWork': 'Sukurti naują kūrinį'
+    'payment.settings.newWork': 'Sukurti naują kūrinį',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Lygio pavadinimas',
+    'payment.fanClub.createTier': 'Pridėti lygį',
+    'payment.fanClub.description': 'Lygio aprašymas',
+    'payment.fanClub.picture': 'Lygio nuotrauka',
+    'payment.fanClub.priceBreakdown': 'Abonentas sumokės: {amount}. Platformos mokestis yra {fee}, jūs gausite: {net}',
+    'payment.feeNotice': 'Prašome atkreipti dėmesį, kad tai yra tik apskaičiavimas ir tikras mokestis gali skirtis priklausomai nuo kliento mokėjimo tipo ir papildomų mokesčių iš mokėjimo vartų.',
+    'payment.fanClub.perks': 'Privalumai'
 };

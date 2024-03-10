@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'आपका डिफ़ॉल्ट भुगतान विधि अगले साइकल के लिए उपयोग किया जाएगा।',
-    'plans.subscribed.status': `सब्सक्रिप्शन की स्थिति: {status, select,
+    'plans.subscribed.status': `सदस्यता स्थिति: {status, select,
     active {सक्रिय}
-    incomplete {कुछ छूट रह गया है}
-    incomplete_expired {कुछ छूट रह गया है}
+    incomplete {कुछ चीज़ गुम है}
+    incomplete_expired {कुछ चीज़ गुम है}
     trialing {परीक्षण}
-    past_due {हमें आपके भुगतान की कुछ कमी है}
-    canceled {रद्द}
+    past_due {हमें आपका भुगतान गुम है}
+    cancelled {रद्द किया गया}
     unpaid {अवैतनिक}
     expired {समाप्त}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'अपना विज्ञान कोश भरें, कम से कम 30 प्रविष्टियाँ हों! यदि आप 100 सीमा पर हमला कर रहे हैं तो बेहतर है।',
     'payment.universe.haveFans': 'यदि वे पहले से ही उन्हें जो आप कर रहे हैं में रुचि रखते हैं, तो लोगों को आपका प्रायोजक बनाना आसान हो जाता है। 100 प्रशंसक जो आपकी यूनिवर्स को अपनी पुस्तकालय में जोड़ रहे हैं, यह स्टार्टिंग लाइन है।',
     'payment.settings.yourFanClub': 'आपका फैन क्लब',
-    'payment.settings.newWork': 'नया काम बनाएं'
+    'payment.settings.newWork': 'नया काम बनाएं',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'टियर का नाम',
+    'payment.fanClub.createTier': 'टियर जोड़ें',
+    'payment.fanClub.description': 'टियर विवरण',
+    'payment.fanClub.picture': 'टियर चित्र',
+    'payment.fanClub.priceBreakdown': 'सदस्य {amount} भुगतान करेगा। प्लेटफ़ॉर्म शुल्क {fee} है, आपको मिलेगा: {net}',
+    'payment.feeNotice': 'कृपया ध्यान दें कि यह एक अनुमान है और वास्तविक शुल्क ग्राहक के भुगतान प्रकार और पेगेट से अतिरिक्त शुल्क के आधार पर अलग हो सकता है।',
+    'payment.fanClub.perks': 'लाभ'
 };

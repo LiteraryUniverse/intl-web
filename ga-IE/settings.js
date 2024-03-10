@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Ríomhphost dheimhnithe',
     'settings.email.add': 'Cuir ríomhphost leis',
     'settings.languages.title': 'Socruithe teanga',
-    'settings.languages.notice': 'Béarla atá mar an t-aon teanga atá tacaíocht oifigiúil tugtha di faoi láthair. Tá teangacha eile ar fáil le buíon iontach de dheonaithe, ach d\'fhéadfadh go mbeadh siad neamhiomlán fós.',
+    'settings.languages.notice': 'Is iad an Béarla agus an tSeicis an dá theanga atá tacaíocht oifigiúil acu faoi láthair. Tá teangacha eile ar fáil le buíon iontach de dheonach agus le haistriúchán AI, ach d\'fhéadfadh go mbeadh siad neamhiomlán agus mícheart fós in áiteanna.',
     'settings.languages.join': 'Má ba mhaith leat cabhrú linn, is féidir leat Literary Universe a aistriú freisin.',
     'settings.name.title': 'Ainm fíor',
     'settings.name.given': 'Ainm tugtha',

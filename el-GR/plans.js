@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Η προεπιλεγμένη μέθοδος πληρωμής σας θα χρησιμοποιηθεί για την επόμενη περίοδο χρέωσης.',
-    'plans.subscribed.status': `Κατάσταση συνδρομής: {status, select,
-    active {Ενεργή}
-    incomplete {Λείπει κάτι}
-    incomplete_expired {Λείπει κάτι}
-    trialing {Δοκιμή}
-    past_due {Λείπει η πληρωμή σας}
-    canceled {Ακυρώθηκε}
-    unpaid {Απλήρωτη}
-    expired {Έληξε}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
     'payments.changeMethod': 'Αλλαγή μεθόδου πληρωμής',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Συμπληρώστε την εγκυκλοπαίδειά σας, έχετε τουλάχιστον 30 καταχωρήσεις! Καλύτερα αν πλησιάζετε τα 100.',
     'payment.universe.haveFans': 'Είναι πιο εύκολο να πείσετε ανθρώπους να σας χορηγήσουν αν ενδιαφέρονται ήδη για αυτό που κάνετε. 100 θαυμαστές προσθέτοντας το σύμπαν σας στη βιβλιοθήκη τους είναι η αφετηρία.',
     'payment.settings.yourFanClub': 'Ο οπαδικός σας σύλλογος',
-    'payment.settings.newWork': 'Δημιουργία νέου έργου'
+    'payment.settings.newWork': 'Δημιουργία νέου έργου',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Όνομα επιπέδου',
+    'payment.fanClub.createTier': 'Προσθήκη επιπέδου',
+    'payment.fanClub.description': 'Περιγραφή επιπέδου',
+    'payment.fanClub.picture': 'Εικόνα επιπέδου',
+    'payment.fanClub.priceBreakdown': 'Ο συνδρομητής θα πληρώσει: {amount}. Το τέλος πλατφόρμας είναι {fee}, θα λάβετε: {net}',
+    'payment.feeNotice': 'Παρακαλούμε σημειώστε ότι αυτό είναι μια εκτίμηση και το πραγματικό τέλος μπορεί να διαφέρει ανάλογα με τον τύπο πληρωμής του πελάτη και τυχόν επιπλέον χρεώσεις από την πύλη πληρωμής.',
+    'payment.fanClub.perks': 'Προνόμια'
 };

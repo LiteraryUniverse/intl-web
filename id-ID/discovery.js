@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Cari alam semesta-alam semesta',
     'discover.search.storyStatus': 'Status kemajuan cerita',
     'story.status.complete': 'Selesai',
-    'story.status.inProgress': 'Sedang berlangsung',
+    'story.status.inProgress': 'Sedang Berlangsung',
     'discover.search.universeConnection': 'Hubungan cerita dengan alam semesta',
     'story.universeRelation.standalone': 'Cerita mandiri',
     'story.universeRelation.fanFiction': 'Fan Fiction',

@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Phương thức thanh toán mặc định của bạn sẽ được sử dụng để thanh toán cho chu kỳ tiếp theo.',
-    'plans.subscribed.status': `Tình trạng đăng ký: {status, select,
-    active {Hoạt động}
-    incomplete {Có điều gì đó bị thiếu}
-    incomplete_expired {Có điều gì đó bị thiếu}
-    trialing {Thử nghiệm}
-    past_due {Thiếu thanh toán của bạn}
-    canceled {Đã hủy}
+    'plans.subscribed.status': `Trạng thái đăng ký: {status, select,
+    active {Đang hoạt động}
+    incomplete {Có một số thông tin bị thiếu}
+    incomplete_expired {Có một số thông tin bị thiếu}
+    trialing {Dùng thử}
+    past_due {Chúng tôi đang thiếu thanh toán của bạn}
+    cancelled {Đã hủy}
     unpaid {Chưa thanh toán}
-    expired {Hết hạn}
+    expired {Đã hết hạn}
     other {}
   }`,
     'payments.changeMethod': 'Thay đổi phương thức thanh toán',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'Dễ dàng hơn để có được những người tài trợ nếu họ đã quan tâm đến những gì bạn đang làm. 100 fan thêm vũ trụ của bạn vào thư viện của họ là điểm khởi đầu.',
     'payment.settings.yourFanClub': 'Câu lạc bộ fan của bạn',
-    'payment.settings.newWork': 'Tạo một công việc mới'
+    'payment.settings.newWork': 'Tạo một công việc mới',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Tên hạng',
+    'payment.fanClub.createTier': 'Thêm hạng',
+    'payment.fanClub.description': 'Mô tả hạng',
+    'payment.fanClub.picture': 'Ảnh hạng',
+    'payment.fanClub.priceBreakdown': 'Người đăng ký sẽ thanh toán: {amount}. Phí nền tảng là {fee}, bạn sẽ nhận được: {net}',
+    'payment.feeNotice': 'Xin lưu ý rằng đây là một ước tính và phí thực tế có thể khác nhau dựa trên loại thanh toán của khách hàng và các khoản phụ phí từ cổng thanh toán.',
+    'payment.fanClub.perks': 'Phúc lợi'
 };

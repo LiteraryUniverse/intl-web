@@ -94,10 +94,10 @@ export default {
     incomplete {Щось відсутнє}
     incomplete_expired {Щось відсутнє}
     trialing {Пробний}
-    past_due {Нам не вистачає вашого платежу}
-    canceled {Скасовано}
-    unpaid {Неоплачено}
-    expired {Закінчився термін дії}
+    past_due {Відсутня оплата}
+    cancelled {Скасована}
+    unpaid {Неоплачена}
+    expired {Закінчилась}
     other {}
   }`,
     'payments.changeMethod': 'Змінити метод оплати',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Заповніть вашу енциклопедію, маючи принаймні 30 записів! Краще, якщо ви наближаєтесь до 100.',
     'payment.universe.haveFans': 'Легше знайти спонсорів, якщо вони вже зацікавлені в тому, що ви робите. 100 фанатів, які додають вашу всесвіт до своєї бібліотеки - це стартова лінія.',
     'payment.settings.yourFanClub': 'Ваш фан-клуб',
-    'payment.settings.newWork': 'Створити нову роботу'
+    'payment.settings.newWork': 'Створити нову роботу',
+    'payment.amount.withNet': `{amount} (мережа: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Назва рівня',
+    'payment.fanClub.createTier': 'Додати рівень',
+    'payment.fanClub.description': 'Опис рівня',
+    'payment.fanClub.picture': 'Зображення рівня',
+    'payment.fanClub.priceBreakdown': 'Абонент сплатить: {amount}. Плата платформи становить {fee}, ви отримаєте: {net}',
+    'payment.feeNotice': 'Зверніть увагу, що це лише оцінка, і фактична комісія може відрізнятися в залежності від типу оплати клієнта та додаткових зборів від платіжної системи.',
+    'payment.fanClub.perks': 'Переваги'
 };

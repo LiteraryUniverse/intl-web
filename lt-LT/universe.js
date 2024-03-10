@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fanatų menas',
     'universe.fanFiction.hidden': 'Paslėpta',
     'universe.fanFiction.hide': 'Slėpti fanfikciją',
-    'universe.fanFiction.unhide': 'Rodyti fanfikciją'
+    'universe.fanFiction.unhide': 'Rodyti fanfikciją',
+    'universe.fanFiction.create': 'Kurti naują fanų kūrinį',
+    'universe.fanFiction.notAllowed': 'Šis Visata neleidžia rodyti fanų kūrybos.'
 };

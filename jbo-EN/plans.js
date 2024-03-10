@@ -89,15 +89,15 @@ export default {
     other {}
   }. gy.`,
     'plans.subscribed.paymentMethod': 'lo se lidne se jibri be do cu zukte lo nu jdima lo se jibri be lo lidne jbini',
-    'plans.subscribed.status': `sorcu zo'e: {status, select,
-    active {farvi}
-    incomplete {da drauganti}
-    incomplete_expired {da drauganti}
-    trialing {cliraeresa'a}
-    past_due {da drauganti}
-    canceled {farvi}
-    unpaid {farvi}
-    expired {farvi}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Aktiva}
+    incomplete {Di'u se kancu}
+    incomplete_expired {Di'u se kancu}
+    trialing {Tcidu}
+    past_due {Mi djica lo jdima be do}
+    cancelled {Kancu}
+    unpaid {Friti se jerna}
+    expired {Cedra}
     other {}
   }`,
     'payments.changeMethod': 'binxo lo nu zukte lo nu jdima lo se jibri be lo lidne',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Tolcanci lo se jikca be lo do crepu, .i do nitcu lo nu cilre lo nu se jikca lo do barna gi\'o lo nu do nitcu lo nu se jikca',
     'payment.universe.haveFans': 'Le nu prenu cu se sinmau lo nu do sidju lo nu do cilre cu se xamgu. lo fanmoi cu se cmavo lo nu do zbasu lo do kantu.',
     'payment.settings.yourFanClub': 'lo fanri\'u be do',
-    'payment.settings.newWork': 'lo nu zbasu lo nu djuno'
+    'payment.settings.newWork': 'lo nu zbasu lo nu djuno',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'joi noi',
+    'payment.fanClub.createTier': 'Jmina tierni',
+    'payment.fanClub.description': 'Mildi tierni',
+    'payment.fanClub.picture': 'Cfipu tierni',
+    'payment.fanClub.priceBreakdown': '.i lo pelxu cu jdima {amount}. lo jdima be lo ciste cu {fee}, do pu\'o se jerna lo jdima be {net}',
+    'payment.feeNotice': '.i ko catlu lo nu ti cu zmadu .i ku\'i lo jdima cu se zmadu lo jdima be lo ciste be lo prenu be lo nunli\'i lo jdima be lo vamji',
+    'payment.fanClub.perks': 'Perks'
 };

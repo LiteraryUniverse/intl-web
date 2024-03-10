@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Controls de l\'enciclopèdia',
     'encyclopedia.pronunciation.title': 'Pronunciació',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Obra en curs'
+    'encyclopedia.wip.full': 'Obra en curs',
+    'encyclopedia.settings.templateLegend': 'Univers template',
+    'encyclopedia.settings.templateDescription': 'Permet que el contingut d\'aquesta enciclopèdia es pugui copiar a altres universos. Això és el millor si no tens cap història i en canvi estàs creant una plantilla perquè altres la facin servir.',
+    'encyclopedia.settings.templateCheckbox': 'Aquest és un univers template',
+    'encyclopedia.templateCopy.modalTitle': 'Copia el contingut de l\'enciclopèdia',
+    'encyclopedia.templateCopy.description': 'Copia el contingut d\'aquesta enciclopèdia al teu univers per enriquir-lo.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univers on copiar',
+    'encyclopedia.templateCopy.finished': 'Còpia finalitzada'
 };

@@ -89,14 +89,14 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'आपली पूर्वनिर्धारित पेमेंट पद्धत पुढील सायकलसाठी वापरली जाईल.',
-    'plans.subscribed.status': `अंशदानाची स्थिती: {status, select,
+    'plans.subscribed.status': `सदस्यता स्थिती: {status, select,
     active {सक्रिय}
-    incomplete {काही गोष्ट बरेच आहेत}
-    incomplete_expired {काही गोष्ट बरेच आहेत}
-    trialing {परीक्षा}
-    past_due {आम्हास तुमचे देय व्यवहार चुकले आहे}
-    canceled {रद्द}
-    unpaid {बक्षिस ग्राह्य नाही}
+    incomplete {काहीतरी अच्छा नाही}
+    incomplete_expired {काहीतरी अच्छा नाही}
+    trialing {प्रयोगस्वरूप}
+    past_due {आपला पेमेंट अच्छा नाही}
+    cancelled {रद्द}
+    unpaid {बक्षिस नाही}
     expired {समाप्त}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'आपल्या विज्ञानकोशाला भरा, किमान ३० प्रविष्ट्यांची आवश्यकता आहे! १०० मर्जाने आपल्याला आक्रमण करण्याची निश्चितता असेल तर चांगलं.',
     'payment.universe.haveFans': 'तुमच्या कार्यावर आधारित असलेल्या लोकांना जर आधिकारिकपणे प्रायोजक करण्याची सुविधा आहे तर तुम्हाला प्रायोजन करणाऱ्या 100 चाहत्यांची तुमच्या लायब्ररीमध्ये उमेदवारी सुरुवातीचा पाठवण्याचा संकेत आहे.',
     'payment.settings.yourFanClub': 'तुमच्या फॅन क्लब',
-    'payment.settings.newWork': 'नवीन कार्य तयार करा'
+    'payment.settings.newWork': 'नवीन कार्य तयार करा',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'तहानाचं नाव',
+    'payment.fanClub.createTier': 'टियर जोडा',
+    'payment.fanClub.description': 'टियरचे वर्णन',
+    'payment.fanClub.picture': 'टियरचा चित्र',
+    'payment.fanClub.priceBreakdown': 'सदस्य देणारे: {amount}. प्लॅटफॉर्म फी: {fee}, तुम्हाला मिळणारे: {net}',
+    'payment.feeNotice': 'कृपया लक्षात घ्या की ही एक अंदाज आहे आणि वास्तविक फी ग्राहकाच्या पेमेंट प्रकारानुसार आणि पेगेटवरील अतिरिक्त शुल्कांच्या आधारे बदलू शकते.',
+    'payment.fanClub.perks': 'फायदे'
 };

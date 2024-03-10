@@ -95,9 +95,9 @@ export default {
     incomplete_expired {Ada sesuatu yang hilang}
     trialing {Percobaan}
     past_due {Kami kehilangan pembayaran Anda}
-    canceled {Dibatalkan}
+    cancelled {Dibatalkan}
     unpaid {Belum dibayar}
-    expired {Sudah kedaluwarsa}
+    expired {Kadaluarsa}
     other {}
   }`,
     'payments.changeMethod': 'Ubah metode pembayaran',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Isi ensiklopedia Anda, miliki setidaknya 30 entri! Lebih baik jika Anda mencapai 100 entri.',
     'payment.universe.haveFans': 'Lebih mudah mendapatkan sponsor jika mereka sudah tertarik dengan apa yang Anda lakukan. 100 penggemar yang menambahkan universe Anda ke perpustakaan mereka adalah garis awal.',
     'payment.settings.yourFanClub': 'Klub penggemar Anda',
-    'payment.settings.newWork': 'Buat karya baru'
+    'payment.settings.newWork': 'Buat karya baru',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nama tier',
+    'payment.fanClub.createTier': 'Tambahkan tier',
+    'payment.fanClub.description': 'Deskripsi tier',
+    'payment.fanClub.picture': 'Gambar tier',
+    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Biaya platform adalah {fee}, Anda akan mendapatkan: {net}',
+    'payment.feeNotice': 'Harap dicatat bahwa ini hanya perkiraan dan biaya sebenarnya mungkin berbeda berdasarkan jenis pembayaran pelanggan dan biaya tambahan dari gerbang pembayaran.',
+    'payment.fanClub.perks': 'Keuntungan'
 };

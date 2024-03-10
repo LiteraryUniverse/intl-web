@@ -89,16 +89,16 @@ export default {
     other {}
   }更新されます。`,
     'plans.subscribed.paymentMethod': '次回の支払いの際も、お客様の現在の支払い方法が適用されます。',
-    'plans.subscribed.status': `購読状況：!< {status, select,
-    active {アクティブ <}
-    incomplete {何かが抜けています<}
-    incomplete_expired {何かが抜けています<}
-    trialing {トライアル<}
-    past_due {お支払いが不足しています<}
-    canceled {キャンセル済<}
-    unpaid {未払い<}
-    expired {期限切れ<}
-    other {<}
+    'plans.subscribed.status': `サブスクリプションの状態: {status, select,
+    active {アクティブ}
+    incomplete {何かが足りません}
+    incomplete_expired {何かが足りません}
+    trialing {トライアル}
+    past_due {お支払いがありません}
+    cancelled {キャンセルされました}
+    unpaid {未払い}
+    expired {期限切れ}
+    other {}
   }`,
     'payments.changeMethod': '支払い方法の変更',
     'plans.subscribed.willNotRenew': 'は、サイクル終了まで更新されません。',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': '自分の百科事典を埋める。少なくとも30のエントリーを持ってください！100のマージンを攻撃する方が良いです。',
     'payment.universe.haveFans': 'すでにあなたのやっていることに興味を持っている人々にスポンサーを募るのは簡単です。100人のファンがあなたの宇宙を彼らのライブラリに追加することがスタートラインです。',
     'payment.settings.yourFanClub': 'あなたのファンクラブ',
-    'payment.settings.newWork': '新しい作品を作成する'
+    'payment.settings.newWork': '新しい作品を作成する',
+    'payment.amount.withNet': `{amount} （ネット： {netAmount}）`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'ティア名',
+    'payment.fanClub.createTier': 'レベルを追加する',
+    'payment.fanClub.description': 'レベルの説明',
+    'payment.fanClub.picture': 'レベルの画像',
+    'payment.fanClub.priceBreakdown': '購読者は{amount}を支払います。プラットフォーム手数料は{fee}で、あなたは{net}を受け取ります。',
+    'payment.feeNotice': 'なお、これは見積もりであり、実際の手数料は、お客様の支払い方法やペイゲートからの追加料金によって異なる場合がありますので、ご了承ください。',
+    'payment.fanClub.perks': '特典'
 };

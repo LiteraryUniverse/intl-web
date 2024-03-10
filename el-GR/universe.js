@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} έργα φαν',
     'universe.fanFiction.hidden': 'Κρυφό',
     'universe.fanFiction.hide': 'Απόκρυψη φανταστικής αφήγησης',
-    'universe.fanFiction.unhide': 'Εμφάνιση φανταστικής αφήγησης'
+    'universe.fanFiction.unhide': 'Εμφάνιση φανταστικής αφήγησης',
+    'universe.fanFiction.create': 'Δημιουργία νέας φανταστικής ιστορίας',
+    'universe.fanFiction.notAllowed': 'Αυτό το Σύμπαν δεν επιτρέπει την εμφάνιση φανταστικής λογοτεχνίας.'
 };

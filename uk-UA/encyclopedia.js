@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Енциклопедія контролів',
     'encyclopedia.pronunciation.title': 'Вимова',
     'encyclopedia.wip.abbreviation': 'ВРВ',
-    'encyclopedia.wip.full': 'Робота у процесі'
+    'encyclopedia.wip.full': 'Робота у процесі',
+    'encyclopedia.settings.templateLegend': 'Всесвіт шаблону',
+    'encyclopedia.settings.templateDescription': 'Дозволити копіювання вмісту цієї енциклопедії в інші всесвіти. Це найкраще, якщо у вас немає жодних історій і ви просто створюєте шаблон для використання іншими.',
+    'encyclopedia.settings.templateCheckbox': 'Це всесвіт-шаблон',
+    'encyclopedia.templateCopy.modalTitle': 'Скопіювати вміст енциклопедії',
+    'encyclopedia.templateCopy.description': 'Скопіюйте вміст цієї енциклопедії до вашого всесвіту, щоб збагатити його.',
+    'encyclopedia.templateCopy.targetUniverse': 'Всесвіт для копіювання',
+    'encyclopedia.templateCopy.finished': 'Копіювання завершено'
 };

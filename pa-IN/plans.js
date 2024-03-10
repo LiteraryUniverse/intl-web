@@ -90,14 +90,14 @@ export default {
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
     'plans.subscribed.status': `ਗਾਹਕੀ ਦੀ ਸਥਿਤੀ: {status, select,
-    active {ਚਲਦੀ ਹੈ}
-    incomplete {ਕੁਝ ਮਾਰਪੀਟ ਹੈ}
-    incomplete_expired {ਕੁਝ ਮਾਰਪੀਟ ਹੈ}
-    trialing {ਟਰਾਇਲ}
-    past_due {ਸਾਡੇ ਕੋਲ ਤੁਹਾਡੀ ਪੈਮੈਂਟ ਦੀ ਕੁਝ ਖਾਸ਼ੀ ਨਹੀਂ ਹੈ}
-    canceled {ਰੱਦ ਹੋ ਗਈ ਹੈ}
-    unpaid {ਅਪੂਣੀ ਹੈ}
-    expired {ਖਤਮ ਹੋ ਗਈ ਹੈ}
+    active {ਚਾਲੂ ਹੈ}
+    incomplete {ਕੁਝ ਗੱਲ ਹੈ}
+    incomplete_expired {ਕੁਝ ਗੱਲ ਹੈ}
+    trialing {ਟਰਾਈਲ}
+    past_due {ਸਾਡੀ ਪੈਮੇਂਟ ਗੱਲਬਾਤ ਹੈ}
+    cancelled {ਰੱਦ ਕੀਤਾ ਗਿਆ ਹੈ}
+    unpaid {ਅਨਪੈਡ}
+    expired {ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'ਜੇ ਲੋਕ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਤੁਹਾਡੇ ਕੰਮ ਵਿੱਚ ਰੁਚੀ ਰੱਖਦੇ ਹਨ ਤਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਸਪੋਨਸਰ ਕਰਵਾਉਣਾ ਆਸਾਨ ਹੁੰਦਾ ਹੈ। 100 ਫੈਨ ਜੋ ਤੁਹਾਡੇ ਯੂਨੀਵਰਸ ਨੂੰ ਆਪਣੀ ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਜੋੜਦੇ ਹਨ, ਉਹ ਸ਼ੁਰੂਆਤੀ ਰੇਖਾ ਹੈ।',
     'payment.settings.yourFanClub': 'ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ',
-    'payment.settings.newWork': 'ਨਵੀਂ ਕੰਮ ਬਣਾਓ'
+    'payment.settings.newWork': 'ਨਵੀਂ ਕੰਮ ਬਣਾਓ',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'ਟੀਅਰ ਨਾਮ',
+    'payment.fanClub.createTier': 'ਟੀਅਰ ਸ਼ਾਮਲ ਕਰੋ',
+    'payment.fanClub.description': 'ਟੀਅਰ ਦਾ ਵੇਰਵਾ',
+    'payment.fanClub.picture': 'ਟੀਅਰ ਦੀ ਤਸਵੀਰ',
+    'payment.fanClub.priceBreakdown': 'ਗਾਹਕ ਦੇਵੇਗਾ: {amount}। ਪਲੇਟਫਾਰਮ ਫੀ ਹੈ {fee} ਤੁਸੀਂ ਪ੍ਰਾਪਤ ਕਰੋਗੇ: {net}',
+    'payment.feeNotice': 'ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਇਹ ਇੱਕ ਅੰਦਾਜ਼ਾ ਹੈ ਅਤੇ ਵਾਸਤਵਿਕ ਫੀ ਗਾਹਕ ਦੇ ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਅਤੇ ਪੇ ਗੇਟ ਤੋਂ ਵਾਧੂ ਚਾਰਜ਼ਾਂ ਦੇ ਆਧਾਰ ਤੇ ਵੱਖਰੀ ਹੋ ਸਕਦੀ ਹੈ।',
+    'payment.fanClub.perks': 'ਫਾਯਦੇ'
 };

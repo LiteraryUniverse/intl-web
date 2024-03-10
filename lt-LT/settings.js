@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Patvirtintas el. paštas',
     'settings.email.add': 'Pridėti el. paštą',
     'settings.languages.title': 'Kalbos nustatymai',
-    'settings.languages.notice': 'Šiuo metu oficialiai palaikoma tik anglų kalba. Kitos kalbos yra prieinamos dėka nuostabių savanorių, tačiau jos gali būti nepilnos.',
+    'settings.languages.notice': 'Anglų ir čekų kalbos šiuo metu yra vienintelės oficialiai palaikomos kalbos. Kitos kalbos yra prieinamos dėka nuostabių savanorių ir dirbtinio intelekto vertimo, tačiau jos gali būti nepilnos ir neteisingos kai kuriose vietose.',
     'settings.languages.join': 'Jei norite padėti mums, galite išversti ir Literary Universe.',
     'settings.name.title': 'Tikroji vardas',
     'settings.name.given': 'Vardas',

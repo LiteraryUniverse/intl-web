@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'البريد الإلكتروني المُتحقق',
     'settings.email.add': 'إضافة البريد الإلكتروني',
     'settings.languages.title': 'إعدادات اللغة',
-    'settings.languages.notice': 'الإنجليزية هي اللغة المدعومة رسميًا حاليًا. اللغات الأخرى متاحة بفضل متطوعين رائعين، ولكن قد تكون غير مكتملة بعد.',
+    'settings.languages.notice': 'الإنجليزية والتشيكية هما اللغتان المعتمدتان حاليًا رسميًا. اللغات الأخرى متاحة بفضل المتطوعين المذهلين والترجمة الذكية، ولكن قد تكون غير كاملة وغير صحيحة في بعض الأماكن.',
     'settings.languages.join': 'إذا كنت ترغب في مساعدتنا، يمكنك أيضًا ترجمة Literary Universe.',
     'settings.name.title': 'الاسم الحقيقي',
     'settings.name.given': 'الاسم الأول',

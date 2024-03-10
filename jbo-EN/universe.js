@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fan art',
     'universe.fanFiction.hidden': 'Relfuch limfa',
     'universe.fanFiction.hide': 'Hide fanfiction',
-    'universe.fanFiction.unhide': 'Unhide fanfiction'
+    'universe.fanFiction.unhide': 'Unhide fanfiction',
+    'universe.fanFiction.create': 'co\'e finti lo fanva be lo nu fanva',
+    'universe.fanFiction.notAllowed': 'Ti munje cu na permetas lo nu se dunda la fanva be fi lo fanva fiksi.'
 };

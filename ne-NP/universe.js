@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} कला',
     'universe.fanFiction.hidden': 'छुपाएको',
     'universe.fanFiction.hide': 'फ्यानफिक्शनलाई लुकाउनुहोस्',
-    'universe.fanFiction.unhide': 'फ्यानफिक्शनलाई प्रकट गर्नुहोस्'
+    'universe.fanFiction.unhide': 'फ्यानफिक्शनलाई प्रकट गर्नुहोस्',
+    'universe.fanFiction.create': 'नयाँ फ्यान फिक्शन सिर्जना गर्नुहोस्',
+    'universe.fanFiction.notAllowed': 'यो ब्रह्माण्डले फ्यान फिक्सन देखाउन अनुमति दिन्छैन।'
 };

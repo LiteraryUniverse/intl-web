@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Kontroller för uppslagsverket',
     'encyclopedia.pronunciation.title': 'Uttal',
     'encyclopedia.wip.abbreviation': 'Pågående arbete',
-    'encyclopedia.wip.full': 'Pågående arbete'
+    'encyclopedia.wip.full': 'Pågående arbete',
+    'encyclopedia.settings.templateLegend': 'Malluniversum',
+    'encyclopedia.settings.templateDescription': 'Tillåt att innehållet i denna encyklopedi kopieras till andra universum. Detta är bäst om du inte har några berättelser och istället bara skapar en mall för andra att använda.',
+    'encyclopedia.settings.templateCheckbox': 'Detta är ett malluniversum',
+    'encyclopedia.templateCopy.modalTitle': 'Kopiera encyklopediinnehåll',
+    'encyclopedia.templateCopy.description': 'Kopiera innehållet i denna encyklopedi till ditt universum för att berika det.',
+    'encyclopedia.templateCopy.targetUniverse': 'Universum att kopiera till',
+    'encyclopedia.templateCopy.finished': 'Kopiering klar'
 };

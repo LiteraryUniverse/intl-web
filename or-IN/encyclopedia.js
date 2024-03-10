@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ଜ୍ଞାନକୋଷ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ',
     'encyclopedia.pronunciation.title': 'ଉଚ୍ଚାରଣ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'ଚାଲୁ ରହିଛି'
+    'encyclopedia.wip.full': 'ଚାଲୁ ରହିଛି',
+    'encyclopedia.settings.templateLegend': 'ଟେମ୍ପଲେଟ୍ ବିଶ୍ବ',
+    'encyclopedia.settings.templateDescription': 'ଏହି ଏନ୍ସାଇକ୍ଲୋପିଡ଼ିଆର ବିଷୟବସ୍ତୁଟି ଅନ୍ୟ ବିଶ୍ବମାନ ପାଇଁ କପି କରିପାରିବେ | ଯଦି ଆପଣଙ୍କୁ କଉଁ କହାଣି ନାହିଁଥାଏ ଏବଂ ପାଇଁ କେଉଁ ଟେମ୍ପଲେଟ୍ ତିଆରି କରିଛନ୍ତି ତାହାଲେ ଏହା ଉତ୍ତମ ହେଉଛି |',
+    'encyclopedia.settings.templateCheckbox': 'ଏହା ଟେମ୍ପଲେଟ୍ ବିଶ୍ବ',
+    'encyclopedia.templateCopy.modalTitle': 'ଏନ୍ସାଇକ୍ଲୋପିଡ଼ିଆ ବିଷୟବସ୍ତୁ କପି କରନ୍ତୁ',
+    'encyclopedia.templateCopy.description': 'ଏହି ଏନ୍ସାଇକ୍ଲୋପିଡ଼ିଆର ବିଷୟବସ୍ତୁଟି ଆପଣଙ୍କର ବିଶ୍ବମାନକୁ କପି କରିପାରିବେ |',
+    'encyclopedia.templateCopy.targetUniverse': 'କପି କରିବା ବିଶ୍ବ',
+    'encyclopedia.templateCopy.finished': 'ପ୍ରତିଲେପଣା କିଣ୍ତିଶୁଣ୍ଯ୍ୟାକୁ ଶେଷ ହେଲା'
 };

@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'E-mel disahkan',
     'settings.email.add': 'Tambah e-mel',
     'settings.languages.title': 'Tetapan bahasa',
-    'settings.languages.notice': 'Bahasa Inggeris adalah satu-satunya bahasa yang disokong secara rasmi. Bahasa lain tersedia berkat sukarelawan yang hebat, tetapi mungkin masih tidak lengkap.',
+    'settings.languages.notice': 'Bahasa Inggeris dan Czech adalah bahasa yang disokong secara rasmi pada masa ini. Bahasa lain tersedia berkat sumbangan sukarelawan yang hebat dan terjemahan AI, tetapi mungkin masih tidak lengkap dan tidak tepat di beberapa tempat.',
     'settings.languages.join': 'Jika anda ingin membantu kami, anda boleh menterjemahkan Literary Universe juga.',
     'settings.name.title': 'Nama sebenar',
     'settings.name.given': 'Nama pertama',

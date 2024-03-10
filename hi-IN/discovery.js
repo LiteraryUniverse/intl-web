@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'किसी ब्रह्मांडों की खोज करें',
     'discover.search.storyStatus': 'कहानी प्रगति की स्थिति',
     'story.status.complete': 'पूर्ण',
-    'story.status.inProgress': 'काम चल रही है',
+    'story.status.inProgress': 'चल रहा है',
     'discover.search.universeConnection': 'ब्रह्मांड के साथ कहानी का संबंध',
     'story.universeRelation.standalone': 'अकेली कहानी',
     'story.universeRelation.fanFiction': 'फैन फिक्शन',

@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'পরবর্তী চক্রের জন্য আপনার ডিফল্ট পেমেন্ট পদ্ধতি ব্যবহার করা হবে।',
-    'plans.subscribed.status': `সাবস্ক্রিপশনের অবস্থা: {status, select,
+    'plans.subscribed.status': `সাবস্ক্রিপশন স্থিতি: {status, select,
     active {সক্রিয়}
     incomplete {কিছু অনুপস্থিত আছে}
     incomplete_expired {কিছু অনুপস্থিত আছে}
     trialing {ট্রায়াল}
-    past_due {আমরা আপনার মূল্যপরিশোধ অনুপস্থিত}
-    canceled {বাতিল হয়েছে}
-    unpaid {অপরিশোধিত}
-    expired {মেয়াদ উত্তীর্ণ হয়েছে}
+    past_due {আমরা আপনার পেমেন্ট অনুপস্থিত}
+    cancelled {বাতিল}
+    unpaid {বিনা পরিশোধিত}
+    expired {মেয়াদ উত্তীর্ণ}
     other {}
   }`,
     'payments.changeMethod': 'পেমেন্ট পদ্ধতি পরিবর্তন করুন',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'আপনার বিশ্বটি পূর্ণ করুন, কমপক্ষে 30 টি এন্ট্রি থাকতে হবে! যদি আপনি 100 এর মার্জিনে আক্রমণ করেন তাহলে আরও ভাল।',
     'payment.universe.haveFans': 'যদি মানুষদের যা তুমি করছো তায় তারা আগ্রহী হয়, তাহলে তোমার স্পন্সর পাওয়া সহজ হয়। ১০০ ফ্যান তোমার ইউনিভার্সে সংযুক্ত করে তোমার শুরুর লাইন।',
     'payment.settings.yourFanClub': 'তোমার ফ্যান ক্লাব',
-    'payment.settings.newWork': 'নতুন কাজ তৈরি করো'
+    'payment.settings.newWork': 'নতুন কাজ তৈরি করো',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'নাম স্তর',
+    'payment.fanClub.createTier': 'টিয়ার যোগ করুন',
+    'payment.fanClub.description': 'টিয়ার বিবরণ',
+    'payment.fanClub.picture': 'টিয়ার ছবি',
+    'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান করবেন: {amount}। প্ল্যাটফর্ম ফি {fee} এবং আপনি পাবেন: {net}',
+    'payment.feeNotice': 'দয়া করে মনে রাখবেন যে এটি একটি আনুমানিক পরিমাণ এবং প্রাসঙ্গিক শপিং প্রকার এবং পে গেট থেকে অতিরিক্ত চার্জের উপর ভিত্তি করে আসল ফি ভিন্ন হতে পারে।',
+    'payment.fanClub.perks': 'সুবিধাসমূহ'
 };

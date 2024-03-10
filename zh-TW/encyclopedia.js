@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': '百科控制項',
     'encyclopedia.pronunciation.title': '發音',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': '進行中'
+    'encyclopedia.wip.full': '進行中',
+    'encyclopedia.settings.templateLegend': '範本宇宙',
+    'encyclopedia.settings.templateDescription': '允許將此百科全書的內容複製到其他宇宙中。如果您沒有任何故事，只是為他人創建一個範本，這是最好的選擇。',
+    'encyclopedia.settings.templateCheckbox': '這是一個範本宇宙',
+    'encyclopedia.templateCopy.modalTitle': '複製百科全書內容',
+    'encyclopedia.templateCopy.description': '將此百科全書的內容複製到您的宇宙中以豐富它。',
+    'encyclopedia.templateCopy.targetUniverse': '要複製到的宇宙',
+    'encyclopedia.templateCopy.finished': '複製完成'
 };

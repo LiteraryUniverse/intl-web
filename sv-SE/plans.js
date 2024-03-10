@@ -91,11 +91,11 @@ export default {
     'plans.subscribed.paymentMethod': 'Ditt standardbetalningssätt kommer att användas för att betala för nästa period.',
     'plans.subscribed.status': `Prenumerationsstatus: {status, select,
     active {Aktiv}
-    incomplete {Något saknas}
-    incomplete_expired {Något saknas}
+    incomplete {Det saknas något}
+    incomplete_expired {Det saknas något}
     trialing {Test}
     past_due {Vi saknar din betalning}
-    canceled {Avbruten}
+    cancelled {Avbruten}
     unpaid {Obetald}
     expired {Utlöpt}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fyll på din encyklopedi, ha minst 30 poster! Bättre om du når 100-gränsen.',
     'payment.universe.haveFans': 'Det är lättare att få människor att sponsra dig om de redan är intresserade av det du gör. 100 fans som lägger till ditt universum i sin bibliotek är startlinjen.',
     'payment.settings.yourFanClub': 'Din fan club',
-    'payment.settings.newWork': 'Skapa ett nytt arbete'
+    'payment.settings.newWork': 'Skapa ett nytt arbete',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nivån',
+    'payment.fanClub.createTier': 'Lägg till nivå',
+    'payment.fanClub.description': 'Nivåbeskrivning',
+    'payment.fanClub.picture': 'Nivåbild',
+    'payment.fanClub.priceBreakdown': 'Abonnenten kommer att betala: {amount}. Plattformavgiften är {fee}, du kommer att få: {net}',
+    'payment.feeNotice': 'Observera att detta endast är en uppskattning och den faktiska avgiften kan variera beroende på kundens betalningssätt och eventuella extra avgifter från betalningsportalen.',
+    'payment.fanClub.perks': 'Förmåner'
 };

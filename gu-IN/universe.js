@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ફેન આર્ટ્સ',
     'universe.fanFiction.hidden': 'છુપાવેલ',
     'universe.fanFiction.hide': 'ફેનફિક્શન છુપાવો',
-    'universe.fanFiction.unhide': 'ફેનફિક્શન અનછોડો કરો'
+    'universe.fanFiction.unhide': 'ફેનફિક્શન અનછોડો કરો',
+    'universe.fanFiction.create': 'નવી ફેન ફિક્શન બનાવો',
+    'universe.fanFiction.notAllowed': 'આ યુનિવર્સ ફેન ફિક્શન બતાવવાની મંજૂરી આપતી નથી.'
 };

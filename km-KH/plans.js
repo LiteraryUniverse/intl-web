@@ -89,14 +89,14 @@ export default {
     other {}
   }។`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ស្ថានភាពការជាវអ្នកជាវ: {status, select,
-    active {ធ្លាក់ចុះតែបន្តកំពុងជាវ}
-    incomplete {មានអ្វីមួយខ្វះប្រើប្រាស់ប្រចាំទៅមិនមានប៉ាសកាល់}
-    incomplete_expired {មានអ្វីមួយខ្វះប្រើប្រាស់ប្រចាំទៅមិនមានប៉ាសកាល់}
-    trialing {ពាក្យសាកល្បង}
+    'plans.subscribed.status': `ស្ថានភាពការជាវ: {status, select,
+    active {ដំណើរការរបស់អ្នកនៅសល់}
+    incomplete {មានអ្វីមួយខ្វះបាន}
+    incomplete_expired {មានអ្វីមួយខ្វះបាន}
+    trialing {សាកល្បង}
     past_due {យើងខ្វះការបង់ប្រាក់របស់អ្នក}
-    canceled {បោះបង់}
-    unpaid {មិនបានបង់}
+    cancelled {បោះបង់}
+    unpaid {មិនបានបង់ប្រាក់}
     expired {ផុតកំណត់}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'ស្វែងយល់ជាងថ្នាក់ទីមួយដើម្បីទទួលបានអ្នកជំនុំអតិបរមាដែលមានចំនួនសមាជិកដែលមានចំណេះដឹងប្រឹក្សានៅលើអ្វីដែលអ្នកកំពុងធ្វើ។ ការបន្ថែមជំនុំរបស់អ្នកទៅកាន់បណ្ដាញសម្រាប់ទិញសៀវភៅនេះគឺជាជំនួយក្នុងការចាប់ផ្តើម។',
     'payment.settings.yourFanClub': 'ក្លឹបអ្នកចូលរួមជាមួយអ្នកជំនុំរបស់អ្នក',
-    'payment.settings.newWork': 'បង្កើតការងារថ្មី'
+    'payment.settings.newWork': 'បង្កើតការងារថ្មី',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'ឈ្មោះកាំង',
+    'payment.fanClub.createTier': 'បន្ថែមកាំងថ្មី',
+    'payment.fanClub.description': 'ការពិពណ៌នាកាំង',
+    'payment.fanClub.picture': 'រូបភាពកាំង',
+    'payment.fanClub.priceBreakdown': 'អ្នកជាអតិថិជននឹងបង់ប្រាក់: {amount}។ ថ្លៃប្រតិបត្តិការគឺ {fee} អ្នកនឹងទទួលបាន: {net}',
+    'payment.feeNotice': 'សូមបញ្ចូលចំនួននេះជាកំណត់ត្រា ហើយថ្លៃប្រតិបត្តិការពិតជាអាចផ្លាស់ប្តូរតាមប្រភេទបង់ប្រាក់របស់អតិថិជននិងថ្លៃបន្ថែមពីការបង់ប្រាក់ផ្សេងៗពីផ្ទេរប្រតិបត្តិការ។',
+    'payment.fanClub.perks': 'ប្រាក់រង្វាន់'
 };

@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Enciklopedias kontroloj',
     'encyclopedia.pronunciation.title': 'Prononco',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Verketo en Progreso'
+    'encyclopedia.wip.full': 'Verketo en Progreso',
+    'encyclopedia.settings.templateLegend': 'ckini vrici',
+    'encyclopedia.settings.templateDescription': 'ko\'a se ckini lo se du\'u le nunpe\'i be ti cu se kopygau lo drata vrici. ti cu xamgu lo nu do na\'e fanva lo se lisri e na\'e pilno lo nu do zbasu lo se du\'u ri cu vrici be fi drata',
+    'encyclopedia.settings.templateCheckbox': 'ti cu vrici be fi drata',
+    'encyclopedia.templateCopy.modalTitle': 'se kopygau lo vrici be lo ckini vrici',
+    'encyclopedia.templateCopy.description': 'se kopygau lo se du\'u le nunpe\'i be ti cu se pilno lo nu do se banro lo ckini vrici',
+    'encyclopedia.templateCopy.targetUniverse': 'ckini vrici be lo se du\'u ri cu se kopygau',
+    'encyclopedia.templateCopy.finished': 'Kopiranje klāstu'
 };

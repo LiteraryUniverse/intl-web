@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'എൻസൈക്ലോപീഡിയ നിയന്ത്രണങ്ങൾ',
     'encyclopedia.pronunciation.title': 'ഉച്ചാരണം',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'പ്രവർത്തനത്തിൽ ഉൾപ്പെടുന്നു'
+    'encyclopedia.wip.full': 'പ്രവർത്തനത്തിൽ ഉൾപ്പെടുന്നു',
+    'encyclopedia.settings.templateLegend': 'ടെംപ്ലേറ്റ് യൂണിവേഴ്‌സ്',
+    'encyclopedia.settings.templateDescription': 'ഈ എൻസൈക്ലോപീഡിയയുടെ ഉള്ളടക്കം മറ്റ് യൂണിവേഴ്‌സുകളിൽ പകർത്താൻ അനുവദിക്കുന്നു. നിങ്ങൾക്ക് സ്റ്റോറികളും അല്ലെങ്കിൽ മറ്റൊരുവഴിയിൽ സൃഷ്ടിക്കുന്നതാണെങ്കിൽ, മറ്റുള്ളവരുടെ ഉപയോഗത്തിനായി ഒരു ടെംപ്ലേറ്റ് സൃഷ്ടിക്കുന്നതിനാണ് ഇത് മികച്ചത്.',
+    'encyclopedia.settings.templateCheckbox': 'ഇത് ഒരു ടെംപ്ലേറ്റ് യൂണിവേഴ്‌സ് ആണ്',
+    'encyclopedia.templateCopy.modalTitle': 'എൻസൈക്ലോപീഡിയ ഉള്ളടക്കം പകർത്തുക',
+    'encyclopedia.templateCopy.description': 'ഈ എൻസൈക്ലോപീഡിയയുടെ ഉള്ളടക്കം നിങ്ങളുടെ യൂണിവേഴ്‌സിലേക്ക് പകർത്തിയിട്ട് അതിനു പിന്നിൽ അതു പ്രശ്നങ്ങൾക്ക് പരിഹരിക്കാൻ സഹായിക്കുക.',
+    'encyclopedia.templateCopy.targetUniverse': 'പകർത്താൻ യൂണിവേഴ്‌സ്',
+    'encyclopedia.templateCopy.finished': 'പകർപ്പിച്ചു കഴിഞ്ഞു'
 };

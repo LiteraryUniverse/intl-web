@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Enciklopedijos valdymas',
     'encyclopedia.pronunciation.title': 'Tarimas',
     'encyclopedia.wip.abbreviation': 'Vyksta darbai',
-    'encyclopedia.wip.full': 'Darbai vyksta'
+    'encyclopedia.wip.full': 'Darbai vyksta',
+    'encyclopedia.settings.templateLegend': 'Šablonų visata',
+    'encyclopedia.settings.templateDescription': 'Leisti nukopijuoti šios enciklopedijos turinį į kitas visatas. Tai geriausia, jei neturite jokių pasakojimų ir vietoj to tik kuriate šabloną, kurį kiti galės naudoti.',
+    'encyclopedia.settings.templateCheckbox': 'Tai yra šablonų visata',
+    'encyclopedia.templateCopy.modalTitle': 'Nukopijuoti enciklopedijos turinį',
+    'encyclopedia.templateCopy.description': 'Nukopijuokite šios enciklopedijos turinį į savo visatą, kad ją papildytumėte.',
+    'encyclopedia.templateCopy.targetUniverse': 'Visata, į kurią kopijuoti',
+    'encyclopedia.templateCopy.finished': 'Kopijavimas baigtas'
 };

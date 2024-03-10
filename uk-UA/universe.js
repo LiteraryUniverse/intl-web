@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} фан-арт',
     'universe.fanFiction.hidden': 'Приховано',
     'universe.fanFiction.hide': 'Сховати фанфік',
-    'universe.fanFiction.unhide': 'Показати фанфік'
+    'universe.fanFiction.unhide': 'Показати фанфік',
+    'universe.fanFiction.create': 'Створити нову фантастичну історію',
+    'universe.fanFiction.notAllowed': 'Цей Всесвіт не дозволяє показу фанфіків.'
 };

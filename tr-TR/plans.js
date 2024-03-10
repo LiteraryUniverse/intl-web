@@ -95,7 +95,7 @@ export default {
     incomplete_expired {Bir şey eksik}
     trialing {Deneme}
     past_due {Ödemeniz eksik}
-    canceled {İptal edildi}
+    cancelled {İptal edildi}
     unpaid {Ödenmemiş}
     expired {Süresi doldu}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Ansiklopedinizi doldurun, en az 30 girişiniz olsun! 100 sınırına yaklaşıyorsanız daha iyi.',
     'payment.universe.haveFans': 'Eğer insanlar zaten yaptığınız şeye ilgi duyuyorsa, onları sponsor olmaya ikna etmek daha kolay olur. 100 hayranın evreninizi kütüphanesine eklemesi başlangıç çizgisidir.',
     'payment.settings.yourFanClub': 'Hayran kulübünüz',
-    'payment.settings.newWork': 'Yeni bir çalışma oluştur'
+    'payment.settings.newWork': 'Yeni bir çalışma oluştur',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Seviye adı',
+    'payment.fanClub.createTier': 'Katman ekle',
+    'payment.fanClub.description': 'Katman açıklaması',
+    'payment.fanClub.picture': 'Katman resmi',
+    'payment.fanClub.priceBreakdown': 'Abone ödeyecek: {amount}. Platform ücreti {fee}, alacaksınız: {net}',
+    'payment.feeNotice': 'Lütfen dikkate alın ki bu bir tahmindir ve gerçek ücret müşterinin ödeme türüne ve ödeme kapısından gelen ek ücretlere bağlı olarak farklı olabilir.',
+    'payment.fanClub.perks': 'Avantajlar'
 };

@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ค้นหาจักรวาล',
     'discover.search.storyStatus': 'สถานะความคืบหน้าของเรื่อง',
     'story.status.complete': 'เสร็จสมบูรณ์',
-    'story.status.inProgress': 'กำลังเขียน',
+    'story.status.inProgress': 'กำลังดำเนินการ',
     'discover.search.universeConnection': 'ความเชื่อมโยงของเรื่องกับจักรวาล',
     'story.universeRelation.standalone': 'เรื่องสั้นเดี่ยว',
     'story.universeRelation.fanFiction': 'เรื่องแฟนฟิค',

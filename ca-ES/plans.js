@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'El mètode de pagament predeterminat s\'utilitzarà per pagar el cicle següent.',
-    'plans.subscribed.status': `Estat de subscripció: {status, select,
+    'plans.subscribed.status': `Estat de la subscripció: {status, select,
     active {Activa}
-    incomplete {Falta alguna cosa}
-    incomplete_expired {Falta alguna cosa}
+    incomplete {Hi ha alguna cosa que falta}
+    incomplete_expired {Hi ha alguna cosa que falta}
     trialing {Prova}
-    past_due {Ens falten les vostres pagaments}
-    canceled {Cancel·lada}
+    past_due {Ens falta el teu pagament}
+    cancelled {Cancel·lada}
     unpaid {No pagada}
-    expired {Caducada}
+    expired {Expirada}
     other {}
   }`,
     'payments.changeMethod': 'Canvia el mètode de pagament',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Ompli la teva enciclopèdia, amb almenys 30 entrades! Millor si t\'apropes a les 100.',
     'payment.universe.haveFans': 'És més fàcil aconseguir que les persones et patrocinin si ja estan interessades en el que estàs fent. 100 fans afegint el teu univers a la seva biblioteca és la línia d\'inici.',
     'payment.settings.yourFanClub': 'El teu club de fans',
-    'payment.settings.newWork': 'Crea una obra nova'
+    'payment.settings.newWork': 'Crea una obra nova',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nom de la capa',
+    'payment.fanClub.createTier': 'Afegir nivell',
+    'payment.fanClub.description': 'Descripció del nivell',
+    'payment.fanClub.picture': 'Imatge del nivell',
+    'payment.fanClub.priceBreakdown': 'El subscriptor pagarà: {amount}. La comissió de la plataforma és {fee}, obtindràs: {net}',
+    'payment.feeNotice': 'Cal tenir en compte que això és una estimació i la comissió real pot ser diferent en funció del tipus de pagament del client i càrrecs addicionals de la passarel·la de pagament.',
+    'payment.fanClub.perks': 'Beneficis'
 };

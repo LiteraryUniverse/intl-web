@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Verifisert e-post',
     'settings.email.add': 'Legg til e-post',
     'settings.languages.title': 'Språkinnstillinger',
-    'settings.languages.notice': 'Engelsk er for øyeblikket det eneste offisielt støttede språket. Andre språk er tilgjengelige takket være fantastiske frivillige, men de kan fortsatt være ufullstendige.',
+    'settings.languages.notice': 'Engelsk og tsjekkisk er for øyeblikket de eneste offisielt støttede språkene. Andre språk er tilgjengelige takket være fantastiske frivillige og AI-oversettelse, men de kan fortsatt være ufullstendige og feilaktige på noen områder.',
     'settings.languages.join': 'Hvis du ønsker å hjelpe oss, kan du også oversette Literary Universe.',
     'settings.name.title': 'Ekte navn',
     'settings.name.given': 'Fornavn',

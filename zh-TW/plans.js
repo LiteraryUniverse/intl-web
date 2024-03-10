@@ -91,11 +91,11 @@ export default {
     'plans.subscribed.paymentMethod': '您的預設付款方式將用於支付下一個週期的費用。',
     'plans.subscribed.status': `訂閱狀態： {status, select,
     active {啟用}
-    incomplete {有一些遺失}
-    incomplete_expired {有一些遺失}
+    incomplete {有一些遺漏}
+    incomplete_expired {有一些遺漏}
     trialing {試用}
-    past_due {我們缺少您的付款}
-    canceled {已取消}
+    past_due {我們遺漏了您的付款}
+    cancelled {已取消}
     unpaid {未付款}
     expired {已過期}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': '填寫您的百科全書，至少有30個條目！如果能達到100個條目就更好了。',
     'payment.universe.haveFans': '如果他們已經對你的做事感興趣，那麼讓人贊助你會更容易。100個粉絲將你的宇宙加入他們的圖書館，這是起跑線。',
     'payment.settings.yourFanClub': '你的粉絲俱樂部',
-    'payment.settings.newWork': '創建一個新作品'
+    'payment.settings.newWork': '創建一個新作品',
+    'payment.amount.withNet': `{amount} （淨額： {netAmount}）`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': '層級名稱',
+    'payment.fanClub.createTier': '新增層級',
+    'payment.fanClub.description': '層級描述',
+    'payment.fanClub.picture': '層級圖片',
+    'payment.fanClub.priceBreakdown': '訂閱者將支付：{amount}。平台費用為{fee}，您將獲得：{net}',
+    'payment.feeNotice': '請注意，這只是一個估計，實際費用可能根據客戶的付款方式和支付閘口的額外費用而有所不同。',
+    'payment.fanClub.perks': '福利'
 };

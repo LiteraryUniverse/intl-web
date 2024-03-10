@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Tere {username},',
     'common.back': 'Tagasi',
     'console.stop': 'Peatu!',
-    'console.explain': 'See on brauseri funktsioon, mis on mõeldud arendajatele. Kui keegi palus teil midagi siia kopeerida, et lubada kirjandusliku universumi funktsioon või kellegi konto "häkkimine", siis tegemist on pettusega ja see annab neile juurdepääsu teie kirjandusliku universumi kontole.'
+    'console.explain': 'See on brauseri funktsioon, mis on mõeldud arendajatele. Kui keegi palus teil midagi siia kopeerida, et lubada kirjandusliku universumi funktsioon või kellegi konto "häkkimine", siis tegemist on pettusega ja see annab neile juurdepääsu teie kirjandusliku universumi kontole.',
+    'common.coping': 'Kopeerimine...'
 }    /* eslint-enable max-len */;

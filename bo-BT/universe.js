@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} འཕེན་བརྗོད།',
     'universe.fanFiction.hidden': 'Hidden',
     'universe.fanFiction.hide': 'བརྗོད་དྲིན་གཏོགས།',
-    'universe.fanFiction.unhide': 'བརྗོད་དྲིན་སྲུང་གཏོགས།'
+    'universe.fanFiction.unhide': 'བརྗོད་དྲིན་སྲུང་གཏོགས།',
+    'universe.fanFiction.create': 'གསར་བསྐྱོད་འགན་སྡུད་གསར་བསྐྱོད་གི་འགྲེལ་བཤད་གསར་བསྐྱོད་གི་ཡིག་ཆ་རྩ་བ་བཞིན་དུ་བཅུག་གི་འགྲེལ་བཤད་གསར་བསྐྱོད་གི་མིག་རྣམ་པར་བསྐྱེད་པ།',
+    'universe.fanFiction.notAllowed': 'སྒྲིག་འཇུག་མེད་པའི་འབྲི་རྩོམ་འདི་བསྐོར་བྱེད་མེད།'
 };

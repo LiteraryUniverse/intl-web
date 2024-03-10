@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'বিশ্ব অনুসন্ধান করুন',
     'discover.search.storyStatus': 'গল্পের অগ্রগতির স্থিতি',
     'story.status.complete': 'সম্পূর্ণ',
-    'story.status.inProgress': 'অবধির',
+    'story.status.inProgress': 'চলি আছে',
     'discover.search.universeConnection': 'গল্পের ইউনিভার্সের সংযোগ',
     'story.universeRelation.standalone': 'স্থানাপন্ন গল্প',
     'story.universeRelation.fanFiction': 'ফ্যান ফিকশন',

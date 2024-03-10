@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Ελέγχοι εγκυκλοπαίδειας',
     'encyclopedia.pronunciation.title': 'Προφορά',
     'encyclopedia.wip.abbreviation': 'Εξέλιξη σε εξέλιξη',
-    'encyclopedia.wip.full': 'Εξέλιξη σε εξέλιξη'
+    'encyclopedia.wip.full': 'Εξέλιξη σε εξέλιξη',
+    'encyclopedia.settings.templateLegend': 'Σύμπαν προτύπου',
+    'encyclopedia.settings.templateDescription': 'Επιτρέψτε το περιεχόμενο αυτής της εγκυκλοπαίδειας να αντιγραφεί σε άλλα σύμπαντα. Αυτό είναι καλύτερο αν δεν έχετε καμία ιστορία και αντί αυτού απλά δημιουργείτε ένα πρότυπο για άλλους να χρησιμοποιήσουν.',
+    'encyclopedia.settings.templateCheckbox': 'Αυτό είναι ένα σύμπαν προτύπου',
+    'encyclopedia.templateCopy.modalTitle': 'Αντιγραφή περιεχομένου εγκυκλοπαίδειας',
+    'encyclopedia.templateCopy.description': 'Αντιγράψτε το περιεχόμενο αυτής της εγκυκλοπαίδειας στο σύμπαν σας για να το εμπλουτίσετε.',
+    'encyclopedia.templateCopy.targetUniverse': 'Σύμπαν για αντιγραφή',
+    'encyclopedia.templateCopy.finished': 'Ολοκληρώθηκε η αντιγραφή'
 };

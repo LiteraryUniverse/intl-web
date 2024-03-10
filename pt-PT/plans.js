@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'O seu método de pagamento por defeito será utilizado para pagar o próximo ciclo.',
-    'plans.subscribed.status': `Status da assinatura: {status, select,
-    active {Ativo}
-    incomplete {Algo está faltando}
-    incomplete_expired {Algo está faltando}
-    trialing {Teste}
-    past_due {Estamos aguardando seu pagamento}
-    canceled {Cancelado}
-    unpaid {Não pago}
-    expired {Expirado}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
     'payments.changeMethod': 'Alterar método de pagamento',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Preencha sua enciclopédia, tenha pelo menos 30 entradas! Melhor se estiver atacando a margem de 100.',
     'payment.universe.haveFans': 'É mais fácil conseguir patrocinadores se eles já estiverem interessados no que você está fazendo. 100 fãs adicionando seu universo à biblioteca deles é a linha de partida.',
     'payment.settings.yourFanClub': 'Seu clube de fãs',
-    'payment.settings.newWork': 'Criar um novo trabalho'
+    'payment.settings.newWork': 'Criar um novo trabalho',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Nome da camada',
+    'payment.fanClub.createTier': 'Adicionar nível',
+    'payment.fanClub.description': 'Descrição do nível',
+    'payment.fanClub.picture': 'Imagem do nível',
+    'payment.fanClub.priceBreakdown': 'O assinante pagará: {amount}. A taxa da plataforma é {fee}, você receberá: {net}',
+    'payment.feeNotice': 'Por favor, observe que esta é apenas uma estimativa e a taxa real pode ser diferente com base no tipo de pagamento do cliente e nas taxas adicionais do gateway de pagamento.',
+    'payment.fanClub.perks': 'Benefícios'
 };

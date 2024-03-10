@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'அறிவியல் அமைப்புகள்',
     'encyclopedia.pronunciation.title': 'உச்சரிப்பு',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'செயல்முறையில் மேம்படுத்தப்படுகின்றது'
+    'encyclopedia.wip.full': 'செயல்முறையில் மேம்படுத்தப்படுகின்றது',
+    'encyclopedia.settings.templateLegend': 'வார்ப்புரு பண்பாட்டு',
+    'encyclopedia.settings.templateDescription': 'இந்த வார்ப்புருவின் உள்ளடக்கத்தை மற்ற பண்பாட்டுகளில் நகலெடுக்க அனுமதிக்கவும். இது கதைகள் இல்லாத படிவம் உருவாக்குவதற்கு சிறந்தது அல்லது மற்றவர்கள் பயன்படுத்த விரும்புகின்றனர்.',
+    'encyclopedia.settings.templateCheckbox': 'இது ஒரு வார்ப்புரு பண்பாடு',
+    'encyclopedia.templateCopy.modalTitle': 'வார்ப்புரு உள்ளடக்கத்தை நகலெடு',
+    'encyclopedia.templateCopy.description': 'இந்த வார்ப்புருவின் உள்ளடக்கத்தை உங்கள் வாழ்க்கையின் பலமாக்க வார்ப்புருவில் நகலெடுக்கவும்.',
+    'encyclopedia.templateCopy.targetUniverse': 'நகலெடுவல் வார்ப்புரு',
+    'encyclopedia.templateCopy.finished': 'நகலெடுக்கல் முடிந்தது'
 };

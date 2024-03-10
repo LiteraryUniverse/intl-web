@@ -151,5 +151,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Nastavení encyklopédie',
     'encyclopedia.pronunciation.title': 'Výslovnost',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Rozpracované'
+    'encyclopedia.wip.full': 'Rozpracované',
+    'encyclopedia.settings.templateLegend': 'Šablona vesmíru',
+    'encyclopedia.settings.templateDescription': 'Povolit kopírování obsahu této encyklopedie do jiných vesmírů. Toto je nejlepší volba, pokud nemáte žádné příběhy a místo toho jen vytváříte šablonu pro ostatní.',
+    'encyclopedia.settings.templateCheckbox': 'Toto je šablona vesmíru',
+    'encyclopedia.templateCopy.modalTitle': 'Kopírovat obsah encyklopedie',
+    'encyclopedia.templateCopy.description': 'Zkopírujte obsah této encyklopedie do svého vesmíru, aby jste ho obohatili.',
+    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do kterého se má zkopírovat',
+    'encyclopedia.templateCopy.finished': 'Kopírování dokončeno'
 };

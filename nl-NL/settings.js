@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Geverifieerde e-mail',
     'settings.email.add': 'E-mail toevoegen',
     'settings.languages.title': 'Taalinstellingen',
-    'settings.languages.notice': 'Engels is momenteel de enige officieel ondersteunde taal. Andere talen zijn beschikbaar dankzij geweldige vrijwilligers, maar ze kunnen nog steeds onvolledig zijn.',
+    'settings.languages.notice': 'Engels en Tsjechisch zijn momenteel de enige officieel ondersteunde talen. Andere talen zijn beschikbaar dankzij geweldige vrijwilligers en AI-vertaling, maar ze kunnen nog steeds onvolledig en incorrect zijn op sommige plaatsen.',
     'settings.languages.join': 'Als je ons wilt helpen, kun je ook Literary Universe vertalen.',
     'settings.name.title': 'Echte naam',
     'settings.name.given': 'Voornaam',

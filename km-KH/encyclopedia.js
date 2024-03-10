@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ការត្រួតពិនិត្យប្រភេទទូរស័ព្ទ',
     'encyclopedia.pronunciation.title': 'ការបញ្ចេញសម្រាប់សន្លឹកមធ្យមសញ្ញានីយ៍',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'ការងារកំពុងធ្វើបច្ចុប្បន្ន'
+    'encyclopedia.wip.full': 'ការងារកំពុងធ្វើបច្ចុប្បន្ន',
+    'encyclopedia.settings.templateLegend': 'ជំនាន់ទីពិភពលោក',
+    'encyclopedia.settings.templateDescription': 'អនុញ្ញាតឱ្យអ្នកប្រើវិគីភីឌានេះចុងក្រោយបានចម្លងទៅជាជំនាន់ផ្សេងទៀត។ នេះគឺល្អបំផុតប្រសិនបើអ្នកមិនមានរឿងនិងកំណត់សម្រាប់មនុស្សដទៃដែលចង់ប្រើជំនាន់នេះ។',
+    'encyclopedia.settings.templateCheckbox': 'នេះគឺជំនាន់ពិភពលោក',
+    'encyclopedia.templateCopy.modalTitle': 'ចម្លងមាតិការបន្ថែមពីវិគីភីឌានេះ',
+    'encyclopedia.templateCopy.description': 'ចម្លងមាតិការរបស់វិគីភីឌានេះទៅក្នុងជំនាន់របស់អ្នកដើម្បីបន្ថែមសម្រាប់វា។',
+    'encyclopedia.templateCopy.targetUniverse': 'ជំនាន់ទីដែលចម្លងទៅ',
+    'encyclopedia.templateCopy.finished': 'ការចម្លងបានបញ្ចប់'
 };

@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': '다음 주기에는 기본 결제 방법이 사용됩니다.',
-    'plans.subscribed.status': `구독 상태: {status, select,
-    active {활성화됨}
-    incomplete {누락된 항목이 있습니다}
-    incomplete_expired {누락된 항목이 있습니다}
-    trialing {체험판}
-    past_due {결제가 누락되었습니다}
-    canceled {취소됨}
-    unpaid {미지급}
-    expired {만료됨}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
     'payments.changeMethod': '결제 방법 변경',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': '백과사전을 채우세요. 최소한 30개의 항목이 있어야 합니다! 100개 이상이면 더 좋습니다.',
     'payment.universe.haveFans': '당신이 하는 일에 이미 관심이 있는 사람들이 후원자가 되는 것은 더 쉽습니다. 100명의 팬이 당신의 작품을 자신의 라이브러리에 추가하는 것이 시작선입니다.',
     'payment.settings.yourFanClub': '팬 클럽',
-    'payment.settings.newWork': '새 작품 만들기'
+    'payment.settings.newWork': '새 작품 만들기',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': '티어 이름',
+    'payment.fanClub.createTier': '티어 추가',
+    'payment.fanClub.description': '티어 설명',
+    'payment.fanClub.picture': '티어 사진',
+    'payment.fanClub.priceBreakdown': '구독자는 {amount}을(를) 지불합니다. 플랫폼 수수료는 {fee}이며, 실제로 받을 금액은 {net}입니다.',
+    'payment.feeNotice': '고객의 결제 유형 및 결제 게이트의 추가 요금에 따라 실제 수수료가 다를 수 있음을 참고해주세요.',
+    'payment.fanClub.perks': '혜택'
 };

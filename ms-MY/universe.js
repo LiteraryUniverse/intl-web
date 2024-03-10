@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} seni penggemar',
     'universe.fanFiction.hidden': 'Tersembunyi',
     'universe.fanFiction.hide': 'Sembunyi fanfiction',
-    'universe.fanFiction.unhide': 'Nampakkan semula fanfiction'
+    'universe.fanFiction.unhide': 'Nampakkan semula fanfiction',
+    'universe.fanFiction.create': 'Cipta fiksyen peminat baru',
+    'universe.fanFiction.notAllowed': 'Universe ini tidak membenarkan untuk memaparkan fan fiction.'
 };

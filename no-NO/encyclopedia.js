@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Encyklopedikontroller',
     'encyclopedia.pronunciation.title': 'Uttale',
     'encyclopedia.wip.abbreviation': 'Pågående arbeid',
-    'encyclopedia.wip.full': 'Arbeid pågår'
+    'encyclopedia.wip.full': 'Arbeid pågår',
+    'encyclopedia.settings.templateLegend': 'Malunivers',
+    'encyclopedia.settings.templateDescription': 'Tillat at innholdet i denne encyklopedien kan kopieres til andre univers. Dette er best hvis du ikke har noen historier og i stedet bare oppretter en mal for andre å bruke.',
+    'encyclopedia.settings.templateCheckbox': 'Dette er en malunivers',
+    'encyclopedia.templateCopy.modalTitle': 'Kopier encyklopediinnhold',
+    'encyclopedia.templateCopy.description': 'Kopier innholdet i denne encyklopedien til ditt univers for å berike det.',
+    'encyclopedia.templateCopy.targetUniverse': 'Univers å kopiere til',
+    'encyclopedia.templateCopy.finished': 'Kopiering fullført'
 };

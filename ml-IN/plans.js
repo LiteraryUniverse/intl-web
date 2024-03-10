@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ചുമത്തല്‍ അവസ്ഥ: {status, select,
+    'plans.subscribed.status': `അംഗത്വം നില: {status, select,
     active {സജീവമാണ്}
-    incomplete {എനിക്ക് എന്തോ കിട്ടിയില്ല}
-    incomplete_expired {എനിക്ക് എന്തോ കിട്ടിയില്ല}
-    trialing {ട്രയല്‍}
-    past_due {എനിക്ക് നമ്മെ പണമ്}
-    canceled {പരിഹരിച്ചെന്ന്}
-    unpaid {അപേക്ഷിച്ചിട്ടില്ല}
-    expired {കാലഹരണപ്പെട്ടു}
+    incomplete {ഒന്നും കാണുന്നില്ല}
+    incomplete_expired {ഒന്നും കാണുന്നില്ല}
+    trialing {ട്രയൽ}
+    past_due {നിങ്ങളുടെ പേയ്മെന്റ് കാണുന്നില്ല}
+    cancelled {റദ്ദാക്കിയിട്ടുണ്ട്}
+    unpaid {അപേക്ഷിക്കാത്തവ}
+    expired {കാലാവധിയായിരിക്കുന്നു}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'നിങ്ങൾക്ക് സ്പോൺസർ ചെയ്യാൻ ആഗ്രഹിക്കുന്നവർ അവരുടെ പ്രവർത്തനത്തിൽ ആഗ്രഹിക്കുന്നവരാണെന്ന് അറിയാം. 100 ആരാധകരുടെ യൂണിവേഴ്സ് അവരുടെ ലൈബ്രറിയിൽ ചേർക്കുന്നത് ആരംഭ രേഖയാണ്.',
     'payment.settings.yourFanClub': 'നിങ്ങളുടെ ആരാധക ക്ലബ്',
-    'payment.settings.newWork': 'ഒരു പുതിയ പ്രവർത്തനം സൃഷ്ടിക്കുക'
+    'payment.settings.newWork': 'ഒരു പുതിയ പ്രവർത്തനം സൃഷ്ടിക്കുക',
+    'payment.amount.withNet': `{amount} (നെറ്റ്: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'ടിയർ പേര്',
+    'payment.fanClub.createTier': 'ടിയർ ചേർക്കുക',
+    'payment.fanClub.description': 'ടിയർ വിവരണം',
+    'payment.fanClub.picture': 'ടിയർ ചിത്രം',
+    'payment.fanClub.priceBreakdown': 'സബ്സ്ക്രൈബർ അടയാളം പറയും: {amount}. പ്ലാറ്റ്‌ഫോം ഫീ ആണ് {fee}, നിങ്ങൾക്ക് ലഭിക്കും: {net}',
+    'payment.feeNotice': 'ദയവായി ശ്രദ്ധിക്കുക, ഇത് അംഗീകരിക്കുന്നത് അറിയാം എന്നതാണ് മികച്ചപ്രകടനം ആണ്, കസ്റ്റമർമാർക്ക് പരിശോധനാത്മക തരം അടയാളങ്ങൾക്കും പേയ്‌ഗേറ്റിൽ നിന്നുള്ള അധിക ചാർജുകളിലേക്കുള്ള അടയാളങ്ങൾക്കും അനുസരിച്ച് വ്യത്യസ്തമാകാം.',
+    'payment.fanClub.perks': 'പ്രയോജനങ്ങൾ'
 };

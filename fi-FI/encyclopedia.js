@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Tietosanakirjan ohjaus',
     'encyclopedia.pronunciation.title': 'Ääntäminen',
     'encyclopedia.wip.abbreviation': 'KES',
-    'encyclopedia.wip.full': 'Työn alla'
+    'encyclopedia.wip.full': 'Työn alla',
+    'encyclopedia.settings.templateLegend': 'Mallimaailma',
+    'encyclopedia.settings.templateDescription': 'Salli tämän tietosanakirjan sisällön kopiointi muihin maailmoihin. Tämä on parasta, jos sinulla ei ole tarinoita ja luot vain mallin muiden käytettäväksi.',
+    'encyclopedia.settings.templateCheckbox': 'Tämä on mallimaailma',
+    'encyclopedia.templateCopy.modalTitle': 'Kopioi tietosanakirjan sisältö',
+    'encyclopedia.templateCopy.description': 'Kopioi tämän tietosanakirjan sisältö omaan maailmaasi rikastuttaaksesi sitä.',
+    'encyclopedia.templateCopy.targetUniverse': 'Kohdemaailma kopioimiseen',
+    'encyclopedia.templateCopy.finished': 'Kopiointi valmis'
 };

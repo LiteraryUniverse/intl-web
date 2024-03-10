@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'בקרי האנציקלופדיה',
     'encyclopedia.pronunciation.title': 'הגייה',
     'encyclopedia.wip.abbreviation': 'עבודה בתהליך',
-    'encyclopedia.wip.full': 'עבודה בתהליך'
+    'encyclopedia.wip.full': 'עבודה בתהליך',
+    'encyclopedia.settings.templateLegend': 'יקום תבנית',
+    'encyclopedia.settings.templateDescription': 'אפשר להעתיק את תוכן האנציקלופדיה הזו ליקומים אחרים. זה הכי טוב אם אין לך סיפורים ובמקום זאת אתה רק יוצר תבנית לשימוש של אחרים.',
+    'encyclopedia.settings.templateCheckbox': 'זהו יקום תבנית',
+    'encyclopedia.templateCopy.modalTitle': 'העתקת תוכן האנציקלופדיה',
+    'encyclopedia.templateCopy.description': 'העתקת תוכן של אנציקלופדיה זו ליקומך כדי להעשיר אותו.',
+    'encyclopedia.templateCopy.targetUniverse': 'יקום להעתיק אליו',
+    'encyclopedia.templateCopy.finished': 'העתקה הושלמה'
 };

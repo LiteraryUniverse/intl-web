@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Doğrulanmış e-posta',
     'settings.email.add': 'E-posta ekle',
     'settings.languages.title': 'Dil ayarları',
-    'settings.languages.notice': 'Şu anda yalnızca İngilizce resmi olarak desteklenen dil. Diğer diller, harika gönüllüler sayesinde mevcut olsa da, hala tamamlanmamış olabilir.',
+    'settings.languages.notice': 'İngilizce ve Çekçe şu anda yalnızca resmi olarak desteklenen dillerdir. Diğer diller, harika gönüllüler ve yapay zeka çevirisi sayesinde mevcuttur, ancak hala eksik ve hatalı olabilirler.',
     'settings.languages.join': 'Bize yardımcı olmak isterseniz, Literary Universe\'yi de çevirebilirsiniz.',
     'settings.name.title': 'Gerçek ad',
     'settings.name.given': 'Verilen ad',

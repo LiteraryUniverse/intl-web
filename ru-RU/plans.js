@@ -91,11 +91,11 @@ export default {
     'plans.subscribed.paymentMethod': 'Ваш способ оплаты по умолчанию будет использоваться для оплаты следующего цикла.',
     'plans.subscribed.status': `Состояние подписки: {status, select,
     active {Действует}
-    incomplete {Что-то отсутствует}
-    incomplete_expired {Что-то отсутствует}
-    trialing {Пробный период}
+    incomplete {Чего-то не хватает}
+    incomplete_expired {Чего-то не хватает}
+    trialing {Пробная}
     past_due {Мы не получили ваш платёж}
-    canceled {Отменена}
+    cancelled {Отменена}
     unpaid {Не оплачена}
     expired {Истекла}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Наполните свою энциклопедию, пусть в ней будет не менее 30 записей! Лучше, если вы будете стремиться к отметке 100.',
     'payment.universe.haveFans': 'Легче привлечь людей к спонсорству, если они уже заинтересованы в том, что вы делаете. 100 фанатов, добавивших вашу вселенную в свою библиотеку, - это уже отправная точка.',
     'payment.settings.yourFanClub': 'Ваш фанклуб',
-    'payment.settings.newWork': 'Создать новое произведение'
+    'payment.settings.newWork': 'Создать новое произведение',
+    'payment.amount.withNet': `{amount} (с учётом: {netAmount})`,
+    'payment.fanClub.intro': 'В этом разделе вы можете изменить настройки вашего фан-клуба. От уровней подписки до истории платежей.',
+    'payment.fanClub.tiers': 'Уровни',
+    'payment.fanClub.tierName': 'Название уровня',
+    'payment.fanClub.createTier': 'Добавить уровень',
+    'payment.fanClub.description': 'Описание уровня',
+    'payment.fanClub.picture': 'Изображение уровня',
+    'payment.fanClub.priceBreakdown': 'Абонент заплатит: {amount}. Плата за платформу составляет {fee}, вы получите: {net}',
+    'payment.feeNotice': 'Пожалуйста, обратите внимание, что это только оценка, и фактическая комиссия может отличаться в зависимости от способа оплаты клиента и дополнительных сборов платёжного шлюза.',
+    'payment.fanClub.perks': 'Привилегии'
 };

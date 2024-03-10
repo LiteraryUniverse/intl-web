@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Xin chào {username},',
     'common.back': 'Quay lại',
     'console.stop': 'Dừng lại!',
-    'console.explain': 'Đây là một tính năng trình duyệt dành cho nhà phát triển. Nếu ai đó bảo bạn sao chép-dán một cái gì đó ở đây để kích hoạt một tính năng Vũ trụ Văn học hoặc "hack" tài khoản của ai đó, đó là một chiêu lừa và sẽ cho phép họ truy cập vào tài khoản Vũ trụ Văn học của bạn.'
+    'console.explain': 'Đây là một tính năng trình duyệt dành cho nhà phát triển. Nếu ai đó bảo bạn sao chép-dán một cái gì đó ở đây để kích hoạt một tính năng Vũ trụ Văn học hoặc "hack" tài khoản của ai đó, đó là một chiêu lừa và sẽ cho phép họ truy cập vào tài khoản Vũ trụ Văn học của bạn.',
+    'common.coping': 'Đang sao chép...'
 }    /* eslint-enable max-len */;

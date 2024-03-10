@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Ensiklopedie beheer',
     'encyclopedia.pronunciation.title': 'Uitspraak',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Werk in Uitvoering'
+    'encyclopedia.wip.full': 'Werk in Uitvoering',
+    'encyclopedia.settings.templateLegend': 'Sjabloon heelal',
+    'encyclopedia.settings.templateDescription': 'Laat die inhoud van hierdie ensiklopedie kopieer na ander heelalle. Dit is die beste as jy geen stories het nie en eerder net \'n sjabloon skep vir ander om te gebruik.',
+    'encyclopedia.settings.templateCheckbox': 'Dit is \'n sjabloon heelal',
+    'encyclopedia.templateCopy.modalTitle': 'Kopieer ensiklopedie-inhoud',
+    'encyclopedia.templateCopy.description': 'Kopieer die inhoud van hierdie ensiklopedie na jou heelal om dit te verryk.',
+    'encyclopedia.templateCopy.targetUniverse': 'Heelal om na te kopieer',
+    'encyclopedia.templateCopy.finished': 'Kopiëring voltooi'
 };

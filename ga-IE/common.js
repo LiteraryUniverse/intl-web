@@ -258,5 +258,6 @@ export default {
     'email.hello': 'Dia duit {username},',
     'common.back': 'Ar ais',
     'console.stop': 'Stop!',
-    'console.explain': 'Is gné brabhsála é seo atá dírithe ar fhorbróirí. Má dúirt duine ar bith leat rud éigin a chóipeáil agus a pháistí anseo chun gné Léitheoireachta Cruinne a chumasú nó chun cuntas duine ar bith a "hackáil", is scam é sin agus tabharfaidh sé rochtain dóibh ar do chuntas Léitheoireachta Cruinne.'
+    'console.explain': 'Is gné brabhsála é seo atá dírithe ar fhorbróirí. Má dúirt duine ar bith leat rud éigin a chóipeáil agus a pháistí anseo chun gné Léitheoireachta Cruinne a chumasú nó chun cuntas duine ar bith a "hackáil", is scam é sin agus tabharfaidh sé rochtain dóibh ar do chuntas Léitheoireachta Cruinne.',
+    'common.coping': 'Ag cóipeáil...'
 }    /* eslint-enable max-len */;

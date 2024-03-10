@@ -91,12 +91,12 @@ export default {
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
     'plans.subscribed.status': `சந்தா நிலை: {status, select,
     active {செயலில் உள்ளது}
-    incomplete {ஏதேனும் இல்லை}
-    incomplete_expired {ஏதேனும் இல்லை}
-    trialing {சேயல்பாடு}
-    past_due {நாம் உங்கள் செலவை காணவில்லை}
-    canceled {ரத்துசெய்யப்பட்டது}
-    unpaid {வாய்ப்பு இல்லை}
+    incomplete {ஒன்று இல்லை}
+    incomplete_expired {ஒன்று இல்லை}
+    trialing {சோதனை}
+    past_due {உங்கள் கட்டணம் இல்லை}
+    cancelled {ரத்து செய்யப்பட்டது}
+    unpaid {பணம் செலுத்தப்படவில்லை}
     expired {காலாவதியானது}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'நீங்கள் செய்கின்ற விஷயத்தில் ஏற்கனவே ஆர்வம் கொண்ட மக்கள் உங்களை மதிப்பிடுவது எளிதாகும். 100 பிரம்மாண்ட உங்கள் நெருங்கிய படைப்பை அவர்களின் நூலகத்தில் சேர்க்கிறவர்கள் ஆரம்ப வேர்வுகள் ஆகும்.',
     'payment.settings.yourFanClub': 'உங்கள் ரசிப்பான குழு',
-    'payment.settings.newWork': 'புதிய பணி உருவாக்குக'
+    'payment.settings.newWork': 'புதிய பணி உருவாக்குக',
+    'payment.amount.withNet': `{amount} (நிகரானது: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'அடுக்கு பெயர்',
+    'payment.fanClub.createTier': 'அடுக்கு சேர்க்கவும்',
+    'payment.fanClub.description': 'அடுக்கு விளக்கம்',
+    'payment.fanClub.picture': 'அடுக்கு படம்',
+    'payment.fanClub.priceBreakdown': 'சந்தாதாரர் செலுத்தும் தொகை: {amount}. மூலோபாய கட்டணம் இதுவரை {fee}, நீங்கள் பெறுவீர்கள்: {net}',
+    'payment.feeNotice': 'தயவுசெய்து இது ஒரு மதிப்பிடல் மட்டுமே என்று கவனத்தில் கொள்ளுங்கள் மற்றும் உண்மையில் கட்டணம் வாங்குவதற்கு வாடிக்கையாளரின் கட்டண வகைமுறையில் மாறும் மற்றும் பண கட்டணங்களின் சேர்க்கைகள் அதிக விலை கொண்டிருக்கலாம்.',
+    'payment.fanClub.perks': 'பயன்கள்'
 };

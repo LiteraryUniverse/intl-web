@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `ཕྱིར་རྟགས་འཁྲུངས་སྐྱོང: {status, select,
-    active {བཀོལ་ནས་བརྐྱབས་བསྒྱུར་གཅིག་མིན་འདུག་}
-    incomplete {གསརཔ་ནི་ལས་ཐོག་རྐྱེན་ལེབ་སྟེ་ཡོད།}
-    incomplete_expired {གསརཔ་ནི་ལས་ཐོག་རྐྱེན་ལེབ་སྟེ་ཡོད།}
-    trialing {བྱེད་སྐུའི་དབང་བསྒྱ་}
-    past_due {ང་སྐྱེད་གཏང་ཡང་ངོ་བསྐུའི་དབང་སྐྱེད་}
-    canceled {བཀལ་ནས་མིན་འདུག་}
-    unpaid {ང་དང་བརྗེད་མིན་འདུག་}
-    expired {ཚེས་གྲངས་ཟློས་པའི་དབང་སྐྱེད་}
+    'plans.subscribed.status': `གསརཔ་འབྱེད་གནང་བ།: {status, select,
+    active {བཀོལ་ནས་བྱེད་པ།}
+    incomplete {གནང་བ་མིན་འདུག}
+    incomplete_expired {གནང་བ་མིན་འདུག}
+    trialing {བརྩོན་འབྲེལ།}
+    past_due {ངེས་དོན་འདུག}
+    cancelled {བྲིས་བུའི་བཀོལ་ནས་བྱེད་པ།}
+    unpaid {བཀོལ་ནས་མེད་པ།}
+    expired {འགོ་བཀོལ་ནས་བྱེད་པ།}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'ཁྱེད་ཀྱིས་ ཁྱེད་ཀྱིས་ལས་འགན་སྤྲོད་པའི་མིང་ཚིག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད་པའི་འགྱངས་ཆེན་པོ། ༡༠༠ ཕར་དག་གི་བསྐྱེད་པ་ཚུ་བརྟག་པར་བསྐྱེད་པའི་ཡང་དག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད་པའི་འགྱངས་ཆེན་པོ་བཟོས་པར་བསྐྱེད་པའི་ལས་འགན་སྤྲོད་པའི་མིང་ཚིག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད་པའི་འགྱངས་ཆེན་པོ།',
     'payment.settings.yourFanClub': 'ཁྱེད་ཀྱིས་ཁྱེད་ཀྱིས་ལས་འགན་སྤྲོད་པའི་མིང་ཚིག་གི་སྐུགས་བསྐྱེད་པ་འོས་སྦྱོར་བཀོད།',
-    'payment.settings.newWork': 'བསྐྱེད་པ་གསརཔ་པོ།'
+    'payment.settings.newWork': 'བསྐྱེད་པ་གསརཔ་པོ།',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'སྡེ་ཚན་གྱི་མཚན།',
+    'payment.fanClub.createTier': 'སྒྲོམ་པ་བཟོ་བ།',
+    'payment.fanClub.description': 'སྒྲོམ་ཚད་འགྲེལ།',
+    'payment.fanClub.picture': 'སྒྲོམ་པར་རིན།',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee}, you will get: {net}',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual fee might be different based on customer\'s payment type and additional charges from the pay gate.',
+    'payment.fanClub.perks': 'བརྡའ་བསྐྱེད་ཚད།'
 };

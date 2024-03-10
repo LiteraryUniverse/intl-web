@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ज्ञानकोश नियंत्रणहरू',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'कार्य प्रगतिमा'
+    'encyclopedia.wip.full': 'कार्य प्रगतिमा',
+    'encyclopedia.settings.templateLegend': 'टेम्पलेट ब्रह्माण्ड',
+    'encyclopedia.settings.templateDescription': 'इस ज्ञानकोश की सामग्री को अन्य ब्रह्माण्डों में कॉपी करने की अनुमति दें। यह सबसे अच्छा है यदि आपके पास कोई कहानियाँ नहीं हैं और आप केवल दूसरों के उपयोग के लिए एक टेम्पलेट बना रहे हैं।',
+    'encyclopedia.settings.templateCheckbox': 'यह एक टेम्पलेट ब्रह्माण्ड है',
+    'encyclopedia.templateCopy.modalTitle': 'ज्ञानकोश की सामग्री की कॉपी करें',
+    'encyclopedia.templateCopy.description': 'इस ज्ञानकोश की सामग्री को अपने ब्रह्माण्ड में कॉपी करें और इसे समृद्ध करें।',
+    'encyclopedia.templateCopy.targetUniverse': 'कॉपी करने के लिए ब्रह्माण्ड',
+    'encyclopedia.templateCopy.finished': 'प्रतिलिपि अंतिमित हो गइल'
 };

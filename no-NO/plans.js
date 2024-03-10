@@ -95,7 +95,7 @@ export default {
     incomplete_expired {Det mangler noe}
     trialing {Prøveperiode}
     past_due {Vi mangler betalingen din}
-    canceled {Avbrutt}
+    cancelled {Avbrutt}
     unpaid {Ubetalt}
     expired {Utløpt}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fyll opp din encyklopedi, ha minst 30 oppføringer! Enda bedre om du nærmer deg 100.',
     'payment.universe.haveFans': 'Det er lettere å få folk til å sponsorere deg hvis de allerede er interessert i det du gjør. 100 fans som legger til universet ditt i biblioteket sitt er startlinjen.',
     'payment.settings.yourFanClub': 'Din fanklubb',
-    'payment.settings.newWork': 'Opprett et nytt verk'
+    'payment.settings.newWork': 'Opprett et nytt verk',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Navn på nivå',
+    'payment.fanClub.createTier': 'Legg til nivå',
+    'payment.fanClub.description': 'Nivåbeskrivelse',
+    'payment.fanClub.picture': 'Nivåbilde',
+    'payment.fanClub.priceBreakdown': 'Abonnenten vil betale: {amount}. Plattformavgift er {fee}, du vil få: {net}',
+    'payment.feeNotice': 'Vennligst merk at dette er et estimat, og den faktiske avgiften kan være forskjellig basert på kundens betalingstype og eventuelle ekstra gebyrer fra betalingsportalen.',
+    'payment.fanClub.perks': 'Fordeler'
 };

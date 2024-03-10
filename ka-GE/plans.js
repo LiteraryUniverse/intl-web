@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
+    'plans.subscribed.status': `გამოწერის სტატუსი: {status, select,
     active {აქტიური}
-    incomplete {რაღაც საკითხია}
-    incomplete_expired {რაღაც საკითხია}
-    trialing {ცდამოწმება}
-    past_due {გადახდა გვიანია}
-    canceled {გაუქმებული}
-    unpaid {გადახდური}
-    expired {ვადაგასული}
+    incomplete {რაიმე დაკარგულია}
+    incomplete_expired {რაიმე დაკარგულია}
+    trialing {ცდა}
+    past_due {გადახდის გაგრძელება მოგვარებისას}
+    cancelled {გაუქმებულია}
+    unpaid {გადახდისგასამუშავებელია}
+    expired {ვადაგასულია}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
     'payment.universe.haveFans': 'ადამიანები უფრო მარტივად შეიძლება გააწიოთ თქვენი სპონსორები, თუ ისინი უკვე ინტერესებს გამოაქვეყნებენ იმას, რაც თქვენ აკეთებთ. 100 ფანსი, რომლებიც დაამატებენ თქვენს უნივერსიტეტს მათი ბიბლიოთეკაში, არის სტარტინგის ხაზი.',
     'payment.settings.yourFanClub': 'თქვენი ფანკლუბი',
-    'payment.settings.newWork': 'ახალი ნამუშის შექმნა'
+    'payment.settings.newWork': 'ახალი ნამუშის შექმნა',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'ტიერის სახელი',
+    'payment.fanClub.createTier': 'დონის დამატება',
+    'payment.fanClub.description': 'დონის აღწერის დასახელება',
+    'payment.fanClub.picture': 'დონის სურათი',
+    'payment.fanClub.priceBreakdown': 'გამომხმარებელმა გადაიხადათ: {amount}. პლატფორმის გადასახადი არის {fee}, თქვენ მიიღებთ: {net}',
+    'payment.feeNotice': 'გთხოვთ გაიგოთ, რომ ეს არის შეფასება და სამუშაო გადახდის ტიპიდან და დამატებითი ხარჯებიდან დამატებით გადასახადი განიცადება',
+    'payment.fanClub.perks': 'მაღაზიაზე'
 };

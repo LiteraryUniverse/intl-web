@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Zweryfikowany adres e-mail',
     'settings.email.add': 'Dodaj adres e-mail',
     'settings.languages.title': 'Ustawienia językowe',
-    'settings.languages.notice': 'Język angielski jest obecnie jedynym oficjalnie wspieranym językiem. Pozostałe języki są dostępne dzięki niesamowitym wolontariuszom, ale nadal mogą być nieukończone.',
+    'settings.languages.notice': 'Język angielski i czeski są obecnie jedynymi oficjalnie wspieranymi językami. Pozostałe języki są dostępne dzięki niesamowitym wolontariuszom i tłumaczeniu AI, ale mogą być nadal niekompletne i niepoprawne w niektórych miejscach.',
     'settings.languages.join': 'Jeśli chcesz nam pomóc, możesz również przetłumaczyć Literary Universe.',
     'settings.name.title': 'Dane osobowe',
     'settings.name.given': 'Imię',

@@ -91,13 +91,13 @@ export default {
     'plans.subscribed.paymentMethod': 'Na platbu za ďalší cyklus sa použije váš predvolený spôsob platby.',
     'plans.subscribed.status': `Stav predplatného: {status, select,
     active {Aktívne}
-    incomplete {Chýba niečo}
-    incomplete_expired {Chýba niečo}
-    trialing {Skúšobná verzia}
-    past_due {Chýba nám Vaša platba}
-    canceled {Zrušené}
+    incomplete {Niečo chýba}
+    incomplete_expired {Niečo chýba}
+    trialing {Skúšobné}
+    past_due {Chýba nám platba}
+    cancelled {Zrušené}
     unpaid {Nezaplatené}
-    expired {Expirované}
+    expired {Vypršané}
     other {}
   }`,
     'payments.changeMethod': 'Zmeniť spôsob platby',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Naplňte svoju encyklopédiu, majte aspoň 30 položiek! Lepšie, ak atakujete hranicu 100.',
     'payment.universe.haveFans': 'Je ľahšie získať ľudí, aby vás sponzorovali, ak už majú záujem o to, čo robíte. 100 fanúšikov, ktorí pridajú vašu vesmír do svojej knižnice, je štartovnou čiarou.',
     'payment.settings.yourFanClub': 'Váš fanúšikovský klub',
-    'payment.settings.newWork': 'Vytvoriť nové dielo'
+    'payment.settings.newWork': 'Vytvoriť nové dielo',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Názov úrovne',
+    'payment.fanClub.createTier': 'Pridať úroveň',
+    'payment.fanClub.description': 'Popis úrovne',
+    'payment.fanClub.picture': 'Obrázok úrovne',
+    'payment.fanClub.priceBreakdown': 'Odberateľ zaplatí: {amount}. Poplatok platformy je {fee}, dostanete: {net}',
+    'payment.feeNotice': 'Prosím, majte na pamäti, že ide o odhad a skutočný poplatok sa môže líšiť v závislosti od typu platby zákazníka a ďalších poplatkov od platobnej brány.',
+    'payment.fanClub.perks': 'Výhody'
 };

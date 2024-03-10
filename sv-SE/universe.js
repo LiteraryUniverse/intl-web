@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} fan art',
     'universe.fanFiction.hidden': 'Dold',
     'universe.fanFiction.hide': 'Dölj fanfiction',
-    'universe.fanFiction.unhide': 'Visa fanfiction igen'
+    'universe.fanFiction.unhide': 'Visa fanfiction igen',
+    'universe.fanFiction.create': 'Skapa ny fan fiction',
+    'universe.fanFiction.notAllowed': 'Detta universum tillåter inte visning av fanfiction.'
 };

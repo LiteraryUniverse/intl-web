@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Via defaŭlta paga metodo estos uzata por pagi por la sekva ciklo.',
-    'plans.subscribed.status': `Abonstatuso: {status, select,
-    active {Aktiva}
-    incomplete {Iu mankas}
-    incomplete_expired {Iu mankas}
-    trialing {Provo}
-    past_due {Ni mankas vian pagon}
-    canceled {Nuligita}
-    unpaid {Nepagita}
-    expired {Eksvalidiĝis}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
     'payments.changeMethod': 'Ŝanĝi paga metodon',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Plenigu vian enciklopedion, havu almenaŭ 30 artikolojn! Plibonu se vi atingas la limon de 100.',
     'payment.universe.haveFans': 'Estas pli facile akiri sponsorojn se ili jam interesas pri tio, kion vi faras. 100 fanoj, kiuj aldonas vian universon al sia biblioteko, estas la starta linio.',
     'payment.settings.yourFanClub': 'Via fanklubo',
-    'payment.settings.newWork': 'Krei novan verkon'
+    'payment.settings.newWork': 'Krei novan verkon',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nomo de nivelo',
+    'payment.fanClub.createTier': 'Aldoni nivelon',
+    'payment.fanClub.description': 'Priskribo de nivelo',
+    'payment.fanClub.picture': 'Bildo de nivelo',
+    'payment.fanClub.priceBreakdown': 'Abonanto pagos: {amount}. La platforma kosto estas {fee}, vi ricevos: {net}',
+    'payment.feeNotice': 'Bonvolu noti ke ĉi tio estas takso-prognozo kaj la efektiva takso povas esti malsama laŭ la pago-tipo de la kliento kaj aldonaj pagoj de la paga pordego.',
+    'payment.fanClub.perks': 'Avantaĝoj'
 };

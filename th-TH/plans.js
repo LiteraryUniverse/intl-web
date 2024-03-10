@@ -90,14 +90,14 @@ export default {
   }.`,
     'plans.subscribed.paymentMethod': 'วิธีการชำระเงินเริ่มต้นของคุณจะถูกใช้ในการชำระเงินสำหรับรอบถัดไป',
     'plans.subscribed.status': `สถานะการสมัครสมาชิก: {status, select,
-    active {ใช้งานอยู่}
-    incomplete {บางอย่างขาดหายไป}
-    incomplete_expired {บางอย่างขาดหายไป}
+    active {ใช้งาน}
+    incomplete {มีบางอย่างขาดหาย}
+    incomplete_expired {มีบางอย่างขาดหาย}
     trialing {ทดลองใช้}
-    past_due {เราขาดการชำระเงินของคุณ}
-    canceled {ยกเลิกแล้ว}
-    unpaid {ยังไม่ชำระเงิน}
-    expired {หมดอายุแล้ว}
+    past_due {เราไม่ได้รับการชำระเงินของคุณ}
+    cancelled {ยกเลิก}
+    unpaid {ยังไม่ได้ชำระเงิน}
+    expired {หมดอายุ}
     other {}
   }`,
     'payments.changeMethod': 'เปลี่ยนวิธีการชำระเงิน',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'กรอกข้อมูลในสารานุกรมของคุณให้ครบถ้วน มีอย่างน้อย 30 รายการ! ดีกว่าหากคุณกำลังเพิ่มขีดจำกัดที่ 100',
     'payment.universe.haveFans': 'การให้บุคคลที่สนับสนุนคุณเป็นเรื่องง่ายขึ้นถ้าพวกเขามีความสนใจในสิ่งที่คุณกำลังทำอยู่แล้ว 100 แฟนที่เพิ่มจักรวาลของคุณเข้าสู่ห้องสมุดของพวกเขาเป็นเส้นตรงเริ่มต้น',
     'payment.settings.yourFanClub': 'สโมสรแฟนของคุณ',
-    'payment.settings.newWork': 'สร้างงานใหม่'
+    'payment.settings.newWork': 'สร้างงานใหม่',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'ชื่อระดับ',
+    'payment.fanClub.createTier': 'เพิ่มชั้น',
+    'payment.fanClub.description': 'คำอธิบายของชั้น',
+    'payment.fanClub.picture': 'รูปภาพของชั้น',
+    'payment.fanClub.priceBreakdown': 'ผู้สมัครจะต้องชำระเงิน: {amount} ค่าบริการแพลตฟอร์มคือ {fee} คุณจะได้รับ: {net}',
+    'payment.feeNotice': 'โปรดทราบว่านี้เป็นการประมาณการเท่านั้นและค่าธรรมเนียมจริงอาจแตกต่างขึ้นอยู่กับประเภทการชำระเงินของลูกค้าและค่าใช้จ่ายเพิ่มเติมจากเกตเวย์การชำระเงิน',
+    'payment.fanClub.perks': 'สิ่งที่ได้รับเปรียบเสมอ'
 };

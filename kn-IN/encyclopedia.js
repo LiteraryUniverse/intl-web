@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ದಿದ್ಯೆಗಳು ನಿಯಂತ್ರಣಗಳು',
     'encyclopedia.pronunciation.title': 'ಉಚ್ಚಾರಣೆ',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'ಕೆಲಸ ನಡೆಸುತ್ತಿದೆ'
+    'encyclopedia.wip.full': 'ಕೆಲಸ ನಡೆಸುತ್ತಿದೆ',
+    'encyclopedia.settings.templateLegend': 'ಟೆಂಪ್ಲೇಟ್ ಬ್ರಹ್ಮಾಂಡ',
+    'encyclopedia.settings.templateDescription': 'ಈ ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾದ ವಿಷಯವನ್ನು ಇತರ ಬ್ರಹ್ಮಾಂಡಗಳಲ್ಲಿ ನಕಲಿಸಬೇಕಾಗಿದೆ. ನೀವು ಯಾವುದೇ ಕಥೆಗಳನ್ನು ಹೊಂದಿಲ್ಲದೆ, ಇತರರಿಗೆ ಬಳಕೆಗಾಗಿ ಟೆಂಪ್ಲೇಟ್ ರೂಪದಲ್ಲಿ ನಿರ್ಮಿಸುವುದು ಒಳ್ಳೆಯದು.',
+    'encyclopedia.settings.templateCheckbox': 'ಇದೊಂದು ಟೆಂಪ್ಲೇಟ್ ಬ್ರಹ್ಮಾಂಡ',
+    'encyclopedia.templateCopy.modalTitle': 'ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ನಕಲಿಸಿ',
+    'encyclopedia.templateCopy.description': 'ಈ ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾದ ವಿಷಯವನ್ನು ನಿಮ್ಮ ಬ್ರಹ್ಮಾಂಡಕ್ಕೆ ನಕಲಿಸಿ ಅದನ್ನು ಸಮೃದ್ಧಿಪಡಿಸಿ.',
+    'encyclopedia.templateCopy.targetUniverse': 'ನಕಲಿಸಬೇಕಾದ ಬ್ರಹ್ಮಾಂಡ',
+    'encyclopedia.templateCopy.finished': 'ನಕಲಿ ಮುಗಿಯಿತು'
 };

@@ -91,13 +91,13 @@ export default {
     'plans.subscribed.paymentMethod': 'तपाईंको पूर्वनिर्धारित भुक्तानी विधि अगाडीको चक्रका लागि प्रयोग गरिनेछ।',
     'plans.subscribed.status': `सदस्यता स्थिति: {status, select,
     active {सक्रिय}
-    incomplete {कुछ खोया गया है}
-    incomplete_expired {कुछ खोया गया है}
+    incomplete {केही कुरा छुटेको छ}
+    incomplete_expired {केही कुरा छुटेको छ}
     trialing {परीक्षण}
-    past_due {हमें आपके भुगतान की वस्तु की कमी है}
-    canceled {रद्द}
-    unpaid {अवैतनिक}
-    expired {समाप्त}
+    past_due {हामीलाई तपाईंको भुक्तानी चाहिएको छ}
+    cancelled {रद्द गरियो}
+    unpaid {अबुकेल}
+    expired {समय सकियो}
     other {}
   }`,
     'payments.changeMethod': 'भुक्तानी विधि परिवर्तन गर्नुहोस्',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'आफ्नो ज्ञानकोष भर्नुहोस्, कम्तिमा ३० प्रविष्टिहरू हुनुपर्छ! १०० मार्जिनमा हमीले आक्रमण गर्ने भएको राम्रो छ।',
     'payment.universe.haveFans': 'यदि लोग आपके कार्य में पहले से ही रुचि रखते हैं, तो आपको उन्हें प्रायोजित करना आसान होता है। 100 प्रशंसक जो आपकी यूनिवर्स को अपनी लाइब्रेरी में जोड़ते हैं, वह स्टार्टिंग लाइन है।',
     'payment.settings.yourFanClub': 'आपके प्रशंसक क्लब',
-    'payment.settings.newWork': 'नया कार्य बनाएं'
+    'payment.settings.newWork': 'नया कार्य बनाएं',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'टियर नाम',
+    'payment.fanClub.createTier': 'टियर थप्नुहोस्',
+    'payment.fanClub.description': 'टियर वर्णन',
+    'payment.fanClub.picture': 'टियर तस्वीर',
+    'payment.fanClub.priceBreakdown': 'सदस्य द्वारा भुगतान होगा: {amount}। प्लेटफ़ॉर्म शुल्क है {fee}, आपको मिलेगा: {net}',
+    'payment.feeNotice': 'कृपया ध्यान दें कि यह एक अनुमान है और वास्तविक शुल्क ग्राहक के भुगतान प्रकार और पेगेट से अतिरिक्त शुल्क के आधार पर अलग हो सकता है।',
+    'payment.fanClub.perks': 'पर्क्स'
 };

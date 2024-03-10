@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': '백과사전 제어',
     'encyclopedia.pronunciation.title': '발음',
     'encyclopedia.wip.abbreviation': '개발중',
-    'encyclopedia.wip.full': '작업 진행중'
+    'encyclopedia.wip.full': '작업 진행중',
+    'encyclopedia.settings.templateLegend': '템플릿 우주',
+    'encyclopedia.settings.templateDescription': '이 백과의 내용을 다른 우주로 복사할 수 있도록 허용합니다. 이는 당신이 이야기가 없고 다른 사람들이 사용할 템플릿을 만드는 경우에 가장 적합합니다.',
+    'encyclopedia.settings.templateCheckbox': '이것은 템플릿 우주입니다',
+    'encyclopedia.templateCopy.modalTitle': '백과 내용 복사',
+    'encyclopedia.templateCopy.description': '이 백과의 내용을 복사하여 당신의 우주를 풍부하게 만드세요.',
+    'encyclopedia.templateCopy.targetUniverse': '복사할 우주',
+    'encyclopedia.templateCopy.finished': '복사 완료'
 };

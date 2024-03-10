@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} אמנות מעריצים',
     'universe.fanFiction.hidden': 'מוסתר',
     'universe.fanFiction.hide': 'הסתר פאנפיקשן',
-    'universe.fanFiction.unhide': 'הצג פאנפיקשן'
+    'universe.fanFiction.unhide': 'הצג פאנפיקשן',
+    'universe.fanFiction.create': 'צור סיפור מדע בדיוני חדש',
+    'universe.fanFiction.notAllowed': 'היקום הזה אינו מאפשר להציג סיפורי מעריצים.'
 };

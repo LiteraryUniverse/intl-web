@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Metoda ta de plată implicită va fi folosită pentru plata următorului ciclu.',
-    'plans.subscribed.status': `Stare abonament: {status, select,
-    active {Activ}
-    incomplete {Ceva lipsește}
-    incomplete_expired {Ceva lipsește}
-    trialing {Încercare}
-    past_due {Ne lipsesc plățile dumneavoastră}
-    canceled {Anulat}
-    unpaid {Neplătit}
-    expired {Expirat}
+    'plans.subscribed.status': `Subscription status: {status, select,
+    active {Active}
+    incomplete {There is something missing}
+    incomplete_expired {There is something missing}
+    trialing {Trial}
+    past_due {We are missing your payment}
+    cancelled {Cancelled}
+    unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
     'payments.changeMethod': 'Schimbă metoda de plată',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Completează enciclopedia ta, cu cel puțin 30 de intrări! Cu atât mai bine dacă ataci marginea de 100.',
     'payment.universe.haveFans': 'Este mai ușor să obții sponsorizări de la oameni care sunt deja interesați de ceea ce faci. 100 de fani care adaugă universul tău în biblioteca lor reprezintă linia de start.',
     'payment.settings.yourFanClub': 'Clubul tău de fani',
-    'payment.settings.newWork': 'Creează o lucrare nouă'
+    'payment.settings.newWork': 'Creează o lucrare nouă',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Numele nivelului',
+    'payment.fanClub.createTier': 'Adăugați nivelul',
+    'payment.fanClub.description': 'Descriere nivel',
+    'payment.fanClub.picture': 'Imagine nivel',
+    'payment.fanClub.priceBreakdown': 'Abonatul va plăti: {amount}. Taxa platformei este {fee}, veți primi: {net}',
+    'payment.feeNotice': 'Vă rugăm să rețineți că aceasta este o estimare și taxa reală poate fi diferită în funcție de tipul de plată al clientului și de taxele suplimentare de la gateway-ul de plată.',
+    'payment.fanClub.perks': 'Beneficii'
 };

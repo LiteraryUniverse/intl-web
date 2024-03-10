@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'Stiriloj de enciklopedio',
     'encyclopedia.pronunciation.title': 'Elparolo',
     'encyclopedia.wip.abbreviation': 'En konstruo',
-    'encyclopedia.wip.full': 'Laboro en progreso'
+    'encyclopedia.wip.full': 'Laboro en progreso',
+    'encyclopedia.settings.templateLegend': 'Ŝablona universo',
+    'encyclopedia.settings.templateDescription': 'Permesi kopii enhavon de ĉi tiu enciklopedio en aliajn universojn. Tio estas plej bona se vi ne havas iajn rakontojn kaj anstataŭe nur kreas ŝablonon por aliaj uzi.',
+    'encyclopedia.settings.templateCheckbox': 'Ĉi tiu estas ŝablona universo',
+    'encyclopedia.templateCopy.modalTitle': 'Kopii enhavon de la enciklopedio',
+    'encyclopedia.templateCopy.description': 'Kopii enhavon de ĉi tiu enciklopedio en vian universon por ĝin riĉigi.',
+    'encyclopedia.templateCopy.targetUniverse': 'Universo al kiu kopii',
+    'encyclopedia.templateCopy.finished': 'Kopii finiĝis'
 };

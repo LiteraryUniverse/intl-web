@@ -10,7 +10,7 @@ export default {
     'settings.email.verified.true': 'Verifizierte E-Mail',
     'settings.email.add': 'E-Mail hinzufügen',
     'settings.languages.title': 'Spracheinstellungen',
-    'settings.languages.notice': 'Englisch ist derzeit die einzige offiziell unterstützte Sprache. Andere Sprachen sind dank erstaunlicher Freiwilliger verfügbar, können aber noch unvollständig sein.',
+    'settings.languages.notice': 'Englisch und Tschechisch sind derzeit die einzigen offiziell unterstützten Sprachen. Andere Sprachen sind dank erstaunlicher Freiwilliger und KI-Übersetzung verfügbar, können aber an einigen Stellen noch unvollständig und fehlerhaft sein.',
     'settings.languages.join': 'Wenn Sie uns helfen möchten, können Sie auch Literary Universe übersetzen.',
     'settings.name.title': 'Echter Name',
     'settings.name.given': 'Vorname',

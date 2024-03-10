@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Il tuo metodo di pagamento predefinito sarà utilizzato per pagare il prossimo ciclo.',
-    'plans.subscribed.status': `Stato sottoscrizione: {status, select,
+    'plans.subscribed.status': `Stato dell'abbonamento: {status, select,
     active {Attivo}
     incomplete {Qualcosa manca}
     incomplete_expired {Qualcosa manca}
     trialing {Prova}
     past_due {Ci manca il tuo pagamento}
-    canceled {Annullato}
+    cancelled {Annullato}
     unpaid {Non pagato}
     expired {Scaduto}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Riempi la tua enciclopedia, con almeno 30 voci! Meglio se raggiungi il margine di 100.',
     'payment.universe.haveFans': 'È più facile ottenere sponsor se le persone sono già interessate a ciò che stai facendo. 100 fan che aggiungono il tuo universo alla loro libreria è la linea di partenza.',
     'payment.settings.yourFanClub': 'Il tuo fan club',
-    'payment.settings.newWork': 'Crea una nuova opera'
+    'payment.settings.newWork': 'Crea una nuova opera',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nome del livello',
+    'payment.fanClub.createTier': 'Aggiungi livello',
+    'payment.fanClub.description': 'Descrizione livello',
+    'payment.fanClub.picture': 'Immagine livello',
+    'payment.fanClub.priceBreakdown': 'L\'abbonato pagherà: {amount}. La commissione della piattaforma è {fee}, riceverai: {net}',
+    'payment.feeNotice': 'Si prega di notare che si tratta di una stima e la commissione effettiva potrebbe essere diversa in base al tipo di pagamento del cliente e ai costi aggiuntivi del gateway di pagamento.',
+    'payment.fanClub.perks': 'Vantaggi'
 };

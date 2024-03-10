@@ -32,5 +32,7 @@ export default {
     'universe.fanArtHeaderDesc.overview': '{universe} ఫాన్ ఆర్ట్స్',
     'universe.fanFiction.hidden': 'దాగిన',
     'universe.fanFiction.hide': 'ఫాన్ కథను దాచు',
-    'universe.fanFiction.unhide': 'ఫాన్ కథను దాటంచేయండి'
+    'universe.fanFiction.unhide': 'ఫాన్ కథను దాటంచేయండి',
+    'universe.fanFiction.create': 'కొత్త ఫ్యాన్ ఫిక్షన్ సృష్టించండి',
+    'universe.fanFiction.notAllowed': 'ఈ యూనివర్స్ ఫ్యాన్ ఫిక్షన్ చూపించడం అనుమతించదు.'
 };

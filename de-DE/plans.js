@@ -93,10 +93,10 @@ export default {
     active {Aktiv}
     incomplete {Etwas fehlt}
     incomplete_expired {Etwas fehlt}
-    trialing {Test!}
-    past_due {Uns fehlt Ihre Zahlung}
-    canceled {Storniert}
-    unpaid {Ungezahlt}
+    trialing {Testphase}
+    past_due {Wir vermissen Ihre Zahlung}
+    cancelled {Storniert}
+    unpaid {Unbezahlt}
     expired {Abgelaufen}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Fülle deine Enzyklopädie aus, habe mindestens 30 Einträge! Besser ist es, wenn du die 100er-Marke angreifst.',
     'payment.universe.haveFans': 'Es ist einfacher, Menschen dazu zu bringen, dich zu unterstützen, wenn sie bereits an dem interessiert sind, was du tust. 100 Fans, die dein Universum zu ihrer Bibliothek hinzufügen, sind der Ausgangspunkt.',
     'payment.settings.yourFanClub': 'Dein Fanclub',
-    'payment.settings.newWork': 'Einen neuen Beitrag erstellen'
+    'payment.settings.newWork': 'Einen neuen Beitrag erstellen',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Tiername',
+    'payment.fanClub.createTier': 'Tier hinzufügen',
+    'payment.fanClub.description': 'Tierbeschreibung',
+    'payment.fanClub.picture': 'Tierbild',
+    'payment.fanClub.priceBreakdown': 'Der Abonnent zahlt: {amount}. Die Plattformgebühr beträgt {fee}, Sie erhalten: {net}',
+    'payment.feeNotice': 'Bitte beachten Sie, dass dies nur eine Schätzung ist und die tatsächliche Gebühr je nach Zahlungsart des Kunden und zusätzlichen Gebühren des Zahlungsgateways unterschiedlich sein kann.',
+    'payment.fanClub.perks': 'Vorteile'
 };

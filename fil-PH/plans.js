@@ -89,13 +89,13 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Ang iyong default na paraan ng pagbabayad ay gagamitin para sa susunod na siklo.',
-    'plans.subscribed.status': `Katayuan ng Subscription: {status, select,
+    'plans.subscribed.status': `Katayuan ng subscription: {status, select,
     active {Aktibo}
-    incomplete {May kulang}
-    incomplete_expired {May kulang}
+    incomplete {May nawawalang bagay}
+    incomplete_expired {May nawawalang bagay}
     trialing {Pagsusubok}
-    past_due {Kulang ang iyong pagbabayad}
-    canceled {Nakansela}
+    past_due {Nawawala ang iyong pagbabayad}
+    cancelled {Kinansela}
     unpaid {Hindi nabayaran}
     expired {Nag-expire}
     other {}
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Punan ang iyong ensiklopedya, magkaroon ng hindi bababa sa 30 na mga entry! Mas maganda kung higit sa 100 ang iyong target.',
     'payment.universe.haveFans': 'Mas madali kang makakakuha ng mga taong susuporta sa iyo kung sila ay interesado na sa ginagawa mo. Ang 100 na fans na nagdadagdag ng iyong universe sa kanilang library ang simula.',
     'payment.settings.yourFanClub': 'Ang iyong fan club',
-    'payment.settings.newWork': 'Lumikha ng bagong gawa'
+    'payment.settings.newWork': 'Lumikha ng bagong gawa',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Pangalan ng antas',
+    'payment.fanClub.createTier': 'Magdagdag ng tier',
+    'payment.fanClub.description': 'Deskripsyon ng tier',
+    'payment.fanClub.picture': 'Larawan ng tier',
+    'payment.fanClub.priceBreakdown': 'Ang Subscriber ay magbabayad ng: {amount}. Ang bayad sa platform ay {fee}, makukuha mo: {net}',
+    'payment.feeNotice': 'Maaring tandaan na ito ay isang tantiya lamang at ang aktwal na bayad ay maaaring mag-iba batay sa uri ng pagbabayad ng customer at karagdagang mga singil mula sa pay gate.',
+    'payment.fanClub.perks': 'Mga Benepisyo'
 };

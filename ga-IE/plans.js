@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Stádas síntiúsú: {status, select,
-    active {Faoi ​​díobháil}
+    'plans.subscribed.status': `Stádas síntiúis: {status, select,
+    active {Gníomhach}
     incomplete {Tá rud éigin ar iarraidh}
     incomplete_expired {Tá rud éigin ar iarraidh}
     trialing {Triail}
-    past_due {Tá do phá ag iarraidh orainn}
-    canceled {Cealaíteach}
-    unpaid {Neamhiadvócháilte}
-    expired {Rite}
+    past_due {Tá do íocaíocht ar iarraidh}
+    cancelled {Cealaigh}
+    unpaid {Neamhíoctha}
+    expired {D'éirigh as}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Líon isteach do leabhrán, bí agat ar a laghad 30 iontráil! Níos fearr má tá tú ag streachailt leis an margadh 100.',
     'payment.universe.haveFans': 'Is éasca daoine a mhealladh chun tacaíocht a thabhairt duit má tá suim acu cheana féin sa rud atá á dhéanamh agat. Tosaíonn an líne tosaigh nuair a chuireann 100 lucht leanúna do chruinneas leabharlann orthu.',
     'payment.settings.yourFanClub': 'Do chlub lucht leanúna',
-    'payment.settings.newWork': 'Cruthaigh saothar nua'
+    'payment.settings.newWork': 'Cruthaigh saothar nua',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Ainm an tsraith',
+    'payment.fanClub.createTier': 'Cuir leibhéal',
+    'payment.fanClub.description': 'Cur síos ar an leibhéal',
+    'payment.fanClub.picture': 'Íomhá den leibhéal',
+    'payment.fanClub.priceBreakdown': 'Íocfaidh an t-ábharóir: {amount}. Is é an táille an ghnóthach, gheobhaidh tú: {net}',
+    'payment.feeNotice': 'Tabhair faoi deara go bhfuil seo mar mheasúnú agus d\'fhéadfadh an táille fhíorúil difriúil a bheith de réir cineál íocaíochta an chustaiméara agus táillí breise ón ngeata íocaíochta.',
+    'payment.fanClub.perks': 'Buntáistí'
 };

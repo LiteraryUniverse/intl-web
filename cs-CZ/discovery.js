@@ -28,7 +28,7 @@ export default {
     'discover.searchUniverse.description': 'Najít vesmíry',
     'discover.search.storyStatus': 'Stav příběhu',
     'story.status.complete': 'Dokončený',
-    'story.status.inProgress': 'Na pokračování',
+    'story.status.inProgress': 'Probíhající',
     'discover.search.universeConnection': 'Připojení příběhu k vesmíru',
     'story.universeRelation.standalone': 'Samostatný příběh',
     'story.universeRelation.fanFiction': 'Fan fikce',

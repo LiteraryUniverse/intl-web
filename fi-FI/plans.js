@@ -94,10 +94,10 @@ export default {
     incomplete {Jotain puuttuu}
     incomplete_expired {Jotain puuttuu}
     trialing {Kokeilu}
-    past_due {Maksu puuttuu}
-    canceled {Peruutettu}
+    past_due {Maksusuoritustasi puuttuu}
+    cancelled {Peruutettu}
     unpaid {Maksamaton}
-    expired {Päättynyt}
+    expired {Vanhentunut}
     other {}
   }`,
     'payments.changeMethod': 'Vaihda maksutapaa',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Täytä tietosanakirjasi, sinulla tulee olla vähintään 30 merkintää! Parempi, jos ylität 100 rajan.',
     'payment.universe.haveFans': 'On helpompaa saada ihmisiä tukemaan sinua, jos he ovat jo kiinnostuneita siitä, mitä teet. 100 faniasi lisäämässä universumisi kirjastoonsa on lähtöviiva.',
     'payment.settings.yourFanClub': 'Fanikerhosi',
-    'payment.settings.newWork': 'Luo uusi teos'
+    'payment.settings.newWork': 'Luo uusi teos',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': '[object Promise]',
+    'payment.fanClub.tiers': '[object Promise]',
+    'payment.fanClub.tierName': 'Tason nimi',
+    'payment.fanClub.createTier': 'Lisää taso',
+    'payment.fanClub.description': 'Tason kuvaus',
+    'payment.fanClub.picture': 'Tason kuva',
+    'payment.fanClub.priceBreakdown': 'Tilaaja maksaa: {amount}. Alustamaksu on {fee}, saat: {net}',
+    'payment.feeNotice': 'Huomioithan, että tämä on arvio ja todellinen maksu voi poiketa asiakkaan maksutavasta ja mahdollisista lisämaksuista maksuportilta.',
+    'payment.fanClub.perks': 'Edut'
 };

@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ब्रह्माण्डमा खोजी गर्नुहोस्',
     'discover.search.storyStatus': 'कथा प्रगति स्थिति',
     'story.status.complete': 'पूर्ण',
-    'story.status.inProgress': 'काम मा',
+    'story.status.inProgress': 'चल रहा है',
     'discover.search.universeConnection': 'ब्रह्माण्डसँग कथा कनेक्सन',
     'story.universeRelation.standalone': 'एकल कथा',
     'story.universeRelation.fanFiction': 'फ्यान फिक्सन',

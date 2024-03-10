@@ -93,11 +93,11 @@ export default {
     active {Aktivní}
     incomplete {Něco chybí}
     incomplete_expired {Něco chybí}
-    trialing {Zkušební doba}
+    trialing {Zkušební verze}
     past_due {Chybí nám platba}
-    canceled {Zrušeno}
+    cancelled {Zrušeno}
     unpaid {Nezaplaceno}
-    expired {Vypršelo}
+    expired {Expirovalo}
     other {}
   }`,
     'payments.changeMethod': 'Změnit způsob platby',
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Vyplňte svou encyklopedii, mějte alespoň 30 záznamů! Lepší, pokud útočíte na 100 záznamů.',
     'payment.universe.haveFans': 'Je snazší vás přimět k sponzorování, pokud už mají zájem o to, co děláte. 100 fanoušků kteří mají Váš vesmír ve své knihovně je dobrý počáteční laťka.',
     'payment.settings.yourFanClub': 'Váš fanouškový klub',
-    'payment.settings.newWork': 'Vytvořit nové dílo'
+    'payment.settings.newWork': 'Vytvořit nové dílo',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Název úrovně',
+    'payment.fanClub.createTier': 'Přidat úroveň',
+    'payment.fanClub.description': 'Popis úrovně',
+    'payment.fanClub.picture': 'Obrázek úrovně',
+    'payment.fanClub.priceBreakdown': 'Odběratel zaplatí: {amount}. Poplatek platformy je {fee}, obdržíte: {net}',
+    'payment.feeNotice': 'Mějte prosím na paměti, že se jedná o odhad a skutečný poplatek se může lišit v závislosti na způsobu platby zákazníka a případných dalších poplatcích od platební brány.',
+    'payment.fanClub.perks': 'Výhody'
 };

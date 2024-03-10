@@ -149,5 +149,12 @@ export default {
     'enc.menuControls.ariaDesc': 'ควบคุมในสารานุกรม',
     'encyclopedia.pronunciation.title': 'การออกเสียง',
     'encyclopedia.wip.abbreviation': 'กำลังทำงาน',
-    'encyclopedia.wip.full': 'กำลังปรับปรุง'
+    'encyclopedia.wip.full': 'กำลังปรับปรุง',
+    'encyclopedia.settings.templateLegend': 'จักรวาลเทมเพลต',
+    'encyclopedia.settings.templateDescription': 'อนุญาตให้เนื้อหาในสารานุกรมนี้ถูกคัดลอกไปยังจักรวาลอื่น ๆ นี่เป็นทางเลือกที่ดีหากคุณไม่มีเรื่องราวใด ๆ และเป็นการสร้างเทมเพลตเพื่อให้ผู้อื่นนำไปใช้',
+    'encyclopedia.settings.templateCheckbox': 'นี่คือจักรวาลเทมเพลต',
+    'encyclopedia.templateCopy.modalTitle': 'คัดลอกเนื้อหาสารานุกรม',
+    'encyclopedia.templateCopy.description': 'คัดลอกเนื้อหาของสารานุกรมนี้ไปยังจักรวาลของคุณเพื่อเพิ่มความสมบูรณ์',
+    'encyclopedia.templateCopy.targetUniverse': 'จักรวาลที่จะคัดลอกไปยัง',
+    'encyclopedia.templateCopy.finished': 'การคัดลอกเสร็จสิ้น'
 };

@@ -91,12 +91,12 @@ export default {
     'plans.subscribed.paymentMethod': 'Do zapłaty za następny cykl zostanie użyta domyślna metoda płatności.',
     'plans.subscribed.status': `Status subskrypcji: {status, select,
     active {Aktywna}
-    incomplete {Brakuje czegoś}
-    incomplete_expired {Brakuje czegoś}
+    incomplete {Coś brakuje}
+    incomplete_expired {Coś brakuje}
     trialing {Próba}
-    past_due {Brakuje nam twojej płatności}
-    canceled {Anulowana}
-    unpaid {Nieopłacone}
+    past_due {Brakuje nam Twojej płatności}
+    cancelled {Anulowana}
+    unpaid {Nieopłacona}
     expired {Wygasła}
     other {}
   }`,
@@ -214,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': 'Wypełnij swoją encyklopedię, miej przynajmniej 30 wpisów! Lepiej jeśli zbliżasz się do 100.',
     'payment.universe.haveFans': 'Łatwiej jest zdobyć sponsorów, jeśli już są zainteresowani tym, co robisz. 100 fanów dodających twoją przestrzeń do swojej biblioteki to linia startowa.',
     'payment.settings.yourFanClub': 'Twój klub fanów',
-    'payment.settings.newWork': 'Utwórz nowe dzieło'
+    'payment.settings.newWork': 'Utwórz nowe dzieło',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nazwa poziomu',
+    'payment.fanClub.createTier': 'Dodaj poziom',
+    'payment.fanClub.description': 'Opis poziomu',
+    'payment.fanClub.picture': 'Zdjęcie poziomu',
+    'payment.fanClub.priceBreakdown': 'Abonent zapłaci: {amount}. Opłata platformy wynosi {fee}, otrzymasz: {net}',
+    'payment.feeNotice': 'Prosimy zauważyć, że jest to szacunek, a rzeczywista opłata może się różnić w zależności od rodzaju płatności klienta i dodatkowych opłat od bramki płatności.',
+    'payment.fanClub.perks': 'Korzyści'
 };
