@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Acesta este un univers template',
     'encyclopedia.templateCopy.modalTitle': 'Copiază conținutul enciclopediei',
     'encyclopedia.templateCopy.description': 'Copiază conținutul acestei enciclopedii în universul tău pentru a-l îmbogăți.',
-    'encyclopedia.templateCopy.targetUniverse': 'Univers în care să se facă copierea'
+    'encyclopedia.templateCopy.targetUniverse': 'Univers în care să se facă copierea',
+    'encyclopedia.templateCopy.finished': 'Copierea s-a încheiat'
 };
