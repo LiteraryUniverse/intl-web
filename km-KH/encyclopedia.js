@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'នេះគឺជំនាន់ពិភពលោក',
     'encyclopedia.templateCopy.modalTitle': 'ចម្លងមាតិការបន្ថែមពីវិគីភីឌានេះ',
     'encyclopedia.templateCopy.description': 'ចម្លងមាតិការរបស់វិគីភីឌានេះទៅក្នុងជំនាន់របស់អ្នកដើម្បីបន្ថែមសម្រាប់វា។',
-    'encyclopedia.templateCopy.targetUniverse': 'ជំនាន់ទីដែលចម្លងទៅ'
+    'encyclopedia.templateCopy.targetUniverse': 'ជំនាន់ទីដែលចម្លងទៅ',
+    'encyclopedia.templateCopy.finished': 'ការចម្លងបានបញ្ចប់'
 };
