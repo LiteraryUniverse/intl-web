@@ -154,5 +154,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Dit is een sjabloon universum',
     'encyclopedia.templateCopy.modalTitle': 'Kopieer encyclopedie inhoud',
     'encyclopedia.templateCopy.description': 'Kopieer de inhoud van deze encyclopedie naar jouw universum om het te verrijken.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universum om naar te kopiëren'
+    'encyclopedia.templateCopy.targetUniverse': 'Universum om naar te kopiëren',
+    'encyclopedia.templateCopy.finished': 'Kopiëren voltooid'
 };
