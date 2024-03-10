@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Це всесвіт-шаблон',
     'encyclopedia.templateCopy.modalTitle': 'Скопіювати вміст енциклопедії',
     'encyclopedia.templateCopy.description': 'Скопіюйте вміст цієї енциклопедії до вашого всесвіту, щоб збагатити його.',
-    'encyclopedia.templateCopy.targetUniverse': 'Всесвіт для копіювання'
+    'encyclopedia.templateCopy.targetUniverse': 'Всесвіт для копіювання',
+    'encyclopedia.templateCopy.finished': 'Копіювання завершено'
 };
