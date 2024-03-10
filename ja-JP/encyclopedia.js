@@ -152,5 +152,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'これはテンプレートの宇宙です',
     'encyclopedia.templateCopy.modalTitle': '百科事典の内容をコピーする',
     'encyclopedia.templateCopy.description': 'この百科事典の内容をあなたの宇宙にコピーして豊かにします。',
-    'encyclopedia.templateCopy.targetUniverse': 'コピー先の宇宙'
+    'encyclopedia.templateCopy.targetUniverse': 'コピー先の宇宙',
+    'encyclopedia.templateCopy.finished': 'コピーが完了しました'
 };
