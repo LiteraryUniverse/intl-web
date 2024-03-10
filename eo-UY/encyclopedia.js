@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Ĉi tiu estas ŝablona universo',
     'encyclopedia.templateCopy.modalTitle': 'Kopii enhavon de la enciklopedio',
     'encyclopedia.templateCopy.description': 'Kopii enhavon de ĉi tiu enciklopedio en vian universon por ĝin riĉigi.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universo al kiu kopii'
+    'encyclopedia.templateCopy.targetUniverse': 'Universo al kiu kopii',
+    'encyclopedia.templateCopy.finished': 'Kopii finiĝis'
 };
