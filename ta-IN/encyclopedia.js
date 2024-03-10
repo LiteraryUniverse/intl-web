@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'இது ஒரு வார்ப்புரு பண்பாடு',
     'encyclopedia.templateCopy.modalTitle': 'வார்ப்புரு உள்ளடக்கத்தை நகலெடு',
     'encyclopedia.templateCopy.description': 'இந்த வார்ப்புருவின் உள்ளடக்கத்தை உங்கள் வாழ்க்கையின் பலமாக்க வார்ப்புருவில் நகலெடுக்கவும்.',
-    'encyclopedia.templateCopy.targetUniverse': 'நகலெடுவல் வார்ப்புரு'
+    'encyclopedia.templateCopy.targetUniverse': 'நகலெடுவல் வார்ப்புரு',
+    'encyclopedia.templateCopy.finished': 'நகலெடுக்கல் முடிந்தது'
 };
