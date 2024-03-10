@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Ito ay isang uniberso ng template',
     'encyclopedia.templateCopy.modalTitle': 'Kopyahin ang nilalaman ng pambansang aklatan',
     'encyclopedia.templateCopy.description': 'Kopyahin ang nilalaman ng pambansang aklatan na ito sa iyong uniberso upang palawakin ito.',
-    'encyclopedia.templateCopy.targetUniverse': 'Unibersong pagkopyahan'
+    'encyclopedia.templateCopy.targetUniverse': 'Unibersong pagkopyahan',
+    'encyclopedia.templateCopy.finished': 'Pagkopya natapos'
 };
