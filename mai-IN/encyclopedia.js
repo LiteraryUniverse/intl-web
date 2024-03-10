@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'यह एक टेम्पलेट ब्रह्माण्ड है',
     'encyclopedia.templateCopy.modalTitle': 'ज्ञानकोश की सामग्री की कॉपी करें',
     'encyclopedia.templateCopy.description': 'इस ज्ञानकोश की सामग्री को अपने ब्रह्माण्ड में कॉपी करें और इसे समृद्ध करें।',
-    'encyclopedia.templateCopy.targetUniverse': 'कॉपी करने के लिए ब्रह्माण्ड'
+    'encyclopedia.templateCopy.targetUniverse': 'कॉपी करने के लिए ब्रह्माण्ड',
+    'encyclopedia.templateCopy.finished': 'प्रतिलिपि अंतिमित हो गइल'
 };
