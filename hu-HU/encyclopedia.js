@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Ez egy sablon univerzum',
     'encyclopedia.templateCopy.modalTitle': 'Enciklopédia tartalmának másolása',
     'encyclopedia.templateCopy.description': 'Másolja ennek az enciklopédiának a tartalmát az univerzumába, hogy gazdagítsa azt.',
-    'encyclopedia.templateCopy.targetUniverse': 'Univerzum, amibe másolni szeretné'
+    'encyclopedia.templateCopy.targetUniverse': 'Univerzum, amibe másolni szeretné',
+    'encyclopedia.templateCopy.finished': 'A másolás befejeződött'
 };
