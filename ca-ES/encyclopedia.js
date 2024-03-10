@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Aquest és un univers template',
     'encyclopedia.templateCopy.modalTitle': 'Copia el contingut de l\'enciclopèdia',
     'encyclopedia.templateCopy.description': 'Copia el contingut d\'aquesta enciclopèdia al teu univers per enriquir-lo.',
-    'encyclopedia.templateCopy.targetUniverse': 'Univers on copiar'
+    'encyclopedia.templateCopy.targetUniverse': 'Univers on copiar',
+    'encyclopedia.templateCopy.finished': 'Còpia finalitzada'
 };
