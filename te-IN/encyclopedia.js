@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'ఇది ఒక టెంప్లేట్ యూనివర్సు',
     'encyclopedia.templateCopy.modalTitle': 'ఎన్సైక్లోపీడియా కంటెంట్ ను కాపీ చేయండి',
     'encyclopedia.templateCopy.description': 'మీ యూనివర్సులో ఈ ఎన్సైక్లోపీడియా కంటెంట్ ను కాపీ చేయడం ద్వారా దానిని పుష్టించండి.',
-    'encyclopedia.templateCopy.targetUniverse': 'కాపీ చేయడానికి యూనివర్సు'
+    'encyclopedia.templateCopy.targetUniverse': 'కాపీ చేయడానికి యూనివర్సు',
+    'encyclopedia.templateCopy.finished': 'నకలు ముగింపు చేయబడింది'
 };
