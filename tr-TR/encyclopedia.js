@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Bu bir şablon evrenidir',
     'encyclopedia.templateCopy.modalTitle': 'Ansiklopedi içeriğini kopyala',
     'encyclopedia.templateCopy.description': 'Bu ansiklopedinin içeriğini evreninize kopyalayarak zenginleştirin.',
-    'encyclopedia.templateCopy.targetUniverse': 'Kopyalanacak evren'
+    'encyclopedia.templateCopy.targetUniverse': 'Kopyalanacak evren',
+    'encyclopedia.templateCopy.finished': 'Kopyalama tamamlandı'
 };
