@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Tai yra šablonų visata',
     'encyclopedia.templateCopy.modalTitle': 'Nukopijuoti enciklopedijos turinį',
     'encyclopedia.templateCopy.description': 'Nukopijuokite šios enciklopedijos turinį į savo visatą, kad ją papildytumėte.',
-    'encyclopedia.templateCopy.targetUniverse': 'Visata, į kurią kopijuoti'
+    'encyclopedia.templateCopy.targetUniverse': 'Visata, į kurią kopijuoti',
+    'encyclopedia.templateCopy.finished': 'Kopijavimas baigtas'
 };
