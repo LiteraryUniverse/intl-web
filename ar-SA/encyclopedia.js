@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'هذا كون قالب',
     'encyclopedia.templateCopy.modalTitle': 'نسخ محتوى الموسوعة',
     'encyclopedia.templateCopy.description': 'انسخ محتوى هذه الموسوعة إلى كونك لإثراءه.',
-    'encyclopedia.templateCopy.targetUniverse': 'الكون المستهدف للنسخ إليه'
+    'encyclopedia.templateCopy.targetUniverse': 'الكون المستهدف للنسخ إليه',
+    'encyclopedia.templateCopy.finished': 'انتهاء عملية النسخ'
 };
