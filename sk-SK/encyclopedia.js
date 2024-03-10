@@ -160,5 +160,6 @@ other {je # položiek}
     'encyclopedia.settings.templateCheckbox': 'Toto je šablónový vesmír',
     'encyclopedia.templateCopy.modalTitle': 'Kopírovať obsah encyklopédie',
     'encyclopedia.templateCopy.description': 'Skopírujte obsah tejto encyklopédie do vášho vesmíru, aby ste ho obohatili.',
-    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do ktorého sa má skopírovať'
+    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do ktorého sa má skopírovať',
+    'encyclopedia.templateCopy.finished': 'Kopírovanie dokončené'
 };
