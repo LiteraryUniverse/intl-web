@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Seo saolra teimpléad é',
     'encyclopedia.templateCopy.modalTitle': 'Cóipeáil ábhar an einciclopaidéara',
     'encyclopedia.templateCopy.description': 'Cóipeáil ábhar an einciclopaidéara seo isteach i do shaolra chun é a shaibhriú.',
-    'encyclopedia.templateCopy.targetUniverse': 'Saolra le cóipeáil chuig'
+    'encyclopedia.templateCopy.targetUniverse': 'Saolra le cóipeáil chuig',
+    'encyclopedia.templateCopy.finished': 'Críochnaithe cóipeáil'
 };
