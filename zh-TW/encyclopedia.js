@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': '這是一個範本宇宙',
     'encyclopedia.templateCopy.modalTitle': '複製百科全書內容',
     'encyclopedia.templateCopy.description': '將此百科全書的內容複製到您的宇宙中以豐富它。',
-    'encyclopedia.templateCopy.targetUniverse': '要複製到的宇宙'
+    'encyclopedia.templateCopy.targetUniverse': '要複製到的宇宙',
+    'encyclopedia.templateCopy.finished': '複製完成'
 };
