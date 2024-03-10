@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Este es un universo de plantilla',
     'encyclopedia.templateCopy.modalTitle': 'Copiar contenido de la enciclopedia',
     'encyclopedia.templateCopy.description': 'Copia el contenido de esta enciclopedia en tu universo para enriquecerlo.',
-    'encyclopedia.templateCopy.targetUniverse': 'Universo de destino para copiar'
+    'encyclopedia.templateCopy.targetUniverse': 'Universo de destino para copiar',
+    'encyclopedia.templateCopy.finished': 'Copia finalizada'
 };
