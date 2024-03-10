@@ -157,5 +157,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Toto je šablona vesmíru',
     'encyclopedia.templateCopy.modalTitle': 'Kopírovat obsah encyklopedie',
     'encyclopedia.templateCopy.description': 'Zkopírujte obsah této encyklopedie do svého vesmíru, aby jste ho obohatili.',
-    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do kterého se má zkopírovat'
+    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do kterého se má zkopírovat',
+    'encyclopedia.templateCopy.finished': 'Kopírování dokončeno'
 };
