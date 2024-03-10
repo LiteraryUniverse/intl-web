@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Đây là một vũ trụ mẫu',
     'encyclopedia.templateCopy.modalTitle': 'Sao chép nội dung bách khoa toàn thư',
     'encyclopedia.templateCopy.description': 'Sao chép nội dung của bách khoa toàn thư này vào vũ trụ của bạn để làm giàu nó.',
-    'encyclopedia.templateCopy.targetUniverse': 'Vũ trụ để sao chép đến'
+    'encyclopedia.templateCopy.targetUniverse': 'Vũ trụ để sao chép đến',
+    'encyclopedia.templateCopy.finished': 'Hoàn thành sao chép'
 };
