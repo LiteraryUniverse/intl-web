@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'དཔེ་སྐྱོང་བྱེད་པ་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར།',
     'encyclopedia.templateCopy.modalTitle': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་བརྗོད་པ།',
     'encyclopedia.templateCopy.description': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བརྗོད་པ།',
-    'encyclopedia.templateCopy.targetUniverse': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་ལས་འགན་བྱེད་པ།'
+    'encyclopedia.templateCopy.targetUniverse': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་ལས་འགན་བྱེད་པ།',
+    'encyclopedia.templateCopy.finished': 'ཚེག་གི་བསྐྱར་འཇུག་བཀོད་པའི་འཛུལ་སྤྱོད་བསྐུལ།'
 };
