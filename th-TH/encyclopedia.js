@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'นี่คือจักรวาลเทมเพลต',
     'encyclopedia.templateCopy.modalTitle': 'คัดลอกเนื้อหาสารานุกรม',
     'encyclopedia.templateCopy.description': 'คัดลอกเนื้อหาของสารานุกรมนี้ไปยังจักรวาลของคุณเพื่อเพิ่มความสมบูรณ์',
-    'encyclopedia.templateCopy.targetUniverse': 'จักรวาลที่จะคัดลอกไปยัง'
+    'encyclopedia.templateCopy.targetUniverse': 'จักรวาลที่จะคัดลอกไปยัง',
+    'encyclopedia.templateCopy.finished': 'การคัดลอกเสร็จสิ้น'
 };
