@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'આ એક ટેમ્પલેટ યુનિવર્સ છે',
     'encyclopedia.templateCopy.modalTitle': 'એન્સાયક્લોપીડિયાની સામગ્રી કૉપિ કરો',
     'encyclopedia.templateCopy.description': 'આ એન્સાયક્લોપીડિયાની સામગ્રીને તમારા યુનિવર્સમાં કૉપિ કરો અને તેને વધારો આપો.',
-    'encyclopedia.templateCopy.targetUniverse': 'કૉપિ કરવા માટેનું યુનિવર્સ'
+    'encyclopedia.templateCopy.targetUniverse': 'કૉપિ કરવા માટેનું યુનિવર્સ',
+    'encyclopedia.templateCopy.finished': 'કોપીંગ પૂર્ણ થઈ ગઈ'
 };
