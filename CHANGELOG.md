@@ -1,5 +1,17 @@
 # Changelog for languages
 
+## 2024-02-XX - v2.12.1
+
+* `story.status.inProgress` term updated
+
+## 2024-02-09 - v2.12.0
+
+* Updated `settings.languages.notice` to include mention of AI generated translations
+* Added Traditional Chinese to the language list
+* Moved Indonesian, Ukranian, Dutch, Italian, Finnish, Estonia, Hungarian, Norwegian, Swedish, Esperanto, Vietnamese,
+  Traditional Chinese and Korean to the language list due to translations by AI
+* Activated the above mentioned languages in code
+
 ## 2024-02-08 - v2.11.1
 
 * Added new strings for legal documents

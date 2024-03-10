@@ -167,5 +167,6 @@ export default {
   'encyclopedia.templateCopy.modalTitle': 'Copy encyclopedia content',
   'encyclopedia.templateCopy.description':
     'Copy content of this encyclopedia into your universe to enrich it.',
-  'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to'
+  'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to',
+  'encyclopedia.templateCopy.finished': 'Copying finished'
 }
