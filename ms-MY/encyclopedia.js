@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Ini adalah sempadan templat',
     'encyclopedia.templateCopy.modalTitle': 'Salin kandungan ensiklopedia',
     'encyclopedia.templateCopy.description': 'Salin kandungan ensiklopedia ini ke alam semesta anda untuk memperkayakannya.',
-    'encyclopedia.templateCopy.targetUniverse': 'Alam semesta untuk disalin ke'
+    'encyclopedia.templateCopy.targetUniverse': 'Alam semesta untuk disalin ke',
+    'encyclopedia.templateCopy.finished': 'Penyalinan selesai'
 };
