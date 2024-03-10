@@ -155,5 +155,6 @@ export default {
     'encyclopedia.settings.templateCheckbox': 'Dette er et skabelonunivers',
     'encyclopedia.templateCopy.modalTitle': 'Kopier encyklopædiindhold',
     'encyclopedia.templateCopy.description': 'Kopier indholdet af denne encyklopædi ind i dit univers for at berige det.',
-    'encyclopedia.templateCopy.targetUniverse': 'Univers at kopiere til'
+    'encyclopedia.templateCopy.targetUniverse': 'Univers at kopiere til',
+    'encyclopedia.templateCopy.finished': 'Kopiering afsluttet'
 };
