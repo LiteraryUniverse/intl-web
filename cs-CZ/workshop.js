@@ -286,5 +286,6 @@ export default {
     'workshop.ownWork': 'Vlastní díla',
     'workshop.list.thumbs': 'Obrázkový seznam',
     'workshop.list.list': 'Stručný seznam',
-    'workshop.fanfiction.new': 'Vytvořit novou fan fikci'
+    'workshop.fanfiction.new': 'Vytvořit novou fan fikci',
+    'workshop.videoTrailerLink': 'Odkaz na video trailer (Youtube nebo Vimeo)'
 };
