@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Eget arbeid',
     'workshop.list.thumbs': 'Miniatyrbilder liste',
     'workshop.list.list': 'Kort liste',
-    'workshop.fanfiction.new': 'Opprett en ny fanfiksjon'
+    'workshop.fanfiction.new': 'Opprett en ny fanfiksjon',
+    'workshop.videoTrailerLink': 'Lenke til videotrailer (Youtube eller Vimeo)'
 };
