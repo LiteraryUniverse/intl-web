@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Công việc của bạn',
     'workshop.list.thumbs': 'Danh sách hình thu nhỏ',
     'workshop.list.list': 'Danh sách ngắn',
-    'workshop.fanfiction.new': 'Tạo một fan fiction mới'
+    'workshop.fanfiction.new': 'Tạo một fan fiction mới',
+    'workshop.videoTrailerLink': 'Liên kết video trailer (Youtube hoặc Vimeo)'
 };
