@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'अपना काम',
     'workshop.list.thumbs': 'थंबनेल सूची',
     'workshop.list.list': 'संक्षेप सूची',
-    'workshop.fanfiction.new': 'एक नई फैन फिक्शन बनाएं'
+    'workshop.fanfiction.new': 'एक नई फैन फिक्शन बनाएं',
+    'workshop.videoTrailerLink': 'वीडियो ट्रेलर लिंक (Youtube या Vimeo)'
 };
