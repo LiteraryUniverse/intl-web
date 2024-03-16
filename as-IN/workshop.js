@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'নিজস্ব কাম',
     'workshop.list.thumbs': 'থাম্বনেইল তালিকা',
     'workshop.list.list': 'সংক্ষিপ্ত তালিকা',
-    'workshop.fanfiction.new': 'নতুন ফেন ফিকচন সৃষ্টি কৰক'
+    'workshop.fanfiction.new': 'নতুন ফেন ফিকচন সৃষ্টি কৰক',
+    'workshop.videoTrailerLink': 'ভিডিও ট্রেলার লিংক (Youtube অথবা Vimeo)'
 };
