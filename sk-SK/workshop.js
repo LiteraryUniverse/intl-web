@@ -284,5 +284,6 @@ export default {
     'workshop.ownWork': 'Vlastné dielo',
     'workshop.list.thumbs': 'Zoznam miniatúr',
     'workshop.list.list': 'Krátky zoznam',
-    'workshop.fanfiction.new': 'Vytvoriť novú fan fiction'
+    'workshop.fanfiction.new': 'Vytvoriť novú fan fiction',
+    'workshop.videoTrailerLink': 'Odkaz na video ukážku (Youtube alebo Vimeo)'
 };
