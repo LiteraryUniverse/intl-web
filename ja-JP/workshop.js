@@ -269,5 +269,6 @@ export default {
     'workshop.ownWork': '自分の作品',
     'workshop.list.thumbs': 'サムネイルリスト',
     'workshop.list.list': '短いリスト',
-    'workshop.fanfiction.new': '新しいファンフィクションを作成する'
+    'workshop.fanfiction.new': '新しいファンフィクションを作成する',
+    'workshop.videoTrailerLink': 'ビデオトレーラーリンク（YoutubeまたはVimeo）'
 };
