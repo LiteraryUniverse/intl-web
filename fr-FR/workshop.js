@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Travail personnel',
     'workshop.list.thumbs': 'Liste de vignettes',
     'workshop.list.list': 'Liste courte',
-    'workshop.fanfiction.new': 'Créer une nouvelle fanfiction'
+    'workshop.fanfiction.new': 'Créer une nouvelle fanfiction',
+    'workshop.videoTrailerLink': 'Lien de la bande-annonce vidéo (Youtube ou Vimeo)'
 };
