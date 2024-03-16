@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Savo darbas',
     'workshop.list.thumbs': 'Miniatiūrų sąrašas',
     'workshop.list.list': 'Trumpas sąrašas',
-    'workshop.fanfiction.new': 'Kurti naują fanų fikciją'
+    'workshop.fanfiction.new': 'Kurti naują fanų fikciją',
+    'workshop.videoTrailerLink': 'Vaizdo treilerio nuoroda (Youtube arba Vimeo)'
 };
