@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Saját munka',
     'workshop.list.thumbs': 'Bélyegképek listája',
     'workshop.list.list': 'Rövid lista',
-    'workshop.fanfiction.new': 'Új fan fiction létrehozása'
+    'workshop.fanfiction.new': 'Új fan fiction létrehozása',
+    'workshop.videoTrailerLink': 'Videó előzetes link (Youtube vagy Vimeo)'
 };
