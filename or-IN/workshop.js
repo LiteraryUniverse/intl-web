@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Own work',
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.fanfiction.new': 'Create a new fan fiction',
+    'workshop.videoTrailerLink': 'ଭିଡ଼ିଓ ଟ୍ରେଲର ଲିଙ୍କ (Youtube ବା Vimeo)'
 };
