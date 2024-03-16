@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'do\'e gunka',
     'workshop.list.thumbs': 'lo liste be lo nu cilre',
     'workshop.list.list': 'lo liste',
-    'workshop.fanfiction.new': 'lo nu creka lo fanva'
+    'workshop.fanfiction.new': 'lo nu creka lo fanva',
+    'workshop.videoTrailerLink': 'Link la video trailer (Youtube be\'o Vimeo)'
 };
