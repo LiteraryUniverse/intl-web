@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Propra laboro',
     'workshop.list.thumbs': 'Listo de miniaturoj',
     'workshop.list.list': 'Mallonga listo',
-    'workshop.fanfiction.new': 'Krei novan fanfikcion'
+    'workshop.fanfiction.new': 'Krei novan fanfikcion',
+    'workshop.videoTrailerLink': 'Ligilo al video-trailero (Youtube aŭ Vimeo)'
 };
