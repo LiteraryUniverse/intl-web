@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Sariling gawa',
     'workshop.list.thumbs': 'Listahan ng mga thumbnail',
     'workshop.list.list': 'Maikling listahan',
-    'workshop.fanfiction.new': 'Lumikha ng bagong fan fiction'
+    'workshop.fanfiction.new': 'Lumikha ng bagong fan fiction',
+    'workshop.videoTrailerLink': 'Link ng video trailer (Youtube o Vimeo)'
 };
