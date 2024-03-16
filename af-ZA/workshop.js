@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Eie werk',
     'workshop.list.thumbs': 'Duimnaillys',
     'workshop.list.list': 'Kort lys',
-    'workshop.fanfiction.new': 'Skep \'n nuwe fanfiksie'
+    'workshop.fanfiction.new': 'Skep \'n nuwe fanfiksie',
+    'workshop.videoTrailerLink': 'Skakel na video-aankondiging (Youtube of Vimeo)'
 };
