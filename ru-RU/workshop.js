@@ -300,5 +300,6 @@ export default {
     'workshop.ownWork': 'Моё произведение',
     'workshop.list.thumbs': 'Список миниатюр',
     'workshop.list.list': 'Краткий список',
-    'workshop.fanfiction.new': 'Создать новый фанфик'
+    'workshop.fanfiction.new': 'Создать новый фанфик',
+    'workshop.videoTrailerLink': 'Ссылка на трейлер видео (Youtube или Vimeo)'
 };
