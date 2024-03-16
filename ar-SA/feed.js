@@ -1,8 +1,9 @@
 export default {
-    'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'تغذية',
+    'feed.post.new': 'منشور جديد',
+    'feed.post.like': 'إعجاب بالمنشور',
+    'feed.post.unlike': 'إلغاء إعجاب بالمنشور',
+    'feed.post.send': 'نشر',
+    'feed.empty': 'لا توجد مدخلات في الخلاصة.',
+    'feed.placeholder': 'ماذا يدور في ذهنك؟'
 };

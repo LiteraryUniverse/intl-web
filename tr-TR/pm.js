@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
-  }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
+    'pm.conversation': 'Sohbet',
+    'pm.showolder': 'Daha eski mesajları göster',
+    'pm.errors.saysomething': 'Gerçekten bir şeyler söylemelisin...',
+    'pm.errors.addrecipient': 'En az bir diğer kullanıcı eklemelisin.',
+    'pm.message': 'Mesaj',
+    'pm.send.message': 'Mesaj gönder',
+    'pm.messages.own': 'Mesajlarınız',
+    'pm.conversations.none': 'Şu anda hiç kimseyle konuşmuyorsunuz.',
+    'pm.to': 'Kime:',
+    'pm.with': 'Şununla konuşuyorsunuz:',
+    'pm.send': 'Gönder',
+    'pm.conversations.unreadCount': `{count, plural,
+    zero {okunmamış konuşmanız bulunuyor!<!---->}
+    one {<!---->okunmamış bir konuşma bulunuyor!<!---->}
+    other {<!----># okunmamış konuşmalar bulunuyor!<!---->}
+  }<!---->.`,
+    'pm.form.minimumParticipants': 'Bir alıcı seçmeniz gerekiyor.',
     'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
     one {one person}
     other {# people}
   } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.new.aria': 'Yeni konuşma',
+    'pm.new.buttonTitle': 'Yeni bir konuşma başlat'
 };

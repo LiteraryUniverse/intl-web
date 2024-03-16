@@ -16,10 +16,10 @@ export default {
     other {# unread conversations}
   }.`,
     'pm.form.minimumParticipants': '수신자를 선택해야 합니다.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
+    'pm.form.maxParticipants': `대화에서는 최대 {maxPeople, plural,
+    one {한 명의 사람}
+    other {# 사람들}
+  } 가 가능합니다.`,
     'pm.new.aria': '새 대화',
     'pm.new.buttonTitle': '새 대화 시작'
 };

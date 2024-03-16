@@ -1,69 +1,69 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.required': 'Påkrevd felt',
+    'form.validator.mustBeNumber': 'Må være et nummer',
+    'form.validator.minNumber': 'Må være større enn {min, number}',
+    'form.validator.maxNumber': 'Må være mindre enn {max, number}',
+    'form.validator.maxLength': `Skal være mindre enn {max, number} {what, select,
+    characters {tegn}
+    tags {koder}
+    genres {sjangere}
+    numbers {tall}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Skal være minst {min, number} {what, select,
+    characters {tegn}
+    tags {koder}
+    genres {sjangere}
+    genre {sjanger}
+    numbers {tall}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.email': 'Må være en gyldig e-postadresse',
+    'form.validator.url': 'Må være en gyldig URL',
+    'form.validator.slug': 'Må være en gyldig del av URL',
+    'form.submitting.signup': 'Oppretter konto...',
+    'form.submitting.signin': 'Logger inn...',
+    'form.submitting.default': 'Sender...',
+    'form.submitting.sending': 'Sender...',
+    'form.validator.whitespace': 'Må ikke ha mellomrom',
+    'form.validator.zipCode': 'Må være en gyldig postnummer',
+    'form.validator.isbn': 'Vi godtar bare 10 eller 13 versjon av ISBN',
+    'form.validator.btc': 'Dette er ikke en gyldig BTC-adresse.',
+    'form.validator.eth': 'Dette er ikke en gyldig ETH-adresse.',
+    'form.weakPassword': 'Dette passordet ser svakt ut. Vennligst vurder å gjøre det sterkere ved å legge til tall og spesialtegn.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} is not a valid date',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
-    'simpleschema.noDecimal': '{label} must be an integer',
-    'simpleschema.notAllowed': '{value} is not an allowed value',
-    'simpleschema.expectedString': '{label} must be a string',
-    'simpleschema.expectedNumber': '{label} must be a number',
-    'simpleschema.expectedBoolean': '{label} must be a boolean',
-    'simpleschema.expectedArray': '{label} must be an array',
-    'simpleschema.expectedObject': '{label} must be an object',
-    'simpleschema.expectedConstructor': '{label} must be a {type}',
-    'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
-    'simpleschema.regEx.0': '{label} failed regular expression validation',
-    'simpleschema.regEx.1': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.2': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.3': '{label} must be a valid domain',
-    'simpleschema.regEx.4': '{label} must be a valid domain',
-    'simpleschema.regEx.5': '{label} must be a valid IPv4 or IPv6 address',
-    'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
-    'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
-    'simpleschema.regEx.8': '{label} must be a valid URL',
-    'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
+    'simpleschema.required': '{label} er påkrevd',
+    'simpleschema.minString': '{label} må være minst {min, number} tegn',
+    'simpleschema.maxString': '{label} kan ikke overstige {max, number} tegn',
+    'simpleschema.minNumber': '{label} må være minst {min, number}',
+    'simpleschema.maxNumber': '{label} kan ikke overstige {max, number}',
+    'simpleschema.minNumberExclusive': '{label} må være større enn {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} må være mindre enn {max, number}',
+    'simpleschema.minDate': '{label} må være på eller etter {min, date}',
+    'simpleschema.maxDate': '{label} kan ikke være etter {max, date}',
+    'simpleschema.badDate': '{label} er ikke en gyldig dato',
+    'simpleschema.minCount': 'Du må spesifisere minst {minCount, number} verdier',
+    'simpleschema.maxCount': 'Du kan ikke spesifisere mer enn {maxCount, number} verdier',
+    'simpleschema.noDecimal': '{label} må være et heltall',
+    'simpleschema.notAllowed': '{value} er ikke en tillatt verdi',
+    'simpleschema.expectedString': '{label} må være en streng',
+    'simpleschema.expectedNumber': '{label} må være et nummer',
+    'simpleschema.expectedBoolean': '{label} må være en boolean',
+    'simpleschema.expectedArray': '{label} må være en liste',
+    'simpleschema.expectedObject': '{label} må være et objekt',
+    'simpleschema.expectedConstructor': '{label} må være en {type}',
+    'simpleschema.keyNotInSchema': '{key} er ikke tillatt i skjemaet',
+    'simpleschema.notUnique': '{label} må være unik',
+    'simpleschema.regEx.0': '{label} mislykket validering av regulært uttrykk',
+    'simpleschema.regEx.1': '{label} må være en gyldig e-postadresse',
+    'simpleschema.regEx.2': '{label} må være en gyldig e-postadresse',
+    'simpleschema.regEx.3': '{label} må være en gyldig domene',
+    'simpleschema.regEx.4': '{label} må være en gyldig domene',
+    'simpleschema.regEx.5': '{label} må være en gyldig IPv4- eller IPv6-adresse',
+    'simpleschema.regEx.6': '{label} må være en gyldig IPv4-adresse',
+    'simpleschema.regEx.7': '{label} må være en gyldig IPv6-adresse',
+    'simpleschema.regEx.8': '{label} må være en gyldig URL',
+    'simpleschema.regEx.9': '{label} må være en gyldig alfanumerisk ID'
 };

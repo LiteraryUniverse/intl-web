@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Сожалеем, но данная функция недоступна в настоящий момент. Мы работаем над тем, чтобы сделать её доступной в ближайшее время.',
     'common.nothingfound': 'Ничего не найдено',
     'common.explore': 'Проводник',
-    'common.by': 'от ',
+    'common.by': 'от {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Блокнот',
     'common.scratchpad.own': 'Ваш блокнот',
@@ -219,7 +219,7 @@ export default {
     'common.defaultLanguage': 'Язык по умолчанию',
     'signin.web3.signMessage': 'Пожалуйста, подтвердите, что вы хотите войти в Literary Universe, используя свой кошелёк в качестве метода авторизации. Код: {code}',
     'common.web3.confirmationCode': 'Код подтверждения: {code}',
-    'common.roadmap': 'План разработки',
+    'common.roadmap': 'Карта разработки',
     'common.luStatsIFrameOptOut': 'Отказ в регистрации статистики Literary Universe',
     'common.image': 'Изображение',
     'common.home': 'Главная',
@@ -256,5 +256,8 @@ export default {
     'common.thankYou': 'Спасибо!',
     'common.seeYouAgain': 'Увидимся!',
     'email.hello': 'Здравствуйте {username},',
-    'common.back': 'Назад'
+    'common.back': 'Назад',
+    'console.stop': 'Стоп!',
+    'console.explain': 'Это функция браузера, предназначенная для разработчиков. Если кто-то сказал вам скопировать-вставить что-то сюда, чтобы включить какую-то функцию Literary Universe или «взломать» чью-то учётную запись, это мошенничество, и он получит доступ к вашей учётной записи Literary Universe.',
+    'common.coping': 'Копирование...'
 }    /* eslint-enable max-len */;

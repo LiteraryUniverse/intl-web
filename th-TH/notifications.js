@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'สร้างข่าวเร็วใหม่',
+  'flashnews.startsAt': 'เริ่มแสดงข้อความนี้เมื่อ',
+  'flashnews.endsAt': 'หยุดแสดงข้อความนี้เมื่อ',
+  'flashnews.newLanguage': 'เลือกภาษาใหม่ที่ต้องการเพิ่ม',
+  'flashnews.onlyDisplayOn': 'ข่าวจะถูกแสดงเฉพาะในภาษาที่เลือกด้านล่างเท่านั้น (หากมีการเลือก) ไม่มีข่าวแสดงขึ้นแม้แต่ภาษาเริ่มต้นในภาษาอื่น ๆ',
+  'notifications.menu.all': 'การแจ้งเตือนทั้งหมด',
+  'notifications.menu.following': 'ติดตาม',
+  'notifications.menu.workshop': 'เวิร์กช็อป',
+  'notifications.menu.news': 'ข่าวและข้อมูลอัพเดต',
+  'notifications.menu.markUnread': 'ทำเครื่องหมายว่ายังไม่ได้อ่าน',
+  'notifications.menu.markRead': 'ทำเครื่องหมายว่าอ่านแล้ว',
+  'notifications.menu.delete': 'ลบการแจ้งเตือน',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'เรื่องของคุณ {storyName} ถูกตั้งลงอยู่ในการพักหลังจากไม่มีกิจกรรมเป็นเวลา 6 เดือน',
+  'notification.workshopStoryStatus.toCancelled': 'เรื่องของคุณ {storyName} ถูกตั้งลงถูกยกเลิกอัตโนมัติหลังจากไม่มีกิจกรรมเป็นเวลาหนึ่งปี',
+  'notification.followingStoryStatus.toHiatus': '{storyName} อยู่ในการพักหลัง',
+  'notification.followingStoryStatus.toCancelled': '{storyName} ได้ถูกยกเลิกแล้ว',
+  'notification.followingNewChapter.new': 'ตอนใหม่ใน {storyName} ได้ถูกเผยแพร่แล้ว',
+  'notification.workshopStory.newComment': 'ทำคำแสดงความคิดเห็นใน {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'ส่งคำขอเป็นเพื่อนถึงคุณ',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'ไปที่เรื่อง'
 };

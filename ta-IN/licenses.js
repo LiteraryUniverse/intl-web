@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'Creative Commons Attribution-NonCommercial-NoDerivs 4.0',
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.lu-c': 'நீங்கள் உங்கள் வேலையை விரும்பும்போது விரும்புவதன் மூலம் உங்கள் உரிமைகளை பாதுகாக்குகின்ற ஒரு நியாய உரிமை அனுமதி. இந்த உரிமை உங்களைக் கதைகளை விற்றுக்கொள்ள மற்றும் இலக்கு உரிமையை பெற வழிவகுக்கின்றது.',
+    'licenses.name.cc0': 'எந்த உரிமையுமில்லை - CC0 1.0',
+    'licenses.cc0': 'உங்கள் வேலையை பொது படைக்க வைக்கவும். உரிமையை வைப்பதுபோல் எண்ணிக்கையான அனுமதிகளை தேர்வு செய்யும்போது உரிமை உரிமையாளர்களுக்கு விருப்பமான மிகுந்த உரிமையை வைத்துக் கொடுக்குகின்ற CC உரிமைகளுடன் எதிர்பார்க்கப்படும் CC0 என்பது உரிமையை முழுமையாக விடுவிக்கும் மற்றும் கடவுச்சொல்லை வழங்குகின்றது.'
 };

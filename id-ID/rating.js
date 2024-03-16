@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Peringkat',
+    'rating.explained': 'Peringkat usia dan pembatasan.',
+    'rating.all': 'Semua',
+    'rating.desc.all': 'Dapat diakses oleh semua usia dan kelompok.',
+    'rating.teens': 'Remaja',
+    'rating.desc.teens': 'Cocok untuk penonton antara usia 12 dan 18 tahun.',
+    'rating.mature': 'Dewasa',
+    'rating.desc.mature': 'Mengandung tema-tema lanjutan, bahasa kasar, dan adegan implisit.',
+    'rating.explicit': 'Eksplisit',
+    'rating.desc.explicit': 'Mengandung adegan eksplisit.',
+    'rating.selection.all': 'Semua - Dapat diakses oleh semua usia dan kelompok.',
+    'rating.selection.teens': 'Remaja (12-18) - Cocok untuk penonton antara usia 12 dan 18 tahun.',
+    'rating.selection.mature': 'Dewasa (18+) - Mengandung tema-tema lanjutan, bahasa kasar, dan adegan implisit.',
+    'rating.selection.explicit': 'Eksplisit (21+) - Mengandung adegan eksplisit.'
 };

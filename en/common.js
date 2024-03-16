@@ -46,7 +46,7 @@ export default {
     'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
   'common.nothingfound': 'Nothing found',
   'common.explore': 'Explore',
-  'common.by': 'by ',
+  'common.by': 'by {author}',
   // keep the space at the end as username follows TODO: needs fixing
   'common.scratchpad': 'Scratchpad',
   'common.scratchpad.own': 'Your scratchpad',
@@ -284,5 +284,10 @@ export default {
   'common.seeYouAgain': 'See you again!',
 
   'email.hello': 'Hello {username},',
-  'common.back': 'Back'
+  'common.back': 'Back',
+
+  'console.stop': 'Stop!',
+  'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
+
+  'common.coping': 'Copying...'
 } /* eslint-enable max-len */

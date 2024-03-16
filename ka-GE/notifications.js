@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'ახალი სიახლეებისთვის შექმენით სიახლის გამოქვეყნება',
+  'flashnews.startsAt': 'მიიწვიეთ შეტყობინება იმ მომენტიდან როდესაც',
+  'flashnews.endsAt': 'შეაჩერეთ ამ შეტყობინების გამოქვეყნება იმ მომენტიდან როდესაც',
+  'flashnews.newLanguage': 'აირჩიეთ ახალი ენა დამატებად',
+  'flashnews.onlyDisplayOn': 'ამ სიახლის გამოქვეყნება მოხდება მხოლოდ არჩეული ენებით (თუ არამნაშინი მინიმუმ ერთი არჩეულია), სხვა ენებში არ გამოქვეყნება სიახლეები არაა, ჩვენს ტერმინებითა და მიზეზის მიხედვით',
+  'notifications.menu.all': 'ყველა შეტყობინება',
+  'notifications.menu.following': 'განათავსეთ',
+  'notifications.menu.workshop': 'სასწავლო',
+  'notifications.menu.news': 'სიახლეები და განახლებები',
+  'notifications.menu.markUnread': 'მომატებულია როგორც წაუკითხეთ',
+  'notifications.menu.markRead': 'მომატებულია როგორც წაკითხული',
+  'notifications.menu.delete': 'შეტყობინების წაშლა',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'თქვენი რომანი {storyName} -ზე ავტომატურად გაქვთ დაფარული პაუზა 6 თვის უმატებლობის შემდეგ',
+  'notification.workshopStoryStatus.toCancelled': 'თქვენი რომანი {storyName} -ზე ავტომატურად გაქვთ დაფარული გაუქმება 1 წელის უმატებლობის შემდეგ',
+  'notification.followingStoryStatus.toHiatus': '{storyName} პაუზაშია',
+  'notification.followingStoryStatus.toCancelled': '{storyName} გაუქმებულია',
+  'notification.followingNewChapter.new': 'ახალი თემა {storyName} -ში გამოქვეყნდა!',
+  'notification.workshopStory.newComment': 'კომენტარი აქვს მიმართებული {storyName}-ს',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'მეგობრის მოთხოვნა გადაგიგზავნათ',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'გადასვლა სიმასთლეზე'
 };

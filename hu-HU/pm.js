@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
-  }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.conversation': 'Beszélgetés',
+    'pm.showolder': 'Régebbi üzenetek megjelenítése',
+    'pm.errors.saysomething': 'Valamit tényleg mondanod kellene...',
+    'pm.errors.addrecipient': 'Legalább egy másik felhasználót hozzá kell adnod.',
+    'pm.message': 'Üzenet',
+    'pm.send.message': 'Üzenet küldése',
+    'pm.messages.own': 'A te üzeneteid',
+    'pm.conversations.none': 'Jelenleg senkivel sem beszélgetsz.',
+    'pm.to': 'Címzett:',
+    'pm.with': 'Beszélgetés vele:',
+    'pm.send': 'Küldés',
+    'pm.conversations.unreadCount': `{count, plural,
+    zero {Nincsenek olvasatlan beszélgetéseid.}
+    one {Egy olvasatlan beszélgetésed van.}
+    other {Olvasatlan beszélgetéseid vannak.}
+  }Olvasatlan beszélgetéseid vannak.`,
+    'pm.form.minimumParticipants': 'Ki kell választanod egy címzettet.',
+    'pm.form.maxParticipants': `Egy beszélgetésben legfeljebb {maxPeople, plural,
+    one {egy személy lehet}
+    other {# ember}
+  } .`,
+    'pm.new.aria': 'Új beszélgetés',
+    'pm.new.buttonTitle': 'Új beszélgetés indítása'
 };

@@ -1,8 +1,9 @@
 export default {
-    'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Makanan',
+    'feed.post.new': 'Entri baru',
+    'feed.post.like': 'Suka entri',
+    'feed.post.unlike': 'Batal suka entri',
+    'feed.post.send': 'Hantar',
+    'feed.empty': 'Tiada entri dalam feed.',
+    'feed.placeholder': 'Apa yang ada dalam fikiran anda?'
 };

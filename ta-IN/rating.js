@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'மதிப்பீடு',
+    'rating.explained': 'வயது மதிப்பு மற்றும் வரைபடம்.',
+    'rating.all': 'அனைத்து',
+    'rating.desc.all': 'அனைத்து வயதுகளுக்கும் மற்றும் குழுக்களுக்கும் பொருந்தும்.',
+    'rating.teens': 'இளமையர்கள்',
+    'rating.desc.teens': '12 முதல் 18 வயது பொருளாதார மக்களுக்கு பொருந்தும்.',
+    'rating.mature': 'மிகப் பெரிய',
+    'rating.desc.mature': 'முன்னரின் தொடர்பான தலைமைகள், தர்பாக்கு மொழி மற்றும் முடிவு காட்சிகளைக் கொண்டுள்ளது.',
+    'rating.explicit': 'தெரியாத',
+    'rating.desc.explicit': 'தெளிவான காட்சிகளைக் கொண்டுள்ளது.',
+    'rating.selection.all': 'அனைத்து - அனைத்து வயதுகளுக்கும் மற்றும் குழுக்களுக்கும் பொருந்தும்.',
+    'rating.selection.teens': 'இளமையர்கள் (12-18) - 12 முதல் 18 வயது பொருளாதார மக்களுக்கு பொருந்தும்.',
+    'rating.selection.mature': 'மிகப் பெரிய (18+) - முன்னரின் தொடர்பான தலைமைகள், தர்பாக்கு மொழி மற்றும் முடிவு காட்சிகளைக் கொண்டுள்ளது.',
+    'rating.selection.explicit': 'தெளிவான (21+) - தெளிவான காட்சிகளைக் கொண்டுள்ளது.'
 };

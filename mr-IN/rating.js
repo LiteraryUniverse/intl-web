@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'मुल्यांकन',
+    'rating.explained': 'वय मर्यादा आणि प्रतिबंध',
+    'rating.all': 'सर्व',
+    'rating.desc.all': 'सर्व वय आणि गटांसाठी प्रवेश्यात्प्राप्त.',
+    'rating.teens': 'किशोर',
+    'rating.desc.teens': '12 ते 18 वयोमध्ये अवगणनीय आणि उमवटी दृश्ये.',
+    'rating.mature': 'प्रौढ',
+    'rating.desc.mature': 'अग्रिम विषये, कचऱ्या भाषा आणि अंतर्निहित दृश्ये आहेत.',
+    'rating.explicit': 'स्पष्ट',
+    'rating.desc.explicit': 'स्पष्ट दृश्ये आहेत.',
+    'rating.selection.all': 'सर्व - सर्व वय आणि गटांसाठी प्रवेश्यात्प्राप्त.',
+    'rating.selection.teens': 'किशोर (12-18) - 12 ते 18 वयोमध्ये अवगणनीय आणि उमवटी दृश्ये.',
+    'rating.selection.mature': 'प्रौढ (18+) - अग्रिम विषये, कचऱ्या भाषा आणि अंतर्निहित दृश्ये आहेत.',
+    'rating.selection.explicit': 'स्पष्ट (21+) - स्पष्ट दृश्ये आहेत.'
 };

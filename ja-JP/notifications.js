@@ -5,23 +5,23 @@ export default {
   'flashnews.endsAt': 'このメッセージの表示を停止：',
   'flashnews.newLanguage': '追加する新しい言語を選択する',
   'flashnews.onlyDisplayOn': 'ニュースは、以下で選択された言語（選択されている場合）のみで表示され、他の言語ではデフォルト言語であっても表示されません。',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'notifications.menu.all': 'すべての通知',
+  'notifications.menu.following': 'フォロー中',
+  'notifications.menu.workshop': 'ワークショップ',
+  'notifications.menu.news': 'ニュースとアップデート',
+  'notifications.menu.markUnread': '未読としてマーク',
+  'notifications.menu.markRead': '既読としてマーク',
+  'notifications.menu.delete': '通知を削除',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'あなたの物語 {storyName} は、無活動状態が6か月続いた後、自動的に中断状態に設定されました。',
+  'notification.workshopStoryStatus.toCancelled': 'あなたの物語 {storyName} は、無活動状態が1年間続いた後、自動的にキャンセル状態に設定されました。',
+  'notification.followingStoryStatus.toHiatus': '{storyName} は中断状態です。',
+  'notification.followingStoryStatus.toCancelled': '{storyName} はキャンセルされました。',
+  'notification.followingNewChapter.new': '{storyName} に新しい章が公開されました！',
+  'notification.workshopStory.newComment': '{storyName}にコメントがありました。',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'あなたに友達リクエストが送信されました。',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'ストーリーに移動する'
 };

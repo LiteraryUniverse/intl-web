@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Keskustelu',
+    'pm.showolder': 'Näytä vanhemmat viestit',
+    'pm.errors.saysomething': 'Sinun pitäisi todella sanoa jotain...',
+    'pm.errors.addrecipient': 'Sinun on lisättävä vähintään yksi muu käyttäjä.',
+    'pm.message': 'Viesti',
+    'pm.send.message': 'Lähetä viesti',
+    'pm.messages.own': 'Sinun viestisi',
+    'pm.conversations.none': 'Et keskustele tällä hetkellä kenenkään kanssa.',
+    'pm.to': 'Vastaanottaja:',
+    'pm.with': 'Keskustelu henkilön kanssa:',
+    'pm.send': 'Lähetä',
+    'pm.conversations.unreadCount': `Sinulla on {count, plural,
+    zero {ei lukematonta keskustelua}
+    one {yksi lukematon keskustelu}
+    other {# lukematonta keskustelua}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Sinun on valittava vastaanottaja.',
+    'pm.form.maxParticipants': `Voit olla enintään {maxPeople, plural,
+    one {yksi henkilö}
+    other {# henkilöä}
+  } keskustelussa.`,
+    'pm.new.aria': 'Uusi keskustelu',
+    'pm.new.buttonTitle': 'Aloita uusi keskustelu'
 };

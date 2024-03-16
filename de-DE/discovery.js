@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Suche nach einem Universum',
     'discover.search.storyStatus': 'Fortschrittsstatus der Geschichte',
     'story.status.complete': 'Abgeschlossen',
-    'story.status.inProgress': 'In Bearbeitung',
+    'story.status.inProgress': 'Laufend',
     'discover.search.universeConnection': 'Verbindung der Geschichte mit dem Universum',
     'story.universeRelation.standalone': 'Eigenständige Geschichte',
     'story.universeRelation.fanFiction': 'Fan-Fiktion',

@@ -103,8 +103,9 @@ export default {
     incomplete_expired {There is something missing}
     trialing {Trial}
     past_due {We are missing your payment}
-    canceled {Cancelled}
+    cancelled {Cancelled}
     unpaid {Unpaid}
+    expired {Expired}
     other {}
   }`,
   'payments.changeMethod': 'Change payment method',
@@ -251,5 +252,18 @@ export default {
   'payment.universe.haveFans':
     'It is easier to get people to sponsor you if they are already interested in what you are doing. 100 fans adding your universe to their library is the starting line.',
   'payment.settings.yourFanClub': 'Your fan club',
-  'payment.settings.newWork': 'Create a new work'
+  'payment.settings.newWork': 'Create a new work',
+  'payment.amount.withNet': `{amount} (net: {netAmount})`,
+  'payment.fanClub.intro':
+    'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+  'payment.fanClub.tiers': 'Tiers',
+  'payment.fanClub.tierName': 'Tier name',
+  'payment.fanClub.createTier': 'Add tier',
+  'payment.fanClub.description': 'Tier description',
+  'payment.fanClub.picture': 'Tier picture',
+  'payment.fanClub.priceBreakdown':
+    'Subscriber will pay: {amount}. Platform fee is {fee}, you will get: {net}',
+  'payment.feeNotice':
+    "Please do note that this is an estimate and the actual fee might be different based on customer's payment type and additional charges from the pay gate.",
+  'payment.fanClub.perks': 'Perks'
 }

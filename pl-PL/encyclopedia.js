@@ -150,8 +150,15 @@ export default {
     other {{max, number}}
   } wpisy.`,
     'enc.entries.limitReached': 'Osiągnąłeś maksymalną dozwoloną liczbę wpisów do encyklopedii dla bieżącej subskrypcji.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Kontrolki encyklopedii',
+    'encyclopedia.pronunciation.title': 'Wymowa',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Praca w toku',
+    'encyclopedia.settings.templateLegend': 'Wszechświat szablonowy',
+    'encyclopedia.settings.templateDescription': 'Zezwól na kopiowanie zawartości tej encyklopedii do innych wszechświatów. Jest to najlepsze rozwiązanie, jeśli nie masz żadnych historii i chcesz stworzyć szablon do wykorzystania przez innych.',
+    'encyclopedia.settings.templateCheckbox': 'To jest wszechświat szablonowy',
+    'encyclopedia.templateCopy.modalTitle': 'Skopiuj zawartość encyklopedii',
+    'encyclopedia.templateCopy.description': 'Skopiuj zawartość tej encyklopedii do swojego wszechświata, aby go wzbogacić.',
+    'encyclopedia.templateCopy.targetUniverse': 'Wszechświat, do którego ma zostać skopiowana zawartość',
+    'encyclopedia.templateCopy.finished': 'Kopiowanie zakończone'
 };

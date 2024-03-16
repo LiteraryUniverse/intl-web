@@ -5,23 +5,23 @@ export default {
   'flashnews.endsAt': 'Arrêter l\'affichage de ce message à',
   'flashnews.newLanguage': 'Sélectionnez la nouvelle langue à ajouter',
   'flashnews.onlyDisplayOn': 'Les actualités ne seront affichées que dans les langues sélectionnées ci-dessous (s\'il y en a une sélectionnée), il n\'y aura pas d\'actualités affichées, même dans la langue par défaut, dans d\'autres langues.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
+  'notifications.menu.all': 'Toutes les notifications',
+  'notifications.menu.following': 'Suivis',
   'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'notifications.menu.news': 'Actualités et mises à jour',
+  'notifications.menu.markUnread': 'Marquer comme non lu',
+  'notifications.menu.markRead': 'Marquer comme lu',
+  'notifications.menu.delete': 'Supprimer la notification',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Votre histoire {storyName} a été automatiquement mise en pause après 6 mois d\'inactivité.',
+  'notification.workshopStoryStatus.toCancelled': 'Votre histoire {storyName} a été automatiquement annulée après un an d\'inactivité.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} est en pause.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} a été annulé.',
+  'notification.followingNewChapter.new': 'Nouveau chapitre dans {storyName} publié !',
+  'notification.workshopStory.newComment': 'a commenté sur {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'vous a envoyé une demande d\'ami.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Aller à l\'histoire'
 };

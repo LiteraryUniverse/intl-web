@@ -1,62 +1,62 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'discovery.meta.desc': 'പുതിയ കഥകളും യൂണിവേഴ്സുകളും കണ്ടെത്തുക.',
+    'discovery.universes.new': 'പുതിയ യൂണിവേഴ്സുകള്‍',
+    'discovery.stories.new': 'പുതിയ കഥകള്‍',
+    'discovery.stories.standalone.new': 'പുതിയ സ്വതന്ത്ര കഥകള്‍',
+    'discovery.stories.updated': 'അപ്‌ഡേറ്റ് ചെയ്ത കഥകള്‍',
+    'discovery.continue': 'വായിക്കുകയും തുടരുകയും',
+    'discovery.stories.similar.new': 'പരസ്യത്തിലുള്ള പുതിയ കഥകള്‍',
+    'discovery.stories.similar.regular': 'പരസ്യത്തിലുള്ള കഥകള്‍',
+    'story.estimatedReadingTime': `ഈ കഥ {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 മണിക്കൂർ ആക്കിയിരിക്കും എന്നാൽ }
+        other {# മണിക്കൂർക്ക് കൂടുതൽ സമയം ആവശ്യമാണ് എന്നാണ് }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+        =0 {0 മിനിറ്റ്}
+        one {1 മിനിറ്റ്}
+        other {# മിനിറ്റുകൾ}
+    } വായിക്കാൻ എടുക്കണം.`,
+    'story.estimatedReadingTime.explained': 'ശരാശരി വായന വേഗതയിൽ {avgReadingNum, number} വാക്കുകൾ പ്രതിമിനിടയാണ് അടിയന്തരം നൽകുന്നത്.',
+    'discover.search.text': 'തിരയൽ പദം',
+    'discover.searchStory.title': 'ഒരു കഥയിലേക്ക് തിരയൽ',
+    'discover.searchStory.description': 'കഥകൾ തിരയൽ',
+    'discover.searchUniverse.title': 'ഒരു യൂണിവേഴ്സിലേക്ക് തിരയൽ',
+    'discover.searchUniverse.description': 'യൂണിവേഴ്സുകൾ തിരയൽ',
+    'discover.search.storyStatus': 'കഥയുടെ പുരോഗതി സ്ഥിതി',
+    'story.status.complete': 'പൂർത്തിയായി',
+    'story.status.inProgress': 'പുരോഗതിയിലാണ്',
+    'discover.search.universeConnection': 'കഥയും യൂണിവേഴ്സും ബന്ധപ്പെടുത്തൽ',
+    'story.universeRelation.standalone': 'സ്വതന്ത്ര കഥ',
+    'story.universeRelation.fanFiction': 'ഫാൻ ഫിക്ഷൻ',
+    'story.universeRelation.universe': 'ഒരു യൂണിവേഴ്സിന്റെ ഭാഗമായി',
+    'discover.search.rating': 'പ്രായ രേഖകൾ',
+    'discover.search.license': 'പകർപ്പവകാശ ലൈസൻസ്',
+    'discover.search.language': 'ഭാഷ',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {നിങ്ങളുടെ പരമാവധി പരമാവധിയായിരിക്കുന്ന യൂണിവേഴ്സുകൾ താങ്കൾക്ക് പരിഗണിക്കുന്നതിന് പരമാവധി പരമാവധിയായിരിക്കുന്നവയാണ്}
+        one {1 യൂണിവേഴ്സ് കണ്ടെത്തി}
+        other {# യൂണിവേഴ്സുകൾ കണ്ടെത്തി}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {നിങ്ങളുടെ പരമാവധി പരമാവധിയായിരിക്കുന്ന കഥകൾ താങ്കൾക്ക് പരിഗണിക്കുന്നതിന് പരമാവധി പരമാവധിയായിരിക്കുന്നവയാണ്}
+        one {1 കഥ കണ്ടെത്തി}
+        other {# കഥകൾ കണ്ടെത്തി}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discover.viewSelection.aria': 'കാണുന്നതിന്',
+    'discover.searchDisplay.covers': 'കവറുകൾ പട്ടിക',
+    'discover.searchDisplay.list': 'സംക്ഷിപ്ത പട്ടിക',
+    'discover.includesAds': 'ഈ പ്രവർത്തനത്തിലെ ഉത്പന്ന സ്ഥലവേദ്യം അല്ലെങ്കിൽ മറ്റ് പ്രചാരണങ്ങൾ ഉൾപ്പെടുത്തുന്നു.',
+    'discovery.featured.universes': 'പ്രമുഖ വിശ്വങ്ങൾ',
+    'discovery.featured.stories': 'പ്രമുഖ കഥകൾ',
+    'discovery.story.tableOfContent': 'ഉള്ളടക്കം പട്ടിക',
+    'story.status.hiatus': 'ഹിയാറ്റസിൽ',
+    'story.status.cancelled': 'റദ്ദാക്കപ്പെട്ടു',
+    'story.chapter.wasRead': 'വായിച്ചു - {readAt, date}',
+    'discovery.moreDetails': 'കൂടുതൽ വിശദാംശങ്ങൾ',
+    'discovery.read': 'വായിക്കുക',
+    'discovery.chapters.showAll': 'എല്ലാ അദ്ധ്യായങ്ങൾ കാണിക്കുക',
+    'discovery.chapters.showMore': 'കൂടുതൽ അദ്ധ്യായങ്ങൾ കാണിക്കുക',
+    'discovery.chaptersTotal': 'കഥയിൽ ആകെത്തുന്ന അദ്ധ്യായങ്ങളുടെ ആകെ എണ്ണം',
+    'discovery.readFromStart': 'ആദ്യ അദ്ധ്യായത്തിൽ നിന്ന് വായിക്കുക',
+    'discovery.readLatest': 'ഏറ്റവും പുതിയ അദ്ധ്യായം വായിക്കുക'
 };

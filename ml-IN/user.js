@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'സുഹൃത്തുക്കളിലേക്ക് ചേരുക',
+    'user.friend.requests': `നിങ്ങൾക്ക് {num, number} പുതിയ സുഹൃത്ത് {num, plural,
+    zero {അഭ്യർത്ഥനകൾ ഉണ്ട്}
+    one {അഭ്യർത്ഥന}
+    many {അഭ്യർത്ഥനകൾ}
+    other {അഭ്യർത്ഥനകൾ}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'സുഹൃത്തുക്കളെ ഒഴിവാക്കുക',
+    'user.block': 'അടയ്ക്കുക',
+    'user.unblock': 'അടയ്ക്കയുടെ നിർത്തലാക്കുക',
     'user.joined': `{gender, select,
     male {Joined}
     female {Joined}
     other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.friend.request.accept': 'സുഹൃത്തുക്കൾക്ക് അംഗീകരിക്കുക',
+    'user.friend.request.cancel': 'സുഹൃത്തുക്കൾക്ക് അംഗീകരിക്കാൻ റിക്വസ്റ്റ് റദ്ദാക്കുക',
+    'user.friend.request.deny': 'സുഹൃത്തുക്കൾക്ക് നിരസിക്കുക',
+    'user.listing': 'ഉപയോക്തൃ പട്ടിക',
+    'user.profile.visit': '{user}യുടെ പ്രൊഫൈൽ സന്ദർശിക്കുക.',
+    'user.profile.avatar': '{username}യുടെ അവതാരം',
+    'user.friend.list.requests': 'സുഹൃത്തുക്കളുടെ അഭ്യർത്ഥനകൾ',
+    'user.friend.norequests': 'സുഹൃത്തുക്കളെയും അഭ്യർത്ഥനകൾ ഇല്ലെന്ന് നിങ്ങൾക്ക് അറിയാം.',
+    'user.dashboardWelcome': `ശരി {dayPart, select,
+    morning {സകലസുഖങ്ങൾ}
+    afternoon {അന്തർദിനം}
+    evening {സന്ധ്യ}
+    night {രാത്രി}
+    other {ദിവസം}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'ഈ എഴുത്തുകാർ പരമ്പരാഗത രീതിയിൽ പ്രസിദ്ധീകരിച്ചിട്ടുണ്ട്',
+    'user.verification.luAuthor': 'സാഹിത്യ ബ്രഹ്മാണ്ഡ ആധാരിതമായ ഒരു എഴുത്തുകാർ',
+    'user.verification.luEmployee': 'സാഹിത്യ ബ്രഹ്മാണ്ഡ ജോലിക്കാരൻ',
+    'user.verification.publicFigure': 'പരിശീലിച്ച പ്രസിദ്ധീകരിച്ച വ്യക്തി',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {കഥ}
+    other {കഥകൾ}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {യൂണിവേർസ്}
+    other {യൂണിവേർസുകൾ}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ഫാൻ ഫിക്ഷൻ}
+    other {ഫാൻ ഫിക്ഷനുകൾ} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'പ്രവർത്തനങ്ങൾ',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'വിശ്വസിക്കുന്നവരിലേക്ക്',
+    'profile.storiesBy': '{username}ദ്വാരായുള്ള കഥകൾ',
+    'profile.universesBy': '{username}ദ്വാരായുള്ള യൂണിവേർസുകൾ',
+    'profile.fanFictionBy': '{username}ദ്വാരായുള്ള ഫാൻ ഫിക്ഷനുകൾ'
 };

@@ -1,28 +1,28 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.add': 'ཐོ་བཀོད་ནང་གི་ཐིག་ལེའི་ཐོ་ཡིག་གསརཔ་བྱེད་པ།',
+    'encyclopedia.browse': 'ཐོ་བཀོད་ནང་གི་ཐིག་ལེའི་ཐོ་ཡིག་གསརཔ་བྱེད་པ།',
+    'encyclopedia.search': 'ཐོ་བཀོད་ནང་གི་ཐིག་ལེའི་ཐོ་ཡིག་གསརཔ་བྱེད་པ།',
+    'encyclopedia.back.universe': 'ནང་བསྐྱར་གྱི་གནས་ཚུལ་ནང་བཀོད་ཡིག་གསརཔ་བྱེད་པ།',
+    'encyclopedia.back.workshop': 'བརྡ་འཚོ་གྱི་ཐོ་བཀོད་ཡིག་གསརཔ་བྱེད་པ།',
+    'encyclopedia.categories': 'དབྱེ་ཚན་ཚུ།',
+    'encyclopedia.groups': 'སྡེ་ཚན།',
+    'encyclopedia.category.character': 'མིང་ཚིག།',
+    'encyclopedia.category.event': 'བྱེད་ཚིག།',
+    'encyclopedia.category.group': 'སྡེ་ཚན།',
+    'encyclopedia.category.item': 'རྩོམ།',
+    'encyclopedia.category.location': 'ཁ་སྐད།',
+    'encyclopedia.category.other': 'གཞན་པ།',
+    'encyclopedia.category.state': 'རྒྱུན།',
+    'encyclopedia.category.governments': 'བཀོད་རྒྱུན།',
+    'encyclopedia.category.languages': 'སྐད་ཡིག།',
+    'encyclopedia.category.creatures': 'རྩ་སྒྲིག།',
+    'encyclopedia.category.deity': 'ལྷ་མོ།',
+    'encyclopedia.category.religions': 'ཆོས་ཚན།',
+    'encyclopedia.category.flora': 'ས་སྦྱོང།',
+    'encyclopedia.category.magic': 'དབྱེར་རྩིས།',
+    'encyclopedia.category.planets': 'རྩ་སྒྲིག།',
+    'encyclopedia.category.species': 'རིང་བཞི།',
+    'encyclopedia.category.technologies': 'རྩོམ་པ།',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -73,24 +73,24 @@ export default {
     species {specie}
     technologies {technology}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.entry.category': `ཐོག་མིང་དབྱེ་བ། {category, select,
+    character {ཚོགས་པ།}
+    event {བརྗོད།}
+    group {སྡེ་ཚན།}
+    item {གནས་ཚུལ།}
+    location {ས་ཁོང་།}
+    other {དང་པོ།}
+    state {རྒྱུ་མཚན།}
+    governments {རྒྱལ་ཁབ།}
+    languages {སྐད་རིགས།}
+    creatures {སྦྱོང་ཚོགས།}
+    deity {ལྷ་མོ།}
+    religions {བསྟན་འཛིན།}
+    flora {སྟོན།}
+    magic {རྒྱལ་པོ།}
+    planets {གྲོང་ཁྱེར།}
+    species {རིགས།}
+    technologies {རིགས་ཀྱི་རྩ་བ།}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
@@ -140,14 +140,21 @@ export default {
     'encyclopedia.menuOpen': 'Open Encyclopedia menu',
     'encyclopedia.menuClose': 'Close Encyclopedia menu',
     'encyclopedia.menuAria': 'Encyclopedia menu',
-    'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
-    other {{max, number}}
-  } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.newField': 'སློབ་ཚན་གཞི།',
+    'enc.entries.limit': `ཁྱོད་ཀྱི་ད་དུང་འདི་གི་འདུ་བས་ཤོག་མིན་འདུག་པ་ {value, number} ་འཛུལ་གྱི་ {max, plural,
+    =0 {་རིམ་པ་}
+    other {་{max, number}་}
+  } ་སྡེ་ཚན་བྱེད།`,
+    'enc.entries.limitReached': 'ཁྱོད་ཀྱི་སློབ་ཚན་གཞི་འདི་གི་རིམ་པ་འདུ་བས་ཤོག་མིན་འདུག་པ་དང་གཅིག་ཁར་བསྐྱོད་པའི་སློབ་ཚན་གཞི་བཟོ་བ།',
+    'enc.menuControls.ariaDesc': 'བརྡ་འབྲེལ་གྱི་སྒྲིག་འཛུལ་',
+    'encyclopedia.pronunciation.title': 'སྐུགས་ལྡོག་པ།',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'སྡེ་དགོན་གསརཔ་འགྱུར།',
+    'encyclopedia.settings.templateLegend': 'དཔེ་སྐྱོང་བྱེད་པ།',
+    'encyclopedia.settings.templateDescription': 'བརྗོད་བདེ་བཞིན་པའི་དཔེ་སྐྱོང་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བྱེད་པ་ཨིན། གནས་བདེན་གང་གི་སྐོར་གྱི་སྒྲིག་སྟངས་མེ་ཏོག་བྱེད་པའི་དོན་གཞི་འདི་གིས་བརྗོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བྱེད་པ།',
+    'encyclopedia.settings.templateCheckbox': 'དཔེ་སྐྱོང་བྱེད་པ་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར།',
+    'encyclopedia.templateCopy.modalTitle': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་བརྗོད་པ།',
+    'encyclopedia.templateCopy.description': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་འདི་གི་དོན་གཞི་ཡོད་པའི་སྐོར་གྱི་སྒྲིག་སྟངས་བརྗོད་པ།',
+    'encyclopedia.templateCopy.targetUniverse': 'དཔེ་སྐྱོང་གི་སྒྲིག་སྟངས་ལས་འགན་བྱེད་པ།',
+    'encyclopedia.templateCopy.finished': 'ཚེག་གི་བསྐྱར་འཇུག་བཀོད་པའི་འཛུལ་སྤྱོད་བསྐུལ།'
 };

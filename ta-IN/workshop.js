@@ -1,134 +1,134 @@
 export default {
-    'workshop.title': 'Your work',
-    'workshop.noneassigned': 'You have not been assigned any yet.',
-    'workshop.notavailable': 'This feature is not yet available.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.title': 'உங்கள் வேலை',
+    'workshop.noneassigned': 'இன்னும் நீங்கள் எந்தப் பணியையும் பதிவு செய்யப்படவில்லை.',
+    'workshop.notavailable': 'இந்த அம்சம் இன்னும் கிடைக்கவில்லை.',
+    'workshop.none': `நீங்கள் தற்போது இல்லை {type, select,
+      universe {உலகம்}
+      story {கதை}
+      fanfiction {பாராட்டுக்குரிய கதைகள்}
       other {}
-    }. Create one now!`,
-    'workshop.collab': 'Collaborative work',
-    'workshop.betareadings': 'Beta readings',
-    'workshop.translations': 'Translations',
-    'workshop.createnew': 'Create new...',
-    'workshop.story.standalone': 'Standalone story',
-    'workshop.story.standalone.desc': 'This is a standalone story.',
-    'workshop.controlpanel': '{name} control panel',
-    'workshop.universe.page': 'Universe page',
+    }. இப்போது ஒருவர் உருவாக்குக!`,
+    'workshop.collab': 'கூட்டுறவு பணிகள்',
+    'workshop.betareadings': 'பீட்டா வாசனைகள்',
+    'workshop.translations': 'மொழிபெயர்ப்புகள்',
+    'workshop.createnew': 'புதியதை உருவாக்கு...',
+    'workshop.story.standalone': 'தனிப்பட்ட கதை',
+    'workshop.story.standalone.desc': 'இது தனிப்பட்ட கதையாகும்.',
+    'workshop.controlpanel': '{name} கட்டுப்பாட்டு மேலாளர் தாள்',
+    'workshop.universe.page': 'பரலோகப் பக்கம்',
     'workshop.fictionaltime': 'Fictional time',
-    'workshop.dashboard.name': '{name} dashboard',
-    'workshop.stories.in': 'Stories in {universe}',
-    'workshop.universe.nostories': 'There are no stories in this universe.',
-    'workshop.story.chapter.add': 'New chapter',
-    'workshop.universe.new': 'Create a new universe',
-    'workshop.universe.publish': 'Publish universe',
-    'workshop.universe.publishing.notice': 'If you do not publish the universe, it will be published automatically when the first story connected to the universe is published.',
-    'workshop.universe.settings': '{universe} universe settings',
-    'workshop.universe.publishedOn': 'This universe has been published on {date, date, long} {date, time, short}',
-    'workshop.universe.description': 'Universe description',
+    'workshop.dashboard.name': '{name} டாஷ்போர்டு',
+    'workshop.stories.in': 'கதைகள் {universe}இல்',
+    'workshop.universe.nostories': 'இந்த பரலோகத்தில் எந்த கதையும் இல்லை.',
+    'workshop.story.chapter.add': 'புதிய அத்தியாயம்',
+    'workshop.universe.new': 'புதிய பரலோகத்தை உருவாக்கு',
+    'workshop.universe.publish': 'பரலோகத்தை வெளியிடு',
+    'workshop.universe.publishing.notice': 'பரலோகத்துடன் இணைக்கப்பட்ட முதன்முதல் கதை வெளியிடப்படும்படி இல்லாமல் இருக்கும் போது பரலோகத்தை வெளியிடுவது தானாகவே நடைமுறைபடும்.',
+    'workshop.universe.settings': '{universe} பரலோக அமைப்புகள்',
+    'workshop.universe.publishedOn': 'இந்த உலகம் வெளியிடப்பட்டது {date, date, long} {date, time, short}',
+    'workshop.universe.description': 'பரலோக விளக்கம்',
     'workshop.settings.title': 'Title',
-    'workshop.description': 'Description',
-    'workshop.language.primary': 'Primary language',
-    'workshop.publication.options': 'Publication options',
-    'workshop.rating': 'General rating',
-    'workshop.universe.rating.desc': 'Stories and fanfiction above this rating will be hidden from the universe page listing from anonymous users and users who are not of the appropriate age.',
-    'workshop.universe.license': 'Universe license',
-    'workshop.universe.genre.pick': 'Select genre for the universe',
-    'workshop.story.genre.pick': 'Select genres for the story',
-    'workshop.cover': 'Cover',
-    'workshop.nothingtosee': 'Nothing to see here...',
-    'workshop.story.cannon': 'Canon story',
+    'workshop.description': 'விளக்கம்',
+    'workshop.language.primary': 'முதன்மை மொழி',
+    'workshop.publication.options': 'வெளியீட்டு விருப்பங்கள்',
+    'workshop.rating': 'பொது மதிப்பீடு',
+    'workshop.universe.rating.desc': 'இந்த மதிப்பீட்டில் மேலும் உருவாக்கப்படும் கதைகள் மற்றும் பிராம்பன கதைகள் பரலோக பக்கத்தில் மறைக்கப்படும். அறியாத பயனர்களும் மற்றும் பொது வயது குறிப்பிட்ட பயனர்களும் இந்த மதிப்பீட்டில் மேலும் உருவாக்கப்படும் கதைகளை மறைக்கப்படுத்தும்.',
+    'workshop.universe.license': 'பரலோக உரிமை',
+    'workshop.universe.genre.pick': 'பரலோகத்திற்கு வகை தேர்வு செய்யவும்',
+    'workshop.story.genre.pick': 'கதைக்கு வகைகளை தேர்வு செய்யவும்',
+    'workshop.cover': 'கவர்',
+    'workshop.nothingtosee': 'இங்கே எதுவும் இல்லை...',
+    'workshop.story.cannon': 'கேனன் கதை',
     'workshop.story.cannon.desc': 'This story is canonical in {universe} universe.',
-    'workshop.story.cannon.desc.create': 'This story will be created as a canonical story in {universe} universe.',
-    'workshop.story.fanfiction.search': 'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
-    'workshop.story.error.nogenres': 'You need to select at least one genre.',
-    'workshop.story.error.toomanygenres': 'Only two genres per story are allowed.',
-    'workshop.story.error.fanfiction.selectuniverse': 'You need to select original universe for your fan fiction!',
-    'workshop.story.error.tags.toomany': 'You can only have 10 tags per story.',
-    'workshop.story.new': 'Create a new story',
-    'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
-    'workshop.settings.edit': 'Edit settings',
-    'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
-    'workshop.story.settings': 'Story settings',
-    'workshop.settings.basic': 'Basic settings',
-    'workshop.settings.genres': 'Genres (max 2)',
-    'workshop.story.license': 'Story license',
-    'workshop.story.settings.universe': 'Universe settings',
-    'workshop.settings.tags': 'Tags',
-    'workshop.revision': 'Revision',
-    'workshop.revisions.title': '{story}: {chapter} Revisions',
-    'workshop.revisions.current': 'Current draft',
-    'workshop.revisions.new.beta': 'Create a new revision out of the draft.',
-    'workshop.revisions.new.public': 'Create a new public revision out of the draft.',
-    'workshop.revisions.toeditor': 'Go to the editor',
-    'workshop.revisions.comments': 'Revision comments',
-    'workshop.revisions.comments.title': '{story}: {chapter} - Revision {revision} - Comments',
+    'workshop.story.cannon.desc.create': 'இந்த கதை ஒரு முக்கிய கதையாக உருவாக்கப்படும் {universe} உலகத்தில்.',
+    'workshop.story.fanfiction.search': 'உங்கள் நூலகத்தில் உள்ள உலகத்தின் பெயரை தட்டச்சு செய்யவும். அப்புறம் பரிந்துரைகளிலிருந்து ஒன்றைத் தேர்ந்தெடுக்கவும்.',
+    'workshop.story.error.nogenres': 'நீங்கள் குறைந்தது ஒரு வகையைத் தேர்ந்தெடுக்க வேண்டும்.',
+    'workshop.story.error.toomanygenres': 'ஒரு கதையில் மட்டும் இரண்டு வகைகள் மட்டுமே அனுமதிக்கப்படுகின்றன.',
+    'workshop.story.error.fanfiction.selectuniverse': 'உங்கள் புகழ்பெயர்க்கு ஒரு அசல் உலகத்தைத் தேர்வு செய்ய வேண்டும்!',
+    'workshop.story.error.tags.toomany': 'ஒரு கதையில் மட்டும் 10 குறிச்சொல்லுக்கள் மட்டுமே உள்ளன.',
+    'workshop.story.new': 'ஒரு புதிய கதை உருவாக்கப்படும்',
+    'workshop.story.publishing.notice': 'முதன்முதலில் அதிகாரப்பூர்வமாக பதிவை வெளியிடப்படும் போது இந்த கதையின் மேல் வெளியேற்றம் செய்யப்படும்.',
+    'workshop.settings.edit': 'அமைப்புகளைத் திருத்து',
+    'workshop.story.publishedOn': 'இந்த கதை வெளியிடப்பட்டது {date, date, long} {date, time, short}',
+    'workshop.story.settings': 'கதை அமைப்புகள்',
+    'workshop.settings.basic': 'அடிப்படை அமைப்புகள்',
+    'workshop.settings.genres': 'வகைகள் (அதிகபட்சம் 2)',
+    'workshop.story.license': 'கதை உரிமை',
+    'workshop.story.settings.universe': 'உலகத்தின் அமைப்புகள்',
+    'workshop.settings.tags': 'குறிச்சொல்லுக்கள்',
+    'workshop.revision': 'மருத்துவம்',
+    'workshop.revisions.title': '{story}: {chapter} மருத்துவங்கள்',
+    'workshop.revisions.current': 'தற்போதைய வரைவு',
+    'workshop.revisions.new.beta': 'மருத்துவத்திலிருந்து புதிய மருத்துவத்தை உருவாக்கவும்.',
+    'workshop.revisions.new.public': 'மருத்துவத்திலிருந்து புதிய பொது மருத்துவத்தை உருவாக்கவும்.',
+    'workshop.revisions.toeditor': 'எடிட்டருக்குச் செல்க',
+    'workshop.revisions.comments': 'மருத்துவ கருத்துகள்',
+    'workshop.revisions.comments.title': '{story}: {chapter} - மருத்துவம் {revision} - கருத்துகள்',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
       beta {for Beta readers}
       readers {Public}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
-    'workshop.revisions.comments.norevision': 'You need to create a revision first.',
-    'workshop.revisions.comments.select': 'Select revision',
-    'workshop.collaborators.noresults': 'No results',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
-    'workshop.collaborators.language.add': 'Create a new translation',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
-    'workshop.revisions.beta.none': 'No revisions at this time.',
-    'reader.asidetoggle': 'Toggle aside information',
-    'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
-    'workshop.cover.alt': 'cover image',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.revisions.comments.norevision': 'முதலில் நீங்கள் ஒரு மருத்துவத்தை உருவாக்க வேண்டும்.',
+    'workshop.revisions.comments.select': 'மாற்றத்தைத் தேர்ந்தெடுக்கவும்',
+    'workshop.collaborators.noresults': 'முடிவுகள் இல்லை',
+    'workshop.collaborators.add.beta': 'பீட்டா வாசிப்பாளரைச் சேர்க்கவும்',
+    'workshop.collaborators.add.collaborator': 'ஒப்பந்தாளரைச் சேர்க்கவும்',
+    'workshop.collaborators.add.translator': 'மொழிபெயர்ப்பாளரைச் சேர்க்கவும்',
+    'workshop.collaborators.language.add': 'புதிய மொழிபெயர்ப்பை உருவாக்கவும்',
+    'workshop.translations.stories': 'மொழிபெயர்ப்புகள் - கதைகள்',
+    'workshop.translations.universes': 'மொழிபெயர்ப்புகள் - உலகம்',
+    'workshop.revisions.beta.none': 'இந்த நேரத்தில் மாற்றங்கள் இல்லை.',
+    'reader.asidetoggle': 'தகவலை அடுக்கு மாற்றவும்',
+    'workshop.translation.original': 'மூலம்:',
+    'workshop.translation.original.title': 'மூல தலைப்பு:',
+    'workshop.translation.original.description': 'மூல விளக்கம்:',
+    'workshop.translation.original.cover': 'மூல கவர்',
+    'workshop.translation.original.tags': 'மூல குறிச்சொல்லுக்கள்',
+    'workshop.cover.alt': 'கவர் படம்',
+    'workshop.translation.updatedOrig': 'மூலத்தின் கடைசி புதுப்பிப்பு: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'மொழிபெயர்ப்பின் கடைசி புதுப்பிப்பு: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'கடைசி மாற்றம் {revision, number}, மூலத்தின்: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'கடைசி மாற்றம் {revision, number}, மொழிபெயர்ப்பின்: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.collaborators.premium': `மேலும் {type, select,
+    collaborator {ஒப்பந்தப் பகிர்வாளர்கள்}
+    beta {பீட்டா வாசிப்பவர்கள்}
+    translator {மொழிபெயர்ப்பாளர்கள்}
     other {}
-  }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+  }சேர்க்க உங்கள் உறுப்பினர் அணுகலை அதிகரிக்க வேண்டும்.`,
+    'workshop.collaborators.requests.sent': 'அனுப்பிய கோரிக்கைகள்',
+    'workshop.collaborators.requests.invite': `நீங்கள் பின்வரும் பற்றியதற்காக {role, select,
+    beta {பீட்டா வாசிப்பவர்}
+    translator {மொழிபெயர்ப்பாளர்}
+    collaborator {ஒப்பந்தப் பகிர்வாளர்}
     other {}
-  } for the following:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
+  } ஆக அழைக்கப்பட்டுள்ளீர்கள்:`,
+    'workshop.collaborators.requests.dashboard': `நீங்கள் ஒரு இலக்கிய பணிக்கு ஒரு ஆழ்ந்த ஆழ்ந்த பணிக்களத்தில் சேர்க்கப்பட்டுள்ளீர்கள் {count, plural,
+    zero {ஒரு ஆழ்ந்த பணிக்களம்}
+    one {ஒரு இலக்கிய பணிக்களம்}
+    other {# இலக்கிய பணிக்கள்}
   }.`,
-    'workshop.collaborators.language.added': 'Language added',
-    'workshop.story.noChaptersFound': 'No chapters found.',
-    'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
-    'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
+    'workshop.collaborators.language.added': 'மொழி சேர்க்கப்பட்டது',
+    'workshop.story.noChaptersFound': 'எந்த அதிகாரத்திலும் பதிவுகள் கிடைக்கவில்லை.',
+    'workshop.fanfic.needUniverseInLibrary': 'அல்லது அல்லாத பண்புகள் படித்தலைவர்களிடமிருந்து எழுத விரும்புகின்றீர்களா? அவர்களை முதன்முதலில் உங்கள் நூலகத்தில் சேர்க்கவும்.',
+    'workshop.fanfic.findUniverse': 'ஒரு அற்புதமான உலகத்தைக் கண்டுபிடிக்கவும்!',
     'workshop.encSettings': 'Encyclopedia settings',
-    'workshop.collaborators.removeUser': 'Remove user',
-    'workshop.collaborators.cancelInvite': 'Cancel invite',
-    'workshop.universe.createFirstStory': 'Create the first story',
-    'workshop.storylines': 'Storylines',
-    'workshop.scenesManager': 'Scenes Manager',
-    'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
-    'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
-    'workshop.story.notes.title': 'Your notes for {storyTitle}',
-    'workshop.story.notes.desc': 'Overview notes for the story.',
-    'workshop.story.notes.tile': 'Overview notes',
-    'workshop.hideOrgs': 'Hide content from organizations',
+    'workshop.collaborators.removeUser': 'பயனரை நீக்கு',
+    'workshop.collaborators.cancelInvite': 'அழிவு ரத்து செய்',
+    'workshop.universe.createFirstStory': 'முதல் கதையை உருவாக்கவும்',
+    'workshop.storylines': 'கதை வரலாறுகள்',
+    'workshop.scenesManager': 'மேலாண்மை மேலாண்மையானது',
+    'workshop.collaborators.addRoleForLang': 'சேர்க்க {role} இன் மேல் {language}',
+    'workshop.beta.revisionInfo': 'இது மரியாதை {revision, number}, {createdAt, date, long}அன்புடன் உருவாக்கப்பட்டது.',
+    'workshop.story.notes.title': 'உங்கள் {storyTitle}க்கான குறிப்புகள்',
+    'workshop.story.notes.desc': 'கதைக்கு உள்ளேயே குறிப்புகள்.',
+    'workshop.story.notes.tile': 'மேலாண்மை குறிப்புகள்',
+    'workshop.hideOrgs': 'அமைப்புகளிலிருந்து உள்ளீட்டை மறைக்க',
     'workshop.translation.premium': 'In order to add translations, you need to have at least Explorer subscription.',
-    'workshop.story.finished': 'Story is complete',
-    'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
-    'workshop.sharing.publicURL': 'Public version',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
+    'workshop.story.finished': 'கதை முடிந்தது',
+    'workshop.story.publishing.externalSellingNotice': 'நீங்கள் இலக்கிய உணர்வுகளின் வெளியில் விற்பனை செய்யும் போது இப்போது கதையை வெளியிடலாம். உங்கள் விற்பனை பட்டியலில் இணைப்புகள் கதைக்குள் அல்லது தற்போதைய கதையின் முடிவில் தெரியும்.',
+    'workshop.sharing.publicURL': 'பொது பதிப்பு',
+    'workshop.fictionalTime.title': 'இலக்கிய நேரங்கள் {universeName}க்கு',
     'workshop.fictionalTime.none': 'You currently don\'t have any fictional times set-up.',
     'workshop.fictionalTime.createNow': 'Create one now!',
     'workshop.fictionalTime.createTitle': 'Create a new fictional time',
@@ -170,8 +170,8 @@ export default {
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 நாள் }
+      other {{days} நாட்கள் }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -185,24 +185,24 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {ஒரு நொடி}
+      other {நொடிகள்}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {ஒரு நிமிடம்}
+      other {நிமிடங்கள்}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {ஒரு மணி நேரம்}
+      other {மணி நேரம்}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {ஒரு நாள்}
+      other {நாட்கள்}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {ஒரு ஆண்டு}
+      other {ஆண்டுகள்}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
@@ -212,11 +212,11 @@ export default {
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
     'workshop.writerSidebar.title': 'Sidebar Toolbox',
     'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order',
+    'workshop.story.authorsNotesExplained': 'உங்கள் கதையின் ஆரம்பத்தில் படிக்க வாசிப்பவர்களுக்கு உங்கள் குறிப்புகள்.',
+    'workshop.story.chapterSortSwitch': 'அதிகாரத்தின் வரிசையை மாற்று',
     'workshop.universe.monetizationTitle': '{title} monetization',
     'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
+    'workshop.universe.monetizationWebMonetization': 'வலை பணமுறியல்',
     'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
     'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
     'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
@@ -231,9 +231,9 @@ export default {
     'workshop.revShare.origLangCreators': 'Original language creators',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Chapter {sequence, number}',
-    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
-    'workshop.universe.forumSettings': 'Internal universe forum settings',
-    'workshop.universe.forum': 'Internal {universeName} forum',
+    'workshop.work.includesAds': 'வேலையில் எந்தக் கடவுச்சொல் அல்லது தயாரிப்பு வேண்டுமா?',
+    'workshop.universe.forumSettings': 'உள் பராமரிப்பு உலகம் மன்றம் அமைப்புகள்',
+    'workshop.universe.forum': 'உள் பராமரிப்பு {universeName} மன்றம்',
     'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
     'workshop.selectCollaborator': 'Select collaborator',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
@@ -258,7 +258,7 @@ export default {
     'workshop.statusChange.modalTop': 'Are you sure you want to change the status to',
     'workshop.statusName.hiatus': 'Hiatus',
     'workshop.statusName.cancelled': 'Cancelled',
-    'workshop.statusName.completed': 'Completed',
+    'workshop.statusName.completed': 'முடிந்தது',
     'workshop.statusExplain.hiatus1': 'Hiatus means that you are stepping away from working on this story for a while for what ever reason. It will tell your readers that they should not expect any new updates in the coming weeks or even up to few months.',
     'workshop.statusExplain.hiatus2': 'The hiatus status will be automatically lifted if you publish any chapter. Or you can change it your self.',
     'workshop.statusExplain.hiatus3': 'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',

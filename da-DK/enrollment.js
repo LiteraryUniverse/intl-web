@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Kræv din konto!',
+    'enrollment.description': 'Velkommen {username}! For at få adgang til din specielle konto skal du blot oprette en adgangskode.',
+    'enrollment.submitting': 'Kræver din konto...',
+    'enrollment.submit': 'Kræv din konto!'
 };

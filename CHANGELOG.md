@@ -1,5 +1,39 @@
 # Changelog for languages
 
+## 2024-03-10 - v2.12.1
+
+* `story.status.inProgress` term updated
+* Update Meteor version from for the latest 3.0-beta.6
+* Add strings for encyclopedia copy strings
+* Initial strings for plans
+
+## 2024-02-09 - v2.12.0
+
+* Updated `settings.languages.notice` to include mention of AI generated translations
+* Added Traditional Chinese to the language list
+* Moved Indonesian, Ukrainian, Dutch, Italian, Finnish, Estonia, Hungarian, Norwegian, Swedish, Esperanto, Vietnamese,
+  Traditional Chinese and Korean to the language list due to translations by AI
+* Activated the above-mentioned languages in code
+
+## 2024-02-08 - v2.11.1
+
+* Added new strings for legal documents
+* New string for feed placeholder
+
+## 2024-01-12 - v2.11.0
+
+* New strings for console warning
+* Update `common.by` to include the author name, to allow for RTL languages
+
+## 2023-12-30 - v2.10.5
+
+* Added support for Meteor 3.0-beta.0
+* Merged strings from Crowdin
+* Fixed strings for chapters estimation
+* New blog strings
+* New fan fiction rating strings
+* New plan strings
+
 ## 2023-11-10 - v2.10.4
 
 * New strings for profile page

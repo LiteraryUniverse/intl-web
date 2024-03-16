@@ -1,8 +1,8 @@
 export default {
     'sharing.title': 'Ibahagi',
-    'sharing.button': 'Sharing Button',
-    'sharing.share': 'Share with...',
-    'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
+    'sharing.button': 'Button ng Pagbabahagi',
+    'sharing.share': 'Ibahagi sa...',
+    'sharing.feedback': 'Mayroon bang ibang lugar na gusto mong ibahagi? Ipaalam mo sa amin!',
     'sharing.copy': 'Kopyahin',
     'sharing.email': 'Email',
     'sharing.sms': 'SMS',

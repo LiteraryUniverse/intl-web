@@ -1,57 +1,58 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Níl {type, select,
+    organization {bliog ar bith agat faoi láthair}
+    universe {bliog do do dhomhan}
+    user {bliog}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Cruthaigh blag nua',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Blag}
+    universe {Leathanach Domhainthreoir}
+    user {Blag}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+  } socrúcháin`,
+    'blog.description': 'Ceiliúradh blag',
+    'blog.theme': 'Téama',
+    'blog.theme.info': 'Trí mhodhanna a athrú is féidir leat cuma an leathanaigh a athrú. Níl an gné seo réidh faoi láthair.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
-    'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    'blog.post.create': 'Cruthaigh post nua',
+    'blog.post.update': 'Ag eagar {title}',
+    'blog.post.text': 'Téacs an phoist',
+    'common.slug': 'URL a bhfuil anseo cuí le SEO',
+    'blog.slug.explained': 'URL deas don post. Ná bain úsáid as carachtair speisialta ach amháin "-".',
+    'blog.publicView': 'Radharc poiblí',
+    'blog.post.notfound': 'Níor aimsíodh an post blag',
+    'blog.lists.works': `Nár Léigh {type, select,
+    universes {Domhainn}
+    stories {Scéalta Neamhspleách}
+    fanfiction {Obair Fiction Fan}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Seo ábhair neamhspleách, má scríobhadh an scéal mar chuid d\'uirlisí ansin cuirfear ar an leathanach domhainthreoir é.',
+    'blog.social.sameAsMain': `Tá an nasc sóisialta céanna mar atá leagtha síos i {type, select,
+    organization {socruithe an eagraíochta}
+    user {próifíl úsáideora}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.social.website': 'Láithreán gréasáin oifigiúil',
+    'blog.settings.universeSettings': 'Tártar blaganna domhainthreoir isteach le suas-láimhseáin bunúsacha a ghlacadh ó shocruithe domhainthreoirí.',
+    'blog.settings.organizationSettings': 'Tá bliogaí eagraíochta comhcheangailte le leathanaigh eagraíochta.',
+    'blogs.lu': 'Blaganna Oifigiúla Domhainthreoir Litríochta',
+    'blogs.featured': 'Blaganna ar feadh an tsuiteáin',
+    'blogs.new': 'Is deoraí blaganna',
+    'blogs.title': 'Blaganna Litríochta Domhainthreoir',
+    'blogs.description': 'Liosta de bhlaganna ar an gPlatama Domhainthreoir Litríochta.',
+    'blogs.visit': 'Tabhair cuairt ar an blag',
+    'blog.settingsAria': 'Catagóirí socruithe don bhlag',
+    'blog.settings.blog': 'Blag',
+    'blog.settings.forum': 'Fóram',
+    'blog.post.introText': 'Próiséas ceangailt',
+    'blog.post.writtenBy': 'Scríofa ag {usernameDisplay}',
+    'blog.post.writtenByFor': 'Scríofa ag {usernameDisplay} do {publicationName}',
+    'blog.posts.recent': 'Ríomhphoist le déanaí'
 };

@@ -1,6 +1,6 @@
 export default {
-    'enrollment.title': 'Claim your account!',
-    'enrollment.description': 'Welcome {username}! To gain access to your special account you only need to create password.',
-    'enrollment.submitting': 'Claiming your account...',
-    'enrollment.submit': 'Claim your account!'
+    'enrollment.title': 'Gabh do chuntas!',
+    'enrollment.description': 'Fáilte {username}! Chun rochtain a fháil ar do chuntas speisialta, níl ort ach pasfhocal a chruthú.',
+    'enrollment.submitting': 'Ag gabháil do chuntais...',
+    'enrollment.submit': 'Gabh do chuntas!'
 };

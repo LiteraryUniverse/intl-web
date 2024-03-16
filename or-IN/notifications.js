@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'ଏକ ନୂଆ ଖବର ଫ୍ଲାଶ ସୃଷ୍ଟି କରନ୍ତୁ',
+  'flashnews.startsAt': 'ଏହି ସନ୍ଦେଶ କିପରିତ ପ୍ରଦର୍ଶନ ହେବାକୁ ଆରମ୍ଭ କରନ୍ତୁ',
+  'flashnews.endsAt': 'ଏହି ସନ୍ଦେଶ କିପରିତ ପ୍ରଦର୍ଶନ ବନ୍ଦ କରନ୍ତୁ',
+  'flashnews.newLanguage': 'ଯୋଡ଼ାଯାଇଛି ନୂଆ ଭାଷା ଯୋଡ଼ିବାକୁ ଚୟନ କରନ୍ତୁ',
+  'flashnews.onlyDisplayOn': 'ଖବର କେବେବଳ ନୀଚେ ଚୟନିତ ଭାଷାରେ ପ୍ରସାରଣ ହେବ, ଅନ୍ୟ ଭାଷାଗୁଡ଼ିକୁ କୌଣସି ଖବର ଦେଖାଯାଇବା ନାହିଁଛି',
+  'notifications.menu.all': 'ସମସ୍ତ ବିଜ୍ଞପ୍ତି',
+  'notifications.menu.following': 'ପାଇଁ ରହିଥିବା',
+  'notifications.menu.workshop': 'କାର୍ଯ୍ୟଶାଳା',
+  'notifications.menu.news': 'ଖବର ଏବଂ ଅପଡେଟ୍‌ଗୁଡ଼ିକ',
+  'notifications.menu.markUnread': 'ଅପଠିତ ହେଲା ହିତାଳିଖାନ୍ତୁ',
+  'notifications.menu.markRead': 'ପଠିଲା ହେଲା ହିତାଳିଖାନ୍ତୁ',
+  'notifications.menu.delete': 'ବିଜ୍ଞପ୍ତି ମିଟାନ୍ତୁ',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'ଆପଣଙ୍କ କାହାଣୀ {storyName} 6 ମାସ ନିଷ୍କ୍ରିୟତାରେ ଅଟୋମାଟିକଭାବେ hiatus ରେ ରଖାଯାଇଛି।',
+  'notification.workshopStoryStatus.toCancelled': 'ଆପଣଙ୍କ କାହାଣୀ {storyName} 1 ବର୍ଷ ନିଷ୍କ୍ରିୟତାରେ ଅଟୋମାଟିକଭାବେ ରଦ୍ଦ କରାଯାଇଛି।',
+  'notification.followingStoryStatus.toHiatus': '{storyName} ହାଇଅସ୍‌ରେ ଅଛି।',
+  'notification.followingStoryStatus.toCancelled': '{storyName} ର ରଦ୍ଦ କରାଯାଇଛି।',
+  'notification.followingNewChapter.new': '{storyName} ରେ ନୂତନ ଅଧ୍ୟାୟ ପ୍ରକାଶିତ ହେଇଛି!',
+  'notification.workshopStory.newComment': '{storyName}ର ଉପରେ ମତାମତ ଦିଯାଇଛି।',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'ଆପଣଙ୍କୁ ଏକ ସହପାଠୀ ଅନୁରୋଧ ପଠାଇଛି।',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'କାହାଣୀରେ ଯାନ୍ତୁ'
 };

@@ -16,7 +16,7 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': 'औसत पठन गति के आधार पर {avgReadingNum, number} शब्द प्रति मिनट।',
     'discover.search.text': 'खोज शब्द',
     'discover.searchStory.title': 'किसी कहानी की खोज करें',
     'discover.searchStory.description': 'किसी कहानियों की खोज करें',
@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'किसी ब्रह्मांडों की खोज करें',
     'discover.search.storyStatus': 'कहानी प्रगति की स्थिति',
     'story.status.complete': 'पूर्ण',
-    'story.status.inProgress': 'काम चल रही है',
+    'story.status.inProgress': 'चल रहा है',
     'discover.search.universeConnection': 'ब्रह्मांड के साथ कहानी का संबंध',
     'story.universeRelation.standalone': 'अकेली कहानी',
     'story.universeRelation.fanFiction': 'फैन फिक्शन',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'सामग्री की सूची',
     'story.status.hiatus': 'निवृत्त',
     'story.status.cancelled': 'रद्द',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'पढ़ें - {readAt, date}',
     'discovery.moreDetails': 'अधिक विवरण',
     'discovery.read': 'पढ़ें',
     'discovery.chapters.showAll': 'सभी अध्याय दिखाएं',

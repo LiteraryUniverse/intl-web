@@ -1,12 +1,12 @@
 export default {
-    'discovery.meta.desc': 'Discover new stories and universes.',
-    'discovery.universes.new': 'Emerging universes',
-    'discovery.stories.new': 'New stories',
-    'discovery.stories.standalone.new': 'New standalone stories',
-    'discovery.stories.updated': 'Recently updated stories',
-    'discovery.continue': 'Continue reading',
-    'discovery.stories.similar.new': 'New stories in the neighborhood',
-    'discovery.stories.similar.regular': 'Stories in the neighborhood',
+    'discovery.meta.desc': 'ନୂତନ କାହାଣୀ ଏବଂ ବିଶ୍ଵାଭିନ୍ନତା ଆବିଷ୍କର୍ଯ୍ୟ କରନ୍ତୁ।',
+    'discovery.universes.new': 'ଉଦ୍ଭାବିତ ବିଶ୍ଵାଭିନ୍ନତା',
+    'discovery.stories.new': 'ନୂତନ କାହାଣୀଗୁଡିକ',
+    'discovery.stories.standalone.new': 'ନୂତନ ଏକାନ୍ତ କାହାଣୀଗୁଡିକ',
+    'discovery.stories.updated': 'ପ୍ରଶ୍ନ କରିବା କାହାଣୀଗୁଡିକ',
+    'discovery.continue': 'ପଠନ ଜାରି ରଖନ୍ତୁ',
+    'discovery.stories.similar.new': 'ନୂତନ କାହାଣୀ ସହରେ',
+    'discovery.stories.similar.regular': 'ସମୀପରେ କାହାଣୀଗୁଡିକ',
     'story.estimatedReadingTime': `ଏହା କଥା ପଢ଼ିବା କଲେ {hours, plural,
         =0 {}
         one {1 ଘଣ୍ଟା ଏବଂ }
@@ -17,34 +17,34 @@ export default {
         other {# ମିନିଟ ଏବଂ}
     } ପଢିବାରେ ।`,
     'story.estimatedReadingTime.explained': 'ପ୍ରତ୍ୟେକ ମିନିଟରେ {avgReadingNum, number} ଶବ୍ଦ ପଢ଼ିବା ସ୍ଥଳେ ଆଧାରିତ ।',
-    'discover.search.text': 'Search term',
-    'discover.searchStory.title': 'Search for a story',
-    'discover.searchStory.description': 'Search for a stories',
-    'discover.searchUniverse.title': 'Search for a universe',
-    'discover.searchUniverse.description': 'Search for a universes',
-    'discover.search.storyStatus': 'Story progress status',
-    'story.status.complete': 'Complete',
-    'story.status.inProgress': 'In-progress',
-    'discover.search.universeConnection': 'Connection of story to universe',
-    'story.universeRelation.standalone': 'Standalone story',
-    'story.universeRelation.fanFiction': 'Fan Fiction',
-    'story.universeRelation.universe': 'Part of a universe',
-    'discover.search.rating': 'Age rating',
-    'discover.search.license': 'Copyright license',
-    'discover.search.language': 'Language',
+    'discover.search.text': 'ଖୋଜ ଶବ୍ଦ',
+    'discover.searchStory.title': 'ଏକ ଗଳ୍ପ ଖୋଜନ୍ତୁ',
+    'discover.searchStory.description': 'ଗଳ୍ପଗୁଡ଼ିକା ଖୋଜନ୍ତୁ',
+    'discover.searchUniverse.title': 'ଏକ ବିଶ୍ବସମ୍ବନ୍ଧରେ ଖୋଜନ୍ତୁ',
+    'discover.searchUniverse.description': 'ବିଶ୍ବସମ୍ବନ୍ଧଗୁଡ଼ିକା ଖୋଜନ୍ତୁ',
+    'discover.search.storyStatus': 'ଗଳ୍ପ ପ୍ରଗତି ଅବସ୍ଥା',
+    'story.status.complete': 'ସମ୍ପୂର୍ଣ',
+    'story.status.inProgress': 'ଚାଲୁ ଅଛି',
+    'discover.search.universeConnection': 'ଗଳ୍ପରେ ବିଶ୍ବସମ୍ବନ୍ଧ',
+    'story.universeRelation.standalone': 'ସ୍ଥାନିକ ଗଳ୍ପ',
+    'story.universeRelation.fanFiction': 'ଫାଣ୍ ଫିକ୍ସନ',
+    'story.universeRelation.universe': 'ଏକ ବିଶ୍ବସମ୍ବନ୍ଧରେ ଅଂଶ',
+    'discover.search.rating': 'ବୟସ ରେଟିଂ',
+    'discover.search.license': 'କପିରାଇଟ୍ ଲାଇସେନ୍ସ',
+    'discover.search.language': 'ଭାଷା',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {କୌଣସି ବିଶ୍ବସମ୍ବନ୍ଧ ଆପଣଙ୍କର ପାରମେଟରଗୁଡ଼ିକୁ ମିଳେନି}
+        one {1 ବିଶ୍ବସମ୍ବନ୍ଧ ମିଳିଛି}
+        other {# ବିଶ୍ବସମ୍ବନ୍ଧ ମିଳିଛି}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {କୌଣସି ଗଳ୍ପ ଆପଣଙ୍କର ପାରମେଟରଗୁଡ଼ିକୁ ମିଳେନି}
+        one {1 ଗଳ୍ପ ମିଳିଛି}
+        other {# ଗଳ୍ପ ମିଳିଛି}
     }.`,
-    'discover.viewSelection.aria': 'View selection',
-    'discover.searchDisplay.covers': 'Covers listing',
-    'discover.searchDisplay.list': 'Compact list',
+    'discover.viewSelection.aria': 'ଦେଖାଯାଇଥିବା ପସନ୍ଦ',
+    'discover.searchDisplay.covers': 'କଭର୍‌ସ୍ ତାଲିକା',
+    'discover.searchDisplay.list': 'ସଂକୁଚିତ ତାଲିକା',
     'discover.includesAds': 'ଏହା କାର୍ଯ୍ୟରେ ଉପସ୍ଥାପନ ପନ୍ଧରୁ ଉପଭୋଗ ଅଛି ବା ଅନ୍ୟ ପ୍ରକାରରେ ବିଜ୍ଞାପନ ଅଛି ।',
     'discovery.featured.universes': 'ପ୍ରସିଦ୍ଧ ବିଷୟଗୁଡିକ',
     'discovery.featured.stories': 'ପ୍ରସିଦ୍ଧ କଥାଗୁଡିକ',

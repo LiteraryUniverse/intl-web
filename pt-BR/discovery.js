@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Busca de um universo',
     'discover.search.storyStatus': 'Status do progresso da história',
     'story.status.complete': 'Completo',
-    'story.status.inProgress': 'Em progresso',
+    'story.status.inProgress': 'Em andamento',
     'discover.search.universeConnection': 'Conexão da história com o universo',
     'story.universeRelation.standalone': 'História autônomas',
     'story.universeRelation.fanFiction': 'Ficção do ventilador',

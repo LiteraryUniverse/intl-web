@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ਸੰਰਚਨਾਵਾਂ ਲਈ ਖੋਜ ਕਰੋ',
     'discover.search.storyStatus': 'ਕਹਾਣੀ ਤਰੱਕੀ ਦੀ ਸਥਿਤੀ',
     'story.status.complete': 'ਮੁੱਕਮਲ',
-    'story.status.inProgress': 'ਚਲਦੀ',
+    'story.status.inProgress': 'ਚਲਦਾ ਹੋਇਆ ਹੈ',
     'discover.search.universeConnection': 'ਸੰਰਚਨਾ ਨਾਲ ਕਹਾਣੀ ਦੀ ਸੰਬੰਧਤਾ',
     'story.universeRelation.standalone': 'ਇਕਲੇ ਕਿੱਸਾ',
     'story.universeRelation.fanFiction': 'ਫੈਨ ਫਿਕਸ਼ਨ',

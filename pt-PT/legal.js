@@ -4,8 +4,11 @@ export default {
     'legal.modal.disagree': 'Discordo',
     'legal.modal.register': 'Não verá mais isto se se registar.',
     'legal.modal.goToSettings': 'Vá para as suas definições',
-    'legal.modal.oneLastThing': 'One last thing...',
+    'legal.modal.oneLastThing': 'Apenas mais uma coisa...',
     'legal.modal.finish': 'Finalizar',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.existingUser': 'Já está registrado?',
+    'legal.modal.pleaseLogin': 'Por favor, faça login.',
+    'legal.publicationAgreements': 'Acordos de publicação',
+    'legal.generalPublishingAgreement': 'Contrato Geral de Publicação',
+    'legal.documentsFor': 'Documentos legais para {workTitle}'
 };

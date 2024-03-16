@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Llista de lectura',
+  'readingList.type.label': 'Tipus de llista',
+  'readingList.type.stories': 'Històries',
+  'readingList.type.universes': 'Universos',
+  'readingList.ordered.label': 'Llista classificada',
+  'readingList.button.add': 'Afegir a la llista de lectura',
+  'readingList.selectList': 'Selecciona una llista de lectura',
+  'readingList.create': 'Crea una nova llista de lectura',
+  'readingList.create.aria': 'Finestra modal amb els ajustos per a una nova llista de lectura',
+  'readingList.edit.aria': 'Finestra modal per editar els ajustos de la llista de lectura',
+  'readingList.library.title': 'Les teves llistes de lectura',
+  'readingList.public.label': 'És visible públicament?',
+  'readingList.addItem': `Afegir {type, select,
+    universes {univers}
+    stories {història}
+    other {històries i universos}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Finestra modal per afegir {type, select,
+    universes {universos}
+    stories {històries}
+    other {històries i universos}
+  } a la llista de lectura.`,
+  'readingList.addItem.fromLibrary': 'Des de la biblioteca',
+  'readingList.button.added': 'Afegit'
 };

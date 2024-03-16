@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Soek vir universums',
     'discover.search.storyStatus': 'Story vordering status',
     'story.status.complete': 'Voltooid',
-    'story.status.inProgress': 'In-proses',
+    'story.status.inProgress': 'Aan die gang',
     'discover.search.universeConnection': 'Verbinding van story na universum',
     'story.universeRelation.standalone': 'Selfstandige story',
     'story.universeRelation.fanFiction': 'Fan Fiksie',

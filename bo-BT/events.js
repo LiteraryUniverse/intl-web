@@ -20,12 +20,12 @@ export default {
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': 'Join event',
   'events.selection.origin': 'Event origin',
-  'events.origin.universe': 'Universe',
+  'events.origin.universe': 'འབྲི་རིམ།',
   'events.origin.author': 'Author',
-  'events.origin.groups': 'Groups',
+  'events.origin.groups': 'སྡེ་ཚན།',
   'events.origin.organizations': 'Organizations',
   'events.origin.lu': 'Literary Universe events',
-  'events.visibility.label': 'Event visibility',
+  'events.visibility.label': 'བྱེད་རིམ་གཞན་གྱི་སྒྲིག་འབྱེད།',
   'events.visibility.public': 'Public - anyone can see this event',
   'events.visibility.owner': `Owner - only {type, select,
     group {members of your group}
@@ -35,12 +35,12 @@ export default {
   } can see this event`,
   'events.visibility.private': 'Private - only people you invite will see the event',
   'events.inviting': 'Can people who see this event invite others?',
-  'events.administration': 'Events administration',
-  'events.create.title': 'Create a new event',
-  'events.hostedBy': 'Hosted by {hostName}',
-  'events.openVirtual': 'Go to virtual location',
+  'events.administration': 'བྱེད་རིམ་གྱི་སྒྲིག་འབྱེད།',
+  'events.create.title': 'བྱེད་རིམ་གཅིག་བཟུང་འབྱེད།',
+  'events.hostedBy': '{hostName}གི་བརྗོད་བྱེད་འབྱེད་པ།',
+  'events.openVirtual': 'འཕྲོགས་པ་གསརཔ་བརྗོད་ལུ་སྒྲིག་འབྱེད་ནི།',
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'Private',
   'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Owner'
+  'event.visibilityShort.owner': 'ལག་ལེན།'
 };

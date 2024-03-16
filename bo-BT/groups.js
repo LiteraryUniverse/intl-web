@@ -10,7 +10,7 @@ export default {
     'groups.type.hidden': 'Hidden',
     'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
     'groups.imageAlt': '{groupName} picture',
-    'groups.members': 'Members',
+    'groups.members': 'ཁྱེད་ཀྱི་སྐོར།',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}
     one {is one member}
@@ -21,22 +21,22 @@ export default {
     'group.settings': 'Group settings',
     'group.role.member': 'Member',
     'group.role.moderator': 'Moderator',
-    'group.role.admin': 'Admin',
+    'group.role.admin': 'བརྗོད།',
     'groups.join.openGroup': 'Join group',
     'groups.join.closedGroup': 'Request to join group',
     'groups.join.questionToJoin': 'Question for new members',
     'groups.join.closedAria': 'Request form to join closed group',
     'groups.join.questionDefault': 'Why should you be allowed to join?',
     'groups.join.pendingRequest': 'Your request to join this group is waiting for approval from the group admins.',
-    'groups.join.requesting': 'Requesting to join',
-    'groups.invite.btn': 'Invite to group',
-    'groups.invite.modalAria': 'Invite users to group dialog',
-    'groups.invite.send': 'Send invite',
-    'groups.invite.label': 'Find user to invite',
+    'groups.join.requesting': 'སློབ་ཚན་བསྐྱོད་པ་བཟོ་བ།',
+    'groups.invite.btn': 'སློབ་ཚན་བརྩེ་བ་བཟོ་བ།',
+    'groups.invite.modalAria': 'སློབ་ཚན་ལག་འགྱོ་བརྩེ་བཟོ་བ་སྒྲོམ་གཞི།',
+    'groups.invite.send': 'བཟོ་བ་འདི་ལག་འགྱོ་བརྩེ་བ།',
+    'groups.invite.label': 'སློབ་ཚན་བརྩེ་བ་འཚོལ་བ་བཟོ་བ།',
     'groups.invite.tileMsg': `You have {count, plural,
     other {# group invites}
   }`,
-    'groups.invites.title': 'Group invitations',
-    'group.invite.accept': 'Accept invite',
-    'group.noticeBoard': 'Notice board'
+    'groups.invites.title': 'སློབ་ཚན་བརྩེ་བ་བསྐོར་བ།',
+    'group.invite.accept': 'བསྐོར་བའི་བརྩེ་བ་བདེ་ལེགས།',
+    'group.noticeBoard': 'དགོས་པར་རྣམ་པར།'
 };

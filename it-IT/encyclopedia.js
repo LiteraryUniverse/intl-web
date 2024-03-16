@@ -146,8 +146,15 @@ export default {
     other {{max, number}}
   } disponibili.`,
     'enc.entries.limitReached': 'Hai raggiunto il massimo di voci consentito nell\'enciclopedia per il tuo abbonamento attuale.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Controlli dell\'Enciclopedia',
+    'encyclopedia.pronunciation.title': 'Pronuncia',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Lavori in corso',
+    'encyclopedia.settings.templateLegend': 'Universo modello',
+    'encyclopedia.settings.templateDescription': 'Consenti che il contenuto di questa enciclopedia venga copiato in altri universi. Questo è utile se non hai storie e stai solo creando un modello per gli altri.',
+    'encyclopedia.settings.templateCheckbox': 'Questo è un universo modello',
+    'encyclopedia.templateCopy.modalTitle': 'Copia il contenuto dell\'enciclopedia',
+    'encyclopedia.templateCopy.description': 'Copia il contenuto di questa enciclopedia nel tuo universo per arricchirlo.',
+    'encyclopedia.templateCopy.targetUniverse': 'Universo di destinazione',
+    'encyclopedia.templateCopy.finished': 'Copia completata'
 };

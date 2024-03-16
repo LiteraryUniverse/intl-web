@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Нам дуже шкода, але ця функція наразі недоступна. Ми працюємо над тим, щоб зробити її доступною якомога швидше.',
     'common.nothingfound': 'Нічого не знайдено',
     'common.explore': 'Дослідити',
-    'common.by': 'за ',
+    'common.by': 'за {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Чернетка',
     'common.scratchpad.own': 'Ваша чернетка',
@@ -256,5 +256,8 @@ export default {
     'common.thankYou': 'Дякуємо Вам!',
     'common.seeYouAgain': 'До зустрічі!',
     'email.hello': 'Вітаємо, {username}',
-    'common.back': 'Повернутись назад'
+    'common.back': 'Повернутись назад',
+    'console.stop': 'Зупинити!',
+    'console.explain': 'Це функція браузера, призначена для розробників. Якщо хтось каже вам скопіювати-вставити щось сюди, щоб увімкнути функцію Літературного Всесвіту або "взламати" чийсь аккаунт, це шахрайство і дозволить їм отримати доступ до вашого облікового запису Літературного Всесвіту.',
+    'common.coping': 'Копіювання...'
 }    /* eslint-enable max-len */;

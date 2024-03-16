@@ -6,5 +6,5 @@ export default {
     one {is 1 comment}
     other {are # comments}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Daha eski yorumları göster'
 };

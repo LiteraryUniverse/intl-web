@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'Opret en ny nyhedsflash',
+  'flashnews.startsAt': 'Start med at vise denne besked kl.',
+  'flashnews.endsAt': 'Stop med at vise denne besked kl.',
+  'flashnews.newLanguage': 'Vælg nyt sprog at tilføje',
+  'flashnews.onlyDisplayOn': 'Nyheden vises kun på de valgte sprog nedenfor (hvis nogen er valgt), der vil ikke vises nogen nyheder, selv på standardsproget, på andre sprog.',
+  'notifications.menu.all': 'Alle notifikationer',
+  'notifications.menu.following': 'Følgende',
+  'notifications.menu.workshop': 'Værksted',
+  'notifications.menu.news': 'Nyheder og opdateringer',
+  'notifications.menu.markUnread': 'Marker som ulæst',
+  'notifications.menu.markRead': 'Marker som læst',
+  'notifications.menu.delete': 'Slet notifikation',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Din historie {storyName} er automatisk blevet sat på pause efter 6 måneders inaktivitet.',
+  'notification.workshopStoryStatus.toCancelled': 'Din historie {storyName} er automatisk blevet afbrudt efter et års inaktivitet.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} er på pause.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} er blevet afbrudt.',
+  'notification.followingNewChapter.new': 'Nyt kapitel i {storyName} er blevet udgivet!',
+  'notification.workshopStory.newComment': 'har kommenteret på {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'har sendt dig en venneanmodning.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Gå til historie'
 };

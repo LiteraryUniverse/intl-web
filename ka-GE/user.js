@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'მეგობრებში დამატება',
+    'user.friend.requests': `გაქვთ {num, number} ახალი მეგობრის {num, plural,
+    zero {მოთხოვნა}
+    one {მოთხოვნები}
+    many {მოთხოვნა}
+    other {მოთხოვნები}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'მეგობრობის წაშლა',
+    'user.block': 'ბლოკირება',
+    'user.unblock': 'ბლოკის მოხსნა',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {შემდეგია}
+    female {შემდეგია}
+    other {შემდეგია}} შემდეგია {date, date, long}-ზე`,
+    'user.friend.request.accept': 'მეგობრობის მოთხოვნის მიღება',
+    'user.friend.request.cancel': 'მეგობრობის მოთხოვნის გაუქმება',
+    'user.friend.request.deny': 'მეგობრობის უარყოფა',
+    'user.listing': 'მომხმარებლების სია',
+    'user.profile.visit': 'მომხმარებლის პროფილის ნახვა {user}',
+    'user.profile.avatar': '{username}-ის ავატარი',
+    'user.friend.list.requests': 'მეგობრობის მოთხოვნები',
+    'user.friend.norequests': 'არცერთი მოთხოვნა მეგობრობისთვის არ გაქვთ.',
+    'user.dashboardWelcome': `გამარჯობა {dayPart, select,
+    morning {დილის}
+    afternoon {ნაშუადღევის}
+    evening {საღამოს}
+    night {ღამე}
+    other {დღე}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'ამ ავტორის გამოქვეყნება მოხდა ტრადიციულ გზაზე',
+    'user.verification.luAuthor': 'ლიტერატურული უნივერსუმის მიხედვით ავტორი',
+    'user.verification.luEmployee': 'ლიტერატურული უნივერსუმის თამაშების თანამგზავრი',
+    'user.verification.publicFigure': 'გამომხსენებელი საჯარო პირადი',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {ისტორია}
+    other {ისტორიები}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {უნივერსიტეტი}
+    other {უნივერსიტეტები}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ფან ფიქშენი}
+    other {ფან ფიქშენები} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'ნამუშევარები',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'სასურველი სია',
+    'profile.storiesBy': 'ისტორიები, შექმნილია {username}',
+    'profile.universesBy': 'უნივერსიტეტები, შექმნილია {username}',
+    'profile.fanFictionBy': 'ფან ფიქშენები, შექმნილია {username}'
 };

@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'உலகத்தைக் கண்டறியுங்கள்',
     'discover.search.storyStatus': 'கதை முடிவு நிலை',
     'story.status.complete': 'முழுமையான',
-    'story.status.inProgress': 'முழுமையில் இருக்கின்றது',
+    'story.status.inProgress': 'நடப்பது',
     'discover.search.universeConnection': 'கதைக்கு உலகம் இணைக்கப்படுகிறது',
     'story.universeRelation.standalone': 'ஒற்றுமையான கதை',
     'story.universeRelation.fanFiction': 'பேனான்றப்பு நூல்',

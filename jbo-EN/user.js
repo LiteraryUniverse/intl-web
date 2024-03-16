@@ -1,37 +1,37 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
+    'user.friend.request.add': 'Citka la\'o zoi.friends.zoi',
     'user.friend.requests': `You have {num, number} new friend {num, plural,
     zero {requests}
     one {request}
     many {requests}
     other {requests}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Klaku',
+    'user.block': 'Blokadu',
+    'user.unblock': 'Deblokadu',
     'user.joined': `{gender, select,
     male {Joined}
     female {Joined}
     other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
+    'user.friend.request.accept': 'Jinvi la\'o zoi.friends.zoi',
+    'user.friend.request.cancel': 'Bakfu la\'o zoi.friends.zoi',
+    'user.friend.request.deny': 'Nalvai la\'o zoi.friends.zoi',
+    'user.listing': 'Joi la\'o zoi.users.zoi',
     'user.profile.visit': 'Visit {user}\'s profile.',
     'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.friend.list.requests': 'Citka la\'o zoi.friends.zoi',
+    'user.friend.norequests': 'do na\'e cilre la\'o zoi.friends.zoi',
+    'user.dashboardWelcome': `coi {dayPart, select,
+    morning {nunti}
+    afternoon {nicte}
+    evening {djedi}
+    night {vanci}
+    other {djedi}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'ti penmi cu se jibri lo se traji',
+    'user.verification.luAuthor': 'ti penmi cu se jibri lo se traji',
+    'user.verification.luEmployee': 'ti penmi cu se jibri lo se traji',
+    'user.verification.publicFigure': 'ti penmi cu se jibri lo se traji',
     'profile.storiesCount': `{count, number} {count, plural,
     one {story}
     other {stories}

@@ -29,8 +29,11 @@ export default {
     'reader.accessibility.toggleParagraphHighlight': 'Basculer les paragraphes sélectionnés en surbrillance',
     'reader.accessibility.toggleRules': 'Basculer la règle d\'assistance',
     'reader.nextRelease.scheduled': 'Le prochain chapitre sera publié le {nextReleaseAt, date} à {nextReleaseAt, time}!',
-    'reader.storyContinues': 'The story continues...',
-    'reader.storyOnHiatus': 'The author is currently taking a break from this story and this story is on hiatus for now. Check back in a month or two.',
-    'reader.storyCancelled': 'Sadly this is it. The story has been cancelled so it is unlikely there is going to be anything new.',
-    'reader.storyCancelled.heading': 'Cancelled'
+    'reader.storyContinues': 'L\'histoire se poursuit...',
+    'reader.storyOnHiatus': 'L\'auteur est actuellement en pause avec cette histoire et celle-ci est en pause pour le moment. Revenez dans un mois ou deux.',
+    'reader.storyCancelled': 'Malheureusement, c\'est terminé. L\'histoire a été annulée, il est donc peu probable qu\'il y ait quelque chose de nouveau.',
+    'reader.storyCancelled.heading': 'Annulé',
+    'reader.nextChapterEstimation.verySoon': 'Basé sur les dates de publication des derniers {chaptersCount, number} chapitres, le prochain chapitre devrait être publié très prochainement.',
+    'reader.nextChapterEstimation.days': 'Basé sur les dates de publication des derniers {chaptersCount, number} chapitres, le prochain chapitre devrait être disponible dans environ {daysLeft, plural, one {1 jour} other {# jours}}.',
+    'reader.nextChapterEstimation.notEnoughChapters': 'Nous fournirons également une estimation de la date de publication du prochain chapitre une fois que cette histoire aura plus d\'un chapitre.'
 };

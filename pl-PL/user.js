@@ -1,10 +1,10 @@
 export default {
     'user.friend.request.add': 'Dodaj do znajomych',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.requests': `Masz {num, number} nowe zaproszenie do znajomych {num, plural,
+    zero {}
+    one {zaproszenie}
+    many {}
+    other {zaproszenia}
   }`,
     'user.friend.unfriend': 'Usuń ze znajomych',
     'user.block': 'Zablokuj',
@@ -32,22 +32,22 @@ export default {
     'user.verification.luAuthor': 'Autorka z Literackiego Wszechświata',
     'user.verification.luEmployee': 'Pracownik Wszechświata Literackiego',
     'user.verification.publicFigure': 'Zweryfikowana osoba publiczna',
-    'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
-  }`,
-    'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
-  }`,
-    'profile.fanFictionsCount': `{count, number} {count, plural,
+    'profile.storiesCount': `Masz  {count, number} {count, plural,
+    one {historia}
+    other {}
+  }historie !<span class="notranslate">4</span>!`,
+    'profile.universesCount': `Masz  {count, number} {count, plural,
+    one {wszechświat}
+    other {}
+  }wszechświaty !<span class="notranslate">4</span>!`,
+    'profile.fanFictionsCount': `Masz  {count, number} {count, plural,
     one {fan fiction}
-    other {fan fictions} 
-  }`,
-    'profile.works': 'Works',
+    other {} 
+  }fan fiction !<span class="notranslate">4</span>!`,
+    'profile.works': 'Prace',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Lista życzeń',
+    'profile.storiesBy': 'Historie stworzone przez {username}',
+    'profile.universesBy': 'Wszechświaty stworzone przez {username}',
+    'profile.fanFictionBy': 'Fan Fiction stworzone przez {username}'
 };

@@ -1,8 +1,9 @@
 export default {
-    'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Pakain',
+    'feed.post.new': 'Bagong post',
+    'feed.post.like': 'Gusto ang post',
+    'feed.post.unlike': 'Hindi gusto ang post',
+    'feed.post.send': 'I-post',
+    'feed.empty': 'Walang mga entry sa feed.',
+    'feed.placeholder': 'Ano ang iniisip mo?'
 };

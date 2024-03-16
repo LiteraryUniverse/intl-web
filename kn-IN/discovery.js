@@ -16,7 +16,7 @@ export default {
         one {1 minute}
         other {# minutes}
     } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+    'story.estimatedReadingTime.explained': 'ಪ್ರತಿ ನಿಮಿಷಕ್ಕೆ ಸರಾಸರಿ ಓದುವ ಗತಿಯಲ್ಲಿ {avgReadingNum, number} ಪದಗಳ ಆಧಾರದ ಮೇಲೆ ಆಧರಿಸಲಾಗಿದೆ.',
     'discover.search.text': 'ಹುಡುಕು ಪದ',
     'discover.searchStory.title': 'ಕಥೆಗೆ ಹುಡುಕಿ',
     'discover.searchStory.description': 'ಕಥೆಗಳಿಗೆ ಹುಡುಕಿ',
@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ವಿಶ್ವಗಳಿಗೆ ಹುಡುಕಿ',
     'discover.search.storyStatus': 'ಕಥೆಯ ಪ್ರಗತಿ ಸ್ಥಿತಿ',
     'story.status.complete': 'ಪೂರ್ಣಗೊಂಡಿದೆ',
-    'story.status.inProgress': 'ಪ್ರಗತಿಯಲ್ಲಿದೆ',
+    'story.status.inProgress': 'ನಡುವೆಯೇ',
     'discover.search.universeConnection': 'ಕಥೆಯನ್ನು ವಿಶ್ವದ ಸಂಪರ್ಕದೊಂದಿಗೆ',
     'story.universeRelation.standalone': 'ಪ್ರತ್ಯೇಕ ಕಥೆ',
     'story.universeRelation.fanFiction': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್',
@@ -33,30 +33,30 @@ export default {
     'discover.search.license': 'ಪರಿಮಿತಿ ಹಕ್ಕಿಗೆ ಮಾಹಿತಿ ಪತ್ರ',
     'discover.search.language': 'ಭಾಷೆ',
     'discover.search.resultsTotal.universe': `{results, plural,
-        =0 {No universes match your parameters}
-        one {1 universe found}
-        other {# universes found}
+        =0 {ನಿಮ್ಮ ಪಾರಮೇಟರ್‌ಗಳಿಗೆ ಯಾವುದೇ ವಿಶ್ವಗಳು ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ}
+        one {1 ವಿಶ್ವ ಕಂಡುಬಂದಿದೆ}
+        other {# ವಿಶ್ವಗಳು ಕಂಡುಬಂದಿವೆ}
     }.`,
     'discover.search.resultsTotal.story': `{results, plural,
-        =0 {No stories match your parameters}
-        one {1 story found}
-        other {# stories found}
+        =0 {ನಿಮ್ಮ ಪಾರಮೇಟರ್‌ಗಳಿಗೆ ಯಾವುದೇ ಕಥೆಗಳು ಹೊಂದಿಕೊಳ್ಳುವುದಿಲ್ಲ}
+        one {1 ಕಥೆ ಕಂಡುಬಂದಿದೆ}
+        other {# ಕಥೆಗಳು ಕಂಡುಬಂದಿವೆ}
     }.`,
     'discover.viewSelection.aria': 'ಆಯ್ಕೆ ಮಾದರಿ ವೀಕ್ಷಣೆ',
     'discover.searchDisplay.covers': 'ಮೇಲ್ಮಟ್ಟದ ಪಟಗಳು',
     'discover.searchDisplay.list': 'ಸಂಕ್ಷಿಪ್ತ ಪಟಗಳು',
-    'discover.includesAds': 'This work has product placement or includes other form of advertisements in it.',
-    'discovery.featured.universes': 'Featured universes',
-    'discovery.featured.stories': 'Featured stories',
-    'discovery.story.tableOfContent': 'Table of content',
-    'story.status.hiatus': 'On hiatus',
-    'story.status.cancelled': 'Cancelled',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
-    'discovery.moreDetails': 'More details',
-    'discovery.read': 'Read',
-    'discovery.chapters.showAll': 'Show all chapters',
-    'discovery.chapters.showMore': 'Show more chapters',
-    'discovery.chaptersTotal': 'Total number of chapters in the story',
-    'discovery.readFromStart': 'Read from first chapter',
-    'discovery.readLatest': 'Read the latest chapter'
+    'discover.includesAds': 'ಈ ಕೆಲಸದಲ್ಲಿ ಉತ್ಪನ್ನ ಪ್ರದರ್ಶನ ಅಥವಾ ಇತರ ವಿಜ್ಞಾಪನದ ವಿನ್ಯಾಸ ಇದೆ.',
+    'discovery.featured.universes': 'ಪ್ರಮುಖ ಬ್ರಹ್ಮಾಂಡಗಳು',
+    'discovery.featured.stories': 'ಪ್ರಮುಖ ಕಥೆಗಳು',
+    'discovery.story.tableOfContent': 'ವಿಷಯ ಸೂಚಿಕೆ',
+    'story.status.hiatus': 'ಹೈಯೇಟಸ್ ನಲ್ಲಿ',
+    'story.status.cancelled': 'ರದ್ದಾಗಿದೆ',
+    'story.chapter.wasRead': 'ಓದಲಾಗಿದೆ - {readAt, date}',
+    'discovery.moreDetails': 'ಹೆಚ್ಚಿನ ವಿವರಗಳು',
+    'discovery.read': 'ಓದಿ',
+    'discovery.chapters.showAll': 'ಎಲ್ಲಾ ಅಧ್ಯಾಯಗಳನ್ನು ತೋರಿಸು',
+    'discovery.chapters.showMore': 'ಹೆಚ್ಚಿನ ಅಧ್ಯಾಯಗಳನ್ನು ತೋರಿಸು',
+    'discovery.chaptersTotal': 'ಕಥೆಯ ಒಟ್ಟು ಅಧ್ಯಾಯಗಳ ಸಂಖ್ಯೆ',
+    'discovery.readFromStart': 'ಮೊದಲ ಅಧ್ಯಾಯದಿಂದ ಓದು',
+    'discovery.readLatest': 'ಇತ್ತೀಚಿನ ಅಧ್ಯಾಯವನ್ನು ಓದಿ'
 };

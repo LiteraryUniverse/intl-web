@@ -27,14 +27,14 @@ export default {
     'org.forums.title': '{orgName} fora',
     'org.flashnews.internal': 'Wiadomości wewnętrzne',
     'org.flashnews.publicAll': 'Publiczne komunikaty dla wszystkich nieruchomości',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Utwórz nowy komunikat prasowy dla {type, select,
+    internal {organizacji}
+    allProperties {i wyświetl publicznie na wszystkich właściwościach}
+    other {organizacji}
   }`,
     'org.members.invited': 'Zaproszeni członkowie',
     'org.members.list': 'Członkowie organizacji',
-    'org.invitesTileNotice': 'You have been invited to {count, number} {count, plural, one {organization} other {organizations}}',
+    'org.invitesTileNotice': 'Zostałeś zaproszony do {count, number} organizacji {count, plural, one {} other {organizacji}}',
     'org.invitePage.title': 'Zaproszenia do organizacji',
     'org.invitePage.invitedAt': 'Zostałeś zaproszony na {invitedAt, date, short}.',
     'org.invitePage.ignoring': 'Obecnie ignorujesz to zaproszenie, co oznacza, że jest ono nadal aktywne, ale nie przeszkadza w otrzymywaniu powiadomień.',

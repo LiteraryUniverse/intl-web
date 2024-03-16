@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'মূল্যায়ন',
+    'rating.explained': 'বয়স মূল্যায়ন এবং সীমাবদ্ধতা।',
+    'rating.all': 'সব',
+    'rating.desc.all': 'সকল বয়স ও গোষ্ঠীতে অ্যাক্সেসযোগ্য।',
+    'rating.teens': 'টিনেজ',
+    'rating.desc.teens': 'বয়স 12 থেকে 18 বছরের মধ্যে দর্শকদের জন্য উপযুক্ত।',
+    'rating.mature': 'প্রপ্রথম',
+    'rating.desc.mature': 'অগ্রসর বিষয়সমূহ, কাঁচা ভাষা এবং গোপন দৃশ্য ধারণ করে।',
+    'rating.explicit': 'স্পষ্ট',
+    'rating.desc.explicit': 'স্পষ্ট দৃশ্য ধারণ করে।',
+    'rating.selection.all': 'সব - সকল বয়স ও গোষ্ঠীতে অ্যাক্সেসযোগ্য।',
+    'rating.selection.teens': 'টিনেজ (12-18) - বয়স 12 থেকে 18 বছরের মধ্যে দর্শকদের জন্য উপযুক্ত।',
+    'rating.selection.mature': 'প্রপ্রথম (18+) - অগ্রসর বিষয়সমূহ, কাঁচা ভাষা এবং গোপন দৃশ্য ধারণ করে।',
+    'rating.selection.explicit': 'স্পষ্ট (21+) - স্পষ্ট দৃশ্য ধারণ করে।'
 };

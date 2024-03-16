@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Usapan',
+    'pm.showolder': 'Ipakita ang mas lumang mga mensahe',
+    'pm.errors.saysomething': 'Dapat kang magsabi ng kahit ano...',
+    'pm.errors.addrecipient': 'Kailangan mong magdagdag ng hindi bababa sa isang ibang user.',
+    'pm.message': 'Mensahe',
+    'pm.send.message': 'Ipadala ang mensahe',
+    'pm.messages.own': 'Iyong mga mensahe',
+    'pm.conversations.none': 'Hindi ka kasalukuyang nakikipag-usap sa sinuman.',
+    'pm.to': 'Sa:',
+    'pm.with': 'Usapan kay:',
+    'pm.send': 'Ipadala',
+    'pm.conversations.unreadCount': `Mayroon kang {count, plural,
+    zero {walang binasang usapan}
+    one {isang binasang usapan}
+    other {mga binasang usapan}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Kailangan mong pumili ng tatanggap.',
+    'pm.form.maxParticipants': `Maaari kang magkaroon ng maximum ng {maxPeople, plural,
+    one {isang tao}
+    other {# mga tao}
+  } sa isang pag-uusap.`,
+    'pm.new.aria': 'Bagong usapan',
+    'pm.new.buttonTitle': 'Simulan ang bagong usapan'
 };

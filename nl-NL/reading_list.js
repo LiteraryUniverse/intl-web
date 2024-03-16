@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
-  }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.title': 'Leeslijst',
+  'readingList.type.label': 'Lijsttype',
+  'readingList.type.stories': 'Verhalen',
+  'readingList.type.universes': 'Universums',
+  'readingList.ordered.label': 'Gerangschikte lijst',
+  'readingList.button.add': 'Toevoegen aan leeslijst',
+  'readingList.selectList': 'Selecteer leeslijst',
+  'readingList.create': 'Maak een nieuwe leeslijst',
+  'readingList.create.aria': 'Modaal met instellingen voor een nieuwe leeslijst',
+  'readingList.edit.aria': 'Modaal om de instellingen van de leeslijst te bewerken',
+  'readingList.library.title': 'Jouw leeslijsten',
+  'readingList.public.label': 'Is publiekelijk zichtbaar?',
+  'readingList.addItem': `Voeg {type, select,
+    universes {universum}
+    stories {verhaal}
+    other {verhalen en universums}
+  }toe`,
+  'readingList.addItem.modalAria': `Modaal om {type, select,
+    universes {universums}
+    stories {verhalen}
+    other {verhalen en universums}
+  } toe te voegen aan de leeslijst.`,
+  'readingList.addItem.fromLibrary': 'Uit bibliotheek',
+  'readingList.button.added': 'Toegevoegd'
 };

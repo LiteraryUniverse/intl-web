@@ -4,19 +4,19 @@ export default {
     'form.validator.mustBeNumber': 'Πρέπει να είναι αριθμός',
     'form.validator.minNumber': 'Πρέπει να είναι μεγαλύτερη από {min, number}',
     'form.validator.maxNumber': 'Θα πρέπει να είναι μικρότερη από {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.maxLength': `Θα πρέπει να είναι λιγότερο από {max, number} {what, select,
+    characters {χαρακτήρες}
+    tags {ετικέτες}
+    genres {είδη}
+    numbers {αριθμοί}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Θα πρέπει να είναι τουλάχιστον {min, number} {what, select,
+    characters {χαρακτήρες}
+    tags {ετικέτες}
+    genres {είδη}
+    genre {είδος}
+    numbers {αριθμοί}
     other {}
   }`,
     'form.validator.email': 'Πρέπει να είναι έγκυρο e-mail',
@@ -29,23 +29,23 @@ export default {
     'form.validator.whitespace': 'Δεν πρέπει να έχει λευκό χώρο',
     'form.validator.zipCode': 'Πρέπει να είναι έγκυρος ταχυδρομικός κώδικας',
     'form.validator.isbn': 'Δεχόμαστε μόνο 10 ή 13 έκδοση του ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.btc': 'Αυτή δεν είναι μια έγκυρη διεύθυνση BTC.',
+    'form.validator.eth': 'Αυτή δεν είναι μια έγκυρη διεύθυνση ETH.',
+    'form.weakPassword': 'Αυτός ο κωδικός φαίνεται αδύναμος. Παρακαλώ λάβετε υπόψη να τον κάνετε πιο ισχυρό προσθέτοντας αριθμούς και ειδικούς χαρακτήρες.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': 'Το πεδίο {label} είναι απαραίτητο',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
+    'simpleschema.minString': 'To πεδίο {label} πρέπει να είναι τουλάχιστον {min, number} χαρακτήρες',
+    'simpleschema.maxString': 'To πεδίο {label} δεν μπορεί να υπερβαίνει τους {max, number} χαρακτήρες',
+    'simpleschema.minNumber': 'To πεδίο {label} πρέπει να είναι τουλάχιστον {min, number}',
+    'simpleschema.maxNumber': 'To πεδίο {label} δεν μπορεί να είναι μεγαλύτερο από {max, number}',
+    'simpleschema.minNumberExclusive': 'To πεδίο {label} πρέπει να είναι μεγαλύτερο από {min, number}',
+    'simpleschema.maxNumberExclusive': 'To πεδίο {label} πρέπει να είναι μικρότερο από {max, number}',
+    'simpleschema.minDate': 'Το πεδίο {label} πρέπει να είναι μία ημερομηνία μετά από {min, date}',
+    'simpleschema.maxDate': 'Το πεδίο {label} πρέπει να είναι μία ημερομηνία πρίν από {max, date}',
     'simpleschema.badDate': 'Το πεδίο {label} δεν είναι έγκυρη ημερομηνία',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+    'simpleschema.minCount': 'Πρέπει να επιλέξετε τουλάχιστον {minCount, number} τιμές',
+    'simpleschema.maxCount': 'Δεν μπορείτε να επιλέξετε περισσότερες από {maxCount, number} τιμές',
     'simpleschema.noDecimal': 'Το πεδίο {label} πρέπει να είναι ακέραιος αριθμός',
     'simpleschema.notAllowed': 'To {value} δεν είναι αποδεκτή τιμή',
     'simpleschema.expectedString': 'Το πεδίο {label} πρέπει να είναι μια σειρά χαρακτήρων',

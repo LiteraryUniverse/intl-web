@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'רשימת קריאה',
+  'readingList.type.label': 'סוג רשימה',
+  'readingList.type.stories': 'סיפורים',
+  'readingList.type.universes': 'יקומים',
+  'readingList.ordered.label': 'רשימה ממוינת',
+  'readingList.button.add': 'הוסף לרשימת קריאה',
+  'readingList.selectList': 'בחר רשימת קריאה',
+  'readingList.create': 'צור רשימת קריאה חדשה',
+  'readingList.create.aria': 'חלון עם הגדרות לרשימת קריאה חדשה',
+  'readingList.edit.aria': 'חלון עריכת הגדרות לרשימת קריאה',
+  'readingList.library.title': 'הרשימות שלך',
+  'readingList.public.label': 'נראה לציבור?',
+  'readingList.addItem': `הוסף {type, select,
+    universes {יחידת יישות}
+    stories {סיפור}
+    other {סיפורים ויחידות יישות}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `חלון עם הגדרות להוספת {type, select,
+    universes {יחידות יישות}
+    stories {סיפורים}
+    other {סיפורים ויחידות יישות}
+  } לרשימת הקריאה.`,
+  'readingList.addItem.fromLibrary': 'מספרייה',
+  'readingList.button.added': 'נוסף'
 };

@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
+    'rating.name': 'Klasifiko',
+    'rating.explained': 'Aĝoklasifiko kaj limigoj.',
     'rating.all': 'Ĉiuj',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
+    'rating.desc.all': 'Alirebla por ĉiuj aĝoj kaj grupoj.',
+    'rating.teens': 'Adoleskantoj',
+    'rating.desc.teens': 'Taŭga por spektantaro inter la aĝoj de 12 kaj 18 jaroj.',
     'rating.mature': 'Maljunaj',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.desc.mature': 'Enhavas profundajn temojn, malĝentilan lingvon kaj subkomprenajn scenojn.',
+    'rating.explicit': 'Eksplika',
+    'rating.desc.explicit': 'Enhavas eksplikajn scenojn.',
+    'rating.selection.all': 'Ĉiuj - Alirebla por ĉiuj aĝoj kaj grupoj.',
+    'rating.selection.teens': 'Adoleskantoj (12-18) - Taŭga por spektantaro inter la aĝoj de 12 kaj 18 jaroj.',
+    'rating.selection.mature': 'Plenkreska (18+) - Enhavas profundajn temojn, malĝentilan lingvon kaj subkomprenajn scenojn.',
+    'rating.selection.explicit': 'Eksplika (21+) - Enhavas eksplikajn scenojn.'
 };

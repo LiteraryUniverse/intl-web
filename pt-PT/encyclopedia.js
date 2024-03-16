@@ -146,8 +146,15 @@ export default {
     other {{max, number}}
   } entradas.`,
     'enc.entries.limitReached': 'Atingiu o máximo de entradas enciclopédicas permitidas para a sua subscrição atual.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Controles da Enciclopédia',
+    'encyclopedia.pronunciation.title': 'Pronúncia',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Trabalho em Progresso',
+    'encyclopedia.settings.templateLegend': 'Universo modelo',
+    'encyclopedia.settings.templateDescription': 'Permitir que o conteúdo desta enciclopédia seja copiado para outros universos. Isso é melhor se você não tiver nenhuma história e estiver apenas criando um modelo para outros usarem.',
+    'encyclopedia.settings.templateCheckbox': 'Este é um universo modelo',
+    'encyclopedia.templateCopy.modalTitle': 'Copiar conteúdo da enciclopédia',
+    'encyclopedia.templateCopy.description': 'Copie o conteúdo desta enciclopédia para o seu universo para enriquecê-lo.',
+    'encyclopedia.templateCopy.targetUniverse': 'Universo de destino para a cópia',
+    'encyclopedia.templateCopy.finished': 'Cópia concluída'
 };

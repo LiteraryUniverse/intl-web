@@ -1,57 +1,58 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Sinulla ei tällä hetkellä ole {type, select,
+    organization {mitään blogia}
+    universe {blogia universumillesi}
+    user {blogia}
     other {}
   }.`,
-    'blog.create': 'Create a new blog',
+    'blog.create': 'Luo uusi blogi',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {Blogi}
+    universe {Universumi sivu}
+    user {Blogi}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+  } asetukset`,
+    'blog.description': 'Blogiesittely',
+    'blog.theme': 'Teema',
+    'blog.theme.info': 'Muokkaamalla teemaa voit muuttaa sivun ulkonäköä. Tämä toiminto ei ole tällä hetkellä käytettävissä.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+    'blog.post.create': 'Luo uusi viesti',
+    'blog.post.update': 'Muokkaa viestiä ! {title}',
+    'blog.post.text': 'Viestin teksti',
+    'common.slug': 'SEO-ystävällinen osoite',
+    'blog.slug.explained': 'Kaunis url viestille. Vältä erikoismerkkejä paitsi "-".',
+    'blog.publicView': 'Julkinen näkymä',
+    'blog.post.notfound': 'Blogiviestiä ei löytynyt',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {Universumit}
+    stories {Erilliset tarinat}
+    fanfiction {Fanifiktio työ}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'Tässä luetellaan itsenäiset tarinat. Jos tarina on osa universumia, se näkyy universumin sivulla.',
+    'blog.social.sameAsMain': `Sosiaaliset linkit ovat samat kuin {type, select,
+    organization {organisaation asetukset}
+    user {käyttäjäprofiili}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.social.website': 'Virallinen verkkosivusto',
+    'blog.settings.universeSettings': 'Universe-blogeja integroidaan universumisivuille yleisillä asetuksilla.',
+    'blog.settings.organizationSettings': 'Organisaatioblogit on integroitu organisaatiosivuihin.',
+    'blogs.lu': 'Virallisesti kirjallisuuden universumin blogit',
+    'blogs.featured': 'Esittelyssä olevat blogit',
+    'blogs.new': 'Uusimmat blogit',
+    'blogs.title': 'Kirjallisuuden universumin blogit',
+    'blogs.description': 'Listaus blogeista kirjallisuuden universumissa',
+    'blogs.visit': 'Siirry blogiin',
+    'blog.settingsAria': 'Blogiasetuksien luokat',
+    'blog.settings.blog': 'Blogi',
+    'blog.settings.forum': 'Foorumi',
+    'blog.post.introText': 'Johdantokappale',
+    'blog.post.writtenBy': 'Kirjoittanut {usernameDisplay}',
+    'blog.post.writtenByFor': 'Kirjoittanut {usernameDisplay} kohteelle {publicationName}',
+    'blog.posts.recent': 'Viimeisimmät viestit'
 };

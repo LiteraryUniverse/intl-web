@@ -1,53 +1,53 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'ਮਿੱਤਰਾਂ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ',
+    'user.friend.requests': `ਤੁਹਾਡੇ ਕੋਲ {num, number} ਨਵੇਂ ਦੋਸਤ {num, plural,
+    zero {ਬੇਨਤੀਆਂ ਹਨ}
+    one {ਬੇਨਤੀ}
+    many {ਬੇਨਤੀਆਂ ਹਨ}
+    other {ਬੇਨਤੀਆਂ ਹਨ}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'ਮਿੱਤਰੀ ਤੋਂ ਹਟਾਓ',
+    'user.block': 'ਬਲਾਕ ਕਰੋ',
+    'user.unblock': 'ਅਨਬਲਾਕ ਕਰੋ',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    male {ਨੇ}
+    female {ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਇਆ!}
+    other {ਨੇ}} ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਇਆ!  ਤੇ {date, date, long}ਨੇ ਸ਼ਾਮਲ ਹੋਇਆ!`,
+    'user.friend.request.accept': 'ਮਿੱਤਰੀ ਦੀ ਬੇਨਤੀ ਮਨਜ਼ੂਰ ਕਰੋ',
+    'user.friend.request.cancel': 'ਮਿੱਤਰੀ ਦੀ ਬੇਨਤੀ ਰੱਦ ਕਰੋ',
+    'user.friend.request.deny': 'ਮਿੱਤਰੀ ਨੂੰ ਇਨਕਾਰ ਕਰੋ',
+    'user.listing': 'ਯੂਜ਼ਰ ਦੀ ਲਿਸਟਿੰਗ',
+    'user.profile.visit': 'ਵੇਖੋ {user}ਦਾ ਪ੍ਰੋਫਾਈਲ।',
+    'user.profile.avatar': '{username}ਦਾ ਅਵਤਾਰ',
+    'user.friend.list.requests': 'ਮਿੱਤਰੀ ਦੀਆਂ ਬੇਨਤੀਆਂ',
+    'user.friend.norequests': 'ਤੁਹਾਡੇ ਕੋਲ ਮਿੱਤਰੀ ਦੀਆਂ ਬੇਨਤੀਆਂ ਨਹੀਂ ਹਨ।',
+    'user.dashboardWelcome': `ਸ਼ੁਭ ਸਵੇਰ! {dayPart, select,
+    morning {ਸ਼ਾਮ!}
+    afternoon {ਸ਼ਾਮ!}
+    evening {ਰਾਤ!}
+    night {ਰਾਤ!}
+    other {ਦਿਨ!}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'ਇਸ ਲੇਖਕ ਨੇ ਰਵਾਇਤੀ ਤਰੀਕੇ ਨਾਲ ਪ੍ਰਕਾਸ਼ਿਤ ਹੋਇਆ ਹੈ',
+    'user.verification.luAuthor': 'ਸਾਹਿਤਿਕ ਯੂਨੀਵਰਸ ਦੇ ਮੌਜੂਦਾ ਲੇਖਕ',
+    'user.verification.luEmployee': 'ਸਾਹਿਤਿਕ ਯੂਨੀਵਰਸ ਦੇ ਕਰਮਚਾਰੀ',
+    'user.verification.publicFigure': 'ਪ੍ਰਮਾਣਿਤ ਜਨਤਕ ਵਖਰਾ',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {ਕਹਾਣੀ}
+    other {ਕਹਾਣੀਆਂ}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {ਬ੍ਰਹਮਾਂਡ}
+    other {ਬ੍ਰਹਮਾਂਡਾਂ}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {ਫੈਨ ਫਿਕਸ਼ਨ}
+    other {ਫੈਨ ਫਿਕਸ਼ਨਾਂ} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'ਕੰਮ',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'ਇੱਛ-ਸੂਚੀ',
+    'profile.storiesBy': '! {username}! ਵੱਡੀਆਂ ਕਹਾਣੀਆਂ',
+    'profile.universesBy': '! {username}! ਵੱਡੇ ਬ੍ਰਹਮਾਂਡ',
+    'profile.fanFictionBy': '! {username}! ਵੱਡੀਆਂ ਫੈਨ ਫਿਕਸ਼ਨਾਂ'
 };

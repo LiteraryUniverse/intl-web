@@ -1,10 +1,10 @@
 export default {
     'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.requests': `Du har {num, number} ny venneanmodning {num, plural,
+    zero {anmodninger}
+    one {anmodning}
+    many {anmodninger}
+    other {anmodninger}
   }`,
     'user.friend.unfriend': 'Unfriend',
     'user.block': 'Block',
@@ -21,33 +21,33 @@ export default {
     'user.profile.avatar': '{username}\'s avatar',
     'user.friend.list.requests': 'Friendships requests',
     'user.friend.norequests': 'You have no requests for friendship.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Godt {dayPart, select,
+    morning {morgen}
+    afternoon {eftermiddag}
+    evening {aften}
+    night {nat}
+    other {dag}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Denne forfatter er blevet udgivet på traditionel vis',
+    'user.verification.luAuthor': 'Litterære Univers baseret forfatter af note',
+    'user.verification.luEmployee': 'Litterære Univers medarbejder',
+    'user.verification.publicFigure': 'Verificeret offentlig person',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {historie}
+    other {historier}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {univers}
+    other {universer}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
     other {fan fictions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Værker',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Ønskeliste',
+    'profile.storiesBy': 'Historier oprettet af {username}',
+    'profile.universesBy': 'Universer oprettet af {username}',
+    'profile.fanFictionBy': 'Fan Fiction oprettet af {username}'
 };

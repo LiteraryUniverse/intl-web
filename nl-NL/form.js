@@ -1,51 +1,51 @@
 export default {
     'form.requiredSymbol': '*',
-    'form.validator.required': 'Required field',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
+    'form.validator.required': 'Verplicht veld',
+    'form.validator.mustBeNumber': 'Moet een nummer zijn',
+    'form.validator.minNumber': 'Moet groter zijn dan {min, number}',
+    'form.validator.maxNumber': 'Moet lager zijn dan {max, number}',
+    'form.validator.maxLength': `Moet minder dan {max, number} {what, select,
+    characters {tekens}
     tags {tags}
     genres {genres}
-    numbers {numbers}
+    numbers {nummers}
     other {}
-  }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
+  }zijn.`,
+    'form.validator.minLength': `Moet minimaal {min, number} {what, select,
+    characters {tekens}
     tags {tags}
     genres {genres}
     genre {genre}
-    numbers {numbers}
+    numbers {nummers}
     other {}
-  }`,
-    'form.validator.email': 'Must be a valid e-mail',
-    'form.validator.url': 'Must be a valid URL',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
-    'form.submitting.default': 'Submitting...',
-    'form.submitting.sending': 'Sending...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+  }zijn.`,
+    'form.validator.email': 'Moet een geldig e-mailadres zijn',
+    'form.validator.url': 'Moet een geldige URL zijn',
+    'form.validator.slug': 'Moet een geldig onderdeel van de URL zijn',
+    'form.submitting.signup': 'Account aanmaken...',
+    'form.submitting.signin': 'Inloggen...',
+    'form.submitting.default': 'Bezig met verzenden...',
+    'form.submitting.sending': 'Verzenden...',
+    'form.validator.whitespace': 'Mag geen spaties bevatten',
+    'form.validator.zipCode': 'Moet een geldige postcode zijn',
+    'form.validator.isbn': 'We accepteren alleen versie 10 of 13 van ISBN',
+    'form.validator.btc': 'Dit is geen geldig BTC-adres.',
+    'form.validator.eth': 'Dit is geen geldig ETH-adres.',
+    'form.weakPassword': 'Dit wachtwoord lijkt zwak. Overweeg om het sterker te maken door nummers en speciale tekens toe te voegen.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
     'simpleschema.required': '{label} is vereist',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
+    'simpleschema.minString': '{label} moet minimaal {min, number} karakters bevatten',
+    'simpleschema.maxString': '{label} kan maximaal {max, number} karakters bevatten',
+    'simpleschema.minNumber': '{label} moet minstens {min, number} zijn',
+    'simpleschema.maxNumber': '{label} kan niet meer dan {max, number} zijn',
+    'simpleschema.minNumberExclusive': '{label} moet minstens {min, number} zijn',
+    'simpleschema.maxNumberExclusive': '{label} kan niet meer dan {max, number} zijn',
+    'simpleschema.minDate': '{label} moet minimaal datum {min, date} zijn',
+    'simpleschema.maxDate': '{label} kan niet de datum {max, date} overschrijden',
     'simpleschema.badDate': '{label} is niet een datum in het gevraagde formaat',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+    'simpleschema.minCount': 'Minimaal {minCount, number} waardes invoeren',
+    'simpleschema.maxCount': 'Er kunnen niet meer dan {maxCount, number} waardes worden ingevoerd',
     'simpleschema.noDecimal': '{label} kan geen kommagetal zijn',
     'simpleschema.notAllowed': '{value} mag niet ingevoerd worden',
     'simpleschema.expectedString': '{label} moet van het type tekst zijn',

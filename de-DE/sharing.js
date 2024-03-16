@@ -18,6 +18,6 @@ export default {
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr',
-    'sharing.minds': 'Minds.com',
+    'sharing.minds': 'Mindss.com',
     'sharing.instagram': 'Instagram'
 };

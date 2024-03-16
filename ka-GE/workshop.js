@@ -1,22 +1,22 @@
 export default {
-    'workshop.title': 'Your work',
-    'workshop.noneassigned': 'You have not been assigned any yet.',
-    'workshop.notavailable': 'This feature is not yet available.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.title': 'შენი სამუშაო',
+    'workshop.noneassigned': 'შენ ჯერ არ გაქვს მინიმუმ ერთი.',
+    'workshop.notavailable': 'ეს ფუნქცია ჯერ არ არის ხელმისაწვდომი.',
+    'workshop.none': `ამჟამად თქვენ არ გაქვთ {type, select,
+      universe {უნივერსუმის}
+      story {მოთავსება}
+      fanfiction {ფან-ფიქშენი}
       other {}
-    }. Create one now!`,
-    'workshop.collab': 'Collaborative work',
-    'workshop.betareadings': 'Beta readings',
+    }. შექმენით ახლა!`,
+    'workshop.collab': 'თანაშრომლის სამუშაო',
+    'workshop.betareadings': 'ბეტა წაკითხვები',
     'workshop.translations': 'Translations',
     'workshop.createnew': 'Create new...',
     'workshop.story.standalone': 'Standalone story',
     'workshop.story.standalone.desc': 'This is a standalone story.',
     'workshop.controlpanel': '{name} control panel',
     'workshop.universe.page': 'Universe page',
-    'workshop.fictionaltime': 'Fictional time',
+    'workshop.fictionaltime': 'ფიქციური დრო',
     'workshop.dashboard.name': '{name} dashboard',
     'workshop.stories.in': 'Stories in {universe}',
     'workshop.universe.nostories': 'There are no stories in this universe.',
@@ -25,11 +25,11 @@ export default {
     'workshop.universe.publish': 'Publish universe',
     'workshop.universe.publishing.notice': 'If you do not publish the universe, it will be published automatically when the first story connected to the universe is published.',
     'workshop.universe.settings': '{universe} universe settings',
-    'workshop.universe.publishedOn': 'This universe has been published on {date, date, long} {date, time, short}',
+    'workshop.universe.publishedOn': 'ამ უნივერსუმის გამოქვეყნებულია {date, date, long} {date, time, short}',
     'workshop.universe.description': 'Universe description',
     'workshop.settings.title': 'Title',
     'workshop.description': 'Description',
-    'workshop.language.primary': 'Primary language',
+    'workshop.language.primary': 'პირველადი ენა',
     'workshop.publication.options': 'Publication options',
     'workshop.rating': 'General rating',
     'workshop.universe.rating.desc': 'Stories and fanfiction above this rating will be hidden from the universe page listing from anonymous users and users who are not of the appropriate age.',
@@ -49,7 +49,7 @@ export default {
     'workshop.story.new': 'Create a new story',
     'workshop.story.publishing.notice': 'The story will be published automatically once you publish the first chapter.',
     'workshop.settings.edit': 'Edit settings',
-    'workshop.story.publishedOn': 'This story was published on {date, date, long} {date, time, short}',
+    'workshop.story.publishedOn': 'ამ მოთხრობამ გამოქვეყნებულია {date, date, long} {date, time, short}',
     'workshop.story.settings': 'Story settings',
     'workshop.settings.basic': 'Basic settings',
     'workshop.settings.genres': 'Genres (max 2)',
@@ -70,39 +70,39 @@ export default {
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'You need to create a revision first.',
-    'workshop.revisions.comments.select': 'Select revision',
-    'workshop.collaborators.noresults': 'No results',
-    'workshop.collaborators.add.beta': 'Add Beta reader',
-    'workshop.collaborators.add.collaborator': 'Add collaborator',
-    'workshop.collaborators.add.translator': 'Add translator',
-    'workshop.collaborators.language.add': 'Create a new translation',
-    'workshop.translations.stories': 'Translations - stories',
-    'workshop.translations.universes': 'Translations - universes',
-    'workshop.revisions.beta.none': 'No revisions at this time.',
-    'reader.asidetoggle': 'Toggle aside information',
-    'workshop.translation.original': 'Original:',
-    'workshop.translation.original.title': 'Original title:',
-    'workshop.translation.original.description': 'Original description:',
-    'workshop.translation.original.cover': 'Original cover',
-    'workshop.translation.original.tags': 'Original tags',
-    'workshop.cover.alt': 'cover image',
-    'workshop.translation.updatedOrig': 'Last update of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.updatedTrs': 'Last update of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionOrig': 'Last revision {revision, number}, of original: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.translation.revisionTrs': 'Last revision {revision, number}, of translation: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.revisions.comments.select': 'აირჩიეთ რევიზია',
+    'workshop.collaborators.noresults': 'შედეგები არ არის',
+    'workshop.collaborators.add.beta': 'ბეტა წამომღებელის დამატება',
+    'workshop.collaborators.add.collaborator': 'თანამშრომლის დამატება',
+    'workshop.collaborators.add.translator': 'თარგმანის დამატება',
+    'workshop.collaborators.language.add': 'ახალი თარგმანის შექმნა',
+    'workshop.translations.stories': 'თარგმანები - მოთხოვნები',
+    'workshop.translations.universes': 'თარგმანები - უნივერსები',
+    'workshop.revisions.beta.none': 'ამ დროს არ არის რევიზიები.',
+    'reader.asidetoggle': 'ინფორმაციის გადართვა/ჩამოსატვირთად მოხდეს',
+    'workshop.translation.original': 'ორიგინალი:',
+    'workshop.translation.original.title': 'ორიგინალის სათაური:',
+    'workshop.translation.original.description': 'ორიგინალის აღწერა:',
+    'workshop.translation.original.cover': 'ორიგინალის გარეკანი',
+    'workshop.translation.original.tags': 'ორიგინალის ტეგები',
+    'workshop.cover.alt': 'გარეკანის სურათი',
+    'workshop.translation.updatedOrig': 'ორიგინალის ბოლო განახლება: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.updatedTrs': 'თარგმნის ბოლო განახლება: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionOrig': 'ბოლო რევიზია {revision, number}, ორიგინალის მიხედვით: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.translation.revisionTrs': 'ბოლო რევიზია {revision, number}, თარგმნის მიხედვით: {updatedAt, date, long} {updatedAt, time, medium}',
+    'workshop.collaborators.premium': `რომ დაამატოთ მეტი {type, select,
+    collaborator {თანამშრომლისთვის}
+    beta {ბეტა წამომიყვანებელი}
+    translator {თარგმნელი}
     other {}
-  }, you need to increase your membership tier.`,
-    'workshop.collaborators.requests.sent': 'Sent requests',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+  }, უნდა გაზარდოთ თქვენი წევრობის ტიერია.`,
+    'workshop.collaborators.requests.sent': 'გაგზავნილი მოთხოვნები',
+    'workshop.collaborators.requests.invite': `თქვენ მოგწონთ გახდათ {role, select,
+    beta {ბეტა წამომიყვანებელი}
+    translator {თარგმნელი}
+    collaborator {თანამშრომელი}
     other {}
-  } for the following:`,
+  } შემდეგისთვის:`,
     'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
     zero {no work}
     one {one literary work}
@@ -112,7 +112,7 @@ export default {
     'workshop.story.noChaptersFound': 'No chapters found.',
     'workshop.fanfic.needUniverseInLibrary': 'There are many universes out there. Please add the ones you want to write in into your library first so that we can find them.',
     'workshop.fanfic.findUniverse': 'Go find an amazing universe!',
-    'workshop.encSettings': 'Encyclopedia settings',
+    'workshop.encSettings': 'ენციკლოპედიის პარამეტრები',
     'workshop.collaborators.removeUser': 'Remove user',
     'workshop.collaborators.cancelInvite': 'Cancel invite',
     'workshop.universe.createFirstStory': 'Create the first story',
@@ -124,7 +124,7 @@ export default {
     'workshop.story.notes.desc': 'Overview notes for the story.',
     'workshop.story.notes.tile': 'Overview notes',
     'workshop.hideOrgs': 'Hide content from organizations',
-    'workshop.translation.premium': 'In order to add translations, you need to have at least Explorer subscription.',
+    'workshop.translation.premium': 'თარგმნების დამატებისთვის, საჭიროა მცირე მიმოხილვა.',
     'workshop.story.finished': 'Story is complete',
     'workshop.story.publishing.externalSellingNotice': 'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
     'workshop.sharing.publicURL': 'Public version',
@@ -153,25 +153,25 @@ export default {
     'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
     'workshop.fictionalTime.unitsName': 'Unit name',
     'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
-    'workshop.fictionalTime.unitAdd': 'Add unit',
-    'workshop.fictionalTime.clocks': 'Clocks',
-    'workshop.fictionalTime.unitTransfer': 'Transfer units',
-    'fictionalTime.pageStartElapsedTime': 'Time elapsed since opening this page',
-    'fictionalTime.currentTime': 'Current time',
-    'workshop.shoppingExternal.options': 'External purchase options',
-    'workshop.shoppingExternal.explainer': 'If your story is sold elsewhere you can set the links here. The links will then show instead of the content or at the end of the content you choose to preview.',
-    'workshop.shoppingExternal.amazonStore': 'Amazon store',
+    'workshop.fictionalTime.unitAdd': 'ერთეულის დამატება',
+    'workshop.fictionalTime.clocks': 'საათები',
+    'workshop.fictionalTime.unitTransfer': 'ერთეულების გადატანა',
+    'fictionalTime.pageStartElapsedTime': 'გვერდის გახსნის შემდეგ გასული დრო',
+    'fictionalTime.currentTime': 'მიმდინარე დრო',
+    'workshop.shoppingExternal.options': 'გარე შესყიდვების ოფციები',
+    'workshop.shoppingExternal.explainer': 'თუ თქვენი ისტორია იყიდება სხვა ადგილას, თქვენ შეგიძლიათ აქ დააყენოთ ბმულები. ბმულები შემავალი კონტენტის ნაცვლად ან კონტენტის ბოლოში გამოჩენაზე გამოჩნდება.',
+    'workshop.shoppingExternal.amazonStore': 'Amazon მაღაზია',
     'workshop.shoppingExternal.amazon': 'Amazon',
-    'workshop.shoppingExternal.storeName': 'Store name',
-    'workshop.shoppingExternal.itemUrl': 'Item URL',
-    'workshop.shoppingExternal.storesOther': 'Other stores',
+    'workshop.shoppingExternal.storeName': 'მაღაზის სახელი',
+    'workshop.shoppingExternal.itemUrl': 'ნივთის URL',
+    'workshop.shoppingExternal.storesOther': 'სხვა მაღაზიები',
     'fictionalTime.units.milliseconds': '{units, number} milliseconds',
-    'fictionalTime.countdownToStart': 'Countdown to time beginning',
+    'fictionalTime.countdownToStart': 'ითვლის დროს განსაწილება',
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 დღის }
+      other {{days} დღის }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -185,38 +185,38 @@ export default {
   `,
     'fictionalTime.ETToUnitsList': `{units, number} {unitType, select,
     seconds {{units, plural,
-      one {second}
-      other {seconds}
+      one {წამი}
+      other {წამი}
     }}
     minutes {{units, plural,
-      one {minute}
-      other {minutes}
+      one {წუთი}
+      other {წუთი}
     }}
     hours {{units, plural,
-      one {hour}
-      other {hours}
+      one {საათი}
+      other {საათი}
     }}
     days {{units, plural,
-      one {day}
-      other {days}
+      one {დღე}
+      other {დღე}
     }}
     years {{units, plural,
-      one {year}
-      other {years}
+      one {წელი}
+      other {წელი}
     }}
     other {}
   } = {targetResult, number} {targetType}`,
-    'fictionalTime.inputFrom': 'From',
-    'fictionalTime.inputSelectTimeUnit': 'Select time unit',
-    'fictionalTime.inputSelectETUnit': 'Select Earth time unit',
+    'fictionalTime.inputFrom': 'დან',
+    'fictionalTime.inputSelectTimeUnit': 'დაარჩიე დროს ერთეული',
+    'fictionalTime.inputSelectETUnit': 'დაარჩიე მიმდინარე დროის ერთეული',
     'fictionalTime.ETDateToTimeDate': '{date, date, medium} = {timeDate}',
-    'workshop.writerSidebar.title': 'Sidebar Toolbox',
-    'workshop.writerSidebar.description': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes and much more!',
-    'workshop.story.authorsNotesExplained': 'Your notes for the readers to read at the beginning of the chapter.',
-    'workshop.story.chapterSortSwitch': 'Switch chapter\'s order',
+    'workshop.writerSidebar.title': 'სარკეელი ხელსაწყოები',
+    'workshop.writerSidebar.description': 'მოგესალმებით თქვენს ამბებზე! ამ სარკეელზე თქვენ მარტივად შეგიძლიათ წვდომა ყველა თქვენს ამბებს შესატყვისი რესურსებისთვის. გადააკეთეთ ზემოთ მითითებული ხატები რომ ნახოთ უახლესი კომენტარები, თქვენი შენიშვნები და სხვა ბევრი!',
+    'workshop.story.authorsNotesExplained': 'თქვენი შენიშვნები წამოიყვანს წიგნის დასაწყისში წაკითხვისთვის.',
+    'workshop.story.chapterSortSwitch': 'შეცვალეთ თავისუფალიანი თავისი წერტილის მიმდევრობა',
     'workshop.universe.monetizationTitle': '{title} monetization',
     'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
-    'workshop.universe.monetizationWebMonetization': 'Web Monetization',
+    'workshop.universe.monetizationWebMonetization': 'ვებ მონეტიზაცია',
     'workshop.webMonetization.explain': 'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
     'workshop.webMonetization.revShare': 'Due to the limitation of Web Monetization probabilistic revenue sharing is used. Probabilistic revenue sharing works by randomly choosing from a list of predefined payment pointers each time a web monetized visitor loads your page. The visitor pays to the chosen pointer until the page is reloaded or closed.',
     'workshop.webMonetization.revShareMore': 'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
@@ -231,9 +231,9 @@ export default {
     'workshop.revShare.origLangCreators': 'Original language creators',
     'workshop.story.prolog': 'Prolog',
     'workshop.story.chapter': 'Chapter {sequence, number}',
-    'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
-    'workshop.universe.forumSettings': 'Internal universe forum settings',
-    'workshop.universe.forum': 'Internal {universeName} forum',
+    'workshop.work.includesAds': 'არის თუ არა რეკლამები ან პროდუქტის განთავსებები საქმეში?',
+    'workshop.universe.forumSettings': 'ინტერნალური უნივერსიტეტის ფორუმის პარამეტრები',
+    'workshop.universe.forum': 'ინტერნალური {universeName} ფორუმი',
     'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
     'workshop.selectCollaborator': 'Select collaborator',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
@@ -269,17 +269,17 @@ export default {
     'workshop.statusExplain.finished2': 'Marking story as complete will tell the readers that the story is finished. While you shouldn\'t be adding any new chapters we won\'t stop you and adding special chapters isn\'t a bad idea, to for example add more epilogues for all characters.',
     'workshop.statusExplain.finished3': 'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.',
     'workshop.status.goActive': 'Make the story active again',
-    'workshop.statusChangeEmail.storyIntro': 'We would like to inform you that your story:',
-    'workshop.statusChangeEmail.hiatusTitle': 'Your story status was automatically set to hiatus',
-    'workshop.statusChangeEmail.hiatusIntro': 'Due to inactivity your story status was automatically set to hiatus.',
-    'workshop.statusChangeEmail.hiatusWhy': 'Has been automatically put on hiatus due to no new chapter being published for over 6 months.',
-    'workshop.statusChangeEmail.hiatusWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t publish a new chapter in the next 6 months we will automatically set the story as cancelled.',
-    'workshop.statusChangeEmail.cancellationIntro': 'Your story status was automatically set to cancelled.',
-    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
-    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.',
-    'workshop.startCreating': 'Start creating',
-    'workshop.ownWork': 'Own work',
-    'workshop.list.thumbs': 'Thumbnails list',
-    'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.statusChangeEmail.storyIntro': 'გსურთ გამოგვყევით, რომ თქვენი მოთხოვნა:',
+    'workshop.statusChangeEmail.hiatusTitle': 'თქვენი მოთხოვნის სტატუსი ავტომატურად დაყენებულია hiatus-ზე',
+    'workshop.statusChangeEmail.hiatusIntro': 'მიზეზის უმეტესობის გამო თქვენი მოთხოვნის სტატუსი ავტომატურად დაყენებულია hiatus-ზე.',
+    'workshop.statusChangeEmail.hiatusWhy': 'თქვენი მოთავსებული თავისუფლებების გარეშე თქვენი მოთხოვნის სტატუსი ავტომატურად გადატანილია hiatus-ზე 6 თვის ზემოთ.',
+    'workshop.statusChangeEmail.hiatusWhatFollows': 'ეს სტატუსი ავტომატურად მოიხსენით, თუ ახალი თავისუფლება გამოგიცემთ. თუ ახალი თავისუფლება არ გამოგიცემთ მომდევნო 6 თვეში, სტატუსი ავტომატურად დაყენებადია cancelled.',
+    'workshop.statusChangeEmail.cancellationIntro': 'თქვენი მოთხოვნის სტატუსი ავტომატურად დაყენებულია cancelled-ზე.',
+    'workshop.statusChangeEmail.cancellationWhy': 'ეს მოხდა, რადგან არ განიხილეთ ახალი თავისუფლება ისეთი მოთავსების შემდეგ, როგორც 6 თვის წინ hiatus-ზე დაყენებული. ამიტომ წიგნებს, რომლებიც აქტიურია, ჩვენ ავტომატურად დავაყენებთ cancelled სტატუსზე, რათა მიუთითოს წამომყვანილი წიგნები.',
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'ეს სტატუსი ავტომატურად მოიხსენით, თუ ახალი თავისუფლება გამოგიცემთ. თუ არ გინდათ მუშაობა ამ მოთავსებით, დანარჩენია არაფერი, რაც საჭიროებს გაკეთებას.',
+    'workshop.startCreating': 'შექმენით',
+    'workshop.ownWork': 'თქვენი თავისუფლება',
+    'workshop.list.thumbs': 'მინიატურების სია',
+    'workshop.list.list': 'მოკლე სია',
+    'workshop.fanfiction.new': 'შექმენით ახალი ფანფიქშენი'
 };

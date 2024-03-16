@@ -1,153 +1,160 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.add': 'Magdagdag ng bagong entry',
+    'encyclopedia.browse': 'Mag-browse sa encyclopedia',
+    'encyclopedia.search': 'Maghanap sa encyclopedia',
+    'encyclopedia.back.universe': 'Bumalik sa pahina ng universe',
+    'encyclopedia.back.workshop': 'Bumalik sa workshop',
+    'encyclopedia.categories': 'Mga Kategorya',
+    'encyclopedia.groups': 'Mga Grupo',
+    'encyclopedia.category.character': 'Mga Tauhan',
+    'encyclopedia.category.event': 'Mga Pangyayari',
+    'encyclopedia.category.group': 'Mga Grupo',
+    'encyclopedia.category.item': 'Mga Bagay',
+    'encyclopedia.category.location': 'Mga Lokasyon',
+    'encyclopedia.category.other': 'Iba Pa',
+    'encyclopedia.category.state': 'Mga Estado',
+    'encyclopedia.category.governments': 'Mga Pamahalaan',
+    'encyclopedia.category.languages': 'Mga Wika',
+    'encyclopedia.category.creatures': 'Mga Nilalang',
+    'encyclopedia.category.deity': 'Mga Diyos',
+    'encyclopedia.category.religions': 'Mga Relihiyon',
+    'encyclopedia.category.flora': 'Mga Halaman',
+    'encyclopedia.category.magic': 'Mahika',
+    'encyclopedia.category.planets': 'Mga Planeta',
+    'encyclopedia.category.species': 'Mga Uri',
+    'encyclopedia.category.technologies': 'Mga Teknolohiya',
     'encyclopedia.search.found': `{results, plural,
-    =0 {No related entries}
-    one {1 related entry}
-    other {# related entries}
-  } found.`,
-    'encyclopedia.help.text': 'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
+    =0 {Walang kaugnay na mga entry}
+    one {1 kaugnay na entry}
+    other {# kaugnay na mga entry}
+  } natagpuan.`,
+    'encyclopedia.help.text': 'Gamitin ang menu sa kaliwa upang mag-navigate sa mga item sa ensiklopedya. Kapag pinili mo ang isang item, ito ay ipapakita sa halip ng teksto na ito.',
     'encyclopedia.help.sidebar': 'Sidebar Toolbox',
-    'encyclopedia.help.sidebar.text': 'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
-    'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
-    'encyclopedia.add.title': 'Add a new entry to encyclopedia',
-    'encyclopedia.add.heading': 'What do you wish to add?',
-    'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.help.sidebar.text': 'Maligayang pagdating sa iyong kuwento! Ang sidebar na ito ay nagbibigay sa iyo ng madaling access sa lahat ng mga mapagkukunan na may kinalaman sa iyong kuwento. Tingnan ang mga icon sa itaas upang makita ang pinakabagong mga komento, ang iyong mga tala, hanapin ang iyong ensiklopedya, mag-browse at magdagdag ng mga bagong entry sa iyong ensiklopedya. Kung gusto mong magdagdag ng koneksyon sa isang entry mula sa teksto ng kuwento, piliin ang teksto kung saan mo nais ito ilagay at i-click ang button na kumonekta. Pagkatapos ay papupuntahin ka upang hanapin at piliin ang isang item.',
+    'encyclopedia.intro': 'Maligayang pagdating sa ensiklopedya ng {universe}.',
+    'encyclopedia.add.title': 'Magdagdag ng bagong entry sa ensiklopedya',
+    'encyclopedia.add.heading': 'Ano ang nais mong idagdag?',
+    'encyclopedia.add.moresoon': 'Mas maraming mga kategorya ang darating sa lalong madaling panahon!',
+    'encyclopedia.create': `Gumawa ng bagong {category, select,
+    character {karakter}
+    event {kaganapan}
+    group {grupo}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    location {lokasyon}
+    other {tala}
+    state {estado}
+    governments {pamahalaan}
+    languages {wika}
+    creatures {nilalang}
+    deity {diyos}
+    religions {relihiyon}
+    flora {halaman}
+    magic {mahika}
+    planets {planeta}
+    species {uri}
+    technologies {teknolohiya}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
+    'encyclopedia.create.header': `Gumawa ng bagong {category, select,
+    character {karakter}
+    event {kaganapan}
+    group {grupo}
     item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
+    location {lokasyon}
+    other {tala}
+    state {estado}
+    governments {pamahalaan}
+    languages {wika}
+    creatures {nilalang}
+    deity {diyos}
+    religions {relihiyon}
+    flora {halaman}
+    magic {mahika}
+    planets {planeta}
+    species {uri}
+    technologies {teknolohiya}
+  } sa {universe}`,
+    'encyclopedia.entry.category': `Kategorya ng Pag-entry: {category, select,
     character {Character}
     event {Event}
     group {Group}
     item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    location {Lokasyon}
+    other {Tala}
+    state {Estado}
+    governments {Pamahalaan}
+    languages {Wika}
+    creatures {Nilalang}
+    deity {Diyos}
+    religions {Relihiyon}
+    flora {Halaman}
+    magic {Mahika}
+    planets {Planeta}
+    species {Uri}
+    technologies {Teknolohiya}
   }`,
-    'encyclopedia.entry.category.legend': 'Category',
-    'encyclopedia.fields.add': 'Add a new field',
-    'encyclopedia.fields.text': 'Definition',
-    'encyclopedia.fields.textarea': 'Text',
-    'encyclopedia.fields.connection': 'Connection',
-    'encyclopedia.fields.time': 'Time',
-    'encyclopedia.fields.image': 'Image',
+    'encyclopedia.entry.category.legend': 'Kategorya',
+    'encyclopedia.fields.add': 'Magdagdag ng bagong field',
+    'encyclopedia.fields.text': 'Pangkalahatan',
+    'encyclopedia.fields.textarea': 'Teksto',
+    'encyclopedia.fields.connection': 'Koneksyon',
+    'encyclopedia.fields.time': 'Oras',
+    'encyclopedia.fields.image': 'Larawan',
     'encyclopedia.visibility': 'Visibility',
-    'encyclopedia.public': 'Public',
-    'encyclopedia.private': 'Private',
+    'encyclopedia.public': 'Pampubliko',
+    'encyclopedia.private': 'Pribado',
     'encyclopedia.container': 'Container',
-    'encyclopedia.container.desc': 'Make this entry a container for a new group of entries. This will hide it from categories listing.',
-    'encyclopedia.entry.name': 'Name of the entry',
-    'encyclopedia.summary': 'Summary',
-    'encyclopedia.summary.desc': 'This is a summary that will be the only initial information displayed on the reader.',
-    'encyclopedia.parent': 'Parent entry',
-    'encyclopedia.related': 'Related entries',
-    'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
-    'encyclopedia.field.private': 'Private field',
-    'encyclopedia.ft.indev': 'This option is in development.',
-    'encyclopedia.connections.remove': 'Remove connection',
-    'encyclopedia.connections.extra': 'Extra information',
-    'encyclopedia.connections.existing': 'Existing entry',
+    'encyclopedia.container.desc': 'Gawing container ang entry na ito para sa isang bagong grupo ng mga entry. Ito ay magtatago mula sa listahan ng mga kategorya.',
+    'encyclopedia.entry.name': 'Pangalan ng entry',
+    'encyclopedia.summary': 'Buod',
+    'encyclopedia.summary.desc': 'Ito ay isang buod na magiging tanging unang impormasyon na ipapakita sa mambabasa.',
+    'encyclopedia.parent': 'Magulang na entry',
+    'encyclopedia.related': 'Mga kaugnay na mga entry',
+    'encyclopedia.errors.tags': 'Maaari kang magkaroon ng hanggang sa 10 mga tag sa bawat entry.',
+    'encyclopedia.field.private': 'Pribadong field',
+    'encyclopedia.ft.indev': 'Ang pagpipilian na ito ay nasa proseso ng pagpapaunlad.',
+    'encyclopedia.connections.remove': 'Tanggalin ang koneksyon',
+    'encyclopedia.connections.extra': 'Karagdagang impormasyon',
+    'encyclopedia.connections.existing': 'Umiiiral na entry',
     'encyclopedia.connections.existing.abbr': 'EE',
     // abbreviation for Existing Entry
-    'encyclopedia.cover': 'Cover image',
-    'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
+    'encyclopedia.cover': 'Larawan ng Pabalat',
+    'encyclopedia.translation.title': 'Maligayang pagdating sa pagsasalin ng {universe} universe!',
+    'encyclopedia.translation.desc': 'Ang interface ng ensiklopedya na ito ay ginagamit para sa pagsasalin sa {language}. Pumili ng umiiral na mga entry sa listahan sa kaliwa para simulan ang kanilang pagsasalin.',
     'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
     zero {are no entries}
     one {is one entry}
     other {are # entries}
   } in this universe.`,
-    'encyclopedia.settings.title': 'Encyclopedia settings',
-    'encyclopedia.settings.categoriesDesc': 'Turn on and off categories which you want to use in your encyclopedia.',
-    'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
-    'encyclopedia.fields.placeholder': 'Field name',
-    'encyclopedia.fields.delete': 'Delete field',
-    'encyclopedia.timeOption.fictionalDate': 'Fictional date',
-    'encyclopedia.timeOption.fictionalTime': 'Fictional time',
-    'encyclopedia.timeOption.fictionalDateTime': 'Fictional date time',
-    'encyclopedia.timeOption.date': 'Date',
-    'encyclopedia.timeOption.time': 'Time',
-    'encyclopedia.timeOption.dateTime': 'Date and time',
-    'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
-    'encyclopedia.menuOpen': 'Open Encyclopedia menu',
-    'encyclopedia.menuClose': 'Close Encyclopedia menu',
-    'encyclopedia.menuAria': 'Encyclopedia menu',
-    'enc.newField': 'New field',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'encyclopedia.settings.title': 'Mga setting ng Ensiklopedya',
+    'encyclopedia.settings.categoriesDesc': 'I-on at i-off ang mga kategoryang nais mong gamitin sa iyong ensiklopedya.',
+    'encyclopedia.settings.introText': 'Mensahe ng pagtanggap na ipapakita matapos ang paglalarawan ng universe.',
+    'encyclopedia.fields.placeholder': 'Pangalan ng patlang',
+    'encyclopedia.fields.delete': 'Burahin ang patlang',
+    'encyclopedia.timeOption.fictionalDate': 'Pantasya na petsa',
+    'encyclopedia.timeOption.fictionalTime': 'Pantasya na oras',
+    'encyclopedia.timeOption.fictionalDateTime': 'Pantasya na petsa at oras',
+    'encyclopedia.timeOption.date': 'Petsa',
+    'encyclopedia.timeOption.time': 'Oras',
+    'encyclopedia.timeOption.dateTime': 'Petsa at oras',
+    'encyclopedia.settings.groupByCategories': 'Isama ang mga kategorya sa listahan ng grupo',
+    'encyclopedia.menuOpen': 'Buksan ang menu ng Ensiklopedya',
+    'encyclopedia.menuClose': 'Isara ang menu ng Ensiklopedya',
+    'encyclopedia.menuAria': 'Menu ng Ensiklopedya',
+    'enc.newField': 'Bagong patlang',
+    'enc.entries.limit': `Sa kasalukuyan, mayroon kang {value, number} sa {max, plural,
+    =0 {walang hanggan na}
     other {{max, number}}
   } entries.`,
-    'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.entries.limitReached': 'Naratnan mo na ang pinakamataas na pinapayagang mga entry sa ensiklopedya para sa iyong kasalukuyang subscription.',
+    'enc.menuControls.ariaDesc': 'Mga kontrol ng Encyclopedia',
+    'encyclopedia.pronunciation.title': 'Pagsasalita',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Ginagawa Pa',
+    'encyclopedia.settings.templateLegend': 'Uniberso ng Template',
+    'encyclopedia.settings.templateDescription': 'Payagan ang nilalaman ng pambansang aklatan na mailipat sa iba pang mga uniberso. Ito ay pinakamahusay kung wala kang anumang mga kwento at sa halip ay gumagawa lamang ng isang template na magagamit ng iba.',
+    'encyclopedia.settings.templateCheckbox': 'Ito ay isang uniberso ng template',
+    'encyclopedia.templateCopy.modalTitle': 'Kopyahin ang nilalaman ng pambansang aklatan',
+    'encyclopedia.templateCopy.description': 'Kopyahin ang nilalaman ng pambansang aklatan na ito sa iyong uniberso upang palawakin ito.',
+    'encyclopedia.templateCopy.targetUniverse': 'Unibersong pagkopyahan',
+    'encyclopedia.templateCopy.finished': 'Pagkopya natapos'
 };

@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Läslista',
+  'readingList.type.label': 'Listtyp',
+  'readingList.type.stories': 'Berättelser',
+  'readingList.type.universes': 'Universa',
+  'readingList.ordered.label': 'Rankad lista',
+  'readingList.button.add': 'Lägg till i läslista',
+  'readingList.selectList': 'Välj läslista',
+  'readingList.create': 'Skapa en ny läslista',
+  'readingList.create.aria': 'Modalfönster med inställningar för en ny läslista',
+  'readingList.edit.aria': 'Modalfönster för att redigera läslistans inställningar',
+  'readingList.library.title': 'Dina läslistor',
+  'readingList.public.label': 'Är synlig för allmänheten?',
+  'readingList.addItem': `Lägg till {type, select,
+    universes {universum}
+    stories {berättelse}
+    other {berättelser och universum}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modalfönster för att lägga till {type, select,
+    universes {universum}
+    stories {berättelser}
+    other {berättelser och universum}
+  } i läslistan.`,
+  'readingList.addItem.fromLibrary': 'Från biblioteket',
+  'readingList.button.added': 'Tillagd'
 };

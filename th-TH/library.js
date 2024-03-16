@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'เพิ่มลงในห้องสมุด',
+    'library.remove': 'เอาออกจากห้องสมุด',
+    'library.bought': 'เรื่องที่ซื้อแล้ว',
+    'library.stories': 'เรื่องที่ติดตาม',
+    'library.universes': 'จำนวนยูนิเวิร์สที่ติดตาม',
+    'bookmark.continueReading': 'ดำเนินการอ่านต่อ',
+    'bookmark.statusSummary': 'คุณได้อ่านเรื่องนี้แล้ว {readPercent, number, ::percent} ของเรื่อง'
 };

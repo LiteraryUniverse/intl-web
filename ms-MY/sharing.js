@@ -1,10 +1,10 @@
 export default {
-    'sharing.title': 'Share',
+    'sharing.title': 'Kongsi',
     'sharing.button': 'Sharing Button',
     'sharing.share': 'Share with...',
     'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
-    'sharing.copy': 'Copy',
-    'sharing.email': 'E-mail',
+    'sharing.copy': 'Salin',
+    'sharing.email': 'E-mel',
     'sharing.sms': 'SMS',
     'sharing.messenger': 'Facebook Messenger',
     'sharing.whatsapp': 'WhatsApp',

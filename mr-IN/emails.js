@@ -3,45 +3,45 @@
  */
 /* eslint-disable max-len */
 export default {
-    'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
-    'email.enrollAccount.message': `Hello {username}\n\n
-    We would like to invite you to Literary Universe! We have created a special personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading tools!
-    To activate your account, simply click the link below:\n\n{url}`,
-    'email.resetPassword.subject': 'Literary Universe reset password',
-    'email.resetPassword.message': `Hello {username}!\n\n We have received a request to reset your password for your account.
-        Please follow the link bellow to reset your password:\n\n{url}`,
-    'email.verifyEmail.subject': 'Literary Universe e-mail verification',
-    'email.verifyEmail.message': 'Hello {username}!\n\n Please verify your e-mail address by clicking on the link below:\n\n{url}',
+    'email.enrollAccount.subject': '{username}साठी साहित्यिक विश्वात आमंत्रण!',
+    'email.enrollAccount.message': `नमस्कार {username}\n\n
+    आम्ही आपले साहित्यिक विश्वात स्वागत करू! आपल्याला साहित्यिक विश्वाच्या सर्व सुविधांची प्रवेशिका असलेले वैयक्तिक खाते तयार केले आहे! कृपया आपल्यासह साहित्यिक लेखन आणि वाचन साधनांची पुढील पीढी तयार करण्यात आमच्यास जोडण्यासाठी आमच्यास सहभागी व्हा!
+    आपले खाते सक्रिय करण्यासाठी, कृपया खालील दिलेल्या दुवा वर क्लिक करा:\n\n{url}`,
+    'email.resetPassword.subject': 'साहित्यिक विश्वातील संकेतशब्द रीसेट करा',
+    'email.resetPassword.message': `नमस्कार {username}!\n\n आपल्या खात्यासाठी आपला संकेतशब्द रीसेट करण्याची विनंती आम्हाला मिळाली आहे.
+        कृपया आपला संकेतशब्द रीसेट करण्यासाठी खालील दिलेल्या दुव्यावर क्लिक करा:\n\n{url}`,
+    'email.verifyEmail.subject': 'साहित्यिक विश्वाची ईमेल सत्यापन करा',
+    'email.verifyEmail.message': 'नमस्कार {username}!\n\n कृपया खालील दिलेल्या दुव्यावर क्लिक करून आपला ईमेल पत्ता सत्यापित करा:\n\n{url}',
     // New html email keys
-    'email.salutation': 'Hello {username},',
-    'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
+    'email.salutation': 'नमस्कार {username},',
+    'email.welcome': 'साहित्यिक विश्वात आपले स्वागत आहे!',
+    'email.signature': 'आभारी,<br />साहित्यिक विश्वाची टीम',
     // Enrollment
-    'email.enrollAccount.welcome': 'Welcome aboard',
-    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
-    'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.welcome': 'स्वागत आहोत',
+    'email.enrollAccount.messageHtml': 'आपल्यास साहित्यिक विश्वात सामील होण्यासाठी आम्ही आपल्याला आमच्यास वैयक्तिक खाते तयार केले आहे, ज्यामुळे आपण साहित्यिक लेखन आणि वाचनाच्या सर्व सुविधांची वापर करू शकता! कृपया आमच्यास जोडण्यासाठी आपल्याला आमच्यास सहभागी व्हायला आमच्यास आमंत्रित करत आहोत!',
+    'email.enrollAccount.button': 'आपले खाते प्रवेश करा',
+    'email.enrollAccount.signature': 'आपले दर्शन घेण्यासाठी आम्ही आपले प्रतीक्षा करीत आहोत,<br />लिटररी युनिवर्स टीम',
     // Reset password
-    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven\'t made this request you can ignore this e-mail, but it might be a good time to review your security settings.',
-    'email.resetPassword.button': 'Reset password',
+    'email.resetPassword.messageHtml': 'आपल्या खात्याचे संकेतशब्द रीसेट करण्यासाठी आम्हाला एक विनंती मिळाली आहे, कृपया प्रक्रिया सुरू ठेवण्यासाठी खात्री करणारे बटणावर क्लिक करा. जर तुम्ही ही विनंती केली नसाल तर तुम्ही ही ईमेल वगळली जाऊ शकते, पण तुमच्या सुरक्षा सेटिंग्जची पुनरावलोकन करण्यासाठी अच्छा वेळ आहे.',
+    'email.resetPassword.button': 'संकेतशब्द रीसेट करा',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
-    'email.verifyEmail.button': 'Verify this e-mail address',
+    'email.verifyEmail.messageHtml': 'आपल्याला बोर्डवर असायला आनंद आहे! कृपया ही ईमेल पत्ता सत्यापित करण्यासाठी खात्री करणारे बटणावर क्लिक करा.',
+    'email.verifyEmail.button': 'ही ईमेल पत्ता सत्यापित करा',
     // Getting premium from admins
-    'email.adminUpgrade.subject': 'Your account has been upgraded',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.subject': 'तुमचे खाते अपग्रेड केले गेले आहे',
+    'email.adminUpgrade.message': `आपले खाते अपग्रेड केले गेलेले आहे ते {plan, select,
+    explorer {एक्सप्लोरर}
+    adventurer {अ‍ॅडव्हेंचरर}
+    storyteller {स्टोरीटेलर}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+  } पायथर या तारखेत {days} दिवसांसाठी आहे.\n\nआनंद घ्या,\nलिटररी युनिवर्स टीम`,
+    'email.adminUpgrade.messageHtml': `आपले खाते अपग्रेड केले गेलेले आहे ते {plan, select,
+    explorer {एक्सप्लोरर}
+    adventurer {अ‍ॅडव्हेंचरर}
+    storyteller {स्टोरीटेलर}
     other {}
-  } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!'
+  } पायथर या तारखेत {days} दिवसांसाठी आहे. आनंद घ्या!`,
+    'email.verification': 'ईमेल सत्यापन',
+    'email.verifying': 'तुमचा ईमेल सत्यापित करत आहोत. हे केवळ क्षणात घेतलंय...',
+    'email.verified': 'खूप छान बातम्या! तुमचा ईमेल सत्यापित झाला आहे!'
 };    /* eslint-enable max-len */

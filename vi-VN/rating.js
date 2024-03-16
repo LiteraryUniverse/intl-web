@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Đánh giá',
+    'rating.explained': 'Đánh giá tuổi và hạn chế.',
+    'rating.all': 'Tất cả',
+    'rating.desc.all': 'Phù hợp với mọi độ tuổi và nhóm.',
+    'rating.teens': 'Thiếu niên',
+    'rating.desc.teens': 'Phù hợp với khán giả từ 12 đến 18 tuổi.',
+    'rating.mature': 'Người lớn',
+    'rating.desc.mature': 'Chứa những chủ đề tiên tiến, ngôn ngữ thô tục và cảnh nóng ngụ ý.',
+    'rating.explicit': 'Rõ ràng',
+    'rating.desc.explicit': 'Chứa cảnh nóng rõ ràng.',
+    'rating.selection.all': 'Tất cả - Phù hợp với mọi độ tuổi và nhóm.',
+    'rating.selection.teens': 'Thiếu niên (12-18) - Phù hợp với khán giả từ 12 đến 18 tuổi.',
+    'rating.selection.mature': 'Người lớn (18+) - Chứa những chủ đề tiên tiến, ngôn ngữ thô tục và cảnh nóng ngụ ý.',
+    'rating.selection.explicit': 'Rõ ràng (21+) - Chứa cảnh nóng rõ ràng.'
 };

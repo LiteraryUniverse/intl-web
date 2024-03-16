@@ -1,8 +1,9 @@
 export default {
-    'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'ഫീഡ്',
+    'feed.post.new': 'പുതിയ പോസ്റ്റ്',
+    'feed.post.like': 'പോസ്റ്റ് ഇഷ്ടപ്പെട്ടു',
+    'feed.post.unlike': 'പോസ്റ്റ് അരികൊടുക്കുക',
+    'feed.post.send': 'പോസ്റ്റ്',
+    'feed.empty': 'ഫീഡിൽ ഏതെങ്കിലും എൻട്രികൾ ഇല്ല.',
+    'feed.placeholder': 'നിങ്ങളുടെ മനസ്സിലോക്കുന്നത് എന്താണ്?'
 };

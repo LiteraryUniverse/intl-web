@@ -4,22 +4,22 @@
  */
 export default {
     'licenses.about': 'Om licenser',
-    'licenses.more': 'More information',
-    'licenses.legal': 'Legal document',
+    'licenses.more': 'Flere oplysninger',
+    'licenses.legal': 'Juridisk dokument',
     'licenses.name.cc-by': 'Creative Commons Kreditering 4.0',
-    'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
+    'licenses.cc-by': 'Denne licens giver andre lov til at distribuere, remixe, justere og bygge videre på dit arbejde, selv kommercielt, så længe de giver dig kredit for det oprindelige værk. Dette er den mest imødekommende licens, der tilbydes. Anbefales til maksimal spredning og brug af licenseret materiale.',
     'licenses.name.cc-by-sa': 'Creative Commons Kreditering-Deling på samme vilkår 4.0',
-    'licenses.cc-by-sa': 'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
+    'licenses.cc-by-sa': 'Denne licens giver andre lov til at remixe, justere og bygge videre på dit arbejde, selv til kommercielle formål, så længe de giver dig kredit og licenserer deres nye kreationer under de samme vilkår. Denne licens bliver ofte sammenlignet med "copyleft" fri og åben kildekode-software licenser. Alle nye værker baseret på dit vil bære den samme licens, så eventuelle afledninger vil også tillade kommerciel brug. Dette er den licens, der bruges af Wikipedia, og anbefales til materiale, der ville have gavn af at indarbejde indhold fra Wikipedia og lignende licenserede projekter.',
     'licenses.name.cc-by-nd': 'Creative Commons Kreditering-Ingen afledninger 4.0',
-    'licenses.cc-by-nd': 'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
+    'licenses.cc-by-nd': 'Denne licens tillader redistribution, kommerciel og ikke-kommerciel, så længe den videregives uændret og i sin helhed, med kredit til dig.',
     'licenses.name.cc-by-nc': 'Creative Commons Kreditering-Ikkekommerciel 4.0',
-    'licenses.cc-by-nc': 'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
+    'licenses.cc-by-nc': 'Denne licens giver andre lov til at remixe, justere og bygge videre på dit arbejde ikke-kommercielt, og selvom deres nye værker også skal anerkende dig og være ikke-kommercielle, behøver de ikke at licensere deres afledte værker under de samme vilkår.',
     'licenses.name.cc-by-nc-sa': 'Creative Commons Kreditering-Ikkekommerciel-Deling på samme vilkår 4.0',
-    'licenses.cc-by-nc-sa': 'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
+    'licenses.cc-by-nc-sa': 'Denne licens giver andre lov til at remixe, justere og bygge videre på dit arbejde ikke-kommercielt, så længe de giver dig kredit og licenserer deres nye kreationer under de samme vilkår.',
     'licenses.name.cc-by-nc-nd': 'Creative Commons Kreditering-Ikkekommerciel-Ingen afledninger 4.0',
-    'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
-    'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
+    'licenses.cc-by-nc-nd': 'Denne licens er den mest restriktive af vores seks hovedlicenser og tillader kun andre at downloade dine værker og dele dem med andre, så længe de giver dig kredit, men de må ikke ændre dem på nogen måde eller bruge dem kommercielt.',
+    'licenses.name.lu-c': 'Litterære Universe Ophavsrettigheder',
+    'licenses.lu-c': 'Standard fulde ophavsrettighedslicens, der giver dig lov til at sælge og udgive dit arbejde, som du ønsker, og beskytter dine rettigheder til det. Denne licens giver dig også mulighed for at sælge dine historier på Litterære Universe.',
     'licenses.name.cc0': 'Ingen ophavsret - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.cc0': 'Placer dit arbejde i public domain. I modsætning til CC\'s licenser, der giver ophavsretshavere mulighed for at vælge mellem en række tilladelser og samtidig beholde deres ophavsret, giver CC0 endnu et valg helt sammen – valget om at fravælge ophavsret og databasebeskyttelse og de eksklusive rettigheder, der automatisk tildeles skabere - den "ingen rettigheder forbeholdt"-alternativ til vores licenser.'
 };

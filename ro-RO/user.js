@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Adaugă la prieteni',
+    'user.friend.requests': `Ai {num, number} cerere de prietenie nouă {num, plural,
+    zero {}
+    one {cerere}
+    many {cereri}
+    other {cereri}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Șterge din prieteni',
+    'user.block': 'Blochează',
+    'user.unblock': 'Deblochează',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    male {s-a alăturat}
+    female {s-a alăturat}
+    other {s-a alăturat}} pe {date, date, long}`,
+    'user.friend.request.accept': 'Acceptă cererea de prietenie',
+    'user.friend.request.cancel': 'Anulează cererea de prietenie',
+    'user.friend.request.deny': 'Respinge prietenia',
+    'user.listing': 'Listă utilizatori',
+    'user.profile.visit': 'Vizitează profilul lui {user}.',
+    'user.profile.avatar': 'Avatarul lui {username}',
+    'user.friend.list.requests': 'Cereri de prietenie',
+    'user.friend.norequests': 'Nu ai cereri de prietenie.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
@@ -28,26 +28,26 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'Acest autor a fost publicat în mod tradițional',
+    'user.verification.luAuthor': 'Autor bazat pe Literary Universe de notă',
+    'user.verification.luEmployee': 'Angajat Literary Universe',
+    'user.verification.publicFigure': 'Persoană publică verificată',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {poveste}
+    other {povești}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {univers}
+    other {universuri}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
-    other {fan fictions} 
+    other {fan fiction-uri} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Lucrări',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Lista de dorințe',
+    'profile.storiesBy': 'Povești create de {username}',
+    'profile.universesBy': 'Universuri create de {username}',
+    'profile.fanFictionBy': 'Fan Fiction creat de {username}'
 };

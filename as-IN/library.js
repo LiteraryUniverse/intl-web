@@ -1,9 +1,9 @@
 export default {
-    'library.add': 'Add to library',
-    'library.remove': 'Remove from library',
-    'library.bought': 'Bought stories',
-    'library.stories': 'Followed stories',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.add': 'লাইব্ৰেৰীত যোগ কৰক',
+    'library.remove': 'লাইব্ৰেৰীৰ পৰা আঁতৰাওক',
+    'library.bought': 'কিনা গল্পসমূহ',
+    'library.stories': 'অনুসরণ কৰা গল্পসমূহ',
+    'library.universes': 'অনুসরণ কৰা বৃহৎমন্ডলীসমূহ',
+    'bookmark.continueReading': 'পঢ়ি থাকক',
+    'bookmark.statusSummary': 'আপুনি গল্পৰ পৰা {readPercent, number, ::percent} পঢ়িছে।'
 };

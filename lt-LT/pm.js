@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Pokalbis',
+    'pm.showolder': 'Rodyti senesnius pranešimus',
+    'pm.errors.saysomething': 'Turbūt turėtum kažką pasakyti...',
+    'pm.errors.addrecipient': 'Turite pridėti bent vieną kitą naudotoją.',
+    'pm.message': 'Pranešimas',
+    'pm.send.message': 'Siųsti pranešimą',
+    'pm.messages.own': 'Jūsų pranešimai',
+    'pm.conversations.none': 'Šiuo metu nepradedate pokalbio su niekuo.',
+    'pm.to': 'Kam:',
+    'pm.with': 'Pokalbis su:',
+    'pm.send': 'Siųsti',
+    'pm.conversations.unreadCount': `Jūs turite {count, plural,
+    zero {0 neperskaitytų pokalbių}
+    one {1 neperskaitytas pokalbis}
+    other {# neperskaityti pokalbiai}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Jums reikia pasirinkti gavėją.',
+    'pm.form.maxParticipants': `Jūs galite turėti maksimaliai {maxPeople, plural,
+    one {vieną asmenį}
+    other {# žmonės}
+  } pokalbyje.`,
+    'pm.new.aria': 'Naujas pokalbis',
+    'pm.new.buttonTitle': 'Pradėti naują pokalbį'
 };

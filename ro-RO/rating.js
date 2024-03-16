@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
+    'rating.name': 'Clasificare',
+    'rating.explained': 'Clasificare și restricții de vârstă.',
+    'rating.all': 'Toate',
+    'rating.desc.all': 'Accesibil tuturor vârstelor și grupurilor.',
+    'rating.teens': 'Adolescenți',
+    'rating.desc.teens': 'Potrivit pentru un public între 12 și 18 ani.',
+    'rating.mature': 'Matur',
+    'rating.desc.mature': 'Conține teme avansate, limbaj licențios și scene implicite.',
     'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.desc.explicit': 'Conține scene explicite.',
+    'rating.selection.all': 'Toate - Accesibil tuturor vârstelor și grupurilor.',
+    'rating.selection.teens': 'Adolescenți (12-18) - Potrivit pentru publicul între 12 și 18 ani.',
+    'rating.selection.mature': 'Matur (18+) - Conține teme avansate, limbaj licențios și scene implicite.',
+    'rating.selection.explicit': 'Explicit (21+) - Conține scene explicite.'
 };

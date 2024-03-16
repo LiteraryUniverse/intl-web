@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Percakapan',
+    'pm.showolder': 'Tampilkan pesan-pesan lama',
+    'pm.errors.saysomething': 'Anda sebaiknya mengatakan sesuatu...',
+    'pm.errors.addrecipient': 'Anda perlu menambahkan setidaknya satu pengguna lain.',
+    'pm.message': 'Pesan',
+    'pm.send.message': 'Kirim pesan',
+    'pm.messages.own': 'Pesan Anda',
+    'pm.conversations.none': 'Anda saat ini tidak sedang berbicara dengan siapa pun.',
+    'pm.to': 'Kepada:',
+    'pm.with': 'Percakapan dengan:',
+    'pm.send': 'Kirim',
+    'pm.conversations.unreadCount': `Anda memiliki {count, plural,
+    zero {tidak ada percakapan yang belum dibaca}
+    one {satu percakapan yang belum dibaca}
+    other {percakapan yang belum dibaca}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
+    'pm.form.minimumParticipants': 'Anda perlu memilih penerima.',
     'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
     one {one person}
     other {# people}
   } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.new.aria': 'Percakapan baru',
+    'pm.new.buttonTitle': 'Mulai percakapan baru'
 };

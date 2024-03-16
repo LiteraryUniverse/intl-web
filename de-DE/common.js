@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Es tut uns sehr leid, aber diese Funktion ist zur Zeit nicht verfügbar. Wir arbeiten hart daran, sie so bald wie möglich verfügbar zu machen.',
     'common.nothingfound': 'Nichts gefunden',
     'common.explore': 'Erkunden Sie',
-    'common.by': 'von ',
+    'common.by': 'von {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Scratchpad',
     'common.scratchpad.own': 'Ihr Scratchpad',
@@ -87,12 +87,12 @@ export default {
     'common.legal.privacy': 'Datenschutzrichtlinie',
     'common.legal.copyright': 'Copyright-Vereinbarung',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terms of Service}
-    community {Community Guidelines}
-    privacy {Privacy Policy}
-    copyright {Copyright Agreement}
-    publishingAgreement {Publishing Agreement}
-    other {Agreement}
+    tos {Nutzungsbedingungen}
+    community {Community-Richtlinien}
+    privacy {Datenschutzrichtlinie}
+    copyright {Urheberrechtsvereinbarung}
+    publishingAgreement {Veröffentlichungsvereinbarung}
+    other {Vereinbarung}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Eine neue Version ({newVersion}) dieses Dokuments tritt am {effectiveAt, date} in Kraft.',
     'common.legal.disclaimer': '© {year} Alle Rechte vorbehalten, alle Texte gehören ihren jeweiligen Autoren.',
@@ -252,9 +252,12 @@ export default {
     'common.socialLogin': 'Mit anderen Diensten anmelden',
     'common.viewMore': 'Mehr ansehen',
     'common.overview': 'Übersicht',
-    'common.loggingOut': 'Logging out',
-    'common.thankYou': 'Thank you!',
-    'common.seeYouAgain': 'See you again!',
-    'email.hello': 'Hello {username},',
-    'common.back': 'Back'
+    'common.loggingOut': 'Logout läuft',
+    'common.thankYou': 'Vielen Dank!',
+    'common.seeYouAgain': 'Auf Wiedersehen!',
+    'email.hello': 'Hallo {username},',
+    'common.back': 'Zurück',
+    'console.stop': 'Halt!',
+    'console.explain': 'Dies ist eine Browser-Funktion, die für Entwickler gedacht ist. Wenn Ihnen jemand gesagt hat, dass Sie etwas hier kopieren und einfügen sollen, um eine Funktion des Literarischen Universums zu aktivieren oder das Konto einer Person zu "hacken", handelt es sich um einen Betrug und sie werden Zugriff auf Ihr Literarisches Universum-Konto erhalten.',
+    'common.coping': 'Kopieren...'
 }    /* eslint-enable max-len */;

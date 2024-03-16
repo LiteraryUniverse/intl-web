@@ -2,18 +2,18 @@
  * Age ratings
  */
 export default {
-    'rating.name': 'Rating',
-    'rating.explained': 'Age rating and restriction.',
-    'rating.all': 'All',
-    'rating.desc.all': 'Accessible to all ages and groups.',
-    'rating.teens': 'Teens',
-    'rating.desc.teens': 'Suitable for an audience between ages 12 and 18.',
-    'rating.mature': 'Mature',
-    'rating.desc.mature': 'Contains advance themes, crude language and implicit scenes.',
-    'rating.explicit': 'Explicit',
-    'rating.desc.explicit': 'Contains explicit scenes.',
-    'rating.selection.all': 'All - Accessible to all ages and groups.',
-    'rating.selection.teens': 'Teens (12-18) - Suitable for audience between ages 12 and 18.',
-    'rating.selection.mature': 'Mature (18+) - Contains advance themes, crude language and implicit scenes.',
-    'rating.selection.explicit': 'Explicit (21+) - Contains explicit scenes.'
+    'rating.name': 'Įvertinimas',
+    'rating.explained': 'Amžiaus įvertinimas ir apribojimai.',
+    'rating.all': 'Visi',
+    'rating.desc.all': 'Prieinama visiems amžiams ir grupėms.',
+    'rating.teens': 'Paaugliai',
+    'rating.desc.teens': 'Tinkama auditorijai nuo 12 iki 18 metų.',
+    'rating.mature': 'Suaugusieji',
+    'rating.desc.mature': 'Turinys apie sudėtingas temas, grubų kalbą ir neapibrėžtus vaizdus.',
+    'rating.explicit': 'Aiškus',
+    'rating.desc.explicit': 'Turinys su aiškiais vaizdais.',
+    'rating.selection.all': 'Visi - Prieinama visiems amžiams ir grupėms.',
+    'rating.selection.teens': 'Paaugliai (12-18) - Tinkama auditorijai nuo 12 iki 18 metų.',
+    'rating.selection.mature': 'Suaugusieji (18+) - Turinys apie sudėtingas temas, grubų kalbą ir neapibrėžtus vaizdus.',
+    'rating.selection.explicit': 'Aiškus (21+) - Turinys su aiškiais vaizdais.'
 };

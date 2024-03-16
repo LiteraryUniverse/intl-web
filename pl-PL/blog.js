@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Aktualnie nie masz {type, select,
+    organization {żadnego bloga}
+    universe {bloga dla twojego świata}
+    user {bloga}
     other {}
   }.`,
     'blog.create': 'Utwórz nowego bloga',
@@ -52,7 +52,8 @@ export default {
     'blog.settingsAria': 'Ustawienia kategorii dla bloga',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.introText': 'Akapit wprowadzenia',
+    'blog.post.writtenBy': 'Napisane przez {usernameDisplay}',
+    'blog.post.writtenByFor': 'Napisane przez {usernameDisplay} dla {publicationName}',
+    'blog.posts.recent': 'Najnowsze posty'
 };

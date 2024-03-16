@@ -1,28 +1,28 @@
 export default {
-    'encyclopedia.add': 'Add a new entry',
-    'encyclopedia.browse': 'Browse through encyclopedia',
-    'encyclopedia.search': 'Search the encyclopedia',
-    'encyclopedia.back.universe': 'Back to universe page',
-    'encyclopedia.back.workshop': 'Back to workshop',
-    'encyclopedia.categories': 'Categories',
-    'encyclopedia.groups': 'Groups',
-    'encyclopedia.category.character': 'Characters',
-    'encyclopedia.category.event': 'Events',
-    'encyclopedia.category.group': 'Groups',
-    'encyclopedia.category.item': 'Items',
-    'encyclopedia.category.location': 'Locations',
-    'encyclopedia.category.other': 'Other',
-    'encyclopedia.category.state': 'States',
-    'encyclopedia.category.governments': 'Governments',
-    'encyclopedia.category.languages': 'Languages',
-    'encyclopedia.category.creatures': 'Creatures',
-    'encyclopedia.category.deity': 'Deities',
-    'encyclopedia.category.religions': 'Religions',
-    'encyclopedia.category.flora': 'Flora',
-    'encyclopedia.category.magic': 'Magic',
-    'encyclopedia.category.planets': 'Planets',
-    'encyclopedia.category.species': 'Species',
-    'encyclopedia.category.technologies': 'Technologies',
+    'encyclopedia.add': 'புதிய உள்ளடக்கத்தைச் சேர்க்கவும்',
+    'encyclopedia.browse': 'அரசாங்கத்தில் சுவரொட்டி செல்க',
+    'encyclopedia.search': 'அரசாங்கத்தில் தேடு',
+    'encyclopedia.back.universe': 'உலகம் பக்கத்திற்கு திரும்பு',
+    'encyclopedia.back.workshop': 'பணிமுக பக்கத்திற்கு திரும்பு',
+    'encyclopedia.categories': 'வகைகள்',
+    'encyclopedia.groups': 'குழுக்கள்',
+    'encyclopedia.category.character': 'கதைப்பாடகர்கள்',
+    'encyclopedia.category.event': 'நிகழ்வுகள்',
+    'encyclopedia.category.group': 'குழுக்கள்',
+    'encyclopedia.category.item': 'பொருட்கள்',
+    'encyclopedia.category.location': 'இடங்கள்',
+    'encyclopedia.category.other': 'மற்றவை',
+    'encyclopedia.category.state': 'மாநிலங்கள்',
+    'encyclopedia.category.governments': 'அரசிகள்',
+    'encyclopedia.category.languages': 'மொழிகள்',
+    'encyclopedia.category.creatures': 'உயிரியல்',
+    'encyclopedia.category.deity': 'தெய்வங்கள்',
+    'encyclopedia.category.religions': 'மதங்கள்',
+    'encyclopedia.category.flora': 'பூவங்கள்',
+    'encyclopedia.category.magic': 'மாயம்',
+    'encyclopedia.category.planets': 'கிரகங்கள்',
+    'encyclopedia.category.species': 'இனங்கள்',
+    'encyclopedia.category.technologies': 'தொழில்நுட்பங்கள்',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -35,62 +35,62 @@ export default {
     'encyclopedia.add.title': 'Add a new entry to encyclopedia',
     'encyclopedia.add.heading': 'What do you wish to add?',
     'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `புதியதாக {category, select,
+    character {சரக்கு}
+    event {நிகழ்வு}
+    group {குழு}
+    item {பொருள்}
+    location {இடம்}
+    other {குறிப்பு}
+    state {மாநிலம்}
+    governments {அரசாங்கம்}
+    languages {மொழி}
+    creatures {உயிர்மரம்}
+    deity {தெய்வம்}
+    religions {மதம்}
+    flora {பூவணி}
+    magic {மாயக்கலை}
+    planets {பிரபஞ்சம்}
+    species {இனம்}
+    technologies {தொழில்நுட்பம்}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
+    'encyclopedia.create.header': `புதியதாக {category, select,
+    character {சரக்கு}
+    event {நிகழ்வு}
+    group {குழு}
+    item {பொருள்}
+    location {இடம்}
+    other {குறிப்பு}
+    state {மாநிலம்}
+    governments {அரசாங்கம்}
+    languages {மொழி}
+    creatures {உயிர்மரம்}
+    deity {தெய்வம்}
+    religions {மதம்}
+    flora {பூவணி}
+    magic {மாயக்கலை}
+    planets {பிரபஞ்சம்}
+    species {இனம்}
+    technologies {தொழில்நுட்பம்}
+  } உள்ளிடுக்கப்பட்டது {universe}`,
+    'encyclopedia.entry.category': `உள்ளீட்டு வகை: {category, select,
+    character {எழுத்து}
+    event {நிகழ்வு}
+    group {குழு}
+    item {பொருள்}
+    location {இடம்}
+    other {குறிப்பு}
+    state {நிலை}
+    governments {அரசாங்கம்}
+    languages {மொழி}
+    creatures {உயிர்ப்புணர்வு}
+    deity {தெய்வம்}
+    religions {மதம்}
+    flora {மலர்}
+    magic {மந்திரம்}
+    planets {கிரகம்}
+    species {இனம்}
+    technologies {தொழில்நுட்பம்}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
@@ -146,8 +146,15 @@ export default {
     other {{max, number}}
   } entries.`,
     'enc.entries.limitReached': 'You have reached maximum allowed encyclopedia entries for you current subscription.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'அறிவியல் அமைப்புகள்',
+    'encyclopedia.pronunciation.title': 'உச்சரிப்பு',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'செயல்முறையில் மேம்படுத்தப்படுகின்றது',
+    'encyclopedia.settings.templateLegend': 'வார்ப்புரு பண்பாட்டு',
+    'encyclopedia.settings.templateDescription': 'இந்த வார்ப்புருவின் உள்ளடக்கத்தை மற்ற பண்பாட்டுகளில் நகலெடுக்க அனுமதிக்கவும். இது கதைகள் இல்லாத படிவம் உருவாக்குவதற்கு சிறந்தது அல்லது மற்றவர்கள் பயன்படுத்த விரும்புகின்றனர்.',
+    'encyclopedia.settings.templateCheckbox': 'இது ஒரு வார்ப்புரு பண்பாடு',
+    'encyclopedia.templateCopy.modalTitle': 'வார்ப்புரு உள்ளடக்கத்தை நகலெடு',
+    'encyclopedia.templateCopy.description': 'இந்த வார்ப்புருவின் உள்ளடக்கத்தை உங்கள் வாழ்க்கையின் பலமாக்க வார்ப்புருவில் நகலெடுக்கவும்.',
+    'encyclopedia.templateCopy.targetUniverse': 'நகலெடுவல் வார்ப்புரு',
+    'encyclopedia.templateCopy.finished': 'நகலெடுக்கல் முடிந்தது'
 };

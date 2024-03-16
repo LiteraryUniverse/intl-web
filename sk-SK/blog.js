@@ -52,7 +52,8 @@ export default {
     'blog.settingsAria': 'Nastavenie kategórií pre blog',
     'blog.settings.blog': 'Blog',
     'blog.settings.forum': 'Fórum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.post.introText': 'Úvodný odsek',
+    'blog.post.writtenBy': 'Napísané {usernameDisplay}',
+    'blog.post.writtenByFor': 'Napísal {usernameDisplay} pre {publicationName}',
+    'blog.posts.recent': 'Nedávne príspevky'
 };

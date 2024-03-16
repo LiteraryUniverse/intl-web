@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'మీ వ్యాఖ్యనను రాయండి',
+    'comments.none': 'క్షమించండి, చూపించాల్సిన వ్యాఖ్యలు లేవు.',
+    'comments.total': `ఇక్కడ {count, plural,
+    =0 {వ్యాఖ్యలు లేవు}
+    one {ఒక వ్యాఖ్య}
+    other {ఉన్నాయి వ్యాఖ్యలు}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'పాత వ్యాఖ్యలను చూపించు'
 };

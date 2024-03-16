@@ -17,5 +17,6 @@ export default {
   'fanManager.stateChange.reject': 'Odmietnuť fanúšikovské umenie',
   'fanManager.stateChange.hide': 'Skryť fanúšikovské umenie',
   'fanManager.stateChange.unhide': 'Zviditeľnite fanúšikovské umenie',
-  'fanManager.fanFictionNotAllowed': 'Fan fiction není povolena povahou Vaší licence.'
+  'fanManager.fanFictionNotAllowed': 'Fan fiction není povolena povahou Vaší licence.',
+  'fanManager.fanFiction.maxRating': 'Maximálna hodnotenie zobrazovanej fanfiction.'
 };

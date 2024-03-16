@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
+  'readingList.title': 'Listahan ng Pagbabasa',
+  'readingList.type.label': 'Uri ng Listahan',
+  'readingList.type.stories': 'Mga Kuwento',
+  'readingList.type.universes': 'Mga Uniberso',
+  'readingList.ordered.label': 'Nakaayos na Listahan',
+  'readingList.button.add': 'Idagdag sa listahan ng pagbabasa',
+  'readingList.selectList': 'Pumili ng listahan ng pagbabasa',
+  'readingList.create': 'Gumawa ng bagong listahan ng pagbabasa',
+  'readingList.create.aria': 'Modal na may mga setting para sa bagong listahan ng pagbabasa',
+  'readingList.edit.aria': 'Modal para i-edit ang mga setting ng listahan ng pagbabasa',
+  'readingList.library.title': 'Ang iyong mga listahan ng pagbabasa',
+  'readingList.public.label': 'Nakikita ba ng publiko?',
   'readingList.addItem': `Add {type, select,
     universes {universe}
     stories {story}
     other {stories and universes}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modal para idagdag ang mga {type, select,
+    universes {uniberso}
+    stories {mga kuwento}
+    other {mga kuwento at mga kuwento ng uniberso}
+  } sa listahan ng pagbabasa.`,
+  'readingList.addItem.fromLibrary': 'Mula sa aklatan',
+  'readingList.button.added': 'Idinagdag'
 };

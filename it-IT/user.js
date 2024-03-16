@@ -44,10 +44,10 @@ other {Aggiunti}} il {date, date,long}`,
     one {fan fiction}
     other {fan fictions} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Opere',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Lista dei desideri',
+    'profile.storiesBy': 'Storie create da {username}',
+    'profile.universesBy': 'Universi creati da {username}',
+    'profile.fanFictionBy': 'Fan Fiction create da {username}'
 };

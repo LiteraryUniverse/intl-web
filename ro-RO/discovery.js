@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Continuă lectura',
     'discovery.stories.similar.new': 'Povești noi în vecinătate',
     'discovery.stories.similar.regular': 'Povești în vecinătate',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Această poveste ar trebui să dureze {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 oră și }
+        other {# ore și }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 minute}
+        one {1 minut}
+        other {# minute}
+    } pentru a citi.`,
+    'story.estimatedReadingTime.explained': 'Pe baza unei viteze medii de citire de {avgReadingNum, number} cuvinte pe minut.',
     'discover.search.text': 'Termen de căutare',
     'discover.searchStory.title': 'Caută o poveste',
     'discover.searchStory.description': 'Caută povești',
@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Caută universuri',
     'discover.search.storyStatus': 'Statusul progresului povestirii',
     'story.status.complete': 'Completă',
-    'story.status.inProgress': 'În desfășurare',
+    'story.status.inProgress': 'În curs',
     'discover.search.universeConnection': 'Legătura povestirii cu universul',
     'story.universeRelation.standalone': 'Poveste independentă',
     'story.universeRelation.fanFiction': 'Fan Fiction',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'Cuprins',
     'story.status.hiatus': 'Întrerupt',
     'story.status.cancelled': 'Anulat',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Citit - {readAt, date}',
     'discovery.moreDetails': 'Mai multe detalii',
     'discovery.read': 'Citește',
     'discovery.chapters.showAll': 'Afișează toate capitolele',

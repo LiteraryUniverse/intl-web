@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
-  'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.title': 'Lista de lectură',
+  'readingList.type.label': 'Tipul listei',
+  'readingList.type.stories': 'Povești',
+  'readingList.type.universes': 'Universuri',
+  'readingList.ordered.label': 'Listă ordonată',
+  'readingList.button.add': 'Adaugă la lista de lectură',
+  'readingList.selectList': 'Selectează lista de lectură',
+  'readingList.create': 'Creează o nouă listă de lectură',
+  'readingList.create.aria': 'Modalitate de configurare a unei noi liste de lectură',
+  'readingList.edit.aria': 'Modalitate de editare a setărilor listei de lectură',
+  'readingList.library.title': 'Listele tale de lectură',
+  'readingList.public.label': 'Este vizibilă public?',
+  'readingList.addItem': `Adaugă {type, select,
+    universes {univers}
+    stories {poveste}
+    other {povești și universuri}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modalitate de adăugare a {type, select,
+    universes {universuri}
+    stories {povești}
+    other {povești și universuri}
+  } în lista de lectură.`,
+  'readingList.addItem.fromLibrary': 'Din bibliotecă',
+  'readingList.button.added': 'Adăugat'
 };

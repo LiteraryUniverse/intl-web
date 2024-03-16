@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'നിങ്ങളുടെ അഭിപ്രായം എഴുതുക',
+    'comments.none': 'ക്ഷമിക്കണം, കമന്റുകൾ കാണിക്കുന്നില്ല.',
+    'comments.total': `ഇവിടെ {count, plural,
+    =0 {കമന്റുകൾ ഇല്ലെന്ന് പറയപ്പെടുന്നു}
+    one {1 കമന്റ് ഉണ്ട്}
+    other {# കമന്റുകൾ ഉണ്ട്}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'പഴയ കമന്റുകൾ കാണിക്കുക'
 };

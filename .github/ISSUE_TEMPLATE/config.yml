@@ -1,0 +1,15 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - about: Translate the documentation into other languages on Crowdin
+    name: 📜 Translate
+    url: https://crowdin.com/project/literary-universe
+  - about: Do you have a question or feedback?
+    name: ❓ Questions & Feedback
+    url: https://www.literaryuniverse.com/feedback
+  - about: Chat on our Discord community
+    name: 🗯 Chat
+    url: https://discord.gg/qR6dkFd
+  - about: The official Literary Universe website
+    name: ℹ️ Website
+    url: https://www.literaryuniverse.com/

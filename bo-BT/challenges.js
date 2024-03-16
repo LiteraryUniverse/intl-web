@@ -36,8 +36,8 @@ export default {
     'nanowrimo.settings': 'NaNoWriMo account',
     'nanowrimo.username': 'NaNoWriMo username',
     'nanowrimo.key': 'Secret key',
-    'nanowrimo.key.get': 'Get your NaNoWriMo key.',
-    'nanowrimo.key.get.notice': 'You need to be logged in to see it.',
+    'nanowrimo.key.get': 'ཁྱེད་ཀྱི་NaNoWriMo གསརཔ་རིས་དང་གཅིག་ཁྲམ་སྐྱོང་བའི་ལྟ་བའི་གྲལ་རིམ་གཏོགས་པ་བྱེད།',
+    'nanowrimo.key.get.notice': 'ཁྱེད་ཀྱི་དང་པོ་འགོ་བཙུགས་པའི་གདམ་ཁ་སྐོར་བཀོད་པའི་དོན་ལུ་བལྟ་བའི་འདི་ལྟ་བའི་སྒྲོམ་བརྡའི་གནས་སྡུད་བྱེད།',
     'nanowrimo.ongoing': 'is in full swing! {countdown} more days to go!',
     'nanowrimo.startsin': `will start in {countdown, plural,
       one {1 day}

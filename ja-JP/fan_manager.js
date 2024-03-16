@@ -17,5 +17,6 @@ export default {
   'fanManager.stateChange.reject': 'ファンアートは却下されました',
   'fanManager.stateChange.hide': 'ファンアートを非表示にする',
   'fanManager.stateChange.unhide': 'ファンアートを可視化する',
-  'fanManager.fanFictionNotAllowed': 'ファンフィクションは、ライセンスの性質上、禁止されています。'
+  'fanManager.fanFictionNotAllowed': 'ファンフィクションは、ライセンスの性質上、禁止されています。',
+  'fanManager.fanFiction.maxRating': '表示されるファンフィクションの最大評価値。'
 };

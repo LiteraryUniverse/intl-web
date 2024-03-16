@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Olvass tovább',
     'discovery.stories.similar.new': 'Új történetek a környéken',
     'discovery.stories.similar.regular': 'Történetek a környéken',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Ez a történet kb. {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 óra és }
+        other {# óra és }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 perc}
+        one {1 perc}
+        other {# perc}
+    } olvasási idő.`,
+    'story.estimatedReadingTime.explained': 'Az átlagos olvasási sebesség alapján, percenként {avgReadingNum, number} szóval számolva.',
     'discover.search.text': 'Kereső kifejezés',
     'discover.searchStory.title': 'Keresés egy történetre',
     'discover.searchStory.description': 'Keresés történetekre',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'Tartalomjegyzék',
     'story.status.hiatus': 'Szünetel',
     'story.status.cancelled': 'Megszüntetve',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Olvasta - {readAt, date}',
     'discovery.moreDetails': 'További részletek',
     'discovery.read': 'Olvasható',
     'discovery.chapters.showAll': 'Összes fejezet megjelenítése',

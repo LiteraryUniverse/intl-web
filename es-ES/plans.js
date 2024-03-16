@@ -90,13 +90,14 @@ export default {
   }.`,
     'plans.subscribed.paymentMethod': 'Se utilizará tu método de pago por defecto para el siguiente ciclo.',
     'plans.subscribed.status': `Estado de la suscripción: {status, select,
-    active {Activo}
-    incomplete {Falta algo}
-    incomplete_expired {Falta algo}
-    trialing {De prueba}
-    past_due {Falta pago}
-    canceled {Cancelado}
-    unpaid {Impagado}
+    active {Activa}
+    incomplete {Hay algo que falta}
+    incomplete_expired {Hay algo que falta}
+    trialing {Prueba}
+    past_due {Nos falta tu pago}
+    cancelled {Cancelada}
+    unpaid {Sin pagar}
+    expired {Expirada}
     other {}
   }`,
     'payments.changeMethod': 'Cambiar método de pago',
@@ -213,5 +214,15 @@ export default {
     'payment.universe.directivesEncFull': '¡Completa tu enciclopedia, con unas 30 entradas bastará! Sería incluso mejor si llegas a las 100 entradas.',
     'payment.universe.haveFans': 'Es más fácil que recibas publicidad si ya se han interesado por lo que has estado haciendo. Plantéate como primera meta llegar a los 100 fans que añadan tu universo a su biblioteca.',
     'payment.settings.yourFanClub': 'Tu club de fans',
-    'payment.settings.newWork': 'Crear una nueva obra'
+    'payment.settings.newWork': 'Crear una nueva obra',
+    'payment.amount.withNet': `{amount} (neto: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'Nombre de nivel',
+    'payment.fanClub.createTier': 'Agregar nivel',
+    'payment.fanClub.description': 'Descripción del nivel',
+    'payment.fanClub.picture': 'Imagen del nivel',
+    'payment.fanClub.priceBreakdown': 'El suscriptor pagará: {amount}. La tarifa de la plataforma es {fee}, recibirás: {net}',
+    'payment.feeNotice': 'Por favor, ten en cuenta que esto es solo una estimación y la tarifa real podría ser diferente según el tipo de pago del cliente y los cargos adicionales del proveedor de pago.',
+    'payment.fanClub.perks': 'Beneficios'
 };

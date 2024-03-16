@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'ruxse jimpe',
     'discovery.stories.similar.new': 'samselvinji pe skina ku\'u kelci',
     'discovery.stories.similar.regular': 'samselvinji pe skina ku\'u kelci',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Ti djica cu klama {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 cacra e }
+        other {# cacra e }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 mentu}
+        one {1 mentu}
+        other {# mentu}
+    } lo ka tcidu.`,
+    'story.estimatedReadingTime.explained': 'Selsku lo sefta be lo nunmu\'i be lo se ckire be lo {avgReadingNum, number} valsi lo nu tcidu',
     'discover.search.text': 'se cuxna be skina',
     'discover.searchStory.title': 'celxa se citka',
     'discover.searchStory.description': 'celxa se citka',
@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'celxa se samselvinji',
     'discover.search.storyStatus': 'samselvinji pe skina',
     'story.status.complete': 'pipno',
-    'story.status.inProgress': 'lukin',
+    'story.status.inProgress': 'Ciska',
     'discover.search.universeConnection': 'steci-be-lo-skina tangra',
     'story.universeRelation.standalone': 'samselvinji pe solri pe skina',
     'story.universeRelation.fanFiction': 'samselvinji pe mivmu\'i lo skina',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': '.i lo se skina be lo xirma',
     'story.status.hiatus': '.i na xrani lo nu lo sanga na se mu\'i gi\'i lo nu catlu lo ro danfu',
     'story.status.cancelled': '.i nu\'osti',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Tcidu - {readAt, date}',
     'discovery.moreDetails': '.i lo danfu je plinynoi bapli\'i',
     'discovery.read': 'mencti',
     'discovery.chapters.showAll': '.i lo nu plinynoi danfu',

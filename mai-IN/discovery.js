@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'पढ्न जारी राख्नुहोस्',
     'discovery.stories.similar.new': 'पड़ोसमा नयाँ कथाहरू',
     'discovery.stories.similar.regular': 'पड़ोसमा कथाहरू',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `यह कथा {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 घंटा और }
+        other {घंटे और }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 मिनट}
+        one {1 मिनट}
+        other {# मिनट}
+    } में पढ़ने के लिए होनी चाहिए।`,
+    'story.estimatedReadingTime.explained': '{avgReadingNum, number} शब्द प्रति मिनट के औसत पठन गति के आधार पर।',
     'discover.search.text': 'खोजी शब्द',
     'discover.searchStory.title': 'कथामा खोजी गर्नुहोस्',
     'discover.searchStory.description': 'कथामा खोजी गर्नुहोस्',
@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'ब्रह्माण्डमा खोजी गर्नुहोस्',
     'discover.search.storyStatus': 'कथा प्रगति स्थिति',
     'story.status.complete': 'पूर्ण',
-    'story.status.inProgress': 'काम मा',
+    'story.status.inProgress': 'चल रहा है',
     'discover.search.universeConnection': 'ब्रह्माण्डसँग कथा कनेक्सन',
     'story.universeRelation.standalone': 'एकल कथा',
     'story.universeRelation.fanFiction': 'फ्यान फिक्सन',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'सूची दर्ज करें',
     'story.status.hiatus': 'हायेटस पर',
     'story.status.cancelled': 'रद्द कर दिया गया है',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': '{readAt, date}पढ़ें -',
     'discovery.moreDetails': 'अधिक विवरण',
     'discovery.read': 'पढ़ें',
     'discovery.chapters.showAll': 'सभी अध्याय दिखाएँ',

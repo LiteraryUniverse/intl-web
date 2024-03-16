@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Otsi universumeid',
     'discover.search.storyStatus': 'Loo edenemise olek',
     'story.status.complete': 'Valmis',
-    'story.status.inProgress': 'Pooleli',
+    'story.status.inProgress': 'Käimas',
     'discover.search.universeConnection': 'Ühendus loo ja universumi vahel',
     'story.universeRelation.standalone': 'Iseseisev lugu',
     'story.universeRelation.fanFiction': 'Fännifiktsioon',

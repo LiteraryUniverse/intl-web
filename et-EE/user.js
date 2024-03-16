@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.request.add': 'Lisa sõprade hulka',
+    'user.friend.requests': `Sul on {num, number} uus sõber {num, plural,
+    zero {taotlusi}
+    one {taotlus}
+    many {taotlust}
+    other {taotlust}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Eemalda sõber',
+    'user.block': 'Blokeeri',
+    'user.unblock': 'Tühistab blokeeringu',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
-    'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    male {liitus}
+    female {liitus}
+    other {liitus}} {date, date, long}`,
+    'user.friend.request.accept': 'Võta sõpruse taotlus vastu',
+    'user.friend.request.cancel': 'Tühista sõpruse taotlus',
+    'user.friend.request.deny': 'Keeldu sõprusest',
+    'user.listing': 'Kasutajate loetelu',
+    'user.profile.visit': 'Külasta kasutaja {user}profiili.',
+    'user.profile.avatar': 'Kasutaja {username}avatar',
+    'user.friend.list.requests': 'Sõpruse taotlused',
+    'user.friend.norequests': 'Sul ei ole sõpruse taotlusi.',
     'user.dashboardWelcome': `Good {dayPart, select,
     morning {morning}
     afternoon {afternoon}
@@ -28,26 +28,26 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-    'user.verification.publishedAuthor': 'This author has been published the traditional way',
-    'user.verification.luAuthor': 'Literary Universe based author of note',
-    'user.verification.luEmployee': 'Literary Universe employee',
-    'user.verification.publicFigure': 'Verified public figure',
+    'user.verification.publishedAuthor': 'See autor on avaldatud traditsioonilisel viisil',
+    'user.verification.luAuthor': 'Kirjandusliku Universumi märkimisväärne autor',
+    'user.verification.luEmployee': 'Kirjandusliku Universumi töötaja',
+    'user.verification.publicFigure': 'Kinnitatud avaliku elu tegelane',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {lugu}
+    other {lugusid}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {universum}
+    other {universumit}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {fännilugu}
+    other {fännilugusid} 
   }`,
-    'profile.works': 'Works',
+    'profile.works': 'Tööd',
     // As in creative/literary works
-    'profile.wishlist': 'Wishlist',
-    'profile.storiesBy': 'Stories created by {username}',
-    'profile.universesBy': 'Universes created by {username}',
-    'profile.fanFictionBy': 'Fan Fiction created by {username}'
+    'profile.wishlist': 'Soovinimekiri',
+    'profile.storiesBy': 'Lood, mille on loonud {username}',
+    'profile.universesBy': 'Universumid, mille on loonud {username}',
+    'profile.fanFictionBy': 'Fännilood, mille on loonud {username}'
 };

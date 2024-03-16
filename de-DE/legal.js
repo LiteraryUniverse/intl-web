@@ -4,8 +4,11 @@ export default {
     'legal.modal.disagree': 'Ich stimme nicht zu',
     'legal.modal.register': 'Sie werden dies nicht mehr sehen, wenn Sie sich registrieren.',
     'legal.modal.goToSettings': 'Gehen Sie zu Ihren Einstellungen',
-    'legal.modal.oneLastThing': 'One last thing...',
+    'legal.modal.oneLastThing': 'Eine letzte Sache...',
     'legal.modal.finish': 'Oberfläche',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.existingUser': 'Bereits registriert?',
+    'legal.modal.pleaseLogin': 'Hier anmelden.',
+    'legal.publicationAgreements': 'Veröffentlichungsvereinbarungen',
+    'legal.generalPublishingAgreement': 'Allgemeine Veröffentlichungsvereinbarung',
+    'legal.documentsFor': 'Rechtliche Dokumente für {workTitle}'
 };

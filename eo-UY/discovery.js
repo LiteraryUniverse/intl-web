@@ -7,16 +7,16 @@ export default {
     'discovery.continue': 'Legi plu',
     'discovery.stories.similar.new': 'Novaj rakontoj en la najbaraĵo',
     'discovery.stories.similar.regular': 'Rakontoj en la najbaraĵo',
-    'story.estimatedReadingTime': `This story should take {hours, plural,
+    'story.estimatedReadingTime': `Ĉi tiu rakonto devus preni {hours, plural,
         =0 {}
-        one {1 hour and }
-        other {# hours and }
+        one {1 horon kaj }
+        other {# horojn kaj }
     }{minutes, plural,
-        =0 {0 minutes}
-        one {1 minute}
-        other {# minutes}
-    } to read.`,
-    'story.estimatedReadingTime.explained': 'Based on an average reading speed of {avgReadingNum, number} words per minute.',
+        =0 {0 minutojn}
+        one {1 minuton}
+        other {# minutojn}
+    } por legi.`,
+    'story.estimatedReadingTime.explained': 'Bazita je meza legopaceco de {avgReadingNum, number} vortoj po minuto.',
     'discover.search.text': 'Enserĉopa vorto',
     'discover.searchStory.title': 'Serĉu rakonton',
     'discover.searchStory.description': 'Serĉu rakontojn',
@@ -24,7 +24,7 @@ export default {
     'discover.searchUniverse.description': 'Serĉu universojn',
     'discover.search.storyStatus': 'Stara progreso de la rakonto',
     'story.status.complete': 'Plena',
-    'story.status.inProgress': 'Progresanta',
+    'story.status.inProgress': 'Daŭranta',
     'discover.search.universeConnection': 'Rilato de rakonto al universo',
     'story.universeRelation.standalone': 'Memstara rakonto',
     'story.universeRelation.fanFiction': 'Fanfikcio',
@@ -51,7 +51,7 @@ export default {
     'discovery.story.tableOfContent': 'Enhavo-tabelo',
     'story.status.hiatus': 'Interrompita',
     'story.status.cancelled': 'Nuligita',
-    'story.chapter.wasRead': 'Read - {readAt, date}',
+    'story.chapter.wasRead': 'Legu - {readAt, date}',
     'discovery.moreDetails': 'Pliaj detaloj',
     'discovery.read': 'Legi',
     'discovery.chapters.showAll': 'Montri ĉiujn ĉapitrojn',

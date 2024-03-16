@@ -3,7 +3,7 @@ export default {
     'library.remove': 'Ta bort från biblioteket',
     'library.bought': 'Köpta berättelser',
     'library.stories': 'Följda berättelser',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.universes': 'Följda universum',
+    'bookmark.continueReading': 'Fortsätt läsa',
+    'bookmark.statusSummary': 'Du har läst {readPercent, number, ::percent} av historien.'
 };

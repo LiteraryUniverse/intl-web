@@ -42,7 +42,7 @@ export default {
     'common.futurefeature.text': 'Omlouváme se, ale tato funkcionalita je momentálně ve vývoji.',
     'common.nothingfound': 'Nic nenalezeno',
     'common.explore': 'Objev',
-    'common.by': 'od ',
+    'common.by': 'od {author}',
     // keep the space at the end as username follows TODO: needs fixing
     'common.scratchpad': 'Zápisník',
     'common.scratchpad.own': 'Váš Zápisník',
@@ -256,5 +256,8 @@ export default {
     'common.thankYou': 'Děkujeme!',
     'common.seeYouAgain': 'Naviděnou!',
     'email.hello': 'Dobrý den {username},',
-    'common.back': 'Zpět'
+    'common.back': 'Zpět',
+    'console.stop': 'STOP! Zastavte!',
+    'console.explain': 'Toto je funkce prohlížeče určená pro vývojáře. Pokud vám někdo řekl, abyste sem něco zkopírovali, abyste povolili funkci Literary Universe nebo "hackovali" něčí účet, jedná se o podvod a tímto získá přístup k vašemu účtu.',
+    'common.coping': 'Kopírování...'
 }    /* eslint-enable max-len */;

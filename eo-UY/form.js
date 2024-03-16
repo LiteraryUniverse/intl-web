@@ -1,69 +1,69 @@
 export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Deviga kampo',
-    'form.validator.mustBeNumber': 'Must be a number',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.mustBeNumber': 'Devus esti numero',
+    'form.validator.minNumber': 'Devus esti pli granda ol {min, number}',
+    'form.validator.maxNumber': 'Devus esti pli malgranda ol {max, number}',
+    'form.validator.maxLength': `Devus esti malpli ol {max, number} {what, select,
+    characters {signoj}
+    tags {etikedoj}
+    genres {ĝenroj}
+    numbers {nombroj}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `Devus esti almenaŭ {min, number} {what, select,
+    characters {signoj}
+    tags {etikedoj}
+    genres {ĝenroj}
+    genre {ĝenro}
+    numbers {nombroj}
     other {}
   }`,
-    'form.validator.email': 'Must be a valid e-mail',
+    'form.validator.email': 'Devus esti valida retpoŝto',
     'form.validator.url': 'Devas esti valida retpaĝa adreso',
-    'form.validator.slug': 'Must be a valid part of URL',
-    'form.submitting.signup': 'Creating account...',
-    'form.submitting.signin': 'Logging in...',
+    'form.validator.slug': 'Devus esti valida parto de URL',
+    'form.submitting.signup': 'Kreas konton...',
+    'form.submitting.signin': 'Ensalutante...',
     'form.submitting.default': 'Sendado...',
     'form.submitting.sending': 'Sendante...',
-    'form.validator.whitespace': 'Must not have white space',
-    'form.validator.zipCode': 'Must be a valid ZIP code',
-    'form.validator.isbn': 'We only accept 10 or 13 version of ISBN',
-    'form.validator.btc': 'This is not a valid BTC address.',
-    'form.validator.eth': 'This is not a valid ETH address.',
-    'form.weakPassword': 'This password looks weak. Please consider making it stronger by adding numbers and special characters.',
+    'form.validator.whitespace': 'Ne devas havi spacetojn',
+    'form.validator.zipCode': 'Devus esti valida ZIP-kodo',
+    'form.validator.isbn': 'Ni nur akceptas version 10 aŭ 13 de ISBN',
+    'form.validator.btc': 'Tio ne estas valida BTC adreso.',
+    'form.validator.eth': 'Tio ne estas valida ETH adreso.',
+    'form.weakPassword': 'Ĉi tiu pasvorto ŝajnas malforta. Bonvolu konsideri plifortigi ĝin per aldono de nombroj kaj specialaj signoj.',
     // you can get these messages from: https://github.com/gwendall/meteor-simple-schema-i18n/tree/master/i18n
     // but don't forget to adjust the format
-    'simpleschema.required': '{label} is required',
-    'simpleschema.minString': '{label} must be at least {min, number} characters',
-    'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
-    'simpleschema.minNumber': '{label} must be at least {min, number}',
-    'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-    'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
-    'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
-    'simpleschema.minDate': '{label} must be on or after {min, date}',
-    'simpleschema.maxDate': '{label} cannot be after {max, date}',
-    'simpleschema.badDate': '{label} is not a valid date',
-    'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-    'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
-    'simpleschema.noDecimal': '{label} must be an integer',
-    'simpleschema.notAllowed': '{value} is not an allowed value',
-    'simpleschema.expectedString': '{label} must be a string',
-    'simpleschema.expectedNumber': '{label} must be a number',
-    'simpleschema.expectedBoolean': '{label} must be a boolean',
-    'simpleschema.expectedArray': '{label} must be an array',
-    'simpleschema.expectedObject': '{label} must be an object',
-    'simpleschema.expectedConstructor': '{label} must be a {type}',
-    'simpleschema.keyNotInSchema': '{key} is not allowed by the schema',
-    'simpleschema.notUnique': '{label} must be unique',
-    'simpleschema.regEx.0': '{label} failed regular expression validation',
-    'simpleschema.regEx.1': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.2': '{label} must be a valid e-mail address',
-    'simpleschema.regEx.3': '{label} must be a valid domain',
-    'simpleschema.regEx.4': '{label} must be a valid domain',
-    'simpleschema.regEx.5': '{label} must be a valid IPv4 or IPv6 address',
-    'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
-    'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
-    'simpleschema.regEx.8': '{label} must be a valid URL',
-    'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
+    'simpleschema.required': '{label} estas postulata',
+    'simpleschema.minString': '{label} devas havi almenaŭ {min, number} signojn',
+    'simpleschema.maxString': '{label} ne povas superi {max, number} signojn',
+    'simpleschema.minNumber': '{label} devas esti almenaŭ {min, number}',
+    'simpleschema.maxNumber': '{label} ne povas superi {max, number}',
+    'simpleschema.minNumberExclusive': '{label} devas esti pli granda ol {min, number}',
+    'simpleschema.maxNumberExclusive': '{label} devas esti malpli ol {max, number}',
+    'simpleschema.minDate': '{label} devas esti je aŭ post {min, date}',
+    'simpleschema.maxDate': '{label} ne povas esti poste ol {max, date}',
+    'simpleschema.badDate': '{label} ne estas valida dato',
+    'simpleschema.minCount': 'Vi devas specifi almenaŭ {minCount, number} valorojn',
+    'simpleschema.maxCount': 'Vi ne povas specifi pli ol {maxCount, number} valorojn',
+    'simpleschema.noDecimal': '{label} devus esti entjero',
+    'simpleschema.notAllowed': '{value} ne estas permesita valoro',
+    'simpleschema.expectedString': '{label} devus esti ĉeno',
+    'simpleschema.expectedNumber': '{label} devus esti numero',
+    'simpleschema.expectedBoolean': '{label} devus esti booleano',
+    'simpleschema.expectedArray': '{label} devus esti listo',
+    'simpleschema.expectedObject': '{label} devus esti objekto',
+    'simpleschema.expectedConstructor': '{label} devus esti {type}',
+    'simpleschema.keyNotInSchema': '{key} ne estas permesita laŭ la skemo',
+    'simpleschema.notUnique': '{label} devus esti unika',
+    'simpleschema.regEx.0': '{label} ne sukcesis regularan esprimvalidadon',
+    'simpleschema.regEx.1': '{label} devus esti valida retpoŝtadreso',
+    'simpleschema.regEx.2': '{label} devas esti valida retpoŝta adreso',
+    'simpleschema.regEx.3': '{label} devas esti valida domajno',
+    'simpleschema.regEx.4': '{label} devas esti valida domajno',
+    'simpleschema.regEx.5': '{label} devas esti valida IPv4 aŭ IPv6 adreso',
+    'simpleschema.regEx.6': '{label} devas esti valida IPv4 adreso',
+    'simpleschema.regEx.7': '{label} devas esti valida IPv6 adreso',
+    'simpleschema.regEx.8': '{label} devas esti valida URL',
+    'simpleschema.regEx.9': '{label} devas esti valida alfanumerika ID'
 };

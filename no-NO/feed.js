@@ -1,8 +1,9 @@
 export default {
-    'feed.name': 'Feed',
-    'feed.post.new': 'New post',
-    'feed.post.like': 'Like post',
-    'feed.post.unlike': 'Unlike post',
-    'feed.post.send': 'Post',
-    'feed.empty': 'No entries in the feed.'
+    'feed.name': 'Strøm',
+    'feed.post.new': 'Ny post',
+    'feed.post.like': 'Lik post',
+    'feed.post.unlike': 'Avlik post',
+    'feed.post.send': 'Innlegg',
+    'feed.empty': 'Ingen oppføringer i feeden.',
+    'feed.placeholder': 'Hva tenker du på?'
 };

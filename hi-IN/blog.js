@@ -1,57 +1,58 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `वर्तमान में आपके पास {type, select,
+    organization {कोई भी ब्लॉग नहीं हैं}
+    universe {एक यूनिवर्स के लिए ब्लॉग}
+    user {एक ब्लॉग}
     other {}
-  }.`,
-    'blog.create': 'Create a new blog',
+  }।`,
+    'blog.create': 'नया ब्लॉग बनाएं',
     'blog.settings': `{type, select,
-    org {Blog}
-    universe {Universe page}
-    user {Blog}
+    org {ब्लॉग}
+    universe {यूनिवर्स पेज}
+    user {ब्लॉग}
     other {}
-  } settings`,
-    'blog.description': 'Blog introduction',
-    'blog.theme': 'Theme',
-    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
-    'blog.post.create': 'Create a new post',
-    'blog.post.update': 'Editing {title}',
-    'blog.post.text': 'Post text',
-    'common.slug': 'SEO friendly address',
-    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
-    'blog.publicView': 'Public view',
-    'blog.post.notfound': 'Blog post was not found',
+  } सेटिंग्स`,
+    'blog.description': 'ब्लॉग परिचय',
+    'blog.theme': 'थीम',
+    'blog.theme.info': 'थीम को एडजस्ट करके आप पेज के लुक को बदल सकेंगे। इस सुविधा को अभी तक तैयार नहीं किया गया है।',
+    'blog.posts.total': `यहाँ {total, plural,
+    zero {कोई पोस्ट नहीं है}
+    one {एक पोस्ट है}
+    other {कुल # पोस्ट हैं}
+  } इस ब्लॉग में।`,
+    'blog.post.create': 'नई पोस्ट बनाएं',
+    'blog.post.update': 'संपादन कर रही हैं {title}',
+    'blog.post.text': 'पोस्ट टेक्स्ट',
+    'common.slug': 'एसईओ फ्रेंडली पता',
+    'blog.slug.explained': 'पोस्ट के लिए अच्छे दिखने वाला URL। "-" को छोड़कर विशेष वर्णों का प्रयोग न करें।',
+    'blog.publicView': 'सार्वजनिक दृश्य',
+    'blog.post.notfound': 'ब्लॉग पोस्ट नहीं मिली',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {यूनिवर्सेस}
+    stories {स्वतंत्र कहानियाँ}
+    fanfiction {प्रशंसा का काम}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.lists.stories.disclaimer': 'यहाँ अकेली कहानियाँ सूचीबद्ध हैं, अगर कोई कहानी किसी यूनिवर्स का हिस्सा नहीं है तो वह यूनिवर्स पेज पर सूचीबद्ध होगी।',
+    'blog.social.sameAsMain': `सामाजिक संपर्क उसी तरह हैं जैसा की सेट हैं {type, select,
+    organization {संगठन सेटिंग्स}
+    user {उपयोगकर्ता प्रोफाइल}
     other {}
   }`,
-    'blog.social.website': 'Official website',
-    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
-    'blogs.lu': 'Official Literary Universe blogs',
-    'blogs.featured': 'Featured blogs',
-    'blogs.new': 'Newest blogs',
-    'blogs.title': 'Blogs of Literary Universe',
-    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-    'blogs.visit': 'Visit blog',
-    'blog.settingsAria': 'Settings categories for the blog',
-    'blog.settings.blog': 'Blog',
-    'blog.settings.forum': 'Forum',
-    'blog.post.introText': 'Introduction paragraph',
-    'blog.post.writtenBy': 'Written by {usernameDisplay}',
-    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}'
+    'blog.social.website': 'आधिकारिक वेबसाइट',
+    'blog.settings.universeSettings': 'यूनिवर्स ब्लॉग यूनिवर्स सेटिंग से अपनी सामान्य सेटिंग ले लेते हैं।',
+    'blog.settings.organizationSettings': 'संगठन ब्लॉग संगठन पृष्ठों में एकीकृत हैं।',
+    'blogs.lu': 'आधिकारिक साहित्यिक यूनिवर्स ब्लॉग',
+    'blogs.featured': 'चयनित ब्लॉग',
+    'blogs.new': 'नवीनतम ब्लॉग',
+    'blogs.title': 'लिटररी यूनिवर्स के ब्लॉग',
+    'blogs.description': 'लिटररी यूनिवर्स प्लेटफॉर्म पर ब्लॉग की सूची।',
+    'blogs.visit': 'ब्लॉग पर जाएं',
+    'blog.settingsAria': 'ब्लॉग के लिए सेटिंग्स श्रेणियाँ',
+    'blog.settings.blog': 'ब्लॉग',
+    'blog.settings.forum': 'फोरम',
+    'blog.post.introText': 'परिचय पैराग्राफ',
+    'blog.post.writtenBy': 'लेखक: {usernameDisplay}',
+    'blog.post.writtenByFor': 'लिखा गया हैं {usernameDisplay} के लिए {publicationName}',
+    'blog.posts.recent': 'हाल के पोस्ट'
 };

@@ -1,27 +1,27 @@
 // Notifications & flashnews
 export default {
-  'flashnews.create': 'Create a new news flash',
-  'flashnews.startsAt': 'Start displaying this message at',
-  'flashnews.endsAt': 'Stop displaying this message at',
-  'flashnews.newLanguage': 'Select new language to add',
-  'flashnews.onlyDisplayOn': 'The news is going to be displayed only on the languages selected bellow (if any selected), there will be no news shown, even in the default language, in other languages.',
-  'notifications.menu.all': 'All notification',
-  'notifications.menu.following': 'Following',
-  'notifications.menu.workshop': 'Workshop',
-  'notifications.menu.news': 'News & updates',
-  'notifications.menu.markUnread': 'Mark as unread',
-  'notifications.menu.markRead': 'Mark as read',
-  'notifications.menu.delete': 'Delete notification',
+  'flashnews.create': 'צור  תצוגת חדשות חטיבה',
+  'flashnews.startsAt': 'התחל להציג את ההודעה בתאריך',
+  'flashnews.endsAt': 'הפסק להציג את ההודעה בתאריך',
+  'flashnews.newLanguage': 'בחר שפה חדשה להוסיף',
+  'flashnews.onlyDisplayOn': 'החדשות יתווספו רק בשפה הנבחרת למטה (אם נבחרו), לא יוצגו חדישות באף שפה אחרת, גם לא בשפת ברירת המחדל.',
+  'notifications.menu.all': 'כל התראות',
+  'notifications.menu.following': 'המעקבים שלי',
+  'notifications.menu.workshop': 'סדנה',
+  'notifications.menu.news': 'חדשות ועדכונים',
+  'notifications.menu.markUnread': 'סמן כלא נקרא',
+  'notifications.menu.markRead': 'סמן כנקרא',
+  'notifications.menu.delete': 'מחק התראה',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'הסיפור שלך {storyName} הוכרז כנעול אוטומטית לאחר 6 חודשים של חוסר פעילות.',
+  'notification.workshopStoryStatus.toCancelled': 'הסיפור שלך {storyName} הוכרז כבוטל אוטומטית לאחר שנה של חוסר פעילות.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} מוחזק במצב נעול.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} בוטל.',
+  'notification.followingNewChapter.new': 'פרק חדש של {storyName} פורסם!',
+  'notification.workshopStory.newComment': 'הערה חדשה ב {storyName}',
   // Before this text will be the username of the user
-  'notification.friendRequest': 'send you a friend request.',
+  'notification.friendRequest': 'שלח לך בקשת חברות.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'עבור לסיפור'
 };

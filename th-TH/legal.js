@@ -1,11 +1,14 @@
 export default {
-    'legal.modal.intro': 'Sorry to interrupt. But before we let you go any further, we are legally bound, to make sure that you are aware of and agree with our Terms of Service, Privacy Policy and Copyright Agreement.',
-    'legal.modal.agree': 'I Agree',
-    'legal.modal.disagree': 'I Disagree',
-    'legal.modal.register': 'You won\'t see this anymore if you register.',
-    'legal.modal.goToSettings': 'Go to your settings',
-    'legal.modal.oneLastThing': 'One last thing...',
-    'legal.modal.finish': 'Finish',
-    'legal.modal.existingUser': 'Already registered?',
-    'legal.modal.pleaseLogin': 'Please login.'
+    'legal.modal.intro': 'ขออภัยที่ขัดจังหวะครับ ก่อนที่เราจะให้คุณไปต่อไปอีก คุณต้องยอมรับว่าคุณทราบและเห็นด้วยกับข้อกำหนดการให้บริการ นโยบายความเป็นส่วนตัว และข้อตกลงลิขสิทธิ์ของเรา',
+    'legal.modal.agree': 'ฉันยอมรับ',
+    'legal.modal.disagree': 'ฉันไม่ยอมรับ',
+    'legal.modal.register': 'คุณจะไม่เห็นข้อความนี้อีกหากคุณลงทะเบียนแล้ว',
+    'legal.modal.goToSettings': 'ไปที่การตั้งค่าของคุณ',
+    'legal.modal.oneLastThing': 'อีกอย่างสุดท้าย...',
+    'legal.modal.finish': 'เสร็จสิ้น',
+    'legal.modal.existingUser': 'เคยลงทะเบียนแล้วหรือยัง?',
+    'legal.modal.pleaseLogin': 'กรุณาเข้าสู่ระบบ',
+    'legal.publicationAgreements': 'ข้อตกลงการเผยแพร่',
+    'legal.generalPublishingAgreement': 'ข้อตกลงการเผยแพร่ทั่วไป',
+    'legal.documentsFor': 'เอกสารทางกฎหมายสำหรับ {workTitle}'
 };

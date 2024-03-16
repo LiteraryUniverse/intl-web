@@ -11,7 +11,7 @@ export default {
     'plans.account.explorer': 'Explorer',
     'plans.account.explorer.desc': 'For hobbyist & friends.',
     'plans.account.adventurer': 'Adventurer',
-    'plans.account.adventurer.desc': 'For creators & our supporters.',
+    'plans.account.adventurer.desc': 'ନିର୍ମାତାଙ୍କ ଏବଂ ଆମର ସମର୍ଥକଙ୍କୁ ପାଇଁ।',
     'plans.account.storyteller': 'Storyteller',
     'plans.account.storyteller.desc': 'For the most creative and dedicated.',
     'plans.unlimited': 'Unlimited',
@@ -38,12 +38,12 @@ export default {
     'plans.feature.newFeaturesSuggest': 'Propose new features',
     'plans.feature.accessToBeta': 'Access Beta features',
     'plans.feature.userGroups': 'User groups',
-    'plans.feature.privateUserGroups': 'Create private and hidden user groups',
-    'plans.feature.internalUniverseForums': 'Internal forum for universes',
+    'plans.feature.privateUserGroups': 'ବ୍ୟକ୍ତିଗତ ଏବଂ ଲୁଚିପଛାଡ଼ କୃତକ ବ୍ୟକ୍ତି ଗୋଷ୍ଠୀ ସୃଷ୍ଟି କରନ୍ତୁ',
+    'plans.feature.internalUniverseForums': 'ବିଶ୍ଵବ୍ୟାପୀ ଆନ୍ତର୍ଜାଲିକ ଫୋରମ୍',
     'plans.feature.fictionalTime': 'Fictional time',
     'plans.feature.forums': 'Forums on blogs & universe pages',
     'plans.feature.timelines': 'Universe timelines',
-    'plans.feature.webMonetization': 'Web Monetization',
+    'plans.feature.webMonetization': 'ୱେବ ମୋନେଟାଇଜେସନ',
     'plans.feature.storyMonetization': 'Story monetization',
     'plans.feature.fanClub': 'Fan Club',
     'plans.feature.translations': 'Translations capabilities',
@@ -56,20 +56,20 @@ export default {
     'plans.feature.scenesManager': 'Scenes manager',
     'plans.feature.glossaries': 'Translation glossaries',
     'plans.feature.chatSupport': 'Chat support',
-    'plans.currency.select': 'Select currency',
-    'plans.subscription.ownAlready': 'You currently have this plan',
-    'plans.subscription.title': 'Subscription',
-    'plans.see': 'See available subscription plans',
-    'plans.current.none': 'You are currently not supporting Literary Universe.',
-    'plans.current.buying': 'It might take a few moments to verify your purchase. We appreciate your patience.',
-    'plans.current.heading': 'Current subscription plan',
-    'payment.methods.title': 'Payments & monetization',
-    'payment.methods.tabs': 'Payment options',
-    'payment.option.title': 'Payment option',
-    'payment.option.notFount': 'You don\'t have any payment option saved.',
-    'payment.option.create': 'Add a new payment option',
-    'payment.option.description': 'Here is a list of your saved payment methods. You can save new payment methods here for faster checkout. Literary Universe does not store nor process your payment credentials like credit card number.',
-    'payment.history.title': 'Payment history',
+    'plans.currency.select': 'ମୁଦ୍ରା ଚୟନ କରନ୍ତୁ',
+    'plans.subscription.ownAlready': 'ଆପଣ ଏହି ପ୍ଲାନ୍ ରଖିଛୁଏ',
+    'plans.subscription.title': 'ଚାରିଦିନର ପଦାର୍ଥ',
+    'plans.see': 'ଉପଲବ୍ଧ ଚାରିଦିନର ପଦାର୍ଥ ଦେଖନ୍ତୁ',
+    'plans.current.none': 'ଆପଣ ମୋମାନେ ଲିଟେରରି ୟୁନିଭର୍ସେ ସମର୍ଥନ ନକରୁଛନ୍ତି।',
+    'plans.current.buying': 'ଆପଣଙ୍କ କ୍ରେଡିଟ୍‌ କାର୍ଡର ନମ୍ବର ଯଥାର୍ଥତା ଯାଞ୍ଚନ୍ତୁ କେତେକଟି ସମୟ ଲାଗିବି। ଆମେ ଆପଣଙ୍କ ଧୈର୍ଯ କରିବାକୁ ଧନ୍ୟବାଦ ଜଣାଇଛୁ।',
+    'plans.current.heading': 'ବର୍ତମାନ ଚାରିଦିନର ପ୍ଲାନ୍',
+    'payment.methods.title': 'ପେୟମେଣ୍ଟଗୁଡ଼ିକ ଏବଂ ମୋନେଟାଇଜେସନ',
+    'payment.methods.tabs': 'ପେୟମେଣ୍ଟ ବିକଳ୍ପଗୁଡ଼ିକ',
+    'payment.option.title': 'ପେୟମେଣ୍ଟ ବିକଳ୍ପ',
+    'payment.option.notFount': 'ଆପଣ କୌଣସି ପେୟମେଣ୍ଟ ବିକଳ୍ପ ସଂଗ୍ରହିତ ନାହିଁ।',
+    'payment.option.create': 'ନୂଆ ପେୟମେଣ୍ଟ ବିକଳ୍ପ ଯୋଡ଼ନ୍ତୁ',
+    'payment.option.description': 'ଏହି ଆପଣଙ୍କ ସଂଗ୍ରହିତ ପେୟମେଣ୍ଟ ପ୍ରଣାଳୀଗୁଡ଼ିକୁ ତାଲିକା। ଆପଣ ନୂଆ ପେୟମେଣ୍ଟ ପ୍ରଣାଳୀଗୁଡ଼ିକ ସେମାନଙ୍କୁ ତାଲିକାରେ ଯୋଡ଼ିପାରିବେ। ଲିଟେରରି ୟୁନିଭର୍ସେ ଆପଣଙ୍କ ପେୟମେଣ୍ଟ ଶ୍ରେଣୀଗୁଡ଼ିକୁ ସଂଗ୍ରହିତ କରିବେ ନାହିଁ।',
+    'payment.history.title': 'ପେୟମେଣ୍ଟ ଇତିହାସ',
     'payment.history.tab': 'History',
     'payment.history.none': 'We don\'t have any records of past payments.',
     'plans.options.aria': 'Payment options',
@@ -82,21 +82,22 @@ export default {
     'payments.zipcode.label': 'ZIP code',
     'payment.card.name': 'Name on card',
     'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-    'plans.subscribed.periodEnd': 'Your subscription is valid until: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.periodEnd': 'ଆପଣଙ୍କର ଚାବିତା ବେଳାପର୍ଯ୍ୟ୍ୟନ୍ତମାନ ଅବଧି: {end, date, medium}',
+    'plans.subscribed.renewal': `ଶେଷରେ ଆପଣଙ୍କର ଚଟିଆଇବା ପୁନର୍ନବୀକୃତ ହେବାକୁ ପରିପୂର୍ଣ୍ଣ ହେବିବା ପରିପୂର୍ଣ୍ଣ ପରିପତ୍ର ପାଇଁ ପୁନର୍ନବିକୃତ ହେବିବାରେ {method, select,
+    charge_automatically {}
+    send_invoice {}
     other {}
-  }.`,
+  }।`,
     'plans.subscribed.paymentMethod': 'Your default payment method will be used to pay for the next cycle.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    canceled {Cancelled}
-    unpaid {Unpaid}
+    'plans.subscribed.status': `ଚୟନ ଅବସ୍ଥା: {status, select,
+    active {କ୍ରିୟାଶୀଳ}
+    incomplete {କିଛି ଅପରୁଣିତ}
+    incomplete_expired {କିଛି ଅପରୁଣିତ}
+    trialing {ପ୍ରଯୋଗକାଳିନ}
+    past_due {ଆପଣଙ୍କ ପୈମେଣ୍ଟ ଅପରାପ୍ତ}
+    cancelled {ରଦ୍ଦ}
+    unpaid {ଅପୈମେଣ୍ଟ ନାହିଁନ୍ତି}
+    expired {ମାଗଣା ହୋଇଛି}
     other {}
   }`,
     'payments.changeMethod': 'Change payment method',
@@ -111,46 +112,46 @@ export default {
     'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
     'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
     'plans.change.upgrade': 'Upgrade',
-    'payments.disclaimer': 'Payment information and processing is done via Stripe. We do not keep any credit card or bank account information on our servers.',
+    'payments.disclaimer': 'ପେୟମେଣ୍ଟ ସୂଚନା ଏବଂ ପ୍ରକ୍ରିୟା ଷ୍ଟ୍ରାଇପ୍ ଦ୍ୱାରା ହୋଇଥାଏ। ଆମେ ଆମର ସର୍ଭରରେ କ୍ରେଡିଟ୍ କାର୍ଡ କିମ୍ବା ବାଙ୍କ ଖାତା ସମ୍ବନ୍ଧିତ କୋଣି ସୂଚନା ରଖିବାକୁ ନାହିଁ।',
     'buy.payment.optionsSelect': 'Select payment option',
     'payments.card.number': 'Card number',
     'payments.card.expire': 'Valid Thru',
     'payments.card.cvv': 'CVV',
     'payments.card.info': '{cardType} card, ending in {ending}',
-    'payments.none': 'No saved payment options found.',
+    'payments.none': 'ସଂଗ୍ରହିତ ପେୟ୍ମେଣ୍ଟ ବିକଳ୍ପ ପାଇଁ କୌଣସି ପାଇଁ ପାଇବା ନାହିଁ ।',
     'payments.none.cards': 'No cards were found.',
-    'payments.added': 'New payment option has been successfully added.',
-    'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
-    'payment.invoice.status': 'Invoice status',
+    'payments.added': 'ନୂତନ ପେୟ୍ମେଣ୍ଟ ବିକଳ୍ପ ସଫଳୀରେ ଯୋଡ଼ାଯାଇଛି ।',
+    'payments.delete.confirm': 'ଆପଣ କିପରିବା ଚାହୁଁଛନ୍ତି {cardType}, {ending}ରେ ଶେଷ ହେଉଛି ?',
+    'payment.invoice.status': 'ଚାଲାନ ଅବସ୍ଥା',
     'payment.invoice.statusMessage': `{status, select,
-    draft {Draft}
-    open {Open}
-    paid {Paid}
-    uncollectible {Uncollectible}
-    void {Void}
-    other {}
-  }`,
-    'payment.invoice.id': 'Invoice id',
-    'payment.invoice.pdf': 'Invoice pdf',
-    'payment.invoice.total': 'Total',
-    'payment.invoice.what': 'Invoice description',
-    'payment.stripe.powered': 'Powered by ',
-    'payment.listMethods.card': 'Cards',
-    'payment.expiresAt': 'Expires {month}/{year}',
+    draft {ଖାଣ୍ଡାରେ}
+    open {ଖୋଲା ହେଉଛି}
+    paid {ପୈଦାକୃତ}
+    uncollectible {ଆଗାମୀକାଲିତ}
+    void {ଅପରିଗ୍ରହଣୀୟ}
+    other {ନିରର୍ଥକ}
+  }।`,
+    'payment.invoice.id': 'ଚାଲାନ ଆଇଡି',
+    'payment.invoice.pdf': 'ଚାଲାନ ପିଡିଏଫ଼',
+    'payment.invoice.total': 'ମୋଟ',
+    'payment.invoice.what': 'ଚାଲାନ ବର୍ଣ୍ଣନା',
+    'payment.stripe.powered': 'ଦ୍ୱାରା ପ୍ରାଧାନ୍ୟ ପାଇଁ ',
+    'payment.listMethods.card': 'କାର୍ଡସ୍',
+    'payment.expiresAt': 'ମାତ୍ର {month}/{year}ପର୍ଯ୍ୟନ୍ତ ବୈଧ',
     'payment.card.details': `{type, select,
-    credit {Credit card}
-    debit {Debit card}
-    other {Card}
-  } ending with {last4}`,
-    'payment.options.default': 'Default',
-    'payment.method.add': 'Add a new payment method',
-    'payment.methods.adding': 'You new payment method has been added to your account.',
-    'payment.methods.delete': 'Delete payment method',
+    credit {କ୍ରେଡିଟ୍ କାର୍ଡ}
+    debit {ଡେବିଟ୍ କାର୍ଡ}
+    other {କାର୍ଡ}
+  } ଶେଷ ହେଉଛି {last4}ସହିତ`,
+    'payment.options.default': 'ପୂର୍ବନିର୍ଧାରିତ',
+    'payment.method.add': 'ନୂତନ ପେୟ୍ମେଣ୍ଟ ପ୍ରଣାଳୀ ଯୋଡ଼ାଯାଇଛି',
+    'payment.methods.adding': 'ଆପଣଙ୍କ ନୂତନ ପେୟ୍ମେଣ୍ଟ ପ୍ରଣାଳୀ ଆପଙ୍କ ଅକାଉଣ୍ଟରେ ଯୋଡ଼ାଯାଇଛି ।',
+    'payment.methods.delete': 'ପେୟ୍ମେଣ୍ଟ ପ୍ରଣାଳୀ ମାଧ୍ୟମ ମିଟାଇବା',
     'payment.upgradePlan.option': '{plan} - {price}',
-    'payment.methods.webMonetization': 'Web Monetization',
-    'settings.webMonetization.placeholder': 'Your payment pointer',
-    'payment.webMonetization.explained': 'Web Monetization is a proposed standard for web payments. Here you can add your payment pointer that will be then added to your profile page, blog, universes and stories to be utilized by Web Monetization.',
-    'payment.webMonetization.learnMore': 'Learn more about Web Monetization',
+    'payment.methods.webMonetization': 'ୱେବ ମୋନେଟାଇଜେସନ',
+    'settings.webMonetization.placeholder': 'ଆପଣଙ୍କର ପେୟମେଣ୍ଟ ପୋଇଣ୍ଟର',
+    'payment.webMonetization.explained': 'ୱେବ ମୋନେଟାଇଜେସନ ଏକ ପ୍ରସ୍ତାବିତ ମାନ୍ୟତା ବାଣ୍ଟା ହେଉଛି ଜଣାଇବା ପ୍ରମାଣରେ ଓଡ଼ିଆ ପେୟମେଣ୍ଟର ପୋଇଣ୍ଟର ଯେଉଁଥିରେ ଆପଣଙ୍କର ପ୍ରୋଫାଇଲ ପୃଷ୍ଠା, ବ୍ଲଗ, ବିଶ୍ୱବିଦ୍ୟାଳୟ ଏବଂ କଥାଗୁଡ଼ିକ ଉପଯୋଗୀ ହେବ ତାକୁ ଯୋଡ଼ାଇପାରିବେ',
+    'payment.webMonetization.learnMore': 'ୱେବ ମୋନେଟାଇସନ ବିଷୟରେ ଆଧିକ ଜାଣନ୍ତୁ',
     'plans.subscription.settingsAria': 'Subscription settings options',
     'plans.buttonStatus.submitting': 'Submitting your request...',
     'plans.button.manageOnStripe': 'Manage Billing on Stripe',
@@ -165,7 +166,7 @@ export default {
     'plans.faq.crypto': 'Will you offer crypto payments?',
     'plans.faq.cryptoAnswer': 'Yes, we are working on it. We are big fans of Web3 we are looking for ways to integrate Web3 into the platform in the near future. We currently allow for login with Web3 and we are looking to expand on this offering especially when it comes to providing compensation to creators and giving creators the ability to choose all the possible payment options that they want to accept.',
     'plans.subscribed.updating': 'It might take a bit to update your your subscription information. Thank you for your patience!',
-    'payments.methods.webMonetization': 'Web Monetization',
+    'payments.methods.webMonetization': 'ୱେବ ମୋନେଟାଇଜେସନ',
     'stripeConnect.settings.title': 'Payouts settings',
     'stripeConnect.settings.intro': 'If you want to receive funds or sell through Literary Universe you need to create Stripe account via the button bellow.',
     'stripeConnect.settings.connectAccount': 'Setup Stripe Account',
@@ -211,7 +212,17 @@ export default {
     'payment.author.directivesFreeStoryFinished': 'Finish at least one free story to show your readers that you won\'t abandon them in the middle of the journey.',
     'payment.universe.directivesUniversePublished': 'Publish your universe',
     'payment.universe.directivesEncFull': 'Fill up your encyclopedia, have at least 30 entries! Better if you are attacking the 100 margin.',
-    'payment.universe.haveFans': 'It is easier to get people to sponsor you if they are already interested in what you are doing. 100 fans adding your universe to their library is the starting line.',
-    'payment.settings.yourFanClub': 'Your fan club',
-    'payment.settings.newWork': 'Create a new work'
+    'payment.universe.haveFans': 'ଯଦି ମାନଙ୍କୁ ଆପଣଙ୍କର କାର୍ଯ୍ୟରେ ଆଗରେଇ ଆକର୍ଷିତ ହେବାକୁ କଠିନ ନୁହେଁ। 100 ପ୍ରଶଂସକରେ ଆପଣଙ୍କର ବିଶ୍ବରେ ଆପଣଙ୍କର ପୁସ୍ତକାଳୟରେ ଯୋଡ଼ିବାକୁ ଆରମ୍ଭିକ ରେସ୍ତା ଅଟେ।',
+    'payment.settings.yourFanClub': 'ଆପଣଙ୍କର ପ୍ରଶଂସ କ୍ଲବ',
+    'payment.settings.newWork': 'ନୂତନ କାର୍ଯ୍ୟ ସୃଷ୍ଟି କରନ୍ତୁ',
+    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
+    'payment.fanClub.tiers': 'Tiers',
+    'payment.fanClub.tierName': 'ଟିୟର ନାମ',
+    'payment.fanClub.createTier': 'ଟିୟର ଯୋଡ଼ନ୍ତୁ',
+    'payment.fanClub.description': 'ଟିୟର ବର୍ଣନା',
+    'payment.fanClub.picture': 'ଟିୟର ଛବି',
+    'payment.fanClub.priceBreakdown': 'ଗ୍ରାହକ ପାଇଁ ଦେଇବାକୁ ହେବ: {amount}। ପ୍ଲାଟଫରମ ଫି ହେବ {fee}, ଆପଣ ପାଇବେ: {net}',
+    'payment.feeNotice': 'ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ ଏହା ଏକ ଆକଳନ ମାତ୍ରା ଅଟେ ଏବଂ ଗ୍ରାହକଙ୍କ ସଂଦାୟର ପ୍ରକାର ଏବଂ ପେ ଗେଟ୍ ଥରୁ ଅତିରିକ୍ତ ଶୁଲ୍କରେ ଭିନ୍ନ ହେବାକୁ ହୋଇପାରେ।',
+    'payment.fanClub.perks': 'ପ୍ରତିଷ୍ଠାନଗୁଡ଼ିକ'
 };

@@ -1,10 +1,10 @@
 export default {
-    'comment.write': 'Write your comment',
-    'comments.none': 'Sorry, no comments to show.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comment.write': 'Tulis komen anda',
+    'comments.none': 'Maaf, tiada komen untuk ditunjukkan.',
+    'comments.total': `Tiada komen {count, plural,
+    =0 {ada 1 komen}
+    one {ada 1 komen}
+    other {ada # komen}
   }.`,
-    'comments.show.older': 'Show older comments'
+    'comments.show.older': 'Tunjukkan komen yang lebih lama'
 };

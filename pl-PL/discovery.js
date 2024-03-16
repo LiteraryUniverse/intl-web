@@ -26,7 +26,7 @@ export default {
     'discover.searchUniverse.description': 'Poszukiwanie wszechświatów',
     'discover.search.storyStatus': 'Status postępu historii',
     'story.status.complete': 'Kompletny',
-    'story.status.inProgress': 'W toku',
+    'story.status.inProgress': 'Trwa',
     'discover.search.universeConnection': 'Powiązanie historii z wszechświatem',
     'story.universeRelation.standalone': 'Samodzielna historia',
     'story.universeRelation.fanFiction': 'Fanfiction',

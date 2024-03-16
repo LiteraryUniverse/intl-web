@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
+    'pm.conversation': 'Samtale',
+    'pm.showolder': 'Vis ældre beskeder',
+    'pm.errors.saysomething': 'Du bør virkelig sige noget...',
+    'pm.errors.addrecipient': 'Du skal tilføje mindst én anden bruger.',
+    'pm.message': 'Besked',
+    'pm.send.message': 'Send besked',
+    'pm.messages.own': 'Dine beskeder',
+    'pm.conversations.none': 'Du har i øjeblikket ingen samtaler.',
+    'pm.to': 'Til:',
+    'pm.with': 'Samtale med:',
     'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversations.unreadCount': `Du har {count, plural,
+    zero {ingen ulæste samtaler}
+    one {én ulæst samtale}
+    other {# ulæste samtaler}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Du skal vælge en modtager.',
+    'pm.form.maxParticipants': `Du kan maksimalt have {maxPeople, plural,
+    one {én person}
+    other {# personer}
+  } i en samtale.`,
+    'pm.new.aria': 'Ny samtale',
+    'pm.new.buttonTitle': 'Start en ny samtale'
 };

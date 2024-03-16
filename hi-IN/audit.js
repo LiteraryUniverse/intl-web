@@ -1,6 +1,6 @@
 export default {
-    'auditLog.header.date': 'Date',
-    'auditLog.header.action': 'What',
-    'auditLog.header.group': 'Group',
-    'auditLog.header.user': 'Who'
+    'auditLog.header.date': 'तारीख',
+    'auditLog.header.action': 'क्या',
+    'auditLog.header.group': 'समूह',
+    'auditLog.header.user': 'कौन'
 };

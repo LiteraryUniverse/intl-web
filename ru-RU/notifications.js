@@ -15,8 +15,8 @@ export default {
   // Notification messages
   'notification.workshopStoryStatus.toHiatus': 'Ваша история "{storyName}" была автоматически переведена в состояние приостановленой после 6 месяцев неактивности.',
   'notification.workshopStoryStatus.toCancelled': 'Ваша история "{storyName}" была автоматически переведена в состояние отменённых после одного года неактивности.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} — «Приостановлено».',
-  'notification.followingStoryStatus.toCancelled': '{storyName} — «Отменено».',
+  'notification.followingStoryStatus.toHiatus': '{storyName} — приостановлена.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} — отменена.',
   'notification.followingNewChapter.new': 'Опубликована новая глава в "{storyName}"!',
   'notification.workshopStory.newComment': 'оставляет комментарий к "{storyName}"',
   // Before this text will be the username of the user

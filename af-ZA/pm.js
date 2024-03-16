@@ -1,25 +1,25 @@
 export default {
-    'pm.conversation': 'Conversation',
-    'pm.showolder': 'Show older messages',
-    'pm.errors.saysomething': 'You should really say something...',
-    'pm.errors.addrecipient': 'You need to add at least one other user.',
-    'pm.message': 'Message',
-    'pm.send.message': 'Send message',
-    'pm.messages.own': 'Your messages',
-    'pm.conversations.none': 'You are currently not conversing with anyone.',
-    'pm.to': 'To:',
-    'pm.with': 'Conversation with:',
-    'pm.send': 'Send',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversation': 'Gesprek',
+    'pm.showolder': 'Wys oudere boodskappe',
+    'pm.errors.saysomething': 'Jy moet regtig iets sê...',
+    'pm.errors.addrecipient': 'Jy moet ten minste een ander gebruiker byvoeg.',
+    'pm.message': 'Boodskap',
+    'pm.send.message': 'Stuur boodskap',
+    'pm.messages.own': 'Jou boodskappe',
+    'pm.conversations.none': 'Jy is tans nie in gesprek met enige iemand nie.',
+    'pm.to': 'Aan:',
+    'pm.with': 'Gesprek met:',
+    'pm.send': 'Stuur',
+    'pm.conversations.unreadCount': `Jy het {count, plural,
+    zero {geen ongeleesde gesprekke nie}
+    one {een ongeleesde gesprek}
+    other {# ongeleesde gesprekke}
   }.`,
-    'pm.form.minimumParticipants': 'You need to choose a recipient.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
-    'pm.new.aria': 'New conversation',
-    'pm.new.buttonTitle': 'Start a new conversation'
+    'pm.form.minimumParticipants': 'Jy moet \'n ontvanger kies.',
+    'pm.form.maxParticipants': `Jy kan 'n maksimum van {maxPeople, plural,
+    one {een persoon}
+    other {# mense}
+  } hê in 'n gesprek.`,
+    'pm.new.aria': 'Nuwe gesprek',
+    'pm.new.buttonTitle': 'Begin \'n nuwe gesprek'
 };

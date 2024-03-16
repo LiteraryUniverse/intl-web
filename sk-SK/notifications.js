@@ -13,15 +13,15 @@ export default {
   'notifications.menu.markRead': 'Označiť ako prečítané',
   'notifications.menu.delete': 'Zmazať notifikáciu',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Your story {storyName} was automatically set to hiatus after 6 months of inactivity.',
-  'notification.workshopStoryStatus.toCancelled': 'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
-  'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
-  'notification.workshopStory.newComment': 'has commented on {storyName}',
+  'notification.workshopStoryStatus.toHiatus': 'Vaša poviedka {storyName} bola automaticky nastavená na hiatus po 6 mesiacoch nečinnosti.',
+  'notification.workshopStoryStatus.toCancelled': 'Vaša príbeh {storyName} bol automaticky zrušený po jednom roku nečinnosti.',
+  'notification.followingStoryStatus.toHiatus': '{storyName} je na hiatusu.',
+  'notification.followingStoryStatus.toCancelled': '{storyName} bol zrušen.',
+  'notification.followingNewChapter.new': 'Bol zverejnený nový kapitola v {storyName}!',
+  'notification.workshopStory.newComment': 'komentoval na {storyName}',
   // Before this text will be the username of the user
   'notification.friendRequest': 'Vám poslal(a) žiadosť o priateľstvo.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
+  'notificationExtra.workshopStoryStatus.goToStory': 'Prejsť na príbeh'
 };

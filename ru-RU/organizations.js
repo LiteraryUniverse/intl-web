@@ -52,6 +52,6 @@ export default {
     'org.teams.total': 'Всего команд: {totalTeams, number}',
     'org.teams.create': 'Создать новую команду',
     'org.teams.settings': 'Настройки команды',
-    'org.workshop.ownerUser': 'Не работа гильдии',
+    'org.workshop.ownerUser': 'Не произведение гильдии',
     'org.workshop.caption': 'Владелец гильдии'
 };

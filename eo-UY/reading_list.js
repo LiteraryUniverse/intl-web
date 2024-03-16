@@ -1,26 +1,26 @@
 export default {
-  'readingList.title': 'Reading list',
-  'readingList.type.label': 'List type',
-  'readingList.type.stories': 'Stories',
+  'readingList.title': 'Legolisto',
+  'readingList.type.label': 'Listo de tipo',
+  'readingList.type.stories': 'Rakontoj',
   'readingList.type.universes': 'Universes',
-  'readingList.ordered.label': 'Ranked list',
-  'readingList.button.add': 'Add to reading list',
-  'readingList.selectList': 'Select reading list',
-  'readingList.create': 'Create a new reading list',
-  'readingList.create.aria': 'Modal with settings for a new reading list',
-  'readingList.edit.aria': 'Modal to edit reading list\'s settings',
-  'readingList.library.title': 'Your reading lists',
-  'readingList.public.label': 'Is publicly visible?',
-  'readingList.addItem': `Add {type, select,
-    universes {universe}
-    stories {story}
-    other {stories and universes}
+  'readingList.ordered.label': 'Rangigita listo',
+  'readingList.button.add': 'Aldoni al legolisto',
+  'readingList.selectList': 'Elekti legoliston',
+  'readingList.create': 'Krei novan legoliston',
+  'readingList.create.aria': 'Modala fenestro kun agordoj por nova legolisto',
+  'readingList.edit.aria': 'Modala fenestro por redakti agordojn de legolisto',
+  'readingList.library.title': 'Viaj legolistoj',
+  'readingList.public.label': 'Ĉu estas publike videbla?',
+  'readingList.addItem': `Aldoni {type, select,
+    universes {universon}
+    stories {rakontojn}
+    other {rakontoj kaj universoj}
   }`,
-  'readingList.addItem.modalAria': `Modal to add {type, select,
-    universes {universes}
-    stories {stories}
-    other {stories and universes}
-  } to the reading list.`,
-  'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.addItem.modalAria': `Modala fenestro por aldoni {type, select,
+    universes {universojn}
+    stories {rakontojn}
+    other {rakontoj kaj universoj}
+  } al la legolisto.`,
+  'readingList.addItem.fromLibrary': 'El biblioteko',
+  'readingList.button.added': 'Aldita'
 };

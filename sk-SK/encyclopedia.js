@@ -151,8 +151,15 @@ other {je # položiek}
     other {{max, number} položiek}
   }.`,
     'enc.entries.limitReached': 'Dosiahli ste maximálny povolený počet záznamov v encyklopédii pre aktuálne predplatné.',
-    'enc.menuControls.ariaDesc': 'Encyclopedia controls',
-    'encyclopedia.pronunciation.title': 'Pronunciation',
+    'enc.menuControls.ariaDesc': 'Menu ovládania encyklopédie',
+    'encyclopedia.pronunciation.title': 'Výslovnosť',
     'encyclopedia.wip.abbreviation': 'WIP',
-    'encyclopedia.wip.full': 'Work in Progress'
+    'encyclopedia.wip.full': 'Práca vo vývoji',
+    'encyclopedia.settings.templateLegend': 'Šablónový vesmír',
+    'encyclopedia.settings.templateDescription': 'Povoliť kopírovanie obsahu tejto encyklopédie do iných vesmírov. Toto je najlepšie, ak nemáte žiadne príbehy a namiesto toho len vytvárate šablónu pre ostatných.',
+    'encyclopedia.settings.templateCheckbox': 'Toto je šablónový vesmír',
+    'encyclopedia.templateCopy.modalTitle': 'Kopírovať obsah encyklopédie',
+    'encyclopedia.templateCopy.description': 'Skopírujte obsah tejto encyklopédie do vášho vesmíru, aby ste ho obohatili.',
+    'encyclopedia.templateCopy.targetUniverse': 'Vesmír, do ktorého sa má skopírovať',
+    'encyclopedia.templateCopy.finished': 'Kopírovanie dokončené'
 };
