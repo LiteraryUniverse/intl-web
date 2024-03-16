@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'ਆਪਣੀ ਮਿਹਨਤ',
     'workshop.list.thumbs': 'ਥੰਮਨੇਲ ਸੂਚੀ',
     'workshop.list.list': 'ਛੋਟੀ ਸੂਚੀ',
-    'workshop.fanfiction.new': 'ਇੱਕ ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ'
+    'workshop.fanfiction.new': 'ਇੱਕ ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ',
+    'workshop.videoTrailerLink': 'ਵੀਡੀਓ ਟਰੇਲਰ ਲਿੰਕ (Youtube ਜਾਂ Vimeo)'
 };
