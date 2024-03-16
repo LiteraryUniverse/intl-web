@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': '자신의 작품',
     'workshop.list.thumbs': '썸네일 목록',
     'workshop.list.list': '간략한 목록',
-    'workshop.fanfiction.new': '새로운 팬픽션 만들기'
+    'workshop.fanfiction.new': '새로운 팬픽션 만들기',
+    'workshop.videoTrailerLink': '비디오 트레일러 링크 (Youtube 또는 Vimeo)'
 };
