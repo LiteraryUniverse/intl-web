@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Obair féin',
     'workshop.list.thumbs': 'Liosta na n-íomhánna bheaga',
     'workshop.list.list': 'Liosta ghearr',
-    'workshop.fanfiction.new': 'Cruthaigh ficsean nua d\'uaillmhian'
+    'workshop.fanfiction.new': 'Cruthaigh ficsean nua d\'uaillmhian',
+    'workshop.videoTrailerLink': 'Nasc treiléara físe (Youtube nó Vimeo)'
 };
