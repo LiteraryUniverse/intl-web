@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'Kendi çalışmam',
     'workshop.list.thumbs': 'Küçük resim listesi',
     'workshop.list.list': 'Kısa liste',
-    'workshop.fanfiction.new': 'Yeni bir hayran kurgusu oluşturun'
+    'workshop.fanfiction.new': 'Yeni bir hayran kurgusu oluşturun',
+    'workshop.videoTrailerLink': 'Video fragmanı bağlantısı (Youtube veya Vimeo)'
 };
