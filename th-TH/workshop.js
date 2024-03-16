@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'งานของคุณเอง',
     'workshop.list.thumbs': 'รายการรูปขนาดย่อ',
     'workshop.list.list': 'รายการย่อ',
-    'workshop.fanfiction.new': 'สร้างนิยายแฟนฟิคใหม่'
+    'workshop.fanfiction.new': 'สร้างนิยายแฟนฟิคใหม่',
+    'workshop.videoTrailerLink': 'ลิงก์วิดีโอตัวอย่าง (Youtube หรือ Vimeo)'
 };
