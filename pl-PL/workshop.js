@@ -277,5 +277,6 @@ export default {
     'workshop.ownWork': 'Własna praca',
     'workshop.list.thumbs': 'Lista miniatur',
     'workshop.list.list': 'Krótka lista',
-    'workshop.fanfiction.new': 'Utwórz nowe tłumaczenie'
+    'workshop.fanfiction.new': 'Utwórz nowe tłumaczenie',
+    'workshop.videoTrailerLink': 'Link do zwiastuna wideo (Youtube lub Vimeo)'
 };
