@@ -281,5 +281,6 @@ export default {
     'workshop.ownWork': 'العمل الخاص',
     'workshop.list.thumbs': 'قائمة الصور المصغرة',
     'workshop.list.list': 'قائمة مختصرة',
-    'workshop.fanfiction.new': 'إنشاء قصة مشجعين جديدة'
+    'workshop.fanfiction.new': 'إنشاء قصة مشجعين جديدة',
+    'workshop.videoTrailerLink': 'رابط فيديو العرض التشويقي (Youtube أو Vimeo)'
 };
