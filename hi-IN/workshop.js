@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'थंबनेल सूची',
     'workshop.list.list': 'संक्षेप सूची',
     'workshop.fanfiction.new': 'एक नई फैन फिक्शन बनाएं',
-    'workshop.videoTrailerLink': 'वीडियो ट्रेलर लिंक (Youtube या Vimeo)'
+    'workshop.videoTrailerLink': 'वीडियो ट्रेलर लिंक',
+    'workshop.videoTrailerPlayerTitle': 'स्टोरी वीडियो ट्रेलर प्लेयर',
+    'workshop.videoTrailer.supportedPlaftorms': 'हम Youtube, Vimeo और Odysee का समर्थन करते हैं'
 };
