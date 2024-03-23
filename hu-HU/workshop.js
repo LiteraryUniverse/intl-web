@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Bélyegképek listája',
     'workshop.list.list': 'Rövid lista',
     'workshop.fanfiction.new': 'Új fan fiction létrehozása',
-    'workshop.videoTrailerLink': 'Videó előzetes link (Youtube vagy Vimeo)'
+    'workshop.videoTrailerLink': 'Videó előzetes link',
+    'workshop.videoTrailerPlayerTitle': 'Történet videó előzetes lejátszó',
+    'workshop.videoTrailer.supportedPlaftorms': 'Támogatjuk a Youtube-ot, a Vimeo-t és az Odysee-t'
 };
