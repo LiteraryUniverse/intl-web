@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Daftar thumbnail',
     'workshop.list.list': 'Daftar singkat',
     'workshop.fanfiction.new': 'Buat fan fiction baru',
-    'workshop.videoTrailerLink': 'Tautan trailer video (Youtube atau Vimeo)'
+    'workshop.videoTrailerLink': 'Tautan trailer video',
+    'workshop.videoTrailerPlayerTitle': 'Pemutar trailer video cerita',
+    'workshop.videoTrailer.supportedPlaftorms': 'Kami mendukung Youtube, Vimeo, dan Odysee'
 };
