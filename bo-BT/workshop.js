@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
     'workshop.fanfiction.new': 'Create a new fan fiction',
-    'workshop.videoTrailerLink': 'བརྗོད་སློབ་གཞི་འཇུག (Youtube ལས་ Vimeo)'
+    'workshop.videoTrailerLink': 'བརྗོད་ནང་གློག་བཀོད་པའི་ལས་བརྟེན་འདི་ལྟ་བུའི་ཐིག་ཁྲོམ་ལས་གནས་སྐབས་ཀྱི་ཡིག་སྣོད་བྱེད་པའི་ཐིག་ཁྲོམ་འདི་གིས་ཁྱོད་ཀྱིས་འགྲེལ་བཤད་ནས་བཏོན་གཏང་འབད་བས།',
+    'workshop.videoTrailerPlayerTitle': 'བརྗོད་ནང་གློག་བཀོད་པའི་གློག་བཀོད་པའི་ནང་གི་བརྗོད་ཀྱི་གློག་བཀོད་པའི་ཐིག་ཁྲོམ་འདི་ལས་བརྟེན་འདི་བཟོ་བཏུབ་པའི་ཐིག་ཁྲོམ་འདི་གིས་ཁྱོད་ཀྱིས་འགྲེལ་བཤད་ནས་བཏོན་གཏང་འབད་བས།',
+    'workshop.videoTrailer.supportedPlaftorms': 'ངོས་ལེན་འདི་གིས་ ཡུ་གྲོལ་འདི་དང་ བེ་ལུ་ཡིན་ནམ་ལས་ ཨོ་དོ་འདི་དང་ ཨོ་དོ་འདི་སྤྱོད་པ་ཡོད།'
 };
