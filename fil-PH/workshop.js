@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Listahan ng mga thumbnail',
     'workshop.list.list': 'Maikling listahan',
     'workshop.fanfiction.new': 'Lumikha ng bagong fan fiction',
-    'workshop.videoTrailerLink': 'Link ng video trailer (Youtube o Vimeo)'
+    'workshop.videoTrailerLink': 'Link ng video trailer',
+    'workshop.videoTrailerPlayerTitle': 'Player ng video trailer ng kuwento',
+    'workshop.videoTrailer.supportedPlaftorms': 'Sinusuportahan namin ang Youtube, Vimeo at Odysee'
 };
