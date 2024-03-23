@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
     'workshop.fanfiction.new': 'Create a new fan fiction',
-    'workshop.videoTrailerLink': 'Videotrailerin linkki (Youtube tai Vimeo)'
+    'workshop.videoTrailerLink': 'Videon trailerin linkki',
+    'workshop.videoTrailerPlayerTitle': 'Tarinan videon trailerin soitin',
+    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
 };
