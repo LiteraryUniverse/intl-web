@@ -278,5 +278,7 @@ export default {
     'workshop.list.thumbs': 'Lista miniatur',
     'workshop.list.list': 'Krótka lista',
     'workshop.fanfiction.new': 'Utwórz nowe tłumaczenie',
-    'workshop.videoTrailerLink': 'Link do zwiastuna wideo (Youtube lub Vimeo)'
+    'workshop.videoTrailerLink': 'Link do zwiastuna wideo',
+    'workshop.videoTrailerPlayerTitle': 'Odtwarzacz zwiastuna wideo',
+    'workshop.videoTrailer.supportedPlaftorms': 'Wspieramy Youtube, Vimeo i Odysee'
 };
