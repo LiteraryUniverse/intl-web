@@ -287,5 +287,7 @@ export default {
     'workshop.list.thumbs': 'Obrázkový seznam',
     'workshop.list.list': 'Stručný seznam',
     'workshop.fanfiction.new': 'Vytvořit novou fan fikci',
-    'workshop.videoTrailerLink': 'Odkaz na video trailer (Youtube nebo Vimeo)'
+    'workshop.videoTrailerLink': 'Odkaz na video upoutávku',
+    'workshop.videoTrailerPlayerTitle': 'Přehrávač video upoutávky na příběh',
+    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
 };
