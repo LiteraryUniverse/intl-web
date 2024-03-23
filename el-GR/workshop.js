@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
     'workshop.fanfiction.new': 'Create a new fan fiction',
-    'workshop.videoTrailerLink': 'Σύνδεσμος βίντεο τρέιλερ (Youtube ή Vimeo)'
+    'workshop.videoTrailerLink': 'Σύνδεσμος βίντεο τρέιλερ',
+    'workshop.videoTrailerPlayerTitle': 'Παίκτης βίντεο τρέιλερ ιστορίας',
+    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
 };
