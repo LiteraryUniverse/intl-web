@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'รายการรูปขนาดย่อ',
     'workshop.list.list': 'รายการย่อ',
     'workshop.fanfiction.new': 'สร้างนิยายแฟนฟิคใหม่',
-    'workshop.videoTrailerLink': 'ลิงก์วิดีโอตัวอย่าง (Youtube หรือ Vimeo)'
+    'workshop.videoTrailerLink': 'ลิงก์วิดีโอตัวอย่าง',
+    'workshop.videoTrailerPlayerTitle': 'เครื่องเล่นวิดีโอตัวอย่างเรื่องราว',
+    'workshop.videoTrailer.supportedPlaftorms': 'เราสนับสนุน Youtube, Vimeo และ Odysee'
 };
