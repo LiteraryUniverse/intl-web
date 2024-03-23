@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': '썸네일 목록',
     'workshop.list.list': '간략한 목록',
     'workshop.fanfiction.new': '새로운 팬픽션 만들기',
-    'workshop.videoTrailerLink': '비디오 트레일러 링크 (Youtube 또는 Vimeo)'
+    'workshop.videoTrailerLink': '비디오 예고편 링크',
+    'workshop.videoTrailerPlayerTitle': '이야기 비디오 예고편 플레이어',
+    'workshop.videoTrailer.supportedPlaftorms': '우리는 Youtube, Vimeo 및 Odysee를 지원합니다'
 };
