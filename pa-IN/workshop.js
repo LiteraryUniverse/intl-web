@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'ਥੰਮਨੇਲ ਸੂਚੀ',
     'workshop.list.list': 'ਛੋਟੀ ਸੂਚੀ',
     'workshop.fanfiction.new': 'ਇੱਕ ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ',
-    'workshop.videoTrailerLink': 'ਵੀਡੀਓ ਟਰੇਲਰ ਲਿੰਕ (Youtube ਜਾਂ Vimeo)'
+    'workshop.videoTrailerLink': 'ਵੀਡੀਓ ਟਰੇਲਰ ਲਿੰਕ',
+    'workshop.videoTrailerPlayerTitle': 'ਕਹਾਣੀ ਵੀਡੀਓ ਟਰੇਲਰ ਪਲੇਅਰ',
+    'workshop.videoTrailer.supportedPlaftorms': 'ਅਸੀਂ Youtube, Vimeo ਅਤੇ Odysee ਨੂੰ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ'
 };
