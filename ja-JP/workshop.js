@@ -270,5 +270,7 @@ export default {
     'workshop.list.thumbs': 'サムネイルリスト',
     'workshop.list.list': '短いリスト',
     'workshop.fanfiction.new': '新しいファンフィクションを作成する',
-    'workshop.videoTrailerLink': 'ビデオトレーラーリンク（YoutubeまたはVimeo）'
+    'workshop.videoTrailerLink': 'ビデオトレーラーリンク',
+    'workshop.videoTrailerPlayerTitle': 'ストーリービデオトレーラープレーヤー',
+    'workshop.videoTrailer.supportedPlaftorms': 'Youtube、Vimeo、およびOdyseeをサポートしています'
 };
