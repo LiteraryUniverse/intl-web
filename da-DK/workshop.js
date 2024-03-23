@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
     'workshop.fanfiction.new': 'Create a new fan fiction',
-    'workshop.videoTrailerLink': 'Video trailer link (Youtube or Vimeo)'
+    'workshop.videoTrailerLink': 'Video trailer link',
+    'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
+    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
 };
