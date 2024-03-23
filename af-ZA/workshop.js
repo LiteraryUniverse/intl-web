@@ -284,5 +284,5 @@ export default {
     'workshop.fanfiction.new': 'Skep \'n nuwe fanfiksie',
     'workshop.videoTrailerLink': 'Skakel na video-aankondiging',
     'workshop.videoTrailerPlayerTitle': 'Spel video-aankondigingspeler',
-    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Ons ondersteun Youtube, Vimeo en Odysee'
 };
