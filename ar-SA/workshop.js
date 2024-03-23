@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'قائمة الصور المصغرة',
     'workshop.list.list': 'قائمة مختصرة',
     'workshop.fanfiction.new': 'إنشاء قصة مشجعين جديدة',
-    'workshop.videoTrailerLink': 'رابط فيديو العرض التشويقي (Youtube أو Vimeo)'
+    'workshop.videoTrailerLink': 'رابط فيديو العرض التشويقي',
+    'workshop.videoTrailerPlayerTitle': 'مشغل فيديو عرض التشويق',
+    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
 };
