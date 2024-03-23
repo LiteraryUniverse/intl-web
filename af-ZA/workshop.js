@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Duimnaillys',
     'workshop.list.list': 'Kort lys',
     'workshop.fanfiction.new': 'Skep \'n nuwe fanfiksie',
-    'workshop.videoTrailerLink': 'Skakel na video-aankondiging (Youtube of Vimeo)'
+    'workshop.videoTrailerLink': 'Skakel na video-aankondiging',
+    'workshop.videoTrailerPlayerTitle': 'Spel video-aankondigingspeler',
+    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
 };
