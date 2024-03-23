@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Lista de miniaturas',
     'workshop.list.list': 'Lista acortada',
     'workshop.fanfiction.new': 'Crear una nueva fanficción',
-    'workshop.videoTrailerLink': 'Enlace del tráiler del video (Youtube o Vimeo)'
+    'workshop.videoTrailerLink': 'Enlace del tráiler de video',
+    'workshop.videoTrailerPlayerTitle': 'Reproductor del tráiler de video de la historia',
+    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
 };
