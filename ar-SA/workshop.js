@@ -284,5 +284,5 @@ export default {
     'workshop.fanfiction.new': 'إنشاء قصة مشجعين جديدة',
     'workshop.videoTrailerLink': 'رابط فيديو العرض التشويقي',
     'workshop.videoTrailerPlayerTitle': 'مشغل فيديو عرض التشويق',
-    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'نحن ندعم يوتيوب، فيميو وأوديسي'
 };
