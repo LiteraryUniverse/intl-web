@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': '縮略圖列表',
     'workshop.list.list': '簡短列表',
     'workshop.fanfiction.new': '創作新的同人小說',
-    'workshop.videoTrailerLink': '影片預告片連結（Youtube或Vimeo）'
+    'workshop.videoTrailerLink': '影片預告連結',
+    'workshop.videoTrailerPlayerTitle': '故事影片預告播放器',
+    'workshop.videoTrailer.supportedPlaftorms': '我們支援Youtube、Vimeo和Odysee'
 };
