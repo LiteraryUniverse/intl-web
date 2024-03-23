@@ -284,5 +284,5 @@ export default {
     'workshop.fanfiction.new': 'Cruthaigh ficsean nua d\'uaillmhian',
     'workshop.videoTrailerLink': 'Nasc treilire físe',
     'workshop.videoTrailerPlayerTitle': 'Seinnteoir traileir físe Scéil',
-    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Tacaímid le Youtube, Vimeo agus Odysee'
 };
