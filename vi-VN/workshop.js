@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Danh sách hình thu nhỏ',
     'workshop.list.list': 'Danh sách ngắn',
     'workshop.fanfiction.new': 'Tạo một fan fiction mới',
-    'workshop.videoTrailerLink': 'Liên kết video trailer (Youtube hoặc Vimeo)'
+    'workshop.videoTrailerLink': 'Liên kết video trailer',
+    'workshop.videoTrailerPlayerTitle': 'Trình phát video trailer câu chuyện',
+    'workshop.videoTrailer.supportedPlaftorms': 'Chúng tôi hỗ trợ Youtube, Vimeo và Odysee'
 };
