@@ -301,5 +301,7 @@ export default {
     'workshop.list.thumbs': 'Список миниатюр',
     'workshop.list.list': 'Краткий список',
     'workshop.fanfiction.new': 'Создать новый фанфик',
-    'workshop.videoTrailerLink': 'Ссылка на трейлер (YouTube или Vimeo)'
+    'workshop.videoTrailerLink': 'Ссылка на видео-трейлер',
+    'workshop.videoTrailerPlayerTitle': 'Плеер видео-трейлера истории',
+    'workshop.videoTrailer.supportedPlaftorms': 'Мы поддерживаем Youtube, Vimeo и Odysee'
 };
