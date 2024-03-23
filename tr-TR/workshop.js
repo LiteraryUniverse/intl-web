@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Küçük resim listesi',
     'workshop.list.list': 'Kısa liste',
     'workshop.fanfiction.new': 'Yeni bir hayran kurgusu oluşturun',
-    'workshop.videoTrailerLink': 'Video fragmanı bağlantısı (Youtube veya Vimeo)'
+    'workshop.videoTrailerLink': 'Video fragmanı bağlantısı',
+    'workshop.videoTrailerPlayerTitle': 'Hikaye video fragmanı oynatıcı',
+    'workshop.videoTrailer.supportedPlaftorms': 'Youtube, Vimeo ve Odysee\'yi destekliyoruz'
 };
