@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Liste de vignettes',
     'workshop.list.list': 'Liste courte',
     'workshop.fanfiction.new': 'Créer une nouvelle fanfiction',
-    'workshop.videoTrailerLink': 'Lien de la bande-annonce vidéo (Youtube ou Vimeo)'
+    'workshop.videoTrailerLink': 'Lien de la bande-annonce vidéo',
+    'workshop.videoTrailerPlayerTitle': 'Lecteur de bande-annonce vidéo de l\'histoire',
+    'workshop.videoTrailer.supportedPlaftorms': 'Nous soutenons Youtube, Vimeo et Odysee'
 };
