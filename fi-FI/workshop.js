@@ -284,5 +284,5 @@ export default {
     'workshop.fanfiction.new': 'Create a new fan fiction',
     'workshop.videoTrailerLink': 'Videon trailerin linkki',
     'workshop.videoTrailerPlayerTitle': 'Tarinan videon trailerin soitin',
-    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Tuetamme Youtubea, Vimeota ja Odyseetä'
 };
