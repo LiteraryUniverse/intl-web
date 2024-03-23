@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'থাম্বনেইল তালিকা',
     'workshop.list.list': 'সংক্ষিপ্ত তালিকা',
     'workshop.fanfiction.new': 'নতুন ফেন ফিকচন সৃষ্টি কৰক',
-    'workshop.videoTrailerLink': 'ভিডিও ট্রেলার লিংক (Youtube অথবা Vimeo)'
+    'workshop.videoTrailerLink': 'ভিডিও ট্রেইলার লিংক',
+    'workshop.videoTrailerPlayerTitle': 'গল্প ভিডিও ট্রেইলার প্লেয়ার',
+    'workshop.videoTrailer.supportedPlaftorms': 'আমি Youtube, Vimeo আৰু Odysee সমৰ্থন কৰোঁ'
 };
