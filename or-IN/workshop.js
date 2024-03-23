@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
     'workshop.fanfiction.new': 'Create a new fan fiction',
-    'workshop.videoTrailerLink': 'ଭିଡ଼ିଓ ଟ୍ରେଲର ଲିଙ୍କ (Youtube ବା Vimeo)'
+    'workshop.videoTrailerLink': 'ଭିଡିଓ ଟ୍ରେଲର ଲିଙ୍କ',
+    'workshop.videoTrailerPlayerTitle': 'କାହାଣୀ ଭିଡିଓ ଟ୍ରେଲର ପ୍ଲେୟର',
+    'workshop.videoTrailer.supportedPlaftorms': 'ଆମେ Youtube, Vimeo ଏବଂ Odysee କୁ ସମର୍ଥନ କରୁଛି'
 };
