@@ -284,5 +284,5 @@ export default {
     'workshop.fanfiction.new': 'Create a new fan fiction',
     'workshop.videoTrailerLink': 'Enllaç del tràiler del vídeo',
     'workshop.videoTrailerPlayerTitle': 'Reproductor del tràiler del vídeo de la història',
-    'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Donem suport a Youtube, Vimeo i Odysee'
 };
