@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'Lijst met miniaturen',
     'workshop.list.list': 'Korte lijst',
     'workshop.fanfiction.new': 'Maak een nieuwe fanfictie',
-    'workshop.videoTrailerLink': 'Videotrailerlink (Youtube of Vimeo)'
+    'workshop.videoTrailerLink': 'Video trailer link',
+    'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
+    'workshop.videoTrailer.supportedPlaftorms': 'We ondersteunen Youtube, Vimeo en Odysee'
 };
