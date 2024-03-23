@@ -285,5 +285,7 @@ export default {
     'workshop.list.thumbs': 'Zoznam miniatúr',
     'workshop.list.list': 'Krátky zoznam',
     'workshop.fanfiction.new': 'Vytvoriť novú fan fiction',
-    'workshop.videoTrailerLink': 'Odkaz na video ukážku (Youtube alebo Vimeo)'
+    'workshop.videoTrailerLink': 'Odkaz na video ukážku',
+    'workshop.videoTrailerPlayerTitle': 'Prehrávač video ukážky príbehu',
+    'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee'
 };
