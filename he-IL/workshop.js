@@ -282,5 +282,7 @@ export default {
     'workshop.list.thumbs': 'רשימת תמונות ממוזערות',
     'workshop.list.list': 'רשימה קצרה',
     'workshop.fanfiction.new': 'צור פאן פיקשן חדש',
-    'workshop.videoTrailerLink': 'קישור לטריילר הווידאו (Youtube או Vimeo)'
+    'workshop.videoTrailerLink': 'קישור לטריילר הווידאו',
+    'workshop.videoTrailerPlayerTitle': 'נגן טריילר וידאו סיפור',
+    'workshop.videoTrailer.supportedPlaftorms': 'אנחנו תומכים ב-YouTube, Vimeo ו-Odysee'
 };
