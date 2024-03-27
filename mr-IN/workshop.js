@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'आपला कार्य',
     'workshop.list.thumbs': 'थंबनेल्स यादी',
     'workshop.list.list': 'लहान सूची',
-    'workshop.fanfiction.new': 'नवीन फॅन फिक्शन तयार करा'
+    'workshop.fanfiction.new': 'नवीन फॅन फिक्शन तयार करा',
+    'workshop.videoTrailerLink': 'व्हिडिओ ट्रेलर लिंक',
+    'workshop.videoTrailerPlayerTitle': 'स्टोरी व्हिडिओ ट्रेलर प्लेयर',
+    'workshop.videoTrailer.supportedPlaftorms': 'आम्ही Youtube, Vimeo आणि Odysee वर समर्थन करतो'
 };

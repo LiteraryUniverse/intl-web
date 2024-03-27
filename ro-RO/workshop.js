@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Lucrare proprie',
     'workshop.list.thumbs': 'Listă de miniaturi',
     'workshop.list.list': 'Listă scurtă',
-    'workshop.fanfiction.new': 'Creați o nouă fan fiction'
+    'workshop.fanfiction.new': 'Creați o nouă fan fiction',
+    'workshop.videoTrailerLink': 'Link către trailerul video',
+    'workshop.videoTrailerPlayerTitle': 'Player pentru trailerul video al poveștii',
+    'workshop.videoTrailer.supportedPlaftorms': 'Noi susținem Youtube, Vimeo și Odysee'
 };

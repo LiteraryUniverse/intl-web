@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Own work',
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.fanfiction.new': 'Create a new fan fiction',
+    'workshop.videoTrailerLink': 'Σύνδεσμος βίντεο τρέιλερ',
+    'workshop.videoTrailerPlayerTitle': 'Παίκτης βίντεο τρέιλερ ιστορίας',
+    'workshop.videoTrailer.supportedPlaftorms': 'Υποστηρίζουμε το Youtube, το Vimeo και το Odysee'
 };

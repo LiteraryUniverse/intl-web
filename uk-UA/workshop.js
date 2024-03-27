@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Власна робота',
     'workshop.list.thumbs': 'Список мініатюр',
     'workshop.list.list': 'Короткий список',
-    'workshop.fanfiction.new': 'Створити новий фанфік'
+    'workshop.fanfiction.new': 'Створити новий фанфік',
+    'workshop.videoTrailerLink': 'Посилання на відео-трейлер',
+    'workshop.videoTrailerPlayerTitle': 'Програвач відео-трейлера історії',
+    'workshop.videoTrailer.supportedPlaftorms': 'Ми підтримуємо Youtube, Vimeo та Odysee'
 };

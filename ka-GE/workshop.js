@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'თქვენი თავისუფლება',
     'workshop.list.thumbs': 'მინიატურების სია',
     'workshop.list.list': 'მოკლე სია',
-    'workshop.fanfiction.new': 'შექმენით ახალი ფანფიქშენი'
+    'workshop.fanfiction.new': 'შექმენით ახალი ფანფიქშენი',
+    'workshop.videoTrailerLink': 'ვიდეო ტრეილერის ბმული',
+    'workshop.videoTrailerPlayerTitle': 'სიმართლის ვიდეო ტრეილერის პლეიერი',
+    'workshop.videoTrailer.supportedPlaftorms': 'ჩვენ გვხვდება Youtube, Vimeo და Odysee'
 };

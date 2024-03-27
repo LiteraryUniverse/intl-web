@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'आफ्नो काम',
     'workshop.list.thumbs': 'थम्बनेलहरूको सूची',
     'workshop.list.list': 'संक्षेप्त सूची',
-    'workshop.fanfiction.new': 'नयाँ फ्यान फिक्शन सिर्जना गर्नुहोस्'
+    'workshop.fanfiction.new': 'नयाँ फ्यान फिक्शन सिर्जना गर्नुहोस्',
+    'workshop.videoTrailerLink': 'भिड़ियो ट्रेलर लिंक',
+    'workshop.videoTrailerPlayerTitle': 'कथा भिड़ियो ट्रेलर प्लेयर',
+    'workshop.videoTrailer.supportedPlaftorms': 'हम Youtube, Vimeo और Odysee का समर्थन करते हैं'
 };

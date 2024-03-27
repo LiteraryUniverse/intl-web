@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'ការងារផ្ទាល់ខ្លួន',
     'workshop.list.thumbs': 'បញ្ជីរូបថតតូច',
     'workshop.list.list': 'បញ្ជីខ្លី',
-    'workshop.fanfiction.new': 'បង្កើតស្វ័យប្រវត្តិប្រចាំថ្ងៃថ្មី'
+    'workshop.fanfiction.new': 'បង្កើតស្វ័យប្រវត្តិប្រចាំថ្ងៃថ្មី',
+    'workshop.videoTrailerLink': 'តំណភ្ជាប់វីដេអូរបៀបបង្ហាញការរចនាយន្ត',
+    'workshop.videoTrailerPlayerTitle': 'កម្មវិធីបញ្ជាក់វីដេអូរបៀបបង្ហាញរឿងនិទាន',
+    'workshop.videoTrailer.supportedPlaftorms': 'យើងស្គាល់ថាយើងអាចគាំទ្រវីដេម៉ូន Youtube, Vimeo និង Odysee'
 };

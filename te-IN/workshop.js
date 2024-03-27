@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Own work',
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.fanfiction.new': 'Create a new fan fiction',
+    'workshop.videoTrailerLink': 'వీడియో ట్రెయిలర్ లింక్',
+    'workshop.videoTrailerPlayerTitle': 'కథ వీడియో ట్రెయిలర్ ప్లేయర్',
+    'workshop.videoTrailer.supportedPlaftorms': 'మేము Youtube, Vimeo మరియు Odysee ని మద్దతు చేస్తాము'
 };

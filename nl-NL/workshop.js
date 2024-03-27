@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Eigen werk',
     'workshop.list.thumbs': 'Lijst met miniaturen',
     'workshop.list.list': 'Korte lijst',
-    'workshop.fanfiction.new': 'Maak een nieuwe fanfictie'
+    'workshop.fanfiction.new': 'Maak een nieuwe fanfictie',
+    'workshop.videoTrailerLink': 'Video trailer link',
+    'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
+    'workshop.videoTrailer.supportedPlaftorms': 'We ondersteunen Youtube, Vimeo en Odysee'
 };

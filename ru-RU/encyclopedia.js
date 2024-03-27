@@ -155,11 +155,11 @@ export default {
     'encyclopedia.pronunciation.title': 'Произношение',
     'encyclopedia.wip.abbreviation': 'РЗБ',
     'encyclopedia.wip.full': 'В разработке',
-    'encyclopedia.settings.templateLegend': 'Вселенная шаблонов',
-    'encyclopedia.settings.templateDescription': 'Разрешить копирование содержимого этой энциклопедии в другие вселенные. Это лучший вариант, если у вас нет историй и вы просто создаете шаблон для других.',
+    'encyclopedia.settings.templateLegend': 'Шаблонная вселенная',
+    'encyclopedia.settings.templateDescription': 'Разрешить копирование содержимого этой энциклопедии в другие вселенные. Это лучший вариант, если у вас нет историй и вы просто создаёте шаблон для других.',
     'encyclopedia.settings.templateCheckbox': 'Это шаблонная вселенная',
     'encyclopedia.templateCopy.modalTitle': 'Копировать содержимое энциклопедии',
-    'encyclopedia.templateCopy.description': 'Скопируйте содержимое этой энциклопедии в свою вселенную, чтобы обогатить ее.',
+    'encyclopedia.templateCopy.description': 'Скопируйте содержимое этой энциклопедии в свою вселенную, чтобы обогатить её.',
     'encyclopedia.templateCopy.targetUniverse': 'Вселенная для копирования',
     'encyclopedia.templateCopy.finished': 'Копирование завершено'
 };

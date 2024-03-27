@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'ਆਪਣੀ ਮਿਹਨਤ',
     'workshop.list.thumbs': 'ਥੰਮਨੇਲ ਸੂਚੀ',
     'workshop.list.list': 'ਛੋਟੀ ਸੂਚੀ',
-    'workshop.fanfiction.new': 'ਇੱਕ ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ'
+    'workshop.fanfiction.new': 'ਇੱਕ ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ',
+    'workshop.videoTrailerLink': 'ਵੀਡੀਓ ਟਰੇਲਰ ਲਿੰਕ',
+    'workshop.videoTrailerPlayerTitle': 'ਕਹਾਣੀ ਵੀਡੀਓ ਟਰੇਲਰ ਪਲੇਅਰ',
+    'workshop.videoTrailer.supportedPlaftorms': 'ਅਸੀਂ Youtube, Vimeo ਅਤੇ Odysee ਨੂੰ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ'
 };

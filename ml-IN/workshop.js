@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Own work',
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.fanfiction.new': 'Create a new fan fiction',
+    'workshop.videoTrailerLink': 'വീഡിയോ ട്രെയിലർ ലിങ്ക്',
+    'workshop.videoTrailerPlayerTitle': 'കഥ വീഡിയോ ട്രെയിലർ പ്ലേയർ',
+    'workshop.videoTrailer.supportedPlaftorms': 'ഞങ്ങൾ Youtube, Vimeo കുടുംബത്തിൽ പിന്തുണക്കുന്നു, അല്ലെങ്കിൽ Odysee'
 };

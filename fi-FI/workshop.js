@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Own work',
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.fanfiction.new': 'Create a new fan fiction',
+    'workshop.videoTrailerLink': 'Videon trailerin linkki',
+    'workshop.videoTrailerPlayerTitle': 'Tarinan videon trailerin soitin',
+    'workshop.videoTrailer.supportedPlaftorms': 'Tuetamme Youtubea, Vimeota ja Odyseetä'
 };

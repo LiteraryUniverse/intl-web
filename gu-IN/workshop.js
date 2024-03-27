@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'પોતે કામ',
     'workshop.list.thumbs': 'થંબનેલ યાદી',
     'workshop.list.list': 'ટૂંકી યાદી',
-    'workshop.fanfiction.new': 'નવી ફેન ફિક્શન બનાવો'
+    'workshop.fanfiction.new': 'નવી ફેન ફિક્શન બનાવો',
+    'workshop.videoTrailerLink': 'વિડિયો ટ્રેલર લિંક',
+    'workshop.videoTrailerPlayerTitle': 'કથા વિડિયો ટ્રેલર પ્લેયર',
+    'workshop.videoTrailer.supportedPlaftorms': 'અમે Youtube, Vimeo અને Odysee ની આધારિત પ્લેટફોર્મ સપોર્ટ કરીએ છીએ'
 };

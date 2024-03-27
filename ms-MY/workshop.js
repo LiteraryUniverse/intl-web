@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Karya sendiri',
     'workshop.list.thumbs': 'Senarai gambar mini',
     'workshop.list.list': 'Senarai ringkas',
-    'workshop.fanfiction.new': 'Cipta cerita fiksyen peminat baru'
+    'workshop.fanfiction.new': 'Cipta cerita fiksyen peminat baru',
+    'workshop.videoTrailerLink': 'Pautan treler video',
+    'workshop.videoTrailerPlayerTitle': 'Pemain treler video cerita',
+    'workshop.videoTrailer.supportedPlaftorms': 'Kami menyokong Youtube, Vimeo dan Odysee'
 };

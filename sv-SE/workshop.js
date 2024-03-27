@@ -281,5 +281,8 @@ export default {
     'workshop.ownWork': 'Eget arbete',
     'workshop.list.thumbs': 'Miniatyrbildslista',
     'workshop.list.list': 'Kort lista',
-    'workshop.fanfiction.new': 'Skapa en ny fanfiction'
+    'workshop.fanfiction.new': 'Skapa en ny fanfiction',
+    'workshop.videoTrailerLink': 'Länk till videotrailer',
+    'workshop.videoTrailerPlayerTitle': 'Spelare för story-videotrailer',
+    'workshop.videoTrailer.supportedPlaftorms': 'Vi stödjer Youtube, Vimeo och Odysee'
 };
