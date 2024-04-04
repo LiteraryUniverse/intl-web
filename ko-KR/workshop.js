@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': '비디오 예고편 링크',
     'workshop.videoTrailerPlayerTitle': '이야기 비디오 예고편 플레이어',
     'workshop.videoTrailer.supportedPlaftorms': '우리는 Youtube, Vimeo 및 Odysee를 지원합니다',
-    'workshop.videoTrailer.rumble': '우리는 Rumble도 지원하지만, IFRAME URL을 복사하는 것을 기억하세요.'
+    'workshop.videoTrailer.rumble': '우리는 Rumble도 지원하지만, IFRAME URL을 복사하는 것을 기억하세요.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
