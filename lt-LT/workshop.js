@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Kurti naują fanų fikciją',
     'workshop.videoTrailerLink': 'Vaizdo treilerio nuoroda',
     'workshop.videoTrailerPlayerTitle': 'Istorijos vaizdo treilerio grotuvas',
-    'workshop.videoTrailer.supportedPlaftorms': 'Mes palaikome Youtube, Vimeo ir Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Mes palaikome Youtube, Vimeo ir Odysee',
+    'workshop.videoTrailer.rumble': 'Mes taip pat palaikome Rumble, bet nepamirškite nukopijuoti IFRAME URL.'
 };
