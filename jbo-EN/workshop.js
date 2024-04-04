@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'lo nu creka lo fanva',
     'workshop.videoTrailerLink': 'Link la video trailer',
     'workshop.videoTrailerPlayerTitle': 'Plisoi la video trailer la pelxu',
-    'workshop.videoTrailer.supportedPlaftorms': 'mi pu\'o sidju le Youtube, le Vimeo je le Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'mi pu\'o sidju le Youtube, le Vimeo je le Odysee',
+    'workshop.videoTrailer.rumble': 'mi\'e la .lojban.'
 };
