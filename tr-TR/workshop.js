@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Hikaye video fragmanı oynatıcı',
     'workshop.videoTrailer.supportedPlaftorms': 'Youtube, Vimeo ve Odysee\'yi destekliyoruz',
     'workshop.videoTrailer.rumble': 'Rumble\'u da destekliyoruz, ancak IFRAME URL\'sini kopyalamayı unutmayın.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Video platformunuz eksik mi, bize <a>geri bildirim</a> yoluyla bildirin!'
 };
