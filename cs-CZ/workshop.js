@@ -289,5 +289,6 @@ export default {
     'workshop.fanfiction.new': 'Vytvořit novou fan fikci',
     'workshop.videoTrailerLink': 'Odkaz na video upoutávku',
     'workshop.videoTrailerPlayerTitle': 'Přehrávač video upoutávky na příběh',
-    'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee',
+    'workshop.videoTrailer.rumble': 'Podporujeme také Rumble, ale nezapomeňte zkopírovat URL adresu IFRAME.'
 };
