@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Створити новий фанфік',
     'workshop.videoTrailerLink': 'Посилання на відео-трейлер',
     'workshop.videoTrailerPlayerTitle': 'Програвач відео-трейлера історії',
-    'workshop.videoTrailer.supportedPlaftorms': 'Ми підтримуємо Youtube, Vimeo та Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Ми підтримуємо Youtube, Vimeo та Odysee',
+    'workshop.videoTrailer.rumble': 'Ми також підтримуємо Rumble, але не забудьте скопіювати URL IFRAME.'
 };
