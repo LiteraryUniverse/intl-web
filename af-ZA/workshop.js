@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'Skakel na video-aankondiging',
     'workshop.videoTrailerPlayerTitle': 'Spel video-aankondigingspeler',
     'workshop.videoTrailer.supportedPlaftorms': 'Ons ondersteun Youtube, Vimeo en Odysee',
-    'workshop.videoTrailer.rumble': 'Ons ondersteun ook Rumble, maar onthou om die IFRAME URL te kopieer.'
+    'workshop.videoTrailer.rumble': 'Ons ondersteun ook Rumble, maar onthou om die IFRAME URL te kopieer.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
