@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Yeni bir hayran kurgusu oluşturun',
     'workshop.videoTrailerLink': 'Video fragmanı bağlantısı',
     'workshop.videoTrailerPlayerTitle': 'Hikaye video fragmanı oynatıcı',
-    'workshop.videoTrailer.supportedPlaftorms': 'Youtube, Vimeo ve Odysee\'yi destekliyoruz'
+    'workshop.videoTrailer.supportedPlaftorms': 'Youtube, Vimeo ve Odysee\'yi destekliyoruz',
+    'workshop.videoTrailer.rumble': 'Rumble\'u da destekliyoruz, ancak IFRAME URL\'sini kopyalamayı unutmayın.'
 };
