@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Tarinan videon trailerin soitin',
     'workshop.videoTrailer.supportedPlaftorms': 'Tuetamme Youtubea, Vimeota ja Odyseetä',
     'workshop.videoTrailer.rumble': 'Tuetamme myös Rumblea, mutta muista kopioida IFRAME-URL.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Puuttuuko videoiden alusta? Kerro siitä meille <a>palaute</a>!'
 };
