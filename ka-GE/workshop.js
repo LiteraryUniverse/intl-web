@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'შექმენით ახალი ფანფიქშენი',
     'workshop.videoTrailerLink': 'ვიდეო ტრეილერის ბმული',
     'workshop.videoTrailerPlayerTitle': 'სიმართლის ვიდეო ტრეილერის პლეიერი',
-    'workshop.videoTrailer.supportedPlaftorms': 'ჩვენ გვხვდება Youtube, Vimeo და Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'ჩვენ გვხვდება Youtube, Vimeo და Odysee',
+    'workshop.videoTrailer.rumble': 'ჩვენ ასევე გვეხმარებათ Rumble-ს, მაგრამ არ დაგვიკავშირდეთ იმის დაკოპირებისას IFRAME URL-ს.'
 };
