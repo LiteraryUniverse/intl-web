@@ -280,5 +280,6 @@ export default {
     'workshop.fanfiction.new': 'Utwórz nowe tłumaczenie',
     'workshop.videoTrailerLink': 'Link do zwiastuna wideo',
     'workshop.videoTrailerPlayerTitle': 'Odtwarzacz zwiastuna wideo',
-    'workshop.videoTrailer.supportedPlaftorms': 'Wspieramy Youtube, Vimeo i Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Wspieramy Youtube, Vimeo i Odysee',
+    'workshop.videoTrailer.rumble': 'Wspieramy również Rumble, ale pamiętaj, aby skopiować URL IFRAME.'
 };
