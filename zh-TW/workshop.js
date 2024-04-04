@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': '創作新的同人小說',
     'workshop.videoTrailerLink': '影片預告連結',
     'workshop.videoTrailerPlayerTitle': '故事影片預告播放器',
-    'workshop.videoTrailer.supportedPlaftorms': '我們支援Youtube、Vimeo和Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': '我們支援Youtube、Vimeo和Odysee',
+    'workshop.videoTrailer.rumble': '我們也支援Rumble，但請記得複製IFRAME的網址。'
 };
