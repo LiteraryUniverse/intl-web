@@ -305,5 +305,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Проигрыватель трейлера истории',
     'workshop.videoTrailer.supportedPlaftorms': 'Мы поддерживаем YouTube, Vimeo и Odysee',
     'workshop.videoTrailer.rumble': 'Мы также поддерживаем Rumble, но не забудьте скопировать URL IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Если ваша видеоплатформа отсутствует, дайте нам знать через нашу <a>обратную связь</a>!'
 };
