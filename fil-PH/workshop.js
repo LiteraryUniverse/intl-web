@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'Link ng video trailer',
     'workshop.videoTrailerPlayerTitle': 'Player ng video trailer ng kuwento',
     'workshop.videoTrailer.supportedPlaftorms': 'Sinusuportahan namin ang Youtube, Vimeo at Odysee',
-    'workshop.videoTrailer.rumble': 'Sinusuportahan din namin ang Rumble, ngunit tandaan na kailangan mong kopyahin ang IFRAME URL.'
+    'workshop.videoTrailer.rumble': 'Sinusuportahan din namin ang Rumble, ngunit tandaan na kailangan mong kopyahin ang IFRAME URL.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
