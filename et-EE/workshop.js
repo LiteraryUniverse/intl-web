@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Loo videotreileri mängija',
     'workshop.videoTrailer.supportedPlaftorms': 'Toetame Youtube\'i, Vimeot ja Odyseed',
     'workshop.videoTrailer.rumble': 'Toetame ka Rumble\'i, kuid ära unusta IFRAME URL-i kopeerida.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Kas sinu videplatvorm puudub? Anna meile teada meie <a>tagasiside</a> kaudu!'
 };
