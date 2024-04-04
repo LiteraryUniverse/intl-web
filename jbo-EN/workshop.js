@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'Link la video trailer',
     'workshop.videoTrailerPlayerTitle': 'Plisoi la video trailer la pelxu',
     'workshop.videoTrailer.supportedPlaftorms': 'mi pu\'o sidju le Youtube, le Vimeo je le Odysee',
-    'workshop.videoTrailer.rumble': 'mi\'e la .lojban.'
+    'workshop.videoTrailer.rumble': 'mi\'e la .lojban.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
