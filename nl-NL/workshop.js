@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
     'workshop.videoTrailer.supportedPlaftorms': 'We ondersteunen Youtube, Vimeo en Odysee',
     'workshop.videoTrailer.rumble': 'We ondersteunen ook Rumble, maar vergeet niet om de IFRAME URL te kopiëren.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Ontbreekt jouw videoplatform? Laat het ons weten via onze <a>feedback</a>!'
 };
