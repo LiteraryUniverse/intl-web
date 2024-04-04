@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Loo uus fännifiktsioon',
     'workshop.videoTrailerLink': 'Videotreileri link',
     'workshop.videoTrailerPlayerTitle': 'Loo videotreileri mängija',
-    'workshop.videoTrailer.supportedPlaftorms': 'Toetame Youtube\'i, Vimeot ja Odyseed'
+    'workshop.videoTrailer.supportedPlaftorms': 'Toetame Youtube\'i, Vimeot ja Odyseed',
+    'workshop.videoTrailer.rumble': 'Toetame ka Rumble\'i, kuid ära unusta IFRAME URL-i kopeerida.'
 };
