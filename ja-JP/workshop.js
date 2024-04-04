@@ -273,5 +273,6 @@ export default {
     'workshop.videoTrailerLink': 'ビデオトレーラーリンク',
     'workshop.videoTrailerPlayerTitle': 'ストーリービデオトレーラープレーヤー',
     'workshop.videoTrailer.supportedPlaftorms': 'Youtube、Vimeo、およびOdyseeをサポートしています',
-    'workshop.videoTrailer.rumble': 'また、Rumbleもサポートしていますが、IFRAMEのURLをコピーすることを忘れないでください。'
+    'workshop.videoTrailer.rumble': 'また、Rumbleもサポートしていますが、IFRAMEのURLをコピーすることを忘れないでください。',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
