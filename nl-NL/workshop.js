@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Maak een nieuwe fanfictie',
     'workshop.videoTrailerLink': 'Video trailer link',
     'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
-    'workshop.videoTrailer.supportedPlaftorms': 'We ondersteunen Youtube, Vimeo en Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'We ondersteunen Youtube, Vimeo en Odysee',
+    'workshop.videoTrailer.rumble': 'We ondersteunen ook Rumble, maar vergeet niet om de IFRAME URL te kopiëren.'
 };
