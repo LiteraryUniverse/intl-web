@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Új fan fiction létrehozása',
     'workshop.videoTrailerLink': 'Videó előzetes link',
     'workshop.videoTrailerPlayerTitle': 'Történet videó előzetes lejátszó',
-    'workshop.videoTrailer.supportedPlaftorms': 'Támogatjuk a Youtube-ot, a Vimeo-t és az Odysee-t'
+    'workshop.videoTrailer.supportedPlaftorms': 'Támogatjuk a Youtube-ot, a Vimeo-t és az Odysee-t',
+    'workshop.videoTrailer.rumble': 'Támogatjuk a Rumble-t is, de ne felejtsd el másolni az IFRAME URL-t.'
 };
