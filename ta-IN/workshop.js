@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Create a new fan fiction',
     'workshop.videoTrailerLink': 'வீடியோ டிரெய்லர் இணைப்பு',
     'workshop.videoTrailerPlayerTitle': 'கதை வீடியோ டிரெய்லர் பிளேயர்',
-    'workshop.videoTrailer.supportedPlaftorms': 'நாங்கள் Youtube, Vimeo மற்றும் Odysee ஐ ஆதரிக்கிறோம்'
+    'workshop.videoTrailer.supportedPlaftorms': 'நாங்கள் Youtube, Vimeo மற்றும் Odysee ஐ ஆதரிக்கிறோம்',
+    'workshop.videoTrailer.rumble': 'நாங்கள் ரம்பிளையும் ஆதரிக்கிறோம், ஆனால் IFRAME URL ஐ நகலெடுக்க மறக்காதீர்கள்.'
 };
