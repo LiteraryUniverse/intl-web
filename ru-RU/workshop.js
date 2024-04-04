@@ -303,5 +303,6 @@ export default {
     'workshop.fanfiction.new': 'Создать новый фанфик',
     'workshop.videoTrailerLink': 'Ссылка на трейлер',
     'workshop.videoTrailerPlayerTitle': 'Проигрыватель трейлера истории',
-    'workshop.videoTrailer.supportedPlaftorms': 'Мы поддерживаем YouTube, Vimeo и Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Мы поддерживаем YouTube, Vimeo и Odysee',
+    'workshop.videoTrailer.rumble': 'Мы также поддерживаем Rumble, но не забудьте скопировать URL IFRAME.'
 };
