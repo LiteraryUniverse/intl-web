@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'បង្កើតស្វ័យប្រវត្តិប្រចាំថ្ងៃថ្មី',
     'workshop.videoTrailerLink': 'តំណភ្ជាប់វីដេអូរបៀបបង្ហាញការរចនាយន្ត',
     'workshop.videoTrailerPlayerTitle': 'កម្មវិធីបញ្ជាក់វីដេអូរបៀបបង្ហាញរឿងនិទាន',
-    'workshop.videoTrailer.supportedPlaftorms': 'យើងស្គាល់ថាយើងអាចគាំទ្រវីដេម៉ូន Youtube, Vimeo និង Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'យើងស្គាល់ថាយើងអាចគាំទ្រវីដេម៉ូន Youtube, Vimeo និង Odysee',
+    'workshop.videoTrailer.rumble': 'យើងកែប្រែផ្សាយផ្សារ Rumble ផ្សេងៗទៀតផងដែរ។ ប៉ុន្តែកុំភ្លេចចម្លង URL របស់ IFRAME។'
 };
