@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'একটি নতুন ফ্যান ফিকশন তৈরি করুন',
     'workshop.videoTrailerLink': 'ভিডিও ট্রেলার লিঙ্ক',
     'workshop.videoTrailerPlayerTitle': 'গল্প ভিডিও ট্রেলার প্লেয়ার',
-    'workshop.videoTrailer.supportedPlaftorms': 'আমরা Youtube, Vimeo এবং Odysee সমর্থন করি'
+    'workshop.videoTrailer.supportedPlaftorms': 'আমরা Youtube, Vimeo এবং Odysee সমর্থন করি',
+    'workshop.videoTrailer.rumble': 'আমরা এছাড়াও Rumble সমর্থন করি, কিন্তু মনে রাখবেন IFRAME URL কপি করতে।'
 };
