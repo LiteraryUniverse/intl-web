@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Istorijos vaizdo treilerio grotuvas',
     'workshop.videoTrailer.supportedPlaftorms': 'Mes palaikome Youtube, Vimeo ir Odysee',
     'workshop.videoTrailer.rumble': 'Mes taip pat palaikome Rumble, bet nepamirškite nukopijuoti IFRAME URL.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Ar jūsų vaizdo platforma trūksta? Praneškite mums per mūsų <a>atsiliepimų</a> sistemą!'
 };
