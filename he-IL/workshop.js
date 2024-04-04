@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'נגן טריילר וידאו סיפור',
     'workshop.videoTrailer.supportedPlaftorms': 'אנחנו תומכים ב-YouTube, Vimeo ו-Odysee',
     'workshop.videoTrailer.rumble': 'אנחנו תומכים גם ב־Rumble, אבל זכור להעתיק את כתובת ה-IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'האם הפלטפורמה שלך לצפייה בסרטונים חסרה, הודיעו לנו דרך <a>משוב</a> שלנו!'
 };
