@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Történet videó előzetes lejátszó',
     'workshop.videoTrailer.supportedPlaftorms': 'Támogatjuk a Youtube-ot, a Vimeo-t és az Odysee-t',
     'workshop.videoTrailer.rumble': 'Támogatjuk a Rumble-t is, de ne felejtsd el másolni az IFRAME URL-t.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Hiányzik a videóplatformod? Tudasd velünk a <a>visszajelzés</a> segítségével!'
 };
