@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'สร้างนิยายแฟนฟิคใหม่',
     'workshop.videoTrailerLink': 'ลิงก์วิดีโอตัวอย่าง',
     'workshop.videoTrailerPlayerTitle': 'เครื่องเล่นวิดีโอตัวอย่างเรื่องราว',
-    'workshop.videoTrailer.supportedPlaftorms': 'เราสนับสนุน Youtube, Vimeo และ Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'เราสนับสนุน Youtube, Vimeo และ Odysee',
+    'workshop.videoTrailer.rumble': 'เรายังสนับสนุน Rumble ด้วย แต่อย่าลืมคัดลอก URL ของ IFRAME'
 };
