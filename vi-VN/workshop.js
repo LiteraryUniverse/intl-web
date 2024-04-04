@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'Liên kết video trailer',
     'workshop.videoTrailerPlayerTitle': 'Trình phát video trailer câu chuyện',
     'workshop.videoTrailer.supportedPlaftorms': 'Chúng tôi hỗ trợ Youtube, Vimeo và Odysee',
-    'workshop.videoTrailer.rumble': 'Chúng tôi cũng hỗ trợ Rumble, nhưng hãy nhớ sao chép URL IFRAME.'
+    'workshop.videoTrailer.rumble': 'Chúng tôi cũng hỗ trợ Rumble, nhưng hãy nhớ sao chép URL IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
