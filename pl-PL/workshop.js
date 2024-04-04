@@ -282,5 +282,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Odtwarzacz zwiastuna wideo',
     'workshop.videoTrailer.supportedPlaftorms': 'Wspieramy Youtube, Vimeo i Odysee',
     'workshop.videoTrailer.rumble': 'Wspieramy również Rumble, ale pamiętaj, aby skopiować URL IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Czy brakuje Twojej platformy wideo? Daj nam znać za pośrednictwem naszej <a>informacji zwrotnej</a>!'
 };
