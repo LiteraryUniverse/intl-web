@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'वीडियो ट्रेलर लिंक',
     'workshop.videoTrailerPlayerTitle': 'स्टोरी वीडियो ट्रेलर प्लेयर',
     'workshop.videoTrailer.supportedPlaftorms': 'हम Youtube, Vimeo और Odysee का समर्थन करते हैं',
-    'workshop.videoTrailer.rumble': 'हम रंबल का समर्थन भी करते हैं, लेकिन याद रखें कि IFRAME URL की प्रतिलिपि करें।'
+    'workshop.videoTrailer.rumble': 'हम रंबल का समर्थन भी करते हैं, लेकिन याद रखें कि IFRAME URL की प्रतिलिपि करें।',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
