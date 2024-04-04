@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'Link către trailerul video',
     'workshop.videoTrailerPlayerTitle': 'Player pentru trailerul video al poveștii',
     'workshop.videoTrailer.supportedPlaftorms': 'Noi susținem Youtube, Vimeo și Odysee',
-    'workshop.videoTrailer.rumble': 'Noi susținem și Rumble, dar nu uitați să copiați URL-ul IFRAME.'
+    'workshop.videoTrailer.rumble': 'Noi susținem și Rumble, dar nu uitați să copiați URL-ul IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
