@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'ଭିଡିଓ ଟ୍ରେଲର ଲିଙ୍କ',
     'workshop.videoTrailerPlayerTitle': 'କାହାଣୀ ଭିଡିଓ ଟ୍ରେଲର ପ୍ଲେୟର',
     'workshop.videoTrailer.supportedPlaftorms': 'ଆମେ Youtube, Vimeo ଏବଂ Odysee କୁ ସମର୍ଥନ କରୁଛି',
-    'workshop.videoTrailer.rumble': 'ଆମେ ରମ୍ବଲରେ ପ୍ରବଣ ଅଟେ, କିନ୍ତୁ ମୁଆଁ IFRAME URL କପି କରିବାକୁ ମତ୍ତରି ହେବ।'
+    'workshop.videoTrailer.rumble': 'ଆମେ ରମ୍ବଲରେ ପ୍ରବଣ ଅଟେ, କିନ୍ତୁ ମୁଆଁ IFRAME URL କପି କରିବାକୁ ମତ୍ତରି ହେବ।',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
