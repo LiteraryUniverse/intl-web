@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Cipta cerita fiksyen peminat baru',
     'workshop.videoTrailerLink': 'Pautan treler video',
     'workshop.videoTrailerPlayerTitle': 'Pemain treler video cerita',
-    'workshop.videoTrailer.supportedPlaftorms': 'Kami menyokong Youtube, Vimeo dan Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Kami menyokong Youtube, Vimeo dan Odysee',
+    'workshop.videoTrailer.rumble': 'Kami juga menyokong Rumble, tetapi ingatlah untuk menyalin URL IFRAME.'
 };
