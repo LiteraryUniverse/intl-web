@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'Посилання на відео-трейлер',
     'workshop.videoTrailerPlayerTitle': 'Програвач відео-трейлера історії',
     'workshop.videoTrailer.supportedPlaftorms': 'Ми підтримуємо Youtube, Vimeo та Odysee',
-    'workshop.videoTrailer.rumble': 'Ми також підтримуємо Rumble, але не забудьте скопіювати URL IFRAME.'
+    'workshop.videoTrailer.rumble': 'Ми також підтримуємо Rumble, але не забудьте скопіювати URL IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
