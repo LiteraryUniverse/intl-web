@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'വീഡിയോ ട്രെയിലർ ലിങ്ക്',
     'workshop.videoTrailerPlayerTitle': 'കഥ വീഡിയോ ട്രെയിലർ പ്ലേയർ',
     'workshop.videoTrailer.supportedPlaftorms': 'ഞങ്ങൾ Youtube, Vimeo കുടുംബത്തിൽ പിന്തുണക്കുന്നു, അല്ലെങ്കിൽ Odysee',
-    'workshop.videoTrailer.rumble': 'ഞങ്ങൾ രംഗത്തും റംബിൾ പിന്തുണയ്ക്കുന്നു, പകർപ്പവകാശം ഐഫ്രെയിം URL പകർത്തുകയും അവിടെ പേസ്റ്റ് ചെയ്യുകയും ചെയ്യുക.'
+    'workshop.videoTrailer.rumble': 'ഞങ്ങൾ രംഗത്തും റംബിൾ പിന്തുണയ്ക്കുന്നു, പകർപ്പവകാശം ഐഫ്രെയിം URL പകർത്തുകയും അവിടെ പേസ്റ്റ് ചെയ്യുകയും ചെയ്യുക.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
