@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Παίκτης βίντεο τρέιλερ ιστορίας',
     'workshop.videoTrailer.supportedPlaftorms': 'Υποστηρίζουμε το Youtube, το Vimeo και το Odysee',
     'workshop.videoTrailer.rumble': 'Υποστηρίζουμε επίσης το Rumble, αλλά θυμηθείτε να αντιγράψετε το URL του IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Λείπει η πλατφόρμα βίντεο σας; Ενημερώστε μας μέσω της <a>ανατροφοδότησης</a> μας!'
 };
