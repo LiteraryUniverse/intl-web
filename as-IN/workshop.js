@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'ভিডিও ট্রেইলার লিংক',
     'workshop.videoTrailerPlayerTitle': 'গল্প ভিডিও ট্রেইলার প্লেয়ার',
     'workshop.videoTrailer.supportedPlaftorms': 'আমি Youtube, Vimeo আৰু Odysee সমৰ্থন কৰোঁ',
-    'workshop.videoTrailer.rumble': 'আমি আপোনালৈ সহায় কৰিমানে Rumble, কিন্তু মনত ধৰি আছক যে IFRAME URL টো কপি কৰিব লাগিব।'
+    'workshop.videoTrailer.rumble': 'আমি আপোনালৈ সহায় কৰিমানে Rumble, কিন্তু মনত ধৰি আছক যে IFRAME URL টো কপি কৰিব লাগিব।',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
