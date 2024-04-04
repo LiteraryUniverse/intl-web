@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'Link al trailer video',
     'workshop.videoTrailerPlayerTitle': 'Lettore del trailer video della storia',
     'workshop.videoTrailer.supportedPlaftorms': 'Supportiamo Youtube, Vimeo e Odysee',
-    'workshop.videoTrailer.rumble': 'Supportiamo anche Rumble, ma ricorda di copiare l\'URL IFRAME.'
+    'workshop.videoTrailer.rumble': 'Supportiamo anche Rumble, ma ricorda di copiare l\'URL IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
