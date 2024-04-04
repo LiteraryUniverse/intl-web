@@ -289,5 +289,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Prehrávač video ukážky príbehu',
     'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee',
     'workshop.videoTrailer.rumble': 'Podporujeme aj Rumble, ale nezabudnite skopírovať IFRAME URL.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Ak chýba vaša video platforma, dajte nám vedieť cez našu <a>spätnú väzbu</a>!'
 };
