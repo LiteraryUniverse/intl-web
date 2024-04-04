@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Buat fan fiction baru',
     'workshop.videoTrailerLink': 'Tautan trailer video',
     'workshop.videoTrailerPlayerTitle': 'Pemutar trailer video cerita',
-    'workshop.videoTrailer.supportedPlaftorms': 'Kami mendukung Youtube, Vimeo, dan Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Kami mendukung Youtube, Vimeo, dan Odysee',
+    'workshop.videoTrailer.rumble': 'Kami juga mendukung Rumble, tetapi ingat untuk menyalin URL IFRAME.'
 };
