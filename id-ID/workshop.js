@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Pemutar trailer video cerita',
     'workshop.videoTrailer.supportedPlaftorms': 'Kami mendukung Youtube, Vimeo, dan Odysee',
     'workshop.videoTrailer.rumble': 'Kami juga mendukung Rumble, tetapi ingat untuk menyalin URL IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Apakah platform video Anda tidak ada, beri tahu kami melalui <a>umpan balik</a> kami!'
 };
