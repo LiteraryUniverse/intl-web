@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'भिड़ियो ट्रेलर लिंक',
     'workshop.videoTrailerPlayerTitle': 'कथा भिड़ियो ट्रेलर प्लेयर',
     'workshop.videoTrailer.supportedPlaftorms': 'हम Youtube, Vimeo और Odysee का समर्थन करते हैं',
-    'workshop.videoTrailer.rumble': 'हम रुम्बल भी समर्थित करते हैं, लेकिन याद रखें कि IFRAME URL की प्रतिलिपि बनाएं।'
+    'workshop.videoTrailer.rumble': 'हम रुम्बल भी समर्थित करते हैं, लेकिन याद रखें कि IFRAME URL की प्रतिलिपि बनाएं।',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
