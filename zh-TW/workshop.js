@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': '故事影片預告播放器',
     'workshop.videoTrailer.supportedPlaftorms': '我們支援Youtube、Vimeo和Odysee',
     'workshop.videoTrailer.rumble': '我們也支援Rumble，但請記得複製IFRAME的網址。',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': '如果您的視頻平台缺失，請通過我們的<a>反饋</a>告訴我們！'
 };
