@@ -286,5 +286,5 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'مشغل فيديو عرض التشويق',
     'workshop.videoTrailer.supportedPlaftorms': 'نحن ندعم يوتيوب، فيميو وأوديسي',
     'workshop.videoTrailer.rumble': 'ندعم أيضًا Rumble، ولكن تذكر نسخ عنوان URL الإطار.',
-    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'هل تفتقد منصتك للفيديو؟ أخبرنا عبر <a>ردود الفعل</a> الخاصة بنا!'
 };
