@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'צור פאן פיקשן חדש',
     'workshop.videoTrailerLink': 'קישור לטריילר הווידאו',
     'workshop.videoTrailerPlayerTitle': 'נגן טריילר וידאו סיפור',
-    'workshop.videoTrailer.supportedPlaftorms': 'אנחנו תומכים ב-YouTube, Vimeo ו-Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'אנחנו תומכים ב-YouTube, Vimeo ו-Odysee',
+    'workshop.videoTrailer.rumble': 'אנחנו תומכים גם ב־Rumble, אבל זכור להעתיק את כתובת ה-IFRAME.'
 };
