@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Krei novan fanfikcion',
     'workshop.videoTrailerLink': 'Ligilo al video-trailero',
     'workshop.videoTrailerPlayerTitle': 'Ludilo por video-trailero de rakonto',
-    'workshop.videoTrailer.supportedPlaftorms': 'Ni subtenas Youtube, Vimeo kaj Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Ni subtenas Youtube, Vimeo kaj Odysee',
+    'workshop.videoTrailer.rumble': 'Ni ankaŭ subtenas Rumble, sed memoru kopii la IFRAME URL-on.'
 };
