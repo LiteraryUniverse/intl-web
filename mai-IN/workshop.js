@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'नयाँ फ्यान फिक्शन सिर्जना गर्नुहोस्',
     'workshop.videoTrailerLink': 'भिड़ियो ट्रेलर लिंक',
     'workshop.videoTrailerPlayerTitle': 'कथा भिड़ियो ट्रेलर प्लेयर',
-    'workshop.videoTrailer.supportedPlaftorms': 'हम Youtube, Vimeo और Odysee का समर्थन करते हैं'
+    'workshop.videoTrailer.supportedPlaftorms': 'हम Youtube, Vimeo और Odysee का समर्थन करते हैं',
+    'workshop.videoTrailer.rumble': 'हम रुम्बल भी समर्थित करते हैं, लेकिन याद रखें कि IFRAME URL की प्रतिलिपि बनाएं।'
 };
