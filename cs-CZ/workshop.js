@@ -290,5 +290,6 @@ export default {
     'workshop.videoTrailerLink': 'Odkaz na video upoutávku',
     'workshop.videoTrailerPlayerTitle': 'Přehrávač video upoutávky na příběh',
     'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee',
-    'workshop.videoTrailer.rumble': 'Podporujeme také Rumble, ale nezapomeňte zkopírovat URL adresu IFRAME.'
+    'workshop.videoTrailer.rumble': 'Podporujeme také Rumble, ale nezapomeňte zkopírovat URL adresu IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
