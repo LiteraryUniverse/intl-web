@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Create a new fan fiction',
     'workshop.videoTrailerLink': 'Σύνδεσμος βίντεο τρέιλερ',
     'workshop.videoTrailerPlayerTitle': 'Παίκτης βίντεο τρέιλερ ιστορίας',
-    'workshop.videoTrailer.supportedPlaftorms': 'Υποστηρίζουμε το Youtube, το Vimeo και το Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Υποστηρίζουμε το Youtube, το Vimeo και το Odysee',
+    'workshop.videoTrailer.rumble': 'Υποστηρίζουμε επίσης το Rumble, αλλά θυμηθείτε να αντιγράψετε το URL του IFRAME.'
 };
