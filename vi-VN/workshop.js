@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Tạo một fan fiction mới',
     'workshop.videoTrailerLink': 'Liên kết video trailer',
     'workshop.videoTrailerPlayerTitle': 'Trình phát video trailer câu chuyện',
-    'workshop.videoTrailer.supportedPlaftorms': 'Chúng tôi hỗ trợ Youtube, Vimeo và Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Chúng tôi hỗ trợ Youtube, Vimeo và Odysee',
+    'workshop.videoTrailer.rumble': 'Chúng tôi cũng hỗ trợ Rumble, nhưng hãy nhớ sao chép URL IFRAME.'
 };
