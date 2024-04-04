@@ -348,5 +348,7 @@ export default {
   'workshop.videoTrailerLink': 'Video trailer link',
   'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
   'workshop.videoTrailer.supportedPlaftorms':
-    'We support Youtube, Vimeo and Odysee'
+    'We support Youtube, Vimeo and Odysee',
+  'workshop.videoTrailer.rumble':
+    'We also support Rumble, but remember to copy the IFRAME URL.'
 }
