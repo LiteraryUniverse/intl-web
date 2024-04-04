@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Create a new fan fiction',
     'workshop.videoTrailerLink': 'Video trailer link',
     'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
-    'workshop.videoTrailer.supportedPlaftorms': 'Vi understøtter Youtube, Vimeo og Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Vi understøtter Youtube, Vimeo og Odysee',
+    'workshop.videoTrailer.rumble': 'Vi understøtter også Rumble, men husk at kopiere IFRAME URL\'en.'
 };
