@@ -350,5 +350,7 @@ export default {
   'workshop.videoTrailer.supportedPlaftorms':
     'We support Youtube, Vimeo and Odysee',
   'workshop.videoTrailer.rumble':
-    'We also support Rumble, but remember to copy the IFRAME URL.'
+    'We also support Rumble, but remember to copy the IFRAME URL.',
+  'workshop.videoTrailer.suggestPlatforms':
+    'Is your video platform missing, let us know via our <a href="/feedback/issues/features" target="_blank">feedback</a>!'
 }
