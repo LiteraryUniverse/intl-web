@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Opprett en ny fanfiksjon',
     'workshop.videoTrailerLink': 'Lenke til video-trailer',
     'workshop.videoTrailerPlayerTitle': 'Spiller for historie-video-trailer',
-    'workshop.videoTrailer.supportedPlaftorms': 'Vi støtter Youtube, Vimeo og Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Vi støtter Youtube, Vimeo og Odysee',
+    'workshop.videoTrailer.rumble': 'Vi støtter også Rumble, men husk å kopiere IFRAME-URLen.'
 };
