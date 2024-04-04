@@ -285,5 +285,6 @@ export default {
     'workshop.videoTrailerLink': 'ვიდეო ტრეილერის ბმული',
     'workshop.videoTrailerPlayerTitle': 'სიმართლის ვიდეო ტრეილერის პლეიერი',
     'workshop.videoTrailer.supportedPlaftorms': 'ჩვენ გვხვდება Youtube, Vimeo და Odysee',
-    'workshop.videoTrailer.rumble': 'ჩვენ ასევე გვეხმარებათ Rumble-ს, მაგრამ არ დაგვიკავშირდეთ იმის დაკოპირებისას IFRAME URL-ს.'
+    'workshop.videoTrailer.rumble': 'ჩვენ ასევე გვეხმარებათ Rumble-ს, მაგრამ არ დაგვიკავშირდეთ იმის დაკოპირებისას IFRAME URL-ს.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is your video platform missing, let us know via our <a>feedback</a>!'
 };
