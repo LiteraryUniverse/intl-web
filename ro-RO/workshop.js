@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Creați o nouă fan fiction',
     'workshop.videoTrailerLink': 'Link către trailerul video',
     'workshop.videoTrailerPlayerTitle': 'Player pentru trailerul video al poveștii',
-    'workshop.videoTrailer.supportedPlaftorms': 'Noi susținem Youtube, Vimeo și Odysee'
+    'workshop.videoTrailer.supportedPlaftorms': 'Noi susținem Youtube, Vimeo și Odysee',
+    'workshop.videoTrailer.rumble': 'Noi susținem și Rumble, dar nu uitați să copiați URL-ul IFRAME.'
 };
