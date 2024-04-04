@@ -284,5 +284,6 @@ export default {
     'workshop.fanfiction.new': 'Create a new fan fiction',
     'workshop.videoTrailerLink': 'ଭିଡିଓ ଟ୍ରେଲର ଲିଙ୍କ',
     'workshop.videoTrailerPlayerTitle': 'କାହାଣୀ ଭିଡିଓ ଟ୍ରେଲର ପ୍ଲେୟର',
-    'workshop.videoTrailer.supportedPlaftorms': 'ଆମେ Youtube, Vimeo ଏବଂ Odysee କୁ ସମର୍ଥନ କରୁଛି'
+    'workshop.videoTrailer.supportedPlaftorms': 'ଆମେ Youtube, Vimeo ଏବଂ Odysee କୁ ସମର୍ଥନ କରୁଛି',
+    'workshop.videoTrailer.rumble': 'ଆମେ ରମ୍ବଲରେ ପ୍ରବଣ ଅଟେ, କିନ୍ତୁ ମୁଆଁ IFRAME URL କପି କରିବାକୁ ମତ୍ତରି ହେବ।'
 };
