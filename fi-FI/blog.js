@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'Julkinen näkymä',
     'blog.post.notfound': 'Blogiviestiä ei löytynyt',
     'blog.lists.works': `{type, select,
-    universes {Universumit}
-    stories {Erilliset tarinat}
-    fanfiction {Fanifiktio työ}
+    universes {Universet}
+    stories {Tarinat}
+    fanfiction {Fanifiktio teos}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Tässä luetellaan itsenäiset tarinat. Jos tarina on osa universumia, se näkyy universumin sivulla.',
     'blog.social.sameAsMain': `Sosiaaliset linkit ovat samat kuin {type, select,
     organization {organisaation asetukset}
     user {käyttäjäprofiili}
