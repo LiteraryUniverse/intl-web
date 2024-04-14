@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': '找不到部落格文章',
     'blog.lists.works': `{type, select,
     universes {宇宙}
-    stories {獨立故事}
+    stories {故事}
     fanfiction {粉絲創作}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': '這裡列出的是獨立故事，如果故事是作為宇宙的一部分而寫的，則會在宇宙頁面上列出。',
     'blog.social.sameAsMain': `社交連結與 {type, select,
     organization {組織設定}
     user {使用者檔案}
