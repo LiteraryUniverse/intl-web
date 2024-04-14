@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Không tìm thấy bài viết trong blog',
     'blog.lists.works': `{type, select,
     universes {Vũ trụ}
-    stories {Các câu chuyện độc lập}
-    fanfiction {Công việc Fan Fiction}
+    stories {Câu chuyện}
+    fanfiction {Tác phẩm Fan Fiction}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Danh sách đây là những câu chuyện đứng một mình, nếu câu chuyện được viết là một phần của một vũ trụ thì sẽ được liệt kê trên trang vũ trụ.',
     'blog.social.sameAsMain': `Liên kết xã hội giống như được thiết lập trong {type, select,
     organization {cài đặt tổ chức}
     user {hồ sơ người dùng}
