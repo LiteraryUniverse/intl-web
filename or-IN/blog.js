@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {ବିଶ୍ୱ}
+    stories {କାହାଣୀ}
+    fanfiction {ଫାନ୍ ଫିକ୍ସନ କାର୍ଯ୍ୟ}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
