@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'Paparan awam',
     'blog.post.notfound': 'Pos blog tidak dijumpai',
     'blog.lists.works': `{type, select,
-    universes {Alam semesta}
-    stories {Cerita berdiri sendiri}
-    fanfiction {Karya Fan Fiction}
+    universes {Universiti}
+    stories {Cerita}
+    fanfiction {Karya Fiksyen Penggemar}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Berikut adalah cerita berdiri sendiri, jika cerita tersebut ditulis sebagai sebahagian daripada sebuah alam, ia akan disenaraikan di halaman alam tersebut.',
     'blog.social.sameAsMain': `Pautan sosial adalah sama seperti yang ditetapkan dalam {type, select,
     organization {tetapan organisasi}
     user {profil pengguna}
