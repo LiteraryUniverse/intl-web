@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'வலைப்பதிவு பதிவைக் கண்டறியாமல் உள்ளது',
     'blog.lists.works': `{type, select,
     universes {உலகங்கள்}
-    stories {ஒரு மின்னூல் கதைகள்}
-    fanfiction {வண்ணப்பதிவு வேலை}
+    stories {கதைகள்}
+    fanfiction {ரசிகர் உண்மைகள் பணிகள்}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'பிரிமானமான கதைகள் இங்கே தொகுக்கப்பட்டுள்ளன, கதை ஒரு பரலோகத்தின் ஒரு பகுதி ஆகாமல் எழுதப்பட்டால் அது பரலோக பக்கத்தில் பத்திரிகைக்குச் சேர் பட்டது.',
     'blog.social.sameAsMain': `சமூக இணையங்கள் பிரத்தியேக அமைப்புகளின் பொது இணைப்புகள் ஆகும் {type, select,
     organization {அமைப்பு அமைப்பின் அமைப்புகள்}
     user {பயனர் சுட்டிகள்}
