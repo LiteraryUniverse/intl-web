@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Le post du blog n\'a pas été trouvé',
     'blog.lists.works': `{type, select,
     universes {Univers}
-    stories {Histoires Autonome}
-    fanfiction {Œuvre Fan Fiction}
+    stories {Histoires}
+    fanfiction {Œuvre de fanfiction}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Les histoires listées ici sont des histoires autonomes, si l\'histoire a été écrite dans le cadre d\'un univers, elle sera listée sur la page de l\'univers.',
     'blog.social.sameAsMain': `Les liens sociaux sont les mêmes que ceux définis dans {type, select,
     organization {les paramètres de l'organisation}
     user {le profil d'utilisateur}
