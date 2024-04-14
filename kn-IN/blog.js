@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'ಜನರ ದೃಷ್ಟಿಗೆ ಸೂಕ್ತವಾದುದು',
     'blog.post.notfound': 'ಈ ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ನ ಪ್ರಕಟಣೆ ಕಾಣಲಿಲ್ಲ',
     'blog.lists.works': `{type, select,
-    universes {ವಿಶ್ವಗಳು}
-    stories {ಸ್ವತಂತ್ರ ಕಥೆಗಳು}
-    fanfiction {ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಕೆಲಸ}
+    universes {ಬ್ರಹ್ಮಾಂಡಗಳು}
+    stories {ಕಥೆಗಳು}
+    fanfiction {ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಕೃತಿ}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'ಇಲ್ಲಿ ಸ್ವತಂತ್ರ ಕಥೆಗಳನ್ನು ನೀಡಲಾಗಿದೆ, ಯಾಕೆಂದರೆ ಕಥೆ ಏಕ ಪದವಿಯ ಭಾಗವಾಗಿ ಬಂದಿರುವುದಾದ್ದರಿಂದ ಅದು ಯೂನಿವರ್ಸ್ ಪುಟದಲ್ಲಿ ಪ್ರಕಟವಾಗುತ್ತದೆ.',
     'blog.social.sameAsMain': `ಸಾಮಾಜಿಕ ಲಿಂಕ್ಗಳು ಹೊಂದಿರುವುದು ಹೀಗೆಯೇ ಹೊಂದಿರುತ್ತವೆ {type, select,
     organization {ಸಂಸ್ಥೆ ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ}
     user {ಬಳಕೆದಾರ ಪ್ರೊಫೈಲ್ನಲ್ಲಿ}
