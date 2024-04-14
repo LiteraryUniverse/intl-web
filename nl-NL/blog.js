@@ -28,11 +28,10 @@ export default {
     'blog.post.notfound': 'Blogbericht niet gevonden',
     'blog.lists.works': `{type, select,
     universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    stories {Verhalen}
+    fanfiction {Fan Fictie werk}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Hier staan standalone verhalen, als het verhaal deel uitmaakt van een universum dan wordt het getoond op de universumpagina.',
     'blog.social.sameAsMain': `Sociale links zijn hetzelfde als ingesteld in {type, select,
     organization {organisatie-instellingen}
     user {gebruikersprofiel}
