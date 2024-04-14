@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'Public view',
     'blog.post.notfound': 'Blog post was not found',
     'blog.lists.works': `{type, select,
-    universes {སྒྲིག་འཇུགས་}
-    stories {རིགས་དྲུག་ཆེན་པོ་}
-    fanfiction {འཕྲུལ་ཡོད་པའི་ བརྡ་དོན་}
+    universes {གསར་པ་ཚོགས་པ}
+    stories {བརྡ་རྗེའི་ཚོགས་པ}
+    fanfiction {ཡིག་ཆ་རྩོམ་པ་བྱེད་པར་གྱུར།}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
     'blog.social.sameAsMain': `སྒྲིག་འཇུགས་གསལ་བཤད་འདི་ བཀོད་སྤྱོད་གནས་སྡུད་བསྐྱེད་པའི་ སྐོར་ལས་འདི་ནང་གི་ལེན་མི་བརྡ་དོན་བྱེད་པའི་ དགོས་པར་ཡོད་པའི་ {type, select,
     organization {གང་རུང་སྒྲིག་འཇུགས་}
     user {ལག་ལེན་པའི་གནས་སྡུད་}
