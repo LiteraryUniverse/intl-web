@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'পাবলিক দৃশ্য',
     'blog.post.notfound': 'ব্লগ পোস্ট পাওয়া যায়নি',
     'blog.lists.works': `{type, select,
-    universes {ইউনিভার্স}
-    stories {স্বতন্ত্র গল্পসমূহ}
+    universes {বিশ্বজুড়ে}
+    stories {গল্পগুচ্ছ}
     fanfiction {ফ্যান ফিকশন কাজ}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'এখানে স্থানিক গল্পগুলি তালিকাভুক্ত করা হয়, যদি গল্পটি একটি বিশ্বের অংশ হিসাবে লেখা হয় তবে এটি বিশ্বের পৃষ্ঠায় তালিকাভুক্ত হবে।',
     'blog.social.sameAsMain': `সামাজিক লিঙ্কগুলি একই হিসাবে সেট করা হয় যেমন যেমন নিবন্ধন সেটিংসে {type, select,
     organization {ব্যবস্থাপনা সেটিংস}
     user {ব্যবহারকারী প্রোফাইল}
