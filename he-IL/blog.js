@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'תצוגה ציבורית',
     'blog.post.notfound': 'פוסט הבלוג לא נמצא',
     'blog.lists.works': `{type, select,
-    universes {יקום}
-    stories {סיפורים עצמאיים}
-    fanfiction {עבודת פאן-פיקשן}
+    universes {יקומים}
+    stories {סיפורים}
+    fanfiction {יצירת פאן פיקשן}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'כאן מוצגות סיפורים עצמאיים, אם הסיפור נכתב כחלק מיקומה אז יופיע בדף היקום.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
