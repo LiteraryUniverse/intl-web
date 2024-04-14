@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'عرض عام',
     'blog.post.notfound': 'لم يتم العثور على مدونة',
     'blog.lists.works': `{type, select,
-    universes {الكونات}
-    stories {القصص المستقلة}
-    fanfiction {أعمال الخيال العلمي}
+    universes {الكواكب}
+    stories {قصص}
+    fanfiction {عمل قصصي من قبل المعجبين}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'هنا توجد قصص مستقلة ، إذا تم كتابة القصة كجزء من عالم خيالي ستظهر في صفحة العالم.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
