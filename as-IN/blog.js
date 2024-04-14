@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'ব্লগ পোষ্ট পোৱা নহয়',
     'blog.lists.works': `{type, select,
     universes {বিশ্বসমূহ}
-    stories {একজন লিখকের গল্পসমূহ}
+    stories {গল্পগুলি}
     fanfiction {ফ্যান ফিকশন কাজ}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'এইয়াবলগত আলাপিটা গথালৈ থকা দিনবন্ধু কাহিনীসমূহ উপস্থিত থাকে, যদি কোনো কাহিনীটো এক নক্ষত্ অংশৰ হিচাপে লিখা হয় হৈছে তেনে তা নক্ষত্ পৃষ্ঠাৰ চাপৰিত দেখা পোৱা যায়।',
     'blog.social.sameAsMain': `সামাজিক লিঙ্কগুলি একইভাবে সেট করা হয় যেমন যেমন নির্ধারণ করা আছে {type, select,
     organization {সংগঠনের সেটিংস}
     user {ব্যবহারকারীর প্রোফাইল}
