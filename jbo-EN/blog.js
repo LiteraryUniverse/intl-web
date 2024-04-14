@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'Lo sevzi viska',
     'blog.post.notfound': 'Lo jorne be lo nu se zbasu cu na\'o na\'o vasru',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Standalone stories}
-    fanfiction {Fan Fiction work}
+    universes {lojbanselpe'o}
+    stories {lojbanselji'e}
+    fanfiction {lojbanselkarni}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'la\'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu .i ja\'o lo nu se zbasu be la\'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu be la\'o gy. blogu.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
