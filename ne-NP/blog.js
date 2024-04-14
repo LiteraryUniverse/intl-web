@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'ब्लग पोस्ट भेटिएन',
     'blog.lists.works': `{type, select,
     universes {ब्रह्माण्डहरू}
-    stories {स्थानिय कथाहरू}
-    fanfiction {प्रशंसा कथानी कार्य}
+    stories {कथाहरू}
+    fanfiction {फ्यान फिक्शन कार्य}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'यहाँ स्वतंत्र कथाहरू सूचीबद्ध छन्, यदि कथा कसैको यूनिभर्सको भागको रूपमा लेखिएको छ भने त्यसो यूनिभर्स पृष्ठमा सूचीबद्ध हुनेछ।',
     'blog.social.sameAsMain': `सामाजिक लिङ्कहरू मुख्य {type, select,
     organization {संगठन सेटिङ्समा सेट गरिएका छन्}
     user {प्रयोगकर्ता प्रोफाइल}
