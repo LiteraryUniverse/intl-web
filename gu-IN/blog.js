@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'જનતા જોવાનું સારૂ બ્લોગ',
     'blog.post.notfound': 'બ્લોગ પોસ્ટ મળી નથી',
     'blog.lists.works': `{type, select,
-    universes {વિશ્વો}
-    stories {એકમત કથાઓ}
+    universes {બ્રહ્માંડો}
+    stories {કથાઓ}
     fanfiction {ફેન ફિક્શન કાર્ય}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'અકેલાઈસપેસવીઆચારો અહીં ચોખા કથાવિસ્તારો આપેલા હોય છે, જો કથાને કવાયેલા યુનિવર્સમાં લેવાયેલા હોય તો તે યુનિવર્સવપાના પર લિસ્ટમાં આપવામાં આવશે.',
     'blog.social.sameAsMain': `સામાજિક લિંક તેના સેટ જેમાં જ છે અને {type, select,
     organization {સંસ્થાના સેટિંગ્સમાં સેટ થઇ છે}
     user {વપરાશકર્તા પ્રોફાઇલ}
