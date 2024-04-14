@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Tinklaraščio įrašas nerastas',
     'blog.lists.works': `{type, select,
     universes {Visatos}
-    stories {Atskiri istorijų rinkiniai}
-    fanfiction {Fanų kūriniai}
+    stories {Istorijos}
+    fanfiction {Fanų kūrinys}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Čia pateikiamos atskirių istorijų versijos. Jei istorija buvo parašyta kaip universo dalis, ji bus pateikta universoje.',
     'blog.social.sameAsMain': `Socialiniai ryšiai yra tie patys, kaip nustatyta {type, select,
     organization {organizacijos nuostatosse}
     user {vartotojo profilyje}
