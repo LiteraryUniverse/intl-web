@@ -31,12 +31,10 @@ export default {
   'blog.post.notfound': 'Blog post was not found',
   'blog.lists.works': `{type, select,
     universes {Universes}
-    stories {Standalone stories}
+    stories {Stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-  'blog.lists.stories.disclaimer':
-    'Listed here are standalone stories, if story was written as a part of a universe then it will be listed on the universe page.',
   'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
