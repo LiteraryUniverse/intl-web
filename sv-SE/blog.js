@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Blogginlägget hittades inte',
     'blog.lists.works': `{type, select,
     universes {Universes}
-    stories {Fristående berättelser}
-    fanfiction {Fan Fiction-arbete}
+    stories {Stories}
+    fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Här listas fristående berättelser. Om berättelsen är skriven som en del av ett universum kommer den att listas på universumsidan.',
     'blog.social.sameAsMain': `Sociala länkar är desamma som anges i {type, select,
     organization {organisationsinställningar}
     user {användarprofil}
