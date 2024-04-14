@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'सार्वजनिक दृश्य',
     'blog.post.notfound': 'ब्लॉग पोस्ट नहीं मिली',
     'blog.lists.works': `{type, select,
-    universes {ब्रह्माण्ड}
-    stories {स्वतंत्र कहानियाँ}
-    fanfiction {प्रशंसा कार्य}
+    universes {ब्रह्मांड}
+    stories {कहानियाँ}
+    fanfiction {फैन फिक्शन कार्य}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'यहाँ स्वतंत्र कथाएँ सूचीबद्ध हैं, यदि कहानी किसी ब्रह्मांड का हिस्सा के रूप में लिखी गई है तो वह ब्रह्मांड पृष्ठ पर सूचीबद्ध होगी।',
     'blog.social.sameAsMain': `सामाजिक संपर्क सेटिंग्स में सेट किए गए समान हैं जैसे कि {type, select,
     organization {संगठन सेटिंग्स}
     user {उपयोगकर्ता प्रोफ़ाइल}
