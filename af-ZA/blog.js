@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Blog plasing kon nie gevind word nie',
     'blog.lists.works': `{type, select,
     universes {Heelalle}
-    stories {Standom stories}
-    fanfiction {Fanfiksie-werk}
+    stories {Stories}
+    fanfiction {Fan Fiksie werk}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Hier is alleenstaande stories gelys. As \'n storie deel is van \'n heelal, sal dit op die heelal bladsy gelys word.',
     'blog.social.sameAsMain': `Sosiale skakels is dieselfde as ingestel in {type, select,
     organization {organisasie-instellings}
     user {gebruikersprofiel}
