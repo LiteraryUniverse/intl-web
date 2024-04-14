@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'ទិដ្ឋភាពសាធារណៈ',
     'blog.post.notfound': 'រកមិនឃើញប្លុកដែលត្រូវបានរកឃើញ',
     'blog.lists.works': `{type, select,
-    universes {សិល្បៈ}
-    stories {រឿងជាក់អោយ}
-    fanfiction {ប្អូនចម្រៀង}
+    universes {ជំនួយ}
+    stories {រឿង}
+    fanfiction {កូនស្លាប់ស្រីស្អាត}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'នេះគឺជាប្រធានបទអានាគេដែលអានជាផ្នែករបស់ជនរងភាពមួយនេះហានិនាជាប្រជាជនក្រោយពេលនេះ។',
     'blog.social.sameAsMain': `តោះធម្មតាឡើងវិញជាដើម្បីផ្ដល់ឱ្យអ្នកកាន់សម្រាប់ការតភ្ជាប់សង្គមដូចគ្នា ។ ទាំងនេះដូចគ្នា ចំរុះគ្នា ដោយស្ហោមការកំណត់ {type, select,
     organization {សង្គមនៅក្នុង}
     user {ការទិន្នន័យអ្នកប្រើ}
