@@ -28,11 +28,10 @@ export default {
     'blog.post.notfound': 'ブログの投稿が見つかりませんでした',
     'blog.lists.works': `{type, select,
     universes {宇宙}
-    stories {独立した物語}
+    stories {物語}
     fanfiction {ファンフィクション作品}
     other {}
-  }`,
-    'blog.lists.stories.disclaimer': 'ここに掲載されているのは独立した物語ですが、物語が宇宙の一部として書かれた場合は、宇宙のページに掲載されます。',
+  }を`,
     'blog.social.sameAsMain': `ソーシャルリンクは、{type, select,
     organization {組織設定}
     user {ユーザープロファイル}
