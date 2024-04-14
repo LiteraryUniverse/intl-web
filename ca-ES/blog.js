@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'No s\'ha trobat l\'entrada del blog',
     'blog.lists.works': `{type, select,
     universes {Universos}
-    stories {Històries independents}
-    fanfiction {Obra de fan fiction}
+    stories {Històries}
+    fanfiction {Obra de Fan Fiction}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Aquí es mostren les històries independents, si la història s\'ha escrit com a part d\'un univers, es mostrarà a la pàgina de l\'univers.',
     'blog.social.sameAsMain': `Els enllaços socials són els mateixos que els establerts a la {type, select,
     organization {configuració de l'organització}
     user {perfil d'usuari}
