@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Blog gönderisi bulunamadı',
     'blog.lists.works': `{type, select,
     universes {Evrenler}
-    stories {Bağımsız hikayeler}
+    stories {Hikayeler}
     fanfiction {Hayran Kurgu çalışması}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Burada bağımsız hikayeler listelenir, eğer hikaye bir evrenin bir parçası olarak yazıldıysa, evren sayfasında listelenir.',
     'blog.social.sameAsMain': `Sosyal bağlantılar {type, select,
     organization {kuruluş ayarları}
     user {kullanıcı profiliyle aynıdır}
