@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'יצירה עצמאית',
     'workshop.list.thumbs': 'רשימת תמונות ממוזערות',
     'workshop.list.list': 'רשימה קצרה',
-    'workshop.fanfiction.new': 'צור פאן פיקשן חדש'
+    'workshop.fanfiction.new': 'צור פאן פיקשן חדש',
+    'workshop.videoTrailerLink': 'קישור לטריילר הווידאו',
+    'workshop.videoTrailerPlayerTitle': 'נגן טריילר וידאו סיפור',
+    'workshop.videoTrailer.supportedPlaftorms': 'אנחנו תומכים ב-YouTube, Vimeo ו-Odysee',
+    'workshop.videoTrailer.rumble': 'אנחנו תומכים גם ב־Rumble, אבל זכור להעתיק את כתובת ה-IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'האם הפלטפורמה שלך לצפייה בסרטונים חסרה, הודיעו לנו דרך <a>משוב</a> שלנו!'
 };

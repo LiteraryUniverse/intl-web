@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': '자신의 작품',
     'workshop.list.thumbs': '썸네일 목록',
     'workshop.list.list': '간략한 목록',
-    'workshop.fanfiction.new': '새로운 팬픽션 만들기'
+    'workshop.fanfiction.new': '새로운 팬픽션 만들기',
+    'workshop.videoTrailerLink': '비디오 예고편 링크',
+    'workshop.videoTrailerPlayerTitle': '이야기 비디오 예고편 플레이어',
+    'workshop.videoTrailer.supportedPlaftorms': '우리는 Youtube, Vimeo 및 Odysee를 지원합니다',
+    'workshop.videoTrailer.rumble': '우리는 Rumble도 지원하지만, IFRAME URL을 복사하는 것을 기억하세요.',
+    'workshop.videoTrailer.suggestPlatforms': '비디오 플랫폼이 누락되었나요? <a>피드백</a>을 통해 알려주세요!'
 };

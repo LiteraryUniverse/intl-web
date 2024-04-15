@@ -34,7 +34,6 @@ export default {
     fanfiction {Fan Fikce}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Zde jsou pouze samostatné příběhy. Pokud byl příběh napsán jako součást vesmíru tak jej naleznete na stránce o daném vesmíru.',
     'blog.social.sameAsMain': `Odkazy na sociální sítě jsou jako v {type, select,
     organization {nastavení organizace}
     user {nastavení uživatelského profilu}

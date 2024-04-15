@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Karya sendiri',
     'workshop.list.thumbs': 'Daftar thumbnail',
     'workshop.list.list': 'Daftar singkat',
-    'workshop.fanfiction.new': 'Buat fan fiction baru'
+    'workshop.fanfiction.new': 'Buat fan fiction baru',
+    'workshop.videoTrailerLink': 'Tautan trailer video',
+    'workshop.videoTrailerPlayerTitle': 'Pemutar trailer video cerita',
+    'workshop.videoTrailer.supportedPlaftorms': 'Kami mendukung Youtube, Vimeo, dan Odysee',
+    'workshop.videoTrailer.rumble': 'Kami juga mendukung Rumble, tetapi ingat untuk menyalin URL IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Apakah platform video Anda tidak ada, beri tahu kami melalui <a>umpan balik</a> kami!'
 };

@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Afiŝo de la blogo ne troviĝis',
     'blog.lists.works': `{type, select,
     universes {Universoj}
-    stories {Sendependaj rakontoj}
+    stories {Rakontoj}
     fanfiction {Fanfikcio}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Ĉi tie aperas fajne staraj rakontoj, se la rakonto estas verkita kiel parto de kosmo tiam ĝi troviĝos en la paĝo de la kosmo.',
     'blog.social.sameAsMain': `Sociaj ligiloj estas samaj kiel agordite en {type, select,
     organization {agordoj de la organizo}
     user {uzantoprofilo}

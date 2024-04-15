@@ -27,13 +27,12 @@ export default {
     'blog.slug.explained': 'URL deas don post. Ná bain úsáid as carachtair speisialta ach amháin "-".',
     'blog.publicView': 'Radharc poiblí',
     'blog.post.notfound': 'Níor aimsíodh an post blag',
-    'blog.lists.works': `Nár Léigh {type, select,
-    universes {Domhainn}
-    stories {Scéalta Neamhspleách}
-    fanfiction {Obair Fiction Fan}
+    'blog.lists.works': `{type, select,
+    universes {Domhain}
+    stories {Scéalta}
+    fanfiction {Obair Ficsean na bhFán}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Seo ábhair neamhspleách, má scríobhadh an scéal mar chuid d\'uirlisí ansin cuirfear ar an leathanach domhainthreoir é.',
     'blog.social.sameAsMain': `Tá an nasc sóisialta céanna mar atá leagtha síos i {type, select,
     organization {socruithe an eagraíochta}
     user {próifíl úsáideora}

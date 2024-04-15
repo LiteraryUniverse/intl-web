@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'A blogbejegyzés nem található',
     'blog.lists.works': `{type, select,
     universes {Univerzumok}
-    stories {Önálló történetek}
-    fanfiction {Rajongói Szöveg}
+    stories {Történetek}
+    fanfiction {Fan Fiction mű}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Ebben a listában önálló történetek szerepelnek. Ha egy történet egy univerzum részeként van írva, akkor az univerzum oldalon kerül felsorolásra.',
     'blog.social.sameAsMain': `A közösségi linkek ugyanazok, mint amik a {type, select,
     organization {szervezeti beállításokban vannak beállítva}
     user {felhasználói profilban}

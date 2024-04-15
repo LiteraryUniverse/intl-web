@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'പൊതുവെ കാഴ്ച്ച',
     'blog.post.notfound': 'ബ്ലോഗ് പോസ്റ്റ് കണ്ടെത്തിയില്ല',
     'blog.lists.works': `{type, select,
-    universes {യൂണിവേഴ്സ്}
-    stories {സ്വതന്ത്ര കഥകൾ}
-    fanfiction {ഫാൻ ഫിക്ഷൻ കാര്യം}
+    universes {യൂണിവേഴ്സുകൾ}
+    stories {കഥകൾ}
+    fanfiction {ഫാൻ ഫിക്ഷൻ പ്രവർത്തനം}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'ഇവിടെ സ്വതന്ത്ര കഥകൾ നിർവ്വചനങ്ങൾ ആണ്, കഥ ഒരു യൂണിവേഴ്സിന്റെ ഭാഗമായാണെങ്കിൽ അത് യൂണിവേഴ്സ് പേജിൽ പട്ടികിൽ കാണാനാകും.',
     'blog.social.sameAsMain': `സോഷ്യൽ ലിങ്കുകൾ എഴുതേണ്ടത് {type, select,
     organization {ഓർഗനൈസേഷൻ ക്രമങ്ങളിൽ അമർത്താൻ}
     user {ഉപയോക്തൃ പ്രൊഫൈൽ ക്രമങ്ങളിൽ}

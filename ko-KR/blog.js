@@ -28,12 +28,11 @@ export default {
     'blog.publicView': '공개 뷰',
     'blog.post.notfound': '블로그 글을 찾을 수 없습니다',
     'blog.lists.works': `{type, select,
-    universes {우주}
-    stories {독립적인 이야기들}
-    fanfiction {팬픽션 작품들}
+    universes {우주들}
+    stories {이야기들}
+    fanfiction {팬픽션 작품}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': '여기에는 독립적인 이야기가 나와 있으며, 이야기가 우주의 일부로 쓰여진 경우에는 우주 페이지에 나열됩니다.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}

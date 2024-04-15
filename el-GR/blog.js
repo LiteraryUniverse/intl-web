@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Η ανάρτηση blog δεν βρέθηκε',
     'blog.lists.works': `{type, select,
     universes {Σύμπαντα}
-    stories {Αυτόνομες ιστορίες}
-    fanfiction {Έργα fan fiction}
+    stories {Ιστορίες}
+    fanfiction {Έργο fan fiction}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Εδώ παρατίθενται ανεξάρτητες ιστορίες. Εάν η ιστορία έχει γραφεί ως μέρος ενός σύμπαντος, τότε θα παρατίθεται στη σελίδα του σύμπαντος.',
     'blog.social.sameAsMain': `Οι κοινωνικοί σύνδεσμοι είναι οι ίδιοι με αυτούς που έχουν οριστεί στις ρυθμίσεις του οργανισμού {type, select,
     organization {και στο προφίλ χρήστη}
     user {}

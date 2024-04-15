@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'પોતે કામ',
     'workshop.list.thumbs': 'થંબનેલ યાદી',
     'workshop.list.list': 'ટૂંકી યાદી',
-    'workshop.fanfiction.new': 'નવી ફેન ફિક્શન બનાવો'
+    'workshop.fanfiction.new': 'નવી ફેન ફિક્શન બનાવો',
+    'workshop.videoTrailerLink': 'વિડિયો ટ્રેલર લિંક',
+    'workshop.videoTrailerPlayerTitle': 'કથા વિડિયો ટ્રેલર પ્લેયર',
+    'workshop.videoTrailer.supportedPlaftorms': 'અમે Youtube, Vimeo અને Odysee ની આધારિત પ્લેટફોર્મ સપોર્ટ કરીએ છીએ',
+    'workshop.videoTrailer.rumble': 'અમે પણ રંબલની સપોર્ટ કરીએ છીએ, પરંતુ યાદ રાખવું કે IFRAME URL કૉપી કરવી જોઈએ.',
+    'workshop.videoTrailer.suggestPlatforms': 'શું તમારી વિડિયો પ્લેટફોર્મ અનુપસ્થિત છે, તો અમને જણાવો આપવામાં આવે છે મારફતે <a>પ્રતિસાદ</a>!'
 };

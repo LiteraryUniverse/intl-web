@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'თქვენი თავისუფლება',
     'workshop.list.thumbs': 'მინიატურების სია',
     'workshop.list.list': 'მოკლე სია',
-    'workshop.fanfiction.new': 'შექმენით ახალი ფანფიქშენი'
+    'workshop.fanfiction.new': 'შექმენით ახალი ფანფიქშენი',
+    'workshop.videoTrailerLink': 'ვიდეო ტრეილერის ბმული',
+    'workshop.videoTrailerPlayerTitle': 'სიმართლის ვიდეო ტრეილერის პლეიერი',
+    'workshop.videoTrailer.supportedPlaftorms': 'ჩვენ გვხვდება Youtube, Vimeo და Odysee',
+    'workshop.videoTrailer.rumble': 'ჩვენ ასევე გვეხმარებათ Rumble-ს, მაგრამ არ დაგვიკავშირდეთ იმის დაკოპირებისას IFRAME URL-ს.',
+    'workshop.videoTrailer.suggestPlatforms': 'თქვენი ვიდეო პლატფორმა არაა მოცემული, გთხოვთ გამოგვყევით ჩვენს <a>კავშირთავის</a>!'
 };

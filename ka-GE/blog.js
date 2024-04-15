@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'ბლოგის პოსტი ვერ მოიძებნა',
     'blog.lists.works': `{type, select,
     universes {უნივერსები}
-    stories {ცილებიანი ამბები}
-    fanfiction {ფან ფიქრის ტრელბში}
+    stories {მოთხოვნები}
+    fanfiction {ფან ფიქშენი}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'აქ მარცხენათვალია ცალკე ამოცანები. თუ ამოცანა წესებითაა ჩაწერილი, მაშინ ის ჩამოინახება უნივერსის გვერდზე.',
     'blog.social.sameAsMain': `სოციალური ბმულები იგივეა, როგორც {type, select,
     organization {ორგანიზაციის პარამეტრების შეცვლაში}
     user {მომხმარებლის პროფილში}

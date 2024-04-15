@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Eget arbete',
     'workshop.list.thumbs': 'Miniatyrbildslista',
     'workshop.list.list': 'Kort lista',
-    'workshop.fanfiction.new': 'Skapa en ny fanfiction'
+    'workshop.fanfiction.new': 'Skapa en ny fanfiction',
+    'workshop.videoTrailerLink': 'Länk till videotrailer',
+    'workshop.videoTrailerPlayerTitle': 'Spelare för story-videotrailer',
+    'workshop.videoTrailer.supportedPlaftorms': 'Vi stödjer Youtube, Vimeo och Odysee',
+    'workshop.videoTrailer.rumble': 'Vi stödjer också Rumble, men kom ihåg att kopiera IFRAME-URL:en.',
+    'workshop.videoTrailer.suggestPlatforms': 'Saknas din videoplattform? Meddela oss via vår <a>feedback</a>!'
 };

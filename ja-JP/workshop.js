@@ -269,5 +269,10 @@ export default {
     'workshop.ownWork': '自分の作品',
     'workshop.list.thumbs': 'サムネイルリスト',
     'workshop.list.list': '短いリスト',
-    'workshop.fanfiction.new': '新しいファンフィクションを作成する'
+    'workshop.fanfiction.new': '新しいファンフィクションを作成する',
+    'workshop.videoTrailerLink': 'ビデオトレーラーリンク',
+    'workshop.videoTrailerPlayerTitle': 'ストーリービデオトレーラープレーヤー',
+    'workshop.videoTrailer.supportedPlaftorms': 'Youtube、Vimeo、およびOdyseeをサポートしています',
+    'workshop.videoTrailer.rumble': 'また、Rumbleもサポートしていますが、IFRAMEのURLをコピーすることを忘れないでください。',
+    'workshop.videoTrailer.suggestPlatforms': 'ビデオプラットフォームが見つからない場合は、<a>フィードバック</a>を通じてお知らせください！'
 };

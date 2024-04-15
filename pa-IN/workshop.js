@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'ਆਪਣੀ ਮਿਹਨਤ',
     'workshop.list.thumbs': 'ਥੰਮਨੇਲ ਸੂਚੀ',
     'workshop.list.list': 'ਛੋਟੀ ਸੂਚੀ',
-    'workshop.fanfiction.new': 'ਇੱਕ ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ'
+    'workshop.fanfiction.new': 'ਇੱਕ ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ',
+    'workshop.videoTrailerLink': 'ਵੀਡੀਓ ਟਰੇਲਰ ਲਿੰਕ',
+    'workshop.videoTrailerPlayerTitle': 'ਕਹਾਣੀ ਵੀਡੀਓ ਟਰੇਲਰ ਪਲੇਅਰ',
+    'workshop.videoTrailer.supportedPlaftorms': 'ਅਸੀਂ Youtube, Vimeo ਅਤੇ Odysee ਨੂੰ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ',
+    'workshop.videoTrailer.rumble': 'ਅਸੀਂ ਰੰਬਲ ਵੀ ਸਹਿਯੋਗ ਕਰਦੇ ਹਾਂ, ਪਰ ਯਾਦ ਰੱਖੋ ਕਿ IFRAME URL ਕਾਪੀ ਕਰਨੀ ਹੈ।',
+    'workshop.videoTrailer.suggestPlatforms': 'ਕੀ ਤੁਹਾਡੇ ਵੀਡੀਓ ਪਲੇਟਫਾਰਮ ਵਿੱਚ ਕੋਈ ਗਲਤੀ ਹੈ, ਸਾਨੂੰ ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਸਾਡੇ <a>ਫੀਡਬੈਕ</a> ਦੁਆਰਾ!'
 };

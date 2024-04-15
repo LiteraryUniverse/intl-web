@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Công việc của bạn',
     'workshop.list.thumbs': 'Danh sách hình thu nhỏ',
     'workshop.list.list': 'Danh sách ngắn',
-    'workshop.fanfiction.new': 'Tạo một fan fiction mới'
+    'workshop.fanfiction.new': 'Tạo một fan fiction mới',
+    'workshop.videoTrailerLink': 'Liên kết video trailer',
+    'workshop.videoTrailerPlayerTitle': 'Trình phát video trailer câu chuyện',
+    'workshop.videoTrailer.supportedPlaftorms': 'Chúng tôi hỗ trợ Youtube, Vimeo và Odysee',
+    'workshop.videoTrailer.rumble': 'Chúng tôi cũng hỗ trợ Rumble, nhưng hãy nhớ sao chép URL IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Nếu nền tảng video của bạn bị thiếu, hãy cho chúng tôi biết qua <a>phản hồi</a> của chúng tôi!'
 };

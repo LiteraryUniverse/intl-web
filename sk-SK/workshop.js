@@ -284,5 +284,10 @@ export default {
     'workshop.ownWork': 'Vlastné dielo',
     'workshop.list.thumbs': 'Zoznam miniatúr',
     'workshop.list.list': 'Krátky zoznam',
-    'workshop.fanfiction.new': 'Vytvoriť novú fan fiction'
+    'workshop.fanfiction.new': 'Vytvoriť novú fan fiction',
+    'workshop.videoTrailerLink': 'Odkaz na video ukážku',
+    'workshop.videoTrailerPlayerTitle': 'Prehrávač video ukážky príbehu',
+    'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee',
+    'workshop.videoTrailer.rumble': 'Podporujeme aj Rumble, ale nezabudnite skopírovať IFRAME URL.',
+    'workshop.videoTrailer.suggestPlatforms': 'Ak chýba vaša video platforma, dajte nám vedieť cez našu <a>spätnú väzbu</a>!'
 };

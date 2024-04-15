@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Own work',
     'workshop.list.thumbs': 'Thumbnails list',
     'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction'
+    'workshop.fanfiction.new': 'Create a new fan fiction',
+    'workshop.videoTrailerLink': 'ଭିଡିଓ ଟ୍ରେଲର ଲିଙ୍କ',
+    'workshop.videoTrailerPlayerTitle': 'କାହାଣୀ ଭିଡିଓ ଟ୍ରେଲର ପ୍ଲେୟର',
+    'workshop.videoTrailer.supportedPlaftorms': 'ଆମେ Youtube, Vimeo ଏବଂ Odysee କୁ ସମର୍ଥନ କରୁଛି',
+    'workshop.videoTrailer.rumble': 'ଆମେ ରମ୍ବଲରେ ପ୍ରବଣ ଅଟେ, କିନ୍ତୁ ମୁଆଁ IFRAME URL କପି କରିବାକୁ ମତ୍ତରି ହେବ।',
+    'workshop.videoTrailer.suggestPlatforms': 'ଆପଣଙ୍କ ଭିଡ଼ିଓ ପ୍ଲାଟଫରମ କାହାକୁ ଅଭାବରେ ଅଛି, ଆମକୁ ଜଣାନ୍ତୁ ଆମ <a>ପ୍ରତିପାଦନ</a> ଦ୍ୱାରା!'
 };

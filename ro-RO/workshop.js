@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Lucrare proprie',
     'workshop.list.thumbs': 'Listă de miniaturi',
     'workshop.list.list': 'Listă scurtă',
-    'workshop.fanfiction.new': 'Creați o nouă fan fiction'
+    'workshop.fanfiction.new': 'Creați o nouă fan fiction',
+    'workshop.videoTrailerLink': 'Link către trailerul video',
+    'workshop.videoTrailerPlayerTitle': 'Player pentru trailerul video al poveștii',
+    'workshop.videoTrailer.supportedPlaftorms': 'Noi susținem Youtube, Vimeo și Odysee',
+    'workshop.videoTrailer.rumble': 'Noi susținem și Rumble, dar nu uitați să copiați URL-ul IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Platforma ta video lipsește, anunță-ne prin <a>feedback</a>!'
 };

@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Propra laboro',
     'workshop.list.thumbs': 'Listo de miniaturoj',
     'workshop.list.list': 'Mallonga listo',
-    'workshop.fanfiction.new': 'Krei novan fanfikcion'
+    'workshop.fanfiction.new': 'Krei novan fanfikcion',
+    'workshop.videoTrailerLink': 'Ligilo al video-trailero',
+    'workshop.videoTrailerPlayerTitle': 'Ludilo por video-trailero de rakonto',
+    'workshop.videoTrailer.supportedPlaftorms': 'Ni subtenas Youtube, Vimeo kaj Odysee',
+    'workshop.videoTrailer.rumble': 'Ni ankaŭ subtenas Rumble, sed memoru kopii la IFRAME URL-on.',
+    'workshop.videoTrailer.suggestPlatforms': 'Ĉu via video-platformo mankas, informu nin per nia <a>opinio</a>!'
 };

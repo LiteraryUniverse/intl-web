@@ -34,7 +34,6 @@ export default {
     fanfiction {Fan Fiction práca}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Tu sú uvedené samostatné príbehy, ak bol príbeh napísaný ako súčasť univerza, bude uvedený na stránke univerza.',
     'blog.social.sameAsMain': `Sociálne prepojenia sú rovnaké, ako sú nastavené v {type, select,
     organization {nastaveniach organizácie}
     user {profile používateľa}

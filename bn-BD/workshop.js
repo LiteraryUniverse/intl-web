@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'নিজের কাজ',
     'workshop.list.thumbs': 'থাম্বনেইল তালিকা',
     'workshop.list.list': 'সংক্ষিপ্ত তালিকা',
-    'workshop.fanfiction.new': 'একটি নতুন ফ্যান ফিকশন তৈরি করুন'
+    'workshop.fanfiction.new': 'একটি নতুন ফ্যান ফিকশন তৈরি করুন',
+    'workshop.videoTrailerLink': 'ভিডিও ট্রেলার লিঙ্ক',
+    'workshop.videoTrailerPlayerTitle': 'গল্প ভিডিও ট্রেলার প্লেয়ার',
+    'workshop.videoTrailer.supportedPlaftorms': 'আমরা Youtube, Vimeo এবং Odysee সমর্থন করি',
+    'workshop.videoTrailer.rumble': 'আমরা এছাড়াও Rumble সমর্থন করি, কিন্তু মনে রাখবেন IFRAME URL কপি করতে।',
+    'workshop.videoTrailer.suggestPlatforms': 'আপনার ভিডিও প্ল্যাটফর্ম কি অনুপস্থিত, আমাদের <a>মতামত</a> দিন!'
 };

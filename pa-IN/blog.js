@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'ਬਲਾਗ ਪੋਸਟ ਨਹੀਂ ਲੱਭੀ',
     'blog.lists.works': `{type, select,
     universes {ਯੂਨੀਵਰਸ}
-    stories {ਸਟੈਂਡਅਲੋਨ ਕਹਾਣੀਆਂ}
+    stories {ਕਹਾਣੀਆਂ}
     fanfiction {ਫੈਨ ਫਿਕਸ਼ਨ ਕੰਮ}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'ਇੱਥੇ ਵੱਖ-ਵੱਖ ਕਹਾਣੀਆਂ ਦੀ ਸੂਚੀ ਹਨ, ਜੇ ਕਹਾਣੀ ਕਿਸੇ ਯੂਨੀਵਰਸ ਦਾ ਹਿੱਸਾ ਹੈ ਤਾਂ ਉਹ ਯੂਨੀਵਰਸ ਪੇਜ ਤੇ ਸੂਚੀਬੱਧ ਕੀਤੀ ਜਾਵੇਗੀ।',
     'blog.social.sameAsMain': `ਸੋਸ਼ਲ ਲਿੰਕ ਮੁੱਖ ਸੈਟਿੰਗਾਂ ਦੇ ਤਰੀਕੇ ਨਾਲ ਸਮਾਨ ਹਨ ਜੋ ਉਪਭੋਗਤਾ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਸੈਟ ਕੀਤੇ ਗਏ ਹਨ {type, select,
     organization {ਸੰਗਠਨ ਸੈਟਿੰਗਾਂ}
     user {ਯੂਜ਼ਰ ਪ੍ਰੋਫਾਈਲ}

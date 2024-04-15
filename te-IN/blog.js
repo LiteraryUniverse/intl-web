@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'పబ్లిక్ వీక్షణ',
     'blog.post.notfound': 'బ్లాగ్ పోస్టు కనపడలేదు',
     'blog.lists.works': `{type, select,
-    universes {యూనివర్స్లు}
-    stories {స్వతంత్ర కథలు}
-    fanfiction {ఫ్యాన్ ఫిక్షన్ పని}
+    universes {యూనివర్స్}
+    stories {కథలు}
+    fanfiction {ఫాన్ ఫిక్షన్ పని}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'ఇక్కడ స్వతంత్ర కథలు ఉంటాయి. ఉనికి కథనం మా యూనివర్సు పేజీలో చూపించబడతాయి.',
     'blog.social.sameAsMain': `సామాజిక లింక్స్ ముఖ్య సెట్ చేసినందున ఒకే అవస్థలో ఉన్నాయి {type, select,
     organization {సంస్థ సెట్టింగ్లలో}
     user {వాడుకరి ప్రొఫైల్లో}

@@ -27,12 +27,11 @@ export default {
     'blog.publicView': 'Öffentliche Ansicht',
     'blog.post.notfound': 'Blogbeitrag wurde nicht gefunden',
     'blog.lists.works': `{type, select,
-    universes {Universen}
-    stories {Alleinstehende Geschichten}
-    fanfiction {Fan-Fiction funktioniert}
+    universes {Universes}
+    stories {Stories}
+    fanfiction {Fan Fiction work}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Wenn die Geschichte als Teil eines Universums geschrieben wurde, wird sie auf der Universumsseite aufgelistet.',
     'blog.social.sameAsMain': `Soziale Links sind die gleichen wie in {type, select,
     organization {Organisationseinstellungen}
     user {Benutzerprofil}

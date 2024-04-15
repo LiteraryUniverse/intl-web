@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Eigen werk',
     'workshop.list.thumbs': 'Lijst met miniaturen',
     'workshop.list.list': 'Korte lijst',
-    'workshop.fanfiction.new': 'Maak een nieuwe fanfictie'
+    'workshop.fanfiction.new': 'Maak een nieuwe fanfictie',
+    'workshop.videoTrailerLink': 'Video trailer link',
+    'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
+    'workshop.videoTrailer.supportedPlaftorms': 'We ondersteunen Youtube, Vimeo en Odysee',
+    'workshop.videoTrailer.rumble': 'We ondersteunen ook Rumble, maar vergeet niet om de IFRAME URL te kopiëren.',
+    'workshop.videoTrailer.suggestPlatforms': 'Ontbreekt jouw videoplatform? Laat het ons weten via onze <a>feedback</a>!'
 };

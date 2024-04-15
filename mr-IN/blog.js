@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'सार्वजनिक दृश्य',
     'blog.post.notfound': 'ब्लॉग प्रतिलेख सापडला नाही',
     'blog.lists.works': `{type, select,
-    universes {यूनिवर्स}
-    stories {स्वतंत्र कथा}
+    universes {युनिवर्स}
+    stories {कथा}
     fanfiction {फॅन फिक्शन काम}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'येथे एकाच विश्वातील स्वतंत्र कथांची यादी दिली गेली आहे, जर कथा एक विश्वाचा एक भागाच्या रूपात लिहली गेली असेल तर ही विश्व कथांची यादी विश्वाच्या पृष्ठावर दिली गेली आहे.',
     'blog.social.sameAsMain': `सोशल लिंक्स त्यांचे सेट केलेले आहेत ज्यामुळे त्यांनी सेट केलेले आहे त्यामुळे {type, select,
     organization {संघटना सेटिंग्ज}
     user {वापरकर्ता प्रोफाइल}

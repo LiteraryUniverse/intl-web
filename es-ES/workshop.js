@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Mis propias obras',
     'workshop.list.thumbs': 'Lista de miniaturas',
     'workshop.list.list': 'Lista acortada',
-    'workshop.fanfiction.new': 'Crear una nueva fanficción'
+    'workshop.fanfiction.new': 'Crear una nueva fanficción',
+    'workshop.videoTrailerLink': 'Enlace del tráiler de video',
+    'workshop.videoTrailerPlayerTitle': 'Reproductor del tráiler de video de la historia',
+    'workshop.videoTrailer.supportedPlaftorms': 'Soportamos Youtube, Vimeo y Odysee',
+    'workshop.videoTrailer.rumble': 'También ofrecemos soporte para Rumble, pero recuerda copiar la URL del IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': '¿Falta tu plataforma de video? ¡Háznoslo saber a través de nuestra <a>retroalimentación</a>!'
 };

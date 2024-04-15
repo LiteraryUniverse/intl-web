@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Postarea blogului nu a fost găsită',
     'blog.lists.works': `{type, select,
     universes {Universuri}
-    stories {Povești independente}
-    fanfiction {Lucrări Fan Fiction}
+    stories {Povestiri}
+    fanfiction {Lucrare Fan Fiction}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Aici sunt prezentate povestiri independente; dacă o poveste a fost scrisă ca parte a unui univers, aceasta va fi prezentată pe pagina universului.',
     'blog.social.sameAsMain': `Linkurile sociale sunt aceleași ca cele setate în {type, select,
     organization {setările organizației}
     user {profilul utilizatorului}

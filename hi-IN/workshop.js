@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'अपना काम',
     'workshop.list.thumbs': 'थंबनेल सूची',
     'workshop.list.list': 'संक्षेप सूची',
-    'workshop.fanfiction.new': 'एक नई फैन फिक्शन बनाएं'
+    'workshop.fanfiction.new': 'एक नई फैन फिक्शन बनाएं',
+    'workshop.videoTrailerLink': 'वीडियो ट्रेलर लिंक',
+    'workshop.videoTrailerPlayerTitle': 'स्टोरी वीडियो ट्रेलर प्लेयर',
+    'workshop.videoTrailer.supportedPlaftorms': 'हम Youtube, Vimeo और Odysee का समर्थन करते हैं',
+    'workshop.videoTrailer.rumble': 'हम रंबल का समर्थन भी करते हैं, लेकिन याद रखें कि IFRAME URL की प्रतिलिपि करें।',
+    'workshop.videoTrailer.suggestPlatforms': 'क्या आपके वीडियो प्लेटफ़ॉर्म में कोई कमी है, हमें हमारे <a>सुझाव</a> के माध्यम से बताएं!'
 };

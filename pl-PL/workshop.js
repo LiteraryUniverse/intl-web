@@ -277,5 +277,10 @@ export default {
     'workshop.ownWork': 'Własna praca',
     'workshop.list.thumbs': 'Lista miniatur',
     'workshop.list.list': 'Krótka lista',
-    'workshop.fanfiction.new': 'Utwórz nowe tłumaczenie'
+    'workshop.fanfiction.new': 'Utwórz nowe tłumaczenie',
+    'workshop.videoTrailerLink': 'Link do zwiastuna wideo',
+    'workshop.videoTrailerPlayerTitle': 'Odtwarzacz zwiastuna wideo',
+    'workshop.videoTrailer.supportedPlaftorms': 'Wspieramy Youtube, Vimeo i Odysee',
+    'workshop.videoTrailer.rumble': 'Wspieramy również Rumble, ale pamiętaj, aby skopiować URL IFRAME.',
+    'workshop.videoTrailer.suggestPlatforms': 'Czy brakuje Twojej platformy wideo? Daj nam znać za pośrednictwem naszej <a>informacji zwrotnej</a>!'
 };

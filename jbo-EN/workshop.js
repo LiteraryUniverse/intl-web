@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'do\'e gunka',
     'workshop.list.thumbs': 'lo liste be lo nu cilre',
     'workshop.list.list': 'lo liste',
-    'workshop.fanfiction.new': 'lo nu creka lo fanva'
+    'workshop.fanfiction.new': 'lo nu creka lo fanva',
+    'workshop.videoTrailerLink': 'Link la video trailer',
+    'workshop.videoTrailerPlayerTitle': 'Plisoi la video trailer la pelxu',
+    'workshop.videoTrailer.supportedPlaftorms': 'mi pu\'o sidju le Youtube, le Vimeo je le Odysee',
+    'workshop.videoTrailer.rumble': 'mi\'e la .lojban.',
+    'workshop.videoTrailer.suggestPlatforms': 'Cyxu\'o la\'o gy. Is your video platform missing, let us know via our <a>feedback</a>! gy.'
 };

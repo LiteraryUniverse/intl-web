@@ -29,12 +29,11 @@ export default {
     'blog.publicView': 'Публичный просмотр',
     'blog.post.notfound': 'Публикация блога не найдена',
     'blog.lists.works': `{type, select,
-    universes {Вселенные}
-    stories {Отдельные истории}
-    fanfiction {Произведений в жанре фанфика}
+    universes {Универсумы}
+    stories {Истории}
+    fanfiction {Фанфик}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Здесь перечислены отдельные истории, если история была написана как часть вселенной, то она будет указана на странице вселенной.',
     'blog.social.sameAsMain': `Социальные ссылки такие же, как установлены в {type, select,
     organization {настройках организации}
     user {профиле пользователя}

@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'มุมมองสาธารณะ',
     'blog.post.notfound': 'ไม่พบโพสต์บล็อก',
     'blog.lists.works': `{type, select,
-    universes {ยูนิเวิร์ส}
-    stories {เรื่องสั้น}
-    fanfiction {งานแฟนฟิค}
+    universes {ของจักรวาล}
+    stories {เรื่องราว}
+    fanfiction {งานนิยายแฟนตาซี}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'นี่คือเรื่องเล่าเป็นประกอบของเรื่องราวแยกต่างหาก ถ้าเรื่องเป็นส่วนหนึ่งของจักรวาล จะระบุไว้ในหน้าแยกของจักรวาล',
     'blog.social.sameAsMain': `ลิงค์ทางสังคมเหมือนกับที่ตั้งค่า {type, select,
     organization {การตั้งค่าองค์กร}
     user {โปรไฟล์ผู้ใช้งาน}

@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Oma töö',
     'workshop.list.thumbs': 'Pisipiltide loend',
     'workshop.list.list': 'Lühike loend',
-    'workshop.fanfiction.new': 'Loo uus fännifiktsioon'
+    'workshop.fanfiction.new': 'Loo uus fännifiktsioon',
+    'workshop.videoTrailerLink': 'Videotreileri link',
+    'workshop.videoTrailerPlayerTitle': 'Loo videotreileri mängija',
+    'workshop.videoTrailer.supportedPlaftorms': 'Toetame Youtube\'i, Vimeot ja Odyseed',
+    'workshop.videoTrailer.rumble': 'Toetame ka Rumble\'i, kuid ära unusta IFRAME URL-i kopeerida.',
+    'workshop.videoTrailer.suggestPlatforms': 'Kas sinu videplatvorm puudub? Anna meile teada meie <a>tagasiside</a> kaudu!'
 };

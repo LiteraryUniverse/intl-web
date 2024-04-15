@@ -29,11 +29,10 @@ export default {
     'blog.post.notfound': 'Пост блогу не знайдено',
     'blog.lists.works': `{type, select,
     universes {Всесвіти}
-    stories {Самостійні історії}
-    fanfiction {Фанфікшн роботи}
+    stories {Історії}
+    fanfiction {Робота фанфіку}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Тут перераховані самостійні історії, якщо історія була написана як частина всесвіту, то вона буде перерахована на сторінці всесвіту.',
     'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}

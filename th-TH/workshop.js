@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'งานของคุณเอง',
     'workshop.list.thumbs': 'รายการรูปขนาดย่อ',
     'workshop.list.list': 'รายการย่อ',
-    'workshop.fanfiction.new': 'สร้างนิยายแฟนฟิคใหม่'
+    'workshop.fanfiction.new': 'สร้างนิยายแฟนฟิคใหม่',
+    'workshop.videoTrailerLink': 'ลิงก์วิดีโอตัวอย่าง',
+    'workshop.videoTrailerPlayerTitle': 'เครื่องเล่นวิดีโอตัวอย่างเรื่องราว',
+    'workshop.videoTrailer.supportedPlaftorms': 'เราสนับสนุน Youtube, Vimeo และ Odysee',
+    'workshop.videoTrailer.rumble': 'เรายังสนับสนุน Rumble ด้วย แต่อย่าลืมคัดลอก URL ของ IFRAME',
+    'workshop.videoTrailer.suggestPlatforms': 'หากแพลตฟอร์มวิดีโอของคุณหายไป โปรดแจ้งให้เราทราบผ่านทาง <a>คำติชม</a> ของเรา!'
 };

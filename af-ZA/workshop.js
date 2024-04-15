@@ -281,5 +281,10 @@ export default {
     'workshop.ownWork': 'Eie werk',
     'workshop.list.thumbs': 'Duimnaillys',
     'workshop.list.list': 'Kort lys',
-    'workshop.fanfiction.new': 'Skep \'n nuwe fanfiksie'
+    'workshop.fanfiction.new': 'Skep \'n nuwe fanfiksie',
+    'workshop.videoTrailerLink': 'Skakel na video-aankondiging',
+    'workshop.videoTrailerPlayerTitle': 'Spel video-aankondigingspeler',
+    'workshop.videoTrailer.supportedPlaftorms': 'Ons ondersteun Youtube, Vimeo en Odysee',
+    'workshop.videoTrailer.rumble': 'Ons ondersteun ook Rumble, maar onthou om die IFRAME URL te kopieer.',
+    'workshop.videoTrailer.suggestPlatforms': 'Is jou video platform afwesig, laat ons weet via ons <a>terugvoer</a>!'
 };

@@ -28,12 +28,11 @@ export default {
     'blog.publicView': 'Pampublikong tanawin',
     'blog.post.notfound': 'Hindi natagpuan ang blog post',
     'blog.lists.works': `{type, select,
-    universes {Mga Universe}
-    stories {Mga standalone na kuwento}
-    fanfiction {Fan Fiction na gawain}
+    universes {Mga Uniberso}
+    stories {Mga Kuwento}
+    fanfiction {Fan Fiction na gawa}
     other {}
   }`,
-    'blog.lists.stories.disclaimer': 'Narito ang mga hiwalay na kuwento, kung ang kuwento ay isinulat bilang bahagi ng isang universe, ito ay ililista sa pahina ng universe.',
     'blog.social.sameAsMain': `Ang mga social link ay katulad ng naka-set sa {type, select,
     organization {mga setting ng organisasyon}
     user {profile ng user}
