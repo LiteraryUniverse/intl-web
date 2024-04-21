@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2024-04-22 - v2.12.2
+
+* Added `writer.characterCount`
+* Update Meteor version from for the latest 3.0-rc.0
+
 ## 2024-03-10 - v2.12.1
 
 * `story.status.inProgress` term updated
