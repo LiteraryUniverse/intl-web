@@ -282,9 +282,11 @@ export default {
   },
   allSupportedLocales(): string[] {
     const supported = []
-    this.languages.forEach((lang) =>
-      lang.supportedLocales.forEach((locale) => supported.push(locale))
-    )
+    for (const lang of this.languages) {
+      for (const locale of lang.supportedLocales) {
+        supported.push(locale)
+      }
+    }
     return supported
   },
   supportedLocalesForLanguage(languageCode: string): string[] {
