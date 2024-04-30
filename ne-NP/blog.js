@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'परिचय अनुच्छेद',
     'blog.post.writtenBy': '{usernameDisplay}द्वारा लेखित',
     'blog.post.writtenByFor': '{usernameDisplay} द्वारा लेखित {publicationName}को लागि',
-    'blog.posts.recent': 'आधुनिक पोष्टहरू'
+    'blog.posts.recent': 'आधुनिक पोष्टहरू',
+    'blog.statsPage': 'ब्लग तथ्यांक'
 };
