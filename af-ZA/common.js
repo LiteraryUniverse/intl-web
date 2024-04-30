@@ -260,5 +260,5 @@ export default {
     'console.stop': 'Stop!',
     'console.explain': 'Hierdie is \'n blaaier eienskap bedoel vir ontwikkelaars. As iemand jou vertel het om iets hier te kopieer en plak om \'n Literêre Heelal eienskap te aktiveer of iemand se rekening te "hack", is dit \'n bedrog en sal dit hulle toegang gee tot jou Literêre Heelal rekening.',
     'common.coping': 'Kopiëring...',
-    'common.actions': 'Actions'
+    'common.actions': 'Aksies'
 }    /* eslint-enable max-len */;
