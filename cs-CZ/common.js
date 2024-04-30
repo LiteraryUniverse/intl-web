@@ -260,5 +260,5 @@ export default {
     'console.stop': 'STOP! Zastavte!',
     'console.explain': 'Toto je funkce prohlížeče určená pro vývojáře. Pokud vám někdo řekl, abyste sem něco zkopírovali, abyste povolili funkci Literary Universe nebo "hackovali" něčí účet, jedná se o podvod a tímto získá přístup k vašemu účtu.',
     'common.coping': 'Kopírování...',
-    'common.actions': 'Actions'
+    'common.actions': 'Akce'
 }    /* eslint-enable max-len */;
