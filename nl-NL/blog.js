@@ -52,5 +52,6 @@ export default {
     'blog.post.introText': 'Inleidende alinea',
     'blog.post.writtenBy': 'Geschreven door {usernameDisplay}',
     'blog.post.writtenByFor': 'Geschreven door {usernameDisplay} voor {publicationName}',
-    'blog.posts.recent': 'Recente berichten'
+    'blog.posts.recent': 'Recente berichten',
+    'blog.statsPage': 'Blog statistieken'
 };
