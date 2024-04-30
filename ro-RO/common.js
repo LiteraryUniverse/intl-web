@@ -259,5 +259,6 @@ export default {
     'common.back': 'Înapoi',
     'console.stop': 'Oprește-te!',
     'console.explain': 'Aceasta este o funcționalitate a browserului destinată dezvoltatorilor. Dacă cineva ți-a spus să copiezi și să lipești ceva aici pentru a activa o funcționalitate a Universului Literar sau pentru a "hăcui" contul cuiva, este o înșelătorie și le va oferi acces la contul tău de Univers Literar.',
-    'common.coping': 'Copiere...'
+    'common.coping': 'Copiere...',
+    'common.actions': 'Actions'
 }    /* eslint-enable max-len */;
