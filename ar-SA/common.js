@@ -260,5 +260,5 @@ export default {
     'console.stop': 'توقف!',
     'console.explain': 'هذه ميزة مستعرض مخصصة للمطورين. إذا قال لك شخص ما أن تنسخ وتلصق شيئًا هنا لتمكين ميزة في الكون الأدبي أو "اختراق" حساب شخص ما، فهذا عمل احتيالي وسيمنحهم الوصول إلى حسابك في الكون الأدبي.',
     'common.coping': 'نسخ...',
-    'common.actions': 'Actions'
+    'common.actions': 'الإجراءات'
 }    /* eslint-enable max-len */;
