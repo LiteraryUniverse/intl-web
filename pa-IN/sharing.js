@@ -19,5 +19,6 @@ export default {
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr',
     'sharing.minds': 'ਮਾਈੰਡਸ.ਕਾਮ',
-    'sharing.instagram': 'ਇੰਸਟਾਗਰਾਮ'
+    'sharing.instagram': 'ਇੰਸਟਾਗਰਾਮ',
+    'sharing.reddit': 'ਰੈਡਿਟ'
 };
