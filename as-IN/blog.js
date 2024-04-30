@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'ভূমিকা প্ৰবন্ধ',
     'blog.post.writtenBy': 'লিখিত হৈছে {usernameDisplay}',
     'blog.post.writtenByFor': 'লিখিত হৈছে {usernameDisplay} আৰু {publicationName}',
-    'blog.posts.recent': 'সাম্প্ৰতিক প্ৰবন্ধসমূহ'
+    'blog.posts.recent': 'সাম্প্ৰতিক প্ৰবন্ধসমূহ',
+    'blog.statsPage': 'ব্লগ প্ৰশাসনিক প্ৰগতি'
 };
