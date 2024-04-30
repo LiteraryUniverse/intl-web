@@ -19,5 +19,6 @@ export default {
     'sharing.pinterest': 'ផេនីត្រេស',
     'sharing.gettr': 'ហ្គេត្តូ',
     'sharing.minds': 'Minds.com',
-    'sharing.instagram': 'អិនក្រែមា'
+    'sharing.instagram': 'អិនក្រែមា',
+    'sharing.reddit': 'រៀបចំនៅ Reddit'
 };
