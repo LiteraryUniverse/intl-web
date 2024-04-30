@@ -259,5 +259,6 @@ export default {
     'common.back': 'Retour',
     'console.stop': 'Arrêtez!',
     'console.explain': 'Il s\'agit d\'une fonctionnalité du navigateur destinée aux développeurs. Si quelqu\'un vous a demandé de copier-coller quelque chose ici pour activer une fonctionnalité de l\'univers littéraire ou "pirater" le compte de quelqu\'un, il s\'agit d\'une arnaque qui leur donnera accès à votre compte de l\'univers littéraire.',
-    'common.coping': 'Copie en cours...'
+    'common.coping': 'Copie en cours...',
+    'common.actions': 'Actions'
 }    /* eslint-enable max-len */;
