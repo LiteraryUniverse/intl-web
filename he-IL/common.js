@@ -259,5 +259,6 @@ export default {
     'common.back': 'חזרה',
     'console.stop': 'עצור!',
     'console.explain': 'זוהי תכונה של דפדפן המיועדת למפתחים. אם מישהו אמר לך להעתיק ולהדביס משהו כאן כדי לאפשר תכונת יצירת סיפורים או ל"האק" את חשבון מישהו, זה הונאה ויאפשר לו לגשת לחשבון הסיפורים שלך.',
-    'common.coping': 'העתקה...'
+    'common.coping': 'העתקה...',
+    'common.actions': 'Actions'
 }    /* eslint-enable max-len */;
