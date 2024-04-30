@@ -54,5 +54,6 @@ export default {
     'blog.post.introText': 'Akapit wprowadzenia',
     'blog.post.writtenBy': 'Napisane przez {usernameDisplay}',
     'blog.post.writtenByFor': 'Napisane przez {usernameDisplay} dla {publicationName}',
-    'blog.posts.recent': 'Najnowsze posty'
+    'blog.posts.recent': 'Najnowsze posty',
+    'blog.statsPage': 'Statystyki bloga'
 };
