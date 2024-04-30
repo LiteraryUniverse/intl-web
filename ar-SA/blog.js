@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'فقرة المقدمة',
     'blog.post.writtenBy': 'مكتوب بواسطة {usernameDisplay}',
     'blog.post.writtenByFor': 'مكتوب بواسطة {usernameDisplay} لـ {publicationName}',
-    'blog.posts.recent': 'المقالات الأخيرة'
+    'blog.posts.recent': 'المقالات الأخيرة',
+    'blog.statsPage': 'إحصائيات المدونة'
 };
