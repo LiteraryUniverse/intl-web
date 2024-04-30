@@ -260,5 +260,5 @@ export default {
     'console.stop': 'შეჩერება!',
     'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
     'common.coping': 'კოპირება...',
-    'common.actions': 'Actions'
+    'common.actions': 'მოქმედებები'
 }    /* eslint-enable max-len */;
