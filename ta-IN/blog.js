@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'அறிமுக பதிப்பு',
     'blog.post.writtenBy': 'எழுதியவர் {usernameDisplay}',
     'blog.post.writtenByFor': 'எழுதியவர் {usernameDisplay} உங்களது {publicationName}',
-    'blog.posts.recent': 'சமீபத்திய பதிவுகள்'
+    'blog.posts.recent': 'சமீபத்திய பதிவுகள்',
+    'blog.statsPage': 'வலைப்பதிவு புள்ளிவிபரங்கள்'
 };
