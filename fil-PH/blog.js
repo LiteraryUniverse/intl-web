@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Introduction paragraph',
     'blog.post.writtenBy': 'Isinulat ni {usernameDisplay}',
     'blog.post.writtenByFor': 'Isinulat ni {usernameDisplay} para kay {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.posts.recent': 'Recent posts',
+    'blog.statsPage': 'Estadistika ng Blog'
 };
