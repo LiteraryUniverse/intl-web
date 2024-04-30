@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Вступний абзац',
     'blog.post.writtenBy': 'Написано {usernameDisplay}',
     'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
-    'blog.posts.recent': 'Останні записи'
+    'blog.posts.recent': 'Останні записи',
+    'blog.statsPage': 'Статистика блогу'
 };
