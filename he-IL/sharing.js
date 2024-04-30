@@ -20,5 +20,5 @@ export default {
     'sharing.gettr': 'גטר',
     'sharing.minds': 'Minds.com',
     'sharing.instagram': 'אינסטגרם',
-    'sharing.reddit': 'Reddit'
+    'sharing.reddit': 'רדיט'
 };
