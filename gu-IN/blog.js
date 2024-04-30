@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'પરિચય પાઠ',
     'blog.post.writtenBy': '{usernameDisplay}દ્વારા લખાયેલ',
     'blog.post.writtenByFor': '{usernameDisplay} દ્વારા લખાયેલ {publicationName}માટે',
-    'blog.posts.recent': 'તાજેતરના પોસ્ટો'
+    'blog.posts.recent': 'તાજેતરના પોસ્ટો',
+    'blog.statsPage': 'બ્લોગ આંકડાઓ'
 };
