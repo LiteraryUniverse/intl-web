@@ -259,5 +259,6 @@ export default {
     'common.back': 'Bumalik',
     'console.stop': 'Tigil!',
     'console.explain': 'Ito ay isang tampok ng browser na inilaan para sa mga developer. Kung sinabihan ka ng ibang tao na i-copy-paste ang isang bagay dito upang paganahin ang isang tampok ng Literary Universe o "hack" ang account ng ibang tao, ito ay isang scam at magbibigay sa kanila ng access sa iyong Literary Universe account.',
-    'common.coping': 'Kumokopya...'
+    'common.coping': 'Kumokopya...',
+    'common.actions': 'Mga Aksyon'
 }    /* eslint-enable max-len */;
