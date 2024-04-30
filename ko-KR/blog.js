@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': '소개 단락',
     'blog.post.writtenBy': '작성자: {usernameDisplay}',
     'blog.post.writtenByFor': '{usernameDisplay} 님이 {publicationName}에 작성하였습니다.',
-    'blog.posts.recent': '최근 글'
+    'blog.posts.recent': '최근 글',
+    'blog.statsPage': '블로그 통계'
 };
