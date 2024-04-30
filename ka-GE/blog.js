@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'შესატყვისი აბზაცი',
     'blog.post.writtenBy': 'დაწერილია {usernameDisplay}',
     'blog.post.writtenByFor': 'დაწერილია {usernameDisplay} {publicationName}',
-    'blog.posts.recent': 'ბოლო პოსტები'
+    'blog.posts.recent': 'ბოლო პოსტები',
+    'blog.statsPage': 'ბლოგის სტატისტიკა'
 };
