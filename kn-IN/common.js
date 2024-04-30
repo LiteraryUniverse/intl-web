@@ -259,5 +259,6 @@ export default {
     'common.back': 'ಹಿಂತಿರುಗಿ',
     'console.stop': 'ನಿಲ್ಲಿ!',
     'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
-    'common.coping': 'ನಕಲಿಕೆ ಮಾಡುವುದು...'
+    'common.coping': 'ನಕಲಿಕೆ ಮಾಡುವುದು...',
+    'common.actions': 'ಕ್ರಿಯೆಗಳು'
 }    /* eslint-enable max-len */;
