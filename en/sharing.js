@@ -20,5 +20,6 @@ export default {
   'sharing.pinterest': 'Pinterest',
   'sharing.gettr': 'Gettr',
   'sharing.minds': 'Minds.com',
-  'sharing.instagram': 'Instagram'
+  'sharing.instagram': 'Instagram',
+  'sharing.reddit': 'Reddit'
 }
