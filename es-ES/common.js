@@ -260,5 +260,5 @@ export default {
     'console.stop': '¡Detente!',
     'console.explain': 'Esta es una función del navegador destinada a los desarrolladores. Si alguien te dijo que copies y pegues algo aquí para habilitar una función del Universo Literario o "hackear" la cuenta de alguien, es una estafa y les dará acceso a tu cuenta del Universo Literario.',
     'common.coping': 'Copiando...',
-    'common.actions': 'Actions'
+    'common.actions': 'Acciones'
 }    /* eslint-enable max-len */;
