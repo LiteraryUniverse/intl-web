@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Đoạn giới thiệu',
     'blog.post.writtenBy': 'Viết bởi {usernameDisplay}',
     'blog.post.writtenByFor': 'Viết bởi {usernameDisplay} cho {publicationName}',
-    'blog.posts.recent': 'Bài viết gần đây'
+    'blog.posts.recent': 'Bài viết gần đây',
+    'blog.statsPage': 'Thống kê Blog'
 };
