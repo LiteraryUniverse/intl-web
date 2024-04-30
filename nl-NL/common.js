@@ -259,5 +259,6 @@ export default {
     'common.back': 'Terug',
     'console.stop': 'Stop!',
     'console.explain': 'Dit is een browserfunctie bedoeld voor ontwikkelaars. Als iemand je heeft verteld om iets hier te kopiëren en plakken om een functie van Literary Universe mogelijk te maken of iemands account te "hacken", dan is het oplichting en geeft het hen toegang tot jouw Literary Universe-account.',
-    'common.coping': 'Kopiëren...'
+    'common.coping': 'Kopiëren...',
+    'common.actions': 'Actions'
 }    /* eslint-enable max-len */;
