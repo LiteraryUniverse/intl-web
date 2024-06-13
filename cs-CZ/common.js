@@ -262,6 +262,6 @@ export default {
     'common.coping': 'Kopírování...',
     'common.actions': 'Akce',
     'common.popular': 'Popular',
-    'common.newest': 'Newest',
+    'common.newest': 'Nejnovější',
     'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
