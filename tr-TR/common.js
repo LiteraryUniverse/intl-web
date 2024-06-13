@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Bu, geliştiriciler için tasarlanmış bir tarayıcı özelliğidir. Eğer birisi size, Edebiyat Evreni özelliğini etkinleştirmek veya birinin hesabını "hacklemek" için buraya bir şeyler kopyalamayı söylediyse, bu bir dolandırıcılıktır ve size Edebiyat Evreni hesabına erişim sağlayacaktır.',
     'common.coping': 'Kopyalanıyor...',
     'common.actions': 'Eylemler',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Popüler',
+    'common.newest': 'En Yeniler',
+    'common.oldest': 'En eski'
 }    /* eslint-enable max-len */;
