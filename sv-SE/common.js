@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Stopp!',
     'console.explain': 'Det här är en webbläsarfunktion avsedd för utvecklare. Om någon har sagt åt dig att kopiera och klistra in något här för att aktivera en Literary Universe-funktion eller "hacka" någons konto, så är det en bluff och de kommer att få tillgång till ditt Literary Universe-konto.',
     'common.coping': 'Kopierar...',
-    'common.actions': 'Åtgärder'
+    'common.actions': 'Åtgärder',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
