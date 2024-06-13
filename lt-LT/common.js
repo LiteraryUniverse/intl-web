@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Sustok!',
     'console.explain': 'Tai yra naršyklės funkcija, skirta programuotojams. Jei kas nors pasakė jums, kad čia nukopijuosite kažką, kad įgalintumėte „Literary Universe“ funkciją arba „įsilaužtumėte“ į kieno nors paskyrą, tai yra apgavystė ir leis jiems patekti į jūsų „Literary Universe“ paskyrą.',
     'common.coping': 'Kopijuojama...',
-    'common.actions': 'Veiksmai'
+    'common.actions': 'Veiksmai',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
