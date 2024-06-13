@@ -262,6 +262,6 @@ export default {
     'common.coping': 'نسخ...',
     'common.actions': 'الإجراءات',
     'common.popular': 'Popular',
-    'common.newest': 'Newest',
+    'common.newest': 'الأحدث',
     'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
