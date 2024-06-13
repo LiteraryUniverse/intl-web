@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Это функция браузера, предназначенная для разработчиков. Если кто-то сказал вам скопировать-вставить что-то сюда, чтобы включить какую-то функцию Literary Universe или «взломать» чью-то учётную запись, это мошенничество, и он получит доступ к вашей учётной записи Literary Universe.',
     'common.coping': 'Копирование...',
     'common.actions': 'Действия',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Популярные',
+    'common.newest': 'Самые новые',
+    'common.oldest': 'Старейшие'
 }    /* eslint-enable max-len */;
