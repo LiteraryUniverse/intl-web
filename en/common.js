@@ -119,13 +119,11 @@ export default {
   'story.genre': 'Genre',
   'story.genres': 'Genres',
   'story.read': 'Read',
-  'story.lastUpdate':
-    'Last updated on {date, date, medium} {date, time, short}.',
+  'story.lastUpdate': 'Last updated on {date, date, medium} {date, time, short}.',
   'story.finishedAt': 'Finished on {date, date, medium}.',
   'story.comments.for': 'Comments for {story} {chapter}.',
   'story.cover.alt': 'Story cover image for {story}.',
-  'story.note.fanfiction':
-    'NOTE: This story is a fan fiction on {universe} universe.',
+  'story.note.fanfiction': 'NOTE: This story is a fan fiction on {universe} universe.',
   copyrights: 'Copyrights',
   'common.challenges': 'Challenges',
   // for beta only
@@ -155,8 +153,7 @@ export default {
   'common.legal.effectiveAt': 'Effective from {date, date, medium}',
   select: 'Please select',
   'common.statusFailed': 'Failed to connect to the server.',
-  'common.statusConnecting':
-    'Attempting to connect to the server... ({count, number})',
+  'common.statusConnecting': 'Attempting to connect to the server... ({count, number})',
   'slug.checking': 'Checking...',
   'slug.failed': 'This address already exists.',
   'slug.success': 'This address is available!',
@@ -287,8 +284,12 @@ export default {
   'common.back': 'Back',
 
   'console.stop': 'Stop!',
-  'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
+  'console.explain':
+    'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
 
   'common.coping': 'Copying...',
-  'common.actions': 'Actions'
+  'common.actions': 'Actions',
+  'common.popular': 'Popular',
+  'common.newest': 'Newest',
+  'common.oldest': 'Oldest',
 } /* eslint-enable max-len */
