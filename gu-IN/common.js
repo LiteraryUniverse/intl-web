@@ -260,5 +260,8 @@ export default {
     'console.stop': 'થમો!',
     'console.explain': 'આ બ્રાઉઝર ફીચર ડેવલપર્સ માટે છે. જો કોઈએ તમને કોઈ પણ સ્થાનિક વિશેષતા અથવા કોઈની એકાઉન્ટ હેક કરવાની માટે કંપ્યુટરમાં કંપી પેસ્ટ કરવાની રહી હોય તો તે સ્કેમ છે અને તેને તમારા લિટરરી યુનિવર્સ એકાઉન્ટ એક્સેસ મળશે.',
     'common.coping': 'કૉપી કરી રહ્યું છે...',
-    'common.actions': 'ક્રિયાઓ'
+    'common.actions': 'ક્રિયાઓ',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
