@@ -261,7 +261,7 @@ export default {
     'console.explain': 'これは開発者向けのブラウザ機能です。もし誰かがあなたに文学の宇宙の機能を有効にするために何かをここにコピー＆ペーストするように言ったり、誰かのアカウントを"ハック"するためにそうするように言ったりした場合、それは詐欺であり、文学の宇宙のアカウントへのアクセスを提供します。',
     'common.coping': 'コピー中...',
     'common.actions': 'アクション',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': '人気',
+    'common.newest': '最新',
+    'common.oldest': '最古'
 }    /* eslint-enable max-len */;
