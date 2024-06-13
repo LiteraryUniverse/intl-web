@@ -261,7 +261,7 @@ export default {
     'console.explain': 'यो एक ब्राउजर सुविधा हो जुन विकासकर्ताहरूका लागि निर्मित गरिएको हो। यदि कसैले तपाईंलाई एक साहित्यिक विश्व सुविधा वा कसैको खातामा "ह्याक" गर्न यहाँ कसैले केहि कपी-पेस्ट गर्नु भने, त्यो एक ठगी हो र त्यसले तपाईंलाई तपाईंको साहित्यिक विश्व खातामा पहुँच दिनेछ।',
     'common.coping': 'प्रतिलिपि गर्दै...',
     'common.actions': 'कार्यहरू',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'लोकप्रिय',
+    'common.newest': 'नयाँतम',
+    'common.oldest': 'सबैभन्दा जेठो'
 }    /* eslint-enable max-len */;
