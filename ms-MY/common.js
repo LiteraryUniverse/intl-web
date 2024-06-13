@@ -262,6 +262,6 @@ export default {
     'common.coping': 'Menyalin...',
     'common.actions': 'Tindakan',
     'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.newest': 'Terbaru',
+    'common.oldest': 'Tertua'
 }    /* eslint-enable max-len */;
