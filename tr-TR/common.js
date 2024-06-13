@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Durdur!',
     'console.explain': 'Bu, geliştiriciler için tasarlanmış bir tarayıcı özelliğidir. Eğer birisi size, Edebiyat Evreni özelliğini etkinleştirmek veya birinin hesabını "hacklemek" için buraya bir şeyler kopyalamayı söylediyse, bu bir dolandırıcılıktır ve size Edebiyat Evreni hesabına erişim sağlayacaktır.',
     'common.coping': 'Kopyalanıyor...',
-    'common.actions': 'Eylemler'
+    'common.actions': 'Eylemler',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
