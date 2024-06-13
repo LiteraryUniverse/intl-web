@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Dette er en nettleserfunksjon ment for utviklere. Hvis noen har bedt deg om å kopiere og lime inn noe her for å aktivere en Literary Universe-funksjon eller "hacke" noen konto, er det svindel og vil gi dem tilgang til din Literary Universe-konto.',
     'common.coping': 'Kopierer...',
     'common.actions': 'Handlinger',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Populær',
+    'common.newest': 'Nyeste',
+    'common.oldest': 'Eldste'
 }    /* eslint-enable max-len */;
