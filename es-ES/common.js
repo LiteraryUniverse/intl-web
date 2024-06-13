@@ -262,6 +262,6 @@ export default {
     'common.coping': 'Copiando...',
     'common.actions': 'Acciones',
     'common.popular': 'Popular',
-    'common.newest': 'Newest',
+    'common.newest': 'Más reciente',
     'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
