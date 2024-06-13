@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Đây là một tính năng trình duyệt dành cho nhà phát triển. Nếu ai đó bảo bạn sao chép-dán một cái gì đó ở đây để kích hoạt một tính năng Vũ trụ Văn học hoặc "hack" tài khoản của ai đó, đó là một chiêu lừa và sẽ cho phép họ truy cập vào tài khoản Vũ trụ Văn học của bạn.',
     'common.coping': 'Đang sao chép...',
     'common.actions': 'Hành động',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Phổ biến',
+    'common.newest': 'Mới nhất',
+    'common.oldest': 'Cũ nhất'
 }    /* eslint-enable max-len */;
