@@ -261,7 +261,7 @@ export default {
     'console.explain': 'นี่เป็นคุณลักษณะของเบราว์เซอร์ที่ตั้งใจสำหรับนักพัฒนา หากมีใครบอกคุณให้คัดลอกและวางสิ่งใดสิ่งนึงที่นี่เพื่อเปิดใช้งานคุณลักษณะของจักรวาลวรรณกรรมหรือ "แฮก" บัญชีของคนอื่น นั่นเป็นการหลอกลวงและจะให้พวกเขาเข้าถึงบัญชีจักรวาลวรรณกรรมของคุณ',
     'common.coping': 'กำลังคัดลอก...',
     'common.actions': 'การดำเนินการ',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'ยอดนิยม',
+    'common.newest': 'ล่าสุด',
+    'common.oldest': 'เก่าที่สุด'
 }    /* eslint-enable max-len */;
