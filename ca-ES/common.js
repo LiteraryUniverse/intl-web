@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Atura\'t!',
     'console.explain': 'Aquesta és una funcionalitat del navegador destinada als desenvolupadors. Si algú t\'ha dit que copiïs i enganxis alguna cosa aquí per habilitar una funcionalitat de L\'univers literari o per "hackejar" el compte d\'algú, és un frau i els donarà accés al teu compte de L\'univers literari.',
     'common.coping': 'Copiant...',
-    'common.actions': 'Accions'
+    'common.actions': 'Accions',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
