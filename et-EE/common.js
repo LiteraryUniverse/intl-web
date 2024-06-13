@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Peatu!',
     'console.explain': 'See on brauseri funktsioon, mis on mõeldud arendajatele. Kui keegi palus teil midagi siia kopeerida, et lubada kirjandusliku universumi funktsioon või kellegi konto "häkkimine", siis tegemist on pettusega ja see annab neile juurdepääsu teie kirjandusliku universumi kontole.',
     'common.coping': 'Kopeerimine...',
-    'common.actions': 'Tegevused'
+    'common.actions': 'Tegevused',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
