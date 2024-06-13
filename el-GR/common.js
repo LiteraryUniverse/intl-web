@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Αυτό είναι ένα χαρακτηριστικό του προγράμματος περιήγησης που προορίζεται για προγραμματιστές. Αν κάποιος σας είπε να αντιγράψετε-επικολλήσετε κάτι εδώ για να ενεργοποιήσετε ένα χαρακτηριστικό του Literary Universe ή να "χακάρετε" τον λογαριασμό κάποιου, είναι μια απάτη και θα τους δώσει πρόσβαση στον λογαριασμό σας στο Literary Universe.',
     'common.coping': 'Αντιγραφή...',
     'common.actions': 'Ενέργειες',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Δημοφιλής',
+    'common.newest': 'Νεότερο',
+    'common.oldest': 'Παλαιότερα'
 }    /* eslint-enable max-len */;
