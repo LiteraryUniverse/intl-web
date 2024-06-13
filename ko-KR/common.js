@@ -261,7 +261,7 @@ export default {
     'console.explain': '이것은 개발자를 위한 브라우저 기능입니다. 누군가가 문학 우주 기능을 활성화하거나 누군가의 계정을 "해킹"하기 위해 여기에 무언가를 복사하여 붙여넣으라고 말했다면, 그것은 사기입니다. 그것은 그들에게 당신의 문학 우주 계정에 대한 액세스 권한을 제공할 것입니다.',
     'common.coping': '복사 중...',
     'common.actions': '동작',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': '인기 있는',
+    'common.newest': '최신',
+    'common.oldest': '가장 오래된'
 }    /* eslint-enable max-len */;
