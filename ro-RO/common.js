@@ -262,6 +262,6 @@ export default {
     'common.coping': 'Copiere...',
     'common.actions': 'Acțiuni',
     'common.popular': 'Popular',
-    'common.newest': 'Newest',
+    'common.newest': 'Cel mai nou',
     'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
