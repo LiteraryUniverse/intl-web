@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Ini adalah fitur peramban yang ditujukan untuk para pengembang. Jika seseorang meminta Anda untuk menyalin-tempel sesuatu di sini untuk mengaktifkan fitur Literary Universe atau "membobol" akun seseorang, itu adalah penipuan dan akan memberikan akses kepada mereka ke akun Literary Universe Anda.',
     'common.coping': 'Menyalin...',
     'common.actions': 'Tindakan',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Populer',
+    'common.newest': 'Terbaru',
+    'common.oldest': 'Terlama'
 }    /* eslint-enable max-len */;
