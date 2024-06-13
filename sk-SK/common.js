@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Toto je funkcia prehliadača určená pre vývojárov. Ak vám niekto povedal, aby ste sem niečo skopírovali, aby ste povolili funkciu Literárneho vesmíru alebo "hackovali" účet niekoho iného, ide o podvod a umožní mu prístup k vášmu účtu v Literárnom vesmíre.',
     'common.coping': 'Kopírovanie...',
     'common.actions': 'Akcie',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Populárne',
+    'common.newest': 'Najnovšie',
+    'common.oldest': 'Najstaršie'
 }    /* eslint-enable max-len */;
