@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Haltu!',
     'console.explain': 'Tio estas retumilo-funkcio celata por programistoj. Se iu diris al vi kopii-kolii ion ĉi tien por ebligi funkciojn de Literatura Universo aŭ "haki" iun konton, tio estas trompo kaj donos al ili aliron al via Literatura Universo konto.',
     'common.coping': 'Kopii...',
-    'common.actions': 'Agoj'
+    'common.actions': 'Agoj',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
