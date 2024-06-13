@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Zastavte!',
     'console.explain': 'Toto je funkcia prehliadača určená pre vývojárov. Ak vám niekto povedal, aby ste sem niečo skopírovali, aby ste povolili funkciu Literárneho vesmíru alebo "hackovali" účet niekoho iného, ide o podvod a umožní mu prístup k vášmu účtu v Literárnom vesmíre.',
     'common.coping': 'Kopírovanie...',
-    'common.actions': 'Akcie'
+    'common.actions': 'Akcie',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
