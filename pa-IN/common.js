@@ -260,5 +260,8 @@ export default {
     'console.stop': 'ਰੋਕੋ!',
     'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
     'common.coping': 'ਨਕਲ ਕਰ ਰਹਿਆ ਹੈ...',
-    'common.actions': 'ਕਾਰਵਾਈਆਂ'
+    'common.actions': 'ਕਾਰਵਾਈਆਂ',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
