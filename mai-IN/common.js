@@ -261,7 +261,7 @@ export default {
     'console.explain': 'यह एक ब्राउज़र सुविधा है जो डेवलपर्स के लिए है। यदि किसी ने आपको यहां कुछ कॉपी-पेस्ट करने के लिए कहा है ताकि आप एक साहित्यिक यूनिवर्स फ़ीचर या किसी खाते को "हैक" कर सकें, तो यह एक धोखाधड़ी है और उन्हें आपके साहित्यिक यूनिवर्स खाते तक पहुंच देगी।',
     'common.coping': 'कॉपी कर रहे हैं...',
     'common.actions': 'क्रियाएँ',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'लोकप्रिय',
+    'common.newest': 'नवीनतम',
+    'common.oldest': 'सबसे पुराना'
 }    /* eslint-enable max-len */;
