@@ -261,7 +261,7 @@ export default {
     'console.explain': 'Це функція браузера, призначена для розробників. Якщо хтось каже вам скопіювати-вставити щось сюди, щоб увімкнути функцію Літературного Всесвіту або "взламати" чийсь аккаунт, це шахрайство і дозволить їм отримати доступ до вашого облікового запису Літературного Всесвіту.',
     'common.coping': 'Копіювання...',
     'common.actions': 'Дії',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Популярне',
+    'common.newest': 'Найновіші',
+    'common.oldest': 'Найстаріше'
 }    /* eslint-enable max-len */;
