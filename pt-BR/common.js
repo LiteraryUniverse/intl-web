@@ -260,5 +260,8 @@ export default {
     'console.stop': 'Pare!',
     'console.explain': 'Esta é uma funcionalidade do navegador destinada a desenvolvedores. Se alguém pediu para você copiar e colar algo aqui para habilitar uma funcionalidade do Literary Universe ou "hackear" a conta de alguém, é um golpe e dará a eles acesso à sua conta do Literary Universe.',
     'common.coping': 'Copiando...',
-    'common.actions': 'Ações'
+    'common.actions': 'Ações',
+    'common.popular': 'Popular',
+    'common.newest': 'Newest',
+    'common.oldest': 'Oldest'
 }    /* eslint-enable max-len */;
