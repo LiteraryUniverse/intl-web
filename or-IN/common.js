@@ -261,7 +261,7 @@ export default {
     'console.explain': 'This is a browser feature intended for developers. If someone told you to copy-paste something here to enable a Literary Universe feature or "hack" someone\'s account, it is a scam and will give them access to your Literary Universe account.',
     'common.coping': 'ଅନୁଲେଖନ କରୁଛି...',
     'common.actions': 'କାର୍ଯ୍ୟଗୁଡ଼ିକ',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'ପ୍ରସିଦ୍ଧ',
+    'common.newest': 'ନବିନତମ',
+    'common.oldest': 'ପୁରୁଣା'
 }    /* eslint-enable max-len */;
