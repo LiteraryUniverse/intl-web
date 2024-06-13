@@ -261,7 +261,7 @@ export default {
     'console.explain': 'To jest funkcja przeglądarki przeznaczona dla programistów. Jeśli ktoś kazał ci skopiować coś tutaj, aby włączyć funkcję Uniwersum Literackiego lub "zhakować" czyjeś konto, to oszustwo i da mu dostęp do twojego konta Uniwersum Literackiego.',
     'common.coping': 'Kopiowanie...',
     'common.actions': 'Akcje',
-    'common.popular': 'Popular',
-    'common.newest': 'Newest',
-    'common.oldest': 'Oldest'
+    'common.popular': 'Popularne',
+    'common.newest': 'Najnowsze',
+    'common.oldest': 'Najstarsze'
 }    /* eslint-enable max-len */;
