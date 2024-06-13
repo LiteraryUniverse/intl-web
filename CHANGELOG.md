@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2024-06-xx - V2.12.3
+
+* Added strings for new comments sorting
+* Update Meteor version from for the latest 3.0-rc.4
+
 ## 2024-04-22 - v2.12.2
 
 * Added `writer.characterCount`
