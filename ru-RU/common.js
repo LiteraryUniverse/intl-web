@@ -262,6 +262,6 @@ export default {
     'common.coping': 'Копирование...',
     'common.actions': 'Действия',
     'common.popular': 'Популярные',
-    'common.newest': 'Самые новые',
+    'common.newest': 'Новейшие',
     'common.oldest': 'Старейшие'
 }    /* eslint-enable max-len */;
