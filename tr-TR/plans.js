@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Katman resmi',
     'payment.fanClub.priceBreakdown': 'Abone ödeyecek: {amount}. Platform ücreti {fee}, alacaksınız: {net}',
     'payment.feeNotice': 'Lütfen dikkate alın ki bu bir tahmindir ve gerçek ücret müşterinin ödeme türüne ve ödeme kapısından gelen ek ücretlere bağlı olarak farklı olabilir.',
-    'payment.fanClub.perks': 'Avantajlar'
+    'payment.fanClub.perks': 'Avantajlar',
+    'stripeConnect.settings.notifications': 'Stripe\'tan Bildirimler'
 };
