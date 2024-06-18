@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'תמונת השכבה',
     'payment.fanClub.priceBreakdown': 'המנוי ישלם: {amount}. דמי הפלטפורמה הם {fee}, תקבל: {net}',
     'payment.feeNotice': 'יש לשים לב כי זהו הערך המשוער והדמי המדויק עשוי להיות שונה בהתאם לסוג התשלום של הלקוח ולתשלומים נוספים משער התשלום.',
-    'payment.fanClub.perks': 'הטבות'
+    'payment.fanClub.perks': 'הטבות',
+    'stripeConnect.settings.notifications': 'הודעות מ-Stripe'
 };
