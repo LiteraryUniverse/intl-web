@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Imagine nivel',
     'payment.fanClub.priceBreakdown': 'Abonatul va plăti: {amount}. Taxa platformei este {fee}, veți primi: {net}',
     'payment.feeNotice': 'Vă rugăm să rețineți că aceasta este o estimare și taxa reală poate fi diferită în funcție de tipul de plată al clientului și de taxele suplimentare de la gateway-ul de plată.',
-    'payment.fanClub.perks': 'Beneficii'
+    'payment.fanClub.perks': 'Beneficii',
+    'stripeConnect.settings.notifications': 'Notificări de la Stripe'
 };
