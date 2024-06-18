@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'დონის სურათი',
     'payment.fanClub.priceBreakdown': 'გამომხმარებელმა გადაიხადათ: {amount}. პლატფორმის გადასახადი არის {fee}, თქვენ მიიღებთ: {net}',
     'payment.feeNotice': 'გთხოვთ გაიგოთ, რომ ეს არის შეფასება და სამუშაო გადახდის ტიპიდან და დამატებითი ხარჯებიდან დამატებით გადასახადი განიცადება',
-    'payment.fanClub.perks': 'მაღაზიაზე'
+    'payment.fanClub.perks': 'მაღაზიაზე',
+    'stripeConnect.settings.notifications': 'შეტყობინებები Stripe-დან'
 };
