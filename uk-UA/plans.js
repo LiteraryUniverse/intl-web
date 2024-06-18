@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Зображення рівня',
     'payment.fanClub.priceBreakdown': 'Абонент сплатить: {amount}. Плата платформи становить {fee}, ви отримаєте: {net}',
     'payment.feeNotice': 'Зверніть увагу, що це лише оцінка, і фактична комісія може відрізнятися в залежності від типу оплати клієнта та додаткових зборів від платіжної системи.',
-    'payment.fanClub.perks': 'Переваги'
+    'payment.fanClub.perks': 'Переваги',
+    'stripeConnect.settings.notifications': 'Сповіщення від Stripe'
 };
