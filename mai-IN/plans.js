@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'टियर तस्वीर',
     'payment.fanClub.priceBreakdown': 'सदस्य द्वारा भुगतान होगा: {amount}। प्लेटफ़ॉर्म शुल्क है {fee}, आपको मिलेगा: {net}',
     'payment.feeNotice': 'कृपया ध्यान दें कि यह एक अनुमान है और वास्तविक शुल्क ग्राहक के भुगतान प्रकार और पेगेट से अतिरिक्त शुल्क के आधार पर अलग हो सकता है।',
-    'payment.fanClub.perks': 'पर्क्स'
+    'payment.fanClub.perks': 'पर्क्स',
+    'stripeConnect.settings.notifications': 'स्ट्राइपबाट सूचनाहरू'
 };
