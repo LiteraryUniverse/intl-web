@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Nivåbilde',
     'payment.fanClub.priceBreakdown': 'Abonnenten vil betale: {amount}. Plattformavgift er {fee}, du vil få: {net}',
     'payment.feeNotice': 'Vennligst merk at dette er et estimat, og den faktiske avgiften kan være forskjellig basert på kundens betalingstype og eventuelle ekstra gebyrer fra betalingsportalen.',
-    'payment.fanClub.perks': 'Fordeler'
+    'payment.fanClub.perks': 'Fordeler',
+    'stripeConnect.settings.notifications': 'Varsler fra Stripe'
 };
