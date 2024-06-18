@@ -28,8 +28,7 @@ export default {
   'plans.limits.maxCollaborators': 'Collaborators per project',
   'plans.limits.pmChats': 'Maximum # of recipients for private message',
   'plans.feature.creative': 'Create amazing universes and stories',
-  'plans.feature.encCustomFields':
-    'Customizable encyclopedia fields on an entry',
+  'plans.feature.encCustomFields': 'Customizable encyclopedia fields on an entry',
   'plans.feature.encAdvCategories': 'More encyclopedia categories',
   'plans.feature.scratchpad': 'Scratchpad',
   'plans.feature.library': 'Library',
@@ -53,8 +52,7 @@ export default {
   'plans.feature.fanFiction': 'Write & manage fan fiction',
   'plans.feature.universeFanArt': 'Fan art manager',
   'plans.feature.overviewNotes': 'Story overview notes',
-  'plans.feature.personalNotesStoriesUniverses':
-    'Personal notes on stories and universes',
+  'plans.feature.personalNotesStoriesUniverses': 'Personal notes on stories and universes',
   'plans.feature.storyReviews': 'Story reviews',
   'plans.feature.readingLists': 'Reading lists',
   'plans.feature.scenesManager': 'Scenes manager',
@@ -88,8 +86,7 @@ export default {
   'payments.zipcode.label': 'ZIP code',
   'payment.card.name': 'Name on card',
   'plans.subscribed.thankYou': 'Thank you for supporting Literary Universe',
-  'plans.subscribed.periodEnd':
-    'Your subscription is valid until: {end, date, medium}',
+  'plans.subscribed.periodEnd': 'Your subscription is valid until: {end, date, medium}',
   'plans.subscribed.renewal': `At the end your subscription will be {method, select,
     charge_automatically {renewed automatically}
     send_invoice {renewed after paying an invoice}
@@ -135,8 +132,7 @@ export default {
   'payments.none': 'No saved payment options found.',
   'payments.none.cards': 'No cards were found.',
   'payments.added': 'New payment option has been successfully added.',
-  'payments.delete.confirm':
-    'Are you sure you want to delete {cardType}, ending in {ending}?',
+  'payments.delete.confirm': 'Are you sure you want to delete {cardType}, ending in {ending}?',
   'payment.invoice.status': 'Invoice status',
   'payment.invoice.statusMessage': `{status, select,
     draft {Draft}
@@ -160,8 +156,7 @@ export default {
   } ending with {last4}`,
   'payment.options.default': 'Default',
   'payment.method.add': 'Add a new payment method',
-  'payment.methods.adding':
-    'You new payment method has been added to your account.',
+  'payment.methods.adding': 'You new payment method has been added to your account.',
   'payment.methods.delete': 'Delete payment method',
   'payment.upgradePlan.option': '{plan} - {price}',
   'payment.methods.webMonetization': 'Web Monetization',
@@ -172,10 +167,8 @@ export default {
   'plans.subscription.settingsAria': 'Subscription settings options',
   'plans.buttonStatus.submitting': 'Submitting your request...',
   'plans.button.manageOnStripe': 'Manage Billing on Stripe',
-  'plans.call.signUpBottom':
-    'Sign-up for a free Literary Universe account and start creating!',
-  'plans.button.seeComparison':
-    'Find out more about plans and pricing on our comparison page!',
+  'plans.call.signUpBottom': 'Sign-up for a free Literary Universe account and start creating!',
+  'plans.button.seeComparison': 'Find out more about plans and pricing on our comparison page!',
   'plans.button.chooseThisSubscription': 'Select this plan',
   'plans.button.chooseFree': 'Start for free',
   'plans.features.allInPreviousTiers': 'Everything in previous tier',
@@ -194,8 +187,7 @@ export default {
   'stripeConnect.settings.connectAccount': 'Setup Stripe Account',
   'stripeConnect.settings.ongoing':
     'We are waiting to hear back from Stripe in regards to your account. This might take a little bit. If this is taking too long click on the button bellow which will take you back to Stripe.',
-  'stripeConnect.settings.finished':
-    'You are all set to receive money via Stripe Connect.',
+  'stripeConnect.settings.finished': 'You are all set to receive money via Stripe Connect.',
   'stripeConnect.settings.balance': 'Balance',
   'stripeConnect.settings.balanceAvailable': 'Available balance',
   'stripeConnect.settings.balancePending': 'Pending balance',
@@ -223,8 +215,7 @@ export default {
     'Donate {donation, number, ::compact-short currency/CZK} to {username}',
   'payment.donations.payNowGBP':
     'Donate {donation, number, ::compact-short currency/GBP} to {username}',
-  'payment.donations.thankYouTitle':
-    'Thank you for your donation to {username}',
+  'payment.donations.thankYouTitle': 'Thank you for your donation to {username}',
   'payment.donations.thankYouContinue':
     'Thank you for supporting {username}, we hope that you will continue enjoying their work and consider supporting them again in the future.',
   'payment.success': 'Payment succeeded!',
@@ -265,5 +256,6 @@ export default {
     'Subscriber will pay: {amount}. Platform fee is {fee}, you will get: {net}',
   'payment.feeNotice':
     "Please do note that this is an estimate and the actual fee might be different based on customer's payment type and additional charges from the pay gate.",
-  'payment.fanClub.perks': 'Perks'
+  'payment.fanClub.perks': 'Perks',
+  'stripeConnect.settings.notifications': 'Notifications from Stripe',
 }
