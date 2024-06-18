@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Εικόνα επιπέδου',
     'payment.fanClub.priceBreakdown': 'Ο συνδρομητής θα πληρώσει: {amount}. Το τέλος πλατφόρμας είναι {fee}, θα λάβετε: {net}',
     'payment.feeNotice': 'Παρακαλούμε σημειώστε ότι αυτό είναι μια εκτίμηση και το πραγματικό τέλος μπορεί να διαφέρει ανάλογα με τον τύπο πληρωμής του πελάτη και τυχόν επιπλέον χρεώσεις από την πύλη πληρωμής.',
-    'payment.fanClub.perks': 'Προνόμια'
+    'payment.fanClub.perks': 'Προνόμια',
+    'stripeConnect.settings.notifications': 'Ειδοποιήσεις από την Stripe'
 };
