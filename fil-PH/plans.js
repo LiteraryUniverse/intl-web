@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Larawan ng tier',
     'payment.fanClub.priceBreakdown': 'Ang Subscriber ay magbabayad ng: {amount}. Ang bayad sa platform ay {fee}, makukuha mo: {net}',
     'payment.feeNotice': 'Maaring tandaan na ito ay isang tantiya lamang at ang aktwal na bayad ay maaaring mag-iba batay sa uri ng pagbabayad ng customer at karagdagang mga singil mula sa pay gate.',
-    'payment.fanClub.perks': 'Mga Benepisyo'
+    'payment.fanClub.perks': 'Mga Benepisyo',
+    'stripeConnect.settings.notifications': 'Mga Abiso mula sa Stripe'
 };
