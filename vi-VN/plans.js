@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Ảnh hạng',
     'payment.fanClub.priceBreakdown': 'Người đăng ký sẽ thanh toán: {amount}. Phí nền tảng là {fee}, bạn sẽ nhận được: {net}',
     'payment.feeNotice': 'Xin lưu ý rằng đây là một ước tính và phí thực tế có thể khác nhau dựa trên loại thanh toán của khách hàng và các khoản phụ phí từ cổng thanh toán.',
-    'payment.fanClub.perks': 'Phúc lợi'
+    'payment.fanClub.perks': 'Phúc lợi',
+    'stripeConnect.settings.notifications': 'Thông báo từ Stripe'
 };
