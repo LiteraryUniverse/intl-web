@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Cfipu tierni',
     'payment.fanClub.priceBreakdown': '.i lo pelxu cu jdima {amount}. lo jdima be lo ciste cu {fee}, do pu\'o se jerna lo jdima be {net}',
     'payment.feeNotice': '.i ko catlu lo nu ti cu zmadu .i ku\'i lo jdima cu se zmadu lo jdima be lo ciste be lo prenu be lo nunli\'i lo jdima be lo vamji',
-    'payment.fanClub.perks': 'Perks'
+    'payment.fanClub.perks': 'Perks',
+    'stripeConnect.settings.notifications': 'pe\'a\'o loi ciska su\'o peipei noi jersi dasni'
 };
