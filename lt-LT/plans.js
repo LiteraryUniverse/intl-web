@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Lygio nuotrauka',
     'payment.fanClub.priceBreakdown': 'Abonentas sumokės: {amount}. Platformos mokestis yra {fee}, jūs gausite: {net}',
     'payment.feeNotice': 'Prašome atkreipti dėmesį, kad tai yra tik apskaičiavimas ir tikras mokestis gali skirtis priklausomai nuo kliento mokėjimo tipo ir papildomų mokesčių iš mokėjimo vartų.',
-    'payment.fanClub.perks': 'Privalumai'
+    'payment.fanClub.perks': 'Privalumai',
+    'stripeConnect.settings.notifications': 'Pranešimai iš „Stripe“'
 };
