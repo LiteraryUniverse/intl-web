@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Taseme pilt',
     'payment.fanClub.priceBreakdown': 'Tellija maksab: {amount}. Platvormitasu on {fee}, sulle jääb kätte: {net}',
     'payment.feeNotice': 'Palun pane tähele, et see on hinnang ja tegelik tasu võib erineda sõltuvalt kliendi makseviisist ja lisatasudest makseväravalt.',
-    'payment.fanClub.perks': 'Eelised'
+    'payment.fanClub.perks': 'Eelised',
+    'stripeConnect.settings.notifications': 'Teavitused Stripelt'
 };
