@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Réteg képe',
     'payment.fanClub.priceBreakdown': 'Az előfizető fizetni fog: {amount}. A platform díja {fee}, amit megkap: {net}',
     'payment.feeNotice': 'Kérjük, vegye figyelembe, hogy ez csak egy becslés, és a tényleges díj változhat a vásárló fizetési módjától és a fizetési kapu által felszámolt további díjak alapján.',
-    'payment.fanClub.perks': 'Juttatások'
+    'payment.fanClub.perks': 'Juttatások',
+    'stripeConnect.settings.notifications': 'Értesítések a Stripe-tól'
 };
