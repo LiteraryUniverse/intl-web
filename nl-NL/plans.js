@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Niveau afbeelding',
     'payment.fanClub.priceBreakdown': 'De abonnee betaalt: {amount}. De platformkosten bedragen {fee}, u ontvangt: {net}',
     'payment.feeNotice': 'Houd er rekening mee dat dit een schatting is en dat de werkelijke kosten kunnen verschillen op basis van de betaalmethode van de klant en eventuele extra kosten van het betaalplatform.',
-    'payment.fanClub.perks': 'Voordelen'
+    'payment.fanClub.perks': 'Voordelen',
+    'stripeConnect.settings.notifications': 'Meldingen van Stripe'
 };
