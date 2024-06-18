@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Imatge del nivell',
     'payment.fanClub.priceBreakdown': 'El subscriptor pagarà: {amount}. La comissió de la plataforma és {fee}, obtindràs: {net}',
     'payment.feeNotice': 'Cal tenir en compte que això és una estimació i la comissió real pot ser diferent en funció del tipus de pagament del client i càrrecs addicionals de la passarel·la de pagament.',
-    'payment.fanClub.perks': 'Beneficis'
+    'payment.fanClub.perks': 'Beneficis',
+    'stripeConnect.settings.notifications': 'Notificacions de Stripe'
 };
