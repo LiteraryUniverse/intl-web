@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Íomhá den leibhéal',
     'payment.fanClub.priceBreakdown': 'Íocfaidh an t-ábharóir: {amount}. Is é an táille an ghnóthach, gheobhaidh tú: {net}',
     'payment.feeNotice': 'Tabhair faoi deara go bhfuil seo mar mheasúnú agus d\'fhéadfadh an táille fhíorúil difriúil a bheith de réir cineál íocaíochta an chustaiméara agus táillí breise ón ngeata íocaíochta.',
-    'payment.fanClub.perks': 'Buntáistí'
+    'payment.fanClub.perks': 'Buntáistí',
+    'stripeConnect.settings.notifications': 'Fógraí ó Stripe'
 };
