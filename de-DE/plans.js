@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'Tierbild',
     'payment.fanClub.priceBreakdown': 'Der Abonnent zahlt: {amount}. Die Plattformgebühr beträgt {fee}, Sie erhalten: {net}',
     'payment.feeNotice': 'Bitte beachten Sie, dass dies nur eine Schätzung ist und die tatsächliche Gebühr je nach Zahlungsart des Kunden und zusätzlichen Gebühren des Zahlungsgateways unterschiedlich sein kann.',
-    'payment.fanClub.perks': 'Vorteile'
+    'payment.fanClub.perks': 'Vorteile',
+    'stripeConnect.settings.notifications': 'Benachrichtigungen von Stripe'
 };
