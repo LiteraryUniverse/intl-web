@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'টিয়ার ছবি',
     'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান করবেন: {amount}। প্ল্যাটফর্ম ফি {fee} এবং আপনি পাবেন: {net}',
     'payment.feeNotice': 'দয়া করে মনে রাখবেন যে এটি একটি আনুমানিক পরিমাণ এবং প্রাসঙ্গিক শপিং প্রকার এবং পে গেট থেকে অতিরিক্ত চার্জের উপর ভিত্তি করে আসল ফি ভিন্ন হতে পারে।',
-    'payment.fanClub.perks': 'সুবিধাসমূহ'
+    'payment.fanClub.perks': 'সুবিধাসমূহ',
+    'stripeConnect.settings.notifications': 'স্ট্রাইপ থেকে বিজ্ঞপ্তি'
 };
