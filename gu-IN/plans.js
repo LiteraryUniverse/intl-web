@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'ટિયર ચિત્ર',
     'payment.fanClub.priceBreakdown': 'ગ્રાહક ચૂકવશે: {amount} પ્લેટફોર્મ ફી છે {fee}, તમે મળશે: {net}',
     'payment.feeNotice': 'કૃપા કરીને ધ્યાન આપો કે આ એક અંદાજ છે અને વાસ્તવિક ફી ગ્રાહકની ચૂકવણી પ્રકાર અને ચૂકવણીઓમાંથી વધારે ખર્ચો પર આધાર રાખી શકે છે.',
-    'payment.fanClub.perks': 'સુવિધાઓ'
+    'payment.fanClub.perks': 'સુવિધાઓ',
+    'stripeConnect.settings.notifications': 'સ્ટ્રિપમાંથી અધિસૂચનાઓ'
 };
