@@ -224,5 +224,6 @@ export default {
     'payment.fanClub.picture': 'টিয়াৰৰ ছবি',
     'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান কৰিব: {amount}। প্লেটফৰ্ম ফি হৈছে {fee}, আপুনি পাব: {net}',
     'payment.feeNotice': 'অনুগ্ৰহ কৰি লক্ষ্য কৰক যে এইটো এটা আনুমানিক মাত্ৰা হৈছে আৰু গ্ৰাহকৰ পেমেন্ট প্ৰকাৰ আৰু অতিৰিক্ত চাৰ্জৰ উপৰ ভিত্তিত পৰিবৰ্তন কৰিব পাৰে।',
-    'payment.fanClub.perks': 'সুবিধা'
+    'payment.fanClub.perks': 'সুবিধা',
+    'stripeConnect.settings.notifications': 'ষ্ট্রাইপৰ বিজ্ঞপ্তি'
 };
