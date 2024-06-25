@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Réteg hozzáadása',
     'payment.fanClub.description': 'Réteg leírása',
     'payment.fanClub.picture': 'Réteg képe',
-    'payment.fanClub.priceBreakdown': 'Az előfizető fizetni fog: {amount}. A platform díja {fee}, amit megkap: {net}',
-    'payment.feeNotice': 'Kérjük, vegye figyelembe, hogy ez csak egy becslés, és a tényleges díj változhat a vásárló fizetési módjától és a fizetési kapu által felszámolt további díjak alapján.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Tudj meg többet a Stripe díjairól.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Juttatások',
-    'stripeConnect.settings.notifications': 'Értesítések a Stripe-tól'
+    'stripeConnect.settings.notifications': 'Értesítések a Stripe-tól',
+    'plans.pricePerMonth': 'Havi összeg',
+    'payment.fanClub.perkType': 'Előny típusa',
+    'payment.fanClub.addPerk': 'Előny hozzáadása',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
