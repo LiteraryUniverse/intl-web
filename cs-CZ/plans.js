@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Přidat úroveň',
     'payment.fanClub.description': 'Popis úrovně',
     'payment.fanClub.picture': 'Obrázek úrovně',
-    'payment.fanClub.priceBreakdown': 'Odběratel zaplatí: {amount}. Poplatek platformy je {fee}, obdržíte: {net}',
-    'payment.feeNotice': 'Mějte prosím na paměti, že se jedná o odhad a skutečný poplatek se může lišit v závislosti na způsobu platby zákazníka a případných dalších poplatcích od platební brány.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Zjistěte více o poplatcích Stripe.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Výhody',
-    'stripeConnect.settings.notifications': 'Upozornění od Stripe'
+    'stripeConnect.settings.notifications': 'Upozornění od Stripe',
+    'plans.pricePerMonth': 'Částka za měsíc',
+    'payment.fanClub.perkType': 'Typ výhody',
+    'payment.fanClub.addPerk': 'Přidat výhodu',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
