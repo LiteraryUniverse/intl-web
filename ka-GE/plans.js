@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'დონის დამატება',
     'payment.fanClub.description': 'დონის აღწერის დასახელება',
     'payment.fanClub.picture': 'დონის სურათი',
-    'payment.fanClub.priceBreakdown': 'გამომხმარებელმა გადაიხადათ: {amount}. პლატფორმის გადასახადი არის {fee}, თქვენ მიიღებთ: {net}',
-    'payment.feeNotice': 'გთხოვთ გაიგოთ, რომ ეს არის შეფასება და სამუშაო გადახდის ტიპიდან და დამატებითი ხარჯებიდან დამატებით გადასახადი განიცადება',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'გაიგეთ მეტი Stripe საკომისიოების შესახებ.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'მაღაზიაზე',
-    'stripeConnect.settings.notifications': 'შეტყობინებები Stripe-დან'
+    'stripeConnect.settings.notifications': 'შეტყობინებები Stripe-დან',
+    'plans.pricePerMonth': 'თვისაგან თანხა',
+    'payment.fanClub.perkType': 'გადაბანის ტიპი',
+    'payment.fanClub.addPerk': 'დაამატეთ გამორიცხვა',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
