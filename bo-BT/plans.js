@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'སྒྲོམ་པ་བཟོ་བ།',
     'payment.fanClub.description': 'སྒྲོམ་ཚད་འགྲེལ།',
     'payment.fanClub.picture': 'སྒྲོམ་པར་རིན།',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee}, you will get: {net}',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual fee might be different based on customer\'s payment type and additional charges from the pay gate.',
+    'payment.fanClub.priceBreakdown': 'སྤྲོད་མི་ཚུ་ཡོད་པའི་འདུག་ལག་འགྱུར། {amount}। ཕྲོད་ཅིག་གིས་ {fee} ({platformPercentage}) འོས་ཀྱིས་ ནུས་པ་འབྲེལ་བ་ཡོད་ཤུལ་གྱི་ག་དེས། སྙོས་པ་ཆེང་གི་མཇུག་གི་འདུག་འགྲིལ་བ་འདི་ནང་ གནས་རིམ་གསལ་བསྒང་བའི་ཐེངས་བཀྲམ་འདེམས་ཅན་བཞིན་པར་བྱུང་བཞུགས་མི་ནང་བསྐྱོད། {net} གཅུག་བྱིན་ནུག',
+    'payment.fanClub.learnStripeFees': 'ཤོག་ལེབ་མིང་དང་དོན་ཚན་ལྟར་ཚགས་པའམ་བྱོས།',
+    'payment.feeNotice': 'སྒྲིག་འཛིན་སྤྱི་མཐོང་། བདག་འཛུགས་སྤྱོད་པ་ནང་ ཆེ་བ་ལེགས་དང་ དྲག་པོ་སྤྱི་མཐོང་ནི་འདུག །',
     'payment.fanClub.perks': 'བརྡའ་བསྐྱེད་ཚད།',
-    'stripeConnect.settings.notifications': 'Notifications from Stripe'
+    'stripeConnect.settings.notifications': 'Notifications from Stripe',
+    'plans.pricePerMonth': 'ཟ་བཤག་ཚད་པ།',
+    'payment.fanClub.perkType': 'མ་ཐད་ཕྱེ་དང་ཡོངས་འདི།',
+    'payment.fanClub.addPerk': 'མ་ཐད་གསལ་ས་འདི་བརྒྱུད་པའི་གནས་བསྐྱོད་དང་བརྟན་པའི་གནས་སྡུད་ཡོད།',
+    'payment.fanClub.perksExplained': 'འདི་དང་དྲྭ་གཏོང་ཡོད་ཡོད་པའི་གནས་རིམ་ཚུ་གི་ཡོངས་ལྡེ་ས་སྐོར་ནང་ཚུགས་ལྗོངས་རྣམས་བྱེད་པའི་ཚང་གིས་སྙོམས་པའི་བྱེད་སྒྲིལ་གཏོགས་བསྡུས་པ། ལག་འགྱུར་བཀྲམ་སྤེལ་བྱུང་ཀོ་དང་སྟོན་པ་བཀེལ་བརྗེད་མགོན་ཡོད་འབབ་ཡོད། ག་དེས་སྙོས་པ་ཆེང་གི་འདུག་འགྲིལ་བ་རྐྱེན་བཞིན་པར་བྱུང་བཞུགས་མི་ནང་བསྐྱོད།'
 };
