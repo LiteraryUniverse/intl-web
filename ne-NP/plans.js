@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'टियर थप्नुहोस्',
     'payment.fanClub.description': 'टियर विवरण',
     'payment.fanClub.picture': 'टियर तस्वीर',
-    'payment.fanClub.priceBreakdown': 'ग्राहकले भुक्तान गर्नेछ: {amount}। प्लेटफ़ोर्म शुल्क {fee} छ, तपाईंलाई प्राप्त हुनेछ: {net}',
-    'payment.feeNotice': 'कृपया ध्यान दिनुहोस् कि यो अनुमान हो र ग्राहकको भुक्तानी प्रकार र अतिरिक्त शुल्कहरूबाट व्यापारद्वाराबाट व्यतिरिक्त शुल्क फेरि अलग भइ सक्छ।',
+    'payment.fanClub.priceBreakdown': 'सदस्यले तिर्नुपर्नेछ: {amount}। प्लेटफ़ार्म शुल्क {fee} हो ({platformPercentage}), Stripe बाट अनुमानित शुल्कहरू: {stripeFee} ({stripeBaseFee} मुख्य लेणदेन शुल्क + भुक्तानी किसिमको प्रतिशत), तपाईंले प्राप्त गर्नुहुन्छ (अनुमानित): {net}',
+    'payment.fanClub.learnStripeFees': 'स्ट्राइप शुल्कको बारेमा थप जान्नुहोस्।',
+    'payment.feeNotice': 'कृपया ध्यान दिनुहोस्, यो केवल अनुमान हो र साथै ग्राहकको भुक्तानी किसिम र अतिरिक्त शुल्कमा आधारित वास्तविक स्ट्राइप शुल्क भिन्न हुन सक्छ।',
     'payment.fanClub.perks': 'लाभहरू',
-    'stripeConnect.settings.notifications': 'स्ट्राइपबाटको सूचनाहरू'
+    'stripeConnect.settings.notifications': 'स्ट्राइपबाटको सूचनाहरू',
+    'plans.pricePerMonth': 'प्रति महिना रकम',
+    'payment.fanClub.perkType': 'पर्कको प्रकार',
+    'payment.fanClub.addPerk': 'पर्क थप्नुहोस्',
+    'payment.fanClub.perksExplained': 'यी वेरवादले अनुमति दिने लेखकीय विश्वमा प्रायोजित गरिने छन्दा हो।'
 };
