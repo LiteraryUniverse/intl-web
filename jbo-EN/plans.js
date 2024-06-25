@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Jmina tierni',
     'payment.fanClub.description': 'Mildi tierni',
     'payment.fanClub.picture': 'Cfipu tierni',
-    'payment.fanClub.priceBreakdown': '.i lo pelxu cu jdima {amount}. lo jdima be lo ciste cu {fee}, do pu\'o se jerna lo jdima be {net}',
-    'payment.feeNotice': '.i ko catlu lo nu ti cu zmadu .i ku\'i lo jdima cu se zmadu lo jdima be lo ciste be lo prenu be lo nunli\'i lo jdima be lo vamji',
+    'payment.fanClub.priceBreakdown': 'xu\'u la\'o gy.{amount}.gy. cu zvati cirko .i mi sisti {fee} ({platformPercentage}), lu\'i plise je\'a pari be {stripeFee} ({stripeBaseFee} ly. plinu lo ka pleji + klani facki lo zei systi kantu), iy xu\'o ko cuxna lo se sisti be lu\'i neto: {net}',
+    'payment.fanClub.learnStripeFees': 'cjalo lo se zmadu be fi lo cnino jdima fa lo Stripe.',
+    'payment.feeNotice': 'i lo nu ti cmuxu\'o cu se bersa .ije lu\'i plise no\'e pari be {stripeFee} zo\'u su\'o drata lo lo\'e jdima je sidju be le zaby\'arte cu senva',
     'payment.fanClub.perks': 'Perks',
-    'stripeConnect.settings.notifications': 'pe\'a\'o loi ciska su\'o peipei noi jersi dasni'
+    'stripeConnect.settings.notifications': 'pe\'a\'o loi ciska su\'o peipei noi jersi dasni',
+    'plans.pricePerMonth': 'pa moi djedi',
+    'payment.fanClub.perkType': 'lo se lidne be lo te cuxna',
+    'payment.fanClub.addPerk': 'tavla la\'o zoi.Efy.Stripe.zoi.',
+    'payment.fanClub.perksExplained': 'i ti cu vajni pilno be loi kelci be lo pampeo .i lo du\'u zgana zo\'e cu se sisti lo\'e fanmo erzena ce\'o ce\'u'
 };
