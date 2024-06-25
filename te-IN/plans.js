@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'టియర్ జోడించండి',
     'payment.fanClub.description': 'టియర్ వివరణ',
     'payment.fanClub.picture': 'టియర్ చిత్రం',
-    'payment.fanClub.priceBreakdown': 'సభ్యుడు చెల్లించినది: {amount}। ప్లాట్‌ఫారం ఫీ {fee} ఉంది, మీరు పొందుతారు: {net}',
-    'payment.feeNotice': 'దయచేసి గమనించండి, ఇది ఒక అందించడం మాత్రమే మరియు వాస్తవంగా ఫీ వివరము విభిన్న చెల్లని పేమెంట్ రకం మరియు పే గేట్ నుండి వచ్చే అదనపు ధరల ఆధారంగా మారవచ్చు.',
+    'payment.fanClub.priceBreakdown': 'వాడుకర్తలు చెల్లనిది: {amount} అవగాహన ఫీ {fee} ({platformPercentage}), స్ట్రైప్ నుండి అంచనా ఫీస్ అంచేయబడుతున్నది: {stripeFee} ({stripeBaseFee} బేస్ లేదా చెల్లని లేదా పేమెంట్ రెట్ శాతం), మీరు పొందవచ్చేయని సమాచారం: {net}',
+    'payment.fanClub.learnStripeFees': 'స్ట్రైప్ వడుకు గురించి మరిన్ని నవీకరించండి.',
+    'payment.feeNotice': 'దయచేసి గమనించండి, ఇది ఒక అంచనా మాత్రం మరియు వాటికి సంబంధించిన అనుకూల ధరుల ఆధారంగానే నిజమైన స్ట్రైప్ ఫీ మార్పు ఉంటుంది.',
     'payment.fanClub.perks': 'ప్రతిఫలాలు',
-    'stripeConnect.settings.notifications': 'స్ట్రైప్ నుంచి ప్రకటనలు'
+    'stripeConnect.settings.notifications': 'స్ట్రైప్ నుంచి ప్రకటనలు',
+    'plans.pricePerMonth': 'నెల డబ్బు సంఖ్య',
+    'payment.fanClub.perkType': 'లాభం రకం',
+    'payment.fanClub.addPerk': 'లాభం జోడించు',
+    'payment.fanClub.perksExplained': 'ఇవి పద్య జగత్తులో తనిఖీ అవ్వబడే అనువంశలని ఆటోమేటికంగా అవార్డు చేస్తాయి.'
 };
