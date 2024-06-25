@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Προσθήκη επιπέδου',
     'payment.fanClub.description': 'Περιγραφή επιπέδου',
     'payment.fanClub.picture': 'Εικόνα επιπέδου',
-    'payment.fanClub.priceBreakdown': 'Ο συνδρομητής θα πληρώσει: {amount}. Το τέλος πλατφόρμας είναι {fee}, θα λάβετε: {net}',
-    'payment.feeNotice': 'Παρακαλούμε σημειώστε ότι αυτό είναι μια εκτίμηση και το πραγματικό τέλος μπορεί να διαφέρει ανάλογα με τον τύπο πληρωμής του πελάτη και τυχόν επιπλέον χρεώσεις από την πύλη πληρωμής.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Μάθετε περισσότερα σχετικά με τις χρεώσεις της Stripe.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Προνόμια',
-    'stripeConnect.settings.notifications': 'Ειδοποιήσεις από την Stripe'
+    'stripeConnect.settings.notifications': 'Ειδοποιήσεις από την Stripe',
+    'plans.pricePerMonth': 'Ποσό ανά μήνα',
+    'payment.fanClub.perkType': 'Τύπος παροχής',
+    'payment.fanClub.addPerk': 'Προσθήκη παροχής',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
