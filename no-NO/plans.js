@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Legg til nivå',
     'payment.fanClub.description': 'Nivåbeskrivelse',
     'payment.fanClub.picture': 'Nivåbilde',
-    'payment.fanClub.priceBreakdown': 'Abonnenten vil betale: {amount}. Plattformavgift er {fee}, du vil få: {net}',
-    'payment.feeNotice': 'Vennligst merk at dette er et estimat, og den faktiske avgiften kan være forskjellig basert på kundens betalingstype og eventuelle ekstra gebyrer fra betalingsportalen.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Lær mer om Stripe-gebyrer.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Fordeler',
-    'stripeConnect.settings.notifications': 'Varsler fra Stripe'
+    'stripeConnect.settings.notifications': 'Varsler fra Stripe',
+    'plans.pricePerMonth': 'Beløp per måned',
+    'payment.fanClub.perkType': 'Fordelstype',
+    'payment.fanClub.addPerk': 'Legg til fordel',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
