@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Katman ekle',
     'payment.fanClub.description': 'Katman açıklaması',
     'payment.fanClub.picture': 'Katman resmi',
-    'payment.fanClub.priceBreakdown': 'Abone ödeyecek: {amount}. Platform ücreti {fee}, alacaksınız: {net}',
-    'payment.feeNotice': 'Lütfen dikkate alın ki bu bir tahmindir ve gerçek ücret müşterinin ödeme türüne ve ödeme kapısından gelen ek ücretlere bağlı olarak farklı olabilir.',
+    'payment.fanClub.priceBreakdown': 'Abone ödeyecek: {amount}. Platform ücreti {fee} ({platformPercentage}), Stripe\'dan tahmini ücretler: {stripeFee} ({stripeBaseFee} temel işlem ücreti + ödeme türü yüzdesi), net olarak alacak (tahmini): {net}',
+    'payment.fanClub.learnStripeFees': 'Stripe ücretleri hakkında daha fazla bilgi edinin.',
+    'payment.feeNotice': 'Lütfen unutmayın, bu bir tahmin olup, gerçek Stripe ücreti müşterinin ödeme türüne ve ödeme kapısındaki ek ücretlere bağlı olarak farklılık gösterebilir.',
     'payment.fanClub.perks': 'Avantajlar',
-    'stripeConnect.settings.notifications': 'Stripe\'tan Bildirimler'
+    'stripeConnect.settings.notifications': 'Stripe\'tan Bildirimler',
+    'plans.pricePerMonth': 'Aylık tutar',
+    'payment.fanClub.perkType': 'Perk türü',
+    'payment.fanClub.addPerk': 'Perk ekle',
+    'payment.fanClub.perksExplained': 'Bunlar, Edebi Evrende hayran\'a otomatik olarak verilen ayrıcalıklardır.'
 };
