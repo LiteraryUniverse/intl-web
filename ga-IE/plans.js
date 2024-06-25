@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Cuir leibhéal',
     'payment.fanClub.description': 'Cur síos ar an leibhéal',
     'payment.fanClub.picture': 'Íomhá den leibhéal',
-    'payment.fanClub.priceBreakdown': 'Íocfaidh an t-ábharóir: {amount}. Is é an táille an ghnóthach, gheobhaidh tú: {net}',
-    'payment.feeNotice': 'Tabhair faoi deara go bhfuil seo mar mheasúnú agus d\'fhéadfadh an táille fhíorúil difriúil a bheith de réir cineál íocaíochta an chustaiméara agus táillí breise ón ngeata íocaíochta.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Foghlaim tuilleadh faoi dleachtaí Stripe.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Buntáistí',
-    'stripeConnect.settings.notifications': 'Fógraí ó Stripe'
+    'stripeConnect.settings.notifications': 'Fógraí ó Stripe',
+    'plans.pricePerMonth': 'Meastachán in aghaidh na míosa',
+    'payment.fanClub.perkType': 'Cineál corrthairisce',
+    'payment.fanClub.addPerk': 'Cuir corrthairisce leis',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
