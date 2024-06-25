@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'টিয়ার যোগ করুন',
     'payment.fanClub.description': 'টিয়ার বিবরণ',
     'payment.fanClub.picture': 'টিয়ার ছবি',
-    'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান করবেন: {amount}। প্ল্যাটফর্ম ফি {fee} এবং আপনি পাবেন: {net}',
-    'payment.feeNotice': 'দয়া করে মনে রাখবেন যে এটি একটি আনুমানিক পরিমাণ এবং প্রাসঙ্গিক শপিং প্রকার এবং পে গেট থেকে অতিরিক্ত চার্জের উপর ভিত্তি করে আসল ফি ভিন্ন হতে পারে।',
+    'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান করবে: {amount}। প্ল্যাটফর্ম ফি হল {fee} ({platformPercentage}), স্ট্রাইপ থেকে আনুমানিক ফি: {stripeFee} ({stripeBaseFee} বেস লেনদেন ফি + পেমেন্ট টাইপের শতাংশ), আপনি পাবেন (আনুমানিক): {net}',
+    'payment.fanClub.learnStripeFees': 'স্ট্রাইপ ফি সম্পর্কে আরো জানুন।',
+    'payment.feeNotice': 'দয়া করে দেখুন যে এটি একটি আনুমানিক এবং প্রাপ্ত স্ট্রাইপ ফি গ্রাহকের পেমেন্ট টাইপ এবং অতিরিক্ত চার্জ অনুযায়ী বিভিন্ন হতে পারে।',
     'payment.fanClub.perks': 'সুবিধাসমূহ',
-    'stripeConnect.settings.notifications': 'স্ট্রাইপ থেকে বিজ্ঞপ্তি'
+    'stripeConnect.settings.notifications': 'স্ট্রাইপ থেকে বিজ্ঞপ্তি',
+    'plans.pricePerMonth': 'প্রতি মাসের পরিমাণ',
+    'payment.fanClub.perkType': 'সুবিধা প্রকার',
+    'payment.fanClub.addPerk': 'সুবিধা যোগ করুন',
+    'payment.fanClub.perksExplained': 'এটি হল সে সুবিধাজনক যা সহজেই Literary Universe এর মাধ্যমে অটোমেটিক ভাবে গঠিত হয়।'
 };
