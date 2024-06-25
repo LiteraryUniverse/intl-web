@@ -222,13 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Pridėti lygį',
     'payment.fanClub.description': 'Lygio aprašymas',
     'payment.fanClub.picture': 'Lygio nuotrauka',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.priceBreakdown': 'Prenumeratorius sumokės: {amount}. Platformos mokestis yra {fee} ({platformPercentage}), numatyti mokėjimo Stripe mokestis: {stripeFee} ({stripeBaseFee} bazinis mokėjimo komisinis mokestis + mokėjimo tipo procentas), gausite (numatyta): {net}',
     'payment.fanClub.learnStripeFees': 'Sužinokite daugiau apie „Stripe“ mokesčius.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
+    'payment.feeNotice': 'Nepamirškite, kad tai yra įvertinimas ir tikrasis Stripe mokestis gali skirtis pagal kliento mokėjimo tipą ir papildomus mokestis iš mokėjimo vartų.',
     'payment.fanClub.perks': 'Privalumai',
     'stripeConnect.settings.notifications': 'Pranešimai iš „Stripe“',
     'plans.pricePerMonth': 'Suma per mėnesį',
     'payment.fanClub.perkType': 'Paslaugos tipas',
     'payment.fanClub.addPerk': 'Pridėti privilegiją',
-    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
+    'payment.fanClub.perksExplained': 'Tai yra privilegijos, kurios automatiškai suteikiamos fanui per Literary Universe.'
 };
