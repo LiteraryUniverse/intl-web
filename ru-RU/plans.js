@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Добавить уровень',
     'payment.fanClub.description': 'Описание уровня',
     'payment.fanClub.picture': 'Изображение уровня',
-    'payment.fanClub.priceBreakdown': 'Абонент заплатит: {amount}. Плата за платформу составляет {fee}, вы получите: {net}',
-    'payment.feeNotice': 'Пожалуйста, обратите внимание, что это только оценка, и фактическая комиссия может отличаться в зависимости от способа оплаты клиента и дополнительных сборов платёжного шлюза.',
+    'payment.fanClub.priceBreakdown': 'Абонент заплатит: {amount}. Плата платформы составляет {fee} ({platformPercentage}), предполагаемые сборы от Stripe: {stripeFee} ({stripeBaseFee} базовая транзакционная плата + процент от типа оплаты), вы получите (предполагаемое): {net}',
+    'payment.fanClub.learnStripeFees': 'Узнайте больше о комиссиях Stripe.',
+    'payment.feeNotice': 'Пожалуйста, обратите внимание, что это только оценка и фактическая комиссия от Stripe может отличаться в зависимости от способа оплаты клиента и дополнительных сборов платежного шлюза.',
     'payment.fanClub.perks': 'Привилегии',
-    'stripeConnect.settings.notifications': 'Уведомления от Stripe'
+    'stripeConnect.settings.notifications': 'Уведомления от Stripe',
+    'plans.pricePerMonth': 'Сумма в месяц',
+    'payment.fanClub.perkType': 'Тип привилегии',
+    'payment.fanClub.addPerk': 'Добавить привилегию',
+    'payment.fanClub.perksExplained': 'Это дополнительные привилегии, которые автоматически предоставляются фанату через Literary Universe.'
 };
