@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'เพิ่มชั้น',
     'payment.fanClub.description': 'คำอธิบายของชั้น',
     'payment.fanClub.picture': 'รูปภาพของชั้น',
-    'payment.fanClub.priceBreakdown': 'ผู้สมัครจะต้องชำระเงิน: {amount} ค่าบริการแพลตฟอร์มคือ {fee} คุณจะได้รับ: {net}',
-    'payment.feeNotice': 'โปรดทราบว่านี้เป็นการประมาณการเท่านั้นและค่าธรรมเนียมจริงอาจแตกต่างขึ้นอยู่กับประเภทการชำระเงินของลูกค้าและค่าใช้จ่ายเพิ่มเติมจากเกตเวย์การชำระเงิน',
+    'payment.fanClub.priceBreakdown': 'ผู้สมัครจะต้องชำระเงิน: {amount} ค่าบริการแพลตฟอร์มคือ {fee} ({platformPercentage}) ค่าธรรมเนียมโดยประมาณจาก Stripe: {stripeFee} (ค่าธรรมเนียมฐาน + เปอร์เซ็นต์ตามประเภทการชำระเงิน) คุณจะได้ (โดยประมาณ): {net}',
+    'payment.fanClub.learnStripeFees': 'เรียนรู้เพิ่มเติมเกี่ยวกับค่าธรรมเนียม Stripe',
+    'payment.feeNotice': 'โปรดทราบว่านี้เป็นการประมาณการเท่านั้นและค่าธรรมเนียมจริงจาก Stripe อาจแตกต่างขึ้นอยู่กับประเภทการชำระเงินของลูกค้าและค่าใช้จ่ายเพิ่มเติมจากเกตเวย์การชำระเงิน',
     'payment.fanClub.perks': 'สิ่งที่ได้รับเปรียบเสมอ',
-    'stripeConnect.settings.notifications': 'การแจ้งเตือนจาก Stripe'
+    'stripeConnect.settings.notifications': 'การแจ้งเตือนจาก Stripe',
+    'plans.pricePerMonth': 'จำนวนเงินต่อเดือน',
+    'payment.fanClub.perkType': 'ประเภทสิทธิพิเศษ',
+    'payment.fanClub.addPerk': 'เพิ่มสิทธิพิเศษ',
+    'payment.fanClub.perksExplained': 'นี่คือสิทธิประโยชน์ที่ได้รับโดยอัตโนมัติสำหรับแฟนคลับผ่าน Literary Universe'
 };
