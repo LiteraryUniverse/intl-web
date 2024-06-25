@@ -222,13 +222,13 @@ export default {
     'payment.fanClub.createTier': '티어 추가',
     'payment.fanClub.description': '티어 설명',
     'payment.fanClub.picture': '티어 사진',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.priceBreakdown': '구독자는 {amount}을(를) 지불해야 합니다. 플랫폼 수수료는 {fee}({platformPercentage})이며, Stripe의 예상 수수료는 {stripeFee}({stripeBaseFee} 기본 거래 수수료 + 결제 유형의 백분율)입니다. 예상 지급액은 {net}입니다.',
     'payment.fanClub.learnStripeFees': 'Stripe 수수료에 대해 더 알아보세요.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
+    'payment.feeNotice': '사실한 스트라이프 수수료는 고객의 결제 유형과 결제 게이트의 추가 요금에 따라 달라질 수 있음을 참고해 주세요.',
     'payment.fanClub.perks': '혜택',
     'stripeConnect.settings.notifications': 'Stripe로부터의 알림',
     'plans.pricePerMonth': '월당 금액',
     'payment.fanClub.perkType': '혜택 유형',
     'payment.fanClub.addPerk': '혜택 추가',
-    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
+    'payment.fanClub.perksExplained': '이것들은 리터러리 유니버스를 통해 자동으로 팬에게 수여되는 혜택들입니다.'
 };
