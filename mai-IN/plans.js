@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'टियर थप्नुहोस्',
     'payment.fanClub.description': 'टियर वर्णन',
     'payment.fanClub.picture': 'टियर तस्वीर',
-    'payment.fanClub.priceBreakdown': 'सदस्य द्वारा भुगतान होगा: {amount}। प्लेटफ़ॉर्म शुल्क है {fee}, आपको मिलेगा: {net}',
-    'payment.feeNotice': 'कृपया ध्यान दें कि यह एक अनुमान है और वास्तविक शुल्क ग्राहक के भुगतान प्रकार और पेगेट से अतिरिक्त शुल्क के आधार पर अलग हो सकता है।',
+    'payment.fanClub.priceBreakdown': 'सदस्य {amount} देखिल देम। प्लेटफॉर्म शुल्क {fee} ({platformPercentage}) छे (स्ट्राइपबाट अनुमानित शुल्क: {stripeFee} ({stripeBaseFee} बेस लेनदेन शुल्क + भुक्तान प्रकारको प्रतिशत), तपाइँले प्राप्त गर्नुहोस् (अनुमानित): {net}',
+    'payment.fanClub.learnStripeFees': 'Stripe शुल्क के बारे में और अधिक जानें।',
+    'payment.feeNotice': 'कृपया ध्यान दिनुहोस् यो अनुमान हो र सातच्यालित शुल्क ग्राहकको भुक्तान प्रकार र अतिरिक्त शुल्कहरू अनुसार फरक हुन सक्छ।',
     'payment.fanClub.perks': 'पर्क्स',
-    'stripeConnect.settings.notifications': 'स्ट्राइपबाट सूचनाहरू'
+    'stripeConnect.settings.notifications': 'स्ट्राइपबाट सूचनाहरू',
+    'plans.pricePerMonth': 'प्रति माह राशि',
+    'payment.fanClub.perkType': 'लाभ का प्रकार',
+    'payment.fanClub.addPerk': 'लाभ जोड़ें',
+    'payment.fanClub.perksExplained': 'यो हुने छ मनोरञ्जन पुस्ताककर्मीलाई जीवनीका द्वारा कार्यनय पार्दछ।'
 };
