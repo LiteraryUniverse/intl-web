@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Tier hinzufügen',
     'payment.fanClub.description': 'Tierbeschreibung',
     'payment.fanClub.picture': 'Tierbild',
-    'payment.fanClub.priceBreakdown': 'Der Abonnent zahlt: {amount}. Die Plattformgebühr beträgt {fee}, Sie erhalten: {net}',
-    'payment.feeNotice': 'Bitte beachten Sie, dass dies nur eine Schätzung ist und die tatsächliche Gebühr je nach Zahlungsart des Kunden und zusätzlichen Gebühren des Zahlungsgateways unterschiedlich sein kann.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Erfahren Sie mehr über Stripe-Gebühren.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Vorteile',
-    'stripeConnect.settings.notifications': 'Benachrichtigungen von Stripe'
+    'stripeConnect.settings.notifications': 'Benachrichtigungen von Stripe',
+    'plans.pricePerMonth': 'Betrag pro Monat',
+    'payment.fanClub.perkType': 'Art des Vorteils',
+    'payment.fanClub.addPerk': 'Vorteil hinzufügen',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
