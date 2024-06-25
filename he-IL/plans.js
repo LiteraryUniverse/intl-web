@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'הוסף שכבה',
     'payment.fanClub.description': 'תיאור השכבה',
     'payment.fanClub.picture': 'תמונת השכבה',
-    'payment.fanClub.priceBreakdown': 'המנוי ישלם: {amount}. דמי הפלטפורמה הם {fee}, תקבל: {net}',
-    'payment.feeNotice': 'יש לשים לב כי זהו הערך המשוער והדמי המדויק עשוי להיות שונה בהתאם לסוג התשלום של הלקוח ולתשלומים נוספים משער התשלום.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'מידע נוסף על דמי Stripe.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'הטבות',
-    'stripeConnect.settings.notifications': 'הודעות מ-Stripe'
+    'stripeConnect.settings.notifications': 'הודעות מ-Stripe',
+    'plans.pricePerMonth': 'סכום לכל חודש',
+    'payment.fanClub.perkType': 'סוג הטבה',
+    'payment.fanClub.addPerk': 'הוסף הטבה',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
