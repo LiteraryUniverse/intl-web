@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'ટિયર ઉમેરો',
     'payment.fanClub.description': 'ટિયર વર્ણન',
     'payment.fanClub.picture': 'ટિયર ચિત્ર',
-    'payment.fanClub.priceBreakdown': 'ગ્રાહક ચૂકવશે: {amount} પ્લેટફોર્મ ફી છે {fee}, તમે મળશે: {net}',
-    'payment.feeNotice': 'કૃપા કરીને ધ્યાન આપો કે આ એક અંદાજ છે અને વાસ્તવિક ફી ગ્રાહકની ચૂકવણી પ્રકાર અને ચૂકવણીઓમાંથી વધારે ખર્ચો પર આધાર રાખી શકે છે.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'સ્ટ્રાઇપ ફીસ વિશે વધુ જાણો.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'સુવિધાઓ',
-    'stripeConnect.settings.notifications': 'સ્ટ્રિપમાંથી અધિસૂચનાઓ'
+    'stripeConnect.settings.notifications': 'સ્ટ્રિપમાંથી અધિસૂચનાઓ',
+    'plans.pricePerMonth': 'મહિના પ્રતિષ્ઠા',
+    'payment.fanClub.perkType': 'સુવિધા પ્રકાર',
+    'payment.fanClub.addPerk': 'સુવિધા ઉમેરો',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
