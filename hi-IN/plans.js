@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'टियर जोड़ें',
     'payment.fanClub.description': 'टियर विवरण',
     'payment.fanClub.picture': 'टियर चित्र',
-    'payment.fanClub.priceBreakdown': 'सदस्य {amount} भुगतान करेगा। प्लेटफ़ॉर्म शुल्क {fee} है, आपको मिलेगा: {net}',
-    'payment.feeNotice': 'कृपया ध्यान दें कि यह एक अनुमान है और वास्तविक शुल्क ग्राहक के भुगतान प्रकार और पेगेट से अतिरिक्त शुल्क के आधार पर अलग हो सकता है।',
+    'payment.fanClub.priceBreakdown': 'सदस्य का भुगतान होगा: {amount}। प्लेटफ़ॉर्म शुल्क है {fee} ({platformPercentage}), स्ट्राइप से अनुमानित शुल्क: {stripeFee} ({stripeBaseFee} बेस लेनदेन शुल्क + भुगतान प्रकार का प्रतिशत), आपको मिलेगा (अनुमानित): {net}',
+    'payment.fanClub.learnStripeFees': 'यहाँ स्ट्राइप शुल्क के बारे में और अधिक जानें।',
+    'payment.feeNotice': 'कृपया ध्यान दें कि यह एक अनुमान है और वास्तविक स्ट्राइप शुल्क ग्राहक के भुगतान प्रकार और अतिरिक्त शुल्कों के आधार पर अलग हो सकता है।',
     'payment.fanClub.perks': 'लाभ',
-    'stripeConnect.settings.notifications': 'स्ट्राइप से सूचनाएँ'
+    'stripeConnect.settings.notifications': 'स्ट्राइप से सूचनाएँ',
+    'plans.pricePerMonth': 'मासिक राशि',
+    'payment.fanClub.perkType': 'लाभ का प्रकार',
+    'payment.fanClub.addPerk': 'लाभ जोड़ें',
+    'payment.fanClub.perksExplained': 'ये वे लाभ हैं जो स्वचालित रूप से लिटररी यूनिवर्स के माध्यम से फैन को प्रदान किए जाते हैं।'
 };
