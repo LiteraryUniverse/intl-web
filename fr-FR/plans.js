@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Ajouter un niveau',
     'payment.fanClub.description': 'Description du niveau',
     'payment.fanClub.picture': 'Image du niveau',
-    'payment.fanClub.priceBreakdown': 'L\'abonné paiera : {amount}. Les frais de plateforme sont de {fee}, vous recevrez : {net}',
-    'payment.feeNotice': 'Veuillez noter que ceci est une estimation et les frais réels peuvent être différents en fonction du type de paiement du client et des frais supplémentaires du portail de paiement.',
+    'payment.fanClub.priceBreakdown': 'L\'abonné paiera : {amount}. Les frais de la plateforme sont de {fee} ({platformPercentage}), les frais estimés de Stripe : {stripeFee} ({stripeBaseFee} frais de base + pourcentage du type de paiement), vous recevrez (estimé) : {net}',
+    'payment.fanClub.learnStripeFees': 'En savoir plus sur les frais Stripe.',
+    'payment.feeNotice': 'Veuillez noter que ceci est une estimation et que les frais réels de Stripe peuvent être différents en fonction du type de paiement du client et des frais supplémentaires du portail de paiement.',
     'payment.fanClub.perks': 'Avantages',
-    'stripeConnect.settings.notifications': 'Notifications de Stripe'
+    'stripeConnect.settings.notifications': 'Notifications de Stripe',
+    'plans.pricePerMonth': 'Montant par mois',
+    'payment.fanClub.perkType': 'Type d\'avantage',
+    'payment.fanClub.addPerk': 'Ajouter un avantage',
+    'payment.fanClub.perksExplained': 'Ce sont des avantages qui sont automatiquement accordés au fan par l\'Univers Littéraire.'
 };
