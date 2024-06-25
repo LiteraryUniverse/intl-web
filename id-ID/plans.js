@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Tambahkan tier',
     'payment.fanClub.description': 'Deskripsi tier',
     'payment.fanClub.picture': 'Gambar tier',
-    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Biaya platform adalah {fee}, Anda akan mendapatkan: {net}',
-    'payment.feeNotice': 'Harap dicatat bahwa ini hanya perkiraan dan biaya sebenarnya mungkin berbeda berdasarkan jenis pembayaran pelanggan dan biaya tambahan dari gerbang pembayaran.',
+    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Biaya platform adalah {fee} ({platformPercentage}), biaya perkiraan dari Stripe: {stripeFee} ({stripeBaseFee} biaya transaksi dasar + persentase jenis pembayaran), Anda akan mendapatkan (perkiraan): {net}',
+    'payment.fanClub.learnStripeFees': 'Pelajari lebih lanjut tentang biaya Stripe.',
+    'payment.feeNotice': 'Harap dicatat bahwa ini adalah perkiraan dan biaya Stripe yang sebenarnya mungkin berbeda berdasarkan jenis pembayaran pelanggan dan biaya tambahan dari gateway pembayaran.',
     'payment.fanClub.perks': 'Keuntungan',
-    'stripeConnect.settings.notifications': 'Notifikasi dari Stripe'
+    'stripeConnect.settings.notifications': 'Notifikasi dari Stripe',
+    'plans.pricePerMonth': 'Jumlah per bulan',
+    'payment.fanClub.perkType': 'Jenis keuntungan',
+    'payment.fanClub.addPerk': 'Tambah keuntungan',
+    'payment.fanClub.perksExplained': 'Ini adalah fasilitas yang secara otomatis diberikan kepada penggemar melalui Literary Universe.'
 };
