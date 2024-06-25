@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Adăugați nivelul',
     'payment.fanClub.description': 'Descriere nivel',
     'payment.fanClub.picture': 'Imagine nivel',
-    'payment.fanClub.priceBreakdown': 'Abonatul va plăti: {amount}. Taxa platformei este {fee}, veți primi: {net}',
-    'payment.feeNotice': 'Vă rugăm să rețineți că aceasta este o estimare și taxa reală poate fi diferită în funcție de tipul de plată al clientului și de taxele suplimentare de la gateway-ul de plată.',
+    'payment.fanClub.priceBreakdown': 'Abonatul va plăti: {amount}. Tariful platformei este {fee} ({platformPercentage}), comisioane estimate de la Stripe: {stripeFee} ({stripeBaseFee} comision de bază pentru tranzacții + procentul pentru tipul de plată), veți primi (estimat): {net}',
+    'payment.fanClub.learnStripeFees': 'Află mai multe despre taxele Stripe.',
+    'payment.feeNotice': 'Vă rugăm să rețineți că aceasta este o estimare și comisionul real de la Stripe poate fi diferit în funcție de tipul de plată al clientului și de taxele suplimentare de la intermediarul de plată.',
     'payment.fanClub.perks': 'Beneficii',
-    'stripeConnect.settings.notifications': 'Notificări de la Stripe'
+    'stripeConnect.settings.notifications': 'Notificări de la Stripe',
+    'plans.pricePerMonth': 'Sumă pe lună',
+    'payment.fanClub.perkType': 'Tip avantaj',
+    'payment.fanClub.addPerk': 'Adaugă avantaj',
+    'payment.fanClub.perksExplained': 'Acestea sunt avantajele care sunt acordate automat fanului prin Literary Universe.'
 };
