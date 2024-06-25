@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'إضافة طبقة',
     'payment.fanClub.description': 'وصف الطبقة',
     'payment.fanClub.picture': 'صورة الطبقة',
-    'payment.fanClub.priceBreakdown': 'المشترك سيدفع: {amount}. رسوم المنصة هي {fee}، ستحصل على: {net}',
-    'payment.feeNotice': 'يرجى ملاحظة أن هذا تقدير وقد تكون الرسوم الفعلية مختلفة بناءً على نوع الدفع الخاص بالعميل والرسوم الإضافية من بوابة الدفع.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'تعرف أكثر على رسوم سترايب.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'الامتيازات',
-    'stripeConnect.settings.notifications': 'إشعارات من سترايب'
+    'stripeConnect.settings.notifications': 'إشعارات من سترايب',
+    'plans.pricePerMonth': 'المبلغ شهريًا',
+    'payment.fanClub.perkType': 'نوع المزايا',
+    'payment.fanClub.addPerk': 'إضافة مزايا',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
