@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Lisää taso',
     'payment.fanClub.description': 'Tason kuvaus',
     'payment.fanClub.picture': 'Tason kuva',
-    'payment.fanClub.priceBreakdown': 'Tilaaja maksaa: {amount}. Alustamaksu on {fee}, saat: {net}',
-    'payment.feeNotice': 'Huomioithan, että tämä on arvio ja todellinen maksu voi poiketa asiakkaan maksutavasta ja mahdollisista lisämaksuista maksuportilta.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Lue lisää Stripe-maksuista.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Edut',
-    'stripeConnect.settings.notifications': 'Ilmoitukset Stripeltä'
+    'stripeConnect.settings.notifications': 'Ilmoitukset Stripeltä',
+    'plans.pricePerMonth': 'Summa kuukaudessa',
+    'payment.fanClub.perkType': 'Edun tyyppi',
+    'payment.fanClub.addPerk': 'Lisää etu',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
