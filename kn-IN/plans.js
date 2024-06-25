@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'ಟಿಯರ್ ಸೇರಿಸಿ',
     'payment.fanClub.description': 'ಟಿಯರ್ ವಿವರಣೆ',
     'payment.fanClub.picture': 'ಟಿಯರ್ ಚಿತ್ರ',
-    'payment.fanClub.priceBreakdown': 'ಅಭಿನಂದನೆಗಳು, ಗ್ರಾಹಕರು ಪಾವತಿ ಮಾಡುವಾಗ: {amount}. ಪ್ಲಾಟ್‌ಫಾರಂ ಶುಲ್ಕ {fee}, ನೀವು ಪಡೆಯುವುದು: {net}',
-    'payment.feeNotice': 'ದಯವಿಟ್ಟು ಗಮನಿಸಿ, ಇದು ಒಂದು ಅಂಕಿತ ಮೂಲಕ ಮಾತ್ರವೇ ಮತ್ತು ವಾಸ್ತವಿಕ ಶುಲ್ಕ ಗ್ರಾಹಕರ ಪಾವತಿ ಪ್ರಕಾರ ಮತ್ತು ಪಾವತಿ ಗೇಟ್‌ನಿಂದ ಹೆಚ್ಚು ಶುಲ್ಕಗಳ ಆಧಾರದ ಮೇಲೆ ಬೇರೆಯಾಗಬಹುದು.',
+    'payment.fanClub.priceBreakdown': 'ಉಪಯೋಗದಾರನು ಪಾವತಿ ಪಡೆಯುತ್ತಾನೆ: {amount}. ಪ್ಲ್ಯಾಟ್‌ಫಾರ್ಮ್ ಶುಲ್ಕವು {fee} ({platformPercentage}) ಆಗಿದೆ, ಸ್ಟ್ರೈಪ್ ನಿಂದ ಅಂದಾಜು ಶುಲ್ಕಗಳು: {stripeFee} ({stripeBaseFee} ಬೇಸ್ ವ್ಯಾಪಾರ ಶುಲ್ಕ + ಪಾವತಿ ಪ್ರಕಾರದ ಶುಲ್ಕ), ನೀವು ಪಡೆಯುವುದು (ಅಂದಾಜು): {net}',
+    'payment.fanClub.learnStripeFees': 'ಸ್ಟ್ರೈಪ್ ಶುಲ್ಕಗಳ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿ ಪಡೆಯಿರಿ.',
+    'payment.feeNotice': 'ದಯವಿಟ್ಟು ಗಮನಿಸಿ, ಇದು ಅಂದಾಜು ಮತ್ತು ನಿಜವಾದ ಸ್ಟ್ರೈಪ್ ಶುಲ್ಕ ವಿಷಯಕ್ಕೆ ಬದಲಾಗಿ ಗ್ರಾಹಕನ ಪಾವತಿ ಪ್ರಕಾರ ಮತ್ತು ಪೂರಕ ಶುಲ್ಕಗಳಿಗೆ ಆಧಾರಿತವಾಗಿರಬಹುದು.',
     'payment.fanClub.perks': 'ಸೌಲಭ್ಯಗಳು',
-    'stripeConnect.settings.notifications': 'ಸ್ಟ್ರೈಪ್ ನಿಂದಲೇ ಅಧಿಸೂಚನೆಗಳು'
+    'stripeConnect.settings.notifications': 'ಸ್ಟ್ರೈಪ್ ನಿಂದಲೇ ಅಧಿಸೂಚನೆಗಳು',
+    'plans.pricePerMonth': 'ಪ್ರತಿ ತಿಂಗಳು ರೂಪಾಯಿಗಳ ಮೊತ್ತ',
+    'payment.fanClub.perkType': 'ಸೌಲಭ್ಯ ಪ್ರಕಾರ',
+    'payment.fanClub.addPerk': 'ಸೌಲಭ್ಯವನ್ನು ಸೇರಿಸಿ',
+    'payment.fanClub.perksExplained': 'ಇವು ಗ್ರಂಥ ಜಗತ್ತಿನಲ್ಲಿ ಫ್ಯಾನ್‌ಗೆ ಸ್ವಯಂಪ್ರಕಾಶ ವಾಗುವ ಸೌಲಭ್ಯಗಳು.'
 };
