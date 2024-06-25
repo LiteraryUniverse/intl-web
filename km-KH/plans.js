@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'បន្ថែមកាំងថ្មី',
     'payment.fanClub.description': 'ការពិពណ៌នាកាំង',
     'payment.fanClub.picture': 'រូបភាពកាំង',
-    'payment.fanClub.priceBreakdown': 'អ្នកជាអតិថិជននឹងបង់ប្រាក់: {amount}។ ថ្លៃប្រតិបត្តិការគឺ {fee} អ្នកនឹងទទួលបាន: {net}',
-    'payment.feeNotice': 'សូមបញ្ចូលចំនួននេះជាកំណត់ត្រា ហើយថ្លៃប្រតិបត្តិការពិតជាអាចផ្លាស់ប្តូរតាមប្រភេទបង់ប្រាក់របស់អតិថិជននិងថ្លៃបន្ថែមពីការបង់ប្រាក់ផ្សេងៗពីផ្ទេរប្រតិបត្តិការ។',
+    'payment.fanClub.priceBreakdown': 'អ្នកជំនាញនឹងបង់: {amount}។ ថ្លៃប្រសិទ្ធិប-platform គឺ {fee} ({platformPercentage})។ ថ្លៃប្រើ Stripe ក្នុងការប្រតិបត្តិការបែបបានគិតជាយ៉ឺនផ្សេងទៀត៖ {stripeFee} (ថ្លៃប្រតិបត្តិការមូលដ្ឋានផាត់មូល + ប្រតិបត្តិការផលិតកម្មប្រើប្រាស់ក្នុងការប្រតិបត្តិការ)។ អ្នកនឹងទទួលបាន (គិតជាយ៉ាងខ្លាំង): {net}',
+    'payment.fanClub.learnStripeFees': 'ស្វែងយល់បន្ថែម​អំពី​ការប្រាក់ប្រយ័ត្ន​របស់ Stripe។',
+    'payment.feeNotice': 'សូមចំណាំថា វានឹងជាការបែបបង់កំណត់គឺគ្មានប្រតិបត្តិការ Stripe ដែលអាចផ្លាស់ប្តូរបានអ្វីមួយដូចនេះពីប្រភេទការបង់លើអតិថិជននិងការដើរឈ្មោះបន្ថែម។',
     'payment.fanClub.perks': 'ប្រាក់រង្វាន់',
-    'stripeConnect.settings.notifications': 'ការជូនដំណឹងពី Stripe'
+    'stripeConnect.settings.notifications': 'ការជូនដំណឹងពី Stripe',
+    'plans.pricePerMonth': 'ចំនួនក្នុងមួយខែ',
+    'payment.fanClub.perkType': 'ប្រភេទ​នៃមុខងារ',
+    'payment.fanClub.addPerk': 'បន្ថែមមុខងារ',
+    'payment.fanClub.perksExplained': 'បន្ថែមទៀតគឺជាភាពសម្បត្តិដែលត្រូវផ្ដល់ជូនដោយស្ថានភាពដែលទទួលបានជាស្វ័យប្រវត្តិរបស់អ្នករបស់អ្នកដោយការគិតត្រា.'
 };
