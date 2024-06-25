@@ -222,13 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Tilføj niveau',
     'payment.fanClub.description': 'Niveau beskrivelse',
     'payment.fanClub.picture': 'Niveau billede',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.priceBreakdown': 'Abonnenten vil betale: {amount}. Platform gebyr er {fee} ({platformPercentage}), estimerede gebyrer fra Stripe: {stripeFee} ({stripeBaseFee} base transaktionsgebyr + betalingstype procentdel), du vil få (estimeret): {net}',
     'payment.fanClub.learnStripeFees': 'Lær mere om Stripe gebyrer.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
+    'payment.feeNotice': 'Bemærk venligst, at dette er et skøn, og det faktiske Stripe-gebyr kan være anderledes baseret på kundens betalingstype og ekstra gebyrer fra betalingsgatewayen.',
     'payment.fanClub.perks': 'Fordele',
     'stripeConnect.settings.notifications': 'Notifikationer fra Stripe',
     'plans.pricePerMonth': 'Beløb pr. måned',
     'payment.fanClub.perkType': 'Perk type',
     'payment.fanClub.addPerk': 'Tilføj perk',
-    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
+    'payment.fanClub.perksExplained': 'Dette er fordele, der automatisk tildeles til fanen gennem Literary Universe.'
 };
