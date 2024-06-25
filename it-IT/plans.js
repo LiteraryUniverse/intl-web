@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Aggiungi livello',
     'payment.fanClub.description': 'Descrizione livello',
     'payment.fanClub.picture': 'Immagine livello',
-    'payment.fanClub.priceBreakdown': 'L\'abbonato pagherà: {amount}. La commissione della piattaforma è {fee}, riceverai: {net}',
-    'payment.feeNotice': 'Si prega di notare che si tratta di una stima e la commissione effettiva potrebbe essere diversa in base al tipo di pagamento del cliente e ai costi aggiuntivi del gateway di pagamento.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Scopri di più sulle commissioni di Stripe.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Vantaggi',
-    'stripeConnect.settings.notifications': 'Notifiche da Stripe'
+    'stripeConnect.settings.notifications': 'Notifiche da Stripe',
+    'plans.pricePerMonth': 'Importo mensile',
+    'payment.fanClub.perkType': 'Tipo di vantaggio',
+    'payment.fanClub.addPerk': 'Aggiungi vantaggio',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
