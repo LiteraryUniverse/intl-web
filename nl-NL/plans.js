@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Voeg niveau toe',
     'payment.fanClub.description': 'Niveaubeschrijving',
     'payment.fanClub.picture': 'Niveau afbeelding',
-    'payment.fanClub.priceBreakdown': 'De abonnee betaalt: {amount}. De platformkosten bedragen {fee}, u ontvangt: {net}',
-    'payment.feeNotice': 'Houd er rekening mee dat dit een schatting is en dat de werkelijke kosten kunnen verschillen op basis van de betaalmethode van de klant en eventuele extra kosten van het betaalplatform.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Leer meer over Stripe-kosten.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': 'Voordelen',
-    'stripeConnect.settings.notifications': 'Meldingen van Stripe'
+    'stripeConnect.settings.notifications': 'Meldingen van Stripe',
+    'plans.pricePerMonth': 'Bedrag per maand',
+    'payment.fanClub.perkType': 'Type voordeel',
+    'payment.fanClub.addPerk': 'Voeg voordeel toe',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
