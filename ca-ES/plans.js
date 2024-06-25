@@ -222,13 +222,13 @@ export default {
     'payment.fanClub.createTier': 'Afegir nivell',
     'payment.fanClub.description': 'Descripció del nivell',
     'payment.fanClub.picture': 'Imatge del nivell',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.priceBreakdown': 'Subscriptor pagarà: {amount}. Tarifa de la plataforma és {fee} ({platformPercentage}), taxes estimades de Stripe: {stripeFee} (tarifa base de transacció de {stripeBaseFee} + percentatge del tipus de pagament), obtindràs (estimat): {net}',
     'payment.fanClub.learnStripeFees': 'Aprèn més sobre les comissions de Stripe.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
+    'payment.feeNotice': 'Cal tenir en compte que aquesta és una estimació i que la tarifa real de Stripe pot ser diferent en funció del tipus de pagament del client i de càrrecs addicionals de la porta de pagament.',
     'payment.fanClub.perks': 'Beneficis',
     'stripeConnect.settings.notifications': 'Notificacions de Stripe',
     'plans.pricePerMonth': 'Import mensual',
     'payment.fanClub.perkType': 'Tipus de recompensa',
     'payment.fanClub.addPerk': 'Afegir recompensa',
-    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
+    'payment.fanClub.perksExplained': 'Aquests són beneficis que s\'atorguen automàticament al fan a través de Literary Universe.'
 };
