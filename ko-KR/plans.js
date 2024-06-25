@@ -222,8 +222,13 @@ export default {
     'payment.fanClub.createTier': '티어 추가',
     'payment.fanClub.description': '티어 설명',
     'payment.fanClub.picture': '티어 사진',
-    'payment.fanClub.priceBreakdown': '구독자는 {amount}을(를) 지불합니다. 플랫폼 수수료는 {fee}이며, 실제로 받을 금액은 {net}입니다.',
-    'payment.feeNotice': '고객의 결제 유형 및 결제 게이트의 추가 요금에 따라 실제 수수료가 다를 수 있음을 참고해주세요.',
+    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.learnStripeFees': 'Stripe 수수료에 대해 더 알아보세요.',
+    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
     'payment.fanClub.perks': '혜택',
-    'stripeConnect.settings.notifications': 'Stripe로부터의 알림'
+    'stripeConnect.settings.notifications': 'Stripe로부터의 알림',
+    'plans.pricePerMonth': '월당 금액',
+    'payment.fanClub.perkType': '혜택 유형',
+    'payment.fanClub.addPerk': '혜택 추가',
+    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
 };
