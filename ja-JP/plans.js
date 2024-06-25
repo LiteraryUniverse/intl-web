@@ -222,13 +222,13 @@ export default {
     'payment.fanClub.createTier': 'レベルを追加する',
     'payment.fanClub.description': 'レベルの説明',
     'payment.fanClub.picture': 'レベルの画像',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'payment.fanClub.priceBreakdown': '購読者は{amount}を支払います。プラットフォーム手数料は{fee}（{platformPercentage}）で、Stripeからの見積もり手数料は{stripeFee}（{stripeBaseFee}の基本取引手数料+支払いタイプのパーセンテージ）です。手元に残る見積もり金額は{net}です。',
     'payment.fanClub.learnStripeFees': 'Stripeの手数料について詳しく学ぶ。',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate.',
+    'payment.feeNotice': 'なお、これは見積もりですので、実際のStripe手数料は、お客様の支払い方法や追加料金によって異なる場合がありますのでご注意ください。',
     'payment.fanClub.perks': '特典',
     'stripeConnect.settings.notifications': 'Stripeからの通知',
     'plans.pricePerMonth': '月額金額',
     'payment.fanClub.perkType': '特典タイプ',
     'payment.fanClub.addPerk': '特典を追加する',
-    'payment.fanClub.perksExplained': 'These are perks that get automatically awarded to the fan through Literary Universe.'
+    'payment.fanClub.perksExplained': 'これらは、Literary Universeを通じてファンに自動的に付与される特典です。'
 };
