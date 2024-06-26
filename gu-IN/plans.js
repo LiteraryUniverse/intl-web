@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'મહિના પ્રતિષ્ઠા',
     'payment.fanClub.perkType': 'સુવિધા પ્રકાર',
     'payment.fanClub.addPerk': 'સુવિધા ઉમેરો',
-    'payment.fanClub.perksExplained': 'આ છે જે perks છે જે સ્વયંચાલિત રીતે Literary Universe દ્વારા ફેનને આપવામાં આવે છે.'
+    'payment.fanClub.perksExplained': 'આ છે જે perks છે જે સ્વયંચાલિત રીતે Literary Universe દ્વારા ફેનને આપવામાં આવે છે.',
+    'plans.deleteTier.header': 'શું તમે ખોતું {tierName} ડિલીટ કરવા માંગો છો?',
+    'plans.deleteTier.explainer': 'જો આ ટિયરની કોઈ પણ સબ્સ્ક્રાઇબર્સ નથી, તો તે ડિલીટ થશે. અન્યથા, તે નવા સબ્સ્ક્રિપ્શન્સ માટે અનચેટ થઈ જશે, પરંતુ હાલના સબ્સ્ક્રિપ્શન્સ પ્રોથમે ચાલી રહી રહેશે જ્યાં સુપોર્ટર્સે તેની પાસે પરિવર્તન ન કરે.'
 };
