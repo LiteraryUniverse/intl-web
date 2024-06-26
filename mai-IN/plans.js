@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'प्रति माह राशि',
     'payment.fanClub.perkType': 'लाभ का प्रकार',
     'payment.fanClub.addPerk': 'लाभ जोड़ें',
-    'payment.fanClub.perksExplained': 'यो हुने छ मनोरञ्जन पुस्ताककर्मीलाई जीवनीका द्वारा कार्यनय पार्दछ।'
+    'payment.fanClub.perksExplained': 'यो हुने छ मनोरञ्जन पुस्ताककर्मीलाई जीवनीका द्वारा कार्यनय पार्दछ।',
+    'plans.deleteTier.header': 'के तपाईं निश्चित रूपमा टियर {tierName} मेटाउन चाहानुहुन्छ?',
+    'plans.deleteTier.explainer': 'यदि यो टियरमा कुनै सदस्यहरू छैनन् भने यो मेटिनेछ। अन्यथा यो नयाँ सदस्यता लागू नभएको छ हुनेछ, तर मौजूदा सदस्यताहरूले चाँडो गर्नुहुनेछ जब तातो आफ्नो सदस्यता परिवर्तन गर्छ।'
 };
