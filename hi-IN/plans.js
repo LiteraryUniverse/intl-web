@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'मासिक राशि',
     'payment.fanClub.perkType': 'लाभ का प्रकार',
     'payment.fanClub.addPerk': 'लाभ जोड़ें',
-    'payment.fanClub.perksExplained': 'ये वे लाभ हैं जो स्वचालित रूप से लिटररी यूनिवर्स के माध्यम से फैन को प्रदान किए जाते हैं।'
+    'payment.fanClub.perksExplained': 'ये वे लाभ हैं जो स्वचालित रूप से लिटररी यूनिवर्स के माध्यम से फैन को प्रदान किए जाते हैं।',
+    'plans.deleteTier.header': 'क्या आप वाकई टियर {tierName} को हटाना चाहते हैं?',
+    'plans.deleteTier.explainer': 'यदि इस टियर में कोई सब्सक्राइबर नहीं है, तो वह हटा दिया जाएगा। अन्यथा, यह नई सदस्यता के लिए निष्क्रिय कर दिया जाएगा, लेकिन मौजूदा सदस्यताओं को बदलने तक जारी रखा जाएगा।'
 };
