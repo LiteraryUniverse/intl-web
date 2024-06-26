@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Сума на місяць',
     'payment.fanClub.perkType': 'Тип переваги',
     'payment.fanClub.addPerk': 'Додати перевагу',
-    'payment.fanClub.perksExplained': 'Це переваги, які автоматично надаються фану через Literary Universe.'
+    'payment.fanClub.perksExplained': 'Це переваги, які автоматично надаються фану через Literary Universe.',
+    'plans.deleteTier.header': 'Ви впевнені, що хочете видалити рівень {tierName}?',
+    'plans.deleteTier.explainer': 'Якщо у цього рівня немає жодного підписника, він буде видалений. В іншому випадку він буде відключений для нових підписок, але існуючі підписки будуть продовжуватись, поки шанувальник не змінить свою підписку.'
 };
