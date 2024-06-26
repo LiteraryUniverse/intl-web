@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Belopp per månad',
     'payment.fanClub.perkType': 'Perktyp',
     'payment.fanClub.addPerk': 'Lägg till perk',
-    'payment.fanClub.perksExplained': 'Detta är förmåner som automatiskt tilldelas fansen genom Literary Universe.'
+    'payment.fanClub.perksExplained': 'Detta är förmåner som automatiskt tilldelas fansen genom Literary Universe.',
+    'plans.deleteTier.header': 'Är du säker på att du vill ta bort nivån {tierName}?',
+    'plans.deleteTier.explainer': 'Om denna nivå inte har några prenumeranter kommer den att tas bort. Annars kommer den att inaktiveras för nya prenumerationer, men befintliga prenumerationer fortsätter tills användaren ändrar sin prenumeration.'
 };
