@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Meastachán in aghaidh na míosa',
     'payment.fanClub.perkType': 'Cineál corrthairisce',
     'payment.fanClub.addPerk': 'Cuir corrthairisce leis',
-    'payment.fanClub.perksExplained': 'Is iad seo na buntáisceanna a bhronntar go huathoibríoch ar an bhfanna trí Léann na Litríochta.'
+    'payment.fanClub.perksExplained': 'Is iad seo na buntáisceanna a bhronntar go huathoibríoch ar an bhfanna trí Léann na Litríochta.',
+    'plans.deleteTier.header': 'An bhfuil tú cinnte go bhfuil tú ag iarraidh an céim {tierName} a scriosadh?',
+    'plans.deleteTier.explainer': 'Má tá aon foirstineach ag an gcéim seo, scriosfar é. Sa chás nach bhfuil aon foirstineach aige, mairfidh sé ar leathanaigh nua, ach leanfaidh sí ar aghaidh go dtí go ndéanann an t-aitheantasathraí a athrú.'
 };
