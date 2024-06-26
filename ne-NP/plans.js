@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'प्रति महिना रकम',
     'payment.fanClub.perkType': 'पर्कको प्रकार',
     'payment.fanClub.addPerk': 'पर्क थप्नुहोस्',
-    'payment.fanClub.perksExplained': 'यी वेरवादले अनुमति दिने लेखकीय विश्वमा प्रायोजित गरिने छन्दा हो।'
+    'payment.fanClub.perksExplained': 'यी वेरवादले अनुमति दिने लेखकीय विश्वमा प्रायोजित गरिने छन्दा हो।',
+    'plans.deleteTier.header': 'के तपाईं निश्चित रूपमा {tierName} तहलाई हटाउन चाहनुहुन्छ?',
+    'plans.deleteTier.explainer': 'यदि यो तहमा कुनै सदस्यहरू छैनन् भने यो हटाइने छ। अन्यथा नयाँ सदस्यताका लागि यो अक्षम बनाइने छ, तर मौजूदा सदस्यता सदस्यले सदस्यताका परिवर्धन गर्नुस् राखिनेछ।'
 };
