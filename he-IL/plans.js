@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'סכום לכל חודש',
     'payment.fanClub.perkType': 'סוג הטבה',
     'payment.fanClub.addPerk': 'הוסף הטבה',
-    'payment.fanClub.perksExplained': 'אלו הם הטבות שניתנות באופן אוטומטי לאוהד דרך יצירת היקום הספרותי.'
+    'payment.fanClub.perksExplained': 'אלו הם הטבות שניתנות באופן אוטומטי לאוהד דרך יצירת היקום הספרותי.',
+    'plans.deleteTier.header': 'האם אתה בטוח שברצונך למחוק את השכבה {tierName}?',
+    'plans.deleteTier.explainer': 'אם לשכבה זו אין מנויים, היא תימחק. אחרת, היא תושבת למנויים חדשים, אך המנויים הקיימים ימשיכו עד שהמעריך משנה את המנוי שלו.'
 };
