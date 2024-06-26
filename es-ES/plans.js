@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Cantidad por mes',
     'payment.fanClub.perkType': 'Tipo de ventaja',
     'payment.fanClub.addPerk': 'Agregar ventaja',
-    'payment.fanClub.perksExplained': 'Estas son las ventajas que se otorgan automáticamente al fan a través de Literary Universe.'
+    'payment.fanClub.perksExplained': 'Estas son las ventajas que se otorgan automáticamente al fan a través de Literary Universe.',
+    'plans.deleteTier.header': '¿Estás seguro de que quieres eliminar la categoría {tierName}?',
+    'plans.deleteTier.explainer': 'Si esta categoría no tiene ningún suscriptor, se eliminará. De lo contrario, se desactivará para nuevas suscripciones, pero las suscripciones existentes continuarán hasta que el fan cambie su suscripción.'
 };
