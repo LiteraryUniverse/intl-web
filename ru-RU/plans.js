@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Сумма в месяц',
     'payment.fanClub.perkType': 'Тип привилегии',
     'payment.fanClub.addPerk': 'Добавить привилегию',
-    'payment.fanClub.perksExplained': 'Это дополнительные привилегии, которые автоматически предоставляются фанату через Literary Universe.'
+    'payment.fanClub.perksExplained': 'Это дополнительные привилегии, которые автоматически предоставляются фанату через Literary Universe.',
+    'plans.deleteTier.header': 'Вы уверены, что хотите удалить уровень {tierName}?',
+    'plans.deleteTier.explainer': 'Если у этого уровня нет подписчиков, он будет удален. В противном случае он будет отключен для новых подписок, но существующие подписки будут продолжаться до тех пор, пока поклонник не изменит свою подписку.'
 };
