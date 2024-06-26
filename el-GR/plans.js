@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Ποσό ανά μήνα',
     'payment.fanClub.perkType': 'Τύπος παροχής',
     'payment.fanClub.addPerk': 'Προσθήκη παροχής',
-    'payment.fanClub.perksExplained': 'Αυτά είναι προνόμια που απονέμονται αυτόματα στον θαυμαστή μέσω του Literary Universe.'
+    'payment.fanClub.perksExplained': 'Αυτά είναι προνόμια που απονέμονται αυτόματα στον θαυμαστή μέσω του Literary Universe.',
+    'plans.deleteTier.header': 'Είστε σίγουροι ότι θέλετε να διαγράψετε το επίπεδο {tierName};',
+    'plans.deleteTier.explainer': 'Εάν αυτό το επίπεδο δεν έχει κανέναν συνδρομητή, θα διαγραφεί. Διαφορετικά, θα απενεργοποιηθεί για νέες συνδρομές, αλλά οι υπάρχουσες συνδρομές θα συνεχίσουν μέχρι ο φαν να αλλάξει τη συνδρομή του.'
 };
