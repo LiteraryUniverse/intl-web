@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Suma per mėnesį',
     'payment.fanClub.perkType': 'Paslaugos tipas',
     'payment.fanClub.addPerk': 'Pridėti privilegiją',
-    'payment.fanClub.perksExplained': 'Tai yra privilegijos, kurios automatiškai suteikiamos fanui per Literary Universe.'
+    'payment.fanClub.perksExplained': 'Tai yra privilegijos, kurios automatiškai suteikiamos fanui per Literary Universe.',
+    'plans.deleteTier.header': 'Ar tikrai norite ištrinti lygį {tierName}?',
+    'plans.deleteTier.explainer': 'Jei šis lygis neturi jokių prenumeratorių, jis bus ištrintas. Kitu atveju jis bus išjungtas naujiems prenumeratams, bet esamos prenumeratos tęsis, kol fanas pakeis savo prenumeratą.'
 };
