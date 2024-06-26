@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': '每月金額',
     'payment.fanClub.perkType': '福利類型',
     'payment.fanClub.addPerk': '新增福利',
-    'payment.fanClub.perksExplained': '這些是通過文學宇宙自動授予粉絲的特權。'
+    'payment.fanClub.perksExplained': '這些是通過文學宇宙自動授予粉絲的特權。',
+    'plans.deleteTier.header': '您確定要刪除層級{tierName}嗎？',
+    'plans.deleteTier.explainer': '如果該層級沒有任何訂閱者，它將被刪除。否則，將停用新訂閱，但現有訂閱將繼續，直到粉絲更改他們的訂閱。'
 };
