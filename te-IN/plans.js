@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'నెల డబ్బు సంఖ్య',
     'payment.fanClub.perkType': 'లాభం రకం',
     'payment.fanClub.addPerk': 'లాభం జోడించు',
-    'payment.fanClub.perksExplained': 'ఇవి పద్య జగత్తులో తనిఖీ అవ్వబడే అనువంశలని ఆటోమేటికంగా అవార్డు చేస్తాయి.'
+    'payment.fanClub.perksExplained': 'ఇవి పద్య జగత్తులో తనిఖీ అవ్వబడే అనువంశలని ఆటోమేటికంగా అవార్డు చేస్తాయి.',
+    'plans.deleteTier.header': 'మీరు ఖచ్చితంగా {tierName} టియర్‌ను తొలగించాలా?',
+    'plans.deleteTier.explainer': 'ఈ టియర్‌లో సబ్‌స్క్రిబర్‌లు లేవు అని మీరు ఖచ్చితంగా ఉంచుకోవడం రానుంది. ఇతరులు కూడా సబ్‌స్క్రిప్షన్‌ల రూపంలో ఉంటారు, కానీ ప్రస్తుత సబ్‌స్క్రిప్షన్‌లు మార్చని వరకు చల్లించబడతాయి.'
 };
