@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Số tiền mỗi tháng',
     'payment.fanClub.perkType': 'Loại quyền lợi',
     'payment.fanClub.addPerk': 'Thêm quyền lợi',
-    'payment.fanClub.perksExplained': 'Đây là những lợi ích mà người hâm mộ sẽ tự động nhận được thông qua Literary Universe.'
+    'payment.fanClub.perksExplained': 'Đây là những lợi ích mà người hâm mộ sẽ tự động nhận được thông qua Literary Universe.',
+    'plans.deleteTier.header': 'Bạn có chắc chắn muốn xóa tầng {tierName} không?',
+    'plans.deleteTier.explainer': 'Nếu tầng này không có bất kỳ người đăng ký, nó sẽ bị xóa. Nếu không, nó sẽ bị vô hiệu hóa đối với các đăng ký mới, nhưng các đăng ký hiện có sẽ tiếp tục cho đến khi người hâm mộ thay đổi đăng ký của họ.'
 };
