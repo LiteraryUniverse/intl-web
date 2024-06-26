@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Aylık tutar',
     'payment.fanClub.perkType': 'Perk türü',
     'payment.fanClub.addPerk': 'Perk ekle',
-    'payment.fanClub.perksExplained': 'Bunlar, Edebi Evrende hayran\'a otomatik olarak verilen ayrıcalıklardır.'
+    'payment.fanClub.perksExplained': 'Bunlar, Edebi Evrende hayran\'a otomatik olarak verilen ayrıcalıklardır.',
+    'plans.deleteTier.header': '{tierName} adlı seviyeyi silmek istediğinizden emin misiniz?',
+    'plans.deleteTier.explainer': 'Eğer bu seviyenin herhangi bir abonesi yoksa silinecektir. Aksi takdirde, yeni abonelikler için devre dışı bırakılacak, ancak mevcut abonelikler hayran aboneliği değiştirinceye kadar devam edecektir.'
 };
