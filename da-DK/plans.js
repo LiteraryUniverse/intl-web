@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Beløb pr. måned',
     'payment.fanClub.perkType': 'Perk type',
     'payment.fanClub.addPerk': 'Tilføj perk',
-    'payment.fanClub.perksExplained': 'Dette er fordele, der automatisk tildeles til fanen gennem Literary Universe.'
+    'payment.fanClub.perksExplained': 'Dette er fordele, der automatisk tildeles til fanen gennem Literary Universe.',
+    'plans.deleteTier.header': 'Er du sikker på, at du vil slette niveauet {tierName}?',
+    'plans.deleteTier.explainer': 'Hvis dette niveau ikke har nogen abonnenter, vil det blive slettet. Ellers vil det blive deaktiveret for nye abonnementer, men eksisterende abonnementer vil fortsætte, indtil brugeren ændrer deres abonnement.'
 };
