@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Montant par mois',
     'payment.fanClub.perkType': 'Type d\'avantage',
     'payment.fanClub.addPerk': 'Ajouter un avantage',
-    'payment.fanClub.perksExplained': 'Ce sont des avantages qui sont automatiquement accordés au fan par l\'Univers Littéraire.'
+    'payment.fanClub.perksExplained': 'Ce sont des avantages qui sont automatiquement accordés au fan par l\'Univers Littéraire.',
+    'plans.deleteTier.header': 'Êtes-vous sûr de vouloir supprimer la catégorie {tierName} ?',
+    'plans.deleteTier.explainer': 'Si cette catégorie n\'a aucun abonné, elle sera supprimée. Sinon, elle sera désactivée pour les nouvelles souscriptions, mais les abonnements existants continueront jusqu\'à ce que le fan change sa souscription.'
 };
