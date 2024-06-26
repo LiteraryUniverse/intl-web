@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Sumo por monato',
     'payment.fanClub.perkType': 'Tipo de avantaĝo',
     'payment.fanClub.addPerk': 'Aldoni avantaĝon',
-    'payment.fanClub.perksExplained': 'Tio estas avantaĝoj kiuj estas aŭtomate donataj al la fervorulo tra Literary Universe.'
+    'payment.fanClub.perksExplained': 'Tio estas avantaĝoj kiuj estas aŭtomate donataj al la fervorulo tra Literary Universe.',
+    'plans.deleteTier.header': 'Ĉu vi certas, ke vi volas forigi tavolon {tierName}?',
+    'plans.deleteTier.explainer': 'Se tiu tavolo ne havas iajn abonantojn, ĝi estos forigita. Alie ĝi estos malŝaltita por novaj abonoj, sed ekzistantaj abonoj daŭros ĝis la fano ŝanĝas sian abonon.'
 };
