@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': '月額金額',
     'payment.fanClub.perkType': '特典タイプ',
     'payment.fanClub.addPerk': '特典を追加する',
-    'payment.fanClub.perksExplained': 'これらは、Literary Universeを通じてファンに自動的に付与される特典です。'
+    'payment.fanClub.perksExplained': 'これらは、Literary Universeを通じてファンに自動的に付与される特典です。',
+    'plans.deleteTier.header': '本当に{tierName}を削除しますか？',
+    'plans.deleteTier.explainer': 'もしこのティアに購読者がいない場合、削除されます。そうでない場合、新しい購読には無効になりますが、既存の購読はファンが購読を変更するまで続きます。'
 };
