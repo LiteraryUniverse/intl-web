@@ -264,4 +264,7 @@ export default {
   'payment.fanClub.addPerk': 'Add perk',
   'payment.fanClub.perksExplained':
     'These are perks that get automatically awarded to the fan through Literary Universe.',
+  'plans.deleteTier.header': 'Are you sure you want to delete tier {tierName}?',
+  'plans.deleteTier.explainer':
+    "If you this tier doesn't have any subscribers it will be deleted. Otherwise it will be disabled for new subscriptions, but existing subscriptions will continue until the fan changes their subscription.",
 }
