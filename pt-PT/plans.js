@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'Valor por mês',
     'payment.fanClub.perkType': 'Tipo de vantagem',
     'payment.fanClub.addPerk': 'Adicionar vantagem',
-    'payment.fanClub.perksExplained': 'Estes são benefícios que são automaticamente concedidos ao fã através do Literary Universe.'
+    'payment.fanClub.perksExplained': 'Estes são benefícios que são automaticamente concedidos ao fã através do Literary Universe.',
+    'plans.deleteTier.header': 'Tem a certeza que quer remover a camada {tierName}?',
+    'plans.deleteTier.explainer': 'Se esta camada não tiver assinantes, ela será excluída. Caso contrário, ela será desativada para novas assinaturas, mas as assinaturas existentes continuarão até que o fã altere sua assinatura.'
 };
