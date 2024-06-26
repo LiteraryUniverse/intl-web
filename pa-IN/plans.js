@@ -230,5 +230,7 @@ export default {
     'plans.pricePerMonth': 'ਮਹੀਨੇ ਦੀ ਰਕਮ',
     'payment.fanClub.perkType': 'ਪਰਕ ਕਿਸਮ',
     'payment.fanClub.addPerk': 'ਪਰਕ ਸ਼ਾਮਲ ਕਰੋ',
-    'payment.fanClub.perksExplained': 'ਇਹ ਉਹ ਸੁਵਿਧਾਵਾਂ ਹਨ ਜੋ ਵਾਣੀਕਾ ਯੂਨੀਵਰਸ ਦੁਆਰਾ ਆਟੋਮੈਟਿਕ ਪ੍ਰਦਾਨ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ।'
+    'payment.fanClub.perksExplained': 'ਇਹ ਉਹ ਸੁਵਿਧਾਵਾਂ ਹਨ ਜੋ ਵਾਣੀਕਾ ਯੂਨੀਵਰਸ ਦੁਆਰਾ ਆਟੋਮੈਟਿਕ ਪ੍ਰਦਾਨ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ।',
+    'plans.deleteTier.header': 'ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਟੀਅਰ {tierName} ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?',
+    'plans.deleteTier.explainer': 'ਜੇ ਇਸ ਟੀਅਰ ਵਿੱਚ ਕੋਈ ਗਾਹਕ ਨਹੀਂ ਹਨ, ਤਾਂ ਇਸ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਏਗਾ। ਅਨਿਵਾਰਤਿ ਫੈਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਬਦਲਣ ਤਾਂ ਉਹਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਯਤਨ ਚਾਲੂ ਰਹੇਗੀ।'
 };
