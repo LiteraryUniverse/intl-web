@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Előny hozzáadása',
     'payment.fanClub.perksExplained': 'Ezek az előnyök automatikusan megadódnak a rajongónak a Literary Universe-on keresztül.',
     'plans.deleteTier.header': 'Biztosan törölni szeretnéd a {tierName} szintet?',
-    'plans.deleteTier.explainer': 'Ha ennek a szintnek nincsenek előfizetői, akkor törlésre kerül. Ellenkező esetben új előfizetések esetén letiltásra kerül, de a meglévő előfizetések továbbra is fennmaradnak, amíg a rajongó meg nem változtatja az előfizetését.'
+    'plans.deleteTier.explainer': 'Ha ennek a szintnek nincsenek előfizetői, akkor törlésre kerül. Ellenkező esetben új előfizetések esetén letiltásra kerül, de a meglévő előfizetések továbbra is fennmaradnak, amíg a rajongó meg nem változtatja az előfizetését.',
+    'plans.fanClub.userSettings': 'Kezelje rajongói klub előfizetéseit'
 };
