@@ -19,7 +19,7 @@ export default {
       native: 'English',
       defaultLocale: 'en-US',
       supportedLocales: ['en-US', 'en-UK', 'en-CA', 'en-AU', 'en-NZ'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'cs',
@@ -27,7 +27,7 @@ export default {
       native: 'Česky',
       defaultLocale: 'cs-CZ',
       supportedLocales: ['cs-CZ'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'ja',
@@ -35,7 +35,7 @@ export default {
       native: '日本語',
       defaultLocale: 'ja-JP',
       supportedLocales: ['ja-JP'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'id',
@@ -43,7 +43,7 @@ export default {
       native: 'Bahasa Indonesia',
       defaultLocale: 'id-ID',
       supportedLocales: ['id-ID'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'sk',
@@ -51,23 +51,15 @@ export default {
       native: 'Slovenčina',
       defaultLocale: 'sk-SK',
       supportedLocales: ['sk-SK'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'de',
       name: 'German',
       native: 'Deutsch',
       defaultLocale: 'de-GE',
-      supportedLocales: [
-        'de-GE',
-        'de-BE',
-        'de-AT',
-        'de-CH',
-        'de-IT',
-        'de-LI',
-        'de-LU'
-      ],
-      rtl: false
+      supportedLocales: ['de-GE', 'de-BE', 'de-AT', 'de-CH', 'de-IT', 'de-LI', 'de-LU'],
+      rtl: false,
     },
     {
       code: 'es',
@@ -101,9 +93,9 @@ export default {
         'es-SV',
         'es-US',
         'es-UY',
-        'es-VE'
+        'es-VE',
       ],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'pl',
@@ -111,23 +103,15 @@ export default {
       native: 'Polski',
       defaultLocale: 'pl-PL',
       supportedLocales: ['pl-PL'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'fr',
       name: 'French',
       native: 'Français',
       defaultLocale: 'fr-FR',
-      supportedLocales: [
-        'fr-FR',
-        'fr-CA',
-        'fr-CH',
-        'fr-LU',
-        'fr-BE',
-        'fr-MC',
-        'fr-CF'
-      ],
-      rtl: false
+      supportedLocales: ['fr-FR', 'fr-CA', 'fr-CH', 'fr-LU', 'fr-BE', 'fr-MC', 'fr-CF'],
+      rtl: false,
     },
     {
       code: 'pt-PT',
@@ -146,17 +130,17 @@ export default {
         'pt-MO',
         'pt-MZ',
         'pt-ST',
-        'pt-TL'
+        'pt-TL',
       ],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'uk',
       name: 'Ukrainian',
-      native: 'украї́нська',
+      native: 'українська',
       defaultLocale: 'uk-UA',
       supportedLocales: ['uk-UA'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'ru',
@@ -164,23 +148,15 @@ export default {
       native: 'русский',
       defaultLocale: 'ru-RU',
       supportedLocales: ['ru-RU', 'ru-BY', 'ru-KG', 'ru-KZ', 'ru-MD', 'ru-UA'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'nl',
       name: 'Dutch',
       native: 'Nederlands',
       defaultLocale: 'nl-NL',
-      supportedLocales: [
-        'nl-NL',
-        'nl-AW',
-        'nl-BE',
-        'nl-BQ',
-        'nl-CW',
-        'nl-SX',
-        'nl-SR'
-      ],
-      rtl: false
+      supportedLocales: ['nl-NL', 'nl-AW', 'nl-BE', 'nl-BQ', 'nl-CW', 'nl-SX', 'nl-SR'],
+      rtl: false,
     },
     {
       code: 'it',
@@ -188,7 +164,7 @@ export default {
       native: 'Italiano',
       defaultLocale: 'it-IT',
       supportedLocales: ['it-IT', 'it-CH'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'fi',
@@ -196,7 +172,7 @@ export default {
       native: 'Suomi',
       defaultLocale: 'fi-FI',
       supportedLocales: ['fi-FI'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'et',
@@ -204,7 +180,7 @@ export default {
       native: 'eesti keel',
       defaultLocale: 'et-EE',
       supportedLocales: ['et-EE'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'hu',
@@ -212,7 +188,7 @@ export default {
       native: 'Magyar',
       defaultLocale: 'hu-HU',
       supportedLocales: ['hu-HU'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'no',
@@ -220,7 +196,7 @@ export default {
       native: 'Norsk',
       defaultLocale: 'no-NO',
       supportedLocales: ['no-NO'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'sv',
@@ -228,7 +204,7 @@ export default {
       native: 'Svenska',
       defaultLocale: 'sv-SE',
       supportedLocales: ['sv-SE', 'sv-FI', 'sv-AX'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'eo',
@@ -244,9 +220,9 @@ export default {
         'eo-HR',
         'eo-DE',
         'eo-NZ',
-        'eo-UY'
+        'eo-UY',
       ],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'vi',
@@ -254,7 +230,7 @@ export default {
       native: 'Tiếng Việt',
       defaultLocale: 'vi-VN',
       supportedLocales: ['vi-VN'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'ko',
@@ -262,7 +238,7 @@ export default {
       native: '한국어',
       defaultLocale: 'ko-KR',
       supportedLocales: ['ko-KR'],
-      rtl: false
+      rtl: false,
     },
     {
       code: 'zh',
@@ -270,8 +246,8 @@ export default {
       native: '中文 (繁體)',
       defaultLocale: 'zh-TW',
       supportedLocales: ['zh-TW', 'zh-HK', 'zh-MO'],
-      rtl: false
-    }
+      rtl: false,
+    },
   ],
   /**
    * Get the array of language codes of supported languages
@@ -290,9 +266,7 @@ export default {
     return supported
   },
   supportedLocalesForLanguage(languageCode: string): string[] {
-    const langDetails = this.languages.find(
-      (lang) => lang.code === languageCode
-    )
+    const langDetails = this.languages.find((lang) => lang.code === languageCode)
     return [langDetails.code, ...langDetails.supportedLocales]
   },
   findLanguageCodeByLocale(locale: string): string {
@@ -301,9 +275,7 @@ export default {
     }
     if (locale.length === 5) {
       // Go by supported locales
-      const language = this.languages.find((lang) =>
-        lang.supportedLocales.includes(locale)
-      )
+      const language = this.languages.find((lang) => lang.supportedLocales.includes(locale))
       if (language) return language.code
     }
     return 'en'
@@ -322,15 +294,15 @@ export default {
         native: 'português brasileiro',
         defaultLocale: 'pt-BR',
         supportedLocales: ['pt-BR'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'hi',
         name: 'Hindi',
-        native: 'मानक हिन्दी', // modern standard hindi
+        native: 'मनक हनद', // modern standard hindi
         defaultLocale: 'hi-IN',
         supportedLocales: ['hi-IN'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'af',
@@ -338,7 +310,7 @@ export default {
         native: 'Afrikaans',
         defaultLocale: 'af-ZA',
         supportedLocales: ['af-ZA', 'af-NA'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'ca',
@@ -346,7 +318,7 @@ export default {
         native: 'Català',
         defaultLocale: 'ca-ES',
         supportedLocales: ['ca-ES', 'ca-AD', 'ca-FR', 'ca-IT'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'da',
@@ -354,7 +326,7 @@ export default {
         native: 'Dansk',
         defaultLocale: 'da-DK',
         supportedLocales: ['da-DK', 'da-GL'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'fil',
@@ -362,7 +334,7 @@ export default {
         native: 'Tagalog',
         defaultLocale: 'fil-PH',
         supportedLocales: ['fil-PH'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'el',
@@ -370,7 +342,7 @@ export default {
         native: 'Ελληνικά',
         defaultLocale: 'el-GR',
         supportedLocales: ['el-CY', 'el-GR'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'ga',
@@ -378,7 +350,7 @@ export default {
         native: 'Gaeilge',
         defaultLocale: 'ga-IE',
         supportedLocales: ['ga-IE'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'jbo',
@@ -386,7 +358,7 @@ export default {
         native: 'Lojban',
         defaultLocale: 'jbo-EN',
         supportedLocales: ['jbo-EN'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'ro',
@@ -394,7 +366,7 @@ export default {
         native: 'Română',
         defaultLocale: 'ro-RO',
         supportedLocales: ['ro-RO', 'ro-MD'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'th',
@@ -402,7 +374,7 @@ export default {
         native: 'ภาษาไทย',
         defaultLocale: 'th-TH',
         supportedLocales: ['th-TH'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'tr',
@@ -410,7 +382,7 @@ export default {
         native: 'Türkçe',
         defaultLocale: 'tr-TR',
         supportedLocales: ['tr-TR', 'tr-CY'],
-        rtl: false
+        rtl: false,
       },
       {
         code: 'la',
@@ -418,8 +390,8 @@ export default {
         native: 'lingua Latīna',
         defaultLocale: 'la-EU',
         supportedLocales: ['la-EU', 'la-HU', 'la-HR', 'la-PL'],
-        rtl: false
-      }
+        rtl: false,
+      },
     ]
   },
   storyLocales(): string[] {
@@ -431,24 +403,28 @@ export default {
   currencies: {
     USD: {
       sign: '$',
-      location: 'before'
+      location: 'before',
     },
     EUR: {
       sign: '€',
-      location: 'after'
+      location: 'after',
     },
     GBP: {
       sign: '$',
-      location: 'before'
+      location: 'before',
     },
     JPY: {
       sign: '￥',
-      location: 'before'
+      location: 'before',
     },
     CZK: {
       sign: 'Kč',
-      location: 'after'
-    }
+      location: 'after',
+    },
+    IDR: {
+      sign: 'Rp',
+      location: 'before',
+    },
   },
   intlCurrencyFormats: {
     // format for MessageFormat
@@ -457,8 +433,9 @@ export default {
       gbp: { style: 'currency', currency: 'GBP' },
       eur: { style: 'currency', currency: 'EUR' },
       usd: { style: 'currency', currency: 'USD' },
-      czk: { style: 'currency', currency: 'CZK' }
-    }
+      czk: { style: 'currency', currency: 'CZK' },
+      idr: { style: 'currency', currency: 'IDR' },
+    },
   },
   /**
    * Returns the preferred currency based on country.
@@ -470,6 +447,8 @@ export default {
     const code = countryCode.toUpperCase()
     switch (code) {
       case 'GB':
+      case 'AU':
+      case 'NZ':
         return 'GBP'
       case 'US':
       case 'CA':
@@ -478,13 +457,11 @@ export default {
         return 'CZK'
       case 'JP':
         return 'JPY'
+      case 'ID':
+        return 'IDR'
     }
     // EU check
-    if (
-      this.euCountries.indexOf(code) >= 0 ||
-      this.euAssociated.indexOf(code) >= 0
-    )
-      return 'EUR'
+    if (this.euCountries.indexOf(code) >= 0 || this.euAssociated.indexOf(code) >= 0) return 'EUR'
     return 'EUR'
   },
   /**
@@ -735,7 +712,7 @@ export default {
     'EH',
     'YE',
     'ZM',
-    'ZW'
+    'ZW',
   ],
   /**
    * 2-key list of EU countries
@@ -767,7 +744,7 @@ export default {
     'SI',
     'SK',
     'FI',
-    'SE'
+    'SE',
   ],
   /**
    * List of associated countries with EU for which to display EUR
@@ -808,7 +785,7 @@ export default {
     'TN',
     // Other
     'UK',
-    'RU'
+    'RU',
   ],
   /**
    * USA states
@@ -872,6 +849,6 @@ export default {
     'MP',
     'PR',
     'UM',
-    'VI'
-  ]
+    'VI',
+  ],
 }
