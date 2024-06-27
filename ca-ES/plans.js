@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Afegir recompensa',
     'payment.fanClub.perksExplained': 'Aquests són beneficis que s\'atorguen automàticament al fan a través de Literary Universe.',
     'plans.deleteTier.header': 'Esteu segur que voleu eliminar el nivell {tierName}?',
-    'plans.deleteTier.explainer': 'Si aquest nivell no té cap subscriptor, es eliminarà. Sinó, es desactivarà per a noves subscripcions, però les subscripcions existents continuaran fins que el fan canviï la seva subscripció.'
+    'plans.deleteTier.explainer': 'Si aquest nivell no té cap subscriptor, es eliminarà. Sinó, es desactivarà per a noves subscripcions, però les subscripcions existents continuaran fins que el fan canviï la seva subscripció.',
+    'plans.fanClub.userSettings': 'Gestiona les teves subscripcions al club de fans'
 };
