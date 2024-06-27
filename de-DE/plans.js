@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Vorteil hinzufügen',
     'payment.fanClub.perksExplained': 'Dies sind Vergünstigungen, die automatisch an den Fan durch Literary Universe vergeben werden.',
     'plans.deleteTier.header': 'Sind Sie sicher, dass Sie die Ebene {tierName} löschen möchten?',
-    'plans.deleteTier.explainer': 'Wenn diese Ebene keine Abonnenten hat, wird sie gelöscht. Andernfalls wird sie für neue Abonnements deaktiviert, aber bestehende Abonnements bleiben bestehen, bis der Fan sein Abonnement ändert.'
+    'plans.deleteTier.explainer': 'Wenn diese Ebene keine Abonnenten hat, wird sie gelöscht. Andernfalls wird sie für neue Abonnements deaktiviert, aber bestehende Abonnements bleiben bestehen, bis der Fan sein Abonnement ändert.',
+    'plans.fanClub.userSettings': 'Verwalten Sie Ihre Fanclub-Abonnements'
 };
