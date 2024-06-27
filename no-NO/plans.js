@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Legg til fordel',
     'payment.fanClub.perksExplained': 'Dette er fordeler som automatisk blir tildelt til fansen gjennom Literary Universe.',
     'plans.deleteTier.header': 'Er du sikker på at du vil slette nivået {tierName}?',
-    'plans.deleteTier.explainer': 'Hvis dette nivået ikke har noen abonnenter, vil det bli slettet. Ellers vil det bli deaktivert for nye abonnementer, men eksisterende abonnementer vil fortsette til brukeren endrer abonnementet.'
+    'plans.deleteTier.explainer': 'Hvis dette nivået ikke har noen abonnenter, vil det bli slettet. Ellers vil det bli deaktivert for nye abonnementer, men eksisterende abonnementer vil fortsette til brukeren endrer abonnementet.',
+    'plans.fanClub.userSettings': 'Administrer abonnementene til fan-klubben din'
 };
