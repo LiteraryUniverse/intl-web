@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Adicionar vantagem',
     'payment.fanClub.perksExplained': 'Estes são benefícios que são automaticamente concedidos ao fã através do Literary Universe.',
     'plans.deleteTier.header': 'Tem a certeza que quer remover a camada {tierName}?',
-    'plans.deleteTier.explainer': 'Se esta camada não tiver assinantes, ela será excluída. Caso contrário, ela será desativada para novas assinaturas, mas as assinaturas existentes continuarão até que o fã altere sua assinatura.'
+    'plans.deleteTier.explainer': 'Se esta camada não tiver assinantes, ela será excluída. Caso contrário, ela será desativada para novas assinaturas, mas as assinaturas existentes continuarão até que o fã altere sua assinatura.',
+    'plans.fanClub.userSettings': 'Gerencie suas assinaturas do clube de fãs'
 };
