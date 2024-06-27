@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Aggiungi vantaggio',
     'payment.fanClub.perksExplained': 'Questi sono vantaggi che vengono automaticamente assegnati al fan tramite Literary Universe.',
     'plans.deleteTier.header': 'Sei sicuro di voler eliminare il livello {tierName}?',
-    'plans.deleteTier.explainer': 'Se questo livello non ha nessun abbonato, verrà eliminato. Altrimenti verrà disabilitato per nuove sottoscrizioni, ma le sottoscrizioni esistenti continueranno finché il fan non cambia la propria sottoscrizione.'
+    'plans.deleteTier.explainer': 'Se questo livello non ha nessun abbonato, verrà eliminato. Altrimenti verrà disabilitato per nuove sottoscrizioni, ma le sottoscrizioni esistenti continueranno finché il fan non cambia la propria sottoscrizione.',
+    'plans.fanClub.userSettings': 'Gestisci le tue iscrizioni al fan club'
 };
