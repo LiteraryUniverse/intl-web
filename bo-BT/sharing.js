@@ -19,5 +19,6 @@ export default {
     'sharing.pinterest': 'པིན་ཏེ་གསེར་པར།',
     'sharing.gettr': 'གེཏཏར།',
     'sharing.minds': 'མིནདས་པར་གསེར་པར།',
-    'sharing.instagram': 'རྒྱལ་པོའི།'
+    'sharing.instagram': 'རྒྱལ་པོའི།',
+    'sharing.reddit': 'རེ་དའི་དྲི་བ།'
 };

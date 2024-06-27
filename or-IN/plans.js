@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'ଟିୟର ଯୋଡ଼ନ୍ତୁ',
     'payment.fanClub.description': 'ଟିୟର ବର୍ଣନା',
     'payment.fanClub.picture': 'ଟିୟର ଛବି',
-    'payment.fanClub.priceBreakdown': 'ଗ୍ରାହକ ପାଇଁ ଦେଇବାକୁ ହେବ: {amount}। ପ୍ଲାଟଫରମ ଫି ହେବ {fee}, ଆପଣ ପାଇବେ: {net}',
-    'payment.feeNotice': 'ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ ଏହା ଏକ ଆକଳନ ମାତ୍ରା ଅଟେ ଏବଂ ଗ୍ରାହକଙ୍କ ସଂଦାୟର ପ୍ରକାର ଏବଂ ପେ ଗେଟ୍ ଥରୁ ଅତିରିକ୍ତ ଶୁଲ୍କରେ ଭିନ୍ନ ହେବାକୁ ହୋଇପାରେ।',
-    'payment.fanClub.perks': 'ପ୍ରତିଷ୍ଠାନଗୁଡ଼ିକ'
+    'payment.fanClub.priceBreakdown': 'ଗ୍ରାହକ ଦେବେ: {amount}। ପ୍ଲେଟଫର୍ମ ଫି ସହାୟତା ଟଙ୍କା {fee} ({platformPercentage}) ଏବଂ ଷ୍ଟ୍ରାଇପ୍ ଦ୍ୱାରା ସମୟ-ଗଟିକ ଫି: {stripeFee} ({stripeBaseFee} ଆଧାର ଲଗେ ଟ୍ରାନ୍ସାକସନ ଫି + ପେୟମେଣ୍ଟ ପ୍ରକୃତି ପ୍ରତିଶତ), ଆପଣ (ସଂୟାମିତ): {net}',
+    'payment.fanClub.learnStripeFees': 'ଷ୍ଟ୍ରାଇପ୍ ଫିଜରେ ବିଷୟ ତଥ୍ୟାନ୍ତୁ ଶିଖନ୍ତୁ।',
+    'payment.feeNotice': 'ଦୟାକରି ଜଣେ ଠାରୁ ଯାନ୍ତୁ, ଏହା ମାତ୍ର ଏକ ଆକଲନ ଅଟେ ଏବଂ ମାଲିକ ପ୍ରକୃତି ଦ୍ୱାରା ସ୍ଟ୍ରାଇପ୍ ଫି ପରିବର୍ତ୍ତ୍ୟଟି ଭିନ୍ନ ହେବାକୁ ।',
+    'payment.fanClub.perks': 'ପ୍ରତିଷ୍ଠାନଗୁଡ଼ିକ',
+    'stripeConnect.settings.notifications': 'Stripe ରୁ ସୂଚନାଗୁଡ଼ିକ',
+    'plans.pricePerMonth': 'ପ୍ରତି ମାସଙ୍କର ପରମାଣୁ',
+    'payment.fanClub.perkType': 'ଲାଭ ପ୍ରକାର',
+    'payment.fanClub.addPerk': 'ପ୍ରକାର ଯୋଗ କରନ୍ତୁ',
+    'payment.fanClub.perksExplained': 'ଏହା ହେଉଥିବା ଲାଭଗୁଡ଼ିକ ଟିକି ପଦାର୍ଥଗୁଡ଼ୀକ ଧାରଣା ଦ୍ୱାରା ଅଟୋମ୍ୟାଟିକଭାବରେ ପ୍ରଦାନ କରାଯାଇଛି ।',
+    'plans.deleteTier.header': 'ଆପଣ ନିଶ୍ଚୟ ଓଡ଼ିଆ {tierName} ଟିଆର୍ କୁ ମିଟାଇବାକୁ ଚାହୁଁଛନ୍ତି କି?',
+    'plans.deleteTier.explainer': 'ଯଦି ଏହି ଟିଆର୍ କେଉଁ ସଦସ୍ୟଙ୍କ ନାହିଁଏ ତାହା ବିଲେଇବାକୁ ଚାହୁଁଛି । ଅନ୍ୟଥା ଏହା ନାମାଙ୍କରଣ ହେବା ଛେଡ଼ିବାକୁ, କିନ୍ତୁ ସଦସ୍ୟଙ୍କ ସଦସ୍ୟତା ବଦଳିବାରେ ସପ୍ତାହରେ ଥାଇଥିଲେ ।',
+    'plans.fanClub.userSettings': 'ଆପଣଙ୍କ ଫାନ କ୍ଲବର ଚଢ଼ାଇ ଯୋଇଥିବାକୁ ପରିଚାଳିତ କରନ୍ତୁ'
 };

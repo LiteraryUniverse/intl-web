@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'הוסף שכבה',
     'payment.fanClub.description': 'תיאור השכבה',
     'payment.fanClub.picture': 'תמונת השכבה',
-    'payment.fanClub.priceBreakdown': 'המנוי ישלם: {amount}. דמי הפלטפורמה הם {fee}, תקבל: {net}',
-    'payment.feeNotice': 'יש לשים לב כי זהו הערך המשוער והדמי המדויק עשוי להיות שונה בהתאם לסוג התשלום של הלקוח ולתשלומים נוספים משער התשלום.',
-    'payment.fanClub.perks': 'הטבות'
+    'payment.fanClub.priceBreakdown': 'המנוי ישלם: {amount}. עמלת הפלטפורמה היא {fee} ({platformPercentage}), עמלות מוערכות מ־Stripe: {stripeFee} (עמלת פעולה בסיסית של {stripeBaseFee} + אחוז של סוג התשלום), יתקבל (הערכה): {net}',
+    'payment.fanClub.learnStripeFees': 'מידע נוסף על דמי Stripe.',
+    'payment.feeNotice': 'יש לשים לב שזוהי הערכה ועמלת Stripe האמיתית עשויה להיות שונה בהתאם לסוג התשלום של הלקוח ותשלומים נוספים מערך התשלומים.',
+    'payment.fanClub.perks': 'הטבות',
+    'stripeConnect.settings.notifications': 'הודעות מ-Stripe',
+    'plans.pricePerMonth': 'סכום לכל חודש',
+    'payment.fanClub.perkType': 'סוג הטבה',
+    'payment.fanClub.addPerk': 'הוסף הטבה',
+    'payment.fanClub.perksExplained': 'אלו הם הטבות שניתנות באופן אוטומטי לאוהד דרך יצירת היקום הספרותי.',
+    'plans.deleteTier.header': 'האם אתה בטוח שברצונך למחוק את השכבה {tierName}?',
+    'plans.deleteTier.explainer': 'אם לשכבה זו אין מנויים, היא תימחק. אחרת, היא תושבת למנויים חדשים, אך המנויים הקיימים ימשיכו עד שהמעריך משנה את המנוי שלו.',
+    'plans.fanClub.userSettings': 'ניהול מינויי מועדון היתרים שלך'
 };

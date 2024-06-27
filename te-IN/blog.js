@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'పరిచయ పేరణా వాక్యం',
     'blog.post.writtenBy': 'రాచించినది {usernameDisplay}',
     'blog.post.writtenByFor': 'రాచినది {usernameDisplay} {publicationName}కోసం',
-    'blog.posts.recent': 'ఇటరాల పోస్టులు'
+    'blog.posts.recent': 'ఇటరాల పోస్టులు',
+    'blog.statsPage': 'బ్లాగ్ సంఖ్యలు'
 };

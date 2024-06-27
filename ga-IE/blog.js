@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Próiséas ceangailt',
     'blog.post.writtenBy': 'Scríofa ag {usernameDisplay}',
     'blog.post.writtenByFor': 'Scríofa ag {usernameDisplay} do {publicationName}',
-    'blog.posts.recent': 'Ríomhphoist le déanaí'
+    'blog.posts.recent': 'Ríomhphoist le déanaí',
+    'blog.statsPage': 'Staitisticí an bhlag'
 };

@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Bevezető bekezdés',
     'blog.post.writtenBy': 'Írta: {usernameDisplay}',
     'blog.post.writtenByFor': 'Írta: {usernameDisplay} {publicationName}részére',
-    'blog.posts.recent': 'Legfrissebb bejegyzések'
+    'blog.posts.recent': 'Legfrissebb bejegyzések',
+    'blog.statsPage': 'Blog statisztika'
 };

@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'ପରିଚୟ ପାଠକରେ',
     'blog.post.writtenBy': '{usernameDisplay}ଦ୍ୱାରା ଲେଖାଯାଇଛି',
     'blog.post.writtenByFor': '{usernameDisplay} ଦ୍ୱାରା ଲେଖାଯାଇଛି {publicationName}ପାଇଁ',
-    'blog.posts.recent': 'ନବୀନ ପୋଷ୍ଟଗୁଡ଼ିକ'
+    'blog.posts.recent': 'ନବୀନ ପୋଷ୍ଟଗୁଡ଼ିକ',
+    'blog.statsPage': 'ବ୍ଲଗ ପ୍ରବଣତାମାନ୍ୟ'
 };

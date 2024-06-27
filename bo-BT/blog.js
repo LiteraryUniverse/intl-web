@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Introduction paragraph',
     'blog.post.writtenBy': 'Written by {usernameDisplay}',
     'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Recent posts'
+    'blog.posts.recent': 'Recent posts',
+    'blog.statsPage': 'བློ་གྲོས་ཚད་མིང་ཚེ་རིང་པ།'
 };

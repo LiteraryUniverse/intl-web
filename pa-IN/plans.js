@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'ਟੀਅਰ ਸ਼ਾਮਲ ਕਰੋ',
     'payment.fanClub.description': 'ਟੀਅਰ ਦਾ ਵੇਰਵਾ',
     'payment.fanClub.picture': 'ਟੀਅਰ ਦੀ ਤਸਵੀਰ',
-    'payment.fanClub.priceBreakdown': 'ਗਾਹਕ ਦੇਵੇਗਾ: {amount}। ਪਲੇਟਫਾਰਮ ਫੀ ਹੈ {fee} ਤੁਸੀਂ ਪ੍ਰਾਪਤ ਕਰੋਗੇ: {net}',
-    'payment.feeNotice': 'ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਇਹ ਇੱਕ ਅੰਦਾਜ਼ਾ ਹੈ ਅਤੇ ਵਾਸਤਵਿਕ ਫੀ ਗਾਹਕ ਦੇ ਭੁਗਤਾਨ ਦੇ ਢੰਗ ਅਤੇ ਪੇ ਗੇਟ ਤੋਂ ਵਾਧੂ ਚਾਰਜ਼ਾਂ ਦੇ ਆਧਾਰ ਤੇ ਵੱਖਰੀ ਹੋ ਸਕਦੀ ਹੈ।',
-    'payment.fanClub.perks': 'ਫਾਯਦੇ'
+    'payment.fanClub.priceBreakdown': 'ਗਾਹਕ ਦੇਵੇਗਾ: {amount}। ਪਲੇਟਫਾਰਮ ਫੀ ਹੈ {fee} ({platformPercentage})। ਸਟ੍ਰਾਈਪ ਵੱਲੋਂ ਅਨੁਮਾਨਿਤ ਫੀਸ਼: {stripeFee} ({stripeBaseFee} ਬੇਸ ਲੈਣ-ਦੇਣ ਫੀ + ਭੁਗਤਾਨ ਪ੍ਰਕਾਰ ਦੇ ਪ੍ਰਤੀਸ਼ਤ)। ਤੁਸੀਂ ਲੱਭਣਗੇ (ਅਨੁਮਾਨਿਤ): {net}',
+    'payment.fanClub.learnStripeFees': 'ਸਟਰਾਈਪ ਫੀਸ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲੋਹ',
+    'payment.feeNotice': 'ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਓ ਕਿ ਇਹ ਇੱਕ ਅਨੁਮਾਨ ਹੈ ਅਤੇ ਗਾਹਕ ਦੇ ਭੁਗਤਾਨ ਪ੍ਰਕਾਰ ਅਤੇ ਭੁਗਤਾਨ ਗੇਟ ਤੋਂ ਵਾਧੇਯਕ ਛੂਟਾਂ ਦੀ ਵਰਤੋਂ ਨਾਲ ਅਸਲੀ ਸਟ੍ਰਾਈਪ ਫੀ ਵੱਖਰੀ ਹੋ ਸਕਦੀ ਹੈ।',
+    'payment.fanClub.perks': 'ਫਾਯਦੇ',
+    'stripeConnect.settings.notifications': 'ਸਟਰਾਇਪ ਤੋਂ ਸੂਚਨਾਵਾਂ',
+    'plans.pricePerMonth': 'ਮਹੀਨੇ ਦੀ ਰਕਮ',
+    'payment.fanClub.perkType': 'ਪਰਕ ਕਿਸਮ',
+    'payment.fanClub.addPerk': 'ਪਰਕ ਸ਼ਾਮਲ ਕਰੋ',
+    'payment.fanClub.perksExplained': 'ਇਹ ਉਹ ਸੁਵਿਧਾਵਾਂ ਹਨ ਜੋ ਵਾਣੀਕਾ ਯੂਨੀਵਰਸ ਦੁਆਰਾ ਆਟੋਮੈਟਿਕ ਪ੍ਰਦਾਨ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ।',
+    'plans.deleteTier.header': 'ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਟੀਅਰ {tierName} ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?',
+    'plans.deleteTier.explainer': 'ਜੇ ਇਸ ਟੀਅਰ ਵਿੱਚ ਕੋਈ ਗਾਹਕ ਨਹੀਂ ਹਨ, ਤਾਂ ਇਸ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਏਗਾ। ਅਨਿਵਾਰਤਿ ਫੈਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਬਦਲਣ ਤਾਂ ਉਹਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਯਤਨ ਚਾਲੂ ਰਹੇਗੀ।',
+    'plans.fanClub.userSettings': 'ਆਪਣੇ ਫੈਨ ਕਲੱਬ ਗਾਹਕੀਆਂ ਨੂੰ ਸੰਭਾਲੋ'
 };

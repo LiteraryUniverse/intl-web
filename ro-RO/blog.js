@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Paragraful de introducere',
     'blog.post.writtenBy': 'Scris de {usernameDisplay}',
     'blog.post.writtenByFor': 'Scris de {usernameDisplay} pentru {publicationName}',
-    'blog.posts.recent': 'Postări recente'
+    'blog.posts.recent': 'Postări recente',
+    'blog.statsPage': 'Statistici blog'
 };

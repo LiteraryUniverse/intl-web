@@ -19,5 +19,6 @@ export default {
     'sharing.pinterest': 'పింటరెస్ట్',
     'sharing.gettr': 'గెట్ట్ర్',
     'sharing.minds': 'మైండ్స్.com',
-    'sharing.instagram': 'ఇన్స్టాగ్రామ్'
+    'sharing.instagram': 'ఇన్స్టాగ్రామ్',
+    'sharing.reddit': 'రెడ్డిట్'
 };

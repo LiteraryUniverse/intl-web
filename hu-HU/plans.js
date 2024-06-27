@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'Réteg hozzáadása',
     'payment.fanClub.description': 'Réteg leírása',
     'payment.fanClub.picture': 'Réteg képe',
-    'payment.fanClub.priceBreakdown': 'Az előfizető fizetni fog: {amount}. A platform díja {fee}, amit megkap: {net}',
-    'payment.feeNotice': 'Kérjük, vegye figyelembe, hogy ez csak egy becslés, és a tényleges díj változhat a vásárló fizetési módjától és a fizetési kapu által felszámolt további díjak alapján.',
-    'payment.fanClub.perks': 'Juttatások'
+    'payment.fanClub.priceBreakdown': 'Az előfizető fizetni fog: {amount}. A platform díja {fee} ({platformPercentage}), az Stripe becsült díja: {stripeFee} ({stripeBaseFee} alap tranzakciós díj + fizetési típus százalék), te pedig (becsült): {net}',
+    'payment.fanClub.learnStripeFees': 'Tudj meg többet a Stripe díjairól.',
+    'payment.feeNotice': 'Kérjük vedd figyelembe, hogy ez csak egy becslés, az effektív Stripe díj eltérhet a vásárló fizetési típusától és a fizetési kapuhoz kapcsolódó további díjaktól függően.',
+    'payment.fanClub.perks': 'Juttatások',
+    'stripeConnect.settings.notifications': 'Értesítések a Stripe-tól',
+    'plans.pricePerMonth': 'Havi összeg',
+    'payment.fanClub.perkType': 'Előny típusa',
+    'payment.fanClub.addPerk': 'Előny hozzáadása',
+    'payment.fanClub.perksExplained': 'Ezek az előnyök automatikusan megadódnak a rajongónak a Literary Universe-on keresztül.',
+    'plans.deleteTier.header': 'Biztosan törölni szeretnéd a {tierName} szintet?',
+    'plans.deleteTier.explainer': 'Ha ennek a szintnek nincsenek előfizetői, akkor törlésre kerül. Ellenkező esetben új előfizetések esetén letiltásra kerül, de a meglévő előfizetések továbbra is fennmaradnak, amíg a rajongó meg nem változtatja az előfizetését.',
+    'plans.fanClub.userSettings': 'Kezelje rajongói klub előfizetéseit'
 };

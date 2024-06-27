@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Paragraf pengantar',
     'blog.post.writtenBy': 'Ditulis oleh {usernameDisplay}',
     'blog.post.writtenByFor': 'Ditulis oleh {usernameDisplay} untuk {publicationName}',
-    'blog.posts.recent': 'Posting terbaru'
+    'blog.posts.recent': 'Posting terbaru',
+    'blog.statsPage': 'Statistik blog'
 };

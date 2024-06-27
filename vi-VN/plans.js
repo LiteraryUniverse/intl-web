@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'Thêm hạng',
     'payment.fanClub.description': 'Mô tả hạng',
     'payment.fanClub.picture': 'Ảnh hạng',
-    'payment.fanClub.priceBreakdown': 'Người đăng ký sẽ thanh toán: {amount}. Phí nền tảng là {fee}, bạn sẽ nhận được: {net}',
-    'payment.feeNotice': 'Xin lưu ý rằng đây là một ước tính và phí thực tế có thể khác nhau dựa trên loại thanh toán của khách hàng và các khoản phụ phí từ cổng thanh toán.',
-    'payment.fanClub.perks': 'Phúc lợi'
+    'payment.fanClub.priceBreakdown': 'Người đăng ký sẽ thanh toán: {amount}. Phí nền tảng là {fee} ({platformPercentage}), phí ước tính từ Stripe: {stripeFee} ({stripeBaseFee} phí giao dịch cơ bản + phần trăm loại thanh toán), bạn sẽ nhận được (ước tính): {net}',
+    'payment.fanClub.learnStripeFees': 'Tìm hiểu thêm về phí Stripe.',
+    'payment.feeNotice': 'Lưu ý rằng đây chỉ là một ước tính và phí Stripe thực tế có thể khác nhau dựa trên loại thanh toán của khách hàng và các khoản phí bổ sung từ cổng thanh toán.',
+    'payment.fanClub.perks': 'Phúc lợi',
+    'stripeConnect.settings.notifications': 'Thông báo từ Stripe',
+    'plans.pricePerMonth': 'Số tiền mỗi tháng',
+    'payment.fanClub.perkType': 'Loại quyền lợi',
+    'payment.fanClub.addPerk': 'Thêm quyền lợi',
+    'payment.fanClub.perksExplained': 'Đây là những lợi ích mà người hâm mộ sẽ tự động nhận được thông qua Literary Universe.',
+    'plans.deleteTier.header': 'Bạn có chắc chắn muốn xóa tầng {tierName} không?',
+    'plans.deleteTier.explainer': 'Nếu tầng này không có bất kỳ người đăng ký, nó sẽ bị xóa. Nếu không, nó sẽ bị vô hiệu hóa đối với các đăng ký mới, nhưng các đăng ký hiện có sẽ tiếp tục cho đến khi người hâm mộ thay đổi đăng ký của họ.',
+    'plans.fanClub.userSettings': 'Quản lý các đăng ký câu lạc bộ fan của bạn'
 };

@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Sissejuhatav lõik',
     'blog.post.writtenBy': 'Kirjutas {usernameDisplay}',
     'blog.post.writtenByFor': 'Kirjutas {usernameDisplay} {publicationName}jaoks',
-    'blog.posts.recent': 'Viimased postitused'
+    'blog.posts.recent': 'Viimased postitused',
+    'blog.statsPage': 'Blogi statistika'
 };

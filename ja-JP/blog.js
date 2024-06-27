@@ -52,5 +52,6 @@ export default {
     'blog.post.introText': 'イントロダクションパラグラフ',
     'blog.post.writtenBy': '{usernameDisplay}によって書かれた',
     'blog.post.writtenByFor': '{usernameDisplay} が {publicationName}に対して書かれた',
-    'blog.posts.recent': '最近の投稿'
+    'blog.posts.recent': '最近の投稿',
+    'blog.statsPage': 'ブログの統計'
 };

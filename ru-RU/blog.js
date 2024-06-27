@@ -29,9 +29,9 @@ export default {
     'blog.publicView': 'Публичный просмотр',
     'blog.post.notfound': 'Публикация блога не найдена',
     'blog.lists.works': `{type, select,
-    universes {Универсумы}
+    universes {Вселенные}
     stories {Истории}
-    fanfiction {Фанфик}
+    fanfiction {Фанфики}
     other {}
   }`,
     'blog.social.sameAsMain': `Социальные ссылки такие же, как установлены в {type, select,
@@ -54,5 +54,6 @@ export default {
     'blog.post.introText': 'Вступительный абзац',
     'blog.post.writtenBy': 'Написано {usernameDisplay}',
     'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
-    'blog.posts.recent': 'Последние публикации'
+    'blog.posts.recent': 'Последние публикации',
+    'blog.statsPage': 'Статистика блога'
 };

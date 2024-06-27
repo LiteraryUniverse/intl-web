@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': '티어 추가',
     'payment.fanClub.description': '티어 설명',
     'payment.fanClub.picture': '티어 사진',
-    'payment.fanClub.priceBreakdown': '구독자는 {amount}을(를) 지불합니다. 플랫폼 수수료는 {fee}이며, 실제로 받을 금액은 {net}입니다.',
-    'payment.feeNotice': '고객의 결제 유형 및 결제 게이트의 추가 요금에 따라 실제 수수료가 다를 수 있음을 참고해주세요.',
-    'payment.fanClub.perks': '혜택'
+    'payment.fanClub.priceBreakdown': '구독자는 {amount}을(를) 지불해야 합니다. 플랫폼 수수료는 {fee}({platformPercentage})이며, Stripe의 예상 수수료는 {stripeFee}({stripeBaseFee} 기본 거래 수수료 + 결제 유형의 백분율)입니다. 예상 지급액은 {net}입니다.',
+    'payment.fanClub.learnStripeFees': 'Stripe 수수료에 대해 더 알아보세요.',
+    'payment.feeNotice': '사실한 스트라이프 수수료는 고객의 결제 유형과 결제 게이트의 추가 요금에 따라 달라질 수 있음을 참고해 주세요.',
+    'payment.fanClub.perks': '혜택',
+    'stripeConnect.settings.notifications': 'Stripe로부터의 알림',
+    'plans.pricePerMonth': '월당 금액',
+    'payment.fanClub.perkType': '혜택 유형',
+    'payment.fanClub.addPerk': '혜택 추가',
+    'payment.fanClub.perksExplained': '이것들은 리터러리 유니버스를 통해 자동으로 팬에게 수여되는 혜택들입니다.',
+    'plans.deleteTier.header': '{tierName} 티어를 삭제하시겠습니까?',
+    'plans.deleteTier.explainer': '이 티어에 구독자가 없으면 삭제됩니다. 그렇지 않으면 새로운 구독에 대해서는 비활성화되지만, 기존의 구독은 팬이 구독을 변경할 때까지 계속됩니다.',
+    'plans.fanClub.userSettings': '팬 클럽 구독을 관리하세요'
 };

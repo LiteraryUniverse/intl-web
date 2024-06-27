@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'Tier hinzufügen',
     'payment.fanClub.description': 'Tierbeschreibung',
     'payment.fanClub.picture': 'Tierbild',
-    'payment.fanClub.priceBreakdown': 'Der Abonnent zahlt: {amount}. Die Plattformgebühr beträgt {fee}, Sie erhalten: {net}',
-    'payment.feeNotice': 'Bitte beachten Sie, dass dies nur eine Schätzung ist und die tatsächliche Gebühr je nach Zahlungsart des Kunden und zusätzlichen Gebühren des Zahlungsgateways unterschiedlich sein kann.',
-    'payment.fanClub.perks': 'Vorteile'
+    'payment.fanClub.priceBreakdown': 'Der Abonnent zahlt: {amount}. Die Plattformgebühr beträgt {fee} ({platformPercentage}), geschätzte Gebühren von Stripe: {stripeFee} ({stripeBaseFee} Grundtransaktionsgebühr + Prozentsatz je nach Zahlungsart), Sie erhalten (geschätzt): {net}',
+    'payment.fanClub.learnStripeFees': 'Erfahren Sie mehr über Stripe-Gebühren.',
+    'payment.feeNotice': 'Bitte beachten Sie, dass dies nur eine Schätzung ist und die tatsächliche Stripe-Gebühr je nach Zahlungsart des Kunden und zusätzlichen Gebühren des Zahlungsgates unterschiedlich sein kann.',
+    'payment.fanClub.perks': 'Vorteile',
+    'stripeConnect.settings.notifications': 'Benachrichtigungen von Stripe',
+    'plans.pricePerMonth': 'Betrag pro Monat',
+    'payment.fanClub.perkType': 'Art des Vorteils',
+    'payment.fanClub.addPerk': 'Vorteil hinzufügen',
+    'payment.fanClub.perksExplained': 'Dies sind Vergünstigungen, die automatisch an den Fan durch Literary Universe vergeben werden.',
+    'plans.deleteTier.header': 'Sind Sie sicher, dass Sie die Ebene {tierName} löschen möchten?',
+    'plans.deleteTier.explainer': 'Wenn diese Ebene keine Abonnenten hat, wird sie gelöscht. Andernfalls wird sie für neue Abonnements deaktiviert, aber bestehende Abonnements bleiben bestehen, bis der Fan sein Abonnement ändert.',
+    'plans.fanClub.userSettings': 'Verwalten Sie Ihre Fanclub-Abonnements'
 };

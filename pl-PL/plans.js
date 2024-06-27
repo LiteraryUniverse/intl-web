@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'Dodaj poziom',
     'payment.fanClub.description': 'Opis poziomu',
     'payment.fanClub.picture': 'Zdjęcie poziomu',
-    'payment.fanClub.priceBreakdown': 'Abonent zapłaci: {amount}. Opłata platformy wynosi {fee}, otrzymasz: {net}',
-    'payment.feeNotice': 'Prosimy zauważyć, że jest to szacunek, a rzeczywista opłata może się różnić w zależności od rodzaju płatności klienta i dodatkowych opłat od bramki płatności.',
-    'payment.fanClub.perks': 'Korzyści'
+    'payment.fanClub.priceBreakdown': 'Abonent zapłaci: {amount}. Opłata platformy wynosi {fee} ({platformPercentage}), szacowane opłaty od Stripe: {stripeFee} ({stripeBaseFee} opłata podstawowa transakcji + procent od rodzaju płatności), otrzymasz (szacowane): {net}',
+    'payment.fanClub.learnStripeFees': 'Dowiedz się więcej o opłatach Stripe.',
+    'payment.feeNotice': 'Należy jednak zauważyć, że jest to szacunek, a rzeczywista opłata od Stripe może się różnić w zależności od rodzaju płatności klienta i dodatkowych opłat od bramki płatności.',
+    'payment.fanClub.perks': 'Korzyści',
+    'stripeConnect.settings.notifications': 'Powiadomienia od Stripe',
+    'plans.pricePerMonth': 'Kwota miesięcznie',
+    'payment.fanClub.perkType': 'Rodzaj dodatku',
+    'payment.fanClub.addPerk': 'Dodaj dodatek',
+    'payment.fanClub.perksExplained': 'Oto dodatki, które automatycznie zostają przyznane fanowi przez Literary Universe.',
+    'plans.deleteTier.header': 'Czy jesteś pewien, że chcesz usunąć poziom {tierName}?',
+    'plans.deleteTier.explainer': 'Jeśli ten poziom nie ma żadnych subskrybentów, zostanie usunięty. W przeciwnym razie zostanie wyłączony dla nowych subskrypcji, ale istniejące subskrypcje będą kontynuowane, dopóki fan nie zmieni swojej subskrypcji.',
+    'plans.fanClub.userSettings': 'Zarządzaj subskrypcjami do klubu fanów'
 };

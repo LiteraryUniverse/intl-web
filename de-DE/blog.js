@@ -52,5 +52,6 @@ export default {
     'blog.post.introText': 'Einleitung Absatz',
     'blog.post.writtenBy': 'Geschrieben von {usernameDisplay}',
     'blog.post.writtenByFor': 'Geschrieben von {usernameDisplay} für {publicationName}',
-    'blog.posts.recent': 'Aktuelle Beiträge'
+    'blog.posts.recent': 'Aktuelle Beiträge',
+    'blog.statsPage': 'Blog-Statistiken'
 };

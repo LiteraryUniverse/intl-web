@@ -222,7 +222,16 @@ export default {
     'payment.fanClub.createTier': 'Přidat úroveň',
     'payment.fanClub.description': 'Popis úrovně',
     'payment.fanClub.picture': 'Obrázek úrovně',
-    'payment.fanClub.priceBreakdown': 'Odběratel zaplatí: {amount}. Poplatek platformy je {fee}, obdržíte: {net}',
-    'payment.feeNotice': 'Mějte prosím na paměti, že se jedná o odhad a skutečný poplatek se může lišit v závislosti na způsobu platby zákazníka a případných dalších poplatcích od platební brány.',
-    'payment.fanClub.perks': 'Výhody'
+    'payment.fanClub.priceBreakdown': 'Odběratel zaplatí: {amount}. Poplatek za platformu je {fee} ({platformPercentage}), odhadované poplatky od Stripe: {stripeFee} ({stripeBaseFee} základní transakční poplatek + procento platby), dostanete (odhadem): {net}',
+    'payment.fanClub.learnStripeFees': 'Zjistěte více o poplatcích Stripe.',
+    'payment.feeNotice': 'Mějte prosím na paměti, že se jedná o odhad a skutečný poplatek od Stripe se může lišit v závislosti na platebním typu zákazníka a dalších poplatcích od platební brány.',
+    'payment.fanClub.perks': 'Výhody',
+    'stripeConnect.settings.notifications': 'Upozornění od Stripe',
+    'plans.pricePerMonth': 'Částka za měsíc',
+    'payment.fanClub.perkType': 'Typ výhody',
+    'payment.fanClub.addPerk': 'Přidat výhodu',
+    'payment.fanClub.perksExplained': 'Toto jsou výhody, které se automaticky udělují fanouškovi prostřednictvím Literary Universe.',
+    'plans.deleteTier.header': 'Jste si jistí, že chcete odstranit úroveň {tierName}?',
+    'plans.deleteTier.explainer': 'Pokud tato úroveň nemá žádné předplatitele, bude smazána. Jinak bude zakázána pro nové předplatné, ale existující předplatby budou pokračovat, dokud fanoušek nezmění své předplatné.',
+    'plans.fanClub.userSettings': 'Spravujte své předplatné fanouškovského klubu'
 };
