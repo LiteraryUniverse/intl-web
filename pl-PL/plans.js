@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Dodaj dodatek',
     'payment.fanClub.perksExplained': 'Oto dodatki, które automatycznie zostają przyznane fanowi przez Literary Universe.',
     'plans.deleteTier.header': 'Czy jesteś pewien, że chcesz usunąć poziom {tierName}?',
-    'plans.deleteTier.explainer': 'Jeśli ten poziom nie ma żadnych subskrybentów, zostanie usunięty. W przeciwnym razie zostanie wyłączony dla nowych subskrypcji, ale istniejące subskrypcje będą kontynuowane, dopóki fan nie zmieni swojej subskrypcji.'
+    'plans.deleteTier.explainer': 'Jeśli ten poziom nie ma żadnych subskrybentów, zostanie usunięty. W przeciwnym razie zostanie wyłączony dla nowych subskrypcji, ale istniejące subskrypcje będą kontynuowane, dopóki fan nie zmieni swojej subskrypcji.',
+    'plans.fanClub.userSettings': 'Zarządzaj subskrypcjami do klubu fanów'
 };
