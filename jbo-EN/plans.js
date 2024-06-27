@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'tavla la\'o zoi.Efy.Stripe.zoi.',
     'payment.fanClub.perksExplained': 'i ti cu vajni pilno be loi kelci be lo pampeo .i lo du\'u zgana zo\'e cu se sisti lo\'e fanmo erzena ce\'o ce\'u',
     'plans.deleteTier.header': 'co\'a certe do ka\'o klama lo nu cliva lo je\'u {tierName}',
-    'plans.deleteTier.explainer': 'fi do fa\'u lo nu ti jbega lo nu lo {tierName} cu zo\'u ra se nalgenja lo nu na ka\'e cmima\'a le fanva be lo cnino jdima .i na\'e ctuca fa da .i le se cmima ca zukte lo nu le fepri cu pali'
+    'plans.deleteTier.explainer': 'fi do fa\'u lo nu ti jbega lo nu lo {tierName} cu zo\'u ra se nalgenja lo nu na ka\'e cmima\'a le fanva be lo cnino jdima .i na\'e ctuca fa da .i le se cmima ca zukte lo nu le fepri cu pali',
+    'plans.fanClub.userSettings': 'zelge\'i lo do nanca skami klani fi lo bajra girzu be do'
 };
