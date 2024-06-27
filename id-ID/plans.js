@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Tambah keuntungan',
     'payment.fanClub.perksExplained': 'Ini adalah fasilitas yang secara otomatis diberikan kepada penggemar melalui Literary Universe.',
     'plans.deleteTier.header': 'Apakah Anda yakin mau menghapus tier {tierName}?',
-    'plans.deleteTier.explainer': 'Jika tier ini tidak memiliki langganan, maka akan dihapus. Jika tidak, maka akan dinonaktifkan untuk langganan baru, tetapi langganan yang sudah ada akan tetap berlaku sampai penggemar mengubah langganannya.'
+    'plans.deleteTier.explainer': 'Jika tier ini tidak memiliki langganan, maka akan dihapus. Jika tidak, maka akan dinonaktifkan untuk langganan baru, tetapi langganan yang sudah ada akan tetap berlaku sampai penggemar mengubah langganannya.',
+    'plans.fanClub.userSettings': 'Kelola langganan klub penggemar Anda'
 };
