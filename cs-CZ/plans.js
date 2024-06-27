@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Přidat výhodu',
     'payment.fanClub.perksExplained': 'Toto jsou výhody, které se automaticky udělují fanouškovi prostřednictvím Literary Universe.',
     'plans.deleteTier.header': 'Jste si jistí, že chcete odstranit úroveň {tierName}?',
-    'plans.deleteTier.explainer': 'Pokud tato úroveň nemá žádné předplatitele, bude smazána. Jinak bude zakázána pro nové předplatné, ale existující předplatby budou pokračovat, dokud fanoušek nezmění své předplatné.'
+    'plans.deleteTier.explainer': 'Pokud tato úroveň nemá žádné předplatitele, bude smazána. Jinak bude zakázána pro nové předplatné, ale existující předplatby budou pokračovat, dokud fanoušek nezmění své předplatné.',
+    'plans.fanClub.userSettings': 'Spravujte své předplatné fanouškovského klubu'
 };
