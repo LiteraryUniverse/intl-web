@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Voeg perk by',
     'payment.fanClub.perksExplained': 'Dit is voordele wat outomaties aan die ondersteuner deur Literary Universe toegeken word.',
     'plans.deleteTier.header': 'Is jy seker jy wil vlak {tierName} verwyder?',
-    'plans.deleteTier.explainer': 'As hierdie vlak geen intekenare het nie, sal dit verwyder word. Anders sal dit gedeaktiveer word vir nuwe intekeninge, maar bestaande intekeninge sal voortduur totdat die aanhanger hul intekening verander.'
+    'plans.deleteTier.explainer': 'As hierdie vlak geen intekenare het nie, sal dit verwyder word. Anders sal dit gedeaktiveer word vir nuwe intekeninge, maar bestaande intekeninge sal voortduur totdat die aanhanger hul intekening verander.',
+    'plans.fanClub.userSettings': 'Bestuur jou ondersteunersklub intekeninge'
 };
