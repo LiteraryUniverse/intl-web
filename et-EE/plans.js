@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Lisa eesmärk',
     'payment.fanClub.perksExplained': 'Need on hüved, mis antakse fännile automaatselt läbi Literary Universe.',
     'plans.deleteTier.header': 'Kas olete kindel, et soovite kustutada taseme {tierName}?',
-    'plans.deleteTier.explainer': 'Kui sellel tasemel pole tellijaid, siis see kustutatakse. Vastasel juhul lülitatakse see uute tellimuste jaoks välja, kuid olemasolevad tellimused jäävad alles, kuni fänn muudab oma tellimust.'
+    'plans.deleteTier.explainer': 'Kui sellel tasemel pole tellijaid, siis see kustutatakse. Vastasel juhul lülitatakse see uute tellimuste jaoks välja, kuid olemasolevad tellimused jäävad alles, kuni fänn muudab oma tellimust.',
+    'plans.fanClub.userSettings': 'Halda oma fänniklubi tellimusi'
 };
