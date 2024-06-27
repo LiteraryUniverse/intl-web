@@ -232,5 +232,6 @@ export default {
     'payment.fanClub.addPerk': 'Lisää etu',
     'payment.fanClub.perksExplained': 'Nämä ovat etuja, jotka myönnetään automaattisesti fanille Literary Universe -palvelun kautta.',
     'plans.deleteTier.header': 'Haluatko varmasti poistaa tason {tierName}?',
-    'plans.deleteTier.explainer': 'Jos tällä tasolla ei ole tilaajia, se poistetaan. Muussa tapauksessa se poistetaan käytöstä uusille tilauksille, mutta olemassa olevat tilaukset jatkuvat kunnes käyttäjä vaihtaa tilauksen.'
+    'plans.deleteTier.explainer': 'Jos tällä tasolla ei ole tilaajia, se poistetaan. Muussa tapauksessa se poistetaan käytöstä uusille tilauksille, mutta olemassa olevat tilaukset jatkuvat kunnes käyttäjä vaihtaa tilauksen.',
+    'plans.fanClub.userSettings': 'Hallitse fanikerhojen tilauksiasi'
 };
