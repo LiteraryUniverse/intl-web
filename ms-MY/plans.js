@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Ini adalah faedah-faedah yang diberikan secara automatik kepada peminat melalui Literary Universe.',
     'plans.deleteTier.header': 'Adakah anda pasti anda ingin memadamkan lapisan {tierName}?',
     'plans.deleteTier.explainer': 'Jika lapisan ini tidak mempunyai pelanggan, ia akan dipadamkan. Sebaliknya, ia akan dimatikan untuk langganan baru, tetapi langganan sedia ada akan berterusan sehingga penggemar menukar langganannya.',
-    'plans.fanClub.userSettings': 'Urus langganan kelab peminat anda'
+    'plans.fanClub.userSettings': 'Urus langganan kelab peminat anda',
+    'plans.fanClub.subscribers': 'Pelanggan'
 };
