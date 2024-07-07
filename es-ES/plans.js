@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Estas son las ventajas que se otorgan automáticamente al fan a través de Literary Universe.',
     'plans.deleteTier.header': '¿Estás seguro de que quieres eliminar la categoría {tierName}?',
     'plans.deleteTier.explainer': 'Si esta categoría no tiene ningún suscriptor, se eliminará. De lo contrario, se desactivará para nuevas suscripciones, pero las suscripciones existentes continuarán hasta que el fan cambie su suscripción.',
-    'plans.fanClub.userSettings': 'Administra tus suscripciones al club de fans'
+    'plans.fanClub.userSettings': 'Administra tus suscripciones al club de fans',
+    'plans.fanClub.subscribers': 'Suscriptores'
 };
