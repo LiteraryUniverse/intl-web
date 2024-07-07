@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'ਇਹ ਉਹ ਸੁਵਿਧਾਵਾਂ ਹਨ ਜੋ ਵਾਣੀਕਾ ਯੂਨੀਵਰਸ ਦੁਆਰਾ ਆਟੋਮੈਟਿਕ ਪ੍ਰਦਾਨ ਕੀਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ।',
     'plans.deleteTier.header': 'ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਟੀਅਰ {tierName} ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?',
     'plans.deleteTier.explainer': 'ਜੇ ਇਸ ਟੀਅਰ ਵਿੱਚ ਕੋਈ ਗਾਹਕ ਨਹੀਂ ਹਨ, ਤਾਂ ਇਸ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਏਗਾ। ਅਨਿਵਾਰਤਿ ਫੈਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਬਦਲਣ ਤਾਂ ਉਹਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਯਤਨ ਚਾਲੂ ਰਹੇਗੀ।',
-    'plans.fanClub.userSettings': 'ਆਪਣੇ ਫੈਨ ਕਲੱਬ ਗਾਹਕੀਆਂ ਨੂੰ ਸੰਭਾਲੋ'
+    'plans.fanClub.userSettings': 'ਆਪਣੇ ਫੈਨ ਕਲੱਬ ਗਾਹਕੀਆਂ ਨੂੰ ਸੰਭਾਲੋ',
+    'plans.fanClub.subscribers': 'ਸਬਸਕਰਾਈਬਰਾਂ'
 };
