@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Is iad seo na buntáisceanna a bhronntar go huathoibríoch ar an bhfanna trí Léann na Litríochta.',
     'plans.deleteTier.header': 'An bhfuil tú cinnte go bhfuil tú ag iarraidh an céim {tierName} a scriosadh?',
     'plans.deleteTier.explainer': 'Má tá aon foirstineach ag an gcéim seo, scriosfar é. Sa chás nach bhfuil aon foirstineach aige, mairfidh sé ar leathanaigh nua, ach leanfaidh sí ar aghaidh go dtí go ndéanann an t-aitheantasathraí a athrú.',
-    'plans.fanClub.userSettings': 'Bain úsáid as do sheoladh ríomhphoist chun do chuid síntíse do chlub lucht leanúna a bhainistiú'
+    'plans.fanClub.userSettings': 'Bain úsáid as do sheoladh ríomhphoist chun do chuid síntíse do chlub lucht leanúna a bhainistiú',
+    'plans.fanClub.subscribers': 'Fógraí'
 };
