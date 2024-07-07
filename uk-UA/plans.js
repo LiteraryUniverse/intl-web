@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Це переваги, які автоматично надаються фану через Literary Universe.',
     'plans.deleteTier.header': 'Ви впевнені, що хочете видалити рівень {tierName}?',
     'plans.deleteTier.explainer': 'Якщо у цього рівня немає жодного підписника, він буде видалений. В іншому випадку він буде відключений для нових підписок, але існуючі підписки будуть продовжуватись, поки шанувальник не змінить свою підписку.',
-    'plans.fanClub.userSettings': 'Керуйте своїми підписками на фан-клуб'
+    'plans.fanClub.userSettings': 'Керуйте своїми підписками на фан-клуб',
+    'plans.fanClub.subscribers': 'Підписники'
 };
