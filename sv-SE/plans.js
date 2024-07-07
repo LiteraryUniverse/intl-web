@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Detta är förmåner som automatiskt tilldelas fansen genom Literary Universe.',
     'plans.deleteTier.header': 'Är du säker på att du vill ta bort nivån {tierName}?',
     'plans.deleteTier.explainer': 'Om denna nivå inte har några prenumeranter kommer den att tas bort. Annars kommer den att inaktiveras för nya prenumerationer, men befintliga prenumerationer fortsätter tills användaren ändrar sin prenumeration.',
-    'plans.fanClub.userSettings': 'Hantera dina fan club-prenumerationer'
+    'plans.fanClub.userSettings': 'Hantera dina fan club-prenumerationer',
+    'plans.fanClub.subscribers': 'Abonnenter'
 };
