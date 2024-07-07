@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Esses são os benefícios que são automaticamente concedidos ao fã através do Literary Universe.',
     'plans.deleteTier.header': 'Tem certeza de que deseja excluir o nível {tierName}?',
     'plans.deleteTier.explainer': 'Se este nível não tiver nenhum assinante, ele será excluído. Caso contrário, ele será desativado para novas assinaturas, mas as assinaturas existentes continuarão até que o fã altere sua assinatura.',
-    'plans.fanClub.userSettings': 'Gerencie suas assinaturas do clube de fãs'
+    'plans.fanClub.userSettings': 'Gerencie suas assinaturas do clube de fãs',
+    'plans.fanClub.subscribers': 'Assinantes'
 };
