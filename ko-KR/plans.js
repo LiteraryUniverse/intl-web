@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': '이것들은 리터러리 유니버스를 통해 자동으로 팬에게 수여되는 혜택들입니다.',
     'plans.deleteTier.header': '{tierName} 티어를 삭제하시겠습니까?',
     'plans.deleteTier.explainer': '이 티어에 구독자가 없으면 삭제됩니다. 그렇지 않으면 새로운 구독에 대해서는 비활성화되지만, 기존의 구독은 팬이 구독을 변경할 때까지 계속됩니다.',
-    'plans.fanClub.userSettings': '팬 클럽 구독을 관리하세요'
+    'plans.fanClub.userSettings': '팬 클럽 구독을 관리하세요',
+    'plans.fanClub.subscribers': '구독자'
 };
