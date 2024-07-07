@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Tieto výhody sú automaticky udelené fanúšikovi cez Literary Universe.',
     'plans.deleteTier.header': 'Ste si istí, že chcete odstrániť úroveň {tierName}?',
     'plans.deleteTier.explainer': 'Ak táto úroveň nemá žiadnych odberateľov, bude odstránená. Inak bude zakázaná pre nové predplatné, ale existujúce predplatné budú pokračovať, kým fanúšik nezmení svoje predplatné.',
-    'plans.fanClub.userSettings': 'Spravujte svoje predplatné fanúšikovského klubu'
+    'plans.fanClub.userSettings': 'Spravujte svoje predplatné fanúšikovského klubu',
+    'plans.fanClub.subscribers': 'Predplatitelia'
 };
