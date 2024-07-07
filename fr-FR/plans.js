@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Ce sont des avantages qui sont automatiquement accordés au fan par l\'Univers Littéraire.',
     'plans.deleteTier.header': 'Êtes-vous sûr de vouloir supprimer la catégorie {tierName} ?',
     'plans.deleteTier.explainer': 'Si cette catégorie n\'a aucun abonné, elle sera supprimée. Sinon, elle sera désactivée pour les nouvelles souscriptions, mais les abonnements existants continueront jusqu\'à ce que le fan change sa souscription.',
-    'plans.fanClub.userSettings': 'Gérez vos abonnements au fan club'
+    'plans.fanClub.userSettings': 'Gérez vos abonnements au fan club',
+    'plans.fanClub.subscribers': 'Abonnés'
 };
