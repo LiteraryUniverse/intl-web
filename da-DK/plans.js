@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Tilføj niveau',
     'payment.fanClub.description': 'Niveau beskrivelse',
     'payment.fanClub.picture': 'Niveau billede',
-    'payment.fanClub.priceBreakdown': 'Abonnenten vil betale: {amount}. Platformgebyret er {fee}, du vil få: {net}',
-    'payment.feeNotice': 'Bemærk venligst, at dette er et skøn, og det faktiske gebyr kan være anderledes baseret på kundens betalingstype og eventuelle tillægsgebyrer fra betalingsgatewayen.',
-    'payment.fanClub.perks': 'Fordele'
+    'payment.fanClub.priceBreakdown': 'Abonnenten vil betale: {amount}. Platform gebyr er {fee} ({platformPercentage}), estimerede gebyrer fra Stripe: {stripeFee} ({stripeBaseFee} base transaktionsgebyr + betalingstype procentdel), du vil få (estimeret): {net}',
+    'payment.fanClub.learnStripeFees': 'Lær mere om Stripe gebyrer.',
+    'payment.feeNotice': 'Bemærk venligst, at dette er et skøn, og det faktiske Stripe-gebyr kan være anderledes baseret på kundens betalingstype og ekstra gebyrer fra betalingsgatewayen.',
+    'payment.fanClub.perks': 'Fordele',
+    'stripeConnect.settings.notifications': 'Notifikationer fra Stripe',
+    'plans.pricePerMonth': 'Beløb pr. måned',
+    'payment.fanClub.perkType': 'Perk type',
+    'payment.fanClub.addPerk': 'Tilføj perk',
+    'payment.fanClub.perksExplained': 'Dette er fordele, der automatisk tildeles til fanen gennem Literary Universe.',
+    'plans.deleteTier.header': 'Er du sikker på, at du vil slette niveauet {tierName}?',
+    'plans.deleteTier.explainer': 'Hvis dette niveau ikke har nogen abonnenter, vil det blive slettet. Ellers vil det blive deaktiveret for nye abonnementer, men eksisterende abonnementer vil fortsætte, indtil brugeren ændrer deres abonnement.',
+    'plans.fanClub.userSettings': 'Administrer dine fan klub abonnementer',
+    'plans.fanClub.subscribers': 'Abonnenter'
 };

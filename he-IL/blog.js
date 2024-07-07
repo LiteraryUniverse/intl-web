@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'פיסקה מבואית',
     'blog.post.writtenBy': 'נכתב על ידי {usernameDisplay}',
     'blog.post.writtenByFor': 'נכתב על ידי {usernameDisplay} עבור {publicationName}',
-    'blog.posts.recent': 'פוסטים אחרונים'
+    'blog.posts.recent': 'פוסטים אחרונים',
+    'blog.statsPage': 'סטטיסטיקות בלוג'
 };

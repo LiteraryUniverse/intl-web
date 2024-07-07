@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'დონის დამატება',
     'payment.fanClub.description': 'დონის აღწერის დასახელება',
     'payment.fanClub.picture': 'დონის სურათი',
-    'payment.fanClub.priceBreakdown': 'გამომხმარებელმა გადაიხადათ: {amount}. პლატფორმის გადასახადი არის {fee}, თქვენ მიიღებთ: {net}',
-    'payment.feeNotice': 'გთხოვთ გაიგოთ, რომ ეს არის შეფასება და სამუშაო გადახდის ტიპიდან და დამატებითი ხარჯებიდან დამატებით გადასახადი განიცადება',
-    'payment.fanClub.perks': 'მაღაზიაზე'
+    'payment.fanClub.priceBreakdown': 'გამომხმარებელი გადაიხადათ: {amount}. პლატფორმის გადასარიცხვი თანხა არის {fee} ({platformPercentage}), Stripe-ს განუყოფელი დაზუსტებების შეფასება: {stripeFee} ({stripeBaseFee} ბაზისური გადასახადი + გადასახადი სახარჯის პროცენტი), რაც თქვენს მიერ მიღებულია (შეფასებული): {net}',
+    'payment.fanClub.learnStripeFees': 'გაიგეთ მეტი Stripe საკომისიოების შესახებ.',
+    'payment.feeNotice': 'გთხოვთ გაითვალისწინოთ, რომ ეს არის გამოთვლილი რაიმე საჭირო და თანხის საზღვარის მიხედვით, ფაქტურად Stripe-ს გადასახადი შეიძლება იყოს სხვაგან მიმდინარეობა, მათლაცამეტყველებით უფრო დიდ დაზუსტებებსა და დადებით გარანტიებებს.',
+    'payment.fanClub.perks': 'მაღაზიაზე',
+    'stripeConnect.settings.notifications': 'შეტყობინებები Stripe-დან',
+    'plans.pricePerMonth': 'თვისაგან თანხა',
+    'payment.fanClub.perkType': 'გადაბანის ტიპი',
+    'payment.fanClub.addPerk': 'დაამატეთ გამორიცხვა',
+    'payment.fanClub.perksExplained': 'ესარეფებად მიიღებს ფანატის უნარები, რომლებიც ავტომატურად მიშვება ლიტერატურულ უნივერსუმეზე.',
+    'plans.deleteTier.header': 'გსურთ დაადასტურეთ {tierName} ტიერის წაშლა?',
+    'plans.deleteTier.explainer': 'თუ ამ ტიერს არ აქვს მომხმარებელები, ის იქნება წაშლილი. თუმცა აქამდე მომხმარებლებმა განაახლევენ მათი გამოწევას, მაგრამ უკვე არსებული გამოწევები გაგრძელდება, სანამ მარტივადაც მუსიკლმა არ ისტუმრებს გამოწევის გაცვლას.',
+    'plans.fanClub.userSettings': 'მართეთ თქვენი ფან კლუბის გამოწერები',
+    'plans.fanClub.subscribers': 'მომხმარებლები'
 };

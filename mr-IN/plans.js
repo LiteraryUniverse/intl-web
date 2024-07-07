@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'टियर जोडा',
     'payment.fanClub.description': 'टियरचे वर्णन',
     'payment.fanClub.picture': 'टियरचा चित्र',
-    'payment.fanClub.priceBreakdown': 'सदस्य देणारे: {amount}. प्लॅटफॉर्म फी: {fee}, तुम्हाला मिळणारे: {net}',
-    'payment.feeNotice': 'कृपया लक्षात घ्या की ही एक अंदाज आहे आणि वास्तविक फी ग्राहकाच्या पेमेंट प्रकारानुसार आणि पेगेटवरील अतिरिक्त शुल्कांच्या आधारे बदलू शकते.',
-    'payment.fanClub.perks': 'फायदे'
+    'payment.fanClub.priceBreakdown': 'सदस्यने देईल: {amount}. प्लॅटफॉर्म फी आहे {fee} ({platformPercentage}), स्ट्राइपमधून आणणाऱ्या अनुमानित फीस: {stripeFee} ({stripeBaseFee} आधार व्याज + पेमेंट प्रकाराचा टक्का), आपल्याला मिळणार (अनुमानित): {net}',
+    'payment.fanClub.learnStripeFees': 'स्ट्राइप फीसबद्दल अधिक माहिती पाहा.',
+    'payment.feeNotice': 'कृपया लक्षात ठेवा की ही एक अंदाज आहे आणि ग्राहकाच्या पेमेंट प्रकारावर आणि संबंधित शुल्कावर आधारित वापरमेणयाची आणणाऱ्या सद्यस्थिती वेगवान बदलू शकते.',
+    'payment.fanClub.perks': 'फायदे',
+    'stripeConnect.settings.notifications': 'स्ट्राइपमधूनच सूचना',
+    'plans.pricePerMonth': 'महिन्याची रक्कम',
+    'payment.fanClub.perkType': 'लाभ प्रकार',
+    'payment.fanClub.addPerk': 'लाभ जोडा',
+    'payment.fanClub.perksExplained': 'हे म्हणजे ते वाचकला जाणाऱ्या लिटररी युनिव्हर्सचे स्वतःप्राप्त लाभ आहेत.',
+    'plans.deleteTier.header': 'तुम्हाला खात्री आहे की तुम्ही {tierName} खंड डिलीट करू इच्छिता?',
+    'plans.deleteTier.explainer': 'जर हा खंड त्याच्याकडे कोणत्याही सब्सक्राइबर्स नसावे तरी तो क्लियर केला जाईल. इतरप्रमाणे ते नवीन सब्सक्रिप्शनसाठी निष्क्रिय केले जाईल पण व्यक्ति त्याच्या सब्सक्रिप्शनवर नविनता आधीच जारी ठेवतील.',
+    'plans.fanClub.userSettings': 'आपले फॅन क्लब सदस्यता व्यवस्थापित करा',
+    'plans.fanClub.subscribers': 'सब्सक्राइबर्स'
 };

@@ -54,5 +54,6 @@ export default {
     'blog.post.introText': 'Úvodný odsek',
     'blog.post.writtenBy': 'Napísané {usernameDisplay}',
     'blog.post.writtenByFor': 'Napísal {usernameDisplay} pre {publicationName}',
-    'blog.posts.recent': 'Nedávne príspevky'
+    'blog.posts.recent': 'Nedávne príspevky',
+    'blog.statsPage': 'Štatistika blogu'
 };

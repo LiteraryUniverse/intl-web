@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'ટિયર ઉમેરો',
     'payment.fanClub.description': 'ટિયર વર્ણન',
     'payment.fanClub.picture': 'ટિયર ચિત્ર',
-    'payment.fanClub.priceBreakdown': 'ગ્રાહક ચૂકવશે: {amount} પ્લેટફોર્મ ફી છે {fee}, તમે મળશે: {net}',
-    'payment.feeNotice': 'કૃપા કરીને ધ્યાન આપો કે આ એક અંદાજ છે અને વાસ્તવિક ફી ગ્રાહકની ચૂકવણી પ્રકાર અને ચૂકવણીઓમાંથી વધારે ખર્ચો પર આધાર રાખી શકે છે.',
-    'payment.fanClub.perks': 'સુવિધાઓ'
+    'payment.fanClub.priceBreakdown': 'સબ્સ્ક્રાઇબર ચૂકવશે: {amount} પ્લેટફોર્મ ફી છે {fee} ({platformPercentage}), સ્ટ્રાઇપમાંથી આંશિક ફી: {stripeFee} ({stripeBaseFee} આધાર લેનદાર ફી + ચુકાદારી પ્રમાણ), તમે જોઈએ છે (આંશિક): {net}',
+    'payment.fanClub.learnStripeFees': 'સ્ટ્રાઇપ ફીસ વિશે વધુ જાણો.',
+    'payment.feeNotice': 'કૃપા કરીને ધ્યાન આપો કે આ એક અંદાજ છે અને વાસ્તવિક સ્ટ્રાઇપ ફી ગ્રાહકના ચુકાદારી પ્રકાર અને ભાડાના વધારાને આધારભૂત ચાર્જ પર આપેલ રહેશે.',
+    'payment.fanClub.perks': 'સુવિધાઓ',
+    'stripeConnect.settings.notifications': 'સ્ટ્રિપમાંથી અધિસૂચનાઓ',
+    'plans.pricePerMonth': 'મહિના પ્રતિષ્ઠા',
+    'payment.fanClub.perkType': 'સુવિધા પ્રકાર',
+    'payment.fanClub.addPerk': 'સુવિધા ઉમેરો',
+    'payment.fanClub.perksExplained': 'આ છે જે perks છે જે સ્વયંચાલિત રીતે Literary Universe દ્વારા ફેનને આપવામાં આવે છે.',
+    'plans.deleteTier.header': 'શું તમે ખોતું {tierName} ડિલીટ કરવા માંગો છો?',
+    'plans.deleteTier.explainer': 'જો આ ટિયરની કોઈ પણ સબ્સ્ક્રાઇબર્સ નથી, તો તે ડિલીટ થશે. અન્યથા, તે નવા સબ્સ્ક્રિપ્શન્સ માટે અનચેટ થઈ જશે, પરંતુ હાલના સબ્સ્ક્રિપ્શન્સ પ્રોથમે ચાલી રહી રહેશે જ્યાં સુપોર્ટર્સે તેની પાસે પરિવર્તન ન કરે.',
+    'plans.fanClub.userSettings': 'તમારા ફેન ક્લબ સબસ્ક્રિપ્શનની સંચાલન કરો',
+    'plans.fanClub.subscribers': 'સબ્સ્ક્રાઇબર્સ'
 };

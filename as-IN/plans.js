@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'টিয়াৰ যোগ কৰক',
     'payment.fanClub.description': 'টিয়াৰৰ বিৱৰণ',
     'payment.fanClub.picture': 'টিয়াৰৰ ছবি',
-    'payment.fanClub.priceBreakdown': 'গ্রাহক প্রদান কৰিব: {amount}। প্লেটফৰ্ম ফি হৈছে {fee}, আপুনি পাব: {net}',
-    'payment.feeNotice': 'অনুগ্ৰহ কৰি লক্ষ্য কৰক যে এইটো এটা আনুমানিক মাত্ৰা হৈছে আৰু গ্ৰাহকৰ পেমেন্ট প্ৰকাৰ আৰু অতিৰিক্ত চাৰ্জৰ উপৰ ভিত্তিত পৰিবৰ্তন কৰিব পাৰে।',
-    'payment.fanClub.perks': 'সুবিধা'
+    'payment.fanClub.priceBreakdown': 'সাবস্ক্রাইবারটো দিব হুবহু: {amount}। প্ল্যাটফর্ম ফী হয় {fee} ({platformPercentage}), যোগাযোগ ধরনের ভিত্তি করে এস্টিমেটেড স্ট্রাইপ ফীঃ {stripeFee} ({stripeBaseFee} বেস লেনদেন ফী + পেমেন্ট ধরনের ভিত্তিতে ফি), আপুনি পাবেন (এস্টিমেটেড)ঃ {net}',
+    'payment.fanClub.learnStripeFees': 'স্ট্রাইপ ফীস সম্পর্কে আরো জানুন।',
+    'payment.feeNotice': 'দয়া করে মনতো হোক যে এটা একটি চিকিৎসা, আর খাইজনা একটি অনুমান এবং মার্জিন। কাস্টমারের পেমেন্ট ধরন এবং পেমেন্ট গেট থেকে অতিরিক্ত চার্জ অনুযায়ী, স্ট্রাইপ ফী আসলেও সল্প আছে হতেও পারে।',
+    'payment.fanClub.perks': 'সুবিধা',
+    'stripeConnect.settings.notifications': 'ষ্ট্রাইপৰ বিজ্ঞপ্তি',
+    'plans.pricePerMonth': 'মাসিক পরিমাণ',
+    'payment.fanClub.perkType': 'পার্ক প্রকার',
+    'payment.fanClub.addPerk': 'পার্ক যোগ কৰক',
+    'payment.fanClub.perksExplained': 'এইগুলো হলে পাইউনী যেটা শাস্তি লোক তৰ লগত অৰায় গাল পাবে লিটেৰেৰি ইউনিভার্সে উৎসাহিত স্বয়ংক্রিয়ভাৱে।',
+    'plans.deleteTier.header': 'আপুনি নিশ্চিতভাবে {tierName} টিয়ারটো মুছে দিতে চান নেকি?',
+    'plans.deleteTier.explainer': 'যদি এই টিয়ারটি কোনো গ্রাহকদের সাথে সংযুক্ত না থাকে, তবে এটি মুছে ফেলা হবে। অন্যথায় নতুন সাবস্ক্রিপশনের জন্য এটি নিষ্ক্রিয় হবে, কিন্তু বিদ্যমান সাবস্ক্রিপশনগুলি ব্যবহারকারী পরিবর্তন করতে পর্যাপ্ত সময় পাবে।',
+    'plans.fanClub.userSettings': 'আপোনাৰ ফেন ক্লাবৰ সদস্যতা প্ৰবন্ধন কৰক',
+    'plans.fanClub.subscribers': 'সাবস্ক্রাইবারসমূহ'
 };

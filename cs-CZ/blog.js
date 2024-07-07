@@ -54,5 +54,6 @@ export default {
     'blog.post.introText': 'Úvodní odstavec',
     'blog.post.writtenBy': 'Napsal {usernameDisplay}',
     'blog.post.writtenByFor': 'Napsal {usernameDisplay} pro {publicationName}',
-    'blog.posts.recent': 'Poslední příspěvky'
+    'blog.posts.recent': 'Poslední příspěvky',
+    'blog.statsPage': 'Statistiky blogu'
 };

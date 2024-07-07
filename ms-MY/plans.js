@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Tambah tier',
     'payment.fanClub.description': 'Penerangan tier',
     'payment.fanClub.picture': 'Gambar tier',
-    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Yuran platform adalah {fee}, anda akan mendapat: {net}',
-    'payment.feeNotice': 'Sila ambil perhatian bahawa ini hanyalah anggaran dan yuran sebenar mungkin berbeza berdasarkan jenis pembayaran pelanggan dan caj tambahan dari gerbang bayaran.',
-    'payment.fanClub.perks': 'Kelebihan'
+    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Yuran platform ialah {fee} ({platformPercentage}), yuran anggaran dari Stripe: {stripeFee} ({stripeBaseFee} yuran transaksi asas + peratus bayaran jenis). Anda akan menerima (anggaran): {net}',
+    'payment.fanClub.learnStripeFees': 'Ketahui lebih lanjut tentang yuran Stripe.',
+    'payment.feeNotice': 'Sila ambil perhatian bahawa ini hanya satu anggaran dan yuran Stripe sebenar mungkin berbeza berdasarkan jenis pembayaran pelanggan dan caj tambahan dari gerbang bayar.',
+    'payment.fanClub.perks': 'Kelebihan',
+    'stripeConnect.settings.notifications': 'Pemberitahuan dari Stripe',
+    'plans.pricePerMonth': 'Jumlah setiap bulan',
+    'payment.fanClub.perkType': 'Jenis ganjaran',
+    'payment.fanClub.addPerk': 'Tambah ganjaran',
+    'payment.fanClub.perksExplained': 'Ini adalah faedah-faedah yang diberikan secara automatik kepada peminat melalui Literary Universe.',
+    'plans.deleteTier.header': 'Adakah anda pasti anda ingin memadamkan lapisan {tierName}?',
+    'plans.deleteTier.explainer': 'Jika lapisan ini tidak mempunyai pelanggan, ia akan dipadamkan. Sebaliknya, ia akan dimatikan untuk langganan baru, tetapi langganan sedia ada akan berterusan sehingga penggemar menukar langganannya.',
+    'plans.fanClub.userSettings': 'Urus langganan kelab peminat anda',
+    'plans.fanClub.subscribers': 'Pelanggan'
 };

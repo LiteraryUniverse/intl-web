@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Paràgraf d\'introducció',
     'blog.post.writtenBy': 'Escrit per {usernameDisplay}',
     'blog.post.writtenByFor': 'Escrit per {usernameDisplay} per a {publicationName}',
-    'blog.posts.recent': 'Entrades recents'
+    'blog.posts.recent': 'Entrades recents',
+    'blog.statsPage': 'Estadístiques del blog'
 };

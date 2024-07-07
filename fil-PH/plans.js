@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Magdagdag ng tier',
     'payment.fanClub.description': 'Deskripsyon ng tier',
     'payment.fanClub.picture': 'Larawan ng tier',
-    'payment.fanClub.priceBreakdown': 'Ang Subscriber ay magbabayad ng: {amount}. Ang bayad sa platform ay {fee}, makukuha mo: {net}',
-    'payment.feeNotice': 'Maaring tandaan na ito ay isang tantiya lamang at ang aktwal na bayad ay maaaring mag-iba batay sa uri ng pagbabayad ng customer at karagdagang mga singil mula sa pay gate.',
-    'payment.fanClub.perks': 'Mga Benepisyo'
+    'payment.fanClub.priceBreakdown': 'Ang Subscriber ay magbabayad ng: {amount}. Ang bayad ng platform ay {fee} ({platformPercentage}), inaasahang bayad mula sa Stripe: {stripeFee} ({stripeBaseFee} base na bayad sa transaksyon + porsyento ng uri ng pagbabayad), makukuha mo (inaasahan): {net}',
+    'payment.fanClub.learnStripeFees': 'Matuto ng higit pa tungkol sa mga bayarin ng Stripe.',
+    'payment.feeNotice': 'Mangyaring tandaan na ito ay isang tantiya lamang at maaaring magkaiba ang aktuwal na bayad ng Stripe batay sa uri ng pagbabayad ng customer at karagdagang mga bayarin mula sa pay gate.',
+    'payment.fanClub.perks': 'Mga Benepisyo',
+    'stripeConnect.settings.notifications': 'Mga Abiso mula sa Stripe',
+    'plans.pricePerMonth': 'Halaga kada buwan',
+    'payment.fanClub.perkType': 'Uri ng benepisyo',
+    'payment.fanClub.addPerk': 'Magdagdag ng benepisyo',
+    'payment.fanClub.perksExplained': 'Ito ay mga pribilehiyo na awtomatikong ipinagkakaloob sa fan sa pamamagitan ng Literary Universe.',
+    'plans.deleteTier.header': 'Sigurado ka bang gusto mong tanggalin ang tier na {tierName}?',
+    'plans.deleteTier.explainer': 'Kung ang tier na ito ay walang mga subscribers, ito ay matatanggal. Kung may mga subscribers naman ito, ito ay ide-disable para sa mga bagong subscription, ngunit magpapatuloy ang mga kasalukuyang subscription hanggang sa magbago ang fan ng kanilang subscription.',
+    'plans.fanClub.userSettings': 'Pamahalaan ang iyong mga subscription sa fan club',
+    'plans.fanClub.subscribers': 'Mga Subskripsyon'
 };

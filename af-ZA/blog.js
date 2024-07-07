@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Inleidende paragraaf',
     'blog.post.writtenBy': 'Geskryf deur {usernameDisplay}',
     'blog.post.writtenByFor': 'Geskryf deur {usernameDisplay} vir {publicationName}',
-    'blog.posts.recent': 'Onlangse plasings'
+    'blog.posts.recent': 'Onlangse plasings',
+    'blog.statsPage': 'Blog statistieke'
 };

@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': '新增層級',
     'payment.fanClub.description': '層級描述',
     'payment.fanClub.picture': '層級圖片',
-    'payment.fanClub.priceBreakdown': '訂閱者將支付：{amount}。平台費用為{fee}，您將獲得：{net}',
-    'payment.feeNotice': '請注意，這只是一個估計，實際費用可能根據客戶的付款方式和支付閘口的額外費用而有所不同。',
-    'payment.fanClub.perks': '福利'
+    'payment.fanClub.priceBreakdown': '訂閱者將支付：{amount}。平台費用為{fee}（{platformPercentage}），預估Stripe的費用為：{stripeFee}（{stripeBaseFee}基本交易費+支付類型百分比），您將獲得（預估）：{net}',
+    'payment.fanClub.learnStripeFees': '了解更多關於Stripe手續費。',
+    'payment.feeNotice': '請注意，這只是一個估計，實際的Stripe費用可能根據客戶的付款類型和付款門戶的附加費用而有所不同。',
+    'payment.fanClub.perks': '福利',
+    'stripeConnect.settings.notifications': '來自Stripe的通知',
+    'plans.pricePerMonth': '每月金額',
+    'payment.fanClub.perkType': '福利類型',
+    'payment.fanClub.addPerk': '新增福利',
+    'payment.fanClub.perksExplained': '這些是通過文學宇宙自動授予粉絲的特權。',
+    'plans.deleteTier.header': '您確定要刪除層級{tierName}嗎？',
+    'plans.deleteTier.explainer': '如果該層級沒有任何訂閱者，它將被刪除。否則，將停用新訂閱，但現有訂閱將繼續，直到粉絲更改他們的訂閱。',
+    'plans.fanClub.userSettings': '管理您的粉絲俱樂部訂閱',
+    'plans.fanClub.subscribers': '訂閱者'
 };

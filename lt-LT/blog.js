@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Įvadinis pastraipa',
     'blog.post.writtenBy': 'Parašė {usernameDisplay}',
     'blog.post.writtenByFor': 'Parašė {usernameDisplay} for {publicationName}',
-    'blog.posts.recent': 'Naujausi įrašai'
+    'blog.posts.recent': 'Naujausi įrašai',
+    'blog.statsPage': 'Tinklaraščio statistika'
 };

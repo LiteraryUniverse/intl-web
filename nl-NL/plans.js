@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Voeg niveau toe',
     'payment.fanClub.description': 'Niveaubeschrijving',
     'payment.fanClub.picture': 'Niveau afbeelding',
-    'payment.fanClub.priceBreakdown': 'De abonnee betaalt: {amount}. De platformkosten bedragen {fee}, u ontvangt: {net}',
-    'payment.feeNotice': 'Houd er rekening mee dat dit een schatting is en dat de werkelijke kosten kunnen verschillen op basis van de betaalmethode van de klant en eventuele extra kosten van het betaalplatform.',
-    'payment.fanClub.perks': 'Voordelen'
+    'payment.fanClub.priceBreakdown': 'De abonnee betaalt: {amount}. Platformkosten zijn {fee} ({platformPercentage}), geschatte kosten van Stripe: {stripeFee} ({stripeBaseFee} basis transactiekosten + betalingstype percentage), je ontvangt (geschat): {net}',
+    'payment.fanClub.learnStripeFees': 'Leer meer over Stripe-kosten.',
+    'payment.feeNotice': 'Houd er rekening mee dat dit een schatting is en dat de werkelijke Stripe-kosten kunnen verschillen op basis van het betalingstype van de klant en eventuele extra kosten van het betalingsportaal.',
+    'payment.fanClub.perks': 'Voordelen',
+    'stripeConnect.settings.notifications': 'Meldingen van Stripe',
+    'plans.pricePerMonth': 'Bedrag per maand',
+    'payment.fanClub.perkType': 'Type voordeel',
+    'payment.fanClub.addPerk': 'Voeg voordeel toe',
+    'payment.fanClub.perksExplained': 'Dit zijn voordelen die automatisch aan de fan worden toegekend via Literary Universe.',
+    'plans.deleteTier.header': 'Weet je zeker dat je niveau {tierName} wilt verwijderen?',
+    'plans.deleteTier.explainer': 'Als dit niveau geen abonnees heeft, zal het worden verwijderd. Anders wordt het uitgeschakeld voor nieuwe abonnementen, maar bestaande abonnementen zullen doorgaan totdat de fan zijn abonnement wijzigt.',
+    'plans.fanClub.userSettings': 'Beheer uw abonnementen voor uw fanclub',
+    'plans.fanClub.subscribers': 'Abonnees'
 };

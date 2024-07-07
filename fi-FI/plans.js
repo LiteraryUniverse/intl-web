@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Lisää taso',
     'payment.fanClub.description': 'Tason kuvaus',
     'payment.fanClub.picture': 'Tason kuva',
-    'payment.fanClub.priceBreakdown': 'Tilaaja maksaa: {amount}. Alustamaksu on {fee}, saat: {net}',
-    'payment.feeNotice': 'Huomioithan, että tämä on arvio ja todellinen maksu voi poiketa asiakkaan maksutavasta ja mahdollisista lisämaksuista maksuportilta.',
-    'payment.fanClub.perks': 'Edut'
+    'payment.fanClub.priceBreakdown': 'Tilaaja maksaa: {amount}. Alustamaksu on {fee} ({platformPercentage}), Stripe-palvelun arvioidut maksut: {stripeFee} ({stripeBaseFee} perustapahtumamaksu + maksutavan prosentti), saat (arvio): {net}',
+    'payment.fanClub.learnStripeFees': 'Lue lisää Stripe-maksuista.',
+    'payment.feeNotice': 'Huomioithan, että tämä on arvio ja todellinen Stripe-palvelun maksu voi poiketa asiakkaan maksutavasta ja lisämaksuista pay gate -palvelun kautta.',
+    'payment.fanClub.perks': 'Edut',
+    'stripeConnect.settings.notifications': 'Ilmoitukset Stripeltä',
+    'plans.pricePerMonth': 'Summa kuukaudessa',
+    'payment.fanClub.perkType': 'Edun tyyppi',
+    'payment.fanClub.addPerk': 'Lisää etu',
+    'payment.fanClub.perksExplained': 'Nämä ovat etuja, jotka myönnetään automaattisesti fanille Literary Universe -palvelun kautta.',
+    'plans.deleteTier.header': 'Haluatko varmasti poistaa tason {tierName}?',
+    'plans.deleteTier.explainer': 'Jos tällä tasolla ei ole tilaajia, se poistetaan. Muussa tapauksessa se poistetaan käytöstä uusille tilauksille, mutta olemassa olevat tilaukset jatkuvat kunnes käyttäjä vaihtaa tilauksen.',
+    'plans.fanClub.userSettings': 'Hallitse fanikerhojen tilauksiasi',
+    'plans.fanClub.subscribers': 'Tilaajat'
 };

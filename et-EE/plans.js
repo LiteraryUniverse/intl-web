@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Lisa tase',
     'payment.fanClub.description': 'Taseme kirjeldus',
     'payment.fanClub.picture': 'Taseme pilt',
-    'payment.fanClub.priceBreakdown': 'Tellija maksab: {amount}. Platvormitasu on {fee}, sulle jääb kätte: {net}',
-    'payment.feeNotice': 'Palun pane tähele, et see on hinnang ja tegelik tasu võib erineda sõltuvalt kliendi makseviisist ja lisatasudest makseväravalt.',
-    'payment.fanClub.perks': 'Eelised'
+    'payment.fanClub.priceBreakdown': 'Tellija maksab: {amount}. Platvormi tasu on {fee} ({platformPercentage}), Stripe\'i hinnangulised tasud on {stripeFee} ({stripeBaseFee} põhitasu + makseviisi protsent), saate (hinnanguliselt): {net}',
+    'payment.fanClub.learnStripeFees': 'Lisateavet Stripe\'i tasude kohta.',
+    'payment.feeNotice': 'Palun pange tähele, et see on hinnanguline summa ja tegelik Stripe\'i tasu võib erineda vastavalt kliendi makseviisile ja täiendavatele tasudele makseväravas.',
+    'payment.fanClub.perks': 'Eelised',
+    'stripeConnect.settings.notifications': 'Teavitused Stripelt',
+    'plans.pricePerMonth': 'Summa kuus',
+    'payment.fanClub.perkType': 'Eesmärgi tüüp',
+    'payment.fanClub.addPerk': 'Lisa eesmärk',
+    'payment.fanClub.perksExplained': 'Need on hüved, mis antakse fännile automaatselt läbi Literary Universe.',
+    'plans.deleteTier.header': 'Kas olete kindel, et soovite kustutada taseme {tierName}?',
+    'plans.deleteTier.explainer': 'Kui sellel tasemel pole tellijaid, siis see kustutatakse. Vastasel juhul lülitatakse see uute tellimuste jaoks välja, kuid olemasolevad tellimused jäävad alles, kuni fänn muudab oma tellimust.',
+    'plans.fanClub.userSettings': 'Halda oma fänniklubi tellimusi',
+    'plans.fanClub.subscribers': 'Tellijad'
 };

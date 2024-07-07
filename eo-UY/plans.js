@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Aldoni nivelon',
     'payment.fanClub.description': 'Priskribo de nivelo',
     'payment.fanClub.picture': 'Bildo de nivelo',
-    'payment.fanClub.priceBreakdown': 'Abonanto pagos: {amount}. La platforma kosto estas {fee}, vi ricevos: {net}',
-    'payment.feeNotice': 'Bonvolu noti ke ĉi tio estas takso-prognozo kaj la efektiva takso povas esti malsama laŭ la pago-tipo de la kliento kaj aldonaj pagoj de la paga pordego.',
-    'payment.fanClub.perks': 'Avantaĝoj'
+    'payment.fanClub.priceBreakdown': 'Abonanto pagos: {amount}. Platforma kosto estas {fee} ({platformPercentage}), antaŭviditaj kosto de Stripe: {stripeFee} ({stripeBaseFee} bazkosta transakcia kosto + pago laŭ tipo procento), vi ricevos (antaŭvidita): {net}',
+    'payment.fanClub.learnStripeFees': 'Lernu pli pri Stripe kotizoj.',
+    'payment.feeNotice': 'Bonvolu noti ke ĉi tio estas antaŭvido kaj la efektiva kostoj de Stripe povas esti malsamaj baze de la pagoj tipo de kliento kaj aldonaj pagoj de la pago pordo.',
+    'payment.fanClub.perks': 'Avantaĝoj',
+    'stripeConnect.settings.notifications': 'Sciigoj de Stripe',
+    'plans.pricePerMonth': 'Sumo por monato',
+    'payment.fanClub.perkType': 'Tipo de avantaĝo',
+    'payment.fanClub.addPerk': 'Aldoni avantaĝon',
+    'payment.fanClub.perksExplained': 'Tio estas avantaĝoj kiuj estas aŭtomate donataj al la fervorulo tra Literary Universe.',
+    'plans.deleteTier.header': 'Ĉu vi certas, ke vi volas forigi tavolon {tierName}?',
+    'plans.deleteTier.explainer': 'Se tiu tavolo ne havas iajn abonantojn, ĝi estos forigita. Alie ĝi estos malŝaltita por novaj abonoj, sed ekzistantaj abonoj daŭros ĝis la fano ŝanĝas sian abonon.',
+    'plans.fanClub.userSettings': 'Administri viajn abonadon al fanokluboj',
+    'plans.fanClub.subscribers': 'Abonantoj'
 };

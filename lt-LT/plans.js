@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Pridėti lygį',
     'payment.fanClub.description': 'Lygio aprašymas',
     'payment.fanClub.picture': 'Lygio nuotrauka',
-    'payment.fanClub.priceBreakdown': 'Abonentas sumokės: {amount}. Platformos mokestis yra {fee}, jūs gausite: {net}',
-    'payment.feeNotice': 'Prašome atkreipti dėmesį, kad tai yra tik apskaičiavimas ir tikras mokestis gali skirtis priklausomai nuo kliento mokėjimo tipo ir papildomų mokesčių iš mokėjimo vartų.',
-    'payment.fanClub.perks': 'Privalumai'
+    'payment.fanClub.priceBreakdown': 'Prenumeratorius sumokės: {amount}. Platformos mokestis yra {fee} ({platformPercentage}), numatyti mokėjimo Stripe mokestis: {stripeFee} ({stripeBaseFee} bazinis mokėjimo komisinis mokestis + mokėjimo tipo procentas), gausite (numatyta): {net}',
+    'payment.fanClub.learnStripeFees': 'Sužinokite daugiau apie „Stripe“ mokesčius.',
+    'payment.feeNotice': 'Nepamirškite, kad tai yra įvertinimas ir tikrasis Stripe mokestis gali skirtis pagal kliento mokėjimo tipą ir papildomus mokestis iš mokėjimo vartų.',
+    'payment.fanClub.perks': 'Privalumai',
+    'stripeConnect.settings.notifications': 'Pranešimai iš „Stripe“',
+    'plans.pricePerMonth': 'Suma per mėnesį',
+    'payment.fanClub.perkType': 'Paslaugos tipas',
+    'payment.fanClub.addPerk': 'Pridėti privilegiją',
+    'payment.fanClub.perksExplained': 'Tai yra privilegijos, kurios automatiškai suteikiamos fanui per Literary Universe.',
+    'plans.deleteTier.header': 'Ar tikrai norite ištrinti lygį {tierName}?',
+    'plans.deleteTier.explainer': 'Jei šis lygis neturi jokių prenumeratorių, jis bus ištrintas. Kitu atveju jis bus išjungtas naujiems prenumeratams, bet esamos prenumeratos tęsis, kol fanas pakeis savo prenumeratą.',
+    'plans.fanClub.userSettings': 'Valdykite savo gerbėjų klubo prenumeratas',
+    'plans.fanClub.subscribers': 'Prenumeratoriai'
 };

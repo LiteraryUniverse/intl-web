@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'إضافة طبقة',
     'payment.fanClub.description': 'وصف الطبقة',
     'payment.fanClub.picture': 'صورة الطبقة',
-    'payment.fanClub.priceBreakdown': 'المشترك سيدفع: {amount}. رسوم المنصة هي {fee}، ستحصل على: {net}',
-    'payment.feeNotice': 'يرجى ملاحظة أن هذا تقدير وقد تكون الرسوم الفعلية مختلفة بناءً على نوع الدفع الخاص بالعميل والرسوم الإضافية من بوابة الدفع.',
-    'payment.fanClub.perks': 'الامتيازات'
+    'payment.fanClub.priceBreakdown': 'المشترك سيدفع: {amount}. رسوم المنصة هي {fee} ({platformPercentage})، الرسوم المقدرة من سترايب: {stripeFee} (رسوم العملية الأساسية + النسبة المئوية لنوع الدفع)، ستحصل على (المقدر): {net}',
+    'payment.fanClub.learnStripeFees': 'تعرف أكثر على رسوم سترايب.',
+    'payment.feeNotice': 'يرجى ملاحظة أن هذا تقدير ورسوم سترايب الفعلية قد تكون مختلفة بناءً على نوع دفعة العميل والرسوم الإضافية من بوابة الدفع.',
+    'payment.fanClub.perks': 'الامتيازات',
+    'stripeConnect.settings.notifications': 'إشعارات من سترايب',
+    'plans.pricePerMonth': 'المبلغ شهريًا',
+    'payment.fanClub.perkType': 'نوع المزايا',
+    'payment.fanClub.addPerk': 'إضافة مزايا',
+    'payment.fanClub.perksExplained': 'هذه المزايا التي يتم منحها تلقائيًا للمعجب من خلال الكون الأدبي.',
+    'plans.deleteTier.header': 'هل أنت متأكد أنك تريد حذف التسوية {tierName}؟',
+    'plans.deleteTier.explainer': 'إذا كانت هذه التسوية ليست لديها أي مشتركين، فسيتم حذفها. وإلا، ستتم تعطيلها للاشتراكات الجديدة، ولكن الاشتراكات الحالية ستستمر حتى يقوم المشجع بتغيير اشتراكه.',
+    'plans.fanClub.userSettings': 'إدارة اشتراكات نادي المعجبين الخاص بك',
+    'plans.fanClub.subscribers': 'المشتركون'
 };

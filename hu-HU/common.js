@@ -259,5 +259,9 @@ export default {
     'common.back': 'Vissza',
     'console.stop': 'Állj!',
     'console.explain': 'Ez egy böngésző funkció, amely a fejlesztők számára készült. Ha valaki azt mondta neked, hogy másolj ide valamit, hogy engedélyezd a Literary Universe funkciót, vagy hogy valakinek a fiókját "hackeld", az egy átverés, és hozzáférést biztosít nekik a Literary Universe fiókodhoz.',
-    'common.coping': 'Másolás...'
+    'common.coping': 'Másolás...',
+    'common.actions': 'Műveletek',
+    'common.popular': 'Népszerű',
+    'common.newest': 'Legújabb',
+    'common.oldest': 'Legrégebbi'
 }    /* eslint-enable max-len */;

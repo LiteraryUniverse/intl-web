@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'ยำแถนโปรด',
     'blog.post.writtenBy': 'เขียนโดย {usernameDisplay}',
     'blog.post.writtenByFor': 'เขียนโดย {usernameDisplay} สำหรับ {publicationName}',
-    'blog.posts.recent': 'โพสต์ล่าสุด'
+    'blog.posts.recent': 'โพสต์ล่าสุด',
+    'blog.statsPage': 'สถิติบล็อก'
 };

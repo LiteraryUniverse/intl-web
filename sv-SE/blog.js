@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Introduktionsstycke',
     'blog.post.writtenBy': 'Skriven av {usernameDisplay}',
     'blog.post.writtenByFor': 'Skrivs av {usernameDisplay} för {publicationName}',
-    'blog.posts.recent': 'Senaste inlägg'
+    'blog.posts.recent': 'Senaste inlägg',
+    'blog.statsPage': 'Bloggstatistik'
 };

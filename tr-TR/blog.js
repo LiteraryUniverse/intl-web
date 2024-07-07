@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Giriş paragrafı',
     'blog.post.writtenBy': '{usernameDisplay}tarafından yazıldı',
     'blog.post.writtenByFor': '{usernameDisplay} tarafından {publicationName}için yazıldı',
-    'blog.posts.recent': 'Son gönderiler'
+    'blog.posts.recent': 'Son gönderiler',
+    'blog.statsPage': 'Blog istatistikleri'
 };

@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Προσθήκη επιπέδου',
     'payment.fanClub.description': 'Περιγραφή επιπέδου',
     'payment.fanClub.picture': 'Εικόνα επιπέδου',
-    'payment.fanClub.priceBreakdown': 'Ο συνδρομητής θα πληρώσει: {amount}. Το τέλος πλατφόρμας είναι {fee}, θα λάβετε: {net}',
-    'payment.feeNotice': 'Παρακαλούμε σημειώστε ότι αυτό είναι μια εκτίμηση και το πραγματικό τέλος μπορεί να διαφέρει ανάλογα με τον τύπο πληρωμής του πελάτη και τυχόν επιπλέον χρεώσεις από την πύλη πληρωμής.',
-    'payment.fanClub.perks': 'Προνόμια'
+    'payment.fanClub.priceBreakdown': 'Ο συνδρομητής θα πληρώσει: {amount}. Το τέλος πλατφόρμας είναι {fee} ({platformPercentage}), εκτιμώμενα τέλη από τη Stripe: {stripeFee} ({stripeBaseFee} βασικά τέλη συναλλαγής + ποσοστό ανά τύπο πληρωμής), θα λάβετε (εκτιμώμενο): {net}',
+    'payment.fanClub.learnStripeFees': 'Μάθετε περισσότερα σχετικά με τις χρεώσεις της Stripe.',
+    'payment.feeNotice': 'Παρακαλούμε να σημειώσετε ότι αυτή είναι μια εκτίμηση και το πραγματικό τέλος της Stripe μπορεί να είναι διαφορετικό ανάλογα με τον τύπο πληρωμής του πελάτη και τυχόν επιπρόσθετες χρεώσεις από την πύλη πληρωμής.',
+    'payment.fanClub.perks': 'Προνόμια',
+    'stripeConnect.settings.notifications': 'Ειδοποιήσεις από την Stripe',
+    'plans.pricePerMonth': 'Ποσό ανά μήνα',
+    'payment.fanClub.perkType': 'Τύπος παροχής',
+    'payment.fanClub.addPerk': 'Προσθήκη παροχής',
+    'payment.fanClub.perksExplained': 'Αυτά είναι προνόμια που απονέμονται αυτόματα στον θαυμαστή μέσω του Literary Universe.',
+    'plans.deleteTier.header': 'Είστε σίγουροι ότι θέλετε να διαγράψετε το επίπεδο {tierName};',
+    'plans.deleteTier.explainer': 'Εάν αυτό το επίπεδο δεν έχει κανέναν συνδρομητή, θα διαγραφεί. Διαφορετικά, θα απενεργοποιηθεί για νέες συνδρομές, αλλά οι υπάρχουσες συνδρομές θα συνεχίσουν μέχρι ο φαν να αλλάξει τη συνδρομή του.',
+    'plans.fanClub.userSettings': 'Διαχειριστείτε τις συνδρομές του φαν κλαμπ σας',
+    'plans.fanClub.subscribers': 'Συνδρομητές'
 };

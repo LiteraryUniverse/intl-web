@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Voeg vlak by',
     'payment.fanClub.description': 'Vlak beskrywing',
     'payment.fanClub.picture': 'Vlak prentjie',
-    'payment.fanClub.priceBreakdown': 'Abonnee sal betaal: {amount}. Platformfooi is {fee}, jy sal kry: {net}',
-    'payment.feeNotice': 'Let daarop dat hierdie \'n skatting is en die werklike fooi mag verskil op grond van die kliënt se betaalmetode en ekstra kostes van die betaalhek.',
-    'payment.fanClub.perks': 'Voordele'
+    'payment.fanClub.priceBreakdown': 'Abonnee sal betaal: {amount}. Platformfooi is {fee} ({platformPercentage}), geraamde fooie van Stripe: {stripeFee} ({stripeBaseFee} basis transaksiefooi + betalingstipe persentasie), jy sal kry (geraamde): {net}',
+    'payment.fanClub.learnStripeFees': 'Kom meer te wete oor Stripe-fooie.',
+    'payment.feeNotice': 'Let asseblief daarop dat dit slegs \'n beraming is en die werklike Stripe-fooi mag verskil op grond van die kliënt se betalingstipe en addisionele kostes van die betaalhek.',
+    'payment.fanClub.perks': 'Voordele',
+    'stripeConnect.settings.notifications': 'Kennisgewings van Stripe',
+    'plans.pricePerMonth': 'Bedrag per maand',
+    'payment.fanClub.perkType': 'Perk tipe',
+    'payment.fanClub.addPerk': 'Voeg perk by',
+    'payment.fanClub.perksExplained': 'Dit is voordele wat outomaties aan die ondersteuner deur Literary Universe toegeken word.',
+    'plans.deleteTier.header': 'Is jy seker jy wil vlak {tierName} verwyder?',
+    'plans.deleteTier.explainer': 'As hierdie vlak geen intekenare het nie, sal dit verwyder word. Anders sal dit gedeaktiveer word vir nuwe intekeninge, maar bestaande intekeninge sal voortduur totdat die aanhanger hul intekening verander.',
+    'plans.fanClub.userSettings': 'Bestuur jou ondersteunersklub intekeninge',
+    'plans.fanClub.subscribers': 'Intekenare'
 };

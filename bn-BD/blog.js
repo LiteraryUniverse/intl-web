@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'পরিচিতি প্যারাগ্রাফ',
     'blog.post.writtenBy': '{usernameDisplay}দ্বারা লিখিত',
     'blog.post.writtenByFor': '{usernameDisplay} দ্বারা লিখিত, {publicationName}এর জন্য',
-    'blog.posts.recent': 'সাম্প্রতিক পোস্টসমূহ'
+    'blog.posts.recent': 'সাম্প্রতিক পোস্টসমূহ',
+    'blog.statsPage': 'ব্লগ পরিসংখ্যান'
 };

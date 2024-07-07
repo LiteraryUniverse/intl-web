@@ -53,5 +53,6 @@ export default {
     'blog.post.introText': 'Εισαγωγικό παράγραφο',
     'blog.post.writtenBy': 'Γραμμένο από τον {usernameDisplay}',
     'blog.post.writtenByFor': 'Γραμμένο από τον {usernameDisplay} για τον {publicationName}',
-    'blog.posts.recent': 'Πρόσφατες αναρτήσεις'
+    'blog.posts.recent': 'Πρόσφατες αναρτήσεις',
+    'blog.statsPage': 'Στατιστικά ιστολογίου'
 };

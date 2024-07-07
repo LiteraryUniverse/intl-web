@@ -222,7 +222,17 @@ export default {
     'payment.fanClub.createTier': 'Cuir leibhéal',
     'payment.fanClub.description': 'Cur síos ar an leibhéal',
     'payment.fanClub.picture': 'Íomhá den leibhéal',
-    'payment.fanClub.priceBreakdown': 'Íocfaidh an t-ábharóir: {amount}. Is é an táille an ghnóthach, gheobhaidh tú: {net}',
-    'payment.feeNotice': 'Tabhair faoi deara go bhfuil seo mar mheasúnú agus d\'fhéadfadh an táille fhíorúil difriúil a bheith de réir cineál íocaíochta an chustaiméara agus táillí breise ón ngeata íocaíochta.',
-    'payment.fanClub.perks': 'Buntáistí'
+    'payment.fanClub.priceBreakdown': 'Íocfaidh an fógraíonnóir: {amount}. Tá táille an phláta: {fee} ({platformPercentage}), táille aistriúcháin ó Stripe: {stripeFee} ({stripeBaseFee} bun táille ghníomhaireacht + céatadán cineál íocaíochta), gheobhaidh tú (meastaithe): {net}',
+    'payment.fanClub.learnStripeFees': 'Foghlaim tuilleadh faoi dleachtaí Stripe.',
+    'payment.feeNotice': 'Tabhair faoi deara gur meastachán é seo agus go bhféadfadh táille fhíosta Stripe a bheith difriúil de réir cineál íocaíochta an chustaiméara agus táillí breise ón ngeata íocaíochta.',
+    'payment.fanClub.perks': 'Buntáistí',
+    'stripeConnect.settings.notifications': 'Fógraí ó Stripe',
+    'plans.pricePerMonth': 'Meastachán in aghaidh na míosa',
+    'payment.fanClub.perkType': 'Cineál corrthairisce',
+    'payment.fanClub.addPerk': 'Cuir corrthairisce leis',
+    'payment.fanClub.perksExplained': 'Is iad seo na buntáisceanna a bhronntar go huathoibríoch ar an bhfanna trí Léann na Litríochta.',
+    'plans.deleteTier.header': 'An bhfuil tú cinnte go bhfuil tú ag iarraidh an céim {tierName} a scriosadh?',
+    'plans.deleteTier.explainer': 'Má tá aon foirstineach ag an gcéim seo, scriosfar é. Sa chás nach bhfuil aon foirstineach aige, mairfidh sé ar leathanaigh nua, ach leanfaidh sí ar aghaidh go dtí go ndéanann an t-aitheantasathraí a athrú.',
+    'plans.fanClub.userSettings': 'Bain úsáid as do sheoladh ríomhphoist chun do chuid síntíse do chlub lucht leanúna a bhainistiú',
+    'plans.fanClub.subscribers': 'Fógraí'
 };
