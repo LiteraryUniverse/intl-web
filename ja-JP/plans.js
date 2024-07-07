@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'これらは、Literary Universeを通じてファンに自動的に付与される特典です。',
     'plans.deleteTier.header': '本当に{tierName}を削除しますか？',
     'plans.deleteTier.explainer': 'もしこのティアに購読者がいない場合、削除されます。そうでない場合、新しい購読には無効になりますが、既存の購読はファンが購読を変更するまで続きます。',
-    'plans.fanClub.userSettings': 'ファンクラブの定期購読を管理します'
+    'plans.fanClub.userSettings': 'ファンクラブの定期購読を管理します',
+    'plans.fanClub.subscribers': '購読者'
 };
