@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Ito ay mga pribilehiyo na awtomatikong ipinagkakaloob sa fan sa pamamagitan ng Literary Universe.',
     'plans.deleteTier.header': 'Sigurado ka bang gusto mong tanggalin ang tier na {tierName}?',
     'plans.deleteTier.explainer': 'Kung ang tier na ito ay walang mga subscribers, ito ay matatanggal. Kung may mga subscribers naman ito, ito ay ide-disable para sa mga bagong subscription, ngunit magpapatuloy ang mga kasalukuyang subscription hanggang sa magbago ang fan ng kanilang subscription.',
-    'plans.fanClub.userSettings': 'Pamahalaan ang iyong mga subscription sa fan club'
+    'plans.fanClub.userSettings': 'Pamahalaan ang iyong mga subscription sa fan club',
+    'plans.fanClub.subscribers': 'Mga Subskripsyon'
 };
