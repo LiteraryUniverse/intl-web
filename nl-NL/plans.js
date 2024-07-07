@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Dit zijn voordelen die automatisch aan de fan worden toegekend via Literary Universe.',
     'plans.deleteTier.header': 'Weet je zeker dat je niveau {tierName} wilt verwijderen?',
     'plans.deleteTier.explainer': 'Als dit niveau geen abonnees heeft, zal het worden verwijderd. Anders wordt het uitgeschakeld voor nieuwe abonnementen, maar bestaande abonnementen zullen doorgaan totdat de fan zijn abonnement wijzigt.',
-    'plans.fanClub.userSettings': 'Beheer uw abonnementen voor uw fanclub'
+    'plans.fanClub.userSettings': 'Beheer uw abonnementen voor uw fanclub',
+    'plans.fanClub.subscribers': 'Abonnees'
 };
