@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'אלו הם הטבות שניתנות באופן אוטומטי לאוהד דרך יצירת היקום הספרותי.',
     'plans.deleteTier.header': 'האם אתה בטוח שברצונך למחוק את השכבה {tierName}?',
     'plans.deleteTier.explainer': 'אם לשכבה זו אין מנויים, היא תימחק. אחרת, היא תושבת למנויים חדשים, אך המנויים הקיימים ימשיכו עד שהמעריך משנה את המנוי שלו.',
-    'plans.fanClub.userSettings': 'ניהול מינויי מועדון היתרים שלך'
+    'plans.fanClub.userSettings': 'ניהול מינויי מועדון היתרים שלך',
+    'plans.fanClub.subscribers': 'מנויים'
 };
