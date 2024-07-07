@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Bunlar, Edebi Evrende hayran\'a otomatik olarak verilen ayrıcalıklardır.',
     'plans.deleteTier.header': '{tierName} adlı seviyeyi silmek istediğinizden emin misiniz?',
     'plans.deleteTier.explainer': 'Eğer bu seviyenin herhangi bir abonesi yoksa silinecektir. Aksi takdirde, yeni abonelikler için devre dışı bırakılacak, ancak mevcut abonelikler hayran aboneliği değiştirinceye kadar devam edecektir.',
-    'plans.fanClub.userSettings': 'Hayran kulübü aboneliklerinizi yönetin'
+    'plans.fanClub.userSettings': 'Hayran kulübü aboneliklerinizi yönetin',
+    'plans.fanClub.subscribers': 'Aboneler'
 };
