@@ -233,5 +233,6 @@ export default {
     'payment.fanClub.perksExplained': 'Acestea sunt avantajele care sunt acordate automat fanului prin Literary Universe.',
     'plans.deleteTier.header': 'Sigur doriți să ștergeți stratul {tierName}?',
     'plans.deleteTier.explainer': 'Dacă acest strat nu are abonați, va fi șters. În caz contrar, va fi dezactivat pentru noi abonamente, dar abonamentele existente vor continua până când fanul își schimbă abonamentul.',
-    'plans.fanClub.userSettings': 'Administrați abonamentele clubului dvs. de fani'
+    'plans.fanClub.userSettings': 'Administrați abonamentele clubului dvs. de fani',
+    'plans.fanClub.subscribers': 'Abonați'
 };
