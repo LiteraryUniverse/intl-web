@@ -37,18 +37,7 @@ import readingList from './reading_list'
 import personalNotes from './personalNotes'
 
 export default {
-  locales: [
-    'eo',
-    'eo-UN',
-    'eo-US',
-    'eo-HU',
-    'eo-CN',
-    'eo-VA',
-    'eo-HR',
-    'eo-DE',
-    'eo-NZ',
-    'eo-UY'
-  ],
+  locales: ['eo', 'eo-UN', 'eo-US', 'eo-HU', 'eo-CN', 'eo-VA', 'eo-HR', 'eo-DE', 'eo-NZ', 'eo-UY'],
   ...common,
   ...form,
   ...emails,
@@ -85,5 +74,5 @@ export default {
   ...events,
   ...fanManager,
   ...readingList,
-  ...personalNotes
+  ...personalNotes,
 }

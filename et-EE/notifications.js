@@ -4,7 +4,8 @@ export default {
   'flashnews.startsAt': 'Alustage selle sõnumi kuvamist kell',
   'flashnews.endsAt': 'Lõpetage selle sõnumi kuvamine kell',
   'flashnews.newLanguage': 'Valige uus keel, et lisada',
-  'flashnews.onlyDisplayOn': 'Uudised kuvatakse ainult allpool valitud keelte puhul (kui üldse valitud), teistes keeltes uudiseid ei kuvata isegi vaikimisi keeles.',
+  'flashnews.onlyDisplayOn':
+    'Uudised kuvatakse ainult allpool valitud keelte puhul (kui üldse valitud), teistes keeltes uudiseid ei kuvata isegi vaikimisi keeles.',
   'notifications.menu.all': 'Kõik teated',
   'notifications.menu.following': 'Järgmine',
   'notifications.menu.workshop': 'Töötuba',
@@ -13,8 +14,10 @@ export default {
   'notifications.menu.markRead': 'Märgi loetuks',
   'notifications.menu.delete': 'Kustuta teavitus',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus': 'Teie lugu {storyName} seati pärast 6 kuud tegevusetust automaatselt peatusse.',
-  'notification.workshopStoryStatus.toCancelled': 'Teie lugu {storyName} seati pärast üheaastast tegevusetust automaatselt tühistatuks.',
+  'notification.workshopStoryStatus.toHiatus':
+    'Teie lugu {storyName} seati pärast 6 kuud tegevusetust automaatselt peatusse.',
+  'notification.workshopStoryStatus.toCancelled':
+    'Teie lugu {storyName} seati pärast üheaastast tegevusetust automaatselt tühistatuks.',
   'notification.followingStoryStatus.toHiatus': '{storyName} on peatusse seatud.',
   'notification.followingStoryStatus.toCancelled': '{storyName} on tühistatud.',
   'notification.followingNewChapter.new': '{storyName} -s on avaldatud uus peatükk!',
@@ -23,5 +26,5 @@ export default {
   'notification.friendRequest': 'saatis teile sõbrakutse.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Mine loo juurde'
-};
+  'notificationExtra.workshopStoryStatus.goToStory': 'Mine loo juurde',
+}

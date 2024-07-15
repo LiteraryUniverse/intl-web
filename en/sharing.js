@@ -2,8 +2,7 @@ export default {
   'sharing.title': 'Share',
   'sharing.button': 'Sharing Button',
   'sharing.share': 'Share with...',
-  'sharing.feedback':
-    'Are we missing some place you would like to share to? Let us know about it!',
+  'sharing.feedback': 'Are we missing some place you would like to share to? Let us know about it!',
   'sharing.copy': 'Copy',
   'sharing.email': 'E-mail',
   'sharing.sms': 'SMS',
@@ -21,5 +20,5 @@ export default {
   'sharing.gettr': 'Gettr',
   'sharing.minds': 'Minds.com',
   'sharing.instagram': 'Instagram',
-  'sharing.reddit': 'Reddit'
+  'sharing.reddit': 'Reddit',
 }

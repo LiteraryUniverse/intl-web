@@ -74,5 +74,5 @@ export default {
   ...events,
   ...fanManager,
   ...readingList,
-  ...personalNotes
+  ...personalNotes,
 }

@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': 'Ditolak',
   'fanManager.state.hidden': 'Tersembunyi',
   'fanManager.publicComment': 'Komentar publik',
-  'fanManager.publicComment.desc': 'Teks ini akan ditampilkan di halaman publik sebagai komentar resmi Anda tentang seni ini.',
+  'fanManager.publicComment.desc':
+    'Teks ini akan ditampilkan di halaman publik sebagai komentar resmi Anda tentang seni ini.',
   'fanManager.authorComment': 'Komentar untuk penulis',
   'fanManager.authorComment.desc': 'Ini adalah komentar pribadi dari Anda kepada penulis seni ini.',
   'fanManager.stateChange.approve': 'Setujui seni penggemar',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'Sembunyikan seni penggemar',
   'fanManager.stateChange.unhide': 'Membuat seni penggemar terlihat',
   'fanManager.fanFictionNotAllowed': 'Fan fiction tidak diizinkan oleh sifat lisensi Anda.',
-  'fanManager.fanFiction.maxRating': 'Rating maksimum dari fan fiction yang ditampilkan.'
-};
+  'fanManager.fanFiction.maxRating': 'Rating maksimum dari fan fiction yang ditampilkan.',
+}

@@ -37,16 +37,7 @@ import readingList from './reading_list'
 import personalNotes from './personalNotes'
 
 export default {
-  locales: [
-    'fr',
-    'fr-FR',
-    'fr-CA',
-    'fr-CH',
-    'fr-LU',
-    'fr-BE',
-    'fr-MC',
-    'fr-CF'
-  ],
+  locales: ['fr', 'fr-FR', 'fr-CA', 'fr-CH', 'fr-LU', 'fr-BE', 'fr-MC', 'fr-CF'],
   ...common,
   ...form,
   ...emails,
@@ -83,5 +74,5 @@ export default {
   ...events,
   ...fanManager,
   ...readingList,
-  ...personalNotes
+  ...personalNotes,
 }

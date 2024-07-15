@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': 'Odmietnuté',
   'fanManager.state.hidden': 'Skryté',
   'fanManager.publicComment': 'Verejný komentár',
-  'fanManager.publicComment.desc': 'Tento text sa zobrazí na verejnej stránke ako váš oficiálny komentár k tomuto dielu.',
+  'fanManager.publicComment.desc':
+    'Tento text sa zobrazí na verejnej stránke ako váš oficiálny komentár k tomuto dielu.',
   'fanManager.authorComment': 'Komentár pre autora',
   'fanManager.authorComment.desc': 'Toto je váš súkromný komentár autorovi tohto diela.',
   'fanManager.stateChange.approve': 'Schváliť fanúšikovské umenie',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'Skryť fanúšikovské umenie',
   'fanManager.stateChange.unhide': 'Zviditeľnite fanúšikovské umenie',
   'fanManager.fanFictionNotAllowed': 'Fan fiction není povolena povahou Vaší licence.',
-  'fanManager.fanFiction.maxRating': 'Maximálna hodnotenie zobrazovanej fanfiction.'
-};
+  'fanManager.fanFiction.maxRating': 'Maximálna hodnotenie zobrazovanej fanfiction.',
+}

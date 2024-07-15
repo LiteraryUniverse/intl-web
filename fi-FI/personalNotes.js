@@ -6,7 +6,8 @@ export default {
   'personalNotes.universeNotes': 'Universumin muistiinpanot',
   'personalNotes.encyclopediaNotes': 'Tietosanakirjamuistiinpanot',
   'personalNotes.storyPersonalNotesHeading': 'Henkilökohtaiset muistiinpanot tarinoista',
-  'personalNotes.encyclopediaPersonalNotesHeading': 'Henkilökohtaiset muistiinpanot tietosanakirjasta',
+  'personalNotes.encyclopediaPersonalNotesHeading':
+    'Henkilökohtaiset muistiinpanot tietosanakirjasta',
   'personalNotes.searchPersonalNotesHeading': 'Etsi henkilökohtaisia muistiinpanoja',
   'personalNotes.goToStory': 'Siirry tarinaan',
   'personalNotes.goToChapter': 'Siirry lukuun',
@@ -22,5 +23,5 @@ export default {
   'personalNotes.type.encEntry': 'Tietosanakirjamerkintä',
   'personalNotes.type.revTextBlock': 'Muokkausmerkkiblokki',
   'personalNotes.chapter': 'Luku',
-  'personalNotes.recentSearches': 'Viimeisimmät haut:'
-};
+  'personalNotes.recentSearches': 'Viimeisimmät haut:',
+}

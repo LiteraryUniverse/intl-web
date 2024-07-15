@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': 'Afgewezen',
   'fanManager.state.hidden': 'Verborgen',
   'fanManager.publicComment': 'Openbare reactie',
-  'fanManager.publicComment.desc': 'Deze tekst wordt weergegeven op de openbare pagina als uw officiële reactie op dit kunstwerk.',
+  'fanManager.publicComment.desc':
+    'Deze tekst wordt weergegeven op de openbare pagina als uw officiële reactie op dit kunstwerk.',
   'fanManager.authorComment': 'Reactie voor de auteur',
   'fanManager.authorComment.desc': 'Dit is een privéreactie van u aan de auteur van dit kunstwerk.',
   'fanManager.stateChange.approve': 'Ventilator kunstwerk goedkeuren',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'Ventilator kunstwerk verbergen',
   'fanManager.stateChange.unhide': 'Ventilator kunstwerk zichtbaar maken',
   'fanManager.fanFictionNotAllowed': 'Fan fictie is niet toegestaan door de aard van uw licentie.',
-  'fanManager.fanFiction.maxRating': 'Maximale beoordeling van weergegeven fan fictie.'
-};
+  'fanManager.fanFiction.maxRating': 'Maximale beoordeling van weergegeven fan fictie.',
+}

@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'ਫੈਨ ਕਲਾ ਛੁਪਾਉ',
   'fanManager.stateChange.unhide': 'ਫੈਨ ਕਲਾ ਦਰਸ਼ੀ ਜਾਵੇ',
   'fanManager.fanFictionNotAllowed': 'ਤੁਹਾਡੇ ਲਾਇਸੈਂਸ ਦੇ ਪ੍ਰਕ੍ਰਿਆ ਦੁਆਰਾ ਫੈਨ ਕਲਾ ਦੀ ਇਜ਼ਾਜ਼ਤ ਨਹੀਂ ਹੈ।',
-  'fanManager.fanFiction.maxRating': 'ਦਿਖਾਈ ਜਾਂਦੀ ਹੋਈ ਫੈਨ ਕਲਾ ਦੀ ਅਧਿਕਤਮ ਰੇਟਿੰਗ।'
-};
+  'fanManager.fanFiction.maxRating': 'ਦਿਖਾਈ ਜਾਂਦੀ ਹੋਈ ਫੈਨ ਕਲਾ ਦੀ ਅਧਿਕਤਮ ਰੇਟਿੰਗ।',
+}

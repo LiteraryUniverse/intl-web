@@ -18,5 +18,6 @@ export default {
   'fanManager.stateChange.hide': 'फ्यान आर्ट लुकाउनुहोस्',
   'fanManager.stateChange.unhide': 'फ्यान आर्ट दृश्यमा हेर्नुहोस्',
   'fanManager.fanFictionNotAllowed': 'तपाइँको लाइसेन्सको प्रकृतिबाट फ्यान लघुकथा अनुमति दिईएन।',
-  'fanManager.fanFiction.maxRating': 'प्रदर्शित गरिएको फ्यान लघुकथाको अधिक्षित मापन्डको न्यूनतम विश्वास्यताः।'
-};
+  'fanManager.fanFiction.maxRating':
+    'प्रदर्शित गरिएको फ्यान लघुकथाको अधिक्षित मापन्डको न्यूनतम विश्वास्यताः।',
+}

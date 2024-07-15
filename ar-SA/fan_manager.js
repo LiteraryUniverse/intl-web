@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': 'تم الرفض',
   'fanManager.state.hidden': 'مخفي',
   'fanManager.publicComment': 'تعليق عام',
-  'fanManager.publicComment.desc': 'سيتم عرض هذا النص في الصفحة العامة كتعليق رسمي منك على هذا العمل.',
+  'fanManager.publicComment.desc':
+    'سيتم عرض هذا النص في الصفحة العامة كتعليق رسمي منك على هذا العمل.',
   'fanManager.authorComment': 'تعليق للمؤلف',
   'fanManager.authorComment.desc': 'هذا تعليق خاص منك لمؤلف هذا العمل.',
   'fanManager.stateChange.approve': 'الموافقة على فنون المعجبين',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'إخفاء فنون المعجبين',
   'fanManager.stateChange.unhide': 'جعل فنون المعجبين مرئية',
   'fanManager.fanFictionNotAllowed': 'من الطبيعة لا يُسمح بقصص المعجبين بناءً على ترخيصك.',
-  'fanManager.fanFiction.maxRating': 'التقييم الأقصى لعرض قصص المعجبين.'
-};
+  'fanManager.fanFiction.maxRating': 'التقييم الأقصى لعرض قصص المعجبين.',
+}

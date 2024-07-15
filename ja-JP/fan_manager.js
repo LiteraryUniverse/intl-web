@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': '不採用',
   'fanManager.state.hidden': '非表示',
   'fanManager.publicComment': 'パブリックコメント',
-  'fanManager.publicComment.desc': 'この文章は、このアートに対するあなたの公式コメントとして、パブリックページに表示されます。',
+  'fanManager.publicComment.desc':
+    'この文章は、このアートに対するあなたの公式コメントとして、パブリックページに表示されます。',
   'fanManager.authorComment': '著者へのコメント',
   'fanManager.authorComment.desc': 'これは、このアート作者への個人的なコメントです。',
   'fanManager.stateChange.approve': 'ファンアートを承認する',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'ファンアートを非表示にする',
   'fanManager.stateChange.unhide': 'ファンアートを可視化する',
   'fanManager.fanFictionNotAllowed': 'ファンフィクションは、ライセンスの性質上、禁止されています。',
-  'fanManager.fanFiction.maxRating': '表示されるファンフィクションの最大評価値。'
-};
+  'fanManager.fanFiction.maxRating': '表示されるファンフィクションの最大評価値。',
+}

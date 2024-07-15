@@ -10,13 +10,15 @@ export default {
   'fanManager.state.rejected': 'Tagasi lükatud',
   'fanManager.state.hidden': 'Peidetud',
   'fanManager.publicComment': 'Avalik kommentaar',
-  'fanManager.publicComment.desc': 'See tekst kuvatakse avalikul lehel Sinu ametliku kommentaarina selle kunsti kohta.',
+  'fanManager.publicComment.desc':
+    'See tekst kuvatakse avalikul lehel Sinu ametliku kommentaarina selle kunsti kohta.',
   'fanManager.authorComment': 'Kommentaar autorile',
   'fanManager.authorComment.desc': 'See on Sinu poolt selle kunsti autori privaatne kommentaar.',
   'fanManager.stateChange.approve': 'Kinnita ventilaatorite kunsti',
   'fanManager.stateChange.reject': 'Lükka tagasi ventilaatorite kunst',
   'fanManager.stateChange.hide': 'Peida ventilaatorite kunst',
   'fanManager.stateChange.unhide': 'Muuda ventilaatorite kunst nähtavaks',
-  'fanManager.fanFictionNotAllowed': 'Litsentsi olemuse tõttu ei ole ventilaatorite fiktsioon lubatud.',
-  'fanManager.fanFiction.maxRating': 'Kuva ventilaatorite fiktsioon maksimaalse hinnanguga.'
-};
+  'fanManager.fanFictionNotAllowed':
+    'Litsentsi olemuse tõttu ei ole ventilaatorite fiktsioon lubatud.',
+  'fanManager.fanFiction.maxRating': 'Kuva ventilaatorite fiktsioon maksimaalse hinnanguga.',
+}

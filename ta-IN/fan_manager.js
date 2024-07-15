@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'பிரதியை மறைக்க',
   'fanManager.stateChange.unhide': 'பிரதியை காட்டு',
   'fanManager.fanFictionNotAllowed': 'உங்களுக்குப் புரட்சியால் கதைகளை அனுமதிக்க முடியாது.',
-  'fanManager.fanFiction.maxRating': 'காட்சித்தனிக்கு அதிகப்பட்ட மதிப்பீடு.'
-};
+  'fanManager.fanFiction.maxRating': 'காட்சித்தனிக்கு அதிகப்பட்ட மதிப்பீடு.',
+}

@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'ఫ్యాన్ ఆర్ట్ని దాగించండి',
   'fanManager.stateChange.unhide': 'ఫ్యాన్ ఆర్ట్ని కనిపిస్తే ఈరువుగా చూపించండి',
   'fanManager.fanFictionNotAllowed': 'మీ లైసెన్స్ స్వభావాన్ని ఆధారంగా ఫ్యాన్ ఫిక్షన్ అనుమతించబడదు.',
-  'fanManager.fanFiction.maxRating': 'ప్రదర్శించబడే ఫ్యాన్ ఫిక్షన్ యొక్క గరిష్ట రేటింగ్.'
-};
+  'fanManager.fanFiction.maxRating': 'ప్రదర్శించబడే ఫ్యాన్ ఫిక్షన్ యొక్క గరిష్ట రేటింగ్.',
+}

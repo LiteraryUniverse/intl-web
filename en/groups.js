@@ -6,8 +6,7 @@ export default {
   'groups.type.open': 'Open',
   'groups.type.openDesc': 'Open - Anyone can join the group.',
   'groups.type.closed': 'Closed',
-  'groups.type.closedDesc':
-    'Closed - People need to approved before they can join your group.',
+  'groups.type.closedDesc': 'Closed - People need to approved before they can join your group.',
   'groups.type.hidden': 'Hidden',
   'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
   'groups.imageAlt': '{groupName} picture',
@@ -41,5 +40,5 @@ export default {
   }`,
   'groups.invites.title': 'Group invitations',
   'group.invite.accept': 'Accept invite',
-  'group.noticeBoard': 'Notice board'
+  'group.noticeBoard': 'Notice board',
 }

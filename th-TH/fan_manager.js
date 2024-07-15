@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': 'ปฏิเสธ',
   'fanManager.state.hidden': 'ซ่อน',
   'fanManager.publicComment': 'ความคิดเห็นสาธารณะ',
-  'fanManager.publicComment.desc': 'ข้อความนี้จะแสดงบนหน้าสาธารณะเป็นความคิดเห็นอย่างเป็นทางการของคุณเกี่ยวกับงานศิลปะนี้',
+  'fanManager.publicComment.desc':
+    'ข้อความนี้จะแสดงบนหน้าสาธารณะเป็นความคิดเห็นอย่างเป็นทางการของคุณเกี่ยวกับงานศิลปะนี้',
   'fanManager.authorComment': 'ความคิดเห็นสำหรับผู้เขียน',
   'fanManager.authorComment.desc': 'นี่คือความคิดเห็นส่วนบุคคลจากคุณถึงผู้เขียนของงานศิลปะนี้',
   'fanManager.stateChange.approve': 'อนุมัติงานศิลปะแฟน',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'ซ่อนงานศิลปะแฟน',
   'fanManager.stateChange.unhide': 'ทำให้งานศิลปะแฟนปรากฏ',
   'fanManager.fanFictionNotAllowed': 'ไม่อนุญาตที่จะมีเรื่องแฟนฟิคตามลิขสิทธิ์ของคุณธรรมดา',
-  'fanManager.fanFiction.maxRating': 'การจัดอันดับสูงสุดของเรื่องแฟนฟิคที่แสดง'
-};
+  'fanManager.fanFiction.maxRating': 'การจัดอันดับสูงสุดของเรื่องแฟนฟิคที่แสดง',
+}

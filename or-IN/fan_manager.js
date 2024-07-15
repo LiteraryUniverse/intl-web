@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'ଫାନ୍ ଆର୍ଟ୍ ଲୁଚା କରନ୍ତୁ',
   'fanManager.stateChange.unhide': 'ଫାନ୍ ଆର୍ଟ୍ ଦୃଶ୍ୟମାନ କରନ୍ତୁ',
   'fanManager.fanFictionNotAllowed': 'ଆପଣଙ୍କର ଲାଇସେନ୍ସ ର ପ୍ରକୃତିରେ ଫାନ୍ ଲେଖା ଅନୁମୋଦ୍ୟ ନାହିଁଯାଇଛି',
-  'fanManager.fanFiction.maxRating': 'ପ୍ରଦର୍ଶିତ ହୋଇଥିବା ଫାନ୍ ଲେଖାର ପ୍ରମାଣର ଉଚ୍ଚତମ ମାନ୍ୟତା'
-};
+  'fanManager.fanFiction.maxRating': 'ପ୍ରଦର୍ଶିତ ହୋଇଥିବା ଫାନ୍ ଲେଖାର ପ୍ରମାଣର ଉଚ୍ଚତମ ମାନ୍ୟତା',
+}

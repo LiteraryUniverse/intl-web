@@ -2,8 +2,7 @@ export default {
   'homepage.welcome': 'Welcome to',
   'homepage.start': 'Start Your journey!',
   'homepage.iAm': 'I am a',
-  'homepage.iAm.aria':
-    'Select between display of features for readers and writers',
+  'homepage.iAm.aria': 'Select between display of features for readers and writers',
   'homepage.reader': 'READER',
   'homepage.writer': 'WRITER',
 
@@ -11,19 +10,16 @@ export default {
   'homepage.reader.readingTitle': 'Unique reading experience',
   'homepage.reader.readingDesc':
     'Delve deeper into your favorite fictional universe in Literary Universe. Stories in Literary Universe are connected within the same universe, giving you immediate access to the universe encyclopedia from the story reader.',
-  'homepage.reader.favoriteTitle':
-    'Find out more about Your favorite stories and authors',
+  'homepage.reader.favoriteTitle': 'Find out more about Your favorite stories and authors',
   'homepage.reader.favoriteDesc':
     "Universe encyclopedia and author's blogs are just a few feature that will help you find out everything you need to know about your favorite stories, their settings and their creators!",
   'homepage.reader.communityTitle': 'Join the community',
   'homepage.reader.communityDesc':
     "Meet people from across the globe on dedicated universe and author's forums, blogs and other community features where like-minded fans gather. All in one place.",
-  'homepage.reader.readingFeatureTitle':
-    'Enjoy an immersive yet practical reading experience',
+  'homepage.reader.readingFeatureTitle': 'Enjoy an immersive yet practical reading experience',
   'homepage.reader.readingFeatureDesc':
     'From stories and universe, have the benefit of effortless reading with access to details without needing to switch between pages.',
-  'homepage.reader.readingExploreTitle':
-    'Explore all the minutia in the universe',
+  'homepage.reader.readingExploreTitle': 'Explore all the minutia in the universe',
   'homepage.reader.readingExploreDesc':
     'Universe encyclopedia allows you to learn all the details about the universe and fully immerse yourself in the stories.',
   'homepage.reader.start': 'Start Reading',
@@ -38,8 +34,7 @@ export default {
   'homepage.writer.communityTitle': 'Connect with Your readers',
   'homepage.writer.communityDesc':
     'Go beyond writing and connect with your readers via blogs, forums and other community features connected to your universes or to you as a writer.',
-  'homepage.writer.workshopFeatureTitle':
-    'One place for all your creative needs',
+  'homepage.writer.workshopFeatureTitle': 'One place for all your creative needs',
   'homepage.writer.workshopFeatureDesc':
     'Our ever evolving workshop is the central place for your creative needs. From a simple idea create amazing universes, stories and everything else that is needed around it.',
   'homepage.writer.monetizationFeatureTitle': 'Monetization',
@@ -94,8 +89,7 @@ export default {
   'dmca.step1.title': 'Procedure for Reporting Copyright Infringements.',
   'dmca.step2.title':
     'Once Proper Bona Fide Infringement Notification is Received by the Designated Agent.',
-  'dmca.step3.title':
-    'Procedure to Supply a Counter-Notice to the Designated Agent.',
+  'dmca.step3.title': 'Procedure to Supply a Counter-Notice to the Designated Agent.',
   'dmca.desc': 'We take copyright violations seriously.',
   'gdpr.access.title': 'Right of Access and Right of Data Portability',
   'gdpr.access.desc':
@@ -143,6 +137,5 @@ export default {
     "Hendry is a designer with more than 15 years experience. He's been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.",
   'about.pavel':
     'Web3, Metaverse, AI, all that and anything new is what Pavel looks into and how it can be added to improve Literary Universe. A true multidisciplinary researcher Pavel holds insight into many areas and works on adding new interesting features to Literary Universe',
-  'about.seba':
-    'Once a gamer, Adam is now studying to become a fully fledged developer.'
+  'about.seba': 'Once a gamer, Adam is now studying to become a fully fledged developer.',
 }

@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'फैन आर्ट को छिपाएं',
   'fanManager.stateChange.unhide': 'फैन आर्ट को दिखाएं',
   'fanManager.fanFictionNotAllowed': 'फैन फिक्शन आपके लाइसेंस के स्वभाव के कारण अनुमति दें',
-  'fanManager.fanFiction.maxRating': 'प्रदर्शित फैन फिक्शन की अधिकतम रेटिंग|'
-};
+  'fanManager.fanFiction.maxRating': 'प्रदर्शित फैन फिक्शन की अधिकतम रेटिंग|',
+}

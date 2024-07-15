@@ -10,13 +10,15 @@ export default {
   'fanManager.state.rejected': 'უარყოფილია',
   'fanManager.state.hidden': 'დამალულია',
   'fanManager.publicComment': 'საჯარო კომენტარი',
-  'fanManager.publicComment.desc': 'ეს ტექსტი გამოჩნდება საჯარო გვერდზე თქვენი ოფიციალური კომენტარი ამ ხელოვნების შესახებ.',
+  'fanManager.publicComment.desc':
+    'ეს ტექსტი გამოჩნდება საჯარო გვერდზე თქვენი ოფიციალური კომენტარი ამ ხელოვნების შესახებ.',
   'fanManager.authorComment': 'კომენტარი ავტორისთვის',
   'fanManager.authorComment.desc': 'ეს არის კერძო კომენტარი თქვენგან ამ ხელოვნების ავტორს.',
   'fanManager.stateChange.approve': 'ფან ხმის დამტკიცება',
   'fanManager.stateChange.reject': 'ფან ხმის უარყოფა',
   'fanManager.stateChange.hide': 'ფან ხმის დამალვა',
   'fanManager.stateChange.unhide': 'ფან ხმის ხილვა',
-  'fanManager.fanFictionNotAllowed': 'ფან ფიქცია არ არის დაშვებული თქვენი ლიცენზიის გამოცდილების გამორჩეულით.',
-  'fanManager.fanFiction.maxRating': 'მაქსიმალური რეიტინგი მაჩვენებული ფან ფიქციაზე.'
-};
+  'fanManager.fanFictionNotAllowed':
+    'ფან ფიქცია არ არის დაშვებული თქვენი ლიცენზიის გამოცდილების გამორჩეულით.',
+  'fanManager.fanFiction.maxRating': 'მაქსიმალური რეიტინგი მაჩვენებული ფან ფიქციაზე.',
+}

@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': '隱藏粉絲藝術',
   'fanManager.stateChange.unhide': '使粉絲藝術可見',
   'fanManager.fanFictionNotAllowed': '根據您的許可證性質，不允許粉絲小說。',
-  'fanManager.fanFiction.maxRating': '顯示的粉絲小說的最高評級。'
-};
+  'fanManager.fanFiction.maxRating': '顯示的粉絲小說的最高評級。',
+}

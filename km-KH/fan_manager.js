@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': 'បាន​បដិសេធ',
   'fanManager.state.hidden': 'លាក់',
   'fanManager.publicComment': 'មតិ​អ្នកប្រើប្រាស់',
-  'fanManager.publicComment.desc': 'អត្ថបទ​នេះ​នឹង​ត្រូវ​បាន​បង្ហាញ​នៅ​លើ​ទំព័រ​សាធារណៈ​ជា​មតិស្តី​របស់​អ្នក​អំពី​ការ​ដាក់ស្នាក់នៅ​នេះ',
+  'fanManager.publicComment.desc':
+    'អត្ថបទ​នេះ​នឹង​ត្រូវ​បាន​បង្ហាញ​នៅ​លើ​ទំព័រ​សាធារណៈ​ជា​មតិស្តី​របស់​អ្នក​អំពី​ការ​ដាក់ស្នាក់នៅ​នេះ',
   'fanManager.authorComment': 'មតិ​សំណួរ​សម្រាប់​អ្នកនិពន្ធ',
   'fanManager.authorComment.desc': 'នេះ​គឺ​ជា​មតិស្ថាបនា​មួយ​ពី​អ្នក​ទៅ​អ្នកនិពន្ធ​របស់​ការ​ដាក់ស្នាក់នេះ',
   'fanManager.stateChange.approve': 'អនុញ្ញាតការ​ដាក់ស្នាក់នៅ​របស់​អ្នកចូលរួម',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'លាក់ការ​ដាក់ស្នាក់នៅ​របស់​អ្នកចូលរួម',
   'fanManager.stateChange.unhide': 'ធ្វើ​ឲ្យ​ការ​ដាក់ស្នាក់នៅ​របស់​អ្នកចូលរួម​មាន​សមត្ថភាព',
   'fanManager.fanFictionNotAllowed': 'រឿងសិទ្ធិអ្នក​ចូលរួម​មិន​អនុញ្ញាត​តាម​ប្រភេទ​អាជីវកម្ម​របស់​អ្នក',
-  'fanManager.fanFiction.maxRating': 'ពិន្ទុ​អតិបរមា​នៃ​រឿងសិទ្ធិ​ដែល​បាន​បង្ហាញ'
-};
+  'fanManager.fanFiction.maxRating': 'ពិន្ទុ​អតិបរមា​នៃ​រឿងសិទ្ធិ​ដែល​បាន​បង្ហាញ',
+}

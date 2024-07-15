@@ -65,7 +65,7 @@ export default {
     'es-SV',
     'es-US',
     'es-UY',
-    'es-VE'
+    'es-VE',
   ],
   ...common,
   ...form,
@@ -103,5 +103,5 @@ export default {
   ...events,
   ...fanManager,
   ...readingList,
-  ...personalNotes
+  ...personalNotes,
 }

@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'फॅन कलात्मक लपवा',
   'fanManager.stateChange.unhide': 'फॅन कलात्मक दृश्यमान करा',
   'fanManager.fanFictionNotAllowed': 'तुमचे परवान्यानुसार फॅन कथांची परवानगी नाही.',
-  'fanManager.fanFiction.maxRating': 'दाखविलेली फॅन कथा चाचणीची जास्तीत जास्त दर पातळी.'
-};
+  'fanManager.fanFiction.maxRating': 'दाखविलेली फॅन कथा चाचणीची जास्तीत जास्त दर पातळी.',
+}

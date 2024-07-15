@@ -13,13 +13,15 @@ export default {
   'fanManager.publicComment.desc':
     'This text will be displayed on the public page as your official comment on this art.',
   'fanManager.authorComment': 'Comment for the author',
-  'fanManager.authorComment.desc':
-    'This is a private comment from you to the author of this art.',
+  'fanManager.authorComment.desc': 'This is a private comment from you to the author of this art.',
   'fanManager.stateChange.approve': 'Approve fan art',
   'fanManager.stateChange.reject': 'Reject fan art',
   'fanManager.stateChange.hide': 'Hide fan art',
   'fanManager.stateChange.unhide': 'Make fan art visible',
-  'fanManager.fanFictionNotAllowed':
-    'Fan fiction is not allowed by the nature of your license.',
-  'fanManager.fanFiction.maxRating': 'Maximum rating of displayed fan fiction.'
+  'fanManager.fanFictionNotAllowed': 'Fan fiction is not allowed by the nature of your license.',
+  'fanManager.fanFiction.maxRating': 'Maximum rating of displayed fan fiction.',
+  'fanManager.hidden.nothingFound': 'No hidden fan arts found.',
+  'fanManager.rejected.nothingFound': 'No rejected fan arts found.',
+  'fanManager.approved.nothingFound': 'No approved fan arts found.',
+  'fanManager.submitted.nothingFound': 'No submitted fan arts found.'
 }

@@ -19,8 +19,7 @@ export default {
   'org.settings.hideMembers.label': 'Hide members from the public',
   'org.visit': 'Go to {organization} page',
   'org.authorOverride.legend': 'Author override',
-  'org.authorOverride.desc':
-    'Shows this text instead of the name of the organization.',
+  'org.authorOverride.desc': 'Shows this text instead of the name of the organization.',
   'org.authorOverride.label': "Author's name",
   'org.membersAdd.title': 'Invite members to the organization',
   'org.flashnews.admin': 'Flashnews administration',
@@ -38,8 +37,7 @@ export default {
   'org.invitesTileNotice':
     'You have been invited to {count, number} {count, plural, one {organization} other {organizations}}',
   'org.invitePage.title': 'Invitations to organizations',
-  'org.invitePage.invitedAt':
-    'You have been invited on {invitedAt, date, short}.',
+  'org.invitePage.invitedAt': 'You have been invited on {invitedAt, date, short}.',
   'org.invitePage.ignoring':
     "You are currently ignoring this invitation, which means that it is still active, but doesn't bothers with notifications.",
   'org.invitePage.expiresAt':
@@ -60,5 +58,6 @@ export default {
   'org.teams.create': 'Create a new team',
   'org.teams.settings': 'Team settings',
   'org.workshop.ownerUser': 'Not a guild work',
-  'org.workshop.caption': 'Guild ownership'
+  'org.workshop.caption': 'Guild ownership',
+  'org.workshop.title': 'Organization workshop',
 }

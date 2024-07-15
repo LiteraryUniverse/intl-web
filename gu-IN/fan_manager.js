@@ -10,7 +10,8 @@ export default {
   'fanManager.state.rejected': 'નકારી',
   'fanManager.state.hidden': 'છુપાવેલ',
   'fanManager.publicComment': 'જનતા ટિપ્પણી',
-  'fanManager.publicComment.desc': 'આ લખાણ તમારી આર્ટ પર જનતા પેજ પર તમારી આધિકારિક ટિપ્પણી તરીકે બતાવશે.',
+  'fanManager.publicComment.desc':
+    'આ લખાણ તમારી આર્ટ પર જનતા પેજ પર તમારી આધિકારિક ટિપ્પણી તરીકે બતાવશે.',
   'fanManager.authorComment': 'લેખક માટે ટિપ્પણી',
   'fanManager.authorComment.desc': 'આ ટિપ્પણી તમારા આર્ટના લેખકને પ્રાઈવેટ ટિપ્પણી તરીકે છે.',
   'fanManager.stateChange.approve': 'ફેન આર્ટને મંજૂર કરો',
@@ -18,5 +19,5 @@ export default {
   'fanManager.stateChange.hide': 'ફેન આર્ટને છુપાવો',
   'fanManager.stateChange.unhide': 'ફેન આર્ટને દૃશ્યમાન બનાવો',
   'fanManager.fanFictionNotAllowed': 'ફેન ફિક્શન તમારા લાયસન્સની પ્રકૃતિ દ્વારા મંજૂર નથી.',
-  'fanManager.fanFiction.maxRating': 'પ્રદર્શિત થતી ફેન ફિક્શનની મહત્તમ રેટિંગ.'
-};
+  'fanManager.fanFiction.maxRating': 'પ્રદર્શિત થતી ફેન ફિક્શનની મહત્તમ રેટિંગ.',
+}

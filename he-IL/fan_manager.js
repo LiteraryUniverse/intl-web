@@ -18,5 +18,5 @@ export default {
   'fanManager.stateChange.hide': 'הסתרת אמנות מעריצים',
   'fanManager.stateChange.unhide': 'הצגת אמנות מעריצים',
   'fanManager.fanFictionNotAllowed': 'סיפורי מעריצים אסורים על פי הרשיון שלך.',
-  'fanManager.fanFiction.maxRating': 'דירוג מרבי של סיפורי מעריצים שמוצגים.'
-};
+  'fanManager.fanFiction.maxRating': 'דירוג מרבי של סיפורי מעריצים שמוצגים.',
+}
