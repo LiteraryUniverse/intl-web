@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Gumawa ng bagong team',
     'org.teams.settings': 'Mga setting ng team',
     'org.workshop.ownerUser': 'Hindi gawa ng guild',
-    'org.workshop.caption': 'Pagmamay-ari ng guild'
+    'org.workshop.caption': 'Pagmamay-ari ng guild',
+    'org.workshop.title': 'Pagpupulong ng Organisasyon',
+    'org.title': 'Organisasyon'
 };
