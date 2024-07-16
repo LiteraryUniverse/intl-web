@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Creează o echipă nouă',
     'org.teams.settings': 'Setări echipă',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'Atelier de organizare',
+    'org.title': 'Organizație'
 };
