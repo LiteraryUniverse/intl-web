@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Create a new team',
     'org.teams.settings': 'Team settings',
     'org.workshop.ownerUser': 'Na\'e se gundi te gasnu',
-    'org.workshop.caption': 'Gundi ckire'
+    'org.workshop.caption': 'Gundi ckire',
+    'org.workshop.title': '.i lo jecta brisni',
+    'org.title': '.i lo jecta'
 };
