@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'नयाँ टिम सिर्जना गर्नुहोस्',
     'org.teams.settings': 'टिम सेटिङहरू',
     'org.workshop.ownerUser': 'एक गिल्ड काम नहीं',
-    'org.workshop.caption': 'गिल्ड स्वामित्व'
+    'org.workshop.caption': 'गिल्ड स्वामित्व',
+    'org.workshop.title': 'संगठन कार्यशाला',
+    'org.title': 'संगठन'
 };
