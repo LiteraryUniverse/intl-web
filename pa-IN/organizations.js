@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'ਨਵੀਂ ਟੀਮ ਬਣਾਓ',
     'org.teams.settings': 'ਟੀਮ ਸੈਟਿੰਗਾਂ',
     'org.workshop.ownerUser': 'ਇੱਕ ਗਿਲਡ ਦਾ ਕੰਮ ਨਹੀਂ ਹੈ',
-    'org.workshop.caption': 'ਗਿਲਡ ਮਾਲਕੀ'
+    'org.workshop.caption': 'ਗਿਲਡ ਮਾਲਕੀ',
+    'org.workshop.title': 'ਸੰਗਠਨ ਵਰਕਸ਼ਾਪ',
+    'org.title': 'ਸੰਗਠਨ'
 };
