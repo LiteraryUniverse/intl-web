@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Créer une nouvelle équipe',
     'org.teams.settings': 'Paramètres d’équipe',
     'org.workshop.ownerUser': 'Pas un travail de guilde',
-    'org.workshop.caption': 'Propriété de la guilde'
+    'org.workshop.caption': 'Propriété de la guilde',
+    'org.workshop.title': 'Atelier de l\'organisation',
+    'org.title': 'Membres de l\'organisation'
 };
