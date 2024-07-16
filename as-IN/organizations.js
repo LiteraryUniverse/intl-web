@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'নতুন টীম সৃষ্টি কৰক',
     'org.teams.settings': 'টীম সংস্কাৰ',
     'org.workshop.ownerUser': 'এটা একটা গিল্ড কাজ নয়',
-    'org.workshop.caption': 'গিল্ড মালিকানা'
+    'org.workshop.caption': 'গিল্ড মালিকানা',
+    'org.workshop.title': 'সংগঠনৰ কাৰ্যশালা',
+    'org.title': 'সংগঠন'
 };
