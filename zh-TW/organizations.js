@@ -53,5 +53,7 @@ export default {
     'org.teams.create': '建立新團隊',
     'org.teams.settings': '團隊設定',
     'org.workshop.ownerUser': '不是公會工作',
-    'org.workshop.caption': '公會所有權'
+    'org.workshop.caption': '公會所有權',
+    'org.workshop.title': '組織工作坊',
+    'org.title': '組織'
 };
