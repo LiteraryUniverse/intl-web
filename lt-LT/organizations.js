@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Sukurti naują komandą',
     'org.teams.settings': 'Komandos nustatymai',
     'org.workshop.ownerUser': 'Ne gildijos darbas',
-    'org.workshop.caption': 'Gildijos nuosavybė'
+    'org.workshop.caption': 'Gildijos nuosavybė',
+    'org.workshop.title': 'Organizacijos dirbtuvės',
+    'org.title': 'Organizacija'
 };
