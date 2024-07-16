@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Új csapat létrehozása',
     'org.teams.settings': 'Csapat beállítások',
     'org.workshop.ownerUser': 'Nem egy céh munkája',
-    'org.workshop.caption': 'Céh tulajdonjog'
+    'org.workshop.caption': 'Céh tulajdonjog',
+    'org.workshop.title': 'Szervezet műhely',
+    'org.title': 'Szervezet'
 };
