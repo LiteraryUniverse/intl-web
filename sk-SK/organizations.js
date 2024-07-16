@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Vytvorenie nového tímu',
     'org.teams.settings': 'Nastavenia tímu',
     'org.workshop.ownerUser': 'Nie je to práca guildy',
-    'org.workshop.caption': 'Vlastníctvo guildy'
+    'org.workshop.caption': 'Vlastníctvo guildy',
+    'org.workshop.title': 'Workshop organizácií',
+    'org.title': 'Organizácie'
 };
