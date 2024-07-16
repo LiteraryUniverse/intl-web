@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Cruthaigh foireann nua',
     'org.teams.settings': 'Socruithe foirne',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Úinéireacht an ghiúiré'
+    'org.workshop.caption': 'Úinéireacht an ghiúiré',
+    'org.workshop.title': 'Ceardlann Eagraíochta',
+    'org.title': 'Eagraíocht'
 };
