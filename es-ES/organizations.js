@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Crear un nuevo equipo',
     'org.teams.settings': 'Configuración del equipo',
     'org.workshop.ownerUser': 'No es una obra gremial',
-    'org.workshop.caption': 'Propiedad del gremio'
+    'org.workshop.caption': 'Propiedad del gremio',
+    'org.workshop.title': 'Taller de organizaciones',
+    'org.title': 'Organizaciones'
 };
