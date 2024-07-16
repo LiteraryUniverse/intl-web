@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Cipta pasukan baru',
     'org.teams.settings': 'Tetapan pasukan',
     'org.workshop.ownerUser': 'Bukan kerja persatuan',
-    'org.workshop.caption': 'Pemilikan persatuan'
+    'org.workshop.caption': 'Pemilikan persatuan',
+    'org.workshop.title': 'Bengkel Organisasi',
+    'org.title': 'Organisasi'
 };
