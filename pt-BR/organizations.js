@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Criar uma nova equipe',
     'org.teams.settings': 'Configurações da equipe',
     'org.workshop.ownerUser': 'Não é um trabalho de guilda',
-    'org.workshop.caption': 'Propriedade da guilda'
+    'org.workshop.caption': 'Propriedade da guilda',
+    'org.workshop.title': 'Oficina da organização',
+    'org.title': 'Organização'
 };
