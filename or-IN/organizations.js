@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Create a new team',
     'org.teams.settings': 'Team settings',
     'org.workshop.ownerUser': 'କିମ୍ବା ଗୁଇଲ୍ଡ କାର୍ଯ୍ୟ ନୁହେଁ',
-    'org.workshop.caption': 'ଗୁଇଲ୍ଡ ମାଲିକା'
+    'org.workshop.caption': 'ଗୁଇଲ୍ଡ ମାଲିକା',
+    'org.workshop.title': 'ସଂଗଠନ କାର୍ଯ୍ୟଶାଳା',
+    'org.title': 'ସଂଗଠନ'
 };
