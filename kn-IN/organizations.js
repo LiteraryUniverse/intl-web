@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'ಹೊಸ ತಂಡವನ್ನು ರಚಿಸಿ',
     'org.teams.settings': 'ತಂಡದ ಸೆಟ್ಟಿಂಗ್ಗಳು',
     'org.workshop.ownerUser': 'ಗಿಲ್ಡ್ ಕೆಲಸವಲ್ಲ',
-    'org.workshop.caption': 'ಗಿಲ್ಡ್ ಮಾಲಿಕತ್ವ'
+    'org.workshop.caption': 'ಗಿಲ್ಡ್ ಮಾಲಿಕತ್ವ',
+    'org.workshop.title': 'ಸಂಸ್ಥೆ ಕಾರ್ಯಾಗಾರ',
+    'org.title': 'ಸಂಸ್ಥೆ'
 };
