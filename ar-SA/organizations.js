@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'إنشاء فريق جديد',
     'org.teams.settings': 'إعدادات الفريق',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'ورشة عمل المنظمة',
+    'org.title': 'المنظمة'
 };
