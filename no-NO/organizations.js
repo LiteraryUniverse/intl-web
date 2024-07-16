@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Opprett et nytt lag',
     'org.teams.settings': 'Laginnstillinger',
     'org.workshop.ownerUser': 'Ikke et guild-arbeid',
-    'org.workshop.caption': 'Guild-eierskap'
+    'org.workshop.caption': 'Guild-eierskap',
+    'org.workshop.title': 'Organisasjonsverksted',
+    'org.title': 'Organisasjon'
 };
