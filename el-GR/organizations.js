@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Δημιουργία νέας ομάδας',
     'org.teams.settings': 'Ρυθμίσεις ομάδας',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'Εργαστήριο Οργάνωσης',
+    'org.title': 'Οργάνωση'
 };
