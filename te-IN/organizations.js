@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'కొత్త జటం సృష్టించండి',
     'org.teams.settings': 'జటం సెట్టింగ్లు',
     'org.workshop.ownerUser': 'గిల్డ్ పని కాదు',
-    'org.workshop.caption': 'గిల్డ్ స్వామ్యం'
+    'org.workshop.caption': 'గిల్డ్ స్వామ్యం',
+    'org.workshop.title': 'సంస్థ workshop',
+    'org.title': 'సంస్థ'
 };
