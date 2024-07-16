@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Ein neues Team erstellen',
     'org.teams.settings': 'Teameinstellungen',
     'org.workshop.ownerUser': 'Keine Gildenarbeit',
-    'org.workshop.caption': 'Eigentum der Gilde'
+    'org.workshop.caption': 'Eigentum der Gilde',
+    'org.workshop.title': 'Organisationsworkshop',
+    'org.title': 'Organisation'
 };
