@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'สร้างทีมใหม่',
     'org.teams.settings': 'ตั้งค่าทีม',
     'org.workshop.ownerUser': 'ไม่ใช่งานของกิลด์',
-    'org.workshop.caption': 'การเป็นเจ้าของกิลด์'
+    'org.workshop.caption': 'การเป็นเจ้าของกิลด์',
+    'org.workshop.title': 'เวิร์กชอปองค์กร',
+    'org.title': 'องค์กร'
 };
