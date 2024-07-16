@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'નવી ટીમ બનાવો',
     'org.teams.settings': 'ટીમ સેટિંગ્સ',
     'org.workshop.ownerUser': 'ગિલ્ડનો કામ નથી',
-    'org.workshop.caption': 'ગિલ્ડની માલિકી'
+    'org.workshop.caption': 'ગિલ્ડની માલિકી',
+    'org.workshop.title': 'સંગઠન કાર્યશાળા',
+    'org.title': 'સંગઠન'
 };
