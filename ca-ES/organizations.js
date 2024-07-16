@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Crea un nou equip',
     'org.teams.settings': 'Configuració de l\'equip',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'Taller d\'organització',
+    'org.title': 'Organització'
 };
