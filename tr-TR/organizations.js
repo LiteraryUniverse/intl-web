@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Create a new team',
     'org.teams.settings': 'Team settings',
     'org.workshop.ownerUser': 'Bir lonca çalışması değil',
-    'org.workshop.caption': 'Lonca sahipliği'
+    'org.workshop.caption': 'Lonca sahipliği',
+    'org.workshop.title': 'Kuruluş atölyesi',
+    'org.title': 'Kuruluş'
 };
