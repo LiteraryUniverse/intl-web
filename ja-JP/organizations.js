@@ -53,5 +53,7 @@ export default {
     'org.teams.create': '新しいチームを作る',
     'org.teams.settings': 'チーム設定',
     'org.workshop.ownerUser': 'ギルド作品ではありません',
-    'org.workshop.caption': 'ギルドの所有権'
+    'org.workshop.caption': 'ギルドの所有権',
+    'org.workshop.title': '組織のワークショップ',
+    'org.title': '組織'
 };
