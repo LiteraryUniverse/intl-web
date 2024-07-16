@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Skep \'n nuwe span',
     'org.teams.settings': 'Span-instellings',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'Organisasie werkswinkel',
+    'org.title': 'Organisasie'
 };
