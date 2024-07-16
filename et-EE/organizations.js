@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Loo uus meeskond',
     'org.teams.settings': 'Meeskonna seaded',
     'org.workshop.ownerUser': 'Mitte gildi töö',
-    'org.workshop.caption': 'Gildi omandus'
+    'org.workshop.caption': 'Gildi omandus',
+    'org.workshop.title': 'Organisatsiooni töötuba',
+    'org.title': 'Organisatsioon'
 };
