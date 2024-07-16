@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Luo uusi tiimi',
     'org.teams.settings': 'Tiimin asetukset',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'Organisaation työpaja',
+    'org.title': 'Organisaatio'
 };
