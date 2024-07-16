@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Skapa ett nytt lag',
     'org.teams.settings': 'Laginställningar',
     'org.workshop.ownerUser': 'Inte ett gillearbete',
-    'org.workshop.caption': 'Gilleägande'
+    'org.workshop.caption': 'Gilleägande',
+    'org.workshop.title': 'Organisationsverkstad',
+    'org.title': 'Organisation'
 };
