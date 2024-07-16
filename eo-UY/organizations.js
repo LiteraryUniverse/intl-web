@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Krei novan teamon',
     'org.teams.settings': 'Agordoj de la teamo',
     'org.workshop.ownerUser': 'Ne gilda laboro',
-    'org.workshop.caption': 'Gilda posedo'
+    'org.workshop.caption': 'Gilda posedo',
+    'org.workshop.title': 'Organiza laborŝtelo',
+    'org.title': 'Organizo'
 };
