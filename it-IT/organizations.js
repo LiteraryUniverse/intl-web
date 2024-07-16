@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Crea un nuovo team',
     'org.teams.settings': 'Impostazioni del team',
     'org.workshop.ownerUser': 'Non è un lavoro di gilda',
-    'org.workshop.caption': 'Proprietà della gilda'
+    'org.workshop.caption': 'Proprietà della gilda',
+    'org.workshop.title': 'Workshop dell\'organizzazione',
+    'org.title': 'Organizzazione'
 };
