@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'নতুন দল তৈরি করুন',
     'org.teams.settings': 'দলের সেটিংস',
     'org.workshop.ownerUser': 'একটি গিল্ড কাজ নয়',
-    'org.workshop.caption': 'গিল্ড মালিকানাধীনতা'
+    'org.workshop.caption': 'গিল্ড মালিকানাধীনতা',
+    'org.workshop.title': 'প্রতিষ্ঠান কর্মশালা',
+    'org.title': 'প্রতিষ্ঠান'
 };
