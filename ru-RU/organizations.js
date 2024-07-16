@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Создать новую команду',
     'org.teams.settings': 'Настройки команды',
     'org.workshop.ownerUser': 'Не произведение гильдии',
-    'org.workshop.caption': 'Владелец гильдии'
+    'org.workshop.caption': 'Владелец гильдии',
+    'org.workshop.title': 'Мастерская организации',
+    'org.title': 'Организация'
 };
