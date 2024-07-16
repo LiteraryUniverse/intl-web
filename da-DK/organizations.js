@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Opret et nyt hold',
     'org.teams.settings': 'Holdindstillinger',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'Organisationsworkshop',
+    'org.title': 'Organisation'
 };
