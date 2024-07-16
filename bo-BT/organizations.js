@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Create a new team',
     'org.teams.settings': 'Team settings',
     'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership'
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'སྙན་ཞུས་དཔེ་སྐྲུན།',
+    'org.title': 'སྙན་ཞུས།'
 };
