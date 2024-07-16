@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Maak een nieuw team aan',
     'org.teams.settings': 'Teaminstellingen',
     'org.workshop.ownerUser': 'Geen gilde werk',
-    'org.workshop.caption': 'Gilde eigendom'
+    'org.workshop.caption': 'Gilde eigendom',
+    'org.workshop.title': 'Organisatieworkshop',
+    'org.title': 'Organisatie'
 };
