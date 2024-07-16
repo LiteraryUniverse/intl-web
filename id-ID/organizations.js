@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Buat tim baru',
     'org.teams.settings': 'Pengaturan tim',
     'org.workshop.ownerUser': 'Bukan pekerjaan guild',
-    'org.workshop.caption': 'Kepemilikan guild'
+    'org.workshop.caption': 'Kepemilikan guild',
+    'org.workshop.title': 'Workshop Organisasi',
+    'org.title': 'Organisasi'
 };
