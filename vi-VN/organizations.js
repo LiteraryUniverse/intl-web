@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Tạo một nhóm mới',
     'org.teams.settings': 'Cài đặt nhóm',
     'org.workshop.ownerUser': 'Không phải là công việc của hội',
-    'org.workshop.caption': 'Sở hữu của hội'
+    'org.workshop.caption': 'Sở hữu của hội',
+    'org.workshop.title': 'Buổi hội thảo của tổ chức',
+    'org.title': 'Tổ chức'
 };
