@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Utwórz nowy zespół',
     'org.teams.settings': 'Ustawienia zespołu',
     'org.workshop.ownerUser': 'Nie jest to praca w gildii',
-    'org.workshop.caption': 'Własność gildii'
+    'org.workshop.caption': 'Własność gildii',
+    'org.workshop.title': 'Warsztat dla organizacji',
+    'org.title': 'Organizacje'
 };
