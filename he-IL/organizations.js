@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'צור צוות חדש',
     'org.teams.settings': 'הגדרות צוות',
     'org.workshop.ownerUser': 'לא עבודה של הקהילה',
-    'org.workshop.caption': 'בעלות על הקהילה'
+    'org.workshop.caption': 'בעלות על הקהילה',
+    'org.workshop.title': 'סדנת ארגון',
+    'org.title': 'ארגון'
 };
