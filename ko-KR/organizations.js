@@ -53,5 +53,7 @@ export default {
     'org.teams.create': '새 팀 만들기',
     'org.teams.settings': '팀 설정',
     'org.workshop.ownerUser': '길드 작업이 아닙니다',
-    'org.workshop.caption': '길드 소유권'
+    'org.workshop.caption': '길드 소유권',
+    'org.workshop.title': '조직 워크샵',
+    'org.title': '조직'
 };
