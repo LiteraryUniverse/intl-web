@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'புதிய அணி உருவாக்குக',
     'org.teams.settings': 'அணி அமைப்புகள்',
     'org.workshop.ownerUser': 'ஒரு குழு வேலை அல்ல',
-    'org.workshop.caption': 'குழு உரிமை'
+    'org.workshop.caption': 'குழு உரிமை',
+    'org.workshop.title': 'அமைப்பு பயிற்சி',
+    'org.title': 'அமைப்பு'
 };
