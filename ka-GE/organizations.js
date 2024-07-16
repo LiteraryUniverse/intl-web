@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'ახალი გუნდის შექმნა',
     'org.teams.settings': 'გუნდის პარამეტრები',
     'org.workshop.ownerUser': 'არ არის გილდის სამსახური',
-    'org.workshop.caption': 'გილდის სახელმწიფო'
+    'org.workshop.caption': 'გილდის სახელმწიფო',
+    'org.workshop.title': 'ორგანიზაციის სამუშაობა',
+    'org.title': 'ორგანიზაცია'
 };
