@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'បង្កើតក្រុមថ្មី',
     'org.teams.settings': 'ការកំណត់ក្រុមការងារ',
     'org.workshop.ownerUser': 'មិនជាការងាររបស់សហគមន៍',
-    'org.workshop.caption': 'ការទុកធនធានការរបស់សហគមន៍'
+    'org.workshop.caption': 'ការទុកធនធានការរបស់សហគមន៍',
+    'org.workshop.title': 'សកម្មភាពគ្រប់គ្រងអង្គភាព',
+    'org.title': 'អង្គភាព'
 };
