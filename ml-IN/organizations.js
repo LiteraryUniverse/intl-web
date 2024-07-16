@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'പുതിയ ടീമ് സൃഷ്ടിക്കുക',
     'org.teams.settings': 'ടീമിന്റെ ക്രമീകരണങ്ങൾ',
     'org.workshop.ownerUser': 'ഒരു ഗിൽഡ് പ്രവർത്തനമല്ല',
-    'org.workshop.caption': 'ഗിൽഡ് ഉദ്ധാരണം'
+    'org.workshop.caption': 'ഗിൽഡ് ഉദ്ധാരണം',
+    'org.workshop.title': 'സംഘടന പ്രവർത്തനം',
+    'org.title': 'സംഘടന'
 };
