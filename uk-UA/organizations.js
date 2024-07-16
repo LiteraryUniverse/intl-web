@@ -53,5 +53,7 @@ export default {
     'org.teams.create': 'Створити нову команду',
     'org.teams.settings': 'Параметри команди',
     'org.workshop.ownerUser': 'Не гільдійна робота',
-    'org.workshop.caption': 'Власність гільдії'
+    'org.workshop.caption': 'Власність гільдії',
+    'org.workshop.title': 'Семінар по організації',
+    'org.title': 'Організація'
 };
