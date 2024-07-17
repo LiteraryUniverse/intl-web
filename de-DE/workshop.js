@@ -277,7 +277,7 @@ export default {
     'workshop.statusChangeEmail.cancellationIntro': 'Der Status Ihrer Geschichte wurde automatisch auf abgebrochen gesetzt.',
     'workshop.statusChangeEmail.cancellationWhy': 'Das ist passiert, weil Sie kein neues Kapitel zu der Geschichte gepostet haben, seit sie vor 6 Monaten auf Pause gesetzt wurde. Nach einem Jahr der Inaktivität setzen wir die Geschichten automatisch auf gelöscht, damit die Leser wissen, welche Geschichten aktiv sind.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Dieser Status wird automatisch aufgehoben, wenn Sie ein neues Kapitel veröffentlichen. Wenn Sie nicht mehr an dieser Geschichte arbeiten möchten, müssen Sie nichts weiter tun.',
-    'workshop.startCreating': 'Start creating',
+    'workshop.startCreating': 'Erstellen starten',
     'workshop.ownWork': 'Eigene Arbeit',
     'workshop.list.thumbs': 'Miniaturansichtenliste',
     'workshop.list.list': 'Kurze Liste',
