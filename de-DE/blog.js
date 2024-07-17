@@ -27,9 +27,9 @@ export default {
     'blog.publicView': 'Öffentliche Ansicht',
     'blog.post.notfound': 'Blogbeitrag wurde nicht gefunden',
     'blog.lists.works': `{type, select,
-    universes {Universes}
-    stories {Stories}
-    fanfiction {Fan Fiction work}
+    universes {Universen}
+    stories {Geschichten}
+    fanfiction {Fan Fiction Arbeit}
     other {}
   }`,
     'blog.social.sameAsMain': `Soziale Links sind die gleichen wie in {type, select,
