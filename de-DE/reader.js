@@ -34,6 +34,6 @@ export default {
     'reader.storyCancelled': 'Leider ist das alles. Die Geschichte wurde abgebrochen, daher ist es unwahrscheinlich, dass es etwas Neues geben wird.',
     'reader.storyCancelled.heading': 'Abgebrochen',
     'reader.nextChapterEstimation.verySoon': 'Basierend auf den Veröffentlichungsdaten der letzten {chaptersCount, number} Kapitel wird das nächste Kapitel sehr bald veröffentlicht werden.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
+    'reader.nextChapterEstimation.days': 'Ausgehend von den Veröffentlichungsterminen der letzten {chaptersCount, number} Kapitel, sollte das nächste Kapitel in etwa {daysLeft, plural, one {1 Tag} other {# Tage}} verfügbar sein.',
     'reader.nextChapterEstimation.notEnoughChapters': 'Wenn diese Geschichte mehr als ein Kapitel hat, werden wir auch eine Schätzung abgeben, wann das nächste Kapitel veröffentlicht wird.'
 };
