@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Kas olete kindel, et soovite kustutada taseme {tierName}?',
     'plans.deleteTier.explainer': 'Kui sellel tasemel pole tellijaid, siis see kustutatakse. Vastasel juhul lülitatakse see uute tellimuste jaoks välja, kuid olemasolevad tellimused jäävad alles, kuni fänn muudab oma tellimust.',
     'plans.fanClub.userSettings': 'Halda oma fänniklubi tellimusi',
-    'plans.fanClub.subscribers': 'Tellijad'
+    'plans.fanClub.subscribers': 'Tellijad',
+    'plans.fanClub.activatedLabel': 'Fänniklubi aktiveeritud',
+    'plans.fanClub.inactiveWarning': 'Sinu fänniklubi pole veel aktiveeritud, saad siiski plaane ette valmistada ja kui oled valmis, saad selle seadetes aktiveerida.'
 };
