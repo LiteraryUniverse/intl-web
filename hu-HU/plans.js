@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Biztosan törölni szeretnéd a {tierName} szintet?',
     'plans.deleteTier.explainer': 'Ha ennek a szintnek nincsenek előfizetői, akkor törlésre kerül. Ellenkező esetben új előfizetések esetén letiltásra kerül, de a meglévő előfizetések továbbra is fennmaradnak, amíg a rajongó meg nem változtatja az előfizetését.',
     'plans.fanClub.userSettings': 'Kezelje rajongói klub előfizetéseit',
-    'plans.fanClub.subscribers': 'Előfizetők'
+    'plans.fanClub.subscribers': 'Előfizetők',
+    'plans.fanClub.activatedLabel': 'Fan Club aktiválva',
+    'plans.fanClub.inactiveWarning': 'A rajongói klubod még nincs aktiválva, még mindig készíthetsz terveket, és amikor készen állsz, aktiválhatod a beállításokban.'
 };
