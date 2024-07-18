@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Ĉu vi certas, ke vi volas forigi tavolon {tierName}?',
     'plans.deleteTier.explainer': 'Se tiu tavolo ne havas iajn abonantojn, ĝi estos forigita. Alie ĝi estos malŝaltita por novaj abonoj, sed ekzistantaj abonoj daŭros ĝis la fano ŝanĝas sian abonon.',
     'plans.fanClub.userSettings': 'Administri viajn abonadon al fanokluboj',
-    'plans.fanClub.subscribers': 'Abonantoj'
+    'plans.fanClub.subscribers': 'Abonantoj',
+    'plans.fanClub.activatedLabel': 'Fan Club aktivita',
+    'plans.fanClub.inactiveWarning': 'Via fanoklubo ankoraŭ ne estas aktivigita, vi ankoraŭ povas pretigi planojn kaj kiam vi estos preta, vi povas aktivigi ĝin en la agordoj.'
 };
