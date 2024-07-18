@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': '{tierName} adlı seviyeyi silmek istediğinizden emin misiniz?',
     'plans.deleteTier.explainer': 'Eğer bu seviyenin herhangi bir abonesi yoksa silinecektir. Aksi takdirde, yeni abonelikler için devre dışı bırakılacak, ancak mevcut abonelikler hayran aboneliği değiştirinceye kadar devam edecektir.',
     'plans.fanClub.userSettings': 'Hayran kulübü aboneliklerinizi yönetin',
-    'plans.fanClub.subscribers': 'Aboneler'
+    'plans.fanClub.subscribers': 'Aboneler',
+    'plans.fanClub.activatedLabel': 'Hayran Kulübü etkinleştirildi',
+    'plans.fanClub.inactiveWarning': 'Hayran kulübünüz henüz etkinleştirilmedi, hala planlarınızı hazırlayabilir ve istediğiniz zaman ayarlardan etkinleştirebilirsiniz.'
 };
