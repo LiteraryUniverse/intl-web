@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਟੀਅਰ {tierName} ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?',
     'plans.deleteTier.explainer': 'ਜੇ ਇਸ ਟੀਅਰ ਵਿੱਚ ਕੋਈ ਗਾਹਕ ਨਹੀਂ ਹਨ, ਤਾਂ ਇਸ ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਏਗਾ। ਅਨਿਵਾਰਤਿ ਫੈਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਬਦਲਣ ਤਾਂ ਉਹਨਾਂ ਦੀ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਯਤਨ ਚਾਲੂ ਰਹੇਗੀ।',
     'plans.fanClub.userSettings': 'ਆਪਣੇ ਫੈਨ ਕਲੱਬ ਗਾਹਕੀਆਂ ਨੂੰ ਸੰਭਾਲੋ',
-    'plans.fanClub.subscribers': 'ਸਬਸਕਰਾਈਬਰਾਂ'
+    'plans.fanClub.subscribers': 'ਸਬਸਕਰਾਈਬਰਾਂ',
+    'plans.fanClub.activatedLabel': 'ਫੈਨ ਕਲੱਬ ਸ਼ੁਰੂ ਕੀਤਾ ਗਿਆ ਹੈ',
+    'plans.fanClub.inactiveWarning': 'ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ ਹਾਲੇ ਚਾਲੂ ਨਹੀਂ ਹੈ, ਤੁਸੀਂ ਹੁਣੇ ਹੀ ਯੋਜਨਾਵਾਂ ਤਿਆਰ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਜਦੋਂ ਤੁਹਾਡੀ ਤਿਆਰੀ ਹੋ ਜਾਵੇ ਤਾਂ ਤੁਸੀਂ ਇਹ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।'
 };
