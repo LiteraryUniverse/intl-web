@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Haluatko varmasti poistaa tason {tierName}?',
     'plans.deleteTier.explainer': 'Jos tällä tasolla ei ole tilaajia, se poistetaan. Muussa tapauksessa se poistetaan käytöstä uusille tilauksille, mutta olemassa olevat tilaukset jatkuvat kunnes käyttäjä vaihtaa tilauksen.',
     'plans.fanClub.userSettings': 'Hallitse fanikerhojen tilauksiasi',
-    'plans.fanClub.subscribers': 'Tilaajat'
+    'plans.fanClub.subscribers': 'Tilaajat',
+    'plans.fanClub.activatedLabel': 'Fan Club aktivointi',
+    'plans.fanClub.inactiveWarning': 'Faniklubisi ei ole vielä aktivoitu. Voit kuitenkin valmistella suunnitelmia, ja kun olet valmis, voit aktivoida sen asetuksissa.'
 };
