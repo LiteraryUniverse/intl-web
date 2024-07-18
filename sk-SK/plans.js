@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Ste si istí, že chcete odstrániť úroveň {tierName}?',
     'plans.deleteTier.explainer': 'Ak táto úroveň nemá žiadnych odberateľov, bude odstránená. Inak bude zakázaná pre nové predplatné, ale existujúce predplatné budú pokračovať, kým fanúšik nezmení svoje predplatné.',
     'plans.fanClub.userSettings': 'Spravujte svoje predplatné fanúšikovského klubu',
-    'plans.fanClub.subscribers': 'Predplatitelia'
+    'plans.fanClub.subscribers': 'Predplatitelia',
+    'plans.fanClub.activatedLabel': 'Fan Club aktivovaný',
+    'plans.fanClub.inactiveWarning': 'Váš fan club ešte nie je aktivovaný, stále si môžete pripraviť plány a keď budete pripravení, môžete ho aktivovať v nastaveniach.'
 };
