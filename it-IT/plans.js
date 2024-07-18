@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Sei sicuro di voler eliminare il livello {tierName}?',
     'plans.deleteTier.explainer': 'Se questo livello non ha nessun abbonato, verrà eliminato. Altrimenti verrà disabilitato per nuove sottoscrizioni, ma le sottoscrizioni esistenti continueranno finché il fan non cambia la propria sottoscrizione.',
     'plans.fanClub.userSettings': 'Gestisci le tue iscrizioni al fan club',
-    'plans.fanClub.subscribers': 'Iscritti'
+    'plans.fanClub.subscribers': 'Iscritti',
+    'plans.fanClub.activatedLabel': 'Fan Club attivato',
+    'plans.fanClub.inactiveWarning': 'Il tuo fan club non è ancora attivato, puoi ancora preparare dei piani e una volta pronti potrai attivarlo nelle impostazioni.'
 };
