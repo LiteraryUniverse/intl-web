@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Adakah anda pasti anda ingin memadamkan lapisan {tierName}?',
     'plans.deleteTier.explainer': 'Jika lapisan ini tidak mempunyai pelanggan, ia akan dipadamkan. Sebaliknya, ia akan dimatikan untuk langganan baru, tetapi langganan sedia ada akan berterusan sehingga penggemar menukar langganannya.',
     'plans.fanClub.userSettings': 'Urus langganan kelab peminat anda',
-    'plans.fanClub.subscribers': 'Pelanggan'
+    'plans.fanClub.subscribers': 'Pelanggan',
+    'plans.fanClub.activatedLabel': 'Fan Club diaktifkan',
+    'plans.fanClub.inactiveWarning': 'Kelab peminat anda belum diaktifkan, anda masih boleh menyediakan rancangan dan apabila anda sedia, anda boleh mengaktifkannya dalam tetapan.'
 };
