@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Êtes-vous sûr de vouloir supprimer la catégorie {tierName} ?',
     'plans.deleteTier.explainer': 'Si cette catégorie n\'a aucun abonné, elle sera supprimée. Sinon, elle sera désactivée pour les nouvelles souscriptions, mais les abonnements existants continueront jusqu\'à ce que le fan change sa souscription.',
     'plans.fanClub.userSettings': 'Gérez vos abonnements au fan club',
-    'plans.fanClub.subscribers': 'Abonnés'
+    'plans.fanClub.subscribers': 'Abonnés',
+    'plans.fanClub.activatedLabel': 'Le Fan Club est activé',
+    'plans.fanClub.inactiveWarning': 'Votre club de fans n\'est pas encore activé, vous pouvez toujours préparer des plans et une fois prêt, vous pouvez l\'activer dans les paramètres.'
 };
