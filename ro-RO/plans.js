@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Sigur doriți să ștergeți stratul {tierName}?',
     'plans.deleteTier.explainer': 'Dacă acest strat nu are abonați, va fi șters. În caz contrar, va fi dezactivat pentru noi abonamente, dar abonamentele existente vor continua până când fanul își schimbă abonamentul.',
     'plans.fanClub.userSettings': 'Administrați abonamentele clubului dvs. de fani',
-    'plans.fanClub.subscribers': 'Abonați'
+    'plans.fanClub.subscribers': 'Abonați',
+    'plans.fanClub.activatedLabel': 'Fan Club activat',
+    'plans.fanClub.inactiveWarning': 'Clubul tău de fani nu este încă activat, poți să pregătești planurile și, odată ce ești gata, îl poți activa în setări.'
 };
