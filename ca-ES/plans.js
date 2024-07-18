@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Esteu segur que voleu eliminar el nivell {tierName}?',
     'plans.deleteTier.explainer': 'Si aquest nivell no té cap subscriptor, es eliminarà. Sinó, es desactivarà per a noves subscripcions, però les subscripcions existents continuaran fins que el fan canviï la seva subscripció.',
     'plans.fanClub.userSettings': 'Gestiona les teves subscripcions al club de fans',
-    'plans.fanClub.subscribers': 'Subscriptors'
+    'plans.fanClub.subscribers': 'Subscriptors',
+    'plans.fanClub.activatedLabel': 'Fan Club activat',
+    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
 };
