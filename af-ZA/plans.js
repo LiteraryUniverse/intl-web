@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Is jy seker jy wil vlak {tierName} verwyder?',
     'plans.deleteTier.explainer': 'As hierdie vlak geen intekenare het nie, sal dit verwyder word. Anders sal dit gedeaktiveer word vir nuwe intekeninge, maar bestaande intekeninge sal voortduur totdat die aanhanger hul intekening verander.',
     'plans.fanClub.userSettings': 'Bestuur jou ondersteunersklub intekeninge',
-    'plans.fanClub.subscribers': 'Intekenare'
+    'plans.fanClub.subscribers': 'Intekenare',
+    'plans.fanClub.activatedLabel': 'Ondersteunersklub geaktiveer',
+    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
 };
