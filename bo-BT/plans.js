@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'ཁྱེད་ཀྱིས་{tierName}གོ་སོག་བཏོན་པའི་ཡོད་མི་འདུག་ཡོད།',
     'plans.deleteTier.explainer': 'འདྲ་བ་སྤྱི་སྟེ་ཕར་ནང་དག་གིས་གནང་བ་ཁ་སྲི་འགྱངས་པའི་ཡོད་པའི་འགྱངས་ཡོད་པའི་ཆོག་སྐོར་ས་བསྐྱེད་བཅུགཔ་འདི་ལུ་གནང་ལས་རྐྱེན་ལྡན་རྫོགས་བསྐྱེད་པའི་གནང་བ་དང་འདུག་འཇོག་བརྡ་དག་རྫོང་པ།',
     'plans.fanClub.userSettings': 'ཁྱེད་ཀྱི་གདོང་ཚུལ་འབྱུང་གི་དྲན་རྟེན་སེལ་འཐུ་དགོས།',
-    'plans.fanClub.subscribers': 'རྣམ་སྤྲོདཔའི་ཚོགས་པ།'
+    'plans.fanClub.subscribers': 'རྣམ་སྤྲོདཔའི་ཚོགས་པ།',
+    'plans.fanClub.activatedLabel': 'ཡོད་པས་ཡོངས་སུ་གསོལ་འདེབས་བརྟེན་པར་བྱུང་ཡིན།',
+    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
 };
