@@ -269,4 +269,6 @@ export default {
     "If you this tier doesn't have any subscribers it will be deleted. Otherwise it will be disabled for new subscriptions, but existing subscriptions will continue until the fan changes their subscription.",
   'plans.fanClub.userSettings': 'Manage your fan club subscriptions',
   'plans.fanClub.subscribers': 'Subscribers',
+  'plans.fanClub.activatedLabel': 'Fan Club activated',
+  'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.',
 }
