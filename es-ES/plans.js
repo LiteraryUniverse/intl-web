@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': '¿Estás seguro de que quieres eliminar la categoría {tierName}?',
     'plans.deleteTier.explainer': 'Si esta categoría no tiene ningún suscriptor, se eliminará. De lo contrario, se desactivará para nuevas suscripciones, pero las suscripciones existentes continuarán hasta que el fan cambie su suscripción.',
     'plans.fanClub.userSettings': 'Administra tus suscripciones al club de fans',
-    'plans.fanClub.subscribers': 'Suscriptores'
+    'plans.fanClub.subscribers': 'Suscriptores',
+    'plans.fanClub.activatedLabel': 'Fan Club activado',
+    'plans.fanClub.inactiveWarning': 'Tu club de fans aún no está activado, todavía puedes preparar planes y una vez que estés listo puedes activarlo en configuración.'
 };
