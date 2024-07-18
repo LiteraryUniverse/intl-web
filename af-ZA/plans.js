@@ -236,5 +236,5 @@ export default {
     'plans.fanClub.userSettings': 'Bestuur jou ondersteunersklub intekeninge',
     'plans.fanClub.subscribers': 'Intekenare',
     'plans.fanClub.activatedLabel': 'Ondersteunersklub geaktiveer',
-    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
+    'plans.fanClub.inactiveWarning': 'Jou ondersteunersklub is nog nie geaktiveer nie, jy kan nog steeds planne voorberei en sodra jy gereed is kan jy dit aktiveer in instellings.'
 };
