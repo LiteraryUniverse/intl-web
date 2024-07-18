@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': '{tierName} 티어를 삭제하시겠습니까?',
     'plans.deleteTier.explainer': '이 티어에 구독자가 없으면 삭제됩니다. 그렇지 않으면 새로운 구독에 대해서는 비활성화되지만, 기존의 구독은 팬이 구독을 변경할 때까지 계속됩니다.',
     'plans.fanClub.userSettings': '팬 클럽 구독을 관리하세요',
-    'plans.fanClub.subscribers': '구독자'
+    'plans.fanClub.subscribers': '구독자',
+    'plans.fanClub.activatedLabel': '팬 클럽 활성화됨',
+    'plans.fanClub.inactiveWarning': '팬 클럽은 아직 활성화되지 않았습니다. 계획을 준비할 수 있고 준비가 완료되면 설정에서 활성화할 수 있습니다.'
 };
