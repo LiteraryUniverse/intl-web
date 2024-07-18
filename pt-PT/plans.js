@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Tem a certeza que quer remover a camada {tierName}?',
     'plans.deleteTier.explainer': 'Se esta camada não tiver assinantes, ela será excluída. Caso contrário, ela será desativada para novas assinaturas, mas as assinaturas existentes continuarão até que o fã altere sua assinatura.',
     'plans.fanClub.userSettings': 'Gerencie suas assinaturas do clube de fãs',
-    'plans.fanClub.subscribers': 'Subscritores'
+    'plans.fanClub.subscribers': 'Subscritores',
+    'plans.fanClub.activatedLabel': 'Clube de Fãs ativado',
+    'plans.fanClub.inactiveWarning': 'O seu clube de fãs ainda não está ativado, você ainda pode preparar planos e assim que estiver pronto você pode ativá-lo nas configurações.'
 };
