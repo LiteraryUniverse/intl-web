@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'هل أنت متأكد أنك تريد حذف التسوية {tierName}؟',
     'plans.deleteTier.explainer': 'إذا كانت هذه التسوية ليست لديها أي مشتركين، فسيتم حذفها. وإلا، ستتم تعطيلها للاشتراكات الجديدة، ولكن الاشتراكات الحالية ستستمر حتى يقوم المشجع بتغيير اشتراكه.',
     'plans.fanClub.userSettings': 'إدارة اشتراكات نادي المعجبين الخاص بك',
-    'plans.fanClub.subscribers': 'المشتركون'
+    'plans.fanClub.subscribers': 'المشتركون',
+    'plans.fanClub.activatedLabel': 'تم تفعيل نادي المعجبين',
+    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
 };
