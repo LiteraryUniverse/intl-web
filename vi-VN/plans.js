@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Bạn có chắc chắn muốn xóa tầng {tierName} không?',
     'plans.deleteTier.explainer': 'Nếu tầng này không có bất kỳ người đăng ký, nó sẽ bị xóa. Nếu không, nó sẽ bị vô hiệu hóa đối với các đăng ký mới, nhưng các đăng ký hiện có sẽ tiếp tục cho đến khi người hâm mộ thay đổi đăng ký của họ.',
     'plans.fanClub.userSettings': 'Quản lý các đăng ký câu lạc bộ fan của bạn',
-    'plans.fanClub.subscribers': 'Người đăng ký'
+    'plans.fanClub.subscribers': 'Người đăng ký',
+    'plans.fanClub.activatedLabel': 'Hội Fan đã kích hoạt',
+    'plans.fanClub.inactiveWarning': 'Hội fan của bạn chưa được kích hoạt, bạn vẫn có thể chuẩn bị kế hoạch và sau đó khi bạn sẵn sàng, bạn có thể kích hoạt nó trong cài đặt.'
 };
