@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': '本当に{tierName}を削除しますか？',
     'plans.deleteTier.explainer': 'もしこのティアに購読者がいない場合、削除されます。そうでない場合、新しい購読には無効になりますが、既存の購読はファンが購読を変更するまで続きます。',
     'plans.fanClub.userSettings': 'ファンクラブの定期購読を管理します',
-    'plans.fanClub.subscribers': '購読者'
+    'plans.fanClub.subscribers': '購読者',
+    'plans.fanClub.activatedLabel': 'ファンクラブがアクティブになりました',
+    'plans.fanClub.inactiveWarning': 'あなたのファンクラブはまだアクティブされていません。計画を準備することができますので、準備ができたら設定でアクティブにすることができます。'
 };
