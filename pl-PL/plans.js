@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Czy jesteś pewien, że chcesz usunąć poziom {tierName}?',
     'plans.deleteTier.explainer': 'Jeśli ten poziom nie ma żadnych subskrybentów, zostanie usunięty. W przeciwnym razie zostanie wyłączony dla nowych subskrypcji, ale istniejące subskrypcje będą kontynuowane, dopóki fan nie zmieni swojej subskrypcji.',
     'plans.fanClub.userSettings': 'Zarządzaj subskrypcjami do klubu fanów',
-    'plans.fanClub.subscribers': 'Subskrybenci'
+    'plans.fanClub.subscribers': 'Subskrybenci',
+    'plans.fanClub.activatedLabel': 'Aktywowano Klub Fanów',
+    'plans.fanClub.inactiveWarning': 'Twój klub fanów nie został jeszcze aktywowany, nadal możesz przygotować plany i po przygotowaniu będziesz mógł go aktywować w ustawieniach.'
 };
