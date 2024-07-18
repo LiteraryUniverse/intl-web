@@ -236,5 +236,5 @@ export default {
     'plans.fanClub.userSettings': 'Διαχειριστείτε τις συνδρομές του φαν κλαμπ σας',
     'plans.fanClub.subscribers': 'Συνδρομητές',
     'plans.fanClub.activatedLabel': 'Ο Οπαδικός Σύλλογος ενεργοποιήθηκε',
-    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
+    'plans.fanClub.inactiveWarning': 'Ο ομάδα θαυμαστών σας δεν έχει ενεργοποιηθεί ακόμα, μπορείτε να ετοιμάσετε σχέδια και όταν είστε έτοιμοι μπορείτε να την ενεργοποιήσετε στις ρυθμίσεις.'
 };
