@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Apakah Anda yakin mau menghapus tier {tierName}?',
     'plans.deleteTier.explainer': 'Jika tier ini tidak memiliki langganan, maka akan dihapus. Jika tidak, maka akan dinonaktifkan untuk langganan baru, tetapi langganan yang sudah ada akan tetap berlaku sampai penggemar mengubah langganannya.',
     'plans.fanClub.userSettings': 'Kelola langganan klub penggemar Anda',
-    'plans.fanClub.subscribers': 'Pelanggan'
+    'plans.fanClub.subscribers': 'Pelanggan',
+    'plans.fanClub.activatedLabel': 'Fan Club diaktifkan',
+    'plans.fanClub.inactiveWarning': 'Klub penggemar Anda belum diaktifkan, Anda masih dapat membuat rencana dan setelah Anda siap, Anda dapat mengaktifkannya di pengaturan.'
 };
