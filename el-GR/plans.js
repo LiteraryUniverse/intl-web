@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Είστε σίγουροι ότι θέλετε να διαγράψετε το επίπεδο {tierName};',
     'plans.deleteTier.explainer': 'Εάν αυτό το επίπεδο δεν έχει κανέναν συνδρομητή, θα διαγραφεί. Διαφορετικά, θα απενεργοποιηθεί για νέες συνδρομές, αλλά οι υπάρχουσες συνδρομές θα συνεχίσουν μέχρι ο φαν να αλλάξει τη συνδρομή του.',
     'plans.fanClub.userSettings': 'Διαχειριστείτε τις συνδρομές του φαν κλαμπ σας',
-    'plans.fanClub.subscribers': 'Συνδρομητές'
+    'plans.fanClub.subscribers': 'Συνδρομητές',
+    'plans.fanClub.activatedLabel': 'Ο Οπαδικός Σύλλογος ενεργοποιήθηκε',
+    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
 };
