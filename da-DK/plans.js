@@ -236,5 +236,5 @@ export default {
     'plans.fanClub.userSettings': 'Administrer dine fan klub abonnementer',
     'plans.fanClub.subscribers': 'Abonnenter',
     'plans.fanClub.activatedLabel': 'Fan Club aktiveret',
-    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
+    'plans.fanClub.inactiveWarning': 'Din fan-klub er endnu ikke aktiveret, du kan stadig forberede planer, og når du er klar, kan du aktivere den i indstillinger.'
 };
