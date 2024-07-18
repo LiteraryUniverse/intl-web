@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'co\'a certe do ka\'o klama lo nu cliva lo je\'u {tierName}',
     'plans.deleteTier.explainer': 'fi do fa\'u lo nu ti jbega lo nu lo {tierName} cu zo\'u ra se nalgenja lo nu na ka\'e cmima\'a le fanva be lo cnino jdima .i na\'e ctuca fa da .i le se cmima ca zukte lo nu le fepri cu pali',
     'plans.fanClub.userSettings': 'zelge\'i lo do nanca skami klani fi lo bajra girzu be do',
-    'plans.fanClub.subscribers': 'valsi'
+    'plans.fanClub.subscribers': 'valsi',
+    'plans.fanClub.activatedLabel': 'ko\'a cilre diklo fi lo farna klani',
+    'plans.fanClub.inactiveWarning': 'Lo fanva klubi be do cu na aktivi , do ku\'a kakne lo nu tcini kei gi\'a cu se jalge lo nu do kakne lo nu aktivi gi\'e kargu\'i ckape lo settings.'
 };
