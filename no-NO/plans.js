@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Er du sikker på at du vil slette nivået {tierName}?',
     'plans.deleteTier.explainer': 'Hvis dette nivået ikke har noen abonnenter, vil det bli slettet. Ellers vil det bli deaktivert for nye abonnementer, men eksisterende abonnementer vil fortsette til brukeren endrer abonnementet.',
     'plans.fanClub.userSettings': 'Administrer abonnementene til fan-klubben din',
-    'plans.fanClub.subscribers': 'Abonnenter'
+    'plans.fanClub.subscribers': 'Abonnenter',
+    'plans.fanClub.activatedLabel': 'Fanklubb aktivert',
+    'plans.fanClub.inactiveWarning': 'Din fanklubb er ennå ikke aktivert, du kan fortsatt planlegge og når du er klar kan du aktivere den i innstillingene.'
 };
