@@ -236,5 +236,5 @@ export default {
     'plans.fanClub.userSettings': 'Spravujte své předplatné fanouškovského klubu',
     'plans.fanClub.subscribers': 'Přihlášení k odběru',
     'plans.fanClub.activatedLabel': 'Fan Club aktivován',
-    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
+    'plans.fanClub.inactiveWarning': 'Váš fanouškovský klub zatím není aktivován, stále můžete připravovat plány a až budete připraveni, můžete ho aktivovat v nastavení.'
 };
