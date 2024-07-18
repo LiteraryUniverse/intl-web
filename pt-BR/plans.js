@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Tem certeza de que deseja excluir o nível {tierName}?',
     'plans.deleteTier.explainer': 'Se este nível não tiver nenhum assinante, ele será excluído. Caso contrário, ele será desativado para novas assinaturas, mas as assinaturas existentes continuarão até que o fã altere sua assinatura.',
     'plans.fanClub.userSettings': 'Gerencie suas assinaturas do clube de fãs',
-    'plans.fanClub.subscribers': 'Assinantes'
+    'plans.fanClub.subscribers': 'Assinantes',
+    'plans.fanClub.activatedLabel': 'Clube de Fãs ativado',
+    'plans.fanClub.inactiveWarning': 'Seu clube de fãs ainda não está ativado, você ainda pode preparar planos e, assim que estiver pronto, poderá ativá-lo nas configurações.'
 };
