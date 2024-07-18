@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Är du säker på att du vill ta bort nivån {tierName}?',
     'plans.deleteTier.explainer': 'Om denna nivå inte har några prenumeranter kommer den att tas bort. Annars kommer den att inaktiveras för nya prenumerationer, men befintliga prenumerationer fortsätter tills användaren ändrar sin prenumeration.',
     'plans.fanClub.userSettings': 'Hantera dina fan club-prenumerationer',
-    'plans.fanClub.subscribers': 'Abonnenter'
+    'plans.fanClub.subscribers': 'Abonnenter',
+    'plans.fanClub.activatedLabel': 'Fan Club aktiverad',
+    'plans.fanClub.inactiveWarning': 'Din fanclub är ännu inte aktiverad, du kan fortfarande förbereda planer och när du är redo kan du aktivera den i inställningarna.'
 };
