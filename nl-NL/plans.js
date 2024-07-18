@@ -234,5 +234,7 @@ export default {
     'plans.deleteTier.header': 'Weet je zeker dat je niveau {tierName} wilt verwijderen?',
     'plans.deleteTier.explainer': 'Als dit niveau geen abonnees heeft, zal het worden verwijderd. Anders wordt het uitgeschakeld voor nieuwe abonnementen, maar bestaande abonnementen zullen doorgaan totdat de fan zijn abonnement wijzigt.',
     'plans.fanClub.userSettings': 'Beheer uw abonnementen voor uw fanclub',
-    'plans.fanClub.subscribers': 'Abonnees'
+    'plans.fanClub.subscribers': 'Abonnees',
+    'plans.fanClub.activatedLabel': 'Fan Club geactiveerd',
+    'plans.fanClub.inactiveWarning': 'Je fanclub is nog niet geactiveerd, je kunt nog steeds plannen maken en zodra je er klaar voor bent, kun je het activeren in de instellingen.'
 };
