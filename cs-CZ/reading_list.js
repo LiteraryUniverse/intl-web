@@ -22,5 +22,5 @@ export default {
     other {příběhů a vesmírů}
   } do seznamu četby.`,
   'readingList.addItem.fromLibrary': 'Z knihovny',
-  'readingList.button.added': 'Přidáno',
-}
+  'readingList.button.added': 'Přidáno'
+};
