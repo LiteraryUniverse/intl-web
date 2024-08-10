@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Ota foorumi käyttöön',
   'forums.archive': 'Arkistoi foorumi',
-  'forums.archive.explained':
-    'Keskustelufoorumin arkistointi estää käyttäjiä lähettämästä uutta sisältöä, mutta se pysyy näkyvissä.',
+  'forums.archive.explained': 'Keskustelufoorumin arkistointi estää käyttäjiä lähettämästä uutta sisältöä, mutta se pysyy näkyvissä.',
   'forums.archive.success': 'Keskustelufoorumi on arkistoitu',
   'forums.unArchive': 'Aktivoi foorumit uudelleen',
   'forums.unArchive.success': 'Foorumi on aktivoitu uudelleen!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'Kategorian nimi',
   'forums.category.slug': 'SEO-URL-osuus',
   'forums.category.settings': 'Kategorian asetukset',
-  'forums.category.language':
-    'Rajoita tämän kategorian näyttö seuraavaan kieleen. Jätä tyhjäksi, jos haluat näyttää kategorian kaikilla kielillä.',
-  'forums.category.intlNameDescription':
-    'Olemme paikallistaneet yleisten kategorianimien otsikot valintasi helpottamiseksi, jotta kategoria olisi käytettävissä kaikilla tuetuilla kielillä.',
+  'forums.category.language': 'Rajoita tämän kategorian näyttö seuraavaan kieleen. Jätä tyhjäksi, jos haluat näyttää kategorian kaikilla kielillä.',
+  'forums.category.intlNameDescription': 'Olemme paikallistaneet yleisten kategorianimien otsikot valintasi helpottamiseksi, jotta kategoria olisi käytettävissä kaikilla tuetuilla kielillä.',
   'forums.thread.new': 'Uusi keskusteluketju',
   'forums.thread.delete': 'Poista keskusteluketju',
   'forums.post.new': 'Uusi virka',
-  'forums.archived.forum':
-    'Tämä foorumi on arkistoitu {archivedAt, date, long}. Voit edelleen tarkastella foorumeita, mutta et voi enää luoda uutta sisältöä.',
+  'forums.archived.forum': 'Tämä foorumi on arkistoitu {archivedAt, date, long}. Voit edelleen tarkastella foorumeita, mutta et voi enää luoda uutta sisältöä.',
   'forums.category.archive': 'Arkistoi kategoria',
-  'forums.category.archiveExplained':
-    'Luokka, jolla ei ole keskusteluketjuja, poistetaan, kun taas luokat, joissa on sisältöä, estävät uusien keskusteluketjujen luomisen.',
+  'forums.category.archiveExplained': 'Luokka, jolla ei ole keskusteluketjuja, poistetaan, kun taas luokat, joissa on sisältöä, estävät uusien keskusteluketjujen luomisen.',
   'forums.category.reactivate': 'Aktivoi kategoria uudelleen',
   'forums.category.isVotable': 'Salli käyttäjien äänestää keskusteluketjuja ylös- tai alaspäin',
-  'forums.category.titleIsGlobal':
-    'Tämä luokan otsikko näytetään käyttäjän kielellä, jos tuemme sitä.',
+  'forums.category.titleIsGlobal': 'Tämä luokan otsikko näytetään käyttäjän kielellä, jos tuemme sitä.',
   'forums.category.languageLimited': 'Tämä luokka näytetään vain tämän kielen käyttäjille.',
   'forums.threadsCounter': 'Yhteensä aiheiden keskustelut',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Salli pääsy vain rekisteröityneille käyttäjille',
   'forums.settings.accessControls': 'Käyttöoikeudet',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Tämä foorumi on saatavilla vain rekisteröityneille käyttäjille.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Tämä foorumi on saatavilla vain rekisteröityneille käyttäjille.',
   'forums.noThreads': 'Ei mitään nähtävää täällä. On sinusta kiinni aloittaa keskustelu.',
   'forums.noPosts': 'Kukaan ei ole vielä vastannut. Ole ensimmäinen!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {vastaus}
     other {vastausta}
   }`,
-  'forums.thread.createdAt': 'Luotu {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Luotu {createdAt, date, medium}'
+};
