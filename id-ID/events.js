@@ -33,8 +33,7 @@ export default {
     organization {anggota organisasi Anda}
     other {Anda dan orang-orang yang Anda undang}
   } yang dapat melihat acara ini`,
-  'events.visibility.private':
-    'Pribadi - hanya orang-orang yang Anda undang yang akan melihat acara ini',
+  'events.visibility.private': 'Pribadi - hanya orang-orang yang Anda undang yang akan melihat acara ini',
   'events.inviting': 'Dapatkah orang yang melihat acara ini mengundang orang lain?',
   'events.administration': 'Administrasi acara',
   'events.create.title': 'Buat acara baru',
@@ -43,5 +42,5 @@ export default {
   'events.moreInfo': 'Informasi lebih lanjut',
   'event.visibilityShort.private': 'Pribadi',
   'event.visibilityShort.public': 'Publik',
-  'event.visibilityShort.owner': 'Pemilik',
-}
+  'event.visibilityShort.owner': 'Pemilik'
+};
