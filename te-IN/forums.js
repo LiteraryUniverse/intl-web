@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'ఫోరం ప్రారంభించండి',
   'forums.archive': 'ఫోరం ఆర్కైవ్ చేయండి',
-  'forums.archive.explained':
-    'Archiving forum will prevent users from posting any further content, but it will remain visible.',
+  'forums.archive.explained': 'Archiving forum will prevent users from posting any further content, but it will remain visible.',
   'forums.archive.success': 'Forum has been archived',
   'forums.unArchive': 'Re-activate forums',
   'forums.unArchive.success': 'Forum has been re-activated!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Category name',
   'forums.category.slug': 'SEO url part',
   'forums.category.settings': 'Category settings',
-  'forums.category.language':
-    'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
-  'forums.category.intlNameDescription':
-    'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
+  'forums.category.language': 'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
+  'forums.category.intlNameDescription': 'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
   'forums.thread.new': 'New thread',
   'forums.thread.delete': 'Delete thread',
   'forums.post.new': 'కొత్త పోస్ట్',
-  'forums.archived.forum':
-    'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
+  'forums.archived.forum': 'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
   'forums.category.archive': 'Archive category',
-  'forums.category.archiveExplained':
-    'సమూహంలో ఏ థ్రెడ్స్ లేని వర్గం తొలగించబడుతుంది, కానీ కంటెంట్ కలిగి ఉన్న వర్గాలు కొత్త థ్రెడ్స్ సృష్టించడానికి తడిచివేయబడుతాయి.',
+  'forums.category.archiveExplained': 'సమూహంలో ఏ థ్రెడ్స్ లేని వర్గం తొలగించబడుతుంది, కానీ కంటెంట్ కలిగి ఉన్న వర్గాలు కొత్త థ్రెడ్స్ సృష్టించడానికి తడిచివేయబడుతాయి.',
   'forums.category.reactivate': 'Re-activate category',
   'forums.category.isVotable': 'Allow users to up/down vote threads',
-  'forums.category.titleIsGlobal':
-    'ఈ వర్గం శీర్షిక ఉపయోగం చేసే భాషను మీరు మద్దతు చేస్తే వాడుక భాషలో ప్రదర్శించబడుతుంది.',
-  'forums.category.languageLimited':
-    'ఈ వర్గం మాతృభాషలో మాత్రమే వాడుకునే వాడుకరులకు మాతృభాషలో మాత్రమే ప్రదర్శించబడుతుంది.',
+  'forums.category.titleIsGlobal': 'ఈ వర్గం శీర్షిక ఉపయోగం చేసే భాషను మీరు మద్దతు చేస్తే వాడుక భాషలో ప్రదర్శించబడుతుంది.',
+  'forums.category.languageLimited': 'ఈ వర్గం మాతృభాషలో మాత్రమే వాడుకునే వాడుకరులకు మాతృభాషలో మాత్రమే ప్రదర్శించబడుతుంది.',
   'forums.threadsCounter': 'మొత్తం విషయాల చర్చల సంఖ్య',
   // Pre-defined category names
   'forums.category.intlName.general': 'General',
@@ -71,5 +64,5 @@ export default {
     one {జవాబు}
     other {జవాబులు}
   }`,
-  'forums.thread.createdAt': '{createdAt, date, medium}లో సృష్టించబడింది',
-}
+  'forums.thread.createdAt': '{createdAt, date, medium}లో సృష్టించబడింది'
+};
