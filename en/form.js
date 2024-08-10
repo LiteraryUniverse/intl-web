@@ -40,13 +40,16 @@ export default {
   'simpleschema.maxString': '{label} cannot exceed {max, number} characters',
   'simpleschema.minNumber': '{label} must be at least {min, number}',
   'simpleschema.maxNumber': '{label} cannot exceed {max, number}',
-  'simpleschema.minNumberExclusive': '{label} must be greater than {min, number}',
+  'simpleschema.minNumberExclusive':
+    '{label} must be greater than {min, number}',
   'simpleschema.maxNumberExclusive': '{label} must be less than {max, number}',
   'simpleschema.minDate': '{label} must be on or after {min, date}',
   'simpleschema.maxDate': '{label} cannot be after {max, date}',
   'simpleschema.badDate': '{label} is not a valid date',
-  'simpleschema.minCount': 'You must specify at least {minCount, number} values',
-  'simpleschema.maxCount': 'You cannot specify more than {maxCount, number} values',
+  'simpleschema.minCount':
+    'You must specify at least {minCount, number} values',
+  'simpleschema.maxCount':
+    'You cannot specify more than {maxCount, number} values',
   'simpleschema.noDecimal': '{label} must be an integer',
   'simpleschema.notAllowed': '{value} is not an allowed value',
   'simpleschema.expectedString': '{label} must be a string',
@@ -66,5 +69,5 @@ export default {
   'simpleschema.regEx.6': '{label} must be a valid IPv4 address',
   'simpleschema.regEx.7': '{label} must be a valid IPv6 address',
   'simpleschema.regEx.8': '{label} must be a valid URL',
-  'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID',
+  'simpleschema.regEx.9': '{label} must be a valid alphanumeric ID'
 }
