@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Ditolak',
   'fanManager.state.hidden': 'Tersembunyi',
   'fanManager.publicComment': 'Komen awam',
-  'fanManager.publicComment.desc':
-    'Teks ini akan dipaparkan di halaman awam sebagai komen rasmi anda mengenai seni ini.',
+  'fanManager.publicComment.desc': 'Teks ini akan dipaparkan di halaman awam sebagai komen rasmi anda mengenai seni ini.',
   'fanManager.authorComment': 'Komen untuk pengarang',
-  'fanManager.authorComment.desc':
-    'Ini adalah komen peribadi daripada anda kepada pengarang seni ini.',
+  'fanManager.authorComment.desc': 'Ini adalah komen peribadi daripada anda kepada pengarang seni ini.',
   'fanManager.stateChange.approve': 'Terima seni peminat',
   'fanManager.stateChange.reject': 'Tolak seni peminat',
   'fanManager.stateChange.hide': 'Sembunyikan seni peminat',
   'fanManager.stateChange.unhide': 'Jadikan seni peminat terlihat',
   'fanManager.fanFictionNotAllowed': 'Fiksyen peminat tidak dibenarkan oleh lesen anda.',
   'fanManager.fanFiction.maxRating': 'Pemarkahan maksimum fiksyen peminat yang dipaparkan.',
-}
+  'fanManager.hidden.nothingFound': 'Tiada seni penggemar tersembunyi ditemui.',
+  'fanManager.rejected.nothingFound': 'Tiada seni penggemar yang ditolak ditemui.',
+  'fanManager.approved.nothingFound': 'Tiada seni penggemar yang diluluskan ditemui.',
+  'fanManager.submitted.nothingFound': 'Tiada seni fan yang dikemukakan dijumpai.'
+};
