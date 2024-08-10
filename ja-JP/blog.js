@@ -1,39 +1,38 @@
 export default {
-  'blog.noneMsg': `現在{type, select,
+    'blog.noneMsg': `現在{type, select,
     organization {はブログを持っていませんね}
     universe {、あなたの宇宙にはブログがありません}
     user {はブログを持っていませんね}
     other {}
   }。`,
-  'blog.create': '新しいブログを作成する',
-  'blog.settings': `{type, select,
+    'blog.create': '新しいブログを作成する',
+    'blog.settings': `{type, select,
     org {ブログ}
     universe {宇宙のページ}
     user {ブログ}
     other {}
   }設定`,
-  'blog.description': 'ブログ紹介',
-  'blog.theme': 'テーマ',
-  'blog.theme.info':
-    'テーマを調整することで、ページの外観を変更することができます。この機能は、現時点では準備ができていません。',
-  'blog.posts.total': `このブログには{total, plural,
+    'blog.description': 'ブログ紹介',
+    'blog.theme': 'テーマ',
+    'blog.theme.info': 'テーマを調整することで、ページの外観を変更することができます。この機能は、現時点では準備ができていません。',
+    'blog.posts.total': `このブログには{total, plural,
     zero {記事がありません}
     other {#つの記事があります}
   }。`,
-  'blog.post.create': '新しい投稿を作成',
-  'blog.post.update': '{title} を編集',
-  'blog.post.text': 'テキストを投稿',
-  'common.slug': 'SEO対応アドレス',
-  'blog.slug.explained': '記事のURLがいい感じですね。"-"以外の特殊文字の使用は避けてください。',
-  'blog.publicView': '公開表示',
-  'blog.post.notfound': 'ブログの投稿が見つかりませんでした',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': '新しい投稿を作成',
+    'blog.post.update': '{title} を編集',
+    'blog.post.text': 'テキストを投稿',
+    'common.slug': 'SEO対応アドレス',
+    'blog.slug.explained': '記事のURLがいい感じですね。"-"以外の特殊文字の使用は避けてください。',
+    'blog.publicView': '公開表示',
+    'blog.post.notfound': 'ブログの投稿が見つかりませんでした',
+    'blog.lists.works': `{type, select,
     universes {宇宙}
     stories {物語}
     fanfiction {ファンフィクション作品}
     other {}
   }を`,
-  'blog.social.sameAsMain': `ソーシャルリンクは、{type, select,
+    'blog.social.sameAsMain': `ソーシャルリンクは、{type, select,
     organization {組織設定}
     user {ユーザープロファイル}
     other {}
