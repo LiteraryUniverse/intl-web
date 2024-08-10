@@ -19,8 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'Сделать иллюстрацию видимой',
   'fanManager.fanFictionNotAllowed': 'Фанфики запрещены по характеру лицензии.',
   'fanManager.fanFiction.maxRating': 'Максимальный рейтинг отображаемых фанфиков.',
-  'fanManager.hidden.nothingFound': 'Не найдено скрытых фан-артов.',
-  'fanManager.rejected.nothingFound': 'Не найдено отклоненных фан-артов.',
-  'fanManager.approved.nothingFound': 'Не найдено одобренных фан-артов.',
-  'fanManager.submitted.nothingFound': 'Не найдено отправленных фан-артов.'
+  'fanManager.hidden.nothingFound': 'Не найдено скрытых иллюстрации фанатов.',
+  'fanManager.rejected.nothingFound': 'Не найдено отклонённых иллюстрации фанатов.',
+  'fanManager.approved.nothingFound': 'Не найдено одобренных иллюстрации фанатов.',
+  'fanManager.submitted.nothingFound': 'Не найдено отправленных иллюстрации фанатов.'
 };
