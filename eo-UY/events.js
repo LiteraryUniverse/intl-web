@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Plia informo',
   'event.visibilityShort.private': 'Privata',
   'event.visibilityShort.public': 'Publika',
-  'event.visibilityShort.owner': 'Posedanto',
-}
+  'event.visibilityShort.owner': 'Posedanto'
+};
