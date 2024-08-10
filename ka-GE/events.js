@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'პრივატული',
   'event.visibilityShort.public': 'ღია',
-  'event.visibilityShort.owner': 'მფლობელი',
-}
+  'event.visibilityShort.owner': 'მფლობელი'
+};
