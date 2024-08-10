@@ -1,39 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'สร้างบล็อกใหม่',
-  'blog.settings': `บล็อก {type, select,
+    'blog.create': 'สร้างบล็อกใหม่',
+    'blog.settings': `บล็อก {type, select,
     org {หน้าจักรวาล}
     universe {บล็อก}
     user {}
     other {การตั้งค่า}
   }`,
-  'blog.description': 'คำนำสำหรับบล็อก',
-  'blog.theme': 'ธีม',
-  'blog.theme.info': 'การปรับแต่งธีมจะช่วยเปลี่ยนหน้าตาของหน้าเว็บได้ เดี๋ยวนี้ฟังก์ชันนี้ยังไม่พร้อมใช้งาน',
-  'blog.posts.total': `มีบล็อกนี้ไม่มีโพสต์หรือสร้างไปแล้ว {total, plural,
+    'blog.description': 'คำนำสำหรับบล็อก',
+    'blog.theme': 'ธีม',
+    'blog.theme.info': 'การปรับแต่งธีมจะช่วยเปลี่ยนหน้าตาของหน้าเว็บได้ เดี๋ยวนี้ฟังก์ชันนี้ยังไม่พร้อมใช้งาน',
+    'blog.posts.total': `มีบล็อกนี้ไม่มีโพสต์หรือสร้างไปแล้ว {total, plural,
     zero {โพสต์}
     one {มีโพสต์มา 1 เรื่อง}
     other {โพสต์}
   } และ # โพสต์`,
-  'blog.post.create': 'สร้างโพสต์ใหม่',
-  'blog.post.update': 'แก้ไขโพสต์ {title}',
-  'blog.post.text': 'ข้อความโพสต์',
-  'common.slug': 'ที่อยู่ผ่านการจัดการ SEO',
-  'blog.slug.explained': 'URL ที่ดูดีให้กับโพสต์ อย่าใช้อักขระพิเศษนอกจาก "-"',
-  'blog.publicView': 'มุมมองสาธารณะ',
-  'blog.post.notfound': 'ไม่พบโพสต์บล็อก',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'สร้างโพสต์ใหม่',
+    'blog.post.update': 'แก้ไขโพสต์ {title}',
+    'blog.post.text': 'ข้อความโพสต์',
+    'common.slug': 'ที่อยู่ผ่านการจัดการ SEO',
+    'blog.slug.explained': 'URL ที่ดูดีให้กับโพสต์ อย่าใช้อักขระพิเศษนอกจาก "-"',
+    'blog.publicView': 'มุมมองสาธารณะ',
+    'blog.post.notfound': 'ไม่พบโพสต์บล็อก',
+    'blog.lists.works': `{type, select,
     universes {ของจักรวาล}
     stories {เรื่องราว}
     fanfiction {งานนิยายแฟนตาซี}
     other {}
   }`,
-  'blog.social.sameAsMain': `ลิงค์ทางสังคมเหมือนกับที่ตั้งค่า {type, select,
+    'blog.social.sameAsMain': `ลิงค์ทางสังคมเหมือนกับที่ตั้งค่า {type, select,
     organization {การตั้งค่าองค์กร}
     user {โปรไฟล์ผู้ใช้งาน}
     other {}
