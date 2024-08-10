@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Viac informácií',
   'event.visibilityShort.private': 'Súkromné',
   'event.visibilityShort.public': 'Verejné',
-  'event.visibilityShort.owner': 'Vlastník',
-}
+  'event.visibilityShort.owner': 'Vlastník'
+};
