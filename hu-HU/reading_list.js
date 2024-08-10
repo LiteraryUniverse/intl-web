@@ -22,5 +22,5 @@ export default {
     other {történetek és univerzumok}
   } hozzáadásához az olvasási listához.`,
   'readingList.addItem.fromLibrary': 'Könyvtárból',
-  'readingList.button.added': 'Hozzáadva',
-}
+  'readingList.button.added': 'Hozzáadva'
+};
