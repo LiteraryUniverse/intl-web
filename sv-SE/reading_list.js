@@ -22,5 +22,5 @@ export default {
     other {berättelser och universum}
   } i läslistan.`,
   'readingList.addItem.fromLibrary': 'Från biblioteket',
-  'readingList.button.added': 'Tillagd',
-}
+  'readingList.button.added': 'Tillagd'
+};
