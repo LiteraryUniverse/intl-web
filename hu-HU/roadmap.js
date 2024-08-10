@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Ezt a funkciót tervezzük fejleszteni a jövőben.',
   'roadmap.item.inProgress': 'A funkció fejlesztése elkezdődött {startedAt, date}.',
   'roadmap.item.inBeta': 'Ez a funkció béta verzióba került {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Ez a funkció elérhetővé vált a Storyteller előfizetők számára {previewAt, date}.',
+  'roadmap.item.inPreview': 'Ez a funkció elérhetővé vált a Storyteller előfizetők számára {previewAt, date}.',
   'roadmap.item.inGa': 'Ez a funkció általánosan elérhetővé vált {gaAt, date}.',
   'roadmap.item.originalIssue': 'Ezt a funkciót eredetileg felhasználóink javasolták.',
   'roadmap.eta.mapTitle': `Tervezve a(z) {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Befejezve {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Vissza a térképhez',
   'roadmap.seeBacklog': 'Nézd meg, mit tervezünk még',
-  'roadmap.seeFinished':
-    'Ha szeretnél még többet megtudni a történetünkről, van egy szép áttekintésünk készen',
+  'roadmap.seeFinished': 'Ha szeretnél még többet megtudni a történetünkről, van egy szép áttekintésünk készen',
   'roadmap.planned': 'Tervezett',
-  'roadmap.finished': 'Befejezett',
-}
+  'roadmap.finished': 'Befejezett'
+};
