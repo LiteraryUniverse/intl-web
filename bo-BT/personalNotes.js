@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'འབྲི་རིམ་ནང་བསྟན།',
   'personalNotes.type.revTextBlock': 'སྙན་ཞུས་གསལ་བཤད་པའི་གྲུབ།',
   'personalNotes.chapter': 'གནས་ཚད།',
-  'personalNotes.recentSearches': 'འཕྲོགས་པ་འཚོལ་ཞིབ།',
-}
+  'personalNotes.recentSearches': 'འཕྲོགས་པ་འཚོལ་ཞིབ།'
+};
