@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'ଜଣାମାନା ଏଣ୍ଟ୍ରି',
   'personalNotes.type.revTextBlock': 'ପୁନର୍ବିବରଣ ପାଠଗୁଡ଼ିକ',
   'personalNotes.chapter': 'ଅଧ୍ୟାୟ',
-  'personalNotes.recentSearches': 'ସମ୍ପ୍ରତିକ ଅନୁସନ୍ଧାନ:',
-}
+  'personalNotes.recentSearches': 'ସମ୍ପ୍ରତିକ ଅନୁସନ୍ଧାନ:'
+};
