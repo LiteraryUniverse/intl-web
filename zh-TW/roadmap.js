@@ -33,5 +33,5 @@ export default {
   'roadmap.seeBacklog': '查看我們計劃做的其他事情',
   'roadmap.seeFinished': '如果您想更深入了解我們的歷史，我們已經準備了一個很好的概述給您',
   'roadmap.planned': '計劃中',
-  'roadmap.finished': '已完成',
-}
+  'roadmap.finished': '已完成'
+};
