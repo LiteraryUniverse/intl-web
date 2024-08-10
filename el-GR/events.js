@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'Ιδιωτικό',
   'event.visibilityShort.public': 'Δημόσιο',
-  'event.visibilityShort.owner': 'Κάτοχος',
-}
+  'event.visibilityShort.owner': 'Κάτοχος'
+};
