@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Запись энциклопедии',
   'personalNotes.type.revTextBlock': 'Текст блока редактирования',
   'personalNotes.chapter': 'Глава',
-  'personalNotes.recentSearches': 'Недавние поиски:',
-}
+  'personalNotes.recentSearches': 'Недавние поиски:'
+};
