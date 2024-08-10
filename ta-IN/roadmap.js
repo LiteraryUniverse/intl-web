@@ -33,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'மேலேகொடுக்கப்பட்ட விசயங்களைப் பாருங்கள்',
   'roadmap.seeFinished': 'எமது வரலாற்றை மேலும் ஆராய்ச்சியாகப் பார்க்க விருப்பம் உள்ளவர்கள் அப்படியே பார்க்கலாம்',
   'roadmap.planned': 'திட்டமிடப்பட்டது',
-  'roadmap.finished': 'முடிந்தது',
-}
+  'roadmap.finished': 'முடிந்தது'
+};
