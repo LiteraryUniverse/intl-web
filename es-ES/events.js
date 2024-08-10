@@ -8,8 +8,7 @@ export default {
   'events.details.image': 'Imagen del evento',
   'events.details.description': 'Descripción del evento / Agenda',
   'events.details.url': 'Enlace a más detalles',
-  'events.details.virtualLink':
-    'Enlace a la ubicación virtual (es decir, Zoom, Google Meets, etc.)',
+  'events.details.virtualLink': 'Enlace a la ubicación virtual (es decir, Zoom, Google Meets, etc.)',
   'events.details.address': 'Dirección del evento',
   'events.details.startsAt': 'Dar comienzo al evento',
   'events.details.endsAt': 'Finalizar el evento',
@@ -43,5 +42,5 @@ export default {
   'events.moreInfo': 'Más información',
   'event.visibilityShort.private': 'Privado',
   'event.visibilityShort.public': 'Público',
-  'event.visibilityShort.owner': 'Propietario',
-}
+  'event.visibilityShort.owner': 'Propietario'
+};
