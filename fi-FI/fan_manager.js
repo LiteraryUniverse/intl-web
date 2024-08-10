@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Hylätty',
   'fanManager.state.hidden': 'Piilotettu',
   'fanManager.publicComment': 'Julkinen kommentti',
-  'fanManager.publicComment.desc':
-    'Tämä teksti näytetään julkisella sivulla virallisena kommenttina tähän taiteeseen liittyen.',
+  'fanManager.publicComment.desc': 'Tämä teksti näytetään julkisella sivulla virallisena kommenttina tähän taiteeseen liittyen.',
   'fanManager.authorComment': 'Kommentti kirjoittajalle',
-  'fanManager.authorComment.desc':
-    'Tämä on sinulta taiteen kirjoittajalle lähetetty yksityinen kommentti.',
+  'fanManager.authorComment.desc': 'Tämä on sinulta taiteen kirjoittajalle lähetetty yksityinen kommentti.',
   'fanManager.stateChange.approve': 'Hyväksy faniart',
   'fanManager.stateChange.reject': 'Hylkää faniart',
   'fanManager.stateChange.hide': 'Piilota faniart',
   'fanManager.stateChange.unhide': 'Näytä faniart',
   'fanManager.fanFictionNotAllowed': 'Fanifiktio ei ole sallittu lisenssin takia.',
   'fanManager.fanFiction.maxRating': 'Enimmäisarvostelu näytetylle fanitarinalle.',
-}
+  'fanManager.hidden.nothingFound': 'Ei löydetty piilotettuja fanitaiteita.',
+  'fanManager.rejected.nothingFound': 'Ei löydetty hylättyjä fanitaiteita.',
+  'fanManager.approved.nothingFound': 'Ei löydetty hyväksyttyjä fanitaiteita.',
+  'fanManager.submitted.nothingFound': 'Ei lähetettyjä fanitaidetta löydetty.'
+};
