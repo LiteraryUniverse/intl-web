@@ -42,13 +42,15 @@ export default {
   'workshop.cover': 'Cover',
   'workshop.nothingtosee': 'Nothing to see here...',
   'workshop.story.cannon': 'Canon story',
-  'workshop.story.cannon.desc': 'This story is canonical in {universe} universe.',
+  'workshop.story.cannon.desc':
+    'This story is canonical in {universe} universe.',
   'workshop.story.cannon.desc.create':
     'This story will be created as a canonical story in {universe} universe.',
   'workshop.story.fanfiction.search':
     'Type in the name of the universe (it needs to be in your library). And then select from suggestions.',
   'workshop.story.error.nogenres': 'You need to select at least one genre.',
-  'workshop.story.error.toomanygenres': 'Only two genres per story are allowed.',
+  'workshop.story.error.toomanygenres':
+    'Only two genres per story are allowed.',
   'workshop.story.error.fanfiction.selectuniverse':
     'You need to select original universe for your fan fiction!',
   'workshop.story.error.tags.toomany': 'You can only have 10 tags per story.',
@@ -68,16 +70,19 @@ export default {
   'workshop.revisions.title': '{story}: {chapter} Revisions',
   'workshop.revisions.current': 'Current draft',
   'workshop.revisions.new.beta': 'Create a new revision out of the draft.',
-  'workshop.revisions.new.public': 'Create a new public revision out of the draft.',
+  'workshop.revisions.new.public':
+    'Create a new public revision out of the draft.',
   'workshop.revisions.toeditor': 'Go to the editor',
   'workshop.revisions.comments': 'Revision comments',
-  'workshop.revisions.comments.title': '{story}: {chapter} - Revision {revision} - Comments',
+  'workshop.revisions.comments.title':
+    '{story}: {chapter} - Revision {revision} - Comments',
   'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
       beta {for Beta readers}
       readers {Public}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
-  'workshop.revisions.comments.norevision': 'You need to create a revision first.',
+  'workshop.revisions.comments.norevision':
+    'You need to create a revision first.',
   'workshop.revisions.comments.select': 'Select revision',
   'workshop.collaborators.noresults': 'No results',
   'workshop.collaborators.add.beta': 'Add Beta reader',
@@ -145,7 +150,8 @@ export default {
     'Since you are selling outside of Literary Universe you can publish the story now. Links to your store listing will appear on the story or at the end of the current story you publish here.',
   'workshop.sharing.publicURL': 'Public version',
   'workshop.fictionalTime.title': 'Fictional times for {universeName}',
-  'workshop.fictionalTime.none': "You currently don't have any fictional times set-up.",
+  'workshop.fictionalTime.none':
+    "You currently don't have any fictional times set-up.",
   'workshop.fictionalTime.createNow': 'Create one now!',
   'workshop.fictionalTime.createTitle': 'Create a new fictional time',
   'workshop.fictionalTime.editTitle': 'Edit {ftName}',
@@ -160,7 +166,8 @@ export default {
   'workshop.fictionalTime.linkedToET':
     'Does this time start on an Earth date (Gregorian calendar)?',
   'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-  'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
+  'workshop.fictionalTime.declarationLocation':
+    'Where should be the time name be declared?',
   'workshop.fictionalTime.declarationBefore': 'Before units',
   'workshop.fictionalTime.declarationAfter': 'After units',
   'workshop.fictionalTime.declarationNone': 'None',
@@ -168,7 +175,8 @@ export default {
   'workshop.fictionalTime.ETStart': 'Starting date of this time',
   'workshop.fictionalTime.unitsDescFirst':
     'How many units are there in this unit from milliseconds?',
-  'workshop.fictionalTime.unitsDesc': 'How many units is this one from the previous one?',
+  'workshop.fictionalTime.unitsDesc':
+    'How many units is this one from the previous one?',
   'workshop.fictionalTime.unitsName': 'Unit name',
   'workshop.fictionalTime.unitsSeparator': 'Separator from previous unit',
   'workshop.fictionalTime.unitAdd': 'Add unit',
@@ -236,7 +244,8 @@ export default {
     'Your notes for the readers to read at the beginning of the chapter.',
   'workshop.story.chapterSortSwitch': "Switch chapter's order",
   'workshop.universe.monetizationTitle': '{title} monetization',
-  'workshop.story.monetizationTitle': '{universeTitle}: {storyTitle} monetization',
+  'workshop.story.monetizationTitle':
+    '{universeTitle}: {storyTitle} monetization',
   'workshop.universe.monetizationWebMonetization': 'Web Monetization',
   'workshop.webMonetization.explain':
     'Web Monetization will stream payments to you based on how much time user spends on your content. In your profile monetization settings you can set your own payment pointer. Here you can decide on a split with your collaborators who have Web Payment enabled. Literary Universe automatically takes 10%.',
@@ -246,28 +255,33 @@ export default {
     'Learn more about Probabilistic Revenue Sharing. We use the same code as on that page.',
   'workshop.story.notEligible.licence': `The story's license does not allow for monetization.`,
   'workshop.universe.notEligible.licence': `The universe's license does not allow for monetization.`,
-  'workshop.story.notEligible.fanFiction': 'Fan Fiction stories are not eligible for monetization.',
+  'workshop.story.notEligible.fanFiction':
+    'Fan Fiction stories are not eligible for monetization.',
   'workshop.revShare.mustBe100': 'Share must equal 100%',
   'workshop.revShare.LUCut': 'Literary Universe & payment gate',
-  'workshop.revShare.unallocated': 'Unallocated share {total, number, ::percent}',
+  'workshop.revShare.unallocated':
+    'Unallocated share {total, number, ::percent}',
   'workshop.revShare.allocation': '{username} - {total, number, ::percent}',
   'workshop.revShare.undecided': 'Undecided',
   'workshop.revShare.origLangCreators': 'Original language creators',
   'workshop.story.prolog': 'Prolog',
   'workshop.story.chapter': 'Chapter {sequence, number}',
-  'workshop.work.includesAds': 'Are there any advertisements or product placements in the work?',
+  'workshop.work.includesAds':
+    'Are there any advertisements or product placements in the work?',
   'workshop.universe.forumSettings': 'Internal universe forum settings',
   'workshop.universe.forum': 'Internal {universeName} forum',
   'workshop.ratingAdjusted':
     'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
   'workshop.selectCollaborator': 'Select collaborator',
-  'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
+  'workshop.chapters.scheduledOn':
+    '{publishDate, date, short} | {publishDate, time}',
   'workshop.chapterStatus.draft': 'Draft',
   'workshop.chapterStatus.scheduled': 'Scheduled',
   'workshop.chapterStatus.published': 'Published',
   'workshop.story.continuedIn': 'Which stories continue this story?',
   'workshop.story.continuedPlaceholder': 'Select story from this universe',
-  'workshop.universe.isAIGenerated': 'Is the content of the universe generated by AI?',
+  'workshop.universe.isAIGenerated':
+    'Is the content of the universe generated by AI?',
   'workshop.universe.isAIGeneratedTooltip':
     'Please let us know if any of the content in the universe was generated by or with the help of AI. We use this information for proper labeling and due to how AI programs are generated there might be some limitations and restrictions.',
   'workshop.story.isAIGenerated': 'Is the story generated by AI?',
@@ -283,7 +297,8 @@ export default {
   'workshop.hiatus.btn': 'Change story status to Hiatus',
   'workshop.cancelled.btn': 'Change story status to Cancelled',
   'workshop.complete.btn': 'Change story status to Completed',
-  'workshop.statusChange.modalTop': 'Are you sure you want to change the status to',
+  'workshop.statusChange.modalTop':
+    'Are you sure you want to change the status to',
   'workshop.statusName.hiatus': 'Hiatus',
   'workshop.statusName.cancelled': 'Cancelled',
   'workshop.statusName.completed': 'Completed',
@@ -307,9 +322,11 @@ export default {
     'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.',
   'workshop.status.goActive': 'Make the story active again',
 
-  'workshop.statusChangeEmail.storyIntro': 'We would like to inform you that your story:',
+  'workshop.statusChangeEmail.storyIntro':
+    'We would like to inform you that your story:',
 
-  'workshop.statusChangeEmail.hiatusTitle': 'Your story status was automatically set to hiatus',
+  'workshop.statusChangeEmail.hiatusTitle':
+    'Your story status was automatically set to hiatus',
   'workshop.statusChangeEmail.hiatusIntro':
     'Due to inactivity your story status was automatically set to hiatus.',
   'workshop.statusChangeEmail.hiatusWhy':
@@ -330,8 +347,10 @@ export default {
   'workshop.fanfiction.new': 'Create a new fan fiction',
   'workshop.videoTrailerLink': 'Video trailer link',
   'workshop.videoTrailerPlayerTitle': 'Story video trailer player',
-  'workshop.videoTrailer.supportedPlaftorms': 'We support Youtube, Vimeo and Odysee',
-  'workshop.videoTrailer.rumble': 'We also support Rumble, but remember to copy the IFRAME URL.',
+  'workshop.videoTrailer.supportedPlaftorms':
+    'We support Youtube, Vimeo and Odysee',
+  'workshop.videoTrailer.rumble':
+    'We also support Rumble, but remember to copy the IFRAME URL.',
   'workshop.videoTrailer.suggestPlatforms':
-    'Is your video platform missing, let us know via our <a>feedback</a>!',
+    'Is your video platform missing, let us know via our <a>feedback</a>!'
 }
