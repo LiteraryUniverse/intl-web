@@ -22,5 +22,5 @@ export default {
     other {historier og universer}
   } i leselisten.`,
   'readingList.addItem.fromLibrary': 'Fra biblioteket',
-  'readingList.button.added': 'Lagt til',
-}
+  'readingList.button.added': 'Lagt til'
+};
