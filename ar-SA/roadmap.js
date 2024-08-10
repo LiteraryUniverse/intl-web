@@ -31,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'تم الانتهاء في {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'العودة إلى خريطة الطريق',
   'roadmap.seeBacklog': 'تحقق من ما نخطط للقيام به',
-  'roadmap.seeFinished':
-    'إذا كنت ترغب في استكشاف تاريخنا بشكل أكبر ، لدينا نظرة عامة جميلة جاهزة لك',
+  'roadmap.seeFinished': 'إذا كنت ترغب في استكشاف تاريخنا بشكل أكبر ، لدينا نظرة عامة جميلة جاهزة لك',
   'roadmap.planned': 'مخطط',
-  'roadmap.finished': 'منتهي',
-}
+  'roadmap.finished': 'منتهي'
+};
