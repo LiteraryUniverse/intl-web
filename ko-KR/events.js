@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': '비공개',
   'event.visibilityShort.public': '공개',
-  'event.visibilityShort.owner': '소유자',
-}
+  'event.visibilityShort.owner': '소유자'
+};
