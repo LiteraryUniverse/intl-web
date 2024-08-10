@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Záznam v encyklopedii',
   'personalNotes.type.revTextBlock': 'Textový blok revize',
   'personalNotes.chapter': 'Kapitola',
-  'personalNotes.recentSearches': 'Nedávné vyhledávání:',
-}
+  'personalNotes.recentSearches': 'Nedávné vyhledávání:'
+};
