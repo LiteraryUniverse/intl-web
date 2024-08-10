@@ -22,5 +22,5 @@ export default {
     other {stories and universes}
   } to the reading list.`,
   'readingList.addItem.fromLibrary': 'लाइब्रेरीबाट',
-  'readingList.button.added': 'थपियो',
-}
+  'readingList.button.added': 'थपियो'
+};
