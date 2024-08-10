@@ -1,6 +1,5 @@
 export default {
-  'roadmap.ariaTimeOptions':
-    'არჩევანის გზები რომლებიც მათი სტატუსის მიხედვით არჩევანის განცხრობისთვის გამოყენებულია.',
+  'roadmap.ariaTimeOptions': 'არჩევანის გზები რომლებიც მათი სტატუსის მიხედვით არჩევანის განცხრობისთვის გამოყენებულია.',
   'roadmap.state.backlog': 'დარჩენილი საქმიანობა',
   'roadmap.state.inprogress': 'პროცესში',
   'roadmap.state.preview': 'წინასწარი',
@@ -19,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'ჩვენ გვაქვს გეგმა ამ ფუნქციის განვითარება მომავალში.',
   'roadmap.item.inProgress': 'ფუნქციის განვითარება დაიწყო {startedAt, date}.',
   'roadmap.item.inBeta': 'ეს ფუნქცია ბეტა ვერსიაშია {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'ეს ფუნქცია ხელმისაწვდომი გახდა Storyteller მხარდამჭერეებისთვის {previewAt, date}.',
+  'roadmap.item.inPreview': 'ეს ფუნქცია ხელმისაწვდომი გახდა Storyteller მხარდამჭერეებისთვის {previewAt, date}.',
   'roadmap.item.inGa': 'ეს ფუნქცია გამოიყენება რეალურად {gaAt, date}.',
   'roadmap.item.originalIssue': 'ეს ფუნქცია დაწყებულია ჩვენი მომხმარებლების მიერ.',
   'roadmap.eta.mapTitle': `გეგმა მოიცავს {quarter, select,
@@ -35,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'შეამოწმეთ რას გვიქვაბებთ როგორ განვითარებისთვის',
   'roadmap.seeFinished': 'თუ გსურთ მეტი გამოცდილების შემოტანა, გვაქვს მზადაარსი თქვენთვის',
   'roadmap.planned': 'გეგმაში',
-  'roadmap.finished': 'დასრულებული',
-}
+  'roadmap.finished': 'დასრულებული'
+};
