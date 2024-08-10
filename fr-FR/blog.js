@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Vous n'avez actuellement {type, select,
+    'blog.noneMsg': `Vous n'avez actuellement {type, select,
     organization {aucun blog}
     universe {un blog pour votre univers}
     user {un blog}
     other {}
   }.`,
-  'blog.create': 'Créer un nouveau blog',
-  'blog.settings': `Paramètres {type, select,
+    'blog.create': 'Créer un nouveau blog',
+    'blog.settings': `Paramètres {type, select,
     org {du blog}
     universe {de la page univers}
     user {du blog}
     other {}
   }`,
-  'blog.description': 'Introduction au blog',
-  'blog.theme': 'Thème',
-  'blog.theme.info':
-    "En ajustant le thème, vous pourrez modifier l'apparence de la page. Cette fonctionnalité n'est pas prête pour le moment.",
-  'blog.posts.total': `Il y a {total, plural,
+    'blog.description': 'Introduction au blog',
+    'blog.theme': 'Thème',
+    'blog.theme.info': 'En ajustant le thème, vous pourrez modifier l\'apparence de la page. Cette fonctionnalité n\'est pas prête pour le moment.',
+    'blog.posts.total': `Il y a {total, plural,
     zero {pas de post}
     one {un post}
     other {# posts}
   } dans ce blog.`,
-  'blog.post.create': 'Créer un nouveau post',
-  'blog.post.update': 'Modification de {title}',
-  'blog.post.text': 'Poster le texte',
-  'common.slug': 'Adresse conviviale pour le SEO',
-  'blog.slug.explained':
-    'Une belle url pour le post. Évitez d\'utiliser des caractères spéciaux, à l\'exception de "-".',
-  'blog.publicView': 'Vue publique',
-  'blog.post.notfound': "Le post du blog n'a pas été trouvé",
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Créer un nouveau post',
+    'blog.post.update': 'Modification de {title}',
+    'blog.post.text': 'Poster le texte',
+    'common.slug': 'Adresse conviviale pour le SEO',
+    'blog.slug.explained': 'Une belle url pour le post. Évitez d\'utiliser des caractères spéciaux, à l\'exception de "-".',
+    'blog.publicView': 'Vue publique',
+    'blog.post.notfound': 'Le post du blog n\'a pas été trouvé',
+    'blog.lists.works': `{type, select,
     universes {Univers}
     stories {Histoires}
     fanfiction {Œuvre de fanfiction}
     other {}
   }`,
-  'blog.social.sameAsMain': `Les liens sociaux sont les mêmes que ceux définis dans {type, select,
+    'blog.social.sameAsMain': `Les liens sociaux sont les mêmes que ceux définis dans {type, select,
     organization {les paramètres de l'organisation}
     user {le profil d'utilisateur}
     other {}
