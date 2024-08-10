@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Включить форум',
   'forums.archive': 'Архивировать форум',
-  'forums.archive.explained':
-    'Архивирование форума не позволит пользователям размещать дальнейший контент, но он останется видимым.',
+  'forums.archive.explained': 'Архивирование форума не позволит пользователям размещать дальнейший контент, но он останется видимым.',
   'forums.archive.success': 'Форум был архивирован',
   'forums.unArchive': 'Восстановить форум',
   'forums.unArchive.success': 'Форум был восстановлен!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Название категории',
   'forums.category.slug': 'Часть ссылки SEO',
   'forums.category.settings': 'Настройки категории',
-  'forums.category.language':
-    'Ограничить отображение этой категории только для следующего языка. Оставьте пустым, если вы хотите отображать категорию на всех языках.',
-  'forums.category.intlNameDescription':
-    'Мы локализовали названия распространённых категорий для вашего выбора, чтобы категория была доступна для всех поддерживаемых языков.',
+  'forums.category.language': 'Ограничить отображение этой категории только для следующего языка. Оставьте пустым, если вы хотите отображать категорию на всех языках.',
+  'forums.category.intlNameDescription': 'Мы локализовали названия распространённых категорий для вашего выбора, чтобы категория была доступна для всех поддерживаемых языков.',
   'forums.thread.new': 'Новая тема',
   'forums.thread.delete': 'Удалить тему',
   'forums.post.new': 'Новая публикация',
-  'forums.archived.forum':
-    'Этот форум был архивирован {archivedAt, date, long} Вы всё ещё можете просматривать форум, но вы больше не можете создавать новое содержимое.',
+  'forums.archived.forum': 'Этот форум был архивирован {archivedAt, date, long} Вы всё ещё можете просматривать форум, но вы больше не можете создавать новое содержимое.',
   'forums.category.archive': 'Архивировать категорию',
-  'forums.category.archiveExplained':
-    'Категория, в которой нет тем, будет удалена, а категории с содержимым будут препятствовать созданию новых тем.',
+  'forums.category.archiveExplained': 'Категория, в которой нет тем, будет удалена, а категории с содержимым будут препятствовать созданию новых тем.',
   'forums.category.reactivate': 'Восстановить категорию',
   'forums.category.isVotable': 'Разрешить пользователям голосовать за темы',
-  'forums.category.titleIsGlobal':
-    'Это название категории будет отображаться на языке пользователя, если мы его поддерживаем.',
-  'forums.category.languageLimited':
-    'Эта категория будет отображаться только для пользователей на этом языке.',
+  'forums.category.titleIsGlobal': 'Это название категории будет отображаться на языке пользователя, если мы его поддерживаем.',
+  'forums.category.languageLimited': 'Эта категория будет отображаться только для пользователей на этом языке.',
   'forums.threadsCounter': 'Общее количество обсуждений по темам',
   // Pre-defined category names
   'forums.category.intlName.general': 'Общий',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Разрешить доступ только зарегистрированным пользователям',
   'forums.settings.accessControls': 'Управление доступом',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Этот форум доступен только зарегистрированным пользователям.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Этот форум доступен только зарегистрированным пользователям.',
   'forums.noThreads': 'Здесь не на что смотреть. Вы сами должны начать обсуждение.',
   'forums.noPosts': 'Никто ещё не ответил. Будьте первыми!',
   // Threads
@@ -74,5 +66,5 @@ export default {
     many {ответов}
     other {ответов}
   }`,
-  'forums.thread.createdAt': 'Создано {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Создано {createdAt, date, medium}'
+};
