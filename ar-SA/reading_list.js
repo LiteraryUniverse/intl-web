@@ -22,5 +22,5 @@ export default {
     other {قصص وكواكب}
   } إلى قائمة القراءة.`,
   'readingList.addItem.fromLibrary': 'من المكتبة',
-  'readingList.button.added': 'تمت الإضافة',
-}
+  'readingList.button.added': 'تمت الإضافة'
+};
