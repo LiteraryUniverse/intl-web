@@ -8,7 +8,7 @@ export default {
   'events.details.image': 'תמונת האירוע',
   'events.details.description': 'תיאור האירוע / תכנית',
   'events.details.url': 'קישור לפרטים נוספים',
-  'events.details.virtualLink': "קישור למיקום וירטואלי (לדוגמה Zoom, Google Meets וכו')",
+  'events.details.virtualLink': 'קישור למיקום וירטואלי (לדוגמה Zoom, Google Meets וכו\')',
   'events.details.address': 'כתובת המקום',
   'events.details.startsAt': 'תחילת האירוע',
   'events.details.endsAt': 'סיום האירוע',
@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'מידע נוסף',
   'event.visibilityShort.private': 'פרטי',
   'event.visibilityShort.public': 'ציבורי',
-  'event.visibilityShort.owner': 'בעלים',
-}
+  'event.visibilityShort.owner': 'בעלים'
+};
