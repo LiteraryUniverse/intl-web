@@ -27,8 +27,10 @@ export default {
   'externalShopping.buyLink.bookshop': 'Buy on Bookshop.org',
   'reader.accessibility.aria': 'Accessibility options',
   'reader.accessibility.toggleDyslexic': 'Toggle dyslexic font',
-  'reader.accessibility.toggleParagraphStripes': 'Toggle paragraphs background alteration',
-  'reader.accessibility.toggleParagraphHighlight': 'Toggle selected paragraph highlighting',
+  'reader.accessibility.toggleParagraphStripes':
+    'Toggle paragraphs background alteration',
+  'reader.accessibility.toggleParagraphHighlight':
+    'Toggle selected paragraph highlighting',
   'reader.accessibility.toggleRules': 'Toggle assistive ruler',
   'reader.nextRelease.scheduled':
     'Next chapter will come on {nextReleaseAt, date} at {nextReleaseAt, time}!',
@@ -43,5 +45,5 @@ export default {
   'reader.nextChapterEstimation.days':
     'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
   'reader.nextChapterEstimation.notEnoughChapters':
-    'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.',
+    'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
 }
