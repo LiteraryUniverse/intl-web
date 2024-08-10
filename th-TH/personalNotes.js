@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'สารานุกรม',
   'personalNotes.type.revTextBlock': 'บล็อคข้อความการแก้ไข',
   'personalNotes.chapter': 'ตอน',
-  'personalNotes.recentSearches': 'การค้นหาล่าสุด:',
-}
+  'personalNotes.recentSearches': 'การค้นหาล่าสุด:'
+};
