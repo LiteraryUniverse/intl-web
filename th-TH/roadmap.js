@@ -33,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'ดูสิ่งอื่น ๆ ที่เราวางแผนที่จะทำ',
   'roadmap.seeFinished': 'หากคุณต้องการศึกษาเพิ่มเติมเกี่ยวกับประวัติศาสตร์ของเรา เรามีภาพรวมที่ดีสำหรับคุณ',
   'roadmap.planned': 'วางแผนแล้ว',
-  'roadmap.finished': 'เสร็จแล้ว',
-}
+  'roadmap.finished': 'เสร็จแล้ว'
+};
