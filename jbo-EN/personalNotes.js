@@ -1,13 +1,12 @@
 export default {
   'personalNotes.personalNotes': 'cuksalcmi',
-  'personalNotes.chooseType': "rarna'o ckupau ckupau",
-  'personalNotes.storyNotes': "fanxrarna'o ckupau",
+  'personalNotes.chooseType': 'rarna\'o ckupau ckupau',
+  'personalNotes.storyNotes': 'fanxrarna\'o ckupau',
   'personalNotes.chapterNotes': 'lo ckupau cuksalcmi',
   'personalNotes.universeNotes': 'lo ckupau cmaci',
   'personalNotes.encyclopediaNotes': 'lo ckupau ckupau vlaste',
   'personalNotes.storyPersonalNotesHeading': 'lo ckupau ckupau vlaste be lo cukta',
-  'personalNotes.encyclopediaPersonalNotesHeading':
-    'lo ckupau ckupau vlaste be lo ckupau ckupau vlaste',
+  'personalNotes.encyclopediaPersonalNotesHeading': 'lo ckupau ckupau vlaste be lo ckupau ckupau vlaste',
   'personalNotes.searchPersonalNotesHeading': 'ri ckupau ckupau vlaste ckupau',
   'personalNotes.goToStory': 'klama ro da',
   'personalNotes.goToChapter': 'klama lo ckupau',
@@ -23,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'ri ckupau ckupau se cmene',
   'personalNotes.type.revTextBlock': 'ri baktu kevna ckupau se cmene',
   'personalNotes.chapter': 'ckupau',
-  'personalNotes.recentSearches': 'ricfu ckupau bei',
-}
+  'personalNotes.recentSearches': 'ricfu ckupau bei'
+};
