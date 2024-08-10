@@ -22,5 +22,5 @@ export default {
     other {เรื่องและจักรวาล}
   } ในรายการอ่าน`,
   'readingList.addItem.fromLibrary': 'จากห้องสมุด',
-  'readingList.button.added': 'เพิ่มแล้ว',
-}
+  'readingList.button.added': 'เพิ่มแล้ว'
+};
