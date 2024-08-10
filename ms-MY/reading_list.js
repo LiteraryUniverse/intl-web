@@ -22,5 +22,5 @@ export default {
     other {cerita dan alam semesta}
   } ke dalam senarai bacaan.`,
   'readingList.addItem.fromLibrary': 'Dari perpustakaan',
-  'readingList.button.added': 'Ditambah',
-}
+  'readingList.button.added': 'Ditambah'
+};
