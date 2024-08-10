@@ -22,5 +22,5 @@ export default {
     other {историй и вселенных}
   } в список литературы.`,
   'readingList.addItem.fromLibrary': 'Из библиотеки',
-  'readingList.button.added': 'Добавлено',
-}
+  'readingList.button.added': 'Добавлено'
+};
