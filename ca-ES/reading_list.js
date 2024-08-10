@@ -22,5 +22,5 @@ export default {
     other {històries i universos}
   } a la llista de lectura.`,
   'readingList.addItem.fromLibrary': 'Des de la biblioteca',
-  'readingList.button.added': 'Afegit',
-}
+  'readingList.button.added': 'Afegit'
+};
