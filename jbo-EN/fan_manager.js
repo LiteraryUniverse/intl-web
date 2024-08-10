@@ -10,13 +10,17 @@ export default {
   'fanManager.state.rejected': 'Tosmabru',
   'fanManager.state.hidden': 'Relfuch limfa',
   'fanManager.publicComment': 'Limnazbi se labycreka',
-  'fanManager.publicComment.desc': "Platu worksien nappenzo jau burbeju tu'a ti po binxo fanri",
+  'fanManager.publicComment.desc': 'Platu worksien nappenzo jau burbeju tu\'a ti po binxo fanri',
   'fanManager.authorComment': 'Burbe vreji',
-  'fanManager.authorComment.desc': "Ti po binxo fanri cu do'u binxo vreji fe tu'a ti",
+  'fanManager.authorComment.desc': 'Ti po binxo fanri cu do\'u binxo vreji fe tu\'a ti',
   'fanManager.stateChange.approve': 'Binxo fanri ckolmei',
   'fanManager.stateChange.reject': 'Tosmabru fanri ckolmei',
   'fanManager.stateChange.hide': 'Relfuch fanri ckolmei',
   'fanManager.stateChange.unhide': 'Jansu fanri ckolmei',
-  'fanManager.fanFictionNotAllowed': "Binxo fanri ckeji cu na cuntu tu'a do nu casnu",
-  'fanManager.fanFiction.maxRating': "Banli di'a sornai be lo ckeji fanri be do",
-}
+  'fanManager.fanFictionNotAllowed': 'Binxo fanri ckeji cu na cuntu tu\'a do nu casnu',
+  'fanManager.fanFiction.maxRating': 'Banli di\'a sornai be lo ckeji fanri be do',
+  'fanManager.hidden.nothingFound': '.i fanri\'a pelji pa\'o na co\'a klina',
+  'fanManager.rejected.nothingFound': '.i fanri\'a pelji pa\'o na co\'a klina',
+  'fanManager.approved.nothingFound': '.i fanri\'a pelji pa\'o na co\'a klina',
+  'fanManager.submitted.nothingFound': 'No submitted fan arts found.'
+};
