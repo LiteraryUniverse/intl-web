@@ -23,5 +23,5 @@ export default {
   'fanManager.hidden.nothingFound': 'No hidden fan arts found.',
   'fanManager.rejected.nothingFound': 'No rejected fan arts found.',
   'fanManager.approved.nothingFound': 'No approved fan arts found.',
-  'fanManager.submitted.nothingFound': 'No submitted fan arts found.'
+  'fanManager.submitted.nothingFound': 'No submitted fan arts found.',
 }

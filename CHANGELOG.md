@@ -1,9 +1,11 @@
 # Changelog for languages
 
-## 2024-06-xx - V2.12.3
+## 2024-08-10 - V2.13.0
 
 * Added strings for new comments sorting
-* Update Meteor version from for the latest 3.0-rc.4
+* Update Meteor version to 3.0
+* Added courses language
+* Add Biome to align with formatting across the project 
 
 ## 2024-04-22 - v2.12.2
 

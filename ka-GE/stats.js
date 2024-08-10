@@ -27,9 +27,10 @@ export default {
   'stats.chapter.visitorsAndViews':
     'სულ მოსახერხებელი მომხმარებელი და ნახვები თავისუფლების მიხედვით',
   'stats.chapter.wordCount': 'სიტყვების რაოდენობა თითო თავისუფლებაში',
-  'stats.chapter.chartTooltipViews': `თემა {chapter, number}: {views, number} ნახვები`,
-  'stats.chapter.chartTooltipVisitors': `თემა {chapter, number}: {visitors, number} უნიკალური მომსახურებები`,
-  'stats.chapter.chartTooltipWordCount': `თემა {chapter, number}: {wordCount, number} სიტყვები`,
+  'stats.chapter.chartTooltipViews': 'თემა {chapter, number}: {views, number} ნახვები',
+  'stats.chapter.chartTooltipVisitors':
+    'თემა {chapter, number}: {visitors, number} უნიკალური მომსახურებები',
+  'stats.chapter.chartTooltipWordCount': 'თემა {chapter, number}: {wordCount, number} სიტყვები',
   'stats.totalHits': 'სულ ნახვები',
   'stats.totalVisitors': 'სულ უნიკალური მომხმარებელი',
   'stats.totalWords': 'სულ სიტყვები',
