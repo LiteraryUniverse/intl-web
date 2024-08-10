@@ -22,5 +22,5 @@ export default {
     other {tarinoille ja universumeille}
   } lisäämistä varten lukulistaan.`,
   'readingList.addItem.fromLibrary': 'Kirjastosta',
-  'readingList.button.added': 'Lisätty',
-}
+  'readingList.button.added': 'Lisätty'
+};
