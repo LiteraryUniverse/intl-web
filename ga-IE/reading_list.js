@@ -22,5 +22,5 @@ export default {
     other {scéalta agus saolta}
   } a chur leis an liosta léitheoireachta.`,
   'readingList.addItem.fromLibrary': 'Ón leabharlann',
-  'readingList.button.added': 'Curtha leis',
-}
+  'readingList.button.added': 'Curtha leis'
+};
