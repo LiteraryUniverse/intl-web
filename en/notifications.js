@@ -22,11 +22,13 @@ export default {
   'notification.workshopStoryStatus.toCancelled':
     'Your story {storyName} was automatically set to cancelled after one year of inactivity.',
   'notification.followingStoryStatus.toHiatus': '{storyName} is on hiatus.',
-  'notification.followingStoryStatus.toCancelled': '{storyName} has been cancelled.',
-  'notification.followingNewChapter.new': 'New chapter in {storyName} has been published!',
+  'notification.followingStoryStatus.toCancelled':
+    '{storyName} has been cancelled.',
+  'notification.followingNewChapter.new':
+    'New chapter in {storyName} has been published!',
   'notification.workshopStory.newComment': 'has commented on {storyName}', // Before this text will be the username of the user
   'notification.friendRequest': 'sent you a friend request.', // Before this text will be the username of the user
 
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story',
+  'notificationExtra.workshopStoryStatus.goToStory': 'Go to story'
 }
