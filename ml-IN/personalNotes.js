@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'എഞ്ചിക്കളേഡിയ എൻട്രി',
   'personalNotes.type.revTextBlock': 'പരിശീലന പഠന ബ്ലോക്ക്',
   'personalNotes.chapter': 'അദ്ധ്യായം',
-  'personalNotes.recentSearches': 'പുതിയ തിരയൽകൾ:',
-}
+  'personalNotes.recentSearches': 'പുതിയ തിരയൽകൾ:'
+};
