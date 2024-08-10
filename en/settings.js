@@ -1,6 +1,7 @@
 export default {
   'settings.biography': 'Biography',
-  'settings.biography.placeholder': 'A little bit about yourself to be shown on your profile.',
+  'settings.biography.placeholder':
+    'A little bit about yourself to be shown on your profile.',
   'settings.avatar.title': 'Avatar',
   'settings.avatar.own': 'Your avatar',
   'settings.avatar.upload': 'Select image',
@@ -27,7 +28,8 @@ export default {
   'settings.password.reset': 'Reset your password',
   'settings.password.resetSend':
     'E-mail with instructions on how to reset your password has been send!',
-  'settings.socialConnectTitle': 'Connect with your accounts from other services',
+  'settings.socialConnectTitle':
+    'Connect with your accounts from other services',
   'settings.socialDisconnect': 'Disconnect',
   'settings.socialConnect': 'Connect',
   'settings.loginWith': 'Login with {service}',
@@ -40,11 +42,13 @@ export default {
   'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
     there is no way of getting it back. Note that this might not automatically delete your published works,
     comments, etc. Please refer to Terms of Service for details.`,
-  'settings.delete.confirm': 'Just to make sure. Are you sure you want to delete your account?',
+  'settings.delete.confirm':
+    'Just to make sure. Are you sure you want to delete your account?',
   'settings.delete.cancel': "I don't want to delete my account",
   'settings.delete.submit': 'Delete my account',
   'settings.legal.title': 'User consent agreements',
-  'settings.legal.explained': 'Here you can manage your agreement to various legal documents.',
+  'settings.legal.explained':
+    'Here you can manage your agreement to various legal documents.',
   'settings.name.private': 'Name will be private',
   'settings.emailSubscriptions.title': 'E-mail notifications settings',
   'settings.emailSubscriptions.explain':
@@ -53,7 +57,8 @@ export default {
   'settings.profile': 'Profile settings',
   'settings.account': 'Account settings',
   'settings.legal.export.download': 'Download Your data',
-  'settings.legal.export.gathering': 'Gathering Your data... This might take a while.',
+  'settings.legal.export.gathering':
+    'Gathering Your data... This might take a while.',
   'settings.gender.title': 'Your sex',
   'settings.gender.usage':
     'This information will remain private. We use this data for platform analytics and in anonymized analytics to creators when you read their stories.',
@@ -66,8 +71,10 @@ export default {
     'We are legally obliged to inquire about your country in order to respond to government inquiries. We use this data for platform analytics and in anonymized analytics to creators when you read their stories. If you wish you can display this information on your profile.',
   'settings.country.public': 'Display your country publicly',
   'settings.country.select': 'Select your country',
-  'settings.emailSubscriptions.newsletterTech': 'Occasional newsletter from our developers',
-  'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
+  'settings.emailSubscriptions.newsletterTech':
+    'Occasional newsletter from our developers',
+  'settings.emailSubscriptions.newsletterFeatures':
+    'Information about new features',
   'settings.emailNotifications.title': 'Notifications',
   'settings.emailNotifications.pm': 'New messages',
   'settings.emailNotifications.newChapters': 'New chapters',
@@ -78,7 +85,8 @@ export default {
   'settings.theme.light': 'Light',
   'settings.theme.dark': 'Dark',
   'settings.links.title': 'Link to your other websites',
-  'settings.links.description': 'These links will be displayed on your profile page.',
+  'settings.links.description':
+    'These links will be displayed on your profile page.',
   'settings.links.website': 'Your personal website',
   'settings.links.social': 'Other websites',
   'settings.links.select': 'Select website to add',
@@ -93,7 +101,8 @@ export default {
     'Two-factor authentication with OTP code creates one-time password via authenticator applications (like Authy, Google/Microsoft Authenticator, etc.) that you enter on login.',
   'settings.2fa.otpModalAria': '2FA OTP method',
   'settings.2fa.otpAdd': 'Add 2FA OTP',
-  'settings.2fa.confirmCode': 'Code that shows in your authentication application',
+  'settings.2fa.confirmCode':
+    'Code that shows in your authentication application',
   'settings.2fa.svgAlt': 'QR code for authentication app',
   'settings.2fa.codeHeading':
     "If you can't scan QR code, you can manually enter the following code:",
@@ -124,7 +133,8 @@ export default {
   'settings.web3.unlink': 'Remove wallet',
   'settings.web3.linkingMessage':
     'Please confirm that you want to link your wallet to Literary Universe. Code: {code}',
-  'settings.web3.linkError': "This address is already listed in our database and can't assigned!",
+  'settings.web3.linkError':
+    "This address is already listed in our database and can't assigned!",
 
   // Reader settings
   'settings.reader.title': 'Reader settings',
@@ -135,11 +145,12 @@ export default {
   // Accessibility
   'settings.accessibility.title': 'Reader accessibility',
   'settings.accessibility.openDyslexic': 'Use OpenDyslexic font',
-  'settings.accessibility.paragraphStripes': 'Alternate in paragraph background color',
+  'settings.accessibility.paragraphStripes':
+    'Alternate in paragraph background color',
   'settings.accessibility.paragraphHighlighting':
     'Highlight the current paragraph that you are hovering over',
   'settings.accessibility.ruler': 'Attach a ruler to the mouse',
 
   'settings.tab.legal': 'Legal documents',
-  'settings.tab.exportDelete': 'Export data & delete account',
+  'settings.tab.exportDelete': 'Export data & delete account'
 }
