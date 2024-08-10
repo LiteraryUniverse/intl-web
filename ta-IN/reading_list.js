@@ -22,5 +22,5 @@ export default {
     other {கதைகள் மற்றும் பரம்பரைகள்}
   } சேர்க்க மாடல்.`,
   'readingList.addItem.fromLibrary': 'நூலகத்திலிருந்து',
-  'readingList.button.added': 'சேர்க்கப்பட்டது',
-}
+  'readingList.button.added': 'சேர்க்கப்பட்டது'
+};
