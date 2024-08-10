@@ -22,5 +22,5 @@ export default {
     other {ಕಥೆಗಳು ಮತ್ತು ಬ್ರಹ್ಮಾಂಡಗಳು}
   } ಓದುಗರ ಪಟ್ಟಿಗೆ ಸೇರಿಸಲು.`,
   'readingList.addItem.fromLibrary': 'ಗ್ರಂಥಾಲಯದಿಂದ',
-  'readingList.button.added': 'ಸೇರಿಸಲಾಗಿದೆ',
-}
+  'readingList.button.added': 'ಸೇರಿಸಲಾಗಿದೆ'
+};
