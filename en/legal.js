@@ -11,5 +11,5 @@ export default {
   'legal.modal.pleaseLogin': 'Please login.',
   'legal.publicationAgreements': 'Publication agreements',
   'legal.generalPublishingAgreement': 'General Publishing Agreement',
-  'legal.documentsFor': 'Legal documents for {workTitle}',
+  'legal.documentsFor': 'Legal documents for {workTitle}'
 }
