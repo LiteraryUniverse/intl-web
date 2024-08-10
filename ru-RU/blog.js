@@ -1,22 +1,21 @@
 export default {
-  'blog.noneMsg': `У вас пока нет {type, select,
+    'blog.noneMsg': `У вас пока нет {type, select,
     organization {какого-либо блога}
     universe {блога для вашей вселенной}
     user {блога}
     other {}
   }.`,
-  'blog.create': 'Создать новый блог',
-  'blog.settings': `Настройки {type, select,
+    'blog.create': 'Создать новый блог',
+    'blog.settings': `Настройки {type, select,
     org {блога}
     universe {страницы вселенной}
     user {блога}
     other {}
   }`,
-  'blog.description': 'Ознакомление к блогом',
-  'blog.theme': 'Тема',
-  'blog.theme.info':
-    'Настроив тему, вы сможете изменить внешний вид страницы. На данный момент эта функция не готова.',
-  'blog.posts.total': `В этом блоге {total, plural,
+    'blog.description': 'Ознакомление к блогом',
+    'blog.theme': 'Тема',
+    'blog.theme.info': 'Настроив тему, вы сможете изменить внешний вид страницы. На данный момент эта функция не готова.',
+    'blog.posts.total': `В этом блоге {total, plural,
     one {одна публикация}
     few {# публикации}
     many {# публикаций}
@@ -35,7 +34,7 @@ export default {
     fanfiction {Фанфики}
     other {}
   }`,
-  'blog.social.sameAsMain': `Социальные ссылки такие же, как установлены в {type, select,
+    'blog.social.sameAsMain': `Социальные ссылки такие же, как установлены в {type, select,
     organization {настройках организации}
     user {профиле пользователя}
     other {}
