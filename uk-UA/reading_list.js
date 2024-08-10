@@ -22,5 +22,5 @@ export default {
     other {історій та всесвітів}
   } до списку для читання.`,
   'readingList.addItem.fromLibrary': 'З бібліотеки',
-  'readingList.button.added': 'Додано',
-}
+  'readingList.button.added': 'Додано'
+};
