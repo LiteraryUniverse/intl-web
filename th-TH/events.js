@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'ส่วนตัว',
   'event.visibilityShort.public': 'สาธารณะ',
-  'event.visibilityShort.owner': 'เจ้าของ',
-}
+  'event.visibilityShort.owner': 'เจ้าของ'
+};
