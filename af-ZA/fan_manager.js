@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Verwerp',
   'fanManager.state.hidden': 'Versteek',
   'fanManager.publicComment': 'Publieke kommentaar',
-  'fanManager.publicComment.desc':
-    'Hierdie teks sal op die publieke bladsy vertoon word as u amptelike kommentaar oor hierdie kuns.',
+  'fanManager.publicComment.desc': 'Hierdie teks sal op die publieke bladsy vertoon word as u amptelike kommentaar oor hierdie kuns.',
   'fanManager.authorComment': 'Kommentaar vir die skrywer',
-  'fanManager.authorComment.desc':
-    "Dit is 'n private opmerking van u aan die skrywer van hierdie kuns.",
+  'fanManager.authorComment.desc': 'Dit is \'n private opmerking van u aan die skrywer van hierdie kuns.',
   'fanManager.stateChange.approve': 'Keur fan-kuns goed',
   'fanManager.stateChange.reject': 'Verwerp fan-kuns',
   'fanManager.stateChange.hide': 'Versteek fan-kuns',
   'fanManager.stateChange.unhide': 'Maak fan-kuns sigbaar',
   'fanManager.fanFictionNotAllowed': 'Fan-fiksie word nie toegelaat nie as gevolg van u lisensie.',
   'fanManager.fanFiction.maxRating': 'Maksimum gradering van vertoonde fan-fiksie.',
-}
+  'fanManager.hidden.nothingFound': 'Geen verborge fan kunswerke gevind nie.',
+  'fanManager.rejected.nothingFound': 'Geen afgekeurde fan kunswerke gevind nie.',
+  'fanManager.approved.nothingFound': 'Geen goedgekeurde fan kunswerke gevind nie.',
+  'fanManager.submitted.nothingFound': 'Geen ingedien fan kunswerke gevind nie.'
+};
