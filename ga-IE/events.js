@@ -33,10 +33,8 @@ export default {
     organization {members of your organization}
     other {you and the people you invite}
   } can see this event`,
-  'events.visibility.private':
-    'Príobháideach - ní féidir le daoine ach tú cuireadh a fháil chun an imeacht a fheiceáil',
-  'events.inviting':
-    'An féidir le daoine a fheiceáil an ócáid seo cuireadh a thabhairt do dhaoine eile?',
+  'events.visibility.private': 'Príobháideach - ní féidir le daoine ach tú cuireadh a fháil chun an imeacht a fheiceáil',
+  'events.inviting': 'An féidir le daoine a fheiceáil an ócáid seo cuireadh a thabhairt do dhaoine eile?',
   'events.administration': 'Riarachán Imeachtaí',
   'events.create.title': 'Cruthaigh ócáid nua',
   'events.hostedBy': 'Á hóstáil ag {hostName}',
@@ -44,5 +42,5 @@ export default {
   'events.moreInfo': 'Tuilleadh eolais',
   'event.visibilityShort.private': 'Príobháideach',
   'event.visibilityShort.public': 'Poiblí',
-  'event.visibilityShort.owner': 'Úinéir',
-}
+  'event.visibilityShort.owner': 'Úinéir'
+};
