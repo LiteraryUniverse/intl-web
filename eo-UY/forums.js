@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Ebligi forumon',
   'forums.archive': 'Arkivi forumon',
-  'forums.archive.explained':
-    'Arĥivado de la forumo malpermesos uzantojn afiŝi pluajn enhavojn, sed ĝi restos videbla.',
+  'forums.archive.explained': 'Arĥivado de la forumo malpermesos uzantojn afiŝi pluajn enhavojn, sed ĝi restos videbla.',
   'forums.archive.success': 'La forumo estis arĥivita',
   'forums.unArchive': 'Reaktivigi la forumojn',
   'forums.unArchive.success': 'La forumo estis reaktivigita!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'Nomo de kategorio',
   'forums.category.slug': 'Parto de la URL por SEO',
   'forums.category.settings': 'Agordoj de la kategorio',
-  'forums.category.language':
-    'Limigi montrado de ĉi tiu kategorio al la jena lingvo. Lasu malplena se vi volas montri la kategorion en ĉiuj lingvoj.',
-  'forums.category.intlNameDescription':
-    'Ni havas lokajn titolojn de komunaj kategorinomoj por via elekto, tiel ke la kategorio povas esti havebla en ĉiuj subtenataj lingvoj.',
+  'forums.category.language': 'Limigi montrado de ĉi tiu kategorio al la jena lingvo. Lasu malplena se vi volas montri la kategorion en ĉiuj lingvoj.',
+  'forums.category.intlNameDescription': 'Ni havas lokajn titolojn de komunaj kategorinomoj por via elekto, tiel ke la kategorio povas esti havebla en ĉiuj subtenataj lingvoj.',
   'forums.thread.new': 'Nova fadeno',
   'forums.thread.delete': 'Forigi fadenon',
   'forums.post.new': 'Nova skribaĵo',
-  'forums.archived.forum':
-    'Ĉi tiu forumo estis arĥivita je {archivedAt, date, long}. Vi ankoraŭ povas vidi la forumojn, sed vi ne plu povas krei novan enhavon.',
+  'forums.archived.forum': 'Ĉi tiu forumo estis arĥivita je {archivedAt, date, long}. Vi ankoraŭ povas vidi la forumojn, sed vi ne plu povas krei novan enhavon.',
   'forums.category.archive': 'Arĥivi kategorion',
-  'forums.category.archiveExplained':
-    'Kategorio sen fadenoj estos forigita, dum kategorioj kun enhavo malpermesos kreadon de novaj fadenoj.',
+  'forums.category.archiveExplained': 'Kategorio sen fadenoj estos forigita, dum kategorioj kun enhavo malpermesos kreadon de novaj fadenoj.',
   'forums.category.reactivate': 'Reaktivigi kategorion',
   'forums.category.isVotable': 'Permesi al uzantoj ŝanĝi voĉdoni fadenojn',
-  'forums.category.titleIsGlobal':
-    'Ĉi tiu kategorio titolo estos montrata en la lingvo de la uzanto se ni ĝin subtenas.',
+  'forums.category.titleIsGlobal': 'Ĉi tiu kategorio titolo estos montrata en la lingvo de la uzanto se ni ĝin subtenas.',
   'forums.category.languageLimited': 'Ĉi tiu kategorio montriĝos nur al uzantoj en ĉi tiu lingvo.',
   'forums.threadsCounter': 'Entuta nombro de temoj kaj diskutoj',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Permesi aliri nur al registritaj uzantoj',
   'forums.settings.accessControls': 'Alirkontroloj',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Ĉi tiu forumo estas alirebla nur al registritaj uzantoj.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Ĉi tiu forumo estas alirebla nur al registritaj uzantoj.',
   'forums.noThreads': 'Nenio por vidi ĉi tie. Estas via decido komenci konversacion.',
   'forums.noPosts': 'Neniu ankoraŭ respondis. Estu la unua!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {respondo}
     other {respondoj}
   }`,
-  'forums.thread.createdAt': 'Kreita je {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Kreita je {createdAt, date, medium}'
+};
