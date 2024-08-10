@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'ფორუმის ჩართვა',
   'forums.archive': 'ფორუმის არქივირება',
-  'forums.archive.explained':
-    'Archiving forum will prevent users from posting any further content, but it will remain visible.',
+  'forums.archive.explained': 'Archiving forum will prevent users from posting any further content, but it will remain visible.',
   'forums.archive.success': 'Forum has been archived',
   'forums.unArchive': 'Re-activate forums',
   'forums.unArchive.success': 'Forum has been re-activated!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'Category name',
   'forums.category.slug': 'SEO url part',
   'forums.category.settings': 'Category settings',
-  'forums.category.language':
-    'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
-  'forums.category.intlNameDescription':
-    'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
+  'forums.category.language': 'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
+  'forums.category.intlNameDescription': 'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
   'forums.thread.new': 'New thread',
   'forums.thread.delete': 'Delete thread',
   'forums.post.new': 'ახალი პოსტი',
-  'forums.archived.forum':
-    'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
+  'forums.archived.forum': 'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
   'forums.category.archive': 'Archive category',
-  'forums.category.archiveExplained':
-    'კატეგორია, რომელსაც არ აქვს ნაგარავი, წაიშალება, ხოლო კატეგორიები, რომლებიც შიგთავსს აქვს, არაავრცელია ახალი ნაგარავის შექმნას.',
+  'forums.category.archiveExplained': 'კატეგორია, რომელსაც არ აქვს ნაგარავი, წაიშალება, ხოლო კატეგორიები, რომლებიც შიგთავსს აქვს, არაავრცელია ახალი ნაგარავის შექმნას.',
   'forums.category.reactivate': 'Re-activate category',
   'forums.category.isVotable': 'Allow users to up/down vote threads',
-  'forums.category.titleIsGlobal':
-    'ეს კატეგორიის სათაური გამოჩნდება მომხმარებლის ენაზე, თუ მხარეს მხარეთაა მხარი.',
+  'forums.category.titleIsGlobal': 'ეს კატეგორიის სათაური გამოჩნდება მომხმარებლის ენაზე, თუ მხარეს მხარეთაა მხარი.',
   'forums.category.languageLimited': 'ეს კატეგორია მხოლოდ ამ ენის მომხმარებლებთან გამოჩნდება.',
   'forums.threadsCounter': 'თემების საერთო რაოდენობა',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Only allow access to registered users',
   'forums.settings.accessControls': 'წვდომის კონტროლები',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'ამ ფორუმს ხელმისაწვდომია მხოლოდ რეგისტრირებულ მომხმარებლებს.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'ამ ფორუმს ხელმისაწვდომია მხოლოდ რეგისტრირებულ მომხმარებლებს.',
   'forums.noThreads': 'აქ არაფერია ნაჩვენები. თქვენ ხართ იმას მიმართავი, რომ დაიწყოთ კონვერსაცია.',
   'forums.noPosts': 'არავისთვის არაფერი უპასუხარია. იყავით პირველი!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {პასუხი}
     other {პასუხები}
   }`,
-  'forums.thread.createdAt': 'შექმნილია {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'შექმნილია {createdAt, date, medium}'
+};
