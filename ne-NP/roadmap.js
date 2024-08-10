@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'हामी भविष्यमा यस सुविधाको विकास गर्ने योजना बनाएका छौं।',
   'roadmap.item.inProgress': 'यो सुविधाको विकास थालेको छ {startedAt, date}.',
   'roadmap.item.inBeta': 'यो सुविधा बेटा मा आएको छ {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'यो सुविधा स्टोरीटेलर सदस्यहरूलाई पूर्वावलोकनमा उपलब्ध भएको छ {previewAt, date}.',
+  'roadmap.item.inPreview': 'यो सुविधा स्टोरीटेलर सदस्यहरूलाई पूर्वावलोकनमा उपलब्ध भएको छ {previewAt, date}.',
   'roadmap.item.inGa': 'यो सुविधा साधारण रूपमा उपलब्ध भएको छ {gaAt, date}.',
   'roadmap.item.originalIssue': 'यो सुविधालाई मूलतः हाम्रा प्रयोगकर्ताहरूद्वारा सुझाव गरिएको थियो।',
   'roadmap.eta.mapTitle': `{quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': '{time, date, ::MMMM ::yyyy}मा समाप्त भएको',
   'roadmap.back': 'वापतस्थान योजनामा फर्किनुहोस्',
   'roadmap.seeBacklog': 'हाम्रो इतिहासमा अरु के के गर्ने योजना छ तपाईंलाई हेर्नुहोस्',
-  'roadmap.seeFinished':
-    'यदि तपाईंलाई हाम्रो इतिहासमा थप कुरामा जान लाग्छ भने, हाम्रो सुविधाको राम्रो अवलोकन तपाईंका लागि तयार छ',
+  'roadmap.seeFinished': 'यदि तपाईंलाई हाम्रो इतिहासमा थप कुरामा जान लाग्छ भने, हाम्रो सुविधाको राम्रो अवलोकन तपाईंका लागि तयार छ',
   'roadmap.planned': 'योजनामा बनाइएको',
-  'roadmap.finished': 'समाप्त भएको',
-}
+  'roadmap.finished': 'समाप्त भएको'
+};
