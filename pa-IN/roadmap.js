@@ -19,7 +19,7 @@ export default {
   'roadmap.item.inProgress': 'ਫੀਚਰ ਦਾ ਵਿਕਾਸ ਸ਼ੁਰੂ ਹੋ ਗਿਆ ਹੈ {startedAt, date}.',
   'roadmap.item.inBeta': 'ਇਸ ਫੀਚਰ ਨੇ ਬੀਟਾ ਵਿੱਚ ਦਾਖਲ ਕੀਤਾ ਹੈ {betaAt, date}.',
   'roadmap.item.inPreview': 'ਇਹ ਫੀਚਰ ਸਟੋਰੀਟੈਲਰ ਗਾਹਕਾਂ ਲਈ ਉਪਲਬਧ ਹੋ ਗਿਆ ਹੈ {previewAt, date}.',
-  'roadmap.item.inGa': "ਇਹ ਫੀਚਰ ਸਧਾਰਨ ਤੌਰ 'ਤੇ ਉਪਲਬਧ ਹੋ ਗਿਆ ਹੈ {gaAt, date}.",
+  'roadmap.item.inGa': 'ਇਹ ਫੀਚਰ ਸਧਾਰਨ ਤੌਰ \'ਤੇ ਉਪਲਬਧ ਹੋ ਗਿਆ ਹੈ {gaAt, date}.',
   'roadmap.item.originalIssue': 'ਇਹ ਫੀਚਰ ਸਾਡੇ ਯੂਜ਼ਰਾਂ ਦੁਆਰਾ ਪਹਿਲਾਂ ਸੁਝਾਈ ਗਈ ਸੀ।',
   'roadmap.eta.mapTitle': `ਯੋਜਨਾ ਬਣਾਉਣ ਲਈ {quarter, select,
     Q1 {ਕਵਰਟਰ}
@@ -33,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'ਸਾਨੂੰ ਕੀ ਕੀ ਕਰਨ ਦੀ ਯੋਜਨਾ ਹੈ ਉਸ ਨੂੰ ਦੇਖੋ',
   'roadmap.seeFinished': 'ਜੇ ਤੁਸੀਂ ਸਾਡੇ ਇਤਿਹਾਸ ਵਿੱਚ ਵਧੇਰੇ ਖੋਜਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਸਾਡੇ ਕੋਲ ਇੱਕ ਸੁੰਦਰ ਜਾਣਕਾਰੀ ਸਮੱਗਰੀ ਹੈ',
   'roadmap.planned': 'ਯੋਜਨਾ ਬਣਾਈ ਗਈ ਹੈ',
-  'roadmap.finished': 'ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ',
-}
+  'roadmap.finished': 'ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ'
+};
