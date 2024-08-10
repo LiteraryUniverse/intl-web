@@ -22,5 +22,5 @@ export default {
     other {סיפורים ויחידות יישות}
   } לרשימת הקריאה.`,
   'readingList.addItem.fromLibrary': 'מספרייה',
-  'readingList.button.added': 'נוסף',
-}
+  'readingList.button.added': 'נוסף'
+};
