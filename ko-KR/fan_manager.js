@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': '팬 아트 표시',
   'fanManager.fanFictionNotAllowed': '라이선스의 특성상 팬 소설은 허용되지 않습니다.',
   'fanManager.fanFiction.maxRating': '표시되는 팬 소설의 최대 등급.',
-}
+  'fanManager.hidden.nothingFound': '숨겨진 팬 아트를 찾을 수 없습니다.',
+  'fanManager.rejected.nothingFound': '거부된 팬 아트를 찾을 수 없습니다.',
+  'fanManager.approved.nothingFound': '승인된 팬 아트를 찾을 수 없습니다.',
+  'fanManager.submitted.nothingFound': '제출된 팬 아트를 찾을 수 없습니다.'
+};
