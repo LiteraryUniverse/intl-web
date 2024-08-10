@@ -11,8 +11,7 @@ export default {
   'personalNotes.goToStory': 'कथेत जा',
   'personalNotes.goToChapter': 'अध्यायात जा',
   'personalNotes.goToEncyclopedia': 'यूनिव्हर्सच्या ज्ञानकोशात जा',
-  'personalNotes.goToEncEntry':
-    'प्रवेशक  उंची <span class="notranslate">0</span>  <span class="notranslate">1</span>',
+  'personalNotes.goToEncEntry': 'प्रवेशक  उंची <span class="notranslate">0</span>  <span class="notranslate">1</span>',
   'personalNotes.closeDropdown': 'ड्रॉपडाउन बंद करा',
   'personalNotes.chapterName': 'अध्याय {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} वैयक्तिक टिप्पण्या',
@@ -23,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'ज्ञानकोश प्रविष्टी',
   'personalNotes.type.revTextBlock': 'संसोधन मजकूर ब्लॉक',
   'personalNotes.chapter': 'अध्याय',
-  'personalNotes.recentSearches': 'हालचालीत शोध:',
-}
+  'personalNotes.recentSearches': 'हालचालीत शोध:'
+};
