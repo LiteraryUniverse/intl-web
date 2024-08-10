@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Túto funkciu plánujeme v budúcnosti rozvíjať.',
   'roadmap.item.inProgress': 'Vývoj funkcie sa začal {startedAt, date}.',
   'roadmap.item.inBeta': 'Táto funkcia vstúpila do beta verzie dňa {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Táto funkcia bola sprístupnená predplatiteľom služby Storyteller dňa {previewAt, date}.',
+  'roadmap.item.inPreview': 'Táto funkcia bola sprístupnená predplatiteľom služby Storyteller dňa {previewAt, date}.',
   'roadmap.item.inGa': 'Táto funkcia je všeobecne dostupná od {gaAt, date}.',
   'roadmap.item.originalIssue': 'Túto funkciu pôvodne navrhli naši používatelia.',
   'roadmap.eta.mapTitle': `Planned for {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Ukončené v {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Späť na plán',
   'roadmap.seeBacklog': 'Pozrite sa, čo ďalšie plánujeme urobiť',
-  'roadmap.seeFinished':
-    'Ak by ste chceli preniknúť do našej histórie, máme pre vás pripravený pekný prehľad',
+  'roadmap.seeFinished': 'Ak by ste chceli preniknúť do našej histórie, máme pre vás pripravený pekný prehľad',
   'roadmap.planned': 'Plánované',
-  'roadmap.finished': 'Ukončené',
-}
+  'roadmap.finished': 'Ukončené'
+};
