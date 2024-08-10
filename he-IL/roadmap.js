@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'אנחנו מתכננים לפתח את התכונה הזו בעתיד.',
   'roadmap.item.inProgress': 'פיתוח התכונה החל {startedAt, date}.',
   'roadmap.item.inBeta': 'התכונה הזו נכנסה לשלב הבטא בתאריך {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'התכונה הזו הפכה זמינה למנויים של Storyteller בתאריך {previewAt, date}.',
+  'roadmap.item.inPreview': 'התכונה הזו הפכה זמינה למנויים של Storyteller בתאריך {previewAt, date}.',
   'roadmap.item.inGa': 'התכונה הזו הפכה זמינה באופן כללי בתאריך {gaAt, date}.',
   'roadmap.item.originalIssue': 'התכונה הזו הוצעה מקורית על ידי המשתמשים שלנו.',
   'roadmap.eta.mapTitle': `מתוכנן ל {quarter, select,
@@ -34,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'בדוק מה עוד אנחנו מתכננים לעשות',
   'roadmap.seeFinished': 'אם אתה רוצה לחקור עוד על ההיסטוריה שלנו, יש לנו סקירה נחמדה מוכנה עבורך',
   'roadmap.planned': 'מתוכנן',
-  'roadmap.finished': 'סיים',
-}
+  'roadmap.finished': 'סיים'
+};
