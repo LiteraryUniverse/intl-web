@@ -1,6 +1,5 @@
 export default {
-  'roadmap.ariaTimeOptions':
-    'Seleccions per a elements de la planificació basades en el seu estat.',
+  'roadmap.ariaTimeOptions': 'Seleccions per a elements de la planificació basades en el seu estat.',
   'roadmap.state.backlog': 'Llista de tasques pendents',
   'roadmap.state.inprogress': 'En curs',
   'roadmap.state.preview': 'Visualització prèvia',
@@ -17,15 +16,11 @@ export default {
   'roadmap.backlog': 'Llista de tasques pendents',
   'roadmap.history': 'Història de desenvolupament',
   'roadmap.item.inBacklog': 'Estem planejant desenvolupar aquesta funcionalitat en el futur.',
-  'roadmap.item.inProgress':
-    'El desenvolupament de la funcionalitat ha començat {startedAt, date}.',
+  'roadmap.item.inProgress': 'El desenvolupament de la funcionalitat ha començat {startedAt, date}.',
   'roadmap.item.inBeta': 'Aquesta funcionalitat ha entrat en beta el {betaAt, date}.',
-  'roadmap.item.inPreview':
-    "Aquesta funcionalitat s'ha posat a disposició dels subscriptors de Storyteller el {previewAt, date}.",
-  'roadmap.item.inGa':
-    'Aquesta funcionalitat ja està disponible per a tots els usuaris el {gaAt, date}.',
-  'roadmap.item.originalIssue':
-    'Aquesta funcionalitat va ser suggerida originalment pels nostres usuaris.',
+  'roadmap.item.inPreview': 'Aquesta funcionalitat s\'ha posat a disposició dels subscriptors de Storyteller el {previewAt, date}.',
+  'roadmap.item.inGa': 'Aquesta funcionalitat ja està disponible per a tots els usuaris el {gaAt, date}.',
+  'roadmap.item.originalIssue': 'Aquesta funcionalitat va ser suggerida originalment pels nostres usuaris.',
   'roadmap.eta.mapTitle': `Planejat per al {quarter, select,
     Q1 {T1}
     Q2 {T2}
@@ -36,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Acabat el {time, date, ::MMMM ::yyyy}.',
   'roadmap.back': 'Torna a la planificació',
   'roadmap.seeBacklog': 'Comprova què més tenim planejat',
-  'roadmap.seeFinished':
-    "Si t'agrada conèixer més detalls de la nostra història, tenim una visió general preparada per a tu",
+  'roadmap.seeFinished': 'Si t\'agrada conèixer més detalls de la nostra història, tenim una visió general preparada per a tu',
   'roadmap.planned': 'Planejat',
-  'roadmap.finished': 'Acabat',
-}
+  'roadmap.finished': 'Acabat'
+};
