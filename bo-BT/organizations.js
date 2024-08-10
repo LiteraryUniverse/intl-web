@@ -32,31 +32,28 @@ export default {
     allProperties {display to public on all properties}
     other {the organization}
   }`,
-  'org.members.invited': 'Invited members',
-  'org.members.list': 'སྤྱི་ཚོགས་པའི་བརྡ་དོན།',
-  'org.invitesTileNotice':
-    'You have been invited to {count, number} {count, plural, one {organization} other {organizations}}',
-  'org.invitePage.title': 'Invitations to organizations',
-  'org.invitePage.invitedAt': 'You have been invited on {invitedAt, date, short}.',
-  'org.invitePage.ignoring':
-    "You are currently ignoring this invitation, which means that it is still active, but doesn't bothers with notifications.",
-  'org.invitePage.expiresAt':
-    'This invitation will expire at {expiresAt, date, short} {expiresAt, time}',
-  'org.invitePage.accept': 'Join organization',
-  'org.invitePage.reject': 'Reject invitation',
-  'org.invitePage.ignore': 'Ignore for now',
-  'org.leaveOrg.title': 'Leave organization',
-  'org.leaveOrg.confirm':
-    'This is a destructive action. Once you leave you will loose all access to this organization. Are you sure you want to leave the organization?',
-  'org.confirmRemove.aria': 'Confirm user removal',
-  'org.confirmRemove.confirm':
-    'Are you sure that you want to remove {username} from {organization}?',
-  'org.confirmRemove.remove': 'Remove user',
-  'org.mainBlog': 'Main blog',
-  'org.teams': 'Teams',
-  'org.teams.total': 'Total teams: {totalTeams, number}',
-  'org.teams.create': 'Create a new team',
-  'org.teams.settings': 'Team settings',
-  'org.workshop.ownerUser': 'Not a guild work',
-  'org.workshop.caption': 'Guild ownership',
-}
+    'org.members.invited': 'Invited members',
+    'org.members.list': 'སྤྱི་ཚོགས་པའི་བརྡ་དོན།',
+    'org.invitesTileNotice': 'You have been invited to {count, number} {count, plural, one {organization} other {organizations}}',
+    'org.invitePage.title': 'Invitations to organizations',
+    'org.invitePage.invitedAt': 'You have been invited on {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'You are currently ignoring this invitation, which means that it is still active, but doesn\'t bothers with notifications.',
+    'org.invitePage.expiresAt': 'This invitation will expire at {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Join organization',
+    'org.invitePage.reject': 'Reject invitation',
+    'org.invitePage.ignore': 'Ignore for now',
+    'org.leaveOrg.title': 'Leave organization',
+    'org.leaveOrg.confirm': 'This is a destructive action. Once you leave you will loose all access to this organization. Are you sure you want to leave the organization?',
+    'org.confirmRemove.aria': 'Confirm user removal',
+    'org.confirmRemove.confirm': 'Are you sure that you want to remove {username} from {organization}?',
+    'org.confirmRemove.remove': 'Remove user',
+    'org.mainBlog': 'Main blog',
+    'org.teams': 'Teams',
+    'org.teams.total': 'Total teams: {totalTeams, number}',
+    'org.teams.create': 'Create a new team',
+    'org.teams.settings': 'Team settings',
+    'org.workshop.ownerUser': 'Not a guild work',
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'སྙན་ཞུས་དཔེ་སྐྲུན།',
+    'org.title': 'སྙན་ཞུས།'
+};

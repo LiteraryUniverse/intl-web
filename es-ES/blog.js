@@ -40,22 +40,21 @@ export default {
     user {perfil de usuario}
     other {}
   }`,
-  'blog.social.website': 'Sitio web oficial',
-  'blog.settings.universeSettings':
-    'Los blogs del universo se integran en páginas del universo y toman su configuración de la del universo.',
-  'blog.settings.organizationSettings':
-    'Los blogs de la organización se integran en las páginas de la organización.',
-  'blogs.lu': 'Blogs oficiales de Literary Universe',
-  'blogs.featured': 'Blogs destacados',
-  'blogs.new': 'Blogs más recientes',
-  'blogs.title': 'Blogs de Literary Universe',
-  'blogs.description': 'Lista de blogs en la plataforma de Literary Universe.',
-  'blogs.visit': 'Visitar blog',
-  'blog.settingsAria': 'Configuración de las categorías del blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Foro',
-  'blog.post.introText': 'Introducción',
-  'blog.post.writtenBy': 'Escrito por {usernameDisplay}',
-  'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}',
-  'blog.posts.recent': 'Publicaciones recientes',
-}
+    'blog.social.website': 'Sitio web oficial',
+    'blog.settings.universeSettings': 'Los blogs del universo se integran en páginas del universo y toman su configuración de la del universo.',
+    'blog.settings.organizationSettings': 'Los blogs de la organización se integran en las páginas de la organización.',
+    'blogs.lu': 'Blogs oficiales de Literary Universe',
+    'blogs.featured': 'Blogs destacados',
+    'blogs.new': 'Blogs más recientes',
+    'blogs.title': 'Blogs de Literary Universe',
+    'blogs.description': 'Lista de blogs en la plataforma de Literary Universe.',
+    'blogs.visit': 'Visitar blog',
+    'blog.settingsAria': 'Configuración de las categorías del blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Foro',
+    'blog.post.introText': 'Introducción',
+    'blog.post.writtenBy': 'Escrito por {usernameDisplay}',
+    'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}',
+    'blog.posts.recent': 'Publicaciones recientes',
+    'blog.statsPage': 'Estadísticas del blog'
+};

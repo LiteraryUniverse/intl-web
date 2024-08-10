@@ -41,22 +41,21 @@ export default {
     user {nastavení uživatelského profilu}
     other {}
   }`,
-  'blog.social.website': 'Oficiální stránky',
-  'blog.settings.universeSettings':
-    'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.',
-  'blog.settings.organizationSettings':
-    'Blog organizaci je integrován do veřejné organizační stránky.',
-  'blogs.lu': 'Oficiální blogy Literary Universe',
-  'blogs.featured': 'Doporučené blogy',
-  'blogs.new': 'Nejnovější blogy',
-  'blogs.title': 'Blogy Literary Universe',
-  'blogs.description': 'Blogy na Literary Universe platformě.',
-  'blogs.visit': 'Navštívit blog',
-  'blog.settingsAria': 'Kategorie nastavení pro blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Fórum',
-  'blog.post.introText': 'Úvodní odstavec',
-  'blog.post.writtenBy': 'Napsal {usernameDisplay}',
-  'blog.post.writtenByFor': 'Napsal {usernameDisplay} pro {publicationName}',
-  'blog.posts.recent': 'Poslední příspěvky',
-}
+    'blog.social.website': 'Oficiální stránky',
+    'blog.settings.universeSettings': 'Blog pro vesmír je integrován ve stránkách pro vesmír a základní nastavení jsou vzaty z nastavení vesmíru.',
+    'blog.settings.organizationSettings': 'Blog organizaci je integrován do veřejné organizační stránky.',
+    'blogs.lu': 'Oficiální blogy Literary Universe',
+    'blogs.featured': 'Doporučené blogy',
+    'blogs.new': 'Nejnovější blogy',
+    'blogs.title': 'Blogy Literary Universe',
+    'blogs.description': 'Blogy na Literary Universe platformě.',
+    'blogs.visit': 'Navštívit blog',
+    'blog.settingsAria': 'Kategorie nastavení pro blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Fórum',
+    'blog.post.introText': 'Úvodní odstavec',
+    'blog.post.writtenBy': 'Napsal {usernameDisplay}',
+    'blog.post.writtenByFor': 'Napsal {usernameDisplay} pro {publicationName}',
+    'blog.posts.recent': 'Poslední příspěvky',
+    'blog.statsPage': 'Statistiky blogu'
+};

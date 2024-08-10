@@ -32,31 +32,28 @@ export default {
     allProperties {el público en todas las propiedades}
     other {la organización}
   }`,
-  'org.members.invited': 'Invitar a miembros',
-  'org.members.list': 'Miembros de la organización',
-  'org.invitesTileNotice':
-    'Has sido invitado a {count, number} {count, plural, one {organización} other {organizaciones}}',
-  'org.invitePage.title': 'Invitaciones a organizaciones',
-  'org.invitePage.invitedAt': 'Has sido invitado el {invitedAt, date, short}.',
-  'org.invitePage.ignoring':
-    'Has ignorado esta invitación, lo que significa que sigue activa pero no debería aparecer en tus notificaciones.',
-  'org.invitePage.expiresAt':
-    'Esta invitación expirará el {expiresAt, date, short} {expiresAt, time}',
-  'org.invitePage.accept': 'Únete a la organización',
-  'org.invitePage.reject': 'Rechazar invitación',
-  'org.invitePage.ignore': 'Ignorar por ahora',
-  'org.leaveOrg.title': 'Dejar la organización',
-  'org.leaveOrg.confirm':
-    'Esta decisión es irreversible. Una vez que te vayas perderás todo el acceso a esta organización. ¿Estás seguro de que quieres dejar la organización?',
-  'org.confirmRemove.aria': 'Confirmar la eliminación del usuario',
-  'org.confirmRemove.confirm':
-    '¿Está seguro de que quiere eliminar a {username} de {organization}?',
-  'org.confirmRemove.remove': 'Eliminar usuario',
-  'org.mainBlog': 'Blog principal',
-  'org.teams': 'Equipos',
-  'org.teams.total': 'Equipos totales: {totalTeams, number}',
-  'org.teams.create': 'Crear un nuevo equipo',
-  'org.teams.settings': 'Configuración del equipo',
-  'org.workshop.ownerUser': 'No es una obra gremial',
-  'org.workshop.caption': 'Propiedad del gremio',
-}
+    'org.members.invited': 'Invitar a miembros',
+    'org.members.list': 'Miembros de la organización',
+    'org.invitesTileNotice': 'Has sido invitado a {count, number} {count, plural, one {organización} other {organizaciones}}',
+    'org.invitePage.title': 'Invitaciones a organizaciones',
+    'org.invitePage.invitedAt': 'Has sido invitado el {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'Has ignorado esta invitación, lo que significa que sigue activa pero no debería aparecer en tus notificaciones.',
+    'org.invitePage.expiresAt': 'Esta invitación expirará el {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Únete a la organización',
+    'org.invitePage.reject': 'Rechazar invitación',
+    'org.invitePage.ignore': 'Ignorar por ahora',
+    'org.leaveOrg.title': 'Dejar la organización',
+    'org.leaveOrg.confirm': 'Esta decisión es irreversible. Una vez que te vayas perderás todo el acceso a esta organización. ¿Estás seguro de que quieres dejar la organización?',
+    'org.confirmRemove.aria': 'Confirmar la eliminación del usuario',
+    'org.confirmRemove.confirm': '¿Está seguro de que quiere eliminar a {username} de {organization}?',
+    'org.confirmRemove.remove': 'Eliminar usuario',
+    'org.mainBlog': 'Blog principal',
+    'org.teams': 'Equipos',
+    'org.teams.total': 'Equipos totales: {totalTeams, number}',
+    'org.teams.create': 'Crear un nuevo equipo',
+    'org.teams.settings': 'Configuración del equipo',
+    'org.workshop.ownerUser': 'No es una obra gremial',
+    'org.workshop.caption': 'Propiedad del gremio',
+    'org.workshop.title': 'Taller de organizaciones',
+    'org.title': 'Organizaciones'
+};

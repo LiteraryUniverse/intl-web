@@ -39,22 +39,21 @@ export default {
     user {användarprofil}
     other {}
   }`,
-  'blog.social.website': 'Officiell webbplats',
-  'blog.settings.universeSettings':
-    'Universumsbloggar integreras i universumssidor med sina grundläggande inställningar tagna från universumsinställningar.',
-  'blog.settings.organizationSettings':
-    'Organisationsbloggar är integrerade i organisationsidorna.',
-  'blogs.lu': 'Officiella Litterärt Universum-bloggar',
-  'blogs.featured': 'Utvalda bloggar',
-  'blogs.new': 'Senaste bloggarna',
-  'blogs.title': 'Bloggar i Litterärt Universum',
-  'blogs.description': 'Lista över bloggar på Litterärt Universum-plattformen.',
-  'blogs.visit': 'Besök bloggen',
-  'blog.settingsAria': 'Inställningskategorier för bloggen',
-  'blog.settings.blog': 'Blogg',
-  'blog.settings.forum': 'Forum',
-  'blog.post.introText': 'Introduktionsstycke',
-  'blog.post.writtenBy': 'Skriven av {usernameDisplay}',
-  'blog.post.writtenByFor': 'Skrivs av {usernameDisplay} för {publicationName}',
-  'blog.posts.recent': 'Senaste inlägg',
-}
+    'blog.social.website': 'Officiell webbplats',
+    'blog.settings.universeSettings': 'Universumsbloggar integreras i universumssidor med sina grundläggande inställningar tagna från universumsinställningar.',
+    'blog.settings.organizationSettings': 'Organisationsbloggar är integrerade i organisationsidorna.',
+    'blogs.lu': 'Officiella Litterärt Universum-bloggar',
+    'blogs.featured': 'Utvalda bloggar',
+    'blogs.new': 'Senaste bloggarna',
+    'blogs.title': 'Bloggar i Litterärt Universum',
+    'blogs.description': 'Lista över bloggar på Litterärt Universum-plattformen.',
+    'blogs.visit': 'Besök bloggen',
+    'blog.settingsAria': 'Inställningskategorier för bloggen',
+    'blog.settings.blog': 'Blogg',
+    'blog.settings.forum': 'Forum',
+    'blog.post.introText': 'Introduktionsstycke',
+    'blog.post.writtenBy': 'Skriven av {usernameDisplay}',
+    'blog.post.writtenByFor': 'Skrivs av {usernameDisplay} för {publicationName}',
+    'blog.posts.recent': 'Senaste inlägg',
+    'blog.statsPage': 'Bloggstatistik'
+};

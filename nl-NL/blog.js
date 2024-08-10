@@ -38,22 +38,21 @@ export default {
     user {gebruikersprofiel}
     other {}
   }`,
-  'blog.social.website': 'Officiële website',
-  'blog.settings.universeSettings':
-    "Universumblogs zijn geïntegreerd in universumpagina's met hun basisinstellingen overgenomen van universuminstellingen.",
-  'blog.settings.organizationSettings':
-    "Organisatieblogs zijn geïntegreerd in organisatiepagina's.",
-  'blogs.lu': 'Officiële Literaire Universum-blogs',
-  'blogs.featured': 'Aanbevolen blogs',
-  'blogs.new': 'Nieuwste blogs',
-  'blogs.title': 'Blogs van Literaire Universum',
-  'blogs.description': 'Lijst van blogs op het Literaire Universum platform.',
-  'blogs.visit': 'Bezoek blog',
-  'blog.settingsAria': 'Instellingen categorieën voor de blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Forum',
-  'blog.post.introText': 'Inleidende alinea',
-  'blog.post.writtenBy': 'Geschreven door {usernameDisplay}',
-  'blog.post.writtenByFor': 'Geschreven door {usernameDisplay} voor {publicationName}',
-  'blog.posts.recent': 'Recente berichten',
-}
+    'blog.social.website': 'Officiële website',
+    'blog.settings.universeSettings': 'Universumblogs zijn geïntegreerd in universumpagina\'s met hun basisinstellingen overgenomen van universuminstellingen.',
+    'blog.settings.organizationSettings': 'Organisatieblogs zijn geïntegreerd in organisatiepagina\'s.',
+    'blogs.lu': 'Officiële Literaire Universum-blogs',
+    'blogs.featured': 'Aanbevolen blogs',
+    'blogs.new': 'Nieuwste blogs',
+    'blogs.title': 'Blogs van Literaire Universum',
+    'blogs.description': 'Lijst van blogs op het Literaire Universum platform.',
+    'blogs.visit': 'Bezoek blog',
+    'blog.settingsAria': 'Instellingen categorieën voor de blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Forum',
+    'blog.post.introText': 'Inleidende alinea',
+    'blog.post.writtenBy': 'Geschreven door {usernameDisplay}',
+    'blog.post.writtenByFor': 'Geschreven door {usernameDisplay} voor {publicationName}',
+    'blog.posts.recent': 'Recente berichten',
+    'blog.statsPage': 'Blog statistieken'
+};

@@ -32,31 +32,28 @@ export default {
     allProperties {om weer te geven aan het publiek op alle eigenschappen}
     other {van de organisatie}
   }`,
-  'org.members.invited': 'Uitgenodigde leden',
-  'org.members.list': 'Organisatieleden',
-  'org.invitesTileNotice':
-    'Je bent uitgenodigd voor {count, number} {count, plural, one {organisatie} other {organisaties}}',
-  'org.invitePage.title': 'Uitnodigingen voor organisaties',
-  'org.invitePage.invitedAt': 'Je bent uitgenodigd op {invitedAt, date, short}.',
-  'org.invitePage.ignoring':
-    'Je negeert momenteel deze uitnodiging, wat betekent dat deze nog actief is, maar geen meldingen geeft.',
-  'org.invitePage.expiresAt':
-    'Deze uitnodiging verloopt op {expiresAt, date, short} {expiresAt, time}',
-  'org.invitePage.accept': 'Word lid van de organisatie',
-  'org.invitePage.reject': 'Weiger uitnodiging',
-  'org.invitePage.ignore': 'Voor nu negeren',
-  'org.leaveOrg.title': 'Verlaat organisatie',
-  'org.leaveOrg.confirm':
-    'Dit is een destructieve actie. Zodra je vertrekt, verlies je alle toegang tot deze organisatie. Weet je zeker dat je de organisatie wilt verlaten?',
-  'org.confirmRemove.aria': 'Bevestig verwijdering van gebruiker',
-  'org.confirmRemove.confirm':
-    'Weet je zeker dat je {username} wilt verwijderen uit {organization}?',
-  'org.confirmRemove.remove': 'Gebruiker verwijderen',
-  'org.mainBlog': 'Hoofdblog',
-  'org.teams': 'Teams',
-  'org.teams.total': 'Totaal aantal teams: {totalTeams, number}',
-  'org.teams.create': 'Maak een nieuw team aan',
-  'org.teams.settings': 'Teaminstellingen',
-  'org.workshop.ownerUser': 'Geen gilde werk',
-  'org.workshop.caption': 'Gilde eigendom',
-}
+    'org.members.invited': 'Uitgenodigde leden',
+    'org.members.list': 'Organisatieleden',
+    'org.invitesTileNotice': 'Je bent uitgenodigd voor {count, number} {count, plural, one {organisatie} other {organisaties}}',
+    'org.invitePage.title': 'Uitnodigingen voor organisaties',
+    'org.invitePage.invitedAt': 'Je bent uitgenodigd op {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'Je negeert momenteel deze uitnodiging, wat betekent dat deze nog actief is, maar geen meldingen geeft.',
+    'org.invitePage.expiresAt': 'Deze uitnodiging verloopt op {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Word lid van de organisatie',
+    'org.invitePage.reject': 'Weiger uitnodiging',
+    'org.invitePage.ignore': 'Voor nu negeren',
+    'org.leaveOrg.title': 'Verlaat organisatie',
+    'org.leaveOrg.confirm': 'Dit is een destructieve actie. Zodra je vertrekt, verlies je alle toegang tot deze organisatie. Weet je zeker dat je de organisatie wilt verlaten?',
+    'org.confirmRemove.aria': 'Bevestig verwijdering van gebruiker',
+    'org.confirmRemove.confirm': 'Weet je zeker dat je {username} wilt verwijderen uit {organization}?',
+    'org.confirmRemove.remove': 'Gebruiker verwijderen',
+    'org.mainBlog': 'Hoofdblog',
+    'org.teams': 'Teams',
+    'org.teams.total': 'Totaal aantal teams: {totalTeams, number}',
+    'org.teams.create': 'Maak een nieuw team aan',
+    'org.teams.settings': 'Teaminstellingen',
+    'org.workshop.ownerUser': 'Geen gilde werk',
+    'org.workshop.caption': 'Gilde eigendom',
+    'org.workshop.title': 'Organisatieworkshop',
+    'org.title': 'Organisatie'
+};

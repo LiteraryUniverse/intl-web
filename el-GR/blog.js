@@ -40,22 +40,21 @@ export default {
     user {}
     other {}
   }`,
-  'blog.social.website': 'Επίσημη ιστοσελίδα',
-  'blog.settings.universeSettings':
-    'Τα blogs των συμπαντικών ιστοσελίδων ενσωματώνονται στις σελίδες συμπαντικών ιστοσελίδων με τις βασικές τους ρυθμίσεις να προέρχονται από τις ρυθμίσεις του σύμπαντος.',
-  'blog.settings.organizationSettings':
-    'Τα blogs του οργανισμού ενσωματώνονται στις σελίδες του οργανισμού.',
-  'blogs.lu': 'Επίσημα blogs Λογοτεχνικού Συμπαντος',
-  'blogs.featured': 'Προτεινόμενα blogs',
-  'blogs.new': 'Νεότερα blogs',
-  'blogs.title': 'Blogs του Λογοτεχνικού Συμπαντος',
-  'blogs.description': 'Κατάλογος blogs στην πλατφόρμα του Λογοτεχνικού Συμπαντος.',
-  'blogs.visit': 'Επίσκεψη στο blog',
-  'blog.settingsAria': 'Κατηγορίες ρυθμίσεων για το blog',
-  'blog.settings.blog': 'Ιστολόγιο',
-  'blog.settings.forum': 'Φόρουμ',
-  'blog.post.introText': 'Εισαγωγικό παράγραφο',
-  'blog.post.writtenBy': 'Γραμμένο από τον {usernameDisplay}',
-  'blog.post.writtenByFor': 'Γραμμένο από τον {usernameDisplay} για τον {publicationName}',
-  'blog.posts.recent': 'Πρόσφατες αναρτήσεις',
-}
+    'blog.social.website': 'Επίσημη ιστοσελίδα',
+    'blog.settings.universeSettings': 'Τα blogs των συμπαντικών ιστοσελίδων ενσωματώνονται στις σελίδες συμπαντικών ιστοσελίδων με τις βασικές τους ρυθμίσεις να προέρχονται από τις ρυθμίσεις του σύμπαντος.',
+    'blog.settings.organizationSettings': 'Τα blogs του οργανισμού ενσωματώνονται στις σελίδες του οργανισμού.',
+    'blogs.lu': 'Επίσημα blogs Λογοτεχνικού Συμπαντος',
+    'blogs.featured': 'Προτεινόμενα blogs',
+    'blogs.new': 'Νεότερα blogs',
+    'blogs.title': 'Blogs του Λογοτεχνικού Συμπαντος',
+    'blogs.description': 'Κατάλογος blogs στην πλατφόρμα του Λογοτεχνικού Συμπαντος.',
+    'blogs.visit': 'Επίσκεψη στο blog',
+    'blog.settingsAria': 'Κατηγορίες ρυθμίσεων για το blog',
+    'blog.settings.blog': 'Ιστολόγιο',
+    'blog.settings.forum': 'Φόρουμ',
+    'blog.post.introText': 'Εισαγωγικό παράγραφο',
+    'blog.post.writtenBy': 'Γραμμένο από τον {usernameDisplay}',
+    'blog.post.writtenByFor': 'Γραμμένο από τον {usernameDisplay} για τον {publicationName}',
+    'blog.posts.recent': 'Πρόσφατες αναρτήσεις',
+    'blog.statsPage': 'Στατιστικά ιστολογίου'
+};

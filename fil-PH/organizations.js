@@ -32,31 +32,28 @@ export default {
     allProperties {ipakita sa publiko sa lahat ng ari-arian}
     other {ang organisasyon}
   }`,
-  'org.members.invited': 'Inimbitahan na mga miyembro',
-  'org.members.list': 'Mga miyembro ng organisasyon',
-  'org.invitesTileNotice':
-    'Inimbitahan ka sa {count, number} {count, plural, one {organisasyon} other {mga organisasyon}}',
-  'org.invitePage.title': 'Mga imbitasyon sa mga organisasyon',
-  'org.invitePage.invitedAt': 'Inimbitahan ka sa {invitedAt, date, short}',
-  'org.invitePage.ignoring':
-    'Ikaw ay kasalukuyang hindi pinapansin ang imbitasyong ito, na nangangahulugang ito ay aktibo pa rin, ngunit hindi nagsasangkot ng mga abiso.',
-  'org.invitePage.expiresAt':
-    'Ang imbitasyong ito ay mag-eexpire sa {expiresAt, date, short} {expiresAt, time}',
-  'org.invitePage.accept': 'Sumali sa organisasyon',
-  'org.invitePage.reject': 'Tanggihan ang imbitasyon',
-  'org.invitePage.ignore': 'I-ignore muna',
-  'org.leaveOrg.title': 'Iwanan ang organisasyon',
-  'org.leaveOrg.confirm':
-    'Ito ay isang mapanirang pagkilos. Kapag umalis ka, mawawala ang iyong access sa organisasyong ito. Sigurado ka bang gusto mong umalis sa organisasyon?',
-  'org.confirmRemove.aria': 'Kumpirmahin ang pag-alis ng user',
-  'org.confirmRemove.confirm':
-    'Sigurado ka bang gusto mong alisin si {username} mula sa {organization}?',
-  'org.confirmRemove.remove': 'Tanggalin ang gumagamit',
-  'org.mainBlog': 'Pangunahing blog',
-  'org.teams': 'Mga Team',
-  'org.teams.total': 'Kabuuang mga team: {totalTeams, number}',
-  'org.teams.create': 'Gumawa ng bagong team',
-  'org.teams.settings': 'Mga setting ng team',
-  'org.workshop.ownerUser': 'Hindi gawa ng guild',
-  'org.workshop.caption': 'Pagmamay-ari ng guild',
-}
+    'org.members.invited': 'Inimbitahan na mga miyembro',
+    'org.members.list': 'Mga miyembro ng organisasyon',
+    'org.invitesTileNotice': 'Inimbitahan ka sa {count, number} {count, plural, one {organisasyon} other {mga organisasyon}}',
+    'org.invitePage.title': 'Mga imbitasyon sa mga organisasyon',
+    'org.invitePage.invitedAt': 'Inimbitahan ka sa {invitedAt, date, short}',
+    'org.invitePage.ignoring': 'Ikaw ay kasalukuyang hindi pinapansin ang imbitasyong ito, na nangangahulugang ito ay aktibo pa rin, ngunit hindi nagsasangkot ng mga abiso.',
+    'org.invitePage.expiresAt': 'Ang imbitasyong ito ay mag-eexpire sa {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Sumali sa organisasyon',
+    'org.invitePage.reject': 'Tanggihan ang imbitasyon',
+    'org.invitePage.ignore': 'I-ignore muna',
+    'org.leaveOrg.title': 'Iwanan ang organisasyon',
+    'org.leaveOrg.confirm': 'Ito ay isang mapanirang pagkilos. Kapag umalis ka, mawawala ang iyong access sa organisasyong ito. Sigurado ka bang gusto mong umalis sa organisasyon?',
+    'org.confirmRemove.aria': 'Kumpirmahin ang pag-alis ng user',
+    'org.confirmRemove.confirm': 'Sigurado ka bang gusto mong alisin si {username} mula sa {organization}?',
+    'org.confirmRemove.remove': 'Tanggalin ang gumagamit',
+    'org.mainBlog': 'Pangunahing blog',
+    'org.teams': 'Mga Team',
+    'org.teams.total': 'Kabuuang mga team: {totalTeams, number}',
+    'org.teams.create': 'Gumawa ng bagong team',
+    'org.teams.settings': 'Mga setting ng team',
+    'org.workshop.ownerUser': 'Hindi gawa ng guild',
+    'org.workshop.caption': 'Pagmamay-ari ng guild',
+    'org.workshop.title': 'Pagpupulong ng Organisasyon',
+    'org.title': 'Organisasyon'
+};

@@ -40,22 +40,21 @@ export default {
     user {vartotojo profilyje}
     other {}
   }`,
-  'blog.social.website': 'Oficiali svetainė',
-  'blog.settings.universeSettings':
-    'Tinklaraščiai yra integruoti į universo puslapius su pagrindiniais nustatymais iš universo nustatymų.',
-  'blog.settings.organizationSettings':
-    'Organizacijos tinklaraščiai yra įtraukiami į organizacijos puslapius.',
-  'blogs.lu': 'Oficialūs Literatūrinio Universo tinklaraščiai',
-  'blogs.featured': 'Pasiūlyti tinklaraščiai',
-  'blogs.new': 'Naujausi tinklaraščiai',
-  'blogs.title': 'Literatūrinio Universo tinklaraščiai',
-  'blogs.description': 'Tinklaraščių sąrašas Literatūrinio Universo platformoje.',
-  'blogs.visit': 'Aplankyti tinklaraštį',
-  'blog.settingsAria': 'Nustatymų kategorijos tinklaraščiui',
-  'blog.settings.blog': 'Tinklaraštis',
-  'blog.settings.forum': 'Forumas',
-  'blog.post.introText': 'Įvadinis pastraipa',
-  'blog.post.writtenBy': 'Parašė {usernameDisplay}',
-  'blog.post.writtenByFor': 'Parašė {usernameDisplay} for {publicationName}',
-  'blog.posts.recent': 'Naujausi įrašai',
-}
+    'blog.social.website': 'Oficiali svetainė',
+    'blog.settings.universeSettings': 'Tinklaraščiai yra integruoti į universo puslapius su pagrindiniais nustatymais iš universo nustatymų.',
+    'blog.settings.organizationSettings': 'Organizacijos tinklaraščiai yra įtraukiami į organizacijos puslapius.',
+    'blogs.lu': 'Oficialūs Literatūrinio Universo tinklaraščiai',
+    'blogs.featured': 'Pasiūlyti tinklaraščiai',
+    'blogs.new': 'Naujausi tinklaraščiai',
+    'blogs.title': 'Literatūrinio Universo tinklaraščiai',
+    'blogs.description': 'Tinklaraščių sąrašas Literatūrinio Universo platformoje.',
+    'blogs.visit': 'Aplankyti tinklaraštį',
+    'blog.settingsAria': 'Nustatymų kategorijos tinklaraščiui',
+    'blog.settings.blog': 'Tinklaraštis',
+    'blog.settings.forum': 'Forumas',
+    'blog.post.introText': 'Įvadinis pastraipa',
+    'blog.post.writtenBy': 'Parašė {usernameDisplay}',
+    'blog.post.writtenByFor': 'Parašė {usernameDisplay} for {publicationName}',
+    'blog.posts.recent': 'Naujausi įrašai',
+    'blog.statsPage': 'Tinklaraščio statistika'
+};

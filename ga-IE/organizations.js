@@ -32,31 +32,28 @@ export default {
     allProperties {ar taispeáint do phobal ar gach háis}
     other {an eagraíocht}
   }`,
-  'org.members.invited': 'Baill cuireadh',
-  'org.members.list': 'Ballraí an eagraíochta',
-  'org.invitesTileNotice':
-    'Tá cuireadh tugtha duit chuig {count, number} {count, plural, one {eagraíocht} other {eagraíochtaí}}',
-  'org.invitePage.title': 'Cuireadh chuig eagraíochtaí',
-  'org.invitePage.invitedAt': 'Tá cuireadh tugtha duit ar {invitedAt, date, short}.',
-  'org.invitePage.ignoring':
-    'Tá tú ag fágáil neamhaird ar an gcuireadh seo faoi láthair, rud a chiallaíonn go bhfuil sé fós i bhfeidhm, ach nach mbíonn sé ag cur isteach ort.',
-  'org.invitePage.expiresAt':
-    'Díomáidh an cuireadh seo ag {expiresAt, date, short} {expiresAt, time}',
-  'org.invitePage.accept': 'Gabh chuig an eagraíocht',
-  'org.invitePage.reject': 'Diúltaigh an cuireadh',
-  'org.invitePage.ignore': 'Fág gan aird ar feadh anois',
-  'org.leaveOrg.title': 'Fág an eagraíocht',
-  'org.leaveOrg.confirm':
-    'Is gníomh scriosta é seo. Nuair a fhágann tú, caillfidh tú rochtain ar an eagraíocht seo go hiomlán. An bhfuil tú cinnte go bhfuil tú ag iarraidh an eagraíocht a fhágáil?',
-  'org.confirmRemove.aria': 'Deimhnigh baint úsáideora',
-  'org.confirmRemove.confirm':
-    'An bhfuil tú cinnte go bhfuil tú ag iarraidh {username} a bhaint ó {organization}?',
-  'org.confirmRemove.remove': 'Bain úsáideoir',
-  'org.mainBlog': 'Blog príomh',
-  'org.teams': 'Foirne',
-  'org.teams.total': 'Foirne iomlán: {totalTeams, number}',
-  'org.teams.create': 'Cruthaigh foireann nua',
-  'org.teams.settings': 'Socruithe foirne',
-  'org.workshop.ownerUser': 'Not a guild work',
-  'org.workshop.caption': 'Úinéireacht an ghiúiré',
-}
+    'org.members.invited': 'Baill cuireadh',
+    'org.members.list': 'Ballraí an eagraíochta',
+    'org.invitesTileNotice': 'Tá cuireadh tugtha duit chuig {count, number} {count, plural, one {eagraíocht} other {eagraíochtaí}}',
+    'org.invitePage.title': 'Cuireadh chuig eagraíochtaí',
+    'org.invitePage.invitedAt': 'Tá cuireadh tugtha duit ar {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'Tá tú ag fágáil neamhaird ar an gcuireadh seo faoi láthair, rud a chiallaíonn go bhfuil sé fós i bhfeidhm, ach nach mbíonn sé ag cur isteach ort.',
+    'org.invitePage.expiresAt': 'Díomáidh an cuireadh seo ag {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Gabh chuig an eagraíocht',
+    'org.invitePage.reject': 'Diúltaigh an cuireadh',
+    'org.invitePage.ignore': 'Fág gan aird ar feadh anois',
+    'org.leaveOrg.title': 'Fág an eagraíocht',
+    'org.leaveOrg.confirm': 'Is gníomh scriosta é seo. Nuair a fhágann tú, caillfidh tú rochtain ar an eagraíocht seo go hiomlán. An bhfuil tú cinnte go bhfuil tú ag iarraidh an eagraíocht a fhágáil?',
+    'org.confirmRemove.aria': 'Deimhnigh baint úsáideora',
+    'org.confirmRemove.confirm': 'An bhfuil tú cinnte go bhfuil tú ag iarraidh {username} a bhaint ó {organization}?',
+    'org.confirmRemove.remove': 'Bain úsáideoir',
+    'org.mainBlog': 'Blog príomh',
+    'org.teams': 'Foirne',
+    'org.teams.total': 'Foirne iomlán: {totalTeams, number}',
+    'org.teams.create': 'Cruthaigh foireann nua',
+    'org.teams.settings': 'Socruithe foirne',
+    'org.workshop.ownerUser': 'Not a guild work',
+    'org.workshop.caption': 'Úinéireacht an ghiúiré',
+    'org.workshop.title': 'Ceardlann Eagraíochta',
+    'org.title': 'Eagraíocht'
+};

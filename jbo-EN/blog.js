@@ -40,23 +40,21 @@ export default {
     user {user profile}
     other {}
   }`,
-  'blog.social.website': "la'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu",
-  'blog.settings.universeSettings':
-    "la'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu be lo nu se finti lo sevzi be lo nu se zbasu",
-  'blog.settings.organizationSettings':
-    'lo se blogu be lo se zdani cu se integrasi lo se zdani pei.',
-  'blogs.lu': "la'o gy. blogs. lu .blogs. lu .blogs. lu .blogs. lu",
-  'blogs.featured': "la'o gy. blogs. lu .blogs. lu .blogs. lu",
-  'blogs.new': "la'o gy. blogs. lu .blogs. lu .blogs. lu",
-  'blogs.title': "la'o gy. blogs. lu .blogs. lu .blogs. lu",
-  'blogs.description':
-    "la'o gy. blogs. lu .blogs. lu .blogs. lu .i lo sevzi be lo nu se zbasu be lo nu se finti lo sevzi be lo nu se zbasu",
-  'blogs.visit': 'klama lo jorne',
-  'blog.settingsAria': "Kategori selma'o be lo bloga",
-  'blog.settings.blog': 'Kibykarni',
-  'blog.settings.forum': 'lo se cusku',
-  'blog.post.introText': 'Introduction paragraph',
-  'blog.post.writtenBy': 'Written by {usernameDisplay}',
-  'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-  'blog.posts.recent': 'Recent posts',
-}
+    'blog.social.website': 'la\'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu',
+    'blog.settings.universeSettings': 'la\'o gy. blogu. cu se finti lo sevzi be lo nu se zbasu be lo nu se finti lo sevzi be lo nu se zbasu',
+    'blog.settings.organizationSettings': 'lo se blogu be lo se zdani cu se integrasi lo se zdani pei.',
+    'blogs.lu': 'la\'o gy. blogs. lu .blogs. lu .blogs. lu .blogs. lu',
+    'blogs.featured': 'la\'o gy. blogs. lu .blogs. lu .blogs. lu',
+    'blogs.new': 'la\'o gy. blogs. lu .blogs. lu .blogs. lu',
+    'blogs.title': 'la\'o gy. blogs. lu .blogs. lu .blogs. lu',
+    'blogs.description': 'la\'o gy. blogs. lu .blogs. lu .blogs. lu .i lo sevzi be lo nu se zbasu be lo nu se finti lo sevzi be lo nu se zbasu',
+    'blogs.visit': 'klama lo jorne',
+    'blog.settingsAria': 'Kategori selma\'o be lo bloga',
+    'blog.settings.blog': 'Kibykarni',
+    'blog.settings.forum': 'lo se cusku',
+    'blog.post.introText': 'Introduction paragraph',
+    'blog.post.writtenBy': 'Written by {usernameDisplay}',
+    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.posts.recent': 'Recent posts',
+    'blog.statsPage': 'Blog statistikas'
+};

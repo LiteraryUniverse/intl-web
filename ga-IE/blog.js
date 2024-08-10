@@ -40,22 +40,21 @@ export default {
     user {próifíl úsáideora}
     other {}
   }`,
-  'blog.social.website': 'Láithreán gréasáin oifigiúil',
-  'blog.settings.universeSettings':
-    'Tártar blaganna domhainthreoir isteach le suas-láimhseáin bunúsacha a ghlacadh ó shocruithe domhainthreoirí.',
-  'blog.settings.organizationSettings':
-    'Tá bliogaí eagraíochta comhcheangailte le leathanaigh eagraíochta.',
-  'blogs.lu': 'Blaganna Oifigiúla Domhainthreoir Litríochta',
-  'blogs.featured': 'Blaganna ar feadh an tsuiteáin',
-  'blogs.new': 'Is deoraí blaganna',
-  'blogs.title': 'Blaganna Litríochta Domhainthreoir',
-  'blogs.description': 'Liosta de bhlaganna ar an gPlatama Domhainthreoir Litríochta.',
-  'blogs.visit': 'Tabhair cuairt ar an blag',
-  'blog.settingsAria': 'Catagóirí socruithe don bhlag',
-  'blog.settings.blog': 'Blag',
-  'blog.settings.forum': 'Fóram',
-  'blog.post.introText': 'Próiséas ceangailt',
-  'blog.post.writtenBy': 'Scríofa ag {usernameDisplay}',
-  'blog.post.writtenByFor': 'Scríofa ag {usernameDisplay} do {publicationName}',
-  'blog.posts.recent': 'Ríomhphoist le déanaí',
-}
+    'blog.social.website': 'Láithreán gréasáin oifigiúil',
+    'blog.settings.universeSettings': 'Tártar blaganna domhainthreoir isteach le suas-láimhseáin bunúsacha a ghlacadh ó shocruithe domhainthreoirí.',
+    'blog.settings.organizationSettings': 'Tá bliogaí eagraíochta comhcheangailte le leathanaigh eagraíochta.',
+    'blogs.lu': 'Blaganna Oifigiúla Domhainthreoir Litríochta',
+    'blogs.featured': 'Blaganna ar feadh an tsuiteáin',
+    'blogs.new': 'Is deoraí blaganna',
+    'blogs.title': 'Blaganna Litríochta Domhainthreoir',
+    'blogs.description': 'Liosta de bhlaganna ar an gPlatama Domhainthreoir Litríochta.',
+    'blogs.visit': 'Tabhair cuairt ar an blag',
+    'blog.settingsAria': 'Catagóirí socruithe don bhlag',
+    'blog.settings.blog': 'Blag',
+    'blog.settings.forum': 'Fóram',
+    'blog.post.introText': 'Próiséas ceangailt',
+    'blog.post.writtenBy': 'Scríofa ag {usernameDisplay}',
+    'blog.post.writtenByFor': 'Scríofa ag {usernameDisplay} do {publicationName}',
+    'blog.posts.recent': 'Ríomhphoist le déanaí',
+    'blog.statsPage': 'Staitisticí an bhlag'
+};

@@ -40,22 +40,21 @@ export default {
     user {profilul utilizatorului}
     other {}
   }`,
-  'blog.social.website': 'Site web oficial',
-  'blog.settings.universeSettings':
-    'Blogurile universului sunt integrate în paginile universului cu setările lor de bază preluate din setările universului.',
-  'blog.settings.organizationSettings':
-    'Blogurile organizației sunt integrate în paginile organizației.',
-  'blogs.lu': 'Bloguri oficiale ale Literary Universe',
-  'blogs.featured': 'Bloguri recomandate',
-  'blogs.new': 'Cele mai noi bloguri',
-  'blogs.title': 'Bloguri ale Literary Universe',
-  'blogs.description': 'Listare a blogurilor pe platforma Literary Universe.',
-  'blogs.visit': 'Vizitați blogul',
-  'blog.settingsAria': 'Categorii de setări pentru blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Forum',
-  'blog.post.introText': 'Paragraful de introducere',
-  'blog.post.writtenBy': 'Scris de {usernameDisplay}',
-  'blog.post.writtenByFor': 'Scris de {usernameDisplay} pentru {publicationName}',
-  'blog.posts.recent': 'Postări recente',
-}
+    'blog.social.website': 'Site web oficial',
+    'blog.settings.universeSettings': 'Blogurile universului sunt integrate în paginile universului cu setările lor de bază preluate din setările universului.',
+    'blog.settings.organizationSettings': 'Blogurile organizației sunt integrate în paginile organizației.',
+    'blogs.lu': 'Bloguri oficiale ale Literary Universe',
+    'blogs.featured': 'Bloguri recomandate',
+    'blogs.new': 'Cele mai noi bloguri',
+    'blogs.title': 'Bloguri ale Literary Universe',
+    'blogs.description': 'Listare a blogurilor pe platforma Literary Universe.',
+    'blogs.visit': 'Vizitați blogul',
+    'blog.settingsAria': 'Categorii de setări pentru blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Forum',
+    'blog.post.introText': 'Paragraful de introducere',
+    'blog.post.writtenBy': 'Scris de {usernameDisplay}',
+    'blog.post.writtenByFor': 'Scris de {usernameDisplay} pentru {publicationName}',
+    'blog.posts.recent': 'Postări recente',
+    'blog.statsPage': 'Statistici blog'
+};

@@ -22,18 +22,17 @@ export default {
     many {# публикаций}
     other {# публикаций}
   }.`,
-  'blog.post.create': 'Создать новую публикацию',
-  'blog.post.update': 'Редактирование {title}',
-  'blog.post.text': 'Текст публикации',
-  'common.slug': 'Адрес ссылки SEO',
-  'blog.slug.explained':
-    'Хорошо выглядящая ссылка к публикации. Избегайте использования специальных символов, кроме «-».',
-  'blog.publicView': 'Публичный просмотр',
-  'blog.post.notfound': 'Публикация блога не найдена',
-  'blog.lists.works': `{type, select,
-    universes {Универсумы}
+    'blog.post.create': 'Создать новую публикацию',
+    'blog.post.update': 'Редактирование {title}',
+    'blog.post.text': 'Текст публикации',
+    'common.slug': 'Адрес ссылки SEO',
+    'blog.slug.explained': 'Хорошо выглядящая ссылка к публикации. Избегайте использования специальных символов, кроме «-».',
+    'blog.publicView': 'Публичный просмотр',
+    'blog.post.notfound': 'Публикация блога не найдена',
+    'blog.lists.works': `{type, select,
+    universes {Вселенные}
     stories {Истории}
-    fanfiction {Фанфик}
+    fanfiction {Фанфики}
     other {}
   }`,
   'blog.social.sameAsMain': `Социальные ссылки такие же, как установлены в {type, select,
@@ -41,21 +40,21 @@ export default {
     user {профиле пользователя}
     other {}
   }`,
-  'blog.social.website': 'Официальный сайт',
-  'blog.settings.universeSettings':
-    'Блоги вселенной интегрированы в страницы вселенной, а их основные настройки взяты из настроек вселенной.',
-  'blog.settings.organizationSettings': 'Блоги организаций интегрированы в страницы организаций.',
-  'blogs.lu': 'Официальные блоги Literary Universe',
-  'blogs.featured': 'Рекомендуемые блоги',
-  'blogs.new': 'Новейшие блоги',
-  'blogs.title': 'Блоги Literary Universe',
-  'blogs.description': 'Список блогов на платформе Literary Universe.',
-  'blogs.visit': 'Перейти в блог',
-  'blog.settingsAria': 'Настройки категорий для блога',
-  'blog.settings.blog': 'Блог',
-  'blog.settings.forum': 'Форум',
-  'blog.post.introText': 'Вступительный абзац',
-  'blog.post.writtenBy': 'Написано {usernameDisplay}',
-  'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
-  'blog.posts.recent': 'Последние публикации',
-}
+    'blog.social.website': 'Официальный сайт',
+    'blog.settings.universeSettings': 'Блоги вселенной интегрированы в страницы вселенной, а их основные настройки взяты из настроек вселенной.',
+    'blog.settings.organizationSettings': 'Блоги организаций интегрированы в страницы организаций.',
+    'blogs.lu': 'Официальные блоги Literary Universe',
+    'blogs.featured': 'Рекомендуемые блоги',
+    'blogs.new': 'Новейшие блоги',
+    'blogs.title': 'Блоги Literary Universe',
+    'blogs.description': 'Список блогов на платформе Literary Universe.',
+    'blogs.visit': 'Перейти в блог',
+    'blog.settingsAria': 'Настройки категорий для блога',
+    'blog.settings.blog': 'Блог',
+    'blog.settings.forum': 'Форум',
+    'blog.post.introText': 'Вступительный абзац',
+    'blog.post.writtenBy': 'Написано {usernameDisplay}',
+    'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
+    'blog.posts.recent': 'Последние публикации',
+    'blog.statsPage': 'Статистика блога'
+};

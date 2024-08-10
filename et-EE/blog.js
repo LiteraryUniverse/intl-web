@@ -40,22 +40,21 @@ export default {
     user {kasutaja profiilis}
     other {}
   }`,
-  'blog.social.website': 'Ametlik veebileht',
-  'blog.settings.universeSettings':
-    'Universe blogid on integreeritud universumi lehtedega, võttes arvesse nende põhiseadeid.',
-  'blog.settings.organizationSettings':
-    'Organisatsiooni blogid on integreeritud organisatsiooni lehtedesse.',
-  'blogs.lu': 'Ametlik Kirjandusliku Universumi blogid',
-  'blogs.featured': 'Esiletõstetud blogid',
-  'blogs.new': 'Uusimad blogid',
-  'blogs.title': 'Kirjandusliku Universumi blogid',
-  'blogs.description': 'Loendi kujul olevad blogid Kirjandusliku Universumi platvormil.',
-  'blogs.visit': 'Külasta blogi',
-  'blog.settingsAria': 'Sätete kategooriad blogile',
-  'blog.settings.blog': 'Blogi',
-  'blog.settings.forum': 'Foorum',
-  'blog.post.introText': 'Sissejuhatav lõik',
-  'blog.post.writtenBy': 'Kirjutas {usernameDisplay}',
-  'blog.post.writtenByFor': 'Kirjutas {usernameDisplay} {publicationName}jaoks',
-  'blog.posts.recent': 'Viimased postitused',
-}
+    'blog.social.website': 'Ametlik veebileht',
+    'blog.settings.universeSettings': 'Universe blogid on integreeritud universumi lehtedega, võttes arvesse nende põhiseadeid.',
+    'blog.settings.organizationSettings': 'Organisatsiooni blogid on integreeritud organisatsiooni lehtedesse.',
+    'blogs.lu': 'Ametlik Kirjandusliku Universumi blogid',
+    'blogs.featured': 'Esiletõstetud blogid',
+    'blogs.new': 'Uusimad blogid',
+    'blogs.title': 'Kirjandusliku Universumi blogid',
+    'blogs.description': 'Loendi kujul olevad blogid Kirjandusliku Universumi platvormil.',
+    'blogs.visit': 'Külasta blogi',
+    'blog.settingsAria': 'Sätete kategooriad blogile',
+    'blog.settings.blog': 'Blogi',
+    'blog.settings.forum': 'Foorum',
+    'blog.post.introText': 'Sissejuhatav lõik',
+    'blog.post.writtenBy': 'Kirjutas {usernameDisplay}',
+    'blog.post.writtenByFor': 'Kirjutas {usernameDisplay} {publicationName}jaoks',
+    'blog.posts.recent': 'Viimased postitused',
+    'blog.statsPage': 'Blogi statistika'
+};

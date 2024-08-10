@@ -32,31 +32,28 @@ export default {
     allProperties {display to public on all properties}
     other {the organization}
   }`,
-  'org.members.invited': 'Προσκεκλημένα μέλη',
-  'org.members.list': 'Μέλη του οργανισμού',
-  'org.invitesTileNotice':
-    'Έχετε προσκληθεί στον/στην {count, number} {count, plural, one {οργανισμός} other {οργανισμοί}}',
-  'org.invitePage.title': 'Προσκλήσεις σε οργανισμούς',
-  'org.invitePage.invitedAt': 'Έχετε προσκληθεί στον/στην {invitedAt, date, short}.',
-  'org.invitePage.ignoring':
-    'Αυτή η πρόσκληση είναι ακόμα ενεργή, αλλά δεν ενοχλεί με ειδοποιήσεις, καθώς την αγνοείτε.',
-  'org.invitePage.expiresAt':
-    'Αυτή η πρόσκληση θα λήξει στις {expiresAt, date, short} {expiresAt, time}',
-  'org.invitePage.accept': 'Εγγραφή στον οργανισμό',
-  'org.invitePage.reject': 'Απόρριψη πρόσκλησης',
-  'org.invitePage.ignore': 'Αγνόηση αυτήν τη στιγμή',
-  'org.leaveOrg.title': 'Αποχώρηση από τον οργανισμό',
-  'org.leaveOrg.confirm':
-    'Αυτή είναι μια καταστροφική ενέργεια. Μόλις αποχωρήσετε, θα χάσετε όλη την πρόσβαση σε αυτόν τον οργανισμό. Είστε σίγουρος/η ότι θέλετε να αποχωρήσετε από τον οργανισμό;',
-  'org.confirmRemove.aria': 'Επιβεβαίωση αφαίρεσης χρήστη',
-  'org.confirmRemove.confirm':
-    'Είστε σίγουρος/η ότι θέλετε να αφαιρέσετε τον/την {username} από τον/την {organization};',
-  'org.confirmRemove.remove': 'Αφαίρεση χρήστη',
-  'org.mainBlog': 'Κύριο ιστολόγιο',
-  'org.teams': 'Ομάδες',
-  'org.teams.total': 'Συνολικές ομάδες: {totalTeams, number}',
-  'org.teams.create': 'Δημιουργία νέας ομάδας',
-  'org.teams.settings': 'Ρυθμίσεις ομάδας',
-  'org.workshop.ownerUser': 'Not a guild work',
-  'org.workshop.caption': 'Guild ownership',
-}
+    'org.members.invited': 'Προσκεκλημένα μέλη',
+    'org.members.list': 'Μέλη του οργανισμού',
+    'org.invitesTileNotice': 'Έχετε προσκληθεί στον/στην {count, number} {count, plural, one {οργανισμός} other {οργανισμοί}}',
+    'org.invitePage.title': 'Προσκλήσεις σε οργανισμούς',
+    'org.invitePage.invitedAt': 'Έχετε προσκληθεί στον/στην {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'Αυτή η πρόσκληση είναι ακόμα ενεργή, αλλά δεν ενοχλεί με ειδοποιήσεις, καθώς την αγνοείτε.',
+    'org.invitePage.expiresAt': 'Αυτή η πρόσκληση θα λήξει στις {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'Εγγραφή στον οργανισμό',
+    'org.invitePage.reject': 'Απόρριψη πρόσκλησης',
+    'org.invitePage.ignore': 'Αγνόηση αυτήν τη στιγμή',
+    'org.leaveOrg.title': 'Αποχώρηση από τον οργανισμό',
+    'org.leaveOrg.confirm': 'Αυτή είναι μια καταστροφική ενέργεια. Μόλις αποχωρήσετε, θα χάσετε όλη την πρόσβαση σε αυτόν τον οργανισμό. Είστε σίγουρος/η ότι θέλετε να αποχωρήσετε από τον οργανισμό;',
+    'org.confirmRemove.aria': 'Επιβεβαίωση αφαίρεσης χρήστη',
+    'org.confirmRemove.confirm': 'Είστε σίγουρος/η ότι θέλετε να αφαιρέσετε τον/την {username} από τον/την {organization};',
+    'org.confirmRemove.remove': 'Αφαίρεση χρήστη',
+    'org.mainBlog': 'Κύριο ιστολόγιο',
+    'org.teams': 'Ομάδες',
+    'org.teams.total': 'Συνολικές ομάδες: {totalTeams, number}',
+    'org.teams.create': 'Δημιουργία νέας ομάδας',
+    'org.teams.settings': 'Ρυθμίσεις ομάδας',
+    'org.workshop.ownerUser': 'Not a guild work',
+    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.title': 'Εργαστήριο Οργάνωσης',
+    'org.title': 'Οργάνωση'
+};

@@ -292,7 +292,4 @@ export default {
   'common.popular': 'Popular',
   'common.newest': 'Newest',
   'common.oldest': 'Oldest',
-  'common.likesCount': 'Likes: {likes, number}',
-  'common.commentsCount': 'Comments: {comments, number}',
-
 } /* eslint-enable max-len */

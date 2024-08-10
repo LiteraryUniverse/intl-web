@@ -32,31 +32,28 @@ export default {
     allProperties {பொதுவாக பார்க்க}
     other {அனைத்து பணிகளிலும்}
   }அமைப்புக்கு`,
-  'org.members.invited': 'அழைக்கப்பட்ட உறுப்பினர்கள்',
-  'org.members.list': 'அமைப்பு உறுப்பினர்கள்',
-  'org.invitesTileNotice':
-    'நீங்கள் அழைத்துள்ளீர்கள் {count, number} {count, plural, one {அமைப்புகளுக்கு} other {அமைப்புகள்}}',
-  'org.invitePage.title': 'அமைப்புகளுக்கு ஆஹ்வானங்கள்',
-  'org.invitePage.invitedAt': 'நீங்கள் அழைக்கப்பட்டுள்ளீர்கள் {invitedAt, date, short}.',
-  'org.invitePage.ignoring':
-    'நீங்கள் தற்போது இந்த ஆஹ்வானத்தை புறக்கணிக்கிறீர்கள், இது என்னுடைய அலுவலகம் இன்றையதாகும் என்பதைக் குறிக்கிறது, ஆனால் அறிவிக்கும் நடவடிக்கைகளை மிகுந்த விடையாக விடுகிறது.',
-  'org.invitePage.expiresAt':
-    'இந்த ஆஹ்வானம் முடிவு செய்யும் நேரம் {expiresAt, date, short} {expiresAt, time}',
-  'org.invitePage.accept': 'அமைப்புக்கு சேரவும்',
-  'org.invitePage.reject': 'ஆஹ்வானத்தை நிராகரிக்கவும்',
-  'org.invitePage.ignore': 'தற்போது போதியதாக விடுவதற்கான அனுமதியை விட்டுவிட்டீர்கள்',
-  'org.leaveOrg.title': 'அமைப்பிலிருந்து விலகு',
-  'org.leaveOrg.confirm':
-    'இது ஒரு அழிவுப் பயன்பாடு. ஒருமுறை நீங்கள் விலகியுள்ளீர்கள், இந்த அமைப்புக்கு அணுகல் முழுதும் இழந்துவிடும். நீங்கள் அமைப்பின் பிரிவுகளுக்கு அணுகல் முடியாது என்று உறுதிப்படுத்துவது உறுதிப்படுத்தப்பட்டதா?',
-  'org.confirmRemove.aria': 'பயனரை நீக்குவதை உறுதிப்படுத்தவும்',
-  'org.confirmRemove.confirm':
-    'நீக்குவதற்கான உறுதிப்படுத்தல் {username} ஐ {organization}இலிருந்து நீக்க வேண்டுமா?',
-  'org.confirmRemove.remove': 'பயனரை நீக்கு',
-  'org.mainBlog': 'முக்கிய வலைப்பதிவு',
-  'org.teams': 'அணிகள்',
-  'org.teams.total': 'மொத்த அணிகள்: {totalTeams, number}',
-  'org.teams.create': 'புதிய அணி உருவாக்குக',
-  'org.teams.settings': 'அணி அமைப்புகள்',
-  'org.workshop.ownerUser': 'ஒரு குழு வேலை அல்ல',
-  'org.workshop.caption': 'குழு உரிமை',
-}
+    'org.members.invited': 'அழைக்கப்பட்ட உறுப்பினர்கள்',
+    'org.members.list': 'அமைப்பு உறுப்பினர்கள்',
+    'org.invitesTileNotice': 'நீங்கள் அழைத்துள்ளீர்கள் {count, number} {count, plural, one {அமைப்புகளுக்கு} other {அமைப்புகள்}}',
+    'org.invitePage.title': 'அமைப்புகளுக்கு ஆஹ்வானங்கள்',
+    'org.invitePage.invitedAt': 'நீங்கள் அழைக்கப்பட்டுள்ளீர்கள் {invitedAt, date, short}.',
+    'org.invitePage.ignoring': 'நீங்கள் தற்போது இந்த ஆஹ்வானத்தை புறக்கணிக்கிறீர்கள், இது என்னுடைய அலுவலகம் இன்றையதாகும் என்பதைக் குறிக்கிறது, ஆனால் அறிவிக்கும் நடவடிக்கைகளை மிகுந்த விடையாக விடுகிறது.',
+    'org.invitePage.expiresAt': 'இந்த ஆஹ்வானம் முடிவு செய்யும் நேரம் {expiresAt, date, short} {expiresAt, time}',
+    'org.invitePage.accept': 'அமைப்புக்கு சேரவும்',
+    'org.invitePage.reject': 'ஆஹ்வானத்தை நிராகரிக்கவும்',
+    'org.invitePage.ignore': 'தற்போது போதியதாக விடுவதற்கான அனுமதியை விட்டுவிட்டீர்கள்',
+    'org.leaveOrg.title': 'அமைப்பிலிருந்து விலகு',
+    'org.leaveOrg.confirm': 'இது ஒரு அழிவுப் பயன்பாடு. ஒருமுறை நீங்கள் விலகியுள்ளீர்கள், இந்த அமைப்புக்கு அணுகல் முழுதும் இழந்துவிடும். நீங்கள் அமைப்பின் பிரிவுகளுக்கு அணுகல் முடியாது என்று உறுதிப்படுத்துவது உறுதிப்படுத்தப்பட்டதா?',
+    'org.confirmRemove.aria': 'பயனரை நீக்குவதை உறுதிப்படுத்தவும்',
+    'org.confirmRemove.confirm': 'நீக்குவதற்கான உறுதிப்படுத்தல் {username} ஐ {organization}இலிருந்து நீக்க வேண்டுமா?',
+    'org.confirmRemove.remove': 'பயனரை நீக்கு',
+    'org.mainBlog': 'முக்கிய வலைப்பதிவு',
+    'org.teams': 'அணிகள்',
+    'org.teams.total': 'மொத்த அணிகள்: {totalTeams, number}',
+    'org.teams.create': 'புதிய அணி உருவாக்குக',
+    'org.teams.settings': 'அணி அமைப்புகள்',
+    'org.workshop.ownerUser': 'ஒரு குழு வேலை அல்ல',
+    'org.workshop.caption': 'குழு உரிமை',
+    'org.workshop.title': 'அமைப்பு பயிற்சி',
+    'org.title': 'அமைப்பு'
+};

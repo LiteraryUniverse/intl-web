@@ -40,22 +40,21 @@ export default {
     user {le profil d'utilisateur}
     other {}
   }`,
-  'blog.social.website': 'Site officiel',
-  'blog.settings.universeSettings':
-    "Les blogs de l'univers sont intégrés aux pages de l'univers et leurs paramètres de base proviennent des paramètres de l'univers.",
-  'blog.settings.organizationSettings':
-    "Les blogs de l'organisation sont intégrés dans les pages de l'organisation.",
-  'blogs.lu': "Blogs officiels de l'Univers Littéraire",
-  'blogs.featured': 'Blogs en vedette',
-  'blogs.new': 'Blogs les plus récents',
-  'blogs.title': "Blogs de l'Univers Littéraire",
-  'blogs.description': "Liste des blogs de la plateforme de l'Univers Littéraire.",
-  'blogs.visit': 'Visitez le blog',
-  'blog.settingsAria': 'Paramètres des catégories pour le blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Forum',
-  'blog.post.introText': "Paragraphe d'introduction",
-  'blog.post.writtenBy': 'Écrit par {usernameDisplay}',
-  'blog.post.writtenByFor': 'Écrit par {usernameDisplay} pour {publicationName}',
-  'blog.posts.recent': 'Publications récentes',
-}
+    'blog.social.website': 'Site officiel',
+    'blog.settings.universeSettings': 'Les blogs de l\'univers sont intégrés aux pages de l\'univers et leurs paramètres de base proviennent des paramètres de l\'univers.',
+    'blog.settings.organizationSettings': 'Les blogs de l\'organisation sont intégrés dans les pages de l\'organisation.',
+    'blogs.lu': 'Blogs officiels de l\'Univers Littéraire',
+    'blogs.featured': 'Blogs en vedette',
+    'blogs.new': 'Blogs les plus récents',
+    'blogs.title': 'Blogs de l\'Univers Littéraire',
+    'blogs.description': 'Liste des blogs de la plateforme de l\'Univers Littéraire.',
+    'blogs.visit': 'Visitez le blog',
+    'blog.settingsAria': 'Paramètres des catégories pour le blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Forum',
+    'blog.post.introText': 'Paragraphe d\'introduction',
+    'blog.post.writtenBy': 'Écrit par {usernameDisplay}',
+    'blog.post.writtenByFor': 'Écrit par {usernameDisplay} pour {publicationName}',
+    'blog.posts.recent': 'Publications récentes',
+    'blog.statsPage': 'Statistiques du blog'
+};

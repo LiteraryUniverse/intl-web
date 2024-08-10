@@ -40,22 +40,21 @@ export default {
     user {perfil d'usuari}
     other {}
   }`,
-  'blog.social.website': 'Lloc web oficial',
-  'blog.settings.universeSettings':
-    "Els blogs d'univers estan integrats a les pàgines d'univers amb la configuració bàsica presa de la configuració de l'univers.",
-  'blog.settings.organizationSettings':
-    "Els blogs de l'organització estan integrats a les pàgines de l'organització.",
-  'blogs.lu': 'Blogs oficials de Literary Universe',
-  'blogs.featured': 'Blogs destacats',
-  'blogs.new': 'Blogs més recents',
-  'blogs.title': 'Blogs de Literary Universe',
-  'blogs.description': 'Llistat de blogs a la plataforma de Literary Universe.',
-  'blogs.visit': 'Visita el blog',
-  'blog.settingsAria': 'Categories de configuració per al blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Fòrum',
-  'blog.post.introText': "Paràgraf d'introducció",
-  'blog.post.writtenBy': 'Escrit per {usernameDisplay}',
-  'blog.post.writtenByFor': 'Escrit per {usernameDisplay} per a {publicationName}',
-  'blog.posts.recent': 'Entrades recents',
-}
+    'blog.social.website': 'Lloc web oficial',
+    'blog.settings.universeSettings': 'Els blogs d\'univers estan integrats a les pàgines d\'univers amb la configuració bàsica presa de la configuració de l\'univers.',
+    'blog.settings.organizationSettings': 'Els blogs de l\'organització estan integrats a les pàgines de l\'organització.',
+    'blogs.lu': 'Blogs oficials de Literary Universe',
+    'blogs.featured': 'Blogs destacats',
+    'blogs.new': 'Blogs més recents',
+    'blogs.title': 'Blogs de Literary Universe',
+    'blogs.description': 'Llistat de blogs a la plataforma de Literary Universe.',
+    'blogs.visit': 'Visita el blog',
+    'blog.settingsAria': 'Categories de configuració per al blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Fòrum',
+    'blog.post.introText': 'Paràgraf d\'introducció',
+    'blog.post.writtenBy': 'Escrit per {usernameDisplay}',
+    'blog.post.writtenByFor': 'Escrit per {usernameDisplay} per a {publicationName}',
+    'blog.posts.recent': 'Entrades recents',
+    'blog.statsPage': 'Estadístiques del blog'
+};

@@ -40,22 +40,21 @@ export default {
     user {profile ng user}
     other {}
   }`,
-  'blog.social.website': 'Opisyal na website',
-  'blog.settings.universeSettings':
-    'Ang mga blog ng universe ay integrado sa mga pahina ng universe na may mga pangunahing setting na kinuha mula sa mga setting ng universe.',
-  'blog.settings.organizationSettings':
-    'Organization blogs are integrated into organization pages.',
-  'blogs.lu': 'Opisyal na mga blog ng Literary Universe',
-  'blogs.featured': 'Mga itinatampok na blog',
-  'blogs.new': 'Pinakabagong mga blog',
-  'blogs.title': 'Mga Blog ng Literary Universe',
-  'blogs.description': 'Listahan ng mga blog sa platform ng Literary Universe.',
-  'blogs.visit': 'Pumunta sa blog',
-  'blog.settingsAria': 'Settings categories for the blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Forum',
-  'blog.post.introText': 'Introduction paragraph',
-  'blog.post.writtenBy': 'Isinulat ni {usernameDisplay}',
-  'blog.post.writtenByFor': 'Isinulat ni {usernameDisplay} para kay {publicationName}',
-  'blog.posts.recent': 'Recent posts',
-}
+    'blog.social.website': 'Opisyal na website',
+    'blog.settings.universeSettings': 'Ang mga blog ng universe ay integrado sa mga pahina ng universe na may mga pangunahing setting na kinuha mula sa mga setting ng universe.',
+    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blogs.lu': 'Opisyal na mga blog ng Literary Universe',
+    'blogs.featured': 'Mga itinatampok na blog',
+    'blogs.new': 'Pinakabagong mga blog',
+    'blogs.title': 'Mga Blog ng Literary Universe',
+    'blogs.description': 'Listahan ng mga blog sa platform ng Literary Universe.',
+    'blogs.visit': 'Pumunta sa blog',
+    'blog.settingsAria': 'Settings categories for the blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Forum',
+    'blog.post.introText': 'Introduction paragraph',
+    'blog.post.writtenBy': 'Isinulat ni {usernameDisplay}',
+    'blog.post.writtenByFor': 'Isinulat ni {usernameDisplay} para kay {publicationName}',
+    'blog.posts.recent': 'Recent posts',
+    'blog.statsPage': 'Estadistika ng Blog'
+};

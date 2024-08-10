@@ -40,22 +40,21 @@ export default {
     user {ལག་ལེན་པའི་གནས་སྡུད་}
     other {}
   }`,
-  'blog.social.website': 'Official website',
-  'blog.settings.universeSettings':
-    'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
-  'blog.settings.organizationSettings':
-    'Organization blogs are integrated into organization pages.',
-  'blogs.lu': 'Official Literary Universe blogs',
-  'blogs.featured': 'Featured blogs',
-  'blogs.new': 'Newest blogs',
-  'blogs.title': 'Blogs of Literary Universe',
-  'blogs.description': 'Listing of blogs on the Literary Universe platform.',
-  'blogs.visit': 'Visit blog',
-  'blog.settingsAria': 'སྤྱིར་གཟིགས་སྒྲིག་སྟེང་ཚོགས་པའི་དབྱེ་ཚན་ཚུ་གི་དབྱེར་མེད་ཚུ་གི་དབྱེ་བ།',
-  'blog.settings.blog': 'བྷོག།',
-  'blog.settings.forum': 'གྲོགས',
-  'blog.post.introText': 'Introduction paragraph',
-  'blog.post.writtenBy': 'Written by {usernameDisplay}',
-  'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
-  'blog.posts.recent': 'Recent posts',
-}
+    'blog.social.website': 'Official website',
+    'blog.settings.universeSettings': 'Universe blogs are integrated into universe pages with their basic settings taken from universe settings.',
+    'blog.settings.organizationSettings': 'Organization blogs are integrated into organization pages.',
+    'blogs.lu': 'Official Literary Universe blogs',
+    'blogs.featured': 'Featured blogs',
+    'blogs.new': 'Newest blogs',
+    'blogs.title': 'Blogs of Literary Universe',
+    'blogs.description': 'Listing of blogs on the Literary Universe platform.',
+    'blogs.visit': 'Visit blog',
+    'blog.settingsAria': 'སྤྱིར་གཟིགས་སྒྲིག་སྟེང་ཚོགས་པའི་དབྱེ་ཚན་ཚུ་གི་དབྱེར་མེད་ཚུ་གི་དབྱེ་བ།',
+    'blog.settings.blog': 'བྷོག།',
+    'blog.settings.forum': 'གྲོགས',
+    'blog.post.introText': 'Introduction paragraph',
+    'blog.post.writtenBy': 'Written by {usernameDisplay}',
+    'blog.post.writtenByFor': 'Written by {usernameDisplay} for {publicationName}',
+    'blog.posts.recent': 'Recent posts',
+    'blog.statsPage': 'བློ་གྲོས་ཚད་མིང་ཚེ་རིང་པ།'
+};

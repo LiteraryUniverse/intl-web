@@ -39,22 +39,21 @@ export default {
     user {no perfil do utilizador}
     other {}
   }`,
-  'blog.social.website': 'Website oficial',
-  'blog.settings.universeSettings':
-    'Os blogs do universo estão integrados em páginas do universo com as suas definições básicas retiradas de definições do universo.',
-  'blog.settings.organizationSettings':
-    'Os blogs da organização são integrados nas páginas da organização.',
-  'blogs.lu': 'Blogs oficiais do Universo Literário',
-  'blogs.featured': 'Blogs em destaque',
-  'blogs.new': 'Blogs mais recentes',
-  'blogs.title': 'Blogs do Universo Literário',
-  'blogs.description': 'Listagem de blogs na plataforma do Universo Literário.',
-  'blogs.visit': 'Visite o blog',
-  'blog.settingsAria': 'Categorias de definições para o blog',
-  'blog.settings.blog': 'Blog',
-  'blog.settings.forum': 'Fórum',
-  'blog.post.introText': 'Parágrafo de introdução',
-  'blog.post.writtenBy': 'Escrito por {usernameDisplay}',
-  'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}',
-  'blog.posts.recent': 'Postagens recentes',
-}
+    'blog.social.website': 'Website oficial',
+    'blog.settings.universeSettings': 'Os blogs do universo estão integrados em páginas do universo com as suas definições básicas retiradas de definições do universo.',
+    'blog.settings.organizationSettings': 'Os blogs da organização são integrados nas páginas da organização.',
+    'blogs.lu': 'Blogs oficiais do Universo Literário',
+    'blogs.featured': 'Blogs em destaque',
+    'blogs.new': 'Blogs mais recentes',
+    'blogs.title': 'Blogs do Universo Literário',
+    'blogs.description': 'Listagem de blogs na plataforma do Universo Literário.',
+    'blogs.visit': 'Visite o blog',
+    'blog.settingsAria': 'Categorias de definições para o blog',
+    'blog.settings.blog': 'Blog',
+    'blog.settings.forum': 'Fórum',
+    'blog.post.introText': 'Parágrafo de introdução',
+    'blog.post.writtenBy': 'Escrito por {usernameDisplay}',
+    'blog.post.writtenByFor': 'Escrito por {usernameDisplay} para {publicationName}',
+    'blog.posts.recent': 'Postagens recentes',
+    'blog.statsPage': 'Estatísticas do blog'
+};
