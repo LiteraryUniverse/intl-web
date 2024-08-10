@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'További információk',
   'event.visibilityShort.private': 'Privát',
   'event.visibilityShort.public': 'Nyilvános',
-  'event.visibilityShort.owner': 'Tulajdonos',
-}
+  'event.visibilityShort.owner': 'Tulajdonos'
+};
