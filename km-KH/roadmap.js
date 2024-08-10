@@ -18,11 +18,9 @@ export default {
   'roadmap.item.inBacklog': 'យើងកំពុងចូលរួមក្នុងការអភិវឌ្ឍន៍លើប្រភេទនេះនៅក្នុងអនុសាសន៍។',
   'roadmap.item.inProgress': 'ការអភិវឌ្ឍន៍នៃប្រភេទនេះបានចាប់ផ្តើមនៅលើ {startedAt, date}។',
   'roadmap.item.inBeta': 'ប្រភេទនេះបានចូលពីរបៀបប្រជុំលេខសំណួរលើ {betaAt, date}។',
-  'roadmap.item.inPreview':
-    'ប្រភេទនេះបានមានជាអនុសាសន៍ជាមួយនឹងអ្នកជាន់ស្រីរបស់ Storyteller នៅលើ {previewAt, date}។',
+  'roadmap.item.inPreview': 'ប្រភេទនេះបានមានជាអនុសាសន៍ជាមួយនឹងអ្នកជាន់ស្រីរបស់ Storyteller នៅលើ {previewAt, date}។',
   'roadmap.item.inGa': 'ប្រភេទនេះបានមានជាអនុសាសន៍ជាធម្មតានៅលើ {gaAt, date}។',
-  'roadmap.item.originalIssue':
-    'ប្រភេទនេះត្រូវបានគេបង្កើតឡើងដោយការផ្តល់អំពីអ្នកប្រើប្រាស់ដែលបានផ្អែកលើវិធីសាស្រ្តរបស់ពួកគេ។',
+  'roadmap.item.originalIssue': 'ប្រភេទនេះត្រូវបានគេបង្កើតឡើងដោយការផ្តល់អំពីអ្នកប្រើប្រាស់ដែលបានផ្អែកលើវិធីសាស្រ្តរបស់ពួកគេ។',
   'roadmap.eta.mapTitle': `បញ្ចប់ក្នុង {quarter, select,
     Q1 {ត្រឹមត្រូវដោយប៉ុន្តែក្នុងឆ្នាំទី១}
     Q2 {ឆ្នាំទី២}
@@ -35,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'ពិនិត្យមើលអ្វីផ្សេងទៀតដែលយើងចង់ធ្វើទៅ',
   'roadmap.seeFinished': 'ប្រសិនបើអ្នកចូលចិត្តស្វែងរកពួកគេប្រវត្តិរបស់យើងទេយើងមានការបង្ហាញទំព័រទូលស្បែកសម្រាប់អ្នក',
   'roadmap.planned': 'បានគេបោះបង់',
-  'roadmap.finished': 'បានបញ្ចប់',
-}
+  'roadmap.finished': 'បានបញ្ចប់'
+};
