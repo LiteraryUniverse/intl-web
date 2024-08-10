@@ -1,39 +1,39 @@
 export default {
-  'blog.noneMsg': `ನೀವು ಪ್ರಸ್ತುತವಾಗಿ ಯಾವುದೇ ಬ್ಲಾಗ್‌ನೊಂದಿಗೆ ಇಲ್ಲಿದ್ದೀರಿ {type, select,
+    'blog.noneMsg': `ನೀವು ಪ್ರಸ್ತುತವಾಗಿ ಯಾವುದೇ ಬ್ಲಾಗ್‌ನೊಂದಿಗೆ ಇಲ್ಲಿದ್ದೀರಿ {type, select,
     organization {ಯಾವುದೇ ಬ್ಲಾಗ್‌ಗಳು ನಿಮ್ಮ ಯೂನಿವರ್ಸ್‌ಗೆ ಇಲ್ಲವೆ}
     universe {ಒಂದು ಬ್ಲಾಗ್‌ಗೆ}
     user {ಬ್ಲಾಗ್‌ಗಳು ಇಲ್ಲವೆ}
     other {}
   }`,
-  'blog.create': 'ಹೊಸ ಬ್ಲಾಗ್ ರಚಿಸಿ',
-  'blog.settings': `{type, select,
+    'blog.create': 'ಹೊಸ ಬ್ಲಾಗ್ ರಚಿಸಿ',
+    'blog.settings': `{type, select,
     org {ಬ್ಲಾಗ್ ವಿನ್ಯಾಸಗಳು}
     universe {ಬ್ಲಾಗ್ ವಿಶ್ವ ಪುಟ}
     user {ಬ್ಲಾಗ್ ಸೆಟ್ಟಿಂಗ್ಗಳು}
     other {}
   } ಸೆಟ್ಟಿಂಗ್ಗಳು`,
-  'blog.description': 'ಬ್ಲಾಗ್‌ ಪರಿಚಯ',
-  'blog.theme': 'ಥೀಮ್',
-  'blog.theme.info': 'ಥೀಮ್‌ಗನುಗ್ಗಿಸುವುದರಿಂದ ಪುಟದ ಹೊಂದಿಕೆ ಬದಲಾಗುತ್ತದೆ. ಈ ಅಂಶ ಈ ಸಮಯದಲ್ಲಿ ಯೋಗ್ಯತೆ ಪಡೆದಿಲ್ಲ.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'ಬ್ಲಾಗ್‌ ಪರಿಚಯ',
+    'blog.theme': 'ಥೀಮ್',
+    'blog.theme.info': 'ಥೀಮ್‌ಗನುಗ್ಗಿಸುವುದರಿಂದ ಪುಟದ ಹೊಂದಿಕೆ ಬದಲಾಗುತ್ತದೆ. ಈ ಅಂಶ ಈ ಸಮಯದಲ್ಲಿ ಯೋಗ್ಯತೆ ಪಡೆದಿಲ್ಲ.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'ಹೊಸ ಪೋಸ್ಟ್ ರಚಿಸಿ',
-  'blog.post.update': 'ಸಂಪಾದನೆ {title}',
-  'blog.post.text': 'ಪೋಸ್ಟ್ ಪಠ್ಯ',
-  'common.slug': 'SEO ಮಿತ್ರ ಪರಿಚಯ',
-  'blog.slug.explained': 'ಪೋಸ್ಟ್‌ಗೆ ಒಳ್ಳೆಯ URL. "-" ಹೊಂದಿರುವುದೊಂದನ್ನೇ ಬಾಳ್ಕೊಳ್ಳುವುದು, ವಿಶೇಷ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಬೇಡಿ.',
-  'blog.publicView': 'ಜನರ ದೃಷ್ಟಿಗೆ ಸೂಕ್ತವಾದುದು',
-  'blog.post.notfound': 'ಈ ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ನ ಪ್ರಕಟಣೆ ಕಾಣಲಿಲ್ಲ',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'ಹೊಸ ಪೋಸ್ಟ್ ರಚಿಸಿ',
+    'blog.post.update': 'ಸಂಪಾದನೆ {title}',
+    'blog.post.text': 'ಪೋಸ್ಟ್ ಪಠ್ಯ',
+    'common.slug': 'SEO ಮಿತ್ರ ಪರಿಚಯ',
+    'blog.slug.explained': 'ಪೋಸ್ಟ್‌ಗೆ ಒಳ್ಳೆಯ URL. "-" ಹೊಂದಿರುವುದೊಂದನ್ನೇ ಬಾಳ್ಕೊಳ್ಳುವುದು, ವಿಶೇಷ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಬೇಡಿ.',
+    'blog.publicView': 'ಜನರ ದೃಷ್ಟಿಗೆ ಸೂಕ್ತವಾದುದು',
+    'blog.post.notfound': 'ಈ ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ನ ಪ್ರಕಟಣೆ ಕಾಣಲಿಲ್ಲ',
+    'blog.lists.works': `{type, select,
     universes {ಬ್ರಹ್ಮಾಂಡಗಳು}
     stories {ಕಥೆಗಳು}
     fanfiction {ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಕೃತಿ}
     other {}
   }`,
-  'blog.social.sameAsMain': `ಸಾಮಾಜಿಕ ಲಿಂಕ್ಗಳು ಹೊಂದಿರುವುದು ಹೀಗೆಯೇ ಹೊಂದಿರುತ್ತವೆ {type, select,
+    'blog.social.sameAsMain': `ಸಾಮಾಜಿಕ ಲಿಂಕ್ಗಳು ಹೊಂದಿರುವುದು ಹೀಗೆಯೇ ಹೊಂದಿರುತ್ತವೆ {type, select,
     organization {ಸಂಸ್ಥೆ ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ}
     user {ಬಳಕೆದಾರ ಪ್ರೊಫೈಲ್ನಲ್ಲಿ}
     other {}
