@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `Du har för närvarande inte {type, select,
+    'blog.noneMsg': `Du har för närvarande inte {type, select,
     organization {någon blogg}
     universe {en blogg för ditt universum}
     user {en blogg}
     other {}
   }.`,
-  'blog.create': 'Skapa en ny blogg',
-  'blog.settings': `{type, select,
+    'blog.create': 'Skapa en ny blogg',
+    'blog.settings': `{type, select,
     org {Blogg}
     universe {Universumssida för bloggen}
     user {Blogg}
     other {}
   } inställningar`,
-  'blog.description': 'Blogginledning',
-  'blog.theme': 'Tema',
-  'blog.theme.info':
-    'Genom att justera temat kan du ändra utseendet på sidan. Den här funktionen är inte redo just nu.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Blogginledning',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Genom att justera temat kan du ändra utseendet på sidan. Den här funktionen är inte redo just nu.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Skapa ett nytt inlägg',
-  'blog.post.update': 'Redigerar {title}',
-  'blog.post.text': 'Inläggstext',
-  'common.slug': 'SEO-vänlig adress',
-  'blog.slug.explained': 'Snygg url till inlägget. Undvik att använda specialtecken förutom "-".',
-  'blog.publicView': 'Offentlig visning',
-  'blog.post.notfound': 'Blogginlägget hittades inte',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Skapa ett nytt inlägg',
+    'blog.post.update': 'Redigerar {title}',
+    'blog.post.text': 'Inläggstext',
+    'common.slug': 'SEO-vänlig adress',
+    'blog.slug.explained': 'Snygg url till inlägget. Undvik att använda specialtecken förutom "-".',
+    'blog.publicView': 'Offentlig visning',
+    'blog.post.notfound': 'Blogginlägget hittades inte',
+    'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Stories}
     fanfiction {Fan Fiction work}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sociala länkar är desamma som anges i {type, select,
+    'blog.social.sameAsMain': `Sociala länkar är desamma som anges i {type, select,
     organization {organisationsinställningar}
     user {användarprofil}
     other {}
