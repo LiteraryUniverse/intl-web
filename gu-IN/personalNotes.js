@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'મહાનકોશ એન્ટ્રી',
   'personalNotes.type.revTextBlock': 'સંશોધન લખાણ ખંડ',
   'personalNotes.chapter': 'અધ્યાય',
-  'personalNotes.recentSearches': 'તાજેતરની શોધો:',
-}
+  'personalNotes.recentSearches': 'તાજેતરની શોધો:'
+};
