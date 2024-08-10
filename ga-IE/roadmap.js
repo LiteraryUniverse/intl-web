@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Táimid ag pleanáil an gné seo a fhorbairt sa todhchaí.',
   'roadmap.item.inProgress': 'Tá forbairt an ghné tosaithe {startedAt, date}.',
   'roadmap.item.inBeta': 'Tá an ghné seo i mbeiteá ar an {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Tá an ghné seo ar fáil do díoltóirí Scéalaíochta anois ar an {previewAt, date}.',
+  'roadmap.item.inPreview': 'Tá an ghné seo ar fáil do díoltóirí Scéalaíochta anois ar an {previewAt, date}.',
   'roadmap.item.inGa': 'Tá an ghné seo ar fáil go ginearálta anois ar an {gaAt, date}.',
   'roadmap.item.originalIssue': 'Mhol ár úsáideoirí an ghné seo sa tús.',
   'roadmap.eta.mapTitle': `Pleanáilte don {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Críochnaithe ar {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Ar ais chuig an bóthar pleanála',
   'roadmap.seeBacklog': 'Féach cad eile atáimid ag pleanáil a dhéanamh',
-  'roadmap.seeFinished':
-    'Má thaitníonn leat tuilleadh a fháil amach faoinár stair, tá léarscáil deas réidh duit',
+  'roadmap.seeFinished': 'Má thaitníonn leat tuilleadh a fháil amach faoinár stair, tá léarscáil deas réidh duit',
   'roadmap.planned': 'Pleanáilte',
-  'roadmap.finished': 'Críochnaithe',
-}
+  'roadmap.finished': 'Críochnaithe'
+};
