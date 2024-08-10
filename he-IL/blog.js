@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `אין לך כרגע {type, select,
+    'blog.noneMsg': `אין לך כרגע {type, select,
     organization {שום בלוג}
     universe {בלוג עבור היקום שלך}
     user {בלוג}
     other {}
   }.`,
-  'blog.create': 'צור בלוג חדש',
-  'blog.settings': `{type, select,
+    'blog.create': 'צור בלוג חדש',
+    'blog.settings': `{type, select,
     org {בלוג}
     universe {דף יחידת היקום}
     user {בלוג}
     other {}
   } הגדרות`,
-  'blog.description': 'מבוא לבלוג',
-  'blog.theme': 'ערכת עיצוב',
-  'blog.theme.info':
-    'על ידי התאמת הערכת עיצוב תהיה לך אפשרות לשנות את מראה העמוד. תכונה זו אינה מוכנה כרגע.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'מבוא לבלוג',
+    'blog.theme': 'ערכת עיצוב',
+    'blog.theme.info': 'על ידי התאמת הערכת עיצוב תהיה לך אפשרות לשנות את מראה העמוד. תכונה זו אינה מוכנה כרגע.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'צור פוסט חדש',
-  'blog.post.update': 'עריכת {title}',
-  'blog.post.text': 'תוכן הפוסט',
-  'common.slug': 'כתובת ידידותית למנוע המונחים',
-  'blog.slug.explained': 'כתובת url יפה לפוסט. יש להימנע משימוש בתווים מיוחדים חוץ מ"-".',
-  'blog.publicView': 'תצוגה ציבורית',
-  'blog.post.notfound': 'פוסט הבלוג לא נמצא',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'צור פוסט חדש',
+    'blog.post.update': 'עריכת {title}',
+    'blog.post.text': 'תוכן הפוסט',
+    'common.slug': 'כתובת ידידותית למנוע המונחים',
+    'blog.slug.explained': 'כתובת url יפה לפוסט. יש להימנע משימוש בתווים מיוחדים חוץ מ"-".',
+    'blog.publicView': 'תצוגה ציבורית',
+    'blog.post.notfound': 'פוסט הבלוג לא נמצא',
+    'blog.lists.works': `{type, select,
     universes {יקומים}
     stories {סיפורים}
     fanfiction {יצירת פאן פיקשן}
     other {}
   }`,
-  'blog.social.sameAsMain': `Social links are the same as set in {type, select,
+    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
