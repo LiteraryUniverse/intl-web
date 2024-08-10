@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'फोरम सक्षम गर्नुहोस्',
   'forums.archive': 'फोरम संग्रहीत गर्नुहोस्',
-  'forums.archive.explained':
-    'फोरम को संग्रहीत करने से उपयोगकर्ताओं को किसी भी आगे की सामग्री पोस्ट करने से रोका जाएगा, लेकिन यह दृश्यमान रहेगा।',
+  'forums.archive.explained': 'फोरम को संग्रहीत करने से उपयोगकर्ताओं को किसी भी आगे की सामग्री पोस्ट करने से रोका जाएगा, लेकिन यह दृश्यमान रहेगा।',
   'forums.archive.success': 'फोरम संग्रहीत कर दिया गया है',
   'forums.unArchive': 'फोरम को पुनः सक्रिय करें',
   'forums.unArchive.success': 'फोरम पुनः सक्रिय कर दिया गया है!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'श्रेणी का नाम',
   'forums.category.slug': 'एसईओ यूआरएल भाग',
   'forums.category.settings': 'श्रेणी सेटिंग्स',
-  'forums.category.language':
-    'इस श्रेणी को निम्नलिखित भाषा में प्रदर्शित करें। अगर आप श्रेणी को सभी भाषाओं में प्रदर्शित करना चाहते हैं तो खाली छोड़ दें।',
-  'forums.category.intlNameDescription':
-    'हमने आपके चयन के लिए सामान्य श्रेणी नामों को स्थानांतरित किया है, ताकि श्रेणी सभी समर्थित भाषाओं में उपलब्ध हो सके।',
+  'forums.category.language': 'इस श्रेणी को निम्नलिखित भाषा में प्रदर्शित करें। अगर आप श्रेणी को सभी भाषाओं में प्रदर्शित करना चाहते हैं तो खाली छोड़ दें।',
+  'forums.category.intlNameDescription': 'हमने आपके चयन के लिए सामान्य श्रेणी नामों को स्थानांतरित किया है, ताकि श्रेणी सभी समर्थित भाषाओं में उपलब्ध हो सके।',
   'forums.thread.new': 'नया थ्रेड',
   'forums.thread.delete': 'थ्रेड हटाएं',
   'forums.post.new': 'नया पोस्ट',
-  'forums.archived.forum':
-    'इस फोरम को {archivedAt, date, long}पर संग्रहीत कर दिया गया है। आप अभी भी फोरम देख सकते हैं, लेकिन आप नई सामग्री नहीं बना सकते।',
+  'forums.archived.forum': 'इस फोरम को {archivedAt, date, long}पर संग्रहीत कर दिया गया है। आप अभी भी फोरम देख सकते हैं, लेकिन आप नई सामग्री नहीं बना सकते।',
   'forums.category.archive': 'श्रेणी को संग्रहीत करें',
-  'forums.category.archiveExplained':
-    'जे थ्रेड नभईसकेको छ, त्यसो श्रेणी हटाइनेछ, जबकि सामग्रीसहितको श्रेणीले नयाँ थ्रेडको सिर्जना रोक्नेछ।',
+  'forums.category.archiveExplained': 'जे थ्रेड नभईसकेको छ, त्यसो श्रेणी हटाइनेछ, जबकि सामग्रीसहितको श्रेणीले नयाँ थ्रेडको सिर्जना रोक्नेछ।',
   'forums.category.reactivate': 'श्रेणी को पुनः सक्रिय करें',
   'forums.category.isVotable': 'उपयोगकर्ताओं को थ्रेड पर मतदान करने/मतदान करने की अनुमति दें',
-  'forums.category.titleIsGlobal':
-    'यदि हामीले यसलाई समर्थन गर्छौं भने यो श्रेणी श्रेणी शीर्षकलाई प्रयोगकर्ताको भाषामा देखाइनेछ।',
+  'forums.category.titleIsGlobal': 'यदि हामीले यसलाई समर्थन गर्छौं भने यो श्रेणी श्रेणी शीर्षकलाई प्रयोगकर्ताको भाषामा देखाइनेछ।',
   'forums.category.languageLimited': 'यस भाषामा मात्र प्रयोगकर्तालाई यो श्रेणी देखाइनेछ।',
   'forums.threadsCounter': 'कुल विषय चर्चाहरूको संख्या',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'केवल पंजीकृत उपयोगकर्ताओं को पहुँच दें',
   'forums.settings.accessControls': 'पहुँच नियंत्रणहरू',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'यो फोरम मात्र पंजीकृत प्रयोगकर्तालाई हीन गरिएको छ।',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'यो फोरम मात्र पंजीकृत प्रयोगकर्तालाई हीन गरिएको छ।',
   'forums.noThreads': 'यहाँ केहि हेर्न छैन। बातचीत सुरु गर्नु तपाईंलाई मात्रै हो।',
   'forums.noPosts': 'अझै कसैले पनि उत्तर दिएको छैन। पहिलो हुनुहोस्!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {जवाफ}
     other {जवाफहरू}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
+};
