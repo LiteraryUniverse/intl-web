@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Zapnout fórum',
   'forums.archive': 'Archivovat fórum',
-  'forums.archive.explained':
-    'Archivace fóra zabrání uživatelům publikovat další obsah, ale příspěvky zůstane viditelné.',
+  'forums.archive.explained': 'Archivace fóra zabrání uživatelům publikovat další obsah, ale příspěvky zůstane viditelné.',
   'forums.archive.success': 'Fórum bylo archivováno',
   'forums.unArchive': 'Znovu aktivovat fórum',
   'forums.unArchive.success': 'Fórum bylo reaktivováno!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'Název kategorie',
   'forums.category.slug': 'SEO url část',
   'forums.category.settings': 'Nastavení kategorie',
-  'forums.category.language':
-    'Omezit zobrazení této kategorie na následující jazyk. Ponechte prázdné, pokud chcete zobrazit kategorii ve všech jazycích.',
-  'forums.category.intlNameDescription':
-    'Máme lokalizované názvy běžných kategorií pro Váš výběr, takže kategorie může být k dispozici pro všechny podporované jazyky.',
+  'forums.category.language': 'Omezit zobrazení této kategorie na následující jazyk. Ponechte prázdné, pokud chcete zobrazit kategorii ve všech jazycích.',
+  'forums.category.intlNameDescription': 'Máme lokalizované názvy běžných kategorií pro Váš výběr, takže kategorie může být k dispozici pro všechny podporované jazyky.',
   'forums.thread.new': 'Nové diskusní vlákno',
   'forums.thread.delete': 'Smazat diskusní vlákno',
   'forums.post.new': 'Nový příspěvek',
-  'forums.archived.forum':
-    'Toto fórum bylo archivováno {archivedAt, date, long}. Stále můžete prohlížet fórum, ale již nemůžete vytvářet nový obsah.',
+  'forums.archived.forum': 'Toto fórum bylo archivováno {archivedAt, date, long}. Stále můžete prohlížet fórum, ale již nemůžete vytvářet nový obsah.',
   'forums.category.archive': 'Archivovat kategorii',
-  'forums.category.archiveExplained':
-    'Kategorie, která nemá žádná diskusní vlákna, bude smazána, zatímco kategorie s obsahem zabrání vytváření nových vláken.',
+  'forums.category.archiveExplained': 'Kategorie, která nemá žádná diskusní vlákna, bude smazána, zatímco kategorie s obsahem zabrání vytváření nových vláken.',
   'forums.category.reactivate': 'Znovu aktivovat kategorii',
   'forums.category.isVotable': 'Povolit uživatelům nahoru/dolů hlasovací vlákna',
-  'forums.category.titleIsGlobal':
-    'Tento název kategorie se zobrazí v jazyce uživatele, pokud jej podporujeme.',
+  'forums.category.titleIsGlobal': 'Tento název kategorie se zobrazí v jazyce uživatele, pokud jej podporujeme.',
   'forums.category.languageLimited': 'Tato kategorie se zobrazí pouze uživatelům v tomto jazyce.',
   'forums.threadsCounter': 'Celkový počet diskusí',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Povolit přístup pouze registrovaným uživatelům',
   'forums.settings.accessControls': 'Nastavení přístupů',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Toto fórum je přístupné pouze registrovaným uživatelům.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Toto fórum je přístupné pouze registrovaným uživatelům.',
   'forums.noThreads': 'Zatím tu nic není. Je na Vás něco začít.',
   'forums.noPosts': 'Zatím nikdo neodpověděl. Buďte první!',
   // Threads
@@ -73,5 +66,5 @@ export default {
     many {odpovědí}
     other {odpovědí}
   }`,
-  'forums.thread.createdAt': 'Vytvořeno {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Vytvořeno {createdAt, date, medium}'
+};
