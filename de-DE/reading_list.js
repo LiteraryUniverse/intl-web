@@ -22,5 +22,5 @@ export default {
     other {Geschichten und Universen}
   } zur Leseliste hinzuzufügen.`,
   'readingList.addItem.fromLibrary': 'Von der Bibliothek',
-  'readingList.button.added': 'Hinzugefügt',
-}
+  'readingList.button.added': 'Hinzugefügt'
+};
