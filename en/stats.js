@@ -39,5 +39,5 @@ export default {
   'stats.blog.pages': 'Pages',
   'stats.blog.posts': 'Posts',
   'stats.unknown': 'Unknown',
-  'stats.noData': 'No data available at this time.'
+  'stats.noData': 'No data available at this time.',
 }
