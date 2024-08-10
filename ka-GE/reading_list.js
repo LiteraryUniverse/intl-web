@@ -22,5 +22,5 @@ export default {
     other {მოთავსებები და უნივერსები}
   }`,
   'readingList.addItem.fromLibrary': 'ბიბლიოთეკიდან',
-  'readingList.button.added': 'დამატებულია',
-}
+  'readingList.button.added': 'დამატებულია'
+};
