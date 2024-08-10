@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'फोरम सक्षम करा',
   'forums.archive': 'फोरम संग्रहित करा',
-  'forums.archive.explained':
-    'फोरम आर्काइव्ह करणे युजरने आणखी कोणतीही आशय टाकण्याची परवानगी आहे, पण ती दृश्यमान राहील.',
+  'forums.archive.explained': 'फोरम आर्काइव्ह करणे युजरने आणखी कोणतीही आशय टाकण्याची परवानगी आहे, पण ती दृश्यमान राहील.',
   'forums.archive.success': 'फोरम आर्काइव्ह केला गेला आहे',
   'forums.unArchive': 'फोरम पुन्हा सक्रिय करा',
   'forums.unArchive.success': 'फोरम पुन्हा सक्रिय केला गेला आहे!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'श्रेणीचे नाव',
   'forums.category.slug': 'SEO URL भाग',
   'forums.category.settings': 'श्रेणी सेटिंग्ज',
-  'forums.category.language':
-    'या श्रेणीचे प्रदर्शन खालील भाषेत राहण्याची मर्यादा ठेवा. जर आपण श्रेणी सर्व भाषांमध्ये दाखवू इच्छित असाल तर रिकामे ठेवा.',
-  'forums.category.intlNameDescription':
-    'आपल्या निवडीसाठी सामान्य श्रेणीच्या नावांची स्थानिकीकरण केली आहे, म्हणूनच श्रेणी सर्व समर्थित भाषांमध्ये उपलब्ध असावी.',
+  'forums.category.language': 'या श्रेणीचे प्रदर्शन खालील भाषेत राहण्याची मर्यादा ठेवा. जर आपण श्रेणी सर्व भाषांमध्ये दाखवू इच्छित असाल तर रिकामे ठेवा.',
+  'forums.category.intlNameDescription': 'आपल्या निवडीसाठी सामान्य श्रेणीच्या नावांची स्थानिकीकरण केली आहे, म्हणूनच श्रेणी सर्व समर्थित भाषांमध्ये उपलब्ध असावी.',
   'forums.thread.new': 'नवीन थ्रेड',
   'forums.thread.delete': 'थ्रेड काढा',
   'forums.post.new': 'नवीन पोस्ट',
-  'forums.archived.forum':
-    'या फोरमची आर्काइव्ह केली गेली आहे {archivedAt, date, long}. आपण अजूनही फोरम पहू शकता, पण आपल्याला नवीन सामग्री तयार करण्याची परवानगी नाही.',
+  'forums.archived.forum': 'या फोरमची आर्काइव्ह केली गेली आहे {archivedAt, date, long}. आपण अजूनही फोरम पहू शकता, पण आपल्याला नवीन सामग्री तयार करण्याची परवानगी नाही.',
   'forums.category.archive': 'श्रेणी आर्काइव्ह करा',
-  'forums.category.archiveExplained':
-    'तारणारी निवड असलेल्या वर्गांना हटविले जाईल, पण सामग्री असलेल्या वर्गांनी नवीन थ्रेड्स तयार करण्याची परवानगी देत नाही.',
+  'forums.category.archiveExplained': 'तारणारी निवड असलेल्या वर्गांना हटविले जाईल, पण सामग्री असलेल्या वर्गांनी नवीन थ्रेड्स तयार करण्याची परवानगी देत नाही.',
   'forums.category.reactivate': 'श्रेणी पुन्हा सक्रिय करा',
   'forums.category.isVotable': 'युजरला थ्रेड वोट करण्याची परवानगी द्या',
-  'forums.category.titleIsGlobal':
-    'यदि आपल्याला हे आधार करता तर हे वर्गदर्शक शीर्षक वापरकर्त्यांच्या भाषेत दिसेल.',
+  'forums.category.titleIsGlobal': 'यदि आपल्याला हे आधार करता तर हे वर्गदर्शक शीर्षक वापरकर्त्यांच्या भाषेत दिसेल.',
   'forums.category.languageLimited': 'ही वर्ग केवळ ह्या भाषेतील वापरकर्त्यांसाठी दिसेल.',
   'forums.threadsCounter': 'टॉटल विषय चर्चा',
   // Pre-defined category names
@@ -70,5 +64,5 @@ export default {
     one {प्रतिसाद}
     other {प्रतिसाद}
   }`,
-  'forums.thread.createdAt': 'तयार केले दिनांक {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'तयार केले दिनांक {createdAt, date, medium}'
+};
