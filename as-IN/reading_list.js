@@ -22,5 +22,5 @@ export default {
     other {গল্প এবং বিশ্ব}
   } যোগ করার মোডাল।`,
   'readingList.addItem.fromLibrary': 'লাইব্রেরী থেকে',
-  'readingList.button.added': 'যোগ করা হয়েছে',
-}
+  'readingList.button.added': 'যোগ করা হয়েছে'
+};
