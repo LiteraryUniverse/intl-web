@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'സ്വകാര്യമായി',
   'event.visibilityShort.public': 'പൊതുവായി',
-  'event.visibilityShort.owner': 'Owner',
-}
+  'event.visibilityShort.owner': 'Owner'
+};
