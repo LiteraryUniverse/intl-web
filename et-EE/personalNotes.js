@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Entsüklopeedia sissekanne',
   'personalNotes.type.revTextBlock': 'Parandusteksti plokk',
   'personalNotes.chapter': 'Peatükk',
-  'personalNotes.recentSearches': 'Viimased otsingud:',
-}
+  'personalNotes.recentSearches': 'Viimased otsingud:'
+};
