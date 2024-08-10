@@ -8,16 +8,15 @@ export default {
   'events.details.image': '.i lo fasnu noi pixra',
   'events.details.description': '.i lo fasnu noi mukti / lo jdini',
   'events.details.url': '.i lo gerna be lo se dunda fi lo fasnu noi detri',
-  'events.details.virtualLink':
-    '.i lo gerna be lo fatci vreji karce (ie. Zoom, Google Meets, etc.)',
+  'events.details.virtualLink': '.i lo gerna be lo fatci vreji karce (ie. Zoom, Google Meets, etc.)',
   'events.details.address': '.i lo se nenri be lo zdani',
-  'events.details.startsAt': ".i lo fasnu mo'u sance",
+  'events.details.startsAt': '.i lo fasnu mo\'u sance',
   'events.details.endsAt': '.i lo fasnu se darxi',
   'events.details.type': '.i lo fasnu noi klesi',
   'events.type.inPerson': '.i se klama be fi lo zdani',
   'events.type.virtual': '.i vreji',
   'events.type.hybrid': '.i hybrida',
-  'events.join.startsIn': ".i lo fasnu mo'u sance {startsAt}",
+  'events.join.startsIn': '.i lo fasnu mo\'u sance {startsAt}',
   // The startsAt is going to be in a relative time format. Eg. `in 1 minute`, `1 day ago`, etc...
   'events.join.virtual': '.i se stika fi lo fasnu',
   'events.selection.origin': '.i lo fasnu noi mukti',
@@ -40,8 +39,8 @@ export default {
   'events.create.title': 'Create a new event',
   'events.hostedBy': 'Hosted by {hostName}',
   'events.openVirtual': 'Go to virtual location',
-  'events.moreInfo': "Moi je'u",
+  'events.moreInfo': 'Moi je\'u',
   'event.visibilityShort.private': 'Private',
   'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Owner',
-}
+  'event.visibilityShort.owner': 'Owner'
+};
