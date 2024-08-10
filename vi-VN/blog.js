@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'Tạo một blog mới',
-  'blog.settings': `{type, select,
+    'blog.create': 'Tạo một blog mới',
+    'blog.settings': `{type, select,
     org {Trang Blog}
     universe {Trang Vũ trụ}
     user {Trang Blog}
     other {}
   } Cài đặt`,
-  'blog.description': 'Giới thiệu về Blog',
-  'blog.theme': 'Giao diện',
-  'blog.theme.info':
-    'Điều chỉnh chủ đề, bạn sẽ có thể thay đổi giao diện của trang. Tính năng này hiện chưa có vào lúc này.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Giới thiệu về Blog',
+    'blog.theme': 'Giao diện',
+    'blog.theme.info': 'Điều chỉnh chủ đề, bạn sẽ có thể thay đổi giao diện của trang. Tính năng này hiện chưa có vào lúc này.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Tạo bài viết mới',
-  'blog.post.update': 'Đang chỉnh sửa {title}',
-  'blog.post.text': 'Đoạn văn bản bài viết',
-  'common.slug': 'Địa chỉ tựa đề thân thiện với SEO',
-  'blog.slug.explained': 'URL đẹp cho bài viết. Tránh sử dụng các ký tự đặc biệt trừ "-".',
-  'blog.publicView': 'Xem công khai',
-  'blog.post.notfound': 'Không tìm thấy bài viết trong blog',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Tạo bài viết mới',
+    'blog.post.update': 'Đang chỉnh sửa {title}',
+    'blog.post.text': 'Đoạn văn bản bài viết',
+    'common.slug': 'Địa chỉ tựa đề thân thiện với SEO',
+    'blog.slug.explained': 'URL đẹp cho bài viết. Tránh sử dụng các ký tự đặc biệt trừ "-".',
+    'blog.publicView': 'Xem công khai',
+    'blog.post.notfound': 'Không tìm thấy bài viết trong blog',
+    'blog.lists.works': `{type, select,
     universes {Vũ trụ}
     stories {Câu chuyện}
     fanfiction {Tác phẩm Fan Fiction}
     other {}
   }`,
-  'blog.social.sameAsMain': `Liên kết xã hội giống như được thiết lập trong {type, select,
+    'blog.social.sameAsMain': `Liên kết xã hội giống như được thiết lập trong {type, select,
     organization {cài đặt tổ chức}
     user {hồ sơ người dùng}
     other {}
