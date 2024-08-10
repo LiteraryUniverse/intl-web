@@ -8,8 +8,7 @@ export default {
   'events.details.image': 'Изображение события',
   'events.details.description': 'Описание события / план',
   'events.details.url': 'Ссылка на подробности',
-  'events.details.virtualLink':
-    'Ссылка на виртуальное местоположение (т.е. Zoom, Google Meets и т.д.)',
+  'events.details.virtualLink': 'Ссылка на виртуальное местоположение (т.е. Zoom, Google Meets и т.д.)',
   'events.details.address': 'Адрес места проведения',
   'events.details.startsAt': 'Начало события',
   'events.details.endsAt': 'Событие закончится',
@@ -43,5 +42,5 @@ export default {
   'events.moreInfo': 'Узнать больше',
   'event.visibilityShort.private': 'Закрытое',
   'event.visibilityShort.public': 'Открытое',
-  'event.visibilityShort.owner': 'Владелец',
-}
+  'event.visibilityShort.owner': 'Владелец'
+};
