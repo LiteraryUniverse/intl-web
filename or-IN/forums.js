@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'ଫୋରମ୍ ଚାଲୁ କରନ୍ତୁ',
   'forums.archive': 'ଫୋରମ୍ ଆର୍କାଇଭ୍ କରନ୍ତୁ',
-  'forums.archive.explained':
-    'Archiving forum will prevent users from posting any further content, but it will remain visible.',
+  'forums.archive.explained': 'Archiving forum will prevent users from posting any further content, but it will remain visible.',
   'forums.archive.success': 'Forum has been archived',
   'forums.unArchive': 'Re-activate forums',
   'forums.unArchive.success': 'Forum has been re-activated!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'Category name',
   'forums.category.slug': 'SEO url part',
   'forums.category.settings': 'Category settings',
-  'forums.category.language':
-    'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
-  'forums.category.intlNameDescription':
-    'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
+  'forums.category.language': 'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
+  'forums.category.intlNameDescription': 'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
   'forums.thread.new': 'New thread',
   'forums.thread.delete': 'Delete thread',
   'forums.post.new': 'ନୂତନ ପୋଷ୍ଟ',
-  'forums.archived.forum':
-    'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
+  'forums.archived.forum': 'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
   'forums.category.archive': 'Archive category',
-  'forums.category.archiveExplained':
-    'ସବୁ ଥ୍ରେଡର ନାହିଁମାନେ ଥାଏବେ ମିଟାଇବାକୁ ଚୟନ କରାଯାଇଛି, ଏହାରେ ବିଷୟବସ୍ତୁ ସହିତ କାଟାଯାଇଛି ଯେଉଁଥିପାରିବେ ।',
+  'forums.category.archiveExplained': 'ସବୁ ଥ୍ରେଡର ନାହିଁମାନେ ଥାଏବେ ମିଟାଇବାକୁ ଚୟନ କରାଯାଇଛି, ଏହାରେ ବିଷୟବସ୍ତୁ ସହିତ କାଟାଯାଇଛି ଯେଉଁଥିପାରିବେ ।',
   'forums.category.reactivate': 'Re-activate category',
   'forums.category.isVotable': 'Allow users to up/down vote threads',
-  'forums.category.titleIsGlobal':
-    'ଏହା ବର୍ତମାନରେ ବିଭାଷା ସମର୍ଥିତ ହୋଇଥିବା ବିଭାଗ ଶୀର୍ଷକ ପ୍ରଦର୍ଶିତ ହେବ ଯଦି ଆମେ ସମର୍ଥନ କରୁଥିବା ଭାଷାରେ ।',
+  'forums.category.titleIsGlobal': 'ଏହା ବର୍ତମାନରେ ବିଭାଷା ସମର୍ଥିତ ହୋଇଥିବା ବିଭାଗ ଶୀର୍ଷକ ପ୍ରଦର୍ଶିତ ହେବ ଯଦି ଆମେ ସମର୍ଥନ କରୁଥିବା ଭାଷାରେ ।',
   'forums.category.languageLimited': 'ଏହା ବିଭାଗ କେବଳ ଏହି ଭାଷାରେ ବ୍ୟବହାରକାରୀଙ୍କୁ ପ୍ରଦର୍ଶିତ ହେବ ।',
   'forums.threadsCounter': 'ମୋଟ ବିଷୟର ଆଲୋଚନାର ସଂଖ୍ୟା',
   // Pre-defined category names
@@ -70,5 +64,5 @@ export default {
     one {ଉତ୍ତର}
     other {ଉତ୍ତର}
   }`,
-  'forums.thread.createdAt': 'ଏହା {createdAt, date, medium}ରେ ତିଆରି ହୋଇଛି',
-}
+  'forums.thread.createdAt': 'ଏହା {createdAt, date, medium}ରେ ତିଆରି ହୋଇଛି'
+};
