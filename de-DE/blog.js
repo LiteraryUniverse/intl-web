@@ -1,22 +1,21 @@
 export default {
-  'blog.noneMsg': `Du hast derzeit kein {type, select,
+    'blog.noneMsg': `Du hast derzeit kein {type, select,
     organization {Blog}
     universe {Blog für dein Universum}
     user {Blog}
     other {Blog}
   }.`,
-  'blog.create': 'Neuen Blog anlegen',
-  'blog.settings': `{type, select,
+    'blog.create': 'Neuen Blog anlegen',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Universum Seite}
     user {Blog}
     other {}
   } Einstellungen`,
-  'blog.description': 'Blog-Einführung',
-  'blog.theme': 'Thema',
-  'blog.theme.info':
-    'Durch Anpassen des Themas können Sie das Aussehen der Seite ändern. Diese Funktion ist derzeit noch nicht fertig.',
-  'blog.posts.total': `Da {total, plural,
+    'blog.description': 'Blog-Einführung',
+    'blog.theme': 'Thema',
+    'blog.theme.info': 'Durch Anpassen des Themas können Sie das Aussehen der Seite ändern. Diese Funktion ist derzeit noch nicht fertig.',
+    'blog.posts.total': `Da {total, plural,
     one {ist ein Beitrag}
     other {sind # Beiträge}
   } in diesem Blog.`,
@@ -33,7 +32,7 @@ export default {
     fanfiction {Fan Fiction Arbeit}
     other {}
   }`,
-  'blog.social.sameAsMain': `Soziale Links sind die gleichen wie in {type, select,
+    'blog.social.sameAsMain': `Soziale Links sind die gleichen wie in {type, select,
     organization {Organisationseinstellungen}
     user {Benutzerprofil}
     other {}
