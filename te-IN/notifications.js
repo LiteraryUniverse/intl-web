@@ -4,8 +4,7 @@ export default {
   'flashnews.startsAt': 'ఈ సందేశాన్ని  ప్రదర్శింపడం ప్రారంభించడానికి',
   'flashnews.endsAt': 'ఈ సందేశాన్ని  ప్రదర్శించడం ఆపుకోడానికి',
   'flashnews.newLanguage': 'జత నేపథ్యంలో కొత్త భాషను ఎంచుకోండి',
-  'flashnews.onlyDisplayOn':
-    'ఈ న్యూస్ ఇచ్చిన భాషలలో (అయినా మీరు ఏ అయినా ఎంచుకోవచ్చు) మాత్రమే ప్రదర్శించబడుతుంది, ఇతర భాషలలో అంటే ప్రముఖ భాషలో ఏ న్యూస్ కూడా కనబడదు.',
+  'flashnews.onlyDisplayOn': 'ఈ న్యూస్ ఇచ్చిన భాషలలో (అయినా మీరు ఏ అయినా ఎంచుకోవచ్చు) మాత్రమే ప్రదర్శించబడుతుంది, ఇతర భాషలలో అంటే ప్రముఖ భాషలో ఏ న్యూస్ కూడా కనబడదు.',
   'notifications.menu.all': 'అన్ని ప్రకటనలు',
   'notifications.menu.following': 'అనుసరించే వారు',
   'notifications.menu.workshop': 'కార్యశాల',
@@ -14,10 +13,8 @@ export default {
   'notifications.menu.markRead': 'చదువుకొని ఉంచండి',
   'notifications.menu.delete': 'ప్రకటనను తొలగించండి',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus':
-    'మీ కథ {storyName} ని 6 నెలల నిష్క్రమణం అయంతం తరవాత ఆటమాటిక్ గా నిలిపివేయబడింది.',
-  'notification.workshopStoryStatus.toCancelled':
-    'మీ కథ {storyName} ని ఒక సంవత్సరం నిష్క్రమణం అయంతం తరవాత ఆటమాటిక్ గా రద్దు ఆయింది.',
+  'notification.workshopStoryStatus.toHiatus': 'మీ కథ {storyName} ని 6 నెలల నిష్క్రమణం అయంతం తరవాత ఆటమాటిక్ గా నిలిపివేయబడింది.',
+  'notification.workshopStoryStatus.toCancelled': 'మీ కథ {storyName} ని ఒక సంవత్సరం నిష్క్రమణం అయంతం తరవాత ఆటమాటిక్ గా రద్దు ఆయింది.',
   'notification.followingStoryStatus.toHiatus': '{storyName} ని నిలిపిస్తుంది.',
   'notification.followingStoryStatus.toCancelled': '{storyName} రద్దు చేయబడింది.',
   'notification.followingNewChapter.new': 'కథ {storyName} లో కొత్త అధ్యాయం ప్రచురించబడింది!',
@@ -26,5 +23,5 @@ export default {
   'notification.friendRequest': 'మీకు ఒక స్నేహిత అభ్యర్థన పంపబడింది.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'కథకు వెళ్ళు',
-}
+  'notificationExtra.workshopStoryStatus.goToStory': 'కథకు వెళ్ళు'
+};
