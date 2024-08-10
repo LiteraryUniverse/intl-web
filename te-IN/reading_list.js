@@ -22,5 +22,5 @@ export default {
     other {కథలు మరియు యూనివర్సులు}
   } కొత్త జాబితాకు మోడల్ జోడించండి.`,
   'readingList.addItem.fromLibrary': 'లైబ్రరీ నుండి',
-  'readingList.button.added': 'జోడించబడినది',
-}
+  'readingList.button.added': 'జోడించబడినది'
+};
