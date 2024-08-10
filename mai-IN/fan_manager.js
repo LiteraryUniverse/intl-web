@@ -10,8 +10,7 @@ export default {
   'fanManager.state.rejected': 'त्याग गरिएको',
   'fanManager.state.hidden': 'लुकाइएको',
   'fanManager.publicComment': 'सार्वजनिक टिप्पणी',
-  'fanManager.publicComment.desc':
-    'यस कलाको बारेमा तपाईको सार्वजनिक पृष्ठमा आधिकारिक टिप्पणीको रुपमा देखाइनेछ।',
+  'fanManager.publicComment.desc': 'यस कलाको बारेमा तपाईको सार्वजनिक पृष्ठमा आधिकारिक टिप्पणीको रुपमा देखाइनेछ।',
   'fanManager.authorComment': 'लेखकको लागि टिप्पणी',
   'fanManager.authorComment.desc': 'यो कलाको लेखकलाई तपाईँद्वारा प्राइभेट टिप्पणी हो।',
   'fanManager.stateChange.approve': 'फ्यान आर्टलाई मान्यता दिनुहोस्',
@@ -20,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'फ्यान आर्टलाई दृश्यमान बनाउनुहोस्',
   'fanManager.fanFictionNotAllowed': 'फ्यान फिक्शन आपत्तिको बारम्बार अनुमति दिनु हुँदैन।',
   'fanManager.fanFiction.maxRating': 'देखाइने फ्यान फिक्शनको अधिकतम दर्जा।',
-}
+  'fanManager.hidden.nothingFound': 'कोई गुप्त प्रशंसा कला नहीं मिली।',
+  'fanManager.rejected.nothingFound': 'कोई अस्वीकृत प्रशंसा कला नहीं मिली।',
+  'fanManager.approved.nothingFound': 'कोई स्वीकृत प्रशंसा कला नहीं मिली।',
+  'fanManager.submitted.nothingFound': 'कोई दाखिल गरिएका समर्थक कला भेटिएन।'
+};
