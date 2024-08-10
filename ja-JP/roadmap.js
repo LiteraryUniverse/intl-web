@@ -33,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'その他、どのようなことを予定しているかは、こちらをご覧ください。',
   'roadmap.seeFinished': '当社の歴史についてもっと知りたい方は、その概要をご覧ください。',
   'roadmap.planned': '今後予定されていること',
-  'roadmap.finished': '完了',
-}
+  'roadmap.finished': '完了'
+};
