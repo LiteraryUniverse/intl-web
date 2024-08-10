@@ -11,18 +11,14 @@ export default {
   'forums.category.name': 'ชื่อหมวดหมู่',
   'forums.category.slug': 'ส่วน URL SEO',
   'forums.category.settings': 'ตั้งค่าหมวดหมู่',
-  'forums.category.language':
-    'จำกัดการแสดงหมวดหมู่นี้เฉพาะภาษาต่อไปนี้ เว้นว่างไว้หากต้องการแสดงหมวดหมู่ในทุกภาษา',
-  'forums.category.intlNameDescription':
-    'เรามีชื่อหมวดหมู่ทั่วไปที่แปลเป็นภาษาที่รองรับทั้งหมดให้คุณเลือก เพื่อให้หมวดหมู่สามารถใช้งานได้ในทุกภาษาที่รองรับ',
+  'forums.category.language': 'จำกัดการแสดงหมวดหมู่นี้เฉพาะภาษาต่อไปนี้ เว้นว่างไว้หากต้องการแสดงหมวดหมู่ในทุกภาษา',
+  'forums.category.intlNameDescription': 'เรามีชื่อหมวดหมู่ทั่วไปที่แปลเป็นภาษาที่รองรับทั้งหมดให้คุณเลือก เพื่อให้หมวดหมู่สามารถใช้งานได้ในทุกภาษาที่รองรับ',
   'forums.thread.new': 'กระทู้ใหม่',
   'forums.thread.delete': 'ลบกระทู้',
   'forums.post.new': 'โพสต์ใหม่',
-  'forums.archived.forum':
-    'ฟอรั่มนี้ถูกเก็บถาวรเมื่อ {archivedAt, date, long}. คุณยังสามารถดูฟอรั่มได้ แต่คุณไม่สามารถสร้างเนื้อหาใหม่ได้',
+  'forums.archived.forum': 'ฟอรั่มนี้ถูกเก็บถาวรเมื่อ {archivedAt, date, long}. คุณยังสามารถดูฟอรั่มได้ แต่คุณไม่สามารถสร้างเนื้อหาใหม่ได้',
   'forums.category.archive': 'เก็บถาวรหมวดหมู่',
-  'forums.category.archiveExplained':
-    'หมวดหมู่ที่ไม่มีกระทู้จะถูกลบ ในขณะที่หมวดหมู่ที่มีเนื้อหาจะป้องกันการสร้างกระทู้ใหม่',
+  'forums.category.archiveExplained': 'หมวดหมู่ที่ไม่มีกระทู้จะถูกลบ ในขณะที่หมวดหมู่ที่มีเนื้อหาจะป้องกันการสร้างกระทู้ใหม่',
   'forums.category.reactivate': 'เปิดใช้งานหมวดหมู่อีกครั้ง',
   'forums.category.isVotable': 'อนุญาตให้ผู้ใช้โหวตกระทู้ขึ้น/ลง',
   'forums.category.titleIsGlobal': 'ชื่อหมวดหมู่นี้จะแสดงเป็นภาษาของผู้ใช้ถ้าเราสนับสนุน',
@@ -68,5 +64,5 @@ export default {
     one {ตอบกลับ}
     other {ความคิดเห็น}
   }`,
-  'forums.thread.createdAt': 'สร้างเมื่อ {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'สร้างเมื่อ {createdAt, date, medium}'
+};
