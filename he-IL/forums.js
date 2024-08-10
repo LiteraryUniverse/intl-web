@@ -11,18 +11,14 @@ export default {
   'forums.category.name': 'שם הקטגוריה',
   'forums.category.slug': 'חלק URL למטרת SEO',
   'forums.category.settings': 'הגדרות קטגוריה',
-  'forums.category.language':
-    'הגבל תצוגה של קטגוריה זו לשפה הבאה. השאר ריק אם ברצונך להציג את הקטגוריה בכל השפות.',
-  'forums.category.intlNameDescription':
-    'יש לנו כותרות מתורגמות של שמות קטגוריות נפוצות לבחירתך, כך שהקטגוריה תהיה זמינה לכל השפות התומכות.',
+  'forums.category.language': 'הגבל תצוגה של קטגוריה זו לשפה הבאה. השאר ריק אם ברצונך להציג את הקטגוריה בכל השפות.',
+  'forums.category.intlNameDescription': 'יש לנו כותרות מתורגמות של שמות קטגוריות נפוצות לבחירתך, כך שהקטגוריה תהיה זמינה לכל השפות התומכות.',
   'forums.thread.new': 'נושא חדש',
   'forums.thread.delete': 'מחק נושא',
   'forums.post.new': 'פוסט חדש',
-  'forums.archived.forum':
-    'הפורום הזה הועבר לארכיון ב {archivedAt, date, long}. עדיין ניתן לצפות בפורומים, אך אין אפשרות ליצור תוכן חדש.',
+  'forums.archived.forum': 'הפורום הזה הועבר לארכיון ב {archivedAt, date, long}. עדיין ניתן לצפות בפורומים, אך אין אפשרות ליצור תוכן חדש.',
   'forums.category.archive': 'ארכיבת קטגוריה',
-  'forums.category.archiveExplained':
-    'קטגוריה שאין לה אשכולות תימחק, בעוד קטגוריות עם תוכן ימנעו יצירת אשכולות חדשים.',
+  'forums.category.archiveExplained': 'קטגוריה שאין לה אשכולות תימחק, בעוד קטגוריות עם תוכן ימנעו יצירת אשכולות חדשים.',
   'forums.category.reactivate': 'הפעלת מחדש קטגוריה',
   'forums.category.isVotable': 'אפשר למשתמשים להצביע בתוך נושאים',
   'forums.category.titleIsGlobal': 'כותרת זו של הקטגוריה תוצג בשפת המשתמש אם אנחנו תומכים בה.',
@@ -68,5 +64,5 @@ export default {
     one {תגובה}
     other {תגובות}
   }`,
-  'forums.thread.createdAt': 'נוצר ב {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'נוצר ב {createdAt, date, medium}'
+};
