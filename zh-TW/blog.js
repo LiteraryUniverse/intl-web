@@ -1,39 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': '創建一個新的部落格',
-  'blog.settings': `{type, select,
+    'blog.create': '創建一個新的部落格',
+    'blog.settings': `{type, select,
     org {部落格}
     universe {宇宙頁面}
     user {部落格}
     other {}
   } 設定`,
-  'blog.description': '部落格介紹',
-  'blog.theme': '主題',
-  'blog.theme.info': '通過調整主題，您將能夠改變頁面的外觀。此功能目前尚未準備好。',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': '部落格介紹',
+    'blog.theme': '主題',
+    'blog.theme.info': '通過調整主題，您將能夠改變頁面的外觀。此功能目前尚未準備好。',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': '創建一個新的文章',
-  'blog.post.update': '編輯 {title}',
-  'blog.post.text': '文章內容',
-  'common.slug': 'SEO友好網址',
-  'blog.slug.explained': '文章的網址應該看起來美觀，除了「-」之外，盡量避免使用特殊字符。',
-  'blog.publicView': '公開查看',
-  'blog.post.notfound': '找不到部落格文章',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': '創建一個新的文章',
+    'blog.post.update': '編輯 {title}',
+    'blog.post.text': '文章內容',
+    'common.slug': 'SEO友好網址',
+    'blog.slug.explained': '文章的網址應該看起來美觀，除了「-」之外，盡量避免使用特殊字符。',
+    'blog.publicView': '公開查看',
+    'blog.post.notfound': '找不到部落格文章',
+    'blog.lists.works': `{type, select,
     universes {宇宙}
     stories {故事}
     fanfiction {粉絲創作}
     other {}
   }`,
-  'blog.social.sameAsMain': `社交連結與 {type, select,
+    'blog.social.sameAsMain': `社交連結與 {type, select,
     organization {組織設定}
     user {使用者檔案}
     other {相同}
