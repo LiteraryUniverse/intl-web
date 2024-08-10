@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Δεν έχετε αυτήν τη στιγμή {type, select,
+    'blog.noneMsg': `Δεν έχετε αυτήν τη στιγμή {type, select,
     organization {κανένα blog}
     universe {ένα blog για το σύμπαν σας}
     user {ένα blog}
     other {}
   }.`,
-  'blog.create': 'Δημιουργία νέου blog',
-  'blog.settings': `{type, select,
+    'blog.create': 'Δημιουργία νέου blog',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Σελίδα Συμπαντος}
     user {Blog}
     other {}
   } ρυθμίσεις`,
-  'blog.description': 'Εισαγωγή blog',
-  'blog.theme': 'Θέμα',
-  'blog.theme.info':
-    'Ρυθμίζοντας το θέμα θα μπορείτε να αλλάξετε την εμφάνιση της σελίδας. Αυτή η λειτουργία δεν είναι έτοιμη αυτήν τη στιγμή.',
-  'blog.posts.total': `{total, plural,
+    'blog.description': 'Εισαγωγή blog',
+    'blog.theme': 'Θέμα',
+    'blog.theme.info': 'Ρυθμίζοντας το θέμα θα μπορείτε να αλλάξετε την εμφάνιση της σελίδας. Αυτή η λειτουργία δεν είναι έτοιμη αυτήν τη στιγμή.',
+    'blog.posts.total': `{total, plural,
     zero {Δεν υπάρχουν αναρτήσεις}
     one {μια ανάρτηση}
     other {# αναρτήσεις}
   } σε αυτό το blog.`,
-  'blog.post.create': 'Δημιουργία νέας ανάρτησης',
-  'blog.post.update': 'Επεξεργασία {title}',
-  'blog.post.text': 'Κείμενο ανάρτησης',
-  'common.slug': 'Φιλική προς το SEO διεύθυνση',
-  'blog.slug.explained':
-    'Ένα url που δίνει ωραία εμφάνιση στην ανάρτηση. Αποφύγετε τη χρήση ειδικών χαρακτήρων εκτός από "-".',
-  'blog.publicView': 'Δημόσια προβολή',
-  'blog.post.notfound': 'Η ανάρτηση blog δεν βρέθηκε',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Δημιουργία νέας ανάρτησης',
+    'blog.post.update': 'Επεξεργασία {title}',
+    'blog.post.text': 'Κείμενο ανάρτησης',
+    'common.slug': 'Φιλική προς το SEO διεύθυνση',
+    'blog.slug.explained': 'Ένα url που δίνει ωραία εμφάνιση στην ανάρτηση. Αποφύγετε τη χρήση ειδικών χαρακτήρων εκτός από "-".',
+    'blog.publicView': 'Δημόσια προβολή',
+    'blog.post.notfound': 'Η ανάρτηση blog δεν βρέθηκε',
+    'blog.lists.works': `{type, select,
     universes {Σύμπαντα}
     stories {Ιστορίες}
     fanfiction {Έργο fan fiction}
     other {}
   }`,
-  'blog.social.sameAsMain': `Οι κοινωνικοί σύνδεσμοι είναι οι ίδιοι με αυτούς που έχουν οριστεί στις ρυθμίσεις του οργανισμού {type, select,
+    'blog.social.sameAsMain': `Οι κοινωνικοί σύνδεσμοι είναι οι ίδιοι με αυτούς που έχουν οριστεί στις ρυθμίσεις του οργανισμού {type, select,
     organization {και στο προφίλ χρήστη}
     user {}
     other {}
