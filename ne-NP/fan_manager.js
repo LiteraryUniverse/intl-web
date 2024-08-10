@@ -18,6 +18,9 @@ export default {
   'fanManager.stateChange.hide': 'फ्यान आर्ट लुकाउनुहोस्',
   'fanManager.stateChange.unhide': 'फ्यान आर्ट दृश्यमा हेर्नुहोस्',
   'fanManager.fanFictionNotAllowed': 'तपाइँको लाइसेन्सको प्रकृतिबाट फ्यान लघुकथा अनुमति दिईएन।',
-  'fanManager.fanFiction.maxRating':
-    'प्रदर्शित गरिएको फ्यान लघुकथाको अधिक्षित मापन्डको न्यूनतम विश्वास्यताः।',
-}
+  'fanManager.fanFiction.maxRating': 'प्रदर्शित गरिएको फ्यान लघुकथाको अधिक्षित मापन्डको न्यूनतम विश्वास्यताः।',
+  'fanManager.hidden.nothingFound': 'कुनै प्रतिष्ठित व्याख्यान चित्रहरू भेटिएन।',
+  'fanManager.rejected.nothingFound': 'कुनै अस्वीकृत व्याख्यान चित्रहरू भेटिएन।',
+  'fanManager.approved.nothingFound': 'कुनै मान्य व्याख्यान चित्रहरू भेटिएन।',
+  'fanManager.submitted.nothingFound': 'कुनै यात्रु चित्रकलाहरू पेश गरिएनन्।'
+};
