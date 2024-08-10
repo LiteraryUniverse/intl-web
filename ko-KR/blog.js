@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `현재 {type, select,
+    'blog.noneMsg': `현재 {type, select,
     organization {블로그가 없습니다.}
     universe {당신의 우주를 위한 블로그,}
     user {블로그,}
     other {}
   }.`,
-  'blog.create': '새 블로그 만들기',
-  'blog.settings': `{type, select,
+    'blog.create': '새 블로그 만들기',
+    'blog.settings': `{type, select,
     org {블로그}
     universe {우주 페이지}
     user {블로그}
     other {}
   } 설정`,
-  'blog.description': '블로그 소개',
-  'blog.theme': '테마',
-  'blog.theme.info':
-    '테마를 조정하면 페이지의 모양을 변경할 수 있습니다. 이 기능은 현재 사용할 수 없습니다.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': '블로그 소개',
+    'blog.theme': '테마',
+    'blog.theme.info': '테마를 조정하면 페이지의 모양을 변경할 수 있습니다. 이 기능은 현재 사용할 수 없습니다.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': '새 포스트 만들기',
-  'blog.post.update': '편집 {title}',
-  'blog.post.text': '포스트 텍스트',
-  'common.slug': 'SEO 친화적인 주소',
-  'blog.slug.explained': '멋진 글 URL을 입력합니다. "-"를 제외한 특수 문자를 사용하지 마세요.',
-  'blog.publicView': '공개 뷰',
-  'blog.post.notfound': '블로그 글을 찾을 수 없습니다',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': '새 포스트 만들기',
+    'blog.post.update': '편집 {title}',
+    'blog.post.text': '포스트 텍스트',
+    'common.slug': 'SEO 친화적인 주소',
+    'blog.slug.explained': '멋진 글 URL을 입력합니다. "-"를 제외한 특수 문자를 사용하지 마세요.',
+    'blog.publicView': '공개 뷰',
+    'blog.post.notfound': '블로그 글을 찾을 수 없습니다',
+    'blog.lists.works': `{type, select,
     universes {우주들}
     stories {이야기들}
     fanfiction {팬픽션 작품}
     other {}
   }`,
-  'blog.social.sameAsMain': `Social links are the same as set in {type, select,
+    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
