@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Bu özelliği gelecekte geliştirmeyi planlıyoruz.',
   'roadmap.item.inProgress': 'Özelliğin geliştirilmesi başladı {startedAt, date}.',
   'roadmap.item.inBeta': 'Bu özellik beta aşamasına girdi {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Bu özellik Storyteller abonelerine kullanılabilir hale geldi {previewAt, date}.',
+  'roadmap.item.inPreview': 'Bu özellik Storyteller abonelerine kullanılabilir hale geldi {previewAt, date}.',
   'roadmap.item.inGa': 'Bu özellik genel olarak kullanılabilir hale geldi {gaAt, date}.',
   'roadmap.item.originalIssue': 'Bu özellik orijinal olarak kullanıcılarımız tarafından önerildi.',
   'roadmap.eta.mapTitle': `Planlanan {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Tamamlandı {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Yol haritasına geri dön',
   'roadmap.seeBacklog': 'Yapmayı planladığımız diğer şeylere göz atın',
-  'roadmap.seeFinished':
-    'Eğer geçmişimize daha fazla inmek isterseniz, size hazır bir genel bakışımız var',
+  'roadmap.seeFinished': 'Eğer geçmişimize daha fazla inmek isterseniz, size hazır bir genel bakışımız var',
   'roadmap.planned': 'Planlanan',
-  'roadmap.finished': 'Tamamlandı',
-}
+  'roadmap.finished': 'Tamamlandı'
+};
