@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Diúltaíodh',
   'fanManager.state.hidden': 'Iascríbhne a bhaint amach',
   'fanManager.publicComment': 'Nóta phoiblí',
-  'fanManager.publicComment.desc':
-    'Beidh an téacs seo le feiceáil ar an leathanach poiblí mar do chuid tráchtas oifigiúil ar an saothar ealaíne seo.',
+  'fanManager.publicComment.desc': 'Beidh an téacs seo le feiceáil ar an leathanach poiblí mar do chuid tráchtas oifigiúil ar an saothar ealaíne seo.',
   'fanManager.authorComment': 'Nóta don údar',
-  'fanManager.authorComment.desc':
-    'Seo nóta príobháideach uaibhreach chuig údar an saothair ealaíne seo.',
+  'fanManager.authorComment.desc': 'Seo nóta príobháideach uaibhreach chuig údar an saothair ealaíne seo.',
   'fanManager.stateChange.approve': 'Glac le leithscealta lucht leanúna',
   'fanManager.stateChange.reject': 'Diúltaigh leithscealta lucht leanúna',
   'fanManager.stateChange.hide': 'Cuir ar leataobh leithscealta lucht leanúna',
   'fanManager.stateChange.unhide': 'Déan leath-scrúdú ar leataobh leithscealta lucht leanúna',
   'fanManager.fanFictionNotAllowed': 'Níl cead finné áirgeadh de thoradh do cheadúnais.',
   'fanManager.fanFiction.maxRating': 'Ceannchomhairle an ardán poiblí',
-}
+  'fanManager.hidden.nothingFound': 'Níor aimsíodh aon ealaín lucht leanúna folamh.',
+  'fanManager.rejected.nothingFound': 'Níor aimsíodh aon ealaín lucht leanúna diúltaithe.',
+  'fanManager.approved.nothingFound': 'Níor aimsíodh aon ealaín lucht leanúna faoi cheadúnas.',
+  'fanManager.submitted.nothingFound': 'Gan aon ealaín lucht leanúna curtha isteach.'
+};
