@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Enable forum',
   'forums.archive': 'Archive forum',
-  'forums.archive.explained':
-    'Archiving forum will prevent users from posting any further content, but it will remain visible.',
+  'forums.archive.explained': 'Archiving forum will prevent users from posting any further content, but it will remain visible.',
   'forums.archive.success': 'Forum has been archived',
   'forums.unArchive': 'Re-activate forums',
   'forums.unArchive.success': 'Forum has been re-activated!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'Category name',
   'forums.category.slug': 'SEO url part',
   'forums.category.settings': 'Category settings',
-  'forums.category.language':
-    'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
-  'forums.category.intlNameDescription':
-    'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
+  'forums.category.language': 'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
+  'forums.category.intlNameDescription': 'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
   'forums.thread.new': 'New thread',
   'forums.thread.delete': 'Delete thread',
   'forums.post.new': 'പുതിയ പോസ്റ്റ്',
-  'forums.archived.forum':
-    'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
+  'forums.archived.forum': 'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
   'forums.category.archive': 'Archive category',
-  'forums.category.archiveExplained':
-    'സംഭവിക്കാത്ത താളുകൾ ഉള്ള വിഭാഗങ്ങൾ മായിക്കപ്പെടും, അതിനുള്ള വിഭാഗങ്ങൾ നിലവിൽ ഉള്ള ഉപയോക്തൃക്കൾക്ക് അതിനുള്ള ഭാഷയിൽ കാണിക്കും.',
+  'forums.category.archiveExplained': 'സംഭവിക്കാത്ത താളുകൾ ഉള്ള വിഭാഗങ്ങൾ മായിക്കപ്പെടും, അതിനുള്ള വിഭാഗങ്ങൾ നിലവിൽ ഉള്ള ഉപയോക്തൃക്കൾക്ക് അതിനുള്ള ഭാഷയിൽ കാണിക്കും.',
   'forums.category.reactivate': 'Re-activate category',
   'forums.category.isVotable': 'Allow users to up/down vote threads',
-  'forums.category.titleIsGlobal':
-    'ഈ വിഭാഗത്തിന്റെ ശീർഷകം ഉപയോക്താവിന്റെ ഭാഷയിൽ പ്രദർശിപ്പിക്കും എന്നും അത് ഞങ്ങൾ പിന്തുണയ്ക്കുന്നുണ്ടെങ്കിൽ.',
+  'forums.category.titleIsGlobal': 'ഈ വിഭാഗത്തിന്റെ ശീർഷകം ഉപയോക്താവിന്റെ ഭാഷയിൽ പ്രദർശിപ്പിക്കും എന്നും അത് ഞങ്ങൾ പിന്തുണയ്ക്കുന്നുണ്ടെങ്കിൽ.',
   'forums.category.languageLimited': 'ഈ വിഭാഗം മാത്രം ഈ ഭാഷയിൽ ഉപയോക്തൃക്കൾക്ക് കാണാൻ അനുവദിക്കും.',
   'forums.threadsCounter': 'Total number of topics discussions',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Only allow access to registered users',
   'forums.settings.accessControls': 'Access controls',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'This forum is accessible only to registered users.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'This forum is accessible only to registered users.',
   'forums.noThreads': 'Nothing to see here. It is up to you to start conversation.',
   'forums.noPosts': 'No one has replied yet. Be the first!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {reply}
     other {replies}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
+};
