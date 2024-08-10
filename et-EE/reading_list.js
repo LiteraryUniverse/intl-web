@@ -22,5 +22,5 @@ export default {
     other {lugude ja universumite}
   } lisamiseks lugemisnimekirja.`,
   'readingList.addItem.fromLibrary': 'Raamatukogust',
-  'readingList.button.added': 'Lisatud',
-}
+  'readingList.button.added': 'Lisatud'
+};
