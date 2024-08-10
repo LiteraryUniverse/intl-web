@@ -1,39 +1,39 @@
 export default {
-  'blog.noneMsg': `આપ હાલ કોઈ {type, select,
+    'blog.noneMsg': `આપ હાલ કોઈ {type, select,
     organization {કોઇ બ્લોગ નથી}
     universe {તમારા યુનિવર્સ માટે એક બ્લોગ નથી}
     user {બ્લોગ}
     other {}
   }.`,
-  'blog.create': 'નવી બ્લોગ બનાવો',
-  'blog.settings': `ગણિતશાસ્ત્ર {type, select,
+    'blog.create': 'નવી બ્લોગ બનાવો',
+    'blog.settings': `ગણિતશાસ્ત્ર {type, select,
     org {બ્લોગ}
     universe {યુનિવર્સ પઃણ}
     user {બ્લોગ}
     other {}
   } સ૆ટ્ટિંગ્સ`,
-  'blog.description': 'બ્લોગ પરિચય',
-  'blog.theme': 'થીમ',
-  'blog.theme.info': 'થીમ સરળત માંથી હવે આ સુવિધા તૈયાર નથી.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'બ્લોગ પરિચય',
+    'blog.theme': 'થીમ',
+    'blog.theme.info': 'થીમ સરળત માંથી હવે આ સુવિધા તૈયાર નથી.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'નવી પોસ્ટ બનાવો',
-  'blog.post.update': 'અપડેટિંગ {title}',
-  'blog.post.text': 'પોસ્ટ ટેક્સ્ટ',
-  'common.slug': 'એસઇઓ મિત્રપૂન URL',
-  'blog.slug.explained': 'પોસ્ટને URL જોવા માટે સુંદર બનાવેલ. "-" સમાંતે ખાસ અક્ષરોથી વાપરવામાં આવતાં.',
-  'blog.publicView': 'જનતા જોવાનું સારૂ બ્લોગ',
-  'blog.post.notfound': 'બ્લોગ પોસ્ટ મળી નથી',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'નવી પોસ્ટ બનાવો',
+    'blog.post.update': 'અપડેટિંગ {title}',
+    'blog.post.text': 'પોસ્ટ ટેક્સ્ટ',
+    'common.slug': 'એસઇઓ મિત્રપૂન URL',
+    'blog.slug.explained': 'પોસ્ટને URL જોવા માટે સુંદર બનાવેલ. "-" સમાંતે ખાસ અક્ષરોથી વાપરવામાં આવતાં.',
+    'blog.publicView': 'જનતા જોવાનું સારૂ બ્લોગ',
+    'blog.post.notfound': 'બ્લોગ પોસ્ટ મળી નથી',
+    'blog.lists.works': `{type, select,
     universes {બ્રહ્માંડો}
     stories {કથાઓ}
     fanfiction {ફેન ફિક્શન કાર્ય}
     other {}
   }`,
-  'blog.social.sameAsMain': `સામાજિક લિંક તેના સેટ જેમાં જ છે અને {type, select,
+    'blog.social.sameAsMain': `સામાજિક લિંક તેના સેટ જેમાં જ છે અને {type, select,
     organization {સંસ્થાના સેટિંગ્સમાં સેટ થઇ છે}
     user {વપરાશકર્તા પ્રોફાઇલ}
     other {}
