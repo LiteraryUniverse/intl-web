@@ -11,7 +11,7 @@ export default {
   'personalNotes.goToStory': 'Hikayeye Git',
   'personalNotes.goToChapter': 'Bölüme Git',
   'personalNotes.goToEncyclopedia': 'Evren Ansiklopedisine Git',
-  'personalNotes.goToEncEntry': "Entry'ye Git",
+  'personalNotes.goToEncEntry': 'Entry\'ye Git',
   'personalNotes.closeDropdown': 'Açılır Menüyü Kapat',
   'personalNotes.chapterName': 'Bölüm {sequence} - {title}',
   'personalNotes.objectPersonalNotes': '{object} kişisel not',
@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Ansiklopedi Girişi',
   'personalNotes.type.revTextBlock': 'Düzeltme Metin Bloğu',
   'personalNotes.chapter': 'Bölüm',
-  'personalNotes.recentSearches': 'Son Aramalar:',
-}
+  'personalNotes.recentSearches': 'Son Aramalar:'
+};
