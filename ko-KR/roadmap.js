@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': '우리는 이 기능을 미래에 개발할 계획입니다.',
   'roadmap.item.inProgress': '이 기능의 개발이 시작되었습니다 {startedAt, date}.',
   'roadmap.item.inBeta': '이 기능은 {betaAt, date}에 베타 버전으로 출시되었습니다.',
-  'roadmap.item.inPreview':
-    '이 기능은 {previewAt, date}에 Storyteller 구독자를 대상으로 이용 가능해졌습니다.',
+  'roadmap.item.inPreview': '이 기능은 {previewAt, date}에 Storyteller 구독자를 대상으로 이용 가능해졌습니다.',
   'roadmap.item.inGa': '이 기능은 {gaAt, date}에 일반적으로 이용 가능해졌습니다.',
   'roadmap.item.originalIssue': '이 기능은 원래 사용자들에 의해 제안되었습니다.',
   'roadmap.eta.mapTitle': `{quarter, select,
@@ -34,5 +33,5 @@ export default {
   'roadmap.seeBacklog': '다른 계획들을 확인해보세요',
   'roadmap.seeFinished': '더 자세한 역사를 알고 싶다면, 좋은 개요를 준비했습니다',
   'roadmap.planned': '계획됨',
-  'roadmap.finished': '완료됨',
-}
+  'roadmap.finished': '완료됨'
+};
