@@ -22,5 +22,5 @@ export default {
     other {stories and universes}
   } to the reading list.`,
   'readingList.addItem.fromLibrary': 'লাইব্রেরি থেকে',
-  'readingList.button.added': 'যোগ করা হয়েছে',
-}
+  'readingList.button.added': 'যোগ করা হয়েছে'
+};
