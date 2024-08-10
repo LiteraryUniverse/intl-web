@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'Sutra lo jorne blogu',
-  'blog.settings': `{type, select,
+    'blog.create': 'Sutra lo jorne blogu',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-  'blog.description': "Jorne la'o gy. blogu",
-  'blog.theme': "selfi'a",
-  'blog.theme.info':
-    "Jai se cinri lo nu do cange lo se zbasu be la'o gy. blogu. Tavla fi lo nu se zbasu be la'o gy. blogu.",
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Jorne la\'o gy. blogu',
+    'blog.theme': 'selfi\'a',
+    'blog.theme.info': 'Jai se cinri lo nu do cange lo se zbasu be la\'o gy. blogu. Tavla fi lo nu se zbasu be la\'o gy. blogu.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Sutra lo jorne be lo nu se zbasu',
-  'blog.post.update': 'Editing {title}',
-  'blog.post.text': 'Lo jorne te gerna',
-  'common.slug': 'Lo jorne sevzi cmene',
-  'blog.slug.explained':
-    'Lo jorne sevzi cmene cu zmadu lo nu zasti lo te cmene be lo jorne be lo nu zasti lo te cmene be lo jorne. Lo sevzi cmene cu se jinvi lo nu se finti lo sevzi',
-  'blog.publicView': 'Lo sevzi viska',
-  'blog.post.notfound': "Lo jorne be lo nu se zbasu cu na'o na'o vasru",
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Sutra lo jorne be lo nu se zbasu',
+    'blog.post.update': 'Editing {title}',
+    'blog.post.text': 'Lo jorne te gerna',
+    'common.slug': 'Lo jorne sevzi cmene',
+    'blog.slug.explained': 'Lo jorne sevzi cmene cu zmadu lo nu zasti lo te cmene be lo jorne be lo nu zasti lo te cmene be lo jorne. Lo sevzi cmene cu se jinvi lo nu se finti lo sevzi',
+    'blog.publicView': 'Lo sevzi viska',
+    'blog.post.notfound': 'Lo jorne be lo nu se zbasu cu na\'o na\'o vasru',
+    'blog.lists.works': `{type, select,
     universes {lojbanselpe'o}
     stories {lojbanselji'e}
     fanfiction {lojbanselkarni}
     other {}
   }`,
-  'blog.social.sameAsMain': `Social links are the same as set in {type, select,
+    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}
