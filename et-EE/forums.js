@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Luba foorum',
   'forums.archive': 'Arhiveeri foorum',
-  'forums.archive.explained':
-    'Foorumi arhiveerimine takistab kasutajatel edaspidi sisu postitamist, kuid see jääb nähtavaks.',
+  'forums.archive.explained': 'Foorumi arhiveerimine takistab kasutajatel edaspidi sisu postitamist, kuid see jääb nähtavaks.',
   'forums.archive.success': 'Foorum on arhiveeritud',
   'forums.unArchive': 'Aktiveeri foorumid uuesti',
   'forums.unArchive.success': 'Foorum on uuesti aktiveeritud!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'Kategooria nimi',
   'forums.category.slug': 'SEO URL-i osa',
   'forums.category.settings': 'Kategooria seaded',
-  'forums.category.language':
-    'Piira selle kategooria kuvamist järgmisele keelele. Jäta tühi, kui soovid kategooriat kuvada kõigis keeltes.',
-  'forums.category.intlNameDescription':
-    'Meil on lokaliseerinud tavaliste kategoorianimede pealkirjad teie valiku jaoks, et kategooria oleks saadaval kõigis toetatud keeltes.',
+  'forums.category.language': 'Piira selle kategooria kuvamist järgmisele keelele. Jäta tühi, kui soovid kategooriat kuvada kõigis keeltes.',
+  'forums.category.intlNameDescription': 'Meil on lokaliseerinud tavaliste kategoorianimede pealkirjad teie valiku jaoks, et kategooria oleks saadaval kõigis toetatud keeltes.',
   'forums.thread.new': 'Uus teema',
   'forums.thread.delete': 'Kustuta teema',
   'forums.post.new': 'Uus postitus',
-  'forums.archived.forum':
-    'See foorum on arhiveeritud {archivedAt, date, long}. Saate foorumeid ikkagi vaadata, kuid te ei saa enam uut sisu luua.',
+  'forums.archived.forum': 'See foorum on arhiveeritud {archivedAt, date, long}. Saate foorumeid ikkagi vaadata, kuid te ei saa enam uut sisu luua.',
   'forums.category.archive': 'Arhiveeri kategooria',
-  'forums.category.archiveExplained':
-    'Kategooria, millel pole teemasid, kustutatakse, samas kui kategooriad sisuga takistavad uute teemade loomist.',
+  'forums.category.archiveExplained': 'Kategooria, millel pole teemasid, kustutatakse, samas kui kategooriad sisuga takistavad uute teemade loomist.',
   'forums.category.reactivate': 'Aktiveeri kategooria uuesti',
   'forums.category.isVotable': 'Luba kasutajatel teemasid üles või alla hääletada',
-  'forums.category.titleIsGlobal':
-    'Selle kategooria pealkiri kuvatakse kasutaja keeles, kui see on toetatud.',
+  'forums.category.titleIsGlobal': 'Selle kategooria pealkiri kuvatakse kasutaja keeles, kui see on toetatud.',
   'forums.category.languageLimited': 'See kategooria kuvatakse ainult selle keele kasutajatele.',
   'forums.threadsCounter': 'Kokku teemade arv aruteludes',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Luba juurdepääs ainult registreeritud kasutajatele',
   'forums.settings.accessControls': 'Juurdepääsu kontrollid',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'See foorum on kättesaadav ainult registreeritud kasutajatele.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'See foorum on kättesaadav ainult registreeritud kasutajatele.',
   'forums.noThreads': 'Siin pole midagi näha. Sinust sõltub vestluse alustamine.',
   'forums.noPosts': 'Keegi pole veel vastanud. Ole esimene!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {vastus}
     other {vastust}
   }`,
-  'forums.thread.createdAt': 'Loodud {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Loodud {createdAt, date, medium}'
+};
