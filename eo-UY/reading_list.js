@@ -22,5 +22,5 @@ export default {
     other {rakontoj kaj universoj}
   } al la legolisto.`,
   'readingList.addItem.fromLibrary': 'El biblioteko',
-  'readingList.button.added': 'Aldita',
-}
+  'readingList.button.added': 'Aldita'
+};
