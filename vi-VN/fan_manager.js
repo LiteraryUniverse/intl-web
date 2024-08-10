@@ -10,16 +10,17 @@ export default {
   'fanManager.state.rejected': 'Bị từ chối',
   'fanManager.state.hidden': 'Ẩn đi',
   'fanManager.publicComment': 'Bình luận công khai',
-  'fanManager.publicComment.desc':
-    'Văn bản này sẽ được hiển thị trên trang công khai là bình luận chính thức của bạn về bài nghệ thuật này.',
+  'fanManager.publicComment.desc': 'Văn bản này sẽ được hiển thị trên trang công khai là bình luận chính thức của bạn về bài nghệ thuật này.',
   'fanManager.authorComment': 'Bình luận cho tác giả',
-  'fanManager.authorComment.desc':
-    'Đây là một bình luận riêng tư từ bạn đến tác giả của bức tranh này.',
+  'fanManager.authorComment.desc': 'Đây là một bình luận riêng tư từ bạn đến tác giả của bức tranh này.',
   'fanManager.stateChange.approve': 'Chấp thuận nghệ thuật từ fan',
   'fanManager.stateChange.reject': 'Từ chối nghệ thuật từ fan',
   'fanManager.stateChange.hide': 'Ẩn nghệ thuật từ fan',
   'fanManager.stateChange.unhide': 'Làm cho nghệ thuật từ fan trở nên khả  quan',
-  'fanManager.fanFictionNotAllowed':
-    'Viết truyện từ fan không được phép do tính chất của giấy phép',
+  'fanManager.fanFictionNotAllowed': 'Viết truyện từ fan không được phép do tính chất của giấy phép',
   'fanManager.fanFiction.maxRating': 'Đánh giá tối đa của truyện từ fan được hiển thị',
-}
+  'fanManager.hidden.nothingFound': 'Không tìm thấy fan art ẩn.',
+  'fanManager.rejected.nothingFound': 'Không tìm thấy fan art bị từ chối.',
+  'fanManager.approved.nothingFound': 'Không tìm thấy fan art được phê duyệt.',
+  'fanManager.submitted.nothingFound': 'Không tìm thấy bất kỳ fan art nào được gửi.'
+};
