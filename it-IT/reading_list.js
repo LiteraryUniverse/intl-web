@@ -22,5 +22,5 @@ export default {
     other {storie e universi}
   } alla lista di lettura.`,
   'readingList.addItem.fromLibrary': 'Dalla libreria',
-  'readingList.button.added': 'Aggiunto',
-}
+  'readingList.button.added': 'Aggiunto'
+};
