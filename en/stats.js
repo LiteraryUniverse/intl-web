@@ -26,9 +26,10 @@ export default {
   'stats.language.title': 'Language spoken',
   'stats.chapter.visitorsAndViews': 'Total visitors and views per chapter',
   'stats.chapter.wordCount': 'Word count per chapter',
-  'stats.chapter.chartTooltipViews': `Chapter {chapter, number}: {views, number} views`,
-  'stats.chapter.chartTooltipVisitors': `Chapter {chapter, number}: {visitors, number} unique visitors`,
-  'stats.chapter.chartTooltipWordCount': `Chapter {chapter, number}: {wordCount, number} words`,
+  'stats.chapter.chartTooltipViews': 'Chapter {chapter, number}: {views, number} views',
+  'stats.chapter.chartTooltipVisitors':
+    'Chapter {chapter, number}: {visitors, number} unique visitors',
+  'stats.chapter.chartTooltipWordCount': 'Chapter {chapter, number}: {wordCount, number} words',
   'stats.totalHits': 'Total views',
   'stats.totalVisitors': 'Total unique visitors',
   'stats.totalWords': 'Total words',

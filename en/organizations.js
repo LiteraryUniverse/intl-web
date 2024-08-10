@@ -60,5 +60,5 @@ export default {
   'org.workshop.ownerUser': 'Not a guild work',
   'org.workshop.caption': 'Guild ownership',
   'org.workshop.title': 'Organization workshop',
-  'org.title': 'Organization'
+  'org.title': 'Organization',
 }

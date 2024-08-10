@@ -1,7 +1,7 @@
 /**
  * @authors Jan Dvorak
  */
-/* eslint-disable max-len */
+
 export default {
   siteName: 'Literary Universe',
   twitterHandle: '@lituniapp',
@@ -292,4 +292,4 @@ export default {
   'common.popular': 'Popular',
   'common.newest': 'Newest',
   'common.oldest': 'Oldest',
-} /* eslint-enable max-len */
+}

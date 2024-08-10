@@ -1,7 +1,6 @@
 /**
  * @authors Jan Dvorak
  */
-/* eslint-disable max-len */
 export default {
     'email.enrollAccount.subject': 'Invitation to Literary Universe for {username}',
     'email.enrollAccount.message': `Hello {username}\n\n
@@ -41,8 +40,7 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days. Enjoy!`,
-    'email.verification': 'E-mail verification',
-    'email.verifying': 'Verifying your e-mail. This will take just a moment...',
-    'email.verified': 'Great news! Your e-mail has been verified!',
-};
-/* eslint-enable max-len */
+  'email.verification': 'E-mail verification',
+  'email.verifying': 'Verifying your e-mail. This will take just a moment...',
+  'email.verified': 'Great news! Your e-mail has been verified!',
+}

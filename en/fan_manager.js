@@ -19,7 +19,10 @@ export default {
   'fanManager.stateChange.reject': 'Reject fan art',
   'fanManager.stateChange.hide': 'Hide fan art',
   'fanManager.stateChange.unhide': 'Make fan art visible',
-  'fanManager.fanFictionNotAllowed':
-    'Fan fiction is not allowed by the nature of your license.',
-  'fanManager.fanFiction.maxRating': 'Maximum rating of displayed fan fiction.'
+  'fanManager.fanFictionNotAllowed': 'Fan fiction is not allowed by the nature of your license.',
+  'fanManager.fanFiction.maxRating': 'Maximum rating of displayed fan fiction.',
+  'fanManager.hidden.nothingFound': 'No hidden fan arts found.',
+  'fanManager.rejected.nothingFound': 'No rejected fan arts found.',
+  'fanManager.approved.nothingFound': 'No approved fan arts found.',
+  'fanManager.submitted.nothingFound': 'No submitted fan arts found.',
 }
