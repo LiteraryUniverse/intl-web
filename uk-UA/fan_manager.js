@@ -10,8 +10,7 @@ export default {
   'fanManager.state.rejected': 'Відхилено',
   'fanManager.state.hidden': 'Приховано',
   'fanManager.publicComment': 'Публічний коментар',
-  'fanManager.publicComment.desc':
-    'Цей текст буде відображатися на публічній сторінці як ваш офіційний коментар до цього мистецтва.',
+  'fanManager.publicComment.desc': 'Цей текст буде відображатися на публічній сторінці як ваш офіційний коментар до цього мистецтва.',
   'fanManager.authorComment': 'Коментар для автора',
   'fanManager.authorComment.desc': 'Це приватний коментар від вас до автора цього мистецтва.',
   'fanManager.stateChange.approve': 'Затвердити фан-арт',
@@ -20,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'Зробити фан-арт видимим',
   'fanManager.fanFictionNotAllowed': 'Фанатські оповідання заборонені згідно з вашою ліцензією.',
   'fanManager.fanFiction.maxRating': 'Максимальний рейтинг відображених фанатських оповідань.',
-}
+  'fanManager.hidden.nothingFound': 'Не знайдено жодних схованих фан-артів.',
+  'fanManager.rejected.nothingFound': 'Не знайдено жодних відхиленних фан-артів.',
+  'fanManager.approved.nothingFound': 'Не знайдено жодних схвалених фан-артів.',
+  'fanManager.submitted.nothingFound': 'Не знайдено жодних поданих фан-артів.'
+};
