@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'تمكين المنتدى',
   'forums.archive': 'أرشفة المنتدى',
-  'forums.archive.explained':
-    'سيؤدي أرشفة المنتدى إلى منع المستخدمين من نشر أي محتوى إضافي، ولكنه سيظل مرئيًا.',
+  'forums.archive.explained': 'سيؤدي أرشفة المنتدى إلى منع المستخدمين من نشر أي محتوى إضافي، ولكنه سيظل مرئيًا.',
   'forums.archive.success': 'تم أرشفة المنتدى',
   'forums.unArchive': 'إعادة تنشيط المنتديات',
   'forums.unArchive.success': 'تم إعادة تنشيط المنتدى!',
@@ -12,18 +11,14 @@ export default {
   'forums.category.name': 'اسم التصنيف',
   'forums.category.slug': 'جزء عنوان URL لتحسين محركات البحث',
   'forums.category.settings': 'إعدادات الفئة',
-  'forums.category.language':
-    'قم بتحديد عرض هذه الفئة للغة التالية. اتركها فارغة إذا كنت ترغب في عرض الفئة بجميع اللغات.',
-  'forums.category.intlNameDescription':
-    'لدينا عناوين محلية لأسماء الفئات الشائعة للاختيار منها، حتى يمكن أن تكون الفئة متاحة لجميع اللغات المدعومة.',
+  'forums.category.language': 'قم بتحديد عرض هذه الفئة للغة التالية. اتركها فارغة إذا كنت ترغب في عرض الفئة بجميع اللغات.',
+  'forums.category.intlNameDescription': 'لدينا عناوين محلية لأسماء الفئات الشائعة للاختيار منها، حتى يمكن أن تكون الفئة متاحة لجميع اللغات المدعومة.',
   'forums.thread.new': 'موضوع جديد',
   'forums.thread.delete': 'حذف الموضوع',
   'forums.post.new': 'منشور جديد',
-  'forums.archived.forum':
-    'تم أرشفة هذا المنتدى في {archivedAt, date, long}. لا يمكنك إنشاء محتوى جديد، ولكن يمكنك مشاهدة المنتديات.',
+  'forums.archived.forum': 'تم أرشفة هذا المنتدى في {archivedAt, date, long}. لا يمكنك إنشاء محتوى جديد، ولكن يمكنك مشاهدة المنتديات.',
   'forums.category.archive': 'أرشفة الفئة',
-  'forums.category.archiveExplained':
-    'سيتم حذف الفئة التي ليس بها مواضيع، بينما ستمنع الفئات التي بها محتوى إنشاء مواضيع جديدة.',
+  'forums.category.archiveExplained': 'سيتم حذف الفئة التي ليس بها مواضيع، بينما ستمنع الفئات التي بها محتوى إنشاء مواضيع جديدة.',
   'forums.category.reactivate': 'إعادة تنشيط الفئة',
   'forums.category.isVotable': 'السماح للمستخدمين بالتصويت على المواضيع',
   'forums.category.titleIsGlobal': 'سيتم عرض عنوان هذه الفئة بلغة المستخدم إذا كنا ندعمها.',
@@ -69,5 +64,5 @@ export default {
     one {رد}
     other {ردود}
   }`,
-  'forums.thread.createdAt': 'تم الإنشاء في {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'تم الإنشاء في {createdAt, date, medium}'
+};
