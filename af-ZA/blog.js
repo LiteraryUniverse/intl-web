@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Jy het tans geen {type, select,
+    'blog.noneMsg': `Jy het tans geen {type, select,
     organization {enige blog}
     universe {'n blog vir jou heelal}
     user {'n blog}
     other {}
   }.`,
-  'blog.create': "Skep 'n nuwe blog",
-  'blog.settings': `{type, select,
+    'blog.create': 'Skep \'n nuwe blog',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {heelal bladsy}
     user {Blog}
     other {}
   } instellings`,
-  'blog.description': 'Blog inleiding',
-  'blog.theme': 'Tema',
-  'blog.theme.info':
-    'Deur die tema aan te pas sal jy die voorkoms van die bladsy kan verander. Hierdie funksie is nie gereed op hierdie tydstip nie.',
-  'blog.posts.total': `Daar {total, plural,
+    'blog.description': 'Blog inleiding',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Deur die tema aan te pas sal jy die voorkoms van die bladsy kan verander. Hierdie funksie is nie gereed op hierdie tydstip nie.',
+    'blog.posts.total': `Daar {total, plural,
     zero {is geen plasings}
     one {is een plasing}
     other {is # plasings}
   } in hierdie blog nie.`,
-  'blog.post.create': "Skep 'n nuwe plasing",
-  'blog.post.update': 'Wysig {title}',
-  'blog.post.text': 'Plasing teks',
-  'common.slug': 'SEO vriendelike adres',
-  'blog.slug.explained':
-    'Netjiese URL vir die bladsy. Vermy die gebruik van spesiale karakters behalwe vir "-".',
-  'blog.publicView': 'Openbare aansig',
-  'blog.post.notfound': 'Blog plasing kon nie gevind word nie',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Skep \'n nuwe plasing',
+    'blog.post.update': 'Wysig {title}',
+    'blog.post.text': 'Plasing teks',
+    'common.slug': 'SEO vriendelike adres',
+    'blog.slug.explained': 'Netjiese URL vir die bladsy. Vermy die gebruik van spesiale karakters behalwe vir "-".',
+    'blog.publicView': 'Openbare aansig',
+    'blog.post.notfound': 'Blog plasing kon nie gevind word nie',
+    'blog.lists.works': `{type, select,
     universes {Heelalle}
     stories {Stories}
     fanfiction {Fan Fiksie werk}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sosiale skakels is dieselfde as ingestel in {type, select,
+    'blog.social.sameAsMain': `Sosiale skakels is dieselfde as ingestel in {type, select,
     organization {organisasie-instellings}
     user {gebruikersprofiel}
     other {}
