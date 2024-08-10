@@ -22,5 +22,5 @@ export default {
     other {hikaye ve evren}
   } ekleme iletişim kutusu`,
   'readingList.addItem.fromLibrary': 'Kütüphaneden',
-  'readingList.button.added': 'Eklendi',
-}
+  'readingList.button.added': 'Eklendi'
+};
