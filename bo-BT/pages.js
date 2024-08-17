@@ -33,8 +33,8 @@ export default {
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
     'about.text.1': 'རྩིའི་ལས་ཁྱོད་ཀྱི་འགྲེལ་བཤད་ཐོབ་གཞིའི་མིང་གི་པདྨ་གི་ཚོགས་སྡེ་བཞི་བྱ་དགོངས་སྟོན་པ་ཉེས་ཁ་བྱེད་པར་བྱེད་པས་"ལས་འགོ་བཤད" སྒྲིག་གཞིའི་བཅུ་གཉིས་སྤྱོད་པ་དང་ལྡོག་མཚོན་གསརཔ་སྲིད་རྐྱབ་ཞུས་ཀྱི་དོན་ཚན་དང་དོན་ཚན་གྱི་ས་འགོ་བཤད་དང་བསྐྱར་ཞུ་སྒྲིག་གཞིའི་གཞོལ་ཁང་གི་ས་འགོ་བཤད་གནས་སྐབས་ནས་འབྲེལ་བའི་དོན་ཚན་རེ་ས་གཞིའི་ས་ཁོངས་གྲགས་སུ་འཛོལ་ཆེན་པའི་དོན་ཚན་རེ་སོ། དཔེར་ན་བཟོ་བ་གི་སྐོར་ལས་འགོ་བཤད་བྱས་པའི་ལས་དོན་པར་བྱེད་པས།',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'མཚན་བྱེད་པའི་འཕྲིན་ཐུབ་པའི་ལྟ་ཚིག་གི་གནད་དོན་གྱི་མིང་ཆོས་རྣམས་དགའ་ཆོས་ཀྱི་ཡོང་དོན་གྲོང་འཕེལ་ལྡན་པ་དང་མཉེན་ཆས་ལྷག་པས་བྱས་པའི་དེབ་ཆ་འཕྲིན་བསྐྱོད་ཡོད་སྐུལ་པའི་གནད་དོན་དང་དྲ་བར་བརྟེན་གྱི་སྨོན་ལམ་ཡོད། མི་རྟགས་རྫོང་ཁ་ནང་བྱེད་པའི་ནང་གི་མུ་ཌེལ་བརྙན་འཇུག་བྱ་རྒྱུ་འབྲེལ་ལྡན་དང་ཞེས་བྱ་བྱེད་པའི་བཅོམ་ལྡན་འགྱུར་བསྒྱུར་བཟོའི་དོན་འདོད་དཔལ་གཏོགས་པའི་མཉེན་ཆས་སྐུལ་པའི་ངེས་བཤེས་གཉེན་སྐབས་སྡེའི་དཔའ་དང་དུས་འཕྲུལ་ཆས་ལྷག་པས་བྱས་བའི་དེབ་ཆ་འཕྲིན་བསྐྱོད་ནས་གནད་དོན་ཐོ་འགོ་འཛུགས་འདིའི་དཔལ་ལྡན་པ་སྐུལ་བྱུང་བ་དགོས་པ་བྱའོ།',
+    'about.text.3': 'ལམ་གྱི་རེ་རེའི་ལྟ་ཁ་འབྱུང་ཚིག་གི་འབྱུང་ཞེས་བྱ་འགྱུར་དང་ལམ་ཕབ་ལེན་པའི་ཡོང་སྤྱོད་འདི་གསལ་བར་ལག་ཁྱེར་འདུག',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'རྒྱས་བསྐུར་ཚེ་རིང་རང་མིག་འཇུག་གི་དོན་གཞི་སྐོར་འདི་གཟིགས་བརྡ་དོན་སྤོ་ཀཽའི་སྐུལ་བའི་སྟེགས་ལས་དབང་འདྲི་དབང་འཛིན་འདོད་པའི་ཡོད་པ་ལས་རྣམས་འགོད་ཤེས་པ་འོད་ཟིན། དེ་གིས་དངརྩིས་ཀྱིས་ཚེ་རིང་གི་སྐུལ་བའི་ངེས་བཤེས་གཉེན་ལམ་སྤྱོད་འདི་གོད་སྐོར་འདིའི་དོན་གཞི་རྣམ་པར་གནང་འབྱུང་འོད་གསལ་བར་ལག་ལེ།',
     'about.history.text': 'བཟོ་ལས་2010 སློབ་དཔོན་པ  རོགས་པ་ཡོང་བ་བརྒྱད་པའི་ངན་གཉིས་ནས་བག་ཆ་ཡོང་ཚོགས་དང་ལས་བཀུར་བཞིན་དེ་གཞིང་གི་རྩིའི་ལས་བྱ་དགོས་པའི་དོན་རྐྱར་སྡུད་བསྐྱེད་པའི་དཔྱད་པའི་བློ་འགྱོ་རྣམས་ཀྱིས་དགོས་པ་བྱེད་པས་འགོས་པར་མཛོད་པའི་2013 ལོང་སློབ་གསར་དཚོས་ཐབས་ཡོང་གི་ཨང་གྲངས་ཀྱི་ལས་བརྩེན་ཞུ་གཞིང་གི་ས་གཞོལ་ཁང་བསྐྱར་ཞུ་སྒྲིག་གཞིའི་དག་ལ་བཅུ་གཉིས་ཡོང་བ་སྨོན་པར་གྱུར་པེ་ཡོང་དོན་ལས་ཚུགས་ལྡོག་པའི་ཚོགས་གྲགས་བྱེད་པའི་དབྱེ་བ་བཞུགས་པ། དཔེར་ན་བཟའ་བ་གི་ལས་དོན་པ་རྐྱབ་ཞུས།',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'བཅོམ་སྒྲིག་ལག་ཁྲོམ།',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'གསན་ནིའི་ངོ་སྤྲོད་གནས་ཚད་ལྡེབ་པ་སེང་གེའི་གནས་རིག་ལྷན་དགོས་འགྱུར་ཡིན་པ་བསྡུས་ཡོད་པ་ལས་རྣམས་ཀྱི་ཚགས་སྐྱོང་གི་དཔེ་བཞིའི་རབ་སྐྱོད་དང་ཉོན་མོངས་པར་གྱུར་བཟོའི་དོན་གཞི་ཁ་སྐོར་འདི་འབྱུང་དེ་བཞིའི་དཔེ་བའི་ངེས་བཤེས་ཀྱི་བཕྲལ་དབྱོའི་རེ་ལྟ་བསྐྱོད་གནས་བསྡུས་ལོག་དོན་སྤོ་ཀཽ་སྒོམ་ཡག་བསྡུས་ཀྱི་ལས་ཁྱེར་གསལ་བརའི་ཁག་འདོད་པས་གཡོད་པ་དབང་འཛིན་འདོད་ཡོད།',
     'about.seba': 'སེ་བ་དང་བཅའ་བཟན་འཇུག་པ་ཤེས་པ་འཐུ་གསོ་བཙར་སྦེ་དང་བཅའ་བཀེན་པའི་ངེ་བའི་དཔེ་བསྐྱེད་ཀྱི་ལས་འགོ་བཤད་ནང་བསྐྱར་ཞུ་གསང་བ་དང་ལས་སྦྱོར་བ་བཞུགས་པ་རྣམས་ཀྱི་བཤོལ་གྱོན་པའི་དོན་རྐྱར་སྡུད་གཞིའི་འགོ་བཤད་རྨང་བ་བཞུགས་པའི་ས་གཞོལ་ཁང་གི་དབྱེ་བ་གློ་ཆེན་པའི་དོན་རྐྱར་སྡུད་བསྐྱེད་པའི་མཆན་དུ་འཛོལ་ཆེན་བཟོ་བ་ནས་དཔེར་ན་རྩིའི་ལས་འགོ་བཤད་སྡེབ་ཀྱི་དོན་རྐྱར་གསར་བཀོད་རྣམས་ཀྱི་བུམ་དཔྱད་བསྐྱེད་པའི་དཔེ་བ་གཞུང་ཞུ་དགོས་བསྐུར་ཝེབ་དབང་བ་སླར་ཡངས་སྲུང་རི་ལྟར་གཞིའི་དཔྱད་པ་དོན་ཚན་དོན་ཚན་གྱི་ས་འགོ་བཤད་དང་བསྐྱར་ཞུ་སྒྲིག་གཞིའི་གཞོལ་ཁང་གི་ས་འགོ་བཤད་གནས་སྐབས་ནས་འབྲེལ་བའི་དོན་ཚན་རེ་ས།'
 };
