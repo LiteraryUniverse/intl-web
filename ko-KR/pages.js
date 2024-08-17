@@ -32,9 +32,9 @@ export default {
     'homepage.featureSelection': '인기 있는 우주를 확인하세요!',
     'about.title': '문학 우주에 대하여',
     'about.desc': '문학 우주 뒤에 숨겨진 역사, 비밀 그리고 인간들.',
-    'about.text.1': 'Literary Universe is designed for both writers and avid readers. Writers can use the platform to create original works by selecting the "Workshop" button in the dashboard menu. This provides access to the main editor and encyclopedia functions, which focus on organizing all aspects of your personal story universe on a single page. The social features allow authors to share their work, build a following, and interact more directly with their readers if they choose.',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.1': '문학 우주는 작가와 열성적인 독자 모두를 위해 설계되었습니다. 작가는 대시보드 메뉴에서 "작업장" 버튼을 선택하여 원작을 만들 수 있습니다. 이를 통해 메인 편집기와 백과사전 기능에 액세스할 수 있으며, 이는 개인 이야기 우주의 모든 측면을 한 페이지에서 조직하는 데 초점을 맞춥니다. 소셜 기능을 통해 작가는 작업물을 공유하고 팔로워를 모으며, 자신의 독자들과 직접 소통할 수도 있습니다.',
+    'about.text.2': '독자들은 주로 사이트를 사용하여 새로운 작품을 발견하고 좋아하는 작가를 팔로우할 수 있으며, 작가의 허가를 받으면 이미 게시되지 않은 이야기를 편집하는 데도 도움을 줄 수 있습니다. Literary Universe의 독자가 되면 독특한 독서 경험을 할 수 있으며, 주 이야기와 함께 모든 배경 정보에 접근할 수 있어 작가의 마음을 이해할 수 있습니다.',
+    'about.text.3': 'Literary Universe의 미래에는 작가들이 작품을 판매할 수 있는 마켓플레이스를 만들고 작가와 독자 간의 커뮤니케이션을 향상시키기 위한 커뮤니티 기능을 추가할 예정입니다. 현재 계획 중이거나 개발 중인 작가 도구는 12개 이상이며, 시간이 지남에 따라 추가적인 도구를 도입할 계획입니다. 저희의 궁극적인 목표는 인터넷 매체를 혁신적인 방법으로 활용하여 작가와 독자 모두의 경험을 풍요롭게 하는 것입니다.',
     'about.text.4': '창작 글쓰기에 인터넷 매체가 어떤 일을 할 수 있는지 탐구하는 과정에 여러분이 함께해 주시길 바랍니다!',
     'about.team': '팀',
     'about.history': '역사',
@@ -45,8 +45,8 @@ export default {
     'about.companyCity.sendai': '센다이',
     'about.CEO': '최고 경영자',
     'about.CTO': '최고 기술 책임자',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
-    'about.history.text': 'In 2010, Jan began his studies at the Rochester Institute of Technology to deepen his knowledge of web development, with the goal of building a creative writing platform. This vision took shape in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies, and in 2016, a new version of the app was created as his Master\'s Capstone Project. The project continued to evolve throughout the fall of 2016, eventually developing into the platform you see today.',
+    'about.jan': 'Jan은 Literary Universe의 창시자이자 비전을 갖고 있는 기술적인 머리입니다. 거대한 문학 우주에서 이야기를 작성하는 것이 기술적인 정확성과 가독성을 균형있게 유지하면서 독자의 경험을 저해하지 않는 방법으로하는 것은 언제나 어려웠습니다. 이 도전은 그를 웹 개발 공부를 하게 만들었고, 대규모 우주 내에서 이야기 작성 과정을 단순화하는 애플리케이션을 만들기 위한 목표로 학습을 진행했습니다.',
+    'about.history.text': '2010년, Jan은 웹 개발 지식을 깊이있게 이해하기 위해 Rochester Institute of Technology에서 공부를 시작하였으며, 창의적인 글쓰기 플랫폼을 구축하는 것을 목표로 하였습니다. 이 비전은 2013년 Imagine RIT에서 최초의 컨셉 증명이 발표될 때 형태를 갖추게 되었습니다. Jan은 그의 공부를 계속 진행하며, 2016년에는 그의 석사 캡스톤 프로젝트로써 새로운 버전의 앱이 생성되었습니다. 이 프로젝트는 2016년 가을을 거쳐 점점 진화를 거듭하여 오늘날의 플랫폼으로 이루어지게 되었습니다.',
     'copyrights.desc': '문학 우주 저작권 협의 전문',
     'privacy.desc': '문학 우주 개인정보 처리방침 전문',
     'guidelines.desc': '문학 우주 커뮤니티 가이드라인',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': '최고 재무 책임자',
     'team.name.hsconovianus': '헨드리 스코노비아누스',
     'about.hendry': '헨드리는 15년 이상의 경험을 가진 디자이너입니다. 그는 2010년부터 에이전시에서 일하고 있으며, PERTAMINA, VOA, 인도네시아 관광부 등의 클라이언트와 함께 일해 왔습니다. 브랜딩, 레이아웃 및 UI/UX에 능숙하며, 문학 우주를 디자인하는 데 도전을 느낍니다.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
-    'about.seba': 'Once a gamer, Adam is now on the path to becoming a fully-fledged developer, applying his skills and passion to Literary Universe.'
+    'about.pavel': 'Web3, 메타버스, 인공지능 및 기타 신흥 기술 - Pavel은 이 모든 것을 탐구하여 Literary Universe를 어떻게 향상시킬 수 있는지 알아보고 있습니다. 참다양한 연구 분야에 통찰력을 가진 Pavel은 새롭고 흥미로운 기능을 플랫폼에 통합하기 위해 노력하고 있습니다.',
+    'about.seba': '게임 마니아였던 Adam은 이제 완전한 개발자로서의 길을 걷고 있으며, 그의 열정과 기술을 문학 우주에 적용하고 있습니다.'
 };
