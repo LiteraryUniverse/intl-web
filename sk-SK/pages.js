@@ -33,8 +33,8 @@ export default {
     'about.title': 'O Literary Universe',
     'about.desc': 'História, tajomstvá a ľudia za Literary Universe.',
     'about.text.1': 'Literary Universe je navrhnutý pre spisovateľov aj vášnivých čitateľov. Spisovatelia môžu použiť platformu na vytvorenie originálnych diel tým, že vyberú tlačidlo "Dielňa" v ponuke nástrojov. Tým získajú prístup k hlavnému editorovi a encyklopédii, ktoré sa zameriavajú na organizáciu všetkých aspektov vašej osobnej literárnej vesmíru na jednej stránke. Sociálne funkcie umožňujú autorom zdieľať svoju prácu, budovať si sledovanie a priamy kontakt s čitateľmi, ak si to želajú.',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'Čitatelia môžu používať stránku hlavne na objavovanie nových diel a sledovanie svojich obľúbených autorov, ale tiež môžu pomôcť upraviť predpublikované príbehy, ak im autor udelí povolenie. Byť čitateľom na Literary Universe ponúka úplne nový zážitok z čítania - mať prístup ku všetkým informáciám o kontexte na tej istej stránke ako hlavný príbeh poskytuje inzight do mysle autora ako nikdy predtým.',
+    'about.text.3': 'Budúcnosť Literary Universe zahŕňa vytvorenie trhoviska, kde môžu autori predávať svoje diela, a pridanie komunitných funkcií na zlepšenie komunikácie medzi autorami a čitateľmi prostredníctvom blogov a fór. Plánujeme postupne uviesť nové nástroje pre autorov, pričom momentálne je vývoji alebo plánovaných viac ako tucta. Naším konečným cieľom je obohatiť zážitky nielen autorov, ale aj čitateľov prostredníctvom inovatívneho využitia internetového média.',
     'about.text.4': 'Dúfame, že sa k nám pridáte, keď budeme skúmať, čo dokáže internetové médium urobiť pre tvorivé písanie!',
     'about.team': 'Tím',
     'about.history': 'História',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Výkonný riaditeľ',
     'about.CTO': 'Technologický riaditeľ',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'Jan je zakladateľ, vizionár a technologický mozog za Literary Universe. Ako autor rozsiahlych literárnych vesmírov sa Jan často stretával so výzvou písať príbehy takým spôsobom, aby zachoval technickú presnosť a čitateľnosť bez toho, aby to ovplyvnilo zážitok čitateľa. Táto výzva ho viedla k štúdiu web developmentu s cieľom vytvoriť aplikáciu, ktorá zjednodušuje proces písania príbehov v rámci veľkých vesmírov.',
     'about.history.text': 'V roku 2010 začal Jan študovať na Rochester Institute of Technology, aby prehlbil svoje znalosti v oblasti vývoja webových stránok s cieľom vybudovať platformu pre tvorivé písanie. Táto vízia sa zhmotnila v roku 2013, keď bol na konferencii Imagine RIT predstavený prvý dôkaz konceptu. Jan pokračoval vo svojich štúdiách a v roku 2016 bola vytvorená nová verzia aplikácie ako jeho magisterský projekt Capstone. Projekt pokračoval vývojom počas jesene 2016 a nakoniec sa vyvinul do platformy, ktorú vidíte dnes.',
     'copyrights.desc': 'Úplné znenie autorskej zmluvy Literary Universe.',
     'privacy.desc': 'Úplný právny text Zásady ochrany osobných údajov Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'Finančný riaditeľ',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry je dizajnér s viac ako 15-ročnými skúsenosťami. V agentúre pracuje od roku 2010, jeho klientmi sú napríklad PERTAMINA, VOA a Ministerstvo cestovného ruchu Indonézie. Má skúsenosti s brandingom, layoutom a tiež UI/UX, cíti sa byť výzvou pri navrhovaní Literary Universe.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3, Metaverse, AI a akákoľvek nová technológia - Pavel skúma všetko, aby videl, ako môže zlepšiť Literary Universe. Ako skutočný multidisciplinárny výskumník Pavel má prehľad v mnohých oblastiach a pracuje na integrovaní nových a vzrušujúcich funkcií do platformy.',
     'about.seba': 'Adam, kedysi hráč počítačových hier, teraz kráča cestou plnohodnotného vývojára a venuje svoje zručnosti a vášeň Literárnej vesmíre.'
 };
