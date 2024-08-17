@@ -32,9 +32,9 @@ export default {
     'homepage.featureSelection': 'Vaata neid populaarseid universumeid!',
     'about.title': 'Kirjandusliku Universumi kohta',
     'about.desc': 'Ajalugu, saladused ja inimesed Kirjandusliku Universumi taga.',
-    'about.text.1': 'Kirjanduslik Universum on loodud nii kirjanike kui ka innukate lugejate jaoks. Kirjanikud saavad kasutada saiti, et kirjutada originaalteoseid töötoas nupu abil juhtpaneeli menüüs. See annab teile juurdepääsu peatoimetajale ja entsüklopeedia funktsioonidele, mis keskenduvad peamiselt kõigi teie isikliku loo universumi aspektide korraldamisele ühele lehele. Sotsiaalsed aspektid võimaldavad autoritel levitada oma tööd ja luua jälgijaskond, samuti suhelda lugejatega, kui nad seda soovivad.',
-    'about.text.2': 'Lugejad saavad saiti kasutada peamiselt uute teoste lugemiseks ja autorite jälgimiseks, kuid ka eeltrükitud lugude toimetamiseks, kui neile on kirjaniku poolt antud luba. Kirjandusliku Universumi lugejaks olemine on täiesti uus lugemiskogemus, kuna taustateabele juurdepääs samal lehel kui pealugu annab teile ainulaadse ülevaate autori mõtetest.',
-    'about.text.3': 'Kirjandusliku Universumi tulevik hõlmab autoritele turu loomist nende töö müümiseks ning kogukonna funktsioonide lisamist, et parandada autori ja lugeja suhtlust blogide ja foorumite kaudu. Kirjanike tööriistu lisatakse järk-järgult, praegu on arendamisel või kavandamisel üle tosina. Meie lõppeesmärk on parandada kirjanike ja lugejate kogemusi, pakkudes innovatiivsemat kasutamist interneti keskkonnas.',
+    'about.text.1': 'Literary Universe on mõeldud nii kirjanikele kui ka innukatele lugejatele. Kirjanikud saavad kasutada platvormi, valides juhtpaneeli menüüst "Töötuba" nupu. See annab juurdepääsu peatoimetajale ja entsüklopeedia funktsioonidele, mis keskenduvad sinu isikliku loo universumi kõigi aspektide korraldamisele ühel lehel. Sotsiaalsed funktsioonid võimaldavad autoritel jagada oma tööd, luua järgijaid ja suhelda lugejatega vajadusel.',
+    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
+    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
     'about.text.4': 'Loodame, et liitute meiega, kui uurime, mida interneti keskkond loovkirjutamiseks pakkuda saab!',
     'about.team': 'Meeskond',
     'about.history': 'Ajalugu',
@@ -45,8 +45,8 @@ export default {
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Tegevjuht',
     'about.CTO': 'Tehnoloogiajuht',
-    'about.jan': 'Jan on Kirjandusliku Universumi asutaja, visionäär ja tehnoloogiline aju. Suurte kirjanduslike universumite kirjutajana leidis Jan alati keeruliseks kirjutada lugusid tehnilisest ja loetavuse seisukohast, mis ei kahjustaks lugemiskogemust. Seetõttu otsustas Jan jätkata veebiarenduse õpinguid, et luua rakendus, mis muudaks suurtes universumites lugude kirjutamise lihtsaks.',
-    'about.history.text': '2010. aastal alustas Jan Rochesteri Tehnoloogiainstituudis veebiarenduse kohta rohkem teadmiste hankimist, et luua loovkirjutamise sait. See realiseerus 2013. aastal, kui esimene kontsepti tõestus esitati Imagine RIT-l. Jan jätkas õpinguid ja 2016. aastal loodi uus versioon rakendusest magistritööna. Projekt jätkus sügisel 2016 ja arenes edasi selleks, mida täna näete.',
+    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.history.text': 'Aastal 2010 alustas Jan õpinguid Rochesteri Tehnoloogiainstituudis, et süvendada oma teadmisi veebiarendusest eesmärgiga luua loovkirjutamise platvorm. See visioon võttis tõelise kuju 2013. aastal, mil esimene kontsepti tõestus esitleti Imagine RIT üritusel. Jan jätkas oma õpinguid ja 2016. aastal loodi uus rakenduse versioon tema magistritööna. Projekt arenes edasi 2016. aasta sügisel koos platvormiks, mida täna näete.',
     'copyrights.desc': 'Kirjandusliku Universumi autoriõiguste lepingu täistekst.',
     'privacy.desc': 'Kirjandusliku Universumi privaatsuspoliitika täielik õiguslik tekst.',
     'guidelines.desc': 'Kirjandusliku Universumi kogukonna juhised.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'Finantsjuht',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry on disainer, kellel on üle 15 aasta kogemust. Ta on töötanud agentuuris alates 2010. aastast, tema klientide hulka kuuluvad PERTAMINA, VOA ja Indoneesia turismiministeerium. Ta omab kogemusi brändingu, paigutuse ja ka kasutajaliidese/ -kogemuse alal ning tunneb end väljakutsutuna kujundama Literary Universe\'it.',
-    'about.pavel': 'Web3, Metaverse, AI - Pavel uurib kõike seda ja kuidas seda saab kasutada Literary Universe\'i täiustamiseks. Tõeline mitmevaldkondlik uurija Pavel omab ülevaadet mitmetest valdkondadest ja töötab uute huvitavate omaduste lisamise kallal Literary Universe\'ile.',
-    'about.seba': 'Kunagine mängur, Adam õpib nüüd saama täieõiguslikuks arendajaks.'
+    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.seba': 'Kunagi mängur, on Adam nüüd teel saamas täieõiguslikuks arendajaks, rakendades oma oskusi ja kirge Literary Universe\'is.'
 };
