@@ -33,8 +33,8 @@ export default {
     'about.title': 'Pri Literatura Universo',
     'about.desc': 'Historio, sekretoj kaj homoj malantaŭ Literatura Universo.',
     'about.text.1': 'Literary Universe estas dizajnita por verkistoj kaj avidaj legantoj. Verkistoj povas uzi la platformon por krei originalajn verkojn elektante la butonon "Verkstato" en la menuo de la panelo. Tio provizas aliron al la ĉefa redaktilo kaj enciklopedio funkcioj, kiuj enfokas pri organizi ĉiujn aspektojn de via persona rakonta universo sur unu paĝo. La sociaj funkcioj permesas al verkistoj kunhavigi siajn verkojn, konstrui sekvanaron, kaj interagi pli rekte kun siaj legantoj se ili deziras.',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'Legantoj povas uzi la retejon ĉefe por malkovri novajn verkojn kaj sekvi siajn plej ŝatatajn aŭtorojn, sed ili ankaŭ povas helpi redakti antaŭeldonitajn rakontojn se la verkinto donas permeson. Esti leganto sur Literatura Universo proponas tute novan legadon—havi aliron al ĉiuj fona informo en la sama paĝo kiel la ĉefa rakonto liveras enkondukon en la aŭtoran menon kiel neniam antaŭe.',
+    'about.text.3': 'La estonteco de Literatura Universo inkluzivas la kreon de merkatloko kie verkistoj povos vendi siajn verkojn kaj enkorpigi komunumajn trajtojn por plibonigi la komunikadon inter verkistoj kaj legantoj per blogoj kaj forumoj. Ni planas enigi pliajn ilojn de verkistoj laŭtempe, kun pli ol dek du nuntempe en evoluo aŭ planoj. Nia fina celo estas plirikigi la spertojn de verkistoj kaj legantoj uzante la retmedion per inovaj vojoj.',
     'about.text.4': 'Ni esperas, ke vi kunvenos kun ni dum ni esploras kion la reta medio povas fari por kreiva skribado!',
     'about.team': 'La teamo',
     'about.history': 'Historio',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'Sendajo',
     'about.CEO': 'Ĉefoficisto',
     'about.CTO': 'Ĉefteknologia Oficisto',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'Jan estas la fondinto, viziono, kaj teknologia mensaĵo malantaŭ Literatura Universo. Kiel verkisto de vastaj literaturaj universoj, Jan ofte batalis verkigi rakontojn tiamaniere, ke kongruu teknika precizeco kun legebleco, sen kompromisi la legantan spertojn. Tiu ĉi defio kondukis lin al studado de reta programado, kun la celo krei aplikaĵon, kiu simpligas la proceson de verkado de rakontoj en grandaj universoj.',
     'about.history.text': 'En 2010, Jan komencis siajn studojn ĉe la Rochester Institute of Technology por plifortigi sian scion pri reta disvolviĝo, kun la celo krei kreadoran platformon por verkado. Tiu vizio prenis formon en 2013 kiam la unua pruvo de koncepto estis prezentita ĉe Imagine RIT. Jan daŭrigis siajn studojn, kaj en 2016, nova versio de la aplikaĵo estis kreita kiel lia Majstroprojekto. La projekto daŭre evoluis dum la aŭtuno de 2016, fine evoluante en la platformo, kiun vi vidas hodiaŭ.',
     'copyrights.desc': 'La plena teksto de Aŭtoraj Rajtoj de Literatura Universo.',
     'privacy.desc': 'Plena leĝa teksto de Privateca Politiko de Literatura Universo.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'Ĉefa Financa Oficisto',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry estas dezajnisto kun pli ol 15 jaroj da sperto. Li laboras en agentejo ekde 2010, liaj klientoj inkluzive de PERTAMINA, VOA, kaj Ministerio de Turismo de Indonezio. Li havas sperton en markumado, aranĝo kaj ankaŭ UI/UX kaj sentas sin defiita por dezajni Literaturan Universon.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3, la Metaverso, KI, kaj ajna aperanta teknologio—Pavel esploras ĉion por vidi kiel ĝi povas plibonigi Literaturan Universon. Kiel vera interdiciplina esploristo, Pavel havas enpensojn en multaj fakoj kaj laboras por enigi novajn kaj interesarajn trajtojn en la platformon.',
     'about.seba': 'Unufoje ludadanto, Adam nun sekvas la vojon por fariĝi plene ellabora programisto, apliki siajn kapablojn kaj pasion al Literary Universe.'
 };
