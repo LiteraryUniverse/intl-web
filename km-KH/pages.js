@@ -33,8 +33,8 @@ export default {
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
     'about.text.1': 'ជំនាន់ពិសោធន៍ប្រសិនបើអ្នកនិពន្ធតាមរយៈហ្វូបបន្លែងបង្ហាញអត្តសញ្ញាណរបស់អ្នកអានកលំប្លែងហ្វូបពិគ្រោះសំឡេង។ អ្នកអានអាចប្រើប្រាស់កម្មវិធីបង្កើតប្រកបដោយប៉ូតុង "Workshop" នៅក្នុងរបាយការណ៍តាមរយៈម៉ឺនុយកែសម្រួល។ នេះផ្តល់ឱ្យអ្នកចូលដំណើរការក្នុងកម្រិតពួកវា និងផ្ដល់អនុសាទសមត្ថភាពជាមួយនឹងការរៀបចំសម្ភារៈរបស់អ្នកផ្ទាល់ខ្លួននៅលើទំព័រតែមួយ។ ការសម្រួលប្រចាំក្នុងវគ្គនេះអនុប្រាប់តាមរយៈការរៀបចំសម្ភារៈរបស់ប្រព័ន្ធនឹងអនុវត្តបន្តិចប្រើប្រាស់លទ្ធផលប្រចាំ។ ការផ្សព្វផ្សាយធ្វើឱ្យអ្នកបង្កើតទិន្នន័យរបស់អ្នកទៅដល់អ្នកដោយមានប្រាប់ បង្កើតក្រុមអ្នកទស្សន៍គ្នាដើម្បីណែនាំអ្នកក្នុងដំណើរការទៅដើម្បីព្យាបាយនឹងអ្នកនៅពេលដែលអ្នកជ្រើសរើស។',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'អ្នកអានអាចប្រើប្រាស់គេហទំព័រនេះជាចម្លើយដើម្បីរករើសសិទ្ធិថ្មីនិងតាមដានប្រុងប្រយ័ត្នរបស់អ្នកស្រាប់ស្រួលទៅកាន់ប្រធានបទណែនាំដែលទទួលបានបន្ទាប់ពីអ្នកសរសេរ។ ជា អ្នកអាននៅលើ Literary Universe និងបានមើលថាអានសមត្ថភាពសរសេរច្រើនរបស់ៗអ្នកស្រាប់ស្រួលនៅក្នុងបំណងនៅផ្នែកនីតិវិជ្ជានៃអ្នកសរសេរ។',
+    'about.text.3': 'អត្រាការអានរបស់ Literary Universe រួមបញ្ចូលការបង្ហាញនិងការដឹកជញ្ជូនផ្សេងៗបន្តិចនឹងសហគ្រាសថ្នាក់និទេសមានការលើកទឹកស្ដេចពីមុនវិញនិងដែលកំពុងសម្រាប់បង្កើតប្រព័ន្ធបរភេសជាបណ្តាញសម្រាប់ការសរុបបរដាប់បំរែនិងអ្នកអាស៊ាអ្នកនិងអ្នកអានដ៏អស្ចារ្យ។ យើងរបស់យើងពេញនិស្ស័យថាក្នុងពេលឆាប់ដោយពុម្ពភាពកំពុងប្រព័ន្ធនិងសម្រាប់វេបសាយ។ យើងបង្កើតឧបករក្រុមឧបករកាំងផងដែរដែលមានលក្ខណៈស្រដៀងគ្នាក្នុងពេលព្រឹកនិងលើកលឹមស្ព័្ររបស់អ្នកនិងអ្នកស្រាប។',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'ជាអ្នកបង្កើនចិត្តគណនីនិយាយនៅលើLLLLtrajectory ដូច្នេះអ្នកសរសេរព័ត៌មានអំពីអ្វីដែលកើតមាននៅក្នុងបរិស្ថានរបស់អ្នកបំផុតនៅក្នុងប្រធានបទរបស់លោក។ ការបោះពុម្ពផ្សេងទៀតត្រូវបានចែកចាយតាមពិសេសក្នុងពេលបង្ហោះឬទៅតាមការតម្លើងដ៏ច្បែប្រទៀតក្នុងពេលដែលកំពុងចែកពិសេសនិងចម្ងាយពីផ្ទៃខាងក្រៅការសរសេរនឹងការអានតែមួយប៉ុណ្ណោះ។ ការបើកគំនិតនេះទូទៅរបស់គាត់ត្រូវបានស្ថាបនឹងការសរុបនៃអ្វីដែលអាចបោះពុម្ពផ្សេងៗចំពោះកម្មវិធីនីមួយៗដែលមានលក្ខណៈប្រសិទ្ធភាព។',
     'about.history.text': 'ក្នុងឆ្នាំ ២០១០ ចៅប្រមូលផ្តល់អ្នកនិពន្ធភាគច្រើននៅក្នុងវិស័យធំរបស់ប្រព័ន្ធដើម្បីពន្យានាការបង្កើតទំព័រអត្តសញ្ញាណសំខាន់ដែលទទួលបាននូវការសរសេរបឋមាការ។ ឧបសម្ដែលនេះបានរកឃើញការបង្ហាញដំណោះស្រាយដែលបានឲ្យតែបានបង្កើតឡើងក្នុងឆ្នាំ ២០១៣ ពេលដែលត្រូវបានបង្ហាញនៅលើ Imagine RIT។ ចៅកន្លាយវគ្គរៀបចំគ្រាប់ឆ្នាំបន្ទាប់មកដែររស់នៅពេលដែលការសរសេរនឹងពេលប៉ុណ្ណោះ ដើរលាយលើលំដាប់ដោយបន្តក្រោយពេល២០១៦។ គម្រោងនេះបានការពន្លឿនពីចំណុចធ្វើដំណើរដោយរយៈពេលពីច័ន្ទ និងបន្ទាប់ពីនេះបានអភិវឌ្ឍន៍របស់វា រហូតដល់កម្មវត្ថុដែលអ្នកឃើញនៅនៅពេលប៉ុណ្ណោះ។',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'នាយកហិរញ្ញាបត្រការណ៍ហិរញ្ញាបត្រ',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'ដោយគ្រោងឥឡូវនេះ លក្ខណៈរបស់ Web3, the Metaverse, AI, និងបច្ចុប្បន្នភាពជាការអានចំពោះការលើកទឹកស្ដេចកាត់ពីរវិសេវាអាននៅលីនុចច្រើនដូច្នេះជាមូលដ្ឋានអភិរក្សច្បាស់មួយៗដែលត្រូវបានរក្សា។ នៅពេលដែលអ្នកអានកំពុងវាយតំលើកបរិស្ថាន FreeThis និងត្រូវបានគេចែកចាយដើម្បីបញ្ចប់ក្រុមប្រឹក្សាបរដាប់បំរែដ៏ស្រស់។',
     'about.seba': 'ចុះហួរកាលពីរបៀបក្រោយពីកម្មវិធីអានអត្តបទេរពន្ធីក្នុងកម្មវិធីបង្កើតទំព័រអត្តសញ្ញាណពិសោធន។ ឧបសម្ដែលនេះឃុំម្នាក់ដឹងពីអ្នកជំនាញនិងពន្ធពីការរស់នៅកម្មវិធីរកប្រៀដទំព័រថ្លៃ។ '
 };
