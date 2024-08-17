@@ -32,9 +32,9 @@ export default {
     'homepage.featureSelection': 'בדקו את היקומים הפופולריים הללו!',
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
-    'about.text.1': 'Literary Universe is designed for both writers and avid readers. Writers can use the platform to create original works by selecting the "Workshop" button in the dashboard menu. This provides access to the main editor and encyclopedia functions, which focus on organizing all aspects of your personal story universe on a single page. The social features allow authors to share their work, build a following, and interact more directly with their readers if they choose.',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.1': 'היקום הספרותי מיועד לכתיבה וקריאה ממומחים. כותבים יכולים להשתמש בפלטפורמה כדי ליצור יצירות מקוריות על ידי בחירת לחצן "סדנה" בתפריט לוח המחוונים. זה מאפשר גישה לעורך הראשי ולפונקציות האנציקלופדיה, שמתמקדות באירגון כל האספקטים של יקום הסיפור האישי שלך בדף יחיד. התכונות החברתיות מאפשרות למחברים לשתף את עבודתם, לבנות קהל נאמנים ולהתקשר בצורה ישירה יותר עם הקוראים שלהם אם הם רוצים.',
+    'about.text.2': 'קוראים יכולים להשתמש באתר בעיקר כדי לגלות יצירות חדשות ולעקוב אחרי הסופרים האהובים עליהם, אך הם יכולים גם לעזור לערוך סיפורים שטרם פורסמו אם ניתן להם הרשאה על ידי הסופר. להיות קורא ב־Literary Universe מציע חוויית קריאה חדשה לגמרי - הגישה לכל המידע הרקעי באותה עמוד כמו הסיפור הראשי מספקת תובנות לעומקו של דעת הסופר כמו לעולם לפני כן.',
+    'about.text.3': 'העתיד של Literary Universe כולל יצירת שוק בו הסופרים יוכלו למכור את יצירותיהם והוספת תכונות קהילתיות כדי לשפר את התקשורת בין הסופרים והקוראים דרך בלוגים ופורומים. אנו מתכננים להכניס כלים נוספים לכותבים לאורך הזמן, עם יותר מעשרה כלים כרגע בפיתוח או בתכנון. המטרה הסופית שלנו היא להעשיר את החוויות של הכותבים והקוראים על ידי יישומו של יתרונות הרשת האינטרנט בדרכים חדשניות.',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,8 +45,8 @@ export default {
     'about.companyCity.sendai': 'סנדאי',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
-    'about.history.text': 'In 2010, Jan began his studies at the Rochester Institute of Technology to deepen his knowledge of web development, with the goal of building a creative writing platform. This vision took shape in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies, and in 2016, a new version of the app was created as his Master\'s Capstone Project. The project continued to evolve throughout the fall of 2016, eventually developing into the platform you see today.',
+    'about.jan': 'יאן הוא המייסד, הרואה חשבון והמוח הטכנולוגי מאחורי Literary Universe. ככותב של יבשות ספרותיות תכליתיות, יאן נתקל לעתים קרובות בקושי לכתוב סיפורים באופן שמאבחן בין דיוק טכני לניגודיות קריאה, בלתי מערער את חוויית הקורא. האתגר הזה הוביל אותו ללמוד פיתוח אינטרנט, עם המטרה ליצור אפליקציה שפשוטה את תהליך כתיבת הסיפורים ביבשות רחבות.',
+    'about.history.text': 'בשנת 2010, יאן התחיל את לימודיו במכון טכנולוגיית רוצ\'סטר על מנת להעמיק את הידע שלו בפיתוח אתרי אינטרנט, עם המטרה לבנות פלטפורמה לכתיבה יצירתית. רעיון זה התממש בשנת 2013 כאשר הוצג הראשון תיאום רעיוני בפניות Imagine RIT. יאן המשיך ללמוד ובשנת 2016,  גרסה חדשה של האפליקציה נוצרה כפרויקט גמר שלו בתואר המאסטר. הפרויקט המשיך להתפתח עד סוף סתיו 2016, ובסופו נוצרה הפלטפורמה שאתה רואה היום.',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'ההנחיות לקהילה של Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'ראש מחלקת כספים',
     'team.name.hsconovianus': 'הנדרי סקונוביאנוס',
     'about.hendry': 'הנדרי הוא מעצב עם יותר מ-15 שנות ניסיון. הוא עבד בסוכנות מאז 2010, לקוחותיו כוללים את PERTAMINA, VOA ומשרד התיירות של אינדונזיה. עם ניסיון בברנדינג, פריסת עמוד וגם ב-UI/UX, הוא מרגיש את האתגר לעצב את Literary Universe.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
-    'about.seba': 'Once a gamer, Adam is now on the path to becoming a fully-fledged developer, applying his skills and passion to Literary Universe.'
+    'about.pavel': 'ווב3, המטאַווערס, AI וכל טכנולוגיה חדשה שמתפתחת - פאוול חוקר הכל בשביל לראות כיצד אפשר לשפר את Literary Universe. כחוקר מרוב־תחומי אמיתי, פאוול מבין בעניינים רבים ועובד על שילוב תכונות חדשות ומרגשות לפלטפורמה.',
+    'about.seba': 'לשעבר גיימר, אדם נמצא כעת בדרך להפוך למפתח מתמקד, מבצע את הכישורים והתשוקה שלו בסבסטיאן פספורניוס.'
 };
