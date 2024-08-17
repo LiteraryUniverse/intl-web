@@ -32,9 +32,9 @@ export default {
     'homepage.featureSelection': 'تحقق من هذه الكونات الشهيرة!',
     'about.title': 'حول الكون الأدبي',
     'about.desc': 'التاريخ والأسرار والبشر وراء الكون الأدبي.',
-    'about.text.1': 'تم تصميم الكون الأدبي للكتاب والقراء المتحمسين. يمكن للكتاب استخدام الموقع لكتابة أعمال أصلية من خلال زر ورشة العمل في قائمة لوحة المعلومات. سيمنحك هذا الوصول إلى المحرر الرئيسي ووظائف الموسوعة التي تركز بشكل أساسي على تنظيم جميع جوانب كون قصتك الشخصية في صفحة واحدة. تسمح الجوانب الاجتماعية للكتاب ببث أعمالهم وتطوير جمهور يتابعهم ، فضلاً عن التفاعل المباشر إذا اختاروا ذلك مع قرائهم.',
-    'about.text.2': 'يمكن للقراء استخدام الموقع بشكل أساسي لقراءة الأعمال الجديدة ومتابعة الكتاب وأيضًا لمساعدة تحرير القصص المنشورة مسبقًا إذا حصلوا على إذن من الكاتب. يعتبر أن تكون قارئًا في الكون الأدبي تجربة قراءة جديدة تمامًا ، حيث يمنحك الوصول إلى جميع المعلومات الخلفية على نفس الصفحة التي تحتوي على القصة الرئيسية رؤيةً لعقل الكاتب كما لم يحدث من قبل.',
-    'about.text.3': 'تتضمن مستقبل الكون الأدبي إنشاء سوق للكتاب لبيع أعمالهم وإضافة ميزات المجتمع لتعزيز التواصل بين الكتاب والقراء من خلال المدونات والمنتديات. ستتم إضافة أدوات الكتابة بمرور الوقت ، حيث يوجد حاليًا أكثر من عشرة أدوات قيد التطوير أو في مرحلة التخطيط. هدفنا النهائي هو تعزيز تجارب الكتاب والقراء من خلال توفير استخدام أكثر ابتكارًا لوسائط الإنترنت.',
+    'about.text.1': 'Literary Universe is designed for both writers and avid readers. Writers can use the platform to create original works by selecting the "Workshop" button in the dashboard menu. This provides access to the main editor and encyclopedia functions, which focus on organizing all aspects of your personal story universe on a single page. The social features allow authors to share their work, build a following, and interact more directly with their readers if they choose.',
+    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
+    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
     'about.text.4': 'نأمل أن تنضموا إلينا في استكشاف ما يمكن أن تقدمه وسائط الإنترنت للكتابة الإبداعية!',
     'about.team': 'فريق العمل',
     'about.history': 'السجل',
@@ -45,8 +45,8 @@ export default {
     'about.companyCity.sendai': 'سنداي',
     'about.CEO': 'الرئيس التنفيذي',
     'about.CTO': 'رئيس التكنولوجيا',
-    'about.jan': 'جان هو المؤسس والرؤية والعقل التكنولوجي وراء الكون الأدبي. ككاتب لكواكب أدبية كبيرة ، وجد جان دائمًا صعوبة في كتابة القصص من وجهة نظر فنية وقابلية للقراءة لن تؤثر على تجربة القراءة. ولذلك ، قرر جان متابعة دراسته في تطوير الويب لإنشاء تطبيق يجعل من السهل كتابة القصص في كواكب كبيرة.',
-    'about.history.text': 'في عام 2010 بدأ جان في معهد تكنولوجيا روتشستر لمعرفة المزيد عن تطوير الويب من أجل أن يكون قادرًا على بناء موقع للكتابة الإبداعية. تجسد هذه الفكرة في عام 2013 عندما تم تقديم أول نموذج للمفهوم في Imagine RIT. واصل جان دراسته وفي عام 2016 تم إنشاء نسخة جديدة من التطبيق كمشروع ختامي للماجستير. استمر المشروع في خريف عام 2016 وتطور بشكل أكبر إلى ما تراه اليوم.',
+    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.history.text': 'In 2010, Jan began his studies at the Rochester Institute of Technology to deepen his knowledge of web development, with the goal of building a creative writing platform. This vision took shape in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies, and in 2016, a new version of the app was created as his Master\'s Capstone Project. The project continued to evolve throughout the fall of 2016, eventually developing into the platform you see today.',
     'copyrights.desc': 'نص اتفاقية حقوق النشر الكاملة للكون الأدبي.',
     'privacy.desc': 'نص سياسة الخصوصية القانونية الكاملة للكون الأدبي.',
     'guidelines.desc': 'إرشادات المجتمع للكون الأدبي.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'رئيس المالية',
     'team.name.hsconovianus': 'هندري سكونوفيانوس',
     'about.hendry': 'هندري هو مصمم لديه أكثر من 15 عامًا من الخبرة. كان يعمل في الوكالة منذ عام 2010، وكان لديه عملاء مثل بيرتامينا وفوا ووزارة السياحة في إندونيسيا. يمتلك خبرة في مجال التمييز والتخطيط وأيضًا تجربة مستخدم واجهة المستخدم، ويشعر بالتحدي في تصميم الكون الأدبي.',
-    'about.pavel': 'Web3 و Metaverse و AI وكل ما هو جديد هو ما يبحث فيه Pavel وكيف يمكن إضافته لتحسين الكون الأدبي. باحث متعدد التخصصات حقيقي، يمتلك Pavel رؤية في العديد من المجالات ويعمل على إضافة ميزات جديدة ومثيرة للاهتمام إلى الكون الأدبي.',
-    'about.seba': 'كان آدم في السابق لاعبًا، والآن يدرس ليصبح مطورًا متكاملًا تمامًا.'
+    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.seba': 'Once a gamer, Adam is now on the path to becoming a fully-fledged developer, applying his skills and passion to Literary Universe.'
 };
