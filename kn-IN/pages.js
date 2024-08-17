@@ -32,9 +32,9 @@ export default {
     'homepage.featureSelection': 'Check out these popular universe!',
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
-    'about.text.1': 'Literary Universe is designed both for writers and for the avid reader. Writers can use the site to write original works through the workshop button in the dashboard menu. This will give you access to the main editor and encyclopedia functions which primarily focus on organizing all aspects of your personal story universe into one page. The social aspects allow authors to broadcast their work and develop a following, as well as to interact more directly if they chose with their readers.',
-    'about.text.2': 'Readers can use the site primarily to read new works and follow authors but also to help edit pre-published stories if given permission by the writer. Being a reader on Literary Universe is a whole new reading experience, having access to all the background information on the same page as the main story gives you insight into the mind of the author like never before.',
-    'about.text.3': 'The future for Literary Universe involves creating a marketplace for authors to sell their work and adding community features to enhance author and reader communication through blogs and forums. Writer’s tools will be added over time, with over a dozen currently either in development or on the board. Our ultimate goal is to enhance the experiences of writers and readers through providing more innovative use of the internet medium.',
+    'about.text.1': 'ಸಾಹಿತ್ಯ ವಿಶ್ವ ಬರೆಯುವವರೂ ಕತೆಗಳನ್ನು ಓದುವವರೂ ಪ್ರಯೋಜನಕ್ಕಾಗಿ ರಚಿಸಲಾಗಿದೆ. ಬರುವಿಕೆ ಮೆನುವಿನಲ್ಲಿರುವ "ಮಾಡಲು ಮನೆ" ಎಂಬ ಬಟನ್ ಆಯ್ಕೆಮಾಡಿ ಮುಖ್ಯ ಸಂಪಾದಕ ಮತ್ತು ಜ್ಞಾನಕೋಶ ಕೆಲಸಗಳನ್ನು ಲಭ್ಯಮಾಡುತ್ತದೆ, ಯೋಜನೆ ಅನ್ನುವುದು ಒಂದೇ ಪುಟದಲ್ಲಿ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕಥಾಪ್ರಪಂಚವನ್ನು ಸಂಗ್ರಹಿಸುವುದರ ಮೇಲೆ ಗಮನ ಹರಿಸುತ್ತದೆ. ಸಾಮಾಜಿಕ ಸೌಲಭ್ಯಗಳು ಬರೆಯದೇ ಇದ್ದರೂ, ಬರೆಯಲು ಆಯ್ಕೆ ಮಾಡಿದಲ್ಲಿ, ಹೊಸಬರುಗಾಗಿ ಕೆಲಸ ಮಾಡಿ, ತಮ್ಮ ಓದುಗರಿಗೆ ಹೆಚ್ಚು ನೇರವಾದ ಅಂತರಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.',
+    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
+    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,8 +45,8 @@ export default {
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary and technological brain behind Literary Universe. As a writer of large literary universes, Jan had always found it difficult to write stories from a technical and readability point of view that would not compromise the reading experience. As such, Jan decided to pursue his studies in web development to create an application that would make it easy to write stories in large universes.',
-    'about.history.text': 'In 2010 Jan started at Rochester Institute of Technology to learn more about web development in order to be able to build a creative writing site. This materialized in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies and in 2016 a new version of the app was created as a Master\'s Capstone Project. The project continued in fall 2016 and further developed into what you see today.',
+    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.history.text': '2010ರಲ್ಲಿ, ಜಾನ್ ವೆಬ್ ಅಭಿವೃದ್ಧಿಗೆ ತನ್ನ ಜ್ಞಾನವನ್ನು ಆಳವಾಗಿ ಮುಂದಿನದಾಗಿ ಹೊಂದಲು ರಾಚೇಸಿ ಇಂಜಿನಿಯರಿಂಗ್ ಕಲೆಗೆ  ಅಧ್ಯಯನ ಪ್ರಾರಂಭಿಸಿದರು. ಸೃಷ್ಟಿಸುವ ಸಾಹಿತ್ಯ ಮಧ್ಯಾಹ್ನ ಯೋಚನೆಯ ರೂಪವನ್ನು ಪಡೆದು, 2013ರಲ್ಲಿ ಮೊದಲ ಪ್ರಕಟಣೆಯು Imagine RIT ನಲ್ಲಿ ನೀಡಲ್ಪಟ್ಟಿತು. ಜಾನ್ ಅವರ ಅಧ್ಯಯನ ಮುಂದುವರಿಸಿ, 2016ನೇ ವರ್ಷದ ಮುಕ್ತಾಯ ಪ್ರಮಾಣಪತ್ರ ಯೋಜನೆಯಂತೆ ಹೊಸ ಆಪ್ಲಿಕೇಶನ್ ರೂಪವನ್ನು ಪಡೆದಿತ್ತು. ಈ ಯೋಜನೆ ಬೇಲಿಯಲ್ಲಿ ಮುಂದುವರಿದು, 2016ರ ಹೊಸಗಿನ್ ಬಳಕೆಯಂತೆ ರಚಿಸಲ್ಪಡುತ್ತಿದೆ.',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'ಮುಖ್ಯ ಹಣಕಾಸು ಅಧಿಕಾರಿ',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
-    'about.pavel': 'Web3, Metaverse, AI, all that and anything new is what Pavel looks into and how it can be added to improve Literary Universe. A true multidisciplinary researcher Pavel holds insight into many areas and works on adding new interesting features to Literary Universe',
-    'about.seba': 'Once a gamer, Adam is now studying to become a fully fledged developer.'
+    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.seba': 'ಹಳೆಯದಾದ ಪಂಗಡದವರು ಆದಂ ಈಗ ಪೂರ್ಣವಾಗಿ ಅಭಿವೃದ್ಧಿಪಟ್ಟ ಅಭಿಮುಖಿ, ತನ್ನ ಕಲೆ ಮತ್ತು ಉತ್ಸಾಹವನ್ನು ಸಾಹಿತ್ಯ ವಿಶ್ವದಲ್ಲಿ ಉಪಯೋಗಿಸುವ ಜನಪ್ರಿಯೇತರನಾಗುತ್ತಿದ್ದಾನೆ.'
 };
