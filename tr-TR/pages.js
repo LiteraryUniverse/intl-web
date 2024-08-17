@@ -33,8 +33,8 @@ export default {
     'about.title': 'Edebi Evren Hakkında',
     'about.desc': 'Edebi Evren\'in arkasındaki tarih, sırlar ve insanlar.',
     'about.text.1': 'Edebi Evren, hem yazarlar hem de tutkulu okurlar için tasarlanmıştır. Yazarlar, "Atölye" düğmesini kontrol paneli menüsünde seçerek orijinal eserler oluşturmak için platformu kullanabilirler. Bu, ana düzenleyiciye ve ansiklopedi işlevlerine erişim sağlar ve kişisel hikaye evreninizin tüm yönlerini tek bir sayfada düzenlemeye odaklanır. Sosyal özellikler, yazarların çalışmalarını paylaşmalarına, bir takipçi kitlesi oluşturmalarına ve istelerse okuyucularıyla daha doğrudan etkileşimde bulunmalarına olanak tanır.',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'Okuyucular, öncelikle yeni eserleri keşfetmek ve favori yazarlarını takip etmek için siteyi kullanabilirler, ancak yazarın izniyle önceden yayınlanmamış hikayeleri düzenlemeye de yardımcı olabilirler. Literary Universe\'te bir okuyucu olmak, yazarın zihnine hiç olmadığı kadar içgörü sağlayan ana hikayenin yanında tüm arka plan bilgilerine erişim sağlayarak tamamen yeni bir okuma deneyimi sunar.',
+    'about.text.3': 'Literary Universe\'ün geleceği, yazarların eserlerini satabilecekleri bir pazar yaratmayı ve yazarlar ile okuyucular arasındaki iletişimi geliştirmek için topluluk özellikleri eklemeyi içerir. Şu anda geliştirilmekte veya planlanan onlarca yazar aracını zaman içinde tanıtmayı planlıyoruz. Nihai hedefimiz, yazarların ve okuyucuların deneyimlerini internet ortamını yenilikçi yollarla kullanarak zenginleştirmektir.',
     'about.text.4': 'Yaratıcı yazım için internet ortamının neler yapabileceğini keşfederken bize katılmanızı umuyoruz!',
     'about.team': 'Ekip',
     'about.history': 'Tarih',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Genel Müdür',
     'about.CTO': 'Teknoloji Müdürü',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'Jan, Literary Universe\'ün kurucusu, vizyoneri ve teknolojik zekasıdır. Geniş kurgusal evrenlere sahip bir yazar olarak, Jan sık ​​sık teknik hassasiyeti okunabilirlikle dengeleyen hikayeler yazmakta zorluk çekti ve okuyucu deneyimini zedelemeden yazma sürecini basitleştiren bir uygulama oluşturma hedefiyle web geliştirme alanında çalışmalar yapmaya karar verdi.',
     'about.history.text': '2010 yılında Jan, yaratıcı yazma platformunu inşa etme hedefiyle web geliştirme alanındaki bilgisini derinleştirmek için Rochester Teknoloji Enstitüsü\'nde eğitimine başladı. Bu vizyon, 2013 yılında ilk kavram kanıtının Imagine RIT\'de sunulduğunda şekil almaya başladı. Jan eğitimine devam etti ve 2016 yılında, uygulamanın yeni bir sürümü olan Master\'s Capstone Projesi olarak yaratıldı. Proje, 2016 sonbaharında ilerlemeye devam etti ve nihayet bugün gördüğünüz platforma dönüştü.',
     'copyrights.desc': 'Edebi Evren Telif Hakkı Sözleşmesinin tam metni.',
     'privacy.desc': 'Edebi Evren Gizlilik Politikasının tam yasal metni.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'Chief Financial Officer',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry, 15 yılı aşkın deneyime sahip bir tasarımcıdır. 2010 yılından beri ajanslarda çalışmaktadır ve PERTAMINA, VOA ve Endonezya Turizm Bakanlığı gibi müşterilere hizmet vermiştir. Marka tasarımı, düzen ve UI/UX konularında deneyimli olan Hendry, Edebiyat Evreni\'ni tasarlamak için kendini zorlu hissetmektedir.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3, Metaverse, Yapay Zeka ve ortaya çıkan diğer teknolojiler - Pavel, Literary Universe\'ü nasıl geliştirebileceğini görmek için hepsini keşfediyor. Gerçek bir çok disiplinli araştırmacı olarak, Pavel birçok alanda içgörüye sahiptir ve platforma yeni ve heyecan verici özellikleri entegre etme üzerinde çalışmaktadır.',
     'about.seba': 'Bir zamanlar bir oyuncu olan Adam, şimdi becerilerini ve tutkusunu Edebi Evren\'e tam anlamıyla bir geliştirici olma yolunda uyguluyor.'
 };
