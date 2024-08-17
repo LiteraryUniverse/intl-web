@@ -33,8 +33,8 @@ export default {
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
     'about.text.1': 'कला साहित्यिक सृजना र उत्कृष्ट पाठकहरूसाझा गर्न लाग्छ। लेखकहरूले प्लेटफर्म प्रयोग गरेर आफ्नो मूल कृतिहरू सिर्जना गर्न सक्छन्, ड्यासबोर्ड मेनुमा "कार्यशाला" बटन छान्नुहोस्। यसले मुख्य सम्पादक र विज्ञानकोष फंक्सनहरूलाई पहुँच प्रदान गर्दछ, जुन सात्क्षेत्रमा तपाईंको व्यक्तिगत कथाको ब्राह्मिक बिश्लेषणमा ध्यान केन्द्रित भएको छ। सामाजिक सुविधाहरूले लेखकलाई उनीहरूको काम साझा गर्न, एक अनुयाय बनाउन र उनीहरूको पाठकहरूसँग ध्यानसम्पन्न रूपमा अवधारणा गर्न अनुमति दिन्छ।',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'पाठकहरूले मुख्यतः नयाँ कृतिहरू खोज्न र आफ्ना प्रिय लेखकहरूलाई अनुसर्न सक्छन्, तर लेखकद्वारा अनुमति प्राप्त भएमा तिनीहरूले पूर्व-प्रकाशित कथाहरूमा सम्पादन गर्न पनि सहयोग गर्न सक्छन्। Literary Universe मा पाठक भएर पनि नयाँ पढ्ने अनुभव महत्वपूर्ण छ - मुख्य कथाबाट सम्पूर्ण पृष्ठमा उपस्थित सबै पृष्ठभूमि जानकारीलाई पढ्ने सुविधा लै हाम्रो लेखकको बिचमा बोध प्रदान गर्दछ।',
+    'about.text.3': 'Literary Universe को भविष्यमा लेखकहरूले आफ्ना काम बेच्न सक्ने एक बजार सिर्जना गर्ने र आफ्ना साहित्यमा संचार बढाउने समुदाय सुविधाहरू जोड्ने योजना समावेश गर्छ। हामी समयमा थप लेखकका उपकरणहरू पेश गर्ने योजना गरेका छौं, जुनमा वर्तमानमा विकास वा योजनाबद्ध दशकभन्दा बढी हुन्छन्। हाम्रो अग्रणी लक्ष्य हो लेखकहरू र पाठकहरूको अनुभवलाई अभिव्यक्ति माध्यम सहयोगमा आधारित गरी इन्टरनेट स्रोत संघटित गर्न।',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'सेंडाई',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'जनजालो विश्वको संस्थापक, दर्शनशीलता, र प्रविधिकी बुद्धिसंगी Literary Universe को पछाडि जन छन्। विशालको लेखकीय विश्वबाटसंगै जन प्रायः ताकतशाली साहित्यिक बिश्लेशी लेखन प्रक्रियालाई तकनीकी पुग्गलता र पठनीयतामध्ये समन्वय गर्न गोरखाली, पाठकको अनुभवमा समेट्न छोड्ने कसैलाई टाढा नगरी लेखन कार्यको योजना प्रेरणा दिइन्। यो चुनौतीले उहान संगठनमा अध्ययन गर्नेर वेब विकासमा पठनीयता सम्प्रेषण संजाल निर्माण गर्ने लक्ष्यमा जाने।',
     'about.history.text': '2010 मा, जान नेपालमा वेब विकासको ज्ञानलाई गहिरो गर्न अध्ययन गर्न रोचेस्टर प्रविधि संस्थानमा सुरु गरे। कर्मसूची लेखन प्लेटफर्म निर्माण गर्ने उद्देश्यले। यो विजनले २०१३ मा प्रस्तुती र संविधानमा रूपान्तरण गरियो Imagine RITमा। जानले अध्ययन जारी राख्यो, र २०१६ मा, मास्टर्स क्याप्सटोन प्रकल्पको रूपमा नयाँ संस्करण सृजना गरियो। प्रकल्पले अब्दोशमा सँधै विकास गर्दा, अन्ततः आज तपाइले देख्नुभएको प्लेटफर्ममा परिवर्तन गरेको हो।',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'मुख्य आर्थिक अधिकारी',
     'team.name.hsconovianus': 'हेन्ड्री स्कोनोवियनस',
     'about.hendry': 'हेन्ड्री डिजाइनर हुनुहुन्छ जसमा १५ वर्षभन्दा बढी अनुभव छन्। वह २०१० देखि एजेन्सीमा काम गरिरहेका छन्, जस्तै पर्तामिना, भिओए, र पर्यटन मन्त्रालय आदि उनका ग्राहकहरू। ब्राण्डिङ, लेआउट र युआई / यूएक्सको अनुभव पनि भएका उनले साहित्यिक यूनिभर्समा डिजाइन गर्ने चुनौती महसुस गर्दछन्।',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3, मेटाभर्स, AI र कुनै उभर्ने प्रविधि - पाबेल लाइटरेरी यूनिवर्सलाई यस सबैलाई प्रयोग गर्ने छ। एक वास्तविक बहु-विषयी अनुसन्धानकारको रूपमा, पाबेलले धेरै क्षेत्रमा जानकारी छ र यसलाई लाइटेरी यूनिवर्सलमा नयाँ र सदियलु विशेषताहरू जोड्न काम गर्दै छन्।',
     'about.seba': 'एकचोटि गेमरको अवस्थामा, आदम लिटररी युनिभर्समा पूर्ण रूपमा डेभलपर बन्न अघि आएका छ। उहाँले आफूको कौशल र जुनूनलाई कला साहित्यिक सृजनामा लागू गर्छ।'
 };
