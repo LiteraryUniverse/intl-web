@@ -33,8 +33,8 @@ export default {
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
     'about.text.1': 'Literary Universe ถูกออกแบบมาสำหรับนักเขียนและผู้อ่านที่หลงใหลในการอ่านหนังสือ เขียนใบสมัครตั้งแต่ไอคอน "Workshop" ในเมนูแดชบอร์ด ส่วน "Workshop" จะให้การเขียนและฟังก์ชันของสารบัญ ซึ่งเน้นการจัดระเบียบทุกด้านของจักรวาลเรื่องราวส่วนตัวของคุณบนหน้าเดียว ฟีเจอร์ทางสังคมสามารถให้นักเขียนแชร์งานของพวกเขา สร้างผู้ติดตาม และปฏิสัมพันธ์กับผู้อ่านได้อย่างตรงไปตรงมา ถ้าพวกเขาเลือก',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'ผู้อ่านสามารถใช้เว็บไซต์เพื่อค้นพบงานเขียนใหม่และติดตามผู้เขียนที่ชื่นชอบของพวกเขา แต่พวกเขายังสามารถช่วยแก้ไขเรื่องราวก่อนเผยแพร่ได้หากได้รับอนุญาตจากผู้เขียน การเป็นผู้อ่านในจักรวาลวรรณกรรมนั้นมอบประสบการณ์การอ่านที่แตกต่างออกไปแบบที่เต็มไปด้วยความรู้พื้นหลังที่มีให้บนหน้าเดียวกับเรื่องหลัก ซึ่งทำให้เข้าใจในจิตวิญญาณของผู้เขียนได้ได้อย่างไม่เคยมีมาก่อน',
+    'about.text.3': 'อนาคตของจักรวาลวรรณกรรมรวมถึงการสร้างตลาดที่ผู้เขียนสามารถขายงานเขียนของตนและเพิ่มคุณลักษณะในชุมชนเพื่อเสริมสร้างความสื่อสารระหว่างผู้เขียนและผู้อ่านผ่านบล็อกและฟอรั่ม เรามีแผนที่จะนำเครื่องมือของนักเขียนเพิ่มเติมในอนาคต โดยในตอนนี้เรามีมากกว่าสิบสองเครื่องมืออยู่ในขณะที่ทำการพัฒนาหรือวางแผนอยู่ เป้าหมายสุดท้ายของเราคือการเพิ่มคุณประสบการณ์ของนักเขียนและผู้อ่านโดยใช้สื่ออินเทอร์เน็ตในวิธีที่มีนวัตกรรม',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'เซนได',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'Jan เป็นผู้ก่อตั้ง ผู้มีวิสัยทัศน์ และจิตวิญญาณทางเทคโนโลยีของจักรวาลวรรณกรรม เป็นนักเขียนของจักรวาลวรรณกรรมที่กว้างขวาง Jan มักพบว่าเขียนเรื่องราวในลักษณะที่สมดุลกับความแม่นยำทางเทคนิค และอ่านได้อย่างสะดวกสบายโดยไม่เสียความสนใจของผู้อ่าน ความท้าทายนี้นำเขาไปสู่การศึกษาในด้านการพัฒนาเว็บ เพื่อสร้างแอปพลิเคชันที่จะทำให้กระบวนการเขียนเรื่องสั้นและหนังสือในจักรวาลใหญ่เป็นเรื่องง่ายขึ้น',
     'about.history.text': 'ในปี 2010 Jan เริ่มเรียนวิชาเว็บพัฒนาที่ Rochester Institute of Technology เพื่อเพิ่มความรู้ในการพัฒนาเว็บ โดยมีเป้าหมายในการสร้างแพลตฟอร์มเพื่อการเขียนเรื่องสร้างสรรค์ วิสัยทัศน์นี้เป็นจริงในปี 2013 เมื่อภาพพิสูจน์ครั้งแรกได้รับการเสนอที่งาน Imagine RIT Jan ต่อไปเรียนต่อตามหลักสูตรปริญญาโท เมื่อปี 2016 ได้สร้างเวอร์ชันใหม่ของแอปเป็นโครงงานฉบับสมบูรณ์ โครงงานได้รับการพัฒนาต่อเนื่องถึงยุคลาล่าสุด',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'Chief Financial Officer',
     'team.name.hsconovianus': 'เฮนดรี สโคโนวิอานุส',
     'about.hendry': 'เฮนดรีเป็นนักออกแบบที่มีประสบการณ์มากกว่า 15 ปี เขาได้ทำงานในสถานประกอบการตั้งแต่ปี 2010 ลูกค้าของเขาเช่น PERTAMINA, VOA, และกระทรวงการท่องเที่ยวของอินโดนีเซีย เขามีความชำนาญในการออกแบบแบรนด์, โครงร่าง และอินเตอร์เฟซ (UI/UX) เขารู้สึกท้าทายที่จะออกแบบ Literary Universe',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3, Metaverse, AI และเทคโนโลยีที่เกิดขึ้นใหม่ - Pavel สำรวจทุกอย่างเพื่อดูว่ามันสามารถเสริมสร้างจักรวาลวรรณกรรมได้อย่างไร เป็นนักวิจัยแบบหลากหลายมิติที่มีความเข้าใจในหลายสาขาและทำงานในการรวมคุณลักษณะใหม่และน่าตื่นเต้นลงในแพลตฟอร์ม',
     'about.seba': 'Adam เคยเป็นเกมเมอร์ แต่ตอนนี้เขากำลังเดินทางสู่การเป็นนักพัฒนาเต็มตัว นำความสามารถและความหลงใหลของเขามาใช้กับ Literary Universe'
 };
