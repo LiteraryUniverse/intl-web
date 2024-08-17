@@ -32,9 +32,9 @@ export default {
     'homepage.featureSelection': 'これら人気の宇宙関連小説をチェックしてください。',
     'about.title': 'Lieterary Universeについて',
     'about.desc': 'Lieterary Universeの歴史、秘密、そして人について',
-    'about.text.1': 'Lieterary Universeは、作家と熱心な読者向けに企画されています。作家の方は、ダッシュボードメニューの「ワークショップ」ボタンからオリジナル作品を書くことができます。このボタンをクリックすると、メインのエディターと百科事典の機能にアクセスできます。この機能は、ご自身の持っている宇宙関連のストーリーを1つのページにまとめることを目的にしています。社会と関わるという意味では、ご自分の作品を公開してファンを増やしたり、もし直接読者と関わりたいと思えばそれも可能になっています。',
-    'about.text.2': '読者にとってこのサイトの主な利用方法は新しい作品を読み、その作家をフォローすることですが、作家の許しがあれば発行前の著書の編集を手伝うこともできます。Lieterary Universeの読者になるということは、本文に書かれている頁の内容のもととなっていることにアクセスしてこれまで知る由がなかった作家がその文書を書いた意図を探ることができます。',
-    'about.text.3': '今後、Lieterary Universeは、作家が自分の作品を販売できるようになるマーケットプレイスづくりや、作家と読者がブログやフォーラムを通じてコミュニケーションを強化できるコミュニティ機能の追加などを予定しています。また、作家のためのツールも順次追加していく予定で、現在十数種類のツールを開発中または検討中です。最終的な目標は、より革新的なインターネットツールの活用により作家と読者の体験を向上させることです。',
+    'about.text.1': 'Literary Universe is designed for both writers and avid readers. Writers can use the platform to create original works by selecting the "Workshop" button in the dashboard menu. This provides access to the main editor and encyclopedia functions, which focus on organizing all aspects of your personal story universe on a single page. The social features allow authors to share their work, build a following, and interact more directly with their readers if they choose.',
+    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
+    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
     'about.text.4': '想像力にあふれた執筆が可能にするインターネット媒体を展開しますので、皆さんのご参加をお待ちしています。',
     'about.team': 'チームの紹介',
     'about.history': '沿革',
@@ -45,8 +45,8 @@ export default {
     'about.companyCity.sendai': '宮城県仙台市',
     'about.CEO': '最高経営責任者',
     'about.CTO': '最高技術責任者',
-    'about.jan': 'ヤンは、先見の明と技術的な知能を兼ね備えたLieterary Universeの創設者です。この大規模なLiterary Universeの作家であるジャンは、読書体験を損なわずに物語を書くことは技術面でも読み手の側からみても難しいといつも感じていました。そこで、ヤンは、大規模な宇宙で物語を簡単に書けるようになるアプリケーションを作るべくウェブ開発の勉強をすることを決めました。',
-    'about.history.text': '2010年にロチェスター工科大学に入学したヤンは、クリエイティブライティングのサイトを構築するために、ウェブ開発についてより深く学ぶことにしました。2013年には、Imagine RITで最初の概念実証を行いました。ヤンはその後も勉強を続け、2016年には修士課程のキャップストーン・プロジェクトとしてアプリの新バージョンを作成しました。このプロジェクトは2016年秋にも続けられ、今日のような形へと進化しました。',
+    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.history.text': 'In 2010, Jan began his studies at the Rochester Institute of Technology to deepen his knowledge of web development, with the goal of building a creative writing platform. This vision took shape in 2013 when the first proof of concept was presented at Imagine RIT. Jan continued his studies, and in 2016, a new version of the app was created as his Master\'s Capstone Project. The project continued to evolve throughout the fall of 2016, eventually developing into the platform you see today.',
     'copyrights.desc': 'Literary Universeの著作権使用許諾契約書の全文を掲載しています。',
     'privacy.desc': 'Literary Universeのプライバシーポリシーの法的文書全文です。',
     'guidelines.desc': 'Lieterary Universeのコミュニティ・ガイドラインです。',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': '最高財務責任者',
     'team.name.hsconovianus': 'ヘンドリー・スコノビアニャス',
     'about.hendry': 'ヘンドリーは15年以上の経験を持つデザイナーです。2010年から代理店に勤務し、PERTAMINA、VOA、インドネシア観光省などのクライアントがいます。ブランディング、レイアウト、UI/UXの経験を持ち、Literary Universeのデザインにやりがいを感じています。',
-    'about.pavel': 'パベルはWeb3、メタバース、AIなど、あらゆる新しいものを研究し、それがどのようにLiterary Universeを進化させていくかを考えています。真の学際的研究者であるパベルは、多くの分野に知見がありLiterary Universeにこれから追加していく興味深い機能について取り組んでいます。',
-    'about.seba': 'かつてゲーマーだったアダムは、現在、本格的な開発者になるために勉強中です。'
+    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.seba': 'Once a gamer, Adam is now on the path to becoming a fully-fledged developer, applying his skills and passion to Literary Universe.'
 };
