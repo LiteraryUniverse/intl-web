@@ -33,8 +33,8 @@ export default {
     'about.title': '關於文學宇宙',
     'about.desc': '文學宇宙背後的歷史、秘密和人類。',
     'about.text.1': '文學宇宙專為作家和熱衷讀者設計。作家可以使用平台上的"工作室"按鈕來創作原創作品。這將提供對主編輯和百科全書功能的訪問，這些功能專注於在單個頁面上組織你個人故事宇宙的所有方面。社交功能使作家可以分享自己的作品，建立追隨者，並如果他們選擇的話，更直接地與讀者互動。',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': '讀者可以主要使用該網站來發現新作品並追蹤他們最喜歡的作家，但他們也可以在獲得作者許可後幫助編輯預發表的故事。在Literary Universe上作為讀者提供了全新的閱讀經驗，將所有背景信息與主要故事放在同一頁上，可以深入了解作者的心境。',
+    'about.text.3': 'Literary Universe的未來包括建立一個市場，讓作家能夠賣出他們的作品，並添加社區功能，通過博客和論壇增強作家與讀者之間的交流。我們計劃隨著時間推出更多的寫作者工具，目前正在開發或計劃中的工具超過十幾個。我們的最終目標是通過創新方式利用互聯網媒介豐富作家和讀者的體驗。',
     'about.text.4': '我們希望您加入我們，一起探索互聯網媒體對創意寫作的貢獻！',
     'about.team': '團隊',
     'about.history': '歷史',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': '仙台',
     'about.CEO': '首席執行官',
     'about.CTO': '首席技術官',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'Jan是Literary Universe的創始人、理念家和技術大腦。作為一名廣闊文學宇宙的創作者，Jan常常在寫故事時難以平衡技術精確性和可讀性，而不影響讀者的體驗。這一挑戰促使他學習網頁開發，目標是創建一個簡化在大型宇宙中寫故事過程的應用程序。',
     'about.history.text': '2010年，Jan開始在羅徹斯特理工學院深入研究網絡開發，目標是建立一個創意寫作平台。這一想法在2013年的Imagine RIT上呈現了第一個概念證明。Jan繼續學習，並在2016年，一個新版本的應用程序作為他的碩士畢業項目被創建出來。該項目在2016年秋天繼續進化，最終發展成今天所見的平台。',
     'copyrights.desc': '文學宇宙版權協議的完整內容。',
     'privacy.desc': '文學宇宙隱私政策的完整法律文本。',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'Chief Financial Officer',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry是一位擁有超過15年經驗的設計師。自2010年起，他一直在代理機構工作，他的客戶包括PERTAMINA、VOA和印度尼西亞旅遊部。擅長品牌設計、版面設計以及UI/UX設計，他對設計文學宇宙感到挑戰。',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3、Metaverse、AI和任何新興技術，Pavel都在探索如何將其應用於豐富Literary Universe。作為一名真正多學科研究人員，Pavel對許多領域都有深入了解，並致力於將新的、令人興奮的功能整合到平台中。',
     'about.seba': '曾經是一名遊戲玩家的Adam現在正走上成為一名成熟開發者的道路，將他的技能和熱情應用於文學宇宙。'
 };
