@@ -33,8 +33,8 @@ export default {
     'about.title': 'Cinfo be\'o Literatura Ciste',
     'about.desc': 'Stiri, rirci je ninmu be\'o Literatura Ciste.',
     'about.text.1': 'Literary Universe cu dizajno le nu jivna cei barda be lo\'e pixra .i Lo\'e pixra fanva pu se rafsi lo simlu jaspu be lo nu mocycarsna ku\'o le ribycre pu na\'o se smuni lo nu gerna\nle ribycre cu jikca fo la\'e ri ze\'a ka le kibyca je le jaisle cu saske se zbasu lo ka se cuntu fa lo moklu\'a e lo londotcku .i Le saske cu te fokusku be lo nu pavlonde\'o lo dukse be loi vlacku be le nu gerna be do\nle karbi porsi\n.i Le saske xanku cu pilno pa\'a lo nu selkei lo\'e saske gi\'e denpa fi la\'e ri va\'o lo nu do xalkau lo nu do tu\'a lo saske se sidju fi lo nu jansu cei lo ribycre',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'Le nu citkanpe cu mokca lo nu facki lo se cukta cukta poi cilre befa\'u e ba\'o daspo la\'o zoi. le nu se citkanpe cu ka\'e dunda lo ka di\'a krefu lo\'i cukta poi nandu zasti ku kei ca lo ka friti lo\'a krinu be la\'o gy.Literary Universegy. .gy. Le nu se citkanpe pa fi\'u suna lenku be lo\'i cukta cu zifre lo ka pilno lo ckupau be lo mamta be\'o kei be lo se cukta .i le se citkanpe cu banzu lo du\'u le cmima be lo slabu cukta cu simlu lo ka simxu lo se cpacu\'a ckupau be lo mamta',
+    'about.text.3': 'Lo nu spofu fe lo glut----------------------------------------------------------------------',
     'about.text.4': 'Mi\'o djica lo nu do zvati mi\'o gi\'e facki lo nu le se ckule be\'o lo jbobau cu zasti lo nu se galfi lo nu se jbobau be\'o lo nu se jbobau be\'o lo pruce be\'o lo jbobau.',
     'about.team': 'lo cecmu',
     'about.history': 'Stiri',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'sendai',
     'about.CEO': 'lo prenu poi vlipa ke\'a cu xabju lo gugde poi sivni ke\'a',
     'about.CTO': 'lo prenu poi vlipa ke\'a cu xabju lo saske be lo drata be lo te cuxna ke\'a',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'Le nu citkanpe cu mokca lo nu facki lo se cukta cukta poi cilre befa\'u e ba\'o daspo la\'o zoi. le nu se citkanpe cu ka\'e dunda lo ka di\'a krefu lo\'i cukta poi nandu zasti ku kei ca lo ka friti lo\'a krinu be la\'o gy.Literary Universegy. .gy. Le nu se citkanpe pa fi\'u suna lenku be lo\'i cukta cu zifre lo ka pilno lo ckupau be lo mamta be\'o kei be lo se cukta .i le se citkanpe cu banzu lo du\'u le cmima be lo slabu cukta cu simlu lo ka simxu lo se cpacu\'a ckupau be lo mamta',
     'about.history.text': 'le Jan cu cilre ca\'a fa lo nu je\'u sazri lo\'e te farvi be le tecrida\nlo tarbri be lo gasnu be le uidje te ribyce\n.i Le farvi be le jalge cu ku se tcese fa\'a lo nu la\'u li PAMO cu porpi\'a lo se du\'u le preti cu zdofa\'o renotci ca le nu pensi dei\nli PAJO\nle Jan cu za\'u re lo nu cerni gunka fa lo nu farvi lo ribycre poi tefau cu lonu le ri pulji cu slabu le ce se preti cu ja\'e la\'a cu klama le la Imagine RIT\n.i pa\'a le merbau cu ci\'irpa\'u fa lo nu kelci lei remna cu da\'i se farvi fa lo repre xalka te ribycre',
     'copyrights.desc': 'Lo se ckule be\'o lo Literatura Ciste cu zasti lo nu se ckule be\'o lo ckule be\'o lo pruce be\'o lo jbobau.',
     'privacy.desc': 'Lo se ckule be\'o lo Literatura Ciste cu zasti lo nu se ckule be\'o lo ckule be\'o lo pruce be\'o lo jbobau.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'lo. se. finpe. ctuca',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry cu dizajner cu pluka se tcika li pi\'e 15',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Lo nu spofu fe lo glut',
     'about.seba': 'le Adam cu mutce ce\'o jgari\'a lo nu carvi le danre .ije le nu gerku cu ca\'o va\'e lo nu ma\'urti lo ribyce'
 };
