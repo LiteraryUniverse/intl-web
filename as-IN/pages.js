@@ -33,8 +33,8 @@ export default {
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
     'about.text.1': 'সাহিত্যিক বিশ্বটো লেখক এবং মনোয়োগী পাঠক দুইটাই জন্য পরিকল্পিত করা হয়েছে। লেখকরা প্ল্যাটফর্মটি ব্যবহার করে ড্যাশবোর্ড মেনুতে "কারখানা" বোতামটি নির্বাচন করে নিজস্ব কাজ তৈরি করতে পারেন। এটি প্রধান সম্পাদক এবং জ্ঞানকোষ কার্যান্বয়নের জন্য অ্যাক্সেস সরবরাহ করে, যা আপনার ব্যক্তিগত গল্প বিশ্বটি একটি একক পৃষ্ঠায় সংগঠন করার উপলক্ষ্যে কেন্দ্রিক। সামাজিক সুযোগগুলি লেখকদের কাজ শেয়ার করতে, একটি অনুসরণ তৈরি করতে এবং পাঠকদের সাথে তাদের সরাসরি আরও সম্পর্ক গড়তে দেয়।',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'পঠকগণ প্রাথমিকভাবে অসমীয়া উপন্যাস আৰু অসমীয়া লেখকসকলৰ সৈতে পৰিচিতি হৈ থাকিব পাৰে আৰু তেওঁলোকে যদি লেখকৰ অনুমতি পাবে তেন্তে পূৰ্বে প্ৰকাশিত কিথুনি গল্পৰ সম্পাদনা কৰিব পাৰে। লিটেৰেৰী ইউনিভার্সত অসমীয়া পাঠক সামগ্ৰিক নতুন পঢ়না অভিজ্ঞতা প্ৰদান কৰে—মূখ্য গল্পৰ পৃষ্ঠাটো অটোমেটিকভাবে উপলব্ধ হ’ব পৰাৰ পৃষ্ঠাবোৰে পেইছনৰ সময় লেখকৰ মনৰ আশু প্ৰদান কৰে।',
+    'about.text.3': 'সাহিত্য ইউনিভার্সৰ ভবিষ্যতে লেখকসকলৰ কাম বিক্ৰয় কৰাৰ এখন আছে যদি বিক্ৰেতা দ্বাৰা অনুমতি লোৱা হৈছে আৰু লেখক-পাঠকৰ মধ্যত যোগাযোগ বাৰ্তা আৰু ফ’ৰামসমূহ যোগ কৰিবলৈ সম্ভৱ কৰিব। আমি সময়পূৰ্ব কিছু লিখকৰ সহায়কাৰি সঁজুলি পঞ্চাৰ বাবে আৰু এইয়াওক উন্নয়নৰ লক্ষ্যে বৰ্তমানত বাহৈছে ই পৰ্যায়ক্ষেতে আৰু আমাৰ চাহিদাবোৰৰ অতিরিক্ত বার্তা যোগ কৰিবলৈ এটা ডজনধিৰে পূৰ্ব প্ৰবৃদ্ধি কৰিব প্লান আছে। আমাৰ পূৰ্বৱতৰবোৰ হল অনলাইন  মাধ্যমটো উৎপীৎ কৰি লেখক আৰু পাঠকদেৰ অভিজ্ঞতা আধুনিকভাৱে উন্নত কৰিব,',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'সেন্ডাই',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'জান লিটেৰেৰী ইউনিভার্সৰ স্থাপক, দৃষ্টিগামী আৰু পাঠকৰিত তথ্যজ্ঞানৰ পৰিপূৰ্ণ মন। প্ৰশান্তভাবে বিস্তৃত ভূবনিক জান সাধাৰণভাৱে গল্প পৰিচালনা কৰিবলৈ সমসাময়িকভাৱে পিঠাওৱাৰ চিৰতার্থ ব্যৱহাৰ কৰিছিল। এই চেলেঞঅয়ে বিশ্বাস কৰি তেওঁলোকেই ওয়েব ডেভেলপমেন্ট পঢ়ি লৈ সমস্যাৰহিত দৃষ্টিগত সারুহু গল্প লিখিবলৈ কিয়াপ ঘূৰিয়া গৈছিল। অলপ কালে দুৰ্দশা পূৰ্ণ গল্পৰ লিখনৰ প্ৰক্ৰিয়া সহজ কৰিবলৈ এক অৱশ্যই গল্পৰ পুৰস্কাৰয় ওয়েব উন্নয়ন লক্ষ্যৰে অংশগ্ৰহণ কৰিলে।',
     'about.history.text': '2010 সালে, জান ওয়েব ডেভেলপমেন্টের জ্ঞান আরোগ্য করার জন্য রচেস্টার ইনস্টিটিউট অব টেকনোলজিতে তার অধ্যয়ন শুরু করলেন, ক্রিয়েটিভ রাইটিং প্ল্যাটফর্ম তৈরির লক্ষ্যে। 2013 সালে এই ভাবনাটি আস্টানিজ রাইট প্রুফ অব কনসেপ্ট রাইটের মাধ্যমে দেখানো হয়। জান আরো অধ্যয়ন করলেন এবং 2016 সালে, মাস্টার’স ক্যাপস্টন প্রজেক্ট হিসেবে নতুন আপডেট ভার্সন তৈরি করা হয়েছিল। প্রজেক্টটি পরবর্তীতে বিকাশ করে 2016 সালের পালায় এগিয়ে চলেছিল, পরিবর্তন করে গল্প এখনও এই প্ল্যাটফর্মে উত্পন্ন হয়েছে।',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'Chief Financial Officer',
     'team.name.hsconovianus': 'হেন্ড্রি স্কনোভিয়ানুস',
     'about.hendry': 'হেন্ড্রি একজন ডিজাইনার যাঁর অধিকাংশ অভিজ্ঞতা আছে। তিনি ২০১০ সাল থেকে এজেন্সি তে কাজ করছেন, তাঁর ক্লায়েন্ট হয়েছে PERTAMINA, VOA, এবং ইন্দোনেশিয়ার পর্যটন মন্ত্রণালয়। ব্র্যান্ডিং, লেআউট এবং UI/UX এ অভিজ্ঞ হয়ে তিনি সাহিত্যিক ইউনিভার্স ডিজাইন করতে উৎসাহিত বোধ করেন।',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3, মেটাৱাৰ্স, AI, আৰু যিকোনো বেগজোৱা প্ৰযুক্তি—ৰ সমূহক চাবলৈ পায়েল লিটেৰেৰী ইউনিভার্স। এখন নবীনতম প্রযুক্তিসমূহক এটালৈকে লিটেৰেৰী ইউনিভার্সৰ এক অসমভূত অংশ। এখন প্ৰশস্তখ্যানৰ গবেষক হৈছে পাবেলে, তেওঁ লিটেৰেৰী ইউনিভার্স ইঞ্জিনে নতুন আৰু উত্সাহজনক সুবিধা সঁজুলিক কৰিব। অনলাইন পঠন অভিজ্ঞতা।',
     'about.seba': 'একবার একজন গেমার, এখন আদম পূর্ণাঙ্গ ডেভেলপার হতে যাচ্ছেন, তাঁর দক্ষতা এবং উদ্যম সাহিত্যিক বিশ্বকে প্রয়োগ করছেন।'
 };
