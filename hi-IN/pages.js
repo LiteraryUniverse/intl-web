@@ -33,8 +33,8 @@ export default {
     'about.title': 'About Literary Universe',
     'about.desc': 'History, secrets and humans behind Literary Universe.',
     'about.text.1': 'लिटररी यूनिवर्स लेखकों और उत्साही पाठकों दोनों के लिए डिज़ाइन की गई है। लेखक डैशबोर्ड मेनू में "वर्कशॉप" बटन का चयन करके मूल रचनात्मक कार्य बना सकते हैं। यह मुख्य संपादक और संकलनिका के कार्यों का पहुंच प्रदान करता है, जो आपकी व्यक्तिगत कहानी यूनिवर्स के सभी पहलुओं को एक ही पेज पर व्यवस्थित करने पर केंद्रित है। सामाजिक सुविधाएँ लेखकों को अपना काम साझा करने, एक फॉलोइंग बनाने और अपने पाठकों के साथ अधिक सीधे रूप से बातचीत करने की अनुमति देती हैं, यदि वे चुनें।',
-    'about.text.2': 'Readers can use the site primarily to discover new works and follow their favorite authors, but they can also help edit pre-published stories if granted permission by the writer. Being a reader on Literary Universe offers a whole new reading experience—having access to all the background information on the same page as the main story provides insight into the author’s mind like never before.',
-    'about.text.3': 'The future of Literary Universe includes creating a marketplace where authors can sell their work and adding community features to enhance communication between authors and readers through blogs and forums. We plan to introduce additional writer’s tools over time, with more than a dozen currently in development or planned. Our ultimate goal is to enrich the experiences of both writers and readers by leveraging the internet medium in innovative ways.',
+    'about.text.2': 'पाठक वेबसाइट का प्रमुख रूप से उपयोग नई रचनाओं की खोज करने और अपने पसंदीदा लेखकों का अनुसरण करने के लिए कर सकते हैं, लेकिन यदि लेखक द्वारा अनुमति दी जाती है तो वे प्री-प्रकाशित कहानियों का संपादन करने में भी मदद कर सकते हैं। Literary Universe पर एक पाठक होना एक पूरी नई पढ़ने की अनुभव प्रदान करता है— मुख्य कहानी के साथ ही सभी पृष्ठभूमि जानकारी तक पहुँच होने से लेखक के मन की सूचना प्राप्त होती है।',
+    'about.text.3': 'Literary Universe के भविष्य में लेखक अपनी रचनाएँ बेच सकते हैं और लेखकों और पाठकों के बीच संचार को मजबूत करने के लिए समुदाय सुविधाएं जोड़ने की योजना है। हम समय के साथ अतिरिक्त लेखक के उपकरणों को पेश करने, जिनमें से अभी तक इकाइयां विकसित की जा रही हैं या योजित की गई हैं, जोड़ने की योजना बना रहे हैं। हमारा प्रमुख लक्ष्य इंटरनेट माध्यम का उपयोग करके लेखकों और पाठकों के अनुभव को योगदान करके बढ़ाना है।',
     'about.text.4': 'We hope that you join us as we explore what the internet medium can do for creative writing!',
     'about.team': 'The team',
     'about.history': 'History',
@@ -45,7 +45,7 @@ export default {
     'about.companyCity.sendai': 'Sendai',
     'about.CEO': 'Chief Executive Officer',
     'about.CTO': 'Chief Technology Officer',
-    'about.jan': 'Jan is the founder, visionary, and technological mind behind Literary Universe. As a writer of expansive literary universes, Jan often struggled to write stories in a way that balanced technical precision with readability, without compromising the reader\'s experience. This challenge led him to pursue studies in web development, with the goal of creating an application that simplifies the process of writing stories within large universes.',
+    'about.jan': 'जैन साहित्यिक यूनिवर्स के संस्थापक, दृष्टिवान, और प्रौद्योगिकी की दिमागी शक्ति हैं। विस्तृत साहित्यिक यूनिवर्स के लेखक के रूप में, जैन को अक्षरशः टेक्निकल सटीकता के साथ पठनीयता को संतुलित ढंग से लिखने की समस्या होती थी, पाठक के अनुभव को प्रभावित किए बिना। इस चुनौती ने उन्हें वेब विकास में अध्ययन करने के लिए प्रेरित किया, जिसका लक्ष्य है बड़े संसार में कहानियां लिखने की प्रक्रिया को सरल बनाने वाला एक एप्लिकेशन बनाना।',
     'about.history.text': '2010 में, जैन ने वेब विकास के ज्ञान को गहराने के लिए रॉचेस्टर इंस्टीट्यूट ऑफ टेक्नोलॉजी में अपनी पढ़ाई शुरू की, जिसका उद्देश्य क्रिएटिव राइटिंग प्लेटफॉर्म बनाना था। यह विचार 2013 में अंतरिक्ष छापा गया था, जब प्राथमिकता का पहला सबूत इमेज़िन RIT में प्रस्तुत किया गया। जैन ने अपनी पढ़ाई जारी रखी, और 2016 में, एक नई संस्करण का ऐप उसके मास्टर्स कैपस्टोन परियोजना के रूप में बनाया गया। परियोजना 2016 के गिरफ़्त में और बढ़ते हुए इस समय देखने के लिए प्लेटफ़ॉर्म में विकसित हुआ।',
     'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
@@ -101,6 +101,6 @@ export default {
     'about.CFO': 'मुख्य वित्तीय अधिकारी',
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
-    'about.pavel': 'Web3, the Metaverse, AI, and any emerging technology—Pavel explores it all to see how it can enhance Literary Universe. As a true multidisciplinary researcher, Pavel has insights into many fields and works on integrating new and exciting features into the platform.',
+    'about.pavel': 'Web3, Metaverse, AI, और किसी भी उभरती हुई तकनीक— पावल इन सभी की जांच करते हैं और इसे लिटररी यूनिवर्स को कैसे बढ़ा सकता है, देखते हैं। एक सच्चे बहुविज्ञानिक शोधकर्ता के रूप में, पावल के पास कई क्षेत्रों में अंतर्दृष्टि है और प्लेटफ़ॉर्म में नए और रोचक सुविधाएँ जोड़ने पर काम करते हैं।',
     'about.seba': 'एक समय एक गेमर, आदम अब पूरी तरह से विकसित करने के लिए एक पूर्ण रूप से विकसित करने के लिए अपनी कौशल और प्रेम को लिटररी यूनिवर्स पर लागू कर रहा है।'
 };
