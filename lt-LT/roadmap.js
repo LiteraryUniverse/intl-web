@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Mes planuojame tobulinti šią funkciją ateityje.',
   'roadmap.item.inProgress': 'Funkcijos vystymas prasidėjo {startedAt, date}.',
   'roadmap.item.inBeta': 'Ši funkcija įeina į beta versiją {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Ši funkcija tapo prieinama Storyteller prenumeratoriams {previewAt, date}.',
+  'roadmap.item.inPreview': 'Ši funkcija tapo prieinama Storyteller prenumeratoriams {previewAt, date}.',
   'roadmap.item.inGa': 'Ši funkcija tapo visuotinai prieinama {gaAt, date}.',
   'roadmap.item.originalIssue': 'Šią funkciją pradinai pasiūlė mūsų vartotojai.',
   'roadmap.eta.mapTitle': `Planuojama {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Baigta {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Grįžti į kelių žemėlapį',
   'roadmap.seeBacklog': 'Pažiūrėkite, ką kitų dalykų mes planuojame daryti',
-  'roadmap.seeFinished':
-    'Jei norite daugiau sužinoti apie mūsų istoriją, mes turime jums paruoštą gražų apžvalgą',
+  'roadmap.seeFinished': 'Jei norite daugiau sužinoti apie mūsų istoriją, mes turime jums paruoštą gražų apžvalgą',
   'roadmap.planned': 'Planuojama',
-  'roadmap.finished': 'Baigta',
-}
+  'roadmap.finished': 'Baigta'
+};

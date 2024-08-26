@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Fórum engedélyezése',
   'forums.archive': 'Fórum archiválása',
-  'forums.archive.explained':
-    'A fórum archiválása megakadályozza a felhasználókat abban, hogy további tartalmat küldjenek be, de látható marad.',
+  'forums.archive.explained': 'A fórum archiválása megakadályozza a felhasználókat abban, hogy további tartalmat küldjenek be, de látható marad.',
   'forums.archive.success': 'A fórumot archiválták',
   'forums.unArchive': 'Fórum újraaktiválása',
   'forums.unArchive.success': 'A fórum újraaktiválva!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Kategória neve',
   'forums.category.slug': 'SEO URL rész',
   'forums.category.settings': 'Kategória beállítások',
-  'forums.category.language':
-    'Kategória megjelenítésének korlátozása a következő nyelvre. Hagyja üresen, ha szeretné, hogy a kategória minden nyelven megjelenjen.',
-  'forums.category.intlNameDescription':
-    'A közös kategórianév lokalizált címeit kiválaszthatja, hogy a kategória elérhető legyen az összes támogatott nyelven.',
+  'forums.category.language': 'Kategória megjelenítésének korlátozása a következő nyelvre. Hagyja üresen, ha szeretné, hogy a kategória minden nyelven megjelenjen.',
+  'forums.category.intlNameDescription': 'A közös kategórianév lokalizált címeit kiválaszthatja, hogy a kategória elérhető legyen az összes támogatott nyelven.',
   'forums.thread.new': 'Új téma',
   'forums.thread.delete': 'Téma törlése',
   'forums.post.new': 'Új bejegyzés',
-  'forums.archived.forum':
-    'Ez a fórum {archivedAt, date, long}-án archiválásra került. Még mindig megtekintheti a fórumokat, de nem tud új tartalmat létrehozni.',
+  'forums.archived.forum': 'Ez a fórum {archivedAt, date, long}-án archiválásra került. Még mindig megtekintheti a fórumokat, de nem tud új tartalmat létrehozni.',
   'forums.category.archive': 'Kategória archiválása',
-  'forums.category.archiveExplained':
-    'A kategória, amelynek nincsenek témái, törlésre kerül, míg a tartalommal rendelkező kategóriák megakadályozzák az új témák létrehozását.',
+  'forums.category.archiveExplained': 'A kategória, amelynek nincsenek témái, törlésre kerül, míg a tartalommal rendelkező kategóriák megakadályozzák az új témák létrehozását.',
   'forums.category.reactivate': 'Kategória újraaktiválása',
   'forums.category.isVotable': 'Engedélyezze a felhasználóknak a téma szavazását',
-  'forums.category.titleIsGlobal':
-    'Ez a kategória címe a felhasználó nyelvén jelenik meg, ha támogatjuk azt.',
-  'forums.category.languageLimited':
-    'Ez a kategória csak a felhasználóknak ezen a nyelven jelenik meg.',
+  'forums.category.titleIsGlobal': 'Ez a kategória címe a felhasználó nyelvén jelenik meg, ha támogatjuk azt.',
+  'forums.category.languageLimited': 'Ez a kategória csak a felhasználóknak ezen a nyelven jelenik meg.',
   'forums.threadsCounter': 'Összes téma beszélgetés száma',
   // Pre-defined category names
   'forums.category.intlName.general': 'Általános',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Csak regisztrált felhasználóknak engedélyezett hozzáférés',
   'forums.settings.accessControls': 'Hozzáférési vezérlők',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Ez a fórum csak regisztrált felhasználók számára elérhető.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Ez a fórum csak regisztrált felhasználók számára elérhető.',
   'forums.noThreads': 'Nincs itt semmi látnivaló. Rajtad múlik, hogy elindítod a beszélgetést.',
   'forums.noPosts': 'Még senki sem válaszolt. Légy Te az első!',
   // Threads
@@ -72,5 +64,5 @@ export default {
     one {válasz}
     other {válaszok}
   }`,
-  'forums.thread.createdAt': 'Létrehozva: {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Létrehozva: {createdAt, date, medium}'
+};

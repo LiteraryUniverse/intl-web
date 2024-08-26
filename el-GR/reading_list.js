@@ -22,5 +22,5 @@ export default {
     other {ιστορίες και σύμπαντα}
   } στη λίστα ανάγνωσης.`,
   'readingList.addItem.fromLibrary': 'Από τη βιβλιοθήκη',
-  'readingList.button.added': 'Προστέθηκε',
-}
+  'readingList.button.added': 'Προστέθηκε'
+};

@@ -21,5 +21,5 @@ export default {
     other {# people}
   } in a conversation.`,
   'pm.new.aria': 'New conversation',
-  'pm.new.buttonTitle': 'Start a new conversation',
+  'pm.new.buttonTitle': 'Start a new conversation'
 }

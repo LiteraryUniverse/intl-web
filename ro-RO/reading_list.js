@@ -22,5 +22,5 @@ export default {
     other {povești și universuri}
   } în lista de lectură.`,
   'readingList.addItem.fromLibrary': 'Din bibliotecă',
-  'readingList.button.added': 'Adăugat',
-}
+  'readingList.button.added': 'Adăugat'
+};

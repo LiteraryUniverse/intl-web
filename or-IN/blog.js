@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `ଆପଣ ବର୍ତମାନରେ {type, select,
+    'blog.noneMsg': `ଆପଣ ବର୍ତମାନରେ {type, select,
     organization {କୌଣସି ବ୍ଲଗ}
     universe {ଆପଣଙ୍କ ବିଶ୍ବରେ ଏକ ବ୍ଲଗ}
     user {ଏବଂ ଏକ ବ୍ଲଗ}
     other {}
   }ନାହିଁ ।`,
-  'blog.create': 'Create a new blog',
-  'blog.settings': `{type, select,
+    'blog.create': 'Create a new blog',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-  'blog.description': 'Blog introduction',
-  'blog.theme': 'Theme',
-  'blog.theme.info':
-    'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Blog introduction',
+    'blog.theme': 'Theme',
+    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Create a new post',
-  'blog.post.update': 'Editing {title}',
-  'blog.post.text': 'Post text',
-  'common.slug': 'SEO friendly address',
-  'blog.slug.explained':
-    'Nice looking url to the post. Avoid using special characters except for "-".',
-  'blog.publicView': 'Public view',
-  'blog.post.notfound': 'Blog post was not found',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Create a new post',
+    'blog.post.update': 'Editing {title}',
+    'blog.post.text': 'Post text',
+    'common.slug': 'SEO friendly address',
+    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
+    'blog.publicView': 'Public view',
+    'blog.post.notfound': 'Blog post was not found',
+    'blog.lists.works': `{type, select,
     universes {ବିଶ୍ୱ}
     stories {କାହାଣୀ}
     fanfiction {ଫାନ୍ ଫିକ୍ସନ କାର୍ଯ୍ୟ}
     other {}
   }`,
-  'blog.social.sameAsMain': `Social links are the same as set in {type, select,
+    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}

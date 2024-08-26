@@ -22,5 +22,5 @@ export default {
     other {រឿង និង​រូបភាព}
   } ទៅ​បញ្ជី​អាន។`,
   'readingList.addItem.fromLibrary': 'ពី​បណ្ដាញ',
-  'readingList.button.added': 'បាន​បន្ថែម',
-}
+  'readingList.button.added': 'បាន​បន្ថែម'
+};

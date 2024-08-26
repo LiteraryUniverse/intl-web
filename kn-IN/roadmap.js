@@ -33,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'ನಾವು ಯೋಜನೆ ಹಾಕಿರುವ ಇನ್ನೂ ಏನನ್ನು ನೋಡಿ',
   'roadmap.seeFinished': 'ನಮ್ಮ ಇತಿಹಾಸದ ಬಗ್ಗೆ ಹೆಚ್ಚು ತಿಳಿಯಲು, ನಮ್ಮ ಒಂದು ಒಳ್ಳೆಯ ಅವಲೋಕನವನ್ನು ನೋಡಿ',
   'roadmap.planned': 'ಯೋಜಿಸಲಾಗಿದೆ',
-  'roadmap.finished': 'ಮುಗಿದಿದೆ',
-}
+  'roadmap.finished': 'ಮುಗಿದಿದೆ'
+};

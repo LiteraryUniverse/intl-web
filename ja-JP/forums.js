@@ -1,8 +1,7 @@
 export default {
   'forums.create': '掲示板を有効化',
   'forums.archive': '掲示板をアーカイブ',
-  'forums.archive.explained':
-    '掲示板をアーカイブすると、ユーザーは今後投稿できなくなりますが、引き続き閲覧は可能です。',
+  'forums.archive.explained': '掲示板をアーカイブすると、ユーザーは今後投稿できなくなりますが、引き続き閲覧は可能です。',
   'forums.archive.success': '掲示板はアーカイブされました。',
   'forums.unArchive': '掲示板を再度有効にします。',
   'forums.unArchive.success': '掲示板が再度有効になりました',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'カテゴリー名',
   'forums.category.slug': 'SEO対策用URL部分',
   'forums.category.settings': 'カテゴリー設定',
-  'forums.category.language':
-    'このカテゴリの表示は以下の言語に限定します。カテゴリをすべての言語で表示したい場合は、空白のままにして下さい。',
-  'forums.category.intlNameDescription':
-    '一般的なカテゴリ名のタイトルをローカライズして選択できるようにし、対応するすべての言語でカテゴリを利用できるようにしました。',
+  'forums.category.language': 'このカテゴリの表示は以下の言語に限定します。カテゴリをすべての言語で表示したい場合は、空白のままにして下さい。',
+  'forums.category.intlNameDescription': '一般的なカテゴリ名のタイトルをローカライズして選択できるようにし、対応するすべての言語でカテゴリを利用できるようにしました。',
   'forums.thread.new': '新しいスレッド',
   'forums.thread.delete': 'スレッドを削除する',
   'forums.post.new': '新規投稿',
-  'forums.archived.forum':
-    'この掲示板は{archivedAt, date, long}でアーカイブされました。閲覧することは可能ですが、新しいコンテンツを作成することはできなくなりました。',
+  'forums.archived.forum': 'この掲示板は{archivedAt, date, long}でアーカイブされました。閲覧することは可能ですが、新しいコンテンツを作成することはできなくなりました。',
   'forums.category.archive': 'アーカイブカテゴリー',
-  'forums.category.archiveExplained':
-    'スレッドがないカテゴリは削除され、内容のあるカテゴリは新しいスレッドが作成されないようになります。',
+  'forums.category.archiveExplained': 'スレッドがないカテゴリは削除され、内容のあるカテゴリは新しいスレッドが作成されないようになります。',
   'forums.category.reactivate': 'カテゴリを再度有効にする',
   'forums.category.isVotable': 'ユーザーがスレッドに賛成票/反対票を投じることができます',
-  'forums.category.titleIsGlobal':
-    'このカテゴリタイトルは、弊社がサポートしている場合、ユーザーの言語で表示されます。',
-  'forums.category.languageLimited':
-    'このカテゴリは、この言語を使用されているユーザーのみに表示されます。',
+  'forums.category.titleIsGlobal': 'このカテゴリタイトルは、弊社がサポートしている場合、ユーザーの言語で表示されます。',
+  'forums.category.languageLimited': 'このカテゴリは、この言語を使用されているユーザーのみに表示されます。',
   'forums.threadsCounter': 'ディスカッションされているトピックス数',
   // Pre-defined category names
   'forums.category.intlName.general': '総合討論',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': '登録されたユーザーのみアクセスが許可されます',
   'forums.settings.accessControls': 'アクセス制御',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'このフォーラムは、登録されたユーザーのみアクセスできます。',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'このフォーラムは、登録されたユーザーのみアクセスできます。',
   'forums.noThreads': '何も掲示するものはありません。会話を始めるのはあなた次第です。',
   'forums.noPosts': 'まだ誰も返信していません。一番乗りを目指しましょう。',
   // Threads
@@ -71,5 +63,5 @@ export default {
   'forums.thread.totalPosts': `{totalReplies, number}{totalReplies, plural,
     other {件の返信}
   }`,
-  'forums.thread.createdAt': '{createdAt, date, medium}で作成',
-}
+  'forums.thread.createdAt': '{createdAt, date, medium}で作成'
+};

@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'ଫାନ୍ ଆର୍ଟ୍ ଦୃଶ୍ୟମାନ କରନ୍ତୁ',
   'fanManager.fanFictionNotAllowed': 'ଆପଣଙ୍କର ଲାଇସେନ୍ସ ର ପ୍ରକୃତିରେ ଫାନ୍ ଲେଖା ଅନୁମୋଦ୍ୟ ନାହିଁଯାଇଛି',
   'fanManager.fanFiction.maxRating': 'ପ୍ରଦର୍ଶିତ ହୋଇଥିବା ଫାନ୍ ଲେଖାର ପ୍ରମାଣର ଉଚ୍ଚତମ ମାନ୍ୟତା',
-}
+  'fanManager.hidden.nothingFound': 'କୌଣସି ଲୁକାଚିତ ଫାନ୍ ଆର୍ଟସମୂହ ପାଇଁ ପାଇବେ ନାହିଁ।',
+  'fanManager.rejected.nothingFound': 'କୌଣସି ଫାନ୍ ଆର୍ଟସମୂହ ମନସାଇନକୁ ପାଇଁ ପାଇବେ ନାହିଁ।',
+  'fanManager.approved.nothingFound': 'କୌଣସି ମଞ୍ଜୁର ଫାନ୍ ଆର୍ଟସମୂହ ମିଳିବା ନାହିଁ।',
+  'fanManager.submitted.nothingFound': 'କୌଣସି ଜମା ଆର୍ଟସମୂହ ବ୍ୟତିରେ ପାଇଥିବା ନାହିଁ ।'
+};

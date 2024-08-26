@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `तुमच्याकडे आतापर्यंत कोणतीही ब्लॉग नाहीत {type, select,
+    'blog.noneMsg': `तुमच्याकडे आतापर्यंत कोणतीही ब्लॉग नाहीत {type, select,
     organization {तुमच्या विश्वासासाठी एक ब्लॉग नाही}
     universe {एक ब्लॉग}
     user {नाहीत}
     other {}
   }.`,
-  'blog.create': 'नवीन ब्लॉग तयार करा',
-  'blog.settings': `{type, select,
+    'blog.create': 'नवीन ब्लॉग तयार करा',
+    'blog.settings': `{type, select,
     org {ब्लॉग}
     universe {यूनिवर्स पृष्ठ}
     user {ब्लॉग}
     other {}
   } सेटिंग्ज`,
-  'blog.description': 'ब्लॉगचे परिचय',
-  'blog.theme': 'थीम',
-  'blog.theme.info':
-    'पृष्ठाची दृष्टीकोन बदलायला थीम सापडल्यांना तुम्ही पृष्ठाची दिसणखाली बदलू शकता. ही वैशिष्ट्ये हे वेळेत नाहीत.',
-  'blog.posts.total': `येथे कोणतेही पोस्ट नाहीत {total, plural,
+    'blog.description': 'ब्लॉगचे परिचय',
+    'blog.theme': 'थीम',
+    'blog.theme.info': 'पृष्ठाची दृष्टीकोन बदलायला थीम सापडल्यांना तुम्ही पृष्ठाची दिसणखाली बदलू शकता. ही वैशिष्ट्ये हे वेळेत नाहीत.',
+    'blog.posts.total': `येथे कोणतेही पोस्ट नाहीत {total, plural,
     zero {एक पोस्ट आहे}
     one {पोस्ट आहेत}
     other {पोस्ट आहेत}
   } या ब्लॉगमध्ये.`,
-  'blog.post.create': 'नवीन प्रतिलेख तयार करा',
-  'blog.post.update': '{title}संपादन करीत आहे',
-  'blog.post.text': 'प्रतिलेख मजकूर',
-  'common.slug': 'एसईओ मित्रदर्शक पत्ता',
-  'blog.slug.explained': 'प्रतिलेखसाठी सुंदर url. "-" यासारख्या विशेष वर्णांचा वापर करण्यासाठीy टाळा.',
-  'blog.publicView': 'सार्वजनिक दृश्य',
-  'blog.post.notfound': 'ब्लॉग प्रतिलेख सापडला नाही',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'नवीन प्रतिलेख तयार करा',
+    'blog.post.update': '{title}संपादन करीत आहे',
+    'blog.post.text': 'प्रतिलेख मजकूर',
+    'common.slug': 'एसईओ मित्रदर्शक पत्ता',
+    'blog.slug.explained': 'प्रतिलेखसाठी सुंदर url. "-" यासारख्या विशेष वर्णांचा वापर करण्यासाठीy टाळा.',
+    'blog.publicView': 'सार्वजनिक दृश्य',
+    'blog.post.notfound': 'ब्लॉग प्रतिलेख सापडला नाही',
+    'blog.lists.works': `{type, select,
     universes {युनिवर्स}
     stories {कथा}
     fanfiction {फॅन फिक्शन काम}
     other {}
   }`,
-  'blog.social.sameAsMain': `सोशल लिंक्स त्यांचे सेट केलेले आहेत ज्यामुळे त्यांनी सेट केलेले आहे त्यामुळे {type, select,
+    'blog.social.sameAsMain': `सोशल लिंक्स त्यांचे सेट केलेले आहेत ज्यामुळे त्यांनी सेट केलेले आहे त्यामुळे {type, select,
     organization {संघटना सेटिंग्ज}
     user {वापरकर्ता प्रोफाइल}
     other {}

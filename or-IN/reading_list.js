@@ -22,5 +22,5 @@ export default {
     other {କାହାଣୀ ଏବଂ ବିଶ୍ୱଗୁଡ଼ିକ}
   } ଯୋଡ଼ନ୍ତୁ କରିବା ପାଇଁ ମୋଡାଲ`,
   'readingList.addItem.fromLibrary': 'ଗ୍ରନ୍ଥାଗାର ରୁ',
-  'readingList.button.added': 'ଯୋଡ଼ାଯାଇଛି',
-}
+  'readingList.button.added': 'ଯୋଡ଼ାଯାଇଛି'
+};

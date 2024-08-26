@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'Loo uus blogi',
-  'blog.settings': `{type, select,
+    'blog.create': 'Loo uus blogi',
+    'blog.settings': `{type, select,
     org {Blogi}
     universe {Universumi leht}
     user {Blogi}
     other {}
   } seaded`,
-  'blog.description': 'Blogi sissejuhatus',
-  'blog.theme': 'Teema',
-  'blog.theme.info':
-    'Lehekülje väljanägemise muutmiseks saate teemat kohandada. See funktsioon ei ole praegu valmis.',
-  'blog.posts.total': `Selles blogis pole {total, plural,
+    'blog.description': 'Blogi sissejuhatus',
+    'blog.theme': 'Teema',
+    'blog.theme.info': 'Lehekülje väljanägemise muutmiseks saate teemat kohandada. See funktsioon ei ole praegu valmis.',
+    'blog.posts.total': `Selles blogis pole {total, plural,
     zero {postitusi}
     one {on üks postitus}
     other {on # postitused}
   }.`,
-  'blog.post.create': 'Loo uus postitus',
-  'blog.post.update': 'Redigeeritakse {title}',
-  'blog.post.text': 'Postituse tekst',
-  'common.slug': 'SEO sõbralik aadress',
-  'blog.slug.explained':
-    'Kenalt välja nägev URL postituse juurde. Vältige erimärke, välja arvatud "-".',
-  'blog.publicView': 'Avalik vaade',
-  'blog.post.notfound': 'Blogi postitust ei leitud',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Loo uus postitus',
+    'blog.post.update': 'Redigeeritakse {title}',
+    'blog.post.text': 'Postituse tekst',
+    'common.slug': 'SEO sõbralik aadress',
+    'blog.slug.explained': 'Kenalt välja nägev URL postituse juurde. Vältige erimärke, välja arvatud "-".',
+    'blog.publicView': 'Avalik vaade',
+    'blog.post.notfound': 'Blogi postitust ei leitud',
+    'blog.lists.works': `{type, select,
     universes {Universumid}
     stories {Lood}
     fanfiction {Fännikirjanduse teos}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sotsiaalsed lingid on samad kui määratud {type, select,
+    'blog.social.sameAsMain': `Sotsiaalsed lingid on samad kui määratud {type, select,
     organization {organisatsiooni seadetes}
     user {kasutaja profiilis}
     other {}

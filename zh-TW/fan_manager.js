@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': '使粉絲藝術可見',
   'fanManager.fanFictionNotAllowed': '根據您的許可證性質，不允許粉絲小說。',
   'fanManager.fanFiction.maxRating': '顯示的粉絲小說的最高評級。',
-}
+  'fanManager.hidden.nothingFound': '找不到任何隱藏的粉絲藝術品。',
+  'fanManager.rejected.nothingFound': '找不到任何被拒絕的粉絲藝術品。',
+  'fanManager.approved.nothingFound': '找不到任何已通過的粉絲藝術品。',
+  'fanManager.submitted.nothingFound': '找不到已提交的粉絲藝術作品。'
+};

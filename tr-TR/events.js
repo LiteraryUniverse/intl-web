@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'Özel',
   'event.visibilityShort.public': 'Herkese Açık',
-  'event.visibilityShort.owner': 'Sahip',
-}
+  'event.visibilityShort.owner': 'Sahip'
+};

@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Запис у енциклопедії',
   'personalNotes.type.revTextBlock': 'Блок тексту перегляду',
   'personalNotes.chapter': 'Розділ',
-  'personalNotes.recentSearches': 'Останні пошуки:',
-}
+  'personalNotes.recentSearches': 'Останні пошуки:'
+};

@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'ప్రైవేట్',
   'event.visibilityShort.public': 'ప్రపంచంలో',
-  'event.visibilityShort.owner': 'స్వామి',
-}
+  'event.visibilityShort.owner': 'స్వామి'
+};

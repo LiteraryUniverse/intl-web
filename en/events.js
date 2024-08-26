@@ -8,7 +8,8 @@ export default {
   'events.details.image': 'Event image',
   'events.details.description': 'Event description / Agenda',
   'events.details.url': 'Link to more details',
-  'events.details.virtualLink': 'Link to virtual location (ie. Zoom, Google Meets, etc.)',
+  'events.details.virtualLink':
+    'Link to virtual location (ie. Zoom, Google Meets, etc.)',
   'events.details.address': 'Venue address',
   'events.details.startsAt': 'Event start',
   'events.details.endsAt': 'Event ends',
@@ -32,7 +33,8 @@ export default {
     organization {members of your organization}
     other {you and the people you invite}
   } can see this event`,
-  'events.visibility.private': 'Private - only people you invite will see the event',
+  'events.visibility.private':
+    'Private - only people you invite will see the event',
   'events.inviting': 'Can people who see this event invite others?',
   'events.administration': 'Events administration',
   'events.create.title': 'Create a new event',
@@ -41,5 +43,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'Private',
   'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Owner',
+  'event.visibilityShort.owner': 'Owner'
 }

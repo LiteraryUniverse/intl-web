@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'বিশ্বকোষ এন্ট্রি',
   'personalNotes.type.revTextBlock': 'সংশোধন পাঠ ব্লক',
   'personalNotes.chapter': 'অধ্যায়',
-  'personalNotes.recentSearches': 'সাম্প্রতিক অনুসন্ধানগুলি:',
-}
+  'personalNotes.recentSearches': 'সাম্প্রতিক অনুসন্ধানগুলি:'
+};

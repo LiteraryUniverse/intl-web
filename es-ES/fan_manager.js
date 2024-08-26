@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Rechazado',
   'fanManager.state.hidden': 'Oculto',
   'fanManager.publicComment': 'Comentario público',
-  'fanManager.publicComment.desc':
-    'Este texto se mostrará en la página pública como tu comentario oficial acerca de esta publicación.',
+  'fanManager.publicComment.desc': 'Este texto se mostrará en la página pública como tu comentario oficial acerca de esta publicación.',
   'fanManager.authorComment': 'Comentario para el autor',
-  'fanManager.authorComment.desc':
-    'Este es un comentario privado de tu parte para el autor de esta publicación.',
+  'fanManager.authorComment.desc': 'Este es un comentario privado de tu parte para el autor de esta publicación.',
   'fanManager.stateChange.approve': 'Aprobar arte de los fans',
   'fanManager.stateChange.reject': 'Rechazar arte de los fans',
   'fanManager.stateChange.hide': 'Ocultar arte de los fans',
   'fanManager.stateChange.unhide': 'Hacer visible el arte de los fans',
   'fanManager.fanFictionNotAllowed': 'Tu tipo de licencia no permite la creación de fanficción.',
   'fanManager.fanFiction.maxRating': 'Calificación máxima de la fan fiction mostrada.',
-}
+  'fanManager.hidden.nothingFound': 'No se encontraron fan arts ocultos.',
+  'fanManager.rejected.nothingFound': 'No se encontraron fan arts rechazados.',
+  'fanManager.approved.nothingFound': 'No se encontraron fan arts aprobados.',
+  'fanManager.submitted.nothingFound': 'No se encontraron fan arts enviados.'
+};

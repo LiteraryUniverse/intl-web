@@ -8,8 +8,7 @@ export default {
   'events.details.image': 'Зображення події',
   'events.details.description': 'Опис події / Порядок денний',
   'events.details.url': 'Посилання на деталі',
-  'events.details.virtualLink':
-    'Посилання на віртуальне місце (наприклад, Zoom, Google Meets тощо)',
+  'events.details.virtualLink': 'Посилання на віртуальне місце (наприклад, Zoom, Google Meets тощо)',
   'events.details.address': 'Адреса місця проведення',
   'events.details.startsAt': 'Початок події',
   'events.details.endsAt': 'Закінчення події',
@@ -43,5 +42,5 @@ export default {
   'events.moreInfo': 'Додаткова інформація',
   'event.visibilityShort.private': 'Приватний',
   'event.visibilityShort.public': 'Публічний',
-  'event.visibilityShort.owner': 'Власник',
-}
+  'event.visibilityShort.owner': 'Власник'
+};

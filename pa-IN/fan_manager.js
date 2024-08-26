@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'ਫੈਨ ਕਲਾ ਦਰਸ਼ੀ ਜਾਵੇ',
   'fanManager.fanFictionNotAllowed': 'ਤੁਹਾਡੇ ਲਾਇਸੈਂਸ ਦੇ ਪ੍ਰਕ੍ਰਿਆ ਦੁਆਰਾ ਫੈਨ ਕਲਾ ਦੀ ਇਜ਼ਾਜ਼ਤ ਨਹੀਂ ਹੈ।',
   'fanManager.fanFiction.maxRating': 'ਦਿਖਾਈ ਜਾਂਦੀ ਹੋਈ ਫੈਨ ਕਲਾ ਦੀ ਅਧਿਕਤਮ ਰੇਟਿੰਗ।',
-}
+  'fanManager.hidden.nothingFound': 'ਕੋਈ ਲੁਪਤ ਫੈਨ ਕਲਾਕਾਰੀਆਂ ਨਹੀਂ ਮਿਲੀਆਂ ਹਨ।',
+  'fanManager.rejected.nothingFound': 'ਕੋਈ ਨਕਾਰਜ ਫੈਨ ਕਲਾਕਾਰੀਆਂ ਨਹੀਂ ਮਿਲੀਆਂ ਹਨ।',
+  'fanManager.approved.nothingFound': 'ਕੋਈ ਮਨਜ਼ੂਰਕੀਤ ਫੈਨ ਕਲਾਕਾਰੀਆਂ ਨਹੀਂ ਮਿਲੀਆਂ ਹਨ।',
+  'fanManager.submitted.nothingFound': 'ਕੋਈ ਸਪ੍ਰਸ਼ਟ ਫੈਨ ਆਰਟ ਨਹੀਂ ਲੱਭੀਆਂ ਗਈਆਂ ਹਨ।'
+};

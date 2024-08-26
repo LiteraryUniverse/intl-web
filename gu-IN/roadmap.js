@@ -31,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'પૂર્ણ થયેલ છે {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'યોજના પરત જવા માટે પાછા જાઓ',
   'roadmap.seeBacklog': 'અન્ય કામો જોવા માટે ચેક કરો',
-  'roadmap.seeFinished':
-    'જો તમને અમારો ઇતિહાસ વધુ ખોજવો માંગતો હોય, તો અમારી સરસ ઓવરવ્યૂ તમારા માટે તૈયાર છે',
+  'roadmap.seeFinished': 'જો તમને અમારો ઇતિહાસ વધુ ખોજવો માંગતો હોય, તો અમારી સરસ ઓવરવ્યૂ તમારા માટે તૈયાર છે',
   'roadmap.planned': 'પ્રાથમિકતામાં છે',
-  'roadmap.finished': 'પૂર્ણ થયેલ',
-}
+  'roadmap.finished': 'પૂર્ણ થયેલ'
+};

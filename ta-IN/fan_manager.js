@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'பிரதியை காட்டு',
   'fanManager.fanFictionNotAllowed': 'உங்களுக்குப் புரட்சியால் கதைகளை அனுமதிக்க முடியாது.',
   'fanManager.fanFiction.maxRating': 'காட்சித்தனிக்கு அதிகப்பட்ட மதிப்பீடு.',
-}
+  'fanManager.hidden.nothingFound': 'மறைந்துபோன பாணி கலாச்சாரங்கள் காணப்படவில்லை.',
+  'fanManager.rejected.nothingFound': 'மறுமுகப்படுத்தப்பட்ட பாணி கலாச்சாரங்கள் காணப்படவில்லை.',
+  'fanManager.approved.nothingFound': 'அங்கீகரிக்கப்பட்ட பாணி கலாச்சாரங்கள் காணப்படவில்லை.',
+  'fanManager.submitted.nothingFound': 'சமர்ப்பிக்கப்பட்ட பொழப்பு கலைக்கள் கிடைக்கவில்லை.'
+};

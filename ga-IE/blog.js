@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Níl {type, select,
+    'blog.noneMsg': `Níl {type, select,
     organization {bliog ar bith agat faoi láthair}
     universe {bliog do do dhomhan}
     user {bliog}
     other {}
   }.`,
-  'blog.create': 'Cruthaigh blag nua',
-  'blog.settings': `{type, select,
+    'blog.create': 'Cruthaigh blag nua',
+    'blog.settings': `{type, select,
     org {Blag}
     universe {Leathanach Domhainthreoir}
     user {Blag}
     other {}
   } socrúcháin`,
-  'blog.description': 'Ceiliúradh blag',
-  'blog.theme': 'Téama',
-  'blog.theme.info':
-    'Trí mhodhanna a athrú is féidir leat cuma an leathanaigh a athrú. Níl an gné seo réidh faoi láthair.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Ceiliúradh blag',
+    'blog.theme': 'Téama',
+    'blog.theme.info': 'Trí mhodhanna a athrú is féidir leat cuma an leathanaigh a athrú. Níl an gné seo réidh faoi láthair.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Cruthaigh post nua',
-  'blog.post.update': 'Ag eagar {title}',
-  'blog.post.text': 'Téacs an phoist',
-  'common.slug': 'URL a bhfuil anseo cuí le SEO',
-  'blog.slug.explained':
-    'URL deas don post. Ná bain úsáid as carachtair speisialta ach amháin "-".',
-  'blog.publicView': 'Radharc poiblí',
-  'blog.post.notfound': 'Níor aimsíodh an post blag',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Cruthaigh post nua',
+    'blog.post.update': 'Ag eagar {title}',
+    'blog.post.text': 'Téacs an phoist',
+    'common.slug': 'URL a bhfuil anseo cuí le SEO',
+    'blog.slug.explained': 'URL deas don post. Ná bain úsáid as carachtair speisialta ach amháin "-".',
+    'blog.publicView': 'Radharc poiblí',
+    'blog.post.notfound': 'Níor aimsíodh an post blag',
+    'blog.lists.works': `{type, select,
     universes {Domhain}
     stories {Scéalta}
     fanfiction {Obair Ficsean na bhFán}
     other {}
   }`,
-  'blog.social.sameAsMain': `Tá an nasc sóisialta céanna mar atá leagtha síos i {type, select,
+    'blog.social.sameAsMain': `Tá an nasc sóisialta céanna mar atá leagtha síos i {type, select,
     organization {socruithe an eagraíochta}
     user {próifíl úsáideora}
     other {}

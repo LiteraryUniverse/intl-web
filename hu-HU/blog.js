@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Jelenleg nincs semmilyen {type, select,
+    'blog.noneMsg': `Jelenleg nincs semmilyen {type, select,
     organization {blog}
     universe {blog az univerzuma számára}
     user {blog}
     other {}
   }.`,
-  'blog.create': 'Új blog létrehozása',
-  'blog.settings': `{type, select,
+    'blog.create': 'Új blog létrehozása',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Univerzum oldal}
     user {Blog}
     other {}
   } beállítások`,
-  'blog.description': 'Blog bevezetés',
-  'blog.theme': 'Téma',
-  'blog.theme.info':
-    'Az oldal kinézetét a téma beállításával módosíthatja. Ez a funkció jelenleg nem érhető el.',
-  'blog.posts.total': `Ebben a blogban {total, plural,
+    'blog.description': 'Blog bevezetés',
+    'blog.theme': 'Téma',
+    'blog.theme.info': 'Az oldal kinézetét a téma beállításával módosíthatja. Ez a funkció jelenleg nem érhető el.',
+    'blog.posts.total': `Ebben a blogban {total, plural,
     zero {nincsenek bejegyzések}
     one {egy bejegyzés}
     other {# bejegyzése van}
   }.`,
-  'blog.post.create': 'Új bejegyzés létrehozása',
-  'blog.post.update': 'A(z) {title}szerkesztése',
-  'blog.post.text': 'Bejegyzés szövege',
-  'common.slug': 'SEO barát URL',
-  'blog.slug.explained':
-    'Vonzó kinézetű URL a bejegyzéshez. Kerülje a különleges karakterek használatát, kivéve "-" karaktert.',
-  'blog.publicView': 'Nyilvános megtekintés',
-  'blog.post.notfound': 'A blogbejegyzés nem található',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Új bejegyzés létrehozása',
+    'blog.post.update': 'A(z) {title}szerkesztése',
+    'blog.post.text': 'Bejegyzés szövege',
+    'common.slug': 'SEO barát URL',
+    'blog.slug.explained': 'Vonzó kinézetű URL a bejegyzéshez. Kerülje a különleges karakterek használatát, kivéve "-" karaktert.',
+    'blog.publicView': 'Nyilvános megtekintés',
+    'blog.post.notfound': 'A blogbejegyzés nem található',
+    'blog.lists.works': `{type, select,
     universes {Univerzumok}
     stories {Történetek}
     fanfiction {Fan Fiction mű}
     other {}
   }`,
-  'blog.social.sameAsMain': `A közösségi linkek ugyanazok, mint amik a {type, select,
+    'blog.social.sameAsMain': `A közösségi linkek ugyanazok, mint amik a {type, select,
     organization {szervezeti beállításokban vannak beállítva}
     user {felhasználói profilban}
     other {}

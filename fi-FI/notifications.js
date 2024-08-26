@@ -4,8 +4,7 @@ export default {
   'flashnews.startsAt': 'Aloita tämän viestin näyttäminen',
   'flashnews.endsAt': 'Lopeta tämän viestin näyttäminen',
   'flashnews.newLanguage': 'Valitse uusi kieli lisättäväksi',
-  'flashnews.onlyDisplayOn':
-    'Uutisia näytetään vain valituilla kielillä (jos mitään on valittu), muilla kielillä ei näytetä uutisia, edes oletuskielellä.',
+  'flashnews.onlyDisplayOn': 'Uutisia näytetään vain valituilla kielillä (jos mitään on valittu), muilla kielillä ei näytetä uutisia, edes oletuskielellä.',
   'notifications.menu.all': 'Kaikki ilmoitukset',
   'notifications.menu.following': 'Seuraaminen',
   'notifications.menu.workshop': 'Työpaja',
@@ -14,10 +13,8 @@ export default {
   'notifications.menu.markRead': 'Merkitse luetuksi',
   'notifications.menu.delete': 'Poista ilmoitus',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus':
-    'Tarinasi {storyName} on automaattisesti siirretty tauolle 6 kuukauden passiivisuuden jälkeen.',
-  'notification.workshopStoryStatus.toCancelled':
-    'Tarina {storyName} on automaattisesti peruutettu 1 vuoden passiivisuuden jälkeen.',
+  'notification.workshopStoryStatus.toHiatus': 'Tarinasi {storyName} on automaattisesti siirretty tauolle 6 kuukauden passiivisuuden jälkeen.',
+  'notification.workshopStoryStatus.toCancelled': 'Tarina {storyName} on automaattisesti peruutettu 1 vuoden passiivisuuden jälkeen.',
   'notification.followingStoryStatus.toHiatus': '{storyName} on tauolla.',
   'notification.followingStoryStatus.toCancelled': '{storyName} on peruutettu.',
   'notification.followingNewChapter.new': 'Uusi luku tarinassa {storyName} on julkaistu!',
@@ -26,5 +23,5 @@ export default {
   'notification.friendRequest': 'lähetti sinulle kaveripyyntö.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Siirry tarinaan',
-}
+  'notificationExtra.workshopStoryStatus.goToStory': 'Siirry tarinaan'
+};

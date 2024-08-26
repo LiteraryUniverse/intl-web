@@ -18,11 +18,9 @@ export default {
   'roadmap.item.inBacklog': 'Estamos a planear desenvolver esta funcionalidade no futuro.',
   'roadmap.item.inProgress': 'O desenvolvimento da funcionalidade começou no {startedAt, date}.',
   'roadmap.item.inBeta': 'Esta funcionalidade entrou a verão beta no {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Esta funcionalidade ficou disponível aos subscritores do Contador de Histórias em {previewAt, date}.',
+  'roadmap.item.inPreview': 'Esta funcionalidade ficou disponível aos subscritores do Contador de Histórias em {previewAt, date}.',
   'roadmap.item.inGa': 'Esta funcionalidade tornou-se disponível geralmente no {gaAt, date}.',
-  'roadmap.item.originalIssue':
-    'Esta funcionalidade foi originalmente sugerida pelos nossos utilizadores.',
+  'roadmap.item.originalIssue': 'Esta funcionalidade foi originalmente sugerida pelos nossos utilizadores.',
   'roadmap.eta.mapTitle': `Planeado para {quarter, select,
     T1 {Q1}
     T2 {Q2}
@@ -33,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Terminado em {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Voltar ao roteiro',
   'roadmap.seeBacklog': 'Veja que outras coisas planeamos fazer',
-  'roadmap.seeFinished':
-    'Se gostaria de investigar mais sobre a nossa história, temos uma boa visão geral pronta para si',
+  'roadmap.seeFinished': 'Se gostaria de investigar mais sobre a nossa história, temos uma boa visão geral pronta para si',
   'roadmap.planned': 'Planeado',
-  'roadmap.finished': 'Concluído',
-}
+  'roadmap.finished': 'Concluído'
+};

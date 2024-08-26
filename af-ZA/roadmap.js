@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Ons beplan om hierdie funksie in die toekoms te ontwikkel.',
   'roadmap.item.inProgress': 'Die ontwikkeling van die funksie het begin op {startedAt, date}.',
   'roadmap.item.inBeta': 'Hierdie funksie het beta betree op {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Hierdie funksie is beskikbaar vir Storyteller intekenaars op {previewAt, date}.',
+  'roadmap.item.inPreview': 'Hierdie funksie is beskikbaar vir Storyteller intekenaars op {previewAt, date}.',
   'roadmap.item.inGa': 'Hierdie funksie is nou beskikbaar vir almal op {gaAt, date}.',
   'roadmap.item.originalIssue': 'Hierdie funksie is oorspronklik voorgestel deur ons gebruikers.',
   'roadmap.eta.mapTitle': `Beplan vir {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Voltooi in {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Terug na roeteplan',
   'roadmap.seeBacklog': 'Kyk wat ons beplan om te doen',
-  'roadmap.seeFinished':
-    "As jy meer wil uitvind oor ons geskiedenis, het ons 'n mooi oorsig vir jou gereed",
+  'roadmap.seeFinished': 'As jy meer wil uitvind oor ons geskiedenis, het ons \'n mooi oorsig vir jou gereed',
   'roadmap.planned': 'Beplan',
-  'roadmap.finished': 'Voltooi',
-}
+  'roadmap.finished': 'Voltooi'
+};

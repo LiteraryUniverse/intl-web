@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'निजी',
   'event.visibilityShort.public': 'सार्वजनिक',
-  'event.visibilityShort.owner': 'मालिक',
-}
+  'event.visibilityShort.owner': 'मालिक'
+};

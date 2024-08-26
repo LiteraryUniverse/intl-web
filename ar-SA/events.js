@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'مزيد من المعلومات',
   'event.visibilityShort.private': 'خاص',
   'event.visibilityShort.public': 'عام',
-  'event.visibilityShort.owner': 'المالك',
-}
+  'event.visibilityShort.owner': 'المالك'
+};

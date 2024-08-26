@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'הצגת אמנות מעריצים',
   'fanManager.fanFictionNotAllowed': 'סיפורי מעריצים אסורים על פי הרשיון שלך.',
   'fanManager.fanFiction.maxRating': 'דירוג מרבי של סיפורי מעריצים שמוצגים.',
-}
+  'fanManager.hidden.nothingFound': 'לא נמצאו יצירות תומכות מוסתרות.',
+  'fanManager.rejected.nothingFound': 'לא נמצאו יצירות תומכות שנדחו.',
+  'fanManager.approved.nothingFound': 'לא נמצאו יצירות תומכות שאושרו.',
+  'fanManager.submitted.nothingFound': 'לא נמצאו מיצירות מעריצים שהוגשו.'
+};

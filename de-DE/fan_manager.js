@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Abgelehnt',
   'fanManager.state.hidden': 'Versteckt',
   'fanManager.publicComment': 'Öffentlicher Kommentar',
-  'fanManager.publicComment.desc':
-    'Dieser Text wird auf der öffentlichen Seite als Ihr offizieller Kommentar zu diesem Kunstwerk angezeigt.',
+  'fanManager.publicComment.desc': 'Dieser Text wird auf der öffentlichen Seite als Ihr offizieller Kommentar zu diesem Kunstwerk angezeigt.',
   'fanManager.authorComment': 'Kommentar für den Autor',
-  'fanManager.authorComment.desc':
-    'Dies ist ein privater Kommentar von Ihnen an den Autor dieses Werkes.',
+  'fanManager.authorComment.desc': 'Dies ist ein privater Kommentar von Ihnen an den Autor dieses Werkes.',
   'fanManager.stateChange.approve': 'Fan-Kunst genehmigen',
   'fanManager.stateChange.reject': 'Fan-Kunst ablehnen',
   'fanManager.stateChange.hide': 'Fan-Kunst ausblenden',
   'fanManager.stateChange.unhide': 'Fan-Kunst sichtbar machen',
   'fanManager.fanFictionNotAllowed': 'Fanfiction ist aufgrund der Art der Lizenz nicht erlaubt.',
   'fanManager.fanFiction.maxRating': 'Höchstbewertung von angezeigter Fan-Fiction.',
-}
+  'fanManager.hidden.nothingFound': 'Keine versteckten Fanarts gefunden.',
+  'fanManager.rejected.nothingFound': 'Keine abgelehnten Fanarts gefunden.',
+  'fanManager.approved.nothingFound': 'Keine genehmigten Fanarts gefunden.',
+  'fanManager.submitted.nothingFound': 'Keine eingereichten Fanarts gefunden.'
+};

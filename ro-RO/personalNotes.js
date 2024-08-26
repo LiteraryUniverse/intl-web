@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Intrare Enciclopedie',
   'personalNotes.type.revTextBlock': 'Blox Text Revizuire',
   'personalNotes.chapter': 'Capitol',
-  'personalNotes.recentSearches': 'Căutări Recent efectuate:',
-}
+  'personalNotes.recentSearches': 'Căutări Recent efectuate:'
+};

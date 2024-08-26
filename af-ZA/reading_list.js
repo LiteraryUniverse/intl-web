@@ -6,8 +6,8 @@ export default {
   'readingList.ordered.label': 'Gerangskikte lys',
   'readingList.button.add': 'Voeg by leeslys',
   'readingList.selectList': 'Kies leeslys',
-  'readingList.create': "Skep 'n nuwe leeslys",
-  'readingList.create.aria': "Modale venster met instellings vir 'n nuwe leeslys",
+  'readingList.create': 'Skep \'n nuwe leeslys',
+  'readingList.create.aria': 'Modale venster met instellings vir \'n nuwe leeslys',
   'readingList.edit.aria': 'Modale venster om leeslys se instellings te wysig',
   'readingList.library.title': 'Jou leeslyste',
   'readingList.public.label': 'Is dit openbaar sigbaar?',
@@ -22,5 +22,5 @@ export default {
     other {stories en heelale}
   } by die leeslys te voeg.`,
   'readingList.addItem.fromLibrary': 'Vanaf biblioteek',
-  'readingList.button.added': 'Bygevoeg',
-}
+  'readingList.button.added': 'Bygevoeg'
+};

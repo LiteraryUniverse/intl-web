@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Enciklopédia bejegyzés',
   'personalNotes.type.revTextBlock': 'Módosítási szöveg blokk',
   'personalNotes.chapter': 'Fejezet',
-  'personalNotes.recentSearches': 'Legutóbbi keresések:',
-}
+  'personalNotes.recentSearches': 'Legutóbbi keresések:'
+};

@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'Gumawa ng bagong blog',
-  'blog.settings': `{type, select,
+    'blog.create': 'Gumawa ng bagong blog',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Pahina ng Universe ng Blog}
     user {Blog}
     other {}
   } settings`,
-  'blog.description': 'Panimula ng blog',
-  'blog.theme': 'Tema',
-  'blog.theme.info':
-    'Sa pag-aadjust ng tema, maaari mong baguhin ang hitsura ng pahina. Ang tampok na ito ay hindi pa handa sa ngayon.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Panimula ng blog',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Sa pag-aadjust ng tema, maaari mong baguhin ang hitsura ng pahina. Ang tampok na ito ay hindi pa handa sa ngayon.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Gumawa ng bagong post',
-  'blog.post.update': 'Ine-edit ang {title}',
-  'blog.post.text': 'Teksto ng post',
-  'common.slug': 'SEO friendly na address',
-  'blog.slug.explained':
-    'Magandang URL para sa post. Iwasan ang paggamit ng mga espesyal na karakter maliban sa "-".',
-  'blog.publicView': 'Pampublikong tanawin',
-  'blog.post.notfound': 'Hindi natagpuan ang blog post',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Gumawa ng bagong post',
+    'blog.post.update': 'Ine-edit ang {title}',
+    'blog.post.text': 'Teksto ng post',
+    'common.slug': 'SEO friendly na address',
+    'blog.slug.explained': 'Magandang URL para sa post. Iwasan ang paggamit ng mga espesyal na karakter maliban sa "-".',
+    'blog.publicView': 'Pampublikong tanawin',
+    'blog.post.notfound': 'Hindi natagpuan ang blog post',
+    'blog.lists.works': `{type, select,
     universes {Mga Uniberso}
     stories {Mga Kuwento}
     fanfiction {Fan Fiction na gawa}
     other {}
   }`,
-  'blog.social.sameAsMain': `Ang mga social link ay katulad ng naka-set sa {type, select,
+    'blog.social.sameAsMain': `Ang mga social link ay katulad ng naka-set sa {type, select,
     organization {mga setting ng organisasyon}
     user {profile ng user}
     other {}

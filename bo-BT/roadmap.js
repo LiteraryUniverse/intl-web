@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'འབྲེལ་ལམ་འབྲི་རྒྱུན་འདི་ནང་ལས་བྱེད་པའི་གནས་ཚད་འགོ་བཙུགས་པ་ཡོད།',
   'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
   'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'This feature became available to Storyteller subscribers on {previewAt, date}.',
+  'roadmap.item.inPreview': 'This feature became available to Storyteller subscribers on {previewAt, date}.',
   'roadmap.item.inGa': 'This feature has become generally available on {gaAt, date}.',
   'roadmap.item.originalIssue': 'འདོན་བསྐྱར་འདི་འགྲེལ་བཤད་འབྱེད་པའི་དོན་ལུ་བརྗོད་པ་ཡོད་པའི་སློབ་ཚན་བཟོ།',
   'roadmap.eta.mapTitle': `Planned for {quarter, select,
@@ -34,5 +33,5 @@ export default {
   'roadmap.seeBacklog': 'འདི་ལུ་འགྲེལ་བཤད་བརྗོད་པའི་གནས་ཚད་ཚུ་གིས་བྱེད་པའི་དོན་ལུ་བརྗོད་པ་ཡོད་',
   'roadmap.seeFinished': 'འདི་ལུ་རྒྱུད་བསྐྱར་གནས་ཚད་བརྗོད་པའི་དོན་ལུ་བརྗོད་པ་ཡོད་',
   'roadmap.planned': 'འབྲེལ་ལམ་ཚན་གསལ་བརྗོད་པ་ཡོད།',
-  'roadmap.finished': 'བརྗོད་པ་ཡོད།',
-}
+  'roadmap.finished': 'བརྗོད་པ་ཡོད།'
+};

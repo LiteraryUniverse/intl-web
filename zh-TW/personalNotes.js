@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': '百科全書條目',
   'personalNotes.type.revTextBlock': '修訂文字區塊',
   'personalNotes.chapter': '章節',
-  'personalNotes.recentSearches': '最近搜尋：',
-}
+  'personalNotes.recentSearches': '最近搜尋：'
+};

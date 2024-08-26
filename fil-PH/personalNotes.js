@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'Talâ sa Ensiklopedya',
   'personalNotes.type.revTextBlock': 'Talâ sa Tekstong Rebisyon',
   'personalNotes.chapter': 'Kabanata',
-  'personalNotes.recentSearches': 'Mga Natatanging Paghahanap:',
-}
+  'personalNotes.recentSearches': 'Mga Natatanging Paghahanap:'
+};

@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Vi aktuale ne havas {type, select,
+    'blog.noneMsg': `Vi aktuale ne havas {type, select,
     organization {ian blogon}
     universe {blogon por via universo}
     user {blogon}
     other {}
   }.`,
-  'blog.create': 'Krei novan blogon',
-  'blog.settings': `{type, select,
+    'blog.create': 'Krei novan blogon',
+    'blog.settings': `{type, select,
     org {Bloga}
     universe {Paĝo de la universo}
     user {Bloga}
     other {}
   } agordoj`,
-  'blog.description': 'Enkonduko de la blogo',
-  'blog.theme': 'Etoso',
-  'blog.theme.info':
-    'Pliigu la aspekton de la paĝo modifante la temon. Tiu ebleco ne estas preta nun.',
-  'blog.posts.total': `Ĉi tie {total, plural,
+    'blog.description': 'Enkonduko de la blogo',
+    'blog.theme': 'Etoso',
+    'blog.theme.info': 'Pliigu la aspekton de la paĝo modifante la temon. Tiu ebleco ne estas preta nun.',
+    'blog.posts.total': `Ĉi tie {total, plural,
     zero {estas neniu poŝto}
     one {estas unu poŝto}
     other {estas # poŝtoj}
   } en ĉi tiu blogo.`,
-  'blog.post.create': 'Krei afiŝon',
-  'blog.post.update': 'Redaktado de {title}',
-  'blog.post.text': 'Afiŝa teksto',
-  'common.slug': 'Amikeca URL',
-  'blog.slug.explained':
-    'Bela aspekta retadreso al la afiŝo. Evitu uzi specialajn signojn krom "-".',
-  'blog.publicView': 'Publika vidado',
-  'blog.post.notfound': 'Afiŝo de la blogo ne troviĝis',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Krei afiŝon',
+    'blog.post.update': 'Redaktado de {title}',
+    'blog.post.text': 'Afiŝa teksto',
+    'common.slug': 'Amikeca URL',
+    'blog.slug.explained': 'Bela aspekta retadreso al la afiŝo. Evitu uzi specialajn signojn krom "-".',
+    'blog.publicView': 'Publika vidado',
+    'blog.post.notfound': 'Afiŝo de la blogo ne troviĝis',
+    'blog.lists.works': `{type, select,
     universes {Universoj}
     stories {Rakontoj}
     fanfiction {Fanfikcio}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sociaj ligiloj estas samaj kiel agordite en {type, select,
+    'blog.social.sameAsMain': `Sociaj ligiloj estas samaj kiel agordite en {type, select,
     organization {agordoj de la organizo}
     user {uzantoprofilo}
     other {}

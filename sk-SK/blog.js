@@ -1,42 +1,40 @@
 export default {
-  'blog.noneMsg': `V súčasnosti nemáte {type, select,
+    'blog.noneMsg': `V súčasnosti nemáte {type, select,
     organization {jakýkoľvek blog}
     universe {blog pre váš vesmír}
     user {blog}
     other {}
   }.`,
-  'blog.create': 'Vytvor blog',
-  'blog.settings': `Nastavenia {type, select,
+    'blog.create': 'Vytvor blog',
+    'blog.settings': `Nastavenia {type, select,
     org {blogu}
     universe {stránky vesmíru}
     user {blogu}
     other {}
   } `,
-  'blog.description': 'Predstavenie blogu',
-  'blog.theme': 'Téma',
-  'blog.theme.info':
-    'Úpravou témy budete môcť zmeniť vzhľad stránky. Táto funkcia nie je v súčasnosti pripravená.',
-  'blog.posts.total': `V tomto blogu {total, plural,
+    'blog.description': 'Predstavenie blogu',
+    'blog.theme': 'Téma',
+    'blog.theme.info': 'Úpravou témy budete môcť zmeniť vzhľad stránky. Táto funkcia nie je v súčasnosti pripravená.',
+    'blog.posts.total': `V tomto blogu {total, plural,
     =0 {nie sú žiadne príspevky}
     one {je jeden príspevok}
     few {sú # príspevky}
     other {je # príspevkov}
 }.`,
-  'blog.post.create': 'Vytvoriť nový príspevok',
-  'blog.post.update': 'Úprava {title}',
-  'blog.post.text': 'Text príspevku',
-  'common.slug': 'Adresa vhodná pre SEO',
-  'blog.slug.explained':
-    'Pekne vyzerajúce url na príspevok. Vyhnite sa používaniu špeciálnych znakov okrem "-".',
-  'blog.publicView': 'Verejný pohľad',
-  'blog.post.notfound': 'Príspevok nebol nájdený',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Vytvoriť nový príspevok',
+    'blog.post.update': 'Úprava {title}',
+    'blog.post.text': 'Text príspevku',
+    'common.slug': 'Adresa vhodná pre SEO',
+    'blog.slug.explained': 'Pekne vyzerajúce url na príspevok. Vyhnite sa používaniu špeciálnych znakov okrem "-".',
+    'blog.publicView': 'Verejný pohľad',
+    'blog.post.notfound': 'Príspevok nebol nájdený',
+    'blog.lists.works': `{type, select,
     universes {Vesmíry}
     stories {Samostatné príbehy}
     fanfiction {Fan Fiction práca}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sociálne prepojenia sú rovnaké, ako sú nastavené v {type, select,
+    'blog.social.sameAsMain': `Sociálne prepojenia sú rovnaké, ako sú nastavené v {type, select,
     organization {nastaveniach organizácie}
     user {profile používateľa}
     other {}

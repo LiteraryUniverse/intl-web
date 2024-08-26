@@ -10,8 +10,7 @@ export default {
   'fanManager.state.rejected': 'Ditolak',
   'fanManager.state.hidden': 'Tersembunyi',
   'fanManager.publicComment': 'Komentar publik',
-  'fanManager.publicComment.desc':
-    'Teks ini akan ditampilkan di halaman publik sebagai komentar resmi Anda tentang seni ini.',
+  'fanManager.publicComment.desc': 'Teks ini akan ditampilkan di halaman publik sebagai komentar resmi Anda tentang seni ini.',
   'fanManager.authorComment': 'Komentar untuk penulis',
   'fanManager.authorComment.desc': 'Ini adalah komentar pribadi dari Anda kepada penulis seni ini.',
   'fanManager.stateChange.approve': 'Setujui seni penggemar',
@@ -20,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'Membuat seni penggemar terlihat',
   'fanManager.fanFictionNotAllowed': 'Fan fiction tidak diizinkan oleh sifat lisensi Anda.',
   'fanManager.fanFiction.maxRating': 'Rating maksimum dari fan fiction yang ditampilkan.',
-}
+  'fanManager.hidden.nothingFound': 'Tidak ditemukan fan art tersembunyi.',
+  'fanManager.rejected.nothingFound': 'Tidak ditemukan fan art yang ditolak.',
+  'fanManager.approved.nothingFound': 'Tidak ditemukan fan art yang disetujui.',
+  'fanManager.submitted.nothingFound': 'Tidak ditemukan seni fan yang telah dikirimkan.'
+};

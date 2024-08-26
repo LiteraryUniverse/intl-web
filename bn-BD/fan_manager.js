@@ -12,12 +12,15 @@ export default {
   'fanManager.publicComment': 'পাবলিক মন্তব্য',
   'fanManager.publicComment.desc': 'এই পাঠ্যটি আপনার আগে নির্ধারিত কল প্রদর্শিত হবে',
   'fanManager.authorComment': 'লেখকের জন্য মন্তব্য',
-  'fanManager.authorComment.desc':
-    'এটি একটি ব্যক্তিগত মন্তব্য যা আপনি এই চিত্রের লেখকের দিকে প্রেরণ করছেন',
+  'fanManager.authorComment.desc': 'এটি একটি ব্যক্তিগত মন্তব্য যা আপনি এই চিত্রের লেখকের দিকে প্রেরণ করছেন',
   'fanManager.stateChange.approve': 'ফ্যান আর্ট অনুমৃত করুন',
   'fanManager.stateChange.reject': 'ফ্যান আর্ট প্রত্যাখ্যাত করুন',
   'fanManager.stateChange.hide': 'ফ্যান আর্ট লুকান',
   'fanManager.stateChange.unhide': 'ফ্যান আর্ট দৃশ্যমান করুন',
   'fanManager.fanFictionNotAllowed': 'ফ্যান ফিকশন আপনার লাইসেন্সের প্রকৃতির আওতায় সম্ভবত অনুমোদিত নয়',
   'fanManager.fanFiction.maxRating': 'প্রদর্শিত ফ্যান ফিকশনের সর্বাধিক রেটিং',
-}
+  'fanManager.hidden.nothingFound': 'কোন লুকানো ফ্যান আর্ট পাওয়া যায়নি।',
+  'fanManager.rejected.nothingFound': 'কোন প্রত্যাখ্যাত ফ্যান আর্ট পাওয়া যায়নি।',
+  'fanManager.approved.nothingFound': 'কোন অনুমোদিত ফ্যান আর্ট পাওয়া যায়নি।',
+  'fanManager.submitted.nothingFound': 'কোনও জমা দেওয়া ফ্যান আর্ট পাওয়া যায়নি।'
+};

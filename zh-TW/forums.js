@@ -12,13 +12,11 @@ export default {
   'forums.category.slug': 'SEO網址部分',
   'forums.category.settings': '分類設置',
   'forums.category.language': '限制此分類的顯示語言。如果要在所有語言中顯示分類，請留空。',
-  'forums.category.intlNameDescription':
-    '我們為您的選擇提供了常見分類名稱的本地化標題，以便該分類可以在所有支援的語言中使用。',
+  'forums.category.intlNameDescription': '我們為您的選擇提供了常見分類名稱的本地化標題，以便該分類可以在所有支援的語言中使用。',
   'forums.thread.new': '新主題',
   'forums.thread.delete': '刪除主題',
   'forums.post.new': '新的貼文',
-  'forums.archived.forum':
-    '此論壇已於 {archivedAt, date, long}封存。您仍然可以查看論壇，但無法再創建新內容。',
+  'forums.archived.forum': '此論壇已於 {archivedAt, date, long}封存。您仍然可以查看論壇，但無法再創建新內容。',
   'forums.category.archive': '封存分類',
   'forums.category.archiveExplained': '沒有主題的分類將被刪除，而有內容的分類將阻止新主題的建立。',
   'forums.category.reactivate': '重新啟用分類',
@@ -66,5 +64,5 @@ export default {
     one {個回覆}
     other {個回覆}
   }`,
-  'forums.thread.createdAt': '創建於 {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': '創建於 {createdAt, date, medium}'
+};

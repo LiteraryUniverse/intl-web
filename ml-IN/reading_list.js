@@ -22,5 +22,5 @@ export default {
     other {stories and universes}
   } to the reading list.`,
   'readingList.addItem.fromLibrary': 'ലൈബ്രറിയിൽ നിന്ന്',
-  'readingList.button.added': 'ചേർത്തു',
-}
+  'readingList.button.added': 'ചേർത്തു'
+};

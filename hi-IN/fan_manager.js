@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'फैन आर्ट को दिखाएं',
   'fanManager.fanFictionNotAllowed': 'फैन फिक्शन आपके लाइसेंस के स्वभाव के कारण अनुमति दें',
   'fanManager.fanFiction.maxRating': 'प्रदर्शित फैन फिक्शन की अधिकतम रेटिंग|',
-}
+  'fanManager.hidden.nothingFound': 'कोई छिपी हुई फ़ैन आर्ट नहीं मिली.',
+  'fanManager.rejected.nothingFound': 'कोई मन्जूर नहीं की गई फ़ैन आर्ट मिली.',
+  'fanManager.approved.nothingFound': 'कोई मंजूर फ़ैन आर्ट नहीं मिली.',
+  'fanManager.submitted.nothingFound': 'कोई प्रस्तुत किए गए फ़ैन आर्ट नहीं मिले।'
+};

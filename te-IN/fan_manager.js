@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'ఫ్యాన్ ఆర్ట్ని కనిపిస్తే ఈరువుగా చూపించండి',
   'fanManager.fanFictionNotAllowed': 'మీ లైసెన్స్ స్వభావాన్ని ఆధారంగా ఫ్యాన్ ఫిక్షన్ అనుమతించబడదు.',
   'fanManager.fanFiction.maxRating': 'ప్రదర్శించబడే ఫ్యాన్ ఫిక్షన్ యొక్క గరిష్ట రేటింగ్.',
-}
+  'fanManager.hidden.nothingFound': 'ప్రదర్శింపు కళలు కనుగొనబడలేదు.',
+  'fanManager.rejected.nothingFound': 'తిరస్కరించబడలేదు ఫ్యాన్ కళలు కనుగొనబడలేదు.',
+  'fanManager.approved.nothingFound': 'ఆమోదించబడలేదు ఫ్యాన్ కళలు కనుగొనబడలేదు.',
+  'fanManager.submitted.nothingFound': 'సమర్పించబడిన ఫ్యాన్ ఆర్ట్లు కనుగొనబడలేదు.'
+};

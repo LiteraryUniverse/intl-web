@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Forum inschakelen',
   'forums.archive': 'Forum archiveren',
-  'forums.archive.explained':
-    'Het archiveren van het forum voorkomt dat gebruikers nog verdere inhoud kunnen plaatsen, maar het blijft zichtbaar.',
+  'forums.archive.explained': 'Het archiveren van het forum voorkomt dat gebruikers nog verdere inhoud kunnen plaatsen, maar het blijft zichtbaar.',
   'forums.archive.success': 'Forum is gearchiveerd',
   'forums.unArchive': 'Forums opnieuw activeren',
   'forums.unArchive.success': 'Forum is opnieuw geactiveerd!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Categorienaam',
   'forums.category.slug': 'SEO-URL-deel',
   'forums.category.settings': 'Categorie-instellingen',
-  'forums.category.language':
-    'Beperk de weergave van deze categorie tot de volgende taal. Laat leeg als je de categorie in alle talen wilt weergeven.',
-  'forums.category.intlNameDescription':
-    'We hebben gelokaliseerde titels van veelvoorkomende categorienamen voor je selectie, zodat de categorie beschikbaar kan zijn in alle ondersteunde talen.',
+  'forums.category.language': 'Beperk de weergave van deze categorie tot de volgende taal. Laat leeg als je de categorie in alle talen wilt weergeven.',
+  'forums.category.intlNameDescription': 'We hebben gelokaliseerde titels van veelvoorkomende categorienamen voor je selectie, zodat de categorie beschikbaar kan zijn in alle ondersteunde talen.',
   'forums.thread.new': 'Nieuwe thread',
   'forums.thread.delete': 'Verwijder thread',
   'forums.post.new': 'Nieuwe post',
-  'forums.archived.forum':
-    'Dit forum is gearchiveerd op {archivedAt, date, long}. Je kunt nog steeds het forum bekijken, maar je kunt geen nieuwe inhoud meer maken.',
+  'forums.archived.forum': 'Dit forum is gearchiveerd op {archivedAt, date, long}. Je kunt nog steeds het forum bekijken, maar je kunt geen nieuwe inhoud meer maken.',
   'forums.category.archive': 'Categorie archiveren',
-  'forums.category.archiveExplained':
-    'Categorieën zonder threads worden verwijderd, terwijl categorieën met inhoud het maken van nieuwe threads voorkomen.',
+  'forums.category.archiveExplained': 'Categorieën zonder threads worden verwijderd, terwijl categorieën met inhoud het maken van nieuwe threads voorkomen.',
   'forums.category.reactivate': 'Categorie opnieuw activeren',
   'forums.category.isVotable': 'Gebruikers toestaan threads omhoog/omlaag te stemmen',
-  'forums.category.titleIsGlobal':
-    'Deze categorietitel wordt weergegeven in de taal van de gebruiker als we deze ondersteunen.',
-  'forums.category.languageLimited':
-    'Deze categorie wordt alleen weergegeven aan gebruikers in deze taal.',
+  'forums.category.titleIsGlobal': 'Deze categorietitel wordt weergegeven in de taal van de gebruiker als we deze ondersteunen.',
+  'forums.category.languageLimited': 'Deze categorie wordt alleen weergegeven aan gebruikers in deze taal.',
   'forums.threadsCounter': 'Totaal aantal discussie-onderwerpen',
   // Pre-defined category names
   'forums.category.intlName.general': 'Algemeen',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Alleen toegang toestaan aan geregistreerde gebruikers',
   'forums.settings.accessControls': 'Toegangscontroles',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Dit forum is alleen toegankelijk voor geregistreerde gebruikers.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Dit forum is alleen toegankelijk voor geregistreerde gebruikers.',
   'forums.noThreads': 'Hier valt niets te zien. Het is aan jou om het gesprek te beginnen.',
   'forums.noPosts': 'Niemand heeft nog gereageerd. Wees de eerste!',
   // Threads
@@ -72,5 +64,5 @@ export default {
     one {reactie}
     other {reacties}
   }`,
-  'forums.thread.createdAt': 'Gemaakt op {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Gemaakt op {createdAt, date, medium}'
+};

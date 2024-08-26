@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'ਇੰਸਾਇਕਲੋਪੀਡੀਆ ਐਂਟਰੀ',
   'personalNotes.type.revTextBlock': 'ਸੰਪਾਦਨ ਟੈਕਸਟ ਬਲਾਕ',
   'personalNotes.chapter': 'ਅਧਿਆਯ',
-  'personalNotes.recentSearches': 'ਤਾਜ਼ਾ ਖੋਜਾਂ:',
-}
+  'personalNotes.recentSearches': 'ਤਾਜ਼ਾ ਖੋਜਾਂ:'
+};

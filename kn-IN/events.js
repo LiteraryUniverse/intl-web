@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'ಖಾಸಗಿ',
   'event.visibilityShort.public': 'ಪ್ರಸ್ತುತವನ್ನು',
-  'event.visibilityShort.owner': 'ಮಾಲಿಕ',
-}
+  'event.visibilityShort.owner': 'ಮಾಲಿಕ'
+};

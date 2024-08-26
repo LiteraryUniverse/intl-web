@@ -18,11 +18,9 @@ export default {
   'roadmap.item.inBacklog': 'Planujemy rozwijać tę funkcję w przyszłości.',
   'roadmap.item.inProgress': 'Rozwój cechy rozpoczął się {startedAt, date}.',
   'roadmap.item.inBeta': 'Ta funkcja weszła do wersji beta w dniu {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Ta funkcja stała się dostępna dla subskrybentów Storytellera w dniu {previewAt, date}.',
+  'roadmap.item.inPreview': 'Ta funkcja stała się dostępna dla subskrybentów Storytellera w dniu {previewAt, date}.',
   'roadmap.item.inGa': 'Ta funkcja stała się ogólnie dostępna w dniu {gaAt, date}.',
-  'roadmap.item.originalIssue':
-    'Ta funkcja została pierwotnie zasugerowana przez naszych użytkowników.',
+  'roadmap.item.originalIssue': 'Ta funkcja została pierwotnie zasugerowana przez naszych użytkowników.',
   'roadmap.eta.mapTitle': `Zaplanowano na {quarter, select,
     Q1 {Q1}
     Q2 {Q2}
@@ -33,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Zakończono za {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Powrót do mapy drogowej',
   'roadmap.seeBacklog': 'Sprawdź, jakie inne rzeczy planujemy zrobić',
-  'roadmap.seeFinished':
-    'Jeśli chcesz zagłębić się w naszą historię, to mamy dla Ciebie ładny przegląd',
+  'roadmap.seeFinished': 'Jeśli chcesz zagłębić się w naszą historię, to mamy dla Ciebie ładny przegląd',
   'roadmap.planned': 'Zaplanowane',
-  'roadmap.finished': 'Ukończone',
-}
+  'roadmap.finished': 'Ukończone'
+};

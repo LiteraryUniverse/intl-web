@@ -10,8 +10,7 @@ export default {
   'fanManager.state.rejected': 'Отклонено',
   'fanManager.state.hidden': 'Скрыто',
   'fanManager.publicComment': 'Общедоступный комментарий',
-  'fanManager.publicComment.desc':
-    'Этот текст будет отображаться на открытой странице как ваш официальный комментарий к этой иллюстрации.',
+  'fanManager.publicComment.desc': 'Этот текст будет отображаться на открытой странице как ваш официальный комментарий к этой иллюстрации.',
   'fanManager.authorComment': 'Комментарий для автора',
   'fanManager.authorComment.desc': 'Это ваш личный комментарий автору этого произведения.',
   'fanManager.stateChange.approve': 'Одобрить иллюстрацию',
@@ -20,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'Сделать иллюстрацию видимой',
   'fanManager.fanFictionNotAllowed': 'Фанфики запрещены по характеру лицензии.',
   'fanManager.fanFiction.maxRating': 'Максимальный рейтинг отображаемых фанфиков.',
-}
+  'fanManager.hidden.nothingFound': 'Не найдено скрытых иллюстрации фанатов.',
+  'fanManager.rejected.nothingFound': 'Не найдено отклонённых иллюстрации фанатов.',
+  'fanManager.approved.nothingFound': 'Не найдено одобренных иллюстрации фанатов.',
+  'fanManager.submitted.nothingFound': 'Не найдено отправленных иллюстрации фанатов.'
+};

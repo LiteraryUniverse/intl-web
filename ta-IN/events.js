@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'Private',
   'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'உரிமையாளர்',
-}
+  'event.visibilityShort.owner': 'உரிமையாளர்'
+};

@@ -1,39 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'একটি নতুন ব্লগ তৈরি করুন',
-  'blog.settings': `{type, select,
+    'blog.create': 'একটি নতুন ব্লগ তৈরি করুন',
+    'blog.settings': `{type, select,
     org {ব্লগ}
     universe {ইউনিভার্স পৃষ্ঠা}
     user {ব্লগ}
     other {}
   } সেটিংস`,
-  'blog.description': 'ব্লগ পরিচিতি',
-  'blog.theme': 'থিম',
-  'blog.theme.info': 'পৃষ্ঠার চেহারা পরিবর্তন করে আপনি পৃষ্ঠার দেখতে পাবেন। এই বৈশিষ্ট্যটি এখনও প্রস্তুত নেই।',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'ব্লগ পরিচিতি',
+    'blog.theme': 'থিম',
+    'blog.theme.info': 'পৃষ্ঠার চেহারা পরিবর্তন করে আপনি পৃষ্ঠার দেখতে পাবেন। এই বৈশিষ্ট্যটি এখনও প্রস্তুত নেই।',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'একটি নতুন পোস্ট তৈরি করুন',
-  'blog.post.update': '{title}সম্পাদনা করা হচ্ছে',
-  'blog.post.text': 'পোস্ট পাঠ্য',
-  'common.slug': 'এসইও বন্ধুত্বপূর্ণ ঠিকানা',
-  'blog.slug.explained': 'পোস্টের জন্য সুন্দর লিঙ্ক। "-" ছাড়া বিশেষ চিহ্ন ব্যবহার করার চেষ্টা করুন।',
-  'blog.publicView': 'পাবলিক দৃশ্য',
-  'blog.post.notfound': 'ব্লগ পোস্ট পাওয়া যায়নি',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'একটি নতুন পোস্ট তৈরি করুন',
+    'blog.post.update': '{title}সম্পাদনা করা হচ্ছে',
+    'blog.post.text': 'পোস্ট পাঠ্য',
+    'common.slug': 'এসইও বন্ধুত্বপূর্ণ ঠিকানা',
+    'blog.slug.explained': 'পোস্টের জন্য সুন্দর লিঙ্ক। "-" ছাড়া বিশেষ চিহ্ন ব্যবহার করার চেষ্টা করুন।',
+    'blog.publicView': 'পাবলিক দৃশ্য',
+    'blog.post.notfound': 'ব্লগ পোস্ট পাওয়া যায়নি',
+    'blog.lists.works': `{type, select,
     universes {বিশ্বজুড়ে}
     stories {গল্পগুচ্ছ}
     fanfiction {ফ্যান ফিকশন কাজ}
     other {}
   }`,
-  'blog.social.sameAsMain': `সামাজিক লিঙ্কগুলি একই হিসাবে সেট করা হয় যেমন যেমন নিবন্ধন সেটিংসে {type, select,
+    'blog.social.sameAsMain': `সামাজিক লিঙ্কগুলি একই হিসাবে সেট করা হয় যেমন যেমন নিবন্ধন সেটিংসে {type, select,
     organization {ব্যবস্থাপনা সেটিংস}
     user {ব্যবহারকারী প্রোফাইল}
     other {}

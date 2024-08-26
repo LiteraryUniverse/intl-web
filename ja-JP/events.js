@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': '詳しくは',
   'event.visibilityShort.private': '非公開（プライベート）',
   'event.visibilityShort.public': '一般公開',
-  'event.visibilityShort.owner': 'オーナー',
-}
+  'event.visibilityShort.owner': 'オーナー'
+};

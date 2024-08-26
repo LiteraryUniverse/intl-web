@@ -21,7 +21,8 @@ export default {
   'feedback.new.features': 'Suggest a new feature',
   'feedback.lang.nosupport':
     'Your current language is not supported for feedback, please write in English. Thank you!',
-  'feedback.new.thanks': 'Thank you for the notice! We will look into it shorty.',
+  'feedback.new.thanks':
+    'Thank you for the notice! We will look into it shorty.',
   'feedback.comment.title': 'Comment',
   'feedback.comment.desc': 'Send us your feedback',
   'feedback.comment.legend': 'Your feedback - let us know about anything',
@@ -29,7 +30,8 @@ export default {
   'feedback.comment.label': 'Your comment',
   'feedback.copyrightReport.title': 'Copyright violation',
   'feedback.copyrightReport.desc': 'Report Copyright violation',
-  'feedback.report.noUser': 'You need to be signed in, in order to file a report.',
+  'feedback.report.noUser':
+    'You need to be signed in, in order to file a report.',
   'feedback.voting.totalVoters': 'Users voted: {voted, number}',
   'feedback.voting.upvote': 'Up vote',
   'feedback.voting.downvote': 'Down vote',
@@ -51,7 +53,8 @@ export default {
   'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
   'feedback.report.copyrightNotice':
     'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-  'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
+  'feedback.report.copyrightInternalProperty':
+    'I have published this work on Literary Universe',
   'feedback.reportType.spam': 'Spam or phishing',
   'feedback.reportType.other': 'Other',
   'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
@@ -84,11 +87,13 @@ export default {
   'faq.question.about.incorporation': 'Where are you incorporated?',
   'faq.answer.about.incorporation':
     'Literary Universe is incorporated in the Czech Republic. You can find more details on the <a href="/about">about us page</a>.',
-  'faq.question.about.roadmap': 'What are the next steps for Literary Universe?',
+  'faq.question.about.roadmap':
+    'What are the next steps for Literary Universe?',
   'faq.answer.about.roadmap':
     'This is constantly evolving. Check out our <a href="/roadmap">roadmap</a> for more details.',
   // Settings questions
-  'faq.question.settings.changeTheme': 'How do I change the look of Literary Universe?',
+  'faq.question.settings.changeTheme':
+    'How do I change the look of Literary Universe?',
   'faq.answer.settings.changeTheme':
     'Registered users can change their theme in the <a href="/user/settings/account">account settings</a> under "site theming" section. We have a light and a dark theme available. If you are not registered, then we try to determine which theme to serve you based on your browser and operating system settings.',
   'faq.question.settings.changeAvatar': 'How do I change my avatar?',
@@ -106,7 +111,8 @@ export default {
   'faq.answer.discovery.explain':
     'The Discovery section is where you can find new stories, universes, blogs, groups and other content. It is a place to explore and find new things to read and enjoy.',
   // Writer
-  'faq.question.writer.howToCreateStory': 'How do I create a new story in Literary Universe?',
+  'faq.question.writer.howToCreateStory':
+    'How do I create a new story in Literary Universe?',
   'faq.answer.writer.howToCreateStory':
     'You can create a new story by going to the <a href="/workshop">workshop</a> and clicking on one of the create buttons or go to the main <a href="/workshop/create">create page</a> where you can select a <a href="/workshop/create/story">new standalone story</a> or <a href="/workshop/create/fanfiction">fan fiction</a>. To create a new story in a universe, go first to that universe and then select "stories" on the dashboard and on the next page click the big red button on the right side of the page title. You will be asked to fill in the details of your story and then you can start writing.',
   'faq.question.writer.schedule':
@@ -126,7 +132,8 @@ export default {
     'What is the difference between Universe, Stories and Fan Fiction?',
   'faq.answer.workshop.creativeTypes':
     'Universe is a central place for your literary universe in which you create stories that inhabit the same literary world, manage encyclopedia with all the intricacies of your world and do anything else related to it. Fan Fiction is a story that is based on another story or universe created by someone else. Standalone stories are stories that are not connected to any universe, use this for example for poetry or literary works that are set in real world without many characters or immersive details that would require encyclopedia or other benefits of having a universe.',
-  'faq.question.workshop.continueStory': 'How do I continue a previously created story?',
+  'faq.question.workshop.continueStory':
+    'How do I continue a previously created story?',
   'faq.answer.workshop.continueStory':
     'You can continue a previously created story by going to the <a href="/workshop">workshop</a> and selecting the story you want to continue or if it is a story in a universe, you need to first go to the universe and select the story from the stories listing. On the story dashboard you can then click on the chapter you want to continue writing or create a new chapter.',
   'faq.question.workshop.whatIsALicense': 'What is a Story License?',
@@ -142,7 +149,8 @@ export default {
     'How do I invite collaborators for a story/universe?',
   'faq.answer.workshop.howToInviteCollaborators':
     'You can invite collaborators to your story/universe by going to the story/universe dashboard and clicking the "collaborators" button. There you can invite other users to collaborate on your story/universe by entering their username and selecting the role you want to assign to them.',
-  'faq.question.workshop.howToTranslation': 'How can I translate my story or universe?',
+  'faq.question.workshop.howToTranslation':
+    'How can I translate my story or universe?',
   'faq.answer.workshop.howToTranslation':
     'You can translate your story or universe by going to the story/universe dashboard and clicking the "Translations" button. There you can add a new translations for your work and if you have someone to do the translation you can invite them to join on the translation. From there you can also manage the translations yourself.',
   'faq.question.workshop.betaReaders':
@@ -152,10 +160,12 @@ export default {
   'faq.question.workshop.hiatus': 'What is a hiatus in the story status?',
   'faq.answer.workshop.hiatus':
     'Hiatus is a status for your story that indicates that you are taking a break from writing and publishing new chapters. It is a way to let your readers know that you are not actively working on the story at the moment. This status gets set automatically after 6 months without any new chapters. After additional 6 months of inactivity the story will be marked as cancelled.',
-  'faq.question.workshop.finished': 'How do I indicate that my story is finished?',
+  'faq.question.workshop.finished':
+    'How do I indicate that my story is finished?',
   'faq.answer.workshop.finished':
     'You can indicate that your story is finished by going to the story dashboard and on the bottom there is a green button which says "Change story status to Completed". This will mark the story as finished adjusting the last page to tell the readers that the story is finished and to check out your other works. It will also indicate so in discovery making your story more visible to readers who are looking for finished stories.',
-  'faq.question.workshop.seo': 'What is the use of SEO-Friendly-Address in various settings?',
+  'faq.question.workshop.seo':
+    'What is the use of SEO-Friendly-Address in various settings?',
   'faq.answer.workshop.seo':
-    'SEO-Friendly-Address is a way to make your story, universe, blog post more visible to search engines and easier to read URL for humans. It is a way to make your work more discoverable and to help people find your work when they search for something similar.',
+    'SEO-Friendly-Address is a way to make your story, universe, blog post more visible to search engines and easier to read URL for humans. It is a way to make your work more discoverable and to help people find your work when they search for something similar.'
 }

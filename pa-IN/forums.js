@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'ਫੋਰਮ ਚਾਲੂ ਕਰੋ',
   'forums.archive': 'ਫੋਰਮ ਆਰਕਾਈਵ ਕਰੋ',
-  'forums.archive.explained':
-    'ਫੋਰਮ ਆਰਕਾਈਵ ਕਰਨ ਨਾਲ ਯੂਜ਼ਰਾਂ ਨੂੰ ਕੋਈ ਹੋਰ ਸਮੱਗਰੀ ਪੋਸਟ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਜਾਵੇਗਾ, ਪਰ ਇਹ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਵਿਚ ਰਹੇਗਾ।',
+  'forums.archive.explained': 'ਫੋਰਮ ਆਰਕਾਈਵ ਕਰਨ ਨਾਲ ਯੂਜ਼ਰਾਂ ਨੂੰ ਕੋਈ ਹੋਰ ਸਮੱਗਰੀ ਪੋਸਟ ਕਰਨ ਤੋਂ ਰੋਕਿਆ ਜਾਵੇਗਾ, ਪਰ ਇਹ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਵਿਚ ਰਹੇਗਾ।',
   'forums.archive.success': 'ਫੋਰਮ ਆਰਕਾਈਵ ਹੋ ਗਿਆ ਹੈ',
   'forums.unArchive': 'ਫੋਰਮ ਦੁਬਾਰਾ ਸਰਗਰਮ ਕਰੋ',
   'forums.unArchive.success': 'ਫੋਰਮ ਦੁਬਾਰਾ ਸਰਗਰਮ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'ਕੈਟਗਰੀ ਦਾ ਨਾਮ',
   'forums.category.slug': 'SEO URL ਭਾਗ',
   'forums.category.settings': 'ਕੈਟਗਰੀ ਸੈਟਿੰਗਾਂ',
-  'forums.category.language':
-    'ਇਸ ਕੈਟਗਰੀ ਦੀ ਦਿਖਾਈ ਨੂੰ ਇਸ ਭਾਸ਼ਾ ਤੇ ਸੀਮਿਤ ਰੱਖੋ। ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਕੈਟਗਰੀ ਸਭ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਦਿਖਾਈ ਜਾਵੇ ਤਾਂ ਖਾਲੀ ਛੱਡ ਦਿਓ।',
-  'forums.category.intlNameDescription':
-    'ਅਸੀਂ ਤੁਹਾਡੇ ਚੋਣ ਲਈ ਆਮ ਕੈਟਗਰੀ ਦੇ ਨਾਮਾਂ ਨੂੰ ਸਥਾਨਕ ਕਰਦੇ ਹਾਂ, ਤਾਂ ਕਿ ਕੈਟਗਰੀ ਸਭ ਸਹਿਯੋਗੀ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਉਪਲਬਧ ਹੋ ਸਕੇ।',
+  'forums.category.language': 'ਇਸ ਕੈਟਗਰੀ ਦੀ ਦਿਖਾਈ ਨੂੰ ਇਸ ਭਾਸ਼ਾ ਤੇ ਸੀਮਿਤ ਰੱਖੋ। ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ ਕੈਟਗਰੀ ਸਭ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਦਿਖਾਈ ਜਾਵੇ ਤਾਂ ਖਾਲੀ ਛੱਡ ਦਿਓ।',
+  'forums.category.intlNameDescription': 'ਅਸੀਂ ਤੁਹਾਡੇ ਚੋਣ ਲਈ ਆਮ ਕੈਟਗਰੀ ਦੇ ਨਾਮਾਂ ਨੂੰ ਸਥਾਨਕ ਕਰਦੇ ਹਾਂ, ਤਾਂ ਕਿ ਕੈਟਗਰੀ ਸਭ ਸਹਿਯੋਗੀ ਭਾਸ਼ਾਵਾਂ ਵਿੱਚ ਉਪਲਬਧ ਹੋ ਸਕੇ।',
   'forums.thread.new': 'ਨਵਾਂ ਥਰੈਡ',
   'forums.thread.delete': 'ਥਰੈਡ ਹਟਾਓ',
   'forums.post.new': 'ਨਵਾਂ ਪੋਸਟ',
-  'forums.archived.forum':
-    'ਇਸ ਫੋਰਮ ਨੂੰ ਆਰਕਾਈਵ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ {archivedAt, date, long}. ਤੁਸੀਂ ਹਾਲਾਂਕਿ ਫੋਰਮ ਵੇਖ ਸਕਦੇ ਹੋ, ਪਰ ਤੁਸੀਂ ਨਵੀਆਂ ਸਮੱਗਰੀ ਬਣਾਉਣ ਲਈ ਇਸ ਨੂੰ ਨਹੀਂ ਕਰ ਸਕਦੇ।',
+  'forums.archived.forum': 'ਇਸ ਫੋਰਮ ਨੂੰ ਆਰਕਾਈਵ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ {archivedAt, date, long}. ਤੁਸੀਂ ਹਾਲਾਂਕਿ ਫੋਰਮ ਵੇਖ ਸਕਦੇ ਹੋ, ਪਰ ਤੁਸੀਂ ਨਵੀਆਂ ਸਮੱਗਰੀ ਬਣਾਉਣ ਲਈ ਇਸ ਨੂੰ ਨਹੀਂ ਕਰ ਸਕਦੇ।',
   'forums.category.archive': 'ਕੈਟਗਰੀ ਆਰਕਾਈਵ',
-  'forums.category.archiveExplained':
-    'ਉਹ ਸ਼੍ਰੇਣੀ ਜਿਸ ਵਿੱਚ ਕੋਈ ਥਰੈਡ ਨਹੀਂ ਹੈ, ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ, ਜਦੋਂਕਿ ਸਮੱਗਰੀ ਵਾਲੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਨਵੇਂ ਥਰੈਡ ਦੀ ਪ੍ਰਵੇਸ਼ ਨੂੰ ਰੋਕਦੀਆਂ ਹਨ।',
+  'forums.category.archiveExplained': 'ਉਹ ਸ਼੍ਰੇਣੀ ਜਿਸ ਵਿੱਚ ਕੋਈ ਥਰੈਡ ਨਹੀਂ ਹੈ, ਨੂੰ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ, ਜਦੋਂਕਿ ਸਮੱਗਰੀ ਵਾਲੀਆਂ ਸ਼੍ਰੇਣੀਆਂ ਨਵੇਂ ਥਰੈਡ ਦੀ ਪ੍ਰਵੇਸ਼ ਨੂੰ ਰੋਕਦੀਆਂ ਹਨ।',
   'forums.category.reactivate': 'ਕੈਟਗਰੀ ਦੁਬਾਰਾ ਸਰਗਰਮ ਕਰੋ',
   'forums.category.isVotable': 'ਯੂਜ਼ਰਾਂ ਨੂੰ ਥਰੈਡ ਉਪ/ਨੀਚੇ ਵੋਟ ਕਰਨ ਦੀ ਇਜ਼ਾਜ਼ਤ ਦਿਓ',
-  'forums.category.titleIsGlobal':
-    'ਇਸ ਸ਼੍ਰੇਣੀ ਦਾ ਸਿਰਲੇਖ ਉਸ ਯੂਜ਼ਰ ਦੀ ਭਾਸ਼ਾ ਵਿੱਚ ਦਿਸੇਗਾ ਜੇ ਅਸੀਂ ਇਸ ਨੂੰ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ।',
+  'forums.category.titleIsGlobal': 'ਇਸ ਸ਼੍ਰੇਣੀ ਦਾ ਸਿਰਲੇਖ ਉਸ ਯੂਜ਼ਰ ਦੀ ਭਾਸ਼ਾ ਵਿੱਚ ਦਿਸੇਗਾ ਜੇ ਅਸੀਂ ਇਸ ਨੂੰ ਸਮਰਥਨ ਕਰਦੇ ਹਾਂ।',
   'forums.category.languageLimited': 'ਇਹ ਸ਼੍ਰੇਣੀ ਸਿਰਫ ਇਸ ਭਾਸ਼ਾ ਵਿੱਚ ਵਰਤੋਂਕਾਰਾਂ ਨੂੰ ਦਿਸੇਗੀ।',
   'forums.threadsCounter': 'ਕੁੱਲ ਮਾਮਲਿਆਂ ਦੀ ਗਿਣਤੀ',
   // Pre-defined category names
@@ -70,5 +64,5 @@ export default {
     one {ਜਵਾਬ}
     other {ਜਵਾਬਾਂ}
   }`,
-  'forums.thread.createdAt': '!ਤਾਰੀਖ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਹੈ {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': '!ਤਾਰੀਖ ਵਿੱਚ ਬਣਾਇਆ ਗਿਆ ਹੈ {createdAt, date, medium}'
+};

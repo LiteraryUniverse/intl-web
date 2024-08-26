@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'നിരസിച്ചു',
   'fanManager.state.hidden': 'മറയ്ക്കപ്പെട്ടു',
   'fanManager.publicComment': 'പൊതു അഭിപ്രായം',
-  'fanManager.publicComment.desc':
-    'ഈ വാചകം നിങ്ങളുടെ അംഗീകാരപുരോഗതി രൂപപ്പെടുത്തിയിട്ടുമുണ്ടാക്കുന്ന കലയെ പോലെ പൊതുവായി പൊട്ടിക്കാത്തതാകും.',
+  'fanManager.publicComment.desc': 'ഈ വാചകം നിങ്ങളുടെ അംഗീകാരപുരോഗതി രൂപപ്പെടുത്തിയിട്ടുമുണ്ടാക്കുന്ന കലയെ പോലെ പൊതുവായി പൊട്ടിക്കാത്തതാകും.',
   'fanManager.authorComment': 'കലാകാരനോട് വാചകം',
   'fanManager.authorComment.desc': 'ഈ കലക്കാരന്റെ താത്പര്യക്ക്‌ നിങ്ങൾക്ക് സ്വകാര്യമായ വ്യാഖ്യാനം ആണ്.',
   'fanManager.stateChange.approve': 'ഫാൻ ആർട്ട് അനുവദിക്കുക',
   'fanManager.stateChange.reject': 'ഫാൻ ആർട്ട് നിരസിക്കുക',
   'fanManager.stateChange.hide': 'ഫാൻ ആർട്ട് മറയ്ക്കുക',
   'fanManager.stateChange.unhide': 'ഫാൻ ആർട്ട് ദൃശ്യമാക്കുക',
-  'fanManager.fanFictionNotAllowed':
-    'ഫാൻ ഫിക്ഷൻ അനുവദിച്ചിട്ടില്ലാത്തതിനാൽ അനുവദപ്പെടാത്തതാണ്‌ നിങ്ങളുടെ ലൈസൻസിന്റെ സ്വഭാവം.',
+  'fanManager.fanFictionNotAllowed': 'ഫാൻ ഫിക്ഷൻ അനുവദിച്ചിട്ടില്ലാത്തതിനാൽ അനുവദപ്പെടാത്തതാണ്‌ നിങ്ങളുടെ ലൈസൻസിന്റെ സ്വഭാവം.',
   'fanManager.fanFiction.maxRating': 'പ്രദർശിപ്പിക്കാനുള്ള ഫാൻ ഫിക്ഷൻ ഏറ്റവും ഉയരമെത്താൻ‌ പരമാവധി റേറ്റിംഗ്‌.',
-}
+  'fanManager.hidden.nothingFound': 'ഒരു മറുപടിയില്ലാത്ത ഫാന്‌ ആർട്ട് കണ്ടെത്തിയില്ല.',
+  'fanManager.rejected.nothingFound': 'ഒപ്പിട്ട ഫാന്‌ ആർട്ട് നിരസിച്ചിട്ടില്ല.',
+  'fanManager.approved.nothingFound': 'അംഗീകരിച്ച ഫാന്‌ ആർട്ടുകൾ കണ്ടെത്തിയില്ല.',
+  'fanManager.submitted.nothingFound': 'സമർപ്പിച്ച ഫാൻ കലയുടെ അടയാളങ്ങൾ കണ്ടെത്തിയില്ല.'
+};

@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `Du har for øyeblikket ingen {type, select,
+    'blog.noneMsg': `Du har for øyeblikket ingen {type, select,
     organization {noen blogg}
     universe {en blogg for universet ditt}
     user {en blogg}
     other {}
   }.`,
-  'blog.create': 'Opprett en ny blogg',
-  'blog.settings': `{type, select,
+    'blog.create': 'Opprett en ny blogg',
+    'blog.settings': `{type, select,
     org {Blogg}
     universe {Univers side}
     user {Blogg}
     other {}
   } innstillinger`,
-  'blog.description': 'Introduksjon av blogg',
-  'blog.theme': 'Tema',
-  'blog.theme.info':
-    'Ved å justere temaet vil du kunne endre utseendet på siden. Denne funksjonen er ikke klar i øyeblikket.',
-  'blog.posts.total': `Det er {total, plural,
+    'blog.description': 'Introduksjon av blogg',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Ved å justere temaet vil du kunne endre utseendet på siden. Denne funksjonen er ikke klar i øyeblikket.',
+    'blog.posts.total': `Det er {total, plural,
     zero {ingen innlegg}
     one {er ett innlegg}
     other {er # innlegg}
   } i denne bloggen.`,
-  'blog.post.create': 'Opprett et nytt innlegg',
-  'blog.post.update': 'Redigerer {title}',
-  'blog.post.text': 'Innlegg tekst',
-  'common.slug': 'SEO vennlig adresse',
-  'blog.slug.explained': 'Pen URL-adresse for innlegget. Unngå å bruke spesialtegn unntatt "-".',
-  'blog.publicView': 'Offentlig visning',
-  'blog.post.notfound': 'Blogginnlegget ble ikke funnet',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Opprett et nytt innlegg',
+    'blog.post.update': 'Redigerer {title}',
+    'blog.post.text': 'Innlegg tekst',
+    'common.slug': 'SEO vennlig adresse',
+    'blog.slug.explained': 'Pen URL-adresse for innlegget. Unngå å bruke spesialtegn unntatt "-".',
+    'blog.publicView': 'Offentlig visning',
+    'blog.post.notfound': 'Blogginnlegget ble ikke funnet',
+    'blog.lists.works': `{type, select,
     universes {Universer}
     stories {Historier}
     fanfiction {Fan Fiction verk}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sosiale lenker er de samme som er satt i {type, select,
+    'blog.social.sameAsMain': `Sosiale lenker er de samme som er satt i {type, select,
     organization {organisasjonsinnstillinger}
     user {brukerprofil}
     other {}

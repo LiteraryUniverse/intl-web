@@ -25,7 +25,8 @@ export default {
     universe {universe}
     other {}
   }.`,
-  'challenges.wordcount.select': 'How many words do you want to challenge yourself to?',
+  'challenges.wordcount.select':
+    'How many words do you want to challenge yourself to?',
   'challenges.start': 'Start challenge',
   'challenges.report': 'Report',
   'challenges.victory': 'Congratulations! You have completed this challenge.',
@@ -53,11 +54,12 @@ export default {
   'nanowrimo.challenge': 'NaNoWriMo challenge',
   'nanowrimo.description':
     'The challenge is to write a novel of {words, number} words during November.',
-  'nanowrimo.error.usernotfound': 'Username has not been found on the NaNoWriMo servers.',
+  'nanowrimo.error.usernotfound':
+    'Username has not been found on the NaNoWriMo servers.',
   'nanowrimo.error.nobook':
     'No book has been found. Please make sure you have created your book on NaNoWriMo.',
   'nanowrimo.error.wordcount':
     'Unable to set wordcount on NaNoWrimo, please double check your credentials and try again.',
   'nanowrimo.connected': 'You have designated this story for NaNoWriMo.',
-  'nanowrimo.connected.other': 'You have already connected another story.',
+  'nanowrimo.connected.other': 'You have already connected another story.'
 }

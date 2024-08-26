@@ -1,39 +1,38 @@
 export default {
-  'blog.noneMsg': `Je hebt momenteel geen {type, select,
+    'blog.noneMsg': `Je hebt momenteel geen {type, select,
     organization {geen blog}
     universe {een blog voor je universum}
     user {een blog}
     other {}
   }.`,
-  'blog.create': 'Nieuwe blog aanmaken',
-  'blog.settings': `{type, select,
+    'blog.create': 'Nieuwe blog aanmaken',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } instellingen`,
-  'blog.description': 'Blog introductie',
-  'blog.theme': 'Thema',
-  'blog.theme.info':
-    'Door het aanpassen van het thema kunt u het uiterlijk van de pagina veranderen. Deze functie is momenteel nog niet beschikbaar.',
-  'blog.posts.total': `Er {total, plural,
+    'blog.description': 'Blog introductie',
+    'blog.theme': 'Thema',
+    'blog.theme.info': 'Door het aanpassen van het thema kunt u het uiterlijk van de pagina veranderen. Deze functie is momenteel nog niet beschikbaar.',
+    'blog.posts.total': `Er {total, plural,
     one {is één bericht}
     other {zijn # berichten}
   } in deze blog.`,
-  'blog.post.create': 'Nieuw bericht maken',
-  'blog.post.update': 'Bewerken van {title}',
-  'blog.post.text': 'Berichttekst',
-  'common.slug': 'SEO-vriendelijk adres',
-  'blog.slug.explained': 'Mooie url naar het bericht. Gebruik geen speciale tekens behalve "-".',
-  'blog.publicView': 'Openbare weergave',
-  'blog.post.notfound': 'Blogbericht niet gevonden',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Nieuw bericht maken',
+    'blog.post.update': 'Bewerken van {title}',
+    'blog.post.text': 'Berichttekst',
+    'common.slug': 'SEO-vriendelijk adres',
+    'blog.slug.explained': 'Mooie url naar het bericht. Gebruik geen speciale tekens behalve "-".',
+    'blog.publicView': 'Openbare weergave',
+    'blog.post.notfound': 'Blogbericht niet gevonden',
+    'blog.lists.works': `{type, select,
     universes {Universes}
     stories {Verhalen}
     fanfiction {Fan Fictie werk}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sociale links zijn hetzelfde als ingesteld in {type, select,
+    'blog.social.sameAsMain': `Sociale links zijn hetzelfde als ingesteld in {type, select,
     organization {organisatie-instellingen}
     user {gebruikersprofiel}
     other {}

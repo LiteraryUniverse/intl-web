@@ -33,8 +33,7 @@ export default {
     organization {members of your organization}
     other {you and the people you invite}
   } can see this event`,
-  'events.visibility.private':
-    'Pribado - tanging ang mga inimbitahan mo ang makakakita ng kaganapan',
+  'events.visibility.private': 'Pribado - tanging ang mga inimbitahan mo ang makakakita ng kaganapan',
   'events.inviting': 'Maaari bang imbitahan ng mga taong nakakita ng pangyayaring ito ang iba?',
   'events.administration': 'Pamamahala ng mga Pangyayari',
   'events.create.title': 'Gumawa ng bagong pangyayari',
@@ -43,5 +42,5 @@ export default {
   'events.moreInfo': 'More information',
   'event.visibilityShort.private': 'Pribado',
   'event.visibilityShort.public': 'Pampubliko',
-  'event.visibilityShort.owner': 'May-ari',
-}
+  'event.visibilityShort.owner': 'May-ari'
+};

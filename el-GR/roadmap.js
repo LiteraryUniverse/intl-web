@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Σχεδιάζουμε να αναπτύξουμε αυτήν τη λειτουργία στο μέλλον.',
   'roadmap.item.inProgress': 'Η ανάπτυξη της λειτουργίας ξεκίνησε {startedAt, date}.',
   'roadmap.item.inBeta': 'Αυτή η λειτουργία έχει εισέλθει σε beta στις {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Αυτή η λειτουργία έγινε διαθέσιμη στους συνδρομητές του Storyteller στις {previewAt, date}.',
+  'roadmap.item.inPreview': 'Αυτή η λειτουργία έγινε διαθέσιμη στους συνδρομητές του Storyteller στις {previewAt, date}.',
   'roadmap.item.inGa': 'Αυτή η λειτουργία έχει γίνει γενικά διαθέσιμη στις {gaAt, date}.',
   'roadmap.item.originalIssue': 'Αυτή η λειτουργία προτάθηκε αρχικά από τους χρήστες μας.',
   'roadmap.eta.mapTitle': `Προγραμματισμένο για {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Ολοκληρώθηκε στις {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Πίσω στον χάρτη πορείας',
   'roadmap.seeBacklog': 'Δείτε τι άλλα πράγματα σχεδιάζουμε να κάνουμε',
-  'roadmap.seeFinished':
-    'Αν θέλετε να εμβαθύνετε περισσότερο στην ιστορία μας, έχουμε έτοιμη μια ωραία επισκόπηση για εσάς',
+  'roadmap.seeFinished': 'Αν θέλετε να εμβαθύνετε περισσότερο στην ιστορία μας, έχουμε έτοιμη μια ωραία επισκόπηση για εσάς',
   'roadmap.planned': 'Προγραμματισμένο',
-  'roadmap.finished': 'Ολοκληρώθηκε',
-}
+  'roadmap.finished': 'Ολοκληρώθηκε'
+};

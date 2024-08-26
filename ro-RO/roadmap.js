@@ -18,12 +18,9 @@ export default {
   'roadmap.item.inBacklog': 'Planificăm să dezvoltăm această funcționalitate în viitor.',
   'roadmap.item.inProgress': 'Dezvoltarea funcționalității a început {startedAt, date}.',
   'roadmap.item.inBeta': 'Această funcționalitate a intrat în versiunea beta pe {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Această funcționalitate a devenit disponibilă pentru abonații Storyteller pe {previewAt, date}.',
-  'roadmap.item.inGa':
-    'Această funcționalitate a devenit disponibilă în mod general pe {gaAt, date}.',
-  'roadmap.item.originalIssue':
-    'Această funcționalitate a fost sugerată inițial de către utilizatorii noștri.',
+  'roadmap.item.inPreview': 'Această funcționalitate a devenit disponibilă pentru abonații Storyteller pe {previewAt, date}.',
+  'roadmap.item.inGa': 'Această funcționalitate a devenit disponibilă în mod general pe {gaAt, date}.',
+  'roadmap.item.originalIssue': 'Această funcționalitate a fost sugerată inițial de către utilizatorii noștri.',
   'roadmap.eta.mapTitle': `Planificată pentru {quarter, select,
     Q1 {T1}
     Q2 {T2}
@@ -34,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Finalizat în {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Înapoi la hartă',
   'roadmap.seeBacklog': 'Verifică ce alte lucruri planificăm să facem',
-  'roadmap.seeFinished':
-    'Dacă dorești să afli mai multe despre istoricul nostru, avem o prezentare generală pregătită pentru tine',
+  'roadmap.seeFinished': 'Dacă dorești să afli mai multe despre istoricul nostru, avem o prezentare generală pregătită pentru tine',
   'roadmap.planned': 'Planificat',
-  'roadmap.finished': 'Finalizat',
-}
+  'roadmap.finished': 'Finalizat'
+};

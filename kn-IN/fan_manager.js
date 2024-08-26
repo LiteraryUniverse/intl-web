@@ -10,8 +10,7 @@ export default {
   'fanManager.state.rejected': 'ಮನ್ನಾ ಮಾಡಲಾಗಿದೆ',
   'fanManager.state.hidden': 'ಮರೆಯಲಾಗಿದೆ',
   'fanManager.publicComment': 'ಸಾರ್ವಜನಿಕ ಟಿಪ್ಪಣಿ',
-  'fanManager.publicComment.desc':
-    'ಈ ಪಠ್ಯವು ಸಾರ್ವಜನಿಕ ಪುಟದಲ್ಲಿ, ಈ ಕಲಾಕೃತಿಯ ಕುರಿತಾಗಿ ನಿಮ್ಮ ಅಧಿಕೃತ ಟಿಪ್ಪಣಿಯಾಗಿ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ',
+  'fanManager.publicComment.desc': 'ಈ ಪಠ್ಯವು ಸಾರ್ವಜನಿಕ ಪುಟದಲ್ಲಿ, ಈ ಕಲಾಕೃತಿಯ ಕುರಿತಾಗಿ ನಿಮ್ಮ ಅಧಿಕೃತ ಟಿಪ್ಪಣಿಯಾಗಿ ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ',
   'fanManager.authorComment': 'ಲೇಖಕನಿಗೆ ಟಿಪ್ಪಣಿ',
   'fanManager.authorComment.desc': 'ಇದು ನೀವು ಈ ಕಲಾಕೃತಿಯ ಲೇಖಕನಿಗೆ ಗೌಪ್ಯವಾಗಿ ಕೊಡುವ ಟಿಪ್ಪಣಿಯಾಗಿದೆ',
   'fanManager.stateChange.approve': 'ಫ್ಯಾನ್ ಆರ್ಟ್ ಅನುಮೋದನೆ ಮಾಡಿ',
@@ -20,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'ಫ್ಯಾನ್ ಆರ್ಟ್ ಪ್ರದರ್ಶನಕ್ಕೆ ಸೂಚಿಸಿ',
   'fanManager.fanFictionNotAllowed': 'ನಿಮ್ಮ ಅನುಮತಿಪತ್ರದ ಸ್ವಭಾವದ ಕಾರಣ, ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಅನುಮತಿಸಲಾಗುವುದಿಲ್ಲ',
   'fanManager.fanFiction.maxRating': 'ಪ್ರದರ್ಶಿತ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಗಣನೀಯತಮ ಮತ್ತು ಗಣನೀಯಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಅನುಮೋದನೆ',
-}
+  'fanManager.hidden.nothingFound': 'ಮರುಹೊಂದಿಲ್ಲದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ.',
+  'fanManager.rejected.nothingFound': 'ಮರುಮರ್ಜನೆ ಮಾಡಲಾಗದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ.',
+  'fanManager.approved.nothingFound': 'ಅನುಮೋದಿಸಲಾದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ.',
+  'fanManager.submitted.nothingFound': 'ಯಾವುದೇ ಸಲ್ಲಿಸಲಾದ ಫ್ಯಾನ್ ಕಲೆಗಳು ಕಂಡುಬಂದವು ಇಲ್ಲ.'
+};

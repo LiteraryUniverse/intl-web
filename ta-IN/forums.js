@@ -11,22 +11,17 @@ export default {
   'forums.category.name': 'பிரிவின் பெயர்',
   'forums.category.slug': 'SEO இணையதள பகுப்பு',
   'forums.category.settings': 'பிரிவு அமைப்புகள்',
-  'forums.category.language':
-    'இந்த பிரிவின் பார்வையிடத்தை பின்னர் உள்ள மொழிக்கு வரை கட்டுப்படுத்து. அனைத்து மொழிகளிலும் பிரிவைக் காட்ட விரும்பினால் வெற்றிகரமாக விடுவதற்கு காலியாக விடுக.',
-  'forums.category.intlNameDescription':
-    'நீங்கள் தேர்வுக்கு உள்ளமைக்கப்படும் பொது பிரிவு பெயர்களின் மொழியை மொழிபெயர்க்கின்றோம், எனவே அனைத்து ஆதரிக்கப்படும் மொழிகளுக்கும் பிரிவு கிடைக்கலாம்.',
+  'forums.category.language': 'இந்த பிரிவின் பார்வையிடத்தை பின்னர் உள்ள மொழிக்கு வரை கட்டுப்படுத்து. அனைத்து மொழிகளிலும் பிரிவைக் காட்ட விரும்பினால் வெற்றிகரமாக விடுவதற்கு காலியாக விடுக.',
+  'forums.category.intlNameDescription': 'நீங்கள் தேர்வுக்கு உள்ளமைக்கப்படும் பொது பிரிவு பெயர்களின் மொழியை மொழிபெயர்க்கின்றோம், எனவே அனைத்து ஆதரிக்கப்படும் மொழிகளுக்கும் பிரிவு கிடைக்கலாம்.',
   'forums.thread.new': 'புதிய தொடர்',
   'forums.thread.delete': 'தொடரை நீக்குக',
   'forums.post.new': 'புதிய பதிவு',
-  'forums.archived.forum':
-    'இந்த மாடல் அழிக்கப்பட்டுள்ளது {archivedAt, date, long}. மாடலைக் காண முடியும் ஆனால், புதிய உள்ளடக்கத்தை உருவாக்க முடியாது.',
+  'forums.archived.forum': 'இந்த மாடல் அழிக்கப்பட்டுள்ளது {archivedAt, date, long}. மாடலைக் காண முடியும் ஆனால், புதிய உள்ளடக்கத்தை உருவாக்க முடியாது.',
   'forums.category.archive': 'பிரிவுகளை அழிக்க',
-  'forums.category.archiveExplained':
-    'பதிவுகள் இல்லாமல் உள்ள வகை நீக்கப்படும், மேலும் உள்ள வகைகள் புதிய தொடர்களை உருவாக்க தடுக்கும்.',
+  'forums.category.archiveExplained': 'பதிவுகள் இல்லாமல் உள்ள வகை நீக்கப்படும், மேலும் உள்ள வகைகள் புதிய தொடர்களை உருவாக்க தடுக்கும்.',
   'forums.category.reactivate': 'பிரிவை மீண்டும் செயல்படுத்துக',
   'forums.category.isVotable': 'பயனர்களுக்கு தொகுப்புகள் மேலே/கீழே வாக்குவதை அனுமதிக்கவும்',
-  'forums.category.titleIsGlobal':
-    'நாம் அதை ஆதரிக்கும் மொழியில் பயனாக்கும் பயனரின் மொழியில் இந்த வகை தலைப்பு காட்டப்படும்.',
+  'forums.category.titleIsGlobal': 'நாம் அதை ஆதரிக்கும் மொழியில் பயனாக்கும் பயனரின் மொழியில் இந்த வகை தலைப்பு காட்டப்படும்.',
   'forums.category.languageLimited': 'இந்த வகை இந்த மொழியில் பயனாக்கும் பயனர்களுக்கு மட்டுமே காட்டப்படும்.',
   'forums.threadsCounter': 'மொத்த வினாக்கள் பேச்சுகள் எண்ணிக்கை',
   // Pre-defined category names
@@ -47,11 +42,9 @@ export default {
   'forums.category.intlName.questions': 'கேள்விகள்',
   'forums.category.back': 'மன்ற அவலைக்கு மீளுங்கள்',
   // Forum restrictions
-  'forums.forumRestriction.usersOnly':
-    'பதிவு செய்யப்பட்டுள்ள பயனர்களுக்கு மட்டும் அணுகல் அனுமதிக்கப்படுகின்றது',
+  'forums.forumRestriction.usersOnly': 'பதிவு செய்யப்பட்டுள்ள பயனர்களுக்கு மட்டும் அணுகல் அனுமதிக்கப்படுகின்றது',
   'forums.settings.accessControls': 'அணுகல் கட்டுப்பாடுகள்',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'இந்த மன்றம் பதிவு செய்யப்பட்டுள்ளது உள்ளடக்கத்திற்கு மட்டுமே.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'இந்த மன்றம் பதிவு செய்யப்பட்டுள்ளது உள்ளடக்கத்திற்கு மட்டுமே.',
   'forums.noThreads': 'இங்கே எந்தவொருவரும் காணமுடியாது. உங்களால் உரையாட தயங்கவும்.',
   'forums.noPosts': 'இன்னும் யாரும் பதிலளிக்கவில்லை. முதலாவது நீங்கள் ஆகவும்!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {பதில்}
     other {பதில்கள்}
   }`,
-  'forums.thread.createdAt': 'உருண்டது இன்னும் {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'உருண்டது இன்னும் {createdAt, date, medium}'
+};

@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': '百科事典エントリー',
   'personalNotes.type.revTextBlock': '改訂テキストブロック',
   'personalNotes.chapter': '章',
-  'personalNotes.recentSearches': '最近の検索:',
-}
+  'personalNotes.recentSearches': '最近の検索:'
+};

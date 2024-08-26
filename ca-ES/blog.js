@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Actualment no tens cap blog per al teu univers {type, select,
+    'blog.noneMsg': `Actualment no tens cap blog per al teu univers {type, select,
     organization {un blog}
     universe {un blog per al teu univers}
     user {un blog}
     other {}
   }.`,
-  'blog.create': 'Crear un nou blog',
-  'blog.settings': `{type, select,
+    'blog.create': 'Crear un nou blog',
+    'blog.settings': `{type, select,
     org {Pàgina del blog de l'univers}
     universe {Configuració del blog}
     user {Blog}
     other {}
   } settings`,
-  'blog.description': 'Introducció al blog',
-  'blog.theme': 'Tema',
-  'blog.theme.info':
-    "En ajustar el tema podràs canviar l'aparença de la pàgina. Aquesta funció no està preparada en aquest moment.",
-  'blog.posts.total': `Hi ha {total, plural,
+    'blog.description': 'Introducció al blog',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'En ajustar el tema podràs canviar l\'aparença de la pàgina. Aquesta funció no està preparada en aquest moment.',
+    'blog.posts.total': `Hi ha {total, plural,
     zero {cap entrada}
     one {una entrada}
     other {# entrades}
   } en aquest blog.`,
-  'blog.post.create': 'Crear una nova entrada',
-  'blog.post.update': 'Editar {title}',
-  'blog.post.text': "Text de l'entrada",
-  'common.slug': 'Adreça SEO amigable',
-  'blog.slug.explained':
-    'URL atractiva per a l\'entrada. Evita utilitzar caràcters especials excepte "-".',
-  'blog.publicView': 'Vista pública',
-  'blog.post.notfound': "No s'ha trobat l'entrada del blog",
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Crear una nova entrada',
+    'blog.post.update': 'Editar {title}',
+    'blog.post.text': 'Text de l\'entrada',
+    'common.slug': 'Adreça SEO amigable',
+    'blog.slug.explained': 'URL atractiva per a l\'entrada. Evita utilitzar caràcters especials excepte "-".',
+    'blog.publicView': 'Vista pública',
+    'blog.post.notfound': 'No s\'ha trobat l\'entrada del blog',
+    'blog.lists.works': `{type, select,
     universes {Universos}
     stories {Històries}
     fanfiction {Obra de Fan Fiction}
     other {}
   }`,
-  'blog.social.sameAsMain': `Els enllaços socials són els mateixos que els establerts a la {type, select,
+    'blog.social.sameAsMain': `Els enllaços socials són els mateixos que els establerts a la {type, select,
     organization {configuració de l'organització}
     user {perfil d'usuari}
     other {}

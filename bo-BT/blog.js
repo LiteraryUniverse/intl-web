@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'Create a new blog',
-  'blog.settings': `{type, select,
+    'blog.create': 'Create a new blog',
+    'blog.settings': `{type, select,
     org {བློ་གྲོས་}
     universe {འབྲེལ་ཡོད་པའི་ ཤོག་ལེབ་}
     user {བློ་གྲོས་}
     other {}
   } སྒྲིག་འཇུགས་`,
-  'blog.description': 'Blog introduction',
-  'blog.theme': 'Theme',
-  'blog.theme.info':
-    'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Blog introduction',
+    'blog.theme': 'Theme',
+    'blog.theme.info': 'Adjusting the theme you will be able to change the look of the page. This feature is not ready at this time.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Create a new post',
-  'blog.post.update': 'Editing {title}',
-  'blog.post.text': 'Post text',
-  'common.slug': 'SEO friendly address',
-  'blog.slug.explained':
-    'Nice looking url to the post. Avoid using special characters except for "-".',
-  'blog.publicView': 'Public view',
-  'blog.post.notfound': 'Blog post was not found',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Create a new post',
+    'blog.post.update': 'Editing {title}',
+    'blog.post.text': 'Post text',
+    'common.slug': 'SEO friendly address',
+    'blog.slug.explained': 'Nice looking url to the post. Avoid using special characters except for "-".',
+    'blog.publicView': 'Public view',
+    'blog.post.notfound': 'Blog post was not found',
+    'blog.lists.works': `{type, select,
     universes {གསར་པ་ཚོགས་པ}
     stories {བརྡ་རྗེའི་ཚོགས་པ}
     fanfiction {ཡིག་ཆ་རྩོམ་པ་བྱེད་པར་གྱུར།}
     other {}
   }`,
-  'blog.social.sameAsMain': `སྒྲིག་འཇུགས་གསལ་བཤད་འདི་ བཀོད་སྤྱོད་གནས་སྡུད་བསྐྱེད་པའི་ སྐོར་ལས་འདི་ནང་གི་ལེན་མི་བརྡ་དོན་བྱེད་པའི་ དགོས་པར་ཡོད་པའི་ {type, select,
+    'blog.social.sameAsMain': `སྒྲིག་འཇུགས་གསལ་བཤད་འདི་ བཀོད་སྤྱོད་གནས་སྡུད་བསྐྱེད་པའི་ སྐོར་ལས་འདི་ནང་གི་ལེན་མི་བརྡ་དོན་བྱེད་པའི་ དགོས་པར་ཡོད་པའི་ {type, select,
     organization {གང་རུང་སྒྲིག་འཇུགས་}
     user {ལག་ལེན་པའི་གནས་སྡུད་}
     other {}

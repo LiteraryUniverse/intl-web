@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Lisätietoja',
   'event.visibilityShort.private': 'Yksityinen',
   'event.visibilityShort.public': 'Julkinen',
-  'event.visibilityShort.owner': 'Omistaja',
-}
+  'event.visibilityShort.owner': 'Omistaja'
+};

@@ -22,5 +22,5 @@ export default {
     other {개의 이야기와 우주}
   } 개를 추가하기 위한 모달.`,
   'readingList.addItem.fromLibrary': '라이브러리에서',
-  'readingList.button.added': '추가됨',
-}
+  'readingList.button.added': '추가됨'
+};

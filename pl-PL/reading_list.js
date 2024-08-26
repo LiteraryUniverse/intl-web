@@ -22,5 +22,5 @@ export default {
     other {opowieści i wszechświatów}
   } do listy czytelniczej.`,
   'readingList.addItem.fromLibrary': 'Z biblioteki',
-  'readingList.button.added': 'Dodano',
-}
+  'readingList.button.added': 'Dodano'
+};

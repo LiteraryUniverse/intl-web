@@ -122,7 +122,8 @@ export default {
   'encyclopedia.connections.existing.abbr': 'EE',
   // abbreviation for Existing Entry
   'encyclopedia.cover': 'Cover image',
-  'encyclopedia.translation.title': 'Welcome to {universe} universe translation!',
+  'encyclopedia.translation.title':
+    'Welcome to {universe} universe translation!',
   'encyclopedia.translation.desc':
     'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
   'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
@@ -133,7 +134,8 @@ export default {
   'encyclopedia.settings.title': 'Encyclopedia settings',
   'encyclopedia.settings.categoriesDesc':
     'Turn on and off categories which you want to use in your encyclopedia.',
-  'encyclopedia.settings.introText': 'Welcome message to be displayed after universe description.',
+  'encyclopedia.settings.introText':
+    'Welcome message to be displayed after universe description.',
   'encyclopedia.fields.placeholder': 'Field name',
   'encyclopedia.fields.delete': 'Delete field',
   'encyclopedia.timeOption.fictionalDate': 'Fictional date',
@@ -142,7 +144,8 @@ export default {
   'encyclopedia.timeOption.date': 'Date',
   'encyclopedia.timeOption.time': 'Time',
   'encyclopedia.timeOption.dateTime': 'Date and time',
-  'encyclopedia.settings.groupByCategories': 'Include categories in group listing',
+  'encyclopedia.settings.groupByCategories':
+    'Include categories in group listing',
   'encyclopedia.menuOpen': 'Open Encyclopedia menu',
   'encyclopedia.menuClose': 'Close Encyclopedia menu',
   'encyclopedia.menuAria': 'Encyclopedia menu',
@@ -165,5 +168,5 @@ export default {
   'encyclopedia.templateCopy.description':
     'Copy content of this encyclopedia into your universe to enrich it.',
   'encyclopedia.templateCopy.targetUniverse': 'Universe to copy to',
-  'encyclopedia.templateCopy.finished': 'Copying finished',
+  'encyclopedia.templateCopy.finished': 'Copying finished'
 }

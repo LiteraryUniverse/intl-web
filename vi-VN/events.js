@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Thông tin thêm',
   'event.visibilityShort.private': 'Riêng tư',
   'event.visibilityShort.public': 'Công khai',
-  'event.visibilityShort.owner': 'Chủ sở hữu',
-}
+  'event.visibilityShort.owner': 'Chủ sở hữu'
+};

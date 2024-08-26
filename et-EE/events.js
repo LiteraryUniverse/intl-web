@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Rohkem infot',
   'event.visibilityShort.private': 'Privaatne',
   'event.visibilityShort.public': 'Avalik',
-  'event.visibilityShort.owner': 'Omanik',
-}
+  'event.visibilityShort.owner': 'Omanik'
+};

@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Meer informatie',
   'event.visibilityShort.private': 'Privé',
   'event.visibilityShort.public': 'Openbaar',
-  'event.visibilityShort.owner': 'Eigenaar',
-}
+  'event.visibilityShort.owner': 'Eigenaar'
+};

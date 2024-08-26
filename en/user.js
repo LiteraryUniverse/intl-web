@@ -28,7 +28,8 @@ export default {
     night {night}
     other {day}
   } {displayName}!`,
-  'user.verification.publishedAuthor': 'This author has been published the traditional way',
+  'user.verification.publishedAuthor':
+    'This author has been published the traditional way',
   'user.verification.luAuthor': 'Literary Universe based author of note',
   'user.verification.luEmployee': 'Literary Universe employee',
   'user.verification.publicFigure': 'Verified public figure',
@@ -49,5 +50,5 @@ export default {
   'profile.wishlist': 'Wishlist',
   'profile.storiesBy': 'Stories created by {username}',
   'profile.universesBy': 'Universes created by {username}',
-  'profile.fanFictionBy': 'Fan Fiction created by {username}',
+  'profile.fanFictionBy': 'Fan Fiction created by {username}'
 }

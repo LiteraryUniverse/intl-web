@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Vi planlægger at udvikle denne funktion i fremtiden.',
   'roadmap.item.inProgress': 'Udviklingen af funktionen er startet {startedAt, date}.',
   'roadmap.item.inBeta': 'Denne funktion er gået i beta den {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Denne funktion er blevet tilgængelig for Storyteller-abonnenter den {previewAt, date}.',
+  'roadmap.item.inPreview': 'Denne funktion er blevet tilgængelig for Storyteller-abonnenter den {previewAt, date}.',
   'roadmap.item.inGa': 'Denne funktion er nu generelt tilgængelig den {gaAt, date}.',
   'roadmap.item.originalIssue': 'Denne funktion blev oprindeligt foreslået af vores brugere.',
   'roadmap.eta.mapTitle': `Planlagt til {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Færdiggjort den {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Tilbage til vejplanen',
   'roadmap.seeBacklog': 'Se, hvad vi planlægger at gøre',
-  'roadmap.seeFinished':
-    'Hvis du gerne vil dykke mere ned i vores historie, har vi en fin oversigt klar til dig',
+  'roadmap.seeFinished': 'Hvis du gerne vil dykke mere ned i vores historie, har vi en fin oversigt klar til dig',
   'roadmap.planned': 'Planlagt',
-  'roadmap.finished': 'Færdiggjort',
-}
+  'roadmap.finished': 'Færdiggjort'
+};

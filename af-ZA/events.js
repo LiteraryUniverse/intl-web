@@ -36,11 +36,11 @@ export default {
   'events.visibility.private': 'Privaat - slegs mense wat jy uitnooi sal die gebeurtenis sien',
   'events.inviting': 'Kan mense wat hierdie gebeurtenis sien ander uitnooi?',
   'events.administration': 'Gebeurtenisadministrasie',
-  'events.create.title': "Skep 'n nuwe gebeurtenis",
+  'events.create.title': 'Skep \'n nuwe gebeurtenis',
   'events.hostedBy': 'Geborg deur {hostName}',
   'events.openVirtual': 'Gaan na virtuele plek',
   'events.moreInfo': 'Meer inligting',
   'event.visibilityShort.private': 'Privaat',
   'event.visibilityShort.public': 'Openbaar',
-  'event.visibilityShort.owner': 'Eienaar',
-}
+  'event.visibilityShort.owner': 'Eienaar'
+};

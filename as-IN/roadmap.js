@@ -31,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': '{time, date, ::MMMM ::yyyy}শেষ হৈছে',
   'roadmap.back': 'পথনিৰ্দেশিকাৰ পৰা পিছত যাওক',
   'roadmap.seeBacklog': 'আমাৰ অন্যান্য কৰিবলৈ যোজনাৰ বিষয়বস্তুসমূহ চাওক',
-  'roadmap.seeFinished':
-    'আপোনালৈ যদি আমাৰ ইতিহাসত আরু গভীৰভাৱে চিন্তা কৰিব লাগে, তেন্তে আপোনালৈ এটা সুন্দৰ সংক্ষিপ্ত সমূহ প্ৰদান কৰা হৈছে',
+  'roadmap.seeFinished': 'আপোনালৈ যদি আমাৰ ইতিহাসত আরু গভীৰভাৱে চিন্তা কৰিব লাগে, তেন্তে আপোনালৈ এটা সুন্দৰ সংক্ষিপ্ত সমূহ প্ৰদান কৰা হৈছে',
   'roadmap.planned': 'পলন কৰা হৈছে',
-  'roadmap.finished': 'শেষ হৈছে',
-}
+  'roadmap.finished': 'শেষ হৈছে'
+};

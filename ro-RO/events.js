@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Mai multe informații',
   'event.visibilityShort.private': 'Privat',
   'event.visibilityShort.public': 'Public',
-  'event.visibilityShort.owner': 'Proprietar',
-}
+  'event.visibilityShort.owner': 'Proprietar'
+};

@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Abilita forum',
   'forums.archive': 'Archivia forum',
-  'forums.archive.explained':
-    "L'archiviazione del forum impedirà agli utenti di inviare ulteriori contenuti, ma rimarrà visibile.",
+  'forums.archive.explained': 'L\'archiviazione del forum impedirà agli utenti di inviare ulteriori contenuti, ma rimarrà visibile.',
   'forums.archive.success': 'Il forum è stato archiviato',
   'forums.unArchive': 'Riattiva i forum',
   'forums.unArchive.success': 'Il forum è stato riattivato!',
@@ -10,26 +9,20 @@ export default {
   'forums.category.create': 'Crea categoria del forum',
   'forums.category.delete': 'Elimina categoria',
   'forums.category.name': 'Nome categoria',
-  'forums.category.slug': "Parte dell'URL SEO",
+  'forums.category.slug': 'Parte dell\'URL SEO',
   'forums.category.settings': 'Impostazioni categoria',
-  'forums.category.language':
-    'Limita la visualizzazione di questa categoria alla seguente lingua. Lascia vuoto se vuoi visualizzare la categoria in tutte le lingue.',
-  'forums.category.intlNameDescription':
-    'Abbiamo localizzato i titoli delle categorie comuni per la tua selezione, in modo che la categoria possa essere disponibile in tutte le lingue supportate.',
+  'forums.category.language': 'Limita la visualizzazione di questa categoria alla seguente lingua. Lascia vuoto se vuoi visualizzare la categoria in tutte le lingue.',
+  'forums.category.intlNameDescription': 'Abbiamo localizzato i titoli delle categorie comuni per la tua selezione, in modo che la categoria possa essere disponibile in tutte le lingue supportate.',
   'forums.thread.new': 'Nuovo thread',
   'forums.thread.delete': 'Elimina thread',
   'forums.post.new': 'Nuovo post',
-  'forums.archived.forum':
-    'Questo forum è stato archiviato il {archivedAt, date, long}. È ancora possibile visualizzare i forum, ma non è più possibile creare nuovi contenuti.',
+  'forums.archived.forum': 'Questo forum è stato archiviato il {archivedAt, date, long}. È ancora possibile visualizzare i forum, ma non è più possibile creare nuovi contenuti.',
   'forums.category.archive': 'Archivia categoria',
-  'forums.category.archiveExplained':
-    'La categoria che non ha thread verrà eliminata, mentre le categorie con contenuti impediranno la creazione di nuovi thread.',
+  'forums.category.archiveExplained': 'La categoria che non ha thread verrà eliminata, mentre le categorie con contenuti impediranno la creazione di nuovi thread.',
   'forums.category.reactivate': 'Riattiva categoria',
   'forums.category.isVotable': 'Consenti agli utenti di votare i thread',
-  'forums.category.titleIsGlobal':
-    "Questo titolo della categoria verrà visualizzato nella lingua dell'utente se la supportiamo.",
-  'forums.category.languageLimited':
-    'Questa categoria verrà visualizzata solo dagli utenti in questa lingua.',
+  'forums.category.titleIsGlobal': 'Questo titolo della categoria verrà visualizzato nella lingua dell\'utente se la supportiamo.',
+  'forums.category.languageLimited': 'Questa categoria verrà visualizzata solo dagli utenti in questa lingua.',
   'forums.threadsCounter': 'Numero totale di discussioni',
   // Pre-defined category names
   'forums.category.intlName.general': 'Generale',
@@ -49,10 +42,9 @@ export default {
   'forums.category.intlName.questions': 'Domande',
   'forums.category.back': 'Torna alla panoramica del forum',
   // Forum restrictions
-  'forums.forumRestriction.usersOnly': "Consenti l'accesso solo agli utenti registrati",
+  'forums.forumRestriction.usersOnly': 'Consenti l\'accesso solo agli utenti registrati',
   'forums.settings.accessControls': 'Controlli di accesso',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Questo forum è accessibile solo agli utenti registrati.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Questo forum è accessibile solo agli utenti registrati.',
   'forums.noThreads': 'Niente da vedere qui. Sta a te iniziare la conversazione.',
   'forums.noPosts': 'Ancora nessuna risposta. Sii il primo!',
   // Threads
@@ -72,5 +64,5 @@ export default {
     one {risposta}
     other {risposte}
   }`,
-  'forums.thread.createdAt': 'Creato il {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Creato il {createdAt, date, medium}'
+};

@@ -22,5 +22,5 @@ export default {
     other {mga kuwento at mga kuwento ng uniberso}
   } sa listahan ng pagbabasa.`,
   'readingList.addItem.fromLibrary': 'Mula sa aklatan',
-  'readingList.button.added': 'Idinagdag',
-}
+  'readingList.button.added': 'Idinagdag'
+};

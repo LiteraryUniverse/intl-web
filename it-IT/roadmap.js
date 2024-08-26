@@ -18,11 +18,9 @@ export default {
   'roadmap.item.inBacklog': 'Abbiamo in programma di sviluppare questa funzione in futuro.',
   'roadmap.item.inProgress': 'Lo sviluppo della funzionalità è iniziato il {startedAt, date}.',
   'roadmap.item.inBeta': 'Questa funzionalità è entrata in versione beta il {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Questa funzionalità è diventata disponibile per gli abbonati a Storyteller il {previewAt, date}.',
+  'roadmap.item.inPreview': 'Questa funzionalità è diventata disponibile per gli abbonati a Storyteller il {previewAt, date}.',
   'roadmap.item.inGa': 'Questa funzionalità è diventata disponibile per tutti il {gaAt, date}.',
-  'roadmap.item.originalIssue':
-    'Questa funzionalità è stata originariamente suggerita dai nostri utenti.',
+  'roadmap.item.originalIssue': 'Questa funzionalità è stata originariamente suggerita dai nostri utenti.',
   'roadmap.eta.mapTitle': `Pianificato per il {quarter, select,
     Q1 {Q1}
     Q2 {Q2}
@@ -33,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Completato il {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Torna alla roadmap',
   'roadmap.seeBacklog': 'Scopri le altre cose che abbiamo in programma di fare',
-  'roadmap.seeFinished':
-    'Se volete approfondire la nostra storia, abbiamo preparato una bella panoramica per voi',
+  'roadmap.seeFinished': 'Se volete approfondire la nostra storia, abbiamo preparato una bella panoramica per voi',
   'roadmap.planned': 'Pianificato',
-  'roadmap.finished': 'Finito',
-}
+  'roadmap.finished': 'Finito'
+};

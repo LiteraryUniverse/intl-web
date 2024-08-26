@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Atualmente você não tem {type, select,
+    'blog.noneMsg': `Atualmente você não tem {type, select,
     organization {nenhum blog}
     universe {um blog para o seu universo}
     user {um blog}
     other {}
   }.`,
-  'blog.create': 'Criar um novo blog',
-  'blog.settings': `{type, select,
+    'blog.create': 'Criar um novo blog',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Universe page}
     user {Blog}
     other {}
   } settings`,
-  'blog.description': 'Introdução ao Blog',
-  'blog.theme': 'Tema',
-  'blog.theme.info':
-    'Ajustando o tema você será capaz de mudar o visual da página. Este recurso não está pronto neste momento.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Introdução ao Blog',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Ajustando o tema você será capaz de mudar o visual da página. Este recurso não está pronto neste momento.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Criar um novo posto',
-  'blog.post.update': 'Editando {title}',
-  'blog.post.text': 'Texto do post',
-  'common.slug': 'Endereço amigável de SEO',
-  'blog.slug.explained':
-    'Belo visual url para o posto. Evite usar caracteres especiais, exceto "-".',
-  'blog.publicView': 'Opinião pública',
-  'blog.post.notfound': 'Não foi encontrado um post no blog',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Criar um novo posto',
+    'blog.post.update': 'Editando {title}',
+    'blog.post.text': 'Texto do post',
+    'common.slug': 'Endereço amigável de SEO',
+    'blog.slug.explained': 'Belo visual url para o posto. Evite usar caracteres especiais, exceto "-".',
+    'blog.publicView': 'Opinião pública',
+    'blog.post.notfound': 'Não foi encontrado um post no blog',
+    'blog.lists.works': `{type, select,
     universes {Universos}
     stories {Histórias}
     fanfiction {Obra de Fan Fiction}
     other {}
   }`,
-  'blog.social.sameAsMain': `Social links are the same as set in {type, select,
+    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
     organization {organization settings}
     user {user profile}
     other {}

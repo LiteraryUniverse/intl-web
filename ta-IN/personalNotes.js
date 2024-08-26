@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'அரசப் பட்டியம்',
   'personalNotes.type.revTextBlock': 'மீள்பதிவு எழுத்தடுக்கும் துறை பகுதி',
   'personalNotes.chapter': 'அதிகாரம்',
-  'personalNotes.recentSearches': 'சமீபத்திய தேடுகள்:',
-}
+  'personalNotes.recentSearches': 'சமீபத்திய தேடுகள்:'
+};

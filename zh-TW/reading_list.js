@@ -22,5 +22,5 @@ export default {
     other {個故事和宇宙}
   } 新增至閱讀清單的對話框。`,
   'readingList.addItem.fromLibrary': '從圖書館中',
-  'readingList.button.added': '已新增',
-}
+  'readingList.button.added': '已新增'
+};

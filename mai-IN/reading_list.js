@@ -22,5 +22,5 @@ export default {
     other {कहानियाँ और यूनिवर्स}
   } जोड़ने के लिए मॉडल`,
   'readingList.addItem.fromLibrary': 'लाइब्रेरी से',
-  'readingList.button.added': 'जोड़ दिया गया है',
-}
+  'readingList.button.added': 'जोड़ दिया गया है'
+};

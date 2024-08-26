@@ -1,5 +1,6 @@
 export default {
-  'roadmap.ariaTimeOptions': 'Selections for roadmap items based on their status.',
+  'roadmap.ariaTimeOptions':
+    'Selections for roadmap items based on their status.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'In-progress',
   'roadmap.state.preview': 'Preview',
@@ -15,13 +16,17 @@ export default {
   'roadmap.eta.q4.long': 'Fourth quarter',
   'roadmap.backlog': 'Backlog',
   'roadmap.history': 'History of development',
-  'roadmap.item.inBacklog': 'We are planning to develop this feature in the future.',
-  'roadmap.item.inProgress': 'The development of the feature started {startedAt, date}.',
+  'roadmap.item.inBacklog':
+    'We are planning to develop this feature in the future.',
+  'roadmap.item.inProgress':
+    'The development of the feature started {startedAt, date}.',
   'roadmap.item.inBeta': 'This feature has entered beta on {betaAt, date}.',
   'roadmap.item.inPreview':
     'This feature became available to Storyteller subscribers on {previewAt, date}.',
-  'roadmap.item.inGa': 'This feature has become generally available on {gaAt, date}.',
-  'roadmap.item.originalIssue': 'This feature was originally suggested by our users.',
+  'roadmap.item.inGa':
+    'This feature has become generally available on {gaAt, date}.',
+  'roadmap.item.originalIssue':
+    'This feature was originally suggested by our users.',
   'roadmap.eta.mapTitle': `Planned for {quarter, select,
     Q1 {Q1}
     Q2 {Q2}
@@ -35,5 +40,5 @@ export default {
   'roadmap.seeFinished':
     'If you like to dig more into our history, we have a nice overview ready for you',
   'roadmap.planned': 'Planned',
-  'roadmap.finished': 'Finished',
+  'roadmap.finished': 'Finished'
 }

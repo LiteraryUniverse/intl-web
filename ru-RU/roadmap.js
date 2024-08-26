@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Мы планируем развивать эту функцию в будущем.',
   'roadmap.item.inProgress': 'Разработка функции началась {startedAt, date}',
   'roadmap.item.inBeta': 'Эта функция вступила в бета-тестирование {betaAt, date}',
-  'roadmap.item.inPreview':
-    'Эта функция стала доступна подписчикам плана «Рассказчик» {previewAt, date}',
+  'roadmap.item.inPreview': 'Эта функция стала доступна подписчикам плана «Рассказчик» {previewAt, date}',
   'roadmap.item.inGa': 'Эта функция стала доступной {gaAt, date}',
   'roadmap.item.originalIssue': 'Эта функция была первоначально предложена нашими пользователями.',
   'roadmap.eta.mapTitle': `Запланировано на {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Завершено {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Вернуться к карте разработки',
   'roadmap.seeBacklog': 'Посмотрите, что ещё мы планируем сделать',
-  'roadmap.seeFinished':
-    'Если вы хотите узнать больше о нашей истории, мы подготовили для вас хороший обзор',
+  'roadmap.seeFinished': 'Если вы хотите узнать больше о нашей истории, мы подготовили для вас хороший обзор',
   'roadmap.planned': 'Запланировано',
-  'roadmap.finished': 'Завершено',
-}
+  'roadmap.finished': 'Завершено'
+};

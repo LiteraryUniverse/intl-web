@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'ಫೋರಮ್ ಸಕ್ರಿಯಗೊಳಿಸು',
   'forums.archive': 'ಫೋರಮ್ ಆರ್ಕೈವ್ ಮಾಡಿ',
-  'forums.archive.explained':
-    'Archiving forum will prevent users from posting any further content, but it will remain visible.',
+  'forums.archive.explained': 'Archiving forum will prevent users from posting any further content, but it will remain visible.',
   'forums.archive.success': 'Forum has been archived',
   'forums.unArchive': 'Re-activate forums',
   'forums.unArchive.success': 'Forum has been re-activated!',
@@ -12,18 +11,14 @@ export default {
   'forums.category.name': 'Category name',
   'forums.category.slug': 'SEO url part',
   'forums.category.settings': 'Category settings',
-  'forums.category.language':
-    'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
-  'forums.category.intlNameDescription':
-    'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
+  'forums.category.language': 'Limit display of this category to the following language. Leave empty if you want to display the category in all languages.',
+  'forums.category.intlNameDescription': 'We have localized titles of common category names for your selection, so that the category can be available to all supported languages.',
   'forums.thread.new': 'New thread',
   'forums.thread.delete': 'Delete thread',
   'forums.post.new': 'ಹೊಸ ಪೋಸ್ಟ್',
-  'forums.archived.forum':
-    'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
+  'forums.archived.forum': 'This forums has been archived on {archivedAt, date, long}. You can still view the forums, but you are no longer able to create new content.',
   'forums.category.archive': 'Archive category',
-  'forums.category.archiveExplained':
-    'ಯಾವುದೇ ಥ್ರೆಡ್‌ಗಳನ್ನು ಹೊಂದಿಲ್ಲದ ವರ್ಗವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ, ಆದರೆ ವಿಷಯವನ್ನು ಹೊಂದಿರುವ ವರ್ಗಗಳು ಹೊಸ ಥ್ರೆಡ್‌ಗಳ ರಚನೆಯನ್ನು ನಿರೋಧಿಸುತ್ತವೆ.',
+  'forums.category.archiveExplained': 'ಯಾವುದೇ ಥ್ರೆಡ್‌ಗಳನ್ನು ಹೊಂದಿಲ್ಲದ ವರ್ಗವನ್ನು ಅಳಿಸಲಾಗುತ್ತದೆ, ಆದರೆ ವಿಷಯವನ್ನು ಹೊಂದಿರುವ ವರ್ಗಗಳು ಹೊಸ ಥ್ರೆಡ್‌ಗಳ ರಚನೆಯನ್ನು ನಿರೋಧಿಸುತ್ತವೆ.',
   'forums.category.reactivate': 'Re-activate category',
   'forums.category.isVotable': 'Allow users to up/down vote threads',
   'forums.category.titleIsGlobal': 'ಈ ವರ್ಗದ ಶೀರ್ಷಿಕೆಯನ್ನು ಬಳಕೆದಾರರ ಭಾಷೆಯಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ ನಮ್ಮ ಬೆಂಬಲವನ್ನು ಪಡೆದರೆ.',
@@ -49,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Only allow access to registered users',
   'forums.settings.accessControls': 'ಪ್ರವೇಶ ನಿಯಂತ್ರಣಗಳು',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'ಈ ಫೋರಮ್ ನೆನಪಿನಿಂದ ಮಾತ್ರ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯ. ದಯವಿಟ್ಟು ನೆನಪಿನಿಂದ ಪ್ರವೇಶಿಸಿ.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'ಈ ಫೋರಮ್ ನೆನಪಿನಿಂದ ಮಾತ್ರ ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯ. ದಯವಿಟ್ಟು ನೆನಪಿನಿಂದ ಪ್ರವೇಶಿಸಿ.',
   'forums.noThreads': 'ಇಲ್ಲಿ ನೋಡಲು ಯಾವುದೇ ವಿಷಯವಿಲ್ಲ. ಮಾತನಾಡಲು ನೀವೇ ಪ್ರಾರಂಭಿಸಬೇಕು.',
   'forums.noPosts': 'ಯಾರೂ ಇನ್ನೂ ಉತ್ತರಿಸಿಲ್ಲ. ಮೊದಲಾದವರಾಗಿರಿ!',
   // Threads
@@ -70,5 +64,5 @@ export default {
     one {ಉತ್ತರ}
     other {ಉತ್ತರಗಳು}
   }`,
-  'forums.thread.createdAt': '{createdAt, date, medium}ನಲ್ಲಿ ರಚಿಸಲಾಗಿದೆ',
-}
+  'forums.thread.createdAt': '{createdAt, date, medium}ನಲ್ಲಿ ರಚಿಸಲಾಗಿದೆ'
+};

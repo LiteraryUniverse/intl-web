@@ -28,7 +28,8 @@ export default {
   'forums.category.isVotable': 'Allow users to up/down vote threads',
   'forums.category.titleIsGlobal':
     "This category title will be displayed in the user's language if we support it.",
-  'forums.category.languageLimited': 'This category will display only to users in this language.',
+  'forums.category.languageLimited':
+    'This category will display only to users in this language.',
   'forums.threadsCounter': 'Total number of topics discussions',
 
   // Pre-defined category names
@@ -56,7 +57,8 @@ export default {
   'forums.forumRestrictionsMessages.usersOnlyForum':
     'This forum is accessible only to registered users.',
 
-  'forums.noThreads': 'Nothing to see here. It is up to you to start conversation.',
+  'forums.noThreads':
+    'Nothing to see here. It is up to you to start conversation.',
   'forums.noPosts': 'No one has replied yet. Be the first!',
 
   // Threads
@@ -76,5 +78,5 @@ export default {
     one {reply}
     other {replies}
   }`,
-  'forums.thread.createdAt': 'Created on {createdAt, date, medium}',
+  'forums.thread.createdAt': 'Created on {createdAt, date, medium}'
 }

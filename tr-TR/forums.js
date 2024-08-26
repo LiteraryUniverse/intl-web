@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Forumu etkinleştir',
   'forums.archive': 'Forumu arşivle',
-  'forums.archive.explained':
-    'Forumun arşivlenmesi, kullanıcıların başka içerik göndermesini engelleyecektir, ancak görüntülenebilir olmaya devam edecektir.',
+  'forums.archive.explained': 'Forumun arşivlenmesi, kullanıcıların başka içerik göndermesini engelleyecektir, ancak görüntülenebilir olmaya devam edecektir.',
   'forums.archive.success': 'Forum arşivlendi',
   'forums.unArchive': 'Forumları yeniden etkinleştir',
   'forums.unArchive.success': 'Forum yeniden etkinleştirildi!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Kategori adı',
   'forums.category.slug': 'SEO url parçası',
   'forums.category.settings': 'Kategori ayarları',
-  'forums.category.language':
-    'Bu kategorinin görüntülenmesini sadece aşağıdaki dilde sınırla. Kategorinin tüm dillerde görüntülenmesini istiyorsanız boş bırakın.',
-  'forums.category.intlNameDescription':
-    'Desteklenen tüm dillerde kategoriye erişilebilmesi için yaygın kategori adlarının yerelleştirilmiş başlıklarını seçebilirsiniz.',
+  'forums.category.language': 'Bu kategorinin görüntülenmesini sadece aşağıdaki dilde sınırla. Kategorinin tüm dillerde görüntülenmesini istiyorsanız boş bırakın.',
+  'forums.category.intlNameDescription': 'Desteklenen tüm dillerde kategoriye erişilebilmesi için yaygın kategori adlarının yerelleştirilmiş başlıklarını seçebilirsiniz.',
   'forums.thread.new': 'Yeni konu',
   'forums.thread.delete': 'Konuyu sil',
   'forums.post.new': 'Yeni gönderi',
-  'forums.archived.forum':
-    'Bu forum {archivedAt, date, long}tarihinde arşivlendi. Forumları hala görüntüleyebilirsiniz, ancak yeni içerik oluşturamazsınız.',
+  'forums.archived.forum': 'Bu forum {archivedAt, date, long}tarihinde arşivlendi. Forumları hala görüntüleyebilirsiniz, ancak yeni içerik oluşturamazsınız.',
   'forums.category.archive': 'Kategoriyi arşivle',
-  'forums.category.archiveExplained':
-    'İçeriği olmayan kategoriler silinecek, içeriği olan kategoriler ise yeni konu oluşturmayı engelleyecektir.',
+  'forums.category.archiveExplained': 'İçeriği olmayan kategoriler silinecek, içeriği olan kategoriler ise yeni konu oluşturmayı engelleyecektir.',
   'forums.category.reactivate': 'Kategoriyi yeniden etkinleştir',
   'forums.category.isVotable': 'Kullanıcılara konuları oy verme izni ver',
-  'forums.category.titleIsGlobal':
-    'Bu kategori başlığı, desteklediğimiz dillerde kullanıcı diline göre görüntülenecektir.',
-  'forums.category.languageLimited':
-    'Bu kategori sadece bu dildeki kullanıcılara görüntülenecektir.',
+  'forums.category.titleIsGlobal': 'Bu kategori başlığı, desteklediğimiz dillerde kullanıcı diline göre görüntülenecektir.',
+  'forums.category.languageLimited': 'Bu kategori sadece bu dildeki kullanıcılara görüntülenecektir.',
   'forums.threadsCounter': 'Toplam konu sayısı',
   // Pre-defined category names
   'forums.category.intlName.general': 'Genel',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Sadece kayıtlı kullanıcılara erişime izin ver',
   'forums.settings.accessControls': 'Erişim kontrolleri',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Bu forum yalnızca kayıtlı kullanıcılara erişilebilir.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Bu forum yalnızca kayıtlı kullanıcılara erişilebilir.',
   'forums.noThreads': 'Burada görülecek bir şey yok. Konuşmayı başlatmak size bağlı.',
   'forums.noPosts': 'Henüz kimse yanıt vermedi. İlk siz olun!',
   // Threads
@@ -72,5 +64,5 @@ export default {
     one {yanıt}
     other {yanıtlar}
   }`,
-  'forums.thread.createdAt': 'Oluşturulma tarihi: {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Oluşturulma tarihi: {createdAt, date, medium}'
+};

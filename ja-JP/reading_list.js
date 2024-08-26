@@ -22,5 +22,5 @@ export default {
     other {物語と宇宙}
   }を追加するためのモーダル。`,
   'readingList.addItem.fromLibrary': 'ライブラリから',
-  'readingList.button.added': '追加されました',
-}
+  'readingList.button.added': '追加されました'
+};

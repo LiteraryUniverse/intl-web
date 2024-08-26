@@ -19,4 +19,8 @@ export default {
   'fanManager.stateChange.unhide': 'फॅन कलात्मक दृश्यमान करा',
   'fanManager.fanFictionNotAllowed': 'तुमचे परवान्यानुसार फॅन कथांची परवानगी नाही.',
   'fanManager.fanFiction.maxRating': 'दाखविलेली फॅन कथा चाचणीची जास्तीत जास्त दर पातळी.',
-}
+  'fanManager.hidden.nothingFound': 'कोणतेही लपविलेले कला प्राप्त नाहीत.',
+  'fanManager.rejected.nothingFound': 'कोणतेही नाकारलेले कला प्राप्त नाहीत.',
+  'fanManager.approved.nothingFound': 'कोणतेही मंजूर केलेले कला प्राप्त नाहीत.',
+  'fanManager.submitted.nothingFound': 'कोणतेही प्रस्तुत केलेले प्रेमी कला सापडले नाहीत.'
+};

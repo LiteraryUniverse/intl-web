@@ -1,39 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'ਇੱਕ ਨਵਾਂ ਬਲਾਗ ਬਣਾਓ',
-  'blog.settings': `{type, select,
+    'blog.create': 'ਇੱਕ ਨਵਾਂ ਬਲਾਗ ਬਣਾਓ',
+    'blog.settings': `{type, select,
     org {ਬਲਾਗ}
     universe {ਯੂਨੀਵਰਸ ਪੰਨਾ}
     user {ਬਲਾਗ}
     other {}
   } ਸੈਟਿੰਗਾਂ`,
-  'blog.description': 'ਬਲਾਗ ਦਾ ਪਰਿਚਯ',
-  'blog.theme': 'ਥੀਮ',
-  'blog.theme.info': 'ਥੀਮ ਨੂੰ ਸੰਰਚਿਤ ਕਰਕੇ ਤੁਸੀਂ ਪੇਜ ਦੀ ਲੋਕ ਬਦਲ ਸਕਦੇ ਹੋ। ਇਹ ਸੁਵਿਧਾ ਇਸ ਸਮੇਂ ਤਿਆਰ ਨਹੀਂ ਹੈ।',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'ਬਲਾਗ ਦਾ ਪਰਿਚਯ',
+    'blog.theme': 'ਥੀਮ',
+    'blog.theme.info': 'ਥੀਮ ਨੂੰ ਸੰਰਚਿਤ ਕਰਕੇ ਤੁਸੀਂ ਪੇਜ ਦੀ ਲੋਕ ਬਦਲ ਸਕਦੇ ਹੋ। ਇਹ ਸੁਵਿਧਾ ਇਸ ਸਮੇਂ ਤਿਆਰ ਨਹੀਂ ਹੈ।',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'ਇੱਕ ਨਵੀਂ ਪੋਸਟ ਬਣਾਓ',
-  'blog.post.update': '{title}ਸੋਧ ਰਹੇ ਹਨ',
-  'blog.post.text': 'ਪੋਸਟ ਟੈਕਸਟ',
-  'common.slug': 'SEO ਯੋਗ ਪ੍ਰਮਾਣਿਕ ਐਡਰੈੱਸ',
-  'blog.slug.explained': 'ਪੋਸਟ ਲਈ ਸੁੰਦਰ URL। ਖਾਸ ਅੱਖਰ ਤੋਂ ਬਾਅਦ ਖਾਸ ਅੱਖਰ ਵਰਤੋਂ ਤੋਂ ਬਚੋ।',
-  'blog.publicView': 'ਜਨਤਕ ਵੇਖਾਓ',
-  'blog.post.notfound': 'ਬਲਾਗ ਪੋਸਟ ਨਹੀਂ ਲੱਭੀ',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'ਇੱਕ ਨਵੀਂ ਪੋਸਟ ਬਣਾਓ',
+    'blog.post.update': '{title}ਸੋਧ ਰਹੇ ਹਨ',
+    'blog.post.text': 'ਪੋਸਟ ਟੈਕਸਟ',
+    'common.slug': 'SEO ਯੋਗ ਪ੍ਰਮਾਣਿਕ ਐਡਰੈੱਸ',
+    'blog.slug.explained': 'ਪੋਸਟ ਲਈ ਸੁੰਦਰ URL। ਖਾਸ ਅੱਖਰ ਤੋਂ ਬਾਅਦ ਖਾਸ ਅੱਖਰ ਵਰਤੋਂ ਤੋਂ ਬਚੋ।',
+    'blog.publicView': 'ਜਨਤਕ ਵੇਖਾਓ',
+    'blog.post.notfound': 'ਬਲਾਗ ਪੋਸਟ ਨਹੀਂ ਲੱਭੀ',
+    'blog.lists.works': `{type, select,
     universes {ਯੂਨੀਵਰਸ}
     stories {ਕਹਾਣੀਆਂ}
     fanfiction {ਫੈਨ ਫਿਕਸ਼ਨ ਕੰਮ}
     other {}
   }`,
-  'blog.social.sameAsMain': `ਸੋਸ਼ਲ ਲਿੰਕ ਮੁੱਖ ਸੈਟਿੰਗਾਂ ਦੇ ਤਰੀਕੇ ਨਾਲ ਸਮਾਨ ਹਨ ਜੋ ਉਪਭੋਗਤਾ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਸੈਟ ਕੀਤੇ ਗਏ ਹਨ {type, select,
+    'blog.social.sameAsMain': `ਸੋਸ਼ਲ ਲਿੰਕ ਮੁੱਖ ਸੈਟਿੰਗਾਂ ਦੇ ਤਰੀਕੇ ਨਾਲ ਸਮਾਨ ਹਨ ਜੋ ਉਪਭੋਗਤਾ ਪ੍ਰੋਫਾਈਲ ਵਿੱਚ ਸੈਟ ਕੀਤੇ ਗਏ ਹਨ {type, select,
     organization {ਸੰਗਠਨ ਸੈਟਿੰਗਾਂ}
     user {ਯੂਜ਼ਰ ਪ੍ਰੋਫਾਈਲ}
     other {}

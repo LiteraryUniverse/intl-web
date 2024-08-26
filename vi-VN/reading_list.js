@@ -22,5 +22,5 @@ export default {
     other {câu chuyện và vũ trụ}
   } vào danh sách đọc.`,
   'readingList.addItem.fromLibrary': 'Từ thư viện',
-  'readingList.button.added': 'Đã thêm',
-}
+  'readingList.button.added': 'Đã thêm'
+};

@@ -1,6 +1,5 @@
 export default {
-  'roadmap.ariaTimeOptions':
-    'Các lựa chọn cho các mục tiêu trong lộ trình dựa trên trạng thái của chúng.',
+  'roadmap.ariaTimeOptions': 'Các lựa chọn cho các mục tiêu trong lộ trình dựa trên trạng thái của chúng.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'Đang tiến hành',
   'roadmap.state.preview': 'Xem trước',
@@ -19,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Chúng tôi đang kế hoạch phát triển tính năng này trong tương lai.',
   'roadmap.item.inProgress': 'Việc phát triển tính năng đã bắt đầu {startedAt, date}.',
   'roadmap.item.inBeta': 'Tính năng này đã vào phiên bản beta vào {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Tính năng này đã sẵn có cho người đăng ký Storyteller vào {previewAt, date}.',
+  'roadmap.item.inPreview': 'Tính năng này đã sẵn có cho người đăng ký Storyteller vào {previewAt, date}.',
   'roadmap.item.inGa': 'Tính năng này đã sẵn có chung cho mọi người vào {gaAt, date}.',
   'roadmap.item.originalIssue': 'Tính năng này ban đầu được đề xuất bởi người dùng.',
   'roadmap.eta.mapTitle': `Được lên kế hoạch cho {quarter, select,
@@ -33,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Hoàn thành vào {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Quay lại lộ trình',
   'roadmap.seeBacklog': 'Xem những gì chúng tôi dự định thực hiện',
-  'roadmap.seeFinished':
-    'Nếu bạn muốn tìm hiểu thêm về lịch sử của chúng tôi, chúng tôi có một tổng quan thú vị sẵn sàng cho bạn',
+  'roadmap.seeFinished': 'Nếu bạn muốn tìm hiểu thêm về lịch sử của chúng tôi, chúng tôi có một tổng quan thú vị sẵn sàng cho bạn',
   'roadmap.planned': 'Được lên kế hoạch',
-  'roadmap.finished': 'Đã hoàn thành',
-}
+  'roadmap.finished': 'Đã hoàn thành'
+};

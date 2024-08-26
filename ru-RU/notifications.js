@@ -4,8 +4,7 @@ export default {
   'flashnews.startsAt': 'Запустить отображение этого сообщения',
   'flashnews.endsAt': 'Остановить отображение этого сообщения',
   'flashnews.newLanguage': 'Выберите новый язык для добавления',
-  'flashnews.onlyDisplayOn':
-    'Новости будут отображаться только на выбранных ниже языках (если они выбраны), на других языках новости, даже на языке по умолчанию, отображаться не будут.',
+  'flashnews.onlyDisplayOn': 'Новости будут отображаться только на выбранных ниже языках (если они выбраны), на других языках новости, даже на языке по умолчанию, отображаться не будут.',
   'notifications.menu.all': 'Все уведомления',
   'notifications.menu.following': 'Отслеживания',
   'notifications.menu.workshop': 'Мастерская',
@@ -14,10 +13,8 @@ export default {
   'notifications.menu.markRead': 'Пометить как прочитанное',
   'notifications.menu.delete': 'Удалить уведомление',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus':
-    'Ваша история "{storyName}" была автоматически переведена в состояние приостановленой после 6 месяцев неактивности.',
-  'notification.workshopStoryStatus.toCancelled':
-    'Ваша история "{storyName}" была автоматически переведена в состояние отменённых после одного года неактивности.',
+  'notification.workshopStoryStatus.toHiatus': 'Ваша история "{storyName}" была автоматически переведена в состояние приостановленой после 6 месяцев неактивности.',
+  'notification.workshopStoryStatus.toCancelled': 'Ваша история "{storyName}" была автоматически переведена в состояние отменённых после одного года неактивности.',
   'notification.followingStoryStatus.toHiatus': '{storyName} — приостановлена.',
   'notification.followingStoryStatus.toCancelled': '{storyName} — отменена.',
   'notification.followingNewChapter.new': 'Опубликована новая глава в "{storyName}"!',
@@ -26,5 +23,5 @@ export default {
   'notification.friendRequest': 'отправляет вам запрос на добавление в друзья.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Перейти к истории',
-}
+  'notificationExtra.workshopStoryStatus.goToStory': 'Перейти к истории'
+};

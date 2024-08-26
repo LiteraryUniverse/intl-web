@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `ამჟამად თქვენ არ გაქვს {type, select,
+    'blog.noneMsg': `ამჟამად თქვენ არ გაქვს {type, select,
     organization {არცერთი ბლოგი}
     universe {სამაგიდოსთვის}
     user {ბლოგი}
     other {}
   }.`,
-  'blog.create': 'ახალი ბლოგის შექმნა',
-  'blog.settings': `{type, select,
+    'blog.create': 'ახალი ბლოგის შექმნა',
+    'blog.settings': `{type, select,
     org {ბლოგის}
     universe {უნივერსის გვერდი}
     user {ბლოგის}
     other {}
   } პარამეტრები`,
-  'blog.description': 'ბლოგის შესავალი',
-  'blog.theme': 'თემა',
-  'blog.theme.info':
-    'თქვენ შეიძლებათ გაავრცელოთ გვერდის გარეგულება, თქვენი ბლოგის სარგემოს შეცვლა. ეს ფუნქცია არ არის მზად მარტივად.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'ბლოგის შესავალი',
+    'blog.theme': 'თემა',
+    'blog.theme.info': 'თქვენ შეიძლებათ გაავრცელოთ გვერდის გარეგულება, თქვენი ბლოგის სარგემოს შეცვლა. ეს ფუნქცია არ არის მზად მარტივად.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'ახალი პოსტის შექმნა',
-  'blog.post.update': 'პოსტის რედაქტირება {title}',
-  'blog.post.text': 'პოსტის ტექსტი',
-  'common.slug': 'SEO მეგობრებული ბმული',
-  'blog.slug.explained': 'მინიმუმუმ სპეციალურ სიმბოლოებს, "-" გამოისყიდე',
-  'blog.publicView': 'საჯარო ხედვა',
-  'blog.post.notfound': 'ბლოგის პოსტი ვერ მოიძებნა',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'ახალი პოსტის შექმნა',
+    'blog.post.update': 'პოსტის რედაქტირება {title}',
+    'blog.post.text': 'პოსტის ტექსტი',
+    'common.slug': 'SEO მეგობრებული ბმული',
+    'blog.slug.explained': 'მინიმუმუმ სპეციალურ სიმბოლოებს, "-" გამოისყიდე',
+    'blog.publicView': 'საჯარო ხედვა',
+    'blog.post.notfound': 'ბლოგის პოსტი ვერ მოიძებნა',
+    'blog.lists.works': `{type, select,
     universes {უნივერსები}
     stories {მოთხოვნები}
     fanfiction {ფან ფიქშენი}
     other {}
   }`,
-  'blog.social.sameAsMain': `სოციალური ბმულები იგივეა, როგორც {type, select,
+    'blog.social.sameAsMain': `სოციალური ბმულები იგივეა, როგორც {type, select,
     organization {ორგანიზაციის პარამეტრების შეცვლაში}
     user {მომხმარებლის პროფილში}
     other {}

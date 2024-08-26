@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Ni planas evoluigi ĉi tiun funkcion en la estonteco.',
   'roadmap.item.inProgress': 'La evoluo de la funkcio komenciĝis {startedAt, date}.',
   'roadmap.item.inBeta': 'Ĉi tiu funkcio eniris betan je {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Ĉi tiu funkcio fariĝis havebla por abonantoj de la Rakontisto je {previewAt, date}.',
+  'roadmap.item.inPreview': 'Ĉi tiu funkcio fariĝis havebla por abonantoj de la Rakontisto je {previewAt, date}.',
   'roadmap.item.inGa': 'Ĉi tiu funkcio fariĝis havebla ĝenerale je {gaAt, date}.',
   'roadmap.item.originalIssue': 'Ĉi tiu funkcio estis origine proponita de niaj uzantoj.',
   'roadmap.eta.mapTitle': `Planita por {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Finis je {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Reen al la vojmapo',
   'roadmap.seeBacklog': 'Vidu kion aliajn aferojn ni planas fari',
-  'roadmap.seeFinished':
-    'Se vi ŝatas pli enprofundiĝi en nian historion, ni havas belan superrigardon pretan por vi',
+  'roadmap.seeFinished': 'Se vi ŝatas pli enprofundiĝi en nian historion, ni havas belan superrigardon pretan por vi',
   'roadmap.planned': 'Planita',
-  'roadmap.finished': 'Finis',
-}
+  'roadmap.finished': 'Finis'
+};

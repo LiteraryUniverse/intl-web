@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Avvisad',
   'fanManager.state.hidden': 'Dold',
   'fanManager.publicComment': 'Offentlig kommentar',
-  'fanManager.publicComment.desc':
-    'Denna text kommer att visas på den offentliga sidan som din officiella kommentar till denna konst.',
+  'fanManager.publicComment.desc': 'Denna text kommer att visas på den offentliga sidan som din officiella kommentar till denna konst.',
   'fanManager.authorComment': 'Kommentar till författaren',
-  'fanManager.authorComment.desc':
-    'Detta är en privat kommentar från dig till författaren av denna konst.',
+  'fanManager.authorComment.desc': 'Detta är en privat kommentar från dig till författaren av denna konst.',
   'fanManager.stateChange.approve': 'Godkänn fan art',
   'fanManager.stateChange.reject': 'Avvisa fan art',
   'fanManager.stateChange.hide': 'Dölj fan art',
   'fanManager.stateChange.unhide': 'Gör fan art synlig',
   'fanManager.fanFictionNotAllowed': 'Fan fiction är inte tillåtet enligt din licens.',
   'fanManager.fanFiction.maxRating': 'Högsta betyg för visad fan fiction.',
-}
+  'fanManager.hidden.nothingFound': 'Inga dolda fan arts hittades.',
+  'fanManager.rejected.nothingFound': 'Inga avvisade fan arts hittades.',
+  'fanManager.approved.nothingFound': 'Inga godkända fan arts hittades.',
+  'fanManager.submitted.nothingFound': 'Inga inskickade fan arts hittades.'
+};

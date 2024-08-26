@@ -1,5 +1,5 @@
 export default {
-  'courses.courses': 'Courses',
+  'courses.courses': 'Курсы',
   'courses.overview': 'Обзор курсов',
   'course.create': 'Создать новый курс',
 };

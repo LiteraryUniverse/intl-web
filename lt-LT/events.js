@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Daugiau informacijos',
   'event.visibilityShort.private': 'Privatus',
   'event.visibilityShort.public': 'Viešas',
-  'event.visibilityShort.owner': 'Savininkas',
-}
+  'event.visibilityShort.owner': 'Savininkas'
+};

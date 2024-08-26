@@ -22,5 +22,5 @@ export default {
     other {istorijas ir visatas}
   } į skaitymo sąrašą.`,
   'readingList.addItem.fromLibrary': 'Iš bibliotekos',
-  'readingList.button.added': 'Pridėta',
-}
+  'readingList.button.added': 'Pridėta'
+};

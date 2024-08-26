@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `Şu anda {type, select,
+    'blog.noneMsg': `Şu anda {type, select,
     organization {blogunuz yok}
     universe {evreniniz için bir blog}
     user {bir blog}
     other {}
   }.`,
-  'blog.create': 'Yeni bir blog oluştur',
-  'blog.settings': `{type, select,
+    'blog.create': 'Yeni bir blog oluştur',
+    'blog.settings': `{type, select,
     org {Blog}
     universe {Evren sayfası}
     user {Blog}
     other {}
   } ayarları`,
-  'blog.description': 'Blog tanıtımı',
-  'blog.theme': 'Tema',
-  'blog.theme.info':
-    'Sayfanın görünümünü değiştirmek için tema ayarlarını düzenleyebilirsiniz. Bu özellik şu anda kullanıma hazır değil.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Blog tanıtımı',
+    'blog.theme': 'Tema',
+    'blog.theme.info': 'Sayfanın görünümünü değiştirmek için tema ayarlarını düzenleyebilirsiniz. Bu özellik şu anda kullanıma hazır değil.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Yeni bir gönderi oluştur',
-  'blog.post.update': '{title}düzenleniyor',
-  'blog.post.text': 'Gönderi metni',
-  'common.slug': 'SEO dostu adres',
-  'blog.slug.explained':
-    'Gönderi için hoş görünümlü bir URL. "-" harici özel karakterler kullanmaktan kaçının.',
-  'blog.publicView': 'Halka açık görünüm',
-  'blog.post.notfound': 'Blog gönderisi bulunamadı',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Yeni bir gönderi oluştur',
+    'blog.post.update': '{title}düzenleniyor',
+    'blog.post.text': 'Gönderi metni',
+    'common.slug': 'SEO dostu adres',
+    'blog.slug.explained': 'Gönderi için hoş görünümlü bir URL. "-" harici özel karakterler kullanmaktan kaçının.',
+    'blog.publicView': 'Halka açık görünüm',
+    'blog.post.notfound': 'Blog gönderisi bulunamadı',
+    'blog.lists.works': `{type, select,
     universes {Evrenler}
     stories {Hikayeler}
     fanfiction {Hayran Kurgu çalışması}
     other {}
   }`,
-  'blog.social.sameAsMain': `Sosyal bağlantılar {type, select,
+    'blog.social.sameAsMain': `Sosyal bağlantılar {type, select,
     organization {kuruluş ayarları}
     user {kullanıcı profiliyle aynıdır}
     other {}

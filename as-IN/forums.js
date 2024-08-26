@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'ফোরাম সক্রিয় কৰক',
   'forums.archive': 'ফোরাম সংগ্ৰহীত কৰক',
-  'forums.archive.explained':
-    'ফোৰাম আৰ্কাইভ কৰিব পৰা হয়। ইয়াত আগবঢ় কোনো সমল পষ্ট কৰিব নোৱাৰিব, তবে এইটো দৰ্শনীয় থাকিব।',
+  'forums.archive.explained': 'ফোৰাম আৰ্কাইভ কৰিব পৰা হয়। ইয়াত আগবঢ় কোনো সমল পষ্ট কৰিব নোৱাৰিব, তবে এইটো দৰ্শনীয় থাকিব।',
   'forums.archive.success': 'ফোৰাম আৰ্কাইভ হৈছে',
   'forums.unArchive': 'ফোৰামবোৰ পুনৰ্সক্ৰিয়ায়ন কৰক',
   'forums.unArchive.success': 'ফোৰামটো পুনৰ্সক্ৰিয়ায়ন হৈছে!',
@@ -12,22 +11,17 @@ export default {
   'forums.category.name': 'শ্ৰেণীৰ নাম',
   'forums.category.slug': 'SEO URL অংশ',
   'forums.category.settings': 'শ্ৰেণী ছেটিংস',
-  'forums.category.language':
-    'এই শ্ৰেণীৰ প্ৰদৰ্শন সীমিত কৰক নীচে উল্লেখ কৰা ভাষাত। যদি আপুনি সকলো ভাষাত শ্ৰেণীটো প্ৰদৰ্শন কৰিব বিচাৰে তেন্তে খালী ছেড়ে দিন।',
-  'forums.category.intlNameDescription':
-    'আমি আপোনালৈ সমৰ্থিত সকলো ভাষাত উপলব্ধ সাধাৰণ শ্ৰেণীৰ শিৰোনামা লোকলাইজ কৰি দিছো, যাতে সকলো সমৰ্থিত ভাষাত এই শ্ৰেণী উপলব্ধ হয়।',
+  'forums.category.language': 'এই শ্ৰেণীৰ প্ৰদৰ্শন সীমিত কৰক নীচে উল্লেখ কৰা ভাষাত। যদি আপুনি সকলো ভাষাত শ্ৰেণীটো প্ৰদৰ্শন কৰিব বিচাৰে তেন্তে খালী ছেড়ে দিন।',
+  'forums.category.intlNameDescription': 'আমি আপোনালৈ সমৰ্থিত সকলো ভাষাত উপলব্ধ সাধাৰণ শ্ৰেণীৰ শিৰোনামা লোকলাইজ কৰি দিছো, যাতে সকলো সমৰ্থিত ভাষাত এই শ্ৰেণী উপলব্ধ হয়।',
   'forums.thread.new': 'নতুন থ্ৰেড',
   'forums.thread.delete': 'থ্ৰেড বিলোপ কৰক',
   'forums.post.new': 'নতুন পোষ্ট',
-  'forums.archived.forum':
-    'এই ফোৰামটো {archivedAt, date, long}তাৰিখত আৰ্কাইভ হৈছে। আপুনি এতিয়ালৈকে ফোৰামটো চাওক পাৰিব, তবে আপুনি নতুন সমল সৃষ্টি কৰিব নোৱাৰিব।',
+  'forums.archived.forum': 'এই ফোৰামটো {archivedAt, date, long}তাৰিখত আৰ্কাইভ হৈছে। আপুনি এতিয়ালৈকে ফোৰামটো চাওক পাৰিব, তবে আপুনি নতুন সমল সৃষ্টি কৰিব নোৱাৰিব।',
   'forums.category.archive': 'শ্ৰেণী আৰ্কাইভ কৰক',
-  'forums.category.archiveExplained':
-    'কেটেগৰী যি কোনো থ্ৰেড নাই থাকে, সেইটো মচি যাব আৰু সমলৰ সহিত থ্ৰেড সৃষ্টি কৰিব বন্ধ কৰিব।',
+  'forums.category.archiveExplained': 'কেটেগৰী যি কোনো থ্ৰেড নাই থাকে, সেইটো মচি যাব আৰু সমলৰ সহিত থ্ৰেড সৃষ্টি কৰিব বন্ধ কৰিব।',
   'forums.category.reactivate': 'শ্ৰেণী পুনৰ্সক্ৰিয়ায়ন কৰক',
   'forums.category.isVotable': 'ব্যৱহাৰকাৰীসকলক থ্ৰেডসমূহ উপ/ডাউন ভোট দিয়ক',
-  'forums.category.titleIsGlobal':
-    'যদি আমি এই কেটেগৰীৰ ভাষা সমৰ্থন কৰি থাকো, তেন্তে এই কেটেগৰীৰ শিৰোনামা ব্যৱহাৰকাৰীৰ ভাষাত প্ৰদৰ্শিত হব।',
+  'forums.category.titleIsGlobal': 'যদি আমি এই কেটেগৰীৰ ভাষা সমৰ্থন কৰি থাকো, তেন্তে এই কেটেগৰীৰ শিৰোনামা ব্যৱহাৰকাৰীৰ ভাষাত প্ৰদৰ্শিত হব।',
   'forums.category.languageLimited': 'এই কেটেগৰীটো কেৱলমাত্ৰ এই ভাষাত ব্যৱহাৰকাৰীসকলৰ পৰা চাবলৈ প্ৰদৰ্শিত হব।',
   'forums.threadsCounter': 'মূল্যায়ন কৰা বিষয়সমূহৰ মুঠ সংখ্যা',
   // Pre-defined category names
@@ -50,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'কেৱল নিবন্ধিত ব্যৱহাৰকাৰীসকলৰ প্ৰবেশ দিয়ক',
   'forums.settings.accessControls': 'অ্যাক্সেস নিয়ন্ত্রণসমূহ',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'এই ফোৰামটো কেৱল নিবন্ধিত ব্যৱহাৰকাৰীসকলৰ বাবে প্ৰৱেশযোগ্য।',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'এই ফোৰামটো কেৱল নিবন্ধিত ব্যৱহাৰকাৰীসকলৰ বাবে প্ৰৱেশযোগ্য।',
   'forums.noThreads': 'ইয়াত কিছুমান নাই। কোনো কথাৰ আৰম্ভ কৰিবলৈ আপুনি স্বীকৃতি দিব লাগিব।',
   'forums.noPosts': 'এতিয়ালৈ কোনোবা উত্তৰ দিয়া হোৱা নাই। প্ৰথম হৈ অহা হয়তে পাৰি!',
   // Threads
@@ -71,5 +64,5 @@ export default {
     one {উত্তৰ}
     other {উত্তৰ}
   }`,
-  'forums.thread.createdAt': '{createdAt, date, medium}তৈয়াৰ কৰা',
-}
+  'forums.thread.createdAt': '{createdAt, date, medium}তৈয়াৰ কৰা'
+};

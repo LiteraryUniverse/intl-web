@@ -4,8 +4,7 @@ export default {
   'flashnews.startsAt': 'Inizia a visualizzare questo messaggio alle',
   'flashnews.endsAt': 'Smetti di visualizzare questo messaggio alle',
   'flashnews.newLanguage': 'Seleziona una nuova lingua da aggiungere',
-  'flashnews.onlyDisplayOn':
-    'La notizia sarà visualizzata solo nelle lingue selezionate sottostanti (se ne sono state selezionate), non verranno mostrate notizie, nemmeno nella lingua predefinita, in altre lingue.',
+  'flashnews.onlyDisplayOn': 'La notizia sarà visualizzata solo nelle lingue selezionate sottostanti (se ne sono state selezionate), non verranno mostrate notizie, nemmeno nella lingua predefinita, in altre lingue.',
   'notifications.menu.all': 'Tutte le notifiche',
   'notifications.menu.following': 'Seguenti',
   'notifications.menu.workshop': 'Laboratorio',
@@ -14,10 +13,8 @@ export default {
   'notifications.menu.markRead': 'Contrassegna come letto',
   'notifications.menu.delete': 'Elimina notifica',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus':
-    'La tua storia {storyName} è stata automaticamente impostata su sospensione dopo 6 mesi di inattività.',
-  'notification.workshopStoryStatus.toCancelled':
-    'La tua storia {storyName} è stata automaticamente impostata su cancellata dopo un anno di inattività.',
+  'notification.workshopStoryStatus.toHiatus': 'La tua storia {storyName} è stata automaticamente impostata su sospensione dopo 6 mesi di inattività.',
+  'notification.workshopStoryStatus.toCancelled': 'La tua storia {storyName} è stata automaticamente impostata su cancellata dopo un anno di inattività.',
   'notification.followingStoryStatus.toHiatus': '{storyName} è in sospensione.',
   'notification.followingStoryStatus.toCancelled': '{storyName} è stato cancellato.',
   'notification.followingNewChapter.new': 'Nuovo capitolo in {storyName} pubblicato!',
@@ -26,5 +23,5 @@ export default {
   'notification.friendRequest': 'ti ha inviato una richiesta di amicizia.',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'Vai alla storia',
-}
+  'notificationExtra.workshopStoryStatus.goToStory': 'Vai alla storia'
+};

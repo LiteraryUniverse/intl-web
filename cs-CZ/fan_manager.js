@@ -10,15 +10,17 @@ export default {
   'fanManager.state.rejected': 'Odmítnuté',
   'fanManager.state.hidden': 'Skryté',
   'fanManager.publicComment': 'Veřejný komentář',
-  'fanManager.publicComment.desc':
-    'Tento text se zobrazí na veřejné stránce jako váš oficiální komentář k tomuto obrázku.',
+  'fanManager.publicComment.desc': 'Tento text se zobrazí na veřejné stránce jako váš oficiální komentář k tomuto obrázku.',
   'fanManager.authorComment': 'Komentář pro autora',
-  'fanManager.authorComment.desc':
-    'Toto je váš soukromý komentář k autorovi tohoto fanouškovského obrázku.',
+  'fanManager.authorComment.desc': 'Toto je váš soukromý komentář k autorovi tohoto fanouškovského obrázku.',
   'fanManager.stateChange.approve': 'Schválit fan art',
   'fanManager.stateChange.reject': 'Odmítnout fan art',
   'fanManager.stateChange.hide': 'Skrýt fan art',
   'fanManager.stateChange.unhide': 'Zviditelnit fan art',
   'fanManager.fanFictionNotAllowed': 'Fan fiction není povolena povahou Vaší licence.',
   'fanManager.fanFiction.maxRating': 'Maximální hodnocení zobrazené fanouškovské fikce.',
-}
+  'fanManager.hidden.nothingFound': 'Nebyly nalezeny žádné skryté fanouškovské výtvarné práce.',
+  'fanManager.rejected.nothingFound': 'Nebyly nalezeny žádné zamítnuté fanouškovské výtvarné práce.',
+  'fanManager.approved.nothingFound': 'Nebyly nalezeny žádné schválené fanouškovské výtvarné práce.',
+  'fanManager.submitted.nothingFound': 'Nebyly nalezeny žádné odeslané fanouškovské umění.'
+};

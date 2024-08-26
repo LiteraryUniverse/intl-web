@@ -22,5 +22,5 @@ export default {
     other {historias y universos}
   } a la lista de lectura.`,
   'readingList.addItem.fromLibrary': 'Desde la biblioteca',
-  'readingList.button.added': 'Añadido',
-}
+  'readingList.button.added': 'Añadido'
+};

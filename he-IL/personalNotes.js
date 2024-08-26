@@ -22,5 +22,5 @@ export default {
   'personalNotes.type.encEntry': 'ערך באנציקלופדיה',
   'personalNotes.type.revTextBlock': 'מקטע טקסט לתיקון',
   'personalNotes.chapter': 'פרק',
-  'personalNotes.recentSearches': 'חיפושים אחרונים:',
-}
+  'personalNotes.recentSearches': 'חיפושים אחרונים:'
+};

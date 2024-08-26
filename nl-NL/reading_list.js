@@ -22,5 +22,5 @@ export default {
     other {verhalen en universums}
   } toe te voegen aan de leeslijst.`,
   'readingList.addItem.fromLibrary': 'Uit bibliotheek',
-  'readingList.button.added': 'Toegevoegd',
-}
+  'readingList.button.added': 'Toegevoegd'
+};

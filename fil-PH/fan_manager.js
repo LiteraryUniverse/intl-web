@@ -10,17 +10,17 @@ export default {
   'fanManager.state.rejected': 'Tinanggihan',
   'fanManager.state.hidden': 'Nakatago',
   'fanManager.publicComment': 'Pampublikong komento',
-  'fanManager.publicComment.desc':
-    'Ipapakita ang teksto na ito sa pampublikong pahina bilang opisyal na komento mo sa sining na ito.',
+  'fanManager.publicComment.desc': 'Ipapakita ang teksto na ito sa pampublikong pahina bilang opisyal na komento mo sa sining na ito.',
   'fanManager.authorComment': 'Komento para sa may-akda',
-  'fanManager.authorComment.desc':
-    'Ito ay isang pribadong komento mula sa iyo patungo sa may-akda ng sining na ito.',
+  'fanManager.authorComment.desc': 'Ito ay isang pribadong komento mula sa iyo patungo sa may-akda ng sining na ito.',
   'fanManager.stateChange.approve': 'Aprubahan ang sining ng mga tagahanga',
   'fanManager.stateChange.reject': 'Tanggihan ang sining ng mga tagahanga',
   'fanManager.stateChange.hide': 'Itago ang sining ng mga tagahanga',
   'fanManager.stateChange.unhide': 'Gawing nakikita ang sining ng mga tagahanga',
-  'fanManager.fanFictionNotAllowed':
-    'Hindi pinapahintulutan ang mga kuwento ng mga tagahanga sa pamamagitan ng kalikasan ng iyong lisensya.',
-  'fanManager.fanFiction.maxRating':
-    'Pinakamataas na rating ng ipinamamalas na mga kuwento ng mga tagahanga.',
-}
+  'fanManager.fanFictionNotAllowed': 'Hindi pinapahintulutan ang mga kuwento ng mga tagahanga sa pamamagitan ng kalikasan ng iyong lisensya.',
+  'fanManager.fanFiction.maxRating': 'Pinakamataas na rating ng ipinamamalas na mga kuwento ng mga tagahanga.',
+  'fanManager.hidden.nothingFound': 'Wala kang natagpuang mga nagtatagong fan arts.',
+  'fanManager.rejected.nothingFound': 'Wala kang natagpuang mga tinanggihang fan arts.',
+  'fanManager.approved.nothingFound': 'Wala kang natagpuang mga naaprubahang fan arts.',
+  'fanManager.submitted.nothingFound': 'Walang mga naipasang likhang sining ng mga fan.'
+};

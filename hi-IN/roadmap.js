@@ -31,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': '{time, date, ::MMMM ::yyyy}में समाप्त हुआ',
   'roadmap.back': 'रोडमैप पर वापस जाएं',
   'roadmap.seeBacklog': 'देखें कि हम क्या-क्या करने की योजना बना रहे हैं',
-  'roadmap.seeFinished':
-    'यदि आप हमारे इतिहास में और गहराई तक जानना चाहते हैं, तो हमारे पास एक अच्छी अवलोकन तैयार है',
+  'roadmap.seeFinished': 'यदि आप हमारे इतिहास में और गहराई तक जानना चाहते हैं, तो हमारे पास एक अच्छी अवलोकन तैयार है',
   'roadmap.planned': 'योजित',
-  'roadmap.finished': 'समाप्त',
-}
+  'roadmap.finished': 'समाप्त'
+};

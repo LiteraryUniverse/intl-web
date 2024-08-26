@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Aktiver forum',
   'forums.archive': 'Arkiver forum',
-  'forums.archive.explained':
-    'Arkivering av forumet vil forhindre brukere fra å legge ut mer innhold, men det vil fortsatt være synlig.',
+  'forums.archive.explained': 'Arkivering av forumet vil forhindre brukere fra å legge ut mer innhold, men det vil fortsatt være synlig.',
   'forums.archive.success': 'Forumet har blitt arkivert',
   'forums.unArchive': 'Gjenopprett forum',
   'forums.unArchive.success': 'Forumet har blitt gjenopprettet!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Kategorinavn',
   'forums.category.slug': 'SEO URL-del',
   'forums.category.settings': 'Kategoriinnstillinger',
-  'forums.category.language':
-    'Begrens visning av denne kategorien til følgende språk. La være tomt hvis du vil vise kategorien på alle språk.',
-  'forums.category.intlNameDescription':
-    'Vi har lokaliserende titler for vanlige kategorinavn for ditt valg, slik at kategorien kan være tilgjengelig på alle støttede språk.',
+  'forums.category.language': 'Begrens visning av denne kategorien til følgende språk. La være tomt hvis du vil vise kategorien på alle språk.',
+  'forums.category.intlNameDescription': 'Vi har lokaliserende titler for vanlige kategorinavn for ditt valg, slik at kategorien kan være tilgjengelig på alle støttede språk.',
   'forums.thread.new': 'Ny tråd',
   'forums.thread.delete': 'Slett tråd',
   'forums.post.new': 'Ny post',
-  'forums.archived.forum':
-    'Dette forumet har blitt arkivert på {archivedAt, date, long}. Du kan fortsatt se forumet, men du kan ikke lenger opprette nytt innhold.',
+  'forums.archived.forum': 'Dette forumet har blitt arkivert på {archivedAt, date, long}. Du kan fortsatt se forumet, men du kan ikke lenger opprette nytt innhold.',
   'forums.category.archive': 'Arkiver kategori',
-  'forums.category.archiveExplained':
-    'Kategorier uten tråder vil bli slettet, mens kategorier med innhold vil forhindre opprettelse av nye tråder.',
+  'forums.category.archiveExplained': 'Kategorier uten tråder vil bli slettet, mens kategorier med innhold vil forhindre opprettelse av nye tråder.',
   'forums.category.reactivate': 'Gjenopprett kategori',
   'forums.category.isVotable': 'Tillat brukere å stemme opp/ned tråder',
-  'forums.category.titleIsGlobal':
-    'Denne kategoritittelen vil bli vist på brukerens språk hvis vi støtter det.',
-  'forums.category.languageLimited':
-    'Denne kategorien vil bare bli vist for brukere i dette språket.',
+  'forums.category.titleIsGlobal': 'Denne kategoritittelen vil bli vist på brukerens språk hvis vi støtter det.',
+  'forums.category.languageLimited': 'Denne kategorien vil bare bli vist for brukere i dette språket.',
   'forums.threadsCounter': 'Totalt antall tråder',
   // Pre-defined category names
   'forums.category.intlName.general': 'Generelt',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Tillat kun tilgang for registrerte brukere',
   'forums.settings.accessControls': 'Tilgangskontroller',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Dette forumet er kun tilgjengelig for registrerte brukere.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Dette forumet er kun tilgjengelig for registrerte brukere.',
   'forums.noThreads': 'Ingenting å se her. Det er opp til deg å starte samtalen.',
   'forums.noPosts': 'Ingen har svart ennå. Vær den første!',
   // Threads
@@ -72,5 +64,5 @@ export default {
     one {svar}
     other {svar}
   }`,
-  'forums.thread.createdAt': 'Opprettet den {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Opprettet den {createdAt, date, medium}'
+};

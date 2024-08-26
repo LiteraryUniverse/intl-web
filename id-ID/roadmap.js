@@ -18,8 +18,7 @@ export default {
   'roadmap.item.inBacklog': 'Kami berencana untuk mengembangkan fitur ini di masa depan.',
   'roadmap.item.inProgress': 'Pengembangan fitur ini telah dimulai pada {startedAt, date}.',
   'roadmap.item.inBeta': 'Fitur ini telah memasuki beta pada {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'Fitur ini telah tersedia untuk pelanggan Storyteller pada {previewAt, date}.',
+  'roadmap.item.inPreview': 'Fitur ini telah tersedia untuk pelanggan Storyteller pada {previewAt, date}.',
   'roadmap.item.inGa': 'Fitur ini telah tersedia secara umum pada {gaAt, date}.',
   'roadmap.item.originalIssue': 'Fitur ini awalnya diusulkan oleh pengguna kami.',
   'roadmap.eta.mapTitle': `Direncanakan untuk {quarter, select,
@@ -32,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Selesai pada {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Kembali ke roadmap',
   'roadmap.seeBacklog': 'Lihat apa yang kami rencanakan untuk dilakukan',
-  'roadmap.seeFinished':
-    'Jika Anda ingin mengetahui lebih banyak tentang sejarah kami, kami memiliki gambaran yang bagus untuk Anda',
+  'roadmap.seeFinished': 'Jika Anda ingin mengetahui lebih banyak tentang sejarah kami, kami memiliki gambaran yang bagus untuk Anda',
   'roadmap.planned': 'Direncanakan',
-  'roadmap.finished': 'Selesai',
-}
+  'roadmap.finished': 'Selesai'
+};

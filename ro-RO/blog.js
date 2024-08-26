@@ -1,41 +1,39 @@
 export default {
-  'blog.noneMsg': `You currently don't have {type, select,
+    'blog.noneMsg': `You currently don't have {type, select,
     organization {any blog}
     universe {a blog for your universe}
     user {a blog}
     other {}
   }.`,
-  'blog.create': 'Creați un blog nou',
-  'blog.settings': `Setări blog {type, select,
+    'blog.create': 'Creați un blog nou',
+    'blog.settings': `Setări blog {type, select,
     org {Pagina univers}
     universe {Setări blog}
     user {}
     other {}
   }`,
-  'blog.description': 'Introducere în blog',
-  'blog.theme': 'Tematică',
-  'blog.theme.info':
-    'Ajustând tema, veți putea schimba aspectul paginii. Această funcționalitate nu este disponibilă în acest moment.',
-  'blog.posts.total': `There {total, plural,
+    'blog.description': 'Introducere în blog',
+    'blog.theme': 'Tematică',
+    'blog.theme.info': 'Ajustând tema, veți putea schimba aspectul paginii. Această funcționalitate nu este disponibilă în acest moment.',
+    'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Creați o postare nouă',
-  'blog.post.update': 'Editarea postării {title}',
-  'blog.post.text': 'Textul postării',
-  'common.slug': 'Adresă amicală pentru SEO',
-  'blog.slug.explained':
-    'Adresă URL frumoasă pentru postare. Evitați utilizarea de caractere speciale, cu excepția "-".',
-  'blog.publicView': 'Vizualizare publică',
-  'blog.post.notfound': 'Postarea blogului nu a fost găsită',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'Creați o postare nouă',
+    'blog.post.update': 'Editarea postării {title}',
+    'blog.post.text': 'Textul postării',
+    'common.slug': 'Adresă amicală pentru SEO',
+    'blog.slug.explained': 'Adresă URL frumoasă pentru postare. Evitați utilizarea de caractere speciale, cu excepția "-".',
+    'blog.publicView': 'Vizualizare publică',
+    'blog.post.notfound': 'Postarea blogului nu a fost găsită',
+    'blog.lists.works': `{type, select,
     universes {Universuri}
     stories {Povestiri}
     fanfiction {Lucrare Fan Fiction}
     other {}
   }`,
-  'blog.social.sameAsMain': `Linkurile sociale sunt aceleași ca cele setate în {type, select,
+    'blog.social.sameAsMain': `Linkurile sociale sunt aceleași ca cele setate în {type, select,
     organization {setările organizației}
     user {profilul utilizatorului}
     other {}

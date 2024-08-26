@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Ativar fórum',
   'forums.archive': 'Arquivar fórum',
-  'forums.archive.explained':
-    'Arquivar o fórum impedirá que os usuários publiquem mais conteúdo, mas ele permanecerá visível.',
+  'forums.archive.explained': 'Arquivar o fórum impedirá que os usuários publiquem mais conteúdo, mas ele permanecerá visível.',
   'forums.archive.success': 'O fórum foi arquivado',
   'forums.unArchive': 'Reativar fóruns',
   'forums.unArchive.success': 'O fórum foi reativado!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Nome da categoria',
   'forums.category.slug': 'Parte da URL SEO',
   'forums.category.settings': 'Configurações da categoria',
-  'forums.category.language':
-    'Limitar a exibição desta categoria para o seguinte idioma. Deixe em branco se desejar exibir a categoria em todos os idiomas.',
-  'forums.category.intlNameDescription':
-    'Temos títulos localizados de nomes comuns de categorias para sua seleção, para que a categoria possa estar disponível em todos os idiomas suportados.',
+  'forums.category.language': 'Limitar a exibição desta categoria para o seguinte idioma. Deixe em branco se desejar exibir a categoria em todos os idiomas.',
+  'forums.category.intlNameDescription': 'Temos títulos localizados de nomes comuns de categorias para sua seleção, para que a categoria possa estar disponível em todos os idiomas suportados.',
   'forums.thread.new': 'Nova discussão',
   'forums.thread.delete': 'Excluir discussão',
   'forums.post.new': 'Novos postos',
-  'forums.archived.forum':
-    'Este fórum foi arquivado em {archivedAt, date, long}. Você ainda pode visualizar os fóruns, mas não pode mais criar novo conteúdo.',
+  'forums.archived.forum': 'Este fórum foi arquivado em {archivedAt, date, long}. Você ainda pode visualizar os fóruns, mas não pode mais criar novo conteúdo.',
   'forums.category.archive': 'Arquivar categoria',
-  'forums.category.archiveExplained':
-    'Categorias sem tópicos serão excluídas, enquanto categorias com conteúdo impedirão a criação de novos tópicos.',
+  'forums.category.archiveExplained': 'Categorias sem tópicos serão excluídas, enquanto categorias com conteúdo impedirão a criação de novos tópicos.',
   'forums.category.reactivate': 'Reativar categoria',
   'forums.category.isVotable': 'Permitir que os usuários votem em tópicos',
-  'forums.category.titleIsGlobal':
-    'Este título de categoria será exibido no idioma do usuário se o suportarmos.',
-  'forums.category.languageLimited':
-    'Esta categoria será exibida apenas para usuários neste idioma.',
+  'forums.category.titleIsGlobal': 'Este título de categoria será exibido no idioma do usuário se o suportarmos.',
+  'forums.category.languageLimited': 'Esta categoria será exibida apenas para usuários neste idioma.',
   'forums.threadsCounter': 'Número total de tópicos e discussões',
   // Pre-defined category names
   'forums.category.intlName.general': 'Geral',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Permitir acesso apenas a usuários registrados',
   'forums.settings.accessControls': 'Controles de acesso',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'Este fórum só é acessível para usuários registrados.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'Este fórum só é acessível para usuários registrados.',
   'forums.noThreads': 'Nada para ver aqui. Depende de você iniciar uma conversa.',
   'forums.noPosts': 'Ninguém respondeu ainda. Seja o primeiro!',
   // Threads
@@ -72,5 +64,5 @@ export default {
     one {resposta}
     other {respostas}
   }`,
-  'forums.thread.createdAt': 'Criado em {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Criado em {createdAt, date, medium}'
+};

@@ -13,10 +13,8 @@ export default {
   'notifications.menu.markRead': 'ପଠିଲା ହେଲା ହିତାଳିଖାନ୍ତୁ',
   'notifications.menu.delete': 'ବିଜ୍ଞପ୍ତି ମିଟାନ୍ତୁ',
   // Notification messages
-  'notification.workshopStoryStatus.toHiatus':
-    'ଆପଣଙ୍କ କାହାଣୀ {storyName} 6 ମାସ ନିଷ୍କ୍ରିୟତାରେ ଅଟୋମାଟିକଭାବେ hiatus ରେ ରଖାଯାଇଛି।',
-  'notification.workshopStoryStatus.toCancelled':
-    'ଆପଣଙ୍କ କାହାଣୀ {storyName} 1 ବର୍ଷ ନିଷ୍କ୍ରିୟତାରେ ଅଟୋମାଟିକଭାବେ ରଦ୍ଦ କରାଯାଇଛି।',
+  'notification.workshopStoryStatus.toHiatus': 'ଆପଣଙ୍କ କାହାଣୀ {storyName} 6 ମାସ ନିଷ୍କ୍ରିୟତାରେ ଅଟୋମାଟିକଭାବେ hiatus ରେ ରଖାଯାଇଛି।',
+  'notification.workshopStoryStatus.toCancelled': 'ଆପଣଙ୍କ କାହାଣୀ {storyName} 1 ବର୍ଷ ନିଷ୍କ୍ରିୟତାରେ ଅଟୋମାଟିକଭାବେ ରଦ୍ଦ କରାଯାଇଛି।',
   'notification.followingStoryStatus.toHiatus': '{storyName} ହାଇଅସ୍‌ରେ ଅଛି।',
   'notification.followingStoryStatus.toCancelled': '{storyName} ର ରଦ୍ଦ କରାଯାଇଛି।',
   'notification.followingNewChapter.new': '{storyName} ରେ ନୂତନ ଅଧ୍ୟାୟ ପ୍ରକାଶିତ ହେଇଛି!',
@@ -25,5 +23,5 @@ export default {
   'notification.friendRequest': 'ଆପଣଙ୍କୁ ଏକ ସହପାଠୀ ଅନୁରୋଧ ପଠାଇଛି।',
   // Before this text will be the username of the user
   // Strings for extra section
-  'notificationExtra.workshopStoryStatus.goToStory': 'କାହାଣୀରେ ଯାନ୍ତୁ',
-}
+  'notificationExtra.workshopStoryStatus.goToStory': 'କାହାଣୀରେ ଯାନ୍ତୁ'
+};

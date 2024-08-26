@@ -1,40 +1,39 @@
 export default {
-  'blog.noneMsg': `நீங்கள் தற்போது {type, select,
+    'blog.noneMsg': `நீங்கள் தற்போது {type, select,
     organization {எந்த வலைப்பதிவும் இல்லை}
     universe {உங்கள் உலகத்திற்கு}
     user {தற்போதைய முனைவோர் செழுத்த ஒரு வலைப்பதிவை ஒரு வலைப்பு}
     other {}
   }.`,
-  'blog.create': 'புதிய வலைப்பதிவை உருவாக்கவும்',
-  'blog.settings': `{type, select,
+    'blog.create': 'புதிய வலைப்பதிவை உருவாக்கவும்',
+    'blog.settings': `{type, select,
     org {புதினமான வலைப்பதிவு}
     universe {பரலோக பக்கம்}
     user {வலைப்பதிவு}
     other {}
   } அமைப்புகள்`,
-  'blog.description': 'வலைப்பதிவின் அறிமுகம்',
-  'blog.theme': 'தீம்',
-  'blog.theme.info': 'தீமை மாற்றினால் பக்கத்தின் பார்வையை மாற்ற முடியும். தற்போது இந்த அம்சம் பயன்படுத்த முடியவில்லை.',
-  'blog.posts.total': `ப்ளாகில் {total, plural,
+    'blog.description': 'வலைப்பதிவின் அறிமுகம்',
+    'blog.theme': 'தீம்',
+    'blog.theme.info': 'தீமை மாற்றினால் பக்கத்தின் பார்வையை மாற்ற முடியும். தற்போது இந்த அம்சம் பயன்படுத்த முடியவில்லை.',
+    'blog.posts.total': `ப்ளாகில் {total, plural,
     zero {புதினமான பதிவுகள் இல்லை.}
     one {ஐ ஒரு பதிவு கொடுப்பான்!}
     other {பதிவுகள் இருக்கின்றன!}
   } .`,
-  'blog.post.create': 'புதிய பதிவை உருவாக்கவும்',
-  'blog.post.update': 'மாற்றப்பட்ட பதிவு {title}',
-  'blog.post.text': 'பதிவு உரை',
-  'common.slug': 'SEO அமிழ்தியான முகவரி',
-  'blog.slug.explained':
-    'பதிவுக்கு அழகான URL. குறிப்பிட்டவைகளை அல்லது "-" ஐ தன்ராசிக்கு மட்டுமே பயன்படுத்துங்கள்.',
-  'blog.publicView': 'பொது பார்வை',
-  'blog.post.notfound': 'வலைப்பதிவு பதிவைக் கண்டறியாமல் உள்ளது',
-  'blog.lists.works': `{type, select,
+    'blog.post.create': 'புதிய பதிவை உருவாக்கவும்',
+    'blog.post.update': 'மாற்றப்பட்ட பதிவு {title}',
+    'blog.post.text': 'பதிவு உரை',
+    'common.slug': 'SEO அமிழ்தியான முகவரி',
+    'blog.slug.explained': 'பதிவுக்கு அழகான URL. குறிப்பிட்டவைகளை அல்லது "-" ஐ தன்ராசிக்கு மட்டுமே பயன்படுத்துங்கள்.',
+    'blog.publicView': 'பொது பார்வை',
+    'blog.post.notfound': 'வலைப்பதிவு பதிவைக் கண்டறியாமல் உள்ளது',
+    'blog.lists.works': `{type, select,
     universes {உலகங்கள்}
     stories {கதைகள்}
     fanfiction {ரசிகர் உண்மைகள் பணிகள்}
     other {}
   }`,
-  'blog.social.sameAsMain': `சமூக இணையங்கள் பிரத்தியேக அமைப்புகளின் பொது இணைப்புகள் ஆகும் {type, select,
+    'blog.social.sameAsMain': `சமூக இணையங்கள் பிரத்தியேக அமைப்புகளின் பொது இணைப்புகள் ஆகும் {type, select,
     organization {அமைப்பு அமைப்பின் அமைப்புகள்}
     user {பயனர் சுட்டிகள்}
     other {}

@@ -1,8 +1,7 @@
 export default {
   'forums.create': 'Włącz forum',
   'forums.archive': 'Archiwizuj forum',
-  'forums.archive.explained':
-    'Archiwizacja forum uniemożliwi użytkownikom zamieszczanie dalszych treści, ale będzie ono nadal widoczne.',
+  'forums.archive.explained': 'Archiwizacja forum uniemożliwi użytkownikom zamieszczanie dalszych treści, ale będzie ono nadal widoczne.',
   'forums.archive.success': 'Forum zostało zarchiwizowane',
   'forums.unArchive': 'Reaktywuj fora',
   'forums.unArchive.success': 'Forum zostało ponownie aktywowane!',
@@ -12,24 +11,18 @@ export default {
   'forums.category.name': 'Nazwa kategorii',
   'forums.category.slug': 'Część adresu SEO',
   'forums.category.settings': 'Ustawienia kategorii',
-  'forums.category.language':
-    'Ogranicz wyświetlanie tej kategorii do następującego języka. Pozostaw puste, jeśli chcesz, aby kategoria była wyświetlana we wszystkich językach.',
-  'forums.category.intlNameDescription':
-    'Aby zapewnić dostępność kategorii we wszystkich obsługiwanych językach, do wyboru mamy zlokalizowane tytuły popularnych nazw kategorii.',
+  'forums.category.language': 'Ogranicz wyświetlanie tej kategorii do następującego języka. Pozostaw puste, jeśli chcesz, aby kategoria była wyświetlana we wszystkich językach.',
+  'forums.category.intlNameDescription': 'Aby zapewnić dostępność kategorii we wszystkich obsługiwanych językach, do wyboru mamy zlokalizowane tytuły popularnych nazw kategorii.',
   'forums.thread.new': 'Nowy wątek',
   'forums.thread.delete': 'Usuń wątek',
   'forums.post.new': 'Nowy post',
-  'forums.archived.forum':
-    'To forum zostało zarchiwizowane w dniu {archivedAt, date, long}. Nadal możesz przeglądać forum, ale nie możesz już tworzyć nowej zawartości.',
+  'forums.archived.forum': 'To forum zostało zarchiwizowane w dniu {archivedAt, date, long}. Nadal możesz przeglądać forum, ale nie możesz już tworzyć nowej zawartości.',
   'forums.category.archive': 'Archiwizuj kategorię',
-  'forums.category.archiveExplained':
-    'Kategoria, w której nie ma wątków, zostanie usunięta, natomiast kategorie z zawartością uniemożliwią tworzenie nowych wątków.',
+  'forums.category.archiveExplained': 'Kategoria, w której nie ma wątków, zostanie usunięta, natomiast kategorie z zawartością uniemożliwią tworzenie nowych wątków.',
   'forums.category.reactivate': 'Ponowna aktywacja kategorii',
   'forums.category.isVotable': 'Umożliwienie użytkownikom głosowania w górę/dół w wątkach',
-  'forums.category.titleIsGlobal':
-    'Tytuł tej kategorii będzie wyświetlany w języku użytkownika, jeśli jest on obsługiwany.',
-  'forums.category.languageLimited':
-    'Ta kategoria będzie widoczna tylko dla użytkowników posługujących się tym językiem.',
+  'forums.category.titleIsGlobal': 'Tytuł tej kategorii będzie wyświetlany w języku użytkownika, jeśli jest on obsługiwany.',
+  'forums.category.languageLimited': 'Ta kategoria będzie widoczna tylko dla użytkowników posługujących się tym językiem.',
   'forums.threadsCounter': 'Łączna liczba dyskusji na tematy',
   // Pre-defined category names
   'forums.category.intlName.general': 'Ogólne',
@@ -51,8 +44,7 @@ export default {
   // Forum restrictions
   'forums.forumRestriction.usersOnly': 'Zezwalaj na dostęp tylko zarejestrowanym użytkownikom',
   'forums.settings.accessControls': 'Kontrole dostępu',
-  'forums.forumRestrictionsMessages.usersOnlyForum':
-    'To forum jest dostępne tylko dla zarejestrowanych użytkowników.',
+  'forums.forumRestrictionsMessages.usersOnlyForum': 'To forum jest dostępne tylko dla zarejestrowanych użytkowników.',
   'forums.noThreads': 'Nie ma tu nic do oglądania. Od Ciebie zależy, czy rozpoczniesz rozmowę.',
   'forums.noPosts': 'Nikt jeszcze nie odpowiedział. Bądź pierwszy!',
   // Threads
@@ -72,5 +64,5 @@ export default {
     one {odpowiedź}
     other {odpowiedzi}
   }`,
-  'forums.thread.createdAt': 'Utworzono {createdAt, date, medium}',
-}
+  'forums.thread.createdAt': 'Utworzono {createdAt, date, medium}'
+};

@@ -18,11 +18,9 @@ export default {
   'roadmap.item.inBacklog': 'Plaanime selle funktsiooni tulevikus arendada.',
   'roadmap.item.inProgress': 'Funktsiooni arendus on alanud {startedAt, date}.',
   'roadmap.item.inBeta': 'See funktsioon on beetaversioonis alates {betaAt, date}.',
-  'roadmap.item.inPreview':
-    'See funktsioon on saadaval Storytelleri tellijatele alates {previewAt, date}.',
+  'roadmap.item.inPreview': 'See funktsioon on saadaval Storytelleri tellijatele alates {previewAt, date}.',
   'roadmap.item.inGa': 'See funktsioon on üldiselt saadaval alates {gaAt, date}.',
-  'roadmap.item.originalIssue':
-    'See funktsioon oli algselt kasutajate poolt ettepanekuna esitatud.',
+  'roadmap.item.originalIssue': 'See funktsioon oli algselt kasutajate poolt ettepanekuna esitatud.',
   'roadmap.eta.mapTitle': `Plaanitud {quarter, select,
     Q1 {I kvartal}
     Q2 {II kvartal}
@@ -33,8 +31,7 @@ export default {
   'roadmap.eta.mapTitleFinished': 'Lõpetatud {time, date, ::MMMM ::yyyy}',
   'roadmap.back': 'Tagasi teekonnakaardile',
   'roadmap.seeBacklog': 'Vaata, mida me veel plaanime teha',
-  'roadmap.seeFinished':
-    'Kui soovid meie ajalooga rohkem tutvuda, siis meil on sulle valmis ülevaade',
+  'roadmap.seeFinished': 'Kui soovid meie ajalooga rohkem tutvuda, siis meil on sulle valmis ülevaade',
   'roadmap.planned': 'Plaanitud',
-  'roadmap.finished': 'Lõpetatud',
-}
+  'roadmap.finished': 'Lõpetatud'
+};

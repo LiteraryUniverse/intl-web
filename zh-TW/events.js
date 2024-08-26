@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': '更多資訊',
   'event.visibilityShort.private': '私人',
   'event.visibilityShort.public': '公開',
-  'event.visibilityShort.owner': '擁有者',
-}
+  'event.visibilityShort.owner': '擁有者'
+};

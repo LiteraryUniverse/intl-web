@@ -22,5 +22,5 @@ export default {
     other {વાર્તાઓ અને વિશ્વો}
   } માટે.`,
   'readingList.addItem.fromLibrary': 'પુસ્તકાલયમાંથી',
-  'readingList.button.added': 'ઉમેરાયેલ',
-}
+  'readingList.button.added': 'ઉમેરાયેલ'
+};

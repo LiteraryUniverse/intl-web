@@ -42,5 +42,5 @@ export default {
   'events.moreInfo': 'Mer information',
   'event.visibilityShort.private': 'Privat',
   'event.visibilityShort.public': 'Offentlig',
-  'event.visibilityShort.owner': 'Ägare',
-}
+  'event.visibilityShort.owner': 'Ägare'
+};
