@@ -1,6 +1,10 @@
 # Changelog for languages
 
-## 2024-08-10 - V2.13.0
+## 2024-08-26 - v2.13.1
+
+* Improve about page description
+
+## 2024-08-10 - v2.13.0
 
 * Added strings for new comments sorting
 * Update Meteor version to 3.0
