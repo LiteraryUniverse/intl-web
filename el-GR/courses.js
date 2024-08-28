@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Πρόγραμμα μαθημάτων',
   'course.members': 'Μαθητές & καθηγητές',
   'course.assingments': 'Εργασίες',
+  'course.question.deleteWhole': 'Διαγραφή ολόκληρης της ερώτησης',
+  'course.question.yes': 'Ναι',
+  'course.question.no': 'Όχι',
 };
