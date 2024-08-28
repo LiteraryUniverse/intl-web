@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'পাঠ্যসূচি',
   'course.members': 'শিক্ষার্থীদেৰ আৰু শিক্ষকবৃন্দ',
   'course.assingments': 'অনুমানসমূহ',
+  'course.question.deleteWhole': 'পুৰোটা প্ৰশ্ন মচওক',
+  'course.question.yes': 'হয়',
+  'course.question.no': 'নহয়',
 };
