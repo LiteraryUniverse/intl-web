@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'पाठ्यक्रम',
   'course.members': 'छात्र और शिक्षक',
   'course.assingments': 'असाइनमेंट',
+  'course.question.deleteWhole': 'पूरा प्रश्न हटाएँ',
+  'course.question.yes': 'हाँ',
+  'course.question.no': 'नहीं',
 };
