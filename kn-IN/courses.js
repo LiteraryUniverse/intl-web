@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'ಪಠ್ಯಕ್ರಮ',
   'course.members': 'ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಶಿಕ್ಷಕರು',
   'course.assingments': 'ಕೊಡುಗೆಗಳು',
+  'course.question.deleteWhole': 'ಪೂರ್ತಿ ಪ್ರಶ್ನೆಯನ್ನು ಅಳಿಸಿ',
+  'course.question.yes': 'ಹೌದು',
+  'course.question.no': 'ಇಲ್ಲ',
 };
