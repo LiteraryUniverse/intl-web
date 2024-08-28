@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'სილაბუსი',
   'course.members': 'მოსწავლეები და მასწავლებელი',
   'course.assingments': 'დავალებები',
+  'course.question.deleteWhole': 'კითხვის მთავარი ნაწილის წაშლა',
+  'course.question.yes': 'დიახ',
+  'course.question.no': 'არა',
 };
