@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Lehrplan',
   'course.members': 'Schüler & Lehrer',
   'course.assingments': 'Aufgaben',
+  'course.question.deleteWhole': 'Ganze Frage löschen',
+  'course.question.yes': 'Ja',
+  'course.question.no': 'Nein',
 };
