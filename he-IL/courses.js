@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'תכנית לימודים',
   'course.members': 'תלמידים ומורים',
   'course.assingments': 'מטלות',
+  'course.question.deleteWhole': 'מחק את השאלה במלואה',
+  'course.question.yes': 'כן',
+  'course.question.no': 'לא',
 };
