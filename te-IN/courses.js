@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'పాఠ్యపద్ధతి',
   'course.members': 'విద్యార్థులు మరియు ఉపాధ్యాయులు',
   'course.assingments': 'అసైన్మెంట్లు',
+  'course.question.deleteWhole': 'పూర్తి ప్రశ్నను తొలగించు',
+  'course.question.yes': 'అవును',
+  'course.question.no': 'కాదు',
 };
