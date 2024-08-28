@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Kurikulum',
   'course.members': 'Mga Mag-aaral at mga guro',
   'course.assingments': 'Mga Takdang-aralin',
+  'course.question.deleteWhole': 'Burahin ang buong tanong',
+  'course.question.yes': 'Oo',
+  'course.question.no': 'Hindi',
 };
