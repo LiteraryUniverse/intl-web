@@ -26,4 +26,7 @@ export default {
   'course.curriculum': 'སློབ་ཚན།',
   'course.members': 'སློབ་ཁྱིམ་ལས་དང་སློབ་དཔོན།',
   'course.assingments': 'སྡེ་ཚན་ཚུ།',
+  'course.question.deleteWhole': 'འདེམས་པས་དྲི་བའི་འདྲེན་པ་བཏོན་པས།',
+  'course.question.yes': 'གདམ་ཁ།',
+  'course.question.no': 'མེད།',
 };
