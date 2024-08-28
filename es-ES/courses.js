@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Currículum',
   'course.members': 'Estudiantes y profesores',
   'course.assingments': 'Asignaciones',
+  'course.question.deleteWhole': 'Eliminar toda la pregunta',
+  'course.question.yes': 'Sí',
+  'course.question.no': 'No',
 };
