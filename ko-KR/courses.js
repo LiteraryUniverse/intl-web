@@ -23,4 +23,7 @@ export default {
   'course.curriculum': '교육과정',
   'course.members': '학생 및 교사',
   'course.assingments': '과제',
+  'course.question.deleteWhole': '질문 전체 삭제',
+  'course.question.yes': '예',
+  'course.question.no': '아니오',
 };
