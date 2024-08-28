@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'ਪਠਕ੍ਰਮ',
   'course.members': 'ਵਿਦਿਆਰਥੀਆਂ ਅਤੇ ਅਧਿਆਪਕ',
   'course.assingments': 'ਸਾਬਕਿਰਤੀਆਂ',
+  'course.question.deleteWhole': 'ਪੂਰੀ ਪ੍ਰਸ਼ਨ ਹਟਾਓ',
+  'course.question.yes': 'ਹਾਂ',
+  'course.question.no': 'ਨਹੀਂ',
 };
