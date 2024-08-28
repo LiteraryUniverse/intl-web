@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Учебная программа',
   'course.members': 'Студенты и преподаватели',
   'course.assingments': 'Задания',
+  'course.question.deleteWhole': 'Удалить весь вопрос',
+  'course.question.yes': 'Да',
+  'course.question.no': 'Нет',
 };
