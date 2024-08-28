@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Öğretim Programı',
   'course.members': 'Öğrenciler ve öğretmenler',
   'course.assingments': 'Ödevler',
+  'course.question.deleteWhole': 'Tüm soruyu sil',
+  'course.question.yes': 'Evet',
+  'course.question.no': 'Hayır',
 };
