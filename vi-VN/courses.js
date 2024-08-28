@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Chương trình học',
   'course.members': 'Học viên & giáo viên',
   'course.assingments': 'Bài tập',
+  'course.question.deleteWhole': 'Xóa toàn bộ câu hỏi',
+  'course.question.yes': 'Có',
+  'course.question.no': 'Không',
 };
