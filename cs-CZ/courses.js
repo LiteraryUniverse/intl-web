@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Osnovy',
   'course.members': 'Studenti a učitelé',
   'course.assingments': 'Úkoly',
+  'course.question.deleteWhole': 'Smazat celou otázku',
+  'course.question.yes': 'Ano',
+  'course.question.no': 'Ne',
 };
