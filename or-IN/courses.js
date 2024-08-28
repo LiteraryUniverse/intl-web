@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'ପ୍ରଶିକ୍ଷଣ ପଥ୍ୟକ୍ରମ',
   'course.members': 'ଛାତ୍ର ଓ ଶିକ୍ଷକଙ୍କ',
   'course.assingments': 'ଅଜ୍ଞାତି',
+  'course.question.deleteWhole': 'ପ୍ରබ୍ନ ସମସ୍ତ ମିଟାନ୍ତୁ',
+  'course.question.yes': 'ହଁ',
+  'course.question.no': 'ନାହିଁ',
 };
