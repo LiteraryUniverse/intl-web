@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'અભ્યાસક્રમ',
   'course.members': 'વિદ્યાર્થીઓ અને શિક્ષકો',
   'course.assingments': 'સોંપણીઓ',
+  'course.question.deleteWhole': 'પૂરી પ્રશ્ન કાઢી નાખો',
+  'course.question.yes': 'હાં',
+  'course.question.no': 'ના',
 };
