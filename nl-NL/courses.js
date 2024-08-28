@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Leerplan',
   'course.members': 'Studenten & docenten',
   'course.assingments': 'Opdrachten',
+  'course.question.deleteWhole': 'Verwijder hele vraag',
+  'course.question.yes': 'Ja',
+  'course.question.no': 'Nee',
 };
