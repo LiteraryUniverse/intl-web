@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Curriculum',
   'course.members': 'Studenti e insegnanti',
   'course.assingments': 'Compiti',
+  'course.question.deleteWhole': "Elimina l'intera domanda",
+  'course.question.yes': 'Sì',
+  'course.question.no': 'No',
 };
