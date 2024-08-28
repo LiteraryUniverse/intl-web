@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Læreplan',
   'course.members': 'Studerende & lærere',
   'course.assingments': 'Opgaver',
+  'course.question.deleteWhole': 'Slet hele spørgsmålet',
+  'course.question.yes': 'Ja',
+  'course.question.no': 'Nej',
 };
