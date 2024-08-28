@@ -20,4 +20,7 @@ export default {
   'course.cover' : 'Cover',
   'course.start' : 'Your course starts at',
   'course.ends' : 'Your course ends at',
+  'course.curriculum' : 'Curriculum',
+  'course.members': 'Students & teachers',
+  'course.assingments': 'Assignments',
 }
