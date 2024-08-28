@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'المنهج الدراسي',
   'course.members': 'الطلاب والمعلمون',
   'course.assingments': 'المهام',
+  'course.question.deleteWhole': 'حذف السؤال بأكمله',
+  'course.question.yes': 'نعم',
+  'course.question.no': 'لا',
 };
