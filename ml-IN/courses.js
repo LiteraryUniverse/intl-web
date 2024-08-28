@@ -25,4 +25,7 @@ export default {
   'course.curriculum': 'പഠനപാഠം',
   'course.members': 'വിദ്യാർത്ഥികൾ & അധ്യാപകർ',
   'course.assingments': 'അസൈൻ‌മെന്റുകൾ',
+  'course.question.deleteWhole': 'പൂർണ്ണമായി ചോദ്യം മായ്ക്കുക',
+  'course.question.yes': 'അതെ',
+  'course.question.no': 'ഇല്ല',
 };
