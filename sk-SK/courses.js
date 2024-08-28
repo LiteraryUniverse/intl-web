@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Učebný plán',
   'course.members': 'Študenti a učitelia',
   'course.assingments': 'Zadania',
+  'course.question.deleteWhole': 'Zmazať celú otázku',
+  'course.question.yes': 'Áno',
+  'course.question.no': 'Nie',
 };
