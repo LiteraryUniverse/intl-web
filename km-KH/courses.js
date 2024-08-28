@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'គម្រោងបង្រៀន',
   'course.members': 'សិស្សនិងគ្រូ',
   'course.assingments': 'កិច្ចការងារ',
+  'course.question.deleteWhole': 'លុបសំណួរទាំងអស់',
+  'course.question.yes': 'បាទ/ចាស',
+  'course.question.no': 'ទេ',
 };
