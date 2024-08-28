@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Навчальний план',
   'course.members': 'Студенти та вчителі',
   'course.assingments': 'Завдання',
+  'course.question.deleteWhole': 'Видалити увесь питання',
+  'course.question.yes': 'Так',
+  'course.question.no': 'Ні',
 };
