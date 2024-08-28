@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'หลักสูตร',
   'course.members': 'นักเรียนและครู',
   'course.assingments': 'การมอบหมายงาน',
+  'course.question.deleteWhole': 'ลบคำถามทั้งหมด',
+  'course.question.yes': 'ใช่',
+  'course.question.no': 'ไม่ใช่',
 };
