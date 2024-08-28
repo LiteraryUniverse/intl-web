@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Kurikulum',
   'course.members': 'Siswa & guru',
   'course.assingments': 'Tugas',
+  'course.question.deleteWhole': 'Hapus seluruh pertanyaan',
+  'course.question.yes': 'Ya',
+  'course.question.no': 'Tidak',
 };
