@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Programă de studiu',
   'course.members': 'Studenți și profesori',
   'course.assingments': 'Teme',
+  'course.question.deleteWhole': 'Șterge întreaga întrebare',
+  'course.question.yes': 'Da',
+  'course.question.no': 'Nu',
 };
