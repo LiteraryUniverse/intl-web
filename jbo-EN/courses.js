@@ -23,4 +23,7 @@ export default {
   'course.curriculum': "zo'u",
   'course.members': 'mabru',
   'course.assingments': 'jmina',
+  'course.question.deleteWhole': 'Xukmi lo se seltcidu',
+  'course.question.yes': "go'i",
+  'course.question.no': "na go'i",
 };
