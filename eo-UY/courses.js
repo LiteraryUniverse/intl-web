@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Kurrikulo',
   'course.members': 'Studentoj & instruistoj',
   'course.assingments': 'Taskoj',
+  'course.question.deleteWhole': 'Forigi tutan demandon',
+  'course.question.yes': 'Jes',
+  'course.question.no': 'Ne',
 };
