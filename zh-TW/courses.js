@@ -23,4 +23,7 @@ export default {
   'course.curriculum': '課程',
   'course.members': '學生與教師',
   'course.assingments': '作業',
+  'course.question.deleteWhole': '刪除整個問題',
+  'course.question.yes': '是',
+  'course.question.no': '否',
 };
