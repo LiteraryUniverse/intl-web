@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Mokymo programa',
   'course.members': 'Mokiniai ir mokytojai',
   'course.assingments': 'Užduotys',
+  'course.question.deleteWhole': 'Ištrinti visą klausimą',
+  'course.question.yes': 'Taip',
+  'course.question.no': 'Ne',
 };
