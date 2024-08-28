@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Curaclam',
   'course.members': 'Mic léinn agus múinteoirí',
   'course.assingments': 'Tascanna',
+  'course.question.deleteWhole': 'Scrios ceist iomlán',
+  'course.question.yes': 'Tá',
+  'course.question.no': 'Níl',
 };
