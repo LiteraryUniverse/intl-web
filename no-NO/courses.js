@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Pensum',
   'course.members': 'Studenter og lærere',
   'course.assingments': 'Oppgaver',
+  'course.question.deleteWhole': 'Slett hele spørsmålet',
+  'course.question.yes': 'Ja',
+  'course.question.no': 'Nei',
 };
