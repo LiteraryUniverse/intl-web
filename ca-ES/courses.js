@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Currículum',
   'course.members': 'Estudiants i professors',
   'course.assingments': 'Tasques',
+  'course.question.deleteWhole': 'Eliminar tota la pregunta',
+  'course.question.yes': 'Sí',
+  'course.question.no': 'No',
 };
