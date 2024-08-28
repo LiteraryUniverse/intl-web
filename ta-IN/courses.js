@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'பாடத்திட்டம்',
   'course.members': 'மாணவர்கள் மற்றும் ஆசிரியர்கள்',
   'course.assingments': 'பணிகள்',
+  'course.question.deleteWhole': 'முழு கேள்வி நீக்கு',
+  'course.question.yes': 'ஆம்',
+  'course.question.no': 'இல்லை',
 };
