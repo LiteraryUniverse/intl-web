@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Opetussuunnitelma',
   'course.members': 'Opiskelijat & opettajat',
   'course.assingments': 'Tehtävät',
+  'course.question.deleteWhole': 'Poista koko kysymys',
+  'course.question.yes': 'Kyllä',
+  'course.question.no': 'Ei',
 };
