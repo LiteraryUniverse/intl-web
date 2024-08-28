@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Tanterv',
   'course.members': 'Diákok és tanárok',
   'course.assingments': 'Feladatok',
+  'course.question.deleteWhole': 'Teljes kérdés törlése',
+  'course.question.yes': 'Igen',
+  'course.question.no': 'Nem',
 };
