@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Õppekava',
   'course.members': 'Õpilased ja õpetajad',
   'course.assingments': 'Ülesanded',
+  'course.question.deleteWhole': 'Kustuta terve küsimus',
+  'course.question.yes': 'Jah',
+  'course.question.no': 'Ei',
 };
