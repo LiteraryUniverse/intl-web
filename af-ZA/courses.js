@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Kurrikulum',
   'course.members': 'Studente & onderwysers',
   'course.assingments': 'Opdragte',
+  'course.question.deleteWhole': 'Verwyder hele vraag',
+  'course.question.yes': 'Ja',
+  'course.question.no': 'Nee',
 };
