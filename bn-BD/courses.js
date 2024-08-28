@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'পাঠ্যক্রম',
   'course.members': 'শিক্ষার্থী ও শিক্ষক',
   'course.assingments': 'অ্যাসাইনমেন্ট',
+  'course.question.deleteWhole': 'পুরো প্রশ্ন মুছুন',
+  'course.question.yes': 'হ্যাঁ',
+  'course.question.no': 'না',
 };
