@@ -23,4 +23,7 @@ export default {
   'course.curriculum' : 'Curriculum',
   'course.members': 'Students & teachers',
   'course.assingments': 'Assignments',
+  'course.question.deleteWhole' : 'Delete whole question',
+  'course.question.yes' : 'Yes',
+  'course.question.no' : 'No',
 }
