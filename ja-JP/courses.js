@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'カリキュラム',
   'course.members': '生徒と教師',
   'course.assingments': '課題',
+  'course.question.deleteWhole': '質問全体を削除する',
+  'course.question.yes': 'はい',
+  'course.question.no': 'いいえ',
 };
