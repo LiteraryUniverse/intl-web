@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Läroplan',
   'course.members': 'Studenter & lärare',
   'course.assingments': 'Uppgifter',
+  'course.question.deleteWhole': 'Ta bort hela frågan',
+  'course.question.yes': 'Ja',
+  'course.question.no': 'Nej',
 };
