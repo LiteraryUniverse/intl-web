@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'पाठ्यक्रम',
   'course.members': 'विद्यार्थी र शिक्षकहरू',
   'course.assingments': 'कार्यको नियत्रणहरू',
+  'course.question.deleteWhole': 'पूर्ण सवाल मेटाउनुहोस्',
+  'course.question.yes': 'हो',
+  'course.question.no': 'होइन',
 };
