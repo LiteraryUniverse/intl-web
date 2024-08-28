@@ -23,4 +23,7 @@ export default {
   'course.curriculum': 'Program nauczania',
   'course.members': 'Studenci i nauczyciele',
   'course.assingments': 'Zadania',
+  'course.question.deleteWhole': 'Usuń całe pytanie',
+  'course.question.yes': 'Tak',
+  'course.question.no': 'Nie',
 };
