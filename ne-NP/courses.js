@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'पूर्ण सवाल मेटाउनुहोस्',
   'course.question.yes': 'हो',
   'course.question.no': 'होइन',
+  'course.lesson.title': 'Lesson title',
+  'course.lesson.add.universe': 'Add Story/Universe',
+  'course.lesson.add.link': 'Add external link',
 };
