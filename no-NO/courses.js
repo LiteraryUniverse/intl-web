@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Slett hele spørsmålet',
   'course.question.yes': 'Ja',
   'course.question.no': 'Nei',
+  'course.lesson.title': 'Leksjonstittel',
+  'course.lesson.add.universe': 'Legg til Historie/Univers',
+  'course.lesson.add.link': 'Legg til ekstern lenke',
 };
