@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'પૂરી પ્રશ્ન કાઢી નાખો',
   'course.question.yes': 'હાં',
   'course.question.no': 'ના',
+  'course.lesson.title': 'પાઠ શીર્ષક',
+  'course.lesson.add.universe': 'કથા/યુનિવર્સ ઉમેરો',
+  'course.lesson.add.link': 'બાહ્ય લિંક ઉમેરો',
 };
