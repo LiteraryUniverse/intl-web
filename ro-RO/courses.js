@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Șterge întreaga întrebare',
   'course.question.yes': 'Da',
   'course.question.no': 'Nu',
+  'course.lesson.title': 'Titlu lecție',
+  'course.lesson.add.universe': 'Adăugați Poveste/Univers',
+  'course.lesson.add.link': 'Adăugați link extern',
 };
