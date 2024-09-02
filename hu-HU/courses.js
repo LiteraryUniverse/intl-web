@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Teljes kérdés törlése',
   'course.question.yes': 'Igen',
   'course.question.no': 'Nem',
+  'course.lesson.title': 'Lecke címe',
+  'course.lesson.add.universe': 'Történet/Világ hozzáadása',
+  'course.lesson.add.link': 'Külső link hozzáadása',
 };
