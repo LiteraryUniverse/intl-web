@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'حذف السؤال بأكمله',
   'course.question.yes': 'نعم',
   'course.question.no': 'لا',
+  'course.lesson.title': 'عنوان الدرس',
+  'course.lesson.add.universe': 'إضافة قصة/عالم',
+  'course.lesson.add.link': 'إضافة رابط خارجي',
 };
