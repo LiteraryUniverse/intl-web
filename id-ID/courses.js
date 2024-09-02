@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Hapus seluruh pertanyaan',
   'course.question.yes': 'Ya',
   'course.question.no': 'Tidak',
+  'course.lesson.title': 'Judul Pelajaran',
+  'course.lesson.add.universe': 'Tambah Cerita/Universe',
+  'course.lesson.add.link': 'Tambah tautan eksternal',
 };
