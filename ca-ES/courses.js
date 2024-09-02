@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Eliminar tota la pregunta',
   'course.question.yes': 'Sí',
   'course.question.no': 'No',
+  'course.lesson.title': 'Títol de la lliçó',
+  'course.lesson.add.universe': 'Afegir Història/Univers',
+  'course.lesson.add.link': 'Afegir enllaç extern',
 };
