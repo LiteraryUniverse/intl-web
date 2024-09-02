@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Poista koko kysymys',
   'course.question.yes': 'Kyllä',
   'course.question.no': 'Ei',
+  'course.lesson.title': 'Oppitunnin otsikko',
+  'course.lesson.add.universe': 'Lisää tarina/maailma',
+  'course.lesson.add.link': 'Lisää ulkoinen linkki',
 };
