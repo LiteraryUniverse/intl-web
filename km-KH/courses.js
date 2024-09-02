@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'លុបសំណួរទាំងអស់',
   'course.question.yes': 'បាទ/ចាស',
   'course.question.no': 'ទេ',
+  'course.lesson.title': 'ចំណងជើងមេរៀន',
+  'course.lesson.add.universe': 'បន្ថែមរឿង/ជីវិតកំណត់ច័ន្ទ',
+  'course.lesson.add.link': 'បន្ថែមតំណភ្ជាប់ខាងក្រៅ',
 };
