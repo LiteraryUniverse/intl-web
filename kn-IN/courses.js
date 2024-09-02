@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'ಪೂರ್ತಿ ಪ್ರಶ್ನೆಯನ್ನು ಅಳಿಸಿ',
   'course.question.yes': 'ಹೌದು',
   'course.question.no': 'ಇಲ್ಲ',
+  'course.lesson.title': 'Lesson title',
+  'course.lesson.add.universe': 'Add Story/Universe',
+  'course.lesson.add.link': 'Add external link',
 };
