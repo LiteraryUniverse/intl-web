@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Forigi tutan demandon',
   'course.question.yes': 'Jes',
   'course.question.no': 'Ne',
+  'course.lesson.title': 'Titolo de la leciono',
+  'course.lesson.add.universe': 'Aldoni Rakonton/Universon',
+  'course.lesson.add.link': 'Aldoni eksteran ligilon',
 };
