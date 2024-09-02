@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'முழு கேள்வி நீக்கு',
   'course.question.yes': 'ஆம்',
   'course.question.no': 'இல்லை',
+  'course.lesson.title': 'பாடக்குறிப்பு தலைப்பு',
+  'course.lesson.add.universe': 'கதை/உலகம் சேர்க்க',
+  'course.lesson.add.link': 'வெளிக்கடத்தைச் சேர்க்க',
 };
