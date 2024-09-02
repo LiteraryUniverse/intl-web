@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole' : 'Delete whole question',
   'course.question.yes' : 'Yes',
   'course.question.no' : 'No',
+  'course.lesson.title' : 'Lesson title',
+  'course.lesson.add.universe' : 'Add Story/Universe',
+  'course.lesson.add.link' : 'Add external link',
 }
