@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Tüm soruyu sil',
   'course.question.yes': 'Evet',
   'course.question.no': 'Hayır',
+  'course.lesson.title': 'Ders başlığı',
+  'course.lesson.add.universe': 'Hikaye/Evren Ekle',
+  'course.lesson.add.link': 'Harici bağlantı ekle',
 };
