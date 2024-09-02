@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Ta bort hela frågan',
   'course.question.yes': 'Ja',
   'course.question.no': 'Nej',
+  'course.lesson.title': 'Lektionstitel',
+  'course.lesson.add.universe': 'Lägg till Story/Universe',
+  'course.lesson.add.link': 'Lägg till extern länk',
 };
