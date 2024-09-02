@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Видалити увесь питання',
   'course.question.yes': 'Так',
   'course.question.no': 'Ні',
+  'course.lesson.title': 'Назва уроку',
+  'course.lesson.add.universe': 'Додати історію/Всесвіт',
+  'course.lesson.add.link': 'Додати зовнішнє посилання',
 };
