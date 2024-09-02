@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Ištrinti visą klausimą',
   'course.question.yes': 'Taip',
   'course.question.no': 'Ne',
+  'course.lesson.title': 'Pamokos pavadinimas',
+  'course.lesson.add.universe': 'Pridėti Pasaką/Visatą',
+  'course.lesson.add.link': 'Pridėti išorinę nuorodą',
 };
