@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Verwijder hele vraag',
   'course.question.yes': 'Ja',
   'course.question.no': 'Nee',
+  'course.lesson.title': 'Lesnaam',
+  'course.lesson.add.universe': 'Voeg Verhaal/Universum toe',
+  'course.lesson.add.link': 'Voeg externe link toe',
 };
