@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': '質問全体を削除する',
   'course.question.yes': 'はい',
   'course.question.no': 'いいえ',
+  'course.lesson.title': 'レッスンのタイトル',
+  'course.lesson.add.universe': 'ストーリー/ユニバースを追加',
+  'course.lesson.add.link': '外部リンクを追加',
 };
