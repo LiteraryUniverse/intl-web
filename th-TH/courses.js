@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'ลบคำถามทั้งหมด',
   'course.question.yes': 'ใช่',
   'course.question.no': 'ไม่ใช่',
+  'course.lesson.title': 'ชื่อบทเรียน',
+  'course.lesson.add.universe': 'เพิ่มเรื่องราว/จักรวาล',
+  'course.lesson.add.link': 'เพิ่มลิงก์จากภายนอก',
 };
