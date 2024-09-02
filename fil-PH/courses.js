@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Burahin ang buong tanong',
   'course.question.yes': 'Oo',
   'course.question.no': 'Hindi',
+  'course.lesson.title': 'Pamagat ng Aralin',
+  'course.lesson.add.universe': 'Magdagdag ng Kwento/Uniberso',
+  'course.lesson.add.link': 'Magdagdag ng panlabas na link',
 };
