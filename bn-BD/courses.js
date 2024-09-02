@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'পুরো প্রশ্ন মুছুন',
   'course.question.yes': 'হ্যাঁ',
   'course.question.no': 'না',
+  'course.lesson.title': 'পাঠের শিরোনাম',
+  'course.lesson.add.universe': 'গল্প/বিশ্ব যুক্ত করুন',
+  'course.lesson.add.link': 'বাহ্যিক লিঙ্ক যুক্ত করুন',
 };
