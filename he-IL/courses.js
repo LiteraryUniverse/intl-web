@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'מחק את השאלה במלואה',
   'course.question.yes': 'כן',
   'course.question.no': 'לא',
+  'course.lesson.title': 'כותרת השיעור',
+  'course.lesson.add.universe': 'הוסף סיפור/יקום',
+  'course.lesson.add.link': 'הוסף קישור חיצוני',
 };
