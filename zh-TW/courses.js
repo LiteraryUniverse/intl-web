@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': '刪除整個問題',
   'course.question.yes': '是',
   'course.question.no': '否',
+  'course.lesson.title': '課堂標題',
+  'course.lesson.add.universe': '新增故事/宇宙',
+  'course.lesson.add.link': '新增外部連結',
 };
