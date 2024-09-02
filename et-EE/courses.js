@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Kustuta terve küsimus',
   'course.question.yes': 'Jah',
   'course.question.no': 'Ei',
+  'course.lesson.title': 'Õppetunni pealkiri',
+  'course.lesson.add.universe': 'Lisa lugu/universum',
+  'course.lesson.add.link': 'Lisa väline link',
 };
