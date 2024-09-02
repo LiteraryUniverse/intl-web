@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'পুৰোটা প্ৰশ্ন মচওক',
   'course.question.yes': 'হয়',
   'course.question.no': 'নহয়',
+  'course.lesson.title': 'Lesson title',
+  'course.lesson.add.universe': 'Add Story/Universe',
+  'course.lesson.add.link': 'Add external link',
 };
