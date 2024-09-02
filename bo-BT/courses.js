@@ -29,4 +29,7 @@ export default {
   'course.question.deleteWhole': 'འདེམས་པས་དྲི་བའི་འདྲེན་པ་བཏོན་པས།',
   'course.question.yes': 'གདམ་ཁ།',
   'course.question.no': 'མེད།',
+  'course.lesson.title': 'Lesson title',
+  'course.lesson.add.universe': 'Add Story/Universe',
+  'course.lesson.add.link': 'Add external link',
 };
