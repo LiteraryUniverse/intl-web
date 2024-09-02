@@ -28,4 +28,7 @@ export default {
   'course.question.deleteWhole': 'പൂർണ്ണമായി ചോദ്യം മായ്ക്കുക',
   'course.question.yes': 'അതെ',
   'course.question.no': 'ഇല്ല',
+  'course.lesson.title': 'Lesson title',
+  'course.lesson.add.universe': 'Add Story/Universe',
+  'course.lesson.add.link': 'Add external link',
 };
