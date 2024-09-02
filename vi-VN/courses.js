@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Xóa toàn bộ câu hỏi',
   'course.question.yes': 'Có',
   'course.question.no': 'Không',
+  'course.lesson.title': 'Tiêu đề bài học',
+  'course.lesson.add.universe': 'Thêm Câu chuyện/Vũ trụ',
+  'course.lesson.add.link': 'Thêm liên kết ngoài',
 };
