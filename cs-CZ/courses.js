@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Smazat celou otázku',
   'course.question.yes': 'Ano',
   'course.question.no': 'Ne',
+  'course.lesson.title': 'Název lekce',
+  'course.lesson.add.universe': 'Přidat příběh/univerzum',
+  'course.lesson.add.link': 'Přidat externí odkaz',
 };
