@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Διαγραφή ολόκληρης της ερώτησης',
   'course.question.yes': 'Ναι',
   'course.question.no': 'Όχι',
+  'course.lesson.title': 'Τίτλος μαθήματος',
+  'course.lesson.add.universe': 'Προσθήκη Ιστορίας/Σύμπαντος',
+  'course.lesson.add.link': 'Προσθήκη εξωτερικού συνδέσμου',
 };
