@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'Zmazať celú otázku',
   'course.question.yes': 'Áno',
   'course.question.no': 'Nie',
+  'course.lesson.title': 'Názov lekcie',
+  'course.lesson.add.universe': 'Pridať Príbeh/Vesmír',
+  'course.lesson.add.link': 'Pridať externý odkaz',
 };
