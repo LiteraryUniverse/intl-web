@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'ପ୍ରබ୍ନ ସମସ୍ତ ମିଟାନ୍ତୁ',
   'course.question.yes': 'ହଁ',
   'course.question.no': 'ନାହିଁ',
+  'course.lesson.title': 'Lesson title',
+  'course.lesson.add.universe': 'Add Story/Universe',
+  'course.lesson.add.link': 'Add external link',
 };
