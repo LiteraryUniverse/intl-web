@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'კითხვის მთავარი ნაწილის წაშლა',
   'course.question.yes': 'დიახ',
   'course.question.no': 'არა',
+  'course.lesson.title': 'გაკვეთილის სათაური',
+  'course.lesson.add.universe': 'ისტორიის/უნივერსის დამატება',
+  'course.lesson.add.link': 'გართული ბმულის დამატება',
 };
