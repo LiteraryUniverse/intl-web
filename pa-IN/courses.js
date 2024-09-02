@@ -26,4 +26,7 @@ export default {
   'course.question.deleteWhole': 'ਪੂਰੀ ਪ੍ਰਸ਼ਨ ਹਟਾਓ',
   'course.question.yes': 'ਹਾਂ',
   'course.question.no': 'ਨਹੀਂ',
+  'course.lesson.title': 'ਪਾਠ ਸਿਰਲੇਖ',
+  'course.lesson.add.universe': 'ਕਹਾਣੀ/ਯੂਨੀਵਰਸ ਸ਼ਾਮਲ ਕਰੋ',
+  'course.lesson.add.link': 'ਬਾਹਰੀ ਲਿੰਕ ਸ਼ਾਮਲ ਕਰੋ',
 };
