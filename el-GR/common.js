@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Ενέργειες',
     'common.popular': 'Δημοφιλής',
     'common.newest': 'Νεότερο',
-    'common.oldest': 'Παλαιότερα'
+    'common.oldest': 'Παλαιότερα',
+    'common.noSelection': 'No selection'
 };
