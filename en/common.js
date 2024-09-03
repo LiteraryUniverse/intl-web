@@ -292,4 +292,5 @@ export default {
   'common.popular': 'Popular',
   'common.newest': 'Newest',
   'common.oldest': 'Oldest',
+  'common.noSelection': 'No selection'
 }

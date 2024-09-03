@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2024-09-03 - v2.14.0
+
+* Courses strings
+* `common.noSelection` new key
+
 ## 2024-08-26 - v2.13.1
 
 * Improve about page description
