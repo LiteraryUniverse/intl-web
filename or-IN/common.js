@@ -262,5 +262,6 @@ export default {
     'common.actions': 'କାର୍ଯ୍ୟଗୁଡ଼ିକ',
     'common.popular': 'ପ୍ରସିଦ୍ଧ',
     'common.newest': 'ନବିନତମ',
-    'common.oldest': 'ପୁରୁଣା'
+    'common.oldest': 'ପୁରୁଣା',
+    'common.noSelection': 'No selection'
 };
