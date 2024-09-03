@@ -262,5 +262,6 @@ export default {
     'common.actions': 'ક્રિયાઓ',
     'common.popular': 'લોકપ્રિય',
     'common.newest': 'તાજેતરનું',
-    'common.oldest': 'સબસે જૂનો'
+    'common.oldest': 'સબસે જૂનો',
+    'common.noSelection': 'No selection'
 };
