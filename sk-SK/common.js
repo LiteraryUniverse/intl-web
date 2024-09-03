@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Akcie',
     'common.popular': 'Populárne',
     'common.newest': 'Najnovšie',
-    'common.oldest': 'Najstaršie'
+    'common.oldest': 'Najstaršie',
+    'common.noSelection': 'No selection'
 };
