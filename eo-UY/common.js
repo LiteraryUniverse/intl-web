@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Agoj',
     'common.popular': 'Plej populara',
     'common.newest': 'Plej nova',
-    'common.oldest': 'Plej malnova'
+    'common.oldest': 'Plej malnova',
+    'common.noSelection': 'No selection'
 };
