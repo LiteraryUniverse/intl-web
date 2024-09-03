@@ -262,5 +262,6 @@ export default {
     'common.actions': 'செயல்கள்',
     'common.popular': 'பிரபலமான',
     'common.newest': 'புதியது',
-    'common.oldest': 'பழையதாக'
+    'common.oldest': 'பழையதாக',
+    'common.noSelection': 'No selection'
 };
