@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Eylemler',
     'common.popular': 'Popüler',
     'common.newest': 'En Yeniler',
-    'common.oldest': 'En eski'
+    'common.oldest': 'En eski',
+    'common.noSelection': 'No selection'
 };
