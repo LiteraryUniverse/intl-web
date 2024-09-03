@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Műveletek',
     'common.popular': 'Népszerű',
     'common.newest': 'Legújabb',
-    'common.oldest': 'Legrégebbi'
+    'common.oldest': 'Legrégebbi',
+    'common.noSelection': 'No selection'
 };
