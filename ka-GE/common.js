@@ -262,5 +262,6 @@ export default {
     'common.actions': 'მოქმედებები',
     'common.popular': 'პოპულარული',
     'common.newest': 'ახალი',
-    'common.oldest': 'უახლესი'
+    'common.oldest': 'უახლესი',
+    'common.noSelection': 'შეურჩევა არაა'
 };
