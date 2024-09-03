@@ -262,5 +262,6 @@ export default {
     'common.actions': 'བྱེད་སྒྲིགས།',
     'common.popular': 'བརྡ་རྩེ་སྒྲིག་བཀོད།',
     'common.newest': 'རིགས་རྟགས།',
-    'common.oldest': 'བརྡ་ཆད་ཀྱི་ཉེ།'
+    'common.oldest': 'བརྡ་ཆད་ཀྱི་ཉེ།',
+    'common.noSelection': 'No selection'
 };
