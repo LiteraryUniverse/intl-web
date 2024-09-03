@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Handlinger',
     'common.popular': 'Populær',
     'common.newest': 'Nyeste',
-    'common.oldest': 'Eldste'
+    'common.oldest': 'Eldste',
+    'common.noSelection': 'Ingen valg'
 };
