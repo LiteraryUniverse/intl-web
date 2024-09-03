@@ -262,5 +262,6 @@ export default {
     'common.actions': '동작',
     'common.popular': '인기 있는',
     'common.newest': '최신',
-    'common.oldest': '가장 오래된'
+    'common.oldest': '가장 오래된',
+    'common.noSelection': '선택 없음'
 };
