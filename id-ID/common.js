@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Tindakan',
     'common.popular': 'Populer',
     'common.newest': 'Terbaru',
-    'common.oldest': 'Terlama'
+    'common.oldest': 'Terlama',
+    'common.noSelection': 'No selection'
 };
