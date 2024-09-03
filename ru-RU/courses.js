@@ -27,6 +27,6 @@ export default {
   'course.question.yes': 'Да',
   'course.question.no': 'Нет',
   'course.lesson.title': 'Название урока',
-  'course.lesson.add.universe': 'Добавить историю/Вселенную',
+  'course.lesson.add.universe': 'Добавить историю/вселенную',
   'course.lesson.add.link': 'Добавить внешнюю ссылку',
 };
