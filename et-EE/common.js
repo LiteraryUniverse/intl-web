@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Tegevused',
     'common.popular': 'Populaarne',
     'common.newest': 'Uusim',
-    'common.oldest': 'Vanim'
+    'common.oldest': 'Vanim',
+    'common.noSelection': 'No selection'
 };
