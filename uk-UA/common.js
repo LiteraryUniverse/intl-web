@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Дії',
     'common.popular': 'Популярне',
     'common.newest': 'Найновіші',
-    'common.oldest': 'Найстаріше'
+    'common.oldest': 'Найстаріше',
+    'common.noSelection': 'No selection'
 };
