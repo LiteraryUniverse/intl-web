@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Veiksmai',
     'common.popular': 'Populiarus',
     'common.newest': 'Naujausia',
-    'common.oldest': 'Seniausias'
+    'common.oldest': 'Seniausias',
+    'common.noSelection': 'Nepasirinkta'
 };
