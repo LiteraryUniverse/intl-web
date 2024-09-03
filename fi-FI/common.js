@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Toiminnot',
     'common.popular': 'Suosittu',
     'common.newest': 'Uusin',
-    'common.oldest': 'Vanhin'
+    'common.oldest': 'Vanhin',
+    'common.noSelection': 'No selection'
 };
