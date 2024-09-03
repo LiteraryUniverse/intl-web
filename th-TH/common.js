@@ -262,5 +262,6 @@ export default {
     'common.actions': 'การดำเนินการ',
     'common.popular': 'ยอดนิยม',
     'common.newest': 'ล่าสุด',
-    'common.oldest': 'เก่าที่สุด'
+    'common.oldest': 'เก่าที่สุด',
+    'common.noSelection': 'No selection'
 };
