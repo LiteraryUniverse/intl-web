@@ -262,5 +262,6 @@ export default {
     'common.actions': 'చర్యలు',
     'common.popular': 'జనప్రియమైన',
     'common.newest': 'కొత్తతమమైనది',
-    'common.oldest': 'పురాతన'
+    'common.oldest': 'పురాతన',
+    'common.noSelection': 'No selection'
 };

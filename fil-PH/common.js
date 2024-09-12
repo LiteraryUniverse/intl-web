@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Mga Aksyon',
     'common.popular': 'Sikat',
     'common.newest': 'Pinakabago',
-    'common.oldest': 'Pinakamatanda'
+    'common.oldest': 'Pinakamatanda',
+    'common.noSelection': 'No selection'
 };

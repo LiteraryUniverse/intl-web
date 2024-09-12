@@ -262,5 +262,6 @@ export default {
     'common.actions': 'פעולות',
     'common.popular': 'פופולרי',
     'common.newest': 'החדש ביותר',
-    'common.oldest': 'הכי ישן'
+    'common.oldest': 'הכי ישן',
+    'common.noSelection': 'No selection'
 };

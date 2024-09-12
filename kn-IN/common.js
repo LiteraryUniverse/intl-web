@@ -262,5 +262,6 @@ export default {
     'common.actions': 'ಕ್ರಿಯೆಗಳು',
     'common.popular': 'ಜನಪ್ರಿಯ',
     'common.newest': 'ಹೊಸತು',
-    'common.oldest': 'ಪುರಾತನ'
+    'common.oldest': 'ಪುರಾತನ',
+    'common.noSelection': 'No selection'
 };

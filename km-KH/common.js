@@ -262,5 +262,6 @@ export default {
     'common.actions': 'សកម្មភាព',
     'common.popular': 'ទំនាក់ទំនងជាមួយជួរដេក',
     'common.newest': 'ថ្មីបំផុត',
-    'common.oldest': 'អាក្រក់ជាងចាស់បំផុត'
+    'common.oldest': 'អាក្រក់ជាងចាស់បំផុត',
+    'common.noSelection': 'No selection'
 };

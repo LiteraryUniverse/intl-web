@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Rojykam',
     'common.popular': 'populäre',
     'common.newest': 'cioxadni',
-    'common.oldest': 'pa laldo'
+    'common.oldest': 'pa laldo',
+    'common.noSelection': 'No selection'
 };

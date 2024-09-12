@@ -262,5 +262,6 @@ export default {
     'common.actions': 'ਕਾਰਵਾਈਆਂ',
     'common.popular': 'ਲੋਕਪ੍ਰਿਆਪਤ',
     'common.newest': 'ਨਵੀਨਤਮ',
-    'common.oldest': 'ਸਭ ਤੋਂ ਪੁਰਾਣਾ'
+    'common.oldest': 'ਸਭ ਤੋਂ ਪੁਰਾਣਾ',
+    'common.noSelection': 'No selection'
 };

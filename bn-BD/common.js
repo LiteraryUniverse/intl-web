@@ -262,5 +262,6 @@ export default {
     'common.actions': 'ক্রিয়াকলাপ',
     'common.popular': 'জনপ্রিয়',
     'common.newest': 'নতুনতম',
-    'common.oldest': 'প্রবীণতম'
+    'common.oldest': 'প্রবীণতম',
+    'common.noSelection': 'No selection'
 };

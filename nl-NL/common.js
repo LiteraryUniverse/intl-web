@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Acties',
     'common.popular': 'Populair',
     'common.newest': 'Nieuwste',
-    'common.oldest': 'Oudste'
+    'common.oldest': 'Oudste',
+    'common.noSelection': 'Geen selectie'
 };

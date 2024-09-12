@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Acțiuni',
     'common.popular': 'Popular',
     'common.newest': 'Cel mai nou',
-    'common.oldest': 'Oldest'
+    'common.oldest': 'Oldest',
+    'common.noSelection': 'No selection'
 };

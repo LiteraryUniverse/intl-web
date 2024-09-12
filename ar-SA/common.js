@@ -262,5 +262,6 @@ export default {
     'common.actions': 'الإجراءات',
     'common.popular': 'Popular',
     'common.newest': 'الأحدث',
-    'common.oldest': 'Oldest'
+    'common.oldest': 'Oldest',
+    'common.noSelection': 'No selection'
 };

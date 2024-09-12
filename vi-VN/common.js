@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Hành động',
     'common.popular': 'Phổ biến',
     'common.newest': 'Mới nhất',
-    'common.oldest': 'Cũ nhất'
+    'common.oldest': 'Cũ nhất',
+    'common.noSelection': 'No selection'
 };

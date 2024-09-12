@@ -262,5 +262,6 @@ export default {
     'common.actions': 'Gníomhaíochtaí',
     'common.popular': 'Réimséach',
     'common.newest': 'Is Déanaí',
-    'common.oldest': 'Seana'
+    'common.oldest': 'Seana',
+    'common.noSelection': 'No selection'
 };

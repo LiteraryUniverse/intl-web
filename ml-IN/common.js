@@ -262,5 +262,6 @@ export default {
     'common.actions': 'പ്രവർത്തനങ്ങൾ',
     'common.popular': 'ജനപ്രിയമായ',
     'common.newest': 'പുതിയത്',
-    'common.oldest': 'പഴയതായി'
+    'common.oldest': 'പഴയതായി',
+    'common.noSelection': 'No selection'
 };

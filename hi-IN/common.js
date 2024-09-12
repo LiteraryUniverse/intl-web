@@ -262,5 +262,6 @@ export default {
     'common.actions': 'कार्रवाई',
     'common.popular': 'प्रसिद्ध',
     'common.newest': 'नवीनतम',
-    'common.oldest': 'सबसे पुराना'
+    'common.oldest': 'सबसे पुराना',
+    'common.noSelection': 'No selection'
 };
