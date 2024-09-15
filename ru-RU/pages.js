@@ -60,7 +60,7 @@ export default {
     'gdpr.compliant': 'Literary Universe соответствует требованиям GDPR',
     'gdpr.compliant.text': 'Literary Universe внедрила различные обновления и изменения в свою кодовую базу в рамках подготовки к вступлению в силу GDPR 25 мая 2018 года.',
     'common.legal.dmca': 'DMCA',
-    'common.legal.dmca.long': 'Закон об авторском праве в цифровую эпоху',
+    'common.legal.dmca.long': 'Закон об авторском праве в цифровую эпоху (DMCA)',
     'common.legal.changelog': 'Изменения в этой версии',
     'dmca.title': 'Политика в отношении Закона об авторском праве в цифровую эпоху (DMCA)',
     'dmca.subtitle': 'Политика разрешения споров об авторском праве',
