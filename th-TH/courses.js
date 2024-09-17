@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'ชื่อบทเรียน',
   'course.lesson.add.universe': 'เพิ่มเรื่องราว/จักรวาล',
   'course.lesson.add.link': 'เพิ่มลิงก์จากภายนอก',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
