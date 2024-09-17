@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Názov lekcie',
   'course.lesson.add.universe': 'Pridať Príbeh/Vesmír',
   'course.lesson.add.link': 'Pridať externý odkaz',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
