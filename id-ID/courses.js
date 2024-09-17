@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Judul Pelajaran',
   'course.lesson.add.universe': 'Tambah Cerita/Universe',
   'course.lesson.add.link': 'Tambah tautan eksternal',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
