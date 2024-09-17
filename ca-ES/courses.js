@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Títol de la lliçó',
   'course.lesson.add.universe': 'Afegir Història/Univers',
   'course.lesson.add.link': 'Afegir enllaç extern',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
