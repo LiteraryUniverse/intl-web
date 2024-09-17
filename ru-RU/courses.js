@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Название урока',
   'course.lesson.add.universe': 'Добавить историю/вселенную',
   'course.lesson.add.link': 'Добавить внешнюю ссылку',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
