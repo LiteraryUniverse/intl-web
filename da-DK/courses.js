@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Lektionstitel',
   'course.lesson.add.universe': 'Tilføj Historie/Univers',
   'course.lesson.add.link': 'Tilføj ekstern link',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
