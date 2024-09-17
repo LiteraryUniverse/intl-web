@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'כותרת השיעור',
   'course.lesson.add.universe': 'הוסף סיפור/יקום',
   'course.lesson.add.link': 'הוסף קישור חיצוני',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
