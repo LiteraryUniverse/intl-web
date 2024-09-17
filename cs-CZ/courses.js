@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Název lekce',
   'course.lesson.add.universe': 'Přidat příběh/univerzum',
   'course.lesson.add.link': 'Přidat externí odkaz',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
