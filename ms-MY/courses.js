@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Tajuk Pembelajaran',
   'course.lesson.add.universe': 'Tambah Cerita/Alam Semesta',
   'course.lesson.add.link': 'Tambah pautan luar',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
