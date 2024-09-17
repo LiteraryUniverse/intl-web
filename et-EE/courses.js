@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Õppetunni pealkiri',
   'course.lesson.add.universe': 'Lisa lugu/universum',
   'course.lesson.add.link': 'Lisa väline link',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
