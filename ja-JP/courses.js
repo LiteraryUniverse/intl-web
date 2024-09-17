@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'レッスンのタイトル',
   'course.lesson.add.universe': 'ストーリー/ユニバースを追加',
   'course.lesson.add.link': '外部リンクを追加',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
