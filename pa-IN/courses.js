@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'ਪਾਠ ਸਿਰਲੇਖ',
   'course.lesson.add.universe': 'ਕਹਾਣੀ/ਯੂਨੀਵਰਸ ਸ਼ਾਮਲ ਕਰੋ',
   'course.lesson.add.link': 'ਬਾਹਰੀ ਲਿੰਕ ਸ਼ਾਮਲ ਕਰੋ',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
