@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'పాఠం శీర్షిక',
   'course.lesson.add.universe': 'కథ/విశ్వం జోడించండి',
   'course.lesson.add.link': 'బాహ్య లింక్ జోడించండి',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
