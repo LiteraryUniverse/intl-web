@@ -29,4 +29,8 @@ export default {
   'course.lesson.title': 'Lesnaam',
   'course.lesson.add.universe': 'Voeg Verhaal/Universum toe',
   'course.lesson.add.link': 'Voeg externe link toe',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
 };
