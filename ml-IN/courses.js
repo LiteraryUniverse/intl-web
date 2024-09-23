@@ -35,4 +35,5 @@ export default {
   'course.active': 'Activity',
   'course.active.message': 'Active',
   'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };
