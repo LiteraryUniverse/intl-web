@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Soek vir \'n universum',
     'discover.searchUniverse.description': 'Soek vir universums',
     'discover.search.storyStatus': 'Story vordering status',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Voltooid',
     'story.status.inProgress': 'Aan die gang',
     'discover.search.universeConnection': 'Verbinding van story na universum',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Wys meer hoofstukke',
     'discovery.chaptersTotal': 'Totale aantal hoofstukke in die storie',
     'discovery.readFromStart': 'Lees vanaf die eerste hoofstuk',
-    'discovery.readLatest': 'Lees die nuutste hoofstuk'
+    'discovery.readLatest': 'Lees die nuutste hoofstuk',
+    'discovery.author': 'Author'
 };
