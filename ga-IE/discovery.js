@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Cuardaigh uileann',
     'discover.searchUniverse.description': 'Cuardaigh uileanna',
     'discover.search.storyStatus': 'Stádas dul chun cinn an scéil',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Críochnaithe',
     'story.status.inProgress': 'Ar siúl',
     'discover.search.universeConnection': 'Ceangal scéal le uileann',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Taispeáin níos mó chaibidlí',
     'discovery.chaptersTotal': 'Iomlán líon chaibidlí sa scéal',
     'discovery.readFromStart': 'Léigh ón gcéad chaibidil',
-    'discovery.readLatest': 'Léigh an cúigiú caibidil is déanaí'
+    'discovery.readLatest': 'Léigh an cúigiú caibidil is déanaí',
+    'discovery.author': 'Author'
 };
