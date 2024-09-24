@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ਸੰਰਚਨਾਵਾਂ ਲਈ ਖੋਜ ਕਰੋ',
     'discover.searchUniverse.description': 'ਸੰਰਚਨਾਵਾਂ ਲਈ ਖੋਜ ਕਰੋ',
     'discover.search.storyStatus': 'ਕਹਾਣੀ ਤਰੱਕੀ ਦੀ ਸਥਿਤੀ',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'ਮੁੱਕਮਲ',
     'story.status.inProgress': 'ਚਲਦਾ ਹੋਇਆ ਹੈ',
     'discover.search.universeConnection': 'ਸੰਰਚਨਾ ਨਾਲ ਕਹਾਣੀ ਦੀ ਸੰਬੰਧਤਾ',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'ਹੋਰ ਅਧਾਇਆਂ ਵੇਖੋ',
     'discovery.chaptersTotal': 'ਕਹਾਣੀ ਵਿੱਚ ਕੁੱਲ ਅਧਾਇਆਂ ਦੀ ਗਿਣਤੀ',
     'discovery.readFromStart': 'ਪਹਿਲੇ ਚੈਪਟਰ ਤੋਂ ਪੜ੍ਹੋ',
-    'discovery.readLatest': 'ਤਾਜ਼ਾਤਰੀਨ ਚੈਪਟਰ ਤੋਂ ਪੜ੍ਹੋ'
+    'discovery.readLatest': 'ਤਾਜ਼ਾਤਰੀਨ ਚੈਪਟਰ ਤੋਂ ਪੜ੍ਹੋ',
+    'discovery.author': 'Author'
 };
