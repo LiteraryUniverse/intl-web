@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ವಿಶ್ವಗೆ ಹುಡುಕಿ',
     'discover.searchUniverse.description': 'ವಿಶ್ವಗಳಿಗೆ ಹುಡುಕಿ',
     'discover.search.storyStatus': 'ಕಥೆಯ ಪ್ರಗತಿ ಸ್ಥಿತಿ',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'ಪೂರ್ಣಗೊಂಡಿದೆ',
     'story.status.inProgress': 'ನಡುವೆಯೇ',
     'discover.search.universeConnection': 'ಕಥೆಯನ್ನು ವಿಶ್ವದ ಸಂಪರ್ಕದೊಂದಿಗೆ',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'ಹೆಚ್ಚಿನ ಅಧ್ಯಾಯಗಳನ್ನು ತೋರಿಸು',
     'discovery.chaptersTotal': 'ಕಥೆಯ ಒಟ್ಟು ಅಧ್ಯಾಯಗಳ ಸಂಖ್ಯೆ',
     'discovery.readFromStart': 'ಮೊದಲ ಅಧ್ಯಾಯದಿಂದ ಓದು',
-    'discovery.readLatest': 'ಇತ್ತೀಚಿನ ಅಧ್ಯಾಯವನ್ನು ಓದಿ'
+    'discovery.readLatest': 'ಇತ್ತೀಚಿನ ಅಧ್ಯಾಯವನ್ನು ಓದಿ',
+    'discovery.author': 'Author'
 };
