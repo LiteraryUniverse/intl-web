@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Serĉu universon',
     'discover.searchUniverse.description': 'Serĉu universojn',
     'discover.search.storyStatus': 'Stara progreso de la rakonto',
+    'discover.search.genres': 'Ĝenroj',
     'story.status.complete': 'Plena',
     'story.status.inProgress': 'Daŭranta',
     'discover.search.universeConnection': 'Rilato de rakonto al universo',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Montri pliajn ĉapitrojn',
     'discovery.chaptersTotal': 'Entuta nombro de ĉapitroj en la rakonto',
     'discovery.readFromStart': 'Legu de la unua ĉapitro',
-    'discovery.readLatest': 'Legu la lastan ĉapitron'
+    'discovery.readLatest': 'Legu la lastan ĉapitron',
+    'discovery.author': 'Author'
 };
