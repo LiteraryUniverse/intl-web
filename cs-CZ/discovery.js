@@ -27,6 +27,7 @@ export default {
     'discover.searchUniverse.title': 'Najít vesmír',
     'discover.searchUniverse.description': 'Najít vesmíry',
     'discover.search.storyStatus': 'Stav příběhu',
+    'discover.search.genres': 'Žánry',
     'story.status.complete': 'Dokončený',
     'story.status.inProgress': 'Probíhající',
     'discover.search.universeConnection': 'Připojení příběhu k vesmíru',
@@ -66,5 +67,6 @@ export default {
     'discovery.chapters.showMore': 'Zobrazit další kapitoly',
     'discovery.chaptersTotal': 'Celkový počet kapitol ve příběhu',
     'discovery.readFromStart': 'Číst od první kapitoly',
-    'discovery.readLatest': 'Číst nejnovější kapitolu'
+    'discovery.readLatest': 'Číst nejnovější kapitolu',
+    'discovery.author': 'Autor'
 };
