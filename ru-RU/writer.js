@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'Предыдущая глава должна быть опубликована в {publishDate, date, short} в {publishDate, time}',
     'writer.publish.alreadyPublished': 'Эта глава уже была опубликована {publishedAt, date, short}. Новые версии будут опубликованы немедленно.',
     'writer.publish.betaReader': 'Тестирование',
-    'writer.publish.public': 'Опубликовать'
+    'writer.publish.public': 'Опубликовать',
+    'writer.publish.now': 'Publish now'
 };
