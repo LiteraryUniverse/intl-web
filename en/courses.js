@@ -34,12 +34,4 @@ export default {
   'course.active.message' : 'Active',
   'course.inactive' : 'Inactive',
   'course.module.edit' : 'Edit module name',
-  'course.lesson.type' : 'Select type of lesson',
-  'course.internal' : 'Internal',
-  'course.free' : 'Free',
-  'course.sale' : 'Sale',
-  'course.lesson.meetLink' : 'Link for meeting',
-  'course.lesson.preRecorded' : 'Pre-recorded',
-  'course.lesson.geoLocation' : 'In person',
-  'course.lesson.empty' : 'Empty',
 }
