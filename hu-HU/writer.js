@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'Az előző fejezet időzítve van közzétételre ekkor: {publishDate, date, short} , {publishDate, time}',
     'writer.publish.alreadyPublished': 'Ez a fejezet már közzétéve volt ekkor: {publishedAt, date, short}. Az új verziók azonnal közzététele történik.',
     'writer.publish.betaReader': 'Béta',
-    'writer.publish.public': 'Közzététel'
+    'writer.publish.public': 'Közzététel',
+    'writer.publish.now': 'Publish now'
 };
