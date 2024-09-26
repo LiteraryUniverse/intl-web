@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': '이전 챕터는 {publishDate, date, short} 에 {publishDate, time}에 예약되어 있습니다.',
     'writer.publish.alreadyPublished': '이 챕터는 이미 {publishedAt, date, short}에 게시되었습니다. 새 버전은 즉시 게시됩니다.',
     'writer.publish.betaReader': '베타',
-    'writer.publish.public': '게시'
+    'writer.publish.public': '게시',
+    'writer.publish.now': 'Publish now'
 };
