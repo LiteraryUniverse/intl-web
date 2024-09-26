@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'Poprzedni rozdział jest zaplanowany do publikacji {publishDate, date, short} o {publishDate, time}',
     'writer.publish.alreadyPublished': 'Ten rozdział został już opublikowany {publishedAt, date, short}. Nowe wersje będą publikowane natychmiast.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Opublikuj'
+    'writer.publish.public': 'Opublikuj',
+    'writer.publish.now': 'Publish now'
 };
