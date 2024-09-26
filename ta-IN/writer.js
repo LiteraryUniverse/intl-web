@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}',
     'writer.publish.alreadyPublished': 'இந்த அத்தியாயம் ஏற்கனவே வெளியிடப்பட்டது தேதி {publishedAt, date, short}. புதிய பதிப்புகள் உடனடியாக வெளியிடப்படும்.',
     'writer.publish.betaReader': 'பீட்டா',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Publish',
+    'writer.publish.now': 'Publish now'
 };
