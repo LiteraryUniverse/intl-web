@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'ਪਿਛਲਾ ਅਧਿਆਇ ਦੀ ਮਿਤੀ ਨਿਰਧਾਰਤ ਕੀਤੀ ਗਈ ਹੈ {publishDate, date, short} ਤੇ {publishDate, time}ਨੂੰ',
     'writer.publish.alreadyPublished': 'ਇਹ ਅਧਿਆਇ ਪਹਿਲਾਂ ਹੀ ਪ੍ਰਕਾਸ਼ਿਤ ਹੋ ਗਈ ਸੀ {publishedAt, date, short}. ਨਵੇਂ ਵਰਜਨ ਤੁਰੰਤ ਪ੍ਰਕਾਸ਼ਿਤ ਕੀਤੇ ਜਾਣਗੇ।',
     'writer.publish.betaReader': 'ਬੀਟਾ',
-    'writer.publish.public': 'ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ'
+    'writer.publish.public': 'ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ',
+    'writer.publish.now': 'Publish now'
 };
