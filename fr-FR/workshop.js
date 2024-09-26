@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Lecteur de bande-annonce vidéo de l\'histoire',
     'workshop.videoTrailer.supportedPlaftorms': 'Nous soutenons Youtube, Vimeo et Odysee',
     'workshop.videoTrailer.rumble': 'Nous soutenons également Rumble, mais n\'oubliez pas de copier l\'URL de l\'IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Votre plateforme vidéo est-elle manquante ? Faites-le nous savoir via notre <a>feedback</a> !'
+    'workshop.videoTrailer.suggestPlatforms': 'Votre plateforme vidéo est-elle manquante ? Faites-le nous savoir via notre <a>feedback</a> !',
+    'workshop.cover.edit': 'Change cover'
 };
