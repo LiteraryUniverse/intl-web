@@ -31,4 +31,5 @@ export default {
     'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.',
   'writer.publish.betaReader': 'Beta',
   'writer.publish.public': 'Publish',
+  'writer.publish.now': 'Publish now',
 }
