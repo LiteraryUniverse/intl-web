@@ -352,5 +352,6 @@ export default {
   'workshop.videoTrailer.rumble':
     'We also support Rumble, but remember to copy the IFRAME URL.',
   'workshop.videoTrailer.suggestPlatforms':
-    'Is your video platform missing, let us know via our <a>feedback</a>!'
+    'Is your video platform missing, let us know via our <a>feedback</a>!',
+  'workshop.cover.edit': 'Change cover'
 }
