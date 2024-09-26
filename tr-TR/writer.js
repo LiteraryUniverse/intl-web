@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'Önceki bölüm {publishDate, date, short} tarihinde {publishDate, time}yayımlanması planlandı',
     'writer.publish.alreadyPublished': 'Bu bölüm zaten {publishedAt, date, short}tarihinde yayımlandı. Yeni sürümler hemen yayımlanacak.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Yayınla'
+    'writer.publish.public': 'Yayınla',
+    'writer.publish.now': 'Publish now'
 };
