@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Ders başlığı',
   'course.lesson.add.universe': 'Hikaye/Evren Ekle',
   'course.lesson.add.link': 'Harici bağlantı ekle',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

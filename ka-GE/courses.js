@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'გაკვეთილის სათაური',
   'course.lesson.add.universe': 'ისტორიის/უნივერსის დამატება',
   'course.lesson.add.link': 'გართული ბმულის დამატება',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

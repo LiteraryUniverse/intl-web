@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': '上一章節預定於 {publishDate, date, short} ，時間為 {publishDate, time}發布',
     'writer.publish.alreadyPublished': '此章節已於 {publishedAt, date, short}發布。新版本將立即發布。',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': '發佈'
+    'writer.publish.public': '發佈',
+    'writer.publish.now': 'Publish now'
 };

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ब्रह्माण्डमा खोजी गर्नुहोस्',
     'discover.searchUniverse.description': 'ब्रह्माण्डमा खोजी गर्नुहोस्',
     'discover.search.storyStatus': 'कथा प्रगति स्थिति',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'पूर्ण',
     'story.status.inProgress': 'चल रहा है',
     'discover.search.universeConnection': 'ब्रह्माण्डसँग कथा कनेक्सन',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'और भी अध्याय दिखाएँ',
     'discovery.chaptersTotal': 'कहानी में कुल अध्यायों की योग्यता',
     'discovery.readFromStart': 'पहले दिल्ली से पढ़ें',
-    'discovery.readLatest': 'नवीनतम अध्याय पढ़ें'
+    'discovery.readLatest': 'नवीनतम अध्याय पढ़ें',
+    'discovery.author': 'Author'
 };

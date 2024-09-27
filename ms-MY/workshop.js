@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Pemain treler video cerita',
     'workshop.videoTrailer.supportedPlaftorms': 'Kami menyokong Youtube, Vimeo dan Odysee',
     'workshop.videoTrailer.rumble': 'Kami juga menyokong Rumble, tetapi ingatlah untuk menyalin URL IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Adakah platform video anda hilang, beritahu kami melalui <a>maklum balas</a> kami!'
+    'workshop.videoTrailer.suggestPlatforms': 'Adakah platform video anda hilang, beritahu kami melalui <a>maklum balas</a> kami!',
+    'workshop.cover.edit': 'Change cover'
 };

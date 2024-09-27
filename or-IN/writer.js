@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'ପୂର୍ବବର୍ତ୍ତୀ ଅଧ୍ୟାୟ {publishDate, date, short} {publishDate, time}ରେ ପ୍ରକାଶ ହେବାକୁ ନିର୍ଧାରିତ କରାଯାଇଛି',
     'writer.publish.alreadyPublished': 'ଏହି ଅଧ୍ୟାୟ {publishedAt, date, short}ପୂର୍ବରୁ ପ୍ରକାଶ ହୋଇଛି । ନୂତନ ସଂସ୍କରଣ ତତ୍କାଳିକ ପ୍ରକାଶ ହେବେ।',
     'writer.publish.betaReader': 'ବେଟା',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Publish',
+    'writer.publish.now': 'Publish now'
 };

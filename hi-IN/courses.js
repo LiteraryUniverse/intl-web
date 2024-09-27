@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'पाठ का शीर्षक',
   'course.lesson.add.universe': 'कहानी/यूनिवर्स जोड़ें',
   'course.lesson.add.link': 'बाहरी लिंक जोड़ें',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

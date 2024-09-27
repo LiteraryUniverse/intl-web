@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Les titel',
   'course.lesson.add.universe': 'Voeg Verhaal/Heelal by',
   'course.lesson.add.link': 'Voeg eksterne skakel by',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

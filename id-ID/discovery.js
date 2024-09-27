@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Cari alam semesta',
     'discover.searchUniverse.description': 'Cari alam semesta-alam semesta',
     'discover.search.storyStatus': 'Status kemajuan cerita',
+    'discover.search.genres': 'Genre',
     'story.status.complete': 'Selesai',
     'story.status.inProgress': 'Sedang Berlangsung',
     'discover.search.universeConnection': 'Hubungan cerita dengan alam semesta',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Tampilkan lebih banyak bab',
     'discovery.chaptersTotal': 'Total jumlah bab dalam cerita',
     'discovery.readFromStart': 'Baca dari bab pertama',
-    'discovery.readLatest': 'Baca bab terbaru'
+    'discovery.readLatest': 'Baca bab terbaru',
+    'discovery.author': 'Author'
 };

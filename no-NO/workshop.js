@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Spiller for historie-video-trailer',
     'workshop.videoTrailer.supportedPlaftorms': 'Vi støtter Youtube, Vimeo og Odysee',
     'workshop.videoTrailer.rumble': 'Vi støtter også Rumble, men husk å kopiere IFRAME-URLen.',
-    'workshop.videoTrailer.suggestPlatforms': 'Mangler din videoplattform? Gi oss beskjed via tilbakemeldingen vår <a>her</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Mangler din videoplattform? Gi oss beskjed via tilbakemeldingen vår <a>her</a>!',
+    'workshop.cover.edit': 'Change cover'
 };

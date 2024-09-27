@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'பாடக்குறிப்பு தலைப்பு',
   'course.lesson.add.universe': 'கதை/உலகம் சேர்க்க',
   'course.lesson.add.link': 'வெளிக்கடத்தைச் சேர்க்க',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

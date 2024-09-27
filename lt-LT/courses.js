@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Pamokos pavadinimas',
   'course.lesson.add.universe': 'Pridėti Pasaką/Visatą',
   'course.lesson.add.link': 'Pridėti išorinę nuorodą',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

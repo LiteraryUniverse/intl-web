@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ब्रह्मांडाची शोध करा',
     'discover.searchUniverse.description': 'ब्रह्मांडांची शोध करा',
     'discover.search.storyStatus': 'कथेची प्रगतीची स्थिती',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'पूर्ण',
     'story.status.inProgress': 'चालू आहे',
     'discover.search.universeConnection': 'कथेचा ब्रह्मांडसंबंध',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'अधिक अध्याय दाखवा',
     'discovery.chaptersTotal': 'कहाणीतील एकूण अध्यायांची संख्या',
     'discovery.readFromStart': 'पहील्या अध्यायापासून वाचा',
-    'discovery.readLatest': 'नवीनतम अध्याय वाचा'
+    'discovery.readLatest': 'नवीनतम अध्याय वाचा',
+    'discovery.author': 'Author'
 };

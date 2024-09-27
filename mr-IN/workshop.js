@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'स्टोरी व्हिडिओ ट्रेलर प्लेयर',
     'workshop.videoTrailer.supportedPlaftorms': 'आम्ही Youtube, Vimeo आणि Odysee वर समर्थन करतो',
     'workshop.videoTrailer.rumble': 'आम्ही रंगारंगीत असलेल्या रंगामध्ये रंगाची समर्थन करतो, पण IFRAME URL कॉपी करण्यात लक्षात ठेवा.',
-    'workshop.videoTrailer.suggestPlatforms': 'तुमच्या व्हिडिओ प्लॅटफॉर्मवर काही असल्यास, आमच्याशी आमच्या <a>तपशील</a>मार्फत सांगा!'
+    'workshop.videoTrailer.suggestPlatforms': 'तुमच्या व्हिडिओ प्लॅटफॉर्मवर काही असल्यास, आमच्याशी आमच्या <a>तपशील</a>मार्फत सांगा!',
+    'workshop.cover.edit': 'Change cover'
 };

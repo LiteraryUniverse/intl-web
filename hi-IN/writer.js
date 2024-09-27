@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'पिछला चैप्टर शेड्यूल किया गया है {publishDate, date, short} पर {publishDate, time}',
     'writer.publish.alreadyPublished': 'यह चैप्टर पहले से ही {publishedAt, date, short}पर प्रकाशित किया गया था। नई संस्करण तुरंत प्रकाशित किए जाएंगे।',
     'writer.publish.betaReader': 'बीटा',
-    'writer.publish.public': 'प्रकाशित करें'
+    'writer.publish.public': 'प्रकाशित करें',
+    'writer.publish.now': 'Publish now'
 };

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ស្វែងរកជីវិតមួយចំនួន',
     'discover.searchUniverse.description': 'ស្វែងរកជីវិតច្រើននឹងច្រើនជីវិត',
     'discover.search.storyStatus': 'ស្ថានភាគរឿង',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'បញ្ចប់',
     'story.status.inProgress': 'កំពុងតែបន្ត',
     'discover.search.universeConnection': 'ការភ្ជាប់រឿងទៅជីវិត',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'បង្ហាញបញ្ជីច្រើនទៀត',
     'discovery.chaptersTotal': 'ចំនួនទសភាផ្នែកប៉ុណ្ណោះក្នុងរឿង',
     'discovery.readFromStart': 'អានពីជំពូកដំបូង',
-    'discovery.readLatest': 'អានចំណាត់ថ្នាក់ថ្មីបំផុត'
+    'discovery.readLatest': 'អានចំណាត់ថ្នាក់ថ្មីបំផុត',
+    'discovery.author': 'Author'
 };

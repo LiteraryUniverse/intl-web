@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'Tá an chaibidil roimhe seo sceidealaithe chun fhoilsiú ar {publishDate, date, short} ag {publishDate, time}',
     'writer.publish.alreadyPublished': 'Foilsíodh an chaibidil seo cheana ar {publishedAt, date, short}. Foilsítear leaganacha nua láithreach.',
     'writer.publish.betaReader': 'Beidh',
-    'writer.publish.public': 'Foilsigh'
+    'writer.publish.public': 'Foilsigh',
+    'writer.publish.now': 'Publish now'
 };

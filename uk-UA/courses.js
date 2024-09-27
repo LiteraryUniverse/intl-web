@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Назва уроку',
   'course.lesson.add.universe': 'Додати історію/Всесвіт',
   'course.lesson.add.link': 'Додати зовнішнє посилання',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

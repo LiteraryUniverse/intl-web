@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Caută un univers',
     'discover.searchUniverse.description': 'Caută universuri',
     'discover.search.storyStatus': 'Statusul progresului povestirii',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Completă',
     'story.status.inProgress': 'În curs',
     'discover.search.universeConnection': 'Legătura povestirii cu universul',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Afișează mai multe capitole',
     'discovery.chaptersTotal': 'Numărul total de capitole în poveste',
     'discovery.readFromStart': 'Citit de la primul capitol',
-    'discovery.readLatest': 'Citit ultimul capitol'
+    'discovery.readLatest': 'Citit ultimul capitol',
+    'discovery.author': 'Author'
 };

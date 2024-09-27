@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'བརྗོད་ཀྱིས་འཚོལ་ཞིབ་གསར་བརྗོད།',
     'discover.searchUniverse.description': 'བརྗོད་གསར་བརྗོད་གང་རེ་འཚོལ་ཞིབ།',
     'discover.search.storyStatus': 'གློག་འཕྲིན་གསར་བརྗོད་གནས་སྐྱེད།',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'མཇུག་གི་གློག་འཕྲིན།',
     'story.status.inProgress': 'འཛོལ་ཞིབ།',
     'discover.search.universeConnection': 'གློག་འཕྲིན་གསར་བརྗོད་དང་བརྗོད་ཀྱིས་འཚོལ་ཞིབ།',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'མཆོག་སྣོད་ཆ་འདི་ཚང་བཞིན།',
     'discovery.chaptersTotal': 'སྐུའི་ཆོས་ཚོགས་རིགས་གཞན་འབྱེད་དགོས།',
     'discovery.readFromStart': 'དཔེ་ཆ་འགྱུར་བའི་ཆོས་གྲགས་སྣོད་བརྗོད་པའི་གནས་དང་བབས་པར་ལིན་ལུ་ཁྱད་རེད།',
-    'discovery.readLatest': 'གཞུང་རེ་བསྐུར་དགོས་འདི་དང་ལས་གནས་སྟེར་རྗེས་འདི་ལོངས་སྒྲར་'
+    'discovery.readLatest': 'གཞུང་རེ་བསྐུར་དགོས་འདི་དང་ལས་གནས་སྟེར་རྗེས་འདི་ལོངས་སྒྲར་',
+    'discovery.author': 'Author'
 };

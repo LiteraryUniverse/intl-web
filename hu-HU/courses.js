@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Lecke címe',
   'course.lesson.add.universe': 'Történet/Világ hozzáadása',
   'course.lesson.add.link': 'Külső link hozzáadása',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

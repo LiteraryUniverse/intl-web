@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Titolo de la leciono',
   'course.lesson.add.universe': 'Aldoni Rakonton/Universon',
   'course.lesson.add.link': 'Aldoni eksteran ligilon',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

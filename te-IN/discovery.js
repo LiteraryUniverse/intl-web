@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'యూనివర్సుకు శోధించండి',
     'discover.searchUniverse.description': 'యూనివర్సులకు శోధించండి',
     'discover.search.storyStatus': 'కథ పురావ స్థితి',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'పూర్తి చేయబడింది',
     'story.status.inProgress': 'చల్లిసారి',
     'discover.search.universeConnection': 'కథకు యూనివర్సు కనెక్షన్',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'మరిన్ని అధ్యాయాలను చూపుము',
     'discovery.chaptersTotal': 'కథలో ఆది నుండి చదవడానికి మొత్తం అనుక్రమణిక అందులో ఉన్నది',
     'discovery.readFromStart': 'మొదటి అధ్యాయం నుండి చదవండి',
-    'discovery.readLatest': 'తాజా అధ్యాయాన్ని చదవండి'
+    'discovery.readLatest': 'తాజా అధ్యాయాన్ని చదవండి',
+    'discovery.author': 'Author'
 };

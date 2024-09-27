@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': '搜尋宇宙',
     'discover.searchUniverse.description': '搜尋宇宙',
     'discover.search.storyStatus': '故事進度狀態',
+    'discover.search.genres': 'Genres',
     'story.status.complete': '已完成',
     'story.status.inProgress': '進行中',
     'discover.search.universeConnection': '故事與宇宙的連接',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': '顯示更多章節',
     'discovery.chaptersTotal': '故事中的總章節數',
     'discovery.readFromStart': '從第一章開始閱讀',
-    'discovery.readLatest': '閱讀最新章節'
+    'discovery.readLatest': '閱讀最新章節',
+    'discovery.author': 'Author'
 };

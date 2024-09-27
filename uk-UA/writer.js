@@ -25,5 +25,6 @@ export default {
     'writer.publish.previousChapterScheduled': 'Попередній розділ заплановано для публікації {publishDate, date, short} о {publishDate, time}',
     'writer.publish.alreadyPublished': 'Цей розділ вже був опублікований {publishedAt, date, short}. Нові версії будуть опубліковані відразу.',
     'writer.publish.betaReader': 'Бета',
-    'writer.publish.public': 'Опублікувати'
+    'writer.publish.public': 'Опублікувати',
+    'writer.publish.now': 'Publish now'
 };
