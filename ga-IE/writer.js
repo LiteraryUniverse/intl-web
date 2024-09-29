@@ -26,5 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Foilsíodh an chaibidil seo cheana ar {publishedAt, date, short}. Foilsítear leaganacha nua láithreach.',
     'writer.publish.betaReader': 'Beidh',
     'writer.publish.public': 'Foilsigh',
-    'writer.publish.now': 'Publish now'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
