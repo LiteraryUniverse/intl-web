@@ -26,5 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'הפרק הזה כבר פורסם ב {publishedAt, date, short}. גרסאות חדשות יפורסמו מיד.',
     'writer.publish.betaReader': 'בטא',
     'writer.publish.public': 'פרסום',
-    'writer.publish.now': 'Publish now'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
