@@ -26,5 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Эта глава уже была опубликована {publishedAt, date, short}. Новые версии будут опубликованы немедленно.',
     'writer.publish.betaReader': 'Тестирование',
     'writer.publish.public': 'Опубликовать',
-    'writer.publish.now': 'Опубликовать сейчас'
+    'writer.publish.now': 'Опубликовать сейчас',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
