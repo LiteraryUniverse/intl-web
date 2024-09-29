@@ -26,5 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'ಈ ಅಧ್ಯಾಯವು ಈಗಾಗಲೇ ಪ್ರಕಟವಾಗಿದೆ {publishedAt, date, short}. ಹೊಸ ಆವೃತ್ತಿಗಳು ತಕ್ಷಣವೇ ಪ್ರಕಟವಾಗುತ್ತವೆ.',
     'writer.publish.betaReader': 'ಬೀಟಾ',
     'writer.publish.public': 'ಪ್ರಕಟಿಸು',
-    'writer.publish.now': 'Publish now'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
