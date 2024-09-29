@@ -26,5 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'यो अध्याय पहिले नै {publishedAt, date, short}मा प्रकाशित भयो। नयाँ संस्करणहरू तत्कालै प्रकाशित हुनेछन्।',
     'writer.publish.betaReader': 'बीटा',
     'writer.publish.public': 'प्रकाशित करें',
-    'writer.publish.now': 'Publish now'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
