@@ -26,5 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Tato kapitola byla již publikována {publishedAt, date, short}. Nové verze budou zveřejněny okamžitě.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publikovat',
-    'writer.publish.now': 'Publish now'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
