@@ -26,5 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'આ ચાપ પહેલેથી પ્રકાશિત કરવામાં આવ્યી છે {publishedAt, date, short}. નવા આવૃત્તિઓ તત્કાલ પ્રકાશિત થશે.',
     'writer.publish.betaReader': 'બીટા',
     'writer.publish.public': 'Publish',
-    'writer.publish.now': 'Publish now'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
