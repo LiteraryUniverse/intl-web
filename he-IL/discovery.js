@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'חפש יקב',
     'discover.searchUniverse.description': 'חפש יקבים',
     'discover.search.storyStatus': 'סטטוס התקדמות הסיפור',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'הסתיים',
     'story.status.inProgress': 'בתהליך',
     'discover.search.universeConnection': 'חיבור הסיפור ליקב',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'הצג עוד פרקים',
     'discovery.chaptersTotal': 'סך הכל מספר הפרקים בסיפור',
     'discovery.readFromStart': 'קרא מהפרק הראשון',
-    'discovery.readLatest': 'קרא את הפרק האחרון'
+    'discovery.readLatest': 'קרא את הפרק האחרון',
+    'discovery.author': 'Author'
 };

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Cerca un univers',
     'discover.searchUniverse.description': 'Cerca universos',
     'discover.search.storyStatus': 'Estat d\'avanç',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Complet',
     'story.status.inProgress': 'En curs',
     'discover.search.universeConnection': 'Connexió de la història amb l\'univers',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Mostrar més capítols',
     'discovery.chaptersTotal': 'Nombre total de capítols de la història',
     'discovery.readFromStart': 'Llegir des del primer capítol',
-    'discovery.readLatest': 'Llegir l\'últim capítol'
+    'discovery.readLatest': 'Llegir l\'últim capítol',
+    'discovery.author': 'Author'
 };

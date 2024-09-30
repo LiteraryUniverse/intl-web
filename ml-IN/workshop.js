@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'കഥ വീഡിയോ ട്രെയിലർ പ്ലേയർ',
     'workshop.videoTrailer.supportedPlaftorms': 'ഞങ്ങൾ Youtube, Vimeo കുടുംബത്തിൽ പിന്തുണക്കുന്നു, അല്ലെങ്കിൽ Odysee',
     'workshop.videoTrailer.rumble': 'ഞങ്ങൾ രംഗത്തും റംബിൾ പിന്തുണയ്ക്കുന്നു, പകർപ്പവകാശം ഐഫ്രെയിം URL പകർത്തുകയും അവിടെ പേസ്റ്റ് ചെയ്യുകയും ചെയ്യുക.',
-    'workshop.videoTrailer.suggestPlatforms': 'നിങ്ങളുടെ വീഡിയോ പ്ലാറ്റ്‌ഫോം ഇല്ലെങ്കിൽ, ഞങ്ങളോട് അറിയിക്കുക <a>പ്രതികരണം</a> വഴി!'
+    'workshop.videoTrailer.suggestPlatforms': 'നിങ്ങളുടെ വീഡിയോ പ്ലാറ്റ്‌ഫോം ഇല്ലെങ്കിൽ, ഞങ്ങളോട് അറിയിക്കുക <a>പ്രതികരണം</a> വഴി!',
+    'workshop.cover.edit': 'Change cover'
 };

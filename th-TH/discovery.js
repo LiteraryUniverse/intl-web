@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ค้นหาจักรวาล',
     'discover.searchUniverse.description': 'ค้นหาจักรวาล',
     'discover.search.storyStatus': 'สถานะความคืบหน้าของเรื่อง',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'เสร็จสมบูรณ์',
     'story.status.inProgress': 'กำลังดำเนินการ',
     'discover.search.universeConnection': 'ความเชื่อมโยงของเรื่องกับจักรวาล',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'แสดงบทเพิ่มเติม',
     'discovery.chaptersTotal': 'จำนวนบททั้งหมดในเรื่อง',
     'discovery.readFromStart': 'อ่านตั้งแต่ตอนแรก',
-    'discovery.readLatest': 'อ่านตอนล่าสุด'
+    'discovery.readLatest': 'อ่านตอนล่าสุด',
+    'discovery.author': 'Author'
 };

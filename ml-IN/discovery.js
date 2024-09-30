@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ഒരു യൂണിവേഴ്സിലേക്ക് തിരയൽ',
     'discover.searchUniverse.description': 'യൂണിവേഴ്സുകൾ തിരയൽ',
     'discover.search.storyStatus': 'കഥയുടെ പുരോഗതി സ്ഥിതി',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'പൂർത്തിയായി',
     'story.status.inProgress': 'പുരോഗതിയിലാണ്',
     'discover.search.universeConnection': 'കഥയും യൂണിവേഴ്സും ബന്ധപ്പെടുത്തൽ',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'കൂടുതൽ അദ്ധ്യായങ്ങൾ കാണിക്കുക',
     'discovery.chaptersTotal': 'കഥയിൽ ആകെത്തുന്ന അദ്ധ്യായങ്ങളുടെ ആകെ എണ്ണം',
     'discovery.readFromStart': 'ആദ്യ അദ്ധ്യായത്തിൽ നിന്ന് വായിക്കുക',
-    'discovery.readLatest': 'ഏറ്റവും പുതിയ അദ്ധ്യായം വായിക്കുക'
+    'discovery.readLatest': 'ഏറ്റവും പുതിയ അദ്ധ്യായം വായിക്കുക',
+    'discovery.author': 'Author'
 };

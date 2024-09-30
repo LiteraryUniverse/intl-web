@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Τίτλος μαθήματος',
   'course.lesson.add.universe': 'Προσθήκη Ιστορίας/Σύμπαντος',
   'course.lesson.add.link': 'Προσθήκη εξωτερικού συνδέσμου',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

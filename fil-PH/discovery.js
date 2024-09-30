@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'I-search ang isang palapagang mundo',
     'discover.searchUniverse.description': 'I-search ang mga palapagang mundo',
     'discover.search.storyStatus': 'Katayuang pag-angat ng kwento',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Kumpleto',
     'story.status.inProgress': 'Patuloy',
     'discover.search.universeConnection': 'Koneksyon ng kwento sa palapagang mundo',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Ipakita ang mas maraming mga kabanata',
     'discovery.chaptersTotal': 'Kabuuang bilang ng mga kabanata sa kwento',
     'discovery.readFromStart': 'Basahin mula sa unang kabanata',
-    'discovery.readLatest': 'Basahin ang pinakabagong kabanata'
+    'discovery.readLatest': 'Basahin ang pinakabagong kabanata',
+    'discovery.author': 'Author'
 };

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'એક યુનિવર્સ માટે શોધો',
     'discover.searchUniverse.description': 'યુનિવર્સો માટે શોધો',
     'discover.search.storyStatus': 'વાર્તાનો પ્રગતિનો સ્થિતિ',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'પૂર્ણ',
     'story.status.inProgress': 'ચાલુ છે',
     'discover.search.universeConnection': 'વાર્તાનો યુનિવર્સ સંપૃક્ષ્ટતા',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'વધુ અધ્યાયો બતાવો',
     'discovery.chaptersTotal': 'કથામાં કુલ અધ્યાયોની સંખ્યા',
     'discovery.readFromStart': 'પ્રથમ અધ્યાયથી વાંચો',
-    'discovery.readLatest': 'તાજેતરનું અધ્યાય વાંચો'
+    'discovery.readLatest': 'તાજેતરનું અધ્યાય વાંચો',
+    'discovery.author': 'Author'
 };

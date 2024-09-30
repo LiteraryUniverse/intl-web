@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': '{publishDate, date, short} లో మునుపటి అధ్యాయం ప్రచురించడానికి అనుకుంటే, {publishDate, time}లో ప్రచురించనిపించవచ్చు.',
     'writer.publish.alreadyPublished': 'ఈ అధ్యాయం ఈప్పటికే {publishedAt, date, short}లో ప్రచురించబడింది. కొత్త వెర్షన్లు తక్కువ సమయంలో ప్రచురించబడతాయి.',
     'writer.publish.betaReader': 'బీటా',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Publish',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

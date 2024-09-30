@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'កម្មវិធីបញ្ជាក់វីដេអូរបៀបបង្ហាញរឿងនិទាន',
     'workshop.videoTrailer.supportedPlaftorms': 'យើងស្គាល់ថាយើងអាចគាំទ្រវីដេម៉ូន Youtube, Vimeo និង Odysee',
     'workshop.videoTrailer.rumble': 'យើងកែប្រែផ្សាយផ្សារ Rumble ផ្សេងៗទៀតផងដែរ។ ប៉ុន្តែកុំភ្លេចចម្លង URL របស់ IFRAME។',
-    'workshop.videoTrailer.suggestPlatforms': 'តើមានប្រព័ន្ធវីដេអូរបស់អ្នកខ្វះមែនទេ? សូមប្រាប់យើងតាមរយៈការគាំទ្រ <a>យោបល់</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'តើមានប្រព័ន្ធវីដេអូរបស់អ្នកខ្វះមែនទេ? សូមប្រាប់យើងតាមរយៈការគាំទ្រ <a>យោបល់</a>!',
+    'workshop.cover.edit': 'Change cover'
 };

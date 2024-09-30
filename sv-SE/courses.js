@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Lektionstitel',
   'course.lesson.add.universe': 'Lägg till Story/Universe',
   'course.lesson.add.link': 'Lägg till extern länk',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

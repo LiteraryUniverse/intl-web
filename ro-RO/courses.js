@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Titlu lecție',
   'course.lesson.add.universe': 'Adăugați Poveste/Univers',
   'course.lesson.add.link': 'Adăugați link extern',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

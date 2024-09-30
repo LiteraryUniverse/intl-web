@@ -27,6 +27,7 @@ export default {
     'discover.searchUniverse.title': 'Hľadanie vesmíru',
     'discover.searchUniverse.description': 'Vyhľadávanie vesmírov',
     'discover.search.storyStatus': 'Stav postupu príbehu',
+    'discover.search.genres': 'Žánre',
     'story.status.complete': 'Dokončený',
     'story.status.inProgress': 'Prebiehajúce',
     'discover.search.universeConnection': 'Spojenie príbehu s vesmírom',
@@ -64,5 +65,6 @@ export default {
     'discovery.chapters.showMore': 'Zobraziť viac kapitol',
     'discovery.chaptersTotal': 'Celkový počet kapitol v príbehu',
     'discovery.readFromStart': 'Čítať od prvej kapitoly',
-    'discovery.readLatest': 'Čítať najnovšiu kapitolu'
+    'discovery.readLatest': 'Čítať najnovšiu kapitolu',
+    'discovery.author': 'Autor'
 };

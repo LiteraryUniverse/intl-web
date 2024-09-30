@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'ตอนก่อนหน้านี้มีการกำหนดตารางการเผยแพร่ในวันที่ {publishDate, date, short} เวลา {publishDate, time}',
     'writer.publish.alreadyPublished': 'ตอนนี้ได้เผยแพร่ตอนนี้เรียบร้อยแล้วเมื่อวันที่ {publishedAt, date, short}รุ่นใหม่จะถูกเผยแพร่ทันที',
     'writer.publish.betaReader': 'เบต้า',
-    'writer.publish.public': 'เผยแพร่'
+    'writer.publish.public': 'เผยแพร่',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

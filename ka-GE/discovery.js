@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'უნივერსის ძიება',
     'discover.searchUniverse.description': 'უნივერსების ძიება',
     'discover.search.storyStatus': 'ისტორიის პროგრესის სტატუსი',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'დასრულებული',
     'story.status.inProgress': 'მიმდინარეობს',
     'discover.search.universeConnection': 'ისტორიის კავშირი უნივერსულისთვის',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'მსგავსი თემების მეტი ნახვა',
     'discovery.chaptersTotal': 'სათაურის ყველა თემი',
     'discovery.readFromStart': 'წაიკითხეთ პირველი თავადი თვალწინააღმდეგეს',
-    'discovery.readLatest': 'წაიკითხეთ უახლესი თავადი თვალწინააღმდეგეს'
+    'discovery.readLatest': 'წაიკითხეთ უახლესი თავადი თვალწინააღმდეგეს',
+    'discovery.author': 'Author'
 };

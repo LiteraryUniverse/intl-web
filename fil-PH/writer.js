@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'Ang nakaraang kabanata ay naka-schedule na ilathala sa {publishDate, date, short} sa {publishDate, time}',
     'writer.publish.alreadyPublished': 'Ang kabanatang ito ay naipublish na noong {publishedAt, date, short}. Ang mga bagong bersyon ay agad na ipapublish.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Ilathala'
+    'writer.publish.public': 'Ilathala',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

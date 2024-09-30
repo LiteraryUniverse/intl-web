@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'Det föregående kapitlet är schemalagt att publiceras den {publishDate, date, short} kl. {publishDate, time}',
     'writer.publish.alreadyPublished': 'Det här kapitlet har redan publicerats den {publishedAt, date, short}. Nya versioner kommer att publiceras omedelbart.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Publicera'
+    'writer.publish.public': 'Publicera',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

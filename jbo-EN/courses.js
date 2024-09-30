@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': "Lojban lepo'u",
   'course.lesson.add.universe': "Jmina ju'otci/ro'universo",
   'course.lesson.add.link': 'Jmina traji terjmina',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

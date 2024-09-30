@@ -291,5 +291,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Přehrávač video upoutávky na příběh',
     'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee',
     'workshop.videoTrailer.rumble': 'Podporujeme také Rumble, ale nezapomeňte zkopírovat URL adresu IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'Chybí vám vaše video platforma? Dejte nám vědět prostřednictvím naší <a>zpětné vazby</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'Chybí vám vaše video platforma? Dejte nám vědět prostřednictvím naší <a>zpětné vazby</a>!',
+    'workshop.cover.edit': 'Change cover'
 };

@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': '수업 제목',
   'course.lesson.add.universe': '이야기/우주 추가',
   'course.lesson.add.link': '외부 링크 추가',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

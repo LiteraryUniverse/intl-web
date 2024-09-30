@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'เครื่องเล่นวิดีโอตัวอย่างเรื่องราว',
     'workshop.videoTrailer.supportedPlaftorms': 'เราสนับสนุน Youtube, Vimeo และ Odysee',
     'workshop.videoTrailer.rumble': 'เรายังสนับสนุน Rumble ด้วย แต่อย่าลืมคัดลอก URL ของ IFRAME',
-    'workshop.videoTrailer.suggestPlatforms': 'หากแพลตฟอร์มวิดีโอของคุณหายไป โปรดแจ้งให้เราทราบผ่านทาง <a>คำติชม</a> ของเรา!'
+    'workshop.videoTrailer.suggestPlatforms': 'หากแพลตฟอร์มวิดีโอของคุณหายไป โปรดแจ้งให้เราทราบผ่านทาง <a>คำติชม</a> ของเรา!',
+    'workshop.cover.edit': 'Change cover'
 };

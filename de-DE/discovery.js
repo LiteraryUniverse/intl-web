@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Suche nach einem Universum',
     'discover.searchUniverse.description': 'Suche nach einem Universum',
     'discover.search.storyStatus': 'Fortschrittsstatus der Geschichte',
+    'discover.search.genres': 'Genre',
     'story.status.complete': 'Abgeschlossen',
     'story.status.inProgress': 'Laufend',
     'discover.search.universeConnection': 'Verbindung der Geschichte mit dem Universum',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Mehr Kapitel anzeigen',
     'discovery.chaptersTotal': 'Gesamtzahl der Kapitel in der Geschichte',
     'discovery.readFromStart': 'Vom ersten Kapitel lesen',
-    'discovery.readLatest': 'Das neueste Kapitel lesen'
+    'discovery.readLatest': 'Das neueste Kapitel lesen',
+    'discovery.author': 'Autor'
 };

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Otsi universumit',
     'discover.searchUniverse.description': 'Otsi universumeid',
     'discover.search.storyStatus': 'Loo edenemise olek',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Valmis',
     'story.status.inProgress': 'Käimas',
     'discover.search.universeConnection': 'Ühendus loo ja universumi vahel',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Näita rohkem peatükke',
     'discovery.chaptersTotal': 'Lugude koguarv',
     'discovery.readFromStart': 'Lugeda esimesest peatükist',
-    'discovery.readLatest': 'Lugeda viimast peatükist'
+    'discovery.readLatest': 'Lugeda viimast peatükist',
+    'discovery.author': 'Author'
 };

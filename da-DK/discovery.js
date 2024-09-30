@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Søg efter et univers',
     'discover.searchUniverse.description': 'Søg efter universer',
     'discover.search.storyStatus': 'Historie fremskridt status',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Fuldført',
     'story.status.inProgress': 'I gang',
     'discover.search.universeConnection': 'Forbindelse mellem historie og univers',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Vis flere kapitler',
     'discovery.chaptersTotal': 'Samlet antal kapitler i historien',
     'discovery.readFromStart': 'Læs fra første kapitel',
-    'discovery.readLatest': 'Læs det seneste kapitel'
+    'discovery.readLatest': 'Læs det seneste kapitel',
+    'discovery.author': 'Author'
 };

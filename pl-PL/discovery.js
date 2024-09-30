@@ -25,6 +25,7 @@ export default {
     'discover.searchUniverse.title': 'Poszukiwanie wszechświata',
     'discover.searchUniverse.description': 'Poszukiwanie wszechświatów',
     'discover.search.storyStatus': 'Status postępu historii',
+    'discover.search.genres': 'Gatunki',
     'story.status.complete': 'Kompletny',
     'story.status.inProgress': 'Trwa',
     'discover.search.universeConnection': 'Powiązanie historii z wszechświatem',
@@ -64,5 +65,6 @@ export default {
     'discovery.chapters.showMore': 'Pokaż więcej rozdziałów',
     'discovery.chaptersTotal': 'Liczba wszystkich rozdziałów w opowiadaniu',
     'discovery.readFromStart': 'Czytaj od pierwszego rozdziału',
-    'discovery.readLatest': 'Czytaj najnowszy rozdział'
+    'discovery.readLatest': 'Czytaj najnowszy rozdział',
+    'discovery.author': 'Autor'
 };

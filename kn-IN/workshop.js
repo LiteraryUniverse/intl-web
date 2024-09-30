@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'ಕಥಾ ವೀಡಿಯೊ ಟ್ರೈಲರ್ ಪ್ಲೇಯರ್',
     'workshop.videoTrailer.supportedPlaftorms': 'ನಾವು Youtube, Vimeo ಮತ್ತು Odysee ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತೇವೆ',
     'workshop.videoTrailer.rumble': 'ನಾವು ರಂಬಲ್ ಅನ್ನು ಹೂಡಿಕೆಗೆ ಬೆಂಬಲಿಸುತ್ತೇವೆ, ಆದರೆ IFRAME URL ಅನ್ನು ನಕಲಿಸುವುದನ್ನು ಮರೆತುಬಿಡಿ.',
-    'workshop.videoTrailer.suggestPlatforms': 'ನಿಮ್ಮ ವೀಡಿಯೊ ಪ್ಲಾಟ್‌ಫಾರಂ ಅನ್ನು ಕಳುಹಿಸಿದ್ದೀರಾ, ನಮಗೆ ತಿಳಿಸಿ ಮೂಲಕ <a>ಪ್ರತಿಕ್ರಿಯೆ</a> ನೀಡಿ!'
+    'workshop.videoTrailer.suggestPlatforms': 'ನಿಮ್ಮ ವೀಡಿಯೊ ಪ್ಲಾಟ್‌ಫಾರಂ ಅನ್ನು ಕಳುಹಿಸಿದ್ದೀರಾ, ನಮಗೆ ತಿಳಿಸಿ ಮೂಲಕ <a>ಪ್ರತಿಕ್ರಿಯೆ</a> ನೀಡಿ!',
+    'workshop.cover.edit': 'Change cover'
 };

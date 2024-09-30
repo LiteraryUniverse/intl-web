@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'celxa se samselvinji',
     'discover.searchUniverse.description': 'celxa se samselvinji',
     'discover.search.storyStatus': 'samselvinji pe skina',
+    'discover.search.genres': 'larlei',
     'story.status.complete': 'pipno',
     'story.status.inProgress': 'Ciska',
     'discover.search.universeConnection': 'steci-be-lo-skina tangra',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': '.i lo nu pi o\'acu\'i plinynoi danfu',
     'discovery.chaptersTotal': '.i loi traji plinynoi danfu ku\'o',
     'discovery.readFromStart': '.i lo nu se tamsmi lo plinynoi danfu',
-    'discovery.readLatest': '.i lo nu se tamsmi lo sui\'i danfu lo plinynoi danfu'
+    'discovery.readLatest': '.i lo nu se tamsmi lo sui\'i danfu lo plinynoi danfu',
+    'discovery.author': '.i lo skicu'
 };

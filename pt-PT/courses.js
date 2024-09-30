@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'Título da lição',
   'course.lesson.add.universe': 'Adicionar História/Universo',
   'course.lesson.add.link': 'Adicionar link externo',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

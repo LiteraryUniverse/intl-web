@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'પાઠ શીર્ષક',
   'course.lesson.add.universe': 'કથા/યુનિવર્સ ઉમેરો',
   'course.lesson.add.link': 'બાહ્ય લિંક ઉમેરો',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

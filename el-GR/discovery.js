@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Αναζητήστε ένα σύμπαν',
     'discover.searchUniverse.description': 'Αναζητήστε σύμπαντα',
     'discover.search.storyStatus': 'Κατάσταση προόδου ιστορίας',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Ολοκληρωμένη',
     'story.status.inProgress': 'Σε εξέλιξη',
     'discover.search.universeConnection': 'Σύνδεση ιστορίας με σύμπαν',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Εμφάνιση περισσότερων κεφαλαίων',
     'discovery.chaptersTotal': 'Συνολικός αριθμός κεφαλαίων στην ιστορία',
     'discovery.readFromStart': 'Διαβάστε από το πρώτο κεφάλαιο',
-    'discovery.readLatest': 'Διαβάστε το τελευταίο κεφάλαιο'
+    'discovery.readLatest': 'Διαβάστε το τελευταίο κεφάλαιο',
+    'discovery.author': 'Author'
 };

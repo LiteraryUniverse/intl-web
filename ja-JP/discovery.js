@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': '宇宙関連物語を探す',
     'discover.searchUniverse.description': '宇宙関連物語を探す',
     'discover.search.storyStatus': '物語の進行状況',
+    'discover.search.genres': 'ジャンル',
     'story.status.complete': '完了',
     'story.status.inProgress': '進行中',
     'discover.search.universeConnection': '物語と宇宙のつながり',
@@ -56,5 +57,6 @@ export default {
     'discovery.chapters.showMore': 'もっと多くの章を表示',
     'discovery.chaptersTotal': '物語の総章数',
     'discovery.readFromStart': '最初の章から読んでください',
-    'discovery.readLatest': '最新の章を読んでください'
+    'discovery.readLatest': '最新の章を読んでください',
+    'discovery.author': '作者'
 };

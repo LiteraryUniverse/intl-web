@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'বিশ্ব অনুসন্ধান করুন',
     'discover.searchUniverse.description': 'বিশ্ব অনুসন্ধান করুন',
     'discover.search.storyStatus': 'গল্পের অগ্রগতির স্থিতি',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'সম্পূর্ণ',
     'story.status.inProgress': 'চলি আছে',
     'discover.search.universeConnection': 'গল্পের ইউনিভার্সের সংযোগ',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'আরও অধ্যায় দেখান',
     'discovery.chaptersTotal': 'গল্পের মোট সংখ্যা পর্যালোচনা করুন',
     'discovery.readFromStart': 'প্ৰথম অধ্যায়ৰ পৰা পঢ়ক',
-    'discovery.readLatest': 'সাম্প্ৰতিক অধ্যায় পৰা পঢ়ক'
+    'discovery.readLatest': 'সাম্প্ৰতিক অধ্যায় পৰা পঢ়ক',
+    'discovery.author': 'Author'
 };

@@ -29,4 +29,9 @@ export default {
   'course.lesson.title': 'عنوان الدرس',
   'course.lesson.add.universe': 'إضافة قصة/عالم',
   'course.lesson.add.link': 'إضافة رابط خارجي',
+  'course.status': 'Status',
+  'course.active': 'Activity',
+  'course.active.message': 'Active',
+  'course.inactive': 'Inactive',
+  'course.module.edit': 'Edit module name',
 };

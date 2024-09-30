@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Hae universumia',
     'discover.searchUniverse.description': 'Hae universumeja',
     'discover.search.storyStatus': 'Tarinan edistyminen',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'Valmis',
     'story.status.inProgress': 'Kesken',
     'discover.search.universeConnection': 'Tarinan yhdistäminen universumiin',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Näytä lisää lukuja',
     'discovery.chaptersTotal': 'Tarinan kokonaislukujen määrä',
     'discovery.readFromStart': 'Lue ensimmäisestä luvusta',
-    'discovery.readLatest': 'Lue viimeisin luku'
+    'discovery.readLatest': 'Lue viimeisin luku',
+    'discovery.author': 'Author'
 };
