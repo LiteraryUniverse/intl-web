@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'Questo capitolo è già stato pubblicato il {publishedAt, date, short}. Le nuove versioni saranno pubblicate immediatamente.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Pubblica',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

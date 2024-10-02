@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'Táto kapitola už bola uverejnená {publishedAt, date, short}. Nové verzie budú uverejnené okamžite.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publikovať',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

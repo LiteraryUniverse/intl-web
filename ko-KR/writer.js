@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': '이 챕터는 이미 {publishedAt, date, short}에 게시되었습니다. 새 버전은 즉시 게시됩니다.',
     'writer.publish.betaReader': '베타',
     'writer.publish.public': '게시',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

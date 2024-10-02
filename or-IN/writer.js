@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'ଏହି ଅଧ୍ୟାୟ {publishedAt, date, short}ପୂର୍ବରୁ ପ୍ରକାଶ ହୋଇଛି । ନୂତନ ସଂସ୍କରଣ ତତ୍କାଳିକ ପ୍ରକାଶ ହେବେ।',
     'writer.publish.betaReader': 'ବେଟା',
     'writer.publish.public': 'Publish',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

@@ -128,7 +128,7 @@ export default {
   'common.challenges': 'Challenges',
   // for beta only
   'beta.notice':
-    'Welcome to Literary Universe BETA. This is a public preview and as such the app is still work in progress. This means that you can still expect errors and unfinished features. If you encounter an error or something not working please let us know and please be patient while we get get everything in place.',
+    'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
   'beta.thanks': 'Thank you for your support!',
   'scratchpad.about': 'Your notes and ideas accessible anywhere on the site.',
   'common.feedback': 'Feedback',
@@ -266,8 +266,8 @@ export default {
   create: 'Create',
 
   'banner.support':
-    'Literary Universe is supported by users like you! Please consider subscribing to one of our subscription plans to stay independent and make Literary Universe event better!',
-  'banner.seePlans': 'Visit our plans page for more information.',
+    'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
+  'banner.seePlans': 'Visit our roadmap for more information.',
 
   'common.noAccountQuestion': "Don't have an account?",
   'common.haveAccountQuestion': 'Already have an account?',
@@ -292,5 +292,5 @@ export default {
   'common.popular': 'Popular',
   'common.newest': 'Newest',
   'common.oldest': 'Oldest',
-  'common.noSelection': 'No selection'
+  'common.noSelection': 'No selection',
 }

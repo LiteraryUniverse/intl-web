@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'Ez a fejezet már közzétéve volt ekkor: {publishedAt, date, short}. Az új verziók azonnal közzététele történik.',
     'writer.publish.betaReader': 'Béta',
     'writer.publish.public': 'Közzététel',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

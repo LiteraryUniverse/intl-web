@@ -117,7 +117,11 @@ export default {
     copyrights: 'Авторские права',
     'common.challenges': 'Испытания',
     // for beta only
+<<<<<<< HEAD
     'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+=======
+    'beta.notice': 'Добро пожаловать в бета-версию Literary Universe! Это ранняя версия нашей платформы, и мы продолжаем активно работать над её улучшением. В результате вы можете столкнуться с некоторыми ошибками или недоработанными функциями. Если что-то покажется вам неправильным, мы будем очень признательны за ваши отзывы и понимание, поскольку мы продолжаем совершенствовать наши возможности.',
+>>>>>>> origin/l10n_master
     'beta.thanks': 'Спасибо за поддержку!',
     'scratchpad.about': 'Ваши заметки и идеи доступны в любом месте на сайте.',
     'common.feedback': 'Обратная связь',
@@ -244,8 +248,13 @@ export default {
     'select.noSearchResults': 'Ничего не найдено по «{search}»',
     'select.removeOption': 'Удалить {option}',
     create: 'Создать',
+<<<<<<< HEAD
     'banner.support': 'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
     'banner.seePlans': 'Visit our roadmap for more information.',
+=======
+    'banner.support': 'Literary Universe стала возможной благодаря поддержке таких пользователей, как вы. Чтобы помочь нам сохранить независимость и улучшить платформу, пожалуйста, подпишитесь на один из наших тарифных планов.',
+    'banner.seePlans': 'Для подробностей посетите нашу карту разработки.',
+>>>>>>> origin/l10n_master
     'common.noAccountQuestion': 'Нет учётной записи?',
     'common.haveAccountQuestion': 'Уже есть учётная запись?',
     'common.socialLogin': 'Войти через другие сервисы',

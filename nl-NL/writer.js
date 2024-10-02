@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'Dit hoofdstuk is al gepubliceerd op {publishedAt, date, short}. Nieuwe versies worden direct gepubliceerd.',
     'writer.publish.betaReader': 'Bèta',
     'writer.publish.public': 'Publiceren',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'ఈ అధ్యాయం ఈప్పటికే {publishedAt, date, short}లో ప్రచురించబడింది. కొత్త వెర్షన్లు తక్కువ సమయంలో ప్రచురించబడతాయి.',
     'writer.publish.betaReader': 'బీటా',
     'writer.publish.public': 'Publish',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

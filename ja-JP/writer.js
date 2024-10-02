@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'この章は{publishedAt, date, short}に既に公開されています。新しいバージョンはもうすぐ公開されます。',
     'writer.publish.betaReader': 'ベータ版',
     'writer.publish.public': '公開する',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

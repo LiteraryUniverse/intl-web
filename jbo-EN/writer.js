@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'Ti kei la {publishedAt, date, short}cu se tarti la ni\'o . Lo se lidne se jalge cu zifre lo nu da se tarti',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publish',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

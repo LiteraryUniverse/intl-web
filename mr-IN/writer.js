@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'हा अध्याय आधीच प्रकाशित झाला होता {publishedAt, date, short}. नवीन आवृत्तींनी तत्परतेने प्रकाशित केली जाईल.',
     'writer.publish.betaReader': 'बीटा',
     'writer.publish.public': 'प्रकाशित करा',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };

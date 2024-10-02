@@ -26,5 +26,10 @@ export default {
     'writer.publish.alreadyPublished': 'Det här kapitlet har redan publicerats den {publishedAt, date, short}. Nya versioner kommer att publiceras omedelbart.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publicera',
+<<<<<<< HEAD
     'writer.publish.now': 'Publish now'
+=======
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+>>>>>>> origin/l10n_master
 };
