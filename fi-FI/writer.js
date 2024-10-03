@@ -17,19 +17,15 @@ export default {
     'finder.remove': 'Poista yhteys',
     'finder.connect': 'Yhdistä valinta tietosanakirjaan',
     'writer.aside.ariaLabel': 'Ohjevalikon vaihtoehdot',
-    'writer.nothingToSave': 'Nothing to save',
-    'writer.publish.publishAria': 'Publication options',
-    'writer.publish.scheduleExplained': 'You can either publish immediately or schedule the chapter to be available at a later date.',
-    'writer.publish.schedule': 'Set publication date time',
-    'writer.publish.previousChapterPublished': 'The previous chapter was published on {publishDate, date, short} at {publishDate, time}',
-    'writer.publish.previousChapterScheduled': 'The previous chapter is scheduled to be published on {publishDate, date, short} at {publishDate, time}',
-    'writer.publish.alreadyPublished': 'This chapter was already published on {publishedAt, date, short}. New versions will be published immediately.',
+    'writer.nothingToSave': 'Ei tallennettavaa',
+    'writer.publish.publishAria': 'Julkaisuasetukset',
+    'writer.publish.scheduleExplained': 'Voit joko julkaista heti tai ajoittaa luvun saataville myöhempään ajankohtaan.',
+    'writer.publish.schedule': 'Aseta julkaisupäivämäärä ja -aika',
+    'writer.publish.previousChapterPublished': 'Edellinen luku julkaistiin {publishDate, date, short} klo {publishDate, time}',
+    'writer.publish.previousChapterScheduled': 'Edellinen luku on ajoitettu julkaistavaksi {publishDate, date, short} klo {publishDate, time}',
+    'writer.publish.alreadyPublished': 'Tämä luku on jo julkaistu {publishedAt, date, short}. Uudet versiot julkaistaan välittömästi.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Publish',
-<<<<<<< HEAD
-    'writer.publish.now': 'Publish now'
-=======
-    'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
->>>>>>> origin/l10n_master
+    'writer.publish.public': 'Julkaise',
+    'writer.publish.now': 'Julkaise nyt',
+    'writer.publish.schedulePrevious': 'Sinun on julkaistava tai ajoitettava edellisen luvun julkaisu ennen kuin voit julkaista tämän.'
 };

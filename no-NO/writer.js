@@ -26,10 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Dette kapittelet ble allerede publisert den {publishedAt, date, short}. Nye versjoner vil bli publisert umiddelbart.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publiser',
-<<<<<<< HEAD
-    'writer.publish.now': 'Publish now'
-=======
-    'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
->>>>>>> origin/l10n_master
+    'writer.publish.now': 'Publiser nå',
+    'writer.publish.schedulePrevious': 'Du må publisere eller planlegge publiseringen av forrige kapittel før du kan publisere dette.'
 };
