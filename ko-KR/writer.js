@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': '이 챕터는 이미 {publishedAt, date, short}에 게시되었습니다. 새 버전은 즉시 게시됩니다.',
     'writer.publish.betaReader': '베타',
     'writer.publish.public': '게시',
-    'writer.publish.now': '지금 게시',
-    'writer.publish.schedulePrevious': '이 장을 게시하려면 이전 장을 먼저 게시하거나 게시 일정을 잡아야 합니다.'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
