@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'See peatükk oli juba avaldatud {publishedAt, date, short}. Uued versioonid avaldatakse kohe.',
     'writer.publish.betaReader': 'Beeta',
     'writer.publish.public': 'Avalda',
-    'writer.publish.now': 'Avalda kohe',
-    'writer.publish.schedulePrevious': 'Enne kui saad selle peatüki avaldada, pead eelneva peatüki avaldama või selle avaldamise ajastama.'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
