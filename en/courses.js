@@ -4,7 +4,7 @@ export default {
   'course.create': 'Create a new course',
   'course.reading.title': 'Reading assignment title',
   'course.question.add': 'Add question',
-  'course.add.module': 'Add module',
+  'course.add.courseElement': 'Add a new course element',
   'course.lessons.newMessage': 'Create and organize your lessons for effective teaching',
   'course.reading.new': 'Reading Assignment',
   'course.reading.newMessage': 'Create and organize reading assignments for your students',
