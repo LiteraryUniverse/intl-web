@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Ĉi tiu ĉapitro jam estis publikigita je {publishedAt, date, short}. Novaj versioj estos publikigitaj tuj.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publikigi',
-    'writer.publish.now': 'Publikigu nun',
-    'writer.publish.schedulePrevious': 'Vi devas publikigi aŭ plani la publikigon de la antaŭa ĉapitro antaŭ ol vi povas publikigi ĉi tiun.'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
