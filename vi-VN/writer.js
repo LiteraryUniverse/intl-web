@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Chương này đã được xuất bản vào ngày {publishedAt, date, short}. Phiên bản mới sẽ được xuất bản ngay lập tức.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Xuất bản',
-    'writer.publish.now': 'Xuất bản ngay',
-    'writer.publish.schedulePrevious': 'Bạn cần xuất bản hoặc lên lịch xuất bản chương trước trước khi có thể xuất bản chương này.'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
