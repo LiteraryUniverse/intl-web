@@ -34,4 +34,9 @@ export default {
   'course.active.message': 'Активный',
   'course.inactive': 'Неактивный',
   'course.module.edit': 'Изменить имя модуля',
+  'course.upload.resource': 'Upload a file resource',
+  'course.question.answer': 'Add answer',
+  'course.question.open': 'Open question',
+  'course.question.close': 'Closed question',
+  'course.question.multiple': 'Multiple-choice question',
 };
