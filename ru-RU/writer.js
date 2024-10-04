@@ -27,5 +27,5 @@ export default {
     'writer.publish.betaReader': 'Тестирование',
     'writer.publish.public': 'Опубликовать',
     'writer.publish.now': 'Опубликовать сейчас',
-    'writer.publish.schedulePrevious': 'Вам нужно опубликовать или запланировать публикацию предыдущей главы, прежде чем вы сможете опубликовать эту.'
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
