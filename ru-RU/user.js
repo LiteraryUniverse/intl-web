@@ -22,11 +22,11 @@ export default {
     'user.friend.list.requests': 'Запросы в список друзей',
     'user.friend.norequests': 'У вас нет запросов в список друзей.',
     'user.dashboardWelcome': `{dayPart, select,
-    morning {Доброе утро}
-    afternoon {Добрый день}
-    evening {Добрый вечер}
-    night {Доброй ночи}
-    other {Доброго дня}
+    morning {Доброе утро,}
+    afternoon {Добрый день,}
+    evening {Добрый вечер,}
+    night {Доброй ночи,}
+    other {Доброго дня,}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Этот автор публикуется традиционным способом',
     'user.verification.luAuthor': 'Известный писатель Literary Universe',
