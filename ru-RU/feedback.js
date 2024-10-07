@@ -55,7 +55,7 @@ export default {
   } нарушается?`,
     'faq.section.about': 'О нас',
     'faq.section.settings': 'Настройки',
-    'faq.section.discovery': 'Исследовать',
+    'faq.section.discovery': 'Путешествие',
     'faq.section.reader': 'Читатель',
     'faq.section.library': 'Библиотека',
     'faq.section.workshop': 'Мастерская',
@@ -85,7 +85,7 @@ export default {
     'faq.question.settings.translationMistake': 'Мной была замечена ошибка в тексте на сайте, где мне о ней сообщить?',
     'faq.answer.settings.translationMistake': 'Все наши языковые файлы доступны на GitHub. Вы можете <a target="_blank" href="https://github.com/LiteraryUniverse/intl-web/issues/new/choose">сообщить об этой проблеме там</a> или в разделе ошибок в обратной связи, или, если вам так хочется, вы можете исправить её самостоятельно на <a href="https://crowdin.com/project/literary-universe" target="_blank">нашей странице Crowdin</a>.',
     // Discovery questions
-    'faq.question.discovery.explain': 'Что такое раздел «Исследование»?',
+    'faq.question.discovery.explain': 'Что такое раздел «Путешествие»?',
     'faq.answer.discovery.explain': 'Раздел «Исследовать» - это место, где вы можете найти новые истории, миры, блоги, группы и другой контент. Здесь можно исследовать и находить новые материалы для чтения и наслаждения.',
     // Writer
     'faq.question.writer.howToCreateStory': 'Как создать новую историю в Literary Universe?',
