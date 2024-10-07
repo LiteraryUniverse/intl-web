@@ -12,7 +12,7 @@ export default {
     'common.signup': 'Регистрация',
     'common.signout': 'Выход',
     'common.dashboard': 'Панель управления',
-    'common.discovery': 'Исследовать',
+    'common.discovery': 'Путешествие',
     'common.library': 'Библиотека',
     'common.library.own': 'Ваша библиотека',
     'common.workshop': 'Мастерская',
