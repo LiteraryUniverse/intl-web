@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'ଆପଣଙ୍କ ଫାନ କ୍ଲବର ଚଢ଼ାଇ ଯୋଇଥିବାକୁ ପରିଚାଳିତ କରନ୍ତୁ',
     'plans.fanClub.subscribers': 'ସଦସ୍ୟଗଣ',
     'plans.fanClub.activatedLabel': 'ଫ୍ୟାନ୍ କ୍ଲବଟି ସକ୍ରିୟ ହୋଇଛି',
-    'plans.fanClub.inactiveWarning': 'ଆପଣଙ୍କ ଫାନ୍ କ୍ଲବ ଏହି ମାମିଲାରେ ସକ୍ରିୟରେ ନୁହେଲେ, ସାଧାରଣ ସିଦ୍ଧାନ୍ତରେ ପଛକୁ ଆପଣ ଯୋଡ଼ିବାକୁ ଆଗେରି ଆସିପାରିବେ । ସେଟିଂସରେ ଏହି ସକ୍ରିୟରେ କରିପାରିବେ ।'
+    'plans.fanClub.inactiveWarning': 'ଆପଣଙ୍କ ଫାନ୍ କ୍ଲବ ଏହି ମାମିଲାରେ ସକ୍ରିୟରେ ନୁହେଲେ, ସାଧାରଣ ସିଦ୍ଧାନ୍ତରେ ପଛକୁ ଆପଣ ଯୋଡ଼ିବାକୁ ଆଗେରି ଆସିପାରିବେ । ସେଟିଂସରେ ଏହି ସକ୍ରିୟରେ କରିପାରିବେ ।',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

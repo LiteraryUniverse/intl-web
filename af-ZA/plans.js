@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Bestuur jou ondersteunersklub intekeninge',
     'plans.fanClub.subscribers': 'Intekenare',
     'plans.fanClub.activatedLabel': 'Ondersteunersklub geaktiveer',
-    'plans.fanClub.inactiveWarning': 'Jou ondersteunersklub is nog nie geaktiveer nie, jy kan nog steeds planne voorberei en sodra jy gereed is kan jy dit aktiveer in instellings.'
+    'plans.fanClub.inactiveWarning': 'Jou ondersteunersklub is nog nie geaktiveer nie, jy kan nog steeds planne voorberei en sodra jy gereed is kan jy dit aktiveer in instellings.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

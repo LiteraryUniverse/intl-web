@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'zelge\'i lo do nanca skami klani fi lo bajra girzu be do',
     'plans.fanClub.subscribers': 'valsi',
     'plans.fanClub.activatedLabel': 'ko\'a cilre diklo fi lo farna klani',
-    'plans.fanClub.inactiveWarning': 'Lo fanva klubi be do cu na aktivi , do ku\'a kakne lo nu tcini kei gi\'a cu se jalge lo nu do kakne lo nu aktivi gi\'e kargu\'i ckape lo settings.'
+    'plans.fanClub.inactiveWarning': 'Lo fanva klubi be do cu na aktivi , do ku\'a kakne lo nu tcini kei gi\'a cu se jalge lo nu do kakne lo nu aktivi gi\'e kargu\'i ckape lo settings.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

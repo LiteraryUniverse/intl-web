@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'আপনার ফ্যান ক্লাব সাবস্ক্রিপশনগুলি পরিচালনা করুন',
     'plans.fanClub.subscribers': 'সাবস্ক্রাইবারগণ',
     'plans.fanClub.activatedLabel': 'ফ্যান ক্লাব সক্রিয় হয়েছে',
-    'plans.fanClub.inactiveWarning': 'আপনার ফ্যান ক্লাবটি এখনও সক্রিয় হয়নি, আপনি এখনও পরিকল্পনা তৈরি করতে পারেন এবং একবার প্রস্তুত হলে এটি সেটিংসে সক্রিয় করতে পারেন।'
+    'plans.fanClub.inactiveWarning': 'আপনার ফ্যান ক্লাবটি এখনও সক্রিয় হয়নি, আপনি এখনও পরিকল্পনা তৈরি করতে পারেন এবং একবার প্রস্তুত হলে এটি সেটিংসে সক্রিয় করতে পারেন।',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

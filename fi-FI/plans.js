@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Hallitse fanikerhojen tilauksiasi',
     'plans.fanClub.subscribers': 'Tilaajat',
     'plans.fanClub.activatedLabel': 'Fan Club aktivointi',
-    'plans.fanClub.inactiveWarning': 'Faniklubisi ei ole vielä aktivoitu. Voit kuitenkin valmistella suunnitelmia, ja kun olet valmis, voit aktivoida sen asetuksissa.'
+    'plans.fanClub.inactiveWarning': 'Faniklubisi ei ole vielä aktivoitu. Voit kuitenkin valmistella suunnitelmia, ja kun olet valmis, voit aktivoida sen asetuksissa.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

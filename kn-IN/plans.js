@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'ನಿಮ್ಮ ಫ್ಯಾನ್ ಕ್ಲಬ್ ಚಂದಾದಾರರ ಸಂಪಾದನೆಯನ್ನು ನಿರ್ವಹಿಸಿ',
     'plans.fanClub.subscribers': 'ಅನುಸೂಚಕಗಳು',
     'plans.fanClub.activatedLabel': 'ಫ್ಯಾನ್ ಕ್ಲಬ್ ಸಕ್ರಿಯಗೊಂಡಿದೆ',
-    'plans.fanClub.inactiveWarning': 'ನಿಮ್ಮ ಫ್ಯಾನ್ ಕ್ಲಬ್ ಇನ್ನೂ ಸಕ್ರಿಯಗೊಳ್ಳದಿದೆ, ನೀವು ಇನ್ನೂ ಯೋಜನೆಗಳನ್ನು ತಯಾರಿಸಿ ನಿಮ್ಮ ಸಿದ್ಧತೆ ಮಾಡಿದ ನಂತರ ನೀವು ಅದನ್ನು ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು.'
+    'plans.fanClub.inactiveWarning': 'ನಿಮ್ಮ ಫ್ಯಾನ್ ಕ್ಲಬ್ ಇನ್ನೂ ಸಕ್ರಿಯಗೊಳ್ಳದಿದೆ, ನೀವು ಇನ್ನೂ ಯೋಜನೆಗಳನ್ನು ತಯಾರಿಸಿ ನಿಮ್ಮ ಸಿದ್ಧತೆ ಮಾಡಿದ ನಂತರ ನೀವು ಅದನ್ನು ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ ಸಕ್ರಿಯಗೊಳಿಸಬಹುದು.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

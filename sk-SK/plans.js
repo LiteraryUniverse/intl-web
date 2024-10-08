@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Spravujte svoje predplatné fanúšikovského klubu',
     'plans.fanClub.subscribers': 'Predplatitelia',
     'plans.fanClub.activatedLabel': 'Fan Club aktivovaný',
-    'plans.fanClub.inactiveWarning': 'Váš fan club ešte nie je aktivovaný, stále si môžete pripraviť plány a keď budete pripravení, môžete ho aktivovať v nastaveniach.'
+    'plans.fanClub.inactiveWarning': 'Váš fan club ešte nie je aktivovaný, stále si môžete pripraviť plány a keď budete pripravení, môžete ho aktivovať v nastaveniach.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': '팬 클럽 구독을 관리하세요',
     'plans.fanClub.subscribers': '구독자',
     'plans.fanClub.activatedLabel': '팬 클럽 활성화됨',
-    'plans.fanClub.inactiveWarning': '팬 클럽은 아직 활성화되지 않았습니다. 계획을 준비할 수 있고 준비가 완료되면 설정에서 활성화할 수 있습니다.'
+    'plans.fanClub.inactiveWarning': '팬 클럽은 아직 활성화되지 않았습니다. 계획을 준비할 수 있고 준비가 완료되면 설정에서 활성화할 수 있습니다.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

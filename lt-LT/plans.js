@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Valdykite savo gerbėjų klubo prenumeratas',
     'plans.fanClub.subscribers': 'Prenumeratoriai',
     'plans.fanClub.activatedLabel': 'Ikiklubo veikimas',
-    'plans.fanClub.inactiveWarning': 'Jūsų gerbėjų klubas dar neaktyvuotas, vis dar galite ruoštis planus, o kai busite pasiruošę, galėsite jį aktyvuoti nustatymuose.'
+    'plans.fanClub.inactiveWarning': 'Jūsų gerbėjų klubas dar neaktyvuotas, vis dar galite ruoštis planus, o kai busite pasiruošę, galėsite jį aktyvuoti nustatymuose.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'আপোনাৰ ফেন ক্লাবৰ সদস্যতা প্ৰবন্ধন কৰক',
     'plans.fanClub.subscribers': 'সাবস্ক্রাইবারসমূহ',
     'plans.fanClub.activatedLabel': 'ফ্যান ক্লাব সক্রিয় হ\'ল',
-    'plans.fanClub.inactiveWarning': 'আপোনাৰ ফেন ক্লাবটো এতিয়া সক্ৰিয় হোৱা নহয়, আপুনি এতিয়ালৈকে পলান তৈয়াৰ কৰিব পৰা পাব আৰু যাতে আপুনি প্ৰস্তুত হলে আপোনাৰ ফেন ক্লাবটো সক্ৰিয় কৰিবলৈ সলনি কৰক।'
+    'plans.fanClub.inactiveWarning': 'আপোনাৰ ফেন ক্লাবটো এতিয়া সক্ৰিয় হোৱা নহয়, আপুনি এতিয়ালৈকে পলান তৈয়াৰ কৰিব পৰা পাব আৰু যাতে আপুনি প্ৰস্তুত হলে আপোনাৰ ফেন ক্লাবটো সক্ৰিয় কৰিবলৈ সলনি কৰক।',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

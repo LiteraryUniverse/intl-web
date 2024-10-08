@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'จัดการการสมัครสมาชิกแฟนคลับของคุณ',
     'plans.fanClub.subscribers': 'ผู้ติดตาม',
     'plans.fanClub.activatedLabel': 'เปิดใช้งานแฟนคลับ',
-    'plans.fanClub.inactiveWarning': 'คลับแฟนของคุณยังไม่ได้เปิดใช้งาน คุณยังสามารถเตรียมแผนและเมื่อคุณพร้อมแล้วคุณสามารถเปิดใช้งานได้ในการตั้งค่า'
+    'plans.fanClub.inactiveWarning': 'คลับแฟนของคุณยังไม่ได้เปิดใช้งาน คุณยังสามารถเตรียมแผนและเมื่อคุณพร้อมแล้วคุณสามารถเปิดใช้งานได้ในการตั้งค่า',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

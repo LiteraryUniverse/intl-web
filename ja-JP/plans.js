@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'ファンクラブの定期購読を管理します',
     'plans.fanClub.subscribers': '購読者',
     'plans.fanClub.activatedLabel': 'ファンクラブがアクティブになりました',
-    'plans.fanClub.inactiveWarning': 'あなたのファンクラブはまだアクティブされていません。計画を準備することができますので、準備ができたら設定でアクティブにすることができます。'
+    'plans.fanClub.inactiveWarning': 'あなたのファンクラブはまだアクティブされていません。計画を準備することができますので、準備ができたら設定でアクティブにすることができます。',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

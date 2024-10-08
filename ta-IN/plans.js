@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'உங்கள் ரசிகர் குழு சந்தாதாரத்தை மேல் நிர்வகிக்கவும்',
     'plans.fanClub.subscribers': 'சந்தாதாரர்கள்',
     'plans.fanClub.activatedLabel': 'விருப்பம் கிளப் அமைப்பப் பட்டது',
-    'plans.fanClub.inactiveWarning': 'உங்கள் பார்வையாளர் கூட்டத்தை இன்னும் செயல்படுத்தவில்லை, நீங்கள் திட்டங்களை தயாரிப்பதிற்கும் முடிவு எடுக்க முடியுமானது. முன்னின்று அதை அமைப்பில் செயல்படுத்தலாக்கவும்.'
+    'plans.fanClub.inactiveWarning': 'உங்கள் பார்வையாளர் கூட்டத்தை இன்னும் செயல்படுத்தவில்லை, நீங்கள் திட்டங்களை தயாரிப்பதிற்கும் முடிவு எடுக்க முடியுமானது. முன்னின்று அதை அமைப்பில் செயல்படுத்தலாக்கவும்.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

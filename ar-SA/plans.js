@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'إدارة اشتراكات نادي المعجبين الخاص بك',
     'plans.fanClub.subscribers': 'المشتركون',
     'plans.fanClub.activatedLabel': 'تم تفعيل نادي المعجبين',
-    'plans.fanClub.inactiveWarning': 'نادي المعجبين الخاص بك لم يتم تفعيله بعد، يمكنك مازالة إعداد الخطط وعندما تكون جاهزاً يمكنك تفعيله في الإعدادات.'
+    'plans.fanClub.inactiveWarning': 'نادي المعجبين الخاص بك لم يتم تفعيله بعد، يمكنك مازالة إعداد الخطط وعندما تكون جاهزاً يمكنك تفعيله في الإعدادات.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'તમારા ફેન ક્લબ સબસ્ક્રિપ્શનની સંચાલન કરો',
     'plans.fanClub.subscribers': 'સબ્સ્ક્રાઇબર્સ',
     'plans.fanClub.activatedLabel': 'ફેન ક્લબ સક્રિય થઈ ગયું છે',
-    'plans.fanClub.inactiveWarning': 'તમારું ફેન ક્લબ હજી સક્રિય થયું નથી, તમે હજી પણ યોજનાઓ તૈયાર કરી શકો છો અને તમે તૈયાર થયેલ પછી તેને સેટિંગ્સમાં સક્રિય કરી શકો છો.'
+    'plans.fanClub.inactiveWarning': 'તમારું ફેન ક્લબ હજી સક્રિય થયું નથી, તમે હજી પણ યોજનાઓ તૈયાર કરી શકો છો અને તમે તૈયાર થયેલ પછી તેને સેટિંગ્સમાં સક્રિય કરી શકો છો.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

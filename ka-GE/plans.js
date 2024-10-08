@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'მართეთ თქვენი ფან კლუბის გამოწერები',
     'plans.fanClub.subscribers': 'მომხმარებლები',
     'plans.fanClub.activatedLabel': 'ფან კლუბი გააქტიურდა',
-    'plans.fanClub.inactiveWarning': 'თქვენი ფან კლუბი ჯერ არ აქტივირებულა, თქვენ შეძლებთ მომზადებების გამოყენებისა და როდესაც მზად იქნათ, შეძენის აქტივაცია შეგიძლიათ პარამეტრებში.'
+    'plans.fanClub.inactiveWarning': 'თქვენი ფან კლუბი ჯერ არ აქტივირებულა, თქვენ შეძლებთ მომზადებების გამოყენებისა და როდესაც მზად იქნათ, შეძენის აქტივაცია შეგიძლიათ პარამეტრებში.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };

@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'ਆਪਣੇ ਫੈਨ ਕਲੱਬ ਗਾਹਕੀਆਂ ਨੂੰ ਸੰਭਾਲੋ',
     'plans.fanClub.subscribers': 'ਸਬਸਕਰਾਈਬਰਾਂ',
     'plans.fanClub.activatedLabel': 'ਫੈਨ ਕਲੱਬ ਸ਼ੁਰੂ ਕੀਤਾ ਗਿਆ ਹੈ',
-    'plans.fanClub.inactiveWarning': 'ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ ਹਾਲੇ ਚਾਲੂ ਨਹੀਂ ਹੈ, ਤੁਸੀਂ ਹੁਣੇ ਹੀ ਯੋਜਨਾਵਾਂ ਤਿਆਰ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਜਦੋਂ ਤੁਹਾਡੀ ਤਿਆਰੀ ਹੋ ਜਾਵੇ ਤਾਂ ਤੁਸੀਂ ਇਹ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।'
+    'plans.fanClub.inactiveWarning': 'ਤੁਹਾਡਾ ਫੈਨ ਕਲੱਬ ਹਾਲੇ ਚਾਲੂ ਨਹੀਂ ਹੈ, ਤੁਸੀਂ ਹੁਣੇ ਹੀ ਯੋਜਨਾਵਾਂ ਤਿਆਰ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਜਦੋਂ ਤੁਹਾਡੀ ਤਿਆਰੀ ਹੋ ਜਾਵੇ ਤਾਂ ਤੁਸੀਂ ਇਹ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਚਾਲੂ ਕਰ ਸਕਦੇ ਹੋ।',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
