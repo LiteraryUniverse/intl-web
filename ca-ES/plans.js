@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Gestiona les teves subscripcions al club de fans',
     'plans.fanClub.subscribers': 'Subscriptors',
     'plans.fanClub.activatedLabel': 'Fan Club activat',
-    'plans.fanClub.inactiveWarning': 'El teu club de fans encara no està activat, encara pots preparar plans i una vegada estiguis llest, pots activar-lo a la configuració.'
+    'plans.fanClub.inactiveWarning': 'El teu club de fans encara no està activat, encara pots preparar plans i una vegada estiguis llest, pots activar-lo a la configuració.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
