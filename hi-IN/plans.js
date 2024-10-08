@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'अपने फैन क्लब सदस्यता का प्रबंधन करें',
     'plans.fanClub.subscribers': 'सब्सक्राइबर्स',
     'plans.fanClub.activatedLabel': 'फैन क्लब सक्रिय हुआ',
-    'plans.fanClub.inactiveWarning': 'आपका फ़ैन क्लब अभी तक सक्रिय नहीं है, आप अभी भी योजनाएँ बना सकते हैं और जब आप तैयार हो तो आप इसे सेटिंग्स में सक्रिय कर सकते हैं।'
+    'plans.fanClub.inactiveWarning': 'आपका फ़ैन क्लब अभी तक सक्रिय नहीं है, आप अभी भी योजनाएँ बना सकते हैं और जब आप तैयार हो तो आप इसे सेटिंग्स में सक्रिय कर सकते हैं।',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
