@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': '管理您的粉絲俱樂部訂閱',
     'plans.fanClub.subscribers': '訂閱者',
     'plans.fanClub.activatedLabel': '粉絲俱樂部已啟動',
-    'plans.fanClub.inactiveWarning': '您的粉絲俱樂部尚未啟用，您仍然可以準備計劃，一旦準備好，可以在設定中啟用它。'
+    'plans.fanClub.inactiveWarning': '您的粉絲俱樂部尚未啟用，您仍然可以準備計劃，一旦準備好，可以在設定中啟用它。',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
