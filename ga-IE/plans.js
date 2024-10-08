@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Bain úsáid as do sheoladh ríomhphoist chun do chuid síntíse do chlub lucht leanúna a bhainistiú',
     'plans.fanClub.subscribers': 'Fógraí',
     'plans.fanClub.activatedLabel': 'Club Lucht tacaíochta gníomhach',
-    'plans.fanClub.inactiveWarning': 'Níl do chlub lucht leanúna gníomhach fós, is féidir leat pleananna a ullmhú agus nuair a bheidh tú réidh is féidir leat é a chur i gcrích sna socruithe.'
+    'plans.fanClub.inactiveWarning': 'Níl do chlub lucht leanúna gníomhach fós, is féidir leat pleananna a ullmhú agus nuair a bheidh tú réidh is féidir leat é a chur i gcrích sna socruithe.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
