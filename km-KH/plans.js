@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'គ្រប់គ្រងការជាវរបស់អ្នកជាមួយសមាជិកប្រដាប់អ្នក',
     'plans.fanClub.subscribers': 'អ្នកជាវចូលរួម',
     'plans.fanClub.activatedLabel': 'ក្លឹបអធិប្បាយបានបើកប្រើប្រាស់',
-    'plans.fanClub.inactiveWarning': 'ក្លាយជាអ្នកចូលរួមរបស់អ្នកមិនទាន់បានធ្វើសកម្មរបស់អ្នកនៅឡើយទេ។ អ្នកអាចត្រូវបានត្រៀមរកជំហានមួយប៉ុណ្ណោះ ហើយពេញពីព្រោះអ្នកពេញចិត្តអ្នកអាចធ្វើសកម្មដោយការកំណត់។'
+    'plans.fanClub.inactiveWarning': 'ក្លាយជាអ្នកចូលរួមរបស់អ្នកមិនទាន់បានធ្វើសកម្មរបស់អ្នកនៅឡើយទេ។ អ្នកអាចត្រូវបានត្រៀមរកជំហានមួយប៉ុណ្ណោះ ហើយពេញពីព្រោះអ្នកពេញចិត្តអ្នកអាចធ្វើសកម្មដោយការកំណត់។',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
