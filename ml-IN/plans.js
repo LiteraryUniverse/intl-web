@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'നിങ്ങളുടെ ഫാൻ ക്ലബ് അംഗത്വങ്ങളെ നിയന്ത്രിക്കുക',
     'plans.fanClub.subscribers': 'സബ്‌സ്ക്രൈബേഴ്സ്',
     'plans.fanClub.activatedLabel': 'ഫാൻ ക്ലബ് സജീവമാക്കി',
-    'plans.fanClub.inactiveWarning': 'നിങ്ങളുടെ ഫാൻ ക്ലബ് ഇതുവരെ സജീവമാക്കുന്നതല്ല, നിങ്ങൾ ഇപ്പോൾ പരിശീലനം നടത്താൻ പാടില്ല, തയ്യാറാക്കിയിരിക്കുന്ന പരികല്പനകൾ നടപ്പിലാക്കിയാലും, അതിനുശേഷം അതേ ക്ലബ് സജീവമാക്കാൻ നിങ്ങൾ ക്രമീകരിക്കാവുന്നു.'
+    'plans.fanClub.inactiveWarning': 'നിങ്ങളുടെ ഫാൻ ക്ലബ് ഇതുവരെ സജീവമാക്കുന്നതല്ല, നിങ്ങൾ ഇപ്പോൾ പരിശീലനം നടത്താൻ പാടില്ല, തയ്യാറാക്കിയിരിക്കുന്ന പരികല്പനകൾ നടപ്പിലാക്കിയാലും, അതിനുശേഷം അതേ ക്ലബ് സജീവമാക്കാൻ നിങ്ങൾ ക്രമീകരിക്കാവുന്നു.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
