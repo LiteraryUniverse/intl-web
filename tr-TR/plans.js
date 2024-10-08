@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Hayran kulübü aboneliklerinizi yönetin',
     'plans.fanClub.subscribers': 'Aboneler',
     'plans.fanClub.activatedLabel': 'Hayran Kulübü etkinleştirildi',
-    'plans.fanClub.inactiveWarning': 'Hayran kulübünüz henüz etkinleştirilmedi, hala planlarınızı hazırlayabilir ve istediğiniz zaman ayarlardan etkinleştirebilirsiniz.'
+    'plans.fanClub.inactiveWarning': 'Hayran kulübünüz henüz etkinleştirilmedi, hala planlarınızı hazırlayabilir ve istediğiniz zaman ayarlardan etkinleştirebilirsiniz.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
