@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'మీ అభిమానం క్లబ్ చంపనులను నిర్వహించండి',
     'plans.fanClub.subscribers': 'సబ్స్క్రైబర్లు',
     'plans.fanClub.activatedLabel': 'ఫాన్ క్లబ్ సక్రియం చేయబడింది',
-    'plans.fanClub.inactiveWarning': 'మీ ఫ్యాన్ క్లబ్ ఇంకా సక్రమించబడలేదు, మీరు ప్లాన్స్ ని సిద్ధంగా కావాలనుకుంటే మీరు అదనపు సెట్టింగుల లో దానిని సక్రమించవచ్చు.'
+    'plans.fanClub.inactiveWarning': 'మీ ఫ్యాన్ క్లబ్ ఇంకా సక్రమించబడలేదు, మీరు ప్లాన్స్ ని సిద్ధంగా కావాలనుకుంటే మీరు అదనపు సెట్టింగుల లో దానిని సక్రమించవచ్చు.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
