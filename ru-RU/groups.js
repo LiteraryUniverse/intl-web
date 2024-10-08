@@ -10,7 +10,7 @@ export default {
     'groups.type.hidden': 'Скрытая',
     'groups.type.hiddenDesc': 'Скрытая - только приглашённые вами люди могут присоединиться.',
     'groups.imageAlt': 'Изображение {groupName}',
-    'groups.members': 'Участников',
+    'groups.members': 'Участники',
     'groups.members.total': `В этой группе {totalMembers, plural,
     one {один участник}
     few {# участника}

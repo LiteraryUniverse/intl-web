@@ -26,10 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'ഈ അദ്ധ്യായം ഇതിനായി {publishedAt, date, short}ലും പ്രസിദ്ധീകരിച്ചിരിക്കുന്നു. പുതിയ പതിപ്പുകള്‍ തത്സമയം പ്രസിദ്ധീകരിക്കപ്പെടും.',
     'writer.publish.betaReader': 'ബീറ്റ',
     'writer.publish.public': 'Publish',
-<<<<<<< HEAD
-    'writer.publish.now': 'Publish now'
-=======
     'writer.publish.now': 'Publish now',
     'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
->>>>>>> origin/l10n_master
 };

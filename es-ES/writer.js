@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Este capítulo ya ha sido publicado en {publishedAt, date, short}. Las nuevas versiones se publicarán en breves.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publicar',
-    'writer.publish.now': 'Publicar ahora',
-    'writer.publish.schedulePrevious': 'Necesitas publicar o programar la publicación del capítulo anterior antes de poder publicar este.'
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };
