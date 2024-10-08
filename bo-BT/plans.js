@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'ཁྱེད་ཀྱི་གདོང་ཚུལ་འབྱུང་གི་དྲན་རྟེན་སེལ་འཐུ་དགོས།',
     'plans.fanClub.subscribers': 'རྣམ་སྤྲོདཔའི་ཚོགས་པ།',
     'plans.fanClub.activatedLabel': 'ཡོད་པས་ཡོངས་སུ་གསོལ་འདེབས་བརྟེན་པར་བྱུང་ཡིན།',
-    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.'
+    'plans.fanClub.inactiveWarning': 'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
