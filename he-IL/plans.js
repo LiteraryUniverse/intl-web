@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'ניהול מינויי מועדון היתרים שלך',
     'plans.fanClub.subscribers': 'מנויים',
     'plans.fanClub.activatedLabel': 'פעילה הפנדלת',
-    'plans.fanClub.inactiveWarning': 'מועדון היצירה שלך עדיין לא מופעל, תוכל להכין תכניות וברגע שתהיה מוכן תוכל להפעיל אותו בהגדרות.'
+    'plans.fanClub.inactiveWarning': 'מועדון היצירה שלך עדיין לא מופעל, תוכל להכין תכניות וברגע שתהיה מוכן תוכל להפעיל אותו בהגדרות.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
