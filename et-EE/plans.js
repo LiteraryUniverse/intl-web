@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Halda oma fänniklubi tellimusi',
     'plans.fanClub.subscribers': 'Tellijad',
     'plans.fanClub.activatedLabel': 'Fänniklubi aktiveeritud',
-    'plans.fanClub.inactiveWarning': 'Sinu fänniklubi pole veel aktiveeritud, saad siiski plaane ette valmistada ja kui oled valmis, saad selle seadetes aktiveerida.'
+    'plans.fanClub.inactiveWarning': 'Sinu fänniklubi pole veel aktiveeritud, saad siiski plaane ette valmistada ja kui oled valmis, saad selle seadetes aktiveerida.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
