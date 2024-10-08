@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Kezelje rajongói klub előfizetéseit',
     'plans.fanClub.subscribers': 'Előfizetők',
     'plans.fanClub.activatedLabel': 'Fan Club aktiválva',
-    'plans.fanClub.inactiveWarning': 'A rajongói klubod még nincs aktiválva, még mindig készíthetsz terveket, és amikor készen állsz, aktiválhatod a beállításokban.'
+    'plans.fanClub.inactiveWarning': 'A rajongói klubod még nincs aktiválva, még mindig készíthetsz terveket, és amikor készen állsz, aktiválhatod a beállításokban.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
