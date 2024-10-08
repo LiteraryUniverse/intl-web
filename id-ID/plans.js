@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Kelola langganan klub penggemar Anda',
     'plans.fanClub.subscribers': 'Pelanggan',
     'plans.fanClub.activatedLabel': 'Fan Club diaktifkan',
-    'plans.fanClub.inactiveWarning': 'Klub penggemar Anda belum diaktifkan, Anda masih dapat membuat rencana dan setelah Anda siap, Anda dapat mengaktifkannya di pengaturan.'
+    'plans.fanClub.inactiveWarning': 'Klub penggemar Anda belum diaktifkan, Anda masih dapat membuat rencana dan setelah Anda siap, Anda dapat mengaktifkannya di pengaturan.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
