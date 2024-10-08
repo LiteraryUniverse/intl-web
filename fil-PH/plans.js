@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Pamahalaan ang iyong mga subscription sa fan club',
     'plans.fanClub.subscribers': 'Mga Subskripsyon',
     'plans.fanClub.activatedLabel': 'Napagana ang Fan Club',
-    'plans.fanClub.inactiveWarning': 'Ang iyong fan club ay hindi pa naaaktibo, maaari ka pa ring maghanda ng mga plano at kapag handa ka na, maaari mong aaktibahin ito sa mga setting.'
+    'plans.fanClub.inactiveWarning': 'Ang iyong fan club ay hindi pa naaaktibo, maaari ka pa ring maghanda ng mga plano at kapag handa ka na, maaari mong aaktibahin ito sa mga setting.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
