@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Administrați abonamentele clubului dvs. de fani',
     'plans.fanClub.subscribers': 'Abonați',
     'plans.fanClub.activatedLabel': 'Fan Club activat',
-    'plans.fanClub.inactiveWarning': 'Clubul tău de fani nu este încă activat, poți să pregătești planurile și, odată ce ești gata, îl poți activa în setări.'
+    'plans.fanClub.inactiveWarning': 'Clubul tău de fani nu este încă activat, poți să pregătești planurile și, odată ce ești gata, îl poți activa în setări.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
