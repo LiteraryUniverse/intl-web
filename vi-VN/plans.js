@@ -236,5 +236,11 @@ export default {
     'plans.fanClub.userSettings': 'Quản lý các đăng ký câu lạc bộ fan của bạn',
     'plans.fanClub.subscribers': 'Người đăng ký',
     'plans.fanClub.activatedLabel': 'Hội Fan đã kích hoạt',
-    'plans.fanClub.inactiveWarning': 'Hội fan của bạn chưa được kích hoạt, bạn vẫn có thể chuẩn bị kế hoạch và sau đó khi bạn sẵn sàng, bạn có thể kích hoạt nó trong cài đặt.'
+    'plans.fanClub.inactiveWarning': 'Hội fan của bạn chưa được kích hoạt, bạn vẫn có thể chuẩn bị kế hoạch và sau đó khi bạn sẵn sàng, bạn có thể kích hoạt nó trong cài đặt.',
+    'payment.fanClub.editTier': 'Edit tier',
+    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club'
 };
