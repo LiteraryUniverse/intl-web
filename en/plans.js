@@ -272,4 +272,10 @@ export default {
   'plans.fanClub.activatedLabel': 'Fan Club activated',
   'plans.fanClub.inactiveWarning':
     'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.',
+  'payment.fanClub.editTier': 'Edit tier',
+  'plans.deletePlan.modalAria': 'Delete plan confirmation',
+  'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+  'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+  'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+  'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
 }
