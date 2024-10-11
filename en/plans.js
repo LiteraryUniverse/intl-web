@@ -278,4 +278,5 @@ export default {
   'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
   'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
   'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
+  'payment.fanClub.perMonth': '{amount} / per month',
 }
