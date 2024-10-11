@@ -243,5 +243,7 @@ export default {
     'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
     'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
     'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month'
+    'payment.fanClub.perMonth': '{amount} / per month',
+    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
+    'plans.fanClub.create': 'Create fan club'
 };
