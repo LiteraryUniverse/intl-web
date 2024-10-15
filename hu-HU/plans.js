@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Előfizetés helyreállítása',
     'plans.cancel.restoreFailed': 'Elnézést, nem sikerült helyreállítani az előfizetést jelenleg. Kérlek, próbáld újra később.',
     'plans.change.button': 'Előfizetés megváltoztatása',
-    'plans.change.explanation': 'Válaszd ki azt a tervet, amire szeretnél váltani. Az árkülönbözetet azonnal kiszámlázzuk.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Elnézést, nem sikerült megváltoztatni a terved jelenleg. Kérlek, próbáld újra később.',
     'plans.change.upgrade': 'Fejlesztés',
     'payments.disclaimer': 'A fizetési információk és feldolgozás a Stripe-on keresztül történik. Nem tárolunk hitelkártya vagy bankszámla információt a szervereinken.',
