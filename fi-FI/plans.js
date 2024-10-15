@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Palauta tilaus',
     'plans.cancel.restoreFailed': 'Pahoittelut, emme voineet palauttaa tilausta tällä hetkellä. Yritä myöhemmin uudelleen.',
     'plans.change.button': 'Vaihda tilausta',
-    'plans.change.explanation': 'Valitse suunnitelma, johon haluat päivittää tai laskea. Erotus laskutetaan välittömästi.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Pahoittelut, emme voineet vaihtaa suunnitelmaasi tällä hetkellä. Yritä myöhemmin uudelleen.',
     'plans.change.upgrade': 'Päivitä',
     'payments.disclaimer': 'Maksutiedot ja käsittely hoidetaan Stripen kautta. Emme säilytä mitään luottokortti- tai pankkitilitietoja palvelimillamme.',
