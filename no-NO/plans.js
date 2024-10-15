@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Gjenopprett abonnement',
     'plans.cancel.restoreFailed': 'Beklager, vi kunne ikke gjenopprette abonnementet for øyeblikket. Vennligst prøv igjen senere.',
     'plans.change.button': 'Endre abonnement',
-    'plans.change.explanation': 'Velg det abonnementet du vil oppgradere eller nedgradere til. Du vil bli fakturert differansen i pris umiddelbart.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Beklager, vi kunne ikke endre planen din for øyeblikket. Vennligst prøv igjen senere.',
     'plans.change.upgrade': 'Oppgrader',
     'payments.disclaimer': 'Betalingsinformasjon og behandling blir gjort via Stripe. Vi lagrer ikke kredittkort- eller bankkontoinformasjon på våre servere.',
