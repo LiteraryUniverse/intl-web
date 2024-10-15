@@ -237,13 +237,13 @@ export default {
     'plans.fanClub.subscribers': 'Подписчики',
     'plans.fanClub.activatedLabel': 'Фан-клуб активирован',
     'plans.fanClub.inactiveWarning': 'Ваш фан-клуб ещё не активирован, вы можете подготовить планы и, когда будете готовы, активировать его в настройках.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
-    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
-    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.editTier': 'Изменить уровень',
+    'plans.deletePlan.modalAria': 'Удалить подтверждение плана',
+    'payment.fanClub.paymentDescriptorFull': 'LU - Фан-клуб {username}',
+    'payment.fanClub.paymentDescriptorShort': 'LU-фан-клуб {username}',
+    'payment.fanClub.paymentDescriptorMinimal': 'Фан-клуб {username}',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - авторский фан-клуб',
+    'payment.fanClub.perMonth': '{amount} / в месяц',
+    'plans.fanClub.notCreated': 'Ой! Что-то пошло не так, и ваш фан-клуб не был создан, когда должен был, но не волнуйтесь, у нас уже готов запасной план! Просто нажмите на кнопку ниже, и всё будет готово!',
+    'plans.fanClub.create': 'Создание фан-клуба'
 };
