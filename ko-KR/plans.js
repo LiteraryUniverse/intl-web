@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': '구독 복원',
     'plans.cancel.restoreFailed': '죄송합니다. 현재는 구독을 복원할 수 없습니다. 나중에 다시 시도해주세요.',
     'plans.change.button': '구독 변경',
-    'plans.change.explanation': '원하는 요금제로 업그레이드 또는 다운그레이드할 요금제를 선택하세요. 가격 차액이 즉시 청구됩니다.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': '죄송합니다. 현재는 요금제를 변경할 수 없습니다. 나중에 다시 시도해주세요.',
     'plans.change.upgrade': '업그레이드',
     'payments.disclaimer': '결제 정보 및 처리는 Stripe를 통해 이루어집니다. 우리는 신용 카드나 은행 계좌 정보를 서버에 보관하지 않습니다.',
