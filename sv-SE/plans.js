@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Återställ prenumeration',
     'plans.cancel.restoreFailed': 'Tyvärr kunde vi inte återställa prenumerationen just nu. Försök igen senare.',
     'plans.change.button': 'Ändra prenumeration',
-    'plans.change.explanation': 'Välj den prenumeration du vill uppgradera eller nedgradera till. Du kommer att faktureras mellanskillnaden direkt.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Tyvärr kunde vi inte ändra din plan just nu. Försök igen senare.',
     'plans.change.upgrade': 'Uppgradera',
     'payments.disclaimer': 'Betalningsinformation och bearbetning görs via Stripe. Vi sparar inte någon kreditkorts- eller bankkontoinformation på våra servrar.',
