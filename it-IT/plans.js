@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Ripristina abbonamento',
     'plans.cancel.restoreFailed': 'Ci scusiamo, non siamo riusciti a ripristinare l\'abbonamento in questo momento. Riprova più tardi.',
     'plans.change.button': 'Cambia abbonamento',
-    'plans.change.explanation': 'Seleziona il piano a cui desideri passare. Ti verrà addebitata immediatamente la differenza di prezzo.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Ci scusiamo, non siamo riusciti a cambiare il tuo piano in questo momento. Riprova più tardi.',
     'plans.change.upgrade': 'Aggiorna',
     'payments.disclaimer': 'Le informazioni di pagamento e l\'elaborazione vengono effettuate tramite Stripe. Non conserviamo alcuna informazione sulla carta di credito o sul conto bancario sui nostri server.',
