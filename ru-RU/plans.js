@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Восстановить подписку',
     'plans.cancel.restoreFailed': 'Извините, в данный момент мы не смогли восстановить подписку. Пожалуйста, повторите попытку позже.',
     'plans.change.button': 'Изменить подписку',
-    'plans.change.explanation': 'Выберите план подписки, на который вы хотите перейти или понизить план. Вам будет немедленно выставлен счёт на разницу в цене.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Извините, в данный момент мы не смогли изменить ваш план подписки. Пожалуйста, повторите попытку позже.',
     'plans.change.upgrade': 'Повысить',
     'payments.disclaimer': 'Информация о платежах и их обработка осуществляется через Stripe. Мы не храним информацию о кредитных картах или банковских счетах на наших серверах.',
