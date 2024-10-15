@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Khôi phục đăng ký',
     'plans.cancel.restoreFailed': 'Xin lỗi, chúng tôi không thể khôi phục đăng ký vào lúc này. Vui lòng thử lại sau.',
     'plans.change.button': 'Thay đổi đăng ký',
-    'plans.change.explanation': 'Chọn gói bạn muốn nâng cấp hoặc hạ cấp. Bạn sẽ được tính phí chênh lệch ngay lập tức.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Xin lỗi, chúng tôi không thể thay đổi kế hoạch của bạn vào lúc này. Vui lòng thử lại sau.',
     'plans.change.upgrade': 'Nâng cấp',
     'payments.disclaimer': 'Thông tin thanh toán và xử lý được thực hiện qua Stripe. Chúng tôi không lưu bất kỳ thông tin thẻ tín dụng hoặc tài khoản ngân hàng nào trên máy chủ của chúng tôi.',
