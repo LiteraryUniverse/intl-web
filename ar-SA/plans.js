@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'استعادة الاشتراك',
     'plans.cancel.restoreFailed': 'عذرًا، لم نتمكن من استعادة الاشتراك في هذه اللحظة. يرجى المحاولة مرة أخرى لاحقًا.',
     'plans.change.button': 'تغيير الاشتراك',
-    'plans.change.explanation': 'حدد الخطة التي ترغب في الترقية أو التنزيل إليها. سيتم فرض الفرق في السعر عليك فورًا.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'عذرًا، لم نتمكن من تغيير خطتك في هذه اللحظة. يرجى المحاولة مرة أخرى لاحقًا.',
     'plans.change.upgrade': 'ترقية',
     'payments.disclaimer': 'تتم معالجة ومعلومات الدفع عبر Stripe. لا نحتفظ بأي معلومات بطاقة ائتمان أو حساب بنكي على خوادمنا.',
