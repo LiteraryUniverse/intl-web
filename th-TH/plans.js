@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'กู้คืนการสมัครสมาชิก',
     'plans.cancel.restoreFailed': 'ขออภัยเราไม่สามารถกู้คืนการสมัครสมาชิกในขณะนี้ โปรดลองอีกครั้งในภายหลัง',
     'plans.change.button': 'เปลี่ยนแผนการสมัครสมาชิก',
-    'plans.change.explanation': 'เลือกแผนที่คุณต้องการอัปเกรดหรือดาวน์เกรดไป. คุณจะถูกเรียกเก็บเงินตามความแตกต่างในราคาทันที',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'ขออภัยเราไม่สามารถเปลี่ยนแผนของคุณในขณะนี้ โปรดลองอีกครั้งในภายหลัง',
     'plans.change.upgrade': 'อัปเกรด',
     'payments.disclaimer': 'ข้อมูลการชำระเงินและการประมวลผลจะดำเนินการผ่าน Stripe  เราไม่เก็บข้อมูลบัตรเครดิตหรือบัญชีธนาคารใดๆ บนเซิร์ฟเวอร์ของเรา',
