@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restaurar subscrição',
     'plans.cancel.restoreFailed': 'Pedimos desculpa, neste momento não pudemos restabelecer a subscrição. Por favor, tente novamente mais tarde.',
     'plans.change.button': 'Alterar subscrição',
-    'plans.change.explanation': 'Selecione o plano para o qual pretende fazer o upgrade ou o downgrade. Ser-lhe-á imediatamente cobrada a diferença de preço.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Desculpe, neste momento não nos foi possível alterar o seu plano. Por favor, tente novamente mais tarde.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'A informação e processamento do pagamento é feita através de Stripe. Não mantemos qualquer informação de cartão de crédito ou conta bancária nos nossos servidores.',
