@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'সাবস্ক্রিপশন পুনরুদ্ধার করুন',
     'plans.cancel.restoreFailed': 'দুঃখিত, আমরা এই মুহূর্তে সাবস্ক্রিপশন পুনরুদ্ধার করতে অক্ষম হয়েছি। দয়া করে পরে আবার চেষ্টা করুন।',
     'plans.change.button': 'সাবস্ক্রিপশন পরিবর্তন করুন',
-    'plans.change.explanation': 'আপগ্রেড বা ডাউনগ্রেড করতে চান তার জন্য প্ল্যানটি নির্বাচন করুন। আপনাকে মূল্যের পার্থক্য তাত্ত্বিকভাবে বিল করা হবে।',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'দুঃখিত, আমরা এই মুহূর্তে আপনার পরিকল্পনাটি পরিবর্তন করতে অক্ষম হয়েছি। দয়া করে পরে আবার চেষ্টা করুন।',
     'plans.change.upgrade': 'আপগ্রেড করুন',
     'payments.disclaimer': 'পেমেন্ট তথ্য এবং প্রক্রিয়াজটি স্ট্রাইপ দ্বারা সম্পন্ন হয়। আমরা আমাদের সার্ভারে কোনও ক্রেডিট কার্ড বা ব্যাংক অ্যাকাউন্টের তথ্য সংরক্ষণ করি না।',
