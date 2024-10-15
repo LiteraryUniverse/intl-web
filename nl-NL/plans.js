@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Abonnement herstellen',
     'plans.cancel.restoreFailed': 'Onze excuses, we konden het abonnement op dit moment niet herstellen. Probeer het later opnieuw.',
     'plans.change.button': 'Abonnement wijzigen',
-    'plans.change.explanation': 'Selecteer het abonnement waarnaar u wilt upgraden of downgraden. Het prijsverschil wordt direct in rekening gebracht.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Onze excuses, we konden uw plan op dit moment niet wijzigen. Probeer het later opnieuw.',
     'plans.change.upgrade': 'Upgraden',
     'payments.disclaimer': 'Betalingsinformatie en verwerking worden gedaan via Stripe. We bewaren geen creditcard- of bankrekeninginformatie op onze servers.',
