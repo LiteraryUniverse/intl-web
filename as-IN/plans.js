@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'সদস্যতা পুনৰ প্ৰাপ্ত কৰক',
     'plans.cancel.restoreFailed': 'দুঃখিত, এই সময়ত আমি সদস্যতা পুনৰ প্ৰাপ্ত কৰিব পৰা নগল। অনুগ্ৰহ কৰি পিছত আকৌ চেষ্টা কৰক।',
     'plans.change.button': 'সদস্যতা সলনি কৰক',
-    'plans.change.explanation': 'আপোনি আপগ্ৰেড বা ডাউনগ্ৰেড কৰিব বিচাৰে আপোনাৰ পছন্দসই প্ৰণালী বাছনি কৰক। আপুনি দ্রুত দামৰ পৰিমাণত চার্জ কৰা হ\'ব।',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'দুঃখিত, এই সময়ত আমি আপোনাৰ পদ্ধতি পৰিৱৰ্তন কৰিব পৰা নগল। অনুগ্ৰহ কৰি পিছত আকৌ চেষ্টা কৰক।',
     'plans.change.upgrade': 'আপগ্ৰেড কৰক',
     'payments.disclaimer': 'পেমেন্ট তথ্য আৰু প্ৰক্ৰিয়া ষ্ট্ৰাইপৰ দ্বাৰা কৰা হয়। আমিৰা আমাৰ চাৰ্জ কাৰ্ড অথবা বেংক একাউণ্টৰ তথ্য আমাৰ চাৰ্ভাৰত সংৰক্ষণ কৰা নহয়।',
