@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': '恢復訂閱',
     'plans.cancel.restoreFailed': '很抱歉，我們目前無法恢復訂閱。請稍後再試。',
     'plans.change.button': '更改訂閱',
-    'plans.change.explanation': '選擇您要升級或降級的方案。您將立即支付價格差額。',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': '很抱歉，我們目前無法更改您的計劃。請稍後再試。',
     'plans.change.upgrade': '升級',
     'payments.disclaimer': '付款資訊和處理是通過Stripe完成的。我們不在我們的伺服器上保留任何信用卡或銀行帳戶資訊。',
