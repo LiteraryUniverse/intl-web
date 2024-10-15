@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Abonnement wiederherstellen',
     'plans.cancel.restoreFailed': 'Entschuldigung, wir konnten das Abonnement in diesem Moment nicht wiederherstellen. Bitte versuchen Sie es später noch einmal.',
     'plans.change.button': 'Abonnement ändern',
-    'plans.change.explanation': 'Wählen Sie den Plan aus, auf den Sie up- oder downgraden möchten. Die Preisdifferenz wird Ihnen sofort in Rechnung gestellt.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Entschuldigung, wir konnten Ihren Plan in diesem Moment nicht ändern. Bitte versuchen Sie es später noch einmal.',
     'plans.change.upgrade': 'Upgraden',
     'payments.disclaimer': 'Zahlungsinformationen und -abwicklung werden über Stripe abgewickelt. Wir speichern keine Kreditkarten- oder Bankkontoinformationen auf unseren Servern.',
