@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restore subscription',
     'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
     'plans.change.button': 'Change subscription',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'പേയ്മെന്റ് വിവരങ്ങൾ അനുവദിക്കുന്നതും പ്രോസസ്സുചെയ്യുന്നതും സ്ട്രൈപ്പ് വഴിയാണ്. ഞങ്ങൾക്ക് സെർവറുകൾക്ക് എന്തെങ്കിലും ക്രെഡിറ്റ് കാർഡ് അല്ലെങ്കിൽ ബാങ്ക് അക്കൗണ്ട് വിവരങ്ങൾ സംരക്ഷിക്കരുത്.',
