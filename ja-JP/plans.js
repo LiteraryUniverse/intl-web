@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'サブスクリプションの復元',
     'plans.cancel.restoreFailed': '申し訳ありませんが、現時点では購読の復元ができませんでした。後でもう一度お試しください。',
     'plans.change.button': 'サブスクリプションの変更',
-    'plans.change.explanation': 'アップグレードまたはダウングレードしたいプランを選択してください。差額分の請求がすぐに送られます',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': '申し訳ありませんが、現時点ではお客様のプランを変更することができませんでした。後ほど、もう一度お試しください。',
     'plans.change.upgrade': 'アップグレード',
     'payments.disclaimer': 'お支払いの情報と処理は、Stripeで行われます。クレジットカードや銀行口座の情報は、当社のサーバーには一切保存されません。',
