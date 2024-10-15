@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restaurer l\'abonnement',
     'plans.cancel.restoreFailed': 'Nous sommes désolés, mais nous n\'avons pas été en mesure de restaurer l\'abonnement pour le moment. Veuillez réessayer plus tard.',
     'plans.change.button': 'Modifier l\'abonnement',
-    'plans.change.explanation': 'Sélectionnez le plan que vous souhaitez mettre à niveau ou rétrograder. La différence de prix vous sera immédiatement facturée.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Nous sommes désolés, mais nous n\'avons pas pu modifier votre plan pour le moment. Veuillez réessayer plus tard.',
     'plans.change.upgrade': 'Mise à niveau',
     'payments.disclaimer': 'Les informations et le traitement des paiements sont effectués via Stripe. Nous ne conservons aucune information sur les cartes de crédit ou les comptes bancaires sur nos serveurs.',
