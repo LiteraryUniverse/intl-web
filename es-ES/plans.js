@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Recuperar suscripción',
     'plans.cancel.restoreFailed': 'Lo sentimos, no hemos podido recuperar tu suscripción en este momento. Inténtalo más tarde.',
     'plans.change.button': 'Cambiar suscripción',
-    'plans.change.explanation': 'Selecciona el plan que deseas para mejorar o reducir tu suscripción. Se te facturará la diferencia de precio de forma inmediata.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Lo sentimos, no hemos podido cambiar tu plan en este momento. Inténtalo más tarde.',
     'plans.change.upgrade': 'Mejorar suscripción',
     'payments.disclaimer': 'La información y el procesamiento del pago se hará por Stripe. No guardamos ninguna información bancaria ni de tu tarjeta de crédito en nuestros servidores.',
