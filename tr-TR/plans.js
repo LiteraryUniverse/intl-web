@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Aboneliği geri yükle',
     'plans.cancel.restoreFailed': 'Özür dileriz, aboneliği şu anda geri yükleyemiyoruz. Lütfen daha sonra tekrar deneyin.',
     'plans.change.button': 'Aboneliği değiştir',
-    'plans.change.explanation': 'Yükseltmek veya düşürmek istediğiniz planı seçin. Fiyat farkı hemen faturalandırılacaktır.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Özür dileriz, planınızı şu anda değiştiremiyoruz. Lütfen daha sonra tekrar deneyin.',
     'plans.change.upgrade': 'Yükselt',
     'payments.disclaimer': 'Ödeme bilgileri ve işleme işlemi Stripe üzerinden yapılır. Kredi kartı veya banka hesabı bilgilerini sunucularımızda saklamıyoruz.',
