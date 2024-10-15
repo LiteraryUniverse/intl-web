@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'सदस्यता पुनः स्थापित गर्नुहोस्',
     'plans.cancel.restoreFailed': 'माफ गर्नुहोस्, हामीले यस समयमा सदस्यता पुनः स्थापित गर्न सक्न नसकेको छौं। कृपया पछि बढ्नुहोस्।',
     'plans.change.button': 'सदस्यता परिवर्तन गर्नुहोस्',
-    'plans.change.explanation': 'तपाईंले उन्नत गर्न वा कम गर्न चाहानुभएको योजना छान्नुहोस्। दरको तालमा तुरुन्तै माग्नुहोस्।',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'माफ गर्नुहोस्, हामीले यस समयमा तपाईंको योजना परिवर्तन गर्न सक्न नसकेको छौं। कृपया पछि बढ्नुहोस्।',
     'plans.change.upgrade': 'उन्नत गर्नुहोस्',
     'payments.disclaimer': 'भुक्तानीको जानकारी र प्रक्रिया स्ट्राइपमार्फत गरिन्छ। हामीले कुनै पनि क्रेडिट कार्ड वा बैंक खाता जानकारी हाम्रो सर्भरमा संग्रह गर्दैन।',
