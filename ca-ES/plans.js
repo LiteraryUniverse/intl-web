@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restaura la subscripció',
     'plans.cancel.restoreFailed': 'Ho sentim, no hem pogut restaurar la subscripció en aquest moment. Si us plau, torneu-ho a provar més tard.',
     'plans.change.button': 'Canvia la subscripció',
-    'plans.change.explanation': 'Seleccioneu el pla al qual voleu fer una millora o una reducció. S\'us facturarà la diferència de preu immediatament.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Ho sentim, no hem pogut canviar el vostre pla en aquest moment. Si us plau, torneu-ho a provar més tard.',
     'plans.change.upgrade': 'Millora',
     'payments.disclaimer': 'La informació de pagament i el processament es realitzen mitjançant Stripe. No guardem cap informació de targeta de crèdit o compte bancari als nostres servidors.',
