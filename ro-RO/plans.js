@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restaurează abonamentul',
     'plans.cancel.restoreFailed': 'Ne pare rău, nu am putut restaura abonamentul în acest moment. Te rugăm să încerci din nou mai târziu.',
     'plans.change.button': 'Schimbă abonamentul',
-    'plans.change.explanation': 'Selectează planul la care vrei să faci upgrade sau downgrade. Diferența de preț va fi facturată imediat.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Ne pare rău, nu am putut schimba planul tău în acest moment. Te rugăm să încerci din nou mai târziu.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'Informațiile și procesarea plăților sunt realizate prin intermediul Stripe. Nu păstrăm nicio informație despre cardurile de credit sau conturile bancare pe serverele noastre.',
