@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Taasta tellimus',
     'plans.cancel.restoreFailed': 'Vabandust, me ei saanud tellimust hetkel taastada. Palun proovige hiljem uuesti.',
     'plans.change.button': 'Muuda tellimust',
-    'plans.change.explanation': 'Valige plaan, millele soovite uuendada või alandada. Hinnavahe arvestatakse teile kohe.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Vabandust, me ei saanud teie plaani hetkel muuta. Palun proovige hiljem uuesti.',
     'plans.change.upgrade': 'Uuenda',
     'payments.disclaimer': 'Makseteave ja töötlus toimub läbi Stripe\'i. Me ei säilita mingit krediitkaardi ega pangakonto infot meie serverites.',
