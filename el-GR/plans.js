@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Ανάκτηση συνδρομής',
     'plans.cancel.restoreFailed': 'Ζητούμε συγνώμη, δεν ήταν δυνατή η ανάκτηση της συνδρομής αυτήν τη στιγμή. Παρακαλούμε δοκιμάστε ξανά αργότερα.',
     'plans.change.button': 'Αλλαγή συνδρομής',
-    'plans.change.explanation': 'Επιλέξτε το πλάνο στο οποίο θέλετε να αναβαθμίσετε ή να υποβαθμίσετε. Θα χρεωθείτε τη διαφορά στην τιμή αμέσως.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Ζητούμε συγνώμη, δεν ήταν δυνατή η αλλαγή του πλάνου σας αυτήν τη στιγμή. Παρακαλούμε δοκιμάστε ξανά αργότερα.',
     'plans.change.upgrade': 'Αναβάθμιση',
     'payments.disclaimer': 'Οι πληροφορίες πληρωμής και η επεξεργασία γίνονται μέσω του Stripe. Δεν αποθηκεύουμε καμία πληροφορία πιστωτικής κάρτας ή τραπεζικού λογαριασμού στους διακομιστές μας.',
