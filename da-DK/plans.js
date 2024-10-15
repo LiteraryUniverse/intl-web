@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Gendan abonnement',
     'plans.cancel.restoreFailed': 'Beklager, vi kunne ikke gendanne abonnementet på nuværende tidspunkt. Prøv igen senere.',
     'plans.change.button': 'Skift abonnement',
-    'plans.change.explanation': 'Vælg det abonnement, du vil opgradere eller nedgradere til. Du vil blive faktureret forskellen i pris øjeblikkeligt.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Beklager, vi kunne ikke ændre din plan på nuværende tidspunkt. Prøv igen senere.',
     'plans.change.upgrade': 'Opgradér',
     'payments.disclaimer': 'Betalingsoplysninger og -behandling udføres via Stripe. Vi gemmer ikke nogen kreditkort- eller bankkontoinformation på vores servere.',
