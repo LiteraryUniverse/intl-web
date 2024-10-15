@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restarigi abonon',
     'plans.cancel.restoreFailed': 'Pardonu, ni ne povis restarigi la abonon ĉe ĉi tiu momento. Bonvolu reprovi poste.',
     'plans.change.button': 'Ŝanĝi abonon',
-    'plans.change.explanation': 'Elektu la planon, al kiu vi volas plibonigi aŭ malplibonigi. Vi ricevos la diferencon en prezo tuj.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Pardonu, ni ne povis ŝanĝi vian planon ĉe ĉi tiu momento. Bonvolu reprovi poste.',
     'plans.change.upgrade': 'Plibonigi',
     'payments.disclaimer': 'Paga informo kaj prilaborado estas farata per Stripe. Ni ne konservas iajn kreditkartajn aŭ bankajn kontinformojn sur niaj serviloj.',
