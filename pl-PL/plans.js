@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Przywrócenie subskrypcji',
     'plans.cancel.restoreFailed': 'Przepraszamy, ale w tej chwili nie możemy przywrócić subskrypcji. Prosimy spróbować ponownie później.',
     'plans.change.button': 'Zmiana subskrypcji',
-    'plans.change.explanation': 'Wybierz plan, który chcesz zmienić na wyższy lub niższy. Różnica w cenie zostanie natychmiast naliczona.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Przepraszamy, w tej chwili nie możemy zmienić Twojego planu. Prosimy spróbować ponownie później.',
     'plans.change.upgrade': 'Aktualizuj',
     'payments.disclaimer': 'Informacje o płatnościach i ich przetwarzanie odbywa się za pośrednictwem Stripe. Nie przechowujemy żadnych informacji o kartach kredytowych ani kontach bankowych na naszych serwerach.',
