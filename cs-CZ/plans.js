@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Obnovit předplatné',
     'plans.cancel.restoreFailed': 'Omlouváme se, momentálně jsme nebyli schopni obnovit předplatné. Zkuste to prosím znovu později.',
     'plans.change.button': 'Změnit předplatné',
-    'plans.change.explanation': 'Vyberte tarif, na který chcete přejít. Neprodleně vám bude účtován rozdíl v ceně.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Omlouváme se, v tuto chvíli jsme nebyli schopni změnit váš plán. Zkuste to prosím za chvíli.',
     'plans.change.upgrade': 'Upgradovat',
     'payments.disclaimer': 'Platební informace a zpracování jsou prováděny přes Stripe. Na našich serverech neuchováváme žádné informace o kreditní kartě ani bankovním účtu.',
