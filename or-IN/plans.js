@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restore subscription',
     'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
     'plans.change.button': 'Change subscription',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'ପେୟମେଣ୍ଟ ସୂଚନା ଏବଂ ପ୍ରକ୍ରିୟା ଷ୍ଟ୍ରାଇପ୍ ଦ୍ୱାରା ହୋଇଥାଏ। ଆମେ ଆମର ସର୍ଭରରେ କ୍ରେଡିଟ୍ କାର୍ଡ କିମ୍ବା ବାଙ୍କ ଖାତା ସମ୍ବନ୍ଧିତ କୋଣି ସୂଚନା ରଖିବାକୁ ନାହିଁ।',
