@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'שחזור המנוי',
     'plans.cancel.restoreFailed': 'מצטערים, איננו מסוגלים לשחזר את המנוי כרגע. אנא נסה שוב מאוחר יותר.',
     'plans.change.button': 'שינוי המנוי',
-    'plans.change.explanation': 'בחר את התוכנית שברצונך לשדרג או לשדרג ממנה. התשלום עבור ההבדל במחיר יתבצע מיד.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'מצטערים, איננו מסוגלים לשנות את התוכנית שלך כרגע. אנא נסה שוב מאוחר יותר.',
     'plans.change.upgrade': 'שדרוג',
     'payments.disclaimer': 'מידע על תשלומים ועיבוד מתבצע דרך Stripe. אנחנו לא שומרים שום מידע על כרטיסי אשראי או חשבונות בנק על השרתים שלנו.',
