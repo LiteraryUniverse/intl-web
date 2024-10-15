@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'ri\'a do sidju lo nu se zukte lo nu jdima lo se jibri be do',
     'plans.cancel.restoreFailed': 'do se nabmi lo nu se zukte le nu jdima lo se jibri ca\'o le cabna .i ko ciksi',
     'plans.change.button': 'ri\'a do sidju lo nu se zukte le jbini be lo se jibri',
-    'plans.change.explanation': 'ko pilno lo pagbu be lo cnino jibri be do .i do jdima lo jdima be le jdima be lo se jibri',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'do se nabmi lo nu se zukte le do jibri ca\'o le cabna .i ko ciksi',
     'plans.change.upgrade': 'cnima',
     'payments.disclaimer': 'dikca tcidu je pruce be lo kagni cu se jalge lo ka zukte lo se finti .i mi na nelci lo ka ponse lo krediti tcidu pe mi\'o e lo ckana ckaji be lo bancu pe mi\'o',
