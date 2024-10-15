@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Відновити підписку',
     'plans.cancel.restoreFailed': 'На жаль, ми не змогли відновити підписку на даний момент. Будь ласка, спробуйте ще раз пізніше.',
     'plans.change.button': 'Змінити підписку',
-    'plans.change.explanation': 'Виберіть план, на який ви хочете оновити або знизити. Різницю в ціні вам буде сплачено негайно.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'На жаль, ми не змогли змінити ваш план на даний момент. Будь ласка, спробуйте ще раз пізніше.',
     'plans.change.upgrade': 'Оновити',
     'payments.disclaimer': 'Інформація про оплату та обробка здійснюється через Stripe. Ми не зберігаємо жодної інформації про кредитну картку або банківський рахунок на наших серверах.',
