@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Pulihkan langganan',
     'plans.cancel.restoreFailed': 'Maaf, kami tidak dapat memulihkan langganan pada masa ini. Sila cuba lagi kemudian.',
     'plans.change.button': 'Tukar langganan',
-    'plans.change.explanation': 'Pilih pelan yang anda ingin naik taraf atau turun taraf. Anda akan ditagih perbezaan harga dengan serta-merta.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Maaf, kami tidak dapat menukar rancangan anda pada masa ini. Sila cuba lagi kemudian.',
     'plans.change.upgrade': 'Naik taraf',
     'payments.disclaimer': 'Maklumat pembayaran dan pemprosesan dilakukan melalui Stripe. Kami tidak menyimpan sebarang maklumat kad kredit atau akaun bank di pelayan kami.',
