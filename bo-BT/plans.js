@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restore subscription',
     'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
     'plans.change.button': 'Change subscription',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'ངེས་པར་འགྲོགས་པའི་དངོས་གྲུབ་འདིའི་སྤྲོད་པའི་བརྡ་དོན་ལས་བྱེད་པའི་སྒྲིག་གཞི་འདི་Stripeནང་འགྲོགས་བསྐྱར་ཞིབ་འབྲེལ་བཞག་པའི་བདེའང་ལས་མེད་པར་མི་འདུག་ཡོད། ངེས་པར་འགྲོགས་པའི་སྒྲིག་གཞི་འདི་དེ་བཞིན་པའི་སྒྲོམ་གཞི་འདི་བཟོད་པར་བྱེད་པའི་དངོས་གྲུབ་འདི་གིས་བརྡ་དོན་ལས་བྱེད་པའི་སྒྲིག་གཞི་འདི་བཟོད་པའི་བདེའང་ལས་མེད་པར་མི་འདུག་ཡོད།',
