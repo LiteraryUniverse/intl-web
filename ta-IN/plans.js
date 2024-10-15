@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restore subscription',
     'plans.cancel.restoreFailed': 'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
     'plans.change.button': 'Change subscription',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Apologies, we were unable to change your plan at this moment. Please try again later.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'கட்டண தகவல் மற்றும் செயலாக்கம் ஸ்ட்ரைப் மூலம் செயல்படுகின்றது. எங்கள் சேவையகத்தில் எந்த கிரெடிட் கார்டு அல்லது வங்கி கணக்கு தகவலையும் சேமிக்கவில்லை.',
