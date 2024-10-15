@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Ibalik ang subscription',
     'plans.cancel.restoreFailed': 'Paumanhin, hindi namin magawang ibalik ang subscription sa ngayon. Subukan muli mamaya.',
     'plans.change.button': 'Baguhin ang subscription',
-    'plans.change.explanation': 'Pumili ng plano na nais mong i-upgrade o i-downgrade. Ikaw ay babayaran ng agad ang pagkakaiba sa presyo.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Paumanhin, hindi namin magawang baguhin ang iyong plano sa ngayon. Subukan muli mamaya.',
     'plans.change.upgrade': 'Mag-upgrade',
     'payments.disclaimer': 'Ang impormasyon at pagproseso ng pagbabayad ay ginagawa sa pamamagitan ng Stripe. Hindi namin iniimbak ang anumang impormasyon ng credit card o bank account sa aming mga server.',
