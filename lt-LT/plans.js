@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Atkurti prenumeratą',
     'plans.cancel.restoreFailed': 'Atsiprašome, šiuo metu negalime atkurti prenumeratos. Prašome bandyti vėliau.',
     'plans.change.button': 'Keisti prenumeratą',
-    'plans.change.explanation': 'Pasirinkite planą, į kurį norite atsinaujinti arba sumažinti. Jums bus iš karto apmokestinta kainos skirtumas.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Atsiprašome, šiuo metu negalime pakeisti jūsų plano. Prašome bandyti vėliau.',
     'plans.change.upgrade': 'Atnaujinti',
     'payments.disclaimer': 'Mokėjimo informacija ir apdorojimas vyksta per „Stripe“. Mes nesaugome jokios kreditinės kortelės ar banko sąskaitos informacijos savo serveriuose.',
