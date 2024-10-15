@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Herstel intekening',
     'plans.cancel.restoreFailed': 'Verskoning, ons kon nie die intekening op hierdie oomblik herstel nie. Probeer asseblief later weer.',
     'plans.change.button': 'Verander intekening',
-    'plans.change.explanation': 'Kies die plan waarna jy wil opgradeer of afgradeer. Die verskil in prys sal dadelik aan jou gefaktureer word.',
+    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
     'plans.change.failed': 'Verskoning, ons kon nie jou plan op hierdie oomblik verander nie. Probeer asseblief later weer.',
     'plans.change.upgrade': 'Opgradeer',
     'payments.disclaimer': 'Betalingsinligting en verwerking word gedoen deur Stripe. Ons hou geen kredietkaart- of bankrekeninginligting op ons bedieners nie.',
