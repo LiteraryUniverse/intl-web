@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Seinnteoir traileir físe Scéil',
     'workshop.videoTrailer.supportedPlaftorms': 'Tacaímid le Youtube, Vimeo agus Odysee',
     'workshop.videoTrailer.rumble': 'Tugaimid tacaíocht freisin do Rumble, ach cuimhnigh an URL IFRAME a chóipeáil.',
-    'workshop.videoTrailer.suggestPlatforms': 'An bhfuil do phlátform físeáin ar iarraidh? Inis dúinn trí ár <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'An bhfuil do phlátform físeáin ar iarraidh? Inis dúinn trí ár <a>feedback</a>!',
+    'workshop.cover.edit': 'Change cover'
 };

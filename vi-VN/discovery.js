@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Tìm kiếm vũ trụ',
     'discover.searchUniverse.description': 'Tìm kiếm các vũ trụ',
     'discover.search.storyStatus': 'Trạng thái tiến độ câu chuyện',
+    'discover.search.genres': 'Các thể loại',
     'story.status.complete': 'Hoàn thành',
     'story.status.inProgress': 'Đang tiếp diễn',
     'discover.search.universeConnection': 'Kết nối của câu chuyện với vũ trụ',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Hiển thị thêm các chương',
     'discovery.chaptersTotal': 'Tổng số chương trong câu chuyện',
     'discovery.readFromStart': 'Đọc từ chương đầu tiên',
-    'discovery.readLatest': 'Đọc chương mới nhất'
+    'discovery.readLatest': 'Đọc chương mới nhất',
+    'discovery.author': 'Author'
 };

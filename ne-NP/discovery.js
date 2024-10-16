@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'विश्वहरूको खोजी गर्नुहोस्',
     'discover.searchUniverse.description': 'विश्वहरूको खोजी गर्नुहोस्',
     'discover.search.storyStatus': 'कथा प्रगति स्थिति',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'पूर्ण',
     'story.status.inProgress': 'जारी',
     'discover.search.universeConnection': 'कथा र विश्वमा कनेक्सन',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'थप अध्यायहरू देखाउनुहोस्',
     'discovery.chaptersTotal': 'कथामा कुल अध्याय संख्या',
     'discovery.readFromStart': 'पहिलो अध्यायबाट पढ्नुहोस्',
-    'discovery.readLatest': 'नवीनतम अध्याय पढ्नुहोस्'
+    'discovery.readLatest': 'नवीनतम अध्याय पढ्नुहोस्',
+    'discovery.author': 'Author'
 };

@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'Reproductor del tràiler del vídeo de la història',
     'workshop.videoTrailer.supportedPlaftorms': 'Donem suport a Youtube, Vimeo i Odysee',
     'workshop.videoTrailer.rumble': 'També donem suport a Rumble, però recorda copiar l\'URL de l\'IFRAME.',
-    'workshop.videoTrailer.suggestPlatforms': 'La teva plataforma de vídeo no hi és? Fes-nos-ho saber a través del nostre <a>feedback</a>!'
+    'workshop.videoTrailer.suggestPlatforms': 'La teva plataforma de vídeo no hi és? Fes-nos-ho saber a través del nostre <a>feedback</a>!',
+    'workshop.cover.edit': 'Change cover'
 };

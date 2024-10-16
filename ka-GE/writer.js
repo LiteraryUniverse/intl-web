@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'წინა თავში გამოქვეყნდა დაგენერირებული ადგილი {publishDate, date, short} თარიღს, {publishDate, time}',
     'writer.publish.alreadyPublished': 'ეს თავისუფალი თავად გამოქვეყნდა {publishedAt, date, short}. ახალი ვერსიები იქნება გამოქვეყნებული მყიდველი.',
     'writer.publish.betaReader': 'ბეტა',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Publish',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

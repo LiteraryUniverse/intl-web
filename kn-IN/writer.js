@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'ಹಿಂದಿನ ಅಧ್ಯಾಯವನ್ನು ಪ್ರಕಟಿಸಲು ನಿರ್ಧರಿಸಲಾಗಿದೆ {publishDate, date, short} ಗೆ ಮತ್ತು {publishDate, time}ಗೆ ಪ್ರಕಟವಾಗುತ್ತದೆ.',
     'writer.publish.alreadyPublished': 'ಈ ಅಧ್ಯಾಯವು ಈಗಾಗಲೇ ಪ್ರಕಟವಾಗಿದೆ {publishedAt, date, short}. ಹೊಸ ಆವೃತ್ತಿಗಳು ತಕ್ಷಣವೇ ಪ್ರಕಟವಾಗುತ್ತವೆ.',
     'writer.publish.betaReader': 'ಬೀಟಾ',
-    'writer.publish.public': 'ಪ್ರಕಟಿಸು'
+    'writer.publish.public': 'ಪ್ರಕಟಿಸು',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

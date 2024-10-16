@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'Bab sebelumnya dijadwalkan untuk diterbitkan pada {publishDate, date, short} pada {publishDate, time}',
     'writer.publish.alreadyPublished': 'Bab ini sudah diterbitkan pada {publishedAt, date, short}. Versi baru akan segera diterbitkan.',
     'writer.publish.betaReader': 'Beta',
-    'writer.publish.public': 'Terbitkan'
+    'writer.publish.public': 'Terbitkan',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

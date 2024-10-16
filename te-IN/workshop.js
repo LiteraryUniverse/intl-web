@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'కథ వీడియో ట్రెయిలర్ ప్లేయర్',
     'workshop.videoTrailer.supportedPlaftorms': 'మేము Youtube, Vimeo మరియు Odysee ని మద్దతు చేస్తాము',
     'workshop.videoTrailer.rumble': 'మేము రూంబల్‌ను కూడా మద్దతు చేస్తాము, కానీ మీరు IFRAME URL ని కాపీ చేయాలి.',
-    'workshop.videoTrailer.suggestPlatforms': 'మీ వీడియో ప్లాట్ఫారం లేదా, మనకు తెలియజేయండి మా <a>అభిప్రాయం</a> ద్వారా!'
+    'workshop.videoTrailer.suggestPlatforms': 'మీ వీడియో ప్లాట్ఫారం లేదా, మనకు తెలియజేయండి మా <a>అభిప్రాయం</a> ద్వారా!',
+    'workshop.cover.edit': 'Change cover'
 };

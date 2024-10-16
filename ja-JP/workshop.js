@@ -274,5 +274,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'ストーリービデオトレーラープレーヤー',
     'workshop.videoTrailer.supportedPlaftorms': 'Youtube、Vimeo、およびOdyseeをサポートしています',
     'workshop.videoTrailer.rumble': 'また、Rumbleもサポートしていますが、IFRAMEのURLをコピーすることを忘れないでください。',
-    'workshop.videoTrailer.suggestPlatforms': 'ビデオプラットフォームが見つからない場合は、<a>フィードバック</a>を通じてお知らせください！'
+    'workshop.videoTrailer.suggestPlatforms': 'ビデオプラットフォームが見つからない場合は、<a>フィードバック</a>を通じてお知らせください！',
+    'workshop.cover.edit': 'Change cover'
 };

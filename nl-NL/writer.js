@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'Het vorige hoofdstuk is gepland om gepubliceerd te worden op {publishDate, date, short} om {publishDate, time}',
     'writer.publish.alreadyPublished': 'Dit hoofdstuk is al gepubliceerd op {publishedAt, date, short}. Nieuwe versies worden direct gepubliceerd.',
     'writer.publish.betaReader': 'Bèta',
-    'writer.publish.public': 'Publiceren'
+    'writer.publish.public': 'Publiceren',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

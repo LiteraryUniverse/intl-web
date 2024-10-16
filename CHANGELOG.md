@@ -1,9 +1,14 @@
 # Changelog for languages
 
-## 2024-09-03 - v2.14.0
+## 2024-10-XX - v2.14.1
+
+* Added fan club payment descriptors
+
+## 2024-10-08 - v2.14.0
 
 * Courses strings
 * `common.noSelection` new key
+* New error messages
 
 ## 2024-08-26 - v2.13.1
 

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ଏକ ବିଶ୍ବସମ୍ବନ୍ଧରେ ଖୋଜନ୍ତୁ',
     'discover.searchUniverse.description': 'ବିଶ୍ବସମ୍ବନ୍ଧଗୁଡ଼ିକା ଖୋଜନ୍ତୁ',
     'discover.search.storyStatus': 'ଗଳ୍ପ ପ୍ରଗତି ଅବସ୍ଥା',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'ସମ୍ପୂର୍ଣ',
     'story.status.inProgress': 'ଚାଲୁ ଅଛି',
     'discover.search.universeConnection': 'ଗଳ୍ପରେ ବିଶ୍ବସମ୍ବନ୍ଧ',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'ସମସ୍ତ ଅଧ୍ୟାୟ ଅଧିକ ଦେଖାନ‌କୁ',
     'discovery.chaptersTotal': 'କଥାରେ ମୋଟ ଅଧ୍ୟାୟ ସଂଖ୍ୟା',
     'discovery.readFromStart': 'ପ୍ରଥମ ପ୍ରବନ୍ଧରୁ ପଢନ୍ତୁ',
-    'discovery.readLatest': 'ନବୀନତମ ପ୍ରବନ୍ଧ ପଢନ୍ତୁ'
+    'discovery.readLatest': 'ନବୀନତମ ପ୍ରବନ୍ଧ ପଢନ୍ତୁ',
+    'discovery.author': 'Author'
 };

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Cerca un universo',
     'discover.searchUniverse.description': 'Cerca degli universi',
     'discover.search.storyStatus': 'Stato progressi storia',
+    'discover.search.genres': 'Generi',
     'story.status.complete': 'Completato',
     'story.status.inProgress': 'In corso',
     'discover.search.universeConnection': 'Collegamento storia a universo',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'Mostra altri capitoli',
     'discovery.chaptersTotal': 'Numero totale di capitoli nella storia',
     'discovery.readFromStart': 'Leggi dal primo capitolo',
-    'discovery.readLatest': 'Leggi l\'ultimo capitolo'
+    'discovery.readLatest': 'Leggi l\'ultimo capitolo',
+    'discovery.author': 'Author'
 };

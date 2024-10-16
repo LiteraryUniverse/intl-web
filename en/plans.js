@@ -118,7 +118,7 @@ export default {
     'Apologies, we were unable to restore the subscription at this moment. Please try again later.',
   'plans.change.button': 'Change subscription',
   'plans.change.explanation':
-    'Select the plan you want to upgrade or downgrade to. You will be billed the difference in price immediately.',
+    'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
   'plans.change.failed':
     'Apologies, we were unable to change your plan at this moment. Please try again later.',
   'plans.change.upgrade': 'Upgrade',
@@ -272,4 +272,13 @@ export default {
   'plans.fanClub.activatedLabel': 'Fan Club activated',
   'plans.fanClub.inactiveWarning':
     'Your fan club is not yet activated, you can still prepare plans and once you are ready you can activate it in settings.',
+  'payment.fanClub.editTier': 'Edit tier',
+  'plans.deletePlan.modalAria': 'Delete plan confirmation',
+  'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
+  'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
+  'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
+  'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
+  'payment.fanClub.perMonth': '{amount} / per month',
+  'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
+  'plans.fanClub.create': 'Create fan club'
 }

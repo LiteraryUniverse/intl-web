@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'മുന്‍പത്തെ അദ്ധ്യായം {publishDate, date, short} ലും {publishDate, time}സമയത്തില്‍ പ്രസിദ്ധീകരിക്കപ്പെടുന്നു.',
     'writer.publish.alreadyPublished': 'ഈ അദ്ധ്യായം ഇതിനായി {publishedAt, date, short}ലും പ്രസിദ്ധീകരിച്ചിരിക്കുന്നു. പുതിയ പതിപ്പുകള്‍ തത്സമയം പ്രസിദ്ധീകരിക്കപ്പെടും.',
     'writer.publish.betaReader': 'ബീറ്റ',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Publish',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

@@ -23,6 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ஒரு உலகத்தை தேடுங்கள்',
     'discover.searchUniverse.description': 'உலகத்தைக் கண்டறியுங்கள்',
     'discover.search.storyStatus': 'கதை முடிவு நிலை',
+    'discover.search.genres': 'Genres',
     'story.status.complete': 'முழுமையான',
     'story.status.inProgress': 'நடப்பது',
     'discover.search.universeConnection': 'கதைக்கு உலகம் இணைக்கப்படுகிறது',
@@ -58,5 +59,6 @@ export default {
     'discovery.chapters.showMore': 'மேலும் அத்தியாயங்களைக் காட்டு',
     'discovery.chaptersTotal': 'கதையின் மொத்த அத்தியாயங்கள் எண்ணிக்கை',
     'discovery.readFromStart': 'தொடர்ந்து முதல் அத்தகாத்திரிக்குச் செல்க',
-    'discovery.readLatest': 'சமீபத்திய அத்தகாத்திரம் வாசிக்க'
+    'discovery.readLatest': 'சமீபத்திய அத்தகாத்திரம் வாசிக்க',
+    'discovery.author': 'Author'
 };

@@ -25,5 +25,7 @@ export default {
     'writer.publish.previousChapterScheduled': 'পূৰ্বৱৰ্তী অধ্যায়টো অনুমোদিত কৰা হৈছে {publishDate, date, short} তাৰিখত {publishDate, time}ৰ সময়ত',
     'writer.publish.alreadyPublished': 'এই অধ্যায়টো ইতিমধ্যে {publishedAt, date, short}তাৰিখত প্ৰকাশ হৈছে। নতুন সংস্কৰণসমূহ সমৰ্পিত হব অতি শীঘ্ৰই।',
     'writer.publish.betaReader': 'বেটা',
-    'writer.publish.public': 'Publish'
+    'writer.publish.public': 'Publish',
+    'writer.publish.now': 'Publish now',
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
 };

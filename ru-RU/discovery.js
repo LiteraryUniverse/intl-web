@@ -27,6 +27,7 @@ export default {
     'discover.searchUniverse.title': 'Поиск вселенной',
     'discover.searchUniverse.description': 'Поиск вселенных',
     'discover.search.storyStatus': 'Состояние прогресса истории',
+    'discover.search.genres': 'Жанры',
     'story.status.complete': 'Закончена',
     'story.status.inProgress': 'Выходит',
     'discover.search.universeConnection': 'Подключение истории к вселенной',
@@ -66,5 +67,6 @@ export default {
     'discovery.chapters.showMore': 'Ещё главы',
     'discovery.chaptersTotal': 'Общее количество глав в истории',
     'discovery.readFromStart': 'Читать с первой главы',
-    'discovery.readLatest': 'Читать последнюю главу'
+    'discovery.readLatest': 'Читать последнюю главу',
+    'discovery.author': 'Автор'
 };

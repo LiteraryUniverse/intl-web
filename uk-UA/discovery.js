@@ -27,6 +27,7 @@ export default {
     'discover.searchUniverse.title': 'Знайти всесвіт',
     'discover.searchUniverse.description': 'Знайти всесвіти',
     'discover.search.storyStatus': 'Статус виконання історії',
+    'discover.search.genres': 'Жанри',
     'story.status.complete': 'Завершено',
     'story.status.inProgress': 'В процесі',
     'discover.search.universeConnection': 'Зв\'язок історії зі всесвітом',
@@ -66,5 +67,6 @@ export default {
     'discovery.chapters.showMore': 'Показати більше розділів',
     'discovery.chaptersTotal': 'Загальна кількість глав у історії',
     'discovery.readFromStart': 'Читати з першої глави',
-    'discovery.readLatest': 'Читати останню главу'
+    'discovery.readLatest': 'Читати останню главу',
+    'discovery.author': 'Author'
 };

@@ -286,5 +286,6 @@ export default {
     'workshop.videoTrailerPlayerTitle': 'গল্প ভিডিও ট্রেলার প্লেয়ার',
     'workshop.videoTrailer.supportedPlaftorms': 'আমরা Youtube, Vimeo এবং Odysee সমর্থন করি',
     'workshop.videoTrailer.rumble': 'আমরা এছাড়াও Rumble সমর্থন করি, কিন্তু মনে রাখবেন IFRAME URL কপি করতে।',
-    'workshop.videoTrailer.suggestPlatforms': 'আপনার ভিডিও প্ল্যাটফর্ম কি অনুপস্থিত, আমাদের <a>মতামত</a> দিন!'
+    'workshop.videoTrailer.suggestPlatforms': 'আপনার ভিডিও প্ল্যাটফর্ম কি অনুপস্থিত, আমাদের <a>মতামত</a> দিন!',
+    'workshop.cover.edit': 'Change cover'
 };
