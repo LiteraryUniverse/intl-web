@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Изменить',
     'common.publish': 'Опубликовать',
     'common.publishAt': 'Дата и время публикации',
+    'common.publishNow': 'Опубликовать сейчас',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Меню пользователя',
     'a11y.navigation': 'Навигация',
     'dashboard.profile': 'Ваш профиль',
