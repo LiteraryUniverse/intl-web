@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Edit',
     'common.publish': 'Terbitkan',
     'common.publishAt': 'Tarikh dan masa penerbitan',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Menu pengguna',
     'a11y.navigation': 'Navigasi',
     'dashboard.profile': 'Profil anda',
