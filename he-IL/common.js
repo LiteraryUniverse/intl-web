@@ -178,6 +178,8 @@ export default {
     'common.edit': 'עריכה',
     'common.publish': 'פרסום',
     'common.publishAt': 'תאריך ושעת פרסום',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'תפריט משתמש',
     'a11y.navigation': 'ניווט',
     'dashboard.profile': 'הפרופיל שלך',

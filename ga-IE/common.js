@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Cuir in Eagar',
     'common.publish': 'Foilsigh',
     'common.publishAt': 'Dáta agus am foilsithe',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Menu úsáideora',
     'a11y.navigation': 'Seoladh',
     'dashboard.profile': 'Do phróifíl',

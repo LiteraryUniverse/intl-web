@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Szerkesztés',
     'common.publish': 'Közzététel',
     'common.publishAt': 'Közzététel dátuma és ideje',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Felhasználói menü',
     'a11y.navigation': 'Navigáció',
     'dashboard.profile': 'Profilod',

@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Επεξεργασία',
     'common.publish': 'Δημοσίευση',
     'common.publishAt': 'Ημερομηνία και ώρα δημοσίευσης',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Μενού χρήστη',
     'a11y.navigation': 'Πλοήγηση',
     'dashboard.profile': 'Το προφίλ σας',

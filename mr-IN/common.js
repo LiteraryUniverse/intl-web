@@ -178,6 +178,8 @@ export default {
     'common.edit': 'संपादित करा',
     'common.publish': 'प्रकाशित करा',
     'common.publishAt': 'प्रकाशन तारीख आणि वेळ',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'युजर मेनू',
     'a11y.navigation': 'नेविगेशन',
     'dashboard.profile': 'आपली प्रोफाइल',

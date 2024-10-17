@@ -178,6 +178,8 @@ export default {
     'common.edit': '편집',
     'common.publish': '게시',
     'common.publishAt': '게시 날짜와 시간',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': '사용자 메뉴',
     'a11y.navigation': '탐색',
     'dashboard.profile': '내 프로필',

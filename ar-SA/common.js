@@ -178,6 +178,8 @@ export default {
     'common.edit': 'تحرير',
     'common.publish': 'نشر',
     'common.publishAt': 'تاريخ ووقت النشر',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'قائمة المستخدم',
     'a11y.navigation': 'التنقل',
     'dashboard.profile': 'ملفك الشخصي',

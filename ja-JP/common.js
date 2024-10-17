@@ -178,6 +178,8 @@ export default {
     'common.edit': '編集',
     'common.publish': '発行',
     'common.publishAt': '公開日時',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'ユーザーメニュー',
     'a11y.navigation': 'ナビ',
     'dashboard.profile': 'あなたのプロフィール',

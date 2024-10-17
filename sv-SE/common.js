@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Redigera',
     'common.publish': 'Publicera',
     'common.publishAt': 'Publiceringsdatum och -tid',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Användarmeny',
     'a11y.navigation': 'Navigering',
     'dashboard.profile': 'Din profil',

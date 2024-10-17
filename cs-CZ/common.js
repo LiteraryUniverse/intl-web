@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Upravit',
     'common.publish': 'Zveřejnit',
     'common.publishAt': 'Datum a čas zveřejnění',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Uživatelské menu',
     'a11y.navigation': 'Navigace',
     'dashboard.profile': 'Váš profil',

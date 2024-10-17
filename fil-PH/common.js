@@ -178,6 +178,8 @@ export default {
     'common.edit': 'I-edit',
     'common.publish': 'Ilathala',
     'common.publishAt': 'Petsa at oras ng paglathala',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Menu ng User',
     'a11y.navigation': 'Pag-navigate',
     'dashboard.profile': 'Iyong profile',
