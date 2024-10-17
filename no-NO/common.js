@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Rediger',
     'common.publish': 'Publiser',
     'common.publishAt': 'Publiseringsdato og -tid',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Brukermeny',
     'a11y.navigation': 'Navigasjon',
     'dashboard.profile': 'Din profil',
