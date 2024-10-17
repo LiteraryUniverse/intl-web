@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Düzenle',
     'common.publish': 'Yayınla',
     'common.publishAt': 'Yayın tarihi ve saati',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Kullanıcı menüsü',
     'a11y.navigation': 'Gezinme',
     'dashboard.profile': 'Profiliniz',
