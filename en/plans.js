@@ -253,10 +253,11 @@ export default {
   'payment.fanClub.description': 'Tier description',
   'payment.fanClub.picture': 'Tier picture',
   'payment.fanClub.priceBreakdown':
-    'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), estimated fees from Stripe: {stripeFee} ({stripeBaseFee} base transaction fee + payment type percentage), you will get (estimated): {net}',
+    'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
+  'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
   'payment.fanClub.learnStripeFees': 'Learn more about Stripe fees.',
   'payment.feeNotice':
-    "Please do note that this is an estimate and the actual Stripe fee might be different based on customer's payment type and additional charges from the pay gate.",
+    "Please do note that this is an estimate and the actual Stripe fee might be different based on customer's payment type and additional charges from the pay gate and applicable taxes.",
   'payment.fanClub.perks': 'Perks',
   'stripeConnect.settings.notifications': 'Notifications from Stripe',
   'plans.pricePerMonth': 'Amount per month',
