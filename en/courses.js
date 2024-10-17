@@ -51,4 +51,6 @@ export default {
   'course.add.module':'Add new module',
   'course.add.story' : 'Add story',
   'course.remove.story' : 'Remove story',
+  'course.dateOfPublish' : 'Date of publishing',
+  'course.lesson.meetInPerson' : 'Meet in person', 
 }
