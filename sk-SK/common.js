@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Upraviť',
     'common.publish': 'Publikovať',
     'common.publishAt': 'Dátum a čas zverejnenia',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Používateľské menu',
     'a11y.navigation': 'Navigácia',
     'dashboard.profile': 'Váš profil',
