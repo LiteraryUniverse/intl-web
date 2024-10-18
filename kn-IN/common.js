@@ -178,6 +178,8 @@ export default {
     'common.edit': 'ಸಂಪಾದಿಸು',
     'common.publish': 'ಪ್ರಕಟಿಸು',
     'common.publishAt': 'ಪ್ರಕಟಣೆ ದಿನಾಂಕ ಮತ್ತು ಸಮಯ',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'ಬಳಕೆದಾರ ಮೆನು',
     'a11y.navigation': 'Navigation',
     'dashboard.profile': 'ನಿಮ್ಮ ಪ್ರೊಫೈಲ್',

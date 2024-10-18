@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Muokkaa',
     'common.publish': 'Julkaise',
     'common.publishAt': 'Julkaisupäivä ja -aika',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Käyttäjävalikko',
     'a11y.navigation': 'Navigointi',
     'dashboard.profile': 'Profiilisi',

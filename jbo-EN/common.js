@@ -178,6 +178,8 @@ export default {
     'common.edit': 'cusku\'i',
     'common.publish': 'Publish',
     'common.publishAt': 'Publication date and time',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'User menu',
     'a11y.navigation': 'Nasnavi',
     'dashboard.profile': 'Your profile',

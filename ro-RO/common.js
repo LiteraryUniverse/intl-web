@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Editează',
     'common.publish': 'Publică',
     'common.publishAt': 'Data și ora publicării',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Meniu utilizator',
     'a11y.navigation': 'Navigare',
     'dashboard.profile': 'Profilul dumneavoastră',

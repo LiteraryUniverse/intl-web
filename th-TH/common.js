@@ -178,6 +178,8 @@ export default {
     'common.edit': 'แก้ไข',
     'common.publish': 'เผยแพร่',
     'common.publishAt': 'วันที่และเวลาเผยแพร่',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'เมนูผู้ใช้',
     'a11y.navigation': 'การนำทาง',
     'dashboard.profile': 'โปรไฟล์ของคุณ',
