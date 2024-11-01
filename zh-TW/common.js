@@ -178,6 +178,8 @@ export default {
     'common.edit': '編輯',
     'common.publish': '發佈',
     'common.publishAt': '發佈日期和時間',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': '使用者選單',
     'a11y.navigation': '導航',
     'dashboard.profile': '您的個人資料',

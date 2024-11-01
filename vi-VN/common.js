@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Chỉnh sửa',
     'common.publish': 'Xuất bản',
     'common.publishAt': 'Ngày Giờ Xuất bản',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Menu người dùng',
     'a11y.navigation': 'Điều hướng',
     'dashboard.profile': 'Hồ sơ của bạn',

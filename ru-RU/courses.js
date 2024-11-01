@@ -48,4 +48,9 @@ export default {
   'course.lesson.text': 'Только текст',
   'course.lesson.content': 'Содержание урока',
   'course.lesson.description': 'Публичное описание',
+  'course.add.module': 'Добавить новый модуль',
+  'course.add.story': 'Добавить историю',
+  'course.remove.story': 'Удалить историю',
+  'course.dateOfPublish': 'Дата выпуска',
+  'course.lesson.meetInPerson': 'Личная встреча',
 };

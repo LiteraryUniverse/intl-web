@@ -178,6 +178,8 @@ export default {
     'common.edit': 'Redaguoti',
     'common.publish': 'Publikuoti',
     'common.publishAt': 'Publikavimo data ir laikas',
+    'common.publishNow': 'Publish now',
+    'common.publishLater': 'Publish later',
     'a11y.user.menu': 'Vartotojo meniu',
     'a11y.navigation': 'Navigacija',
     'dashboard.profile': 'Jūsų profilis',
