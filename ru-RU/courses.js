@@ -53,4 +53,5 @@ export default {
   'course.remove.story': 'Удалить историю',
   'course.dateOfPublish': 'Дата выпуска',
   'course.lesson.meetInPerson': 'Личная встреча',
+  'course.curriculum.edit': 'Edit curriculum',
 };
