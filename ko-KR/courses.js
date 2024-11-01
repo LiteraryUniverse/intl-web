@@ -53,4 +53,5 @@ export default {
   'course.remove.story': 'Remove story',
   'course.dateOfPublish': 'Date of publishing',
   'course.lesson.meetInPerson': 'Meet in person',
+  'course.curriculum.edit': 'Edit curriculum',
 };
