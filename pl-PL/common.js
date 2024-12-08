@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Skok fabuły',
     'story.notes.notes': 'Notatki',
     'story.authorsNotes': 'Notatki autora',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Członkowie',
     'common.language': 'Język',
     next: 'Dalej',
