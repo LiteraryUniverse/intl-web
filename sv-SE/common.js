@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Anteckningar',
     'story.authorsNotes': 'Författarens anteckningar',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Medlemmar',
     'common.language': 'Språk',
     next: 'Nästa',
