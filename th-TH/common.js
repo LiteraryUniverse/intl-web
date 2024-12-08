@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'การนำเสนอ',
     'story.notes.notes': 'บันทึก',
     'story.authorsNotes': 'หมายเหตุของผู้เขียน',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'สมาชิก',
     'common.language': 'ภาษา',
     next: 'ถัดไป',
