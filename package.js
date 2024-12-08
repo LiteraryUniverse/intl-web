@@ -7,7 +7,7 @@ Package.describe({
 })
 
 Package.onUse(function (api) {
-  api.versionsFrom(['2.8.1', '3.0'])
+  api.versionsFrom(['2.8.1', '3.0', '3.1'])
   api.use(['ecmascript', 'typescript', 'zodern:types'])
   api.mainModule('./index.ts', ['client', 'server'], { lazy: true })
 })

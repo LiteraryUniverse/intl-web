@@ -1,8 +1,10 @@
 # Changelog for languages
 
-## 2024-10-XX - v2.14.1
+## 2024-12-09 - v2.14.1
 
 * Added fan club payment descriptors
+* New target audience strings
+* Added missing strings for teaching module
 
 ## 2024-10-08 - v2.14.0
 
