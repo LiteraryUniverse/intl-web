@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'ការប្រកាស',
     'story.notes.notes': 'កំណត់ត្រា',
     'story.authorsNotes': 'កំណត់ចំណាំរបស់អ្នកនិពន្ធនាការ',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'សមាជិក',
     'common.language': 'ភាសា',
     next: 'បន្ទាប់',
