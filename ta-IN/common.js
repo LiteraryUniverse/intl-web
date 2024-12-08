@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'பிட்ச்',
     'story.notes.notes': 'குறிப்புகள்',
     'story.authorsNotes': 'ஆசிரியரின் குறிப்புகள்',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'உறுப்பினர்கள்',
     'common.language': 'மொழி',
     next: 'அடுத்தது',
