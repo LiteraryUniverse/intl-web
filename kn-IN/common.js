@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'ಪಿಚ್',
     'story.notes.notes': 'ಟಿಪ್ಪಣಿಗಳು',
     'story.authorsNotes': 'ಲೇಖಕರ ಟಿಪ್ಪಣಿಗಳು',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'ಸದಸ್ಯರು',
     'common.language': 'ಭಾಷೆ',
     next: 'ಮುಂದುವರೆಸು',
