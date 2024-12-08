@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Bài giới thiệu',
     'story.notes.notes': 'Ghi chú',
     'story.authorsNotes': 'Ghi chú của tác giả',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Thành viên',
     'common.language': 'Ngôn ngữ',
     next: 'Tiếp theo',
