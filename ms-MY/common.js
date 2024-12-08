@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Nota',
     'story.authorsNotes': 'Nota Penulis',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Ahli',
     'common.language': 'Bahasa',
     next: 'Seterusnya',

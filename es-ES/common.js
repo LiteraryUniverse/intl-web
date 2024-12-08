@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Presentación',
     'story.notes.notes': 'Notas',
     'story.authorsNotes': 'Notas del autor',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Miembros',
     'common.language': 'Idioma',
     next: 'Siguiente',

@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'བརྗོད་སྒྲིག་།',
     'story.notes.notes': 'མགྱོགས།',
     'story.authorsNotes': 'རྩོམ་པ་རྣམས།',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'ཁྱེད་ཀྱི་སྐོར།',
     'common.language': 'སྐད་ཡིག།',
     next: 'རྗེས་ལུགས།',

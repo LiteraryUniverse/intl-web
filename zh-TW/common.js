@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': '推銷',
     'story.notes.notes': '備註',
     'story.authorsNotes': '作者的註解',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': '成員',
     'common.language': '語言',
     next: '下一步',

@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Presentasjon',
     'story.notes.notes': 'Notater',
     'story.authorsNotes': 'Forfatterens notater',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Medlemmer',
     'common.language': 'Språk',
     next: 'Neste',

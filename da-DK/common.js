@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Noter',
     'story.authorsNotes': 'Forfatterens noter',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Medlemmer',
     'common.language': 'Sprog',
     next: 'Næste',

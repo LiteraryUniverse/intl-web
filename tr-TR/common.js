@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Sunum',
     'story.notes.notes': 'Notlar',
     'story.authorsNotes': 'Yazarın notları',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Üyeler',
     'common.language': 'Dil',
     next: 'Sonraki',

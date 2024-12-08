@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Námet na príbeh',
     'story.notes.notes': 'Poznámky',
     'story.authorsNotes': 'Poznámky autora',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Členovia',
     'common.language': 'Jazyk',
     next: 'Ďalšie',

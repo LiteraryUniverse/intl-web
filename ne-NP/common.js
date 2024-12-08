@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'पिच',
     'story.notes.notes': 'नोटहरू',
     'story.authorsNotes': 'लेखकका नोटहरू',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'सदस्यहरू',
     'common.language': 'भाषा',
     next: 'अर्को',

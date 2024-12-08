@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Prezento',
     'story.notes.notes': 'Notoj',
     'story.authorsNotes': 'Notoj de la aŭtoro',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Membroj',
     'common.language': 'Lingvo',
     next: 'Sekva',

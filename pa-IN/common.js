@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'ਪਿੱਛੇ ਜਾਣਕਾਰੀ',
     'story.notes.notes': 'ਨੋਟਸ',
     'story.authorsNotes': 'ਲੇਖਕ ਦੇ ਨੋਟ',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'ਮੈਂਬਰ',
     'common.language': 'ਭਾਸ਼ਾ',
     next: 'ਅਗਲਾ',

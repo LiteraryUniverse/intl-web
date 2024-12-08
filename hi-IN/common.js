@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'पिच',
     'story.notes.notes': 'टिप्पणियाँ',
     'story.authorsNotes': 'लेखक के नोट्स',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'सदस्य',
     'common.language': 'भाषा',
     next: 'अगला',

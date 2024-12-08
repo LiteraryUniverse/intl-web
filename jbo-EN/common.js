@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'zgito\'a',
     'story.notes.notes': 'notci',
     'story.authorsNotes': 'Notci pe\'a le Jufra',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Cmima',
     'common.language': 'Bangu',
     next: 'Bavla\'i',

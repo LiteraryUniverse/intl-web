@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Tono',
     'story.notes.notes': 'Note',
     'story.authorsNotes': 'Note di autore',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Membri',
     'common.language': 'Lingua',
     next: 'Avanti',

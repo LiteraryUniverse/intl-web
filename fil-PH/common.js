@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Mga Tala',
     'story.authorsNotes': 'Mga Tala ng May-akda',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Mga Miyembro',
     'common.language': 'Wika',
     next: 'Susunod',

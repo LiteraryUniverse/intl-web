@@ -92,7 +92,7 @@ export default {
     copyright {Соглашение об авторских правах}
     publishingAgreement {Соглашение о правах издателя}
     other {Соглашение}
-  } версии {version} - {date, date}`,
+  } Версии {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Новая версия ({newVersion}) этого документа вступит в силу с {effectiveAt, date}',
     'common.legal.disclaimer': '© {year} Все права защищены, все тексты принадлежат их авторам.',
     'premium.only.title': 'Недостаточно высокий рейтинг участника',
@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Подача',
     'story.notes.notes': 'Примечания',
     'story.authorsNotes': 'Заметки автора',
+    'story.notes.audienceAgeGroup': 'Возрастная группа целевой аудитории',
+    'story.notes.audienceSex': 'Пол целевой аудитории',
     'common.members': 'Участники',
     'common.language': 'Язык',
     next: 'Далее',

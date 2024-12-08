@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Крок',
     'story.notes.notes': 'Примітки',
     'story.authorsNotes': 'Примітки автора',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Учасники',
     'common.language': 'Мова',
     next: 'Далі',

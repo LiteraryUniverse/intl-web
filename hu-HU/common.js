@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Bemutatás',
     'story.notes.notes': 'Megjegyzések',
     'story.authorsNotes': 'Szerző megjegyzései',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Tagok',
     'common.language': 'Nyelv',
     next: 'Következő',

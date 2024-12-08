@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'પિચ',
     'story.notes.notes': 'નોંધો',
     'story.authorsNotes': 'લેખકની નોંધો',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'સભ્યો',
     'common.language': 'ભાષા',
     next: 'આગામી',
