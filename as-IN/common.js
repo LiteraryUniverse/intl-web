@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'পিচ',
     'story.notes.notes': 'নোটস',
     'story.authorsNotes': 'লেখকৰ নোট',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'সদস্যসকল',
     'common.language': 'ভাষা',
     next: 'পৰৱৰ্তী',
