@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Huomautukset',
     'story.authorsNotes': 'Tekijän huomautukset',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Jäsenet',
     'common.language': 'Kieli',
     next: 'Seuraava',
