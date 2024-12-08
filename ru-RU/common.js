@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Подача',
     'story.notes.notes': 'Примечания',
     'story.authorsNotes': 'Заметки автора',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Участники',
     'common.language': 'Язык',
     next: 'Далее',
