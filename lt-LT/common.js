@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pristatymas',
     'story.notes.notes': 'Pastabos',
     'story.authorsNotes': 'Autoriaus pastabos',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Nariai',
     'common.language': 'Kalba',
     next: 'Kitas',
