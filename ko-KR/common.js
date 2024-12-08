@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': '피치',
     'story.notes.notes': '메모',
     'story.authorsNotes': '작가의 노트',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': '멤버',
     'common.language': '언어',
     next: '다음',
