@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'المقدمة',
     'story.notes.notes': 'ملاحظات',
     'story.authorsNotes': 'ملاحظات المؤلف',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'الأعضاء',
     'common.language': 'اللغة',
     next: 'التالي',
