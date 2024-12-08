@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Catatan',
     'story.authorsNotes': 'Catatan penulis',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Anggota',
     'common.language': 'Bahasa',
     next: 'Selanjutnya',
