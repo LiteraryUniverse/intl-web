@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Παρουσίαση',
     'story.notes.notes': 'Σημειώσεις',
     'story.authorsNotes': 'Σημειώσεις του συγγραφέα',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Μέλη',
     'common.language': 'Γλώσσα',
     next: 'Επόμενο',
