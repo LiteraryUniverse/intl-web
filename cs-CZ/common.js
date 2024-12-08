@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Představení příběhu (pitch)',
     'story.notes.notes': 'Poznámky',
     'story.authorsNotes': 'Autorovy poznámky',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Členové',
     'common.language': 'Jazyk',
     next: 'Další',
