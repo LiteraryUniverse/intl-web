@@ -1,10 +1,11 @@
 # Changelog for languages
 
-## 2024-12-09 - v2.14.1
+## 2024-12-10 - v2.15.0
 
 * Added fan club payment descriptors
 * New target audience strings
 * Added missing strings for teaching module
+* Move FAQ into a JSON that is not included by default (so that it can be loaded separately)
 
 ## 2024-10-08 - v2.14.0
 
