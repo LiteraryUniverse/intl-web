@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Pitch',
     'story.notes.notes': 'Nótaí',
     'story.authorsNotes': 'Nótaí an Údair',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Baill',
     'common.language': 'Teanga',
     next: 'Ar Aghaidh',

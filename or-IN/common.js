@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'ପିଚ୍',
     'story.notes.notes': 'ନୋଟ',
     'story.authorsNotes': 'ଲେଖକଙ୍କ ନୋଟ',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'ସଭ୍ୟ',
     'common.language': 'ଭାଷା',
     next: 'ପରବର୍ତ୍ତୀ',

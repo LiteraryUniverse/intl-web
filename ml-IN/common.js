@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'പിച്ച്',
     'story.notes.notes': 'കുറിപ്പുകൾ',
     'story.authorsNotes': 'രചയിതാവിന്റെ കുറിപ്പുകൾ',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'അംഗങ്ങൾ',
     'common.language': 'ഭാഷ',
     next: 'അടുത്തത്',

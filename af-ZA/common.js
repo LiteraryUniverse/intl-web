@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Staaltjie',
     'story.notes.notes': 'Notas',
     'story.authorsNotes': 'Skrywer se notas',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Lede',
     'common.language': 'Taal',
     next: 'Volgende',

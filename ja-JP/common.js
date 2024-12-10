@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'ピッチ',
     'story.notes.notes': 'メモ',
     'story.authorsNotes': '著者のコメント',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'メンバー',
     'common.language': '言語',
     next: '次へ',

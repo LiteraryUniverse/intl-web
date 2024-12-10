@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'పిచ్',
     'story.notes.notes': 'మంచికొనుగోలు',
     'story.authorsNotes': 'రచయిత వ్యాఖ్యలు',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'సభ్యులు',
     'common.language': 'భాష',
     next: 'తదుపరి',

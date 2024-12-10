@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'პირსახოცა',
     'story.notes.notes': 'შენიშვნები',
     'story.authorsNotes': 'ავტორის შინაარსი',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'წევრები',
     'common.language': 'ენა',
     next: 'შემდეგი',

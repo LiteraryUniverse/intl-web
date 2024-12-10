@@ -193,6 +193,8 @@ export default {
     'story.notes.pitch': 'Esitlus',
     'story.notes.notes': 'Märkmed',
     'story.authorsNotes': 'Autori märkused',
+    'story.notes.audienceAgeGroup': 'Target audience age group',
+    'story.notes.audienceSex': 'Target audience sex',
     'common.members': 'Liikmed',
     'common.language': 'Keel',
     next: 'Järgmine',
