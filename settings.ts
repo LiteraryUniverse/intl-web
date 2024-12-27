@@ -270,6 +270,7 @@ export default {
     return [langDetails.code, ...langDetails.supportedLocales]
   },
   findLanguageCodeByLocale(locale: string): string {
+    if (!locale) return 'en'
     if (locale.length === 2 && this.supportedLanguages().includes(locale)) {
       return locale
     }

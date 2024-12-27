@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2024-12-28 - v2.15.1
+
+* `findLanguageCodeByLocale` fallback if locale undefined added
+
 ## 2024-12-10 - v2.15.0
 
 * Added fan club payment descriptors
