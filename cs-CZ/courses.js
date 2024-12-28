@@ -67,5 +67,5 @@ export default {
   'course.assignment.description': 'Popis úkolu',
   'course.internal': 'Interní',
   'course.free': 'Zdarma',
-  'course.sale': 'Sale',
+  'course.sale': 'Placený',
 };
