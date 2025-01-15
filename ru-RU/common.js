@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Популярные',
     'common.newest': 'Новейшие',
     'common.oldest': 'Старейшие',
-    'common.noSelection': 'Ничего не выбрано'
+    'common.noSelection': 'Ничего не выбрано',
+    'common.content': 'Content'
 };
