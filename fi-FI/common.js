@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Suosittu',
     'common.newest': 'Uusin',
     'common.oldest': 'Vanhin',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };
