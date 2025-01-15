@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Réimséach',
     'common.newest': 'Is Déanaí',
     'common.oldest': 'Seana',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };
