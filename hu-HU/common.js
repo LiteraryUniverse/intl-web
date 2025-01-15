@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Népszerű',
     'common.newest': 'Legújabb',
     'common.oldest': 'Legrégebbi',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

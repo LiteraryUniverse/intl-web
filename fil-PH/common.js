@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Sikat',
     'common.newest': 'Pinakabago',
     'common.oldest': 'Pinakamatanda',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Popüler',
     'common.newest': 'En Yeniler',
     'common.oldest': 'En eski',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

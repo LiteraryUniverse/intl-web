@@ -270,5 +270,6 @@ export default {
     'common.popular': 'জনপ্রিয়',
     'common.newest': 'সম্প্রতি যুক্ত হয়েছে',
     'common.oldest': 'সম্প্রতি সবচেয়ে পুরানো',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Populer',
     'common.newest': 'Terbaru',
     'common.oldest': 'Terlama',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

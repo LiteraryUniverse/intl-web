@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Populær',
     'common.newest': 'Nyeste',
     'common.oldest': 'Eldste',
-    'common.noSelection': 'Ingen valg'
+    'common.noSelection': 'Ingen valg',
+    'common.content': 'Content'
 };

@@ -270,5 +270,6 @@ export default {
     'common.popular': '인기 있는',
     'common.newest': '최신',
     'common.oldest': '가장 오래된',
-    'common.noSelection': '선택 없음'
+    'common.noSelection': '선택 없음',
+    'common.content': 'Content'
 };

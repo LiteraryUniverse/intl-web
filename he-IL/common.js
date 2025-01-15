@@ -270,5 +270,6 @@ export default {
     'common.popular': 'פופולרי',
     'common.newest': 'החדש ביותר',
     'common.oldest': 'הכי ישן',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

@@ -270,5 +270,6 @@ export default {
     'common.popular': 'პოპულარული',
     'common.newest': 'ახალი',
     'common.oldest': 'უახლესი',
-    'common.noSelection': 'შეურჩევა არაა'
+    'common.noSelection': 'შეურჩევა არაა',
+    'common.content': 'Content'
 };

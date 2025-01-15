@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Phổ biến',
     'common.newest': 'Mới nhất',
     'common.oldest': 'Cũ nhất',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

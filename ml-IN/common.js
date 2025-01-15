@@ -270,5 +270,6 @@ export default {
     'common.popular': 'ജനപ്രിയമായ',
     'common.newest': 'പുതിയത്',
     'common.oldest': 'പഴയതായി',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

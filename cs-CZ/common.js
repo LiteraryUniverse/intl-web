@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Oblíbené',
     'common.newest': 'Nejnovější',
     'common.oldest': 'Nejstarší',
-    'common.noSelection': 'Nic nevybráno'
+    'common.noSelection': 'Nic nevybráno',
+    'common.content': 'Content'
 };

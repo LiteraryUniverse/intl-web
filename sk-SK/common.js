@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Populárne',
     'common.newest': 'Najnovšie',
     'common.oldest': 'Najstaršie',
-    'common.noSelection': 'Žiadny výber'
+    'common.noSelection': 'Žiadny výber',
+    'common.content': 'Content'
 };
