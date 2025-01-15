@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Populiarus',
     'common.newest': 'Naujausia',
     'common.oldest': 'Seniausias',
-    'common.noSelection': 'Nepasirinkta'
+    'common.noSelection': 'Nepasirinkta',
+    'common.content': 'Content'
 };
