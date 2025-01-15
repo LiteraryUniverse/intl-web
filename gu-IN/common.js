@@ -270,5 +270,6 @@ export default {
     'common.popular': 'લોકપ્રિય',
     'common.newest': 'તાજેતરનું',
     'common.oldest': 'સબસે જૂનો',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };
