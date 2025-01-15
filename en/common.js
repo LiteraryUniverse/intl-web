@@ -300,4 +300,6 @@ export default {
   'common.newest': 'Newest',
   'common.oldest': 'Oldest',
   'common.noSelection': 'No selection',
+
+  'common.content': 'Content',
 }
