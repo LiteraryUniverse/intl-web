@@ -270,5 +270,6 @@ export default {
     'common.popular': '熱門',
     'common.newest': '最新',
     'common.oldest': '最舊',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };
