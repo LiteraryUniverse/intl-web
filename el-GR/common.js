@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Δημοφιλής',
     'common.newest': 'Νεότερο',
     'common.oldest': 'Παλαιότερα',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };
