@@ -270,5 +270,6 @@ export default {
     'common.popular': 'populäre',
     'common.newest': 'cioxadni',
     'common.oldest': 'pa laldo',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };
