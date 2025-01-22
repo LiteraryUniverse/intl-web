@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Làm nổi bật đoạn văn bản hiện tại khi di chuột qua',
     'settings.accessibility.ruler': 'Gắn thước kẻ vào chuột',
     'settings.tab.legal': 'Tài liệu pháp lý',
-    'settings.tab.exportDelete': 'Xuất dữ liệu & xóa tài khoản'
+    'settings.tab.exportDelete': 'Xuất dữ liệu & xóa tài khoản',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
