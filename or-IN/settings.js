@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'ଆପଣ ହେମଣଙ୍କର ଉପରେ ହୋଇଥିବା ବର୍ତ୍ତମାନ ପ୍ରାର୍ଥନାରେ ଚିହ୍ନିତ କରନ୍ତୁ',
     'settings.accessibility.ruler': 'ମାଉସ୍ ର ସହ ଏକ ରୁଲେର ଲଗାନ୍ତୁ',
     'settings.tab.legal': 'ଆଇନି ସମ୍ପାଦନାମାନ୍ୟତା',
-    'settings.tab.exportDelete': 'ଡାଟା ରେ ନିର୍ଯାତନ ଏବଂ ଅକାଉଣ୍ଟ ମିଟାଇନ୍ତୁ'
+    'settings.tab.exportDelete': 'ଡାଟା ରେ ନିର୍ଯାତନ ଏବଂ ଅକାଉଣ୍ଟ ମିଟାଇନ୍ତୁ',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
