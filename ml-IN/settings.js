@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'നിങ്ങൾ അടുക്കൽ തിരക്കുന്ന നിലവിലെ പഠനം ഹൈലൈറ്റ് ചെയ്യുക',
     'settings.accessibility.ruler': 'മൗസിനു ഒരു റൂളർ അടയ്ക്കുക',
     'settings.tab.legal': 'വകുപ്പിന്റെ നിയമപ്രമാണങ്ങൾ',
-    'settings.tab.exportDelete': 'ഡാറ്റ എക്സ്പോർട്ടുചെയ്യുകയും അക്കൗണ്ട് ഇല്ലാതാക്കുകയും ചെയ്യുക'
+    'settings.tab.exportDelete': 'ഡാറ്റ എക്സ്പോർട്ടുചെയ്യുകയും അക്കൗണ്ട് ഇല്ലാതാക്കുകയും ചെയ്യുക',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
