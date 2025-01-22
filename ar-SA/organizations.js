@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'اللغة الأساسية',
     'org.meta.desc': 'المنظمات والمجموعات الإبداعية في عالم الأدب',
     'org.luOrgs': 'منظمات عالم الأدب',
-    'org.otherOrgs': 'النقابات والمنظمات',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'عن {orgName}',
     'org.membersTitle': 'أعضاء المنظمة',
     'org.membersNone': 'الأعضاء ليسوا عامة',
