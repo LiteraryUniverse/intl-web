@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'تمييز الفقرة الحالية التي تحوم فوقها',
     'settings.accessibility.ruler': 'تثبيت مسطرة على الماوس',
     'settings.tab.legal': 'الوثائق القانونية',
-    'settings.tab.exportDelete': 'تصدير البيانات وحذف الحساب'
+    'settings.tab.exportDelete': 'تصدير البيانات وحذف الحساب',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
