@@ -20,5 +20,6 @@ export default {
     'sharing.gettr': 'ហ្គេត្តូ',
     'sharing.minds': 'Minds.com',
     'sharing.instagram': 'អិនក្រែមា',
-    'sharing.reddit': 'រៀបចំនៅ Reddit'
+    'sharing.reddit': 'រៀបចំនៅ Reddit',
+    'sharing.bsky': 'BlueSky'
 };
