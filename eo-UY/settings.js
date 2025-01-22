@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Emfazi la aktuale muson superfluganta paragrafon',
     'settings.accessibility.ruler': 'Alligi linionalon al la muso',
     'settings.tab.legal': 'Jura dokumentoj',
-    'settings.tab.exportDelete': 'Eksporti datumojn kaj forigi konton'
+    'settings.tab.exportDelete': 'Eksporti datumojn kaj forigi konton',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
