@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'ཁྱེད་ཀྱིས་འདི་ལུ་གནས་སྟངས་བཀོད་པ་ལ་བཟོ་བཅུག་གི་བརྗོད་བསྡུ་བསྔལ་པའི་གནས་སྟངས་ཡོད།',
     'settings.accessibility.ruler': 'སྙན་ཞུ་གི་གནས་སྟངས་བཀོད་པ་བརྗོད་བསྡུ་བསྔལ་པའི་གནས་སྟངས་ཡོད།',
     'settings.tab.legal': 'མིག་རྒྱུན་གནས་སྟངས།',
-    'settings.tab.exportDelete': 'དགོངས་གསོག་གནས་སྟངས་དགོངས་སྐྱོང་འདི་བཏོན་འཛིན་ནང་བཀོད་པ་ཡོད་པའི་དོན་ལུ་བཟོ་བཅུག་གི་གནས་སྟངས་ཡོད།'
+    'settings.tab.exportDelete': 'དགོངས་གསོག་གནས་སྟངས་དགོངས་སྐྱོང་འདི་བཏོན་འཛིན་ནང་བཀོད་པ་ཡོད་པའི་དོན་ལུ་བཟོ་བཅུག་གི་གནས་སྟངས་ཡོད།',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
