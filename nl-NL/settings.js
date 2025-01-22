@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Markeer de huidige alinea waar je overheen beweegt',
     'settings.accessibility.ruler': 'Bevestig een liniaal aan de muis',
     'settings.tab.legal': 'Juridische documenten',
-    'settings.tab.exportDelete': 'Gegevens exporteren en account verwijderen'
+    'settings.tab.exportDelete': 'Gegevens exporteren en account verwijderen',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
