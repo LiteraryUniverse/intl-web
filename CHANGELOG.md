@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2025-01-22 - v2.15.2
+
+* Added `sharing.bsky`
+* Added `common.content`
+
 ## 2024-12-28 - v2.15.1
 
 * `findLanguageCodeByLocale` fallback if locale undefined added
