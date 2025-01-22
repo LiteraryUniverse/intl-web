@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Виділяти поточний абзац, на який ви навели курсор',
     'settings.accessibility.ruler': 'Прикріпити повзунок до миші',
     'settings.tab.legal': 'Юридичні документи',
-    'settings.tab.exportDelete': 'Експортувати дані та видалити обліковий запис'
+    'settings.tab.exportDelete': 'Експортувати дані та видалити обліковий запис',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
