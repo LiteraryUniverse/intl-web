@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Serlahkan perenggan semasa anda mengalihkan kursor',
     'settings.accessibility.ruler': 'Lampirkan pemerintang kepada tetikus',
     'settings.tab.legal': 'Dokumen undang-undang',
-    'settings.tab.exportDelete': 'Eksport data & padam akaun'
+    'settings.tab.exportDelete': 'Eksport data & padam akaun',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
