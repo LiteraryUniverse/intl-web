@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Idioma principal',
     'org.meta.desc': 'Organitzacions i grups creatius a Literary Universe.',
     'org.luOrgs': 'Organitzacions de Literary Universe',
-    'org.otherOrgs': 'Guildes i organitzacions',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Sobre {orgName}',
     'org.membersTitle': 'Membres de l\'organització',
     'org.membersNone': 'Els membres no són públics',
