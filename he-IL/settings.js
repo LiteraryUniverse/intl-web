@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'הדגש את הפסקה הנוכחית שאתה מרחף מעליה',
     'settings.accessibility.ruler': 'צרף סרגל לעכבר',
     'settings.tab.legal': 'מסמכים משפטיים',
-    'settings.tab.exportDelete': 'יצוא נתונים ומחיקת חשבון'
+    'settings.tab.exportDelete': 'יצוא נתונים ומחיקת חשבון',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
