@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Üzerine geldiğiniz geçerli paragrafı vurgula',
     'settings.accessibility.ruler': 'Fareye bir cetvel ekle',
     'settings.tab.legal': 'Hukuki belgeler',
-    'settings.tab.exportDelete': 'Verileri dışa aktar ve hesabı sil'
+    'settings.tab.exportDelete': 'Verileri dışa aktar ve hesabı sil',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
