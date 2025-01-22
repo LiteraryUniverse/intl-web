@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': '突顯您正懸停在的當前段落',
     'settings.accessibility.ruler': '將尺規附加到滑鼠上',
     'settings.tab.legal': '法律文件',
-    'settings.tab.exportDelete': '匯出資料和刪除帳戶'
+    'settings.tab.exportDelete': '匯出資料和刪除帳戶',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
