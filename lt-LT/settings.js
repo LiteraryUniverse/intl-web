@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Paryškinti dabartinę pastraipą, kuriuo būsite užvedę pelę',
     'settings.accessibility.ruler': 'Prisegti linijalą prie pelės',
     'settings.tab.legal': 'Teisiniai dokumentai',
-    'settings.tab.exportDelete': 'Eksportuoti duomenis ir ištrinti paskyrą'
+    'settings.tab.exportDelete': 'Eksportuoti duomenis ir ištrinti paskyrą',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
