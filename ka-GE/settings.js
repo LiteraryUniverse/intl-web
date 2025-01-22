@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'გამოახსენით მიმდინარე პარაგრაფი, რომლის თქვენ ხართ მიმაგრების ზემოთ',
     'settings.accessibility.ruler': 'მშობლის დამატება მაუსზე',
     'settings.tab.legal': 'იურიდიული დოკუმენტები',
-    'settings.tab.exportDelete': 'მონაცემთა ექსპორტი და ანგარიშის წაშლა'
+    'settings.tab.exportDelete': 'მონაცემთა ექსპორტი და ანგარიშის წაშლა',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
