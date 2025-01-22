@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Sorot paragraf saat Anda mengarahkan kursor ke atasnya',
     'settings.accessibility.ruler': 'Pasangkan penggaris dengan mouse',
     'settings.tab.legal': 'Dokumen hukum',
-    'settings.tab.exportDelete': 'Ekspor data & hapus akun'
+    'settings.tab.exportDelete': 'Ekspor data & hapus akun',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
