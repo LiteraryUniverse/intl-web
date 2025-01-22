@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Beklemtoon die huidige paragraaf waaroor jy beweeg',
     'settings.accessibility.ruler': 'Heg \'n liniaal aan die muis vas',
     'settings.tab.legal': 'Regsdokumente',
-    'settings.tab.exportDelete': 'Voer data uit & verwyder rekening'
+    'settings.tab.exportDelete': 'Voer data uit & verwyder rekening',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
