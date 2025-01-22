@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Mionsonraigh an paragraf reatha ar a bhfuil tú ag seiceáil',
     'settings.accessibility.ruler': 'Ceangail rúlaire leis an luch',
     'settings.tab.legal': 'Doiciméid dlí',
-    'settings.tab.exportDelete': 'Easpórtáil sonraí & scrios cuntas'
+    'settings.tab.exportDelete': 'Easpórtáil sonraí & scrios cuntas',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
