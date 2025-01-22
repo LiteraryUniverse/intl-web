@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Tõsta esile hetkel hiirega hõljuv lõik',
     'settings.accessibility.ruler': 'Kinnita joonlaud hiire külge',
     'settings.tab.legal': 'Õigusdokumendid',
-    'settings.tab.exportDelete': 'Ekspordi andmed ja kustuta konto'
+    'settings.tab.exportDelete': 'Ekspordi andmed ja kustuta konto',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

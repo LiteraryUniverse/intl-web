@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Επισήμανση της τρέχουσας παραγράφου πάνω στην οποία κάνετε κατάδειξη',
     'settings.accessibility.ruler': 'Επισύναψη χάρακα στο ποντίκι',
     'settings.tab.legal': 'Νομικά έγγραφα',
-    'settings.tab.exportDelete': 'Εξαγωγή δεδομένων & διαγραφή λογαριασμού'
+    'settings.tab.exportDelete': 'Εξαγωγή δεδομένων & διαγραφή λογαριασμού',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

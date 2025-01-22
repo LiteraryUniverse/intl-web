@@ -270,5 +270,6 @@ export default {
     'common.popular': 'Popular',
     'common.newest': 'Més recent',
     'common.oldest': 'Oldest',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

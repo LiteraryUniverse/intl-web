@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'તમે હોવર કરી રહ્યા છો તે વર્તમાન પેરાગ્રાફને હાઇલાઇટ કરો',
     'settings.accessibility.ruler': 'માઉસ પર એક રૂલર જોડો',
     'settings.tab.legal': 'કાયદાને દસ્તાવેજો',
-    'settings.tab.exportDelete': 'ડેટા ની નકલ અને એકાઉન્ટ કાઢી નાખો'
+    'settings.tab.exportDelete': 'ડેટા ની નકલ અને એકાઉન્ટ કાઢી નાખો',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

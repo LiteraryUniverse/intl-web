@@ -20,5 +20,6 @@ export default {
     'sharing.gettr': 'Gettr',
     'sharing.minds': 'Minds.com',
     'sharing.instagram': 'Instagram',
-    'sharing.reddit': 'റെഡ്ഡിറ്റ്'
+    'sharing.reddit': 'റെഡ്ഡിറ്റ്',
+    'sharing.bsky': 'BlueSky'
 };

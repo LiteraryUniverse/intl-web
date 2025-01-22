@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Выделить текущий абзац, на который вы навели курсор',
     'settings.accessibility.ruler': 'Прикрепить линейку к мыши',
     'settings.tab.legal': 'Правовая информация',
-    'settings.tab.exportDelete': 'Экспорт данных и удаление учётной записи'
+    'settings.tab.exportDelete': 'Экспорт данных и удаление учётной записи',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Evidenzia il paragrafo corrente su cui passi il mouse',
     'settings.accessibility.ruler': 'Aggiungi una riga al mouse',
     'settings.tab.legal': 'Documenti legali',
-    'settings.tab.exportDelete': 'Esporta dati ed elimina account'
+    'settings.tab.exportDelete': 'Esporta dati ed elimina account',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

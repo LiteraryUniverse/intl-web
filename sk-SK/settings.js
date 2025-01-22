@@ -112,5 +112,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Zvýraznite aktuálny odsek, na ktorý ste nabehli',
     'settings.accessibility.ruler': 'Pripojenie pravítka k myši',
     'settings.tab.legal': 'Právne dokumenty',
-    'settings.tab.exportDelete': 'Export údajov & vymazanie účtu'
+    'settings.tab.exportDelete': 'Export údajov & vymazanie účtu',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

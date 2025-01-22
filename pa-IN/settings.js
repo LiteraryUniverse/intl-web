@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'ਤੁਸੀਂ ਉੱਥੇ ਹੋਵਿੰਗ ਕਰ ਰਹੇ ਹੋਏ ਮੌਜੂਦਾ ਪੈਰਾਗ੍ਰਾਫ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ',
     'settings.accessibility.ruler': 'ਮਾਊਸ ਨੂੰ ਰੂਲਰ ਨਾਲ ਜੋੜੋ',
     'settings.tab.legal': 'ਕਾਨੂੰਨੀ ਦਸਤਾਵੇਜ਼ਾਂ',
-    'settings.tab.exportDelete': 'ਡਾਟਾ ਨੂੰ ਨਿਰਯਾਤ ਕਰੋ ਅਤੇ ਖਾਤਾ ਹਟਾਓ'
+    'settings.tab.exportDelete': 'ਡਾਟਾ ਨੂੰ ਨਿਰਯਾਤ ਕਰੋ ਅਤੇ ਖਾਤਾ ਹਟਾਓ',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

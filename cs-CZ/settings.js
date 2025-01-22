@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Zvýraznit aktuální odstavec, nad kterým se nachází myš',
     'settings.accessibility.ruler': 'Přiložit k myši pravítko',
     'settings.tab.legal': 'Právní dokumenty',
-    'settings.tab.exportDelete': 'Exportovat data & smazat účet'
+    'settings.tab.exportDelete': 'Exportovat data & smazat účet',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

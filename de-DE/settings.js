@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Hervorheben Sie den aktuellen Absatz, über den Sie schweben',
     'settings.accessibility.ruler': 'Lineal an die Maus anhängen',
     'settings.tab.legal': 'Juristische Dokumente',
-    'settings.tab.exportDelete': 'Daten exportieren & Konto löschen'
+    'settings.tab.exportDelete': 'Daten exportieren & Konto löschen',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

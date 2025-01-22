@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Evidențiază paragraful curent peste care plutești',
     'settings.accessibility.ruler': 'Atașează o riglă la mouse',
     'settings.tab.legal': 'Documente legale',
-    'settings.tab.exportDelete': 'Exportă datele și șterge contul'
+    'settings.tab.exportDelete': 'Exportă datele și șterge contul',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

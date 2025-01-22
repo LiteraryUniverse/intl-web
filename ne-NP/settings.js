@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'तपाईंले होभर गरिरहेको हालको अनुच्छेदलाई हाइलाइट गर्नुहोस्',
     'settings.accessibility.ruler': 'माउसमा एक रुलर संलग्न गर्नुहोस्',
     'settings.tab.legal': 'कानूनी कागजातहरू',
-    'settings.tab.exportDelete': 'डाटा निर्यात गर्नुहोस् र खाता हटाउनुहोस्'
+    'settings.tab.exportDelete': 'डाटा निर्यात गर्नुहोस् र खाता हटाउनुहोस्',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

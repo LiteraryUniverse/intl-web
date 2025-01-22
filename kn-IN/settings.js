@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'ನೀವು ಹೊರಗೆಡುವ ಪದರದ ಮೇಲೆ ಹಾರಿಹೋಗುವಾಗ ಪ್ರಸ್ತುತ ಪದರವನ್ನು ಗುರುತಿಸು',
     'settings.accessibility.ruler': 'ಮೌಸಿಗೆ ಒಂದು ಮೀಟರು ಜೋಡಿಸು',
     'settings.tab.legal': 'ಕಾನೂನಿಗೆ ಸಂಬಂಧಿಸಿದ ಆವಣಗಳು',
-    'settings.tab.exportDelete': 'ಡೇಟಾವನ್ನು ನಿರ್ಯಾತನೆ ಮಾಡಿ ಖಾತೆಯನ್ನು ಅಳಿಸು'
+    'settings.tab.exportDelete': 'ಡೇಟಾವನ್ನು ನಿರ್ಯಾತನೆ ಮಾಡಿ ಖಾತೆಯನ್ನು ಅಳಿಸು',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

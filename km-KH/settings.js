@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'ដាក់ពណ៌ផ្ទៃខាងក្នុងបន្ទាត់ដែលអ្នកកំពុងបង្ហាញលើ',
     'settings.accessibility.ruler': 'ភ្ជាប់ស្លាកទៅក្បាលម៉ោងរបស់ពុកម៉ែល',
     'settings.tab.legal': 'ឯកសារភាពជ្រើសរើស',
-    'settings.tab.exportDelete': 'ទាញយកទិន្នន័យនិងលុបការប្រើប្រាស់គណនី'
+    'settings.tab.exportDelete': 'ទាញយកទិន្នន័យនិងលុបការប្រើប្រាស់គណនី',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Istakni trenutni odlomak preko kojeg prelaziš mišem',
     'settings.accessibility.ruler': 'Pripoji ravnalo mišu',
     'settings.tab.legal': 'Pravni dokumenti',
-    'settings.tab.exportDelete': 'Izvezi podatke i izbriši račun'
+    'settings.tab.exportDelete': 'Izvezi podatke i izbriši račun',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

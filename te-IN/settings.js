@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'మీ ముందుకు ఉన్న పఠనంపై హైలైట్ చేయండి',
     'settings.accessibility.ruler': 'మౌస్‌కు ఒక రూలర్ జోడించు',
     'settings.tab.legal': 'కానూను పత్రాలు',
-    'settings.tab.exportDelete': 'డేటాను ఎగుమతి చేయి & ఖాతాను తొలగించు'
+    'settings.tab.exportDelete': 'డేటాను ఎగుమతి చేయి & ఖాతాను తొలగించు',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

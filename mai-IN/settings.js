@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'आप माउस पर हो रहे हैं पर वर्तमान पैराग्राफ को हाइलाइट करें',
     'settings.accessibility.ruler': 'माउस पर एक सरगुज़ी लगाएँ',
     'settings.tab.legal': 'कानूनी दस्तावेज़',
-    'settings.tab.exportDelete': 'डेटा निर्यात और खाता हटाएँ'
+    'settings.tab.exportDelete': 'डेटा निर्यात और खाता हटाएँ',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

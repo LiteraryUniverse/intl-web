@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'เน้นย่อหน้าปัจจุบันที่คุณกำลังเลื่อนเมาส์ไปที่',
     'settings.accessibility.ruler': 'แนบไม้บรรทัดกับเมาส์',
     'settings.tab.legal': 'เอกสารทางกฎหมาย',
-    'settings.tab.exportDelete': 'ส่งออกข้อมูลและลบบัญชี'
+    'settings.tab.exportDelete': 'ส่งออกข้อมูลและลบบัญชี',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

@@ -270,5 +270,6 @@ export default {
     'common.popular': 'བརྡ་རྩེ་སྒྲིག་བཀོད།',
     'common.newest': 'རིགས་རྟགས།',
     'common.oldest': 'བརྡ་ཆད་ཀྱི་ཉེ།',
-    'common.noSelection': 'No selection'
+    'common.noSelection': 'No selection',
+    'common.content': 'Content'
 };

@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Destaque o parágrafo atual que que está a sobrevoar',
     'settings.accessibility.ruler': 'Anexe uma régua ao rato',
     'settings.tab.legal': 'Documentos legais',
-    'settings.tab.exportDelete': 'Exportar dados e excluir conta'
+    'settings.tab.exportDelete': 'Exportar dados e excluir conta',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

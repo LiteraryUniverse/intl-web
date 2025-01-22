@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Marker det gjeldende avsnittet du holder over',
     'settings.accessibility.ruler': 'Fest en linjal til musen',
     'settings.tab.legal': 'Juridiske dokumenter',
-    'settings.tab.exportDelete': 'Eksporter data og slett konto'
+    'settings.tab.exportDelete': 'Eksporter data og slett konto',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };

@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'நீங்கள் மேலும் விரும்பும் தொகுப்பில் நிலையான பதிவை முக்கியப்படுத்து',
     'settings.accessibility.ruler': 'மூஸ் கீழ் ஒளி ஒளிப்பதற்கு ஒரு அளவிடத்தை இணைக்க',
     'settings.tab.legal': 'சட்டப்படிகள்',
-    'settings.tab.exportDelete': 'தரவை ஏற்றுக்கொள்ளும் மற்றும் கணக்கை நீக்கு'
+    'settings.tab.exportDelete': 'தரவை ஏற்றுக்கொள்ளும் மற்றும் கணக்கை நீக்கு',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
