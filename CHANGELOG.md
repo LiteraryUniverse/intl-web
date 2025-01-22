@@ -6,6 +6,7 @@
 * Added `common.content`
 * Added reading language keys
 * Small settings re-adjustment to better support client-side
+* Move away from guilds terminology
 
 ## 2024-12-28 - v2.15.1
 
