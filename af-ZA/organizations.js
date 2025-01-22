@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Primêre taal',
     'org.meta.desc': 'Organisasies en skeppende groepe op Literêre Universum.',
     'org.luOrgs': 'Literêre Universum Organisasies',
-    'org.otherOrgs': 'Gildes & Organisasies',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Oor {orgName}',
     'org.membersTitle': 'Organisasie-lede',
     'org.membersNone': 'Lede is nie openbaar nie',
