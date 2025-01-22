@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'আপুনি যি পাৰাগ্ৰাফত আছে তাক উচ্চলিত কৰি দিন',
     'settings.accessibility.ruler': 'আপুনি মাউচত এটা ৰুলাৰ সংযোজন কৰক',
     'settings.tab.legal': 'আইনি নথি',
-    'settings.tab.exportDelete': 'ডাটা সংগ্ৰহ কৰক আৰু একাউণ্ট মুছক'
+    'settings.tab.exportDelete': 'ডাটা সংগ্ৰহ কৰক আৰু একাউণ্ট মুছক',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
