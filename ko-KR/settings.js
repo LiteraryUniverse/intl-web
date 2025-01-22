@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': '현재 마우스를 올려놓은 문단 강조 표시',
     'settings.accessibility.ruler': '마우스에 자를 부착',
     'settings.tab.legal': '법적 문서',
-    'settings.tab.exportDelete': '데이터 내보내기 및 계정 삭제'
+    'settings.tab.exportDelete': '데이터 내보내기 및 계정 삭제',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
