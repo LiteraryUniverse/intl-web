@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'আপনি যে প্যারাগ্রাফের উপর মাউস হোভ করছেন তা হাইলাইট করুন',
     'settings.accessibility.ruler': 'মাউসের সাথে একটি সর্তকতা যোগ করুন',
     'settings.tab.legal': 'আইনগত নথি',
-    'settings.tab.exportDelete': 'ডেটা রপ্তানি করুন এবং অ্যাকাউন্ট মুছে ফেলুন'
+    'settings.tab.exportDelete': 'ডেটা রপ্তানি করুন এবং অ্যাকাউন্ট মুছে ফেলুন',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
