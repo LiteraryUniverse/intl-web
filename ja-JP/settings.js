@@ -112,5 +112,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': '現在カーソルを置いている段落をハイライト表示します',
     'settings.accessibility.ruler': 'マウスに定規を付ける',
     'settings.tab.legal': '法的文書',
-    'settings.tab.exportDelete': 'データのエキスポートとアカウントの削除'
+    'settings.tab.exportDelete': 'データのエキスポートとアカウントの削除',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
