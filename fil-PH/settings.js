@@ -114,5 +114,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'I-highlight ang kasalukuyang talata na iyong kinukutusan',
     'settings.accessibility.ruler': 'Ikabit ang ruler sa mouse',
     'settings.tab.legal': 'Mga legal na dokumento',
-    'settings.tab.exportDelete': 'I-export ang data at burahin ang account'
+    'settings.tab.exportDelete': 'I-export ang data at burahin ang account',
+    'settings.languages.uiLanguage': 'Interface language',
+    'settings.languages.readingLanguage': 'Reading language',
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
 };
