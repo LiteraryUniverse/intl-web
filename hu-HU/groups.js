@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Rejtett - Csak a meghívott emberek csatlakozhatnak.',
     'groups.imageAlt': '{groupName} kép',
     'groups.members': 'Tagok',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Ebben a csoportban {totalMembers, plural,
+    zero {nincsenek tagok}
+    one {egy tag}
+    other {# tag}
+  } van.`,
     'groups.leaveGroup': 'Kilépés a csoportból',
     'groups.leaveGroup.confirm': 'Csak hogy biztos legyél. Biztosan ki szeretnél lépni a(z) {groupName}csoportból?',
     'group.settings': 'Csoport beállítások',
