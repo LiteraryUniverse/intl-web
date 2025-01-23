@@ -48,9 +48,9 @@ export default {
     'feedback.report.copyrightInternalProperty': 'Έχω δημοσιεύσει αυτό το έργο στο Literary Universe',
     'feedback.reportType.spam': 'Ανεπιθύμητη αλληλογραφία ή απάτη',
     'feedback.reportType.other': 'Άλλα',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `Ποιο {type, select,
+    universe {σύμπαν}
+    story {ιστορία}
+    other {ιστορία}
+  } παραβιάζεται;`
 };
