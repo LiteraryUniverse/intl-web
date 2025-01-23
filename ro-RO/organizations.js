@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Limbă principală',
     'org.meta.desc': 'Organizații și grupuri creative pe Literary Universe.',
     'org.luOrgs': 'Organizații Literary Universe',
-    'org.otherOrgs': 'Bresle și organizații',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Despre {orgName}',
     'org.membersTitle': 'Membrii organizației',
     'org.membersNone': 'Membrii nu sunt publici',
