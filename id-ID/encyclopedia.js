@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Gambar sampul',
     'encyclopedia.translation.title': 'Selamat datang di terjemahan alam semesta {universe}!',
     'encyclopedia.translation.desc': 'Antarmuka ensiklopedia ini digunakan untuk menerjemahkan ke dalam {language}. Pilih entri yang ada dalam daftar di sebelah kiri untuk memulai terjemahannya.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Tidak ada entri {totalEntries, plural, 
+    zero {di alam semesta ini}
+    one {adalah satu entri}
+    other {adalah # entri}
+  } .`,
     'encyclopedia.settings.title': 'Pengaturan Ensiklopedia',
     'encyclopedia.settings.categoriesDesc': 'Aktifkan dan nonaktifkan kategori yang ingin Anda gunakan dalam ensiklopedia Anda.',
     'encyclopedia.settings.introText': 'Pesan selamat datang yang akan ditampilkan setelah deskripsi alam semesta.',
