@@ -9,7 +9,7 @@ export default {
     'org.settings.language': '기본 언어',
     'org.meta.desc': 'Literary Universe의 조직과 창작 그룹들.',
     'org.luOrgs': 'Literary Universe 조직',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': '조직',
     'org.aboutTitle': 'About {orgName}',
     'org.membersTitle': '조직 구성원',
     'org.membersNone': '구성원은 공개되지 않습니다',
