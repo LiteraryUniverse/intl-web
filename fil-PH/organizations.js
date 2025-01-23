@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Pangunahing wika',
     'org.meta.desc': 'Mga Organisasyon at mga grupo sa Literary Universe.',
     'org.luOrgs': 'Mga Organisasyon sa Literary Universe',
-    'org.otherOrgs': 'Guilds & Organizations',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Tungkol sa {orgName}',
     'org.membersTitle': 'Mga miyembro ng organisasyon',
     'org.membersNone': 'Ang mga miyembro ay hindi pampubliko',
