@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Põhikeel',
     'org.meta.desc': 'Organisatsioonid ja loovgrupid Literary Universes.',
     'org.luOrgs': 'Literary Universes Organisatsioonid',
-    'org.otherOrgs': 'Gildid ja organisatsioonid',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Teave {orgName}',
     'org.membersTitle': 'Organisatsiooni liikmed',
     'org.membersNone': 'Liikmed ei ole avalikud',
