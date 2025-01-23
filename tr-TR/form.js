@@ -2,23 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Zorunlu alan',
     'form.validator.mustBeNumber': 'Sayı olmalı',
-    'form.validator.minNumber': 'Should be greater than {min, number}',
-    'form.validator.maxNumber': 'Should be lower than {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.minNumber': '\'den büyük olmalıdır {min, number}',
+    'form.validator.maxNumber': '{max, number}adresinden daha düşük olmalıdır.',
+    'form.validator.maxLength': `{max, number} {what, select,
+    characters {karakterlerden}
+    tags {etiketlerden}
+    genres {türlerden}
+    numbers {sayılardan}
     other {}
-  }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+  }daha az olmalıdır.`,
+    'form.validator.minLength': `En az {min, number} {what, select,
+    characters {karakterler}
+    tags {etiketler}
+    genres {türler}
+    genre {tür}
+    numbers {sayılar}
     other {}
-  }`,
+  }olmalıdır.`,
     'form.validator.email': 'Geçerli bir e-posta olmalı',
     'form.validator.url': 'Geçerli bir URL olmalı',
     'form.validator.slug': 'URL\'nin geçerli bir parçası olmalı',
