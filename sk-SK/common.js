@@ -117,7 +117,7 @@ export default {
     copyrights: 'Autorské práva',
     'common.challenges': 'Výzvy',
     // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+    'beta.notice': 'Vitajte v Literary Universe BETA! Toto je skorý náhľad našej platformy a stále aktívne pracujeme na jej vylepšeniach. V dôsledku toho sa môžete stretnúť s niektorými chybami alebo neúplnými funkciami. Ak sa vám niečo nezdá, budeme veľmi vďační za vašu spätnú väzbu a pochopenie, pretože pokračujeme v zdokonaľovaní tohto prostredia.',
     'beta.thanks': 'Ďakujeme Vám za podporu!',
     'scratchpad.about': 'Vaše poznámky a nápady sú prístupné kdekoľvek na stránke.',
     'common.feedback': 'Spätná väzba',
@@ -271,5 +271,5 @@ export default {
     'common.newest': 'Najnovšie',
     'common.oldest': 'Najstaršie',
     'common.noSelection': 'Žiadny výber',
-    'common.content': 'Content'
+    'common.content': 'Obsah'
 };
