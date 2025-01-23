@@ -15,11 +15,11 @@ export default {
     'blog.description': 'Blogginledning',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Genom att justera temat kan du ändra utseendet på sidan. Den här funktionen är inte redo just nu.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Det {total, plural,
+    zero {finns inga inlägg}
+    one {finns ett inlägg}
+    other {finns # inlägg}
+  } i den här bloggen.`,
     'blog.post.create': 'Skapa ett nytt inlägg',
     'blog.post.update': 'Redigerar {title}',
     'blog.post.text': 'Inläggstext',
