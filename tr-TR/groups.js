@@ -1,6 +1,6 @@
 export default {
     'groups.listing.title': 'Kullanıcı grupları',
-    'groups.listing.organizationTitle': 'Teams',
+    'groups.listing.organizationTitle': 'Takımlar',
     'groups.create.title': 'Yeni bir grup oluştur',
     'groups.type.label': 'Tür',
     'groups.type.open': 'Açık',
