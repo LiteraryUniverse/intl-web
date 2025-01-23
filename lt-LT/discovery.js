@@ -23,7 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Ieškoti visatos',
     'discover.searchUniverse.description': 'Ieškoti visatų',
     'discover.search.storyStatus': 'Istorijos pažangos būsena',
-    'discover.search.genres': 'Genres',
+    'discover.search.genres': 'Žanrai',
     'story.status.complete': 'Užbaigta',
     'story.status.inProgress': 'Vykstantis',
     'discover.search.universeConnection': 'Istorijos ryšys su visata',
@@ -60,5 +60,5 @@ export default {
     'discovery.chaptersTotal': 'Istorijos skyrių skaičius',
     'discovery.readFromStart': 'Skaityti nuo pirmo skyriaus',
     'discovery.readLatest': 'Skaityti naujausią skyrių',
-    'discovery.author': 'Author'
+    'discovery.author': 'Autorius'
 };
