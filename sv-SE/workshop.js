@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'Skapa en nu!',
     'workshop.fictionalTime.createTitle': 'Skapa en ny fiktiv tid',
     'workshop.fictionalTime.editTitle': 'Redigera {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Här kan du skapa din egen fiktiva tid. För närvarande är detta verktyg begränsat och kan bara skapa
+        symmetriska tider. Det betyder att du inte kommer att kunna återskapa Mayakalendern eller den Gregorianska. För närvarande
+        förväntar sig det här verktyget att alla tider alltid är desamma, t.ex. månader har alltid 30 dagar utan undantag och så
+        vidare. Vi kommer att ta itu med detta i senare versioner, men fram till dess är det här verktyget mer lämpat för att skapa främst
+        sci-fi-baserade tider.`,
     'workshop.fictionalTime.timeName': 'Tidens namn',
     'workshop.fictionalTime.basicInfo': 'Grundläggande information',
     'workshop.fictionalTime.timeSetup': 'Tidsinställning',
@@ -287,5 +287,5 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Vi stödjer Youtube, Vimeo och Odysee',
     'workshop.videoTrailer.rumble': 'Vi stödjer också Rumble, men kom ihåg att kopiera IFRAME-URL:en.',
     'workshop.videoTrailer.suggestPlatforms': 'Saknas din videoplattform? Meddela oss via vår <a>feedback</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Ändra täckning'
 };
