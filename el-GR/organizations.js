@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Κύρια γλώσσα',
     'org.meta.desc': 'Οργανισμοί και δημιουργικές ομάδες στο Literary Universe.',
     'org.luOrgs': 'Οργανισμοί του Literary Universe',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': 'Οργανισμοί',
     'org.aboutTitle': 'Σχετικά με το {orgName}',
     'org.membersTitle': 'Μέλη του οργανισμού',
     'org.membersNone': 'Τα μέλη δεν είναι δημόσια',
@@ -27,10 +27,10 @@ export default {
     'org.forums.title': '{orgName} φόρουμ',
     'org.flashnews.internal': 'Εσωτερικά flash ειδήσεων',
     'org.flashnews.publicAll': 'Δημόσια flash ειδήσεις για όλες τις ιδιότητες',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Δημιουργήστε ένα νέο news flash για {type, select,
+    internal {τον οργανισμό}
+    allProperties {εμφάνιση στο κοινό σε όλες τις ιδιότητες}
+    other {τον οργανισμό}
   }`,
     'org.members.invited': 'Προσκεκλημένα μέλη',
     'org.members.list': 'Μέλη του οργανισμού',
@@ -52,8 +52,8 @@ export default {
     'org.teams.total': 'Συνολικές ομάδες: {totalTeams, number}',
     'org.teams.create': 'Δημιουργία νέας ομάδας',
     'org.teams.settings': 'Ρυθμίσεις ομάδας',
-    'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.ownerUser': 'Δεν είναι έργο συντεχνίας',
+    'org.workshop.caption': 'Ιδιοκτησία συντεχνίας',
     'org.workshop.title': 'Εργαστήριο Οργάνωσης',
     'org.title': 'Οργάνωση'
 };
