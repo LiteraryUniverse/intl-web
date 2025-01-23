@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} 팬 설정',
     'universe.fanfiction.stories': '이야기',
     'universe.fanfiction.fanarts': '팬 아트',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `이 우주에는 {num, plural,
+    =0 {스토리는 없습니다}
+    one {하나의 스토리}
+    other {#스토리는 있습니다}
+    } .`,
     'universe.authors.title': '작가',
     'universe.authors.desc': '{universe}에 대한 창조자 및 기여자',
     'universe.contributors': '기여자',
