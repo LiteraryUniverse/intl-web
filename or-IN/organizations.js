@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ପ୍ରାଥମିକ ଭାଷା',
     'org.meta.desc': 'ଲିଟେରରୀ ଇୟୁନିଭର୍ସ୍ ସଂଗଠନସମୂହ ଏବଂ ସୃଜନାତ୍ମକ ଗୋଷ୍ଠୀମାନଙ୍କରେ',
     'org.luOrgs': 'ଲିଟେରରୀ ଇୟୁନିଭର୍ସ୍ ସଂଗଠନସମୂହ',
-    'org.otherOrgs': 'ଗୁଲ୍ଡମାନଙ୍କ ଏବଂ ସଂଗଠନସମୂହ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'ବିଷୟରେ {orgName}',
     'org.membersTitle': 'ସଂଗଠନ ସଦସ୍ୟଙ୍କ',
     'org.membersNone': 'ସଦସ୍ୟଙ୍କ ପ୍ରକାଶନ ନେଇ',
