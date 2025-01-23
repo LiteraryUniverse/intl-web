@@ -83,9 +83,9 @@ export default {
     'payment.card.name': 'Namn på kortet',
     'plans.subscribed.thankYou': 'Tack för att du stödjer Literary Universe',
     'plans.subscribed.periodEnd': 'Ditt abonnemang är giltigt tills: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `I slutet kommer din prenumeration att {method, select,
+    charge_automatically {förnyas automatiskt}
+    send_invoice {förnyas efter betalning av en faktura}
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Ditt standardbetalningssätt kommer att användas för att betala för nästa period.',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Återställ prenumeration',
     'plans.cancel.restoreFailed': 'Tyvärr kunde vi inte återställa prenumerationen just nu. Försök igen senare.',
     'plans.change.button': 'Ändra prenumeration',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': 'Välj den plan som du vill uppgradera eller nedgradera till. Du kommer att faktureras eller proportionellt betala prisskillnaden omedelbart.',
     'plans.change.failed': 'Tyvärr kunde vi inte ändra din plan just nu. Försök igen senare.',
     'plans.change.upgrade': 'Uppgradera',
     'payments.disclaimer': 'Betalningsinformation och bearbetning görs via Stripe. Vi sparar inte någon kreditkorts- eller bankkontoinformation på våra servrar.',
@@ -222,10 +222,10 @@ export default {
     'payment.fanClub.createTier': 'Lägg till nivå',
     'payment.fanClub.description': 'Nivåbeskrivning',
     'payment.fanClub.picture': 'Nivåbild',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': 'Prenumeranten kommer att betala: {amount}. Plattformsavgiften är {fee} ({platformPercentage}), du kommer att få (uppskattat): {net}',
+    'payment.fanClub.platformFeeExplained': 'Vi arbetar för att vår plattformsavgift ska täcka avgifter från betalningsleverantörer som kreditkortsavgifter och andra, men ibland kan det bli överflöd. Om det händer, vänligen meddela oss så att vi kan undersöka och minska effekterna i framtiden. Som sådan bör du inte se någon av dessa avgifter påverka din totalsumma, men om du gör det, vänligen meddela oss. En annan stor påverkan på ditt nettovärde är skatter. I länder som USA där det är vanligt att skatter inte ingår i priset kommer du inte att påverkas, men i länder där det är vanligt att skatter ingår i priset (som EU) måste du ta hänsyn till ditt lands moms när du fastställer abonnemangspriset.',
     'payment.fanClub.learnStripeFees': 'Läs mer om Stripe-avgifter.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': 'Observera att detta är en uppskattning och att den faktiska Stripe-avgiften kan variera beroende på kundens betalningstyp och ytterligare avgifter från betalningsgatewayen och tillämpliga skatter.',
     'payment.fanClub.perks': 'Förmåner',
     'stripeConnect.settings.notifications': 'Meddelanden från Stripe',
     'plans.pricePerMonth': 'Belopp per månad',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': 'Abonnenter',
     'plans.fanClub.activatedLabel': 'Fan Club aktiverad',
     'plans.fanClub.inactiveWarning': 'Din fanclub är ännu inte aktiverad, du kan fortfarande förbereda planer och när du är redo kan du aktivera den i inställningarna.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.editTier': 'Redigera nivå',
+    'plans.deletePlan.modalAria': 'Radera bekräftelse av plan',
     'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
     'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.paymentDescriptorMinimal': '{username} fanklubb',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - författarens fanclub',
+    'payment.fanClub.perMonth': '{amount} / per månad',
+    'plans.fanClub.notCreated': 'Oops! Något gick fel och din fanclub blev inte skapad när den borde ha blivit det, men oroa dig inte, vi har en backup-plan redo! Klicka bara på knappen nedan så kommer du att vara klar!',
+    'plans.fanClub.create': 'Skapa fanclub'
 };
