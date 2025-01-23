@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Ascuns - Doar persoanele pe care le inviți pot să se alăture.',
     'groups.imageAlt': '{groupName} poză',
     'groups.members': 'Membri',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Există {totalMembers, plural,
+    zero {nu sunt membri}
+    one {este un membru}
+    other {sunt # membri}
+  } în acest grup`,
     'groups.leaveGroup': 'Părăsește grupul',
     'groups.leaveGroup.confirm': 'Doar pentru a te asigura. Ești sigur că vrei să părăsești {groupName}?',
     'group.settings': 'Setări grup',
