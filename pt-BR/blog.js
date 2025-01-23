@@ -8,18 +8,18 @@ export default {
     'blog.create': 'Criar um novo blog',
     'blog.settings': `{type, select,
     org {Blog}
-    universe {Universe page}
+    universe {Página do universo}
     user {Blog}
     other {}
-  } settings`,
+  } configurações`,
     'blog.description': 'Introdução ao Blog',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Ajustando o tema você será capaz de mudar o visual da página. Este recurso não está pronto neste momento.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Não há {total, plural,
+    zero {nenhuma postagem}
+    one {há uma postagem}
+    other {há # postagens}
+  } neste blog.`,
     'blog.post.create': 'Criar um novo posto',
     'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Texto do post',
@@ -33,9 +33,9 @@ export default {
     fanfiction {Obra de Fan Fiction}
     other {}
   }`,
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Os links sociais são os mesmos definidos em {type, select,
+    organization {configurações da organização}
+    user {perfil do usuário}
     other {}
   }`,
     'blog.social.website': 'Website oficial',
