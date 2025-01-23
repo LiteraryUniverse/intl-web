@@ -10,10 +10,10 @@ export default {
     'pm.to': '받는 사람:',
     'pm.with': '대화 상대:',
     'pm.send': '보내기',
-    'pm.conversations.unreadCount': `You have {count, plural,
-    zero {no unread conversations}
-    one {one unread conversation}
-    other {# unread conversations}
+    'pm.conversations.unreadCount': `{count, plural,
+    zero {읽지 않은 대화 없음}
+    one {읽지 않은 대화 하나}
+    other {# 읽지 않은 대화}
   }.`,
     'pm.form.minimumParticipants': '수신자를 선택해야 합니다.',
     'pm.form.maxParticipants': `대화에서는 최대 {maxPeople, plural,
