@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Kiinnitä viivoitin hiiren kursoriin',
     'settings.tab.legal': 'Oikeudelliset asiakirjat',
     'settings.tab.exportDelete': 'Vie tiedot ja poista tili',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Käyttöliittymän kieli',
+    'settings.languages.readingLanguage': 'Kielen lukeminen',
+    'settings.languages.readingLanguageExplained': 'Kun etsit tarinoita, tarjoamme sinulle tarinoita ja niiden käännöksiä tällä kielellä, ellet määritä toisin.'
 };
