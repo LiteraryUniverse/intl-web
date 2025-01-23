@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} fänniseaded',
     'universe.fanfiction.stories': 'Lood',
     'universe.fanfiction.fanarts': 'Fännikunstid',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Selles universumis {num, plural,
+    =0 {ei ole ühtegi lugu}
+    one {on üks lugu}
+    other {on # lugu}
+    } .`,
     'universe.authors.title': 'Autorid',
     'universe.authors.desc': '{universe}loojad ja kaasautorid',
     'universe.contributors': 'Kaasautorid',
