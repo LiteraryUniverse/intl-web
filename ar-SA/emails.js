@@ -28,12 +28,12 @@ export default {
     'email.verifyEmail.button': 'التحقق من عنوان البريد الإلكتروني هذا',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'تمت ترقية حسابك',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `لقد قمنا بترقية حسابك إلى {plan, select,
+    explorer {مستكشف}
+    adventurer {مغامر ~ ~ مغامر}
+    storyteller {راوي قصص}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } فئة {days} أيام القادمة.\n\nاستمتع،\nفريق الكون الأدبي`,
     'email.adminUpgrade.messageHtml': `لقد قمنا بترقية حسابك إلى {plan, select,
     explorer {مستكشف}
     adventurer {مغامر}
