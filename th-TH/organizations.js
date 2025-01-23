@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ภาษาหลัก',
     'org.meta.desc': 'องค์กรและกลุ่มครีเอทีฟในจักรวาลวรรณกรรม',
     'org.luOrgs': 'องค์กรในจักรวาลวรรณกรรม',
-    'org.otherOrgs': 'สหภาพและองค์กร',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'เกี่ยวกับ {orgName}',
     'org.membersTitle': 'สมาชิกขององค์กร',
     'org.membersNone': 'สมาชิกไม่สาธารณะ',
