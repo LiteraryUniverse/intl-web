@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Ngôn ngữ chính',
     'org.meta.desc': 'Các tổ chức và nhóm sáng tạo trên Literary Universe.',
     'org.luOrgs': 'Tổ chức Literary Universe',
-    'org.otherOrgs': 'Guilds & Organizations',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Về {orgName}',
     'org.membersTitle': 'Thành viên của tổ chức',
     'org.membersNone': 'Thành viên không công khai',
