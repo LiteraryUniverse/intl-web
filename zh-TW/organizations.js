@@ -9,7 +9,7 @@ export default {
     'org.settings.language': '主要語言',
     'org.meta.desc': '在Literary Universe上的組織和創意團體。',
     'org.luOrgs': 'Literary Universe 組織',
-    'org.otherOrgs': '公會與組織',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': '關於 {orgName}',
     'org.membersTitle': '組織成員',
     'org.membersNone': '成員不公開',
