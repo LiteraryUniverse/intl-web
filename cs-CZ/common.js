@@ -271,5 +271,5 @@ export default {
     'common.newest': 'Nejnovější',
     'common.oldest': 'Nejstarší',
     'common.noSelection': 'Nic nevybráno',
-    'common.content': 'Content'
+    'common.content': 'Obsah'
 };
