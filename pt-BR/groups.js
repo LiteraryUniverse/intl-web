@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Oculto - Apenas as pessoas que você convidar podem ingressar.',
     'groups.imageAlt': '{groupName} imagem',
     'groups.members': 'Membros',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Não há {totalMembers, plural,
+    zero {nenhum membro}
+    one {há um membro}
+    other {há # membros}
+  } neste grupo`,
     'groups.leaveGroup': 'Sair do grupo',
     'groups.leaveGroup.confirm': 'Apenas para ter certeza. Você tem certeza de que deseja sair de {groupName}?',
     'group.settings': 'Configurações do grupo',
