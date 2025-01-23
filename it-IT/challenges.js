@@ -39,16 +39,16 @@ export default {
     'nanowrimo.key.get': 'Ottieni la tua chiave NaNoWriMo.',
     'nanowrimo.key.get.notice': 'Devi effettuare l\'accesso per vederlo.',
     'nanowrimo.ongoing': 'è in pieno svolgimento! Mancano ancora {countdown} giorni!',
-    'nanowrimo.startsin': `will start in {countdown, plural,
-      one {1 day}
-      other {# days}
-    }! Get ready!`,
+    'nanowrimo.startsin': `inizierà tra {countdown, plural,
+      one {1 giorno}
+      other {# giorni}
+    }! Si prepari!`,
     'nanowrimo.isover': 'NaNoWriMo è finito. Ci vediamo l\'anno prossimo!',
     'nanowrimo.select': 'Designa questa storia per NaNoWriMo.',
     'nanowrimo.baseline': 'Quando inizia NaNoWriMo, prenderà la parola contata corrente e la utilizzerà come base da cui verranno conteggiate le parole aggiuntive come parte di NaNoWriMo.',
     'nanowrimo.victory': 'Congratulazioni! Hai vinto NaNoWriMo!',
     'nanowrimo.challenge': 'Sfida NaNoWriMo',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
+    'nanowrimo.description': 'La sfida consiste nello scrivere un romanzo di {words, number} parole durante il mese di novembre.',
     'nanowrimo.error.usernotfound': 'Il nome utente non è stato trovato sui server di NaNoWriMo.',
     'nanowrimo.error.nobook': 'Nessun libro è stato trovato. Assicurati di aver creato il tuo libro su NaNoWriMo.',
     'nanowrimo.error.wordcount': 'Impossibile impostare il conteggio delle parole su NaNoWriMo, controlla le tue credenziali e riprova.',
