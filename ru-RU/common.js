@@ -271,5 +271,5 @@ export default {
     'common.newest': 'Новейшие',
     'common.oldest': 'Старейшие',
     'common.noSelection': 'Ничего не выбрано',
-    'common.content': 'Content'
+    'common.content': 'Содержание'
 };
