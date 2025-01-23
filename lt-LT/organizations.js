@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Pagrindinė kalba',
     'org.meta.desc': 'Organizacijos ir kūrybinių grupių Literary Universe.',
     'org.luOrgs': 'Literary Universe organizacijos',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': 'Organizacijos',
     'org.aboutTitle': 'Apie {orgName}',
     'org.membersTitle': 'Organizacijos nariai',
     'org.membersNone': 'Nariai nėra vieši',
@@ -27,10 +27,10 @@ export default {
     'org.forums.title': '{orgName} forumai',
     'org.flashnews.internal': 'Vidiniai naujienų pranešimai',
     'org.flashnews.publicAll': 'Vieši naujienų pranešimai visiems objektams',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Sukurti naują naujienų pranešimą {type, select,
+    internal {organizacijai}
+    allProperties {rodyti viešai visose savybėse}
+    other {organizacijai}
   }`,
     'org.members.invited': 'Pakviesti nariai',
     'org.members.list': 'Organizacijos nariai',
