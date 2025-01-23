@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} ρυθμίσεις ανεμίδας',
     'universe.fanfiction.stories': 'Ιστορίες',
     'universe.fanfiction.fanarts': 'Τέχνη των θαυμαστών',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Δεν υπάρχουν {num, plural,
+    =0 {ιστορίες}
+    one {είναι μια ιστορία}
+    other {είναι # ιστορίες}
+    } σε αυτό το σύμπαν.`,
     'universe.authors.title': 'Συγγραφείς',
     'universe.authors.desc': 'Δημιουργοί και συνεισφέροντες στο {universe}',
     'universe.contributors': 'Συνεισφέροντες',
