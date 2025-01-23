@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'প্রাথমিক ভাষা',
     'org.meta.desc': 'সাহিত্যিক বিশ্বে প্রতিষ্ঠান এবং সৃজনশীল গোষ্ঠীসমূহ।',
     'org.luOrgs': 'সাহিত্যিক বিশ্ব প্রতিষ্ঠানসমূহ',
-    'org.otherOrgs': 'গিল্ড এবং প্রতিষ্ঠানসমূহ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'সম্পর্কিত {orgName}',
     'org.membersTitle': 'সংগঠনের সদস্যগণ',
     'org.membersNone': 'সদস্যরা প্রকাশ্য নয়',
