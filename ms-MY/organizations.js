@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Bahasa Utama',
     'org.meta.desc': 'Organisasi dan Kumpulan Kreatif di Literary Universe.',
     'org.luOrgs': 'Organisasi Literary Universe',
-    'org.otherOrgs': 'Guild & Organisasi',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Mengenai {orgName}',
     'org.membersTitle': 'Ahli-ahli organisasi',
     'org.membersNone': 'Ahli-ahli tidak awam',
