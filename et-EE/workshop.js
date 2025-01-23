@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'Loo nüüd üks!',
     'workshop.fictionalTime.createTitle': 'Loo uus väljamõeldud aeg',
     'workshop.fictionalTime.editTitle': 'Muuda {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Siin saate luua oma fiktiivse aja. Praegu on see tööriist piiratud ja suudab luua ainult
+        sümmeetrilisi aegu. See tähendab, et te ei saa uuesti luua maiade kalendrit või gregooriuse kalendrit. Hetkel
+        see tööriist eeldab, et kõik ajad on alati samad, nt kuud on alati 30 päeva ilma eranditeta ja nii
+        edasi. Me tegeleme sellega hilisemates versioonides, kuid seni sobib see tööriist pigem
+        teaduspõhiste aegade loomiseks.`,
     'workshop.fictionalTime.timeName': 'Aja nimi',
     'workshop.fictionalTime.basicInfo': 'Põhiinfo',
     'workshop.fictionalTime.timeSetup': 'Aja seadistus',
@@ -287,5 +287,5 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Toetame Youtube\'i, Vimeot ja Odyseed',
     'workshop.videoTrailer.rumble': 'Toetame ka Rumble\'i, kuid ära unusta IFRAME URL-i kopeerida.',
     'workshop.videoTrailer.suggestPlatforms': 'Kas sinu videplatvorm puudub? Anna meile teada meie <a>tagasiside</a> kaudu!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Muuda katet'
 };
