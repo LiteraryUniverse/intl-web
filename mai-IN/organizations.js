@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'प्राथमिक भाषा',
     'org.meta.desc': 'लिटररी यूनिवर्स में संगठन और रचनात्मक समूह।',
     'org.luOrgs': 'लिटररी यूनिवर्स संगठन',
-    'org.otherOrgs': 'गिल्ड और संगठन',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': '{orgName}के बारे में',
     'org.membersTitle': 'संगठन के सदस्य',
     'org.membersNone': 'सदस्यों को सार्वजनिक नहीं बनाया गया है',
