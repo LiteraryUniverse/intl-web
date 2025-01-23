@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ਪ੍ਰਾਇਮਰੀ ਭਾਸ਼ਾ',
     'org.meta.desc': 'ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਉੱਤੇ ਸੰਗਠਨ ਅਤੇ ਰਚਨਾਤਮਕ ਗਰੁੱਪਾਂ।',
     'org.luOrgs': 'ਸਾਹਿਤਕ ਯੂਨੀਵਰਸ ਸੰਗਠਨ',
-    'org.otherOrgs': 'ਗਿਲਡਜ਼ ਅਤੇ ਸੰਗਠਨਾਂ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'ਬਾਰੇ {orgName}',
     'org.membersTitle': 'ਸੰਗਠਨ ਦੇ ਸਦਸਿਆਂ',
     'org.membersNone': 'ਸਦਸਿਆਂ ਨਾਲ ਕੋਈ ਸਾਰਵਜਨਿਕ ਸਾਂਝਾ ਨਹੀਂ ਹੈ',
