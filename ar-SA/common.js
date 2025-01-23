@@ -117,7 +117,7 @@ export default {
     copyrights: 'حقوق النشر',
     'common.challenges': 'التحديات',
     // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+    'beta.notice': 'مرحبًا بك في النسخة التجريبية من عالم الأدب! هذه معاينة مبكرة لمنصتنا، وما زلنا نعمل بنشاط على التحسينات. ونتيجة لذلك، قد تواجه بعض الأخطاء أو الميزات غير المكتملة. إذا كان هناك شيء لا يبدو صحيحًا، سنكون ممتنين للغاية لملاحظاتك وتفهمك بينما نواصل تحسين التجربة.',
     'beta.thanks': 'شكرًا لدعمك!',
     'scratchpad.about': 'ملاحظاتك وأفكارك متاحة في أي مكان على الموقع.',
     'common.feedback': 'ملاحظات',
@@ -136,9 +136,9 @@ export default {
     processing: 'جاري المعالجة...',
     'common.noData': 'لا توجد بيانات',
     'error.title': 'حدث خطأ. نعتذر عن الإزعاج.',
-    'error.oops': 'Oops! Something went seriously wrong!',
-    'error.apologies': 'We apologize for the inconvenience, we will do our best to fix this soon.',
-    'error.400.text': 'Error 400: {errorMessage}',
+    'error.oops': 'عفوًا! حدث خطأ فادح!',
+    'error.apologies': 'نعتذر عن الإزعاج، وسنبذل قصارى جهدنا لإصلاح هذا الأمر قريبًا.',
+    'error.400.text': 'الخطأ 400: {errorMessage}',
     'common.offlineStatus': 'أنت غير متصل حاليا.',
     male: 'ذكر',
     female: 'أنثى',
@@ -154,10 +154,10 @@ export default {
     wallet {محفظة}
     other {بريد إلكتروني}
     } غير مُوَثَّق.`,
-    'notVerified.verify': `Please verify your {option, select,
-    email {e-mail}
-    wallet {wallet}
-    other {e-mail}
+    'notVerified.verify': `يرجى التحقق من البريد الإلكتروني الخاص بك {option, select,
+    email {البريد الإلكتروني الخاص بك}
+    wallet {المحفظة}
+    other {البريد الإلكتروني الخاص بك}
     }.`,
     unknown: 'غير معروف',
     'common.legal.guidelines': 'إرشادات المجتمع',
@@ -178,8 +178,8 @@ export default {
     'common.edit': 'تحرير',
     'common.publish': 'نشر',
     'common.publishAt': 'تاريخ ووقت النشر',
-    'common.publishNow': 'Publish now',
-    'common.publishLater': 'Publish later',
+    'common.publishNow': 'انشر الآن',
+    'common.publishLater': 'النشر لاحقاً',
     'a11y.user.menu': 'قائمة المستخدم',
     'a11y.navigation': 'التنقل',
     'dashboard.profile': 'ملفك الشخصي',
@@ -193,8 +193,8 @@ export default {
     'story.notes.pitch': 'المقدمة',
     'story.notes.notes': 'ملاحظات',
     'story.authorsNotes': 'ملاحظات المؤلف',
-    'story.notes.audienceAgeGroup': 'Target audience age group',
-    'story.notes.audienceSex': 'Target audience sex',
+    'story.notes.audienceAgeGroup': 'الفئة العمرية المستهدفة',
+    'story.notes.audienceSex': 'الجمهور المستهدف الجنس المستهدف',
     'common.members': 'الأعضاء',
     'common.language': 'اللغة',
     next: 'التالي',
@@ -251,8 +251,8 @@ export default {
     'select.noSearchResults': 'لا توجد نتائج لـ “{search}”',
     'select.removeOption': 'إزالة {option}',
     create: 'أنشئ',
-    'banner.support': 'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
-    'banner.seePlans': 'Visit our roadmap for more information.',
+    'banner.support': 'أصبح الكون الأدبي ممكناً بفضل دعم مستخدمين مثلك. لمساعدتنا في الحفاظ على استقلاليتنا وتحسين المنصة، يرجى التفكير في الاشتراك في إحدى خططنا.',
+    'banner.seePlans': 'قم بزيارة خريطة الطريق لمزيد من المعلومات.',
     'common.noAccountQuestion': 'ليس لديك حساب؟',
     'common.haveAccountQuestion': 'هل لديك بالفعل حساب؟',
     'common.socialLogin': 'تسجيل الدخول بواسطة خدمات أخرى',
@@ -267,9 +267,9 @@ export default {
     'console.explain': 'هذه ميزة مستعرض مخصصة للمطورين. إذا قال لك شخص ما أن تنسخ وتلصق شيئًا هنا لتمكين ميزة في الكون الأدبي أو "اختراق" حساب شخص ما، فهذا عمل احتيالي وسيمنحهم الوصول إلى حسابك في الكون الأدبي.',
     'common.coping': 'نسخ...',
     'common.actions': 'الإجراءات',
-    'common.popular': 'Popular',
+    'common.popular': 'مشهور',
     'common.newest': 'الأحدث',
-    'common.oldest': 'Oldest',
-    'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.oldest': 'الأقدم',
+    'common.noSelection': 'لا يوجد اختيار',
+    'common.content': 'المحتوى'
 };
