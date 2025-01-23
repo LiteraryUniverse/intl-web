@@ -19,9 +19,9 @@ export default {
     'challenges.future.wordcount': '{endDate, date, short}ile başlayan {startDate, date, short} kelime sayısı meydan okuması, hedefi {target, number} olan bir etkinlik.',
     'challenges.future.nanowrimo': 'NaNoWriMo meydan okuması hazır.',
     'challenges.wordcount': 'Kelime sayısı',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Bu ay için kendinize kaç kelime yazmak istediğinize dair bir hedef belirleyin {type, select,
+    story {hikaye}
+    universe {evren}
     other {}
   }.`,
     'challenges.wordcount.select': 'Kendinizi kaç kelimeyle meydan okumak istersiniz?',
