@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Pagrindinė kalba',
     'org.meta.desc': 'Organizacijos ir kūrybinių grupių Literary Universe.',
     'org.luOrgs': 'Literary Universe organizacijos',
-    'org.otherOrgs': 'Gildijos ir organizacijos',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Apie {orgName}',
     'org.membersTitle': 'Organizacijos nariai',
     'org.membersNone': 'Nariai nėra vieši',
