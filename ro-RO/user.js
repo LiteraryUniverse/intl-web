@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': 'Avatarul lui {username}',
     'user.friend.list.requests': 'Cereri de prietenie',
     'user.friend.norequests': 'Nu ai cereri de prietenie.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Bine {dayPart, select,
+    morning {dimineață}
+    afternoon {după-amiază}
+    evening {seară}
+    night {noapte}
+    other {zi}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Acest autor a fost publicat în mod tradițional',
     'user.verification.luAuthor': 'Autor bazat pe Literary Universe de notă',
