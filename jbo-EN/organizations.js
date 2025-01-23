@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'lo se cusku be lo nu le jecta cu zdani',
     'org.meta.desc': '.i lo jecta cu je\'u lo se jibri gi\'e lo se cuntu be lo krici',
     'org.luOrgs': '.i lo jecta be lo nu se jibri be lo krici be lo su\'u cu se vecnu mi\'a',
-    'org.otherOrgs': '.i lo su\'u cu se vecnu gi\'e lo jecta',
+    'org.otherOrgs': '.i lo jecta',
     'org.aboutTitle': '.i lo jecta {orgName}',
     'org.membersTitle': 'lo se ctuca be lo jecta',
     'org.membersNone': 'lo se ctuca cu na .irci',
