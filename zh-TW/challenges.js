@@ -48,7 +48,7 @@ export default {
     'nanowrimo.baseline': '當NaNoWriMo開始時，它將以當前的字數作為基準，任何額外的字數都將作為NaNoWriMo的一部分。',
     'nanowrimo.victory': '恭喜！你贏得了NaNoWriMo！',
     'nanowrimo.challenge': 'NaNoWriMo挑戰',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
+    'nanowrimo.description': '挑戰內容是在十一月期間寫一部 {words, number} 字數的小說。',
     'nanowrimo.error.usernotfound': '在NaNoWriMo服務器上找不到用戶名。',
     'nanowrimo.error.nobook': '找不到書籍。請確保您已在NaNoWriMo上創建了您的書籍。',
     'nanowrimo.error.wordcount': '無法在NaNoWrimo上設置字數，請仔細檢查您的憑據並重試。',
