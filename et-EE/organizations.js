@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Põhikeel',
     'org.meta.desc': 'Organisatsioonid ja loovgrupid Literary Universes.',
     'org.luOrgs': 'Literary Universes Organisatsioonid',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': 'Organisatsioonid',
     'org.aboutTitle': 'Teave {orgName}',
     'org.membersTitle': 'Organisatsiooni liikmed',
     'org.membersNone': 'Liikmed ei ole avalikud',
@@ -27,10 +27,10 @@ export default {
     'org.forums.title': '{orgName} foorumid',
     'org.flashnews.internal': 'Sisemised uudised',
     'org.flashnews.publicAll': 'Avalikud uudised kõigile omadustele',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Loo uus uudisekuulutus {type, select,
+    internal {organisatsioonile}
+    allProperties {kuvada avalikkusele kõikidel objektidel}
+    other {organisatsioonile}
   }`,
     'org.members.invited': 'Kutsutud liikmed',
     'org.members.list': 'Organisatsiooni liikmed',
