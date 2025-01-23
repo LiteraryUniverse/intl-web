@@ -19,7 +19,7 @@ export default {
     'email.enrollAccount.welcome': 'Üdvözöljük a fedélzeten',
     'email.enrollAccount.messageHtml': 'Szeretnénk meghívni az Irodalmi Univerzumba! Előre elkészítettünk Önnek egy személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum összes funkciójához! Kérjük, csatlakozzon hozzánk a kreatív írás és olvasás következő generációjának létrehozásában!',
     'email.enrollAccount.button': 'Fiókhoz való hozzáférés',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Szeretettel várjuk Önöket,<br />Irodalmi Univerzum csapata',
     // Reset password
     'email.resetPassword.messageHtml': 'Megkaptunk egy kérelmet a jelszavad visszaállítására a fiókodhoz. Kérjük, kattints az alábbi gombra a folyamat folytatásához. Ha nem te voltál, aki kérelmezte ezt, nyugodtan figyelmen kívül hagyhatod ezt az e-mailt, de érdemes lehet átnézned a biztonsági beállításaidat.',
     'email.resetPassword.button': 'Jelszó visszaállítása',
