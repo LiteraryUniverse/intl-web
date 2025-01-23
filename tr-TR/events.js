@@ -39,7 +39,7 @@ export default {
   'events.create.title': 'Yeni bir etkinlik oluştur',
   'events.hostedBy': 'Tarafından düzenleniyor {hostName}',
   'events.openVirtual': 'Sanal konuma git',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'Daha fazla bilgi',
   'event.visibilityShort.private': 'Özel',
   'event.visibilityShort.public': 'Herkese Açık',
   'event.visibilityShort.owner': 'Sahip'
