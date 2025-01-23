@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'שפת עיקרית',
     'org.meta.desc': 'ארגונים וקבוצות יצירתיות ביקום הספרותי.',
     'org.luOrgs': 'ארגונים ביקום הספרותי',
-    'org.otherOrgs': 'התאחדויות וארגונים',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'אודות {orgName}',
     'org.membersTitle': 'חברי הארגון',
     'org.membersNone': 'החברים אינם ציבוריים',
