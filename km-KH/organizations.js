@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ភាសាដើមសំខាន់',
     'org.meta.desc': 'សកលនិងក្រុមសិក្សានិម្មិតនៅលីតិកម្មច្រើនក្នុង Literary Universe។',
     'org.luOrgs': 'សកលនិងក្រុមសិក្សានិម្មិតនៅលីតិកម្មច្រើនក្នុង Literary Universe',
-    'org.otherOrgs': 'ក្រុមហ៊ុននិងសហគមន៍',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'អំពី {orgName}',
     'org.membersTitle': 'សមាជិកនៃអង្គការ',
     'org.membersNone': 'សមាជិកមិនត្រូវបានបង្ហាញសាធារណៈ',
