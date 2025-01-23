@@ -27,19 +27,19 @@ export default {
   'events.origin.lu': '문학 유니버스 이벤트',
   'events.visibility.label': '이벤트 공개 설정',
   'events.visibility.public': '공개 - 누구나 이 이벤트를 볼 수 있습니다',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
+  'events.visibility.owner': `소유자만 {type, select,
+    group {그룹 구성원}
+    universe {공동 작업자 및 우주의 팬}
+    organization {조직 구성원}
+    other {귀하와 귀하가 초대하는 사람들}
+  } 이 이벤트를 볼 수 있습니다.`,
   'events.visibility.private': '비공개 - 초대한 사람만 이벤트를 볼 수 있습니다',
   'events.inviting': '이벤트를 본 사람들은 다른 사람을 초대할 수 있나요?',
   'events.administration': '이벤트 관리',
   'events.create.title': '새 이벤트 만들기',
   'events.hostedBy': '주최자: {hostName}',
   'events.openVirtual': '가상 위치로 이동하기',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': '자세한 정보',
   'event.visibilityShort.private': '비공개',
   'event.visibilityShort.public': '공개',
   'event.visibilityShort.owner': '소유자'
