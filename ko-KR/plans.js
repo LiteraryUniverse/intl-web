@@ -83,21 +83,21 @@ export default {
     'payment.card.name': '카드상의 이름',
     'plans.subscribed.thankYou': 'Literary Universe를 지원해 주셔서 감사합니다',
     'plans.subscribed.periodEnd': '구독은 다음 날짜까지 유효합니다: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `마지막에 구독은 {method, select,
+    charge_automatically {자동 갱신}
+    send_invoice {청구서 결제 후 갱신}
     other {}
   }.`,
     'plans.subscribed.paymentMethod': '다음 주기에는 기본 결제 방법이 사용됩니다.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
-    trialing {Trial}
-    past_due {We are missing your payment}
-    cancelled {Cancelled}
-    unpaid {Unpaid}
-    expired {Expired}
+    'plans.subscribed.status': `구독 상태: {status, select,
+    active {활성}
+    incomplete {누락된 항목이 있습니다}
+    incomplete_expired {누락된 항목이 있습니다}
+    trialing {체험판}
+    past_due {결제가 누락되었습니다}
+    cancelled {취소}
+    unpaid {미결제}
+    expired {만료}
     other {}
   }`,
     'payments.changeMethod': '결제 방법 변경',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': '구독 복원',
     'plans.cancel.restoreFailed': '죄송합니다. 현재는 구독을 복원할 수 없습니다. 나중에 다시 시도해주세요.',
     'plans.change.button': '구독 변경',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': '업그레이드 또는 다운그레이드하려는 요금제를 선택합니다. 차액이 즉시 청구되거나 비례 배분된 금액이 청구됩니다.',
     'plans.change.failed': '죄송합니다. 현재는 요금제를 변경할 수 없습니다. 나중에 다시 시도해주세요.',
     'plans.change.upgrade': '업그레이드',
     'payments.disclaimer': '결제 정보 및 처리는 Stripe를 통해 이루어집니다. 우리는 신용 카드나 은행 계좌 정보를 서버에 보관하지 않습니다.',
@@ -192,8 +192,8 @@ export default {
     'payment.donations.payNowUSD': '{donation, number, ::compact-short currency/USD} 을(를) {username}에 기부하기',
     'payment.donations.payNowJPY': '{donation, number, ::compact-short currency/JPY} 을(를) {username}에 기부하기',
     'payment.donations.payNowEUR': '{donation, number, ::compact-short currency/EUR} 을(를) {username}에 기부하기',
-    'payment.donations.payNowCZK': 'Donate {donation, number, ::compact-short currency/CZK} to {username}',
-    'payment.donations.payNowGBP': 'Donate {donation, number, ::compact-short currency/GBP} to {username}',
+    'payment.donations.payNowCZK': '기부하기 {donation, number, ::compact-short currency/CZK} {username}',
+    'payment.donations.payNowGBP': '기부하기 {donation, number, ::compact-short currency/GBP} {username}',
     'payment.donations.thankYouTitle': '{username}에 대한 기부에 감사드립니다.',
     'payment.donations.thankYouContinue': '{username}을(를) 지원해주셔서 감사합니다. 앞으로도 그들의 작품을 즐기시고 계속해서 지원해주시기 바랍니다.',
     'payment.success': '결제가 성공적으로 완료되었습니다!',
@@ -222,10 +222,10 @@ export default {
     'payment.fanClub.createTier': '티어 추가',
     'payment.fanClub.description': '티어 설명',
     'payment.fanClub.picture': '티어 사진',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': '구독자가 지불합니다: {amount}. 플랫폼 수수료는 {fee} ({platformPercentage}), (예상)을 받게됩니다: {net}',
+    'payment.fanClub.platformFeeExplained': '플랫폼 수수료에 신용카드 수수료 등 결제 서비스 제공업체의 수수료가 포함되도록 노력하고 있지만, 간혹 수수료가 초과될 수 있습니다. 이런 일이 발생하면 저희가 조사하여 향후 영향을 줄일 수 있도록 알려주시기 바랍니다. 따라서 이러한 수수료가 총액에 영향을 미치지 않아야 하지만, 만약 영향을 미친다면 알려주시기 바랍니다. 순 가치에 큰 영향을 미치는 또 다른 요소는 세금입니다. 미국과 같이 세금이 가격에서 제외되는 것이 일반적인 국가에서는 영향을 받지 않지만, EU와 같이 세금이 가격에 포함되는 것이 일반적인 국가에서는 구독 가격을 설정할 때 해당 국가의 부가가치세를 고려해야 합니다.',
     'payment.fanClub.learnStripeFees': 'Stripe 수수료에 대해 더 알아보세요.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': '이는 추정치이며 실제 Stripe 수수료는 고객의 결제 유형과 결제 게이트의 추가 요금 및 해당 세금에 따라 달라질 수 있습니다.',
     'payment.fanClub.perks': '혜택',
     'stripeConnect.settings.notifications': 'Stripe로부터의 알림',
     'plans.pricePerMonth': '월당 금액',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': '구독자',
     'plans.fanClub.activatedLabel': '팬 클럽 활성화됨',
     'plans.fanClub.inactiveWarning': '팬 클럽은 아직 활성화되지 않았습니다. 계획을 준비할 수 있고 준비가 완료되면 설정에서 활성화할 수 있습니다.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
-    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
-    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.editTier': '계층 편집',
+    'plans.deletePlan.modalAria': '요금제 확인 삭제',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} 팬클럽',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} 팬클럽',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} 팬클럽',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - 작가 팬클럽',
+    'payment.fanClub.perMonth': '{amount} / 월',
+    'plans.fanClub.notCreated': '죄송합니다! 문제가 발생하여 팬클럽이 제때 생성되지 않았지만 백업 플랜이 준비되어 있으니 걱정하지 마세요! 아래 버튼을 클릭하기만 하면 모든 준비가 완료됩니다!',
+    'plans.fanClub.create': '팬클럽 만들기'
 };
