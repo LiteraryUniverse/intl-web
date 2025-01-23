@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Bab ini sudah diterbitkan pada {publishedAt, date, short}. Versi baru akan segera diterbitkan.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Terbitkan',
-    'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.now': 'Publikasikan sekarang',
+    'writer.publish.schedulePrevious': 'Anda perlu menerbitkan atau menjadwalkan penerbitan bab sebelumnya sebelum dapat menerbitkan bab ini.'
 };
