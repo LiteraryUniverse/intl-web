@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} Impostazioni dei Fan',
     'universe.fanfiction.stories': 'Storie',
     'universe.fanfiction.fanarts': 'Arti dei Fan',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Non ci sono {num, plural,
+    =0 {storie}
+    one {è una storia}
+    other {sono # storie}
+    } in questo universo.`,
     'universe.authors.title': 'Autori',
     'universe.authors.desc': 'Creatori e contributori di {universe}',
     'universe.contributors': 'Contributori',
