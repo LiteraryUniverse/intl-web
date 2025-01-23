@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ప్రాథమిక భాష',
     'org.meta.desc': 'సాహిత్య యూనివర్స్ లో సంస్థలు మరియు సృజనశీల గుంపులు.',
     'org.luOrgs': 'సాహిత్య యూనివర్స్ సంస్థలు',
-    'org.otherOrgs': 'గిల్డ్స్ & సంస్థలు',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'గురించి {orgName}',
     'org.membersTitle': 'సంఘటన సభ్యులు',
     'org.membersNone': 'సభ్యులు ప్రపంచంలో ప్రకటించబడవు',
