@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Elsődleges nyelv',
     'org.meta.desc': 'Szervezetek és alkotói csoportok a Literary Universe-ben.',
     'org.luOrgs': 'Literary Universe Szervezetek',
-    'org.otherOrgs': 'Céhek és Szervezetek',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Névjegy {orgName}',
     'org.membersTitle': 'Szervezet tagjai',
     'org.membersNone': 'A tagok nem nyilvánosak',
