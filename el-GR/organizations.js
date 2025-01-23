@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Κύρια γλώσσα',
     'org.meta.desc': 'Οργανισμοί και δημιουργικές ομάδες στο Literary Universe.',
     'org.luOrgs': 'Οργανισμοί του Literary Universe',
-    'org.otherOrgs': 'Συντεχνίες & Οργανισμοί',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Σχετικά με το {orgName}',
     'org.membersTitle': 'Μέλη του οργανισμού',
     'org.membersNone': 'Τα μέλη δεν είναι δημόσια',
