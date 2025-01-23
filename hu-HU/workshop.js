@@ -287,5 +287,5 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Támogatjuk a Youtube-ot, a Vimeo-t és az Odysee-t',
     'workshop.videoTrailer.rumble': 'Támogatjuk a Rumble-t is, de ne felejtsd el másolni az IFRAME URL-t.',
     'workshop.videoTrailer.suggestPlatforms': 'Hiányzik a videóplatformod? Tudasd velünk a <a>visszajelzés</a> segítségével!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Fedélcsere'
 };
