@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'O seu método de pagamento por defeito será utilizado para pagar o próximo ciclo.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
+    'plans.subscribed.status': `Estado da subscrição: {status, select,
+    active {Ativa}
+    incomplete {Falta alguma coisa}
+    incomplete_expired {Falta alguma coisa}
     trialing {Trial}
-    past_due {We are missing your payment}
-    cancelled {Cancelled}
-    unpaid {Unpaid}
-    expired {Expired}
+    past_due {Falta-nos o seu pagamento}
+    cancelled {Cancelada}
+    unpaid {Não paga}
+    expired {Expirada}
     other {}
   }`,
     'payments.changeMethod': 'Alterar método de pagamento',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restaurar subscrição',
     'plans.cancel.restoreFailed': 'Pedimos desculpa, neste momento não pudemos restabelecer a subscrição. Por favor, tente novamente mais tarde.',
     'plans.change.button': 'Alterar subscrição',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': 'Selecione o plano para o qual pretende fazer o upgrade ou o downgrade. Ser-lhe-á cobrada ou rateada a diferença de preço imediatamente.',
     'plans.change.failed': 'Desculpe, neste momento não nos foi possível alterar o seu plano. Por favor, tente novamente mais tarde.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'A informação e processamento do pagamento é feita através de Stripe. Não mantemos qualquer informação de cartão de crédito ou conta bancária nos nossos servidores.',
@@ -222,10 +222,10 @@ export default {
     'payment.fanClub.createTier': 'Adicionar nível',
     'payment.fanClub.description': 'Descrição do nível',
     'payment.fanClub.picture': 'Imagem do nível',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': 'O assinante pagará: {amount}. A taxa da plataforma é {fee} ({platformPercentage}), receberá (estimado): {net}',
+    'payment.fanClub.platformFeeExplained': 'Estamos a trabalhar para que a nossa taxa de plataforma cubra as taxas dos fornecedores de pagamentos, tais como taxas de cartão de crédito e outras, mas por vezes pode haver um excesso. Se isso acontecer, informe-nos para que possamos investigar e reduzir o impacto no futuro. Como tal, não deve ver nenhuma dessas taxas afetar o seu total, mas se isso acontecer, informe-nos. Outro grande impacto no seu valor líquido são os impostos. Em países como os EUA, onde é comum os impostos serem exclusivos do preço, não será afetado; em países onde é comum os impostos serem incluídos no preço (como a UE), terá de ter em conta o IVA do seu país ao definir o preço da subscrição.',
     'payment.fanClub.learnStripeFees': 'Saiba mais sobre as taxas do Stripe.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': 'Tenha em atenção que se trata de uma estimativa e que a taxa efectiva do Stripe pode ser diferente com base no tipo de pagamento do cliente e nos encargos adicionais da porta de pagamento e dos impostos aplicáveis.',
     'payment.fanClub.perks': 'Benefícios',
     'stripeConnect.settings.notifications': 'Notificações do Stripe',
     'plans.pricePerMonth': 'Valor por mês',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': 'Subscritores',
     'plans.fanClub.activatedLabel': 'Clube de Fãs ativado',
     'plans.fanClub.inactiveWarning': 'O seu clube de fãs ainda não está ativado, você ainda pode preparar planos e assim que estiver pronto você pode ativá-lo nas configurações.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
-    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
-    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.editTier': 'Editar nível',
+    'plans.deletePlan.modalAria': 'Eliminar a confirmação do plano',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} clube de fãs',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} clube de fãs',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} clube de fãs',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - clube de fãs do autor',
+    'payment.fanClub.perMonth': '{amount} / por mês',
+    'plans.fanClub.notCreated': 'Ops! Algo correu mal e o seu clube de fãs não foi criado quando devia, mas não se preocupe, temos um plano de reserva pronto! Basta clicar no botão abaixo e estará tudo pronto!',
+    'plans.fanClub.create': 'Criar um clube de fãs'
 };
