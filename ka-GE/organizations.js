@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'პირველადი ენა',
     'org.meta.desc': 'ორგანიზაციები და კრეატიული ჯგუფები Literary Universe-ზე.',
     'org.luOrgs': 'Literary Universe ორგანიზაციები',
-    'org.otherOrgs': 'გილდები და ორგანიზაციები',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'შესახებ {orgName}',
     'org.membersTitle': 'ორგანიზაციის წევრები',
     'org.membersNone': 'წევრები არ არიან საჯარო',
