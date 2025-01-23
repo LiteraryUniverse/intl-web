@@ -113,7 +113,7 @@ export default {
     'settings.accessibility.ruler': 'マウスに定規を付ける',
     'settings.tab.legal': '法的文書',
     'settings.tab.exportDelete': 'データのエキスポートとアカウントの削除',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'インターフェース言語',
+    'settings.languages.readingLanguage': '言語を読む',
+    'settings.languages.readingLanguageExplained': 'ストーリーを検索する際、特にご指定がない限り、この言語でのストーリーとその翻訳が提供されます。'
 };
