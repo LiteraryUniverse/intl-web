@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Skjult - Kun de personer, du inviterer, kan deltage.',
     'groups.imageAlt': '{groupName} billede',
     'groups.members': 'Medlemmer',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Der {totalMembers, plural,
+    zero {er ingen medlemmer}
+    one {er ét medlem}
+    other {er # medlemmer}
+  } i denne gruppe`,
     'groups.leaveGroup': 'Forlad gruppen',
     'groups.leaveGroup.confirm': 'Bare for at være sikker. Er du sikker på, at du vil forlade {groupName}?',
     'group.settings': 'Gruppeindstillinger',
