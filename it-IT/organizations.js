@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Lingua principale',
     'org.meta.desc': 'Organizzazioni e gruppi creativi su Literary Universe.',
     'org.luOrgs': 'Organizzazioni di Literary Universe',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': 'Organizzazioni',
     'org.aboutTitle': 'Informazioni su {orgName}',
     'org.membersTitle': 'Membri dell\'organizzazione',
     'org.membersNone': 'I membri non sono pubblici',
@@ -27,10 +27,10 @@ export default {
     'org.forums.title': '{orgName} forum',
     'org.flashnews.internal': 'Flash news interne',
     'org.flashnews.publicAll': 'Flash news pubbliche per tutte le proprietà',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Creare una nuova notizia flash per {type, select,
+    internal {l'organizzazione}
+    allProperties {visualizzare al pubblico su tutte le proprietà}
+    other {l'organizzazione}
   }`,
     'org.members.invited': 'Membri invitati',
     'org.members.list': 'Membri dell\'organizzazione',
