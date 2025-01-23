@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Piilotettu - Vain kutsutut voivat liittyä.',
     'groups.imageAlt': '{groupName} kuva',
     'groups.members': 'Jäsenet',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Ryhmässä {totalMembers, plural,
+    zero {ei ole jäseniä}
+    one {on yksi jäsen}
+    other {on # jäsentä}
+  } tässä ryhmässä.`,
     'groups.leaveGroup': 'Poistu ryhmästä',
     'groups.leaveGroup.confirm': 'Varmista. Oletko varma, että haluat poistua ryhmästä {groupName}?',
     'group.settings': 'Ryhmän asetukset',
