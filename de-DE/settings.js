@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Lineal an die Maus anhängen',
     'settings.tab.legal': 'Juristische Dokumente',
     'settings.tab.exportDelete': 'Daten exportieren & Konto löschen',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Interface Sprache',
+    'settings.languages.readingLanguage': 'Sprache lesen',
+    'settings.languages.readingLanguageExplained': 'Wenn Sie nach Geschichten suchen, bieten wir Ihnen Geschichten und ihre Übersetzungen in dieser Sprache an, sofern Sie nichts anderes angeben.'
 };
