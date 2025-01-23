@@ -1,10 +1,10 @@
 export default {
     'user.friend.request.add': 'Aggiungi agli amici',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.requests': `Hai {num, number} nuovo amico {num, plural,
+    zero {richieste}
+    one {richiesta}
+    many {richieste}
+    other {richieste}
   }`,
     'user.friend.unfriend': 'Rimuovi',
     'user.block': 'Blocca',
@@ -33,16 +33,16 @@ other {Aggiunti}} il {date, date,long}`,
     'user.verification.luEmployee': 'Dipendente di Literary Universe',
     'user.verification.publicFigure': 'Figura pubblica verificata',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
+    one {storia}
+    other {storie}
   }`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
+    one {universo}
+    other {universi}
   }`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
     one {fan fiction}
-    other {fan fictions} 
+    other {fan fiction} 
   }`,
     'profile.works': 'Opere',
     // As in creative/literary works
