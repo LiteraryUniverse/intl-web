@@ -19,9 +19,9 @@ export default {
     'challenges.future.wordcount': 'Πρόκληση μετρήσεων λέξεων που ξεκινάει στις {startDate, date, short} με στόχο τις {target, number} μέχρι τις {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Η πρόκληση NaNoWriMo είναι έτοιμη.',
     'challenges.wordcount': 'Μέτρηση λέξεων',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Βάλτε στον εαυτό σας έναν στόχο για το πόσες λέξεις θέλετε να γράψετε αυτό το μήνα για αυτή την {type, select,
+    story {ιστορία}
+    universe {σύμπαν}
     other {}
   }.`,
     'challenges.wordcount.select': 'Πόσες λέξεις θέλετε να προκαλέσετε τον εαυτό σας;',
