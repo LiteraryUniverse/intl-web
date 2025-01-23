@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} налаштувань для фанатів',
     'universe.fanfiction.stories': 'Iсторії',
     'universe.fanfiction.fanarts': 'Фан-Артс',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Не існує {num, plural,
+    =0 {історій}
+    one {є одна історія}
+    other {є #історії}
+    } у цьому всесвіті.`,
     'universe.authors.title': 'Автори',
     'universe.authors.desc': 'Творці та співавтори для {universe}',
     'universe.contributors': 'Співавтори',
