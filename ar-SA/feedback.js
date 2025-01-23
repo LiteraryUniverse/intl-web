@@ -48,9 +48,9 @@ export default {
     'feedback.report.copyrightInternalProperty': 'لقد نشرت هذا العمل على Literary Universe',
     'feedback.reportType.spam': 'بريد مزعج أو احتيال',
     'feedback.reportType.other': 'أخرى',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `ما هو {type, select,
+    universe {الكون}
+    story {القصة}
+    other {القصة}
+  } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟`
 };
