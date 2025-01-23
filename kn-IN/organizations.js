@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ಪ್ರಾಥಮಿಕ ಭಾಷೆ',
     'org.meta.desc': 'ಸಾಹಿತ್ಯ ಯೂನಿವರ್ಸ್ ನ ಸಂಸ್ಥೆಗಳು ಮತ್ತು ಸೃಜನಾತ್ಮಕ ಗುಂಪುಗಳು.',
     'org.luOrgs': 'ಸಾಹಿತ್ಯ ಯೂನಿವರ್ಸ್ ಸಂಸ್ಥೆಗಳು',
-    'org.otherOrgs': 'ಗಿಲ್ಡ್ಸ್ ಮತ್ತು ಸಂಸ್ಥೆಗಳು',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'ಬಗ್ಗೆ {orgName}',
     'org.membersTitle': 'ಸಂಸ್ಥೆಯ ಸದಸ್ಯರು',
     'org.membersNone': 'ಸದಸ್ಯರು ಸಾರ್ವಜನಿಕರಲ್ಲ',
