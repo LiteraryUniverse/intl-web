@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Teanga Phríomhúil',
     'org.meta.desc': 'Eagraíochtaí agus grúpaí cruthaitheacha ar Literary Universe.',
     'org.luOrgs': 'Eagraíochtaí Literary Universe',
-    'org.otherOrgs': 'Céiltigh & Eagraíochtaí',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Maidir le {orgName}',
     'org.membersTitle': 'Ballraí an eagraíochta',
     'org.membersNone': 'Níl na ballraí poiblí',
