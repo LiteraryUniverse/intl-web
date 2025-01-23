@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Ensisijainen kieli',
     'org.meta.desc': 'Organisaatiot ja luovat ryhmät Literary Universessa.',
     'org.luOrgs': 'Literary Universen organisaatiot',
-    'org.otherOrgs': 'Killat ja organisaatiot',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Tietoja {orgName}',
     'org.membersTitle': 'Organisaation jäsenet',
     'org.membersNone': 'Jäsenet eivät ole julkisia',
