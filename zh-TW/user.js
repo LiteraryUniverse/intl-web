@@ -27,7 +27,7 @@ export default {
     evening {evening}
     night {night}
     other {day}
-  } {displayName}!`,
+  } {displayName}！`,
     'user.verification.publishedAuthor': '這位作者以傳統方式出版',
     'user.verification.luAuthor': '基於文學宇宙的知名作者',
     'user.verification.luEmployee': '文學宇宙員工',
