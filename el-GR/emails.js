@@ -19,7 +19,7 @@ export default {
     'email.enrollAccount.welcome': 'Καλωσορίσατε στο σκάφος',
     'email.enrollAccount.messageHtml': 'Θα θέλαμε να σας προσκαλέσουμε στο Λογοτεχνικό Σύμπαν! Προχωρήσαμε και δημιουργήσαμε έναν προσωπικό λογαριασμό για εσάς, όπου μπορείτε να έχετε πρόσβαση σε όλες τις δυνατότητες του Λογοτεχνικού Σύμπαντος! Παρακαλούμε ελάτε να μας συνοδεύσετε στη δημιουργία της επόμενης γενιάς δημιουργικής γραφής και ανάγνωσης!',
     'email.enrollAccount.button': 'Πρόσβαση στον λογαριασμό σας',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Ανυπομονούμε να σας δούμε,<br />Literary Universe team',
     // Reset password
     'email.resetPassword.messageHtml': 'Λάβαμε μια αίτηση για επαναφορά του κωδικού πρόσβασης για τον λογαριασμό σας, παρακαλούμε κάντε κλικ στο κουμπί παρακάτω για να συνεχίσετε τη διαδικασία. Αν δεν έχετε κάνει αυτήν την αίτηση, μπορείτε να αγνοήσετε αυτό το μήνυμα, αλλά ίσως είναι καλή ιδέα να ελέγξετε τις ρυθμίσεις ασφαλείας σας.',
     'email.resetPassword.button': 'Επαναφορά κωδικού πρόσβασης',
@@ -28,12 +28,12 @@ export default {
     'email.verifyEmail.button': 'Επιβεβαίωση αυτής της διεύθυνσης e-mail',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Ο λογαριασμός σας έχει αναβαθμιστεί',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
-    other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+    'email.adminUpgrade.message': `Αναβαθμίσαμε το λογαριασμό σας σε {plan, select,
+    explorer {Εξερευνητής}
+    adventurer {Περιηγητής}
+    storyteller {Αφηγητής}
+    other {~}
+  } βαθμίδα για τις επόμενες {days} ημέρες.\n\nΚαλή διασκέδαση,\nομάδα του λογοτεχνικού σύμπαντος`,
     'email.adminUpgrade.messageHtml': `Αναβαθμίσαμε τον λογαριασμό σας σε {plan, select,
     explorer {Εξερευνητής}
     adventurer {Περιπλανώμενος}
