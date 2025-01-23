@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'Creează una acum!',
     'workshop.fictionalTime.createTitle': 'Creează o nouă timp ficțional',
     'workshop.fictionalTime.editTitle': 'Editează {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Aici vă puteți crea propriul timp fictiv. În prezent, acest instrument este limitat și este capabil să creeze doar timpuri simetrice
+        . Aceasta înseamnă că nu veți putea recrea calendarul mayaș sau cel gregorian. În acest moment
+        acest instrument se așteaptă ca toate timpurile să fie întotdeauna la fel, de exemplu, lunile au întotdeauna 30 de zile, fără excepții și așa mai departe
+        . Vom aborda acest aspect în versiunile ulterioare, dar până atunci acest instrument este mai potrivit pentru a crea în primul rând
+        timpuri bazate pe sci-fi.`,
     'workshop.fictionalTime.timeName': 'Numele timpului',
     'workshop.fictionalTime.basicInfo': 'Informații de bază',
     'workshop.fictionalTime.timeSetup': 'Configurare timp',
@@ -287,5 +287,5 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Noi susținem Youtube, Vimeo și Odysee',
     'workshop.videoTrailer.rumble': 'Noi susținem și Rumble, dar nu uitați să copiați URL-ul IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Platforma ta video lipsește, anunță-ne prin <a>feedback</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Modificarea capacului'
 };
