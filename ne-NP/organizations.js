@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'प्राथमिक भाषा',
     'org.meta.desc': 'साहित्यिक विश्वमा संगठनहरू र क्रिएटिभ समूहहरू।',
     'org.luOrgs': 'साहित्यिक विश्व संगठनहरू',
-    'org.otherOrgs': 'गिल्डहरू र संगठनहरू',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'बारेमा {orgName}',
     'org.membersTitle': 'संगठन सदस्यहरू',
     'org.membersNone': 'सदस्यहरू सार्वजनिक छैनन्',
