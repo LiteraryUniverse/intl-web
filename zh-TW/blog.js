@@ -1,10 +1,10 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `您目前沒有 {type, select,
+    organization {任何部落格}
+    universe {您宇宙的部落格}
+    user {一個部落格}
     other {}
-  }.`,
+  }。`,
     'blog.create': '創建一個新的部落格',
     'blog.settings': `{type, select,
     org {部落格}
@@ -15,11 +15,11 @@ export default {
     'blog.description': '部落格介紹',
     'blog.theme': '主題',
     'blog.theme.info': '通過調整主題，您將能夠改變頁面的外觀。此功能目前尚未準備好。',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `此部落格中 {total, plural,
+    zero {沒有文章}
+    one {有一篇文章}
+    other {有 # 篇文章}
+  } 。`,
     'blog.post.create': '創建一個新的文章',
     'blog.post.update': '編輯 {title}',
     'blog.post.text': '文章內容',
