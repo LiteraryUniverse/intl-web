@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'പ്രാഥമിക ഭാഷ',
     'org.meta.desc': 'സാഹിത്യ യൂണിവേർസിറ്റിയിൽ സംഘങ്ങളും സൃഷ്ടിയാക്കാനുള്ള സംഘങ്ങളും.',
     'org.luOrgs': 'സാഹിത്യ യൂണിവേർസിറ്റി സംഘങ്ങൾ',
-    'org.otherOrgs': 'ഗിൽഡുകൾ & സംഘങ്ങൾ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'About {orgName}',
     'org.membersTitle': 'Organization members',
     'org.membersNone': 'Members are not public',
