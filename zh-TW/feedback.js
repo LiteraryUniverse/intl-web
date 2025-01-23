@@ -48,9 +48,9 @@ export default {
     'feedback.report.copyrightInternalProperty': '我在文學宇宙上發布了這個作品',
     'feedback.reportType.spam': '垃圾郵件或釣魚網站',
     'feedback.reportType.other': '其他',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `哪個 {type, select,
+    universe {宇宙}
+    story {故事}
+    other {故事}
+  } 受到侵害？`
 };
