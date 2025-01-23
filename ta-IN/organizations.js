@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'முதன்மை மொழி',
     'org.meta.desc': 'இலக்கண உலகத்தில் உள்ள அமைப்புகள் மற்றும் கலையரசுக்கள்.',
     'org.luOrgs': 'இலக்கண உலகத்தின் அமைப்புகள்',
-    'org.otherOrgs': 'கில்ட்ஸ் & அமைப்புகள்',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'பற்றி {orgName}',
     'org.membersTitle': 'அமைப்பு உறுப்பினர்கள்',
     'org.membersNone': 'உறுப்பினர்கள் பொதுவாக இல்லை',
