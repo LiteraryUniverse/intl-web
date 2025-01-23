@@ -19,7 +19,7 @@ export default {
     'email.enrollAccount.welcome': 'Welkom aan boord',
     'email.enrollAccount.messageHtml': 'We willen je graag uitnodigen voor het Literair Universum! We hebben alvast een persoonlijk account voor je aangemaakt waar je toegang hebt tot alle functies van het Literair Universum! Doe met ons mee in het creëren van de volgende generatie creatief schrijven en lezen!',
     'email.enrollAccount.button': 'Toegang tot je account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We kijken uit naar uw komst,<br />Literary Universe team',
     // Reset password
     'email.resetPassword.messageHtml': 'We hebben een verzoek ontvangen om je wachtwoord voor je account te resetten, klik op de knop hieronder om het proces voort te zetten. Als je dit verzoek niet hebt gedaan, kun je deze e-mail negeren, maar het is misschien een goed moment om je beveiligingsinstellingen te controleren.',
     'email.resetPassword.button': 'Wachtwoord resetten',
