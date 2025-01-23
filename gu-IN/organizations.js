@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'પ્રાથમિક ભાષા',
     'org.meta.desc': 'સાહિત્યિક યુનિવર્સ પર સંસ્થાઓ અને સ્રષ્ટિશીલ ગ્રુપો.',
     'org.luOrgs': 'સાહિત્યિક યુનિવર્સ સંસ્થાઓ',
-    'org.otherOrgs': 'ગિલ્ડ્સ અને સંસ્થાઓ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'વિશે {orgName}',
     'org.membersTitle': 'સંગઠનના સભ્યો',
     'org.membersNone': 'સભ્યો સાર્વજનિક નથી',
