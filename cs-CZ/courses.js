@@ -57,7 +57,7 @@ export default {
   'course.stories.own': 'Vaše vlastní příběhy',
   'course.stories.organization': 'Příběhy v organizaci',
   'course.stories.public': 'Veřejné příběhy',
-  'course.publish.at': 'I want this course to be published at:',
+  'course.publish.at': 'Chci, aby byl tento kurz zveřejněn:',
   'course.edit.curriculum': 'Upravit osnovy',
   'course.assignment': 'Úkol',
   'course.lesson.removeLink': 'Odstranit odkaz',
