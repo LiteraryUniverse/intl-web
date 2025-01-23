@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Birincil dil',
     'org.meta.desc': 'Edebiyat Evreni\'ndeki Organizasyonlar ve Yaratıcı Gruplar.',
     'org.luOrgs': 'Edebiyat Evreni Organizasyonları',
-    'org.otherOrgs': 'Loncalar ve Organizasyonlar',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Hakkında {orgName}',
     'org.membersTitle': 'Kuruluş üyeleri',
     'org.membersNone': 'Üyeler halka açık değil',
