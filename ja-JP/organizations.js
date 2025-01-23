@@ -9,7 +9,7 @@ export default {
     'org.settings.language': '主言語',
     'org.meta.desc': 'Lieterary Universeに掲載されている団体やクリエイティブなグループを紹介します。',
     'org.luOrgs': 'Lieterary Universeの組織',
-    'org.otherOrgs': 'ギルドと組織',
+    'org.otherOrgs': '組織',
     'org.aboutTitle': '{orgName}について',
     'org.membersTitle': '組織のメンバー',
     'org.membersNone': 'メンバーは非公開です',
