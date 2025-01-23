@@ -33,9 +33,9 @@ export default {
     'settings.export.explain': 'Dette vil tillade dig at få alle dine data, der er gemt i vores database, i json-format.',
     'settings.export.submit': 'Eksporter data',
     'settings.delete.title': 'Slet konto',
-    'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
-    there is no way of getting it back. Note that this might not automatically delete your published works,
-    comments, etc. Please refer to Terms of Service for details.`,
+    'settings.delete.warning': `ADVARSEL: Når du sletter din konto, mister du adgangen til den, og
+    kan ikke få den tilbage. Bemærk, at dette måske ikke automatisk sletter dine publicerede værker,
+    kommentarer osv. Se venligst Servicevilkår for detaljer.`,
     'settings.delete.confirm': 'Bare for at være sikker. Er du sikker på, at du vil slette din konto?',
     'settings.delete.cancel': 'Jeg ønsker ikke at slette min konto',
     'settings.delete.submit': 'Slet min konto',
@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Tilknyt en lineal til musen',
     'settings.tab.legal': 'Juridiske dokumenter',
     'settings.tab.exportDelete': 'Eksporter data og slet konto',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Interface-sprog',
+    'settings.languages.readingLanguage': 'Læsning af sprog',
+    'settings.languages.readingLanguageExplained': 'Når du søger efter historier, vil vi tilbyde dig historier og deres oversættelser på dette sprog, medmindre du angiver andet.'
 };
