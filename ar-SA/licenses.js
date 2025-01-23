@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'ترخيص المشاع الإبداعي نسب المصنف - غير تجاري - منع الاشتقاق 4.0',
     'licenses.cc-by-nc-nd': 'هذا الترخيص هو الأكثر قيودًا بين الرخص الستة الرئيسية لدينا، حيث يسمح فقط للآخرين بتنزيل أعمالك ومشاركتها مع الآخرين طالما يتم اعتبارك مؤلف الأعمال، ولكنهم لا يمكنهم تغييرها بأي شكل من الأشكال أو استخدامها لأغراض تجارية.',
     'licenses.name.lu-c': 'حقوق النشر لعالم الأدب',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.lu-c': 'رخصة حقوق النشر الكاملة القياسية التي تسمح لك ببيع عملك كما تشاء مع حماية حقوقك فيه. يمنحك هذا الترخيص أيضًا خيار بيع قصصك على موقع Literary Universe.',
+    'licenses.name.cc0': 'غير محفوظة الحقوق محفوظة - CC0 1.0',
+    'licenses.cc0': 'ضع عملك في المجال العام. على النقيض من تراخيص CC التي تسمح لأصحاب حقوق النشر بالاختيار من بين مجموعة من الأذونات مع الاحتفاظ بحقوق النشر الخاصة بهم، فإن CC0 تتيح خيارًا آخر تمامًا - خيار الانسحاب من حماية حقوق النشر وقاعدة البيانات، والحقوق الحصرية الممنوحة تلقائيًا للمبدعين - بديل "لا حقوق محفوظة" لتراخيصنا.'
 };
