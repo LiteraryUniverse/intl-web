@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Επισύναψη χάρακα στο ποντίκι',
     'settings.tab.legal': 'Νομικά έγγραφα',
     'settings.tab.exportDelete': 'Εξαγωγή δεδομένων & διαγραφή λογαριασμού',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Γλώσσα διεπαφής',
+    'settings.languages.readingLanguage': 'Ανάγνωση γλώσσας',
+    'settings.languages.readingLanguageExplained': 'Όταν αναζητάτε ιστορίες, θα σας προσφέρουμε ιστορίες και τις μεταφράσεις τους σε αυτή τη γλώσσα, εκτός αν ορίσετε διαφορετικά.'
 };
