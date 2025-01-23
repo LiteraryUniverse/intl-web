@@ -19,7 +19,7 @@ export default {
     'email.enrollAccount.welcome': 'Bun venit la bord',
     'email.enrollAccount.messageHtml': 'Ne-ar plăcea să te invităm în Universul Literar! Am pregătit deja un cont personal pentru tine în care poți accesa toate funcțiile Universului Literar! Te rugăm să ni te alături în crearea următoarei generații de scriere și lectură creative!',
     'email.enrollAccount.button': 'Accesează-ți contul',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Vă așteptăm cu drag,<br />Echipa Universului Literar',
     // Reset password
     'email.resetPassword.messageHtml': 'Am primit o cerere de resetare a parolei pentru contul tău, te rugăm să apeși pe butonul de mai jos pentru a continua procesul. Dacă nu ai făcut această cerere, poți ignora acest e-mail, dar ar fi bine să verifici setările tale de securitate.',
     'email.resetPassword.button': 'Resetează parola',
@@ -28,12 +28,12 @@ export default {
     'email.verifyEmail.button': 'Verifică această adresă de e-mail',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Contul tău a fost actualizat',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `Ți-am actualizat contul la {plan, select,
+    explorer {Explorator}
+    adventurer {Aventurier}
+    storyteller {Povestitor}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } nivel pentru următoarele {days} zile.\n\nDistracție plăcută,\nEchipa Universului Literar`,
     'email.adminUpgrade.messageHtml': `Ți-am upgrade-at contul la nivelul {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
