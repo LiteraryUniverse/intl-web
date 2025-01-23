@@ -16,10 +16,10 @@ export default {
     other {<!----># okunmamış konuşmalar bulunuyor!<!---->}
   }<!---->.`,
     'pm.form.minimumParticipants': 'Bir alıcı seçmeniz gerekiyor.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
+    'pm.form.maxParticipants': `Bir görüşmede en fazla {maxPeople, plural,
+    one {bir kişi}
+    other {# kişi}
+  } olabilir.`,
     'pm.new.aria': 'Yeni konuşma',
     'pm.new.buttonTitle': 'Yeni bir konuşma başlat'
 };
