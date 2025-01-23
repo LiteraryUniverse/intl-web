@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `Teil ei ole praegu {type, select,
+    organization {ühtegi blogi}
+    universe {blogi oma universumi jaoks}
+    user {blogi}
     other {}
   }.`,
     'blog.create': 'Loo uus blogi',
