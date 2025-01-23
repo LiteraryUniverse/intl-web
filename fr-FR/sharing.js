@@ -18,8 +18,8 @@ export default {
     'sharing.gab': 'Gab',
     'sharing.pinterest': 'Pinterest',
     'sharing.gettr': 'Gettr',
-    'sharing.minds': 'Minds.com',
+    'sharing.minds': 'Esprit.com',
     'sharing.instagram': 'Instagram',
     'sharing.reddit': 'Reddit',
-    'sharing.bsky': 'BlueSky'
+    'sharing.bsky': 'Bleu ciel'
 };
