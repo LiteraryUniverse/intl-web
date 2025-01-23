@@ -39,18 +39,18 @@ export default {
     'feedback.reportType.storyRating': 'Rating de vârstă incorect',
     'feedback.reportType.scam': 'Înșelătorie',
     'feedback.report.submit': 'Raport',
-    'feedback.report.submitting': 'Reporting...',
-    'feedback.report.violationDesc': 'Details',
-    'feedback.report.reportSaved': 'Thank you for the report! We will investigate and take action if needed.',
-    'feedback.report.copyrightReportSaved': 'Thank you for the report! We will investigate and be in touch.',
-    'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
-    'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
-    'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
-    'feedback.reportType.spam': 'Spam or phishing',
+    'feedback.report.submitting': 'Raportare...',
+    'feedback.report.violationDesc': 'Detalii',
+    'feedback.report.reportSaved': 'Vă mulțumim pentru raport! Vom investiga și vom lua măsuri dacă este necesar.',
+    'feedback.report.copyrightReportSaved': 'Vă mulțumim pentru raport! Vom investiga și vă vom ține la curent.',
+    'feedback.report.copyrightOwnershipDesc': 'Declarație de proprietate',
+    'feedback.report.copyrightNotice': 'Vă rugăm să rețineți că trebuie să fiți proprietarul de drept al operei pentru a utiliza acest formular. Dacă nu sunteți proprietarul, vă rugăm să informați proprietarul sau să utilizați cealaltă categorie pentru a ne informa. Luăm foarte în serios încălcarea drepturilor de autor și același lucru este valabil și pentru utilizarea necorespunzătoare și abuzivă a acestui formular.',
+    'feedback.report.copyrightInternalProperty': 'Am publicat această lucrare pe Literary Universe',
+    'feedback.reportType.spam': 'Spam sau phishing',
     'feedback.reportType.other': 'Altele',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `Care {type, select,
+    universe {univers}
+    story {poveste}
+    other {poveste}
+  } este încălcat?`
 };
