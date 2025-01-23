@@ -70,7 +70,7 @@ export default {
     'payment.option.create': 'Προσθέστε μια νέα επιλογή πληρωμής',
     'payment.option.description': 'Εδώ είναι μια λίστα με τις αποθηκευμένες μεθόδους πληρωμής σας. Μπορείτε να αποθηκεύσετε νέες μεθόδους πληρωμής εδώ για γρηγορότερο ολοκλήρωση της αγοράς. Το Literary Universe δεν αποθηκεύει ούτε επεξεργάζεται τα στοιχεία πληρωμής σας, όπως ο αριθμός της πιστωτικής σας κάρτας.',
     'payment.history.title': 'Ιστορικό πληρωμών',
-    'payment.history.tab': 'History',
+    'payment.history.tab': 'Ιστορία',
     'payment.history.none': 'Δεν έχουμε καμία εγγραφή παλαιότερων πληρωμών.',
     'plans.options.aria': 'Επιλογές πληρωμής',
     'plans.options.creditCard': 'Πιστωτική κάρτα',
@@ -83,9 +83,9 @@ export default {
     'payment.card.name': 'Όνομα στην κάρτα',
     'plans.subscribed.thankYou': 'Σας ευχαριστούμε που υποστηρίζετε το Literary Universe',
     'plans.subscribed.periodEnd': 'Η συνδρομή σας ισχύει μέχρι: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `Στο τέλος η συνδρομή σας θα {method, select,
+    charge_automatically {ανανεωθεί αυτόματα}
+    send_invoice {ανανεωθεί μετά την πληρωμή του τιμολογίου}
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Η προεπιλεγμένη μέθοδος πληρωμής σας θα χρησιμοποιηθεί για την επόμενη περίοδο χρέωσης.',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Ανάκτηση συνδρομής',
     'plans.cancel.restoreFailed': 'Ζητούμε συγνώμη, δεν ήταν δυνατή η ανάκτηση της συνδρομής αυτήν τη στιγμή. Παρακαλούμε δοκιμάστε ξανά αργότερα.',
     'plans.change.button': 'Αλλαγή συνδρομής',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': 'Επιλέξτε το πρόγραμμα στο οποίο θέλετε να αναβαθμίσετε ή να υποβαθμίσετε. Θα χρεωθείτε ή θα αναλογεί άμεσα η διαφορά στην τιμή.',
     'plans.change.failed': 'Ζητούμε συγνώμη, δεν ήταν δυνατή η αλλαγή του πλάνου σας αυτήν τη στιγμή. Παρακαλούμε δοκιμάστε ξανά αργότερα.',
     'plans.change.upgrade': 'Αναβάθμιση',
     'payments.disclaimer': 'Οι πληροφορίες πληρωμής και η επεξεργασία γίνονται μέσω του Stripe. Δεν αποθηκεύουμε καμία πληροφορία πιστωτικής κάρτας ή τραπεζικού λογαριασμού στους διακομιστές μας.',
@@ -222,10 +222,10 @@ export default {
     'payment.fanClub.createTier': 'Προσθήκη επιπέδου',
     'payment.fanClub.description': 'Περιγραφή επιπέδου',
     'payment.fanClub.picture': 'Εικόνα επιπέδου',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': 'Ο συνδρομητής θα πληρώσει: {amount}. Η χρέωση της πλατφόρμας είναι {fee} ({platformPercentage}), θα λάβετε (κατ\' εκτίμηση): {net}',
+    'payment.fanClub.platformFeeExplained': 'Εργαζόμαστε για να καλύψουμε με το τέλος της πλατφόρμας μας τα τέλη από τους παρόχους πληρωμών, όπως τα τέλη πιστωτικών καρτών και άλλα, αλλά μερικές φορές μπορεί να υπάρξει υπερχείλιση. Εάν συμβεί αυτό, παρακαλούμε ενημερώστε μας, ώστε να μπορέσουμε να το ερευνήσουμε και να μειώσουμε τον αντίκτυπο στο μέλλον. Ως εκ τούτου, δεν θα πρέπει να δείτε καμία από αυτές τις χρεώσεις να επηρεάζει το σύνολό σας, αλλά αν συμβεί κάτι τέτοιο, παρακαλούμε ενημερώστε μας. Ένας άλλος μεγάλος αντίκτυπος στην καθαρή αξία σας είναι οι φόροι. Σε χώρες όπως οι ΗΠΑ, όπου είναι σύνηθες οι φόροι να μην περιλαμβάνονται στην τιμή, δεν θα επηρεαστείτε, ενώ σε χώρες όπου είναι σύνηθες οι φόροι να περιλαμβάνονται στην τιμή (όπως η ΕΕ), θα πρέπει να υπολογίσετε τον ΦΠΑ της χώρας σας κατά τον καθορισμό της τιμής της συνδρομής.',
     'payment.fanClub.learnStripeFees': 'Μάθετε περισσότερα σχετικά με τις χρεώσεις της Stripe.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': 'Λάβετε υπόψη ότι πρόκειται για εκτίμηση και η πραγματική χρέωση της Stripe ενδέχεται να διαφέρει ανάλογα με τον τύπο πληρωμής του πελάτη και τις πρόσθετες χρεώσεις από την πύλη πληρωμής και τους ισχύοντες φόρους.',
     'payment.fanClub.perks': 'Προνόμια',
     'stripeConnect.settings.notifications': 'Ειδοποιήσεις από την Stripe',
     'plans.pricePerMonth': 'Ποσό ανά μήνα',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': 'Συνδρομητές',
     'plans.fanClub.activatedLabel': 'Ο Οπαδικός Σύλλογος ενεργοποιήθηκε',
     'plans.fanClub.inactiveWarning': 'Ο ομάδα θαυμαστών σας δεν έχει ενεργοποιηθεί ακόμα, μπορείτε να ετοιμάσετε σχέδια και όταν είστε έτοιμοι μπορείτε να την ενεργοποιήσετε στις ρυθμίσεις.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.editTier': 'Επεξεργασία βαθμίδας',
+    'plans.deletePlan.modalAria': 'Διαγραφή επιβεβαίωσης σχεδίου',
     'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
     'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.paymentDescriptorMinimal': '{username} Λέσχη θαυμαστών',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - Λέσχη θαυμαστών συγγραφέων',
+    'payment.fanClub.perMonth': '{amount} / ανά μήνα',
+    'plans.fanClub.notCreated': 'Ουπς! Κάτι πήγε στραβά και το fan club σας δεν δημιουργήθηκε όταν έπρεπε, αλλά μην ανησυχείτε, έχουμε ένα εφεδρικό σχέδιο έτοιμο! Απλά κάντε κλικ στο παρακάτω κουμπί και θα είστε έτοιμοι!',
+    'plans.fanClub.create': 'Δημιουργία fan club'
 };
