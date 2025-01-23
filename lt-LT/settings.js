@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Prisegti linijalą prie pelės',
     'settings.tab.legal': 'Teisiniai dokumentai',
     'settings.tab.exportDelete': 'Eksportuoti duomenis ir ištrinti paskyrą',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Sąsajos kalba',
+    'settings.languages.readingLanguage': 'Skaitymo kalba',
+    'settings.languages.readingLanguageExplained': 'Ieškodami istorijų, pasiūlysime jums istorijas ir jų vertimus šia kalba, nebent nurodysite kitaip.'
 };
