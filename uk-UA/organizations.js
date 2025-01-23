@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Основна мова',
     'org.meta.desc': 'Організації та творчі групи на Літературному Всесвіті.',
     'org.luOrgs': 'Організації Літературного Всесвіту',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': 'Організації',
     'org.aboutTitle': 'Про {orgName}',
     'org.membersTitle': 'Учасники організації',
     'org.membersNone': 'Учасники не є публічними',
