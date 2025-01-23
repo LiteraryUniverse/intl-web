@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Primært sprog',
     'org.meta.desc': 'Organisationer og kreative grupper på Litterære Univers.',
     'org.luOrgs': 'Litterære Univers Organisationer',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': 'Organisationer',
     'org.aboutTitle': 'Om {orgName}',
     'org.membersTitle': 'Organisationsmedlemmer',
     'org.membersNone': 'Medlemmer er ikke offentlige',
@@ -52,8 +52,8 @@ export default {
     'org.teams.total': 'Samlede hold: {totalTeams, number}',
     'org.teams.create': 'Opret et nyt hold',
     'org.teams.settings': 'Holdindstillinger',
-    'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.ownerUser': 'Ikke et laugsarbejde',
+    'org.workshop.caption': 'Ejerskab af laug',
     'org.workshop.title': 'Organisationsworkshop',
     'org.title': 'Organisation'
 };
