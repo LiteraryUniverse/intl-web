@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'प्राथमिक भाषा',
     'org.meta.desc': 'साहित्यिक युनिवर्समधील संघटना आणि सृजनात्मक गट',
     'org.luOrgs': 'साहित्यिक युनिवर्समधील संघटना',
-    'org.otherOrgs': 'गिल्ड आणि संघटना',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'विषयी {orgName}',
     'org.membersTitle': 'संघटनेचे सदस्य',
     'org.membersNone': 'सदस्यांची सार्वजनिकता नाही',
