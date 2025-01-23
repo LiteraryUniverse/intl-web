@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Forsidebillede',
     'encyclopedia.translation.title': 'Velkommen til {universe} universoversættelse!',
     'encyclopedia.translation.desc': 'Dette encyklopædi-interface bruges til oversættelse til {language}. Vælg eksisterende indgange på listen til venstre for at begynde deres oversættelse.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Der {totalEntries, plural, 
+    zero {er ingen poster}
+    one {er én post}
+    other {er # poster}
+  } i dette univers.`,
     'encyclopedia.settings.title': 'Encyklopædiindstillinger',
     'encyclopedia.settings.categoriesDesc': 'Tænd og sluk for kategorier, som du vil bruge i din encyklopædi.',
     'encyclopedia.settings.introText': 'Velkomstbesked, der skal vises efter universbeskrivelsen.',
