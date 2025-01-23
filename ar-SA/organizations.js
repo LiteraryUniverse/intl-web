@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'اللغة الأساسية',
     'org.meta.desc': 'المنظمات والمجموعات الإبداعية في عالم الأدب',
     'org.luOrgs': 'منظمات عالم الأدب',
-    'org.otherOrgs': 'Organizations',
+    'org.otherOrgs': 'المنظمات',
     'org.aboutTitle': 'عن {orgName}',
     'org.membersTitle': 'أعضاء المنظمة',
     'org.membersNone': 'الأعضاء ليسوا عامة',
@@ -27,10 +27,10 @@ export default {
     'org.forums.title': 'منتديات {orgName}',
     'org.flashnews.internal': 'أخبار فلاش داخلية',
     'org.flashnews.publicAll': 'أخبار فلاش عامة لجميع الخصائص',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `إنشاء وميض إخباري جديد لـ {type, select,
+    internal {المنظمة}
+    allProperties {عرض للجمهور على جميع الخصائص}
+    other {المنظمة}
   }`,
     'org.members.invited': 'الأعضاء المدعوون',
     'org.members.list': 'أعضاء المنظمة',
@@ -52,8 +52,8 @@ export default {
     'org.teams.total': 'إجمالي الفِرَق: {totalTeams, number}',
     'org.teams.create': 'إنشاء فريق جديد',
     'org.teams.settings': 'إعدادات الفريق',
-    'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.ownerUser': 'ليس عملاً نقابيًا',
+    'org.workshop.caption': 'ملكية النقابة',
     'org.workshop.title': 'ورشة عمل المنظمة',
     'org.title': 'المنظمة'
 };
