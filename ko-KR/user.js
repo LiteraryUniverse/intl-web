@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': '{username}의 아바타',
     'user.friend.list.requests': '친구 요청',
     'user.friend.norequests': '친구 요청이 없습니다.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `좋아요 {dayPart, select,
+    morning {오전}
+    afternoon {오후}
+    evening {저녁}
+    night {밤}
+    other {낮}
   } {displayName}!`,
     'user.verification.publishedAuthor': '이 작가는 전통적인 방식으로 출판되었습니다.',
     'user.verification.luAuthor': '문학 우주 기반의 주목할 만한 작가',
