@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'Sukurkite dabar!',
     'workshop.fictionalTime.createTitle': 'Sukurkite naują fiktyvų laiką',
     'workshop.fictionalTime.editTitle': 'Redaguoti {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Čia galite susikurti savo išgalvotą laiką. Šiuo metu šis įrankis yra ribotas ir gali kurti tik
+        simetrinius laikus. Tai reiškia, kad negalėsite atkurti majų ar Grigaliaus kalendoriaus. Šiuo metu
+        šis įrankis tikisi, kad visi laikai visada bus vienodi, pvz. mėnesiai visada turi 30 dienų be jokių išimčių ir t. t.
+        . Šią problemą išspręsime vėlesnėse versijose, tačiau iki tol šis įrankis labiau tinka kurti visų pirma
+        moksline fantastika pagrįstus laikus.`,
     'workshop.fictionalTime.timeName': 'Laiko pavadinimas',
     'workshop.fictionalTime.basicInfo': 'Pagrindinė informacija',
     'workshop.fictionalTime.timeSetup': 'Laiko nustatymas',
@@ -287,5 +287,5 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Mes palaikome Youtube, Vimeo ir Odysee',
     'workshop.videoTrailer.rumble': 'Mes taip pat palaikome Rumble, bet nepamirškite nukopijuoti IFRAME URL.',
     'workshop.videoTrailer.suggestPlatforms': 'Ar jūsų vaizdo platforma trūksta? Praneškite mums per mūsų <a>atsiliepimų</a> sistemą!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Pakeiskite dangtį'
 };
