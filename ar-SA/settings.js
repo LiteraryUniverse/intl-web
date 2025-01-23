@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'تثبيت مسطرة على الماوس',
     'settings.tab.legal': 'الوثائق القانونية',
     'settings.tab.exportDelete': 'تصدير البيانات وحذف الحساب',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'لغة الواجهة',
+    'settings.languages.readingLanguage': 'لغة القراءة',
+    'settings.languages.readingLanguageExplained': 'عند البحث عن القصص سنقدم لك القصص وترجماتها بهذه اللغة ما لم تحدد خلاف ذلك.'
 };
