@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Fixer une règle à la souris',
     'settings.tab.legal': 'Documents légaux',
     'settings.tab.exportDelete': 'Exporter les données et supprimer le compte',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Langue de l\'interface',
+    'settings.languages.readingLanguage': 'Langue de lecture',
+    'settings.languages.readingLanguageExplained': 'Lorsque vous recherchez des histoires, nous vous proposons des histoires et leurs traductions dans cette langue, sauf indication contraire de votre part.'
 };
