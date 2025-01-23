@@ -15,11 +15,11 @@ export default {
     'blog.description': '블로그 소개',
     'blog.theme': '테마',
     'blog.theme.info': '테마를 조정하면 페이지의 모양을 변경할 수 있습니다. 이 기능은 현재 사용할 수 없습니다.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `이 블로그에는 {total, plural,
+    zero {게시물이 없습니다}
+    one {게시물이 하나 있습니다}
+    other {게시물이 #개 있습니다}
+  } .`,
     'blog.post.create': '새 포스트 만들기',
     'blog.post.update': '편집 {title}',
     'blog.post.text': '포스트 텍스트',
@@ -33,11 +33,11 @@ export default {
     fanfiction {팬픽션 작품}
     other {}
   }`,
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `소셜 링크는 {type, select,
+    organization {조직 설정}
+    user {사용자 프로필}
     other {}
-  }`,
+  }에서 설정한 것과 동일합니다.`,
     'blog.social.website': '공식 웹사이트',
     'blog.settings.universeSettings': '유니버스 블로그는 유니버스 설정에서 기본 설정을 가져와 유니버스 페이지에 통합됩니다.',
     'blog.settings.organizationSettings': '조직 블로그는 조직 페이지에 통합되었습니다.',
