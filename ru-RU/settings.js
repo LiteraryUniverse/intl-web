@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Прикрепить линейку к мыши',
     'settings.tab.legal': 'Правовая информация',
     'settings.tab.exportDelete': 'Экспорт данных и удаление учётной записи',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Язык интерфейса',
+    'settings.languages.readingLanguage': 'Язык чтения',
+    'settings.languages.readingLanguageExplained': 'При поиске историй мы будем предлагать Вам истории и их переводы на этом языке, если Вы не укажете иное.'
 };
