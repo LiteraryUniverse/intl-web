@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Ĉefa lingvo',
     'org.meta.desc': 'Organizoj kaj kreivaj grupoj en Literatura Universo.',
     'org.luOrgs': 'Organizoj de Literatura Universo',
-    'org.otherOrgs': 'Gildoj kaj Organizoj',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Pri {orgName}',
     'org.membersTitle': 'Membroj de la organizo',
     'org.membersNone': 'Membroj ne estas publikaj',
