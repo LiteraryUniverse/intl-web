@@ -1,10 +1,10 @@
 export default {
     'user.friend.request.add': 'إضافة إلى الأصدقاء',
-    'user.friend.requests': `You have {num, number} new friend {num, plural,
-    zero {requests}
-    one {request}
-    many {requests}
-    other {requests}
+    'user.friend.requests': `لديك {num, number} صديق جديد {num, plural,
+    zero {الطلبات ~ ~ الطلبات}
+    one {الطلبات}
+    many {الطلبات}
+    other {الطلبات}
   }`,
     'user.friend.unfriend': 'إلغاء الصداقة',
     'user.block': 'حظر',
@@ -33,16 +33,16 @@ export default {
     'user.verification.luEmployee': 'موظف في عالم الأدب',
     'user.verification.publicFigure': 'شخصية عامة موثوق بها',
     'profile.storiesCount': `{count, number} {count, plural,
-    one {story}
-    other {stories}
-  }`,
+    one {~ القصة}
+    other {القصص}
+  }~`,
     'profile.universesCount': `{count, number} {count, plural,
-    one {universe}
-    other {universes}
-  }`,
+    one {~ الكون}
+    other {الأكوان}
+  }~`,
     'profile.fanFictionsCount': `{count, number} {count, plural,
-    one {fan fiction}
-    other {fan fictions} 
+    one {~ خيال المعجبين}
+    other {خيال المعجبين} 
   }`,
     'profile.works': 'الأعمال',
     // As in creative/literary works
