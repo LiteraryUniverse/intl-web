@@ -39,7 +39,7 @@ export default {
   'events.create.title': 'Criar um novo evento',
   'events.hostedBy': 'Hospedado por {hostName}',
   'events.openVirtual': 'Ir para o local virtual',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'Mais informações',
   'event.visibilityShort.private': 'Privado',
   'event.visibilityShort.public': 'Público',
   'event.visibilityShort.owner': 'Proprietário'
