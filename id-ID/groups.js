@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Tersembunyi - Hanya orang yang Anda undang yang dapat bergabung.',
     'groups.imageAlt': '{groupName} gambar',
     'groups.members': 'Anggota',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Ada {totalMembers, plural,
+    zero {tidak ada anggota}
+    one {ada satu anggota}
+    other {ada # anggota}
+  } di grup ini`,
     'groups.leaveGroup': 'Keluar dari grup',
     'groups.leaveGroup.confirm': 'Hanya untuk memastikan. Apakah Anda yakin ingin keluar dari {groupName}?',
     'group.settings': 'Pengaturan grup',
