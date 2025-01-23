@@ -275,5 +275,5 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Youtube、Vimeo、およびOdyseeをサポートしています',
     'workshop.videoTrailer.rumble': 'また、Rumbleもサポートしていますが、IFRAMEのURLをコピーすることを忘れないでください。',
     'workshop.videoTrailer.suggestPlatforms': 'ビデオプラットフォームが見つからない場合は、<a>フィードバック</a>を通じてお知らせください！',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'カバーの変更'
 };
