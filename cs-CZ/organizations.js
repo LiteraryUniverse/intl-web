@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Hlavní jazyk',
     'org.meta.desc': 'Organizace a kreativní skupiny na Literary Universe.',
     'org.luOrgs': 'Oficiální organizace Literary Universe',
-    'org.otherOrgs': 'Guildy a organizace',
+    'org.otherOrgs': 'Organizace',
     'org.aboutTitle': 'O {orgName}',
     'org.membersTitle': 'Členové organizace',
     'org.membersNone': 'Členové nejsou veřejní',
