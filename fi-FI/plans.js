@@ -83,9 +83,9 @@ export default {
     'payment.card.name': 'Kortin omistajan nimi',
     'plans.subscribed.thankYou': 'Kiitos tuestasi Literary Universelle',
     'plans.subscribed.periodEnd': 'Tilauksesi on voimassa asti: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `Tilauksesi päättyy {method, select,
+    charge_automatically {uusitaan automaattisesti}
+    send_invoice {uusitaan laskun maksamisen jälkeen}
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Seuraavalla laskutuskaudella käytetään oletusmaksutapaa.',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Palauta tilaus',
     'plans.cancel.restoreFailed': 'Pahoittelut, emme voineet palauttaa tilausta tällä hetkellä. Yritä myöhemmin uudelleen.',
     'plans.change.button': 'Vaihda tilausta',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': 'Valitse suunnitelma, johon haluat päivittää tai alentaa. Hintojen välinen erotus laskutetaan tai suhteutetaan sinulle välittömästi.',
     'plans.change.failed': 'Pahoittelut, emme voineet vaihtaa suunnitelmaasi tällä hetkellä. Yritä myöhemmin uudelleen.',
     'plans.change.upgrade': 'Päivitä',
     'payments.disclaimer': 'Maksutiedot ja käsittely hoidetaan Stripen kautta. Emme säilytä mitään luottokortti- tai pankkitilitietoja palvelimillamme.',
@@ -222,10 +222,10 @@ export default {
     'payment.fanClub.createTier': 'Lisää taso',
     'payment.fanClub.description': 'Tason kuvaus',
     'payment.fanClub.picture': 'Tason kuva',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': 'Tilaaja maksaa: {amount}. Alustamaksu on {fee} ({platformPercentage}), saat (arviolta): {net}',
+    'payment.fanClub.platformFeeExplained': 'Pyrimme siihen, että alustamaksumme kattaisi maksupalveluntarjoajilta perittävät maksut, kuten luottokorttimaksut ja muut maksut, mutta joskus saattaa tulla ylivuotoja. Jos näin käy, ilmoita meille, jotta voimme tutkia asiaa ja vähentää vaikutusta tulevaisuudessa. Sinänsä sinun ei pitäisi nähdä näiden maksujen vaikuttavan kokonaissummaan, mutta jos näin käy, ilmoita meille. Toinen suuri vaikutus nettoarvoosi ovat verot. Maissa, kuten Yhdysvalloissa, joissa on yleistä, että veroja ei sisällytetä hintaan, tämä ei vaikuta hintaan, mutta maissa, joissa on yleistä, että veroja sisällytetään hintaan (kuten EU:ssa), sinun on otettava huomioon oman maasi arvonlisävero, kun määrität tilauksen hintaa.',
     'payment.fanClub.learnStripeFees': 'Lue lisää Stripe-maksuista.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': 'Huomioithan, että tämä on arvio ja todellinen Stripe-maksu voi vaihdella asiakkaan maksutyypin ja maksuportin lisämaksujen sekä sovellettavien verojen perusteella.',
     'payment.fanClub.perks': 'Edut',
     'stripeConnect.settings.notifications': 'Ilmoitukset Stripeltä',
     'plans.pricePerMonth': 'Summa kuukaudessa',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': 'Tilaajat',
     'plans.fanClub.activatedLabel': 'Fan Club aktivointi',
     'plans.fanClub.inactiveWarning': 'Faniklubisi ei ole vielä aktivoitu. Voit kuitenkin valmistella suunnitelmia, ja kun olet valmis, voit aktivoida sen asetuksissa.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.editTier': 'Muokkaa tasoa',
+    'plans.deletePlan.modalAria': 'Poista suunnitelman vahvistus',
     'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
     'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.paymentDescriptorMinimal': '{username} faniklubi',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - kirjailijan faniklubi',
+    'payment.fanClub.perMonth': '{amount} / kuukaudessa',
+    'plans.fanClub.notCreated': 'Hups! Jokin meni pieleen ja faniklubisi ei saanut luotua, kun sen olisi pitänyt, mutta älä huoli, meillä on varasuunnitelma valmiina! Klikkaa vain alla olevaa painiketta ja olet valmis!',
+    'plans.fanClub.create': 'Luo faniklubi'
 };
