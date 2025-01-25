@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Δεν είναι έργο συντεχνίας',
     'org.workshop.caption': 'Ιδιοκτησία συντεχνίας',
     'org.workshop.title': 'Εργαστήριο Οργάνωσης',
-    'org.title': 'Οργάνωση'
+    'org.title': 'Οργάνωση',
+    'org.hall.title': '{orgName} αίθουσα μελών',
+    'org.member.leave': 'Αφήστε την οργάνωση',
+    'org.member.leaveModalTitle': 'Επιβεβαίωση αποχώρησης οργανισμού',
+    'org.member.leaveModalHeading': 'Είσαι σίγουρος ότι θέλεις να φύγεις {orgName}',
+    'org.member.leaveModalExplain': 'Μόλις αποχωρήσετε από τον οργανισμό, θα χάσετε την πρόσβασή σας σε όλους τους σχετικούς πόρους και τα έργα του οργανισμού. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.'
 };
