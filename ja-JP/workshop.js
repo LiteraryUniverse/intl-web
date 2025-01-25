@@ -278,5 +278,7 @@ export default {
     'workshop.cover.edit': 'カバーの変更',
     'workshop.collaborator.leave': 'プロジェクト',
     'workshop.collaborator.leaveTitle': '{workName}。',
-    'workshop.collaborator.leaveExplained': 'プロジェクトを離脱すると、すべてのアクセス、関連付け、権限が失われます。これが何を意味するのかよくわからない場合は、おそらくこれをクリックする必要はないでしょう。'
+    'workshop.collaborator.leaveExplained': 'プロジェクトを離脱すると、すべてのアクセス、関連付け、権限が失われます。これが何を意味するのかよくわからない場合は、おそらくこれをクリックする必要はないでしょう。',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };
