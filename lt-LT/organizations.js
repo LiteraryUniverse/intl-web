@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Ne gildijos darbas',
     'org.workshop.caption': 'Gildijos nuosavybė',
     'org.workshop.title': 'Organizacijos dirbtuvės',
-    'org.title': 'Organizacija'
+    'org.title': 'Organizacija',
+    'org.hall.title': '{orgName} narių salė',
+    'org.member.leave': 'Atostogų organizavimas',
+    'org.member.leaveModalTitle': 'Išvykimo iš organizacijos patvirtinimas',
+    'org.member.leaveModalHeading': 'Ar tikrai norite palikti {orgName}',
+    'org.member.leaveModalExplain': 'Pasitraukę iš organizacijos neteksite prieigos prie visų susijusių organizacijos išteklių ir darbų. Šio veiksmo atšaukti neįmanoma.'
 };
