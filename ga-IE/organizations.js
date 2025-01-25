@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Not a guild work',
     'org.workshop.caption': 'Úinéireacht an ghiúiré',
     'org.workshop.title': 'Ceardlann Eagraíochta',
-    'org.title': 'Eagraíocht'
+    'org.title': 'Eagraíocht',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };
