@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Donem suport a Youtube, Vimeo i Odysee',
     'workshop.videoTrailer.rumble': 'També donem suport a Rumble, però recorda copiar l\'URL de l\'IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'La teva plataforma de vídeo no hi és? Fes-nos-ho saber a través del nostre <a>feedback</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.'
 };
