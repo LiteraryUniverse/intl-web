@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Youtube, Vimeo ve Odysee\'yi destekliyoruz',
     'workshop.videoTrailer.rumble': 'Rumble\'u da destekliyoruz, ancak IFRAME URL\'sini kopyalamayı unutmayın.',
     'workshop.videoTrailer.suggestPlatforms': 'Video platformunuz eksik mi, bize <a>geri bildirim</a> yoluyla bildirin!',
-    'workshop.cover.edit': 'Kapağı değiştirin'
+    'workshop.cover.edit': 'Kapağı değiştirin',
+    'workshop.collaborator.leave': 'Projeden ayrılın',
+    'workshop.collaborator.leaveTitle': 'Lütfen {workName}adresinden ayrılmak istediğinizi onaylayın.',
+    'workshop.collaborator.leaveExplained': 'Projeden ayrılmak, tüm erişim, ilişkilendirme ve ayrıcalıkları kaybedeceğiniz anlamına gelecektir. Tüm bunların ne anlama geldiğinden emin değilseniz, muhtemelen tıklamak istediğiniz şey bu değildir.'
 };
