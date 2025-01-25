@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Fedélcsere',
     'workshop.collaborator.leave': 'Hagyja el a projektet',
     'workshop.collaborator.leaveTitle': 'Kérjük, erősítse meg, hogy el akarja hagyni a {workName}címet.',
-    'workshop.collaborator.leaveExplained': 'A projekt elhagyása azt jelenti, hogy elveszít minden hozzáférést, társulást és jogosultságot. Ha nem vagy biztos benne, hogy mindez mit jelent, akkor valószínűleg nem erre akartál kattintani.'
+    'workshop.collaborator.leaveExplained': 'A projekt elhagyása azt jelenti, hogy elveszít minden hozzáférést, társulást és jogosultságot. Ha nem vagy biztos benne, hogy mindez mit jelent, akkor valószínűleg nem erre akartál kattintani.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Eltávolítva: {date, date}'
 };
