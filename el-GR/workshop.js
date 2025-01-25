@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Αλλαγή καλύμματος',
     'workshop.collaborator.leave': 'Αφήστε το έργο',
     'workshop.collaborator.leaveTitle': 'Επιβεβαιώστε ότι θέλετε να φύγετε από το {workName}',
-    'workshop.collaborator.leaveExplained': 'Η αποχώρηση από το έργο σημαίνει ότι θα χάσετε κάθε πρόσβαση, συσχέτιση και προνόμιο. Αν δεν είστε σίγουροι τι σημαίνουν όλα αυτά, τότε μάλλον δεν είναι αυτό που θέλατε να κάνετε κλικ.'
+    'workshop.collaborator.leaveExplained': 'Η αποχώρηση από το έργο σημαίνει ότι θα χάσετε κάθε πρόσβαση, συσχέτιση και προνόμιο. Αν δεν είστε σίγουροι τι σημαίνουν όλα αυτά, τότε μάλλον δεν είναι αυτό που θέλατε να κάνετε κλικ.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Αφαιρέθηκε στις {date, date}'
 };
