@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Ganti penutup',
     'workshop.collaborator.leave': 'Meninggalkan proyek',
     'workshop.collaborator.leaveTitle': 'Mohon konfirmasi bahwa Anda ingin meninggalkan {workName}',
-    'workshop.collaborator.leaveExplained': 'Keluar dari proyek berarti Anda akan kehilangan semua akses, asosiasi, dan hak istimewa. Jika Anda tidak yakin apa artinya semua ini, mungkin ini bukan yang ingin Anda klik.'
+    'workshop.collaborator.leaveExplained': 'Keluar dari proyek berarti Anda akan kehilangan semua akses, asosiasi, dan hak istimewa. Jika Anda tidak yakin apa artinya semua ini, mungkin ini bukan yang ingin Anda klik.',
+    'workshop.collaborators.leftInfo': 'Kiri pada {date, date}',
+    'workshop.collaborators.removedInfo': 'Dihapus di {date, date}'
 };
