@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Змініть кришку',
     'workshop.collaborator.leave': 'Проєкт "Залишити',
     'workshop.collaborator.leaveTitle': 'Будь ласка, підтвердіть, що ви хочете залишити {workName}',
-    'workshop.collaborator.leaveExplained': 'Вихід з проекту означатиме, що ви втратите весь доступ, асоціації та привілеї. Якщо ви не впевнені, що все це означає, то, ймовірно, це не те, що ви хотіли натиснути.'
+    'workshop.collaborator.leaveExplained': 'Вихід з проекту означатиме, що ви втратите весь доступ, асоціації та привілеї. Якщо ви не впевнені, що все це означає, то, ймовірно, це не те, що ви хотіли натиснути.',
+    'workshop.collaborators.leftInfo': 'Зліва на {date, date}',
+    'workshop.collaborators.removedInfo': 'Видалено на {date, date}'
 };
