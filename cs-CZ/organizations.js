@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Není to práce guildy',
     'org.workshop.caption': 'Vlastnictví guildy',
     'org.workshop.title': 'Organizační workshop',
-    'org.title': 'Organizace'
+    'org.title': 'Organizace',
+    'org.hall.title': '{orgName} členská hala',
+    'org.member.leave': 'Organizace odchodu',
+    'org.member.leaveModalTitle': 'Potvrzení o odchodu z organizace',
+    'org.member.leaveModalHeading': 'Jste si jistý, že chcete opustit {orgName}',
+    'org.member.leaveModalExplain': 'Jakmile organizaci opustíte, ztratíte přístup ke všem přidruženým zdrojům a pracím organizace. Tuto akci nelze vzít zpět.'
 };
