@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Geen gilde werk',
     'org.workshop.caption': 'Gilde eigendom',
     'org.workshop.title': 'Organisatieworkshop',
-    'org.title': 'Organisatie'
+    'org.title': 'Organisatie',
+    'org.hall.title': '{orgName} ledenhal',
+    'org.member.leave': 'Verloforganisatie',
+    'org.member.leaveModalTitle': 'Bevestiging verlaten organisatie',
+    'org.member.leaveModalHeading': 'Weet u zeker dat u weg wilt van {orgName}',
+    'org.member.leaveModalExplain': 'Zodra u de organisatie verlaat, verliest u de toegang tot alle bijbehorende bronnen en werken van de organisatie. Deze actie kan niet ongedaan worden gemaakt.'
 };
