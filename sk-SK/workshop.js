@@ -290,5 +290,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Podporujeme Youtube, Vimeo a Odysee',
     'workshop.videoTrailer.rumble': 'Podporujeme aj Rumble, ale nezabudnite skopírovať IFRAME URL.',
     'workshop.videoTrailer.suggestPlatforms': 'Ak chýba vaša video platforma, dajte nám vedieť cez našu <a>spätnú väzbu</a>!',
-    'workshop.cover.edit': 'Zmeniť obal'
+    'workshop.cover.edit': 'Zmeniť obal',
+    'workshop.collaborator.leave': 'Opustite projekt',
+    'workshop.collaborator.leaveTitle': 'Potvrďte, že chcete opustiť stránku {workName}',
+    'workshop.collaborator.leaveExplained': 'Odchod z projektu znamená, že stratíte všetky prístupy, asociácie a oprávnenia. Ak si nie ste istí, čo to všetko znamená, potom to pravdepodobne nie je to, na čo ste chceli kliknúť.'
 };
