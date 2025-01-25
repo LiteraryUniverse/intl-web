@@ -353,5 +353,8 @@ export default {
     'We also support Rumble, but remember to copy the IFRAME URL.',
   'workshop.videoTrailer.suggestPlatforms':
     'Is your video platform missing, let us know via our <a>feedback</a>!',
-  'workshop.cover.edit': 'Change cover'
+  'workshop.cover.edit': 'Change cover',
+  'workshop.collaborator.leave': 'Leave project',
+  'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+  'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
 }
