@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'نحن ندعم يوتيوب، فيميو وأوديسي',
     'workshop.videoTrailer.rumble': 'ندعم أيضًا Rumble، ولكن تذكر نسخ عنوان URL الإطار.',
     'workshop.videoTrailer.suggestPlatforms': 'هل تفتقد منصتك للفيديو؟ أخبرنا عبر <a>ردود الفعل</a> الخاصة بنا!',
-    'workshop.cover.edit': 'تغيير الغطاء'
+    'workshop.cover.edit': 'تغيير الغطاء',
+    'workshop.collaborator.leave': 'مشروع الإجازة',
+    'workshop.collaborator.leaveTitle': 'يرجى تأكيد رغبتك في المغادرة {workName}',
+    'workshop.collaborator.leaveExplained': 'ستعني مغادرة المشروع أنك ستفقد كل الوصول والارتباط والامتيازات. إذا لم تكن متأكدًا مما يعنيه كل هذا، فربما هذا ليس ما تريد النقر عليه.'
 };
