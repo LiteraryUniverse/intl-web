@@ -286,5 +286,7 @@ export default {
     'workshop.cover.edit': 'Mudar a cobertura',
     'workshop.collaborator.leave': 'Sair do projeto',
     'workshop.collaborator.leaveTitle': 'Confirme que o senhor deseja sair do site {workName}',
-    'workshop.collaborator.leaveExplained': 'Sair do projeto significará que o senhor perderá todo o acesso, associação e privilégios. Se o senhor não tiver certeza do que isso significa, provavelmente não era nisso que queria clicar.'
+    'workshop.collaborator.leaveExplained': 'Sair do projeto significará que o senhor perderá todo o acesso, associação e privilégios. Se o senhor não tiver certeza do que isso significa, provavelmente não era nisso que queria clicar.',
+    'workshop.collaborators.leftInfo': 'Esquerda em {date, date}',
+    'workshop.collaborators.removedInfo': 'Removido em {date, date}'
 };
