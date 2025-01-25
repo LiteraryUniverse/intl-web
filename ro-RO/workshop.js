@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Noi susținem Youtube, Vimeo și Odysee',
     'workshop.videoTrailer.rumble': 'Noi susținem și Rumble, dar nu uitați să copiați URL-ul IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Platforma ta video lipsește, anunță-ne prin <a>feedback</a>!',
-    'workshop.cover.edit': 'Modificarea capacului'
+    'workshop.cover.edit': 'Modificarea capacului',
+    'workshop.collaborator.leave': 'Părăsiți proiectul',
+    'workshop.collaborator.leaveTitle': 'Vă rugăm să confirmați că doriți să părăsiți {workName}',
+    'workshop.collaborator.leaveExplained': 'Părăsirea proiectului va însemna că veți pierde tot accesul, asocierea și privilegiile. Dacă nu sunteți sigur ce înseamnă toate acestea, atunci probabil că nu este ceea ce doreați să faceți clic.'
 };
