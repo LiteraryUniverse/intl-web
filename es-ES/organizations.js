@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'No es una obra gremial',
     'org.workshop.caption': 'Propiedad del gremio',
     'org.workshop.title': 'Taller de organizaciones',
-    'org.title': 'Organizaciones'
+    'org.title': 'Organizaciones',
+    'org.hall.title': '{orgName} sala de miembros',
+    'org.member.leave': 'Dejar la organización',
+    'org.member.leaveModalTitle': 'Confirmación de salida de la organización',
+    'org.member.leaveModalHeading': '¿Está seguro de que quiere dejar {orgName}',
+    'org.member.leaveModalExplain': 'Una vez que abandone la organización, perderá el acceso a todos los recursos y trabajos asociados a la misma. Esta acción no puede deshacerse.'
 };
