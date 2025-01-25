@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Non è un lavoro di gilda',
     'org.workshop.caption': 'Proprietà della gilda',
     'org.workshop.title': 'Workshop dell\'organizzazione',
-    'org.title': 'Organizzazione'
+    'org.title': 'Organizzazione',
+    'org.hall.title': '{orgName} sala soci',
+    'org.member.leave': 'Lasciare l\'organizzazione',
+    'org.member.leaveModalTitle': 'Conferma della partenza dell\'organizzazione',
+    'org.member.leaveModalHeading': 'È sicuro di voler lasciare {orgName}',
+    'org.member.leaveModalExplain': 'Una volta lasciata l\'organizzazione, perderà l\'accesso a tutte le risorse e i lavori associati all\'organizzazione. Questa azione non può essere annullata.'
 };
