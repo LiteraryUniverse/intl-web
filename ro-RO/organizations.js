@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Nu este o muncă de breaslă',
     'org.workshop.caption': 'Proprietatea breslei',
     'org.workshop.title': 'Atelier de organizare',
-    'org.title': 'Organizație'
+    'org.title': 'Organizație',
+    'org.hall.title': '{orgName} sala membrilor',
+    'org.member.leave': 'Părăsiți organizația',
+    'org.member.leaveModalTitle': 'Confirmarea părăsirii organizației',
+    'org.member.leaveModalHeading': 'Ești sigur că vrei să pleci {orgName}',
+    'org.member.leaveModalExplain': 'Odată ce părăsiți organizația, veți pierde accesul la toate resursele și lucrările asociate organizației. Această acțiune nu poate fi anulată.'
 };
