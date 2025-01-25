@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': '我們支援Youtube、Vimeo和Odysee',
     'workshop.videoTrailer.rumble': '我們也支援Rumble，但請記得複製IFRAME的網址。',
     'workshop.videoTrailer.suggestPlatforms': '如果您的視頻平台缺失，請通過我們的<a>反饋</a>告訴我們！',
-    'workshop.cover.edit': '變更封面'
+    'workshop.cover.edit': '變更封面',
+    'workshop.collaborator.leave': '離開專案',
+    'workshop.collaborator.leaveTitle': '請確認您要離開 {workName}',
+    'workshop.collaborator.leaveExplained': '離開專案意味著您將喪失所有存取權、關聯和權限。如果您不確定這一切的意義，那麼這可能不是您想要點選的。'
 };
