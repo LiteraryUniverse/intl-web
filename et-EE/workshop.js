@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Toetame Youtube\'i, Vimeot ja Odyseed',
     'workshop.videoTrailer.rumble': 'Toetame ka Rumble\'i, kuid ära unusta IFRAME URL-i kopeerida.',
     'workshop.videoTrailer.suggestPlatforms': 'Kas sinu videplatvorm puudub? Anna meile teada meie <a>tagasiside</a> kaudu!',
-    'workshop.cover.edit': 'Muuda katet'
+    'workshop.cover.edit': 'Muuda katet',
+    'workshop.collaborator.leave': 'Jäta projekt',
+    'workshop.collaborator.leaveTitle': 'Palun kinnitage, et soovite lahkuda {workName}',
+    'workshop.collaborator.leaveExplained': 'Projektist lahkumine tähendab, et kaotate kõik juurdepääsu, assotsiatsiooni ja privileegid. Kui te ei ole kindel, mida see kõik tähendab, siis tõenäoliselt ei ole see see see, mida te tahtsite klõpsata.'
 };
