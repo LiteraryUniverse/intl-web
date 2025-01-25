@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Sinusuportahan namin ang Youtube, Vimeo at Odysee',
     'workshop.videoTrailer.rumble': 'Sinusuportahan din namin ang Rumble, ngunit tandaan na kailangan mong kopyahin ang IFRAME URL.',
     'workshop.videoTrailer.suggestPlatforms': 'Kung nawawala ang iyong platform ng video, ipaalam sa amin sa pamamagitan ng aming <a>feedback</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.'
 };
