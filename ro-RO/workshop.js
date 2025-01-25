@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Modificarea capacului',
     'workshop.collaborator.leave': 'Părăsiți proiectul',
     'workshop.collaborator.leaveTitle': 'Vă rugăm să confirmați că doriți să părăsiți {workName}',
-    'workshop.collaborator.leaveExplained': 'Părăsirea proiectului va însemna că veți pierde tot accesul, asocierea și privilegiile. Dacă nu sunteți sigur ce înseamnă toate acestea, atunci probabil că nu este ceea ce doreați să faceți clic.'
+    'workshop.collaborator.leaveExplained': 'Părăsirea proiectului va însemna că veți pierde tot accesul, asocierea și privilegiile. Dacă nu sunteți sigur ce înseamnă toate acestea, atunci probabil că nu este ceea ce doreați să faceți clic.',
+    'workshop.collaborators.leftInfo': 'Stânga pe {date, date}',
+    'workshop.collaborators.removedInfo': 'Eliminat pe {date, date}'
 };
