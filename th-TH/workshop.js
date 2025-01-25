@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'เราสนับสนุน Youtube, Vimeo และ Odysee',
     'workshop.videoTrailer.rumble': 'เรายังสนับสนุน Rumble ด้วย แต่อย่าลืมคัดลอก URL ของ IFRAME',
     'workshop.videoTrailer.suggestPlatforms': 'หากแพลตฟอร์มวิดีโอของคุณหายไป โปรดแจ้งให้เราทราบผ่านทาง <a>คำติชม</a> ของเรา!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.'
 };
