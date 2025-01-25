@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Ändra täckning',
     'workshop.collaborator.leave': 'Lämna projektet',
     'workshop.collaborator.leaveTitle': 'Vänligen bekräfta att du vill lämna {workName}',
-    'workshop.collaborator.leaveExplained': 'Att lämna projektet innebär att du förlorar all tillgång, association och privilegier. Om du inte är säker på vad allt detta innebär är det förmodligen inte det här du ville klicka på.'
+    'workshop.collaborator.leaveExplained': 'Att lämna projektet innebär att du förlorar all tillgång, association och privilegier. Om du inte är säker på vad allt detta innebär är det förmodligen inte det här du ville klicka på.',
+    'workshop.collaborators.leftInfo': 'Vänster på {date, date}',
+    'workshop.collaborators.removedInfo': 'Borttagen på {date, date}'
 };
