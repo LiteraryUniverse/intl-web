@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Nie je to práca guildy',
     'org.workshop.caption': 'Vlastníctvo guildy',
     'org.workshop.title': 'Workshop organizácií',
-    'org.title': 'Organizácie'
+    'org.title': 'Organizácie',
+    'org.hall.title': '{orgName} členská hala',
+    'org.member.leave': 'Organizácia dovolenky',
+    'org.member.leaveModalTitle': 'Potvrdenie o opustení organizácie',
+    'org.member.leaveModalHeading': 'Ste si istí, že chcete odísť {orgName}',
+    'org.member.leaveModalExplain': 'Po odchode z organizácie stratíte prístup ku všetkým súvisiacim zdrojom a prácam organizácie. Túto akciu nemožno vrátiť späť.'
 };
