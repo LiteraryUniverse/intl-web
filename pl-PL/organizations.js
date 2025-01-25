@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Nie jest to praca w gildii',
     'org.workshop.caption': 'Własność gildii',
     'org.workshop.title': 'Warsztat dla organizacji',
-    'org.title': 'Organizacje'
+    'org.title': 'Organizacje',
+    'org.hall.title': '{orgName} sala dla członków',
+    'org.member.leave': 'Proszę zostawić organizację',
+    'org.member.leaveModalTitle': 'Potwierdzenie opuszczenia organizacji',
+    'org.member.leaveModalHeading': 'Czy na pewno chce Pan opuścić {orgName}?',
+    'org.member.leaveModalExplain': 'Po opuszczeniu organizacji utracą Państwo dostęp do wszystkich powiązanych zasobów i prac organizacji. Tego działania nie można cofnąć.'
 };
