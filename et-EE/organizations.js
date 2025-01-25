@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Mitte gildi töö',
     'org.workshop.caption': 'Gildi omandus',
     'org.workshop.title': 'Organisatsiooni töötuba',
-    'org.title': 'Organisatsioon'
+    'org.title': 'Organisatsioon',
+    'org.hall.title': '{orgName} liikmete saal',
+    'org.member.leave': 'Jäta korraldus',
+    'org.member.leaveModalTitle': 'Organisatsioonist lahkumise kinnitus',
+    'org.member.leaveModalHeading': 'Oled sa kindel, et tahad lahkuda {orgName}',
+    'org.member.leaveModalExplain': 'Kui lahkute organisatsioonist, kaotate juurdepääsu kõigile organisatsiooni seotud ressurssidele ja töödele. Seda tegevust ei saa tagasi võtta.'
 };
