@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Pakeiskite dangtį',
     'workshop.collaborator.leave': 'Palikite projektą',
     'workshop.collaborator.leaveTitle': 'Patvirtinkite, kad norite palikti {workName}',
-    'workshop.collaborator.leaveExplained': 'Palikę projektą neteksite visų prieigų, asociacijų ir privilegijų. Jei nesate tikri, ką visa tai reiškia, tikriausiai tai nėra tai, ką norėjote spustelėti.'
+    'workshop.collaborator.leaveExplained': 'Palikę projektą neteksite visų prieigų, asociacijų ir privilegijų. Jei nesate tikri, ką visa tai reiškia, tikriausiai tai nėra tai, ką norėjote spustelėti.',
+    'workshop.collaborators.leftInfo': 'Įjungta kairė {date, date}',
+    'workshop.collaborators.removedInfo': 'Pašalinta iš {date, date}'
 };
