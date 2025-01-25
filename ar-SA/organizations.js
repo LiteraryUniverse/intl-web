@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'ليس عملاً نقابيًا',
     'org.workshop.caption': 'ملكية النقابة',
     'org.workshop.title': 'ورشة عمل المنظمة',
-    'org.title': 'المنظمة'
+    'org.title': 'المنظمة',
+    'org.hall.title': '{orgName} قاعة الأعضاء',
+    'org.member.leave': 'تنظيم الإجازات',
+    'org.member.leaveModalTitle': 'تأكيد ترك المنظمة المغادرة',
+    'org.member.leaveModalHeading': 'هل أنت متأكد أنك تريد المغادرة {orgName}',
+    'org.member.leaveModalExplain': 'بمجرد مغادرة المؤسسة ستفقد إمكانية الوصول إلى جميع الموارد والأعمال المرتبطة بالمؤسسة. لا يمكن التراجع عن هذا الإجراء.'
 };
