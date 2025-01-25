@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Vi understøtter Youtube, Vimeo og Odysee',
     'workshop.videoTrailer.rumble': 'Vi understøtter også Rumble, men husk at kopiere IFRAME URL\'en.',
     'workshop.videoTrailer.suggestPlatforms': 'Mangler din video platform, så lad os det vide via vores <a>feedback</a>!',
-    'workshop.cover.edit': 'Skift dækning'
+    'workshop.cover.edit': 'Skift dækning',
+    'workshop.collaborator.leave': 'Forlad projektet',
+    'workshop.collaborator.leaveTitle': 'Bekræft venligst, at du ønsker at forlade {workName}',
+    'workshop.collaborator.leaveExplained': 'Hvis du forlader projektet, mister du al adgang, tilknytning og privilegier. Hvis du ikke er sikker på, hvad alt dette betyder, så er det nok ikke det, du ville klikke på.'
 };
