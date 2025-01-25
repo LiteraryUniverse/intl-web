@@ -293,5 +293,7 @@ export default {
     'workshop.cover.edit': 'Zmeniť obal',
     'workshop.collaborator.leave': 'Opustite projekt',
     'workshop.collaborator.leaveTitle': 'Potvrďte, že chcete opustiť stránku {workName}',
-    'workshop.collaborator.leaveExplained': 'Odchod z projektu znamená, že stratíte všetky prístupy, asociácie a oprávnenia. Ak si nie ste istí, čo to všetko znamená, potom to pravdepodobne nie je to, na čo ste chceli kliknúť.'
+    'workshop.collaborator.leaveExplained': 'Odchod z projektu znamená, že stratíte všetky prístupy, asociácie a oprávnenia. Ak si nie ste istí, čo to všetko znamená, potom to pravdepodobne nie je to, na čo ste chceli kliknúť.',
+    'workshop.collaborators.leftInfo': 'Vľavo na {date, date}',
+    'workshop.collaborators.removedInfo': 'Odstránené na {date, date}'
 };
