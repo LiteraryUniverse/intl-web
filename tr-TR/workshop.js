@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Kapağı değiştirin',
     'workshop.collaborator.leave': 'Projeden ayrılın',
     'workshop.collaborator.leaveTitle': 'Lütfen {workName}adresinden ayrılmak istediğinizi onaylayın.',
-    'workshop.collaborator.leaveExplained': 'Projeden ayrılmak, tüm erişim, ilişkilendirme ve ayrıcalıkları kaybedeceğiniz anlamına gelecektir. Tüm bunların ne anlama geldiğinden emin değilseniz, muhtemelen tıklamak istediğiniz şey bu değildir.'
+    'workshop.collaborator.leaveExplained': 'Projeden ayrılmak, tüm erişim, ilişkilendirme ve ayrıcalıkları kaybedeceğiniz anlamına gelecektir. Tüm bunların ne anlama geldiğinden emin değilseniz, muhtemelen tıklamak istediğiniz şey bu değildir.',
+    'workshop.collaborators.leftInfo': 'Sol açık {date, date}',
+    'workshop.collaborators.removedInfo': 'Kaldırıldı {date, date}'
 };
