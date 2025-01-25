@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'យើងស្គាល់ថាយើងអាចគាំទ្រវីដេម៉ូន Youtube, Vimeo និង Odysee',
     'workshop.videoTrailer.rumble': 'យើងកែប្រែផ្សាយផ្សារ Rumble ផ្សេងៗទៀតផងដែរ។ ប៉ុន្តែកុំភ្លេចចម្លង URL របស់ IFRAME។',
     'workshop.videoTrailer.suggestPlatforms': 'តើមានប្រព័ន្ធវីដេអូរបស់អ្នកខ្វះមែនទេ? សូមប្រាប់យើងតាមរយៈការគាំទ្រ <a>យោបល់</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.'
 };
