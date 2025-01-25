@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Bukan pekerjaan guild',
     'org.workshop.caption': 'Kepemilikan guild',
     'org.workshop.title': 'Workshop Organisasi',
-    'org.title': 'Organisasi'
+    'org.title': 'Organisasi',
+    'org.hall.title': '{orgName} aula anggota',
+    'org.member.leave': 'Meninggalkan organisasi',
+    'org.member.leaveModalTitle': 'Meninggalkan konfirmasi organisasi',
+    'org.member.leaveModalHeading': 'Apakah Anda yakin ingin meninggalkan {orgName}',
+    'org.member.leaveModalExplain': 'Setelah Anda keluar dari organisasi, Anda akan kehilangan akses ke semua sumber daya dan pekerjaan yang terkait dengan organisasi. Tindakan ini tidak dapat dibatalkan.'
 };
