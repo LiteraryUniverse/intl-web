@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'କିମ୍ବା ଗୁଇଲ୍ଡ କାର୍ଯ୍ୟ ନୁହେଁ',
     'org.workshop.caption': 'ଗୁଇଲ୍ଡ ମାଲିକା',
     'org.workshop.title': 'ସଂଗଠନ କାର୍ଯ୍ୟଶାଳା',
-    'org.title': 'ସଂଗଠନ'
+    'org.title': 'ସଂଗଠନ',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };
