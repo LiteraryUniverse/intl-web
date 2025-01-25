@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Не произведение гильдии',
     'org.workshop.caption': 'Владелец гильдии',
     'org.workshop.title': 'Мастерская организации',
-    'org.title': 'Организация'
+    'org.title': 'Организация',
+    'org.hall.title': '{orgName} зал для членов',
+    'org.member.leave': 'Организация отпуска',
+    'org.member.leaveModalTitle': 'Подтверждение ухода из организации',
+    'org.member.leaveModalHeading': 'Вы уверены, что хотите уйти {orgName}',
+    'org.member.leaveModalExplain': 'Как только Вы покинете организацию, Вы потеряете доступ ко всем связанным с ней ресурсам и работам. Это действие нельзя отменить.'
 };
