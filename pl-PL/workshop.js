@@ -283,5 +283,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Wspieramy Youtube, Vimeo i Odysee',
     'workshop.videoTrailer.rumble': 'Wspieramy również Rumble, ale pamiętaj, aby skopiować URL IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Czy brakuje Twojej platformy wideo? Daj nam znać za pośrednictwem naszej <a>informacji zwrotnej</a>!',
-    'workshop.cover.edit': 'Zmiana osłony'
+    'workshop.cover.edit': 'Zmiana osłony',
+    'workshop.collaborator.leave': 'Proszę zostawić projekt',
+    'workshop.collaborator.leaveTitle': 'Proszę potwierdzić, że chcą Państwo opuścić stronę {workName}',
+    'workshop.collaborator.leaveExplained': 'Opuszczenie projektu oznacza utratę wszystkich dostępów, powiązań i uprawnień. Jeśli nie są Państwo pewni, co to wszystko oznacza, to prawdopodobnie nie to chcieli Państwo kliknąć.'
 };
