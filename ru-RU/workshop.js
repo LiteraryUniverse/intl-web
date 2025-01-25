@@ -309,5 +309,7 @@ export default {
     'workshop.cover.edit': 'Сменить обложку',
     'workshop.collaborator.leave': 'Оставьте проект',
     'workshop.collaborator.leaveTitle': 'Пожалуйста, подтвердите, что Вы хотите покинуть сайт {workName}.',
-    'workshop.collaborator.leaveExplained': 'Уход из проекта означает, что Вы потеряете все доступы, ассоциации и привилегии. Если Вы не уверены, что все это значит, то, вероятно, это не то, что Вы хотели нажать.'
+    'workshop.collaborator.leaveExplained': 'Уход из проекта означает, что Вы потеряете все доступы, ассоциации и привилегии. Если Вы не уверены, что все это значит, то, вероятно, это не то, что Вы хотели нажать.',
+    'workshop.collaborators.leftInfo': 'Оставлено на {date, date}',
+    'workshop.collaborators.removedInfo': 'Удалено на {date, date}'
 };
