@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'আমি Youtube, Vimeo আৰু Odysee সমৰ্থন কৰোঁ',
     'workshop.videoTrailer.rumble': 'আমি আপোনালৈ সহায় কৰিমানে Rumble, কিন্তু মনত ধৰি আছক যে IFRAME URL টো কপি কৰিব লাগিব।',
     'workshop.videoTrailer.suggestPlatforms': 'আপোনাৰ ভিডিঅ\' প্লাটফ\'ৰ্ম নাই থাকিলে, আমাৰ লগত যোগান কৰক আমাৰ <a>প্ৰতিক্ৰিয়া</a>ৰ দ্বাৰা!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.'
 };
