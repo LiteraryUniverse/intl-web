@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Mes palaikome Youtube, Vimeo ir Odysee',
     'workshop.videoTrailer.rumble': 'Mes taip pat palaikome Rumble, bet nepamirškite nukopijuoti IFRAME URL.',
     'workshop.videoTrailer.suggestPlatforms': 'Ar jūsų vaizdo platforma trūksta? Praneškite mums per mūsų <a>atsiliepimų</a> sistemą!',
-    'workshop.cover.edit': 'Pakeiskite dangtį'
+    'workshop.cover.edit': 'Pakeiskite dangtį',
+    'workshop.collaborator.leave': 'Palikite projektą',
+    'workshop.collaborator.leaveTitle': 'Patvirtinkite, kad norite palikti {workName}',
+    'workshop.collaborator.leaveExplained': 'Palikę projektą neteksite visų prieigų, asociacijų ir privilegijų. Jei nesate tikri, ką visa tai reiškia, tikriausiai tai nėra tai, ką norėjote spustelėti.'
 };
