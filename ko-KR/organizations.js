@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': '길드 작업이 아닙니다',
     'org.workshop.caption': '길드 소유권',
     'org.workshop.title': '조직 워크샵',
-    'org.title': '조직'
+    'org.title': '조직',
+    'org.hall.title': '{orgName} 멤버스 홀',
+    'org.member.leave': '조직에서 나가기',
+    'org.member.leaveModalTitle': '조직 탈퇴 확인',
+    'org.member.leaveModalHeading': '정말 탈퇴하시겠습니까? {orgName}',
+    'org.member.leaveModalExplain': '조직을 탈퇴하면 조직의 모든 관련 리소스 및 업무에 대한 액세스 권한이 상실됩니다. 이 조치는 되돌릴 수 없습니다.'
 };
