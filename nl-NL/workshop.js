@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Dekking wijzigen',
     'workshop.collaborator.leave': 'Project verlaten',
     'workshop.collaborator.leaveTitle': 'Bevestig dat u {workName}wilt verlaten.',
-    'workshop.collaborator.leaveExplained': 'Als u het project verlaat, verliest u alle toegang, associaties en privileges. Als u niet zeker weet wat dit allemaal betekent, dan is dit waarschijnlijk niet wat u wilde aanklikken.'
+    'workshop.collaborator.leaveExplained': 'Als u het project verlaat, verliest u alle toegang, associaties en privileges. Als u niet zeker weet wat dit allemaal betekent, dan is dit waarschijnlijk niet wat u wilde aanklikken.',
+    'workshop.collaborators.leftInfo': 'Links op {date, date}',
+    'workshop.collaborators.removedInfo': 'Verwijderd op {date, date}'
 };
