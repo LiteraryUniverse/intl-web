@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Não é um trabalho de guilda',
     'org.workshop.caption': 'Propriedade da guilda',
     'org.workshop.title': 'Oficina da organização',
-    'org.title': 'Organização'
+    'org.title': 'Organização',
+    'org.hall.title': '{orgName} salão dos membros',
+    'org.member.leave': 'Deixar a organização',
+    'org.member.leaveModalTitle': 'Confirmação de saída da organização',
+    'org.member.leaveModalHeading': 'O senhor tem certeza de que quer ir embora {orgName}',
+    'org.member.leaveModalExplain': 'Ao deixar a organização, o senhor perderá o acesso a todos os recursos e trabalhos associados à organização. Essa ação não pode ser desfeita.'
 };
