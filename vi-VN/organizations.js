@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Không phải là công việc của hội',
     'org.workshop.caption': 'Sở hữu của hội',
     'org.workshop.title': 'Buổi hội thảo của tổ chức',
-    'org.title': 'Tổ chức'
+    'org.title': 'Tổ chức',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };
