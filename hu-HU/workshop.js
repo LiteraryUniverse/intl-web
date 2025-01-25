@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Támogatjuk a Youtube-ot, a Vimeo-t és az Odysee-t',
     'workshop.videoTrailer.rumble': 'Támogatjuk a Rumble-t is, de ne felejtsd el másolni az IFRAME URL-t.',
     'workshop.videoTrailer.suggestPlatforms': 'Hiányzik a videóplatformod? Tudasd velünk a <a>visszajelzés</a> segítségével!',
-    'workshop.cover.edit': 'Fedélcsere'
+    'workshop.cover.edit': 'Fedélcsere',
+    'workshop.collaborator.leave': 'Hagyja el a projektet',
+    'workshop.collaborator.leaveTitle': 'Kérjük, erősítse meg, hogy el akarja hagyni a {workName}címet.',
+    'workshop.collaborator.leaveExplained': 'A projekt elhagyása azt jelenti, hogy elveszít minden hozzáférést, társulást és jogosultságot. Ha nem vagy biztos benne, hogy mindez mit jelent, akkor valószínűleg nem erre akartál kattintani.'
 };
