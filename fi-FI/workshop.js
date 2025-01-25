@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Tuetamme Youtubea, Vimeota ja Odyseetä',
     'workshop.videoTrailer.rumble': 'Tuetamme myös Rumblea, mutta muista kopioida IFRAME-URL.',
     'workshop.videoTrailer.suggestPlatforms': 'Puuttuuko videoiden alusta? Kerro siitä meille <a>palaute</a>!',
-    'workshop.cover.edit': 'Vaihda kansi'
+    'workshop.cover.edit': 'Vaihda kansi',
+    'workshop.collaborator.leave': 'Jätä projekti',
+    'workshop.collaborator.leaveTitle': 'Vahvista, että haluat lähteä {workName}',
+    'workshop.collaborator.leaveExplained': 'Projektista poistuminen tarkoittaa, että menetät kaikki käyttöoikeudet, yhdistykset ja etuoikeudet. Jos et ole varma, mitä tämä kaikki tarkoittaa, et varmaankaan halunnut klikata tätä.'
 };
