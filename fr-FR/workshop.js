@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Nous soutenons Youtube, Vimeo et Odysee',
     'workshop.videoTrailer.rumble': 'Nous soutenons également Rumble, mais n\'oubliez pas de copier l\'URL de l\'IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Votre plateforme vidéo est-elle manquante ? Faites-le nous savoir via notre <a>feedback</a> !',
-    'workshop.cover.edit': 'Modifier la couverture'
+    'workshop.cover.edit': 'Modifier la couverture',
+    'workshop.collaborator.leave': 'Quitter le projet',
+    'workshop.collaborator.leaveTitle': 'Veuillez confirmer que vous souhaitez quitter {workName}',
+    'workshop.collaborator.leaveExplained': 'En quittant le projet, vous perdrez tous vos accès, associations et privilèges. Si vous n\'êtes pas sûr de ce que cela signifie, ce n\'est probablement pas ce que vous vouliez cliquer.'
 };
