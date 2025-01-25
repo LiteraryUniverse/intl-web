@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'تغيير الغطاء',
     'workshop.collaborator.leave': 'مشروع الإجازة',
     'workshop.collaborator.leaveTitle': 'يرجى تأكيد رغبتك في المغادرة {workName}',
-    'workshop.collaborator.leaveExplained': 'ستعني مغادرة المشروع أنك ستفقد كل الوصول والارتباط والامتيازات. إذا لم تكن متأكدًا مما يعنيه كل هذا، فربما هذا ليس ما تريد النقر عليه.'
+    'workshop.collaborator.leaveExplained': 'ستعني مغادرة المشروع أنك ستفقد كل الوصول والارتباط والامتيازات. إذا لم تكن متأكدًا مما يعنيه كل هذا، فربما هذا ليس ما تريد النقر عليه.',
+    'workshop.collaborators.leftInfo': 'يسار على {date, date}~',
+    'workshop.collaborators.removedInfo': 'تمت الإزالة على {date, date}~'
 };
