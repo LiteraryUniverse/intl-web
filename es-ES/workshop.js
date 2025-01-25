@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Cambiar cubierta',
     'workshop.collaborator.leave': 'Dejar el proyecto',
     'workshop.collaborator.leaveTitle': 'Por favor, confirme que desea abandonar {workName}',
-    'workshop.collaborator.leaveExplained': 'Abandonar el proyecto significará que perderá todo acceso, asociación y privilegios. Si no está seguro de lo que todo esto significa, probablemente no sea esto lo que quería pulsar.'
+    'workshop.collaborator.leaveExplained': 'Abandonar el proyecto significará que perderá todo acceso, asociación y privilegios. Si no está seguro de lo que todo esto significa, probablemente no sea esto lo que quería pulsar.',
+    'workshop.collaborators.leftInfo': 'Izquierda en {date, date}',
+    'workshop.collaborators.removedInfo': 'Eliminado en {date, date}'
 };
