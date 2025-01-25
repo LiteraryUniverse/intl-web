@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Muuda katet',
     'workshop.collaborator.leave': 'Jäta projekt',
     'workshop.collaborator.leaveTitle': 'Palun kinnitage, et soovite lahkuda {workName}',
-    'workshop.collaborator.leaveExplained': 'Projektist lahkumine tähendab, et kaotate kõik juurdepääsu, assotsiatsiooni ja privileegid. Kui te ei ole kindel, mida see kõik tähendab, siis tõenäoliselt ei ole see see see, mida te tahtsite klõpsata.'
+    'workshop.collaborator.leaveExplained': 'Projektist lahkumine tähendab, et kaotate kõik juurdepääsu, assotsiatsiooni ja privileegid. Kui te ei ole kindel, mida see kõik tähendab, siis tõenäoliselt ei ole see see see, mida te tahtsite klõpsata.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Eemaldatud aadressil {date, date}'
 };
