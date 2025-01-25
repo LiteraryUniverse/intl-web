@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': '變更封面',
     'workshop.collaborator.leave': '離開專案',
     'workshop.collaborator.leaveTitle': '請確認您要離開 {workName}',
-    'workshop.collaborator.leaveExplained': '離開專案意味著您將喪失所有存取權、關聯和權限。如果您不確定這一切的意義，那麼這可能不是您想要點選的。'
+    'workshop.collaborator.leaveExplained': '離開專案意味著您將喪失所有存取權、關聯和權限。如果您不確定這一切的意義，那麼這可能不是您想要點選的。',
+    'workshop.collaborators.leftInfo': '左開 {date, date}',
+    'workshop.collaborators.removedInfo': '於 {date, date}移除'
 };
