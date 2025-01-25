@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Υποστηρίζουμε το Youtube, το Vimeo και το Odysee',
     'workshop.videoTrailer.rumble': 'Υποστηρίζουμε επίσης το Rumble, αλλά θυμηθείτε να αντιγράψετε το URL του IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Λείπει η πλατφόρμα βίντεο σας; Ενημερώστε μας μέσω της <a>ανατροφοδότησης</a> μας!',
-    'workshop.cover.edit': 'Αλλαγή καλύμματος'
+    'workshop.cover.edit': 'Αλλαγή καλύμματος',
+    'workshop.collaborator.leave': 'Αφήστε το έργο',
+    'workshop.collaborator.leaveTitle': 'Επιβεβαιώστε ότι θέλετε να φύγετε από το {workName}',
+    'workshop.collaborator.leaveExplained': 'Η αποχώρηση από το έργο σημαίνει ότι θα χάσετε κάθε πρόσβαση, συσχέτιση και προνόμιο. Αν δεν είστε σίγουροι τι σημαίνουν όλα αυτά, τότε μάλλον δεν είναι αυτό που θέλατε να κάνετε κλικ.'
 };
