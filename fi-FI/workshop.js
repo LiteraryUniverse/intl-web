@@ -290,5 +290,7 @@ export default {
     'workshop.cover.edit': 'Vaihda kansi',
     'workshop.collaborator.leave': 'Jätä projekti',
     'workshop.collaborator.leaveTitle': 'Vahvista, että haluat lähteä {workName}',
-    'workshop.collaborator.leaveExplained': 'Projektista poistuminen tarkoittaa, että menetät kaikki käyttöoikeudet, yhdistykset ja etuoikeudet. Jos et ole varma, mitä tämä kaikki tarkoittaa, et varmaankaan halunnut klikata tätä.'
+    'workshop.collaborator.leaveExplained': 'Projektista poistuminen tarkoittaa, että menetät kaikki käyttöoikeudet, yhdistykset ja etuoikeudet. Jos et ole varma, mitä tämä kaikki tarkoittaa, et varmaankaan halunnut klikata tätä.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Poistettu osoitteessa {date, date}'
 };
