@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Bir lonca çalışması değil',
     'org.workshop.caption': 'Lonca sahipliği',
     'org.workshop.title': 'Kuruluş atölyesi',
-    'org.title': 'Kuruluş'
+    'org.title': 'Kuruluş',
+    'org.hall.title': '{orgName} üye salonu',
+    'org.member.leave': 'Organizasyondan ayrılın',
+    'org.member.leaveModalTitle': 'Organizasyon onayından ayrılma',
+    'org.member.leaveModalHeading': 'Ayrılmak istediğine emin misin {orgName}',
+    'org.member.leaveModalExplain': 'Kuruluştan ayrıldığınızda kuruluşun tüm ilişkili kaynaklarına ve çalışmalarına erişiminizi kaybedersiniz. Bu eylem geri alınamaz.'
 };
