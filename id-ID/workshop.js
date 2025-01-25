@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Kami mendukung Youtube, Vimeo, dan Odysee',
     'workshop.videoTrailer.rumble': 'Kami juga mendukung Rumble, tetapi ingat untuk menyalin URL IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Apakah platform video Anda tidak ada, beri tahu kami melalui <a>umpan balik</a> kami!',
-    'workshop.cover.edit': 'Ganti penutup'
+    'workshop.cover.edit': 'Ganti penutup',
+    'workshop.collaborator.leave': 'Meninggalkan proyek',
+    'workshop.collaborator.leaveTitle': 'Mohon konfirmasi bahwa Anda ingin meninggalkan {workName}',
+    'workshop.collaborator.leaveExplained': 'Keluar dari proyek berarti Anda akan kehilangan semua akses, asosiasi, dan hak istimewa. Jika Anda tidak yakin apa artinya semua ini, mungkin ini bukan yang ingin Anda klik.'
 };
