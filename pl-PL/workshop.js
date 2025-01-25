@@ -286,5 +286,7 @@ export default {
     'workshop.cover.edit': 'Zmiana osłony',
     'workshop.collaborator.leave': 'Proszę zostawić projekt',
     'workshop.collaborator.leaveTitle': 'Proszę potwierdzić, że chcą Państwo opuścić stronę {workName}',
-    'workshop.collaborator.leaveExplained': 'Opuszczenie projektu oznacza utratę wszystkich dostępów, powiązań i uprawnień. Jeśli nie są Państwo pewni, co to wszystko oznacza, to prawdopodobnie nie to chcieli Państwo kliknąć.'
+    'workshop.collaborator.leaveExplained': 'Opuszczenie projektu oznacza utratę wszystkich dostępów, powiązań i uprawnień. Jeśli nie są Państwo pewni, co to wszystko oznacza, to prawdopodobnie nie to chcieli Państwo kliknąć.',
+    'workshop.collaborators.leftInfo': 'Włączony {date, date}',
+    'workshop.collaborators.removedInfo': 'Usunięto na {date, date}'
 };
