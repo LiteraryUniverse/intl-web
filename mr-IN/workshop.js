@@ -287,5 +287,8 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'आम्ही Youtube, Vimeo आणि Odysee वर समर्थन करतो',
     'workshop.videoTrailer.rumble': 'आम्ही रंगारंगीत असलेल्या रंगामध्ये रंगाची समर्थन करतो, पण IFRAME URL कॉपी करण्यात लक्षात ठेवा.',
     'workshop.videoTrailer.suggestPlatforms': 'तुमच्या व्हिडिओ प्लॅटफॉर्मवर काही असल्यास, आमच्याशी आमच्या <a>तपशील</a>मार्फत सांगा!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.'
 };
