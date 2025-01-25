@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Nem egy céh munkája',
     'org.workshop.caption': 'Céh tulajdonjog',
     'org.workshop.title': 'Szervezet műhely',
-    'org.title': 'Szervezet'
+    'org.title': 'Szervezet',
+    'org.hall.title': '{orgName} tagok terme',
+    'org.member.leave': 'Hagyja el a szervezetet',
+    'org.member.leaveModalTitle': 'A szervezet elhagyásának megerősítése',
+    'org.member.leaveModalHeading': 'Biztos vagy benne, hogy el akarsz menni {orgName}',
+    'org.member.leaveModalExplain': 'Ha elhagyja a szervezetet, elveszíti a hozzáférést a szervezet összes kapcsolódó erőforrásához és munkájához. Ezt a műveletet nem lehet visszacsinálni.'
 };
