@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Keine Gildenarbeit',
     'org.workshop.caption': 'Eigentum der Gilde',
     'org.workshop.title': 'Organisationsworkshop',
-    'org.title': 'Organisation'
+    'org.title': 'Organisation',
+    'org.hall.title': '{orgName} Mitgliederhalle',
+    'org.member.leave': 'Organisation verlassen',
+    'org.member.leaveModalTitle': 'Bestätigung des Verlassens der Organisation',
+    'org.member.leaveModalHeading': 'Sind Sie sicher, dass Sie {orgName}verlassen wollen?',
+    'org.member.leaveModalExplain': 'Sobald Sie die Organisation verlassen, verlieren Sie den Zugang zu allen Ressourcen und Werken der Organisation. Diese Aktion kann nicht rückgängig gemacht werden.'
 };
