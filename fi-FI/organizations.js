@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Ei kiltatyö',
     'org.workshop.caption': 'Killan omistus',
     'org.workshop.title': 'Organisaation työpaja',
-    'org.title': 'Organisaatio'
+    'org.title': 'Organisaatio',
+    'org.hall.title': '{orgName} jäsensali',
+    'org.member.leave': 'Jätä organisaatio',
+    'org.member.leaveModalTitle': 'Organisaatiosta poistumisen vahvistus',
+    'org.member.leaveModalHeading': 'Haluatko varmasti lähteä {orgName}',
+    'org.member.leaveModalExplain': 'Kun lähdet organisaatiosta, menetät pääsyn kaikkiin organisaatioon liittyviin resursseihin ja töihin. Tätä toimenpidettä ei voi perua.'
 };
