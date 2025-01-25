@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'గిల్డ్ పని కాదు',
     'org.workshop.caption': 'గిల్డ్ స్వామ్యం',
     'org.workshop.title': 'సంస్థ workshop',
-    'org.title': 'సంస్థ'
+    'org.title': 'సంస్థ',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };
