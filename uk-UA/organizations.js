@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Не гільдійна робота',
     'org.workshop.caption': 'Власність гільдії',
     'org.workshop.title': 'Семінар по організації',
-    'org.title': 'Організація'
+    'org.title': 'Організація',
+    'org.hall.title': '{orgName} зал для членів',
+    'org.member.leave': 'Організація відпустки',
+    'org.member.leaveModalTitle': 'Підтвердження виходу з організації',
+    'org.member.leaveModalHeading': 'Ви впевнені, що хочете залишити {orgName}',
+    'org.member.leaveModalExplain': 'Після того, як ви покинете організацію, ви втратите доступ до всіх пов\'язаних з нею ресурсів і робіт. Цю дію неможливо скасувати.'
 };
