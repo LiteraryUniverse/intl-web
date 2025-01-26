@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'ଗ୍ରୁପ ଆମନ୍ତ୍ରଣଗୁଡିକ',
     'group.invite.accept': 'ଆମନ୍ତ୍ରଣ ସବୁଦେଳେକୁ ଗ୍ରାହ୍ୟ କରନ୍ତୁ',
-    'group.noticeBoard': 'ନୋଟିସ ବୋର୍ଡ'
+    'group.noticeBoard': 'ନୋଟିସ ବୋର୍ଡ',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };
