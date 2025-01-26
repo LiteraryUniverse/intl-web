@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Zaproszenia grupowe',
     'group.invite.accept': 'Przyjmij zaproszenie',
-    'group.noticeBoard': 'Tablica ogłoszeń'
+    'group.noticeBoard': 'Tablica ogłoszeń',
+    'group.leaveGroup.modalAria': 'Potwierdzenie, że chcą Państwo opuścić grupę.',
+    'group.leaveGroup.heading': 'Czy jest Pan pewien, że chce opuścić stronę {groupName}?',
+    'group.leaveGroup.explain': 'Opuszczenie grupy oznacza utratę dostępu do zasobów grupy i brak możliwości interakcji z nią.'
 };
