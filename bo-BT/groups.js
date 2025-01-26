@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'སློབ་ཚན་བརྩེ་བ་བསྐོར་བ།',
     'group.invite.accept': 'བསྐོར་བའི་བརྩེ་བ་བདེ་ལེགས།',
-    'group.noticeBoard': 'དགོས་པར་རྣམ་པར།'
+    'group.noticeBoard': 'དགོས་པར་རྣམ་པར།',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };
