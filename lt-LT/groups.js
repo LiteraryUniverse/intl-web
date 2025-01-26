@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Grupės pakvietimai',
     'group.invite.accept': 'Priimti kvietimą',
-    'group.noticeBoard': 'Skelbimų lentelė'
+    'group.noticeBoard': 'Skelbimų lentelė',
+    'group.leaveGroup.modalAria': 'Patvirtinimas, kad norite palikti grupę.',
+    'group.leaveGroup.heading': 'Ar tikrai norite išvykti iš {groupName}?',
+    'group.leaveGroup.explain': 'Išėjimas iš grupės reiškia, kad neteksite prieigos prie grupės išteklių ir negalėsite su ja bendrauti.'
 };
