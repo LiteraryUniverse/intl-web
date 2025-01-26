@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Jemputan kumpulan',
     'group.invite.accept': 'Terima jemputan',
-    'group.noticeBoard': 'Papan notis'
+    'group.noticeBoard': 'Papan notis',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };
