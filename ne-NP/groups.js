@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'समूह आमन्त्रणहरू',
     'group.invite.accept': 'आमन्त्रण स्वीकार गर्नुहोस्',
-    'group.noticeBoard': 'सूचना बोर्ड'
+    'group.noticeBoard': 'सूचना बोर्ड',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };
