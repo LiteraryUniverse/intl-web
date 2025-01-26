@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Csoport meghívások',
     'group.invite.accept': 'Meghívás elfogadása',
-    'group.noticeBoard': 'Hirdetőtábla'
+    'group.noticeBoard': 'Hirdetőtábla',
+    'group.leaveGroup.modalAria': 'Megerősítés, hogy el akarja hagyni a csoportot.',
+    'group.leaveGroup.heading': 'Biztos vagy benne, hogy el akarod hagyni a {groupName}oldalt?',
+    'group.leaveGroup.explain': 'A csoportból való kilépés azt jelenti, hogy elveszíti a hozzáférést a csoport erőforrásaihoz, és nem lesz képes interakcióba lépni a csoporttal.'
 };
