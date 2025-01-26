@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Invitacions de grup',
     'group.invite.accept': 'Acceptar invitació',
-    'group.noticeBoard': 'Tauler d\'anuncis'
+    'group.noticeBoard': 'Tauler d\'anuncis',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };
