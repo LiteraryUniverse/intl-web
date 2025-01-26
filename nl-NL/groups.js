@@ -37,5 +37,8 @@ export default {
   }`,
     'groups.invites.title': 'Groepsuitnodigingen',
     'group.invite.accept': 'Accepteer uitnodiging',
-    'group.noticeBoard': 'Mededelingenbord'
+    'group.noticeBoard': 'Mededelingenbord',
+    'group.leaveGroup.modalAria': 'Bevestiging dat u de groep wilt verlaten.',
+    'group.leaveGroup.heading': 'Weet u zeker dat u {groupName}wilt verlaten?',
+    'group.leaveGroup.explain': 'Als u de groep verlaat, verliest u de toegang tot de groepsbronnen en kunt u niet meer met de groep communiceren.'
 };
