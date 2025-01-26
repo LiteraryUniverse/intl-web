@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Προσκλήσεις ομάδας',
     'group.invite.accept': 'Αποδοχή πρόσκλησης',
-    'group.noticeBoard': 'Πίνακας ανακοινώσεων'
+    'group.noticeBoard': 'Πίνακας ανακοινώσεων',
+    'group.leaveGroup.modalAria': 'Επιβεβαίωση ότι θέλετε να αποχωρήσετε από την ομάδα.',
+    'group.leaveGroup.heading': 'Είσαι σίγουρος ότι θέλεις να φύγεις από το {groupName};',
+    'group.leaveGroup.explain': 'Η αποχώρηση από την ομάδα σημαίνει ότι θα χάσετε την πρόσβαση στους πόρους της ομάδας και δεν θα μπορείτε να αλληλεπιδράσετε με αυτήν.'
 };
