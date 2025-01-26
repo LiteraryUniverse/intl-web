@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Invitații la grup',
     'group.invite.accept': 'Acceptă invitația',
-    'group.noticeBoard': 'Panou de anunțuri'
+    'group.noticeBoard': 'Panou de anunțuri',
+    'group.leaveGroup.modalAria': 'Confirmarea faptului că doriți să părăsiți grupul.',
+    'group.leaveGroup.heading': 'Ești sigur că vrei să părăsești {groupName}?',
+    'group.leaveGroup.explain': 'Părăsirea grupului înseamnă că veți pierde accesul la resursele grupului și nu veți mai putea interacționa cu acesta.'
 };
