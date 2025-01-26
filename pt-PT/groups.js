@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Convites para grupos',
     'group.invite.accept': 'Aceitar convite',
-    'group.noticeBoard': 'Painel de avisos'
+    'group.noticeBoard': 'Painel de avisos',
+    'group.leaveGroup.modalAria': 'Confirmação de que pretende sair do grupo.',
+    'group.leaveGroup.heading': 'Tem a certeza que quer deixar {groupName}?',
+    'group.leaveGroup.explain': 'Sair do grupo significa que perderá o acesso aos recursos do grupo e que não poderá interagir com ele.'
 };
