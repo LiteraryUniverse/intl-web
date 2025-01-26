@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Gruppeinvitationer',
     'group.invite.accept': 'Accepter invitation',
-    'group.noticeBoard': 'Opslagstavle'
+    'group.noticeBoard': 'Opslagstavle',
+    'group.leaveGroup.modalAria': 'Bekræftelse af, at du vil forlade gruppen.',
+    'group.leaveGroup.heading': 'Er du sikker på, at du vil forlade {groupName}?',
+    'group.leaveGroup.explain': 'At forlade gruppen betyder, at du mister adgang til gruppens ressourcer og ikke kan interagere med den.'
 };
