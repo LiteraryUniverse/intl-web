@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Запрошення до групи',
     'group.invite.accept': 'Прийняти запрошення',
-    'group.noticeBoard': 'Дошка оголошень'
+    'group.noticeBoard': 'Дошка оголошень',
+    'group.leaveGroup.modalAria': 'Підтвердження того, що ви хочете вийти з групи.',
+    'group.leaveGroup.heading': 'Ви впевнені, що хочете залишити {groupName}?',
+    'group.leaveGroup.explain': 'Вихід з групи означає, що ви втратите доступ до ресурсів групи і не зможете взаємодіяти з нею.'
 };
