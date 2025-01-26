@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': '群組邀請',
     'group.invite.accept': '接受邀請',
-    'group.noticeBoard': '公告板'
+    'group.noticeBoard': '公告板',
+    'group.leaveGroup.modalAria': '確認您要離開群組。',
+    'group.leaveGroup.heading': '您確定要離開 {groupName}?',
+    'group.leaveGroup.explain': '離開群組表示您將無法存取群組資源，也無法與群組互動。'
 };
