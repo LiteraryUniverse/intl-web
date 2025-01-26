@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Inviti al gruppo',
     'group.invite.accept': 'Accetta invito',
-    'group.noticeBoard': 'Bacheca'
+    'group.noticeBoard': 'Bacheca',
+    'group.leaveGroup.modalAria': 'Conferma di voler lasciare il gruppo.',
+    'group.leaveGroup.heading': 'È sicuro di voler lasciare {groupName}?',
+    'group.leaveGroup.explain': 'Lasciare il gruppo significa che perderà l\'accesso alle risorse del gruppo e non potrà interagire con esso.'
 };
