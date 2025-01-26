@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Grupikutsed',
     'group.invite.accept': 'Võta kutse vastu',
-    'group.noticeBoard': 'Teadetetahvel'
+    'group.noticeBoard': 'Teadetetahvel',
+    'group.leaveGroup.modalAria': 'Kinnitus, et soovite grupist lahkuda.',
+    'group.leaveGroup.heading': 'Kas olete kindel, et soovite lahkuda {groupName}?',
+    'group.leaveGroup.explain': 'Grupist lahkumine tähendab, et kaotate juurdepääsu grupi ressurssidele ja ei saa sellega suhelda.'
 };
