@@ -42,5 +42,8 @@ export default {
   }`,
     'groups.invites.title': 'Pozvánky do skupín',
     'group.invite.accept': 'Prijať pozvanie',
-    'group.noticeBoard': 'Informačná tabuľa'
+    'group.noticeBoard': 'Informačná tabuľa',
+    'group.leaveGroup.modalAria': 'Potvrdenie, že chcete opustiť skupinu.',
+    'group.leaveGroup.heading': 'Ste si istí, že chcete opustiť {groupName}?',
+    'group.leaveGroup.explain': 'Opustenie skupiny znamená, že stratíte prístup k jej zdrojom a nebudete s ňou môcť komunikovať.'
 };
