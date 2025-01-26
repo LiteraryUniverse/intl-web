@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'ഗ്രൂപ്പ് ആഹ്വാനങ്ങൾ',
     'group.invite.accept': 'ആഹ്വാനം സ്വീകരിക്കുക',
-    'group.noticeBoard': 'നോട്ടീസ് ബോർഡ്'
+    'group.noticeBoard': 'നോട്ടീസ് ബോർഡ്',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };
