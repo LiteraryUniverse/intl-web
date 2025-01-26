@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Ryhmäkutsut',
     'group.invite.accept': 'Hyväksy kutsu',
-    'group.noticeBoard': 'Ilmoitustaulu'
+    'group.noticeBoard': 'Ilmoitustaulu',
+    'group.leaveGroup.modalAria': 'Vahvistus siitä, että haluat poistua ryhmästä.',
+    'group.leaveGroup.heading': 'Oletko varma, että haluat lähteä {groupName}?',
+    'group.leaveGroup.explain': 'Ryhmästä poistuminen tarkoittaa, että menetät pääsyn ryhmän resursseihin etkä voi olla vuorovaikutuksessa ryhmän kanssa.'
 };
