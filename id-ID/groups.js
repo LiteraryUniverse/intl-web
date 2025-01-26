@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Undangan grup',
     'group.invite.accept': 'Terima undangan',
-    'group.noticeBoard': 'Papan pengumuman'
+    'group.noticeBoard': 'Papan pengumuman',
+    'group.leaveGroup.modalAria': 'Konfirmasi bahwa Anda ingin keluar dari grup.',
+    'group.leaveGroup.heading': 'Apakah Anda yakin ingin meninggalkan {groupName}?',
+    'group.leaveGroup.explain': 'Keluar dari grup berarti Anda akan kehilangan akses ke sumber daya grup dan tidak dapat berinteraksi dengannya.'
 };
