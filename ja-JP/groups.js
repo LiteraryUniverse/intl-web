@@ -36,5 +36,8 @@ export default {
   }回です`,
     'groups.invites.title': 'グループの招待状',
     'group.invite.accept': '招待を受ける',
-    'group.noticeBoard': '掲示板'
+    'group.noticeBoard': '掲示板',
+    'group.leaveGroup.modalAria': '退団希望の確認。',
+    'group.leaveGroup.heading': '本当に {groupName}。',
+    'group.leaveGroup.explain': 'グループから抜けるということは、グループのリソースにアクセスできなくなり、交流もできなくなるということです。'
 };
