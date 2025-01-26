@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'دعوات المجموعة',
     'group.invite.accept': 'قبول الدعوة',
-    'group.noticeBoard': 'لوحة الإعلانات'
+    'group.noticeBoard': 'لوحة الإعلانات',
+    'group.leaveGroup.modalAria': 'تأكيد رغبتك في مغادرة المجموعة.',
+    'group.leaveGroup.heading': 'هل أنت متأكد من رغبتك في مغادرة {groupName}؟',
+    'group.leaveGroup.explain': 'تعني مغادرة المجموعة أنك ستفقد إمكانية الوصول إلى موارد المجموعة ولن تتمكن من التفاعل معها.'
 };
