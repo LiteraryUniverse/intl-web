@@ -111,6 +111,8 @@ export default {
     'story.read': '읽기',
     'story.lastUpdate': '최종 업데이트일: {date, date, medium} {date, time, short}.',
     'story.finishedAt': '{date, date, medium}에 완결되었습니다.',
+    'story.hiatusAt': '에서 {date, date, medium}.',
+    'story.cancelledAt': '에서 취소됨 {date, date, medium}.',
     'story.comments.for': '! {story} !  의 댓글 {chapter}.',
     'story.cover.alt': '! {story}!  의 스토리 표지 이미지.',
     'story.note.fanfiction': '참고: 이 스토리는 {universe} 우주의 팬픽션입니다.',
