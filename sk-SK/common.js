@@ -111,6 +111,8 @@ export default {
     'story.read': 'Prečítajte si',
     'story.lastUpdate': 'Posledná aktualizácia {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Dokončené na {date, date, medium}.',
+    'story.hiatusAt': 'Na prestávke od {date, date, medium}.',
+    'story.cancelledAt': 'Zrušené na {date, date, medium}.',
     'story.comments.for': 'Komentáre pre {story} {chapter}.',
     'story.cover.alt': 'Obrázok na obálke príbehu pre {story}.',
     'story.note.fanfiction': 'POZNÁMKA: Tento príbeh je fanfiction na {universe} vesmír.',
