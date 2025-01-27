@@ -111,6 +111,8 @@ export default {
     'story.read': 'पढ्नुहोस्',
     'story.lastUpdate': 'अन्तिम अद्यावधिक गरिएको {date, date, medium} {date, time, short}.',
     'story.finishedAt': '{date, date, medium}मा समाप्त भएको।',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}को लागि टिप्पणीहरू।',
     'story.cover.alt': '{story}को कथा कवर चित्र।',
     'story.note.fanfiction': 'नोट: यो कथा {universe} ब्रह्माण्डमा एक प्रशंसापत्र हो।',
