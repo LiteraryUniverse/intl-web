@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'ವಿಜ್ಞಾನಕೋಶ ಎಂಟ್ರಿ',
   'personalNotes.type.revTextBlock': 'ಮರುಮುದ್ರಣ ಪಠ್ಯ ಬ್ಲಾಕ್',
   'personalNotes.chapter': 'ಅಧ್ಯಾಯ',
-  'personalNotes.recentSearches': 'ಇತ್ತಿಚೇಲವೂ ಹುಡುಕಾಟ:'
+  'personalNotes.recentSearches': 'ಇತ್ತಿಚೇಲವೂ ಹುಡುಕಾಟ:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };
