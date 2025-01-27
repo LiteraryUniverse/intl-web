@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Gatunki',
     'encyclopedia.category.technologies': 'Technologie',
     'encyclopedia.category.families': 'Rodziny',
+    'encyclopedia.category.jobs': 'Praca',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Pojazdy',
+    'encyclopedia.category.diseases': 'Choroby',
+    'encyclopedia.category.traditions': 'Tradycje',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.landmarks': 'Punkty orientacyjne',
+    'encyclopedia.category.buildings': 'Budynki',
+    'encyclopedia.category.schools': 'Szkoły',
+    'encyclopedia.category.continents': 'Kontynenty',
     'encyclopedia.search.found': `{results, plural,
     =0 {Brak pasujących wpisów}
     one {1 pasujący wpis}
@@ -38,52 +48,72 @@ export default {
     'encyclopedia.add.title': 'Dodaj nowy wpis do encyklopedii',
     'encyclopedia.add.heading': 'Co chciałbyś dodać?',
     'encyclopedia.add.moresoon': 'Więcej kategorii już wkrótce!',
-    'encyclopedia.create': `Stwórz nową {category, select,
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magia}
+    planets {planeta}
+    species {gatunek}
+    technologies {technologia}
+    families {rodzina}
+    jobs {praca}
+    lore {wiedza}
+    vehicles {pojazd}
+    diseases {choroba}
+    traditions {tradycja}
+    sports {sport}
+    landmarks {punkt orientacyjny}
+    buildings {budynek}
+    schools {szkoła}
+    continents {kontynent}
+  }`,
+    'encyclopedia.create.header': `Tworzenie nowego {category, select,
     character {postać}
     event {wydarzenie}
-    group {grupę}
+    group {grupa}
     item {przedmiot}
-    location {lokalizację}
-    other {notatkę}
+    location {lokalizacja}
+    other {notatka}
     state {stan}
     governments {rząd}
     languages {język}
     creatures {stworzenie}
     deity {bóstwo}
-    religions {religię}
-    flora {florę}
-    magic {magię}
-    planets {planetę}
+    religions {religia}
+    flora {flora}
+    magic {magia}
+    planets {planeta}
     species {gatunek}
-    technologies {technologię}
-    families {rodzinę}
-  }.`,
-    'encyclopedia.create.header': `Utwórz nową {category, select,
-    character {postać}
-    event {wydarzenie}
-    group {grupę}
-    item {przedmiot}
-    location {lokalizację}
-    other {notatkę}
-    state {stan}
-    governments {rząd}
-    languages {język}
-    creatures {stworzenie}
-    deity {bóstwo}
-    religions {religię}
-    flora {florę}
-    magic {magię}
-    planets {planetę}
-    species {gatunek}
-    technologies {technologię}
-    families {rodzinę}
+    technologies {technologia}
+    families {rodzina}
+    jobs {praca}
+    lore {wiedza}
+    vehicles {pojazd}
+    diseases {choroba}
+    traditions {tradycja}
+    sports {sport}
+    landmarks {punkt orientacyjny}
+    buildings {budynek}
+    schools {szkoła}
+    continents {kontynent}
   } w {universe}`,
     'encyclopedia.entry.category': `Kategoria wpisu: {category, select,
     character {Postać}
     event {Wydarzenie}
     group {Grupa}
     item {Przedmiot}
-    location {Lokalizacja}
+    location {Lokacja}
     other {Notatka}
     state {Państwo}
     governments {Rząd}
@@ -96,7 +126,17 @@ export default {
     planets {Planeta}
     species {Gatunek}
     technologies {Technologia}
-    families {Ród}
+    families {Rodzina}
+    jobs {Praca}
+    lore {Wiedza}
+    vehicles {Pojazd}
+    diseases {Choroba}
+    traditions {Tradycja}
+    sports {Sport}
+    landmarks {Punkt orientacyjny}
+    buildings {Budynek}
+    schools {Szkoła}
+    continents {Kontynent}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Dodaj nowe pole',
