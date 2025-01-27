@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Espécies',
     'encyclopedia.category.technologies': 'Tecnologias',
     'encyclopedia.category.families': 'Famílias',
+    'encyclopedia.category.jobs': 'Empregos',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Veículos',
+    'encyclopedia.category.diseases': 'Doenças',
+    'encyclopedia.category.traditions': 'Tradições',
+    'encyclopedia.category.sports': 'Desporto',
+    'encyclopedia.category.landmarks': 'Pontos de referência',
+    'encyclopedia.category.buildings': 'Edifícios',
+    'encyclopedia.category.schools': 'Escolas',
+    'encyclopedia.category.continents': 'Continentes',
     'encyclopedia.search.found': `{results, plural,
     =0 {Sem entradas relacionadas encontradas}
     one {1 entrada relacionada encontrada}
@@ -55,8 +65,18 @@ export default {
     species {espécie}
     technologies {tecnologia}
     families {família}
+    jobs {emprego}
+    lore {lenda}
+    vehicles {veículo}
+    diseases {doença}
+    traditions {tradição}
+    sports {desporto}
+    landmarks {marco}
+    buildings {edifício}
+    schools {escola}
+    continents {continente}
   }`,
-    'encyclopedia.create.header': `Crie um novo {category, select,
+    'encyclopedia.create.header': `Criando um novo {category, select,
     character {personagem}
     event {evento}
     group {grupo}
@@ -75,6 +95,16 @@ export default {
     species {espécie}
     technologies {tecnologia}
     families {família}
+    jobs {emprego}
+    lore {lenda}
+    vehicles {veículo}
+    diseases {doença}
+    traditions {tradição}
+    sports {desporto}
+    landmarks {marco}
+    buildings {edifício}
+    schools {escola}
+    continents {continente}
   } em {universe}`,
     'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
@@ -95,6 +125,16 @@ export default {
     species {Espécie}
     technologies {Tecnologia}
     families {Família}
+    jobs {Emprego}
+    lore {Tradição}
+    vehicles {Veículo}
+    diseases {Doença}
+    traditions {Tradição}
+    sports {Desporto}
+    landmarks {Ponto de referência}
+    buildings {Edifício}
+    schools {Escola}
+    continents {Continente}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',
