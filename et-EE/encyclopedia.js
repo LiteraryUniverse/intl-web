@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Liigid',
     'encyclopedia.category.technologies': 'Tehnoloogiad',
     'encyclopedia.category.families': 'Perekonnad',
+    'encyclopedia.category.jobs': 'Töökohad',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Sõidukid',
+    'encyclopedia.category.diseases': 'Haigused',
+    'encyclopedia.category.traditions': 'Traditsioonid',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.landmarks': 'Vaatamisväärsused',
+    'encyclopedia.category.buildings': 'Hooned',
+    'encyclopedia.category.schools': 'Koolid',
+    'encyclopedia.category.continents': 'Kontinendid',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei leitud seotud kirjeid}
     one {1 seotud kirje}
@@ -50,13 +60,23 @@ export default {
     deity {jumalus}
     religions {religioon}
     flora {taimestik}
-    magic {maagia}
-    planets {planeet}
-    species {liik}
-    technologies {tehnoloogia}
-    families {perekond}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   }`,
-    'encyclopedia.create.header': `Loo uus {category, select,
+    'encyclopedia.create.header': `Uue looma {category, select,
     character {tegelane}
     event {sündmus}
     group {rühm}
@@ -75,7 +95,17 @@ export default {
     species {liik}
     technologies {tehnoloogia}
     families {perekond}
-  } aastal {universe}.`,
+    jobs {töö}
+    lore {pärimus}
+    vehicles {sõiduk}
+    diseases {haigus}
+    traditions {traditsioon}
+    sports {sport}
+    landmarks {maamärk}
+    buildings {hoone}
+    schools {kool}
+    continents {kontinent}
+  } in {universe}`,
     'encyclopedia.entry.category': `Sisenemiskategooria: {category, select,
     character {Tegelane}
     event {Sündmus}
@@ -89,12 +119,22 @@ export default {
     creatures {Olend}
     deity {Jumalus}
     religions {Religioon}
-    flora {Flora}
+    flora {Taimestik}
     magic {Maagia}
     planets {Planeet}
     species {Liik}
     technologies {Tehnoloogia}
     families {Perekond}
+    jobs {Töö}
+    lore {Õpetus}
+    vehicles {Sõiduk}
+    diseases {Haigus}
+    traditions {Traditsioon}
+    sports {Sport}
+    landmarks {Maamärk}
+    buildings {Hoone}
+    schools {Kool}
+    continents {Kontinent}
   }`,
     'encyclopedia.entry.category.legend': 'Kategooria',
     'encyclopedia.fields.add': 'Lisa uus väli',
