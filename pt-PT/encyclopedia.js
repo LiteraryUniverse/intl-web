@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planetas',
     'encyclopedia.category.species': 'Espécies',
     'encyclopedia.category.technologies': 'Tecnologias',
+    'encyclopedia.category.families': 'Famílias',
     'encyclopedia.search.found': `{results, plural,
     =0 {Sem entradas relacionadas encontradas}
     one {1 entrada relacionada encontrada}
@@ -35,54 +36,56 @@ export default {
     'encyclopedia.add.title': 'Adicionar uma nova entrada à enciclopédia',
     'encyclopedia.add.heading': 'O que deseja acrescentar?',
     'encyclopedia.add.moresoon': 'Mais categorias em breve!',
-    'encyclopedia.create': `Criar {category, select,
-    character {um novo personagem}
-    event {um novo evento}
-    group {um novo groupo}
-    item {um novo item}
-    location {uma nova localização}
-    other {uma nova nota}
-    state {um novo estado}
-    governments {um novo governo}
-    languages {uma nova língua}
-    creatures {uma nova criatura}
-    deity {uma nova divindade}
-    religions {uma nova religião}
-    flora {uma nova flora}
-    magic {uma nova magia}
-    planets {um novo planeta}
-    species {uma nova espécie}
-    technologies {uma nova tecnologia}
+    'encyclopedia.create': `Crie um novo {category, select,
+    character {personagem}
+    event {evento}
+    group {grupo}
+    item {item}
+    location {local}
+    other {nota}
+    state {estado}
+    governments {governo}
+    languages {idioma}
+    creatures {criatura}
+    deity {divindade}
+    religions {religião}
+    flora {flora}
+    magic {magia}
+    planets {planeta}
+    species {espécie}
+    technologies {tecnologia}
+    families {família}
   }`,
-    'encyclopedia.create.header': `Criar {category, select,
-    character {um novo personagem}
-    event {um novo evento}
-    group {um novo groupo}
-    item {um novo item}
-    location {uma nova localização}
-    other {uma nova nota}
-    state {um novo estado}
-    governments {um novo governo}
-    languages {uma nova língua}
-    creatures {uma nova criatura}
-    deity {uma nova divindade}
-    religions {uma nova religião}
-    flora {uma nova flora}
-    magic {uma nova magia}
-    planets {um novo planeta}
-    species {uma nova espécie}
-    technologies {uma nova tecnologia}
+    'encyclopedia.create.header': `Crie um novo {category, select,
+    character {personagem}
+    event {evento}
+    group {grupo}
+    item {item}
+    location {local}
+    other {nota}
+    state {estado}
+    governments {governo}
+    languages {idioma}
+    creatures {criatura}
+    deity {divindade}
+    religions {religião}
+    flora {flora}
+    magic {magia}
+    planets {planeta}
+    species {espécie}
+    technologies {tecnologia}
+    families {família}
   } em {universe}`,
     'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
     event {Evento}
-    group {Groupo}
+    group {Grupo}
     item {Item}
-    location {Localização}
+    location {Local}
     other {Nota}
     state {Estado}
     governments {Governo}
-    languages {Língua}
+    languages {Idioma}
     creatures {Criatura}
     deity {Divindade}
     religions {Religião}
@@ -91,6 +94,7 @@ export default {
     planets {Planeta}
     species {Espécie}
     technologies {Tecnologia}
+    families {Família}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',
