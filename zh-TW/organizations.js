@@ -9,7 +9,7 @@ export default {
     'org.settings.language': '主要語言',
     'org.meta.desc': '在Literary Universe上的組織和創意團體。',
     'org.luOrgs': 'Literary Universe 組織',
-    'org.otherOrgs': '公會與組織',
+    'org.otherOrgs': '組織',
     'org.aboutTitle': '關於 {orgName}',
     'org.membersTitle': '組織成員',
     'org.membersNone': '成員不公開',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': '不是公會工作',
     'org.workshop.caption': '公會所有權',
     'org.workshop.title': '組織工作坊',
-    'org.title': '組織'
+    'org.title': '組織',
+    'org.hall.title': '{orgName} 會員廳',
+    'org.member.leave': '離開組織',
+    'org.member.leaveModalTitle': '離開組織確認',
+    'org.member.leaveModalHeading': '您確定要離開 {orgName}',
+    'org.member.leaveModalExplain': '一旦您離開組織，您將無法存取組織的所有相關資源和作品。此動作無法撤銷。'
 };

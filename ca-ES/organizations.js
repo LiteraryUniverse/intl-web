@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Idioma principal',
     'org.meta.desc': 'Organitzacions i grups creatius a Literary Universe.',
     'org.luOrgs': 'Organitzacions de Literary Universe',
-    'org.otherOrgs': 'Guildes i organitzacions',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Sobre {orgName}',
     'org.membersTitle': 'Membres de l\'organització',
     'org.membersNone': 'Els membres no són públics',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Not a guild work',
     'org.workshop.caption': 'Guild ownership',
     'org.workshop.title': 'Taller d\'organització',
-    'org.title': 'Organització'
+    'org.title': 'Organització',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

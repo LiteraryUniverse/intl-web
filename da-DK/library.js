@@ -3,7 +3,7 @@ export default {
     'library.remove': 'Fjern fra bibliotek',
     'library.bought': 'Købte historier',
     'library.stories': 'Følgte historier',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.universes': 'Fulgte universer',
+    'bookmark.continueReading': 'Fortsæt med at læse',
+    'bookmark.statusSummary': 'Du har læst {readPercent, number, ::percent} af historien.'
 };

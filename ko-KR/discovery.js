@@ -23,7 +23,7 @@ export default {
     'discover.searchUniverse.title': '유니버스 검색',
     'discover.searchUniverse.description': '우주를 탐색하세요',
     'discover.search.storyStatus': '스토리 진행 상태',
-    'discover.search.genres': 'Genres',
+    'discover.search.genres': '장르',
     'story.status.complete': '완료',
     'story.status.inProgress': '진행 중',
     'discover.search.universeConnection': '스토리를 우주와 연결',
@@ -60,5 +60,5 @@ export default {
     'discovery.chaptersTotal': '이 이야기의 총 챕터 수',
     'discovery.readFromStart': '첫 번째 장부터 읽으세요',
     'discovery.readLatest': '가장 최근 장을 읽으세요',
-    'discovery.author': 'Author'
+    'discovery.author': '작성자'
 };

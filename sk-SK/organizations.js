@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Hlavný jazyk',
     'org.meta.desc': 'Organizácie a tvorivé skupiny na Literary Universe.',
     'org.luOrgs': 'Organizácie Literary Universe',
-    'org.otherOrgs': 'Cechy a organizácie',
+    'org.otherOrgs': 'Organizácie',
     'org.aboutTitle': 'O {orgName}',
     'org.membersTitle': 'Členovia organizácie',
     'org.membersNone': 'Členovia nie sú verejní',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Nie je to práca guildy',
     'org.workshop.caption': 'Vlastníctvo guildy',
     'org.workshop.title': 'Workshop organizácií',
-    'org.title': 'Organizácie'
+    'org.title': 'Organizácie',
+    'org.hall.title': '{orgName} členská hala',
+    'org.member.leave': 'Organizácia dovolenky',
+    'org.member.leaveModalTitle': 'Potvrdenie o opustení organizácie',
+    'org.member.leaveModalHeading': 'Ste si istí, že chcete odísť {orgName}',
+    'org.member.leaveModalExplain': 'Po odchode z organizácie stratíte prístup ku všetkým súvisiacim zdrojom a prácam organizácie. Túto akciu nemožno vrátiť späť.'
 };

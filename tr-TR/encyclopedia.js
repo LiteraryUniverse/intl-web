@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Kapak resmi',
     'encyclopedia.translation.title': '{universe} evren çevirisi için hoş geldiniz!',
     'encyclopedia.translation.desc': 'Bu ansiklopedi arayüzü, {language}diline çeviri yapmak için kullanılır. Çevirilerine başlamak için sol taraftaki listeden mevcut girişleri seçin.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Bu evrende {totalEntries, plural, 
+    zero {hiç giriş yok}
+    one {bir giriş var}
+    other {# giriş var}
+  } .`,
     'encyclopedia.settings.title': 'Ansiklopedi ayarları',
     'encyclopedia.settings.categoriesDesc': 'Ansiklopedinizde kullanmak istediğiniz kategorileri açıp kapatın.',
     'encyclopedia.settings.introText': 'Evren açıklamasından sonra görüntülenecek hoş geldiniz mesajı.',

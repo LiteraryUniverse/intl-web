@@ -15,11 +15,11 @@ export default {
     'blog.description': 'Blog introduktion',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Ved at justere temaet kan du ændre udseendet af siden. Denne funktion er ikke klar på nuværende tidspunkt.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Der {total, plural,
+    zero {er ingen indlæg}
+    one {er et indlæg}
+    other {er # indlæg}
+  } i denne blog.`,
     'blog.post.create': 'Opret et nyt indlæg',
     'blog.post.update': 'Rediger {title}',
     'blog.post.text': 'Indlægtekst',

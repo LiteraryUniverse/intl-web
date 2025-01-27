@@ -34,7 +34,7 @@ export default {
   'forums.category.intlName.meetups': 'Συναντήσεις',
   'forums.category.intlName.characters': 'Χαρακτήρες',
   'forums.category.intlName.locations': 'Τοποθεσίες',
-  'forums.category.intlName.history': 'History',
+  'forums.category.intlName.history': 'Ιστορία',
   'forums.category.intlName.art': 'Τέχνη',
   'forums.category.intlName.inspiration': 'Έμπνευση',
   'forums.category.intlName.news': 'Νέα',

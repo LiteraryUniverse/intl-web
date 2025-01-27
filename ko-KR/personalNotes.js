@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': '백과사전 항목',
   'personalNotes.type.revTextBlock': '개정 텍스트 블록',
   'personalNotes.chapter': '장',
-  'personalNotes.recentSearches': '최근 검색:'
+  'personalNotes.recentSearches': '최근 검색:',
+  'personalNotes.myNotes': '내 개인 노트'
 };

@@ -39,5 +39,8 @@ export default {
   }`,
     'groups.invites.title': 'Gruppeneinladungen',
     'group.invite.accept': 'Einladung annehmen',
-    'group.noticeBoard': 'Schwarzes Brett'
+    'group.noticeBoard': 'Schwarzes Brett',
+    'group.leaveGroup.modalAria': 'Bestätigen Sie, dass Sie die Gruppe verlassen möchten.',
+    'group.leaveGroup.heading': 'Sind Sie sicher, dass Sie {groupName}verlassen wollen?',
+    'group.leaveGroup.explain': 'Wenn Sie die Gruppe verlassen, verlieren Sie den Zugriff auf die Ressourcen der Gruppe und können nicht mehr mit ihr interagieren.'
 };

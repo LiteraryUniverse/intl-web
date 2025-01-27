@@ -23,7 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Keresés egy univerzumra',
     'discover.searchUniverse.description': 'Keresés univerzumokra',
     'discover.search.storyStatus': 'Történet állapot',
-    'discover.search.genres': 'Genres',
+    'discover.search.genres': 'Műfajok',
     'story.status.complete': 'Kész',
     'story.status.inProgress': 'Folyamatban',
     'discover.search.universeConnection': 'Történet kapcsolódása univerzumhoz',
@@ -60,5 +60,5 @@ export default {
     'discovery.chaptersTotal': 'A történet összes fejezete',
     'discovery.readFromStart': 'Olvasás az első fejezettől',
     'discovery.readLatest': 'Legfrissebb fejezet olvasása',
-    'discovery.author': 'Author'
+    'discovery.author': 'Szerző'
 };

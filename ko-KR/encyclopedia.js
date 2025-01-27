@@ -119,12 +119,12 @@ export default {
     // abbreviation for Existing Entry
     'encyclopedia.cover': '표지 이미지',
     'encyclopedia.translation.title': '{universe} 우주 번역에 오신 것을 환영합니다!',
-    'encyclopedia.translation.desc': 'This encyclopedia interface is used for translation into {language}. Choose existing entries in the list on the left to begin their translation.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.translation.desc': '이 백과사전 인터페이스는 {language}로의 번역에 사용됩니다. 번역을 시작하려면 왼쪽 목록에서 기존 항목을 선택하세요.',
+    'encyclopedia.welcome.totalEntries': `이 우주에는 {totalEntries, plural, 
+    zero {항목이 없습니다}
+    one {항목이 하나 있습니다}
+    other {항목이 #개 있습니다}
+  } 이 우주에 있습니다.`,
     'encyclopedia.settings.title': '백과사전 설정',
     'encyclopedia.settings.categoriesDesc': '백과사전에서 사용할 카테고리를 켜고 끕니다.',
     'encyclopedia.settings.introText': '우주 설명 후에 표시될 환영 메시지입니다.',
@@ -141,10 +141,10 @@ export default {
     'encyclopedia.menuClose': '백과사전 메뉴 닫기',
     'encyclopedia.menuAria': '백과사전 메뉴',
     'enc.newField': '새로운 필드',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'enc.entries.limit': `현재 {value, number} {max, plural,
+    =0 {무제한}
     other {{max, number}}
-  } entries.`,
+  } 항목이 있습니다.`,
     'enc.entries.limitReached': '현재 구독에 허용된 최대 백과사전 항목 수에 도달하였습니다.',
     'enc.menuControls.ariaDesc': '백과사전 제어',
     'encyclopedia.pronunciation.title': '발음',

@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': 'Kasutaja {username}avatar',
     'user.friend.list.requests': 'Sõpruse taotlused',
     'user.friend.norequests': 'Sul ei ole sõpruse taotlusi.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Hea {dayPart, select,
+    morning {hommik}
+    afternoon {pärastlõuna}
+    evening {õhtu}
+    night {öö}
+    other {päev}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'See autor on avaldatud traditsioonilisel viisil',
     'user.verification.luAuthor': 'Kirjandusliku Universumi märkimisväärne autor',

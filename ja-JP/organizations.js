@@ -9,7 +9,7 @@ export default {
     'org.settings.language': '主言語',
     'org.meta.desc': 'Lieterary Universeに掲載されている団体やクリエイティブなグループを紹介します。',
     'org.luOrgs': 'Lieterary Universeの組織',
-    'org.otherOrgs': 'ギルドと組織',
+    'org.otherOrgs': '組織',
     'org.aboutTitle': '{orgName}について',
     'org.membersTitle': '組織のメンバー',
     'org.membersNone': 'メンバーは非公開です',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'ギルド作品ではありません',
     'org.workshop.caption': 'ギルドの所有権',
     'org.workshop.title': '組織のワークショップ',
-    'org.title': '組織'
+    'org.title': '組織',
+    'org.hall.title': '{orgName} メンバーズホール',
+    'org.member.leave': '休暇組織',
+    'org.member.leaveModalTitle': '退団団体確認',
+    'org.member.leaveModalHeading': '{orgName}本当に帰りたいのか？',
+    'org.member.leaveModalExplain': '組織を離れると、その組織に関連するすべてのリソースと作品へのアクセス権が失われます。この行為は取り消すことができません。'
 };

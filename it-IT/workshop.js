@@ -170,8 +170,8 @@ export default {
     'fictionalTime.unitsToETList': `{units, number} {unitName} = 
     {days, plural,
       =0 {}
-      one {1 day }
-      other {{days} days }
+      one {1 giorno }
+      other {{days} giorni }
     }{hours, plural,
       =0 {00:}
       other {{hours}:}
@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Supportiamo Youtube, Vimeo e Odysee',
     'workshop.videoTrailer.rumble': 'Supportiamo anche Rumble, ma ricorda di copiare l\'URL IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'La tua piattaforma video manca, faccelo sapere tramite il nostro <a>feedback</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Cambiare la copertura',
+    'workshop.collaborator.leave': 'Lasciare il progetto',
+    'workshop.collaborator.leaveTitle': 'Confermi di voler lasciare {workName}',
+    'workshop.collaborator.leaveExplained': 'Lasciare il progetto significa perdere tutti gli accessi, le associazioni e i privilegi. Se non è sicuro di cosa significhi tutto questo, probabilmente non è quello che voleva cliccare.',
+    'workshop.collaborators.leftInfo': 'Sinistra su {date, date}',
+    'workshop.collaborators.removedInfo': 'Rimosso su {date, date}'
 };

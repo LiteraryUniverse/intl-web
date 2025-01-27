@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Šis skyrius jau buvo publikuotas {publishedAt, date, short}. Naujos versijos bus publikuojamos iš karto.',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publikuoti',
-    'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.now': 'Paskelbti dabar',
+    'writer.publish.schedulePrevious': 'Prieš skelbdami ankstesnį skyrių, turite paskelbti arba suplanuoti ankstesnio skyriaus paskelbimą.'
 };

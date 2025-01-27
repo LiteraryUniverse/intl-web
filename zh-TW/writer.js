@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': '此章節已於 {publishedAt, date, short}發布。新版本將立即發布。',
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': '發佈',
-    'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.now': '立即發佈',
+    'writer.publish.schedulePrevious': '您必須先出版或排定出版前一章，才能出版這一章。'
 };

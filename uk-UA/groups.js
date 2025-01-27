@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Прихована - Тільки люди, яких ви запросите, можуть приєднатися.',
     'groups.imageAlt': '{groupName} зображення',
     'groups.members': 'Учасники',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `У цій групі {totalMembers, plural,
+    zero {немає учасників}
+    one {є один учасник}
+    other {є # учасників}
+  } у цій групі`,
     'groups.leaveGroup': 'Покинути групу',
     'groups.leaveGroup.confirm': 'Просто щоб бути впевненим. Ви впевнені, що хочете покинути {groupName}?',
     'group.settings': 'Налаштування групи',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Запрошення до групи',
     'group.invite.accept': 'Прийняти запрошення',
-    'group.noticeBoard': 'Дошка оголошень'
+    'group.noticeBoard': 'Дошка оголошень',
+    'group.leaveGroup.modalAria': 'Підтвердження того, що ви хочете вийти з групи.',
+    'group.leaveGroup.heading': 'Ви впевнені, що хочете залишити {groupName}?',
+    'group.leaveGroup.explain': 'Вихід з групи означає, що ви втратите доступ до ресурсів групи і не зможете взаємодіяти з нею.'
 };

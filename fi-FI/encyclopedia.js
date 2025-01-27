@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Kansikuva',
     'encyclopedia.translation.title': 'Tervetuloa {universe} universumin käännökseen!',
     'encyclopedia.translation.desc': 'Tätä tietosanakirjan käyttöliittymää käytetään kääntämiseen {language}kielelle. Valitse vasemmalla olevasta luettelosta olemassa olevat merkinnät ja aloita niiden kääntäminen.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Tässä universumissa {totalEntries, plural, 
+    zero {ei ole merkintöjä}
+    one {on yksi merkintä}
+    other {on # merkintää}
+  } .`,
     'encyclopedia.settings.title': 'Tietosanakirjan asetukset',
     'encyclopedia.settings.categoriesDesc': 'Ota käyttöön ja poista käytöstä kategoriat, joita haluat käyttää tietosanakirjassasi.',
     'encyclopedia.settings.introText': 'Tervetuloviesti, joka näytetään universumin kuvauksen jälkeen.',
@@ -141,10 +141,10 @@ export default {
     'encyclopedia.menuClose': 'Sulje tietosanakirjan valikko',
     'encyclopedia.menuAria': 'Tietosanakirjan valikko',
     'enc.newField': 'Uusi kenttä',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'enc.entries.limit': `Sinulla on tällä hetkellä {value, number} pois {max, plural,
+    =0 {rajoittamaton}
     other {{max, number}}
-  } entries.`,
+  } merkinnät.`,
     'enc.entries.limitReached': 'Olet saavuttanut maksimimäärän sallittuja tietosanakirjamerkintöjä nykyisellä tilauksellasi.',
     'enc.menuControls.ariaDesc': 'Tietosanakirjan ohjaus',
     'encyclopedia.pronunciation.title': 'Ääntäminen',

@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Borítókép',
     'encyclopedia.translation.title': 'Üdvözöljük a {universe} univerzum fordításában!',
     'encyclopedia.translation.desc': 'Ez az enciklopédia felület a {language}nyelvre való fordításra szolgál. Válassza ki a bal oldalon található listából a meglévő bejegyzéseket, hogy elkezdje a fordításukat.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Ebben az univerzumban {totalEntries, plural, 
+    zero {nincsenek bejegyzések}
+    one {egy bejegyzés}
+    other {# bejegyzés}
+  } van.`,
     'encyclopedia.settings.title': 'Enciklopédia beállítások',
     'encyclopedia.settings.categoriesDesc': 'Kapcsolja be és ki a kategóriákat, amelyeket szeretne használni az enciklopédiájában.',
     'encyclopedia.settings.introText': 'Üdvözlő üzenet, amely megjelenik az univerzum leírása után.',

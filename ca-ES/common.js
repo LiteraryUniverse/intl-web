@@ -111,6 +111,8 @@ export default {
     'story.read': 'Llegeix',
     'story.lastUpdate': 'Darrera actualització el {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Finalitzat el {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'Comentaris per {story} {chapter}.',
     'story.cover.alt': 'Imatge de portada de la història de {story}.',
     'story.note.fanfiction': 'NOTA: Aquesta història és una fan fiction de l\'univers de {universe}.',

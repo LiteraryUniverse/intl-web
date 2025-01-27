@@ -38,5 +38,8 @@ export default {
   } de grupo`,
     'groups.invites.title': 'Invitaciones de grupo',
     'group.invite.accept': 'Aceptar invitación',
-    'group.noticeBoard': 'Tablón de anuncios'
+    'group.noticeBoard': 'Tablón de anuncios',
+    'group.leaveGroup.modalAria': 'Confirmación de que desea abandonar el grupo.',
+    'group.leaveGroup.heading': '¿Está seguro de que quiere dejar {groupName}?',
+    'group.leaveGroup.explain': 'Abandonar el grupo significa que perderá el acceso a los recursos del grupo y no podrá interactuar con él.'
 };

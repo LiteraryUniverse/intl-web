@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} Fanų nustatymai',
     'universe.fanfiction.stories': 'Istorijos',
     'universe.fanfiction.fanarts': 'Fanatų menas',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Šioje visatoje {num, plural,
+    =0 {nėra jokių istorijų}
+    one {yra viena istorija}
+    other {yra # istorijų}
+    } .`,
     'universe.authors.title': 'Autoriai',
     'universe.authors.desc': 'Kūrėjai ir bendradarbiai su {universe}',
     'universe.contributors': 'Bendradarbiai',

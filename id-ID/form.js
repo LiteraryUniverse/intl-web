@@ -4,19 +4,19 @@ export default {
     'form.validator.mustBeNumber': 'Harus berupa angka',
     'form.validator.minNumber': 'Harus lebih besar dari {min, number}',
     'form.validator.maxNumber': 'Harus lebih kecil dari {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.maxLength': `Harus kurang dari {max, number} {what, select,
+    characters {karakter}
+    tags {tag}
+    genres {genre}
+    numbers {angka}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
+    'form.validator.minLength': `Setidaknya harus {min, number} {what, select,
+    characters {karakter}
+    tags {tag}
+    genres {genre}
     genre {genre}
-    numbers {numbers}
+    numbers {angka}
     other {}
   }`,
     'form.validator.email': 'Harus berupa alamat email yang valid',

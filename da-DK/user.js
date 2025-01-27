@@ -1,26 +1,26 @@
 export default {
-    'user.friend.request.add': 'Add to friends',
+    'user.friend.request.add': 'Tilføj til venner',
     'user.friend.requests': `Du har {num, number} ny venneanmodning {num, plural,
     zero {anmodninger}
     one {anmodning}
     many {anmodninger}
     other {anmodninger}
   }`,
-    'user.friend.unfriend': 'Unfriend',
-    'user.block': 'Block',
-    'user.unblock': 'Unblock',
+    'user.friend.unfriend': 'Bliv ikke ven med mig',
+    'user.block': 'Blok',
+    'user.unblock': 'Fjern blokering',
     'user.joined': `{gender, select,
-    male {Joined}
-    female {Joined}
-    other {Joined}} on {date, date, long}`,
-    'user.friend.request.accept': 'Accept friendship request',
-    'user.friend.request.cancel': 'Cancel friendship request',
-    'user.friend.request.deny': 'Deny friendship',
-    'user.listing': 'User listing',
-    'user.profile.visit': 'Visit {user}\'s profile.',
+    male {Tilsluttet}
+    female {Tilsluttet}
+    other {Tilsluttet}} på {date, date, long}`,
+    'user.friend.request.accept': 'Accepter venskabsanmodning',
+    'user.friend.request.cancel': 'Annuller anmodning om venskab',
+    'user.friend.request.deny': 'Afvis venskab',
+    'user.listing': 'Brugerliste',
+    'user.profile.visit': 'Besøg {user}\'s profil.',
     'user.profile.avatar': '{username}\'s avatar',
-    'user.friend.list.requests': 'Friendships requests',
-    'user.friend.norequests': 'You have no requests for friendship.',
+    'user.friend.list.requests': 'Anmodninger om venskaber',
+    'user.friend.norequests': 'Du har ingen ønsker om venskab.',
     'user.dashboardWelcome': `Godt {dayPart, select,
     morning {morgen}
     afternoon {eftermiddag}

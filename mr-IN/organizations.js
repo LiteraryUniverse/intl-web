@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'प्राथमिक भाषा',
     'org.meta.desc': 'साहित्यिक युनिवर्समधील संघटना आणि सृजनात्मक गट',
     'org.luOrgs': 'साहित्यिक युनिवर्समधील संघटना',
-    'org.otherOrgs': 'गिल्ड आणि संघटना',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'विषयी {orgName}',
     'org.membersTitle': 'संघटनेचे सदस्य',
     'org.membersNone': 'सदस्यांची सार्वजनिकता नाही',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'गिल्डचा काम नाही',
     'org.workshop.caption': 'गिल्ड मालकी',
     'org.workshop.title': 'संघटना कार्यशाळा',
-    'org.title': 'संघटना'
+    'org.title': 'संघटना',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

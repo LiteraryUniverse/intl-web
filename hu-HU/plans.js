@@ -83,9 +83,9 @@ export default {
     'payment.card.name': 'Név a kártyán',
     'plans.subscribed.thankYou': 'Köszönjük, hogy támogatod a Literary Universe-t',
     'plans.subscribed.periodEnd': 'Az előfizetésed érvényes eddig: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `A végén az előfizetésed {method, select,
+    charge_automatically {automatikusan megújul}
+    send_invoice {megújul a számla kifizetése után}
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'A következő ciklusra a default fizetési módot fogjuk használni.',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Előfizetés helyreállítása',
     'plans.cancel.restoreFailed': 'Elnézést, nem sikerült helyreállítani az előfizetést jelenleg. Kérlek, próbáld újra később.',
     'plans.change.button': 'Előfizetés megváltoztatása',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': 'Válassza ki a frissíteni vagy visszaminősíteni kívánt csomagot. Az árkülönbözetet azonnal kiszámlázzuk vagy arányosítjuk.',
     'plans.change.failed': 'Elnézést, nem sikerült megváltoztatni a terved jelenleg. Kérlek, próbáld újra később.',
     'plans.change.upgrade': 'Fejlesztés',
     'payments.disclaimer': 'A fizetési információk és feldolgozás a Stripe-on keresztül történik. Nem tárolunk hitelkártya vagy bankszámla információt a szervereinken.',
@@ -222,10 +222,10 @@ export default {
     'payment.fanClub.createTier': 'Réteg hozzáadása',
     'payment.fanClub.description': 'Réteg leírása',
     'payment.fanClub.picture': 'Réteg képe',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': 'Az előfizető fizet: {amount}. Platform díj {fee} ({platformPercentage}), akkor kap (becsült): {net}',
+    'payment.fanClub.platformFeeExplained': 'Azon dolgozunk, hogy a platformdíj fedezze a fizetési szolgáltatók által fizetett díjakat, például a hitelkártyadíjakat és egyebeket, de néha előfordulhat, hogy túlcsordulnak. Ha ez előfordul, kérjük, értesítsen minket, hogy a jövőben kivizsgálhassuk és csökkenthessük a hatást. Így nem kellene, hogy ezek a díjak hatással legyenek a teljes összegre, de ha mégis, kérjük, értesítsen minket. Egy másik nagy hatással vannak a nettó értékére az adók. Azokban az országokban, mint például az USA, ahol az adók általában nem számítanak bele az árba, ez nem érinti Önt, míg azokban az országokban, ahol az adók általában benne vannak az árban (mint például az EU-ban), az előfizetési ár meghatározásakor figyelembe kell vennie az országa áfáját.',
     'payment.fanClub.learnStripeFees': 'Tudj meg többet a Stripe díjairól.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': 'Kérjük, vegye figyelembe, hogy ez egy becslés, és a tényleges Stripe-díj eltérhet az ügyfél fizetési típusától és a fizetési kapu további díjaitól, valamint az alkalmazandó adótól függően.',
     'payment.fanClub.perks': 'Juttatások',
     'stripeConnect.settings.notifications': 'Értesítések a Stripe-tól',
     'plans.pricePerMonth': 'Havi összeg',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': 'Előfizetők',
     'plans.fanClub.activatedLabel': 'Fan Club aktiválva',
     'plans.fanClub.inactiveWarning': 'A rajongói klubod még nincs aktiválva, még mindig készíthetsz terveket, és amikor készen állsz, aktiválhatod a beállításokban.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
-    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
-    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.editTier': 'Szerkesztési szint',
+    'plans.deletePlan.modalAria': 'Terv visszaigazolás törlése',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} rajongói klub',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} rajongói klub',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} rajongói klub',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - szerzői rajongói klub',
+    'payment.fanClub.perMonth': '{amount} / havonta',
+    'plans.fanClub.notCreated': 'Hoppá! Valami rosszul sült el, és a rajongói klubod nem akkor jött létre, amikor kellett volna, de ne aggódj, van egy tartalék tervünk! Csak kattints az alábbi gombra, és máris készen állsz!',
+    'plans.fanClub.create': 'Rajongói klub létrehozása'
 };

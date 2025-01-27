@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Primärt språk',
     'org.meta.desc': 'Organisationer och kreativa grupper på Litterär Universum.',
     'org.luOrgs': 'Litterär Universum Organisationer',
-    'org.otherOrgs': 'Gillen & Organisationer',
+    'org.otherOrgs': 'Organisationer',
     'org.aboutTitle': 'Om {orgName}',
     'org.membersTitle': 'Organisationsmedlemmar',
     'org.membersNone': 'Medlemmar är inte offentliga',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Inte ett gillearbete',
     'org.workshop.caption': 'Gilleägande',
     'org.workshop.title': 'Organisationsverkstad',
-    'org.title': 'Organisation'
+    'org.title': 'Organisation',
+    'org.hall.title': '{orgName} medlemssal',
+    'org.member.leave': 'Lämna organisation',
+    'org.member.leaveModalTitle': 'Lämna organisationsbekräftelse',
+    'org.member.leaveModalHeading': 'Är du säker på att du vill lämna {orgName}',
+    'org.member.leaveModalExplain': 'När du lämnar organisationen förlorar du tillgång till alla organisationens tillhörande resurser och arbeten. Denna åtgärd kan inte ångras.'
 };

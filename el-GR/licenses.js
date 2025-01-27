@@ -3,23 +3,23 @@
  * https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
  */
 export default {
-    'licenses.about': 'About licenses',
-    'licenses.more': 'More information',
-    'licenses.legal': 'Legal document',
+    'licenses.about': 'Σχετικά με τις άδειες',
+    'licenses.more': 'Περισσότερες πληροφορίες',
+    'licenses.legal': 'Νομικό έγγραφο',
     'licenses.name.cc-by': 'Creative Commons Αναφορά Δημιουργού 4.0',
-    'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
+    'licenses.cc-by': 'Αυτή η άδεια επιτρέπει σε άλλους να διανέμουν, να αναμειγνύουν, να τροποποιούν και να αξιοποιούν το έργο σας, ακόμη και εμπορικά, αρκεί να σας αναφέρουν την αρχική δημιουργία. Αυτή είναι η πιο εξυπηρετική από τις προσφερόμενες άδειες. Συνιστάται για μέγιστη διάδοση και χρήση του υλικού που έχει παραχωρηθεί με άδεια χρήσης.',
     'licenses.name.cc-by-sa': 'Creative Commons Αναφορά Δημιουργού - Παρόμοια Διανομή 4.0',
-    'licenses.cc-by-sa': 'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
+    'licenses.cc-by-sa': 'Αυτή η άδεια επιτρέπει σε άλλους να αναμειγνύουν, να τροποποιούν και να αξιοποιούν το έργο σας ακόμη και για εμπορικούς σκοπούς, αρκεί να σας αναφέρουν και να παραχωρούν άδεια χρήσης των νέων δημιουργιών τους υπό τους ίδιους όρους. Αυτή η άδεια συγκρίνεται συχνά με τις άδειες ελεύθερου και ανοικτού λογισμικού "copyleft". Όλα τα νέα έργα που βασίζονται στα δικά σας θα φέρουν την ίδια άδεια, οπότε οποιαδήποτε παράγωγα θα επιτρέπουν επίσης την εμπορική χρήση. Αυτή είναι η άδεια που χρησιμοποιείται από τη Βικιπαίδεια και συνιστάται για υλικό που θα επωφεληθεί από την ενσωμάτωση περιεχομένου από τη Βικιπαίδεια και έργα με παρόμοιες άδειες.',
     'licenses.name.cc-by-nd': 'Creative Commons Αναφορά Δημιουργού-Όχι Παράγωγα Έργα 4.0',
-    'licenses.cc-by-nd': 'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
+    'licenses.cc-by-nd': 'Αυτή η άδεια επιτρέπει την αναδιανομή, εμπορική και μη εμπορική, αρκεί να μεταβιβαστεί αναλλοίωτη και στο σύνολό της, με αναφορά σε εσάς.',
     'licenses.name.cc-by-nc': 'Creative Commons Αναφορά Δημιουργού-Μη Εμπορική Χρήση 4.0',
-    'licenses.cc-by-nc': 'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
+    'licenses.cc-by-nc': 'Αυτή η άδεια επιτρέπει σε άλλους να αναμειγνύουν, να τροποποιούν και να βασίζονται στο έργο σας μη εμπορικά, και παρόλο που τα νέα τους έργα πρέπει επίσης να σας αναφέρουν και να είναι μη εμπορικά, δεν χρειάζεται να αδειοδοτήσουν τα παράγωγα έργα τους με τους ίδιους όρους.',
     'licenses.name.cc-by-nc-sa': 'Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0',
-    'licenses.cc-by-nc-sa': 'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
+    'licenses.cc-by-nc-sa': 'Αυτή η άδεια επιτρέπει σε άλλους να αναμειγνύουν, να τροποποιούν και να αξιοποιούν το έργο σας μη εμπορικά, αρκεί να σας αναφέρουν και να παραχωρούν άδεια χρήσης των νέων δημιουργιών τους υπό τους ίδιους όρους.',
     'licenses.name.cc-by-nc-nd': 'Creative Commons Αναφορά Δημιουργού-Μη Εμπορική Χρήση-Όχι Παράγωγα Έργα 4.0',
-    'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
-    'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
+    'licenses.cc-by-nc-nd': 'Αυτή η άδεια είναι η πιο περιοριστική από τις έξι κύριες άδειες, επιτρέποντας μόνο σε άλλους να κατεβάζουν τα έργα σας και να τα μοιράζονται με άλλους, εφόσον σας αναφέρουν, αλλά δεν μπορούν να τα αλλάξουν με οποιονδήποτε τρόπο ή να τα χρησιμοποιήσουν εμπορικά.',
+    'licenses.name.lu-c': 'Πνευματικά δικαιώματα λογοτεχνικού σύμπαντος',
+    'licenses.lu-c': 'Τυπική άδεια πλήρους πνευματικής ιδιοκτησίας που σας επιτρέπει να πουλάτε και να δημοσιεύετε το έργο σας όπως θέλετε και να προστατεύετε τα δικαιώματά σας σε αυτό. Αυτή η άδεια σας δίνει επίσης τη δυνατότητα να πουλήσετε τις ιστορίες σας στο Literary Universe.',
     'licenses.name.cc0': 'Δεν υπάρχουν πνευματικά δικαιώματα - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.cc0': 'Θέστε το έργο σας σε δημόσιο χώρο. Σε αντίθεση με τις άδειες CC που επιτρέπουν στους κατόχους πνευματικών δικαιωμάτων να επιλέξουν από μια σειρά αδειών, διατηρώντας παράλληλα τα πνευματικά τους δικαιώματα, η CC0 δίνει τη δυνατότητα μιας ακόμη εντελώς διαφορετικής επιλογής - την επιλογή να εξαιρεθούν από την προστασία των πνευματικών δικαιωμάτων και των βάσεων δεδομένων, καθώς και από τα αποκλειστικά δικαιώματα που παραχωρούνται αυτόματα στους δημιουργούς - την εναλλακτική λύση "χωρίς επιφύλαξη δικαιωμάτων" στις άδειές μας.'
 };

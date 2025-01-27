@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'ჩვენ გვხვდება Youtube, Vimeo და Odysee',
     'workshop.videoTrailer.rumble': 'ჩვენ ასევე გვეხმარებათ Rumble-ს, მაგრამ არ დაგვიკავშირდეთ იმის დაკოპირებისას IFRAME URL-ს.',
     'workshop.videoTrailer.suggestPlatforms': 'თქვენი ვიდეო პლატფორმა არაა მოცემული, გთხოვთ გამოგვყევით ჩვენს <a>კავშირთავის</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

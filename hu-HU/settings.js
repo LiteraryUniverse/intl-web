@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Rögzítsen egy vonalzót az egérhez',
     'settings.tab.legal': 'Jogi dokumentumok',
     'settings.tab.exportDelete': 'Adatok exportálása és fiók törlése',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Interfész nyelv',
+    'settings.languages.readingLanguage': 'Olvasott nyelv',
+    'settings.languages.readingLanguageExplained': 'A történetek keresésekor a történetek és fordításaik ezen a nyelven kerülnek felajánlásra, hacsak Ön nem ad meg mást.'
 };

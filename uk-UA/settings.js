@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Прикріпити повзунок до миші',
     'settings.tab.legal': 'Юридичні документи',
     'settings.tab.exportDelete': 'Експортувати дані та видалити обліковий запис',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Мова інтерфейсу',
+    'settings.languages.readingLanguage': 'Мова читання',
+    'settings.languages.readingLanguageExplained': 'При пошуку історій ми будемо пропонувати вам історії та їхні переклади цією мовою, якщо ви не вкажете інше.'
 };

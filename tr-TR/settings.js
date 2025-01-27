@@ -33,9 +33,9 @@ export default {
     'settings.export.explain': 'Bu, veritabanımızda depolanan tüm verilerinizi json formatında almanızı sağlar.',
     'settings.export.submit': 'Verileri dışa aktar',
     'settings.delete.title': 'Hesabı Sil',
-    'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
-    there is no way of getting it back. Note that this might not automatically delete your published works,
-    comments, etc. Please refer to Terms of Service for details.`,
+    'settings.delete.warning': `UYARI: Hesabınızı sildiğinizde bu hesaba erişiminizi kaybedersiniz ve
+    hesabınızı geri almanın hiçbir yolu yoktur. Bunun yayınlanmış çalışmalarınızı,
+    yorumlarınızı vb. otomatik olarak silmeyebileceğini unutmayın. Ayrıntılar için lütfen Hizmet Şartları'na bakın.`,
     'settings.delete.confirm': 'Sadece emin olmak için. Hesabınızı silmek istediğinizden emin misiniz?',
     'settings.delete.cancel': 'Hesabımı silmek istemiyorum',
     'settings.delete.submit': 'Hesabımı sil',
@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Fareye bir cetvel ekle',
     'settings.tab.legal': 'Hukuki belgeler',
     'settings.tab.exportDelete': 'Verileri dışa aktar ve hesabı sil',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Arayüz dili',
+    'settings.languages.readingLanguage': 'Okuma dili',
+    'settings.languages.readingLanguageExplained': 'Hikayelere bakarken, aksini belirtmediğiniz sürece size hikayeleri ve çevirilerini bu dilde sunacağız.'
 };

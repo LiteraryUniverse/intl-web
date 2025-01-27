@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Ascuns - Doar persoanele pe care le inviți pot să se alăture.',
     'groups.imageAlt': '{groupName} poză',
     'groups.members': 'Membri',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Există {totalMembers, plural,
+    zero {nu sunt membri}
+    one {este un membru}
+    other {sunt # membri}
+  } în acest grup`,
     'groups.leaveGroup': 'Părăsește grupul',
     'groups.leaveGroup.confirm': 'Doar pentru a te asigura. Ești sigur că vrei să părăsești {groupName}?',
     'group.settings': 'Setări grup',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Invitații la grup',
     'group.invite.accept': 'Acceptă invitația',
-    'group.noticeBoard': 'Panou de anunțuri'
+    'group.noticeBoard': 'Panou de anunțuri',
+    'group.leaveGroup.modalAria': 'Confirmarea faptului că doriți să părăsiți grupul.',
+    'group.leaveGroup.heading': 'Ești sigur că vrei să părăsești {groupName}?',
+    'group.leaveGroup.explain': 'Părăsirea grupului înseamnă că veți pierde accesul la resursele grupului și nu veți mai putea interacționa cu acesta.'
 };

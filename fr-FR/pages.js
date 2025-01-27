@@ -51,10 +51,10 @@ export default {
     'privacy.desc': 'Le texte légal complet de la politique de confidentialité de l\'Univers Littéraire.',
     'guidelines.desc': 'Directives Communautaires de l\'Univers Littéraire.',
     'tos.desc': 'Le texte légal complet des Conditions d\'Utilisation de l\'Univers Littéraire.',
-    'homepage.intro': 'Let Your Creativity Run Wild Across the Literary Universe',
+    'homepage.intro': 'Laissez libre cours à votre créativité dans l\'univers littéraire',
     // 'homepage.explanation':
     //   'Literary Universe is all-in-one creative writing and reading platform, focused on complex literary universe.  We aim to provide interconnected tools to write complex story universes and stories, and a great experience for fans and readers in exploring those universe.',
-    'homepage.explanation': 'Ever dreamt of developing a fictional world so detailed, even you get lost in it? At Literary Universe, we provide the tools to make this vision a reality. Every writer deserves access to top-notch resources and support. That\'s why we\'ve designed an all-inclusive space that bridges the gap between intricate storytelling and passionate reading. For writers, it\'s a dream workspace; for readers, an odyssey of exploration. Join us as we follow the literary rabbit hole to discover how far it leads us in the world of imagination.',
+    'homepage.explanation': 'Avez-vous déjà rêvé de développer un monde fictif si détaillé que vous vous y perdriez ? À l\'Univers littéraire, nous fournissons les outils nécessaires pour que cette vision devienne réalité. Chaque écrivain mérite d\'avoir accès à des ressources et à un soutien de premier ordre. C\'est pourquoi nous avons conçu un espace complet qui fait le lien entre la narration complexe et la lecture passionnée. Pour les écrivains, c\'est un espace de travail de rêve ; pour les lecteurs, une odyssée d\'exploration. Rejoignez-nous et suivez le trou du lapin littéraire pour découvrir jusqu\'où il nous mène dans le monde de l\'imagination.',
     'gdpr.title': 'Conformité avec le RGPD',
     'gdpr.desc': 'L\'Univers littéraire est conforme aux directives du RGPD de l\'UE.',
     'gdpr.compliant': 'L\'Univers Littéraire est conforme au RGPD',

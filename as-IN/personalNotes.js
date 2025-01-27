@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'গ্রন্থমালা এন্ট্রি',
   'personalNotes.type.revTextBlock': 'পরিবর্তিত পাঠ ব্লক',
   'personalNotes.chapter': 'অধ্যায়',
-  'personalNotes.recentSearches': 'সাম্প্রতিক অনুসন্ধানগুলি:'
+  'personalNotes.recentSearches': 'সাম্প্রতিক অনুসন্ধানগুলি:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };

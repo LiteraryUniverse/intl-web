@@ -23,7 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Sök efter ett universum',
     'discover.searchUniverse.description': 'Sök efter universum',
     'discover.search.storyStatus': 'Berättelsens framskridande',
-    'discover.search.genres': 'Genres',
+    'discover.search.genres': 'Genrer',
     'story.status.complete': 'Komplett',
     'story.status.inProgress': 'Pågående',
     'discover.search.universeConnection': 'Koppling av berättelse till universum',
@@ -60,5 +60,5 @@ export default {
     'discovery.chaptersTotal': 'Totalt antal kapitel i berättelsen',
     'discovery.readFromStart': 'Läs från första kapitlet',
     'discovery.readLatest': 'Läs det senaste kapitlet',
-    'discovery.author': 'Author'
+    'discovery.author': 'Författaren'
 };

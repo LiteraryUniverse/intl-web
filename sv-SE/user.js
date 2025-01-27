@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': '{username}s avatar',
     'user.friend.list.requests': 'Vänförfrågningar',
     'user.friend.norequests': 'Du har inga förfrågningar om vänskap.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Bra {dayPart, select,
+    morning {morgon}
+    afternoon {eftermiddag}
+    evening {kväll}
+    night {natt}
+    other {dag}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Den här författaren har blivit publicerad på det traditionella sättet',
     'user.verification.luAuthor': 'Författare av betydelse inom Litterära Universum',

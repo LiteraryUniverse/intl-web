@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Tersembunyi - Hanya orang yang Anda undang yang dapat bergabung.',
     'groups.imageAlt': '{groupName} gambar',
     'groups.members': 'Anggota',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Ada {totalMembers, plural,
+    zero {tidak ada anggota}
+    one {ada satu anggota}
+    other {ada # anggota}
+  } di grup ini`,
     'groups.leaveGroup': 'Keluar dari grup',
     'groups.leaveGroup.confirm': 'Hanya untuk memastikan. Apakah Anda yakin ingin keluar dari {groupName}?',
     'group.settings': 'Pengaturan grup',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Undangan grup',
     'group.invite.accept': 'Terima undangan',
-    'group.noticeBoard': 'Papan pengumuman'
+    'group.noticeBoard': 'Papan pengumuman',
+    'group.leaveGroup.modalAria': 'Konfirmasi bahwa Anda ingin keluar dari grup.',
+    'group.leaveGroup.heading': 'Apakah Anda yakin ingin meninggalkan {groupName}?',
+    'group.leaveGroup.explain': 'Keluar dari grup berarti Anda akan kehilangan akses ke sumber daya grup dan tidak dapat berinteraksi dengannya.'
 };

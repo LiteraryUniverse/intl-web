@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Lời mời nhóm',
     'group.invite.accept': 'Chấp nhận lời mời',
-    'group.noticeBoard': 'Bảng thông báo'
+    'group.noticeBoard': 'Bảng thông báo',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };

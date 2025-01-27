@@ -48,9 +48,9 @@ export default {
     'feedback.report.copyrightInternalProperty': 'Я опублікував(ла) цю роботу на Literary Universe',
     'feedback.reportType.spam': 'Спам або фішинг',
     'feedback.reportType.other': 'Інше',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `Який {type, select,
+    universe {всесвіт}
+    story {історія}
+    other {історія}
+  } порушується?`
 };

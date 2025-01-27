@@ -26,6 +26,6 @@ export default {
     'writer.publish.alreadyPublished': 'Dit hoofdstuk is al gepubliceerd op {publishedAt, date, short}. Nieuwe versies worden direct gepubliceerd.',
     'writer.publish.betaReader': 'Bèta',
     'writer.publish.public': 'Publiceren',
-    'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.now': 'Nu publiceren',
+    'writer.publish.schedulePrevious': 'U moet het vorige hoofdstuk publiceren of de publicatie ervan plannen voordat u dit hoofdstuk kunt publiceren.'
 };

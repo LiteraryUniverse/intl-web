@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Imagine de copertă',
     'encyclopedia.translation.title': 'Bine ați venit în universul de traducere {universe} !',
     'encyclopedia.translation.desc': 'Această interfață a enciclopediei este folosită pentru traducerea în {language}. Alegeți intrările existente din lista din stânga pentru a începe traducerea lor.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Nu există {totalEntries, plural, 
+    zero {intrări}
+    one {este o intrare}
+    other {sunt # intrări}
+  } în acest univers.`,
     'encyclopedia.settings.title': 'Setările enciclopediei',
     'encyclopedia.settings.categoriesDesc': 'Activați și dezactivați categoriile pe care doriți să le utilizați în enciclopedia dumneavoastră.',
     'encyclopedia.settings.introText': 'Mesajul de bun venit care va fi afișat după descrierea universului.',

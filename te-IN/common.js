@@ -111,6 +111,8 @@ export default {
     'story.read': 'చదవండి',
     'story.lastUpdate': 'చివరి నవీకరణ చేయబడింది {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'చదివించిన తేదీ {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}కోసం వ్యాఖ్యలు.',
     'story.cover.alt': '{story}కోసం కథ ముద్ర చిత్రం.',
     'story.note.fanfiction': 'గమనిక: ఈ కథ ఒక {universe} యూనివర్సు పై ఒక అనుయాయి కథ.',

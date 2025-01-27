@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'პირველადი ენა',
     'org.meta.desc': 'ორგანიზაციები და კრეატიული ჯგუფები Literary Universe-ზე.',
     'org.luOrgs': 'Literary Universe ორგანიზაციები',
-    'org.otherOrgs': 'გილდები და ორგანიზაციები',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'შესახებ {orgName}',
     'org.membersTitle': 'ორგანიზაციის წევრები',
     'org.membersNone': 'წევრები არ არიან საჯარო',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'არ არის გილდის სამსახური',
     'org.workshop.caption': 'გილდის სახელმწიფო',
     'org.workshop.title': 'ორგანიზაციის სამუშაობა',
-    'org.title': 'ორგანიზაცია'
+    'org.title': 'ორგანიზაცია',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': '마우스에 자를 부착',
     'settings.tab.legal': '법적 문서',
     'settings.tab.exportDelete': '데이터 내보내기 및 계정 삭제',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': '인터페이스 언어',
+    'settings.languages.readingLanguage': '읽기 언어',
+    'settings.languages.readingLanguageExplained': '스토리를 검색할 때 별도로 지정하지 않는 한 이 언어로 된 스토리와 해당 번역을 제공합니다.'
 };

@@ -3,23 +3,23 @@
  * https://creativecommons.org/share-your-work/licensing-types-examples/licensing-examples/
  */
 export default {
-    'licenses.about': 'About licenses',
-    'licenses.more': 'More information',
-    'licenses.legal': 'Legal document',
+    'licenses.about': '라이선스 정보',
+    'licenses.more': '자세한 정보',
+    'licenses.legal': '법률 문서',
     'licenses.name.cc-by': '크리에이티브 커먼즈 저작자표시 4.0',
-    'licenses.cc-by': 'This license lets others distribute, remix, tweak, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.',
+    'licenses.cc-by': '이 라이선스를 사용하면 다른 사람이 원본 창작물에 대한 출처를 표시하는 한 상업적으로도 저작물을 배포, 리믹스, 수정 및 구축할 수 있습니다. 이 라이선스는 제공되는 라이선스 중 가장 수용적인 라이선스입니다. 라이선스 자료의 배포 및 사용을 극대화하는 데 권장됩니다.',
     'licenses.name.cc-by-sa': '크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0',
-    'licenses.cc-by-sa': 'This license lets others remix, tweak, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.',
+    'licenses.cc-by-sa': '이 라이선스를 사용하면 다른 사람이 상업적 목적으로도 동일한 조건에 따라 저작자에게 크레딧을 부여하고 라이선스를 부여하는 한 저작물을 리믹스, 수정, 구축할 수 있습니다. 이 라이선스는 종종 "카피레프트" 무료 오픈 소스 소프트웨어 라이선스와 비교되기도 합니다. 사용자의 저작물을 기반으로 한 모든 새로운 저작물에는 동일한 라이선스가 적용되므로 파생 저작물도 상업적 사용이 허용됩니다. 이 라이선스는 위키백과에서 사용하는 라이선스이며, 위키백과 및 유사 라이선스 프로젝트의 콘텐츠를 통합하여 이점을 얻을 수 있는 자료에 권장됩니다.',
     'licenses.name.cc-by-nd': '크리에이티브 커먼즈 저작자표시-변경금지 4.0',
-    'licenses.cc-by-nd': 'This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to you.',
+    'licenses.cc-by-nd': '이 라이선스는 상업적 및 비상업적 재배포를 허용하며, 전체 내용을 변경하지 않고 출처를 밝히기만 하면 됩니다.',
     'licenses.name.cc-by-nc': '크리에이티브 커먼즈 저작자표시-비영리 4.0',
-    'licenses.cc-by-nc': 'This license lets others remix, tweak, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.',
+    'licenses.cc-by-nc': '이 라이선스를 사용하면 다른 사람이 귀하의 저작물을 비상업적으로 리믹스, 수정 및 구축할 수 있으며, 새로운 저작물도 귀하를 인정하고 비상업적이어야 하지만 동일한 조건으로 파생 저작물에 대한 라이선스를 부여할 필요는 없습니다.',
     'licenses.name.cc-by-nc-sa': '크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0',
-    'licenses.cc-by-nc-sa': 'This license lets others remix, tweak, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.',
+    'licenses.cc-by-nc-sa': '이 라이선스를 사용하면 다른 사람이 귀하의 저작물을 비상업적으로 리믹스, 수정 및 구축할 수 있지만, 귀하에게 크레딧을 제공하고 동일한 조건으로 새로운 창작물에 대한 라이선스를 부여하는 한 허용됩니다.',
     'licenses.name.cc-by-nc-nd': '크리에이티브 커먼즈 저작자표시-비영리-변경금지 4.0',
-    'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
-    'licenses.name.lu-c': 'Literary Universe Copyrights',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
+    'licenses.cc-by-nc-nd': '이 라이선스는 6가지 주요 라이선스 중 가장 제한적인 라이선스로, 저작물을 다운로드하고 다른 사람과 공유하는 것은 허용하지만 어떤 식으로든 변경하거나 상업적으로 사용할 수 없습니다.',
+    'licenses.name.lu-c': '문학 세계 저작권',
+    'licenses.lu-c': '원하는 대로 작품을 판매하고 작품에 대한 권리를 보호할 수 있는 표준 전체 저작권 라이선스입니다. 이 라이선스에는 문학 창작자 유니버스에서 스토리를 판매할 수 있는 옵션도 제공됩니다.',
     'licenses.name.cc0': '저작권 없음 CC1 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.cc0': '저작물을 퍼블릭 도메인으로 전환하세요. 저작권 소유자가 저작권을 유지하면서 다양한 권한 중에서 선택할 수 있는 CC 라이선스와 달리, CC0는 저작권 및 데이터베이스 보호를 거부할 수 있는 선택권과 크리에이터에게 자동으로 부여되는 독점적 권한, 즉 "권리 없음" 라이선스를 선택할 수 있는 또 다른 선택권을 부여합니다.'
 };

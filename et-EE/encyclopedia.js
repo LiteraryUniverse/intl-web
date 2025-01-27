@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Kaatrid pilt',
     'encyclopedia.translation.title': 'Tere tulemast {universe} universumi tõlkesse!',
     'encyclopedia.translation.desc': 'Selle entsüklopeedia liidest kasutatakse tõlkimiseks keelde {language}. Alustamiseks valige vasakul olevast loendist olemasolevad kirjed.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Selles universumis {totalEntries, plural, 
+    zero {ei ole kirjeid}
+    one {on üks kirje}
+    other {on # kirjet}
+  } .`,
     'encyclopedia.settings.title': 'Entsüklopeedia seaded',
     'encyclopedia.settings.categoriesDesc': 'Lülitage sisse ja välja kategooriad, mida soovite entsüklopeedias kasutada.',
     'encyclopedia.settings.introText': 'Tervitussõnum, mis kuvatakse pärast universumi kirjeldust.',
@@ -141,10 +141,10 @@ export default {
     'encyclopedia.menuClose': 'Sulge entsüklopeedia menüü',
     'encyclopedia.menuAria': 'Entsüklopeedia menüü',
     'enc.newField': 'Uus väli',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'enc.entries.limit': `Teil on praegu {value, number} välja {max, plural,
+    =0 {piiramatu}
     other {{max, number}}
-  } entries.`,
+  } kirjed.`,
     'enc.entries.limitReached': 'Olete jõudnud oma praeguse tellimuse jaoks lubatud entsüklopeedia sisestuste maksimumini.',
     'enc.menuControls.ariaDesc': 'Entsüklopeedia juhtelemendid',
     'encyclopedia.pronunciation.title': 'Hääldus',

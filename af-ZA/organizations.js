@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Primêre taal',
     'org.meta.desc': 'Organisasies en skeppende groepe op Literêre Universum.',
     'org.luOrgs': 'Literêre Universum Organisasies',
-    'org.otherOrgs': 'Gildes & Organisasies',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Oor {orgName}',
     'org.membersTitle': 'Organisasie-lede',
     'org.membersNone': 'Lede is nie openbaar nie',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Not a guild work',
     'org.workshop.caption': 'Guild ownership',
     'org.workshop.title': 'Organisasie werkswinkel',
-    'org.title': 'Organisasie'
+    'org.title': 'Organisasie',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

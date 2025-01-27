@@ -1,8 +1,8 @@
 export default {
-    'blog.noneMsg': `You currently don't have {type, select,
-    organization {any blog}
-    universe {a blog for your universe}
-    user {a blog}
+    'blog.noneMsg': `لا يوجد لديك حاليًا {type, select,
+    organization {أي مدونة}
+    universe {مدونة لعالمك}
+    user {مدونة}
     other {}
   }.`,
     'blog.create': 'إنشاء مدونة جديدة',
@@ -33,11 +33,11 @@ export default {
     fanfiction {عمل قصصي من قبل المعجبين}
     other {}
   }`,
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `الروابط الاجتماعية هي نفسها التي تم تعيينها في {type, select,
+    organization {إعدادات منتدى المجموعة}
+    user {ملف تعريف المستخدم}
     other {}
-  }`,
+  }~`,
     'blog.social.website': 'الموقع الرسمي',
     'blog.settings.universeSettings': 'تم دمج مدونات العالم في صفحات العالم مع الإعدادات الأساسية المأخوذة من إعدادات العالم.',
     'blog.settings.organizationSettings': 'تم دمج مدونات المنظمة في صفحات المنظمة.',

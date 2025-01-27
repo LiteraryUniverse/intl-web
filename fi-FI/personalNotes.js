@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Tietosanakirjamerkintä',
   'personalNotes.type.revTextBlock': 'Muokkausmerkkiblokki',
   'personalNotes.chapter': 'Luku',
-  'personalNotes.recentSearches': 'Viimeisimmät haut:'
+  'personalNotes.recentSearches': 'Viimeisimmät haut:',
+  'personalNotes.myNotes': 'Henkilökohtaiset muistiinpanoni'
 };

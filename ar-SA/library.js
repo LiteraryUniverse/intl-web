@@ -3,7 +3,7 @@ export default {
     'library.remove': 'إزالة من المكتبة',
     'library.bought': 'قصص تم شراؤها',
     'library.stories': 'قصص تمت متابعتها',
-    'library.universes': 'Followed universes',
+    'library.universes': 'الأكوان المتبعة',
     'bookmark.continueReading': 'متابعة القراءة',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'bookmark.statusSummary': 'لقد قرأت {readPercent, number, ::percent} من القصة.'
 };

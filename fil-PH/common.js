@@ -111,6 +111,8 @@ export default {
     'story.read': 'Basahin',
     'story.lastUpdate': 'Huling na-update noong {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Natapos noong {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'Mga komento para kay {story} {chapter}.',
     'story.cover.alt': 'Larawan ng pabalat ng kuwento para kay {story}.',
     'story.note.fanfiction': 'TANDAAN: Ang kuwentong ito ay isang fan fiction sa universe ng {universe}.',

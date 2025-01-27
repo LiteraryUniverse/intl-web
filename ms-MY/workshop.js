@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Kami menyokong Youtube, Vimeo dan Odysee',
     'workshop.videoTrailer.rumble': 'Kami juga menyokong Rumble, tetapi ingatlah untuk menyalin URL IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Adakah platform video anda hilang, beritahu kami melalui <a>maklum balas</a> kami!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

@@ -2,12 +2,12 @@ export default {
     'workshop.title': 'Työsi',
     'workshop.noneassigned': 'Sinulle ei ole vielä määritelty mitään.',
     'workshop.notavailable': 'Tämä ominaisuus ei ole vielä käytettävissä.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.none': `Sinulla ei ole tällä hetkellä {type, select,
+      universe {universumi}
+      story {tarina}
+      fanfiction {fanifiktio}
       other {}
-    }. Create one now!`,
+    }. Luo sellainen nyt!`,
     'workshop.collab': 'Yhteistyötyö',
     'workshop.betareadings': 'Beta-lukemiset',
     'workshop.translations': 'Käännökset',
@@ -65,8 +65,8 @@ export default {
     'workshop.revisions.comments': 'Versiokommentit',
     'workshop.revisions.comments.title': '{story}: {chapter} - Versio {revision} - Kommentit',
     'workshop.revisions.comments.list': `{revision}: {language}, {publication, select,
-      beta {for Beta readers}
-      readers {Public}
+      beta {Beta-lukijoille}
+      readers {Julkinen}
       other {}
     } {datetime, date, medium} {datetime, time, short}`,
     'workshop.revisions.comments.norevision': 'Sinun täytyy luoda ensin versio.',
@@ -90,19 +90,19 @@ export default {
     'workshop.translation.updatedTrs': 'Viimeisin päivitys käännöksessä: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionOrig': 'Viimeisin tarkistusversio {revision, number}, alkuperäisessä: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionTrs': 'Viimeisin tarkistusversio {revision, number}, käännöksessä: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.collaborators.premium': `Lisätäksesi lisää {type, select,
+    collaborator {yhteistyökumppaneita}
+    beta {betalukijoita}
+    translator {kääntäjiä}
     other {}
-  }, you need to increase your membership tier.`,
+  }, sinun on nostettava jäsenyystasoa.`,
     'workshop.collaborators.requests.sent': 'Lähetetyt pyynnöt',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+    'workshop.collaborators.requests.invite': `Sinut on kutsuttu {role, select,
+    beta {betalukijaksi}
+    translator {kääntäjäksi}
+    collaborator {yhteistyökumppaniksi}
     other {}
-  } for the following:`,
+  } seuraavaan:`,
     'workshop.collaborators.requests.dashboard': `Sinut on kutsuttu yhteistyöhön {count, plural,
     zero {ei työtä}
     one {yksi kirjallinen teos}
@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'Luo sellainen nyt!',
     'workshop.fictionalTime.createTitle': 'Luo uusi kuvitteellinen aika',
     'workshop.fictionalTime.editTitle': 'Muokkaa {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Täällä voit luoda oman kuvitteellisen aikasi. Tällä hetkellä tämä työkalu on rajoitettu ja pystyy luomaan vain
+        symmetrisiä aikoja. Tämä tarkoittaa, että et voi luoda Mayan kalenteria tai gregoriaanista kalenteria. Tällä hetkellä
+        tämä työkalu odottaa, että kaikki ajat ovat aina samat, esim. kuukausilla on aina 30 päivää ilman poikkeuksia ja niin edelleen
+        . Tähän puututaan myöhemmissä versioissa, mutta siihen asti tämä työkalu soveltuu paremmin lähinnä
+        scifiin perustuvien aikojen luomiseen.`,
     'workshop.fictionalTime.timeName': 'Ajan nimi',
     'workshop.fictionalTime.basicInfo': 'Perustiedot',
     'workshop.fictionalTime.timeSetup': 'Ajan asetukset',
@@ -234,58 +234,63 @@ export default {
     'workshop.work.includesAds': 'Onko teoksessa mainoksia tai tuotesijoittelua?',
     'workshop.universe.forumSettings': 'Sisäisen universumin foorumin asetukset',
     'workshop.universe.forum': 'Sisäinen {universeName} foorumi',
-    'workshop.ratingAdjusted': 'Due to complains we had to adjust your rating to the one that we felt appropriate. As such changing the rating is now disabled.',
-    'workshop.selectCollaborator': 'Select collaborator',
+    'workshop.ratingAdjusted': 'Valitusten vuoksi meidän oli muutettava luokituksesi sellaiseksi, jonka koimme sopivaksi. Näin ollen luokituksen muuttaminen on nyt poistettu käytöstä.',
+    'workshop.selectCollaborator': 'Valitse yhteistyökumppani',
     'workshop.chapters.scheduledOn': '{publishDate, date, short} | {publishDate, time}',
-    'workshop.chapterStatus.draft': 'Draft',
-    'workshop.chapterStatus.scheduled': 'Scheduled',
-    'workshop.chapterStatus.published': 'Published',
-    'workshop.story.continuedIn': 'Which stories continue this story?',
-    'workshop.story.continuedPlaceholder': 'Select story from this universe',
-    'workshop.universe.isAIGenerated': 'Is the content of the universe generated by AI?',
-    'workshop.universe.isAIGeneratedTooltip': 'Please let us know if any of the content in the universe was generated by or with the help of AI. We use this information for proper labeling and due to how AI programs are generated there might be some limitations and restrictions.',
-    'workshop.story.isAIGenerated': 'Is the story generated by AI?',
-    'workshop.story.isAIGeneratedTooltip': 'Please let us know if any of the story was generated by or with the help of AI. We use this information for proper labeling and due to how AI programs are generated there might be some limitations and restrictions.',
-    'workshop.publicationAgreement.aria': 'Publication agreement for work',
-    'workshop.publicationAgreement.intro': 'We are happy that you have chosen to publish your creative work with us. Before we proceed we just need you to look over our publication agreement, to understand what it means from the legal side of things.',
-    'workshop.sortChapters': 'Sort order:',
-    'workshop.sortChapters.ascending': 'From beginning',
-    'workshop.sortChapters.descending': 'From latest',
-    'workshop.sortChapters.aria': 'Select for which way to sort chapter listing',
-    'workshop.hiatus.btn': 'Change story status to Hiatus',
-    'workshop.cancelled.btn': 'Change story status to Cancelled',
-    'workshop.complete.btn': 'Change story status to Completed',
-    'workshop.statusChange.modalTop': 'Are you sure you want to change the status to',
+    'workshop.chapterStatus.draft': 'Luonnos',
+    'workshop.chapterStatus.scheduled': 'Aikataulutettu',
+    'workshop.chapterStatus.published': 'Julkaistu',
+    'workshop.story.continuedIn': 'Mitkä tarinat jatkavat tätä tarinaa?',
+    'workshop.story.continuedPlaceholder': 'Valitse tarina tästä universumista',
+    'workshop.universe.isAIGenerated': 'Onko maailmankaikkeuden sisältö tekoälyn tuottama?',
+    'workshop.universe.isAIGeneratedTooltip': 'Kerro meille, onko jokin maailmankaikkeuden sisällöstä tuotettu tekoälyn avulla tai sen avulla. Käytämme tätä tietoa asianmukaiseen merkitsemiseen, ja koska tekoälyohjelmat luodaan, niihin saattaa liittyä joitakin rajoituksia ja rajoituksia.',
+    'workshop.story.isAIGenerated': 'Onko tarina tekoälyn luoma?',
+    'workshop.story.isAIGeneratedTooltip': 'Kerro meille, jos jokin tarina on tuotettu tekoälyn avulla tai sen avulla. Käytämme tätä tietoa asianmukaiseen merkitsemiseen, ja koska tekoälyohjelmat luodaan, niihin saattaa liittyä joitakin rajoituksia ja rajoituksia.',
+    'workshop.publicationAgreement.aria': 'Työn julkaisemista koskeva sopimus',
+    'workshop.publicationAgreement.intro': 'Olemme iloisia, että olet päättänyt julkaista luovan työsi kanssamme. Ennen kuin jatkamme, sinun on tutustuttava julkaisusopimukseemme, jotta ymmärrät, mitä se tarkoittaa oikeudellisesta näkökulmasta.',
+    'workshop.sortChapters': 'Lajittelujärjestys:',
+    'workshop.sortChapters.ascending': 'Alusta alkaen',
+    'workshop.sortChapters.descending': 'Viimeisimmästä',
+    'workshop.sortChapters.aria': 'Valitse, millä tavalla luvut lajitellaan',
+    'workshop.hiatus.btn': 'Vaihda tarinan tilaksi Hiatus',
+    'workshop.cancelled.btn': 'Vaihda tarinan tilaksi Peruutettu',
+    'workshop.complete.btn': 'Vaihda tarinan tilaksi Valmistunut',
+    'workshop.statusChange.modalTop': 'Oletko varma, että haluat muuttaa tilan muotoon',
     'workshop.statusName.hiatus': 'Hiatus',
-    'workshop.statusName.cancelled': 'Cancelled',
+    'workshop.statusName.cancelled': 'Peruutettu',
     'workshop.statusName.completed': 'Valmistunut',
-    'workshop.statusExplain.hiatus1': 'Hiatus means that you are stepping away from working on this story for a while for what ever reason. It will tell your readers that they should not expect any new updates in the coming weeks or even up to few months.',
-    'workshop.statusExplain.hiatus2': 'The hiatus status will be automatically lifted if you publish any chapter. Or you can change it your self.',
-    'workshop.statusExplain.hiatus3': 'If you keep your story in hiatus for six months, we will automatically mark this story as cancelled.',
-    'workshop.statusExplain.cancelled1': 'We are sorry to hear that you can\'t continue working on the story. On the other hand we are happy that you are willing to let your readers know.',
-    'workshop.statusExplain.cancelled2': 'Cancelling story will let your readers know that they should not expect any new updates.',
-    'workshop.statusExplain.cancelled3': 'You can always revert this by publishing a chapter or changing the status.',
-    'workshop.statusExplain.finished1': 'Congratulations! After all that hard work you have finally reached the end of an incredible journey. While the story might end now, we hope that there will be more stories to tell in the future, but for now, relax and enjoy the well earned rest.',
-    'workshop.statusExplain.finished2': 'Marking story as complete will tell the readers that the story is finished. While you shouldn\'t be adding any new chapters we won\'t stop you and adding special chapters isn\'t a bad idea, to for example add more epilogues for all characters.',
-    'workshop.statusExplain.finished3': 'While you can always cancel this status we highly advice against it. If the story is to continue it might be better to start a new story.',
-    'workshop.status.goActive': 'Make the story active again',
-    'workshop.statusChangeEmail.storyIntro': 'We would like to inform you that your story:',
-    'workshop.statusChangeEmail.hiatusTitle': 'Your story status was automatically set to hiatus',
-    'workshop.statusChangeEmail.hiatusIntro': 'Due to inactivity your story status was automatically set to hiatus.',
-    'workshop.statusChangeEmail.hiatusWhy': 'Has been automatically put on hiatus due to no new chapter being published for over 6 months.',
-    'workshop.statusChangeEmail.hiatusWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t publish a new chapter in the next 6 months we will automatically set the story as cancelled.',
-    'workshop.statusChangeEmail.cancellationIntro': 'Your story status was automatically set to cancelled.',
-    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. So after a year of inactivity we automatically set stories to cancelled so that readers know which stories are active.',
-    'workshop.statusChangeEmail.cancellationWhatFollows': 'This status will be automatically lifted if you publish a new chapter. If you don\'t plan to work on this story anymore there is nothing else that you need to do.',
-    'workshop.startCreating': 'Start creating',
-    'workshop.ownWork': 'Own work',
-    'workshop.list.thumbs': 'Thumbnails list',
-    'workshop.list.list': 'Short list',
-    'workshop.fanfiction.new': 'Create a new fan fiction',
+    'workshop.statusExplain.hiatus1': 'Hiatus tarkoittaa sitä, että lopetat tämän tarinan työstämisen joksikin aikaa mistä tahansa syystä. Se kertoo lukijoillesi, että heidän ei pitäisi odottaa uusia päivityksiä lähiviikkoina tai jopa muutamaan kuukauteen.',
+    'workshop.statusExplain.hiatus2': 'Tauon tila poistuu automaattisesti, jos julkaiset jonkin luvun. Tai voit muuttaa sen itse.',
+    'workshop.statusExplain.hiatus3': 'Jos pidät tarinasi tauolla kuusi kuukautta, merkitsemme sen automaattisesti peruutetuksi.',
+    'workshop.statusExplain.cancelled1': 'Olemme pahoillamme, ettet voi jatkaa tarinan työstämistä. Toisaalta olemme iloisia siitä, että olet halukas kertomaan asiasta lukijoille.',
+    'workshop.statusExplain.cancelled2': 'Tarinan peruuttaminen kertoo lukijoille, ettei heidän tarvitse odottaa uusia päivityksiä.',
+    'workshop.statusExplain.cancelled3': 'Voit aina korjata tämän julkaisemalla luvun tai muuttamalla tilan.',
+    'workshop.statusExplain.finished1': 'Onnittelut! Kaiken sen kovan työn jälkeen olet vihdoin päässyt uskomattoman matkan päähän. Vaikka tarina saattaa päättyä nyt, toivomme, että tulevaisuudessa on vielä lisää tarinoita kerrottavaksi, mutta nyt voit rentoutua ja nauttia hyvin ansaitusta levosta.',
+    'workshop.statusExplain.finished2': 'Tarinan merkitseminen valmiiksi kertoo lukijoille, että tarina on valmis. Vaikka sinun ei pitäisi lisätä uusia lukuja, emme estä sinua, eikä erikoislukujen lisääminen ole huono ajatus, esimerkiksi epilogien lisääminen kaikille hahmoille.',
+    'workshop.statusExplain.finished3': 'Vaikka voit aina peruuttaa tämän statuksen, emme suosittele sitä. Jos tarinan on tarkoitus jatkua, olisi ehkä parempi aloittaa uusi tarina.',
+    'workshop.status.goActive': 'Tee tarinasta jälleen aktiivinen',
+    'workshop.statusChangeEmail.storyIntro': 'Haluamme ilmoittaa, että tarinasi:',
+    'workshop.statusChangeEmail.hiatusTitle': 'Tarinasi tila asetettiin automaattisesti tauolle.',
+    'workshop.statusChangeEmail.hiatusIntro': 'Toimimattomuuden vuoksi tarinasi tila asetettiin automaattisesti tauolle.',
+    'workshop.statusChangeEmail.hiatusWhy': 'On asetettu automaattisesti tauolle, koska uutta lukua ei ole julkaistu yli 6 kuukauteen.',
+    'workshop.statusChangeEmail.hiatusWhatFollows': 'Tämä tila poistuu automaattisesti, jos julkaiset uuden luvun. Jos et julkaise uutta lukua seuraavan 6 kuukauden aikana, asetamme tarinan automaattisesti peruutetuksi.',
+    'workshop.statusChangeEmail.cancellationIntro': 'Tarinasi tilaksi asetettiin automaattisesti peruutettu.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Näin on käynyt, koska et ole lähettänyt yhtään uutta lukua tarinaan sen jälkeen, kun se asetettiin tauolle 6 kuukautta sitten. Joten vuoden toimimattomuuden jälkeen asetamme tarinat automaattisesti peruutetuiksi, jotta lukijat tietävät, mitkä tarinat ovat aktiivisia.',
+    'workshop.statusChangeEmail.cancellationWhatFollows': 'Tämä tila poistuu automaattisesti, jos julkaiset uuden luvun. Jos et aio enää työskennellä tämän tarinan parissa, sinun ei tarvitse tehdä mitään muuta.',
+    'workshop.startCreating': 'Aloita luominen',
+    'workshop.ownWork': 'Oma työ',
+    'workshop.list.thumbs': 'Pienoiskuvien luettelo',
+    'workshop.list.list': 'Lyhyt luettelo',
+    'workshop.fanfiction.new': 'Luo uusi fanifiktio',
     'workshop.videoTrailerLink': 'Videon trailerin linkki',
     'workshop.videoTrailerPlayerTitle': 'Tarinan videon trailerin soitin',
     'workshop.videoTrailer.supportedPlaftorms': 'Tuetamme Youtubea, Vimeota ja Odyseetä',
     'workshop.videoTrailer.rumble': 'Tuetamme myös Rumblea, mutta muista kopioida IFRAME-URL.',
     'workshop.videoTrailer.suggestPlatforms': 'Puuttuuko videoiden alusta? Kerro siitä meille <a>palaute</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Vaihda kansi',
+    'workshop.collaborator.leave': 'Jätä projekti',
+    'workshop.collaborator.leaveTitle': 'Vahvista, että haluat lähteä {workName}',
+    'workshop.collaborator.leaveExplained': 'Projektista poistuminen tarkoittaa, että menetät kaikki käyttöoikeudet, yhdistykset ja etuoikeudet. Jos et ole varma, mitä tämä kaikki tarkoittaa, et varmaankaan halunnut klikata tätä.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Poistettu osoitteessa {date, date}'
 };

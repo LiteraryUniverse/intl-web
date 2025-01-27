@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Ми підтримуємо Youtube, Vimeo та Odysee',
     'workshop.videoTrailer.rumble': 'Ми також підтримуємо Rumble, але не забудьте скопіювати URL IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Чи відсутня ваша відео платформа? Дайте нам знати через нашу <a>зворотній зв\'язок</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Змініть кришку',
+    'workshop.collaborator.leave': 'Проєкт "Залишити',
+    'workshop.collaborator.leaveTitle': 'Будь ласка, підтвердіть, що ви хочете залишити {workName}',
+    'workshop.collaborator.leaveExplained': 'Вихід з проекту означатиме, що ви втратите весь доступ, асоціації та привілеї. Якщо ви не впевнені, що все це означає, то, ймовірно, це не те, що ви хотіли натиснути.',
+    'workshop.collaborators.leftInfo': 'Зліва на {date, date}',
+    'workshop.collaborators.removedInfo': 'Видалено на {date, date}'
 };

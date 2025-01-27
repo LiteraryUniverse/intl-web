@@ -27,12 +27,12 @@ export default {
   'events.origin.lu': '文學宇宙活動',
   'events.visibility.label': '活動可見性',
   'events.visibility.public': '公開 - 任何人都可以看到這個活動',
-  'events.visibility.owner': `Owner - only {type, select,
-    group {members of your group}
-    universe {collaborators and fans of the universe}
-    organization {members of your organization}
-    other {you and the people you invite}
-  } can see this event`,
+  'events.visibility.owner': `擁有者 - 只有 {type, select,
+    group {您群組的成員}
+    universe {宇宙的合作者和粉絲}
+    organization {您組織的成員}
+    other {您和您邀請的人}
+  } 可以看到這個事件`,
   'events.visibility.private': '私人 - 只有你邀請的人可以看到這個活動',
   'events.inviting': '看到這個活動的人可以邀請其他人嗎？',
   'events.administration': '活動管理',

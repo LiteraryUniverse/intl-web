@@ -48,9 +48,9 @@ export default {
     'feedback.report.copyrightInternalProperty': '나는 Literary Universe에서 이 작품을 게시했습니다',
     'feedback.reportType.spam': '스팸 또는 피싱',
     'feedback.reportType.other': '기타',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `어느 {type, select,
+    universe {유니버스}
+    story {스토리}
+    other {스토리}
+  } 의 저작권이 침해되고 있나요?`
 };

@@ -34,12 +34,12 @@ export default {
     storyteller {이야기꾼}
     other {}
   } 티어로 업그레이드했습니다. 다음 {days} 일 동안 이용할 수 있습니다.\n\n즐겨주세요,\nLiterary Universe 팀`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.messageHtml': `다음 {days} 일 동안 계정을 {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
+  } 티어로 업그레이드했습니다. 즐기세요!`,
     'email.verification': '이메일 확인',
     'email.verifying': '이메일을 확인 중입니다. 잠시만 기다려주세요...',
     'email.verified': '좋은 소식입니다! 이메일이 확인되었습니다!'

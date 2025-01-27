@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Bevestig een liniaal aan de muis',
     'settings.tab.legal': 'Juridische documenten',
     'settings.tab.exportDelete': 'Gegevens exporteren en account verwijderen',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Interfacetaal',
+    'settings.languages.readingLanguage': 'Taal lezen',
+    'settings.languages.readingLanguageExplained': 'Bij het opzoeken van verhalen zullen wij u verhalen en hun vertalingen in deze taal aanbieden, tenzij u anders aangeeft.'
 };

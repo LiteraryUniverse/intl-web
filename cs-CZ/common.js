@@ -111,6 +111,8 @@ export default {
     'story.read': 'Číst',
     'story.lastUpdate': 'Naposledy aktualizováno {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Dokončeno {date, date, medium}.',
+    'story.hiatusAt': 'Přestávka od {date, date, medium}.',
+    'story.cancelledAt': 'Zrušeno na {date, date, medium}.',
     'story.comments.for': 'Komentáře pro {story} {chapter}.',
     'story.cover.alt': 'Obal příběhu {story}.',
     'story.note.fanfiction': 'POZNÁMKA: Tento příběh je fan fikce v {universe} vesmíru.',
@@ -271,5 +273,5 @@ export default {
     'common.newest': 'Nejnovější',
     'common.oldest': 'Nejstarší',
     'common.noSelection': 'Nic nevybráno',
-    'common.content': 'Content'
+    'common.content': 'Obsah'
 };

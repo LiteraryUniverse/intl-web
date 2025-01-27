@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} Fan-indstillinger',
     'universe.fanfiction.stories': 'Historier',
     'universe.fanfiction.fanarts': 'Fan Arts',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Der {num, plural,
+    =0 {er ingen historier}
+    one {er én historie}
+    other {er # historier}
+    } i dette univers.`,
     'universe.authors.title': 'Forfattere',
     'universe.authors.desc': 'Skabere og bidragsydere til {universe}',
     'universe.contributors': 'Bidragsydere',

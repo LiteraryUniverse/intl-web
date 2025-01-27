@@ -89,15 +89,15 @@ export default {
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Metoda ta de plată implicită va fi folosită pentru plata următorului ciclu.',
-    'plans.subscribed.status': `Subscription status: {status, select,
-    active {Active}
-    incomplete {There is something missing}
-    incomplete_expired {There is something missing}
+    'plans.subscribed.status': `Starea abonamentului: {status, select,
+    active {Activ}
+    incomplete {Lipsește ceva}
+    incomplete_expired {Lipsește ceva}
     trialing {Trial}
-    past_due {We are missing your payment}
-    cancelled {Cancelled}
-    unpaid {Unpaid}
-    expired {Expired}
+    past_due {Lipsește plata ta}
+    cancelled {Anulat}
+    unpaid {Neplătit}
+    expired {Expirat}
     other {}
   }`,
     'payments.changeMethod': 'Schimbă metoda de plată',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Restaurează abonamentul',
     'plans.cancel.restoreFailed': 'Ne pare rău, nu am putut restaura abonamentul în acest moment. Te rugăm să încerci din nou mai târziu.',
     'plans.change.button': 'Schimbă abonamentul',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': 'Selectați planul la care doriți să faceți upgrade sau downgrade. Diferența de preț vă va fi facturată sau calculată proporțional imediat.',
     'plans.change.failed': 'Ne pare rău, nu am putut schimba planul tău în acest moment. Te rugăm să încerci din nou mai târziu.',
     'plans.change.upgrade': 'Upgrade',
     'payments.disclaimer': 'Informațiile și procesarea plăților sunt realizate prin intermediul Stripe. Nu păstrăm nicio informație despre cardurile de credit sau conturile bancare pe serverele noastre.',
@@ -222,10 +222,10 @@ export default {
     'payment.fanClub.createTier': 'Adăugați nivelul',
     'payment.fanClub.description': 'Descriere nivel',
     'payment.fanClub.picture': 'Imagine nivel',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': 'Abonatul va plăti: {amount}. Taxa de platformă este {fee} ({platformPercentage}), veți obține (estimativ): {net}',
+    'payment.fanClub.platformFeeExplained': 'Facem eforturi pentru ca taxa noastră de platformă să acopere comisioanele furnizorilor de plăți, cum ar fi comisioanele pentru cardurile de credit și altele, dar uneori ar putea exista o depășire. Dacă acest lucru se întâmplă, vă rugăm să ne anunțați, astfel încât să putem investiga și reduce impactul în viitor. Ca atare, nu ar trebui să vedeți niciunul dintre aceste comisioane afectând totalul dvs., dar dacă se întâmplă, vă rugăm să ne anunțați. Un alt impact important asupra valorii dvs. nete sunt taxele. În țări precum SUA, unde taxele nu sunt incluse în preț, nu veți fi afectat; în țări unde taxele sunt incluse în preț (precum UE), trebuie să țineți cont de TVA-ul din țara dvs. atunci când stabiliți prețul abonamentului.',
     'payment.fanClub.learnStripeFees': 'Află mai multe despre taxele Stripe.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': 'Vă rugăm să rețineți că aceasta este o estimare, iar comisionul Stripe real poate fi diferit în funcție de tipul de plată al clientului și de taxele suplimentare de la poarta de plată și de taxele aplicabile.',
     'payment.fanClub.perks': 'Beneficii',
     'stripeConnect.settings.notifications': 'Notificări de la Stripe',
     'plans.pricePerMonth': 'Sumă pe lună',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': 'Abonați',
     'plans.fanClub.activatedLabel': 'Fan Club activat',
     'plans.fanClub.inactiveWarning': 'Clubul tău de fani nu este încă activat, poți să pregătești planurile și, odată ce ești gata, îl poți activa în setări.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
+    'payment.fanClub.editTier': 'Editare nivel',
+    'plans.deletePlan.modalAria': 'Ștergeți confirmarea planului',
     'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
     'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
     'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.paymentDescriptorBackup': 'LU - fan club al autorului',
+    'payment.fanClub.perMonth': '{amount} / pe lună',
+    'plans.fanClub.notCreated': 'Oops! Ceva nu a mers bine și fan clubul tău nu a fost creat când ar fi trebuit, dar nu-ți face griji, avem un plan de rezervă pregătit! Doar faceți clic pe butonul de mai jos și veți fi gata!',
+    'plans.fanClub.create': 'Creați un fan club'
 };

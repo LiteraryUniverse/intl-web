@@ -19,9 +19,9 @@ export default {
     'challenges.future.wordcount': 'Desafio de contagem de palavras começando em {startDate, date, short} com o objetivo de {target, number} até {endDate, date, short}.',
     'challenges.future.nanowrimo': 'O desafio do NaNoWriMo está pronto.',
     'challenges.wordcount': 'Contagem de palavras',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Estabeleça uma meta de quantas palavras o senhor quer escrever este mês para esta {type, select,
+    story {história}
+    universe {universo}
     other {}
   }.`,
     'challenges.wordcount.select': 'Quantas palavras você deseja se desafiar a escrever?',

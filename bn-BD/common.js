@@ -111,6 +111,8 @@ export default {
     'story.read': 'পড়ুন',
     'story.lastUpdate': 'সর্বশেষ আপডেট করা হয়েছে {date, date, medium} {date, time, short}.',
     'story.finishedAt': '{date, date, medium}এ শেষ হয়েছে।',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}এর জন্য মন্তব্যগুলি।',
     'story.cover.alt': '{story}এর জন্য গল্পের কভার চিত্র।',
     'story.note.fanfiction': 'নোট: এই গল্পটি {universe} বিশ্বের একটি ফ্যান ফিকশন।',

@@ -19,7 +19,7 @@ export default {
     'licenses.name.cc-by-nc-nd': 'Creative Commons Ne kereskedelmi! Ne add el! 4.0',
     'licenses.cc-by-nc-nd': 'Ez a licenc a hat fő licencünk közül a legkorlátozóbb, és csak lehetővé teszi mások számára, hogy letöltsék a műveidet és megosszák másokkal, feltéve, hogy megjelölnek téged, de nem változtathatják meg azokat semmilyen módon, és nem használhatják őket kereskedelmi célokra.',
     'licenses.name.lu-c': 'Irodalmi Univerzum szerzői jogai',
-    'licenses.lu-c': 'Standard full copyrights license that allows you to sell publish your work as you like and have your rights to it protected. This license also gives you the option to sell your stories on Literary Universe.',
-    'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
-    'licenses.cc0': 'Put your work into public domain. In contrast to CC’s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the “no rights reserved” alternative to our licenses.'
+    'licenses.lu-c': 'Szabványos teljes szerzői jogi licenc, amely lehetővé teszi, hogy tetszés szerint eladja és közzétegye munkáját, és a jogai védve legyenek. Ez a licenc lehetőséget ad arra is, hogy történeteit az Irodalmi Univerzumon értékesítse.',
+    'licenses.name.cc0': 'Nincs jog fenntartva - CC0 1.0',
+    'licenses.cc0': 'Tegye közkinccsé munkáját. A CC licencekkel ellentétben, amelyek lehetővé teszik a szerzői jogtulajdonosok számára, hogy a szerzői jogaik megtartása mellett válasszanak a különböző engedélyek közül, a CC0 egy teljesen más választási lehetőséget biztosít - a szerzői jog és az adatbázis-védelem, valamint az alkotóknak automatikusan biztosított kizárólagos jogok mellőzésének választását - a licencek "jogfenntartás nélküli" alternatíváját.'
 };

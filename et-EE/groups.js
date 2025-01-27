@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Peidetud - Ainult kutsetega inimesed saavad liituda.',
     'groups.imageAlt': '{groupName} pilt',
     'groups.members': 'Liikmed',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Selles rühmas {totalMembers, plural,
+    zero {ei ole ühtegi liiget}
+    one {on üks liige}
+    other {on # liiget}
+  } selles rühmas.`,
     'groups.leaveGroup': 'Lahku grupist',
     'groups.leaveGroup.confirm': 'Lihtsalt veendumaks. Kas olete kindel, et soovite lahkuda grupist {groupName}?',
     'group.settings': 'Grupi seaded',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Grupikutsed',
     'group.invite.accept': 'Võta kutse vastu',
-    'group.noticeBoard': 'Teadetetahvel'
+    'group.noticeBoard': 'Teadetetahvel',
+    'group.leaveGroup.modalAria': 'Kinnitus, et soovite grupist lahkuda.',
+    'group.leaveGroup.heading': 'Kas olete kindel, et soovite lahkuda {groupName}?',
+    'group.leaveGroup.explain': 'Grupist lahkumine tähendab, et kaotate juurdepääsu grupi ressurssidele ja ei saa sellega suhelda.'
 };

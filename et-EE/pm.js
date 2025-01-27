@@ -16,10 +16,10 @@ export default {
     other {# lugemata vestlust}
   }.`,
     'pm.form.minimumParticipants': 'Peate valima saaja.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
+    'pm.form.maxParticipants': `Ühes vestluses võib olla maksimaalselt {maxPeople, plural,
+    one {üks inimene}
+    other {# inimest}
+  } .`,
     'pm.new.aria': 'Uus vestlus',
     'pm.new.buttonTitle': 'Alusta uut vestlust'
 };

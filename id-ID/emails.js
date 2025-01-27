@@ -28,12 +28,12 @@ export default {
     'email.verifyEmail.button': 'Verifikasi alamat email ini',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Akun Anda telah ditingkatkan',
-    'email.adminUpgrade.message': `We have upgraded your account to {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.message': `{days} Kami telah meningkatkan akun Anda menjadi {plan, select,
+    explorer {Penjelajah}
+    adventurer {Petualang}
+    storyteller {Pendongeng}
     other {}
-  } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
+  } untuk beberapa hari ke depan.\n\nSelamat menikmati,\nTim Literary Universe`,
     'email.adminUpgrade.messageHtml': `Kami telah meningkatkan akun Anda menjadi {plan, select,
     explorer {Penjelajah}
     adventurer {Petualang}

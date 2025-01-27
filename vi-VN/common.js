@@ -111,6 +111,8 @@ export default {
     'story.read': 'Đọc',
     'story.lastUpdate': 'Cập nhật cuối vào ngày {date, date, medium}  {date, time, short}.',
     'story.finishedAt': 'Hoàn thành vào ngày {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'Bình luận cho {story} {chapter}.',
     'story.cover.alt': 'Ảnh bìa chuyện cho {story}.',
     'story.note.fanfiction': 'LƯU Ý: Câu chuyện này là fan fiction trên vũ trụ {universe}.',

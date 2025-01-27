@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Ansiklopedi Girişi',
   'personalNotes.type.revTextBlock': 'Düzeltme Metin Bloğu',
   'personalNotes.chapter': 'Bölüm',
-  'personalNotes.recentSearches': 'Son Aramalar:'
+  'personalNotes.recentSearches': 'Son Aramalar:',
+  'personalNotes.myNotes': 'Kişisel Notlarım'
 };

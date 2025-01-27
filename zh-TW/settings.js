@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': '將尺規附加到滑鼠上',
     'settings.tab.legal': '法律文件',
     'settings.tab.exportDelete': '匯出資料和刪除帳戶',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': '介面語言',
+    'settings.languages.readingLanguage': '閱讀語言',
+    'settings.languages.readingLanguageExplained': '查找故事時，除非您另有指定，否則我們將為您提供此語言的故事及其翻譯。'
 };

@@ -34,12 +34,12 @@ export default {
     storyteller {Hikayeci}
     other {}
   } seviyesine yükselttik. Bir sonraki {days} gün boyunca geçerli.\n\nKeyfini çıkarın,\nLiterary Universe ekibi`,
-    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    'email.adminUpgrade.messageHtml': `Hesabınızı önümüzdeki {days} gün boyunca {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
+  } kademesine yükselttik. İyi eğlenceler!`,
     'email.verification': 'E-posta doğrulama',
     'email.verifying': 'E-postanızı doğruluyoruz. Bu birkaç dakika sürebilir...',
     'email.verified': 'Harika haber! E-postanız doğrulandı!'

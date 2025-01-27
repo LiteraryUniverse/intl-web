@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'שפת עיקרית',
     'org.meta.desc': 'ארגונים וקבוצות יצירתיות ביקום הספרותי.',
     'org.luOrgs': 'ארגונים ביקום הספרותי',
-    'org.otherOrgs': 'התאחדויות וארגונים',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'אודות {orgName}',
     'org.membersTitle': 'חברי הארגון',
     'org.membersNone': 'החברים אינם ציבוריים',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'לא עבודה של הקהילה',
     'org.workshop.caption': 'בעלות על הקהילה',
     'org.workshop.title': 'סדנת ארגון',
-    'org.title': 'ארגון'
+    'org.title': 'ארגון',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

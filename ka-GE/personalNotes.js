@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'ენციკლოპედიის ტექსტური ბლოკი',
   'personalNotes.type.revTextBlock': 'რევიზიის ტექსტური ბლოკი',
   'personalNotes.chapter': 'თავისუფალი',
-  'personalNotes.recentSearches': 'ბოლო ძიებები:'
+  'personalNotes.recentSearches': 'ბოლო ძიებები:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };

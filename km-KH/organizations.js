@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ភាសាដើមសំខាន់',
     'org.meta.desc': 'សកលនិងក្រុមសិក្សានិម្មិតនៅលីតិកម្មច្រើនក្នុង Literary Universe។',
     'org.luOrgs': 'សកលនិងក្រុមសិក្សានិម្មិតនៅលីតិកម្មច្រើនក្នុង Literary Universe',
-    'org.otherOrgs': 'ក្រុមហ៊ុននិងសហគមន៍',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'អំពី {orgName}',
     'org.membersTitle': 'សមាជិកនៃអង្គការ',
     'org.membersNone': 'សមាជិកមិនត្រូវបានបង្ហាញសាធារណៈ',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'មិនជាការងាររបស់សហគមន៍',
     'org.workshop.caption': 'ការទុកធនធានការរបស់សហគមន៍',
     'org.workshop.title': 'សកម្មភាពគ្រប់គ្រងអង្គភាព',
-    'org.title': 'អង្គភាព'
+    'org.title': 'អង្គភាព',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

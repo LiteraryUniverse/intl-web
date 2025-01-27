@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'முதன்மை மொழி',
     'org.meta.desc': 'இலக்கண உலகத்தில் உள்ள அமைப்புகள் மற்றும் கலையரசுக்கள்.',
     'org.luOrgs': 'இலக்கண உலகத்தின் அமைப்புகள்',
-    'org.otherOrgs': 'கில்ட்ஸ் & அமைப்புகள்',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'பற்றி {orgName}',
     'org.membersTitle': 'அமைப்பு உறுப்பினர்கள்',
     'org.membersNone': 'உறுப்பினர்கள் பொதுவாக இல்லை',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'ஒரு குழு வேலை அல்ல',
     'org.workshop.caption': 'குழு உரிமை',
     'org.workshop.title': 'அமைப்பு பயிற்சி',
-    'org.title': 'அமைப்பு'
+    'org.title': 'அமைப்பு',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

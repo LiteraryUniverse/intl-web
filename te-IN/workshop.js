@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'మేము Youtube, Vimeo మరియు Odysee ని మద్దతు చేస్తాము',
     'workshop.videoTrailer.rumble': 'మేము రూంబల్‌ను కూడా మద్దతు చేస్తాము, కానీ మీరు IFRAME URL ని కాపీ చేయాలి.',
     'workshop.videoTrailer.suggestPlatforms': 'మీ వీడియో ప్లాట్ఫారం లేదా, మనకు తెలియజేయండి మా <a>అభిప్రాయం</a> ద్వారా!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

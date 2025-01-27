@@ -15,11 +15,11 @@ export default {
     'blog.description': 'Tinklaraščio įvadas',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Keisdami temą, galėsite pakeisti puslapio išvaizdą. Ši funkcija šiuo metu nėra pasirengusi.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Šiame tinklaraštyje {total, plural,
+    zero {nėra įrašų}
+    one {yra vienas įrašas}
+    other {yra # įrašų}
+  } .`,
     'blog.post.create': 'Kurti naują įrašą',
     'blog.post.update': 'Redaguoti {title}',
     'blog.post.text': 'Įrašo tekstas',

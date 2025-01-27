@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Primært sprog',
     'org.meta.desc': 'Organisationer og kreative grupper på Litterære Univers.',
     'org.luOrgs': 'Litterære Univers Organisationer',
-    'org.otherOrgs': 'Gilder & Organisationer',
+    'org.otherOrgs': 'Organisationer',
     'org.aboutTitle': 'Om {orgName}',
     'org.membersTitle': 'Organisationsmedlemmer',
     'org.membersNone': 'Medlemmer er ikke offentlige',
@@ -52,8 +52,13 @@ export default {
     'org.teams.total': 'Samlede hold: {totalTeams, number}',
     'org.teams.create': 'Opret et nyt hold',
     'org.teams.settings': 'Holdindstillinger',
-    'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.ownerUser': 'Ikke et laugsarbejde',
+    'org.workshop.caption': 'Ejerskab af laug',
     'org.workshop.title': 'Organisationsworkshop',
-    'org.title': 'Organisation'
+    'org.title': 'Organisation',
+    'org.hall.title': '{orgName} Medlemssal',
+    'org.member.leave': 'Forlad organisationen',
+    'org.member.leaveModalTitle': 'Forlader organisationens bekræftelse',
+    'org.member.leaveModalHeading': 'Er du sikker på, at du vil forlade {orgName}',
+    'org.member.leaveModalExplain': 'Når du forlader organisationen, mister du adgang til alle organisationens tilknyttede ressourcer og værker. Denne handling kan ikke fortrydes.'
 };

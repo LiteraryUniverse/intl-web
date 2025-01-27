@@ -48,7 +48,7 @@ export default {
     'nanowrimo.baseline': 'Când începe NaNoWriMo, va lua numărul curent de cuvinte și îl va folosi ca bază, iar orice cuvinte adiționale vor fi considerate parte a NaNoWriMo.',
     'nanowrimo.victory': 'Felicitări! Ai câștigat NaNoWriMo!',
     'nanowrimo.challenge': 'Provocarea NaNoWriMo',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
+    'nanowrimo.description': 'Provocarea este de a scrie un roman de {words, number} cuvinte în luna noiembrie.',
     'nanowrimo.error.usernotfound': 'Numele de utilizator nu a fost găsit pe serverele NaNoWriMo.',
     'nanowrimo.error.nobook': 'Nu a fost găsită nicio carte. Asigură-te că ai creat cartea ta pe NaNoWriMo.',
     'nanowrimo.error.wordcount': 'Imposibil de setat numărul de cuvinte pe NaNoWriMo, te rog verifică-ți credențialele și încearcă din nou.',

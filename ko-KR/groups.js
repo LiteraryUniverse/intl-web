@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': '그룹 초대',
     'group.invite.accept': '초대 수락',
-    'group.noticeBoard': '게시판'
+    'group.noticeBoard': '게시판',
+    'group.leaveGroup.modalAria': '그룹에서 탈퇴할 것인지 확인합니다.',
+    'group.leaveGroup.heading': '{groupName}?',
+    'group.leaveGroup.explain': '그룹에서 탈퇴하면 그룹 리소스에 대한 액세스 권한이 상실되어 그룹과 상호 작용할 수 없게 됩니다.'
 };

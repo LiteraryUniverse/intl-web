@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'நாங்கள் Youtube, Vimeo மற்றும் Odysee ஐ ஆதரிக்கிறோம்',
     'workshop.videoTrailer.rumble': 'நாங்கள் ரம்பிளையும் ஆதரிக்கிறோம், ஆனால் IFRAME URL ஐ நகலெடுக்க மறக்காதீர்கள்.',
     'workshop.videoTrailer.suggestPlatforms': 'உங்கள் வீடியோ தளம் இல்லையா? எங்களுக்கு தெரிவிக்கவும் எனக்குப் பின்னூட்டம் அனுப்புங்கள் <a>கருத்து</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

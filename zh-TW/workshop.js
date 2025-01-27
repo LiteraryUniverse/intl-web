@@ -103,11 +103,11 @@ export default {
     collaborator {合作者}
     other {}
   }：`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
-  }.`,
+    'workshop.collaborators.requests.dashboard': `您已受邀合作 {count, plural,
+    zero {沒有作品}
+    one {一部文學作品}
+    other {# 部文學作品}
+  }。`,
     'workshop.collaborators.language.added': '已新增語言',
     'workshop.story.noChaptersFound': '找不到任何章節。',
     'workshop.fanfic.needUniverseInLibrary': '宇宙有很多，請先將您想要創作的宇宙加入您的圖書館，這樣我們才能找到它們。',
@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': '立即創建一個！',
     'workshop.fictionalTime.createTitle': '創建新的虛構時間',
     'workshop.fictionalTime.editTitle': '編輯 {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `您可以在此建立自己的虛構時間。目前這個工具的功能有限，只能建立
+        對稱時間。這表示您無法重新創建 Mayan 曆法或 Gregorian 曆法。目前
+        ，此工具期望所有的時間都是一樣的，例如：月總是有 30 天，沒有例外，因此
+        。我們會在以後的版本中解決這個問題，但在此之前，這個工具更適合於建立主要以
+        科幻為基礎的時間。`,
     'workshop.fictionalTime.timeName': '時間名稱',
     'workshop.fictionalTime.basicInfo': '基本信息',
     'workshop.fictionalTime.timeSetup': '時間設置',
@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': '我們支援Youtube、Vimeo和Odysee',
     'workshop.videoTrailer.rumble': '我們也支援Rumble，但請記得複製IFRAME的網址。',
     'workshop.videoTrailer.suggestPlatforms': '如果您的視頻平台缺失，請通過我們的<a>反饋</a>告訴我們！',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': '變更封面',
+    'workshop.collaborator.leave': '離開專案',
+    'workshop.collaborator.leaveTitle': '請確認您要離開 {workName}',
+    'workshop.collaborator.leaveExplained': '離開專案意味著您將喪失所有存取權、關聯和權限。如果您不確定這一切的意義，那麼這可能不是您想要點選的。',
+    'workshop.collaborators.leftInfo': '左開 {date, date}',
+    'workshop.collaborators.removedInfo': '於 {date, date}移除'
 };

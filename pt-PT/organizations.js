@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Língua principal',
     'org.meta.desc': 'Organizações e grupos criativos no Universo Literário.',
     'org.luOrgs': 'Organizações do Universo Literário',
-    'org.otherOrgs': 'Guilds e Organizações',
+    'org.otherOrgs': 'Organizações',
     'org.aboutTitle': 'Sobre {orgName}',
     'org.membersTitle': 'Membros da organização',
     'org.membersNone': 'Os membros não são públicos',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Não é um trabalho de guid',
     'org.workshop.caption': 'Propriedade da guild',
     'org.workshop.title': 'Oficina da organização',
-    'org.title': 'Organização'
+    'org.title': 'Organização',
+    'org.hall.title': '{orgName} sala dos membros',
+    'org.member.leave': 'Deixar a organização',
+    'org.member.leaveModalTitle': 'Confirmação de saída da organização',
+    'org.member.leaveModalHeading': 'Tem a certeza de que quer ir embora {orgName}',
+    'org.member.leaveModalExplain': 'Quando sair da organização, perderá o acesso a todos os recursos e trabalhos associados à organização. Esta ação não pode ser anulada.'
 };

@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Paslėpta - Tik žmonės, kuriuos pakvietėte, gali prisijungti.',
     'groups.imageAlt': '{groupName} paveikslėlis',
     'groups.members': 'Nariai',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Šioje grupėje {totalMembers, plural,
+    zero {nėra narių}
+    one {yra vienas narys}
+    other {yra # narių}
+  } grupėje`,
     'groups.leaveGroup': 'Palikti grupę',
     'groups.leaveGroup.confirm': 'Tikrai norite palikti {groupName}?',
     'group.settings': 'Grupės nustatymai',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Grupės pakvietimai',
     'group.invite.accept': 'Priimti kvietimą',
-    'group.noticeBoard': 'Skelbimų lentelė'
+    'group.noticeBoard': 'Skelbimų lentelė',
+    'group.leaveGroup.modalAria': 'Patvirtinimas, kad norite palikti grupę.',
+    'group.leaveGroup.heading': 'Ar tikrai norite išvykti iš {groupName}?',
+    'group.leaveGroup.explain': 'Išėjimas iš grupės reiškia, kad neteksite prieigos prie grupės išteklių ir negalėsite su ja bendrauti.'
 };

@@ -39,5 +39,8 @@ export default {
   }`,
     'groups.invites.title': 'Gruppinbjudningar',
     'group.invite.accept': 'Acceptera inbjudan',
-    'group.noticeBoard': 'Anslagstavla'
+    'group.noticeBoard': 'Anslagstavla',
+    'group.leaveGroup.modalAria': 'Bekräftelse på att du vill lämna gruppen.',
+    'group.leaveGroup.heading': 'Är du säker på att du vill lämna {groupName}?',
+    'group.leaveGroup.explain': 'Att lämna gruppen innebär att du förlorar tillgången till gruppens resurser och inte kan interagera med den.'
 };

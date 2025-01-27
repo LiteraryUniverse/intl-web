@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Pangunahing wika',
     'org.meta.desc': 'Mga Organisasyon at mga grupo sa Literary Universe.',
     'org.luOrgs': 'Mga Organisasyon sa Literary Universe',
-    'org.otherOrgs': 'Guilds & Organizations',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Tungkol sa {orgName}',
     'org.membersTitle': 'Mga miyembro ng organisasyon',
     'org.membersNone': 'Ang mga miyembro ay hindi pampubliko',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Hindi gawa ng guild',
     'org.workshop.caption': 'Pagmamay-ari ng guild',
     'org.workshop.title': 'Pagpupulong ng Organisasyon',
-    'org.title': 'Organisasyon'
+    'org.title': 'Organisasyon',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

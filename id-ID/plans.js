@@ -83,9 +83,9 @@ export default {
     'payment.card.name': 'Nama pada kartu',
     'plans.subscribed.thankYou': 'Terima kasih atas dukungan Anda kepada Literary Universe',
     'plans.subscribed.periodEnd': 'Langganan Anda berlaku hingga: {end, date, medium}',
-    'plans.subscribed.renewal': `At the end your subscription will be {method, select,
-    charge_automatically {renewed automatically}
-    send_invoice {renewed after paying an invoice}
+    'plans.subscribed.renewal': `Pada akhirnya langganan Anda akan {method, select,
+    charge_automatically {diperpanjang secara otomatis}
+    send_invoice {diperpanjang setelah membayar faktur}
     other {}
   }.`,
     'plans.subscribed.paymentMethod': 'Metode pembayaran default Anda akan digunakan untuk membayar siklus berikutnya.',
@@ -109,7 +109,7 @@ export default {
     'plans.cancel.restoreBtn': 'Pulihkan langganan',
     'plans.cancel.restoreFailed': 'Maaf, kami tidak dapat memulihkan langganan saat ini. Silakan coba lagi nanti.',
     'plans.change.button': 'Ubah langganan',
-    'plans.change.explanation': 'Select the plan you want to upgrade or downgrade to. You will be billed or prorated the difference in price immediately.',
+    'plans.change.explanation': 'Pilih paket yang ingin Anda tingkatkan atau turunkan. Anda akan ditagih atau diprorata selisih harganya dengan segera.',
     'plans.change.failed': 'Maaf, kami tidak dapat mengubah rencana Anda saat ini. Silakan coba lagi nanti.',
     'plans.change.upgrade': 'Tingkatkan',
     'payments.disclaimer': 'Informasi pembayaran dan pemrosesan dilakukan melalui Stripe. Kami tidak menyimpan informasi kartu kredit atau rekening bank di server kami.',
@@ -125,9 +125,9 @@ export default {
     'payment.invoice.status': 'Status faktur',
     'payment.invoice.statusMessage': `{status, select,
     draft {Draft}
-    open {Open}
-    paid {Paid}
-    uncollectible {Uncollectible}
+    open {Terbuka}
+    paid {Lunas}
+    uncollectible {Tak tertagih}
     void {Void}
     other {}
   }`,
@@ -215,17 +215,17 @@ export default {
     'payment.universe.haveFans': 'Lebih mudah mendapatkan sponsor jika mereka sudah tertarik dengan apa yang Anda lakukan. 100 penggemar yang menambahkan universe Anda ke perpustakaan mereka adalah garis awal.',
     'payment.settings.yourFanClub': 'Klub penggemar Anda',
     'payment.settings.newWork': 'Buat karya baru',
-    'payment.amount.withNet': `{amount} (net: {netAmount})`,
+    'payment.amount.withNet': `{amount} (bersih: {netAmount})`,
     'payment.fanClub.intro': 'In this section you can modify your fan club settings. From subscription tiers to history of payments.',
     'payment.fanClub.tiers': 'Tiers',
     'payment.fanClub.tierName': 'Nama tier',
     'payment.fanClub.createTier': 'Tambahkan tier',
     'payment.fanClub.description': 'Deskripsi tier',
     'payment.fanClub.picture': 'Gambar tier',
-    'payment.fanClub.priceBreakdown': 'Subscriber will pay: {amount}. Platform fee is {fee} ({platformPercentage}), you will get (estimated): {net}',
-    'payment.fanClub.platformFeeExplained': 'We are working towards our platform fee covering fees from payment providers such as credit card fees and others, but sometimes there might be overflow. If that happens please let us know so that we can investigate and reduce the impact in the future. As such you should not see any of those fees effect your total, but if you do please let us know. Another big impact on your net value are taxes. In countries like USA where it is common to have taxes to be exclusive of the price you will not be affected, in countries where it is common to have taxes inclusive in the price (like the EU), you need to account for your country\'s VAT when setting the subscription price.',
+    'payment.fanClub.priceBreakdown': 'Pelanggan akan membayar: {amount}. Biaya platform adalah {fee} ({platformPercentage}), Anda akan mendapatkan (perkiraan): {net}',
+    'payment.fanClub.platformFeeExplained': 'Kami berupaya agar biaya platform kami mencakup biaya dari penyedia pembayaran seperti biaya kartu kredit dan lainnya, tetapi terkadang mungkin ada kelebihan. Jika hal itu terjadi, mohon beritahu kami agar kami dapat menyelidiki dan mengurangi dampaknya di masa mendatang. Dengan demikian, Anda seharusnya tidak melihat biaya-biaya tersebut mempengaruhi total Anda, tetapi jika ada, beri tahu kami. Dampak besar lainnya pada nilai bersih Anda adalah pajak. Di negara-negara seperti Amerika Serikat di mana pajak tidak termasuk dalam harga, Anda tidak akan terpengaruh, di negara-negara di mana pajak sudah termasuk dalam harga (seperti Uni Eropa), Anda harus memperhitungkan PPN negara Anda saat menetapkan harga langganan.',
     'payment.fanClub.learnStripeFees': 'Pelajari lebih lanjut tentang biaya Stripe.',
-    'payment.feeNotice': 'Please do note that this is an estimate and the actual Stripe fee might be different based on customer\'s payment type and additional charges from the pay gate and applicable taxes.',
+    'payment.feeNotice': 'Harap diperhatikan bahwa ini adalah perkiraan dan biaya Stripe yang sebenarnya mungkin berbeda berdasarkan jenis pembayaran pelanggan dan biaya tambahan dari gerbang pembayaran dan pajak yang berlaku.',
     'payment.fanClub.perks': 'Keuntungan',
     'stripeConnect.settings.notifications': 'Notifikasi dari Stripe',
     'plans.pricePerMonth': 'Jumlah per bulan',
@@ -238,13 +238,13 @@ export default {
     'plans.fanClub.subscribers': 'Pelanggan',
     'plans.fanClub.activatedLabel': 'Fan Club diaktifkan',
     'plans.fanClub.inactiveWarning': 'Klub penggemar Anda belum diaktifkan, Anda masih dapat membuat rencana dan setelah Anda siap, Anda dapat mengaktifkannya di pengaturan.',
-    'payment.fanClub.editTier': 'Edit tier',
-    'plans.deletePlan.modalAria': 'Delete plan confirmation',
-    'payment.fanClub.paymentDescriptorFull': 'LU - {username} fan club',
-    'payment.fanClub.paymentDescriptorShort': 'LU-{username} fan club',
-    'payment.fanClub.paymentDescriptorMinimal': '{username} fan club',
-    'payment.fanClub.paymentDescriptorBackup': 'LU - author fan club',
-    'payment.fanClub.perMonth': '{amount} / per month',
-    'plans.fanClub.notCreated': 'Oops! Something went wrong and your fan club did not get create when it should have, but worry not, we have a backup plan ready! Just click the button bellow and you will be all set!',
-    'plans.fanClub.create': 'Create fan club'
+    'payment.fanClub.editTier': 'Edit tingkat',
+    'plans.deletePlan.modalAria': 'Menghapus konfirmasi paket',
+    'payment.fanClub.paymentDescriptorFull': 'LU - {username} klub penggemar',
+    'payment.fanClub.paymentDescriptorShort': 'LU-{username} klub penggemar',
+    'payment.fanClub.paymentDescriptorMinimal': '{username} klub penggemar',
+    'payment.fanClub.paymentDescriptorBackup': 'LU - klub penggemar penulis',
+    'payment.fanClub.perMonth': '{amount} / per bulan',
+    'plans.fanClub.notCreated': 'Ups! Ada yang tidak beres dan klub penggemar Anda tidak dapat dibuat ketika seharusnya, tetapi jangan khawatir, kami memiliki rencana cadangan yang siap! Cukup klik tombol di bawah ini dan Anda akan siap!',
+    'plans.fanClub.create': 'Buat klub penggemar'
 };

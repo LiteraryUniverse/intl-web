@@ -1,10 +1,10 @@
 export default {
     'comment.write': 'اكتب تعليقك',
     'comments.none': 'عذراً، لا توجد تعليقات للعرض.',
-    'comments.total': `There {count, plural,
-    =0 {are no comments}
-    one {is 1 comment}
-    other {are # comments}
+    'comments.total': `لا يوجد {count, plural,
+    =0 {لا توجد تعليقات}
+    one {هو تعليق واحد}
+    other {هي # تعليقات}
   }.`,
     'comments.show.older': 'عرض التعليقات الأقدم'
 };

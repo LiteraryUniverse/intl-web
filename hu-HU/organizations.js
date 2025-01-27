@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Elsődleges nyelv',
     'org.meta.desc': 'Szervezetek és alkotói csoportok a Literary Universe-ben.',
     'org.luOrgs': 'Literary Universe Szervezetek',
-    'org.otherOrgs': 'Céhek és Szervezetek',
+    'org.otherOrgs': 'Szervezetek',
     'org.aboutTitle': 'Névjegy {orgName}',
     'org.membersTitle': 'Szervezet tagjai',
     'org.membersNone': 'A tagok nem nyilvánosak',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Nem egy céh munkája',
     'org.workshop.caption': 'Céh tulajdonjog',
     'org.workshop.title': 'Szervezet műhely',
-    'org.title': 'Szervezet'
+    'org.title': 'Szervezet',
+    'org.hall.title': '{orgName} tagok terme',
+    'org.member.leave': 'Hagyja el a szervezetet',
+    'org.member.leaveModalTitle': 'A szervezet elhagyásának megerősítése',
+    'org.member.leaveModalHeading': 'Biztos vagy benne, hogy el akarsz menni {orgName}',
+    'org.member.leaveModalExplain': 'Ha elhagyja a szervezetet, elveszíti a hozzáférést a szervezet összes kapcsolódó erőforrásához és munkájához. Ezt a műveletet nem lehet visszacsinálni.'
 };

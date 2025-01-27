@@ -4,19 +4,19 @@ export default {
     'form.validator.mustBeNumber': '必須是數字',
     'form.validator.minNumber': '應該大於 {min, number}',
     'form.validator.maxNumber': '應該小於 {max, number}',
-    'form.validator.maxLength': `Should be less than {max, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    numbers {numbers}
+    'form.validator.maxLength': `應少於 {max, number} {what, select,
+    characters {字元}
+    tags {標籤}
+    genres {種類}
+    numbers {數字}
     other {}
   }`,
-    'form.validator.minLength': `Should be at least {min, number} {what, select,
-    characters {characters}
-    tags {tags}
-    genres {genres}
-    genre {genre}
-    numbers {numbers}
+    'form.validator.minLength': `應該至少 {min, number} {what, select,
+    characters {字元}
+    tags {標籤}
+    genres {種類}
+    genre {種類}
+    numbers {數字}
     other {}
   }`,
     'form.validator.email': '必須是有效的電子郵件',

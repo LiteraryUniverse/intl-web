@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'ಗುಂಪು ಆಹ್ವಾನಗಳು',
     'group.invite.accept': 'ಆಹ್ವಾನವನ್ನು ಸ್ವೀಕರಿಸು',
-    'group.noticeBoard': 'ನೋಟಿ ಬೋರ್ಡ್'
+    'group.noticeBoard': 'ನೋಟಿ ಬೋರ್ಡ್',
+    'group.leaveGroup.modalAria': 'Confirmation that you want to leave the group.',
+    'group.leaveGroup.heading': 'Are you sure that you want to leave {groupName}?',
+    'group.leaveGroup.explain': 'Leaving group means that you will loose access to the group resources and won\'t be able to interact with it.'
 };

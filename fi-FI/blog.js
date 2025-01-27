@@ -15,11 +15,11 @@ export default {
     'blog.description': 'Blogiesittely',
     'blog.theme': 'Teema',
     'blog.theme.info': 'Muokkaamalla teemaa voit muuttaa sivun ulkonäköä. Tämä toiminto ei ole tällä hetkellä käytettävissä.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Siellä {total, plural,
+    zero {ei ole viestejä}
+    one {on yksi viesti}
+    other {on # viestiä}
+  } tässä blogissa.`,
     'blog.post.create': 'Luo uusi viesti',
     'blog.post.update': 'Muokkaa viestiä ! {title}',
     'blog.post.text': 'Viestin teksti',

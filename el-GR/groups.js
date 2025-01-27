@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Κρυφή - Μόνο οι άνθρωποι που προσκαλείτε μπορούν να εγγραφούν.',
     'groups.imageAlt': '{groupName} εικόνα',
     'groups.members': 'Μέλη',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Υπάρχουν {totalMembers, plural,
+    zero {δεν υπάρχουν μέλη}
+    one {είναι ένα μέλος}
+    other {είναι # μέλη}
+  } σε αυτή την ομάδα`,
     'groups.leaveGroup': 'Αποχώρηση από την ομάδα',
     'groups.leaveGroup.confirm': 'Απλά για να είμαστε σίγουροι. Είστε βέβαιοι ότι θέλετε να αποχωρήσετε από την {groupName}?',
     'group.settings': 'Ρυθμίσεις ομάδας',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Προσκλήσεις ομάδας',
     'group.invite.accept': 'Αποδοχή πρόσκλησης',
-    'group.noticeBoard': 'Πίνακας ανακοινώσεων'
+    'group.noticeBoard': 'Πίνακας ανακοινώσεων',
+    'group.leaveGroup.modalAria': 'Επιβεβαίωση ότι θέλετε να αποχωρήσετε από την ομάδα.',
+    'group.leaveGroup.heading': 'Είσαι σίγουρος ότι θέλεις να φύγεις από το {groupName};',
+    'group.leaveGroup.explain': 'Η αποχώρηση από την ομάδα σημαίνει ότι θα χάσετε την πρόσβαση στους πόρους της ομάδας και δεν θα μπορείτε να αλληλεπιδράσετε με αυτήν.'
 };

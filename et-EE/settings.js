@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Kinnita joonlaud hiire külge',
     'settings.tab.legal': 'Õigusdokumendid',
     'settings.tab.exportDelete': 'Ekspordi andmed ja kustuta konto',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Kasutajaliidese keel',
+    'settings.languages.readingLanguage': 'Keele lugemine',
+    'settings.languages.readingLanguageExplained': 'Lugude otsimisel pakume teile lugusid ja nende tõlkeid selles keeles, kui te ei täpsusta teisiti.'
 };

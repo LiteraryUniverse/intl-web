@@ -2,12 +2,12 @@ export default {
     'workshop.title': 'Seu trabalho',
     'workshop.noneassigned': 'Ainda não lhe foi designado nenhum.',
     'workshop.notavailable': 'Esta característica ainda não está disponível.',
-    'workshop.none': `You currently have no {type, select,
+    'workshop.none': `Atualmente, o senhor não tem nenhuma {type, select,
       universe {universe}
       story {story}
       fanfiction {fan fiction}
       other {}
-    }. Create one now!`,
+    }. Crie uma agora!`,
     'workshop.collab': 'Trabalho colaborativo',
     'workshop.betareadings': 'Leituras Beta',
     'workshop.translations': 'Traduções',
@@ -90,19 +90,19 @@ export default {
     'workshop.translation.updatedTrs': 'Última atualização da tradução: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionOrig': 'Última revisão {revision, number}, do original: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionTrs': 'Última revisão {revision, number}, da tradução: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.collaborators.premium': `Para adicionar mais {type, select,
+    collaborator {colaboradores}
+    beta {leitores beta}
+    translator {tradutores}
     other {}
-  }, you need to increase your membership tier.`,
+  }, o senhor precisa aumentar seu nível de associação.`,
     'workshop.collaborators.requests.sent': 'Solicitações enviadas',
-    'workshop.collaborators.requests.invite': `You have been invited to become {role, select,
-    beta {beta reader}
-    translator {translator}
-    collaborator {collaborator}
+    'workshop.collaborators.requests.invite': `O senhor foi convidado a se tornar {role, select,
+    beta {leitor beta}
+    translator {tradutor}
+    collaborator {colaborador}
     other {}
-  } for the following:`,
+  } para o seguinte:`,
     'workshop.collaborators.requests.dashboard': `Você foi convidado(a) para colaborar em {count, plural,
     zero {nenhum trabalho}
     one {uma obra literária}
@@ -283,5 +283,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Nós suportamos Youtube, Vimeo e Odysee',
     'workshop.videoTrailer.rumble': 'Também oferecemos suporte ao Rumble, mas lembre-se de copiar a URL do IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Sua plataforma de vídeo está faltando, nos avise através do nosso <a>feedback</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Mudar a cobertura',
+    'workshop.collaborator.leave': 'Sair do projeto',
+    'workshop.collaborator.leaveTitle': 'Confirme que o senhor deseja sair do site {workName}',
+    'workshop.collaborator.leaveExplained': 'Sair do projeto significará que o senhor perderá todo o acesso, associação e privilégios. Se o senhor não tiver certeza do que isso significa, provavelmente não era nisso que queria clicar.',
+    'workshop.collaborators.leftInfo': 'Esquerda em {date, date}',
+    'workshop.collaborators.removedInfo': 'Removido em {date, date}'
 };

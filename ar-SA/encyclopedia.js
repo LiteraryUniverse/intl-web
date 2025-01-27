@@ -35,44 +35,44 @@ export default {
     'encyclopedia.add.title': 'إضافة إدخال جديد إلى الموسوعة',
     'encyclopedia.add.heading': 'ما الذي ترغب في إضافته؟',
     'encyclopedia.add.moresoon': 'المزيد من التصنيفات قادمة قريبًا!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
+    'encyclopedia.create': `قم بإنشاء جديد {category, select,
+    character {شخصية}
+    event {~ حدث ~ ~ حدث}
+    group {مجموعة}
+    item {~ عنصر}
+    location {موقع}
+    other {ملاحظة}
+    state {دولة}
+    governments {حكومة ~ ~ حكومة}
+    languages {لغة}
+    creatures {~ مخلوق}
+    deity {إله ~ ~ إله}
+    religions {دين}
+    flora {نباتات}
+    magic {سحر}
+    planets {كوكب}
+    species {نوع}
+    technologies {تكنولوجيا}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
+    'encyclopedia.create.header': `قم بإنشاء جديد {category, select,
+    character {شخصية}
+    event {~ حدث ~ ~ حدث}
+    group {مجموعة}
+    item {~ عنصر}
+    location {الموقع}
+    other {ملاحظة}
+    state {الدولة}
+    governments {الحكومة ~ ~ الحكومة}
+    languages {اللغة}
+    creatures {~ مخلوق}
+    deity {إله ~ ~ إله}
+    religions {دين}
+    flora {نباتات}
+    magic {سحر}
+    planets {كوكب}
+    species {نوع}
+    technologies {تكنولوجيا}
+  } في {universe}`,
     'encyclopedia.entry.category': `فئة الإدخال: {category, select,
     character {شخصية}
     event {حدث}
@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'صورة الغلاف',
     'encyclopedia.translation.title': 'مرحبًا بك في ترجمة عالم {universe} !',
     'encyclopedia.translation.desc': 'يتم استخدام واجهة هذه الموسوعة للترجمة إلى {language}. اختر الإدخالات الموجودة في القائمة على اليسار لبدء ترجمتها.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `لا توجد {totalEntries, plural, 
+    zero {لا توجد مدخلات}
+    one {مدخل واحد}
+    other {هي # مدخلات}
+  } في هذا الكون.`,
     'encyclopedia.settings.title': 'إعدادات الموسوعة',
     'encyclopedia.settings.categoriesDesc': 'قم بتشغيل وإيقاف الفئات التي ترغب في استخدامها في الموسوعة الخاصة بك.',
     'encyclopedia.settings.introText': 'رسالة الترحيب التي ستعرض بعد وصف الكون.',
@@ -141,10 +141,10 @@ export default {
     'encyclopedia.menuClose': 'إغلاق قائمة الموسوعة',
     'encyclopedia.menuAria': 'قائمة الموسوعة',
     'enc.newField': 'حقل جديد',
-    'enc.entries.limit': `You currently have {value, number} out of {max, plural,
-    =0 {unlimited}
+    'enc.entries.limit': `لديك حاليًا {value, number} من {max, plural,
+    =0 {غير محدود ~ ~ غير محدود}
     other {{max, number}}
-  } entries.`,
+  } ~ إدخالات.`,
     'enc.entries.limitReached': 'لقد وصلت إلى الحد الأقصى المسموح به لإدخالات الموسوعة لاشتراكك الحالي.',
     'enc.menuControls.ariaDesc': 'ضوابط الموسوعة',
     'encyclopedia.pronunciation.title': 'النطق',

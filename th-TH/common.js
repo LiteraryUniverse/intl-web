@@ -111,6 +111,8 @@ export default {
     'story.read': 'อ่าน',
     'story.lastUpdate': 'อัปเดตล่าสุดเมื่อ {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'เสร็จสิ้นเมื่อ {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'ความคิดเห็นสำหรับ {story} {chapter}.',
     'story.cover.alt': 'ภาพปกเรื่อง {story}.',
     'story.note.fanfiction': 'หมายเหตุ: เรื่องนี้เป็นนิยายแฟนฟิคในจักรวาล {universe}',

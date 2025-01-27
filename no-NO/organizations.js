@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Primærspråk',
     'org.meta.desc': 'Organisasjoner og kreative grupper på Literary Universe.',
     'org.luOrgs': 'Literary Universe-organisasjoner',
-    'org.otherOrgs': 'Laug og organisasjoner',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Om {orgName}',
     'org.membersTitle': 'Organisasjonsmedlemmer',
     'org.membersNone': 'Medlemmer er ikke offentlige',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Ikke et guild-arbeid',
     'org.workshop.caption': 'Guild-eierskap',
     'org.workshop.title': 'Organisasjonsverksted',
-    'org.title': 'Organisasjon'
+    'org.title': 'Organisasjon',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

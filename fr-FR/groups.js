@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Invitations de groupe',
     'group.invite.accept': 'Accepter l\'invitation',
-    'group.noticeBoard': 'Tableau d\'affichage'
+    'group.noticeBoard': 'Tableau d\'affichage',
+    'group.leaveGroup.modalAria': 'Confirmation que vous voulez quitter le groupe.',
+    'group.leaveGroup.heading': 'Êtes-vous sûr de vouloir quitter {groupName}?',
+    'group.leaveGroup.explain': 'Quitter le groupe signifie que vous perdrez l\'accès aux ressources du groupe et que vous ne pourrez plus interagir avec lui.'
 };

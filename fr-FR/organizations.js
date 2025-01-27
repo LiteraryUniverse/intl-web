@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Langue principale',
     'org.meta.desc': 'Organisations et groupes créatifs sur l\'Univers Littéraire.',
     'org.luOrgs': 'Organisations de l\'Univers Littéraire',
-    'org.otherOrgs': 'Guildes & Organisations',
+    'org.otherOrgs': 'Organisations',
     'org.aboutTitle': 'À propos de {orgName}',
     'org.membersTitle': 'Membres de l\'organisation',
     'org.membersNone': 'Les membres ne sont pas publics',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Pas un travail de guilde',
     'org.workshop.caption': 'Propriété de la guilde',
     'org.workshop.title': 'Atelier de l\'organisation',
-    'org.title': 'Membres de l\'organisation'
+    'org.title': 'Membres de l\'organisation',
+    'org.hall.title': '{orgName} salle des membres',
+    'org.member.leave': 'Quitter l\'organisation',
+    'org.member.leaveModalTitle': 'Confirmation de la sortie de l\'organisation',
+    'org.member.leaveModalHeading': 'Êtes-vous sûr de vouloir quitter {orgName}',
+    'org.member.leaveModalExplain': 'Lorsque vous quittez l\'organisation, vous perdez l\'accès à toutes les ressources et à tous les travaux associés à l\'organisation. Cette action ne peut être annulée.'
 };

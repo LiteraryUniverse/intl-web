@@ -15,11 +15,11 @@ export default {
     'blog.description': 'Introduzione al blog',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Regolando il tema, sarai in grado di cambiare l\'aspetto della pagina. Questa funzione non è ancora pronta.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Non ci sono {total, plural,
+    zero {post}
+    one {è un post}
+    other {sono # post}
+  } in questo blog.`,
     'blog.post.create': 'Crea un nuovo post',
     'blog.post.update': 'Modifica {title}',
     'blog.post.text': 'Testo del post',
@@ -33,9 +33,9 @@ export default {
     fanfiction {Lavoro di Fan Fiction}
     other {}
   }`,
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `I collegamenti sociali sono gli stessi impostati in {type, select,
+    organization {impostazioni dell'organizzazione}
+    user {profilo dell'utente}
     other {}
   }`,
     'blog.social.website': 'Sito web ufficiale',

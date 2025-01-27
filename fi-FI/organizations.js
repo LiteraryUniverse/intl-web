@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Ensisijainen kieli',
     'org.meta.desc': 'Organisaatiot ja luovat ryhmät Literary Universessa.',
     'org.luOrgs': 'Literary Universen organisaatiot',
-    'org.otherOrgs': 'Killat ja organisaatiot',
+    'org.otherOrgs': 'Organisaatiot',
     'org.aboutTitle': 'Tietoja {orgName}',
     'org.membersTitle': 'Organisaation jäsenet',
     'org.membersNone': 'Jäsenet eivät ole julkisia',
@@ -27,10 +27,10 @@ export default {
     'org.forums.title': '{orgName} foorumia',
     'org.flashnews.internal': 'Sisäiset uutisvälähdykset',
     'org.flashnews.publicAll': 'Julkinen uutisvälähdykset kaikille ominaisuuksille',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Luo uusi uutislähetys {type, select,
+    internal {organisaatiolle}
+    allProperties {näytä julkisesti kaikilla kiinteistöillä}
+    other {organisaatiolle}
   }`,
     'org.members.invited': 'Kutsutut jäsenet',
     'org.members.list': 'Organisaation jäsenet',
@@ -52,8 +52,13 @@ export default {
     'org.teams.total': 'Tiimejä yhteensä: {totalTeams, number}',
     'org.teams.create': 'Luo uusi tiimi',
     'org.teams.settings': 'Tiimin asetukset',
-    'org.workshop.ownerUser': 'Not a guild work',
-    'org.workshop.caption': 'Guild ownership',
+    'org.workshop.ownerUser': 'Ei kiltatyö',
+    'org.workshop.caption': 'Killan omistus',
     'org.workshop.title': 'Organisaation työpaja',
-    'org.title': 'Organisaatio'
+    'org.title': 'Organisaatio',
+    'org.hall.title': '{orgName} jäsensali',
+    'org.member.leave': 'Jätä organisaatio',
+    'org.member.leaveModalTitle': 'Organisaatiosta poistumisen vahvistus',
+    'org.member.leaveModalHeading': 'Haluatko varmasti lähteä {orgName}',
+    'org.member.leaveModalExplain': 'Kun lähdet organisaatiosta, menetät pääsyn kaikkiin organisaatioon liittyviin resursseihin ja töihin. Tätä toimenpidettä ei voi perua.'
 };

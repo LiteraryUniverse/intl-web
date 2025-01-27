@@ -33,9 +33,9 @@ export default {
     'settings.export.explain': 'Acest lucru îți va permite să obții toate datele tale stocate în baza noastră de date în format JSON.',
     'settings.export.submit': 'Exportă datele',
     'settings.delete.title': 'Șterge contul',
-    'settings.delete.warning': `WARNING: By deleting your account you loose access to this account and
-    there is no way of getting it back. Note that this might not automatically delete your published works,
-    comments, etc. Please refer to Terms of Service for details.`,
+    'settings.delete.warning': `AVERTISMENT: Prin ștergerea contului dvs. pierdeți accesul la acest cont și
+    nu există nicio modalitate de a-l recupera. Rețineți că acest lucru s-ar putea să nu vă șteargă automat lucrările publicate, comentariile
+    etc. Vă rugăm să consultați Termenii de utilizare pentru detalii.`,
     'settings.delete.confirm': 'Doar pentru a te asigura. Ești sigur că vrei să-ți ștergi contul?',
     'settings.delete.cancel': 'Nu vreau să-ți șterg contul',
     'settings.delete.submit': 'Șterge contul meu',
@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Atașează o riglă la mouse',
     'settings.tab.legal': 'Documente legale',
     'settings.tab.exportDelete': 'Exportă datele și șterge contul',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Limba de interfață',
+    'settings.languages.readingLanguage': 'Limbajul de lectură',
+    'settings.languages.readingLanguageExplained': 'Atunci când căutați povestiri, vă vom oferi povestiri și traducerile lor în această limbă, dacă nu specificați altfel.'
 };

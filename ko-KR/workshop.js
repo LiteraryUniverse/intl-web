@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': '지금 만드세요!',
     'workshop.fictionalTime.createTitle': '새로운 허구적인 시간 만들기',
     'workshop.fictionalTime.editTitle': '편집 {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `여기에서 나만의 가상의 시간을 만들 수 있습니다. 현재 이 도구는 제한적이며
+        대칭 시간만 만들 수 있습니다. 즉, 마야력이나 그레고리력을 재현할 수 없습니다. 현재
+        이 도구는 모든 시간이 항상 동일할 것으로 예상합니다(예: 달은 예외 없이 항상 30일이므로
+        등). 이후 버전에서 이 문제를 해결할 예정이지만 그때까지는 이 도구가 주로
+        공상 과학 기반 시간을 만드는 데 더 적합합니다.`,
     'workshop.fictionalTime.timeName': '시간 이름',
     'workshop.fictionalTime.basicInfo': '기본 정보',
     'workshop.fictionalTime.timeSetup': '시간 설정',
@@ -230,7 +230,7 @@ export default {
     'workshop.revShare.undecided': '미결정',
     'workshop.revShare.origLangCreators': '원본 언어 창작자',
     'workshop.story.prolog': '프롤로그',
-    'workshop.story.chapter': 'Chapter {sequence, number}',
+    'workshop.story.chapter': '장 {sequence, number}',
     'workshop.work.includesAds': '작품에 광고나 제품 배치가 있나요?',
     'workshop.universe.forumSettings': '내부 우주 포럼 설정',
     'workshop.universe.forum': '내부 {universeName} 포럼',
@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': '우리는 Youtube, Vimeo 및 Odysee를 지원합니다',
     'workshop.videoTrailer.rumble': '우리는 Rumble도 지원하지만, IFRAME URL을 복사하는 것을 기억하세요.',
     'workshop.videoTrailer.suggestPlatforms': '비디오 플랫폼이 누락되었나요? <a>피드백</a>을 통해 알려주세요!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': '표지 변경',
+    'workshop.collaborator.leave': '프로젝트에서 나가기',
+    'workshop.collaborator.leaveTitle': '탈퇴를 확인해주세요 {workName}',
+    'workshop.collaborator.leaveExplained': '프로젝트를 탈퇴하면 모든 액세스 권한, 연결 권한 및 권한을 잃게 됩니다. 이 모든 것이 무엇을 의미하는지 잘 모르겠다면 이 버튼을 클릭하고 싶지 않으셨을 것입니다.',
+    'workshop.collaborators.leftInfo': '왼쪽 {date, date}',
+    'workshop.collaborators.removedInfo': '삭제됨 {date, date}'
 };

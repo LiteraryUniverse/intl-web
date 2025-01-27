@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Primäre Sprache',
     'org.meta.desc': 'Organisationen und kreative Gruppen auf Literary Universe.',
     'org.luOrgs': 'Literary Universe-Organisationen',
-    'org.otherOrgs': 'Gilden & Organisationen',
+    'org.otherOrgs': 'Organisation',
     'org.aboutTitle': 'Über {orgName}',
     'org.membersTitle': 'Mitglieder der Organisation',
     'org.membersNone': 'Mitglieder sind nicht öffentlich',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Keine Gildenarbeit',
     'org.workshop.caption': 'Eigentum der Gilde',
     'org.workshop.title': 'Organisationsworkshop',
-    'org.title': 'Organisation'
+    'org.title': 'Organisation',
+    'org.hall.title': '{orgName} Mitgliederhalle',
+    'org.member.leave': 'Organisation verlassen',
+    'org.member.leaveModalTitle': 'Bestätigung des Verlassens der Organisation',
+    'org.member.leaveModalHeading': 'Sind Sie sicher, dass Sie {orgName}verlassen wollen?',
+    'org.member.leaveModalExplain': 'Sobald Sie die Organisation verlassen, verlieren Sie den Zugang zu allen Ressourcen und Werken der Organisation. Diese Aktion kann nicht rückgängig gemacht werden.'
 };

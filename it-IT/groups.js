@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Nascosto - Solo le persone invitate possono unirsi.',
     'groups.imageAlt': '{groupName} immagine',
     'groups.members': 'Membri',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Non ci sono {totalMembers, plural,
+    zero {membri}
+    one {è un membro}
+    other {sono # membri}
+  } in questo gruppo.`,
     'groups.leaveGroup': 'Lascia il gruppo',
     'groups.leaveGroup.confirm': 'Solo per essere sicuro. Sei sicuro di voler lasciare {groupName}?',
     'group.settings': 'Impostazioni del gruppo',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Inviti al gruppo',
     'group.invite.accept': 'Accetta invito',
-    'group.noticeBoard': 'Bacheca'
+    'group.noticeBoard': 'Bacheca',
+    'group.leaveGroup.modalAria': 'Conferma di voler lasciare il gruppo.',
+    'group.leaveGroup.heading': 'È sicuro di voler lasciare {groupName}?',
+    'group.leaveGroup.explain': 'Lasciare il gruppo significa che perderà l\'accesso alle risorse del gruppo e non potrà interagire con esso.'
 };

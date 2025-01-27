@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'ഞങ്ങൾ Youtube, Vimeo കുടുംബത്തിൽ പിന്തുണക്കുന്നു, അല്ലെങ്കിൽ Odysee',
     'workshop.videoTrailer.rumble': 'ഞങ്ങൾ രംഗത്തും റംബിൾ പിന്തുണയ്ക്കുന്നു, പകർപ്പവകാശം ഐഫ്രെയിം URL പകർത്തുകയും അവിടെ പേസ്റ്റ് ചെയ്യുകയും ചെയ്യുക.',
     'workshop.videoTrailer.suggestPlatforms': 'നിങ്ങളുടെ വീഡിയോ പ്ലാറ്റ്‌ഫോം ഇല്ലെങ്കിൽ, ഞങ്ങളോട് അറിയിക്കുക <a>പ്രതികരണം</a> വഴി!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

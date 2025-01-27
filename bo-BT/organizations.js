@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'སྒྲོག་འཛུལ་གྱི་སྐད་ཡིག།',
     'org.meta.desc': 'སྙན་ཞུས་གྲོགས་ཀྱི་སྤྱི་ཚོགས་དང་གསར་སྡུད་ཚོགས་པའི་འགྲེལ་བཤད་སྟོན།',
     'org.luOrgs': 'བརྗོད་ཚན་གྱི་སྙན་ཞུས་གྲོགས་ཀྱི་སྤྱི་ཚོགས་པའི་འགྲེལ་བཤད་སྟོན།',
-    'org.otherOrgs': 'དཔེ་འབྱེད་དང་སྙན་ཞུས་གྲོགས།',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'འབྲེལ་བ་ {orgName}',
     'org.membersTitle': 'སྤྱི་ཚོགས་པའི་བརྡ་དོན།',
     'org.membersNone': 'སྤྱི་ཚོགས་འདི་མིན་འདུག་པ་མིན་འདུག་མིན་འདུག་པའི་བརྡ་དོན་མེན་པས།',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Not a guild work',
     'org.workshop.caption': 'Guild ownership',
     'org.workshop.title': 'སྙན་ཞུས་དཔེ་སྐྲུན།',
-    'org.title': 'སྙན་ཞུས།'
+    'org.title': 'སྙན་ཞུས།',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

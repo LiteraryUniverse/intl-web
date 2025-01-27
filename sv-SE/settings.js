@@ -115,7 +115,7 @@ export default {
     'settings.accessibility.ruler': 'Fäst en linjal vid musen',
     'settings.tab.legal': 'Juridiska dokument',
     'settings.tab.exportDelete': 'Exportera data och ta bort konto',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Språk för gränssnitt',
+    'settings.languages.readingLanguage': 'Läsa språk',
+    'settings.languages.readingLanguageExplained': 'När du letar efter berättelser kommer vi att erbjuda dig berättelser och deras översättningar på detta språk om du inte anger något annat.'
 };

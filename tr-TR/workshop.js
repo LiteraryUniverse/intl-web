@@ -103,11 +103,11 @@ export default {
     collaborator {işbirlikçi}
     other {}
   } olmanız için davet edildiniz:`,
-    'workshop.collaborators.requests.dashboard': `You have been invited to collaborate on {count, plural,
-    zero {no work}
-    one {one literary work}
-    other {# literary works}
-  }.`,
+    'workshop.collaborators.requests.dashboard': `{count, plural,
+    zero {eser yok}
+    one {bir edebi eser}
+    other {# edebi eser}
+  }üzerinde işbirliği yapmaya davet edildiniz.`,
     'workshop.collaborators.language.added': 'Dil eklendi',
     'workshop.story.noChaptersFound': 'Bölüm bulunamadı.',
     'workshop.fanfic.needUniverseInLibrary': 'Orada birçok evren var. Lütfen yazmak istediğiniz evrenleri önce kütüphanenize ekleyin, böylece onları bulabiliriz.',
@@ -118,9 +118,9 @@ export default {
     'workshop.universe.createFirstStory': 'İlk hikayeyi oluştur',
     'workshop.storylines': 'Hikaye çizgileri',
     'workshop.scenesManager': 'Sahne Yöneticisi',
-    'workshop.collaborators.addRoleForLang': 'Add {role} for {language}',
-    'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
-    'workshop.story.notes.title': 'Your notes for {storyTitle}',
+    'workshop.collaborators.addRoleForLang': '{language}için {role} adresini ekleyin',
+    'workshop.beta.revisionInfo': 'Bu, {createdAt, date, long}tarihinde oluşturulan {revision, number}revizyonudur.',
+    'workshop.story.notes.title': '{storyTitle}için notlarınız',
     'workshop.story.notes.desc': 'Hikaye için genel notlar.',
     'workshop.story.notes.tile': 'Genel notlar',
     'workshop.hideOrgs': 'İçeriği kuruluşlardan gizle',
@@ -128,16 +128,16 @@ export default {
     'workshop.story.finished': 'Hikaye tamamlandı',
     'workshop.story.publishing.externalSellingNotice': 'Edebi Evren dışında satış yapıyorsanız, hikayeyi şimdi yayınlayabilirsiniz. Mağaza listelemeleriniz hikayenin altında veya burada yayınladığınız mevcut hikayenin sonunda görünecektir.',
     'workshop.sharing.publicURL': 'Halka açık sürüm',
-    'workshop.fictionalTime.title': 'Fictional times for {universeName}',
+    'workshop.fictionalTime.title': '{universeName}için kurgusal zamanlar',
     'workshop.fictionalTime.none': 'Şu anda hiçbir hayali zamanınız ayarlanmamış.',
     'workshop.fictionalTime.createNow': 'Şimdi bir tane oluşturun!',
     'workshop.fictionalTime.createTitle': 'Yeni bir hayali zaman oluştur',
     'workshop.fictionalTime.editTitle': 'Düzenle {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Burada kendi kurgusal zamanınızı oluşturabilirsiniz. Şu anda bu araç sınırlıdır ve yalnızca
+        simetrik zamanlar oluşturabilir. Bu, Maya takvimini veya Gregoryen takvimini yeniden yaratamayacağınız anlamına gelir. Şu anda
+        bu araç tüm zamanların her zaman aynı olmasını beklemektedir, örneğin aylar istisnasız her zaman 30 gündür ve bu yüzden
+        devam eder. Bunu daha sonraki sürümlerde ele alacağız, ancak o zamana kadar bu araç öncelikle
+        bilim kurgu tabanlı zamanlar oluşturmak için daha uygundur.`,
     'workshop.fictionalTime.timeName': 'Zaman adı',
     'workshop.fictionalTime.basicInfo': 'Temel bilgiler',
     'workshop.fictionalTime.timeSetup': 'Zaman ayarı',
@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Youtube, Vimeo ve Odysee\'yi destekliyoruz',
     'workshop.videoTrailer.rumble': 'Rumble\'u da destekliyoruz, ancak IFRAME URL\'sini kopyalamayı unutmayın.',
     'workshop.videoTrailer.suggestPlatforms': 'Video platformunuz eksik mi, bize <a>geri bildirim</a> yoluyla bildirin!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Kapağı değiştirin',
+    'workshop.collaborator.leave': 'Projeden ayrılın',
+    'workshop.collaborator.leaveTitle': 'Lütfen {workName}adresinden ayrılmak istediğinizi onaylayın.',
+    'workshop.collaborator.leaveExplained': 'Projeden ayrılmak, tüm erişim, ilişkilendirme ve ayrıcalıkları kaybedeceğiniz anlamına gelecektir. Tüm bunların ne anlama geldiğinden emin değilseniz, muhtemelen tıklamak istediğiniz şey bu değildir.',
+    'workshop.collaborators.leftInfo': 'Sol açık {date, date}',
+    'workshop.collaborators.removedInfo': 'Kaldırıldı {date, date}'
 };

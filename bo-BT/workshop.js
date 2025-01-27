@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'ངོས་ལེན་འདི་གིས་ ཡུ་གྲོལ་འདི་དང་ བེ་ལུ་ཡིན་ནམ་ལས་ ཨོ་དོ་འདི་དང་ ཨོ་དོ་འདི་སྤྱོད་པ་ཡོད།',
     'workshop.videoTrailer.rumble': 'བདེ་བ་འདི་ལས་བརྟེན་གྱི་བདེབ་འདི་གི་དོན་ལུ་ Rumble གི་དོན་ལུ་བཟོད་པས་བཟུང་བའི་URL གི་སྒྲིག་འོང་།',
     'workshop.videoTrailer.suggestPlatforms': 'ཁྱེད་ཀྱི་ནང་བདེན་གསརཔ་འདི་མིན་འདུག སྤྱི་ཚོགས་པའི་གྲོགས་འབྱོར་འདི་ལས་འགོ་བཙུགས་པའི་<a>བསམ་ཚུལ་</a>བཟོ་ཡོད།',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

@@ -1,6 +1,6 @@
 export default {
     'groups.listing.title': 'Kullanıcı grupları',
-    'groups.listing.organizationTitle': 'Teams',
+    'groups.listing.organizationTitle': 'Takımlar',
     'groups.create.title': 'Yeni bir grup oluştur',
     'groups.type.label': 'Tür',
     'groups.type.open': 'Açık',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Grup davetleri',
     'group.invite.accept': 'Daveti kabul et',
-    'group.noticeBoard': 'Duyuru panosu'
+    'group.noticeBoard': 'Duyuru panosu',
+    'group.leaveGroup.modalAria': 'Gruptan ayrılmak istediğinizi onaylayın.',
+    'group.leaveGroup.heading': '{groupName}adresinden ayrılmak istediğine emin misin?',
+    'group.leaveGroup.explain': 'Gruptan ayrılmak, grup kaynaklarına erişiminizi kaybedeceğiniz ve grupla etkileşime giremeyeceğiniz anlamına gelir.'
 };

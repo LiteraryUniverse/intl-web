@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'প্ৰাথমিক ভাষা',
     'org.meta.desc': 'সাহিত্যিক বিশ্বত সংগঠন আৰু সৃজনশীল গোষ্ঠীসমূহ।',
     'org.luOrgs': 'সাহিত্যিক বিশ্বত সংগঠনসমূহ',
-    'org.otherOrgs': 'গিল্ড আৰু সংগঠনসমূহ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'বিষয়বস্তু {orgName}',
     'org.membersTitle': 'সংগঠনের সদস্যবৃন্দ',
     'org.membersNone': 'সদস্যরা প্রকাশ্য নয়',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'এটা একটা গিল্ড কাজ নয়',
     'org.workshop.caption': 'গিল্ড মালিকানা',
     'org.workshop.title': 'সংগঠনৰ কাৰ্যশালা',
-    'org.title': 'সংগঠন'
+    'org.title': 'সংগঠন',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

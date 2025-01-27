@@ -2,12 +2,12 @@ export default {
     'workshop.title': 'عملك',
     'workshop.noneassigned': 'لم يتم تعيين أي شيء لك حتى الآن.',
     'workshop.notavailable': 'هذه الميزة غير متوفرة حالياً.',
-    'workshop.none': `You currently have no {type, select,
-      universe {universe}
-      story {story}
-      fanfiction {fan fiction}
+    'workshop.none': `لا يوجد لديك حاليًا {type, select,
+      universe {الكون}
+      story {قصة ~ ~ قصة}
+      fanfiction {خيال المعجبين}
       other {}
-    }. Create one now!`,
+    }. أنشئ واحدة الآن!`,
     'workshop.collab': 'العمل التعاوني',
     'workshop.betareadings': 'قراءات بيتا',
     'workshop.translations': 'الترجمات',
@@ -90,12 +90,12 @@ export default {
     'workshop.translation.updatedTrs': 'آخر تحديث للترجمة: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionOrig': 'آخر تعديل {revision, number}, للأصلي: {updatedAt, date, long} {updatedAt, time, medium}',
     'workshop.translation.revisionTrs': 'آخر تعديل {revision, number}, للترجمة: {updatedAt, date, long} {updatedAt, time, medium}',
-    'workshop.collaborators.premium': `To add more {type, select,
-    collaborator {collaborators}
-    beta {beta readers}
-    translator {translators}
+    'workshop.collaborators.premium': `لإضافة المزيد {type, select,
+    collaborator {المتعاونين}
+    beta {القراء التجريبيين}
+    translator {المترجمين}
     other {}
-  }, you need to increase your membership tier.`,
+  }، تحتاج إلى زيادة فئة عضويتك.`,
     'workshop.collaborators.requests.sent': 'تم إرسال الطلبات',
     'workshop.collaborators.requests.invite': `تمت دعوتك لتصبح {role, select,
     beta {محرر بيتا}
@@ -119,7 +119,7 @@ export default {
     'workshop.storylines': 'خطوط القصة',
     'workshop.scenesManager': 'إدارة المشاهد',
     'workshop.collaborators.addRoleForLang': 'أضف {role} لـ {language}',
-    'workshop.beta.revisionInfo': 'This is revision {revision, number}, created on {createdAt, date, long}.',
+    'workshop.beta.revisionInfo': 'هذه مراجعة {revision, number}، تم إنشاؤها في {createdAt, date, long}.',
     'workshop.story.notes.title': 'ملاحظاتك لـ {storyTitle}',
     'workshop.story.notes.desc': 'ملاحظات عامة للقصة.',
     'workshop.story.notes.tile': 'ملاحظات عامة',
@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'أنشئ واحدة الآن!',
     'workshop.fictionalTime.createTitle': 'أنشئ وقت خيالي جديد',
     'workshop.fictionalTime.editTitle': 'تحرير {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `هنا يمكنك إنشاء وقتك الخيالي الخاص بك. حاليًا هذه الأداة محدودة وقادرة فقط على إنشاء
+        الأوقات المتماثلة. هذا يعني أنك لن تتمكن من إعادة إنشاء تقويم المايا أو التقويم الميلادي. في هذه اللحظة
+        تتوقع هذه الأداة أن تكون جميع الأوقات متماثلة دائمًا، على سبيل المثال: الأشهر دائمًا 30 يومًا بدون استثناءات وهكذا
+        . سنعالج هذا الأمر في الإصدارات اللاحقة، ولكن حتى ذلك الحين فإن هذه الأداة مناسبة أكثر لإنشاء أوقات تعتمد على
+        في المقام الأول على أساس الخيال العلمي.`,
     'workshop.fictionalTime.timeName': 'اسم الوقت',
     'workshop.fictionalTime.basicInfo': 'معلومات أساسية',
     'workshop.fictionalTime.timeSetup': 'إعداد الوقت',
@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'نحن ندعم يوتيوب، فيميو وأوديسي',
     'workshop.videoTrailer.rumble': 'ندعم أيضًا Rumble، ولكن تذكر نسخ عنوان URL الإطار.',
     'workshop.videoTrailer.suggestPlatforms': 'هل تفتقد منصتك للفيديو؟ أخبرنا عبر <a>ردود الفعل</a> الخاصة بنا!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'تغيير الغطاء',
+    'workshop.collaborator.leave': 'مشروع الإجازة',
+    'workshop.collaborator.leaveTitle': 'يرجى تأكيد رغبتك في المغادرة {workName}',
+    'workshop.collaborator.leaveExplained': 'ستعني مغادرة المشروع أنك ستفقد كل الوصول والارتباط والامتيازات. إذا لم تكن متأكدًا مما يعنيه كل هذا، فربما هذا ليس ما تريد النقر عليه.',
+    'workshop.collaborators.leftInfo': 'يسار على {date, date}~',
+    'workshop.collaborators.removedInfo': 'تمت الإزالة على {date, date}~'
 };

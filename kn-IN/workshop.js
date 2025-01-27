@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'ನಾವು Youtube, Vimeo ಮತ್ತು Odysee ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತೇವೆ',
     'workshop.videoTrailer.rumble': 'ನಾವು ರಂಬಲ್ ಅನ್ನು ಹೂಡಿಕೆಗೆ ಬೆಂಬಲಿಸುತ್ತೇವೆ, ಆದರೆ IFRAME URL ಅನ್ನು ನಕಲಿಸುವುದನ್ನು ಮರೆತುಬಿಡಿ.',
     'workshop.videoTrailer.suggestPlatforms': 'ನಿಮ್ಮ ವೀಡಿಯೊ ಪ್ಲಾಟ್‌ಫಾರಂ ಅನ್ನು ಕಳುಹಿಸಿದ್ದೀರಾ, ನಮಗೆ ತಿಳಿಸಿ ಮೂಲಕ <a>ಪ್ರತಿಕ್ರಿಯೆ</a> ನೀಡಿ!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

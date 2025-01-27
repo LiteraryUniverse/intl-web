@@ -48,9 +48,9 @@ export default {
     'feedback.report.copyrightInternalProperty': 'Saya telah mempublikasikan karya ini di Literary Universe',
     'feedback.reportType.spam': 'Spam atau phishing',
     'feedback.reportType.other': 'Lainnya',
-    'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
-    universe {universe}
-    story {story}
-    other {story}
-  } is being infringed?`
+    'feedback.report.copyrightType.propertySelectLabel': `Yang mana {type, select,
+    universe {alam semesta}
+    story {cerita}
+    other {cerita}
+  } yang dilanggar?`
 };

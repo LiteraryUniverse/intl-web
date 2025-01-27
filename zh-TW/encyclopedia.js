@@ -35,44 +35,44 @@ export default {
     'encyclopedia.add.title': '添加新條目到百科全書',
     'encyclopedia.add.heading': '您想要添加什麼？',
     'encyclopedia.add.moresoon': '更多類別即將推出！',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  }`,
-    'encyclopedia.create.header': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-  } in {universe}`,
+    'encyclopedia.create': `建立新 {category, select,
+    character {角色}
+    event {事件}
+    group {群組}
+    item {物品}
+    location {位置}
+    other {註釋}
+    state {州}
+    governments {政府}
+    languages {語言}
+    creatures {生物}
+    deity {神明}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {行星}
+    species {種類}
+    technologies {科技}
+  }。`,
+    'encyclopedia.create.header': `建立一個新 {category, select,
+    character {角色}
+    event {事件}
+    group {群體}
+    item {物品}
+    location {位置}
+    other {註釋}
+    state {州}
+    governments {政府}
+    languages {語言}
+    creatures {生物}
+    deity {神明}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {行星}
+    species {種類}
+    technologies {科技}
+  } 在 {universe}`,
     'encyclopedia.entry.category': `條目類別： {category, select,
     character {角色}
     event {事件}
@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': '封面圖片',
     'encyclopedia.translation.title': '歡迎來到 {universe} 宇宙的翻譯！',
     'encyclopedia.translation.desc': '此百科全書介面用於翻譯成 {language}。請在左側的列表中選擇現有條目開始翻譯。',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `有 {totalEntries, plural, 
+    zero {沒有條目}
+    one {是一個條目}
+    other {是 # 條目}
+  } 在這個宇宙中。`,
     'encyclopedia.settings.title': '百科全書設定',
     'encyclopedia.settings.categoriesDesc': '打開或關閉您想在百科全書中使用的分類。',
     'encyclopedia.settings.introText': '宇宙描述後顯示的歡迎訊息。',

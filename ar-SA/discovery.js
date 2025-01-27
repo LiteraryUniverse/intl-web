@@ -23,7 +23,7 @@ export default {
     'discover.searchUniverse.title': 'ابحث عن كون',
     'discover.searchUniverse.description': 'ابحث عن كواكب',
     'discover.search.storyStatus': 'حالة تقدم القصة',
-    'discover.search.genres': 'Genres',
+    'discover.search.genres': 'الأنواع',
     'story.status.complete': 'مكتملة',
     'story.status.inProgress': 'قائم',
     'discover.search.universeConnection': 'ارتباط القصة بالكون',
@@ -60,5 +60,5 @@ export default {
     'discovery.chaptersTotal': 'إجمالي عدد الفصول في القصة',
     'discovery.readFromStart': 'اقرأ من الفصل الأول',
     'discovery.readLatest': 'اقرأ أحدث الفصول',
-    'discovery.author': 'Author'
+    'discovery.author': 'المؤلف'
 };

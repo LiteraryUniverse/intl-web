@@ -21,5 +21,5 @@ export default {
     'sharing.minds': 'Minds.com',
     'sharing.instagram': 'Instagram',
     'sharing.reddit': '레딧',
-    'sharing.bsky': 'BlueSky'
+    'sharing.bsky': '블루스카이'
 };

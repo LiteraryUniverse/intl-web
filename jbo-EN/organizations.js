@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'lo se cusku be lo nu le jecta cu zdani',
     'org.meta.desc': '.i lo jecta cu je\'u lo se jibri gi\'e lo se cuntu be lo krici',
     'org.luOrgs': '.i lo jecta be lo nu se jibri be lo krici be lo su\'u cu se vecnu mi\'a',
-    'org.otherOrgs': '.i lo su\'u cu se vecnu gi\'e lo jecta',
+    'org.otherOrgs': '.i lo jecta',
     'org.aboutTitle': '.i lo jecta {orgName}',
     'org.membersTitle': 'lo se ctuca be lo jecta',
     'org.membersNone': 'lo se ctuca cu na .irci',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Na\'e se gundi te gasnu',
     'org.workshop.caption': 'Gundi ckire',
     'org.workshop.title': '.i lo jecta brisni',
-    'org.title': '.i lo jecta'
+    'org.title': '.i lo jecta',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

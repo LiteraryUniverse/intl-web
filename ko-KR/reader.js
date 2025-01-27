@@ -34,6 +34,6 @@ export default {
     'reader.storyCancelled': '안타깝게도 이게 다야. 이야기는 취소되었으니 새로운 것은 있을 가능성이 희박하다.',
     'reader.storyCancelled.heading': '취소됨',
     'reader.nextChapterEstimation.verySoon': '지난 {chaptersCount, number} 개 장의 출판일을 기반으로 하면, 다음 장은 곧 출시될 것으로 예상됩니다.',
-    'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
+    'reader.nextChapterEstimation.days': '지난 {chaptersCount, number} 챕터의 발행일을 기준으로 다음 챕터는 대략 {daysLeft, plural, one {1일} other {#일}}.',
     'reader.nextChapterEstimation.notEnoughChapters': '이 작품에 한 장 이상이 있을 때 다음 장이 출간될 예정을 제공할 것입니다.'
 };

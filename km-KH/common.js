@@ -111,6 +111,8 @@ export default {
     'story.read': 'អាន',
     'story.lastUpdate': 'កាលបរិច្ឆេទចុងក្រោយនៅលើ {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'បញ្ចប់នៅលើ {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'មតិយោបល់សម្រាប់ {story} {chapter}.',
     'story.cover.alt': 'រូបភាពត្រូវប្រើប្រាស់ស្ថាបនាំពី {story}.',
     'story.note.fanfiction': 'ចំណាត់ថ្នាក់កិរិយាសព្វរក្សាអ្នកសរសេរនេះគឺជា​ការសរសេរអំពី​ជីវិត {universe}.',

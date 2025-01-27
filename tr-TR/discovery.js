@@ -23,7 +23,7 @@ export default {
     'discover.searchUniverse.title': 'Bir evren arayın',
     'discover.searchUniverse.description': 'Bir evren arayın',
     'discover.search.storyStatus': 'Hikaye ilerleme durumu',
-    'discover.search.genres': 'Genres',
+    'discover.search.genres': 'Türler',
     'story.status.complete': 'Tamamlandı',
     'story.status.inProgress': 'Devam Ediyor',
     'discover.search.universeConnection': 'Hikayenin evrene bağlantısı',
@@ -60,5 +60,5 @@ export default {
     'discovery.chaptersTotal': 'Hikayenin toplam bölüm sayısı',
     'discovery.readFromStart': 'İlk üçten oku',
     'discovery.readLatest': 'En son bölümü oku',
-    'discovery.author': 'Author'
+    'discovery.author': 'Yazar'
 };

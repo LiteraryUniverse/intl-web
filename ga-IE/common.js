@@ -111,6 +111,8 @@ export default {
     'story.read': 'Léigh',
     'story.lastUpdate': 'Deireadh suas ar {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Críochnaithe ar {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'Nótaí maidir le {story} {chapter}.',
     'story.cover.alt': 'Íomhá clúdaigh an scéil do {story}.',
     'story.note.fanfiction': 'NÓTA: Is ficsean lucht leanúna é an scéal seo ar uileann {universe} .',

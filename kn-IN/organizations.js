@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ಪ್ರಾಥಮಿಕ ಭಾಷೆ',
     'org.meta.desc': 'ಸಾಹಿತ್ಯ ಯೂನಿವರ್ಸ್ ನ ಸಂಸ್ಥೆಗಳು ಮತ್ತು ಸೃಜನಾತ್ಮಕ ಗುಂಪುಗಳು.',
     'org.luOrgs': 'ಸಾಹಿತ್ಯ ಯೂನಿವರ್ಸ್ ಸಂಸ್ಥೆಗಳು',
-    'org.otherOrgs': 'ಗಿಲ್ಡ್ಸ್ ಮತ್ತು ಸಂಸ್ಥೆಗಳು',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'ಬಗ್ಗೆ {orgName}',
     'org.membersTitle': 'ಸಂಸ್ಥೆಯ ಸದಸ್ಯರು',
     'org.membersNone': 'ಸದಸ್ಯರು ಸಾರ್ವಜನಿಕರಲ್ಲ',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'ಗಿಲ್ಡ್ ಕೆಲಸವಲ್ಲ',
     'org.workshop.caption': 'ಗಿಲ್ಡ್ ಮಾಲಿಕತ್ವ',
     'org.workshop.title': 'ಸಂಸ್ಥೆ ಕಾರ್ಯಾಗಾರ',
-    'org.title': 'ಸಂಸ್ಥೆ'
+    'org.title': 'ಸಂಸ್ಥೆ',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'हामीले Youtube, Vimeo र Odysee समर्थन गर्दछौं',
     'workshop.videoTrailer.rumble': 'हामीले रम्बललाई पनि समर्थन गर्दछौं, तर याद गर्नुहोस् कि आइफ्रेम URL कोपी गर्नुहोस्।',
     'workshop.videoTrailer.suggestPlatforms': 'तपाईंको भिडियो प्लेटफर्म छुट्टै छ, हामीलाई हाम्रो <a>प्रतिक्रिया</a>द्वारा जानकारी दिनुहोस्!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Change cover',
+    'workshop.collaborator.leave': 'Leave project',
+    'workshop.collaborator.leaveTitle': 'Please confirm that you want to leave {workName}',
+    'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
+    'workshop.collaborators.leftInfo': 'Left on {date, date}',
+    'workshop.collaborators.removedInfo': 'Removed on {date, date}'
 };

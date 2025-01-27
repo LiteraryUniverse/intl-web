@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'ପ୍ରାଥମିକ ଭାଷା',
     'org.meta.desc': 'ଲିଟେରରୀ ଇୟୁନିଭର୍ସ୍ ସଂଗଠନସମୂହ ଏବଂ ସୃଜନାତ୍ମକ ଗୋଷ୍ଠୀମାନଙ୍କରେ',
     'org.luOrgs': 'ଲିଟେରରୀ ଇୟୁନିଭର୍ସ୍ ସଂଗଠନସମୂହ',
-    'org.otherOrgs': 'ଗୁଲ୍ଡମାନଙ୍କ ଏବଂ ସଂଗଠନସମୂହ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'ବିଷୟରେ {orgName}',
     'org.membersTitle': 'ସଂଗଠନ ସଦସ୍ୟଙ୍କ',
     'org.membersNone': 'ସଦସ୍ୟଙ୍କ ପ୍ରକାଶନ ନେଇ',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'କିମ୍ବା ଗୁଇଲ୍ଡ କାର୍ଯ୍ୟ ନୁହେଁ',
     'org.workshop.caption': 'ଗୁଇଲ୍ଡ ମାଲିକା',
     'org.workshop.title': 'ସଂଗଠନ କାର୍ଯ୍ୟଶାଳା',
-    'org.title': 'ସଂଗଠନ'
+    'org.title': 'ସଂଗଠନ',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

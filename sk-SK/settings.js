@@ -113,7 +113,7 @@ export default {
     'settings.accessibility.ruler': 'Pripojenie pravítka k myši',
     'settings.tab.legal': 'Právne dokumenty',
     'settings.tab.exportDelete': 'Export údajov & vymazanie účtu',
-    'settings.languages.uiLanguage': 'Interface language',
-    'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.uiLanguage': 'Jazyk rozhrania',
+    'settings.languages.readingLanguage': 'Jazyk čítania',
+    'settings.languages.readingLanguageExplained': 'Pri vyhľadávaní príbehov vám ponúkneme príbehy a ich preklady v tomto jazyku, ak neuvediete inak.'
 };

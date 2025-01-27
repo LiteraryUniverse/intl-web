@@ -21,12 +21,12 @@ export default {
     'user.profile.avatar': 'Avatar {username}',
     'user.friend.list.requests': 'Permintaan pertemanan',
     'user.friend.norequests': 'Anda tidak memiliki permintaan pertemanan.',
-    'user.dashboardWelcome': `Good {dayPart, select,
-    morning {morning}
-    afternoon {afternoon}
-    evening {evening}
-    night {night}
-    other {day}
+    'user.dashboardWelcome': `Baik {dayPart, select,
+    morning {pagi}
+    afternoon {siang}
+    evening {sore}
+    night {malam}
+    other {siang}
   } {displayName}!`,
     'user.verification.publishedAuthor': 'Penulis ini telah diterbitkan secara tradisional',
     'user.verification.luAuthor': 'Penulis berbasis Literary Universe yang terkenal',

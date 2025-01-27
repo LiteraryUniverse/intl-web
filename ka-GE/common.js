@@ -111,6 +111,8 @@ export default {
     'story.read': 'წაიკითხე',
     'story.lastUpdate': 'ბოლო განახლება {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'დასრულდა {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'კომენტარები {story} {chapter}.',
     'story.cover.alt': 'ისტორიის გარჩევა {story}.',
     'story.note.fanfiction': 'შენიშვნა: ეს ისტორია არის ფან ფიქცია {universe} უნივერსუმზე.',

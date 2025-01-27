@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'Maak er nu een aan!',
     'workshop.fictionalTime.createTitle': 'Maak een nieuwe fictieve tijd aan',
     'workshop.fictionalTime.editTitle': 'Bewerk {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Hier kunt u uw eigen fictieve tijd maken. Momenteel is deze tool beperkt en kan hij alleen
+        symmetrische tijden maken. Dit betekent dat u niet in staat zult zijn om de Maya kalender of de Gregoriaanse kalender na te maken. Op dit moment
+        verwacht deze tool dat alle tijden altijd hetzelfde zijn, bijv. maanden hebben altijd 30 dagen geen uitzonderingen enzovoort
+        . We zullen hier in latere versies iets aan doen, maar tot die tijd is deze tool meer geschikt voor het maken van voornamelijk op
+        sci-fi gebaseerde tijden.`,
     'workshop.fictionalTime.timeName': 'Tijdnaam',
     'workshop.fictionalTime.basicInfo': 'Basisinformatie',
     'workshop.fictionalTime.timeSetup': 'Tijdsinstelling',
@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'We ondersteunen Youtube, Vimeo en Odysee',
     'workshop.videoTrailer.rumble': 'We ondersteunen ook Rumble, maar vergeet niet om de IFRAME URL te kopiëren.',
     'workshop.videoTrailer.suggestPlatforms': 'Ontbreekt jouw videoplatform? Laat het ons weten via onze <a>feedback</a>!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Dekking wijzigen',
+    'workshop.collaborator.leave': 'Project verlaten',
+    'workshop.collaborator.leaveTitle': 'Bevestig dat u {workName}wilt verlaten.',
+    'workshop.collaborator.leaveExplained': 'Als u het project verlaat, verliest u alle toegang, associaties en privileges. Als u niet zeker weet wat dit allemaal betekent, dan is dit waarschijnlijk niet wat u wilde aanklikken.',
+    'workshop.collaborators.leftInfo': 'Links op {date, date}',
+    'workshop.collaborators.removedInfo': 'Verwijderd op {date, date}'
 };

@@ -7,11 +7,11 @@ export default {
     'universe.fansettings.for': '{universe} Setări Fan',
     'universe.fanfiction.stories': 'Povești',
     'universe.fanfiction.fanarts': 'Arte Fan',
-    'universe.stories.count': `There {num, plural,
-    =0 {are no stories}
-    one {is one story}
-    other {are # stories}
-    } in this universe.`,
+    'universe.stories.count': `Nu există {num, plural,
+    =0 {povești}
+    one {este o poveste}
+    other {sunt # povești}
+    } în acest univers.`,
     'universe.authors.title': 'Autori',
     'universe.authors.desc': 'Creatori și contribuitori la {universe}',
     'universe.contributors': 'Contribuitori',

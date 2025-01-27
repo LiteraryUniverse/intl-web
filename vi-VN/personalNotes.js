@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Mục bách khoa toàn thư',
   'personalNotes.type.revTextBlock': 'Mục block văn bản được sửa',
   'personalNotes.chapter': 'Chương',
-  'personalNotes.recentSearches': 'Tìm kiếm gần đây:'
+  'personalNotes.recentSearches': 'Tìm kiếm gần đây:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };

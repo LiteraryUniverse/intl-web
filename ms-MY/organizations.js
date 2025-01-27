@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Bahasa Utama',
     'org.meta.desc': 'Organisasi dan Kumpulan Kreatif di Literary Universe.',
     'org.luOrgs': 'Organisasi Literary Universe',
-    'org.otherOrgs': 'Guild & Organisasi',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'Mengenai {orgName}',
     'org.membersTitle': 'Ahli-ahli organisasi',
     'org.membersNone': 'Ahli-ahli tidak awam',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Bukan kerja persatuan',
     'org.workshop.caption': 'Pemilikan persatuan',
     'org.workshop.title': 'Bengkel Organisasi',
-    'org.title': 'Organisasi'
+    'org.title': 'Organisasi',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

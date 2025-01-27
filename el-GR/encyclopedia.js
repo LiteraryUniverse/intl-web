@@ -120,11 +120,11 @@ export default {
     'encyclopedia.cover': 'Εικόνα εξωφύλλου',
     'encyclopedia.translation.title': 'Καλώς ήρθατε στη μετάφραση του σύμπαντος {universe} !',
     'encyclopedia.translation.desc': 'Αυτή η διεπαφή της εγκυκλοπαίδειας χρησιμοποιείται για τη μετάφραση στα {language}. Επιλέξτε υπάρχοντα κείμενα από τη λίστα στα αριστερά για να ξεκινήσετε τη μετάφρασή τους.',
-    'encyclopedia.welcome.totalEntries': `There {totalEntries, plural, 
-    zero {are no entries}
-    one {is one entry}
-    other {are # entries}
-  } in this universe.`,
+    'encyclopedia.welcome.totalEntries': `Υπάρχουν {totalEntries, plural, 
+    zero {δεν υπάρχουν καταχωρήσεις}
+    one {είναι μία καταχώρηση}
+    other {υπάρχουν # καταχωρήσεις}
+  } σε αυτό το σύμπαν.`,
     'encyclopedia.settings.title': 'Ρυθμίσεις εγκυκλοπαίδειας',
     'encyclopedia.settings.categoriesDesc': 'Ενεργοποιήστε και απενεργοποιήστε τις κατηγορίες που θέλετε να χρησιμοποιήσετε στην εγκυκλοπαίδειά σας.',
     'encyclopedia.settings.introText': 'Μήνυμα καλωσορίσματος που θα εμφανίζεται μετά την περιγραφή του σύμπαντος.',

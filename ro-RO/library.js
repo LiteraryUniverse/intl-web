@@ -3,7 +3,7 @@ export default {
     'library.remove': 'Șterge din bibliotecă',
     'library.bought': 'Povești cumpărate',
     'library.stories': 'Povești urmărite',
-    'library.universes': 'Followed universes',
-    'bookmark.continueReading': 'Continue reading',
-    'bookmark.statusSummary': 'You have read {readPercent, number, ::percent} of the story.'
+    'library.universes': 'Universuri urmărite',
+    'bookmark.continueReading': 'Continuați lectura',
+    'bookmark.statusSummary': 'Ați citit {readPercent, number, ::percent} din poveste.'
 };

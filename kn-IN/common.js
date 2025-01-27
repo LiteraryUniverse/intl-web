@@ -111,6 +111,8 @@ export default {
     'story.read': 'ಓದು',
     'story.lastUpdate': 'ಕೊನೆಯ ಹೊಸತಾಗಿ ಅಪ್ಡೇಟ್ ಮಾಡಲಾಗಿದೆ {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'ಕೊನೆಯಾಗಿ ಮುಗಿದಿದೆ {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}ಗೆ ಮಾಡಲಾಗಿರುವ ಕಾಮೆಂಟ್‌ಗಳು.',
     'story.cover.alt': '{story}ಗೆ ಸೇರಿದ ಕಥೆ ಕವರ್ ಚಿತ್ರ',
     'story.note.fanfiction': 'ಗಮನಿಸಿ: ಈ ಕಥೆ {universe} ವಿಶ್ವದ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಆಗಿದೆ.',

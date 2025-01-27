@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Καταχώρηση Εγκυκλοπαίδειας',
   'personalNotes.type.revTextBlock': 'Τμήμα Αναθεώρησης Κειμένου',
   'personalNotes.chapter': 'Κεφάλαιο',
-  'personalNotes.recentSearches': 'Πρόσφατες Αναζητήσεις:'
+  'personalNotes.recentSearches': 'Πρόσφατες Αναζητήσεις:',
+  'personalNotes.myNotes': 'Οι προσωπικές μου σημειώσεις'
 };

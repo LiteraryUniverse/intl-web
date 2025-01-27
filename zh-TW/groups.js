@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': '隱藏 - 只有您邀請的人才能加入。',
     'groups.imageAlt': '{groupName} 張圖片',
     'groups.members': '成員',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `{totalMembers, plural,
+    zero {沒有成員}
+    one {有一位成員}
+    other {有 # 位成員}
+  } 在這個群組中`,
     'groups.leaveGroup': '離開群組',
     'groups.leaveGroup.confirm': '只是確認一下。您確定要離開 {groupName}嗎？',
     'group.settings': '群組設定',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': '群組邀請',
     'group.invite.accept': '接受邀請',
-    'group.noticeBoard': '公告板'
+    'group.noticeBoard': '公告板',
+    'group.leaveGroup.modalAria': '確認您要離開群組。',
+    'group.leaveGroup.heading': '您確定要離開 {groupName}?',
+    'group.leaveGroup.explain': '離開群組表示您將無法存取群組資源，也無法與群組互動。'
 };

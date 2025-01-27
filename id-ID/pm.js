@@ -16,10 +16,10 @@ export default {
     other {percakapan yang belum dibaca}
   }.`,
     'pm.form.minimumParticipants': 'Anda perlu memilih penerima.',
-    'pm.form.maxParticipants': `You can have maximum of {maxPeople, plural,
-    one {one person}
-    other {# people}
-  } in a conversation.`,
+    'pm.form.maxParticipants': `Anda dapat memiliki maksimal {maxPeople, plural,
+    one {satu orang}
+    other {# orang}
+  } dalam sebuah percakapan.`,
     'pm.new.aria': 'Percakapan baru',
     'pm.new.buttonTitle': 'Mulai percakapan baru'
 };

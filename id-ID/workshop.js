@@ -133,11 +133,11 @@ export default {
     'workshop.fictionalTime.createNow': 'Buat satu sekarang!',
     'workshop.fictionalTime.createTitle': 'Buat waktu fiktif baru',
     'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Di sini Anda dapat membuat waktu fiksi Anda sendiri. Saat ini alat ini terbatas dan hanya mampu membuat waktu simetris
+        . Ini berarti Anda tidak dapat membuat ulang kalender Maya atau Masehi.
+        Pada saat ini
+        alat ini mengharapkan bahwa semua waktu selalu sama, misalnya bulan selalu 30 hari tidak ada pengecualian dan seterusnya.
+        Kami akan membahas hal ini di versi selanjutnya, tetapi sampai saat itu alat ini lebih cocok untuk membuat waktu berbasis fiksi ilmiah.`,
     'workshop.fictionalTime.timeName': 'Nama waktu',
     'workshop.fictionalTime.basicInfo': 'Informasi dasar',
     'workshop.fictionalTime.timeSetup': 'Pengaturan waktu',
@@ -287,5 +287,10 @@ export default {
     'workshop.videoTrailer.supportedPlaftorms': 'Kami mendukung Youtube, Vimeo, dan Odysee',
     'workshop.videoTrailer.rumble': 'Kami juga mendukung Rumble, tetapi ingat untuk menyalin URL IFRAME.',
     'workshop.videoTrailer.suggestPlatforms': 'Apakah platform video Anda tidak ada, beri tahu kami melalui <a>umpan balik</a> kami!',
-    'workshop.cover.edit': 'Change cover'
+    'workshop.cover.edit': 'Ganti penutup',
+    'workshop.collaborator.leave': 'Meninggalkan proyek',
+    'workshop.collaborator.leaveTitle': 'Mohon konfirmasi bahwa Anda ingin meninggalkan {workName}',
+    'workshop.collaborator.leaveExplained': 'Keluar dari proyek berarti Anda akan kehilangan semua akses, asosiasi, dan hak istimewa. Jika Anda tidak yakin apa artinya semua ini, mungkin ini bukan yang ingin Anda klik.',
+    'workshop.collaborators.leftInfo': 'Kiri pada {date, date}',
+    'workshop.collaborators.removedInfo': 'Dihapus di {date, date}'
 };

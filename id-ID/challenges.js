@@ -19,9 +19,9 @@ export default {
     'challenges.future.wordcount': 'Tantangan hitung kata dimulai pada {startDate, date, short} dengan tujuan {target, number} oleh {endDate, date, short}.',
     'challenges.future.nanowrimo': 'Tantangan NaNoWriMo sudah siap.',
     'challenges.wordcount': 'Jumlah kata',
-    'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
-    story {story}
-    universe {universe}
+    'challenges.wordcount.desc': `Tentukan sendiri berapa banyak kata yang ingin Anda tulis bulan ini untuk {type, select,
+    story {cerita}
+    universe {alam semesta}
     other {}
   }.`,
     'challenges.wordcount.select': 'Berapa banyak kata yang ingin Anda tantang?',

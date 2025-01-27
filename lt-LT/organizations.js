@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'Pagrindinė kalba',
     'org.meta.desc': 'Organizacijos ir kūrybinių grupių Literary Universe.',
     'org.luOrgs': 'Literary Universe organizacijos',
-    'org.otherOrgs': 'Gildijos ir organizacijos',
+    'org.otherOrgs': 'Organizacijos',
     'org.aboutTitle': 'Apie {orgName}',
     'org.membersTitle': 'Organizacijos nariai',
     'org.membersNone': 'Nariai nėra vieši',
@@ -27,10 +27,10 @@ export default {
     'org.forums.title': '{orgName} forumai',
     'org.flashnews.internal': 'Vidiniai naujienų pranešimai',
     'org.flashnews.publicAll': 'Vieši naujienų pranešimai visiems objektams',
-    'org.flashnews.createTitle': `Create a new news flash for {type, select,
-    internal {the organization}
-    allProperties {display to public on all properties}
-    other {the organization}
+    'org.flashnews.createTitle': `Sukurti naują naujienų pranešimą {type, select,
+    internal {organizacijai}
+    allProperties {rodyti viešai visose savybėse}
+    other {organizacijai}
   }`,
     'org.members.invited': 'Pakviesti nariai',
     'org.members.list': 'Organizacijos nariai',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'Ne gildijos darbas',
     'org.workshop.caption': 'Gildijos nuosavybė',
     'org.workshop.title': 'Organizacijos dirbtuvės',
-    'org.title': 'Organizacija'
+    'org.title': 'Organizacija',
+    'org.hall.title': '{orgName} narių salė',
+    'org.member.leave': 'Atostogų organizavimas',
+    'org.member.leaveModalTitle': 'Išvykimo iš organizacijos patvirtinimas',
+    'org.member.leaveModalHeading': 'Ar tikrai norite palikti {orgName}',
+    'org.member.leaveModalExplain': 'Pasitraukę iš organizacijos neteksite prieigos prie visų susijusių organizacijos išteklių ir darbų. Šio veiksmo atšaukti neįmanoma.'
 };

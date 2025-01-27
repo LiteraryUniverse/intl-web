@@ -15,11 +15,11 @@ export default {
     'blog.description': 'Вступ до блогу',
     'blog.theme': 'Тема',
     'blog.theme.info': 'Змінюючи тему, ви зможете змінити вигляд сторінки. Наразі ця функція не готова.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `У цьому блозі {total, plural,
+    zero {немає постів}
+    one {є один пост}
+    other {є # постів}
+  } .`,
     'blog.post.create': 'Створити новий пост',
     'blog.post.update': 'Редагування {title}',
     'blog.post.text': 'Текст поста',
@@ -33,9 +33,9 @@ export default {
     fanfiction {Робота фанфіку}
     other {}
   }`,
-    'blog.social.sameAsMain': `Social links are the same as set in {type, select,
-    organization {organization settings}
-    user {user profile}
+    'blog.social.sameAsMain': `Соціальні посилання такі ж, як і в {type, select,
+    organization {налаштуваннях організації}
+    user {профілі користувача}
     other {}
   }`,
     'blog.social.website': 'Офіційний веб-сайт',

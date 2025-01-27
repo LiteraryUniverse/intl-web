@@ -11,11 +11,11 @@ export default {
     'groups.type.hiddenDesc': 'Skjult - Kun de personer, du inviterer, kan deltage.',
     'groups.imageAlt': '{groupName} billede',
     'groups.members': 'Medlemmer',
-    'groups.members.total': `There {totalMembers, plural,
-    zero {are no members}
-    one {is one member}
-    other {are # members}
-  } in this group`,
+    'groups.members.total': `Der {totalMembers, plural,
+    zero {er ingen medlemmer}
+    one {er ét medlem}
+    other {er # medlemmer}
+  } i denne gruppe`,
     'groups.leaveGroup': 'Forlad gruppen',
     'groups.leaveGroup.confirm': 'Bare for at være sikker. Er du sikker på, at du vil forlade {groupName}?',
     'group.settings': 'Gruppeindstillinger',
@@ -38,5 +38,8 @@ export default {
   }`,
     'groups.invites.title': 'Gruppeinvitationer',
     'group.invite.accept': 'Accepter invitation',
-    'group.noticeBoard': 'Opslagstavle'
+    'group.noticeBoard': 'Opslagstavle',
+    'group.leaveGroup.modalAria': 'Bekræftelse af, at du vil forlade gruppen.',
+    'group.leaveGroup.heading': 'Er du sikker på, at du vil forlade {groupName}?',
+    'group.leaveGroup.explain': 'At forlade gruppen betyder, at du mister adgang til gruppens ressourcer og ikke kan interagere med den.'
 };

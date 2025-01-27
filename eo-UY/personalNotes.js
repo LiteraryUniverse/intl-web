@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Enciklopedia Eniro',
   'personalNotes.type.revTextBlock': 'Revizia Teksta Bloko',
   'personalNotes.chapter': 'Ĉapitro',
-  'personalNotes.recentSearches': 'Lastaj Serĉoj:'
+  'personalNotes.recentSearches': 'Lastaj Serĉoj:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };

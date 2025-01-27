@@ -60,5 +60,5 @@ export default {
     'discovery.chaptersTotal': 'Tarinan kokonaislukujen määrä',
     'discovery.readFromStart': 'Lue ensimmäisestä luvusta',
     'discovery.readLatest': 'Lue viimeisin luku',
-    'discovery.author': 'Author'
+    'discovery.author': 'Kirjoittaja'
 };

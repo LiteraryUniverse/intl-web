@@ -39,7 +39,7 @@ export default {
   'events.create.title': 'Δημιουργία νέας εκδήλωσης',
   'events.hostedBy': 'Φιλοξενούμενο από {hostName}',
   'events.openVirtual': 'Μετάβαση στην εικονική τοποθεσία',
-  'events.moreInfo': 'More information',
+  'events.moreInfo': 'Περισσότερες πληροφορίες',
   'event.visibilityShort.private': 'Ιδιωτικό',
   'event.visibilityShort.public': 'Δημόσιο',
   'event.visibilityShort.owner': 'Κάτοχος'

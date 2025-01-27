@@ -15,11 +15,11 @@ export default {
     'blog.description': 'Blog tanıtımı',
     'blog.theme': 'Tema',
     'blog.theme.info': 'Sayfanın görünümünü değiştirmek için tema ayarlarını düzenleyebilirsiniz. Bu özellik şu anda kullanıma hazır değil.',
-    'blog.posts.total': `There {total, plural,
-    zero {are no posts}
-    one {is one post}
-    other {are # posts}
-  } in this blog.`,
+    'blog.posts.total': `Bu blogda {total, plural,
+    zero {gönderi yok}
+    one {bir gönderi var}
+    other {# gönderi var}
+  } .`,
     'blog.post.create': 'Yeni bir gönderi oluştur',
     'blog.post.update': '{title}düzenleniyor',
     'blog.post.text': 'Gönderi metni',

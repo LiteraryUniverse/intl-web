@@ -9,7 +9,7 @@ export default {
     'org.settings.language': 'പ്രാഥമിക ഭാഷ',
     'org.meta.desc': 'സാഹിത്യ യൂണിവേർസിറ്റിയിൽ സംഘങ്ങളും സൃഷ്ടിയാക്കാനുള്ള സംഘങ്ങളും.',
     'org.luOrgs': 'സാഹിത്യ യൂണിവേർസിറ്റി സംഘങ്ങൾ',
-    'org.otherOrgs': 'ഗിൽഡുകൾ & സംഘങ്ങൾ',
+    'org.otherOrgs': 'Organizations',
     'org.aboutTitle': 'About {orgName}',
     'org.membersTitle': 'Organization members',
     'org.membersNone': 'Members are not public',
@@ -55,5 +55,10 @@ export default {
     'org.workshop.ownerUser': 'ഒരു ഗിൽഡ് പ്രവർത്തനമല്ല',
     'org.workshop.caption': 'ഗിൽഡ് ഉദ്ധാരണം',
     'org.workshop.title': 'സംഘടന പ്രവർത്തനം',
-    'org.title': 'സംഘടന'
+    'org.title': 'സംഘടന',
+    'org.hall.title': '{orgName} members hall',
+    'org.member.leave': 'Leave organization',
+    'org.member.leaveModalTitle': 'Leaving organization confirmation',
+    'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
+    'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
 };

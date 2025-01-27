@@ -48,7 +48,7 @@ export default {
     'nanowrimo.baseline': 'Amikor elkezdődik a NaNoWriMo, a jelenlegi szószámlálót alapnak veszi, és minden további szót a NaNoWriMo részeként kezel.',
     'nanowrimo.victory': 'Gratulálok! Megnyerted a NaNoWriMo-t!',
     'nanowrimo.challenge': 'NaNoWriMo kihívás',
-    'nanowrimo.description': 'The challenge is to write a novel of {words, number} words during November.',
+    'nanowrimo.description': 'A kihívás az, hogy november folyamán írj egy {words, number} szavas regényt.',
     'nanowrimo.error.usernotfound': 'A felhasználónév nem található a NaNoWriMo szerverein.',
     'nanowrimo.error.nobook': 'Nem található könyv. Győződj meg róla, hogy létrehoztad-e a könyvedet a NaNoWriMo-n.',
     'nanowrimo.error.wordcount': 'Nem sikerült beállítani a szószámlálót a NaNoWrimo-n, kérlek ellenőrizd a hitelesítő adataidat, majd próbáld újra.',
