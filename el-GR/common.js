@@ -111,6 +111,8 @@ export default {
     'story.read': 'Ανάγνωση',
     'story.lastUpdate': 'Τελευταία ενημέρωση στις {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Ολοκληρώθηκε στις {date, date, medium}.',
+    'story.hiatusAt': 'Σε διακοπή από {date, date, medium}.',
+    'story.cancelledAt': 'Ακυρώθηκε στις {date, date, medium}.',
     'story.comments.for': 'Σχόλια για τον/την {story} {chapter}.',
     'story.cover.alt': 'Εικόνα εξωφύλλου ιστορίας για το {story}.',
     'story.note.fanfiction': 'ΣΗΜΕΙΩΣΗ: Αυτή η ιστορία είναι ένα fan fiction στο σύμπαν του {universe}.',
