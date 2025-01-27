@@ -111,6 +111,8 @@ export default {
     'story.read': 'વાંચો',
     'story.lastUpdate': 'છેલ્લે અપડેટ કર્યું છે {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'પૂર્ણ કર્યું છે {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}માટે ટિપ્પણીઓ.',
     'story.cover.alt': '{story}માટે વાર્તાકોની આવૃત્તિ ચિત્ર.',
     'story.note.fanfiction': 'નોંધ: આ વાર્તા એ એક ફેન ફિક્શન છે {universe} વિશ્વ પર.',
