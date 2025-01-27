@@ -111,6 +111,8 @@ export default {
     'story.read': 'Lees',
     'story.lastUpdate': 'Laatst bijgewerkt op {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Voltooid op {date, date, medium}.',
+    'story.hiatusAt': 'Op hiatus van {date, date, medium}.',
+    'story.cancelledAt': 'Geannuleerd op {date, date, medium}.',
     'story.comments.for': 'Reacties voor {story} {chapter}.',
     'story.cover.alt': 'Verhaal omslagafbeelding voor {story}.',
     'story.note.fanfiction': 'LET OP: Dit verhaal is een fanfictie in het universum van {universe}.',
