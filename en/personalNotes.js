@@ -23,4 +23,5 @@ export default {
   'personalNotes.type.revTextBlock': 'Revision Text Block',
   'personalNotes.chapter': 'Chapter',
   'personalNotes.recentSearches': 'Recent Searches:',
+  'personalNotes.myNotes': 'My Personal Notes'
 }
