@@ -111,6 +111,8 @@ export default {
     'story.read': 'ਪੜ੍ਹੋ',
     'story.lastUpdate': 'ਆਖਰੀ ਅਪਡੇਟ ਹੋਇਆ {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'ਮੁਕੰਮਲ ਹੋਇਆ {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'ਟਿੱਪਣੀਆਂ {story} {chapter}ਲਈ।',
     'story.cover.alt': 'ਕਹਾਣੀ ਕਵਰ ਚਿੱਤਰ {story}ਲਈ।',
     'story.note.fanfiction': 'ਨੋਟ: ਇਹ ਕਹਾਣੀ {universe} ਯੂਨੀਵਰਸ ਤੇ ਇੱਕ ਫੈਨ ਫਿਕਸ਼ਨ ਹੈ।',
