@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planet',
     'encyclopedia.category.species': 'Spesies',
     'encyclopedia.category.technologies': 'Teknologi',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {Tiada entri berkaitan}
     one {1 entri berkaitan}
@@ -53,6 +54,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -72,25 +74,27 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   } in {universe}`,
-    'encyclopedia.entry.category': `Kategori entri: {category, select,
-    character {Watak}
-    event {Acara}
-    group {Kumpulan}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
     item {Item}
-    location {Lokasi}
-    other {Nota}
-    state {Negeri}
-    governments {Kerajaan}
-    languages {Bahasa}
-    creatures {Makhluk}
-    deity {Dewa}
-    religions {Agama}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
     flora {Flora}
-    magic {Sihir}
+    magic {Magic}
     planets {Planet}
-    species {Spesies}
-    technologies {Teknologi}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambah medan baru',
