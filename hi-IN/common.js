@@ -111,6 +111,8 @@ export default {
     'story.read': 'पढ़ें',
     'story.lastUpdate': 'अंतिम अपडेट किया गया {date, date, medium} {date, time, short}.',
     'story.finishedAt': '{date, date, medium}पर समाप्त हुआ।',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}के लिए टिप्पणियाँ।',
     'story.cover.alt': '{story}के लिए कवर छवि।',
     'story.note.fanfiction': 'नोट: यह कहानी {universe} यूनिवर्स पर एक फैन फिक्शन है।',
