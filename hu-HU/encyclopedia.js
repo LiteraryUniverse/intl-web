@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Bolygók',
     'encyclopedia.category.species': 'Fajok',
     'encyclopedia.category.technologies': 'Technológiák',
+    'encyclopedia.category.families': 'Családok',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nincsenek kapcsolódó bejegyzések}
     one {1 kapcsolódó bejegyzés}
@@ -35,63 +36,66 @@ export default {
     'encyclopedia.add.title': 'Új bejegyzés hozzáadása az enciklopédiához',
     'encyclopedia.add.heading': 'Mit szeretne hozzáadni?',
     'encyclopedia.add.moresoon': 'További kategóriák hamarosan.',
-    'encyclopedia.create': `Hozzon létre egy új {category, select,
-    character {karakter}
-    event {eseményt}
-    group {csoportot}
-    item {tárgyat}
-    location {helyszínt}
-    other {jegyzetet}
-    state {állapotot}
-    governments {kormányt}
-    languages {nyelvet}
-    creatures {lényt}
-    deity {istenséget}
-    religions {vallást}
-    flora {növényzetet}
-    magic {varázst}
-    planets {bolygót}
-    species {fajt}
-    technologies {technológiát}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `Hozzon létre egy új {category, select,
-    character {karakter}
-    event {eseményt}
-    group {csoportot}
-    item {tárgyat}
-    location {helyszínt}
-    other {jegyzetet}
-    state {állapotot}
-    governments {kormányt}
-    languages {nyelvet}
-    creatures {lényt}
-    deity {istenséget}
-    religions {vallást}
-    flora {növényzetet}
-    magic {varázst}
-    planets {bolygót}
-    species {fajt}
-    technologies {technológiát}
-  } a {universe}`,
-    'encyclopedia.entry.category': `Bejegyzés kategória: {category, select,
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}.`,
+    'encyclopedia.entry.category': `Nevezési kategória: {category, select,
     character {Karakter}
     event {Esemény}
     group {Csoport}
     item {Tárgy}
     location {Helyszín}
     other {Megjegyzés}
-    state {Állapot}
+    state {Állam}
     governments {Kormány}
     languages {Nyelv}
-    creatures {Teremtmény}
+    creatures {Lény}
     deity {Istenség}
     religions {Vallás}
-    flora {Növényzet}
+    flora {Flóra}
     magic {Mágia}
     planets {Bolygó}
     species {Faj}
     technologies {Technológia}
-  }`,
+    families {Család}
+  }~`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Új mező hozzáadása',
     'encyclopedia.fields.text': 'Definíció',
