@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planedoj',
     'encyclopedia.category.species': 'Specioj',
     'encyclopedia.category.technologies': 'Teknologioj',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {Neniu rilataj eniroj}
     one {1 rilata eniro}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'Aldoni novan eniron al la enciklopedio',
     'encyclopedia.add.heading': 'Kion vi deziras aldoni?',
     'encyclopedia.add.moresoon': 'Pliaj kategorioj venos baldaŭ!',
-    'encyclopedia.create': `Krei novan {category, select,
-    character {karaktero}
-    event {evento}
-    group {grupo}
-    item {ero}
-    location {loko}
-    other {noto}
-    state {ŝtato}
-    governments {registaro}
-    languages {lingvo}
-    creatures {estaĵo}
-    deity {dio}
-    religions {religio}
-    flora {floro}
-    magic {magio}
-    planets {planedo}
-    species {specio}
-    technologies {teknologio}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `Krei novan {category, select,
-    character {karaktero}
-    event {evento}
-    group {grupo}
-    item {ero}
-    location {loko}
-    other {noto}
-    state {ŝtato}
-    governments {registaro}
-    languages {lingvo}
-    creatures {estaĵo}
-    deity {dio}
-    religions {religio}
-    flora {floro}
-    magic {magio}
-    planets {planedo}
-    species {specio}
-    technologies {teknologio}
-  } en {universe}`,
-    'encyclopedia.entry.category': `Eniga kategorio: {category, select,
-    character {Karaktero}
-    event {Evento}
-    group {Grupo}
-    item {Objekto}
-    location {Loko}
-    other {Noto}
-    state {Stato}
-    governments {Registaro}
-    languages {Lingvo}
-    creatures {Kreitaĵo}
-    deity {Diaĵo}
-    religions {Religio}
-    flora {Floro}
-    magic {Magio}
-    planets {Planedo}
-    species {Specio}
-    technologies {Teknologio}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorio',
     'encyclopedia.fields.add': 'Aldoni novan kampeton',
