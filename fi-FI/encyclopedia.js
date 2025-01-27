@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planeetat',
     'encyclopedia.category.species': 'Lajit',
     'encyclopedia.category.technologies': 'Teknologiat',
+    'encyclopedia.category.families': 'Perheet',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei liittyviä merkintöjä}
     one {1 liittyvä merkintä}
@@ -40,57 +41,60 @@ export default {
     event {tapahtuma}
     group {ryhmä}
     item {esine}
-    location {sijainti}
-    other {muistiinpano}
-    state {tila}
+    location {paikka}
+    other {huomautus}
+    state {valtio}
     governments {hallitus}
     languages {kieli}
     creatures {olento}
     deity {jumaluus}
     religions {uskonto}
-    flora {kasvi}
-    magic {taika}
+    flora {kasvisto}
+    magic {taikuus}
     planets {planeetta}
     species {laji}
     technologies {teknologia}
+    families {suku}
   }`,
     'encyclopedia.create.header': `Luo uusi {category, select,
     character {hahmo}
     event {tapahtuma}
     group {ryhmä}
     item {esine}
-    location {sijainti}
-    other {muistiinpano}
-    state {tila}
+    location {paikka}
+    other {huomautus}
+    state {valtio}
     governments {hallitus}
     languages {kieli}
     creatures {olento}
     deity {jumaluus}
     religions {uskonto}
-    flora {kasvi}
-    magic {taika}
+    flora {kasvisto}
+    magic {taikuus}
     planets {planeetta}
     species {laji}
     technologies {teknologia}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Tietueen kategoria: {category, select,
+    families {suku}
+  } vuonna {universe}.`,
+    'encyclopedia.entry.category': `Osallistumisluokka: {category, select,
     character {Hahmo}
     event {Tapahtuma}
     group {Ryhmä}
     item {Esine}
     location {Sijainti}
     other {Huomautus}
-    state {Tilanne}
+    state {Valtio}
     governments {Hallitus}
     languages {Kieli}
     creatures {Olento}
     deity {Jumaluus}
     religions {Uskonto}
-    flora {Kasvisto}
+    flora {Kasvi- ja kasvikunta}
     magic {Taikuus}
     planets {Planeetta}
-    species {Laji}
+    species {Erikoisuus}
     technologies {Teknologia}
+    families {Perhe}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Lisää uusi kenttä',
