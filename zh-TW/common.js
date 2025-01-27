@@ -111,6 +111,8 @@ export default {
     'story.read': '閱讀',
     'story.lastUpdate': '最後更新於 {date, date, medium} {date, time, short}。',
     'story.finishedAt': '於 {date, date, medium}完結。',
+    'story.hiatusAt': '從 {date, date, medium}暫停。',
+    'story.cancelledAt': '於 {date, date, medium}取消。',
     'story.comments.for': '對於 {story} {chapter}的評論。',
     'story.cover.alt': '{story}的故事封面圖片。',
     'story.note.fanfiction': '注意：本故事是關於 {universe} 宇宙的粉絲創作。',
