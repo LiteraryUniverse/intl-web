@@ -111,6 +111,8 @@ export default {
     'story.read': 'Lees',
     'story.lastUpdate': 'Laas bygewerk op {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Voltooi op {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'Kommentaar vir {story} {chapter}.',
     'story.cover.alt': 'Storie omslagfoto vir {story}.',
     'story.note.fanfiction': 'NOTA: Hierdie storie is \'n fanfiksie in die {universe} heelal.',
