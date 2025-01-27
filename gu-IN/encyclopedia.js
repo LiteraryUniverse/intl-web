@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'જાતિઓ',
     'encyclopedia.category.technologies': 'તંત્રો',
     'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
     'encyclopedia.search.found': `{results, plural,
     =0 {કોઈ સંબંધિત એન્ટ્રીઓ નથી}
     one {1 સંબંધિત એન્ટ્રી}
@@ -55,8 +65,18 @@ export default {
     species {specie}
     technologies {technology}
     families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
+    'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
     event {event}
     group {group}
@@ -75,6 +95,16 @@ export default {
     species {specie}
     technologies {technology}
     families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   } in {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -95,6 +125,16 @@ export default {
     species {Specie}
     technologies {Technology}
     families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
   }`,
     'encyclopedia.entry.category.legend': 'કેટેગરી',
     'encyclopedia.fields.add': 'નવી ફીલ્ડ ઉમેરો',
