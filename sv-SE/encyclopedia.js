@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planeter',
     'encyclopedia.category.species': 'Arter',
     'encyclopedia.category.technologies': 'Teknologier',
+    'encyclopedia.category.families': 'Familjer',
     'encyclopedia.search.found': `{results, plural,
     =0 {Inga relaterade poster}
     one {1 relaterad post}
@@ -42,17 +43,18 @@ export default {
     item {föremål}
     location {plats}
     other {anteckning}
-    state {tillstånd}
+    state {stat}
     governments {regering}
     languages {språk}
     creatures {varelse}
-    deity {gud}
+    deity {gudom}
     religions {religion}
     flora {flora}
     magic {magi}
     planets {planet}
     species {art}
-    technologies {teknologi}
+    technologies {teknik}
+    families {familj}
   }`,
     'encyclopedia.create.header': `Skapa en ny {category, select,
     character {karaktär}
@@ -61,36 +63,38 @@ export default {
     item {föremål}
     location {plats}
     other {anteckning}
-    state {tillstånd}
+    state {stat}
     governments {regering}
     languages {språk}
     creatures {varelse}
-    deity {gud}
+    deity {gudom}
     religions {religion}
     flora {flora}
     magic {magi}
     planets {planet}
     species {art}
-    technologies {teknologi}
+    technologies {teknik}
+    families {familj}
   } i {universe}`,
-    'encyclopedia.entry.category': `Inläggskategori: {category, select,
-    character {Tecken}
+    'encyclopedia.entry.category': `Ingångskategori: {category, select,
+    character {Karaktär}
     event {Händelse}
     group {Grupp}
     item {Föremål}
     location {Plats}
-    other {Anteckning}
-    state {Tillstånd}
+    other {Not}
+    state {Stat}
     governments {Regering}
     languages {Språk}
     creatures {Varelse}
-    deity {Gudomlighet}
+    deity {Gudom}
     religions {Religion}
     flora {Flora}
     magic {Magi}
     planets {Planet}
-    species {Art}
-    technologies {Teknologi}
+    species {Specie}
+    technologies {Teknik}
+    families {Familj}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Lägg till ett nytt fält',
