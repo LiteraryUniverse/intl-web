@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'རྩ་སྒྲིག།',
     'encyclopedia.category.species': 'རིང་བཞི།',
     'encyclopedia.category.technologies': 'རྩོམ་པ།',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -53,6 +54,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -72,25 +74,27 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   } in {universe}`,
-    'encyclopedia.entry.category': `ཐོག་མིང་དབྱེ་བ། {category, select,
-    character {ཚོགས་པ།}
-    event {བརྗོད།}
-    group {སྡེ་ཚན།}
-    item {གནས་ཚུལ།}
-    location {ས་ཁོང་།}
-    other {དང་པོ།}
-    state {རྒྱུ་མཚན།}
-    governments {རྒྱལ་ཁབ།}
-    languages {སྐད་རིགས།}
-    creatures {སྦྱོང་ཚོགས།}
-    deity {ལྷ་མོ།}
-    religions {བསྟན་འཛིན།}
-    flora {སྟོན།}
-    magic {རྒྱལ་པོ།}
-    planets {གྲོང་ཁྱེར།}
-    species {རིགས།}
-    technologies {རིགས་ཀྱི་རྩ་བ།}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
