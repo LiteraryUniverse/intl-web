@@ -111,6 +111,8 @@ export default {
     'story.read': 'Olvasás',
     'story.lastUpdate': 'Utoljára frissítve: {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Befejezve: {date, date, medium}.',
+    'story.hiatusAt': 'Szünetelteti a {date, date, medium}.',
+    'story.cancelledAt': 'Törölték a {date, date, medium}.',
     'story.comments.for': 'Hozzászólások {story} {chapter}-hoz.',
     'story.cover.alt': 'Történet borítóképe {story}.',
     'story.note.fanfiction': 'MEGJEGYZÉS: Ez a történet egy rajongói alkotás a(z) {universe} univerzumban.',
