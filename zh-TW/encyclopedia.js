@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': '行星',
     'encyclopedia.category.species': '物種',
     'encyclopedia.category.technologies': '科技',
+    'encyclopedia.category.families': '家庭',
     'encyclopedia.search.found': `{results, plural,
     =0 {沒有相關的條目}
     one {1個相關的條目}
@@ -50,14 +51,15 @@ export default {
     religions {宗教}
     flora {植物}
     magic {魔法}
-    planets {行星}
+    planets {星球}
     species {種類}
     technologies {科技}
-  }。`,
-    'encyclopedia.create.header': `建立一個新 {category, select,
+    families {家庭}
+  }`,
+    'encyclopedia.create.header': `建立新 {category, select,
     character {角色}
     event {事件}
-    group {群體}
+    group {群組}
     item {物品}
     location {位置}
     other {註釋}
@@ -69,18 +71,19 @@ export default {
     religions {宗教}
     flora {植物}
     magic {魔法}
-    planets {行星}
+    planets {星球}
     species {種類}
     technologies {科技}
+    families {家庭}
   } 在 {universe}`,
-    'encyclopedia.entry.category': `條目類別： {category, select,
+    'encyclopedia.entry.category': `輸入類別： {category, select,
     character {角色}
     event {事件}
-    group {團體}
+    group {群體}
     item {物品}
-    location {地點}
-    other {筆記}
-    state {狀態}
+    location {位置}
+    other {註釋}
+    state {國家}
     governments {政府}
     languages {語言}
     creatures {生物}
@@ -89,8 +92,9 @@ export default {
     flora {植物}
     magic {魔法}
     planets {星球}
-    species {物種}
+    species {種類}
     technologies {科技}
+    families {家庭}
   }`,
     'encyclopedia.entry.category.legend': '類別',
     'encyclopedia.fields.add': '添加新字段',
