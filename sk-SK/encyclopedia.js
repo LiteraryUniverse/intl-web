@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planéty',
     'encyclopedia.category.species': 'Druhy',
     'encyclopedia.category.technologies': 'Technológie',
+    'encyclopedia.category.families': 'Rodiny',
     'encyclopedia.search.found': `{results, plural,
     =0 {Žiadne súvisiace položky}
     one {Nájdené 1 súvisiace položky}
@@ -36,62 +37,65 @@ export default {
     'encyclopedia.add.title': 'Pridanie nového záznamu do encyklopédie',
     'encyclopedia.add.heading': 'Čo chcete pridať?',
     'encyclopedia.add.moresoon': 'Ďalšie kategórie už čoskoro!',
-    'encyclopedia.create': `Vytvorte nov{category, select,
-    character {ú postavu}
-    event {ú udalosť}
-    group {ú skupinu}
-    item {ú položku}
-    location {é miesto}
-    other {ú poznámku}
-    state {ý štát}
-    governments {ú vládu}
-    languages {ý jazyk}
-    creatures {ú bytosť}
-    deity {é božstvo}
-    religions {é náboženstvo}
-    flora {ú flóru}
-    magic {é kúzlo}
-    planets {ú planétu}
-    species {ý druh}
-    technologies {ú technológiu}
+    'encyclopedia.create': `Vytvoriť nový {category, select,
+    character {postava}
+    event {udalosť}
+    group {skupina}
+    item {predmet}
+    location {miesto}
+    other {poznámka}
+    state {štát}
+    governments {vláda}
+    languages {jazyk}
+    creatures {tvor}
+    deity {božstvo}
+    religions {náboženstvo}
+    flora {flóra}
+    magic {mágia}
+    planets {planéta}
+    species {druh}
+    technologies {technológia}
+    families {rodina}
   }`,
-    'encyclopedia.create.header': `Vytvorenie nov{category, select,
-    character {ú postavu}
-    event {ú udalosť}
-    group {ú skupinu}
-    item {ú položku}
-    location {é miesto}
-    other {ú poznámku}
-    state {ý štát}
-    governments {ú vládu}
-    languages {ý jazyk}
-    creatures {ú bytosť}
-    deity {é božstvo}
-    religions {é náboženstvo}
-    flora {ú flóru}
-    magic {é kúzlo}
-    planets {ú planétu}
-    species {ý druh}
-    technologies {ú technológiu}
-  } v {universe} vesmíre`,
-    'encyclopedia.entry.category': `Kategória záznamu: {category, select,
+    'encyclopedia.create.header': `Vytvoriť nový {category, select,
+    character {postava}
+    event {udalosť}
+    group {skupina}
+    item {predmet}
+    location {miesto}
+    other {poznámka}
+    state {štát}
+    governments {vláda}
+    languages {jazyk}
+    creatures {tvor}
+    deity {božstvo}
+    religions {náboženstvo}
+    flora {flóra}
+    magic {mágia}
+    planets {planéta}
+    species {druh}
+    technologies {technológia}
+    families {rodina}
+  } v {universe}`,
+    'encyclopedia.entry.category': `Kategória prihlášok: {category, select,
     character {Postava}
     event {Udalosť}
     group {Skupina}
-    item {Položka}
-    location {Lokalita}
+    item {Predmet}
+    location {Miesto}
     other {Poznámka}
     state {Štát}
     governments {Vláda}
     languages {Jazyk}
-    creatures {Tvor}
+    creatures {Stvorenie}
     deity {Božstvo}
     religions {Náboženstvo}
-    flora {Flora}
-    magic {Magia}
+    flora {Flóra}
+    magic {Mágia}
     planets {Planéta}
     species {Druh}
     technologies {Technológia}
+    families {Rodina}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Pridať nové pole',
