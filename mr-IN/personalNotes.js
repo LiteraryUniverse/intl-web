@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'ज्ञानकोश प्रविष्टी',
   'personalNotes.type.revTextBlock': 'संसोधन मजकूर ब्लॉक',
   'personalNotes.chapter': 'अध्याय',
-  'personalNotes.recentSearches': 'हालचालीत शोध:'
+  'personalNotes.recentSearches': 'हालचालीत शोध:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };
