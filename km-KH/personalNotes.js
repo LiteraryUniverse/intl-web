@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'ធាតុអេនកប្រព័ន្ធ',
   'personalNotes.type.revTextBlock': 'ប្រការ២កែប្រែអត្ថបទ',
   'personalNotes.chapter': 'ជំពូក',
-  'personalNotes.recentSearches': 'លទ្ធផលស្វែងរកថ្មីៗ៖'
+  'personalNotes.recentSearches': 'លទ្ធផលស្វែងរកថ្មីៗ៖',
+  'personalNotes.myNotes': 'My Personal Notes'
 };
