@@ -111,6 +111,8 @@ export default {
     'story.read': 'Læs',
     'story.lastUpdate': 'Sidst opdateret den {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Afsluttet den {date, date, medium}.',
+    'story.hiatusAt': 'På pause fra {date, date, medium}.',
+    'story.cancelledAt': 'Aflyst på {date, date, medium}.',
     'story.comments.for': 'Kommentarer til {story} {chapter}.',
     'story.cover.alt': 'Historie cover billede for {story}.',
     'story.note.fanfiction': 'BEMÆRK: Denne historie er en fan fiction i {universe} univers.',
