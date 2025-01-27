@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'ग्रहहरू',
     'encyclopedia.category.species': 'जातिहरू',
     'encyclopedia.category.technologies': 'प्रविधिहरू',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {कुनै सम्बन्धित प्रविष्टिहरू छैनन्}
     one {१ सम्बन्धित प्रविष्टि}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'ज्ञानकोषमा नयाँ प्रविष्टि थप्नुहोस्',
     'encyclopedia.add.heading': 'तपाईंले के थप्न चाहानुहुन्छ?',
     'encyclopedia.add.moresoon': 'थप श्रेणीहरू धेरै छाड्ने!',
-    'encyclopedia.create': `नयाँ {category, select,
-    character {चरित्र}
-    event {कार्यक्रम}
-    group {समूह}
-    item {वस्तु}
-    location {स्थान}
-    other {नोट}
-    state {राज्य}
-    governments {सरकार}
-    languages {भाषा}
-    creatures {प्राणी}
-    deity {देवता}
-    religions {धर्म}
-    flora {फूल}
-    magic {जादू}
-    planets {ग्रह}
-    species {प्रजाति}
-    technologies {प्रविधि}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `नयाँ {category, select,
-    character {चरित्र}
-    event {कार्यक्रम}
-    group {समूह}
-    item {वस्तु}
-    location {स्थान}
-    other {नोट}
-    state {राज्य}
-    governments {सरकार}
-    languages {भाषा}
-    creatures {प्राणी}
-    deity {देवता}
-    religions {धर्म}
-    flora {फूल}
-    magic {जादू}
-    planets {ग्रह}
-    species {प्रजाति}
-    technologies {प्रविधि}
-  } मा {universe}`,
-    'encyclopedia.entry.category': `प्रविष्टि श्रेणी: {category, select,
-    character {अक्षर}
-    event {कार्यक्रम}
-    group {समूह}
-    item {वस्त्र}
-    location {स्थान}
-    other {नोट}
-    state {राज्य}
-    governments {सरकार}
-    languages {भाषा}
-    creatures {प्राणी}
-    deity {देवता}
-    religions {धर्म}
-    flora {वनस्पति}
-    magic {जादू}
-    planets {ग्रह}
-    species {जाति}
-    technologies {प्रौद्योगिकी}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'श्रेणी',
     'encyclopedia.fields.add': 'नयाँ क्षेत्र थप्नुहोस्',
