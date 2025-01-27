@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Encyklopædi indgang',
   'personalNotes.type.revTextBlock': 'Revision tekstblok',
   'personalNotes.chapter': 'Kapitel',
-  'personalNotes.recentSearches': 'Seneste søgninger:'
+  'personalNotes.recentSearches': 'Seneste søgninger:',
+  'personalNotes.myNotes': 'Mine personlige noter'
 };
