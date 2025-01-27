@@ -111,6 +111,8 @@ export default {
     'story.read': 'Lesen',
     'story.lastUpdate': 'Zuletzt aktualisiert am {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Beendet am {date, date, medium}.',
+    'story.hiatusAt': 'Auf Pause von {date, date, medium}.',
+    'story.cancelledAt': 'Abgebrochen am {date, date, medium}.',
     'story.comments.for': 'Kommentare für {story} {chapter}.',
     'story.cover.alt': 'Titelbild der Geschichte für {story}.',
     'story.note.fanfiction': 'HINWEIS: Diese Geschichte ist eine Fan-Fiktion am {universe} Universum.',
