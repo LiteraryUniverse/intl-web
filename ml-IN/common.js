@@ -111,6 +111,8 @@ export default {
     'story.read': 'വായിക്കുക',
     'story.lastUpdate': 'അവസാനത്തെ അപ്ഡേറ്റ് {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'അവസാനിച്ചത് {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}എന്ന കഥയുടെ അഭിപ്രായങ്ങൾ.',
     'story.cover.alt': '{story}എന്ന കഥയുടെ കവർ ചിത്രം.',
     'story.note.fanfiction': 'അവകാശപ്പെടുന്നുവെങ്കിലും: ഈ കഥ ഒരു {universe} യൂണിവേഴ്സിന്റെ ഫാൻ ഫിക്ഷൻ ആണ്.',
