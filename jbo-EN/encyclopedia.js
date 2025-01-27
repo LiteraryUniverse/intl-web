@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'lo solri',
     'encyclopedia.category.species': 'lo cinse',
     'encyclopedia.category.technologies': 'lo saske',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'Add a new entry to encyclopedia',
     'encyclopedia.add.heading': 'What do you wish to add?',
     'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `Citka lo nu jdice lo nu zukte fi lo {category, select,
-    character {lo}
-    event {lo}
-    group {lo}
-    item {lo}
-    location {lo}
-    other {lo}
-    state {lo}
-    governments {lo}
-    languages {lo}
-    creatures {lo}
-    deity {lo}
-    religions {lo}
-    flora {lo}
-    magic {lo}
-    planets {lo}
-    species {lo}
-    technologies {lo}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `Citka lo nu jdice lo nu zukte fi lo {category, select,
-    character {lo}
-    event {lo}
-    group {lo}
-    item {lo}
-    location {lo}
-    other {lo}
-    state {lo}
-    governments {lo}
-    languages {lo}
-    creatures {lo}
-    deity {lo}
-    religions {lo}
-    flora {lo}
-    magic {lo}
-    planets {lo}
-    species {lo}
-    technologies {lo}
-  } lo {universe}`,
-    'encyclopedia.entry.category': `Kategorya ng Pag-entry: {category, select,
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
     event {Event}
     group {Group}
     item {Item}
-    location {Lokasyon}
-    other {Tala}
-    state {Kalagayan}
-    governments {Pamahalaan}
-    languages {Wika}
-    creatures {Nilalang}
-    deity {Diyos}
-    religions {Relihiyon}
-    flora {Halaman}
-    magic {Mahika}
-    planets {Planeta}
-    species {Uri}
-    technologies {Teknolohiya}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
