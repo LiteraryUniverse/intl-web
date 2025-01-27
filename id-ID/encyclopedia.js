@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planet',
     'encyclopedia.category.species': 'Spesies',
     'encyclopedia.category.technologies': 'Teknologi',
+    'encyclopedia.category.families': 'Keluarga',
     'encyclopedia.search.found': `{results, plural,
     =0 {Tidak ada entri terkait}
     one {1 entri terkait}
@@ -35,14 +36,14 @@ export default {
     'encyclopedia.add.title': 'Tambahkan entri baru ke ensiklopedia',
     'encyclopedia.add.heading': 'Apa yang ingin Anda tambahkan?',
     'encyclopedia.add.moresoon': 'Kategori lainnya akan segera hadir!',
-    'encyclopedia.create': `Buat acara baru {category, select,
+    'encyclopedia.create': `Buat {category, select,
     character {karakter}
-    event {acara}
+    event {peristiwa}
     group {kelompok}
-    item {item}
+    item {barang}
     location {lokasi}
     other {catatan}
-    state {negara}
+    state {negara bagian}
     governments {pemerintah}
     languages {bahasa}
     creatures {makhluk}
@@ -51,14 +52,15 @@ export default {
     flora {flora}
     magic {sihir}
     planets {planet}
-    species {spesies}
+    species {jenis}
     technologies {teknologi}
+    families {keluarga}
   }`,
-    'encyclopedia.create.header': `Buat acara baru {category, select,
+    'encyclopedia.create.header': `Buat {category, select,
     character {karakter}
-    event {acara}
+    event {peristiwa}
     group {kelompok}
-    item {item}
+    item {barang}
     location {lokasi}
     other {catatan}
     state {negara}
@@ -70,27 +72,29 @@ export default {
     flora {flora}
     magic {sihir}
     planets {planet}
-    species {spesies}
+    species {jenis}
     technologies {teknologi}
+    families {keluarga}
   } di {universe}`,
     'encyclopedia.entry.category': `Kategori entri: {category, select,
     character {Karakter}
-    event {Acara}
-    group {Grup}
-    item {Item}
+    event {Peristiwa}
+    group {Kelompok}
+    item {Barang}
     location {Lokasi}
     other {Catatan}
     state {Negara}
-    governments {Pemerintahan}
+    governments {Pemerintah}
     languages {Bahasa}
     creatures {Makhluk}
     deity {Dewa}
     religions {Agama}
-    flora {Flora}
+    flora {Tumbuhan}
     magic {Sihir}
     planets {Planet}
     species {Spesies}
     technologies {Teknologi}
+    families {Keluarga}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambahkan bidang baru',
