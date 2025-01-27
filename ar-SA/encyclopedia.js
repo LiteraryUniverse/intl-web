@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'الكواكب',
     'encyclopedia.category.species': 'الأنواع',
     'encyclopedia.category.technologies': 'التقنيات',
+    'encyclopedia.category.families': 'العائلات',
     'encyclopedia.search.found': `{results, plural,
     =0 {لا توجد إدخالات ذات صلة}
     one {إدخال ذو صلة واحد}
@@ -40,25 +41,6 @@ export default {
     event {~ حدث ~ ~ حدث}
     group {مجموعة}
     item {~ عنصر}
-    location {موقع}
-    other {ملاحظة}
-    state {دولة}
-    governments {حكومة ~ ~ حكومة}
-    languages {لغة}
-    creatures {~ مخلوق}
-    deity {إله ~ ~ إله}
-    religions {دين}
-    flora {نباتات}
-    magic {سحر}
-    planets {كوكب}
-    species {نوع}
-    technologies {تكنولوجيا}
-  }`,
-    'encyclopedia.create.header': `قم بإنشاء جديد {category, select,
-    character {شخصية}
-    event {~ حدث ~ ~ حدث}
-    group {مجموعة}
-    item {~ عنصر}
     location {الموقع}
     other {ملاحظة}
     state {الدولة}
@@ -72,26 +54,48 @@ export default {
     planets {كوكب}
     species {نوع}
     technologies {تكنولوجيا}
-  } في {universe}`,
-    'encyclopedia.entry.category': `فئة الإدخال: {category, select,
+    families {عائلة}
+  }~`,
+    'encyclopedia.create.header': `قم بإنشاء جديد {category, select,
     character {شخصية}
-    event {حدث}
+    event {~ حدث ~ ~ حدث}
     group {مجموعة}
-    item {عنصر}
-    location {موقع}
+    item {~ عنصر}
+    location {الموقع}
     other {ملاحظة}
-    state {حالة}
+    state {دولة}
+    governments {حكومة ~ ~ حكومة}
+    languages {لغة}
+    creatures {~ مخلوق}
+    deity {إله ~ ~ إله}
+    religions {دين}
+    flora {نباتات}
+    magic {سحر ~ ~ سحر}
+    planets {كوكب}
+    species {نوع ~ ~ نوع}
+    technologies {تكنولوجيا}
+    families {عائلة}
+  } في {universe}`,
+    'encyclopedia.entry.category': `فئة الدخول {category, select,
+    character {شخصية}
+    event {حدث ~ ~ ~ حدث}
+    group {مجموعة ~ ~ مجموعة}
+    item {عنصر ~ عنصر}
+    location {موقع ~ موقع}
+    other {ملاحظة}
+    state {دولة}
     governments {حكومة}
     languages {لغة}
-    creatures {مخلوق}
-    deity {إله}
-    religions {ديانة}
-    flora {نباتات}
+    creatures {~ مخلوق}
+    deity {إله ~ ~ إله}
+    religions {دين}
+    flora {فلورا}
     magic {سحر}
     planets {كوكب}
     species {نوع}
     technologies {تكنولوجيا}
-  }`,
+    families {عائلة}
+  }~`,
     'encyclopedia.entry.category.legend': 'التصنيف',
     'encyclopedia.fields.add': 'إضافة حقل جديد',
     'encyclopedia.fields.text': 'التعريف',
