@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planete',
     'encyclopedia.category.species': 'Specii',
     'encyclopedia.category.technologies': 'Tehnologii',
+    'encyclopedia.category.families': 'Familii',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nicio intrare asociată}
     one {1 intrare asociată}
@@ -35,8 +36,8 @@ export default {
     'encyclopedia.add.title': 'Adăugați o nouă intrare în enciclopedie',
     'encyclopedia.add.heading': 'Ce doriți să adăugați?',
     'encyclopedia.add.moresoon': 'Mai multe categorii vor fi disponibile în curând!',
-    'encyclopedia.create': `Creați un nou {category, select,
-    character {caracter}
+    'encyclopedia.create': `Creează un nou {category, select,
+    character {personaj}
     event {eveniment}
     group {grup}
     item {obiect}
@@ -53,9 +54,10 @@ export default {
     planets {planetă}
     species {specie}
     technologies {tehnologie}
+    families {familie}
   }`,
-    'encyclopedia.create.header': `Creați un nou {category, select,
-    character {caracter}
+    'encyclopedia.create.header': `Creează un nou {category, select,
+    character {personaj}
     event {eveniment}
     group {grup}
     item {obiect}
@@ -72,25 +74,27 @@ export default {
     planets {planetă}
     species {specie}
     technologies {tehnologie}
+    families {familie}
   } în {universe}`,
-    'encyclopedia.entry.category': `Categorie de intrare: {category, select,
-    character {Caracter}
+    'encyclopedia.entry.category': `Categoria de intrare: {category, select,
+    character {Personaj}
     event {Eveniment}
     group {Grup}
-    item {Element}
+    item {Obiect}
     location {Locație}
     other {Notă}
     state {Stat}
     governments {Guvern}
-    languages {Limbă}
+    languages {Limba}
     creatures {Creatură}
     deity {Zeitate}
     religions {Religie}
-    flora {Floră}
+    flora {Flora}
     magic {Magie}
     planets {Planetă}
     species {Specie}
     technologies {Tehnologie}
+    families {Familie}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Adăugați un câmp nou',
