@@ -111,6 +111,8 @@ export default {
     'story.read': 'Skaityti',
     'story.lastUpdate': 'Paskutinį kartą atnaujinta {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Baigta {date, date, medium}.',
+    'story.hiatusAt': 'Pertrauka nuo {date, date, medium}.',
+    'story.cancelledAt': 'Atšauktas {date, date, medium}.',
     'story.comments.for': 'Komentarai skirti {story} {chapter}.',
     'story.cover.alt': 'Pasakos viršelio paveikslėlis skirtas {story}.',
     'story.note.fanfiction': 'PASTABA: Ši pasaka yra fanų kūrinys apie {universe} universą.',
