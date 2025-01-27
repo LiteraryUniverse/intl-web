@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planeten',
     'encyclopedia.category.species': 'Soorten',
     'encyclopedia.category.technologies': 'Technologieën',
+    'encyclopedia.category.families': 'Gezinnen',
     'encyclopedia.search.found': `{results, plural,
     =0 {Geen gerelateerde invoeringen}
     one {1 gerelateerde invoering}
@@ -35,17 +36,17 @@ export default {
     'encyclopedia.add.title': 'Voeg een nieuw item toe aan de encyclopedie',
     'encyclopedia.add.heading': 'Wat wil je toevoegen?',
     'encyclopedia.add.moresoon': 'Meer categorieën binnenkort beschikbaar!',
-    'encyclopedia.create': `Maak een nieuwe {category, select,
-    character {karakter}
-    event {evenement}
+    'encyclopedia.create': `Maak een nieuw {category, select,
+    character {personage}
+    event {gebeurtenis}
     group {groep}
-    item {item}
+    item {voorwerp}
     location {locatie}
-    other {notitie}
+    other {opmerking}
     state {staat}
     governments {overheid}
     languages {taal}
-    creatures {wezen}
+    creatures {schepsel}
     deity {godheid}
     religions {religie}
     flora {flora}
@@ -53,18 +54,19 @@ export default {
     planets {planeet}
     species {soort}
     technologies {technologie}
-  }`,
-    'encyclopedia.create.header': `Maak een nieuwe {category, select,
-    character {karakter}
-    event {evenement}
+    families {familie}
+  }.`,
+    'encyclopedia.create.header': `Maak een nieuw {category, select,
+    character {personage}
+    event {gebeurtenis}
     group {groep}
-    item {item}
+    item {voorwerp}
     location {locatie}
-    other {notitie}
+    other {opmerking}
     state {staat}
-    governments {overheid}
+    governments {regering}
     languages {taal}
-    creatures {wezen}
+    creatures {schepsel}
     deity {godheid}
     religions {religie}
     flora {flora}
@@ -72,16 +74,17 @@ export default {
     planets {planeet}
     species {soort}
     technologies {technologie}
+    families {familie}
   } in {universe}`,
-    'encyclopedia.entry.category': `Categorie van invoer: {category, select,
-    character {Personage}
+    'encyclopedia.entry.category': `Categorie inzending: {category, select,
+    character {Karakter}
     event {Gebeurtenis}
     group {Groep}
     item {Voorwerp}
     location {Locatie}
-    other {Notitie}
+    other {Opmerking}
     state {Staat}
-    governments {Overheid}
+    governments {Regering}
     languages {Taal}
     creatures {Wezen}
     deity {Godheid}
@@ -91,6 +94,7 @@ export default {
     planets {Planeet}
     species {Soort}
     technologies {Technologie}
+    families {Familie}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Voeg een nieuw veld toe',
