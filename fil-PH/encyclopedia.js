@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Mga Planeta',
     'encyclopedia.category.species': 'Mga Uri',
     'encyclopedia.category.technologies': 'Mga Teknolohiya',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {Walang kaugnay na mga entry}
     one {1 kaugnay na entry}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'Magdagdag ng bagong entry sa ensiklopedya',
     'encyclopedia.add.heading': 'Ano ang nais mong idagdag?',
     'encyclopedia.add.moresoon': 'Mas maraming mga kategorya ang darating sa lalong madaling panahon!',
-    'encyclopedia.create': `Gumawa ng bagong {category, select,
-    character {karakter}
-    event {kaganapan}
-    group {grupo}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
     item {item}
-    location {lokasyon}
-    other {tala}
-    state {estado}
-    governments {pamahalaan}
-    languages {wika}
-    creatures {nilalang}
-    deity {diyos}
-    religions {relihiyon}
-    flora {halaman}
-    magic {mahika}
-    planets {planeta}
-    species {uri}
-    technologies {teknolohiya}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `Gumawa ng bagong {category, select,
-    character {karakter}
-    event {kaganapan}
-    group {grupo}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
     item {item}
-    location {lokasyon}
-    other {tala}
-    state {estado}
-    governments {pamahalaan}
-    languages {wika}
-    creatures {nilalang}
-    deity {diyos}
-    religions {relihiyon}
-    flora {halaman}
-    magic {mahika}
-    planets {planeta}
-    species {uri}
-    technologies {teknolohiya}
-  } sa {universe}`,
-    'encyclopedia.entry.category': `Kategorya ng Pag-entry: {category, select,
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
     event {Event}
     group {Group}
     item {Item}
-    location {Lokasyon}
-    other {Tala}
-    state {Estado}
-    governments {Pamahalaan}
-    languages {Wika}
-    creatures {Nilalang}
-    deity {Diyos}
-    religions {Relihiyon}
-    flora {Halaman}
-    magic {Mahika}
-    planets {Planeta}
-    species {Uri}
-    technologies {Teknolohiya}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorya',
     'encyclopedia.fields.add': 'Magdagdag ng bagong field',
