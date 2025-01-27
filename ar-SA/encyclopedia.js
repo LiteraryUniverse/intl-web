@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'الأنواع',
     'encyclopedia.category.technologies': 'التقنيات',
     'encyclopedia.category.families': 'العائلات',
+    'encyclopedia.category.jobs': 'الوظائف',
+    'encyclopedia.category.lore': 'لور',
+    'encyclopedia.category.vehicles': 'المركبات',
+    'encyclopedia.category.diseases': 'الأمراض',
+    'encyclopedia.category.traditions': 'التقاليد',
+    'encyclopedia.category.sports': 'الرياضة',
+    'encyclopedia.category.landmarks': 'المعالم',
+    'encyclopedia.category.buildings': 'المباني',
+    'encyclopedia.category.schools': 'المدارس',
+    'encyclopedia.category.continents': 'القارات',
     'encyclopedia.search.found': `{results, plural,
     =0 {لا توجد إدخالات ذات صلة}
     one {إدخال ذو صلة واحد}
@@ -38,63 +48,93 @@ export default {
     'encyclopedia.add.moresoon': 'المزيد من التصنيفات قادمة قريبًا!',
     'encyclopedia.create': `قم بإنشاء جديد {category, select,
     character {شخصية}
-    event {~ حدث ~ ~ حدث}
+    event {حدث ~ ~ حدث}
     group {مجموعة}
     item {~ عنصر}
-    location {الموقع}
-    other {ملاحظة}
-    state {الدولة}
-    governments {الحكومة ~ ~ الحكومة}
-    languages {اللغة}
-    creatures {~ مخلوق}
-    deity {إله ~ ~ إله}
-    religions {دين}
-    flora {نباتات}
-    magic {سحر}
-    planets {كوكب}
-    species {نوع}
-    technologies {تكنولوجيا}
-    families {عائلة}
-  }~`,
-    'encyclopedia.create.header': `قم بإنشاء جديد {category, select,
-    character {شخصية}
-    event {~ حدث ~ ~ حدث}
-    group {مجموعة}
-    item {~ عنصر}
-    location {الموقع}
+    location {موقع}
     other {ملاحظة}
     state {دولة}
     governments {حكومة ~ ~ حكومة}
     languages {لغة}
     creatures {~ مخلوق}
-    deity {إله ~ ~ إله}
+    deity {إله}
     religions {دين}
     flora {نباتات}
-    magic {سحر ~ ~ سحر}
-    planets {كوكب}
-    species {نوع ~ ~ نوع}
-    technologies {تكنولوجيا}
-    families {عائلة}
+    magic {السحر}
+    planets {الكوكب}
+    species {النوع ~ ~ النوع}
+    technologies {التكنولوجيا}
+    families {الأسرة ~ ~ الأسرة}
+    jobs {الوظيفة}
+    lore {المعرفة}
+    vehicles {المركبة}
+    diseases {المرض}
+    traditions {التقاليد}
+    sports {الرياضة ~ ~ الرياضة}
+    landmarks {معلم}
+    buildings {مبنى}
+    schools {مدرسة}
+    continents {قارة}
+  }`,
+    'encyclopedia.create.header': `إنشاء شخصية جديدة {category, select,
+    character {شخصية}
+    event {~ حدث}
+    group {مجموعة}
+    item {عنصر ~ ~ عنصر}
+    location {الموقع}
+    other {ملاحظة}
+    state {الدولة}
+    governments {الحكومة ~ ~ الحكومة}
+    languages {اللغة ~ ~ اللغة}
+    creatures {مخلوق}
+    deity {إله}
+    religions {الدين}
+    flora {النباتات}
+    magic {السحر}
+    planets {الكوكب}
+    species {الكوكب ~ ~ النوع ~ ~ النوع}
+    technologies {التكنولوجيا}
+    families {الأسرة ~ ~ الأسرة}
+    jobs {الوظيفة}
+    lore {المعرفة}
+    vehicles {المركبة}
+    diseases {المرض ~ ~ المرض}
+    traditions {التقاليد}
+    sports {الرياضة ~ ~ الرياضة}
+    landmarks {معلم}
+    buildings {مبنى}
+    schools {مدرسة}
+    continents {قارة}
   } في {universe}`,
     'encyclopedia.entry.category': `فئة الدخول {category, select,
     character {شخصية}
     event {حدث ~ ~ ~ حدث}
-    group {مجموعة ~ ~ مجموعة}
-    item {عنصر ~ عنصر}
-    location {موقع ~ موقع}
+    group {مجموعة}
+    item {عنصر ~ ~ عنصر}
+    location {موقع ~ ~ موقع}
     other {ملاحظة}
     state {دولة}
     governments {حكومة}
     languages {لغة}
     creatures {~ مخلوق}
-    deity {إله ~ ~ إله}
+    deity {إله}
     religions {دين}
     flora {فلورا}
     magic {سحر}
-    planets {كوكب}
-    species {نوع}
-    technologies {تكنولوجيا}
-    families {عائلة}
+    planets {~ الكوكب}
+    species {النوع}
+    technologies {التكنولوجيا ~ ~ التكنولوجيا}
+    families {الأسرة}
+    jobs {~ الوظيفة}
+    lore {المعرفة}
+    vehicles {المركبة}
+    diseases {المرض}
+    traditions {التقاليد ~ ~ التقاليد}
+    sports {الرياضة}
+    landmarks {معلم}
+    buildings {مبنى}
+    schools {مدرسة}
+    continents {قارة}
   }~`,
     'encyclopedia.entry.category.legend': 'التصنيف',
     'encyclopedia.fields.add': 'إضافة حقل جديد',
