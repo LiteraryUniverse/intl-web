@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planetas',
     'encyclopedia.category.species': 'Especies',
     'encyclopedia.category.technologies': 'Tecnologías',
+    'encyclopedia.category.families': 'Familias',
     'encyclopedia.search.found': `{results, plural,
     =0 {No hay entradas relacionadas}
     one {1 entrada relacionada}
@@ -35,16 +36,16 @@ export default {
     'encyclopedia.add.title': 'Añade una nueva entrada a la enciclopedia',
     'encyclopedia.add.heading': '¿Qué quieres añadir?',
     'encyclopedia.add.moresoon': '¡Más categorías en breve!',
-    'encyclopedia.create': `Crear nuevo elemento de {category, select,
+    'encyclopedia.create': `Crear un nuevo {category, select,
     character {personaje}
-    event {acontecimiento}
+    event {evento}
     group {grupo}
     item {objeto}
     location {ubicación}
     other {nota}
     state {estado}
     governments {gobierno}
-    languages {lengua}
+    languages {idioma}
     creatures {criatura}
     deity {deidad}
     religions {religión}
@@ -53,17 +54,18 @@ export default {
     planets {planeta}
     species {especie}
     technologies {tecnología}
+    families {familia}
   }`,
-    'encyclopedia.create.header': `Crear nuevo elemento de {category, select,
+    'encyclopedia.create.header': `Crear un nuevo {category, select,
     character {personaje}
-    event {acontecimiento}
+    event {evento}
     group {grupo}
     item {objeto}
     location {ubicación}
     other {nota}
     state {estado}
     governments {gobierno}
-    languages {lengua}
+    languages {idioma}
     creatures {criatura}
     deity {deidad}
     religions {religión}
@@ -72,17 +74,18 @@ export default {
     planets {planeta}
     species {especie}
     technologies {tecnología}
+    families {familia}
   } en {universe}`,
-    'encyclopedia.entry.category': `Categoría de la entrada {category, select,
+    'encyclopedia.entry.category': `Categoría de entrada: {category, select,
     character {Personaje}
     event {Acontecimiento}
     group {Grupo}
     item {Objeto}
-    location {Ubicación}
+    location {Lugar}
     other {Nota}
     state {Estado}
     governments {Gobierno}
-    languages {Lengua}
+    languages {Idioma}
     creatures {Criatura}
     deity {Deidad}
     religions {Religión}
@@ -91,6 +94,7 @@ export default {
     planets {Planeta}
     species {Especie}
     technologies {Tecnología}
+    families {Familia}
   }`,
     'encyclopedia.entry.category.legend': 'Categoría',
     'encyclopedia.fields.add': 'Añadir un nuevo campo',
