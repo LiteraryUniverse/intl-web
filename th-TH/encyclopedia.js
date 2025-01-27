@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'ดาวเคราะห์',
     'encyclopedia.category.species': 'สายพันธุ์',
     'encyclopedia.category.technologies': 'เทคโนโลยี',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {ไม่มีรายการที่เกี่ยวข้อง}
     one {มีรายการที่เกี่ยวข้อง 1 รายการ}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'เพิ่มรายการใหม่ในสารานุกรม',
     'encyclopedia.add.heading': 'คุณต้องการเพิ่มอะไร?',
     'encyclopedia.add.moresoon': 'หมวดหมู่เพิ่มเติมเร็วๆ นี้',
-    'encyclopedia.create': `สร้าง {category, select,
-    character {ตัวละคร}
-    event {เหตุการณ์}
-    group {กลุ่ม}
-    item {รายการ}
-    location {สถานที่}
-    other {บันทึก}
-    state {สถานะ}
-    governments {รัฐบาล}
-    languages {ภาษา}
-    creatures {สัตว์}
-    deity {เทพ}
-    religions {ศาสนา}
-    flora {พืช}
-    magic {เวทมนตร์}
-    planets {ดาวเคราะห์}
-    species {สายพันธุ์}
-    technologies {เทคโนโลยี}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `สร้าง {category, select,
-    character {ตัวละคร}
-    event {เหตุการณ์}
-    group {กลุ่ม}
-    item {รายการ}
-    location {สถานที่}
-    other {บันทึก}
-    state {สถานะ}
-    governments {รัฐบาล}
-    languages {ภาษา}
-    creatures {สัตว์}
-    deity {เทพ}
-    religions {ศาสนา}
-    flora {พืช}
-    magic {เวทมนตร์}
-    planets {ดาวเคราะห์}
-    species {สายพันธุ์}
-    technologies {เทคโนโลยี}
-  } ใน {universe}`,
-    'encyclopedia.entry.category': `หมวดหมู่ของรายการ: {category, select,
-    character {ตัวละคร}
-    event {เหตุการณ์}
-    group {กลุ่ม}
-    item {สิ่งของ}
-    location {สถานที่}
-    other {บันทึก}
-    state {สถานะ}
-    governments {รัฐบาล}
-    languages {ภาษา}
-    creatures {สัตว์}
-    deity {พระเจ้า}
-    religions {ศาสนา}
-    flora {พืช}
-    magic {มนตร์}
-    planets {ดาวเคราะห์}
-    species {สายพันธุ์}
-    technologies {เทคโนโลยี}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'หมวดหมู่',
     'encyclopedia.fields.add': 'เพิ่มฟิลด์ใหม่',
