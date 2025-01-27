@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planetas',
     'encyclopedia.category.species': 'Espécies',
     'encyclopedia.category.technologies': 'Tecnologias',
+    'encyclopedia.category.families': 'Famílias',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nenhuma entrada relacionada}
     one {1 entrada relacionada}
@@ -40,7 +41,7 @@ export default {
     event {evento}
     group {grupo}
     item {item}
-    location {localização}
+    location {local}
     other {nota}
     state {estado}
     governments {governo}
@@ -53,13 +54,14 @@ export default {
     planets {planeta}
     species {espécie}
     technologies {tecnologia}
+    families {família}
   }`,
     'encyclopedia.create.header': `Criar um novo {category, select,
     character {personagem}
     event {evento}
     group {grupo}
     item {item}
-    location {localização}
+    location {local}
     other {nota}
     state {estado}
     governments {governo}
@@ -72,25 +74,27 @@ export default {
     planets {planeta}
     species {espécie}
     technologies {tecnologia}
+    families {família}
   } em {universe}`,
-    'encyclopedia.entry.category': `Categoria da entrada: {category, select,
+    'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
     event {Evento}
     group {Grupo}
     item {Item}
-    location {Localização}
+    location {Local}
     other {Nota}
     state {Estado}
     governments {Governo}
     languages {Idioma}
     creatures {Criatura}
-    deity {Deidade}
+    deity {Divindade}
     religions {Religião}
     flora {Flora}
     magic {Magia}
     planets {Planeta}
     species {Espécie}
     technologies {Tecnologia}
+    families {Família}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',
