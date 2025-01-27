@@ -111,6 +111,8 @@ export default {
     'story.read': 'Citește',
     'story.lastUpdate': 'Ultima actualizare la {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Finalizată la {date, date, medium}.',
+    'story.hiatusAt': 'În pauză de la {date, date, medium}.',
+    'story.cancelledAt': 'Anulat pe {date, date, medium}.',
     'story.comments.for': 'Comentarii pentru {story} {chapter}.',
     'story.cover.alt': 'Imaginea de copertă a poveștii pentru {story}.',
     'story.note.fanfiction': 'NOTĂ: Această poveste este o ficțiune fan-made în universul {universe}.',
