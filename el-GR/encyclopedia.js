@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Πλανήτες',
     'encyclopedia.category.species': 'Είδη',
     'encyclopedia.category.technologies': 'Τεχνολογίες',
+    'encyclopedia.category.families': 'Οικογένειες',
     'encyclopedia.search.found': `{results, plural,
     =0 {Δεν υπάρχουν σχετικές καταχωρήσεις}
     one {1 σχετική καταχώρηση}
@@ -42,17 +43,18 @@ export default {
     item {αντικείμενο}
     location {τοποθεσία}
     other {σημείωση}
-    state {κατάσταση}
+    state {κράτος}
     governments {κυβέρνηση}
     languages {γλώσσα}
     creatures {πλάσμα}
     deity {θεότητα}
     religions {θρησκεία}
-    flora {φυτό}
+    flora {χλωρίδα}
     magic {μαγεία}
     planets {πλανήτης}
     species {είδος}
     technologies {τεχνολογία}
+    families {οικογένεια}
   }`,
     'encyclopedia.create.header': `Δημιουργήστε ένα νέο {category, select,
     character {χαρακτήρα}
@@ -61,36 +63,38 @@ export default {
     item {αντικείμενο}
     location {τοποθεσία}
     other {σημείωση}
-    state {κατάσταση}
+    state {κράτος}
     governments {κυβέρνηση}
     languages {γλώσσα}
     creatures {πλάσμα}
     deity {θεότητα}
     religions {θρησκεία}
-    flora {φυτό}
+    flora {χλωρίδα}
     magic {μαγεία}
     planets {πλανήτης}
     species {είδος}
     technologies {τεχνολογία}
-  } στον {universe}`,
-    'encyclopedia.entry.category': `Κατηγορία καταχώρησης: {category, select,
+    families {οικογένεια}
+  } στο {universe}`,
+    'encyclopedia.entry.category': `Κατηγορία εισόδου: {category, select,
     character {Χαρακτήρας}
     event {Γεγονός}
     group {Ομάδα}
     item {Αντικείμενο}
     location {Τοποθεσία}
     other {Σημείωση}
-    state {Κατάσταση}
+    state {Κράτος}
     governments {Κυβέρνηση}
     languages {Γλώσσα}
     creatures {Πλάσμα}
-    deity {Θεός}
+    deity {Θεότητα}
     religions {Θρησκεία}
-    flora {Φυτό}
+    flora {Χλωρίδα}
     magic {Μαγεία}
     planets {Πλανήτης}
     species {Είδος}
     technologies {Τεχνολογία}
+    families {Οικογένεια}
   }`,
     'encyclopedia.entry.category.legend': 'Κατηγορία',
     'encyclopedia.fields.add': 'Προσθήκη νέου πεδίου',
