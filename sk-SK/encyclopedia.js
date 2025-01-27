@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Druhy',
     'encyclopedia.category.technologies': 'Technológie',
     'encyclopedia.category.families': 'Rodiny',
+    'encyclopedia.category.jobs': 'Pracovné miesta',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vozidlá',
+    'encyclopedia.category.diseases': 'Choroby',
+    'encyclopedia.category.traditions': 'Tradície',
+    'encyclopedia.category.sports': 'Šport',
+    'encyclopedia.category.landmarks': 'Pozoruhodnosti',
+    'encyclopedia.category.buildings': 'Budovy',
+    'encyclopedia.category.schools': 'Školy',
+    'encyclopedia.category.continents': 'Kontinenty',
     'encyclopedia.search.found': `{results, plural,
     =0 {Žiadne súvisiace položky}
     one {Nájdené 1 súvisiace položky}
@@ -56,8 +66,18 @@ export default {
     species {druh}
     technologies {technológia}
     families {rodina}
+    jobs {zamestnanie}
+    lore {povesť}
+    vehicles {vozidlo}
+    diseases {choroba}
+    traditions {tradícia}
+    sports {šport}
+    landmarks {pamiatka}
+    buildings {budova}
+    schools {škola}
+    continents {kontinent}
   }`,
-    'encyclopedia.create.header': `Vytvoriť nový {category, select,
+    'encyclopedia.create.header': `Vytvorenie nového {category, select,
     character {postava}
     event {udalosť}
     group {skupina}
@@ -76,6 +96,16 @@ export default {
     species {druh}
     technologies {technológia}
     families {rodina}
+    jobs {zamestnanie}
+    lore {povesť}
+    vehicles {vozidlo}
+    diseases {choroba}
+    traditions {tradícia}
+    sports {šport}
+    landmarks {pamiatka}
+    buildings {budova}
+    schools {škola}
+    continents {kontinent}
   } v {universe}`,
     'encyclopedia.entry.category': `Kategória prihlášok: {category, select,
     character {Postava}
@@ -96,6 +126,16 @@ export default {
     species {Druh}
     technologies {Technológia}
     families {Rodina}
+    jobs {Práca}
+    lore {Vlasť}
+    vehicles {Vozidlo}
+    diseases {Choroba}
+    traditions {Tradícia}
+    sports {Šport}
+    landmarks {Medzník}
+    buildings {Budova}
+    schools {Škola}
+    continents {Kontinent}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Pridať nové pole',
