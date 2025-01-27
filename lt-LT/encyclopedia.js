@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planetos',
     'encyclopedia.category.species': 'Rūšys',
     'encyclopedia.category.technologies': 'Technologijos',
+    'encyclopedia.category.families': 'Šeimos',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nėra susijusių įrašų}
     one {1 susijęs įrašas}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'Pridėkite naują įrašą į enciklopediją',
     'encyclopedia.add.heading': 'Ką norite pridėti?',
     'encyclopedia.add.moresoon': 'Daugiau kategorijų greitai bus!',
-    'encyclopedia.create': `Kurti naują {category, select,
+    'encyclopedia.create': `Sukurti naują {category, select,
     character {veikėją}
     event {įvykį}
     group {grupę}
     item {daiktą}
     location {vietą}
     other {užrašą}
-    state {būseną}
+    state {valstybę}
     governments {vyriausybę}
     languages {kalbą}
     creatures {būtybę}
-    deity {dievą}
+    deity {dievybę}
     religions {religiją}
-    flora {augmeniją}
+    flora {florą}
     magic {magiją}
     planets {planetą}
     species {rūšį}
     technologies {technologiją}
+    families {šeimą}
   }`,
-    'encyclopedia.create.header': `Kurti naują {category, select,
+    'encyclopedia.create.header': `Sukurti naują {category, select,
     character {veikėją}
     event {įvykį}
     group {grupę}
     item {daiktą}
     location {vietą}
     other {užrašą}
-    state {būseną}
+    state {valstybę}
     governments {vyriausybę}
     languages {kalbą}
     creatures {būtybę}
-    deity {dievą}
+    deity {dievybę}
     religions {religiją}
-    flora {augmeniją}
+    flora {florą}
     magic {magiją}
     planets {planetą}
     species {rūšį}
     technologies {technologiją}
-  } in {universe}`,
+    families {šeimą}
+  } į {universe}`,
     'encyclopedia.entry.category': `Įrašo kategorija: {category, select,
-    character {Simbolis}
+    character {Personažas}
     event {Įvykis}
     group {Grupė}
     item {Daiktas}
     location {Vieta}
     other {Pastaba}
-    state {Būsena}
-    governments {Vyriausybė}
+    state {Valstybė}
+    governments {Valdžia}
     languages {Kalba}
-    creatures {Kūrinys}
+    creatures {Būtybė}
     deity {Dievybė}
     religions {Religija}
-    flora {Augalija}
+    flora {Flora}
     magic {Magija}
     planets {Planeta}
     species {Rūšis}
     technologies {Technologija}
+    families {Šeima}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorija',
     'encyclopedia.fields.add': 'Pridėkite naują lauką',
