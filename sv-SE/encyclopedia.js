@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Arter',
     'encyclopedia.category.technologies': 'Teknologier',
     'encyclopedia.category.families': 'Familjer',
+    'encyclopedia.category.jobs': 'Jobb',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Fordon',
+    'encyclopedia.category.diseases': 'Sjukdomar',
+    'encyclopedia.category.traditions': 'Traditioner',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.landmarks': 'Landmärken',
+    'encyclopedia.category.buildings': 'Byggnader',
+    'encyclopedia.category.schools': 'Skolor',
+    'encyclopedia.category.continents': 'Kontinenter',
     'encyclopedia.search.found': `{results, plural,
     =0 {Inga relaterade poster}
     one {1 relaterad post}
@@ -52,9 +62,19 @@ export default {
     flora {flora}
     magic {magi}
     planets {planet}
-    species {art}
-    technologies {teknik}
+    species {specie}
+    technologies {teknologi}
     families {familj}
+    jobs {jobb}
+    lore {lore}
+    vehicles {fordon}
+    diseases {sjukdom}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmärke}
+    buildings {byggnad}
+    schools {skola}
+    continents {kontinent}
   }`,
     'encyclopedia.create.header': `Skapa en ny {category, select,
     character {karaktär}
@@ -72,18 +92,28 @@ export default {
     flora {flora}
     magic {magi}
     planets {planet}
-    species {art}
-    technologies {teknik}
-    families {familj}
-  } i {universe}`,
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+  } in {universe}`,
     'encyclopedia.entry.category': `Ingångskategori: {category, select,
     character {Karaktär}
     event {Händelse}
     group {Grupp}
     item {Föremål}
     location {Plats}
-    other {Not}
-    state {Stat}
+    other {Anteckning}
+    state {Delstat}
     governments {Regering}
     languages {Språk}
     creatures {Varelse}
@@ -93,8 +123,18 @@ export default {
     magic {Magi}
     planets {Planet}
     species {Specie}
-    technologies {Teknik}
-    families {Familj}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Lägg till ett nytt fält',
