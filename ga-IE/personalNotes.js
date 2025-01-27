@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Iontráil Leabhráin',
   'personalNotes.type.revTextBlock': 'Ríomhchlár téacs Athbhreithnithe',
   'personalNotes.chapter': 'Caibidil',
-  'personalNotes.recentSearches': 'Cuardachanna Déanaí:'
+  'personalNotes.recentSearches': 'Cuardachanna Déanaí:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };
