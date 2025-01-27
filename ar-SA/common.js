@@ -111,6 +111,8 @@ export default {
     'story.read': 'اقرأ',
     'story.lastUpdate': 'تم التحديث الأخير في {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'تم الانتهاء في {date, date, medium}.',
+    'story.hiatusAt': 'متوقف عن العمل من {date, date, medium}.',
+    'story.cancelledAt': 'تم الإلغاء في {date, date, medium}.',
     'story.comments.for': 'تعليقات عن {story} {chapter}.',
     'story.cover.alt': 'صورة غلاف القصة لـ {story}.',
     'story.note.fanfiction': 'ملاحظة: هذه القصة هي قصة مشجعين عن كون {universe} .',
