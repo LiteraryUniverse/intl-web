@@ -111,6 +111,8 @@ export default {
     'story.read': 'Leer',
     'story.lastUpdate': 'Última actualización el {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Terminado el {date, date, medium}.',
+    'story.hiatusAt': 'En pausa desde {date, date, medium}.',
+    'story.cancelledAt': 'Cancelado en {date, date, medium}.',
     'story.comments.for': 'Comentarios para {story} {chapter}.',
     'story.cover.alt': 'Imagen de portada para {story}.',
     'story.note.fanfiction': 'NOTA: Esta historia es un fánfic del universo de {universe}.',
