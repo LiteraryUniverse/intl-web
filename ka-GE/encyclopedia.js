@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'პლანეტები',
     'encyclopedia.category.species': 'სახელმწიფოები',
     'encyclopedia.category.technologies': 'ტექნოლოგიები',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {არაა არცერთი დაკავებული ჩანაწერი}
     one {1 დაკავებული ჩანაწერი}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'დაამატეთ ახალი ჩანაწერი ენციკლოპედიაში',
     'encyclopedia.add.heading': 'რას გსურთ დაამატოთ?',
     'encyclopedia.add.moresoon': 'მეტი კატეგორიები მომავალში!',
-    'encyclopedia.create': `შექმენი ახალი {category, select,
-    character {პერსონაჟი}
-    event {მოვლენა}
-    group {ჯგუფი}
-    item {ნივთი}
-    location {ადგილი}
-    other {შენიშვნა}
-    state {სტატუსი}
-    governments {მთავარი}
-    languages {ენა}
-    creatures {მაცივარი}
-    deity {ღმერთი}
-    religions {რელიგია}
-    flora {ფლორა}
-    magic {მაგია}
-    planets {პლანეტა}
-    species {სპეციე}
-    technologies {ტექნოლოგია}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `შექმენი ახალი {category, select,
-    character {პერსონაჟი}
-    event {მოვლენა}
-    group {ჯგუფი}
-    item {ნივთი}
-    location {ადგილი}
-    other {შენიშვნა}
-    state {სტატუსი}
-    governments {მთავარი}
-    languages {ენა}
-    creatures {მაცივარი}
-    deity {ღმერთი}
-    religions {რელიგია}
-    flora {ფლორა}
-    magic {მაგია}
-    planets {პლანეტა}
-    species {სპეციე}
-    technologies {ტექნოლოგია}
-  } თარიღით {universe}`,
-    'encyclopedia.entry.category': `ჩანაწერის კატეგორია: {category, select,
-    character {პერსონაჟი}
-    event {მოვლენა}
-    group {ჯგუფი}
-    item {ნივთი}
-    location {ადგილმდებარეობა}
-    other {შენიშვნა}
-    state {სტატუსი}
-    governments {მთავარი ადგილი}
-    languages {ენა}
-    creatures {მარაგი}
-    deity {ღმერთი}
-    religions {რელიგია}
-    flora {ფლორა}
-    magic {მაგია}
-    planets {პლანეტა}
-    species {სპეციე}
-    technologies {ტექნოლოგია}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'კატეგორია',
     'encyclopedia.fields.add': 'ახალი ველის დამატება',
