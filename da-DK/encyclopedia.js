@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planeter',
     'encyclopedia.category.species': 'Arter',
     'encyclopedia.category.technologies': 'Teknologier',
+    'encyclopedia.category.families': 'Familier',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ingen relaterede indlæg}
     one {1 relateret indlæg}
@@ -36,61 +37,64 @@ export default {
     'encyclopedia.add.heading': 'Hvad ønsker du at tilføje?',
     'encyclopedia.add.moresoon': 'Flere kategorier kommer snart!',
     'encyclopedia.create': `Opret en ny {category, select,
-    character {karakter}
-    event {begivenhed}
-    group {gruppe}
-    item {genstand}
-    location {placering}
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
     other {note}
-    state {tilstand}
-    governments {regering}
-    languages {sprog}
-    creatures {væsen}
-    deity {guddom}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
     religions {religion}
     flora {flora}
-    magic {magi}
+    magic {magic}
     planets {planet}
-    species {art}
-    technologies {teknologi}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
     'encyclopedia.create.header': `Opret en ny {category, select,
-    character {karakter}
-    event {begivenhed}
-    group {gruppe}
-    item {genstand}
-    location {placering}
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
     other {note}
-    state {tilstand}
-    governments {regering}
-    languages {sprog}
-    creatures {væsen}
-    deity {guddom}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
     religions {religion}
     flora {flora}
-    magic {magi}
+    magic {magic}
     planets {planet}
-    species {art}
-    technologies {teknologi}
-  } i {universe}`,
-    'encyclopedia.entry.category': `Indgangskategori: {category, select,
-    character {Tegn}
-    event {Begivenhed}
-    group {Gruppe}
-    item {Genstand}
-    location {Sted}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Indtastningskategori: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
     other {Note}
-    state {Tilstand}
-    governments {Regering}
-    languages {Sprog}
-    creatures {Væsen}
-    deity {Gud}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
     religions {Religion}
     flora {Flora}
-    magic {Magi}
+    magic {Magic}
     planets {Planet}
-    species {Art}
-    technologies {Teknologi}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tilføj en ny felt',
