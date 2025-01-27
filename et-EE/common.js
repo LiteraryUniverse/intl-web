@@ -111,6 +111,8 @@ export default {
     'story.read': 'Loe',
     'story.lastUpdate': 'Viimati uuendatud {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Lõpetatud {date, date, medium}.',
+    'story.hiatusAt': 'Vaheajal alates {date, date, medium}.',
+    'story.cancelledAt': 'Tühistatud aadressil {date, date, medium}.',
     'story.comments.for': 'Kommentaarid kasutajale {story} {chapter}.',
     'story.cover.alt': 'Lugu kaanepildiga {story}.',
     'story.note.fanfiction': 'MÄRKUS: See lugu on fännifiktsioon {universe} universumis.',
