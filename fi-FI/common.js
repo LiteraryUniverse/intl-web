@@ -111,6 +111,8 @@ export default {
     'story.read': 'Lue',
     'story.lastUpdate': 'Viimeksi päivitetty {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Valmistui {date, date, medium}.',
+    'story.hiatusAt': 'Tauolla vuodesta {date, date, medium}.',
+    'story.cancelledAt': 'Peruutettu osoitteessa {date, date, medium}.',
     'story.comments.for': 'Kommentit käyttäjälle {story} {chapter}.',
     'story.cover.alt': 'Tarinan kansikuva käyttäjälle {story}.',
     'story.note.fanfiction': 'HUOM: Tämä tarina on fanifiktiota {universe} -universumista.',
