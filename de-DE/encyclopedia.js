@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Spezies',
     'encyclopedia.category.technologies': 'Technologien',
     'encyclopedia.category.families': 'Familien',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Fahrzeuge',
+    'encyclopedia.category.diseases': 'Krankheiten',
+    'encyclopedia.category.traditions': 'Traditionen',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.landmarks': 'Wahrzeichen',
+    'encyclopedia.category.buildings': 'Gebäude',
+    'encyclopedia.category.schools': 'Schulen',
+    'encyclopedia.category.continents': 'Kontinente',
     'encyclopedia.search.found': `{results, plural,
     =0 {Keine verwandten Einträge}
     one {1 verwandter Eintrag}
@@ -50,13 +60,23 @@ export default {
     deity {Gottheit}
     religions {Religion}
     flora {Flora}
-    magic {Magie}
-    planets {Planet}
-    species {Spezies}
-    technologies {Technologie}
-    families {Familie}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   }`,
-    'encyclopedia.create.header': `Erstellen Sie einen neuen {category, select,
+    'encyclopedia.create.header': `Erstellen eines neuen {category, select,
     character {Charakter}
     event {Ereignis}
     group {Gruppe}
@@ -71,10 +91,20 @@ export default {
     religions {Religion}
     flora {Flora}
     magic {Magie}
-    planets {Planet}
-    species {Spezies}
-    technologies {Technologie}
-    families {Familie}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   } in {universe}`,
     'encyclopedia.entry.category': `Eintragskategorie: {category, select,
     character {Charakter}
@@ -95,6 +125,16 @@ export default {
     species {Spezies}
     technologies {Technologie}
     families {Familie}
+    jobs {Beruf}
+    lore {Überlieferung}
+    vehicles {Fahrzeug}
+    diseases {Krankheit}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Wahrzeichen}
+    buildings {Gebäude}
+    schools {Schule}
+    continents {Kontinent}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Ein neues Feld hinzufügen',
