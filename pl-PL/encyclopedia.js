@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planety',
     'encyclopedia.category.species': 'Gatunki',
     'encyclopedia.category.technologies': 'Technologie',
+    'encyclopedia.category.families': 'Rodziny',
     'encyclopedia.search.found': `{results, plural,
     =0 {Brak pasujących wpisów}
     one {1 pasujący wpis}
@@ -37,62 +38,65 @@ export default {
     'encyclopedia.add.title': 'Dodaj nowy wpis do encyklopedii',
     'encyclopedia.add.heading': 'Co chciałbyś dodać?',
     'encyclopedia.add.moresoon': 'Więcej kategorii już wkrótce!',
-    'encyclopedia.create': `Dodaj {category, select,
+    'encyclopedia.create': `Stwórz nową {category, select,
     character {postać}
     event {wydarzenie}
     group {grupę}
     item {przedmiot}
     location {lokalizację}
-    other {uwagę}
-    state {region}
+    other {notatkę}
+    state {stan}
     governments {rząd}
     languages {język}
     creatures {stworzenie}
     deity {bóstwo}
     religions {religię}
-    flora {roślinę}
+    flora {florę}
     magic {magię}
     planets {planetę}
     species {gatunek}
     technologies {technologię}
-  }`,
-    'encyclopedia.create.header': `Dodaj {category, select,
+    families {rodzinę}
+  }.`,
+    'encyclopedia.create.header': `Utwórz nową {category, select,
     character {postać}
     event {wydarzenie}
     group {grupę}
     item {przedmiot}
     location {lokalizację}
-    other {uwagę}
-    state {region}
+    other {notatkę}
+    state {stan}
     governments {rząd}
     languages {język}
     creatures {stworzenie}
     deity {bóstwo}
     religions {religię}
-    flora {roślinę}
+    flora {florę}
     magic {magię}
     planets {planetę}
     species {gatunek}
     technologies {technologię}
-  } do {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {postać}
-    event {wydarzenie}
-    group {grupę}
-    item {przedmiot}
-    location {lokalizację}
-    other {uwagę}
-    state {region}
-    governments {rząd}
-    languages {język}
-    creatures {stworzenie}
-    deity {bóstwo}
-    religions {religię}
-    flora {roślinę}
-    magic {magię}
-    planets {planetę}
-    species {gatunek}
-    technologies {technologię}
+    families {rodzinę}
+  } w {universe}`,
+    'encyclopedia.entry.category': `Kategoria wpisu: {category, select,
+    character {Postać}
+    event {Wydarzenie}
+    group {Grupa}
+    item {Przedmiot}
+    location {Lokalizacja}
+    other {Notatka}
+    state {Państwo}
+    governments {Rząd}
+    languages {Język}
+    creatures {Stworzenie}
+    deity {Bóstwo}
+    religions {Religia}
+    flora {Flora}
+    magic {Magia}
+    planets {Planeta}
+    species {Gatunek}
+    technologies {Technologia}
+    families {Ród}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Dodaj nowe pole',
