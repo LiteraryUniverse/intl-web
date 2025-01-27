@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Arter',
     'encyclopedia.category.technologies': 'Teknologier',
     'encyclopedia.category.families': 'Familier',
+    'encyclopedia.category.jobs': 'Job',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Køretøjer',
+    'encyclopedia.category.diseases': 'Sygdomme',
+    'encyclopedia.category.traditions': 'Traditioner',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.landmarks': 'Landemærker',
+    'encyclopedia.category.buildings': 'Bygninger',
+    'encyclopedia.category.schools': 'Skoler',
+    'encyclopedia.category.continents': 'Kontinenter',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ingen relaterede indlæg}
     one {1 relateret indlæg}
@@ -37,17 +47,17 @@ export default {
     'encyclopedia.add.heading': 'Hvad ønsker du at tilføje?',
     'encyclopedia.add.moresoon': 'Flere kategorier kommer snart!',
     'encyclopedia.create': `Opret en ny {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
+    character {karakter}
+    event {begivenhed}
+    group {gruppe}
+    item {genstand}
+    location {sted}
     other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
+    state {stat}
+    governments {regering}
+    languages {sprog}
+    creatures {væsen}
+    deity {guddom}
     religions {religion}
     flora {flora}
     magic {magic}
@@ -55,46 +65,76 @@ export default {
     species {specie}
     technologies {technology}
     families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   }`,
-    'encyclopedia.create.header': `Opret en ny {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
+    'encyclopedia.create.header': `Oprettelse af en ny {category, select,
+    character {karakter}
+    event {begivenhed}
+    group {gruppe}
+    item {genstand}
+    location {sted}
     other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
+    state {stat}
+    governments {regering}
+    languages {sprog}
+    creatures {væsen}
+    deity {guddom}
     religions {religion}
     flora {flora}
-    magic {magic}
+    magic {magi}
     planets {planet}
     species {specie}
     technologies {technology}
     families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   } in {universe}`,
     'encyclopedia.entry.category': `Indtastningskategori: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
+    character {Karakter}
+    event {Begivenhed}
+    group {Gruppe}
+    item {Genstand}
+    location {Sted}
     other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
+    state {Stat}
+    governments {Regering}
+    languages {Sprog}
+    creatures {Væsen}
+    deity {Guddom}
     religions {Religion}
     flora {Flora}
-    magic {Magic}
+    magic {Magi}
     planets {Planet}
     species {Specie}
     technologies {Technology}
     families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tilføj en ny felt',
