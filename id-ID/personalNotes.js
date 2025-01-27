@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Entri Ensiklopedia',
   'personalNotes.type.revTextBlock': 'Blok Teks Revisi',
   'personalNotes.chapter': 'Bab',
-  'personalNotes.recentSearches': 'Pencarian Terbaru:'
+  'personalNotes.recentSearches': 'Pencarian Terbaru:',
+  'personalNotes.myNotes': 'Catatan Pribadi Saya'
 };
