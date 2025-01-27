@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Планети',
     'encyclopedia.category.species': 'Види',
     'encyclopedia.category.technologies': 'Технології',
+    'encyclopedia.category.families': 'Сім\'ї',
     'encyclopedia.search.found': `{results, plural,
     =0 {Немає пов'язаних записів}
     one {1 пов'язаний запис}
@@ -35,36 +36,37 @@ export default {
     'encyclopedia.add.title': 'Додати новий запис до енциклопедії',
     'encyclopedia.add.heading': 'Що бажаєте додати?',
     'encyclopedia.add.moresoon': 'Більше категорій незабаром!',
-    'encyclopedia.create': `Створити новий {category, select,
-    character {персонаж}
-    event {подія}
-    group {група}
-    item {предмет}
-    location {розташування}
-    other {примітка}
-    state {стан}
-    governments {уряд}
-    languages {мова}
-    creatures {створіння}
-    deity {божество}
-    religions {релігія}
-    flora {флора}
-    magic {магія}
-    planets {планета}
-    species {вид}
-    technologies {технологія}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
     'encyclopedia.create.header': `Створити новий {category, select,
     character {персонаж}
     event {подія}
     group {група}
     item {предмет}
-    location {розташування}
+    location {локація}
     other {примітка}
-    state {стан}
+    state {держава}
     governments {уряд}
     languages {мова}
-    creatures {створіння}
+    creatures {істота}
     deity {божество}
     religions {релігія}
     flora {флора}
@@ -72,25 +74,27 @@ export default {
     planets {планета}
     species {вид}
     technologies {технологія}
-  } у {universe}`,
-    'encyclopedia.entry.category': `Категорія запису: {category, select,
-    character {Персонаж}
-    event {Подія}
-    group {Група}
-    item {Предмет}
-    location {Місцезнаходження}
-    other {Примітка}
-    state {Стан}
-    governments {Уряд}
-    languages {Мова}
-    creatures {Створіння}
-    deity {Божество}
-    religions {Релігія}
-    flora {Флора}
-    magic {Магія}
-    planets {Планета}
-    species {Вид}
-    technologies {Технологія}
+    families {сім'я}
+  } в {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Категорія',
     'encyclopedia.fields.add': 'Додати нове поле',
