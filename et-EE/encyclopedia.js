@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planeedid',
     'encyclopedia.category.species': 'Liigid',
     'encyclopedia.category.technologies': 'Tehnoloogiad',
+    'encyclopedia.category.families': 'Perekonnad',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei leitud seotud kirjeid}
     one {1 seotud kirje}
@@ -38,59 +39,62 @@ export default {
     'encyclopedia.create': `Loo uus {category, select,
     character {tegelane}
     event {sündmus}
-    group {grupp}
+    group {rühm}
     item {ese}
     location {asukoht}
     other {märkus}
-    state {olek}
+    state {riik}
     governments {valitsus}
     languages {keel}
     creatures {olend}
     deity {jumalus}
-    religions {usk}
+    religions {religioon}
     flora {taimestik}
     magic {maagia}
     planets {planeet}
     species {liik}
     technologies {tehnoloogia}
+    families {perekond}
   }`,
     'encyclopedia.create.header': `Loo uus {category, select,
     character {tegelane}
     event {sündmus}
-    group {grupp}
+    group {rühm}
     item {ese}
     location {asukoht}
     other {märkus}
-    state {olek}
+    state {riik}
     governments {valitsus}
     languages {keel}
     creatures {olend}
     deity {jumalus}
-    religions {usk}
+    religions {religioon}
     flora {taimestik}
     magic {maagia}
     planets {planeet}
     species {liik}
     technologies {tehnoloogia}
-  } asukohas {universe}`,
-    'encyclopedia.entry.category': `Sissekande kategooria: {category, select,
+    families {perekond}
+  } aastal {universe}.`,
+    'encyclopedia.entry.category': `Sisenemiskategooria: {category, select,
     character {Tegelane}
     event {Sündmus}
-    group {Grupp}
-    item {Eseme}
+    group {Rühm}
+    item {Ese}
     location {Asukoht}
     other {Märkus}
-    state {Olek}
+    state {Riik}
     governments {Valitsus}
     languages {Keel}
     creatures {Olend}
     deity {Jumalus}
     religions {Religioon}
-    flora {Taimestik}
+    flora {Flora}
     magic {Maagia}
     planets {Planeet}
     species {Liik}
     technologies {Tehnoloogia}
+    families {Perekond}
   }`,
     'encyclopedia.entry.category.legend': 'Kategooria',
     'encyclopedia.fields.add': 'Lisa uus väli',
