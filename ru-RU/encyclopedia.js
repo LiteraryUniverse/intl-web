@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Виды',
     'encyclopedia.category.technologies': 'Технологии',
     'encyclopedia.category.families': 'Семьи',
+    'encyclopedia.category.jobs': 'Работа',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Транспортные средства',
+    'encyclopedia.category.diseases': 'Болезни',
+    'encyclopedia.category.traditions': 'Традиции',
+    'encyclopedia.category.sports': 'Спорт',
+    'encyclopedia.category.landmarks': 'Достопримечательности',
+    'encyclopedia.category.buildings': 'Здания',
+    'encyclopedia.category.schools': 'Школы',
+    'encyclopedia.category.continents': 'Континенты',
     'encyclopedia.search.found': `{results, plural,
     =0 {Нет найденных соответствующих записей}
     one {1 соответствующая запись найдена}
@@ -38,13 +48,13 @@ export default {
     'encyclopedia.add.title': 'Добавить новую запись в энциклопедию',
     'encyclopedia.add.heading': 'Что вы хотите добавить?',
     'encyclopedia.add.moresoon': 'Скоро появятся новые категории!',
-    'encyclopedia.create': `Создайте нового {category, select,
-    character {персонажа}
+    'encyclopedia.create': `Создайте новый {category, select,
+    character {персонаж}
     event {событие}
-    group {группу}
+    group {группа}
     item {предмет}
     location {местоположение}
-    other {заметку}
+    other {заметка}
     state {государство}
     governments {правительство}
     languages {язык}
@@ -57,26 +67,46 @@ export default {
     species {вид}
     technologies {технология}
     families {семья}
-  }.`,
-    'encyclopedia.create.header': `Создайте нового {category, select,
+    jobs {работа}
+    lore {предания}
+    vehicles {транспортное средство}
+    diseases {болезнь}
+    traditions {традиция}
+    sports {спорт}
+    landmarks {достопримечательность}
+    buildings {здание}
+    schools {школа}
+    continents {континент}
+  }`,
+    'encyclopedia.create.header': `Создание нового {category, select,
     character {персонажа}
-    event {событие}
-    group {группу}
-    item {предмет}
-    location {местоположение}
-    other {заметку}
-    state {государство}
-    governments {правительство}
-    languages {язык}
-    creatures {существо}
-    deity {божество}
-    religions {религия}
-    flora {флора}
-    magic {магия}
+    event {события}
+    group {группы}
+    item {предмета}
+    location {места}
+    other {заметки}
+    state {государства}
+    governments {правительства}
+    languages {языка}
+    creatures {существа}
+    deity {божества}
+    religions {религии}
+    flora {флоры}
+    magic {магии}
     planets {планета}
     species {вид}
     technologies {технология}
     families {семья}
+    jobs {работа}
+    lore {предания}
+    vehicles {транспортное средство}
+    diseases {болезнь}
+    traditions {традиция}
+    sports {спорт}
+    landmarks {достопримечательность}
+    buildings {здание}
+    schools {школа}
+    continents {континент}
   } в {universe}`,
     'encyclopedia.entry.category': `Категория записи: {category, select,
     character {Персонаж}
@@ -84,7 +114,7 @@ export default {
     group {Группа}
     item {Предмет}
     location {Место}
-    other {Примечание}
+    other {Заметка}
     state {Государство}
     governments {Правительство}
     languages {Язык}
@@ -93,11 +123,21 @@ export default {
     religions {Религия}
     flora {Флора}
     magic {Магия}
-    planets {Планета}
-    species {Вид}
-    technologies {Технология}
-    families {Семья}
-  }.`,
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+  }~`,
     'encyclopedia.entry.category.legend': 'Категория',
     'encyclopedia.fields.add': 'Добавить новое поле',
     'encyclopedia.fields.text': 'Определение',
