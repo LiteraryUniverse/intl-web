@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Enciklopedijos įrašas',
   'personalNotes.type.revTextBlock': 'Peržiūros teksto blokas',
   'personalNotes.chapter': 'Skyrius',
-  'personalNotes.recentSearches': 'Neseniai ieškota:'
+  'personalNotes.recentSearches': 'Neseniai ieškota:',
+  'personalNotes.myNotes': 'Mano asmeninės pastabos'
 };
