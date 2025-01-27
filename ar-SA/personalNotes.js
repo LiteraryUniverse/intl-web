@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'مدخل الموسوعة',
   'personalNotes.type.revTextBlock': 'مقطع نصي للمراجعة',
   'personalNotes.chapter': 'فصل',
-  'personalNotes.recentSearches': 'البحث الأخيرة:'
+  'personalNotes.recentSearches': 'البحث الأخيرة:',
+  'personalNotes.myNotes': 'ملاحظاتي الشخصية'
 };
