@@ -111,6 +111,8 @@ export default {
     'story.read': 'Oku',
     'story.lastUpdate': 'Son güncelleme: {date, date, medium} {date, time, short}.',
     'story.finishedAt': '{date, date, medium}tarihinde tamamlandı.',
+    'story.hiatusAt': '{date, date, medium}adresinden itibaren ara verilmiştir.',
+    'story.cancelledAt': 'İptal edildi {date, date, medium}.',
     'story.comments.for': '! {story} ! {chapter}için yorumlar.',
     'story.cover.alt': '! {story}! için hikaye kapak resmi.',
     'story.note.fanfiction': 'NOT: Bu hikaye, {universe} evreninde bir hayran kurgusudur.',
