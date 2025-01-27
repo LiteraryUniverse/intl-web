@@ -111,6 +111,8 @@ export default {
     'story.read': 'Baca',
     'story.lastUpdate': 'Terakhir diperbarui pada {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Selesai pada {date, date, medium}.',
+    'story.hiatusAt': 'Hiatus dari {date, date, medium}.',
+    'story.cancelledAt': 'Dibatalkan di {date, date, medium}.',
     'story.comments.for': 'Komentar untuk {story} {chapter}.',
     'story.cover.alt': 'Gambar cover cerita untuk {story}.',
     'story.note.fanfiction': 'CATATAN: cerita ini merupakan fan fiction pada universe {universe}.',
