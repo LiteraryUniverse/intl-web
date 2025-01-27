@@ -111,6 +111,8 @@ export default {
     'story.read': 'Читать',
     'story.lastUpdate': 'Последнее обновление: {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Закончена в {date, date, medium}',
+    'story.hiatusAt': 'В перерыве с {date, date, medium}.',
+    'story.cancelledAt': 'Отменено на {date, date, medium}.',
     'story.comments.for': 'Комментарии к: {story} - {chapter}.',
     'story.cover.alt': 'Изображение обложки для: {story}.',
     'story.note.fanfiction': 'ПРИМЕЧАНИЕ: Эта история является фанфиком по вселенной: {universe}.',
