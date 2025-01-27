@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'כוכבים',
     'encyclopedia.category.species': 'מינים',
     'encyclopedia.category.technologies': 'טכנולוגיות',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {לא נמצאו ערכים קשורים}
     one {ערך קשור אחד}
@@ -53,6 +54,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -72,25 +74,27 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   } in {universe}`,
-    'encyclopedia.entry.category': `קטגוריית ערך: {category, select,
-    character {דמות}
-    event {אירוע}
-    group {קבוצה}
-    item {פריט}
-    location {מיקום}
-    other {הערה}
-    state {מצב}
-    governments {ממשלה}
-    languages {שפה}
-    creatures {יצור}
-    deity {אלוהות}
-    religions {דת}
-    flora {צמח}
-    magic {קסם}
-    planets {כוכב}
-    species {מין}
-    technologies {טכנולוגיה}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'קטגוריה',
     'encyclopedia.fields.add': 'הוסף שדה חדש',
