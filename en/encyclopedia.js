@@ -23,6 +23,7 @@ export default {
   'encyclopedia.category.planets': 'Planets',
   'encyclopedia.category.species': 'Species',
   'encyclopedia.category.technologies': 'Technologies',
+  'encyclopedia.category.families': 'Families',
   'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -55,6 +56,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   }`,
   'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -74,6 +76,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   } in {universe}`,
   'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -93,6 +96,7 @@ export default {
     planets {Planet}
     species {Specie}
     technologies {Technology}
+    families {Family}
   }`,
   'encyclopedia.entry.category.legend': 'Category',
   'encyclopedia.fields.add': 'Add a new field',
