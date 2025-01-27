@@ -1,5 +1,10 @@
 # Changelog for languages
 
+## 2025-01-27 - v2.15.3
+
+* Strings for inviting and leaving
+* Additional strings for story page
+
 ## 2025-01-22 - v2.15.2
 
 * Added `sharing.bsky`
