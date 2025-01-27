@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Pláinéid',
     'encyclopedia.category.species': 'Speicis',
     'encyclopedia.category.technologies': 'Teicneolaíochtaí',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {Gan iontrálacha gaolmhara}
     one {Iontráil gaolmhara amháin}
@@ -53,6 +54,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -72,25 +74,27 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   } in {universe}`,
-    'encyclopedia.entry.category': `Catagóir Iontrála: {category, select,
-    character {Carachtar}
-    event {Imeacht}
-    group {Grúpa}
-    item {Mír}
-    location {Áit}
-    other {Nóta}
-    state {Stádas}
-    governments {Rialtas}
-    languages {Teanga}
-    creatures {Créatúr}
-    deity {Déithe}
-    religions {Creideamh}
-    flora {Plandaí}
-    magic {Draíocht}
-    planets {Pláinéad}
-    species {Speiceas}
-    technologies {Teicneolaíocht}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Catagóir',
     'encyclopedia.fields.add': 'Cuir réimse nua leis',
