@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Encyclopedie-invoer',
   'personalNotes.type.revTextBlock': 'Revisietekstblok',
   'personalNotes.chapter': 'Hoofdstuk',
-  'personalNotes.recentSearches': 'Recente zoekopdrachten:'
+  'personalNotes.recentSearches': 'Recente zoekopdrachten:',
+  'personalNotes.myNotes': 'Mijn persoonlijke aantekeningen'
 };
