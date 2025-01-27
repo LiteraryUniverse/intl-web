@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planete',
     'encyclopedia.category.species': 'Spesies',
     'encyclopedia.category.technologies': 'Tegnologieë',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {Geen verwante inskrywings nie}
     one {1 verwante inskrywing}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'Voeg \'n nuwe inskrywing by die ensiklopedie',
     'encyclopedia.add.heading': 'Wat wil jy byvoeg?',
     'encyclopedia.add.moresoon': 'Meer kategorieë binnekort beskikbaar!',
-    'encyclopedia.create': `Skep 'n nuwe {category, select,
-    character {karakter}
-    event {gebeurtenis}
-    group {groep}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
     item {item}
-    location {plek}
-    other {nota}
-    state {staat}
-    governments {regering}
-    languages {taal}
-    creatures {kreatuur}
-    deity {godheid}
-    religions {godsdiens}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
     flora {flora}
-    magic {magie}
-    planets {planeet}
-    species {spesie}
-    technologies {tegnologie}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `Skep 'n nuwe {category, select,
-    character {karakter}
-    event {gebeurtenis}
-    group {groep}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
     item {item}
-    location {plek}
-    other {nota}
-    state {staat}
-    governments {regering}
-    languages {taal}
-    creatures {kreatuur}
-    deity {godheid}
-    religions {godsdiens}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
     flora {flora}
-    magic {magie}
-    planets {planeet}
-    species {spesie}
-    technologies {tegnologie}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   } in {universe}`,
-    'encyclopedia.entry.category': `Inskrywingskategorie: {category, select,
-    character {Karakter}
-    event {Gebeurtenis}
-    group {Groep}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
     item {Item}
-    location {Ligging}
-    other {Nota}
-    state {Toestand}
-    governments {Regering}
-    languages {Taal}
-    creatures {Kreatuur}
-    deity {Godheid}
-    religions {Godsdiens}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
     flora {Flora}
-    magic {Magie}
-    planets {Planeet}
-    species {Spesie}
-    technologies {Tegnologie}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Voeg \'n nuwe veld by',
