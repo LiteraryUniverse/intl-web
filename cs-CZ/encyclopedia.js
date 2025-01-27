@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'Planeta',
     'encyclopedia.category.species': 'Rasa',
     'encyclopedia.category.technologies': 'Technologie',
+    'encyclopedia.category.families': 'Rodiny',
     'encyclopedia.search.found': `{results, plural,
     zero {Nic nenalezeno}
     one {1 možný článek nalezen}
@@ -36,62 +37,65 @@ export default {
     'encyclopedia.add.title': 'Přidat nový záznam do encyklopedie',
     'encyclopedia.add.heading': 'Co chcete přidat?',
     'encyclopedia.add.moresoon': 'Více kategorií již brzy!',
-    'encyclopedia.create': `Vytvořit nov{category, select,
-    character {ou postavu}
-    event {ou událost}
-    group {ou skupinu}
-    item {ou věc}
-    location {ou lokaci}
-    other {ou poznámku}
-    state {ý národ}
-    governments {ý stát}
-    languages {ý jazyk}
-    creatures {ou bytost}
-    deity {é božstvo}
-    religions {é náboženství}
-    flora {ou floru}
-    magic {ou magii}
-    planets {ou planetu}
-    species {ou rasu}
-    technologies {ou technologii}
+    'encyclopedia.create': `Vytvořit nový {category, select,
+    character {postava}
+    event {událost}
+    group {skupina}
+    item {předmět}
+    location {místo}
+    other {poznámka}
+    state {stát}
+    governments {vláda}
+    languages {jazyk}
+    creatures {tvor}
+    deity {božstvo}
+    religions {náboženství}
+    flora {flóra}
+    magic {magie}
+    planets {planeta}
+    species {druh}
+    technologies {technologie}
+    families {rodina}
   }`,
-    'encyclopedia.create.header': `Vytvořit nov{category, select,
-    character {ou postavu}
-    event {ou událost}
-    group {ou skupinu}
-    item {ou věc}
-    location {ou lokaci}
-    other {ou poznámku}
-    state {ý národ}
-    governments {ý stát}
-    languages {ý jazyk}
-    creatures {ou bytost}
-    deity {é božstvo}
-    religions {é náboženství}
-    flora {ou floru}
-    magic {ou magii}
-    planets {ou planetu}
-    species {ou rasu}
-    technologies {ou technologii}
+    'encyclopedia.create.header': `Vytvořit nový {category, select,
+    character {postava}
+    event {událost}
+    group {skupina}
+    item {předmět}
+    location {místo}
+    other {poznámka}
+    state {stát}
+    governments {vláda}
+    languages {jazyk}
+    creatures {tvor}
+    deity {božstvo}
+    religions {náboženství}
+    flora {flóra}
+    magic {magie}
+    planets {planeta}
+    species {druh}
+    technologies {technologie}
+    families {rodina}
   } v {universe}`,
-    'encyclopedia.entry.category': `Typ článku: {category, select,
+    'encyclopedia.entry.category': `Kategorie přihlášek: {category, select,
     character {Postava}
     event {Událost}
     group {Skupina}
-    item {Věc}
-    location {Lokace}
-    other {Ostatní}
-    state {Národ}
-    governments {Stát}
+    item {Předmět}
+    location {Místo}
+    other {Poznámka}
+    state {Stát}
+    governments {Vláda}
     languages {Jazyk}
-    creatures {Bytost}
+    creatures {Tvor}
     deity {Božstvo}
     religions {Náboženství}
-    flora {Flora}
+    flora {Flóra}
     magic {Magie}
     planets {Planeta}
-    species {Rasa}
+    species {Druh}
     technologies {Technologie}
+    families {Rodina}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Přidat nové pole',
