@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Rūšys',
     'encyclopedia.category.technologies': 'Technologijos',
     'encyclopedia.category.families': 'Šeimos',
+    'encyclopedia.category.jobs': 'Darbo vietos',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Transporto priemonės',
+    'encyclopedia.category.diseases': 'Ligos',
+    'encyclopedia.category.traditions': 'Tradicijos',
+    'encyclopedia.category.sports': 'Sportas',
+    'encyclopedia.category.landmarks': 'Orientyrai',
+    'encyclopedia.category.buildings': 'Pastatai',
+    'encyclopedia.category.schools': 'Mokyklos',
+    'encyclopedia.category.continents': 'Žemynai',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nėra susijusių įrašų}
     one {1 susijęs įrašas}
@@ -50,13 +60,23 @@ export default {
     deity {dievybę}
     religions {religiją}
     flora {florą}
-    magic {magiją}
-    planets {planetą}
-    species {rūšį}
-    technologies {technologiją}
-    families {šeimą}
+    magic {magija}
+    planets {planeta}
+    species {rūšis}
+    technologies {technologija}
+    families {šeima}
+    jobs {darbas}
+    lore {legendos}
+    vehicles {transporto priemonė}
+    diseases {liga}
+    traditions {tradicija}
+    sports {sportas}
+    landmarks {įžymybė}
+    buildings {pastatas}
+    schools {mokykla}
+    continents {žemynas}
   }`,
-    'encyclopedia.create.header': `Sukurti naują {category, select,
+    'encyclopedia.create.header': `Kurti naują {category, select,
     character {veikėją}
     event {įvykį}
     group {grupę}
@@ -71,11 +91,21 @@ export default {
     religions {religiją}
     flora {florą}
     magic {magiją}
-    planets {planetą}
-    species {rūšį}
-    technologies {technologiją}
-    families {šeimą}
-  } į {universe}`,
+    planets {planeta}
+    species {rūšis}
+    technologies {technologija}
+    families {šeima}
+    jobs {darbas}
+    lore {legendos}
+    vehicles {transporto priemonė}
+    diseases {liga}
+    traditions {tradicija}
+    sports {sportas}
+    landmarks {įžymybė}
+    buildings {pastatas}
+    schools {mokykla}
+    continents {žemynas}
+  } in {universe}`,
     'encyclopedia.entry.category': `Įrašo kategorija: {category, select,
     character {Personažas}
     event {Įvykis}
@@ -95,6 +125,16 @@ export default {
     species {Rūšis}
     technologies {Technologija}
     families {Šeima}
+    jobs {Darbas}
+    lore {Lore}
+    vehicles {Transporto priemonė}
+    diseases {Liga}
+    traditions {Tradicija}
+    sports {Sportas}
+    landmarks {Orientyras}
+    buildings {Pastatas}
+    schools {Mokykla}
+    continents {Žemynas}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorija',
     'encyclopedia.fields.add': 'Pridėkite naują lauką',
