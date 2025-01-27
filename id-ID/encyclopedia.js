@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Spesies',
     'encyclopedia.category.technologies': 'Teknologi',
     'encyclopedia.category.families': 'Keluarga',
+    'encyclopedia.category.jobs': 'Pekerjaan',
+    'encyclopedia.category.lore': 'Pengetahuan',
+    'encyclopedia.category.vehicles': 'Kendaraan',
+    'encyclopedia.category.diseases': 'Penyakit',
+    'encyclopedia.category.traditions': 'Tradisi',
+    'encyclopedia.category.sports': 'Olahraga',
+    'encyclopedia.category.landmarks': 'Tengara',
+    'encyclopedia.category.buildings': 'Bangunan',
+    'encyclopedia.category.schools': 'Sekolah',
+    'encyclopedia.category.continents': 'Benua',
     'encyclopedia.search.found': `{results, plural,
     =0 {Tidak ada entri terkait}
     one {1 entri terkait}
@@ -36,31 +46,41 @@ export default {
     'encyclopedia.add.title': 'Tambahkan entri baru ke ensiklopedia',
     'encyclopedia.add.heading': 'Apa yang ingin Anda tambahkan?',
     'encyclopedia.add.moresoon': 'Kategori lainnya akan segera hadir!',
-    'encyclopedia.create': `Buat {category, select,
+    'encyclopedia.create': `Buat baru {category, select,
     character {karakter}
     event {peristiwa}
     group {kelompok}
-    item {barang}
+    item {benda}
     location {lokasi}
     other {catatan}
-    state {negara bagian}
+    state {negara}
     governments {pemerintah}
     languages {bahasa}
     creatures {makhluk}
     deity {dewa}
     religions {agama}
-    flora {flora}
+    flora {tumbuhan}
     magic {sihir}
     planets {planet}
-    species {jenis}
+    species {spesies}
     technologies {teknologi}
     families {keluarga}
+    jobs {pekerjaan}
+    lore {pengetahuan}
+    vehicles {kendaraan}
+    diseases {penyakit}
+    traditions {tradisi}
+    sports {olahraga}
+    landmarks {tengara}
+    buildings {bangunan}
+    schools {sekolah}
+    continents {benua}
   }`,
-    'encyclopedia.create.header': `Buat {category, select,
+    'encyclopedia.create.header': `Menciptakan {category, select,
     character {karakter}
     event {peristiwa}
     group {kelompok}
-    item {barang}
+    item {benda}
     location {lokasi}
     other {catatan}
     state {negara}
@@ -72,15 +92,25 @@ export default {
     flora {flora}
     magic {sihir}
     planets {planet}
-    species {jenis}
+    species {spesies}
     technologies {teknologi}
     families {keluarga}
+    jobs {pekerjaan}
+    lore {pengetahuan}
+    vehicles {kendaraan}
+    diseases {penyakit}
+    traditions {tradisi}
+    sports {olahraga}
+    landmarks {tengara}
+    buildings {bangunan}
+    schools {sekolah}
+    continents {benua}
   } di {universe}`,
     'encyclopedia.entry.category': `Kategori entri: {category, select,
     character {Karakter}
     event {Peristiwa}
     group {Kelompok}
-    item {Barang}
+    item {Benda}
     location {Lokasi}
     other {Catatan}
     state {Negara}
@@ -95,6 +125,16 @@ export default {
     species {Spesies}
     technologies {Teknologi}
     families {Keluarga}
+    jobs {Pekerjaan}
+    lore {Pengetahuan}
+    vehicles {Kendaraan}
+    diseases {Penyakit}
+    traditions {Tradisi}
+    sports {Olahraga}
+    landmarks {Tengara}
+    buildings {Bangunan}
+    schools {Sekolah}
+    continents {Benua}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambahkan bidang baru',
