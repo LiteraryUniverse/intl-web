@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Espécies',
     'encyclopedia.category.technologies': 'Tecnologias',
     'encyclopedia.category.families': 'Famílias',
+    'encyclopedia.category.jobs': 'Empregos',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Veículos',
+    'encyclopedia.category.diseases': 'Doenças',
+    'encyclopedia.category.traditions': 'Tradições',
+    'encyclopedia.category.sports': 'Esportes',
+    'encyclopedia.category.landmarks': 'Pontos de referência',
+    'encyclopedia.category.buildings': 'Edifícios',
+    'encyclopedia.category.schools': 'Escolas',
+    'encyclopedia.category.continents': 'Continentes',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nenhuma entrada relacionada}
     one {1 entrada relacionada}
@@ -55,8 +65,18 @@ export default {
     species {espécie}
     technologies {tecnologia}
     families {família}
+    jobs {emprego}
+    lore {tradição}
+    vehicles {veículo}
+    diseases {doença}
+    traditions {tradição}
+    sports {esporte}
+    landmarks {marco}
+    buildings {edifício}
+    schools {escola}
+    continents {continente}
   }`,
-    'encyclopedia.create.header': `Criar um novo {category, select,
+    'encyclopedia.create.header': `Criando um novo {category, select,
     character {personagem}
     event {evento}
     group {grupo}
@@ -75,6 +95,16 @@ export default {
     species {espécie}
     technologies {tecnologia}
     families {família}
+    jobs {emprego}
+    lore {lore}
+    vehicles {veículo}
+    diseases {doença}
+    traditions {tradição}
+    sports {esporte}
+    landmarks {marco}
+    buildings {edifício}
+    schools {escola}
+    continents {continente}
   } em {universe}`,
     'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
@@ -91,10 +121,20 @@ export default {
     religions {Religião}
     flora {Flora}
     magic {Magia}
-    planets {Planeta}
-    species {Espécie}
-    technologies {Tecnologia}
-    families {Família}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',
