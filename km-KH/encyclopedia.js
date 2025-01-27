@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'បរិស្ថាន',
     'encyclopedia.category.species': 'ប្រភេទ',
     'encyclopedia.category.technologies': 'ប្រព័ន្ធបណ្តាញ',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {គ្មានធាតុដែលទាក់ទងគ្នា}
     one {មានធាតុដែលទាក់ទងមួយ}
@@ -53,6 +54,7 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   }`,
     'encyclopedia.create.header': `Create a new {category, select,
     character {character}
@@ -72,25 +74,27 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
   } in {universe}`,
-    'encyclopedia.entry.category': `ប្រភេទធាតុ: {category, select,
-    character {តួនាទី}
-    event {ព្រឹក្សា}
-    group {ក្រុម}
-    item {ធាតុ}
-    location {ទីកន្លែង}
-    other {ចំណាំ}
-    state {រដ្ឋ}
-    governments {រាជធានី}
-    languages {ភាសា}
-    creatures {សត្វ}
-    deity {អមជ្ឈមណ្ឌល}
-    religions {សាសនា}
-    flora {រឿងជាតិ}
-    magic {ប្រេងសាំង}
-    planets {ផលប៉ះពាល់}
-    species {ម៉ាស៊ីន}
-    technologies {ប្រព័ន្ធបន្ទប់បន្តិច}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'ប្រភេទ',
     'encyclopedia.fields.add': 'បន្ថែមវាលថ្មី',
