@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Leksikonoppføring',
   'personalNotes.type.revTextBlock': 'Revisjonstekstblokk',
   'personalNotes.chapter': 'Kapittel',
-  'personalNotes.recentSearches': 'Nylige søk:'
+  'personalNotes.recentSearches': 'Nylige søk:',
+  'personalNotes.myNotes': 'My Personal Notes'
 };
