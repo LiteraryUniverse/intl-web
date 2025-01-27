@@ -111,6 +111,8 @@ export default {
     'story.read': 'קרא',
     'story.lastUpdate': 'עודכן לאחרונה ב {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'סיים ב {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': 'תגובות ל {story} {chapter}.',
     'story.cover.alt': 'תמונת כריכה לסיפור {story}.',
     'story.note.fanfiction': 'הערה: סיפור זה הוא פאן פיקשן על יקום {universe} .',
