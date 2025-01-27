@@ -22,5 +22,6 @@ export default {
   'personalNotes.type.encEntry': 'Uppslagsverkspost',
   'personalNotes.type.revTextBlock': 'Revisions-textblock',
   'personalNotes.chapter': 'Kapitel',
-  'personalNotes.recentSearches': 'Senaste sökningar:'
+  'personalNotes.recentSearches': 'Senaste sökningar:',
+  'personalNotes.myNotes': 'Mina personliga anteckningar'
 };
