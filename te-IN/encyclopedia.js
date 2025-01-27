@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'గ్రహాలు',
     'encyclopedia.category.species': 'జాతులు',
     'encyclopedia.category.technologies': 'సాంకేతికాలు',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {సంబంధిత ఎంట్రీలు లేవు}
     one {1 సంబంధిత ఎంట్రీ}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'ఎన్సైక్లోపీడియాకు కొత్త ఎంట్రీని జోడించండి',
     'encyclopedia.add.heading': 'మీరు ఏమి జోడించాలనుకుంటున్నారు?',
     'encyclopedia.add.moresoon': 'మరెన్నెంపులు త్వరలో రావు!',
-    'encyclopedia.create': `కొత్త {category, select,
-    character {ప్రాణి}
-    event {సంఘం}
-    group {గుర్తు}
-    item {వస్త్రం}
-    location {స్థానం}
-    other {గమనిక}
-    state {రాష్ట్రం}
-    governments {ప్రభుత్వం}
-    languages {భాష}
-    creatures {జీవి}
-    deity {దేవుడు}
-    religions {మతం}
-    flora {పుష్పం}
-    magic {మాయ}
-    planets {గ్రహం}
-    species {జాతి}
-    technologies {సాంకేతికం}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `కొత్త {category, select,
-    character {ప్రాణి}
-    event {సంఘం}
-    group {గుర్తు}
-    item {వస్త్రం}
-    location {స్థానం}
-    other {గమనిక}
-    state {రాష్ట్రం}
-    governments {ప్రభుత్వం}
-    languages {భాష}
-    creatures {జీవి}
-    deity {దేవుడు}
-    religions {మతం}
-    flora {పుష్పం}
-    magic {మాయ}
-    planets {గ్రహం}
-    species {జాతి}
-    technologies {సాంకేతికం}
-  } లో {universe}`,
-    'encyclopedia.entry.category': `ఎంట్రీ వర్గం: {category, select,
-    character {పాత్ర}
-    event {సంఘం}
-    group {సంఘం}
-    item {వస్తువు}
-    location {స్థానం}
-    other {గమనిక}
-    state {రాష్ట్రం}
-    governments {ప్రభుత్వం}
-    languages {భాష}
-    creatures {జీవి}
-    deity {దేవుడు}
-    religions {మతం}
-    flora {పూష్ప}
-    magic {మాయ}
-    planets {గ్రహం}
-    species {జాతి}
-    technologies {సాంకేతికం}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'వర్గం',
     'encyclopedia.fields.add': 'కొత్త ఫీల్డ్ జోడించండి',
