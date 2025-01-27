@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'ଗ୍ରହଗୁଡ଼ିକ',
     'encyclopedia.category.species': 'ଜାତିଗୁଡ଼ିକ',
     'encyclopedia.category.technologies': 'ପ୍ରଯୁକ୍ତିଗୁଡ଼ିକ',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'Add a new entry to encyclopedia',
     'encyclopedia.add.heading': 'What do you wish to add?',
     'encyclopedia.add.moresoon': 'More categories coming soon!',
-    'encyclopedia.create': `ନବିନିର୍ମାଣ କରନ୍ତୁ {category, select,
-    character {ଚରିତ୍ର}
-    event {ଘଟଣା}
-    group {ଗୋଷ୍ଠୀ}
-    item {ପଦାର୍ଥ}
-    location {ଅବସ୍ଥା}
-    other {ଲୋକାଷ୍ଟି}
-    state {ରାଜ୍ୟ}
-    governments {ସରକାର}
-    languages {ଭାଷା}
-    creatures {ପ୍ରାଣୀ}
-    deity {ଦୈତ୍ୟ}
-    religions {ଧର୍ମ}
-    flora {ଉଦ୍ୟାନ}
-    magic {ଜାଦୁ}
-    planets {ଗ୍ରହ}
-    species {ପ୍ରଜା}
-    technologies {ପ୍ରଯୁକ୍ତି}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `ନବିନିର୍ମାଣ କରନ୍ତୁ {category, select,
-    character {ଚରିତ୍ର}
-    event {ଘଟଣା}
-    group {ଗୋଷ୍ଠୀ}
-    item {ପଦାର୍ଥ}
-    location {ଅବସ୍ଥା}
-    other {ଲୋକାଷ୍ଟି}
-    state {ରାଜ୍ୟ}
-    governments {ସରକାର}
-    languages {ଭାଷା}
-    creatures {ପ୍ରାଣୀ}
-    deity {ଦୈତ୍ୟ}
-    religions {ଧର୍ମ}
-    flora {ଉଦ୍ୟାନ}
-    magic {ଜାଦୁ}
-    planets {ଗ୍ରହ}
-    species {ପ୍ରଜା}
-    technologies {ପ୍ରଯୁକ୍ତି}
-  } ରେ {universe}`,
-    'encyclopedia.entry.category': `ଏଣ୍ଟ୍ରି ବର୍ଗ: {category, select,
-    character {ଚିହ୍ନ}
-    event {ଘଟଣା}
-    group {ଗୋଷ୍ଠୀ}
-    item {ପଦାର୍ଥ}
-    location {ଅବସ୍ଥା}
-    other {ସ୍ଥାନ}
-    state {ନିର୍ଦେଶ}
-    governments {ଶାସନ}
-    languages {ଭାଷା}
-    creatures {ପ୍ରାଣୀ}
-    deity {ଦୈବ}
-    religions {ଧର୍ମ}
-    flora {ଓଷଧି}
-    magic {ଜାଦୁ}
-    planets {ଗ୍ରହ}
-    species {ଜାତି}
-    technologies {ପ୍ରଯୁକ୍ତି}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',
