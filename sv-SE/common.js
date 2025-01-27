@@ -111,6 +111,8 @@ export default {
     'story.read': 'Läs',
     'story.lastUpdate': 'Senast uppdaterad den {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'Avslutad den {date, date, medium}.',
+    'story.hiatusAt': 'På paus från {date, date, medium}.',
+    'story.cancelledAt': 'Avbokad på {date, date, medium}.',
     'story.comments.for': 'Kommentarer för {story} {chapter}.',
     'story.cover.alt': 'Omslagsbild för {story}.',
     'story.note.fanfiction': 'OBS: Denna berättelse är en fanfiction baserad på universumet {universe}.',
