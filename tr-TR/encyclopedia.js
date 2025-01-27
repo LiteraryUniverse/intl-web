@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Türler',
     'encyclopedia.category.technologies': 'Teknolojiler',
     'encyclopedia.category.families': 'Aileler',
+    'encyclopedia.category.jobs': 'Meslekler',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Araçlar',
+    'encyclopedia.category.diseases': 'Hastalıklar',
+    'encyclopedia.category.traditions': 'Gelenekler',
+    'encyclopedia.category.sports': 'Spor',
+    'encyclopedia.category.landmarks': 'Simgesel Yapılar',
+    'encyclopedia.category.buildings': 'Binalar',
+    'encyclopedia.category.schools': 'Okullar',
+    'encyclopedia.category.continents': 'Kıtalar',
     'encyclopedia.search.found': `{results, plural,
     =0 {İlgili giriş bulunamadı}
     one {1 ilgili giriş bulundu}
@@ -38,7 +48,7 @@ export default {
     'encyclopedia.add.moresoon': 'Daha fazla kategori yakında gelecek!',
     'encyclopedia.create': `Yeni bir {category, select,
     character {karakter}
-    event {olay}
+    event {etkinlik}
     group {grup}
     item {öğe}
     location {konum}
@@ -49,18 +59,28 @@ export default {
     creatures {yaratık}
     deity {tanrı}
     religions {din}
-    flora {flora}
-    magic {büyü}
+    flora {bitki örtüsü}
+    magic {oluşturun büyü}
     planets {gezegen}
     species {tür}
     technologies {teknoloji}
     families {aile}
+    jobs {iş}
+    lore {irfan}
+    vehicles {araç}
+    diseases {hastalık}
+    traditions {gelenek}
+    sports {spor}
+    landmarks {dönüm noktası}
+    buildings {bina}
+    schools {okul}
+    continents {kıta}
   }`,
     'encyclopedia.create.header': `Yeni bir {category, select,
     character {karakter}
     event {olay}
     group {grup}
-    item {öğe}
+    item {eşya}
     location {konum}
     other {not}
     state {eyalet}
@@ -75,7 +95,17 @@ export default {
     species {tür}
     technologies {teknoloji}
     families {aile}
-  } {universe}'da`,
+    jobs {iş}
+    lore {irfan}
+    vehicles {araç}
+    diseases {hastalık}
+    traditions {gelenek}
+    sports {spor}
+    landmarks {dönüm noktası}
+    buildings {bina}
+    schools {okul}
+    continents {kıta}
+  } {universe}içinde`,
     'encyclopedia.entry.category': `Giriş kategorisi: {category, select,
     character {Karakter}
     event {Olay}
@@ -95,6 +125,16 @@ export default {
     species {Tür}
     technologies {Teknoloji}
     families {Aile}
+    jobs {İş}
+    lore {İlim}
+    vehicles {Araç}
+    diseases {Hastalık}
+    traditions {Gelenek}
+    sports {Spor}
+    landmarks {Simgesel Yapı}
+    buildings {Bina}
+    schools {Okul}
+    continents {Kıta}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Yeni bir alan ekleyin',
