@@ -23,6 +23,7 @@ export default {
     'encyclopedia.category.planets': 'ਗ੍ਰਹ',
     'encyclopedia.category.species': 'ਜਾਤ',
     'encyclopedia.category.technologies': 'ਤਕਨੋਲੋਜੀਆਂ',
+    'encyclopedia.category.families': 'Families',
     'encyclopedia.search.found': `{results, plural,
     =0 {ਕੋਈ ਸਬੰਧਿਤ ਇੰਟਰੀ ਨਹੀਂ ਮਿਲੀ}
     one {1 ਸਬੰਧਿਤ ਇੰਟਰੀ ਮਿਲੀ}
@@ -35,62 +36,65 @@ export default {
     'encyclopedia.add.title': 'ਜਣਾਕਾਰੀ ਵਿੱਚ ਇੱਕ ਨਵਾਂ ਇੰਟਰੀ ਸ਼ਾਮਲ ਕਰੋ',
     'encyclopedia.add.heading': 'ਤੁਸੀਂ ਕੀ ਸ਼ਾਮਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?',
     'encyclopedia.add.moresoon': 'ਹੋਰ ਕੈਟੇਗਰੀਆਂ ਜਲਦ ਹੀ ਆ ਰਹੀਆਂ ਹਨ!',
-    'encyclopedia.create': `ਨਵਾਂ ਬਣਾਓ {category, select,
-    character {ਚਰਿਤਰ}
-    event {ਇਵੈਂਟ}
-    group {ਗਰੁੱਪ}
-    item {ਆਈਟਮ}
-    location {ਸਥਾਨ}
-    other {ਨੋਟ}
-    state {ਸਟੇਟ}
-    governments {ਸਰਕਾਰ}
-    languages {ਭਾਸ਼ਾ}
-    creatures {ਪ੍ਰਾਣੀ}
-    deity {ਦੇਵਤਾ}
-    religions {ਧਰਮ}
-    flora {ਫਲੋਰਾ}
-    magic {ਜਾਦੂ}
-    planets {ਗ੍ਰਹ}
-    species {ਜਾਤ}
-    technologies {ਤਕਨੀਕੀ}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
   }`,
-    'encyclopedia.create.header': `ਨਵਾਂ ਬਣਾਓ {category, select,
-    character {ਚਰਿਤਰ}
-    event {ਇਵੈਂਟ}
-    group {ਗਰੁੱਪ}
-    item {ਆਈਟਮ}
-    location {ਸਥਾਨ}
-    other {ਨੋਟ}
-    state {ਸਟੇਟ}
-    governments {ਸਰਕਾਰ}
-    languages {ਭਾਸ਼ਾ}
-    creatures {ਪ੍ਰਾਣੀ}
-    deity {ਦੇਵਤਾ}
-    religions {ਧਰਮ}
-    flora {ਫਲੋਰਾ}
-    magic {ਜਾਦੂ}
-    planets {ਗ੍ਰਹ}
-    species {ਜਾਤ}
-    technologies {ਤਕਨੀਕੀ}
-  } ਵਿੱਚ {universe}`,
-    'encyclopedia.entry.category': `ਪ੍ਰਵੇਸ ਸ਼੍ਰੇਣੀ: {category, select,
-    character {ਅੱਖਰ}
-    event {ਇਵੈਂਟ}
-    group {ਗਰੁੱਪ}
-    item {ਆਈਟਮ}
-    location {ਸਥਾਨ}
-    other {ਨੋਟ}
-    state {ਸਟੇਟ}
-    governments {ਸਰਕਾਰ}
-    languages {ਭਾਸ਼ਾ}
-    creatures {ਜੀਵ}
-    deity {ਦੈਵਤਾ}
-    religions {ਧਰਮ}
-    flora {ਫਲੋਰਾ}
-    magic {ਜਾਦੂ}
-    planets {ਗ੍ਰਹ}
-    species {ਜਾਤ}
-    technologies {ਟੈਕਨੋਲੋਜੀ}
+    'encyclopedia.create.header': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
   }`,
     'encyclopedia.entry.category.legend': 'ਕੈਟੇਗਰੀ',
     'encyclopedia.fields.add': 'ਨਵੀਂ ਫੀਲਡ ਸ਼ਾਮਲ ਕਰੋ',
