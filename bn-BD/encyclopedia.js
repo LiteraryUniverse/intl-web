@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'প্রজাতিসমূহ',
     'encyclopedia.category.technologies': 'প্রযুক্তিসমূহ',
     'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
     'encyclopedia.search.found': `{results, plural,
     =0 {কোন সম্পর্কিত নির্দেশিকা প্রবেশ নেই}
     one {1 সম্পর্কিত নির্দেশিকা প্রবেশ}
@@ -55,8 +65,18 @@ export default {
     species {specie}
     technologies {technology}
     families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
+    'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
     event {event}
     group {group}
@@ -75,6 +95,16 @@ export default {
     species {specie}
     technologies {technology}
     families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   } in {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -95,6 +125,16 @@ export default {
     species {Specie}
     technologies {Technology}
     families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
   }`,
     'encyclopedia.entry.category.legend': 'বিভাগ',
     'encyclopedia.fields.add': 'নতুন ক্ষেত্র যোগ করুন',
