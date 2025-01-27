@@ -111,6 +111,8 @@ export default {
     'story.read': 'வாசிக்க',
     'story.lastUpdate': 'இறுதியாக புதுப்பிக்கப்பட்டது {date, date, medium} {date, time, short}.',
     'story.finishedAt': 'இறுதியாக முடிந்தது {date, date, medium}.',
+    'story.hiatusAt': 'On hiatus from {date, date, medium}.',
+    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
     'story.comments.for': '{story} {chapter}பற்றிய கருத்துகள்.',
     'story.cover.alt': '{story}கதையின் முதன்முதல் படம்.',
     'story.note.fanfiction': 'குறிப்பு: இந்த கதை {universe} உலகத்தின் ஒரு ரசிகர் கதை.',
