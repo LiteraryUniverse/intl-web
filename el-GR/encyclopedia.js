@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Είδη',
     'encyclopedia.category.technologies': 'Τεχνολογίες',
     'encyclopedia.category.families': 'Οικογένειες',
+    'encyclopedia.category.jobs': 'Θέσεις εργασίας',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Οχήματα',
+    'encyclopedia.category.diseases': 'Ασθένειες',
+    'encyclopedia.category.traditions': 'Παραδόσεις',
+    'encyclopedia.category.sports': 'Αθλητισμός',
+    'encyclopedia.category.landmarks': 'Ορόσημα',
+    'encyclopedia.category.buildings': 'Κτίρια',
+    'encyclopedia.category.schools': 'Σχολεία',
+    'encyclopedia.category.continents': 'Ήπειροι',
     'encyclopedia.search.found': `{results, plural,
     =0 {Δεν υπάρχουν σχετικές καταχωρήσεις}
     one {1 σχετική καταχώρηση}
@@ -50,32 +60,52 @@ export default {
     deity {θεότητα}
     religions {θρησκεία}
     flora {χλωρίδα}
-    magic {μαγεία}
-    planets {πλανήτης}
-    species {είδος}
-    technologies {τεχνολογία}
-    families {οικογένεια}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
   }`,
-    'encyclopedia.create.header': `Δημιουργήστε ένα νέο {category, select,
+    'encyclopedia.create.header': `Δημιουργία νέου {category, select,
     character {χαρακτήρα}
-    event {γεγονός}
-    group {ομάδα}
-    item {αντικείμενο}
-    location {τοποθεσία}
-    other {σημείωση}
-    state {κράτος}
-    governments {κυβέρνηση}
-    languages {γλώσσα}
-    creatures {πλάσμα}
-    deity {θεότητα}
-    religions {θρησκεία}
-    flora {χλωρίδα}
-    magic {μαγεία}
-    planets {πλανήτης}
-    species {είδος}
-    technologies {τεχνολογία}
-    families {οικογένεια}
-  } στο {universe}`,
+    event {γεγονότος}
+    group {ομάδας}
+    item {αντικειμένου}
+    location {τοποθεσίας}
+    other {σημείωσης}
+    state {κράτους}
+    governments {κυβέρνησης}
+    languages {γλώσσας}
+    creatures {πλάσματος}
+    deity {θεότητας}
+    religions {θρησκείας}
+    flora {χλωρίδας}
+    magic {μαγείας}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+  } in {universe}`,
     'encyclopedia.entry.category': `Κατηγορία εισόδου: {category, select,
     character {Χαρακτήρας}
     event {Γεγονός}
@@ -91,10 +121,20 @@ export default {
     religions {Θρησκεία}
     flora {Χλωρίδα}
     magic {Μαγεία}
-    planets {Πλανήτης}
-    species {Είδος}
-    technologies {Τεχνολογία}
-    families {Οικογένεια}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
   }`,
     'encyclopedia.entry.category.legend': 'Κατηγορία',
     'encyclopedia.fields.add': 'Προσθήκη νέου πεδίου',
