@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Rasa',
     'encyclopedia.category.technologies': 'Technologie',
     'encyclopedia.category.families': 'Rodiny',
+    'encyclopedia.category.jobs': 'Nabídky práce:',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vozidla',
+    'encyclopedia.category.diseases': 'Nemoci',
+    'encyclopedia.category.traditions': 'Tradice',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.landmarks': 'Památky',
+    'encyclopedia.category.buildings': 'Budovy',
+    'encyclopedia.category.schools': 'Školy',
+    'encyclopedia.category.continents': 'Kontinenty',
     'encyclopedia.search.found': `{results, plural,
     zero {Nic nenalezeno}
     one {1 možný článek nalezen}
@@ -56,8 +66,18 @@ export default {
     species {druh}
     technologies {technologie}
     families {rodina}
+    jobs {zaměstnání}
+    lore {pověst}
+    vehicles {vozidlo}
+    diseases {nemoc}
+    traditions {tradice}
+    sports {sport}
+    landmarks {památka}
+    buildings {budova}
+    schools {škola}
+    continents {kontinent}
   }`,
-    'encyclopedia.create.header': `Vytvořit nový {category, select,
+    'encyclopedia.create.header': `Vytvoření nového {category, select,
     character {postava}
     event {událost}
     group {skupina}
@@ -76,6 +96,16 @@ export default {
     species {druh}
     technologies {technologie}
     families {rodina}
+    jobs {zaměstnání}
+    lore {pověst}
+    vehicles {vozidlo}
+    diseases {nemoc}
+    traditions {tradice}
+    sports {sport}
+    landmarks {památka}
+    buildings {budova}
+    schools {škola}
+    continents {kontinent}
   } v {universe}`,
     'encyclopedia.entry.category': `Kategorie přihlášek: {category, select,
     character {Postava}
@@ -87,7 +117,7 @@ export default {
     state {Stát}
     governments {Vláda}
     languages {Jazyk}
-    creatures {Tvor}
+    creatures {Stvoření}
     deity {Božstvo}
     religions {Náboženství}
     flora {Flóra}
@@ -96,6 +126,16 @@ export default {
     species {Druh}
     technologies {Technologie}
     families {Rodina}
+    jobs {Práce}
+    lore {Pověst}
+    vehicles {Vozidlo}
+    diseases {Nemoc}
+    traditions {Tradice}
+    sports {Sport}
+    landmarks {Pamětihodnost}
+    buildings {Budova}
+    schools {Škola}
+    continents {Kontinent}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Přidat nové pole',
