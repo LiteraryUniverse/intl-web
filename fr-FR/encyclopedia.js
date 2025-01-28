@@ -24,6 +24,16 @@ export default {
     'encyclopedia.category.species': 'Espèces',
     'encyclopedia.category.technologies': 'Technologies',
     'encyclopedia.category.families': 'Familles',
+    'encyclopedia.category.jobs': 'Emplois',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Véhicules',
+    'encyclopedia.category.diseases': 'Maladies',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.landmarks': 'Points de repère',
+    'encyclopedia.category.buildings': 'Bâtiments',
+    'encyclopedia.category.schools': 'Les écoles',
+    'encyclopedia.category.continents': 'Continents',
     'encyclopedia.search.found': `{results, plural,
     =0 {Aucune entrée liée}
     one {1 entrée liée}
@@ -55,6 +65,16 @@ export default {
     species {espèce}
     technologies {technologie}
     families {famille}
+    jobs {emploi}
+    lore {tradition}
+    vehicles {véhicule}
+    diseases {maladie}
+    traditions {tradition}
+    sports {sport}
+    landmarks {point de repère}
+    buildings {bâtiment}
+    schools {école}
+    continents {continent}
   }`,
     'encyclopedia.create.header': `Créer un nouveau {category, select,
     character {personnage}
@@ -75,7 +95,17 @@ export default {
     species {espèce}
     technologies {technologie}
     families {famille}
-  } dans {universe}`,
+    jobs {emploi}
+    lore {tradition}
+    vehicles {véhicule}
+    diseases {maladie}
+    traditions {tradition}
+    sports {sport}
+    landmarks {point de repère}
+    buildings {bâtiment}
+    schools {école}
+    continents {continent}
+  } in {universe}`,
     'encyclopedia.entry.category': `Catégorie d'entrée : {category, select,
     character {Personnage}
     event {Evénement}
@@ -95,6 +125,16 @@ export default {
     species {Espèce}
     technologies {Technologie}
     families {Famille}
+    jobs {Métier}
+    lore {Lore}
+    vehicles {Véhicule}
+    diseases {Maladie}
+    traditions {Tradition}
+    sports {Sport}
+    landmarks {Repère}
+    buildings {Bâtiment}
+    schools {Ecole}
+    continents {Continent}
   }`,
     'encyclopedia.entry.category.legend': 'Catégorie',
     'encyclopedia.fields.add': 'Ajouter un nouveau champ',
