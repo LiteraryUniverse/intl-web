@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'ri baktu kevna ckupau se cmene',
   'personalNotes.chapter': 'ckupau',
   'personalNotes.recentSearches': 'ricfu ckupau bei',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };
