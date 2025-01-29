@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': '病気',
     'encyclopedia.category.traditions': '伝統',
     'encyclopedia.category.sports': 'スポーツ',
+    'encyclopedia.category.food': 'フード',
     'encyclopedia.category.landmarks': 'ランドマーク',
     'encyclopedia.category.buildings': '建物',
     'encyclopedia.category.schools': '学校',
@@ -72,6 +73,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -105,6 +107,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -114,7 +117,7 @@ export default {
     towns {town}
     cities {city}
   } in {universe}`,
-    'encyclopedia.entry.category': `カテゴリー {category, select,
+    'encyclopedia.entry.category': `エントリーカテゴリー {category, select,
     character {キャラクター}
     event {イベント}
     group {グループ}
@@ -138,6 +141,7 @@ export default {
     vehicles {乗り物}
     diseases {病気}
     traditions {伝統}
+    food {食べ物}
     sports {スポーツ}
     landmarks {ランドマーク}
     buildings {建物}
