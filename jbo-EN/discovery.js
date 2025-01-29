@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': '.i loi traji plinynoi danfu ku\'o',
     'discovery.readFromStart': '.i lo nu se tamsmi lo plinynoi danfu',
     'discovery.readLatest': '.i lo nu se tamsmi lo sui\'i danfu lo plinynoi danfu',
-    'discovery.author': '.i lo skicu'
+    'discovery.author': '.i lo skicu',
+    'discovery.aiGenerated': 'AI Generated'
 };
