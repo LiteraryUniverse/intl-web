@@ -64,4 +64,5 @@ export default {
   'discovery.readFromStart': 'Read from first chapter',
   'discovery.readLatest': 'Read the latest chapter',
   'discovery.author': 'Author',
+  'discovery.aiGenerated': 'AI Generated',
 }
