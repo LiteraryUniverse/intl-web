@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Budovy',
     'encyclopedia.category.schools': 'Školy',
     'encyclopedia.category.continents': 'Kontinenty',
+    'encyclopedia.category.villages': 'Dediny',
+    'encyclopedia.category.towns': 'Mestá',
+    'encyclopedia.category.cities': 'Mestá',
     'encyclopedia.search.found': `{results, plural,
     =0 {Žiadne súvisiace položky}
     one {Nájdené 1 súvisiace položky}
@@ -76,6 +79,9 @@ export default {
     buildings {budova}
     schools {škola}
     continents {kontinent}
+    villages {dediny}
+    towns {mestá}
+    cities {mestá}
   }`,
     'encyclopedia.create.header': `Vytvorenie nového {category, select,
     character {postava}
@@ -106,6 +112,9 @@ export default {
     buildings {budova}
     schools {škola}
     continents {kontinent}
+    villages {obec}
+    towns {mesto}
+    cities {mesto}
   } v {universe}`,
     'encyclopedia.entry.category': `Kategória prihlášok: {category, select,
     character {Postava}
@@ -117,7 +126,7 @@ export default {
     state {Štát}
     governments {Vláda}
     languages {Jazyk}
-    creatures {Stvorenie}
+    creatures {Tvor}
     deity {Božstvo}
     religions {Náboženstvo}
     flora {Flóra}
@@ -132,10 +141,13 @@ export default {
     diseases {Choroba}
     traditions {Tradícia}
     sports {Šport}
-    landmarks {Medzník}
+    landmarks {Pamätník}
     buildings {Budova}
     schools {Škola}
     continents {Kontinent}
+    villages {Obec}
+    towns {Mesto}
+    cities {Mesto}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Pridať nové pole',
