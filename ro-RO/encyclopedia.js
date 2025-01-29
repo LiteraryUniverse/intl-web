@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Clădiri',
     'encyclopedia.category.schools': 'școli',
     'encyclopedia.category.continents': 'Continente',
+    'encyclopedia.category.villages': 'Sate',
+    'encyclopedia.category.towns': 'Orașe',
+    'encyclopedia.category.cities': 'Orașe',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nicio intrare asociată}
     one {1 intrare asociată}
@@ -75,6 +78,9 @@ export default {
     buildings {clădire}
     schools {școală}
     continents {continent}
+    villages {sate}
+    towns {orașe}
+    cities {orașe}
   }`,
     'encyclopedia.create.header': `Crearea unui nou {category, select,
     character {personaj}
@@ -105,6 +111,9 @@ export default {
     buildings {clădire}
     schools {școală}
     continents {continent}
+    villages {sat}
+    towns {oraș}
+    cities {oraș}
   } în {universe}`,
     'encyclopedia.entry.category': `Categoria de intrare: {category, select,
     character {Personaj}
@@ -121,7 +130,7 @@ export default {
     religions {Religie}
     flora {Flora}
     magic {Magie}
-    planets {Planeta}
+    planets {Planetă}
     species {Specie}
     technologies {Tehnologie}
     families {Familie}
@@ -135,6 +144,9 @@ export default {
     buildings {Clădire}
     schools {Școală}
     continents {Continent}
+    villages {sat}
+    towns {oraș}
+    cities {oraș}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Adăugați un câmp nou',
