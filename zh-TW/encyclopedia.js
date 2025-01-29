@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': '疾病',
     'encyclopedia.category.traditions': '傳統',
     'encyclopedia.category.sports': '運動',
+    'encyclopedia.category.food': '食物',
     'encyclopedia.category.landmarks': '地標',
     'encyclopedia.category.buildings': '建築物',
     'encyclopedia.category.schools': '學校',
@@ -73,6 +74,7 @@ export default {
     vehicles {車輛}
     diseases {疾病}
     traditions {傳統}
+    food {食物}
     sports {運動}
     landmarks {地標}
     buildings {建築}
@@ -82,23 +84,23 @@ export default {
     towns {鄉鎮}
     cities {城市}
   }`,
-    'encyclopedia.create.header': `建立新 {category, select,
-    character {角色}
-    event {事件}
-    group {群體}
-    item {物品}
-    location {位置}
-    other {註釋}
-    state {州}
-    governments {政府}
-    languages {語言}
-    creatures {生物}
-    deity {神明}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {行星}
-    species {種類 ~ ~ 科技 ~ ~ 家族 ~ ~ 工作 ~ ~ 傳說 ~ ~ 車輛 ~ ~ 疾病 ~ ~ 傳統 ~ ~ 運動 ~ ~ 地標 ~ ~ 建築 ~ ~ 傳統 ~ ~ 運動 ~ ~ 植物種}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {種}
     technologies {科技}
     families {家庭}
     jobs {工作}
@@ -106,6 +108,7 @@ export default {
     vehicles {車輛}
     diseases {疾病}
     traditions {傳統}
+    food {食物}
     sports {運動}
     landmarks {地標}
     buildings {建築}
@@ -139,12 +142,13 @@ export default {
     vehicles {車輛}
     diseases {疾病}
     traditions {傳統}
+    food {食物}
     sports {運動}
     landmarks {地標}
     buildings {建築}
     schools {學校}
     continents {大陸}
-    villages {鄉村}
+    villages {村莊}
     towns {鎮}
     cities {城市}
   }`,
