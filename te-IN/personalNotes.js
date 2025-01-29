@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'మరియున్న సంశోధన టెక్స్ట్ బ్లాక్',
   'personalNotes.chapter': 'అధ్యాయం',
   'personalNotes.recentSearches': 'ఇటీవల శోధనలు:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };
