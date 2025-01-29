@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'সম্পূর্ণ গল্পে মোট অধ্যায়ের সংখ্যা',
     'discovery.readFromStart': 'প্রথম অধ্যায় থেকে পড়ুন',
     'discovery.readLatest': 'সর্বশেষ অধ্যায় পড়ুন',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };
