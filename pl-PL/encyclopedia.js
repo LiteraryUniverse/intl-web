@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Choroby',
     'encyclopedia.category.traditions': 'Tradycje',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Żywność',
     'encyclopedia.category.landmarks': 'Punkty orientacyjne',
     'encyclopedia.category.buildings': 'Budynki',
     'encyclopedia.category.schools': 'Szkoły',
@@ -51,23 +52,23 @@ export default {
     'encyclopedia.add.title': 'Dodaj nowy wpis do encyklopedii',
     'encyclopedia.add.heading': 'Co chciałbyś dodać?',
     'encyclopedia.add.moresoon': 'Więcej kategorii już wkrótce!',
-    'encyclopedia.create': `Stwórz nową {category, select,
-    character {postać}
-    event {wydarzenie}
-    group {grupę}
-    item {przedmiot}
-    location {lokalizację}
-    other {notatkę}
-    state {stan}
-    governments {rząd}
-    languages {język}
-    creatures {stworzenie}
-    deity {bóstwo}
-    religions {religię}
-    flora {florę}
-    magic {magię}
-    planets {planetę}
-    species {gatunek ~ ~ technologię ~ ~ rodzinę ~ ~ pracę ~ ~ wiedzę ~ ~ ~ bóstwo ~ ~ religię ~ ~ florę ~ ~ magię ~ ~ planetę ~  gatunek}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {gatunek}
     technologies {technologia}
     families {rodzina}
     jobs {praca}
@@ -75,6 +76,7 @@ export default {
     vehicles {pojazd}
     diseases {choroba}
     traditions {tradycja}
+    food {jedzenie}
     sports {sport}
     landmarks {punkt orientacyjny}
     buildings {budynek}
@@ -84,23 +86,23 @@ export default {
     towns {miasteczka}
     cities {miasta}
   }`,
-    'encyclopedia.create.header': `Tworzenie nowego {category, select,
-    character {postać}
-    event {wydarzenie}
-    group {grupa}
-    item {przedmiot}
-    location {lokalizacja}
-    other {notatka}
-    state {stan}
-    governments {rząd}
-    languages {język}
-    creatures {stworzenie}
-    deity {bóstwo}
-    religions {religia}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
     flora {flora}
-    magic {magia}
-    planets {planeta}
-    species {gatunek ~ ~ technologia ~ ~ rodzina ~ ~ praca ~ ~ wiedza ~ ~ ~ bóstwo ~ ~ religia ~ ~ flora ~ ~ magia ~ ~ planeta ~  gatunek}
+    magic {magic}
+    planets {planet}
+    species {gatunek}
     technologies {technologia}
     families {rodzina}
     jobs {praca}
@@ -108,6 +110,7 @@ export default {
     vehicles {pojazd}
     diseases {choroba}
     traditions {tradycja}
+    food {jedzenie}
     sports {sport}
     landmarks {punkt orientacyjny}
     buildings {budynek}
@@ -141,6 +144,7 @@ export default {
     vehicles {Pojazd}
     diseases {Choroba}
     traditions {Tradycja}
+    food {Jedzenie}
     sports {Sport}
     landmarks {Punkt orientacyjny}
     buildings {Budynek}
