@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Binalar',
     'encyclopedia.category.schools': 'Okullar',
     'encyclopedia.category.continents': 'Kıtalar',
+    'encyclopedia.category.villages': 'Köyler',
+    'encyclopedia.category.towns': 'Kasabalar',
+    'encyclopedia.category.cities': 'Şehirler',
     'encyclopedia.search.found': `{results, plural,
     =0 {İlgili giriş bulunamadı}
     one {1 ilgili giriş bulundu}
@@ -48,9 +51,9 @@ export default {
     'encyclopedia.add.moresoon': 'Daha fazla kategori yakında gelecek!',
     'encyclopedia.create': `Yeni bir {category, select,
     character {karakter}
-    event {etkinlik}
+    event {olay}
     group {grup}
-    item {öğe}
+    item {eşya}
     location {konum}
     other {not}
     state {eyalet}
@@ -59,10 +62,10 @@ export default {
     creatures {yaratık}
     deity {tanrı}
     religions {din}
-    flora {bitki örtüsü}
-    magic {oluşturun büyü}
+    flora {flora}
+    magic {büyü}
     planets {gezegen}
-    species {tür}
+    species {oluşturun tür}
     technologies {teknoloji}
     families {aile}
     jobs {iş}
@@ -71,10 +74,13 @@ export default {
     diseases {hastalık}
     traditions {gelenek}
     sports {spor}
-    landmarks {dönüm noktası}
+    landmarks {simge}
     buildings {bina}
     schools {okul}
     continents {kıta}
+    villages {köyler}
+    towns {kasabalar}
+    cities {şehirler}
   }`,
     'encyclopedia.create.header': `Yeni bir {category, select,
     character {karakter}
@@ -101,11 +107,14 @@ export default {
     diseases {hastalık}
     traditions {gelenek}
     sports {spor}
-    landmarks {dönüm noktası}
+    landmarks {simge}
     buildings {bina}
     schools {okul}
     continents {kıta}
-  } {universe}içinde`,
+    villages {köy}
+    towns {kasaba}
+    cities {şehir}
+  } {universe}'da`,
     'encyclopedia.entry.category': `Giriş kategorisi: {category, select,
     character {Karakter}
     event {Olay}
@@ -135,6 +144,9 @@ export default {
     buildings {Bina}
     schools {Okul}
     continents {Kıta}
+    villages {köy}
+    towns {kasaba}
+    cities {şehir}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Yeni bir alan ekleyin',
