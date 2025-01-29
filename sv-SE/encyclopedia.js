@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Sjukdomar',
     'encyclopedia.category.traditions': 'Traditioner',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Mat',
     'encyclopedia.category.landmarks': 'Landmärken',
     'encyclopedia.category.buildings': 'Byggnader',
     'encyclopedia.category.schools': 'Skolor',
@@ -73,6 +74,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -106,13 +108,14 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
     schools {school}
     continents {continent}
     villages {village}
-    towns {town}
+    towns {village ~ ~ town}
     cities {city}
   } in {universe}`,
     'encyclopedia.entry.category': `Ingångskategori: {category, select,
@@ -139,6 +142,7 @@ export default {
     vehicles {Vehicle}
     diseases {Disease}
     traditions {Tradition}
+    food {Food}
     sports {Sport}
     landmarks {Landmark}
     buildings {Building}
