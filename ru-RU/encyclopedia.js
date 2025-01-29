@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Здания',
     'encyclopedia.category.schools': 'Школы',
     'encyclopedia.category.continents': 'Континенты',
+    'encyclopedia.category.villages': 'Деревни',
+    'encyclopedia.category.towns': 'Города',
+    'encyclopedia.category.cities': 'Города',
     'encyclopedia.search.found': `{results, plural,
     =0 {Нет найденных соответствующих записей}
     one {1 соответствующая запись найдена}
@@ -48,7 +51,7 @@ export default {
     'encyclopedia.add.title': 'Добавить новую запись в энциклопедию',
     'encyclopedia.add.heading': 'Что вы хотите добавить?',
     'encyclopedia.add.moresoon': 'Скоро появятся новые категории!',
-    'encyclopedia.create': `Создайте новый {category, select,
+    'encyclopedia.create': `Создать новый {category, select,
     character {персонаж}
     event {событие}
     group {группа}
@@ -77,6 +80,9 @@ export default {
     buildings {здание}
     schools {школа}
     continents {континент}
+    villages {деревни}
+    towns {города}
+    cities {города}
   }`,
     'encyclopedia.create.header': `Создание нового {category, select,
     character {персонажа}
@@ -93,7 +99,7 @@ export default {
     religions {религии}
     flora {флоры}
     magic {магии}
-    planets {планета}
+    planets {планеты}
     species {вид}
     technologies {технология}
     families {семья}
@@ -107,6 +113,9 @@ export default {
     buildings {здание}
     schools {школа}
     continents {континент}
+    villages {деревня}
+    towns {город}
+    cities {город}
   } в {universe}`,
     'encyclopedia.entry.category': `Категория записи: {category, select,
     character {Персонаж}
@@ -123,21 +132,24 @@ export default {
     religions {Религия}
     flora {Флора}
     magic {Магия}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
-    lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-  }~`,
+    planets {Планета}
+    species {Вид.}
+    technologies {Технология}
+    families {Семья}
+    jobs {Работа}
+    lore {Лор}
+    vehicles {Транспорт}
+    diseases {Болезнь}
+    traditions {Традиция}
+    sports {Спорт}
+    landmarks {Достопримечательность}
+    buildings {Здание}
+    schools {Школа}
+    continents {Континент}
+    villages {Деревня}
+    towns {Город}
+    cities {Город}
+  }`,
     'encyclopedia.entry.category.legend': 'Категория',
     'encyclopedia.fields.add': 'Добавить новое поле',
     'encyclopedia.fields.text': 'Определение',
