@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Malattie',
     'encyclopedia.category.traditions': 'Tradizioni',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Cibo',
     'encyclopedia.category.landmarks': 'Punti di riferimento',
     'encyclopedia.category.buildings': 'Edifici',
     'encyclopedia.category.schools': 'Scuole',
@@ -73,13 +74,14 @@ export default {
     vehicles {veicolo}
     diseases {malattia}
     traditions {tradizione}
+    food {cibo}
     sports {sport}
     landmarks {punto di riferimento}
     buildings {edificio}
     schools {scuola}
     continents {continente}
     villages {villaggi}
-    towns {città}
+    towns {paesi}
     cities {città}
   }`,
     'encyclopedia.create.header': `Creare un nuovo {category, select,
@@ -106,6 +108,7 @@ export default {
     vehicles {veicolo}
     diseases {malattia}
     traditions {tradizione}
+    food {cibo}
     sports {sport}
     landmarks {punto di riferimento}
     buildings {edificio}
@@ -139,6 +142,7 @@ export default {
     vehicles {Veicolo}
     diseases {Malattia}
     traditions {Tradizione}
+    food {Cibo}
     sports {Sport}
     landmarks {Punto di riferimento}
     buildings {Edificio}
