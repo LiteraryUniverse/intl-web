@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Hooned',
     'encyclopedia.category.schools': 'Koolid',
     'encyclopedia.category.continents': 'Kontinendid',
+    'encyclopedia.category.villages': 'Külad',
+    'encyclopedia.category.towns': 'Linnad',
+    'encyclopedia.category.cities': 'Linnad',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei leitud seotud kirjeid}
     one {1 seotud kirje}
@@ -60,24 +63,27 @@ export default {
     deity {jumalus}
     religions {religioon}
     flora {taimestik}
-    magic {magic}
-    planets {planet}
+    magic {maagia}
+    planets {planeet}
     species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
+    technologies {tehnoloogia}
+    families {perekond}
+    jobs {töö}
+    lore {pärimus}
+    vehicles {sõiduk}
+    diseases {haigus}
+    traditions {traditsioon}
     sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
+    landmarks {maamärk}
+    buildings {hoone}
+    schools {kool}
+    continents {kontinent}
+    villages {külad}
+    towns {linnad}
+    cities {linnad}
   }`,
-    'encyclopedia.create.header': `Uue looma {category, select,
-    character {tegelane}
+    'encyclopedia.create.header': `Uue {category, select,
+    character {tegelase loomine}
     event {sündmus}
     group {rühm}
     item {ese}
@@ -92,7 +98,7 @@ export default {
     flora {taimestik}
     magic {maagia}
     planets {planeet}
-    species {liik}
+    species {specie}
     technologies {tehnoloogia}
     families {perekond}
     jobs {töö}
@@ -105,6 +111,9 @@ export default {
     buildings {hoone}
     schools {kool}
     continents {kontinent}
+    villages {küla}
+    towns {linn}
+    cities {linn}
   } in {universe}`,
     'encyclopedia.entry.category': `Sisenemiskategooria: {category, select,
     character {Tegelane}
@@ -119,7 +128,7 @@ export default {
     creatures {Olend}
     deity {Jumalus}
     religions {Religioon}
-    flora {Taimestik}
+    flora {Flora}
     magic {Maagia}
     planets {Planeet}
     species {Liik}
@@ -135,6 +144,9 @@ export default {
     buildings {Hoone}
     schools {Kool}
     continents {Kontinent}
+    villages {küla}
+    towns {linn}
+    cities {linn}
   }`,
     'encyclopedia.entry.category.legend': 'Kategooria',
     'encyclopedia.fields.add': 'Lisa uus väli',
