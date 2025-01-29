@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Boli',
     'encyclopedia.category.traditions': 'Tradiții',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Alimente',
     'encyclopedia.category.landmarks': 'Repere',
     'encyclopedia.category.buildings': 'Clădiri',
     'encyclopedia.category.schools': 'școli',
@@ -73,6 +74,7 @@ export default {
     vehicles {vehicul}
     diseases {boală}
     traditions {tradiție}
+    food {mâncare}
     sports {sport}
     landmarks {reper}
     buildings {clădire}
@@ -106,6 +108,7 @@ export default {
     vehicles {vehicul}
     diseases {boală}
     traditions {tradiție}
+    food {mâncare}
     sports {sport}
     landmarks {reper}
     buildings {clădire}
@@ -139,8 +142,9 @@ export default {
     vehicles {Vehicul}
     diseases {Boală}
     traditions {Tradiție}
+    food {Hrană}
     sports {Sport}
-    landmarks {Landmark}
+    landmarks {Reper}
     buildings {Clădire}
     schools {Școală}
     continents {Continent}
