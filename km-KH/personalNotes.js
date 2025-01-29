@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'ប្រការ២កែប្រែអត្ថបទ',
   'personalNotes.chapter': 'ជំពូក',
   'personalNotes.recentSearches': 'លទ្ធផលស្វែងរកថ្មីៗ៖',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };
