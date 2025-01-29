@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Sygdomme',
     'encyclopedia.category.traditions': 'Traditioner',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Fødevarer',
     'encyclopedia.category.landmarks': 'Landemærker',
     'encyclopedia.category.buildings': 'Bygninger',
     'encyclopedia.category.schools': 'Skoler',
@@ -73,6 +74,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -106,6 +108,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -139,6 +142,7 @@ export default {
     vehicles {Vehicle}
     diseases {Disease}
     traditions {Tradition}
+    food {Food}
     sports {Sport}
     landmarks {Landmark}
     buildings {Building}
