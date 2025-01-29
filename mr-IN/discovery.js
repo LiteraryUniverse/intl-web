@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'कहाणीतील एकूण अध्यायांची संख्या',
     'discovery.readFromStart': 'पहील्या अध्यायापासून वाचा',
     'discovery.readLatest': 'नवीनतम अध्याय वाचा',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };
