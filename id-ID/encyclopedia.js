@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Penyakit',
     'encyclopedia.category.traditions': 'Tradisi',
     'encyclopedia.category.sports': 'Olahraga',
+    'encyclopedia.category.food': 'Makanan',
     'encyclopedia.category.landmarks': 'Tengara',
     'encyclopedia.category.buildings': 'Bangunan',
     'encyclopedia.category.schools': 'Sekolah',
@@ -73,6 +74,7 @@ export default {
     vehicles {kendaraan}
     diseases {penyakit}
     traditions {tradisi}
+    food {makanan}
     sports {olahraga}
     landmarks {tengara}
     buildings {bangunan}
@@ -95,7 +97,7 @@ export default {
     creatures {makhluk}
     deity {dewa}
     religions {agama}
-    flora {flora}
+    flora {tumbuhan}
     magic {sihir}
     planets {planet}
     species {spesies}
@@ -106,6 +108,7 @@ export default {
     vehicles {kendaraan}
     diseases {penyakit}
     traditions {tradisi}
+    food {makanan}
     sports {olahraga}
     landmarks {tengara}
     buildings {bangunan}
@@ -139,6 +142,7 @@ export default {
     vehicles {Kendaraan}
     diseases {Penyakit}
     traditions {Tradisi}
+    food {Makanan}
     sports {Olahraga}
     landmarks {Tengara}
     buildings {Bangunan}
