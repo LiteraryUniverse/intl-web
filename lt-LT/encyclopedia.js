@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Ligos',
     'encyclopedia.category.traditions': 'Tradicijos',
     'encyclopedia.category.sports': 'Sportas',
+    'encyclopedia.category.food': 'Maistas',
     'encyclopedia.category.landmarks': 'Orientyrai',
     'encyclopedia.category.buildings': 'Pastatai',
     'encyclopedia.category.schools': 'Mokyklos',
@@ -73,6 +74,7 @@ export default {
     vehicles {transporto priemonė}
     diseases {liga}
     traditions {tradicija}
+    food {maistas}
     sports {sportas}
     landmarks {įžymybė}
     buildings {pastatas}
@@ -106,6 +108,7 @@ export default {
     vehicles {transporto priemonė}
     diseases {liga}
     traditions {tradicija}
+    food {maistas}
     sports {sportas}
     landmarks {įžymybė}
     buildings {pastatas}
@@ -139,15 +142,16 @@ export default {
     vehicles {Transporto priemonė}
     diseases {Liga}
     traditions {Tradicija}
+    food {Maistas}
     sports {Sportas}
-    landmarks {Paminklas}
+    landmarks {Įžymybė}
     buildings {Pastatas}
     schools {Mokykla}
     continents {Žemynas}
     villages {kaimas}
     towns {miestas}
     cities {miestas}
-  }`,
+  }~`,
     'encyclopedia.entry.category.legend': 'Kategorija',
     'encyclopedia.fields.add': 'Pridėkite naują lauką',
     'encyclopedia.fields.text': 'Apibrėžimas',
