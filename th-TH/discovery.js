@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'จำนวนบททั้งหมดในเรื่อง',
     'discovery.readFromStart': 'อ่านตั้งแต่ตอนแรก',
     'discovery.readLatest': 'อ่านตอนล่าสุด',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };
