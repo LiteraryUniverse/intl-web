@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Hastalıklar',
     'encyclopedia.category.traditions': 'Gelenekler',
     'encyclopedia.category.sports': 'Spor',
+    'encyclopedia.category.food': 'Yemek',
     'encyclopedia.category.landmarks': 'Simgesel Yapılar',
     'encyclopedia.category.buildings': 'Binalar',
     'encyclopedia.category.schools': 'Okullar',
@@ -73,6 +74,7 @@ export default {
     vehicles {araç}
     diseases {hastalık}
     traditions {gelenek}
+    food {yemek}
     sports {spor}
     landmarks {simge}
     buildings {bina}
@@ -106,6 +108,7 @@ export default {
     vehicles {araç}
     diseases {hastalık}
     traditions {gelenek}
+    food {yemek}
     sports {spor}
     landmarks {simge}
     buildings {bina}
@@ -114,7 +117,7 @@ export default {
     villages {köy}
     towns {kasaba}
     cities {şehir}
-  } {universe}'da`,
+  } {universe}'de`,
     'encyclopedia.entry.category': `Giriş kategorisi: {category, select,
     character {Karakter}
     event {Olay}
@@ -135,10 +138,11 @@ export default {
     technologies {Teknoloji}
     families {Aile}
     jobs {İş}
-    lore {İlim}
+    lore {İrfan}
     vehicles {Araç}
     diseases {Hastalık}
     traditions {Gelenek}
+    food {Yemek}
     sports {Spor}
     landmarks {Simgesel Yapı}
     buildings {Bina}
