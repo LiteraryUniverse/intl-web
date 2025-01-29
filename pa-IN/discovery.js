@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'ਕਹਾਣੀ ਵਿੱਚ ਕੁੱਲ ਅਧਾਇਆਂ ਦੀ ਗਿਣਤੀ',
     'discovery.readFromStart': 'ਪਹਿਲੇ ਚੈਪਟਰ ਤੋਂ ਪੜ੍ਹੋ',
     'discovery.readLatest': 'ਤਾਜ਼ਾਤਰੀਨ ਚੈਪਟਰ ਤੋਂ ਪੜ੍ਹੋ',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };
