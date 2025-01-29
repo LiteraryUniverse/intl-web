@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Nemoci',
     'encyclopedia.category.traditions': 'Tradice',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Potraviny',
     'encyclopedia.category.landmarks': 'Památky',
     'encyclopedia.category.buildings': 'Budovy',
     'encyclopedia.category.schools': 'Školy',
@@ -74,6 +75,7 @@ export default {
     vehicles {vozidlo}
     diseases {nemoc}
     traditions {tradice}
+    food {jídlo}
     sports {sport}
     landmarks {památka}
     buildings {budova}
@@ -103,10 +105,11 @@ export default {
     technologies {technologie}
     families {rodina}
     jobs {zaměstnání}
-    lore {pověst}
+    lore {pověsti}
     vehicles {vozidlo}
     diseases {nemoc}
     traditions {tradice}
+    food {jídlo}
     sports {sport}
     landmarks {památka}
     buildings {budova}
@@ -140,6 +143,7 @@ export default {
     vehicles {Vozidlo}
     diseases {Nemoc}
     traditions {Tradice}
+    food {Jídlo}
     sports {Sport}
     landmarks {Pamětihodnost}
     buildings {Budova}
