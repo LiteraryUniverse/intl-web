@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Pastatai',
     'encyclopedia.category.schools': 'Mokyklos',
     'encyclopedia.category.continents': 'Žemynai',
+    'encyclopedia.category.villages': 'Kaimai',
+    'encyclopedia.category.towns': 'Miestai',
+    'encyclopedia.category.cities': 'Miestai',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nėra susijusių įrašų}
     one {1 susijęs įrašas}
@@ -60,13 +63,13 @@ export default {
     deity {dievybę}
     religions {religiją}
     flora {florą}
-    magic {magija}
-    planets {planeta}
+    magic {magiją}
+    planets {planetą}
     species {rūšis}
     technologies {technologija}
     families {šeima}
     jobs {darbas}
-    lore {legendos}
+    lore {žinynas}
     vehicles {transporto priemonė}
     diseases {liga}
     traditions {tradicija}
@@ -75,6 +78,9 @@ export default {
     buildings {pastatas}
     schools {mokykla}
     continents {žemynas}
+    villages {kaimai}
+    towns {miestai}
+    cities {miestai}
   }`,
     'encyclopedia.create.header': `Kurti naują {category, select,
     character {veikėją}
@@ -91,12 +97,12 @@ export default {
     religions {religiją}
     flora {florą}
     magic {magiją}
-    planets {planeta}
+    planets {planetą}
     species {rūšis}
     technologies {technologija}
     families {šeima}
     jobs {darbas}
-    lore {legendos}
+    lore {žinynas}
     vehicles {transporto priemonė}
     diseases {liga}
     traditions {tradicija}
@@ -105,6 +111,9 @@ export default {
     buildings {pastatas}
     schools {mokykla}
     continents {žemynas}
+    villages {kaimas}
+    towns {miestas}
+    cities {miestas}
   } in {universe}`,
     'encyclopedia.entry.category': `Įrašo kategorija: {category, select,
     character {Personažas}
@@ -131,10 +140,13 @@ export default {
     diseases {Liga}
     traditions {Tradicija}
     sports {Sportas}
-    landmarks {Orientyras}
+    landmarks {Paminklas}
     buildings {Pastatas}
     schools {Mokykla}
     continents {Žemynas}
+    villages {kaimas}
+    towns {miestas}
+    cities {miestas}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorija',
     'encyclopedia.fields.add': 'Pridėkite naują lauką',
