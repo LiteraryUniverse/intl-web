@@ -66,5 +66,6 @@ export default {
     'discovery.chaptersTotal': 'Liczba wszystkich rozdziałów w opowiadaniu',
     'discovery.readFromStart': 'Czytaj od pierwszego rozdziału',
     'discovery.readLatest': 'Czytaj najnowszy rozdział',
-    'discovery.author': 'Autor'
+    'discovery.author': 'Autor',
+    'discovery.aiGenerated': 'Generowane przez sztuczną inteligencję'
 };
