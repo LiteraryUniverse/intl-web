@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Bygninger',
     'encyclopedia.category.schools': 'Skoler',
     'encyclopedia.category.continents': 'Kontinenter',
+    'encyclopedia.category.villages': 'Landsbyer',
+    'encyclopedia.category.towns': 'Byer',
+    'encyclopedia.category.cities': 'Byer',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ingen relaterede indlæg}
     one {1 relateret indlæg}
@@ -47,17 +50,17 @@ export default {
     'encyclopedia.add.heading': 'Hvad ønsker du at tilføje?',
     'encyclopedia.add.moresoon': 'Flere kategorier kommer snart!',
     'encyclopedia.create': `Opret en ny {category, select,
-    character {karakter}
-    event {begivenhed}
-    group {gruppe}
-    item {genstand}
-    location {sted}
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
     other {note}
-    state {stat}
-    governments {regering}
-    languages {sprog}
-    creatures {væsen}
-    deity {guddom}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
     religions {religion}
     flora {flora}
     magic {magic}
@@ -75,22 +78,25 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Oprettelse af en ny {category, select,
-    character {karakter}
-    event {begivenhed}
-    group {gruppe}
-    item {genstand}
-    location {sted}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
     other {note}
-    state {stat}
-    governments {regering}
-    languages {sprog}
-    creatures {væsen}
-    deity {guddom}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
     religions {religion}
     flora {flora}
-    magic {magi}
+    magic {magic}
     planets {planet}
     species {specie}
     technologies {technology}
@@ -105,22 +111,25 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
     'encyclopedia.entry.category': `Indtastningskategori: {category, select,
-    character {Karakter}
-    event {Begivenhed}
-    group {Gruppe}
-    item {Genstand}
-    location {Sted}
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
     other {Note}
-    state {Stat}
-    governments {Regering}
-    languages {Sprog}
-    creatures {Væsen}
-    deity {Guddom}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
     religions {Religion}
     flora {Flora}
-    magic {Magi}
+    magic {Magic}
     planets {Planet}
     species {Specie}
     technologies {Technology}
@@ -135,6 +144,9 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tilføj en ny felt',
