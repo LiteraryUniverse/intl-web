@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Betegségek',
     'encyclopedia.category.traditions': 'Hagyományok',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Élelmiszer',
     'encyclopedia.category.landmarks': 'Látnivalók',
     'encyclopedia.category.buildings': 'Épületek',
     'encyclopedia.category.schools': 'Iskolák',
@@ -73,6 +74,7 @@ export default {
     vehicles {jármű}
     diseases {betegség}
     traditions {hagyomány}
+    food {étel}
     sports {sport}
     landmarks {nevezetesség}
     buildings {épület}
@@ -87,7 +89,7 @@ export default {
     event {esemény}
     group {csoport}
     item {tárgy}
-    location {hely}
+    location {helyszín}
     other {jegyzet}
     state {állam}
     governments {kormány}
@@ -106,6 +108,7 @@ export default {
     vehicles {jármű}
     diseases {betegség}
     traditions {hagyomány}
+    food {étel}
     sports {sport}
     landmarks {nevezetesség}
     buildings {épület}
@@ -121,7 +124,7 @@ export default {
     group {Csoport}
     item {Tárgy}
     location {Helyszín}
-    other {Jegyzet}
+    other {Megjegyzés}
     state {Állam}
     governments {Kormány}
     languages {Nyelv}
@@ -139,6 +142,7 @@ export default {
     vehicles {Vehicle}
     diseases {Disease}
     traditions {Tradition}
+    food {Food}
     sports {Sport}
     landmarks {Landmark}
     buildings {Building}
