@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Ziekten',
     'encyclopedia.category.traditions': 'Tradities',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Voedsel',
     'encyclopedia.category.landmarks': 'Bezienswaardigheden',
     'encyclopedia.category.buildings': 'Gebouwen',
     'encyclopedia.category.schools': 'Scholen',
@@ -55,7 +56,7 @@ export default {
     group {groep}
     item {voorwerp}
     location {locatie}
-    other {notitie}
+    other {opmerking}
     state {staat}
     governments {overheid}
     languages {taal}
@@ -65,7 +66,7 @@ export default {
     flora {flora}
     magic {magie}
     planets {planeet}
-    species {specie ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ~ ziekte ~ ~ traditie ~ ~ sport ~ ~ bezienswaardigheid ~ ~ ziekte ~  soort}
+    species {specie ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ~ ziekte ~ ~ traditie ~ ~ voedsel ~ ~ sport ~ ~ voertuig soort}
     technologies {technologie}
     families {familie}
     jobs {baan}
@@ -73,8 +74,9 @@ export default {
     vehicles {voertuig}
     diseases {ziekte}
     traditions {traditie}
+    food {voedsel}
     sports {sport}
-    landmarks {mijlpaal}
+    landmarks {oriëntatiepunt}
     buildings {gebouw}
     schools {school}
     continents {continent}
@@ -98,7 +100,7 @@ export default {
     flora {flora}
     magic {magie}
     planets {planeet}
-    species {soort}
+    species {soort ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ziekte ~ ~ traditie ~ ~ voedsel ~ ~ sport ~ ~ landmark ~  soort}
     technologies {technologie}
     families {familie}
     jobs {baan}
@@ -106,6 +108,7 @@ export default {
     vehicles {voertuig}
     diseases {ziekte}
     traditions {traditie}
+    food {voedsel}
     sports {sport}
     landmarks {bezienswaardigheid}
     buildings {gebouw}
@@ -139,6 +142,7 @@ export default {
     vehicles {Voertuig}
     diseases {Ziekte}
     traditions {Traditie}
+    food {Voedsel}
     sports {Sport}
     landmarks {Bezienswaardigheid}
     buildings {Gebouw}
