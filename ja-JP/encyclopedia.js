@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': '建物',
     'encyclopedia.category.schools': '学校',
     'encyclopedia.category.continents': '大陸',
+    'encyclopedia.category.villages': '村々',
+    'encyclopedia.category.towns': 'タウンズ',
+    'encyclopedia.category.cities': '都市',
     'encyclopedia.search.found': `{results, plural,
     =0 {関連エントリが見つかりません。}
     other {#件の関連エントリーが見つかりました。}
@@ -59,9 +62,9 @@ export default {
     deity {deity}
     religions {religion}
     flora {flora}
-    magic {.magic}
+    magic {magic}
     planets {planet}
-    species {specie}
+    species {.specie}
     technologies {technology}
     families {family}
     jobs {job}
@@ -74,7 +77,10 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
-  }.`,
+    villages {villages}
+    towns {towns}
+    cities {cities}
+  }`,
     'encyclopedia.create.header': `Creating new {category, select,
     character {character}
     event {event}
@@ -90,22 +96,25 @@ export default {
     religions {religion}
     flora {flora}
     magic {magic}
-    planets {惑星}
-    species {種}
-    technologies {技術}
-    families {家族}
-    jobs {仕事}
-    lore {言い伝え}
-    vehicles {乗り物}
-    diseases {病気}
-    traditions {伝統}
-    sports {スポーツ}
-    landmarks {ランドマーク}
-    buildings {建物}
-    schools {学校}
-    continents {大陸}
+    planets {planet}
+    species {.specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
-    'encyclopedia.entry.category': `エントリーカテゴリー {category, select,
+    'encyclopedia.entry.category': `カテゴリー {category, select,
     character {キャラクター}
     event {イベント}
     group {グループ}
@@ -120,21 +129,24 @@ export default {
     religions {宗教}
     flora {植物}
     magic {魔法}
-    planets {.Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
-    lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-  }.`,
+    planets {惑星}
+    species {種族}
+    technologies {技術}
+    families {家族}
+    jobs {仕事}
+    lore {言い伝え}
+    vehicles {乗り物}
+    diseases {病気}
+    traditions {伝統}
+    sports {スポーツ}
+    landmarks {ランドマーク}
+    buildings {建物}
+    schools {学校}
+    continents {大陸}
+    villages {村}
+    towns {町}
+    cities {都市}
+  }。`,
     'encyclopedia.entry.category.legend': '記事のカテゴリ',
     'encyclopedia.fields.add': '新しいフィールドを追加する',
     'encyclopedia.fields.text': '定義',
