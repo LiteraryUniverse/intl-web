@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Taudit',
     'encyclopedia.category.traditions': 'Perinteet',
     'encyclopedia.category.sports': 'Urheilu',
+    'encyclopedia.category.food': 'Ruoka',
     'encyclopedia.category.landmarks': 'Maamerkit',
     'encyclopedia.category.buildings': 'Rakennukset',
     'encyclopedia.category.schools': 'Koulut',
@@ -73,6 +74,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -98,22 +100,23 @@ export default {
     flora {kasvisto}
     magic {taikuus}
     planets {planeetta}
-    species {luonti. species}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    species {luonti. laji}
+    technologies {teknologia}
+    families {perhe}
+    jobs {työ}
+    lore {taru}
+    vehicles {ajoneuvo}
+    diseases {tauti}
+    traditions {perinne}
+    food {ruoka}
+    sports {urheilu}
+    landmarks {maamerkki}
+    buildings {rakennus}
+    schools {koulu}
+    continents {maanosa}
+    villages {kylä}
+    towns {kaupunki}
+    cities {kaupunki}
   } in {universe}`,
     'encyclopedia.entry.category': `Osallistumisluokka: {category, select,
     character {Hahmo}
@@ -139,6 +142,7 @@ export default {
     vehicles {Ajoneuvo}
     diseases {Sairaus}
     traditions {Perinne}
+    food {Ruoka}
     sports {Urheilu}
     landmarks {Maamerkki}
     buildings {Rakennus}
