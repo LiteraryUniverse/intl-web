@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Gebäude',
     'encyclopedia.category.schools': 'Schulen',
     'encyclopedia.category.continents': 'Kontinente',
+    'encyclopedia.category.villages': 'Dörfer',
+    'encyclopedia.category.towns': 'Städte',
+    'encyclopedia.category.cities': 'Städte',
     'encyclopedia.search.found': `{results, plural,
     =0 {Keine verwandten Einträge}
     one {1 verwandter Eintrag}
@@ -60,8 +63,8 @@ export default {
     deity {Gottheit}
     religions {Religion}
     flora {Flora}
-    magic {magic}
-    planets {planet}
+    magic {Magie}
+    planets {Planet}
     species {specie}
     technologies {technology}
     families {family}
@@ -75,6 +78,9 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
     'encyclopedia.create.header': `Erstellen eines neuen {category, select,
     character {Charakter}
@@ -91,7 +97,7 @@ export default {
     religions {Religion}
     flora {Flora}
     magic {Magie}
-    planets {planet}
+    planets {Planet}
     species {specie}
     technologies {technology}
     families {family}
@@ -105,6 +111,9 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
     'encyclopedia.entry.category': `Eintragskategorie: {category, select,
     character {Charakter}
@@ -123,18 +132,21 @@ export default {
     magic {Magie}
     planets {Planet}
     species {Spezies}
-    technologies {Technologie}
-    families {Familie}
-    jobs {Beruf}
-    lore {Überlieferung}
-    vehicles {Fahrzeug}
-    diseases {Krankheit}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
     traditions {Tradition}
     sports {Sport}
-    landmarks {Wahrzeichen}
-    buildings {Gebäude}
-    schools {Schule}
-    continents {Kontinent}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Ein neues Feld hinzufügen',
