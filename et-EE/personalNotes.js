@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Parandusteksti plokk',
   'personalNotes.chapter': 'Peatükk',
   'personalNotes.recentSearches': 'Viimased otsingud:',
-  'personalNotes.myNotes': 'Minu isiklikud märkmed'
+  'personalNotes.myNotes': 'Minu isiklikud märkmed',
+  'personalNotes.hasNotes': 'Omab isiklikke märkmeid'
 };
