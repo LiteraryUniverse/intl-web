@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Épületek',
     'encyclopedia.category.schools': 'Iskolák',
     'encyclopedia.category.continents': 'Kontinensek',
+    'encyclopedia.category.villages': 'Falvak',
+    'encyclopedia.category.towns': 'Városok',
+    'encyclopedia.category.cities': 'Városok',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nincsenek kapcsolódó bejegyzések}
     one {1 kapcsolódó bejegyzés}
@@ -60,9 +63,9 @@ export default {
     deity {deity}
     religions {religion}
     flora {flora}
-    magic {mágia}
-    planets {bolygó}
-    species {faj}
+    magic {magic}
+    planets {planet}
+    species {~ faj}
     technologies {technológia}
     families {család}
     jobs {munka}
@@ -75,13 +78,16 @@ export default {
     buildings {épület}
     schools {iskola}
     continents {kontinens}
+    villages {falvak}
+    towns {városok}
+    cities {városok}
   }`,
     'encyclopedia.create.header': `Új létrehozás {category, select,
     character {karakter}
     event {esemény}
     group {csoport}
     item {tárgy}
-    location {helyszín}
+    location {hely}
     other {jegyzet}
     state {állam}
     governments {kormány}
@@ -92,7 +98,7 @@ export default {
     flora {növényvilág}
     magic {mágia}
     planets {bolygó}
-    species {faj}
+    species {~ faj}
     technologies {technológia}
     families {család}
     jobs {munka}
@@ -105,14 +111,17 @@ export default {
     buildings {épület}
     schools {iskola}
     continents {kontinens}
-  } a {universe}-ben.`,
+    villages {falu}
+    towns {város}
+    cities {város}
+  } a {universe}-ban.`,
     'encyclopedia.entry.category': `Nevezési kategória: {category, select,
     character {Karakter}
     event {Esemény}
     group {Csoport}
     item {Tárgy}
     location {Helyszín}
-    other {Megjegyzés}
+    other {Jegyzet}
     state {Állam}
     governments {Kormány}
     languages {Nyelv}
@@ -121,7 +130,7 @@ export default {
     religions {Vallás}
     flora {Flóra}
     magic {Mágia}
-    planets {Planet}
+    planets {Bolygó}
     species {Specie}
     technologies {Technology}
     families {Family}
@@ -135,6 +144,9 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Új mező hozzáadása',
