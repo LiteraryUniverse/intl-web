@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Totale aantal hoofstukke in die storie',
     'discovery.readFromStart': 'Lees vanaf die eerste hoofstuk',
     'discovery.readLatest': 'Lees die nuutste hoofstuk',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };
