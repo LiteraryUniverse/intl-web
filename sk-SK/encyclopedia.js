@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Choroby',
     'encyclopedia.category.traditions': 'Tradície',
     'encyclopedia.category.sports': 'Šport',
+    'encyclopedia.category.food': 'Potraviny',
     'encyclopedia.category.landmarks': 'Pozoruhodnosti',
     'encyclopedia.category.buildings': 'Budovy',
     'encyclopedia.category.schools': 'Školy',
@@ -74,6 +75,7 @@ export default {
     vehicles {vozidlo}
     diseases {choroba}
     traditions {tradícia}
+    food {jedlo}
     sports {šport}
     landmarks {pamiatka}
     buildings {budova}
@@ -107,6 +109,7 @@ export default {
     vehicles {vozidlo}
     diseases {choroba}
     traditions {tradícia}
+    food {jedlo}
     sports {šport}
     landmarks {pamiatka}
     buildings {budova}
@@ -136,12 +139,13 @@ export default {
     technologies {Technológia}
     families {Rodina}
     jobs {Práca}
-    lore {Vlasť}
+    lore {Povesť}
     vehicles {Vozidlo}
     diseases {Choroba}
     traditions {Tradícia}
+    food {Jedlo}
     sports {Šport}
-    landmarks {Pamätník}
+    landmarks {Pamätné miesto}
     buildings {Budova}
     schools {Škola}
     continents {Kontinent}
