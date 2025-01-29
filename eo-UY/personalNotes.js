@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Revizia Teksta Bloko',
   'personalNotes.chapter': 'Ĉapitro',
   'personalNotes.recentSearches': 'Lastaj Serĉoj:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };
