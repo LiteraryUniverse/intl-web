@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Haigused',
     'encyclopedia.category.traditions': 'Traditsioonid',
     'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Toiduained',
     'encyclopedia.category.landmarks': 'Vaatamisväärsused',
     'encyclopedia.category.buildings': 'Hooned',
     'encyclopedia.category.schools': 'Koolid',
@@ -73,6 +74,7 @@ export default {
     vehicles {sõiduk}
     diseases {haigus}
     traditions {traditsioon}
+    food {toit}
     sports {sport}
     landmarks {maamärk}
     buildings {hoone}
@@ -106,6 +108,7 @@ export default {
     vehicles {sõiduk}
     diseases {haigus}
     traditions {traditsioon}
+    food {toit}
     sports {sport}
     landmarks {maamärk}
     buildings {hoone}
@@ -139,6 +142,7 @@ export default {
     vehicles {Sõiduk}
     diseases {Haigus}
     traditions {Traditsioon}
+    food {Toit}
     sports {Sport}
     landmarks {Maamärk}
     buildings {Hoone}
