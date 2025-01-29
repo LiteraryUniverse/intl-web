@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Maladies',
     'encyclopedia.category.traditions': 'Traditions',
     'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Alimentation',
     'encyclopedia.category.landmarks': 'Points de repère',
     'encyclopedia.category.buildings': 'Bâtiments',
     'encyclopedia.category.schools': 'Les écoles',
@@ -65,22 +66,23 @@ export default {
     flora {flore}
     magic {magie}
     planets {planète}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
+    species {espèce}
+    technologies {technologie}
+    families {famille}
+    jobs {travail}
+    lore {histoire}
+    vehicles {véhicule}
+    diseases {maladie}
     traditions {tradition}
+    food {nourriture}
     sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
+    landmarks {point de repère}
+    buildings {bâtiment}
+    schools {école}
     continents {continent}
     villages {villages}
-    towns {towns}
-    cities {cities}
+    towns {villes}
+    cities {cités}
   }`,
     'encyclopedia.create.header': `Créer un nouveau {category, select,
     character {personnage}
@@ -106,6 +108,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -139,6 +142,7 @@ export default {
     vehicles {Véhicule}
     diseases {Maladie}
     traditions {Tradition}
+    food {Nourriture}
     sports {Sport}
     landmarks {Repère}
     buildings {Bâtiment}
