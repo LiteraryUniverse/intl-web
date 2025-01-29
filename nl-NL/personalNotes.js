@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Revisietekstblok',
   'personalNotes.chapter': 'Hoofdstuk',
   'personalNotes.recentSearches': 'Recente zoekopdrachten:',
-  'personalNotes.myNotes': 'Mijn persoonlijke aantekeningen'
+  'personalNotes.myNotes': 'Mijn persoonlijke aantekeningen',
+  'personalNotes.hasNotes': 'Heeft persoonlijke aantekeningen'
 };
