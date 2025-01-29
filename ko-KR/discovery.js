@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': '이 이야기의 총 챕터 수',
     'discovery.readFromStart': '첫 번째 장부터 읽으세요',
     'discovery.readLatest': '가장 최근 장을 읽으세요',
-    'discovery.author': '작성자'
+    'discovery.author': '작성자',
+    'discovery.aiGenerated': 'AI 생성'
 };
