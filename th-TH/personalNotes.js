@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'บล็อคข้อความการแก้ไข',
   'personalNotes.chapter': 'ตอน',
   'personalNotes.recentSearches': 'การค้นหาล่าสุด:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };
