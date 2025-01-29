@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Edifícios',
     'encyclopedia.category.schools': 'Escolas',
     'encyclopedia.category.continents': 'Continentes',
+    'encyclopedia.category.villages': 'Vilas',
+    'encyclopedia.category.towns': 'Cidades',
+    'encyclopedia.category.cities': 'Cidades',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nenhuma entrada relacionada}
     one {1 entrada relacionada}
@@ -66,7 +69,7 @@ export default {
     technologies {tecnologia}
     families {família}
     jobs {emprego}
-    lore {tradição}
+    lore {lore}
     vehicles {veículo}
     diseases {doença}
     traditions {tradição}
@@ -75,6 +78,9 @@ export default {
     buildings {edifício}
     schools {escola}
     continents {continente}
+    villages {vilas}
+    towns {cidades}
+    cities {cidades}
   }`,
     'encyclopedia.create.header': `Criando um novo {category, select,
     character {personagem}
@@ -105,6 +111,9 @@ export default {
     buildings {edifício}
     schools {escola}
     continents {continente}
+    villages {vila}
+    towns {cidade}
+    cities {cidade}
   } em {universe}`,
     'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
@@ -121,20 +130,23 @@ export default {
     religions {Religião}
     flora {Flora}
     magic {Magia}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
+    planets {Planeta}
+    species {Espécie}
+    technologies {Tecnologia}
+    families {Família}
+    jobs {Trabalho}
     lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
+    vehicles {Veículo}
+    diseases {Doença}
+    traditions {Tradição}
+    sports {Esporte}
+    landmarks {Marco}
+    buildings {Edifício}
+    schools {Escola}
+    continents {Continente}
+    villages {vila}
+    towns {cidade}
+    cities {cidade}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',
