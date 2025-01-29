@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': '修訂文字區塊',
   'personalNotes.chapter': '章節',
   'personalNotes.recentSearches': '最近搜尋：',
-  'personalNotes.myNotes': '我的個人筆記'
+  'personalNotes.myNotes': '我的個人筆記',
+  'personalNotes.hasNotes': '具有個人筆記'
 };
