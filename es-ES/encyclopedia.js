@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Enfermedades',
     'encyclopedia.category.traditions': 'Tradiciones',
     'encyclopedia.category.sports': 'Deportes',
+    'encyclopedia.category.food': 'Alimentación',
     'encyclopedia.category.landmarks': 'Hitos',
     'encyclopedia.category.buildings': 'Edificios',
     'encyclopedia.category.schools': 'Escuelas',
@@ -69,12 +70,13 @@ export default {
     technologies {tecnología}
     families {familia}
     jobs {trabajo}
-    lore {tradición}
+    lore {saber popular}
     vehicles {vehículo}
     diseases {enfermedad}
     traditions {tradición}
+    food {comida}
     sports {deporte}
-    landmarks {lugar emblemático}
+    landmarks {monumento}
     buildings {edificio}
     schools {escuela}
     continents {continente}
@@ -82,39 +84,40 @@ export default {
     towns {pueblos}
     cities {ciudades}
   }`,
-    'encyclopedia.create.header': `Creating a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
+    'encyclopedia.create.header': `Crear un nuevo {category, select,
+    character {personaje}
+    event {evento}
+    group {grupo}
+    item {objeto}
+    location {ubicación}
+    other {nota}
+    state {estado}
+    governments {gobierno}
+    languages {idioma}
+    creatures {criatura}
+    deity {deidad}
+    religions {religión}
     flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
+    magic {magia}
+    planets {planeta}
+    species {especie}
+    technologies {tecnología}
+    families {familia}
+    jobs {trabajo}
     lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {village}
-    towns {town}
-    cities {city}
-  } in {universe}`,
+    vehicles {vehículo}
+    diseases {enfermedad}
+    traditions {tradición}
+    food {comida}
+    sports {deporte}
+    landmarks {monumento}
+    buildings {edificio}
+    schools {escuela}
+    continents {continente}
+    villages {aldea}
+    towns {pueblo}
+    cities {ciudad}
+  } en {universe}`,
     'encyclopedia.entry.category': `Categoría de entrada: {category, select,
     character {Personaje}
     event {Acontecimiento}
@@ -139,6 +142,7 @@ export default {
     vehicles {Vehículo}
     diseases {Enfermedad}
     traditions {Tradición}
+    food {Comida}
     sports {Deporte}
     landmarks {Lugar emblemático}
     buildings {Edificio}
