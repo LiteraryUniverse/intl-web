@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Byggnader',
     'encyclopedia.category.schools': 'Skolor',
     'encyclopedia.category.continents': 'Kontinenter',
+    'encyclopedia.category.villages': 'Byar',
+    'encyclopedia.category.towns': 'Städer',
+    'encyclopedia.category.cities': 'Städer',
     'encyclopedia.search.found': `{results, plural,
     =0 {Inga relaterade poster}
     one {1 relaterad post}
@@ -63,24 +66,27 @@ export default {
     magic {magi}
     planets {planet}
     species {specie}
-    technologies {teknologi}
-    families {familj}
-    jobs {jobb}
+    technologies {technology}
+    families {family}
+    jobs {job}
     lore {lore}
-    vehicles {fordon}
-    diseases {sjukdom}
+    vehicles {vehicle}
+    diseases {disease}
     traditions {tradition}
     sports {sport}
-    landmarks {landmärke}
-    buildings {byggnad}
-    schools {skola}
-    continents {kontinent}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
     'encyclopedia.create.header': `Skapa en ny {category, select,
     character {karaktär}
     event {händelse}
     group {grupp}
-    item {föremål}
+    item {objekt}
     location {plats}
     other {anteckning}
     state {stat}
@@ -105,6 +111,9 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
     'encyclopedia.entry.category': `Ingångskategori: {category, select,
     character {Karaktär}
@@ -113,7 +122,7 @@ export default {
     item {Föremål}
     location {Plats}
     other {Anteckning}
-    state {Delstat}
+    state {Stat}
     governments {Regering}
     languages {Språk}
     creatures {Varelse}
@@ -122,7 +131,7 @@ export default {
     flora {Flora}
     magic {Magi}
     planets {Planet}
-    species {Specie}
+    species {Art}
     technologies {Technology}
     families {Family}
     jobs {Job}
@@ -135,6 +144,9 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Lägg till ett nytt fält',
