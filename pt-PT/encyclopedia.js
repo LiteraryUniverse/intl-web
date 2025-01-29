@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Edifícios',
     'encyclopedia.category.schools': 'Escolas',
     'encyclopedia.category.continents': 'Continentes',
+    'encyclopedia.category.villages': 'Aldeias',
+    'encyclopedia.category.towns': 'Cidades',
+    'encyclopedia.category.cities': 'Cidades',
     'encyclopedia.search.found': `{results, plural,
     =0 {Sem entradas relacionadas encontradas}
     one {1 entrada relacionada encontrada}
@@ -66,7 +69,7 @@ export default {
     technologies {tecnologia}
     families {família}
     jobs {emprego}
-    lore {lenda}
+    lore {lore}
     vehicles {veículo}
     diseases {doença}
     traditions {tradição}
@@ -75,6 +78,9 @@ export default {
     buildings {edifício}
     schools {escola}
     continents {continente}
+    villages {aldeias}
+    towns {vilas}
+    cities {cidades}
   }`,
     'encyclopedia.create.header': `Criando um novo {category, select,
     character {personagem}
@@ -96,7 +102,7 @@ export default {
     technologies {tecnologia}
     families {família}
     jobs {emprego}
-    lore {lenda}
+    lore {lore}
     vehicles {veículo}
     diseases {doença}
     traditions {tradição}
@@ -105,6 +111,9 @@ export default {
     buildings {edifício}
     schools {escola}
     continents {continente}
+    villages {aldeia}
+    towns {vila}
+    cities {cidade}
   } em {universe}`,
     'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
@@ -135,6 +144,9 @@ export default {
     buildings {Edifício}
     schools {Escola}
     continents {Continente}
+    villages {aldeia}
+    towns {vila}
+    cities {cidade}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',
