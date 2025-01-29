@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': '질병',
     'encyclopedia.category.traditions': '전통',
     'encyclopedia.category.sports': '스포츠',
+    'encyclopedia.category.food': '음식',
     'encyclopedia.category.landmarks': '랜드마크',
     'encyclopedia.category.buildings': '건물',
     'encyclopedia.category.schools': '학교',
@@ -73,6 +74,7 @@ export default {
     vehicles {탈것}
     diseases {질병}
     traditions {전통}
+    food {음식}
     sports {스포츠}
     landmarks {랜드마크}
     buildings {건물}
@@ -106,13 +108,14 @@ export default {
     vehicles {탈것}
     diseases {질병}
     traditions {전통}
+    food {음식}
     sports {스포츠}
     landmarks {랜드마크}
     buildings {건물}
     schools {학교}
     continents {대륙}
     villages {마을}
-    towns {도시}
+    towns {마을}
     cities {도시}
   } in {universe}`,
     'encyclopedia.entry.category': `응모 카테고리: {category, select,
@@ -128,10 +131,10 @@ export default {
     creatures {생물}
     deity {신}
     religions {종교}
-    flora {식물}
+    flora {동식물}
     magic {마법}
     planets {행성}
-    species {종}
+    species {종족}
     technologies {기술}
     families {가족}
     jobs {직업}
@@ -139,13 +142,14 @@ export default {
     vehicles {탈것}
     diseases {질병}
     traditions {전통}
+    food {음식}
     sports {스포츠}
     landmarks {랜드마크}
     buildings {건물}
     schools {학교}
     continents {대륙}
     villages {마을}
-    towns {도시}
+    towns {마을}
     cities {도시}
   }`,
     'encyclopedia.entry.category.legend': '카테고리',
