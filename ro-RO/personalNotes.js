@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Blox Text Revizuire',
   'personalNotes.chapter': 'Capitol',
   'personalNotes.recentSearches': 'Căutări Recent efectuate:',
-  'personalNotes.myNotes': 'Notele mele personale'
+  'personalNotes.myNotes': 'Notele mele personale',
+  'personalNotes.hasNotes': 'Are note personale'
 };
