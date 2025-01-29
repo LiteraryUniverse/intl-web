@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'కథలో ఆది నుండి చదవడానికి మొత్తం అనుక్రమణిక అందులో ఉన్నది',
     'discovery.readFromStart': 'మొదటి అధ్యాయం నుండి చదవండి',
     'discovery.readLatest': 'తాజా అధ్యాయాన్ని చదవండి',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };
