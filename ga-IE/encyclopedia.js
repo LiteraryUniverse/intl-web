@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Buildings',
     'encyclopedia.category.schools': 'Schools',
     'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {Gan iontrálacha gaolmhara}
     one {Iontráil gaolmhara amháin}
@@ -75,6 +78,9 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
     'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
@@ -105,6 +111,9 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -135,6 +144,9 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Catagóir',
     'encyclopedia.fields.add': 'Cuir réimse nua leis',
