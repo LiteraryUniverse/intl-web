@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Samlet antal kapitler i historien',
     'discovery.readFromStart': 'Læs fra første kapitel',
     'discovery.readLatest': 'Læs det seneste kapitel',
-    'discovery.author': 'Forfatter'
+    'discovery.author': 'Forfatter',
+    'discovery.aiGenerated': 'AI-genereret'
 };
