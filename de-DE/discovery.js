@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Gesamtzahl der Kapitel in der Geschichte',
     'discovery.readFromStart': 'Vom ersten Kapitel lesen',
     'discovery.readLatest': 'Das neueste Kapitel lesen',
-    'discovery.author': 'Autor'
+    'discovery.author': 'Autor',
+    'discovery.aiGenerated': 'KI-generiert'
 };
