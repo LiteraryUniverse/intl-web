@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Edifici',
     'encyclopedia.category.schools': 'Scuole',
     'encyclopedia.category.continents': 'Continenti',
+    'encyclopedia.category.villages': 'Villaggi',
+    'encyclopedia.category.towns': 'Città',
+    'encyclopedia.category.cities': 'Città',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nessuna voce}
     one {1 voce}
@@ -75,6 +78,9 @@ export default {
     buildings {edificio}
     schools {scuola}
     continents {continente}
+    villages {villaggi}
+    towns {città}
+    cities {città}
   }`,
     'encyclopedia.create.header': `Creare un nuovo {category, select,
     character {personaggio}
@@ -105,6 +111,9 @@ export default {
     buildings {edificio}
     schools {scuola}
     continents {continente}
+    villages {villaggio}
+    towns {città}
+    cities {città}
   } in {universe}`,
     'encyclopedia.entry.category': `Categoria di iscrizione: {category, select,
     character {Personaggio}
@@ -135,6 +144,9 @@ export default {
     buildings {Edificio}
     schools {Scuola}
     continents {Continente}
+    villages {villaggio}
+    towns {città}
+    cities {città}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Aggiungi un nuovo campo',
