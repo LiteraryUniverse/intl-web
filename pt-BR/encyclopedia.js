@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Doenças',
     'encyclopedia.category.traditions': 'Tradições',
     'encyclopedia.category.sports': 'Esportes',
+    'encyclopedia.category.food': 'Alimentos',
     'encyclopedia.category.landmarks': 'Pontos de referência',
     'encyclopedia.category.buildings': 'Edifícios',
     'encyclopedia.category.schools': 'Escolas',
@@ -73,6 +74,7 @@ export default {
     vehicles {veículo}
     diseases {doença}
     traditions {tradição}
+    food {alimento}
     sports {esporte}
     landmarks {marco}
     buildings {edifício}
@@ -106,6 +108,7 @@ export default {
     vehicles {veículo}
     diseases {doença}
     traditions {tradição}
+    food {alimento}
     sports {esporte}
     landmarks {marco}
     buildings {edifício}
@@ -139,8 +142,9 @@ export default {
     vehicles {Veículo}
     diseases {Doença}
     traditions {Tradição}
+    food {Alimento}
     sports {Esporte}
-    landmarks {Marco}
+    landmarks {Marco histórico}
     buildings {Edifício}
     schools {Escola}
     continents {Continente}
