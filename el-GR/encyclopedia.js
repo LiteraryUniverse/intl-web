@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Κτίρια',
     'encyclopedia.category.schools': 'Σχολεία',
     'encyclopedia.category.continents': 'Ήπειροι',
+    'encyclopedia.category.villages': 'Χωριά',
+    'encyclopedia.category.towns': 'Πόλεις',
+    'encyclopedia.category.cities': 'Πόλεις',
     'encyclopedia.search.found': `{results, plural,
     =0 {Δεν υπάρχουν σχετικές καταχωρήσεις}
     one {1 σχετική καταχώρηση}
@@ -60,8 +63,8 @@ export default {
     deity {θεότητα}
     religions {θρησκεία}
     flora {χλωρίδα}
-    magic {magic}
-    planets {planet}
+    magic {μαγεία}
+    planets {πλανήτης}
     species {specie}
     technologies {technology}
     families {family}
@@ -75,6 +78,9 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
     'encyclopedia.create.header': `Δημιουργία νέου {category, select,
     character {χαρακτήρα}
@@ -91,7 +97,7 @@ export default {
     religions {θρησκείας}
     flora {χλωρίδας}
     magic {μαγείας}
-    planets {planet}
+    planets {πλανήτη}
     species {specie}
     technologies {technology}
     families {family}
@@ -105,6 +111,9 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
     'encyclopedia.entry.category': `Κατηγορία εισόδου: {category, select,
     character {Χαρακτήρας}
@@ -121,8 +130,8 @@ export default {
     religions {Θρησκεία}
     flora {Χλωρίδα}
     magic {Μαγεία}
-    planets {Planet}
-    species {Specie}
+    planets {Πλανήτης}
+    species {Είδος}
     technologies {Technology}
     families {Family}
     jobs {Job}
@@ -135,6 +144,9 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Κατηγορία',
     'encyclopedia.fields.add': 'Προσθήκη νέου πεδίου',
