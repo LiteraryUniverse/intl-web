@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'الأمراض',
     'encyclopedia.category.traditions': 'التقاليد',
     'encyclopedia.category.sports': 'الرياضة',
+    'encyclopedia.category.food': 'الطعام',
     'encyclopedia.category.landmarks': 'المعالم',
     'encyclopedia.category.buildings': 'المباني',
     'encyclopedia.category.schools': 'المدارس',
@@ -73,6 +74,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -94,20 +96,21 @@ export default {
     languages {اللغة}
     creatures {~ مخلوق}
     deity {إله}
-    religions {دين}
-    flora {نباتات}
-    magic {سحر}
-    planets {كوكب}
-    species {~ فصيلة}
-    technologies {تكنولوجيا}
-    families {عائلة ~ ~ عائلة}
+    religions {الدين}
+    flora {النباتات}
+    magic {السحر}
+    planets {الكوكب}
+    species {~ النوع}
+    technologies {التكنولوجيا}
+    families {الأسرة ~ ~ الأسرة ~}
     jobs {وظيفة}
-    lore {~ تقاليد}
+    lore {~ علم}
     vehicles {مركبة}
-    diseases {مرض}
-    traditions {~ تقاليد}
-    sports {رياضة}
-    landmarks {معلم ~ ~ معلم}
+    diseases {مرض ~ ~ مرض}
+    traditions {~ تقليد}
+    food {الغذاء ~ ~ الغذاء}
+    sports {الرياضة}
+    landmarks {~ معلم}
     buildings {مبنى}
     schools {مدرسة}
     continents {قارة}
@@ -139,15 +142,16 @@ export default {
     vehicles {المركبة}
     diseases {المرض}
     traditions {التقاليد}
-    sports {الرياضة ~}
-    landmarks {معلم}
-    buildings {~ المبنى}
-    schools {المدرسة}
+    food {الغذاء ~ ~ الغذاء}
+    sports {الرياضة}
+    landmarks {~ معلم}
+    buildings {~ مبنى}
+    schools {مدرسة}
     continents {قارة}
     villages {قرية}
     towns {بلدة}
     cities {مدينة}
-  }~`,
+  }`,
     'encyclopedia.entry.category.legend': 'التصنيف',
     'encyclopedia.fields.add': 'إضافة حقل جديد',
     'encyclopedia.fields.text': 'التعريف',
