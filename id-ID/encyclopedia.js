@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Bangunan',
     'encyclopedia.category.schools': 'Sekolah',
     'encyclopedia.category.continents': 'Benua',
+    'encyclopedia.category.villages': 'Desa',
+    'encyclopedia.category.towns': 'Kota',
+    'encyclopedia.category.cities': 'Kota',
     'encyclopedia.search.found': `{results, plural,
     =0 {Tidak ada entri terkait}
     one {1 entri terkait}
@@ -75,6 +78,9 @@ export default {
     buildings {bangunan}
     schools {sekolah}
     continents {benua}
+    villages {desa}
+    towns {kota}
+    cities {kota}
   }`,
     'encyclopedia.create.header': `Menciptakan {category, select,
     character {karakter}
@@ -105,6 +111,9 @@ export default {
     buildings {bangunan}
     schools {sekolah}
     continents {benua}
+    villages {desa}
+    towns {kota}
+    cities {kota}
   } di {universe}`,
     'encyclopedia.entry.category': `Kategori entri: {category, select,
     character {Karakter}
@@ -135,6 +144,9 @@ export default {
     buildings {Bangunan}
     schools {Sekolah}
     continents {Benua}
+    villages {Desa}
+    towns {Kota}
+    cities {Kota}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambahkan bidang baru',
