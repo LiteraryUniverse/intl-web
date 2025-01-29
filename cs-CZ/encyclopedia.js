@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Budovy',
     'encyclopedia.category.schools': 'Školy',
     'encyclopedia.category.continents': 'Kontinenty',
+    'encyclopedia.category.villages': 'Vesnice',
+    'encyclopedia.category.towns': 'Města',
+    'encyclopedia.category.cities': 'Města',
     'encyclopedia.search.found': `{results, plural,
     zero {Nic nenalezeno}
     one {1 možný článek nalezen}
@@ -67,7 +70,7 @@ export default {
     technologies {technologie}
     families {rodina}
     jobs {zaměstnání}
-    lore {pověst}
+    lore {pověsti}
     vehicles {vozidlo}
     diseases {nemoc}
     traditions {tradice}
@@ -76,6 +79,9 @@ export default {
     buildings {budova}
     schools {škola}
     continents {kontinent}
+    villages {vesnice}
+    towns {města}
+    cities {města}
   }`,
     'encyclopedia.create.header': `Vytvoření nového {category, select,
     character {postava}
@@ -106,6 +112,9 @@ export default {
     buildings {budova}
     schools {škola}
     continents {kontinent}
+    villages {vesnice}
+    towns {město}
+    cities {město}
   } v {universe}`,
     'encyclopedia.entry.category': `Kategorie přihlášek: {category, select,
     character {Postava}
@@ -117,7 +126,7 @@ export default {
     state {Stát}
     governments {Vláda}
     languages {Jazyk}
-    creatures {Stvoření}
+    creatures {Tvor}
     deity {Božstvo}
     religions {Náboženství}
     flora {Flóra}
@@ -136,6 +145,9 @@ export default {
     buildings {Budova}
     schools {Škola}
     continents {Kontinent}
+    villages {vesnice}
+    towns {město}
+    cities {město}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Přidat nové pole',
