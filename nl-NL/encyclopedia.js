@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Gebouwen',
     'encyclopedia.category.schools': 'Scholen',
     'encyclopedia.category.continents': 'Continenten',
+    'encyclopedia.category.villages': 'Dorpen',
+    'encyclopedia.category.towns': 'Steden',
+    'encyclopedia.category.cities': 'Steden',
     'encyclopedia.search.found': `{results, plural,
     =0 {Geen gerelateerde invoeringen}
     one {1 gerelateerde invoering}
@@ -50,9 +53,9 @@ export default {
     character {personage}
     event {gebeurtenis}
     group {groep}
-    item {item}
+    item {voorwerp}
     location {locatie}
-    other {opmerking}
+    other {notitie}
     state {staat}
     governments {overheid}
     languages {taal}
@@ -60,9 +63,9 @@ export default {
     deity {godheid}
     religions {religie}
     flora {flora}
-    magic {magie ~ ~ planeet ~ ~ soort ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ~ ziekte ~ ~ traditie ~ ~ sport ~ ~ sport magie}
+    magic {magie}
     planets {planeet}
-    species {soort}
+    species {specie ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ~ ziekte ~ ~ traditie ~ ~ sport ~ ~ bezienswaardigheid ~ ~ ziekte ~  soort}
     technologies {technologie}
     families {familie}
     jobs {baan}
@@ -71,10 +74,13 @@ export default {
     diseases {ziekte}
     traditions {traditie}
     sports {sport}
-    landmarks {oriëntatiepunt}
+    landmarks {mijlpaal}
     buildings {gebouw}
     schools {school}
     continents {continent}
+    villages {dorpen}
+    towns {steden}
+    cities {steden}
   }`,
     'encyclopedia.create.header': `Een nieuw {category, select,
     character {personage}
@@ -86,7 +92,7 @@ export default {
     state {staat}
     governments {overheid}
     languages {taal}
-    creatures {wezen}
+    creatures {schepsel}
     deity {godheid}
     religions {religie}
     flora {flora}
@@ -101,10 +107,13 @@ export default {
     diseases {ziekte}
     traditions {traditie}
     sports {sport}
-    landmarks {mijlpaal}
+    landmarks {bezienswaardigheid}
     buildings {gebouw}
     schools {school}
     continents {continent}
+    villages {dorp}
+    towns {stad}
+    cities {stad}
   } in {universe}`,
     'encyclopedia.entry.category': `Categorie inzending: {category, select,
     character {Karakter}
@@ -121,7 +130,7 @@ export default {
     religions {Religie}
     flora {Flora}
     magic {Magie}
-    planets {Planeet ~ ~ Soort ~ ~ Technologie ~ ~ Familie ~ ~ Baan ~ ~ Lore ~ ~ Voertuig ~ ~ Ziekte ~ ~ Traditie ~ ~ Sport ~ Lore ~ ~ Voertuig ~ ~ Voertuig ~ ~ Voertuig Planeet}
+    planets {Planeet}
     species {Soort}
     technologies {Technologie}
     families {Familie}
@@ -135,6 +144,9 @@ export default {
     buildings {Gebouw}
     schools {School}
     continents {Continent}
+    villages {dorp}
+    towns {stad}
+    cities {stad}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Voeg een nieuw veld toe',
