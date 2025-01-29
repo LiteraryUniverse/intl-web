@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Totalt antal kapitel i berättelsen',
     'discovery.readFromStart': 'Läs från första kapitlet',
     'discovery.readLatest': 'Läs det senaste kapitlet',
-    'discovery.author': 'Författaren'
+    'discovery.author': 'Författaren',
+    'discovery.aiGenerated': 'AI-genererad'
 };
