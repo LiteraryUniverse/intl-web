@@ -30,6 +30,7 @@ export default {
     'encyclopedia.category.diseases': 'Захворювання',
     'encyclopedia.category.traditions': 'Традиції',
     'encyclopedia.category.sports': 'Спорт',
+    'encyclopedia.category.food': 'Їжа',
     'encyclopedia.category.landmarks': 'Орієнтири',
     'encyclopedia.category.buildings': 'Будівлі',
     'encyclopedia.category.schools': 'Школи',
@@ -49,38 +50,39 @@ export default {
     'encyclopedia.add.title': 'Додати новий запис до енциклопедії',
     'encyclopedia.add.heading': 'Що бажаєте додати?',
     'encyclopedia.add.moresoon': 'Більше категорій незабаром!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {villages}
-    towns {towns}
-    cities {cities}
+    'encyclopedia.create': `Створити новий {category, select,
+    character {персонаж}
+    event {подія}
+    group {група}
+    item {предмет}
+    location {місце}
+    other {примітка}
+    state {держава}
+    governments {уряд}
+    languages {мова}
+    creatures {істота}
+    deity {божество}
+    religions {релігія}
+    flora {флора}
+    magic {магія}
+    planets {планета}
+    species {вид}
+    technologies {технологія}
+    families {сім'я}
+    jobs {робота}
+    lore {історія}
+    vehicles {транспортний засіб}
+    diseases {хвороба}
+    traditions {традиція}
+    food {їжа}
+    sports {спорт}
+    landmarks {пам'ятка}
+    buildings {будівля}
+    schools {школа}
+    continents {континент}
+    villages {села}
+    towns {селища}
+    cities {міста}
   }`,
     'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
@@ -106,6 +108,7 @@ export default {
     vehicles {vehicle}
     diseases {disease}
     traditions {tradition}
+    food {food}
     sports {sport}
     landmarks {landmark}
     buildings {building}
@@ -120,7 +123,7 @@ export default {
     event {Подія}
     group {Група}
     item {Предмет}
-    location {Місцевість}
+    location {Локація}
     other {Примітка}
     state {Держава}
     governments {Уряд}
@@ -139,6 +142,7 @@ export default {
     vehicles {Транспортний засіб}
     diseases {Хвороба}
     traditions {Традиція}
+    food {Їжа}
     sports {Спорт}
     landmarks {Пам'ятка}
     buildings {Будівля}
