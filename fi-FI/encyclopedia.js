@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Rakennukset',
     'encyclopedia.category.schools': 'Koulut',
     'encyclopedia.category.continents': 'Maanosat',
+    'encyclopedia.category.villages': 'Kylät',
+    'encyclopedia.category.towns': 'Kaupungit',
+    'encyclopedia.category.cities': 'Kaupungit',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei liittyviä merkintöjä}
     one {1 liittyvä merkintä}
@@ -60,8 +63,8 @@ export default {
     deity {jumaluus}
     religions {uskonto}
     flora {kasvisto}
-    magic {magic}
-    planets {planet}
+    magic {taikuus}
+    planets {planeetta}
     species {species}
     technologies {technology}
     families {family}
@@ -75,9 +78,12 @@ export default {
     buildings {building}
     schools {school}
     continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Uuden luominen {category, select,
-    character {hahmo}
+    'encyclopedia.create.header': `Uuden {category, select,
+    character {hahmon luominen}
     event {tapahtuma}
     group {ryhmä}
     item {esine}
@@ -90,22 +96,25 @@ export default {
     deity {jumaluus}
     religions {uskonto}
     flora {kasvisto}
-    magic {taika}
+    magic {taikuus}
     planets {planeetta}
-    species {laji}
-    technologies {teknologia}
-    families {perhe}
-    jobs {työ}
-    lore {taru}
-    vehicles {ajoneuvo}
-    diseases {tauti}
-    traditions {perinne}
-    sports {urheilu}
-    landmarks {maamerkki}
-    buildings {rakennus}
-    schools {koulu}
-    continents {maanosa}
-  } vuonna {universe}`,
+    species {luonti. species}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
     'encyclopedia.entry.category': `Osallistumisluokka: {category, select,
     character {Hahmo}
     event {Tapahtuma}
@@ -119,10 +128,10 @@ export default {
     creatures {Olento}
     deity {Jumaluus}
     religions {Uskonto}
-    flora {Kasvisto}
-    magic {Taika}
+    flora {Kasvi- ja kasvikunta}
+    magic {Taikuus}
     planets {Planeetta}
-    species {Specie}
+    species {Laji}
     technologies {Teknologia}
     families {Perhe}
     jobs {Työ}
@@ -135,6 +144,9 @@ export default {
     buildings {Rakennus}
     schools {Koulu}
     continents {Maanosa}
+    villages {Kylä}
+    towns {Kaupunki}
+    cities {Kaupunki}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Lisää uusi kenttä',
