@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Budynki',
     'encyclopedia.category.schools': 'Szkoły',
     'encyclopedia.category.continents': 'Kontynenty',
+    'encyclopedia.category.villages': 'Wioski',
+    'encyclopedia.category.towns': 'Miasta',
+    'encyclopedia.category.cities': 'Miasta',
     'encyclopedia.search.found': `{results, plural,
     =0 {Brak pasujących wpisów}
     one {1 pasujący wpis}
@@ -48,23 +51,23 @@ export default {
     'encyclopedia.add.title': 'Dodaj nowy wpis do encyklopedii',
     'encyclopedia.add.heading': 'Co chciałbyś dodać?',
     'encyclopedia.add.moresoon': 'Więcej kategorii już wkrótce!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magia}
-    planets {planeta}
-    species {gatunek}
+    'encyclopedia.create': `Stwórz nową {category, select,
+    character {postać}
+    event {wydarzenie}
+    group {grupę}
+    item {przedmiot}
+    location {lokalizację}
+    other {notatkę}
+    state {stan}
+    governments {rząd}
+    languages {język}
+    creatures {stworzenie}
+    deity {bóstwo}
+    religions {religię}
+    flora {florę}
+    magic {magię}
+    planets {planetę}
+    species {gatunek ~ ~ technologię ~ ~ rodzinę ~ ~ pracę ~ ~ wiedzę ~ ~ ~ bóstwo ~ ~ religię ~ ~ florę ~ ~ magię ~ ~ planetę ~  gatunek}
     technologies {technologia}
     families {rodzina}
     jobs {praca}
@@ -77,6 +80,9 @@ export default {
     buildings {budynek}
     schools {szkoła}
     continents {kontynent}
+    villages {wioski}
+    towns {miasteczka}
+    cities {miasta}
   }`,
     'encyclopedia.create.header': `Tworzenie nowego {category, select,
     character {postać}
@@ -94,7 +100,7 @@ export default {
     flora {flora}
     magic {magia}
     planets {planeta}
-    species {gatunek}
+    species {gatunek ~ ~ technologia ~ ~ rodzina ~ ~ praca ~ ~ wiedza ~ ~ ~ bóstwo ~ ~ religia ~ ~ flora ~ ~ magia ~ ~ planeta ~  gatunek}
     technologies {technologia}
     families {rodzina}
     jobs {praca}
@@ -107,13 +113,16 @@ export default {
     buildings {budynek}
     schools {szkoła}
     continents {kontynent}
+    villages {wioska}
+    towns {miasto}
+    cities {miasto}
   } w {universe}`,
     'encyclopedia.entry.category': `Kategoria wpisu: {category, select,
     character {Postać}
     event {Wydarzenie}
     group {Grupa}
     item {Przedmiot}
-    location {Lokacja}
+    location {Lokalizacja}
     other {Notatka}
     state {Państwo}
     governments {Rząd}
@@ -137,6 +146,9 @@ export default {
     buildings {Budynek}
     schools {Szkoła}
     continents {Kontynent}
+    villages {Wioska}
+    towns {Miasto}
+    cities {Miasto}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Dodaj nowe pole',
