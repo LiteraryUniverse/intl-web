@@ -34,6 +34,9 @@ export default {
     'encyclopedia.category.buildings': 'Bâtiments',
     'encyclopedia.category.schools': 'Les écoles',
     'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Villes',
+    'encyclopedia.category.cities': 'Villes',
     'encyclopedia.search.found': `{results, plural,
     =0 {Aucune entrée liée}
     one {1 entrée liée}
@@ -62,19 +65,22 @@ export default {
     flora {flore}
     magic {magie}
     planets {planète}
-    species {espèce}
-    technologies {technologie}
-    families {famille}
-    jobs {emploi}
-    lore {tradition}
-    vehicles {véhicule}
-    diseases {maladie}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
     traditions {tradition}
     sports {sport}
-    landmarks {point de repère}
-    buildings {bâtiment}
-    schools {école}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
     continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
     'encyclopedia.create.header': `Créer un nouveau {category, select,
     character {personnage}
@@ -92,19 +98,22 @@ export default {
     flora {flore}
     magic {magie}
     planets {planète}
-    species {espèce}
-    technologies {technologie}
-    families {famille}
-    jobs {emploi}
-    lore {tradition}
-    vehicles {véhicule}
-    diseases {maladie}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
     traditions {tradition}
     sports {sport}
-    landmarks {point de repère}
-    buildings {bâtiment}
-    schools {école}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
     continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
     'encyclopedia.entry.category': `Catégorie d'entrée : {category, select,
     character {Personnage}
@@ -133,8 +142,11 @@ export default {
     sports {Sport}
     landmarks {Repère}
     buildings {Bâtiment}
-    schools {Ecole}
+    schools {École}
     continents {Continent}
+    villages {village}
+    towns {ville}
+    cities {cité}
   }`,
     'encyclopedia.entry.category.legend': 'Catégorie',
     'encyclopedia.fields.add': 'Ajouter un nouveau champ',
