@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Внутрішній',
   'course.free': 'Безкоштовно',
   'course.sale': 'Розпродаж',
+  'course.announcements': 'Анонси',
+  'course.announcements.full': 'Анонси курсів',
+  'course.announcements.create': 'Створити оголошення',
 };
