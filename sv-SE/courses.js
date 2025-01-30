@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Internt',
   'course.free': 'Gratis',
   'course.sale': 'Försäljning',
+  'course.announcements': 'Tillkännagivanden',
+  'course.announcements.full': 'Kursmeddelanden',
+  'course.announcements.create': 'Skapa ett meddelande',
 };
