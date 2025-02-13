@@ -52,5 +52,13 @@ export default {
     universe {всесвіт}
     story {історія}
     other {історія}
-  } порушується?`
+  } порушується?`,
+    'feedback.help.overview': 'Огляд',
+    'feedback.help.articles': 'Статті',
+    'feedback.help.courses': 'Курси',
+    'feedback.help.videos': 'Відеоуроки',
+    'feedback.help.featuredArticles': 'Вибрані статті',
+    'feedback.help.featuredCourses': 'Рекомендовані курси',
+    'feedback.help.featuredVideos': 'Вибране відео',
+    'feedback.help.subCategories': 'Підкатегорії'
 };
