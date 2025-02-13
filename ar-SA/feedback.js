@@ -52,5 +52,13 @@ export default {
     universe {الكون}
     story {القصة}
     other {القصة}
-  } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟`
+  } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟`,
+    'feedback.help.overview': 'لمحة عامة',
+    'feedback.help.articles': 'المقالات',
+    'feedback.help.courses': 'الدورات التدريبية',
+    'feedback.help.videos': 'فيديوهات تعليمية',
+    'feedback.help.featuredArticles': 'مقالات مميزة',
+    'feedback.help.featuredCourses': 'الدورات التدريبية المميزة',
+    'feedback.help.featuredVideos': 'فيديوهات مميزة',
+    'feedback.help.subCategories': 'الفئات الفرعية'
 };
