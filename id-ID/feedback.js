@@ -52,5 +52,13 @@ export default {
     universe {alam semesta}
     story {cerita}
     other {cerita}
-  } yang dilanggar?`
+  } yang dilanggar?`,
+    'feedback.help.overview': 'Ikhtisar',
+    'feedback.help.articles': 'Artikel',
+    'feedback.help.courses': 'Kursus',
+    'feedback.help.videos': 'Video tutorial',
+    'feedback.help.featuredArticles': 'Artikel Pilihan',
+    'feedback.help.featuredCourses': 'Kursus Unggulan',
+    'feedback.help.featuredVideos': 'Video Pilihan',
+    'feedback.help.subCategories': 'Sub-kategori'
 };
