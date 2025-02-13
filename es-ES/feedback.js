@@ -52,5 +52,13 @@ export default {
     universe {universo}
     story {historia}
     other {historia}
-  } se está infringiendo?`
+  } se está infringiendo?`,
+    'feedback.help.overview': 'Visión general',
+    'feedback.help.articles': 'Artículos',
+    'feedback.help.courses': 'Cursos',
+    'feedback.help.videos': 'Tutoriales en vídeo',
+    'feedback.help.featuredArticles': 'Artículos destacados',
+    'feedback.help.featuredCourses': 'Cursos destacados',
+    'feedback.help.featuredVideos': 'Vídeos destacados',
+    'feedback.help.subCategories': 'Subcategorías'
 };
