@@ -52,5 +52,13 @@ export default {
     universe {wszechświat}
     story {historia}
     other {historia}
-  } jest naruszona?`
+  } jest naruszona?`,
+    'feedback.help.overview': 'Przegląd',
+    'feedback.help.articles': 'Artykuły',
+    'feedback.help.courses': 'Kursy',
+    'feedback.help.videos': 'Samouczki wideo',
+    'feedback.help.featuredArticles': 'Polecane artykuły',
+    'feedback.help.featuredCourses': 'Polecane kursy',
+    'feedback.help.featuredVideos': 'Polecane filmy',
+    'feedback.help.subCategories': 'Podkategorie'
 };
