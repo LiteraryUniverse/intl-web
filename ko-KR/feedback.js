@@ -52,5 +52,13 @@ export default {
     universe {유니버스}
     story {스토리}
     other {스토리}
-  } 의 저작권이 침해되고 있나요?`
+  } 의 저작권이 침해되고 있나요?`,
+    'feedback.help.overview': '개요',
+    'feedback.help.articles': '기사',
+    'feedback.help.courses': '코스',
+    'feedback.help.videos': '동영상 튜토리얼',
+    'feedback.help.featuredArticles': '주요 기사',
+    'feedback.help.featuredCourses': '추천 코스',
+    'feedback.help.featuredVideos': '추천 동영상',
+    'feedback.help.subCategories': '하위 카테고리'
 };
