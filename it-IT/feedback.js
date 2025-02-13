@@ -52,5 +52,13 @@ export default {
     universe {universo}
     story {storia}
     other {storia}
-    } è stato/a violato/a?`
+    } è stato/a violato/a?`,
+    'feedback.help.overview': 'Panoramica',
+    'feedback.help.articles': 'Articoli',
+    'feedback.help.courses': 'Corsi',
+    'feedback.help.videos': 'Tutorial video',
+    'feedback.help.featuredArticles': 'Articoli in evidenza',
+    'feedback.help.featuredCourses': 'Corsi in evidenza',
+    'feedback.help.featuredVideos': 'Video in primo piano',
+    'feedback.help.subCategories': 'Sottocategorie'
 };
