@@ -52,5 +52,13 @@ export default {
     universe {ब्रह्माण्ड}
     story {कथा}
     other {कथा}
-  } अतिक्रमण भइरहेको छ?`
+  } अतिक्रमण भइरहेको छ?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories'
 };

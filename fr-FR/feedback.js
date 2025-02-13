@@ -52,5 +52,13 @@ export default {
     universe {univers}
     story {histoire}
     other {histoire}
-  } est en train d'être violée ?`
+  } est en train d'être violée ?`,
+    'feedback.help.overview': 'Vue d\'ensemble',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Cours',
+    'feedback.help.videos': 'Tutoriels vidéo',
+    'feedback.help.featuredArticles': 'Articles en vedette',
+    'feedback.help.featuredCourses': 'Cours en vedette',
+    'feedback.help.featuredVideos': 'Vidéos en vedette',
+    'feedback.help.subCategories': 'Sous-catégories'
 };

@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': '故事中的總章節數',
     'discovery.readFromStart': '從第一章開始閱讀',
     'discovery.readLatest': '閱讀最新章節',
-    'discovery.author': '作者'
+    'discovery.author': '作者',
+    'discovery.aiGenerated': 'AI 產生'
 };

@@ -52,5 +52,13 @@ export default {
     universe {universum}
     story {lugu}
     other {lugu}
-  } on rikutud?`
+  } on rikutud?`,
+    'feedback.help.overview': 'Ülevaade',
+    'feedback.help.articles': 'Artiklid',
+    'feedback.help.courses': 'Kursused',
+    'feedback.help.videos': 'Videoõpetused',
+    'feedback.help.featuredArticles': 'Esile tõstetud artiklid',
+    'feedback.help.featuredCourses': 'Soovitatavad kursused',
+    'feedback.help.featuredVideos': 'Esile tõstetud videod',
+    'feedback.help.subCategories': 'Alamkategooriad'
 };

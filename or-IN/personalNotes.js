@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'ପୁନର୍ବିବରଣ ପାଠଗୁଡ଼ିକ',
   'personalNotes.chapter': 'ଅଧ୍ୟାୟ',
   'personalNotes.recentSearches': 'ସମ୍ପ୍ରତିକ ଅନୁସନ୍ଧାନ:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'പരിശീലന പഠന ബ്ലോക്ക്',
   'personalNotes.chapter': 'അദ്ധ്യായം',
   'personalNotes.recentSearches': 'പുതിയ തിരയൽകൾ:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

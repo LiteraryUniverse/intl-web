@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'סך הכל מספר הפרקים בסיפור',
     'discovery.readFromStart': 'קרא מהפרק הראשון',
     'discovery.readLatest': 'קרא את הפרק האחרון',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

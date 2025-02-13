@@ -68,4 +68,7 @@ export default {
   'course.internal': 'داخلي',
   'course.free': 'مجاناً',
   'course.sale': 'التخفيضات',
+  'course.announcements': 'الإعلانات',
+  'course.announcements.full': 'إعلانات المقررات الدراسية',
+  'course.announcements.create': 'إنشاء إعلان',
 };

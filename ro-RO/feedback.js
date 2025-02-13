@@ -52,5 +52,13 @@ export default {
     universe {univers}
     story {poveste}
     other {poveste}
-  } este încălcat?`
+  } este încălcat?`,
+    'feedback.help.overview': 'Prezentare generală',
+    'feedback.help.articles': 'Articole',
+    'feedback.help.courses': 'Cursuri',
+    'feedback.help.videos': 'Tutoriale video',
+    'feedback.help.featuredArticles': 'Articole recomandate',
+    'feedback.help.featuredCourses': 'Cursuri recomandate',
+    'feedback.help.featuredVideos': 'Videoclipuri recomandate',
+    'feedback.help.subCategories': 'Subcategorii'
 };

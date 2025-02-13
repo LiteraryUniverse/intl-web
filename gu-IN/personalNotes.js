@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'સંશોધન લખાણ ખંડ',
   'personalNotes.chapter': 'અધ્યાય',
   'personalNotes.recentSearches': 'તાજેતરની શોધો:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

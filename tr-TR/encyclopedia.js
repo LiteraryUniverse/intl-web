@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Gezegenler',
     'encyclopedia.category.species': 'Türler',
     'encyclopedia.category.technologies': 'Teknolojiler',
+    'encyclopedia.category.families': 'Aileler',
+    'encyclopedia.category.jobs': 'Meslekler',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Araçlar',
+    'encyclopedia.category.diseases': 'Hastalıklar',
+    'encyclopedia.category.traditions': 'Gelenekler',
+    'encyclopedia.category.sports': 'Spor',
+    'encyclopedia.category.food': 'Yemek',
+    'encyclopedia.category.landmarks': 'Simgesel Yapılar',
+    'encyclopedia.category.buildings': 'Binalar',
+    'encyclopedia.category.schools': 'Okullar',
+    'encyclopedia.category.continents': 'Kıtalar',
+    'encyclopedia.category.villages': 'Köyler',
+    'encyclopedia.category.towns': 'Kasabalar',
+    'encyclopedia.category.cities': 'Şehirler',
     'encyclopedia.search.found': `{results, plural,
     =0 {İlgili giriş bulunamadı}
     one {1 ilgili giriş bulundu}
@@ -37,60 +52,105 @@ export default {
     'encyclopedia.add.moresoon': 'Daha fazla kategori yakında gelecek!',
     'encyclopedia.create': `Yeni bir {category, select,
     character {karakter}
-    event {etkinlik}
+    event {olay}
     group {grup}
-    item {öğe}
+    item {eşya}
     location {konum}
     other {not}
-    state {durum}
+    state {eyalet}
     governments {hükümet}
     languages {dil}
     creatures {yaratık}
     deity {tanrı}
     religions {din}
-    flora {bitki}
-    magic {sihir}
+    flora {flora}
+    magic {büyü}
     planets {gezegen}
-    species {tür}
+    species {oluşturun tür}
     technologies {teknoloji}
+    families {aile}
+    jobs {iş}
+    lore {irfan}
+    vehicles {araç}
+    diseases {hastalık}
+    traditions {gelenek}
+    food {yemek}
+    sports {spor}
+    landmarks {simge}
+    buildings {bina}
+    schools {okul}
+    continents {kıta}
+    villages {köyler}
+    towns {kasabalar}
+    cities {şehirler}
   }`,
     'encyclopedia.create.header': `Yeni bir {category, select,
     character {karakter}
-    event {etkinlik}
+    event {olay}
     group {grup}
-    item {öğe}
+    item {eşya}
     location {konum}
     other {not}
-    state {durum}
+    state {eyalet}
     governments {hükümet}
     languages {dil}
     creatures {yaratık}
     deity {tanrı}
     religions {din}
-    flora {bitki}
-    magic {sihir}
+    flora {flora}
+    magic {büyü}
     planets {gezegen}
     species {tür}
     technologies {teknoloji}
-  } içinde {universe}`,
+    families {aile}
+    jobs {iş}
+    lore {irfan}
+    vehicles {araç}
+    diseases {hastalık}
+    traditions {gelenek}
+    food {yemek}
+    sports {spor}
+    landmarks {simge}
+    buildings {bina}
+    schools {okul}
+    continents {kıta}
+    villages {köy}
+    towns {kasaba}
+    cities {şehir}
+  } {universe}'de`,
     'encyclopedia.entry.category': `Giriş kategorisi: {category, select,
     character {Karakter}
-    event {Etkinlik}
+    event {Olay}
     group {Grup}
-    item {Öğe}
+    item {Eşya}
     location {Konum}
     other {Not}
-    state {Durum}
+    state {Devlet}
     governments {Hükümet}
     languages {Dil}
     creatures {Yaratık}
-    deity {Tanrı}
+    deity {İlah}
     religions {Din}
     flora {Flora}
     magic {Büyü}
     planets {Gezegen}
     species {Tür}
     technologies {Teknoloji}
+    families {Aile}
+    jobs {İş}
+    lore {İrfan}
+    vehicles {Araç}
+    diseases {Hastalık}
+    traditions {Gelenek}
+    food {Yemek}
+    sports {Spor}
+    landmarks {Simgesel Yapı}
+    buildings {Bina}
+    schools {Okul}
+    continents {Kıta}
+    villages {köy}
+    towns {kasaba}
+    cities {şehir}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Yeni bir alan ekleyin',

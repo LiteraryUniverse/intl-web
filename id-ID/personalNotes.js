@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Blok Teks Revisi',
   'personalNotes.chapter': 'Bab',
   'personalNotes.recentSearches': 'Pencarian Terbaru:',
-  'personalNotes.myNotes': 'Catatan Pribadi Saya'
+  'personalNotes.myNotes': 'Catatan Pribadi Saya',
+  'personalNotes.hasNotes': 'Memiliki Catatan Pribadi'
 };

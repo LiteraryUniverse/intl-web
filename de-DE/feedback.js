@@ -52,5 +52,13 @@ export default {
     universe {Universum}
     story {Geschichte}
     other {Geschichte}
-  } wird verletzt?`
+  } wird verletzt?`,
+    'feedback.help.overview': 'Übersicht',
+    'feedback.help.articles': 'Artikel',
+    'feedback.help.courses': 'Kurse',
+    'feedback.help.videos': 'Video-Tutorials',
+    'feedback.help.featuredArticles': 'Ausgewählte Artikel',
+    'feedback.help.featuredCourses': 'Ausgewählte Kurse',
+    'feedback.help.featuredVideos': 'Ausgewählte Videos',
+    'feedback.help.subCategories': 'Unterkategorien'
 };

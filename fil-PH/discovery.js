@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Kabuuang bilang ng mga kabanata sa kwento',
     'discovery.readFromStart': 'Basahin mula sa unang kabanata',
     'discovery.readLatest': 'Basahin ang pinakabagong kabanata',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

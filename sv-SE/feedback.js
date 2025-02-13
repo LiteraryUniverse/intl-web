@@ -52,5 +52,13 @@ export default {
     universe {universum}
     story {berättelse}
     other {berättelse}
-  } blir kränkt?`
+  } blir kränkt?`,
+    'feedback.help.overview': 'Översikt',
+    'feedback.help.articles': 'Artiklar',
+    'feedback.help.courses': 'Kurser',
+    'feedback.help.videos': 'Videohandledning',
+    'feedback.help.featuredArticles': 'Utvalda artiklar',
+    'feedback.help.featuredCourses': 'Utvalda kurser',
+    'feedback.help.featuredVideos': 'Utvalda videor',
+    'feedback.help.subCategories': 'Underkategorier'
 };

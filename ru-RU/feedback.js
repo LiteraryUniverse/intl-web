@@ -52,5 +52,13 @@ export default {
     universe {вселенная}
     story {история}
     other {история}
-  } нарушается?`
+  } нарушается?`,
+    'feedback.help.overview': 'Обзор',
+    'feedback.help.articles': 'Статьи',
+    'feedback.help.courses': 'Курсы',
+    'feedback.help.videos': 'Видеоуроки',
+    'feedback.help.featuredArticles': 'Избранные статьи',
+    'feedback.help.featuredCourses': 'Популярные курсы',
+    'feedback.help.featuredVideos': 'Видеоролики',
+    'feedback.help.subCategories': 'Подкатегории'
 };

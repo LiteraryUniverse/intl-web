@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'গল্পের মোট সংখ্যা পর্যালোচনা করুন',
     'discovery.readFromStart': 'প্ৰথম অধ্যায়ৰ পৰা পঢ়ক',
     'discovery.readLatest': 'সাম্প্ৰতিক অধ্যায় পৰা পঢ়ক',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

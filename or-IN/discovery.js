@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'କଥାରେ ମୋଟ ଅଧ୍ୟାୟ ସଂଖ୍ୟା',
     'discovery.readFromStart': 'ପ୍ରଥମ ପ୍ରବନ୍ଧରୁ ପଢନ୍ତୁ',
     'discovery.readLatest': 'ନବୀନତମ ପ୍ରବନ୍ଧ ପଢନ୍ତୁ',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

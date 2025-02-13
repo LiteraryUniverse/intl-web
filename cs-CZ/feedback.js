@@ -52,5 +52,13 @@ export default {
     universe {vesmír}
     story {příběh}
     other {}
-  } je zde zneužit?`
+  } je zde zneužit?`,
+    'feedback.help.overview': 'Přehled',
+    'feedback.help.articles': 'Články',
+    'feedback.help.courses': 'Kurzy',
+    'feedback.help.videos': 'Videonávody',
+    'feedback.help.featuredArticles': 'Doporučené články',
+    'feedback.help.featuredCourses': 'Doporučené kurzy',
+    'feedback.help.featuredVideos': 'Doporučená videa',
+    'feedback.help.subCategories': 'Podkategorie'
 };

@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Vidinis',
   'course.free': 'Nemokamai',
   'course.sale': 'Pardavimas',
+  'course.announcements': 'Skelbimai',
+  'course.announcements.full': 'Kursų skelbimai',
+  'course.announcements.create': 'Sukurti skelbimą',
 };

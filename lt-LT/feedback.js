@@ -52,5 +52,13 @@ export default {
     universe {visatos}
     story {istorijos}
     other {istorija}
-  } yra pažeidžiama?`
+  } yra pažeidžiama?`,
+    'feedback.help.overview': 'Apžvalga',
+    'feedback.help.articles': 'Straipsniai',
+    'feedback.help.courses': 'Kursai',
+    'feedback.help.videos': 'Vaizdo pamokos',
+    'feedback.help.featuredArticles': 'Rekomenduojami straipsniai',
+    'feedback.help.featuredCourses': 'Rekomenduojami kursai',
+    'feedback.help.featuredVideos': 'Rekomenduojami vaizdo įrašai',
+    'feedback.help.subCategories': 'Subkategorijos'
 };

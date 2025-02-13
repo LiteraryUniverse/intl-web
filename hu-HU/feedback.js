@@ -52,5 +52,13 @@ export default {
     universe {univerzum}
     story {történet}
     other {történet}
-  } sérül?`
+  } sérül?`,
+    'feedback.help.overview': 'Áttekintés',
+    'feedback.help.articles': 'Cikkek',
+    'feedback.help.courses': 'Tanfolyamok',
+    'feedback.help.videos': 'Videó oktatóvideók',
+    'feedback.help.featuredArticles': 'Kiemelt cikkek',
+    'feedback.help.featuredCourses': 'Kiemelt tanfolyamok',
+    'feedback.help.featuredVideos': 'Kiemelt videók',
+    'feedback.help.subCategories': 'Alkategóriák'
 };

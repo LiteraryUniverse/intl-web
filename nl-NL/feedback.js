@@ -52,5 +52,13 @@ export default {
     universe {universum}
     story {verhaal}
     other {verhaal}
-  } wordt geschonden?`
+  } wordt geschonden?`,
+    'feedback.help.overview': 'Overzicht',
+    'feedback.help.articles': 'Artikelen',
+    'feedback.help.courses': 'Cursussen',
+    'feedback.help.videos': 'Video-handleidingen',
+    'feedback.help.featuredArticles': 'Aanbevolen artikelen',
+    'feedback.help.featuredCourses': 'Aanbevolen cursussen',
+    'feedback.help.featuredVideos': 'Uitgelichte video\'s',
+    'feedback.help.subCategories': 'Sub-categorieën'
 };

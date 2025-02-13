@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'કથામાં કુલ અધ્યાયોની સંખ્યા',
     'discovery.readFromStart': 'પ્રથમ અધ્યાયથી વાંચો',
     'discovery.readLatest': 'તાજેતરનું અધ્યાય વાંચો',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': '惑星',
     'encyclopedia.category.species': '正貨',
     'encyclopedia.category.technologies': '技術',
+    'encyclopedia.category.families': '家族',
+    'encyclopedia.category.jobs': '求人情報',
+    'encyclopedia.category.lore': '伝承',
+    'encyclopedia.category.vehicles': '車両',
+    'encyclopedia.category.diseases': '病気',
+    'encyclopedia.category.traditions': '伝統',
+    'encyclopedia.category.sports': 'スポーツ',
+    'encyclopedia.category.food': 'フード',
+    'encyclopedia.category.landmarks': 'ランドマーク',
+    'encyclopedia.category.buildings': '建物',
+    'encyclopedia.category.schools': '学校',
+    'encyclopedia.category.continents': '大陸',
+    'encyclopedia.category.villages': '村々',
+    'encyclopedia.category.towns': 'タウンズ',
+    'encyclopedia.category.cities': '都市',
     'encyclopedia.search.found': `{results, plural,
     =0 {関連エントリが見つかりません。}
     other {#件の関連エントリーが見つかりました。}
@@ -34,63 +49,108 @@ export default {
     'encyclopedia.add.title': 'エンサイクロペディアに新しい記事を追加する',
     'encyclopedia.add.heading': '何を追加しますか？',
     'encyclopedia.add.moresoon': 'より多くのカテゴリがまもなく登場します！',
-    'encyclopedia.create': `新しい{category, select,
-    character {キャラクター}
-    event {イベント}
-    group {グループ}
-    item {項目}
-    location {場所}
-    other {その他}
-    state {国家}
-    governments {政府}
-    languages {語}
-    creatures {生き物}
-    deity {神}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {惑星}
-    species {正貨}
-    technologies {技術}
-  }を作成する`,
-    'encyclopedia.create.header': `{universe}に新しい{category, select,
-    character {キャラクター}
-    event {イベント}
-    group {グループ}
-    item {項目}
-    location {場所}
-    other {その他}
-    state {国家}
-    governments {政府}
-    languages {語}
-    creatures {生き物}
-    deity {神}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {惑星}
-    species {正貨}
-    technologies {技術}
-  }を作成する`,
-    'encyclopedia.entry.category': `記事のカテゴリ: {category, select,
-    character {キャラクター}
-    event {イベント}
-    group {グループ}
-    item {項目}
-    location {場所}
-    other {その他}
-    state {国家}
-    governments {政府}
-    languages {語}
-    creatures {生き物}
-    deity {神}
-    religions {宗教}
-    flora {植物}
-    magic {魔法}
-    planets {惑星}
-    species {正貨}
-    technologies {技術}
+    'encyclopedia.create': `Create new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {.specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
+    'encyclopedia.create.header': `Creating new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {.specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `エントリーカテゴリー {category, select,
+    character {キャラクター}
+    event {イベント}
+    group {グループ}
+    item {アイテム}
+    location {場所}
+    other {メモ}
+    state {国家}
+    governments {政府}
+    languages {言語}
+    creatures {クリーチャー}
+    deity {神}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {惑星}
+    species {種族}
+    technologies {技術}
+    families {家族}
+    jobs {仕事}
+    lore {言い伝え}
+    vehicles {乗り物}
+    diseases {病気}
+    traditions {伝統}
+    food {食べ物}
+    sports {スポーツ}
+    landmarks {ランドマーク}
+    buildings {建物}
+    schools {学校}
+    continents {大陸}
+    villages {村}
+    towns {町}
+    cities {都市}
+  }。`,
     'encyclopedia.entry.category.legend': '記事のカテゴリ',
     'encyclopedia.fields.add': '新しいフィールドを追加する',
     'encyclopedia.fields.text': '定義',

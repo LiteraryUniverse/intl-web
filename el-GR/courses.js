@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Εσωτερικό',
   'course.free': 'Δωρεάν',
   'course.sale': 'Πώληση',
+  'course.announcements': 'Ανακοινώσεις',
+  'course.announcements.full': 'Ανακοινώσεις μαθημάτων',
+  'course.announcements.create': 'Δημιουργήστε μια ανακοίνωση',
 };

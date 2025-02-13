@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Numărul total de capitole în poveste',
     'discovery.readFromStart': 'Citit de la primul capitol',
     'discovery.readLatest': 'Citit ultimul capitol',
-    'discovery.author': 'Autor'
+    'discovery.author': 'Autor',
+    'discovery.aiGenerated': 'Generat de AI'
 };

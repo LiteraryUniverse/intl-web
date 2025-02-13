@@ -52,5 +52,13 @@ export default {
     universe {უნივერსუმი}
     story {ისტორია}
     other {ისტორია}
-  } არის დაფიქსირებული?`
+  } არის დაფიქსირებული?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories'
 };

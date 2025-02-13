@@ -68,5 +68,6 @@ export default {
     'discovery.chaptersTotal': 'Загальна кількість глав у історії',
     'discovery.readFromStart': 'Читати з першої глави',
     'discovery.readLatest': 'Читати останню главу',
-    'discovery.author': 'Автор'
+    'discovery.author': 'Автор',
+    'discovery.aiGenerated': 'Створено штучним інтелектом'
 };
