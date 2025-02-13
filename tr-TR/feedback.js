@@ -52,5 +52,13 @@ export default {
     universe {evrenin}
     story {hikayesi}
     other {hikayesi}
-  } ihlal ediliyor?`
+  } ihlal ediliyor?`,
+    'feedback.help.overview': 'Genel Bakış',
+    'feedback.help.articles': 'Makaleler',
+    'feedback.help.courses': 'Kurslar',
+    'feedback.help.videos': 'Video eğitimleri',
+    'feedback.help.featuredArticles': 'Öne Çıkan Makaleler',
+    'feedback.help.featuredCourses': 'Öne Çıkan Kurslar',
+    'feedback.help.featuredVideos': 'Öne Çıkan Videolar',
+    'feedback.help.subCategories': 'Alt kategoriler'
 };
