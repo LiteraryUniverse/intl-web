@@ -52,5 +52,13 @@ export default {
     universe {univers}
     story {historie}
     other {historie}
-  } bliver overtrådt?`
+  } bliver overtrådt?`,
+    'feedback.help.overview': 'Oversigt',
+    'feedback.help.articles': 'Artikler',
+    'feedback.help.courses': 'Kurser',
+    'feedback.help.videos': 'Video-tutorials',
+    'feedback.help.featuredArticles': 'Udvalgte artikler',
+    'feedback.help.featuredCourses': 'Udvalgte kurser',
+    'feedback.help.featuredVideos': 'Udvalgte videoer',
+    'feedback.help.subCategories': 'Underkategorier'
 };
