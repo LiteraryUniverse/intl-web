@@ -52,5 +52,13 @@ export default {
     universe {宇宙}
     story {故事}
     other {故事}
-  } 受到侵害？`
+  } 受到侵害？`,
+    'feedback.help.overview': '概述',
+    'feedback.help.articles': '文章',
+    'feedback.help.courses': '課程',
+    'feedback.help.videos': '視訊教學',
+    'feedback.help.featuredArticles': '精選文章',
+    'feedback.help.featuredCourses': '精選課程',
+    'feedback.help.featuredVideos': '精選影片',
+    'feedback.help.subCategories': '子類別'
 };
