@@ -52,5 +52,13 @@ export default {
     universe {σύμπαν}
     story {ιστορία}
     other {ιστορία}
-  } παραβιάζεται;`
+  } παραβιάζεται;`,
+    'feedback.help.overview': 'Επισκόπηση',
+    'feedback.help.articles': 'Άρθρα',
+    'feedback.help.courses': 'Μαθήματα',
+    'feedback.help.videos': 'Εκπαιδευτικά βίντεο',
+    'feedback.help.featuredArticles': 'Προτεινόμενα άρθρα',
+    'feedback.help.featuredCourses': 'Προτεινόμενα μαθήματα',
+    'feedback.help.featuredVideos': 'Προτεινόμενα βίντεο',
+    'feedback.help.subCategories': 'Υποκατηγορίες'
 };
