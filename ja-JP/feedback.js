@@ -52,5 +52,13 @@ export default {
     universe {宇宙}
     story {物語}
     other {物語}
-  }が侵害されていますか？`
+  }が侵害されていますか？`,
+    'feedback.help.overview': '概要',
+    'feedback.help.articles': '記事',
+    'feedback.help.courses': 'コース',
+    'feedback.help.videos': 'ビデオ・チュートリアル',
+    'feedback.help.featuredArticles': '注目記事',
+    'feedback.help.featuredCourses': 'おすすめコース',
+    'feedback.help.featuredVideos': '特集ビデオ',
+    'feedback.help.subCategories': 'サブカテゴリー'
 };
