@@ -52,5 +52,13 @@ export default {
     universe {universumin}
     story {tarinaa}
     other {tarinaa}
-  } loukataan?`
+  } loukataan?`,
+    'feedback.help.overview': 'Yleiskatsaus',
+    'feedback.help.articles': 'Artikkelit',
+    'feedback.help.courses': 'Kurssit',
+    'feedback.help.videos': 'Video-oppaat',
+    'feedback.help.featuredArticles': 'Suositeltavat artikkelit',
+    'feedback.help.featuredCourses': 'Valitut kurssit',
+    'feedback.help.featuredVideos': 'Esillä olevat videot',
+    'feedback.help.subCategories': 'Alaluokat'
 };
