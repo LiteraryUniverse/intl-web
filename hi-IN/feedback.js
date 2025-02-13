@@ -52,5 +52,13 @@ export default {
     universe {यूनिवर्स}
     story {कहानी}
     other {कहानी}
-  } का उल्लंघन किया जा रहा है?`
+  } का उल्लंघन किया जा रहा है?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories'
 };
