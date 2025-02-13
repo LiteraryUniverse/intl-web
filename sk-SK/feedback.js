@@ -52,5 +52,13 @@ export default {
     universe {vesmír}
     story {príbeh}
     other {príbeh}
-  } je porušený?`
+  } je porušený?`,
+    'feedback.help.overview': 'Prehľad',
+    'feedback.help.articles': 'Články',
+    'feedback.help.courses': 'Kurzy',
+    'feedback.help.videos': 'Videonávody',
+    'feedback.help.featuredArticles': 'Odporúčané články',
+    'feedback.help.featuredCourses': 'Odporúčané kurzy',
+    'feedback.help.featuredVideos': 'Odporúčané videá',
+    'feedback.help.subCategories': 'Podkategórie'
 };
