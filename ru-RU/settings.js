@@ -117,5 +117,5 @@ export default {
     'settings.tab.exportDelete': 'Экспорт данных и удаление учётной записи',
     'settings.languages.uiLanguage': 'Язык интерфейса',
     'settings.languages.readingLanguage': 'Язык чтения',
-    'settings.languages.readingLanguageExplained': 'При поиске историй мы будем предлагать Вам истории и их переводы на этом языке, если Вы не укажете иное.'
+    'settings.languages.readingLanguageExplained': 'При поиске историй мы будем предлагать вам истории и их переводы на этом языке, если вы не укажете иное.'
 };
