@@ -69,6 +69,6 @@ export default {
   'course.free': 'Бесплатно',
   'course.sale': 'Скидка',
   'course.announcements': 'Объявления',
-  'course.announcements.full': 'Объявления о курсах',
-  'course.announcements.create': 'Создайте объявление',
+  'course.announcements.full': 'Объявления курса',
+  'course.announcements.create': 'Создать объявление',
 };
