@@ -251,7 +251,7 @@ export default {
     recommended: 'Рекомендуемые',
     'select.typeToCreate': 'Начните печатать для создания элемента',
     'select.noSearchResults': 'Ничего не найдено по «{search}»',
-    'select.removeOption': 'Удалить {option}',
+    'select.removeOption': 'Удалить: {option}',
     create: 'Создать',
     'banner.support': 'Literary Universe стала возможной благодаря поддержке таких пользователей, как вы. Чтобы помочь нам сохранить независимость и улучшить платформу, пожалуйста, подпишитесь на один из наших тарифных планов.',
     'banner.seePlans': 'Для подробностей посетите нашу карту разработки.',
