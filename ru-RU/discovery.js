@@ -69,5 +69,5 @@ export default {
     'discovery.readFromStart': 'Читать с первой главы',
     'discovery.readLatest': 'Читать последнюю главу',
     'discovery.author': 'Автор',
-    'discovery.aiGenerated': 'Сгенерированный ИИ'
+    'discovery.aiGenerated': 'Создано ИИ'
 };
