@@ -308,8 +308,8 @@ export default {
     'workshop.videoTrailer.suggestPlatforms': 'Если ваша видеоплатформа отсутствует, дайте нам знать через нашу <a>обратную связь</a>!',
     'workshop.cover.edit': 'Сменить обложку',
     'workshop.collaborator.leave': 'Покинуть проект',
-    'workshop.collaborator.leaveTitle': 'Пожалуйста, подтвердите, что вы хотите покинуть проект «{workName}»',
+    'workshop.collaborator.leaveTitle': 'Пожалуйста, подтвердите, что вы хотите покинуть «{workName}»',
     'workshop.collaborator.leaveExplained': 'Уход из проекта означает, что вы потеряете все доступы, ассоциации и привилегии. Если вы не уверены, что всё это значит, то, вероятно, это не то, что вы хотели нажать.',
     'workshop.collaborators.leftInfo': 'Покинул {date, date}',
-    'workshop.collaborators.removedInfo': 'Удалено на {date, date}'
+    'workshop.collaborators.removedInfo': 'Удалён {date, date}'
 };
