@@ -57,8 +57,8 @@ export default {
     'feedback.help.articles': 'Статьи',
     'feedback.help.courses': 'Курсы',
     'feedback.help.videos': 'Видеоуроки',
-    'feedback.help.featuredArticles': 'Избранные статьи',
+    'feedback.help.featuredArticles': 'Популярные статьи',
     'feedback.help.featuredCourses': 'Популярные курсы',
-    'feedback.help.featuredVideos': 'Видеоролики',
+    'feedback.help.featuredVideos': 'Популярные видео',
     'feedback.help.subCategories': 'Подкатегории'
 };
