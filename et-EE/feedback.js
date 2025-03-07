@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Palun märkige, et selle vormi kasutamiseks peate olema töö õiguspärane omanik. Kui te ei ole omanik, palun teavitage omanikku või kasutage teist kategooriat meie teavitamiseks. Me võtame autoriõiguse rikkumisi äärmiselt tõsiselt ja sama kehtib ka selle vormi ebaõige ja väärkasutuse kohta.',
     'feedback.report.copyrightInternalProperty': 'Olen avaldanud selle töö Literary Universe\'is',
     'feedback.reportType.spam': 'Spämm või kalastamiskatse',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Märgistamata tehisintellekti loodud sisu',
     'feedback.reportType.other': 'Muu',
     'feedback.report.copyrightType.propertySelectLabel': `Milline {type, select,
     universe {universum}
