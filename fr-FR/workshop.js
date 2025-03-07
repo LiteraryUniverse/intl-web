@@ -292,5 +292,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Veuillez confirmer que vous souhaitez quitter {workName}',
     'workshop.collaborator.leaveExplained': 'En quittant le projet, vous perdrez tous vos accès, associations et privilèges. Si vous n\'êtes pas sûr de ce que cela signifie, ce n\'est probablement pas ce que vous vouliez cliquer.',
     'workshop.collaborators.leftInfo': 'A gauche sur {date, date}',
-    'workshop.collaborators.removedInfo': 'Supprimé le {date, date}'
+    'workshop.collaborators.removedInfo': 'Supprimé le {date, date}',
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
 };
