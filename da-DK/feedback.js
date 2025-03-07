@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Udvalgte artikler',
     'feedback.help.featuredCourses': 'Udvalgte kurser',
     'feedback.help.featuredVideos': 'Udvalgte videoer',
-    'feedback.help.subCategories': 'Underkategorier'
+    'feedback.help.subCategories': 'Underkategorier',
+    'feedback.resolution.title': 'Center for opløsning',
+    'feedback.resolution.desc': 'Håndter og løs rapporterede overtrædelser',
+    'feedback.reportType.aiGenerated': 'AI-genereret indhold',
+    'feedback.resolution.aiGeneration': 'Status for AI-generering',
+    'feedback.resolution.aiGenerated': 'AI-genereret',
+    'feedback.resolution.notAiGenerated': 'Ikke AI-genereret'
 };
