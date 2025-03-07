@@ -292,5 +292,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Bitte bestätigen Sie, dass Sie {workName}verlassen möchten.',
     'workshop.collaborator.leaveExplained': 'Wenn Sie das Projekt verlassen, verlieren Sie alle Zugriffsrechte, Verbindungen und Privilegien. Wenn Sie sich nicht sicher sind, was das alles bedeutet, dann ist das wahrscheinlich nicht das, was Sie anklicken wollten.',
     'workshop.collaborators.leftInfo': 'Links auf {date, date}',
-    'workshop.collaborators.removedInfo': 'Entfernt auf {date, date}'
+    'workshop.collaborators.removedInfo': 'Entfernt auf {date, date}',
+    'workshop.aiGeneratedAdjusted': 'Der KI-Generierungsstatus dieses Inhalts wurde aufgrund eines Benutzerberichts von einem Administrator angepasst und kann nicht geändert werden.'
 };
