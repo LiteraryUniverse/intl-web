@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Favor observar que você precisa ser o proprietário legítimo do trabalho para usar este formulário. Se você não for o proprietário, favor informar o proprietário ou usar a outra categoria para nos informar. Levamos as violações de direitos autorais extremamente a sério e o mesmo se aplica ao uso impróprio e abusivo deste formulário.',
     'feedback.report.copyrightInternalProperty': 'Eu publiquei este trabalho sobre o Universo Literário',
     'feedback.reportType.spam': 'Spam ou phishing',
+    'feedback.reportType.soliciting': 'Solicitação',
+    'feedback.reportType.aiUnmarked': 'Conteúdo gerado por IA não marcado',
     'feedback.reportType.other': 'Outros',
     'feedback.report.copyrightType.propertySelectLabel': `Qual {type, select,
     universe {universo}
