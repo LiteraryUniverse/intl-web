@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'مقالات مميزة',
     'feedback.help.featuredCourses': 'الدورات التدريبية المميزة',
     'feedback.help.featuredVideos': 'فيديوهات مميزة',
-    'feedback.help.subCategories': 'الفئات الفرعية'
+    'feedback.help.subCategories': 'الفئات الفرعية',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };
