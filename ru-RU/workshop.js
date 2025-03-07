@@ -311,5 +311,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Пожалуйста, подтвердите, что вы хотите покинуть «{workName}»',
     'workshop.collaborator.leaveExplained': 'Уход из проекта означает, что вы потеряете все доступы, ассоциации и привилегии. Если вы не уверены, что всё это значит, то, вероятно, это не то, что вы хотели нажать.',
     'workshop.collaborators.leftInfo': 'Покинул {date, date}',
-    'workshop.collaborators.removedInfo': 'Удалён {date, date}'
+    'workshop.collaborators.removedInfo': 'Удалён {date, date}',
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
 };
