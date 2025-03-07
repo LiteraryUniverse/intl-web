@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'โปรดทราบว่าคุณจำเป็นต้องเป็นเจ้าของสิ่งงานเพื่อใช้แบบฟอร์มนี้ หากคุณไม่ใช่เจ้าของ โปรดแจ้งเจ้าของหรือใช้หมวดหมู่อื่นเพื่อแจ้งให้เรารับทราบ การละเมิดลิขสิทธิ์เป็นเรื่องที่เราใส่ใจอย่างยิ่งและเราใช้วิธีการเดียวกันเมื่อมีการใช้แบบฟอร์มนี้อย่างไม่ถูกต้องและเป็นการละเมิด',
     'feedback.report.copyrightInternalProperty': 'ฉันได้เผยแพร่งานนี้บน Literary Universe',
     'feedback.reportType.spam': 'สแปมหรือการฟิชชิ่ง',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'อื่นๆ',
     'feedback.report.copyrightType.propertySelectLabel': `ในจักรวาล {type, select,
     universe {นิทาน}
