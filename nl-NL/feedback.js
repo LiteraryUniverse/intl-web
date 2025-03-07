@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Houd er rekening mee dat u de rechtmatige eigenaar van het werk moet zijn om dit formulier te gebruiken. Als u niet de eigenaar bent, informeer dan alstublieft de eigenaar of gebruik de andere categorie om ons te informeren. Wij nemen auteursrechtinbreuken zeer serieus en hetzelfde geldt voor het onjuiste en misbruik van dit formulier.',
     'feedback.report.copyrightInternalProperty': 'Ik heb dit werk gepubliceerd op Literary Universe',
     'feedback.reportType.spam': 'Spam of phishing',
+    'feedback.reportType.soliciting': 'Werven op',
+    'feedback.reportType.aiUnmarked': 'Niet-gemarkeerde AI-gegenereerde inhoud',
     'feedback.reportType.other': 'Overig',
     'feedback.report.copyrightType.propertySelectLabel': `Welk {type, select,
     universe {universum}
