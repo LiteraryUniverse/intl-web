@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Cal tenir en compte que has de ser el propietari legítim de l\'obra per utilitzar aquest formulari. Si no ho ets, informa al propietari o utilitza una altra categoria per informar-nos. Prendrem les violacions de drets d\'autor extremadament seriosament, així com l\'ús indegut i abusiu d\'aquest formulari.',
     'feedback.report.copyrightInternalProperty': 'He publicat aquesta obra a Literary Universe',
     'feedback.reportType.spam': 'Correu brossa o phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Altres',
     'feedback.report.copyrightType.propertySelectLabel': `Quin {type, select,
     universe {univers}
