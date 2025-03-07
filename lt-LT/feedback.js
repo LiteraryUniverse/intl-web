@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Prašome atkreipti dėmesį, kad norint naudotis šia forma, turite būti teisėtas darbo savininkas. Jei nesate savininkas, prašome informuoti savininką arba naudoti kitą kategoriją, kad mus informuotumėte. Mes labai rimtai vertiname autorių teisių pažeidimus, taip pat netinkamą ir piktnaudžiavimą šia forma.',
     'feedback.report.copyrightInternalProperty': 'Aš paskelbiau šį darbą „Literary Universe“',
     'feedback.reportType.spam': 'Šlamštas arba phishinimas',
+    'feedback.reportType.soliciting': 'Prašymas',
+    'feedback.reportType.aiUnmarked': 'Nepažymėtas dirbtinio intelekto sukurtas turinys',
     'feedback.reportType.other': 'Kita',
     'feedback.report.copyrightType.propertySelectLabel': `Kurios {type, select,
     universe {visatos}
