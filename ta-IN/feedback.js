@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'தயவுசெய்து இந்த படிவத்தைப் பயன்படுத்துவதற்கு நீங்கள் தமிழ் உலாவியில் உள்ள உரிமையாளர் ஆக வேண்டும். நீங்கள் உரிமையாளர் அல்லது உரிமையாளராக இல்லையானால், தயவுசெய்து உரிமையாளருக்கு அறிவிக்க அல்லது மற்ற வகையில் எங்களுக்கு அறிவிக்க பயன்படுத்துகின்றோம். நாங்கள் பதிலளிக்கும் முடிவுகளை மிகுந்த முடிவுகளாக எடுக்கின்றோம்.',
     'feedback.report.copyrightInternalProperty': 'நான் இந்த பணியத்தை இலக்கணக்கல் உலாவியில் வெளியிட்டுள்ளேன்',
     'feedback.reportType.spam': 'அஞ்சல் அல்லது பிஷிங்',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'மற்றவை',
     'feedback.report.copyrightType.propertySelectLabel': `எந்த {type, select,
     universe {உலகம்}
