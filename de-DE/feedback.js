@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Ausgewählte Artikel',
     'feedback.help.featuredCourses': 'Ausgewählte Kurse',
     'feedback.help.featuredVideos': 'Ausgewählte Videos',
-    'feedback.help.subCategories': 'Unterkategorien'
+    'feedback.help.subCategories': 'Unterkategorien',
+    'feedback.resolution.title': 'Auflösung Zentrum',
+    'feedback.resolution.desc': 'Verwalten und lösen Sie gemeldete Verstöße',
+    'feedback.reportType.aiGenerated': 'KI-generierte Inhalte',
+    'feedback.resolution.aiGeneration': 'Status der KI-Generation',
+    'feedback.resolution.aiGenerated': 'KI-generiert',
+    'feedback.resolution.notAiGenerated': 'Nicht KI-generiert'
 };
