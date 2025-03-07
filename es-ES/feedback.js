@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Ten en cuenta que debes ser el propietario de la obra para utilizar este formulario. Si no eres el propietario, informa al propietario o utiliza la otra categoría para informarnos. Nos tomamos muy en serio las violaciones de derechos de autor al igual que el uso inadecuado y abusivo de este formulario.',
     'feedback.report.copyrightInternalProperty': 'He publicado esta obra en Literary Universe',
     'feedback.reportType.spam': 'Spam o phishing',
+    'feedback.reportType.soliciting': 'Solicitar',
+    'feedback.reportType.aiUnmarked': 'Contenido generado por IA sin marcar',
     'feedback.reportType.other': 'Otros',
     'feedback.report.copyrightType.propertySelectLabel': `¿Qué {type, select,
     universe {universo}
