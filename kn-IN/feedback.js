@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'ಈ ಫಾರಮ್ ಅನ್ನು ಬಳಸಲು ನೀವು ಕೃತಿಯ ನ್ಯಾಯವಾದ ಮಾಲಿಕರಾಗಿರಬೇಕು ಎಂದು ಗಮನಿಸಿ. ನೀವು ಮಾಲಿಕರಲ್ಲದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಮಾಲಿಕರಿಗೆ ತಿಳಿಸಿ ಅಥವಾ ನಮಗೆ ತಿಳಿಸಲು ಇನ್ನೊಂದು ವರ್ಗವನ್ನು ಬಳಸಿ. ನಾವು ಪಾಯಿತುಕಾರಿ ಮತ್ತು ಅನಧಿಕೃತ ಫಾರಮ್ ಬಳಸುವ ಪ್ರಯೋಗಗಳನ್ನು ಗಂಭೀರವಾಗಿ ತೆಗೆದುಕೊಳ್ಳುತ್ತೇವೆ ಎಂದು ದಯವಿಟ್ಟು ಗಮನಿಸಿ.',
     'feedback.report.copyrightInternalProperty': 'ನಾನು ಈ ಕೃತಿಯನ್ನು ಸಾಹಿತ್ಯ ಯೂನಿವರ್ಸ್‌ನಲ್ಲಿ ಪ್ರಕಟಿಸಿದ್ದೇನೆ',
     'feedback.reportType.spam': 'ಸ್ಪ್ಯಾಮ್ ಅಥವಾ ಫಿಷಿಂಗ್',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'ಇತರ',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
