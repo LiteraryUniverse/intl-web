@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Lütfen bu formu kullanmak için eserin hak sahibi olmanız gerektiğini unutmayın. Eğer sahip değilseniz, lütfen sahibi bilgilendirin veya bize bilgi vermek için diğer kategoriyi kullanın. Telif hakkı ihlallerini son derece ciddiye alıyoruz ve aynı şey bu formun yanlış ve kötüye kullanımı için de geçerlidir.',
     'feedback.report.copyrightInternalProperty': 'Bu eseri Literary Universe üzerinde yayımladım',
     'feedback.reportType.spam': 'Spam veya phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'İşaretlenmemiş yapay zeka tarafından oluşturulmuş içerik',
     'feedback.reportType.other': 'Diğer',
     'feedback.report.copyrightType.propertySelectLabel': `Hangi {type, select,
     universe {evrenin}
