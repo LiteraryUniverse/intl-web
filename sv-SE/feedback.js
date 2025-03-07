@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Utvalda artiklar',
     'feedback.help.featuredCourses': 'Utvalda kurser',
     'feedback.help.featuredVideos': 'Utvalda videor',
-    'feedback.help.subCategories': 'Underkategorier'
+    'feedback.help.subCategories': 'Underkategorier',
+    'feedback.resolution.title': 'Upplösningscenter',
+    'feedback.resolution.desc': 'Hantera och åtgärda rapporterade överträdelser',
+    'feedback.reportType.aiGenerated': 'AI-genererat innehåll',
+    'feedback.resolution.aiGeneration': 'Status för AI-generering',
+    'feedback.resolution.aiGenerated': 'AI-genererad',
+    'feedback.resolution.notAiGenerated': 'Inte AI-genererad'
 };
