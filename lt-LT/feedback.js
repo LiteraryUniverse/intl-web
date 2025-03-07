@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Rekomenduojami straipsniai',
     'feedback.help.featuredCourses': 'Rekomenduojami kursai',
     'feedback.help.featuredVideos': 'Rekomenduojami vaizdo įrašai',
-    'feedback.help.subCategories': 'Subkategorijos'
+    'feedback.help.subCategories': 'Subkategorijos',
+    'feedback.resolution.title': 'Sprendimų priėmimo centras',
+    'feedback.resolution.desc': 'Tvarkykite ir spręskite pažeidimus, apie kuriuos pranešta.',
+    'feedback.reportType.aiGenerated': 'dirbtinio intelekto sukurtas turinys',
+    'feedback.resolution.aiGeneration': 'AI generavimo būsena',
+    'feedback.resolution.aiGenerated': 'Sukurtas dirbtinis intelektas',
+    'feedback.resolution.notAiGenerated': 'Ne dirbtinio intelekto sukurtas'
 };
