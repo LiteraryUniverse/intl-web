@@ -292,5 +292,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Bekræft venligst, at du ønsker at forlade {workName}',
     'workshop.collaborator.leaveExplained': 'Hvis du forlader projektet, mister du al adgang, tilknytning og privilegier. Hvis du ikke er sikker på, hvad alt dette betyder, så er det nok ikke det, du ville klikke på.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
-    'workshop.collaborators.removedInfo': 'Fjernet på {date, date}'
+    'workshop.collaborators.removedInfo': 'Fjernet på {date, date}',
+    'workshop.aiGeneratedAdjusted': 'AI-generationsstatus for dette indhold er som følge af en brugerrapport blevet justeret af en administrator og kan ikke ændres.'
 };
