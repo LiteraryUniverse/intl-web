@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Si prega di notare che per utilizzare questo modulo è necessario essere il legittimo proprietario del lavoro. Se non lo sei, ti preghiamo di informare il proprietario o utilizzare l\'altra categoria per farcelo sapere. Prendiamo molto sul serio le violazioni di copyright e lo stesso vale per l\'uso improprio e abusivo di questo modulo.',
     'feedback.report.copyrightInternalProperty': 'Ho pubblicato questo lavoro su Literary Universe',
     'feedback.reportType.spam': 'Spam o truffa',
+    'feedback.reportType.soliciting': 'Adescamento',
+    'feedback.reportType.aiUnmarked': 'Contenuti generati dall\'AI non contrassegnati',
     'feedback.reportType.other': 'Altro',
     'feedback.report.copyrightType.propertySelectLabel': `Quale {type, select,
     universe {universo}
