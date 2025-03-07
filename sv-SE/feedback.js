@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Observera att du måste vara den rättmätiga ägaren till verket för att använda detta formulär. Om du inte är ägaren, var vänlig informera ägaren eller använd den andra kategorin för att informera oss. Vi tar upphovsrättsintrång på största allvar och samma gäller för felaktig och kränkande användning av detta formulär.',
     'feedback.report.copyrightInternalProperty': 'Jag har publicerat detta verk på Literary Universe',
     'feedback.reportType.spam': 'Spam eller phishing',
+    'feedback.reportType.soliciting': 'Uppmaning',
+    'feedback.reportType.aiUnmarked': 'Omärkt AI-genererat innehåll',
     'feedback.reportType.other': 'Övrigt',
     'feedback.report.copyrightType.propertySelectLabel': `Vilket {type, select,
     universe {universum}
