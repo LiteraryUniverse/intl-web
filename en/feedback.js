@@ -57,6 +57,7 @@ export default {
     'I have published this work on Literary Universe',
   'feedback.reportType.spam': 'Spam or phishing',
   'feedback.reportType.soliciting': 'Soliciting',
+  'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
   'feedback.reportType.other': 'Other',
   'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
