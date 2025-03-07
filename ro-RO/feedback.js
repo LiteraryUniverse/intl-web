@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Articole recomandate',
     'feedback.help.featuredCourses': 'Cursuri recomandate',
     'feedback.help.featuredVideos': 'Videoclipuri recomandate',
-    'feedback.help.subCategories': 'Subcategorii'
+    'feedback.help.subCategories': 'Subcategorii',
+    'feedback.resolution.title': 'Centrul de rezoluție',
+    'feedback.resolution.desc': 'Gestionarea și soluționarea încălcărilor raportate',
+    'feedback.reportType.aiGenerated': 'Conținut generat de AI',
+    'feedback.resolution.aiGeneration': 'Starea generației AI',
+    'feedback.resolution.aiGenerated': 'Generat de AI',
+    'feedback.resolution.notAiGenerated': 'Nu generate de AI'
 };
