@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'ಮರುಮುದ್ರಣ ಪಠ್ಯ ಬ್ಲಾಕ್',
   'personalNotes.chapter': 'ಅಧ್ಯಾಯ',
   'personalNotes.recentSearches': 'ಇತ್ತಿಚೇಲವೂ ಹುಡುಕಾಟ:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

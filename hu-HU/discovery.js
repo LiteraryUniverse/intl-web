@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'A történet összes fejezete',
     'discovery.readFromStart': 'Olvasás az első fejezettől',
     'discovery.readLatest': 'Legfrissebb fejezet olvasása',
-    'discovery.author': 'Szerző'
+    'discovery.author': 'Szerző',
+    'discovery.aiGenerated': 'AI generált'
 };

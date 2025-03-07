@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Sisäinen',
   'course.free': 'Vapaa',
   'course.sale': 'Myynti',
+  'course.announcements': 'Ilmoitukset',
+  'course.announcements.full': 'Kurssi-ilmoitukset',
+  'course.announcements.create': 'Luo ilmoitus',
 };

@@ -292,5 +292,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Confermi di voler lasciare {workName}',
     'workshop.collaborator.leaveExplained': 'Lasciare il progetto significa perdere tutti gli accessi, le associazioni e i privilegi. Se non è sicuro di cosa significhi tutto questo, probabilmente non è quello che voleva cliccare.',
     'workshop.collaborators.leftInfo': 'Sinistra su {date, date}',
-    'workshop.collaborators.removedInfo': 'Rimosso su {date, date}'
+    'workshop.collaborators.removedInfo': 'Rimosso su {date, date}',
+    'workshop.aiGeneratedAdjusted': 'Lo stato di generazione AI di questo contenuto è stato regolato, a seguito di una segnalazione di un utente, da un amministratore e non può essere modificato.'
 };

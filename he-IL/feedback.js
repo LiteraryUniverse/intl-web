@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'שים לב שעליך להיות בעל חוקי של היצירה כדי להשתמש בטופס זה. אם אתה לא הבעלים, אנא הודע לבעלים או השתמש בקטגוריה האחרת כדי להודיע לנו. אנחנו מתייחסים להפרות זכויות יוצרים ברצינות רבה ואותו דבר חל גם לשימוש לא נאות ולשימוש מותר בטופס זה.',
     'feedback.report.copyrightInternalProperty': 'פרסמתי יצירה זו ביקום הספרותי',
     'feedback.reportType.spam': 'ספאם או פישינג',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'אחר',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

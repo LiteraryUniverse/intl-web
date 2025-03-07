@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Total jumlah bab dalam cerita',
     'discovery.readFromStart': 'Baca dari bab pertama',
     'discovery.readLatest': 'Baca bab terbaru',
-    'discovery.author': 'Penulis'
+    'discovery.author': 'Penulis',
+    'discovery.aiGenerated': 'Dihasilkan oleh AI'
 };

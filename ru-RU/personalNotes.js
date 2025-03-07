@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Текст блока редактирования',
   'personalNotes.chapter': 'Глава',
   'personalNotes.recentSearches': 'Недавние поиски:',
-  'personalNotes.myNotes': 'Мои личные заметки'
+  'personalNotes.myNotes': 'Мои личные заметки',
+  'personalNotes.hasNotes': 'Имеет личные заметки'
 };

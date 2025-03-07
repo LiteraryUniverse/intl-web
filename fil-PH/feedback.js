@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Pakitandaan na kailangan mong maging tunay na may-ari ng gawain upang magamit ang form na ito. Kung hindi ka ang may-ari, mangyaring ipaalam sa may-ari o gamitin ang ibang kategorya upang ipaalam sa amin. Kami ay labis na seryoso sa mga paglabag sa karapatan ng may-ari ng copyright at pareho rin ito sa maling at abusadong paggamit ng form na ito.',
     'feedback.report.copyrightInternalProperty': 'Inilathala ko ang gawain na ito sa Literary Universe',
     'feedback.reportType.spam': 'Spam o phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Iba Pa',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

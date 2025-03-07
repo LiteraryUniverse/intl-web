@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planeter',
     'encyclopedia.category.species': 'Arter',
     'encyclopedia.category.technologies': 'Teknologier',
+    'encyclopedia.category.families': 'Familjer',
+    'encyclopedia.category.jobs': 'Jobb',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Fordon',
+    'encyclopedia.category.diseases': 'Sjukdomar',
+    'encyclopedia.category.traditions': 'Traditioner',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Mat',
+    'encyclopedia.category.landmarks': 'Landmärken',
+    'encyclopedia.category.buildings': 'Byggnader',
+    'encyclopedia.category.schools': 'Skolor',
+    'encyclopedia.category.continents': 'Kontinenter',
+    'encyclopedia.category.villages': 'Byar',
+    'encyclopedia.category.towns': 'Städer',
+    'encyclopedia.category.cities': 'Städer',
     'encyclopedia.search.found': `{results, plural,
     =0 {Inga relaterade poster}
     one {1 relaterad post}
@@ -42,55 +57,100 @@ export default {
     item {föremål}
     location {plats}
     other {anteckning}
-    state {tillstånd}
+    state {stat}
     governments {regering}
     languages {språk}
     creatures {varelse}
-    deity {gud}
+    deity {gudom}
     religions {religion}
     flora {flora}
     magic {magi}
     planets {planet}
-    species {art}
-    technologies {teknologi}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
     'encyclopedia.create.header': `Skapa en ny {category, select,
     character {karaktär}
     event {händelse}
     group {grupp}
-    item {föremål}
+    item {objekt}
     location {plats}
     other {anteckning}
-    state {tillstånd}
+    state {stat}
     governments {regering}
     languages {språk}
     creatures {varelse}
-    deity {gud}
+    deity {gudom}
     religions {religion}
     flora {flora}
     magic {magi}
     planets {planet}
-    species {art}
-    technologies {teknologi}
-  } i {universe}`,
-    'encyclopedia.entry.category': `Inläggskategori: {category, select,
-    character {Tecken}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {village ~ ~ town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Ingångskategori: {category, select,
+    character {Karaktär}
     event {Händelse}
     group {Grupp}
     item {Föremål}
     location {Plats}
     other {Anteckning}
-    state {Tillstånd}
+    state {Stat}
     governments {Regering}
     languages {Språk}
     creatures {Varelse}
-    deity {Gudomlighet}
+    deity {Gudom}
     religions {Religion}
     flora {Flora}
     magic {Magi}
     planets {Planet}
     species {Art}
-    technologies {Teknologi}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Lägg till ett nytt fält',

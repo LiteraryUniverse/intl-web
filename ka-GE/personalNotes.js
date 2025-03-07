@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'რევიზიის ტექსტური ბლოკი',
   'personalNotes.chapter': 'თავისუფალი',
   'personalNotes.recentSearches': 'ბოლო ძიებები:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

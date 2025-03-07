@@ -297,5 +297,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Potvrďte prosím, že chcete opustit {workName}',
     'workshop.collaborator.leaveExplained': 'Odchodem z projektu ztratíte veškerý přístup, přidružení a oprávnění. Pokud si nejste jisti, co to všechno znamená, pak to pravděpodobně není to, na co jste chtěli kliknout.',
     'workshop.collaborators.leftInfo': 'Vlevo na {date, date}',
-    'workshop.collaborators.removedInfo': 'Odstraněno na {date, date}'
+    'workshop.collaborators.removedInfo': 'Odstraněno na {date, date}',
+    'workshop.aiGeneratedAdjusted': 'Stav generování AI tohoto obsahu byl na základě hlášení uživatele upraven správcem a nelze jej změnit.'
 };

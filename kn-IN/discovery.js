@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'ಕಥೆಯ ಒಟ್ಟು ಅಧ್ಯಾಯಗಳ ಸಂಖ್ಯೆ',
     'discovery.readFromStart': 'ಮೊದಲ ಅಧ್ಯಾಯದಿಂದ ಓದು',
     'discovery.readLatest': 'ಇತ್ತೀಚಿನ ಅಧ್ಯಾಯವನ್ನು ಓದಿ',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'గ్రహాలు',
     'encyclopedia.category.species': 'జాతులు',
     'encyclopedia.category.technologies': 'సాంకేతికాలు',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {సంబంధిత ఎంట్రీలు లేవు}
     one {1 సంబంధిత ఎంట్రీ}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'ఎన్సైక్లోపీడియాకు కొత్త ఎంట్రీని జోడించండి',
     'encyclopedia.add.heading': 'మీరు ఏమి జోడించాలనుకుంటున్నారు?',
     'encyclopedia.add.moresoon': 'మరెన్నెంపులు త్వరలో రావు!',
-    'encyclopedia.create': `కొత్త {category, select,
-    character {ప్రాణి}
-    event {సంఘం}
-    group {గుర్తు}
-    item {వస్త్రం}
-    location {స్థానం}
-    other {గమనిక}
-    state {రాష్ట్రం}
-    governments {ప్రభుత్వం}
-    languages {భాష}
-    creatures {జీవి}
-    deity {దేవుడు}
-    religions {మతం}
-    flora {పుష్పం}
-    magic {మాయ}
-    planets {గ్రహం}
-    species {జాతి}
-    technologies {సాంకేతికం}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `కొత్త {category, select,
-    character {ప్రాణి}
-    event {సంఘం}
-    group {గుర్తు}
-    item {వస్త్రం}
-    location {స్థానం}
-    other {గమనిక}
-    state {రాష్ట్రం}
-    governments {ప్రభుత్వం}
-    languages {భాష}
-    creatures {జీవి}
-    deity {దేవుడు}
-    religions {మతం}
-    flora {పుష్పం}
-    magic {మాయ}
-    planets {గ్రహం}
-    species {జాతి}
-    technologies {సాంకేతికం}
-  } లో {universe}`,
-    'encyclopedia.entry.category': `ఎంట్రీ వర్గం: {category, select,
-    character {పాత్ర}
-    event {సంఘం}
-    group {సంఘం}
-    item {వస్తువు}
-    location {స్థానం}
-    other {గమనిక}
-    state {రాష్ట్రం}
-    governments {ప్రభుత్వం}
-    languages {భాష}
-    creatures {జీవి}
-    deity {దేవుడు}
-    religions {మతం}
-    flora {పూష్ప}
-    magic {మాయ}
-    planets {గ్రహం}
-    species {జాతి}
-    technologies {సాంకేతికం}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'వర్గం',
     'encyclopedia.fields.add': 'కొత్త ఫీల్డ్ జోడించండి',

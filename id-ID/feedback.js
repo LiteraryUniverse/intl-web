@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Harap dicatat bahwa Anda perlu menjadi pemilik sah dari karya ini untuk menggunakan formulir ini. Jika Anda bukan pemiliknya, harap beri tahu pemilik atau gunakan kategori lain untuk memberi tahu kami. Kami sangat serius dalam menangani pelanggaran hak cipta dan hal yang sama berlaku untuk penggunaan formulir ini yang tidak pantas dan penyalahgunaan.',
     'feedback.report.copyrightInternalProperty': 'Saya telah mempublikasikan karya ini di Literary Universe',
     'feedback.reportType.spam': 'Spam atau phishing',
+    'feedback.reportType.soliciting': 'Meminta',
+    'feedback.reportType.aiUnmarked': 'Konten yang dihasilkan AI yang tidak ditandai',
     'feedback.reportType.other': 'Lainnya',
     'feedback.report.copyrightType.propertySelectLabel': `Yang mana {type, select,
     universe {alam semesta}
     story {cerita}
     other {cerita}
-  } yang dilanggar?`
+  } yang dilanggar?`,
+    'feedback.help.overview': 'Ikhtisar',
+    'feedback.help.articles': 'Artikel',
+    'feedback.help.courses': 'Kursus',
+    'feedback.help.videos': 'Video tutorial',
+    'feedback.help.featuredArticles': 'Artikel Pilihan',
+    'feedback.help.featuredCourses': 'Kursus Unggulan',
+    'feedback.help.featuredVideos': 'Video Pilihan',
+    'feedback.help.subCategories': 'Sub-kategori',
+    'feedback.resolution.title': 'Pusat resolusi',
+    'feedback.resolution.desc': 'Mengelola dan menyelesaikan pelanggaran yang dilaporkan',
+    'feedback.reportType.aiGenerated': 'Konten yang dihasilkan AI',
+    'feedback.resolution.aiGeneration': 'Status Generasi AI',
+    'feedback.resolution.aiGenerated': 'Dihasilkan oleh AI',
+    'feedback.resolution.notAiGenerated': 'Tidak Dihasilkan oleh AI'
 };

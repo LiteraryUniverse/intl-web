@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': '請注意，您需要是該作品的合法所有者才能使用此表格。如果您不是所有者，請通知所有者或使用其他類別通知我們。我們非常重視版權侵犯，同樣也對此表格的不正當和濫用使用持有相同態度。',
     'feedback.report.copyrightInternalProperty': '我在文學宇宙上發布了這個作品',
     'feedback.reportType.spam': '垃圾郵件或釣魚網站',
+    'feedback.reportType.soliciting': '拉客',
+    'feedback.reportType.aiUnmarked': '未標示的 AI 產生內容',
     'feedback.reportType.other': '其他',
     'feedback.report.copyrightType.propertySelectLabel': `哪個 {type, select,
     universe {宇宙}
     story {故事}
     other {故事}
-  } 受到侵害？`
+  } 受到侵害？`,
+    'feedback.help.overview': '概述',
+    'feedback.help.articles': '文章',
+    'feedback.help.courses': '課程',
+    'feedback.help.videos': '視訊教學',
+    'feedback.help.featuredArticles': '精選文章',
+    'feedback.help.featuredCourses': '精選課程',
+    'feedback.help.featuredVideos': '精選影片',
+    'feedback.help.subCategories': '子類別',
+    'feedback.resolution.title': '解析中心',
+    'feedback.resolution.desc': '管理並解決報告的違規事件',
+    'feedback.reportType.aiGenerated': 'AI 產生的內容',
+    'feedback.resolution.aiGeneration': 'AI 世代狀態',
+    'feedback.resolution.aiGenerated': 'AI 產生',
+    'feedback.resolution.notAiGenerated': '非 AI 產生'
 };

@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Muokkausmerkkiblokki',
   'personalNotes.chapter': 'Luku',
   'personalNotes.recentSearches': 'Viimeisimmät haut:',
-  'personalNotes.myNotes': 'Henkilökohtaiset muistiinpanoni'
+  'personalNotes.myNotes': 'Henkilökohtaiset muistiinpanoni',
+  'personalNotes.hasNotes': 'On henkilökohtaisia muistiinpanoja'
 };

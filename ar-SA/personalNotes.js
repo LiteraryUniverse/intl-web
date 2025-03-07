@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'مقطع نصي للمراجعة',
   'personalNotes.chapter': 'فصل',
   'personalNotes.recentSearches': 'البحث الأخيرة:',
-  'personalNotes.myNotes': 'ملاحظاتي الشخصية'
+  'personalNotes.myNotes': 'ملاحظاتي الشخصية',
+  'personalNotes.hasNotes': 'لديه ملاحظات شخصية'
 };

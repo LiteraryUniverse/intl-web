@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'يرجى ملاحظة أنه يجب أن تكون صاحب الحقوق الشرعي على العمل لاستخدام هذا النموذج. إذا كنت لست المالك، فيرجى إبلاغ المالك أو استخدام الفئة الأخرى لإبلاغنا. نحن نعتبر انتهاكات حقوق النشر بمحمل الجد والأمر نفسه ينطبق على استخدام هذا النموذج بطرق غير لائقة وسيئة.',
     'feedback.report.copyrightInternalProperty': 'لقد نشرت هذا العمل على Literary Universe',
     'feedback.reportType.spam': 'بريد مزعج أو احتيال',
+    'feedback.reportType.soliciting': 'الالتماس',
+    'feedback.reportType.aiUnmarked': 'محتوى غير مميز من إنشاء الذكاء الاصطناعي',
     'feedback.reportType.other': 'أخرى',
     'feedback.report.copyrightType.propertySelectLabel': `ما هو {type, select,
     universe {الكون}
     story {القصة}
     other {القصة}
-  } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟`
+  } الكون ~ ~ القصة ~ ~ القصة ~ ~ يتم التعدي عليها؟`,
+    'feedback.help.overview': 'لمحة عامة',
+    'feedback.help.articles': 'المقالات',
+    'feedback.help.courses': 'الدورات التدريبية',
+    'feedback.help.videos': 'فيديوهات تعليمية',
+    'feedback.help.featuredArticles': 'مقالات مميزة',
+    'feedback.help.featuredCourses': 'الدورات التدريبية المميزة',
+    'feedback.help.featuredVideos': 'فيديوهات مميزة',
+    'feedback.help.subCategories': 'الفئات الفرعية',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

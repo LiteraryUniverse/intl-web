@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Kérjük, vegye figyelembe, hogy ezen űrlap használatához jogosultnak kell lennie a munka tulajdonosának. Ha Ön nem a tulajdonos, kérjük, tájékoztassa a tulajdonost, vagy használja a másik kategóriát, hogy tájékoztasson minket. A szerzői jog megsértését rendkívül komolyan vesszük, és ugyanez vonatkozik az űrlap helytelen és visszaélő használatára is.',
     'feedback.report.copyrightInternalProperty': 'Közzétettem ezt a munkát a Literary Universe oldalon',
     'feedback.reportType.spam': 'Spam vagy adathalászat',
+    'feedback.reportType.soliciting': 'A  weboldalon történő felkérés.',
+    'feedback.reportType.aiUnmarked': 'Jelöletlen mesterséges intelligencia által generált tartalom',
     'feedback.reportType.other': 'Egyéb',
     'feedback.report.copyrightType.propertySelectLabel': `Melyik {type, select,
     universe {univerzum}
     story {történet}
     other {történet}
-  } sérül?`
+  } sérül?`,
+    'feedback.help.overview': 'Áttekintés',
+    'feedback.help.articles': 'Cikkek',
+    'feedback.help.courses': 'Tanfolyamok',
+    'feedback.help.videos': 'Videó oktatóvideók',
+    'feedback.help.featuredArticles': 'Kiemelt cikkek',
+    'feedback.help.featuredCourses': 'Kiemelt tanfolyamok',
+    'feedback.help.featuredVideos': 'Kiemelt videók',
+    'feedback.help.subCategories': 'Alkategóriák',
+    'feedback.resolution.title': 'Felbontási központ',
+    'feedback.resolution.desc': 'A bejelentett jogsértések kezelése és megoldása',
+    'feedback.reportType.aiGenerated': 'Mesterséges intelligencia által generált tartalom',
+    'feedback.resolution.aiGeneration': 'AI generáció állapota',
+    'feedback.resolution.aiGenerated': 'AI generált',
+    'feedback.resolution.notAiGenerated': 'Nem AI generált'
 };

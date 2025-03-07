@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'ਸੰਪਾਦਨ ਟੈਕਸਟ ਬਲਾਕ',
   'personalNotes.chapter': 'ਅਧਿਆਯ',
   'personalNotes.recentSearches': 'ਤਾਜ਼ਾ ਖੋਜਾਂ:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

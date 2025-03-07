@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'إجمالي عدد الفصول في القصة',
     'discovery.readFromStart': 'اقرأ من الفصل الأول',
     'discovery.readLatest': 'اقرأ أحدث الفصول',
-    'discovery.author': 'المؤلف'
+    'discovery.author': 'المؤلف',
+    'discovery.aiGenerated': 'إنشاء الذكاء الاصطناعي'
 };

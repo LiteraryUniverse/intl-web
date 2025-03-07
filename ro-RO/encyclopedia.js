@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planete',
     'encyclopedia.category.species': 'Specii',
     'encyclopedia.category.technologies': 'Tehnologii',
+    'encyclopedia.category.families': 'Familii',
+    'encyclopedia.category.jobs': 'Locuri de muncă',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicule',
+    'encyclopedia.category.diseases': 'Boli',
+    'encyclopedia.category.traditions': 'Tradiții',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Alimente',
+    'encyclopedia.category.landmarks': 'Repere',
+    'encyclopedia.category.buildings': 'Clădiri',
+    'encyclopedia.category.schools': 'școli',
+    'encyclopedia.category.continents': 'Continente',
+    'encyclopedia.category.villages': 'Sate',
+    'encyclopedia.category.towns': 'Orașe',
+    'encyclopedia.category.cities': 'Orașe',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nicio intrare asociată}
     one {1 intrare asociată}
@@ -35,8 +50,8 @@ export default {
     'encyclopedia.add.title': 'Adăugați o nouă intrare în enciclopedie',
     'encyclopedia.add.heading': 'Ce doriți să adăugați?',
     'encyclopedia.add.moresoon': 'Mai multe categorii vor fi disponibile în curând!',
-    'encyclopedia.create': `Creați un nou {category, select,
-    character {caracter}
+    'encyclopedia.create': `Creează un nou {category, select,
+    character {personaj}
     event {eveniment}
     group {grup}
     item {obiect}
@@ -53,9 +68,24 @@ export default {
     planets {planetă}
     species {specie}
     technologies {tehnologie}
+    families {familie}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicul}
+    diseases {boală}
+    traditions {tradiție}
+    food {mâncare}
+    sports {sport}
+    landmarks {reper}
+    buildings {clădire}
+    schools {școală}
+    continents {continent}
+    villages {sate}
+    towns {orașe}
+    cities {orașe}
   }`,
-    'encyclopedia.create.header': `Creați un nou {category, select,
-    character {caracter}
+    'encyclopedia.create.header': `Crearea unui nou {category, select,
+    character {personaj}
     event {eveniment}
     group {grup}
     item {obiect}
@@ -72,12 +102,27 @@ export default {
     planets {planetă}
     species {specie}
     technologies {tehnologie}
+    families {familie}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicul}
+    diseases {boală}
+    traditions {tradiție}
+    food {mâncare}
+    sports {sport}
+    landmarks {reper}
+    buildings {clădire}
+    schools {școală}
+    continents {continent}
+    villages {sat}
+    towns {oraș}
+    cities {oraș}
   } în {universe}`,
-    'encyclopedia.entry.category': `Categorie de intrare: {category, select,
-    character {Caracter}
+    'encyclopedia.entry.category': `Categoria de intrare: {category, select,
+    character {Personaj}
     event {Eveniment}
     group {Grup}
-    item {Element}
+    item {Obiect}
     location {Locație}
     other {Notă}
     state {Stat}
@@ -86,11 +131,26 @@ export default {
     creatures {Creatură}
     deity {Zeitate}
     religions {Religie}
-    flora {Floră}
+    flora {Flora}
     magic {Magie}
     planets {Planetă}
     species {Specie}
     technologies {Tehnologie}
+    families {Familie}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicul}
+    diseases {Boală}
+    traditions {Tradiție}
+    food {Hrană}
+    sports {Sport}
+    landmarks {Reper}
+    buildings {Clădire}
+    schools {Școală}
+    continents {Continent}
+    villages {sat}
+    towns {oraș}
+    cities {oraș}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Adăugați un câmp nou',

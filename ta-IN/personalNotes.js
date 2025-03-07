@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'மீள்பதிவு எழுத்தடுக்கும் துறை பகுதி',
   'personalNotes.chapter': 'அதிகாரம்',
   'personalNotes.recentSearches': 'சமீபத்திய தேடுகள்:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

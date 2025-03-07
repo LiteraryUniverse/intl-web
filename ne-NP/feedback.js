@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'कृपया ध्यान दिनुहोस् कि तपाईंले यस ढाँचाको प्रयोग गर्ने कार्यकर्ता हुनुपर्छ। यदि तपाईं मालिक हुनुभएन भने कृपया मालिकलाई सूचित गर्नुहोस् वा हामीलाई सूचित गर्न अन्य श्रेणी प्रयोग गर्नुहोस्। हामीले कपिराइट उल्लंघन अत्यन्तै गम्भीर रुपमा लिन्छौं र यस ढाँचाको अयोग्य र अशोभनीय प्रयोगलाई पनि यहाँको प्रयोगमा ल्याउँछौं।',
     'feedback.report.copyrightInternalProperty': 'मैले यस कृतिलाई साहित्यिक विश्वमा प्रकाशित गरेको छु',
     'feedback.reportType.spam': 'स्पैम वा फिशिंग',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'अन्य',
     'feedback.report.copyrightType.propertySelectLabel': `कुन {type, select,
     universe {ब्रह्माण्ड}
     story {कथा}
     other {कथा}
-  } अतिक्रमण भइरहेको छ?`
+  } अतिक्रमण भइरहेको छ?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

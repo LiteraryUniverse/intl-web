@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'കഥയിൽ ആകെത്തുന്ന അദ്ധ്യായങ്ങളുടെ ആകെ എണ്ണം',
     'discovery.readFromStart': 'ആദ്യ അദ്ധ്യായത്തിൽ നിന്ന് വായിക്കുക',
     'discovery.readLatest': 'ഏറ്റവും പുതിയ അദ്ധ്യായം വായിക്കുക',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

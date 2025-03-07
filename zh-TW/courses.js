@@ -68,4 +68,7 @@ export default {
   'course.internal': '內部',
   'course.free': '免費',
   'course.sale': '銷售',
+  'course.announcements': '公告',
+  'course.announcements.full': '課程公告',
+  'course.announcements.create': '建立公告',
 };

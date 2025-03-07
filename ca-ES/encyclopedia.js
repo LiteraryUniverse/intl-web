@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planetes',
     'encyclopedia.category.species': 'Espècies',
     'encyclopedia.category.technologies': 'Tecnologies',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {Cap entrada relacionada}
     one {1 entrada relacionada}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'Afegiu una nova entrada a l\'enciclopèdia',
     'encyclopedia.add.heading': 'Què voleu afegir?',
     'encyclopedia.add.moresoon': 'Més categories pròximament!',
-    'encyclopedia.create': `Crea un nou {category, select,
-    character {personatge}
-    event {esdeveniment}
-    group {grup}
-    item {objecte}
-    location {ubicació}
-    other {nota}
-    state {estat}
-    governments {govern}
-    languages {idioma}
-    creatures {criatura}
-    deity {deïtat}
-    religions {religió}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
     flora {flora}
-    magic {màgia}
-    planets {planeta}
-    species {espècie}
-    technologies {tecnologia}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Crea un nou {category, select,
-    character {personatge}
-    event {esdeveniment}
-    group {grup}
-    item {objecte}
-    location {ubicació}
-    other {nota}
-    state {estat}
-    governments {govern}
-    languages {idioma}
-    creatures {criatura}
-    deity {deïtat}
-    religions {religió}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
     flora {flora}
-    magic {màgia}
-    planets {planeta}
-    species {espècie}
-    technologies {tecnologia}
-  } a {universe}`,
-    'encyclopedia.entry.category': `Categoria de l'entrada: {category, select,
-    character {Caràcter}
-    event {Esdeveniment}
-    group {Grup}
-    item {Element}
-    location {Ubicació}
-    other {Nota}
-    state {Estat}
-    governments {Govern}
-    languages {Idioma}
-    creatures {Criatura}
-    deity {Deïtat}
-    religions {Religió}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
     flora {Flora}
-    magic {Màgia}
-    planets {Planeta}
-    species {Espècie}
-    technologies {Tecnologia}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Afegiu un nou camp',

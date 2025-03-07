@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Зверніть увагу, що ви повинні бути законним власником роботи, щоб використовувати цю форму. Якщо ви не є власником, будь ласка, повідомте власника або скористайтеся іншою категорією, щоб повідомити нас. Ми дуже серйозно ставимося до порушень авторських прав, а так само до неправомірного та зловживання використання цієї форми.',
     'feedback.report.copyrightInternalProperty': 'Я опублікував(ла) цю роботу на Literary Universe',
     'feedback.reportType.spam': 'Спам або фішинг',
+    'feedback.reportType.soliciting': 'Вимагання',
+    'feedback.reportType.aiUnmarked': 'Немаркований вміст, створений штучним інтелектом',
     'feedback.reportType.other': 'Інше',
     'feedback.report.copyrightType.propertySelectLabel': `Який {type, select,
     universe {всесвіт}
     story {історія}
     other {історія}
-  } порушується?`
+  } порушується?`,
+    'feedback.help.overview': 'Огляд',
+    'feedback.help.articles': 'Статті',
+    'feedback.help.courses': 'Курси',
+    'feedback.help.videos': 'Відеоуроки',
+    'feedback.help.featuredArticles': 'Вибрані статті',
+    'feedback.help.featuredCourses': 'Рекомендовані курси',
+    'feedback.help.featuredVideos': 'Вибране відео',
+    'feedback.help.subCategories': 'Підкатегорії',
+    'feedback.resolution.title': 'Центр розв\'язання проблем',
+    'feedback.resolution.desc': 'Керування та вирішення повідомлень про порушення',
+    'feedback.reportType.aiGenerated': 'Контент, створений штучним інтелектом',
+    'feedback.resolution.aiGeneration': 'Статус покоління ШІ',
+    'feedback.resolution.aiGenerated': 'Створено штучним інтелектом',
+    'feedback.resolution.notAiGenerated': 'Не згенеровано штучним інтелектом'
 };

@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planeetat',
     'encyclopedia.category.species': 'Lajit',
     'encyclopedia.category.technologies': 'Teknologiat',
+    'encyclopedia.category.families': 'Perheet',
+    'encyclopedia.category.jobs': 'Työpaikat',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Ajoneuvot',
+    'encyclopedia.category.diseases': 'Taudit',
+    'encyclopedia.category.traditions': 'Perinteet',
+    'encyclopedia.category.sports': 'Urheilu',
+    'encyclopedia.category.food': 'Ruoka',
+    'encyclopedia.category.landmarks': 'Maamerkit',
+    'encyclopedia.category.buildings': 'Rakennukset',
+    'encyclopedia.category.schools': 'Koulut',
+    'encyclopedia.category.continents': 'Maanosat',
+    'encyclopedia.category.villages': 'Kylät',
+    'encyclopedia.category.towns': 'Kaupungit',
+    'encyclopedia.category.cities': 'Kaupungit',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei liittyviä merkintöjä}
     one {1 liittyvä merkintä}
@@ -40,57 +55,102 @@ export default {
     event {tapahtuma}
     group {ryhmä}
     item {esine}
-    location {sijainti}
-    other {muistiinpano}
-    state {tila}
+    location {paikka}
+    other {huomautus}
+    state {valtio}
     governments {hallitus}
     languages {kieli}
     creatures {olento}
     deity {jumaluus}
     religions {uskonto}
-    flora {kasvi}
-    magic {taika}
+    flora {kasvisto}
+    magic {taikuus}
     planets {planeetta}
-    species {laji}
-    technologies {teknologia}
+    species {species}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Luo uusi {category, select,
-    character {hahmo}
+    'encyclopedia.create.header': `Uuden {category, select,
+    character {hahmon luominen}
     event {tapahtuma}
     group {ryhmä}
     item {esine}
-    location {sijainti}
-    other {muistiinpano}
-    state {tila}
+    location {paikka}
+    other {huomautus}
+    state {valtio}
     governments {hallitus}
     languages {kieli}
     creatures {olento}
     deity {jumaluus}
     religions {uskonto}
-    flora {kasvi}
-    magic {taika}
+    flora {kasvisto}
+    magic {taikuus}
     planets {planeetta}
-    species {laji}
+    species {luonti. laji}
     technologies {teknologia}
+    families {perhe}
+    jobs {työ}
+    lore {taru}
+    vehicles {ajoneuvo}
+    diseases {tauti}
+    traditions {perinne}
+    food {ruoka}
+    sports {urheilu}
+    landmarks {maamerkki}
+    buildings {rakennus}
+    schools {koulu}
+    continents {maanosa}
+    villages {kylä}
+    towns {kaupunki}
+    cities {kaupunki}
   } in {universe}`,
-    'encyclopedia.entry.category': `Tietueen kategoria: {category, select,
+    'encyclopedia.entry.category': `Osallistumisluokka: {category, select,
     character {Hahmo}
     event {Tapahtuma}
     group {Ryhmä}
     item {Esine}
     location {Sijainti}
     other {Huomautus}
-    state {Tilanne}
+    state {Valtio}
     governments {Hallitus}
     languages {Kieli}
     creatures {Olento}
     deity {Jumaluus}
     religions {Uskonto}
-    flora {Kasvisto}
+    flora {Kasvi- ja kasvikunta}
     magic {Taikuus}
     planets {Planeetta}
     species {Laji}
     technologies {Teknologia}
+    families {Perhe}
+    jobs {Työ}
+    lore {Lore}
+    vehicles {Ajoneuvo}
+    diseases {Sairaus}
+    traditions {Perinne}
+    food {Ruoka}
+    sports {Urheilu}
+    landmarks {Maamerkki}
+    buildings {Rakennus}
+    schools {Koulu}
+    continents {Maanosa}
+    villages {Kylä}
+    towns {Kaupunki}
+    cities {Kaupunki}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Lisää uusi kenttä',

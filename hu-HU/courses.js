@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Belső',
   'course.free': 'Ingyenes',
   'course.sale': 'Eladó',
+  'course.announcements': 'Közlemények',
+  'course.announcements.full': 'Tanfolyami bejelentések',
+  'course.announcements.create': 'Hozzon létre egy bejelentést',
 };

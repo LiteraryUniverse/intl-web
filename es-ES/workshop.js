@@ -292,5 +292,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Por favor, confirme que desea abandonar {workName}',
     'workshop.collaborator.leaveExplained': 'Abandonar el proyecto significará que perderá todo acceso, asociación y privilegios. Si no está seguro de lo que todo esto significa, probablemente no sea esto lo que quería pulsar.',
     'workshop.collaborators.leftInfo': 'Izquierda en {date, date}',
-    'workshop.collaborators.removedInfo': 'Eliminado en {date, date}'
+    'workshop.collaborators.removedInfo': 'Eliminado en {date, date}',
+    'workshop.aiGeneratedAdjusted': 'El estado de generación de IA de este contenido ha sido ajustado, como resultado de un informe de usuario, por un administrador y no puede ser modificado.'
 };

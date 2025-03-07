@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Блок тексту перегляду',
   'personalNotes.chapter': 'Розділ',
   'personalNotes.recentSearches': 'Останні пошуки:',
-  'personalNotes.myNotes': 'Мої особисті нотатки'
+  'personalNotes.myNotes': 'Мої особисті нотатки',
+  'personalNotes.hasNotes': 'Має особисті нотатки'
 };
