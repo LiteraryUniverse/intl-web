@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Tabhair faoi deara go gcaithfidh tú bheith in úinéir ceart an saothair chun an fhoirm seo a úsáid. Mura bhfuil tú an úinéir, abair leis an úinéir nó úsáid an chatagóra eile chun a fhógairt dúinn. Glacaimid le coimhlintí cóipcheart cheartúil agus úsáid míúsáideach agus míchuí den fhoirm seo chomh maith.',
     'feedback.report.copyrightInternalProperty': 'Tá an saothar seo foilsithe agam ar Domhan Liteartha',
     'feedback.reportType.spam': 'Spam nó iascachta phisfheithiclí',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Eile',
     'feedback.report.copyrightType.propertySelectLabel': `Cén {type, select,
     universe {domhan}
