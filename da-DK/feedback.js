@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Bemærk venligst, at du skal være den retmæssige ejer af værket for at bruge dette formular. Hvis du ikke er ejeren, bedes du informere ejeren eller bruge den anden kategori til at informere os. Vi tager ophavsretsovertrædelser meget alvorligt, og det samme gælder for misbrug og uhensigtsmæssig brug af denne formular.',
     'feedback.report.copyrightInternalProperty': 'Jeg har offentliggjort dette værk på Literary Universe',
     'feedback.reportType.spam': 'Spam eller phishing',
+    'feedback.reportType.soliciting': 'Opfordring til',
+    'feedback.reportType.aiUnmarked': 'Umærket AI-genereret indhold',
     'feedback.reportType.other': 'Andet',
     'feedback.report.copyrightType.propertySelectLabel': `Hvilket {type, select,
     universe {univers}
