@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': '精選文章',
     'feedback.help.featuredCourses': '精選課程',
     'feedback.help.featuredVideos': '精選影片',
-    'feedback.help.subCategories': '子類別'
+    'feedback.help.subCategories': '子類別',
+    'feedback.resolution.title': '解析中心',
+    'feedback.resolution.desc': '管理並解決報告的違規事件',
+    'feedback.reportType.aiGenerated': 'AI 產生的內容',
+    'feedback.resolution.aiGeneration': 'AI 世代狀態',
+    'feedback.resolution.aiGenerated': 'AI 產生',
+    'feedback.resolution.notAiGenerated': '非 AI 產生'
 };
