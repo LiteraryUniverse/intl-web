@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Обратите внимание, что для использования этой формы вы должны быть законным владельцем произведения. Если вы не являетесь владельцем, пожалуйста, сообщите об этом владельцу или воспользуйтесь другой категорией, чтобы сообщить нам. Мы крайне серьёзно относимся к нарушениям авторских прав, и то же самое относится к ненадлежащему и неправомерному использованию этой формы.',
     'feedback.report.copyrightInternalProperty': 'Я опубликовал(-а) это произведение на сайте Literary Universe',
     'feedback.reportType.spam': 'Спам или фишинг',
+    'feedback.reportType.soliciting': 'Привлечение',
+    'feedback.reportType.aiUnmarked': 'Неотмеченный контент, созданный искусственным интеллектом',
     'feedback.reportType.other': 'Другое',
     'feedback.report.copyrightType.propertySelectLabel': `Какая {type, select,
     universe {вселенная}
