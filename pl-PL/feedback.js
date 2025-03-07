@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Polecane artykuły',
     'feedback.help.featuredCourses': 'Polecane kursy',
     'feedback.help.featuredVideos': 'Polecane filmy',
-    'feedback.help.subCategories': 'Podkategorie'
+    'feedback.help.subCategories': 'Podkategorie',
+    'feedback.resolution.title': 'Centrum rozdzielczości',
+    'feedback.resolution.desc': 'Zarządzanie i rozwiązywanie zgłoszonych naruszeń',
+    'feedback.reportType.aiGenerated': 'Treści generowane przez sztuczną inteligencję',
+    'feedback.resolution.aiGeneration': 'Status generacji AI',
+    'feedback.resolution.aiGenerated': 'Generowane przez sztuczną inteligencję',
+    'feedback.resolution.notAiGenerated': 'Nie generowane przez sztuczną inteligencję'
 };
