@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'გთხოვთ გახსენით, რომ თქვენ უნდა იყოთ ნამდვილი მფლობელი საქმიანი საქმიანი მუშაობისთვის. თუ თქვენ არ ხართ მფლობელი, გთხოვთ შეატყობინოთ მფლობელს ან გამოიყენოთ სხვა კატეგორია ჩვენთვის შესახებ. ჩვენ ვიყენებთ საკოპირაიტის გაყვარებისთვის უფლებებს საუკეთესო სერიოზობით და არასასურველი და აბურდისაგან გამოყენებისთვის.',
     'feedback.report.copyrightInternalProperty': 'მე ვარ ამ ნამუშავებზე გამოქვეყნებული მქონება',
     'feedback.reportType.spam': 'სპამი ან ფიშინგი',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'სხვა',
     'feedback.report.copyrightType.propertySelectLabel': `რომელი {type, select,
     universe {უნივერსუმი}
