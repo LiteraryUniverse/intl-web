@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Bitte beachten Sie, dass Sie der rechtmäßige Eigentümer des Werks sein müssen, um dieses Formular zu verwenden. Wenn Sie nicht der Eigentümer sind, informieren Sie bitte den Eigentümer oder verwenden Sie die andere Kategorie, um uns zu informieren. Wir nehmen Urheberrechtsverletzungen äußerst ernst und dasselbe gilt für die unsachgemäße und missbräuchliche Verwendung dieses Formulars.',
     'feedback.report.copyrightInternalProperty': 'Ich habe diese Arbeit auf Literary Universe veröffentlicht',
     'feedback.reportType.spam': 'Spam oder Phishing',
+    'feedback.reportType.soliciting': 'Fordern Sie  an.',
+    'feedback.reportType.aiUnmarked': 'Nicht markierte KI-generierte Inhalte',
     'feedback.reportType.other': 'Andere',
     'feedback.report.copyrightType.propertySelectLabel': `Welches {type, select,
     universe {Universum}
