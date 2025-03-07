@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Odporúčané články',
     'feedback.help.featuredCourses': 'Odporúčané kurzy',
     'feedback.help.featuredVideos': 'Odporúčané videá',
-    'feedback.help.subCategories': 'Podkategórie'
+    'feedback.help.subCategories': 'Podkategórie',
+    'feedback.resolution.title': 'Centrum pre riešenie problémov',
+    'feedback.resolution.desc': 'Správa a riešenie nahlásených porušení',
+    'feedback.reportType.aiGenerated': 'Obsah generovaný umelou inteligenciou',
+    'feedback.resolution.aiGeneration': 'Stav generácie AI',
+    'feedback.resolution.aiGenerated': 'Generované umelou inteligenciou',
+    'feedback.resolution.notAiGenerated': 'Nie je generovaná umelou inteligenciou'
 };
