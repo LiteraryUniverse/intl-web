@@ -73,5 +73,9 @@ export default {
   'feedback.help.featuredVideos': 'Featured Videos',
   'feedback.help.subCategories': 'Sub-categories',
   'feedback.resolution.title': 'Resolution center',
-  'feedback.resolution.desc': 'Manage and resolve reported violations'
+  'feedback.resolution.desc': 'Manage and resolve reported violations',
+  'feedback.reportType.aiGenerated': 'AI-generated content',
+  'feedback.resolution.aiGeneration': 'AI Generation Status',
+  'feedback.resolution.aiGenerated': 'AI Generated',
+  'feedback.resolution.notAiGenerated': 'Not AI Generated',
 }
