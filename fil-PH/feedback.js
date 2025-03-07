@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Pakitandaan na kailangan mong maging tunay na may-ari ng gawain upang magamit ang form na ito. Kung hindi ka ang may-ari, mangyaring ipaalam sa may-ari o gamitin ang ibang kategorya upang ipaalam sa amin. Kami ay labis na seryoso sa mga paglabag sa karapatan ng may-ari ng copyright at pareho rin ito sa maling at abusadong paggamit ng form na ito.',
     'feedback.report.copyrightInternalProperty': 'Inilathala ko ang gawain na ito sa Literary Universe',
     'feedback.reportType.spam': 'Spam o phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Iba Pa',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
