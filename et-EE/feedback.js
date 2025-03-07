@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Esile tõstetud artiklid',
     'feedback.help.featuredCourses': 'Soovitatavad kursused',
     'feedback.help.featuredVideos': 'Esile tõstetud videod',
-    'feedback.help.subCategories': 'Alamkategooriad'
+    'feedback.help.subCategories': 'Alamkategooriad',
+    'feedback.resolution.title': 'Resolutsioonikeskus',
+    'feedback.resolution.desc': 'hallata ja lahendada teatatud rikkumisi',
+    'feedback.reportType.aiGenerated': 'Tehisintellekti loodud sisu',
+    'feedback.resolution.aiGeneration': 'AI põlvkonna staatus',
+    'feedback.resolution.aiGenerated': 'AI loodud',
+    'feedback.resolution.notAiGenerated': 'Ei ole AI loodud'
 };
