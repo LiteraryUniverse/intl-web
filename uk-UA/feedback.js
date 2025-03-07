@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Вибрані статті',
     'feedback.help.featuredCourses': 'Рекомендовані курси',
     'feedback.help.featuredVideos': 'Вибране відео',
-    'feedback.help.subCategories': 'Підкатегорії'
+    'feedback.help.subCategories': 'Підкатегорії',
+    'feedback.resolution.title': 'Центр розв\'язання проблем',
+    'feedback.resolution.desc': 'Керування та вирішення повідомлень про порушення',
+    'feedback.reportType.aiGenerated': 'Контент, створений штучним інтелектом',
+    'feedback.resolution.aiGeneration': 'Статус покоління ШІ',
+    'feedback.resolution.aiGenerated': 'Створено штучним інтелектом',
+    'feedback.resolution.notAiGenerated': 'Не згенеровано штучним інтелектом'
 };
