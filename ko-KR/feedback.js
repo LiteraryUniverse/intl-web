@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': '주요 기사',
     'feedback.help.featuredCourses': '추천 코스',
     'feedback.help.featuredVideos': '추천 동영상',
-    'feedback.help.subCategories': '하위 카테고리'
+    'feedback.help.subCategories': '하위 카테고리',
+    'feedback.resolution.title': '해결 센터',
+    'feedback.resolution.desc': '신고된 위반 사항 관리 및 해결',
+    'feedback.reportType.aiGenerated': 'AI 생성 콘텐츠',
+    'feedback.resolution.aiGeneration': 'AI 생성 현황',
+    'feedback.resolution.aiGenerated': 'AI 생성',
+    'feedback.resolution.notAiGenerated': 'AI가 생성하지 않음'
 };
