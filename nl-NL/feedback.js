@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Aanbevolen artikelen',
     'feedback.help.featuredCourses': 'Aanbevolen cursussen',
     'feedback.help.featuredVideos': 'Uitgelichte video\'s',
-    'feedback.help.subCategories': 'Sub-categorieën'
+    'feedback.help.subCategories': 'Sub-categorieën',
+    'feedback.resolution.title': 'Resolutiecentrum',
+    'feedback.resolution.desc': 'Gerapporteerde overtredingen beheren en oplossen',
+    'feedback.reportType.aiGenerated': 'AI-gegenereerde inhoud',
+    'feedback.resolution.aiGeneration': 'Status AI-generatie',
+    'feedback.resolution.aiGenerated': 'AI-gegenereerd',
+    'feedback.resolution.notAiGenerated': 'Niet door AI gegenereerd'
 };
