@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Vennligst merk at du må være den rettmessige eieren av verket for å bruke dette skjemaet. Hvis du ikke er eieren, vennligst informer eieren eller bruk den andre kategorien for å informere oss. Vi tar brudd på opphavsrett svært alvorlig, og det samme gjelder misbruk og feil bruk av dette skjemaet.',
     'feedback.report.copyrightInternalProperty': 'Jeg har publisert dette verket på Literary Universe',
     'feedback.reportType.spam': 'Søppelpost eller phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Annet',
     'feedback.report.copyrightType.propertySelectLabel': `Hvilket {type, select,
     universe {univers}
