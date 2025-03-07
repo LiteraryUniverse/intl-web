@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Популярные статьи',
     'feedback.help.featuredCourses': 'Популярные курсы',
     'feedback.help.featuredVideos': 'Популярные видео',
-    'feedback.help.subCategories': 'Подкатегории'
+    'feedback.help.subCategories': 'Подкатегории',
+    'feedback.resolution.title': 'Центр разрешения',
+    'feedback.resolution.desc': 'Управляйте и решайте проблемы, связанные с нарушениями',
+    'feedback.reportType.aiGenerated': 'Контент, созданный искусственным интеллектом',
+    'feedback.resolution.aiGeneration': 'Статус поколения ИИ',
+    'feedback.resolution.aiGenerated': 'Сгенерированный ИИ',
+    'feedback.resolution.notAiGenerated': 'Не генерируется искусственным интеллектом'
 };
