@@ -292,5 +292,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Patvirtinkite, kad norite palikti {workName}',
     'workshop.collaborator.leaveExplained': 'Palikę projektą neteksite visų prieigų, asociacijų ir privilegijų. Jei nesate tikri, ką visa tai reiškia, tikriausiai tai nėra tai, ką norėjote spustelėti.',
     'workshop.collaborators.leftInfo': 'Įjungta kairė {date, date}',
-    'workshop.collaborators.removedInfo': 'Pašalinta iš {date, date}'
+    'workshop.collaborators.removedInfo': 'Pašalinta iš {date, date}',
+    'workshop.aiGeneratedAdjusted': 'Šio turinio AI generavimo būseną, gavęs naudotojo pranešimą, pakoregavo administratorius ir jos pakeisti negalima.'
 };
