@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'कृपया ध्यान दें कि आपको इस फॉर्म का उपयोग करने के लिए कार्य का वास्तविक मालिक होना चाहिए। यदि आप मालिक नहीं हैं, तो कृपया मालिक को सूचित करें या हमें सूचित करने के लिए अन्य श्रेणी का उपयोग करें। हम कॉपीराइट उल्लंघन को अत्यंत गंभीरता से लेते हैं और इसी तरह इस फॉर्म के अनुचित और अपयश उपयोग पर भी यही लागू होता है।',
     'feedback.report.copyrightInternalProperty': 'मैंने इस कार्य को लिटररी यूनिवर्स पर प्रकाशित किया है',
     'feedback.reportType.spam': 'स्पैम या फिशिंग',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'अन्य',
     'feedback.report.copyrightType.propertySelectLabel': `कौनसा {type, select,
     universe {यूनिवर्स}
