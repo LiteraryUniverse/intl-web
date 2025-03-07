@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'يرجى ملاحظة أنه يجب أن تكون صاحب الحقوق الشرعي على العمل لاستخدام هذا النموذج. إذا كنت لست المالك، فيرجى إبلاغ المالك أو استخدام الفئة الأخرى لإبلاغنا. نحن نعتبر انتهاكات حقوق النشر بمحمل الجد والأمر نفسه ينطبق على استخدام هذا النموذج بطرق غير لائقة وسيئة.',
     'feedback.report.copyrightInternalProperty': 'لقد نشرت هذا العمل على Literary Universe',
     'feedback.reportType.spam': 'بريد مزعج أو احتيال',
+    'feedback.reportType.soliciting': 'الالتماس',
+    'feedback.reportType.aiUnmarked': 'محتوى غير مميز من إنشاء الذكاء الاصطناعي',
     'feedback.reportType.other': 'أخرى',
     'feedback.report.copyrightType.propertySelectLabel': `ما هو {type, select,
     universe {الكون}
