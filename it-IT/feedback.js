@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Articoli in evidenza',
     'feedback.help.featuredCourses': 'Corsi in evidenza',
     'feedback.help.featuredVideos': 'Video in primo piano',
-    'feedback.help.subCategories': 'Sottocategorie'
+    'feedback.help.subCategories': 'Sottocategorie',
+    'feedback.resolution.title': 'Centro di risoluzione',
+    'feedback.resolution.desc': 'Gestire e risolvere le violazioni segnalate',
+    'feedback.reportType.aiGenerated': 'Contenuti generati dall\'AI',
+    'feedback.resolution.aiGeneration': 'Stato della generazione AI',
+    'feedback.resolution.aiGenerated': 'Generato dall\'AI',
+    'feedback.resolution.notAiGenerated': 'Non generato dall\'AI'
 };
