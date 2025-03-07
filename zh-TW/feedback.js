@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': '請注意，您需要是該作品的合法所有者才能使用此表格。如果您不是所有者，請通知所有者或使用其他類別通知我們。我們非常重視版權侵犯，同樣也對此表格的不正當和濫用使用持有相同態度。',
     'feedback.report.copyrightInternalProperty': '我在文學宇宙上發布了這個作品',
     'feedback.reportType.spam': '垃圾郵件或釣魚網站',
+    'feedback.reportType.soliciting': '拉客',
+    'feedback.reportType.aiUnmarked': '未標示的 AI 產生內容',
     'feedback.reportType.other': '其他',
     'feedback.report.copyrightType.propertySelectLabel': `哪個 {type, select,
     universe {宇宙}
