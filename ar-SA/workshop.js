@@ -293,5 +293,5 @@ export default {
     'workshop.collaborator.leaveExplained': 'ستعني مغادرة المشروع أنك ستفقد كل الوصول والارتباط والامتيازات. إذا لم تكن متأكدًا مما يعنيه كل هذا، فربما هذا ليس ما تريد النقر عليه.',
     'workshop.collaborators.leftInfo': 'يسار على {date, date}~',
     'workshop.collaborators.removedInfo': 'تمت الإزالة على {date, date}~',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'تم تعديل حالة توليد الذكاء الاصطناعي لهذا المحتوى، نتيجة لتقرير أحد المستخدمين، من قبل المسؤول ولا يمكن تغييرها.'
 };
