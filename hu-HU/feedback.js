@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Kérjük, vegye figyelembe, hogy ezen űrlap használatához jogosultnak kell lennie a munka tulajdonosának. Ha Ön nem a tulajdonos, kérjük, tájékoztassa a tulajdonost, vagy használja a másik kategóriát, hogy tájékoztasson minket. A szerzői jog megsértését rendkívül komolyan vesszük, és ugyanez vonatkozik az űrlap helytelen és visszaélő használatára is.',
     'feedback.report.copyrightInternalProperty': 'Közzétettem ezt a munkát a Literary Universe oldalon',
     'feedback.reportType.spam': 'Spam vagy adathalászat',
+    'feedback.reportType.soliciting': 'A  weboldalon történő felkérés.',
+    'feedback.reportType.aiUnmarked': 'Jelöletlen mesterséges intelligencia által generált tartalom',
     'feedback.reportType.other': 'Egyéb',
     'feedback.report.copyrightType.propertySelectLabel': `Melyik {type, select,
     universe {univerzum}
