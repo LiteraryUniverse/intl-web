@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'このフォームの使用に際しては正当な所有者である必要があります。もし所有者でない場合は、所有者にご連絡するか、別のカテゴリーからお知らせください。私たちは、著作権侵害を非常に重く受け止めており、このフォームの不適切な使用や不正使用においても同様です。',
     'feedback.report.copyrightInternalProperty': '私はこの作品をLieterary Universeに発表しました。',
     'feedback.reportType.spam': 'スパムやフィッシング',
+    'feedback.reportType.soliciting': '勧誘',
+    'feedback.reportType.aiUnmarked': '無印のAI生成コンテンツ',
     'feedback.reportType.other': 'その他',
     'feedback.report.copyrightType.propertySelectLabel': `どの {type, select,
     universe {宇宙}
