@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Upozorňujeme, že na použitie tohto formulára musíte byť oprávneným vlastníkom diela. Ak nie ste vlastníkom, informujte o tom vlastníka alebo použite inú kategóriu, aby ste nás informovali. Porušovanie autorských práv berieme mimoriadne vážne a to isté platí aj pre nesprávne a zneužívajúce používanie tohto formulára.',
     'feedback.report.copyrightInternalProperty': 'Túto prácu som uverejnil na Literary Universe',
     'feedback.reportType.spam': 'Spam alebo phishing',
+    'feedback.reportType.soliciting': 'Žiadosť o pomoc',
+    'feedback.reportType.aiUnmarked': 'Neoznačený obsah vytvorený umelou inteligenciou',
     'feedback.reportType.other': 'Ostatné',
     'feedback.report.copyrightType.propertySelectLabel': `Ktorý {type, select,
     universe {vesmír}
