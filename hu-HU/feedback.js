@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Kiemelt cikkek',
     'feedback.help.featuredCourses': 'Kiemelt tanfolyamok',
     'feedback.help.featuredVideos': 'Kiemelt videók',
-    'feedback.help.subCategories': 'Alkategóriák'
+    'feedback.help.subCategories': 'Alkategóriák',
+    'feedback.resolution.title': 'Felbontási központ',
+    'feedback.resolution.desc': 'A bejelentett jogsértések kezelése és megoldása',
+    'feedback.reportType.aiGenerated': 'Mesterséges intelligencia által generált tartalom',
+    'feedback.resolution.aiGeneration': 'AI generáció állapota',
+    'feedback.resolution.aiGenerated': 'AI generált',
+    'feedback.resolution.notAiGenerated': 'Nem AI generált'
 };
