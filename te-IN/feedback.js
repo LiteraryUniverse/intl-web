@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'దయచేసి గమనిక: మీరు ఈ ఫారమ్ ఉపయోగించడానికి కానికరంగా ఉన్నారు అని గమనించండి. మీరు సరైనవి కాదు అని ఉంటే, దయచేసి సరైనవి కాదు అని మీరు చెప్పండి లేదా మాకు తెలియాండి అని మీరు మరొక వర్గం ఉపయోగించండి. మాకు కాపీరైట్ ఉల్లంఘనాలను చాలా గమ్యంగా తీసుకుంటాం మరియు ఈ ఫారమ్ అనుచించుకునే అనుచించడానికి కూడా అదనపు మరియు అనధికార ఉపయోగాన్ని చేసేందుకు కాపీరైట్ ఉల్లంఘనాలను చాలా గమ్యంగా తీసుకుంటాం.',
     'feedback.report.copyrightInternalProperty': 'నేను ఈ పనితో సాహిత్య యూనివర్స్‌లో ప్రచురించాను',
     'feedback.reportType.spam': 'స్పామ్ లేదా ఫిషింగ్',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'ఇతర',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
