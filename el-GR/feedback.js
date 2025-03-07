@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Προτεινόμενα άρθρα',
     'feedback.help.featuredCourses': 'Προτεινόμενα μαθήματα',
     'feedback.help.featuredVideos': 'Προτεινόμενα βίντεο',
-    'feedback.help.subCategories': 'Υποκατηγορίες'
+    'feedback.help.subCategories': 'Υποκατηγορίες',
+    'feedback.resolution.title': 'Κέντρο επίλυσης',
+    'feedback.resolution.desc': 'Διαχείριση και επίλυση αναφερόμενων παραβιάσεων',
+    'feedback.reportType.aiGenerated': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
+    'feedback.resolution.aiGeneration': 'Κατάσταση γενιάς AI',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Δεν παράγεται από AI'
 };
