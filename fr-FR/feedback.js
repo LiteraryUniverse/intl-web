@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Veuillez noter que vous devez être le propriétaire légitime de l\'œuvre pour utiliser ce formulaire. Si vous n\'êtes pas le propriétaire, veuillez en informer le propriétaire ou utiliser l\'autre catégorie pour nous en informer. Nous prenons très au sérieux les violations du droit d\'auteur et il en va de même pour l\'utilisation inappropriée et abusive de ce formulaire.',
     'feedback.report.copyrightInternalProperty': 'J\'ai publié ce travail sur l\'Univers Littéraire',
     'feedback.reportType.spam': 'Spam ou hameçonnage',
+    'feedback.reportType.soliciting': 'Sollicitation',
+    'feedback.reportType.aiUnmarked': 'Contenu non marqué généré par l\'IA',
     'feedback.reportType.other': 'Autre',
     'feedback.report.copyrightType.propertySelectLabel': `Quel {type, select,
     universe {univers}
