@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Öne Çıkan Makaleler',
     'feedback.help.featuredCourses': 'Öne Çıkan Kurslar',
     'feedback.help.featuredVideos': 'Öne Çıkan Videolar',
-    'feedback.help.subCategories': 'Alt kategoriler'
+    'feedback.help.subCategories': 'Alt kategoriler',
+    'feedback.resolution.title': 'Çözüm merkezi',
+    'feedback.resolution.desc': 'Bildirilen ihlalleri yönetin ve çözün',
+    'feedback.reportType.aiGenerated': 'Yapay zeka tarafından oluşturulan içerik',
+    'feedback.resolution.aiGeneration': 'Yapay Zeka Üretimi Durumu',
+    'feedback.resolution.aiGenerated': 'Yapay Zeka Üretildi',
+    'feedback.resolution.notAiGenerated': 'Yapay Zeka Üretilmedi'
 };
