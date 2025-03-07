@@ -47,6 +47,8 @@ export default {
     'feedback.report.copyrightNotice': 'Vă rugăm să rețineți că trebuie să fiți proprietarul de drept al operei pentru a utiliza acest formular. Dacă nu sunteți proprietarul, vă rugăm să informați proprietarul sau să utilizați cealaltă categorie pentru a ne informa. Luăm foarte în serios încălcarea drepturilor de autor și același lucru este valabil și pentru utilizarea necorespunzătoare și abuzivă a acestui formular.',
     'feedback.report.copyrightInternalProperty': 'Am publicat această lucrare pe Literary Universe',
     'feedback.reportType.spam': 'Spam sau phishing',
+    'feedback.reportType.soliciting': 'Solicitare',
+    'feedback.reportType.aiUnmarked': 'Conținut generat de AI nemarcat',
     'feedback.reportType.other': 'Altele',
     'feedback.report.copyrightType.propertySelectLabel': `Care {type, select,
     universe {univers}
