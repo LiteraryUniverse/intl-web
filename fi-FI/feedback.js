@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Suositeltavat artikkelit',
     'feedback.help.featuredCourses': 'Valitut kurssit',
     'feedback.help.featuredVideos': 'Esillä olevat videot',
-    'feedback.help.subCategories': 'Alaluokat'
+    'feedback.help.subCategories': 'Alaluokat',
+    'feedback.resolution.title': 'Ratkaisukeskus',
+    'feedback.resolution.desc': 'Ilmoitettujen rikkomusten hallinnointi ja ratkaiseminen',
+    'feedback.reportType.aiGenerated': 'Tekoälyn luoma sisältö',
+    'feedback.resolution.aiGeneration': 'Tekoälyn sukupolven tila',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Ei tekoälyn tuottama'
 };
