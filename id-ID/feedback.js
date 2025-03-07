@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': 'Artikel Pilihan',
     'feedback.help.featuredCourses': 'Kursus Unggulan',
     'feedback.help.featuredVideos': 'Video Pilihan',
-    'feedback.help.subCategories': 'Sub-kategori'
+    'feedback.help.subCategories': 'Sub-kategori',
+    'feedback.resolution.title': 'Pusat resolusi',
+    'feedback.resolution.desc': 'Mengelola dan menyelesaikan pelanggaran yang dilaporkan',
+    'feedback.reportType.aiGenerated': 'Konten yang dihasilkan AI',
+    'feedback.resolution.aiGeneration': 'Status Generasi AI',
+    'feedback.resolution.aiGenerated': 'Dihasilkan oleh AI',
+    'feedback.resolution.notAiGenerated': 'Tidak Dihasilkan oleh AI'
 };
