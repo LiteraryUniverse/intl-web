@@ -62,5 +62,11 @@ export default {
     'feedback.help.featuredArticles': '注目記事',
     'feedback.help.featuredCourses': 'おすすめコース',
     'feedback.help.featuredVideos': '特集ビデオ',
-    'feedback.help.subCategories': 'サブカテゴリー'
+    'feedback.help.subCategories': 'サブカテゴリー',
+    'feedback.resolution.title': '解決センター',
+    'feedback.resolution.desc': '報告された違反の管理と解決',
+    'feedback.reportType.aiGenerated': 'AIが生成したコンテンツ',
+    'feedback.resolution.aiGeneration': 'AI世代ステータス',
+    'feedback.resolution.aiGenerated': 'AIが生成',
+    'feedback.resolution.notAiGenerated': 'AIではない'
 };
