@@ -66,7 +66,7 @@ export default {
     'feedback.resolution.title': 'Центр разрешения',
     'feedback.resolution.desc': 'Управляйте и решайте проблемы, связанные с нарушениями',
     'feedback.reportType.aiGenerated': 'Контент, созданный искусственным интеллектом',
-    'feedback.resolution.aiGeneration': 'Статус поколения ИИ',
-    'feedback.resolution.aiGenerated': 'Сгенерированный ИИ',
-    'feedback.resolution.notAiGenerated': 'Не генерируется искусственным интеллектом'
+    'feedback.resolution.aiGeneration': 'Состояние поколения ИИ',
+    'feedback.resolution.aiGenerated': 'Создано ИИ',
+    'feedback.resolution.notAiGenerated': 'Не созданное ИИ'
 };
