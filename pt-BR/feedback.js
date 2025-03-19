@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Favor observar que você precisa ser o proprietário legítimo do trabalho para usar este formulário. Se você não for o proprietário, favor informar o proprietário ou usar a outra categoria para nos informar. Levamos as violações de direitos autorais extremamente a sério e o mesmo se aplica ao uso impróprio e abusivo deste formulário.',
     'feedback.report.copyrightInternalProperty': 'Eu publiquei este trabalho sobre o Universo Literário',
     'feedback.reportType.spam': 'Spam ou phishing',
+    'feedback.reportType.soliciting': 'Solicitação',
+    'feedback.reportType.aiUnmarked': 'Conteúdo gerado por IA não marcado',
     'feedback.reportType.other': 'Outros',
     'feedback.report.copyrightType.propertySelectLabel': `Qual {type, select,
     universe {universo}
     story {história}
     other {história}
-  } está sendo infringida?`
+  } está sendo infringida?`,
+    'feedback.help.overview': 'Visão geral',
+    'feedback.help.articles': 'Artigos',
+    'feedback.help.courses': 'Cursos',
+    'feedback.help.videos': 'Tutoriais em vídeo',
+    'feedback.help.featuredArticles': 'Artigos em destaque',
+    'feedback.help.featuredCourses': 'Cursos em destaque',
+    'feedback.help.featuredVideos': 'Vídeos em destaque',
+    'feedback.help.subCategories': 'Subcategorias',
+    'feedback.resolution.title': 'Centro de resolução',
+    'feedback.resolution.desc': 'Gerenciar e resolver as violações relatadas',
+    'feedback.reportType.aiGenerated': 'Conteúdo gerado por IA',
+    'feedback.resolution.aiGeneration': 'Status da geração de IA',
+    'feedback.resolution.aiGenerated': 'Gerado por IA',
+    'feedback.resolution.notAiGenerated': 'Não gerado por IA'
 };

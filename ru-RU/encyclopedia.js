@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Планеты',
     'encyclopedia.category.species': 'Виды',
     'encyclopedia.category.technologies': 'Технологии',
+    'encyclopedia.category.families': 'Семьи',
+    'encyclopedia.category.jobs': 'Работа',
+    'encyclopedia.category.lore': 'История',
+    'encyclopedia.category.vehicles': 'Транспортные средства',
+    'encyclopedia.category.diseases': 'Болезни',
+    'encyclopedia.category.traditions': 'Традиции',
+    'encyclopedia.category.sports': 'Спорт',
+    'encyclopedia.category.food': 'Еда',
+    'encyclopedia.category.landmarks': 'Достопримечательности',
+    'encyclopedia.category.buildings': 'Здания',
+    'encyclopedia.category.schools': 'Школы',
+    'encyclopedia.category.continents': 'Континенты',
+    'encyclopedia.category.villages': 'Деревни',
+    'encyclopedia.category.towns': 'Малые города',
+    'encyclopedia.category.cities': 'Города',
     'encyclopedia.search.found': `{results, plural,
     =0 {Нет найденных соответствующих записей}
     one {1 соответствующая запись найдена}
@@ -51,30 +66,60 @@ export default {
     deity {новое божество}
     religions {новую религию}
     flora {новую флору}
-    magic {новую магию}
+    magic {новую магия}
     planets {новую планету}
     species {новый вид}
     technologies {новую технологию}
+    families {новую семью}
+    jobs {новую работу}
+    lore {новую историю}
+    vehicles {новое транспортное средство}
+    diseases {новую болезнь}
+    traditions {новую традицию}
+    food {новую еду}
+    sports {новый спорт}
+    landmarks {новую достопримечательность}
+    buildings {новое здание}
+    schools {новую школу}
+    continents {новый континент}
+    villages {новую деревню}
+    towns {новый малый город}
+    cities {новый город}
   }`,
-    'encyclopedia.create.header': `Создать {category, select,
+    'encyclopedia.create.header': `Создание {category, select,
     character {нового персонажа}
-    event {новое событие}
-    group {новую группу}
-    item {новый предмет}
-    location {новое место}
-    other {новую заметку}
-    state {новую страну}
-    governments {новое правительство}
-    languages {новый язык}
-    creatures {новое существо}
-    deity {новое божество}
-    religions {новую религию}
-    flora {новую флору}
-    magic {новую магию}
-    planets {новую планету}
-    species {новый вид}
-    technologies {новую технологию}
-  } в {universe}`,
+    event {нового события}
+    group {новой группы}
+    item {нового предмета}
+    location {нового места}
+    other {новой заметки}
+    state {новой страны}
+    governments {нового правительства}
+    languages {нового языка}
+    creatures {нового существа}
+    deity {нового божества}
+    religions {новой религии}
+    flora {новой флоры}
+    magic {новой магии}
+    planets {новой планеты}
+    species {нового вида}
+    technologies {новой технологии}
+    families {новой семьи}
+    jobs {новой работы}
+    lore {новой истории}
+    vehicles {нового транспортного средства}
+    diseases {новой болезни}
+    traditions {новой традиции}
+    food {новой еды}
+    sports {нового спорта}
+    landmarks {новой достопримечательности}
+    buildings {нового здания}
+    schools {новой школы}
+    continents {нового континента}
+    villages {новой деревни}
+    towns {нового малого города}
+    cities {нового города}
+  } в «{universe}»`,
     'encyclopedia.entry.category': `Категория записи: {category, select,
     character {Персонаж}
     event {Событие}
@@ -93,6 +138,21 @@ export default {
     planets {Планета}
     species {Вид}
     technologies {Технология}
+    families {Семья}
+    jobs {Работа}
+    lore {История}
+    vehicles {Транспортное средство}
+    diseases {Болезнь}
+    traditions {Традиция}
+    food {Еда}
+    sports {Спорт}
+    landmarks {Достопримечательность}
+    buildings {Здание}
+    schools {Школа}
+    continents {Континент}
+    villages {Деревня}
+    towns {Малый город}
+    cities {Город}
   }`,
     'encyclopedia.entry.category.legend': 'Категория',
     'encyclopedia.fields.add': 'Добавить новое поле',

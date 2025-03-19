@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Ku\'i do djica lo ka se jinvi lo ka sidju la\'o gy.this form.gy. .i lo nu do na se jinvi lo ka sidju la\'o gy.this form.gy. cu se slabu lo ka jursa lo ka se cpacu lo jibri .i lo ka se slabu lo ka se cpacu lo jibri cu se slabu lo ka jursa lo ka se slabu lo ka sidju lo ka se cpacu lo jibri',
     'feedback.report.copyrightInternalProperty': 'Mi pu se tcidu lo se du\'u ti\'e la\'o gy.I have published this work on Literary Universe.gy.',
     'feedback.reportType.spam': 'Spam or phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'lo drata',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

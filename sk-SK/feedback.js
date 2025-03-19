@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Upozorňujeme, že na použitie tohto formulára musíte byť oprávneným vlastníkom diela. Ak nie ste vlastníkom, informujte o tom vlastníka alebo použite inú kategóriu, aby ste nás informovali. Porušovanie autorských práv berieme mimoriadne vážne a to isté platí aj pre nesprávne a zneužívajúce používanie tohto formulára.',
     'feedback.report.copyrightInternalProperty': 'Túto prácu som uverejnil na Literary Universe',
     'feedback.reportType.spam': 'Spam alebo phishing',
+    'feedback.reportType.soliciting': 'Žiadosť o pomoc',
+    'feedback.reportType.aiUnmarked': 'Neoznačený obsah vytvorený umelou inteligenciou',
     'feedback.reportType.other': 'Ostatné',
     'feedback.report.copyrightType.propertySelectLabel': `Ktorý {type, select,
     universe {vesmír}
     story {príbeh}
     other {príbeh}
-  } je porušený?`
+  } je porušený?`,
+    'feedback.help.overview': 'Prehľad',
+    'feedback.help.articles': 'Články',
+    'feedback.help.courses': 'Kurzy',
+    'feedback.help.videos': 'Videonávody',
+    'feedback.help.featuredArticles': 'Odporúčané články',
+    'feedback.help.featuredCourses': 'Odporúčané kurzy',
+    'feedback.help.featuredVideos': 'Odporúčané videá',
+    'feedback.help.subCategories': 'Podkategórie',
+    'feedback.resolution.title': 'Centrum pre riešenie problémov',
+    'feedback.resolution.desc': 'Správa a riešenie nahlásených porušení',
+    'feedback.reportType.aiGenerated': 'Obsah generovaný umelou inteligenciou',
+    'feedback.resolution.aiGeneration': 'Stav generácie AI',
+    'feedback.resolution.aiGenerated': 'Generované umelou inteligenciou',
+    'feedback.resolution.notAiGenerated': 'Nie je generovaná umelou inteligenciou'
 };

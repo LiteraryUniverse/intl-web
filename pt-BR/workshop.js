@@ -288,5 +288,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Confirme que o senhor deseja sair do site {workName}',
     'workshop.collaborator.leaveExplained': 'Sair do projeto significará que o senhor perderá todo o acesso, associação e privilégios. Se o senhor não tiver certeza do que isso significa, provavelmente não era nisso que queria clicar.',
     'workshop.collaborators.leftInfo': 'Esquerda em {date, date}',
-    'workshop.collaborators.removedInfo': 'Removido em {date, date}'
+    'workshop.collaborators.removedInfo': 'Removido em {date, date}',
+    'workshop.aiGeneratedAdjusted': 'O status de geração de IA desse conteúdo foi ajustado, como resultado de um relatório de usuário, por um administrador e não pode ser alterado.'
 };

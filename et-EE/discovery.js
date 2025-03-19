@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Lugude koguarv',
     'discovery.readFromStart': 'Lugeda esimesest peatükist',
     'discovery.readLatest': 'Lugeda viimast peatükist',
-    'discovery.author': 'Autor'
+    'discovery.author': 'Autor',
+    'discovery.aiGenerated': 'AI loodud'
 };

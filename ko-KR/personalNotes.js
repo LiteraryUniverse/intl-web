@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': '개정 텍스트 블록',
   'personalNotes.chapter': '장',
   'personalNotes.recentSearches': '최근 검색:',
-  'personalNotes.myNotes': '내 개인 노트'
+  'personalNotes.myNotes': '내 개인 노트',
+  'personalNotes.hasNotes': '개인 메모 있음'
 };

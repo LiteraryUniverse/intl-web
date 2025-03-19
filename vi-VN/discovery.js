@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Tổng số chương trong câu chuyện',
     'discovery.readFromStart': 'Đọc từ chương đầu tiên',
     'discovery.readLatest': 'Đọc chương mới nhất',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

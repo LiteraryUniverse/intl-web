@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Iomlán líon chaibidlí sa scéal',
     'discovery.readFromStart': 'Léigh ón gcéad chaibidil',
     'discovery.readLatest': 'Léigh an cúigiú caibidil is déanaí',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

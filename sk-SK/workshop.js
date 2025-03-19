@@ -295,5 +295,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Potvrďte, že chcete opustiť stránku {workName}',
     'workshop.collaborator.leaveExplained': 'Odchod z projektu znamená, že stratíte všetky prístupy, asociácie a oprávnenia. Ak si nie ste istí, čo to všetko znamená, potom to pravdepodobne nie je to, na čo ste chceli kliknúť.',
     'workshop.collaborators.leftInfo': 'Vľavo na {date, date}',
-    'workshop.collaborators.removedInfo': 'Odstránené na {date, date}'
+    'workshop.collaborators.removedInfo': 'Odstránené na {date, date}',
+    'workshop.aiGeneratedAdjusted': 'Stav generovania AI tohto obsahu bol upravený na základe hlásenia používateľa správcom a nie je možné ho zmeniť.'
 };

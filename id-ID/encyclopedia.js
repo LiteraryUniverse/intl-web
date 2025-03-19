@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planet',
     'encyclopedia.category.species': 'Spesies',
     'encyclopedia.category.technologies': 'Teknologi',
+    'encyclopedia.category.families': 'Keluarga',
+    'encyclopedia.category.jobs': 'Pekerjaan',
+    'encyclopedia.category.lore': 'Pengetahuan',
+    'encyclopedia.category.vehicles': 'Kendaraan',
+    'encyclopedia.category.diseases': 'Penyakit',
+    'encyclopedia.category.traditions': 'Tradisi',
+    'encyclopedia.category.sports': 'Olahraga',
+    'encyclopedia.category.food': 'Makanan',
+    'encyclopedia.category.landmarks': 'Tengara',
+    'encyclopedia.category.buildings': 'Bangunan',
+    'encyclopedia.category.schools': 'Sekolah',
+    'encyclopedia.category.continents': 'Benua',
+    'encyclopedia.category.villages': 'Desa',
+    'encyclopedia.category.towns': 'Kota',
+    'encyclopedia.category.cities': 'Kota',
     'encyclopedia.search.found': `{results, plural,
     =0 {Tidak ada entri terkait}
     one {1 entri terkait}
@@ -35,11 +50,11 @@ export default {
     'encyclopedia.add.title': 'Tambahkan entri baru ke ensiklopedia',
     'encyclopedia.add.heading': 'Apa yang ingin Anda tambahkan?',
     'encyclopedia.add.moresoon': 'Kategori lainnya akan segera hadir!',
-    'encyclopedia.create': `Buat acara baru {category, select,
+    'encyclopedia.create': `Buat baru {category, select,
     character {karakter}
-    event {acara}
+    event {peristiwa}
     group {kelompok}
-    item {item}
+    item {benda}
     location {lokasi}
     other {catatan}
     state {negara}
@@ -48,17 +63,32 @@ export default {
     creatures {makhluk}
     deity {dewa}
     religions {agama}
-    flora {flora}
+    flora {tumbuhan}
     magic {sihir}
     planets {planet}
     species {spesies}
     technologies {teknologi}
+    families {keluarga}
+    jobs {pekerjaan}
+    lore {pengetahuan}
+    vehicles {kendaraan}
+    diseases {penyakit}
+    traditions {tradisi}
+    food {makanan}
+    sports {olahraga}
+    landmarks {tengara}
+    buildings {bangunan}
+    schools {sekolah}
+    continents {benua}
+    villages {desa}
+    towns {kota}
+    cities {kota}
   }`,
-    'encyclopedia.create.header': `Buat acara baru {category, select,
+    'encyclopedia.create.header': `Menciptakan {category, select,
     character {karakter}
-    event {acara}
+    event {peristiwa}
     group {kelompok}
-    item {item}
+    item {benda}
     location {lokasi}
     other {catatan}
     state {negara}
@@ -67,30 +97,60 @@ export default {
     creatures {makhluk}
     deity {dewa}
     religions {agama}
-    flora {flora}
+    flora {tumbuhan}
     magic {sihir}
     planets {planet}
     species {spesies}
     technologies {teknologi}
+    families {keluarga}
+    jobs {pekerjaan}
+    lore {pengetahuan}
+    vehicles {kendaraan}
+    diseases {penyakit}
+    traditions {tradisi}
+    food {makanan}
+    sports {olahraga}
+    landmarks {tengara}
+    buildings {bangunan}
+    schools {sekolah}
+    continents {benua}
+    villages {desa}
+    towns {kota}
+    cities {kota}
   } di {universe}`,
     'encyclopedia.entry.category': `Kategori entri: {category, select,
     character {Karakter}
-    event {Acara}
-    group {Grup}
-    item {Item}
+    event {Peristiwa}
+    group {Kelompok}
+    item {Benda}
     location {Lokasi}
     other {Catatan}
     state {Negara}
-    governments {Pemerintahan}
+    governments {Pemerintah}
     languages {Bahasa}
     creatures {Makhluk}
     deity {Dewa}
     religions {Agama}
-    flora {Flora}
+    flora {Tumbuhan}
     magic {Sihir}
     planets {Planet}
     species {Spesies}
     technologies {Teknologi}
+    families {Keluarga}
+    jobs {Pekerjaan}
+    lore {Pengetahuan}
+    vehicles {Kendaraan}
+    diseases {Penyakit}
+    traditions {Tradisi}
+    food {Makanan}
+    sports {Olahraga}
+    landmarks {Tengara}
+    buildings {Bangunan}
+    schools {Sekolah}
+    continents {Benua}
+    villages {Desa}
+    towns {Kota}
+    cities {Kota}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambahkan bidang baru',

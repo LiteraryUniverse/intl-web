@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Bonvolu noti, ke vi devas esti la rajta posedanto de la verko por uzi ĉi tiun formularon. Se vi ne estas la posedanto, bonvolu informi la posedanton aŭ uzi la alian kategorion por informi nin. Ni tre serioze konsideras kopirajtajn malobservojn, same kiel malĝustan kaj abuzan uzon de ĉi tiu formularo.',
     'feedback.report.copyrightInternalProperty': 'Mi publikigis ĉi tiun verkon en Literatura Universo',
     'feedback.reportType.spam': 'Spamo aŭ fiŝkaptado',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Aliaj',
     'feedback.report.copyrightType.propertySelectLabel': `Kiu {type, select,
     universe {universo}
     story {rakonto}
     other {rakonto}
-  } estas ŝteliĝanta?`
+  } estas ŝteliĝanta?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'કૃપા કરીને ધ્યાન આપો કે આપે આ ફોર્મનો ઉપયોગ કરવા માટે આપે કાર્યની ખરીદદાર હોવો જોઈએ. જો તમે માલિક નથી, તો કૃપા કરીને માલિકને સૂચિત કરો અથવા અમને સૂચિત કરવા માટે અન્ય શ્રેણીનો ઉપયોગ કરો. અમે કૉપિરાઇટ ઉલ્લંઘન ખૂબ ગંભીરતાથી લેવાય છે અને આ ફોર્મના અયોગ્ય અને અપમાનજનક ઉપયોગ પર પણ સમાન માર્ગદર્શન લાગુ પડે છે.',
     'feedback.report.copyrightInternalProperty': 'હું આ કાર્યને લિટરેરી યુનિવર્સ પર પ્રકાશિત કર્યું છું',
     'feedback.reportType.spam': 'સ્પામ અથવા ફિશિંગ',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'અન્ય',
     'feedback.report.copyrightType.propertySelectLabel': `કોણ નકલી કરી રહ્યો છે? કોઈ {type, select,
     universe {યુનિવર્સ}
     story {કથા}
     other {કથા}
-  } પર?`
+  } પર?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

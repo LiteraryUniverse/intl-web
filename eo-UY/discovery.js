@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Entuta nombro de ĉapitroj en la rakonto',
     'discovery.readFromStart': 'Legu de la unua ĉapitro',
     'discovery.readLatest': 'Legu la lastan ĉapitron',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

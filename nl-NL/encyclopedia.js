@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planeten',
     'encyclopedia.category.species': 'Soorten',
     'encyclopedia.category.technologies': 'Technologieën',
+    'encyclopedia.category.families': 'Gezinnen',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Voertuigen',
+    'encyclopedia.category.diseases': 'Ziekten',
+    'encyclopedia.category.traditions': 'Tradities',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Voedsel',
+    'encyclopedia.category.landmarks': 'Bezienswaardigheden',
+    'encyclopedia.category.buildings': 'Gebouwen',
+    'encyclopedia.category.schools': 'Scholen',
+    'encyclopedia.category.continents': 'Continenten',
+    'encyclopedia.category.villages': 'Dorpen',
+    'encyclopedia.category.towns': 'Steden',
+    'encyclopedia.category.cities': 'Steden',
     'encyclopedia.search.found': `{results, plural,
     =0 {Geen gerelateerde invoeringen}
     one {1 gerelateerde invoering}
@@ -35,53 +50,83 @@ export default {
     'encyclopedia.add.title': 'Voeg een nieuw item toe aan de encyclopedie',
     'encyclopedia.add.heading': 'Wat wil je toevoegen?',
     'encyclopedia.add.moresoon': 'Meer categorieën binnenkort beschikbaar!',
-    'encyclopedia.create': `Maak een nieuwe {category, select,
-    character {karakter}
-    event {evenement}
+    'encyclopedia.create': `Maak een nieuw {category, select,
+    character {personage}
+    event {gebeurtenis}
     group {groep}
-    item {item}
+    item {voorwerp}
     location {locatie}
-    other {notitie}
+    other {opmerking}
     state {staat}
     governments {overheid}
     languages {taal}
-    creatures {wezen}
+    creatures {schepsel}
     deity {godheid}
     religions {religie}
     flora {flora}
     magic {magie}
     planets {planeet}
-    species {soort}
+    species {specie ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ~ ziekte ~ ~ traditie ~ ~ voedsel ~ ~ sport ~ ~ voertuig soort}
     technologies {technologie}
+    families {familie}
+    jobs {baan}
+    lore {overlevering}
+    vehicles {voertuig}
+    diseases {ziekte}
+    traditions {traditie}
+    food {voedsel}
+    sports {sport}
+    landmarks {oriëntatiepunt}
+    buildings {gebouw}
+    schools {school}
+    continents {continent}
+    villages {dorpen}
+    towns {steden}
+    cities {steden}
   }`,
-    'encyclopedia.create.header': `Maak een nieuwe {category, select,
-    character {karakter}
-    event {evenement}
+    'encyclopedia.create.header': `Een nieuw {category, select,
+    character {personage}
+    event {gebeurtenis}
     group {groep}
-    item {item}
+    item {voorwerp}
     location {locatie}
-    other {notitie}
+    other {opmerking}
     state {staat}
     governments {overheid}
     languages {taal}
-    creatures {wezen}
+    creatures {schepsel}
     deity {godheid}
     religions {religie}
     flora {flora}
     magic {magie}
     planets {planeet}
-    species {soort}
+    species {soort ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ziekte ~ ~ traditie ~ ~ voedsel ~ ~ sport ~ ~ landmark ~  soort}
     technologies {technologie}
+    families {familie}
+    jobs {baan}
+    lore {overlevering}
+    vehicles {voertuig}
+    diseases {ziekte}
+    traditions {traditie}
+    food {voedsel}
+    sports {sport}
+    landmarks {bezienswaardigheid}
+    buildings {gebouw}
+    schools {school}
+    continents {continent}
+    villages {dorp}
+    towns {stad}
+    cities {stad}
   } in {universe}`,
-    'encyclopedia.entry.category': `Categorie van invoer: {category, select,
-    character {Personage}
+    'encyclopedia.entry.category': `Categorie inzending: {category, select,
+    character {Karakter}
     event {Gebeurtenis}
     group {Groep}
     item {Voorwerp}
     location {Locatie}
-    other {Notitie}
+    other {Opmerking}
     state {Staat}
-    governments {Overheid}
+    governments {Regering}
     languages {Taal}
     creatures {Wezen}
     deity {Godheid}
@@ -91,6 +136,21 @@ export default {
     planets {Planeet}
     species {Soort}
     technologies {Technologie}
+    families {Familie}
+    jobs {Baan}
+    lore {Overlevering}
+    vehicles {Voertuig}
+    diseases {Ziekte}
+    traditions {Traditie}
+    food {Voedsel}
+    sports {Sport}
+    landmarks {Bezienswaardigheid}
+    buildings {Gebouw}
+    schools {School}
+    continents {Continent}
+    villages {dorp}
+    towns {stad}
+    cities {stad}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Voeg een nieuw veld toe',

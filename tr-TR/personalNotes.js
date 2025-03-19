@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Düzeltme Metin Bloğu',
   'personalNotes.chapter': 'Bölüm',
   'personalNotes.recentSearches': 'Son Aramalar:',
-  'personalNotes.myNotes': 'Kişisel Notlarım'
+  'personalNotes.myNotes': 'Kişisel Notlarım',
+  'personalNotes.hasNotes': 'Kişisel Notları Var'
 };

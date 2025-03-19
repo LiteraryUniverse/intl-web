@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Dahili',
   'course.free': 'Ücretsiz',
   'course.sale': 'Satış',
+  'course.announcements': 'Duyurular',
+  'course.announcements.full': 'Kurs duyuruları',
+  'course.announcements.create': 'Bir duyuru oluşturun',
 };

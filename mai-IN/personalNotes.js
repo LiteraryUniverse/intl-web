@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'संशोधन पाठ ब्लक',
   'personalNotes.chapter': 'अध्याय',
   'personalNotes.recentSearches': 'हालका खोजीहरू:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

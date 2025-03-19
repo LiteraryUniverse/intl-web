@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'ดาวเคราะห์',
     'encyclopedia.category.species': 'สายพันธุ์',
     'encyclopedia.category.technologies': 'เทคโนโลยี',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {ไม่มีรายการที่เกี่ยวข้อง}
     one {มีรายการที่เกี่ยวข้อง 1 รายการ}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'เพิ่มรายการใหม่ในสารานุกรม',
     'encyclopedia.add.heading': 'คุณต้องการเพิ่มอะไร?',
     'encyclopedia.add.moresoon': 'หมวดหมู่เพิ่มเติมเร็วๆ นี้',
-    'encyclopedia.create': `สร้าง {category, select,
-    character {ตัวละคร}
-    event {เหตุการณ์}
-    group {กลุ่ม}
-    item {รายการ}
-    location {สถานที่}
-    other {บันทึก}
-    state {สถานะ}
-    governments {รัฐบาล}
-    languages {ภาษา}
-    creatures {สัตว์}
-    deity {เทพ}
-    religions {ศาสนา}
-    flora {พืช}
-    magic {เวทมนตร์}
-    planets {ดาวเคราะห์}
-    species {สายพันธุ์}
-    technologies {เทคโนโลยี}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `สร้าง {category, select,
-    character {ตัวละคร}
-    event {เหตุการณ์}
-    group {กลุ่ม}
-    item {รายการ}
-    location {สถานที่}
-    other {บันทึก}
-    state {สถานะ}
-    governments {รัฐบาล}
-    languages {ภาษา}
-    creatures {สัตว์}
-    deity {เทพ}
-    religions {ศาสนา}
-    flora {พืช}
-    magic {เวทมนตร์}
-    planets {ดาวเคราะห์}
-    species {สายพันธุ์}
-    technologies {เทคโนโลยี}
-  } ใน {universe}`,
-    'encyclopedia.entry.category': `หมวดหมู่ของรายการ: {category, select,
-    character {ตัวละคร}
-    event {เหตุการณ์}
-    group {กลุ่ม}
-    item {สิ่งของ}
-    location {สถานที่}
-    other {บันทึก}
-    state {สถานะ}
-    governments {รัฐบาล}
-    languages {ภาษา}
-    creatures {สัตว์}
-    deity {พระเจ้า}
-    religions {ศาสนา}
-    flora {พืช}
-    magic {มนตร์}
-    planets {ดาวเคราะห์}
-    species {สายพันธุ์}
-    technologies {เทคโนโลยี}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'หมวดหมู่',
     'encyclopedia.fields.add': 'เพิ่มฟิลด์ใหม่',

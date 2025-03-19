@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Внутренний',
   'course.free': 'Бесплатно',
   'course.sale': 'Скидка',
+  'course.announcements': 'Объявления',
+  'course.announcements.full': 'Объявления курса',
+  'course.announcements.create': 'Создать объявление',
 };

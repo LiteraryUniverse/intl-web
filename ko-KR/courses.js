@@ -68,4 +68,7 @@ export default {
   'course.internal': '내부',
   'course.free': '무료',
   'course.sale': '판매',
+  'course.announcements': '공지 사항',
+  'course.announcements.full': '코스 공지 사항',
+  'course.announcements.create': '공지 사항 만들기',
 };
