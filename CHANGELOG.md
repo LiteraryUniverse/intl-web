@@ -1,5 +1,12 @@
 # Changelog for languages
 
+## 2025-03-29 - v2.15.4
+
+* New encyclopedia categories
+* The Way of the Author landing page strings
+* AI related strings
+* Feedback help text adjustments
+
 ## 2025-01-27 - v2.15.3
 
 * Strings for inviting and leaving
