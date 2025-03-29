@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Hikayenin toplam bölüm sayısı',
     'discovery.readFromStart': 'İlk üçten oku',
     'discovery.readLatest': 'En son bölümü oku',
-    'discovery.author': 'Yazar'
+    'discovery.author': 'Yazar',
+    'discovery.aiGenerated': 'Yapay Zeka Üretildi'
 };

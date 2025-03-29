@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Módosítási szöveg blokk',
   'personalNotes.chapter': 'Fejezet',
   'personalNotes.recentSearches': 'Legutóbbi keresések:',
-  'personalNotes.myNotes': 'Személyes jegyzeteim'
+  'personalNotes.myNotes': 'Személyes jegyzeteim',
+  'personalNotes.hasNotes': 'Személyes megjegyzésekkel rendelkezik'
 };

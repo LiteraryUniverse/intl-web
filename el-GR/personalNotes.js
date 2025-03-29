@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Τμήμα Αναθεώρησης Κειμένου',
   'personalNotes.chapter': 'Κεφάλαιο',
   'personalNotes.recentSearches': 'Πρόσφατες Αναζητήσεις:',
-  'personalNotes.myNotes': 'Οι προσωπικές μου σημειώσεις'
+  'personalNotes.myNotes': 'Οι προσωπικές μου σημειώσεις',
+  'personalNotes.hasNotes': 'Έχει προσωπικές σημειώσεις'
 };

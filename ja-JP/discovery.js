@@ -58,5 +58,6 @@ export default {
     'discovery.chaptersTotal': '物語の総章数',
     'discovery.readFromStart': '最初の章から読んでください',
     'discovery.readLatest': '最新の章を読んでください',
-    'discovery.author': '作者'
+    'discovery.author': '作者',
+    'discovery.aiGenerated': 'AIが生成'
 };

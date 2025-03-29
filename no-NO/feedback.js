@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Vennligst merk at du må være den rettmessige eieren av verket for å bruke dette skjemaet. Hvis du ikke er eieren, vennligst informer eieren eller bruk den andre kategorien for å informere oss. Vi tar brudd på opphavsrett svært alvorlig, og det samme gjelder misbruk og feil bruk av dette skjemaet.',
     'feedback.report.copyrightInternalProperty': 'Jeg har publisert dette verket på Literary Universe',
     'feedback.reportType.spam': 'Søppelpost eller phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Annet',
     'feedback.report.copyrightType.propertySelectLabel': `Hvilket {type, select,
     universe {univers}
     story {historie}
     other {historie}
-  } blir det krenket?`
+  } blir det krenket?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'ग्रहहरू',
     'encyclopedia.category.species': 'जातिहरू',
     'encyclopedia.category.technologies': 'प्रविधिहरू',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {कोई संबंधित एन्ट्री नहीं}
     one {1 संबंधित एन्ट्री}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'इंसाइक्लोपीडिया में एक नया एंट्री जोड़ें',
     'encyclopedia.add.heading': 'आप क्या जोड़ना चाहेंगे?',
     'encyclopedia.add.moresoon': 'और श्रेणियाँ जल्द ही आ रही हैं!',
-    'encyclopedia.create': `नया {category, select,
-    character {चरित्र}
-    event {घटना}
-    group {समूह}
-    item {वस्तु}
-    location {स्थान}
-    other {नोट}
-    state {राज्य}
-    governments {सरकार}
-    languages {भाषा}
-    creatures {प्राणी}
-    deity {देवता}
-    religions {धर्म}
-    flora {फूल}
-    magic {जादू}
-    planets {ग्रह}
-    species {प्रजाति}
-    technologies {प्रौद्योगिकी}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `नया {category, select,
-    character {चरित्र}
-    event {घटना}
-    group {समूह}
-    item {वस्तु}
-    location {स्थान}
-    other {नोट}
-    state {राज्य}
-    governments {सरकार}
-    languages {भाषा}
-    creatures {प्राणी}
-    deity {देवता}
-    religions {धर्म}
-    flora {फूल}
-    magic {जादू}
-    planets {ग्रह}
-    species {प्रजाति}
-    technologies {प्रौद्योगिकी}
-  } में {universe}`,
-    'encyclopedia.entry.category': `एन्ट्री श्रेणी: {category, select,
-    character {वर्णन}
-    event {घटना}
-    group {समूह}
-    item {वस्त्र}
-    location {स्थान}
-    other {नोट}
-    state {राज्य}
-    governments {सरकार}
-    languages {भाषा}
-    creatures {प्राणी}
-    deity {देवता}
-    religions {धर्म}
-    flora {वनस्पति}
-    magic {जादू}
-    planets {ग्रह}
-    species {प्रजाति}
-    technologies {प्रौद्योगिकी}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'श्रेणी',
     'encyclopedia.fields.add': 'नया फ़ील्ड जोड़ें',

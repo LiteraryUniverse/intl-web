@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Cal tenir en compte que has de ser el propietari legítim de l\'obra per utilitzar aquest formulari. Si no ho ets, informa al propietari o utilitza una altra categoria per informar-nos. Prendrem les violacions de drets d\'autor extremadament seriosament, així com l\'ús indegut i abusiu d\'aquest formulari.',
     'feedback.report.copyrightInternalProperty': 'He publicat aquesta obra a Literary Universe',
     'feedback.reportType.spam': 'Correu brossa o phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Altres',
     'feedback.report.copyrightType.propertySelectLabel': `Quin {type, select,
     universe {univers}
     story {història}
     other {història}
-  } s'està infringint?`
+  } s'està infringint?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

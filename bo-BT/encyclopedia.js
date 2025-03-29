@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'རྩ་སྒྲིག།',
     'encyclopedia.category.species': 'རིང་བཞི།',
     'encyclopedia.category.technologies': 'རྩོམ་པ།',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {No related entries}
     one {1 related entry}
@@ -53,8 +68,23 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
+    'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
     event {event}
     group {group}
@@ -72,25 +102,55 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
-    'encyclopedia.entry.category': `ཐོག་མིང་དབྱེ་བ། {category, select,
-    character {ཚོགས་པ།}
-    event {བརྗོད།}
-    group {སྡེ་ཚན།}
-    item {གནས་ཚུལ།}
-    location {ས་ཁོང་།}
-    other {དང་པོ།}
-    state {རྒྱུ་མཚན།}
-    governments {རྒྱལ་ཁབ།}
-    languages {སྐད་རིགས།}
-    creatures {སྦྱོང་ཚོགས།}
-    deity {ལྷ་མོ།}
-    religions {བསྟན་འཛིན།}
-    flora {སྟོན།}
-    magic {རྒྱལ་པོ།}
-    planets {གྲོང་ཁྱེར།}
-    species {རིགས།}
-    technologies {རིགས་ཀྱི་རྩ་བ།}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Category',
     'encyclopedia.fields.add': 'Add a new field',

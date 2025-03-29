@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Prašome atkreipti dėmesį, kad norint naudotis šia forma, turite būti teisėtas darbo savininkas. Jei nesate savininkas, prašome informuoti savininką arba naudoti kitą kategoriją, kad mus informuotumėte. Mes labai rimtai vertiname autorių teisių pažeidimus, taip pat netinkamą ir piktnaudžiavimą šia forma.',
     'feedback.report.copyrightInternalProperty': 'Aš paskelbiau šį darbą „Literary Universe“',
     'feedback.reportType.spam': 'Šlamštas arba phishinimas',
+    'feedback.reportType.soliciting': 'Prašymas',
+    'feedback.reportType.aiUnmarked': 'Nepažymėtas dirbtinio intelekto sukurtas turinys',
     'feedback.reportType.other': 'Kita',
     'feedback.report.copyrightType.propertySelectLabel': `Kurios {type, select,
     universe {visatos}
     story {istorijos}
     other {istorija}
-  } yra pažeidžiama?`
+  } yra pažeidžiama?`,
+    'feedback.help.overview': 'Apžvalga',
+    'feedback.help.articles': 'Straipsniai',
+    'feedback.help.courses': 'Kursai',
+    'feedback.help.videos': 'Vaizdo pamokos',
+    'feedback.help.featuredArticles': 'Rekomenduojami straipsniai',
+    'feedback.help.featuredCourses': 'Rekomenduojami kursai',
+    'feedback.help.featuredVideos': 'Rekomenduojami vaizdo įrašai',
+    'feedback.help.subCategories': 'Subkategorijos',
+    'feedback.resolution.title': 'Sprendimų priėmimo centras',
+    'feedback.resolution.desc': 'Tvarkykite ir spręskite pažeidimus, apie kuriuos pranešta.',
+    'feedback.reportType.aiGenerated': 'dirbtinio intelekto sukurtas turinys',
+    'feedback.resolution.aiGeneration': 'AI generavimo būsena',
+    'feedback.resolution.aiGenerated': 'Sukurtas dirbtinis intelektas',
+    'feedback.resolution.notAiGenerated': 'Ne dirbtinio intelekto sukurtas'
 };

@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
     'feedback.report.copyrightInternalProperty': 'I have published this work on Literary Universe',
     'feedback.reportType.spam': 'Spam or phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'གཞན་པ།',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

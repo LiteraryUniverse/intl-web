@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Interné stránky',
   'course.free': 'Bezplatne',
   'course.sale': 'Predaj',
+  'course.announcements': 'Oznámenia',
+  'course.announcements.full': 'Oznámenia o kurzoch',
+  'course.announcements.create': 'Vytvorenie oznámenia',
 };

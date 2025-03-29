@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'បរិស្ថាន',
     'encyclopedia.category.species': 'ប្រភេទ',
     'encyclopedia.category.technologies': 'ប្រព័ន្ធបណ្តាញ',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {គ្មានធាតុដែលទាក់ទងគ្នា}
     one {មានធាតុដែលទាក់ទងមួយ}
@@ -53,8 +68,23 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Create a new {category, select,
+    'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
     event {event}
     group {group}
@@ -72,25 +102,55 @@ export default {
     planets {planet}
     species {specie}
     technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
   } in {universe}`,
-    'encyclopedia.entry.category': `ប្រភេទធាតុ: {category, select,
-    character {តួនាទី}
-    event {ព្រឹក្សា}
-    group {ក្រុម}
-    item {ធាតុ}
-    location {ទីកន្លែង}
-    other {ចំណាំ}
-    state {រដ្ឋ}
-    governments {រាជធានី}
-    languages {ភាសា}
-    creatures {សត្វ}
-    deity {អមជ្ឈមណ្ឌល}
-    religions {សាសនា}
-    flora {រឿងជាតិ}
-    magic {ប្រេងសាំង}
-    planets {ផលប៉ះពាល់}
-    species {ម៉ាស៊ីន}
-    technologies {ប្រព័ន្ធបន្ទប់បន្តិច}
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'ប្រភេទ',
     'encyclopedia.fields.add': 'បន្ថែមវាលថ្មី',

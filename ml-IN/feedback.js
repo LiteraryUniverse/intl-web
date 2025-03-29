@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'ദയവായി ശ്രദ്ധിക്കുക: ഈ ഫോം ഉപയോക്താവിനെയാണ് അനുവദിക്കുന്നത്. ഉപയോക്താവിനല്ലെങ്കിൽ, ദയവായി ഉപയോക്താവിനെ അറിയിപ്പ് നല്‍കുക അല്ലെങ്കിൽ മറ്റ് വിഭാഗം ഉപയോഗിക്കുകയുംചെയ്യുക. ഞങ്ങൾ കോപിറൈറ്റ് ഉല്ലംഘനങ്ങളെ ഗുരുതിക്കുന്നുവല്ലോപ്പേഴ്‌സ് ഉപയോഗിക്കുന്നതും തീവ്രവാദിതമായ ഉപയോഗം ഉപയോഗിക്കുന്നതും തന്നെ ഗുരുതിക്കുന്നു.',
     'feedback.report.copyrightInternalProperty': 'ഞാൻ ഇതു സാഹിത്യ യൂണിവേഴ്‌സിറ്റിയിൽ പ്രസിദ്ധീകരിച്ചുവന്നു',
     'feedback.reportType.spam': 'സ്പാം അല്ലെങ്കിൽ ഫിഷിംഗ്',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'മറ്റുള്ളവ',
     'feedback.report.copyrightType.propertySelectLabel': `ഏത് {type, select,
     universe {യൂണിവേഴ്സ്}
     story {കഥ}
     other {കഥ}
-  } അപകടപ്പെടുത്തപ്പെടുന്നു?`
+  } അപകടപ്പെടുത്തപ്പെടുന്നു?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

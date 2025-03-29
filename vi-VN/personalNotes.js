@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Mục block văn bản được sửa',
   'personalNotes.chapter': 'Chương',
   'personalNotes.recentSearches': 'Tìm kiếm gần đây:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

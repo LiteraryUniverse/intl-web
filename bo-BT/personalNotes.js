@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'སྙན་ཞུས་གསལ་བཤད་པའི་གྲུབ།',
   'personalNotes.chapter': 'གནས་ཚད།',
   'personalNotes.recentSearches': 'འཕྲོགས་པ་འཚོལ་ཞིབ།',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

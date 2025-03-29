@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Textový blok revize',
   'personalNotes.chapter': 'Kapitola',
   'personalNotes.recentSearches': 'Nedávné vyhledávání:',
-  'personalNotes.myNotes': 'Moje osobní poznámky'
+  'personalNotes.myNotes': 'Moje osobní poznámky',
+  'personalNotes.hasNotes': 'Má osobní poznámky'
 };

@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'الكواكب',
     'encyclopedia.category.species': 'الأنواع',
     'encyclopedia.category.technologies': 'التقنيات',
+    'encyclopedia.category.families': 'العائلات',
+    'encyclopedia.category.jobs': 'الوظائف',
+    'encyclopedia.category.lore': 'لور',
+    'encyclopedia.category.vehicles': 'المركبات',
+    'encyclopedia.category.diseases': 'الأمراض',
+    'encyclopedia.category.traditions': 'التقاليد',
+    'encyclopedia.category.sports': 'الرياضة',
+    'encyclopedia.category.food': 'الطعام',
+    'encyclopedia.category.landmarks': 'المعالم',
+    'encyclopedia.category.buildings': 'المباني',
+    'encyclopedia.category.schools': 'المدارس',
+    'encyclopedia.category.continents': 'القارات',
+    'encyclopedia.category.villages': 'القرى',
+    'encyclopedia.category.towns': 'المدن',
+    'encyclopedia.category.cities': 'المدن',
     'encyclopedia.search.found': `{results, plural,
     =0 {لا توجد إدخالات ذات صلة}
     one {إدخال ذو صلة واحد}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'إضافة إدخال جديد إلى الموسوعة',
     'encyclopedia.add.heading': 'ما الذي ترغب في إضافته؟',
     'encyclopedia.add.moresoon': 'المزيد من التصنيفات قادمة قريبًا!',
-    'encyclopedia.create': `قم بإنشاء جديد {category, select,
-    character {شخصية}
-    event {~ حدث ~ ~ حدث}
-    group {مجموعة}
-    item {~ عنصر}
-    location {موقع}
-    other {ملاحظة}
-    state {دولة}
-    governments {حكومة ~ ~ حكومة}
-    languages {لغة}
-    creatures {~ مخلوق}
-    deity {إله ~ ~ إله}
-    religions {دين}
-    flora {نباتات}
-    magic {سحر}
-    planets {كوكب}
-    species {نوع}
-    technologies {تكنولوجيا}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `قم بإنشاء جديد {category, select,
+    'encyclopedia.create.header': `إنشاء شخصية جديدة {category, select,
     character {شخصية}
-    event {~ حدث ~ ~ حدث}
-    group {مجموعة}
-    item {~ عنصر}
+    event {~ حدث}
+    group {مجموعة ~ ~ مجموعة}
+    item {عنصر ~ ~ عنصر}
     location {الموقع}
     other {ملاحظة}
     state {الدولة}
     governments {الحكومة ~ ~ الحكومة}
     languages {اللغة}
     creatures {~ مخلوق}
-    deity {إله ~ ~ إله}
-    religions {دين}
-    flora {نباتات}
-    magic {سحر}
-    planets {كوكب}
-    species {نوع}
-    technologies {تكنولوجيا}
+    deity {إله}
+    religions {الدين}
+    flora {النباتات}
+    magic {السحر}
+    planets {الكوكب}
+    species {~ النوع}
+    technologies {التكنولوجيا}
+    families {الأسرة ~ ~ الأسرة ~}
+    jobs {وظيفة}
+    lore {~ علم}
+    vehicles {مركبة}
+    diseases {مرض ~ ~ مرض}
+    traditions {~ تقليد}
+    food {الغذاء ~ ~ الغذاء}
+    sports {الرياضة}
+    landmarks {~ معلم}
+    buildings {مبنى}
+    schools {مدرسة}
+    continents {قارة}
+    villages {قرية}
+    towns {بلدة}
+    cities {مدينة}
   } في {universe}`,
-    'encyclopedia.entry.category': `فئة الإدخال: {category, select,
+    'encyclopedia.entry.category': `فئة الدخول {category, select,
     character {شخصية}
-    event {حدث}
-    group {مجموعة}
-    item {عنصر}
-    location {موقع}
+    event {حدث ~ ~ ~ حدث}
+    group {مجموعة ~ ~ مجموعة}
+    item {عنصر ~ عنصر}
+    location {موقع ~ موقع}
     other {ملاحظة}
-    state {حالة}
+    state {دولة}
     governments {حكومة}
     languages {لغة}
     creatures {مخلوق}
     deity {إله}
-    religions {ديانة}
-    flora {نباتات}
+    religions {دين}
+    flora {فلورا}
     magic {سحر}
     planets {كوكب}
     species {نوع}
-    technologies {تكنولوجيا}
+    technologies {التكنولوجيا}
+    families {العائلة ~ ~ العائلة}
+    jobs {الوظيفة}
+    lore {المعرفة ~ ~ المعرفة}
+    vehicles {المركبة}
+    diseases {المرض}
+    traditions {التقاليد}
+    food {الغذاء ~ ~ الغذاء}
+    sports {الرياضة}
+    landmarks {~ معلم}
+    buildings {~ مبنى}
+    schools {مدرسة}
+    continents {قارة}
+    villages {قرية}
+    towns {بلدة}
+    cities {مدينة}
   }`,
     'encyclopedia.entry.category.legend': 'التصنيف',
     'encyclopedia.fields.add': 'إضافة حقل جديد',

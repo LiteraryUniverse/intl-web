@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Sila ambil perhatian bahawa anda perlu menjadi pemilik sah karya ini untuk menggunakan borang ini. Jika anda bukan pemilik, sila beritahu pemilik atau gunakan kategori lain untuk memberitahu kami. Kami mengambil pelanggaran hak cipta dengan sangat serius dan perkara yang sama berlaku untuk penggunaan borang ini yang tidak betul dan bersifat menyalahgunakan.',
     'feedback.report.copyrightInternalProperty': 'Saya telah menerbitkan karya ini di Literary Universe',
     'feedback.reportType.spam': 'Spam atau phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Lain-lain',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

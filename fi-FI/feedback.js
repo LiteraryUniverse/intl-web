@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Huomaa, että sinun on oltava teoksen laillinen omistaja voidaksesi käyttää tätä lomaketta. Jos et ole teoksen omistaja, ilmoita siitä omistajalle tai ilmoita siitä meille muussa kategoriassa. Suhtaudumme tekijänoikeusrikkomuksiin erittäin vakavasti, ja sama pätee myös tämän lomakkeen epäasialliseen ja väärinkäytölliseen käyttöön.',
     'feedback.report.copyrightInternalProperty': 'Olen julkaissut tämän teoksen Literary Universe -lehdessä.',
     'feedback.reportType.spam': 'Roskaposti tai phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Merkitsemätön tekoälyn luoma sisältö',
     'feedback.reportType.other': 'Muut',
     'feedback.report.copyrightType.propertySelectLabel': `Minkä {type, select,
     universe {universumin}
     story {tarinaa}
     other {tarinaa}
-  } loukataan?`
+  } loukataan?`,
+    'feedback.help.overview': 'Yleiskatsaus',
+    'feedback.help.articles': 'Artikkelit',
+    'feedback.help.courses': 'Kurssit',
+    'feedback.help.videos': 'Video-oppaat',
+    'feedback.help.featuredArticles': 'Suositeltavat artikkelit',
+    'feedback.help.featuredCourses': 'Valitut kurssit',
+    'feedback.help.featuredVideos': 'Esillä olevat videot',
+    'feedback.help.subCategories': 'Alaluokat',
+    'feedback.resolution.title': 'Ratkaisukeskus',
+    'feedback.resolution.desc': 'Ilmoitettujen rikkomusten hallinnointi ja ratkaiseminen',
+    'feedback.reportType.aiGenerated': 'Tekoälyn luoma sisältö',
+    'feedback.resolution.aiGeneration': 'Tekoälyn sukupolven tila',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Ei tekoälyn tuottama'
 };

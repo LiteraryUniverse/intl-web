@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Συνολικός αριθμός κεφαλαίων στην ιστορία',
     'discovery.readFromStart': 'Διαβάστε από το πρώτο κεφάλαιο',
     'discovery.readLatest': 'Διαβάστε το τελευταίο κεφάλαιο',
-    'discovery.author': 'Συγγραφέας'
+    'discovery.author': 'Συγγραφέας',
+    'discovery.aiGenerated': 'AI Generated'
 };

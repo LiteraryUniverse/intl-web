@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Vezměte prosím na vědomí, že pro použití tohoto formuláře musíte být oprávněným vlastníkem díla. Pokud nejste vlastníkem, informujte prosím vlastníka nebo použijte jinou kategorii k informování nás. Bereme porušování autorských práv velmi vážně a totéž platí pro nesprávné a zneužívající používání tohoto formuláře.',
     'feedback.report.copyrightInternalProperty': 'Publikoval jsem toto dílo na Literary Universe',
     'feedback.reportType.spam': 'Spam nebo phishing',
+    'feedback.reportType.soliciting': 'Získávání informací na adrese',
+    'feedback.reportType.aiUnmarked': 'Neoznačený obsah generovaný umělou inteligencí',
     'feedback.reportType.other': 'Ostatní',
     'feedback.report.copyrightType.propertySelectLabel': `Který {type, select,
     universe {vesmír}
     story {příběh}
     other {}
-  } je zde zneužit?`
+  } je zde zneužit?`,
+    'feedback.help.overview': 'Přehled',
+    'feedback.help.articles': 'Články',
+    'feedback.help.courses': 'Kurzy',
+    'feedback.help.videos': 'Videonávody',
+    'feedback.help.featuredArticles': 'Doporučené články',
+    'feedback.help.featuredCourses': 'Doporučené kurzy',
+    'feedback.help.featuredVideos': 'Doporučená videa',
+    'feedback.help.subCategories': 'Podkategorie',
+    'feedback.resolution.title': 'Centrum pro řešení problémů',
+    'feedback.resolution.desc': 'Správa a řešení nahlášených porušení',
+    'feedback.reportType.aiGenerated': 'Obsah generovaný umělou inteligencí',
+    'feedback.resolution.aiGeneration': 'Stav generace AI',
+    'feedback.resolution.aiGenerated': 'Generované umělou inteligencí',
+    'feedback.resolution.notAiGenerated': 'Není generováno umělou inteligencí'
 };

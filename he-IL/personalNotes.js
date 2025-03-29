@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'מקטע טקסט לתיקון',
   'personalNotes.chapter': 'פרק',
   'personalNotes.recentSearches': 'חיפושים אחרונים:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

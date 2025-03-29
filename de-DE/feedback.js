@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Bitte beachten Sie, dass Sie der rechtmäßige Eigentümer des Werks sein müssen, um dieses Formular zu verwenden. Wenn Sie nicht der Eigentümer sind, informieren Sie bitte den Eigentümer oder verwenden Sie die andere Kategorie, um uns zu informieren. Wir nehmen Urheberrechtsverletzungen äußerst ernst und dasselbe gilt für die unsachgemäße und missbräuchliche Verwendung dieses Formulars.',
     'feedback.report.copyrightInternalProperty': 'Ich habe diese Arbeit auf Literary Universe veröffentlicht',
     'feedback.reportType.spam': 'Spam oder Phishing',
+    'feedback.reportType.soliciting': 'Fordern Sie  an.',
+    'feedback.reportType.aiUnmarked': 'Nicht markierte KI-generierte Inhalte',
     'feedback.reportType.other': 'Andere',
     'feedback.report.copyrightType.propertySelectLabel': `Welches {type, select,
     universe {Universum}
     story {Geschichte}
     other {Geschichte}
-  } wird verletzt?`
+  } wird verletzt?`,
+    'feedback.help.overview': 'Übersicht',
+    'feedback.help.articles': 'Artikel',
+    'feedback.help.courses': 'Kurse',
+    'feedback.help.videos': 'Video-Tutorials',
+    'feedback.help.featuredArticles': 'Ausgewählte Artikel',
+    'feedback.help.featuredCourses': 'Ausgewählte Kurse',
+    'feedback.help.featuredVideos': 'Ausgewählte Videos',
+    'feedback.help.subCategories': 'Unterkategorien',
+    'feedback.resolution.title': 'Auflösung Zentrum',
+    'feedback.resolution.desc': 'Verwalten und lösen Sie gemeldete Verstöße',
+    'feedback.reportType.aiGenerated': 'KI-generierte Inhalte',
+    'feedback.resolution.aiGeneration': 'Status der KI-Generation',
+    'feedback.resolution.aiGenerated': 'KI-generiert',
+    'feedback.resolution.notAiGenerated': 'Nicht KI-generiert'
 };

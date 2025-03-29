@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planetas',
     'encyclopedia.category.species': 'Espécies',
     'encyclopedia.category.technologies': 'Tecnologias',
+    'encyclopedia.category.families': 'Famílias',
+    'encyclopedia.category.jobs': 'Empregos',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Veículos',
+    'encyclopedia.category.diseases': 'Doenças',
+    'encyclopedia.category.traditions': 'Tradições',
+    'encyclopedia.category.sports': 'Esportes',
+    'encyclopedia.category.food': 'Alimentos',
+    'encyclopedia.category.landmarks': 'Pontos de referência',
+    'encyclopedia.category.buildings': 'Edifícios',
+    'encyclopedia.category.schools': 'Escolas',
+    'encyclopedia.category.continents': 'Continentes',
+    'encyclopedia.category.villages': 'Vilas',
+    'encyclopedia.category.towns': 'Cidades',
+    'encyclopedia.category.cities': 'Cidades',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nenhuma entrada relacionada}
     one {1 entrada relacionada}
@@ -40,7 +55,7 @@ export default {
     event {evento}
     group {grupo}
     item {item}
-    location {localização}
+    location {local}
     other {nota}
     state {estado}
     governments {governo}
@@ -53,13 +68,28 @@ export default {
     planets {planeta}
     species {espécie}
     technologies {tecnologia}
+    families {família}
+    jobs {emprego}
+    lore {lore}
+    vehicles {veículo}
+    diseases {doença}
+    traditions {tradição}
+    food {alimento}
+    sports {esporte}
+    landmarks {marco}
+    buildings {edifício}
+    schools {escola}
+    continents {continente}
+    villages {vilas}
+    towns {cidades}
+    cities {cidades}
   }`,
-    'encyclopedia.create.header': `Criar um novo {category, select,
+    'encyclopedia.create.header': `Criando um novo {category, select,
     character {personagem}
     event {evento}
     group {grupo}
     item {item}
-    location {localização}
+    location {local}
     other {nota}
     state {estado}
     governments {governo}
@@ -72,25 +102,55 @@ export default {
     planets {planeta}
     species {espécie}
     technologies {tecnologia}
+    families {família}
+    jobs {emprego}
+    lore {lore}
+    vehicles {veículo}
+    diseases {doença}
+    traditions {tradição}
+    food {alimento}
+    sports {esporte}
+    landmarks {marco}
+    buildings {edifício}
+    schools {escola}
+    continents {continente}
+    villages {vila}
+    towns {cidade}
+    cities {cidade}
   } em {universe}`,
-    'encyclopedia.entry.category': `Categoria da entrada: {category, select,
+    'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
     event {Evento}
     group {Grupo}
     item {Item}
-    location {Localização}
+    location {Local}
     other {Nota}
     state {Estado}
     governments {Governo}
     languages {Idioma}
     creatures {Criatura}
-    deity {Deidade}
+    deity {Divindade}
     religions {Religião}
     flora {Flora}
     magic {Magia}
     planets {Planeta}
     species {Espécie}
     technologies {Tecnologia}
+    families {Família}
+    jobs {Trabalho}
+    lore {Lore}
+    vehicles {Veículo}
+    diseases {Doença}
+    traditions {Tradição}
+    food {Alimento}
+    sports {Esporte}
+    landmarks {Marco histórico}
+    buildings {Edifício}
+    schools {Escola}
+    continents {Continente}
+    villages {vila}
+    towns {cidade}
+    cities {cidade}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',

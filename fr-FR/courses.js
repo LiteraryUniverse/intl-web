@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Interne',
   'course.free': 'Gratuit',
   'course.sale': 'Vente',
+  'course.announcements': 'Annonces',
+  'course.announcements.full': 'Annonces de cours',
+  'course.announcements.create': 'Créer une annonce',
 };

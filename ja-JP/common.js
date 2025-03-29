@@ -112,7 +112,7 @@ export default {
     'story.lastUpdate': '最終更新日: {date, date, medium} {date, time, short}',
     'story.finishedAt': '{date, date, medium}で終了しました。',
     'story.hiatusAt': '{date, date, medium}から休止中。',
-    'story.cancelledAt': 'Cancelled on {date, date, medium}.',
+    'story.cancelledAt': 'キャンセルされました {date, date, medium}',
     'story.comments.for': '{story} {chapter}へのコメント。',
     'story.cover.alt': '{story}のストーリーカバー画像 。',
     'story.note.fanfiction': '注：この物語は{universe}宇宙のファンフィクションです。',

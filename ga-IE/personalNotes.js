@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Ríomhchlár téacs Athbhreithnithe',
   'personalNotes.chapter': 'Caibidil',
   'personalNotes.recentSearches': 'Cuardachanna Déanaí:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

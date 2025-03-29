@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'ଦୟାକରି ଧ୍ୟାନ ଦିଅନ୍ତୁ ଯେ ଆପଣ ଏହି ଫର୍ମଟି ବ୍ୟବହାର କରିବା ପାଇଁ ସହୀତ ମାଲିକ ହେବା ଆବଶ୍ୟକ। ଯଦି ଆପଣ ମାଲିକ ନାହିଁଥିବା ହେବା, ଦୟାକରି ମାଲିକଙ୍କୁ ଜାଣାଇବା କିମ୍ବା ଅନ୍ୟ ବିଭାଗ ବ୍ୟବହାର କରିବା ପାଇଁ ଆମେ ଜଣାଇବୁ। ଆମେ କୋପିରାଇଟ ଲଙ୍ଘନ ଖୁବ ଗମ୍ଭୀରତା ସହିତ ନିଯୁକ୍ତି ନିଯୁକ୍ତି ନେଇଥାଏ।',
     'feedback.report.copyrightInternalProperty': 'ମୁଁ ଏହି କାର୍ଯ୍ୟକଳା ଲିଟେରରୀ ଇୟୁନିଭର୍ସରେ ପ୍ରକାଶିତ କରିଛି',
     'feedback.reportType.spam': 'ସ୍ପାମ କିମ୍ବା ଫିଶିଂ',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'ଅନ୍ୟ',
     'feedback.report.copyrightType.propertySelectLabel': `କୌଣ {type, select,
     universe {ବିଶ୍ବ}
     story {କାହାଣୀ}
     other {କାହାଣୀ}
-  } ଅପରାଧ କରାଯାଇଛି?`
+  } ଅପରାଧ କରାଯାଇଛି?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

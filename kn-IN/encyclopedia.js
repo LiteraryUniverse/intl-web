@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'ಗ್ರಹಗಳು',
     'encyclopedia.category.species': 'ಜಾತಿಗಳು',
     'encyclopedia.category.technologies': 'ತಂತ್ರಗಳು',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {ಯಾವುದೇ ಸಂಬಂಧಿತ ಪ್ರವೇಶಗಳಿಲ್ಲ}
     one {1 ಸಂಬಂಧಿತ ಪ್ರವೇಶ}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'ಎನ್ಸೈಕ್ಲೋಪೀಡಿಯಾಗೆ ಹೊಸ ಪ್ರವೇಶ ಸೇರಿಸಿ',
     'encyclopedia.add.heading': 'ನೀವು ಏನು ಸೇರಿಸಲು ಬಯಸುವಿರಿ?',
     'encyclopedia.add.moresoon': 'ಹೆಚ್ಚಿನ ವರ್ಗಗಳು ಬರುತ್ತಿವೆ!',
-    'encyclopedia.create': `ಹೊಸ {category, select,
-    character {ಪಾತ್ರ}
-    event {ಘಟನೆ}
-    group {ಗುಂಪು}
-    item {ವಸ್ತು}
-    location {ಸ್ಥಳ}
-    other {ನೋಟ}
-    state {ರಾಜ್ಯ}
-    governments {ಸರ್ಕಾರ}
-    languages {ಭಾಷೆ}
-    creatures {ಜೀವ}
-    deity {ದೈವ}
-    religions {ಧರ್ಮ}
-    flora {ಸಸ್ಯ}
-    magic {ಮಾಯಾ}
-    planets {ಗ್ರಹ}
-    species {ಜಾತಿ}
-    technologies {ತಂತ್ರಜ್ಞಾನ}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `ಹೊಸ {category, select,
-    character {ಪಾತ್ರ}
-    event {ಘಟನೆ}
-    group {ಗುಂಪು}
-    item {ವಸ್ತು}
-    location {ಸ್ಥಳ}
-    other {ನೋಟ}
-    state {ರಾಜ್ಯ}
-    governments {ಸರ್ಕಾರ}
-    languages {ಭಾಷೆ}
-    creatures {ಜೀವ}
-    deity {ದೈವ}
-    religions {ಧರ್ಮ}
-    flora {ಸಸ್ಯ}
-    magic {ಮಾಯಾ}
-    planets {ಗ್ರಹ}
-    species {ಜಾತಿ}
-    technologies {ತಂತ್ರಜ್ಞಾನ}
-  } ನಲ್ಲಿ {universe}`,
-    'encyclopedia.entry.category': `ಪ್ರವೇಶ ವರ್ಗ: {category, select,
-    character {ಪಾತ್ರ}
-    event {ಸಂಭ್ರಮ}
-    group {ಗುಂಪು}
-    item {ವಸ್ತು}
-    location {ಸ್ಥಳ}
-    other {ನೋಟ}
-    state {ಸ್ಥಿತಿ}
-    governments {ಸರ್ಕಾರ}
-    languages {ಭಾಷೆ}
-    creatures {ಪ್ರಾಣಿ}
-    deity {ದೈವತ}
-    religions {ಧರ್ಮ}
-    flora {ಸಸ್ಯ}
-    magic {ಮಾಯಾಚಕ್ರ}
-    planets {ಗ್ರಹ}
-    species {ಜಾತಿ}
-    technologies {ತಂತ್ರಜ್ಞಾನ}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'ವರ್ಗ',
     'encyclopedia.fields.add': 'ಹೊಸ ಕ್ಷೇತ್ರ ಸೇರಿಸಿ',

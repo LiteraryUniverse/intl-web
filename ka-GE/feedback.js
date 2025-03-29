@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'გთხოვთ გახსენით, რომ თქვენ უნდა იყოთ ნამდვილი მფლობელი საქმიანი საქმიანი მუშაობისთვის. თუ თქვენ არ ხართ მფლობელი, გთხოვთ შეატყობინოთ მფლობელს ან გამოიყენოთ სხვა კატეგორია ჩვენთვის შესახებ. ჩვენ ვიყენებთ საკოპირაიტის გაყვარებისთვის უფლებებს საუკეთესო სერიოზობით და არასასურველი და აბურდისაგან გამოყენებისთვის.',
     'feedback.report.copyrightInternalProperty': 'მე ვარ ამ ნამუშავებზე გამოქვეყნებული მქონება',
     'feedback.reportType.spam': 'სპამი ან ფიშინგი',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'სხვა',
     'feedback.report.copyrightType.propertySelectLabel': `რომელი {type, select,
     universe {უნივერსუმი}
     story {ისტორია}
     other {ისტორია}
-  } არის დაფიქსირებული?`
+  } არის დაფიქსირებული?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

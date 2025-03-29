@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'দয়া কৰি মনত ধৰণীত আপুনি কাজটোৰ মালিক হওৱা লাগিব। যদি আপুনি মালিক নহয়, অনুগ্ৰহ কৰি মালিকক জানাইব অথবা আপুনি আমাৰ লগত যোগাযোগ কৰিব বাবে অন্য শ্ৰেণীত ব্যৱহাৰ কৰক। আমি কপিৰাইট লঙ্ঘনসমূহক অসম্ভবত গম্ভীৰভাৱে নেওৱাৰ চেষ্টা কৰি থাকোঁ আৰু এই ফর্মৰ অপচয়কৰ ব্যৱহাৰও তথ্য সংগ্ৰহ কৰি আৰোপ নিবাৰিব।',
     'feedback.report.copyrightInternalProperty': 'মই এই কামটো সাহিত্যিক বিশ্বত প্ৰকাশ কৰিছো',
     'feedback.reportType.spam': 'স্প্যাম অথবা ফিশিং',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'অন্যান্য',
     'feedback.report.copyrightType.propertySelectLabel': `কোন {type, select,
     universe {পৰিবেশ}
     story {গল্প}
     other {গল্প}
-  } লংঘন কৰা হৈছে?`
+  } লংঘন কৰা হৈছে?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

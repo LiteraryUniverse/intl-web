@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Планети',
     'encyclopedia.category.species': 'Види',
     'encyclopedia.category.technologies': 'Технології',
+    'encyclopedia.category.families': 'Сім\'ї',
+    'encyclopedia.category.jobs': 'Робочі місця',
+    'encyclopedia.category.lore': 'Знання',
+    'encyclopedia.category.vehicles': 'Транспортні засоби',
+    'encyclopedia.category.diseases': 'Захворювання',
+    'encyclopedia.category.traditions': 'Традиції',
+    'encyclopedia.category.sports': 'Спорт',
+    'encyclopedia.category.food': 'Їжа',
+    'encyclopedia.category.landmarks': 'Орієнтири',
+    'encyclopedia.category.buildings': 'Будівлі',
+    'encyclopedia.category.schools': 'Школи',
+    'encyclopedia.category.continents': 'Континенти',
+    'encyclopedia.category.villages': 'Села',
+    'encyclopedia.category.towns': 'Міста',
+    'encyclopedia.category.cities': 'Міста',
     'encyclopedia.search.found': `{results, plural,
     =0 {Немає пов'язаних записів}
     one {1 пов'язаний запис}
@@ -40,12 +55,12 @@ export default {
     event {подія}
     group {група}
     item {предмет}
-    location {розташування}
+    location {місце}
     other {примітка}
-    state {стан}
+    state {держава}
     governments {уряд}
     languages {мова}
-    creatures {створіння}
+    creatures {істота}
     deity {божество}
     religions {релігія}
     flora {флора}
@@ -53,37 +68,67 @@ export default {
     planets {планета}
     species {вид}
     technologies {технологія}
+    families {сім'я}
+    jobs {робота}
+    lore {історія}
+    vehicles {транспортний засіб}
+    diseases {хвороба}
+    traditions {традиція}
+    food {їжа}
+    sports {спорт}
+    landmarks {пам'ятка}
+    buildings {будівля}
+    schools {школа}
+    continents {континент}
+    villages {села}
+    towns {селища}
+    cities {міста}
   }`,
-    'encyclopedia.create.header': `Створити новий {category, select,
-    character {персонаж}
-    event {подія}
-    group {група}
-    item {предмет}
-    location {розташування}
-    other {примітка}
-    state {стан}
-    governments {уряд}
-    languages {мова}
-    creatures {створіння}
-    deity {божество}
-    religions {релігія}
-    flora {флора}
-    magic {магія}
-    planets {планета}
-    species {вид}
-    technologies {технологія}
-  } у {universe}`,
-    'encyclopedia.entry.category': `Категорія запису: {category, select,
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Категорія заявки: {category, select,
     character {Персонаж}
     event {Подія}
     group {Група}
     item {Предмет}
-    location {Місцезнаходження}
+    location {Локація}
     other {Примітка}
-    state {Стан}
+    state {Держава}
     governments {Уряд}
     languages {Мова}
-    creatures {Створіння}
+    creatures {Істота}
     deity {Божество}
     religions {Релігія}
     flora {Флора}
@@ -91,6 +136,21 @@ export default {
     planets {Планета}
     species {Вид}
     technologies {Технологія}
+    families {Сім'я}
+    jobs {Робота}
+    lore {Історія}
+    vehicles {Транспортний засіб}
+    diseases {Хвороба}
+    traditions {Традиція}
+    food {Їжа}
+    sports {Спорт}
+    landmarks {Пам'ятка}
+    buildings {Будівля}
+    schools {Школа}
+    continents {Континент}
+    villages {Село}
+    towns {Містечко}
+    cities {Місто}
   }`,
     'encyclopedia.entry.category.legend': 'Категорія',
     'encyclopedia.fields.add': 'Додати нове поле',

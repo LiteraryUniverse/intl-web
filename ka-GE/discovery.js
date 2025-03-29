@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'სათაურის ყველა თემი',
     'discovery.readFromStart': 'წაიკითხეთ პირველი თავადი თვალწინააღმდეგეს',
     'discovery.readLatest': 'წაიკითხეთ უახლესი თავადი თვალწინააღმდეგეს',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

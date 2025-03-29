@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Pamiętaj, że musisz być prawowitym właścicielem pracy, aby skorzystać z tego formularza. Jeśli nie jesteś właścicielem, poinformuj go o tym lub skorzystaj z innej kategorii, aby nas poinformować. Naruszenie praw autorskich traktujemy bardzo poważnie i to samo dotyczy niewłaściwego i obraźliwego użycia tego formularza.',
     'feedback.report.copyrightInternalProperty': 'Opublikowałem tę pracę na Literary Universe',
     'feedback.reportType.spam': 'Spam lub wyłudzanie danych',
+    'feedback.reportType.soliciting': 'Nagabywanie',
+    'feedback.reportType.aiUnmarked': 'Nieoznaczona zawartość generowana przez sztuczną inteligencję',
     'feedback.reportType.other': 'Inne',
     'feedback.report.copyrightType.propertySelectLabel': `Który {type, select,
     universe {wszechświat}
     story {historia}
     other {historia}
-  } jest naruszona?`
+  } jest naruszona?`,
+    'feedback.help.overview': 'Przegląd',
+    'feedback.help.articles': 'Artykuły',
+    'feedback.help.courses': 'Kursy',
+    'feedback.help.videos': 'Samouczki wideo',
+    'feedback.help.featuredArticles': 'Polecane artykuły',
+    'feedback.help.featuredCourses': 'Polecane kursy',
+    'feedback.help.featuredVideos': 'Polecane filmy',
+    'feedback.help.subCategories': 'Podkategorie',
+    'feedback.resolution.title': 'Centrum rozdzielczości',
+    'feedback.resolution.desc': 'Zarządzanie i rozwiązywanie zgłoszonych naruszeń',
+    'feedback.reportType.aiGenerated': 'Treści generowane przez sztuczną inteligencję',
+    'feedback.resolution.aiGeneration': 'Status generacji AI',
+    'feedback.resolution.aiGenerated': 'Generowane przez sztuczną inteligencję',
+    'feedback.resolution.notAiGenerated': 'Nie generowane przez sztuczną inteligencję'
 };

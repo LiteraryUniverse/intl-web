@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'গ্ৰহসমূহ',
     'encyclopedia.category.species': 'প্ৰজাতিসমূহ',
     'encyclopedia.category.technologies': 'প্ৰযুক্তিসমূহ',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {কোনো সম্পর্কিত লেখা নেই}
     one {1 সম্পর্কিত লেখা আছে}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'একটি নতুন লেখা যোগ করুন এক্সিক্লোপিডিয়াতে',
     'encyclopedia.add.heading': 'আপনি কী যোগ করতে চান?',
     'encyclopedia.add.moresoon': 'আসছে আরও ক্যাটাগরি!',
-    'encyclopedia.create': `নতুন {category, select,
-    character {চরিত্র}
-    event {ঘটনা}
-    group {গোষ্ঠী}
-    item {আইটেম}
-    location {অবস্থান}
-    other {নোট}
-    state {রাষ্ট্র}
-    governments {সরকার}
-    languages {ভাষা}
-    creatures {প্রাণী}
-    deity {দেবতা}
-    religions {ধর্ম}
-    flora {উদ্ভিদ}
-    magic {জাদু}
-    planets {গ্রহ}
-    species {প্রজাতি}
-    technologies {প্রযুক্তি}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `নতুন {category, select,
-    character {চরিত্র}
-    event {ঘটনা}
-    group {গোষ্ঠী}
-    item {আইটেম}
-    location {অবস্থান}
-    other {নোট}
-    state {রাষ্ট্র}
-    governments {সরকার}
-    languages {ভাষা}
-    creatures {প্রাণী}
-    deity {দেবতা}
-    religions {ধর্ম}
-    flora {উদ্ভিদ}
-    magic {জাদু}
-    planets {গ্রহ}
-    species {প্রজাতি}
-    technologies {প্রযুক্তি}
-  } এ {universe}`,
-    'encyclopedia.entry.category': `প্ৰবেশ শ্ৰেণী: {category, select,
-    character {চিত্ৰ}
-    event {ঘটনা}
-    group {গোষ্ঠী}
-    item {পদ}
-    location {অৱস্থান}
-    other {নোট}
-    state {ৰাষ্ট্ৰ}
-    governments {সৰকাৰ}
-    languages {ভাষা}
-    creatures {প্ৰাণী}
-    deity {দেবতা}
-    religions {ধৰ্ম}
-    flora {উদ্ভিদ}
-    magic {জাদু}
-    planets {গ্ৰহ}
-    species {প্ৰজাতি}
-    technologies {প্রযুক্তি}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'বিভাগ',
     'encyclopedia.fields.add': 'নতুন ক্ষেত্র যোগ করুন',

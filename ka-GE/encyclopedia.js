@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'პლანეტები',
     'encyclopedia.category.species': 'სახელმწიფოები',
     'encyclopedia.category.technologies': 'ტექნოლოგიები',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {არაა არცერთი დაკავებული ჩანაწერი}
     one {1 დაკავებული ჩანაწერი}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'დაამატეთ ახალი ჩანაწერი ენციკლოპედიაში',
     'encyclopedia.add.heading': 'რას გსურთ დაამატოთ?',
     'encyclopedia.add.moresoon': 'მეტი კატეგორიები მომავალში!',
-    'encyclopedia.create': `შექმენი ახალი {category, select,
-    character {პერსონაჟი}
-    event {მოვლენა}
-    group {ჯგუფი}
-    item {ნივთი}
-    location {ადგილი}
-    other {შენიშვნა}
-    state {სტატუსი}
-    governments {მთავარი}
-    languages {ენა}
-    creatures {მაცივარი}
-    deity {ღმერთი}
-    religions {რელიგია}
-    flora {ფლორა}
-    magic {მაგია}
-    planets {პლანეტა}
-    species {სპეციე}
-    technologies {ტექნოლოგია}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `შექმენი ახალი {category, select,
-    character {პერსონაჟი}
-    event {მოვლენა}
-    group {ჯგუფი}
-    item {ნივთი}
-    location {ადგილი}
-    other {შენიშვნა}
-    state {სტატუსი}
-    governments {მთავარი}
-    languages {ენა}
-    creatures {მაცივარი}
-    deity {ღმერთი}
-    religions {რელიგია}
-    flora {ფლორა}
-    magic {მაგია}
-    planets {პლანეტა}
-    species {სპეციე}
-    technologies {ტექნოლოგია}
-  } თარიღით {universe}`,
-    'encyclopedia.entry.category': `ჩანაწერის კატეგორია: {category, select,
-    character {პერსონაჟი}
-    event {მოვლენა}
-    group {ჯგუფი}
-    item {ნივთი}
-    location {ადგილმდებარეობა}
-    other {შენიშვნა}
-    state {სტატუსი}
-    governments {მთავარი ადგილი}
-    languages {ენა}
-    creatures {მარაგი}
-    deity {ღმერთი}
-    religions {რელიგია}
-    flora {ფლორა}
-    magic {მაგია}
-    planets {პლანეტა}
-    species {სპეციე}
-    technologies {ტექნოლოგია}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'კატეგორია',
     'encyclopedia.fields.add': 'ახალი ველის დამატება',

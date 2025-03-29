@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'দয়া করে মনে রাখবেন যে, আপনাকে এই ফর্মটি ব্যবহার করার জন্য কাজের সঠিক মালিক হতে হবে। যদি আপনি মালিক না হন, দয়া করে মালিককে জানাতে বা অন্যান্য বিভাগটি ব্যবহার করে আমাদেরকে জানাতে পারেন। আমরা কপিরাইট লঙ্ঘনগুলি অত্যন্ত গুরুত্বপূর্ণভাবে নিয়মিত ভাবে নেয় এবং একই প্রয়োজন আমাদেরকে অযথা এবং অপমানজনক ব্যবহারের জন্য প্রয়োগ করা হয়।',
     'feedback.report.copyrightInternalProperty': 'আমি এই কাজটি সাহিত্যিক বিশ্বে প্রকাশ করেছি',
     'feedback.reportType.spam': 'স্প্যাম বা ফিশিং',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'অন্যান্য',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Pianeti',
     'encyclopedia.category.species': 'Specie',
     'encyclopedia.category.technologies': 'Tecnologie',
+    'encyclopedia.category.families': 'Famiglie',
+    'encyclopedia.category.jobs': 'Offerte di lavoro',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Veicoli',
+    'encyclopedia.category.diseases': 'Malattie',
+    'encyclopedia.category.traditions': 'Tradizioni',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Cibo',
+    'encyclopedia.category.landmarks': 'Punti di riferimento',
+    'encyclopedia.category.buildings': 'Edifici',
+    'encyclopedia.category.schools': 'Scuole',
+    'encyclopedia.category.continents': 'Continenti',
+    'encyclopedia.category.villages': 'Villaggi',
+    'encyclopedia.category.towns': 'Città',
+    'encyclopedia.category.cities': 'Città',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nessuna voce}
     one {1 voce}
@@ -35,12 +50,12 @@ export default {
     'encyclopedia.add.title': 'Aggiungi una nuova voce all\'enciclopedia',
     'encyclopedia.add.heading': 'Cosa vuoi aggiungere?',
     'encyclopedia.add.moresoon': 'Più categorie in arrivo!',
-    'encyclopedia.create': `Crea nuovo/a {category, select,
+    'encyclopedia.create': `Creare un nuovo {category, select,
     character {personaggio}
     event {evento}
     group {gruppo}
-    item {elemento}
-    location {luogo}
+    item {oggetto}
+    location {località}
     other {nota}
     state {stato}
     governments {governo}
@@ -53,12 +68,27 @@ export default {
     planets {pianeta}
     species {specie}
     technologies {tecnologia}
+    families {famiglia}
+    jobs {lavoro}
+    lore {tradizione}
+    vehicles {veicolo}
+    diseases {malattia}
+    traditions {tradizione}
+    food {cibo}
+    sports {sport}
+    landmarks {punto di riferimento}
+    buildings {edificio}
+    schools {scuola}
+    continents {continente}
+    villages {villaggi}
+    towns {paesi}
+    cities {città}
   }`,
-    'encyclopedia.create.header': `Crea nuovo/a {category, select,
+    'encyclopedia.create.header': `Creare un nuovo {category, select,
     character {personaggio}
     event {evento}
     group {gruppo}
-    item {elemento}
+    item {oggetto}
     location {luogo}
     other {nota}
     state {stato}
@@ -72,12 +102,27 @@ export default {
     planets {pianeta}
     species {specie}
     technologies {tecnologia}
-  } a {universe}`,
-    'encyclopedia.entry.category': `Aggiungi categoria: {category, select,
+    families {famiglia}
+    jobs {lavoro}
+    lore {tradizione}
+    vehicles {veicolo}
+    diseases {malattia}
+    traditions {tradizione}
+    food {cibo}
+    sports {sport}
+    landmarks {punto di riferimento}
+    buildings {edificio}
+    schools {scuola}
+    continents {continente}
+    villages {villaggio}
+    towns {città}
+    cities {città}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Categoria di iscrizione: {category, select,
     character {Personaggio}
     event {Evento}
     group {Gruppo}
-    item {Elemento}
+    item {Oggetto}
     location {Luogo}
     other {Nota}
     state {Stato}
@@ -91,6 +136,21 @@ export default {
     planets {Pianeta}
     species {Specie}
     technologies {Tecnologia}
+    families {Famiglia}
+    jobs {Lavoro}
+    lore {Lore}
+    vehicles {Veicolo}
+    diseases {Malattia}
+    traditions {Tradizione}
+    food {Cibo}
+    sports {Sport}
+    landmarks {Punto di riferimento}
+    buildings {Edificio}
+    schools {Scuola}
+    continents {Continente}
+    villages {villaggio}
+    towns {città}
+    cities {città}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Aggiungi un nuovo campo',

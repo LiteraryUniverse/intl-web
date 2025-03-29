@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'このフォームの使用に際しては正当な所有者である必要があります。もし所有者でない場合は、所有者にご連絡するか、別のカテゴリーからお知らせください。私たちは、著作権侵害を非常に重く受け止めており、このフォームの不適切な使用や不正使用においても同様です。',
     'feedback.report.copyrightInternalProperty': '私はこの作品をLieterary Universeに発表しました。',
     'feedback.reportType.spam': 'スパムやフィッシング',
+    'feedback.reportType.soliciting': '勧誘',
+    'feedback.reportType.aiUnmarked': '無印のAI生成コンテンツ',
     'feedback.reportType.other': 'その他',
     'feedback.report.copyrightType.propertySelectLabel': `どの {type, select,
     universe {宇宙}
     story {物語}
     other {物語}
-  }が侵害されていますか？`
+  }が侵害されていますか？`,
+    'feedback.help.overview': '概要',
+    'feedback.help.articles': '記事',
+    'feedback.help.courses': 'コース',
+    'feedback.help.videos': 'ビデオ・チュートリアル',
+    'feedback.help.featuredArticles': '注目記事',
+    'feedback.help.featuredCourses': 'おすすめコース',
+    'feedback.help.featuredVideos': '特集ビデオ',
+    'feedback.help.subCategories': 'サブカテゴリー',
+    'feedback.resolution.title': '解決センター',
+    'feedback.resolution.desc': '報告された違反の管理と解決',
+    'feedback.reportType.aiGenerated': 'AIが生成したコンテンツ',
+    'feedback.resolution.aiGeneration': 'AI世代ステータス',
+    'feedback.resolution.aiGenerated': 'AIが生成',
+    'feedback.resolution.notAiGenerated': 'AIではない'
 };

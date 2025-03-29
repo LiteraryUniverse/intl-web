@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Vui lòng lưu ý rằng bạn cần là chủ sở hữu hợp pháp của tác phẩm để sử dụng biểu mẫu này. Nếu bạn không phải là chủ sở hữu, vui lòng thông báo cho chủ sở hữu hoặc sử dụng danh mục khác để thông báo cho chúng tôi. Chúng tôi coi trọng việc vi phạm bản quyền và cũng áp dụng tương tự đối với việc sử dụng sai mục đích và lạm dụng biểu mẫu này.',
     'feedback.report.copyrightInternalProperty': 'Tôi đã xuất bản tác phẩm này trên Literary Universe',
     'feedback.reportType.spam': 'Thư rác hoặc lừa đảo',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Khác',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

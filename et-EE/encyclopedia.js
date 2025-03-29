@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planeedid',
     'encyclopedia.category.species': 'Liigid',
     'encyclopedia.category.technologies': 'Tehnoloogiad',
+    'encyclopedia.category.families': 'Perekonnad',
+    'encyclopedia.category.jobs': 'Töökohad',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Sõidukid',
+    'encyclopedia.category.diseases': 'Haigused',
+    'encyclopedia.category.traditions': 'Traditsioonid',
+    'encyclopedia.category.sports': 'Sport',
+    'encyclopedia.category.food': 'Toiduained',
+    'encyclopedia.category.landmarks': 'Vaatamisväärsused',
+    'encyclopedia.category.buildings': 'Hooned',
+    'encyclopedia.category.schools': 'Koolid',
+    'encyclopedia.category.continents': 'Kontinendid',
+    'encyclopedia.category.villages': 'Külad',
+    'encyclopedia.category.towns': 'Linnad',
+    'encyclopedia.category.cities': 'Linnad',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei leitud seotud kirjeid}
     one {1 seotud kirje}
@@ -38,59 +53,104 @@ export default {
     'encyclopedia.create': `Loo uus {category, select,
     character {tegelane}
     event {sündmus}
-    group {grupp}
+    group {rühm}
     item {ese}
     location {asukoht}
     other {märkus}
-    state {olek}
+    state {riik}
     governments {valitsus}
     languages {keel}
     creatures {olend}
     deity {jumalus}
-    religions {usk}
+    religions {religioon}
     flora {taimestik}
     magic {maagia}
     planets {planeet}
-    species {liik}
+    species {specie}
     technologies {tehnoloogia}
+    families {perekond}
+    jobs {töö}
+    lore {pärimus}
+    vehicles {sõiduk}
+    diseases {haigus}
+    traditions {traditsioon}
+    food {toit}
+    sports {sport}
+    landmarks {maamärk}
+    buildings {hoone}
+    schools {kool}
+    continents {kontinent}
+    villages {külad}
+    towns {linnad}
+    cities {linnad}
   }`,
-    'encyclopedia.create.header': `Loo uus {category, select,
-    character {tegelane}
+    'encyclopedia.create.header': `Uue {category, select,
+    character {tegelase loomine}
     event {sündmus}
-    group {grupp}
+    group {rühm}
     item {ese}
     location {asukoht}
     other {märkus}
-    state {olek}
+    state {riik}
     governments {valitsus}
     languages {keel}
     creatures {olend}
     deity {jumalus}
-    religions {usk}
+    religions {religioon}
     flora {taimestik}
     magic {maagia}
     planets {planeet}
-    species {liik}
+    species {specie}
     technologies {tehnoloogia}
-  } asukohas {universe}`,
-    'encyclopedia.entry.category': `Sissekande kategooria: {category, select,
+    families {perekond}
+    jobs {töö}
+    lore {pärimus}
+    vehicles {sõiduk}
+    diseases {haigus}
+    traditions {traditsioon}
+    food {toit}
+    sports {sport}
+    landmarks {maamärk}
+    buildings {hoone}
+    schools {kool}
+    continents {kontinent}
+    villages {küla}
+    towns {linn}
+    cities {linn}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Sisenemiskategooria: {category, select,
     character {Tegelane}
     event {Sündmus}
-    group {Grupp}
-    item {Eseme}
+    group {Rühm}
+    item {Ese}
     location {Asukoht}
     other {Märkus}
-    state {Olek}
+    state {Riik}
     governments {Valitsus}
     languages {Keel}
     creatures {Olend}
     deity {Jumalus}
     religions {Religioon}
-    flora {Taimestik}
+    flora {Flora}
     magic {Maagia}
     planets {Planeet}
     species {Liik}
     technologies {Tehnoloogia}
+    families {Perekond}
+    jobs {Töö}
+    lore {Õpetus}
+    vehicles {Sõiduk}
+    diseases {Haigus}
+    traditions {Traditsioon}
+    food {Toit}
+    sports {Sport}
+    landmarks {Maamärk}
+    buildings {Hoone}
+    schools {Kool}
+    continents {Kontinent}
+    villages {küla}
+    towns {linn}
+    cities {linn}
   }`,
     'encyclopedia.entry.category.legend': 'Kategooria',
     'encyclopedia.fields.add': 'Lisa uus väli',

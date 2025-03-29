@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Lütfen bu formu kullanmak için eserin hak sahibi olmanız gerektiğini unutmayın. Eğer sahip değilseniz, lütfen sahibi bilgilendirin veya bize bilgi vermek için diğer kategoriyi kullanın. Telif hakkı ihlallerini son derece ciddiye alıyoruz ve aynı şey bu formun yanlış ve kötüye kullanımı için de geçerlidir.',
     'feedback.report.copyrightInternalProperty': 'Bu eseri Literary Universe üzerinde yayımladım',
     'feedback.reportType.spam': 'Spam veya phishing',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'İşaretlenmemiş yapay zeka tarafından oluşturulmuş içerik',
     'feedback.reportType.other': 'Diğer',
     'feedback.report.copyrightType.propertySelectLabel': `Hangi {type, select,
     universe {evrenin}
     story {hikayesi}
     other {hikayesi}
-  } ihlal ediliyor?`
+  } ihlal ediliyor?`,
+    'feedback.help.overview': 'Genel Bakış',
+    'feedback.help.articles': 'Makaleler',
+    'feedback.help.courses': 'Kurslar',
+    'feedback.help.videos': 'Video eğitimleri',
+    'feedback.help.featuredArticles': 'Öne Çıkan Makaleler',
+    'feedback.help.featuredCourses': 'Öne Çıkan Kurslar',
+    'feedback.help.featuredVideos': 'Öne Çıkan Videolar',
+    'feedback.help.subCategories': 'Alt kategoriler',
+    'feedback.resolution.title': 'Çözüm merkezi',
+    'feedback.resolution.desc': 'Bildirilen ihlalleri yönetin ve çözün',
+    'feedback.reportType.aiGenerated': 'Yapay zeka tarafından oluşturulan içerik',
+    'feedback.resolution.aiGeneration': 'Yapay Zeka Üretimi Durumu',
+    'feedback.resolution.aiGenerated': 'Yapay Zeka Üretildi',
+    'feedback.resolution.notAiGenerated': 'Yapay Zeka Üretilmedi'
 };

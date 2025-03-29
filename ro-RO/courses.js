@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Interne',
   'course.free': 'Gratuit',
   'course.sale': 'Vânzare',
+  'course.announcements': 'Anunțuri',
+  'course.announcements.full': 'Anunțuri de curs',
+  'course.announcements.create': 'Creați un anunț',
 };

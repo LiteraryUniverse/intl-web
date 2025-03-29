@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Istorijos skyrių skaičius',
     'discovery.readFromStart': 'Skaityti nuo pirmo skyriaus',
     'discovery.readLatest': 'Skaityti naujausią skyrių',
-    'discovery.author': 'Autorius'
+    'discovery.author': 'Autorius',
+    'discovery.aiGenerated': 'Sukurtas dirbtinis intelektas'
 };

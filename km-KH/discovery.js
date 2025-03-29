@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'ចំនួនទសភាផ្នែកប៉ុណ្ណោះក្នុងរឿង',
     'discovery.readFromStart': 'អានពីជំពូកដំបូង',
     'discovery.readLatest': 'អានចំណាត់ថ្នាក់ថ្មីបំផុត',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

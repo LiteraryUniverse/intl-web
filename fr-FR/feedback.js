@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Veuillez noter que vous devez être le propriétaire légitime de l\'œuvre pour utiliser ce formulaire. Si vous n\'êtes pas le propriétaire, veuillez en informer le propriétaire ou utiliser l\'autre catégorie pour nous en informer. Nous prenons très au sérieux les violations du droit d\'auteur et il en va de même pour l\'utilisation inappropriée et abusive de ce formulaire.',
     'feedback.report.copyrightInternalProperty': 'J\'ai publié ce travail sur l\'Univers Littéraire',
     'feedback.reportType.spam': 'Spam ou hameçonnage',
+    'feedback.reportType.soliciting': 'Sollicitation',
+    'feedback.reportType.aiUnmarked': 'Contenu non marqué généré par l\'IA',
     'feedback.reportType.other': 'Autre',
     'feedback.report.copyrightType.propertySelectLabel': `Quel {type, select,
     universe {univers}
     story {histoire}
     other {histoire}
-  } est en train d'être violée ?`
+  } est en train d'être violée ?`,
+    'feedback.help.overview': 'Vue d\'ensemble',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Cours',
+    'feedback.help.videos': 'Tutoriels vidéo',
+    'feedback.help.featuredArticles': 'Articles en vedette',
+    'feedback.help.featuredCourses': 'Cours en vedette',
+    'feedback.help.featuredVideos': 'Vidéos en vedette',
+    'feedback.help.subCategories': 'Sous-catégories',
+    'feedback.resolution.title': 'Centre de résolution',
+    'feedback.resolution.desc': 'Gérer et résoudre les infractions signalées',
+    'feedback.reportType.aiGenerated': 'Contenu généré par l\'IA',
+    'feedback.resolution.aiGeneration': 'Statut de la génération d\'IA',
+    'feedback.resolution.aiGenerated': 'Généré par l\'IA',
+    'feedback.resolution.notAiGenerated': 'Non généré par l\'IA'
 };

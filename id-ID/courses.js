@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Internal',
   'course.free': 'Gratis',
   'course.sale': 'Penjualan',
+  'course.announcements': 'Pengumuman',
+  'course.announcements.full': 'Pengumuman kursus',
+  'course.announcements.create': 'Membuat pengumuman',
 };

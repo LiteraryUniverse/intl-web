@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Bloco de Texto de Revisão',
   'personalNotes.chapter': 'Capítulo',
   'personalNotes.recentSearches': 'Pesquisas Recentes:',
-  'personalNotes.myNotes': 'As minhas notas pessoais'
+  'personalNotes.myNotes': 'As minhas notas pessoais',
+  'personalNotes.hasNotes': 'Tem notas pessoais'
 };

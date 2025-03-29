@@ -68,4 +68,7 @@ export default {
   'course.internal': '内部',
   'course.free': '無料',
   'course.sale': 'セール',
+  'course.announcements': 'お知らせ',
+  'course.announcements.full': 'コース発表',
+  'course.announcements.create': 'アナウンスを作成する',
 };

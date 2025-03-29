@@ -66,5 +66,6 @@ export default {
     'discovery.chaptersTotal': 'Celkový počet kapitol v príbehu',
     'discovery.readFromStart': 'Čítať od prvej kapitoly',
     'discovery.readLatest': 'Čítať najnovšiu kapitolu',
-    'discovery.author': 'Autor'
+    'discovery.author': 'Autor',
+    'discovery.aiGenerated': 'Generované umelou inteligenciou'
 };

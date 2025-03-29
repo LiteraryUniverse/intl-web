@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Sisemine',
   'course.free': 'Tasuta',
   'course.sale': 'Müük',
+  'course.announcements': 'Teated',
+  'course.announcements.full': 'Kursusteated',
+  'course.announcements.create': 'Luua teade',
 };

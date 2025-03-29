@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Πλανήτες',
     'encyclopedia.category.species': 'Είδη',
     'encyclopedia.category.technologies': 'Τεχνολογίες',
+    'encyclopedia.category.families': 'Οικογένειες',
+    'encyclopedia.category.jobs': 'Θέσεις εργασίας',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Οχήματα',
+    'encyclopedia.category.diseases': 'Ασθένειες',
+    'encyclopedia.category.traditions': 'Παραδόσεις',
+    'encyclopedia.category.sports': 'Αθλητισμός',
+    'encyclopedia.category.food': 'Τρόφιμα',
+    'encyclopedia.category.landmarks': 'Ορόσημα',
+    'encyclopedia.category.buildings': 'Κτίρια',
+    'encyclopedia.category.schools': 'Σχολεία',
+    'encyclopedia.category.continents': 'Ήπειροι',
+    'encyclopedia.category.villages': 'Χωριά',
+    'encyclopedia.category.towns': 'Πόλεις',
+    'encyclopedia.category.cities': 'Πόλεις',
     'encyclopedia.search.found': `{results, plural,
     =0 {Δεν υπάρχουν σχετικές καταχωρήσεις}
     one {1 σχετική καταχώρηση}
@@ -42,55 +57,100 @@ export default {
     item {αντικείμενο}
     location {τοποθεσία}
     other {σημείωση}
-    state {κατάσταση}
+    state {κράτος}
     governments {κυβέρνηση}
     languages {γλώσσα}
     creatures {πλάσμα}
     deity {θεότητα}
     religions {θρησκεία}
-    flora {φυτό}
+    flora {χλωρίδα}
     magic {μαγεία}
     planets {πλανήτης}
-    species {είδος}
-    technologies {τεχνολογία}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Δημιουργήστε ένα νέο {category, select,
+    'encyclopedia.create.header': `Δημιουργία νέου {category, select,
     character {χαρακτήρα}
-    event {γεγονός}
-    group {ομάδα}
-    item {αντικείμενο}
-    location {τοποθεσία}
-    other {σημείωση}
-    state {κατάσταση}
-    governments {κυβέρνηση}
-    languages {γλώσσα}
-    creatures {πλάσμα}
-    deity {θεότητα}
-    religions {θρησκεία}
-    flora {φυτό}
-    magic {μαγεία}
-    planets {πλανήτης}
-    species {είδος}
-    technologies {τεχνολογία}
-  } στον {universe}`,
-    'encyclopedia.entry.category': `Κατηγορία καταχώρησης: {category, select,
+    event {γεγονότος}
+    group {ομάδας}
+    item {αντικειμένου}
+    location {τοποθεσίας}
+    other {σημείωσης}
+    state {κράτους}
+    governments {κυβέρνησης}
+    languages {γλώσσας}
+    creatures {πλάσματος}
+    deity {θεότητας}
+    religions {θρησκείας}
+    flora {χλωρίδας}
+    magic {μαγείας}
+    planets {πλανήτη}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Κατηγορία εισόδου: {category, select,
     character {Χαρακτήρας}
     event {Γεγονός}
     group {Ομάδα}
     item {Αντικείμενο}
     location {Τοποθεσία}
     other {Σημείωση}
-    state {Κατάσταση}
+    state {Κράτος}
     governments {Κυβέρνηση}
     languages {Γλώσσα}
     creatures {Πλάσμα}
-    deity {Θεός}
+    deity {Θεότητα}
     religions {Θρησκεία}
-    flora {Φυτό}
+    flora {Χλωρίδα}
     magic {Μαγεία}
     planets {Πλανήτης}
     species {Είδος}
-    technologies {Τεχνολογία}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Κατηγορία',
     'encyclopedia.fields.add': 'Προσθήκη νέου πεδίου',

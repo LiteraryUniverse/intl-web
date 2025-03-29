@@ -23,6 +23,21 @@ export default {
     'encyclopedia.category.planets': 'Planedoj',
     'encyclopedia.category.species': 'Specioj',
     'encyclopedia.category.technologies': 'Teknologioj',
+    'encyclopedia.category.families': 'Families',
+    'encyclopedia.category.jobs': 'Jobs',
+    'encyclopedia.category.lore': 'Lore',
+    'encyclopedia.category.vehicles': 'Vehicles',
+    'encyclopedia.category.diseases': 'Diseases',
+    'encyclopedia.category.traditions': 'Traditions',
+    'encyclopedia.category.sports': 'Sports',
+    'encyclopedia.category.food': 'Food',
+    'encyclopedia.category.landmarks': 'Landmarks',
+    'encyclopedia.category.buildings': 'Buildings',
+    'encyclopedia.category.schools': 'Schools',
+    'encyclopedia.category.continents': 'Continents',
+    'encyclopedia.category.villages': 'Villages',
+    'encyclopedia.category.towns': 'Towns',
+    'encyclopedia.category.cities': 'Cities',
     'encyclopedia.search.found': `{results, plural,
     =0 {Neniu rilataj eniroj}
     one {1 rilata eniro}
@@ -35,62 +50,107 @@ export default {
     'encyclopedia.add.title': 'Aldoni novan eniron al la enciklopedio',
     'encyclopedia.add.heading': 'Kion vi deziras aldoni?',
     'encyclopedia.add.moresoon': 'Pliaj kategorioj venos baldaŭ!',
-    'encyclopedia.create': `Krei novan {category, select,
-    character {karaktero}
-    event {evento}
-    group {grupo}
-    item {ero}
-    location {loko}
-    other {noto}
-    state {ŝtato}
-    governments {registaro}
-    languages {lingvo}
-    creatures {estaĵo}
-    deity {dio}
-    religions {religio}
-    flora {floro}
-    magic {magio}
-    planets {planedo}
-    species {specio}
-    technologies {teknologio}
+    'encyclopedia.create': `Create a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {villages}
+    towns {towns}
+    cities {cities}
   }`,
-    'encyclopedia.create.header': `Krei novan {category, select,
-    character {karaktero}
-    event {evento}
-    group {grupo}
-    item {ero}
-    location {loko}
-    other {noto}
-    state {ŝtato}
-    governments {registaro}
-    languages {lingvo}
-    creatures {estaĵo}
-    deity {dio}
-    religions {religio}
-    flora {floro}
-    magic {magio}
-    planets {planedo}
-    species {specio}
-    technologies {teknologio}
-  } en {universe}`,
-    'encyclopedia.entry.category': `Eniga kategorio: {category, select,
-    character {Karaktero}
-    event {Evento}
-    group {Grupo}
-    item {Objekto}
-    location {Loko}
-    other {Noto}
-    state {Stato}
-    governments {Registaro}
-    languages {Lingvo}
-    creatures {Kreitaĵo}
-    deity {Diaĵo}
-    religions {Religio}
-    flora {Floro}
-    magic {Magio}
-    planets {Planedo}
-    species {Specio}
-    technologies {Teknologio}
+    'encyclopedia.create.header': `Creating a new {category, select,
+    character {character}
+    event {event}
+    group {group}
+    item {item}
+    location {location}
+    other {note}
+    state {state}
+    governments {government}
+    languages {language}
+    creatures {creature}
+    deity {deity}
+    religions {religion}
+    flora {flora}
+    magic {magic}
+    planets {planet}
+    species {specie}
+    technologies {technology}
+    families {family}
+    jobs {job}
+    lore {lore}
+    vehicles {vehicle}
+    diseases {disease}
+    traditions {tradition}
+    food {food}
+    sports {sport}
+    landmarks {landmark}
+    buildings {building}
+    schools {school}
+    continents {continent}
+    villages {village}
+    towns {town}
+    cities {city}
+  } in {universe}`,
+    'encyclopedia.entry.category': `Entry category: {category, select,
+    character {Character}
+    event {Event}
+    group {Group}
+    item {Item}
+    location {Location}
+    other {Note}
+    state {State}
+    governments {Government}
+    languages {Language}
+    creatures {Creature}
+    deity {Deity}
+    religions {Religion}
+    flora {Flora}
+    magic {Magic}
+    planets {Planet}
+    species {Specie}
+    technologies {Technology}
+    families {Family}
+    jobs {Job}
+    lore {Lore}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {village}
+    towns {town}
+    cities {city}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorio',
     'encyclopedia.fields.add': 'Aldoni novan kampeton',

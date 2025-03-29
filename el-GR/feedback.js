@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Παρακαλούμε σημειώστε ότι πρέπει να είστε ο νόμιμος κάτοχος του έργου για να χρησιμοποιήσετε αυτήν τη φόρμα. Εάν δεν είστε ο κάτοχος, παρακαλούμε ενημερώστε τον κάτοχο ή χρησιμοποιήστε την άλλη κατηγορία για να μας ενημερώσετε. Λαμβάνουμε τις παραβιάσεις πνευματικών δικαιωμάτων εξαιρετικά σοβαρά και το ίδιο ισχύει για την ακατάλληλη και καταχρηστική χρήση αυτής της φόρμας.',
     'feedback.report.copyrightInternalProperty': 'Έχω δημοσιεύσει αυτό το έργο στο Literary Universe',
     'feedback.reportType.spam': 'Ανεπιθύμητη αλληλογραφία ή απάτη',
+    'feedback.reportType.soliciting': 'Συναλλαγή',
+    'feedback.reportType.aiUnmarked': 'Μη επισημασμένο περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'feedback.reportType.other': 'Άλλα',
     'feedback.report.copyrightType.propertySelectLabel': `Ποιο {type, select,
     universe {σύμπαν}
     story {ιστορία}
     other {ιστορία}
-  } παραβιάζεται;`
+  } παραβιάζεται;`,
+    'feedback.help.overview': 'Επισκόπηση',
+    'feedback.help.articles': 'Άρθρα',
+    'feedback.help.courses': 'Μαθήματα',
+    'feedback.help.videos': 'Εκπαιδευτικά βίντεο',
+    'feedback.help.featuredArticles': 'Προτεινόμενα άρθρα',
+    'feedback.help.featuredCourses': 'Προτεινόμενα μαθήματα',
+    'feedback.help.featuredVideos': 'Προτεινόμενα βίντεο',
+    'feedback.help.subCategories': 'Υποκατηγορίες',
+    'feedback.resolution.title': 'Κέντρο επίλυσης',
+    'feedback.resolution.desc': 'Διαχείριση και επίλυση αναφερόμενων παραβιάσεων',
+    'feedback.reportType.aiGenerated': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
+    'feedback.resolution.aiGeneration': 'Κατάσταση γενιάς AI',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Δεν παράγεται από AI'
 };

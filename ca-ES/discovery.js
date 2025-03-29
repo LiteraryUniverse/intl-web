@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'Nombre total de capítols de la història',
     'discovery.readFromStart': 'Llegir des del primer capítol',
     'discovery.readLatest': 'Llegir l\'últim capítol',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

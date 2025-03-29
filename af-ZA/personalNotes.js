@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Hersiening Teksblok',
   'personalNotes.chapter': 'Hoofstuk',
   'personalNotes.recentSearches': 'Onlangse Soek:',
-  'personalNotes.myNotes': 'My Personal Notes'
+  'personalNotes.myNotes': 'My Personal Notes',
+  'personalNotes.hasNotes': 'Has Personal Notes'
 };

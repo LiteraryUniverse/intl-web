@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Si prega di notare che per utilizzare questo modulo è necessario essere il legittimo proprietario del lavoro. Se non lo sei, ti preghiamo di informare il proprietario o utilizzare l\'altra categoria per farcelo sapere. Prendiamo molto sul serio le violazioni di copyright e lo stesso vale per l\'uso improprio e abusivo di questo modulo.',
     'feedback.report.copyrightInternalProperty': 'Ho pubblicato questo lavoro su Literary Universe',
     'feedback.reportType.spam': 'Spam o truffa',
+    'feedback.reportType.soliciting': 'Adescamento',
+    'feedback.reportType.aiUnmarked': 'Contenuti generati dall\'AI non contrassegnati',
     'feedback.reportType.other': 'Altro',
     'feedback.report.copyrightType.propertySelectLabel': `Quale {type, select,
     universe {universo}
     story {storia}
     other {storia}
-    } è stato/a violato/a?`
+    } è stato/a violato/a?`,
+    'feedback.help.overview': 'Panoramica',
+    'feedback.help.articles': 'Articoli',
+    'feedback.help.courses': 'Corsi',
+    'feedback.help.videos': 'Tutorial video',
+    'feedback.help.featuredArticles': 'Articoli in evidenza',
+    'feedback.help.featuredCourses': 'Corsi in evidenza',
+    'feedback.help.featuredVideos': 'Video in primo piano',
+    'feedback.help.subCategories': 'Sottocategorie',
+    'feedback.resolution.title': 'Centro di risoluzione',
+    'feedback.resolution.desc': 'Gestire e risolvere le violazioni segnalate',
+    'feedback.reportType.aiGenerated': 'Contenuti generati dall\'AI',
+    'feedback.resolution.aiGeneration': 'Stato della generazione AI',
+    'feedback.resolution.aiGenerated': 'Generato dall\'AI',
+    'feedback.resolution.notAiGenerated': 'Non generato dall\'AI'
 };

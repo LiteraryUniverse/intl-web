@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'கதையின் மொத்த அத்தியாயங்கள் எண்ணிக்கை',
     'discovery.readFromStart': 'தொடர்ந்து முதல் அத்தகாத்திரிக்குச் செல்க',
     'discovery.readLatest': 'சமீபத்திய அத்தகாத்திரம் வாசிக்க',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

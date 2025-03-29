@@ -60,5 +60,6 @@ export default {
     'discovery.chaptersTotal': 'སྐུའི་ཆོས་ཚོགས་རིགས་གཞན་འབྱེད་དགོས།',
     'discovery.readFromStart': 'དཔེ་ཆ་འགྱུར་བའི་ཆོས་གྲགས་སྣོད་བརྗོད་པའི་གནས་དང་བབས་པར་ལིན་ལུ་ཁྱད་རེད།',
     'discovery.readLatest': 'གཞུང་རེ་བསྐུར་དགོས་འདི་དང་ལས་གནས་སྟེར་རྗེས་འདི་ལོངས་སྒྲར་',
-    'discovery.author': 'Author'
+    'discovery.author': 'Author',
+    'discovery.aiGenerated': 'AI Generated'
 };

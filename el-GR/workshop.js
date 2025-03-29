@@ -292,5 +292,6 @@ export default {
     'workshop.collaborator.leaveTitle': 'Επιβεβαιώστε ότι θέλετε να φύγετε από το {workName}',
     'workshop.collaborator.leaveExplained': 'Η αποχώρηση από το έργο σημαίνει ότι θα χάσετε κάθε πρόσβαση, συσχέτιση και προνόμιο. Αν δεν είστε σίγουροι τι σημαίνουν όλα αυτά, τότε μάλλον δεν είναι αυτό που θέλατε να κάνετε κλικ.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
-    'workshop.collaborators.removedInfo': 'Αφαιρέθηκε στις {date, date}'
+    'workshop.collaborators.removedInfo': 'Αφαιρέθηκε στις {date, date}',
+    'workshop.aiGeneratedAdjusted': 'Η κατάσταση δημιουργίας AI αυτού του περιεχομένου έχει ρυθμιστεί, ως αποτέλεσμα μιας αναφοράς χρήστη, από έναν διαχειριστή και δεν μπορεί να αλλάξει.'
 };

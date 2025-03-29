@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Interní',
   'course.free': 'Zdarma',
   'course.sale': 'Placený',
+  'course.announcements': 'Announcements',
+  'course.announcements.full': 'Course announcements',
+  'course.announcements.create': 'Create an announcement',
 };

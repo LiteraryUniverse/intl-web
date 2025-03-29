@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Let asseblief daarop dat jy die regmatige eienaar van die werk moet wees om hierdie vorm te gebruik. As jy nie die eienaar is nie, stel asseblief die eienaar in kennis of gebruik die ander kategorie om ons in te lig. Ons neem kopiereg-oortredings baie ernstig en dieselfde geld vir die verkeerde en misbruikende gebruik van hierdie vorm.',
     'feedback.report.copyrightInternalProperty': 'Ek het hierdie werk op Literary Universe gepubliseer',
     'feedback.reportType.spam': 'Spam of hengelary',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Ander',
     'feedback.report.copyrightType.propertySelectLabel': `Watter {type, select,
     universe {heelal se}
     story {storie}
     other {storie}
-  } word geskend?`
+  } word geskend?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

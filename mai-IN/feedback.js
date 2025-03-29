@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'कृपया ध्यान दें कि आपको इस फॉर्म का उपयोग करने के लिए कार्य के वास्तविक मालिक होना चाहिए। यदि आप मालिक नहीं हैं, तो कृपया मालिक को सूचित करें या हमें सूचित करने के लिए अन्य श्रेणी का उपयोग करें। हम कॉपीराइट उल्लंघन को अत्यंत गंभीरता से लेते हैं और इसी तरह इस फॉर्म के अनुचित और अत्याचारपूर्ण उपयोग के लिए भी यही लागू होता है।',
     'feedback.report.copyrightInternalProperty': 'मैंने इस कार्य को लिटररी यूनिवर्स पर प्रकाशित किया है',
     'feedback.reportType.spam': 'स्पैम या फिशिंग',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'अन्य',
     'feedback.report.copyrightType.propertySelectLabel': `कुन {type, select,
     universe {यूनिभर्स}
     story {कथा}
     other {कथा}
-  } उल्लंघन गरिएको छ?`
+  } उल्लंघन गरिएको छ?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

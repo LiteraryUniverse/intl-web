@@ -68,4 +68,7 @@ export default {
   'course.internal': 'Intern',
   'course.free': 'Gratis',
   'course.sale': 'Verkoop',
+  'course.announcements': 'Aankondigingen',
+  'course.announcements.full': 'Cursusaankondigingen',
+  'course.announcements.create': 'Een aankondiging maken',
 };

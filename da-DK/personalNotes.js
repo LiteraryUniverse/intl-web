@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': 'Revision tekstblok',
   'personalNotes.chapter': 'Kapitel',
   'personalNotes.recentSearches': 'Seneste søgninger:',
-  'personalNotes.myNotes': 'Mine personlige noter'
+  'personalNotes.myNotes': 'Mine personlige noter',
+  'personalNotes.hasNotes': 'Har personlige noter'
 };

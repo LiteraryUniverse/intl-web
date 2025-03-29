@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Tabhair faoi deara go gcaithfidh tú bheith in úinéir ceart an saothair chun an fhoirm seo a úsáid. Mura bhfuil tú an úinéir, abair leis an úinéir nó úsáid an chatagóra eile chun a fhógairt dúinn. Glacaimid le coimhlintí cóipcheart cheartúil agus úsáid míúsáideach agus míchuí den fhoirm seo chomh maith.',
     'feedback.report.copyrightInternalProperty': 'Tá an saothar seo foilsithe agam ar Domhan Liteartha',
     'feedback.reportType.spam': 'Spam nó iascachta phisfheithiclí',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'Eile',
     'feedback.report.copyrightType.propertySelectLabel': `Cén {type, select,
     universe {domhan}
     story {scéal}
     other {scéal}
-  } atá á gcruthú?`
+  } atá á gcruthú?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

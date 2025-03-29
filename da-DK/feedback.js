@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'Bemærk venligst, at du skal være den retmæssige ejer af værket for at bruge dette formular. Hvis du ikke er ejeren, bedes du informere ejeren eller bruge den anden kategori til at informere os. Vi tager ophavsretsovertrædelser meget alvorligt, og det samme gælder for misbrug og uhensigtsmæssig brug af denne formular.',
     'feedback.report.copyrightInternalProperty': 'Jeg har offentliggjort dette værk på Literary Universe',
     'feedback.reportType.spam': 'Spam eller phishing',
+    'feedback.reportType.soliciting': 'Opfordring til',
+    'feedback.reportType.aiUnmarked': 'Umærket AI-genereret indhold',
     'feedback.reportType.other': 'Andet',
     'feedback.report.copyrightType.propertySelectLabel': `Hvilket {type, select,
     universe {univers}
     story {historie}
     other {historie}
-  } bliver overtrådt?`
+  } bliver overtrådt?`,
+    'feedback.help.overview': 'Oversigt',
+    'feedback.help.articles': 'Artikler',
+    'feedback.help.courses': 'Kurser',
+    'feedback.help.videos': 'Video-tutorials',
+    'feedback.help.featuredArticles': 'Udvalgte artikler',
+    'feedback.help.featuredCourses': 'Udvalgte kurser',
+    'feedback.help.featuredVideos': 'Udvalgte videoer',
+    'feedback.help.subCategories': 'Underkategorier',
+    'feedback.resolution.title': 'Center for opløsning',
+    'feedback.resolution.desc': 'Håndter og løs rapporterede overtrædelser',
+    'feedback.reportType.aiGenerated': 'AI-genereret indhold',
+    'feedback.resolution.aiGeneration': 'Status for AI-generering',
+    'feedback.resolution.aiGenerated': 'AI-genereret',
+    'feedback.resolution.notAiGenerated': 'Ikke AI-genereret'
 };

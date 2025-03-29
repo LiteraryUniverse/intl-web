@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': 'សូមបញ្ជូនចំណាំថាអ្នកត្រូវជា​ម្ចាស់ការងារដែលបានប្រើប្រាស់ទម្រង់នេះ។ ប្រសិនបើអ្នកមិនមែនជា​ម្ចាស់ការងារទាំងនោះទេ សូមប្រាប់ម្ចាស់ដើម្បីដឹកជញ្ជូនឱ្យយើងដឹង យើងធ្វើការស្នើសុំការបញ្ជាក់សកម្មភាពក្រុមហ៊ុនប្រើប្រាស់របស់យើងដោយសេរីភាពខ្លាំង។',
     'feedback.report.copyrightInternalProperty': 'ខ្ញុំបានបោះពុម្ពសរសេរកម្មវិធីនេះលើ Literary Universe',
     'feedback.reportType.spam': 'សារពារឬការរកប្រាក់សុវត្ថិភាព',
+    'feedback.reportType.soliciting': 'Soliciting',
+    'feedback.reportType.aiUnmarked': 'Unmarked AI-generated content',
     'feedback.reportType.other': 'ផ្សេងៗ',
     'feedback.report.copyrightType.propertySelectLabel': `Which {type, select,
     universe {universe}
     story {story}
     other {story}
-  } is being infringed?`
+  } is being infringed?`,
+    'feedback.help.overview': 'Overview',
+    'feedback.help.articles': 'Articles',
+    'feedback.help.courses': 'Courses',
+    'feedback.help.videos': 'Video tutorials',
+    'feedback.help.featuredArticles': 'Featured Articles',
+    'feedback.help.featuredCourses': 'Featured Courses',
+    'feedback.help.featuredVideos': 'Featured Videos',
+    'feedback.help.subCategories': 'Sub-categories',
+    'feedback.resolution.title': 'Resolution center',
+    'feedback.resolution.desc': 'Manage and resolve reported violations',
+    'feedback.reportType.aiGenerated': 'AI-generated content',
+    'feedback.resolution.aiGeneration': 'AI Generation Status',
+    'feedback.resolution.aiGenerated': 'AI Generated',
+    'feedback.resolution.notAiGenerated': 'Not AI Generated'
 };

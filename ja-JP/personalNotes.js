@@ -23,5 +23,6 @@ export default {
   'personalNotes.type.revTextBlock': '改訂テキストブロック',
   'personalNotes.chapter': '章',
   'personalNotes.recentSearches': '最近の検索:',
-  'personalNotes.myNotes': '個人的なメモ'
+  'personalNotes.myNotes': '個人的なメモ',
+  'personalNotes.hasNotes': 'パーソナルノート'
 };

@@ -47,10 +47,26 @@ export default {
     'feedback.report.copyrightNotice': '이 양식을 사용하려면 해당 작품의 정당한 소유자여야 함을 유의해 주세요. 소유자가 아닌 경우 소유자에게 알리거나 다른 카테고리를 사용하여 알려주시기 바랍니다. 저희는 저작권 침해를 매우 심각하게 여기며 이 양식의 부적절하고 남용된 사용에도 동일한 대우를 적용합니다.',
     'feedback.report.copyrightInternalProperty': '나는 Literary Universe에서 이 작품을 게시했습니다',
     'feedback.reportType.spam': '스팸 또는 피싱',
+    'feedback.reportType.soliciting': '권유하기',
+    'feedback.reportType.aiUnmarked': '표시되지 않은 AI 생성 콘텐츠',
     'feedback.reportType.other': '기타',
     'feedback.report.copyrightType.propertySelectLabel': `어느 {type, select,
     universe {유니버스}
     story {스토리}
     other {스토리}
-  } 의 저작권이 침해되고 있나요?`
+  } 의 저작권이 침해되고 있나요?`,
+    'feedback.help.overview': '개요',
+    'feedback.help.articles': '기사',
+    'feedback.help.courses': '코스',
+    'feedback.help.videos': '동영상 튜토리얼',
+    'feedback.help.featuredArticles': '주요 기사',
+    'feedback.help.featuredCourses': '추천 코스',
+    'feedback.help.featuredVideos': '추천 동영상',
+    'feedback.help.subCategories': '하위 카테고리',
+    'feedback.resolution.title': '해결 센터',
+    'feedback.resolution.desc': '신고된 위반 사항 관리 및 해결',
+    'feedback.reportType.aiGenerated': 'AI 생성 콘텐츠',
+    'feedback.resolution.aiGeneration': 'AI 생성 현황',
+    'feedback.resolution.aiGenerated': 'AI 생성',
+    'feedback.resolution.notAiGenerated': 'AI가 생성하지 않음'
 };
