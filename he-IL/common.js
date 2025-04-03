@@ -273,5 +273,6 @@ export default {
     'common.newest': 'החדש ביותר',
     'common.oldest': 'הכי ישן',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };

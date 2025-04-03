@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Naujausia',
     'common.oldest': 'Seniausias',
     'common.noSelection': 'Nepasirinkta',
-    'common.content': 'Turinys'
+    'common.content': 'Turinys',
+    'common.theWayOfTheAuthor': 'Autoriaus kelias'
 };

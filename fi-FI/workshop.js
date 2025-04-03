@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Projektista poistuminen tarkoittaa, että menetät kaikki käyttöoikeudet, yhdistykset ja etuoikeudet. Jos et ole varma, mitä tämä kaikki tarkoittaa, et varmaankaan halunnut klikata tätä.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Poistettu osoitteessa {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Järjestelmänvalvoja on mukauttanut tämän sisällön tekoälyn luomistilaa käyttäjäraportin perusteella, eikä sitä voi muuttaa.'
+    'workshop.aiGeneratedAdjusted': 'Järjestelmänvalvoja on mukauttanut tämän sisällön tekoälyn luomistilaa käyttäjäraportin perusteella, eikä sitä voi muuttaa.',
+    'workshop.theWay.authorProgress': 'Kirjoittaja Progress'
 };

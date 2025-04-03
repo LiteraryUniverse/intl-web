@@ -273,5 +273,6 @@ export default {
     'common.newest': 'সম্প্রতি যুক্ত হয়েছে',
     'common.oldest': 'সম্প্রতি সবচেয়ে পুরানো',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };

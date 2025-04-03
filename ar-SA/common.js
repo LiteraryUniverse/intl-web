@@ -273,5 +273,6 @@ export default {
     'common.newest': 'الأحدث',
     'common.oldest': 'الأقدم',
     'common.noSelection': 'لا يوجد اختيار',
-    'common.content': 'المحتوى'
+    'common.content': 'المحتوى',
+    'common.theWayOfTheAuthor': 'طريق المؤلف'
 };

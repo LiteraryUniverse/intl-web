@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Sair do projeto significa que perderá todo o acesso, associação e privilégios. Se não tem a certeza do que tudo isto significa, então provavelmente não era aqui que queria clicar.',
     'workshop.collaborators.leftInfo': 'Esquerda em {date, date}',
     'workshop.collaborators.removedInfo': 'Removido em {date, date}',
-    'workshop.aiGeneratedAdjusted': 'O estado de geração de IA deste conteúdo foi ajustado, como resultado de um relatório de utilizador, por um administrador e não pode ser alterado.'
+    'workshop.aiGeneratedAdjusted': 'O estado de geração de IA deste conteúdo foi ajustado, como resultado de um relatório de utilizador, por um administrador e não pode ser alterado.',
+    'workshop.theWay.authorProgress': 'Progresso do autor'
 };

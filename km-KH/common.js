@@ -273,5 +273,6 @@ export default {
     'common.newest': 'ថ្មីបំផុត',
     'common.oldest': 'អាក្រក់ជាងចាស់បំផុត',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };

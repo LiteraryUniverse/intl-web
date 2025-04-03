@@ -312,5 +312,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Уход из проекта означает, что вы потеряете все доступы, ассоциации и привилегии. Если вы не уверены, что всё это значит, то, вероятно, это не то, что вы хотели нажать.',
     'workshop.collaborators.leftInfo': 'Покинул {date, date}',
     'workshop.collaborators.removedInfo': 'Удалён {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Статус ИИ-генерации этого контента был скорректирован администратором в результате сообщения пользователя и не может быть изменён.'
+    'workshop.aiGeneratedAdjusted': 'Статус ИИ-генерации этого контента был скорректирован администратором в результате сообщения пользователя и не может быть изменён.',
+    'workshop.theWay.authorProgress': 'Авторский прогресс'
 };

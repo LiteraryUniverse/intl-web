@@ -273,5 +273,6 @@ export default {
     'common.newest': '最新',
     'common.oldest': '最舊',
     'common.noSelection': '無選擇',
-    'common.content': '內容'
+    'common.content': '內容',
+    'common.theWayOfTheAuthor': '作者之道'
 };

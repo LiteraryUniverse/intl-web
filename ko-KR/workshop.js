@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': '프로젝트를 탈퇴하면 모든 액세스 권한, 연결 권한 및 권한을 잃게 됩니다. 이 모든 것이 무엇을 의미하는지 잘 모르겠다면 이 버튼을 클릭하고 싶지 않으셨을 것입니다.',
     'workshop.collaborators.leftInfo': '왼쪽 {date, date}',
     'workshop.collaborators.removedInfo': '삭제됨 {date, date}',
-    'workshop.aiGeneratedAdjusted': '이 콘텐츠의 AI 생성 상태는 사용자 신고에 따라 관리자에 의해 조정되었으며 변경할 수 없습니다.'
+    'workshop.aiGeneratedAdjusted': '이 콘텐츠의 AI 생성 상태는 사용자 신고에 따라 관리자에 의해 조정되었으며 변경할 수 없습니다.',
+    'workshop.theWay.authorProgress': '저자 진행 상황'
 };

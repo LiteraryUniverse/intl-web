@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Новейшие',
     'common.oldest': 'Старейшие',
     'common.noSelection': 'Ничего не выбрано',
-    'common.content': 'Содержание'
+    'common.content': 'Содержание',
+    'common.theWayOfTheAuthor': 'Путь автора'
 };

@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Terbaru',
     'common.oldest': 'Terlama',
     'common.noSelection': 'Tidak ada pilihan',
-    'common.content': 'Konten'
+    'common.content': 'Konten',
+    'common.theWayOfTheAuthor': 'Cara Penulis'
 };

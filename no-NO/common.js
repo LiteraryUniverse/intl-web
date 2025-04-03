@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Nyeste',
     'common.oldest': 'Eldste',
     'common.noSelection': 'Ingen valg',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };

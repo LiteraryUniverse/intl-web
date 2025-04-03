@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Вихід з проекту означатиме, що ви втратите весь доступ, асоціації та привілеї. Якщо ви не впевнені, що все це означає, то, ймовірно, це не те, що ви хотіли натиснути.',
     'workshop.collaborators.leftInfo': 'Зліва на {date, date}',
     'workshop.collaborators.removedInfo': 'Видалено на {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Статус генерації ШІ для цього контенту був змінений адміністратором на підставі повідомлення користувача і не може бути змінений.'
+    'workshop.aiGeneratedAdjusted': 'Статус генерації ШІ для цього контенту був змінений адміністратором на підставі повідомлення користувача і не може бути змінений.',
+    'workshop.theWay.authorProgress': 'Авторський прогрес'
 };

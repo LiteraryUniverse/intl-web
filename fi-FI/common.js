@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Uusin',
     'common.oldest': 'Vanhin',
     'common.noSelection': 'Ei valintaa',
-    'common.content': 'Sisältö'
+    'common.content': 'Sisältö',
+    'common.theWayOfTheAuthor': 'Kirjailijan tie'
 };

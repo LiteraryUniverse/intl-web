@@ -19,5 +19,10 @@
   "theWay.feedback.title": "Feedback",
   "theWay.feedback.intro": "The Way of the Author is an evolving system that we are constantly evolving. If you have any ideas or encountered issues, please let us know either via the Feedback Center or contacting us on the following email:",
   "theWay.sponsors": "Sponsors & Partners",
-  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program."
+  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program.",
+  "theWay.purpose.question": "¿Cuál es el propósito de la Vía del Autor?",
+  "theWay.goToGuides.primer": "¿Se siente estancado o necesita inspiración? ¡Únase a nuestra comunidad para obtener consejos y apoyo!",
+  "theWay.goToFullDashboard": "Cuadro de mandos completo",
+  "theWay.progress.byGenre": "Progreso por género",
+  "theyWay.achieve.title": "Alcanzar el nivel {level, number} en {genre}"
 }

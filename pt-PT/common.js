@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Mais recente',
     'common.oldest': 'Mais antigo',
     'common.noSelection': 'Nenhuma seleção',
-    'common.content': 'Conteúdo'
+    'common.content': 'Conteúdo',
+    'common.theWayOfTheAuthor': 'O Caminho do Autor'
 };

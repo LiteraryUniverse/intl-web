@@ -273,5 +273,6 @@ export default {
     'common.newest': '최신',
     'common.oldest': '가장 오래된',
     'common.noSelection': '선택 없음',
-    'common.content': '콘텐츠'
+    'common.content': '콘텐츠',
+    'common.theWayOfTheAuthor': '저자의 길'
 };

@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Legújabb',
     'common.oldest': 'Legrégebbi',
     'common.noSelection': 'Nincs kiválasztás',
-    'common.content': 'Tartalom'
+    'common.content': 'Tartalom',
+    'common.theWayOfTheAuthor': 'A szerző útja'
 };

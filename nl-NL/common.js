@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Nieuwste',
     'common.oldest': 'Oudste',
     'common.noSelection': 'Geen selectie',
-    'common.content': 'Inhoud'
+    'common.content': 'Inhoud',
+    'common.theWayOfTheAuthor': 'De Weg van de Auteur'
 };

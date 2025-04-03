@@ -273,5 +273,6 @@ export default {
     'common.newest': 'নতুনতম',
     'common.oldest': 'প্রবীণতম',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };

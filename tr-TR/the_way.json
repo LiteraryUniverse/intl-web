@@ -19,5 +19,10 @@
   "theWay.feedback.title": "Feedback",
   "theWay.feedback.intro": "The Way of the Author is an evolving system that we are constantly evolving. If you have any ideas or encountered issues, please let us know either via the Feedback Center or contacting us on the following email:",
   "theWay.sponsors": "Sponsors & Partners",
-  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program."
+  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program.",
+  "theWay.purpose.question": "Yazarın Yolu'nun amacı nedir?",
+  "theWay.goToGuides.primer": "Sıkışmış mı hissediyorsunuz veya ilhama mı ihtiyacınız var? İpuçları ve destek için topluluğumuza katılın!",
+  "theWay.goToFullDashboard": "Tam gösterge paneli",
+  "theWay.progress.byGenre": "Türe göre ilerleme",
+  "theyWay.achieve.title": "{genre}adresinde {level, number} seviyesine ulaşın"
 }

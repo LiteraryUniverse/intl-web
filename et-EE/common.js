@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Uusim',
     'common.oldest': 'Vanim',
     'common.noSelection': 'Valik puudub',
-    'common.content': 'Sisu'
+    'common.content': 'Sisu',
+    'common.theWayOfTheAuthor': 'Autori tee'
 };

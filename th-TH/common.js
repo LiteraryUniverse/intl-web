@@ -273,5 +273,6 @@ export default {
     'common.newest': 'ล่าสุด',
     'common.oldest': 'เก่าที่สุด',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };
