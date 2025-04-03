@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Als u het project verlaat, verliest u alle toegang, associaties en privileges. Als u niet zeker weet wat dit allemaal betekent, dan is dit waarschijnlijk niet wat u wilde aanklikken.',
     'workshop.collaborators.leftInfo': 'Links op {date, date}',
     'workshop.collaborators.removedInfo': 'Verwijderd op {date, date}',
-    'workshop.aiGeneratedAdjusted': 'De AI-generatiestatus van deze inhoud is naar aanleiding van een gebruikersrapport aangepast door een beheerder en kan niet worden gewijzigd.'
+    'workshop.aiGeneratedAdjusted': 'De AI-generatiestatus van deze inhoud is naar aanleiding van een gebruikersrapport aangepast door een beheerder en kan niet worden gewijzigd.',
+    'workshop.theWay.authorProgress': 'Auteur Vooruitgang'
 };
