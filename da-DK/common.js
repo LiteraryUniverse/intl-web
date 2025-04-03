@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Nyeste',
     'common.oldest': 'Ældste',
     'common.noSelection': 'Intet valg',
-    'common.content': 'Indhold'
+    'common.content': 'Indhold',
+    'common.theWayOfTheAuthor': 'Forfatterens vej'
 };
