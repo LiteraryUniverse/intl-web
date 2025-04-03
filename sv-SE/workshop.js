@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Att lämna projektet innebär att du förlorar all tillgång, association och privilegier. Om du inte är säker på vad allt detta innebär är det förmodligen inte det här du ville klicka på.',
     'workshop.collaborators.leftInfo': 'Vänster på {date, date}',
     'workshop.collaborators.removedInfo': 'Borttagen på {date, date}',
-    'workshop.aiGeneratedAdjusted': 'AI-generationsstatusen för detta innehåll har justerats, som ett resultat av en användarrapport, av en administratör och kan inte ändras.'
+    'workshop.aiGeneratedAdjusted': 'AI-generationsstatusen för detta innehåll har justerats, som ett resultat av en användarrapport, av en administratör och kan inte ändras.',
+    'workshop.theWay.authorProgress': 'Författarens framsteg'
 };
