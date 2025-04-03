@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Projektist lahkumine tähendab, et kaotate kõik juurdepääsu, assotsiatsiooni ja privileegid. Kui te ei ole kindel, mida see kõik tähendab, siis tõenäoliselt ei ole see see see, mida te tahtsite klõpsata.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Eemaldatud aadressil {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Administraator on selle sisu tehisintellekti genereerimise staatust kasutaja aruande tulemusena kohandanud ja seda ei saa muuta.'
+    'workshop.aiGeneratedAdjusted': 'Administraator on selle sisu tehisintellekti genereerimise staatust kasutaja aruande tulemusena kohandanud ja seda ei saa muuta.',
+    'workshop.theWay.authorProgress': 'Autor Progress'
 };
