@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Plej nova',
     'common.oldest': 'Plej malnova',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };
