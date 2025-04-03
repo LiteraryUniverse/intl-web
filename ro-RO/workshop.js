@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Părăsirea proiectului va însemna că veți pierde tot accesul, asocierea și privilegiile. Dacă nu sunteți sigur ce înseamnă toate acestea, atunci probabil că nu este ceea ce doreați să faceți clic.',
     'workshop.collaborators.leftInfo': 'Stânga pe {date, date}',
     'workshop.collaborators.removedInfo': 'Eliminat pe {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Statutul de generare AI al acestui conținut a fost ajustat, ca urmare a unui raport de utilizator, de către un administrator și nu poate fi modificat.'
+    'workshop.aiGeneratedAdjusted': 'Statutul de generare AI al acestui conținut a fost ajustat, ca urmare a unui raport de utilizator, de către un administrator și nu poate fi modificat.',
+    'workshop.theWay.authorProgress': 'Autor progres'
 };
