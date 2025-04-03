@@ -304,4 +304,5 @@ export default {
   'common.noSelection': 'No selection',
 
   'common.content': 'Content',
+  'common.theWayOfTheAuthor': 'The Way of the Author',
 }

@@ -360,4 +360,5 @@ export default {
   'workshop.collaborators.leftInfo': 'Left on {date, date}',
   'workshop.collaborators.removedInfo': 'Removed on {date, date}',
   'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+  'workshop.theWay.authorProgress': 'Author Progress',
 }
