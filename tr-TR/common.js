@@ -273,5 +273,6 @@ export default {
     'common.newest': 'En Yeniler',
     'common.oldest': 'En eski',
     'common.noSelection': 'Seçim yok',
-    'common.content': 'İçerik'
+    'common.content': 'İçerik',
+    'common.theWayOfTheAuthor': 'Yazarın Yolu'
 };
