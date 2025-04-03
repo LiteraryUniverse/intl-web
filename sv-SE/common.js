@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Nyaste',
     'common.oldest': 'Äldsta',
     'common.noSelection': 'Inget urval',
-    'common.content': 'Innehåll'
+    'common.content': 'Innehåll',
+    'common.theWayOfTheAuthor': 'Författarens väg'
 };
