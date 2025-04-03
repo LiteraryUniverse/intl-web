@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Cel mai nou',
     'common.oldest': 'Cea mai veche',
     'common.noSelection': 'Nicio selecție',
-    'common.content': 'Conținut'
+    'common.content': 'Conținut',
+    'common.theWayOfTheAuthor': 'Calea autorului'
 };
