@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Projeden ayrılmak, tüm erişim, ilişkilendirme ve ayrıcalıkları kaybedeceğiniz anlamına gelecektir. Tüm bunların ne anlama geldiğinden emin değilseniz, muhtemelen tıklamak istediğiniz şey bu değildir.',
     'workshop.collaborators.leftInfo': 'Sol açık {date, date}',
     'workshop.collaborators.removedInfo': 'Kaldırıldı {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Bu içeriğin AI oluşturma durumu, bir kullanıcı raporunun sonucu olarak bir yönetici tarafından ayarlanmıştır ve değiştirilemez.'
+    'workshop.aiGeneratedAdjusted': 'Bu içeriğin AI oluşturma durumu, bir kullanıcı raporunun sonucu olarak bir yönetici tarafından ayarlanmıştır ve değiştirilemez.',
+    'workshop.theWay.authorProgress': 'Yazar İlerleme'
 };
