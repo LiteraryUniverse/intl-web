@@ -273,5 +273,6 @@ export default {
     'common.newest': 'ახალი',
     'common.oldest': 'უახლესი',
     'common.noSelection': 'შეურჩევა არაა',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };
