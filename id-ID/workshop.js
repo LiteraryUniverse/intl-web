@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Keluar dari proyek berarti Anda akan kehilangan semua akses, asosiasi, dan hak istimewa. Jika Anda tidak yakin apa artinya semua ini, mungkin ini bukan yang ingin Anda klik.',
     'workshop.collaborators.leftInfo': 'Kiri pada {date, date}',
     'workshop.collaborators.removedInfo': 'Dihapus di {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Status pembuatan AI dari konten ini telah disesuaikan, sebagai hasil dari laporan pengguna, oleh administrator dan tidak dapat diubah.'
+    'workshop.aiGeneratedAdjusted': 'Status pembuatan AI dari konten ini telah disesuaikan, sebagai hasil dari laporan pengguna, oleh administrator dan tidak dapat diubah.',
+    'workshop.theWay.authorProgress': 'Kemajuan Penulis'
 };
