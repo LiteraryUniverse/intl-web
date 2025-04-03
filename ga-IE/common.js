@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Is Déanaí',
     'common.oldest': 'Seana',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };
