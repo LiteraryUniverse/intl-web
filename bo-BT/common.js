@@ -273,5 +273,6 @@ export default {
     'common.newest': 'རིགས་རྟགས།',
     'common.oldest': 'བརྡ་ཆད་ཀྱི་ཉེ།',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author'
 };
