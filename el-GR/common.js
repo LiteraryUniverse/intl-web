@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Νεότερο',
     'common.oldest': 'Παλαιότερα',
     'common.noSelection': 'Δεν υπάρχει επιλογή',
-    'common.content': 'Περιεχόμενο'
+    'common.content': 'Περιεχόμενο',
+    'common.theWayOfTheAuthor': 'Ο δρόμος του συγγραφέα'
 };
