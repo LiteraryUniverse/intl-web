@@ -273,5 +273,6 @@ export default {
     'common.newest': 'Nejnovější',
     'common.oldest': 'Nejstarší',
     'common.noSelection': 'Nic nevybráno',
-    'common.content': 'Obsah'
+    'common.content': 'Obsah',
+    'common.theWayOfTheAuthor': 'Cesta autora'
 };
