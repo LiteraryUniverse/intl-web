@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': '離開專案意味著您將喪失所有存取權、關聯和權限。如果您不確定這一切的意義，那麼這可能不是您想要點選的。',
     'workshop.collaborators.leftInfo': '左開 {date, date}',
     'workshop.collaborators.removedInfo': '於 {date, date}移除',
-    'workshop.aiGeneratedAdjusted': '此內容的 AI 生成狀態已因使用者報告而由管理員調整，且無法變更。'
+    'workshop.aiGeneratedAdjusted': '此內容的 AI 生成狀態已因使用者報告而由管理員調整，且無法變更。',
+    'workshop.theWay.authorProgress': '作者進度'
 };
