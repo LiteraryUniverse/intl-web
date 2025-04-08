@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Terlama',
     'common.noSelection': 'Tidak ada pilihan',
     'common.content': 'Konten',
-    'common.theWayOfTheAuthor': 'Cara Penulis'
+    'common.theWayOfTheAuthor': 'Cara Penulis',
+    'common.password.hide': 'Sembunyikan Kata Sandi',
+    'common.password.show': 'Tampilkan Kata Sandi'
 };
