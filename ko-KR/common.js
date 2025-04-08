@@ -274,5 +274,7 @@ export default {
     'common.oldest': '가장 오래된',
     'common.noSelection': '선택 없음',
     'common.content': '콘텐츠',
-    'common.theWayOfTheAuthor': '저자의 길'
+    'common.theWayOfTheAuthor': '저자의 길',
+    'common.password.hide': '비밀번호 숨기기',
+    'common.password.show': '비밀번호 표시'
 };
