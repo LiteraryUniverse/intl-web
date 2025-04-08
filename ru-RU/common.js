@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Старейшие',
     'common.noSelection': 'Ничего не выбрано',
     'common.content': 'Содержание',
-    'common.theWayOfTheAuthor': 'Путь автора'
+    'common.theWayOfTheAuthor': 'Путь автора',
+    'common.password.hide': 'Скрыть пароль',
+    'common.password.show': 'Показать пароль'
 };
