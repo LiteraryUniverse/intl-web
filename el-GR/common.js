@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Παλαιότερα',
     'common.noSelection': 'Δεν υπάρχει επιλογή',
     'common.content': 'Περιεχόμενο',
-    'common.theWayOfTheAuthor': 'Ο δρόμος του συγγραφέα'
+    'common.theWayOfTheAuthor': 'Ο δρόμος του συγγραφέα',
+    'common.password.hide': 'Απόκρυψη κωδικού πρόσβασης',
+    'common.password.show': 'Εμφάνιση κωδικού πρόσβασης'
 };
