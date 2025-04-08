@@ -274,5 +274,7 @@ export default {
     'common.oldest': '最舊',
     'common.noSelection': '無選擇',
     'common.content': '內容',
-    'common.theWayOfTheAuthor': '作者之道'
+    'common.theWayOfTheAuthor': '作者之道',
+    'common.password.hide': '隱藏密碼',
+    'common.password.show': '顯示密碼'
 };
