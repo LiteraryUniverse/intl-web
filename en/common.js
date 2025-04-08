@@ -305,4 +305,7 @@ export default {
 
   'common.content': 'Content',
   'common.theWayOfTheAuthor': 'The Way of the Author',
+
+  'common.password.hide': 'Hide Password',
+  'common.password.show': 'Show Password',
 }
