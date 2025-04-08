@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Legrégebbi',
     'common.noSelection': 'Nincs kiválasztás',
     'common.content': 'Tartalom',
-    'common.theWayOfTheAuthor': 'A szerző útja'
+    'common.theWayOfTheAuthor': 'A szerző útja',
+    'common.password.hide': 'Jelszó elrejtése',
+    'common.password.show': 'Jelszó megjelenítése'
 };
