@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Nejstarší',
     'common.noSelection': 'Nic nevybráno',
     'common.content': 'Obsah',
-    'common.theWayOfTheAuthor': 'Cesta autora'
+    'common.theWayOfTheAuthor': 'Cesta autora',
+    'common.password.hide': 'Skrýt heslo',
+    'common.password.show': 'Zobrazit heslo'
 };
