@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'En eski',
     'common.noSelection': 'Seçim yok',
     'common.content': 'İçerik',
-    'common.theWayOfTheAuthor': 'Yazarın Yolu'
+    'common.theWayOfTheAuthor': 'Yazarın Yolu',
+    'common.password.hide': 'Parolayı Gizle',
+    'common.password.show': 'Şifreyi Göster'
 };
