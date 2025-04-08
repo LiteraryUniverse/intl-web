@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Oudste',
     'common.noSelection': 'Geen selectie',
     'common.content': 'Inhoud',
-    'common.theWayOfTheAuthor': 'De Weg van de Auteur'
+    'common.theWayOfTheAuthor': 'De Weg van de Auteur',
+    'common.password.hide': 'Verberg wachtwoord',
+    'common.password.show': 'Wachtwoord tonen'
 };
