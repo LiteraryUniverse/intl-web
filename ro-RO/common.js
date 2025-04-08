@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Cea mai veche',
     'common.noSelection': 'Nicio selecție',
     'common.content': 'Conținut',
-    'common.theWayOfTheAuthor': 'Calea autorului'
+    'common.theWayOfTheAuthor': 'Calea autorului',
+    'common.password.hide': 'Ascunde parola',
+    'common.password.show': 'Afișați parola'
 };
