@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Vanim',
     'common.noSelection': 'Valik puudub',
     'common.content': 'Sisu',
-    'common.theWayOfTheAuthor': 'Autori tee'
+    'common.theWayOfTheAuthor': 'Autori tee',
+    'common.password.hide': 'Peida salasõna',
+    'common.password.show': 'Näita salasõna'
 };
