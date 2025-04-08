@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Seniausias',
     'common.noSelection': 'Nepasirinkta',
     'common.content': 'Turinys',
-    'common.theWayOfTheAuthor': 'Autoriaus kelias'
+    'common.theWayOfTheAuthor': 'Autoriaus kelias',
+    'common.password.hide': 'Paslėpti slaptažodį',
+    'common.password.show': 'Rodyti slaptažodį'
 };
