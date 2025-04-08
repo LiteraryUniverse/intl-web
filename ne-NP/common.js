@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'सबैभन्दा जेठो',
     'common.noSelection': 'No selection',
     'common.content': 'Content',
-    'common.theWayOfTheAuthor': 'The Way of the Author'
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password'
 };
