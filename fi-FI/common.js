@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Vanhin',
     'common.noSelection': 'Ei valintaa',
     'common.content': 'Sisältö',
-    'common.theWayOfTheAuthor': 'Kirjailijan tie'
+    'common.theWayOfTheAuthor': 'Kirjailijan tie',
+    'common.password.hide': 'Piilota salasana',
+    'common.password.show': 'Näytä salasana'
 };
