@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Mais antigo',
     'common.noSelection': 'Nenhuma seleção',
     'common.content': 'Conteúdo',
-    'common.theWayOfTheAuthor': 'O Caminho do Autor'
+    'common.theWayOfTheAuthor': 'O Caminho do Autor',
+    'common.password.hide': 'Ocultar palavra-passe',
+    'common.password.show': 'Mostrar palavra-passe'
 };
