@@ -274,5 +274,7 @@ export default {
     'common.oldest': 'Ældste',
     'common.noSelection': 'Intet valg',
     'common.content': 'Indhold',
-    'common.theWayOfTheAuthor': 'Forfatterens vej'
+    'common.theWayOfTheAuthor': 'Forfatterens vej',
+    'common.password.hide': 'Skjul adgangskode',
+    'common.password.show': 'Vis adgangskode'
 };
