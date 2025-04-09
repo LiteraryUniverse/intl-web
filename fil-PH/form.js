@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Kinakailangang field',
     'form.validator.mustBeNumber': 'Dapat ito ay isang numero',
-    'form.validator.minNumber': 'Dapat mas malaki kaysa sa {min, number}',
-    'form.validator.maxNumber': 'Dapat mas mababa kaysa sa {max, number}',
-    'form.validator.maxLength': `Dapat ay mas mababa sa {max, number} {what, select,
-    characters {mga karakter}
-    tags {mga tag}
-    genres {mga genre}
-    numbers {mga numero}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Dapat ay hindi bababa sa {min, number} {what, select,
-    characters {mga karakter}
-    tags {mga tag}
-    genres {mga genre}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
     genre {genre}
-    numbers {mga numero}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Dapat ito ay isang wastong e-mail',
