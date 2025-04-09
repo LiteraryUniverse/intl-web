@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'अब एक बनाएँ!',
     'workshop.fictionalTime.createTitle': 'एक नया काल्पनिक समय बनाएँ',
     'workshop.fictionalTime.editTitle': 'संपादित करें {ftName}',
-    'workshop.fictionalTime.formDescription': `यहां आप अपना खुद का काल्पनिक समय बना सकते हैं। वर्तमान में यह उपकरण सीमित है और केवल
-        सममित समय बना सकता है। इसका मतलब है कि आप माया कैलेंडर या ग्रीगोरियन को नहीं दोहरा सकेंगे। इस समय
-        इस उपकरण की उम्मीद करता है कि सभी समय हमेशा समान होंगे, जैसे. महीनों में हमेशा 30 दिन होंगे बिना किसी छूट के और ऐसा
-        आगे भी होगा। हम बाद में इस पर पर चर्चा करेंगे, लेकिन इस उपकरण का उपयोग प्रमुख रूप से
-        विज्ञान-कथा आधारित समय बनाने के लिए उपयुक्त है।`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'समय का नाम',
     'workshop.fictionalTime.basicInfo': 'मूलभूत जानकारी',
     'workshop.fictionalTime.timeSetup': 'समय सेटअप',
     'workshop.fictionalTime.linkedToET': 'क्या यह समय पृथ्वी की तारीख (ग्रीगोरियन कैलेंडर) पर शुरू होता है?',
     'workshop.fictionalTime.timeDeclaration': 'समय घोषणा',
-    'workshop.fictionalTime.declarationLocation': 'समय का नाम कहां घोषित किया जाना चाहिए?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'इकाईयों से पहले',
     'workshop.fictionalTime.declarationAfter': 'इकाईयों के बाद',
     'workshop.fictionalTime.declarationNone': 'कोई नहीं',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': '6 महीनों से अधिक समय तक कोई नया अध्याय प्रकाशित नहीं होने के कारण यह स्वचालित रूप से हायेटस पर रख दी गई है।',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'यदि आप एक नया अध्याय प्रकाशित करते हैं तो यह स्थिति स्वचालित रूप से समाप्त हो जाएगी। यदि आप अगले 6 महीनों में कोई नया अध्याय प्रकाशित नहीं करते हैं, तो हम स्वचालित रूप से कहानी को रद्द कर देंगे।',
     'workshop.statusChangeEmail.cancellationIntro': 'आपकी कहानी की स्थिति स्वचालित रूप से रद्द कर दी गई है।',
-    'workshop.statusChangeEmail.cancellationWhy': 'यह हुआ है क्योंकि आपने कहानी को हायेटस पर सेट करने के 6 महीने बाद से कोई नया अध्याय पोस्ट नहीं किया है। इसलिए, 1 साल की निष्क्रियता के बाद हम स्वचालित रूप से कहानियों को रद्द कर देते हैं ताकि पाठकों को पता चले कि कौन सी कहानियाँ सक्रिय हैं।',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'यदि आप इस कहानी पर और काम नहीं करने का इरादा रखते हैं, तो आपको कुछ और करने की आवश्यकता नहीं है।',
     'workshop.startCreating': 'सृजन शुरू करें',
     'workshop.ownWork': 'अपना काम',
