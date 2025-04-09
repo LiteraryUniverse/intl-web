@@ -134,16 +134,16 @@ export default {
     'workshop.fictionalTime.createTitle': 'Yeni bir hayali zaman oluştur',
     'workshop.fictionalTime.editTitle': 'Düzenle {ftName}',
     'workshop.fictionalTime.formDescription': `Burada kendi kurgusal zamanınızı oluşturabilirsiniz. Şu anda bu araç sınırlıdır ve yalnızca
-        simetrik zamanlar oluşturabilir. Bu, Maya takvimini veya Gregoryen takvimini yeniden yaratamayacağınız anlamına gelir. Şu anda
-        bu araç tüm zamanların her zaman aynı olmasını beklemektedir, örneğin aylar istisnasız her zaman 30 gündür ve bu yüzden
+        simetrik zamanlar oluşturabilmektedir. Bu, Maya takvimini veya Gregoryen takvimini yeniden yaratamayacağınız anlamına gelir. Şu anda
+        bu araç tüm zaman dilimlerinin her zaman aynı olmasını beklemektedir; örneğin aylar istisnasız her zaman 30 gündür ve bu şekilde
         devam eder. Bunu daha sonraki sürümlerde ele alacağız, ancak o zamana kadar bu araç öncelikle
-        bilim kurgu tabanlı zamanlar oluşturmak için daha uygundur.`,
+        sci-fi tabanlı zaman sistemleri oluşturmak için daha uygundur.`,
     'workshop.fictionalTime.timeName': 'Zaman adı',
     'workshop.fictionalTime.basicInfo': 'Temel bilgiler',
     'workshop.fictionalTime.timeSetup': 'Zaman ayarı',
     'workshop.fictionalTime.linkedToET': 'Bu zaman Gregoryen takvimine (Dünya tarihi) göre mi başlıyor?',
     'workshop.fictionalTime.timeDeclaration': 'Zaman beyanı',
-    'workshop.fictionalTime.declarationLocation': 'Zaman adı nerede beyan edilmeli?',
+    'workshop.fictionalTime.declarationLocation': 'Zaman adı nerede bildirilmelidir?',
     'workshop.fictionalTime.declarationBefore': 'Birimlerden önce',
     'workshop.fictionalTime.declarationAfter': 'Birimlerden sonra',
     'workshop.fictionalTime.declarationNone': 'Hiçbiri',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': '6 aydan fazla süredir yeni bir bölüm yayınlanmadığı için otomatik olarak araya alındı.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Bu durum, yeni bir bölüm yayınlamanız halinde otomatik olarak kaldırılacaktır. Eğer önümüzdeki 6 ay içinde yeni bir bölüm yayınlamazsanız, hikayeyi otomatik olarak iptal edeceğiz.',
     'workshop.statusChangeEmail.cancellationIntro': 'Hikaye durumunuz otomatik olarak iptal edildi.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Bu, 6 ay önce araya alındığından beri hikayeye yeni bir bölüm eklenmediği için gerçekleşti. Bu nedenle, 1 yıl süresince hareketsizlik durumunda, hikayeleri otomatik olarak iptal ediyoruz, böylece okuyucular hangi hikayelerin aktif olduğunu bilebilir.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Bu, 6 ay önce ara verildiğinden beri hikayeye yeni bir bölüm göndermediğiniz için oldu. Bir yıllık hareketsizlikten sonra, okuyucuların hangi hikayelerin aktif olduğunu bilmeleri için hikayeleri otomatik olarak iptal edildi olarak ayarlıyoruz.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Bu durum, yeni bir bölüm yayınlamanız halinde otomatik olarak kaldırılacaktır. Eğer bu hikaye üzerinde çalışmayı planlamıyorsanız, yapmanız gereken başka bir şey yoktur.',
     'workshop.startCreating': 'Oluşturmaya başlayın',
     'workshop.ownWork': 'Kendi çalışmam',
