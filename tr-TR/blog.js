@@ -14,7 +14,7 @@ export default {
   } ayarları`,
     'blog.description': 'Blog tanıtımı',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Sayfanın görünümünü değiştirmek için tema ayarlarını düzenleyebilirsiniz. Bu özellik şu anda kullanıma hazır değil.',
+    'blog.theme.info': 'Temayı ayarlayarak sayfanın görünümünü değiştirebileceksiniz. Bu özellik şu anda hazır değildir.',
     'blog.posts.total': `Bu blogda {total, plural,
     zero {gönderi yok}
     one {bir gönderi var}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': '{title}düzenleniyor',
     'blog.post.text': 'Gönderi metni',
     'common.slug': 'SEO dostu adres',
-    'blog.slug.explained': 'Gönderi için hoş görünümlü bir URL. "-" harici özel karakterler kullanmaktan kaçının.',
+    'blog.slug.explained': 'Gönderi için güzel görünümlü bir URL oluşturun. "-" haricinde özel karakterler kullanmaktan kaçının.',
     'blog.publicView': 'Halka açık görünüm',
     'blog.post.notfound': 'Blog gönderisi bulunamadı',
     'blog.lists.works': `{type, select,
