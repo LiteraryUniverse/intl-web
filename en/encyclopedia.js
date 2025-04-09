@@ -47,7 +47,7 @@ export default {
     'Use the menu on the left to navigate between the items in the encyclopedia. Once you select an item, it will be displayed instead of this text.',
   'encyclopedia.help.sidebar': 'Sidebar Toolbox',
   'encyclopedia.help.sidebar.text':
-    'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will be then prompted to find and select an item.',
+    'Welcome to your story! This sidebar allows you easy access to all resources related to your story. Check the icons above to see the latest comments, your notes, search your encyclopedia, browse and add new entries to your encyclopedia. If you want to add a connection to an entry from the story text, select the text where you want to place it and then click the connect button. You will then be prompted to find and select an item.',
   'encyclopedia.intro': 'Welcome to the {universe} encyclopedia.',
   'encyclopedia.add.title': 'Add a new entry to encyclopedia',
   'encyclopedia.add.heading': 'What do you wish to add?',
@@ -166,11 +166,11 @@ export default {
   'encyclopedia.private': 'Private',
   'encyclopedia.container': 'Container',
   'encyclopedia.container.desc':
-    'Make this entry a container for a new group of entries. This will hide it from categories listing.',
+    'Make this entry a container for a new group of entries. This will hide it from the categories listing.',
   'encyclopedia.entry.name': 'Name of the entry',
   'encyclopedia.summary': 'Summary',
   'encyclopedia.summary.desc':
-    'This is a summary that will be the only initial information displayed on the reader.',
+    'This is a summary that will be the only initial information displayed to the reader.',
   'encyclopedia.parent': 'Parent entry',
   'encyclopedia.related': 'Related entries',
   'encyclopedia.errors.tags': 'You can only have 10 tags per entry.',
