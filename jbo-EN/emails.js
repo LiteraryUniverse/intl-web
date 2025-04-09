@@ -17,14 +17,14 @@ export default {
     'email.signature': '.i cinmo fi lo ka<br />lo se preti be lo ka facki lo nu jivna do lo za\'u reno cevni',
     // Enrollment
     'email.enrollAccount.welcome': '.i co\'a jivna',
-    'email.enrollAccount.messageHtml': '.i mi pu cilre lo nu do pu\'o jivna lo za\'u reno cevni! .i mi pu zukte lo se pilno be lo za\'u reno cevni pe do .i ko catlu lo te pilno be lo za\'u reno cevni be lo nu penmi .i ko penmi mi lo nu pilno lo te pilno be lo za\'u reno cevni be lo nu penmi',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': '.i pilno lo do za\'u reno cevni',
-    'email.enrollAccount.signature': 'Mi\'e la .ui. cu zvati lo nu do viska,<br />la .ui. se tcidu',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'lo nu do cikre lo se jinvi be do ke\'a cu se klama lo nu do jgari lo japyvla be do, .i ko jai gau kliki lo botpi bau la\'o zoi. bellow .zoi. lo nu cnano lo pruce cu zmadu',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'cnino japyvla',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Mi\'e la .ui. cu gleki lo nu do klama le daski! .i ko jai gau kliki lo botpi bau la\'o zoi. bellow .zoi. lo nu sruma lo pruce cu zmadu',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'sruma lo pruce',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'lo se jinvi be do cu se zbasu',
