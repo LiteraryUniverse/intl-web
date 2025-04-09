@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Create one now!',
     'workshop.fictionalTime.createTitle': 'Create a new fictional time',
     'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Time name',
     'workshop.fictionalTime.basicInfo': 'Basic information',
     'workshop.fictionalTime.timeSetup': 'Time setup',
     'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date (Gregorian calendar)?',
     'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Before units',
     'workshop.fictionalTime.declarationAfter': 'After units',
     'workshop.fictionalTime.declarationNone': 'None',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'ត្រូវបានដាក់ការថតស្ថានភាពថតស្វ័យប្រវត្តិដោយស្វ័យប្រវត្តិមិនមានសៀវភៅថ្មីបានបោះបង់ចាប់ពីរខែ។',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'ស្ថានភាពនេះនឹងត្រូវបានកំណត់ស្ថានភាពថតដោយស្វ័យប្រវត្តិប្រសិនបើអ្នកបោះបង់សៀវភៅថ្មី។ ប្រសិនបើអ្នកមិនបោះបង់សៀវភៅថ្មីក្នុងរយៈពេល ៦ ខែក្រោយនឹងដាក់ស្ថានភាពរបស់របស់អ្នកជាប់បានបានបិទ។',
     'workshop.statusChangeEmail.cancellationIntro': 'ស្ថានភាពរបស់អ្នកកំពុងត្រូវបានកំណត់ស្ថានភាពថតបានបោះបង់។',
-    'workshop.statusChangeEmail.cancellationWhy': 'មាននេះបានកើតឡើងពីពេលអ្នកមិនបានបោះបង់សៀវភៅថ្មីទេពីពេលដែលវាត្រូវបានកំណត់ស្ថានភាពថតបានបោះបង់ ៦ ខែមុន។ ដូច្នេះក្នុងរយៈពេលមួយឆ្នាំនៃអស់កាលវិភាគយើងកំណត់ស្ថានភាពរបស់របស់អ្នកជាប់បានបានបិទដើម្បីឲ្យអ្នកអានដើម្បីដឹងថាសៀវភៅណាមួយគឺអាចប្រើបាន។',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'ស្ថានភាពនេះនឹងត្រូវបានកំណត់ស្ថានភាពថតដោយស្វ័យប្រវត្តិប្រសិនបើអ្នកបោះបង់សៀវភៅថ្មី។ ប្រសិនបើអ្នកមិនចង់ធ្វើការនេះទេគឺគ្មានអ្វីផ្សេងទៀតដែរដែលអ្នកត្រូវធ្វើទេ។',
     'workshop.startCreating': 'ចាប់ផ្តើមបង្កើត',
     'workshop.ownWork': 'ការងារផ្ទាល់ខ្លួន',
