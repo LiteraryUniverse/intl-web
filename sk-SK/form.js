@@ -2,22 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Povinné pole',
     'form.validator.mustBeNumber': 'Musí být číslo',
-    'form.validator.minNumber': 'Mala by byť väčšia ako {min, number}',
-    'form.validator.maxNumber': 'Mala by byť nižšia ako {max, number}',
-    'form.validator.maxLength': `Mala by byť aspoň {max, number} {what, select,
-    characters {znakov}
-    tags {tags}
+    'form.validator.minNumber': 'Musí byť väčšia ako {min, number}',
+    'form.validator.maxNumber': 'Musí byť nižšia ako {max, number}',
+    'form.validator.maxLength': `Musí byť menší ako {max, number} {what, select,
+    characters {znaky}
+    tags {značky}
     genres {žánre}
-    genre {žáner}
-    numbers {čísel}
+    numbers {čísla}
     other {}
   }`,
-    'form.validator.minLength': `Mala by byť aspoň {min, number} {what, select,
-    characters {znakov}
-    tags {tags}
+    'form.validator.minLength': `Musí obsahovať aspoň {min, number} {what, select,
+    characters {znaky}
+    tags {značky}
     genres {žánre}
-    genre {žáner}
-    numbers {čísel}
+    genre {druh}
+    numbers {čísla}
     other {}
   }`,
     'form.validator.email': 'Musí to byť platný e-mail',
