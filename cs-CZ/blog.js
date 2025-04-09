@@ -14,7 +14,7 @@ export default {
   } settings`,
     'blog.description': 'Představení',
     'blog.theme': 'Vzhled',
-    'blog.theme.info': 'Změnou následujících parametrů můžete změnit vzhled blogu. Tato funkcionalita je momentálně v přípravě.',
+    'blog.theme.info': 'Úpravou motivu můžete změnit vzhled stránky. Tato funkce není v tuto chvíli připravena.',
     'blog.posts.total': `Tento blog {total, plural,
     zero {nemá žádné články}
     one {má jeden článek}
@@ -25,7 +25,7 @@ export default {
     'blog.post.update': 'Editace {title}',
     'blog.post.text': 'Text článku',
     'common.slug': 'SEO adresa',
-    'blog.slug.explained': 'Hezky vypadajíc adresa pro článek. Vyhněte se používání speciálních znaků a diakritiky mimo "-".',
+    'blog.slug.explained': 'Vytvořte pěkně vypadající adresu URL pro příspěvek. Nepoužívejte speciální znaky kromě "-".',
     'blog.publicView': 'Veřejná verze',
     'blog.post.notfound': 'Článek nebyl nalezen',
     'blog.lists.works': `{type, select,
