@@ -134,16 +134,16 @@ export default {
     'workshop.fictionalTime.createTitle': 'Skapa en ny fiktiv tid',
     'workshop.fictionalTime.editTitle': 'Redigera {ftName}',
     'workshop.fictionalTime.formDescription': `Här kan du skapa din egen fiktiva tid. För närvarande är detta verktyg begränsat och kan bara skapa
-        symmetriska tider. Det betyder att du inte kommer att kunna återskapa Mayakalendern eller den Gregorianska. För närvarande
-        förväntar sig det här verktyget att alla tider alltid är desamma, t.ex. månader har alltid 30 dagar utan undantag och så
+        symmetriska tider. Det innebär att du inte kommer att kunna återskapa Mayakalendern eller den gregorianska kalendern. För närvarande
+        förväntar sig det här verktyget att alla tidsperioder alltid är desamma, t.ex. att månader alltid har 30 dagar utan undantag och så
         vidare. Vi kommer att ta itu med detta i senare versioner, men fram till dess är det här verktyget mer lämpat för att skapa främst
-        sci-fi-baserade tider.`,
+        sci-fi-baserade tidssystem.`,
     'workshop.fictionalTime.timeName': 'Tidens namn',
     'workshop.fictionalTime.basicInfo': 'Grundläggande information',
     'workshop.fictionalTime.timeSetup': 'Tidsinställning',
     'workshop.fictionalTime.linkedToET': 'Börjar denna tid på ett jordiskt datum (gregorianska kalendern)?',
     'workshop.fictionalTime.timeDeclaration': 'Tidsförklaring',
-    'workshop.fictionalTime.declarationLocation': 'Var bör tidens namn förklaras?',
+    'workshop.fictionalTime.declarationLocation': 'Var ska tidsnamnet anges?',
     'workshop.fictionalTime.declarationBefore': 'Före enheter',
     'workshop.fictionalTime.declarationAfter': 'Efter enheter',
     'workshop.fictionalTime.declarationNone': 'Ingen',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Har automatiskt satts på paus eftersom ingen ny kapitel har publicerats på över 6 månader.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Denna status kommer automatiskt att hävas om du publicerar ett nytt kapitel. Om du inte publicerar ett nytt kapitel inom de nästa 6 månaderna kommer vi automatiskt att ställa in berättelsen som avbruten.',
     'workshop.statusChangeEmail.cancellationIntro': 'Din berättelsestatus har automatiskt ändrats till avbruten.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Detta har hänt eftersom du inte har publicerat något nytt kapitel till berättelsen sedan den sattes på paus för 6 månader sedan. Så efter ett års inaktivitet ställer vi automatiskt in berättelser som avbrutna så att läsare vet vilka berättelser som är aktiva.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Detta har hänt eftersom du inte har postat något nytt kapitel till berättelsen sedan den sattes på paus för 6 månader sedan. Efter ett år av inaktivitet sätter vi automatiskt berättelser till avbruten så att läsarna vet vilka berättelser som är aktiva.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Denna status kommer automatiskt att hävas om du publicerar ett nytt kapitel. Om du inte planerar att arbeta vidare på denna berättelse finns det inget annat som du behöver göra.',
     'workshop.startCreating': 'Börja skapa',
     'workshop.ownWork': 'Eget arbete',
