@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'ആവശ്യമായ ഫീൽഡ്',
     'form.validator.mustBeNumber': 'ഒരു സംഖ്യയായിരിക്കണം',
-    'form.validator.minNumber': 'ശരിയായി ആയിരിക്കണം {min, number}',
-    'form.validator.maxNumber': 'ശരിയായി അധികം {max, number}',
-    'form.validator.maxLength': `അതിനാൽ {max, number} {what, select,
-    characters {പ്രാമാണികമായി കുറഞ്ഞതായിരിക്കണം}
-    tags {ടാഗുകൾ,}
-    genres {ജൻറർ,}
-    numbers {സംഖ്യകൾ,}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `അതിനാൽ {min, number} {what, select,
-    characters {പ്രാമാണികമായി കൂടുതൽപ്പെടുത്തണം}
-    tags {ടാഗുകൾ,}
-    genres {ജൻറർ,}
-    genre {ജന്റർ,}
-    numbers {സംഖ്യകൾ,}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'ഒരു സാധുവായ ഇമെയിൽ ആവശ്യമാണ്',
