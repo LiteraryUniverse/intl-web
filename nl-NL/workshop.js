@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Maak er nu een aan!',
     'workshop.fictionalTime.createTitle': 'Maak een nieuwe fictieve tijd aan',
     'workshop.fictionalTime.editTitle': 'Bewerk {ftName}',
-    'workshop.fictionalTime.formDescription': `Hier kunt u uw eigen fictieve tijd maken. Momenteel is deze tool beperkt en kan hij alleen
-        symmetrische tijden maken. Dit betekent dat u niet in staat zult zijn om de Maya kalender of de Gregoriaanse kalender na te maken. Op dit moment
-        verwacht deze tool dat alle tijden altijd hetzelfde zijn, bijv. maanden hebben altijd 30 dagen geen uitzonderingen enzovoort
-        . We zullen hier in latere versies iets aan doen, maar tot die tijd is deze tool meer geschikt voor het maken van voornamelijk op
-        sci-fi gebaseerde tijden.`,
+    'workshop.fictionalTime.formDescription': `Hier kunt u uw eigen fictieve tijd maken. Op dit moment is dit hulpmiddel beperkt en kan het alleen
+        symmetrische tijden maken. Dit betekent dat u niet in staat zult zijn om de Maya kalender of de Gregoriaanse kalender na te maken. Op dit moment verwacht
+        deze tool dat alle tijdsperioden altijd hetzelfde zijn, bijv. maanden hebben altijd 30 dagen zonder uitzonderingen, enzovoort
+        . In latere versies zullen we hier aandacht aan besteden, maar tot die tijd is deze tool meer geschikt voor het maken van voornamelijk op
+        sci-fi gebaseerde tijdsystemen.`,
     'workshop.fictionalTime.timeName': 'Tijdnaam',
     'workshop.fictionalTime.basicInfo': 'Basisinformatie',
     'workshop.fictionalTime.timeSetup': 'Tijdsinstelling',
     'workshop.fictionalTime.linkedToET': 'Begint deze tijd op een aardse datum (Gregoriaanse kalender)?',
     'workshop.fictionalTime.timeDeclaration': 'Tijdverklaring',
-    'workshop.fictionalTime.declarationLocation': 'Waar moet de tijdnaam worden verklaard?',
+    'workshop.fictionalTime.declarationLocation': 'Waar moet de tijdnaam worden aangegeven?',
     'workshop.fictionalTime.declarationBefore': 'Voor eenheden',
     'workshop.fictionalTime.declarationAfter': 'Na eenheden',
     'workshop.fictionalTime.declarationNone': 'Geen',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Is automatisch op hiatus gezet omdat er gedurende 6 maanden geen nieuw hoofdstuk is gepubliceerd.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Deze status wordt automatisch opgeheven als u een nieuw hoofdstuk publiceert. Als u binnen de volgende 6 maanden geen nieuw hoofdstuk publiceert, zullen we het verhaal automatisch als geannuleerd instellen.',
     'workshop.statusChangeEmail.cancellationIntro': 'De status van uw verhaal is automatisch gewijzigd naar geannuleerd.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Dit is gebeurd omdat u sinds 6 maanden geleden geen nieuw hoofdstuk meer aan het verhaal heeft toegevoegd nadat het op hiatus was gezet. Na een jaar inactiviteit stellen we verhalen automatisch in als geannuleerd zodat lezers weten welke verhalen actief zijn.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Dit is gebeurd omdat u geen nieuw hoofdstuk in het verhaal hebt gepost sinds het 6 maanden geleden op hiatus werd gezet. Na een jaar van inactiviteit zetten we verhalen automatisch op geannuleerd, zodat lezers weten welke verhalen actief zijn.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Deze status wordt automatisch opgeheven als u een nieuw hoofdstuk publiceert. Als u niet van plan bent om verder te werken aan dit verhaal, hoeft u verder niets te doen.',
     'workshop.startCreating': 'Begin met creëren',
     'workshop.ownWork': 'Eigen werk',
