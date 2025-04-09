@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'أنشئ واحدة الآن!',
     'workshop.fictionalTime.createTitle': 'أنشئ وقت خيالي جديد',
     'workshop.fictionalTime.editTitle': 'تحرير {ftName}',
-    'workshop.fictionalTime.formDescription': `هنا يمكنك إنشاء وقتك الخيالي الخاص بك. حاليًا هذه الأداة محدودة وقادرة فقط على إنشاء
-        الأوقات المتماثلة. هذا يعني أنك لن تتمكن من إعادة إنشاء تقويم المايا أو التقويم الميلادي. في هذه اللحظة
-        تتوقع هذه الأداة أن تكون جميع الأوقات متماثلة دائمًا، على سبيل المثال: الأشهر دائمًا 30 يومًا بدون استثناءات وهكذا
-        . سنعالج هذا الأمر في الإصدارات اللاحقة، ولكن حتى ذلك الحين فإن هذه الأداة مناسبة أكثر لإنشاء أوقات تعتمد على
+    'workshop.fictionalTime.formDescription': `هنا يمكنك إنشاء وقتك الخيالي الخاص بك. في الوقت الحالي، هذه الأداة محدودة وقادرة فقط على إنشاء
+        الأوقات المتماثلة. هذا يعني أنك لن تتمكن من إعادة إنشاء تقويم المايا أو التقويم الميلادي. في هذه اللحظة،
+        هذه الأداة تتوقع أن تكون جميع الفترات الزمنية متماثلة دائمًا، على سبيل المثال، الأشهر دائمًا 30 يومًا دون استثناءات وهكذا
+        . سنقوم بمعالجة هذا الأمر في إصدارات لاحقة، ولكن حتى ذلك الحين، هذه الأداة مناسبة أكثر لإنشاء أنظمة زمنية قائمة على
         في المقام الأول على أساس الخيال العلمي.`,
     'workshop.fictionalTime.timeName': 'اسم الوقت',
     'workshop.fictionalTime.basicInfo': 'معلومات أساسية',
     'workshop.fictionalTime.timeSetup': 'إعداد الوقت',
     'workshop.fictionalTime.linkedToET': 'هل يبدأ هذا الوقت في تاريخ أرضي (التقويم الغريغوري)؟',
     'workshop.fictionalTime.timeDeclaration': 'إعلان الوقت',
-    'workshop.fictionalTime.declarationLocation': 'أين يجب أن يتم إعلان اسم الوقت؟',
+    'workshop.fictionalTime.declarationLocation': 'أين يجب الإعلان عن اسم الوقت؟',
     'workshop.fictionalTime.declarationBefore': 'قبل الوحدات',
     'workshop.fictionalTime.declarationAfter': 'بعد الوحدات',
     'workshop.fictionalTime.declarationNone': 'لا شيء',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'تم وضع القصة على وضع التوقف المؤقت تلقائيًا بسبب عدم نشر فصل جديد لأكثر من 6 أشهر.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'سيتم رفع هذا الوضع تلقائيًا إذا قمتم بنشر فصل جديد. إذا لم تقموا بنشر فصل جديد في الـ 6 أشهر القادمة، فسنقوم بتعيين القصة تلقائيًا على أنها ملغاة.',
     'workshop.statusChangeEmail.cancellationIntro': 'تم تعيين حالة قصتكم تلقائيًا على أنها ملغاة.',
-    'workshop.statusChangeEmail.cancellationWhy': 'حدث هذا بسبب عدم نشر أي فصل جديد للقصة منذ تعيينها على وضع التوقف المؤقت قبل 6 أشهر. لذا، بعد عام من النشاط الضعيف، نقوم تلقائيًا بتعيين حالة القصص على أنها ملغاة حتى يعرف القراء أي القصص نشطة.',
+    'workshop.statusChangeEmail.cancellationWhy': 'لقد حدث هذا لأنك لم تنشر أي فصل جديد في القصة منذ أن تم تعيينها إلى التوقف قبل 6 أشهر. بعد مرور عام من عدم النشاط، نقوم تلقائيًا بتعيين القصص إلى ملغاة حتى يعرف القراء القصص النشطة.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'سيتم رفع هذا الوضع تلقائيًا إذا قمتم بنشر فصل جديد. إذا كنتم لا تنوون العمل على هذه القصة بعد الآن، فلا يوجد شيء آخر يجب عليكم فعله.',
     'workshop.startCreating': 'ابدأ الإنشاء',
     'workshop.ownWork': 'العمل الخاص',
