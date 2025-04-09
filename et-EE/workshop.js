@@ -134,16 +134,16 @@ export default {
     'workshop.fictionalTime.createTitle': 'Loo uus väljamõeldud aeg',
     'workshop.fictionalTime.editTitle': 'Muuda {ftName}',
     'workshop.fictionalTime.formDescription': `Siin saate luua oma fiktiivse aja. Praegu on see tööriist piiratud ja suudab luua ainult
-        sümmeetrilisi aegu. See tähendab, et te ei saa uuesti luua maiade kalendrit või gregooriuse kalendrit. Hetkel
-        see tööriist eeldab, et kõik ajad on alati samad, nt kuud on alati 30 päeva ilma eranditeta ja nii
-        edasi. Me tegeleme sellega hilisemates versioonides, kuid seni sobib see tööriist pigem
-        teaduspõhiste aegade loomiseks.`,
+        sümmeetrilisi aegu. See tähendab, et te ei saa taasluua maiade kalendrit ega gregooriuse kalendrit. Hetkel eeldab
+        see tööriist, et kõik ajaperioodid on alati ühesugused, nt kuud on alati 30 päeva ilma eranditeta ja nii
+        edasi. Me tegeleme sellega hilisemates versioonides, kuid seni sobib see tööriist pigem selleks, et luua peamiselt
+        sci-fil põhinevaid ajasüsteeme.`,
     'workshop.fictionalTime.timeName': 'Aja nimi',
     'workshop.fictionalTime.basicInfo': 'Põhiinfo',
     'workshop.fictionalTime.timeSetup': 'Aja seadistus',
     'workshop.fictionalTime.linkedToET': 'Kas see aeg algab Maa kuupäeval (gregooriuse kalender)?',
     'workshop.fictionalTime.timeDeclaration': 'Ajadeklaratsioon',
-    'workshop.fictionalTime.declarationLocation': 'Kuhu peaks aja nimi olema deklareeritud?',
+    'workshop.fictionalTime.declarationLocation': 'Kus peaks aja nimi olema deklareeritud?',
     'workshop.fictionalTime.declarationBefore': 'Enne ühikuid',
     'workshop.fictionalTime.declarationAfter': 'Pärast ühikuid',
     'workshop.fictionalTime.declarationNone': 'Puudub',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Lugu on automaatselt pausile pandud, kuna uut peatükki pole üle 6 kuu avaldatud.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'See olek tühistatakse automaatselt, kui avaldate uue peatüki. Kui te järgmise 6 kuu jooksul uut peatükki ei avalda, seame loo automaatselt tühistatuks.',
     'workshop.statusChangeEmail.cancellationIntro': 'Teie loo olek seati automaatselt tühistatuks.',
-    'workshop.statusChangeEmail.cancellationWhy': 'See juhtus, kuna te pole alates 6 kuu tagusest pausile seadmise hetkest lisanud loole ühtegi uut peatükki. Pärast aastast tegevusetust seame lood automaatselt tühistatuks, et lugejad teaksid, millised lood on aktiivsed.',
+    'workshop.statusChangeEmail.cancellationWhy': 'See on juhtunud seetõttu, et te ei ole postitanud ühtegi uut peatükki loole, kuna see pandi 6 kuud tagasi pausile. Pärast aasta pikkust tegevusetust paneme lood automaatselt tühistamisele, et lugejad teaksid, millised lood on aktiivsed.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'See olek tühistatakse automaatselt, kui avaldate uue peatüki. Kui te ei plaani selle looga enam tööd teha, pole teil midagi muud teha vaja.',
     'workshop.startCreating': 'Alusta loomist',
     'workshop.ownWork': 'Oma töö',
