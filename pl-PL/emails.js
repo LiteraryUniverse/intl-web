@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Z poważaniem,<br />Zespół Literary Universe',
     // Enrollment
     'email.enrollAccount.welcome': 'Witamy na pokładzie',
-    'email.enrollAccount.messageHtml': 'Zapraszamy Cię do Literary Universe! Przygotowaliśmy dla Ciebie osobiste konto, które umożliwi Ci dostęp do wszystkich funkcji Literary Universe! Dołącz do nas w tworzeniu nowej generacji kreatywnego pisania i czytania!',
+    'email.enrollAccount.messageHtml': 'Chcielibyśmy zaprosić Państwa do Literary Universe! Przygotowaliśmy dla Państwa osobiste konto, dzięki któremu uzyskają Państwo dostęp do wszystkich funkcji Literary Universe. Prosimy dołączyć do nas w tworzeniu nowej generacji kreatywnego pisania i czytania!',
     'email.enrollAccount.button': 'Dostęp do swojego konta',
-    'email.enrollAccount.signature': 'Czekamy na Ciebie,<br />Zespół Literary Universe',
+    'email.enrollAccount.signature': 'Czekamy na Państwa,<br />Zespół Literary Universe',
     // Reset password
-    'email.resetPassword.messageHtml': 'Otrzymaliśmy prośbę o zresetowanie hasła do Twojego konta, proszę kliknąć na przycisk poniżej, aby kontynuować proces. Jeśli nie złożyłeś takiej prośby, możesz zignorować ten e-mail, ale może to być dobry czas, aby przejrzeć swoje ustawienia bezpieczeństwa.',
+    'email.resetPassword.messageHtml': 'Otrzymaliśmy prośbę o zresetowanie hasła do Państwa konta. Proszę kliknąć poniższy przycisk, aby kontynuować proces. Jeśli nie zgłosił(a) Pan(i) takiej prośby, może Pan(i) zignorować tę wiadomość e-mail, ale może to być dobry moment na sprawdzenie ustawień zabezpieczeń.',
     'email.resetPassword.button': 'Resetowanie hasła',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Cieszymy się, że jesteś z nami! Proszę kliknąć na poniższy przycisk, aby zweryfikować ten adres e-mail.',
+    'email.verifyEmail.messageHtml': 'Cieszymy się, że mamy Państwa na pokładzie! Proszę kliknąć przycisk poniżej, aby zweryfikować ten adres e-mail.',
     'email.verifyEmail.button': 'Zweryfikuj ten adres e-mail',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Twoje konto zostało uaktualnione',
