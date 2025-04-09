@@ -17,14 +17,14 @@ export default {
     'email.signature': 'மிக்க வாழ்த்துக்கள்,<br />இலக்கண உலகத்தின் அணி',
     // Enrollment
     'email.enrollAccount.welcome': 'வரவேற்புக்கு வரவேற்பு',
-    'email.enrollAccount.messageHtml': 'இலக்கண உலகத்திற்கு அழைப்பு வழங்குகிறோம்! நாங்கள் முன்னாள் படைப்பை உருவாக்கி உங்களுக்கு ஒரு தனிப்பட்ட கணக்கை தயவுசெய்து உருவாக்கிவிட்டோம்! தயவுசெய்து எங்களுடன் உருவாக்க மற்றும் படிகாரத்தை உருவாக்க சேருங்கள்!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'உங்கள் கணக்குக்கு அணுகுக',
-    'email.enrollAccount.signature': 'உங்களைப் பார்க்க எதிர்பார்க்கிறோம்,<br />இலக்கண உலகம் குழு',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'உங்கள் கணக்கிற்கான கடவுச்சொல் மீளமைப்பு கோரிக்கையை நாங்கள் பெற்றுள்ளோம், தொடர்ந்து செயல்படுத்த தயாராக உள்ள பொத்தானை அழுத்துவதற்கு தயவுசெய்து கீழே உள்ள பட்டனை அழுத்தவும். இந்த கோரிக்கையை நீங்கள் செய்தியாக்கவில்லையெனில், இந்த மின்னஞ்சலை புறக்கணிக்கவும், ஆனால் உங்கள் பாதுகாப்பு அமைப்புகளைப் பரிசீலிக்க ஒரு நல்ல நேரம் இருக்கலாம்.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'கடவுச்சொல் மீளமைப்பு',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'உங்களை போதித்துவிட்டதற்கு மிகுந்த மகிழ்ச்சி உள்ளது! தயவுசெய்து இந்த மின்னஞ்சல் முகவரியை சரிபார்க்க கீழே உள்ள பட்டனை அழுத்தவும்.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'இந்த மின்னஞ்சல் முகவரியை சரிபார்க்க',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'உங்கள் கணக்கு மேம்படுத்தப்பட்டுள்ளது',
