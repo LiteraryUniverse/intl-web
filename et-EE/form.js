@@ -3,20 +3,20 @@ export default {
     'form.validator.required': 'Kohustuslik väli',
     'form.validator.mustBeNumber': 'Peab olema number',
     'form.validator.minNumber': 'Peab olema suurem kui {min, number}',
-    'form.validator.maxNumber': 'Peab olema väiksem kui {max, number}',
-    'form.validator.maxLength': `Peab olema vähem kui {max, number} {what, select,
-    characters {tähemärki}
-    tags {märgendite}
-    genres {žanrite}
-    numbers {numbrite}
+    'form.validator.maxNumber': 'Peab olema madalam kui {max, number}',
+    'form.validator.maxLength': `Peab olema väiksem kui {max, number} {what, select,
+    characters {tähemärgid}
+    tags {märgid}
+    genres {žanrid}
+    numbers {numbrid}
     other {}
   }`,
     'form.validator.minLength': `Peab olema vähemalt {min, number} {what, select,
-    characters {tähemärki}
-    tags {märgendite}
-    genres {žanrite}
+    characters {tähemärgid}
+    tags {sildid}
+    genres {žanrid}
     genre {žanr}
-    numbers {numbrite}
+    numbers {numbrid}
     other {}
   }`,
     'form.validator.email': 'Peab olema kehtiv e-posti aadress',
