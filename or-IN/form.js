@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'ଆବଶ୍ୟକ କ୍ଷେତ୍ର',
     'form.validator.mustBeNumber': 'ଏକ ନମ୍ବର ହେଉଛି ଆବଶ୍ୟକ',
-    'form.validator.minNumber': 'ପ୍ରତିମାନଙ୍କ {min, number}ଅତି ବଡ଼ ହେବା ଆବଶ୍ୟକ',
-    'form.validator.maxNumber': 'ପ୍ରତିମାନଙ୍କ {max, number}ଅତି ଛୋଟ ହେବା ଆବଶ୍ୟକ',
-    'form.validator.maxLength': `କୃପାକରି {max, number} {what, select,
-    characters {ଅକ୍ଷର}
-    tags {ଟ୍ୟାଗ}
-    genres {ଜାନ୍ରେ}
-    numbers {ନମ୍ବର}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
-  }ଅଛି`,
-    'form.validator.minLength': `କୃପାକରି {min, number} {what, select,
-    characters {ଅକ୍ଷର}
-    tags {ଟ୍ୟାଗ}
-    genres {ଜାନ୍ରେ}
-    genre {ଜାନ୍ରେ}
-    numbers {ନମ୍ବର}
+  }`,
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'ଏକ ବୈଧ ଇମେଲ ହେଉଛି ଆବଶ୍ୟକ',
