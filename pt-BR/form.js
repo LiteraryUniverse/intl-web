@@ -2,18 +2,18 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Requeridos',
     'form.validator.mustBeNumber': 'Deve ser um número',
-    'form.validator.minNumber': 'Deve ser maior do que {min, number}',
+    'form.validator.minNumber': 'Deve ser maior que {min, number}',
     'form.validator.maxNumber': 'Deve ser inferior a {max, number}',
-    'form.validator.maxLength': `Deve ser inferior a {max, number} {what, select,
+    'form.validator.maxLength': `Deve ser menor que {max, number} {what, select,
     characters {caracteres}
     tags {tags}
-    genres {genres}
+    genres {gêneros}
     numbers {números}
     other {}
   }`,
     'form.validator.minLength': `Deve ter pelo menos {min, number} {what, select,
-    characters {carateres}
-    tags {marcadores}
+    characters {caracteres}
+    tags {tags}
     genres {gêneros}
     genre {gênero}
     numbers {números}
