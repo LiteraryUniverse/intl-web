@@ -134,16 +134,16 @@ export default {
     'workshop.fictionalTime.createTitle': 'Opret en ny fiktiv tid',
     'workshop.fictionalTime.editTitle': 'Rediger {ftName}',
     'workshop.fictionalTime.formDescription': `Her kan du skabe din egen fiktive tid. I øjeblikket er dette værktøj begrænset og er kun i stand til at skabe
-        symmetriske tider. Det betyder, at du ikke kan genskabe mayakalenderen eller den gregorianske kalender. På nuværende tidspunkt
-        forventer dette værktøj, at alle tider altid er ens, f.eks. har måneder altid 30 dage uden undtagelser og så
+        symmetriske tider. Det betyder, at du ikke kan genskabe mayakalenderen eller den gregorianske kalender. I øjeblikket forventer
+        dette værktøj, at alle tidsperioder altid er ens, f.eks. at måneder altid har 30 dage uden undtagelser og så
         videre. Vi vil tage fat på dette i senere versioner, men indtil da er dette værktøj mere velegnet til at skabe primært
-        sci-fi-baserede tider.`,
+        sci-fi-baserede tidssystemer.`,
     'workshop.fictionalTime.timeName': 'Tidspunkt navn',
     'workshop.fictionalTime.basicInfo': 'Grundlæggende information',
     'workshop.fictionalTime.timeSetup': 'Tidsopsætning',
     'workshop.fictionalTime.linkedToET': 'Starter dette tidspunkt på en jordisk dato (gregoriansk kalender)?',
     'workshop.fictionalTime.timeDeclaration': 'Tids erklæring',
-    'workshop.fictionalTime.declarationLocation': 'Hvor skal tidspunktets navn erklæres?',
+    'workshop.fictionalTime.declarationLocation': 'Hvor skal tidsnavnet angives?',
     'workshop.fictionalTime.declarationBefore': 'Før enheder',
     'workshop.fictionalTime.declarationAfter': 'Efter enheder',
     'workshop.fictionalTime.declarationNone': 'Ingen',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Er automatisk blevet sat på pause, fordi der ikke er blevet udgivet et nyt kapitel i over 6 måneder.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Denne status ophæves automatisk, hvis du udgiver et nyt kapitel. Hvis du ikke udgiver et nyt kapitel inden for de næste 6 måneder, vil vi automatisk sætte historien som annulleret.',
     'workshop.statusChangeEmail.cancellationIntro': 'Din historiestatus blev automatisk sat til aflyst.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Det er sket, fordi du ikke har sendt et nyt kapitel til historien, siden den blev sat på pause for 6 måneder siden. Så efter et års inaktivitet sætter vi automatisk historier til annulleret, så læserne ved, hvilke historier der er aktive.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Det er sket, fordi du ikke har sendt et nyt kapitel til historien, siden den blev sat på pause for 6 måneder siden. Efter et års inaktivitet sætter vi automatisk historier til annulleret, så læserne ved, hvilke historier der er aktive.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Denne status ophæves automatisk, hvis du udgiver et nyt kapitel. Hvis du ikke har planer om at arbejde videre med historien, behøver du ikke gøre mere.',
     'workshop.startCreating': 'Begynd at skabe',
     'workshop.ownWork': 'Eget arbejde',
