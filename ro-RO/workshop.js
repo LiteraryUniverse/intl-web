@@ -134,16 +134,16 @@ export default {
     'workshop.fictionalTime.createTitle': 'Creează o nouă timp ficțional',
     'workshop.fictionalTime.editTitle': 'Editează {ftName}',
     'workshop.fictionalTime.formDescription': `Aici vă puteți crea propriul timp fictiv. În prezent, acest instrument este limitat și este capabil să creeze doar timpuri simetrice
-        . Aceasta înseamnă că nu veți putea recrea calendarul mayaș sau cel gregorian. În acest moment
-        acest instrument se așteaptă ca toate timpurile să fie întotdeauna la fel, de exemplu, lunile au întotdeauna 30 de zile, fără excepții și așa mai departe
-        . Vom aborda acest aspect în versiunile ulterioare, dar până atunci acest instrument este mai potrivit pentru a crea în primul rând
-        timpuri bazate pe sci-fi.`,
+        . Aceasta înseamnă că nu veți putea să recreați calendarul mayaș sau calendarul gregorian. În acest moment,
+        acest instrument se așteaptă ca toate perioadele de timp să fie întotdeauna la fel, de exemplu, lunile au întotdeauna 30 de zile fără excepții și așa mai departe
+        . Vom aborda acest aspect în versiunile ulterioare, dar până atunci, acest instrument este mai potrivit pentru crearea de sisteme temporale bazate în principal pe
+        sci-fi.`,
     'workshop.fictionalTime.timeName': 'Numele timpului',
     'workshop.fictionalTime.basicInfo': 'Informații de bază',
     'workshop.fictionalTime.timeSetup': 'Configurare timp',
     'workshop.fictionalTime.linkedToET': 'Acest timp începe într-o dată de pe Pământ (calendarul gregorian)?',
     'workshop.fictionalTime.timeDeclaration': 'Declarație de timp',
-    'workshop.fictionalTime.declarationLocation': 'Unde ar trebui să fie declarat numele timpului?',
+    'workshop.fictionalTime.declarationLocation': 'Unde ar trebui să fie declarată denumirea orei?',
     'workshop.fictionalTime.declarationBefore': 'Înainte de unități',
     'workshop.fictionalTime.declarationAfter': 'După unități',
     'workshop.fictionalTime.declarationNone': 'Niciunul',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'A fost pusă automat pe hiatus din cauza lipsei publicării unui nou capitol timp de peste 6 luni.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Această stare va fi ridicată automat dacă publicați un nou capitol. Dacă nu publicați un nou capitol în următoarele 6 luni, povestea va fi setată automat ca anulată.',
     'workshop.statusChangeEmail.cancellationIntro': 'Starea povestirii dumneavoastră a fost setată automat ca anulată.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Aceasta s-a întâmplat deoarece nu ați postat niciun capitol nou la povestire de la momentul în care a fost setată pe hiatus acum 6 luni. Astfel, după un an de inactivitate, setăm automat povestirile ca anulate, astfel încât cititorii să știe care povestiri sunt active.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Acest lucru s-a întâmplat pentru că nu ați postat niciun capitol nou la poveste de când a fost pusă în pauză acum 6 luni. După un an de inactivitate, setăm automat poveștile la anulat, astfel încât cititorii să știe care povești sunt active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Această stare va fi ridicată automat dacă publicați un nou capitol. Dacă nu aveți în plan să mai lucrați la această poveste, nu mai este nimic altceva ce trebuie să faceți.',
     'workshop.startCreating': 'Începeți crearea',
     'workshop.ownWork': 'Lucrare proprie',
