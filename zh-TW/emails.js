@@ -17,14 +17,14 @@ export default {
     'email.signature': '此致，<br />文學宇宙團隊',
     // Enrollment
     'email.enrollAccount.welcome': '歡迎加入',
-    'email.enrollAccount.messageHtml': '我們想邀請您加入文學宇宙！我們已經為您準備了一個個人帳戶，您可以在其中訪問文學宇宙的所有功能！請加入我們一起創造下一代的創作和閱讀！',
+    'email.enrollAccount.messageHtml': '我們誠摯地邀請您加入 Literary Universe！我們為您準備了一個個人帳戶，您可以使用 Literary Universe 的所有功能。請與我們一起創造下一代的創意寫作與閱讀！',
     'email.enrollAccount.button': '訪問您的帳戶',
-    'email.enrollAccount.signature': '我們期待著見到你，<br />Literary Universe 團隊',
+    'email.enrollAccount.signature': '我們期待與您見面，<br />Literary Universe 團隊',
     // Reset password
-    'email.resetPassword.messageHtml': '我們收到了重設您帳戶密碼的請求，請點擊下面的按鈕繼續進行此過程。如果您並未發出此請求，您可以忽略此電子郵件，但現在可能是檢查您的安全設定的好時機。',
+    'email.resetPassword.messageHtml': '我們收到了重設您帳戶密碼的請求。請點擊下面的按鈕，繼續處理。如果您沒有提出此要求，您可以忽略此電子郵件，但現在可能是檢視您的安全設定的好時機。',
     'email.resetPassword.button': '重設密碼',
     // E-mail verification
-    'email.verifyEmail.messageHtml': '我們很高興您加入我們！請點擊下面的按鈕驗證此電子郵件地址。',
+    'email.verifyEmail.messageHtml': '我們很高興您的加入！請點擊下面的按鈕驗證此電子郵件地址。',
     'email.verifyEmail.button': '驗證此電子郵件地址',
     // Getting premium from admins
     'email.adminUpgrade.subject': '您的帳戶已升級',
