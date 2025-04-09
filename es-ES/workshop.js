@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': '¡Crea uno ahora!',
     'workshop.fictionalTime.createTitle': 'Crear un nuevo tiempo ficticio',
     'workshop.fictionalTime.editTitle': 'Editar {ftName}',
-    'workshop.fictionalTime.formDescription': `Aquí podrás crear tu propio tiempo ficticio. Esta herramienta está limitada por el momento y sólo puede crear
-        tiempos simétricos. No podrás recrear el calendario maya o gregoriano. Por ahora 
-        esta herramienta supone que todos los tiempos serán siempre los mismos. Por ejemplo, los meses siempre tienen 30 días sin excepciones.
-        Nos ocuparemos de esto en versiones posteriores, pero hasta entonces esta herramienta se ajustará más para crear
-        tiempos basadas en ciencia ficción sobre todo.`,
+    'workshop.fictionalTime.formDescription': `Aquí puede crear su propio tiempo ficticio. Actualmente, esta herramienta es limitada y sólo es capaz de crear tiempos simétricos
+        . Esto significa que no podrá recrear el calendario maya o el gregoriano. En este momento,
+        esta herramienta espera que todos los periodos de tiempo sean siempre iguales, por ejemplo, los meses siempre tienen 30 días sin excepciones y así
+        sucesivamente. Abordaremos esta cuestión en versiones posteriores, pero hasta entonces, esta herramienta es más adecuada para crear principalmente
+        sistemas temporales basados en la ciencia ficción.`,
     'workshop.fictionalTime.timeName': 'Nombre del tiempo',
     'workshop.fictionalTime.basicInfo': 'Información básica',
     'workshop.fictionalTime.timeSetup': 'Configuración de tiempo',
     'workshop.fictionalTime.linkedToET': '¿Este tiempo comienza en una fecha terrestre (calendario gregoriano)?',
     'workshop.fictionalTime.timeDeclaration': 'Declaración del tiempo',
-    'workshop.fictionalTime.declarationLocation': '¿Dónde debería declararse el nombre del tiempo?',
+    'workshop.fictionalTime.declarationLocation': '¿Dónde debe declararse el nombre de la hora?',
     'workshop.fictionalTime.declarationBefore': 'Antes de las unidades',
     'workshop.fictionalTime.declarationAfter': 'Después de las unidades',
     'workshop.fictionalTime.declarationNone': 'Ninguno',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Ha sido marcada automáticamente como en hiato debido a que no se han publicado nuevos capítulos en más de 6 meses.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'El estado se cambiará automáticamente si publicas un nuevo capítulo. Si no publicas un capítulo en los próximos 6 meses marcaremos automáticamente la historia como cancelada.',
     'workshop.statusChangeEmail.cancellationIntro': 'El estado de tu historia ha sido cambiado automáticamente a cancelada.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Esto ha ocurrido debido a que no has publicado ningún capítulo nuevo desde que se marcó como en hiato hace 6 meses. Así pues, tras un año de inactividad hemos marcado las historias como canceladas automáticamente para que los lectores sepan cuales están en activo.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Esto ha ocurrido porque no ha publicado ningún capítulo nuevo en la historia desde que se puso en pausa hace 6 meses. Después de un año de inactividad, automáticamente ponemos las historias en canceladas para que los lectores sepan qué historias están activas.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Este estado se revocará automáticamente si publicas un nuevo capítulo. Si no tienes pensado seguir escribiendo esta historia no necesitas hacer nada más.',
     'workshop.startCreating': 'Comenzar a crear',
     'workshop.ownWork': 'Mis propias obras',
