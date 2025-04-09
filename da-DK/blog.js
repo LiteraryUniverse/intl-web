@@ -14,7 +14,7 @@ export default {
   } indstillinger`,
     'blog.description': 'Blog introduktion',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Ved at justere temaet kan du ændre udseendet af siden. Denne funktion er ikke klar på nuværende tidspunkt.',
+    'blog.theme.info': 'Ved at justere temaet kan du ændre sidens udseende. Denne funktion er ikke klar på nuværende tidspunkt.',
     'blog.posts.total': `Der {total, plural,
     zero {er ingen indlæg}
     one {er et indlæg}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Rediger {title}',
     'blog.post.text': 'Indlægtekst',
     'common.slug': 'SEO-venlig adresse',
-    'blog.slug.explained': 'En pæn URL til indlægget. Undgå at bruge specialtegn undtagen "-".',
+    'blog.slug.explained': 'Lav en flot URL til indlægget. Undgå at bruge specialtegn undtagen "-".',
     'blog.publicView': 'Offentlig visning',
     'blog.post.notfound': 'Blogindlæg blev ikke fundet',
     'blog.lists.works': `{type, select,
