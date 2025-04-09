@@ -2,23 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'প্রয়োজনীয় ক্ষেত্র',
     'form.validator.mustBeNumber': 'একটি সংখ্যা হতে হবে',
-    'form.validator.minNumber': 'অবশ্যই {min, number}-এর চেয়ে বড় হতে হবে',
-    'form.validator.maxNumber': 'অবশ্যই {max, number}-এর চেয়ে কম হতে হবে',
-    'form.validator.maxLength': `অবশ্যই {max, number} {what, select,
-    characters {অক্ষর}
-    tags {ট্যাগ}
-    genres {জনরে}
-    numbers {সংখ্যা}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
-  }এর চেয়ে কম হতে হবে`,
-    'form.validator.minLength': `অবশ্যই {min, number} {what, select,
-    characters {অক্ষর}
-    tags {ট্যাগ}
-    genres {জনরে}
-    genre {জনরে}
-    numbers {সংখ্যা}
+  }`,
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
-  }এর চেয়ে কম হতে হবে`,
+  }`,
     'form.validator.email': 'একটি বৈধ ইমেল হতে হবে',
     'form.validator.url': 'একটি বৈধ URL হতে হবে',
     'form.validator.slug': 'URL এর একটি বৈধ অংশ হতে হবে',
