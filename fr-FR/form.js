@@ -16,7 +16,7 @@ export default {
     tags {tags}
     genres {genres}
     genre {genre}
-    numbers {nombres}
+    numbers {chiffres}
     other {}
   }`,
     'form.validator.email': 'Doit être un email valide',
