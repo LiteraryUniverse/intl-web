@@ -14,7 +14,7 @@ export default {
   } ਸੈਟਿੰਗਾਂ`,
     'blog.description': 'ਬਲਾਗ ਦਾ ਪਰਿਚਯ',
     'blog.theme': 'ਥੀਮ',
-    'blog.theme.info': 'ਥੀਮ ਨੂੰ ਸੰਰਚਿਤ ਕਰਕੇ ਤੁਸੀਂ ਪੇਜ ਦੀ ਲੋਕ ਬਦਲ ਸਕਦੇ ਹੋ। ਇਹ ਸੁਵਿਧਾ ਇਸ ਸਮੇਂ ਤਿਆਰ ਨਹੀਂ ਹੈ।',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': '{title}ਸੋਧ ਰਹੇ ਹਨ',
     'blog.post.text': 'ਪੋਸਟ ਟੈਕਸਟ',
     'common.slug': 'SEO ਯੋਗ ਪ੍ਰਮਾਣਿਕ ਐਡਰੈੱਸ',
-    'blog.slug.explained': 'ਪੋਸਟ ਲਈ ਸੁੰਦਰ URL। ਖਾਸ ਅੱਖਰ ਤੋਂ ਬਾਅਦ ਖਾਸ ਅੱਖਰ ਵਰਤੋਂ ਤੋਂ ਬਚੋ।',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'ਜਨਤਕ ਵੇਖਾਓ',
     'blog.post.notfound': 'ਬਲਾਗ ਪੋਸਟ ਨਹੀਂ ਲੱਭੀ',
     'blog.lists.works': `{type, select,
