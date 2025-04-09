@@ -2,24 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Povinné pole',
     'form.validator.mustBeNumber': 'Musí být číslo',
-    'form.validator.minNumber': 'Mělo by být větší než {min, number}',
-    'form.validator.maxNumber': 'Mělo by být menší než {max, number}',
-    'form.validator.maxLength': `Mělo by mít alespoň {max, number} {what, select,
-    characters {písmen}
-    tags {tagů}
-    genres {žánrů}
-    genre {žánr}
-    numbers {čísel}
+    'form.validator.minNumber': 'Musí být větší než {min, number}',
+    'form.validator.maxNumber': 'Musí být nižší než {max, number}',
+    'form.validator.maxLength': `Musí být menší než {max, number} {what, select,
+    characters {znaky}
+    tags {značky}
+    genres {žánry}
+    numbers {čísla}
     other {}
-  }`,
-    'form.validator.minLength': `Mělo by mít alespoň {min, number} {what, select,
-    characters {písmen}
-    tags {tagů}
-    genres {žánrů}
-    genre {žánr}
-    numbers {čísel}
+  }.`,
+    'form.validator.minLength': `Musí obsahovat alespoň {min, number} {what, select,
+    characters {znaky}
+    tags {značky}
+    genres {žánry}
+    genre {druh}
+    numbers {čísla}
     other {}
-  }`,
+  }.`,
     'form.validator.email': 'Musí být validní e-mail',
     'form.validator.url': 'Musí být validní URL',
     'form.validator.slug': 'Musí být validní část URL adresy',
