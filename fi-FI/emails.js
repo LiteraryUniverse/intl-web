@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Ystävällisin terveisin,<br />Literary Universen tiimi',
     // Enrollment
     'email.enrollAccount.welcome': 'Tervetuloa kyytiin',
-    'email.enrollAccount.messageHtml': 'Haluamme kutsua sinut Literary Universeen! Olemme valmistelleet sinulle henkilökohtaisen tilin, josta voit käyttää kaikkia Literary Universen ominaisuuksia! Liity kanssamme luomaan seuraavan sukupolven luovan kirjoittamisen ja lukemisen työkaluja!',
+    'email.enrollAccount.messageHtml': 'Haluamme kutsua sinut Literary Universeen! Valmistelimme sinulle henkilökohtaisen tilin, jolla pääset käyttämään kaikkia Literary Universen ominaisuuksia. Tule mukaan luomaan luovan kirjoittamisen ja lukemisen seuraavaa sukupolvea!',
     'email.enrollAccount.button': 'Avaa tilisi',
-    'email.enrollAccount.signature': 'Odotamme innolla tapaamistamme,<br />Literary Universe -tiimi',
+    'email.enrollAccount.signature': 'Odotamme innolla tapaamistanne,<br />Literary Universe -tiimi.',
     // Reset password
-    'email.resetPassword.messageHtml': 'Olemme vastaanottaneet pyynnön salasanan palauttamiseksi tilillesi. Ole hyvä ja klikkaa alla olevaa painiketta jatkaaksesi prosessia. Mikäli et ole tehnyt tätä pyyntöä, voit jättää tämän sähköpostin huomiotta, mutta nyt voisi olla hyvä hetki tarkistaa turvallisuusasetuksesi.',
+    'email.resetPassword.messageHtml': 'Olemme saaneet pyynnön tilisi salasanan palauttamisesta. Klikkaa alla olevaa painiketta jatkaaksesi prosessia. Jos et ole tehnyt tätä pyyntöä, voit jättää tämän sähköpostiviestin huomiotta, mutta saattaa olla hyvä aika tarkistaa suojausasetuksesi.',
     'email.resetPassword.button': 'Palauta salasana',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Olemme iloisia, että olet mukana! Ole hyvä ja klikkaa alla olevaa painiketta vahvistaaksesi tämän sähköpostiosoitteen.',
+    'email.verifyEmail.messageHtml': 'Olemme iloisia saadessamme sinut mukaan! Vahvista tämä sähköpostiosoite klikkaamalla alla olevaa painiketta.',
     'email.verifyEmail.button': 'Vahvista tämä sähköpostiosoite',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Tilisi on päivitetty',
