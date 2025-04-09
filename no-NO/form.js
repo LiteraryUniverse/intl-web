@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Påkrevd felt',
     'form.validator.mustBeNumber': 'Må være et nummer',
-    'form.validator.minNumber': 'Må være større enn {min, number}',
-    'form.validator.maxNumber': 'Må være mindre enn {max, number}',
-    'form.validator.maxLength': `Skal være mindre enn {max, number} {what, select,
-    characters {tegn}
-    tags {koder}
-    genres {sjangere}
-    numbers {tall}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Skal være minst {min, number} {what, select,
-    characters {tegn}
-    tags {koder}
-    genres {sjangere}
-    genre {sjanger}
-    numbers {tall}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Må være en gyldig e-postadresse',
