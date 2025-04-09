@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Buat satu sekarang!',
     'workshop.fictionalTime.createTitle': 'Buat waktu fiktif baru',
     'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Di sini Anda dapat membuat waktu fiksi Anda sendiri. Saat ini alat ini terbatas dan hanya mampu membuat waktu simetris
-        . Ini berarti Anda tidak dapat membuat ulang kalender Maya atau Masehi.
-        Pada saat ini
-        alat ini mengharapkan bahwa semua waktu selalu sama, misalnya bulan selalu 30 hari tidak ada pengecualian dan seterusnya.
-        Kami akan membahas hal ini di versi selanjutnya, tetapi sampai saat itu alat ini lebih cocok untuk membuat waktu berbasis fiksi ilmiah.`,
+    'workshop.fictionalTime.formDescription': `Di sini Anda dapat membuat waktu fiksi Anda sendiri. Saat ini, alat ini terbatas dan hanya mampu menciptakan waktu simetris
+        . Ini berarti Anda tidak dapat membuat ulang kalender Maya atau kalender Gregorian.
+        Pada saat ini,
+        alat ini mengharapkan bahwa semua periode waktu selalu sama, misalnya, bulan selalu memiliki 30 hari tanpa pengecualian dan seterusnya.
+        Kami akan membahas hal ini di versi selanjutnya, tetapi sampai saat itu, alat ini lebih cocok untuk membuat sistem waktu berbasis fiksi ilmiah.`,
     'workshop.fictionalTime.timeName': 'Nama waktu',
     'workshop.fictionalTime.basicInfo': 'Informasi dasar',
     'workshop.fictionalTime.timeSetup': 'Pengaturan waktu',
     'workshop.fictionalTime.linkedToET': 'Apakah waktu ini dimulai pada tanggal Bumi (kalender Gregorian)?',
     'workshop.fictionalTime.timeDeclaration': 'Pernyataan waktu',
-    'workshop.fictionalTime.declarationLocation': 'Di mana seharusnya nama waktu dinyatakan?',
+    'workshop.fictionalTime.declarationLocation': 'Di mana nama waktu harus dinyatakan?',
     'workshop.fictionalTime.declarationBefore': 'Sebelum unit',
     'workshop.fictionalTime.declarationAfter': 'Setelah unit',
     'workshop.fictionalTime.declarationNone': 'Tidak ada',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Telah secara otomatis ditunda karena tidak ada bab baru yang diterbitkan selama lebih dari 6 bulan.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Status ini akan secara otomatis dicabut jika Anda menerbitkan bab baru. Jika Anda tidak menerbitkan bab baru dalam 6 bulan ke depan, kami akan secara otomatis mengatur cerita ini sebagai dibatalkan.',
     'workshop.statusChangeEmail.cancellationIntro': 'Status cerita Anda secara otomatis diatur menjadi dibatalkan.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Ini terjadi karena Anda tidak memposting bab baru untuk cerita sejak diatur menjadi hiatus 6 bulan yang lalu. Jadi setelah satu tahun tidak aktif, kami secara otomatis mengatur cerita sebagai dibatalkan agar pembaca tahu cerita mana yang aktif.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Hal ini terjadi karena Anda belum memposting bab baru pada cerita tersebut sejak cerita tersebut ditetapkan untuk hiatus 6 bulan yang lalu. Setelah satu tahun tidak aktif, kami secara otomatis mengatur cerita menjadi dibatalkan agar pembaca tahu cerita mana yang aktif.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Status ini akan secara otomatis dicabut jika Anda menerbitkan bab baru. Jika Anda tidak berencana untuk melanjutkan cerita ini, tidak ada yang perlu Anda lakukan.',
     'workshop.startCreating': 'Mulai membuat',
     'workshop.ownWork': 'Karya sendiri',
