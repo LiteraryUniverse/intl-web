@@ -1,7 +1,7 @@
 export default {
     'feedback.home': 'Hilfecenter',
     'feedback.bugs': 'Probleme',
-    'feedback.bugs.desc': 'Ist Ihnen ein Fehler aufgefallen oder etwas anderes, das falsch oder fehl am Platz ist. Lassen Sie es uns hier wissen!',
+    'feedback.bugs.desc': 'Sind Sie auf einen Fehler gestoßen oder haben Sie etwas anderes gefunden, das falsch oder fehl am Platz ist? Lassen Sie es uns hier wissen!',
     'feedback.features': 'Ideen & Vorschläge',
     'feedback.features.desc': 'Haben Sie Ideen für neue Funktionen oder wie man die Seite besser machen kann? Lassen Sie es uns wissen!',
     'feedback.help': 'Hilfe & Tutorials',
@@ -44,7 +44,7 @@ export default {
     'feedback.report.reportSaved': 'Vielen Dank für die Meldung! Wir werden das Problem untersuchen und bei Bedarf Maßnahmen ergreifen.',
     'feedback.report.copyrightReportSaved': 'Vielen Dank für die Meldung! Wir werden das untersuchen und uns melden.',
     'feedback.report.copyrightOwnershipDesc': 'Eigentumsnachweis',
-    'feedback.report.copyrightNotice': 'Bitte beachten Sie, dass Sie der rechtmäßige Eigentümer des Werks sein müssen, um dieses Formular zu verwenden. Wenn Sie nicht der Eigentümer sind, informieren Sie bitte den Eigentümer oder verwenden Sie die andere Kategorie, um uns zu informieren. Wir nehmen Urheberrechtsverletzungen äußerst ernst und dasselbe gilt für die unsachgemäße und missbräuchliche Verwendung dieses Formulars.',
+    'feedback.report.copyrightNotice': 'Bitte beachten Sie, dass Sie der rechtmäßige Eigentümer des Werks sein müssen, um dieses Formular verwenden zu können. Wenn Sie nicht der Eigentümer sind, informieren Sie bitte den Eigentümer oder verwenden Sie die andere Kategorie, um uns zu informieren. Wir nehmen Verstöße gegen das Urheberrecht sehr ernst, und das Gleiche gilt für die unsachgemäße und missbräuchliche Verwendung dieses Formulars.',
     'feedback.report.copyrightInternalProperty': 'Ich habe diese Arbeit auf Literary Universe veröffentlicht',
     'feedback.reportType.spam': 'Spam oder Phishing',
     'feedback.reportType.soliciting': 'Fordern Sie  an.',
