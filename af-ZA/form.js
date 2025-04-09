@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Verpligte veld',
     'form.validator.mustBeNumber': 'Moet \'n nommer wees',
-    'form.validator.minNumber': 'Moet groter as {min, number}wees',
-    'form.validator.maxNumber': 'Moet kleiner as {max, number}wees',
-    'form.validator.maxLength': `Moet minder as {max, number} {what, select,
-    characters {karakters}
-    tags {etikette}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
     genres {genres}
-    numbers {nommers}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Moet ten minste {min, number} {what, select,
-    characters {karakters}
-    tags {etikette}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
     genres {genres}
     genre {genre}
-    numbers {nommers}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Moet \'n geldige e-pos wees',
