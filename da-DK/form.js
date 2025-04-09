@@ -3,7 +3,7 @@ export default {
     'form.validator.required': 'Obligatorisk felt',
     'form.validator.mustBeNumber': 'Skal være et tal',
     'form.validator.minNumber': 'Skal være større end {min, number}',
-    'form.validator.maxNumber': 'Skal være mindre end {max, number}',
+    'form.validator.maxNumber': 'Skal være lavere end {max, number}',
     'form.validator.maxLength': `Skal være mindre end {max, number} {what, select,
     characters {tegn}
     tags {tags}
