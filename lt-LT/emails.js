@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Su pagarba,<br />Literatūrinės Visatos komanda',
     // Enrollment
     'email.enrollAccount.welcome': 'Sveiki atvykę į mūsų komandą',
-    'email.enrollAccount.messageHtml': 'Mes norėtume pakviesti jus į Literatūrinę Visatą! Mes jau sukūrėme jums asmeninę paskyrą, kurioje galėsite pasiekti visus Literatūrinės Visatos funkcionalumus! Prašome prisijungti prie mūsų kuriant ateities kūrybinės rašymo ir skaitymo įrankius!',
+    'email.enrollAccount.messageHtml': 'Kviečiame į Literatūros visatą! Mes parengėme jums asmeninę paskyrą, kurioje galėsite naudotis visomis "Literary Universe" funkcijomis. Prisijunkite prie mūsų ir kurkite naują kūrybinio rašymo ir skaitymo kartą!',
     'email.enrollAccount.button': 'Pasiekti savo paskyrą',
-    'email.enrollAccount.signature': 'Mes laukiame Jūsų,<br />Literatinės Visatos komanda',
+    'email.enrollAccount.signature': 'Laukiame jūsų,<br />Literatūrinės visatos komanda',
     // Reset password
-    'email.resetPassword.messageHtml': 'Mes gavome prašymą atkurti Jūsų slaptažodį Jūsų paskyrai, prašome paspausti žemiau esantį mygtuką, kad tęstumėte procesą. Jei Jūs nesate padaręs šio prašymo, galite ignoruoti šį el. laišką, tačiau tai gali būti geras laikas peržiūrėti saugumo nustatymus.',
+    'email.resetPassword.messageHtml': 'Gavome prašymą iš naujo nustatyti jūsų paskyros slaptažodį. Norėdami tęsti procesą, spustelėkite toliau esantį mygtuką. Jei tokio prašymo nepateikėte, galite nekreipti dėmesio į šį el. laišką, tačiau galbūt pats laikas peržiūrėti savo saugumo nustatymus.',
     'email.resetPassword.button': 'Atkurti slaptažodį',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Džiaugiamės, kad Jūs prisijungėte! Prašome paspausti žemiau esantį mygtuką, kad patvirtintumėte šį el. pašto adresą.',
+    'email.verifyEmail.messageHtml': 'Džiaugiamės galėdami jus priimti į savo gretas! Spustelėkite toliau esantį mygtuką, kad patikrintumėte šį el. pašto adresą.',
     'email.verifyEmail.button': 'Patvirtinti šį el. pašto adresą',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Jūsų paskyra buvo atnaujinta',
