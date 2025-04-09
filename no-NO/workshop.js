@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Opprett en nå!',
     'workshop.fictionalTime.createTitle': 'Opprett en ny oppdiktet tid',
     'workshop.fictionalTime.editTitle': 'Rediger {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Tidspunktets navn',
     'workshop.fictionalTime.basicInfo': 'Grunnleggende informasjon',
     'workshop.fictionalTime.timeSetup': 'Tidsoppsett',
     'workshop.fictionalTime.linkedToET': 'Starter denne tiden på en jordisk dato (gregoriansk kalender)?',
     'workshop.fictionalTime.timeDeclaration': 'Tidsangivelse',
-    'workshop.fictionalTime.declarationLocation': 'Hvor skal tidspunktets navn angis?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Før enheter',
     'workshop.fictionalTime.declarationAfter': 'Etter enheter',
     'workshop.fictionalTime.declarationNone': 'Ingen',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Har blitt automatisk satt på pause fordi det ikke har blitt publisert et nytt kapittel på over 6 måneder.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Denne statusen vil automatisk bli opphevet hvis du publiserer et nytt kapittel. Hvis du ikke publiserer et nytt kapittel innen de neste 6 månedene, vil vi automatisk sette historien som kansellert.',
     'workshop.statusChangeEmail.cancellationIntro': 'Statusen til historien din ble automatisk satt til kansellert.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Dette har skjedd fordi du ikke har lagt ut noen nye kapitler til historien siden den ble satt på pause for 6 måneder siden. Etter et år med inaktivitet setter vi automatisk historier som kansellert slik at leserne vet hvilke historier som er aktive.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Denne statusen vil automatisk bli opphevet hvis du publiserer et nytt kapittel. Hvis du ikke har planer om å jobbe mer med denne historien, trenger du ikke å gjøre noe annet.',
     'workshop.startCreating': 'Start å lage',
     'workshop.ownWork': 'Eget arbeid',
