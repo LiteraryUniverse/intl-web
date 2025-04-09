@@ -134,16 +134,16 @@ export default {
     'workshop.fictionalTime.createTitle': '새로운 허구적인 시간 만들기',
     'workshop.fictionalTime.editTitle': '편집 {ftName}',
     'workshop.fictionalTime.formDescription': `여기에서 나만의 가상의 시간을 만들 수 있습니다. 현재 이 도구는 제한적이며
-        대칭 시간만 만들 수 있습니다. 즉, 마야력이나 그레고리력을 재현할 수 없습니다. 현재
-        이 도구는 모든 시간이 항상 동일할 것으로 예상합니다(예: 달은 예외 없이 항상 30일이므로
-        등). 이후 버전에서 이 문제를 해결할 예정이지만 그때까지는 이 도구가 주로
-        공상 과학 기반 시간을 만드는 데 더 적합합니다.`,
+        대칭 시간만 만들 수 있습니다. 즉, 마야력이나 그레고리력을 다시 만들 수 없습니다. 현재
+        이 도구는 모든 기간이 항상 동일할 것으로 예상합니다(예: 월은 예외 없이 항상 30일 등
+        ). 이후 버전에서 이 문제를 해결할 예정이지만 그때까지는 이 도구가 주로
+        공상 과학 기반 시간 시스템을 만드는 데 더 적합합니다.`,
     'workshop.fictionalTime.timeName': '시간 이름',
     'workshop.fictionalTime.basicInfo': '기본 정보',
     'workshop.fictionalTime.timeSetup': '시간 설정',
     'workshop.fictionalTime.linkedToET': '이 시간은 지구 날짜(그레고리력)에서 시작합니까?',
     'workshop.fictionalTime.timeDeclaration': '시간 선언',
-    'workshop.fictionalTime.declarationLocation': '시간 이름은 어디에 선언되어야 합니까?',
+    'workshop.fictionalTime.declarationLocation': '시간 이름은 어디에 선언해야 하나요?',
     'workshop.fictionalTime.declarationBefore': '단위 앞에',
     'workshop.fictionalTime.declarationAfter': '단위 뒤에',
     'workshop.fictionalTime.declarationNone': '없음',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': '6개월 이상 새로운 챕터를 게시하지 않아 자동으로 휴지 상태로 전환되었습니다.',
     'workshop.statusChangeEmail.hiatusWhatFollows': '새로운 챕터를 게시하면 이 상태는 자동으로 해제됩니다. 다음 6개월 동안 새로운 챕터를 게시하지 않으면 이야기를 자동으로 취소로 설정합니다.',
     'workshop.statusChangeEmail.cancellationIntro': '당신의 이야기 상태가 자동으로 취소로 설정되었습니다.',
-    'workshop.statusChangeEmail.cancellationWhy': '이는 6개월 전 휴지 상태로 설정된 후 이야기에 새로운 챕터를 게시하지 않았기 때문에 발생한 것입니다. 그래서 1년 동안 활동이 없는 이야기는 자동으로 취소로 설정되어 독자들이 어떤 이야기가 활성화되어 있는지 알 수 있도록 합니다.',
+    'workshop.statusChangeEmail.cancellationWhy': '6개월 전에 스토리가 일시 중단으로 설정된 이후 새 챕터를 게시하지 않았기 때문에 이런 일이 발생했습니다. 1년 동안 활동이 없으면 자동으로 스토리를 취소로 설정하여 독자가 어떤 스토리가 활성화되어 있는지 알 수 있도록 합니다.',
     'workshop.statusChangeEmail.cancellationWhatFollows': '새로운 챕터를 게시하면 이 상태는 자동으로 해제됩니다. 이야기에 더 이상 작업할 계획이 없다면 할 일은 없습니다.',
     'workshop.startCreating': '만들기 시작',
     'workshop.ownWork': '자신의 작품',
