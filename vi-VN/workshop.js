@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Hãy tạo một thời gian hư cấu ngay bây giờ!',
     'workshop.fictionalTime.createTitle': 'Tạo một thời gian hư cấu mới',
     'workshop.fictionalTime.editTitle': 'Chỉnh sửa {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Tên thời gian',
     'workshop.fictionalTime.basicInfo': 'Thông tin cơ bản',
     'workshop.fictionalTime.timeSetup': 'Thiết lập thời gian',
     'workshop.fictionalTime.linkedToET': 'Thời gian này có bắt đầu từ một ngày trên Trái Đất (lịch Gregory) không?',
     'workshop.fictionalTime.timeDeclaration': 'Tuyên bố thời gian',
-    'workshop.fictionalTime.declarationLocation': 'Nơi nên tuyên bố tên thời gian?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Trước các đơn vị',
     'workshop.fictionalTime.declarationAfter': 'Sau các đơn vị',
     'workshop.fictionalTime.declarationNone': 'Không có',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Đã tự động đưa câu chuyện vào tạm ngưng do không có chương mới được đăng trong hơn 6 tháng.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Trạng thái này sẽ được tự động bỏ nếu bạn đăng một chương mới. Nếu bạn không đăng một chương mới trong 6 tháng tới, chúng tôi sẽ tự động đặt câu chuyện là đã hủy.',
     'workshop.statusChangeEmail.cancellationIntro': 'Trạng thái câu chuyện của bạn đã tự động chuyển sang đã hủy.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Điều này đã xảy ra vì bạn không đăng bất kỳ chương mới nào cho câu chuyện kể từ khi nó được đặt vào tạm ngưng 6 tháng trước. Vì vậy, sau một năm không hoạt động, chúng tôi tự động đặt câu chuyện là đã hủy để độc giả biết những câu chuyện nào đang hoạt động.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Trạng thái này sẽ được tự động bỏ nếu bạn đăng một chương mới. Nếu bạn không có ý định làm việc với câu chuyện này nữa, không có gì khác bạn cần phải làm.',
     'workshop.startCreating': 'Bắt đầu tạo',
     'workshop.ownWork': 'Công việc của bạn',
