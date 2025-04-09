@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Med vänliga hälsningar,<br />Literary Universe-teamet',
     // Enrollment
     'email.enrollAccount.welcome': 'Välkommen ombord',
-    'email.enrollAccount.messageHtml': 'Vi skulle vilja bjuda in dig till Literary Universe! Vi har gått vidare och förberett ett personligt konto för dig där du kan få tillgång till alla funktioner i Literary Universe! Var med oss och skapa nästa generation av kreativt skrivande och läsning!',
+    'email.enrollAccount.messageHtml': 'Vi vill gärna bjuda in dig till Litterärt Universum! Vi har förberett ett personligt konto åt dig där du kan få tillgång till alla funktioner i Literary Universe. Var med och skapa nästa generations kreativa skrivande och läsande!',
     'email.enrollAccount.button': 'Få tillgång till ditt konto',
-    'email.enrollAccount.signature': 'Vi ser fram emot att se dig,<br />Literary Universe-teamet',
+    'email.enrollAccount.signature': 'Vi ser fram emot att träffa dig,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Vi har fått en begäran om att återställa ditt lösenord för ditt konto, klicka på knappen nedan för att fortsätta processen. Om du inte har gjort denna begäran kan du ignorera detta e-postmeddelande, men det kan vara en bra tid att granska dina säkerhetsinställningar.',
+    'email.resetPassword.messageHtml': 'Vi har fått en begäran om att återställa lösenordet för ditt konto. Vänligen klicka på knappen nedan för att fortsätta processen. Om du inte har gjort denna begäran kan du ignorera detta e-postmeddelande, men det kan vara en bra tid att se över dina säkerhetsinställningar.',
     'email.resetPassword.button': 'Återställ lösenord',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Vi är glada att ha dig ombord! Klicka på knappen nedan för att verifiera denna e-postadress.',
+    'email.verifyEmail.messageHtml': 'Vi är glada att ha dig ombord! Vänligen klicka på knappen nedan för att verifiera denna e-postadress.',
     'email.verifyEmail.button': 'Verifiera denna e-postadress',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Ditt konto har uppgraderats',
