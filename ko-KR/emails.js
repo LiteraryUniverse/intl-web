@@ -17,14 +17,14 @@ export default {
     'email.signature': '진심으로,<br />문학 우주 팀',
     // Enrollment
     'email.enrollAccount.welcome': '환영합니다',
-    'email.enrollAccount.messageHtml': '문학 우주에 초대합니다! 우리는 이미 귀하를 위한 개인 계정을 준비했습니다. 여기에서 문학 우주의 모든 기능에 액세스할 수 있습니다! 다음 세대의 창작 및 독서에 참여해 주세요!',
+    'email.enrollAccount.messageHtml': '문학의 세계로 여러분을 초대합니다! 문학 유니버스의 모든 기능에 액세스할 수 있는 개인 계정을 준비했습니다. 차세대 창의적인 글쓰기와 독서를 창조하는 데 동참해 주세요!',
     'email.enrollAccount.button': '계정에 액세스하세요',
-    'email.enrollAccount.signature': '<br />Literary Universe 팀을 만나기를 기대하고 있습니다.',
+    'email.enrollAccount.signature': '여러분의 방문을 기대합니다,<br />문학 유니버스 팀',
     // Reset password
-    'email.resetPassword.messageHtml': '귀하의 계정 비밀번호 재설정 요청을 받았습니다. 계속 진행하려면 아래 버튼을 클릭하십시오. 만약 이 요청을 하지 않았다면, 이 이메일을 무시하셔도 됩니다. 하지만 보안 설정을 확인하는 좋은 시기일 수도 있습니다.',
+    'email.resetPassword.messageHtml': '계정에 대한 비밀번호 재설정 요청을 받았습니다. 아래 버튼을 클릭하여 절차를 계속 진행하세요. 이 요청을 하지 않았다면 이 이메일을 무시해도 되지만, 보안 설정을 검토해 보는 것이 좋습니다.',
     'email.resetPassword.button': '비밀번호 재설정',
     // E-mail verification
-    'email.verifyEmail.messageHtml': '환영합니다! 이 이메일 주소를 확인하려면 아래 버튼을 클릭하십시오.',
+    'email.verifyEmail.messageHtml': '함께하게 되어 기쁩니다! 이 이메일 주소를 확인하려면 아래 버튼을 클릭하세요.',
     'email.verifyEmail.button': '이 이메일 주소 확인',
     // Getting premium from admins
     'email.adminUpgrade.subject': '계정이 업그레이드되었습니다',
