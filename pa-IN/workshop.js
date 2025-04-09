@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'ਹੁਣ ਇੱਕ ਨਵਾਂ ਬਣਾਉਣ ਕਰੋ!',
     'workshop.fictionalTime.createTitle': 'ਇੱਕ ਨਵਾਂ ਕਲਪਨਿਕ ਸਮਾਂ ਬਣਾਓ',
     'workshop.fictionalTime.editTitle': 'ਸੋਧੋ {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'ਸਮਾਂ ਦਾ ਨਾਂ',
     'workshop.fictionalTime.basicInfo': 'ਮੁੱਖ ਜਾਣਕਾਰੀ',
     'workshop.fictionalTime.timeSetup': 'ਸਮਾਂ ਸੈੱਟਅੱਪ',
     'workshop.fictionalTime.linkedToET': 'ਕੀ ਇਹ ਸਮਾਂ ਇੱਕ ਧਰਤੀ ਦੀ ਮਿਤੀ \'ਤੇ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ (ਗਰੇਗੋਰੀਅਨ ਕੈਲੰਡਰ)?',
     'workshop.fictionalTime.timeDeclaration': 'ਸਮਾਂ ਦਾ ਐਲਾਨ',
-    'workshop.fictionalTime.declarationLocation': 'ਸਮਾਂ ਦਾ ਨਾਂ ਕਿੱਥੇ ਐਲਾਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'ਇਕਾਈਆਂ ਤੋਂ ਪਹਿਲਾਂ',
     'workshop.fictionalTime.declarationAfter': 'ਇਕਾਈਆਂ ਤੋਂ ਬਾਅਦ',
     'workshop.fictionalTime.declarationNone': 'ਕੋਈ ਨਹੀਂ',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'ਕਿਉਂਕਿ ਇਸ ਕਹਾਣੀ ਵਿੱਚ ਕੋਈ ਨਵਾਂ ਅਧਿਆਇਆ ਨਹੀਂ ਪ੍ਰਕਾਸ਼ਿਤ ਹੋਇਆ ਹੈ ਇਸ ਲਈ ਇਹ ਆਟੋਮੈਟਿਕ ਤੌਰ \'ਤੇ ਹਾਇਏਟਸ ਕਰ ਦਿੱਤੀ ਗਈ ਹੈ ਜੋ ਕਿ 6 ਮਹੀਨੇ ਤੋਂ ਵੱਧ ਹੋ ਗਏ ਹਨ।',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'ਜੇ ਤੁਸੀਂ ਇਸ ਕਹਾਣੀ ਵਿੱਚ ਇਕ ਨਵਾਂ ਅਧਿਆਇਆ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਦੇ ਹੋ ਤਾਂ ਇਹ ਸਥਿਤੀ ਆਟੋਮੈਟਿਕ ਤੌਰ \'ਤੇ ਹਟ ਜਾਵੇਗੀ। ਜੇ ਤੁਸੀਂ ਅਗਲੇ 6 ਮਹੀਨੇ ਵਿੱਚ ਇਸ ਕਹਾਣੀ ਵਿੱਚ ਕੋਈ ਨਵਾਂ ਅਧਿਆਇਆ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕਰਦੇ ਤਾਂ ਅਸੀਂ ਕਹਾਣੀ ਨੂੰ ਆਟੋਮੈਟਿਕ ਤੌਰ \'ਤੇ ਰੱਦ ਕਰ ਦੇਵਾਂਗੇ।',
     'workshop.statusChangeEmail.cancellationIntro': 'ਤੁਹਾਡੀ ਕਹਾਣੀ ਦੀ ਸਥਿਤੀ ਆਟੋਮੈਟਿਕ ਤੌਰ \'ਤੇ ਰੱਦ ਕਰ ਦਿੱਤੀ ਗਈ ਹੈ।',
-    'workshop.statusChangeEmail.cancellationWhy': 'ਇਸ ਦਾ ਕਾਰਨ ਇਹ ਹੋਇਆ ਹੈ ਕਿ ਤੁਸੀਂ ਕਹਾਣੀ ਨੂੰ ਹਾਇਏਟਸ ਕਰਨ ਦੇ 6 ਮਹੀਨੇ ਪਹਿਲਾਂ ਤੋਂ ਇਸ ਵਿੱਚ ਕੋਈ ਨਵਾਂ ਅਧਿਆਇਆ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕੀਤਾ ਹੈ। ਇਸ ਲਈ ਇਸ ਨਿਸ਼ਕਰਮਤਾ ਦੇ ਸਾਲ ਦੇ ਬਾਅਦ ਅਸੀਂ ਆਟੋਮੈਟਿਕ ਤੌਰ \'ਤੇ ਕਹਾਣੀਆਂ ਰੱਦ ਕਰ ਦਿੱਤੀਆਂ ਹਨ ਜਿਸ ਨਾਲ ਪੜ੍ਹਨ ਵਾਲਿਆਂ ਨੂੰ ਪਤਾ ਲੱਗ ਸਕੇ ਕਿ ਕਿਹੜੀ ਕਹਾਣੀਆਂ ਚੱਲ ਰਹੀਆਂ ਹਨ।',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'ਜੇ ਤੁਸੀਂ ਇਸ ਕਹਾਣੀ ਉੱਤੇ ਕੰਮ ਨਹੀਂ ਕਰਨ ਦੀ ਸੋਚ ਰਹੇ ਹੋ ਤਾਂ ਤੁਹਾਨੂੰ ਕੁਝ ਵੀ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।',
     'workshop.startCreating': 'ਬਣਾਓ ਸ਼ੁਰੂ',
     'workshop.ownWork': 'ਆਪਣੀ ਮਿਹਨਤ',
