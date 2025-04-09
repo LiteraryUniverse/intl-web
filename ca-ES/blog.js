@@ -14,7 +14,7 @@ export default {
   } settings`,
     'blog.description': 'Introducció al blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'En ajustar el tema podràs canviar l\'aparença de la pàgina. Aquesta funció no està preparada en aquest moment.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `Hi ha {total, plural,
     zero {cap entrada}
     one {una entrada}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Editar {title}',
     'blog.post.text': 'Text de l\'entrada',
     'common.slug': 'Adreça SEO amigable',
-    'blog.slug.explained': 'URL atractiva per a l\'entrada. Evita utilitzar caràcters especials excepte "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Vista pública',
     'blog.post.notfound': 'No s\'ha trobat l\'entrada del blog',
     'blog.lists.works': `{type, select,
