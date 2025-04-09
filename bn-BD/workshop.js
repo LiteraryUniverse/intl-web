@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'এখন একটি তৈরি করুন!',
     'workshop.fictionalTime.createTitle': 'একটি নতুন কল্পকাহিনীক সময় তৈরি করুন',
     'workshop.fictionalTime.editTitle': 'সম্পাদনা করুন {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'সময়ের নাম',
     'workshop.fictionalTime.basicInfo': 'মৌলিক তথ্য',
     'workshop.fictionalTime.timeSetup': 'সময় সেটআপ',
     'workshop.fictionalTime.linkedToET': 'এই সময়টি একটি পৃথিবীর তারিখে (গ্রেগোরিয়ান পঞ্জিকা) শুরু হয়?',
     'workshop.fictionalTime.timeDeclaration': 'সময় ঘোষণা',
-    'workshop.fictionalTime.declarationLocation': 'সময়ের নাম কোথায় ঘোষণা করা উচিত?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'এককের আগে',
     'workshop.fictionalTime.declarationAfter': 'এককের পরে',
     'workshop.fictionalTime.declarationNone': 'কোনটিই না',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'কোন নতুন অধ্যায় প্রকাশিত না হওয়ার কারণে স্বয়ংক্রিয়ভাবে 6 মাসের বেশি সময় ধরে আপনার গল্পটি হায়েটাসে রাখা হয়েছে।',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'এই স্থিতি স্বয়ংক্রিয়ভাবে সরানো হবে যদি আপনি একটি নতুন অধ্যায় প্রকাশ করেন। যদি আপনি পরবর্তি 6 মাসে কোন নতুন অধ্যায় প্রকাশ না করেন তবে আমরা স্বয়ংক্রিয়ভাবে গল্পটি বাতিল হিসাবে সেট করব।',
     'workshop.statusChangeEmail.cancellationIntro': 'আপনার গল্পের স্থিতি স্বয়ংক্রিয়ভাবে বাতিল হিসাবে সেট করা হয়েছে।',
-    'workshop.statusChangeEmail.cancellationWhy': 'এটি ঘটেছে কারণ আপনি গল্পটির হায়েটাস হওয়ার 6 মাস পর থেকে কোন নতুন অধ্যায় পোস্ট করেননি। তাই আমরা 1 বছরের অনক্রিয়তা পরে স্বয়ংক্রিয়ভাবে গল্পগুলি বাতিল হিসাবে সেট করি যাতে পাঠকরা জানে কোন গল্পগুলি কার্যকর আছে।',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'এই স্থিতি স্বয়ংক্রিয়ভাবে সরানো হবে যদি আপনি একটি নতুন অধ্যায় প্রকাশ করেন। যদি আপনি এই গল্পে কাজ করতে না চান তবে আপনাকে আর কিছু করতে হবে না।',
     'workshop.startCreating': 'সৃষ্টি করতে শুরু করুন',
     'workshop.ownWork': 'নিজের কাজ',
