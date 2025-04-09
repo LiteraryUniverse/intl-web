@@ -19,16 +19,16 @@ export default {
   // Enrollment
   'email.enrollAccount.welcome': 'Welcome aboard',
   'email.enrollAccount.messageHtml':
-    'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe! Please join us in creating the next generation of creative writing and reading!',
+    'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
   'email.enrollAccount.button': 'Access your account',
-  'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+  'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
   // Reset password
   'email.resetPassword.messageHtml':
-    "We have received a request to reset your password for your account, please click on the button bellow to continue the process. If you haven't made this request you can ignore this e-mail, but it might be a good time to review your security settings.",
+    "We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven't made this request, you can ignore this e-mail, but it might be a good time to review your security settings.",
   'email.resetPassword.button': 'Reset password',
   // E-mail verification
   'email.verifyEmail.messageHtml':
-    'We are happy to have you on board! Please click the button bellow to verify this e-mail address.',
+    'We are happy to have you on board! Please click the button below to verify this e-mail address.',
   'email.verifyEmail.button': 'Verify this e-mail address',
   // Getting premium from admins
   'email.adminUpgrade.subject': 'Your account has been upgraded',

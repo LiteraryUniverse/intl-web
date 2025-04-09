@@ -2,7 +2,7 @@ export default {
   'feedback.home': 'Help center',
   'feedback.bugs': 'Issues',
   'feedback.bugs.desc':
-    'Did you encounter an error or something else that is wrong or out of place. Let us know here!',
+    'Did you encounter an error or something else that is wrong or out of place? Let us know here!',
   'feedback.features': 'Ideas & Proposals',
   'feedback.features.desc':
     'Have ideas for new features or how to make the site better? Let us know!',
@@ -22,7 +22,7 @@ export default {
   'feedback.lang.nosupport':
     'Your current language is not supported for feedback, please write in English. Thank you!',
   'feedback.new.thanks':
-    'Thank you for the notice! We will look into it shorty.',
+    'Thank you for the notice! We will look into it shortly.',
   'feedback.comment.title': 'Comment',
   'feedback.comment.desc': 'Send us your feedback',
   'feedback.comment.legend': 'Your feedback - let us know about anything',
@@ -52,7 +52,7 @@ export default {
     'Thank you for the report! We will investigate and be in touch.',
   'feedback.report.copyrightOwnershipDesc': 'Ownership statement',
   'feedback.report.copyrightNotice':
-    'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously and the same applies to improper and abusive use of this form.',
+    'Please note that you need to be the rightful owner of the work to use this form. If you are not the owner, please inform the owner or use the other category to inform us. We take copyright violations extremely seriously, and the same applies to improper and abusive use of this form.',
   'feedback.report.copyrightInternalProperty':
     'I have published this work on Literary Universe',
   'feedback.reportType.spam': 'Spam or phishing',
