@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'צור אחת כעת!',
     'workshop.fictionalTime.createTitle': 'צור זמן בדיוני חדש',
     'workshop.fictionalTime.editTitle': 'ערוך {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'שם הזמן',
     'workshop.fictionalTime.basicInfo': 'מידע בסיסי',
     'workshop.fictionalTime.timeSetup': 'הגדרת הזמן',
     'workshop.fictionalTime.linkedToET': 'האם הזמן הזה מתחיל בתאריך עפ"י הלוח הגרגוריאני (תאריך על פי כדור הארץ)?',
     'workshop.fictionalTime.timeDeclaration': 'הצהרת הזמן',
-    'workshop.fictionalTime.declarationLocation': 'היכן יש להצהיר על שם הזמן?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'לפני יחידות',
     'workshop.fictionalTime.declarationAfter': 'אחרי יחידות',
     'workshop.fictionalTime.declarationNone': 'אף אחד',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'הסיפור הונח במצב השהיה באופן אוטומטי משום שלא פורסם פרק חדש במשך למעלה מ-6 חודשים.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'הסטטוס יוסר באופן אוטומטי אם תפרסם פרק חדש. אם לא תפרסם פרק חדש בתוך ה-6 חודשים הקרובים, נגדיר באופן אוטומטי את הסיפור כמבוטל.',
     'workshop.statusChangeEmail.cancellationIntro': 'סטטוס הסיפור שלך הוגדר באופן אוטומטי למבוטל.',
-    'workshop.statusChangeEmail.cancellationWhy': 'זה קרה משום שלא פרסמת פרק חדש לסיפור מאז שהוגדר להשהיה לפני 6 חודשים. לכן, לאחר שנה של חוסר פעילות אנחנו מגדירים באופן אוטומטי סיפורים כמבוטלים כדי שהקוראים ידעו אילו סיפורים פעילים.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'הסטטוס יוסר באופן אוטומטי אם תפרסם פרק חדש. אם אין לך כוונה לעבוד על הסיפור יותר, אין צורך בפעולה נוספת.',
     'workshop.startCreating': 'התחל ליצור',
     'workshop.ownWork': 'יצירה עצמאית',
