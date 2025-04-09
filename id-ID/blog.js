@@ -14,7 +14,7 @@ export default {
   } pengaturan`,
     'blog.description': 'Pengenalan blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Dengan mengubah tema, Anda akan dapat mengubah tampilan halaman. Fitur ini belum siap saat ini.',
+    'blog.theme.info': 'Dengan menyesuaikan tema, Anda akan dapat mengubah tampilan halaman. Fitur ini belum tersedia saat ini.',
     'blog.posts.total': `Ada {total, plural,
     zero {postingan}
     one {ada satu postingan}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Mengedit {title}',
     'blog.post.text': 'Teks postingan',
     'common.slug': 'Alamat yang SEO friendly',
-    'blog.slug.explained': 'URL yang terlihat bagus untuk postingan. Hindari menggunakan karakter khusus kecuali "-".',
+    'blog.slug.explained': 'Buat URL yang terlihat bagus untuk postingan. Hindari penggunaan karakter khusus kecuali "-".',
     'blog.publicView': 'Tampilan publik',
     'blog.post.notfound': 'Postingan blog tidak ditemukan',
     'blog.lists.works': `{type, select,
