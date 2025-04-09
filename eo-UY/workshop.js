@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Kreu unu nun!',
     'workshop.fictionalTime.createTitle': 'Kreu novan fikcian tempon',
     'workshop.fictionalTime.editTitle': 'Redakti {ftName}',
-    'workshop.fictionalTime.formDescription': `Ĉi tie vi povas krei vian propran fikan tempon. Aktuale ĉi tiu ilo estas limigita kaj kapablas nur krei
-        simetriaĵojn. Tio signifas, ke vi ne povos rekrei la Majanan kalendaron aŭ la Gregorianan. Ĉe ĉi tiu momento
-        ĉi tiu ilo atendas, ke ĉiuj tempoj ĉiam estas samaj, ekzemple monatoj ĉiam havas 30 tagojn sen esceptoj kaj tiel
-        plu. Ni traktos tion en pli malnovaj versioj, sed ĝis tiam ĉi tiu ilo pli taŭgas por krei ĉefe
-        sciencfikciajn tempojn.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Nomo de tempo',
     'workshop.fictionalTime.basicInfo': 'Baza informo',
     'workshop.fictionalTime.timeSetup': 'Agordo de tempo',
     'workshop.fictionalTime.linkedToET': 'Ĉu ĉi tiu tempo komenciĝas je Tera dato (Gregoriana kalendaro)?',
     'workshop.fictionalTime.timeDeclaration': 'Deklaro de tempo',
-    'workshop.fictionalTime.declarationLocation': 'Kie devas esti deklarita la nomo de tempo?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Antaŭ unuoj',
     'workshop.fictionalTime.declarationAfter': 'Post unuoj',
     'workshop.fictionalTime.declarationNone': 'Nenio',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Estas aŭtomate haltigita pro manko de nova ĉapitro publikigita dum pli ol 6 monatoj.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Ĉi tiu statuso estos aŭtomate leviĝita se vi publikigos novan ĉapitron. Se vi ne publikos novan ĉapitron en la venontaj 6 monatoj, ni aŭtomate ŝaltos la rakonton kiel nuligita.',
     'workshop.statusChangeEmail.cancellationIntro': 'La statuso de via rakonto estis aŭtomate ŝaltita al nuligita.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Tio okazis ĉar vi ne afiŝis novan ĉapitron de la rakonto ekde ĝi estis ŝaltita al haltado antaŭ 6 monatoj. Do post jaro de neaktiveco, ni aŭtomate ŝaltas rakontojn kiel nuligitaj, por ke legantoj sciu kiuj rakontoj estas aktivaj.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Ĉi tiu statuso estos aŭtomate leviĝita se vi publikigos novan ĉapitron. Se vi ne planas plu labori pri ĉi tiu rakonto, vi ne bezonas fari ion alian.',
     'workshop.startCreating': 'Komenci krei',
     'workshop.ownWork': 'Propra laboro',
