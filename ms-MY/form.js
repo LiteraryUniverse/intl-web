@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Medan yang diperlukan',
     'form.validator.mustBeNumber': 'Mesti menjadi nombor',
-    'form.validator.minNumber': 'Harus lebih besar daripada {min, number}',
-    'form.validator.maxNumber': 'Harus lebih rendah daripada {max, number}',
-    'form.validator.maxLength': `Perlu kurang dari {max, number} {what, select,
-    characters {aksara}
-    tags {tag}
-    genres {genre}
-    numbers {nombor}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Perlu sekurang-kurangnya {min, number} {what, select,
-    characters {aksara}
-    tags {tag}
-    genres {genre}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
     genre {genre}
-    numbers {nombor}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Mesti menjadi e-mel yang sah',
