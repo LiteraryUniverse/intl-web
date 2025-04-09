@@ -135,15 +135,15 @@ export default {
     'workshop.fictionalTime.editTitle': 'Redaguoti {ftName}',
     'workshop.fictionalTime.formDescription': `Čia galite susikurti savo išgalvotą laiką. Šiuo metu šis įrankis yra ribotas ir gali kurti tik
         simetrinius laikus. Tai reiškia, kad negalėsite atkurti majų ar Grigaliaus kalendoriaus. Šiuo metu
-        šis įrankis tikisi, kad visi laikai visada bus vienodi, pvz. mėnesiai visada turi 30 dienų be jokių išimčių ir t. t.
-        . Šią problemą išspręsime vėlesnėse versijose, tačiau iki tol šis įrankis labiau tinka kurti visų pirma
-        moksline fantastika pagrįstus laikus.`,
+        šis įrankis tikisi, kad visi laiko periodai visada yra vienodi, pavyzdžiui, mėnesiai visada turi 30 dienų be jokių išimčių ir t. t.
+        . Šią problemą išspręsime vėlesnėse versijose, tačiau iki tol šis įrankis labiau tinka kurti daugiausia
+        sci-fi paremtas laiko sistemas.`,
     'workshop.fictionalTime.timeName': 'Laiko pavadinimas',
     'workshop.fictionalTime.basicInfo': 'Pagrindinė informacija',
     'workshop.fictionalTime.timeSetup': 'Laiko nustatymas',
     'workshop.fictionalTime.linkedToET': 'Ar šis laikas prasideda Žemės datą (gregorių kalendorių)?',
     'workshop.fictionalTime.timeDeclaration': 'Laiko deklaracija',
-    'workshop.fictionalTime.declarationLocation': 'Kur turėtų būti deklaruotas laiko pavadinimas?',
+    'workshop.fictionalTime.declarationLocation': 'Kur turėtų būti nurodytas laiko pavadinimas?',
     'workshop.fictionalTime.declarationBefore': 'Prieš vienetus',
     'workshop.fictionalTime.declarationAfter': 'Po vienetų',
     'workshop.fictionalTime.declarationNone': 'Jokio',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Dėl to, kad per 6 mėnesius nebuvo išleista nauja skyrius, jūsų pasakojimas buvo automatiškai perkeltas į laikiną nutraukimą.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Šis statusas bus automatiškai pašalintas, jei išleisite naują skyrių. Jei per kitus 6 mėnesius neplanuojate išleisti naujo skyriaus, mes automatiškai nustatysime pasakojimą kaip atšauktą.',
     'workshop.statusChangeEmail.cancellationIntro': 'Jūsų pasakojimo statusas buvo automatiškai nustatytas kaip atšauktas.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Tai įvyko dėl to, kad jūs neįkėlėte jokio naujo skyriaus į pasakojimą nuo to laiko, kai jis buvo perkeltas į laikiną nutraukimą prieš 6 mėnesius. Taigi, po metų neveiklumo mes automatiškai nustatome pasakojimus kaip atšauktus, kad skaitytojai žinotų, kurie pasakojimai yra aktyvūs.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Taip atsitiko, nes nuo to laiko, kai prieš 6 mėnesius buvo paskelbta istorijos pertrauka, nepateikėte nė vieno naujo skyriaus. Po metų neaktyvumo mes automatiškai nustatome istorijas kaip atšauktas, kad skaitytojai žinotų, kurios istorijos yra aktyvios.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Šis statusas bus automatiškai pašalintas, jei išleisite naują skyrių. Jei neplanuojate daugiau dirbti su šiuo pasakojimu, jums nieko daugiau nereikia daryti.',
     'workshop.startCreating': 'Pradėkite kurti',
     'workshop.ownWork': 'Savo darbas',
