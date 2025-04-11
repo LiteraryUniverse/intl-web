@@ -276,5 +276,6 @@ export default {
     'common.content': 'Obsah',
     'common.theWayOfTheAuthor': 'Cesta autora',
     'common.password.hide': 'Skrýt heslo',
-    'common.password.show': 'Zobrazit heslo'
+    'common.password.show': 'Zobrazit heslo',
+    'common.forums': 'Fóra'
 };
