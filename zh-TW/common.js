@@ -276,5 +276,6 @@ export default {
     'common.content': '內容',
     'common.theWayOfTheAuthor': '作者之道',
     'common.password.hide': '隱藏密碼',
-    'common.password.show': '顯示密碼'
+    'common.password.show': '顯示密碼',
+    'common.forums': '論壇'
 };
