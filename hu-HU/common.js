@@ -276,5 +276,6 @@ export default {
     'common.content': 'Tartalom',
     'common.theWayOfTheAuthor': 'A szerző útja',
     'common.password.hide': 'Jelszó elrejtése',
-    'common.password.show': 'Jelszó megjelenítése'
+    'common.password.show': 'Jelszó megjelenítése',
+    'common.forums': 'Fórumok'
 };
