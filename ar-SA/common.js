@@ -276,5 +276,6 @@ export default {
     'common.content': 'المحتوى',
     'common.theWayOfTheAuthor': 'طريق المؤلف',
     'common.password.hide': 'إخفاء كلمة المرور',
-    'common.password.show': 'إظهار كلمة المرور'
+    'common.password.show': 'إظهار كلمة المرور',
+    'common.forums': 'المنتديات'
 };
