@@ -5,20 +5,20 @@ export default {
     'form.validator.minNumber': 'يجب أن يكون أكبر من {min, number}',
     'form.validator.maxNumber': 'يجب أن يكون أقل من {max, number}',
     'form.validator.maxLength': `يجب أن يكون أقل من {max, number} {what, select,
-    characters {حرفاً}
-    tags {علامة}
-    genres {أنواع الأنماط}
-    numbers {أرقام}
+    characters {الأحرف ~}
+    tags {العلامات}
+    genres {الأنواع}
+    numbers {الأرقام}
     other {}
-  }`,
+  }~`,
     'form.validator.minLength': `يجب أن يكون على الأقل {min, number} {what, select,
-    characters {حرفاً}
-    tags {علامة}
-    genres {أنواع الأنماط}
-    genre {نوع الأنماط}
-    numbers {أرقام}
+    characters {الأحرف ~ ~ الأحرف}
+    tags {العلامات}
+    genres {الأنواع}
+    genre {النوع}
+    numbers {الأرقام}
     other {}
-  }`,
+  }~`,
     'form.validator.email': 'يجب أن يكون عنوان بريد إلكتروني صحيح',
     'form.validator.url': 'يجب أن يكون عنوان URL صحيح',
     'form.validator.slug': 'يجب أن يكون جزءاً صحيحاً من عنوان URL',

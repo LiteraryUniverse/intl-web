@@ -14,7 +14,7 @@ export default {
   } impostazioni`,
     'blog.description': 'Introduzione al blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Regolando il tema, sarai in grado di cambiare l\'aspetto della pagina. Questa funzione non è ancora pronta.',
+    'blog.theme.info': 'Regolando il tema, potrà cambiare l\'aspetto della pagina. Questa funzione non è ancora pronta.',
     'blog.posts.total': `Non ci sono {total, plural,
     zero {post}
     one {è un post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Modifica {title}',
     'blog.post.text': 'Testo del post',
     'common.slug': 'Indirizzo SEO friendly',
-    'blog.slug.explained': 'Url bello per il post. Evita di utilizzare caratteri speciali tranne "-".',
+    'blog.slug.explained': 'Crei un URL di bell\'aspetto per il post. Eviti di utilizzare caratteri speciali, ad eccezione di "-".',
     'blog.publicView': 'Visibile al pubblico',
     'blog.post.notfound': 'Il post del blog non è stato trovato',
     'blog.lists.works': `{type, select,

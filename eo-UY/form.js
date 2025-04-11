@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Deviga kampo',
     'form.validator.mustBeNumber': 'Devus esti numero',
-    'form.validator.minNumber': 'Devus esti pli granda ol {min, number}',
-    'form.validator.maxNumber': 'Devus esti pli malgranda ol {max, number}',
-    'form.validator.maxLength': `Devus esti malpli ol {max, number} {what, select,
-    characters {signoj}
-    tags {etikedoj}
-    genres {ĝenroj}
-    numbers {nombroj}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Devus esti almenaŭ {min, number} {what, select,
-    characters {signoj}
-    tags {etikedoj}
-    genres {ĝenroj}
-    genre {ĝenro}
-    numbers {nombroj}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Devus esti valida retpoŝto',

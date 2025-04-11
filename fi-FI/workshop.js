@@ -134,16 +134,16 @@ export default {
     'workshop.fictionalTime.createTitle': 'Luo uusi kuvitteellinen aika',
     'workshop.fictionalTime.editTitle': 'Muokkaa {ftName}',
     'workshop.fictionalTime.formDescription': `Täällä voit luoda oman kuvitteellisen aikasi. Tällä hetkellä tämä työkalu on rajoitettu ja pystyy luomaan vain
-        symmetrisiä aikoja. Tämä tarkoittaa, että et voi luoda Mayan kalenteria tai gregoriaanista kalenteria. Tällä hetkellä
-        tämä työkalu odottaa, että kaikki ajat ovat aina samat, esim. kuukausilla on aina 30 päivää ilman poikkeuksia ja niin edelleen
-        . Tähän puututaan myöhemmissä versioissa, mutta siihen asti tämä työkalu soveltuu paremmin lähinnä
-        scifiin perustuvien aikojen luomiseen.`,
+        symmetrisiä aikoja. Tämä tarkoittaa, että et voi luoda uudelleen Mayojen kalenteria tai gregoriaanista kalenteria. Tällä hetkellä
+        tämä työkalu olettaa, että kaikki ajanjaksot ovat aina samanlaisia, esim. kuukausissa on aina 30 päivää ilman poikkeuksia ja niin edelleen
+        . Tähän puututaan myöhemmissä versioissa, mutta siihen asti tämä työkalu soveltuu paremmin ensisijaisesti
+        sci-fi-pohjaisten aikajärjestelmien luomiseen.`,
     'workshop.fictionalTime.timeName': 'Ajan nimi',
     'workshop.fictionalTime.basicInfo': 'Perustiedot',
     'workshop.fictionalTime.timeSetup': 'Ajan asetukset',
     'workshop.fictionalTime.linkedToET': 'Aloittaako tämä aika Maan päivämäärästä (gregoriaaninen kalenteri)?',
     'workshop.fictionalTime.timeDeclaration': 'Ajan julistus',
-    'workshop.fictionalTime.declarationLocation': 'Missä ajan nimi tulisi julistaa?',
+    'workshop.fictionalTime.declarationLocation': 'Missä ajan nimi on ilmoitettava?',
     'workshop.fictionalTime.declarationBefore': 'Ennen yksiköitä',
     'workshop.fictionalTime.declarationAfter': 'Jälkeen yksiköiden',
     'workshop.fictionalTime.declarationNone': 'Ei mitään',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'On asetettu automaattisesti tauolle, koska uutta lukua ei ole julkaistu yli 6 kuukauteen.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Tämä tila poistuu automaattisesti, jos julkaiset uuden luvun. Jos et julkaise uutta lukua seuraavan 6 kuukauden aikana, asetamme tarinan automaattisesti peruutetuksi.',
     'workshop.statusChangeEmail.cancellationIntro': 'Tarinasi tilaksi asetettiin automaattisesti peruutettu.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Näin on käynyt, koska et ole lähettänyt yhtään uutta lukua tarinaan sen jälkeen, kun se asetettiin tauolle 6 kuukautta sitten. Joten vuoden toimimattomuuden jälkeen asetamme tarinat automaattisesti peruutetuiksi, jotta lukijat tietävät, mitkä tarinat ovat aktiivisia.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Näin on käynyt, koska et ole lähettänyt yhtään uutta lukua tarinaan sen jälkeen, kun se asetettiin tauolle 6 kuukautta sitten. Kun tarinat ovat olleet vuoden toimimatta, asetamme ne automaattisesti peruutetuiksi, jotta lukijat tietävät, mitkä tarinat ovat aktiivisia.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Tämä tila poistuu automaattisesti, jos julkaiset uuden luvun. Jos et aio enää työskennellä tämän tarinan parissa, sinun ei tarvitse tehdä mitään muuta.',
     'workshop.startCreating': 'Aloita luominen',
     'workshop.ownWork': 'Oma työ',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Projektista poistuminen tarkoittaa, että menetät kaikki käyttöoikeudet, yhdistykset ja etuoikeudet. Jos et ole varma, mitä tämä kaikki tarkoittaa, et varmaankaan halunnut klikata tätä.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Poistettu osoitteessa {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Järjestelmänvalvoja on mukauttanut tämän sisällön tekoälyn luomistilaa käyttäjäraportin perusteella, eikä sitä voi muuttaa.'
+    'workshop.aiGeneratedAdjusted': 'Järjestelmänvalvoja on mukauttanut tämän sisällön tekoälyn luomistilaa käyttäjäraportin perusteella, eikä sitä voi muuttaa.',
+    'workshop.theWay.authorProgress': 'Kirjoittaja Progress'
 };

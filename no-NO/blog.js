@@ -14,7 +14,7 @@ export default {
   } innstillinger`,
     'blog.description': 'Introduksjon av blogg',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Ved å justere temaet vil du kunne endre utseendet på siden. Denne funksjonen er ikke klar i øyeblikket.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `Det er {total, plural,
     zero {ingen innlegg}
     one {er ett innlegg}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Redigerer {title}',
     'blog.post.text': 'Innlegg tekst',
     'common.slug': 'SEO vennlig adresse',
-    'blog.slug.explained': 'Pen URL-adresse for innlegget. Unngå å bruke spesialtegn unntatt "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Offentlig visning',
     'blog.post.notfound': 'Blogginnlegget ble ikke funnet',
     'blog.lists.works': `{type, select,

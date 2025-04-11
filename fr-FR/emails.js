@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Sincèrement,<br />L\'équipe de L\'Univers Littéraire',
     // Enrollment
     'email.enrollAccount.welcome': 'Bienvenue à bord',
-    'email.enrollAccount.messageHtml': 'Nous aimerions vous inviter sur L\'Univers Littéraire ! Nous avons préparé pour vous un compte personnel où vous pourrez accéder à toutes les fonctionnalités de L\'Univers Littéraire ! Rejoignez-nous pour créer la prochaine génération d\'écriture et de lecture créatives !',
+    'email.enrollAccount.messageHtml': 'Nous aimerions vous inviter à l\'Univers Littéraire ! Nous avons créé pour vous un compte personnel qui vous permettra d\'accéder à toutes les fonctionnalités de Literary Universe. Rejoignez-nous pour créer la prochaine génération d\'écriture et de lecture créatives !',
     'email.enrollAccount.button': 'Accéder à votre compte',
-    'email.enrollAccount.signature': 'Nous nous réjouissons de vous voir,<br />L\'équipe de l\'Univers Littéraire',
+    'email.enrollAccount.signature': 'Nous vous attendons avec impatience,<br />L\'équipe de l\'Univers Littéraire',
     // Reset password
-    'email.resetPassword.messageHtml': 'Nous avons reçu une demande de réinitialisation du mot de passe de votre compte. Veuillez cliquer sur le bouton ci-dessous pour poursuivre la procédure. Si vous n\'avez pas fait cette demande, vous pouvez ignorer cet email, mais c\'est peut-être le moment de revoir vos paramètres de sécurité.',
+    'email.resetPassword.messageHtml': 'Nous avons reçu une demande de réinitialisation du mot de passe de votre compte. Veuillez cliquer sur le bouton ci-dessous pour poursuivre la procédure. Si vous n\'avez pas fait cette demande, vous pouvez ignorer cet e-mail, mais il serait peut-être bon de revoir vos paramètres de sécurité.',
     'email.resetPassword.button': 'Réinitialiser le mot de passe',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Nous sommes heureux de vous compter parmi nous ! Veuillez cliquer sur le bouton ci-dessous pour vérifier cette adresse email.',
+    'email.verifyEmail.messageHtml': 'Nous sommes heureux de vous compter parmi nous ! Veuillez cliquer sur le bouton ci-dessous pour vérifier cette adresse e-mail.',
     'email.verifyEmail.button': 'Vérifier cette adresse email',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Votre compte a été mis à jour',

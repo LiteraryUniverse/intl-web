@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'វាល​ដែល​ត្រូវ​បាន​ទាមទារ',
     'form.validator.mustBeNumber': 'ត្រូវ​តែ​ជា​លេខ',
-    'form.validator.minNumber': 'ត្រូវតែធំជាង {min, number}',
-    'form.validator.maxNumber': 'ត្រូវតែតិចជាង {max, number}',
-    'form.validator.maxLength': `ត្រូវតែតិចជាង {max, number} {what, select,
-    characters {តួអក្សរ}
-    tags {ស្លាក}
-    genres {ប្រភេទរឿង}
-    numbers {លេខ}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `ត្រូវតែយ៉ាងតិច {min, number} {what, select,
-    characters {តួអក្សរ}
-    tags {ស្លាក}
-    genres {ប្រភេទរឿង}
-    genre {រឿង}
-    numbers {លេខ}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'ត្រូវ​តែ​ជា​អ៊ីមែល​ត្រឹមត្រូវ',

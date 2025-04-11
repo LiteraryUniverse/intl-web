@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'აუცილებელი ველია',
     'form.validator.mustBeNumber': 'უნდა იყოს რიცხვი',
-    'form.validator.minNumber': 'უნდა იყოს მეტი ვიდრე {min, number}',
-    'form.validator.maxNumber': 'უნდა იყოს ნაკლები ვიდრე {max, number}',
-    'form.validator.maxLength': `უნდა იყოს ნაკლები {max, number} {what, select,
-    characters {სიმბოლო}
-    tags {ტეგი}
-    genres {ჟანრი}
-    numbers {რაოდენობა}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `უნდა იყოს მინიმუმი {min, number} {what, select,
-    characters {სიმბოლო}
-    tags {ტეგი}
-    genres {ჟანრი}
-    genre {ჟანრი}
-    numbers {რაოდენობა}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'უნდა იყოს მითითებული ელ-ფოსტა',

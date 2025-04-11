@@ -17,14 +17,14 @@ export default {
     'email.signature': 'সদৃশভাৱে,<br />লিটারেৰী ইউনিভাৰ্স দল',
     // Enrollment
     'email.enrollAccount.welcome': 'স্বাগতম',
-    'email.enrollAccount.messageHtml': 'আমি আপোনাক লিটারেৰী ইউনিভাৰ্সলৈ আমন্ত্ৰণ কৰিছো! আমি আগবঢ়ে আপোনালৈ এটা ব্যক্তিগত একাউণ্ট তৈয়াৰ কৰি দিছো যাতে আপুনি লিটারেৰী ইউনিভাৰ্সৰ সকলো সুবিধা প্ৰাপ্ত কৰিব পাৰে! অনুগ্ৰহ কৰি আমাৰ সৃষ্টি কৰা সৃজনশীল লেখনি আৰু পঠনীয় সকলৰ পৰবৰ্তী প্ৰজননত আপোনালৈ সংযোজন কৰক!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'আপোনাৰ একাউণ্টলৈ প্ৰৱেশ কৰক',
-    'email.enrollAccount.signature': 'আমি আপোনাক দেখা দিবলৈ আগ্ৰহী আছো,<br />লিটেৰেৰী ইউনিভাৰ্স টিম',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'আমাৰ পাছত আপোনাৰ একাউণ্টৰ পাছৱৰ্ড পুনৰ ঠিক কৰিবলৈ আমি এটা অনুৰোধ পোৱা হৈছে, অনুগ্ৰহ কৰি প্ৰক্ৰিয়া অব্যাহত হোৱাৰ বাবে বুটামটোত ক্লিক কৰক। যদি আপুনি এই অনুৰোধ কৰা নাহয় হয় তেনেহলে আপুনি এই ইমেইলটো অগ্ৰাহ্য কৰিব পাৰে, কিন্তু এটা আপোনাৰ নিৰাপত্তা ছেটিংসমূহ পুনৰীক্ষা কৰিবৰ এটা ভাল সময় হয়।',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'পাছবৰ্ড পুনৰ ঠিক কৰক',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'আমি আপোনাক বৰ্ডত পাইছো খুশি আছো! অনুগ্ৰহ কৰি এই ইমেইল ঠিক কৰিবলৈ বুটামটোত ক্লিক কৰক।',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'এই ইমেইল ঠিক কৰক',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'আপোনাৰ একাউণ্টটো আপগ্ৰেড কৰা হৈছে',

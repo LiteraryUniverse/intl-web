@@ -19,5 +19,10 @@
   "theWay.feedback.title": "Feedback",
   "theWay.feedback.intro": "The Way of the Author is an evolving system that we are constantly evolving. If you have any ideas or encountered issues, please let us know either via the Feedback Center or contacting us on the following email:",
   "theWay.sponsors": "Sponsors & Partners",
-  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program."
+  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program.",
+  "theWay.purpose.question": "Ποιος είναι ο σκοπός του Δρόμου του Συγγραφέα;",
+  "theWay.goToGuides.primer": "Αισθάνεστε κολλημένοι ή χρειάζεστε έμπνευση; Γίνετε μέλος της κοινότητάς μας για συμβουλές και υποστήριξη!",
+  "theWay.goToFullDashboard": "Πλήρες ταμπλό",
+  "theWay.progress.byGenre": "Πρόοδος ανά είδος",
+  "theyWay.achieve.title": "Επίτευξη επιπέδου {level, number} στο {genre}"
 }

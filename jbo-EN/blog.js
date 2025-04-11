@@ -14,7 +14,7 @@ export default {
   } settings`,
     'blog.description': 'Jorne la\'o gy. blogu',
     'blog.theme': 'selfi\'a',
-    'blog.theme.info': 'Jai se cinri lo nu do cange lo se zbasu be la\'o gy. blogu. Tavla fi lo nu se zbasu be la\'o gy. blogu.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Editing {title}',
     'blog.post.text': 'Lo jorne te gerna',
     'common.slug': 'Lo jorne sevzi cmene',
-    'blog.slug.explained': 'Lo jorne sevzi cmene cu zmadu lo nu zasti lo te cmene be lo jorne be lo nu zasti lo te cmene be lo jorne. Lo sevzi cmene cu se jinvi lo nu se finti lo sevzi',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Lo sevzi viska',
     'blog.post.notfound': 'Lo jorne be lo nu se zbasu cu na\'o na\'o vasru',
     'blog.lists.works': `{type, select,

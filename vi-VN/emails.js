@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Trân trọng,<br />Nhóm Vũ trụ Văn học',
     // Enrollment
     'email.enrollAccount.welcome': 'Chào mừng bạn đã gia nhập',
-    'email.enrollAccount.messageHtml': 'Chúng tôi muốn mời bạn đến Vũ trụ Văn học! Chúng tôi đã chuẩn bị sẵn một tài khoản cá nhân cho bạn, nơi bạn có thể truy cập vào tất cả các tính năng của Vũ trụ Văn học! Hãy tham gia cùng chúng tôi trong việc tạo ra thế hệ tiếp theo của viết và đọc sáng tạo!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Truy cập tài khoản của bạn',
-    'email.enrollAccount.signature': 'Chúng tôi rất mong được gặp bạn, đội ngũ Literary Universe<br />',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Chúng tôi đã nhận được yêu cầu đặt lại mật khẩu cho tài khoản của bạn, vui lòng nhấp vào nút bên dưới để tiếp tục quá trình. Nếu bạn không thực hiện yêu cầu này, bạn có thể bỏ qua email này, nhưng đây có thể là thời điểm tốt để xem lại cài đặt bảo mật của bạn.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Đặt lại mật khẩu',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Chúng tôi rất vui khi có bạn tham gia! Vui lòng nhấp vào nút bên dưới để xác minh địa chỉ email này.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'Xác minh địa chỉ email này',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Tài khoản của bạn đã được nâng cấp',

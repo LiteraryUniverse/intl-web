@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Üdvözlettel,<br />az Irodalmi Univerzum csapata',
     // Enrollment
     'email.enrollAccount.welcome': 'Üdvözöljük a fedélzeten',
-    'email.enrollAccount.messageHtml': 'Szeretnénk meghívni az Irodalmi Univerzumba! Előre elkészítettünk Önnek egy személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum összes funkciójához! Kérjük, csatlakozzon hozzánk a kreatív írás és olvasás következő generációjának létrehozásában!',
+    'email.enrollAccount.messageHtml': 'Szeretettel meghívjuk Önt az Irodalmi Univerzumba! Előreléptünk és elkészítettünk Önnek egy személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum minden funkciójához. Kérjük, csatlakozzon hozzánk a kreatív írás és olvasás következő generációjának megteremtésében!',
     'email.enrollAccount.button': 'Fiókhoz való hozzáférés',
     'email.enrollAccount.signature': 'Szeretettel várjuk Önöket,<br />Irodalmi Univerzum csapata',
     // Reset password
-    'email.resetPassword.messageHtml': 'Megkaptunk egy kérelmet a jelszavad visszaállítására a fiókodhoz. Kérjük, kattints az alábbi gombra a folyamat folytatásához. Ha nem te voltál, aki kérelmezte ezt, nyugodtan figyelmen kívül hagyhatod ezt az e-mailt, de érdemes lehet átnézned a biztonsági beállításaidat.',
+    'email.resetPassword.messageHtml': 'Kaptunk egy kérést, hogy visszaállítsuk a jelszavát a fiókjához. Kérjük, kattintson az alábbi gombra a folyamat folytatásához. Ha még nem küldte el ezt a kérést, akkor figyelmen kívül hagyhatja ezt az e-mailt, de talán itt az ideje, hogy felülvizsgálja a biztonsági beállításait.',
     'email.resetPassword.button': 'Jelszó visszaállítása',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Örülünk, hogy velünk vagy! Kérjük, kattints az alábbi gombra a felhasználói e-mail cím megerősítéséhez.',
+    'email.verifyEmail.messageHtml': 'Örülünk, hogy a fedélzeten van! Kérjük, kattintson az alábbi gombra az e-mail cím ellenőrzéséhez.',
     'email.verifyEmail.button': 'Megerősítés a felhasználói e-mail címről',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'A fiókodat frissítettük',

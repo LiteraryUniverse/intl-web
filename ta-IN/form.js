@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'தேவையான புலம்',
     'form.validator.mustBeNumber': 'இல்லையேல் எண் வேண்டும்',
-    'form.validator.minNumber': 'மிகுந்தது மேலும் விட வேண்டும் {min, number}',
-    'form.validator.maxNumber': 'இல்லையெனில் {max, number}விட குறைவது வேண்டும்',
-    'form.validator.maxLength': `மிகுந்தபட்ச எண்கள் ஆகியவைகள் மீது இருக்க வேண்டும் {max, number} {what, select,
-    characters {எழுத்துக்கள்}
-    tags {டேக்}
-    genres {வகைகள்}
-    numbers {எண்கள்}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `குறைந்தபட்ச எண்கள் ஆகியவைகள் மீது இருக்க வேண்டும் {min, number} {what, select,
-    characters {எழுத்துக்கள்}
-    tags {டேக்}
-    genres {வகைகள்}
-    genre {வகை}
-    numbers {எண்கள்}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'சரியான மின்னஞ்சல் முகவர் வேண்டும்',

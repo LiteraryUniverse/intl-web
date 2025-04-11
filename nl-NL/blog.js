@@ -14,7 +14,7 @@ export default {
   } instellingen`,
     'blog.description': 'Blog introductie',
     'blog.theme': 'Thema',
-    'blog.theme.info': 'Door het aanpassen van het thema kunt u het uiterlijk van de pagina veranderen. Deze functie is momenteel nog niet beschikbaar.',
+    'blog.theme.info': 'Door het thema aan te passen, kunt u het uiterlijk van de pagina veranderen. Deze functie is op dit moment nog niet gereed.',
     'blog.posts.total': `Er {total, plural,
     one {is één bericht}
     other {zijn # berichten}
@@ -23,7 +23,7 @@ export default {
     'blog.post.update': 'Bewerken van {title}',
     'blog.post.text': 'Berichttekst',
     'common.slug': 'SEO-vriendelijk adres',
-    'blog.slug.explained': 'Mooie url naar het bericht. Gebruik geen speciale tekens behalve "-".',
+    'blog.slug.explained': 'Maak een mooie URL voor het bericht. Vermijd het gebruik van speciale tekens, behalve "-".',
     'blog.publicView': 'Openbare weergave',
     'blog.post.notfound': 'Blogbericht niet gevonden',
     'blog.lists.works': `{type, select,

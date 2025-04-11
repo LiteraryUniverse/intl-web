@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Salam hormat,<br />pasukan Alam Sastera',
     // Enrollment
     'email.enrollAccount.welcome': 'Selamat datang',
-    'email.enrollAccount.messageHtml': 'Kami ingin menjemput anda ke Alam Sastera! Kami telah menyediakan akaun peribadi khas untuk anda di mana anda boleh mengakses semua ciri-ciri Alam Sastera! Sila sertai kami dalam mencipta generasi seterusnya penulisan kreatif dan membaca!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Akses akaun anda',
-    'email.enrollAccount.signature': 'Kami menantikan untuk berjumpa dengan anda, pasukan Literary Universe<br />',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Kami telah menerima permintaan untuk menetapkan semula kata laluan akaun anda, sila klik pada butang di bawah untuk meneruskan proses ini. Jika anda tidak membuat permintaan ini, anda boleh mengabaikan e-mel ini, tetapi ini mungkin adalah masa yang baik untuk mengkaji semula tetapan keselamatan anda.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Tetapkan semula kata laluan',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Kami gembira mempunyai anda bersama kami! Sila klik butang di bawah untuk mengesahkan alamat e-mel ini.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'Mengesahkan alamat e-mel ini',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Akaun anda telah dinaik taraf',

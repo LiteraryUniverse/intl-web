@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Trường bắt buộc',
     'form.validator.mustBeNumber': 'Phải là số',
-    'form.validator.minNumber': 'Phải lớn hơn {min, number}',
-    'form.validator.maxNumber': 'Phải nhỏ hơn {max, number}',
-    'form.validator.maxLength': `Nên ít hơn {max, number} ký tự {what, select,
-    characters {}
-    tags {thẻ}
-    genres {thể loại}
-    numbers {số}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Nên ít nhất {min, number} ký tự {what, select,
-    characters {}
-    tags {thẻ}
-    genres {thể loại}
-    genre {thể loại}
-    numbers {số}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Phải là địa chỉ email hợp lệ',

@@ -1,7 +1,7 @@
 export default {
     'feedback.home': 'Pusat Bantuan',
     'feedback.bugs': 'Masalah',
-    'feedback.bugs.desc': 'Apakah Anda mengalami kesalahan atau hal lain yang salah atau tidak sesuai tempatnya. Beri tahu kami di sini!',
+    'feedback.bugs.desc': 'Apakah Anda menemukan kesalahan atau hal lain yang salah atau tidak pada tempatnya? Beri tahu kami di sini!',
     'feedback.features': 'Ide & Usulan',
     'feedback.features.desc': 'Punya ide untuk fitur baru atau cara membuat situs ini lebih baik? Beri tahu kami!',
     'feedback.help': 'Bantuan & Tutorial',
@@ -44,7 +44,7 @@ export default {
     'feedback.report.reportSaved': 'Terima kasih atas laporan Anda! Kami akan menyelidiki dan mengambil tindakan jika diperlukan.',
     'feedback.report.copyrightReportSaved': 'Terima kasih atas laporan Anda! Kami akan menyelidiki dan menghubungi Anda.',
     'feedback.report.copyrightOwnershipDesc': 'Pernyataan kepemilikan',
-    'feedback.report.copyrightNotice': 'Harap dicatat bahwa Anda perlu menjadi pemilik sah dari karya ini untuk menggunakan formulir ini. Jika Anda bukan pemiliknya, harap beri tahu pemilik atau gunakan kategori lain untuk memberi tahu kami. Kami sangat serius dalam menangani pelanggaran hak cipta dan hal yang sama berlaku untuk penggunaan formulir ini yang tidak pantas dan penyalahgunaan.',
+    'feedback.report.copyrightNotice': 'Harap diperhatikan bahwa Anda harus menjadi pemilik yang sah dari karya tersebut untuk menggunakan formulir ini. Jika Anda bukan pemiliknya, mohon informasikan kepada pemiliknya atau gunakan kategori lain untuk memberi tahu kami. Kami menangani pelanggaran hak cipta dengan sangat serius, dan hal yang sama berlaku untuk penggunaan formulir ini secara tidak benar dan kasar.',
     'feedback.report.copyrightInternalProperty': 'Saya telah mempublikasikan karya ini di Literary Universe',
     'feedback.reportType.spam': 'Spam atau phishing',
     'feedback.reportType.soliciting': 'Meminta',

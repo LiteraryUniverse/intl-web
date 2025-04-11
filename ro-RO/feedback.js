@@ -1,7 +1,7 @@
 export default {
     'feedback.home': 'Centrul de ajutor',
     'feedback.bugs': 'Probleme',
-    'feedback.bugs.desc': 'Ai întâmpinat o eroare sau ceva care nu este corect sau nu se potrivește? Spune-ne aici!',
+    'feedback.bugs.desc': 'Ați întâmpinat o eroare sau altceva care este greșit sau deplasat? Anunțați-ne aici!',
     'feedback.features': 'Idei și propuneri',
     'feedback.features.desc': 'Ai idei pentru caracteristici noi sau cum să îmbunătățim site-ul? Spune-ne!',
     'feedback.help': 'Ajutor și tutoriale',
@@ -18,7 +18,7 @@ export default {
     'feedback.new.bugs': 'Raportează o problemă nouă',
     'feedback.new.features': 'Sugerează o caracteristică nouă',
     'feedback.lang.nosupport': 'Limba ta curentă nu este suportată pentru feedback, te rugăm să scrii în limba engleză. Mulțumim!',
-    'feedback.new.thanks': 'Mulțumim pentru observație! Vom verifica în curând.',
+    'feedback.new.thanks': 'Vă mulțumim pentru notificare! Ne vom ocupa de aceasta în scurt timp.',
     'feedback.comment.title': 'Comentariu',
     'feedback.comment.desc': 'Trimite-ne feedback-ul tău',
     'feedback.comment.legend': 'Feedback-ul tău - spune-ne orice',

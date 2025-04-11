@@ -14,7 +14,7 @@ export default {
   } inställningar`,
     'blog.description': 'Blogginledning',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Genom att justera temat kan du ändra utseendet på sidan. Den här funktionen är inte redo just nu.',
+    'blog.theme.info': 'Genom att justera temat kommer du att kunna ändra utseendet på sidan. Den här funktionen är inte klar för närvarande.',
     'blog.posts.total': `Det {total, plural,
     zero {finns inga inlägg}
     one {finns ett inlägg}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Redigerar {title}',
     'blog.post.text': 'Inläggstext',
     'common.slug': 'SEO-vänlig adress',
-    'blog.slug.explained': 'Snygg url till inlägget. Undvik att använda specialtecken förutom "-".',
+    'blog.slug.explained': 'Skapa en snygg URL för inlägget. Undvik att använda specialtecken förutom "-".',
     'blog.publicView': 'Offentlig visning',
     'blog.post.notfound': 'Blogginlägget hittades inte',
     'blog.lists.works': `{type, select,

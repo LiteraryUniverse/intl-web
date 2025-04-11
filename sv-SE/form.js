@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Obligatoriskt fält',
     'form.validator.mustBeNumber': 'Måste vara ett nummer',
-    'form.validator.minNumber': 'Bör vara större än {min, number}',
-    'form.validator.maxNumber': 'Bör vara lägre än {max, number}',
-    'form.validator.maxLength': `Bör vara mindre än {max, number} {what, select,
+    'form.validator.minNumber': 'Måste vara större än {min, number}',
+    'form.validator.maxNumber': 'Måste vara lägre än {max, number}',
+    'form.validator.maxLength': `Måste vara mindre än {max, number} {what, select,
     characters {tecken}
     tags {taggar}
     genres {genrer}
-    numbers {nummer}
+    numbers {siffror}
     other {}
   }`,
-    'form.validator.minLength': `Bör vara minst {min, number} {what, select,
+    'form.validator.minLength': `Måste vara minst {min, number} {what, select,
     characters {tecken}
     tags {taggar}
     genres {genrer}
     genre {genre}
-    numbers {nummer}
+    numbers {siffror}
     other {}
   }`,
     'form.validator.email': 'Måste vara en giltig e-postadress',

@@ -2,23 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'આવશ્યક ક્ષેત્ર',
     'form.validator.mustBeNumber': 'નંબર હોવું જોઈએ',
-    'form.validator.minNumber': 'કરતાં મોટો હોવો જોઈએ {min, number}',
-    'form.validator.maxNumber': 'કરતાં નાનો હોવો જોઈએ {max, number}',
-    'form.validator.maxLength': `આ {max, number} {what, select,
-    characters {થી ઓછું હોવું જોઈએ}
-    tags {ટેગો}
-    genres {જાતનીઓ}
-    numbers {નંબરો}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
-  }હોવો જોઈએ`,
-    'form.validator.minLength': `આ {min, number} {what, select,
-    characters {થી વધુમાં વધુ હોવું જોઈએ}
-    tags {ટેગો}
-    genres {જાતનીઓ}
-    genre {જાત}
-    numbers {નંબરો}
+  }`,
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
-  }હોવો જોઈએ`,
+  }`,
     'form.validator.email': 'માન્ય ઇમેઇલ હોવું જોઈએ',
     'form.validator.url': 'માન્ય URL હોવું જોઈએ',
     'form.validator.slug': 'URLનો માન્ય ભાગ હોવો જોઈએ',

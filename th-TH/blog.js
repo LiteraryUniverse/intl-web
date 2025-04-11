@@ -14,7 +14,7 @@ export default {
   }`,
     'blog.description': 'คำนำสำหรับบล็อก',
     'blog.theme': 'ธีม',
-    'blog.theme.info': 'การปรับแต่งธีมจะช่วยเปลี่ยนหน้าตาของหน้าเว็บได้ เดี๋ยวนี้ฟังก์ชันนี้ยังไม่พร้อมใช้งาน',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `มีบล็อกนี้ไม่มีโพสต์หรือสร้างไปแล้ว {total, plural,
     zero {โพสต์}
     one {มีโพสต์มา 1 เรื่อง}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'แก้ไขโพสต์ {title}',
     'blog.post.text': 'ข้อความโพสต์',
     'common.slug': 'ที่อยู่ผ่านการจัดการ SEO',
-    'blog.slug.explained': 'URL ที่ดูดีให้กับโพสต์ อย่าใช้อักขระพิเศษนอกจาก "-"',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'มุมมองสาธารณะ',
     'blog.post.notfound': 'ไม่พบโพสต์บล็อก',
     'blog.lists.works': `{type, select,

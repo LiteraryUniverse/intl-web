@@ -14,7 +14,7 @@ export default {
   } socrúcháin`,
     'blog.description': 'Ceiliúradh blag',
     'blog.theme': 'Téama',
-    'blog.theme.info': 'Trí mhodhanna a athrú is féidir leat cuma an leathanaigh a athrú. Níl an gné seo réidh faoi láthair.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Ag eagar {title}',
     'blog.post.text': 'Téacs an phoist',
     'common.slug': 'URL a bhfuil anseo cuí le SEO',
-    'blog.slug.explained': 'URL deas don post. Ná bain úsáid as carachtair speisialta ach amháin "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Radharc poiblí',
     'blog.post.notfound': 'Níor aimsíodh an post blag',
     'blog.lists.works': `{type, select,

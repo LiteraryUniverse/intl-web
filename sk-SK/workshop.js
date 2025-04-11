@@ -134,13 +134,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Vytvorte si ho teraz!',
     'workshop.fictionalTime.createTitle': 'Vytvoriť nový fiktívny čas',
     'workshop.fictionalTime.editTitle': 'Upraviť {ftName}',
-    'workshop.fictionalTime.formDescription': `Tu si môžete vytvoriť vlastný fiktívny čas. V súčasnosti je tento nástroj obmedzený a dokáže vytvárať len symetrické časy. To znamená, že nebudete môcť vytvoriť mayský alebo gregoriánsky kalendár. V tejto chvíli tento nástroj očakáva, že všetky časy sú vždy rovnaké, napr. mesiace majú vždy 30 dní bez výnimky a pod. Budeme to riešiť v neskorších verziách, ale dovtedy je tento nástroj vhodnejší na vytváranie časov založených predovšetkým na sci-fi.`,
+    'workshop.fictionalTime.formDescription': `Tu si môžete vytvoriť vlastný fiktívny čas. V súčasnosti je tento nástroj obmedzený a dokáže vytvárať len
+        symetrické časy. To znamená, že nebudete môcť vytvoriť mayský alebo gregoriánsky kalendár. V tejto chvíli
+        tento nástroj očakáva, že všetky časové obdobia sú vždy rovnaké, napr. mesiace majú vždy 30 dní bez výnimky a tak
+        ďalej. Budeme to riešiť v neskorších verziách, ale dovtedy je tento nástroj vhodnejší na vytváranie predovšetkým
+        časových systémov založených na sci-fi.`,
     'workshop.fictionalTime.timeName': 'Názov času',
     'workshop.fictionalTime.basicInfo': 'Základné informácie',
     'workshop.fictionalTime.timeSetup': 'Nastavenie času',
     'workshop.fictionalTime.linkedToET': 'Začína tento čas pozemským dátumom (gregoriánsky kalendár)?',
     'workshop.fictionalTime.timeDeclaration': 'Časové vyhlásenie',
-    'workshop.fictionalTime.declarationLocation': 'Kde by sa mal uvádzať časový názov?',
+    'workshop.fictionalTime.declarationLocation': 'Kde by sa mal uvádzať názov času?',
     'workshop.fictionalTime.declarationBefore': 'Pred jednotkami',
     'workshop.fictionalTime.declarationAfter': 'Po jednotkách',
     'workshop.fictionalTime.declarationNone': 'Žiadne',
@@ -278,7 +282,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Bol automaticky prerušený kvôli absencii nového kapitoly viac ako 6 mesiacov.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Tento stav sa automaticky zruší, ak vydáte novú kapitolu. Ak v nasledujúcich 6 mesiacoch nevydáte novú kapitolu, príbeh automaticky označíme ako zrušený.',
     'workshop.statusChangeEmail.cancellationIntro': 'Stav vášho príbehu bol automaticky nastavený na zrušený.',
-    'workshop.statusChangeEmail.cancellationWhy': 'K tomu došlo, pretože od doby, keď bola príbehu nastavená prestávka pred 6 mesiacmi, ste nezverejnili žiadne nové kapitoly. Po roku neaktivity automaticky nastavujeme príbehy ako zrušené, aby si čitatelia mohli uvedomiť, ktoré príbehy sú aktívne.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Stalo sa to preto, lebo si nezverejnil žiadnu novú kapitolu príbehu, odkedy bola pred 6 mesiacmi nastavená prestávka. Po roku nečinnosti automaticky nastavujeme príbehy na zrušené, aby čitatelia vedeli, ktoré príbehy sú aktívne.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Ak vydáte novú kapitolu, tento stav sa automaticky zruší. Ak už na tomto príbehu nechcete pracovať, nemusíte robiť nič ďalšie.',
     'workshop.startCreating': 'Začnite vytvárať',
     'workshop.ownWork': 'Vlastné dielo',
@@ -296,5 +300,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Odchod z projektu znamená, že stratíte všetky prístupy, asociácie a oprávnenia. Ak si nie ste istí, čo to všetko znamená, potom to pravdepodobne nie je to, na čo ste chceli kliknúť.',
     'workshop.collaborators.leftInfo': 'Vľavo na {date, date}',
     'workshop.collaborators.removedInfo': 'Odstránené na {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Stav generovania AI tohto obsahu bol upravený na základe hlásenia používateľa správcom a nie je možné ho zmeniť.'
+    'workshop.aiGeneratedAdjusted': 'Stav generovania AI tohto obsahu bol upravený na základe hlásenia používateľa správcom a nie je možné ho zmeniť.',
+    'workshop.theWay.authorProgress': 'Pokrok autora'
 };

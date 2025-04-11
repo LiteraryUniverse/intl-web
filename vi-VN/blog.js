@@ -14,7 +14,7 @@ export default {
   } Cài đặt`,
     'blog.description': 'Giới thiệu về Blog',
     'blog.theme': 'Giao diện',
-    'blog.theme.info': 'Điều chỉnh chủ đề, bạn sẽ có thể thay đổi giao diện của trang. Tính năng này hiện chưa có vào lúc này.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Đang chỉnh sửa {title}',
     'blog.post.text': 'Đoạn văn bản bài viết',
     'common.slug': 'Địa chỉ tựa đề thân thiện với SEO',
-    'blog.slug.explained': 'URL đẹp cho bài viết. Tránh sử dụng các ký tự đặc biệt trừ "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Xem công khai',
     'blog.post.notfound': 'Không tìm thấy bài viết trong blog',
     'blog.lists.works': `{type, select,

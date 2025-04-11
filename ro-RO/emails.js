@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Cu sinceritate,<br />Echipa Universul Literar',
     // Enrollment
     'email.enrollAccount.welcome': 'Bun venit la bord',
-    'email.enrollAccount.messageHtml': 'Ne-ar plăcea să te invităm în Universul Literar! Am pregătit deja un cont personal pentru tine în care poți accesa toate funcțiile Universului Literar! Te rugăm să ni te alături în crearea următoarei generații de scriere și lectură creative!',
+    'email.enrollAccount.messageHtml': 'Dorim să vă invităm în Universul Literar! Ți-am pregătit un cont personal unde poți accesa toate funcțiile Universului Literar. Te rugăm să ni te alături în crearea următoarei generații de scriere creativă și lectură!',
     'email.enrollAccount.button': 'Accesează-ți contul',
     'email.enrollAccount.signature': 'Vă așteptăm cu drag,<br />Echipa Universului Literar',
     // Reset password
-    'email.resetPassword.messageHtml': 'Am primit o cerere de resetare a parolei pentru contul tău, te rugăm să apeși pe butonul de mai jos pentru a continua procesul. Dacă nu ai făcut această cerere, poți ignora acest e-mail, dar ar fi bine să verifici setările tale de securitate.',
+    'email.resetPassword.messageHtml': 'Am primit o cerere de resetare a parolei pentru contul dvs. Vă rugăm să faceți clic pe butonul de mai jos pentru a continua procesul. Dacă nu ați făcut această solicitare, puteți ignora acest e-mail, dar ar putea fi un moment bun să vă revizuiți setările de securitate.',
     'email.resetPassword.button': 'Resetează parola',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Ne bucurăm să te avem alături! Te rugăm să apeși pe butonul de mai jos pentru a verifica adresa de e-mail.',
+    'email.verifyEmail.messageHtml': 'Suntem bucuroși să vă avem la bord! Vă rugăm să faceți clic pe butonul de mai jos pentru a verifica această adresă de e-mail.',
     'email.verifyEmail.button': 'Verifică această adresă de e-mail',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Contul tău a fost actualizat',

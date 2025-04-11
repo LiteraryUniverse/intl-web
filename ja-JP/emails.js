@@ -18,14 +18,14 @@ export default {
     'email.signature': 'よろしくお願いいたします。<br />Literary Universeチームより',
     // Enrollment
     'email.enrollAccount.welcome': 'ご加入ありがとうございます。',
-    'email.enrollAccount.messageHtml': 'Literary Universeにご招待します。Lieterary Universeのすべての機能にアクセスできるようにすでに個人アカウントを用意しました！ 次世代のクリエイティブなライティングとリーディングの作成にぜひご参加ください。',
+    'email.enrollAccount.messageHtml': '文学ユニバースにご招待いたします！文学ユニバースの全機能にアクセスできる個人アカウントをご用意しました。私たちと一緒に、次世代のクリエイティブ・ライティングとリーディングを創造していきましょう！',
     'email.enrollAccount.button': 'アカウントにアクセスする',
-    'email.enrollAccount.signature': 'お会いできるのを楽しみにしています,<br />Literary Universeチームより',
+    'email.enrollAccount.signature': '<br />Literary Universe チーム一同、心よりお待ちしております。',
     // Reset password
-    'email.resetPassword.messageHtml': 'アカウントのパスワードリセットリクエストを受け取りました。プロセスを続けるには、下のボタンをクリックしてください。 このリクエストをまだ行っていない場合は、このメールはご放念ください。セキュリティ設定のご確認をしていただくことをお勧めします。',
+    'email.resetPassword.messageHtml': 'あなたのアカウントのパスワード再設定のリクエストを受け取りました。下のボタンをクリックして手続きを続けてください。このリクエストを行っていない場合は、このメールを無視してもかまいませんが、セキュリティ設定を見直す良い機会かもしれません。',
     'email.resetPassword.button': 'パスワードの再設定',
     // E-mail verification
-    'email.verifyEmail.messageHtml': '皆様のご参加をお待ちしております。 下のボタンをクリックして、このメールアドレスを確認してください。',
+    'email.verifyEmail.messageHtml': '皆様のご参加を心よりお待ちしております！このメールアドレスを確認するには、下のボタンをクリックしてください。',
     'email.verifyEmail.button': 'メールアドレスの確認',
     // Getting premium from admins
     'email.adminUpgrade.subject': '文学の宇宙のアカウントがアップグレードされました',

@@ -14,7 +14,7 @@ export default {
   } პარამეტრები`,
     'blog.description': 'ბლოგის შესავალი',
     'blog.theme': 'თემა',
-    'blog.theme.info': 'თქვენ შეიძლებათ გაავრცელოთ გვერდის გარეგულება, თქვენი ბლოგის სარგემოს შეცვლა. ეს ფუნქცია არ არის მზად მარტივად.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'პოსტის რედაქტირება {title}',
     'blog.post.text': 'პოსტის ტექსტი',
     'common.slug': 'SEO მეგობრებული ბმული',
-    'blog.slug.explained': 'მინიმუმუმ სპეციალურ სიმბოლოებს, "-" გამოისყიდე',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'საჯარო ხედვა',
     'blog.post.notfound': 'ბლოგის პოსტი ვერ მოიძებნა',
     'blog.lists.works': `{type, select,

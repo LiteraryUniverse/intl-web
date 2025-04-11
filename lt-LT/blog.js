@@ -14,7 +14,7 @@ export default {
   }`,
     'blog.description': 'Tinklaraščio įvadas',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Keisdami temą, galėsite pakeisti puslapio išvaizdą. Ši funkcija šiuo metu nėra pasirengusi.',
+    'blog.theme.info': 'Sureguliavę temą galėsite pakeisti puslapio išvaizdą. Šiuo metu ši funkcija dar neparengta.',
     'blog.posts.total': `Šiame tinklaraštyje {total, plural,
     zero {nėra įrašų}
     one {yra vienas įrašas}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Redaguoti {title}',
     'blog.post.text': 'Įrašo tekstas',
     'common.slug': 'SEO draugiškas adresas',
-    'blog.slug.explained': 'Gražiai atrodantis URL adresas į įrašą. Venkite naudoti specialiuosius simbolius, išskyrus "-".',
+    'blog.slug.explained': 'Sukurkite gražiai atrodantį įrašo URL adresą. Venkite specialiųjų simbolių, išskyrus "-".',
     'blog.publicView': 'Viešas rodinys',
     'blog.post.notfound': 'Tinklaraščio įrašas nerastas',
     'blog.lists.works': `{type, select,

@@ -38,7 +38,7 @@ export default {
     'common.users': 'Brugere',
     'common.showmore': 'Vis mere',
     'common.futurefeature.title': 'Fremtidig funktion',
-    'common.futurefeature.text': 'Vi beklager meget, men denne funktion er ikke tilgængelig på nuværende tidspunkt. Vi arbejder hårdt på at gøre den tilgængelig så hurtigt som muligt.',
+    'common.futurefeature.text': 'Vi beklager, men denne funktion er ikke tilgængelig på nuværende tidspunkt. Vi arbejder hårdt på at gøre den tilgængelig så hurtigt som muligt.',
     'common.nothingfound': 'Intet fundet',
     'common.explore': 'Udforsk',
     'common.by': 'af {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'ukendt',
     'common.legal.guidelines': 'Fællesskabsretningslinjer',
     'errorLoading.title': 'Fejl under indlæsning af side',
-    'errorLoading.explained': 'Der er opstået en fejl under indlæsningen af siden. Vi undskylder for ulejligheden. Prøv venligst at få adgang til siden igen. Hvis problemet fortsætter, bedes du give os besked, hvis problemet fortsætter.',
+    'errorLoading.explained': 'Der opstod en fejl, mens siden blev indlæst. Vi undskylder for ulejligheden. Prøv venligst at gå ind på siden igen. Hvis problemet fortsætter, så lad os det vide.',
     'errorLoading.retry': 'Prøv igen!',
     'errorLoading.takingLong': 'Dette tager lang tid...',
     'common.title': 'Titel',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Søg efter encyklopædiindgang...',
     'editor.saved.beta': 'Ny revision oprettet til betalæsere!',
     'editor.saved.public': 'Ny version offentliggjort!',
-    goodbyeForever: 'Vi er kede af at se dig gå. Var det noget, vi gjorde? Lad os venligst vide, hvis det er tilfældet. Uanset hvad ønsker vi dig det bedste i dine fremtidige bestræbelser, og forhåbentlig mødes vi igen! Lev længe og i bedste velgående!',
+    goodbyeForever: 'Vi er kede af at se dig gå. Var det noget, vi gjorde? Lad os vide, hvis det er tilfældet. Uanset hvad ønsker vi dig held og lykke med dine fremtidige bestræbelser, og forhåbentlig mødes vi igen! Lev længe og i bedste velgående!',
     'goodbyeForever.feedback': 'Lad os vide, hvad vi kan gøre bedre',
     'common.edit': 'Rediger',
     'common.publish': 'Offentliggør',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Nyeste',
     'common.oldest': 'Ældste',
     'common.noSelection': 'Intet valg',
-    'common.content': 'Indhold'
+    'common.content': 'Indhold',
+    'common.theWayOfTheAuthor': 'Forfatterens vej',
+    'common.password.hide': 'Skjul adgangskode',
+    'common.password.show': 'Vis adgangskode',
+    'common.forums': 'Fora'
 };

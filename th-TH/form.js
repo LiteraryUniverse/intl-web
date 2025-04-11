@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'ฟิลด์ที่ต้องการ',
     'form.validator.mustBeNumber': 'ต้องเป็นตัวเลข',
-    'form.validator.minNumber': 'ต้องมากกว่า {min, number}',
-    'form.validator.maxNumber': 'ต้องน้อยกว่า {max, number}',
-    'form.validator.maxLength': `ควรน้อยกว่า {max, number} {what, select,
-    characters {ตัวอักษร}
-    tags {แท็ก}
-    genres {ประเภท}
-    numbers {ตัวเลข}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `ควรมีอย่างน้อย {min, number} {what, select,
-    characters {ตัวอักษร}
-    tags {แท็ก}
-    genres {ประเภท}
-    genre {ประเภท}
-    numbers {ตัวเลข}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'ต้องเป็นอีเมลที่ถูกต้อง',

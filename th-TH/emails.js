@@ -17,14 +17,14 @@ export default {
     'email.signature': 'ด้วยความเคารพอย่างสุภาพ<br />ทีมงานจักรวาลวรรณกรรม',
     // Enrollment
     'email.enrollAccount.welcome': 'ยินดีต้อนรับเข้าสู่ทางเรือ',
-    'email.enrollAccount.messageHtml': 'เราต้องการเชิญชวนคุณเข้าร่วมกับจักรวาลวรรณกรรม! เราได้เตรียมบัญชีส่วนตัวสำหรับคุณเองไว้แล้ว เพื่อให้คุณสามารถเข้าถึงคุณสมบัติทั้งหมดของจักรวาลวรรณกรรมได้! โปรดร่วมกับเราในการสร้างเครื่องมือเขียนและอ่านเจนเนอเรชันต่อไป!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'เข้าสู่บัญชีของคุณ',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'เราได้รับคำขอการรีเซ็ตรหัสผ่านสำหรับบัญชีของคุณ โปรดคลิกที่ปุ่มด้านล่างเพื่อดำเนินการต่อ หากคุณไม่ได้ทำคำขอนี้ คุณสามารถเพิกเฉยต่ออีเมลนี้ได้ แต่นี่อาจเป็นเวลาที่ดีในการตรวจสอบการตั้งค่าความปลอดภัยของคุณ',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'รีเซ็ตรหัสผ่าน',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'เรายินดีที่ได้มีคุณเข้าร่วมกับเรา! โปรดคลิกที่ปุ่มด้านล่างเพื่อยืนยันที่อยู่อีเมลนี้',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'ยืนยันที่อยู่อีเมลนี้',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'บัญชีของคุณได้รับการอัปเกรดแล้ว',

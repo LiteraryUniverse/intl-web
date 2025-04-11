@@ -14,7 +14,7 @@ export default {
   } agordoj`,
     'blog.description': 'Enkonduko de la blogo',
     'blog.theme': 'Etoso',
-    'blog.theme.info': 'Pliigu la aspekton de la paĝo modifante la temon. Tiu ebleco ne estas preta nun.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `Ĉi tie {total, plural,
     zero {estas neniu poŝto}
     one {estas unu poŝto}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Redaktado de {title}',
     'blog.post.text': 'Afiŝa teksto',
     'common.slug': 'Amikeca URL',
-    'blog.slug.explained': 'Bela aspekta retadreso al la afiŝo. Evitu uzi specialajn signojn krom "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Publika vidado',
     'blog.post.notfound': 'Afiŝo de la blogo ne troviĝis',
     'blog.lists.works': `{type, select,

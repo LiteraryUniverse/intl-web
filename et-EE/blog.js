@@ -14,7 +14,7 @@ export default {
   } seaded`,
     'blog.description': 'Blogi sissejuhatus',
     'blog.theme': 'Teema',
-    'blog.theme.info': 'Lehekülje väljanägemise muutmiseks saate teemat kohandada. See funktsioon ei ole praegu valmis.',
+    'blog.theme.info': 'Teemat kohandades saate muuta lehe välimust. See funktsioon ei ole praegu veel valmis.',
     'blog.posts.total': `Selles blogis pole {total, plural,
     zero {postitusi}
     one {on üks postitus}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Redigeeritakse {title}',
     'blog.post.text': 'Postituse tekst',
     'common.slug': 'SEO sõbralik aadress',
-    'blog.slug.explained': 'Kenalt välja nägev URL postituse juurde. Vältige erimärke, välja arvatud "-".',
+    'blog.slug.explained': 'Looge postituse jaoks kena välimusega URL. Vältige erimärkide kasutamist, välja arvatud "-".',
     'blog.publicView': 'Avalik vaade',
     'blog.post.notfound': 'Blogi postitust ei leitud',
     'blog.lists.works': `{type, select,

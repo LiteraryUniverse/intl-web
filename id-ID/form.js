@@ -3,7 +3,7 @@ export default {
     'form.validator.required': 'Bidang yang harus diisi',
     'form.validator.mustBeNumber': 'Harus berupa angka',
     'form.validator.minNumber': 'Harus lebih besar dari {min, number}',
-    'form.validator.maxNumber': 'Harus lebih kecil dari {max, number}',
+    'form.validator.maxNumber': 'Harus lebih rendah dari {max, number}',
     'form.validator.maxLength': `Harus kurang dari {max, number} {what, select,
     characters {karakter}
     tags {tag}

@@ -38,7 +38,7 @@ export default {
     'common.users': 'ಬಳಕೆದಾರರು',
     'common.showmore': 'ಹೆಚ್ಚಿನ ವಿವರಗಳು',
     'common.futurefeature.title': 'ಭವಿಷ್ಯ ಸೌಲಭ್ಯ',
-    'common.futurefeature.text': 'ನಿಮಗೆ ಅಪ್ಪಣೆ ಇಲ್ಲದ ವೇಳೆ ನಾವು ಖಂಡಿತವಾಗಿಯೂ ಈ ಸೌಲಭ್ಯವನ್ನು ಒದಗಿಸಲಾಗುವುದಿಲ್ಲ. ಅದನ್ನು ಏರ್ಪಡಿಸುವುದಕ್ಕಾಗಿ ನಾವು ಕಡಿಮೆ ಸಮಯದಲ್ಲಿ ಕಠಿಣವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದೇವೆ.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'ಯಾವುದೇ ಹುಡುಕಾಟವನ್ನು ಹೊಂದಲಾಗಲಿಲ್ಲ',
     'common.explore': 'ಅನ್ವೇಷಿಸು',
     'common.by': 'ಮೂಲಕ {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'ಗೊತ್ತಿಲ್ಲ',
     'common.legal.guidelines': 'ಸಮುದಾಯದ ಮಾರ್ಗದರ್ಶಿಕೆಗಳು',
     'errorLoading.title': 'ಪುಟ ಲೋಡ್ ಮಾಡುವಾಗ ತಪ್ಪಾಗಿದೆ',
-    'errorLoading.explained': 'ಪುಟ ಲೋಡ್ ಮಾಡುವಾಗ ತಪ್ಪಾಗಿದೆ. ಅನುಮೋದಿಸಿದರೆ ದಯವಿಟ್ಟು ಪುಟಕ್ಕೆ ಮರಳಿ ಪ್ರಯಾಸಿಸಿ. ಸಮಸ್ಯೆ ಮುಂದುವರಿದರೆ, ದಯವಿಟ್ಟು ನಮಗೆ ತಿಳಿಸಿ.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'ಮರುಪ್ರಯತ್ನಿಸಿ!',
     'errorLoading.takingLong': 'ಇದು ಹೆಚ್ಚು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದೆ...',
     'common.title': 'ಶೀರ್ಷಿಕೆ',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'ಜ್ಞಾನಕೋಶ ಲೇಖನಕ್ಕೆ ಹುಡುಕಾಟ...',
     'editor.saved.beta': 'ಬೀಟಾ ಓದುಗರಿಗೆ ಹೊಸ ಸಂಶೋಧನೆ ರಚಿಸಲಾಗಿದೆ!',
     'editor.saved.public': 'ಹೊಸ ಆವೃತ್ತಿ ಪ್ರಕಟಿಸಲಾಗಿದೆ!',
-    goodbyeForever: 'ನೀವು ಹೋಗುವುದನ್ನು ನೋಡಿ ನಮ್ಮನ್ನು ದುಃಖಿಸಿದ್ದೇವೆ. ಅದು ನಮ್ಮ ತಪ್ಪಾಗಿದ್ದರೆ ದಯವಿಟ್ಟು ನಮಗೆ ತಿಳಿಸಿ. ಯಾವಾಗಲೂ ನಿಮ್ಮ ಭವಿಷ್ಯದ ಪ್ರಯತ್ನಗಳಲ್ಲಿ ಯಶಸ್ವಿಯಾಗಿರಿ ಮತ್ತು ನಾವು ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ! ದೀರ್ಘಕಾಲ ಜೀವಿಸಿ ಮತ್ತು ಮೌಲ್ಯವಂತರಾಗಿ!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'ನಮಗೆ ಉತ್ತಮವಾಗಿ ಮಾಡಬಹುದಾದ ವಿಷಯಗಳನ್ನು ತಿಳಿಸಿ',
     'common.edit': 'ಸಂಪಾದಿಸು',
     'common.publish': 'ಪ್ರಕಟಿಸು',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'ಹೊಸತು',
     'common.oldest': 'ಪುರಾತನ',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

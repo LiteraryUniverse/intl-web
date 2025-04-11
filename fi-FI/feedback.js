@@ -1,7 +1,7 @@
 export default {
     'feedback.home': 'Ohjekeskus',
     'feedback.bugs': 'Asiat',
-    'feedback.bugs.desc': 'Tapaatko virheen tai jotain muuta, joka on väärin tai ei ole paikallaan. Kerro meille täällä!',
+    'feedback.bugs.desc': 'Tuliko sinulle virhe tai jotain muuta väärää tai epäsopivaa? Kerro meille täällä!',
     'feedback.features': 'Ideat ja ehdotukset',
     'feedback.features.desc': 'Onko sinulla ideoita uusista ominaisuuksista tai siitä, miten sivustosta voitaisiin tehdä parempi? Kerro meille!',
     'feedback.help': 'Ohjeet & Oppaat',
@@ -18,7 +18,7 @@ export default {
     'feedback.new.bugs': 'Ilmoita uudesta asiasta',
     'feedback.new.features': 'Ehdota uutta ominaisuutta',
     'feedback.lang.nosupport': 'Nykyistä kieltäsi ei tueta palautteen antamisessa, kirjoita englanniksi. Kiitos!',
-    'feedback.new.thanks': 'Kiitos ilmoituksesta! Tutkimme asiaa pian.',
+    'feedback.new.thanks': 'Kiitos ilmoituksesta! Tutkimme asiaa lähiaikoina.',
     'feedback.comment.title': 'Kommentti',
     'feedback.comment.desc': 'Lähetä meille palautetta',
     'feedback.comment.legend': 'Palautteesi - kerro meille mistä tahansa',

@@ -17,14 +17,14 @@ To activate your account, simply click the link below:\n\n{url}`,
     'email.signature': 'S přáním hezkého dne,<br />Literary Universe tým',
     // Enrollment
     'email.enrollAccount.welcome': 'Vítejte na palubě',
-    'email.enrollAccount.messageHtml': 'Rádi by jsme Vás pozvali na Literary Universe! Připravili jsme pro Vás osobní účet s plným přístupek k Literary Universe! Doufáme že se přidáte a pomůžete nám vytvořit další kapitolu v kreativním psaní a čtení!',
+    'email.enrollAccount.messageHtml': 'Rádi bychom vás pozvali do Literárního vesmíru! Připravili jsme pro vás osobní účet, kde máte přístup ke všem funkcím Literárního vesmíru. Připojte se k nám a vytvořte novou generaci tvůrčího psaní a čtení!',
     'email.enrollAccount.button': 'Zpřístupnit účet',
-    'email.enrollAccount.signature': 'Těšíme se na Vás,<br />Literary Universe tým',
+    'email.enrollAccount.signature': 'Těšíme se na vás,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Obdrželi jsme Váš požadavek na resetování Vašeho hesla, prosím klikněte na tlačítko níže k dokončení tohoto procesu.',
+    'email.resetPassword.messageHtml': 'Obdrželi jsme žádost o obnovení hesla k vašemu účtu. Pro pokračování v procesu klikněte na tlačítko níže. Pokud jste tuto žádost nepodali, můžete tento e-mail ignorovat, ale možná je vhodný čas zkontrolovat nastavení zabezpečení.',
     'email.resetPassword.button': 'Resetovat heslo',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Vítejte na palubě! Pro potvrzení této e-mailové adresy prosím klikněte na tlačítko níže.',
+    'email.verifyEmail.messageHtml': 'Jsme rádi, že jste se k nám připojili! Klikněte prosím na tlačítko níže pro ověření této e-mailové adresy.',
     'email.verifyEmail.button': 'Potvrzení e-mailové adresy',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Váš účet byl upgradován',

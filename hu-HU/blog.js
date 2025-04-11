@@ -14,7 +14,7 @@ export default {
   } beállítások`,
     'blog.description': 'Blog bevezetés',
     'blog.theme': 'Téma',
-    'blog.theme.info': 'Az oldal kinézetét a téma beállításával módosíthatja. Ez a funkció jelenleg nem érhető el.',
+    'blog.theme.info': 'A téma beállításával megváltoztathatja az oldal megjelenését. Ez a funkció jelenleg még nem készült el.',
     'blog.posts.total': `Ebben a blogban {total, plural,
     zero {nincsenek bejegyzések}
     one {egy bejegyzés}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'A(z) {title}szerkesztése',
     'blog.post.text': 'Bejegyzés szövege',
     'common.slug': 'SEO barát URL',
-    'blog.slug.explained': 'Vonzó kinézetű URL a bejegyzéshez. Kerülje a különleges karakterek használatát, kivéve "-" karaktert.',
+    'blog.slug.explained': 'Hozzon létre egy szépen kinéző URL-címet a bejegyzéshez. Kerülje a speciális karakterek használatát a "-" kivételével.',
     'blog.publicView': 'Nyilvános megtekintés',
     'blog.post.notfound': 'A blogbejegyzés nem található',
     'blog.lists.works': `{type, select,

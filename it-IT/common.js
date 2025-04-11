@@ -38,7 +38,7 @@ export default {
     'common.users': 'Utenti',
     'common.showmore': 'Mostra di più',
     'common.futurefeature.title': 'Prossime funzionalità',
-    'common.futurefeature.text': 'Siamo molto spiacenti, ma questa funzione non è disponibile in questo momento. Stiamo lavorando sodo per renderla disponibile il prima possibile.',
+    'common.futurefeature.text': 'Ci scusiamo, ma questa funzione non è disponibile al momento. Stiamo lavorando sodo per renderla disponibile il prima possibile.',
     'common.nothingfound': 'Nessun risultato',
     'common.explore': 'Esplora',
     'common.by': 'di {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'sconosciuto',
     'common.legal.guidelines': 'Linee guida della community',
     'errorLoading.title': 'Errore durante il caricamento della pagina',
-    'errorLoading.explained': 'Si è verificato un errore durante il caricamento della pagina. Ci scusiamo per il disagio. Prova ad accedere nuovamente alla pagina. Se il problema persiste, sei pregato/a di comunicarcelo.',
+    'errorLoading.explained': 'Si è verificato un errore durante il caricamento della pagina. Ci scusiamo per l\'inconveniente. Provi ad accedere nuovamente alla pagina. Se il problema persiste, ci informi.',
     'errorLoading.retry': 'Riprova!',
     'errorLoading.takingLong': 'Ci sta mettendo molto...',
     'common.title': 'Titolo',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Cerca voce enciclopedia...',
     'editor.saved.beta': 'Nuova revisione per i lettori Beta!',
     'editor.saved.public': 'Nuova versione pubblicata!',
-    goodbyeForever: 'Ci dispiace vederti andare via! Abbiamo sbagliato qualcosa? Ti chiediamo di farcelo sapere. In ogni caso ti auguriamo il meglio per le tue future imprese e speriamo di incontrati di nuovo! Lunga vita a te!',
+    goodbyeForever: 'Ci dispiace vederla andare via. È stato qualcosa che abbiamo fatto noi? Ci faccia sapere se è così. In ogni caso, le auguriamo il meglio nelle sue imprese future e speriamo di incontrarla di nuovo! Vivete a lungo e prosperate!',
     'goodbyeForever.feedback': 'Facci sapere cosa possiamo migliorare',
     'common.edit': 'Modifica',
     'common.publish': 'Pubblica',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Più recenti',
     'common.oldest': 'Più vecchi',
     'common.noSelection': 'Nessuna selezione',
-    'common.content': 'Contenuto'
+    'common.content': 'Contenuto',
+    'common.theWayOfTheAuthor': 'La via dell\'autore',
+    'common.password.hide': 'Nascondere la password',
+    'common.password.show': 'Mostra la password',
+    'common.forums': 'Forum'
 };

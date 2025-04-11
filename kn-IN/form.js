@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'ಅಗತ್ಯವಿರುವ ಕ್ಷೇತ್ರ',
     'form.validator.mustBeNumber': 'ಸಂಖ್ಯೆ ಆಗಿರಬೇಕು',
-    'form.validator.minNumber': 'ಈಗಿನಷ್ಟು ಹೆಚ್ಚಿರಲು ಬೇಕು {min, number}',
-    'form.validator.maxNumber': 'ಈಗಿನಷ್ಟು ಕಡಿಮೆಯಾಗಿರಲು ಬೇಕು {max, number}',
-    'form.validator.maxLength': `ಅಕ್ಷರಗಳು {max, number} {what, select,
-    characters {ಕಡಿಮೆ ಆಗಿರಬೇಕು}
-    tags {ಟ್ಯಾಗ್‌ಗಳು}
-    genres {ಜಾನ್ರೆಗಳು}
-    numbers {ಸಂಖ್ಯೆಗಳು}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `ಅಕ್ಷರಗಳು {min, number} {what, select,
-    characters {ಕಡಿಮೆಯಾಗಿರಬೇಕು}
-    tags {ಟ್ಯಾಗ್‌ಗಳು}
-    genres {ಜಾನ್ರೆಗಳು}
-    genre {ಜಾನ್ರೆ}
-    numbers {ಸಂಖ್ಯೆಗಳು}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'ಮಾನ್ಯ ಇಮೇಲ್ ಆಗಿರಬೇಕು',

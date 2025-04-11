@@ -38,7 +38,7 @@ export default {
     'common.users': 'Brukere',
     'common.showmore': 'Vis mer',
     'common.futurefeature.title': 'Fremtidig funksjon',
-    'common.futurefeature.text': 'Vi beklager veldig, men denne funksjonen er ikke tilgjengelig for øyeblikket. Vi jobber hardt for å gjøre den tilgjengelig så snart som mulig.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'Ingenting funnet',
     'common.explore': 'Utforsk',
     'common.by': 'av {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'ukjent',
     'common.legal.guidelines': 'Retningslinjer for fellesskapet',
     'errorLoading.title': 'Feil under lasting av side',
-    'errorLoading.explained': 'Det har oppstått en feil under lasting av siden. Vi beklager ulempen. Vennligst prøv å få tilgang til siden igjen. Hvis problemet vedvarer, vennligst gi oss beskjed.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Prøv igjen!',
     'errorLoading.takingLong': 'Dette tar lang tid...',
     'common.title': 'Tittel',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Søk etter oppslagsverk...',
     'editor.saved.beta': 'Ny revisjon opprettet for Betalese lesere!',
     'editor.saved.public': 'Ny versjon publisert!',
-    goodbyeForever: 'Vi beklager å se deg gå. Var det noe vi gjorde? Vennligst gi oss beskjed hvis det er tilfelle. Uansett ønsker vi deg alt godt i fremtidige bestrebelser og håper vi møtes igjen! Lev lenge og velstående!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Gi oss beskjed om hva vi kan gjøre bedre',
     'common.edit': 'Rediger',
     'common.publish': 'Publiser',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Nyeste',
     'common.oldest': 'Eldste',
     'common.noSelection': 'Ingen valg',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

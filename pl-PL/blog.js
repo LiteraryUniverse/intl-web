@@ -14,7 +14,7 @@ export default {
   } - ustawienia`,
     'blog.description': 'Wprowadzenie do bloga',
     'blog.theme': 'Motyw',
-    'blog.theme.info': 'Dostosowanie motywu umożliwi Ci zmianę wyglądu tej strony. Ta funkcja nie jest jeszcze gotowa.',
+    'blog.theme.info': 'Dostosowując motyw, będą Państwo mogli zmienić wygląd strony. Ta funkcja nie jest obecnie gotowa.',
     'blog.posts.total': `W tym blogu {total, plural,
     one {znajduje się jeden wpis}
     few {znajdują się # wpisy}
@@ -25,7 +25,7 @@ export default {
     'blog.post.update': 'Edytowanie {title}',
     'blog.post.text': 'Tekst wpisu',
     'common.slug': 'Adres przyjazny pozycjonowaniu',
-    'blog.slug.explained': 'Ładnie wyglądający odnośnik do wpisu. Unikaj używania znaków specjalnych z wyjątkiem "-".',
+    'blog.slug.explained': 'Proszę utworzyć ładnie wyglądający adres URL postu. Proszę unikać znaków specjalnych z wyjątkiem "-".',
     'blog.publicView': 'Widok publiczny',
     'blog.post.notfound': 'Nie znaleziono wpisu na blogu',
     'blog.lists.works': `{type, select,

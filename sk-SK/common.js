@@ -38,7 +38,7 @@ export default {
     'common.users': 'Uživatelia',
     'common.showmore': 'Zobraziť viac',
     'common.futurefeature.title': 'Budúca funkcia',
-    'common.futurefeature.text': 'Je nám veľmi ľúto, ale táto funkcia momentálne nie je k dispozícii. Usilovne pracujeme na tom, aby bola k dispozícii čo najskôr.',
+    'common.futurefeature.text': 'Ospravedlňujeme sa, ale táto funkcia momentálne nie je k dispozícii. Usilovne pracujeme na tom, aby bola k dispozícii čo najskôr.',
     'common.nothingfound': 'Nič sa nenašlo',
     'common.explore': 'Preskúmajte',
     'common.by': 'od {author}',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Vyhľadajte heslo v encyklopédii...',
     'editor.saved.beta': 'Vytvorená nová revízia pre beta čitateľov!',
     'editor.saved.public': 'Nová verzia zverejnená!',
-    goodbyeForever: 'Je nám ľúto, že odchádzate. Bolo to niečo, čo sme urobili? Dajte nám prosím vedieť, ak je to tak. Každopádne vám prajeme všetko najlepšie vo vašich ďalších aktivitách a dúfame, že sa ešte stretneme! Žite dlho a úspešne!',
+    goodbyeForever: 'Je nám ľúto, že odchádzate. Bolo to niečo, čo sme urobili? Dajte nám prosím vedieť, ak je to tak. Tak či onak, prajeme vám všetko najlepšie vo vašich budúcich aktivitách a dúfame, že sa ešte stretneme! Žite dlho a úspešne!',
     'goodbyeForever.feedback': 'Dajte nám vedieť, čo môžeme urobiť lepšie',
     'common.edit': 'Upraviť',
     'common.publish': 'Publikovať',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Najnovšie',
     'common.oldest': 'Najstaršie',
     'common.noSelection': 'Žiadny výber',
-    'common.content': 'Obsah'
+    'common.content': 'Obsah',
+    'common.theWayOfTheAuthor': 'Cesta autora',
+    'common.password.hide': 'Skryť heslo',
+    'common.password.show': 'Zobraziť heslo',
+    'common.forums': 'Fóra'
 };

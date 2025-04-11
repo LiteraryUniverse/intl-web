@@ -38,7 +38,7 @@ export default {
     'common.users': 'వాడుకరులు',
     'common.showmore': 'మరిన్ని చూపించు',
     'common.futurefeature.title': 'భవిష్యత్తు లక్షణం',
-    'common.futurefeature.text': 'మాకు చాలా క్షమిస్తుంది, కానీ ఈ లక్షణం ప్రస్తుతం అందుబాటులో లేదు. మాకు అద్యాపించడానికి కార్యచట్టం చేయడం కొరకు మీరు కఠినంగా ప్రయత్నిస్తున్నాము.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'ఏమీ కనపడలేదు',
     'common.explore': 'అన్వేషించు',
     'common.by': 'ద్వారా {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'unknown',
     'common.legal.guidelines': 'సముదాయ మార్గదర్శికలు',
     'errorLoading.title': 'Error during page load',
-    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Retry!',
     'errorLoading.takingLong': 'This is taking a long time...',
     'common.title': 'Title',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Search for encyclopedia entry...',
     'editor.saved.beta': 'New revision for Beta readers created!',
     'editor.saved.public': 'New version published!',
-    goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Let us know what we can do better',
     'common.edit': 'Edit',
     'common.publish': 'Publish',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'కొత్తతమమైనది',
     'common.oldest': 'పురాతన',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

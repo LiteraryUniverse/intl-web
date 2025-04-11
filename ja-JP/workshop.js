@@ -132,13 +132,17 @@ export default {
     'workshop.fictionalTime.createNow': '今すぐ設定しましょう',
     'workshop.fictionalTime.createTitle': '新しいフィクションタイムを作成する',
     'workshop.fictionalTime.editTitle': '編集{ftName}',
-    'workshop.fictionalTime.formDescription': `ここからご自身のフィクションタイムを作ることができます。現在、このツールは限定的で、対称的な時間しか設定できません。マヤ暦やグレゴリオ暦の再現ができません。現時点では、このツールは、すべての時間が常に同じとなります、例えば、月は常に30日であり、例外はありません。を想定しています。この点については、今後のバージョンで対応する予定ですが、それまで このツールは、主にSFの時間に適したつくりとなっています。`,
+    'workshop.fictionalTime.formDescription': `ここでは、あなた自身の架空の時間を作成することができます。現在のところ、このツールには制限があり、
+        対称時間しか作成できません。つまり、マヤ暦やグレゴリオ暦を再現することはできません。現時点では、
+        このツールは、すべての時間帯が常に同じであることを想定しています。例えば、月は例外なく常に30日であるなど、
+        。この点については後のバージョンで対応する予定ですが、それまでは、このツールは主に
+        sci-fiベースの時間システムを作成するのに適しています。`,
     'workshop.fictionalTime.timeName': '時間の名称',
     'workshop.fictionalTime.basicInfo': '基本情報',
     'workshop.fictionalTime.timeSetup': '時間設定',
     'workshop.fictionalTime.linkedToET': 'この時間は地球上の日付（グレゴリオ暦）から始まりますか。',
     'workshop.fictionalTime.timeDeclaration': '時間を申告する',
-    'workshop.fictionalTime.declarationLocation': '時間の名称はどこで申告しますか？',
+    'workshop.fictionalTime.declarationLocation': '時間名はどこで宣言するのか？',
     'workshop.fictionalTime.declarationBefore': 'ユニット前',
     'workshop.fictionalTime.declarationAfter': 'ユニット後',
     'workshop.fictionalTime.declarationNone': 'なし',
@@ -263,7 +267,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': '新しい章が6か月以上公開されていないため、自動的に休止状態になりました。',
     'workshop.statusChangeEmail.hiatusWhatFollows': '次の6か月以内に新しい章を公開しない場合、この状態は自動的に解除されず、ストーリーはキャンセルとされます。',
     'workshop.statusChangeEmail.cancellationIntro': 'ストーリーのステータスが自動的にキャンセルに設定されました。',
-    'workshop.statusChangeEmail.cancellationWhy': 'ストーリーが6か月前に休止状態に設定されてから新しい章が投稿されていないため、この状態が発生しました。1年間の非アクティブ状態の後、ストーリーは自動的にキャンセルされ、読者がアクティブなストーリーを把握できるようになります。',
+    'workshop.statusChangeEmail.cancellationWhy': 'これは、6ヶ月前に休載に設定されて以来、あなたがストーリーに新しい章を投稿していないために起こったことです。1年以上活動がない場合、読者がどのストーリーが活動中かわかるように、ストーリーを自動的にキャンセルに設定します。',
     'workshop.statusChangeEmail.cancellationWhatFollows': '次の6か月以内に新しい章を公開しない場合、この状態は自動的に解除されず、作業を続ける予定がない場合は何もする必要はありません。',
     'workshop.startCreating': '作成を開始する',
     'workshop.ownWork': '自分の作品',
@@ -281,5 +285,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'プロジェクトを離脱すると、すべてのアクセス、関連付け、権限が失われます。これが何を意味するのかよくわからない場合は、おそらくこれをクリックする必要はないでしょう。',
     'workshop.collaborators.leftInfo': '左に{date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'このコンテンツのAI生成ステータスは、ユーザーからの報告の結果、管理者によって調整されており、変更することはできません。'
+    'workshop.aiGeneratedAdjusted': 'このコンテンツのAI生成ステータスは、ユーザーからの報告の結果、管理者によって調整されており、変更することはできません。',
+    'workshop.theWay.authorProgress': '著者プログレス'
 };

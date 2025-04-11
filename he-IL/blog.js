@@ -14,7 +14,7 @@ export default {
   } הגדרות`,
     'blog.description': 'מבוא לבלוג',
     'blog.theme': 'ערכת עיצוב',
-    'blog.theme.info': 'על ידי התאמת הערכת עיצוב תהיה לך אפשרות לשנות את מראה העמוד. תכונה זו אינה מוכנה כרגע.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'עריכת {title}',
     'blog.post.text': 'תוכן הפוסט',
     'common.slug': 'כתובת ידידותית למנוע המונחים',
-    'blog.slug.explained': 'כתובת url יפה לפוסט. יש להימנע משימוש בתווים מיוחדים חוץ מ"-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'תצוגה ציבורית',
     'blog.post.notfound': 'פוסט הבלוג לא נמצא',
     'blog.lists.works': `{type, select,

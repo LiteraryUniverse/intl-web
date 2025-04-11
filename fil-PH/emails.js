@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Buong katapatan,<br />Literary Universe team',
     // Enrollment
     'email.enrollAccount.welcome': 'Maligayang pagdating sa Literary Universe!',
-    'email.enrollAccount.messageHtml': 'Nais naming imbitahan ka sa Literary Universe! Kami ay naghanda ng personal na account para sa iyo kung saan maaari mong ma-access ang lahat ng mga tampok ng Literary Universe! Sumali sa amin sa paglikha ng susunod na henerasyon ng malikhain at pagbabasa!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Buksan ang iyong account',
-    'email.enrollAccount.signature': 'We are looking forward to see you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Nakatanggap kami ng kahilingan na i-reset ang iyong password para sa iyong account, mangyaring i-click ang button sa ibaba upang magpatuloy sa proseso. Kung hindi mo ginawa ang kahilingang ito, maaari mong ipagwalang-bahala ang e-mail na ito, ngunit maaaring ito ang tamang panahon upang tingnan ang iyong mga setting sa seguridad.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'I-reset ang password',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Maligaya kami na ikaw ay sumali! Mangyaring i-click ang button sa ibaba upang patunayan ang e-mail address na ito.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'Patunayan ang e-mail address na ito',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Ang iyong account ay na-upgrade',

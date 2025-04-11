@@ -14,7 +14,7 @@ export default {
   } सेटिंग्स`,
     'blog.description': 'ब्लॉग परिचय',
     'blog.theme': 'थीम',
-    'blog.theme.info': 'थीम को एडजस्ट करके आप पेज के लुक को बदल सकेंगे। इस सुविधा को अभी तक तैयार नहीं किया गया है।',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `यहाँ {total, plural,
     zero {कोई पोस्ट नहीं है}
     one {एक पोस्ट है}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'संपादन कर रही हैं {title}',
     'blog.post.text': 'पोस्ट टेक्स्ट',
     'common.slug': 'एसईओ फ्रेंडली पता',
-    'blog.slug.explained': 'पोस्ट के लिए अच्छे दिखने वाला URL। "-" को छोड़कर विशेष वर्णों का प्रयोग न करें।',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'सार्वजनिक दृश्य',
     'blog.post.notfound': 'ब्लॉग पोस्ट नहीं मिली',
     'blog.lists.works': `{type, select,

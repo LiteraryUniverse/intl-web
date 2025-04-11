@@ -1,7 +1,7 @@
 export default {
     'feedback.home': 'Centrum pomoci',
     'feedback.bugs': 'Problémy',
-    'feedback.bugs.desc': 'Stretli ste sa s chybou alebo s niečím iným, čo je nesprávne alebo nie je na mieste. Dajte nám o tom vedieť tu!',
+    'feedback.bugs.desc': 'Stretli ste sa s chybou alebo s niečím iným, čo je nesprávne alebo nie je na mieste? Dajte nám vedieť!',
     'feedback.features': 'Nápady a návrhy',
     'feedback.features.desc': 'Máte nápady na nové funkcie alebo na zlepšenie stránky? Dajte nám vedieť!',
     'feedback.help': 'Pomoc a návody',
@@ -18,7 +18,7 @@ export default {
     'feedback.new.bugs': 'Nahlásiť nový problém',
     'feedback.new.features': 'Navrhnúť novú funkciu',
     'feedback.lang.nosupport': 'Váš aktuálny jazyk nie je podporovaný pre spätnú väzbu, píšte prosím v angličtine. Ďakujeme!',
-    'feedback.new.thanks': 'Ďakujeme za upozornenie! V krátkom čase sa na to pozrieme.',
+    'feedback.new.thanks': 'Ďakujeme za upozornenie! Čoskoro sa na to pozrieme.',
     'feedback.comment.title': 'Komentár',
     'feedback.comment.desc': 'Pošlite nám spätnú väzbu',
     'feedback.comment.legend': 'Vaša spätná väzba - dajte nám vedieť o čomkoľvek',

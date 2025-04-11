@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Обов\'язкове для заповнення поле',
     'form.validator.mustBeNumber': 'Повинно бути число',
-    'form.validator.minNumber': 'Повинно бути більшим за {min, number}',
-    'form.validator.maxNumber': 'Повинно бути меншим за {max, number}',
-    'form.validator.maxLength': `Повинно бути менше {max, number} {what, select,
+    'form.validator.minNumber': 'Повинно бути більше, ніж {min, number}',
+    'form.validator.maxNumber': 'Повинно бути нижче, ніж {max, number}',
+    'form.validator.maxLength': `Має бути менше {max, number} {what, select,
     characters {символів}
-    tags {позначок}
+    tags {тегів}
     genres {жанрів}
-    numbers {чисел}
+    numbers {номерів}
     other {}
   }`,
-    'form.validator.minLength': `Повинно бути не менше {min, number} {what, select,
+    'form.validator.minLength': `Має бути не менше {min, number} {what, select,
     characters {символів}
-    tags {позначок}
+    tags {тегів}
     genres {жанрів}
-    genre {жанру}
-    numbers {чисел}
+    genre {жанр}
+    numbers {номерів}
     other {}
   }`,
     'form.validator.email': 'Повинна бути дійсна електронна пошта',

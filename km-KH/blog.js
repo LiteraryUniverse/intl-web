@@ -14,7 +14,7 @@ export default {
   } ការកំណត់`,
     'blog.description': 'ការ​ណែនាំ​ពីប្លុក',
     'blog.theme': 'ស្បែក',
-    'blog.theme.info': 'ដោះស្វែងរក​ស្បែក​និង​អភិក្ខាប័ត្រក្នុង​បញ្ជាក់​បញ្ជីទំព័រ។ ការ​លក់ខ្លី​នេះ​គ្មានទេពីរបៀបទទក់ទងទៅ​នឹង​ភាពរស់នៅពេលនេះ។',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'កែសម្រួល {title}',
     'blog.post.text': 'អត្ថបទប្រភ័យ',
     'common.slug': 'អាសយដ្ឋានរួមជាមួយ SEO',
-    'blog.slug.explained': 'អត្រាផ្នែកមានទំព័រវេចខ្ចប់ទៅអត្ថបទ។ សូមចាប់ប្រព្រឹត្តការប្រើអក្សរពិសេសពីលេខអណ្តើកទំព័រពីរប។',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'ទិដ្ឋភាពសាធារណៈ',
     'blog.post.notfound': 'រកមិនឃើញប្លុកដែលត្រូវបានរកឃើញ',
     'blog.lists.works': `{type, select,

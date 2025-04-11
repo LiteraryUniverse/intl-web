@@ -14,7 +14,7 @@ export default {
   } asetukset`,
     'blog.description': 'Blogiesittely',
     'blog.theme': 'Teema',
-    'blog.theme.info': 'Muokkaamalla teemaa voit muuttaa sivun ulkonäköä. Tämä toiminto ei ole tällä hetkellä käytettävissä.',
+    'blog.theme.info': 'Säätämällä teemaa voit muuttaa sivun ulkoasua. Tämä ominaisuus ei ole valmis tällä hetkellä.',
     'blog.posts.total': `Siellä {total, plural,
     zero {ei ole viestejä}
     one {on yksi viesti}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Muokkaa viestiä ! {title}',
     'blog.post.text': 'Viestin teksti',
     'common.slug': 'SEO-ystävällinen osoite',
-    'blog.slug.explained': 'Kaunis url viestille. Vältä erikoismerkkejä paitsi "-".',
+    'blog.slug.explained': 'Luo postaukselle nätin näköinen URL-osoite. Vältä erikoismerkkejä lukuun ottamatta "-".',
     'blog.publicView': 'Julkinen näkymä',
     'blog.post.notfound': 'Blogiviestiä ei löytynyt',
     'blog.lists.works': `{type, select,

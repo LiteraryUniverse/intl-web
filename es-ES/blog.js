@@ -14,7 +14,7 @@ export default {
   } configuraciones`,
     'blog.description': 'Introducción del blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Al configurar el tema podrás cambiar la apariencia de la página. Está función no está disponible todavía.',
+    'blog.theme.info': 'Ajustando el tema, podrá cambiar el aspecto de la página. Esta función no está lista en este momento.',
     'blog.posts.total': `{total, plural,
     zero {No hay publicaciones}
     one {Hay una publicación}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Publicar texto',
     'common.slug': 'Dirección SEO friendly',
-    'blog.slug.explained': 'Escribe una url vistosa para la publicación. Evita utilizar caracteres especiales que no sean "-".',
+    'blog.slug.explained': 'Cree una URL atractiva para la entrada. Evite utilizar caracteres especiales excepto "-".',
     'blog.publicView': 'Vista pública',
     'blog.post.notfound': 'No se encontró la publicación',
     'blog.lists.works': `{type, select,

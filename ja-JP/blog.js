@@ -14,7 +14,7 @@ export default {
   }設定`,
     'blog.description': 'ブログ紹介',
     'blog.theme': 'テーマ',
-    'blog.theme.info': 'テーマを調整することで、ページの外観を変更することができます。この機能は、現時点では準備ができていません。',
+    'blog.theme.info': 'テーマを調整することで、ページの外観を変更することができます。この機能は現時点では未完成です。',
     'blog.posts.total': `このブログには{total, plural,
     zero {記事がありません}
     other {#つの記事があります}
@@ -23,7 +23,7 @@ export default {
     'blog.post.update': '{title} を編集',
     'blog.post.text': 'テキストを投稿',
     'common.slug': 'SEO対応アドレス',
-    'blog.slug.explained': '記事のURLがいい感じですね。"-"以外の特殊文字の使用は避けてください。',
+    'blog.slug.explained': '投稿用の見栄えの良いURLを作成する。特殊文字は"-"以外は使わない。',
     'blog.publicView': '公開表示',
     'blog.post.notfound': 'ブログの投稿が見つかりませんでした',
     'blog.lists.works': `{type, select,

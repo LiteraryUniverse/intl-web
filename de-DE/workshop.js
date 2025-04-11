@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Erstellen Sie jetzt einen!',
     'workshop.fictionalTime.createTitle': 'Anlegen einer neuen fiktiven Zeit',
     'workshop.fictionalTime.editTitle': 'Bearbeiten {ftName}',
-    'workshop.fictionalTime.formDescription': `Hier können Sie Ihre eigene fiktive Zeit erstellen. Zurzeit ist dieses Werkzeug eingeschränkt und kann nur
-        symmetrische Zeiten. Das bedeutet, dass Sie nicht in der Lage sein werden, den Maya-Kalender oder den Gregorianischen Kalender nachzubilden. Im Moment
-        erwartet dieses Werkzeug, dass alle Zeiten immer gleich sind, z. B. haben Monate immer 30 Tage ohne Ausnahme usw.
-        und so weiter. Wir werden uns in späteren Versionen damit befassen, aber bis dahin eignet sich dieses Tool eher für die Erstellung von primär
-        sci-fi-basierte Zeiten.`,
+    'workshop.fictionalTime.formDescription': `Hier können Sie Ihre eigene fiktive Zeit erstellen. Derzeit ist dieses Tool begrenzt und kann nur
+        symmetrische Zeiten erstellen. Das bedeutet, dass Sie nicht in der Lage sind, den Maya-Kalender oder den Gregorianischen Kalender nachzubilden. Im Moment geht
+        davon aus, dass alle Zeiträume immer gleich sind, z.B. haben Monate immer 30 Tage ohne Ausnahmen und so
+        weiter. Wir werden uns in späteren Versionen damit befassen, aber bis dahin ist dieses Tool eher für die Erstellung von hauptsächlich
+        sci-fi basierten Zeitsystemen geeignet.`,
     'workshop.fictionalTime.timeName': 'Zeitname',
     'workshop.fictionalTime.basicInfo': 'Beschreibung',
     'workshop.fictionalTime.timeSetup': 'Zeiteinstellung',
     'workshop.fictionalTime.linkedToET': 'Beginnt diese Zeit an einem Erddatum (Gregorianischer Kalender)?',
     'workshop.fictionalTime.timeDeclaration': 'Zeitangabe',
-    'workshop.fictionalTime.declarationLocation': 'Wo soll der Zeitname deklariert werden?',
+    'workshop.fictionalTime.declarationLocation': 'Wo soll der Zeitname angegeben werden?',
     'workshop.fictionalTime.declarationBefore': 'Vor Einheiten',
     'workshop.fictionalTime.declarationAfter': 'Nach Einheiten',
     'workshop.fictionalTime.declarationNone': 'Kein',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Wurde automatisch auf Hiatus gelegt, da über 6 Monate lang kein neues Kapitel veröffentlicht wurde.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Dieser Status wird automatisch aufgehoben, wenn Sie ein neues Kapitel veröffentlichen. Wenn Sie innerhalb der nächsten 6 Monate kein neues Kapitel veröffentlichen, wird die Geschichte automatisch als abgebrochen markiert.',
     'workshop.statusChangeEmail.cancellationIntro': 'Der Status Ihrer Geschichte wurde automatisch auf abgebrochen gesetzt.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Das ist passiert, weil Sie kein neues Kapitel zu der Geschichte gepostet haben, seit sie vor 6 Monaten auf Pause gesetzt wurde. Nach einem Jahr der Inaktivität setzen wir die Geschichten automatisch auf gelöscht, damit die Leser wissen, welche Geschichten aktiv sind.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Dies ist passiert, weil Sie kein neues Kapitel zu der Geschichte geschrieben haben, seit sie vor 6 Monaten auf Pause gesetzt wurde. Nach einem Jahr der Inaktivität setzen wir die Geschichten automatisch auf gelöscht, damit die Leser wissen, welche Geschichten aktiv sind.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Dieser Status wird automatisch aufgehoben, wenn Sie ein neues Kapitel veröffentlichen. Wenn Sie nicht mehr an dieser Geschichte arbeiten möchten, müssen Sie nichts weiter tun.',
     'workshop.startCreating': 'Erstellen starten',
     'workshop.ownWork': 'Eigene Arbeit',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Wenn Sie das Projekt verlassen, verlieren Sie alle Zugriffsrechte, Verbindungen und Privilegien. Wenn Sie sich nicht sicher sind, was das alles bedeutet, dann ist das wahrscheinlich nicht das, was Sie anklicken wollten.',
     'workshop.collaborators.leftInfo': 'Links auf {date, date}',
     'workshop.collaborators.removedInfo': 'Entfernt auf {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Der KI-Generierungsstatus dieses Inhalts wurde aufgrund eines Benutzerberichts von einem Administrator angepasst und kann nicht geändert werden.'
+    'workshop.aiGeneratedAdjusted': 'Der KI-Generierungsstatus dieses Inhalts wurde aufgrund eines Benutzerberichts von einem Administrator angepasst und kann nicht geändert werden.',
+    'workshop.theWay.authorProgress': 'Autor Fortschritt'
 };

@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Skep een nou!',
     'workshop.fictionalTime.createTitle': 'Skep \'n nuwe fiktiewe tyd',
     'workshop.fictionalTime.editTitle': 'Wysig {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Tydnaam',
     'workshop.fictionalTime.basicInfo': 'Basiese inligting',
     'workshop.fictionalTime.timeSetup': 'Tydopstelling',
     'workshop.fictionalTime.linkedToET': 'Begin hierdie tyd op \'n Aardse datum (Gregoriaanse kalender)?',
     'workshop.fictionalTime.timeDeclaration': 'Tydverklaring',
-    'workshop.fictionalTime.declarationLocation': 'Waar moet die tydnaam verklaar word?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Voor eenhede',
     'workshop.fictionalTime.declarationAfter': 'Na eenhede',
     'workshop.fictionalTime.declarationNone': 'Geen',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Dit is outomaties op hiatus geplaas as gevolg van geen nuwe hoofstuk wat in die afgelope 6 maande gepubliseer is.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Hierdie status sal outomaties opgehef word as jy \'n nuwe hoofstuk publiseer. As jy nie binne die volgende 6 maande \'n nuwe hoofstuk publiseer nie, sal ons die storie outomaties as gekanselleer stel.',
     'workshop.statusChangeEmail.cancellationIntro': 'Jou storie status is outomaties na gekanselleer gestel.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Dit het gebeur omdat jy geen nuwe hoofstuk na die storie gepos het sedert dit 6 maande gelede na hiatus gestel is. So na \'n jaar van onaktiwiteit stel ons stories outomaties as gekanselleer sodat lesers weet watter stories aktief is.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Hierdie status sal outomaties opgehef word as jy \'n nuwe hoofstuk publiseer. As jy nie van plan is om aan hierdie storie te werk nie, hoef jy niks anders te doen nie.',
     'workshop.startCreating': 'Begin skep',
     'workshop.ownWork': 'Eie werk',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+    'workshop.theWay.authorProgress': 'Author Progress'
 };

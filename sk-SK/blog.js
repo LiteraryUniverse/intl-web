@@ -14,7 +14,7 @@ export default {
   } `,
     'blog.description': 'Predstavenie blogu',
     'blog.theme': 'Téma',
-    'blog.theme.info': 'Úpravou témy budete môcť zmeniť vzhľad stránky. Táto funkcia nie je v súčasnosti pripravená.',
+    'blog.theme.info': 'Úpravou témy môžete zmeniť vzhľad stránky. Táto funkcia nie je v súčasnosti pripravená.',
     'blog.posts.total': `V tomto blogu {total, plural,
     =0 {nie sú žiadne príspevky}
     one {je jeden príspevok}
@@ -25,7 +25,7 @@ export default {
     'blog.post.update': 'Úprava {title}',
     'blog.post.text': 'Text príspevku',
     'common.slug': 'Adresa vhodná pre SEO',
-    'blog.slug.explained': 'Pekne vyzerajúce url na príspevok. Vyhnite sa používaniu špeciálnych znakov okrem "-".',
+    'blog.slug.explained': 'Vytvorte pekne vyzerajúcu adresu URL pre príspevok. Nepoužívajte špeciálne znaky okrem "-".',
     'blog.publicView': 'Verejný pohľad',
     'blog.post.notfound': 'Príspevok nebol nájdený',
     'blog.lists.works': `{type, select,

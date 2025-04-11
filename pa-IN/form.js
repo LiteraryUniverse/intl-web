@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'ਲਾਜ਼ਮੀ ਫੀਲਡ',
     'form.validator.mustBeNumber': 'ਇੱਕ ਨੰਬਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ',
-    'form.validator.minNumber': 'ਵੱਡਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ {min, number}',
-    'form.validator.maxNumber': 'ਛੋਟਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ {max, number}',
-    'form.validator.maxLength': `ਇਸ ਵਿੱਚ ਕਮ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ {max, number} {what, select,
-    characters {ਅੱਖਰ}
-    tags {ਟੈਗਾਂ}
-    genres {ਜਨਰਾਂ}
-    numbers {ਨੰਬਰਾਂ}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `ਇਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ {min, number} {what, select,
-    characters {ਅੱਖਰ}
-    tags {ਟੈਗਾਂ}
-    genres {ਜਨਰਾਂ}
-    genre {ਜਨਰ}
-    numbers {ਨੰਬਰਾਂ}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'ਇੱਕ ਵੈਧ ਈਮੇਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ',

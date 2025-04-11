@@ -14,7 +14,7 @@ export default {
   } 設定`,
     'blog.description': '部落格介紹',
     'blog.theme': '主題',
-    'blog.theme.info': '通過調整主題，您將能夠改變頁面的外觀。此功能目前尚未準備好。',
+    'blog.theme.info': '透過調整主題，您將能夠改變頁面的外觀。此功能目前尚未就緒。',
     'blog.posts.total': `此部落格中 {total, plural,
     zero {沒有文章}
     one {有一篇文章}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': '編輯 {title}',
     'blog.post.text': '文章內容',
     'common.slug': 'SEO友好網址',
-    'blog.slug.explained': '文章的網址應該看起來美觀，除了「-」之外，盡量避免使用特殊字符。',
+    'blog.slug.explained': '為文章建立美觀的 URL。除了「-」之外，避免使用特殊字符。',
     'blog.publicView': '公開查看',
     'blog.post.notfound': '找不到部落格文章',
     'blog.lists.works': `{type, select,

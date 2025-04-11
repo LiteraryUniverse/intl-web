@@ -38,7 +38,7 @@ export default {
     'common.users': 'Users',
     'common.showmore': 'Show more',
     'common.futurefeature.title': 'Future feature',
-    'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'Nothing found',
     'common.explore': 'Explore',
     'common.by': 'ଦ୍ୱାରା {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'unknown',
     'common.legal.guidelines': 'Community Guidelines',
     'errorLoading.title': 'Error during page load',
-    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Retry!',
     'errorLoading.takingLong': 'This is taking a long time...',
     'common.title': 'Title',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Search for encyclopedia entry...',
     'editor.saved.beta': 'New revision for Beta readers created!',
     'editor.saved.public': 'New version published!',
-    goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Let us know what we can do better',
     'common.edit': 'Edit',
     'common.publish': 'Publish',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'ନବିନତମ',
     'common.oldest': 'ପୁରୁଣା',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

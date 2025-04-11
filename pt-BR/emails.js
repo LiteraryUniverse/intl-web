@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Atenciosamente,<br />Equipe Universal Literária',
     // Enrollment
     'email.enrollAccount.welcome': 'Bem-vindo a bordo',
-    'email.enrollAccount.messageHtml': 'Gostaríamos de convidá-los a visitar o Universo Literário! Fomos adiante e preparamos uma conta pessoal para você, onde você poderá acessar todas as características do Universo Literário! Junte-se a nós para criar a próxima geração de escrita e leitura criativa!',
+    'email.enrollAccount.messageHtml': 'Gostaríamos de convidar o senhor para o Universo Literário! Preparamos uma conta pessoal para o senhor, onde poderá acessar todos os recursos do Literary Universe. Junte-se a nós na criação da próxima geração de escrita e leitura criativa!',
     'email.enrollAccount.button': 'Acessar sua conta',
-    'email.enrollAccount.signature': 'Estamos ansiosos para te ver,<br />equipe Literária Universo',
+    'email.enrollAccount.signature': 'Estamos ansiosos para ver o senhor,<br />Equipe do Universo Literário',
     // Reset password
-    'email.resetPassword.messageHtml': 'Recebemos uma solicitação para redefinir sua senha para sua conta, por favor clique no botão abaixo para continuar o processo. Se você não fez esta solicitação, você pode ignorar este e-mail, mas pode ser um bom momento para rever suas configurações de segurança.',
+    'email.resetPassword.messageHtml': 'Recebemos uma solicitação para redefinir a senha da sua conta. Clique no botão abaixo para continuar o processo. Se o senhor não tiver feito essa solicitação, poderá ignorar este e-mail, mas talvez seja uma boa hora para rever suas configurações de segurança.',
     'email.resetPassword.button': 'Redefinir senha',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Estamos felizes em tê-lo a bordo! Favor clicar no botão abaixo para verificar este endereço de e-mail.',
+    'email.verifyEmail.messageHtml': 'Estamos felizes por ter o senhor a bordo! Clique no botão abaixo para verificar este endereço de e-mail.',
     'email.verifyEmail.button': 'Verifique seu endereço de email',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Sua conta foi atualizada',

@@ -14,7 +14,7 @@ export default {
   } అమరికై సెట్టింగ్లు`,
     'blog.description': 'బ్లాగ్ పరిచయం',
     'blog.theme': 'థీమ్',
-    'blog.theme.info': 'థీమ్ సవరించడం ద్వారా మీరు పేజీ చూపించడం మారుతుంది. ఈ విశంగా ఈ విధంగా లేదు.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `ఇక్కడ ఈ బ్లాగ్లో {total, plural,
     zero {పోస్టులు}
     one {ఒక పోస్టు}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'సవరించు {title}',
     'blog.post.text': 'పోస్టు వచనం',
     'common.slug': 'SEO సౌజన్యం గూర్చి చిరునామా',
-    'blog.slug.explained': 'ఉత్కృష్ట కనబడే URL పోస్టుకు. "-" తో పద్ధతి చేయది తప్పక.',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'పబ్లిక్ వీక్షణ',
     'blog.post.notfound': 'బ్లాగ్ పోస్టు కనపడలేదు',
     'blog.lists.works': `{type, select,

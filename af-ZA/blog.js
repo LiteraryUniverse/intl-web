@@ -14,7 +14,7 @@ export default {
   } instellings`,
     'blog.description': 'Blog inleiding',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Deur die tema aan te pas sal jy die voorkoms van die bladsy kan verander. Hierdie funksie is nie gereed op hierdie tydstip nie.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `Daar {total, plural,
     zero {is geen plasings}
     one {is een plasing}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Wysig {title}',
     'blog.post.text': 'Plasing teks',
     'common.slug': 'SEO vriendelike adres',
-    'blog.slug.explained': 'Netjiese URL vir die bladsy. Vermy die gebruik van spesiale karakters behalwe vir "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Openbare aansig',
     'blog.post.notfound': 'Blog plasing kon nie gevind word nie',
     'blog.lists.works': `{type, select,

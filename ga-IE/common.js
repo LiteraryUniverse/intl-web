@@ -38,7 +38,7 @@ export default {
     'common.users': 'Úsáideoirí',
     'common.showmore': 'Taispeáin níos mó',
     'common.futurefeature.title': 'Gné amach romhainn',
-    'common.futurefeature.text': 'Táimid an-bhuíoch, ach níl an gné seo ar fáil faoi láthair. Táimid ag obair go dian chun é a dhéanamh ar fáil chomh luath agus is féidir.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'Rud ar bith nach bhfuil aimsithe',
     'common.explore': 'Fiosrú',
     'common.by': 'ag {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'anaithnid',
     'common.legal.guidelines': 'Treoracha Pobail',
     'errorLoading.title': 'Earráid le lódáil an leathanaigh',
-    'errorLoading.explained': 'Tharla earráid agus an leathanach á lódáil. Gabhaimid leithscéal as an bhfadhb. Déan iarracht an leathanach a rochtain arís. Má leanann an fhadhb ort, inis dúinn le do thoil.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Ath-trial!',
     'errorLoading.takingLong': 'Tá sé seo ag tógáil i bhfad...',
     'common.title': 'Teideal',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Cuardaigh le haghaidh iontráil sa leabharlann...',
     'editor.saved.beta': 'Cruthúnas nua cruthaithe do léitheoirí Beite!',
     'editor.saved.public': 'Leagan nua foilsithe!',
-    goodbyeForever: 'Tá áthas orainn a fheiceáil ag imeacht. An raibh rud ar bith a rinneamar? Inis dúinn má tá sé sin an cás. Ar aon nós, guímid gach rath ort i do chuid iarrachtaí amach anseo agus tá súil againn go gcasfaidh muid arís! Beatha fada agus síochánta ort!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Inis dúinn cad is féidir linn a dhéanamh níos fearr',
     'common.edit': 'Cuir in Eagar',
     'common.publish': 'Foilsigh',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Is Déanaí',
     'common.oldest': 'Seana',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

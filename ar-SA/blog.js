@@ -14,7 +14,7 @@ export default {
   }`,
     'blog.description': 'مقدمة المدونة',
     'blog.theme': 'الموضوع',
-    'blog.theme.info': 'عند ضبط الموضوع ، ستتمكن من تغيير شكل الصفحة. هذه الميزة غير متاحة في الوقت الحالي.',
+    'blog.theme.info': 'من خلال تعديل القالب، ستتمكن من تغيير شكل الصفحة. هذه الميزة ليست جاهزة في الوقت الحالي.',
     'blog.posts.total': `{total, plural,
     zero {لا توجد مشاركات}
     one {هناك مشاركة واحدة}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'تحرير {title}',
     'blog.post.text': 'نص المشاركة',
     'common.slug': 'عنوان صديق لمحركات البحث',
-    'blog.slug.explained': 'رابط جميل للمشاركة. تجنب استخدام الحروف الخاصة ما عدا "-".',
+    'blog.slug.explained': 'قم بإنشاء عنوان URL جميل المظهر للمنشور. تجنب استخدام أحرف خاصة باستثناء "-".',
     'blog.publicView': 'عرض عام',
     'blog.post.notfound': 'لم يتم العثور على مدونة',
     'blog.lists.works': `{type, select,

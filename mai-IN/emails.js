@@ -17,14 +17,14 @@ export default {
     'email.signature': 'आभारी,<br />साहित्यिक ब्रह्माण्ड टोली',
     // Enrollment
     'email.enrollAccount.welcome': 'स्वागत छ',
-    'email.enrollAccount.messageHtml': 'हामीले तपाईंलाई साहित्यिक ब्रह्माण्डमा आमंत्रण गर्न चाहान्छौं! हामीले तपाईंको लागि एउटा व्यक्तिगत खाता सिर्जना गरेका छौं जहाँ तपाईंले साहित्यिक ब्रह्माण्डका सबै सुविधाहरूमा पहुँच प्राप्त गर्न सक्नुहुन्छ! कृपया हाम्रो सहकार्यमा साहित्यिक लेखन र पठन उपकरणको अगाडीको पीढी सिर्जना गर्न जोडिनुहोस्!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'तपाईंको खातामा पहुँच गर्नुहोस्',
-    'email.enrollAccount.signature': 'हम आपको देखने की उम्मीद कर रहे हैं,<br />लिटररी यूनिवर्स टीम',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'हमें आपके खाते के लिए आपके पासवर्ड रीसेट करने का एक अनुरोध प्राप्त हुआ है, कृपया प्रक्रिया जारी रखने के लिए नीचे दिए गए बटन पर क्लिक करें। यदि आपने यह अनुरोध नहीं किया है तो आप इस ईमेल को नजरअंदाज कर सकते हैं, लेकिन यह आपके सुरक्षा सेटिंग की समीक्षा करने का एक अच्छा समय हो सकता है।',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'पासवर्ड रीसेट करें',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'हमें आपको बोर्ड पर खुशी है! कृपया इस ईमेल पते की पुष्टि करने के लिए नीचे दिए गए बटन पर क्लिक करें।',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'इस ईमेल पते की पुष्टि करें',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'आपका खाता अपग्रेड कर दिया गया है',

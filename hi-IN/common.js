@@ -38,7 +38,7 @@ export default {
     'common.users': 'उपयोगकर्ता',
     'common.showmore': 'और दिखाएँ',
     'common.futurefeature.title': 'भविष्य की सुविधा',
-    'common.futurefeature.text': 'हम बहुत खेद हैं, लेकिन यह सुविधा इस समय उपलब्ध नहीं है। हम इसे जल्द से जल्द उपलब्ध कराने के लिए कड़ी मेहनत कर रहे हैं।',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'कुछ नहीं मिला',
     'common.explore': 'खोजें',
     'common.by': 'द्वारा {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'अज्ञात',
     'common.legal.guidelines': 'समुदाय दिशा-निर्देश',
     'errorLoading.title': 'पृष्ठ लोड करते समय त्रुटि',
-    'errorLoading.explained': 'पृष्ठ लोड हो रहे समय त्रुटि हुई है। हम असुविधा के लिए खेद करते हैं। कृपया पृष्ठ तक पुनः पहुँचने का प्रयास करें। यदि समस्या बनी रहती है, तो कृपया हमें जानकारी दें।',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'पुनः प्रयास करें!',
     'errorLoading.takingLong': 'यह बहुत समय ले रहा है...',
     'common.title': 'शीर्षक',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'संदर्भ पुस्तिका प्रविष्टि के लिए खोजें...',
     'editor.saved.beta': 'बीटा पाठकों के लिए नया संशोधन बनाया गया है!',
     'editor.saved.public': 'नया संस्करण प्रकाशित हुआ है!',
-    goodbyeForever: 'हमें देखकर दुःख हुआ। क्या हमने कुछ गलती की? कृपया बताएं कि क्या ऐसा हुआ है। चाहे जैसा भी हो, हम आपके भविष्य के प्रयासों में आपको सर्वश्रेष्ठ की शुभकामनाएं देते हैं और उम्मीद करते हैं कि हम फिर से मिलेंगे! लंबी उम्र हो और आगे बढ़ो!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'हमें बताएं कि हम क्या बेहतर कर सकते हैं',
     'common.edit': 'संपादित करें',
     'common.publish': 'प्रकाशित करें',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'नवीनतम',
     'common.oldest': 'सबसे पुराना',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

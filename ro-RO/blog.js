@@ -14,7 +14,7 @@ export default {
   }`,
     'blog.description': 'Introducere în blog',
     'blog.theme': 'Tematică',
-    'blog.theme.info': 'Ajustând tema, veți putea schimba aspectul paginii. Această funcționalitate nu este disponibilă în acest moment.',
+    'blog.theme.info': 'Prin ajustarea temei, veți putea schimba aspectul paginii. Această caracteristică nu este gata în acest moment.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Editarea postării {title}',
     'blog.post.text': 'Textul postării',
     'common.slug': 'Adresă amicală pentru SEO',
-    'blog.slug.explained': 'Adresă URL frumoasă pentru postare. Evitați utilizarea de caractere speciale, cu excepția "-".',
+    'blog.slug.explained': 'Creați o adresă URL frumoasă pentru post. Evitați utilizarea caracterelor speciale, cu excepția "-".',
     'blog.publicView': 'Vizualizare publică',
     'blog.post.notfound': 'Postarea blogului nu a fost găsită',
     'blog.lists.works': `{type, select,

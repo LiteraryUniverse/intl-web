@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Create one now!',
     'workshop.fictionalTime.createTitle': 'Create a new fictional time',
     'workshop.fictionalTime.editTitle': 'Edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Time name',
     'workshop.fictionalTime.basicInfo': 'Basic information',
     'workshop.fictionalTime.timeSetup': 'Time setup',
     'workshop.fictionalTime.linkedToET': 'Does this time start on an Earth date (Gregorian calendar)?',
     'workshop.fictionalTime.timeDeclaration': 'Time declaration',
-    'workshop.fictionalTime.declarationLocation': 'Where should be the time name be declared?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Before units',
     'workshop.fictionalTime.declarationAfter': 'After units',
     'workshop.fictionalTime.declarationNone': 'None',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'თქვენი მოთავსებული თავისუფლებების გარეშე თქვენი მოთხოვნის სტატუსი ავტომატურად გადატანილია hiatus-ზე 6 თვის ზემოთ.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'ეს სტატუსი ავტომატურად მოიხსენით, თუ ახალი თავისუფლება გამოგიცემთ. თუ ახალი თავისუფლება არ გამოგიცემთ მომდევნო 6 თვეში, სტატუსი ავტომატურად დაყენებადია cancelled.',
     'workshop.statusChangeEmail.cancellationIntro': 'თქვენი მოთხოვნის სტატუსი ავტომატურად დაყენებულია cancelled-ზე.',
-    'workshop.statusChangeEmail.cancellationWhy': 'ეს მოხდა, რადგან არ განიხილეთ ახალი თავისუფლება ისეთი მოთავსების შემდეგ, როგორც 6 თვის წინ hiatus-ზე დაყენებული. ამიტომ წიგნებს, რომლებიც აქტიურია, ჩვენ ავტომატურად დავაყენებთ cancelled სტატუსზე, რათა მიუთითოს წამომყვანილი წიგნები.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'ეს სტატუსი ავტომატურად მოიხსენით, თუ ახალი თავისუფლება გამოგიცემთ. თუ არ გინდათ მუშაობა ამ მოთავსებით, დანარჩენია არაფერი, რაც საჭიროებს გაკეთებას.',
     'workshop.startCreating': 'შექმენით',
     'workshop.ownWork': 'თქვენი თავისუფლება',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+    'workshop.theWay.authorProgress': 'Author Progress'
 };

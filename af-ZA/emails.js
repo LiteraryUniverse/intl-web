@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Opreg,<br />Literêre Heelal span',
     // Enrollment
     'email.enrollAccount.welcome': 'Welkom aan boord',
-    'email.enrollAccount.messageHtml': 'Ons wil jou graag uitnooi na die Literêre Heelal! Ons het \'n persoonlike rekening vir jou voorberei waar jy toegang kan kry tot alle kenmerke van die Literêre Heelal! Sluit asseblief by ons aan om die volgende generasie van skeppende skryf- en leeswerk te skep!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Kry toegang tot jou rekening',
-    'email.enrollAccount.signature': 'Ons sien daarna uit om jou te sien,<br />Literary Universe-span',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Ons het \'n versoek ontvang om jou wagwoord vir jou rekening te herstel, klik asseblief op die knoppie hieronder om die proses voort te sit. As jy nie hierdie versoek gemaak het nie, kan jy hierdie e-pos ignoreer, maar dit mag \'n goeie tyd wees om jou sekuriteitsinstellings te hersien.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Herstel wagwoord',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Ons is bly om jou aan boord te hê! Klik asseblief op die knoppie hieronder om hierdie e-posadres te verifieer.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'Verifieer hierdie e-posadres',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Jou rekening is opgegradeer',

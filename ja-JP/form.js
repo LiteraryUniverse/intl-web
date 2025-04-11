@@ -2,23 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': '必須項目',
     'form.validator.mustBeNumber': '数字を指定してください',
-    'form.validator.minNumber': '{min, number}以上であること',
-    'form.validator.maxNumber': '{max, number}以下であること',
-    'form.validator.maxLength': `{max, number}{what, select,
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `{max, number} {what, select,
     characters {文字}
     tags {タグ}
-    genres {ジャンルは}
+    genres {ジャンル}
     numbers {数字}
     other {}
-  }以下であること`,
-    'form.validator.minLength': `少なくとも{min,number}{what, select,
+  }以下でなければなりません。`,
+    'form.validator.minLength': `少なくとも {min, number} {what, select,
     characters {文字}
     tags {タグ}
-    genres {ジャンルは}
-    genre {ジャンルは}
+    genres {ジャンル}
+    genre {ジャンル}
     numbers {数字}
     other {}
-  }`,
+  }でなければならない。`,
     'form.validator.email': '有効なメールアドレスである必要があります',
     'form.validator.url': '有効なURIである必要があります',
     'form.validator.slug': 'URIの一部が有効である必要があります',

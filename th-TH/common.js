@@ -38,7 +38,7 @@ export default {
     'common.users': 'ผู้ใช้',
     'common.showmore': 'แสดงเพิ่มเติม',
     'common.futurefeature.title': 'คุณสมบัติในอนาคต',
-    'common.futurefeature.text': 'ขออภัยมาก แต่คุณสมบัตินี้ไม่สามารถใช้ได้ในเวลานี้ เรากำลังทำงานอย่างหนักเพื่อทำให้มันพร้อมใช้งานโดยเร็วที่สุด',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'ไม่พบข้อมูล',
     'common.explore': 'สำรวจ',
     'common.by': 'โดย {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'ไม่ทราบ',
     'common.legal.guidelines': 'แนวปฏิบัติของชุมชน',
     'errorLoading.title': 'ข้อผิดพลาดในการโหลดหน้า',
-    'errorLoading.explained': 'เกิดข้อผิดพลาดขณะที่กำลังโหลดหน้า ขออภัยในความไม่สะดวก โปรดลองเข้าถึงหน้าอีกครั้ง หากปัญหายังคงอยู่โปรดแจ้งเรา',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'ลองใหม่!',
     'errorLoading.takingLong': 'การดาวน์โหลดนี้ใช้เวลานาน...',
     'common.title': 'ชื่อเรื่อง',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'ค้นหาสำหรับรายการสารานุกรม...',
     'editor.saved.beta': 'สร้างรีวิวใหม่สำหรับผู้อ่านเบต้าแล้ว!',
     'editor.saved.public': 'เผยแพร่เวอร์ชันใหม่แล้ว!',
-    goodbyeForever: 'เสียใจที่เราต้องเห็นคุณไป มันเป็นเพราะสิ่งที่เราทำหรือเปล่า? โปรดแจ้งเราหากเป็นเช่นนั้น ไม่ว่าอย่างไรเราก็ขอให้คุณโชคดีในการลงมือทำสิ่งที่คุณต้องการในอนาคตและหวังว่าเราจะพบกันอีกครั้ง! ให้คุณมีชีวิตอย่างยาวนานและเจริญรุ่งเรือง!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'โปรดแจ้งเราว่าเราสามารถปรับปรุงอะไรให้ดีขึ้นได้อย่างไร',
     'common.edit': 'แก้ไข',
     'common.publish': 'เผยแพร่',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'ล่าสุด',
     'common.oldest': 'เก่าที่สุด',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

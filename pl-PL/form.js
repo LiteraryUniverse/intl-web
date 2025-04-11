@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Wymagane pole',
     'form.validator.mustBeNumber': 'Musi być liczbą',
-    'form.validator.minNumber': 'Powinna być większa niż {min, number}',
-    'form.validator.maxNumber': 'Powinna być niższa niż {max, number}',
-    'form.validator.maxLength': `Należy użyć mniej niż {max, number} {what, select,
+    'form.validator.minNumber': 'Musi być większa niż {min, number}',
+    'form.validator.maxNumber': 'Musi być niższa niż {max, number}',
+    'form.validator.maxLength': `Musi być mniejsza niż {max, number} {what, select,
     characters {znaków}
-    tags {etykiet}
+    tags {tagów}
     genres {gatunków}
-    numbers {numery}
+    numbers {liczb}
     other {}
   }`,
-    'form.validator.minLength': `Należy użyć co najmniej {min, number} {what, select,
-    characters {znaków}
-    tags {etykiet}
-    genres {gatunków}
+    'form.validator.minLength': `Musi być co najmniej {min, number} {what, select,
+    characters {znaki}
+    tags {tagi}
+    genres {gatunki}
     genre {gatunek}
-    numbers {numery}
+    numbers {liczby}
     other {}
   }`,
     'form.validator.email': 'Musi to być ważny adres e-mail',
