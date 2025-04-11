@@ -276,5 +276,6 @@ export default {
     'common.content': 'Turinys',
     'common.theWayOfTheAuthor': 'Autoriaus kelias',
     'common.password.hide': 'Paslėpti slaptažodį',
-    'common.password.show': 'Rodyti slaptažodį'
+    'common.password.show': 'Rodyti slaptažodį',
+    'common.forums': 'Forumai'
 };
