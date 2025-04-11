@@ -276,5 +276,6 @@ export default {
     'common.content': 'Sisältö',
     'common.theWayOfTheAuthor': 'Kirjailijan tie',
     'common.password.hide': 'Piilota salasana',
-    'common.password.show': 'Näytä salasana'
+    'common.password.show': 'Näytä salasana',
+    'common.forums': 'Foorumit'
 };
