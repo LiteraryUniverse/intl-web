@@ -276,5 +276,6 @@ export default {
     'common.content': 'Conținut',
     'common.theWayOfTheAuthor': 'Calea autorului',
     'common.password.hide': 'Ascunde parola',
-    'common.password.show': 'Afișați parola'
+    'common.password.show': 'Afișați parola',
+    'common.forums': 'Forumuri'
 };
