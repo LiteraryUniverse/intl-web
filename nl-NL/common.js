@@ -276,5 +276,6 @@ export default {
     'common.content': 'Inhoud',
     'common.theWayOfTheAuthor': 'De Weg van de Auteur',
     'common.password.hide': 'Verberg wachtwoord',
-    'common.password.show': 'Wachtwoord tonen'
+    'common.password.show': 'Wachtwoord tonen',
+    'common.forums': 'Forums'
 };
