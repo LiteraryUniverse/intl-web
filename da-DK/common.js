@@ -276,5 +276,6 @@ export default {
     'common.content': 'Indhold',
     'common.theWayOfTheAuthor': 'Forfatterens vej',
     'common.password.hide': 'Skjul adgangskode',
-    'common.password.show': 'Vis adgangskode'
+    'common.password.show': 'Vis adgangskode',
+    'common.forums': 'Fora'
 };
