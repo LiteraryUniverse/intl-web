@@ -276,5 +276,6 @@ export default {
     'common.content': 'Konten',
     'common.theWayOfTheAuthor': 'Cara Penulis',
     'common.password.hide': 'Sembunyikan Kata Sandi',
-    'common.password.show': 'Tampilkan Kata Sandi'
+    'common.password.show': 'Tampilkan Kata Sandi',
+    'common.forums': 'Forum'
 };
