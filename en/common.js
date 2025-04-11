@@ -308,4 +308,5 @@ export default {
 
   'common.password.hide': 'Hide Password',
   'common.password.show': 'Show Password',
+  'common.forums': 'Forums',
 }
