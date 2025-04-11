@@ -276,5 +276,6 @@ export default {
     'common.content': 'Содержание',
     'common.theWayOfTheAuthor': 'Путь автора',
     'common.password.hide': 'Скрыть пароль',
-    'common.password.show': 'Показать пароль'
+    'common.password.show': 'Показать пароль',
+    'common.forums': 'Форумы'
 };
