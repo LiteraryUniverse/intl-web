@@ -276,5 +276,6 @@ export default {
     'common.content': 'Innehåll',
     'common.theWayOfTheAuthor': 'Författarens väg',
     'common.password.hide': 'Dölj lösenord',
-    'common.password.show': 'Visa lösenord'
+    'common.password.show': 'Visa lösenord',
+    'common.forums': 'Forum'
 };
