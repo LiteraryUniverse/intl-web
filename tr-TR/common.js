@@ -276,5 +276,6 @@ export default {
     'common.content': 'İçerik',
     'common.theWayOfTheAuthor': 'Yazarın Yolu',
     'common.password.hide': 'Parolayı Gizle',
-    'common.password.show': 'Şifreyi Göster'
+    'common.password.show': 'Şifreyi Göster',
+    'common.forums': 'Forumlar'
 };
