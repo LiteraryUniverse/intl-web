@@ -276,5 +276,6 @@ export default {
     'common.content': 'Conteúdo',
     'common.theWayOfTheAuthor': 'O caminho do autor',
     'common.password.hide': 'Ocultar senha',
-    'common.password.show': 'Mostrar senha'
+    'common.password.show': 'Mostrar senha',
+    'common.forums': 'Fóruns'
 };
