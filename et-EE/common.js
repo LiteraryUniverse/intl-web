@@ -276,5 +276,6 @@ export default {
     'common.content': 'Sisu',
     'common.theWayOfTheAuthor': 'Autori tee',
     'common.password.hide': 'Peida salasõna',
-    'common.password.show': 'Näita salasõna'
+    'common.password.show': 'Näita salasõna',
+    'common.forums': 'Foorumid'
 };
