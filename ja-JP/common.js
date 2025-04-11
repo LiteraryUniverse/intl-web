@@ -276,5 +276,6 @@ export default {
     'common.content': '内容',
     'common.theWayOfTheAuthor': '作家の道',
     'common.password.hide': 'パスワードを隠す',
-    'common.password.show': 'パスワードの表示'
+    'common.password.show': 'パスワードの表示',
+    'common.forums': 'フォーラム'
 };
