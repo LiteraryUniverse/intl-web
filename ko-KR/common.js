@@ -276,5 +276,6 @@ export default {
     'common.content': '콘텐츠',
     'common.theWayOfTheAuthor': '저자의 길',
     'common.password.hide': '비밀번호 숨기기',
-    'common.password.show': '비밀번호 표시'
+    'common.password.show': '비밀번호 표시',
+    'common.forums': '포럼'
 };
