@@ -1,5 +1,12 @@
 # Changelog for languages
 
+## 2025-04-12 - v2.15.5
+
+* More The Way of the Author strings
+* Show/hide password
+* Add missing `common.forums`
+* Grammar improvements
+
 ## 2025-03-29 - v2.15.4
 
 * New encyclopedia categories
