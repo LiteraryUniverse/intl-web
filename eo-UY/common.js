@@ -38,7 +38,7 @@ export default {
     'common.users': 'Uzantoj',
     'common.showmore': 'Montru pli',
     'common.futurefeature.title': 'Future feature',
-    'common.futurefeature.text': 'We are very sorry, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'Nenio trovita',
     'common.explore': 'Esplori',
     'common.by': 'per {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'nekonata',
     'common.legal.guidelines': 'Komunumaj Gvidnormoj',
     'errorLoading.title': 'Eraro dum paĝokarado',
-    'errorLoading.explained': 'Okazis eraro dum la paĝo ŝargiĝis. Ni bedaŭras la maloportunecon. Bonvolu reprovi aliri la paĝon denove. Se la problemon daŭras, bonvolu sciigi nin.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Reprovi!',
     'errorLoading.takingLong': 'Tio daŭras longe...',
     'common.title': 'Titolo',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Serĉu por enciklopedia artikolo...',
     'editor.saved.beta': 'Nova revizio kreita por Beta-legantoj!',
     'editor.saved.public': 'Nova versio publikigita!',
-    goodbyeForever: 'Ni bedaŭras, ke vi foriras. Ĉu estis io, kion ni faris? Bonvolu sciigi nin, se tio estas la kazo. Ajne, ni deziras al vi la plej bonan en viaj estontaj entreprenoj kaj esperas, ke ni renkontiĝos denove! Vivu longe kaj prosperu!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Diru al ni, kion ni povas fari pli bone',
     'common.edit': 'Redakti',
     'common.publish': 'Publikigi',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Plej nova',
     'common.oldest': 'Plej malnova',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

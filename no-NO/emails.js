@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Med vennlig hilsen,<br />Literary Universe-teamet',
     // Enrollment
     'email.enrollAccount.welcome': 'Velkommen om bord',
-    'email.enrollAccount.messageHtml': 'Vi ønsker å invitere deg til Literary Universe! Vi har allerede opprettet en personlig konto for deg der du kan få tilgang til alle funksjoner i Literary Universe! Bli med oss ​​i å skape neste generasjon av kreativ skriving og lesing!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Få tilgang til kontoen din',
-    'email.enrollAccount.signature': 'Vi ser frem til å se deg,<br />Literary Universe-teamet',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Vi har mottatt en forespørsel om å tilbakestille passordet for kontoen din. Vennligst klikk på knappen nedenfor for å fortsette prosessen. Hvis du ikke har sendt denne forespørselen, kan du ignorere denne e-posten, men det kan være lurt å gjennomgå sikkerhetsinnstillingene dine.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Tilbakestill passord',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Vi er glade for å ha deg med oss! Vennligst klikk på knappen nedenfor for å verifisere denne e-postadressen.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'Verifiser denne e-postadressen',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Kontoen din har blitt oppgradert',

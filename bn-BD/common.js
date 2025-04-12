@@ -38,7 +38,7 @@ export default {
     'common.users': 'ব্যবহারকারীরা',
     'common.showmore': 'আরো দেখুন',
     'common.futurefeature.title': 'ভবিষ্যত বৈশিষ্ট্য',
-    'common.futurefeature.text': 'আমরা খুব দুঃখিত, কিন্তু এই বৈশিষ্ট্যটি এখনও উপলব্ধ নয়। আমরা এটি যত তাড়াতাড়ি সম্ভব উপলব্ধ করতে কঠোরভাবে কাজ করছি।',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'কিছুই পাওয়া যায়নি',
     'common.explore': 'অন্বেষণ করুন',
     'common.by': 'দ্বারা {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'অজানা',
     'common.legal.guidelines': 'সম্প্রদায়ের নির্দেশিকা',
     'errorLoading.title': 'পৃষ্ঠা লোড করতে ত্রুটি',
-    'errorLoading.explained': 'পৃষ্ঠাটি লোড করা হয়েছের সময়ে একটি ত্রুটি হয়েছে। আমরা আপত্তি করে চলেছি। দয়া করে পৃষ্ঠাটি আবার অ্যাক্সেস করার চেষ্টা করুন। সমস্যাটি অবলম্বন করলে, অনুগ্রহ করে আমাদের জানান।',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'পুনরায় চেষ্টা করুন!',
     'errorLoading.takingLong': 'এটি অনেক সময় নিচ্ছে...',
     'common.title': 'শিরোনাম',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'একটি জ্ঞানকোষ অনুসন্ধান করুন...',
     'editor.saved.beta': 'বেটা পাঠকদের জন্য নতুন সংস্করণ তৈরি করা হয়েছে!',
     'editor.saved.public': 'নতুন সংস্করণ প্রকাশিত হয়েছে!',
-    goodbyeForever: 'আমরা দেখে আশ্রয় করছি যে আপনি চলে যাচ্ছেন। কি আমরা কিছু করেছি? আপনি যদি মনে করেন তবে অনুগ্রহ করে আমাদের জানান কিনা। যদি না হয়, তাহলেও আমরা আপনার ভবিষ্যতের প্রতিষ্ঠানের জন্য শুভেচ্ছা জানাচ্ছি এবং আশা করছি আমরা আবার দেখবো! দীর্ঘ জীবন ও উন্নতি করুন!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'আমরা কি আরও ভালো করতে পারি তা আমাদের জানান',
     'common.edit': 'সম্পাদনা করুন',
     'common.publish': 'প্রকাশ করুন',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'নতুনতম',
     'common.oldest': 'প্রবীণতম',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

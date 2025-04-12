@@ -3,22 +3,22 @@ export default {
     'form.validator.required': 'Privalomas laukas',
     'form.validator.mustBeNumber': 'Turi būti skaičius',
     'form.validator.minNumber': 'Turi būti didesnis nei {min, number}',
-    'form.validator.maxNumber': 'Turi būti mažesnis nei {max, number}',
+    'form.validator.maxNumber': 'Turi būti mažesnė nei {max, number}',
     'form.validator.maxLength': `Turi būti mažiau nei {max, number} {what, select,
-    characters {simboliai}
-    tags {žymės}
-    genres {žanrai}
-    numbers {skaičiai}
-    other {}
-  }`,
-    'form.validator.minLength': `Turi būti bent {min, number} {what, select,
-    characters {simboliai}
-    tags {žymės}
+    characters {simbolių}
+    tags {žymių}
+    genres {žanrų}
+    numbers {skaičių}
+    other {~}
+  }.`,
+    'form.validator.minLength': `Turi būti ne mažiau kaip {min, number} {what, select,
+    characters {ženklai}
+    tags {žymos}
     genres {žanrai}
     genre {žanras}
     numbers {skaičiai}
-    other {}
-  }`,
+    other {~}
+  }.`,
     'form.validator.email': 'Turi būti galiojantis el. paštas',
     'form.validator.url': 'Turi būti galiojantis URL',
     'form.validator.slug': 'Turi būti galiojanti URL dalis',

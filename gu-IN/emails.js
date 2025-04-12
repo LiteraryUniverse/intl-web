@@ -17,14 +17,14 @@ export default {
     'email.signature': 'આભાર,<br />સાહિત્યિક વિશ્વ ટીમ',
     // Enrollment
     'email.enrollAccount.welcome': 'સ્વાગત છે',
-    'email.enrollAccount.messageHtml': 'આપને સાહિત્યિક વિશ્વમાં આમંત્રિત કરવાનું મનેવાનું છે! અમે આગળ વધીને તમારા માટે એક વ્યક્તિગત એકાઉન્ટ તૈયાર કર્યું છે, જ્યાં તમે સાહિત્યિક વિશ્વની બધી વ્યાવસાયિક લેખન અને વાંચન સાધનોને ઍક્સેસ કરી શકશો!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'તમારું એકાઉન્ટ ઍક્સેસ કરો',
-    'email.enrollAccount.signature': 'અમે તમને જોવા ઉત્સુક છીએ,<br />લિટેરરી યુનિવર્સ ટીમ',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'તમારા એકાઉન્ટનો પાસવર્ડ રીસેટ કરવાની વિનંતી આપી છે, કૃપા કરીને પ્રક્રિયા ચાલુ રાખવા માટે આ ઇમેઇલમાં આપેલ બટન પર ક્લિક કરો. જો તમે આ વિનંતી કરી નથી તો આ ઇમેઇલને અવગણી કરી શકો છો, પરંતુ તમારા સુરક્ષા સેટિંગ્સને સમીક્ષા કરવાનો સમય છે.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'પાસવર્ડ રીસેટ કરો',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'અમારી ઓરડવાની ખુશી છે! કૃપા કરીને આ ઇમેઇલ સરનામું ચકાસો માટે આ બટન પર ક્લિક કરો.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'આ ઇમેઇલ સરનામું ચકાસો',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'તમારું એકાઉન્ટ અપગ્રેડ થયું છે',

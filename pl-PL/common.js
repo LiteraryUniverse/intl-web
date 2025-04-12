@@ -38,7 +38,7 @@ export default {
     'common.users': 'Użytkownicy',
     'common.showmore': 'Pokaż więcej',
     'common.futurefeature.title': 'Przyszła funkcja',
-    'common.futurefeature.text': 'Bardzo nam przykro, ale ta funkcja nie jest dostępna w tej chwili. Pracujemy nad tym, aby udostępnić ją tak szybko, jak to możliwe.',
+    'common.futurefeature.text': 'Przepraszamy, ale ta funkcja nie jest obecnie dostępna. Dokładamy wszelkich starań, aby udostępnić ją jak najszybciej.',
     'common.nothingfound': 'Nic nie znaleziono',
     'common.explore': 'Odkrywaj',
     'common.by': 'przez {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'nieznane',
     'common.legal.guidelines': 'Wytyczne Wspólnoty',
     'errorLoading.title': 'Błąd przy ładowaniu strony',
-    'errorLoading.explained': 'Wystąpił błąd podczas ładowania strony. Przepraszamy za niedogodności. Prosimy o ponowną próbę wejścia na stronę. Jeśli problem będzie się powtarzał, prosimy o poinformowanie nas o tym.',
+    'errorLoading.explained': 'Wystąpił błąd podczas ładowania strony. Przepraszamy za niedogodności. Proszę spróbować ponownie wejść na stronę. Jeśli problem będzie się powtarzał, prosimy dać nam znać.',
     'errorLoading.retry': 'Ponów!',
     'errorLoading.takingLong': 'To zajmuje dużo czasu...',
     'common.title': 'Tytuł',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Szukaj wpisu encyklopedii...',
     'editor.saved.beta': 'Nowa wersja dla czytników Beta została utworzona!',
     'editor.saved.public': 'Nowa wersja opublikowana!',
-    goodbyeForever: 'Przykro nam, że odchodzisz. Czy to było coś z naszej winy? Proszę daj nam znać, jeśli tak było. Tak czy inaczej życzymy Ci wszystkiego najlepszego w Twoich przyszłych przedsięwzięciach i mamy nadzieję, że jeszcze się spotkamy! Żyj długo i pomyślnie!',
+    goodbyeForever: 'Przykro nam, że pan odchodzi. Czy to była nasza wina? Proszę dać nam znać, jeśli tak jest. Tak czy inaczej, życzymy Panu wszystkiego najlepszego w przyszłych przedsięwzięciach i mamy nadzieję, że jeszcze się spotkamy! Proszę żyć długo i szczęśliwie!',
     'goodbyeForever.feedback': 'Daj nam znać, co możemy zrobić lepiej',
     'common.edit': 'Edytuj',
     'common.publish': 'Opublikuj',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Najnowsze',
     'common.oldest': 'Najstarsze',
     'common.noSelection': 'Brak wyboru',
-    'common.content': 'Treść'
+    'common.content': 'Treść',
+    'common.theWayOfTheAuthor': 'Droga autora',
+    'common.password.hide': 'Ukryj hasło',
+    'common.password.show': 'Proszę pokazać hasło',
+    'common.forums': 'Fora'
 };

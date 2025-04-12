@@ -17,11 +17,11 @@ export default {
     'email.signature': 'S úctou,<br />Tím Literary Universe',
     // Enrollment
     'email.enrollAccount.welcome': 'Vitajte na palube',
-    'email.enrollAccount.messageHtml': 'Radi by sme vás pozvali do Literary Universe! Pripravili sme pre vás osobný účet, kde máte prístup ku všetkým funkciám Literárneho vesmíru! Pridajte sa k nám pri vytváraní novej generácie tvorivého písania a čítania!',
+    'email.enrollAccount.messageHtml': 'Radi by sme vás pozvali do Literárneho vesmíru! Pripravili sme pre vás osobné konto, na ktorom máte prístup ku všetkým funkciám Literárneho vesmíru. Pridajte sa k nám pri vytváraní novej generácie tvorivého písania a čítania!',
     'email.enrollAccount.button': 'Prístup k vášmu účtu',
-    'email.enrollAccount.signature': 'Tešíme sa na vás,<br />Tím Literary Universe',
+    'email.enrollAccount.signature': 'Tešíme sa na vás, tím<br />Literary Universe',
     // Reset password
-    'email.resetPassword.messageHtml': 'Dostali sme žiadosť o obnovenie hesla k vášmu účtu, kliknite na tlačidlo nižšie a pokračujte v procese. Ak ste túto žiadosť nepodali, môžete tento e-mail ignorovať, ale možno je vhodný čas skontrolovať svoje bezpečnostné nastavenia.',
+    'email.resetPassword.messageHtml': 'Dostali sme žiadosť o obnovenie hesla vášho konta. Kliknutím na tlačidlo nižšie môžete pokračovať v procese. Ak ste túto žiadosť nepodali, môžete tento e-mail ignorovať, ale možno je vhodný čas skontrolovať svoje bezpečnostné nastavenia.',
     'email.resetPassword.button': 'Obnovenie hesla',
     // E-mail verification
     'email.verifyEmail.messageHtml': 'Sme radi, že ste sa k nám pripojili! Kliknutím na tlačidlo nižšie overíte túto e-mailovú adresu.',

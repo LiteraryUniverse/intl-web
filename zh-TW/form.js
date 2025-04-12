@@ -2,16 +2,16 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': '必填欄位',
     'form.validator.mustBeNumber': '必須是數字',
-    'form.validator.minNumber': '應該大於 {min, number}',
-    'form.validator.maxNumber': '應該小於 {max, number}',
-    'form.validator.maxLength': `應少於 {max, number} {what, select,
+    'form.validator.minNumber': '必須大於 {min, number}',
+    'form.validator.maxNumber': '必須低於 {max, number}',
+    'form.validator.maxLength': `必須少於 {max, number} {what, select,
     characters {字元}
     tags {標籤}
     genres {種類}
     numbers {數字}
     other {}
   }`,
-    'form.validator.minLength': `應該至少 {min, number} {what, select,
+    'form.validator.minLength': `必須至少 {min, number} {what, select,
     characters {字元}
     tags {標籤}
     genres {種類}

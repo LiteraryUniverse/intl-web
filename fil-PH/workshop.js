@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Lumikha ng isa ngayon!',
     'workshop.fictionalTime.createTitle': 'Lumikha ng bagong imbentong oras',
     'workshop.fictionalTime.editTitle': 'I-edit {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Pangalan ng oras',
     'workshop.fictionalTime.basicInfo': 'Batayang impormasyon',
     'workshop.fictionalTime.timeSetup': 'Pag-set ng oras',
     'workshop.fictionalTime.linkedToET': 'Nagsisimula ba ang oras na ito sa isang petsa sa mundo (Gregorian calendar)?',
     'workshop.fictionalTime.timeDeclaration': 'Pahayag ng oras',
-    'workshop.fictionalTime.declarationLocation': 'Saan dapat ideklara ang pangalan ng oras?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Bago ang mga yunit',
     'workshop.fictionalTime.declarationAfter': 'Pagkatapos ng mga yunit',
     'workshop.fictionalTime.declarationNone': 'Wala',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Naitakda sa hiatus ang kwento dahil sa walang bagong kabanata na nailathala sa loob ng anim na buwan.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Ang status na ito ay awtomatikong mababawi kung maglalathala kayo ng bagong kabanata. Kung hindi kayo maglalathala ng bagong kabanata sa susunod na anim na buwan, awtomatikong itatakda namin ang kwento bilang kanselado.',
     'workshop.statusChangeEmail.cancellationIntro': 'Ang status ng inyong kwento ay awtomatikong itinakda sa kanselado.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Nangyari ito dahil hindi ninyo nailathala ang anumang bagong kabanata sa kwento mula nang ito ay itinakda sa hiatus anim na buwan na ang nakalilipas. Kaya pagkatapos ng isang taon ng hindi pagiging aktibo, awtomatikong itinatakda namin ang mga kwento bilang kanselado upang malaman ng mga mambabasa kung aling mga kwento ang aktibo.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Ang status na ito ay awtomatikong matatanggal kapag nag-publish ka ng bagong kabanata. Kung wala kang plano na magpatuloy sa kuwentong ito, wala ka nang ibang kailangang gawin.',
     'workshop.startCreating': 'Simulan ang paglikha',
     'workshop.ownWork': 'Sariling gawa',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+    'workshop.theWay.authorProgress': 'Author Progress'
 };

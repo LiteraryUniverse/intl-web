@@ -17,14 +17,14 @@ export default {
     'email.signature': 'सधैं सत्य,<br />कविता बिश्व टोली',
     // Enrollment
     'email.enrollAccount.welcome': 'स्वागत छ',
-    'email.enrollAccount.messageHtml': 'हामीले तपाईंलाई कविता बिश्वमा आमन्त्रण गर्न चाहान्छौं! हामीले तपाईंको लागि एक व्यक्तिगत खाता सिर्जना गरेका छौं जहाँ तपाईंले कविता बिश्वका सबै सुविधाहरूमा पहुँच प्राप्त गर्न सक्नुहुन्छ! कृपया हामीले सृजनात्मक लेखन र पठनमा सहभागी होइनुहोस्!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'तपाईंको खातामा पहुँच गर्नुहोस्',
-    'email.enrollAccount.signature': 'हामीले तपाईंलाई देख्ने उत्सुक छौं,<br />कथाकारी ब्रह्माण्ड टोली',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'तपाईंको खाताको पासवर्ड रिसेट गर्नका लागि हामीलाई एक अनुरोध प्राप्त भयो, कृपया प्रक्रिया सुरु राख्नका लागि तलको बटनमा क्लिक गर्नुहोस्। यदि तपाईंले यो अनुरोध नगरेको छन् भने तपाईं यो ईमेललाई अनदेखि गर्न सक्नुहुन्छ, तर यसलाई तपाईंको सुरक्षा सेटिङहरूलाई समीक्षा गर्ने राम्रो समय हुन सक्छ।',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'पासवर्ड रिसेट गर्नुहोस्',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'हामीले तपाईंलाई स्वागत गर्दछौं! कृपया यो ईमेल ठेगानालाई सत्यापित गर्नका लागि तलको बटनमा क्लिक गर्नुहोस्।',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'यो ईमेल ठेगाना सत्यापित गर्नुहोस्',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'तपाईंको खाता अपग्रेड गरिएको छ',

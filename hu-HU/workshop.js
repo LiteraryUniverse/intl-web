@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Hozzon létre egyet most!',
     'workshop.fictionalTime.createTitle': 'Hozzon létre egy új képzeletbeli időt',
     'workshop.fictionalTime.editTitle': 'Szerkesztés {ftName}',
-    'workshop.fictionalTime.formDescription': `Itt létrehozhatja saját képzeletbeli időt. Jelenleg ez az eszköz korlátozott és csak
-        szimmetrikus idők létrehozására képes. Ez azt jelenti, hogy nem fogja tudni újra létrehozni a maja naptárt vagy a gergelyi naptárat. Jelenleg
-        ez az eszköz minden időt mindig ugyanolyannak vár el, például a hónapok mindig 30 naposak lesznek kivételek nélkül, és így
-        tovább. Ezt későbbi verziókban kezelni fogjuk, de addig ez az eszköz inkább a főként
-        sci-fi alapú idők létrehozására alkalmas.`,
+    'workshop.fictionalTime.formDescription': `Itt létrehozhatod a saját fiktív idődet. Jelenleg ez az eszköz korlátozott, és csak a
+        szimmetrikus idők létrehozására képes. Ez azt jelenti, hogy nem tudod majd újraalkotni a maja naptárat vagy a Gergely-naptárt. Jelenleg a
+        ez az eszköz azt várja el, hogy minden időszak mindig azonos legyen, pl. a hónapok mindig 30 naposak legyenek, kivétel nélkül, és így tovább
+        . A későbbi verziókban foglalkozni fogunk ezzel, de addig is ez az eszköz inkább alkalmas elsősorban
+        sci-fi alapú időrendszerek létrehozására.`,
     'workshop.fictionalTime.timeName': 'Idő neve',
     'workshop.fictionalTime.basicInfo': 'Alapvető információk',
     'workshop.fictionalTime.timeSetup': 'Idő beállítása',
     'workshop.fictionalTime.linkedToET': 'Kezdődik ez az idő egy Földi dátumon (Gergely-naptár)?',
     'workshop.fictionalTime.timeDeclaration': 'Idő nyilatkozat',
-    'workshop.fictionalTime.declarationLocation': 'Hol kell nyilatkozni az idő nevét?',
+    'workshop.fictionalTime.declarationLocation': 'Hol kell feltüntetni az idő nevét?',
     'workshop.fictionalTime.declarationBefore': 'Egységek előtt',
     'workshop.fictionalTime.declarationAfter': 'Egységek után',
     'workshop.fictionalTime.declarationNone': 'Egyik sem',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'A történet hiatus-ra került, mivel több mint 6 hónapja nem jelent meg új fejezet.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Ez a státusz automatikusan feloldódik, ha közzéteszel egy új fejezetet. Ha a következő 6 hónapban nem jelentetsz meg új fejezetet, automatikusan töröljük a történetet.',
     'workshop.statusChangeEmail.cancellationIntro': 'A történeted státusza automatikusan törölve lett.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Ez azért történt, mert 6 hónapja nem jelentettél meg új fejezetet a történetben, mióta hiatus-ra lett állítva. Tehát egy éves inaktivitás után automatikusan töröljük a történeteket, hogy az olvasók tudják, mely történetek aktívak.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Ez azért történt, mert nem írtál új fejezetet a történethez, mióta 6 hónappal ezelőtt szüneteltetted. Egy év inaktivitás után automatikusan töröltre állítjuk a történeteket, hogy az olvasók tudják, mely történetek aktívak.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Ez a státusz automatikusan feloldódik, ha közzéteszel egy új fejezetet. Ha nem tervezel tovább dolgozni ezen a történeten, nincs más teendőd.',
     'workshop.startCreating': 'Készítés megkezdése',
     'workshop.ownWork': 'Saját munka',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'A projekt elhagyása azt jelenti, hogy elveszít minden hozzáférést, társulást és jogosultságot. Ha nem vagy biztos benne, hogy mindez mit jelent, akkor valószínűleg nem erre akartál kattintani.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Eltávolítva: {date, date}',
-    'workshop.aiGeneratedAdjusted': 'A tartalom mesterséges intelligencia generálási státuszát egy felhasználói jelentés alapján egy rendszergazda módosította, és nem módosítható.'
+    'workshop.aiGeneratedAdjusted': 'A tartalom mesterséges intelligencia generálási státuszát egy felhasználói jelentés alapján egy rendszergazda módosította, és nem módosítható.',
+    'workshop.theWay.authorProgress': 'Szerző Haladás'
 };

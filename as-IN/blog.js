@@ -14,7 +14,7 @@ export default {
   } ছেটিংস`,
     'blog.description': 'ব্লগ পরিচিতি',
     'blog.theme': 'থিম',
-    'blog.theme.info': 'পাতৰ বুতাম সলনি কৰাৰ মাধ্যমে আপুনি পৃষ্ঠাটোৰ চেহাৰা সলনি কৰিব পাৰিবে। এই বৈশিষ্ট্য এই সময়তে লভ্য নহয়।',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `এই ব্লগত {total, plural,
     zero {কোনো প'ষ্ট}
     one {এটা পোষ্ট}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'সম্পাদনা কৰা হৈছে {title}',
     'blog.post.text': 'পোষ্ট পাঠ',
     'common.slug': 'SEO বন্ধুত্বপূৰ্ণ ঠিংগ নাম',
-    'blog.slug.explained': 'পোষ্টৰ বালে মনোৱেত দুটা "-"ৰ বাহিৰত বিশেষ চিহ্ন ব্যৱহাৰ কৰক৷',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'সাধাৰণ পৰিদৰ্শন',
     'blog.post.notfound': 'ব্লগ পোষ্ট পোৱা নহয়',
     'blog.lists.works': `{type, select,

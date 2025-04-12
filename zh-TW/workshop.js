@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': '立即創建一個！',
     'workshop.fictionalTime.createTitle': '創建新的虛構時間',
     'workshop.fictionalTime.editTitle': '編輯 {ftName}',
-    'workshop.fictionalTime.formDescription': `您可以在此建立自己的虛構時間。目前這個工具的功能有限，只能建立
-        對稱時間。這表示您無法重新創建 Mayan 曆法或 Gregorian 曆法。目前
-        ，此工具期望所有的時間都是一樣的，例如：月總是有 30 天，沒有例外，因此
-        。我們會在以後的版本中解決這個問題，但在此之前，這個工具更適合於建立主要以
-        科幻為基礎的時間。`,
+    'workshop.fictionalTime.formDescription': `您可以在此建立自己的虛構時間。目前，這個工具的功能有限，只能建立
+        對稱時間。這表示您無法重新建立瑪雅曆法或公曆。目前，
+        ，此工具期望所有的時間週期總是相同的，例如，月總是有 30 天，沒有例外，因此
+        。我們會在以後的版本中解決這個問題，但在那之前，這個工具比較適合建立主要以
+        科幻為基礎的時間系統。`,
     'workshop.fictionalTime.timeName': '時間名稱',
     'workshop.fictionalTime.basicInfo': '基本信息',
     'workshop.fictionalTime.timeSetup': '時間設置',
     'workshop.fictionalTime.linkedToET': '此時間是否以地球日期（格里曆）開始？',
     'workshop.fictionalTime.timeDeclaration': '時間宣告',
-    'workshop.fictionalTime.declarationLocation': '時間名稱應該在哪裡宣告？',
+    'workshop.fictionalTime.declarationLocation': '時間名稱應該宣告在哪裡？',
     'workshop.fictionalTime.declarationBefore': '在單位之前',
     'workshop.fictionalTime.declarationAfter': '在單位之後',
     'workshop.fictionalTime.declarationNone': '無',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': '由於超過6個月未發布新章節，故事已自動進入暫停狀態。',
     'workshop.statusChangeEmail.hiatusWhatFollows': '如果您發布了新章節，此狀態將自動解除。如果在接下來的6個月內您沒有發布新章節，我們將自動將故事設定為已取消。',
     'workshop.statusChangeEmail.cancellationIntro': '您的故事狀態已自動設定為已取消。',
-    'workshop.statusChangeEmail.cancellationWhy': '這是因為自從故事在6個月前被設定為暫停以來，您沒有發布任何新章節。因此，在一年的不活動後，我們會自動將故事設定為已取消，以便讀者知道哪些故事是活動的。',
+    'workshop.statusChangeEmail.cancellationWhy': '出現這種情況的原因是，自從 6 個月前故事被設定為暫停後，您就沒有再張貼任何新的章節。在故事閒置一年之後，我們會自動將故事設定為取消，以便讀者知道哪些故事是活躍的。',
     'workshop.statusChangeEmail.cancellationWhatFollows': '如果您發布了新章節，此狀態將自動解除。如果您不打算繼續編寫此故事，則無需進行其他操作。',
     'workshop.startCreating': '開始創作',
     'workshop.ownWork': '自己的作品',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': '離開專案意味著您將喪失所有存取權、關聯和權限。如果您不確定這一切的意義，那麼這可能不是您想要點選的。',
     'workshop.collaborators.leftInfo': '左開 {date, date}',
     'workshop.collaborators.removedInfo': '於 {date, date}移除',
-    'workshop.aiGeneratedAdjusted': '此內容的 AI 生成狀態已因使用者報告而由管理員調整，且無法變更。'
+    'workshop.aiGeneratedAdjusted': '此內容的 AI 生成狀態已因使用者報告而由管理員調整，且無法變更。',
+    'workshop.theWay.authorProgress': '作者進度'
 };

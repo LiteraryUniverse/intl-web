@@ -2,16 +2,16 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Υποχρεωτικό πεδίο',
     'form.validator.mustBeNumber': 'Πρέπει να είναι αριθμός',
-    'form.validator.minNumber': 'Πρέπει να είναι μεγαλύτερη από {min, number}',
-    'form.validator.maxNumber': 'Θα πρέπει να είναι μικρότερη από {max, number}',
-    'form.validator.maxLength': `Θα πρέπει να είναι λιγότερο από {max, number} {what, select,
+    'form.validator.minNumber': 'Πρέπει να είναι μεγαλύτερο από {min, number}',
+    'form.validator.maxNumber': 'Πρέπει να είναι μικρότερη από {max, number}',
+    'form.validator.maxLength': `Πρέπει να είναι μικρότερη από {max, number} {what, select,
     characters {χαρακτήρες}
     tags {ετικέτες}
     genres {είδη}
     numbers {αριθμοί}
     other {}
   }`,
-    'form.validator.minLength': `Θα πρέπει να είναι τουλάχιστον {min, number} {what, select,
+    'form.validator.minLength': `Πρέπει να είναι τουλάχιστον {min, number} {what, select,
     characters {χαρακτήρες}
     tags {ετικέτες}
     genres {είδη}

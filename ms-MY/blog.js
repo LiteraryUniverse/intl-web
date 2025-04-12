@@ -14,7 +14,7 @@ export default {
   } tetapan`,
     'blog.description': 'Pengenalan blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Dengan menyesuaikan tema, anda akan dapat mengubah rupa halaman. Fungsi ini tidak disediakan pada masa ini.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `Tiada {total, plural,
     zero {perkara}
     one {satu perkara}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Mengedit {title}',
     'blog.post.text': 'Teks pos',
     'common.slug': 'Alamat yang mesra SEO',
-    'blog.slug.explained': 'URL yang menarik untuk pos tersebut. Elakkan menggunakan huruf khas kecuali "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Paparan awam',
     'blog.post.notfound': 'Pos blog tidak dijumpai',
     'blog.lists.works': `{type, select,

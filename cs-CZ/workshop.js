@@ -134,16 +134,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Vytvořte si jeden nyní!',
     'workshop.fictionalTime.createTitle': 'Vytvořit nový fiktivní čas',
     'workshop.fictionalTime.editTitle': 'Upravit {ftName}',
-    'workshop.fictionalTime.formDescription': `Zde si můžete vytvořit svůj vlastní fiktivní čas. Tento nástroj je v současné době omezený a je schopen vytvářet pouze symetrické časy. To znamená, že nebudete schopni Mayovský kalendář nebo Gregorianský. V tuto chvíli
-        tento nástroj očekává, že všechny časy jsou vždy stejné, např. měsíce mají vždy 30 dní bez výjimek a tak
-        dále. Budeme se tím zabývat v pozdějších verzích, ale až do té doby je tento nástroj vhodnější pro vytvoření primárně
-        lineárních časů.`,
+    'workshop.fictionalTime.formDescription': `Zde si můžete vytvořit vlastní fiktivní čas. V současné době je tento nástroj omezen a dokáže vytvářet pouze
+        symetrické časy. To znamená, že nebudete moci vytvořit mayský nebo gregoriánský kalendář. V tuto chvíli
+        tento nástroj předpokládá, že všechny časové úseky jsou vždy stejné, např. měsíce mají vždy 30 dní bez výjimky a tak
+        dále. Toto budeme řešit v pozdějších verzích, ale do té doby je tento nástroj vhodný spíše pro vytváření především
+        časových systémů založených na sci-fi.`,
     'workshop.fictionalTime.timeName': 'Název času',
     'workshop.fictionalTime.basicInfo': 'Základní informace',
     'workshop.fictionalTime.timeSetup': 'Nastavení času',
     'workshop.fictionalTime.linkedToET': 'Začíná tento čas na pozemský čas (Gregoriánský kalendář)?',
     'workshop.fictionalTime.timeDeclaration': 'Deklarace času',
-    'workshop.fictionalTime.declarationLocation': 'Kde by měl být uveden časový název?',
+    'workshop.fictionalTime.declarationLocation': 'Kde by měl být časový údaj uveden?',
     'workshop.fictionalTime.declarationBefore': 'Před jednotkami',
     'workshop.fictionalTime.declarationAfter': 'Po jednotkách',
     'workshop.fictionalTime.declarationNone': 'Žádný',
@@ -280,7 +281,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Byl automaticky změněn na hiatus, jelikož za posledních 6 měsíců nebyla přidána žádná nová kapitola.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Tento stav bude automaticky zrušen, pokud zveřejníte novou kapitolu. Pokud nepublikujete novou kapitolu v příštích 6 měsících, automaticky zěníme stav příběhu jako zrušený.',
     'workshop.statusChangeEmail.cancellationIntro': 'Stav Vašeho příběhu byl automaticky nastaven jako zrušený.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Tato situace nastala, jelikož jste nepublikovali žádnou novou kapitolu příběhu od doby, kdy byl před šesti měsíci nastaven stav na hiatus. Po roce nečinnosti jsme tedy automaticky nastavili Váš příběh jako zrušený, aby čtenáři věděli, které příběhy jsou aktivní.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Stalo se to proto, že jsi od doby, kdy byla před půl rokem pozastavena, nevložil do příběhu žádnou novou kapitolu. Po roce nečinnosti automaticky nastavujeme příběhy jako zrušené, aby čtenáři věděli, které příběhy jsou aktivní.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Tento stav bude automaticky zrušen, pokud zveřejníte novou kapitolu. Pokud už neplánujete pracovat na tomto příběhu, nemusíte nic dělat.',
     'workshop.startCreating': 'Začněte tvořit',
     'workshop.ownWork': 'Vlastní díla',
@@ -298,5 +299,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Odchodem z projektu ztratíte veškerý přístup, přidružení a oprávnění. Pokud si nejste jisti, co to všechno znamená, pak to pravděpodobně není to, na co jste chtěli kliknout.',
     'workshop.collaborators.leftInfo': 'Vlevo na {date, date}',
     'workshop.collaborators.removedInfo': 'Odstraněno na {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Stav generování AI tohoto obsahu byl na základě hlášení uživatele upraven správcem a nelze jej změnit.'
+    'workshop.aiGeneratedAdjusted': 'Stav generování AI tohoto obsahu byl na základě hlášení uživatele upraven správcem a nelze jej změnit.',
+    'workshop.theWay.authorProgress': 'Autor: Progress'
 };

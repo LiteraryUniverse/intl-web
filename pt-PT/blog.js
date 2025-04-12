@@ -14,7 +14,7 @@ export default {
   }`,
     'blog.description': 'Introdução ao Blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Ajustando o tema será capaz de alterar o aspeto da página. Esta funcionalidade não está pronta neste momento.',
+    'blog.theme.info': 'Ao ajustar o tema, poderá alterar o aspeto da página. De momento, esta funcionalidade ainda não está pronta.',
     'blog.posts.total': `{total, plural,
     zero {Existem zero publicações}
     one {Existem uma publicação}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Postar texto',
     'common.slug': 'Endereço SEO amigável',
-    'blog.slug.explained': 'Bom url para o post. Evite usar caracteres especiais, exceto "-".',
+    'blog.slug.explained': 'Crie um URL com bom aspeto para a publicação. Evite utilizar caracteres especiais, exceto "-".',
     'blog.publicView': 'Vista pública',
     'blog.post.notfound': 'Não foi encontrado a publicação do blog',
     'blog.lists.works': `{type, select,

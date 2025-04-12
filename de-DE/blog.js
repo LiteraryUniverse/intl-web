@@ -14,7 +14,7 @@ export default {
   } Einstellungen`,
     'blog.description': 'Blog-Einführung',
     'blog.theme': 'Thema',
-    'blog.theme.info': 'Durch Anpassen des Themas können Sie das Aussehen der Seite ändern. Diese Funktion ist derzeit noch nicht fertig.',
+    'blog.theme.info': 'Indem Sie das Thema anpassen, können Sie das Aussehen der Seite ändern. Diese Funktion ist derzeit noch nicht verfügbar.',
     'blog.posts.total': `Da {total, plural,
     one {ist ein Beitrag}
     other {sind # Beiträge}
@@ -23,7 +23,7 @@ export default {
     'blog.post.update': 'Bearbeitung von {title}',
     'blog.post.text': 'Beitragstext',
     'common.slug': 'SEO-freundliche Adresse',
-    'blog.slug.explained': 'Schön aussehende Url zum Beitrag. Vermeiden Sie die Verwendung von Sonderzeichen außer "-".',
+    'blog.slug.explained': 'Erstellen Sie eine ansprechende URL für den Beitrag. Vermeiden Sie die Verwendung von Sonderzeichen außer "-".',
     'blog.publicView': 'Öffentliche Ansicht',
     'blog.post.notfound': 'Blogbeitrag wurde nicht gefunden',
     'blog.lists.works': `{type, select,

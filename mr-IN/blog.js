@@ -14,7 +14,7 @@ export default {
   } सेटिंग्ज`,
     'blog.description': 'ब्लॉगचे परिचय',
     'blog.theme': 'थीम',
-    'blog.theme.info': 'पृष्ठाची दृष्टीकोन बदलायला थीम सापडल्यांना तुम्ही पृष्ठाची दिसणखाली बदलू शकता. ही वैशिष्ट्ये हे वेळेत नाहीत.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `येथे कोणतेही पोस्ट नाहीत {total, plural,
     zero {एक पोस्ट आहे}
     one {पोस्ट आहेत}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': '{title}संपादन करीत आहे',
     'blog.post.text': 'प्रतिलेख मजकूर',
     'common.slug': 'एसईओ मित्रदर्शक पत्ता',
-    'blog.slug.explained': 'प्रतिलेखसाठी सुंदर url. "-" यासारख्या विशेष वर्णांचा वापर करण्यासाठीy टाळा.',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'सार्वजनिक दृश्य',
     'blog.post.notfound': 'ब्लॉग प्रतिलेख सापडला नाही',
     'blog.lists.works': `{type, select,

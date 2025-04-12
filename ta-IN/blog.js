@@ -14,7 +14,7 @@ export default {
   } அமைப்புகள்`,
     'blog.description': 'வலைப்பதிவின் அறிமுகம்',
     'blog.theme': 'தீம்',
-    'blog.theme.info': 'தீமை மாற்றினால் பக்கத்தின் பார்வையை மாற்ற முடியும். தற்போது இந்த அம்சம் பயன்படுத்த முடியவில்லை.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `ப்ளாகில் {total, plural,
     zero {புதினமான பதிவுகள் இல்லை.}
     one {ஐ ஒரு பதிவு கொடுப்பான்!}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'மாற்றப்பட்ட பதிவு {title}',
     'blog.post.text': 'பதிவு உரை',
     'common.slug': 'SEO அமிழ்தியான முகவரி',
-    'blog.slug.explained': 'பதிவுக்கு அழகான URL. குறிப்பிட்டவைகளை அல்லது "-" ஐ தன்ராசிக்கு மட்டுமே பயன்படுத்துங்கள்.',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'பொது பார்வை',
     'blog.post.notfound': 'வலைப்பதிவு பதிவைக் கண்டறியாமல் உள்ளது',
     'blog.lists.works': `{type, select,

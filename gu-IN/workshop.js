@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'હવે એક બનાવો!',
     'workshop.fictionalTime.createTitle': 'નવો કલ્પનિક સમય બનાવો',
     'workshop.fictionalTime.editTitle': 'સંપાદન કરો {ftName}',
-    'workshop.fictionalTime.formDescription': `અહીં તમે તમારો ખુદનો કલ્પનિક સમય બનાવી શકો છો. હાલમાં આ સાધન મર્યાદિત છે અને માત્ર
-        સમાંતર સમય બનાવવા સક્ષમ છે. આનો અર્થ છે કે તમે માયાન કેલેન્ડર અથવા ગ્રેગોરિયન કેલેન્ડરને સારીટી રીતે સામર્થ્યપૂર્ણ રીતે સામેલ કરી શકશો નહીં. આ વખતે
-        આ સાધનને અપેક્ષિત છે કે બધા સમયો હંમેશા એક જ હોય, ઉદાહરણ તરીકે મહિનાઓમાં હંમેશા 30 દિવસ હોય અને આવું
-        ચાલે. અમે આપત્રિકારણોને પછીથી સંપાદિત કરીશું, પરંતુ તેથી પહેલા આ સાધન મુખ્યત્વે
-        વિજ્ઞાન-ફિક્શન આધારિત સમયો બનાવવા માટે યોગ્ય છે.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'સમયનું નામ',
     'workshop.fictionalTime.basicInfo': 'મૂળભૂત માહિતી',
     'workshop.fictionalTime.timeSetup': 'સમયનો સેટઅપ',
     'workshop.fictionalTime.linkedToET': 'આ સમય પૃથ્વીની તારીખ (ગ્રીગોરિયન કેલેન્ડર) પર શરૂ થાય છે કે નહીં?',
     'workshop.fictionalTime.timeDeclaration': 'સમયનું પ્રકટણ',
-    'workshop.fictionalTime.declarationLocation': 'સમયનું નામ ક્યાં પ્રકટાવવું જોઈએ?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'એકમોથું પહેલાં',
     'workshop.fictionalTime.declarationAfter': 'એકમોથું પછી',
     'workshop.fictionalTime.declarationNone': 'કોઈ નથી',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': '6 મહિનાથી વધુ કોઈ નવી અધ્યાય પ્રકાશિત થતી નથી થઈ હતી આપેલ અનુમતિ પર આપત્તિથી આપેલ હિયેટસ પર આપેલ છે.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'આ સ્થિતિ ઓટોમેટિકવાયેલ છે જો તમે એક નવો અધ્યાય પ્રકાશિત કરો. જો તમે આગામી 6 મહિનામાં કોઈ નવો અધ્યાય પ્રકાશિત ના કરો તો અમે આપેલ અનુમતિ પર આપેલ હિયેટસ કથાને ઓટોમેટિકવાયેલ કેન્સલ પર સેટ કરીશું.',
     'workshop.statusChangeEmail.cancellationIntro': 'તમારી કથાનો સ્થિતિ આપત્તિથી ઓટોમેટિકવાયેલ કેન્સલ પર સેટ કરવામાં આવી છે.',
-    'workshop.statusChangeEmail.cancellationWhy': 'આ થયું છે કે તમે પછીથી 6 મહિના પહેલાંની કોઈ નવી અધ્યાય કથામાં કોઈ નવો અધ્યાય પોસ્ટ કર્યો ન હોય તેથી અમે ઓટોમેટિકવાયેલ કેન્સલ કરીશું છે જેથી વાંચકો જાણે કે કઈ કથાઓ સક્રિય છે.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'આ સ્થિતિ ઓટોમેટિકવાયેલ છે જો તમે એક નવો અધ્યાય પ્રકાશિત કરો. જો તમે આ કથા પર કામ કરવાની યોજના ના રાખો છો તો તમારે કંઈ બીજું કરવાની જરૂર નથી.',
     'workshop.startCreating': 'બનાવવા શરૂ કરો',
     'workshop.ownWork': 'પોતે કામ',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+    'workshop.theWay.authorProgress': 'Author Progress'
 };

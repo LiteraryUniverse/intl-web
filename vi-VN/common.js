@@ -38,7 +38,7 @@ export default {
     'common.users': 'Các người dùng',
     'common.showmore': 'Hiển thị thêm',
     'common.futurefeature.title': 'Tính năng tương lai',
-    'common.futurefeature.text': 'Chúng tôi rất xin lỗi, nhưng tính năng này hiện chưa có sẵn tại thời điểm này. Chúng tôi đang nỗ lực hết sức để thêm tính năng này sớm nhất có thể.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'Không tìm thấy gì',
     'common.explore': 'Khám phá',
     'common.by': 'bởi {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'không xác định',
     'common.legal.guidelines': 'Quy tắc cộng đồng',
     'errorLoading.title': 'Lỗi trong quá trình tải trang',
-    'errorLoading.explained': 'Đã xảy ra lỗi trong quá trình tải trang. Chúng tôi xin lỗi vì sự bất tiện này. Vui lòng thử truy cập trang lại. Nếu vấn đề vẫn tiếp tục xảy ra, xin hãy cho chúng tôi biết.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Thử lại!',
     'errorLoading.takingLong': 'Việc này mất quá nhiều thời gian...',
     'common.title': 'Tiêu đề',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Tìm kiếm thông tin trong bách khoa toàn thư...',
     'editor.saved.beta': 'Phiên bản mới cho Beta readers đã được tạo!',
     'editor.saved.public': 'Phiên bản mới đã được xuất bản!',
-    goodbyeForever: 'Chúng tôi rất tiếc khi phải tiễn bạn đi. Có điều gì chúng tôi đã làm không đúng? Xin hãy cho chúng tôi biết nếu vậy. Dù sao, chúng tôi chúc bạn thành công trong tương lai và hy vọng chúng ta sẽ gặp lại nhau! Sống lâu và thịnh vượng!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Hãy cho chúng tôi biết chúng tôi có thể cải thiện điều gì',
     'common.edit': 'Chỉnh sửa',
     'common.publish': 'Xuất bản',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Mới nhất',
     'common.oldest': 'Cũ nhất',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

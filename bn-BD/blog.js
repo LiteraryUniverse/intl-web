@@ -14,7 +14,7 @@ export default {
   } সেটিংস`,
     'blog.description': 'ব্লগ পরিচিতি',
     'blog.theme': 'থিম',
-    'blog.theme.info': 'পৃষ্ঠার চেহারা পরিবর্তন করে আপনি পৃষ্ঠার দেখতে পাবেন। এই বৈশিষ্ট্যটি এখনও প্রস্তুত নেই।',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': '{title}সম্পাদনা করা হচ্ছে',
     'blog.post.text': 'পোস্ট পাঠ্য',
     'common.slug': 'এসইও বন্ধুত্বপূর্ণ ঠিকানা',
-    'blog.slug.explained': 'পোস্টের জন্য সুন্দর লিঙ্ক। "-" ছাড়া বিশেষ চিহ্ন ব্যবহার করার চেষ্টা করুন।',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'পাবলিক দৃশ্য',
     'blog.post.notfound': 'ব্লগ পোস্ট পাওয়া যায়নি',
     'blog.lists.works': `{type, select,

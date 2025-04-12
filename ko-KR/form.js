@@ -2,23 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': '필수 필드',
     'form.validator.mustBeNumber': '숫자여야합니다',
-    'form.validator.minNumber': '보다 커야 합니다 {min, number}',
+    'form.validator.minNumber': '{min, number}보다 커야 합니다.',
     'form.validator.maxNumber': '{max, number}보다 낮아야 합니다.',
-    'form.validator.maxLength': `{max, number} 보다 작아야 합니다. {what, select,
-    characters {문자입니다.}
-    tags {태그입니다.}
-    genres {장르입니다.}
-    numbers {숫자입니다.}
+    'form.validator.maxLength': `{max, number} {what, select,
+    characters {문자}
+    tags {태그}
+    genres {장르}
+    numbers {숫자}
     other {}
-  }`,
-    'form.validator.minLength': `{min, number} 보다는 적어도 {what, select,
-    characters {문자여야 합니다.}
-    tags {태그입니다.}
-    genres {장르입니다.}
-    genre {장르입니다.}
-    numbers {숫자입니다.}
+  }미만이어야 합니다.`,
+    'form.validator.minLength': `최소 {min, number} {what, select,
+    characters {문자}
+    tags {태그}
+    genres {장르}
+    genre {장르}
+    numbers {숫자}
     other {}
-  }`,
+  }이어야 합니다.`,
     'form.validator.email': '유효한 이메일이어야 합니다',
     'form.validator.url': '유효한 URL이어야 해요',
     'form.validator.slug': '유효한 URL의 일부여야 해요',

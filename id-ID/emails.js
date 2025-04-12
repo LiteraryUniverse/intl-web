@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Hormat kami,<br />Tim Literary Universe',
     // Enrollment
     'email.enrollAccount.welcome': 'Selamat datang',
-    'email.enrollAccount.messageHtml': 'Kami ingin mengundang Anda ke Literary Universe! Kami telah menyiapkan akun pribadi untuk Anda di mana Anda dapat mengakses semua fitur dari Literary Universe! Silakan bergabung dengan kami dalam menciptakan generasi berikutnya dari menulis dan membaca yang kreatif!',
+    'email.enrollAccount.messageHtml': 'Kami ingin mengundang Anda ke Literary Universe! Kami telah menyiapkan akun pribadi untuk Anda, di mana Anda dapat mengakses semua fitur Literary Universe. Bergabunglah bersama kami untuk menciptakan generasi baru dalam menulis dan membaca yang kreatif!',
     'email.enrollAccount.button': 'Akses akun Anda',
-    'email.enrollAccount.signature': 'Kami sangat menantikan untuk bertemu dengan Anda, tim Literary Universe<br />',
+    'email.enrollAccount.signature': 'Kami tunggu kedatangan Anda,<br />Tim Literary Universe',
     // Reset password
-    'email.resetPassword.messageHtml': 'Kami telah menerima permintaan untuk mengatur ulang kata sandi akun Anda, silakan klik tombol di bawah ini untuk melanjutkan proses. Jika Anda tidak melakukan permintaan ini, Anda dapat mengabaikan email ini, tetapi ini mungkin saat yang tepat untuk meninjau pengaturan keamanan Anda.',
+    'email.resetPassword.messageHtml': 'Kami telah menerima permintaan untuk mengatur ulang kata sandi akun Anda. Silakan klik tombol di bawah ini untuk melanjutkan proses. Jika Anda belum melakukan permintaan ini, Anda dapat mengabaikan email ini, tetapi ini mungkin saat yang tepat untuk meninjau pengaturan keamanan Anda.',
     'email.resetPassword.button': 'Atur ulang kata sandi',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Kami senang memiliki Anda bergabung! Silakan klik tombol di bawah ini untuk memverifikasi alamat email ini.',
+    'email.verifyEmail.messageHtml': 'Kami senang Anda bergabung dengan kami! Silakan klik tombol di bawah ini untuk memverifikasi alamat email ini.',
     'email.verifyEmail.button': 'Verifikasi alamat email ini',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Akun Anda telah ditingkatkan',

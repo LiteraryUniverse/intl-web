@@ -38,7 +38,7 @@ export default {
     'common.users': 'Naudotojai',
     'common.showmore': 'Rodyti daugiau',
     'common.futurefeature.title': 'Ateities funkcija',
-    'common.futurefeature.text': 'Labai atsiprašome, bet ši funkcija šiuo metu nėra pasiekiama. Mes labai stengiamės, kad ji taptų pasiekiama kuo greičiau.',
+    'common.futurefeature.text': 'Atsiprašome, bet šiuo metu ši funkcija nėra prieinama. Dedame visas pastangas, kad ji būtų prieinama kuo greičiau.',
     'common.nothingfound': 'Nieko nerasta',
     'common.explore': 'Tyrinėti',
     'common.by': 'pagal {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'nežinoma',
     'common.legal.guidelines': 'Bendruomenės gairės',
     'errorLoading.title': 'Klaida įkeliant puslapį',
-    'errorLoading.explained': 'Klaida įkeliant puslapį. Atsiprašome už nepatogumus. Prašome bandyti prieigą prie puslapio dar kartą. Jei problema tęsiasi, prašome mus informuoti.',
+    'errorLoading.explained': 'Kuriant puslapį įvyko klaida. Atsiprašome už nepatogumus. Prašome pabandyti įeiti į puslapį dar kartą. Jei problema išlieka, praneškite mums.',
     'errorLoading.retry': 'Bandyti dar kartą!',
     'errorLoading.takingLong': 'Tai užtrunka ilgai...',
     'common.title': 'Pavadinimas',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Ieškoti enciklopedijos įrašo...',
     'editor.saved.beta': 'Nauja Beta skaitytojams skirta versija sukurta!',
     'editor.saved.public': 'Nauja versija paskelbta!',
-    goodbyeForever: 'Gaila, kad mus paliekate. Ar tai buvo mūsų kaltė? Prašome pranešti, jei taip. Vis tiek linkime jums sėkmės ateityje ir tikiuosi, kad dar susitiksime! Ilgai ir laimingai!',
+    goodbyeForever: 'Mums gaila, kad išvykstate. Ar mes ką nors padarėme? Praneškite mums, jei taip nutiko. Bet kokiu atveju linkime jums kuo geriausios kloties ateityje ir tikimės, kad dar susitiksime! Gyvenkite ilgai ir sėkmingai!',
     'goodbyeForever.feedback': 'Pasakykite, ką galime pagerinti',
     'common.edit': 'Redaguoti',
     'common.publish': 'Publikuoti',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Naujausia',
     'common.oldest': 'Seniausias',
     'common.noSelection': 'Nepasirinkta',
-    'common.content': 'Turinys'
+    'common.content': 'Turinys',
+    'common.theWayOfTheAuthor': 'Autoriaus kelias',
+    'common.password.hide': 'Paslėpti slaptažodį',
+    'common.password.show': 'Rodyti slaptažodį',
+    'common.forums': 'Forumai'
 };

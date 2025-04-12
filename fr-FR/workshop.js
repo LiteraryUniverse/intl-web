@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Créez-en un maintenant !',
     'workshop.fictionalTime.createTitle': 'Créer un nouveau temps fictif',
     'workshop.fictionalTime.editTitle': 'Modifier {ftName}',
-    'workshop.fictionalTime.formDescription': `Ici, vous pouvez créer votre propre temps fictif. Actuellement, cet outil est limité et n'est capable de créer que
-        des temps symétriques. Cela signifie que vous ne serez pas en mesure de recréer le calendrier Maya ou le calendrier Grégorien. Pour l'instant
-        cet outil s'attend à ce que tous les temps soient toujours les mêmes, par exemple, les mois ont toujours 30 jours sans exception, etc.
-        Nous y remédierons dans les versions ultérieures, mais d'ici là, cet outil est plus adapté à la création de
-        temps basés principalement sur la science-fiction.`,
+    'workshop.fictionalTime.formDescription': `Vous pouvez y créer votre propre temps fictif. Actuellement, cet outil est limité et n'est capable de créer que des temps symétriques
+        . Cela signifie que vous ne pourrez pas recréer le calendrier maya ou le calendrier grégorien. Pour l'instant,
+        cet outil s'attend à ce que toutes les périodes de temps soient toujours les mêmes, c'est-à-dire que les mois aient toujours 30 jours sans exception, et ainsi de suite
+        . Nous y remédierons dans les versions ultérieures, mais en attendant, cet outil est plus adapté à la création de systèmes temporels basés sur la science-fiction
+        .`,
     'workshop.fictionalTime.timeName': 'Nom du temps',
     'workshop.fictionalTime.basicInfo': 'Informations de base',
     'workshop.fictionalTime.timeSetup': 'Configuration du temps',
     'workshop.fictionalTime.linkedToET': 'Est-ce que cette heure commence à une date de la Terre (calendrier grégorien) ?',
     'workshop.fictionalTime.timeDeclaration': 'Déclaration du temps',
-    'workshop.fictionalTime.declarationLocation': 'Où doit être déclaré le nom du temps ?',
+    'workshop.fictionalTime.declarationLocation': 'Où le nom de l\'heure doit-il être déclaré ?',
     'workshop.fictionalTime.declarationBefore': 'Avant les unités',
     'workshop.fictionalTime.declarationAfter': 'Après les unités',
     'workshop.fictionalTime.declarationNone': 'Aucun',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Votre histoire a été automatiquement mise en pause car aucun nouveau chapitre n\'a été publié depuis plus de 6 mois.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Ce statut sera automatiquement levé si vous publiez un nouveau chapitre. Si vous ne publiez pas de nouveau chapitre dans les 6 prochains mois, nous définirons automatiquement l\'histoire comme annulée.',
     'workshop.statusChangeEmail.cancellationIntro': 'Le statut de votre histoire a été automatiquement défini sur annulé.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Cela s\'est produit parce que vous n\'avez pas publié de nouveau chapitre depuis que l\'histoire a été mise en pause il y a 6 mois. Donc après un an d\'inactivité, nous définissons automatiquement les histoires comme annulées afin que les lecteurs sachent quelles histoires sont actives.',
+    'workshop.statusChangeEmail.cancellationWhy': 'Cela s\'est produit parce que vous n\'avez pas posté de nouveau chapitre dans cette histoire depuis qu\'elle a été mise en hiatus il y a 6 mois. Après un an d\'inactivité, nous mettons automatiquement les histoires en hiatus afin que les lecteurs sachent quelles sont les histoires actives.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Ce statut sera automatiquement levé si vous publiez un nouveau chapitre. Si vous ne prévoyez pas de travailler sur cette histoire, il n\'y a rien d\'autre que vous devez faire.',
     'workshop.startCreating': 'Commencez à créer',
     'workshop.ownWork': 'Travail personnel',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'En quittant le projet, vous perdrez tous vos accès, associations et privilèges. Si vous n\'êtes pas sûr de ce que cela signifie, ce n\'est probablement pas ce que vous vouliez cliquer.',
     'workshop.collaborators.leftInfo': 'A gauche sur {date, date}',
     'workshop.collaborators.removedInfo': 'Supprimé le {date, date}',
-    'workshop.aiGeneratedAdjusted': 'Le statut de génération d\'IA de ce contenu a été ajusté, suite à un rapport d\'utilisateur, par un administrateur et ne peut pas être modifié.'
+    'workshop.aiGeneratedAdjusted': 'Le statut de génération d\'IA de ce contenu a été ajusté, suite à un rapport d\'utilisateur, par un administrateur et ne peut pas être modifié.',
+    'workshop.theWay.authorProgress': 'Progrès de l\'auteur'
 };

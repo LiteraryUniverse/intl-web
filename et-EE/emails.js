@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Parimate soovidega,<br />Kirjandusliku Universumi meeskond',
     // Enrollment
     'email.enrollAccount.welcome': 'Tere tulemast pardale',
-    'email.enrollAccount.messageHtml': 'Soovime sind kutsuda Kirjanduslikku Universumisse! Oleme sinu jaoks juba ette valmistanud personaalse konto, kus saad ligi kõikidele Kirjandusliku Universumi funktsioonidele! Palun ühine meiega, et luua järgmine põlvkond loovkirjutamise ja lugemise vahendeid!',
+    'email.enrollAccount.messageHtml': 'Kutsume teid kirjandusuniversumisse! Läksime edasi ja valmistasime teile isikliku konto, kus saate juurdepääsu kõikidele Literary Universe\'i funktsioonidele. Palun ühinege meiega loomingulise kirjutamise ja lugemise järgmise põlvkonna loomisel!',
     'email.enrollAccount.button': 'Ligipääs oma kontole',
-    'email.enrollAccount.signature': 'Ootame teid põnevusega,<br />Literary Universe\'i meeskond',
+    'email.enrollAccount.signature': 'Ootame teid,<br />Kirjandusuniversumi meeskond.',
     // Reset password
-    'email.resetPassword.messageHtml': 'Oleme saanud taotluse teie konto parooli lähtestamiseks. Palun klõpsake allpool oleval nupul, et jätkata protsessi. Kui te ei ole seda taotlust teinud, võite selle e-kirja ignoreerida, kuid võiks olla hea aeg üle vaadata oma turvasätted.',
+    'email.resetPassword.messageHtml': 'Oleme saanud taotluse teie konto parooli lähtestamiseks. Palun klõpsake protsessi jätkamiseks alloleval nupul. Kui te ei ole seda taotlust esitanud, võite seda e-kirja ignoreerida, kuid võib-olla on hea aeg oma turvasätted üle vaadata.',
     'email.resetPassword.button': 'Lähtesta parool',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Oleme rõõmsad, et teid pardal on! Palun klõpsake allpool oleval nupul, et kinnitada selle e-posti aadressi.',
+    'email.verifyEmail.messageHtml': 'Meil on hea meel, et sa oled pardal! Palun klõpsa alloleval nupul, et kinnitada seda e-posti aadressi.',
     'email.verifyEmail.button': 'Kinnita see e-posti aadress',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Teie konto on täiustatud',

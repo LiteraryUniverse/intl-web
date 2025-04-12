@@ -14,7 +14,7 @@ export default {
   } settings`,
     'blog.description': 'Panimula ng blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Sa pag-aadjust ng tema, maaari mong baguhin ang hitsura ng pahina. Ang tampok na ito ay hindi pa handa sa ngayon.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Ine-edit ang {title}',
     'blog.post.text': 'Teksto ng post',
     'common.slug': 'SEO friendly na address',
-    'blog.slug.explained': 'Magandang URL para sa post. Iwasan ang paggamit ng mga espesyal na karakter maliban sa "-".',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'Pampublikong tanawin',
     'blog.post.notfound': 'Hindi natagpuan ang blog post',
     'blog.lists.works': `{type, select,

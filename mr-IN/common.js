@@ -38,7 +38,7 @@ export default {
     'common.users': 'वापरकर्ते',
     'common.showmore': 'अधिक पहा',
     'common.futurefeature.title': 'भविष्यातील सुविधा',
-    'common.futurefeature.text': 'आपल्याला खूप दुखी आहे, पण ही सुविधा आता उपलब्ध नाही. आम्ही कडकपूरते ती लवकरच उपलब्ध करण्याच्या आठवणीत काम करीत आहोत.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'काहीही सापडलं नाही',
     'common.explore': 'अन्वेषण करा',
     'common.by': 'द्वारा {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'अज्ञात',
     'common.legal.guidelines': 'समुदाय मार्गदर्शक',
     'errorLoading.title': 'पृष्ठ लोड करताना त्रुटी',
-    'errorLoading.explained': 'पृष्ठ लोड होत असताना एक त्रुटी आली आहे. आपल्याला असुविधेसाठी खेद आहे. कृपया पुन्हा पृष्ठाची पहा. जर समस्या सुरू असेल तर कृपया आपल्याला सापडलेली का जाणीव करा.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'पुन्हा प्रयत्न करा!',
     'errorLoading.takingLong': 'हे वेळ लागत आहे...',
     'common.title': 'शीर्षक',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'विज्ञानकोश प्रविष्टीसाठी शोधा...',
     'editor.saved.beta': 'बीटा वाचकांसाठी नवीन संशोधन तयार केला गेला आहे!',
     'editor.saved.public': 'नवीन संस्करण प्रकाशित!',
-    goodbyeForever: 'आपल्याला जात बघून आनंद झालं. तो काहीतरी आम्ही केलं का? कृपया आपल्याला सांगा जर ते असा असेल. किंवा कायमचं आपल्या भविष्यातील प्रयत्नांमध्ये आम्ही आपल्याला सध्याच्या विचारात आहोत. दीर्घकालिक आणि आशीर्वाद द्या आणि विकास करा!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'आम्हाला काय चांगलं करू शकतं हे सांगा',
     'common.edit': 'संपादित करा',
     'common.publish': 'प्रकाशित करा',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'नवीनतम',
     'common.oldest': 'जुने',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

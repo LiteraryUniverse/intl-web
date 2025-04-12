@@ -38,7 +38,7 @@ export default {
     'common.users': 'பயனர்கள்',
     'common.showmore': 'மேலும் காட்டு',
     'common.futurefeature.title': 'எதிர்பாராத அம்சம்',
-    'common.futurefeature.text': 'மிக்க மனமார்ந்த மன்னிப்பு, ஆனால் இந்த அம்சம் தற்போது கிடைக்கவில்லை. அதை விரைவில் கிடைக்க மிகுந்த செயல்பாடு செய்கின்றோம்.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'எதுவும் கண்டுபிடிக்கப்படவில்லை',
     'common.explore': 'ஆராயுங்கள்',
     'common.by': 'மூலம் {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'unknown',
     'common.legal.guidelines': 'சமூக வழிகாட்டுகள்',
     'errorLoading.title': 'Error during page load',
-    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Retry!',
     'errorLoading.takingLong': 'This is taking a long time...',
     'common.title': 'Title',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Search for encyclopedia entry...',
     'editor.saved.beta': 'New revision for Beta readers created!',
     'editor.saved.public': 'New version published!',
-    goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Let us know what we can do better',
     'common.edit': 'Edit',
     'common.publish': 'Publish',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'புதியது',
     'common.oldest': 'பழையதாக',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

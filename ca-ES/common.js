@@ -38,7 +38,7 @@ export default {
     'common.users': 'Usuaris',
     'common.showmore': 'Mostra\'n més',
     'common.futurefeature.title': 'Funcionalitat futura',
-    'common.futurefeature.text': 'Ens sap greu, però aquesta funcionalitat no està disponible en aquest moment. Estem treballant dur per fer-la disponible el més aviat possible.',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'No s\'ha trobat res',
     'common.explore': 'Explorar',
     'common.by': 'per {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'desconegut',
     'common.legal.guidelines': 'Directrius de la comunitat',
     'errorLoading.title': 'Error durant la càrrega de la pàgina',
-    'errorLoading.explained': 'S\'ha produït un error mentre es carregava la pàgina. Ens disculpem per les molèsties. Si us plau, torneu a intentar accedir a la pàgina. Si el problema persisteix, si us plau, feu-nos-ho saber.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Torna-ho a intentar!',
     'errorLoading.takingLong': 'Això està trigant molt de temps...',
     'common.title': 'Títol',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Cerca d\'entrada d\'enciclopèdia...',
     'editor.saved.beta': 'S\'ha creat una nova revisió per als lectors Beta!',
     'editor.saved.public': 'Nova versió publicada!',
-    goodbyeForever: 'Ens sap greu veure\'t marxar. Ha estat alguna cosa que hem fet? Si us plau, feu-nos-ho saber si és així. Sigui com sigui, us desitgem el millor en els vostres projectes futurs i esperem retrobar-nos! Visca llarg i pròsper!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Feu-nos saber com podem millorar',
     'common.edit': 'Editar',
     'common.publish': 'Publicar',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'Més recent',
     'common.oldest': 'Oldest',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

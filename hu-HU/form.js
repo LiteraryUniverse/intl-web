@@ -3,16 +3,16 @@ export default {
     'form.validator.required': 'Kötelező mező',
     'form.validator.mustBeNumber': 'Számnak kell lennie',
     'form.validator.minNumber': 'Nagyobbnak kell lennie, mint {min, number}',
-    'form.validator.maxNumber': 'Kisebbnek kell lennie, mint {max, number}',
+    'form.validator.maxNumber': 'Alacsonyabbnak kell lennie, mint {max, number}',
     'form.validator.maxLength': `Kevesebbnek kell lennie, mint {max, number} {what, select,
-    characters {karakter}
+    characters {karakterek}
     tags {címkék}
     genres {műfajok}
     numbers {számok}
-    other {}
+    other {~}
   }`,
     'form.validator.minLength': `Legalább {min, number} {what, select,
-    characters {karakternek kell lennie}
+    characters {karakterek}
     tags {címkék}
     genres {műfajok}
     genre {műfaj}

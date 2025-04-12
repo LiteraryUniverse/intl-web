@@ -14,7 +14,7 @@ export default {
   } ಸೆಟ್ಟಿಂಗ್ಗಳು`,
     'blog.description': 'ಬ್ಲಾಗ್‌ ಪರಿಚಯ',
     'blog.theme': 'ಥೀಮ್',
-    'blog.theme.info': 'ಥೀಮ್‌ಗನುಗ್ಗಿಸುವುದರಿಂದ ಪುಟದ ಹೊಂದಿಕೆ ಬದಲಾಗುತ್ತದೆ. ಈ ಅಂಶ ಈ ಸಮಯದಲ್ಲಿ ಯೋಗ್ಯತೆ ಪಡೆದಿಲ್ಲ.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'ಸಂಪಾದನೆ {title}',
     'blog.post.text': 'ಪೋಸ್ಟ್ ಪಠ್ಯ',
     'common.slug': 'SEO ಮಿತ್ರ ಪರಿಚಯ',
-    'blog.slug.explained': 'ಪೋಸ್ಟ್‌ಗೆ ಒಳ್ಳೆಯ URL. "-" ಹೊಂದಿರುವುದೊಂದನ್ನೇ ಬಾಳ್ಕೊಳ್ಳುವುದು, ವಿಶೇಷ ಅಕ್ಷರಗಳನ್ನು ಬಳಸಬೇಡಿ.',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'ಜನರ ದೃಷ್ಟಿಗೆ ಸೂಕ್ತವಾದುದು',
     'blog.post.notfound': 'ಈ ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ನ ಪ್ರಕಟಣೆ ಕಾಣಲಿಲ್ಲ',
     'blog.lists.works': `{type, select,

@@ -2,17 +2,17 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Campo obbligatorio',
     'form.validator.mustBeNumber': 'Deve essere un numero',
-    'form.validator.minNumber': 'Dovrebbe essere maggiore di {min, number}',
-    'form.validator.maxNumber': 'Dovrebbe essere inferiore a {max, number}',
-    'form.validator.maxLength': `Dovrebbe essere meno di {max, number} {what, select,
-    characters {personaggi}
+    'form.validator.minNumber': 'Deve essere maggiore di {min, number}',
+    'form.validator.maxNumber': 'Deve essere inferiore a {max, number}',
+    'form.validator.maxLength': `Deve essere inferiore a {max, number} {what, select,
+    characters {caratteri}
     tags {tag}
     genres {generi}
     numbers {numeri}
     other {}
   }`,
-    'form.validator.minLength': `Dovrebbe essere minimo {min, number} {what, select,
-    characters {personaggi}
+    'form.validator.minLength': `Deve essere almeno {min, number} {what, select,
+    characters {caratteri}
     tags {tag}
     genres {generi}
     genre {genere}

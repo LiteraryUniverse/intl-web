@@ -4,21 +4,21 @@ export default {
     'form.validator.mustBeNumber': 'Moet een nummer zijn',
     'form.validator.minNumber': 'Moet groter zijn dan {min, number}',
     'form.validator.maxNumber': 'Moet lager zijn dan {max, number}',
-    'form.validator.maxLength': `Moet minder dan {max, number} {what, select,
-    characters {tekens}
+    'form.validator.maxLength': `Moet kleiner zijn dan {max, number} {what, select,
+    characters {karakters}
     tags {tags}
     genres {genres}
     numbers {nummers}
     other {}
-  }zijn.`,
-    'form.validator.minLength': `Moet minimaal {min, number} {what, select,
-    characters {tekens}
+  }`,
+    'form.validator.minLength': `Moet minstens {min, number} {what, select,
+    characters {karakters}
     tags {tags}
     genres {genres}
     genre {genre}
     numbers {nummers}
     other {}
-  }zijn.`,
+  }zijn`,
     'form.validator.email': 'Moet een geldig e-mailadres zijn',
     'form.validator.url': 'Moet een geldige URL zijn',
     'form.validator.slug': 'Moet een geldig onderdeel van de URL zijn',

@@ -14,7 +14,7 @@ export default {
   } સ૆ટ્ટિંગ્સ`,
     'blog.description': 'બ્લોગ પરિચય',
     'blog.theme': 'થીમ',
-    'blog.theme.info': 'થીમ સરળત માંથી હવે આ સુવિધા તૈયાર નથી.',
+    'blog.theme.info': 'By adjusting the theme, you will be able to change the look of the page. This feature is not ready at this time.',
     'blog.posts.total': `There {total, plural,
     zero {are no posts}
     one {is one post}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'અપડેટિંગ {title}',
     'blog.post.text': 'પોસ્ટ ટેક્સ્ટ',
     'common.slug': 'એસઇઓ મિત્રપૂન URL',
-    'blog.slug.explained': 'પોસ્ટને URL જોવા માટે સુંદર બનાવેલ. "-" સમાંતે ખાસ અક્ષરોથી વાપરવામાં આવતાં.',
+    'blog.slug.explained': 'Create a nice-looking URL for the post. Avoid using special characters except for "-".',
     'blog.publicView': 'જનતા જોવાનું સારૂ બ્લોગ',
     'blog.post.notfound': 'બ્લોગ પોસ્ટ મળી નથી',
     'blog.lists.works': `{type, select,

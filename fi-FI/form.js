@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Pakollinen kenttä',
     'form.validator.mustBeNumber': 'Täytyy olla numero',
-    'form.validator.minNumber': 'Tulee olla suurempi kuin {min, number}',
-    'form.validator.maxNumber': 'Tulee olla pienempi kuin {max, number}',
-    'form.validator.maxLength': `Tulee olla vähemmän kuin {max, number} {what, select,
-    characters {merkkiä}
-    tags {tagia}
-    genres {genreä}
-    numbers {numeroa}
+    'form.validator.minNumber': 'On oltava suurempi kuin {min, number}',
+    'form.validator.maxNumber': 'On oltava pienempi kuin {max, number}',
+    'form.validator.maxLength': `Pitää olla alle {max, number} {what, select,
+    characters {merkkejä}
+    tags {tunnisteita}
+    genres {genrejä}
+    numbers {numeroita}
     other {}
   }`,
-    'form.validator.minLength': `Tulee olla vähintään {min, number} {what, select,
-    characters {merkkiä}
-    tags {tagia}
-    genres {genreä}
+    'form.validator.minLength': `On oltava vähintään {min, number} {what, select,
+    characters {merkkejä}
+    tags {tunnisteita}
+    genres {genrejä}
     genre {genre}
-    numbers {numeroa}
+    numbers {numeroita}
     other {}
   }`,
     'form.validator.email': 'Täytyy olla validi sähköposti',

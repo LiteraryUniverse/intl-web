@@ -14,7 +14,7 @@ export default {
   } 설정`,
     'blog.description': '블로그 소개',
     'blog.theme': '테마',
-    'blog.theme.info': '테마를 조정하면 페이지의 모양을 변경할 수 있습니다. 이 기능은 현재 사용할 수 없습니다.',
+    'blog.theme.info': '테마를 조정하여 페이지의 모양을 변경할 수 있습니다. 이 기능은 현재 준비되지 않았습니다.',
     'blog.posts.total': `이 블로그에는 {total, plural,
     zero {게시물이 없습니다}
     one {게시물이 하나 있습니다}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': '편집 {title}',
     'blog.post.text': '포스트 텍스트',
     'common.slug': 'SEO 친화적인 주소',
-    'blog.slug.explained': '멋진 글 URL을 입력합니다. "-"를 제외한 특수 문자를 사용하지 마세요.',
+    'blog.slug.explained': '보기 좋은 글의 URL을 만듭니다. "-"를 제외한 특수 문자를 사용하지 마세요.',
     'blog.publicView': '공개 뷰',
     'blog.post.notfound': '블로그 글을 찾을 수 없습니다',
     'blog.lists.works': `{type, select,

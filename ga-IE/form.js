@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Réimse riachtanach',
     'form.validator.mustBeNumber': 'Caithfidh a bheith mar uimhir',
-    'form.validator.minNumber': 'Ní mór a bheith níos mó ná {min, number}',
-    'form.validator.maxNumber': 'Ní mór a bheith níos lú ná {max, number}',
-    'form.validator.maxLength': `Ba cheart go mbeadh níos lú ná {max, number} {what, select,
-    characters {charactar}
-    tags {táirgí}
-    genres {seánra}
-    numbers {uimhreacha}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Ba cheart go mbeadh ar a laghad {min, number} {what, select,
-    characters {charactar}
-    tags {táirgí}
-    genres {seánra}
-    genre {seánra}
-    numbers {uimhreacha}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Caithfidh a bheith mar sheoladh ríomhphoist bailí',

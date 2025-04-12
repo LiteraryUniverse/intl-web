@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'अब एक बनाउनुहोस्!',
     'workshop.fictionalTime.createTitle': 'नयाँ काल्पनिक समय बनाउनुहोस्',
     'workshop.fictionalTime.editTitle': 'सम्पादन गर्नुहोस् {ftName}',
-    'workshop.fictionalTime.formDescription': `यहाँ तपाईंले आफ्नो काल्पनिक समय बनाउन सक्नुहुन्छ। हालसम्म यो उपकरण मात्रै सीमित छ र यसले केवल
-        सममित समयहरू सिर्जना गर्न सक्नुहुन्छ। यसका अर्थ यो हो कि तपाईं मायान क्यालेण्डर वा ग्रिगोरियनलाई पुन: सिर्जना गर्ने सक्नुहुन्न। यस समय
-        यो उपकरणले हरेक समयलाई सधैं सम्म एकै हुनुपर्छ, जस्तै कि महिनाहरूमा सधैं ३० दिनहरू मात्र हुन्छन् नियमित रूपमा अनुपालन गर्नुहुन्छ र यसरी
-        अगाडि जाने गर्नुहुन्छ। हामीले यसलाई पछीको संस्करणमा ठीक गर्नेछौं, तर त्यससम्म यो उपकरण मुख्य रूपमा
-        विज्ञान-कथा आधारित समयहरू सिर्जना गर्न सबैभन्दा उपयुक्त छ।`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'समयको नाम',
     'workshop.fictionalTime.basicInfo': 'मूलभूत जानकारी',
     'workshop.fictionalTime.timeSetup': 'समय सेट गर्नुहोस्',
     'workshop.fictionalTime.linkedToET': 'के यो समयलाई पृथ्वीको मिति (ग्रिगोरियन क्यालेण्डर) बाट सुरु हुन्छ?',
     'workshop.fictionalTime.timeDeclaration': 'समयको घोषणा',
-    'workshop.fictionalTime.declarationLocation': 'समयको नाम कहाँ घोषित गर्नुपर्छ?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'इकाईहरू अघि',
     'workshop.fictionalTime.declarationAfter': 'इकाईहरू पछि',
     'workshop.fictionalTime.declarationNone': 'कुनै पनि',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': '6 महिनाभन्दा बढी समयसम्म कुनै नयाँ अध्याय प्रकाशित नभएकोको कारणले स्वचालित रूपमा हायटसमा राखिएको छ।',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'यदि तपाईं नयाँ अध्याय प्रकाशित गर्नुहुन्छ भने यो स्थिति स्वचालित रूपमा उठाइनेछ। यदि तपाईं आउँदो 6 महिनामा कुनै नयाँ अध्याय प्रकाशित नगर्नुहुन्छ भने हामी कथालाई स्वचालित रूपमा रद्द गर्नेछौं।',
     'workshop.statusChangeEmail.cancellationIntro': 'तपाईंको कथा स्थिति स्वचालित रूपमा रद्द गरियो।',
-    'workshop.statusChangeEmail.cancellationWhy': 'यसको कारण यो हुन्छ कि तपाईंले 6 महिनाभित्र कथालाई हायटसमा सेट गरेपछि कुनै नयाँ अध्याय पोस्ट गर्नुभएको छैन। यसैले निष्क्रियताको एक वर्ष पछि हामी कथाहरूलाई स्वचालित रूपमा रद्द गर्दछौं ताकि पाठकहरूले जान्न सक्नुहुन्छ कुन कथाहरू सक्रिय छन्।',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'यदि तपाईं यो कथा अझै काम गर्न नचाहानुहुन्छ भने अरु केहि गर्नुपर्छैन।',
     'workshop.startCreating': 'सिर्जना गर्नुहोस्',
     'workshop.ownWork': 'आफ्नो काम',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+    'workshop.theWay.authorProgress': 'Author Progress'
 };

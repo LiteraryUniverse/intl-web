@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'สร้างตอนนี้!',
     'workshop.fictionalTime.createTitle': 'สร้างเวลาจำลองใหม่',
     'workshop.fictionalTime.editTitle': 'แก้ไข {ftName}',
-    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently this tool is limited and is only capable of creating
-        symmetric times. This means you won 't be able to recreate the Mayan calendar or the Gregorian. At this moment
-        this tool expects that all the times are always the same, eg. months have always 30 days no exceptions and so
-        on. We will address this in later versions, but till then this tool is more suited for creating primarily
-        sci-fi based times.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'ชื่อเวลา',
     'workshop.fictionalTime.basicInfo': 'ข้อมูลพื้นฐาน',
     'workshop.fictionalTime.timeSetup': 'การตั้งค่าเวลา',
     'workshop.fictionalTime.linkedToET': 'เวลานี้เริ่มต้นในวันที่โลก (ปฏิทินกรรมวิธีเกรกอเรียน) หรือไม่?',
     'workshop.fictionalTime.timeDeclaration': 'การประกาศเวลา',
-    'workshop.fictionalTime.declarationLocation': 'ที่ควรประกาศชื่อเวลาอยู่ที่ไหน?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'ก่อนหน่วย',
     'workshop.fictionalTime.declarationAfter': 'หลังหน่วย',
     'workshop.fictionalTime.declarationNone': 'ไม่มี',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'เรื่องราวของคุณถูกพักชั่วคราวอัตโนมัติเนื่องจากไม่มีการเผยแพร่ตอนใหม่เป็นเวลากว่า 6 เดือน',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'สถานะนี้จะถูกยกเลิกอัตโนมัติหากคุณเผยแพร่ตอนใหม่ หากคุณไม่เผยแพร่ตอนใหม่ภายใน 6 เดือนถัดไป เราจะตั้งค่าเรื่องราวเป็นยกเลิกอัตโนมัติ',
     'workshop.statusChangeEmail.cancellationIntro': 'สถานะเรื่องราวของคุณถูกตั้งค่าเป็นยกเลิกอัตโนมัติ',
-    'workshop.statusChangeEmail.cancellationWhy': 'สาเหตุที่เกิดขึ้นเนื่องจากคุณไม่ได้โพสต์ตอนใหม่ในเรื่องราวตั้งแต่ถูกตั้งค่าเป็นการพักชั่วคราว 6 เดือนที่ผ่านมา ดังนั้นหลังจากไม่มีกิจกรรมเป็นเวลา 1 ปี เราจะตั้งค่าเรื่องราวเป็นยกเลิกอัตโนมัติเพื่อให้ผู้อ่านทราบว่าเรื่องราวไหนที่กำลังมีกิจกรรม',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'สถานะนี้จะถูกยกเลิกอัตโนมัติหากคุณเผยแพร่ตอนใหม่ หากคุณไม่มีแผนที่จะทำงานกับเรื่องราวนี้อีกต่อไป คุณไม่จำเป็นต้องทำอะไรเพิ่มเติม',
     'workshop.startCreating': 'เริ่มสร้าง',
     'workshop.ownWork': 'งานของคุณเอง',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+    'workshop.theWay.authorProgress': 'Author Progress'
 };

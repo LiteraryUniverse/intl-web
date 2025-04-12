@@ -4,14 +4,14 @@ export default {
     'form.validator.mustBeNumber': 'Trebuie să fie un număr',
     'form.validator.minNumber': 'Trebuie să fie mai mare decât {min, number}',
     'form.validator.maxNumber': 'Trebuie să fie mai mic decât {max, number}',
-    'form.validator.maxLength': `Ar trebui să fie mai mică decât {max, number} {what, select,
+    'form.validator.maxLength': `Trebuie să fie mai mic de {max, number} {what, select,
     characters {caractere}
     tags {etichete}
     genres {genuri}
     numbers {numere}
     other {}
   }`,
-    'form.validator.minLength': `Ar trebui să fie cel puțin {min, number} {what, select,
+    'form.validator.minLength': `Trebuie să fie cel puțin {min, number} {what, select,
     characters {caractere}
     tags {etichete}
     genres {genuri}

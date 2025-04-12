@@ -133,17 +133,17 @@ export default {
     'workshop.fictionalTime.createNow': 'Cruthaigh ceann anois!',
     'workshop.fictionalTime.createTitle': 'Cruthaigh am ficsin nua',
     'workshop.fictionalTime.editTitle': 'Cuir in eagar {ftName}',
-    'workshop.fictionalTime.formDescription': `Anseo is féidir leat do am ficsin féin a chruthú. Faoi láthair tá an uirlis seo teoranta agus níl sí in ann ach amanna comhsheasmhacha
-        a chruthú. Ciallaíonn sé seo nach mbeidh tú in ann an féilire Mháya nó an Gregorian a athchruthú. Anois
-        táthar ag súil leis an uirlis seo go mbeidh na hamanna go léir i gcónaí an céanna, mar shampla, go mbeidh 30 lá i ngach mí gan aon eisceacht agus mar sin
-        de. Déanfaimid freastal ar seo sna leaganacha níos déanaí, ach go dtí sin is fearr an uirlis seo chun amanna bunaithe go príomha ar
-        eolaíocht ficsean.`,
+    'workshop.fictionalTime.formDescription': `Here you can create your own fictional time. Currently, this tool is limited and is only capable of creating
+        symmetric times. This means you won't be able to recreate the Mayan calendar or the Gregorian calendar. At this moment,
+        this tool expects that all time periods are always the same, e.g., months always have 30 days with no exceptions and so
+        on. We will address this in later versions, but until then, this tool is more suited for creating primarily
+        sci-fi based time systems.`,
     'workshop.fictionalTime.timeName': 'Ainm an ama',
     'workshop.fictionalTime.basicInfo': 'Eolas bunúsach',
     'workshop.fictionalTime.timeSetup': 'Socrú ama',
     'workshop.fictionalTime.linkedToET': 'An dtosaíonn an t-am seo ar dáta Domhanda (féilire Gregorian)?',
     'workshop.fictionalTime.timeDeclaration': 'Fógra ama',
-    'workshop.fictionalTime.declarationLocation': 'Cá bhfuil sé beartaithe go ndéanfar ainm an ama a fhoilsiú?',
+    'workshop.fictionalTime.declarationLocation': 'Where should the time name be declared?',
     'workshop.fictionalTime.declarationBefore': 'Roimh na hainmhithe',
     'workshop.fictionalTime.declarationAfter': 'Tar éis na hainmhithe',
     'workshop.fictionalTime.declarationNone': 'Neamhní',
@@ -275,7 +275,7 @@ export default {
     'workshop.statusChangeEmail.hiatusWhy': 'Cuireadh ar iátús go huathoibríoch de bharr nach raibh aon chaibidil nua foilsithe le breis agus 6 mhí.',
     'workshop.statusChangeEmail.hiatusWhatFollows': 'Beidh an stádas seo á bhaint go huathoibríoch má fhoilseofar chaibidil nua. Mura bhfoilseofar chaibidil nua sa 6 mhí atá romhainn, gheobhaidh muid an scéal a shocrú go huathoibríoch mar chuir síos.',
     'workshop.statusChangeEmail.cancellationIntro': 'D\'athraíodh do stádas scéal go huathoibríoch.',
-    'workshop.statusChangeEmail.cancellationWhy': 'Tar éis nach raibh aon chaibidil nua foilsithe agat don scéal ó cuireadh ar iátús é 6 mhí ó shin, tá sé seo tarlaithe. Mar sin, tar éis bliain gan ghníomhaíocht, cuireann muid scéalta go huathoibríoch ar ceal ionas go bhfuil a fhios ag léitheoirí cén scéal atá faoi láthair.',
+    'workshop.statusChangeEmail.cancellationWhy': 'This has happened because you haven\'t posted any new chapter to the story since it was set to hiatus 6 months ago. After a year of inactivity, we automatically set stories to cancelled so that readers know which stories are active.',
     'workshop.statusChangeEmail.cancellationWhatFollows': 'Beidh an stádas seo á bhaint go huathoibríoch má fhoilseofar chaibidil nua. Mura bhfuil sé ar intinn agat dul ar aghaidh leis an scéal seo níl rud ar bith eile le déanamh agat.',
     'workshop.startCreating': 'Tosaigh ag cruthú',
     'workshop.ownWork': 'Obair féin',
@@ -293,5 +293,6 @@ export default {
     'workshop.collaborator.leaveExplained': 'Leaving project will mean that you will loose all access, association and privileges. If you are not sure what all of this means, then this is probably not what you wanted to click.',
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
-    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.'
+    'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
+    'workshop.theWay.authorProgress': 'Author Progress'
 };

@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'আবশ্যক ক্ষেত্র',
     'form.validator.mustBeNumber': 'একটি সংখ্যা হতে হবে',
-    'form.validator.minNumber': 'অবশ্যই {min, number}-এর চেয়ে বড় হতে হবে',
-    'form.validator.maxNumber': 'অবশ্যই {max, number}-এর চেয়ে কম হতে হবে',
-    'form.validator.maxLength': `{max, number} হব আছে যতটো কম {what, select,
-    characters {}
-    tags {টেগ}
-    genres {জনরে}
-    numbers {সংখ্যা}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `{min, number} হব আছে যতটো বেশি {what, select,
-    characters {}
-    tags {টেগ}
-    genres {জনরে}
-    genre {জনরে}
-    numbers {সংখ্যা}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'একটি বৈধ ইমেল হতে হবে',

@@ -14,7 +14,7 @@ export default {
   }`,
     'blog.description': 'Вступ до блогу',
     'blog.theme': 'Тема',
-    'blog.theme.info': 'Змінюючи тему, ви зможете змінити вигляд сторінки. Наразі ця функція не готова.',
+    'blog.theme.info': 'Налаштувавши тему, ви зможете змінити зовнішній вигляд сторінки. Наразі ця функція ще не готова.',
     'blog.posts.total': `У цьому блозі {total, plural,
     zero {немає постів}
     one {є один пост}
@@ -24,7 +24,7 @@ export default {
     'blog.post.update': 'Редагування {title}',
     'blog.post.text': 'Текст поста',
     'common.slug': 'SEO-дружня адреса',
-    'blog.slug.explained': 'Гарний URL-адреса поста. Уникайте використання спеціальних символів, крім "-".',
+    'blog.slug.explained': 'Створіть красиву URL-адресу для публікації. Уникайте використання спеціальних символів, окрім "-".',
     'blog.publicView': 'Публічний перегляд',
     'blog.post.notfound': 'Пост блогу не знайдено',
     'blog.lists.works': `{type, select,

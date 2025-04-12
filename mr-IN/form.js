@@ -2,23 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'आवश्यक फील्ड',
     'form.validator.mustBeNumber': 'एक अंक असावा पाहिजे',
-    'form.validator.minNumber': 'च्या पेक्षा मोठं असावं पाहिजे {min, number}',
-    'form.validator.maxNumber': 'च्या पेक्षा कमी असावं पाहिजे {max, number}',
-    'form.validator.maxLength': `{max, number} किंमती {what, select,
-    characters {पेक्षा कमी असावीत}
-    tags {टॅग}
-    genres {जॅनर}
-    numbers {आकडे}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
-  }असावीत.`,
-    'form.validator.minLength': `{min, number} किंमती {what, select,
-    characters {पेक्षा जास्त असावीत}
-    tags {टॅग}
-    genres {जॅनर}
-    genre {जॅनर}
-    numbers {आकडे}
+  }`,
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
-  }असावीत.`,
+  }`,
     'form.validator.email': 'एक वैध ईमेल असावा पाहिजे',
     'form.validator.url': 'एक वैध URL असावा पाहिजे',
     'form.validator.slug': 'URL चा एक वैध भाग असावा पाहिजे',

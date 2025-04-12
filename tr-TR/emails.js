@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Saygılarımızla,<br />Edebi Evren ekibi',
     // Enrollment
     'email.enrollAccount.welcome': 'Aramıza hoş geldiniz',
-    'email.enrollAccount.messageHtml': 'Sizi Edebi Evrene davet etmek istiyoruz! Özel bir hesap oluşturduk, bu hesap aracılığıyla Edebi Evren\'in tüm özelliklerine erişebilirsiniz! Lütfen, yaratıcı yazma ve okuma araçlarının gelecek neslini oluşturmak için bize katılın!',
+    'email.enrollAccount.messageHtml': 'Sizi Edebiyat Evreni\'ne davet etmek istiyoruz! Sizin için Edebiyat Evreni\'nin tüm özelliklerine erişebileceğiniz kişisel bir hesap hazırladık. Lütfen yeni nesil yaratıcı yazma ve okumayı yaratmada bize katılın!',
     'email.enrollAccount.button': 'Hesabınıza erişin',
-    'email.enrollAccount.signature': 'Sizi görmek için sabırsızlanıyoruz,<br />Literary Universe ekibi',
+    'email.enrollAccount.signature': 'Sizleri de aramızda görmek için sabırsızlanıyoruz,<br />Edebiyat Evreni ekibi',
     // Reset password
-    'email.resetPassword.messageHtml': 'Hesabınızın şifresini sıfırlamak için bir talep aldık, işlemi devam ettirmek için lütfen aşağıdaki düğmeye tıklayın. Eğer bu talebi siz yapmadıysanız bu e-postayı görmezden gelebilirsiniz, ancak güvenlik ayarlarınızı gözden geçirmek için iyi bir zaman olabilir.',
+    'email.resetPassword.messageHtml': 'Hesabınız için şifrenizi sıfırlama talebinizi aldık. İşleme devam etmek için lütfen aşağıdaki düğmeye tıklayın. Bu talebi yapmadıysanız, bu e-postayı görmezden gelebilirsiniz, ancak güvenlik ayarlarınızı gözden geçirmek için iyi bir zaman olabilir.',
     'email.resetPassword.button': 'Şifreyi sıfırla',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Sizi aramızda görmekten mutluluk duyuyoruz! Lütfen bu e-posta adresini doğrulamak için aşağıdaki düğmeye tıklayın.',
+    'email.verifyEmail.messageHtml': 'Sizi aramızda görmekten mutluluk duyarız! Bu e-posta adresini doğrulamak için lütfen aşağıdaki düğmeye tıklayın.',
     'email.verifyEmail.button': 'Bu e-posta adresini doğrula',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Hesabınız yükseltilmiştir',

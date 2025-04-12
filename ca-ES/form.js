@@ -2,21 +2,21 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Camp obligatori',
     'form.validator.mustBeNumber': 'Ha de ser un número',
-    'form.validator.minNumber': 'Ha de ser més gran que {min, number}',
-    'form.validator.maxNumber': 'Ha de ser més petit que {max, number}',
-    'form.validator.maxLength': `Ha de ser inferior a {max, number} {what, select,
-    characters {caràcters}
-    tags {etiquetes}
-    genres {gèneres}
-    numbers {números}
+    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.maxNumber': 'Must be lower than {max, number}',
+    'form.validator.maxLength': `Must be less than {max, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    numbers {numbers}
     other {}
   }`,
-    'form.validator.minLength': `Ha de ser com a mínim {min, number} {what, select,
-    characters {caràcters}
-    tags {etiquetes}
-    genres {gèneres}
-    genre {gènere}
-    numbers {números}
+    'form.validator.minLength': `Must be at least {min, number} {what, select,
+    characters {characters}
+    tags {tags}
+    genres {genres}
+    genre {genre}
+    numbers {numbers}
     other {}
   }`,
     'form.validator.email': 'Ha de ser un correu electrònic vàlid',

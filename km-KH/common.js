@@ -38,7 +38,7 @@ export default {
     'common.users': 'អ្នកប្រើប្រាស់',
     'common.showmore': 'បង្ហាញច្រើនទៀត',
     'common.futurefeature.title': 'លក្ខណៈសម្បត្តិក្នុងអនុវត្ត',
-    'common.futurefeature.text': 'សូមអភ័យទោស ការនេះមិនមានទេបើមិនមានព័ត៌មានបន្ថែមទេ។ យើងកំពុងធ្វើការដោះស្រាយដើម្បីបង្កើតវាដោយបន្តបន្ទាប់ពីបានជោគជ័យ។',
+    'common.futurefeature.text': 'We apologize, but this feature is not available at this time. We are working hard to make it available as soon as possible.',
     'common.nothingfound': 'មិនបានរកឃើញអ្វីទាំងអស់',
     'common.explore': 'រកមើល',
     'common.by': 'ដោយ {author}',
@@ -164,7 +164,7 @@ export default {
     unknown: 'unknown',
     'common.legal.guidelines': 'របាយការណ៍​សង្គម​សហគ្រាសជំនួយ',
     'errorLoading.title': 'Error during page load',
-    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please retry accessing the page again. If the problem persists, please let us known.',
+    'errorLoading.explained': 'An error has occurred while the page was loading. We apologize for the inconvenience. Please try accessing the page again. If the problem persists, please let us know.',
     'errorLoading.retry': 'Retry!',
     'errorLoading.takingLong': 'This is taking a long time...',
     'common.title': 'Title',
@@ -175,7 +175,7 @@ export default {
     'editor.placeholder.connection': 'Search for encyclopedia entry...',
     'editor.saved.beta': 'New revision for Beta readers created!',
     'editor.saved.public': 'New version published!',
-    goodbyeForever: 'We are sorry to see see you go. Was it something we did? Please let us know if that is the case. Either way we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
+    goodbyeForever: 'We are sorry to see you go. Was it something we did? Please let us know if that is the case. Either way, we wish you the best in your future endeavors and hopefully we\'ll meet again! Live long and prosper!',
     'goodbyeForever.feedback': 'Let us know what we can do better',
     'common.edit': 'Edit',
     'common.publish': 'Publish',
@@ -273,5 +273,9 @@ export default {
     'common.newest': 'ថ្មីបំផុត',
     'common.oldest': 'អាក្រក់ជាងចាស់បំផុត',
     'common.noSelection': 'No selection',
-    'common.content': 'Content'
+    'common.content': 'Content',
+    'common.theWayOfTheAuthor': 'The Way of the Author',
+    'common.password.hide': 'Hide Password',
+    'common.password.show': 'Show Password',
+    'common.forums': 'Forums'
 };

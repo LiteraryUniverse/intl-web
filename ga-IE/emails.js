@@ -17,14 +17,14 @@ export default {
     'email.signature': 'Le meas,<br />foireann Domhan Liteartha',
     // Enrollment
     'email.enrollAccount.welcome': 'Fáilte go bord',
-    'email.enrollAccount.messageHtml': 'Ba mhaith linn cuireadh a thabhairt duit chuig Domhan Liteartha! Tá cuntas pearsanta cruthaithe againn duit áit a mbeidh rochtain agat ar gach gné de Domhan Liteartha! Bainimid taitneamh as do chuideachta leis an gcéad ghlúin eile de scríbhneoireacht agus léitheoireacht chruthaitheacha!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Rochtain ar do chuntas',
-    'email.enrollAccount.signature': 'Táimid ag súil go mór leat a fheiceáil, foireann Literary Universe<br />',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'Táimid tar éis iarratas a fháil chun do phasfhocal a athshocrú do do chuntas, clicáil ar an gcnaipe thíos chun leanúint ar aghaidh leis an bpróiseas. Má níor rinne tú an iarratas seo, is féidir leat an ríomhphost seo a neamhaird, ach b\'fhéidir go bhfuil sé in am maith do shocruithe slándála a athbhreithniú.',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Athshocraigh pasfhocal',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'Táimid sásta go bhfuil tú ar bord! Cliceáil ar an gcnaipe thíos chun an seoladh ríomhphoist seo a dhearbhú.',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'Dearbhú an seoladh ríomhphoist seo',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'Tá do chuntas uasghrádaithe',

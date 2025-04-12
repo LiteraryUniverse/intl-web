@@ -19,5 +19,10 @@
   "theWay.feedback.title": "Feedback",
   "theWay.feedback.intro": "The Way of the Author is an evolving system that we are constantly evolving. If you have any ideas or encountered issues, please let us know either via the Feedback Center or contacting us on the following email:",
   "theWay.sponsors": "Sponsors & Partners",
-  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program."
+  "theWay.sponsors.czechInvest": "The Way of the Author was established under CzechInvest Technological Incubation program.",
+  "theWay.purpose.question": "저자의 길의 목적은 무엇인가요?",
+  "theWay.goToGuides.primer": "막막하거나 영감이 필요하신가요? 커뮤니티에 가입하여 팁과 지원을 받아보세요!",
+  "theWay.goToFullDashboard": "전체 대시보드",
+  "theWay.progress.byGenre": "장르별 진행 상황",
+  "theyWay.achieve.title": "레벨 달성 {level, number} 에서 {genre}"
 }

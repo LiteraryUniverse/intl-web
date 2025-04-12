@@ -17,14 +17,14 @@ export default {
     'email.signature': 'সত্যিই,<br />সাহিত্যিক বিশ্ব দল',
     // Enrollment
     'email.enrollAccount.welcome': 'স্বাগতম বোর্ডে',
-    'email.enrollAccount.messageHtml': 'আমরা আপনাকে সাহিত্যিক বিশ্বে আমন্ত্রণ জানাতে চাই! আমরা আগে থেকেই আপনার জন্য একটি ব্যক্তিগত অ্যাকাউন্ট তৈরি করেছি যেখানে আপনি সাহিত্যিক বিশ্বের সমস্ত বৈশিষ্ট্য অ্যাক্সেস করতে পারবেন! অনুগ্রহ করে আমাদের সাহিত্যিক লেখা এবং পঠনের পরবর্তী প্রজন্মে আমাদের সঙ্গে যোগ দিন!',
+    'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'আপনার অ্যাকাউন্ট অ্যাক্সেস করুন',
-    'email.enrollAccount.signature': 'আমরা আপনাকে দেখতে অপেক্ষা করছি,<br />লিটারারি ইউনিভার্স দল',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
     // Reset password
-    'email.resetPassword.messageHtml': 'আপনার অ্যাকাউন্টের পাসওয়ার্ড রিসেট করতে আমরা একটি অনুরোধ পেয়েছি, প্রক্রিয়াটি চালিয়ে যেতে নিচের বাটনে ক্লিক করুন। যদি আপনি এই অনুরোধটি না করে থাকেন তবে আপনি এই ইমেলটি উপেক্ষা করতে পারেন, তবে এটি আপনার নিরাপত্তা সেটিংস পর্যালোচনার একটি ভালো সময় হতে পারে।',
+    'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'পাসওয়ার্ড রিসেট করুন',
     // E-mail verification
-    'email.verifyEmail.messageHtml': 'আমরা আপনাকে স্বাগত জানাচ্ছি! দয়া করে এই ইমেল ঠিকানাটি যাচাই করতে নিচের বাটনে ক্লিক করুন।',
+    'email.verifyEmail.messageHtml': 'We are happy to have you on board! Please click the button below to verify this e-mail address.',
     'email.verifyEmail.button': 'এই ইমেল ঠিকানা যাচাই করুন',
     // Getting premium from admins
     'email.adminUpgrade.subject': 'আপনার অ্যাকাউন্ট আপগ্রেড করা হয়েছে',
