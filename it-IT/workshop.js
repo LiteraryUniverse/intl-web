@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Sinistra su {date, date}',
     'workshop.collaborators.removedInfo': 'Rimosso su {date, date}',
     'workshop.aiGeneratedAdjusted': 'Lo stato di generazione AI di questo contenuto è stato regolato, a seguito di una segnalazione di un utente, da un amministratore e non può essere modificato.',
-    'workshop.theWay.authorProgress': 'Progresso dell\'autore'
+    'workshop.theWay.authorProgress': 'Progresso dell\'autore',
+    'workshop.universe.preventPublishing': 'Impedire la pubblicazione di storie',
+    'workshop.universe.preventPublishingTooltip': 'Quando è abilitato, non è possibile pubblicare storie in questo universo. Questo è utile per gli universi che sono ancora in fase di sviluppo o per gli universi che sono destinati solo all\'uso privato.',
+    'workshop.story.preventPublishing': 'Impedire la pubblicazione',
+    'workshop.story.preventPublishingTooltip': 'Quando è abilitata, questa storia non può essere pubblicata. Questo è utile per le storie che sono ancora in fase di sviluppo o per le storie che sono destinate solo all\'uso privato.',
+    'workshop.story.preventPublishingTooltipUniverse': 'La pubblicazione è impedita perché l\'universo ha l\'impostazione Impedisci pubblicazione attivata.',
+    'workshop.revisions.new.public.disabled': 'Non è possibile pubblicare quando la pubblicazione è abilitata nelle impostazioni della storia.'
 };
