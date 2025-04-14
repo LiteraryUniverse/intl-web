@@ -286,5 +286,11 @@ export default {
     'workshop.collaborators.leftInfo': '左に{date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
     'workshop.aiGeneratedAdjusted': 'このコンテンツのAI生成ステータスは、ユーザーからの報告の結果、管理者によって調整されており、変更することはできません。',
-    'workshop.theWay.authorProgress': '著者プログレス'
+    'workshop.theWay.authorProgress': '著者プログレス',
+    'workshop.universe.preventPublishing': '記事の公開を防ぐ',
+    'workshop.universe.preventPublishingTooltip': '有効にすると、このユニバース内のストーリーは公開できなくなります。これはまだ開発途中のユニバースや、私的利用のみを目的としたユニバースに便利です。',
+    'workshop.story.preventPublishing': '出版の防止',
+    'workshop.story.preventPublishingTooltip': '有効にすると、このストーリーは公開できなくなります。これは、まだ開発中のストーリーや、私的利用のみを目的としたストーリーに便利です。',
+    'workshop.story.preventPublishingTooltipUniverse': 'ユニバースでパブリッシングの禁止設定が有効になっているため、パブリッシングが禁止されています。',
+    'workshop.revisions.new.public.disabled': 'ストーリー設定でパブリッシュを防止する設定が有効になっている場合、パブリッシュできません。'
 };
