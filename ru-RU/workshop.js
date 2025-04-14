@@ -313,5 +313,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Покинул {date, date}',
     'workshop.collaborators.removedInfo': 'Удалён {date, date}',
     'workshop.aiGeneratedAdjusted': 'Статус ИИ-генерации этого контента был скорректирован администратором в результате сообщения пользователя и не может быть изменён.',
-    'workshop.theWay.authorProgress': 'Авторский прогресс'
+    'workshop.theWay.authorProgress': 'Авторский прогресс',
+    'workshop.universe.preventPublishing': 'Предотвращение публикации историй',
+    'workshop.universe.preventPublishingTooltip': 'Если эта функция включена, ни одна история в этой вселенной не может быть опубликована. Это полезно для вселенных, которые ещё находятся в разработке, или для вселенных, предназначенных только для частного использования.',
+    'workshop.story.preventPublishing': 'Предотвращение публикации',
+    'workshop.story.preventPublishingTooltip': 'Если эта опция включена, эта история не может быть опубликована. Это полезно для историй, которые все еще находятся в разработке, или для историй, предназначенных только для частного использования.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Публикация запрещена, потому что во вселенной включена настройка предотвращения публикации.',
+    'workshop.revisions.new.public.disabled': 'Невозможно опубликовать, если в настройках истории включена функция предотвращения публикации.'
 };
