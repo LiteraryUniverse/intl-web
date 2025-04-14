@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Eemaldatud aadressil {date, date}',
     'workshop.aiGeneratedAdjusted': 'Administraator on selle sisu tehisintellekti genereerimise staatust kasutaja aruande tulemusena kohandanud ja seda ei saa muuta.',
-    'workshop.theWay.authorProgress': 'Autor Progress'
+    'workshop.theWay.authorProgress': 'Autor Progress',
+    'workshop.universe.preventPublishing': 'Juttude avaldamise vältimine',
+    'workshop.universe.preventPublishingTooltip': 'Kui see on lubatud, ei saa selles universumis ühtegi lugu avaldada. See on kasulik universumite puhul, mis on veel arendamisel, või universumite puhul, mis on mõeldud ainult isiklikuks kasutamiseks.',
+    'workshop.story.preventPublishing': 'Avaldamise vältimine',
+    'workshop.story.preventPublishingTooltip': 'Kui see on lubatud, ei saa seda lugu avaldada. See on kasulik lugude puhul, mis on veel väljatöötamisel või lugude puhul, mis on mõeldud ainult isiklikuks kasutamiseks.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Avaldamine on takistatud, sest universumis on lubatud säte "Avaldamise takistamine".',
+    'workshop.revisions.new.public.disabled': 'Ei saa avaldada, kui loo seadetes on lubatud avaldamise vältimine.'
 };
