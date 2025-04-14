@@ -301,5 +301,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Vľavo na {date, date}',
     'workshop.collaborators.removedInfo': 'Odstránené na {date, date}',
     'workshop.aiGeneratedAdjusted': 'Stav generovania AI tohto obsahu bol upravený na základe hlásenia používateľa správcom a nie je možné ho zmeniť.',
-    'workshop.theWay.authorProgress': 'Pokrok autora'
+    'workshop.theWay.authorProgress': 'Pokrok autora',
+    'workshop.universe.preventPublishing': 'Zabrániť zverejňovaniu príbehov',
+    'workshop.universe.preventPublishingTooltip': 'Ak je táto funkcia zapnutá, nie je možné publikovať žiadne príbehy z tohto sveta. Toto je užitočné pre vesmíry, ktoré sú stále vo vývoji, alebo pre vesmíry, ktoré sú určené len na súkromné použitie.',
+    'workshop.story.preventPublishing': 'Zabrániť publikovaniu',
+    'workshop.story.preventPublishingTooltip': 'Ak je táto možnosť povolená, tento príbeh nie je možné zverejniť. Je to užitočné pre príbehy, ktoré sú ešte vo vývoji, alebo pre príbehy, ktoré sú určené len na súkromné použitie.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Publikovanie je zakázané, pretože vesmír má povolené nastavenie Zabrániť publikovaniu.',
+    'workshop.revisions.new.public.disabled': 'Nie je možné publikovať, keď je v nastaveniach príbehu povolené zabrániť publikovaniu.'
 };
