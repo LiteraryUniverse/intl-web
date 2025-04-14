@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Eltávolítva: {date, date}',
     'workshop.aiGeneratedAdjusted': 'A tartalom mesterséges intelligencia generálási státuszát egy felhasználói jelentés alapján egy rendszergazda módosította, és nem módosítható.',
-    'workshop.theWay.authorProgress': 'Szerző Haladás'
+    'workshop.theWay.authorProgress': 'Szerző Haladás',
+    'workshop.universe.preventPublishing': 'A történetek közzétételének megakadályozása',
+    'workshop.universe.preventPublishingTooltip': 'Ha engedélyezve van, ebben az univerzumban nem lehet történeteket közzétenni. Ez olyan univerzumok esetében hasznos, amelyek még fejlesztés alatt állnak, vagy olyan univerzumok esetében, amelyeket csak magánhasználatra szánnak.',
+    'workshop.story.preventPublishing': 'A közzététel megakadályozása',
+    'workshop.story.preventPublishingTooltip': 'Ha engedélyezve van, ez a történet nem tehető közzé. Ez olyan történeteknél hasznos, amelyek még fejlesztés alatt állnak, vagy olyan történeteknél, amelyeket csak magáncélú felhasználásra szánnak.',
+    'workshop.story.preventPublishingTooltipUniverse': 'A közzététel megakadályozott, mivel az univerzumban engedélyezve van a közzététel megakadályozása beállítás.',
+    'workshop.revisions.new.public.disabled': 'Nem lehet közzétenni, ha a történet beállításaiban engedélyezve van a közzététel megakadályozása.'
 };
