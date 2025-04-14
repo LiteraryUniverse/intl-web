@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Esquerda em {date, date}',
     'workshop.collaborators.removedInfo': 'Removido em {date, date}',
     'workshop.aiGeneratedAdjusted': 'O status de geração de IA desse conteúdo foi ajustado, como resultado de um relatório de usuário, por um administrador e não pode ser alterado.',
-    'workshop.theWay.authorProgress': 'Progresso do autor'
+    'workshop.theWay.authorProgress': 'Progresso do autor',
+    'workshop.universe.preventPublishing': 'Impedir a publicação de histórias',
+    'workshop.universe.preventPublishingTooltip': 'Quando ativado, nenhuma história desse universo pode ser publicada. Isso é útil para universos que ainda estão em desenvolvimento ou para universos que se destinam apenas ao uso privado.',
+    'workshop.story.preventPublishing': 'Impedir a publicação',
+    'workshop.story.preventPublishingTooltip': 'Quando ativado, essa história não pode ser publicada. Isso é útil para histórias que ainda estão em desenvolvimento ou para histórias que se destinam apenas ao uso privado.',
+    'workshop.story.preventPublishingTooltipUniverse': 'A publicação é impedida porque o universo tem a configuração de impedir publicação ativada.',
+    'workshop.revisions.new.public.disabled': 'Não é possível publicar enquanto a opção impedir publicação estiver ativada nas configurações da história.'
 };
