@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Fjernet på {date, date}',
     'workshop.aiGeneratedAdjusted': 'AI-generationsstatus for dette indhold er som følge af en brugerrapport blevet justeret af en administrator og kan ikke ændres.',
-    'workshop.theWay.authorProgress': 'Forfatter fremskridt'
+    'workshop.theWay.authorProgress': 'Forfatter fremskridt',
+    'workshop.universe.preventPublishing': 'Forhindre udgivelse af historier',
+    'workshop.universe.preventPublishingTooltip': 'Når det er aktiveret, kan ingen historier i dette univers udgives. Dette er nyttigt for universer, der stadig er under udvikling, eller for universer, der kun er beregnet til privat brug.',
+    'workshop.story.preventPublishing': 'Forhindre udgivelse',
+    'workshop.story.preventPublishingTooltip': 'Når det er aktiveret, kan denne historie ikke udgives. Dette er nyttigt for historier, der stadig er under udvikling, eller for historier, der kun er beregnet til privat brug.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Udgivelse er forhindret, fordi universet har indstillingen forhindre udgivelse aktiveret.',
+    'workshop.revisions.new.public.disabled': 'Kan ikke udgive, mens forhindring af udgivelse er aktiveret i historieindstillingerne.'
 };
