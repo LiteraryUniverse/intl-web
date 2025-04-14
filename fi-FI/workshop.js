@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Poistettu osoitteessa {date, date}',
     'workshop.aiGeneratedAdjusted': 'Järjestelmänvalvoja on mukauttanut tämän sisällön tekoälyn luomistilaa käyttäjäraportin perusteella, eikä sitä voi muuttaa.',
-    'workshop.theWay.authorProgress': 'Kirjoittaja Progress'
+    'workshop.theWay.authorProgress': 'Kirjoittaja Progress',
+    'workshop.universe.preventPublishing': 'Tarinoiden julkaisemisen estäminen',
+    'workshop.universe.preventPublishingTooltip': 'Kun tämä asetus on käytössä, tässä universumissa ei voi julkaista tarinoita. Tämä on hyödyllistä universumeille, jotka ovat vielä kehitteillä, tai universumeille, jotka on tarkoitettu vain yksityiskäyttöön.',
+    'workshop.story.preventPublishing': 'Estä julkaiseminen',
+    'workshop.story.preventPublishingTooltip': 'Kun se on käytössä, tätä tarinaa ei voi julkaista. Tämä on hyödyllistä tarinoille, jotka ovat vielä kehitteillä, tai tarinoille, jotka on tarkoitettu vain yksityiskäyttöön.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Julkaiseminen on estetty, koska universumin julkaisemisen estäminen -asetus on käytössä.',
+    'workshop.revisions.new.public.disabled': 'Ei voi julkaista, kun julkaisemisen estäminen on otettu käyttöön tarinan asetuksissa.'
 };
