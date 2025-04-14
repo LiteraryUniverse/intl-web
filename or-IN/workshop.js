@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Removed on {date, date}',
     'workshop.aiGeneratedAdjusted': 'The AI generation status of this content has been adjusted, as a result of a user report, by an administrator and cannot be changed.',
-    'workshop.theWay.authorProgress': 'Author Progress'
+    'workshop.theWay.authorProgress': 'Author Progress',
+    'workshop.universe.preventPublishing': 'Prevent publishing of stories',
+    'workshop.universe.preventPublishingTooltip': 'When enabled, no stories in this universe can be published. This is useful for universes that are still in development or for universes that are meant for private use only.',
+    'workshop.story.preventPublishing': 'Prevent publishing',
+    'workshop.story.preventPublishingTooltip': 'When enabled, this story cannot be published. This is useful for stories that are still in development or for stories that are meant for private use only.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Publishing is prevented because the universe has the prevent publishing setting enabled.',
+    'workshop.revisions.new.public.disabled': 'Cannot publish while prevent publishing is enabled in story settings.'
 };
