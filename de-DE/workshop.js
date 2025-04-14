@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Links auf {date, date}',
     'workshop.collaborators.removedInfo': 'Entfernt auf {date, date}',
     'workshop.aiGeneratedAdjusted': 'Der KI-Generierungsstatus dieses Inhalts wurde aufgrund eines Benutzerberichts von einem Administrator angepasst und kann nicht geändert werden.',
-    'workshop.theWay.authorProgress': 'Autor Fortschritt'
+    'workshop.theWay.authorProgress': 'Autor Fortschritt',
+    'workshop.universe.preventPublishing': 'Verhindern Sie die Veröffentlichung von Geschichten',
+    'workshop.universe.preventPublishingTooltip': 'Wenn diese Option aktiviert ist, können keine Geschichten in diesem Universum veröffentlicht werden. Dies ist nützlich für Universen, die sich noch in der Entwicklung befinden oder für Universen, die nur für den privaten Gebrauch bestimmt sind.',
+    'workshop.story.preventPublishing': 'Verhindern Sie die Veröffentlichung',
+    'workshop.story.preventPublishingTooltip': 'Wenn diese Option aktiviert ist, kann diese Story nicht veröffentlicht werden. Dies ist nützlich für Artikel, die sich noch in der Entwicklung befinden, oder für Artikel, die nur für den privaten Gebrauch bestimmt sind.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Die Veröffentlichung wird verhindert, weil im Universum die Einstellung Veröffentlichung verhindern aktiviert ist.',
+    'workshop.revisions.new.public.disabled': 'Die Veröffentlichung kann nicht erfolgen, wenn die Option Veröffentlichung verhindern in den Story-Einstellungen aktiviert ist.'
 };
