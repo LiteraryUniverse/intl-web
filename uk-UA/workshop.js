@@ -294,5 +294,11 @@ export default {
     'workshop.collaborators.leftInfo': 'Зліва на {date, date}',
     'workshop.collaborators.removedInfo': 'Видалено на {date, date}',
     'workshop.aiGeneratedAdjusted': 'Статус генерації ШІ для цього контенту був змінений адміністратором на підставі повідомлення користувача і не може бути змінений.',
-    'workshop.theWay.authorProgress': 'Авторський прогрес'
+    'workshop.theWay.authorProgress': 'Авторський прогрес',
+    'workshop.universe.preventPublishing': 'Запобігати публікації історій',
+    'workshop.universe.preventPublishingTooltip': 'Якщо увімкнено, жодна історія в цьому всесвіті не може бути опублікована. Це корисно для всесвітів, які все ще перебувають на стадії розробки, або для всесвітів, призначених лише для приватного використання.',
+    'workshop.story.preventPublishing': 'Заборонити публікацію',
+    'workshop.story.preventPublishingTooltip': 'Якщо увімкнено, цю історію не можна буде опублікувати. Це корисно для історій, які все ще перебувають на стадії розробки, або для історій, призначених лише для приватного використання.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Публікацію заборонено, оскільки у всесвіті увімкнено параметр заборони публікації.',
+    'workshop.revisions.new.public.disabled': 'Неможливо опублікувати, якщо в налаштуваннях історії увімкнено заборону на публікацію.'
 };
