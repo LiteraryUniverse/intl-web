@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'AI-genererat innehåll',
     'feedback.resolution.aiGeneration': 'Status för AI-generering',
     'feedback.resolution.aiGenerated': 'AI-genererad',
-    'feedback.resolution.notAiGenerated': 'Inte AI-genererad'
+    'feedback.resolution.notAiGenerated': 'Inte AI-genererad',
+    'feedback.center.noReports': 'Allt klart! Det finns inga rapporterade överträdelser.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Okänd',
+    'feedback.report.status.reported': 'Rapporterad',
+    'feedback.report.status.investigating': 'Undersöker',
+    'feedback.report.status.accepted': 'Accepterad',
+    'feedback.report.status.disputed': 'Omtvistad',
+    'feedback.report.status.fixed': 'Fast',
+    'feedback.report.status.invalid': 'Ogiltig',
+    'feedback.report.status.rejected': 'Avvisad',
+    'feedback.report.dateDetails': 'Skapad: {createdAt, date} | Uppdaterad: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Snabb lösning',
+    'feedback.report.actions.none': 'Ingen snabb åtgärd tillgänglig',
+    'feedback.report.actions.storySettings': 'Gå till inställningar för berättelsen',
+    'feedback.report.actions.universeSettings': 'Gå till universums inställningar',
+    'feedback.report.description': 'Tillhandahållen beskrivning',
+    'feedback.report.copyrightReport': 'Vi har mottagit ett upphovsrättsanspråk på detta verk. Vi kommer att granska anspråket och fatta beslut. Om du vill ge någon ytterligare kommentar eller sammanhang, vänligen gör det nedan.'
 };
