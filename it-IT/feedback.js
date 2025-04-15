@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Contenuti generati dall\'AI',
     'feedback.resolution.aiGeneration': 'Stato della generazione AI',
     'feedback.resolution.aiGenerated': 'Generato dall\'AI',
-    'feedback.resolution.notAiGenerated': 'Non generato dall\'AI'
+    'feedback.resolution.notAiGenerated': 'Non generato dall\'AI',
+    'feedback.center.noReports': 'Tutto libero! Non ci sono violazioni segnalate.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Sconosciuto',
+    'feedback.report.status.reported': 'Segnalato',
+    'feedback.report.status.investigating': 'Indagare',
+    'feedback.report.status.accepted': 'Accettato',
+    'feedback.report.status.disputed': 'Controverso',
+    'feedback.report.status.fixed': 'Fisso',
+    'feedback.report.status.invalid': 'Non valido',
+    'feedback.report.status.rejected': 'Rifiutato',
+    'feedback.report.dateDetails': 'Creato: {createdAt, date} | Aggiornato: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Risoluzione rapida',
+    'feedback.report.actions.none': 'Non è disponibile un\'azione rapida',
+    'feedback.report.actions.storySettings': 'Vada alle impostazioni della storia',
+    'feedback.report.actions.universeSettings': 'Vada alle impostazioni dell\'universo',
+    'feedback.report.description': 'Descrizione fornita',
+    'feedback.report.copyrightReport': 'Abbiamo ricevuto una richiesta di copyright per quest\'opera. Esamineremo la richiesta e prenderemo una decisione. Se desidera fornire ulteriori commenti o contesti, lo faccia qui sotto.'
 };
