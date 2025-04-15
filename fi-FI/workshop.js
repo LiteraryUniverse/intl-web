@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'Estä julkaiseminen',
     'workshop.story.preventPublishingTooltip': 'Kun se on käytössä, tätä tarinaa ei voi julkaista. Tämä on hyödyllistä tarinoille, jotka ovat vielä kehitteillä, tai tarinoille, jotka on tarkoitettu vain yksityiskäyttöön.',
     'workshop.story.preventPublishingTooltipUniverse': 'Julkaiseminen on estetty, koska universumin julkaisemisen estäminen -asetus on käytössä.',
-    'workshop.revisions.new.public.disabled': 'Ei voi julkaista, kun julkaisemisen estäminen on otettu käyttöön tarinan asetuksissa.'
+    'workshop.revisions.new.public.disabled': 'Ei voi julkaista, kun julkaisemisen estäminen on otettu käyttöön tarinan asetuksissa.',
+    'workshop.publishing.restricted': 'Hyvien käytöstapojen rikkomisen vuoksi olemme estäneet sinua julkaisemasta.'
 };
