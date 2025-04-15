@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': '게시 방지',
     'workshop.story.preventPublishingTooltip': '이 옵션을 활성화하면 이 스토리를 게시할 수 없습니다. 아직 개발 중인 스토리나 비공개로만 사용할 수 있는 스토리에 유용합니다.',
     'workshop.story.preventPublishingTooltipUniverse': '유니버스에서 게시 금지 설정이 활성화되어 있기 때문에 게시가 금지됩니다.',
-    'workshop.revisions.new.public.disabled': '스토리 설정에서 게시 금지가 활성화된 상태에서는 게시할 수 없습니다.'
+    'workshop.revisions.new.public.disabled': '스토리 설정에서 게시 금지가 활성화된 상태에서는 게시할 수 없습니다.',
+    'workshop.publishing.restricted': '윤리강령 위반으로 인해 귀하의 게시 기능이 비활성화되었습니다.'
 };
