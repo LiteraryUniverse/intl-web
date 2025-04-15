@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'Impedire la pubblicazione',
     'workshop.story.preventPublishingTooltip': 'Quando è abilitata, questa storia non può essere pubblicata. Questo è utile per le storie che sono ancora in fase di sviluppo o per le storie che sono destinate solo all\'uso privato.',
     'workshop.story.preventPublishingTooltipUniverse': 'La pubblicazione è impedita perché l\'universo ha l\'impostazione Impedisci pubblicazione attivata.',
-    'workshop.revisions.new.public.disabled': 'Non è possibile pubblicare quando la pubblicazione è abilitata nelle impostazioni della storia.'
+    'workshop.revisions.new.public.disabled': 'Non è possibile pubblicare quando la pubblicazione è abilitata nelle impostazioni della storia.',
+    'workshop.publishing.restricted': 'A causa di una violazione della buona condotta, abbiamo disabilitato la sua capacità di pubblicare.'
 };
