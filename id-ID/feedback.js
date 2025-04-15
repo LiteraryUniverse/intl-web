@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Konten yang dihasilkan AI',
     'feedback.resolution.aiGeneration': 'Status Generasi AI',
     'feedback.resolution.aiGenerated': 'Dihasilkan oleh AI',
-    'feedback.resolution.notAiGenerated': 'Tidak Dihasilkan oleh AI'
+    'feedback.resolution.notAiGenerated': 'Tidak Dihasilkan oleh AI',
+    'feedback.center.noReports': 'Semua aman! Tidak ada pelanggaran yang dilaporkan.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Tidak diketahui',
+    'feedback.report.status.reported': 'Dilaporkan',
+    'feedback.report.status.investigating': 'Menyelidiki',
+    'feedback.report.status.accepted': 'Diterima',
+    'feedback.report.status.disputed': 'Disengketakan',
+    'feedback.report.status.fixed': 'Tetap',
+    'feedback.report.status.invalid': 'Tidak valid',
+    'feedback.report.status.rejected': 'Ditolak',
+    'feedback.report.dateDetails': 'Created: {createdAt, date} | Diperbarui: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Resolusi cepat',
+    'feedback.report.actions.none': 'Tidak ada tindakan cepat yang tersedia',
+    'feedback.report.actions.storySettings': 'Pergi ke pengaturan cerita',
+    'feedback.report.actions.universeSettings': 'Pergi ke pengaturan alam semesta',
+    'feedback.report.description': 'Deskripsi yang diberikan',
+    'feedback.report.copyrightReport': 'Kami telah menerima klaim hak cipta atas karya ini. Kami akan meninjau klaim tersebut dan membuat keputusan. Jika Anda ingin memberikan komentar atau konteks tambahan, silakan lakukan di bawah ini.'
 };
