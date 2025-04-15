@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'AI 생성 콘텐츠',
     'feedback.resolution.aiGeneration': 'AI 생성 현황',
     'feedback.resolution.aiGenerated': 'AI 생성',
-    'feedback.resolution.notAiGenerated': 'AI가 생성하지 않음'
+    'feedback.resolution.notAiGenerated': 'AI가 생성하지 않음',
+    'feedback.center.noReports': '모두 클리어! 보고된 위반 사항이 없습니다.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': '알 수 없음',
+    'feedback.report.status.reported': '보고됨',
+    'feedback.report.status.investigating': '조사 중',
+    'feedback.report.status.accepted': '수락됨',
+    'feedback.report.status.disputed': '분쟁 중',
+    'feedback.report.status.fixed': '수정됨',
+    'feedback.report.status.invalid': '유효하지 않음',
+    'feedback.report.status.rejected': '거부됨',
+    'feedback.report.dateDetails': '생성됨: {createdAt, date} | 업데이트됨: {updatedAt, date}',
+    'feedback.report.quickResolution': '빠른 해결',
+    'feedback.report.actions.none': '빠른 조치를 사용할 수 없습니다.',
+    'feedback.report.actions.storySettings': '스토리 설정으로 이동',
+    'feedback.report.actions.universeSettings': '유니버스 설정으로 이동',
+    'feedback.report.description': '제공된 설명',
+    'feedback.report.copyrightReport': '이 저작물에 대한 저작권 청구가 접수되었습니다. 청구 내용을 검토하여 결정할 예정입니다. 추가 의견이나 정황을 제공하고자 하는 경우 아래에서 제공해 주시기 바랍니다.'
 };
