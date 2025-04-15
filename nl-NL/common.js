@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'De Weg van de Auteur',
     'common.password.hide': 'Verberg wachtwoord',
     'common.password.show': 'Wachtwoord tonen',
-    'common.forums': 'Forums'
+    'common.forums': 'Forums',
+    'common.restriction.goodConduct': 'Wegens schending van goed gedrag hebben wij uw gebruik van deze functie beperkt.'
 };
