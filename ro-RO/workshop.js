@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'Prevenirea publicării',
     'workshop.story.preventPublishingTooltip': 'Atunci când este activată, această poveste nu poate fi publicată. Acest lucru este util pentru poveștile care sunt încă în curs de dezvoltare sau pentru poveștile care sunt destinate exclusiv utilizării private.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publicarea este împiedicată deoarece universul are activată setarea de împiedicare a publicării.',
-    'workshop.revisions.new.public.disabled': 'Nu se poate publica în timp ce funcția de prevenire a publicării este activată în setările povestirii.'
+    'workshop.revisions.new.public.disabled': 'Nu se poate publica în timp ce funcția de prevenire a publicării este activată în setările povestirii.',
+    'workshop.publishing.restricted': 'Din cauza încălcării bunei conduite, v-am dezactivat capacitatea de a publica.'
 };
