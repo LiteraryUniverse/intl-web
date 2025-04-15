@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Obsah generovaný umělou inteligencí',
     'feedback.resolution.aiGeneration': 'Stav generace AI',
     'feedback.resolution.aiGenerated': 'Generované umělou inteligencí',
-    'feedback.resolution.notAiGenerated': 'Není generováno umělou inteligencí'
+    'feedback.resolution.notAiGenerated': 'Není generováno umělou inteligencí',
+    'feedback.center.noReports': 'Všechno v pořádku! Nebylo hlášeno žádné porušení předpisů.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Neznámý',
+    'feedback.report.status.reported': 'Nahlášeno',
+    'feedback.report.status.investigating': 'Vyšetřování',
+    'feedback.report.status.accepted': 'Přijato',
+    'feedback.report.status.disputed': 'Sporné',
+    'feedback.report.status.fixed': 'Fixed',
+    'feedback.report.status.invalid': 'Invalid',
+    'feedback.report.status.rejected': 'Rejected',
+    'feedback.report.dateDetails': 'Created: {createdAt, date} | Updated: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Quick resolution',
+    'feedback.report.actions.none': 'No quick action available',
+    'feedback.report.actions.storySettings': 'Go to story settings',
+    'feedback.report.actions.universeSettings': 'Go to universe settings',
+    'feedback.report.description': 'Provided description',
+    'feedback.report.copyrightReport': 'We have received copyright claim to this work. We will review the claim and make determination. If you want to provide any additional comment or context, please do so bellow.'
 };
