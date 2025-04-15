@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Контент, созданный искусственным интеллектом',
     'feedback.resolution.aiGeneration': 'Состояние поколения ИИ',
     'feedback.resolution.aiGenerated': 'Создано ИИ',
-    'feedback.resolution.notAiGenerated': 'Не созданное ИИ'
+    'feedback.resolution.notAiGenerated': 'Не созданное ИИ',
+    'feedback.center.noReports': 'Все чисто! О нарушениях не сообщается.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Неизвестный',
+    'feedback.report.status.reported': 'Сообщается на сайте',
+    'feedback.report.status.investigating': 'Расследование',
+    'feedback.report.status.accepted': 'Принято',
+    'feedback.report.status.disputed': 'Спорный',
+    'feedback.report.status.fixed': 'Исправлено',
+    'feedback.report.status.invalid': 'Неверный',
+    'feedback.report.status.rejected': 'Отклонено',
+    'feedback.report.dateDetails': 'Создано: {createdAt, date} | Обновлено: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Быстрое разрешение',
+    'feedback.report.actions.none': 'Быстрое действие недоступно',
+    'feedback.report.actions.storySettings': 'Перейдите к настройкам истории',
+    'feedback.report.actions.universeSettings': 'Перейдите к настройкам вселенной',
+    'feedback.report.description': 'Предоставленное описание',
+    'feedback.report.copyrightReport': 'Мы получили претензию об авторских правах на эту работу. Мы рассмотрим это заявление и вынесем решение. Если Вы хотите дать дополнительные комментарии или пояснения, пожалуйста, сделайте это ниже.'
 };
