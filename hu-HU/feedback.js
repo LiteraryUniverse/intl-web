@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Mesterséges intelligencia által generált tartalom',
     'feedback.resolution.aiGeneration': 'AI generáció állapota',
     'feedback.resolution.aiGenerated': 'AI generált',
-    'feedback.resolution.notAiGenerated': 'Nem AI generált'
+    'feedback.resolution.notAiGenerated': 'Nem AI generált',
+    'feedback.center.noReports': 'Minden tiszta! Nincsenek bejelentett jogsértések.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Ismeretlen',
+    'feedback.report.status.reported': 'Jelentett',
+    'feedback.report.status.investigating': 'A  oldal vizsgálata',
+    'feedback.report.status.accepted': 'Elfogadva',
+    'feedback.report.status.disputed': 'Vitatott',
+    'feedback.report.status.fixed': 'Rögzített',
+    'feedback.report.status.invalid': 'Érvénytelen',
+    'feedback.report.status.rejected': 'Visszautasított',
+    'feedback.report.dateDetails': 'Létrehozva: {createdAt, date} | Frissítve: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Gyors megoldás',
+    'feedback.report.actions.none': 'Nincs gyorsintézkedés',
+    'feedback.report.actions.storySettings': 'Menj a történet beállításaihoz',
+    'feedback.report.actions.universeSettings': 'Menj az univerzum beállításaihoz',
+    'feedback.report.description': 'Adott leírás',
+    'feedback.report.copyrightReport': 'Erre a műre szerzői jogi igényt kaptunk. Átvizsgáljuk az igényt és döntést hozunk. Ha további megjegyzéseket vagy kontextust szeretne megadni, kérjük, tegye meg az alábbiakban.'
 };
