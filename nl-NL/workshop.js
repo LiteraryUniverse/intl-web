@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'Publicatie voorkomen',
     'workshop.story.preventPublishingTooltip': 'Als deze optie is ingeschakeld, kan dit verhaal niet worden gepubliceerd. Dit is handig voor verhalen die nog in ontwikkeling zijn of voor verhalen die alleen voor privégebruik bedoeld zijn.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publiceren wordt voorkomen omdat het universum de instelling Publicatie voorkomen heeft ingeschakeld.',
-    'workshop.revisions.new.public.disabled': 'Kan niet publiceren terwijl voorkomen publiceren is ingeschakeld in verhaalinstellingen.'
+    'workshop.revisions.new.public.disabled': 'Kan niet publiceren terwijl voorkomen publiceren is ingeschakeld in verhaalinstellingen.',
+    'workshop.publishing.restricted': 'Wegens schending van goed gedrag hebben wij uw mogelijkheid tot publicatie uitgeschakeld.'
 };
