@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Treści generowane przez sztuczną inteligencję',
     'feedback.resolution.aiGeneration': 'Status generacji AI',
     'feedback.resolution.aiGenerated': 'Generowane przez sztuczną inteligencję',
-    'feedback.resolution.notAiGenerated': 'Nie generowane przez sztuczną inteligencję'
+    'feedback.resolution.notAiGenerated': 'Nie generowane przez sztuczną inteligencję',
+    'feedback.center.noReports': 'Czysto! Nie zgłoszono żadnych naruszeń.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Nieznany',
+    'feedback.report.status.reported': 'Zgłoszono',
+    'feedback.report.status.investigating': 'Dochodzenie',
+    'feedback.report.status.accepted': 'Przyjęte',
+    'feedback.report.status.disputed': 'Sporne',
+    'feedback.report.status.fixed': 'Naprawiono',
+    'feedback.report.status.invalid': 'Nieprawidłowy',
+    'feedback.report.status.rejected': 'Odrzucono',
+    'feedback.report.dateDetails': 'Utworzono: {createdAt, date} | Zaktualizowano: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Szybka rozdzielczość',
+    'feedback.report.actions.none': 'Brak możliwości szybkiego działania',
+    'feedback.report.actions.storySettings': 'Proszę przejść do ustawień fabuły',
+    'feedback.report.actions.universeSettings': 'Proszę przejść do ustawień wszechświata',
+    'feedback.report.description': 'Dostarczony opis',
+    'feedback.report.copyrightReport': 'Otrzymaliśmy roszczenie dotyczące praw autorskich do tego utworu. Przeanalizujemy to roszczenie i podejmiemy decyzję. Jeśli chcą Państwo przedstawić dodatkowy komentarz lub kontekst, prosimy zrobić to poniżej.'
 };
