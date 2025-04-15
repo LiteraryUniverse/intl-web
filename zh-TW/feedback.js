@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'AI 產生的內容',
     'feedback.resolution.aiGeneration': 'AI 世代狀態',
     'feedback.resolution.aiGenerated': 'AI 產生',
-    'feedback.resolution.notAiGenerated': '非 AI 產生'
+    'feedback.resolution.notAiGenerated': '非 AI 產生',
+    'feedback.center.noReports': 'All clear! There are no reported violations.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Unknown',
+    'feedback.report.status.reported': 'Reported',
+    'feedback.report.status.investigating': 'Investigating',
+    'feedback.report.status.accepted': 'Accepted',
+    'feedback.report.status.disputed': 'Disputed',
+    'feedback.report.status.fixed': '固定式',
+    'feedback.report.status.invalid': '無效',
+    'feedback.report.status.rejected': '拒絕',
+    'feedback.report.dateDetails': '創建： {createdAt, date} | 已更新： {updatedAt, date}',
+    'feedback.report.quickResolution': '快速解決方案',
+    'feedback.report.actions.none': '無法快速行動',
+    'feedback.report.actions.storySettings': '前往故事設定',
+    'feedback.report.actions.universeSettings': '前往宇宙設定',
+    'feedback.report.description': '提供說明',
+    'feedback.report.copyrightReport': '我們已收到此作品的版權要求。我們將審查該索賠並作出決定。如果您想提供任何其他意見或背景，請在下方提出。'
 };
