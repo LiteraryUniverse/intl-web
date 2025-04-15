@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'KI-generierte Inhalte',
     'feedback.resolution.aiGeneration': 'Status der KI-Generation',
     'feedback.resolution.aiGenerated': 'KI-generiert',
-    'feedback.resolution.notAiGenerated': 'Nicht KI-generiert'
+    'feedback.resolution.notAiGenerated': 'Nicht KI-generiert',
+    'feedback.center.noReports': 'Alles klar! Es liegen keine gemeldeten Verstöße vor.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Unbekannt',
+    'feedback.report.status.reported': 'Berichtet',
+    'feedback.report.status.investigating': 'Untersuchen Sie',
+    'feedback.report.status.accepted': 'Angenommen',
+    'feedback.report.status.disputed': 'Umstritten',
+    'feedback.report.status.fixed': 'Fixiert',
+    'feedback.report.status.invalid': 'Ungültig',
+    'feedback.report.status.rejected': 'Abgelehnt',
+    'feedback.report.dateDetails': 'Erstellt: {createdAt, date} | Aktualisiert: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Schnelle Auflösung',
+    'feedback.report.actions.none': 'Keine Sofortmaßnahmen verfügbar',
+    'feedback.report.actions.storySettings': 'Zu den Story-Einstellungen gehen',
+    'feedback.report.actions.universeSettings': 'Gehen Sie zu Universum-Einstellungen',
+    'feedback.report.description': 'Gelieferte Beschreibung',
+    'feedback.report.copyrightReport': 'Wir haben einen Urheberrechtsanspruch auf dieses Werk erhalten. Wir werden den Anspruch prüfen und eine Entscheidung treffen. Wenn Sie weitere Kommentare oder Hinweise geben möchten, tun Sie dies bitte unten.'
 };
