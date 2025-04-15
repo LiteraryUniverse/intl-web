@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'AIが生成したコンテンツ',
     'feedback.resolution.aiGeneration': 'AI世代ステータス',
     'feedback.resolution.aiGenerated': 'AIが生成',
-    'feedback.resolution.notAiGenerated': 'AIではない'
+    'feedback.resolution.notAiGenerated': 'AIではない',
+    'feedback.center.noReports': '異常なし！違反の報告はありません。',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': '不明',
+    'feedback.report.status.reported': '報告済み',
+    'feedback.report.status.investigating': '調査中',
+    'feedback.report.status.accepted': '受諾',
+    'feedback.report.status.disputed': '係争中',
+    'feedback.report.status.fixed': '固定',
+    'feedback.report.status.invalid': '無効',
+    'feedback.report.status.rejected': '不採用',
+    'feedback.report.dateDetails': 'Created: {createdAt, date} | Updated: {updatedAt, date}',
+    'feedback.report.quickResolution': '迅速な解決',
+    'feedback.report.actions.none': 'クイックアクションなし',
+    'feedback.report.actions.storySettings': 'ストーリー設定へ',
+    'feedback.report.actions.universeSettings': 'ユニバース設定へ',
+    'feedback.report.description': '説明',
+    'feedback.report.copyrightReport': '本作品に対する著作権クレームを受領しました。私たちはクレームを確認し、判断を下します。追加コメントや背景を提供したい場合は、以下にお願いします。'
 };
