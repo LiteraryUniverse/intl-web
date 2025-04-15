@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'dirbtinio intelekto sukurtas turinys',
     'feedback.resolution.aiGeneration': 'AI generavimo būsena',
     'feedback.resolution.aiGenerated': 'Sukurtas dirbtinis intelektas',
-    'feedback.resolution.notAiGenerated': 'Ne dirbtinio intelekto sukurtas'
+    'feedback.resolution.notAiGenerated': 'Ne dirbtinio intelekto sukurtas',
+    'feedback.center.noReports': 'Viskas aišku! Pranešimų apie pažeidimus negauta.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Nežinomas',
+    'feedback.report.status.reported': 'Pranešta',
+    'feedback.report.status.investigating': 'Tyrimas',
+    'feedback.report.status.accepted': 'Priimtas',
+    'feedback.report.status.disputed': 'Ginčijamas',
+    'feedback.report.status.fixed': 'Nustatyta',
+    'feedback.report.status.invalid': 'Negaliojantis',
+    'feedback.report.status.rejected': 'Atmesta',
+    'feedback.report.dateDetails': 'Sukurta: {createdAt, date} | Atnaujinta: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Greita rezoliucija',
+    'feedback.report.actions.none': 'Nėra galimybės imtis greitų veiksmų',
+    'feedback.report.actions.storySettings': 'Eikite į istorijos nustatymus',
+    'feedback.report.actions.universeSettings': 'Eikite į visatos nustatymus',
+    'feedback.report.description': 'Pateiktas aprašymas',
+    'feedback.report.copyrightReport': 'Gavome pretenziją dėl šio darbo autorių teisių. Peržiūrėsime pretenziją ir priimsime sprendimą. Jei norite pateikti papildomų komentarų ar kontekstą, prašome tai padaryti žemiau.'
 };
