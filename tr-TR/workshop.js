@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'Yayınlamayı önleyin',
     'workshop.story.preventPublishingTooltip': 'Etkinleştirildiğinde, bu hikaye yayınlanamaz. Bu, hala geliştirme aşamasında olan veya yalnızca özel kullanım amaçlı hikayeler için kullanışlıdır.',
     'workshop.story.preventPublishingTooltipUniverse': 'Evrende yayınlamayı engelle ayarı etkinleştirilmiş olduğundan yayınlama engellenir.',
-    'workshop.revisions.new.public.disabled': 'Öykü ayarlarında yayınlamayı engelle etkinleştirildiğinde yayınlanamıyor.'
+    'workshop.revisions.new.public.disabled': 'Öykü ayarlarında yayınlamayı engelle etkinleştirildiğinde yayınlanamıyor.',
+    'workshop.publishing.restricted': 'İyi hal ihlali nedeniyle yayınlama yeteneğinizi devre dışı bıraktık.'
 };
