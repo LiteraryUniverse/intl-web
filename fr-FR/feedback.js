@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Contenu généré par l\'IA',
     'feedback.resolution.aiGeneration': 'Statut de la génération d\'IA',
     'feedback.resolution.aiGenerated': 'Généré par l\'IA',
-    'feedback.resolution.notAiGenerated': 'Non généré par l\'IA'
+    'feedback.resolution.notAiGenerated': 'Non généré par l\'IA',
+    'feedback.center.noReports': 'Rien à signaler ! Aucune infraction n\'a été signalée.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Inconnu',
+    'feedback.report.status.reported': 'Signalé',
+    'feedback.report.status.investigating': 'Enquête',
+    'feedback.report.status.accepted': 'Accepté',
+    'feedback.report.status.disputed': 'Contesté',
+    'feedback.report.status.fixed': 'Fixed',
+    'feedback.report.status.invalid': 'Invalid',
+    'feedback.report.status.rejected': 'Rejected',
+    'feedback.report.dateDetails': 'Created: {createdAt, date} | Updated: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Quick resolution',
+    'feedback.report.actions.none': 'No quick action available',
+    'feedback.report.actions.storySettings': 'Go to story settings',
+    'feedback.report.actions.universeSettings': 'Go to universe settings',
+    'feedback.report.description': 'Provided description',
+    'feedback.report.copyrightReport': 'We have received copyright claim to this work. We will review the claim and make determination. If you want to provide any additional comment or context, please do so bellow.'
 };
