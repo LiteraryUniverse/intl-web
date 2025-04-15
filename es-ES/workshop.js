@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'Evitar la publicación',
     'workshop.story.preventPublishingTooltip': 'Cuando está activada, esta historia no puede publicarse. Esto es útil para historias que aún están en desarrollo o para historias que están destinadas únicamente a uso privado.',
     'workshop.story.preventPublishingTooltipUniverse': 'Se impide la publicación porque el universo tiene activado el ajuste de impedir publicación.',
-    'workshop.revisions.new.public.disabled': 'No se puede publicar cuando la opción de impedir la publicación está activada en los ajustes de la historia.'
+    'workshop.revisions.new.public.disabled': 'No se puede publicar cuando la opción de impedir la publicación está activada en los ajustes de la historia.',
+    'workshop.publishing.restricted': 'Debido a una violación de buena conducta hemos desactivado su capacidad de publicar.'
 };
