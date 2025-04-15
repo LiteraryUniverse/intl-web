@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'منع النشر',
     'workshop.story.preventPublishingTooltip': 'عند التمكين، لا يمكن نشر هذه القصة. هذا مفيد للقصص التي لا تزال قيد التطوير أو للقصص المخصصة للاستخدام الخاص فقط.',
     'workshop.story.preventPublishingTooltipUniverse': 'تم منع النشر بسبب تمكين إعداد منع النشر في الكون.',
-    'workshop.revisions.new.public.disabled': 'لا يمكن النشر أثناء تمكين منع النشر في إعدادات القصة.'
+    'workshop.revisions.new.public.disabled': 'لا يمكن النشر أثناء تمكين منع النشر في إعدادات القصة.',
+    'workshop.publishing.restricted': 'بسبب مخالفة حسن السيرة والسلوك قمنا بتعطيل قدرتك على النشر.'
 };
