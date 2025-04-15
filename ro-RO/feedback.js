@@ -76,14 +76,14 @@ export default {
     'feedback.report.status.investigating': 'Investigarea',
     'feedback.report.status.accepted': 'Acceptat',
     'feedback.report.status.disputed': 'Disputat',
-    'feedback.report.status.fixed': 'Fixed',
+    'feedback.report.status.fixed': 'Fix',
     'feedback.report.status.invalid': 'Invalid',
-    'feedback.report.status.rejected': 'Rejected',
-    'feedback.report.dateDetails': 'Created: {createdAt, date} | Updated: {updatedAt, date}',
-    'feedback.report.quickResolution': 'Quick resolution',
-    'feedback.report.actions.none': 'No quick action available',
-    'feedback.report.actions.storySettings': 'Go to story settings',
-    'feedback.report.actions.universeSettings': 'Go to universe settings',
-    'feedback.report.description': 'Provided description',
-    'feedback.report.copyrightReport': 'We have received copyright claim to this work. We will review the claim and make determination. If you want to provide any additional comment or context, please do so bellow.'
+    'feedback.report.status.rejected': 'Respins',
+    'feedback.report.dateDetails': 'Creat: {createdAt, date} | Actualizat: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Rezoluție rapidă',
+    'feedback.report.actions.none': 'Nu sunt disponibile acțiuni rapide',
+    'feedback.report.actions.storySettings': 'Mergeți la setările poveștii',
+    'feedback.report.actions.universeSettings': 'Mergeți la setările universului',
+    'feedback.report.description': 'Descriere furnizată',
+    'feedback.report.copyrightReport': 'Am primit o cerere de revendicare a drepturilor de autor pentru această lucrare. Vom analiza cererea și vom lua o decizie. Dacă doriți să furnizați orice comentariu sau context suplimentar, vă rugăm să o faceți mai jos.'
 };
