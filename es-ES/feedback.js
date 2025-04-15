@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Contenidos generados por IA',
     'feedback.resolution.aiGeneration': 'Estado de la generación de IA',
     'feedback.resolution.aiGenerated': 'Generado por IA',
-    'feedback.resolution.notAiGenerated': 'No generado por IA'
+    'feedback.resolution.notAiGenerated': 'No generado por IA',
+    'feedback.center.noReports': '¡Todo despejado! No se ha informado de ninguna infracción.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Desconocido',
+    'feedback.report.status.reported': 'Informado',
+    'feedback.report.status.investigating': 'Investigando',
+    'feedback.report.status.accepted': 'Aceptado',
+    'feedback.report.status.disputed': 'Disputado',
+    'feedback.report.status.fixed': 'Fixed',
+    'feedback.report.status.invalid': 'Invalid',
+    'feedback.report.status.rejected': 'Rejected',
+    'feedback.report.dateDetails': 'Created: {createdAt, date} | Updated: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Quick resolution',
+    'feedback.report.actions.none': 'No quick action available',
+    'feedback.report.actions.storySettings': 'Go to story settings',
+    'feedback.report.actions.universeSettings': 'Go to universe settings',
+    'feedback.report.description': 'Provided description',
+    'feedback.report.copyrightReport': 'We have received copyright claim to this work. We will review the claim and make determination. If you want to provide any additional comment or context, please do so bellow.'
 };
