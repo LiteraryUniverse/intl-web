@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'La via dell\'autore',
     'common.password.hide': 'Nascondere la password',
     'common.password.show': 'Mostra la password',
-    'common.forums': 'Forum'
+    'common.forums': 'Forum',
+    'common.restriction.goodConduct': 'A causa di una violazione della buona condotta, abbiamo limitato l\'uso di questa funzione.'
 };
