@@ -300,5 +300,6 @@ export default {
     'workshop.story.preventPublishing': 'Užkirsti kelią leidybai',
     'workshop.story.preventPublishingTooltip': 'Kai ši funkcija įjungta, šios istorijos negalima skelbti. Tai naudinga istorijoms, kurios vis dar kuriamos, arba istorijoms, kurios skirtos tik asmeniniam naudojimui.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publikuoti neleidžiama, nes visatoje įjungtas nustatymas neleisti publikuoti.',
-    'workshop.revisions.new.public.disabled': 'Negalima publikuoti, kai istorijos nustatymuose įjungta funkcija neleisti publikuoti.'
+    'workshop.revisions.new.public.disabled': 'Negalima publikuoti, kai istorijos nustatymuose įjungta funkcija neleisti publikuoti.',
+    'workshop.publishing.restricted': 'Dėl geros elgsenos pažeidimo atjungėme jūsų galimybę publikuoti.'
 };
