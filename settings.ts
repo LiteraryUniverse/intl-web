@@ -788,7 +788,7 @@ export const settings = {
     'SY',
     'TN',
     // Other
-    'UK',
+    'GB',
     'RU',
   ],
   /**
