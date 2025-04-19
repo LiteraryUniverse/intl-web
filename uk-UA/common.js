@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'Шлях автора',
     'common.password.hide': 'Приховати пароль',
     'common.password.show': 'Показати пароль',
-    'common.forums': 'Форуми'
+    'common.forums': 'Форуми',
+    'common.restriction.goodConduct': 'Через порушення правил поведінки ми обмежили використання цієї функції.'
 };

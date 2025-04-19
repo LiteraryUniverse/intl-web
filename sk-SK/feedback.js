@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Obsah generovaný umelou inteligenciou',
     'feedback.resolution.aiGeneration': 'Stav generácie AI',
     'feedback.resolution.aiGenerated': 'Generované umelou inteligenciou',
-    'feedback.resolution.notAiGenerated': 'Nie je generovaná umelou inteligenciou'
+    'feedback.resolution.notAiGenerated': 'Nie je generovaná umelou inteligenciou',
+    'feedback.center.noReports': 'Všetko čisté! Nie sú hlásené žiadne porušenia.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Neznáme',
+    'feedback.report.status.reported': 'Nahlásené',
+    'feedback.report.status.investigating': 'Prešetrovanie',
+    'feedback.report.status.accepted': 'Prijaté',
+    'feedback.report.status.disputed': 'Sporné',
+    'feedback.report.status.fixed': 'Opravené',
+    'feedback.report.status.invalid': 'Neplatné',
+    'feedback.report.status.rejected': 'Odmietnuté',
+    'feedback.report.dateDetails': 'Vytvorené: {createdAt, date} | Aktualizované: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Rýchle riešenie',
+    'feedback.report.actions.none': 'Nie je k dispozícii žiadna rýchla akcia',
+    'feedback.report.actions.storySettings': 'Prejsť na nastavenia príbehu',
+    'feedback.report.actions.universeSettings': 'Prejsť na nastavenia vesmíru',
+    'feedback.report.description': 'Poskytnutý opis',
+    'feedback.report.copyrightReport': 'Na toto dielo sme získali autorské práva. Nárok preskúmame a rozhodneme o ňom. Ak chcete poskytnúť akékoľvek ďalšie pripomienky alebo súvislosti, urobte tak, prosím, nižšie.'
 };

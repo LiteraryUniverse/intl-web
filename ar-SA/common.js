@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'طريق المؤلف',
     'common.password.hide': 'إخفاء كلمة المرور',
     'common.password.show': 'إظهار كلمة المرور',
-    'common.forums': 'المنتديات'
+    'common.forums': 'المنتديات',
+    'common.restriction.goodConduct': 'بسبب مخالفة حسن السيرة والسلوك، قمنا بتقييد استخدامك لهذه الميزة.'
 };

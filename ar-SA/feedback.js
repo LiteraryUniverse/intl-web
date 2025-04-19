@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'AI-generated content',
     'feedback.resolution.aiGeneration': 'AI Generation Status',
     'feedback.resolution.aiGenerated': 'AI Generated',
-    'feedback.resolution.notAiGenerated': 'Not AI Generated'
+    'feedback.resolution.notAiGenerated': 'Not AI Generated',
+    'feedback.center.noReports': 'كل شيء آمن! لم يتم الإبلاغ عن أي انتهاكات.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'غير معروف',
+    'feedback.report.status.reported': 'تم الإبلاغ',
+    'feedback.report.status.investigating': 'التحقيق',
+    'feedback.report.status.accepted': 'مقبولة',
+    'feedback.report.status.disputed': 'متنازع عليه',
+    'feedback.report.status.fixed': 'ثابت',
+    'feedback.report.status.invalid': 'غير صالح',
+    'feedback.report.status.rejected': 'مرفوض',
+    'feedback.report.dateDetails': 'تم الإنشاء: {createdAt, date} | محدثة: {updatedAt, date}',
+    'feedback.report.quickResolution': 'حل سريع',
+    'feedback.report.actions.none': 'لا يوجد إجراء سريع متاح',
+    'feedback.report.actions.storySettings': 'الانتقال إلى إعدادات القصة',
+    'feedback.report.actions.universeSettings': 'الانتقال إلى إعدادات الكون',
+    'feedback.report.description': 'الوصف المقدم',
+    'feedback.report.copyrightReport': 'لقد تلقينا مطالبة بحقوق الطبع والنشر لهذا العمل. سنقوم بمراجعة المطالبة واتخاذ قرار بشأنها. إذا كنت ترغب في تقديم أي تعليق أو سياق إضافي، يرجى القيام بذلك أدناه.'
 };

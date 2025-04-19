@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Contenu généré par l\'IA',
     'feedback.resolution.aiGeneration': 'Statut de la génération d\'IA',
     'feedback.resolution.aiGenerated': 'Généré par l\'IA',
-    'feedback.resolution.notAiGenerated': 'Non généré par l\'IA'
+    'feedback.resolution.notAiGenerated': 'Non généré par l\'IA',
+    'feedback.center.noReports': 'Rien à signaler ! Aucune infraction n\'a été signalée.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Inconnu',
+    'feedback.report.status.reported': 'Signalé',
+    'feedback.report.status.investigating': 'Enquête',
+    'feedback.report.status.accepted': 'Accepté',
+    'feedback.report.status.disputed': 'Contesté',
+    'feedback.report.status.fixed': 'Fixe',
+    'feedback.report.status.invalid': 'Invalide',
+    'feedback.report.status.rejected': 'Rejeté',
+    'feedback.report.dateDetails': 'Créé : {createdAt, date} | Mis à jour : {updatedAt, date}',
+    'feedback.report.quickResolution': 'Résolution rapide',
+    'feedback.report.actions.none': 'Aucune action rapide n\'est disponible',
+    'feedback.report.actions.storySettings': 'Aller aux paramètres de l\'histoire',
+    'feedback.report.actions.universeSettings': 'Accédez aux paramètres de l\'univers',
+    'feedback.report.description': 'Description fournie',
+    'feedback.report.copyrightReport': 'Nous avons reçu une demande de droits d\'auteur pour cette œuvre. Nous allons examiner la demande et prendre une décision. Si vous souhaitez apporter un commentaire ou un contexte supplémentaire, veuillez le faire ci-dessous.'
 };

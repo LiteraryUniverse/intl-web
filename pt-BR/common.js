@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'O caminho do autor',
     'common.password.hide': 'Ocultar senha',
     'common.password.show': 'Mostrar senha',
-    'common.forums': 'Fóruns'
+    'common.forums': 'Fóruns',
+    'common.restriction.goodConduct': 'Devido a uma violação de boa conduta, restringimos o uso desse recurso pelo senhor.'
 };

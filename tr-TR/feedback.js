@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Yapay zeka tarafından oluşturulan içerik',
     'feedback.resolution.aiGeneration': 'Yapay Zeka Üretimi Durumu',
     'feedback.resolution.aiGenerated': 'Yapay Zeka Üretildi',
-    'feedback.resolution.notAiGenerated': 'Yapay Zeka Üretilmedi'
+    'feedback.resolution.notAiGenerated': 'Yapay Zeka Üretilmedi',
+    'feedback.center.noReports': 'Her şey temiz! Bildirilen herhangi bir ihlal bulunmamaktadır.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Bilinmiyor',
+    'feedback.report.status.reported': 'Raporlandı',
+    'feedback.report.status.investigating': 'Araştırma',
+    'feedback.report.status.accepted': 'Kabul Edildi',
+    'feedback.report.status.disputed': 'İhtilaflı',
+    'feedback.report.status.fixed': 'Sabit',
+    'feedback.report.status.invalid': 'Geçersiz',
+    'feedback.report.status.rejected': 'Reddedildi',
+    'feedback.report.dateDetails': 'Oluşturuldu: {createdAt, date} | Güncellendi: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Hızlı çözüm',
+    'feedback.report.actions.none': 'Hızlı eylem mevcut değil',
+    'feedback.report.actions.storySettings': 'Hikaye ayarlarına git',
+    'feedback.report.actions.universeSettings': 'Evren ayarlarına gidin',
+    'feedback.report.description': 'Sağlanan açıklama',
+    'feedback.report.copyrightReport': 'Bu çalışma için telif hakkı talebi aldık. Talebi inceleyeceğiz ve karar vereceğiz. Herhangi bir ek yorum veya bağlam sağlamak istiyorsanız, lütfen bunu aşağıda yapın.'
 };

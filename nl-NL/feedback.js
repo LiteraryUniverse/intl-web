@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'AI-gegenereerde inhoud',
     'feedback.resolution.aiGeneration': 'Status AI-generatie',
     'feedback.resolution.aiGenerated': 'AI-gegenereerd',
-    'feedback.resolution.notAiGenerated': 'Niet door AI gegenereerd'
+    'feedback.resolution.notAiGenerated': 'Niet door AI gegenereerd',
+    'feedback.center.noReports': 'Alles veilig! Er zijn geen overtredingen gemeld.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Onbekend',
+    'feedback.report.status.reported': 'Gerapporteerd',
+    'feedback.report.status.investigating': 'Onderzoek naar',
+    'feedback.report.status.accepted': 'Geaccepteerd',
+    'feedback.report.status.disputed': 'Betwist',
+    'feedback.report.status.fixed': 'Vast',
+    'feedback.report.status.invalid': 'Ongeldig',
+    'feedback.report.status.rejected': 'Afgewezen',
+    'feedback.report.dateDetails': 'Gemaakt: {createdAt, date} Bijgewerkt: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Snelle oplossing',
+    'feedback.report.actions.none': 'Geen snelle actie beschikbaar',
+    'feedback.report.actions.storySettings': 'Ga naar verhaalinstellingen',
+    'feedback.report.actions.universeSettings': 'Ga naar universuminstellingen',
+    'feedback.report.description': 'Geleverde beschrijving',
+    'feedback.report.copyrightReport': 'We hebben een auteursrechtclaim op dit werk ontvangen. Wij zullen de claim bekijken en een beslissing nemen. Als u aanvullend commentaar of context wilt geven, kunt u dat hieronder doen.'
 };

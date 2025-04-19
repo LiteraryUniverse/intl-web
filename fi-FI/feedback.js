@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Tekoälyn luoma sisältö',
     'feedback.resolution.aiGeneration': 'Tekoälyn sukupolven tila',
     'feedback.resolution.aiGenerated': 'AI Generated',
-    'feedback.resolution.notAiGenerated': 'Ei tekoälyn tuottama'
+    'feedback.resolution.notAiGenerated': 'Ei tekoälyn tuottama',
+    'feedback.center.noReports': 'Kaikki selvää! Rikkomuksia ei ole raportoitu.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Tuntematon',
+    'feedback.report.status.reported': 'Ilmoitettu',
+    'feedback.report.status.investigating': 'Tutkimus',
+    'feedback.report.status.accepted': 'Hyväksytty',
+    'feedback.report.status.disputed': 'Kiistanalainen',
+    'feedback.report.status.fixed': 'Korjattu',
+    'feedback.report.status.invalid': 'Virheellinen',
+    'feedback.report.status.rejected': 'Hylätyt',
+    'feedback.report.dateDetails': 'Luotu: {createdAt, date} | Päivitetty: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Nopea ratkaisu',
+    'feedback.report.actions.none': 'Pikatoimia ei ole saatavilla',
+    'feedback.report.actions.storySettings': 'Siirry tarinan asetuksiin',
+    'feedback.report.actions.universeSettings': 'Siirry universumin asetuksiin',
+    'feedback.report.description': 'Annettu kuvaus',
+    'feedback.report.copyrightReport': 'Olemme saaneet tekijänoikeudet tähän teokseen. Tarkistamme vaatimuksen ja teemme päätöksen. Jos haluatte antaa lisäkommentteja tai -yhteyksiä, voitte tehdä sen alla.'
 };

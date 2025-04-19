@@ -1,7 +1,7 @@
 export default {
     'feedback.home': 'Справочный центр',
     'feedback.bugs': 'Проблемы',
-    'feedback.bugs.desc': 'Вы столкнулись с ошибкой или чем-то еще, что не так или не на своем месте? Сообщите нам об этом здесь!',
+    'feedback.bugs.desc': 'Вы столкнулись с ошибкой или чем-то ещё, что не так или не на своём месте? Сообщите нам об этом здесь!',
     'feedback.features': 'Идеи и предложения',
     'feedback.features.desc': 'Есть идеи о новых возможностях или о том, как сделать сайт лучше? Дайте нам знать!',
     'feedback.help': 'Помощь и руководства',
@@ -44,7 +44,7 @@ export default {
     'feedback.report.reportSaved': 'Спасибо за сообщение! Мы проведём расследование и при необходимости примем меры.',
     'feedback.report.copyrightReportSaved': 'Спасибо за сообщение! Мы проведём расследование и свяжемся с вами.',
     'feedback.report.copyrightOwnershipDesc': 'Заявление о праве собственности',
-    'feedback.report.copyrightNotice': 'Пожалуйста, обратите внимание, что для использования этой формы Вы должны быть законным владельцем произведения. Если Вы не являетесь владельцем, пожалуйста, сообщите об этом владельцу или воспользуйтесь другой категорией, чтобы сообщить нам. Мы очень серьезно относимся к нарушению авторских прав, и то же самое касается неправильного и неправомерного использования этой формы.',
+    'feedback.report.copyrightNotice': 'Пожалуйста, обратите внимание, что для использования этой формы вы должны быть законным владельцем произведения. Если вы не являетесь владельцем, пожалуйста, сообщите об этом владельцу или воспользуйтесь другой категорией, чтобы сообщить нам. Мы очень серьёзно относимся к нарушению авторских прав, и то же самое касается неправильного и неправомерного использования этой формы.',
     'feedback.report.copyrightInternalProperty': 'Я опубликовал(-а) это произведение на сайте Literary Universe',
     'feedback.reportType.spam': 'Спам или фишинг',
     'feedback.reportType.soliciting': 'Привлечение',
@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Контент, созданный искусственным интеллектом',
     'feedback.resolution.aiGeneration': 'Состояние поколения ИИ',
     'feedback.resolution.aiGenerated': 'Создано ИИ',
-    'feedback.resolution.notAiGenerated': 'Не созданное ИИ'
+    'feedback.resolution.notAiGenerated': 'Не созданное ИИ',
+    'feedback.center.noReports': 'Все чисто! О нарушениях не сообщается.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Неизвестный',
+    'feedback.report.status.reported': 'Сообщается на сайте',
+    'feedback.report.status.investigating': 'Расследование',
+    'feedback.report.status.accepted': 'Принято',
+    'feedback.report.status.disputed': 'Спорный',
+    'feedback.report.status.fixed': 'Исправлено',
+    'feedback.report.status.invalid': 'Неверный',
+    'feedback.report.status.rejected': 'Отклонено',
+    'feedback.report.dateDetails': 'Создано: {createdAt, date} | Обновлено: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Быстрое разрешение',
+    'feedback.report.actions.none': 'Быстрое действие недоступно',
+    'feedback.report.actions.storySettings': 'Перейдите к настройкам истории',
+    'feedback.report.actions.universeSettings': 'Перейдите к настройкам вселенной',
+    'feedback.report.description': 'Предоставленное описание',
+    'feedback.report.copyrightReport': 'Мы получили претензию об авторских правах на эту работу. Мы рассмотрим это заявление и вынесем решение. Если Вы хотите дать дополнительные комментарии или пояснения, пожалуйста, сделайте это ниже.'
 };

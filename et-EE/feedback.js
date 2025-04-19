@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Tehisintellekti loodud sisu',
     'feedback.resolution.aiGeneration': 'AI põlvkonna staatus',
     'feedback.resolution.aiGenerated': 'AI loodud',
-    'feedback.resolution.notAiGenerated': 'Ei ole AI loodud'
+    'feedback.resolution.notAiGenerated': 'Ei ole AI loodud',
+    'feedback.center.noReports': 'Kõik selge! Rikkumistest ei ole teatatud.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Teadmata',
+    'feedback.report.status.reported': 'Teatatud',
+    'feedback.report.status.investigating': 'Uurimine',
+    'feedback.report.status.accepted': 'Aktsepteeritud',
+    'feedback.report.status.disputed': 'Vaidlustatud',
+    'feedback.report.status.fixed': 'Fikseeritud',
+    'feedback.report.status.invalid': 'Invaliidne',
+    'feedback.report.status.rejected': 'Tagasilükatud',
+    'feedback.report.dateDetails': 'Loodud: {createdAt, date} | Uuendatud: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Kiire lahendus',
+    'feedback.report.actions.none': 'Kiiret tegutsemist ei ole võimalik',
+    'feedback.report.actions.storySettings': 'Mine loo seadete juurde',
+    'feedback.report.actions.universeSettings': 'Mine universumi seadistustesse',
+    'feedback.report.description': 'Esitatud kirjeldus',
+    'feedback.report.copyrightReport': 'Me oleme saanud selle teose autoriõiguse nõude. Me vaatame nõude läbi ja teeme otsuse. Kui soovite esitada täiendavaid kommentaare või konteksti, palun tehke seda allpool.'
 };

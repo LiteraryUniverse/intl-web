@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'AI-genereret indhold',
     'feedback.resolution.aiGeneration': 'Status for AI-generering',
     'feedback.resolution.aiGenerated': 'AI-genereret',
-    'feedback.resolution.notAiGenerated': 'Ikke AI-genereret'
+    'feedback.resolution.notAiGenerated': 'Ikke AI-genereret',
+    'feedback.center.noReports': 'Alt er klart! Der er ingen rapporterede overtrædelser.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Ukendt',
+    'feedback.report.status.reported': 'Rapporteret',
+    'feedback.report.status.investigating': 'Undersøger',
+    'feedback.report.status.accepted': 'Accepteret',
+    'feedback.report.status.disputed': 'Omstridt',
+    'feedback.report.status.fixed': 'Fast',
+    'feedback.report.status.invalid': 'Ugyldig',
+    'feedback.report.status.rejected': 'Afvist',
+    'feedback.report.dateDetails': 'Oprettet: {createdAt, date} | Opdateret: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Hurtig løsning',
+    'feedback.report.actions.none': 'Ingen hurtig handling tilgængelig',
+    'feedback.report.actions.storySettings': 'Gå til historieindstillinger',
+    'feedback.report.actions.universeSettings': 'Gå til universets indstillinger',
+    'feedback.report.description': 'Leveret beskrivelse',
+    'feedback.report.copyrightReport': 'Vi har modtaget krav om ophavsret til dette værk. Vi vil gennemgå kravet og træffe en afgørelse. Hvis du ønsker at give yderligere kommentarer eller kontekst, kan du gøre det nedenfor.'
 };

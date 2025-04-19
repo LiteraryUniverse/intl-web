@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'The Way of the Author',
     'common.password.hide': 'Hide Password',
     'common.password.show': 'Show Password',
-    'common.forums': 'Forums'
+    'common.forums': 'Forums',
+    'common.restriction.goodConduct': 'Due to good conduct violation we have restricted your use of this feature.'
 };

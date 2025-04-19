@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': '作者之道',
     'common.password.hide': '隱藏密碼',
     'common.password.show': '顯示密碼',
-    'common.forums': '論壇'
+    'common.forums': '論壇',
+    'common.restriction.goodConduct': '由於違反良好行為，我們限制您使用此功能。'
 };

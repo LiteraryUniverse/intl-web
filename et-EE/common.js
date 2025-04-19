@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'Autori tee',
     'common.password.hide': 'Peida salasõna',
     'common.password.show': 'Näita salasõna',
-    'common.forums': 'Foorumid'
+    'common.forums': 'Foorumid',
+    'common.restriction.goodConduct': 'Hea käitumise rikkumise tõttu oleme piiranud selle funktsiooni kasutamist.'
 };

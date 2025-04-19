@@ -2,23 +2,23 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': 'Обязательное поле',
     'form.validator.mustBeNumber': 'Должно быть числом',
-    'form.validator.minNumber': 'Должно быть больше, чем {min, number}.',
-    'form.validator.maxNumber': 'Должно быть меньше, чем {max, number}.',
+    'form.validator.minNumber': 'Должно быть больше {min, number}',
+    'form.validator.maxNumber': 'Должно быть меньше {max, number}',
     'form.validator.maxLength': `Должно быть меньше {max, number} {what, select,
     characters {символов}
-    tags {тегов}
+    tags {меток}
     genres {жанров}
     numbers {чисел}
     other {}
-  }.`,
+  }`,
     'form.validator.minLength': `Должно быть не менее {min, number} {what, select,
     characters {символов}
-    tags {тегов}
+    tags {меток}
     genres {жанров}
     genre {жанра}
     numbers {чисел}
     other {}
-  }.`,
+  }`,
     'form.validator.email': 'Должен быть действующий адрес эл. почты',
     'form.validator.url': 'Должна быть действующая ссылка',
     'form.validator.slug': 'Должна быть действующая часть ссылки',

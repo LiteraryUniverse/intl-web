@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'Forfatterens vej',
     'common.password.hide': 'Skjul adgangskode',
     'common.password.show': 'Vis adgangskode',
-    'common.forums': 'Fora'
+    'common.forums': 'Fora',
+    'common.restriction.goodConduct': 'På grund af brud på god opførsel har vi begrænset din brug af denne funktion.'
 };

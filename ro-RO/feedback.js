@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Conținut generat de AI',
     'feedback.resolution.aiGeneration': 'Starea generației AI',
     'feedback.resolution.aiGenerated': 'Generat de AI',
-    'feedback.resolution.notAiGenerated': 'Nu generate de AI'
+    'feedback.resolution.notAiGenerated': 'Nu generate de AI',
+    'feedback.center.noReports': 'Totul este în regulă! Nu sunt raportate încălcări.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Necunoscut',
+    'feedback.report.status.reported': 'Raportat',
+    'feedback.report.status.investigating': 'Investigarea',
+    'feedback.report.status.accepted': 'Acceptat',
+    'feedback.report.status.disputed': 'Disputat',
+    'feedback.report.status.fixed': 'Fix',
+    'feedback.report.status.invalid': 'Invalid',
+    'feedback.report.status.rejected': 'Respins',
+    'feedback.report.dateDetails': 'Creat: {createdAt, date} | Actualizat: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Rezoluție rapidă',
+    'feedback.report.actions.none': 'Nu sunt disponibile acțiuni rapide',
+    'feedback.report.actions.storySettings': 'Mergeți la setările poveștii',
+    'feedback.report.actions.universeSettings': 'Mergeți la setările universului',
+    'feedback.report.description': 'Descriere furnizată',
+    'feedback.report.copyrightReport': 'Am primit o cerere de revendicare a drepturilor de autor pentru această lucrare. Vom analiza cererea și vom lua o decizie. Dacă doriți să furnizați orice comentariu sau context suplimentar, vă rugăm să o faceți mai jos.'
 };

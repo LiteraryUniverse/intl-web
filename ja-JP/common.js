@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': '作家の道',
     'common.password.hide': 'パスワードを隠す',
     'common.password.show': 'パスワードの表示',
-    'common.forums': 'フォーラム'
+    'common.forums': 'フォーラム',
+    'common.restriction.goodConduct': '善行違反のため、この機能の使用を制限させていただきました。'
 };

@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Contenidos generados por IA',
     'feedback.resolution.aiGeneration': 'Estado de la generación de IA',
     'feedback.resolution.aiGenerated': 'Generado por IA',
-    'feedback.resolution.notAiGenerated': 'No generado por IA'
+    'feedback.resolution.notAiGenerated': 'No generado por IA',
+    'feedback.center.noReports': '¡Todo despejado! No se ha informado de ninguna infracción.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Desconocido',
+    'feedback.report.status.reported': 'Informado',
+    'feedback.report.status.investigating': 'Investigando',
+    'feedback.report.status.accepted': 'Aceptado',
+    'feedback.report.status.disputed': 'Disputado',
+    'feedback.report.status.fixed': 'Fijo',
+    'feedback.report.status.invalid': 'No válido',
+    'feedback.report.status.rejected': 'Rechazado',
+    'feedback.report.dateDetails': 'Creado: {createdAt, date} | Actualizado: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Resolución rápida',
+    'feedback.report.actions.none': 'No hay acción rápida disponible',
+    'feedback.report.actions.storySettings': 'Ir a la configuración de la historia',
+    'feedback.report.actions.universeSettings': 'Ir a la configuración del universo',
+    'feedback.report.description': 'Descripción facilitada',
+    'feedback.report.copyrightReport': 'Hemos recibido una reclamación de derechos de autor sobre esta obra. Revisaremos la reclamación y tomaremos una determinación. Si desea aportar algún comentario o contexto adicional, hágalo a continuación.'
 };

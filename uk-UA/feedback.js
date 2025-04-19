@@ -68,5 +68,22 @@ export default {
     'feedback.reportType.aiGenerated': 'Контент, створений штучним інтелектом',
     'feedback.resolution.aiGeneration': 'Статус покоління ШІ',
     'feedback.resolution.aiGenerated': 'Створено штучним інтелектом',
-    'feedback.resolution.notAiGenerated': 'Не згенеровано штучним інтелектом'
+    'feedback.resolution.notAiGenerated': 'Не згенеровано штучним інтелектом',
+    'feedback.center.noReports': 'Все чисто! Порушень не зафіксовано.',
+    // Added for Resolution Center lists
+    'feedback.reportType.unknown': 'Невідомо',
+    'feedback.report.status.reported': 'Повідомляється',
+    'feedback.report.status.investigating': 'Розслідування',
+    'feedback.report.status.accepted': 'Прийнято',
+    'feedback.report.status.disputed': 'Спірний',
+    'feedback.report.status.fixed': 'Виправлено',
+    'feedback.report.status.invalid': 'Недійсний',
+    'feedback.report.status.rejected': 'Відхилено',
+    'feedback.report.dateDetails': 'Створено: {createdAt, date} | Оновлено: {updatedAt, date}',
+    'feedback.report.quickResolution': 'Швидке вирішення',
+    'feedback.report.actions.none': 'Швидких дій не передбачено',
+    'feedback.report.actions.storySettings': 'Перейдіть до налаштувань історії',
+    'feedback.report.actions.universeSettings': 'Перейдіть до налаштувань всесвіту',
+    'feedback.report.description': 'Наданий опис',
+    'feedback.report.copyrightReport': 'Ми отримали заяву про порушення авторських прав на цю роботу. Ми розглянемо цю претензію і приймемо рішення. Якщо ви хочете надати будь-який додатковий коментар або контекст, будь ласка, зробіть це нижче.'
 };

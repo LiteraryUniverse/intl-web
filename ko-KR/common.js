@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': '저자의 길',
     'common.password.hide': '비밀번호 숨기기',
     'common.password.show': '비밀번호 표시',
-    'common.forums': '포럼'
+    'common.forums': '포럼',
+    'common.restriction.goodConduct': '윤리강령 위반으로 인해 이 기능의 사용이 제한되었습니다.'
 };

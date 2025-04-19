@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'Calea autorului',
     'common.password.hide': 'Ascunde parola',
     'common.password.show': 'Afișați parola',
-    'common.forums': 'Forumuri'
+    'common.forums': 'Forumuri',
+    'common.restriction.goodConduct': 'Din cauza încălcării bunei conduite, v-am restricționat utilizarea acestei funcții.'
 };
