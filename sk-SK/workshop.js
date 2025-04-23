@@ -308,5 +308,6 @@ export default {
     'workshop.story.preventPublishingTooltip': 'Ak je táto možnosť povolená, tento príbeh nie je možné zverejniť. Je to užitočné pre príbehy, ktoré sú ešte vo vývoji, alebo pre príbehy, ktoré sú určené len na súkromné použitie.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publikovanie je zakázané, pretože vesmír má povolené nastavenie Zabrániť publikovaniu.',
     'workshop.revisions.new.public.disabled': 'Nie je možné publikovať, keď je v nastaveniach príbehu povolené zabrániť publikovaniu.',
-    'workshop.publishing.restricted': 'Z dôvodu porušenia pravidiel slušného správania sme vám zakázali publikovať.'
+    'workshop.publishing.restricted': 'Z dôvodu porušenia pravidiel slušného správania sme vám zakázali publikovať.',
+    'workshop.story.buyingSettings': 'Nastavenia predaja'
 };
