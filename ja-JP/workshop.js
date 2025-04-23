@@ -293,5 +293,6 @@ export default {
     'workshop.story.preventPublishingTooltip': '有効にすると、このストーリーは公開できなくなります。これは、まだ開発中のストーリーや、私的利用のみを目的としたストーリーに便利です。',
     'workshop.story.preventPublishingTooltipUniverse': 'ユニバースでパブリッシングの禁止設定が有効になっているため、パブリッシングが禁止されています。',
     'workshop.revisions.new.public.disabled': 'ストーリー設定でパブリッシュを防止する設定が有効になっている場合、パブリッシュできません。',
-    'workshop.publishing.restricted': '善行違反のため、私たちはあなたの出版能力を無効にしました。'
+    'workshop.publishing.restricted': '善行違反のため、私たちはあなたの出版能力を無効にしました。',
+    'workshop.story.buyingSettings': 'セール設定'
 };
