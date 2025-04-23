@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Перейдіть до налаштувань історії',
     'feedback.report.actions.universeSettings': 'Перейдіть до налаштувань всесвіту',
     'feedback.report.description': 'Наданий опис',
-    'feedback.report.copyrightReport': 'Ми отримали заяву про порушення авторських прав на цю роботу. Ми розглянемо цю претензію і приймемо рішення. Якщо ви хочете надати будь-який додатковий коментар або контекст, будь ласка, зробіть це нижче.'
+    'feedback.report.copyrightReport': 'Ми отримали заяву про порушення авторських прав на цю роботу. Ми розглянемо цю претензію і приймемо рішення. Якщо ви хочете надати будь-який додатковий коментар або контекст, будь ласка, зробіть це нижче.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Вибрані статті',
+    'feedback.help.featuredArticlesDescription': 'Ці статті будуть відображатися у вигляді слайдера на сторінці категорії. Статті повинні мати зображення обкладинки для кращого вигляду.',
+    'feedback.help.addFeatured': 'Додати до обраного',
+    'feedback.help.removeFeatured': 'Видалити з вибраного',
+    'feedback.help.noFeaturedArticles': 'Не вибрано жодної статті.',
+    'feedback.help.noArticles': 'У цій категорії немає статей.'
 };
