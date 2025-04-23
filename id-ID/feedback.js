@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Pergi ke pengaturan cerita',
     'feedback.report.actions.universeSettings': 'Pergi ke pengaturan alam semesta',
     'feedback.report.description': 'Deskripsi yang diberikan',
-    'feedback.report.copyrightReport': 'Kami telah menerima klaim hak cipta atas karya ini. Kami akan meninjau klaim tersebut dan membuat keputusan. Jika Anda ingin memberikan komentar atau konteks tambahan, silakan lakukan di bawah ini.'
+    'feedback.report.copyrightReport': 'Kami telah menerima klaim hak cipta atas karya ini. Kami akan meninjau klaim tersebut dan membuat keputusan. Jika Anda ingin memberikan komentar atau konteks tambahan, silakan lakukan di bawah ini.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Pilih artikel unggulan',
+    'feedback.help.featuredArticlesDescription': 'Artikel-artikel ini akan ditampilkan dalam sebuah slider di halaman kategori. Artikel harus memiliki gambar sampul untuk tampilan terbaik.',
+    'feedback.help.addFeatured': 'Tambahkan ke unggulan',
+    'feedback.help.removeFeatured': 'Hapus dari fitur',
+    'feedback.help.noFeaturedArticles': 'Tidak ada artikel unggulan yang dipilih.',
+    'feedback.help.noArticles': 'Tidak ada artikel dalam kategori ini.'
 };
