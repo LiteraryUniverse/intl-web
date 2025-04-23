@@ -301,5 +301,6 @@ export default {
     'workshop.story.preventPublishingTooltip': 'Når det er aktiveret, kan denne historie ikke udgives. Dette er nyttigt for historier, der stadig er under udvikling, eller for historier, der kun er beregnet til privat brug.',
     'workshop.story.preventPublishingTooltipUniverse': 'Udgivelse er forhindret, fordi universet har indstillingen forhindre udgivelse aktiveret.',
     'workshop.revisions.new.public.disabled': 'Kan ikke udgive, mens forhindring af udgivelse er aktiveret i historieindstillingerne.',
-    'workshop.publishing.restricted': 'På grund af brud på god opførsel har vi deaktiveret din mulighed for at publicere.'
+    'workshop.publishing.restricted': 'På grund af brud på god opførsel har vi deaktiveret din mulighed for at publicere.',
+    'workshop.story.buyingSettings': 'Indstillinger for salg'
 };
