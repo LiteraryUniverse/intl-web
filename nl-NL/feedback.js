@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Ga naar verhaalinstellingen',
     'feedback.report.actions.universeSettings': 'Ga naar universuminstellingen',
     'feedback.report.description': 'Geleverde beschrijving',
-    'feedback.report.copyrightReport': 'We hebben een auteursrechtclaim op dit werk ontvangen. Wij zullen de claim bekijken en een beslissing nemen. Als u aanvullend commentaar of context wilt geven, kunt u dat hieronder doen.'
+    'feedback.report.copyrightReport': 'We hebben een auteursrechtclaim op dit werk ontvangen. Wij zullen de claim bekijken en een beslissing nemen. Als u aanvullend commentaar of context wilt geven, kunt u dat hieronder doen.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Aanbevolen artikelen selecteren',
+    'feedback.help.featuredArticlesDescription': 'Deze artikelen worden weergegeven in een slider op de categoriepagina. Artikelen moeten een omslagafbeelding hebben voor de beste weergave.',
+    'feedback.help.addFeatured': 'Toevoegen aan uitgelicht',
+    'feedback.help.removeFeatured': 'Verwijderen uit uitgelicht',
+    'feedback.help.noFeaturedArticles': 'Geen uitgelichte artikelen geselecteerd.',
+    'feedback.help.noArticles': 'Geen artikelen in deze categorie.'
 };
