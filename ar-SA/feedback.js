@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'الانتقال إلى إعدادات القصة',
     'feedback.report.actions.universeSettings': 'الانتقال إلى إعدادات الكون',
     'feedback.report.description': 'الوصف المقدم',
-    'feedback.report.copyrightReport': 'لقد تلقينا مطالبة بحقوق الطبع والنشر لهذا العمل. سنقوم بمراجعة المطالبة واتخاذ قرار بشأنها. إذا كنت ترغب في تقديم أي تعليق أو سياق إضافي، يرجى القيام بذلك أدناه.'
+    'feedback.report.copyrightReport': 'لقد تلقينا مطالبة بحقوق الطبع والنشر لهذا العمل. سنقوم بمراجعة المطالبة واتخاذ قرار بشأنها. إذا كنت ترغب في تقديم أي تعليق أو سياق إضافي، يرجى القيام بذلك أدناه.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'اختر المقالات المميزة',
+    'feedback.help.featuredArticlesDescription': 'سيتم عرض هذه المقالات في شريط تمرير على صفحة الفئة. يجب أن تحتوي المقالات على صورة غلاف للحصول على أفضل مظهر.',
+    'feedback.help.addFeatured': 'إضافة إلى المميزات',
+    'feedback.help.removeFeatured': 'إزالة من المميز',
+    'feedback.help.noFeaturedArticles': 'لم يتم اختيار أي مقالات مميزة.',
+    'feedback.help.noArticles': 'لا توجد مقالات في هذه الفئة.'
 };
