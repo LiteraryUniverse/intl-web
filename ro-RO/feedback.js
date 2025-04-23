@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Mergeți la setările poveștii',
     'feedback.report.actions.universeSettings': 'Mergeți la setările universului',
     'feedback.report.description': 'Descriere furnizată',
-    'feedback.report.copyrightReport': 'Am primit o cerere de revendicare a drepturilor de autor pentru această lucrare. Vom analiza cererea și vom lua o decizie. Dacă doriți să furnizați orice comentariu sau context suplimentar, vă rugăm să o faceți mai jos.'
+    'feedback.report.copyrightReport': 'Am primit o cerere de revendicare a drepturilor de autor pentru această lucrare. Vom analiza cererea și vom lua o decizie. Dacă doriți să furnizați orice comentariu sau context suplimentar, vă rugăm să o faceți mai jos.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Selectați articolele prezentate',
+    'feedback.help.featuredArticlesDescription': 'Aceste articole vor fi afișate într-un slider pe pagina categoriei. Articolele ar trebui să aibă o imagine de copertă pentru un aspect optim.',
+    'feedback.help.addFeatured': 'Adaugă la featured',
+    'feedback.help.removeFeatured': 'Îndepărtați din featured',
+    'feedback.help.noFeaturedArticles': 'Nu au fost selectate articole recomandate.',
+    'feedback.help.noArticles': 'Nu există articole în această categorie.'
 };
