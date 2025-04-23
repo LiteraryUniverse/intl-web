@@ -301,5 +301,6 @@ export default {
     'workshop.story.preventPublishingTooltip': 'När detta är aktiverat kan den här berättelsen inte publiceras. Detta är användbart för berättelser som fortfarande är under utveckling eller för berättelser som endast är avsedda för privat bruk.',
     'workshop.story.preventPublishingTooltipUniverse': 'Publicering förhindras eftersom universum har inställningen förhindra publicering aktiverad.',
     'workshop.revisions.new.public.disabled': 'Det går inte att publicera när förhindra publicering är aktiverat i berättelsens inställningar.',
-    'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.'
+    'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
+    'workshop.story.buyingSettings': 'Inställningar för försäljning'
 };
