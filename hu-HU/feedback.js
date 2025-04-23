@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Menj a történet beállításaihoz',
     'feedback.report.actions.universeSettings': 'Menj az univerzum beállításaihoz',
     'feedback.report.description': 'Adott leírás',
-    'feedback.report.copyrightReport': 'Erre a műre szerzői jogi igényt kaptunk. Átvizsgáljuk az igényt és döntést hozunk. Ha további megjegyzéseket vagy kontextust szeretne megadni, kérjük, tegye meg az alábbiakban.'
+    'feedback.report.copyrightReport': 'Erre a műre szerzői jogi igényt kaptunk. Átvizsgáljuk az igényt és döntést hozunk. Ha további megjegyzéseket vagy kontextust szeretne megadni, kérjük, tegye meg az alábbiakban.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Válassza ki a kiemelt cikkeket',
+    'feedback.help.featuredArticlesDescription': 'Ezek a cikkek egy csúszkában jelennek meg a kategóriaoldalon. A cikkeknek a legjobb megjelenés érdekében borítóképpel kell rendelkezniük.',
+    'feedback.help.addFeatured': 'Hozzáadás a featured',
+    'feedback.help.removeFeatured': 'Eltávolítani a featured listáról',
+    'feedback.help.noFeaturedArticles': 'Nincs kiválasztott kiemelt cikk.',
+    'feedback.help.noArticles': 'Nincs cikk ebben a kategóriában.'
 };
