@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Mine loo seadete juurde',
     'feedback.report.actions.universeSettings': 'Mine universumi seadistustesse',
     'feedback.report.description': 'Esitatud kirjeldus',
-    'feedback.report.copyrightReport': 'Me oleme saanud selle teose autoriõiguse nõude. Me vaatame nõude läbi ja teeme otsuse. Kui soovite esitada täiendavaid kommentaare või konteksti, palun tehke seda allpool.'
+    'feedback.report.copyrightReport': 'Me oleme saanud selle teose autoriõiguse nõude. Me vaatame nõude läbi ja teeme otsuse. Kui soovite esitada täiendavaid kommentaare või konteksti, palun tehke seda allpool.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Valige eelistatud artiklid',
+    'feedback.help.featuredArticlesDescription': 'Need artiklid kuvatakse liugurina kategooria lehel. Parima väljanägemise tagamiseks peaks artiklitel olema kaanepilt.',
+    'feedback.help.addFeatured': 'Lisada eelistatud',
+    'feedback.help.removeFeatured': 'Eemalda eelistatud',
+    'feedback.help.noFeaturedArticles': 'Ei ole valitud ühtegi eelistatud artiklit.',
+    'feedback.help.noArticles': 'Selles kategoorias ei ole artikleid.'
 };
