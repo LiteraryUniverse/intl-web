@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Gå till inställningar för berättelsen',
     'feedback.report.actions.universeSettings': 'Gå till universums inställningar',
     'feedback.report.description': 'Tillhandahållen beskrivning',
-    'feedback.report.copyrightReport': 'Vi har mottagit ett upphovsrättsanspråk på detta verk. Vi kommer att granska anspråket och fatta beslut. Om du vill ge någon ytterligare kommentar eller sammanhang, vänligen gör det nedan.'
+    'feedback.report.copyrightReport': 'Vi har mottagit ett upphovsrättsanspråk på detta verk. Vi kommer att granska anspråket och fatta beslut. Om du vill ge någon ytterligare kommentar eller sammanhang, vänligen gör det nedan.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Välj utvalda artiklar',
+    'feedback.help.featuredArticlesDescription': 'Dessa artiklar kommer att visas i en slider på kategorisidan. Artiklarna bör ha en omslagsbild för bästa utseende.',
+    'feedback.help.addFeatured': 'Lägg till i utvalda',
+    'feedback.help.removeFeatured': 'Ta bort från listan',
+    'feedback.help.noFeaturedArticles': 'Inga utvalda artiklar.',
+    'feedback.help.noArticles': 'Inga artiklar i denna kategori.'
 };
