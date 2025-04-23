@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Siirry tarinan asetuksiin',
     'feedback.report.actions.universeSettings': 'Siirry universumin asetuksiin',
     'feedback.report.description': 'Annettu kuvaus',
-    'feedback.report.copyrightReport': 'Olemme saaneet tekijänoikeudet tähän teokseen. Tarkistamme vaatimuksen ja teemme päätöksen. Jos haluatte antaa lisäkommentteja tai -yhteyksiä, voitte tehdä sen alla.'
+    'feedback.report.copyrightReport': 'Olemme saaneet tekijänoikeudet tähän teokseen. Tarkistamme vaatimuksen ja teemme päätöksen. Jos haluatte antaa lisäkommentteja tai -yhteyksiä, voitte tehdä sen alla.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Valitse esillä olevat artikkelit',
+    'feedback.help.featuredArticlesDescription': 'Nämä artikkelit näytetään liukusäätimellä kategoriasivulla. Artikkeleilla tulisi olla kansikuva, jotta ne näkyisivät parhaiten.',
+    'feedback.help.addFeatured': 'Lisää esillä olevaan',
+    'feedback.help.removeFeatured': 'Poista esillä olevasta',
+    'feedback.help.noFeaturedArticles': 'Ei valittuja artikkeleita.',
+    'feedback.help.noArticles': 'Ei artikkeleita tässä kategoriassa.'
 };
