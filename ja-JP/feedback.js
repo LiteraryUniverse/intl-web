@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'ストーリー設定へ',
     'feedback.report.actions.universeSettings': 'ユニバース設定へ',
     'feedback.report.description': '説明',
-    'feedback.report.copyrightReport': '本作品に対する著作権クレームを受領しました。私たちはクレームを確認し、判断を下します。追加コメントや背景を提供したい場合は、以下にお願いします。'
+    'feedback.report.copyrightReport': '本作品に対する著作権クレームを受領しました。私たちはクレームを確認し、判断を下します。追加コメントや背景を提供したい場合は、以下にお願いします。',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': '特集記事を選ぶ',
+    'feedback.help.featuredArticlesDescription': 'これらの記事はカテゴリーページのスライダーで表示されます。記事の見栄えをよくするため、カバー画像は必須です。',
+    'feedback.help.addFeatured': '特集に追加',
+    'feedback.help.removeFeatured': '特集から外す',
+    'feedback.help.noFeaturedArticles': '注目記事は選ばれていない。',
+    'feedback.help.noArticles': 'このカテゴリーの記事はありません。'
 };
