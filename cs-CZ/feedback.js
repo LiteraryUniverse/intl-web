@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Přejít na nastavení příběhu',
     'feedback.report.actions.universeSettings': 'Přejděte do nastavení vesmíru',
     'feedback.report.description': 'Poskytnutý popis',
-    'feedback.report.copyrightReport': 'Obdrželi jsme nárok na autorská práva k tomuto dílu. Nárok přezkoumáme a rozhodneme o něm. Pokud chcete uvést další komentáře nebo souvislosti, učiňte tak prosím níže.'
+    'feedback.report.copyrightReport': 'Obdrželi jsme nárok na autorská práva k tomuto dílu. Nárok přezkoumáme a rozhodneme o něm. Pokud chcete uvést další komentáře nebo souvislosti, učiňte tak prosím níže.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Vybrané doporučené články',
+    'feedback.help.featuredArticlesDescription': 'Tyto články se zobrazí v posuvníku na stránce kategorie. Články by měly mít titulní obrázek, aby vypadaly co nejlépe.',
+    'feedback.help.addFeatured': 'Přidat do doporučených',
+    'feedback.help.removeFeatured': 'Odebrat ze seznamu doporučených položek',
+    'feedback.help.noFeaturedArticles': 'Nebyly vybrány žádné doporučené články.',
+    'feedback.help.noArticles': 'V této kategorii nejsou žádné články.'
 };
