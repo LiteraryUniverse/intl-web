@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': '前往故事設定',
     'feedback.report.actions.universeSettings': '前往宇宙設定',
     'feedback.report.description': '提供說明',
-    'feedback.report.copyrightReport': '我們已收到此作品的版權要求。我們將審查該索賠並作出決定。如果您想提供任何其他意見或背景，請在下方提出。'
+    'feedback.report.copyrightReport': '我們已收到此作品的版權要求。我們將審查該索賠並作出決定。如果您想提供任何其他意見或背景，請在下方提出。',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': '選擇特色文章',
+    'feedback.help.featuredArticlesDescription': '這些文章將顯示在分類頁面的滑桿中。文章應有封面圖片，以達到最佳外觀。',
+    'feedback.help.addFeatured': '新增至精選',
+    'feedback.help.removeFeatured': '從特色中移除',
+    'feedback.help.noFeaturedArticles': '未選取專題文章。',
+    'feedback.help.noArticles': '此類別中沒有文章。'
 };
