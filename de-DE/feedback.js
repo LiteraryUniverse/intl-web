@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Zu den Story-Einstellungen gehen',
     'feedback.report.actions.universeSettings': 'Gehen Sie zu Universum-Einstellungen',
     'feedback.report.description': 'Gelieferte Beschreibung',
-    'feedback.report.copyrightReport': 'Wir haben einen Urheberrechtsanspruch auf dieses Werk erhalten. Wir werden den Anspruch prüfen und eine Entscheidung treffen. Wenn Sie weitere Kommentare oder Hinweise geben möchten, tun Sie dies bitte unten.'
+    'feedback.report.copyrightReport': 'Wir haben einen Urheberrechtsanspruch auf dieses Werk erhalten. Wir werden den Anspruch prüfen und eine Entscheidung treffen. Wenn Sie weitere Kommentare oder Hinweise geben möchten, tun Sie dies bitte unten.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Ausgewählte Artikel',
+    'feedback.help.featuredArticlesDescription': 'Diese Artikel werden in einem Slider auf der Kategorieseite angezeigt. Für eine optimale Darstellung sollten die Artikel ein Titelbild haben.',
+    'feedback.help.addFeatured': 'Zu Angeboten hinzufügen',
+    'feedback.help.removeFeatured': 'Aus dem Angebot entfernen',
+    'feedback.help.noFeaturedArticles': 'Keine besonderen Artikel ausgewählt.',
+    'feedback.help.noArticles': 'Keine Artikel in dieser Kategorie.'
 };
