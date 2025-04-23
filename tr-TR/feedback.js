@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Hikaye ayarlarına git',
     'feedback.report.actions.universeSettings': 'Evren ayarlarına gidin',
     'feedback.report.description': 'Sağlanan açıklama',
-    'feedback.report.copyrightReport': 'Bu çalışma için telif hakkı talebi aldık. Talebi inceleyeceğiz ve karar vereceğiz. Herhangi bir ek yorum veya bağlam sağlamak istiyorsanız, lütfen bunu aşağıda yapın.'
+    'feedback.report.copyrightReport': 'Bu çalışma için telif hakkı talebi aldık. Talebi inceleyeceğiz ve karar vereceğiz. Herhangi bir ek yorum veya bağlam sağlamak istiyorsanız, lütfen bunu aşağıda yapın.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Öne çıkan makaleleri seçin',
+    'feedback.help.featuredArticlesDescription': 'Bu makaleler kategori sayfasında bir kaydırıcıda görüntülenecektir. Makalelerin en iyi şekilde görünmesi için bir kapak resmi olmalıdır.',
+    'feedback.help.addFeatured': 'Öne çıkanlara ekle',
+    'feedback.help.removeFeatured': 'Öne çıkanlardan kaldır',
+    'feedback.help.noFeaturedArticles': 'Seçkin makale seçilmemiştir.',
+    'feedback.help.noArticles': 'Bu kategoride makale yok.'
 };
