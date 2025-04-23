@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Πηγαίνετε στις ρυθμίσεις της ιστορίας',
     'feedback.report.actions.universeSettings': 'Μεταβείτε στις ρυθμίσεις σύμπαντος',
     'feedback.report.description': 'Παρεχόμενη περιγραφή',
-    'feedback.report.copyrightReport': 'Έχουμε λάβει αξίωση πνευματικών δικαιωμάτων για το έργο αυτό. Θα επανεξετάσουμε την αξίωση και θα αποφασίσουμε. Εάν θέλετε να παράσχετε οποιοδήποτε πρόσθετο σχόλιο ή πλαίσιο, παρακαλούμε να το κάνετε παρακάτω.'
+    'feedback.report.copyrightReport': 'Έχουμε λάβει αξίωση πνευματικών δικαιωμάτων για το έργο αυτό. Θα επανεξετάσουμε την αξίωση και θα αποφασίσουμε. Εάν θέλετε να παράσχετε οποιοδήποτε πρόσθετο σχόλιο ή πλαίσιο, παρακαλούμε να το κάνετε παρακάτω.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Επιλέξτε επιλεγμένα άρθρα',
+    'feedback.help.featuredArticlesDescription': 'Αυτά τα άρθρα θα εμφανίζονται σε ένα slider στη σελίδα της κατηγορίας. Τα άρθρα θα πρέπει να έχουν εικόνα εξωφύλλου για καλύτερη εμφάνιση.',
+    'feedback.help.addFeatured': 'Προσθήκη στα προτεινόμενα',
+    'feedback.help.removeFeatured': 'Αφαιρέστε από τα προτεινόμενα',
+    'feedback.help.noFeaturedArticles': 'Δεν έχουν επιλεγεί επιλεγμένα άρθρα.',
+    'feedback.help.noArticles': 'Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.'
 };
