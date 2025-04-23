@@ -95,4 +95,11 @@ export default {
   'feedback.report.actions.universeSettings': 'Go to universe settings',
   'feedback.report.description': 'Provided description',
   'feedback.report.copyrightReport': 'We have received copyright claim to this work. We will review the claim and make determination. If you want to provide any additional comment or context, please do so bellow.',
+  // Slider component strings
+  'feedback.help.selectFeaturedArticles': 'Select featured articles',
+  'feedback.help.featuredArticlesDescription': 'These articles will be displayed in a slider on the category page. Articles should have a cover image for best appearance.',
+  'feedback.help.addFeatured': 'Add to featured',
+  'feedback.help.removeFeatured': 'Remove from featured',
+  'feedback.help.noFeaturedArticles': 'No featured articles selected.',
+  'feedback.help.noArticles': 'No articles in this category.',
 }
