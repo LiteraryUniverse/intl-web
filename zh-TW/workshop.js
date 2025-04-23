@@ -301,5 +301,6 @@ export default {
     'workshop.story.preventPublishingTooltip': '啟用後，此故事將無法發表。這對仍在開發中的故事或僅供私人使用的故事非常有用。',
     'workshop.story.preventPublishingTooltipUniverse': '由於宇宙已啟用防止發佈設定，因此無法發佈。',
     'workshop.revisions.new.public.disabled': '在故事設定中啟用防止發佈時，無法發佈。',
-    'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。'
+    'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。',
+    'workshop.story.buyingSettings': '銷售設定'
 };
