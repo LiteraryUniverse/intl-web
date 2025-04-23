@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Proszę przejść do ustawień fabuły',
     'feedback.report.actions.universeSettings': 'Proszę przejść do ustawień wszechświata',
     'feedback.report.description': 'Dostarczony opis',
-    'feedback.report.copyrightReport': 'Otrzymaliśmy roszczenie dotyczące praw autorskich do tego utworu. Przeanalizujemy to roszczenie i podejmiemy decyzję. Jeśli chcą Państwo przedstawić dodatkowy komentarz lub kontekst, prosimy zrobić to poniżej.'
+    'feedback.report.copyrightReport': 'Otrzymaliśmy roszczenie dotyczące praw autorskich do tego utworu. Przeanalizujemy to roszczenie i podejmiemy decyzję. Jeśli chcą Państwo przedstawić dodatkowy komentarz lub kontekst, prosimy zrobić to poniżej.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Proszę wybrać polecane artykuły',
+    'feedback.help.featuredArticlesDescription': 'Artykuły te będą wyświetlane w suwaku na stronie kategorii. Artykuły powinny mieć obraz okładki, aby wyglądały jak najlepiej.',
+    'feedback.help.addFeatured': 'Proszę dodać do polecanych',
+    'feedback.help.removeFeatured': 'Proszę usunąć z listy polecanych',
+    'feedback.help.noFeaturedArticles': 'Nie wybrano wyróżnionych artykułów.',
+    'feedback.help.noArticles': 'Brak artykułów w tej kategorii.'
 };
