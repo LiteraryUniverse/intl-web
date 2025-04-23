@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Prejsť na nastavenia príbehu',
     'feedback.report.actions.universeSettings': 'Prejsť na nastavenia vesmíru',
     'feedback.report.description': 'Poskytnutý opis',
-    'feedback.report.copyrightReport': 'Na toto dielo sme získali autorské práva. Nárok preskúmame a rozhodneme o ňom. Ak chcete poskytnúť akékoľvek ďalšie pripomienky alebo súvislosti, urobte tak, prosím, nižšie.'
+    'feedback.report.copyrightReport': 'Na toto dielo sme získali autorské práva. Nárok preskúmame a rozhodneme o ňom. Ak chcete poskytnúť akékoľvek ďalšie pripomienky alebo súvislosti, urobte tak, prosím, nižšie.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Vybrať odporúčané články',
+    'feedback.help.featuredArticlesDescription': 'Tieto články sa zobrazia v posuvníku na stránke kategórie. Články by mali mať titulný obrázok, aby vyzerali čo najlepšie.',
+    'feedback.help.addFeatured': 'Pridať do zoznamu odporúčaných produktov',
+    'feedback.help.removeFeatured': 'Odstrániť z odporúčaných',
+    'feedback.help.noFeaturedArticles': 'Žiadne vybrané odporúčané články.',
+    'feedback.help.noArticles': 'V tejto kategórii nie sú žiadne články.'
 };
