@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': '스토리 설정으로 이동',
     'feedback.report.actions.universeSettings': '유니버스 설정으로 이동',
     'feedback.report.description': '제공된 설명',
-    'feedback.report.copyrightReport': '이 저작물에 대한 저작권 청구가 접수되었습니다. 청구 내용을 검토하여 결정할 예정입니다. 추가 의견이나 정황을 제공하고자 하는 경우 아래에서 제공해 주시기 바랍니다.'
+    'feedback.report.copyrightReport': '이 저작물에 대한 저작권 청구가 접수되었습니다. 청구 내용을 검토하여 결정할 예정입니다. 추가 의견이나 정황을 제공하고자 하는 경우 아래에서 제공해 주시기 바랍니다.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': '추천 기사 선택',
+    'feedback.help.featuredArticlesDescription': '이러한 문서는 카테고리 페이지의 슬라이더에 표시됩니다. 문서가 가장 잘 보이도록 표지 이미지가 있어야 합니다.',
+    'feedback.help.addFeatured': '추천에 추가',
+    'feedback.help.removeFeatured': '추천에서 제거',
+    'feedback.help.noFeaturedArticles': '선택한 추천 기사가 없습니다.',
+    'feedback.help.noArticles': '이 카테고리에 게시글이 없습니다.'
 };
