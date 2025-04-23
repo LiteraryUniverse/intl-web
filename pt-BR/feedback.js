@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Ir para as configurações da história',
     'feedback.report.actions.universeSettings': 'Ir para as configurações do universo',
     'feedback.report.description': 'Descrição fornecida',
-    'feedback.report.copyrightReport': 'Recebemos uma reivindicação de direitos autorais para este trabalho. Analisaremos a reivindicação e tomaremos uma decisão. Se o senhor quiser fazer algum comentário ou contexto adicional, faça-o abaixo.'
+    'feedback.report.copyrightReport': 'Recebemos uma reivindicação de direitos autorais para este trabalho. Analisaremos a reivindicação e tomaremos uma decisão. Se o senhor quiser fazer algum comentário ou contexto adicional, faça-o abaixo.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Selecionar artigos em destaque',
+    'feedback.help.featuredArticlesDescription': 'Esses artigos serão exibidos em um controle deslizante na página da categoria. Os artigos devem ter uma imagem de capa para melhor aparência.',
+    'feedback.help.addFeatured': 'Adicionar ao destaque',
+    'feedback.help.removeFeatured': 'Remover do destaque',
+    'feedback.help.noFeaturedArticles': 'Nenhum artigo em destaque foi selecionado.',
+    'feedback.help.noArticles': 'Não há artigos nesta categoria.'
 };
