@@ -301,5 +301,6 @@ export default {
     'workshop.story.preventPublishingTooltip': 'Kui see on lubatud, ei saa seda lugu avaldada. See on kasulik lugude puhul, mis on veel väljatöötamisel või lugude puhul, mis on mõeldud ainult isiklikuks kasutamiseks.',
     'workshop.story.preventPublishingTooltipUniverse': 'Avaldamine on takistatud, sest universumis on lubatud säte "Avaldamise takistamine".',
     'workshop.revisions.new.public.disabled': 'Ei saa avaldada, kui loo seadetes on lubatud avaldamise vältimine.',
-    'workshop.publishing.restricted': 'Hea käitumise rikkumise tõttu oleme keelanud teie avaldamisvõimaluse.'
+    'workshop.publishing.restricted': 'Hea käitumise rikkumise tõttu oleme keelanud teie avaldamisvõimaluse.',
+    'workshop.story.buyingSettings': 'Müügi seaded'
 };
