@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Gå til historieindstillinger',
     'feedback.report.actions.universeSettings': 'Gå til universets indstillinger',
     'feedback.report.description': 'Leveret beskrivelse',
-    'feedback.report.copyrightReport': 'Vi har modtaget krav om ophavsret til dette værk. Vi vil gennemgå kravet og træffe en afgørelse. Hvis du ønsker at give yderligere kommentarer eller kontekst, kan du gøre det nedenfor.'
+    'feedback.report.copyrightReport': 'Vi har modtaget krav om ophavsret til dette værk. Vi vil gennemgå kravet og træffe en afgørelse. Hvis du ønsker at give yderligere kommentarer eller kontekst, kan du gøre det nedenfor.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Vælg udvalgte artikler',
+    'feedback.help.featuredArticlesDescription': 'Disse artikler vil blive vist i en slider på kategorisiden. Artiklerne bør have et forsidebillede for at se bedst muligt ud.',
+    'feedback.help.addFeatured': 'Tilføj til featured',
+    'feedback.help.removeFeatured': 'Fjern fra featured',
+    'feedback.help.noFeaturedArticles': 'Ingen udvalgte artikler.',
+    'feedback.help.noArticles': 'Ingen artikler i denne kategori.'
 };
