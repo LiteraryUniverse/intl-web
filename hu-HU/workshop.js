@@ -301,5 +301,6 @@ export default {
     'workshop.story.preventPublishingTooltip': 'Ha engedélyezve van, ez a történet nem tehető közzé. Ez olyan történeteknél hasznos, amelyek még fejlesztés alatt állnak, vagy olyan történeteknél, amelyeket csak magáncélú felhasználásra szánnak.',
     'workshop.story.preventPublishingTooltipUniverse': 'A közzététel megakadályozott, mivel az univerzumban engedélyezve van a közzététel megakadályozása beállítás.',
     'workshop.revisions.new.public.disabled': 'Nem lehet közzétenni, ha a történet beállításaiban engedélyezve van a közzététel megakadályozása.',
-    'workshop.publishing.restricted': 'A jó magaviselet megsértése miatt letiltottuk a publikálási lehetőségét.'
+    'workshop.publishing.restricted': 'A jó magaviselet megsértése miatt letiltottuk a publikálási lehetőségét.',
+    'workshop.story.buyingSettings': 'Értékesítési beállítások'
 };
