@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Eikite į istorijos nustatymus',
     'feedback.report.actions.universeSettings': 'Eikite į visatos nustatymus',
     'feedback.report.description': 'Pateiktas aprašymas',
-    'feedback.report.copyrightReport': 'Gavome pretenziją dėl šio darbo autorių teisių. Peržiūrėsime pretenziją ir priimsime sprendimą. Jei norite pateikti papildomų komentarų ar kontekstą, prašome tai padaryti žemiau.'
+    'feedback.report.copyrightReport': 'Gavome pretenziją dėl šio darbo autorių teisių. Peržiūrėsime pretenziją ir priimsime sprendimą. Jei norite pateikti papildomų komentarų ar kontekstą, prašome tai padaryti žemiau.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Pasirinkite teminius straipsnius',
+    'feedback.help.featuredArticlesDescription': 'Šie straipsniai bus rodomi kategorijos puslapyje esančiame slankiklyje. Straipsniai turėtų turėti viršelio paveikslėlį, kad atrodytų kuo geriau.',
+    'feedback.help.addFeatured': 'Pridėti prie siūlomų',
+    'feedback.help.removeFeatured': 'Pašalinti iš rodomų',
+    'feedback.help.noFeaturedArticles': 'Nėra atrinktų teminių straipsnių.',
+    'feedback.help.noArticles': 'Šioje kategorijoje nėra straipsnių.'
 };
