@@ -85,5 +85,12 @@ export default {
     'feedback.report.actions.storySettings': 'Vada alle impostazioni della storia',
     'feedback.report.actions.universeSettings': 'Vada alle impostazioni dell\'universo',
     'feedback.report.description': 'Descrizione fornita',
-    'feedback.report.copyrightReport': 'Abbiamo ricevuto una richiesta di copyright per quest\'opera. Esamineremo la richiesta e prenderemo una decisione. Se desidera fornire ulteriori commenti o contesti, lo faccia qui sotto.'
+    'feedback.report.copyrightReport': 'Abbiamo ricevuto una richiesta di copyright per quest\'opera. Esamineremo la richiesta e prenderemo una decisione. Se desidera fornire ulteriori commenti o contesti, lo faccia qui sotto.',
+    // Slider component strings
+    'feedback.help.selectFeaturedArticles': 'Selezionare gli articoli in evidenza',
+    'feedback.help.featuredArticlesDescription': 'Questi articoli saranno visualizzati in uno slider sulla pagina della categoria. Gli articoli dovrebbero avere un\'immagine di copertina per essere visualizzati al meglio.',
+    'feedback.help.addFeatured': 'Aggiungi alla lista dei preferiti',
+    'feedback.help.removeFeatured': 'Rimuovi dalla rubrica',
+    'feedback.help.noFeaturedArticles': 'Non sono stati selezionati articoli in evidenza.',
+    'feedback.help.noArticles': 'Non ci sono articoli in questa categoria.'
 };
