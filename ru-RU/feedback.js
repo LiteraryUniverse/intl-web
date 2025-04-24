@@ -88,7 +88,7 @@ export default {
     'feedback.report.copyrightReport': 'Мы получили претензию об авторских правах на эту работу. Мы рассмотрим это заявление и вынесем решение. Если вы хотите дать дополнительные комментарии или пояснения, пожалуйста, сделайте это ниже.',
     // Slider component strings
     'feedback.help.selectFeaturedArticles': 'Выберите тематические статьи',
-    'feedback.help.featuredArticlesDescription': 'Эти статьи будут отображаться в слайдере на странице категории. Чтобы статьи лучше выглядели, у них должно быть изображение обложки.',
+    'feedback.help.featuredArticlesDescription': 'Эти статьи будут отображаться в ползунке на странице категории. Чтобы статьи лучше выглядели, у них должно быть изображение обложки.',
     'feedback.help.addFeatured': 'Добавить в избранное',
     'feedback.help.removeFeatured': 'Удалить из списка избранных',
     'feedback.help.noFeaturedArticles': 'Не выбрано ни одной тематической статьи.',
