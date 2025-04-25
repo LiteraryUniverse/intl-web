@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': '개요',
     'feedback.help.articles': '기사',
     'feedback.help.courses': '코스',
-    'feedback.help.videos': '동영상 튜토리얼',
+    'feedback.help.videoTutorials': '동영상 튜토리얼',
     'feedback.help.featuredArticles': '주요 기사',
     'feedback.help.featuredCourses': '추천 코스',
     'feedback.help.featuredVideos': '추천 동영상',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': '선택한 추천 기사가 없습니다.',
     'feedback.help.noArticles': '이 카테고리에 게시글이 없습니다.',
     'feedback.help.noVideos': '동영상 없음',
-    'feedback.help.noCourse': '코스 없음'
+    'feedback.help.noCourse': '코스 없음',
+    'feedback.help.videos': '도움말 동영상',
+    'feedback.help.noFeaturedVideos': '아직 사용 가능한 추천 동영상이 없습니다.',
+    'feedback.help.selectFeaturedVideos': '추천 동영상 선택',
+    'feedback.help.featuredVideosDescription': '이러한 동영상은 카테고리 페이지의 슬라이더에 표시됩니다. 동영상이 가장 잘 보이도록 썸네일을 포함해야 합니다.',
+    'feedback.help.backToCategory': '카테고리로 돌아가기',
+    'feedback.help.watchVideo': '동영상 보기'
 };
