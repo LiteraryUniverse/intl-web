@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Overzicht',
     'feedback.help.articles': 'Artikelen',
     'feedback.help.courses': 'Cursussen',
-    'feedback.help.videos': 'Video-handleidingen',
+    'feedback.help.videoTutorials': 'Video-handleidingen',
     'feedback.help.featuredArticles': 'Aanbevolen artikelen',
     'feedback.help.featuredCourses': 'Aanbevolen cursussen',
     'feedback.help.featuredVideos': 'Uitgelichte video\'s',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Geen uitgelichte artikelen geselecteerd.',
     'feedback.help.noArticles': 'Geen artikelen in deze categorie.',
     'feedback.help.noVideos': 'Geen video\'s',
-    'feedback.help.noCourse': 'Geen cursussen'
+    'feedback.help.noCourse': 'Geen cursussen',
+    'feedback.help.videos': 'Hulpvideo\'s',
+    'feedback.help.noFeaturedVideos': 'Er zijn nog geen uitgelichte video\'s beschikbaar.',
+    'feedback.help.selectFeaturedVideos': 'Uitgelichte video\'s selecteren',
+    'feedback.help.featuredVideosDescription': 'Deze video\'s worden weergegeven in een slider op de categoriepagina. Video\'s moeten een thumbnail hebben voor de beste weergave.',
+    'feedback.help.backToCategory': 'Terug naar categorie',
+    'feedback.help.watchVideo': 'Video bekijken'
 };
