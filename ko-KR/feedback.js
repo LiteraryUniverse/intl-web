@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': '추천에 추가',
     'feedback.help.removeFeatured': '추천에서 제거',
     'feedback.help.noFeaturedArticles': '선택한 추천 기사가 없습니다.',
-    'feedback.help.noArticles': '이 카테고리에 게시글이 없습니다.'
+    'feedback.help.noArticles': '이 카테고리에 게시글이 없습니다.',
+    'feedback.help.noVideos': '동영상 없음',
+    'feedback.help.noCourse': '코스 없음'
 };
