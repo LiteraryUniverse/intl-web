@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Lisää esillä olevaan',
     'feedback.help.removeFeatured': 'Poista esillä olevasta',
     'feedback.help.noFeaturedArticles': 'Ei valittuja artikkeleita.',
-    'feedback.help.noArticles': 'Ei artikkeleita tässä kategoriassa.'
+    'feedback.help.noArticles': 'Ei artikkeleita tässä kategoriassa.',
+    'feedback.help.noVideos': 'Ei videoita',
+    'feedback.help.noCourse': 'Ei kursseja'
 };
