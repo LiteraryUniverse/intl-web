@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Προσθήκη στα προτεινόμενα',
     'feedback.help.removeFeatured': 'Αφαιρέστε από τα προτεινόμενα',
     'feedback.help.noFeaturedArticles': 'Δεν έχουν επιλεγεί επιλεγμένα άρθρα.',
-    'feedback.help.noArticles': 'Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.'
+    'feedback.help.noArticles': 'Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.',
+    'feedback.help.noVideos': 'Δεν υπάρχουν βίντεο',
+    'feedback.help.noCourse': 'Δεν υπάρχουν μαθήματα'
 };
