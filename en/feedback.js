@@ -67,7 +67,7 @@ export default {
   'feedback.help.overview': 'Overview',
   'feedback.help.articles': 'Articles',
   'feedback.help.courses': 'Courses',
-  'feedback.help.videos': 'Video tutorials',
+  'feedback.help.videoTutorials': 'Video tutorials',
   'feedback.help.featuredArticles': 'Featured Articles',
   'feedback.help.featuredCourses': 'Featured Courses',
   'feedback.help.featuredVideos': 'Featured Videos',
@@ -104,4 +104,10 @@ export default {
   'feedback.help.noArticles': 'No articles in this category.',
   'feedback.help.noVideos': 'No videos',
   'feedback.help.noCourse': 'No courses',
+  'feedback.help.videos': 'Help Videos',
+  'feedback.help.noFeaturedVideos': 'No featured videos available yet.',
+  'feedback.help.selectFeaturedVideos': 'Select featured videos',
+  'feedback.help.featuredVideosDescription': 'These videos will be displayed in a slider on the category page. Videos should have a thumbnail for best appearance.',
+  'feedback.help.backToCategory': 'Back to category',
+  'feedback.help.watchVideo': 'Watch video'
 }
