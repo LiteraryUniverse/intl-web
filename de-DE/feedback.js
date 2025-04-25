@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Übersicht',
     'feedback.help.articles': 'Artikel',
     'feedback.help.courses': 'Kurse',
-    'feedback.help.videos': 'Video-Tutorials',
+    'feedback.help.videoTutorials': 'Video-Tutorials',
     'feedback.help.featuredArticles': 'Ausgewählte Artikel',
     'feedback.help.featuredCourses': 'Ausgewählte Kurse',
     'feedback.help.featuredVideos': 'Ausgewählte Videos',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Keine besonderen Artikel ausgewählt.',
     'feedback.help.noArticles': 'Keine Artikel in dieser Kategorie.',
     'feedback.help.noVideos': 'Keine Videos',
-    'feedback.help.noCourse': 'Keine Kurse'
+    'feedback.help.noCourse': 'Keine Kurse',
+    'feedback.help.videos': 'Hilfe Videos',
+    'feedback.help.noFeaturedVideos': 'Noch keine vorgestellten Videos verfügbar.',
+    'feedback.help.selectFeaturedVideos': 'Ausgewählte Videos',
+    'feedback.help.featuredVideosDescription': 'Diese Videos werden in einem Slider auf der Kategorieseite angezeigt. Für eine optimale Darstellung sollten die Videos eine Miniaturansicht haben.',
+    'feedback.help.backToCategory': 'Zurück zu Kategorie',
+    'feedback.help.watchVideo': 'Video ansehen'
 };
