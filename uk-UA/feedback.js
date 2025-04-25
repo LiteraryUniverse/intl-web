@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Додати до обраного',
     'feedback.help.removeFeatured': 'Видалити з вибраного',
     'feedback.help.noFeaturedArticles': 'Не вибрано жодної статті.',
-    'feedback.help.noArticles': 'У цій категорії немає статей.'
+    'feedback.help.noArticles': 'У цій категорії немає статей.',
+    'feedback.help.noVideos': 'Немає відео',
+    'feedback.help.noCourse': 'Немає курсів'
 };
