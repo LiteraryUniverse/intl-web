@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': '概要',
     'feedback.help.articles': '記事',
     'feedback.help.courses': 'コース',
-    'feedback.help.videos': 'ビデオ・チュートリアル',
+    'feedback.help.videoTutorials': 'ビデオ・チュートリアル',
     'feedback.help.featuredArticles': '注目記事',
     'feedback.help.featuredCourses': 'おすすめコース',
     'feedback.help.featuredVideos': '特集ビデオ',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': '注目記事は選ばれていない。',
     'feedback.help.noArticles': 'このカテゴリーの記事はありません。',
     'feedback.help.noVideos': 'ビデオなし',
-    'feedback.help.noCourse': 'コースなし'
+    'feedback.help.noCourse': 'コースなし',
+    'feedback.help.videos': 'ヘルプビデオ',
+    'feedback.help.noFeaturedVideos': '特集ビデオはまだありません。',
+    'feedback.help.selectFeaturedVideos': '特集ビデオを選ぶ',
+    'feedback.help.featuredVideosDescription': 'これらの動画はカテゴリーページのスライダーで表示されます。動画にはサムネイルを付けてください。',
+    'feedback.help.backToCategory': 'カテゴリーに戻る',
+    'feedback.help.watchVideo': 'ビデオを見る'
 };
