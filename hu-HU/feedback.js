@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Hozzáadás a featured',
     'feedback.help.removeFeatured': 'Eltávolítani a featured listáról',
     'feedback.help.noFeaturedArticles': 'Nincs kiválasztott kiemelt cikk.',
-    'feedback.help.noArticles': 'Nincs cikk ebben a kategóriában.'
+    'feedback.help.noArticles': 'Nincs cikk ebben a kategóriában.',
+    'feedback.help.noVideos': 'Nincsenek videók',
+    'feedback.help.noCourse': 'Nincsenek tanfolyamok'
 };
