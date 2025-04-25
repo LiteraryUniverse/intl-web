@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Áttekintés',
     'feedback.help.articles': 'Cikkek',
     'feedback.help.courses': 'Tanfolyamok',
-    'feedback.help.videos': 'Videó oktatóvideók',
+    'feedback.help.videoTutorials': 'Videó oktatóvideók',
     'feedback.help.featuredArticles': 'Kiemelt cikkek',
     'feedback.help.featuredCourses': 'Kiemelt tanfolyamok',
     'feedback.help.featuredVideos': 'Kiemelt videók',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Nincs kiválasztott kiemelt cikk.',
     'feedback.help.noArticles': 'Nincs cikk ebben a kategóriában.',
     'feedback.help.noVideos': 'Nincsenek videók',
-    'feedback.help.noCourse': 'Nincsenek tanfolyamok'
+    'feedback.help.noCourse': 'Nincsenek tanfolyamok',
+    'feedback.help.videos': 'Súgó videók',
+    'feedback.help.noFeaturedVideos': 'Még nincsenek elérhető videók.',
+    'feedback.help.selectFeaturedVideos': 'Kiemelt videók kiválasztása',
+    'feedback.help.featuredVideosDescription': 'Ezek a videók egy csúszkában jelennek meg a kategóriaoldalon. A videóknak a legjobb megjelenés érdekében miniatűrrel kell rendelkezniük.',
+    'feedback.help.backToCategory': 'Vissza a kategóriába',
+    'feedback.help.watchVideo': 'Videó megtekintése'
 };
