@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Tambahkan ke unggulan',
     'feedback.help.removeFeatured': 'Hapus dari fitur',
     'feedback.help.noFeaturedArticles': 'Tidak ada artikel unggulan yang dipilih.',
-    'feedback.help.noArticles': 'Tidak ada artikel dalam kategori ini.'
+    'feedback.help.noArticles': 'Tidak ada artikel dalam kategori ini.',
+    'feedback.help.noVideos': 'Tidak ada video',
+    'feedback.help.noCourse': 'Tidak ada kursus'
 };
