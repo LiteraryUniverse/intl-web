@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Genel Bakış',
     'feedback.help.articles': 'Makaleler',
     'feedback.help.courses': 'Kurslar',
-    'feedback.help.videos': 'Video eğitimleri',
+    'feedback.help.videoTutorials': 'Video eğitimleri',
     'feedback.help.featuredArticles': 'Öne Çıkan Makaleler',
     'feedback.help.featuredCourses': 'Öne Çıkan Kurslar',
     'feedback.help.featuredVideos': 'Öne Çıkan Videolar',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Seçkin makale seçilmemiştir.',
     'feedback.help.noArticles': 'Bu kategoride makale yok.',
     'feedback.help.noVideos': 'Video yok',
-    'feedback.help.noCourse': 'Kurs yok'
+    'feedback.help.noCourse': 'Kurs yok',
+    'feedback.help.videos': 'Yardım Videoları',
+    'feedback.help.noFeaturedVideos': 'Henüz öne çıkan video yok.',
+    'feedback.help.selectFeaturedVideos': 'Öne çıkan videoları seçin',
+    'feedback.help.featuredVideosDescription': 'Bu videolar kategori sayfasında bir kaydırıcıda görüntülenecektir. En iyi görünüm için videoların bir küçük resmi olmalıdır.',
+    'feedback.help.backToCategory': 'Kategoriye geri dön',
+    'feedback.help.watchVideo': 'Videoyu izleyin'
 };
