@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Přehled',
     'feedback.help.articles': 'Články',
     'feedback.help.courses': 'Kurzy',
-    'feedback.help.videos': 'Videonávody',
+    'feedback.help.videoTutorials': 'Videonávody',
     'feedback.help.featuredArticles': 'Doporučené články',
     'feedback.help.featuredCourses': 'Doporučené kurzy',
     'feedback.help.featuredVideos': 'Doporučená videa',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Nebyly vybrány žádné doporučené články.',
     'feedback.help.noArticles': 'V této kategorii nejsou žádné články.',
     'feedback.help.noVideos': 'Žádná videa',
-    'feedback.help.noCourse': 'Žádné kurzy'
+    'feedback.help.noCourse': 'Žádné kurzy',
+    'feedback.help.videos': 'Nápověda Videa',
+    'feedback.help.noFeaturedVideos': 'Zatím nejsou k dispozici žádná doporučená videa.',
+    'feedback.help.selectFeaturedVideos': 'Vyberte doporučená videa',
+    'feedback.help.featuredVideosDescription': 'Tato videa se zobrazí v posuvníku na stránce kategorie. Videa by měla mít miniaturu, aby vypadala co nejlépe.',
+    'feedback.help.backToCategory': 'Zpět na kategorii',
+    'feedback.help.watchVideo': 'Podívejte se na video'
 };
