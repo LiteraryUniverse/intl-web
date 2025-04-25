@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Översikt',
     'feedback.help.articles': 'Artiklar',
     'feedback.help.courses': 'Kurser',
-    'feedback.help.videos': 'Videohandledning',
+    'feedback.help.videoTutorials': 'Videohandledning',
     'feedback.help.featuredArticles': 'Utvalda artiklar',
     'feedback.help.featuredCourses': 'Utvalda kurser',
     'feedback.help.featuredVideos': 'Utvalda videor',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Inga utvalda artiklar.',
     'feedback.help.noArticles': 'Inga artiklar i denna kategori.',
     'feedback.help.noVideos': 'Inga videor',
-    'feedback.help.noCourse': 'Inga kurser'
+    'feedback.help.noCourse': 'Inga kurser',
+    'feedback.help.videos': 'Hjälpvideor',
+    'feedback.help.noFeaturedVideos': 'Inga utvalda videor tillgängliga ännu.',
+    'feedback.help.selectFeaturedVideos': 'Välj utvalda videor',
+    'feedback.help.featuredVideosDescription': 'Dessa videor kommer att visas i en slider på kategorisidan. Videor bör ha en miniatyrbild för bästa utseende.',
+    'feedback.help.backToCategory': 'Tillbaka till kategori',
+    'feedback.help.watchVideo': 'Titta på video'
 };
