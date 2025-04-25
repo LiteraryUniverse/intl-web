@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Lägg till i utvalda',
     'feedback.help.removeFeatured': 'Ta bort från listan',
     'feedback.help.noFeaturedArticles': 'Inga utvalda artiklar.',
-    'feedback.help.noArticles': 'Inga artiklar i denna kategori.'
+    'feedback.help.noArticles': 'Inga artiklar i denna kategori.',
+    'feedback.help.noVideos': 'Inga videor',
+    'feedback.help.noCourse': 'Inga kurser'
 };
