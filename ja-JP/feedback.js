@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': '特集に追加',
     'feedback.help.removeFeatured': '特集から外す',
     'feedback.help.noFeaturedArticles': '注目記事は選ばれていない。',
-    'feedback.help.noArticles': 'このカテゴリーの記事はありません。'
+    'feedback.help.noArticles': 'このカテゴリーの記事はありません。',
+    'feedback.help.noVideos': 'ビデオなし',
+    'feedback.help.noCourse': 'コースなし'
 };
