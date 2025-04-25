@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Przegląd',
     'feedback.help.articles': 'Artykuły',
     'feedback.help.courses': 'Kursy',
-    'feedback.help.videos': 'Samouczki wideo',
+    'feedback.help.videoTutorials': 'Samouczki wideo',
     'feedback.help.featuredArticles': 'Polecane artykuły',
     'feedback.help.featuredCourses': 'Polecane kursy',
     'feedback.help.featuredVideos': 'Polecane filmy',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Nie wybrano wyróżnionych artykułów.',
     'feedback.help.noArticles': 'Brak artykułów w tej kategorii.',
     'feedback.help.noVideos': 'Brak filmów',
-    'feedback.help.noCourse': 'Brak kursów'
+    'feedback.help.noCourse': 'Brak kursów',
+    'feedback.help.videos': 'Pomoc wideo',
+    'feedback.help.noFeaturedVideos': 'Nie ma jeszcze dostępnych polecanych filmów.',
+    'feedback.help.selectFeaturedVideos': 'Proszę wybrać polecane filmy',
+    'feedback.help.featuredVideosDescription': 'Filmy te będą wyświetlane w suwaku na stronie kategorii. Aby filmy wyglądały jak najlepiej, powinny mieć miniaturę.',
+    'feedback.help.backToCategory': 'Powrót do kategorii',
+    'feedback.help.watchVideo': 'Proszę obejrzeć wideo'
 };
