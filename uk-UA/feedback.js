@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Огляд',
     'feedback.help.articles': 'Статті',
     'feedback.help.courses': 'Курси',
-    'feedback.help.videos': 'Відеоуроки',
+    'feedback.help.videoTutorials': 'Відеоуроки',
     'feedback.help.featuredArticles': 'Вибрані статті',
     'feedback.help.featuredCourses': 'Рекомендовані курси',
     'feedback.help.featuredVideos': 'Вибране відео',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Не вибрано жодної статті.',
     'feedback.help.noArticles': 'У цій категорії немає статей.',
     'feedback.help.noVideos': 'Немає відео',
-    'feedback.help.noCourse': 'Немає курсів'
+    'feedback.help.noCourse': 'Немає курсів',
+    'feedback.help.videos': 'Довідкові відео',
+    'feedback.help.noFeaturedVideos': 'Поки що немає жодного відео.',
+    'feedback.help.selectFeaturedVideos': 'Виберіть вибрані відео',
+    'feedback.help.featuredVideosDescription': 'Ці відео будуть відображатися у вигляді слайдера на сторінці категорії. Відео повинні мати мініатюру для кращого вигляду.',
+    'feedback.help.backToCategory': 'Повернутися до категорії',
+    'feedback.help.watchVideo': 'Переглянути відео'
 };
