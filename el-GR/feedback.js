@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Επισκόπηση',
     'feedback.help.articles': 'Άρθρα',
     'feedback.help.courses': 'Μαθήματα',
-    'feedback.help.videos': 'Εκπαιδευτικά βίντεο',
+    'feedback.help.videoTutorials': 'Εκπαιδευτικά βίντεο',
     'feedback.help.featuredArticles': 'Προτεινόμενα άρθρα',
     'feedback.help.featuredCourses': 'Προτεινόμενα μαθήματα',
     'feedback.help.featuredVideos': 'Προτεινόμενα βίντεο',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Δεν έχουν επιλεγεί επιλεγμένα άρθρα.',
     'feedback.help.noArticles': 'Δεν υπάρχουν άρθρα σε αυτή την κατηγορία.',
     'feedback.help.noVideos': 'Δεν υπάρχουν βίντεο',
-    'feedback.help.noCourse': 'Δεν υπάρχουν μαθήματα'
+    'feedback.help.noCourse': 'Δεν υπάρχουν μαθήματα',
+    'feedback.help.videos': 'Βίντεο βοήθειας',
+    'feedback.help.noFeaturedVideos': 'Δεν υπάρχουν διαθέσιμα βίντεο ακόμα.',
+    'feedback.help.selectFeaturedVideos': 'Επιλέξτε βίντεο που εμφανίζονται',
+    'feedback.help.featuredVideosDescription': 'Αυτά τα βίντεο θα εμφανίζονται σε ένα slider στη σελίδα της κατηγορίας. Τα βίντεο θα πρέπει να έχουν μια μικρογραφία για καλύτερη εμφάνιση.',
+    'feedback.help.backToCategory': 'Επιστροφή στην κατηγορία',
+    'feedback.help.watchVideo': 'Παρακολουθήστε το βίντεο'
 };
