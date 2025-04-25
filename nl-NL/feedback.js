@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Toevoegen aan uitgelicht',
     'feedback.help.removeFeatured': 'Verwijderen uit uitgelicht',
     'feedback.help.noFeaturedArticles': 'Geen uitgelichte artikelen geselecteerd.',
-    'feedback.help.noArticles': 'Geen artikelen in deze categorie.'
+    'feedback.help.noArticles': 'Geen artikelen in deze categorie.',
+    'feedback.help.noVideos': 'Geen video\'s',
+    'feedback.help.noCourse': 'Geen cursussen'
 };
