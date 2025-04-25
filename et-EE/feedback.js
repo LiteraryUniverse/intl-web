@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Ülevaade',
     'feedback.help.articles': 'Artiklid',
     'feedback.help.courses': 'Kursused',
-    'feedback.help.videos': 'Videoõpetused',
+    'feedback.help.videoTutorials': 'Videoõpetused',
     'feedback.help.featuredArticles': 'Esile tõstetud artiklid',
     'feedback.help.featuredCourses': 'Soovitatavad kursused',
     'feedback.help.featuredVideos': 'Esile tõstetud videod',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Ei ole valitud ühtegi eelistatud artiklit.',
     'feedback.help.noArticles': 'Selles kategoorias ei ole artikleid.',
     'feedback.help.noVideos': 'Videod puuduvad',
-    'feedback.help.noCourse': 'Ei ole kursusi'
+    'feedback.help.noCourse': 'Ei ole kursusi',
+    'feedback.help.videos': 'Abi videod',
+    'feedback.help.noFeaturedVideos': 'Objekteeritud videod pole veel saadaval.',
+    'feedback.help.selectFeaturedVideos': 'Valige eelistatud videod',
+    'feedback.help.featuredVideosDescription': 'Need videod kuvatakse liugurina kategooria lehel. Parima väljanägemise tagamiseks peaks videotel olema pisipilt.',
+    'feedback.help.backToCategory': 'Tagasi kategooriasse',
+    'feedback.help.watchVideo': 'Vaata videot'
 };
