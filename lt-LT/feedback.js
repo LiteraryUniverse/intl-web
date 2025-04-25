@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Pridėti prie siūlomų',
     'feedback.help.removeFeatured': 'Pašalinti iš rodomų',
     'feedback.help.noFeaturedArticles': 'Nėra atrinktų teminių straipsnių.',
-    'feedback.help.noArticles': 'Šioje kategorijoje nėra straipsnių.'
+    'feedback.help.noArticles': 'Šioje kategorijoje nėra straipsnių.',
+    'feedback.help.noVideos': 'Vaizdo įrašų nėra',
+    'feedback.help.noCourse': 'Nėra kursų'
 };
