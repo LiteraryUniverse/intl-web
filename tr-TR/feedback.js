@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Öne çıkanlara ekle',
     'feedback.help.removeFeatured': 'Öne çıkanlardan kaldır',
     'feedback.help.noFeaturedArticles': 'Seçkin makale seçilmemiştir.',
-    'feedback.help.noArticles': 'Bu kategoride makale yok.'
+    'feedback.help.noArticles': 'Bu kategoride makale yok.',
+    'feedback.help.noVideos': 'Video yok',
+    'feedback.help.noCourse': 'Kurs yok'
 };
