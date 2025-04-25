@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Apžvalga',
     'feedback.help.articles': 'Straipsniai',
     'feedback.help.courses': 'Kursai',
-    'feedback.help.videos': 'Vaizdo pamokos',
+    'feedback.help.videoTutorials': 'Vaizdo pamokos',
     'feedback.help.featuredArticles': 'Rekomenduojami straipsniai',
     'feedback.help.featuredCourses': 'Rekomenduojami kursai',
     'feedback.help.featuredVideos': 'Rekomenduojami vaizdo įrašai',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Nėra atrinktų teminių straipsnių.',
     'feedback.help.noArticles': 'Šioje kategorijoje nėra straipsnių.',
     'feedback.help.noVideos': 'Vaizdo įrašų nėra',
-    'feedback.help.noCourse': 'Nėra kursų'
+    'feedback.help.noCourse': 'Nėra kursų',
+    'feedback.help.videos': 'Pagalbos vaizdo įrašai',
+    'feedback.help.noFeaturedVideos': 'Kol kas nėra jokių rodomų vaizdo įrašų.',
+    'feedback.help.selectFeaturedVideos': 'Pasirinkite rodomus vaizdo įrašus',
+    'feedback.help.featuredVideosDescription': 'Šie vaizdo įrašai bus rodomi kategorijos puslapyje esančiame slankiklyje. Kad vaizdo įrašai atrodytų geriausiai, jie turėtų turėti miniatiūrą.',
+    'feedback.help.backToCategory': 'Atgal į kategoriją',
+    'feedback.help.watchVideo': 'Žiūrėti vaizdo įrašą'
 };
