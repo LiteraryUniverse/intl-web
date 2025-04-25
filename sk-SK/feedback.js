@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Pridať do zoznamu odporúčaných produktov',
     'feedback.help.removeFeatured': 'Odstrániť z odporúčaných',
     'feedback.help.noFeaturedArticles': 'Žiadne vybrané odporúčané články.',
-    'feedback.help.noArticles': 'V tejto kategórii nie sú žiadne články.'
+    'feedback.help.noArticles': 'V tejto kategórii nie sú žiadne články.',
+    'feedback.help.noVideos': 'Žiadne videá',
+    'feedback.help.noCourse': 'Žiadne kurzy'
 };
