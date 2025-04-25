@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Adaugă la featured',
     'feedback.help.removeFeatured': 'Îndepărtați din featured',
     'feedback.help.noFeaturedArticles': 'Nu au fost selectate articole recomandate.',
-    'feedback.help.noArticles': 'Nu există articole în această categorie.'
+    'feedback.help.noArticles': 'Nu există articole în această categorie.',
+    'feedback.help.noVideos': 'Nu există videoclipuri',
+    'feedback.help.noCourse': 'Nu există cursuri'
 };
