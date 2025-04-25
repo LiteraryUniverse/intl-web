@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Prezentare generală',
     'feedback.help.articles': 'Articole',
     'feedback.help.courses': 'Cursuri',
-    'feedback.help.videos': 'Tutoriale video',
+    'feedback.help.videoTutorials': 'Tutoriale video',
     'feedback.help.featuredArticles': 'Articole recomandate',
     'feedback.help.featuredCourses': 'Cursuri recomandate',
     'feedback.help.featuredVideos': 'Videoclipuri recomandate',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Nu au fost selectate articole recomandate.',
     'feedback.help.noArticles': 'Nu există articole în această categorie.',
     'feedback.help.noVideos': 'Nu există videoclipuri',
-    'feedback.help.noCourse': 'Nu există cursuri'
+    'feedback.help.noCourse': 'Nu există cursuri',
+    'feedback.help.videos': 'Videoclipuri de ajutor',
+    'feedback.help.noFeaturedVideos': 'Încă nu sunt disponibile videoclipuri prezentate.',
+    'feedback.help.selectFeaturedVideos': 'Selectați videoclipuri recomandate',
+    'feedback.help.featuredVideosDescription': 'Aceste videoclipuri vor fi afișate într-un slider pe pagina categoriei. Videoclipurile ar trebui să aibă o miniatură pentru un aspect optim.',
+    'feedback.help.backToCategory': 'Înapoi la categorie',
+    'feedback.help.watchVideo': 'Urmărește videoclipul'
 };
