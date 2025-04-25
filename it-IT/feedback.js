@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Aggiungi alla lista dei preferiti',
     'feedback.help.removeFeatured': 'Rimuovi dalla rubrica',
     'feedback.help.noFeaturedArticles': 'Non sono stati selezionati articoli in evidenza.',
-    'feedback.help.noArticles': 'Non ci sono articoli in questa categoria.'
+    'feedback.help.noArticles': 'Non ci sono articoli in questa categoria.',
+    'feedback.help.noVideos': 'Nessun video',
+    'feedback.help.noCourse': 'Nessun corso'
 };
