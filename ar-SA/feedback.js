@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'لمحة عامة',
     'feedback.help.articles': 'المقالات',
     'feedback.help.courses': 'الدورات التدريبية',
-    'feedback.help.videos': 'فيديوهات تعليمية',
+    'feedback.help.videoTutorials': 'فيديوهات تعليمية',
     'feedback.help.featuredArticles': 'مقالات مميزة',
     'feedback.help.featuredCourses': 'الدورات التدريبية المميزة',
     'feedback.help.featuredVideos': 'فيديوهات مميزة',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'لم يتم اختيار أي مقالات مميزة.',
     'feedback.help.noArticles': 'لا توجد مقالات في هذه الفئة.',
     'feedback.help.noVideos': 'لا توجد فيديوهات',
-    'feedback.help.noCourse': 'لا توجد دورات'
+    'feedback.help.noCourse': 'لا توجد دورات',
+    'feedback.help.videos': 'فيديوهات المساعدة',
+    'feedback.help.noFeaturedVideos': 'لا توجد مقاطع فيديو مميزة متاحة حتى الآن.',
+    'feedback.help.selectFeaturedVideos': 'اختر مقاطع الفيديو المميزة',
+    'feedback.help.featuredVideosDescription': 'سيتم عرض مقاطع الفيديو هذه في شريط تمرير على صفحة الفئة. يجب أن تحتوي مقاطع الفيديو على صورة مصغرة للحصول على أفضل مظهر.',
+    'feedback.help.backToCategory': 'العودة إلى الفئة',
+    'feedback.help.watchVideo': 'شاهد الفيديو'
 };
