@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Tilføj til featured',
     'feedback.help.removeFeatured': 'Fjern fra featured',
     'feedback.help.noFeaturedArticles': 'Ingen udvalgte artikler.',
-    'feedback.help.noArticles': 'Ingen artikler i denne kategori.'
+    'feedback.help.noArticles': 'Ingen artikler i denne kategori.',
+    'feedback.help.noVideos': 'Ingen videoer',
+    'feedback.help.noCourse': 'Ingen kurser'
 };
