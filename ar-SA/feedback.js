@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'إضافة إلى المميزات',
     'feedback.help.removeFeatured': 'إزالة من المميز',
     'feedback.help.noFeaturedArticles': 'لم يتم اختيار أي مقالات مميزة.',
-    'feedback.help.noArticles': 'لا توجد مقالات في هذه الفئة.'
+    'feedback.help.noArticles': 'لا توجد مقالات في هذه الفئة.',
+    'feedback.help.noVideos': 'لا توجد فيديوهات',
+    'feedback.help.noCourse': 'لا توجد دورات'
 };
