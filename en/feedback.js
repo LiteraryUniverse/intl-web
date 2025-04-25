@@ -102,6 +102,6 @@ export default {
   'feedback.help.removeFeatured': 'Remove from featured',
   'feedback.help.noFeaturedArticles': 'No featured articles selected.',
   'feedback.help.noArticles': 'No articles in this category.',
+  'feedback.help.noVideos': 'No videos',
+  'feedback.help.noCourse': 'No courses',
 }
-	"feedback.help.noVideos": "No videos",
-	"feedback.help.noCourse": "No courses",
