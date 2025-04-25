@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Oversigt',
     'feedback.help.articles': 'Artikler',
     'feedback.help.courses': 'Kurser',
-    'feedback.help.videos': 'Video-tutorials',
+    'feedback.help.videoTutorials': 'Video-tutorials',
     'feedback.help.featuredArticles': 'Udvalgte artikler',
     'feedback.help.featuredCourses': 'Udvalgte kurser',
     'feedback.help.featuredVideos': 'Udvalgte videoer',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Ingen udvalgte artikler.',
     'feedback.help.noArticles': 'Ingen artikler i denne kategori.',
     'feedback.help.noVideos': 'Ingen videoer',
-    'feedback.help.noCourse': 'Ingen kurser'
+    'feedback.help.noCourse': 'Ingen kurser',
+    'feedback.help.videos': 'Hjælp til videoer',
+    'feedback.help.noFeaturedVideos': 'Ingen fremhævede videoer tilgængelige endnu.',
+    'feedback.help.selectFeaturedVideos': 'Vælg udvalgte videoer',
+    'feedback.help.featuredVideosDescription': 'Disse videoer vil blive vist i en slider på kategorisiden. Videoerne skal have en miniature for at blive vist bedst muligt.',
+    'feedback.help.backToCategory': 'Tilbage til kategori',
+    'feedback.help.watchVideo': 'Se video'
 };
