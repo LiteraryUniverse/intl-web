@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Zu Angeboten hinzufügen',
     'feedback.help.removeFeatured': 'Aus dem Angebot entfernen',
     'feedback.help.noFeaturedArticles': 'Keine besonderen Artikel ausgewählt.',
-    'feedback.help.noArticles': 'Keine Artikel in dieser Kategorie.'
+    'feedback.help.noArticles': 'Keine Artikel in dieser Kategorie.',
+    'feedback.help.noVideos': 'Keine Videos',
+    'feedback.help.noCourse': 'Keine Kurse'
 };
