@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Adicionar aos destaques',
     'feedback.help.removeFeatured': 'Remover dos destaques',
     'feedback.help.noFeaturedArticles': 'Não foram selecionados artigos em destaque.',
-    'feedback.help.noArticles': 'Não há artigos nesta categoria.'
+    'feedback.help.noArticles': 'Não há artigos nesta categoria.',
+    'feedback.help.noVideos': 'Sem vídeos',
+    'feedback.help.noCourse': 'Nenhum curso'
 };
