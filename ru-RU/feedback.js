@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Обзор',
     'feedback.help.articles': 'Статьи',
     'feedback.help.courses': 'Курсы',
-    'feedback.help.videos': 'Видеоуроки',
+    'feedback.help.videoTutorials': 'Видеоуроки',
     'feedback.help.featuredArticles': 'Популярные статьи',
     'feedback.help.featuredCourses': 'Популярные курсы',
     'feedback.help.featuredVideos': 'Популярные видео',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Не выбрано ни одной тематической статьи.',
     'feedback.help.noArticles': 'Нет статей в этой категории.',
     'feedback.help.noVideos': 'Нет видео',
-    'feedback.help.noCourse': 'Нет курсов'
+    'feedback.help.noCourse': 'Нет курсов',
+    'feedback.help.videos': 'Справочные видеоматериалы',
+    'feedback.help.noFeaturedVideos': 'Пока нет доступных видеороликов.',
+    'feedback.help.selectFeaturedVideos': 'Выберите тематические видео',
+    'feedback.help.featuredVideosDescription': 'Эти видео будут отображаться в слайдере на странице категории. Чтобы видео лучше смотрелось, оно должно иметь миниатюру.',
+    'feedback.help.backToCategory': 'Назад к категории',
+    'feedback.help.watchVideo': 'Смотреть видео'
 };
