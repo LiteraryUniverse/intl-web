@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Visión general',
     'feedback.help.articles': 'Artículos',
     'feedback.help.courses': 'Cursos',
-    'feedback.help.videos': 'Tutoriales en vídeo',
+    'feedback.help.videoTutorials': 'Tutoriales en vídeo',
     'feedback.help.featuredArticles': 'Artículos destacados',
     'feedback.help.featuredCourses': 'Cursos destacados',
     'feedback.help.featuredVideos': 'Vídeos destacados',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'No se han seleccionado artículos destacados.',
     'feedback.help.noArticles': 'No hay artículos en esta categoría.',
     'feedback.help.noVideos': 'Sin vídeos',
-    'feedback.help.noCourse': 'No hay cursos'
+    'feedback.help.noCourse': 'No hay cursos',
+    'feedback.help.videos': 'Vídeos de ayuda',
+    'feedback.help.noFeaturedVideos': 'Aún no hay vídeos destacados disponibles.',
+    'feedback.help.selectFeaturedVideos': 'Seleccionar vídeos destacados',
+    'feedback.help.featuredVideosDescription': 'Estos vídeos se mostrarán en un deslizador en la página de categoría. Los vídeos deben tener una miniatura para que se vean mejor.',
+    'feedback.help.backToCategory': 'Volver a la categoría',
+    'feedback.help.watchVideo': 'Ver el vídeo'
 };
