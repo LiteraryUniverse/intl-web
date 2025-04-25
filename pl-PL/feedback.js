@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Proszę dodać do polecanych',
     'feedback.help.removeFeatured': 'Proszę usunąć z listy polecanych',
     'feedback.help.noFeaturedArticles': 'Nie wybrano wyróżnionych artykułów.',
-    'feedback.help.noArticles': 'Brak artykułów w tej kategorii.'
+    'feedback.help.noArticles': 'Brak artykułów w tej kategorii.',
+    'feedback.help.noVideos': 'Brak filmów',
+    'feedback.help.noCourse': 'Brak kursów'
 };
