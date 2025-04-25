@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': '新增至精選',
     'feedback.help.removeFeatured': '從特色中移除',
     'feedback.help.noFeaturedArticles': '未選取專題文章。',
-    'feedback.help.noArticles': '此類別中沒有文章。'
+    'feedback.help.noArticles': '此類別中沒有文章。',
+    'feedback.help.noVideos': '沒有影片',
+    'feedback.help.noCourse': '沒有課程'
 };
