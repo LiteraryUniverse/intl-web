@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Yleiskatsaus',
     'feedback.help.articles': 'Artikkelit',
     'feedback.help.courses': 'Kurssit',
-    'feedback.help.videos': 'Video-oppaat',
+    'feedback.help.videoTutorials': 'Video-oppaat',
     'feedback.help.featuredArticles': 'Suositeltavat artikkelit',
     'feedback.help.featuredCourses': 'Valitut kurssit',
     'feedback.help.featuredVideos': 'Esillä olevat videot',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Ei valittuja artikkeleita.',
     'feedback.help.noArticles': 'Ei artikkeleita tässä kategoriassa.',
     'feedback.help.noVideos': 'Ei videoita',
-    'feedback.help.noCourse': 'Ei kursseja'
+    'feedback.help.noCourse': 'Ei kursseja',
+    'feedback.help.videos': 'Apuvideot',
+    'feedback.help.noFeaturedVideos': 'Esittelyvideoita ei ole vielä saatavilla.',
+    'feedback.help.selectFeaturedVideos': 'Valitse esillä olevat videot',
+    'feedback.help.featuredVideosDescription': 'Nämä videot näytetään liukusäätimessä kategoriasivulla. Videoilla tulisi olla pikkukuva, jotta ne näkyisivät parhaiten.',
+    'feedback.help.backToCategory': 'Takaisin luokkaan',
+    'feedback.help.watchVideo': 'Katso video'
 };
