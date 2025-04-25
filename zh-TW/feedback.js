@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': '概述',
     'feedback.help.articles': '文章',
     'feedback.help.courses': '課程',
-    'feedback.help.videos': '視訊教學',
+    'feedback.help.videoTutorials': '視訊教學',
     'feedback.help.featuredArticles': '精選文章',
     'feedback.help.featuredCourses': '精選課程',
     'feedback.help.featuredVideos': '精選影片',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': '未選取專題文章。',
     'feedback.help.noArticles': '此類別中沒有文章。',
     'feedback.help.noVideos': '沒有影片',
-    'feedback.help.noCourse': '沒有課程'
+    'feedback.help.noCourse': '沒有課程',
+    'feedback.help.videos': '說明影片',
+    'feedback.help.noFeaturedVideos': '尚未提供特色影片。',
+    'feedback.help.selectFeaturedVideos': '選擇特色影片',
+    'feedback.help.featuredVideosDescription': '這些影片將顯示在類別頁面的滑桿中。影片應有縮圖，以達到最佳外觀。',
+    'feedback.help.backToCategory': '回到類別',
+    'feedback.help.watchVideo': '觀看影片'
 };
