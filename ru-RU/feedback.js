@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Добавить в избранное',
     'feedback.help.removeFeatured': 'Удалить из списка избранных',
     'feedback.help.noFeaturedArticles': 'Не выбрано ни одной тематической статьи.',
-    'feedback.help.noArticles': 'Нет статей в этой категории.'
+    'feedback.help.noArticles': 'Нет статей в этой категории.',
+    'feedback.help.noVideos': 'Нет видео',
+    'feedback.help.noCourse': 'Нет курсов'
 };
