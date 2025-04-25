@@ -92,5 +92,7 @@ export default {
     'feedback.help.addFeatured': 'Lisada eelistatud',
     'feedback.help.removeFeatured': 'Eemalda eelistatud',
     'feedback.help.noFeaturedArticles': 'Ei ole valitud ühtegi eelistatud artiklit.',
-    'feedback.help.noArticles': 'Selles kategoorias ei ole artikleid.'
+    'feedback.help.noArticles': 'Selles kategoorias ei ole artikleid.',
+    'feedback.help.noVideos': 'Videod puuduvad',
+    'feedback.help.noCourse': 'Ei ole kursusi'
 };
