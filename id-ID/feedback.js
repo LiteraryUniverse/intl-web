@@ -58,7 +58,7 @@ export default {
     'feedback.help.overview': 'Ikhtisar',
     'feedback.help.articles': 'Artikel',
     'feedback.help.courses': 'Kursus',
-    'feedback.help.videos': 'Video tutorial',
+    'feedback.help.videoTutorials': 'Video tutorial',
     'feedback.help.featuredArticles': 'Artikel Pilihan',
     'feedback.help.featuredCourses': 'Kursus Unggulan',
     'feedback.help.featuredVideos': 'Video Pilihan',
@@ -94,5 +94,11 @@ export default {
     'feedback.help.noFeaturedArticles': 'Tidak ada artikel unggulan yang dipilih.',
     'feedback.help.noArticles': 'Tidak ada artikel dalam kategori ini.',
     'feedback.help.noVideos': 'Tidak ada video',
-    'feedback.help.noCourse': 'Tidak ada kursus'
+    'feedback.help.noCourse': 'Tidak ada kursus',
+    'feedback.help.videos': 'Video Bantuan',
+    'feedback.help.noFeaturedVideos': 'Belum ada video unggulan yang tersedia.',
+    'feedback.help.selectFeaturedVideos': 'Memilih video unggulan',
+    'feedback.help.featuredVideosDescription': 'Video-video ini akan ditampilkan dalam sebuah slider di halaman kategori. Video harus memiliki gambar mini untuk tampilan terbaik.',
+    'feedback.help.backToCategory': 'Kembali ke kategori',
+    'feedback.help.watchVideo': 'Tonton video'
 };
