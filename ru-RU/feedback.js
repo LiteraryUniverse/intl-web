@@ -98,7 +98,7 @@ export default {
     'feedback.help.videos': 'Справочные видеоматериалы',
     'feedback.help.noFeaturedVideos': 'Пока нет доступных видеороликов.',
     'feedback.help.selectFeaturedVideos': 'Выберите тематические видео',
-    'feedback.help.featuredVideosDescription': 'Эти видео будут отображаться в слайдере на странице категории. Чтобы видео лучше смотрелось, оно должно иметь миниатюру.',
+    'feedback.help.featuredVideosDescription': 'Эти видео будут отображаться в ползунке на странице категории. Чтобы видео лучше смотрелось, оно должно иметь миниатюру.',
     'feedback.help.backToCategory': 'Назад к категории',
     'feedback.help.watchVideo': 'Смотреть видео'
 };
