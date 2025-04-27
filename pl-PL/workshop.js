@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'Włączony {date, date}',
     'workshop.collaborators.removedInfo': 'Usunięto na {date, date}',
     'workshop.aiGeneratedAdjusted': 'Status generowania AI tej zawartości został dostosowany przez administratora w wyniku zgłoszenia użytkownika i nie można go zmienić.',
-    'workshop.theWay.authorProgress': 'Autor Postęp'
+    'workshop.theWay.authorProgress': 'Autor Postęp',
+    'workshop.universe.preventPublishing': 'Zapobieganie publikowaniu historii',
+    'workshop.universe.preventPublishingTooltip': 'Gdy ta opcja jest włączona, żadne historie z tego uniwersum nie mogą być publikowane. Jest to przydatne dla wszechświatów, które są nadal w fazie rozwoju lub dla wszechświatów przeznaczonych wyłącznie do użytku prywatnego.',
+    'workshop.story.preventPublishing': 'Zapobieganie publikowaniu',
+    'workshop.story.preventPublishingTooltip': 'Gdy ta opcja jest włączona, ta historia nie może zostać opublikowana. Jest to przydatne w przypadku historii, które są nadal w fazie rozwoju lub historii przeznaczonych wyłącznie do użytku prywatnego.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Publikacja jest uniemożliwiona, ponieważ wszechświat ma włączone ustawienie uniemożliwiania publikacji.',
+    'workshop.revisions.new.public.disabled': 'Nie można opublikować, gdy w ustawieniach fabuły włączona jest funkcja zapobiegania publikowaniu.',
+    'workshop.publishing.restricted': 'Ze względu na naruszenie zasad dobrego zachowania zablokowaliśmy możliwość publikowania przez Pana/Panią.',
+    'workshop.story.buyingSettings': 'Ustawienia sprzedaży'
 };

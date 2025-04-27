@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'Ο δρόμος του συγγραφέα',
     'common.password.hide': 'Απόκρυψη κωδικού πρόσβασης',
     'common.password.show': 'Εμφάνιση κωδικού πρόσβασης',
-    'common.forums': 'Φόρουμ'
+    'common.forums': 'Φόρουμ',
+    'common.restriction.goodConduct': 'Λόγω παραβίασης της καλής συμπεριφοράς έχουμε περιορίσει τη χρήση αυτής της λειτουργίας.'
 };

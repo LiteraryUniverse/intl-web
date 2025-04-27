@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'Left on {date, date}',
     'workshop.collaborators.removedInfo': 'Αφαιρέθηκε στις {date, date}',
     'workshop.aiGeneratedAdjusted': 'Η κατάσταση δημιουργίας AI αυτού του περιεχομένου έχει ρυθμιστεί, ως αποτέλεσμα μιας αναφοράς χρήστη, από έναν διαχειριστή και δεν μπορεί να αλλάξει.',
-    'workshop.theWay.authorProgress': 'Συγγραφέας Πρόοδος'
+    'workshop.theWay.authorProgress': 'Συγγραφέας Πρόοδος',
+    'workshop.universe.preventPublishing': 'Αποτροπή δημοσίευσης ιστοριών',
+    'workshop.universe.preventPublishingTooltip': 'Όταν είναι ενεργοποιημένη, δεν μπορούν να δημοσιευτούν ιστορίες σε αυτό το σύμπαν. Αυτό είναι χρήσιμο για σύμπαντα που βρίσκονται ακόμα σε εξέλιξη ή για σύμπαντα που προορίζονται μόνο για ιδιωτική χρήση.',
+    'workshop.story.preventPublishing': 'Αποτροπή δημοσίευσης',
+    'workshop.story.preventPublishingTooltip': 'Όταν είναι ενεργοποιημένη, αυτή η ιστορία δεν μπορεί να δημοσιευτεί. Αυτό είναι χρήσιμο για ιστορίες που βρίσκονται ακόμα σε εξέλιξη ή για ιστορίες που προορίζονται μόνο για ιδιωτική χρήση.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Η δημοσίευση αποτρέπεται επειδή το σύμπαν έχει ενεργοποιήσει τη ρύθμιση αποτροπής δημοσίευσης.',
+    'workshop.revisions.new.public.disabled': 'Δεν είναι δυνατή η δημοσίευση ενώ η αποτροπή δημοσίευσης είναι ενεργοποιημένη στις ρυθμίσεις της ιστορίας.',
+    'workshop.publishing.restricted': 'Λόγω παραβίασης της καλής συμπεριφοράς, απενεργοποιήσαμε τη δυνατότητά σας να δημοσιεύετε.',
+    'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης'
 };

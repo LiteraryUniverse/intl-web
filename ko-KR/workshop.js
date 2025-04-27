@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': '왼쪽 {date, date}',
     'workshop.collaborators.removedInfo': '삭제됨 {date, date}',
     'workshop.aiGeneratedAdjusted': '이 콘텐츠의 AI 생성 상태는 사용자 신고에 따라 관리자에 의해 조정되었으며 변경할 수 없습니다.',
-    'workshop.theWay.authorProgress': '저자 진행 상황'
+    'workshop.theWay.authorProgress': '저자 진행 상황',
+    'workshop.universe.preventPublishing': '스토리 게시 방지',
+    'workshop.universe.preventPublishingTooltip': '활성화하면 이 유니버스에서는 어떤 스토리도 게시할 수 없습니다. 아직 개발 중인 유니버스나 비공개 전용 유니버스에서 유용하게 사용할 수 있습니다.',
+    'workshop.story.preventPublishing': '게시 방지',
+    'workshop.story.preventPublishingTooltip': '이 옵션을 활성화하면 이 스토리를 게시할 수 없습니다. 아직 개발 중인 스토리나 비공개로만 사용할 수 있는 스토리에 유용합니다.',
+    'workshop.story.preventPublishingTooltipUniverse': '유니버스에서 게시 금지 설정이 활성화되어 있기 때문에 게시가 금지됩니다.',
+    'workshop.revisions.new.public.disabled': '스토리 설정에서 게시 금지가 활성화된 상태에서는 게시할 수 없습니다.',
+    'workshop.publishing.restricted': '윤리강령 위반으로 인해 귀하의 게시 기능이 비활성화되었습니다.',
+    'workshop.story.buyingSettings': '판매 설정'
 };

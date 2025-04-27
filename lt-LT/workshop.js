@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'Įjungta kairė {date, date}',
     'workshop.collaborators.removedInfo': 'Pašalinta iš {date, date}',
     'workshop.aiGeneratedAdjusted': 'Šio turinio AI generavimo būseną, gavęs naudotojo pranešimą, pakoregavo administratorius ir jos pakeisti negalima.',
-    'workshop.theWay.authorProgress': 'Autorius Progresas'
+    'workshop.theWay.authorProgress': 'Autorius Progresas',
+    'workshop.universe.preventPublishing': 'Užkirsti kelią istorijų skelbimui',
+    'workshop.universe.preventPublishingTooltip': 'Kai ši funkcija įjungta, šioje visatoje negalima skelbti jokių istorijų. Tai naudinga visatoms, kurios vis dar kuriamos, arba visatoms, kurios skirtos tik asmeniniam naudojimui.',
+    'workshop.story.preventPublishing': 'Užkirsti kelią leidybai',
+    'workshop.story.preventPublishingTooltip': 'Kai ši funkcija įjungta, šios istorijos negalima skelbti. Tai naudinga istorijoms, kurios vis dar kuriamos, arba istorijoms, kurios skirtos tik asmeniniam naudojimui.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Publikuoti neleidžiama, nes visatoje įjungtas nustatymas neleisti publikuoti.',
+    'workshop.revisions.new.public.disabled': 'Negalima publikuoti, kai istorijos nustatymuose įjungta funkcija neleisti publikuoti.',
+    'workshop.publishing.restricted': 'Dėl geros elgsenos pažeidimo atjungėme jūsų galimybę publikuoti.',
+    'workshop.story.buyingSettings': 'Pardavimo nustatymai'
 };

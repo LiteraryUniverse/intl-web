@@ -277,5 +277,6 @@ export default {
     'common.theWayOfTheAuthor': 'Cara Penulis',
     'common.password.hide': 'Sembunyikan Kata Sandi',
     'common.password.show': 'Tampilkan Kata Sandi',
-    'common.forums': 'Forum'
+    'common.forums': 'Forum',
+    'common.restriction.goodConduct': 'Karena pelanggaran tata tertib, kami telah membatasi penggunaan fitur ini.'
 };

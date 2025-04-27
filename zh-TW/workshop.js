@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': '左開 {date, date}',
     'workshop.collaborators.removedInfo': '於 {date, date}移除',
     'workshop.aiGeneratedAdjusted': '此內容的 AI 生成狀態已因使用者報告而由管理員調整，且無法變更。',
-    'workshop.theWay.authorProgress': '作者進度'
+    'workshop.theWay.authorProgress': '作者進度',
+    'workshop.universe.preventPublishing': '防止發表故事',
+    'workshop.universe.preventPublishingTooltip': '啟用後，此宇宙中的故事將無法發表。這對仍在開發中的宇宙或僅供私人使用的宇宙非常有用。',
+    'workshop.story.preventPublishing': '防止出版',
+    'workshop.story.preventPublishingTooltip': '啟用後，此故事將無法發表。這對仍在開發中的故事或僅供私人使用的故事非常有用。',
+    'workshop.story.preventPublishingTooltipUniverse': '由於宇宙已啟用防止發佈設定，因此無法發佈。',
+    'workshop.revisions.new.public.disabled': '在故事設定中啟用防止發佈時，無法發佈。',
+    'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。',
+    'workshop.story.buyingSettings': '銷售設定'
 };

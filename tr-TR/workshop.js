@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'Sol açık {date, date}',
     'workshop.collaborators.removedInfo': 'Kaldırıldı {date, date}',
     'workshop.aiGeneratedAdjusted': 'Bu içeriğin AI oluşturma durumu, bir kullanıcı raporunun sonucu olarak bir yönetici tarafından ayarlanmıştır ve değiştirilemez.',
-    'workshop.theWay.authorProgress': 'Yazar İlerleme'
+    'workshop.theWay.authorProgress': 'Yazar İlerleme',
+    'workshop.universe.preventPublishing': 'Hikayelerin yayınlanmasını önleyin',
+    'workshop.universe.preventPublishingTooltip': 'Etkinleştirildiğinde, bu evrendeki hiçbir hikaye yayınlanamaz. Bu, hala geliştirilmekte olan evrenler veya yalnızca özel kullanım amaçlı evrenler için kullanışlıdır.',
+    'workshop.story.preventPublishing': 'Yayınlamayı önleyin',
+    'workshop.story.preventPublishingTooltip': 'Etkinleştirildiğinde, bu hikaye yayınlanamaz. Bu, hala geliştirme aşamasında olan veya yalnızca özel kullanım amaçlı hikayeler için kullanışlıdır.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Evrende yayınlamayı engelle ayarı etkinleştirilmiş olduğundan yayınlama engellenir.',
+    'workshop.revisions.new.public.disabled': 'Öykü ayarlarında yayınlamayı engelle etkinleştirildiğinde yayınlanamıyor.',
+    'workshop.publishing.restricted': 'İyi hal ihlali nedeniyle yayınlama yeteneğinizi devre dışı bıraktık.',
+    'workshop.story.buyingSettings': 'Satış ayarları'
 };

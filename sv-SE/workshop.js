@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'Vänster på {date, date}',
     'workshop.collaborators.removedInfo': 'Borttagen på {date, date}',
     'workshop.aiGeneratedAdjusted': 'AI-generationsstatusen för detta innehåll har justerats, som ett resultat av en användarrapport, av en administratör och kan inte ändras.',
-    'workshop.theWay.authorProgress': 'Författarens framsteg'
+    'workshop.theWay.authorProgress': 'Författarens framsteg',
+    'workshop.universe.preventPublishing': 'Förhindra publicering av berättelser',
+    'workshop.universe.preventPublishingTooltip': 'När detta är aktiverat kan inga berättelser i det här universumet publiceras. Detta är användbart för universum som fortfarande är under utveckling eller för universum som endast är avsedda för privat bruk.',
+    'workshop.story.preventPublishing': 'Förhindra publicering',
+    'workshop.story.preventPublishingTooltip': 'När detta är aktiverat kan den här berättelsen inte publiceras. Detta är användbart för berättelser som fortfarande är under utveckling eller för berättelser som endast är avsedda för privat bruk.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Publicering förhindras eftersom universum har inställningen förhindra publicering aktiverad.',
+    'workshop.revisions.new.public.disabled': 'Det går inte att publicera när förhindra publicering är aktiverat i berättelsens inställningar.',
+    'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
+    'workshop.story.buyingSettings': 'Inställningar för försäljning'
 };

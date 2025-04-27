@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'يسار على {date, date}~',
     'workshop.collaborators.removedInfo': 'تمت الإزالة على {date, date}~',
     'workshop.aiGeneratedAdjusted': 'تم تعديل حالة توليد الذكاء الاصطناعي لهذا المحتوى، نتيجة لتقرير أحد المستخدمين، من قبل المسؤول ولا يمكن تغييرها.',
-    'workshop.theWay.authorProgress': 'تقدم المؤلف'
+    'workshop.theWay.authorProgress': 'تقدم المؤلف',
+    'workshop.universe.preventPublishing': 'منع نشر القصص',
+    'workshop.universe.preventPublishingTooltip': 'عند التمكين، لا يمكن نشر أي قصص في هذا الكون. هذا مفيد للأكوان التي لا تزال قيد التطوير أو للأكوان المخصصة للاستخدام الخاص فقط.',
+    'workshop.story.preventPublishing': 'منع النشر',
+    'workshop.story.preventPublishingTooltip': 'عند التمكين، لا يمكن نشر هذه القصة. هذا مفيد للقصص التي لا تزال قيد التطوير أو للقصص المخصصة للاستخدام الخاص فقط.',
+    'workshop.story.preventPublishingTooltipUniverse': 'تم منع النشر بسبب تمكين إعداد منع النشر في الكون.',
+    'workshop.revisions.new.public.disabled': 'لا يمكن النشر أثناء تمكين منع النشر في إعدادات القصة.',
+    'workshop.publishing.restricted': 'بسبب مخالفة حسن السيرة والسلوك قمنا بتعطيل قدرتك على النشر.',
+    'workshop.story.buyingSettings': 'إعدادات البيع'
 };

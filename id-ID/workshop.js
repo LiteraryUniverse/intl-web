@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'Kiri pada {date, date}',
     'workshop.collaborators.removedInfo': 'Dihapus di {date, date}',
     'workshop.aiGeneratedAdjusted': 'Status pembuatan AI dari konten ini telah disesuaikan, sebagai hasil dari laporan pengguna, oleh administrator dan tidak dapat diubah.',
-    'workshop.theWay.authorProgress': 'Kemajuan Penulis'
+    'workshop.theWay.authorProgress': 'Kemajuan Penulis',
+    'workshop.universe.preventPublishing': 'Mencegah penerbitan cerita',
+    'workshop.universe.preventPublishingTooltip': 'Ketika diaktifkan, tidak ada cerita di alam semesta ini yang dapat dipublikasikan. Ini berguna untuk semesta yang masih dalam pengembangan atau untuk semesta yang dimaksudkan untuk penggunaan pribadi saja.',
+    'workshop.story.preventPublishing': 'Mencegah penerbitan',
+    'workshop.story.preventPublishingTooltip': 'Ketika diaktifkan, cerita ini tidak dapat dipublikasikan. Ini berguna untuk cerita yang masih dalam pengembangan atau untuk cerita yang dimaksudkan hanya untuk penggunaan pribadi.',
+    'workshop.story.preventPublishingTooltipUniverse': 'Penerbitan dicegah karena alam semesta mengaktifkan pengaturan cegah penerbitan.',
+    'workshop.revisions.new.public.disabled': 'Tidak dapat menerbitkan saat mencegah penerbitan diaktifkan di pengaturan cerita.',
+    'workshop.publishing.restricted': 'Karena pelanggaran tata tertib, kami telah menonaktifkan kemampuan Anda untuk mempublikasikan.',
+    'workshop.story.buyingSettings': 'Pengaturan penjualan'
 };

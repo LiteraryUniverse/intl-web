@@ -294,5 +294,13 @@ export default {
     'workshop.collaborators.leftInfo': 'A gauche sur {date, date}',
     'workshop.collaborators.removedInfo': 'Supprimé le {date, date}',
     'workshop.aiGeneratedAdjusted': 'Le statut de génération d\'IA de ce contenu a été ajusté, suite à un rapport d\'utilisateur, par un administrateur et ne peut pas être modifié.',
-    'workshop.theWay.authorProgress': 'Progrès de l\'auteur'
+    'workshop.theWay.authorProgress': 'Progrès de l\'auteur',
+    'workshop.universe.preventPublishing': 'Empêcher la publication d\'histoires',
+    'workshop.universe.preventPublishingTooltip': 'Lorsque cette option est activée, aucune histoire de cet univers ne peut être publiée. Cette fonction est utile pour les univers qui sont encore en cours de développement ou pour les univers destinés à un usage privé.',
+    'workshop.story.preventPublishing': 'Empêcher la publication',
+    'workshop.story.preventPublishingTooltip': 'Lorsque cette option est activée, cette histoire ne peut pas être publiée. Cette option est utile pour les articles qui sont encore en cours de développement ou pour les articles destinés à un usage privé.',
+    'workshop.story.preventPublishingTooltipUniverse': 'La publication est empêchée parce que le paramètre "empêcher la publication" est activé dans l\'univers.',
+    'workshop.revisions.new.public.disabled': 'Impossible de publier si l\'option empêcher la publication est activée dans les paramètres de l\'article.',
+    'workshop.publishing.restricted': 'En raison d\'une violation des règles de bonne conduite, nous avons désactivé votre capacité à publier.',
+    'workshop.story.buyingSettings': 'Paramètres de vente'
 };
