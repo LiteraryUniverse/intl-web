@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Альтернативный цвет фона абзаца',
     'settings.accessibility.paragraphHighlighting': 'Выделить текущий абзац, на который вы навели курсор',
     'settings.accessibility.ruler': 'Прикрепить линейку к мыши',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Рекомендации по сюжету',
+    'settings.storyRecommendations.explained': 'Включите персональные рекомендации по сюжетам во всем приложении на основе Ваших предпочтений и истории чтения.',
     'settings.tab.legal': 'Правовая информация',
     'settings.tab.exportDelete': 'Экспорт данных и удаление учётной записи',
     'settings.languages.uiLanguage': 'Язык интерфейса',
