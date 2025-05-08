@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'প্যারাগ্রাফে পরিবর্তিত রং ব্যবহার করুন',
     'settings.accessibility.paragraphHighlighting': 'আপনি যে প্যারাগ্রাফের উপর মাউস হোভ করছেন তা হাইলাইট করুন',
     'settings.accessibility.ruler': 'মাউসের সাথে একটি সর্তকতা যোগ করুন',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'আইনগত নথি',
     'settings.tab.exportDelete': 'ডেটা রপ্তানি করুন এবং অ্যাকাউন্ট মুছে ফেলুন',
     'settings.languages.uiLanguage': 'Interface language',
