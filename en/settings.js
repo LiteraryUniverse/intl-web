@@ -151,6 +151,10 @@ export default {
     'Highlight the current paragraph that you are hovering over',
   'settings.accessibility.ruler': 'Attach a ruler to the mouse',
 
+  // Story Recommendations
+  'settings.storyRecommendations.title': 'Story recommendations',
+  'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
+
   'settings.tab.legal': 'Legal documents',
   'settings.tab.exportDelete': 'Export data & delete account',
   'settings.languages.uiLanguage': 'Interface language',
