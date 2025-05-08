@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'పఠనంలో మార్పు రంగు వేసించు',
     'settings.accessibility.paragraphHighlighting': 'మీ ముందుకు ఉన్న పఠనంపై హైలైట్ చేయండి',
     'settings.accessibility.ruler': 'మౌస్‌కు ఒక రూలర్ జోడించు',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'కానూను పత్రాలు',
     'settings.tab.exportDelete': 'డేటాను ఎగుమతి చేయి & ఖాతాను తొలగించు',
     'settings.languages.uiLanguage': 'Interface language',
