@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternar na cor de fundo do parágrafo',
     'settings.accessibility.paragraphHighlighting': 'Destaque o parágrafo atual que que está a sobrevoar',
     'settings.accessibility.ruler': 'Anexe uma régua ao rato',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Recomendações de histórias',
+    'settings.storyRecommendations.explained': 'Active recomendações de histórias personalizadas em toda a aplicação com base nas suas preferências e histórico de leitura.',
     'settings.tab.legal': 'Documentos legais',
     'settings.tab.exportDelete': 'Exportar dados e excluir conta',
     'settings.languages.uiLanguage': 'Língua de interface',
