@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternar el color de fons en els paràgrafs',
     'settings.accessibility.paragraphHighlighting': 'Destacar el paràgraf actual en què estàs passant el cursor',
     'settings.accessibility.ruler': 'Adjuntar una regla al ratolí',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Documents legals',
     'settings.tab.exportDelete': 'Exportar dades i eliminar compte',
     'settings.languages.uiLanguage': 'Interface language',
