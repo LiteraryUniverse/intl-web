@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Εναλλακτικό χρώμα φόντου στο παράγραφο',
     'settings.accessibility.paragraphHighlighting': 'Επισήμανση της τρέχουσας παραγράφου πάνω στην οποία κάνετε κατάδειξη',
     'settings.accessibility.ruler': 'Επισύναψη χάρακα στο ποντίκι',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Συστάσεις για την ιστορία',
+    'settings.storyRecommendations.explained': 'Ενεργοποιήστε εξατομικευμένες συστάσεις ιστοριών σε όλη την εφαρμογή με βάση τις αναγνωστικές σας προτιμήσεις και το ιστορικό σας.',
     'settings.tab.legal': 'Νομικά έγγραφα',
     'settings.tab.exportDelete': 'Εξαγωγή δεδομένων & διαγραφή λογαριασμού',
     'settings.languages.uiLanguage': 'Γλώσσα διεπαφής',
