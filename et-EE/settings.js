@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Vaheta lõigu taustavärvi',
     'settings.accessibility.paragraphHighlighting': 'Tõsta esile hetkel hiirega hõljuv lõik',
     'settings.accessibility.ruler': 'Kinnita joonlaud hiire külge',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Loo soovitused',
+    'settings.storyRecommendations.explained': 'Võimaldage kogu rakenduses isikupärastatud lugemissoovitused, mis põhinevad teie lugemissoovitustel ja -ajalool.',
     'settings.tab.legal': 'Õigusdokumendid',
     'settings.tab.exportDelete': 'Ekspordi andmed ja kustuta konto',
     'settings.languages.uiLanguage': 'Kasutajaliidese keel',
