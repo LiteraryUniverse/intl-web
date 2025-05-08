@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'പഠനത്തിന്റെ പക്ഷഭേദത്തിന് മാറ്റം നൽകുക',
     'settings.accessibility.paragraphHighlighting': 'നിങ്ങൾ അടുക്കൽ തിരക്കുന്ന നിലവിലെ പഠനം ഹൈലൈറ്റ് ചെയ്യുക',
     'settings.accessibility.ruler': 'മൗസിനു ഒരു റൂളർ അടയ്ക്കുക',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'വകുപ്പിന്റെ നിയമപ്രമാണങ്ങൾ',
     'settings.tab.exportDelete': 'ഡാറ്റ എക്സ്പോർട്ടുചെയ്യുകയും അക്കൗണ്ട് ഇല്ലാതാക്കുകയും ചെയ്യുക',
     'settings.languages.uiLanguage': 'Interface language',
