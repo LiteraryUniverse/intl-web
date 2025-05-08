@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Warna latar belakang alternatif dalam perenggan',
     'settings.accessibility.paragraphHighlighting': 'Serlahkan perenggan semasa anda mengalihkan kursor',
     'settings.accessibility.ruler': 'Lampirkan pemerintang kepada tetikus',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Dokumen undang-undang',
     'settings.tab.exportDelete': 'Eksport data & padam akaun',
     'settings.languages.uiLanguage': 'Interface language',
