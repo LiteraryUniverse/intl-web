@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'ಪೈಪೋಟಿನಲ್ಲಿ ಪದರ ಹಿಂಗುವ ಬೆಳಕು ಬದಲಿಗೆ ಬೇರೆ ಬಣ್ಣವನ್ನು ಬಳಸು',
     'settings.accessibility.paragraphHighlighting': 'ನೀವು ಹೊರಗೆಡುವ ಪದರದ ಮೇಲೆ ಹಾರಿಹೋಗುವಾಗ ಪ್ರಸ್ತುತ ಪದರವನ್ನು ಗುರುತಿಸು',
     'settings.accessibility.ruler': 'ಮೌಸಿಗೆ ಒಂದು ಮೀಟರು ಜೋಡಿಸು',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'ಕಾನೂನಿಗೆ ಸಂಬಂಧಿಸಿದ ಆವಣಗಳು',
     'settings.tab.exportDelete': 'ಡೇಟಾವನ್ನು ನಿರ್ಯಾತನೆ ಮಾಡಿ ಖಾತೆಯನ್ನು ಅಳಿಸು',
     'settings.languages.uiLanguage': 'Interface language',
