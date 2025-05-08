@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'প্ৰবন্ধত বিকল্প পৰা পাৰাগ্ৰাফৰ পাছলৈ নীলা আকাৰ যোজন কৰক',
     'settings.accessibility.paragraphHighlighting': 'আপুনি যি পাৰাগ্ৰাফত আছে তাক উচ্চলিত কৰি দিন',
     'settings.accessibility.ruler': 'আপুনি মাউচত এটা ৰুলাৰ সংযোজন কৰক',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'আইনি নথি',
     'settings.tab.exportDelete': 'ডাটা সংগ্ৰহ কৰক আৰু একাউণ্ট মুছক',
     'settings.languages.uiLanguage': 'Interface language',
