@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': '在段落中交替顯示背景顏色',
     'settings.accessibility.paragraphHighlighting': '突顯您正懸停在的當前段落',
     'settings.accessibility.ruler': '將尺規附加到滑鼠上',
+    // Story Recommendations
+    'settings.storyRecommendations.title': '故事建議',
+    'settings.storyRecommendations.explained': '根據您的閱讀偏好和歷史記錄，在整個應用程式中啟用個人化故事推薦。',
     'settings.tab.legal': '法律文件',
     'settings.tab.exportDelete': '匯出資料和刪除帳戶',
     'settings.languages.uiLanguage': '介面語言',
