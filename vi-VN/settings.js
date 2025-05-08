@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Thay đổi màu nền cho đoạn văn bản',
     'settings.accessibility.paragraphHighlighting': 'Làm nổi bật đoạn văn bản hiện tại khi di chuột qua',
     'settings.accessibility.ruler': 'Gắn thước kẻ vào chuột',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Tài liệu pháp lý',
     'settings.tab.exportDelete': 'Xuất dữ liệu & xóa tài khoản',
     'settings.languages.uiLanguage': 'Interface language',
