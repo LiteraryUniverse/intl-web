@@ -111,6 +111,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternar cor de fundo em parágrafo',
     'settings.accessibility.paragraphHighlighting': 'Destacar o parágrafo atual em que você está passando o mouse',
     'settings.accessibility.ruler': 'Anexar uma régua ao mouse',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Recomendações de histórias',
+    'settings.storyRecommendations.explained': 'Habilite recomendações personalizadas de histórias em todo o aplicativo com base em suas preferências e histórico de leitura.',
     'settings.tab.legal': 'Documentos legais',
     'settings.tab.exportDelete': 'Exportar dados e excluir conta',
     'settings.languages.uiLanguage': 'Linguagem da interface',
