@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'ប្តូរពណ៌ផ្ទៃខាងក្នុងក្រឡា',
     'settings.accessibility.paragraphHighlighting': 'ដាក់ពណ៌ផ្ទៃខាងក្នុងបន្ទាត់ដែលអ្នកកំពុងបង្ហាញលើ',
     'settings.accessibility.ruler': 'ភ្ជាប់ស្លាកទៅក្បាលម៉ោងរបស់ពុកម៉ែល',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'ឯកសារភាពជ្រើសរើស',
     'settings.tab.exportDelete': 'ទាញយកទិន្នន័យនិងលុបការប្រើប្រាស់គណនី',
     'settings.languages.uiLanguage': 'Interface language',
