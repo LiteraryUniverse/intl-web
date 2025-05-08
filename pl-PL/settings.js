@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Zmiana koloru tła akapitu',
     'settings.accessibility.paragraphHighlighting': 'Podświetlić bieżący akapit, nad którym znajduje się kursor',
     'settings.accessibility.ruler': 'Przymocuj linijkę do myszy',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Zalecenia dotyczące historii',
+    'settings.storyRecommendations.explained': 'Włącz spersonalizowane rekomendacje historii w aplikacji na podstawie preferencji i historii czytania.',
     'settings.tab.legal': 'Dokumenty prawne',
     'settings.tab.exportDelete': 'Eksportuj dane i usuń konto',
     'settings.languages.uiLanguage': 'Język interfejsu',
