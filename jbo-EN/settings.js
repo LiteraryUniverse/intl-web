@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternativna boja pozadine u odlomku',
     'settings.accessibility.paragraphHighlighting': 'Istakni trenutni odlomak preko kojeg prelaziš mišem',
     'settings.accessibility.ruler': 'Pripoji ravnalo mišu',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Pravni dokumenti',
     'settings.tab.exportDelete': 'Izvezi podatke i izbriši račun',
     'settings.languages.uiLanguage': 'Interface language',
