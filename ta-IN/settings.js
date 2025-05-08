@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'பதிவேடு பின்னணி வண்ண மாற்றம்',
     'settings.accessibility.paragraphHighlighting': 'நீங்கள் மேலும் விரும்பும் தொகுப்பில் நிலையான பதிவை முக்கியப்படுத்து',
     'settings.accessibility.ruler': 'மூஸ் கீழ் ஒளி ஒளிப்பதற்கு ஒரு அளவிடத்தை இணைக்க',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'சட்டப்படிகள்',
     'settings.tab.exportDelete': 'தரவை ஏற்றுக்கொள்ளும் மற்றும் கணக்கை நீக்கு',
     'settings.languages.uiLanguage': 'Interface language',
