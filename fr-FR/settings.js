@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternance de la couleur de fond des paragraphes',
     'settings.accessibility.paragraphHighlighting': 'Mettre en évidence le paragraphe actuel que vous survolez',
     'settings.accessibility.ruler': 'Fixer une règle à la souris',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Recommandations d\'articles',
+    'settings.storyRecommendations.explained': 'Activer les recommandations d\'histoires personnalisées dans l\'application en fonction de vos préférences et de votre historique de lecture.',
     'settings.tab.legal': 'Documents légaux',
     'settings.tab.exportDelete': 'Exporter les données et supprimer le compte',
     'settings.languages.uiLanguage': 'Langue de l\'interface',
