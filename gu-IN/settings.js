@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'પેરાગ્રાફમાં વેરીયેશનલ બેકગ્રાઉન્ડ રંગ',
     'settings.accessibility.paragraphHighlighting': 'તમે હોવર કરી રહ્યા છો તે વર્તમાન પેરાગ્રાફને હાઇલાઇટ કરો',
     'settings.accessibility.ruler': 'માઉસ પર એક રૂલર જોડો',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'કાયદાને દસ્તાવેજો',
     'settings.tab.exportDelete': 'ડેટા ની નકલ અને એકાઉન્ટ કાઢી નાખો',
     'settings.languages.uiLanguage': 'Interface language',
