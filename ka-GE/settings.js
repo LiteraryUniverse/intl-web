@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'ალტერნატიული ფონის ფერი პარაგრაფის ფონზე',
     'settings.accessibility.paragraphHighlighting': 'გამოახსენით მიმდინარე პარაგრაფი, რომლის თქვენ ხართ მიმაგრების ზემოთ',
     'settings.accessibility.ruler': 'მშობლის დამატება მაუსზე',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'იურიდიული დოკუმენტები',
     'settings.tab.exportDelete': 'მონაცემთა ექსპორტი და ანგარიშის წაშლა',
     'settings.languages.uiLanguage': 'Interface language',
