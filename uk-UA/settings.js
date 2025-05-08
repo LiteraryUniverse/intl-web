@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Зміна кольору фону в абзаці',
     'settings.accessibility.paragraphHighlighting': 'Виділяти поточний абзац, на який ви навели курсор',
     'settings.accessibility.ruler': 'Прикріпити повзунок до миші',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Рекомендації щодо сюжетів',
+    'settings.storyRecommendations.explained': 'Увімкніть персоналізовані рекомендації історій у всьому додатку на основі ваших читацьких вподобань та історії.',
     'settings.tab.legal': 'Юридичні документи',
     'settings.tab.exportDelete': 'Експортувати дані та видалити обліковий запис',
     'settings.languages.uiLanguage': 'Мова інтерфейсу',
