@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'تغيير لون الخلفية البديل في الفقرة',
     'settings.accessibility.paragraphHighlighting': 'تمييز الفقرة الحالية التي تحوم فوقها',
     'settings.accessibility.ruler': 'تثبيت مسطرة على الماوس',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'توصيات القصة',
+    'settings.storyRecommendations.explained': 'تمكين توصيات القصص المخصصة في التطبيق بناءً على تفضيلاتك للقراءة وتاريخك في القراءة.',
     'settings.tab.legal': 'الوثائق القانونية',
     'settings.tab.exportDelete': 'تصدير البيانات وحذف الحساب',
     'settings.languages.uiLanguage': 'لغة الواجهة',
