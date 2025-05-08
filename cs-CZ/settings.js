@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternující barva pozadí odstavců',
     'settings.accessibility.paragraphHighlighting': 'Zvýraznit aktuální odstavec, nad kterým se nachází myš',
     'settings.accessibility.ruler': 'Přiložit k myši pravítko',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Doporučení pro příběh',
+    'settings.storyRecommendations.explained': 'Povolení personalizovaných doporučení příběhů v celé aplikaci na základě vašich čtenářských preferencí a historie.',
     'settings.tab.legal': 'Právní dokumenty',
     'settings.tab.exportDelete': 'Exportovat data & smazat účet',
     'settings.languages.uiLanguage': 'Jazyk rozhraní',
