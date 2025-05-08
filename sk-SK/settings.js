@@ -111,6 +111,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Striedanie farby pozadia odseku',
     'settings.accessibility.paragraphHighlighting': 'Zvýraznite aktuálny odsek, na ktorý ste nabehli',
     'settings.accessibility.ruler': 'Pripojenie pravítka k myši',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Odporúčania pre príbeh',
+    'settings.storyRecommendations.explained': 'Povoľte v aplikácii personalizované odporúčania príbehov na základe vašich preferencií a histórie čítania.',
     'settings.tab.legal': 'Právne dokumenty',
     'settings.tab.exportDelete': 'Export údajov & vymazanie účtu',
     'settings.languages.uiLanguage': 'Jazyk rozhrania',
