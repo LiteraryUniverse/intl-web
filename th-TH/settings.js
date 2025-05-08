@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'สลับสีพื้นหลังในย่อหน้า',
     'settings.accessibility.paragraphHighlighting': 'เน้นย่อหน้าปัจจุบันที่คุณกำลังเลื่อนเมาส์ไปที่',
     'settings.accessibility.ruler': 'แนบไม้บรรทัดกับเมาส์',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'เอกสารทางกฎหมาย',
     'settings.tab.exportDelete': 'ส่งออกข้อมูลและลบบัญชี',
     'settings.languages.uiLanguage': 'Interface language',
