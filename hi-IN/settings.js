@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'पैराग्राफ के पीछे का रंग बदलें',
     'settings.accessibility.paragraphHighlighting': 'आप हवा में हो रहे वर्तमान पैराग्राफ को हाइलाइट करें',
     'settings.accessibility.ruler': 'माउस के साथ एक सीधी रेखा जोड़ें',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'कानूनी दस्तावेज़',
     'settings.tab.exportDelete': 'डेटा निर्यात और खाता हटाएं',
     'settings.languages.uiLanguage': 'Interface language',
