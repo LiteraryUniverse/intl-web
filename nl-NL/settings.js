@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Wissel af in achtergrondkleur van alinea',
     'settings.accessibility.paragraphHighlighting': 'Markeer de huidige alinea waar je overheen beweegt',
     'settings.accessibility.ruler': 'Bevestig een liniaal aan de muis',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Verhaal aanbevelingen',
+    'settings.storyRecommendations.explained': 'Maak gepersonaliseerde verhaalaanbevelingen in de app mogelijk op basis van uw leesvoorkeuren en geschiedenis.',
     'settings.tab.legal': 'Juridische documenten',
     'settings.tab.exportDelete': 'Gegevens exporteren en account verwijderen',
     'settings.languages.uiLanguage': 'Interfacetaal',
