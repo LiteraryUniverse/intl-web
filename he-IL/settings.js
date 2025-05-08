@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'שנה צבע רקע אלטרנטיבי בפסקה',
     'settings.accessibility.paragraphHighlighting': 'הדגש את הפסקה הנוכחית שאתה מרחף מעליה',
     'settings.accessibility.ruler': 'צרף סרגל לעכבר',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'מסמכים משפטיים',
     'settings.tab.exportDelete': 'יצוא נתונים ומחיקת חשבון',
     'settings.languages.uiLanguage': 'Interface language',
