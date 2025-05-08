@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Athraigh dath cúlra i bparagraf',
     'settings.accessibility.paragraphHighlighting': 'Mionsonraigh an paragraf reatha ar a bhfuil tú ag seiceáil',
     'settings.accessibility.ruler': 'Ceangail rúlaire leis an luch',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Doiciméid dlí',
     'settings.tab.exportDelete': 'Easpórtáil sonraí & scrios cuntas',
     'settings.languages.uiLanguage': 'Interface language',
