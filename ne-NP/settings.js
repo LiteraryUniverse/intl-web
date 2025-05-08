@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'अनुच्छेदमा विकल्प रंग पट्टी लगाउनुहोस्',
     'settings.accessibility.paragraphHighlighting': 'तपाईंले होभर गरिरहेको हालको अनुच्छेदलाई हाइलाइट गर्नुहोस्',
     'settings.accessibility.ruler': 'माउसमा एक रुलर संलग्न गर्नुहोस्',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'कानूनी कागजातहरू',
     'settings.tab.exportDelete': 'डाटा निर्यात गर्नुहोस् र खाता हटाउनुहोस्',
     'settings.languages.uiLanguage': 'Interface language',
