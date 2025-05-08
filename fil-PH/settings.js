@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Iba\'t ibang kulay ng background sa talata',
     'settings.accessibility.paragraphHighlighting': 'I-highlight ang kasalukuyang talata na iyong kinukutusan',
     'settings.accessibility.ruler': 'Ikabit ang ruler sa mouse',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Mga legal na dokumento',
     'settings.tab.exportDelete': 'I-export ang data at burahin ang account',
     'settings.languages.uiLanguage': 'Interface language',
