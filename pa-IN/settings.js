@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'ਪੈਰਾਗ੍ਰਾਫ ਦੇ ਬੈਕਗਰਾਊਂਡ ਰੰਗ ਬਦਲੋ',
     'settings.accessibility.paragraphHighlighting': 'ਤੁਸੀਂ ਉੱਥੇ ਹੋਵਿੰਗ ਕਰ ਰਹੇ ਹੋਏ ਮੌਜੂਦਾ ਪੈਰਾਗ੍ਰਾਫ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ',
     'settings.accessibility.ruler': 'ਮਾਊਸ ਨੂੰ ਰੂਲਰ ਨਾਲ ਜੋੜੋ',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'ਕਾਨੂੰਨੀ ਦਸਤਾਵੇਜ਼ਾਂ',
     'settings.tab.exportDelete': 'ਡਾਟਾ ਨੂੰ ਨਿਰਯਾਤ ਕਰੋ ਅਤੇ ਖਾਤਾ ਹਟਾਓ',
     'settings.languages.uiLanguage': 'Interface language',
