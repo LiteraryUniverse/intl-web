@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternativ bakgrundsfärg för stycke',
     'settings.accessibility.paragraphHighlighting': 'Markera det aktuella stycket som du håller över',
     'settings.accessibility.ruler': 'Fäst en linjal vid musen',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Rekommendationer för berättelser',
+    'settings.storyRecommendations.explained': 'Aktivera personliga rekommendationer för berättelser i hela appen baserat på dina läspreferenser och din läshistorik.',
     'settings.tab.legal': 'Juridiska dokument',
     'settings.tab.exportDelete': 'Exportera data och ta bort konto',
     'settings.languages.uiLanguage': 'Språk för gränssnitt',
