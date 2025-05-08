@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Ganti warna latar belakang alternatif pada paragraf',
     'settings.accessibility.paragraphHighlighting': 'Sorot paragraf saat Anda mengarahkan kursor ke atasnya',
     'settings.accessibility.ruler': 'Pasangkan penggaris dengan mouse',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Rekomendasi cerita',
+    'settings.storyRecommendations.explained': 'Aktifkan rekomendasi cerita yang dipersonalisasi di seluruh aplikasi berdasarkan preferensi dan riwayat bacaan Anda.',
     'settings.tab.legal': 'Dokumen hukum',
     'settings.tab.exportDelete': 'Ekspor data & hapus akun',
     'settings.languages.uiLanguage': 'Bahasa antarmuka',
