@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Paragraf arka planında alternatif renk kullan',
     'settings.accessibility.paragraphHighlighting': 'Üzerine geldiğiniz geçerli paragrafı vurgula',
     'settings.accessibility.ruler': 'Fareye bir cetvel ekle',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Hikaye önerileri',
+    'settings.storyRecommendations.explained': 'Okuma tercihlerinize ve geçmişinize göre uygulama genelinde kişiselleştirilmiş hikaye önerilerini etkinleştirin.',
     'settings.tab.legal': 'Hukuki belgeler',
     'settings.tab.exportDelete': 'Verileri dışa aktar ve hesabı sil',
     'settings.languages.uiLanguage': 'Arayüz dili',
