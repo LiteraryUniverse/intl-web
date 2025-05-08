@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternatiewe agtergrondkleur in paragraaf',
     'settings.accessibility.paragraphHighlighting': 'Beklemtoon die huidige paragraaf waaroor jy beweeg',
     'settings.accessibility.ruler': 'Heg \'n liniaal aan die muis vas',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Regsdokumente',
     'settings.tab.exportDelete': 'Voer data uit & verwyder rekening',
     'settings.languages.uiLanguage': 'Interface language',
