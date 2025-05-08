@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alterni en fonan koloron de paragrafo',
     'settings.accessibility.paragraphHighlighting': 'Emfazi la aktuale muson superfluganta paragrafon',
     'settings.accessibility.ruler': 'Alligi linionalon al la muso',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Jura dokumentoj',
     'settings.tab.exportDelete': 'Eksporti datumojn kaj forigi konton',
     'settings.languages.uiLanguage': 'Interface language',
