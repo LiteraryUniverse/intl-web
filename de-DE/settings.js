@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternative in Absatzhintergrundfarbe',
     'settings.accessibility.paragraphHighlighting': 'Hervorheben Sie den aktuellen Absatz, über den Sie schweben',
     'settings.accessibility.ruler': 'Lineal an die Maus anhängen',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Empfehlungen für Geschichten',
+    'settings.storyRecommendations.explained': 'Aktivieren Sie in der gesamten App personalisierte Story-Empfehlungen, die auf Ihren Lesevorlieben und Ihrer Historie basieren.',
     'settings.tab.legal': 'Juristische Dokumente',
     'settings.tab.exportDelete': 'Daten exportieren & Konto löschen',
     'settings.languages.uiLanguage': 'Interface Sprache',
