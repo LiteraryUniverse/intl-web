@@ -111,6 +111,9 @@ export default {
     'settings.accessibility.paragraphStripes': '段落の背景色を交互に変更する',
     'settings.accessibility.paragraphHighlighting': '現在カーソルを置いている段落をハイライト表示します',
     'settings.accessibility.ruler': 'マウスに定規を付ける',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'おすすめ記事',
+    'settings.storyRecommendations.explained': 'あなたの読書の好みと履歴に基づいて、アプリ全体でパーソナライズされたストーリーの推奨を有効にします。',
     'settings.tab.legal': '法的文書',
     'settings.tab.exportDelete': 'データのエキスポートとアカウントの削除',
     'settings.languages.uiLanguage': 'インターフェース言語',
