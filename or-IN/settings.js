@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'ପ୍ରାକୃତିକ ରଙ୍ଗ ସହ ପାଠକରେ ପାରାଗ୍ରାଫରେ ବାକଗୁଡ଼ିକ କରନ୍ତୁ',
     'settings.accessibility.paragraphHighlighting': 'ଆପଣ ହେମଣଙ୍କର ଉପରେ ହୋଇଥିବା ବର୍ତ୍ତମାନ ପ୍ରାର୍ଥନାରେ ଚିହ୍ନିତ କରନ୍ତୁ',
     'settings.accessibility.ruler': 'ମାଉସ୍ ର ସହ ଏକ ରୁଲେର ଲଗାନ୍ତୁ',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'ଆଇନି ସମ୍ପାଦନାମାନ୍ୟତା',
     'settings.tab.exportDelete': 'ଡାଟା ରେ ନିର୍ଯାତନ ଏବଂ ଅକାଉଣ୍ଟ ମିଟାଇନ୍ତୁ',
     'settings.languages.uiLanguage': 'Interface language',
