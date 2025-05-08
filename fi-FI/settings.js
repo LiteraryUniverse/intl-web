@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Vaihtoehtoinen taustaväri kappaleille',
     'settings.accessibility.paragraphHighlighting': 'Korosta nykyinen kappale, jonka päällä olet',
     'settings.accessibility.ruler': 'Kiinnitä viivoitin hiiren kursoriin',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Tarinasuositukset',
+    'settings.storyRecommendations.explained': 'Ota käyttöön henkilökohtaiset tarinasuositukset koko sovelluksessa lukutottumuksiesi ja -historiasi perusteella.',
     'settings.tab.legal': 'Oikeudelliset asiakirjat',
     'settings.tab.exportDelete': 'Vie tiedot ja poista tili',
     'settings.languages.uiLanguage': 'Käyttöliittymän kieli',
