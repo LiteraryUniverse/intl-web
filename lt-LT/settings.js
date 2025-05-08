@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Alternatyvi fono spalva pastraipoms',
     'settings.accessibility.paragraphHighlighting': 'Paryškinti dabartinę pastraipą, kuriuo būsite užvedę pelę',
     'settings.accessibility.ruler': 'Prisegti linijalą prie pelės',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Istorijos rekomendacijos',
+    'settings.storyRecommendations.explained': 'Įgalinkite asmenines istorijų rekomendacijas visoje programėlėje pagal savo skaitymo pageidavimus ir istoriją.',
     'settings.tab.legal': 'Teisiniai dokumentai',
     'settings.tab.exportDelete': 'Eksportuoti duomenis ir ištrinti paskyrą',
     'settings.languages.uiLanguage': 'Sąsajos kalba',
