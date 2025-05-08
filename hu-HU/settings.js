@@ -113,6 +113,9 @@ export default {
     'settings.accessibility.paragraphStripes': 'Váltakozó háttérszín a bekezdésekben',
     'settings.accessibility.paragraphHighlighting': 'Jelölje ki a jelenlegi bekezdést, amelyre rámutat',
     'settings.accessibility.ruler': 'Rögzítsen egy vonalzót az egérhez',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Ajánlások a történethez',
+    'settings.storyRecommendations.explained': 'Engedélyezze a személyre szabott történetajánlásokat az alkalmazásban az olvasási preferenciái és előzményei alapján.',
     'settings.tab.legal': 'Jogi dokumentumok',
     'settings.tab.exportDelete': 'Adatok exportálása és fiók törlése',
     'settings.languages.uiLanguage': 'Interfész nyelv',
