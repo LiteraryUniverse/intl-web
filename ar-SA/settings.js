@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'عرض دائم في وضع الظلام',
     'settings.reader.asideView': 'عرض لوحة جانبية سحرية',
     'settings.reader.textSize': 'عرض النص بخط أكبر',
+    'settings.reader.storyRecommendations': 'توصيات القصة',
+    'settings.reader.storyRecommendationsHelp': 'تمكين توصيات القصص المخصصة.',
+    // AI settings
+    'settings.ai.title': 'إعدادات الذكاء الاصطناعي',
+    'settings.ai.explained': 'قم بتهيئة كيفية عمل ميزات الذكاء الاصطناعي من أجلك على برنامج "الكون الأدبي".',
     // Accessibility
     'settings.accessibility.title': 'إمكانية الوصول للقارئ',
     'settings.accessibility.openDyslexic': 'استخدام خط OpenDyslexic',
