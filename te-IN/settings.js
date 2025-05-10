@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'ఎలాంటినికి కూడా నిత్యంతమే తలచేయండి',
     'settings.reader.asideView': 'మాయాజాల పానలను చూపించు',
     'settings.reader.textSize': 'పరామాదంగా పేరుగల యొక్క పఠనం చూపించు',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'రీడర్ ప్రాప్యత',
     'settings.accessibility.openDyslexic': 'OpenDyslexic ఫాంట్ ఉపయోగించు',
