@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Завжди відображати у темному режимі',
     'settings.reader.asideView': 'Показати чарівну бічну панель',
     'settings.reader.textSize': 'Показати текст більшим шрифтом',
+    'settings.reader.storyRecommendations': 'Рекомендації до сюжетів',
+    'settings.reader.storyRecommendationsHelp': 'Увімкніть персоналізовані рекомендації щодо історій.',
+    // AI settings
+    'settings.ai.title': 'Налаштування ШІ',
+    'settings.ai.explained': 'Налаштуйте, як функції штучного інтелекту працюють для вас у Літературному Всесвіті.',
     // Accessibility
     'settings.accessibility.title': 'Зчитувальний пристрій',
     'settings.accessibility.openDyslexic': 'Використовувати шрифт OpenDyslexic',
