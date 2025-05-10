@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'ყოველთვის ჩართვა ბნელ რეჟიმში',
     'settings.reader.asideView': 'მაგიკური გვერდის გამოსახულების გამოჩენა',
     'settings.reader.textSize': 'ტექსტის ჩვენება დიდი ფონტით',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'წამკითხვის ხელმისაწვდომობა',
     'settings.accessibility.openDyslexic': 'გამოიყენეთ OpenDyslexic შრიფტი',
