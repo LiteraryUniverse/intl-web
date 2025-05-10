@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Denna licens är den mest restriktiva av våra sex huvudlicenser. Den tillåter bara andra att ladda ner dina verk och dela dem med andra så länge de erkänner dig som upphovsman. De får inte ändra dem på något sätt eller använda dem kommersiellt.',
     'licenses.name.lu-c': 'Litterära Universum Upphovsrätt',
     'licenses.lu-c': 'Standardlicens med fullständiga upphovsrättigheter som gör att du kan sälja och publicera ditt verk som du vill och få dina rättigheter skyddade. Denna licens ger dig också möjlighet att sälja dina berättelser på Literary Universe.',
+    'licenses.name.lu-e': 'Litterärt universum exklusivt',
+    'licenses.lu-e': 'Denna licens ger Literary Universe exklusiva rättigheter att publicera och distribuera ditt arbete online. Du kommer att behålla upphovsrätten, men Literary Universe kommer att ha ensamrätt att publicera och distribuera ditt arbete online.',
+    'licenses.name.lu-ne': 'Literary Universe Icke-exklusivt',
+    'licenses.lu-ne': 'Denna licens ger Literary Universe icke-exklusiv rätt att publicera och distribuera ditt arbete online. Du behåller upphovsrätten och rätten att publicera och distribuera ditt verk genom andra kanaler.',
     'licenses.name.cc0': 'Inga rättigheter reserverade - CC0 1,0',
     'licenses.cc0': 'Gör ditt arbete offentligt tillgängligt. I motsats till CC-licenser som låter upphovsrättsinnehavare välja mellan en rad olika tillstånd samtidigt som de behåller sin upphovsrätt, ger CC0 ett helt annat val - valet att välja bort upphovsrätts- och databasskydd och de exklusiva rättigheter som automatiskt beviljas upphovsmännen - alternativet "inga rättigheter förbehållna" till våra licenser.'
 };
