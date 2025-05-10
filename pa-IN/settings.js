@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'ਹਮੇਸ਼ਾ ਅੰਧਕਾਰ ਮੋਡ ਵਿੱਚ ਦਿਖਾਓ',
     'settings.reader.asideView': 'ਜਾਦੂਈ ਪਾਸਾ ਪੈਨਲ ਦਿਖਾਓ',
     'settings.reader.textSize': 'ਪਾਠ ਨੂੰ ਵੱਡੇ ਫੋਂਟ ਵਿੱਚ ਦਿਖਾਓ',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'ਰੀਡਰ ਪਹੁੰਚਯੋਗਤਾ',
     'settings.accessibility.openDyslexic': 'OpenDyslexic ਫੋਂਟ ਵਰਤੋ',
