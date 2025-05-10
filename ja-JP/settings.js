@@ -105,6 +105,11 @@ export default {
     'settings.reader.darkMode': '常にダークモードで表示',
     'settings.reader.asideView': 'マジカルアサイドパネルを表示する',
     'settings.reader.textSize': '文字を大きく表示する',
+    'settings.reader.storyRecommendations': 'おすすめ記事',
+    'settings.reader.storyRecommendationsHelp': 'パーソナライズされたストーリーの推薦を可能にする。',
+    // AI settings
+    'settings.ai.title': 'AI設定',
+    'settings.ai.explained': 'Literary UniverseでAI機能がどのように機能するかを設定します。',
     // Accessibility
     'settings.accessibility.title': '読者アクセシビリティ',
     'settings.accessibility.openDyslexic': 'OpenDyslexicフォントを使用する',
