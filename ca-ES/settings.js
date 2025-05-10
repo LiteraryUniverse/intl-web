@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Mostrar sempre en mode fosc',
     'settings.reader.asideView': 'Mostrar el panell lateral màgic',
     'settings.reader.textSize': 'Mostrar el text en una font més gran',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Accessibilitat del lector',
     'settings.accessibility.openDyslexic': 'Utilitzar la font OpenDyslexic',
