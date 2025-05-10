@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Esta licença é a mais restritiva das nossas seis principais licenças, permitindo apenas que outros descarreguem as suas obras e as partilhem com outros desde que lhe deem crédito, mas não podem alterá-las de forma alguma ou utilizá-las comercialmente.',
     'licenses.name.lu-c': 'Direitos de Autor do Universo Literário',
     'licenses.lu-c': 'Licença padrão completa de direitos de autor que lhe permite vender, publicar a sua obra como quiser e ter os seus direitos protegidos. Esta licença dá-lhe também a opção de vender as suas histórias sobre o Universo Literário.',
+    'licenses.name.lu-e': 'Exclusivo Universo Literário',
+    'licenses.lu-e': 'Esta licença concede ao Universo Literário direitos exclusivos para publicar e distribuir o seu trabalho online. Você manterá os direitos de autor, mas o Universo Literário terá o direito exclusivo de publicar e distribuir o seu trabalho online.',
+    'licenses.name.lu-ne': 'Universo Literário Não-Exclusivo',
+    'licenses.lu-ne': 'Esta licença concede ao Universo Literário direitos não exclusivos para publicar e distribuir o seu trabalho online. Manterá os direitos de autor e o direito de publicar e distribuir o seu trabalho através de outros canais.',
     'licenses.name.cc0': 'Sem Direito de Autor nem Direitos Conexos - CC0 1.0',
     'licenses.cc0': 'Coloque o seu trabalho no domínio público. Em contraste com as licenças da CC que permitem aos detentores de direitos de autor escolher entre uma série de permissões enquanto mantêm os seus direitos de autor, a CC0 permite uma outra escolha completamente diferente - a escolha de não optar pela proteção dos direitos de autor e das bases de dados, e os direitos exclusivos concedidos automaticamente aos criadores - a alternativa "sem direitos reservados" às nossas licenças.'
 };
