@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'प्राथमिक पूर्ण कपिराइट लाइसेन्स जसले तपाईंलाई आफ्नो कामलाई जस्तै बेच्न र प्रकाशित गर्न अनुमति दिन्छ र तपाईंको अधिकारहरूलाई संरक्षित गर्दछ। यस लाइसेन्सले तपाईंलाई कथाहरूलाई साहित्यिक ब्रह्माण्डमा बेच्ने विकल्प पनि दिन्छ।',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'कुनै अधिकारहरू सुरक्षित गरिएको छैन - सीसी0 1.0',
     'licenses.cc0': 'आफ्नो कामलाई सार्वजनिक डोमेनमा राख्नुहोस्। सीसीको लाइसेन्सहरूबाट कपिराइट धारकहरूलाई अनुमति दिने अवधिलाई अर्का कुनै अधिकारहरूको चयन गर्ने बिपर्ययमा, सीसी0ले कपिराइट र डाटाबेस संरक्षणबाट बाहिर निस्कने र निर्मातालाई स्वतः अनुमतिप्राप्त अधिकारहरू - “कुनै अधिकारहरू सुरक्षित गरिएको छैन” सीसेको विकल्पलाई प्राथमिकता दिन्छ।'
 };
