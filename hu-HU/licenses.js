@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Ez a licenc a hat fő licencünk közül a legkorlátozóbb, és csak lehetővé teszi mások számára, hogy letöltsék a műveidet és megosszák másokkal, feltéve, hogy megjelölnek téged, de nem változtathatják meg azokat semmilyen módon, és nem használhatják őket kereskedelmi célokra.',
     'licenses.name.lu-c': 'Irodalmi Univerzum szerzői jogai',
     'licenses.lu-c': 'Szabványos teljes szerzői jogi licenc, amely lehetővé teszi, hogy tetszés szerint eladja és közzétegye munkáját, és a jogai védve legyenek. Ez a licenc lehetőséget ad arra is, hogy történeteit az Irodalmi Univerzumon értékesítse.',
+    'licenses.name.lu-e': 'Irodalmi univerzum exkluzív',
+    'licenses.lu-e': 'Ez a licenc kizárólagos jogot biztosít a Literary Universe számára az Ön művének online közzétételére és terjesztésére. A szerzői jogok Önnél maradnak, de az Irodalmi Egyetem kizárólagos joggal rendelkezik műve online közzétételére és terjesztésére.',
+    'licenses.name.lu-ne': 'Irodalmi univerzum nem exkluzív',
+    'licenses.lu-ne': 'Ez a licenc nem kizárólagos jogot biztosít a Literary Universe számára az Ön munkájának online közzétételére és terjesztésére. A szerzői jog és a művének más csatornákon keresztül történő közzétételének és terjesztésének joga Önnél marad.',
     'licenses.name.cc0': 'Nincs jog fenntartva - CC0 1.0',
     'licenses.cc0': 'Tegye közkinccsé munkáját. A CC licencekkel ellentétben, amelyek lehetővé teszik a szerzői jogtulajdonosok számára, hogy a szerzői jogaik megtartása mellett válasszanak a különböző engedélyek közül, a CC0 egy teljesen más választási lehetőséget biztosít - a szerzői jog és az adatbázis-védelem, valamint az alkotóknak automatikusan biztosított kizárólagos jogok mellőzésének választását - a licencek "jogfenntartás nélküli" alternatíváját.'
 };
