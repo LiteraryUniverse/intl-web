@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Afișează întotdeauna în modul întunecat',
     'settings.reader.asideView': 'Afișează panoul lateral magic',
     'settings.reader.textSize': 'Afișează textul cu font mai mare',
+    'settings.reader.storyRecommendations': 'Recomandări pentru povești',
+    'settings.reader.storyRecommendationsHelp': 'Activați recomandările de povești personalizate.',
+    // AI settings
+    'settings.ai.title': 'Setări AI',
+    'settings.ai.explained': 'Configurați modul în care funcționează funcțiile AI pentru dvs. pe Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Accesibilitate cititor',
     'settings.accessibility.openDyslexic': 'Folosește fontul OpenDyslexic',
