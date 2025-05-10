@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'רישיון זה הוא הכי מגביל מבין שישה הרישיונות העיקריים שלנו, ומאפשר לאחרים רק להוריד את היצירות שלך ולשתף אותן עם אחרים, כל עוד הם מזהים אותך, אך אינם יכולים לשנות אותן בשום צורה או להשתמש בהן למטרות מסחריות.',
     'licenses.name.lu-c': 'זכויות יוצרים של Literary Universe',
     'licenses.lu-c': 'רישיון זכויות יוצרים מלא שמאפשר לך למכור ולפרסם את היצירה שלך כפי שתרצה ומבטיח לך את הזכויות שלך עליה. הרישיון מאפשר גם לך למכור את הסיפורים שלך ב־Literary Universe.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'ללא זכויות שמורות - CC0 1.0',
     'licenses.cc0': 'שים את היצירה שלך בתחום הציבור. להבדיל מרישיונות ה־CC שמאפשרים לבעלי זכויות יוצרים לבחור ממגוון הרשאות תוך שמירה על זכויות היוצרים שלהם, CC0 מעניק תפיסה נוספת לחלופה כולית - אפשרות לפטור מזכויות יוצרים והגנה במסדי הנתונים, והזכויות הבלעדיות שניתנות באופן אוטומטי ליוצרים - אלטרנטיבה של "ללא זכויות שמורות" לרישיונות שלנו.'
 };
