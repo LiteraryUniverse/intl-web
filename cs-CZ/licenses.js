@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Tato licence je z šesti hlavních Creative Commons nejrestriktivnější. Umožňuje ostatním pouze stáhnout si vaše dílo a sdílet jej s ostatními jen za podmínek, že vás uvedou jako autora. Nebudou však moci jej jakkoliv změnit nebo komerčně používat.',
     'licenses.name.lu-c': 'Literary Universe copyright',
     'licenses.lu-c': 'Standardní plný copyright která Vám umožňuje publikovat a prodávat Vaše dílo jak si přejete pod plnou ochranou autorských zákonů. Pod touto licencí máte možnost prodávat Vaše dílo na Literary Universe.',
+    'licenses.name.lu-e': 'Literární vesmír Exkluzivně',
+    'licenses.lu-e': 'Tato licence uděluje společnosti Literary Universe výhradní práva na publikování a šíření vašeho díla online. Autorská práva zůstávají vám, ale Literary Universe má výhradní právo publikovat a distribuovat vaše dílo online.',
+    'licenses.name.lu-ne': 'Literární vesmír Neexkluzivní',
+    'licenses.lu-ne': 'Tato licence uděluje společnosti Literary Universe nevýhradní práva na publikování a šíření vašeho díla online. Autorská práva a právo publikovat a distribuovat své dílo jinými kanály vám zůstávají.',
     'licenses.name.cc0': 'Žádná autorská práva',
     'licenses.cc0': 'Vložte svou práci do veřejné domény. Na rozdíl od licencí CC, které umožňují držitelům autorských práv vybrat si z řady oprávnění při zachování jejich autorských práv, CC0 zcela zmocňuje další volbu – možnost odstoupit od autorského práva a ochrany databází, a exkluzivní práva automaticky udělená tvůrcům – alternativa k našim licencím kde žádná práva nejsou vyhrazena.'
 };
