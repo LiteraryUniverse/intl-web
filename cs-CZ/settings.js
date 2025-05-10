@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Vždy zobrazovat ve tmavém režimu',
     'settings.reader.asideView': 'Zobrazit magické menu',
     'settings.reader.textSize': 'Zobrazit text ve větším písmu',
+    'settings.reader.storyRecommendations': 'Doporučení pro příběh',
+    'settings.reader.storyRecommendationsHelp': 'Povolení personalizovaných doporučení příběhů.',
+    // AI settings
+    'settings.ai.title': 'Nastavení AI',
+    'settings.ai.explained': 'Konfigurace fungování funkcí umělé inteligence v aplikaci Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Přístupnost čtečky',
     'settings.accessibility.openDyslexic': 'Použít OpenDyslexic písmo',
