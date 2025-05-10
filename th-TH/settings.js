@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'แสดงเสมอในโหมดมืด',
     'settings.reader.asideView': 'แสดงแผงข้างเคียงที่มีเวทมนตร์',
     'settings.reader.textSize': 'แสดงข้อความในตัวอักษรขนาดใหญ่กว่า',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'การเข้าถึงของผู้อ่าน',
     'settings.accessibility.openDyslexic': 'ใช้แบบอักษร OpenDyslexic',
