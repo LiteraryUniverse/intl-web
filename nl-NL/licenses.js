@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Deze licentie is de meest beperkende van onze zes belangrijkste licenties en staat anderen alleen toe om jouw werken te downloaden en te delen met anderen, zolang ze jou crediteren, maar ze mogen ze op geen enkele manier wijzigen of commercieel gebruiken.',
     'licenses.name.lu-c': 'Auteursrechten van het Literair Universum',
     'licenses.lu-c': 'Standaard volledige auteursrechtenlicentie waarmee u uw werk kunt verkopen en publiceren zoals u wilt en uw rechten daartoe beschermd worden. Met deze licentie heeft u ook de mogelijkheid om uw verhalen te verkopen op Literary Universe.',
+    'licenses.name.lu-e': 'Literair Universum Exclusief',
+    'licenses.lu-e': 'Deze licentie verleent Literair Universum exclusieve rechten om uw werk online te publiceren en te verspreiden. U behoudt het auteursrecht, maar Literary Universe heeft het alleenrecht om uw werk online te publiceren en te verspreiden.',
+    'licenses.name.lu-ne': 'Literair Universum Niet-exclusief',
+    'licenses.lu-ne': 'Deze licentie verleent Literair Universum niet-exclusieve rechten om uw werk online te publiceren en te verspreiden. U behoudt het auteursrecht en het recht om uw werk via andere kanalen te publiceren en te verspreiden.',
     'licenses.name.cc0': 'Geen rechten voorbehouden - CC0 1.0',
     'licenses.cc0': 'Plaats uw werk in het publieke domein. In tegenstelling tot de licenties van CC die auteursrechthouders de keuze geven uit een reeks toestemmingen terwijl ze hun auteursrecht behouden, geeft CC0 nog een andere keuze - de keuze om af te zien van auteursrecht en databankbescherming, en de exclusieve rechten die automatisch aan makers worden verleend - de "geen rechten voorbehouden"-alternatief voor onze licenties.'
 };
