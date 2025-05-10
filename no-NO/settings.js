@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Vis alltid i mørk modus',
     'settings.reader.asideView': 'Vis magisk sidepanel',
     'settings.reader.textSize': 'Vis tekst i større skriftstørrelse',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Tilgjengelighet for leseren',
     'settings.accessibility.openDyslexic': 'Bruk OpenDyslexic-skrifttype',
     'settings.accessibility.paragraphStripes': 'Alternativ bakgrunnsfarge i avsnitt',
     'settings.accessibility.paragraphHighlighting': 'Marker det gjeldende avsnittet du holder over',
     'settings.accessibility.ruler': 'Fest en linjal til musen',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Juridiske dokumenter',
     'settings.tab.exportDelete': 'Eksporter data og slett konto',
     'settings.languages.uiLanguage': 'Interface language',

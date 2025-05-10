@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'แสดงเสมอในโหมดมืด',
     'settings.reader.asideView': 'แสดงแผงข้างเคียงที่มีเวทมนตร์',
     'settings.reader.textSize': 'แสดงข้อความในตัวอักษรขนาดใหญ่กว่า',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'การเข้าถึงของผู้อ่าน',
     'settings.accessibility.openDyslexic': 'ใช้แบบอักษร OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'สลับสีพื้นหลังในย่อหน้า',
     'settings.accessibility.paragraphHighlighting': 'เน้นย่อหน้าปัจจุบันที่คุณกำลังเลื่อนเมาส์ไปที่',
     'settings.accessibility.ruler': 'แนบไม้บรรทัดกับเมาส์',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'เอกสารทางกฎหมาย',
     'settings.tab.exportDelete': 'ส่งออกข้อมูลและลบบัญชี',
     'settings.languages.uiLanguage': 'Interface language',

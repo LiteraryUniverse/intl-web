@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Luôn hiển thị ở chế độ tối',
     'settings.reader.asideView': 'Hiển thị bảng phụ kỳ diệu',
     'settings.reader.textSize': 'Hiển thị văn bản với font chữ lớn hơn',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Độ khả dụng cho đọc giả',
     'settings.accessibility.openDyslexic': 'Sử dụng font OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Thay đổi màu nền cho đoạn văn bản',
     'settings.accessibility.paragraphHighlighting': 'Làm nổi bật đoạn văn bản hiện tại khi di chuột qua',
     'settings.accessibility.ruler': 'Gắn thước kẻ vào chuột',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Tài liệu pháp lý',
     'settings.tab.exportDelete': 'Xuất dữ liệu & xóa tài khoản',
     'settings.languages.uiLanguage': 'Interface language',

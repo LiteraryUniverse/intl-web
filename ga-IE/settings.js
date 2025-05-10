@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Taispeáin i gcónaí i mód dorcha',
     'settings.reader.asideView': 'Taispeáin painéal taobhtha draíochta',
     'settings.reader.textSize': 'Taispeáin téacs i bhfont níos mó',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Cumraíocht léitheora',
     'settings.accessibility.openDyslexic': 'Úsáid foirgneamh OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Athraigh dath cúlra i bparagraf',
     'settings.accessibility.paragraphHighlighting': 'Mionsonraigh an paragraf reatha ar a bhfuil tú ag seiceáil',
     'settings.accessibility.ruler': 'Ceangail rúlaire leis an luch',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Doiciméid dlí',
     'settings.tab.exportDelete': 'Easpórtáil sonraí & scrios cuntas',
     'settings.languages.uiLanguage': 'Interface language',

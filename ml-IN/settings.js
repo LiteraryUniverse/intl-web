@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'എപ്പോൾക്കൂടെ ഇരുണ്ട മോഡിൽ കാണിക്കുക',
     'settings.reader.asideView': 'മാന്ത്രിക പക്ഷഭേദം പാനൽ കാണിക്കുക',
     'settings.reader.textSize': 'പ്രമാണം പഴയതായി പ്രദർശിപ്പിക്കുക',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'റീഡർ പ്രവർത്തനക്ഷമത',
     'settings.accessibility.openDyslexic': 'OpenDyslexic അക്ഷരരൂപത്തിൽ ഉപയോഗിക്കുക',
     'settings.accessibility.paragraphStripes': 'പഠനത്തിന്റെ പക്ഷഭേദത്തിന് മാറ്റം നൽകുക',
     'settings.accessibility.paragraphHighlighting': 'നിങ്ങൾ അടുക്കൽ തിരക്കുന്ന നിലവിലെ പഠനം ഹൈലൈറ്റ് ചെയ്യുക',
     'settings.accessibility.ruler': 'മൗസിനു ഒരു റൂളർ അടയ്ക്കുക',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'വകുപ്പിന്റെ നിയമപ്രമാണങ്ങൾ',
     'settings.tab.exportDelete': 'ഡാറ്റ എക്സ്പോർട്ടുചെയ്യുകയും അക്കൗണ്ട് ഇല്ലാതാക്കുകയും ചെയ്യുക',
     'settings.languages.uiLanguage': 'Interface language',

@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Selalu tampilkan dalam mode gelap',
     'settings.reader.asideView': 'Tampilkan panel samping ajaib',
     'settings.reader.textSize': 'Tampilkan teks dengan ukuran font yang lebih besar',
+    'settings.reader.storyRecommendations': 'Rekomendasi Cerita',
+    'settings.reader.storyRecommendationsHelp': 'Mengaktifkan rekomendasi cerita yang dipersonalisasi.',
+    // AI settings
+    'settings.ai.title': 'Pengaturan AI',
+    'settings.ai.explained': 'Konfigurasikan bagaimana fitur AI bekerja untuk Anda di Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Aksesibilitas pembaca',
     'settings.accessibility.openDyslexic': 'Gunakan font OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Ganti warna latar belakang alternatif pada paragraf',
     'settings.accessibility.paragraphHighlighting': 'Sorot paragraf saat Anda mengarahkan kursor ke atasnya',
     'settings.accessibility.ruler': 'Pasangkan penggaris dengan mouse',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Rekomendasi cerita',
+    'settings.storyRecommendations.explained': 'Aktifkan rekomendasi cerita yang dipersonalisasi di seluruh aplikasi berdasarkan preferensi dan riwayat bacaan Anda.',
     'settings.tab.legal': 'Dokumen hukum',
     'settings.tab.exportDelete': 'Ekspor data & hapus akun',
     'settings.languages.uiLanguage': 'Bahasa antarmuka',

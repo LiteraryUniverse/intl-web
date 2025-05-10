@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Näytä aina pimeässä tilassa',
     'settings.reader.asideView': 'Näytä taianomainen sivupalkki',
     'settings.reader.textSize': 'Näytä teksti suuremmalla fontilla',
+    'settings.reader.storyRecommendations': 'Tarina Suositukset',
+    'settings.reader.storyRecommendationsHelp': 'Ota käyttöön henkilökohtaiset tarinasuositukset.',
+    // AI settings
+    'settings.ai.title': 'Tekoälyn asetukset',
+    'settings.ai.explained': 'Määritä, miten tekoälyominaisuudet toimivat sinulle Literary Universessa.',
     // Accessibility
     'settings.accessibility.title': 'Lukijan saavutettavuus',
     'settings.accessibility.openDyslexic': 'Käytä OpenDyslexic-fonttia',
     'settings.accessibility.paragraphStripes': 'Vaihtoehtoinen taustaväri kappaleille',
     'settings.accessibility.paragraphHighlighting': 'Korosta nykyinen kappale, jonka päällä olet',
     'settings.accessibility.ruler': 'Kiinnitä viivoitin hiiren kursoriin',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Tarinasuositukset',
+    'settings.storyRecommendations.explained': 'Ota käyttöön henkilökohtaiset tarinasuositukset koko sovelluksessa lukutottumuksiesi ja -historiasi perusteella.',
     'settings.tab.legal': 'Oikeudelliset asiakirjat',
     'settings.tab.exportDelete': 'Vie tiedot ja poista tili',
     'settings.languages.uiLanguage': 'Käyttöliittymän kieli',

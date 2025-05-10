@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Vertoon altyd in donker modus',
     'settings.reader.asideView': 'Wys magiese asydpaneel',
     'settings.reader.textSize': 'Wys teks in groter lettertipe',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Leser toeganklikheid',
     'settings.accessibility.openDyslexic': 'Gebruik OpenDyslexic lettertipe',
     'settings.accessibility.paragraphStripes': 'Alternatiewe agtergrondkleur in paragraaf',
     'settings.accessibility.paragraphHighlighting': 'Beklemtoon die huidige paragraaf waaroor jy beweeg',
     'settings.accessibility.ruler': 'Heg \'n liniaal aan die muis vas',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Regsdokumente',
     'settings.tab.exportDelete': 'Voer data uit & verwyder rekening',
     'settings.languages.uiLanguage': 'Interface language',

@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Ĉi tiu permesilo estas la plej limiga el niaj ses ĉefaj permesiloj, permesante nur al aliaj elŝuti viajn verkojn kaj dividi ilin kun aliaj, dum ili kreditas vin, sed ili ne povas ŝanĝi ilin aŭ uzi ilin komerce.',
     'licenses.name.lu-c': 'Aŭtorrajtoj de Literatura Universo',
     'licenses.lu-c': 'Norma permesilo kun plenaj kopirajtaj rajtoj, kiu permesas al vi vendi kaj publikigi vian laboron laŭ via plaĉo kaj protekti viajn rajtojn al ĝi. Ĉi tiu permesilo ankaŭ donas al vi la eblon vendi viajn rakontojn en Literatura Universo.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'Neniu Rajto Rezervita - CC0 1.0',
     'licenses.cc0': 'Metu vian laboron en publika domajno. Kontraŭe al la permesiloj de CC, kiuj permesas al kopirajtaj posedantoj elekti el gamo de permesoj dum ili konservas sian kopirajton, CC0 donas al vi ankoraŭ alian eblecon – la eblecon malŝalti kopirajton kaj datumbazan protekton, kaj la ekskluzivajn rajtojn aŭtomate donitajn al kreintoj – la “neniu rajto rezervita” alternativo al niaj permesiloj.'
 };

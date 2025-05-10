@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Visada rodyti tamsiuoju režimu',
     'settings.reader.asideView': 'Rodyti magišką šoninę juostą',
     'settings.reader.textSize': 'Rodyti tekstą didesniu šriftu',
+    'settings.reader.storyRecommendations': 'Istorijos rekomendacijos',
+    'settings.reader.storyRecommendationsHelp': 'Įgalinkite asmenines istorijų rekomendacijas.',
+    // AI settings
+    'settings.ai.title': 'AI nustatymai',
+    'settings.ai.explained': 'Konfigūruokite, kaip dirbtinio intelekto funkcijos veikia "Literary Universe".',
     // Accessibility
     'settings.accessibility.title': 'Skaitymo prieinamumas',
     'settings.accessibility.openDyslexic': 'Naudoti OpenDyslexic šriftą',
     'settings.accessibility.paragraphStripes': 'Alternatyvi fono spalva pastraipoms',
     'settings.accessibility.paragraphHighlighting': 'Paryškinti dabartinę pastraipą, kuriuo būsite užvedę pelę',
     'settings.accessibility.ruler': 'Prisegti linijalą prie pelės',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Istorijos rekomendacijos',
+    'settings.storyRecommendations.explained': 'Įgalinkite asmenines istorijų rekomendacijas visoje programėlėje pagal savo skaitymo pageidavimus ir istoriją.',
     'settings.tab.legal': 'Teisiniai dokumentai',
     'settings.tab.exportDelete': 'Eksportuoti duomenis ir ištrinti paskyrą',
     'settings.languages.uiLanguage': 'Sąsajos kalba',

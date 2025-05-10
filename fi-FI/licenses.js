@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Tämä lisenssi on rajoittavin kuudesta päälisenssistämme, salliessaan vain muiden ladata teoksesi ja jakaa sitä eteenpäin antaen sinulle kunnian, mutta he eivät voi muuttaa sitä millään tavalla tai käyttää sitä kaupallisesti.',
     'licenses.name.lu-c': 'Literary Universen tekijänoikeudet',
     'licenses.lu-c': 'Standardi täysi tekijänoikeuslisenssi, jonka avulla voit myydä ja julkaista teoksesi haluamallasi tavalla, ja oikeutesi siihen on suojattu. Tämä lisenssi antaa sinulle myös mahdollisuuden myydä tarinoitasi Literary Universessa.',
+    'licenses.name.lu-e': 'Kirjallinen universumi yksinoikeudella',
+    'licenses.lu-e': 'Tämä lisenssi antaa Literary Universelle yksinoikeuden julkaista ja levittää teosta verkossa. Sinulla säilyy tekijänoikeus, mutta Literary Universella on yksinomainen oikeus julkaista ja levittää teosta verkossa.',
+    'licenses.name.lu-ne': 'Kirjallisuuden maailmankaikkeus ei-yksinomainen',
+    'licenses.lu-ne': 'Tämä lisenssi antaa Literary Universelle ei-yksinomaiset oikeudet julkaista ja levittää teosta verkossa. Sinulla säilyy tekijänoikeus ja oikeus julkaista ja levittää teosta muiden kanavien kautta.',
     'licenses.name.cc0': 'Ei oikeuksia pidätetään - CC0 1.0',
     'licenses.cc0': 'Laita työsi julkiseksi. Toisin kuin CC-lisensseissä, joissa tekijänoikeuden haltijat voivat valita useista eri luvista ja säilyttää samalla tekijänoikeutensa, CC0 antaa mahdollisuuden valita aivan toisenlaisen vaihtoehdon - mahdollisuuden luopua tekijänoikeuksista ja tietokantojen suojauksesta sekä tekijöille automaattisesti myönnetyistä yksinoikeuksista - "oikeudet pidätetään" -vaihtoehto lisensseillemme.'
 };

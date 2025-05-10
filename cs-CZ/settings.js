@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Vždy zobrazovat ve tmavém režimu',
     'settings.reader.asideView': 'Zobrazit magické menu',
     'settings.reader.textSize': 'Zobrazit text ve větším písmu',
+    'settings.reader.storyRecommendations': 'Doporučení pro příběh',
+    'settings.reader.storyRecommendationsHelp': 'Povolení personalizovaných doporučení příběhů.',
+    // AI settings
+    'settings.ai.title': 'Nastavení AI',
+    'settings.ai.explained': 'Konfigurace fungování funkcí umělé inteligence v aplikaci Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Přístupnost čtečky',
     'settings.accessibility.openDyslexic': 'Použít OpenDyslexic písmo',
     'settings.accessibility.paragraphStripes': 'Alternující barva pozadí odstavců',
     'settings.accessibility.paragraphHighlighting': 'Zvýraznit aktuální odstavec, nad kterým se nachází myš',
     'settings.accessibility.ruler': 'Přiložit k myši pravítko',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Doporučení pro příběh',
+    'settings.storyRecommendations.explained': 'Povolení personalizovaných doporučení příběhů v celé aplikaci na základě vašich čtenářských preferencí a historie.',
     'settings.tab.legal': 'Právní dokumenty',
     'settings.tab.exportDelete': 'Exportovat data & smazat účet',
     'settings.languages.uiLanguage': 'Jazyk rozhraní',

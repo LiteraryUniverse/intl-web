@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Această licență este cea mai restrictivă dintre cele șase licențe principale, permițând doar altora să descarce lucrările dvs. și să le partajeze cu alții, cu menționarea dvs. ca autor, dar fără a le modifica în vreun fel sau a le utiliza în scopuri comerciale.',
     'licenses.name.lu-c': 'Drepturi de autor în Universul Literar',
     'licenses.lu-c': 'Licență standard de drepturi de autor care vă permite să vindeți și să publicați lucrarea dvs. așa cum doriți și să vă protejați drepturile asupra acesteia. Această licență vă oferă, de asemenea, opțiunea de a vinde poveștile dvs. pe Literary Universe.',
+    'licenses.name.lu-e': 'Universul literar în exclusivitate',
+    'licenses.lu-e': 'Această licență acordă Universului Literar drepturi exclusive de a publica și distribui online lucrarea dumneavoastră. Veți păstra drepturile de autor, dar Literary Universe va avea dreptul exclusiv de a publica și distribui online lucrarea dumneavoastră.',
+    'licenses.name.lu-ne': 'Universul literar neexclusiv',
+    'licenses.lu-ne': 'Această licență acordă Universului Literar drepturi neexclusive de publicare și distribuire a operei dvs. online. Veți păstra drepturile de autor și dreptul de a vă publica și distribui lucrarea prin alte canale.',
     'licenses.name.cc0': 'Niciun drept rezervat - CC0 1.0',
     'licenses.cc0': 'Puneți lucrarea dvs. în domeniul public. În contrast cu licențele CC care permit titularilor de drepturi de autor să aleagă dintr-o gamă de permisiuni în timp ce își păstrează drepturile de autor, CC0 oferă încă o altă opțiune - opțiunea de a renunța la drepturile de autor și protecția bazelor de date, și la drepturile exclusive acordate automat creatorilor - alternativa "niciun drept rezervat" la licențele noastre.'
 };

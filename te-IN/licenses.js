@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'సాధారణ పూర్తి కాపీరైట్ లైసెన్స్ ఇది మీరు మీ పనిని ఎలా అమలు చేయాలో అందించడం మరియు మీ అధికారాలను అందించడం ద్వారా మీ పనిని ప్రచురించడం కూడా అనుమతిస్తుంది. ఈ లైసెన్స్ మీరు కథలను లిటరరీ యూనివర్స్‌లో మీ కథలను అమలు చేయడానికి కూడా అనుకూలంగా ఉంది.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'ఏ అధికారాలను రాకుండా ఉంచవలేని - CC0 1.0',
     'licenses.cc0': 'మీ పనిని పబ్లిక్ డొమైన్‌లో ఉంచండి. CC లైసెన్సులతో తుంటున్న కాపీరైట్ హోల్డర్లకు అనేక అనుమతులను ఎంచుకోవడం చేస్తుందని వేరియింట్‌లు ఉంచేటప్పుడు, CC0 కాపీరైట్ మరియు డేటాబేస్ రక్షణను త్యజింపు చేస్తుంది, మరియు సృష్టికర్తలకు స్వచ్ఛ హక్కులను స్వయంగా అందిస్తుంది - మా లైసెన్సులకు అందిస్తున్న అంతర్గత అనుమతుల కంటే మరొక ఎంపిక - కాపీరైట్ లేకుండా మరియు డేటాబేస్ రక్షణ చేసే అనుమతిని త్యజింపు చేసే అంతర్గత మా లైసెన్సుల ప్రతిస్పందనకు.'
 };

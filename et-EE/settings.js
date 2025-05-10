@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Alati kuvada tumedas režiimis',
     'settings.reader.asideView': 'Näita maagilist kõrvalpaneeli',
     'settings.reader.textSize': 'Näita teksti suuremas kirjas',
+    'settings.reader.storyRecommendations': 'Loo soovitused',
+    'settings.reader.storyRecommendationsHelp': 'Võimaldage isikupärastatud lugude soovitused.',
+    // AI settings
+    'settings.ai.title': 'AI seaded',
+    'settings.ai.explained': 'Seadistage, kuidas AI-funktsioonid teie jaoks kirjanduslikus universumis töötavad.',
     // Accessibility
     'settings.accessibility.title': 'Lugeja ligipääsetavus',
     'settings.accessibility.openDyslexic': 'Kasuta OpenDyslexic fonti',
     'settings.accessibility.paragraphStripes': 'Vaheta lõigu taustavärvi',
     'settings.accessibility.paragraphHighlighting': 'Tõsta esile hetkel hiirega hõljuv lõik',
     'settings.accessibility.ruler': 'Kinnita joonlaud hiire külge',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Loo soovitused',
+    'settings.storyRecommendations.explained': 'Võimaldage kogu rakenduses isikupärastatud lugemissoovitused, mis põhinevad teie lugemissoovitustel ja -ajalool.',
     'settings.tab.legal': 'Õigusdokumendid',
     'settings.tab.exportDelete': 'Ekspordi andmed ja kustuta konto',
     'settings.languages.uiLanguage': 'Kasutajaliidese keel',

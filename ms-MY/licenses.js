@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'Lesen hak cipta penuh standard yang membenarkan anda menjual dan menerbitkan karya anda seperti yang anda inginkan dan melindungi hak anda terhadapnya. Lesen ini juga memberi anda pilihan untuk menjual cerita anda di Literary Universe.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'Tiada Hak Terpelihara - CC0 1.0',
     'licenses.cc0': 'Letakkan karya anda di domain awam. Berbeza dengan lesen CC yang membenarkan pemegang hak cipta untuk memilih dari pelbagai kebenaran sambil mengekalkan hak cipta mereka, CC0 memberikan pilihan yang lain sepenuhnya - pilihan untuk tidak mempunyai hak cipta dan perlindungan pangkalan data, dan hak eksklusif yang secara automatik diberikan kepada pencipta - alternatif "tiada hak terpelihara" kepada lesen kami.'
 };

@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Afișează întotdeauna în modul întunecat',
     'settings.reader.asideView': 'Afișează panoul lateral magic',
     'settings.reader.textSize': 'Afișează textul cu font mai mare',
+    'settings.reader.storyRecommendations': 'Recomandări pentru povești',
+    'settings.reader.storyRecommendationsHelp': 'Activați recomandările de povești personalizate.',
+    // AI settings
+    'settings.ai.title': 'Setări AI',
+    'settings.ai.explained': 'Configurați modul în care funcționează funcțiile AI pentru dvs. pe Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Accesibilitate cititor',
     'settings.accessibility.openDyslexic': 'Folosește fontul OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Alternează culoarea de fundal în paragraf',
     'settings.accessibility.paragraphHighlighting': 'Evidențiază paragraful curent peste care plutești',
     'settings.accessibility.ruler': 'Atașează o riglă la mouse',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Recomandări pentru povești',
+    'settings.storyRecommendations.explained': 'Activați recomandări de povești personalizate în întreaga aplicație, în funcție de preferințele și istoricul dvs. de lectură.',
     'settings.tab.legal': 'Documente legale',
     'settings.tab.exportDelete': 'Exportă datele și șterge contul',
     'settings.languages.uiLanguage': 'Limba de interfață',

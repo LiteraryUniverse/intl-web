@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'ყოველთვის ჩართვა ბნელ რეჟიმში',
     'settings.reader.asideView': 'მაგიკური გვერდის გამოსახულების გამოჩენა',
     'settings.reader.textSize': 'ტექსტის ჩვენება დიდი ფონტით',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'წამკითხვის ხელმისაწვდომობა',
     'settings.accessibility.openDyslexic': 'გამოიყენეთ OpenDyslexic შრიფტი',
     'settings.accessibility.paragraphStripes': 'ალტერნატიული ფონის ფერი პარაგრაფის ფონზე',
     'settings.accessibility.paragraphHighlighting': 'გამოახსენით მიმდინარე პარაგრაფი, რომლის თქვენ ხართ მიმაგრების ზემოთ',
     'settings.accessibility.ruler': 'მშობლის დამატება მაუსზე',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'იურიდიული დოკუმენტები',
     'settings.tab.exportDelete': 'მონაცემთა ექსპორტი და ანგარიშის წაშლა',
     'settings.languages.uiLanguage': 'Interface language',

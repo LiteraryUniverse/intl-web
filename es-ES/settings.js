@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Mostrar siempre en modo oscuro',
     'settings.reader.asideView': 'Mostrar panel mágico aparte',
     'settings.reader.textSize': 'Mostrar el texto en una fuente más grande',
+    'settings.reader.storyRecommendations': 'Recomendaciones de cuentos',
+    'settings.reader.storyRecommendationsHelp': 'Habilite las recomendaciones de historias personalizadas.',
+    // AI settings
+    'settings.ai.title': 'Ajustes de IA',
+    'settings.ai.explained': 'Configure cómo funcionan para usted las funciones de IA en el Universo Literario.',
     // Accessibility
     'settings.accessibility.title': 'Accesibilidad de los lectores',
     'settings.accessibility.openDyslexic': 'Utilizar la fuente OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Alternar el color de fondo del párrafo',
     'settings.accessibility.paragraphHighlighting': 'Resaltar el párrafo actual sobre el que estás pasando el ratón',
     'settings.accessibility.ruler': 'Colocar una regla en el ratón',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Recomendaciones de cuentos',
+    'settings.storyRecommendations.explained': 'Habilite las recomendaciones de historias personalizadas en toda la aplicación en función de sus preferencias de lectura y su historial.',
     'settings.tab.legal': 'Documentación legal',
     'settings.tab.exportDelete': 'Exportar los datos y borrar la cuenta',
     'settings.languages.uiLanguage': 'Lenguaje de interfaz',

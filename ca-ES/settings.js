@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Mostrar sempre en mode fosc',
     'settings.reader.asideView': 'Mostrar el panell lateral màgic',
     'settings.reader.textSize': 'Mostrar el text en una font més gran',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Accessibilitat del lector',
     'settings.accessibility.openDyslexic': 'Utilitzar la font OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'Alternar el color de fons en els paràgrafs',
     'settings.accessibility.paragraphHighlighting': 'Destacar el paràgraf actual en què estàs passant el cursor',
     'settings.accessibility.ruler': 'Adjuntar una regla al ratolí',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Documents legals',
     'settings.tab.exportDelete': 'Exportar dades i eliminar compte',
     'settings.languages.uiLanguage': 'Interface language',

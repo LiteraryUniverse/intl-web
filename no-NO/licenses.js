@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Denne lisensen er den mest restriktive av våre seks hovedlisenser, og tillater bare at andre laster ned dine verk og deler dem med andre så lenge de krediterer deg, men de kan ikke endre dem på noen måte eller bruke dem kommersielt.',
     'licenses.name.lu-c': 'Opphavsrett til Litterært Univers',
     'licenses.lu-c': 'Standard fullstendig opphavsrett lisens som lar deg selge og publisere arbeidet ditt som du ønsker og ha dine rettigheter til det beskyttet. Denne lisensen gir deg også muligheten til å selge historiene dine på Literary Universe.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'Ingen rettigheter reservert - CC0 1.0',
     'licenses.cc0': 'Legg arbeidet ditt i det offentlige domene. I motsetning til CC-lisensene som lar opphavsrettsholderne velge fra en rekke tillatelser samtidig som de beholder opphavsretten sin, gir CC0 en helt annen mulighet - muligheten til å velge bort opphavsrett og databasebeskyttelse, og de eksklusive rettighetene som automatisk tildeles skapere - det "ingen rettigheter reservert"-alternativet til våre lisenser.'
 };

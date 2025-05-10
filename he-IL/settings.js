@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'תמיד להציג במצב כהה',
     'settings.reader.asideView': 'הצג חלונית צדדית קסומה',
     'settings.reader.textSize': 'הצג טקסט בגופן גדול יותר',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'נגישות לקורא',
     'settings.accessibility.openDyslexic': 'השתמש בגופן OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'שנה צבע רקע אלטרנטיבי בפסקה',
     'settings.accessibility.paragraphHighlighting': 'הדגש את הפסקה הנוכחית שאתה מרחף מעליה',
     'settings.accessibility.ruler': 'צרף סרגל לעכבר',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'מסמכים משפטיים',
     'settings.tab.exportDelete': 'יצוא נתונים ומחיקת חשבון',
     'settings.languages.uiLanguage': 'Interface language',

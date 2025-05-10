@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Palaging ipakita sa dark mode',
     'settings.reader.asideView': 'Ipakita ang kaharian ng salamangkero',
     'settings.reader.textSize': 'Ipakita ang teksto sa mas malaking font',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Kahusayan ng mambabasa',
     'settings.accessibility.openDyslexic': 'Gamitin ang OpenDyslexic font',
     'settings.accessibility.paragraphStripes': 'Iba\'t ibang kulay ng background sa talata',
     'settings.accessibility.paragraphHighlighting': 'I-highlight ang kasalukuyang talata na iyong kinukutusan',
     'settings.accessibility.ruler': 'Ikabit ang ruler sa mouse',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Mga legal na dokumento',
     'settings.tab.exportDelete': 'I-export ang data at burahin ang account',
     'settings.languages.uiLanguage': 'Interface language',

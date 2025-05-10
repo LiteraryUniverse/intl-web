@@ -105,12 +105,20 @@ export default {
     'settings.reader.darkMode': '常にダークモードで表示',
     'settings.reader.asideView': 'マジカルアサイドパネルを表示する',
     'settings.reader.textSize': '文字を大きく表示する',
+    'settings.reader.storyRecommendations': 'おすすめ記事',
+    'settings.reader.storyRecommendationsHelp': 'パーソナライズされたストーリーの推薦を可能にする。',
+    // AI settings
+    'settings.ai.title': 'AI設定',
+    'settings.ai.explained': 'Literary UniverseでAI機能がどのように機能するかを設定します。',
     // Accessibility
     'settings.accessibility.title': '読者アクセシビリティ',
     'settings.accessibility.openDyslexic': 'OpenDyslexicフォントを使用する',
     'settings.accessibility.paragraphStripes': '段落の背景色を交互に変更する',
     'settings.accessibility.paragraphHighlighting': '現在カーソルを置いている段落をハイライト表示します',
     'settings.accessibility.ruler': 'マウスに定規を付ける',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'おすすめ記事',
+    'settings.storyRecommendations.explained': 'あなたの読書の好みと履歴に基づいて、アプリ全体でパーソナライズされたストーリーの推奨を有効にします。',
     'settings.tab.legal': '法的文書',
     'settings.tab.exportDelete': 'データのエキスポートとアカウントの削除',
     'settings.languages.uiLanguage': 'インターフェース言語',

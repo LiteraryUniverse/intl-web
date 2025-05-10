@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Lisensi ini adalah yang paling membatasi dari enam lisensi utama kami, hanya memungkinkan orang lain untuk mengunduh karya Anda dan membagikannya kepada orang lain selama memberikan kredit kepada Anda, tetapi mereka tidak boleh mengubahnya dengan cara apa pun atau menggunakan secara komersial.',
     'licenses.name.lu-c': 'Hak Cipta Literary Universe',
     'licenses.lu-c': 'Lisensi hak cipta penuh standar yang memungkinkan Anda untuk menjual dan menerbitkan karya Anda sesuai keinginan dan melindungi hak-hak Anda terhadapnya. Lisensi ini juga memberi Anda opsi untuk menjual cerita Anda di Literary Universe.',
+    'licenses.name.lu-e': 'Literary Universe Eksklusif',
+    'licenses.lu-e': 'Lisensi ini memberikan hak eksklusif kepada Literary Universe untuk mempublikasikan dan mendistribusikan karya Anda secara online. Anda akan mempertahankan hak cipta, tetapi Literary Universe akan memiliki hak tunggal untuk mempublikasikan dan mendistribusikan karya Anda secara online.',
+    'licenses.name.lu-ne': 'Semesta Sastra Non-Eksklusif',
+    'licenses.lu-ne': 'Lisensi ini memberikan hak non-eksklusif kepada Literary Universe untuk mempublikasikan dan mendistribusikan karya Anda secara online. Anda akan tetap memiliki hak cipta dan hak untuk mempublikasikan dan mendistribusikan karya Anda melalui saluran lain.',
     'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
     'licenses.cc0': 'Letakkan karya Anda di domain publik. Berbeda dengan lisensi CC yang memungkinkan pemegang hak cipta untuk memilih dari berbagai izin sambil tetap mempertahankan hak cipta mereka, CC0 memberikan pilihan yang berbeda sama sekali - pilihan untuk keluar dari hak cipta dan perlindungan basis data, serta hak eksklusif yang secara otomatis diberikan kepada pencipta - sebagai alternatif "tanpa hak yang dipesan" terhadap lisensi kami.'
 };

@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'எப்போதும் இருக்கும் இரகசிய முறையில் காட்டு',
     'settings.reader.asideView': 'மந்திர பட்டத்தைக் காட்டு',
     'settings.reader.textSize': 'பெரிய எழுத்துக்கு உரையாட காட்டு',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'வாசிப்பு எளிய அணுகல்கள்',
     'settings.accessibility.openDyslexic': 'OpenDyslexic எழுத்துருவைப் பயன்படுத்து',
     'settings.accessibility.paragraphStripes': 'பதிவேடு பின்னணி வண்ண மாற்றம்',
     'settings.accessibility.paragraphHighlighting': 'நீங்கள் மேலும் விரும்பும் தொகுப்பில் நிலையான பதிவை முக்கியப்படுத்து',
     'settings.accessibility.ruler': 'மூஸ் கீழ் ஒளி ஒளிப்பதற்கு ஒரு அளவிடத்தை இணைக்க',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'சட்டப்படிகள்',
     'settings.tab.exportDelete': 'தரவை ஏற்றுக்கொள்ளும் மற்றும் கணக்கை நீக்கு',
     'settings.languages.uiLanguage': 'Interface language',

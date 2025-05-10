@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Uvijek prikazuj u tamnom načinu rada',
     'settings.reader.asideView': 'Prikaži čarobni bočni panel',
     'settings.reader.textSize': 'Prikaži tekst većim fontom',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Pristupačnost čitača',
     'settings.accessibility.openDyslexic': 'Koristi OpenDyslexic font',
     'settings.accessibility.paragraphStripes': 'Alternativna boja pozadine u odlomku',
     'settings.accessibility.paragraphHighlighting': 'Istakni trenutni odlomak preko kojeg prelaziš mišem',
     'settings.accessibility.ruler': 'Pripoji ravnalo mišu',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'Pravni dokumenti',
     'settings.tab.exportDelete': 'Izvezi podatke i izbriši račun',
     'settings.languages.uiLanguage': 'Interface language',

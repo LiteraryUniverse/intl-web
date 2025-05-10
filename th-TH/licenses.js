@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'ใบอนุญาตลิขสิทธิ์มาตรฐานที่ให้คุณขายและเผยแพร่งานของคุณได้ตามที่คุณต้องการและปกป้องสิทธิ์ของคุณในงานนั้น ใบอนุญาตนี้ยังให้คุณตัวเลือกในการขายเรื่องราวของคุณบน Literary Universe',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'ไม่สงวนสิทธิ์ - CC0 1.0',
     'licenses.cc0': 'ใส่งานของคุณเข้าสู่โดเมนสาธารณะ ในทวิภาคของใบอนุญาต CC ที่อนุญาตให้เจ้าของลิขสิทธิ์เลือกจากช่วงอนุญาตต่าง ๆ พร้อมทั้งยังคงลิขสิทธิ์ของตนเอง CC0 ยังมอบอำนาจในการเลือกตัวเลือกอีกอย่างหนึ่ง - คือ ตัวเลือกในการไม่มีลิขสิทธิ์และการป้องกันฐานข้อมูล และสิทธิ์ที่ได้รับอัตโนมัติสำหรับผู้สร้าง - เป็นทางเลือก "ไม่สงวนสิทธิ์" ทางเลือกอื่นของเราในใบอนุญาต'
 };

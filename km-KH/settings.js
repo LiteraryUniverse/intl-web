@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'បង្ហាញជាន់ពិសេសតែនៅក្នុងរចនាសម្ព័ន្ធមិនរក្សាទុក',
     'settings.reader.asideView': 'បង្ហាញផ្ទៃខាងជំពូកដោយប្រើស្រទាប់បំផុត',
     'settings.reader.textSize': 'បង្ហាញអក្សរតែមួយក្នុងទិដ្ឋភាពធំទៀត',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'ការចូលដំណើរការរបស់អ្នកអានប្រសិទ្ធិភាព',
     'settings.accessibility.openDyslexic': 'ប្រើពុម្ពអក្សរ OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'ប្តូរពណ៌ផ្ទៃខាងក្នុងក្រឡា',
     'settings.accessibility.paragraphHighlighting': 'ដាក់ពណ៌ផ្ទៃខាងក្នុងបន្ទាត់ដែលអ្នកកំពុងបង្ហាញលើ',
     'settings.accessibility.ruler': 'ភ្ជាប់ស្លាកទៅក្បាលម៉ោងរបស់ពុកម៉ែល',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'ឯកសារភាពជ្រើសរើស',
     'settings.tab.exportDelete': 'ទាញយកទិន្នន័យនិងលុបការប្រើប្រាស់គណនី',
     'settings.languages.uiLanguage': 'Interface language',

@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': '항상 어두운 모드로 표시',
     'settings.reader.asideView': '마법의 사이드 패널 표시',
     'settings.reader.textSize': '더 큰 글꼴로 텍스트 표시',
+    'settings.reader.storyRecommendations': '스토리 추천',
+    'settings.reader.storyRecommendationsHelp': '개인화된 스토리 추천을 사용 설정합니다.',
+    // AI settings
+    'settings.ai.title': 'AI 설정',
+    'settings.ai.explained': '리터러티브 유니버스에서 AI 기능의 작동 방식을 구성하세요.',
     // Accessibility
     'settings.accessibility.title': '리더 접근성',
     'settings.accessibility.openDyslexic': 'OpenDyslexic 글꼴 사용',
     'settings.accessibility.paragraphStripes': '문단 배경색 대체',
     'settings.accessibility.paragraphHighlighting': '현재 마우스를 올려놓은 문단 강조 표시',
     'settings.accessibility.ruler': '마우스에 자를 부착',
+    // Story Recommendations
+    'settings.storyRecommendations.title': '스토리 추천',
+    'settings.storyRecommendations.explained': '읽기 선호도와 기록을 기반으로 앱 전체에서 개인화된 스토리 추천을 사용하세요.',
     'settings.tab.legal': '법적 문서',
     'settings.tab.exportDelete': '데이터 내보내기 및 계정 삭제',
     'settings.languages.uiLanguage': '인터페이스 언어',

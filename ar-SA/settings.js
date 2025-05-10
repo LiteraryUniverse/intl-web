@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'عرض دائم في وضع الظلام',
     'settings.reader.asideView': 'عرض لوحة جانبية سحرية',
     'settings.reader.textSize': 'عرض النص بخط أكبر',
+    'settings.reader.storyRecommendations': 'توصيات القصة',
+    'settings.reader.storyRecommendationsHelp': 'تمكين توصيات القصص المخصصة.',
+    // AI settings
+    'settings.ai.title': 'إعدادات الذكاء الاصطناعي',
+    'settings.ai.explained': 'قم بتهيئة كيفية عمل ميزات الذكاء الاصطناعي من أجلك على برنامج "الكون الأدبي".',
     // Accessibility
     'settings.accessibility.title': 'إمكانية الوصول للقارئ',
     'settings.accessibility.openDyslexic': 'استخدام خط OpenDyslexic',
     'settings.accessibility.paragraphStripes': 'تغيير لون الخلفية البديل في الفقرة',
     'settings.accessibility.paragraphHighlighting': 'تمييز الفقرة الحالية التي تحوم فوقها',
     'settings.accessibility.ruler': 'تثبيت مسطرة على الماوس',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'توصيات القصة',
+    'settings.storyRecommendations.explained': 'تمكين توصيات القصص المخصصة في التطبيق بناءً على تفضيلاتك للقراءة وتاريخك في القراءة.',
     'settings.tab.legal': 'الوثائق القانونية',
     'settings.tab.exportDelete': 'تصدير البيانات وحذف الحساب',
     'settings.languages.uiLanguage': 'لغة الواجهة',

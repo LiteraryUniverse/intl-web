@@ -25,7 +25,7 @@ export default {
     'blog.post.text': 'Gönderi metni',
     'common.slug': 'SEO dostu adres',
     'blog.slug.explained': 'Gönderi için güzel görünümlü bir URL oluşturun. "-" haricinde özel karakterler kullanmaktan kaçının.',
-    'blog.publicView': 'Halka açık görünüm',
+    'blog.publicView': 'Herkese açık',
     'blog.post.notfound': 'Blog gönderisi bulunamadı',
     'blog.lists.works': `{type, select,
     universes {Evrenler}

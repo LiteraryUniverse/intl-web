@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'Visa alltid i mörkt läge',
     'settings.reader.asideView': 'Visa magisk sidopanel',
     'settings.reader.textSize': 'Visa text i större teckensnitt',
+    'settings.reader.storyRecommendations': 'Rekommendationer för berättelser',
+    'settings.reader.storyRecommendationsHelp': 'Möjliggör personliga rekommendationer för berättelser.',
+    // AI settings
+    'settings.ai.title': 'AI-inställningar',
+    'settings.ai.explained': 'Konfigurera hur AI-funktioner fungerar för dig på Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Läsbarhet för läsaren',
     'settings.accessibility.openDyslexic': 'Använd OpenDyslexic-typsnitt',
     'settings.accessibility.paragraphStripes': 'Alternativ bakgrundsfärg för stycke',
     'settings.accessibility.paragraphHighlighting': 'Markera det aktuella stycket som du håller över',
     'settings.accessibility.ruler': 'Fäst en linjal vid musen',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Rekommendationer för berättelser',
+    'settings.storyRecommendations.explained': 'Aktivera personliga rekommendationer för berättelser i hela appen baserat på dina läspreferenser och din läshistorik.',
     'settings.tab.legal': 'Juridiska dokument',
     'settings.tab.exportDelete': 'Exportera data och ta bort konto',
     'settings.languages.uiLanguage': 'Språk för gränssnitt',

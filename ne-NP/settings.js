@@ -107,12 +107,20 @@ export default {
     'settings.reader.darkMode': 'सधैँ डार्क मोडमा देखाउनुहोस्',
     'settings.reader.asideView': 'जादुई अल्पत्र प्यानल देखाउनुहोस्',
     'settings.reader.textSize': 'पाठलाई ठूलो फन्टमा देखाउनुहोस्',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'पाठको पहुँचयोग्यता',
     'settings.accessibility.openDyslexic': 'OpenDyslexic फन्ट प्रयोग गर्नुहोस्',
     'settings.accessibility.paragraphStripes': 'अनुच्छेदमा विकल्प रंग पट्टी लगाउनुहोस्',
     'settings.accessibility.paragraphHighlighting': 'तपाईंले होभर गरिरहेको हालको अनुच्छेदलाई हाइलाइट गर्नुहोस्',
     'settings.accessibility.ruler': 'माउसमा एक रुलर संलग्न गर्नुहोस्',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Story recommendations',
+    'settings.storyRecommendations.explained': 'Enable personalized story recommendations throughout the app based on your reading preferences and history.',
     'settings.tab.legal': 'कानूनी कागजातहरू',
     'settings.tab.exportDelete': 'डाटा निर्यात गर्नुहोस् र खाता हटाउनुहोस्',
     'settings.languages.uiLanguage': 'Interface language',

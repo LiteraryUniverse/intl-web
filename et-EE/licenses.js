@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'See litsents on meie kuuest peamisest litsentsist kõige piiravam, lubades teistel ainult sinu töid alla laadida ja neid teistega jagada, tingimusel et nad annavad sulle autorikrediidi, kuid nad ei tohi neid mingil viisil muuta ega kasutada kommertslikul eesmärgil.',
     'licenses.name.lu-c': 'Kirjandusliku Universumi autoriõigused',
     'licenses.lu-c': 'Standardne täielik autoriõiguste litsents, mis võimaldab teil oma tööd müüa ja avaldada nii, nagu soovite, ning kaitsta oma õigusi sellele. Selle litsentsi abil saate ka oma lugusid müüa Literatuurne Universumis.',
+    'licenses.name.lu-e': 'Kirjanduslik universum eksklusiivne',
+    'licenses.lu-e': 'See litsents annab Literary Universe\'ile ainuõiguse teie töö avaldamiseks ja levitamiseks internetis. Autoriõigused jäävad teile, kuid Literary Universe\'il on ainuõigus teie teose avaldamiseks ja levitamiseks internetis.',
+    'licenses.name.lu-ne': 'Kirjanduslik universum mitteeksklusiivne',
+    'licenses.lu-ne': 'See litsents annab Literary Universe\'ile mitte-eksklusiivsed õigused teie töö avaldamiseks ja levitamiseks internetis. Autoriõigus ja õigus avaldada ja levitada oma teost teiste kanalite kaudu jääb teile.',
     'licenses.name.cc0': 'Ühtegi õigust ei ole kaitstud - CC0 1.0',
     'licenses.cc0': 'Avaldage oma töö avalikku valda. Erinevalt CC litsentsidest, mis võimaldavad autoriõiguste omajatel valida erinevate lubade vahel, säilitades samas oma autoriõigused, annab CC0 veel ühe valiku - võimaluse loobuda autoriõigusest ja andmebaasi kaitsest ning loojatele automaatselt antud ainuõigustest - "ühtegi õigust ei ole kaitstud" alternatiivi meie litsentsidele.'
 };
