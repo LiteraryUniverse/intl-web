@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'সদাৰণ ম’ডত প্ৰদৰ্শন কৰক',
     'settings.reader.asideView': 'আশ্চৰ্যমূলক পানেল প্ৰদৰ্শন কৰক',
     'settings.reader.textSize': 'পাঠটি বৃহৎ ফন্টত প্ৰদৰ্শন কৰক',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'পাঠকৰ প্ৰবেশযোগ্যতা',
     'settings.accessibility.openDyslexic': 'OpenDyslexic ফন্ট ব্যৱহাৰ কৰক',
