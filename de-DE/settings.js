@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Immer im Dunklen Modus anzeigen',
     'settings.reader.asideView': 'Zeige magische Nebentafel',
     'settings.reader.textSize': 'Text in größerer Schriftart anzeigen',
+    'settings.reader.storyRecommendations': 'Story-Empfehlungen',
+    'settings.reader.storyRecommendationsHelp': 'Aktivieren Sie personalisierte Story-Empfehlungen.',
+    // AI settings
+    'settings.ai.title': 'AI-Einstellungen',
+    'settings.ai.explained': 'Konfigurieren Sie, wie KI-Funktionen für Sie auf Literary Universe funktionieren.',
     // Accessibility
     'settings.accessibility.title': 'Barrierefreiheit Optionen',
     'settings.accessibility.openDyslexic': 'OpenDyslexis-Schriftart verwenden',
