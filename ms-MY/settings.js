@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Sentiasa paparkan dalam mod gelap',
     'settings.reader.asideView': 'Paparkan panel samping ajaib',
     'settings.reader.textSize': 'Paparkan teks dalam saiz fon yang lebih besar',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Aksesibiliti pembaca',
     'settings.accessibility.openDyslexic': 'Guna fon OpenDyslexic',
