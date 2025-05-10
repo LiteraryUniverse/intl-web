@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Mindig sötét módban jelenítse meg',
     'settings.reader.asideView': 'Mutassa a varázslatos oldalsávot',
     'settings.reader.textSize': 'Mutassa a szöveget nagyobb betűmérettel',
+    'settings.reader.storyRecommendations': 'Történet Ajánlások',
+    'settings.reader.storyRecommendationsHelp': 'Személyre szabott történetajánlások engedélyezése.',
+    // AI settings
+    'settings.ai.title': 'AI beállítások',
+    'settings.ai.explained': 'Állítsa be, hogyan működjenek a mesterséges intelligencia funkciók az Ön számára az Irodalmi Univerzumban.',
     // Accessibility
     'settings.accessibility.title': 'Olvasó elérhetőség',
     'settings.accessibility.openDyslexic': 'Használja az OpenDyslexic betűtípust',
