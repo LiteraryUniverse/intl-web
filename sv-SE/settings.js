@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Visa alltid i mörkt läge',
     'settings.reader.asideView': 'Visa magisk sidopanel',
     'settings.reader.textSize': 'Visa text i större teckensnitt',
+    'settings.reader.storyRecommendations': 'Rekommendationer för berättelser',
+    'settings.reader.storyRecommendationsHelp': 'Möjliggör personliga rekommendationer för berättelser.',
+    // AI settings
+    'settings.ai.title': 'AI-inställningar',
+    'settings.ai.explained': 'Konfigurera hur AI-funktioner fungerar för dig på Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Läsbarhet för läsaren',
     'settings.accessibility.openDyslexic': 'Använd OpenDyslexic-typsnitt',
