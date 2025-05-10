@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'បង្ហាញជាន់ពិសេសតែនៅក្នុងរចនាសម្ព័ន្ធមិនរក្សាទុក',
     'settings.reader.asideView': 'បង្ហាញផ្ទៃខាងជំពូកដោយប្រើស្រទាប់បំផុត',
     'settings.reader.textSize': 'បង្ហាញអក្សរតែមួយក្នុងទិដ្ឋភាពធំទៀត',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'ការចូលដំណើរការរបស់អ្នកអានប្រសិទ្ធិភាព',
     'settings.accessibility.openDyslexic': 'ប្រើពុម្ពអក្សរ OpenDyslexic',
