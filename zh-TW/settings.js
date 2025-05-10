@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': '始終以暗黑模式顯示',
     'settings.reader.asideView': '顯示神奇的側邊欄',
     'settings.reader.textSize': '以較大的字體顯示文字',
+    'settings.reader.storyRecommendations': '故事推薦',
+    'settings.reader.storyRecommendationsHelp': '啟用個人化故事推薦。',
+    // AI settings
+    'settings.ai.title': 'AI 設定',
+    'settings.ai.explained': '在 Literary Universe 上設定 AI 功能如何為您運作。',
     // Accessibility
     'settings.accessibility.title': '閱讀器無障礙功能',
     'settings.accessibility.openDyslexic': '使用OpenDyslexic字體',
