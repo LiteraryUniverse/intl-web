@@ -141,6 +141,12 @@ export default {
   'settings.reader.darkMode': 'Always display in dark mode',
   'settings.reader.asideView': 'Show magical aside panel',
   'settings.reader.textSize': 'Show text in larger font',
+  'settings.reader.storyRecommendations': 'Story Recommendations',
+  'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+
+  // AI settings
+  'settings.ai.title': 'AI settings',
+  'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
 
   // Accessibility
   'settings.accessibility.title': 'Reader accessibility',
