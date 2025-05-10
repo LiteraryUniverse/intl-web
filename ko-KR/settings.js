@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': '항상 어두운 모드로 표시',
     'settings.reader.asideView': '마법의 사이드 패널 표시',
     'settings.reader.textSize': '더 큰 글꼴로 텍스트 표시',
+    'settings.reader.storyRecommendations': '스토리 추천',
+    'settings.reader.storyRecommendationsHelp': '개인화된 스토리 추천을 사용 설정합니다.',
+    // AI settings
+    'settings.ai.title': 'AI 설정',
+    'settings.ai.explained': '리터러티브 유니버스에서 AI 기능의 작동 방식을 구성하세요.',
     // Accessibility
     'settings.accessibility.title': '리더 접근성',
     'settings.accessibility.openDyslexic': 'OpenDyslexic 글꼴 사용',
