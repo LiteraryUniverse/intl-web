@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'સ્ટાન્ડર્ડ પૂર્ણ કૉપિરાઇટ લાયસન્સ જે તમને તમારું કામ વેચવા અને પ્રકાશિત કરવાની મંજૂરી આપે છે અને તમારા અધિકારોને સંરક્ષિત રાખે છે. આ લાયસન્સ તમને લિટરેરી યુનિવર્સમાં તમારી કથાઓને વેચવાની વિકલ્પની પણ આપે છે.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'કોઈ હક સંરક્ષિત નથી - CC0 1.0',
     'licenses.cc0': 'તમારું કામ સાર્વજનિક ડોમેનમાં મૂકો. CC ના લાયસન્સોથી વાપરતા કૉપિરાઇટ ધારકોને તેમજ તેમની કૉપિરાઇટ સાથે જુદાજુદા પરવાનગીઓને પસંદ કરવાની મંજૂરી આપે છે, CC0 કૉપિરાઇટ અને ડેટાબેઝ સંરક્ષણની પસંદગીને અવશ્યકતાને બાદ છોડી આપે છે અને સર્જકોને આપેલા અનન્ય હકો - "કોઈ હક સંરક્ષિત નથી" આ આપતું વિકલ્પ આપે છે.'
 };
