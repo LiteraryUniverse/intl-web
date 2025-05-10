@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Hierdie lisensie is die mees beperkende van ons ses hooflisensies en stel slegs ander in staat om jou werke af te laai en met ander te deel, solank hulle jou erken, maar hulle mag dit nie op enige manier verander of kommersieel gebruik nie.',
     'licenses.name.lu-c': 'Literary Universe Auteursregte',
     'licenses.lu-c': 'Standaard volle kopiereg lisensie wat jou toelaat om jou werk te verkoop en publiseer soos jy wil en jou regte daaraan beskerm. Hierdie lisensie gee jou ook die opsie om jou stories op Literary Universe te verkoop.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'Geen Regte Voorbehou - CC0 1.0',
     'licenses.cc0': 'Plaas jou werk in die openbare domein. In teenstelling met CC se lisensies wat kopiereghouers toelaat om van \'n verskeidenheid toestemmings te kies terwyl hulle hul kopiereg behou, gee CC0 nog \'n hele ander keuse - die keuse om uit te tree uit kopiereg en databasisbeskerming, en die eksklusiewe regte wat outomaties aan skeppers verleen word - die “geen regte voorbehou”-alternatief tot ons lisensies.'
 };
