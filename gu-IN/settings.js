@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'હંમેશા ડાર્ક મોડમાં દર્શાવો',
     'settings.reader.asideView': 'જાદૂઈ પાછલી પેનલ બતાવો',
     'settings.reader.textSize': 'મોટા ફોન્ટમાં લખાણ બતાવો',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'વાંચક સુલભતા',
     'settings.accessibility.openDyslexic': 'OpenDyslexic ફોન્ટનો ઉપયોગ કરો',
