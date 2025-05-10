@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Denne licens er den mest restriktive af vores seks hovedlicenser og tillader kun andre at downloade dine værker og dele dem med andre, så længe de giver dig kredit, men de må ikke ændre dem på nogen måde eller bruge dem kommercielt.',
     'licenses.name.lu-c': 'Litterære Universe Ophavsrettigheder',
     'licenses.lu-c': 'Standard fulde ophavsrettighedslicens, der giver dig lov til at sælge og udgive dit arbejde, som du ønsker, og beskytter dine rettigheder til det. Denne licens giver dig også mulighed for at sælge dine historier på Litterære Universe.',
+    'licenses.name.lu-e': 'Litterært univers eksklusivt',
+    'licenses.lu-e': 'Denne licens giver Literary Universe eksklusiv ret til at udgive og distribuere dit værk online. Du beholder ophavsretten, men Literary Universe har eneret til at udgive og distribuere dit værk online.',
+    'licenses.name.lu-ne': 'Litterært univers ikke-eksklusivt',
+    'licenses.lu-ne': 'Denne licens giver Literary Universe ikke-eksklusive rettigheder til at udgive og distribuere dit værk online. Du beholder ophavsretten og retten til at udgive og distribuere dit værk gennem andre kanaler.',
     'licenses.name.cc0': 'Ingen ophavsret - CC0 1.0',
     'licenses.cc0': 'Placer dit arbejde i public domain. I modsætning til CC\'s licenser, der giver ophavsretshavere mulighed for at vælge mellem en række tilladelser og samtidig beholde deres ophavsret, giver CC0 endnu et valg helt sammen – valget om at fravælge ophavsret og databasebeskyttelse og de eksklusive rettigheder, der automatisk tildeles skabere - den "ingen rettigheder forbeholdt"-alternativ til vores licenser.'
 };
