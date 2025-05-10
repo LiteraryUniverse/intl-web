@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Alati kuvada tumedas režiimis',
     'settings.reader.asideView': 'Näita maagilist kõrvalpaneeli',
     'settings.reader.textSize': 'Näita teksti suuremas kirjas',
+    'settings.reader.storyRecommendations': 'Loo soovitused',
+    'settings.reader.storyRecommendationsHelp': 'Võimaldage isikupärastatud lugude soovitused.',
+    // AI settings
+    'settings.ai.title': 'AI seaded',
+    'settings.ai.explained': 'Seadistage, kuidas AI-funktsioonid teie jaoks kirjanduslikus universumis töötavad.',
     // Accessibility
     'settings.accessibility.title': 'Lugeja ligipääsetavus',
     'settings.accessibility.openDyslexic': 'Kasuta OpenDyslexic fonti',
