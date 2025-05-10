@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'हमेशा डार्क मोड में दिखाएं',
     'settings.reader.asideView': 'जादुई अलावा पैनल दिखाएं',
     'settings.reader.textSize': 'बड़े फ़ॉन्ट में पाठ दिखाएं',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'पठक पहुँचियता',
     'settings.accessibility.openDyslexic': 'OpenDyslexic फ़ॉन्ट का उपयोग करें',
