@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Всегда отображать в тёмном режиме',
     'settings.reader.asideView': 'Отображение магической панели в стороне',
     'settings.reader.textSize': 'Отображать текст более крупным шрифтом',
+    'settings.reader.storyRecommendations': 'Рекомендации по сюжету',
+    'settings.reader.storyRecommendationsHelp': 'Включите персонализированные рекомендации по сюжетам.',
+    // AI settings
+    'settings.ai.title': 'Настройки искусственного интеллекта',
+    'settings.ai.explained': 'Настройте, как функции искусственного интеллекта будут работать для Вас в Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Специальные возможности чтения',
     'settings.accessibility.openDyslexic': 'Использовать шрифт OpenDyslexic',
