@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Taispeáin i gcónaí i mód dorcha',
     'settings.reader.asideView': 'Taispeáin painéal taobhtha draíochta',
     'settings.reader.textSize': 'Taispeáin téacs i bhfont níos mó',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Cumraíocht léitheora',
     'settings.accessibility.openDyslexic': 'Úsáid foirgneamh OpenDyslexic',
