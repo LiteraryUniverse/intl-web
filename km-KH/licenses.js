@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'អាជ្ញាធរសម្រាប់អាននិងលក្ខណៈពន្ធរបស់អ្នកដែលអនុញ្ញាតឱ្យលក្ខណៈសម្បត្តិរបស់អ្នកបានការលក្ខណៈការលក្ខណៈរបស់អ្នកបានការពារត្រាំមួយ។ អាជ្ញាធរនេះក៏ឱ្យអ្នកជួយលក្ខណៈរបស់អ្នកបានជួយលក្ខណៈរបស់អ្នកបានលក្ខណៈការលក្ខណៈរបស់អ្នកបានការលក្ខណៈរបស់អ្នកបានការពារត្រាំមួយ។',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'គ្មានការការិយាល័យដែលបានគេការការិយាល័យ - CC0 1.0',
     'licenses.cc0': 'ដាក់លក្ខណៈរបស់អ្នកចូលក្នុងបរិស្ថានសាធារណៈសាធារណៈសន្ទនារបស់ CC ដែលអនុញ្ញាតឱ្យមានការជ្រើសរើសពីការអនុញ្ញាតការអនុញ្ញាតប្រភេទចរន្តដែលអនុញ្ញាតឱ្យមានការការការិយាល័យមួយចំនួនដែលអនុញ្ញាតឱ្យមានការការការការការលក្ខណៈការលក្ខណៈរបស់អ្នកបានការពារត្រាំមួយ - ការជ្រើសរើសពីការអនុញ្ញាតរបស់យើង។'
 };
