@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Vertoon altyd in donker modus',
     'settings.reader.asideView': 'Wys magiese asydpaneel',
     'settings.reader.textSize': 'Wys teks in groter lettertipe',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Leser toeganklikheid',
     'settings.accessibility.openDyslexic': 'Gebruik OpenDyslexic lettertipe',
