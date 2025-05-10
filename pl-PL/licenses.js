@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Ta licencja jest najbardziej restrykcyjna z naszych sześciu głównych licencji. Pozwala innym na pobieranie Twoich utworów i dzielenie się nimi z innymi, pod warunkiem, że podadzą Twoją nazwę, ale nie mogą ich w żaden sposób zmieniać ani używać do celów komercyjnych.',
     'licenses.name.lu-c': 'Literary Universe Prawa Autorskie',
     'licenses.lu-c': 'Standardowa licencja z pełnymi prawami autorskimi, która pozwala ci na sprzedaż i publikację twoich prac, jak tylko chcesz, a twoje prawa do nich są chronione. Ta licencja daje Ci również możliwość sprzedaży Twoich opowiadań na Literary Universe.',
+    'licenses.name.lu-e': 'Literary Universe na wyłączność',
+    'licenses.lu-e': 'Niniejsza licencja przyznaje Literary Universe wyłączne prawa do publikowania i rozpowszechniania Państwa utworu online. Zachowają Państwo prawa autorskie, ale Literary Universe będzie miało wyłączne prawo do publikowania i rozpowszechniania Państwa utworu online.',
+    'licenses.name.lu-ne': 'Literary Universe bez wyłączności',
+    'licenses.lu-ne': 'Niniejsza licencja przyznaje Literary Universe niewyłączne prawa do publikowania i rozpowszechniania Państwa utworu online. Zachowają Państwo prawa autorskie oraz prawo do publikowania i rozpowszechniania swojego utworu za pośrednictwem innych kanałów.',
     'licenses.name.cc0': 'Brak praw autorskich - CC0 1.0',
     'licenses.cc0': 'Przekaż swoją pracę do domeny publicznej. W przeciwieństwie do licencji CC, które pozwalają właścicielom praw autorskich na wybór spośród szeregu zezwoleń przy jednoczesnym zachowaniu praw autorskich, CC0 daje jeszcze inny wybór - wybór rezygnacji z ochrony praw autorskich i baz danych oraz wyłącznych praw automatycznie przyznawanych twórcom - alternatywa "bez praw zastrzeżonych" dla naszych licencji.'
 };
