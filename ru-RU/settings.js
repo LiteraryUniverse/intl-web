@@ -107,11 +107,11 @@ export default {
     'settings.reader.darkMode': 'Всегда отображать в тёмном режиме',
     'settings.reader.asideView': 'Отображение магической панели в стороне',
     'settings.reader.textSize': 'Отображать текст более крупным шрифтом',
-    'settings.reader.storyRecommendations': 'Рекомендации по сюжету',
-    'settings.reader.storyRecommendationsHelp': 'Включите персонализированные рекомендации по сюжетам.',
+    'settings.reader.storyRecommendations': 'Рекомендации историй',
+    'settings.reader.storyRecommendationsHelp': 'Включить персонализированные рекомендации по историям.',
     // AI settings
-    'settings.ai.title': 'Настройки искусственного интеллекта',
-    'settings.ai.explained': 'Настройте, как функции искусственного интеллекта будут работать для Вас в Literary Universe.',
+    'settings.ai.title': 'Настройки ИИ',
+    'settings.ai.explained': 'Настройте, как функции искусственного интеллекта будут работать для вас в Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Специальные возможности чтения',
     'settings.accessibility.openDyslexic': 'Использовать шрифт OpenDyslexic',
@@ -119,8 +119,8 @@ export default {
     'settings.accessibility.paragraphHighlighting': 'Выделить текущий абзац, на который вы навели курсор',
     'settings.accessibility.ruler': 'Прикрепить линейку к мыши',
     // Story Recommendations
-    'settings.storyRecommendations.title': 'Рекомендации по сюжету',
-    'settings.storyRecommendations.explained': 'Включите персональные рекомендации по сюжетам во всем приложении на основе Ваших предпочтений и истории чтения.',
+    'settings.storyRecommendations.title': 'Рекомендации историй',
+    'settings.storyRecommendations.explained': 'Включить персональные рекомендации по историям во всём приложении на основе ваших предпочтений и истории чтения.',
     'settings.tab.legal': 'Правовая информация',
     'settings.tab.exportDelete': 'Экспорт данных и удаление учётной записи',
     'settings.languages.uiLanguage': 'Язык интерфейса',
