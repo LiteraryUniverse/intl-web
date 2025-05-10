@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Mostrar siempre en modo oscuro',
     'settings.reader.asideView': 'Mostrar panel mágico aparte',
     'settings.reader.textSize': 'Mostrar el texto en una fuente más grande',
+    'settings.reader.storyRecommendations': 'Recomendaciones de cuentos',
+    'settings.reader.storyRecommendationsHelp': 'Habilite las recomendaciones de historias personalizadas.',
+    // AI settings
+    'settings.ai.title': 'Ajustes de IA',
+    'settings.ai.explained': 'Configure cómo funcionan para usted las funciones de IA en el Universo Literario.',
     // Accessibility
     'settings.accessibility.title': 'Accesibilidad de los lectores',
     'settings.accessibility.openDyslexic': 'Utilizar la fuente OpenDyslexic',
