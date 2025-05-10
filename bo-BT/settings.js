@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'དགའ་བསལ་མང་མཐའ་བཀོད་པའི་གནས་སྟངས་འདི་ངེས་བདེན་པའི་དོན་ལུ་ལ་འགོ་བཙུགས།',
     'settings.reader.asideView': 'གསོག་རྒྱུན་གཏང་བ་ཚུ་བཏོན་འཛིན་བཅུག་པ་གསོག་རྒྱུན་གྱི་གནས་སྟངས་འདི་ངེས་བདེན་པའི་དོན་ལུ་ལ་འགོ་བཙུགས།',
     'settings.reader.textSize': 'ཚིག་ཡིག་གནས་སྟངས་འདི་ངེས་བདེན་པའི་གནས་སྟངས་ལུ་བཟོ་བཅུག་གི་ཡིག་ཆ་འབད་ཡོད།',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'རྩོམ་པ་རྒྱུན་འབྱེད་སྐྱེས་བུ་གནས་སྟངས།',
     'settings.accessibility.openDyslexic': 'ཨོ་ཕེར་འདི་ཚིག་ཡིག་གནས་སྟངས་འདི་ངེས་བདེན་པའི་གནས་སྟངས་ལུ་བཟོ་བཅུག་གི་ཡིག་ཆ་འབད་ཡོད།',
