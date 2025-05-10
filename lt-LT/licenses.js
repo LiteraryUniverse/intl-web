@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Ši licencija yra griežčiausia iš šešių pagrindinių mūsų licencijų, leidžianti tik atsisiųsti jūsų darbus ir dalintis jais su kitais, jei tik pripažįsta jus, tačiau jie negali jų jokiu būdu keisti arba naudoti komerciniais tikslais.',
     'licenses.name.lu-c': 'Literary Universe autorių teisės',
     'licenses.lu-c': 'Standartinė pilnos autorių teisių licencija, kuri leidžia jums parduoti ir publikuoti savo darbą taip, kaip norite, ir apsaugoti savo teises prie jo. Ši licencija taip pat suteikia galimybę parduoti savo istorijas Literatūros Visatoje.',
+    'licenses.name.lu-e': 'Literatūrinė visata Išskirtinis',
+    'licenses.lu-e': 'Ši licencija suteikia "Literary Universe" išskirtines teises publikuoti ir platinti jūsų kūrinį internete. Autorių teisės lieka jums, tačiau "Literary Universe" turi išimtinę teisę skelbti ir platinti jūsų kūrinį internete.',
+    'licenses.name.lu-ne': 'Literatūrinė visata Neišskirtinis',
+    'licenses.lu-ne': 'Ši licencija suteikia "Literary Universe" neišimtines teises skelbti ir platinti jūsų kūrinį internete. Jums išlieka autorių teisės ir teisė skelbti bei platinti savo kūrinį kitais kanalais.',
     'licenses.name.cc0': 'Nėra teisių saugomos - CC0 1.0',
     'licenses.cc0': 'Dėkite savo darbą į viešąją nuosavybę. Skirtingai nuo CC licencijų, kurios leidžia autorių teisių turėtojams pasirinkti iš įvairių leidimų ir tuo pačiu išlaikyti savo autorių teises, CC0 suteikia dar vieną visiškai kitą pasirinkimą - pasirinkimą atsisakyti autorių teisių ir duomenų bazės apsaugos bei automatiškai suteiktų teisių kūrėjams - „nėra teisių saugomos“ alternatyvą mūsų licencijoms.'
 };
