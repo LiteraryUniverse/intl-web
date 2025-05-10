@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Palaging ipakita sa dark mode',
     'settings.reader.asideView': 'Ipakita ang kaharian ng salamangkero',
     'settings.reader.textSize': 'Ipakita ang teksto sa mas malaking font',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Kahusayan ng mambabasa',
     'settings.accessibility.openDyslexic': 'Gamitin ang OpenDyslexic font',
