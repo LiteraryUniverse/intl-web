@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'სტანდარტული სრული უფლებების ლიცენზია, რომელიც თქვენს შესაძლებლობას გაძლევთ გამოაქვეყნოთ თქვენი ნამუშევარი და გააგრძელოთ მასზე თქვენი უფლებების დაცვა. ამ ლიცენზიასაც გაქვთ შესაძლებელი თქვენი ამბების გაყიდვა Literary Universe-ზე.',
+    'licenses.name.lu-e': 'Literary Universe Exclusive',
+    'licenses.lu-e': 'This license grants Literary Universe exclusive rights to publish and distribute your work online. You will retain the copyright, but Literary Universe will have the sole right to publish and distribute your work online.',
+    'licenses.name.lu-ne': 'Literary Universe Non-Exclusive',
+    'licenses.lu-ne': 'This license grants Literary Universe non-exclusive rights to publish and distribute your work online. You will retain the copyright and the right to publish and distribute your work through other channels.',
     'licenses.name.cc0': 'უფლებების გარეშე - CC0 1.0',
     'licenses.cc0': 'გადაამოწმეთ თქვენი ნამუშევარი საჯარო სფეროში. CC-ს ლიცენზიების შესაძლოად ავტორისი მიიღოს რამდენიმე უფლება, მაგრამ დაცულობის უფლების გარეშეც არის სხვა არჩევანი - უფლება გამოსაცავი და მონაცემთა ბაზის დაცულობისგან გამოსაცავი უფლებები, რომლებიც ავტომატურად მიერთებათ შემქმნელებთან - “უფლებების გარეშე” ალტერნატივა CC-ს ლიცენზიებთან.'
 };
