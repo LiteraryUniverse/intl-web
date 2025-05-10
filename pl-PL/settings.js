@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Wyświetlanie zawsze w trybie ciemnym',
     'settings.reader.asideView': 'Pokaż magiczny panel boczny',
     'settings.reader.textSize': 'Pokaż tekst większą czcionką',
+    'settings.reader.storyRecommendations': 'Zalecenia dotyczące historii',
+    'settings.reader.storyRecommendationsHelp': 'Włączanie spersonalizowanych rekomendacji fabularnych.',
+    // AI settings
+    'settings.ai.title': 'Ustawienia sztucznej inteligencji',
+    'settings.ai.explained': 'Skonfiguruj sposób działania funkcji AI w Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Dostępność dla czytelników',
     'settings.accessibility.openDyslexic': 'Użyj czcionki OpenDyslexic',
