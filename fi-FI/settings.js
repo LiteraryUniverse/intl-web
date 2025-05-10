@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Näytä aina pimeässä tilassa',
     'settings.reader.asideView': 'Näytä taianomainen sivupalkki',
     'settings.reader.textSize': 'Näytä teksti suuremmalla fontilla',
+    'settings.reader.storyRecommendations': 'Tarina Suositukset',
+    'settings.reader.storyRecommendationsHelp': 'Ota käyttöön henkilökohtaiset tarinasuositukset.',
+    // AI settings
+    'settings.ai.title': 'Tekoälyn asetukset',
+    'settings.ai.explained': 'Määritä, miten tekoälyominaisuudet toimivat sinulle Literary Universessa.',
     // Accessibility
     'settings.accessibility.title': 'Lukijan saavutettavuus',
     'settings.accessibility.openDyslexic': 'Käytä OpenDyslexic-fonttia',
