@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'תמיד להציג במצב כהה',
     'settings.reader.asideView': 'הצג חלונית צדדית קסומה',
     'settings.reader.textSize': 'הצג טקסט בגופן גדול יותר',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'נגישות לקורא',
     'settings.accessibility.openDyslexic': 'השתמש בגופן OpenDyslexic',
