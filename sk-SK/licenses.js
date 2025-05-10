@@ -20,6 +20,10 @@ export default {
     'licenses.cc-by-nc-nd': 'Táto licencia je najreštriktívnejšia z našich šiestich hlavných licencií a umožňuje ostatným len sťahovať vaše diela a zdieľať ich s ostatnými, pokiaľ vás uvedú, ale nemôžu ich nijako meniť ani komerčne používať.',
     'licenses.name.lu-c': 'Literary Universe Copyrights',
     'licenses.lu-c': 'Štandardná licencia s plnými autorskými právami, ktorá vám umožňuje predávať a publikovať svoje dielo podľa vlastného uváženia a mať naň chránené práva. Táto licencia vám tiež dáva možnosť predávať svoje poviedky na portáli Literary Universe.',
+    'licenses.name.lu-e': 'Literárny vesmír Exkluzívne',
+    'licenses.lu-e': 'Táto licencia udeľuje spoločnosti Literary Universe výhradné práva na publikovanie a šírenie vášho diela online. Vy si ponechávate autorské práva, ale Literary Universe má výhradné právo na publikovanie a distribúciu vášho diela online.',
+    'licenses.name.lu-ne': 'Literárny vesmír Non-Exclusive',
+    'licenses.lu-ne': 'Táto licencia udeľuje spoločnosti Literary Universe nevýhradné práva na publikovanie a šírenie vášho diela online. Autorské práva a právo publikovať a distribuovať svoje dielo prostredníctvom iných kanálov si ponechávate.',
     'licenses.name.cc0': 'Žiadne práva vyhradené - CC0 1.0',
     'licenses.cc0': 'Zverejnite svoju prácu vo verejnom priestore. Na rozdiel od licencií CC, ktoré umožňujú držiteľom autorských práv vybrať si z množstva oprávnení pri zachovaní ich autorských práv, CC0 umožňuje úplne inú voľbu - voľbu odmietnuť ochranu autorských práv a databáz a výhradné práva automaticky priznané tvorcom - alternatívu našich licencií "bez vyhradených práv".'
 };
