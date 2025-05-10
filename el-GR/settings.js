@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Πάντα εμφάνιση σε σκοτεινή λειτουργία',
     'settings.reader.asideView': 'Εμφάνιση μαγικού πλαισίου στην πλευρά',
     'settings.reader.textSize': 'Εμφάνιση κειμένου με μεγαλύτερη γραμματοσειρά',
+    'settings.reader.storyRecommendations': 'Συστάσεις ιστοριών',
+    'settings.reader.storyRecommendationsHelp': 'Ενεργοποιήστε εξατομικευμένες συστάσεις ιστοριών.',
+    // AI settings
+    'settings.ai.title': 'Ρυθμίσεις AI',
+    'settings.ai.explained': 'Διαμορφώστε τον τρόπο με τον οποίο λειτουργούν οι λειτουργίες AI για εσάς στο Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Προσβασιμότητα αναγνώστη',
     'settings.accessibility.openDyslexic': 'Χρήση γραμματοσειράς OpenDyslexic',
