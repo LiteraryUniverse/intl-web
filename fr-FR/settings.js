@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Toujours afficher en mode sombre',
     'settings.reader.asideView': 'Afficher le panneau latéral magique',
     'settings.reader.textSize': 'Afficher le texte dans une plus grande police',
+    'settings.reader.storyRecommendations': 'Recommandations d\'articles',
+    'settings.reader.storyRecommendationsHelp': 'Permettre des recommandations d\'histoires personnalisées.',
+    // AI settings
+    'settings.ai.title': 'Paramètres de l\'IA',
+    'settings.ai.explained': 'Configurez la façon dont les fonctions d\'intelligence artificielle fonctionnent pour vous sur Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Accessibilité des lecteurs',
     'settings.accessibility.openDyslexic': 'Utiliser la police OpenDyslexic',
