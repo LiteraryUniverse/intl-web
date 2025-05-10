@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Ĉiam montri en malluma reĝimo',
     'settings.reader.asideView': 'Montri magian flankan panelon',
     'settings.reader.textSize': 'Montri tekston en pli granda tiparo',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Alirebleco de legilo',
     'settings.accessibility.openDyslexic': 'Uzi tiparon OpenDyslexic',
