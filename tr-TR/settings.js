@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'Her zaman karanlık modda göster',
     'settings.reader.asideView': 'Sihirli yan paneli göster',
     'settings.reader.textSize': 'Metni daha büyük yazı tipinde göster',
+    'settings.reader.storyRecommendations': 'Hikaye Önerileri',
+    'settings.reader.storyRecommendationsHelp': 'Kişiselleştirilmiş hikaye önerilerini etkinleştirin.',
+    // AI settings
+    'settings.ai.title': 'Yapay zeka ayarları',
+    'settings.ai.explained': 'Literary Universe\'te yapay zeka özelliklerinin sizin için nasıl çalışacağını yapılandırın.',
     // Accessibility
     'settings.accessibility.title': 'Okuyucu erişilebilirliği',
     'settings.accessibility.openDyslexic': 'OpenDyslexic yazı tipi kullan',
