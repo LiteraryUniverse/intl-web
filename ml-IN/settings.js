@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'എപ്പോൾക്കൂടെ ഇരുണ്ട മോഡിൽ കാണിക്കുക',
     'settings.reader.asideView': 'മാന്ത്രിക പക്ഷഭേദം പാനൽ കാണിക്കുക',
     'settings.reader.textSize': 'പ്രമാണം പഴയതായി പ്രദർശിപ്പിക്കുക',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'റീഡർ പ്രവർത്തനക്ഷമത',
     'settings.accessibility.openDyslexic': 'OpenDyslexic അക്ഷരരൂപത്തിൽ ഉപയോഗിക്കുക',
