@@ -107,6 +107,11 @@ export default {
     'settings.reader.darkMode': 'ಎಲ್ಲಾ ಸಮಯದಲ್ಲೂ ಕತ್ತಲೆ ಮೋಡದಲ್ಲಿ ತೋರಿಸು',
     'settings.reader.asideView': 'ಮಾಯಾವಿ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸು',
     'settings.reader.textSize': 'ಪಠ್ಯವನ್ನು ದೊಡ್ಡ ಅಕ್ಷರದಲ್ಲಿ ತೋರಿಸು',
+    'settings.reader.storyRecommendations': 'Story Recommendations',
+    'settings.reader.storyRecommendationsHelp': 'Enable personalized story recommendations.',
+    // AI settings
+    'settings.ai.title': 'AI settings',
+    'settings.ai.explained': 'Configure how AI features work for you on Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'ಓದುಗರ ಪ್ರವೇಶಯೋಗ್ಯತೆ',
     'settings.accessibility.openDyslexic': 'OpenDyslexic ಅಕ್ಷರಶೈಲಿಯನ್ನು ಬಳಸು',
