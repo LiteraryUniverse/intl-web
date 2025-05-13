@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Peida salasõna',
     'common.password.show': 'Näita salasõna',
     'common.forums': 'Foorumid',
-    'common.restriction.goodConduct': 'Hea käitumise rikkumise tõttu oleme piiranud selle funktsiooni kasutamist.'
+    'common.restriction.goodConduct': 'Hea käitumise rikkumise tõttu oleme piiranud selle funktsiooni kasutamist.',
+    'common.continue': 'Jätka'
 };
