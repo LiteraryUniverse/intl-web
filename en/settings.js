@@ -63,7 +63,8 @@ export default {
   'settings.gender.usage':
     'This information will remain private. We use this data for platform analytics and in anonymized analytics to creators when you read their stories.',
   'settings.age.title': 'Your age',
-  'settings.age.explicit': 'Show explicit content (rating age 21+)',
+  'settings.age.explicit': 'Show explicit content (age rating 21+)',
+  'settings.age.birthday': 'Date of birth',
   'settings.age.usage':
     'This information will remain private. We are legally obliged to inquire about your age. We use this data for platform analytics, displaying content based on ratings and in anonymized analytics to creators when you read their stories.',
   'settings.country.title': 'Your country',
