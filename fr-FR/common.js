@@ -279,5 +279,5 @@ export default {
     'common.password.show': 'Afficher le mot de passe',
     'common.forums': 'Forums',
     'common.restriction.goodConduct': 'Pour des raisons de bonne conduite, nous avons limité l\'utilisation de cette fonction.',
-    'common.continue': 'Continue'
+    'common.continue': 'Poursuivre'
 };
