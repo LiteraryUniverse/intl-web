@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Скрыть пароль',
     'common.password.show': 'Показать пароль',
     'common.forums': 'Форумы',
-    'common.restriction.goodConduct': 'В связи с нарушением правил поведения мы ограничили ваше использование этой функции.'
+    'common.restriction.goodConduct': 'В связи с нарушением правил поведения мы ограничили ваше использование этой функции.',
+    'common.continue': 'Продолжайте'
 };
