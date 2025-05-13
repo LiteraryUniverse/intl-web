@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Ukryj hasło',
     'common.password.show': 'Proszę pokazać hasło',
     'common.forums': 'Fora',
-    'common.restriction.goodConduct': 'Ze względu na naruszenie zasad dobrego postępowania ograniczyliśmy możliwość korzystania z tej funkcji.'
+    'common.restriction.goodConduct': 'Ze względu na naruszenie zasad dobrego postępowania ograniczyliśmy możliwość korzystania z tej funkcji.',
+    'common.continue': 'Proszę kontynuować'
 };
