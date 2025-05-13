@@ -53,7 +53,7 @@ export default {
     'settings.gender.usage': 'Ces informations resteront privées. Nous utilisons ces données pour l\'analyse de la plateforme et dans le cadre d\'analyses anonymes destinées aux créateurs lorsque vous lisez leurs histoires.',
     'settings.age.title': 'Votre âge',
     'settings.age.explicit': 'Show explicit content (age rating 21+)',
-    'settings.age.birthday': 'Date of birth',
+    'settings.age.birthday': 'Date de naissance',
     'settings.age.usage': 'Ces informations resteront privées. Nous sommes légalement tenus de nous renseigner sur votre âge. Nous utilisons ces données pour l\'analyse de la plateforme, l\'affichage du contenu en fonction des évaluations et pour l\'analyse anonyme des créateurs lorsque vous lisez leurs histoires.',
     'settings.country.title': 'Votre pays',
     'settings.country.usage': 'Nous utilisons ces données pour l\'analyse de la plateforme et, sous forme anonyme, pour les créateurs lorsque vous lisez leurs articles. Si vous le souhaitez, vous pouvez afficher ces informations sur votre profil.',
