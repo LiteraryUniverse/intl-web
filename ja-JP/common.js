@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'パスワードを隠す',
     'common.password.show': 'パスワードの表示',
     'common.forums': 'フォーラム',
-    'common.restriction.goodConduct': '善行違反のため、この機能の使用を制限させていただきました。'
+    'common.restriction.goodConduct': '善行違反のため、この機能の使用を制限させていただきました。',
+    'common.continue': '続ける'
 };
