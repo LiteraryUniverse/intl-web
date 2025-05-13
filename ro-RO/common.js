@@ -279,5 +279,5 @@ export default {
     'common.password.show': 'Afișați parola',
     'common.forums': 'Forumuri',
     'common.restriction.goodConduct': 'Din cauza încălcării bunei conduite, v-am restricționat utilizarea acestei funcții.',
-    'common.continue': 'Continue'
+    'common.continue': 'Continuați'
 };
