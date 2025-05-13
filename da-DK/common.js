@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Skjul adgangskode',
     'common.password.show': 'Vis adgangskode',
     'common.forums': 'Fora',
-    'common.restriction.goodConduct': 'På grund af brud på god opførsel har vi begrænset din brug af denne funktion.'
+    'common.restriction.goodConduct': 'På grund af brud på god opførsel har vi begrænset din brug af denne funktion.',
+    'common.continue': 'Fortsæt'
 };
