@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Απόκρυψη κωδικού πρόσβασης',
     'common.password.show': 'Εμφάνιση κωδικού πρόσβασης',
     'common.forums': 'Φόρουμ',
-    'common.restriction.goodConduct': 'Λόγω παραβίασης της καλής συμπεριφοράς έχουμε περιορίσει τη χρήση αυτής της λειτουργίας.'
+    'common.restriction.goodConduct': 'Λόγω παραβίασης της καλής συμπεριφοράς έχουμε περιορίσει τη χρήση αυτής της λειτουργίας.',
+    'common.continue': 'Συνεχίστε'
 };
