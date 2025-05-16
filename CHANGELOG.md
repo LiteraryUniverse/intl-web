@@ -1,5 +1,8 @@
 # Changelog for languages
 
+## 2025-05-16 - v2.16.0
+
+
 ## 2025-04-12 - v2.15.5
 
 * More The Way of the Author strings

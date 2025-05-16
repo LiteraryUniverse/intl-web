@@ -87,22 +87,23 @@
 	"signup.writer.goals.custom": "Something else",
 	"signup.writer.goals.customPlaceholder": "Tell us about your writing goals...",
 
-	"signup.complete.title": "You're all set!",
-	"signup.complete.description": "Thank you for completing your profile. We've customized your experience based on your preferences.",
-	"signup.complete.emailVerification.title": "Check your email",
-	"signup.complete.emailVerification.description": "We've sent a verification email to your address. Please verify your email to unlock all features.",
-	"signup.complete.nextSteps.title": "What's next?",
-	"signup.complete.nextSteps.reader.step1": "Explore stories in your favorite genres",
-	"signup.complete.nextSteps.reader.step2": "Follow authors you enjoy",
-	"signup.complete.nextSteps.reader.step3": "Create reading lists to organize stories",
-	"signup.complete.nextSteps.reader.step4": "Join the community and discuss stories with other readers",
-	"signup.complete.nextSteps.writer.step1": "Create your first universe or story in the Workshop",
-	"signup.complete.nextSteps.writer.step2": "Set up your author profile",
-	"signup.complete.nextSteps.writer.step3": "Explore writing tools and resources",
-	"signup.complete.nextSteps.writer.step4": "Connect with other writers in the community",
-	"signup.complete.goToDashboard": "Go to Dashboard",
-	"signup.complete.goToWorkshop": "Go to Workshop",
+	"signup.complete.finish": "Start exploring",
 
-	"signup.saveProgress": "Save progress and continue later",
-	"signup.doThisLater": "I'll do this later"
+	"signup.wizard.complete.title": "You're all set!",
+	"signup.wizard.complete.description": "Thank you for completing the signup process. Your profile is now set up and you're ready to start using Literary Universe!",
+
+	"signup.wizard.complete.writer.step1.title": "Create your first story",
+	"signup.wizard.complete.writer.step1.description": "Start writing your first story in the workshop.",
+	"signup.wizard.complete.writer.step2.title": "Explore the community",
+	"signup.wizard.complete.writer.step2.description": "Connect with other writers and readers to grow your audience.",
+	"signup.wizard.complete.writer.step3.title": "Complete your profile",
+	"signup.wizard.complete.writer.step3.description": "Add more details to your profile to attract readers and collaborators.",
+
+	"signup.wizard.complete.reader.step1.title": "Discover stories",
+	"signup.wizard.complete.reader.step1.description": "Browse the library to find stories that match your interests.",
+	"signup.wizard.complete.reader.step2.title": "Create reading lists",
+	"signup.wizard.complete.reader.step2.description": "Organize stories you want to read or have read into lists.",
+	"signup.wizard.complete.reader.step3.title": "Join the community",
+	"signup.wizard.complete.reader.step3.description": "Connect with authors and other readers to discuss stories you love.",
+	"signup.saveProgress": "Save progress and continue later"
 }
