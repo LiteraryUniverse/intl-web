@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Jelszó elrejtése',
     'common.password.show': 'Jelszó megjelenítése',
     'common.forums': 'Fórumok',
-    'common.restriction.goodConduct': 'A jó magaviselet megsértése miatt korlátoztuk ennek a funkciónak a használatát.'
+    'common.restriction.goodConduct': 'A jó magaviselet megsértése miatt korlátoztuk ennek a funkciónak a használatát.',
+    'common.continue': 'Folytatás'
 };

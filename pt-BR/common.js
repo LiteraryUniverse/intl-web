@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Ocultar senha',
     'common.password.show': 'Mostrar senha',
     'common.forums': 'Fóruns',
-    'common.restriction.goodConduct': 'Devido a uma violação de boa conduta, restringimos o uso desse recurso pelo senhor.'
+    'common.restriction.goodConduct': 'Devido a uma violação de boa conduta, restringimos o uso desse recurso pelo senhor.',
+    'common.continue': 'Continuar'
 };

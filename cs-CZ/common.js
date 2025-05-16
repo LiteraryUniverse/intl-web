@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Skrýt heslo',
     'common.password.show': 'Zobrazit heslo',
     'common.forums': 'Fóra',
-    'common.restriction.goodConduct': 'Z důvodu porušení dobrých mravů jsme omezili používání této funkce.'
+    'common.restriction.goodConduct': 'Z důvodu porušení dobrých mravů jsme omezili používání této funkce.',
+    'common.continue': 'Pokračovat'
 };

@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Piilota salasana',
     'common.password.show': 'Näytä salasana',
     'common.forums': 'Foorumit',
-    'common.restriction.goodConduct': 'Hyvän käytöksen rikkomisen vuoksi olemme rajoittaneet tämän ominaisuuden käyttöä.'
+    'common.restriction.goodConduct': 'Hyvän käytöksen rikkomisen vuoksi olemme rajoittaneet tämän ominaisuuden käyttöä.',
+    'common.continue': 'Jatka'
 };

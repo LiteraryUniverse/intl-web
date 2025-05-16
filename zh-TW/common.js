@@ -278,5 +278,6 @@ export default {
     'common.password.hide': '隱藏密碼',
     'common.password.show': '顯示密碼',
     'common.forums': '論壇',
-    'common.restriction.goodConduct': '由於違反良好行為，我們限制您使用此功能。'
+    'common.restriction.goodConduct': '由於違反良好行為，我們限制您使用此功能。',
+    'common.continue': '繼續'
 };

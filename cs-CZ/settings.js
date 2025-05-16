@@ -53,6 +53,7 @@ export default {
     'settings.gender.usage': 'Tato informace zůstanou soukromá. Tato data používáme pro analýzu platformy a anonymizované analýzy pro tvůrce, když čtete jejich příběhy.',
     'settings.age.title': 'Váš věk',
     'settings.age.explicit': 'Zobrazit explicitní obsah (věkové hodnocení 21+)',
+    'settings.age.birthday': 'Datum narození',
     'settings.age.usage': 'Tato informace zůstane soukromá. Jsme ze zákona povinni se ptát na váš věk. Používáme tento údaj pro analýzu platformy, zobrazujeme obsah na základě hodnocení a anonymizovaný analytik tvůrcům při čtení jejich příběhů.',
     'settings.country.title': 'Vaše země',
     'settings.country.usage': 'Jsme ze zákona povinni se zeptat na vaši zemi, abychom mohli reagovat na vládní dotazy. Tento údaj používáme pro vylepšení systému a anonymizovanou analýzu tvůrcům při čtení jejich příběhů. Pokud si přejete můžete zobrazit tento údaj na Vašem profilu.',
@@ -107,12 +108,20 @@ export default {
     'settings.reader.darkMode': 'Vždy zobrazovat ve tmavém režimu',
     'settings.reader.asideView': 'Zobrazit magické menu',
     'settings.reader.textSize': 'Zobrazit text ve větším písmu',
+    'settings.reader.storyRecommendations': 'Doporučení pro příběh',
+    'settings.reader.storyRecommendationsHelp': 'Povolení personalizovaných doporučení příběhů.',
+    // AI settings
+    'settings.ai.title': 'Nastavení AI',
+    'settings.ai.explained': 'Konfigurace fungování funkcí umělé inteligence v aplikaci Literary Universe.',
     // Accessibility
     'settings.accessibility.title': 'Přístupnost čtečky',
     'settings.accessibility.openDyslexic': 'Použít OpenDyslexic písmo',
     'settings.accessibility.paragraphStripes': 'Alternující barva pozadí odstavců',
     'settings.accessibility.paragraphHighlighting': 'Zvýraznit aktuální odstavec, nad kterým se nachází myš',
     'settings.accessibility.ruler': 'Přiložit k myši pravítko',
+    // Story Recommendations
+    'settings.storyRecommendations.title': 'Doporučení pro příběh',
+    'settings.storyRecommendations.explained': 'Povolení personalizovaných doporučení příběhů v celé aplikaci na základě vašich čtenářských preferencí a historie.',
     'settings.tab.legal': 'Právní dokumenty',
     'settings.tab.exportDelete': 'Exportovat data & smazat účet',
     'settings.languages.uiLanguage': 'Jazyk rozhraní',

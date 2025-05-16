@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Parolayı Gizle',
     'common.password.show': 'Şifreyi Göster',
     'common.forums': 'Forumlar',
-    'common.restriction.goodConduct': 'İyi hal ihlali nedeniyle bu özelliği kullanmanızı kısıtladık.'
+    'common.restriction.goodConduct': 'İyi hal ihlali nedeniyle bu özelliği kullanmanızı kısıtladık.',
+    'common.continue': 'Devam et'
 };

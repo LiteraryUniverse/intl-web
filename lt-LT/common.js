@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Paslėpti slaptažodį',
     'common.password.show': 'Rodyti slaptažodį',
     'common.forums': 'Forumai',
-    'common.restriction.goodConduct': 'Dėl gero elgesio pažeidimo apribojome jūsų naudojimąsi šia funkcija.'
+    'common.restriction.goodConduct': 'Dėl gero elgesio pažeidimo apribojome jūsų naudojimąsi šia funkcija.',
+    'common.continue': 'Tęsti'
 };

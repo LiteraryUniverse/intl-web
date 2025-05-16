@@ -278,5 +278,6 @@ export default {
     'common.password.hide': 'Dölj lösenord',
     'common.password.show': 'Visa lösenord',
     'common.forums': 'Forum',
-    'common.restriction.goodConduct': 'På grund av överträdelse av god sed har vi begränsat din användning av den här funktionen.'
+    'common.restriction.goodConduct': 'På grund av överträdelse av god sed har vi begränsat din användning av den här funktionen.',
+    'common.continue': 'Fortsätt'
 };
