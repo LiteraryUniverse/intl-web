@@ -2,6 +2,13 @@
 
 ## 2025-05-16 - v2.16.0
 
+* New feature string: prevent publishing
+* Fix UK -> GB country string
+* Updated resolution center strings
+* New courses strings
+* AI settings strings
+* New licenses releated strings
+* New feature strings: signup wizard
 
 ## 2025-04-12 - v2.15.5
 
