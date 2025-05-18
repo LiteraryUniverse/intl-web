@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Sutra lo jorne be lo nu se zbasu',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Editing {title}',
     'blog.post.text': 'Lo jorne te gerna',
     'common.slug': 'Lo jorne sevzi cmene',
