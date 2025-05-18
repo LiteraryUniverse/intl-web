@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'צור פוסט חדש',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'עריכת {title}',
     'blog.post.text': 'תוכן הפוסט',
     'common.slug': 'כתובת ידידותית למנוע המונחים',
