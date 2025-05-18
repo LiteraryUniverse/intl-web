@@ -20,7 +20,7 @@ export default {
     one {on üks postitus}
     other {on # postitused}
   }.`,
-    'blog.post.create': 'Loo uus postitus',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Redigeeritakse {title}',
     'blog.post.text': 'Postituse tekst',
     'common.slug': 'SEO sõbralik aadress',
