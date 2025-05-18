@@ -20,7 +20,7 @@ export default {
     one {ada satu postingan}
     other {ada # postingan}
   } dalam blog ini.`,
-    'blog.post.create': 'Buat postingan baru',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Mengedit {title}',
     'blog.post.text': 'Teks postingan',
     'common.slug': 'Alamat yang SEO friendly',
