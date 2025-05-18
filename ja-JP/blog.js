@@ -19,7 +19,7 @@ export default {
     zero {記事がありません}
     other {#つの記事があります}
   }。`,
-    'blog.post.create': '新しい投稿を作成',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '{title} を編集',
     'blog.post.text': 'テキストを投稿',
     'common.slug': 'SEO対応アドレス',
