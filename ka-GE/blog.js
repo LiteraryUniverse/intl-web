@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'ახალი პოსტის შექმნა',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'პოსტის რედაქტირება {title}',
     'blog.post.text': 'პოსტის ტექსტი',
     'common.slug': 'SEO მეგობრებული ბმული',
