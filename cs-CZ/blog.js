@@ -21,7 +21,7 @@ export default {
     few {má # články}
     other {má # článků}
   }.`,
-    'blog.post.create': 'Vytvořit nový článek',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Editace {title}',
     'blog.post.text': 'Text článku',
     'common.slug': 'SEO adresa',
