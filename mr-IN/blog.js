@@ -20,7 +20,7 @@ export default {
     one {पोस्ट आहेत}
     other {पोस्ट आहेत}
   } या ब्लॉगमध्ये.`,
-    'blog.post.create': 'नवीन प्रतिलेख तयार करा',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '{title}संपादन करीत आहे',
     'blog.post.text': 'प्रतिलेख मजकूर',
     'common.slug': 'एसईओ मित्रदर्शक पत्ता',

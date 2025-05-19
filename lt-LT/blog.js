@@ -20,7 +20,7 @@ export default {
     one {yra vienas įrašas}
     other {yra # įrašų}
   } .`,
-    'blog.post.create': 'Kurti naują įrašą',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Redaguoti {title}',
     'blog.post.text': 'Įrašo tekstas',
     'common.slug': 'SEO draugiškas adresas',

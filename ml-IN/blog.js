@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'ഒരു പുതിയ പോസ്റ്റ് സൃഷ്ടിക്കുക',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '{title}എഡിറ്റുചെയ്യുന്നു',
     'blog.post.text': 'പോസ്റ്റ് വചനം',
     'common.slug': 'SEO സൗഹൃദമായ വിലാസം',

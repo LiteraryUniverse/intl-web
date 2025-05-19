@@ -20,7 +20,7 @@ export default {
     one {एक पोस्ट है}
     other {कुल # पोस्ट हैं}
   } इस ब्लॉग में।`,
-    'blog.post.create': 'नई पोस्ट बनाएं',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'संपादन कर रही हैं {title}',
     'blog.post.text': 'पोस्ट टेक्स्ट',
     'common.slug': 'एसईओ फ्रेंडली पता',

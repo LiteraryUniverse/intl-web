@@ -20,7 +20,7 @@ export default {
     one {ஐ ஒரு பதிவு கொடுப்பான்!}
     other {பதிவுகள் இருக்கின்றன!}
   } .`,
-    'blog.post.create': 'புதிய பதிவை உருவாக்கவும்',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'மாற்றப்பட்ட பதிவு {title}',
     'blog.post.text': 'பதிவு உரை',
     'common.slug': 'SEO அமிழ்தியான முகவரி',

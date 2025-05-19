@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'નવી પોસ્ટ બનાવો',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'અપડેટિંગ {title}',
     'blog.post.text': 'પોસ્ટ ટેક્સ્ટ',
     'common.slug': 'એસઇઓ મિત્રપૂન URL',

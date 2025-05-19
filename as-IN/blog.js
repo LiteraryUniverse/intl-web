@@ -20,7 +20,7 @@ export default {
     one {এটা পোষ্ট}
     other {# প'ষ্ট আছে}
   } ।`,
-    'blog.post.create': 'নতুন পোষ্ট তৈরি কৰক',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'সম্পাদনা কৰা হৈছে {title}',
     'blog.post.text': 'পোষ্ট পাঠ',
     'common.slug': 'SEO বন্ধুত্বপূৰ্ণ ঠিংগ নাম',

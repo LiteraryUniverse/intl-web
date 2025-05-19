@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'ਇੱਕ ਨਵੀਂ ਪੋਸਟ ਬਣਾਓ',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '{title}ਸੋਧ ਰਹੇ ਹਨ',
     'blog.post.text': 'ਪੋਸਟ ਟੈਕਸਟ',
     'common.slug': 'SEO ਯੋਗ ਪ੍ਰਮਾਣਿਕ ਐਡਰੈੱਸ',

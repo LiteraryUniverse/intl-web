@@ -20,7 +20,7 @@ export default {
     one {هناك مشاركة واحدة}
     other {هناك # مشاركات}
   } في هذه المدونة.`,
-    'blog.post.create': 'إنشاء مشاركة جديدة',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'تحرير {title}',
     'blog.post.text': 'نص المشاركة',
     'common.slug': 'عنوان صديق لمحركات البحث',

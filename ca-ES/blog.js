@@ -20,7 +20,7 @@ export default {
     one {una entrada}
     other {# entrades}
   } en aquest blog.`,
-    'blog.post.create': 'Crear una nova entrada',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Editar {title}',
     'blog.post.text': 'Text de l\'entrada',
     'common.slug': 'Adreça SEO amigable',

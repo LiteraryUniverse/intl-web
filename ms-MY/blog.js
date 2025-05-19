@@ -20,7 +20,7 @@ export default {
     one {satu perkara}
     other {# perkara}
   } di blog ini.`,
-    'blog.post.create': 'Cipta pos baru',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Mengedit {title}',
     'blog.post.text': 'Teks pos',
     'common.slug': 'Alamat yang mesra SEO',

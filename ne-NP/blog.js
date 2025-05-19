@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'नयाँ पोस्ट सिर्जना गर्नुहोस्',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '{title}सम्पादन गर्दै',
     'blog.post.text': 'पोस्ट पाठ',
     'common.slug': 'SEO सौहार्दपूर्ण ठेगाना',

@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Gumawa ng bagong post',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Ine-edit ang {title}',
     'blog.post.text': 'Teksto ng post',
     'common.slug': 'SEO friendly na address',

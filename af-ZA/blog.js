@@ -20,7 +20,7 @@ export default {
     one {is een plasing}
     other {is # plasings}
   } in hierdie blog nie.`,
-    'blog.post.create': 'Skep \'n nuwe plasing',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Wysig {title}',
     'blog.post.text': 'Plasing teks',
     'common.slug': 'SEO vriendelike adres',

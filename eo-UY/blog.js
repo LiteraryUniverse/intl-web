@@ -20,7 +20,7 @@ export default {
     one {estas unu poŝto}
     other {estas # poŝtoj}
   } en ĉi tiu blogo.`,
-    'blog.post.create': 'Krei afiŝon',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Redaktado de {title}',
     'blog.post.text': 'Afiŝa teksto',
     'common.slug': 'Amikeca URL',

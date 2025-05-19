@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'একটি নতুন পোস্ট তৈরি করুন',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '{title}সম্পাদনা করা হচ্ছে',
     'blog.post.text': 'পোস্ট পাঠ্য',
     'common.slug': 'এসইও বন্ধুত্বপূর্ণ ঠিকানা',

@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Tạo bài viết mới',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Đang chỉnh sửa {title}',
     'blog.post.text': 'Đoạn văn bản bài viết',
     'common.slug': 'Địa chỉ tựa đề thân thiện với SEO',

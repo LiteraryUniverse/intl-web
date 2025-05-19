@@ -20,7 +20,7 @@ export default {
     one {มีโพสต์มา 1 เรื่อง}
     other {โพสต์}
   } และ # โพสต์`,
-    'blog.post.create': 'สร้างโพสต์ใหม่',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'แก้ไขโพสต์ {title}',
     'blog.post.text': 'ข้อความโพสต์',
     'common.slug': 'ที่อยู่ผ่านการจัดการ SEO',

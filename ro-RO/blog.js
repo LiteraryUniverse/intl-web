@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Creați o postare nouă',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Editarea postării {title}',
     'blog.post.text': 'Textul postării',
     'common.slug': 'Adresă amicală pentru SEO',

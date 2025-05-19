@@ -19,7 +19,7 @@ export default {
     one {is één bericht}
     other {zijn # berichten}
   } in deze blog.`,
-    'blog.post.create': 'Nieuw bericht maken',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Bewerken van {title}',
     'blog.post.text': 'Berichttekst',
     'common.slug': 'SEO-vriendelijk adres',

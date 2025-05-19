@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'ಹೊಸ ಪೋಸ್ಟ್ ರಚಿಸಿ',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'ಸಂಪಾದನೆ {title}',
     'blog.post.text': 'ಪೋಸ್ಟ್ ಪಠ್ಯ',
     'common.slug': 'SEO ಮಿತ್ರ ಪರಿಚಯ',

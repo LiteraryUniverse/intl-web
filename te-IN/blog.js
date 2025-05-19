@@ -20,7 +20,7 @@ export default {
     one {ఒక పోస్టు}
     other {పోస్టులు}
   } ఉన్నాయి.`,
-    'blog.post.create': 'కొత్త పోస్ట్ సృష్టించండి',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'సవరించు {title}',
     'blog.post.text': 'పోస్టు వచనం',
     'common.slug': 'SEO సౌజన్యం గూర్చి చిరునామా',
