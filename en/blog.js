@@ -21,7 +21,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-  'blog.post.create': 'Create a new post',
+  'blog.post.create': 'Write a new post',
   'blog.post.update': 'Editing {title}',
   'blog.post.text': 'Post text',
   'common.slug': 'SEO friendly address',
