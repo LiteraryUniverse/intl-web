@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Wachtwoord tonen',
     'common.forums': 'Forums',
     'common.restriction.goodConduct': 'Wegens schending van goed gedrag hebben wij uw gebruik van deze functie beperkt.',
-    'common.continue': 'Ga verder'
+    'common.continue': 'Ga verder',
+    'common.authorName': 'Naam auteur',
+    'error.invalidFileType': 'Selecteer een geldig afbeeldingsbestand (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'De afbeelding moet kleiner zijn dan {mbSize, number}MB',
+    'error.fabricInitFailed': 'De afbeeldingseditor is niet geïnitialiseerd'
 };
