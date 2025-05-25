@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Mostrar contraseña',
     'common.forums': 'Foros',
     'common.restriction.goodConduct': 'Debido a una violación de buena conducta hemos restringido su uso.',
-    'common.continue': 'Continúe en'
+    'common.continue': 'Continúe en',
+    'common.authorName': 'Nombre del autor',
+    'error.invalidFileType': 'Seleccione un archivo de imagen válido (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'La imagen debe ser inferior a {mbSize, number}MB',
+    'error.fabricInitFailed': 'Fallo al inicializar el editor de imágenes'
 };
