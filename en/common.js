@@ -311,4 +311,8 @@ export default {
   'common.forums': 'Forums',
   'common.restriction.goodConduct': 'Due to good conduct violation we have restricted your use of this feature.',
   'common.continue': 'Continue',
+  'common.authorName': 'Author Name',
+  'error.invalidFileType': 'Please select a valid image file (JPEG, PNG, GIF, WebP)',
+  'error.fileTooLarge': 'Image must be less than {mbSize, number}MB',
+  'error.fabricInitFailed': 'Failed to initialize the image editor',
 }
