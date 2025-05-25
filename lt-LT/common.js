@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Rodyti slaptažodį',
     'common.forums': 'Forumai',
     'common.restriction.goodConduct': 'Dėl gero elgesio pažeidimo apribojome jūsų naudojimąsi šia funkcija.',
-    'common.continue': 'Tęsti'
+    'common.continue': 'Tęsti',
+    'common.authorName': 'Autoriaus vardas ir pavardė',
+    'error.invalidFileType': 'Pasirinkite tinkamą vaizdo failą (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Vaizdas turi būti mažesnis nei {mbSize, number}MB',
+    'error.fabricInitFailed': 'Nepavyko inicializuoti vaizdo redaktoriaus'
 };
