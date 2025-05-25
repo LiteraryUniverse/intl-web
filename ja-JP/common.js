@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'パスワードの表示',
     'common.forums': 'フォーラム',
     'common.restriction.goodConduct': '善行違反のため、この機能の使用を制限させていただきました。',
-    'common.continue': '続ける'
+    'common.continue': '続ける',
+    'common.authorName': '著者名',
+    'error.invalidFileType': '有効な画像ファイル（JPEG、PNG、GIF、WebP）を選択してください。',
+    'error.fileTooLarge': 'Image must be less than {mbSize, number}MB',
+    'error.fabricInitFailed': '画像エディタの初期化に失敗しました'
 };
