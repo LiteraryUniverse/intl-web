@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Tampilkan Kata Sandi',
     'common.forums': 'Forum',
     'common.restriction.goodConduct': 'Karena pelanggaran tata tertib, kami telah membatasi penggunaan fitur ini.',
-    'common.continue': 'Lanjutkan'
+    'common.continue': 'Lanjutkan',
+    'common.authorName': 'Nama Penulis',
+    'error.invalidFileType': 'Pilih file gambar yang valid (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Gambar harus kurang dari {mbSize, number}MB',
+    'error.fabricInitFailed': 'Gagal menginisialisasi editor gambar'
 };
