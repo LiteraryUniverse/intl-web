@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Şifreyi Göster',
     'common.forums': 'Forumlar',
     'common.restriction.goodConduct': 'İyi hal ihlali nedeniyle bu özelliği kullanmanızı kısıtladık.',
-    'common.continue': 'Devam et'
+    'common.continue': 'Devam et',
+    'common.authorName': 'Yazar Adı',
+    'error.invalidFileType': 'Lütfen geçerli bir görüntü dosyası seçin (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Görüntü {mbSize, number}MB\'den az olmalıdır',
+    'error.fabricInitFailed': 'Görüntü düzenleyici başlatılamadı'
 };
