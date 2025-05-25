@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Visa lösenord',
     'common.forums': 'Forum',
     'common.restriction.goodConduct': 'På grund av överträdelse av god sed har vi begränsat din användning av den här funktionen.',
-    'common.continue': 'Fortsätt'
+    'common.continue': 'Fortsätt',
+    'common.authorName': 'Författarens namn',
+    'error.invalidFileType': 'Välj en giltig bildfil (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Bilden måste vara mindre än {mbSize, number}MB',
+    'error.fabricInitFailed': 'Initialiseringen av bildredigeraren misslyckades'
 };
