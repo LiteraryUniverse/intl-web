@@ -279,5 +279,9 @@ export default {
     'common.password.show': '顯示密碼',
     'common.forums': '論壇',
     'common.restriction.goodConduct': '由於違反良好行為，我們限制您使用此功能。',
-    'common.continue': '繼續'
+    'common.continue': '繼續',
+    'common.authorName': '作者姓名',
+    'error.invalidFileType': '請選擇有效的影像檔案 (JPEG、PNG、GIF、WebP)',
+    'error.fileTooLarge': '影像必須小於 {mbSize, number}MB',
+    'error.fabricInitFailed': '圖片編輯器初始化失敗'
 };
