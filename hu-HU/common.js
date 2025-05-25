@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Jelszó megjelenítése',
     'common.forums': 'Fórumok',
     'common.restriction.goodConduct': 'A jó magaviselet megsértése miatt korlátoztuk ennek a funkciónak a használatát.',
-    'common.continue': 'Folytatás'
+    'common.continue': 'Folytatás',
+    'common.authorName': 'Szerző neve',
+    'error.invalidFileType': 'Kérjük, válasszon egy érvényes képfájlt (JPEG, PNG, GIF, WebP).',
+    'error.fileTooLarge': 'A képnek kevesebbnek kell lennie, mint {mbSize, number}MB',
+    'error.fabricInitFailed': 'Nem sikerült inicializálni a képszerkesztőt'
 };
