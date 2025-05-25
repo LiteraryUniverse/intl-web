@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Vis adgangskode',
     'common.forums': 'Fora',
     'common.restriction.goodConduct': 'På grund af brud på god opførsel har vi begrænset din brug af denne funktion.',
-    'common.continue': 'Fortsæt'
+    'common.continue': 'Fortsæt',
+    'common.authorName': 'Forfatterens navn',
+    'error.invalidFileType': 'Vælg en gyldig billedfil (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Billedet skal være mindre end {mbSize, number}MB',
+    'error.fabricInitFailed': 'Kunne ikke initialisere billedredigeringsprogrammet'
 };
