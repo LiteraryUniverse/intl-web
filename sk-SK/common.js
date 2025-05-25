@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Zobraziť heslo',
     'common.forums': 'Fóra',
     'common.restriction.goodConduct': 'Z dôvodu porušenia dobrých mravov sme obmedzili používanie tejto funkcie.',
-    'common.continue': 'Pokračovať'
+    'common.continue': 'Pokračovať',
+    'common.authorName': 'Meno autora',
+    'error.invalidFileType': 'Vyberte platný súbor s obrázkom (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Obrázok musí byť menší ako {mbSize, number}MB',
+    'error.fabricInitFailed': 'Nepodarilo sa inicializovať editor obrázkov'
 };
