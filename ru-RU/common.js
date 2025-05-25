@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Показать пароль',
     'common.forums': 'Форумы',
     'common.restriction.goodConduct': 'В связи с нарушением правил поведения мы ограничили ваше использование этой функции.',
-    'common.continue': 'Продолжить'
+    'common.continue': 'Продолжить',
+    'common.authorName': 'Имя автора',
+    'error.invalidFileType': 'Пожалуйста, выберите подходящий файл изображения (JPEG, PNG, GIF, WebP).',
+    'error.fileTooLarge': 'Размер изображения не должен превышать {mbSize, number}МБ.',
+    'error.fabricInitFailed': 'Не удалось инициализировать редактор изображений'
 };
