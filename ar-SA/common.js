@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'إظهار كلمة المرور',
     'common.forums': 'المنتديات',
     'common.restriction.goodConduct': 'بسبب مخالفة حسن السيرة والسلوك، قمنا بتقييد استخدامك لهذه الميزة.',
-    'common.continue': 'تابع'
+    'common.continue': 'تابع',
+    'common.authorName': 'اسم المؤلف',
+    'error.invalidFileType': 'يرجى تحديد ملف صورة صالح (JPEG، PNG، GIF، WebP)',
+    'error.fileTooLarge': 'يجب أن تكون الصورة أقل من {mbSize, number}~ ميغابايت',
+    'error.fabricInitFailed': 'فشل في تهيئة محرر الصور'
 };
