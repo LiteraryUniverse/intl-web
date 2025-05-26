@@ -1,6 +1,6 @@
 # Changelog for languages
 
-## 2025-05-16 - v2.16.0
+## 2025-05-26 - v2.16.0
 
 * New feature string: prevent publishing
 * Fix UK -> GB country string
