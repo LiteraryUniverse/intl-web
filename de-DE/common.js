@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Passwort anzeigen',
     'common.forums': 'Foren',
     'common.restriction.goodConduct': 'Aufgrund eines Verstoßes gegen die Wohlverhaltensregeln haben wir Ihre Nutzung dieser Funktion eingeschränkt.',
-    'common.continue': 'Weiter'
+    'common.continue': 'Weiter',
+    'common.authorName': 'Autor Name',
+    'error.invalidFileType': 'Bitte wählen Sie eine gültige Bilddatei (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Das Bild muss kleiner sein als {mbSize, number}MB',
+    'error.fabricInitFailed': 'Initialisierung des Bildeditors fehlgeschlagen'
 };

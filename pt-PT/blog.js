@@ -20,7 +20,7 @@ export default {
     one {Existem uma publicação}
     other {Existem # publicações}
   } neste blog.`,
-    'blog.post.create': 'Criar um novo post',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Postar texto',
     'common.slug': 'Endereço SEO amigável',

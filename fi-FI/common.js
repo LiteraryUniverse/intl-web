@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Näytä salasana',
     'common.forums': 'Foorumit',
     'common.restriction.goodConduct': 'Hyvän käytöksen rikkomisen vuoksi olemme rajoittaneet tämän ominaisuuden käyttöä.',
-    'common.continue': 'Jatka'
+    'common.continue': 'Jatka',
+    'common.authorName': 'Kirjoittajan nimi',
+    'error.invalidFileType': 'Valitse kelvollinen kuvatiedosto (JPEG, PNG, GIF, WebP).',
+    'error.fileTooLarge': 'Kuvan on oltava pienempi kuin {mbSize, number}MB',
+    'error.fabricInitFailed': 'Kuvankäsittelyohjelman alustaminen epäonnistui'
 };

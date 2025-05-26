@@ -20,7 +20,7 @@ export default {
     one {egy bejegyzés}
     other {# bejegyzése van}
   }.`,
-    'blog.post.create': 'Új bejegyzés létrehozása',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'A(z) {title}szerkesztése',
     'blog.post.text': 'Bejegyzés szövege',
     'common.slug': 'SEO barát URL',

@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Εμφάνιση κωδικού πρόσβασης',
     'common.forums': 'Φόρουμ',
     'common.restriction.goodConduct': 'Λόγω παραβίασης της καλής συμπεριφοράς έχουμε περιορίσει τη χρήση αυτής της λειτουργίας.',
-    'common.continue': 'Συνεχίστε'
+    'common.continue': 'Συνεχίστε',
+    'common.authorName': 'Όνομα συγγραφέα',
+    'error.invalidFileType': 'Παρακαλούμε επιλέξτε ένα έγκυρο αρχείο εικόνας (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Η εικόνα πρέπει να είναι μικρότερη από {mbSize, number}MB',
+    'error.fabricInitFailed': 'Απέτυχε η αρχικοποίηση του επεξεργαστή εικόνας'
 };

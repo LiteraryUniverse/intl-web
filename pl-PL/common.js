@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Proszę pokazać hasło',
     'common.forums': 'Fora',
     'common.restriction.goodConduct': 'Ze względu na naruszenie zasad dobrego postępowania ograniczyliśmy możliwość korzystania z tej funkcji.',
-    'common.continue': 'Proszę kontynuować'
+    'common.continue': 'Proszę kontynuować',
+    'common.authorName': 'Nazwa autora',
+    'error.invalidFileType': 'Proszę wybrać prawidłowy plik obrazu (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Obraz musi być mniejszy niż {mbSize, number}MB',
+    'error.fabricInitFailed': 'Nie udało się zainicjować edytora obrazów'
 };

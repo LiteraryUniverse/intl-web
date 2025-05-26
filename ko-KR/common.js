@@ -279,5 +279,9 @@ export default {
     'common.password.show': '비밀번호 표시',
     'common.forums': '포럼',
     'common.restriction.goodConduct': '윤리강령 위반으로 인해 이 기능의 사용이 제한되었습니다.',
-    'common.continue': '계속하기'
+    'common.continue': '계속하기',
+    'common.authorName': '작성자 이름',
+    'error.invalidFileType': '유효한 이미지 파일(JPEG, PNG, GIF, WebP)을 선택하세요.',
+    'error.fileTooLarge': '이미지는 {mbSize, number}MB 미만이어야 합니다.',
+    'error.fabricInitFailed': '이미지 편집기를 초기화하지 못했습니다.'
 };

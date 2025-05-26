@@ -20,7 +20,7 @@ export default {
     one {finns ett inlägg}
     other {finns # inlägg}
   } i den här bloggen.`,
-    'blog.post.create': 'Skapa ett nytt inlägg',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Redigerar {title}',
     'blog.post.text': 'Inläggstext',
     'common.slug': 'SEO-vänlig adress',

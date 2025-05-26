@@ -20,7 +20,7 @@ export default {
     one {有一篇文章}
     other {有 # 篇文章}
   } 。`,
-    'blog.post.create': '創建一個新的文章',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '編輯 {title}',
     'blog.post.text': '文章內容',
     'common.slug': 'SEO友好網址',

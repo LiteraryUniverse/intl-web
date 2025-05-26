@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Afișați parola',
     'common.forums': 'Forumuri',
     'common.restriction.goodConduct': 'Din cauza încălcării bunei conduite, v-am restricționat utilizarea acestei funcții.',
-    'common.continue': 'Continuați'
+    'common.continue': 'Continuați',
+    'common.authorName': 'Numele autorului',
+    'error.invalidFileType': 'Vă rugăm să selectați un fișier imagine valid (JPEG, PNG, GIF, WebP)',
+    'error.fileTooLarge': 'Imaginea trebuie să fie mai mică de {mbSize, number}MB',
+    'error.fabricInitFailed': 'Eșec la inițializarea editorului de imagini'
 };

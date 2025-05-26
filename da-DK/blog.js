@@ -20,7 +20,7 @@ export default {
     one {er et indlæg}
     other {er # indlæg}
   } i denne blog.`,
-    'blog.post.create': 'Opret et nyt indlæg',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Rediger {title}',
     'blog.post.text': 'Indlægtekst',
     'common.slug': 'SEO-venlig adresse',

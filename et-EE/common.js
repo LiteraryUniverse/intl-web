@@ -279,5 +279,9 @@ export default {
     'common.password.show': 'Näita salasõna',
     'common.forums': 'Foorumid',
     'common.restriction.goodConduct': 'Hea käitumise rikkumise tõttu oleme piiranud selle funktsiooni kasutamist.',
-    'common.continue': 'Jätka'
+    'common.continue': 'Jätka',
+    'common.authorName': 'Autori nimi',
+    'error.invalidFileType': 'Palun valige sobiv pildifail (JPEG, PNG, GIF, WebP).',
+    'error.fileTooLarge': 'Pilt peab olema väiksem kui {mbSize, number}MB',
+    'error.fabricInitFailed': 'Pildiredaktori initsialiseerimine ebaõnnestus'
 };

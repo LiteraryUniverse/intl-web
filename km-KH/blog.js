@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'បង្កើតប្លុក័ប្រភ័យថ្មី',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'កែសម្រួល {title}',
     'blog.post.text': 'អត្ថបទប្រភ័យ',
     'common.slug': 'អាសយដ្ឋានរួមជាមួយ SEO',

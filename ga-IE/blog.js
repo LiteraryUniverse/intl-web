@@ -20,7 +20,7 @@ export default {
     one {is one post}
     other {are # posts}
   } in this blog.`,
-    'blog.post.create': 'Cruthaigh post nua',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': 'Ag eagar {title}',
     'blog.post.text': 'Téacs an phoist',
     'common.slug': 'URL a bhfuil anseo cuí le SEO',

@@ -20,7 +20,7 @@ export default {
     one {게시물이 하나 있습니다}
     other {게시물이 #개 있습니다}
   } .`,
-    'blog.post.create': '새 포스트 만들기',
+    'blog.post.create': 'Write a new post',
     'blog.post.update': '편집 {title}',
     'blog.post.text': '포스트 텍스트',
     'common.slug': 'SEO 친화적인 주소',
