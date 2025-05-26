@@ -284,7 +284,7 @@ export default {
     'workshop.collaborator.leaveTitle': '{workName}。',
     'workshop.collaborator.leaveExplained': 'プロジェクトを離脱すると、すべてのアクセス、関連付け、権限が失われます。これが何を意味するのかよくわからない場合は、おそらくこれをクリックする必要はないでしょう。',
     'workshop.collaborators.leftInfo': '左に{date, date}',
-    'workshop.collaborators.removedInfo': 'Removed on {date, date}',
+    'workshop.collaborators.removedInfo': '{date, date}で削除',
     'workshop.aiGeneratedAdjusted': 'このコンテンツのAI生成ステータスは、ユーザーからの報告の結果、管理者によって調整されており、変更することはできません。',
     'workshop.theWay.authorProgress': '著者プログレス',
     'workshop.universe.preventPublishing': '記事の公開を防ぐ',
