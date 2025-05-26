@@ -282,6 +282,6 @@ export default {
     'common.continue': '続ける',
     'common.authorName': '著者名',
     'error.invalidFileType': '有効な画像ファイル（JPEG、PNG、GIF、WebP）を選択してください。',
-    'error.fileTooLarge': 'Image must be less than {mbSize, number}MB',
+    'error.fileTooLarge': '画像は {mbSize, number}MB 未満でなければなりません',
     'error.fabricInitFailed': '画像エディタの初期化に失敗しました'
 };
