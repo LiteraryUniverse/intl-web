@@ -79,7 +79,7 @@ export default {
     'feedback.report.status.fixed': '固定',
     'feedback.report.status.invalid': '無効',
     'feedback.report.status.rejected': '不採用',
-    'feedback.report.dateDetails': 'Created: {createdAt, date} | Updated: {updatedAt, date}',
+    'feedback.report.dateDetails': '作成日: {createdAt, date} | 更新: {updatedAt, date}',
     'feedback.report.quickResolution': '迅速な解決',
     'feedback.report.actions.none': 'クイックアクションなし',
     'feedback.report.actions.storySettings': 'ストーリー設定へ',
