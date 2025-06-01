@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Daftar Keinginan',
     'profile.storiesBy': 'Cerita yang dibuat oleh {username}',
     'profile.universesBy': 'Alam semesta yang dibuat oleh {username}',
-    'profile.fanFictionBy': 'Fan Fiksi yang dibuat oleh {username}'
+    'profile.fanFictionBy': 'Fan Fiksi yang dibuat oleh {username}',
+    'signup.reader.storiesType.title': 'Jenis cerita apa yang Anda sukai?',
+    'signup.reader.storiesType.description': 'Pilihlah yang paling sesuai dengan minat Anda.',
+    'storiesType.interactive': 'Interaktif',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Satu tembakan',
+    'storiesType.play': 'Bermain',
+    'storiesType.poetry': 'Puisi',
+    'storiesType.serialized': 'Berseri',
+    'storiesType.short_story': 'short_story'
 };
