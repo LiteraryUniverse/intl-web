@@ -49,5 +49,15 @@ other {Aggiunti}} il {date, date,long}`,
     'profile.wishlist': 'Lista dei desideri',
     'profile.storiesBy': 'Storie create da {username}',
     'profile.universesBy': 'Universi creati da {username}',
-    'profile.fanFictionBy': 'Fan Fiction create da {username}'
+    'profile.fanFictionBy': 'Fan Fiction create da {username}',
+    'signup.reader.storiesType.title': 'Quali tipi di storie le piacciono?',
+    'signup.reader.storiesType.description': 'Scelga quelli che corrispondono meglio ai suoi interessi.',
+    'storiesType.interactive': 'Interattivo',
+    'storiesType.novel': 'Romanzo',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Uno scatto',
+    'storiesType.play': 'Giocare',
+    'storiesType.poetry': 'Poesia',
+    'storiesType.serialized': 'Serializzato',
+    'storiesType.short_story': 'storia_breve'
 };
