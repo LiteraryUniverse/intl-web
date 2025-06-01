@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'სურათის არჩევა',
     'settings.email': 'ელფოსტები',
     'settings.email.msg': 'თქვენს ანგარიშთან დაკავშირებული ელფოსტები',
-    'settings.email.verified.false': 'არ დამოწმებულია',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'დამოწმებული ელფოსტა',
     'settings.email.add': 'ელფოსტის დამატება',
     'settings.languages.title': 'ენის პარამეტრები',
