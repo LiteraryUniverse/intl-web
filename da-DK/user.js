@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Ønskeliste',
     'profile.storiesBy': 'Historier oprettet af {username}',
     'profile.universesBy': 'Universer oprettet af {username}',
-    'profile.fanFictionBy': 'Fan Fiction oprettet af {username}'
+    'profile.fanFictionBy': 'Fan Fiction oprettet af {username}',
+    'signup.reader.storiesType.title': 'Hvilke typer historier kan du lide?',
+    'signup.reader.storiesType.description': 'Vælg dem, der bedst matcher dine interesser.',
+    'storiesType.interactive': 'Interaktiv',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Novelle',
+    'storiesType.one_shot': 'Et skud',
+    'storiesType.play': 'Spil',
+    'storiesType.poetry': 'Poesi',
+    'storiesType.serialized': 'Serieliseret',
+    'storiesType.short_story': 'kort_historie'
 };
