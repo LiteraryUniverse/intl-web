@@ -54,5 +54,15 @@ export default {
     'profile.wishlist': 'Seznam přání',
     'profile.storiesBy': 'Příběhy vytvořené {username}',
     'profile.universesBy': 'Vesmíry vytvořené {username}',
-    'profile.fanFictionBy': 'Fan fikce vytvořená {username}'
+    'profile.fanFictionBy': 'Fan fikce vytvořená {username}',
+    'signup.reader.storiesType.title': 'Jaké typy příběhů vás baví?',
+    'signup.reader.storiesType.description': 'Vyberte si ty, které nejlépe odpovídají vašim zájmům.',
+    'storiesType.interactive': 'Interaktivní',
+    'storiesType.novel': 'Novinka',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Jeden výstřel',
+    'storiesType.play': 'Přehrát',
+    'storiesType.poetry': 'Poezie',
+    'storiesType.serialized': 'Serializované',
+    'storiesType.short_story': 'short_story'
 };
