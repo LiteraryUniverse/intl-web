@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Lista de dorințe',
     'profile.storiesBy': 'Povești create de {username}',
     'profile.universesBy': 'Universuri create de {username}',
-    'profile.fanFictionBy': 'Fan Fiction creat de {username}'
+    'profile.fanFictionBy': 'Fan Fiction creat de {username}',
+    'signup.reader.storiesType.title': 'Ce tipuri de povești vă plac?',
+    'signup.reader.storiesType.description': 'Alegeți-le pe cele care corespund cel mai bine intereselor dumneavoastră.',
+    'storiesType.interactive': 'Interactiv',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Nuvelă',
+    'storiesType.one_shot': 'O lovitură',
+    'storiesType.play': 'Joc',
+    'storiesType.poetry': 'Poezie',
+    'storiesType.serialized': 'Serializat',
+    'storiesType.short_story': 'scurtă_poveste'
 };
