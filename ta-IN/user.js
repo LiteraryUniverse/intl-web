@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'விருப்பப் பட்டியல்',
     'profile.storiesBy': '{username}ஆல் உருப்படிகள் உருவாக்கிய கதைகள்',
     'profile.universesBy': '{username}ஆல் உருவாக்கிய உலகங்கள்',
-    'profile.fanFictionBy': '{username}ஆல் உருவாக்கிய புத்தகங்கள்'
+    'profile.fanFictionBy': '{username}ஆல் உருவாக்கிய புத்தகங்கள்',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story'
 };
