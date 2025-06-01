@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'इच्छा-सूची',
     'profile.storiesBy': '! {username}! द्वारा बनाई गई कहानियाँ',
     'profile.universesBy': '! {username}! द्वारा बनाए गए ब्रह्मांड',
-    'profile.fanFictionBy': '! {username}! द्वारा बनाई गई प्रशंसा की कहानियाँ'
+    'profile.fanFictionBy': '! {username}! द्वारा बनाई गई प्रशंसा की कहानियाँ',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story'
 };
