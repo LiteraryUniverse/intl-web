@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Önskelista',
     'profile.storiesBy': 'Berättelser skapade av {username}',
     'profile.universesBy': 'Universum skapade av {username}',
-    'profile.fanFictionBy': 'Fanfiction skapade av {username}'
+    'profile.fanFictionBy': 'Fanfiction skapade av {username}',
+    'signup.reader.storiesType.title': 'Vilka typer av berättelser tycker du om?',
+    'signup.reader.storiesType.description': 'Välj de som bäst matchar dina intressen.',
+    'storiesType.interactive': 'Interaktiv',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Novell',
+    'storiesType.one_shot': 'Ett skott',
+    'storiesType.play': 'Spela',
+    'storiesType.poetry': 'Poesi',
+    'storiesType.serialized': 'Serietillverkad',
+    'storiesType.short_story': 'kort_historia'
 };
