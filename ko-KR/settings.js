@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': '이미지 선택',
     'settings.email': '이메일',
     'settings.email.msg': '귀하의 계정과 연결된 이메일',
-    'settings.email.verified.false': '인증되지 않음',
+    'settings.email.verified.false': '확인되지 않은 경우 클릭하여 확인 이메일을 다시 보내세요.',
     'settings.email.verified.true': '인증된 이메일',
     'settings.email.add': '이메일 추가',
     'settings.languages.title': '언어 설정',
