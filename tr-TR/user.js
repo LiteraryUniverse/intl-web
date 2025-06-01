@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Dilek Listesi',
     'profile.storiesBy': '{username}tarafından oluşturulan hikayeler',
     'profile.universesBy': '{username}tarafından oluşturulan evrenler',
-    'profile.fanFictionBy': '{username}tarafından oluşturulan hayran kurguları'
+    'profile.fanFictionBy': '{username}tarafından oluşturulan hayran kurguları',
+    'signup.reader.storiesType.title': 'Ne tür hikayelerden hoşlanırsınız?',
+    'signup.reader.storiesType.description': 'İlgi alanlarınıza en uygun olanları seçin.',
+    'storiesType.interactive': 'İnteraktif',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Tek atış',
+    'storiesType.play': 'Oyun',
+    'storiesType.poetry': 'Şiir',
+    'storiesType.serialized': 'Serileştirilmiş',
+    'storiesType.short_story': 'short_story'
 };
