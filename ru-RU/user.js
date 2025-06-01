@@ -55,5 +55,15 @@ export default {
     'profile.wishlist': 'Список желаемого',
     'profile.storiesBy': 'Истории, созданные {username}',
     'profile.universesBy': 'Вселенные, созданные {username}',
-    'profile.fanFictionBy': 'Фанфики, созданные {username}'
+    'profile.fanFictionBy': 'Фанфики, созданные {username}',
+    'signup.reader.storiesType.title': 'Какие типы историй Вам нравятся?',
+    'signup.reader.storiesType.description': 'Выберите те, которые лучше всего соответствуют Вашим интересам.',
+    'storiesType.interactive': 'Интерактивный',
+    'storiesType.novel': 'Роман',
+    'storiesType.novella': 'Новелла',
+    'storiesType.one_shot': 'Один выстрел',
+    'storiesType.play': 'Играть',
+    'storiesType.poetry': 'Поэзия',
+    'storiesType.serialized': 'Сериализованный',
+    'storiesType.short_story': 'short_story'
 };
