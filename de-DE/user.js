@@ -47,5 +47,15 @@ export default {
     'profile.wishlist': 'Wunschliste',
     'profile.storiesBy': 'Geschichten von {username}',
     'profile.universesBy': 'Universen von {username}',
-    'profile.fanFictionBy': 'Fan-Fiction von {username}'
+    'profile.fanFictionBy': 'Fan-Fiction von {username}',
+    'signup.reader.storiesType.title': 'Welche Art von Geschichten mögen Sie?',
+    'signup.reader.storiesType.description': 'Wählen Sie die, die Ihren Interessen am besten entsprechen.',
+    'storiesType.interactive': 'Interaktiv',
+    'storiesType.novel': 'Neuartig',
+    'storiesType.novella': 'Novelle',
+    'storiesType.one_shot': 'Ein Schuss',
+    'storiesType.play': 'Spielen',
+    'storiesType.poetry': 'Poesie',
+    'storiesType.serialized': 'Serialisiert',
+    'storiesType.short_story': 'Kurz_Geschichte'
 };
