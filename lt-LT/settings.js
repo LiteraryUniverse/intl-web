@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Pasirinkite paveikslėlį',
     'settings.email': 'El. paštas',
     'settings.email.msg': 'El. paštas, susijęs su jūsų paskyra',
-    'settings.email.verified.false': 'Neįvykdyta patvirtinimas',
+    'settings.email.verified.false': 'Nepatikrinta, spustelėkite, jei norite dar kartą išsiųsti patvirtinimo el. laišką.',
     'settings.email.verified.true': 'Patvirtintas el. paštas',
     'settings.email.add': 'Pridėti el. paštą',
     'settings.languages.title': 'Kalbos nustatymai',
