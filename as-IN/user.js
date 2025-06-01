@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'ইচ্ছাপত্র',
     'profile.storiesBy': '{username}দ্বারা সৃষ্ট গল্পসমূহ',
     'profile.universesBy': '{username}দ্বারা সৃষ্ট বিশ্বসমূহ',
-    'profile.fanFictionBy': '{username}দ্বারা সৃষ্ট ফ্যান ফিকশনসমূহ'
+    'profile.fanFictionBy': '{username}দ্বারা সৃষ্ট ফ্যান ফিকশনসমূহ',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story'
 };
