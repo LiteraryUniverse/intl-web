@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Afbeelding selecteren',
     'settings.email': 'E-mails',
     'settings.email.msg': 'E-mails gekoppeld aan je account',
-    'settings.email.verified.false': 'Niet geverifieerd',
+    'settings.email.verified.false': 'Niet geverifieerd, klik om opnieuw een verificatiemail te versturen.',
     'settings.email.verified.true': 'Geverifieerde e-mail',
     'settings.email.add': 'E-mail toevoegen',
     'settings.languages.title': 'Taalinstellingen',
