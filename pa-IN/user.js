@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'ਇੱਛ-ਸੂਚੀ',
     'profile.storiesBy': '! {username}! ਵੱਡੀਆਂ ਕਹਾਣੀਆਂ',
     'profile.universesBy': '! {username}! ਵੱਡੇ ਬ੍ਰਹਮਾਂਡ',
-    'profile.fanFictionBy': '! {username}! ਵੱਡੀਆਂ ਫੈਨ ਫਿਕਸ਼ਨਾਂ'
+    'profile.fanFictionBy': '! {username}! ਵੱਡੀਆਂ ਫੈਨ ਫਿਕਸ਼ਨਾਂ',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story'
 };
