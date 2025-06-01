@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Kies \'n prent',
     'settings.email': 'E-posse',
     'settings.email.msg': 'E-posse wat verband hou met jou rekening',
-    'settings.email.verified.false': 'Nie geverifieer nie',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Geverifieerde e-pos',
     'settings.email.add': 'Voeg e-pos by',
     'settings.languages.title': 'Taalinstellings',
