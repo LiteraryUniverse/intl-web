@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Lista życzeń',
     'profile.storiesBy': 'Historie stworzone przez {username}',
     'profile.universesBy': 'Wszechświaty stworzone przez {username}',
-    'profile.fanFictionBy': 'Fan Fiction stworzone przez {username}'
+    'profile.fanFictionBy': 'Fan Fiction stworzone przez {username}',
+    'signup.reader.storiesType.title': 'Jakie rodzaje historii Pan lubi?',
+    'signup.reader.storiesType.description': 'Proszę wybrać te, które najlepiej odpowiadają Państwa zainteresowaniom.',
+    'storiesType.interactive': 'Interaktywny',
+    'storiesType.novel': 'Powieść',
+    'storiesType.novella': 'Nowela',
+    'storiesType.one_shot': 'Jeden strzał',
+    'storiesType.play': 'Grać',
+    'storiesType.poetry': 'Poezja',
+    'storiesType.serialized': 'Serializacja',
+    'storiesType.short_story': 'short_story'
 };
