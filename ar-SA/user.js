@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'قائمة الرغبات',
     'profile.storiesBy': 'القصص التي تم إنشاؤها بواسطة {username}',
     'profile.universesBy': 'الكونات التي تم إنشاؤها بواسطة {username}',
-    'profile.fanFictionBy': 'قصص المشجعين التي تم إنشاؤها بواسطة {username}'
+    'profile.fanFictionBy': 'قصص المشجعين التي تم إنشاؤها بواسطة {username}',
+    'signup.reader.storiesType.title': 'ما هي أنواع القصص التي تستمتع بها؟',
+    'signup.reader.storiesType.description': 'اختر ما يناسب اهتماماتك منها.',
+    'storiesType.interactive': 'تفاعلية',
+    'storiesType.novel': 'رواية',
+    'storiesType.novella': 'نوفيلا',
+    'storiesType.one_shot': 'طلقة واحدة',
+    'storiesType.play': 'اللعب',
+    'storiesType.poetry': 'الشعر',
+    'storiesType.serialized': 'متسلسلة',
+    'storiesType.short_story': 'قصة_قصة_قصيرة'
 };
