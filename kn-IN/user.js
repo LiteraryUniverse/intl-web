@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'ಇಚ್ಛಾಪಟುಗಳು',
     'profile.storiesBy': '{username}ದ್ವಾರಾ ರಚಿತವಾದ ಕಥೆಗಳು',
     'profile.universesBy': '{username}ದ್ವಾರಾ ರಚಿತವಾದ ಬ್ರಹ್ಮಾಂಡಗಳು',
-    'profile.fanFictionBy': '{username}ದ್ವಾರಾ ರಚಿತವಾದ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್'
+    'profile.fanFictionBy': '{username}ದ್ವಾರಾ ರಚಿತವಾದ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story'
 };
