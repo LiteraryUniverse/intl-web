@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'છબી પસંદ કરો',
     'settings.email': 'ઇમેઇલ્સ',
     'settings.email.msg': 'તમારા એકાઉન્ટ સાથે સંબંધિત ઇમેઇલ્સ',
-    'settings.email.verified.false': 'યોગ્ય નથી',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'યોગ્ય ઇમેઇલ',
     'settings.email.add': 'ઇમેઇલ ઉમેરો',
     'settings.languages.title': 'ભાષા સેટિંગ્સ',
