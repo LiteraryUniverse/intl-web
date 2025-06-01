@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'ជ្រើសរើសរូបភាព',
     'settings.email': 'អ៊ីមែល',
     'settings.email.msg': 'អ៊ីមែលដែលបានភ្ជាប់ជាមួយគណនីរបស់អ្នក',
-    'settings.email.verified.false': 'មិនបានផ្ទៀងផ្ទាត់',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'អ៊ីមែលដែលបានផ្ទៀងផ្ទាត់',
     'settings.email.add': 'បន្ថែមអ៊ីមែល',
     'settings.languages.title': 'ការកំណត់ភាសា',
