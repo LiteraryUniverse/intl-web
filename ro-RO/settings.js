@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Selectează imaginea',
     'settings.email': 'E-mailuri',
     'settings.email.msg': 'E-mailuri asociate contului tău',
-    'settings.email.verified.false': 'Nevăzut',
+    'settings.email.verified.false': 'Nu este verificat, faceți clic pentru a retrimite e-mailul de verificare.',
     'settings.email.verified.true': 'E-mail verificat',
     'settings.email.add': 'Adaugă e-mail',
     'settings.languages.title': 'Setări limbă',
