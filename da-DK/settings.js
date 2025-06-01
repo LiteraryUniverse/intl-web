@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Vælg billede',
     'settings.email': 'E-mails',
     'settings.email.msg': 'E-mails forbundet med din konto',
-    'settings.email.verified.false': 'Ikke verificeret',
+    'settings.email.verified.false': 'Ikke bekræftet, klik for at sende bekræftelsesmail igen.',
     'settings.email.verified.true': 'Verificeret e-mail',
     'settings.email.add': 'Tilføj e-mail',
     'settings.languages.title': 'Sprogindstillinger',
