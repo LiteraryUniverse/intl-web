@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'ইচ্ছাপত্র',
     'profile.storiesBy': '! {username}! দ্বারা তৈরি গল্পগুলি',
     'profile.universesBy': '! {username}! দ্বারা তৈরি বিশ্বগুলি',
-    'profile.fanFictionBy': '! {username}! দ্বারা তৈরি ফ্যান ফিকশনগুলি'
+    'profile.fanFictionBy': '! {username}! দ্বারা তৈরি ফ্যান ফিকশনগুলি',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story'
 };
