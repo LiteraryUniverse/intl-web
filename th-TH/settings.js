@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'เลือกรูปภาพ',
     'settings.email': 'อีเมล์',
     'settings.email.msg': 'อีเมล์ที่เกี่ยวข้องกับบัญชีของคุณ',
-    'settings.email.verified.false': 'ยังไม่ได้ยืนยัน',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'อีเมล์ที่ได้รับการยืนยันแล้ว',
     'settings.email.add': 'เพิ่มอีเมล์',
     'settings.languages.title': 'การตั้งค่าภาษา',
