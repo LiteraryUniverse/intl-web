@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': '위시리스트',
     'profile.storiesBy': '{username}이(가) 작성한 이야기',
     'profile.universesBy': '{username}이(가) 만든 우주',
-    'profile.fanFictionBy': '{username}이(가) 만든 팬픽션'
+    'profile.fanFictionBy': '{username}이(가) 만든 팬픽션',
+    'signup.reader.storiesType.title': '어떤 유형의 스토리를 좋아하시나요?',
+    'signup.reader.storiesType.description': '관심사에 가장 잘 맞는 것을 선택하세요.',
+    'storiesType.interactive': '대화형',
+    'storiesType.novel': '소설',
+    'storiesType.novella': '소설',
+    'storiesType.one_shot': '원샷',
+    'storiesType.play': '플레이',
+    'storiesType.poetry': '시',
+    'storiesType.serialized': '직렬화',
+    'storiesType.short_story': 'short_story'
 };
