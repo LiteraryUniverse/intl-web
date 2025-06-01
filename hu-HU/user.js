@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Kívánságlista',
     'profile.storiesBy': '{username}által létrehozott történetek',
     'profile.universesBy': '{username}által létrehozott univerzumok',
-    'profile.fanFictionBy': '{username}által létrehozott rajongói írások'
+    'profile.fanFictionBy': '{username}által létrehozott rajongói írások',
+    'signup.reader.storiesType.title': 'Milyen típusú történeteket szeretsz?',
+    'signup.reader.storiesType.description': 'Válassza ki azokat, amelyek a legjobban megfelelnek az érdeklődési körének.',
+    'storiesType.interactive': 'Interaktív',
+    'storiesType.novel': 'Újdonság',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Egy lövés',
+    'storiesType.play': 'Játsszon',
+    'storiesType.poetry': 'Költészet',
+    'storiesType.serialized': 'Sorszámozott',
+    'storiesType.short_story': 'short_story'
 };
