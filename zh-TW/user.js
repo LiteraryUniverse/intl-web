@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': '願望清單',
     'profile.storiesBy': '由 {username}創作的故事',
     'profile.universesBy': '由 {username}創作的宇宙',
-    'profile.fanFictionBy': '由 {username}創作的粉絲創作'
+    'profile.fanFictionBy': '由 {username}創作的粉絲創作',
+    'signup.reader.storiesType.title': '您喜歡哪種類型的故事？',
+    'signup.reader.storiesType.description': '挑選最符合您興趣的項目。',
+    'storiesType.interactive': '互動式',
+    'storiesType.novel': '小說',
+    'storiesType.novella': '小說',
+    'storiesType.one_shot': '一桿',
+    'storiesType.play': '遊戲',
+    'storiesType.poetry': '詩歌',
+    'storiesType.serialized': '序列化',
+    'storiesType.short_story': '簡短故事'
 };
