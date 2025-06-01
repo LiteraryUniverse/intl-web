@@ -41,5 +41,15 @@ export default {
     'profile.wishlist': 'ウィッシュリスト',
     'profile.storiesBy': '! {username}!が作成したストーリー',
     'profile.universesBy': '! {username}!が作成したユニバース',
-    'profile.fanFictionBy': '! {username}!が作成したファンフィクション'
+    'profile.fanFictionBy': '! {username}!が作成したファンフィクション',
+    'signup.reader.storiesType.title': 'どのような物語がお好きですか？',
+    'signup.reader.storiesType.description': 'あなたの興味に最も合うものを選んでください。',
+    'storiesType.interactive': 'インタラクティブ',
+    'storiesType.novel': '小説',
+    'storiesType.novella': 'ノベラ',
+    'storiesType.one_shot': '一発',
+    'storiesType.play': 'プレー',
+    'storiesType.poetry': '詩',
+    'storiesType.serialized': '連載',
+    'storiesType.short_story': 'ショートストーリー'
 };
