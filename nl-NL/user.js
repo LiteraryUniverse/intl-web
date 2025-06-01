@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Verlanglijst',
     'profile.storiesBy': 'Verhalen gemaakt door {username}',
     'profile.universesBy': 'Universums gemaakt door {username}',
-    'profile.fanFictionBy': 'Fanfictie gemaakt door {username}'
+    'profile.fanFictionBy': 'Fanfictie gemaakt door {username}',
+    'signup.reader.storiesType.title': 'Van welk soort verhalen houdt u?',
+    'signup.reader.storiesType.description': 'Kies degenen die het beste bij uw interesses passen.',
+    'storiesType.interactive': 'Interactieve',
+    'storiesType.novel': 'Nieuwe',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Eén opname',
+    'storiesType.play': 'Speel',
+    'storiesType.poetry': 'Poëzie',
+    'storiesType.serialized': 'Geserialiseerd',
+    'storiesType.short_story': 'kort_verhaal'
 };
