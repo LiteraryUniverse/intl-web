@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Vali pilt',
     'settings.email': 'E-post',
     'settings.email.msg': 'Sinu kontoga seotud e-postid',
-    'settings.email.verified.false': 'Kinnitamata',
+    'settings.email.verified.false': 'Ei ole kontrollitud, klõpsake, et kinnitusmeil uuesti saata.',
     'settings.email.verified.true': 'Kinnitatud e-post',
     'settings.email.add': 'Lisa e-post',
     'settings.languages.title': 'Keelte seaded',
