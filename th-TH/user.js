@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'รายการสิ่งที่ต้องการ',
     'profile.storiesBy': 'เรื่องราวที่สร้างโดย {username}',
     'profile.universesBy': 'จักรวาลที่สร้างโดย {username}',
-    'profile.fanFictionBy': 'นิยายแฟนตาซีที่สร้างโดย {username}'
+    'profile.fanFictionBy': 'นิยายแฟนตาซีที่สร้างโดย {username}',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story'
 };
