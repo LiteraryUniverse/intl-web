@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Valitse kuva',
     'settings.email': 'Sähköpostit',
     'settings.email.msg': 'Tilisi liittyvät sähköpostit',
-    'settings.email.verified.false': 'Ei vahvistettu',
+    'settings.email.verified.false': 'Ei vahvistettu, klikkaa lähettääksesi vahvistussähköpostin uudelleen.',
     'settings.email.verified.true': 'Vahvistettu sähköposti',
     'settings.email.add': 'Lisää sähköposti',
     'settings.languages.title': 'Kielen asetukset',
