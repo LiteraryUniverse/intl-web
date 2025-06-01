@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Оберіть зображення',
     'settings.email': 'Електронна пошта',
     'settings.email.msg': 'Електронні адреси, пов\'язані з вашим обліковим записом',
-    'settings.email.verified.false': 'Не підтверджено',
+    'settings.email.verified.false': 'Не підтверджено, натисніть, щоб повторно надіслати підтвердження.',
     'settings.email.verified.true': 'Підтверджена електронна пошта',
     'settings.email.add': 'Додати електронну пошту',
     'settings.languages.title': 'Налаштування мовних параметрів',
