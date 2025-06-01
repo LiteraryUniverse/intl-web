@@ -49,5 +49,15 @@ export default {
     'profile.wishlist': 'Liste de souhaits',
     'profile.storiesBy': 'Histoires créées par {username}',
     'profile.universesBy': 'Univers créés par {username}',
-    'profile.fanFictionBy': 'Fanfictions créées par {username}'
+    'profile.fanFictionBy': 'Fanfictions créées par {username}',
+    'signup.reader.storiesType.title': 'Quels types d\'histoires aimez-vous ?',
+    'signup.reader.storiesType.description': 'Choisissez ceux qui correspondent le mieux à vos intérêts.',
+    'storiesType.interactive': 'Interactif',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Un coup',
+    'storiesType.play': 'Jouer',
+    'storiesType.poetry': 'Poésie',
+    'storiesType.serialized': 'En série',
+    'storiesType.short_story': 'histoire_courte'
 };
