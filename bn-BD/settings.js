@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'ছবি নির্বাচন করুন',
     'settings.email': 'ইমেইল',
     'settings.email.msg': 'আপনার অ্যাকাউন্টের সঙ্গে সংযুক্তিযুক্ত ইমেইলগুলি',
-    'settings.email.verified.false': 'যাচাই করা হয়নি',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'যাচাইকৃত ইমেইল',
     'settings.email.add': 'ইমেইল যোগ করুন',
     'settings.languages.title': 'ভাষা সেটিংস',

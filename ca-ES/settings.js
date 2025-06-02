@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Selecciona una imatge',
     'settings.email': 'Correus electrònics',
     'settings.email.msg': 'Correus electrònics associats al teu compte',
-    'settings.email.verified.false': 'No verificat',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Correu electrònic verificat',
     'settings.email.add': 'Afegeix correu electrònic',
     'settings.languages.title': 'Configuració de l\'idioma',

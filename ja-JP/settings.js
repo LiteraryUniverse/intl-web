@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': '画像を選択',
     'settings.email': 'メール',
     'settings.email.msg': 'ご自身のアカウントに紐づくメール',
-    'settings.email.verified.false': '確認が取れませんでした',
+    'settings.email.verified.false': '認証されていません。クリックして認証メールを再送してください。',
     'settings.email.verified.true': '確認済みメール',
     'settings.email.add': 'メールを追加',
     'settings.languages.title': '言語設定',

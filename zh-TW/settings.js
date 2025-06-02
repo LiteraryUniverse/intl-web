@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': '選擇圖片',
     'settings.email': '電子郵件',
     'settings.email.msg': '與您的帳戶關聯的電子郵件',
-    'settings.email.verified.false': '未驗證',
+    'settings.email.verified.false': '尚未驗證，請按一下以重新傳送驗證電子郵件。',
     'settings.email.verified.true': '已驗證的電子郵件',
     'settings.email.add': '添加電子郵件',
     'settings.languages.title': '語言設定',

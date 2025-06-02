@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Lista de dorințe',
     'profile.storiesBy': 'Povești create de {username}',
     'profile.universesBy': 'Universuri create de {username}',
-    'profile.fanFictionBy': 'Fan Fiction creat de {username}'
+    'profile.fanFictionBy': 'Fan Fiction creat de {username}',
+    'signup.reader.storiesType.title': 'Ce tipuri de povești vă plac?',
+    'signup.reader.storiesType.description': 'Alegeți-le pe cele care corespund cel mai bine intereselor dumneavoastră.',
+    'storiesType.interactive': 'Interactiv',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Nuvelă',
+    'storiesType.one_shot': 'O lovitură',
+    'storiesType.play': 'Joc',
+    'storiesType.poetry': 'Poezie',
+    'storiesType.serialized': 'Serializat',
+    'storiesType.short_story': 'scurtă_poveste',
+    'user.settings.introTitle': 'Bine ați venit la setările dvs.!',
+    'user.settings.introText': 'Setările profilului vă permit să personalizați informații despre dvs., cum ar fi numele, avatarul etc. Setările contului vă permit să setați aspectele tehnice care au impact asupra experienței dvs., de exemplu limba, e-mailurile, tema site-ului, setările AI etc. Abonament și plăți vă va permite să vă gestionați abonamentele și opțiunile de plată. În cele din urmă, Monetizare este locul în care puteți gestiona plățile, fan cluburile și alte opțiuni de monetizare.'
 };

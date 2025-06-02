@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Resim seç',
     'settings.email': 'E-postalar',
     'settings.email.msg': 'Hesabınıza bağlı e-postalar',
-    'settings.email.verified.false': 'Doğrulanmamış',
+    'settings.email.verified.false': 'Doğrulanmadı, doğrulama e-postasını yeniden göndermek için tıklayın.',
     'settings.email.verified.true': 'Doğrulanmış e-posta',
     'settings.email.add': 'E-posta ekle',
     'settings.languages.title': 'Dil ayarları',

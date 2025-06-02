@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Pageidavimų sąrašas',
     'profile.storiesBy': 'Istorijos sukurtos {username}',
     'profile.universesBy': 'Visatos sukurtos {username}',
-    'profile.fanFictionBy': 'Fanų kūriniai sukurti {username}'
+    'profile.fanFictionBy': 'Fanų kūriniai sukurti {username}',
+    'signup.reader.storiesType.title': 'Kokios istorijos jums patinka?',
+    'signup.reader.storiesType.description': 'Išsirinkite geriausiai jūsų interesus atitinkančius dalykus.',
+    'storiesType.interactive': 'Interaktyvus',
+    'storiesType.novel': 'Naujiena',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Vienas šūvis',
+    'storiesType.play': 'Žaisti',
+    'storiesType.poetry': 'Poezija',
+    'storiesType.serialized': 'Serijinis',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Sveiki atvykę į savo nustatymus!',
+    'user.settings.introText': 'Naudodamiesi profilio nustatymais galite pritaikyti informaciją apie save, pvz., savo vardą, avatarą ir kt. Paskyros nustatymai leidžia nustatyti daugiau techninių aspektų, kurie turi įtakos jūsų patirčiai, pavyzdžiui, kalbą, el. paštą, svetainės temą, dirbtinio intelekto nustatymus ir kt. Prenumerata ir mokėjimai leis jums tvarkyti prenumeratos ir mokėjimų parinktis. Galiausiai "Monetization" yra vieta, kurioje galite tvarkyti mokėjimus, gerbėjų klubus ir kitas monetizacijos parinktis.'
 };

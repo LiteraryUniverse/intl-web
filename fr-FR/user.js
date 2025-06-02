@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Liste de souhaits',
     'profile.storiesBy': 'Histoires créées par {username}',
     'profile.universesBy': 'Univers créés par {username}',
-    'profile.fanFictionBy': 'Fanfictions créées par {username}'
+    'profile.fanFictionBy': 'Fanfictions créées par {username}',
+    'signup.reader.storiesType.title': 'Quels types d\'histoires aimez-vous ?',
+    'signup.reader.storiesType.description': 'Choisissez ceux qui correspondent le mieux à vos intérêts.',
+    'storiesType.interactive': 'Interactif',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Un coup',
+    'storiesType.play': 'Jouer',
+    'storiesType.poetry': 'Poésie',
+    'storiesType.serialized': 'En série',
+    'storiesType.short_story': 'histoire_courte',
+    'user.settings.introTitle': 'Bienvenue dans vos paramètres !',
+    'user.settings.introText': 'Les paramètres du profil vous permettent de personnaliser les informations vous concernant, comme votre nom, votre avatar, etc. Les paramètres du compte vous permettent de définir les aspects plus techniques qui ont un impact sur votre expérience, par exemple votre langue, vos courriels, le thème du site, les paramètres de l\'IA, etc. Abonnement et paiements vous permet de gérer vos abonnements et vos options de paiement. Enfin, la section Monétisation vous permet de gérer les paiements, les clubs de fans et d\'autres options de monétisation.'
 };

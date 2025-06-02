@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Pilih imej',
     'settings.email': 'E-mel',
     'settings.email.msg': 'E-mel yang dikaitkan dengan akaun anda',
-    'settings.email.verified.false': 'Tidak disahkan',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'E-mel disahkan',
     'settings.email.add': 'Tambah e-mel',
     'settings.languages.title': 'Tetapan bahasa',

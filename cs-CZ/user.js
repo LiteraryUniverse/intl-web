@@ -54,5 +54,17 @@ export default {
     'profile.wishlist': 'Seznam přání',
     'profile.storiesBy': 'Příběhy vytvořené {username}',
     'profile.universesBy': 'Vesmíry vytvořené {username}',
-    'profile.fanFictionBy': 'Fan fikce vytvořená {username}'
+    'profile.fanFictionBy': 'Fan fikce vytvořená {username}',
+    'signup.reader.storiesType.title': 'Jaké typy příběhů vás baví?',
+    'signup.reader.storiesType.description': 'Vyberte si ty, které nejlépe odpovídají vašim zájmům.',
+    'storiesType.interactive': 'Interaktivní',
+    'storiesType.novel': 'Novinka',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Jeden výstřel',
+    'storiesType.play': 'Přehrát',
+    'storiesType.poetry': 'Poezie',
+    'storiesType.serialized': 'Serializované',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Vítejte ve svém nastavení!',
+    'user.settings.introText': 'Nastavení profilu vám umožní přizpůsobit informace o sobě, jako je vaše jméno, avatar atd. Nastavení účtu umožňují nastavit více technických aspektů, které mají vliv na vaše zkušenosti, například jazyk, e-maily, téma webu, nastavení umělé inteligence atd. Předplatné a platby vám umožní spravovat předplatné a možnosti plateb. A konečně Monetizace je místo, kde můžete spravovat výplaty, fankluby a další možnosti monetizace.'
 };

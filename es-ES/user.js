@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Lista de deseados',
     'profile.storiesBy': 'Historias creadas por {username}',
     'profile.universesBy': 'Universos creados por {username}',
-    'profile.fanFictionBy': 'Fanficción creada por {username}'
+    'profile.fanFictionBy': 'Fanficción creada por {username}',
+    'signup.reader.storiesType.title': '¿Qué tipo de historias le gustan?',
+    'signup.reader.storiesType.description': 'Elija las que mejor se ajusten a sus intereses.',
+    'storiesType.interactive': 'Interactivo',
+    'storiesType.novel': 'Novedad',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Un disparo',
+    'storiesType.play': 'Jugar',
+    'storiesType.poetry': 'Poesía',
+    'storiesType.serialized': 'Serializado',
+    'storiesType.short_story': 'historia_corta',
+    'user.settings.introTitle': '¡Bienvenido a su configuración!',
+    'user.settings.introText': 'Los ajustes del perfil le permiten personalizar la información sobre usted, como su nombre, avatar, etc. Los ajustes de la cuenta le permiten configurar los aspectos más técnicos que repercuten en su experiencia, por ejemplo su idioma, correos electrónicos, tema del sitio, ajustes de IA, etc. Suscripción y pagos le permitirá gestionar sus suscripciones y opciones de pago. Por último Monetización es donde podrá gestionar sus pagos, clubes de fans y otras opciones de monetización.'
 };

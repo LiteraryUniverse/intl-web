@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Λίστα Επιθυμιών',
     'profile.storiesBy': 'Ιστορίες που δημιουργήθηκαν από {username}',
     'profile.universesBy': 'Σύμπαντα που δημιουργήθηκαν από {username}',
-    'profile.fanFictionBy': 'Fan Fiction που δημιουργήθηκαν από {username}'
+    'profile.fanFictionBy': 'Fan Fiction που δημιουργήθηκαν από {username}',
+    'signup.reader.storiesType.title': 'Τι είδους ιστορίες σας αρέσουν;',
+    'signup.reader.storiesType.description': 'Διαλέξτε αυτά που ταιριάζουν καλύτερα στα ενδιαφέροντά σας.',
+    'storiesType.interactive': 'Διαδραστικό',
+    'storiesType.novel': 'Μυθιστόρημα',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Μία βολή',
+    'storiesType.play': 'Παίξτε',
+    'storiesType.poetry': 'Ποίηση',
+    'storiesType.serialized': 'Σειριοποιημένο',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Καλώς ήρθατε στις ρυθμίσεις σας!',
+    'user.settings.introText': 'Οι ρυθμίσεις προφίλ σας επιτρέπουν να προσαρμόσετε πληροφορίες σχετικά με τον εαυτό σας, όπως το όνομα, το avatar κ.λπ. Οι ρυθμίσεις λογαριασμού σας επιτρέπουν να ορίσετε τις πιο τεχνικές πτυχές που έχουν αντίκτυπο στην εμπειρία σας, όπως για παράδειγμα τη γλώσσα σας, τα emails, το θέμα του ιστότοπου, τις ρυθμίσεις AI κ.λπ. Οι ρυθμίσεις συνδρομών και πληρωμών θα σας επιτρέψουν να διαχειριστείτε τις επιλογές συνδρομών και πληρωμών σας. Τέλος, το Monetization είναι το σημείο όπου μπορείτε να διαχειριστείτε τις πληρωμές σας, τα fan clubs και άλλες επιλογές νομισματοποίησης.'
 };

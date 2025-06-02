@@ -55,5 +55,17 @@ export default {
     'profile.wishlist': 'Список желаемого',
     'profile.storiesBy': 'Истории, созданные {username}',
     'profile.universesBy': 'Вселенные, созданные {username}',
-    'profile.fanFictionBy': 'Фанфики, созданные {username}'
+    'profile.fanFictionBy': 'Фанфики, созданные {username}',
+    'signup.reader.storiesType.title': 'Какие типы историй Вам нравятся?',
+    'signup.reader.storiesType.description': 'Выберите те, которые лучше всего соответствуют Вашим интересам.',
+    'storiesType.interactive': 'Интерактивный',
+    'storiesType.novel': 'Роман',
+    'storiesType.novella': 'Новелла',
+    'storiesType.one_shot': 'Один выстрел',
+    'storiesType.play': 'Играть',
+    'storiesType.poetry': 'Поэзия',
+    'storiesType.serialized': 'Сериализованный',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Добро пожаловать в Ваши настройки!',
+    'user.settings.introText': 'Настройки профиля позволяют Вам настроить информацию о себе, например, Ваше имя, аватар и т.д. Настройки аккаунта позволяют Вам настроить более технические аспекты, влияющие на Вашу работу, например, язык, электронную почту, тему сайта, настройки AI и т.д. Subscription & Payments позволит Вам управлять подписками и платежами. Наконец, Monetization - это место, где Вы можете управлять выплатами, фан-клубами и другими опциями монетизации.'
 };

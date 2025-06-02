@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Soovinimekiri',
     'profile.storiesBy': 'Lood, mille on loonud {username}',
     'profile.universesBy': 'Universumid, mille on loonud {username}',
-    'profile.fanFictionBy': 'Fännilood, mille on loonud {username}'
+    'profile.fanFictionBy': 'Fännilood, mille on loonud {username}',
+    'signup.reader.storiesType.title': 'Millised lood teile meeldivad?',
+    'signup.reader.storiesType.description': 'Valige need, mis vastavad kõige paremini teie huvidele.',
+    'storiesType.interactive': 'Interaktiivne',
+    'storiesType.novel': 'Uudne',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Üks lask',
+    'storiesType.play': 'Mängi',
+    'storiesType.poetry': 'Luule',
+    'storiesType.serialized': 'Serialiseeritud',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Tere tulemast teie seadistustesse!',
+    'user.settings.introText': 'Profiili seaded võimaldavad teil kohandada teavet enda kohta, näiteks oma nime, avatari jne. Konto seaded võimaldavad teil määrata rohkem tehnilisi aspekte, mis mõjutavad teie kasutajakogemust, näiteks teie keelt, e-kirju, saidi teemat, tehisintellekti seadeid jne. Tellimus ja maksed võimaldavad teil hallata oma tellimusi ja maksevõimalusi. Lõpuks Monetiseerimine on koht, kus saate hallata oma väljamakseid, fänniklubisid ja muid monetiseerimisvõimalusi.'
 };

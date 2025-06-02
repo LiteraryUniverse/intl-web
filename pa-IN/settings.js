@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'ਚਿੱਤਰ ਚੁਣੋ',
     'settings.email': 'ਈਮੇਲ',
     'settings.email.msg': 'ਤੁਹਾਡੇ ਖਾਤੇ ਨਾਲ ਜੁੜੇ ਈਮੇਲ',
-    'settings.email.verified.false': 'ਪੁਸ਼ਟੀਕਰਨ ਨਹੀਂ ਕੀਤੀ',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'ਪੁਸ਼ਟੀਕਰਨ ਹੋਈ ਈਮੇਲ',
     'settings.email.add': 'ਈਮੇਲ ਸ਼ਾਮਲ ਕਰੋ',
     'settings.languages.title': 'ਭਾਸ਼ਾ ਸੈਟਿੰਗਜ਼',

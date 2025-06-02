@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Välj bild',
     'settings.email': 'E-post',
     'settings.email.msg': 'E-postadresser associerade med ditt konto',
-    'settings.email.verified.false': 'Ej verifierad',
+    'settings.email.verified.false': 'Ej verifierad, klicka för att skicka ett nytt verifieringsmeddelande.',
     'settings.email.verified.true': 'Verifierad e-postadress',
     'settings.email.add': 'Lägg till e-post',
     'settings.languages.title': 'Språkinställningar',

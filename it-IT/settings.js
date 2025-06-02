@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Seleziona immagine',
     'settings.email': 'E-mail',
     'settings.email.msg': 'E-mail associate al tuo account',
-    'settings.email.verified.false': 'Non verificata',
+    'settings.email.verified.false': 'Non verificato, clicchi per inviare nuovamente l\'e-mail di verifica.',
     'settings.email.verified.true': 'E-mail verificata',
     'settings.email.add': 'Aggiungi e-mail',
     'settings.languages.title': 'Impostazioni lingua',

@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'པར་རིས་གནང་།',
     'settings.email': 'གནས་བསྐུར།',
     'settings.email.msg': 'ཁྱེད་ཀྱི་གནས་བསྐུར་གནང་།',
-    'settings.email.verified.false': 'བདག་སྐྱེད་མ་རེ་བཞིན་པའི་གནས་བསྐུར་འདི་མིན་འདུག',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'གནས་བསྐུར་བདག་སྐྱེད།',
     'settings.email.add': 'གནས་བསྐུར་གསར་འགྱུར་བརྗོད་པའི་གནས་བསྐུར་གནང་།',
     'settings.languages.title': 'སྐད་རིགས་གྱི་སྐབས་ཀྱི་གནས་བསྐུར།',

@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'قائمة الرغبات',
     'profile.storiesBy': 'القصص التي تم إنشاؤها بواسطة {username}',
     'profile.universesBy': 'الكونات التي تم إنشاؤها بواسطة {username}',
-    'profile.fanFictionBy': 'قصص المشجعين التي تم إنشاؤها بواسطة {username}'
+    'profile.fanFictionBy': 'قصص المشجعين التي تم إنشاؤها بواسطة {username}',
+    'signup.reader.storiesType.title': 'ما هي أنواع القصص التي تستمتع بها؟',
+    'signup.reader.storiesType.description': 'اختر ما يناسب اهتماماتك منها.',
+    'storiesType.interactive': 'تفاعلية',
+    'storiesType.novel': 'رواية',
+    'storiesType.novella': 'نوفيلا',
+    'storiesType.one_shot': 'طلقة واحدة',
+    'storiesType.play': 'اللعب',
+    'storiesType.poetry': 'الشعر',
+    'storiesType.serialized': 'متسلسلة',
+    'storiesType.short_story': 'قصة_قصة_قصيرة',
+    'user.settings.introTitle': 'مرحباً بك في إعداداتك!',
+    'user.settings.introText': 'تسمح لك إعدادات الملف الشخصي بتخصيص معلومات عن نفسك، مثل اسمك والصورة الرمزية وما إلى ذلك. تسمح لك إعدادات الحساب بتعيين الجوانب الفنية الأكثر تأثيرًا على تجربتك، مثل لغتك، ورسائل البريد الإلكتروني، وموضوع الموقع، وإعدادات الذكاء الاصطناعي، وما إلى ذلك. يتيح لك الاشتراك والمدفوعات إدارة اشتراكاتك وخيارات الدفع. وأخيرًا، يمكنك إدارة المدفوعات ونوادي المعجبين وخيارات تحقيق الدخل الأخرى.'
 };

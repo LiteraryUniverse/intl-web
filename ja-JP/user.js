@@ -41,5 +41,17 @@ export default {
     'profile.wishlist': 'ウィッシュリスト',
     'profile.storiesBy': '! {username}!が作成したストーリー',
     'profile.universesBy': '! {username}!が作成したユニバース',
-    'profile.fanFictionBy': '! {username}!が作成したファンフィクション'
+    'profile.fanFictionBy': '! {username}!が作成したファンフィクション',
+    'signup.reader.storiesType.title': 'どのような物語がお好きですか？',
+    'signup.reader.storiesType.description': 'あなたの興味に最も合うものを選んでください。',
+    'storiesType.interactive': 'インタラクティブ',
+    'storiesType.novel': '小説',
+    'storiesType.novella': 'ノベラ',
+    'storiesType.one_shot': '一発',
+    'storiesType.play': 'プレー',
+    'storiesType.poetry': '詩',
+    'storiesType.serialized': '連載',
+    'storiesType.short_story': 'ショートストーリー',
+    'user.settings.introTitle': 'セッティングへようこそ！',
+    'user.settings.introText': 'プロフィール設定では、名前、アバターなど、あなた自身に関する情報をカスタマイズできます。アカウント設定では、言語、Eメール、サイトテーマ、AI設定など、あなたの体験に影響を与える技術的な側面を設定できます。サブスクリプションと支払いでは、サブスクリプションと支払いオプションを管理できます。最後にマネタイズでは、ペイアウト、ファンクラブ、その他のマネタイズオプションを管理できます。'
 };

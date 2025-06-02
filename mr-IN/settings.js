@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'प्रतिमा निवडा',
     'settings.email': 'ईमेल',
     'settings.email.msg': 'तुमच्या खात्याशी संबंधित ईमेल',
-    'settings.email.verified.false': 'तपासलेले नाही',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'तपासलेले ईमेल',
     'settings.email.add': 'ईमेल जोडा',
     'settings.languages.title': 'भाषा सेटिंग्ज',

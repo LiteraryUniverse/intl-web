@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Daftar Keinginan',
     'profile.storiesBy': 'Cerita yang dibuat oleh {username}',
     'profile.universesBy': 'Alam semesta yang dibuat oleh {username}',
-    'profile.fanFictionBy': 'Fan Fiksi yang dibuat oleh {username}'
+    'profile.fanFictionBy': 'Fan Fiksi yang dibuat oleh {username}',
+    'signup.reader.storiesType.title': 'Jenis cerita apa yang Anda sukai?',
+    'signup.reader.storiesType.description': 'Pilihlah yang paling sesuai dengan minat Anda.',
+    'storiesType.interactive': 'Interaktif',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Satu tembakan',
+    'storiesType.play': 'Bermain',
+    'storiesType.poetry': 'Puisi',
+    'storiesType.serialized': 'Berseri',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Selamat datang di pengaturan Anda!',
+    'user.settings.introText': 'Pengaturan profil memungkinkan Anda untuk menyesuaikan informasi tentang diri Anda, seperti nama, avatar, dll. Pengaturan akun memungkinkan Anda untuk mengatur aspek-aspek yang lebih teknis yang berdampak pada pengalaman Anda, misalnya bahasa, email, tema situs, pengaturan AI, dll. Langganan & Pembayaran memungkinkan Anda untuk mengelola langganan dan opsi pembayaran. Terakhir, Monetisasi adalah tempat Anda bisa mengelola pembayaran, klub penggemar, dan opsi monetisasi lainnya.'
 };

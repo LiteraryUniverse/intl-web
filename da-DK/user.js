@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Ønskeliste',
     'profile.storiesBy': 'Historier oprettet af {username}',
     'profile.universesBy': 'Universer oprettet af {username}',
-    'profile.fanFictionBy': 'Fan Fiction oprettet af {username}'
+    'profile.fanFictionBy': 'Fan Fiction oprettet af {username}',
+    'signup.reader.storiesType.title': 'Hvilke typer historier kan du lide?',
+    'signup.reader.storiesType.description': 'Vælg dem, der bedst matcher dine interesser.',
+    'storiesType.interactive': 'Interaktiv',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Novelle',
+    'storiesType.one_shot': 'Et skud',
+    'storiesType.play': 'Spil',
+    'storiesType.poetry': 'Poesi',
+    'storiesType.serialized': 'Serieliseret',
+    'storiesType.short_story': 'kort_historie',
+    'user.settings.introTitle': 'Velkommen til dine indstillinger!',
+    'user.settings.introText': 'Profilindstillinger giver dig mulighed for at tilpasse oplysninger om dig selv, f.eks. dit navn, din avatar osv. Kontoindstillinger giver dig mulighed for at indstille de mere tekniske aspekter, der har indflydelse på din oplevelse, f.eks. dit sprog, e-mails, webstedets tema, AI-indstillinger osv. Abonnement og betalinger giver dig mulighed for at administrere dine abonnementer og betalingsmuligheder. Endelig er Monetization det sted, hvor du kan administrere dine udbetalinger, fanklubber og andre muligheder for at tjene penge.'
 };

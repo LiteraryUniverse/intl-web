@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Pilih gambar',
     'settings.email': 'Surel',
     'settings.email.msg': 'Surel yang terhubung dengan akun Anda',
-    'settings.email.verified.false': 'Belum diverifikasi',
+    'settings.email.verified.false': 'Tidak terverifikasi, klik untuk mengirim ulang email verifikasi.',
     'settings.email.verified.true': 'Surel terverifikasi',
     'settings.email.add': 'Tambah surel',
     'settings.languages.title': 'Pengaturan bahasa',

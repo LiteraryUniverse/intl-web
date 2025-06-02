@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Kép kiválasztása',
     'settings.email': 'E-mailek',
     'settings.email.msg': 'Fiókhoz kapcsolt e-mailek',
-    'settings.email.verified.false': 'Nem ellenőrzött',
+    'settings.email.verified.false': 'Nem ellenőrzött, kattintson az ellenőrző e-mail újraküldéséhez.',
     'settings.email.verified.true': 'Ellenőrzött e-mail',
     'settings.email.add': 'E-mail hozzáadása',
     'settings.languages.title': 'Nyelvi beállítások',

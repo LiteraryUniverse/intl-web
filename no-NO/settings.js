@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Velg bilde',
     'settings.email': 'E-poster',
     'settings.email.msg': 'E-poster knyttet til kontoen din',
-    'settings.email.verified.false': 'Ikke verifisert',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Verifisert e-post',
     'settings.email.add': 'Legg til e-post',
     'settings.languages.title': 'Språkinnstillinger',

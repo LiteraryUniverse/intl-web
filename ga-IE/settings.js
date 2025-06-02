@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Roghnaigh íomhá',
     'settings.email': 'Ríomhphoist',
     'settings.email.msg': 'Ríomhphoist atá ceangailte le do chuntas',
-    'settings.email.verified.false': 'Gan dheimhniú',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Ríomhphost dheimhnithe',
     'settings.email.add': 'Cuir ríomhphost leis',
     'settings.languages.title': 'Socruithe teanga',

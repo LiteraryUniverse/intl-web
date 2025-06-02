@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Επιλέξτε εικόνα',
     'settings.email': 'E-mail',
     'settings.email.msg': 'E-mails που σχετίζονται με τον λογαριασμό σας',
-    'settings.email.verified.false': 'Μη επαληθευμένο',
+    'settings.email.verified.false': 'Δεν έχει επαληθευτεί, κάντε κλικ για να στείλετε εκ νέου email επαλήθευσης.',
     'settings.email.verified.true': 'Επαληθευμένο e-mail',
     'settings.email.add': 'Προσθήκη e-mail',
     'settings.languages.title': 'Ρυθμίσεις γλώσσας',

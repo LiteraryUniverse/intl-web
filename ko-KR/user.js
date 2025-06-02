@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': '위시리스트',
     'profile.storiesBy': '{username}이(가) 작성한 이야기',
     'profile.universesBy': '{username}이(가) 만든 우주',
-    'profile.fanFictionBy': '{username}이(가) 만든 팬픽션'
+    'profile.fanFictionBy': '{username}이(가) 만든 팬픽션',
+    'signup.reader.storiesType.title': '어떤 유형의 스토리를 좋아하시나요?',
+    'signup.reader.storiesType.description': '관심사에 가장 잘 맞는 것을 선택하세요.',
+    'storiesType.interactive': '대화형',
+    'storiesType.novel': '소설',
+    'storiesType.novella': '소설',
+    'storiesType.one_shot': '원샷',
+    'storiesType.play': '플레이',
+    'storiesType.poetry': '시',
+    'storiesType.serialized': '직렬화',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': '설정에 오신 것을 환영합니다!',
+    'user.settings.introText': '프로필 설정에서는 이름, 아바타 등 자신에 대한 정보를 사용자 지정할 수 있습니다. 계정 설정에서는 언어, 이메일, 사이트 테마, AI 설정 등 사용자 경험에 영향을 미치는 보다 기술적인 측면을 설정할 수 있습니다. 구독 및 결제에서는 구독 및 결제 옵션을 관리할 수 있습니다. 마지막으로 수익 창출에서는 지급금, 팬클럽 및 기타 수익 창출 옵션을 관리할 수 있습니다.'
 };

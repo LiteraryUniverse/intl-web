@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Selecionar imagem',
     'settings.email': 'Emails',
     'settings.email.msg': 'Emails associados à sua conta',
-    'settings.email.verified.false': 'Não verificado',
+    'settings.email.verified.false': 'Não verificado, clique para reenviar o e-mail de verificação.',
     'settings.email.verified.true': 'Email verificado',
     'settings.email.add': 'Adicionar email',
     'settings.languages.title': 'Definições de idioma',

@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Verlanglijst',
     'profile.storiesBy': 'Verhalen gemaakt door {username}',
     'profile.universesBy': 'Universums gemaakt door {username}',
-    'profile.fanFictionBy': 'Fanfictie gemaakt door {username}'
+    'profile.fanFictionBy': 'Fanfictie gemaakt door {username}',
+    'signup.reader.storiesType.title': 'Van welk soort verhalen houdt u?',
+    'signup.reader.storiesType.description': 'Kies degenen die het beste bij uw interesses passen.',
+    'storiesType.interactive': 'Interactieve',
+    'storiesType.novel': 'Nieuwe',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Eén opname',
+    'storiesType.play': 'Speel',
+    'storiesType.poetry': 'Poëzie',
+    'storiesType.serialized': 'Geserialiseerd',
+    'storiesType.short_story': 'kort_verhaal',
+    'user.settings.introTitle': 'Welkom bij uw instellingen!',
+    'user.settings.introText': 'Profielinstellingen stellen u in staat om informatie over uzelf aan te passen, zoals uw naam, avatar, enz. Met Accountinstellingen kunt u de meer technische aspecten instellen die invloed hebben op uw ervaring, bijvoorbeeld uw taal, e-mails, sitethema, AI-instellingen, enz. Abonnement & Betalingen geeft u de mogelijkheid om uw abonnementen en betalingsopties te beheren. Tot slot kunt u met Monetization uw uitbetalingen, fanclubs en andere monetariseringsopties beheren.'
 };

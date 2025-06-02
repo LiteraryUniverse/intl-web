@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Chọn hình ảnh',
     'settings.email': 'E-mail',
     'settings.email.msg': 'Các địa chỉ e-mail liên kết với tài khoản của bạn',
-    'settings.email.verified.false': 'Chưa xác minh',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'E-mail đã xác minh',
     'settings.email.add': 'Thêm e-mail',
     'settings.languages.title': 'Cài đặt ngôn ngữ',

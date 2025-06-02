@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'ਇੱਛ-ਸੂਚੀ',
     'profile.storiesBy': '! {username}! ਵੱਡੀਆਂ ਕਹਾਣੀਆਂ',
     'profile.universesBy': '! {username}! ਵੱਡੇ ਬ੍ਰਹਮਾਂਡ',
-    'profile.fanFictionBy': '! {username}! ਵੱਡੀਆਂ ਫੈਨ ਫਿਕਸ਼ਨਾਂ'
+    'profile.fanFictionBy': '! {username}! ਵੱਡੀਆਂ ਫੈਨ ਫਿਕਸ਼ਨਾਂ',
+    'signup.reader.storiesType.title': 'What types of stories do you enjoy?',
+    'signup.reader.storiesType.description': 'Pick the ones that best match your interests.',
+    'storiesType.interactive': 'Interactive',
+    'storiesType.novel': 'Novel',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'One shot',
+    'storiesType.play': 'Play',
+    'storiesType.poetry': 'Poetry',
+    'storiesType.serialized': 'Serialized',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Welcome to your settings!',
+    'user.settings.introText': 'Profile settings allow you to customize information about yourself, like your name, avatar, etc. Account settings allow you to set the more technical aspects that have impact on your experience, for example your language, emails, site theme, AI settings, etc. Subscription & Payments will allow you to manage your subscriptions and payments options. Finally Monetization is where you can manage your payouts, fan clubs, and other monetization options.'
 };

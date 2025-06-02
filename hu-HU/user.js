@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Kívánságlista',
     'profile.storiesBy': '{username}által létrehozott történetek',
     'profile.universesBy': '{username}által létrehozott univerzumok',
-    'profile.fanFictionBy': '{username}által létrehozott rajongói írások'
+    'profile.fanFictionBy': '{username}által létrehozott rajongói írások',
+    'signup.reader.storiesType.title': 'Milyen típusú történeteket szeretsz?',
+    'signup.reader.storiesType.description': 'Válassza ki azokat, amelyek a legjobban megfelelnek az érdeklődési körének.',
+    'storiesType.interactive': 'Interaktív',
+    'storiesType.novel': 'Újdonság',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Egy lövés',
+    'storiesType.play': 'Játsszon',
+    'storiesType.poetry': 'Költészet',
+    'storiesType.serialized': 'Sorszámozott',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Üdvözöljük a beállítások között!',
+    'user.settings.introText': 'A profilbeállítások lehetővé teszik, hogy testre szabd a rólad szóló információkat, például a nevedet, avatarodat stb. A fiókbeállítások lehetővé teszik a technikai szempontok beállítását, amelyek hatással vannak a felhasználói élményre, például a nyelv, az e-mailek, az oldal témája, az AI-beállítások stb. Az Előfizetés és fizetés lehetővé teszi az előfizetések és fizetési lehetőségek kezelését. Végül a Monetization az a rész, ahol a kifizetéseket, rajongói klubokat és egyéb monetizációs lehetőségeket kezelheted.'
 };

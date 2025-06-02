@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'படத்தைத் தேர்வு செய்க',
     'settings.email': 'மின்னஞ்சல்கள்',
     'settings.email.msg': 'உங்கள் கணக்குகளுடன் இணைக்கப்பட்ட மின்னஞ்சல்கள்',
-    'settings.email.verified.false': 'சரிபார்க்கப்படாதது',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'சரிபார்க்கப்பட்ட மின்னஞ்சல்',
     'settings.email.add': 'மின்னஞ்சல் சேர்க்க',
     'settings.languages.title': 'மொழி அமைப்புகள்',

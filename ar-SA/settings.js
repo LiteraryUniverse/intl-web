@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'اختيار صورة',
     'settings.email': 'البريد الإلكتروني',
     'settings.email.msg': 'البريد الإلكتروني المرتبط بحسابك',
-    'settings.email.verified.false': 'غير مُتحقق',
+    'settings.email.verified.false': 'لم يتم التحقق، انقر لإعادة إرسال بريد إلكتروني للتحقق.',
     'settings.email.verified.true': 'البريد الإلكتروني المُتحقق',
     'settings.email.add': 'إضافة البريد الإلكتروني',
     'settings.languages.title': 'إعدادات اللغة',

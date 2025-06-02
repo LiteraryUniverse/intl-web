@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Dilek Listesi',
     'profile.storiesBy': '{username}tarafından oluşturulan hikayeler',
     'profile.universesBy': '{username}tarafından oluşturulan evrenler',
-    'profile.fanFictionBy': '{username}tarafından oluşturulan hayran kurguları'
+    'profile.fanFictionBy': '{username}tarafından oluşturulan hayran kurguları',
+    'signup.reader.storiesType.title': 'Ne tür hikayelerden hoşlanırsınız?',
+    'signup.reader.storiesType.description': 'İlgi alanlarınıza en uygun olanları seçin.',
+    'storiesType.interactive': 'İnteraktif',
+    'storiesType.novel': 'Roman',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Tek atış',
+    'storiesType.play': 'Oyun',
+    'storiesType.poetry': 'Şiir',
+    'storiesType.serialized': 'Serileştirilmiş',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Ayarlarınıza hoş geldiniz!',
+    'user.settings.introText': 'Profil ayarları, adınız, avatarınız vb. gibi kendinizle ilgili bilgileri özelleştirmenize olanak tanır. Hesap ayarları, diliniz, e-postalarınız, site temanız, AI ayarlarınız vb. gibi deneyiminiz üzerinde etkisi olan daha teknik yönleri ayarlamanıza olanak tanır. Abonelik ve Ödemeler, aboneliklerinizi ve ödeme seçeneklerinizi yönetmenizi sağlar. Son olarak Para Kazanma, ödemelerinizi, hayran kulüplerinizi ve diğer para kazanma seçeneklerinizi yönetebileceğiniz yerdir.'
 };

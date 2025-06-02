@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Toivelista',
     'profile.storiesBy': 'Tarinoita luonut käyttäjä {username}',
     'profile.universesBy': 'Universumeita luonut käyttäjä {username}',
-    'profile.fanFictionBy': 'Fanifiktioita luonut käyttäjä {username}'
+    'profile.fanFictionBy': 'Fanifiktioita luonut käyttäjä {username}',
+    'signup.reader.storiesType.title': 'Millaisista tarinoista pidät?',
+    'signup.reader.storiesType.description': 'Valitse ne, jotka vastaavat parhaiten kiinnostuksen kohteitasi.',
+    'storiesType.interactive': 'Interaktiivinen',
+    'storiesType.novel': 'Uutuus',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Yksi laukaus',
+    'storiesType.play': 'Pelaa',
+    'storiesType.poetry': 'Runous',
+    'storiesType.serialized': 'Sarjoitettu',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Tervetuloa asetuksiinne!',
+    'user.settings.introText': 'Profiiliasetusten avulla voit mukauttaa itseäsi koskevia tietoja, kuten nimeäsi, avatariasi jne. Tiliasetusten avulla voit määrittää teknisiä seikkoja, jotka vaikuttavat käyttökokemukseesi, esimerkiksi kieli, sähköpostit, sivuston teema, tekoälyasetukset jne. Tilaukset ja maksut mahdollistaa tilausten ja maksuvaihtoehtojen hallinnan. Lopuksi Monetization on paikka, jossa voit hallita maksuja, faniklubeja ja muita monetisointivaihtoehtoja.'
 };

@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Pumili ng imahe',
     'settings.email': 'Mga E-mail',
     'settings.email.msg': 'Mga E-mail na nauugnay sa iyong account',
-    'settings.email.verified.false': 'Hindi na-verify',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Na-verify na e-mail',
     'settings.email.add': 'Magdagdag ng e-mail',
     'settings.languages.title': 'Mga setting ng wika',

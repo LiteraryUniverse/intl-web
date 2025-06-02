@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Klesi lo simsa',
     'settings.email': 'Lo do djanca',
     'settings.email.msg': 'Lo djanca poi cu se lidne lo do ckupra',
-    'settings.email.verified.false': 'Na se jbera',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Jbera lo djanca',
     'settings.email.add': 'Tumla lo djanca',
     'settings.languages.title': 'Klesi lo bangu',

@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Elekti bildon',
     'settings.email': 'Retpoŝtoj',
     'settings.email.msg': 'Retpoŝtoj asociitaj kun via konto',
-    'settings.email.verified.false': 'Ne verifita',
+    'settings.email.verified.false': 'Not verified, click to resend verification email.',
     'settings.email.verified.true': 'Verifita retpoŝto',
     'settings.email.add': 'Aldoni retpoŝton',
     'settings.languages.title': 'Lingvaj agordoj',

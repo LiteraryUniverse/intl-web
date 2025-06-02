@@ -49,5 +49,17 @@ other {Aggiunti}} il {date, date,long}`,
     'profile.wishlist': 'Lista dei desideri',
     'profile.storiesBy': 'Storie create da {username}',
     'profile.universesBy': 'Universi creati da {username}',
-    'profile.fanFictionBy': 'Fan Fiction create da {username}'
+    'profile.fanFictionBy': 'Fan Fiction create da {username}',
+    'signup.reader.storiesType.title': 'Quali tipi di storie le piacciono?',
+    'signup.reader.storiesType.description': 'Scelga quelli che corrispondono meglio ai suoi interessi.',
+    'storiesType.interactive': 'Interattivo',
+    'storiesType.novel': 'Romanzo',
+    'storiesType.novella': 'Novella',
+    'storiesType.one_shot': 'Uno scatto',
+    'storiesType.play': 'Giocare',
+    'storiesType.poetry': 'Poesia',
+    'storiesType.serialized': 'Serializzato',
+    'storiesType.short_story': 'storia_breve',
+    'user.settings.introTitle': 'Benvenuto nelle sue impostazioni!',
+    'user.settings.introText': 'Le impostazioni del profilo le consentono di personalizzare le informazioni su di lei, come il nome, l\'avatar, ecc. Le impostazioni dell\'account le consentono di impostare gli aspetti più tecnici che hanno un impatto sulla sua esperienza, ad esempio la lingua, le e-mail, il tema del sito, le impostazioni AI, ecc. Abbonamenti e Pagamenti le permetterà di gestire i suoi abbonamenti e le opzioni di pagamento. Infine, Monetizzazione è il luogo in cui può gestire i pagamenti, i fan club e altre opzioni di monetizzazione.'
 };

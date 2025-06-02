@@ -49,5 +49,17 @@ export default {
     'profile.wishlist': 'Список бажань',
     'profile.storiesBy': 'Історії створені {username}',
     'profile.universesBy': 'Всесвіти створені {username}',
-    'profile.fanFictionBy': 'Фанфіки створені {username}'
+    'profile.fanFictionBy': 'Фанфіки створені {username}',
+    'signup.reader.storiesType.title': 'Які типи історій вам подобаються?',
+    'signup.reader.storiesType.description': 'Обирайте ті, що найбільше відповідають вашим інтересам.',
+    'storiesType.interactive': 'Інтерактивний',
+    'storiesType.novel': 'Роман',
+    'storiesType.novella': 'Новела',
+    'storiesType.one_shot': 'Один постріл.',
+    'storiesType.play': 'Грай.',
+    'storiesType.poetry': 'Поезія',
+    'storiesType.serialized': 'Серіалізовано',
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Ласкаво просимо до ваших налаштувань!',
+    'user.settings.introText': 'Налаштування профілю дозволяють вам налаштувати інформацію про себе, наприклад, ім\'я, аватарку тощо. Налаштування облікового запису дозволяють вам встановити більш технічні аспекти, які впливають на ваш досвід, наприклад, мову, електронну пошту, тему сайту, налаштування штучного інтелекту і т.д. Підписка та платежі дозволять вам керувати підписками та способами оплати. Нарешті, в розділі "Монетизація" ви можете керувати виплатами, фан-клубами та іншими опціями монетизації.'
 };

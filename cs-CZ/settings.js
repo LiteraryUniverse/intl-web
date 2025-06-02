@@ -6,7 +6,7 @@ export default {
     'settings.avatar.upload': 'Vyberte obrázek',
     'settings.email': 'E-maily',
     'settings.email.msg': 'E-maily spojené s Vaším účtem',
-    'settings.email.verified.false': 'Neověřeno',
+    'settings.email.verified.false': 'Není ověřeno, kliknutím na tlačítko znovu odešlete ověřovací e-mail.',
     'settings.email.verified.true': 'Ověřený e-mail',
     'settings.email.add': 'Přidat e-mail',
     'settings.languages.title': 'Jazyková nastavení',
