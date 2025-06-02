@@ -59,5 +59,7 @@ export default {
     'storiesType.play': 'Spela',
     'storiesType.poetry': 'Poesi',
     'storiesType.serialized': 'Serietillverkad',
-    'storiesType.short_story': 'kort_historia'
+    'storiesType.short_story': 'kort_historia',
+    'user.settings.introTitle': 'Välkommen till dina inställningar!',
+    'user.settings.introText': 'Med profilinställningarna kan du anpassa information om dig själv, t.ex. ditt namn, din avatar osv. Kontoinställningar ger dig möjlighet att ställa in de mer tekniska aspekterna som påverkar din upplevelse, till exempel ditt språk, e-post, webbplatsens tema, AI-inställningar etc. Prenumeration och betalningar gör att du kan hantera dina prenumerationer och betalningsalternativ. Slutligen Monetization är där du kan hantera dina utbetalningar, fanklubbar och andra alternativ för intäktsgenerering.'
 };
