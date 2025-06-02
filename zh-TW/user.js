@@ -59,5 +59,7 @@ export default {
     'storiesType.play': '遊戲',
     'storiesType.poetry': '詩歌',
     'storiesType.serialized': '序列化',
-    'storiesType.short_story': '簡短故事'
+    'storiesType.short_story': '簡短故事',
+    'user.settings.introTitle': '歡迎使用您的設定！',
+    'user.settings.introText': '個人資料設定可讓您自訂個人資訊，例如您的姓名、頭像等。帳戶設定可讓您設定對您的體驗有影響的技術層面，例如您的語言、電子郵件、網站主題、AI 設定等。訂閱與付款可讓您管理訂閱與付款選項。最後，Monetization 讓您管理付款、粉絲俱樂部及其他貨幣化選項。'
 };
