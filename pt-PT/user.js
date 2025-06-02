@@ -59,5 +59,7 @@ export default {
     'storiesType.play': 'Jogar',
     'storiesType.poetry': 'Poesia',
     'storiesType.serialized': 'Serializado',
-    'storiesType.short_story': 'história_curta'
+    'storiesType.short_story': 'história_curta',
+    'user.settings.introTitle': 'Bem-vindo às suas definições!',
+    'user.settings.introText': 'As definições de perfil permitem-lhe personalizar informações sobre si, como o seu nome, avatar, etc. As definições da conta permitem-lhe definir os aspectos mais técnicos que têm impacto na sua experiência, por exemplo, o seu idioma, e-mails, tema do sítio, definições de IA, etc. Subscrição e pagamentos permite-lhe gerir as suas subscrições e opções de pagamento. Finalmente, Monetização é onde pode gerir os seus pagamentos, clubes de fãs e outras opções de monetização.'
 };
