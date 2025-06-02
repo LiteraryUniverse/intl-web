@@ -59,5 +59,7 @@ export default {
     'storiesType.play': 'Oyun',
     'storiesType.poetry': 'Şiir',
     'storiesType.serialized': 'Serileştirilmiş',
-    'storiesType.short_story': 'short_story'
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Ayarlarınıza hoş geldiniz!',
+    'user.settings.introText': 'Profil ayarları, adınız, avatarınız vb. gibi kendinizle ilgili bilgileri özelleştirmenize olanak tanır. Hesap ayarları, diliniz, e-postalarınız, site temanız, AI ayarlarınız vb. gibi deneyiminiz üzerinde etkisi olan daha teknik yönleri ayarlamanıza olanak tanır. Abonelik ve Ödemeler, aboneliklerinizi ve ödeme seçeneklerinizi yönetmenizi sağlar. Son olarak Para Kazanma, ödemelerinizi, hayran kulüplerinizi ve diğer para kazanma seçeneklerinizi yönetebileceğiniz yerdir.'
 };
