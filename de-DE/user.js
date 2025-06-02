@@ -57,5 +57,7 @@ export default {
     'storiesType.play': 'Spielen',
     'storiesType.poetry': 'Poesie',
     'storiesType.serialized': 'Serialisiert',
-    'storiesType.short_story': 'Kurz_Geschichte'
+    'storiesType.short_story': 'Kurz_Geschichte',
+    'user.settings.introTitle': 'Willkommen in Ihren Einstellungen!',
+    'user.settings.introText': 'In den Profileinstellungen können Sie Informationen zu Ihrer Person anpassen, z. B. Ihren Namen, Ihren Avatar usw. In den Kontoeinstellungen können Sie die eher technischen Aspekte einstellen, die sich auf Ihr Erlebnis auswirken, z.B. Ihre Sprache, E-Mails, das Thema der Website, KI-Einstellungen usw. Unter Abonnement & Zahlungen können Sie Ihre Abonnements und Zahlungsoptionen verwalten. In der Rubrik Monetarisierung schließlich können Sie Ihre Auszahlungen, Fanclubs und andere Monetarisierungsoptionen verwalten.'
 };
