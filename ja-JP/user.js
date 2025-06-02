@@ -51,5 +51,7 @@ export default {
     'storiesType.play': 'プレー',
     'storiesType.poetry': '詩',
     'storiesType.serialized': '連載',
-    'storiesType.short_story': 'ショートストーリー'
+    'storiesType.short_story': 'ショートストーリー',
+    'user.settings.introTitle': 'セッティングへようこそ！',
+    'user.settings.introText': 'プロフィール設定では、名前、アバターなど、あなた自身に関する情報をカスタマイズできます。アカウント設定では、言語、Eメール、サイトテーマ、AI設定など、あなたの体験に影響を与える技術的な側面を設定できます。サブスクリプションと支払いでは、サブスクリプションと支払いオプションを管理できます。最後にマネタイズでは、ペイアウト、ファンクラブ、その他のマネタイズオプションを管理できます。'
 };
