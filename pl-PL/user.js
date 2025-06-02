@@ -59,5 +59,7 @@ export default {
     'storiesType.play': 'Grać',
     'storiesType.poetry': 'Poezja',
     'storiesType.serialized': 'Serializacja',
-    'storiesType.short_story': 'short_story'
+    'storiesType.short_story': 'short_story',
+    'user.settings.introTitle': 'Witamy w Państwa ustawieniach!',
+    'user.settings.introText': 'Ustawienia profilu pozwalają dostosować informacje o sobie, takie jak imię i nazwisko, awatar itp. Ustawienia konta pozwalają na ustawienie bardziej technicznych aspektów, które mają wpływ na Państwa doświadczenia, na przykład język, e-maile, motyw strony, ustawienia sztucznej inteligencji itp. Subskrypcje i płatności pozwalają zarządzać subskrypcjami i opcjami płatności. Wreszcie Monetyzacja to miejsce, w którym można zarządzać wypłatami, fanklubami i innymi opcjami monetyzacji.'
 };
