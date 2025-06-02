@@ -1,5 +1,11 @@
 # Changelog for languages
 
+## 2025-06-02 - v2.16.1
+
+* Added missing translations from Signup Wizard
+* More description for `settings.email.verified.false`
+* Added strings for settings intro
+
 ## 2025-05-26 - v2.16.0
 
 * New feature string: prevent publishing
