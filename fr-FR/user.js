@@ -59,5 +59,7 @@ export default {
     'storiesType.play': 'Jouer',
     'storiesType.poetry': 'Poésie',
     'storiesType.serialized': 'En série',
-    'storiesType.short_story': 'histoire_courte'
+    'storiesType.short_story': 'histoire_courte',
+    'user.settings.introTitle': 'Bienvenue dans vos paramètres !',
+    'user.settings.introText': 'Les paramètres du profil vous permettent de personnaliser les informations vous concernant, comme votre nom, votre avatar, etc. Les paramètres du compte vous permettent de définir les aspects plus techniques qui ont un impact sur votre expérience, par exemple votre langue, vos courriels, le thème du site, les paramètres de l\'IA, etc. Abonnement et paiements vous permet de gérer vos abonnements et vos options de paiement. Enfin, la section Monétisation vous permet de gérer les paiements, les clubs de fans et d\'autres options de monétisation.'
 };
