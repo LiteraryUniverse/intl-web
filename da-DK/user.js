@@ -59,5 +59,7 @@ export default {
     'storiesType.play': 'Spil',
     'storiesType.poetry': 'Poesi',
     'storiesType.serialized': 'Serieliseret',
-    'storiesType.short_story': 'kort_historie'
+    'storiesType.short_story': 'kort_historie',
+    'user.settings.introTitle': 'Velkommen til dine indstillinger!',
+    'user.settings.introText': 'Profilindstillinger giver dig mulighed for at tilpasse oplysninger om dig selv, f.eks. dit navn, din avatar osv. Kontoindstillinger giver dig mulighed for at indstille de mere tekniske aspekter, der har indflydelse på din oplevelse, f.eks. dit sprog, e-mails, webstedets tema, AI-indstillinger osv. Abonnement og betalinger giver dig mulighed for at administrere dine abonnementer og betalingsmuligheder. Endelig er Monetization det sted, hvor du kan administrere dine udbetalinger, fanklubber og andre muligheder for at tjene penge.'
 };
