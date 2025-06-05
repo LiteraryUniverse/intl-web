@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Không',
   'course.lesson.title': 'Tiêu đề bài học',
   'course.lesson.add.universe': 'Thêm Câu chuyện/Vũ trụ',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Thêm liên kết ngoài',
   'course.status': 'Status',
   'course.active': 'Activity',
