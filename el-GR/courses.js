@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Ενεργό',
   'course.inactive': 'Ανενεργό',
   'course.module.edit': 'Επεξεργασία ονόματος ενότητας',
-  'course.upload.resource': 'Ανεβάστε έναν πόρο αρχείου',
+  'course.upload.resource': 'Ανεβάστε έναν πόρο',
   'course.question.answer': 'Προσθέστε απάντηση',
   'course.question.open': 'Ανοιχτή ερώτηση',
   'course.question.close': 'Κλειστή ερώτηση',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Πρώτο μάθημα',
   'course.upcomingLessons': 'Επόμενα μαθήματα',
   'course.detail.title': '{courseName} | Μάθημα',
+  'lessons.visibility.public': 'Δημόσιο',
+  'lessons.visibility.private': 'Ιδιωτικό',
+  'lessons.visibility.hidden': 'Κρυφό',
 };
