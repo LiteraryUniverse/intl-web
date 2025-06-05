@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'नाही',
   'course.lesson.title': 'धडा शीर्षक',
   'course.lesson.add.universe': 'कथा/ब्रह्मांड जोडा',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'बाह्य दुवा जोडा',
   'course.status': 'Status',
   'course.active': 'Activity',
