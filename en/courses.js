@@ -89,5 +89,7 @@ export default {
   'course.firstLesson': 'First Lesson',
   'course.upcomingLessons': 'Upcoming Lessons',
   'course.detail.title': '{courseName} | Course',
-
+  'lessons.visibility.public': 'Public',
+  'lessons.visibility.private': 'Private',
+  'lessons.visibility.hidden': 'Hidden',
 }
