@@ -42,6 +42,7 @@ export default {
   'course.question.no': '否',
   'course.lesson.title': '課堂標題',
   'course.lesson.add.universe': '新增故事/宇宙',
+  'course.lesson.externalLinks': '外部連結',
   'course.lesson.add.link': '新增外部連結',
   'course.status': '狀態',
   'course.active': '活動',
