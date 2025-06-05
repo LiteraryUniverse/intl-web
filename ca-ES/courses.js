@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'No',
   'course.lesson.title': 'Títol de la lliçó',
   'course.lesson.add.universe': 'Afegir Història/Univers',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Afegir enllaç extern',
   'course.status': 'Status',
   'course.active': 'Activity',
