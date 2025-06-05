@@ -283,5 +283,14 @@ export default {
     'common.authorName': '作者姓名',
     'error.invalidFileType': '請選擇有效的影像檔案 (JPEG、PNG、GIF、WebP)',
     'error.fileTooLarge': '影像必須小於 {mbSize, number}MB',
-    'error.fabricInitFailed': '圖片編輯器初始化失敗'
+    'error.fabricInitFailed': '圖片編輯器初始化失敗',
+    // File upload strings
+    'upload.files': '上傳檔案',
+    'upload.dropHere': '將您的檔案放在這裡...',
+    'upload.dragOrClick': '將檔案拖放至此，或按一下以選取檔案',
+    'upload.maxSize': '最大檔案大小： {size}',
+    'upload.error.failed': '檔案上傳失敗。請重試。',
+    'upload.error.tooManyFiles': '您最多可以上傳 {max} 檔案。',
+    'upload.error.removeFile': '移除檔案失敗。請重試。',
+    'actions.delete': '刪除'
 };
