@@ -50,7 +50,7 @@ export default {
   'course.active.message': 'Active',
   'course.inactive': 'Inactive',
   'course.module.edit': 'Edit module name',
-  'course.upload.resource': 'Upload a file resource',
+  'course.upload.resource': 'Upload a resource',
   'course.question.answer': 'Add answer',
   'course.question.open': 'Open question',
   'course.question.close': 'Closed question',
@@ -91,4 +91,7 @@ export default {
   'course.firstLesson': 'First Lesson',
   'course.upcomingLessons': 'Upcoming Lessons',
   'course.detail.title': '{courseName} | Course',
+  'lessons.visibility.public': 'Public',
+  'lessons.visibility.private': 'Private',
+  'lessons.visibility.hidden': 'Hidden',
 };
