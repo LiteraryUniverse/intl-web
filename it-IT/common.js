@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Nome dell\'autore',
     'error.invalidFileType': 'Selezioni un file immagine valido (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'L\'immagine deve essere inferiore a {mbSize, number}MB',
-    'error.fabricInitFailed': 'Non è riuscito a inizializzare l\'editor di immagini'
+    'error.fabricInitFailed': 'Non è riuscito a inizializzare l\'editor di immagini',
+    // File upload strings
+    'upload.files': 'File caricati',
+    'upload.dropHere': 'Lasci i suoi file qui...',
+    'upload.dragOrClick': 'Trascini i file qui, oppure clicchi per selezionarli',
+    'upload.maxSize': 'Dimensione massima del file: {size}',
+    'upload.error.failed': 'Il caricamento del file non è riuscito. La preghiamo di riprovare.',
+    'upload.error.tooManyFiles': 'Può caricare un massimo di {max} file.',
+    'upload.error.removeFile': 'Impossibile rimuovere il file. Provi di nuovo.',
+    'actions.delete': 'Cancellare'
 };
