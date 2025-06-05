@@ -42,6 +42,7 @@ export default {
   'course.question.no': "na go'i",
   'course.lesson.title': "Lojban lepo'u",
   'course.lesson.add.universe': "Jmina ju'otci/ro'universo",
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Jmina traji terjmina',
   'course.status': 'Status',
   'course.active': 'Activity',
