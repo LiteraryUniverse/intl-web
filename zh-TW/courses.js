@@ -48,7 +48,7 @@ export default {
   'course.active.message': '活躍',
   'course.inactive': '閒置',
   'course.module.edit': '編輯模組名稱',
-  'course.upload.resource': '上傳檔案資源',
+  'course.upload.resource': '上傳資源',
   'course.question.answer': '新增答案',
   'course.question.open': '開放式問題',
   'course.question.close': '封閉式問題',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': '第一課',
   'course.upcomingLessons': '即將推出的課程',
   'course.detail.title': '{courseName} | 課程',
+  'lessons.visibility.public': '公眾',
+  'lessons.visibility.private': '私人',
+  'lessons.visibility.hidden': '隱藏',
 };
