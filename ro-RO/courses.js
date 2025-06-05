@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Activ',
   'course.inactive': 'Inactiv',
   'course.module.edit': 'Editați numele modulului',
-  'course.upload.resource': 'Încărcați un fișier resursă',
+  'course.upload.resource': 'Încărcați o resursă',
   'course.question.answer': 'Adaugă răspuns',
   'course.question.open': 'Întrebare deschisă',
   'course.question.close': 'Întrebare închisă',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Prima lecție',
   'course.upcomingLessons': 'Lecții viitoare',
   'course.detail.title': '{courseName} Curs | Curs',
+  'lessons.visibility.public': 'Public',
+  'lessons.visibility.private': 'Privat',
+  'lessons.visibility.hidden': 'Ascunse',
 };
