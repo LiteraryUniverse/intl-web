@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Hindi',
   'course.lesson.title': 'Pamagat ng Aralin',
   'course.lesson.add.universe': 'Magdagdag ng Kwento/Uniberso',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Magdagdag ng panlabas na link',
   'course.status': 'Status',
   'course.active': 'Activity',
