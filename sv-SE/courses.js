@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Nej',
   'course.lesson.title': 'Lektionstitel',
   'course.lesson.add.universe': 'Lägg till Story/Universe',
+  'course.lesson.externalLinks': 'Externa länkar',
   'course.lesson.add.link': 'Lägg till extern länk',
   'course.status': 'Status',
   'course.active': 'Aktivitet',
