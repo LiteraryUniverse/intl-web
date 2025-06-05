@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'لا',
   'course.lesson.title': 'عنوان الدرس',
   'course.lesson.add.universe': 'إضافة قصة/عالم',
+  'course.lesson.externalLinks': 'الروابط الخارجية',
   'course.lesson.add.link': 'إضافة رابط خارجي',
   'course.status': 'الحالة',
   'course.active': 'النشاط',
