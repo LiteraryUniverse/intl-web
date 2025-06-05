@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Nu',
   'course.lesson.title': 'Titlu lecție',
   'course.lesson.add.universe': 'Adăugați Poveste/Univers',
+  'course.lesson.externalLinks': 'Legături externe',
   'course.lesson.add.link': 'Adăugați link extern',
   'course.status': 'Statut',
   'course.active': 'Activitate',
