@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'ਨਹੀਂ',
   'course.lesson.title': 'ਪਾਠ ਸਿਰਲੇਖ',
   'course.lesson.add.universe': 'ਕਹਾਣੀ/ਯੂਨੀਵਰਸ ਸ਼ਾਮਲ ਕਰੋ',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'ਬਾਹਰੀ ਲਿੰਕ ਸ਼ਾਮਲ ਕਰੋ',
   'course.status': 'Status',
   'course.active': 'Activity',
