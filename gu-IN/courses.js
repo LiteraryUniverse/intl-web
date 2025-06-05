@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'ના',
   'course.lesson.title': 'પાઠ શીર્ષક',
   'course.lesson.add.universe': 'કથા/યુનિવર્સ ઉમેરો',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'બાહ્ય લિંક ઉમેરો',
   'course.status': 'Status',
   'course.active': 'Activity',
