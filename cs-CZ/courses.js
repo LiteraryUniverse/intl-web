@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Ne',
   'course.lesson.title': 'Název lekce',
   'course.lesson.add.universe': 'Přidat příběh/univerzum',
+  'course.lesson.externalLinks': 'Externí odkazy',
   'course.lesson.add.link': 'Přidat externí odkaz',
   'course.status': 'Stav',
   'course.active': 'Aktivita',
