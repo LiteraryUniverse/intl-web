@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Attivo',
   'course.inactive': 'Inattivo',
   'course.module.edit': 'Modifica il nome del modulo',
-  'course.upload.resource': 'Caricare una risorsa file',
+  'course.upload.resource': 'Caricare una risorsa',
   'course.question.answer': 'Aggiungi risposta',
   'course.question.open': 'Domanda aperta',
   'course.question.close': 'Domanda chiusa',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Prima lezione',
   'course.upcomingLessons': 'Lezioni imminenti',
   'course.detail.title': '{courseName} | Corso',
+  'lessons.visibility.public': 'Pubblico',
+  'lessons.visibility.private': 'Privato',
+  'lessons.visibility.hidden': 'Nascosto',
 };
