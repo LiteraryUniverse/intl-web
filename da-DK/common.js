@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Forfatterens navn',
     'error.invalidFileType': 'Vælg en gyldig billedfil (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Billedet skal være mindre end {mbSize, number}MB',
-    'error.fabricInitFailed': 'Kunne ikke initialisere billedredigeringsprogrammet'
+    'error.fabricInitFailed': 'Kunne ikke initialisere billedredigeringsprogrammet',
+    // File upload strings
+    'upload.files': 'Uploadede filer',
+    'upload.dropHere': 'Læg dine filer her.',
+    'upload.dragOrClick': 'Træk og slip filer her, eller klik for at vælge filer',
+    'upload.maxSize': 'Maksimal filstørrelse: {size}',
+    'upload.error.failed': 'Upload af fil mislykkedes. Prøv venligst igen.',
+    'upload.error.tooManyFiles': 'Du kan maksimalt uploade {max} filer.',
+    'upload.error.removeFile': 'Det lykkedes ikke at fjerne filen. Prøv venligst igen.',
+    'actions.delete': 'Sletning'
 };
