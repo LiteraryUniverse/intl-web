@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Nee',
   'course.lesson.title': 'Les titel',
   'course.lesson.add.universe': 'Voeg Verhaal/Heelal by',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Voeg eksterne skakel by',
   'course.status': 'Status',
   'course.active': 'Activity',
