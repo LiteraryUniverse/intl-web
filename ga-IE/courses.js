@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Níl',
   'course.lesson.title': 'Teideal an cheachta',
   'course.lesson.add.universe': 'Cuir Scéal/An Saolré a chur leis',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Cuir nasc seachtrach leis',
   'course.status': 'Status',
   'course.active': 'Activity',
