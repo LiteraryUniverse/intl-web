@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Nem',
   'course.lesson.title': 'Lecke címe',
   'course.lesson.add.universe': 'Történet/Világ hozzáadása',
+  'course.lesson.externalLinks': 'Külső hivatkozások',
   'course.lesson.add.link': 'Külső link hozzáadása',
   'course.status': 'Állapot',
   'course.active': 'Tevékenység',
