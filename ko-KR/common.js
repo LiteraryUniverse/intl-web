@@ -283,5 +283,14 @@ export default {
     'common.authorName': '작성자 이름',
     'error.invalidFileType': '유효한 이미지 파일(JPEG, PNG, GIF, WebP)을 선택하세요.',
     'error.fileTooLarge': '이미지는 {mbSize, number}MB 미만이어야 합니다.',
-    'error.fabricInitFailed': '이미지 편집기를 초기화하지 못했습니다.'
+    'error.fabricInitFailed': '이미지 편집기를 초기화하지 못했습니다.',
+    // File upload strings
+    'upload.files': '업로드된 파일',
+    'upload.dropHere': '여기에 파일 업로드...',
+    'upload.dragOrClick': '파일을 여기로 끌어다 놓거나 클릭하여 파일을 선택합니다.',
+    'upload.maxSize': '최대 파일 크기: {size}',
+    'upload.error.failed': '파일 업로드에 실패했습니다. 다시 시도해 주세요.',
+    'upload.error.tooManyFiles': '최대 {max} 파일까지 업로드할 수 있습니다.',
+    'upload.error.removeFile': '파일을 제거하지 못했습니다. 다시 시도하세요.',
+    'actions.delete': '삭제'
 };
