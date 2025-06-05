@@ -45,6 +45,7 @@ export default {
   'course.question.no': 'མེད།',
   'course.lesson.title': 'Lesson title',
   'course.lesson.add.universe': 'Add Story/Universe',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Add external link',
   'course.status': 'Status',
   'course.active': 'Activity',
