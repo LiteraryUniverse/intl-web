@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Ні',
   'course.lesson.title': 'Назва уроку',
   'course.lesson.add.universe': 'Додати історію/Всесвіт',
+  'course.lesson.externalLinks': 'Зовнішні посилання',
   'course.lesson.add.link': 'Додати зовнішнє посилання',
   'course.status': 'Статус',
   'course.active': 'Діяльність',
