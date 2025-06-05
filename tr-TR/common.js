@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Yazar Adı',
     'error.invalidFileType': 'Lütfen geçerli bir görüntü dosyası seçin (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Görüntü {mbSize, number}MB\'den az olmalıdır',
-    'error.fabricInitFailed': 'Görüntü düzenleyici başlatılamadı'
+    'error.fabricInitFailed': 'Görüntü düzenleyici başlatılamadı',
+    // File upload strings
+    'upload.files': 'Yüklenen Dosyalar',
+    'upload.dropHere': 'Dosyalarınızı buraya bırakın...',
+    'upload.dragOrClick': 'Dosyaları buraya sürükleyip bırakın veya dosyaları seçmek için tıklayın',
+    'upload.maxSize': 'Maksimum dosya boyutu: {size}',
+    'upload.error.failed': 'Dosya yükleme başarısız oldu. Lütfen tekrar deneyin.',
+    'upload.error.tooManyFiles': 'En fazla {max} dosya yükleyebilirsiniz.',
+    'upload.error.removeFile': 'Dosya kaldırılamadı. Lütfen tekrar deneyin.',
+    'actions.delete': 'Silme'
 };

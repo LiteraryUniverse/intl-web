@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Nama Penulis',
     'error.invalidFileType': 'Pilih file gambar yang valid (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Gambar harus kurang dari {mbSize, number}MB',
-    'error.fabricInitFailed': 'Gagal menginisialisasi editor gambar'
+    'error.fabricInitFailed': 'Gagal menginisialisasi editor gambar',
+    // File upload strings
+    'upload.files': 'File yang Diunggah',
+    'upload.dropHere': 'Letakkan file Anda di sini...',
+    'upload.dragOrClick': 'Seret dan letakkan file di sini, atau klik untuk memilih file',
+    'upload.maxSize': 'Ukuran file maksimum: {size}',
+    'upload.error.failed': 'Pengunggahan file gagal. Silakan coba lagi.',
+    'upload.error.tooManyFiles': 'Anda dapat mengunggah maksimum file {max} .',
+    'upload.error.removeFile': 'Gagal menghapus file. Silakan coba lagi.',
+    'actions.delete': 'Menghapus'
 };

@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Ім\'я автора Ім\'я автора',
     'error.invalidFileType': 'Будь ласка, виберіть правильний файл зображення (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Зображення має бути меншим за {mbSize, number}МБ',
-    'error.fabricInitFailed': 'Не вдалося ініціалізувати редактор зображень'
+    'error.fabricInitFailed': 'Не вдалося ініціалізувати редактор зображень',
+    // File upload strings
+    'upload.files': 'Завантажені файли',
+    'upload.dropHere': 'Кидайте свої файли сюди...',
+    'upload.dragOrClick': 'Перетягніть файли сюди або клацніть, щоб вибрати файли',
+    'upload.maxSize': 'Максимальний розмір файлу: {size}',
+    'upload.error.failed': 'Не вдалося завантажити файл. Будь ласка, спробуйте ще раз.',
+    'upload.error.tooManyFiles': 'Ви можете завантажити максимум {max} файлів.',
+    'upload.error.removeFile': 'Не вдалося вилучити файл. Спробуйте ще раз.',
+    'actions.delete': 'Видалити'
 };

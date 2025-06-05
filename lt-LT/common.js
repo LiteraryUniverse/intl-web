@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Autoriaus vardas ir pavardė',
     'error.invalidFileType': 'Pasirinkite tinkamą vaizdo failą (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Vaizdas turi būti mažesnis nei {mbSize, number}MB',
-    'error.fabricInitFailed': 'Nepavyko inicializuoti vaizdo redaktoriaus'
+    'error.fabricInitFailed': 'Nepavyko inicializuoti vaizdo redaktoriaus',
+    // File upload strings
+    'upload.files': 'Įkelti failai',
+    'upload.dropHere': 'Įmeskite savo failus čia...',
+    'upload.dragOrClick': 'Vilkite ir nuleiskite čia failus arba spustelėkite , kad pasirinktumėte failus',
+    'upload.maxSize': 'Didžiausias failo dydis: {size}',
+    'upload.error.failed': 'Failo įkėlimas nepavyko. Bandykite dar kartą.',
+    'upload.error.tooManyFiles': 'Galite įkelti ne daugiau kaip {max} failų.',
+    'upload.error.removeFile': 'Nepavyko pašalinti failo. Bandykite dar kartą.',
+    'actions.delete': 'Ištrinti'
 };

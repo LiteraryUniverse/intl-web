@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Nazwa autora',
     'error.invalidFileType': 'Proszę wybrać prawidłowy plik obrazu (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Obraz musi być mniejszy niż {mbSize, number}MB',
-    'error.fabricInitFailed': 'Nie udało się zainicjować edytora obrazów'
+    'error.fabricInitFailed': 'Nie udało się zainicjować edytora obrazów',
+    // File upload strings
+    'upload.files': 'Przesłane pliki',
+    'upload.dropHere': 'Proszę wrzucać pliki tutaj...',
+    'upload.dragOrClick': 'Przeciągnij i upuść pliki tutaj lub kliknij, aby wybrać pliki',
+    'upload.maxSize': 'Maksymalny rozmiar pliku: {size}',
+    'upload.error.failed': 'Przesyłanie pliku nie powiodło się. Proszę spróbować ponownie.',
+    'upload.error.tooManyFiles': 'Mogą Państwo przesłać maksymalnie {max} plików.',
+    'upload.error.removeFile': 'Nie udało się usunąć pliku. Proszę spróbować ponownie.',
+    'actions.delete': 'Usunąć'
 };

@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Författarens namn',
     'error.invalidFileType': 'Välj en giltig bildfil (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Bilden måste vara mindre än {mbSize, number}MB',
-    'error.fabricInitFailed': 'Initialiseringen av bildredigeraren misslyckades'
+    'error.fabricInitFailed': 'Initialiseringen av bildredigeraren misslyckades',
+    // File upload strings
+    'upload.files': 'Uppladdade filer',
+    'upload.dropHere': 'Lämna dina filer här...',
+    'upload.dragOrClick': 'Dra och släpp filer här, eller klicka för att välja filer',
+    'upload.maxSize': 'Maximal filstorlek: {size}',
+    'upload.error.failed': 'Filuppladdningen misslyckades. Vänligen försök igen.',
+    'upload.error.tooManyFiles': 'Du kan ladda upp maximalt {max} filer.',
+    'upload.error.removeFile': 'Misslyckades med att ta bort filen. Vänligen försök igen.',
+    'actions.delete': 'Radera'
 };

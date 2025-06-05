@@ -283,5 +283,14 @@ export default {
     'common.authorName': '著者名',
     'error.invalidFileType': '有効な画像ファイル（JPEG、PNG、GIF、WebP）を選択してください。',
     'error.fileTooLarge': '画像は {mbSize, number}MB 未満でなければなりません',
-    'error.fabricInitFailed': '画像エディタの初期化に失敗しました'
+    'error.fabricInitFailed': '画像エディタの初期化に失敗しました',
+    // File upload strings
+    'upload.files': 'アップロードされたファイル',
+    'upload.dropHere': 'ここにファイルを置いてください...',
+    'upload.dragOrClick': 'ここにファイルをドラッグ＆ドロップするか、クリックしてファイルを選択します。',
+    'upload.maxSize': '最大ファイルサイズ： {size}',
+    'upload.error.failed': 'ファイルのアップロードに失敗しました。もう一度お試しください。',
+    'upload.error.tooManyFiles': '最大 {max} ファイルをアップロードできます。',
+    'upload.error.removeFile': 'ファイルの削除に失敗しました。再試行してください。',
+    'actions.delete': '削除'
 };

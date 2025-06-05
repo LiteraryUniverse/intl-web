@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Autori nimi',
     'error.invalidFileType': 'Palun valige sobiv pildifail (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'Pilt peab olema väiksem kui {mbSize, number}MB',
-    'error.fabricInitFailed': 'Pildiredaktori initsialiseerimine ebaõnnestus'
+    'error.fabricInitFailed': 'Pildiredaktori initsialiseerimine ebaõnnestus',
+    // File upload strings
+    'upload.files': 'Üleslaaditud failid',
+    'upload.dropHere': 'Pange oma failid siia...',
+    'upload.dragOrClick': 'Lohistage failid siia või klõpsake failide valimiseks.',
+    'upload.maxSize': 'Maksimaalne faili suurus: {size}',
+    'upload.error.failed': 'Faili üleslaadimine ebaõnnestus. Palun proovige uuesti.',
+    'upload.error.tooManyFiles': 'Saate üles laadida maksimaalselt {max} faile.',
+    'upload.error.removeFile': 'Faili eemaldamine ebaõnnestus. Palun proovige uuesti.',
+    'actions.delete': 'Kustuta'
 };

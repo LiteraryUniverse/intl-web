@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Naam auteur',
     'error.invalidFileType': 'Selecteer een geldig afbeeldingsbestand (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'De afbeelding moet kleiner zijn dan {mbSize, number}MB',
-    'error.fabricInitFailed': 'De afbeeldingseditor is niet geïnitialiseerd'
+    'error.fabricInitFailed': 'De afbeeldingseditor is niet geïnitialiseerd',
+    // File upload strings
+    'upload.files': 'Geüploade bestanden',
+    'upload.dropHere': 'Drop uw bestanden hier...',
+    'upload.dragOrClick': 'Sleep bestanden hierheen, of klik om bestanden te selecteren',
+    'upload.maxSize': 'Maximale bestandsgrootte: {size}',
+    'upload.error.failed': 'Bestand uploaden mislukt. Probeer het opnieuw.',
+    'upload.error.tooManyFiles': 'U kunt maximaal {max} bestanden uploaden.',
+    'upload.error.removeFile': 'Het verwijderen van het bestand is mislukt. Probeer het opnieuw.',
+    'actions.delete': 'Verwijder'
 };

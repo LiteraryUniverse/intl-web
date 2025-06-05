@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Имя автора',
     'error.invalidFileType': 'Пожалуйста, выберите подходящий файл изображения (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'Размер изображения не должен превышать {mbSize, number}МБ.',
-    'error.fabricInitFailed': 'Не удалось инициализировать редактор изображений'
+    'error.fabricInitFailed': 'Не удалось инициализировать редактор изображений',
+    // File upload strings
+    'upload.files': 'Загруженные файлы',
+    'upload.dropHere': 'Бросьте свои файлы сюда...',
+    'upload.dragOrClick': 'Перетащите сюда файлы или нажмите, чтобы выбрать файлы.',
+    'upload.maxSize': 'Максимальный размер файла: {size}',
+    'upload.error.failed': 'Загрузка файла не удалась. Пожалуйста, попробуйте еще раз.',
+    'upload.error.tooManyFiles': 'Вы можете загрузить максимум {max} файлов.',
+    'upload.error.removeFile': 'Не удалось удалить файл. Пожалуйста, попробуйте еще раз.',
+    'actions.delete': 'Удалить'
 };

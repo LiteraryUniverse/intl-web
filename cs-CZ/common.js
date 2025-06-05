@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Jméno autora',
     'error.invalidFileType': 'Vyberte prosím platný obrazový soubor (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'Obrázek musí být menší než {mbSize, number}MB',
-    'error.fabricInitFailed': 'Nepodařilo se inicializovat editor obrázků'
+    'error.fabricInitFailed': 'Nepodařilo se inicializovat editor obrázků',
+    // File upload strings
+    'upload.files': 'Nahrané soubory',
+    'upload.dropHere': 'Zde můžete nahrát své soubory...',
+    'upload.dragOrClick': 'Přetáhněte sem soubory nebo je vyberte kliknutím.',
+    'upload.maxSize': 'Maximální velikost souboru: {size}',
+    'upload.error.failed': 'Odeslání souboru se nezdařilo. Zkuste to prosím znovu.',
+    'upload.error.tooManyFiles': 'Nahrát můžete maximálně {max} souborů.',
+    'upload.error.removeFile': 'Nepodařilo se odstranit soubor. Zkuste to prosím znovu.',
+    'actions.delete': 'Odstranit'
 };
