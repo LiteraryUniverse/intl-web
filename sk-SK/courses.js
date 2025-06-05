@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktívne',
   'course.inactive': 'Neaktívne',
   'course.module.edit': 'Upraviť názov modulu',
-  'course.upload.resource': 'Nahratie zdroja súboru',
+  'course.upload.resource': 'Nahrať zdroj',
   'course.question.answer': 'Pridať odpoveď',
   'course.question.open': 'Otvorená otázka',
   'course.question.close': 'Uzavretá otázka',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Prvá lekcia',
   'course.upcomingLessons': 'Nadchádzajúce lekcie',
   'course.detail.title': '{courseName} | Kurz',
+  'lessons.visibility.public': 'Verejnosť',
+  'lessons.visibility.private': 'Súkromná stránka',
+  'lessons.visibility.hidden': 'Skryté',
 };
