@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Kirjoittajan nimi',
     'error.invalidFileType': 'Valitse kelvollinen kuvatiedosto (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'Kuvan on oltava pienempi kuin {mbSize, number}MB',
-    'error.fabricInitFailed': 'Kuvankäsittelyohjelman alustaminen epäonnistui'
+    'error.fabricInitFailed': 'Kuvankäsittelyohjelman alustaminen epäonnistui',
+    // File upload strings
+    'upload.files': 'Ladatut tiedostot',
+    'upload.dropHere': 'Pudota tiedostosi tänne...',
+    'upload.dragOrClick': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.',
+    'upload.maxSize': 'Tiedoston enimmäiskoko: {size}',
+    'upload.error.failed': 'Tiedoston lataus epäonnistui. Yritä uudelleen.',
+    'upload.error.tooManyFiles': 'Voit ladata enintään {max} tiedostoja.',
+    'upload.error.removeFile': 'Tiedoston poistaminen epäonnistui. Yritä uudelleen.',
+    'actions.delete': 'Poista'
 };
