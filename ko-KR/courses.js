@@ -42,6 +42,7 @@ export default {
   'course.question.no': '아니오',
   'course.lesson.title': '수업 제목',
   'course.lesson.add.universe': '이야기/우주 추가',
+  'course.lesson.externalLinks': '외부 링크',
   'course.lesson.add.link': '외부 링크 추가',
   'course.status': '상태',
   'course.active': '활동',
