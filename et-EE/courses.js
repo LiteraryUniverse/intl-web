@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Ei',
   'course.lesson.title': 'Õppetunni pealkiri',
   'course.lesson.add.universe': 'Lisa lugu/universum',
+  'course.lesson.externalLinks': 'Välislingid',
   'course.lesson.add.link': 'Lisa väline link',
   'course.status': 'Staatus',
   'course.active': 'Tegevus',
