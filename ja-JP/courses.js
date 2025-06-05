@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'いいえ',
   'course.lesson.title': 'レッスンのタイトル',
   'course.lesson.add.universe': 'ストーリー/ユニバースを追加',
+  'course.lesson.externalLinks': '外部リンク',
   'course.lesson.add.link': '外部リンクを追加',
   'course.status': 'ステータス',
   'course.active': 'アクティビティ',
