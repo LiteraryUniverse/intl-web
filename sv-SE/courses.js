@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktiv',
   'course.inactive': 'Inaktiv',
   'course.module.edit': 'Redigera modulens namn',
-  'course.upload.resource': 'Ladda upp en filresurs',
+  'course.upload.resource': 'Ladda upp en resurs',
   'course.question.answer': 'Lägg till svar',
   'course.question.open': 'Öppen fråga',
   'course.question.close': 'Stängd fråga',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Första lektionen',
   'course.upcomingLessons': 'Kommande lektioner',
   'course.detail.title': '{courseName} | Kurs',
+  'lessons.visibility.public': 'Allmänheten',
+  'lessons.visibility.private': 'Privat',
+  'lessons.visibility.hidden': 'Dolda',
 };
