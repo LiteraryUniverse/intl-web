@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Активний',
   'course.inactive': 'Неактивний',
   'course.module.edit': 'Редагувати назву модуля',
-  'course.upload.resource': 'Завантажити файловий ресурс',
+  'course.upload.resource': 'Завантажити ресурс',
   'course.question.answer': 'Додати відповідь',
   'course.question.open': 'Відкрите питання',
   'course.question.close': 'Питання закрите.',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Перший урок',
   'course.upcomingLessons': 'Наступні уроки',
   'course.detail.title': '{courseName} | Звичайно.',
+  'lessons.visibility.public': 'Громадськість',
+  'lessons.visibility.private': 'Рядовий',
+  'lessons.visibility.hidden': 'Приховано',
 };
