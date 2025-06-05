@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Nee',
   'course.lesson.title': 'Lesnaam',
   'course.lesson.add.universe': 'Voeg Verhaal/Universum toe',
+  'course.lesson.externalLinks': 'Externe links',
   'course.lesson.add.link': 'Voeg externe link toe',
   'course.status': 'Status',
   'course.active': 'Activiteit',
