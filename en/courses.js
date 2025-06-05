@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Active',
   'course.inactive': 'Inactive',
   'course.module.edit': 'Edit module name',
-  'course.upload.resource': 'Upload a file resource',
+  'course.upload.resource': 'Upload a resource',
   'course.question.answer': 'Add answer',
   'course.question.open': 'Open question',
   'course.question.close': 'Closed question',
