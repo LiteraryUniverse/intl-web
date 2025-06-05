@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktif',
   'course.inactive': 'Aktif değil',
   'course.module.edit': 'Modül adını düzenle',
-  'course.upload.resource': 'Bir dosya kaynağı yükleyin',
+  'course.upload.resource': 'Bir kaynak yükleyin',
   'course.question.answer': 'Cevap ekle',
   'course.question.open': 'Açık soru',
   'course.question.close': 'Kapalı soru',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'İlk Ders',
   'course.upcomingLessons': 'Yaklaşan Dersler',
   'course.detail.title': '{courseName} | Kurs',
+  'lessons.visibility.public': 'Kamu',
+  'lessons.visibility.private': 'Özel',
+  'lessons.visibility.hidden': 'Gizli',
 };
