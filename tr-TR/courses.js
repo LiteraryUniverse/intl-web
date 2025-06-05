@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Hayır',
   'course.lesson.title': 'Ders başlığı',
   'course.lesson.add.universe': 'Hikaye/Evren Ekle',
+  'course.lesson.externalLinks': 'Dış bağlantılar',
   'course.lesson.add.link': 'Harici bağlantı ekle',
   'course.status': 'Durum',
   'course.active': 'Etkinlik',
