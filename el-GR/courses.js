@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Όχι',
   'course.lesson.title': 'Τίτλος μαθήματος',
   'course.lesson.add.universe': 'Προσθήκη Ιστορίας/Σύμπαντος',
+  'course.lesson.externalLinks': 'Εξωτερικοί σύνδεσμοι',
   'course.lesson.add.link': 'Προσθήκη εξωτερικού συνδέσμου',
   'course.status': 'Κατάσταση',
   'course.active': 'Δραστηριότητα',
