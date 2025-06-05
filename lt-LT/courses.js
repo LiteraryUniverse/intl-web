@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Ne',
   'course.lesson.title': 'Pamokos pavadinimas',
   'course.lesson.add.universe': 'Pridėti Pasaką/Visatą',
+  'course.lesson.externalLinks': 'Išorinės nuorodos',
   'course.lesson.add.link': 'Pridėti išorinę nuorodą',
   'course.status': 'Statusas',
   'course.active': 'Veikla',
