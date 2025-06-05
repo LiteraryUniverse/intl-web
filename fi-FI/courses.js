@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktiivinen',
   'course.inactive': 'Inaktiivinen',
   'course.module.edit': 'Muokkaa moduulin nimeä',
-  'course.upload.resource': 'Lataa tiedostoresurssi',
+  'course.upload.resource': 'Lataa resurssi',
   'course.question.answer': 'Lisää vastaus',
   'course.question.open': 'Avoin kysymys',
   'course.question.close': 'Suljettu kysymys',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Ensimmäinen oppitunti',
   'course.upcomingLessons': 'Tulevat oppitunnit',
   'course.detail.title': '{courseName} | Kurssi',
+  'lessons.visibility.public': 'Julkinen',
+  'lessons.visibility.private': 'Yksityinen',
+  'lessons.visibility.hidden': 'Piilotettu',
 };
