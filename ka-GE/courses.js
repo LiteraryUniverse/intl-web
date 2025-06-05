@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'არა',
   'course.lesson.title': 'გაკვეთილის სათაური',
   'course.lesson.add.universe': 'ისტორიის/უნივერსის დამატება',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'გართული ბმულის დამატება',
   'course.status': 'Status',
   'course.active': 'Activity',
