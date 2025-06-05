@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'కాదు',
   'course.lesson.title': 'పాఠం శీర్షిక',
   'course.lesson.add.universe': 'కథ/విశ్వం జోడించండి',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'బాహ్య లింక్ జోడించండి',
   'course.status': 'Status',
   'course.active': 'Activity',
