@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'نشط',
   'course.inactive': 'غير نشط',
   'course.module.edit': 'تحرير اسم الوحدة النمطية',
-  'course.upload.resource': 'تحميل مورد ملف',
+  'course.upload.resource': 'تحميل مورد',
   'course.question.answer': 'إضافة إجابة',
   'course.question.open': 'سؤال مفتوح',
   'course.question.close': 'سؤال مغلق',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'الدرس الأول',
   'course.upcomingLessons': 'الدروس القادمة',
   'course.detail.title': '{courseName} |دورة تدريبية',
+  'lessons.visibility.public': 'عام',
+  'lessons.visibility.private': 'خاص',
+  'lessons.visibility.hidden': 'مخفي',
 };
