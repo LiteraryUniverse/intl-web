@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'アクティブ',
   'course.inactive': '活動休止中',
   'course.module.edit': 'モジュール名の編集',
-  'course.upload.resource': 'ファイルリソースのアップロード',
+  'course.upload.resource': 'リソースのアップロード',
   'course.question.answer': '回答を追加',
   'course.question.open': '公開質問',
   'course.question.close': '非公開質問',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': '最初のレッスン',
   'course.upcomingLessons': '今後のレッスン',
   'course.detail.title': '{courseName} | コース',
+  'lessons.visibility.public': 'パブリック',
+  'lessons.visibility.private': 'プライベート',
+  'lessons.visibility.hidden': 'ヒドゥン',
 };
