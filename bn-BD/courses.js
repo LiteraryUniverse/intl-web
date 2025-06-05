@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'না',
   'course.lesson.title': 'পাঠের শিরোনাম',
   'course.lesson.add.universe': 'গল্প/বিশ্ব যুক্ত করুন',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'বাহ্যিক লিঙ্ক যুক্ত করুন',
   'course.status': 'Status',
   'course.active': 'Activity',
