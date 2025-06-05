@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Активный',
   'course.inactive': 'Неактивный',
   'course.module.edit': 'Изменить имя модуля',
-  'course.upload.resource': 'Загрузить файл ресурса',
+  'course.upload.resource': 'Загрузите ресурс',
   'course.question.answer': 'Добавить ответ',
   'course.question.open': 'Открытый вопрос',
   'course.question.close': 'Закрытый вопрос',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Первый урок',
   'course.upcomingLessons': 'Предстоящие уроки',
   'course.detail.title': '{courseName} | Курс',
+  'lessons.visibility.public': 'Публичный',
+  'lessons.visibility.private': 'Частный',
+  'lessons.visibility.hidden': 'Скрытый',
 };
