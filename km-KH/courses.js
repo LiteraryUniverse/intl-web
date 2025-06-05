@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'ទេ',
   'course.lesson.title': 'ចំណងជើងមេរៀន',
   'course.lesson.add.universe': 'បន្ថែមរឿង/ជីវិតកំណត់ច័ន្ទ',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'បន្ថែមតំណភ្ជាប់ខាងក្រៅ',
   'course.status': 'Status',
   'course.active': 'Activity',
