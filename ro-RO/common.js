@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Numele autorului',
     'error.invalidFileType': 'Vă rugăm să selectați un fișier imagine valid (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Imaginea trebuie să fie mai mică de {mbSize, number}MB',
-    'error.fabricInitFailed': 'Eșec la inițializarea editorului de imagini'
+    'error.fabricInitFailed': 'Eșec la inițializarea editorului de imagini',
+    // File upload strings
+    'upload.files': 'Fișiere încărcate',
+    'upload.dropHere': 'Aruncați fișierele dvs. aici...',
+    'upload.dragOrClick': 'Trageți și plasați fișiere aici sau faceți clic pentru a selecta fișiere',
+    'upload.maxSize': 'Dimensiunea maximă a fișierului: {size}',
+    'upload.error.failed': 'Încărcarea fișierului a eșuat. Vă rugăm să încercați din nou.',
+    'upload.error.tooManyFiles': 'Puteți încărca un număr maxim de fișiere {max} .',
+    'upload.error.removeFile': 'Nu s-a reușit eliminarea fișierului. Vă rugăm să încercați din nou.',
+    'actions.delete': 'Ștergeți'
 };
