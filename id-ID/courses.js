@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktif',
   'course.inactive': 'Tidak aktif',
   'course.module.edit': 'Mengedit nama modul',
-  'course.upload.resource': 'Mengunggah sumber daya file',
+  'course.upload.resource': 'Unggah sumber daya',
   'course.question.answer': 'Tambahkan jawaban',
   'course.question.open': 'Pertanyaan terbuka',
   'course.question.close': 'Pertanyaan tertutup',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Pelajaran Pertama',
   'course.upcomingLessons': 'Pelajaran yang akan datang',
   'course.detail.title': '{courseName} | Kursus',
+  'lessons.visibility.public': 'Publik',
+  'lessons.visibility.private': 'Pribadi',
+  'lessons.visibility.hidden': 'Tersembunyi',
 };
