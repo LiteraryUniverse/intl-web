@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktyvus',
   'course.inactive': 'Neaktyvus',
   'course.module.edit': 'Redaguoti modulio pavadinimą',
-  'course.upload.resource': 'Įkelti failo išteklių',
+  'course.upload.resource': 'Įkelti išteklių',
   'course.question.answer': 'Pridėti atsakymą',
   'course.question.open': 'Atviras klausimas',
   'course.question.close': 'Uždaras klausimas',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Pirmoji pamoka',
   'course.upcomingLessons': 'Artėjančios pamokos',
   'course.detail.title': '{courseName} | Kursai',
+  'lessons.visibility.public': 'Viešoji svetainė',
+  'lessons.visibility.private': 'Privatus',
+  'lessons.visibility.hidden': 'Paslėptas',
 };
