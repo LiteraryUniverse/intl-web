@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Actief',
   'course.inactive': 'Inactief',
   'course.module.edit': 'Modulenaam bewerken',
-  'course.upload.resource': 'Een bestandsbron uploaden',
+  'course.upload.resource': 'Een bron uploaden',
   'course.question.answer': 'Antwoord toevoegen',
   'course.question.open': 'Open vraag',
   'course.question.close': 'Gesloten vraag',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Eerste les',
   'course.upcomingLessons': 'Komende lessen',
   'course.detail.title': '{courseName} | Cursus',
+  'lessons.visibility.public': 'Openbaar',
+  'lessons.visibility.private': 'Privé',
+  'lessons.visibility.hidden': 'Verborgen',
 };
