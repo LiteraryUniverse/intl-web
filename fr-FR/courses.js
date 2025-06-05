@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Non',
   'course.lesson.title': 'Titre de la leçon',
   'course.lesson.add.universe': 'Ajouter une Histoire/Univers',
+  'course.lesson.externalLinks': 'Liens externes',
   'course.lesson.add.link': 'Ajouter un lien externe',
   'course.status': 'Statut',
   'course.active': 'Activité',
