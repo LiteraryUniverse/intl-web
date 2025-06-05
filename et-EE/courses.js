@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktiivne',
   'course.inactive': 'Mitteaktiivne',
   'course.module.edit': 'Mooduli nime muutmine',
-  'course.upload.resource': 'Faili ressursi üleslaadimine',
+  'course.upload.resource': 'Ressursi üleslaadimine',
   'course.question.answer': 'Lisa vastus',
   'course.question.open': 'Avatud küsimus',
   'course.question.close': 'Suletud küsimus',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Esimene õppetund',
   'course.upcomingLessons': 'Tulevased õppetunnid',
   'course.detail.title': '{courseName} | Kursus',
+  'lessons.visibility.public': 'Avalik',
+  'lessons.visibility.private': 'Eraldi',
+  'lessons.visibility.hidden': 'Peidetud',
 };
