@@ -48,7 +48,7 @@ export default {
   'course.active.message': 'Aktív',
   'course.inactive': 'Inaktív',
   'course.module.edit': 'A modul nevének szerkesztése',
-  'course.upload.resource': 'Fájlforrás feltöltése',
+  'course.upload.resource': 'Erőforrás feltöltése',
   'course.question.answer': 'Válasz hozzáadása',
   'course.question.open': 'Nyitott kérdés',
   'course.question.close': 'Zárt kérdés',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': 'Első lecke',
   'course.upcomingLessons': 'Közelgő leckék',
   'course.detail.title': '{courseName} | Tanfolyam',
+  'lessons.visibility.public': 'Nyilvános',
+  'lessons.visibility.private': 'Privát',
+  'lessons.visibility.hidden': 'Rejtett',
 };
