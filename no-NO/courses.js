@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Nei',
   'course.lesson.title': 'Leksjonstittel',
   'course.lesson.add.universe': 'Legg til Historie/Univers',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Legg til ekstern lenke',
   'course.status': 'Status',
   'course.active': 'Activity',
