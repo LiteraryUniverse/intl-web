@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'اسم المؤلف',
     'error.invalidFileType': 'يرجى تحديد ملف صورة صالح (JPEG، PNG، GIF، WebP)',
     'error.fileTooLarge': 'يجب أن تكون الصورة أقل من {mbSize, number}~ ميغابايت',
-    'error.fabricInitFailed': 'فشل في تهيئة محرر الصور'
+    'error.fabricInitFailed': 'فشل في تهيئة محرر الصور',
+    // File upload strings
+    'upload.files': 'الملفات المرفوعة',
+    'upload.dropHere': 'ضع ملفاتك هنا...',
+    'upload.dragOrClick': 'اسحب الملفات وأفلتها هنا، أو انقر لتحديد الملفات',
+    'upload.maxSize': 'الحد الأقصى لحجم الملف: {size}',
+    'upload.error.failed': 'فشل تحميل الملف. يرجى المحاولة مرة أخرى.',
+    'upload.error.tooManyFiles': 'يمكنك تحميل {max} ملف بحد أقصى .',
+    'upload.error.removeFile': 'فشل في إزالة الملف. يرجى المحاولة مرة أخرى.',
+    'actions.delete': 'حذف'
 };
