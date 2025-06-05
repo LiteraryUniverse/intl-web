@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Ne',
   'course.lesson.title': 'Titolo de la leciono',
   'course.lesson.add.universe': 'Aldoni Rakonton/Universon',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'Aldoni eksteran ligilon',
   'course.status': 'Status',
   'course.active': 'Activity',
