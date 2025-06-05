@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'לא',
   'course.lesson.title': 'כותרת השיעור',
   'course.lesson.add.universe': 'הוסף סיפור/יקום',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'הוסף קישור חיצוני',
   'course.status': 'Status',
   'course.active': 'Activity',
