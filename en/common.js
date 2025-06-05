@@ -315,4 +315,15 @@ export default {
   'error.invalidFileType': 'Please select a valid image file (JPEG, PNG, GIF, WebP)',
   'error.fileTooLarge': 'Image must be less than {mbSize, number}MB',
   'error.fabricInitFailed': 'Failed to initialize the image editor',
+
+  // File upload strings
+  'upload.files': 'Uploaded Files',
+  'upload.dropHere': 'Drop your files here...',
+  'upload.dragOrClick': 'Drag and drop files here, or click to select files',
+  'upload.maxSize': 'Maximum file size: {size}',
+  'upload.error.failed': 'File upload failed. Please try again.',
+  'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
+  'upload.error.removeFile': 'Failed to remove file. Please try again.',
+
+  'actions.delete': 'Delete',
 }
