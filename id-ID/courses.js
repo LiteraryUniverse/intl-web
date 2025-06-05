@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Tidak',
   'course.lesson.title': 'Judul Pelajaran',
   'course.lesson.add.universe': 'Tambah Cerita/Universe',
+  'course.lesson.externalLinks': 'Tautan eksternal',
   'course.lesson.add.link': 'Tambah tautan eksternal',
   'course.status': 'Status',
   'course.active': 'Aktivitas',
