@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'Ei',
   'course.lesson.title': 'Oppitunnin otsikko',
   'course.lesson.add.universe': 'Lisää tarina/maailma',
+  'course.lesson.externalLinks': 'Ulkoiset linkit',
   'course.lesson.add.link': 'Lisää ulkoinen linkki',
   'course.status': 'Tila',
   'course.active': 'Toiminta',
