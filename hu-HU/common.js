@@ -283,5 +283,14 @@ export default {
     'common.authorName': 'Szerző neve',
     'error.invalidFileType': 'Kérjük, válasszon egy érvényes képfájlt (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'A képnek kevesebbnek kell lennie, mint {mbSize, number}MB',
-    'error.fabricInitFailed': 'Nem sikerült inicializálni a képszerkesztőt'
+    'error.fabricInitFailed': 'Nem sikerült inicializálni a képszerkesztőt',
+    // File upload strings
+    'upload.files': 'Feltöltött fájlok',
+    'upload.dropHere': 'Dobd ide a fájljaidat...',
+    'upload.dragOrClick': 'Húzza ide a fájlokat, vagy kattintson a fájlok kiválasztásához.',
+    'upload.maxSize': 'Maximális fájlméret: {size}',
+    'upload.error.failed': 'A fájl feltöltése sikertelen. Kérjük, próbálja meg újra.',
+    'upload.error.tooManyFiles': 'Maximum {max} fájlokat tölthet fel.',
+    'upload.error.removeFile': 'Nem sikerült eltávolítani a fájlt. Kérjük, próbálja újra.',
+    'actions.delete': 'Törölje a  címet.'
 };
