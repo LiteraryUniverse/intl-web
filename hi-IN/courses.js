@@ -42,6 +42,7 @@ export default {
   'course.question.no': 'नहीं',
   'course.lesson.title': 'पाठ का शीर्षक',
   'course.lesson.add.universe': 'कहानी/यूनिवर्स जोड़ें',
+  'course.lesson.externalLinks': 'External links',
   'course.lesson.add.link': 'बाहरी लिंक जोड़ें',
   'course.status': 'Status',
   'course.active': 'Activity',
