@@ -48,7 +48,7 @@ export default {
   'course.active.message': '활성',
   'course.inactive': '비활성',
   'course.module.edit': '모듈 이름 수정',
-  'course.upload.resource': '파일 리소스 업로드',
+  'course.upload.resource': '리소스 업로드',
   'course.question.answer': '답변 추가',
   'course.question.open': '공개 질문',
   'course.question.close': '비공개 질문',
@@ -89,4 +89,7 @@ export default {
   'course.firstLesson': '첫 번째 레슨',
   'course.upcomingLessons': '예정된 레슨',
   'course.detail.title': '{courseName} | 코스',
+  'lessons.visibility.public': '공개',
+  'lessons.visibility.private': '비공개',
+  'lessons.visibility.hidden': '숨겨진',
 };
