@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Codice 2FA',
     'common.2faCodeIntro': 'Inserisci il tuo codice unico generato dalla tua applicazione di autenticazione.',
     'common.2faCodeAria': 'Modulo di inserimento del codice 2FA',
+    'common.aiContent.model.label': 'Modello AI',
+    'common.aiContent.model.tooltip': 'Selezionare il modello di intelligenza artificiale che è stato utilizzato per generare i contenuti.',
+    'common.other': 'Altro',
+    'common.aiContent.model.custom.label': 'Modello AI personalizzato',
+    'common.aiContent.model.custom.placeholder': 'Inserisca il nome del modello AI',
+    'common.select': 'Selezionare...',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Lingua predefinita',
     'signin.web3.signMessage': 'Confermare che si desidera entrare in Literary Universe con il proprio portafoglio come metodo di autenticazione. Codice: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Il caricamento del file non è riuscito. La preghiamo di riprovare.',
     'upload.error.tooManyFiles': 'Può caricare un massimo di {max} file.',
     'upload.error.removeFile': 'Impossibile rimuovere il file. Provi di nuovo.',
-    'actions.delete': 'Cancellare'
+    'actions.delete': 'Cancellare',
+    'common.aiContent.indicator': 'Contenuti generati dall\'AI',
+    'common.aiContent.tooltip': 'Questo contenuto è stato creato con l\'assistenza dell\'AI',
+    'common.aiContent.model': 'Modello AI: {model}',
+    'common.aiContent.custom': 'Modello AI personalizzato'
 };
