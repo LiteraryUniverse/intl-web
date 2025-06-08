@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA-koodi',
     'common.2faCodeIntro': 'Syötä kertakäyttöinen koodi, jonka sinun tunnistussovelluksesi on luonut.',
     'common.2faCodeAria': '2FA-koodin syöttölomake',
+    'common.aiContent.model.label': 'Tekoälymalli',
+    'common.aiContent.model.tooltip': 'Valitse sisällön tuottamiseen käytetty tekoälymalli.',
+    'common.other': 'Muut',
+    'common.aiContent.model.custom.label': 'Mukautettu tekoälymalli',
+    'common.aiContent.model.custom.placeholder': 'Kirjoita tekoälymallin nimi',
+    'common.select': 'Valitse...',
     'common.flashnews': 'Flash-uutiset',
     'common.defaultLanguage': 'Oletuskieli',
     'signin.web3.signMessage': 'Vahvista, että haluat kirjautua Literary Universeen lompakkosi avulla. Koodi: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Tiedoston lataus epäonnistui. Yritä uudelleen.',
     'upload.error.tooManyFiles': 'Voit ladata enintään {max} tiedostoja.',
     'upload.error.removeFile': 'Tiedoston poistaminen epäonnistui. Yritä uudelleen.',
-    'actions.delete': 'Poista'
+    'actions.delete': 'Poista',
+    'common.aiContent.indicator': 'Tekoälyn luoma sisältö',
+    'common.aiContent.tooltip': 'Tämä sisältö on luotu tekoälyn avustuksella',
+    'common.aiContent.model': 'AI-malli: {model}',
+    'common.aiContent.custom': 'Mukautettu tekoälymalli'
 };
