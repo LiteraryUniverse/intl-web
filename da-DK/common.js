@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA-kode',
     'common.2faCodeIntro': 'Indtast din engangskode genereret af din autentificeringsapp.',
     'common.2faCodeAria': 'Indtastningsformular til 2FA-kode',
+    'common.aiContent.model.label': 'AI-model',
+    'common.aiContent.model.tooltip': 'Vælg den AI-model, der blev brugt til at generere indhold',
+    'common.other': 'Andet',
+    'common.aiContent.model.custom.label': 'Brugerdefineret AI-model',
+    'common.aiContent.model.custom.placeholder': 'Indtast navnet på AI-modellen',
+    'common.select': 'Vælg...',
     'common.flashnews': 'Flashnyheder',
     'common.defaultLanguage': 'Standard sprog',
     'signin.web3.signMessage': 'Bekræft venligst, at du ønsker at logge ind på Literary Universe med din tegnebog som autentificeringsmetode. Kode: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Upload af fil mislykkedes. Prøv venligst igen.',
     'upload.error.tooManyFiles': 'Du kan maksimalt uploade {max} filer.',
     'upload.error.removeFile': 'Det lykkedes ikke at fjerne filen. Prøv venligst igen.',
-    'actions.delete': 'Sletning'
+    'actions.delete': 'Sletning',
+    'common.aiContent.indicator': 'AI-genereret indhold',
+    'common.aiContent.tooltip': 'Dette indhold blev skabt med AI-assistance',
+    'common.aiContent.model': 'AI-model: {model}',
+    'common.aiContent.custom': 'Brugerdefineret AI-model'
 };
