@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Evrende yayınlamayı engelle ayarı etkinleştirilmiş olduğundan yayınlama engellenir.',
     'workshop.revisions.new.public.disabled': 'Öykü ayarlarında yayınlamayı engelle etkinleştirildiğinde yayınlanamıyor.',
     'workshop.publishing.restricted': 'İyi hal ihlali nedeniyle yayınlama yeteneğinizi devre dışı bıraktık.',
-    'workshop.story.buyingSettings': 'Satış ayarları'
+    'workshop.story.buyingSettings': 'Satış ayarları',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Yapay Zeka Tarafından Oluşturulan İçerik',
+    'workshop.chapter.aiGenerated.tooltip': 'Bu bölümü yapay zeka tarafından oluşturulmuş içerik içeriyor olarak işaretleyin',
+    'workshop.chapter.aiGenerated.description': 'Bu bölüm, yapay zeka yardımıyla oluşturulmuş içerik içermektedir.',
+    'workshop.chapter.aiModel': 'Yapay Zeka Modeli',
+    'workshop.chapter.aiModel.tooltip': 'İçerik oluşturmak için kullanılan yapay zeka modelini seçin',
+    'workshop.chapter.aiModel.custom': 'Özel',
+    'workshop.chapter.aiModel.custom.placeholder': 'Yapay zeka modelinin adını girin',
+    'workshop.chapter.aiGenerated.locked': 'AI içerik işaretlemesi, moderasyon ekibi tarafından ayarlandığı için değiştirilemez.',
+    'workshop.monetization.aiNotEligible': 'Yapay zeka tarafından oluşturulan içerik para kazanma için uygun değildir.'
 };
