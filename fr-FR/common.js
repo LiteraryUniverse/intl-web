@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Code 2FA',
     'common.2faCodeIntro': 'Veuillez entrer votre code à usage unique généré par votre application d\'authentification.',
     'common.2faCodeAria': 'Formulaire de saisie du code 2FA',
+    'common.aiContent.model.label': 'Modèle d\'IA',
+    'common.aiContent.model.tooltip': 'Sélectionnez le modèle d\'IA utilisé pour générer le contenu',
+    'common.other': 'Autre',
+    'common.aiContent.model.custom.label': 'Modèle d\'IA personnalisé',
+    'common.aiContent.model.custom.placeholder': 'Saisissez le nom du modèle d\'IA',
+    'common.select': 'Sélectionnez...',
     'common.flashnews': 'Dernières actualités',
     'common.defaultLanguage': 'Langue par défaut',
     'signin.web3.signMessage': 'Veuillez confirmer que vous voulez entrer dans l\'Univers Littéraire avec votre portefeuille comme méthode d\'authentification. Code : {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Le téléchargement du fichier a échoué. Veuillez réessayer.',
     'upload.error.tooManyFiles': 'Vous pouvez télécharger un maximum de {max} fichiers.',
     'upload.error.removeFile': 'Échec de la suppression du fichier. Veuillez réessayer.',
-    'actions.delete': 'Supprimer'
+    'actions.delete': 'Supprimer',
+    'common.aiContent.indicator': 'Contenu généré par l\'IA',
+    'common.aiContent.tooltip': 'Ce contenu a été créé avec l\'aide de l\'IA',
+    'common.aiContent.model': 'Modèle AI : {model}',
+    'common.aiContent.custom': 'Modèle d\'IA personnalisé'
 };
