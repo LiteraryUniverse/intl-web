@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'код 2FA',
     'common.2faCodeIntro': 'Будь ласка, введіть одноразовий код, згенерований Вашим додатком-автентифікатором.',
     'common.2faCodeAria': 'Форма для введення 2FA коду',
+    'common.aiContent.model.label': 'Модель штучного інтелекту',
+    'common.aiContent.model.tooltip': 'Виберіть модель АІ, яка використовувалася для створення контенту',
+    'common.other': 'Інше',
+    'common.aiContent.model.custom.label': 'Спеціальна модель штучного інтелекту',
+    'common.aiContent.model.custom.placeholder': 'Введіть назву моделі ШІ',
+    'common.select': 'Виберіть...',
     'common.flashnews': 'Флештронг',
     'common.defaultLanguage': 'Мова за замовчуванням',
     'signin.web3.signMessage': 'Будь ласка, підтвердіть, що ви хочете увійти в Літературний Всесвіт з вашим гаманцем в якості методу авторизації. Код: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Не вдалося завантажити файл. Будь ласка, спробуйте ще раз.',
     'upload.error.tooManyFiles': 'Ви можете завантажити максимум {max} файлів.',
     'upload.error.removeFile': 'Не вдалося вилучити файл. Спробуйте ще раз.',
-    'actions.delete': 'Видалити'
+    'actions.delete': 'Видалити',
+    'common.aiContent.indicator': 'Контент, створений штучним інтелектом',
+    'common.aiContent.tooltip': 'Цей контент створено за допомогою штучного інтелекту',
+    'common.aiContent.model': 'Модель штучного інтелекту: {model}',
+    'common.aiContent.custom': 'Спеціальна модель ШІ'
 };
