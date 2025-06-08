@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA kód',
     'common.2faCodeIntro': 'Kérjük, adja meg az Ön által generált egyszer használatos kódot az authenticator alkalmazásában.',
     'common.2faCodeAria': '2FA kód beviteli űrlap',
+    'common.aiContent.model.label': 'AI modell',
+    'common.aiContent.model.tooltip': 'Válassza ki a tartalom generálásához használt mesterséges intelligencia modellt.',
+    'common.other': 'Egyéb',
+    'common.aiContent.model.custom.label': 'Egyedi AI modell',
+    'common.aiContent.model.custom.placeholder': 'Adja meg a mesterséges intelligencia modell nevét',
+    'common.select': 'Válassza ki...',
     'common.flashnews': 'Flashhírek',
     'common.defaultLanguage': 'Alapértelmezett nyelv',
     'signin.web3.signMessage': 'Kérjük, erősítse meg, hogy a Literary Universe-be szeretne belépni a pénztárcájával mint hitelesítési módszerrel. Kód: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'A fájl feltöltése sikertelen. Kérjük, próbálja meg újra.',
     'upload.error.tooManyFiles': 'Maximum {max} fájlokat tölthet fel.',
     'upload.error.removeFile': 'Nem sikerült eltávolítani a fájlt. Kérjük, próbálja újra.',
-    'actions.delete': 'Törölje a  címet.'
+    'actions.delete': 'Törölje a  címet.',
+    'common.aiContent.indicator': 'AI-generált tartalom',
+    'common.aiContent.tooltip': 'Ez a tartalom mesterséges intelligencia segítségével készült',
+    'common.aiContent.model': 'AI modell: {model}',
+    'common.aiContent.custom': 'Egyedi AI modell'
 };
