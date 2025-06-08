@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Kod 2FA',
     'common.2faCodeIntro': 'Wprowadź swój jednorazowy kod wygenerowany przez aplikację uwierzytelniającą.',
     'common.2faCodeAria': 'Formularz wprowadzania kodu 2FA',
+    'common.aiContent.model.label': 'Model AI',
+    'common.aiContent.model.tooltip': 'Proszę wybrać model AI, który został użyty do wygenerowania treści',
+    'common.other': 'Inne',
+    'common.aiContent.model.custom.label': 'Niestandardowy model sztucznej inteligencji',
+    'common.aiContent.model.custom.placeholder': 'Proszę wprowadzić nazwę modelu sztucznej inteligencji',
+    'common.select': 'Proszę wybrać...',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Domyślny język',
     'signin.web3.signMessage': 'Potwierdź, że chcesz wejść do Literary Universe, używając swojego portfela jako metody uwierzytelniania. Kod: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Przesyłanie pliku nie powiodło się. Proszę spróbować ponownie.',
     'upload.error.tooManyFiles': 'Mogą Państwo przesłać maksymalnie {max} plików.',
     'upload.error.removeFile': 'Nie udało się usunąć pliku. Proszę spróbować ponownie.',
-    'actions.delete': 'Usunąć'
+    'actions.delete': 'Usunąć',
+    'common.aiContent.indicator': 'Treści generowane przez sztuczną inteligencję',
+    'common.aiContent.tooltip': 'Ta zawartość została stworzona z pomocą sztucznej inteligencji',
+    'common.aiContent.model': 'Model AI: {model}',
+    'common.aiContent.custom': 'Niestandardowy model sztucznej inteligencji'
 };
