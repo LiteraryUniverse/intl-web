@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'La pubblicazione è impedita perché l\'universo ha l\'impostazione Impedisci pubblicazione attivata.',
     'workshop.revisions.new.public.disabled': 'Non è possibile pubblicare quando la pubblicazione è abilitata nelle impostazioni della storia.',
     'workshop.publishing.restricted': 'A causa di una violazione della buona condotta, abbiamo disabilitato la sua capacità di pubblicare.',
-    'workshop.story.buyingSettings': 'Impostazioni di vendita'
+    'workshop.story.buyingSettings': 'Impostazioni di vendita',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Contenuti generati dall\'AI',
+    'workshop.chapter.aiGenerated.tooltip': 'Contrassegnare questo capitolo come contenente contenuti generati dall\'intelligenza artificiale.',
+    'workshop.chapter.aiGenerated.description': 'Questo capitolo contiene contenuti generati con l\'assistenza dell\'AI.',
+    'workshop.chapter.aiModel': 'Modello AI',
+    'workshop.chapter.aiModel.tooltip': 'Selezionare il modello di intelligenza artificiale che è stato utilizzato per generare i contenuti.',
+    'workshop.chapter.aiModel.custom': 'Personalizzato',
+    'workshop.chapter.aiModel.custom.placeholder': 'Inserisca il nome del modello AI',
+    'workshop.chapter.aiGenerated.locked': 'La marcatura del contenuto AI non può essere modificata perché è stata regolata dal team di moderazione.',
+    'workshop.monetization.aiNotEligible': 'I contenuti generati dall\'AI non sono monetizzabili.'
 };
