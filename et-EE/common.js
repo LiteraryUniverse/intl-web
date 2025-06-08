@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA kood',
     'common.2faCodeIntro': 'Palun sisestage oma autentimisrakenduse poolt genereeritud ühekordne kood.',
     'common.2faCodeAria': '2FA koodi sisestamise vorm',
+    'common.aiContent.model.label': 'AI mudel',
+    'common.aiContent.model.tooltip': 'Valige AI-mudel, mida kasutati sisu genereerimiseks.',
+    'common.other': 'Muud',
+    'common.aiContent.model.custom.label': 'Kohandatud AI mudel',
+    'common.aiContent.model.custom.placeholder': 'Sisestage tehisintellekti mudeli nimi',
+    'common.select': 'Valige...',
     'common.flashnews': 'Flash-uudised',
     'common.defaultLanguage': 'Vaikimisi keel',
     'signin.web3.signMessage': 'Palun kinnitage, et soovite siseneda Kirjandusuniversumisse oma rahakoti autentimismeetodina. Kood: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Faili üleslaadimine ebaõnnestus. Palun proovige uuesti.',
     'upload.error.tooManyFiles': 'Saate üles laadida maksimaalselt {max} faile.',
     'upload.error.removeFile': 'Faili eemaldamine ebaõnnestus. Palun proovige uuesti.',
-    'actions.delete': 'Kustuta'
+    'actions.delete': 'Kustuta',
+    'common.aiContent.indicator': 'Tehisintellekti loodud sisu',
+    'common.aiContent.tooltip': 'See sisu loodi tehisintellekti abiga',
+    'common.aiContent.model': 'AI mudel: {model}',
+    'common.aiContent.custom': 'Kohandatud tehisintellekti mudel'
 };
