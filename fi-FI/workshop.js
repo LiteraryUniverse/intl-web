@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Julkaiseminen on estetty, koska universumin julkaisemisen estäminen -asetus on käytössä.',
     'workshop.revisions.new.public.disabled': 'Ei voi julkaista, kun julkaisemisen estäminen on otettu käyttöön tarinan asetuksissa.',
     'workshop.publishing.restricted': 'Hyvien käytöstapojen rikkomisen vuoksi olemme estäneet sinua julkaisemasta.',
-    'workshop.story.buyingSettings': 'Myyntiasetukset'
+    'workshop.story.buyingSettings': 'Myyntiasetukset',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Tekoälyn luoma sisältö',
+    'workshop.chapter.aiGenerated.tooltip': 'Merkitse tämän luvun sisältävän tekoälyn tuottamaa sisältöä.',
+    'workshop.chapter.aiGenerated.description': 'Tämä luku sisältää sisältöä, joka on tuotettu tekoälyn avulla.',
+    'workshop.chapter.aiModel': 'Tekoälymalli',
+    'workshop.chapter.aiModel.tooltip': 'Valitse sisällön tuottamiseen käytetty tekoälymalli.',
+    'workshop.chapter.aiModel.custom': 'Custom',
+    'workshop.chapter.aiModel.custom.placeholder': 'Kirjoita tekoälymallin nimi',
+    'workshop.chapter.aiGenerated.locked': 'Tekoälyn sisältömerkintää ei voi muuttaa, koska moderointiryhmä on mukauttanut sen.',
+    'workshop.monetization.aiNotEligible': 'Tekoälyn tuottamaa sisältöä ei voida hyödyntää rahana.'
 };
