@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Código 2FA',
     'common.2faCodeIntro': 'Por favor, introduza o seu código único gerado pela sua aplicação autenticadora.',
     'common.2faCodeAria': 'Formulário de entrada de código 2FA',
+    'common.aiContent.model.label': 'Modelo de IA',
+    'common.aiContent.model.tooltip': 'Selecione o modelo de IA que foi utilizado para gerar conteúdos',
+    'common.other': 'Outros',
+    'common.aiContent.model.custom.label': 'Modelo de IA personalizado',
+    'common.aiContent.model.custom.placeholder': 'Introduza o nome do modelo de IA',
+    'common.select': 'Selecione...',
     'common.flashnews': 'Notícias recentes',
     'common.defaultLanguage': 'Idioma predefinido',
     'signin.web3.signMessage': 'Por favor confirme que deseja entrar no Universo Literário com a sua carteira como método de autenticação. Código: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'O carregamento do ficheiro falhou. Por favor, tente novamente.',
     'upload.error.tooManyFiles': 'Pode carregar um máximo de {max} ficheiros.',
     'upload.error.removeFile': 'Falha ao remover o ficheiro. Tente novamente.',
-    'actions.delete': 'Eliminar'
+    'actions.delete': 'Eliminar',
+    'common.aiContent.indicator': 'Conteúdo gerado por IA',
+    'common.aiContent.tooltip': 'Este conteúdo foi criado com a ajuda da IA',
+    'common.aiContent.model': 'Modelo AI: {model}',
+    'common.aiContent.custom': 'Modelo de IA personalizado'
 };
