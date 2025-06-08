@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA kodas',
     'common.2faCodeIntro': 'Įveskite vienkartinį kodą, kurį sugeneravo jūsų autentifikavimo programa.',
     'common.2faCodeAria': '2FA kodo įvedimo forma',
+    'common.aiContent.model.label': 'AI modelis',
+    'common.aiContent.model.tooltip': 'Pasirinkite dirbtinio intelekto modelį, kuris buvo naudojamas turiniui generuoti',
+    'common.other': 'Kita',
+    'common.aiContent.model.custom.label': 'Pasirinktinis AI modelis',
+    'common.aiContent.model.custom.placeholder': 'Įveskite dirbtinio intelekto modelio pavadinimą',
+    'common.select': 'Pasirinkite...',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Numatytoji kalba',
     'signin.web3.signMessage': 'Prašome patvirtinti, kad norite prisijungti prie Literatinio Visatoje naudodami savo piniginę kaip autentifikavimo metodą. Kodas: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Failo įkėlimas nepavyko. Bandykite dar kartą.',
     'upload.error.tooManyFiles': 'Galite įkelti ne daugiau kaip {max} failų.',
     'upload.error.removeFile': 'Nepavyko pašalinti failo. Bandykite dar kartą.',
-    'actions.delete': 'Ištrinti'
+    'actions.delete': 'Ištrinti',
+    'common.aiContent.indicator': 'dirbtinio intelekto sukurtas turinys',
+    'common.aiContent.tooltip': 'Šis turinys sukurtas naudojant dirbtinę intelektinę dirbtinę',
+    'common.aiContent.model': 'AI modelis: {model}',
+    'common.aiContent.custom': 'Pasirinktinis dirbtinio intelekto modelis'
 };
