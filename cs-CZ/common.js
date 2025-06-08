@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA kód',
     'common.2faCodeIntro': 'Zadejte Váš jednorázový kód vygenerovaný vaší ověřovací aplikací.',
     'common.2faCodeAria': 'Formulář pro zadávání kódu 2FA',
+    'common.aiContent.model.label': 'Model umělé inteligence',
+    'common.aiContent.model.tooltip': 'Výběr modelu umělé inteligence, který byl použit k vygenerování obsahu.',
+    'common.other': 'Další',
+    'common.aiContent.model.custom.label': 'Vlastní model AI',
+    'common.aiContent.model.custom.placeholder': 'Zadejte název modelu AI',
+    'common.select': 'Vyberte si...',
     'common.flashnews': 'Bleskové zprávy',
     'common.defaultLanguage': 'Výchozí jazyk',
     'signin.web3.signMessage': 'Potvrďte, že chcete vstoupit do Literary Univese s Vaší peněženkou jako metodu ověření. Kód: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Odeslání souboru se nezdařilo. Zkuste to prosím znovu.',
     'upload.error.tooManyFiles': 'Nahrát můžete maximálně {max} souborů.',
     'upload.error.removeFile': 'Nepodařilo se odstranit soubor. Zkuste to prosím znovu.',
-    'actions.delete': 'Odstranit'
+    'actions.delete': 'Odstranit',
+    'common.aiContent.indicator': 'Obsah generovaný umělou inteligencí',
+    'common.aiContent.tooltip': 'Tento obsah byl vytvořen s pomocí AI',
+    'common.aiContent.model': 'Model AI: {model}',
+    'common.aiContent.custom': 'Vlastní model AI'
 };
