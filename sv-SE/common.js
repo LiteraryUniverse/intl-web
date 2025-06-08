@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA-kod',
     'common.2faCodeIntro': 'Ange din engångskod genererad av din autentiseringsapp.',
     'common.2faCodeAria': 'Formulär för 2FA-kod',
+    'common.aiContent.model.label': 'AI-modell',
+    'common.aiContent.model.tooltip': 'Välj den AI-modell som användes för att generera innehåll',
+    'common.other': 'Övriga',
+    'common.aiContent.model.custom.label': 'Anpassad AI-modell',
+    'common.aiContent.model.custom.placeholder': 'Ange namnet på AI-modellen',
+    'common.select': 'Välj...',
     'common.flashnews': 'Flashnyheter',
     'common.defaultLanguage': 'Standard språk',
     'signin.web3.signMessage': 'Var god bekräfta att du vill logga in på Literary Universe med din plånbok som autentiseringsmetod. Kod: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Filuppladdningen misslyckades. Vänligen försök igen.',
     'upload.error.tooManyFiles': 'Du kan ladda upp maximalt {max} filer.',
     'upload.error.removeFile': 'Misslyckades med att ta bort filen. Vänligen försök igen.',
-    'actions.delete': 'Radera'
+    'actions.delete': 'Radera',
+    'common.aiContent.indicator': 'AI-genererat innehåll',
+    'common.aiContent.tooltip': 'Detta innehåll skapades med hjälp av AI',
+    'common.aiContent.model': 'AI Modell: {model}',
+    'common.aiContent.custom': 'Anpassad AI-modell'
 };
