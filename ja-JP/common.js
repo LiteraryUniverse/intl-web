@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FAコード',
     'common.2faCodeIntro': '認証用アプリで作成したワンタイムコードを入力してください。',
     'common.2faCodeAria': '2FAコードエントリフォーム',
+    'common.aiContent.model.label': 'AIモデル',
+    'common.aiContent.model.tooltip': 'コンテンツ生成に使用したAIモデルを選択する',
+    'common.other': 'その他',
+    'common.aiContent.model.custom.label': 'カスタムAIモデル',
+    'common.aiContent.model.custom.placeholder': 'AIモデルの名前を入力',
+    'common.select': '選択...',
     'common.flashnews': 'フラッシュニュース',
     'common.defaultLanguage': '初期設定言語',
     'signin.web3.signMessage': '認証方法としてウォレットでLiterary Universeにアクセスすることを確認してください。コード：{code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'ファイルのアップロードに失敗しました。もう一度お試しください。',
     'upload.error.tooManyFiles': '最大 {max} ファイルをアップロードできます。',
     'upload.error.removeFile': 'ファイルの削除に失敗しました。再試行してください。',
-    'actions.delete': '削除'
+    'actions.delete': '削除',
+    'common.aiContent.indicator': 'AIが生成したコンテンツ',
+    'common.aiContent.tooltip': 'このコンテンツはAIの支援を受けて作成されました。',
+    'common.aiContent.model': 'AIモデル： {model}',
+    'common.aiContent.custom': 'カスタムAIモデル'
 };
