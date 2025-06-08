@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Publicering förhindras eftersom universum har inställningen förhindra publicering aktiverad.',
     'workshop.revisions.new.public.disabled': 'Det går inte att publicera när förhindra publicering är aktiverat i berättelsens inställningar.',
     'workshop.publishing.restricted': 'På grund av överträdelse av god sed har vi inaktiverat din möjlighet att publicera.',
-    'workshop.story.buyingSettings': 'Inställningar för försäljning'
+    'workshop.story.buyingSettings': 'Inställningar för försäljning',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'AI-genererat innehåll',
+    'workshop.chapter.aiGenerated.tooltip': 'Markera detta kapitel som innehållande AI-genererat innehåll',
+    'workshop.chapter.aiGenerated.description': 'Detta kapitel innehåller innehåll som har genererats med hjälp av AI.',
+    'workshop.chapter.aiModel': 'AI-modell',
+    'workshop.chapter.aiModel.tooltip': 'Välj den AI-modell som användes för att generera innehåll',
+    'workshop.chapter.aiModel.custom': 'Anpassad',
+    'workshop.chapter.aiModel.custom.placeholder': 'Ange namnet på AI-modellen',
+    'workshop.chapter.aiGenerated.locked': 'AI-märkning av innehåll kan inte ändras eftersom den har justerats av modereringsteamet.',
+    'workshop.monetization.aiNotEligible': 'AI-genererat innehåll är inte berättigat till intäktsgenerering.'
 };
