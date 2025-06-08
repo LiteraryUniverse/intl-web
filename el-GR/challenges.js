@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'Ημερομηνία λήξης',
     'challenges.future': 'Προσεχείς προκλήσεις',
     'challenges.future.wordcount': 'Πρόκληση μετρήσεων λέξεων που ξεκινάει στις {startDate, date, short} με στόχο τις {target, number} μέχρι τις {endDate, date, short}.',
-    'challenges.future.nanowrimo': 'Η πρόκληση NaNoWriMo είναι έτοιμη.',
     'challenges.wordcount': 'Μέτρηση λέξεων',
     'challenges.wordcount.desc': `Βάλτε στον εαυτό σας έναν στόχο για το πόσες λέξεις θέλετε να γράψετε αυτό το μήνα για αυτή την {type, select,
     story {ιστορία}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'Αναφορά',
     'challenges.victory': 'Συγχαρητήρια! Ολοκληρώσατε αυτήν την πρόκληση.',
     'challenges.defeat': 'Δυστυχώς δεν ολοκληρώσατε αυτήν την πρόκληση.',
-    'challenges.baseline': 'Ο τρέχων αριθμός λέξεων για αυτήν την ιστορία είναι {wordcount, number}, αυτό θα είναι το αρχικό σημείο.',
-    // NaNoWriMo
-    'nanowrimo.full': 'Εθνικός Μήνας Συγγραφής Μυθιστορήματος',
-    'nanowrimo.site': 'Επίσημη ιστοσελίδα NaNoWriMo',
-    'nanowrimo.settings': 'Λογαριασμός NaNoWriMo',
-    'nanowrimo.username': 'Όνομα χρήστη NaNoWriMo',
-    'nanowrimo.key': 'Μυστικό κλειδί',
-    'nanowrimo.key.get': 'Λάβετε το κλειδί σας για το NaNoWriMo.',
-    'nanowrimo.key.get.notice': 'Πρέπει να είστε συνδεδεμένοι για να το δείτε.',
-    'nanowrimo.ongoing': 'είναι σε πλήρη εξέλιξη! {countdown} ακόμα ημέρες για να πάει!',
-    'nanowrimo.startsin': `θα ξεκινήσει σε {countdown, plural,
-      one {1 ημέρα}
-      other {# ημέρες}
-    }! Προετοιμαστείτε!`,
-    'nanowrimo.isover': 'Το NaNoWriMo τελείωσε. Θα τα πούμε του χρόνου!',
-    'nanowrimo.select': 'Ορίστε αυτήν την ιστορία για το NaNoWriMo.',
-    'nanowrimo.baseline': 'Όταν αρχίσει το NaNoWriMo, θα πάρει τον τρέχοντα αριθμό λέξεων και θα τον χρησιμοποιήσει ως βάση από την οποία οποιεσδήποτε επιπλέον λέξεις θα λαμβάνονται ως μέρος του NaNoWriMo.',
-    'nanowrimo.victory': 'Συγχαρητήρια! Κερδίσατε το NaNoWriMo!',
-    'nanowrimo.challenge': 'Πρόκληση NaNoWriMo',
-    'nanowrimo.description': 'Η πρόκληση είναι να γράψετε ένα μυθιστόρημα από {words, number} λέξεις κατά τη διάρκεια του Νοεμβρίου.',
-    'nanowrimo.error.usernotfound': 'Το όνομα χρήστη δεν βρέθηκε στους διακομιστές του NaNoWriMo.',
-    'nanowrimo.error.nobook': 'Δεν βρέθηκε βιβλίο. Βεβαιωθείτε ότι έχετε δημιουργήσει το βιβλίο σας στο NaNoWriMo.',
-    'nanowrimo.error.wordcount': 'Αδυναμία ορισμού του αριθμού λέξεων στο NaNoWrimo, παρακαλούμε ελέγξτε ξανά τα διαπιστευτήριά σας και προσπαθήστε ξανά.',
-    'nanowrimo.connected': 'Έχετε ορίσει αυτήν την ιστορία για το NaNoWriMo.',
-    'nanowrimo.connected.other': 'Έχετε ήδη συνδέσει μια άλλη ιστορία.'
+    'challenges.baseline': 'Ο τρέχων αριθμός λέξεων για αυτήν την ιστορία είναι {wordcount, number}, αυτό θα είναι το αρχικό σημείο.'
 };
