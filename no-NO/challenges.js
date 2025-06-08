@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'Sluttdato',
     'challenges.future': 'Kommende utfordringer',
     'challenges.future.wordcount': 'Ordkonkurranseutfordring som starter den {startDate, date, short} med mål om å skrive {target, number} innen {endDate, date, short}.',
-    'challenges.future.nanowrimo': 'NaNoWriMo-utfordringen er klar.',
     'challenges.wordcount': 'Antall ord',
     'challenges.wordcount.desc': `Sett deg et mål for hvor mange ord du vil skrive denne måneden for denne {type, select,
     story {historien}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'Rapport',
     'challenges.victory': 'Gratulerer! Du har fullført denne utfordringen.',
     'challenges.defeat': 'Dessverre fullførte du ikke denne utfordringen.',
-    'challenges.baseline': 'Det nåværende ordtallet for denne historien er {wordcount, number}, dette vil være startpunktet.',
-    // NaNoWriMo
-    'nanowrimo.full': 'National Novel Writing Month',
-    'nanowrimo.site': 'NaNoWriMo offisiell nettside',
-    'nanowrimo.settings': 'NaNoWriMo-konto',
-    'nanowrimo.username': 'NaNoWriMo-brukernavn',
-    'nanowrimo.key': 'Hemmelig nøkkel',
-    'nanowrimo.key.get': 'Få tak i din NaNoWriMo-nøkkel.',
-    'nanowrimo.key.get.notice': 'Du må være logget inn for å se den.',
-    'nanowrimo.ongoing': 'er i full gang! {countdown} flere dager igjen!',
-    'nanowrimo.startsin': `vil starte om {countdown, plural,
-      one {1 dag}
-      other {# dager}
-    }! Gjør deg klar!`,
-    'nanowrimo.isover': 'NaNoWriMo er over. Vi sees neste år!',
-    'nanowrimo.select': 'Marker denne historien for NaNoWriMo.',
-    'nanowrimo.baseline': 'Når NaNoWriMo starter, vil den ta det nåværende ordtellingen og bruke det som en baseline, der alle ekstra ord vil bli telt som en del av NaNoWriMo.',
-    'nanowrimo.victory': 'Gratulerer! Du vant NaNoWriMo!',
-    'nanowrimo.challenge': 'NaNoWriMo-utfordring',
-    'nanowrimo.description': 'Utfordringen er å skrive en roman på {words, number} ord i løpet av november.',
-    'nanowrimo.error.usernotfound': 'Brukernavnet er ikke funnet på NaNoWriMo-serverne.',
-    'nanowrimo.error.nobook': 'Ingen bok er funnet. Vennligst sørg for at du har opprettet boken din på NaNoWriMo.',
-    'nanowrimo.error.wordcount': 'Kan ikke sette ordtellingen på NaNoWriMo, vennligst dobbeltsjekk dine påloggingsopplysninger og prøv igjen.',
-    'nanowrimo.connected': 'Du har markert denne historien for NaNoWriMo.',
-    'nanowrimo.connected.other': 'Du har allerede koblet til en annen historie.'
+    'challenges.baseline': 'Det nåværende ordtallet for denne historien er {wordcount, number}, dette vil være startpunktet.'
 };
