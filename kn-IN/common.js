@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA ಕೋಡ್',
     'common.2faCodeIntro': 'ದಯವಿಟ್ಟು ನಿಮ್ಮ ಒಮ್ಮೆಯಾದ ಕೋಡ್ ಅನ್ನು ನಮೂದಿಸಿ, ನಿಮ್ಮ ದೃಢೀಕರಣ ಅನ್ವಯಕ್ರಮದಿಂದ ಉಂಟಾಗಿದೆ.',
     'common.2faCodeAria': '2FA ಕೋಡ್ ನಮೂದಿಸುವ ಮೂಲಕ ಪ್ರವೇಶ ಪಟ್ಟಿ',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'ಫ್ಲಾಶ್ ಸುದ್ದಿ',
     'common.defaultLanguage': 'ಪೂರ್ವನಿರ್ಧಾರಿತ ಭಾಷೆ',
     'signin.web3.signMessage': 'ದಯವಿಟ್ಟು ನೀವು ಸಾಹಿತ್ಯ ವಿಶ್ವದಲ್ಲಿ ನಿಮ್ಮ ವಾಲೆಟ್ ಅನ್ನು ಪ್ರಮಾಣೀಕರಣ ವಿಧಾನವಾಗಿ ನಮೂದಿಸಲು ಬಯಸುತ್ತೀರಾ. ಕೋಡ್: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'File upload failed. Please try again.',
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
-    'actions.delete': 'Delete'
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };
