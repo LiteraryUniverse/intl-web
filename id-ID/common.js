@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Kode 2FA',
     'common.2faCodeIntro': 'Mohon masukkan one time code yang dibuat oleh aplikasi autentikator Anda.',
     'common.2faCodeAria': 'Formulir kode entri 2FA',
+    'common.aiContent.model.label': 'Model AI',
+    'common.aiContent.model.tooltip': 'Pilih model AI yang digunakan untuk menghasilkan konten',
+    'common.other': 'Lainnya',
+    'common.aiContent.model.custom.label': 'Model AI Khusus',
+    'common.aiContent.model.custom.placeholder': 'Masukkan nama model AI',
+    'common.select': 'Pilih...',
     'common.flashnews': 'Berita kilat',
     'common.defaultLanguage': 'Bahasa default',
     'signin.web3.signMessage': 'Mohon konfirmasikan bahwa Anda ingin masuk ke Literary Universe dengan wallet Anda sebagai metode otentikasi. Kode: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Pengunggahan file gagal. Silakan coba lagi.',
     'upload.error.tooManyFiles': 'Anda dapat mengunggah maksimum file {max} .',
     'upload.error.removeFile': 'Gagal menghapus file. Silakan coba lagi.',
-    'actions.delete': 'Menghapus'
+    'actions.delete': 'Menghapus',
+    'common.aiContent.indicator': 'Konten yang Dihasilkan AI',
+    'common.aiContent.tooltip': 'Konten ini dibuat dengan bantuan AI',
+    'common.aiContent.model': 'Model AI: {model}',
+    'common.aiContent.custom': 'Model AI khusus'
 };
