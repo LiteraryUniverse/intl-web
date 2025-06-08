@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'টুফা কোড',
     'common.2faCodeIntro': 'দয়া করে আপনার একটি সময়সীমা কোড প্রবেশ করান যা আপনার প্রমাণীকরণকারী অ্যাপ্লিকেশন দ্বারা উত্পন্ন করা হয়েছে।',
     'common.2faCodeAria': 'টুফা কোড প্রবেশ ফর্ম',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'ফ্ল্যাশনিউজ',
     'common.defaultLanguage': 'ডিফল্ট ভাষা',
     'signin.web3.signMessage': 'দয়া করে নিশ্চিত হউন আপনি লিটারেরি ইউনিভার্সে আপনার ওয়ালেট ব্যবহার করে প্রবেশ করতে চান। কোড: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'File upload failed. Please try again.',
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
-    'actions.delete': 'Delete'
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };
