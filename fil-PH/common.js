@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Kodigo ng 2FA',
     'common.2faCodeIntro': 'Mangyaring maglagay ng inyong one-time code na nalikha ng inyong authenticator application.',
     'common.2faCodeAria': 'Porma ng pagpasok ng 2FA code',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Default na wika',
     'signin.web3.signMessage': 'Mangyaring kumpirmahin na nais ninyong pumasok sa Literary Universe gamit ang inyong wallet bilang paraan ng pagpapatunay. Kodigo: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'File upload failed. Please try again.',
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
-    'actions.delete': 'Delete'
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };
