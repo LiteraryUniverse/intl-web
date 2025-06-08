@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA kodi',
     'common.2faCodeIntro': 'Bonvolu enigu vian unufojan kodon generitan de via aŭtentiga aplikaĵo.',
     'common.2faCodeAria': 'Eniga formularo por 2FA kodo',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'Flaŝnovaĵoj',
     'common.defaultLanguage': 'Defaŭlta lingvo',
     'signin.web3.signMessage': 'Bonvolu konfirmi ke vi volas eniri Literaturan Universon per via monujo kiel aŭtentiga metodo. Kodo: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'File upload failed. Please try again.',
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
-    'actions.delete': 'Delete'
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };
