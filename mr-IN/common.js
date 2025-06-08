@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA कोड',
     'common.2faCodeIntro': 'कृपया आपल्या प्रमाणीकरण अनुप्रयोगाद्वारे तयार केलेल्या एकवेळीचा कोड प्रविष्ट करा.',
     'common.2faCodeAria': '2FA कोड प्रविष्टी फॉर्म',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'फ्लॅशन्यूज',
     'common.defaultLanguage': 'मुख्य भाषा',
     'signin.web3.signMessage': 'कृपया पुष्टी करा की आपण आपल्या वॉलेटसह लिटररी युनिवर्समध्ये प्रवेश करायला इच्छित आहात. कोड: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'File upload failed. Please try again.',
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
-    'actions.delete': 'Delete'
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };
