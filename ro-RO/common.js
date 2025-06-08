@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Cod 2FA',
     'common.2faCodeIntro': 'Vă rugăm să introduceți codul unic generat de aplicația de autentificare.',
     'common.2faCodeAria': 'Formular introducere cod 2FA',
+    'common.aiContent.model.label': 'Model AI',
+    'common.aiContent.model.tooltip': 'Selectați modelul AI care a fost utilizat pentru a genera conținut',
+    'common.other': 'Altele',
+    'common.aiContent.model.custom.label': 'Model AI personalizat',
+    'common.aiContent.model.custom.placeholder': 'Introduceți numele modelului AI',
+    'common.select': 'Selectați...',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Limba implicită',
     'signin.web3.signMessage': 'Vă rugăm să confirmați că doriți să intrați în Universul Literar cu portofelul dumneavoastră ca metodă de autentificare. Cod: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Încărcarea fișierului a eșuat. Vă rugăm să încercați din nou.',
     'upload.error.tooManyFiles': 'Puteți încărca un număr maxim de fișiere {max} .',
     'upload.error.removeFile': 'Nu s-a reușit eliminarea fișierului. Vă rugăm să încercați din nou.',
-    'actions.delete': 'Ștergeți'
+    'actions.delete': 'Ștergeți',
+    'common.aiContent.indicator': 'Conținut generat de inteligența artificială',
+    'common.aiContent.tooltip': 'Acest conținut a fost creat cu ajutorul AI',
+    'common.aiContent.model': 'Model AI: {model}',
+    'common.aiContent.custom': 'Model AI personalizat'
 };
