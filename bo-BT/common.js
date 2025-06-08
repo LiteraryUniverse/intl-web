@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'དྲན་དེབ་གྲངས།',
     'common.2faCodeIntro': 'ཁྱེད་ཀྱི་དྲན་དེབ་གྲངས་གསལ་བརྗོད་པའི་འཛོལ་བ་བཟུང་བའི་སྐད་ཡིག་གི་མིང་།',
     'common.2faCodeAria': 'དྲན་དེབ་གྲངས་གསལ་བརྗོད་པ་ཐོག་མའི་ཡིག་ཚགས་པ།',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'བརྗོད་བརྗོད།',
     'common.defaultLanguage': 'སྒྲོམ་གྱི་སྐད་ཡིག་གི་སྐད་རིགས་',
     'signin.web3.signMessage': 'ཁྱེད་ཀྱི་དོན་གཞི་གསར་པ་བཟོ་བ་བརྗོད་པ་འདི་གི་མིང་། ཁྱེད་ཀྱི་ཡིག་ཚགས་གསལ་བརྗོད་པའི་གསང་བ་: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'File upload failed. Please try again.',
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
-    'actions.delete': 'Delete'
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };
