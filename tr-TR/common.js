@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA kodu',
     'common.2faCodeIntro': 'Lütfen kimlik doğrulama uygulamanız tarafından oluşturulan tek kullanımlık kodunuzu girin.',
     'common.2faCodeAria': '2FA kodu giriş formu',
+    'common.aiContent.model.label': 'Yapay Zeka Modeli',
+    'common.aiContent.model.tooltip': 'İçerik oluşturmak için kullanılan yapay zeka modelini seçin',
+    'common.other': 'Diğer',
+    'common.aiContent.model.custom.label': 'Özel Yapay Zeka Modeli',
+    'common.aiContent.model.custom.placeholder': 'Yapay zeka modelinin adını girin',
+    'common.select': 'Seçiniz...',
     'common.flashnews': 'Flash Haberler',
     'common.defaultLanguage': 'Varsayılan dil',
     'signin.web3.signMessage': 'Lütfen Edebiyat Evreni\'ne cüzdanınızı kimlik doğrulama yöntemi olarak kullanarak girmek istediğinizi onaylayın. Kod: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Dosya yükleme başarısız oldu. Lütfen tekrar deneyin.',
     'upload.error.tooManyFiles': 'En fazla {max} dosya yükleyebilirsiniz.',
     'upload.error.removeFile': 'Dosya kaldırılamadı. Lütfen tekrar deneyin.',
-    'actions.delete': 'Silme'
+    'actions.delete': 'Silme',
+    'common.aiContent.indicator': 'Yapay Zeka Tarafından Oluşturulan İçerik',
+    'common.aiContent.tooltip': 'Bu içerik yapay zeka yardımı ile oluşturulmuştur',
+    'common.aiContent.model': 'AI Modeli: {model}',
+    'common.aiContent.custom': 'Özel yapay zeka modeli'
 };
