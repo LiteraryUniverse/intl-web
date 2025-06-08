@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Publicarea este împiedicată deoarece universul are activată setarea de împiedicare a publicării.',
     'workshop.revisions.new.public.disabled': 'Nu se poate publica în timp ce funcția de prevenire a publicării este activată în setările povestirii.',
     'workshop.publishing.restricted': 'Din cauza încălcării bunei conduite, v-am dezactivat capacitatea de a publica.',
-    'workshop.story.buyingSettings': 'Setări de vânzare'
+    'workshop.story.buyingSettings': 'Setări de vânzare',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Conținut generat de inteligența artificială',
+    'workshop.chapter.aiGenerated.tooltip': 'Marcați acest capitol ca având conținut generat de AI',
+    'workshop.chapter.aiGenerated.description': 'Acest capitol conține conținut care a fost generat cu ajutorul AI.',
+    'workshop.chapter.aiModel': 'Model AI',
+    'workshop.chapter.aiModel.tooltip': 'Selectați modelul AI care a fost utilizat pentru a genera conținut',
+    'workshop.chapter.aiModel.custom': 'Personalizat',
+    'workshop.chapter.aiModel.custom.placeholder': 'Introduceți numele modelului AI',
+    'workshop.chapter.aiGenerated.locked': 'Marcarea conținutului AI nu poate fi modificată deoarece a fost ajustată de echipa de moderare.',
+    'workshop.monetization.aiNotEligible': 'Conținutul generat de AI nu este eligibil pentru monetizare.'
 };
