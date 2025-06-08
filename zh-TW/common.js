@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA驗證碼',
     'common.2faCodeIntro': '請輸入由您的驗證器應用程式生成的一次性驗證碼。',
     'common.2faCodeAria': '2FA驗證碼輸入表單',
+    'common.aiContent.model.label': 'AI 模型',
+    'common.aiContent.model.tooltip': '選擇用於產生內容的 AI 模型',
+    'common.other': '其他',
+    'common.aiContent.model.custom.label': '自訂 AI 模型',
+    'common.aiContent.model.custom.placeholder': '輸入 AI 模型的名稱',
+    'common.select': '選擇...',
     'common.flashnews': '快訊',
     'common.defaultLanguage': '預設語言',
     'signin.web3.signMessage': '請確認您要使用錢包作為驗證方法進入Literary Universe。代碼： {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': '檔案上傳失敗。請重試。',
     'upload.error.tooManyFiles': '您最多可以上傳 {max} 檔案。',
     'upload.error.removeFile': '移除檔案失敗。請重試。',
-    'actions.delete': '刪除'
+    'actions.delete': '刪除',
+    'common.aiContent.indicator': 'AI 產生的內容',
+    'common.aiContent.tooltip': '本內容由 AI 協助建立',
+    'common.aiContent.model': 'AI 機型： {model}',
+    'common.aiContent.custom': '自訂 AI 模型'
 };
