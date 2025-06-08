@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA କୋଡ୍',
     'common.2faCodeIntro': 'ଦୟାକରି ଆପଣଙ୍କର ଏକ ସମୟ କୋଡ୍ ପ୍ରବିଷ୍ଟ କରନ୍ତୁ ଯାହା ଆପଣଙ୍କର ପ୍ରମାଣିକରଣ ଅନୁପ୍ରଯୁକ୍ତି ଅନୁସୃତ ହେଉଛି |',
     'common.2faCodeAria': '2FA କୋଡ୍ ପ୍ରବେଶ ଫର୍ମ',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'ଫ୍ଲାଶନ୍ୟୁଜ୍',
     'common.defaultLanguage': 'ଡିଫାଲ୍ଟ ଭାଷା',
     'signin.web3.signMessage': 'ଦୟାକରି ନିଶ୍ଚିତ କରନ୍ତୁ ଆପଣ ଲିଟେରରୀ ଇୟୁନିଭର୍ସରେ ଆପଣଙ୍କର ଓଲେଟରେ ପ୍ରମାଣିକରଣ ପସନ୍ଦ କରନ୍ତୁ | କୋଡ୍: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'File upload failed. Please try again.',
     'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
     'upload.error.removeFile': 'Failed to remove file. Please try again.',
-    'actions.delete': 'Delete'
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };
