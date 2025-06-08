@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'Дата закінчення',
     'challenges.future': 'Майбутні виклики',
     'challenges.future.wordcount': 'Виклик на підрахунок слів починається {startDate, date, short} з метою досягнення {target, number} до {endDate, date, short}.',
-    'challenges.future.nanowrimo': 'Виклик NaNoWriMo готовий.',
     'challenges.wordcount': 'Кількість слів',
     'challenges.wordcount.desc': `Встановіть собі ціль, скільки слів ви хочете написати цього місяця для цієї {type, select,
     story {історії}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'Звіт',
     'challenges.victory': 'Вітаємо! Ви завершили цей виклик.',
     'challenges.defeat': 'На жаль, ви не завершили цей виклик.',
-    'challenges.baseline': 'Поточна кількість слів для цієї історії становить {wordcount, number}, це буде початкова точка.',
-    // NaNoWriMo
-    'nanowrimo.full': 'Місяць національного написання роману',
-    'nanowrimo.site': 'Офіційний сайт NaNoWriMo',
-    'nanowrimo.settings': 'Обліковий запис NaNoWriMo',
-    'nanowrimo.username': 'Ім\'я користувача NaNoWriMo',
-    'nanowrimo.key': 'Секретний ключ',
-    'nanowrimo.key.get': 'Отримати ваш ключ NaNoWriMo.',
-    'nanowrimo.key.get.notice': 'Вам потрібно увійти в систему, щоб побачити це.',
-    'nanowrimo.ongoing': 'знаходиться в повному розпалі! {countdown} днів залишилося!',
-    'nanowrimo.startsin': `розпочнеться через {countdown, plural,
-      one {1 день}
-      other {# днів}
-    }! Приготуйтесь!`,
-    'nanowrimo.isover': 'NaNoWriMo закінчився. До зустрічі наступного року!',
-    'nanowrimo.select': 'Визначте цю історію для NaNoWriMo.',
-    'nanowrimo.baseline': 'Коли NaNoWriMo починається, він бере поточну кількість слів і використовує її як базову, з якої будь-які додаткові слова будуть враховуватися як частина NaNoWriMo.',
-    'nanowrimo.victory': 'Вітаємо! Ви перемогли в NaNoWriMo!',
-    'nanowrimo.challenge': 'Виклик NaNoWriMo',
-    'nanowrimo.description': 'Виклик полягає в написанні роману з {words, number} слів протягом листопада.',
-    'nanowrimo.error.usernotfound': 'Користувача не знайдено на серверах NaNoWriMo.',
-    'nanowrimo.error.nobook': 'Книга не знайдена. Будь ласка, переконайтеся, що ви створили свою книгу на NaNoWriMo.',
-    'nanowrimo.error.wordcount': 'Неможливо встановити кількість слів на NaNoWrimo, будь ласка, перевірте свої облікові дані і спробуйте знову.',
-    'nanowrimo.connected': 'Ви визначили цю історію для NaNoWriMo.',
-    'nanowrimo.connected.other': 'Ви вже підключили іншу історію.'
+    'challenges.baseline': 'Поточна кількість слів для цієї історії становить {wordcount, number}, це буде початкова точка.'
 };
