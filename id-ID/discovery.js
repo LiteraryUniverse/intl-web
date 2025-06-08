@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Baca dari bab pertama',
     'discovery.readLatest': 'Baca bab terbaru',
     'discovery.author': 'Penulis',
-    'discovery.aiGenerated': 'Dihasilkan oleh AI'
+    'discovery.aiGenerated': 'Dihasilkan oleh AI',
+    // New AI content related strings
+    'discovery.ai.content': 'Konten yang Dihasilkan AI',
+    'discovery.ai.universes': 'Alam Semesta yang Dihasilkan AI',
+    'discovery.ai.stories': 'Cerita yang Dihasilkan AI',
+    'discovery.ai.noContent': 'Belum ada konten yang dihasilkan oleh AI yang tersedia.',
+    'discover.search.aiContent': 'Konten AI',
+    'discover.search.aiContent.both': 'Tampilkan semua konten',
+    'discover.search.aiContent.none': 'Menyembunyikan konten yang dihasilkan AI',
+    'discover.search.aiContent.only': 'Hanya tampilkan konten yang dibuat oleh AI',
+    'discovery.aiContent.indicator': 'Konten ini dihasilkan dengan bantuan AI',
+    'discovery.aiContent.indicator.model': 'Model AI: {model}'
 };
