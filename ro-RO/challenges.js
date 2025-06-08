@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'Data de sfârșit',
     'challenges.future': 'Provocări viitoare',
     'challenges.future.wordcount': 'Provocarea numărului de cuvinte începe pe {startDate, date, short} cu obiectivul de {target, number} până la {endDate, date, short}.',
-    'challenges.future.nanowrimo': 'Provocarea NaNoWriMo este pregătită.',
     'challenges.wordcount': 'Contor de cuvinte',
     'challenges.wordcount.desc': `Stabiliți-vă un obiectiv cu câte cuvinte doriți să scrieți în această lună pentru această poveste din {type, select,
     story {universul}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'Raport',
     'challenges.victory': 'Felicitări! Ai finalizat această provocare.',
     'challenges.defeat': 'Din păcate, nu ai finalizat această provocare.',
-    'challenges.baseline': 'Numărul actual de cuvinte pentru această poveste este {wordcount, number}, acesta va fi punctul de plecare.',
-    // NaNoWriMo
-    'nanowrimo.full': 'Luna Națională a Scrierii unui Roman',
-    'nanowrimo.site': 'Site-ul oficial NaNoWriMo',
-    'nanowrimo.settings': 'Contul NaNoWriMo',
-    'nanowrimo.username': 'Nume de utilizator NaNoWriMo',
-    'nanowrimo.key': 'Cheie secretă',
-    'nanowrimo.key.get': 'Obține-ți cheia pentru NaNoWriMo.',
-    'nanowrimo.key.get.notice': 'Trebuie să fii autentificat pentru a o vedea.',
-    'nanowrimo.ongoing': 'este în toi! Mai sunt {countdown} zile!',
-    'nanowrimo.startsin': `va începe în {countdown, plural,
-      one {1 zi}
-      other {# zile}
-    }! Pregătește-te!`,
-    'nanowrimo.isover': 'NaNoWriMo s-a încheiat. Ne vedem anul viitor!',
-    'nanowrimo.select': 'Desemnează această poveste pentru NaNoWriMo.',
-    'nanowrimo.baseline': 'Când începe NaNoWriMo, va lua numărul curent de cuvinte și îl va folosi ca bază, iar orice cuvinte adiționale vor fi considerate parte a NaNoWriMo.',
-    'nanowrimo.victory': 'Felicitări! Ai câștigat NaNoWriMo!',
-    'nanowrimo.challenge': 'Provocarea NaNoWriMo',
-    'nanowrimo.description': 'Provocarea este de a scrie un roman de {words, number} cuvinte în luna noiembrie.',
-    'nanowrimo.error.usernotfound': 'Numele de utilizator nu a fost găsit pe serverele NaNoWriMo.',
-    'nanowrimo.error.nobook': 'Nu a fost găsită nicio carte. Asigură-te că ai creat cartea ta pe NaNoWriMo.',
-    'nanowrimo.error.wordcount': 'Imposibil de setat numărul de cuvinte pe NaNoWriMo, te rog verifică-ți credențialele și încearcă din nou.',
-    'nanowrimo.connected': 'Ai desemnat această poveste pentru NaNoWriMo.',
-    'nanowrimo.connected.other': 'Ai deja o altă poveste conectată.'
+    'challenges.baseline': 'Numărul actual de cuvinte pentru această poveste este {wordcount, number}, acesta va fi punctul de plecare.'
 };
