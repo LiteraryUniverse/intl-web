@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA-Code',
     'common.2faCodeIntro': 'Bitte geben Sie Ihren einmaligen Code ein, der von Ihrer Authentifizierungsanwendung generiert wurde.',
     'common.2faCodeAria': '2FA Code Eintragsformular',
+    'common.aiContent.model.label': 'AI-Modell',
+    'common.aiContent.model.tooltip': 'Wählen Sie das KI-Modell aus, das für die Generierung von Inhalten verwendet wurde.',
+    'common.other': 'Andere',
+    'common.aiContent.model.custom.label': 'Benutzerdefiniertes KI-Modell',
+    'common.aiContent.model.custom.placeholder': 'Geben Sie den Namen des KI-Modells ein',
+    'common.select': 'Wählen Sie...',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Standardsprache',
     'signin.web3.signMessage': 'Bitte bestätigen Sie, dass Sie das Literary Universe mit Ihrer Brieftasche als Authentifizierungsmethode betreten möchten. Code: {code}',
@@ -292,5 +298,9 @@ export default {
     'upload.error.failed': 'Dateiupload fehlgeschlagen. Bitte versuchen Sie es erneut.',
     'upload.error.tooManyFiles': 'Sie können maximal {max} Dateien hochladen.',
     'upload.error.removeFile': 'Die Datei konnte nicht entfernt werden. Bitte versuchen Sie es erneut.',
-    'actions.delete': 'Löschen'
+    'actions.delete': 'Löschen',
+    'common.aiContent.indicator': 'KI-generierte Inhalte',
+    'common.aiContent.tooltip': 'Dieser Inhalt wurde mit Hilfe von KI erstellt',
+    'common.aiContent.model': 'AI-Modell: {model}',
+    'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell'
 };
