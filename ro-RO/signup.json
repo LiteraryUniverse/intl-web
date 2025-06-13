@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organizați poveștile pe care doriți să le citiți sau pe care le-ați citit în liste.",
 	"signup.wizard.complete.reader.step3.title": "Alăturați-vă comunității",
 	"signup.wizard.complete.reader.step3.description": "Intrați în contact cu autori și alți cititori pentru a discuta despre poveștile care vă plac.",
-	"signup.saveProgress": "Salvați progresul și continuați mai târziu"
+	"signup.saveProgress": "Salvați progresul și continuați mai târziu",
+	"signup.stepCount": "Pas {current, number} de {total, number}",
+	"signup.writer.goals.description": "Povestește-ne despre experiența ta în scris.",
+	"signup.complete.title": "Sunteți gata!",
+	"signup.complete.description": "Vă mulțumim pentru completarea profilului dumneavoastră. Ți-am personalizat experiența în funcție de preferințele tale."
 }
