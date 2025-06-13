@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "読みたい話や読んだ話をリストに整理する。",
 	"signup.wizard.complete.reader.step3.title": "コミュニティに参加する",
 	"signup.wizard.complete.reader.step3.description": "作家や他の読者とつながり、好きな物語について語り合う。",
-	"signup.saveProgress": "進行状況を保存し、後で続ける"
+	"signup.saveProgress": "進行状況を保存し、後で続ける",
+	"signup.stepCount": "Step {current, number} of {total, number}",
+	"signup.writer.goals.description": "あなたの執筆経験について教えてください。",
+	"signup.complete.title": "準備万端だ！",
+	"signup.complete.description": "プロフィールをご記入いただきありがとうございます。私たちはあなたの好みに基づいてあなたの経験をカスタマイズしました。"
 }
