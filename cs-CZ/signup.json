@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Uspořádejte si příběhy, které chcete přečíst nebo které jste přečetli, do seznamů.",
 	"signup.wizard.complete.reader.step3.title": "Připojte se ke komunitě",
 	"signup.wizard.complete.reader.step3.description": "Spojte se s autory a dalšími čtenáři a diskutujte o příbězích, které máte rádi.",
-	"signup.saveProgress": "Uložení postupu a pokračování později"
+	"signup.saveProgress": "Uložení postupu a pokračování později",
+	"signup.stepCount": "Krok {current, number} z {total, number}",
+	"signup.writer.goals.description": "Povězte nám o svých zkušenostech s psaním.",
+	"signup.complete.title": "Vše je připraveno!",
+	"signup.complete.description": "Děkujeme vám za vyplnění profilu. Na základě vašich preferencí jsme přizpůsobili vaše zkušenosti."
 }
