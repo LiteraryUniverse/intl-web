@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organize as histórias que quer ler ou que já leu em listas.",
 	"signup.wizard.complete.reader.step3.title": "Junte-se à comunidade",
 	"signup.wizard.complete.reader.step3.description": "Ligue-se a autores e outros leitores para discutir histórias de que gosta.",
-	"signup.saveProgress": "Guarde o progresso e continue mais tarde"
+	"signup.saveProgress": "Guarde o progresso e continue mais tarde",
+	"signup.stepCount": "Passo {current, number} de {total, number}",
+	"signup.writer.goals.description": "Fale-nos da sua experiência de escrita.",
+	"signup.complete.title": "Está tudo pronto!",
+	"signup.complete.description": "Obrigado por completar o seu perfil. Personalizámos a sua experiência com base nas suas preferências."
 }
