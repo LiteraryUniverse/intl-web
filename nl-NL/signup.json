@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organiseer verhalen die u wilt lezen of gelezen hebt in lijsten.",
 	"signup.wizard.complete.reader.step3.title": "Word lid van de gemeenschap",
 	"signup.wizard.complete.reader.step3.description": "Kom in contact met auteurs en andere lezers om verhalen te bespreken waar u van houdt.",
-	"signup.saveProgress": "Voortgang opslaan en later verdergaan"
+	"signup.saveProgress": "Voortgang opslaan en later verdergaan",
+	"signup.stepCount": "Stap {current, number} van {total, number}",
+	"signup.writer.goals.description": "Vertel ons over uw schrijfervaring.",
+	"signup.complete.title": "U bent er helemaal klaar voor!",
+	"signup.complete.description": "Bedankt voor het invullen van uw profiel. Wij hebben uw ervaring aangepast op basis van uw voorkeuren."
 }
