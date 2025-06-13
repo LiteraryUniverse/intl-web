@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Організуйте історії, які ви хочете прочитати або вже прочитали, у списки.",
 	"signup.wizard.complete.reader.step3.title": "Приєднуйтесь до спільноти",
 	"signup.wizard.complete.reader.step3.description": "Спілкуйтеся з авторами та іншими читачами, щоб обговорити улюблені історії.",
-	"signup.saveProgress": "Збережіть прогрес і продовжите пізніше"
+	"signup.saveProgress": "Збережіть прогрес і продовжите пізніше",
+	"signup.stepCount": "Крок {current, number} від {total, number}",
+	"signup.writer.goals.description": "Розкажіть про свій письменницький досвід.",
+	"signup.complete.title": "Все готово!",
+	"signup.complete.description": "Дякуємо, що заповнили свій профіль. Ми налаштували ваш досвід відповідно до ваших уподобань."
 }
