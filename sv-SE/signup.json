@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organisera berättelser som du vill läsa eller har läst i listor.",
 	"signup.wizard.complete.reader.step3.title": "Gå med i gemenskapen",
 	"signup.wizard.complete.reader.step3.description": "Ta kontakt med författare och andra läsare för att diskutera berättelser som du älskar.",
-	"signup.saveProgress": "Spara framsteg och fortsätt senare"
+	"signup.saveProgress": "Spara framsteg och fortsätt senare",
+	"signup.stepCount": "Steg {current, number} av {total, number}",
+	"signup.writer.goals.description": "Berätta om din erfarenhet av att skriva.",
+	"signup.complete.title": "Du är klar!",
+	"signup.complete.description": "Tack för att du har fyllt i din profil. Vi har anpassat din upplevelse baserat på dina preferenser."
 }
