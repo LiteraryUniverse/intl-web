@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Mengatur cerita yang ingin Anda baca atau yang sudah Anda baca ke dalam daftar.",
 	"signup.wizard.complete.reader.step3.title": "Bergabunglah dengan komunitas",
 	"signup.wizard.complete.reader.step3.description": "Terhubung dengan penulis dan pembaca lain untuk mendiskusikan cerita yang Anda sukai.",
-	"signup.saveProgress": "Simpan kemajuan dan lanjutkan nanti"
+	"signup.saveProgress": "Simpan kemajuan dan lanjutkan nanti",
+	"signup.stepCount": "Langkah {current, number} dari {total, number}",
+	"signup.writer.goals.description": "Ceritakan kepada kami tentang pengalaman menulis Anda.",
+	"signup.complete.title": "Anda sudah siap!",
+	"signup.complete.description": "Terima kasih telah melengkapi profil Anda. Kami telah menyesuaikan pengalaman Anda berdasarkan preferensi Anda."
 }
