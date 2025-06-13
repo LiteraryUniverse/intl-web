@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'رمز 2FA',
     'common.2faCodeIntro': 'يرجى إدخال رمزك لمرة واحدة المُولَد بواسطة تطبيق المصادقة الخاص بك.',
     'common.2faCodeAria': 'نموذج إدخال رمز 2FA',
+    'common.aiContent.model.label': 'نموذج الذكاء الاصطناعي',
+    'common.aiContent.model.tooltip': 'حدد نموذج الذكاء الاصطناعي الذي تم استخدامه لإنشاء المحتوى',
+    'common.other': 'أخرى',
+    'common.aiContent.model.custom.label': 'نموذج الذكاء الاصطناعي المخصص',
+    'common.aiContent.model.custom.placeholder': 'أدخل اسم نموذج الذكاء الاصطناعي',
+    'common.select': 'اختر...',
     'common.flashnews': 'أخبار مُبَاشِرَة',
     'common.defaultLanguage': 'اللغة الافتراضية',
     'signin.web3.signMessage': 'يرجى تأكيد رغبتك في الدخول إلى عالم الأدب مع محفظتك كطريقة مصادقة. الرمز: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'اسم المؤلف',
     'error.invalidFileType': 'يرجى تحديد ملف صورة صالح (JPEG، PNG، GIF، WebP)',
     'error.fileTooLarge': 'يجب أن تكون الصورة أقل من {mbSize, number}~ ميغابايت',
-    'error.fabricInitFailed': 'فشل في تهيئة محرر الصور'
+    'error.fabricInitFailed': 'فشل في تهيئة محرر الصور',
+    // File upload strings
+    'upload.files': 'الملفات المرفوعة',
+    'upload.dropHere': 'ضع ملفاتك هنا...',
+    'upload.dragOrClick': 'اسحب الملفات وأفلتها هنا، أو انقر لتحديد الملفات',
+    'upload.maxSize': 'الحد الأقصى لحجم الملف: {size}',
+    'upload.error.failed': 'فشل تحميل الملف. يرجى المحاولة مرة أخرى.',
+    'upload.error.tooManyFiles': 'يمكنك تحميل {max} ملف بحد أقصى .',
+    'upload.error.removeFile': 'فشل في إزالة الملف. يرجى المحاولة مرة أخرى.',
+    'actions.delete': 'حذف',
+    'common.aiContent.indicator': 'المحتوى المُنشأ بالذكاء الاصطناعي',
+    'common.aiContent.tooltip': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
+    'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
+    'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص'
 };

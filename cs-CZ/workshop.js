@@ -308,5 +308,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Publikování je znemožněno, protože vesmír má povoleno nastavení zabránit publikování.',
     'workshop.revisions.new.public.disabled': 'Nelze publikovat, když je v nastavení příběhu povoleno zabránit publikování.',
     'workshop.publishing.restricted': 'Z důvodu porušení dobrých mravů jsme vám zakázali možnost publikovat.',
-    'workshop.story.buyingSettings': 'Nastavení prodeje'
+    'workshop.story.buyingSettings': 'Nastavení prodeje',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Obsah generovaný umělou inteligencí',
+    'workshop.chapter.aiGenerated.tooltip': 'Označte tuto kapitolu jako obsahující obsah vytvořený umělou inteligencí.',
+    'workshop.chapter.aiGenerated.description': 'Tato kapitola obsahuje obsah, který byl vytvořen s pomocí umělé inteligence.',
+    'workshop.chapter.aiModel': 'Model umělé inteligence',
+    'workshop.chapter.aiModel.tooltip': 'Výběr modelu umělé inteligence, který byl použit k vygenerování obsahu.',
+    'workshop.chapter.aiModel.custom': 'Vlastní',
+    'workshop.chapter.aiModel.custom.placeholder': 'Zadejte název modelu AI',
+    'workshop.chapter.aiGenerated.locked': 'Označení obsahu AI nelze změnit, protože bylo upraveno moderátorským týmem.',
+    'workshop.monetization.aiNotEligible': 'Obsah vytvořený umělou inteligencí není způsobilý pro zpeněžení.'
 };

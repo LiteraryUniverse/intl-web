@@ -69,5 +69,16 @@ export default {
     'discovery.readFromStart': 'Číst od první kapitoly',
     'discovery.readLatest': 'Číst nejnovější kapitolu',
     'discovery.author': 'Autor',
-    'discovery.aiGenerated': 'Generované umělou inteligencí'
+    'discovery.aiGenerated': 'Generované umělou inteligencí',
+    // New AI content related strings
+    'discovery.ai.content': 'Obsah generovaný umělou inteligencí',
+    'discovery.ai.universes': 'Vesmíry generované umělou inteligencí',
+    'discovery.ai.stories': 'Příběhy generované umělou inteligencí',
+    'discovery.ai.noContent': 'Zatím není k dispozici žádný obsah generovaný umělou inteligencí.',
+    'discover.search.aiContent': 'Obsah AI',
+    'discover.search.aiContent.both': 'Zobrazit celý obsah',
+    'discover.search.aiContent.none': 'Skrytí obsahu generovaného umělou inteligencí',
+    'discover.search.aiContent.only': 'Zobrazit pouze obsah vytvořený umělou inteligencí',
+    'discovery.aiContent.indicator': 'Tento obsah byl vytvořen s pomocí umělé inteligence',
+    'discovery.aiContent.indicator.model': 'Model AI: {model}'
 };

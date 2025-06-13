@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Suskirstykite istorijas, kurias norite perskaityti arba jau perskaitėte, į sąrašus.",
 	"signup.wizard.complete.reader.step3.title": "Prisijunkite prie bendruomenės",
 	"signup.wizard.complete.reader.step3.description": "Bendraukite su autoriais ir kitais skaitytojais ir aptarkite mėgstamas istorijas.",
-	"signup.saveProgress": "Išsaugoti pažangą ir tęsti vėliau"
+	"signup.saveProgress": "Išsaugoti pažangą ir tęsti vėliau",
+	"signup.stepCount": "Žingsnis {current, number} iš {total, number}",
+	"signup.writer.goals.description": "Papasakokite apie savo rašymo patirtį.",
+	"signup.complete.title": "Viskas paruošta!",
+	"signup.complete.description": "Dėkojame, kad užpildėte savo profilį. Atsižvelgdami į jūsų pageidavimus, pritaikėme jūsų patirtį."
 }

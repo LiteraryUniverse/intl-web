@@ -69,5 +69,16 @@ export default {
     'discovery.readFromStart': 'Читать с первой главы',
     'discovery.readLatest': 'Читать последнюю главу',
     'discovery.author': 'Автор',
-    'discovery.aiGenerated': 'Создано ИИ'
+    'discovery.aiGenerated': 'Создано ИИ',
+    // New AI content related strings
+    'discovery.ai.content': 'Контент, созданный искусственным интеллектом',
+    'discovery.ai.universes': 'Вселенные, созданные искусственным интеллектом',
+    'discovery.ai.stories': 'Истории, созданные искусственным интеллектом',
+    'discovery.ai.noContent': 'Контент, созданный искусственным интеллектом, пока не доступен.',
+    'discover.search.aiContent': 'AI Контент',
+    'discover.search.aiContent.both': 'Показать все содержимое',
+    'discover.search.aiContent.none': 'Скрывайте контент, созданный искусственным интеллектом',
+    'discover.search.aiContent.only': 'Показывайте только контент, созданный искусственным интеллектом',
+    'discovery.aiContent.indicator': 'Этот контент был создан с помощью искусственного интеллекта',
+    'discovery.aiContent.indicator.model': 'Модель AI: {model}'
 };

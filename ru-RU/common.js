@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Код двухфакторной авторизации',
     'common.2faCodeIntro': 'Введите одноразовый код, созданный вашим приложением авторизации.',
     'common.2faCodeAria': 'Форма ввода кода двухфакторной авторизации',
+    'common.aiContent.model.label': 'Модель искусственного интеллекта',
+    'common.aiContent.model.tooltip': 'Выберите модель ИИ, которая была использована для создания контента',
+    'common.other': 'Другие',
+    'common.aiContent.model.custom.label': 'Пользовательская модель искусственного интеллекта',
+    'common.aiContent.model.custom.placeholder': 'Введите название модели искусственного интеллекта',
+    'common.select': 'Выберите...',
     'common.flashnews': 'Новости',
     'common.defaultLanguage': 'Язык по умолчанию',
     'signin.web3.signMessage': 'Пожалуйста, подтвердите, что вы хотите войти в Literary Universe, используя свой кошелёк в качестве метода авторизации. Код: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Имя автора',
     'error.invalidFileType': 'Пожалуйста, выберите подходящий файл изображения (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'Размер изображения не должен превышать {mbSize, number}МБ.',
-    'error.fabricInitFailed': 'Не удалось инициализировать редактор изображений'
+    'error.fabricInitFailed': 'Не удалось инициализировать редактор изображений',
+    // File upload strings
+    'upload.files': 'Загруженные файлы',
+    'upload.dropHere': 'Бросьте свои файлы сюда...',
+    'upload.dragOrClick': 'Перетащите сюда файлы или нажмите, чтобы выбрать файлы.',
+    'upload.maxSize': 'Максимальный размер файла: {size}',
+    'upload.error.failed': 'Загрузка файла не удалась. Пожалуйста, попробуйте еще раз.',
+    'upload.error.tooManyFiles': 'Вы можете загрузить максимум {max} файлов.',
+    'upload.error.removeFile': 'Не удалось удалить файл. Пожалуйста, попробуйте еще раз.',
+    'actions.delete': 'Удалить',
+    'common.aiContent.indicator': 'Контент, созданный искусственным интеллектом',
+    'common.aiContent.tooltip': 'Этот контент был создан с помощью искусственного интеллекта',
+    'common.aiContent.model': 'Модель AI: {model}',
+    'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта'
 };

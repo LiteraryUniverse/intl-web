@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': '從第一章開始閱讀',
     'discovery.readLatest': '閱讀最新章節',
     'discovery.author': '作者',
-    'discovery.aiGenerated': 'AI 產生'
+    'discovery.aiGenerated': 'AI 產生',
+    // New AI content related strings
+    'discovery.ai.content': 'AI 產生的內容',
+    'discovery.ai.universes': 'AI 產生的宇宙',
+    'discovery.ai.stories': 'AI 產生的故事',
+    'discovery.ai.noContent': '目前尚未提供 AI 產生的內容。',
+    'discover.search.aiContent': 'AI 內容',
+    'discover.search.aiContent.both': '顯示所有內容',
+    'discover.search.aiContent.none': '隱藏 AI 產生的內容',
+    'discover.search.aiContent.only': '只顯示 AI 產生的內容',
+    'discovery.aiContent.indicator': '本內容由 AI 協助產生',
+    'discovery.aiContent.indicator.model': 'AI 機型： {model}'
 };

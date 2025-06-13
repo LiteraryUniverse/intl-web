@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA code',
     'common.2faCodeIntro': 'Voer alstublieft uw eenmalige code in die is gegenereerd door uw authenticator-applicatie.',
     'common.2faCodeAria': 'Formulier voor het invoeren van de 2FA-code',
+    'common.aiContent.model.label': 'AI-model',
+    'common.aiContent.model.tooltip': 'Selecteer het AI-model dat werd gebruikt om inhoud te genereren',
+    'common.other': 'Andere',
+    'common.aiContent.model.custom.label': 'Aangepast AI-model',
+    'common.aiContent.model.custom.placeholder': 'Voer de naam van het AI-model in',
+    'common.select': 'Selecteer...',
     'common.flashnews': 'Flashnieuws',
     'common.defaultLanguage': 'Standaardtaal',
     'signin.web3.signMessage': 'Bevestig alstublieft dat u Literary Universe wilt betreden met uw wallet als authenticatiemethode. Code: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Naam auteur',
     'error.invalidFileType': 'Selecteer een geldig afbeeldingsbestand (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'De afbeelding moet kleiner zijn dan {mbSize, number}MB',
-    'error.fabricInitFailed': 'De afbeeldingseditor is niet geïnitialiseerd'
+    'error.fabricInitFailed': 'De afbeeldingseditor is niet geïnitialiseerd',
+    // File upload strings
+    'upload.files': 'Geüploade bestanden',
+    'upload.dropHere': 'Drop uw bestanden hier...',
+    'upload.dragOrClick': 'Sleep bestanden hierheen, of klik om bestanden te selecteren',
+    'upload.maxSize': 'Maximale bestandsgrootte: {size}',
+    'upload.error.failed': 'Bestand uploaden mislukt. Probeer het opnieuw.',
+    'upload.error.tooManyFiles': 'U kunt maximaal {max} bestanden uploaden.',
+    'upload.error.removeFile': 'Het verwijderen van het bestand is mislukt. Probeer het opnieuw.',
+    'actions.delete': 'Verwijder',
+    'common.aiContent.indicator': 'AI-gegenereerde inhoud',
+    'common.aiContent.tooltip': 'Deze inhoud is gemaakt met AI-ondersteuning',
+    'common.aiContent.model': 'AI-model: {model}',
+    'common.aiContent.custom': 'Aangepast AI-model'
 };

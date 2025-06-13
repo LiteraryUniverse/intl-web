@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'শেষের তারিখ',
     'challenges.future': 'আসন্ন চ্যালেঞ্জসমূহ',
     'challenges.future.wordcount': 'শব্দগণনা চ্যালেঞ্জ {startDate, date, short} শুরু হচ্ছে, লক্ষ্য হচ্ছে {target, number} শব্দ লিখতে {endDate, date, short}এর মাধ্যমে।',
-    'challenges.future.nanowrimo': 'NaNoWriMo চ্যালেঞ্জ প্রস্তুত আছে।',
     'challenges.wordcount': 'শব্দ গণনা',
     'challenges.wordcount.desc': `এই {type, select,
     story {গল্প}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'রিপোর্ট',
     'challenges.victory': 'অভিনন্দন! আপনি এই চ্যালেঞ্জটি সম্পন্ন করেছেন।',
     'challenges.defeat': 'দুঃখিত আপনি এই চ্যালেঞ্জটি সম্পন্ন করেননি।',
-    'challenges.baseline': 'এই গল্পৰ বৰ্তমান শব্দগণনা {wordcount, number}, এইটো শুৰুৱাতী বিন্দু হব।',
-    // NaNoWriMo
-    'nanowrimo.full': 'জাতীয় উপন্যাস লেখন মাস',
-    'nanowrimo.site': 'NaNoWriMo অফিসিয়াল সাইট',
-    'nanowrimo.settings': 'NaNoWriMo অ্যাকাউন্ট',
-    'nanowrimo.username': 'NaNoWriMo ব্যবহারকারী নাম',
-    'nanowrimo.key': 'গোপন কী',
-    'nanowrimo.key.get': 'আপোনাৰ NaNoWriMo কী পাবলগী।',
-    'nanowrimo.key.get.notice': 'আপুনি লগ ইন হওক আৰু এইটো চাবলৈ।',
-    'nanowrimo.ongoing': 'পূর্ণ গতিতে আছে! {countdown} আরো দিন বাকি আছে!',
-    'nanowrimo.startsin': `{countdown, plural,
-      one {দিনে শুরু হবে! 1 দিন}
-      other {# দিন}
-    }! প্রস্তুত হোন!`,
-    'nanowrimo.isover': 'NaNoWriMo শেষ হয়ে গেছে। আগামী বছর দেখা হবে!',
-    'nanowrimo.select': 'এই গল্পটি জন্য NaNoWriMo-তে নির্ধারণ করুন।',
-    'nanowrimo.baseline': 'NaNoWriMo শুরু হলে এটি বর্তমান শব্দগণনা নিবন্ধটি নিঃশেষে গ্রহণ করবে এবং যেকোনো অতিরিক্ত শব্দগণনা এটার অংশ হিসাবে নেওয়া হবে।',
-    'nanowrimo.victory': 'অভিনন্দন! আপনি NaNoWriMo জিতেছেন!',
-    'nanowrimo.challenge': 'NaNoWriMo চ্যালেঞ্জ',
-    'nanowrimo.description': 'চ্যালেঞ্জ হলো নভেম্বর মাসে একটি {words, number} শব্দের উপন্যাস লিখা।',
-    'nanowrimo.error.usernotfound': 'ব্যবহারকারীর নামটি NaNoWriMo সার্ভারগুলিতে পাওয়া যায়নি।',
-    'nanowrimo.error.nobook': 'কোনও বই পাওয়া যায়নি। অনুগ্রহ করে নিশ্চিত করুন আপনি NaNoWriMo-তে আপনার বইটি তৈরি করেছেন।',
-    'nanowrimo.error.wordcount': 'NaNoWrimo-তে শব্দগণনা সেট করতে অক্ষম, দয়া করে আপনার শব্দগণনা তথ্যগুলি দ্বিতীয়বার পরীক্ষা করুন এবং আবার চেষ্টা করুন।',
-    'nanowrimo.connected': 'আপনি এই গল্পটি NaNoWriMo-তে নির্ধারণ করেছেন।',
-    'nanowrimo.connected.other': 'আপনি ইতিমধ্যে অন্য একটি গল্পে সংযুক্ত করেছেন।'
+    'challenges.baseline': 'এই গল্পৰ বৰ্তমান শব্দগণনা {wordcount, number}, এইটো শুৰুৱাতী বিন্দু হব।'
 };

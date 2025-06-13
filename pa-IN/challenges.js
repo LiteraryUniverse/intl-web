@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'ਅੰਤ ਦੀ ਮਿਤੀ',
     'challenges.future': 'ਆਉਣ ਵਾਲੀਆਂ ਚੁਣੋਤੀਆਂ',
     'challenges.future.wordcount': 'ਸ਼ਬਦਗਣ ਚੈਲੈਂਜ ਦੀ ਸ਼ੁਰੂਆਤ {startDate, date, short} ਨਾਲ ਕਰੋ, ਜਿਸ ਦਾ ਲਕ੍਷਼ਾਂਕ ਹੈ {target, number} ਨੂੰ {endDate, date, short}ਤੱਕ ਪਹੁੰਚਾਉਣਾ।',
-    'challenges.future.nanowrimo': 'NaNoWriMo ਚੁਣੋਤੀ ਤਿਆਰ ਹੈ।',
     'challenges.wordcount': 'ਸ਼ਬਦਾਂ ਦੀ ਗਿਣਤੀ',
     'challenges.wordcount.desc': `ਇਸ ਮਹੀਨੇ ਇਸ {type, select,
     story {ਕਹਾਣੀ}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'ਰਿਪੋਰਟ',
     'challenges.victory': 'ਮੁਬਾਰਕਾਂ! ਤੁਸੀਂ ਇਸ ਚੁਣੋਤੀ ਨੂੰ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ।',
     'challenges.defeat': 'ਖੇਦ ਹੋਇਆ ਕਿ ਤੁਸੀਂ ਇਸ ਚੁਣੋਤੀ ਨੂੰ ਪੂਰਾ ਨਹੀਂ ਕਰ ਸਕੇ।',
-    'challenges.baseline': 'ਇਸ ਕਹਾਣੀ ਦਾ ਮੌਜੂਦਾ ਸ਼ਬਦਗਣਤਾ ਹੈ {wordcount, number}, ਇਹ ਸ਼ੁਰੂਆਤੀ ਬਿੰਦੂ ਹੋਵੇਗਾ।',
-    // NaNoWriMo
-    'nanowrimo.full': 'ਨੈਸ਼ਨਲ ਨਾਵਲ ਲੇਖਣ ਮਹੀਨਾ',
-    'nanowrimo.site': 'NaNoWriMo ਆਧਿਕਾਰਿਕ ਸਾਈਟ',
-    'nanowrimo.settings': 'NaNoWriMo ਖਾਤਾ',
-    'nanowrimo.username': 'NaNoWriMo ਯੂਜ਼ਰਨਾਮ',
-    'nanowrimo.key': 'ਗੁਪਤ ਕੁੰਜੀ',
-    'nanowrimo.key.get': 'ਆਪਣਾ NaNoWriMo ਕੀ ਪ੍ਰਾਪਤ ਕਰੋ।',
-    'nanowrimo.key.get.notice': 'ਇਸ ਨੂੰ ਵੇਖਣ ਲਈ ਤੁਸੀਂ ਲੌਗ ਇਨ ਹੋਣ ਦੀ ਲੋੜ ਹੈ।',
-    'nanowrimo.ongoing': 'ਪੂਰੀ ਤੇਜੀ ਹੋ ਰਹੀ ਹੈ! ਹੋਰ {countdown} ਦਿਨ ਬਾਕੀ ਹਨ!',
-    'nanowrimo.startsin': `ਸ਼ੁਰੂ ਹੋਵੇਗਾ {countdown, plural,
-      one {1 ਦਿਨ}
-      other {# ਦਿਨ}
-    }! ਤਿਆਰ ਹੋ ਜਾਓ!`,
-    'nanowrimo.isover': 'NaNoWriMo ਖਤਮ ਹੋ ਗਿਆ ਹੈ। ਅਗਲੇ ਸਾਲ ਮਿਲਾਂਗੇ!',
-    'nanowrimo.select': 'ਇਸ ਕਹਾਣੀ ਨੂੰ NaNoWriMo ਲਈ ਨਿਯੁਕਤ ਕਰੋ।',
-    'nanowrimo.baseline': 'NaNoWriMo ਸ਼ੁਰੂ ਹੋਣ ਤੇ ਉਹ ਮੌਜੂਦਾ ਸ਼ਬਦਗਣਤੀ ਨੂੰ ਬੇਸਲਾਈਨ ਵਜੋਂ ਲੈਣਗਾ, ਜਿਸ ਵਿੱਚ ਕੋਈ ਵਾਧੂ ਸ਼ਬਦ ਹੋਵੇਗਾ।',
-    'nanowrimo.victory': 'ਮੁਬਾਰਕਾਂ! ਤੁਸੀਂ NaNoWriMo ਜਿੱਤ ਗਏ ਹੋ!',
-    'nanowrimo.challenge': 'NaNoWriMo ਚੈਲੰਜ',
-    'nanowrimo.description': 'ਚੈਲੰਜ ਹੈ ਨਵੰਬਰ ਦੌਰਾਨ {words, number} ਸ਼ਬਦਾਂ ਦੀ ਇੱਕ ਨਾਵਲ ਲਿਖਣ ਵਾਲੀ।',
-    'nanowrimo.error.usernotfound': 'ਯੂਜ਼ਰਨੇਮ NaNoWriMo ਸਰਵਰਾਂ \'ਤੇ ਨਹੀਂ ਲੱਭਿਆ ਗਿਆ ਹੈ।',
-    'nanowrimo.error.nobook': 'ਕੋਈ ਕਿਤਾਬ ਨਹੀਂ ਲੱਭੀ। ਕਿਰਪਾ ਕਰਕੇ ਦੱਸੋ ਕਿ ਤੁਸੀਂ ਨਾਨੋਵ੍ਰਿਮੋ \'ਤੇ ਆਪਣੀ ਕਿਤਾਬ ਬਣਾਈ ਹੈ ਜੀ।',
-    'nanowrimo.error.wordcount': 'NaNoWrimo \'ਤੇ ਸ਼ਬਦਗਣਤੀ ਸੈੱਟ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਕ੍ਰੈਡੈਂਸ਼ਿਅਲਾਂ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।',
-    'nanowrimo.connected': 'ਤੁਸੀਂ ਇਸ ਕਹਾਣੀ ਨੂੰ NaNoWriMo ਲਈ ਨਿਯੁਕਤ ਕੀਤਾ ਹੈ।',
-    'nanowrimo.connected.other': 'ਤੁਸੀਂ ਪਹਿਲਾਂ ਹੀ ਕੋਈ ਹੋਰ ਕਹਾਣੀ ਜੁੜ ਗਏ ਹੋ।'
+    'challenges.baseline': 'ਇਸ ਕਹਾਣੀ ਦਾ ਮੌਜੂਦਾ ਸ਼ਬਦਗਣਤਾ ਹੈ {wordcount, number}, ਇਹ ਸ਼ੁਰੂਆਤੀ ਬਿੰਦੂ ਹੋਵੇਗਾ।'
 };

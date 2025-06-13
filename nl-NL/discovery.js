@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Lees vanaf het eerste hoofdstuk',
     'discovery.readLatest': 'Lees het laatste hoofdstuk',
     'discovery.author': 'Auteur',
-    'discovery.aiGenerated': 'AI-gegenereerd'
+    'discovery.aiGenerated': 'AI-gegenereerd',
+    // New AI content related strings
+    'discovery.ai.content': 'AI-gegenereerde inhoud',
+    'discovery.ai.universes': 'AI-gegenereerde Universums',
+    'discovery.ai.stories': 'AI-verhalen',
+    'discovery.ai.noContent': 'Er is nog geen AI-gegenereerde inhoud beschikbaar.',
+    'discover.search.aiContent': 'AI-inhoud',
+    'discover.search.aiContent.both': 'Toon alle inhoud',
+    'discover.search.aiContent.none': 'AI-gegenereerde inhoud verbergen',
+    'discover.search.aiContent.only': 'Toon alleen AI-gegenereerde inhoud',
+    'discovery.aiContent.indicator': 'Deze inhoud werd gegenereerd met AI-hulp',
+    'discovery.aiContent.indicator.model': 'AI-model: {model}'
 };

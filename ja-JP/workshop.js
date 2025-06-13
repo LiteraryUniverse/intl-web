@@ -294,5 +294,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'ユニバースでパブリッシングの禁止設定が有効になっているため、パブリッシングが禁止されています。',
     'workshop.revisions.new.public.disabled': 'ストーリー設定でパブリッシュを防止する設定が有効になっている場合、パブリッシュできません。',
     'workshop.publishing.restricted': '善行違反のため、私たちはあなたの出版能力を無効にしました。',
-    'workshop.story.buyingSettings': 'セール設定'
+    'workshop.story.buyingSettings': 'セール設定',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'AIが生成したコンテンツ',
+    'workshop.chapter.aiGenerated.tooltip': 'この章にAIが作成したコンテンツが含まれているとマークする',
+    'workshop.chapter.aiGenerated.description': 'この章には、AIの支援を受けて作成されたコンテンツが含まれている。',
+    'workshop.chapter.aiModel': 'AIモデル',
+    'workshop.chapter.aiModel.tooltip': 'コンテンツ生成に使用したAIモデルを選択する',
+    'workshop.chapter.aiModel.custom': 'カスタム',
+    'workshop.chapter.aiModel.custom.placeholder': 'AIモデルの名前を入力',
+    'workshop.chapter.aiGenerated.locked': 'AIコンテンツマーキングは、モデレーションチームによって調整されているため、変更することはできません。',
+    'workshop.monetization.aiNotEligible': 'AIが生成したコンテンツは収益化の対象にはならない。'
 };

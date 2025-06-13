@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'اقرأ من الفصل الأول',
     'discovery.readLatest': 'اقرأ أحدث الفصول',
     'discovery.author': 'المؤلف',
-    'discovery.aiGenerated': 'إنشاء الذكاء الاصطناعي'
+    'discovery.aiGenerated': 'إنشاء الذكاء الاصطناعي',
+    // New AI content related strings
+    'discovery.ai.content': 'المحتوى المُنشأ بالذكاء الاصطناعي',
+    'discovery.ai.universes': 'الأكوان المولدة بالذكاء الاصطناعي',
+    'discovery.ai.stories': 'القصص التي تم إنشاؤها بالذكاء الاصطناعي',
+    'discovery.ai.noContent': 'لا يتوفر حتى الآن أي محتوى من إنشاء الذكاء الاصطناعي.',
+    'discover.search.aiContent': 'محتوى الذكاء الاصطناعي',
+    'discover.search.aiContent.both': 'إظهار كل المحتوى',
+    'discover.search.aiContent.none': 'إخفاء المحتوى الذي تم إنشاؤه بالذكاء الاصطناعي',
+    'discover.search.aiContent.only': 'عرض المحتوى الذي تم إنشاؤه بالذكاء الاصطناعي فقط',
+    'discovery.aiContent.indicator': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
+    'discovery.aiContent.indicator.model': 'نموذج الذكاء الاصطناعي: {model}'
 };

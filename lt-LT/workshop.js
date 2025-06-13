@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Publikuoti neleidžiama, nes visatoje įjungtas nustatymas neleisti publikuoti.',
     'workshop.revisions.new.public.disabled': 'Negalima publikuoti, kai istorijos nustatymuose įjungta funkcija neleisti publikuoti.',
     'workshop.publishing.restricted': 'Dėl geros elgsenos pažeidimo atjungėme jūsų galimybę publikuoti.',
-    'workshop.story.buyingSettings': 'Pardavimo nustatymai'
+    'workshop.story.buyingSettings': 'Pardavimo nustatymai',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'dirbtinio intelekto sukurtas turinys',
+    'workshop.chapter.aiGenerated.tooltip': 'Pažymėkite šį skyrių kaip skyrių, kuriame yra dirbtinio intelekto sukurto turinio',
+    'workshop.chapter.aiGenerated.description': 'Šiame skyriuje pateikiamas turinys, kuris buvo sukurtas naudojantis dirbtinio intelekto pagalba.',
+    'workshop.chapter.aiModel': 'AI modelis',
+    'workshop.chapter.aiModel.tooltip': 'Pasirinkite dirbtinio intelekto modelį, kuris buvo naudojamas turiniui generuoti',
+    'workshop.chapter.aiModel.custom': 'Pasirinktinis',
+    'workshop.chapter.aiModel.custom.placeholder': 'Įveskite dirbtinio intelekto modelio pavadinimą',
+    'workshop.chapter.aiGenerated.locked': 'AI turinio žymėjimo negalima keisti, nes jį pakoregavo moderatorių komanda.',
+    'workshop.monetization.aiNotEligible': 'Iš dirbtinio intelekto sukurto turinio negalima gauti pajamų.'
 };

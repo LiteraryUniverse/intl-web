@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Code 2FA',
     'common.2faCodeIntro': 'Veuillez entrer votre code à usage unique généré par votre application d\'authentification.',
     'common.2faCodeAria': 'Formulaire de saisie du code 2FA',
+    'common.aiContent.model.label': 'Modèle d\'IA',
+    'common.aiContent.model.tooltip': 'Sélectionnez le modèle d\'IA utilisé pour générer le contenu',
+    'common.other': 'Autre',
+    'common.aiContent.model.custom.label': 'Modèle d\'IA personnalisé',
+    'common.aiContent.model.custom.placeholder': 'Saisissez le nom du modèle d\'IA',
+    'common.select': 'Sélectionnez...',
     'common.flashnews': 'Dernières actualités',
     'common.defaultLanguage': 'Langue par défaut',
     'signin.web3.signMessage': 'Veuillez confirmer que vous voulez entrer dans l\'Univers Littéraire avec votre portefeuille comme méthode d\'authentification. Code : {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Nom de l\'auteur',
     'error.invalidFileType': 'Veuillez sélectionner un fichier image valide (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'L\'image doit être inférieure à {mbSize, number}MB',
-    'error.fabricInitFailed': 'Échec de l\'initialisation de l\'éditeur d\'images'
+    'error.fabricInitFailed': 'Échec de l\'initialisation de l\'éditeur d\'images',
+    // File upload strings
+    'upload.files': 'Fichiers téléchargés',
+    'upload.dropHere': 'Déposez vos fichiers ici...',
+    'upload.dragOrClick': 'Faites glisser et déposez des fichiers ici, ou cliquez pour sélectionner des fichiers.',
+    'upload.maxSize': 'Taille maximale du fichier : {size}',
+    'upload.error.failed': 'Le téléchargement du fichier a échoué. Veuillez réessayer.',
+    'upload.error.tooManyFiles': 'Vous pouvez télécharger un maximum de {max} fichiers.',
+    'upload.error.removeFile': 'Échec de la suppression du fichier. Veuillez réessayer.',
+    'actions.delete': 'Supprimer',
+    'common.aiContent.indicator': 'Contenu généré par l\'IA',
+    'common.aiContent.tooltip': 'Ce contenu a été créé avec l\'aide de l\'IA',
+    'common.aiContent.model': 'Modèle AI : {model}',
+    'common.aiContent.custom': 'Modèle d\'IA personnalisé'
 };

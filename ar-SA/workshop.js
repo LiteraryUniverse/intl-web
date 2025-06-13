@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'تم منع النشر بسبب تمكين إعداد منع النشر في الكون.',
     'workshop.revisions.new.public.disabled': 'لا يمكن النشر أثناء تمكين منع النشر في إعدادات القصة.',
     'workshop.publishing.restricted': 'بسبب مخالفة حسن السيرة والسلوك قمنا بتعطيل قدرتك على النشر.',
-    'workshop.story.buyingSettings': 'إعدادات البيع'
+    'workshop.story.buyingSettings': 'إعدادات البيع',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'المحتوى المُنشأ بالذكاء الاصطناعي',
+    'workshop.chapter.aiGenerated.tooltip': 'ضع علامة على هذا الفصل على أنه يحتوي على محتوى من إنشاء الذكاء الاصطناعي',
+    'workshop.chapter.aiGenerated.description': 'يحتوي هذا الفصل على محتوى تم إنشاؤه بمساعدة الذكاء الاصطناعي.',
+    'workshop.chapter.aiModel': 'نموذج الذكاء الاصطناعي',
+    'workshop.chapter.aiModel.tooltip': 'حدد نموذج الذكاء الاصطناعي الذي تم استخدامه لإنشاء المحتوى',
+    'workshop.chapter.aiModel.custom': 'مخصص',
+    'workshop.chapter.aiModel.custom.placeholder': 'أدخل اسم نموذج الذكاء الاصطناعي',
+    'workshop.chapter.aiGenerated.locked': 'لا يمكن تغيير علامات محتوى الذكاء الاصطناعي لأنه تم تعديلها من قبل فريق الإشراف.',
+    'workshop.monetization.aiNotEligible': 'المحتوى الذي ينشئه الذكاء الاصطناعي غير مؤهل لتحقيق الدخل.'
 };

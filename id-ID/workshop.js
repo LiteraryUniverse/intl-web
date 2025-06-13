@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Penerbitan dicegah karena alam semesta mengaktifkan pengaturan cegah penerbitan.',
     'workshop.revisions.new.public.disabled': 'Tidak dapat menerbitkan saat mencegah penerbitan diaktifkan di pengaturan cerita.',
     'workshop.publishing.restricted': 'Karena pelanggaran tata tertib, kami telah menonaktifkan kemampuan Anda untuk mempublikasikan.',
-    'workshop.story.buyingSettings': 'Pengaturan penjualan'
+    'workshop.story.buyingSettings': 'Pengaturan penjualan',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Konten yang Dihasilkan AI',
+    'workshop.chapter.aiGenerated.tooltip': 'Tandai bab ini sebagai berisi konten yang dibuat oleh AI',
+    'workshop.chapter.aiGenerated.description': 'Bab ini berisi konten yang dihasilkan dengan bantuan AI.',
+    'workshop.chapter.aiModel': 'Model AI',
+    'workshop.chapter.aiModel.tooltip': 'Pilih model AI yang digunakan untuk menghasilkan konten',
+    'workshop.chapter.aiModel.custom': 'Kustom',
+    'workshop.chapter.aiModel.custom.placeholder': 'Masukkan nama model AI',
+    'workshop.chapter.aiGenerated.locked': 'Penandaan konten AI tidak dapat diubah karena telah disesuaikan oleh tim moderasi.',
+    'workshop.monetization.aiNotEligible': 'Konten yang dihasilkan oleh AI tidak memenuhi syarat untuk dimonetisasi.'
 };

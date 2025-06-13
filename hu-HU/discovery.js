@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Olvasás az első fejezettől',
     'discovery.readLatest': 'Legfrissebb fejezet olvasása',
     'discovery.author': 'Szerző',
-    'discovery.aiGenerated': 'AI generált'
+    'discovery.aiGenerated': 'AI generált',
+    // New AI content related strings
+    'discovery.ai.content': 'AI-generált tartalom',
+    'discovery.ai.universes': 'Mesterséges intelligencia által generált univerzumok',
+    'discovery.ai.stories': 'AI-generált történetek',
+    'discovery.ai.noContent': 'Még nem áll rendelkezésre mesterséges intelligencia által generált tartalom.',
+    'discover.search.aiContent': 'AI tartalom',
+    'discover.search.aiContent.both': 'Minden tartalom megjelenítése',
+    'discover.search.aiContent.none': 'AI által generált tartalom elrejtése',
+    'discover.search.aiContent.only': 'Csak mesterséges intelligencia által generált tartalom megjelenítése',
+    'discovery.aiContent.indicator': 'Ez a tartalom mesterséges intelligencia segítségével készült',
+    'discovery.aiContent.indicator.model': 'AI modell: {model}'
 };

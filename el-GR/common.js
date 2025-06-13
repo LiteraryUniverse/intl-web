@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Κωδικός 2FA',
     'common.2faCodeIntro': 'Παρακαλώ εισάγετε τον μονού χρήσης κωδικό που δημιουργήθηκε από την εφαρμογή επαλήθευσης ταυτότητας σας.',
     'common.2faCodeAria': 'Φόρμα εισαγωγής κωδικού 2FA',
+    'common.aiContent.model.label': 'Μοντέλο AI',
+    'common.aiContent.model.tooltip': 'Επιλέξτε το μοντέλο τεχνητής νοημοσύνης που χρησιμοποιήθηκε για τη δημιουργία περιεχομένου',
+    'common.other': 'Άλλα',
+    'common.aiContent.model.custom.label': 'Προσαρμοσμένο μοντέλο AI',
+    'common.aiContent.model.custom.placeholder': 'Εισάγετε το όνομα του μοντέλου AI',
+    'common.select': 'Επιλέξτε...',
     'common.flashnews': 'Flashnews',
     'common.defaultLanguage': 'Προεπιλεγμένη γλώσσα',
     'signin.web3.signMessage': 'Παρακαλώ επιβεβαιώστε ότι θέλετε να εισέλθετε στο Λογοτεχνικό Σύμπαν με το πορτοφόλι σας ως μέθοδο επαλήθευσης. Κωδικός: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Όνομα συγγραφέα',
     'error.invalidFileType': 'Παρακαλούμε επιλέξτε ένα έγκυρο αρχείο εικόνας (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Η εικόνα πρέπει να είναι μικρότερη από {mbSize, number}MB',
-    'error.fabricInitFailed': 'Απέτυχε η αρχικοποίηση του επεξεργαστή εικόνας'
+    'error.fabricInitFailed': 'Απέτυχε η αρχικοποίηση του επεξεργαστή εικόνας',
+    // File upload strings
+    'upload.files': 'Ανεβασμένα αρχεία',
+    'upload.dropHere': 'Αφήστε τα αρχεία σας εδώ...',
+    'upload.dragOrClick': 'Σύρετε και αφήστε αρχεία εδώ ή κάντε κλικ για να επιλέξετε αρχεία',
+    'upload.maxSize': 'Μέγιστο μέγεθος αρχείου: {size}',
+    'upload.error.failed': 'Το ανέβασμα αρχείου απέτυχε. Προσπαθήστε ξανά.',
+    'upload.error.tooManyFiles': 'Μπορείτε να μεταφορτώσετε το μέγιστο αριθμό αρχείων {max} .',
+    'upload.error.removeFile': 'Απέτυχε η αφαίρεση του αρχείου. Προσπαθήστε ξανά.',
+    'actions.delete': 'Διαγραφή',
+    'common.aiContent.indicator': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
+    'common.aiContent.tooltip': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια της AI',
+    'common.aiContent.model': 'Μοντέλο AI: {model}',
+    'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI'
 };

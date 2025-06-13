@@ -69,5 +69,16 @@ export default {
     'discovery.readFromStart': 'Читати з першої глави',
     'discovery.readLatest': 'Читати останню главу',
     'discovery.author': 'Автор',
-    'discovery.aiGenerated': 'Створено штучним інтелектом'
+    'discovery.aiGenerated': 'Створено штучним інтелектом',
+    // New AI content related strings
+    'discovery.ai.content': 'Контент, створений штучним інтелектом',
+    'discovery.ai.universes': 'Всесвіти, створені штучним інтелектом',
+    'discovery.ai.stories': 'Історії, створені штучним інтелектом',
+    'discovery.ai.noContent': 'Контент, створений штучним інтелектом, поки що недоступний.',
+    'discover.search.aiContent': 'Вміст штучного інтелекту',
+    'discover.search.aiContent.both': 'Показати весь вміст',
+    'discover.search.aiContent.none': 'Приховати вміст, створений штучним інтелектом',
+    'discover.search.aiContent.only': 'Показувати лише вміст, згенерований штучним інтелектом',
+    'discovery.aiContent.indicator': 'Цей контент створено за допомогою штучного інтелекту',
+    'discovery.aiContent.indicator.model': 'Модель штучного інтелекту: {model}'
 };

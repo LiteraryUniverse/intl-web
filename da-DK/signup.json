@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organiser historier, du vil læse eller har læst, i lister.",
 	"signup.wizard.complete.reader.step3.title": "Bliv en del af fællesskabet",
 	"signup.wizard.complete.reader.step3.description": "Kom i kontakt med forfattere og andre læsere for at diskutere historier, du elsker.",
-	"signup.saveProgress": "Gem fremskridt og fortsæt senere"
+	"signup.saveProgress": "Gem fremskridt og fortsæt senere",
+	"signup.stepCount": "Trin {current, number} af {total, number}",
+	"signup.writer.goals.description": "Fortæl os om din skriveerfaring.",
+	"signup.complete.title": "Så er du klar!",
+	"signup.complete.description": "Tak, fordi du har udfyldt din profil. Vi har tilpasset din oplevelse ud fra dine præferencer."
 }

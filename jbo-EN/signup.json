@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organize stories you want to read or have read into lists.",
 	"signup.wizard.complete.reader.step3.title": "Join the community",
 	"signup.wizard.complete.reader.step3.description": "Connect with authors and other readers to discuss stories you love.",
-	"signup.saveProgress": "Save progress and continue later"
+	"signup.saveProgress": "Save progress and continue later",
+	"signup.stepCount": "Step {current, number} of {total, number}",
+	"signup.writer.goals.description": "Tell us about your writing experience.",
+	"signup.complete.title": "You're all set!",
+	"signup.complete.description": "Thank you for completing your profile. We've customized your experience based on your preferences."
 }

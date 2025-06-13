@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Ler desde o primeiro capítulo',
     'discovery.readLatest': 'Ler o último capítulo',
     'discovery.author': 'Autor',
-    'discovery.aiGenerated': 'Gerado por IA'
+    'discovery.aiGenerated': 'Gerado por IA',
+    // New AI content related strings
+    'discovery.ai.content': 'Conteúdo gerado por IA',
+    'discovery.ai.universes': 'Universos gerados por IA',
+    'discovery.ai.stories': 'Histórias geradas por IA',
+    'discovery.ai.noContent': 'Ainda não há conteúdo gerado por IA disponível.',
+    'discover.search.aiContent': 'Conteúdo de IA',
+    'discover.search.aiContent.both': 'Mostrar todo o conteúdo',
+    'discover.search.aiContent.none': 'Ocultar conteúdo gerado por IA',
+    'discover.search.aiContent.only': 'Mostrar apenas conteúdo gerado por IA',
+    'discovery.aiContent.indicator': 'Este conteúdo foi gerado com a ajuda de IA',
+    'discovery.aiContent.indicator.model': 'Modelo de IA: {model}'
 };

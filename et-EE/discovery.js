@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Lugeda esimesest peatükist',
     'discovery.readLatest': 'Lugeda viimast peatükist',
     'discovery.author': 'Autor',
-    'discovery.aiGenerated': 'AI loodud'
+    'discovery.aiGenerated': 'AI loodud',
+    // New AI content related strings
+    'discovery.ai.content': 'Tehisintellekti loodud sisu',
+    'discovery.ai.universes': 'Tehisintellekti loodud universumid',
+    'discovery.ai.stories': 'Tehisintellekti loodud lood',
+    'discovery.ai.noContent': 'AI-genereeritud sisu ei ole veel saadaval.',
+    'discover.search.aiContent': 'AI sisu',
+    'discover.search.aiContent.both': 'Näita kogu sisu',
+    'discover.search.aiContent.none': 'Peida tehisintellekti loodud sisu',
+    'discover.search.aiContent.only': 'Näita ainult tehisintellekti loodud sisu',
+    'discovery.aiContent.indicator': 'See sisu on loodud tehisintellekti abiga',
+    'discovery.aiContent.indicator.model': 'AI mudel: {model}'
 };

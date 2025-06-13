@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA કોડ',
     'common.2faCodeIntro': 'કૃપા કરીને તમારા એક વખતનો કોડ દાખલ કરો જે તમારા પ્રમાણીકરણ એપ્લિકેશન દ્વારા ઉત્પન્ન થયો હોય.',
     'common.2faCodeAria': '2FA કોડ દાખલ કરવાની ફોર્મ',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'ફ્લેશન્યૂઝ',
     'common.defaultLanguage': 'મૂળભૂત ભાષા',
     'signin.web3.signMessage': 'કૃપા કરીને ખોરાક યુનિવર્સનમાં તમારી વોલેટ તરીકે પ્રવેશ કરવાની ખાતરી કરો. કોડ: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Author Name',
     'error.invalidFileType': 'Please select a valid image file (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Image must be less than {mbSize, number}MB',
-    'error.fabricInitFailed': 'Failed to initialize the image editor'
+    'error.fabricInitFailed': 'Failed to initialize the image editor',
+    // File upload strings
+    'upload.files': 'Uploaded Files',
+    'upload.dropHere': 'Drop your files here...',
+    'upload.dragOrClick': 'Drag and drop files here, or click to select files',
+    'upload.maxSize': 'Maximum file size: {size}',
+    'upload.error.failed': 'File upload failed. Please try again.',
+    'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
+    'upload.error.removeFile': 'Failed to remove file. Please try again.',
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };

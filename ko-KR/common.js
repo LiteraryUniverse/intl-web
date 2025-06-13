@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA 코드',
     'common.2faCodeIntro': '인증자 애플리케이션에서 생성된 일회용 코드를 입력해주세요.',
     'common.2faCodeAria': '2FA 코드 입력 양식',
+    'common.aiContent.model.label': 'AI 모델',
+    'common.aiContent.model.tooltip': '콘텐츠 생성에 사용된 AI 모델을 선택합니다.',
+    'common.other': '기타',
+    'common.aiContent.model.custom.label': '맞춤형 AI 모델',
+    'common.aiContent.model.custom.placeholder': 'AI 모델의 이름을 입력합니다.',
+    'common.select': '선택...',
     'common.flashnews': '플래시뉴스',
     'common.defaultLanguage': '기본 언어',
     'signin.web3.signMessage': '웹3을 사용하여 Literary Universe에 지갑으로 인증하려는 것을 확인해주세요. 코드: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': '작성자 이름',
     'error.invalidFileType': '유효한 이미지 파일(JPEG, PNG, GIF, WebP)을 선택하세요.',
     'error.fileTooLarge': '이미지는 {mbSize, number}MB 미만이어야 합니다.',
-    'error.fabricInitFailed': '이미지 편집기를 초기화하지 못했습니다.'
+    'error.fabricInitFailed': '이미지 편집기를 초기화하지 못했습니다.',
+    // File upload strings
+    'upload.files': '업로드된 파일',
+    'upload.dropHere': '여기에 파일 업로드...',
+    'upload.dragOrClick': '파일을 여기로 끌어다 놓거나 클릭하여 파일을 선택합니다.',
+    'upload.maxSize': '최대 파일 크기: {size}',
+    'upload.error.failed': '파일 업로드에 실패했습니다. 다시 시도해 주세요.',
+    'upload.error.tooManyFiles': '최대 {max} 파일까지 업로드할 수 있습니다.',
+    'upload.error.removeFile': '파일을 제거하지 못했습니다. 다시 시도하세요.',
+    'actions.delete': '삭제',
+    'common.aiContent.indicator': 'AI 생성 콘텐츠',
+    'common.aiContent.tooltip': '이 콘텐츠는 AI의 도움을 받아 제작되었습니다.',
+    'common.aiContent.model': 'AI 모델: {model}',
+    'common.aiContent.custom': '맞춤형 AI 모델'
 };

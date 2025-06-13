@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA-koodi',
     'common.2faCodeIntro': 'Syötä kertakäyttöinen koodi, jonka sinun tunnistussovelluksesi on luonut.',
     'common.2faCodeAria': '2FA-koodin syöttölomake',
+    'common.aiContent.model.label': 'Tekoälymalli',
+    'common.aiContent.model.tooltip': 'Valitse sisällön tuottamiseen käytetty tekoälymalli.',
+    'common.other': 'Muut',
+    'common.aiContent.model.custom.label': 'Mukautettu tekoälymalli',
+    'common.aiContent.model.custom.placeholder': 'Kirjoita tekoälymallin nimi',
+    'common.select': 'Valitse...',
     'common.flashnews': 'Flash-uutiset',
     'common.defaultLanguage': 'Oletuskieli',
     'signin.web3.signMessage': 'Vahvista, että haluat kirjautua Literary Universeen lompakkosi avulla. Koodi: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Kirjoittajan nimi',
     'error.invalidFileType': 'Valitse kelvollinen kuvatiedosto (JPEG, PNG, GIF, WebP).',
     'error.fileTooLarge': 'Kuvan on oltava pienempi kuin {mbSize, number}MB',
-    'error.fabricInitFailed': 'Kuvankäsittelyohjelman alustaminen epäonnistui'
+    'error.fabricInitFailed': 'Kuvankäsittelyohjelman alustaminen epäonnistui',
+    // File upload strings
+    'upload.files': 'Ladatut tiedostot',
+    'upload.dropHere': 'Pudota tiedostosi tänne...',
+    'upload.dragOrClick': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.',
+    'upload.maxSize': 'Tiedoston enimmäiskoko: {size}',
+    'upload.error.failed': 'Tiedoston lataus epäonnistui. Yritä uudelleen.',
+    'upload.error.tooManyFiles': 'Voit ladata enintään {max} tiedostoja.',
+    'upload.error.removeFile': 'Tiedoston poistaminen epäonnistui. Yritä uudelleen.',
+    'actions.delete': 'Poista',
+    'common.aiContent.indicator': 'Tekoälyn luoma sisältö',
+    'common.aiContent.tooltip': 'Tämä sisältö on luotu tekoälyn avustuksella',
+    'common.aiContent.model': 'AI-malli: {model}',
+    'common.aiContent.custom': 'Mukautettu tekoälymalli'
 };

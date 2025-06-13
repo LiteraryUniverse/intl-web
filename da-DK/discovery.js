@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Læs fra første kapitel',
     'discovery.readLatest': 'Læs det seneste kapitel',
     'discovery.author': 'Forfatter',
-    'discovery.aiGenerated': 'AI-genereret'
+    'discovery.aiGenerated': 'AI-genereret',
+    // New AI content related strings
+    'discovery.ai.content': 'AI-genereret indhold',
+    'discovery.ai.universes': 'AI-genererede universer',
+    'discovery.ai.stories': 'AI-genererede historier',
+    'discovery.ai.noContent': 'Intet AI-genereret indhold tilgængeligt endnu.',
+    'discover.search.aiContent': 'AI-indhold',
+    'discover.search.aiContent.both': 'Vis alt indhold',
+    'discover.search.aiContent.none': 'Skjul AI-genereret indhold',
+    'discover.search.aiContent.only': 'Vis kun AI-genereret indhold',
+    'discovery.aiContent.indicator': 'Dette indhold blev genereret med AI-assistance',
+    'discovery.aiContent.indicator.model': 'AI-model: {model}'
 };

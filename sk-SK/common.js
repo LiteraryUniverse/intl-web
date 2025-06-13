@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Kód 2FA',
     'common.2faCodeIntro': 'Zadajte svoj jednorazový kód vygenerovaný aplikáciou autentifikátora.',
     'common.2faCodeAria': 'Formulár na zadanie kódu 2FA',
+    'common.aiContent.model.label': 'Model AI',
+    'common.aiContent.model.tooltip': 'Vyberte model umelej inteligencie, ktorý bol použitý na generovanie obsahu',
+    'common.other': 'Iné',
+    'common.aiContent.model.custom.label': 'Vlastný model AI',
+    'common.aiContent.model.custom.placeholder': 'Zadajte názov modelu AI',
+    'common.select': 'Vyberte...',
     'common.flashnews': 'Bleskové správy',
     'common.defaultLanguage': 'Predvolený jazyk',
     'signin.web3.signMessage': 'Potvrďte, že chcete vstúpiť do Literary Universe s vašou peňaženkou ako metódou overovania. Kód: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Meno autora',
     'error.invalidFileType': 'Vyberte platný súbor s obrázkom (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Obrázok musí byť menší ako {mbSize, number}MB',
-    'error.fabricInitFailed': 'Nepodarilo sa inicializovať editor obrázkov'
+    'error.fabricInitFailed': 'Nepodarilo sa inicializovať editor obrázkov',
+    // File upload strings
+    'upload.files': 'Nahrané súbory',
+    'upload.dropHere': 'Uložte sem svoje súbory...',
+    'upload.dragOrClick': 'Presuňte sem súbory alebo kliknite na tlačidlo a vyberte súbory',
+    'upload.maxSize': 'Maximálna veľkosť súboru: {size}',
+    'upload.error.failed': 'Odosielanie súborov zlyhalo. Skúste to prosím znova.',
+    'upload.error.tooManyFiles': 'Môžete nahrať maximálne {max} súborov.',
+    'upload.error.removeFile': 'Nepodarilo sa odstrániť súbor. Skúste to prosím znova.',
+    'actions.delete': 'Odstrániť',
+    'common.aiContent.indicator': 'Obsah generovaný umelou inteligenciou',
+    'common.aiContent.tooltip': 'Tento obsah bol vytvorený s pomocou AI',
+    'common.aiContent.model': 'Model AI: {model}',
+    'common.aiContent.custom': 'Vlastný model AI'
 };

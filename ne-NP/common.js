@@ -223,6 +223,12 @@ export default {
     'common.2faCode': '2FA कोड',
     'common.2faCodeIntro': 'कृपया आफ्नो प्रमाणिकरण एप्लिकेशनद्वारा उत्पन्न गरिएको एक चरबरी कोड प्रविष्ट गर्नुहोस्।',
     'common.2faCodeAria': '2FA कोड प्रविष्ट फारम',
+    'common.aiContent.model.label': 'AI Model',
+    'common.aiContent.model.tooltip': 'Select the AI model that was used to generate content',
+    'common.other': 'Other',
+    'common.aiContent.model.custom.label': 'Custom AI Model',
+    'common.aiContent.model.custom.placeholder': 'Enter the name of the AI model',
+    'common.select': 'Select...',
     'common.flashnews': 'फ्ल्यासन्यूज',
     'common.defaultLanguage': 'पूर्वनिर्धारित भाषा',
     'signin.web3.signMessage': 'कृपया कुनै संख्यामा गएर आफ्नो वॉलेटको साथमा साहित्यिक ब्रह्माण्डमा प्रवेश गर्न चाहनुहुन्छ भनेर पुष्टि गर्नुहोस्। कोड: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Author Name',
     'error.invalidFileType': 'Please select a valid image file (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'Image must be less than {mbSize, number}MB',
-    'error.fabricInitFailed': 'Failed to initialize the image editor'
+    'error.fabricInitFailed': 'Failed to initialize the image editor',
+    // File upload strings
+    'upload.files': 'Uploaded Files',
+    'upload.dropHere': 'Drop your files here...',
+    'upload.dragOrClick': 'Drag and drop files here, or click to select files',
+    'upload.maxSize': 'Maximum file size: {size}',
+    'upload.error.failed': 'File upload failed. Please try again.',
+    'upload.error.tooManyFiles': 'You can upload a maximum of {max} files.',
+    'upload.error.removeFile': 'Failed to remove file. Please try again.',
+    'actions.delete': 'Delete',
+    'common.aiContent.indicator': 'AI-Generated Content',
+    'common.aiContent.tooltip': 'This content was created with AI assistance',
+    'common.aiContent.model': 'AI Model: {model}',
+    'common.aiContent.custom': 'Custom AI model'
 };

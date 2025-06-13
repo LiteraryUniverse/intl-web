@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Okumak istediğiniz veya okuduğunuz hikayeleri listeler halinde düzenleyin.",
 	"signup.wizard.complete.reader.step3.title": "Topluluğa katılın",
 	"signup.wizard.complete.reader.step3.description": "Sevdiğiniz hikayeleri tartışmak için yazarlar ve diğer okuyucularla bağlantı kurun.",
-	"signup.saveProgress": "İlerlemeyi kaydedin ve daha sonra devam edin"
+	"signup.saveProgress": "İlerlemeyi kaydedin ve daha sonra devam edin",
+	"signup.stepCount": "Adım {current, number} of {total, number}",
+	"signup.writer.goals.description": "Bize yazarlık deneyiminizden bahsedin.",
+	"signup.complete.title": "Her şey hazır!",
+	"signup.complete.description": "Profilinizi doldurduğunuz için teşekkür ederiz. Deneyiminizi tercihlerinize göre özelleştirdik."
 }

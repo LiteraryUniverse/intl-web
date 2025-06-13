@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "نظم القصص التي تريد قراءتها أو التي قرأتها في قوائم.",
 	"signup.wizard.complete.reader.step3.title": "انضم إلى المجتمع",
 	"signup.wizard.complete.reader.step3.description": "تواصل مع المؤلفين والقراء الآخرين لمناقشة القصص التي تحبها.",
-	"signup.saveProgress": "حفظ التقدم المحرز والمتابعة لاحقاً"
+	"signup.saveProgress": "حفظ التقدم المحرز والمتابعة لاحقاً",
+	"signup.stepCount": "الخطوة {current, number} من ~ {total, number}",
+	"signup.writer.goals.description": "أخبرنا عن تجربتك في الكتابة.",
+	"signup.complete.title": "أنت جاهز!",
+	"signup.complete.description": "شكراً لك على استكمال ملفك الشخصي. لقد قمنا بتخصيص تجربتك بناءً على تفضيلاتك."
 }

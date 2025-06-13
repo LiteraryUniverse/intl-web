@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Rendezze listákba az olvasni kívánt vagy már elolvasott történeteket.",
 	"signup.wizard.complete.reader.step3.title": "Csatlakozzon a közösséghez",
 	"signup.wizard.complete.reader.step3.description": "Lépjen kapcsolatba szerzőkkel és más olvasókkal, hogy megvitassa a szeretett történeteket.",
-	"signup.saveProgress": "Haladás mentése és későbbi folytatás"
+	"signup.saveProgress": "Haladás mentése és későbbi folytatás",
+	"signup.stepCount": "Lépés {current, number} of {total, number}",
+	"signup.writer.goals.description": "Meséljen nekünk az írói tapasztalatairól.",
+	"signup.complete.title": "Készen állsz!",
+	"signup.complete.description": "Köszönjük, hogy kitöltötte profilját. Az Ön preferenciái alapján testre szabtuk az élményét."
 }

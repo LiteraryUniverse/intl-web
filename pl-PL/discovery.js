@@ -67,5 +67,16 @@ export default {
     'discovery.readFromStart': 'Czytaj od pierwszego rozdziału',
     'discovery.readLatest': 'Czytaj najnowszy rozdział',
     'discovery.author': 'Autor',
-    'discovery.aiGenerated': 'Generowane przez sztuczną inteligencję'
+    'discovery.aiGenerated': 'Generowane przez sztuczną inteligencję',
+    // New AI content related strings
+    'discovery.ai.content': 'Treści generowane przez sztuczną inteligencję',
+    'discovery.ai.universes': 'Wszechświaty generowane przez SI',
+    'discovery.ai.stories': 'Historie generowane przez sztuczną inteligencję',
+    'discovery.ai.noContent': 'Zawartość generowana przez SI nie jest jeszcze dostępna.',
+    'discover.search.aiContent': 'Zawartość AI',
+    'discover.search.aiContent.both': 'Proszę pokazać całą zawartość',
+    'discover.search.aiContent.none': 'Ukrywanie treści generowanych przez SI',
+    'discover.search.aiContent.only': 'Proszę wyświetlać tylko treści generowane przez sztuczną inteligencję',
+    'discovery.aiContent.indicator': 'Ta zawartość została wygenerowana przy pomocy sztucznej inteligencji',
+    'discovery.aiContent.indicator.model': 'Model AI: {model}'
 };

@@ -302,5 +302,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Η δημοσίευση αποτρέπεται επειδή το σύμπαν έχει ενεργοποιήσει τη ρύθμιση αποτροπής δημοσίευσης.',
     'workshop.revisions.new.public.disabled': 'Δεν είναι δυνατή η δημοσίευση ενώ η αποτροπή δημοσίευσης είναι ενεργοποιημένη στις ρυθμίσεις της ιστορίας.',
     'workshop.publishing.restricted': 'Λόγω παραβίασης της καλής συμπεριφοράς, απενεργοποιήσαμε τη δυνατότητά σας να δημοσιεύετε.',
-    'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης'
+    'workshop.story.buyingSettings': 'Ρυθμίσεις πώλησης',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
+    'workshop.chapter.aiGenerated.tooltip': 'Σημειώστε ότι αυτό το κεφάλαιο περιέχει περιεχόμενο δημιουργημένο από τεχνητή νοημοσύνη',
+    'workshop.chapter.aiGenerated.description': 'Αυτό το κεφάλαιο περιέχει περιεχόμενο που δημιουργήθηκε με τη βοήθεια της τεχνητής νοημοσύνης.',
+    'workshop.chapter.aiModel': 'Μοντέλο AI',
+    'workshop.chapter.aiModel.tooltip': 'Επιλέξτε το μοντέλο τεχνητής νοημοσύνης που χρησιμοποιήθηκε για τη δημιουργία περιεχομένου',
+    'workshop.chapter.aiModel.custom': 'Προσαρμοσμένο',
+    'workshop.chapter.aiModel.custom.placeholder': 'Εισάγετε το όνομα του μοντέλου AI',
+    'workshop.chapter.aiGenerated.locked': 'Η σήμανση περιεχομένου AI δεν μπορεί να αλλάξει, επειδή έχει προσαρμοστεί από την ομάδα συντονισμού.',
+    'workshop.monetization.aiNotEligible': 'Το περιεχόμενο που παράγεται με τεχνητή νοημοσύνη δεν είναι επιλέξιμο για νομισματοποίηση.'
 };

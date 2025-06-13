@@ -223,6 +223,12 @@ export default {
     'common.2faCode': 'Código 2FA',
     'common.2faCodeIntro': 'Por favor, introduzca su código de un solo uso generado por su aplicación de autenticación.',
     'common.2faCodeAria': 'Formulario de entrada de código 2FA',
+    'common.aiContent.model.label': 'Modelo de IA',
+    'common.aiContent.model.tooltip': 'Seleccione el modelo de IA que se utilizó para generar contenidos',
+    'common.other': 'Otros',
+    'common.aiContent.model.custom.label': 'Modelo personalizado de IA',
+    'common.aiContent.model.custom.placeholder': 'Introduzca el nombre del modelo de IA',
+    'common.select': 'Seleccione...',
     'common.flashnews': 'Noticias de última hora',
     'common.defaultLanguage': 'Idioma predeterminado',
     'signin.web3.signMessage': 'Por favor, confirme que quiere entrar en Literary Universe con su cartera como método de autenticación. Código: {code}',
@@ -283,5 +289,18 @@ export default {
     'common.authorName': 'Nombre del autor',
     'error.invalidFileType': 'Seleccione un archivo de imagen válido (JPEG, PNG, GIF, WebP)',
     'error.fileTooLarge': 'La imagen debe ser inferior a {mbSize, number}MB',
-    'error.fabricInitFailed': 'Fallo al inicializar el editor de imágenes'
+    'error.fabricInitFailed': 'Fallo al inicializar el editor de imágenes',
+    // File upload strings
+    'upload.files': 'Archivos cargados',
+    'upload.dropHere': 'Suelte aquí sus archivos...',
+    'upload.dragOrClick': 'Arrastre y suelte los archivos aquí, o haga clic para seleccionarlos',
+    'upload.maxSize': 'Tamaño máximo del archivo: {size}',
+    'upload.error.failed': 'La carga del archivo ha fallado. Por favor, inténtelo de nuevo.',
+    'upload.error.tooManyFiles': 'Puede cargar un máximo de {max} archivos.',
+    'upload.error.removeFile': 'No se ha podido eliminar el archivo. Por favor, inténtelo de nuevo.',
+    'actions.delete': 'Borrar',
+    'common.aiContent.indicator': 'Contenidos generados por IA',
+    'common.aiContent.tooltip': 'Este contenido ha sido creado con ayuda de la IA',
+    'common.aiContent.model': 'Modelo AI: {model}',
+    'common.aiContent.custom': 'Modelo de IA personalizado'
 };

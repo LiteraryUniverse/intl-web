@@ -321,5 +321,15 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Публикация запрещена, потому что во вселенной включена настройка предотвращения публикации.',
     'workshop.revisions.new.public.disabled': 'Невозможно опубликовать, если в настройках истории включена функция предотвращения публикации.',
     'workshop.publishing.restricted': 'В связи с нарушением правил поведения мы лишили вас возможности публиковать.',
-    'workshop.story.buyingSettings': 'Настройки продажи'
+    'workshop.story.buyingSettings': 'Настройки продажи',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Контент, созданный искусственным интеллектом',
+    'workshop.chapter.aiGenerated.tooltip': 'Отметьте эту главу как содержащую контент, созданный искусственным интеллектом',
+    'workshop.chapter.aiGenerated.description': 'Эта глава содержит материалы, которые были созданы с помощью искусственного интеллекта.',
+    'workshop.chapter.aiModel': 'Модель искусственного интеллекта',
+    'workshop.chapter.aiModel.tooltip': 'Выберите модель ИИ, которая была использована для создания контента',
+    'workshop.chapter.aiModel.custom': 'Пользовательский',
+    'workshop.chapter.aiModel.custom.placeholder': 'Введите название модели искусственного интеллекта',
+    'workshop.chapter.aiGenerated.locked': 'Маркировка контента AI не может быть изменена, поскольку она была скорректирована командой модераторов.',
+    'workshop.monetization.aiNotEligible': 'Контент, созданный искусственным интеллектом, не подлежит монетизации.'
 };

@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Järjestä tarinat, jotka haluat lukea tai jotka olet lukenut, luetteloihin.",
 	"signup.wizard.complete.reader.step3.title": "Liity yhteisöön",
 	"signup.wizard.complete.reader.step3.description": "Keskustele kirjailijoiden ja muiden lukijoiden kanssa rakastamistasi tarinoista.",
-	"signup.saveProgress": "Tallenna edistyminen ja jatka myöhemmin"
+	"signup.saveProgress": "Tallenna edistyminen ja jatka myöhemmin",
+	"signup.stepCount": "Vaihe {current, number} of {total, number}",
+	"signup.writer.goals.description": "Kerro meille kirjoituskokemuksestasi.",
+	"signup.complete.title": "Kaikki on valmista!",
+	"signup.complete.description": "Kiitos, että täytit profiilisi. Olemme räätälöineet kokemuksesi mieltymystesi perusteella."
 }

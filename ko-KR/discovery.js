@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': '첫 번째 장부터 읽으세요',
     'discovery.readLatest': '가장 최근 장을 읽으세요',
     'discovery.author': '작성자',
-    'discovery.aiGenerated': 'AI 생성'
+    'discovery.aiGenerated': 'AI 생성',
+    // New AI content related strings
+    'discovery.ai.content': 'AI 생성 콘텐츠',
+    'discovery.ai.universes': 'AI 생성 유니버스',
+    'discovery.ai.stories': 'AI가 생성한 스토리',
+    'discovery.ai.noContent': '아직 AI가 생성한 콘텐츠가 없습니다.',
+    'discover.search.aiContent': 'AI 콘텐츠',
+    'discover.search.aiContent.both': '모든 콘텐츠 표시',
+    'discover.search.aiContent.none': 'AI 생성 콘텐츠 숨기기',
+    'discover.search.aiContent.only': 'AI가 생성한 콘텐츠만 표시',
+    'discovery.aiContent.indicator': '이 콘텐츠는 AI의 도움을 받아 생성되었습니다.',
+    'discovery.aiContent.indicator.model': 'AI 모델: {model}'
 };
