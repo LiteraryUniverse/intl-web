@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "將您想要閱讀或已經閱讀過的故事整理成清單。",
 	"signup.wizard.complete.reader.step3.title": "加入社群",
 	"signup.wizard.complete.reader.step3.description": "與作者和其他讀者聯繫，討論您喜愛的故事。",
-	"signup.saveProgress": "儲存進度，稍後再繼續"
+	"signup.saveProgress": "儲存進度，稍後再繼續",
+	"signup.stepCount": "步驟 {current, number} 的 {total, number}",
+	"signup.writer.goals.description": "請告訴我們您的寫作經驗。",
+	"signup.complete.title": "你都準備好了！",
+	"signup.complete.description": "感謝您填寫您的個人資料。我們已根據您的喜好，為您量身打造您的體驗。"
 }
