@@ -89,5 +89,9 @@
 	"signup.wizard.complete.reader.step2.description": "Οργανώστε τις ιστορίες που θέλετε να διαβάσετε ή έχετε διαβάσει σε λίστες.",
 	"signup.wizard.complete.reader.step3.title": "Γίνετε μέλος της κοινότητας",
 	"signup.wizard.complete.reader.step3.description": "Συνδεθείτε με συγγραφείς και άλλους αναγνώστες για να συζητήσετε ιστορίες που αγαπάτε.",
-	"signup.saveProgress": "Αποθήκευση προόδου και συνέχιση αργότερα"
+	"signup.saveProgress": "Αποθήκευση προόδου και συνέχιση αργότερα",
+	"signup.stepCount": "Βήμα {current, number} of {total, number}",
+	"signup.writer.goals.description": "Πείτε μας για την εμπειρία σας στο γράψιμο.",
+	"signup.complete.title": "Είστε έτοιμοι!",
+	"signup.complete.description": "Σας ευχαριστούμε για τη συμπλήρωση του προφίλ σας. Προσαρμόσαμε την εμπειρία σας με βάση τις προτιμήσεις σας."
 }
