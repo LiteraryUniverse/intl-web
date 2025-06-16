@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Editare curriculum',
   'course.assignment': 'Atribuire',
   'course.lesson.removeLink': 'Elimină link-ul',
-  'course.remove.user': 'Eliminați utilizatorul',
-  'course.add.user': 'Adăugați utilizator',
+  'course.user.remove': 'Eliminați utilizatorul',
+  'course.user.invite': 'Invitați utilizatorul',
+  'course.user.invited': 'Invitat',
   'course.edit.role': 'Editare rol',
   'course.assignment.description': 'Descrierea misiunii',
   'course.internal': 'Interne',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Ascunse',
   'courses.members.search.placeholder': 'Căutare utilizator...',
   'course.search.user': 'Căutare utilizator',
+  'course.user.addFinished': 'Terminat',
 };
