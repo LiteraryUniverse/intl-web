@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Публичный',
   'lessons.visibility.private': 'Частный',
   'lessons.visibility.hidden': 'Скрытый',
+  'courses.members.search.placeholder': 'Поиск пользователя...',
+  'course.search.user': 'Поиск пользователя',
 };
