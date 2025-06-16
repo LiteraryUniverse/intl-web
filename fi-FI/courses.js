@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Julkinen',
   'lessons.visibility.private': 'Yksityinen',
   'lessons.visibility.hidden': 'Piilotettu',
+  'courses.members.search.placeholder': 'Etsi käyttäjä...',
+  'course.search.user': 'Etsi käyttäjä',
 };
