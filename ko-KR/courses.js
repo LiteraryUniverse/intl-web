@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': '커리큘럼 수정',
   'course.assignment': '할당',
   'course.lesson.removeLink': '링크 제거',
-  'course.remove.user': '사용자 제거',
-  'course.add.user': '사용자 추가',
+  'course.user.remove': '사용자 제거',
+  'course.user.invite': '사용자 초대',
+  'course.user.invited': '초대됨',
   'course.edit.role': '역할 수정',
   'course.assignment.description': '과제 설명',
   'course.internal': '내부',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': '숨겨진',
   'courses.members.search.placeholder': '사용자 검색...',
   'course.search.user': '사용자 검색',
+  'course.user.addFinished': '완료',
 };
