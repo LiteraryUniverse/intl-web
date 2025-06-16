@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Public',
   'lessons.visibility.private': 'Privat',
   'lessons.visibility.hidden': 'Ascunse',
+  'courses.members.search.placeholder': 'Căutare utilizator...',
+  'course.search.user': 'Căutare utilizator',
 };
