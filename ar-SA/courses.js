@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'تحرير المنهج الدراسي',
   'course.assignment': 'التعيين',
   'course.lesson.removeLink': 'إزالة الرابط',
-  'course.remove.user': 'إزالة المستخدم',
-  'course.add.user': 'إضافة مستخدم',
+  'course.user.remove': 'إزالة المستخدم',
+  'course.user.invite': 'دعوة المستخدم',
+  'course.user.invited': 'مدعوون',
   'course.edit.role': 'تحرير الدور',
   'course.assignment.description': 'وصف المهمة',
   'course.internal': 'داخلي',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'مخفي',
   'courses.members.search.placeholder': 'البحث عن مستخدم...',
   'course.search.user': 'البحث عن مستخدم',
+  'course.user.addFinished': 'تم الانتهاء',
 };
