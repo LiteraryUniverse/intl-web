@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Редагувати навчальний план',
   'course.assignment': 'Завдання',
   'course.lesson.removeLink': 'Видалити посилання',
-  'course.remove.user': 'Вилучити користувача',
-  'course.add.user': 'Додати користувача',
+  'course.user.remove': 'Видалити користувача',
+  'course.user.invite': 'Запросити користувача',
+  'course.user.invited': 'Запрошені',
   'course.edit.role': 'Роль редактора',
   'course.assignment.description': 'Опис завдання',
   'course.internal': 'Внутрішній',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Приховано',
   'courses.members.search.placeholder': 'Пошук користувача...',
   'course.search.user': 'Пошук користувача',
+  'course.user.addFinished': 'Готово.',
 };
