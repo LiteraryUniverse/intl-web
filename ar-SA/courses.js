@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'عام',
   'lessons.visibility.private': 'خاص',
   'lessons.visibility.hidden': 'مخفي',
+  'courses.members.search.placeholder': 'البحث عن مستخدم...',
+  'course.search.user': 'البحث عن مستخدم',
 };
