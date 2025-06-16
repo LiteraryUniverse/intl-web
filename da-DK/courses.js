@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Rediger pensum',
   'course.assignment': 'Opgave',
   'course.lesson.removeLink': 'Fjern link',
-  'course.remove.user': 'Fjern bruger',
-  'course.add.user': 'Tilføj bruger',
+  'course.user.remove': 'Fjern bruger',
+  'course.user.invite': 'Inviter bruger',
+  'course.user.invited': 'Inviteret',
   'course.edit.role': 'Rediger rolle',
   'course.assignment.description': 'Beskrivelse af opgaven',
   'course.internal': 'Internt',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Skjult',
   'courses.members.search.placeholder': 'Søg efter bruger...',
   'course.search.user': 'Søg efter bruger',
+  'course.user.addFinished': 'Færdig',
 };
