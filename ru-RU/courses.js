@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Изменить план',
   'course.assignment': 'Назначение',
   'course.lesson.removeLink': 'Удалить ссылку',
-  'course.remove.user': 'Удалить пользователя',
-  'course.add.user': 'Добавить пользователя',
+  'course.user.remove': 'Удалить пользователя',
+  'course.user.invite': 'Пригласите пользователя',
+  'course.user.invited': 'Приглашенный',
   'course.edit.role': 'Изменить роль',
   'course.assignment.description': 'Описание назначения',
   'course.internal': 'Внутренний',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Скрытый',
   'courses.members.search.placeholder': 'Поиск пользователя...',
   'course.search.user': 'Поиск пользователя',
+  'course.user.addFinished': 'Готовый',
 };
