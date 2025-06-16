@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Muokkaa opetussuunnitelmaa',
   'course.assignment': 'Toimeksianto',
   'course.lesson.removeLink': 'Poista linkki',
-  'course.remove.user': 'Poista käyttäjä',
-  'course.add.user': 'Lisää käyttäjä',
+  'course.user.remove': 'Poista käyttäjä',
+  'course.user.invite': 'Kutsu käyttäjä',
+  'course.user.invited': 'Kutsuttu',
   'course.edit.role': 'Muokkaa roolia',
   'course.assignment.description': 'Tehtävän kuvaus',
   'course.internal': 'Sisäinen',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Piilotettu',
   'courses.members.search.placeholder': 'Etsi käyttäjä...',
   'course.search.user': 'Etsi käyttäjä',
+  'course.user.addFinished': 'Valmis',
 };
