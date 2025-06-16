@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Modifica del curriculum',
   'course.assignment': 'Assegnazione',
   'course.lesson.removeLink': 'Rimuovi il link',
-  'course.remove.user': 'Rimuovi utente',
-  'course.add.user': 'Aggiungi utente',
+  'course.user.remove': "Rimuovere l'utente",
+  'course.user.invite': "Invita l'utente",
+  'course.user.invited': 'Invitato',
   'course.edit.role': 'Modifica ruolo',
   'course.assignment.description': "Descrizione dell'incarico",
   'course.internal': 'Interno',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Nascosto',
   'courses.members.search.placeholder': "Cerca l'utente...",
   'course.search.user': "Cerca l'utente",
+  'course.user.addFinished': 'Finito',
 };
