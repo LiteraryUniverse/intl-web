@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Redigera läroplan',
   'course.assignment': 'Uppdrag',
   'course.lesson.removeLink': 'Ta bort länk',
-  'course.remove.user': 'Ta bort användare',
-  'course.add.user': 'Lägg till användare',
+  'course.user.remove': 'Ta bort användare',
+  'course.user.invite': 'Bjud in användare',
+  'course.user.invited': 'Inbjuden',
   'course.edit.role': 'Redigera roll',
   'course.assignment.description': 'Uppdragsbeskrivning',
   'course.internal': 'Internt',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Dolda',
   'courses.members.search.placeholder': 'Sök efter användare...',
   'course.search.user': 'Sök efter användare',
+  'course.user.addFinished': 'Färdig',
 };
