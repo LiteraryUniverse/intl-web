@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': '公眾',
   'lessons.visibility.private': '私人',
   'lessons.visibility.hidden': '隱藏',
+  'courses.members.search.placeholder': '搜尋使用者...',
+  'course.search.user': '搜尋使用者',
 };
