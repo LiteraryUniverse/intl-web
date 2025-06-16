@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Publik',
   'lessons.visibility.private': 'Pribadi',
   'lessons.visibility.hidden': 'Tersembunyi',
+  'courses.members.search.placeholder': 'Mencari pengguna...',
+  'course.search.user': 'Mencari pengguna',
 };
