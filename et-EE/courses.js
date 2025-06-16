@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Avalik',
   'lessons.visibility.private': 'Eraldi',
   'lessons.visibility.hidden': 'Peidetud',
+  'courses.members.search.placeholder': 'Otsi kasutaja...',
+  'course.search.user': 'Kasutaja otsing',
 };
