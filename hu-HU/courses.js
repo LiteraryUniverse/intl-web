@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Nyilvános',
   'lessons.visibility.private': 'Privát',
   'lessons.visibility.hidden': 'Rejtett',
+  'courses.members.search.placeholder': 'Felhasználó keresése...',
+  'course.search.user': 'Felhasználó keresése',
 };
