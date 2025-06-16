@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'パブリック',
   'lessons.visibility.private': 'プライベート',
   'lessons.visibility.hidden': 'ヒドゥン',
+  'courses.members.search.placeholder': 'ユーザーを検索...',
+  'course.search.user': 'ユーザー検索',
 };
