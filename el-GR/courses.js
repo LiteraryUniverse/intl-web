@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Δημόσιο',
   'lessons.visibility.private': 'Ιδιωτικό',
   'lessons.visibility.hidden': 'Κρυφό',
+  'courses.members.search.placeholder': 'Αναζήτηση χρήστη...',
+  'course.search.user': 'Αναζήτηση για χρήστη',
 };
