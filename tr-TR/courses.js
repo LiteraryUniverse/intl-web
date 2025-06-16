@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Kamu',
   'lessons.visibility.private': 'Özel',
   'lessons.visibility.hidden': 'Gizli',
+  'courses.members.search.placeholder': 'Kullanıcı ara...',
+  'course.search.user': 'Kullanıcı ara',
 };
