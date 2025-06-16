@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Õppekava muutmine',
   'course.assignment': 'Ülesanne',
   'course.lesson.removeLink': 'Eemalda link',
-  'course.remove.user': 'Eemaldage kasutaja',
-  'course.add.user': 'Kasutaja lisamine',
+  'course.user.remove': 'Eemaldage kasutaja',
+  'course.user.invite': 'Kutsu kasutaja',
+  'course.user.invited': 'Kutsutud',
   'course.edit.role': 'Redigeeri rolli',
   'course.assignment.description': 'Ülesande kirjeldus',
   'course.internal': 'Sisemine',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Peidetud',
   'courses.members.search.placeholder': 'Otsi kasutaja...',
   'course.search.user': 'Kasutaja otsing',
+  'course.user.addFinished': 'Valmis',
 };
