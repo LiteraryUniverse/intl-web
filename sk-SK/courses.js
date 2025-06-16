@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Verejnosť',
   'lessons.visibility.private': 'Súkromná stránka',
   'lessons.visibility.hidden': 'Skryté',
+  'courses.members.search.placeholder': 'Vyhľadajte používateľa...',
+  'course.search.user': 'Vyhľadávanie používateľa',
 };
