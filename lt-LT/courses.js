@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Redaguoti mokymo programą',
   'course.assignment': 'Užduotis',
   'course.lesson.removeLink': 'Pašalinti nuorodą',
-  'course.remove.user': 'Pašalinti naudotoją',
-  'course.add.user': 'Pridėti naudotoją',
+  'course.user.remove': 'Pašalinti naudotoją',
+  'course.user.invite': 'Pakviesti naudotoją',
+  'course.user.invited': 'Kviestinis',
   'course.edit.role': 'Redaguoti vaidmenį',
   'course.assignment.description': 'Užduoties aprašymas',
   'course.internal': 'Vidinis',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Paslėptas',
   'courses.members.search.placeholder': 'Ieškokite naudotojo...',
   'course.search.user': 'Naudotojo paieška',
+  'course.user.addFinished': 'Baigtas',
 };
