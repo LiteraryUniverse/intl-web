@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Tanterv szerkesztése',
   'course.assignment': 'Megbízás',
   'course.lesson.removeLink': 'Link eltávolítása',
-  'course.remove.user': 'Felhasználó eltávolítása',
-  'course.add.user': 'Felhasználó hozzáadása',
+  'course.user.remove': 'Felhasználó eltávolítása',
+  'course.user.invite': 'Felhasználó meghívása',
+  'course.user.invited': 'Meghívott',
   'course.edit.role': 'Szerepkör szerkesztése',
   'course.assignment.description': 'Feladat leírása',
   'course.internal': 'Belső',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Rejtett',
   'courses.members.search.placeholder': 'Felhasználó keresése...',
   'course.search.user': 'Felhasználó keresése',
+  'course.user.addFinished': 'Kész',
 };
