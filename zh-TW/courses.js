@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': '編輯課程',
   'course.assignment': '任務',
   'course.lesson.removeLink': '移除連結',
-  'course.remove.user': '移除使用者',
-  'course.add.user': '新增使用者',
+  'course.user.remove': '移除使用者',
+  'course.user.invite': '邀請使用者',
+  'course.user.invited': '受邀',
   'course.edit.role': '編輯角色',
   'course.assignment.description': '任務說明',
   'course.internal': '內部',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': '隱藏',
   'courses.members.search.placeholder': '搜尋使用者...',
   'course.search.user': '搜尋使用者',
+  'course.user.addFinished': '完成',
 };
