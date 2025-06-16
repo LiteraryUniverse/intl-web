@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Curriculum bewerken',
   'course.assignment': 'Opdracht',
   'course.lesson.removeLink': 'Link verwijderen',
-  'course.remove.user': 'Gebruiker verwijderen',
-  'course.add.user': 'Gebruiker toevoegen',
+  'course.user.remove': 'Gebruiker verwijderen',
+  'course.user.invite': 'Gebruiker uitnodigen',
+  'course.user.invited': 'Uitgenodigd',
   'course.edit.role': 'Rol bewerken',
   'course.assignment.description': 'Beschrijving opdracht',
   'course.internal': 'Intern',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Verborgen',
   'courses.members.search.placeholder': 'Zoek naar gebruiker...',
   'course.search.user': 'Zoeken naar gebruiker',
+  'course.user.addFinished': 'Afgewerkt',
 };
