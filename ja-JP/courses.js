@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'カリキュラムの編集',
   'course.assignment': '割り当て',
   'course.lesson.removeLink': 'リンクを削除する',
-  'course.remove.user': 'ユーザーの削除',
-  'course.add.user': 'ユーザー追加',
+  'course.user.remove': 'ユーザーを削除する',
+  'course.user.invite': 'ユーザーを招待する',
+  'course.user.invited': '招待',
   'course.edit.role': '役割の編集',
   'course.assignment.description': '課題の説明',
   'course.internal': '内部',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'ヒドゥン',
   'courses.members.search.placeholder': 'ユーザーを検索...',
   'course.search.user': 'ユーザー検索',
+  'course.user.addFinished': '終了',
 };
