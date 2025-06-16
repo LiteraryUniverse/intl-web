@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Upravit osnovy',
   'course.assignment': 'Úkol',
   'course.lesson.removeLink': 'Odstranit odkaz',
-  'course.remove.user': 'Odstranit uživatele',
-  'course.add.user': 'Přidat uživatele',
+  'course.user.remove': 'Odebrat uživatele',
+  'course.user.invite': 'Pozvat uživatele',
+  'course.user.invited': 'Pozvánka na',
   'course.edit.role': 'Edit role',
   'course.assignment.description': 'Popis úkolu',
   'course.internal': 'Interní',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Skryté stránky',
   'courses.members.search.placeholder': 'Vyhledávání uživatelů...',
   'course.search.user': 'Vyhledávání uživatele',
+  'course.user.addFinished': 'Dokončeno',
 };
