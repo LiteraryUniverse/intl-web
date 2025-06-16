@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': '공개',
   'lessons.visibility.private': '비공개',
   'lessons.visibility.hidden': '숨겨진',
+  'courses.members.search.placeholder': '사용자 검색...',
+  'course.search.user': '사용자 검색',
 };
