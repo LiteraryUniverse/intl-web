@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Επεξεργασία προγράμματος σπουδών',
   'course.assignment': 'Ανάθεση',
   'course.lesson.removeLink': 'Αφαίρεση συνδέσμου',
-  'course.remove.user': 'Αφαίρεση χρήστη',
-  'course.add.user': 'Προσθήκη χρήστη',
+  'course.user.remove': 'Αφαίρεση χρήστη',
+  'course.user.invite': 'Πρόσκληση χρήστη',
+  'course.user.invited': 'Προσκεκλημένοι',
   'course.edit.role': 'Επεξεργασία ρόλου',
   'course.assignment.description': 'Περιγραφή ανάθεσης',
   'course.internal': 'Εσωτερικό',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Κρυφό',
   'courses.members.search.placeholder': 'Αναζήτηση χρήστη...',
   'course.search.user': 'Αναζήτηση για χρήστη',
+  'course.user.addFinished': 'Τελειωμένο',
 };
