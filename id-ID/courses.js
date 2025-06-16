@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Edit kurikulum',
   'course.assignment': 'Penugasan',
   'course.lesson.removeLink': 'Hapus tautan',
-  'course.remove.user': 'Hapus pengguna',
-  'course.add.user': 'Tambahkan pengguna',
+  'course.user.remove': 'Hapus pengguna',
+  'course.user.invite': 'Undang pengguna',
+  'course.user.invited': 'Diundang',
   'course.edit.role': 'Mengedit peran',
   'course.assignment.description': 'Deskripsi penugasan',
   'course.internal': 'Internal',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Tersembunyi',
   'courses.members.search.placeholder': 'Mencari pengguna...',
   'course.search.user': 'Mencari pengguna',
+  'course.user.addFinished': 'Selesai.',
 };
