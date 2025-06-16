@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Viešoji svetainė',
   'lessons.visibility.private': 'Privatus',
   'lessons.visibility.hidden': 'Paslėptas',
+  'courses.members.search.placeholder': 'Ieškokite naudotojo...',
+  'course.search.user': 'Naudotojo paieška',
 };
