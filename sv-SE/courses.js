@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Allmänheten',
   'lessons.visibility.private': 'Privat',
   'lessons.visibility.hidden': 'Dolda',
+  'courses.members.search.placeholder': 'Sök efter användare...',
+  'course.search.user': 'Sök efter användare',
 };
