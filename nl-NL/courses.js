@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Openbaar',
   'lessons.visibility.private': 'Privé',
   'lessons.visibility.hidden': 'Verborgen',
+  'courses.members.search.placeholder': 'Zoek naar gebruiker...',
+  'course.search.user': 'Zoeken naar gebruiker',
 };
