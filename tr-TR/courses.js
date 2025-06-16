@@ -76,8 +76,9 @@ export default {
   'course.edit.curriculum': 'Müfredatı düzenle',
   'course.assignment': 'Görevlendirme',
   'course.lesson.removeLink': 'Bağlantıyı kaldır',
-  'course.remove.user': 'Kullanıcıyı kaldır',
-  'course.add.user': 'Kullanıcı ekle',
+  'course.user.remove': 'Kullanıcıyı kaldır',
+  'course.user.invite': 'Kullanıcı davet et',
+  'course.user.invited': 'Davetli',
   'course.edit.role': 'Rolü düzenle',
   'course.assignment.description': 'Görev tanımı',
   'course.internal': 'Dahili',
@@ -95,4 +96,5 @@ export default {
   'lessons.visibility.hidden': 'Gizli',
   'courses.members.search.placeholder': 'Kullanıcı ara...',
   'course.search.user': 'Kullanıcı ara',
+  'course.user.addFinished': 'Bitti',
 };
