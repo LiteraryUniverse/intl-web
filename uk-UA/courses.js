@@ -93,4 +93,6 @@ export default {
   'lessons.visibility.public': 'Громадськість',
   'lessons.visibility.private': 'Рядовий',
   'lessons.visibility.hidden': 'Приховано',
+  'courses.members.search.placeholder': 'Пошук користувача...',
+  'course.search.user': 'Пошук користувача',
 };
