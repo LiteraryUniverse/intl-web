@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Pasirinktinis',
     'workshop.chapter.aiModel.custom.placeholder': 'Įveskite dirbtinio intelekto modelio pavadinimą',
     'workshop.chapter.aiGenerated.locked': 'AI turinio žymėjimo negalima keisti, nes jį pakoregavo moderatorių komanda.',
-    'workshop.monetization.aiNotEligible': 'Iš dirbtinio intelekto sukurto turinio negalima gauti pajamų.'
+    'workshop.monetization.aiNotEligible': 'Iš dirbtinio intelekto sukurto turinio negalima gauti pajamų.',
+    'workshop.license.exclusiveUniverse': 'Visatoje naudojama išskirtinė licencija, o tai reiškia, kad visos istorijos taip pat turi atitikti tą pačią licenciją, kad būtų išvengta teisinio chaoso.'
 };
