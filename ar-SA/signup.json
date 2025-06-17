@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "رواية خفيفة",
 	"signup.reader.mediaType.web_novel": "رواية الويب",
 	"signup.reader.mediaType.visual_novel": "رواية مرئية",
+	"signup.reader.mediaType.short_story": "قصة قصيرة",
 	"signup.writer.mediaType.title": "ما نوع الوسائط التي تستمتع بها أكثر من غيرها؟",
 	"signup.writer.mediaType.description": "اختر ما يناسب اهتماماتك منها.",
 	"signup.writer.mediaType.longStories.title": "قصص طويلة",
