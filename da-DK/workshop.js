@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Brugerdefineret',
     'workshop.chapter.aiModel.custom.placeholder': 'Indtast navnet på AI-modellen',
     'workshop.chapter.aiGenerated.locked': 'AI-indholdsmærkning kan ikke ændres, fordi den er blevet justeret af moderationsteamet.',
-    'workshop.monetization.aiNotEligible': 'AI-genereret indhold er ikke berettiget til indtægtsgenerering.'
+    'workshop.monetization.aiNotEligible': 'AI-genereret indhold er ikke berettiget til indtægtsgenerering.',
+    'workshop.license.exclusiveUniverse': 'Universet bruger en eksklusiv licens, hvilket betyder, at alle historier også skal følge den samme licens for at undgå juridisk kaos.'
 };
