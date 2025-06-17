@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Custom',
     'workshop.chapter.aiModel.custom.placeholder': 'Kirjoita tekoälymallin nimi',
     'workshop.chapter.aiGenerated.locked': 'Tekoälyn sisältömerkintää ei voi muuttaa, koska moderointiryhmä on mukauttanut sen.',
-    'workshop.monetization.aiNotEligible': 'Tekoälyn tuottamaa sisältöä ei voida hyödyntää rahana.'
+    'workshop.monetization.aiNotEligible': 'Tekoälyn tuottamaa sisältöä ei voida hyödyntää rahana.',
+    'workshop.license.exclusiveUniverse': 'Maailmankaikkeus käyttää yksinoikeuslisenssiä, mikä tarkoittaa, että kaikkien tarinoiden on noudatettava samaa lisenssiä oikeudellisen kaaoksen välttämiseksi.'
 };
