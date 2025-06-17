@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Пошук користувача...',
   'course.search.user': 'Пошук користувача',
   'course.user.addFinished': 'Готово.',
+  // Course invites
+  'courses.invites.title': 'Запрошення на курс',
+  'courses.invites.heading': 'Запрошення на курс',
+  'courses.invites.tile': 'Запрошуємо вас взяти участь у {count, plural, one {курсі} other {курсах}}.',
+  'courses.invites.noInvites': 'Наразі у вас немає запрошень на курси.',
+  'courses.invites.invitedBy': 'На запрошення: ',
+  'courses.invites.accept': 'Прийняти',
+  'courses.invites.reject': 'Відхилити',
+  'courses.role.owner': 'Власник',
+  'courses.role.teacher': 'Учитель',
+  'courses.role.student': 'Студент',
 };
