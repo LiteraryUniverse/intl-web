@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Niestandardowe',
     'workshop.chapter.aiModel.custom.placeholder': 'Proszę wprowadzić nazwę modelu sztucznej inteligencji',
     'workshop.chapter.aiGenerated.locked': 'Oznaczenie treści AI nie może zostać zmienione, ponieważ zostało dostosowane przez zespół moderatorów.',
-    'workshop.monetization.aiNotEligible': 'Treści generowane przez sztuczną inteligencję nie kwalifikują się do monetyzacji.'
+    'workshop.monetization.aiNotEligible': 'Treści generowane przez sztuczną inteligencję nie kwalifikują się do monetyzacji.',
+    'workshop.license.exclusiveUniverse': 'Uniwersum korzysta z licencji na wyłączność, co oznacza, że wszystkie historie również muszą korzystać z tej samej licencji, aby zapobiec chaosowi prawnemu.'
 };
