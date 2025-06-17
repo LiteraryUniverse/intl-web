@@ -119,7 +119,7 @@ export default {
     copyrights: 'Autorská práva',
     'common.challenges': 'Výzvy',
     // for beta only
-    'beta.notice': 'Vítejte v Literary Universe BETA! Jedná se o raný náhled naší platformy, na jejímž vylepšení stále aktivně pracujeme. V důsledku toho se můžete setkat s některými chybami nebo neúplnými funkcemi. Pokud se vám něco nezdá, velmi oceníme vaši zpětnou vazbu a pochopení při dalším zdokonalování.',
+    'beta.notice': 'Vítejte v Literárním vesmíru BETA! S radostí vám oznamujeme, že tento pátek oficiálně zahajujeme provoz! Doufáme, že se k nám připojíte a podpoříte nás na začátku nové kapitoly naší cesty.',
     'beta.thanks': 'Děkujeme za vaši podporu!',
     'scratchpad.about': 'Vaše poznámky a nápady dostupné kdekoli na webu.',
     'common.feedback': 'Zpětná vazba',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Odstranit {option}',
     create: 'Vytořit',
     'banner.support': 'Literary Universe existuje díky podpoře uživatelů, jako jste vy. Chcete-li nám pomoci zůstat nezávislí a zlepšovat platformu, zvažte prosím možnost předplatit si některý z našich tarifů.',
-    'banner.seePlans': 'Navštivte náš plán pro více informací.',
+    'banner.seePlans': 'Navštivte naši stránku s plány pro více informací.',
     'common.noAccountQuestion': 'Nemáte účet?',
     'common.haveAccountQuestion': 'Již máte účet?',
     'common.socialLogin': 'Přihlášení pomocí jiných služeb',
