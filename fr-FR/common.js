@@ -119,7 +119,7 @@ export default {
     copyrights: 'Droit d\'auteur',
     'common.challenges': 'Défis',
     // for beta only
-    'beta.notice': 'Bienvenue dans l\'univers littéraire BETA ! Il s\'agit d\'une première version de notre plateforme, et nous travaillons encore activement à son amélioration. Par conséquent, il se peut que vous rencontriez des bogues ou des fonctionnalités incomplètes. Si quelque chose ne vous semble pas correct, nous vous serions reconnaissants de nous faire part de vos commentaires et de votre compréhension, car nous continuons à affiner l\'expérience.',
+    'beta.notice': 'Bienvenue à l\'Univers Littéraire BETA ! Nous sommes ravis de vous annoncer que nous lançons officiellement notre site ce vendredi ! Nous espérons que vous nous rejoindrez et que vous nous soutiendrez alors que nous entamons un nouveau chapitre de notre parcours.',
     'beta.thanks': 'Merci pour votre soutien !',
     'scratchpad.about': 'Vos notes et vos idées sont accessibles partout sur le site.',
     'common.feedback': 'Feedback',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Supprimer {option}',
     create: 'Créer',
     'banner.support': 'L\'Univers littéraire est rendu possible grâce au soutien d\'utilisateurs comme vous. Pour nous aider à rester indépendants et à améliorer la plateforme, veuillez envisager de souscrire à l\'un de nos plans.',
-    'banner.seePlans': 'Consultez notre feuille de route pour plus d\'informations.',
+    'banner.seePlans': 'Visitez notre page sur les plans pour plus d\'informations.',
     'common.noAccountQuestion': 'Vous n\'avez pas de compte ?',
     'common.haveAccountQuestion': 'Vous avez déjà un compte ?',
     'common.socialLogin': 'Connectez-vous avec d\'autres services',
