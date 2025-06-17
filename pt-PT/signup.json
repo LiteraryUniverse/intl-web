@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Romance ligeiro",
 	"signup.reader.mediaType.web_novel": "Web Novel",
 	"signup.reader.mediaType.visual_novel": "Romance visual",
+	"signup.reader.mediaType.short_story": "História curta",
 	"signup.writer.mediaType.title": "De que tipo de meios de comunicação gosta mais?",
 	"signup.writer.mediaType.description": "Escolha as que melhor correspondem aos seus interesses.",
 	"signup.writer.mediaType.longStories.title": "Histórias longas",
