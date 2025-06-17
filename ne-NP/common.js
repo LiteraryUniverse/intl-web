@@ -119,7 +119,7 @@ export default {
     copyrights: 'कपिराइटहरू',
     'common.challenges': 'चुनौतिहरू',
     // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
     'beta.thanks': 'तपाईंको समर्थनको लागि धन्यवाद!',
     'scratchpad.about': 'तपाईंका नोट र विचारहरू साइटमा कहिल्यै पनि पहुँचने छन्।',
     'common.feedback': 'प्रतिक्रिया',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'हटाउनुहोस् {option}',
     create: 'सिर्जना गर्नुहोस्',
     'banner.support': 'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
-    'banner.seePlans': 'Visit our roadmap for more information.',
+    'banner.seePlans': 'Visit our plans page for more information.',
     'common.noAccountQuestion': 'खाता छैन?',
     'common.haveAccountQuestion': 'पहिले नै खाता छ?',
     'common.socialLogin': 'अरु सेवाहरूसँग लगइन गर्नुहोस्',
