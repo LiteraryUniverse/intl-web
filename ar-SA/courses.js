@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'البحث عن مستخدم...',
   'course.search.user': 'البحث عن مستخدم',
   'course.user.addFinished': 'تم الانتهاء',
+  // Course invites
+  'courses.invites.title': 'دعوات الدورة التدريبية',
+  'courses.invites.heading': 'دعوات الدورة التدريبية',
+  'courses.invites.tile': 'أنتم مدعوون للمشاركة في {count, plural, one {~ الدورة} other {الدورات}}.',
+  'courses.invites.noInvites': 'ليس لديك أي دعوات للدورة التدريبية في الوقت الحالي.',
+  'courses.invites.invitedBy': 'مدعو من قبل: ',
+  'courses.invites.accept': 'قبول',
+  'courses.invites.reject': 'رفض',
+  'courses.role.owner': 'المالك',
+  'courses.role.teacher': 'مدرس',
+  'courses.role.student': 'طالب',
 };
