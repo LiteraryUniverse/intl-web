@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Lengvas romanas",
 	"signup.reader.mediaType.web_novel": "Interneto romanas",
 	"signup.reader.mediaType.visual_novel": "Vizualinis romanas",
+	"signup.reader.mediaType.short_story": "Trumpa istorija",
 	"signup.writer.mediaType.title": "Kokia žiniasklaidos rūšis jums labiausiai patinka?",
 	"signup.writer.mediaType.description": "Išsirinkite geriausiai jūsų interesus atitinkančius dalykus.",
 	"signup.writer.mediaType.longStories.title": "Ilgos istorijos",
