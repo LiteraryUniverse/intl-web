@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'مخصص',
     'workshop.chapter.aiModel.custom.placeholder': 'أدخل اسم نموذج الذكاء الاصطناعي',
     'workshop.chapter.aiGenerated.locked': 'لا يمكن تغيير علامات محتوى الذكاء الاصطناعي لأنه تم تعديلها من قبل فريق الإشراف.',
-    'workshop.monetization.aiNotEligible': 'المحتوى الذي ينشئه الذكاء الاصطناعي غير مؤهل لتحقيق الدخل.'
+    'workshop.monetization.aiNotEligible': 'المحتوى الذي ينشئه الذكاء الاصطناعي غير مؤهل لتحقيق الدخل.',
+    'workshop.license.exclusiveUniverse': 'يستخدم الكون ترخيصاً حصرياً، مما يعني أن جميع القصص يجب أن تتبع نفس الترخيص لمنع الفوضى القانونية.'
 };
