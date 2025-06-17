@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Προσαρμοσμένο',
     'workshop.chapter.aiModel.custom.placeholder': 'Εισάγετε το όνομα του μοντέλου AI',
     'workshop.chapter.aiGenerated.locked': 'Η σήμανση περιεχομένου AI δεν μπορεί να αλλάξει, επειδή έχει προσαρμοστεί από την ομάδα συντονισμού.',
-    'workshop.monetization.aiNotEligible': 'Το περιεχόμενο που παράγεται με τεχνητή νοημοσύνη δεν είναι επιλέξιμο για νομισματοποίηση.'
+    'workshop.monetization.aiNotEligible': 'Το περιεχόμενο που παράγεται με τεχνητή νοημοσύνη δεν είναι επιλέξιμο για νομισματοποίηση.',
+    'workshop.license.exclusiveUniverse': 'Το σύμπαν χρησιμοποιεί μια αποκλειστική άδεια, που σημαίνει ότι όλες οι ιστορίες πρέπει επίσης να ακολουθούν την ίδια άδεια, προκειμένου να αποφευχθεί το νομικό χάος.'
 };
