@@ -119,7 +119,7 @@ export default {
     copyrights: 'Drepturi de autor',
     'common.challenges': 'Provocări',
     // for beta only
-    'beta.notice': 'Bine ați venit la Literary Universe BETA! Aceasta este o previzualizare timpurie a platformei noastre, iar noi încă lucrăm activ la îmbunătățiri. Ca urmare, este posibil să întâlniți unele erori sau caracteristici incomplete. Dacă ceva nu vi se pare în regulă, am aprecia foarte mult feedback-ul și înțelegerea dvs. pe măsură ce continuăm să îmbunătățim experiența.',
+    'beta.notice': 'Bine ați venit la Literary Universe BETA! Suntem încântați să vă anunțăm că ne lansăm oficial în această vineri! Sperăm că ni te vei alătura și ne vei sprijini în timp ce începem un nou capitol din călătoria noastră.',
     'beta.thanks': 'Vă mulțumim pentru susținere!',
     'scratchpad.about': 'Notele și ideile tale accesibile oriunde pe site.',
     'common.feedback': 'Feedback',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Elimină {option}',
     create: 'Creează',
     'banner.support': 'Universul literar este posibil datorită sprijinului unor utilizatori ca tine. Pentru a ne ajuta să rămânem independenți și să îmbunătățim platforma, vă rugăm să luați în considerare abonarea la unul dintre planurile noastre.',
-    'banner.seePlans': 'Vizitați foaia noastră de parcurs pentru mai multe informații.',
+    'banner.seePlans': 'Vizitați pagina noastră de planuri pentru mai multe informații.',
     'common.noAccountQuestion': 'Nu ai un cont?',
     'common.haveAccountQuestion': 'Ai deja un cont?',
     'common.socialLogin': 'Conectează-te cu alte servicii',
