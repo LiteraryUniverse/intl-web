@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': '사용자 지정',
     'workshop.chapter.aiModel.custom.placeholder': 'AI 모델의 이름을 입력합니다.',
     'workshop.chapter.aiGenerated.locked': 'AI 콘텐츠 표시는 모더레이션 팀에서 조정했기 때문에 변경할 수 없습니다.',
-    'workshop.monetization.aiNotEligible': 'AI가 생성한 콘텐츠는 수익 창출 대상이 아닙니다.'
+    'workshop.monetization.aiNotEligible': 'AI가 생성한 콘텐츠는 수익 창출 대상이 아닙니다.',
+    'workshop.license.exclusiveUniverse': '유니버스에서는 독점 라이선스를 사용하므로 법적 혼란을 방지하기 위해 모든 스토리도 동일한 라이선스를 따라야 합니다.'
 };
