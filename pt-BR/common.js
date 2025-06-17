@@ -119,7 +119,7 @@ export default {
     copyrights: 'Direitos autorais',
     'common.challenges': 'Desafios',
     // for beta only
-    'beta.notice': 'Bem-vindo ao Universo Literário BETA! Esta é uma prévia da nossa plataforma, e ainda estamos trabalhando ativamente em melhorias. Como resultado, o senhor poderá encontrar alguns bugs ou recursos incompletos. Se algo não parecer certo, gostaríamos muito de receber seu feedback e sua compreensão enquanto continuamos a aperfeiçoar a experiência.',
+    'beta.notice': 'Bem-vindo ao Universo Literário BETA! É com grande satisfação que informamos aos senhores que lançaremos oficialmente o site nesta sexta-feira! Esperamos que os senhores se juntem a nós e nos apoiem no início de um novo capítulo de nossa jornada.',
     'beta.thanks': 'Obrigado por seu apoio!',
     'scratchpad.about': 'Suas notas e idéias acessíveis em qualquer lugar do site.',
     'common.feedback': 'Feedback',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Remover {option}',
     create: 'Criar',
     'banner.support': 'O Universo Literário é possível graças ao apoio de usuários como o senhor. Para nos ajudar a manter a independência e aprimorar a plataforma, considere a possibilidade de assinar um de nossos planos.',
-    'banner.seePlans': 'Visite nosso roteiro para obter mais informações.',
+    'banner.seePlans': 'Visite nossa página de planos para obter mais informações.',
     'common.noAccountQuestion': 'Não tem uma conta?',
     'common.haveAccountQuestion': 'Já tem uma conta?',
     'common.socialLogin': 'Faça login com outros serviços',
