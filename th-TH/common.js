@@ -119,7 +119,7 @@ export default {
     copyrights: 'ลิขสิทธิ์',
     'common.challenges': 'ความท้าทาย',
     // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
     'beta.thanks': 'ขอบคุณสำหรับการสนับสนุนของคุณ!',
     'scratchpad.about': 'บันทึกและความคิดเห็นของคุณสามารถเข้าถึงได้ทุกที่บนเว็บไซต์',
     'common.feedback': 'ข้อเสนอแนะ',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'ลบ {option}',
     create: 'สร้าง',
     'banner.support': 'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
-    'banner.seePlans': 'Visit our roadmap for more information.',
+    'banner.seePlans': 'Visit our plans page for more information.',
     'common.noAccountQuestion': 'ยังไม่มีบัญชีใช่หรือไม่?',
     'common.haveAccountQuestion': 'มีบัญชีอยู่แล้วใช่หรือไม่?',
     'common.socialLogin': 'เข้าสู่ระบบด้วยบริการอื่น',
