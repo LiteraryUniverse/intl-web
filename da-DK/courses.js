@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Søg efter bruger...',
   'course.search.user': 'Søg efter bruger',
   'course.user.addFinished': 'Færdig',
+  // Course invites
+  'courses.invites.title': 'Invitationer til kurser',
+  'courses.invites.heading': 'Invitationer til kurser',
+  'courses.invites.tile': 'Du er inviteret til at deltage i {count, plural, one {kursus} other {kurser}}.',
+  'courses.invites.noInvites': 'Du har ikke nogen kursusinvitationer i øjeblikket.',
+  'courses.invites.invitedBy': 'Inviteret af: ',
+  'courses.invites.accept': 'Accepter',
+  'courses.invites.reject': 'Afvis',
+  'courses.role.owner': 'Ejer',
+  'courses.role.teacher': 'Lærer',
+  'courses.role.student': 'Studerende',
 };
