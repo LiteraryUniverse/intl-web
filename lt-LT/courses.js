@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Ieškokite naudotojo...',
   'course.search.user': 'Naudotojo paieška',
   'course.user.addFinished': 'Baigtas',
+  // Course invites
+  'courses.invites.title': 'Kvietimai į kursus',
+  'courses.invites.heading': 'Kvietimai į kursus',
+  'courses.invites.tile': 'Kviečiame dalyvauti {count, plural, one {kursuose} other {kursuose}}.',
+  'courses.invites.noInvites': 'Šiuo metu neturite jokių kvietimų į kursus.',
+  'courses.invites.invitedBy': 'Kviečia: ',
+  'courses.invites.accept': 'Priimti',
+  'courses.invites.reject': 'Atmesti',
+  'courses.role.owner': 'Savininkas',
+  'courses.role.teacher': 'Mokytojas',
+  'courses.role.student': 'Studentas',
 };
