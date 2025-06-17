@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Kohandatud',
     'workshop.chapter.aiModel.custom.placeholder': 'Sisestage tehisintellekti mudeli nimi',
     'workshop.chapter.aiGenerated.locked': 'AI sisu märgistust ei saa muuta, sest modereerimismeeskond on seda kohandanud.',
-    'workshop.monetization.aiNotEligible': 'Tehisintellekti abil loodud sisu ei ole kõlblik rahaliseks kasutamiseks.'
+    'workshop.monetization.aiNotEligible': 'Tehisintellekti abil loodud sisu ei ole kõlblik rahaliseks kasutamiseks.',
+    'workshop.license.exclusiveUniverse': 'Universum kasutab ainulitsentsi, mis tähendab, et ka kõik lood peavad järgima sama litsentsi, et vältida õiguslikku kaost.'
 };
