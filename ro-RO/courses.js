@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Căutare utilizator...',
   'course.search.user': 'Căutare utilizator',
   'course.user.addFinished': 'Terminat',
+  // Course invites
+  'courses.invites.title': 'Invitații la cursuri',
+  'courses.invites.heading': 'Invitații la cursuri',
+  'courses.invites.tile': 'Sunteți invitați să participați la {count, plural, one {curs} other {cursuri}}.',
+  'courses.invites.noInvites': 'Momentan nu aveți invitații la cursuri.',
+  'courses.invites.invitedBy': 'Invitat de: ',
+  'courses.invites.accept': 'Acceptați',
+  'courses.invites.reject': 'Respingeți',
+  'courses.role.owner': 'Proprietar',
+  'courses.role.teacher': 'Învățător',
+  'courses.role.student': 'Student',
 };
