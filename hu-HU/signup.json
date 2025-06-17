@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Light Novel",
 	"signup.reader.mediaType.web_novel": "Webregény",
 	"signup.reader.mediaType.visual_novel": "Vizuális regény",
+	"signup.reader.mediaType.short_story": "Rövid történet",
 	"signup.writer.mediaType.title": "Milyen típusú médiát élvezel a legjobban?",
 	"signup.writer.mediaType.description": "Válassza ki azokat, amelyek a legjobban megfelelnek az érdeklődési körének.",
 	"signup.writer.mediaType.longStories.title": "Hosszú történetek",
