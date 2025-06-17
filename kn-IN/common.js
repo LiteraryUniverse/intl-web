@@ -119,7 +119,7 @@ export default {
     copyrights: 'ಹಕ್ಕುಗಳು',
     'common.challenges': 'ಸವಾಲುಗಳು',
     // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
     'beta.thanks': 'ನಿಮ್ಮ ಬೆಂಬಲಕ್ಕೆ ಧನ್ಯವಾದಗಳು!',
     'scratchpad.about': 'ನೀವು ನೋಟಗಳು ಮತ್ತು ಕನಸುಗಳನ್ನು ಯಾವುದೇ ಸ್ಥಳದಲ್ಲಿಯೂ ಪಡೆಯಬಹುದು.',
     'common.feedback': 'ಪ್ರತಿಕ್ರಿಯೆ',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'ತೆಗೆದುಹಾಕು {option}',
     create: 'ರಚಿಸಿ',
     'banner.support': 'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
-    'banner.seePlans': 'Visit our roadmap for more information.',
+    'banner.seePlans': 'Visit our plans page for more information.',
     'common.noAccountQuestion': 'ಖಾತೆ ಇಲ್ಲವೇ?',
     'common.haveAccountQuestion': 'ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ?',
     'common.socialLogin': 'ಇತರ ಸೇವೆಗಳ ಜೊತೆಗೆ ಲಾಗಿನ್ ಮಾಡಿ',
