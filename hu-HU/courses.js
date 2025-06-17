@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Felhasználó keresése...',
   'course.search.user': 'Felhasználó keresése',
   'course.user.addFinished': 'Kész',
+  // Course invites
+  'courses.invites.title': 'Tanfolyam meghívók',
+  'courses.invites.heading': 'Tanfolyam meghívók',
+  'courses.invites.tile': 'Meghívjuk Önt, hogy vegyen részt a {count, plural, one {tanfolyam} other {tanfolyamok}}.',
+  'courses.invites.noInvites': 'Jelenleg nincsenek tanfolyami meghívóid.',
+  'courses.invites.invitedBy': 'Meghívott:: ',
+  'courses.invites.accept': 'Elfogadom',
+  'courses.invites.reject': 'Visszautasítani',
+  'courses.role.owner': 'Tulajdonos',
+  'courses.role.teacher': 'Tanár',
+  'courses.role.student': 'Diák',
 };
