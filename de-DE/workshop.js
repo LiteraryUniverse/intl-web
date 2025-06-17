@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Benutzerdefiniert',
     'workshop.chapter.aiModel.custom.placeholder': 'Geben Sie den Namen des KI-Modells ein',
     'workshop.chapter.aiGenerated.locked': 'Die Kennzeichnung von KI-Inhalten kann nicht geändert werden, da sie vom Moderationsteam angepasst wurde.',
-    'workshop.monetization.aiNotEligible': 'KI-generierte Inhalte sind nicht für die Monetarisierung geeignet.'
+    'workshop.monetization.aiNotEligible': 'KI-generierte Inhalte sind nicht für die Monetarisierung geeignet.',
+    'workshop.license.exclusiveUniverse': 'Das Universum verwendet eine Exklusivlizenz, was bedeutet, dass auch alle Geschichten derselben Lizenz folgen müssen, um ein rechtliches Chaos zu vermeiden.'
 };
