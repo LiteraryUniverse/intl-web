@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Buscar usuario...',
   'course.search.user': 'Buscar usuario',
   'course.user.addFinished': 'Terminado',
+  // Course invites
+  'courses.invites.title': 'Invitaciones a cursos',
+  'courses.invites.heading': 'Invitaciones a cursos',
+  'courses.invites.tile': 'Le invitamos a participar en {count, plural, one {cursos} other {cursos}}.',
+  'courses.invites.noInvites': 'Por el momento no tiene ninguna invitación a un curso.',
+  'courses.invites.invitedBy': 'Invitado por: ',
+  'courses.invites.accept': 'Acepte',
+  'courses.invites.reject': 'Rechace',
+  'courses.role.owner': 'Propietario',
+  'courses.role.teacher': 'Profesor',
+  'courses.role.student': 'Estudiante',
 };
