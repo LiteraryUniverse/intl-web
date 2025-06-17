@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Ελαφρύ μυθιστόρημα",
 	"signup.reader.mediaType.web_novel": "Μυθιστόρημα στο διαδίκτυο",
 	"signup.reader.mediaType.visual_novel": "Οπτικό μυθιστόρημα",
+	"signup.reader.mediaType.short_story": "Σύντομη ιστορία",
 	"signup.writer.mediaType.title": "Ποιο είδος μέσων ενημέρωσης σας αρέσει περισσότερο;",
 	"signup.writer.mediaType.description": "Διαλέξτε αυτά που ταιριάζουν καλύτερα στα ενδιαφέροντά σας.",
 	"signup.writer.mediaType.longStories.title": "Μεγάλες ιστορίες",
