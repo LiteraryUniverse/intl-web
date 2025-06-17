@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Roman ușor",
 	"signup.reader.mediaType.web_novel": "Roman web",
 	"signup.reader.mediaType.visual_novel": "Roman vizual",
+	"signup.reader.mediaType.short_story": "Poveste scurtă",
 	"signup.writer.mediaType.title": "Ce tip de media vă place cel mai mult?",
 	"signup.writer.mediaType.description": "Alegeți-le pe cele care corespund cel mai bine intereselor dumneavoastră.",
 	"signup.writer.mediaType.longStories.title": "Povești lungi",
