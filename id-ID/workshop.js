@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Kustom',
     'workshop.chapter.aiModel.custom.placeholder': 'Masukkan nama model AI',
     'workshop.chapter.aiGenerated.locked': 'Penandaan konten AI tidak dapat diubah karena telah disesuaikan oleh tim moderasi.',
-    'workshop.monetization.aiNotEligible': 'Konten yang dihasilkan oleh AI tidak memenuhi syarat untuk dimonetisasi.'
+    'workshop.monetization.aiNotEligible': 'Konten yang dihasilkan oleh AI tidak memenuhi syarat untuk dimonetisasi.',
+    'workshop.license.exclusiveUniverse': 'The Universe menggunakan lisensi eksklusif, yang berarti bahwa semua cerita juga harus mengikuti lisensi yang sama untuk mencegah kekacauan hukum.'
 };
