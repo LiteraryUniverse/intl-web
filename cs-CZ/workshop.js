@@ -318,5 +318,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Vlastní',
     'workshop.chapter.aiModel.custom.placeholder': 'Zadejte název modelu AI',
     'workshop.chapter.aiGenerated.locked': 'Označení obsahu AI nelze změnit, protože bylo upraveno moderátorským týmem.',
-    'workshop.monetization.aiNotEligible': 'Obsah vytvořený umělou inteligencí není způsobilý pro zpeněžení.'
+    'workshop.monetization.aiNotEligible': 'Obsah vytvořený umělou inteligencí není způsobilý pro zpeněžení.',
+    'workshop.license.exclusiveUniverse': 'Vesmír používá výhradní licenci, což znamená, že všechny příběhy se musí řídit stejnou licencí, aby se zabránilo právnímu chaosu.'
 };
