@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Novel ringan",
 	"signup.reader.mediaType.web_novel": "Novel Web",
 	"signup.reader.mediaType.visual_novel": "Novel Visual",
+	"signup.reader.mediaType.short_story": "Cerita Pendek",
 	"signup.writer.mediaType.title": "Jenis media apa yang paling Anda sukai?",
 	"signup.writer.mediaType.description": "Pilihlah yang paling sesuai dengan minat Anda.",
 	"signup.writer.mediaType.longStories.title": "Cerita Panjang",
