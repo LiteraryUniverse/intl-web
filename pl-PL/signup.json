@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Powieść lekka",
 	"signup.reader.mediaType.web_novel": "Powieść internetowa",
 	"signup.reader.mediaType.visual_novel": "Powieść wizualna",
+	"signup.reader.mediaType.short_story": "Krótka historia",
 	"signup.writer.mediaType.title": "Jaki rodzaj mediów lubi Pan/Pani najbardziej?",
 	"signup.writer.mediaType.description": "Proszę wybrać te, które najlepiej odpowiadają Państwa zainteresowaniom.",
 	"signup.writer.mediaType.longStories.title": "Długie historie",
