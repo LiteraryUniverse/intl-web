@@ -119,7 +119,7 @@ export default {
     copyrights: 'Tekijänoikeudet',
     'common.challenges': 'Haasteet',
     // for beta only
-    'beta.notice': 'Tervetuloa kirjallisuusuniversumin BETA-versioon! Tämä on alustamme varhainen esikatselu, ja teemme edelleen aktiivisesti parannuksia. Tämän vuoksi saatat törmätä joihinkin virheisiin tai epätäydellisiin ominaisuuksiin. Jos jokin ei tunnu oikealta, arvostamme suuresti palautettasi ja ymmärrystäsi, kun jatkamme kokemuksen hiomista.',
+    'beta.notice': 'Tervetuloa kirjallisuusuniversumin BETA-versioon! Olemme innoissamme voidessamme kertoa, että käynnistämme virallisesti tämän viikon perjantaina! Toivomme, että liityt seuraamme ja tuet meitä, kun aloitamme uuden luvun matkallamme.',
     'beta.thanks': 'Kiitos tuestanne!',
     'scratchpad.about': 'Muistiinpanosi ja ideasi ovat saatavilla missä tahansa sivustolla.',
     'common.feedback': 'Palaute',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Poista {option}',
     create: 'Luo',
     'banner.support': 'Literary Universe on mahdollista sinunlaistesi käyttäjien tuen ansiosta. Auta meitä pysymään itsenäisinä ja parantamaan alustaa, niin harkitse tilausta johonkin suunnitelmistamme.',
-    'banner.seePlans': 'Lisätietoja saat etenemissuunnitelmastamme.',
+    'banner.seePlans': 'Vieraile suunnitelmissamme sivulla saadaksesi lisätietoja.',
     'common.noAccountQuestion': 'Eikö sinulla ole tiliä?',
     'common.haveAccountQuestion': 'Onko sinulla jo tili?',
     'common.socialLogin': 'Kirjaudu sisään muiden palveluiden kautta',
