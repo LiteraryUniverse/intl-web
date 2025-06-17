@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "輕小说",
 	"signup.reader.mediaType.web_novel": "網路小說",
 	"signup.reader.mediaType.visual_novel": "視覺小說",
+	"signup.reader.mediaType.short_story": "短篇故事",
 	"signup.writer.mediaType.title": "您最喜歡哪種類型的媒體？",
 	"signup.writer.mediaType.description": "挑選最符合您興趣的項目。",
 	"signup.writer.mediaType.longStories.title": "長篇故事",
