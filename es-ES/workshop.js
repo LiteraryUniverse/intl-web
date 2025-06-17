@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'A medida',
     'workshop.chapter.aiModel.custom.placeholder': 'Introduzca el nombre del modelo de IA',
     'workshop.chapter.aiGenerated.locked': 'El marcado del contenido de la IA no puede modificarse porque ha sido ajustado por el equipo de moderación.',
-    'workshop.monetization.aiNotEligible': 'Los contenidos generados por IA no son susceptibles de monetización.'
+    'workshop.monetization.aiNotEligible': 'Los contenidos generados por IA no son susceptibles de monetización.',
+    'workshop.license.exclusiveUniverse': 'El universo utiliza una licencia exclusiva, lo que significa que todas las historias también tienen que seguir la misma licencia para evitar el caos legal.'
 };
