@@ -331,5 +331,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Пользовательский',
     'workshop.chapter.aiModel.custom.placeholder': 'Введите название модели искусственного интеллекта',
     'workshop.chapter.aiGenerated.locked': 'Маркировка контента AI не может быть изменена, поскольку она была скорректирована командой модераторов.',
-    'workshop.monetization.aiNotEligible': 'Контент, созданный искусственным интеллектом, не подлежит монетизации.'
+    'workshop.monetization.aiNotEligible': 'Контент, созданный искусственным интеллектом, не подлежит монетизации.',
+    'workshop.license.exclusiveUniverse': 'Вселенная использует эксклюзивную лицензию, что означает, что все истории также должны следовать той же лицензии, чтобы избежать юридического хаоса.'
 };
