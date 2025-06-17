@@ -119,7 +119,7 @@ export default {
     copyrights: '版權',
     'common.challenges': '挑戰',
     // for beta only
-    'beta.notice': '歡迎來到 Literary Universe BETA！這是我們平台的早期預覽，我們仍在積極改進中。因此，您可能會遇到一些錯誤或不完整的功能。如果有什麼地方看起來不對勁，我們會非常感激您的反饋和諒解，因為我們會繼續改進我們的體驗。',
+    'beta.notice': '歡迎來到 Literary Universe BETA！我們很高興地告訴您，我們將於本週五正式推出！我們希望您能加入並支持我們，共同開啟我們人生旅程的新篇章。',
     'beta.thanks': '感謝您的支持！',
     'scratchpad.about': '您的筆記和想法可以在網站的任何地方訪問。',
     'common.feedback': '反饋',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': '刪除 {option}',
     create: '創建',
     'banner.support': 'Literary Universe 的誕生有賴於像您這樣的用戶的支持。為了幫助我們保持獨立並改善平台，請考慮訂閱我們的計劃之一。',
-    'banner.seePlans': '請造訪我們的路線圖以取得更多資訊。',
+    'banner.seePlans': '請造訪我們的計劃頁面，瞭解更多資訊。',
     'common.noAccountQuestion': '還沒有帳戶？',
     'common.haveAccountQuestion': '已經有帳戶？',
     'common.socialLogin': '使用其他服務登錄',
