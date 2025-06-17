@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Otsi kasutaja...',
   'course.search.user': 'Kasutaja otsing',
   'course.user.addFinished': 'Valmis',
+  // Course invites
+  'courses.invites.title': 'Kursuse kutsed',
+  'courses.invites.heading': 'Kursuse kutsed',
+  'courses.invites.tile': 'Olete oodatud osalema {count, plural, one {kursusel} other {kursustel}}.',
+  'courses.invites.noInvites': 'Teil ei ole hetkel ühtegi kursuse kutset.',
+  'courses.invites.invitedBy': 'Kutsuja: ',
+  'courses.invites.accept': 'Aktsepteeri',
+  'courses.invites.reject': 'Lükake tagasi',
+  'courses.role.owner': 'Omanik',
+  'courses.role.teacher': 'Õpetaja',
+  'courses.role.student': 'Õpilane',
 };
