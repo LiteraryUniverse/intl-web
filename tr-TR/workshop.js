@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Özel',
     'workshop.chapter.aiModel.custom.placeholder': 'Yapay zeka modelinin adını girin',
     'workshop.chapter.aiGenerated.locked': 'AI içerik işaretlemesi, moderasyon ekibi tarafından ayarlandığı için değiştirilemez.',
-    'workshop.monetization.aiNotEligible': 'Yapay zeka tarafından oluşturulan içerik para kazanma için uygun değildir.'
+    'workshop.monetization.aiNotEligible': 'Yapay zeka tarafından oluşturulan içerik para kazanma için uygun değildir.',
+    'workshop.license.exclusiveUniverse': 'Evren özel bir lisans kullanıyor, bu da yasal kaosu önlemek için tüm hikayelerin de aynı lisansı takip etmesi gerektiği anlamına geliyor.'
 };
