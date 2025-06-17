@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': '自訂',
     'workshop.chapter.aiModel.custom.placeholder': '輸入 AI 模型的名稱',
     'workshop.chapter.aiGenerated.locked': 'AI 內容標記不能變更，因為它已由審核團隊調整。',
-    'workshop.monetization.aiNotEligible': 'AI 產生的內容不符合貨幣化的條件。'
+    'workshop.monetization.aiNotEligible': 'AI 產生的內容不符合貨幣化的條件。',
+    'workshop.license.exclusiveUniverse': '宇宙使用專屬授權，這表示所有故事也必須遵循相同的授權，以避免法律上的混亂。'
 };
