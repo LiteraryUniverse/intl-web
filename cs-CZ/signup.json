@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Lehký román",
 	"signup.reader.mediaType.web_novel": "Webový román",
 	"signup.reader.mediaType.visual_novel": "Vizuální román",
+	"signup.reader.mediaType.short_story": "Krátký příběh",
 	"signup.writer.mediaType.title": "Jaký typ médií máte nejraději?",
 	"signup.writer.mediaType.description": "Vyberte si ty, které nejlépe odpovídají vašim zájmům.",
 	"signup.writer.mediaType.longStories.title": "Dlouhé příběhy",
