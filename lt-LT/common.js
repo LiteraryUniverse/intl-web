@@ -119,7 +119,7 @@ export default {
     copyrights: 'Autorių teisės',
     'common.challenges': 'Iššūkiai',
     // for beta only
-    'beta.notice': 'Sveiki atvykę į Literatūrinės visatos BETA! Tai yra ankstyvoji mūsų platformos peržiūra, kurią vis dar aktyviai tobuliname. Todėl galite susidurti su kai kuriomis klaidomis ar neišbaigtomis funkcijomis. Jei kas nors atrodo ne taip, kaip reikia, būsime labai dėkingi už jūsų atsiliepimus ir supratimą, nes toliau tobulinsime patirtį.',
+    'beta.notice': 'Sveiki atvykę į Literatūrinės visatos BETA! Džiaugiamės galėdami pranešti, kad šį penktadienį oficialiai pradedame veiklą! Tikimės, kad prisijungsite prie mūsų ir mus palaikysite, kai pradėsime naują savo kelionės etapą.',
     'beta.thanks': 'Dėkojame už jūsų paramą!',
     'scratchpad.about': 'Jūsų pastabos ir idėjos pasiekiamos bet kur svetainėje.',
     'common.feedback': 'Atsiliepimai',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Pašalinti {option}',
     create: 'Sukurti',
     'banner.support': '"Literary Universe" tapo įmanoma dėl tokių naudotojų, kaip jūs, paramos. Kad padėtumėte mums išlikti nepriklausomiems ir tobulinti platformą, apsvarstykite galimybę užsisakyti vieną iš mūsų planų.',
-    'banner.seePlans': 'Daugiau informacijos rasite mūsų veiksmų plane.',
+    'banner.seePlans': 'Daugiau informacijos rasite mūsų planų puslapyje.',
     'common.noAccountQuestion': 'Neturite paskyros?',
     'common.haveAccountQuestion': 'Jau turite paskyrą?',
     'common.socialLogin': 'Prisijungti su kitomis paslaugomis',
