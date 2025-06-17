@@ -119,7 +119,7 @@ export default {
     copyrights: '著作権',
     'common.challenges': '挑戦',
     // for beta only
-    'beta.notice': 'Literary Universe BETAへようこそ！これは私たちのプラットフォームの初期プレビューであり、私たちはまだ積極的に改善に取り組んでいます。そのため、バグや不完全な機能に遭遇する可能性があります。もし何かおかしいと思われましたら、フィードバックをお寄せいただき、ご理解をいただければ幸いです。',
+    'beta.notice': 'リテラリーユニバースBETAへようこそ！今週金曜日に正式にスタートすることをお知らせできることを嬉しく思います！私たちの新たな旅立ちを応援してください。',
     'beta.thanks': 'ご協力ありがとうございました。',
     'scratchpad.about': 'サイトのどこからでもご自身専用のメモ欄やアイデアにアクセスが可能です。',
     'common.feedback': 'ご意見',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': '{option}を削除します。',
     create: '作成する',
     'banner.support': 'Literary Universeは、皆様のようなユーザーの皆様のご支援のおかげで成り立っています。独立を維持し、プラットフォームを改善するために、ぜひいずれかのプランへのご加入をご検討ください。',
-    'banner.seePlans': '詳しくはロードマップをご覧ください。',
+    'banner.seePlans': '詳しくは、プランのページをご覧ください。',
     'common.noAccountQuestion': 'アカウントをお持ちではありませんか？',
     'common.haveAccountQuestion': 'すでにアカウントをお持ちですか？',
     'common.socialLogin': '他のサービスでログイン',
