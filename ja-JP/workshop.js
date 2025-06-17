@@ -304,5 +304,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'カスタム',
     'workshop.chapter.aiModel.custom.placeholder': 'AIモデルの名前を入力',
     'workshop.chapter.aiGenerated.locked': 'AIコンテンツマーキングは、モデレーションチームによって調整されているため、変更することはできません。',
-    'workshop.monetization.aiNotEligible': 'AIが生成したコンテンツは収益化の対象にはならない。'
+    'workshop.monetization.aiNotEligible': 'AIが生成したコンテンツは収益化の対象にはならない。',
+    'workshop.license.exclusiveUniverse': 'このユニバースは独占ライセンスを使用しているため、法的混乱を防ぐためにすべてのストーリーも同じライセンスに従わなければならない。'
 };
