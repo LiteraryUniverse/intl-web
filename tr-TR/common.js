@@ -119,7 +119,7 @@ export default {
     copyrights: 'Telif Hakları',
     'common.challenges': 'Meydan Okumalar',
     // for beta only
-    'beta.notice': 'Literary Universe BETA\'ya hoş geldiniz! Bu, platformumuzun erken bir önizlemesidir ve hala aktif olarak iyileştirmeler üzerinde çalışıyoruz. Sonuç olarak, bazı hatalar veya eksik özelliklerle karşılaşabilirsiniz. Doğru görünmeyen bir şey varsa, deneyimi geliştirmeye devam ederken geri bildiriminiz ve anlayışınız için çok teşekkür ederiz.',
+    'beta.notice': 'Literary Universe BETA\'ya hoş geldiniz! Bu Cuma günü resmi olarak yayın hayatına başlayacağımızı bildirmekten heyecan duyuyoruz! Yolculuğumuzda yeni bir bölüme başlarken bize katılacağınızı ve bizi destekleyeceğinizi umuyoruz.',
     'beta.thanks': 'Destek için teşekkür ederiz!',
     'scratchpad.about': 'Notlarınız ve fikirleriniz sitede her yerden erişilebilir.',
     'common.feedback': 'Geri bildirim',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': '{option}öğesini kaldır',
     create: 'Oluştur',
     'banner.support': 'Literary Universe, sizin gibi kullanıcıların desteği sayesinde mümkün olmaktadır. Bağımsız kalmamıza ve platformu geliştirmemize yardımcı olmak için lütfen planlarımızdan birine abone olmayı düşünün.',
-    'banner.seePlans': 'Daha fazla bilgi için yol haritamızı ziyaret edin.',
+    'banner.seePlans': 'Daha fazla bilgi için planlar sayfamızı ziyaret edin.',
     'common.noAccountQuestion': 'Hesabınız yok mu?',
     'common.haveAccountQuestion': 'Zaten bir hesabınız var mı?',
     'common.socialLogin': 'Diğer hizmetlerle giriş yap',
