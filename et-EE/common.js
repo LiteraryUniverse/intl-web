@@ -119,7 +119,7 @@ export default {
     copyrights: 'Autoriõigused',
     'common.challenges': 'Väljakutsed',
     // for beta only
-    'beta.notice': 'Tere tulemast Kirjandusuniversumi BETA-sse! See on meie platvormi varajane eelvaade ja me töötame veel aktiivselt paranduste kallal. Selle tulemusena võite kohata mõningaid vigu või mittetäielikke funktsioone. Kui midagi ei tundu olevat õige, oleksime väga tänulikud teie tagasiside ja mõistmise eest, kuna me jätkame kasutuskogemuse täiustamist.',
+    'beta.notice': 'Tere tulemast Kirjandusuniversumi BETA-sse! Meil on hea meel teile teada anda, et sel reedel alustame ametlikult tööd! Loodame, et liitute meiega ja toetate meid, kui alustame uut peatükki oma teekonnal.',
     'beta.thanks': 'Täname teid toetuse eest!',
     'scratchpad.about': 'Sinu märkmed ja ideed on kättesaadavad igal pool saidil.',
     'common.feedback': 'Tagasiside',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Eemalda {option}',
     create: 'Loo',
     'banner.support': 'Kirjandusuniversum on võimalik tänu teie-suguste kasutajate toetusele. Selleks, et aidata meil jääda sõltumatuks ja parandada platvormi, palun kaaluge võimalust tellida üks meie plaanidest.',
-    'banner.seePlans': 'Lisateabe saamiseks külastage meie teekaarti.',
+    'banner.seePlans': 'Lisateabe saamiseks külastage meie plaanide lehekülge.',
     'common.noAccountQuestion': 'Kas sul ei ole kontot?',
     'common.haveAccountQuestion': 'Kas sul on juba konto?',
     'common.socialLogin': 'Logi sisse teiste teenustega',
