@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Αναζήτηση χρήστη...',
   'course.search.user': 'Αναζήτηση για χρήστη',
   'course.user.addFinished': 'Τελειωμένο',
+  // Course invites
+  'courses.invites.title': 'Προσκλήσεις μαθημάτων',
+  'courses.invites.heading': 'Προσκλήσεις μαθημάτων',
+  'courses.invites.tile': 'Καλείστε να λάβετε μέρος στα {count, plural, one {μαθήματα} other {μαθήματα}}.',
+  'courses.invites.noInvites': 'Δεν έχετε προσκλήσεις για μαθήματα αυτή τη στιγμή.',
+  'courses.invites.invitedBy': 'Προσκεκλημένος από: ',
+  'courses.invites.accept': 'Αποδοχή',
+  'courses.invites.reject': 'Απόρριψη',
+  'courses.role.owner': 'Ιδιοκτήτης',
+  'courses.role.teacher': 'Δάσκαλος',
+  'courses.role.student': 'Φοιτητής',
 };
