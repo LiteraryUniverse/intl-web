@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'ユーザーを検索...',
   'course.search.user': 'ユーザー検索',
   'course.user.addFinished': '終了',
+  // Course invites
+  'courses.invites.title': 'コース案内',
+  'courses.invites.heading': 'コース案内',
+  'courses.invites.tile': '{count, plural, one {コース} other {コース}}.',
+  'courses.invites.noInvites': '現在、コースの案内はありませんね。',
+  'courses.invites.invitedBy': '招待者 ',
+  'courses.invites.accept': '受け入れる',
+  'courses.invites.reject': '却下',
+  'courses.role.owner': 'オーナー',
+  'courses.role.teacher': '教師',
+  'courses.role.student': '学生',
 };
