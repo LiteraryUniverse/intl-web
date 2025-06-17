@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Lichte roman",
 	"signup.reader.mediaType.web_novel": "Webroman",
 	"signup.reader.mediaType.visual_novel": "Visuele roman",
+	"signup.reader.mediaType.short_story": "Kort verhaal",
 	"signup.writer.mediaType.title": "Van welk type media geniet u het meest?",
 	"signup.writer.mediaType.description": "Kies degenen die het beste bij uw interesses passen.",
 	"signup.writer.mediaType.longStories.title": "Lange verhalen",
