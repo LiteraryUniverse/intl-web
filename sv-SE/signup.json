@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Light Novel",
 	"signup.reader.mediaType.web_novel": "Roman på webben",
 	"signup.reader.mediaType.visual_novel": "Visuell roman",
+	"signup.reader.mediaType.short_story": "Kort berättelse",
 	"signup.writer.mediaType.title": "Vilken typ av media tycker du mest om?",
 	"signup.writer.mediaType.description": "Välj de som bäst matchar dina intressen.",
 	"signup.writer.mediaType.longStories.title": "Långa berättelser",
