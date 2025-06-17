@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Vyhledávání uživatelů...',
   'course.search.user': 'Vyhledávání uživatele',
   'course.user.addFinished': 'Dokončeno',
+  // Course invites
+  'courses.invites.title': 'Pozvánky na kurzy',
+  'courses.invites.heading': 'Pozvánky na kurzy',
+  'courses.invites.tile': 'Zveme vás k účasti na {count, plural, one {kurzu} other {kurzech}}.',
+  'courses.invites.noInvites': 'V současné době nemáte žádné pozvánky na kurzy.',
+  'courses.invites.invitedBy': 'Pozvání přijal: ',
+  'courses.invites.accept': 'Přijmout',
+  'courses.invites.reject': 'Odmítnout',
+  'courses.role.owner': 'Majitel',
+  'courses.role.teacher': 'Učitel',
+  'courses.role.student': 'Student',
 };
