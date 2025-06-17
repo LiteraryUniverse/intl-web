@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Kullanıcı ara...',
   'course.search.user': 'Kullanıcı ara',
   'course.user.addFinished': 'Bitti',
+  // Course invites
+  'courses.invites.title': 'Kurs Davetiyeleri',
+  'courses.invites.heading': 'Kurs Davetiyeleri',
+  'courses.invites.tile': '{count, plural, one {kursuna} other {kurslarına}}katılmaya davetlisiniz.',
+  'courses.invites.noInvites': 'Şu anda herhangi bir kurs davetiyeniz yok.',
+  'courses.invites.invitedBy': 'Davet eden: ',
+  'courses.invites.accept': 'Kabul et',
+  'courses.invites.reject': 'Reddet',
+  'courses.role.owner': 'Sahibi',
+  'courses.role.teacher': 'Öğretmen',
+  'courses.role.student': 'Öğrenci',
 };
