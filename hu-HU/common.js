@@ -119,7 +119,7 @@ export default {
     copyrights: 'Szerzői jogok',
     'common.challenges': 'Kihívások',
     // for beta only
-    'beta.notice': 'Üdvözöljük az Irodalmi Univerzum BETA-ban! Ez a platformunk korai előzetese, és még aktívan dolgozunk a fejlesztéseken. Ennek eredményeképpen előfordulhat, hogy hibákkal vagy hiányos funkciókkal találkozhat. Ha valami nem tűnik megfelelőnek, nagyra értékeljük a visszajelzéseit és megértését, miközben tovább finomítjuk a felhasználói élményt.',
+    'beta.notice': 'Üdvözöljük az Irodalmi Univerzum BETA-ban! Izgatottan tudatjuk veletek, hogy most pénteken hivatalosan is elindulunk! Reméljük, hogy csatlakozol hozzánk, és támogatsz minket, miközben új fejezetet kezdünk az utunkon.',
     'beta.thanks': 'Köszönjük a támogatást!',
     'scratchpad.about': 'Az Ön jegyzetei és ötletei bárhol elérhetők a webhelyen.',
     'common.feedback': 'Visszajelzés',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': '{option}eltávolítása',
     create: 'Létrehozás',
     'banner.support': 'Az Irodalmi Univerzum az Önhöz hasonló felhasználók támogatásának köszönhetően valósulhat meg. Hogy segítsen nekünk függetlenek maradni és fejleszteni a platformot, kérjük, fontolja meg, hogy előfizet valamelyik tervezetünkre.',
-    'banner.seePlans': 'További információkért látogasson el az útitervünkre.',
+    'banner.seePlans': 'További információkért látogasson el a tervek oldalunkra.',
     'common.noAccountQuestion': 'Nincs fiókja?',
     'common.haveAccountQuestion': 'Már van fiókja?',
     'common.socialLogin': 'Bejelentkezés más szolgáltatásokkal',
