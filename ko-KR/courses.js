@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': '사용자 검색...',
   'course.search.user': '사용자 검색',
   'course.user.addFinished': '완료',
+  // Course invites
+  'courses.invites.title': '코스 초대',
+  'courses.invites.heading': '코스 초대',
+  'courses.invites.tile': '{count, plural, one {코스} other {코스}}에 참여하도록 초대합니다.',
+  'courses.invites.noInvites': '현재 코스 초대가 없습니다.',
+  'courses.invites.invitedBy': '초대받은 사람: ',
+  'courses.invites.accept': '수락',
+  'courses.invites.reject': '거부',
+  'courses.role.owner': '소유자',
+  'courses.role.teacher': '교사',
+  'courses.role.student': '학생',
 };
