@@ -119,7 +119,7 @@ export default {
     copyrights: 'Bản quyền',
     'common.challenges': 'Thử Thách',
     // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
     'beta.thanks': 'Cảm ơn sự giúp đỡ của bạn!',
     'scratchpad.about': 'Ghi chú và ý tưởng của bạn có thể truy cập bất cứ nơi nào trên trang web.',
     'common.feedback': 'Phản hồi',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Xóa {option}',
     create: 'Tạo',
     'banner.support': 'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
-    'banner.seePlans': 'Visit our roadmap for more information.',
+    'banner.seePlans': 'Visit our plans page for more information.',
     'common.noAccountQuestion': 'Chưa có tài khoản?',
     'common.haveAccountQuestion': 'Đã có tài khoản?',
     'common.socialLogin': 'Đăng nhập bằng các dịch vụ khác',
