@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Anpassad',
     'workshop.chapter.aiModel.custom.placeholder': 'Ange namnet på AI-modellen',
     'workshop.chapter.aiGenerated.locked': 'AI-märkning av innehåll kan inte ändras eftersom den har justerats av modereringsteamet.',
-    'workshop.monetization.aiNotEligible': 'AI-genererat innehåll är inte berättigat till intäktsgenerering.'
+    'workshop.monetization.aiNotEligible': 'AI-genererat innehåll är inte berättigat till intäktsgenerering.',
+    'workshop.license.exclusiveUniverse': 'Universumet använder en exklusiv licens, vilket innebär att alla berättelser också måste följa samma licens för att förhindra juridiskt kaos.'
 };
