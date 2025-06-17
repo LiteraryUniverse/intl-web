@@ -119,7 +119,7 @@ export default {
     copyrights: 'Ophavsrettigheder',
     'common.challenges': 'Udfordringer',
     // for beta only
-    'beta.notice': 'Velkommen til det litterære univers BETA! Dette er en tidlig udgave af vores platform, og vi arbejder stadig aktivt på at forbedre den. Som følge heraf kan du støde på nogle fejl eller ufuldstændige funktioner. Hvis der er noget, der ikke virker rigtigt, vil vi sætte stor pris på din feedback og forståelse, så vi kan fortsætte med at forbedre oplevelsen.',
+    'beta.notice': 'Velkommen til det litterære univers BETA! Vi er glade for at kunne fortælle dig, at vi officielt lancerer på fredag! Vi håber, at du vil slutte dig til os og støtte os, når vi starter et nyt kapitel på vores rejse.',
     'beta.thanks': 'Tak for din støtte!',
     'scratchpad.about': 'Dine noter og ideer tilgængelige overalt på siden.',
     'common.feedback': 'Feedback',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Fjern {option}',
     create: 'Opret',
     'banner.support': 'Literary Universe er gjort muligt takket være støtte fra brugere som dig. For at hjælpe os med at forblive uafhængige og forbedre platformen, kan du overveje at abonnere på en af vores planer.',
-    'banner.seePlans': 'Besøg vores køreplan for mere information.',
+    'banner.seePlans': 'Besøg vores side med planer for mere information.',
     'common.noAccountQuestion': 'Har du ikke en konto?',
     'common.haveAccountQuestion': 'Har du allerede en konto?',
     'common.socialLogin': 'Log ind med andre tjenester',
