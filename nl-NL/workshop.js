@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Aangepaste',
     'workshop.chapter.aiModel.custom.placeholder': 'Voer de naam van het AI-model in',
     'workshop.chapter.aiGenerated.locked': 'AI-contentmarkering kan niet worden gewijzigd omdat deze is aangepast door het moderatieteam.',
-    'workshop.monetization.aiNotEligible': 'AI-gegenereerde inhoud komt niet in aanmerking voor monetisatie.'
+    'workshop.monetization.aiNotEligible': 'AI-gegenereerde inhoud komt niet in aanmerking voor monetisatie.',
+    'workshop.license.exclusiveUniverse': 'Het universum gebruikt een exclusieve licentie, wat betekent dat alle verhalen ook dezelfde licentie moeten volgen om juridische chaos te voorkomen.'
 };
