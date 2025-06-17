@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Custom',
     'workshop.chapter.aiModel.custom.placeholder': 'Adja meg a mesterséges intelligencia modell nevét',
     'workshop.chapter.aiGenerated.locked': 'A mesterséges intelligencia tartalmi jelölés nem módosítható, mivel azt a moderációs csapat már módosította.',
-    'workshop.monetization.aiNotEligible': 'A mesterséges intelligencia által generált tartalom nem jogosult a pénzzé tételre.'
+    'workshop.monetization.aiNotEligible': 'A mesterséges intelligencia által generált tartalom nem jogosult a pénzzé tételre.',
+    'workshop.license.exclusiveUniverse': 'Az univerzum kizárólagos licencet használ, ami azt jelenti, hogy a jogi káosz elkerülése érdekében minden történetnek ugyanazt a licencet kell követnie.'
 };
