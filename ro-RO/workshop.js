@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Personalizat',
     'workshop.chapter.aiModel.custom.placeholder': 'Introduceți numele modelului AI',
     'workshop.chapter.aiGenerated.locked': 'Marcarea conținutului AI nu poate fi modificată deoarece a fost ajustată de echipa de moderare.',
-    'workshop.monetization.aiNotEligible': 'Conținutul generat de AI nu este eligibil pentru monetizare.'
+    'workshop.monetization.aiNotEligible': 'Conținutul generat de AI nu este eligibil pentru monetizare.',
+    'workshop.license.exclusiveUniverse': 'Universul folosește o licență exclusivă, ceea ce înseamnă că toate poveștile trebuie să respecte aceeași licență pentru a preveni haosul juridic.'
 };
