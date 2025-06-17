@@ -119,7 +119,7 @@ export default {
     copyrights: 'Hak cipta',
     'common.challenges': 'Tantangan',
     // for beta only
-    'beta.notice': 'Selamat datang di Literary Universe BETA! Ini adalah pratinjau awal platform kami, dan kami masih terus melakukan perbaikan. Akibatnya, Anda mungkin menemukan beberapa bug atau fitur yang belum lengkap. Jika ada sesuatu yang tidak beres, kami akan sangat menghargai umpan balik dan pengertian Anda saat kami terus menyempurnakan pengalaman Anda.',
+    'beta.notice': 'Selamat datang di BETA Literary Universe! Kami sangat senang untuk memberi tahu Anda bahwa kami secara resmi akan diluncurkan pada hari Jumat ini! Kami berharap Anda akan bergabung dengan kami dan mendukung kami saat kami memulai babak baru dalam perjalanan kami.',
     'beta.thanks': 'Terima kasih atas dukungan Anda!',
     'scratchpad.about': 'Catatan dan ide Anda dapat diakses di mana saja pada situs web.',
     'common.feedback': 'Feedback',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Hapus {option}',
     create: 'Buat',
     'banner.support': 'Literary Universe dapat terwujud berkat dukungan pengguna seperti Anda. Untuk membantu kami tetap independen dan meningkatkan platform ini, mohon pertimbangkan untuk berlangganan salah satu paket kami.',
-    'banner.seePlans': 'Kunjungi peta jalan kami untuk informasi lebih lanjut.',
+    'banner.seePlans': 'Kunjungi halaman paket kami untuk informasi lebih lanjut.',
     'common.noAccountQuestion': 'Belum punya akun?',
     'common.haveAccountQuestion': 'Sudah punya akun?',
     'common.socialLogin': 'Masuk dengan layanan lain',
