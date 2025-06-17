@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Mencari pengguna...',
   'course.search.user': 'Mencari pengguna',
   'course.user.addFinished': 'Selesai.',
+  // Course invites
+  'courses.invites.title': 'Undangan Kursus',
+  'courses.invites.heading': 'Undangan Kursus',
+  'courses.invites.tile': 'Anda diundang untuk ikut serta dalam {count, plural, one {kursus} other {kursus}}.',
+  'courses.invites.noInvites': 'Anda tidak memiliki undangan kursus saat ini.',
+  'courses.invites.invitedBy': 'Diundang oleh: ',
+  'courses.invites.accept': 'Menerima',
+  'courses.invites.reject': 'Menolak',
+  'courses.role.owner': 'Pemilik',
+  'courses.role.teacher': 'Guru',
+  'courses.role.student': 'Mahasiswa',
 };
