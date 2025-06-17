@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Kerge romaan",
 	"signup.reader.mediaType.web_novel": "Veebiromaan",
 	"signup.reader.mediaType.visual_novel": "Visuaalne romaan",
+	"signup.reader.mediaType.short_story": "Lühike lugu",
 	"signup.writer.mediaType.title": "Millist tüüpi meedia meeldib teile kõige rohkem?",
 	"signup.writer.mediaType.description": "Valige need, mis vastavad kõige paremini teie huvidele.",
 	"signup.writer.mediaType.longStories.title": "Pikad lood",
