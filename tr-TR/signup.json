@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Hafif Roman",
 	"signup.reader.mediaType.web_novel": "Web Roman",
 	"signup.reader.mediaType.visual_novel": "Görsel Roman",
+	"signup.reader.mediaType.short_story": "Kısa Hikaye",
 	"signup.writer.mediaType.title": "En çok ne tür medyadan hoşlanıyorsunuz?",
 	"signup.writer.mediaType.description": "İlgi alanlarınıza en uygun olanları seçin.",
 	"signup.writer.mediaType.longStories.title": "Uzun Hikayeler",
