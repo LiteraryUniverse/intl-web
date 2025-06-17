@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Proszę wyszukać użytkownika...',
   'course.search.user': 'Proszę wyszukać użytkownika',
   'course.user.addFinished': 'Zakończony',
+  // Course invites
+  'courses.invites.title': 'Zaproszenia na kursy',
+  'courses.invites.heading': 'Zaproszenia na kursy',
+  'courses.invites.tile': 'Zapraszamy Państwa do udziału w {count, plural, one {kursie} other {kursach}}.',
+  'courses.invites.noInvites': 'W tej chwili nie mają Państwo żadnych zaproszeń na kursy.',
+  'courses.invites.invitedBy': 'Zaproszony przez: ',
+  'courses.invites.accept': 'Proszę zaakceptować',
+  'courses.invites.reject': 'Proszę odrzucić',
+  'courses.role.owner': 'Właściciel',
+  'courses.role.teacher': 'Nauczyciel',
+  'courses.role.student': 'Student',
 };
