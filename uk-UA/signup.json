@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Легкий роман",
 	"signup.reader.mediaType.web_novel": "Веб-роман",
 	"signup.reader.mediaType.visual_novel": "Візуальний роман",
+	"signup.reader.mediaType.short_story": "Коротке оповідання",
 	"signup.writer.mediaType.title": "Який тип медіа вам подобається найбільше?",
 	"signup.writer.mediaType.description": "Обирайте ті, що найбільше відповідають вашим інтересам.",
 	"signup.writer.mediaType.longStories.title": "Довгі історії",
