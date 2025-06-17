@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Sök efter användare...',
   'course.search.user': 'Sök efter användare',
   'course.user.addFinished': 'Färdig',
+  // Course invites
+  'courses.invites.title': 'Inbjudningar till kurser',
+  'courses.invites.heading': 'Inbjudningar till kurser',
+  'courses.invites.tile': 'Du är inbjuden att ta del av {count, plural, one {kurs} other {kurser}}.',
+  'courses.invites.noInvites': 'Du har inga kursinbjudningar för tillfället.',
+  'courses.invites.invitedBy': 'Inbjuden av: ',
+  'courses.invites.accept': 'Acceptera',
+  'courses.invites.reject': 'Avvisa',
+  'courses.role.owner': 'Ägare',
+  'courses.role.teacher': 'Lärare',
+  'courses.role.student': 'Student',
 };
