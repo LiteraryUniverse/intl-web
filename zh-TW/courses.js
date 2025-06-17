@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': '搜尋使用者...',
   'course.search.user': '搜尋使用者',
   'course.user.addFinished': '完成',
+  // Course invites
+  'courses.invites.title': '課程邀請函',
+  'courses.invites.heading': '課程邀請函',
+  'courses.invites.tile': '邀請您參加 {count, plural, one {課程} other {課程}}。',
+  'courses.invites.noInvites': '您目前沒有任何課程邀請。',
+  'courses.invites.invitedBy': '受邀者： ',
+  'courses.invites.accept': '接受',
+  'courses.invites.reject': '拒絕',
+  'courses.role.owner': '業主',
+  'courses.role.teacher': '教師',
+  'courses.role.student': '學生',
 };
