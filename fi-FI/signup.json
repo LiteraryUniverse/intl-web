@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Kevyt romaani",
 	"signup.reader.mediaType.web_novel": "Verkkoromaani",
 	"signup.reader.mediaType.visual_novel": "Visuaalinen romaani",
+	"signup.reader.mediaType.short_story": "Lyhyt tarina",
 	"signup.writer.mediaType.title": "Minkälaisesta mediasta pidät eniten?",
 	"signup.writer.mediaType.description": "Valitse ne, jotka vastaavat parhaiten kiinnostuksen kohteitasi.",
 	"signup.writer.mediaType.longStories.title": "Pitkät tarinat",
