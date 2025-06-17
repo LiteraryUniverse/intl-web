@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Нестандартний',
     'workshop.chapter.aiModel.custom.placeholder': 'Введіть назву моделі ШІ',
     'workshop.chapter.aiGenerated.locked': 'Маркування контенту зі штучним інтелектом не може бути змінено, оскільки воно було налаштоване командою модераторів.',
-    'workshop.monetization.aiNotEligible': 'Контент, створений штучним інтелектом, не підлягає монетизації.'
+    'workshop.monetization.aiNotEligible': 'Контент, створений штучним інтелектом, не підлягає монетизації.',
+    'workshop.license.exclusiveUniverse': 'Всесвіт використовує ексклюзивну ліцензію, а це означає, що всі історії також повинні дотримуватися тієї ж ліцензії, щоб запобігти правовому хаосу.'
 };
