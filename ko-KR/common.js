@@ -119,7 +119,7 @@ export default {
     copyrights: '저작권',
     'common.challenges': '도전',
     // for beta only
-    'beta.notice': '문학 세계 베타 버전에 오신 것을 환영합니다! 이 버전은 플랫폼의 초기 프리뷰 버전으로, 아직 개선 작업을 진행 중입니다. 따라서 일부 버그나 불완전한 기능이 발생할 수 있습니다. 불편한 점이 발견되더라도 계속해서 개선해 나가는 과정에서 여러분의 피드백과 이해를 부탁드립니다.',
+    'beta.notice': '문학의 세계 베타 버전에 오신 것을 환영합니다! 이번 주 금요일에 공식적으로 출시된다는 소식을 알려드리게 되어 기쁩니다! 저희 여정의 새로운 장을 시작하는 저희와 함께해주시고 응원해주시기 바랍니다.',
     'beta.thanks': '여러분의 성원에 감사드립니다!',
     'scratchpad.about': '사이트 어디에서나 노트와 아이디어에 액세스할 수 있습니다.',
     'common.feedback': '피드백',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': '{option}제거',
     create: '만들기',
     'banner.support': '리터러리 유니버스는 여러분과 같은 사용자들의 지원 덕분에 가능했습니다. 저희의 독립성을 유지하고 플랫폼을 개선하는 데 도움이 되려면 저희의 요금제 중 하나를 구독해 주세요.',
-    'banner.seePlans': '자세한 내용은 로드맵을 참조하세요.',
+    'banner.seePlans': '자세한 내용은 요금제 페이지를 참조하세요.',
     'common.noAccountQuestion': '계정이 없으신가요?',
     'common.haveAccountQuestion': '계정이 이미 있으신가요?',
     'common.socialLogin': '다른 서비스로 로그인하기',
