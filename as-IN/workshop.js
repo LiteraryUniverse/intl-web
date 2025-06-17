@@ -312,5 +312,6 @@ export default {
     'workshop.chapter.aiModel.custom': 'Custom',
     'workshop.chapter.aiModel.custom.placeholder': 'Enter the name of the AI model',
     'workshop.chapter.aiGenerated.locked': 'AI content marking cannot be changed because it has been adjusted by the moderation team.',
-    'workshop.monetization.aiNotEligible': 'AI-generated content is not eligible for monetization.'
+    'workshop.monetization.aiNotEligible': 'AI-generated content is not eligible for monetization.',
+    'workshop.license.exclusiveUniverse': 'The universe uses an exclusive license, which means that all stories also have to follow the same license in order to prevent legal chaos.'
 };
