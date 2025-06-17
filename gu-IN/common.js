@@ -119,7 +119,7 @@ export default {
     copyrights: 'કૉપિરાઇટ્સ',
     'common.challenges': 'ચેલેન્જીસ',
     // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! This is an early preview of our platform, and we’re still actively working on improvements. As a result, you may encounter some bugs or incomplete features. If something doesn’t seem right, we’d greatly appreciate your feedback and understanding as we continue refining the experience.',
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
     'beta.thanks': 'આપના સપોર્ટ માટે આભાર!',
     'scratchpad.about': 'તમારા નોંધપાત્ર અને વિચારો સાઇટ પર કોઈપણ સ્થાને ઍક્સેસ કરી શકાય છે.',
     'common.feedback': 'પ્રતિસાદ',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Remove {option}',
     create: 'Create',
     'banner.support': 'Literary Universe is made possible thanks to the support of users like you. To help us remain independent and improve the platform, please consider subscribing to one of our plans.',
-    'banner.seePlans': 'Visit our roadmap for more information.',
+    'banner.seePlans': 'Visit our plans page for more information.',
     'common.noAccountQuestion': 'Don\'t have an account?',
     'common.haveAccountQuestion': 'Already have an account?',
     'common.socialLogin': 'Login with other services',
