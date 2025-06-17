@@ -119,7 +119,7 @@ export default {
     copyrights: 'Prawa Autorskie',
     'common.challenges': 'Wyzwania',
     // for beta only
-    'beta.notice': 'Witamy w wersji BETA Literary Universe! Jest to wczesny podgląd naszej platformy i wciąż aktywnie pracujemy nad ulepszeniami. W rezultacie mogą Państwo napotkać pewne błędy lub niekompletne funkcje. Jeśli coś wydaje się nie tak, będziemy bardzo wdzięczni za Państwa opinie i zrozumienie, ponieważ nadal udoskonalamy nasze doświadczenie.',
+    'beta.notice': 'Witamy w Literary Universe BETA! Z radością informujemy Państwa, że oficjalnie startujemy w ten piątek! Mamy nadzieję, że dołączą Państwo do nas i wesprą nas w rozpoczęciu nowego rozdziału w naszej podróży.',
     'beta.thanks': 'Dziękujemy za wsparcie!',
     'scratchpad.about': 'Twoje notatki i pomysły dostępne w każdym miejscu na stronie.',
     'common.feedback': 'Sugestie',
@@ -260,7 +260,7 @@ export default {
     'select.removeOption': 'Usuń {option}',
     create: 'Utwórz',
     'banner.support': 'Literary Universe jest możliwe dzięki wsparciu użytkowników takich jak Państwo. Aby pomóc nam zachować niezależność i ulepszać platformę, prosimy rozważyć subskrypcję jednego z naszych planów.',
-    'banner.seePlans': 'Proszę odwiedzić naszą mapę drogową, aby uzyskać więcej informacji.',
+    'banner.seePlans': 'Aby uzyskać więcej informacji, prosimy odwiedzić naszą stronę z planami.',
     'common.noAccountQuestion': 'Nie masz konta?',
     'common.haveAccountQuestion': 'Masz już konto?',
     'common.socialLogin': 'Zaloguj przez inne usługi',
