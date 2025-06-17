@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Ранобэ",
 	"signup.reader.mediaType.web_novel": "Веб-новелла",
 	"signup.reader.mediaType.visual_novel": "Визуальная новелла",
+	"signup.reader.mediaType.short_story": "Короткая история",
 	"signup.writer.mediaType.title": "Какой тип издания вам нравится больше всего?",
 	"signup.writer.mediaType.description": "Выберите те, которые лучше всего соответствуют вашим интересам.",
 	"signup.writer.mediaType.longStories.title": "Длинные истории",
