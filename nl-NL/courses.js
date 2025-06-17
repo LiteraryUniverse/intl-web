@@ -97,4 +97,15 @@ export default {
   'courses.members.search.placeholder': 'Zoek naar gebruiker...',
   'course.search.user': 'Zoeken naar gebruiker',
   'course.user.addFinished': 'Afgewerkt',
+  // Course invites
+  'courses.invites.title': 'Uitnodigingen voor cursussen',
+  'courses.invites.heading': 'Uitnodigingen voor cursussen',
+  'courses.invites.tile': 'U bent uitgenodigd om deel te nemen aan {count, plural, one {cursus} other {cursussen}}.',
+  'courses.invites.noInvites': 'U hebt momenteel geen cursusuitnodigingen.',
+  'courses.invites.invitedBy': 'Uitgenodigd door: ',
+  'courses.invites.accept': 'Accepteer',
+  'courses.invites.reject': 'Weiger',
+  'courses.role.owner': 'Eigenaar',
+  'courses.role.teacher': 'Leraar',
+  'courses.role.student': 'Student',
 };
