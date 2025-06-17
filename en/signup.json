@@ -58,6 +58,7 @@
 	"signup.reader.mediaType.light_novel": "Light Novel",
 	"signup.reader.mediaType.web_novel": "Web Novel",
 	"signup.reader.mediaType.visual_novel": "Visual Novel",
+	"signup.reader.mediaType.short_story": "Short Story",
 
 	"signup.writer.mediaType.title": "What type of media do you enjoy the most?",
 	"signup.writer.mediaType.description": "Pick the ones that best match your interests.",
