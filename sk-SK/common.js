@@ -119,7 +119,7 @@ export default {
     copyrights: 'Autorské práva',
     'common.challenges': 'Výzvy',
     // for beta only
-    'beta.notice': 'Vitajte v Literary Universe BETA! Toto je skorý náhľad našej platformy a stále aktívne pracujeme na jej vylepšeniach. V dôsledku toho sa môžete stretnúť s niektorými chybami alebo neúplnými funkciami. Ak sa vám niečo nezdá, budeme veľmi vďační za vašu spätnú väzbu a pochopenie, pretože pokračujeme v zdokonaľovaní tohto prostredia.',
+    'beta.notice': 'Vitajte v Literárnom vesmíre BETA! S radosťou vám oznamujeme, že tento piatok oficiálne spúšťame! Dúfame, že sa k nám pripojíte a podporíte nás pri začatí novej kapitoly našej cesty.',
     'beta.thanks': 'Ďakujeme Vám za podporu!',
     'scratchpad.about': 'Vaše poznámky a nápady sú prístupné kdekoľvek na stránke.',
     'common.feedback': 'Spätná väzba',
