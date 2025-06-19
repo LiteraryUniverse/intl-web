@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Livstidsmedlemskabet er ikke tilgængeligt. Prøv venligst igen senere.',
     'plans.lifetime.error.notConfigured': 'Betalingsudbyderen er ikke korrekt konfigureret. Kontakt venligst support.',
     'plans.lifetime.error.notLoggedIn': 'Du skal være logget ind for at købe et livstidsmedlemskab.',
-    'plans.lifetime.error.generic': 'Der opstod en fejl under opsætning af checkout. Prøv venligst igen senere.'
+    'plans.lifetime.error.generic': 'Der opstod en fejl under opsætning af checkout. Prøv venligst igen senere.',
+    'plans.lifetime.subscription.title': 'Livsvarigt medlemskab',
+    'plans.lifetime.subscription.description': 'Du har et livsvarigt medlemskab af Literary Universe. Tak for din fantastiske støtte!',
+    'plans.lifetime.subscription.status': 'Status: Aktiv for altid',
+    'plans.lifetime.subscription.purchaseDate': 'Købt på: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Dit livstidsmedlemskab kræver ingen yderligere handling. Nyd dine fordele for evigt!'
 };
