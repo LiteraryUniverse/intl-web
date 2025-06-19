@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Planul de membru pe viață nu este disponibil. Vă rugăm să încercați din nou mai târziu.',
     'plans.lifetime.error.notConfigured': 'Furnizorul de plăți nu este configurat corespunzător. Vă rugăm să contactați asistența.',
     'plans.lifetime.error.notLoggedIn': 'Trebuie să fiți conectat pentru a achiziționa un abonament pe viață.',
-    'plans.lifetime.error.generic': 'A apărut o eroare în timpul configurării comenzii. Vă rugăm să încercați din nou mai târziu.'
+    'plans.lifetime.error.generic': 'A apărut o eroare în timpul configurării comenzii. Vă rugăm să încercați din nou mai târziu.',
+    'plans.lifetime.subscription.title': 'Membru pe viață',
+    'plans.lifetime.subscription.description': 'Sunteți membru pe viață al Literary Universe. Vă mulțumim pentru sprijinul dumneavoastră incredibil!',
+    'plans.lifetime.subscription.status': 'Stare: Activ pentru totdeauna',
+    'plans.lifetime.subscription.purchaseDate': 'Achiziționat pe: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Calitatea de membru pe viață nu necesită nicio acțiune suplimentară. Bucurați-vă de beneficiile dvs. pentru totdeauna!'
 };
