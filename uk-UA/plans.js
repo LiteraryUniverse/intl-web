@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'План довічного членства недоступний. Будь ласка, спробуйте пізніше.',
     'plans.lifetime.error.notConfigured': 'Неправильно налаштований платіжний провайдер. Зверніться до служби підтримки.',
     'plans.lifetime.error.notLoggedIn': 'Ви повинні увійти, щоб придбати довічне членство.',
-    'plans.lifetime.error.generic': 'Виникла помилка при налаштуванні оформлення замовлення. Будь ласка, спробуйте пізніше.'
+    'plans.lifetime.error.generic': 'Виникла помилка при налаштуванні оформлення замовлення. Будь ласка, спробуйте пізніше.',
+    'plans.lifetime.subscription.title': 'Довічне членство',
+    'plans.lifetime.subscription.description': 'Ви отримали довічне членство в Літературному Всесвіті. Дякуємо за вашу неймовірну підтримку!',
+    'plans.lifetime.subscription.status': 'Статус: Активний назавжди',
+    'plans.lifetime.subscription.purchaseDate': 'Придбано на: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Ваше довічне членство не потребує подальших дій. Насолоджуйтесь перевагами назавжди!'
 };
