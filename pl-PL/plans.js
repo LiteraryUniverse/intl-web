@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Dożywotni plan członkostwa nie jest dostępny. Proszę spróbować ponownie później.',
     'plans.lifetime.error.notConfigured': 'Dostawca płatności nie jest prawidłowo skonfigurowany. Proszę skontaktować się z pomocą techniczną.',
     'plans.lifetime.error.notLoggedIn': 'Aby zakupić dożywotnie członkostwo, muszą być Państwo zalogowani.',
-    'plans.lifetime.error.generic': 'Wystąpił błąd podczas konfigurowania kasy. Proszę spróbować ponownie później.'
+    'plans.lifetime.error.generic': 'Wystąpił błąd podczas konfigurowania kasy. Proszę spróbować ponownie później.',
+    'plans.lifetime.subscription.title': 'Dożywotnie członkostwo',
+    'plans.lifetime.subscription.description': 'Mają Państwo dożywotnie członkostwo w Literary Universe. Dziękujemy za Państwa niesamowite wsparcie!',
+    'plans.lifetime.subscription.status': 'Status: Aktywny na zawsze',
+    'plans.lifetime.subscription.purchaseDate': 'Zakupione na: {date, date, medium}.',
+    'plans.lifetime.subscription.noActions': 'Państwa dożywotnie członkostwo nie wymaga żadnych dodatkowych działań. Proszę cieszyć się korzyściami na zawsze!'
 };
