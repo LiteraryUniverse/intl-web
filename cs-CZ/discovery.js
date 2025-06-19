@@ -75,6 +75,8 @@ export default {
     'discovery.ai.universes': 'Vesmíry generované umělou inteligencí',
     'discovery.ai.stories': 'Příběhy generované umělou inteligencí',
     'discovery.ai.noContent': 'Zatím není k dispozici žádný obsah generovaný umělou inteligencí.',
+    'discovery.ai.noUniverses': 'Zatím nejsou k dispozici žádné vesmíry vytvořené umělou inteligencí.',
+    'discovery.ai.noStories': 'Zatím nejsou k dispozici žádné příběhy generované umělou inteligencí.',
     'discover.search.aiContent': 'Obsah AI',
     'discover.search.aiContent.both': 'Zobrazit celý obsah',
     'discover.search.aiContent.none': 'Skrytí obsahu generovaného umělou inteligencí',
