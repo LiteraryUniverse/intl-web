@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Palun logige sisse.',
     'legal.publicationAgreements': 'Avaldamislepingud',
     'legal.generalPublishingAgreement': 'Üldine avaldamisleping',
-    'legal.documentsFor': 'Õigusdokumendid {workTitle}'
+    'legal.documentsFor': 'Õigusdokumendid {workTitle}',
+    'legal.modal.agreeToAll': 'Nõustun kõigega'
 };
