@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'O plano de associação vitalícia não está disponível. Por favor, tente novamente mais tarde.',
     'plans.lifetime.error.notConfigured': 'O provedor de pagamento não está configurado corretamente. Entre em contato com o suporte.',
     'plans.lifetime.error.notLoggedIn': 'O senhor precisa estar conectado para comprar uma associação vitalícia.',
-    'plans.lifetime.error.generic': 'Ocorreu um erro ao configurar o checkout. Por favor, tente novamente mais tarde.'
+    'plans.lifetime.error.generic': 'Ocorreu um erro ao configurar o checkout. Por favor, tente novamente mais tarde.',
+    'plans.lifetime.subscription.title': 'Associação vitalícia',
+    'plans.lifetime.subscription.description': 'O senhor é membro vitalício do Literary Universe. Obrigado por seu incrível apoio!',
+    'plans.lifetime.subscription.status': 'Status: Ativo para sempre',
+    'plans.lifetime.subscription.purchaseDate': 'Comprado em: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Sua associação vitalícia não requer nenhuma ação adicional. Aproveite seus benefícios para sempre!'
 };
