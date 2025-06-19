@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'AI 產生的宇宙',
     'discovery.ai.stories': 'AI 產生的故事',
     'discovery.ai.noContent': '目前尚未提供 AI 產生的內容。',
+    'discovery.ai.noUniverses': '目前還沒有 AI 產生的宇宙。',
+    'discovery.ai.noStories': '目前還沒有 AI 產生的故事。',
     'discover.search.aiContent': 'AI 內容',
     'discover.search.aiContent.both': '顯示所有內容',
     'discover.search.aiContent.none': '隱藏 AI 產生的內容',
