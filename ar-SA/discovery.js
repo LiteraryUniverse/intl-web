@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'الأكوان المولدة بالذكاء الاصطناعي',
     'discovery.ai.stories': 'القصص التي تم إنشاؤها بالذكاء الاصطناعي',
     'discovery.ai.noContent': 'لا يتوفر حتى الآن أي محتوى من إنشاء الذكاء الاصطناعي.',
+    'discovery.ai.noUniverses': 'لا توجد أكوان مولدة بالذكاء الاصطناعي متاحة حتى الآن.',
+    'discovery.ai.noStories': 'لا توجد قصص من إنشاء الذكاء الاصطناعي متاحة حتى الآن.',
     'discover.search.aiContent': 'محتوى الذكاء الاصطناعي',
     'discover.search.aiContent.both': 'إظهار كل المحتوى',
     'discover.search.aiContent.none': 'إخفاء المحتوى الذي تم إنشاؤه بالذكاء الاصطناعي',
