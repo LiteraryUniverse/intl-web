@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Plán doživotného členstva nie je k dispozícii. Skúste to prosím neskôr.',
     'plans.lifetime.error.notConfigured': 'Poskytovateľ platby nie je správne nakonfigurovaný. Obráťte sa na podporu.',
     'plans.lifetime.error.notLoggedIn': 'Ak si chcete zakúpiť doživotné členstvo, musíte byť prihlásení.',
-    'plans.lifetime.error.generic': 'Pri nastavovaní odhlásenia došlo k chybe. Skúste to prosím neskôr.'
+    'plans.lifetime.error.generic': 'Pri nastavovaní odhlásenia došlo k chybe. Skúste to prosím neskôr.',
+    'plans.lifetime.subscription.title': 'Doživotné členstvo',
+    'plans.lifetime.subscription.description': 'Máte doživotné členstvo v Literárnom vesmíre. Ďakujeme vám za vašu neuveriteľnú podporu!',
+    'plans.lifetime.subscription.status': 'Stav: Aktívne navždy',
+    'plans.lifetime.subscription.purchaseDate': 'Zakúpené dňa: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Vaše doživotné členstvo si nevyžaduje žiadne ďalšie kroky. Užívajte si svoje výhody navždy!'
 };
