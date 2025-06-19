@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Le plan d\'adhésion à vie n\'est pas disponible. Veuillez réessayer plus tard.',
     'plans.lifetime.error.notConfigured': 'Le fournisseur de paiement n\'est pas correctement configuré. Veuillez contacter l\'assistance.',
     'plans.lifetime.error.notLoggedIn': 'Vous devez être connecté pour acheter une adhésion à vie.',
-    'plans.lifetime.error.generic': 'Une erreur s\'est produite lors de la mise en place du paiement. Veuillez réessayer plus tard.'
+    'plans.lifetime.error.generic': 'Une erreur s\'est produite lors de la mise en place du paiement. Veuillez réessayer plus tard.',
+    'plans.lifetime.subscription.title': 'Adhésion à vie',
+    'plans.lifetime.subscription.description': 'Vous êtes membre à vie de l\'Univers littéraire. Merci pour votre incroyable soutien !',
+    'plans.lifetime.subscription.status': 'Statut : Actif pour toujours',
+    'plans.lifetime.subscription.purchaseDate': 'Acheté sur : {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Votre adhésion à vie ne nécessite aucune autre démarche. Profitez de vos avantages pour toujours !'
 };
