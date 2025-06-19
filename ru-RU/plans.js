@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'План пожизненного членства недоступен. Пожалуйста, повторите попытку позже.',
     'plans.lifetime.error.notConfigured': 'Платежный провайдер настроен неправильно. Пожалуйста, обратитесь в службу поддержки.',
     'plans.lifetime.error.notLoggedIn': 'Вы должны войти в систему, чтобы приобрести пожизненное членство.',
-    'plans.lifetime.error.generic': 'При оформлении заказа произошла ошибка. Пожалуйста, повторите попытку позже.'
+    'plans.lifetime.error.generic': 'При оформлении заказа произошла ошибка. Пожалуйста, повторите попытку позже.',
+    'plans.lifetime.subscription.title': 'Пожизненное членство',
+    'plans.lifetime.subscription.description': 'У Вас есть пожизненное членство в Литературной Вселенной. Спасибо за Вашу невероятную поддержку!',
+    'plans.lifetime.subscription.status': 'Статус: Активный навсегда',
+    'plans.lifetime.subscription.purchaseDate': 'Приобретено на: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Ваше пожизненное членство не требует никаких дополнительных действий. Наслаждайтесь своими преимуществами вечно!'
 };
