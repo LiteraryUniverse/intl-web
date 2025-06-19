@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Vă rugăm să vă autentificați.',
     'legal.publicationAgreements': 'Acorduri de publicare',
     'legal.generalPublishingAgreement': 'Acord general de publicare',
-    'legal.documentsFor': 'Documente legale pentru {workTitle}'
+    'legal.documentsFor': 'Documente legale pentru {workTitle}',
+    'legal.modal.agreeToAll': 'De acord cu toate'
 };
