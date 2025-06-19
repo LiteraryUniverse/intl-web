@@ -345,4 +345,9 @@ export default {
   'plans.lifetime.error.notConfigured': 'Payment provider is not properly configured. Please contact support.',
   'plans.lifetime.error.notLoggedIn': 'You must be logged in to purchase a lifetime membership.',
   'plans.lifetime.error.generic': 'An error occurred while setting up checkout. Please try again later.',
+  'plans.lifetime.subscription.title': 'Lifetime Membership',
+  'plans.lifetime.subscription.description': 'You have a lifetime membership with Literary Universe. Thank you for your incredible support!',
+  'plans.lifetime.subscription.status': 'Status: Active Forever',
+  'plans.lifetime.subscription.purchaseDate': 'Purchased on: {date, date, medium}',
+  'plans.lifetime.subscription.noActions': 'Your lifetime membership requires no further action. Enjoy your benefits forever!',
 }
