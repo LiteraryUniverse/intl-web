@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'ದಯವಿಟ್ಟು ಲಾಗಿನ್ ಮಾಡಿ.',
     'legal.publicationAgreements': 'ಪ್ರಕಟಣೆ ಒಪ್ಪಂದಗಳು',
     'legal.generalPublishingAgreement': 'ಸಾಮಾನ್ಯ ಪ್ರಕಟಣೆ ಒಪ್ಪಂದ',
-    'legal.documentsFor': 'ಕಾನೂನಿಗೆ ಸಂಬಂಧಿಸಿದ ಆವಶ್ಯಕ ದಾಖಲೆಗಳು {workTitle}'
+    'legal.documentsFor': 'ಕಾನೂನಿಗೆ ಸಂಬಂಧಿಸಿದ ಆವಶ್ಯಕ ದಾಖಲೆಗಳು {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };
