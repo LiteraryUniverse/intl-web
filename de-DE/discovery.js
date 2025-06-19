@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'KI-generierte Universen',
     'discovery.ai.stories': 'KI-generierte Geschichten',
     'discovery.ai.noContent': 'Noch keine KI-generierten Inhalte verfügbar.',
+    'discovery.ai.noUniverses': 'Noch keine KI-generierten Universen verfügbar.',
+    'discovery.ai.noStories': 'Noch keine KI-generierten Geschichten verfügbar.',
     'discover.search.aiContent': 'KI-Inhalt',
     'discover.search.aiContent.both': 'Alle Inhalte anzeigen',
     'discover.search.aiContent.none': 'KI-generierte Inhalte ausblenden',
