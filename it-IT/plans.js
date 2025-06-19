@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Il piano di abbonamento a vita non è disponibile. La preghiamo di riprovare più tardi.',
     'plans.lifetime.error.notConfigured': 'Il provider di pagamento non è configurato correttamente. Contatti l\'assistenza.',
     'plans.lifetime.error.notLoggedIn': 'Per acquistare un\'iscrizione a vita deve aver effettuato il login.',
-    'plans.lifetime.error.generic': 'Si è verificato un errore durante l\'impostazione del checkout. La preghiamo di riprovare più tardi.'
+    'plans.lifetime.error.generic': 'Si è verificato un errore durante l\'impostazione del checkout. La preghiamo di riprovare più tardi.',
+    'plans.lifetime.subscription.title': 'Iscrizione a vita',
+    'plans.lifetime.subscription.description': 'Lei ha un abbonamento a vita a Literary Universe. Grazie per il suo incredibile sostegno!',
+    'plans.lifetime.subscription.status': 'Stato: Attivo per sempre',
+    'plans.lifetime.subscription.purchaseDate': 'Acquistato su: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'La sua iscrizione a vita non richiede ulteriori azioni. Goda dei suoi vantaggi per sempre!'
 };
