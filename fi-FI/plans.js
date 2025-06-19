@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Elinikäinen jäsenyys ei ole saatavilla. Yritä myöhemmin uudelleen.',
     'plans.lifetime.error.notConfigured': 'Maksupalveluntarjoajaa ei ole määritetty oikein. Ota yhteyttä asiakaspalveluun.',
     'plans.lifetime.error.notLoggedIn': 'Sinun on oltava kirjautuneena sisään ostaaksesi elinikäisen jäsenyyden.',
-    'plans.lifetime.error.generic': 'Kassan määrityksessä tapahtui virhe. Yritä myöhemmin uudelleen.'
+    'plans.lifetime.error.generic': 'Kassan määrityksessä tapahtui virhe. Yritä myöhemmin uudelleen.',
+    'plans.lifetime.subscription.title': 'Elinikäinen jäsenyys',
+    'plans.lifetime.subscription.description': 'Sinulla on elinikäinen jäsenyys Literary Universessa. Kiitos uskomattomasta tuestasi!',
+    'plans.lifetime.subscription.status': 'Tilanne: Aktiivinen ikuisesti',
+    'plans.lifetime.subscription.purchaseDate': 'Ostettu: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Elinikäinen jäsenyytesi ei vaadi muita toimenpiteitä. Nauti eduistasi ikuisesti!'
 };
