@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Az élethosszig tartó tagság nem elérhető. Kérjük, próbálja meg később újra.',
     'plans.lifetime.error.notConfigured': 'A fizetési szolgáltató nincs megfelelően konfigurálva. Kérjük, forduljon az ügyfélszolgálathoz.',
     'plans.lifetime.error.notLoggedIn': 'Az élethosszig tartó tagság megvásárlásához be kell jelentkeznie.',
-    'plans.lifetime.error.generic': 'Hiba történt a pénztár beállítása közben. Kérjük, próbálja meg később újra.'
+    'plans.lifetime.error.generic': 'Hiba történt a pénztár beállítása közben. Kérjük, próbálja meg később újra.',
+    'plans.lifetime.subscription.title': 'Életre szóló tagság',
+    'plans.lifetime.subscription.description': 'Életre szóló tagságod van az Irodalmi Univerzumban. Köszönjük hihetetlen támogatásodat!',
+    'plans.lifetime.subscription.status': 'Állapot: Forever aktív',
+    'plans.lifetime.subscription.purchaseDate': 'Vásárolta a: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Az élethosszig tartó tagság nem igényel további lépéseket. Élvezze előnyeit örökké!'
 };
