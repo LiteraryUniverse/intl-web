@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Visą gyvenimą trunkančios narystės planas nėra prieinamas. Prašome pabandyti vėliau.',
     'plans.lifetime.error.notConfigured': 'Mokėjimo paslaugų teikėjas nėra tinkamai sukonfigūruotas. Kreipkitės į palaikymo tarnybą.',
     'plans.lifetime.error.notLoggedIn': 'Norėdami įsigyti visą gyvenimą trunkančią narystę, turite būti prisijungę.',
-    'plans.lifetime.error.generic': 'Nustatant užsakymą įvyko klaida. Prašome pabandyti vėliau.'
+    'plans.lifetime.error.generic': 'Nustatant užsakymą įvyko klaida. Prašome pabandyti vėliau.',
+    'plans.lifetime.subscription.title': 'Narystė visam gyvenimui',
+    'plans.lifetime.subscription.description': 'Visą gyvenimą esate "Literary Universe" narys. Dėkojame už neįtikėtiną paramą!',
+    'plans.lifetime.subscription.status': 'Būklė: Aktyvus visam laikui',
+    'plans.lifetime.subscription.purchaseDate': 'Įsigyta: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Jūsų narystei visą gyvenimą nereikia jokių papildomų veiksmų. Mėgaukitės savo privalumais amžinai!'
 };
