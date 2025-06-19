@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'خطة العضوية مدى الحياة غير متوفرة. يرجى المحاولة مرة أخرى لاحقاً.',
     'plans.lifetime.error.notConfigured': 'لم يتم تكوين موفر الدفع بشكل صحيح. يُرجى الاتصال بالدعم.',
     'plans.lifetime.error.notLoggedIn': 'يجب عليك تسجيل الدخول لشراء عضوية مدى الحياة.',
-    'plans.lifetime.error.generic': 'حدث خطأ أثناء إعداد عملية الدفع. يرجى المحاولة مرة أخرى لاحقاً.'
+    'plans.lifetime.error.generic': 'حدث خطأ أثناء إعداد عملية الدفع. يرجى المحاولة مرة أخرى لاحقاً.',
+    'plans.lifetime.subscription.title': 'عضوية مدى الحياة',
+    'plans.lifetime.subscription.description': 'لديك عضوية مدى الحياة في منظمة الكون الأدبي. شكراً لك على دعمك الرائع!',
+    'plans.lifetime.subscription.status': 'الحالة: نشط للأبد',
+    'plans.lifetime.subscription.purchaseDate': 'تم شراؤها على {date, date, medium}~',
+    'plans.lifetime.subscription.noActions': 'عضويتك مدى الحياة لا تتطلب أي إجراء آخر. استمتع بمزاياك إلى الأبد!'
 };
