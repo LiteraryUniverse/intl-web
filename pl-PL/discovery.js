@@ -73,6 +73,8 @@ export default {
     'discovery.ai.universes': 'Wszechświaty generowane przez SI',
     'discovery.ai.stories': 'Historie generowane przez sztuczną inteligencję',
     'discovery.ai.noContent': 'Zawartość generowana przez SI nie jest jeszcze dostępna.',
+    'discovery.ai.noUniverses': 'Nie ma jeszcze dostępnych wszechświatów generowanych przez SI.',
+    'discovery.ai.noStories': 'Historie generowane przez SI nie są jeszcze dostępne.',
     'discover.search.aiContent': 'Zawartość AI',
     'discover.search.aiContent.both': 'Proszę pokazać całą zawartość',
     'discover.search.aiContent.none': 'Ukrywanie treści generowanych przez SI',
