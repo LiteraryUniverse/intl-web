@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Ömür boyu üyelik planı mevcut değil. Lütfen daha sonra tekrar deneyin.',
     'plans.lifetime.error.notConfigured': 'Ödeme sağlayıcısı düzgün yapılandırılmamış. Lütfen destek ekibiyle iletişime geçin.',
     'plans.lifetime.error.notLoggedIn': 'Ömür boyu üyelik satın almak için giriş yapmış olmanız gerekmektedir.',
-    'plans.lifetime.error.generic': 'Ödeme ayarlanırken bir hata oluştu. Lütfen daha sonra tekrar deneyin.'
+    'plans.lifetime.error.generic': 'Ödeme ayarlanırken bir hata oluştu. Lütfen daha sonra tekrar deneyin.',
+    'plans.lifetime.subscription.title': 'Ömür Boyu Üyelik',
+    'plans.lifetime.subscription.description': 'Literary Universe ile ömür boyu üyeliğiniz var. İnanılmaz desteğiniz için teşekkür ederiz!',
+    'plans.lifetime.subscription.status': 'Statü: Sonsuza Kadar Aktif',
+    'plans.lifetime.subscription.purchaseDate': 'Satın alındı: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Ömür boyu üyeliğiniz başka bir işlem gerektirmez. Avantajlarınızdan sonsuza dek yararlanın!'
 };
