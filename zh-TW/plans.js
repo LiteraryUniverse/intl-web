@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': '終身會員計劃無法使用。請稍後再試。',
     'plans.lifetime.error.notConfigured': '付款提供商未正確設定。請聯絡支援人員。',
     'plans.lifetime.error.notLoggedIn': '您必須登入才能購買終身會員資格。',
-    'plans.lifetime.error.generic': '設定結帳時發生錯誤。請稍後再試。'
+    'plans.lifetime.error.generic': '設定結帳時發生錯誤。請稍後再試。',
+    'plans.lifetime.subscription.title': '終身會員',
+    'plans.lifetime.subscription.description': '您擁有 Literary Universe 的終身會員資格。感謝您令人難以置信的支持！',
+    'plans.lifetime.subscription.status': '狀態：永遠活躍',
+    'plans.lifetime.subscription.purchaseDate': '購買於 {date, date, medium}',
+    'plans.lifetime.subscription.noActions': '您的終身會員資格不需要任何進一步的行動。永遠享受您的優惠！'
 };
