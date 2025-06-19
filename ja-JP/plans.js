@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': '生涯会員プランはご利用いただけません。後でもう一度お試しください。',
     'plans.lifetime.error.notConfigured': '支払いプロバイダーが正しく設定されていません。サポートにご連絡ください。',
     'plans.lifetime.error.notLoggedIn': '生涯メンバーシップを購入するにはログインが必要です。',
-    'plans.lifetime.error.generic': 'チェックアウトの設定中にエラーが発生しました。後でもう一度お試しください。'
+    'plans.lifetime.error.generic': 'チェックアウトの設定中にエラーが発生しました。後でもう一度お試しください。',
+    'plans.lifetime.subscription.title': '終身会員',
+    'plans.lifetime.subscription.description': '文学ユニバースの終身会員になりました。あなたの素晴らしいサポートに感謝します！',
+    'plans.lifetime.subscription.status': 'ステータスアクティブ・フォーエバー',
+    'plans.lifetime.subscription.purchaseDate': 'Purchased on: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': '終身会員になるための手続きは必要ありません。いつまでも特典をお楽しみください！'
 };
