@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'ਕਿਰਪਾ ਕਰਕੇ ਲਾਗਇਨ ਕਰੋ।',
     'legal.publicationAgreements': 'ਪ੍ਰਕਾਸ਼ਨ ਸੁਝਾਅ',
     'legal.generalPublishingAgreement': 'ਆਮ ਪ੍ਰਕਾਸ਼ਨ ਸਮਝੌਤਾ',
-    'legal.documentsFor': 'ਕਾਨੂੰਨੀ ਦਸਤਾਵੇਜ਼ {workTitle}ਲਈ'
+    'legal.documentsFor': 'ਕਾਨੂੰਨੀ ਦਸਤਾਵੇਜ਼ {workTitle}ਲਈ',
+    'legal.modal.agreeToAll': 'Agree to All'
 };
