@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Eluaegne liikmelisuse plaan ei ole saadaval. Palun proovige hiljem uuesti.',
     'plans.lifetime.error.notConfigured': 'Makseteenuse pakkuja ei ole õigesti konfigureeritud. Palun võtke ühendust klienditoega.',
     'plans.lifetime.error.notLoggedIn': 'Eluaegse liikmesuse ostmiseks peate olema sisse logitud.',
-    'plans.lifetime.error.generic': 'Kassa seadistamisel tekkis viga. Palun proovige hiljem uuesti.'
+    'plans.lifetime.error.generic': 'Kassa seadistamisel tekkis viga. Palun proovige hiljem uuesti.',
+    'plans.lifetime.subscription.title': 'Eluaegne liikmelisus',
+    'plans.lifetime.subscription.description': 'Teil on eluaegne liitumine Kirjandusuniversumiga. Aitäh teie uskumatu toetuse eest!',
+    'plans.lifetime.subscription.status': 'Staatus: Aktiivne igavesti',
+    'plans.lifetime.subscription.purchaseDate': 'Ostetud aadressil: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Teie eluaegne liikmelisus ei nõua edasisi tegevusi. Nautige oma eeliseid igavesti!'
 };
