@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Silakan masuk.',
     'legal.publicationAgreements': 'Perjanjian Publikasi',
     'legal.generalPublishingAgreement': 'Perjanjian Penerbitan Umum',
-    'legal.documentsFor': 'Dokumen hukum untuk {workTitle}'
+    'legal.documentsFor': 'Dokumen hukum untuk {workTitle}',
+    'legal.modal.agreeToAll': 'Setuju untuk Semua'
 };
