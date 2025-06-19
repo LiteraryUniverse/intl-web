@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'សូមចូលប្រើប្រាស់។',
     'legal.publicationAgreements': 'កិច្ចសន្យាប្រកាសបោះពុម្ព',
     'legal.generalPublishingAgreement': 'កិច្ចសន្យាប្រកាសផ្សេងៗរបស់ការបោះពុម្ពទូទៅ',
-    'legal.documentsFor': 'ឯកសារព្រឹត្តិការណ៍ស្ថានភាពសិទ្ធិសង្គមសម្រាប់ {workTitle}'
+    'legal.documentsFor': 'ឯកសារព្រឹត្តិការណ៍ស្ថានភាពសិទ្ធិសង្គមសម្រាប់ {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };
