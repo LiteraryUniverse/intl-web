@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'אנא התחבר.',
     'legal.publicationAgreements': 'הסכמי פרסום',
     'legal.generalPublishingAgreement': 'הסכם פרסום כללי',
-    'legal.documentsFor': 'מסמכים משפטיים עבור {workTitle}'
+    'legal.documentsFor': 'מסמכים משפטיים עבור {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };
