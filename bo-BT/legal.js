@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Please login.',
     'legal.publicationAgreements': 'བསྐྱར་རྗེས་འབྲེལ་ལམ་ཚུ།',
     'legal.generalPublishingAgreement': 'སྤྱིའི་རྩོམ་པ་འབྲེལ་ལམ་ཚུ།',
-    'legal.documentsFor': 'གནས་ཚུལ་འགྲེལ་བཤད་ཚུ་ {workTitle}'
+    'legal.documentsFor': 'གནས་ཚུལ་འགྲེལ་བཤད་ཚུ་ {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

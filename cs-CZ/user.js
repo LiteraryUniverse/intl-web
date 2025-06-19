@@ -66,5 +66,5 @@ export default {
     'storiesType.serialized': 'Serializované',
     'storiesType.short_story': 'short_story',
     'user.settings.introTitle': 'Vítejte ve svém nastavení!',
-    'user.settings.introText': 'Nastavení profilu vám umožní přizpůsobit informace o sobě, jako je vaše jméno, avatar atd. Nastavení účtu umožňují nastavit více technických aspektů, které mají vliv na vaše zkušenosti, například jazyk, e-maily, téma webu, nastavení umělé inteligence atd. Předplatné a platby vám umožní spravovat předplatné a možnosti plateb. A konečně Monetizace je místo, kde můžete spravovat výplaty, fankluby a další možnosti monetizace.'
+    'user.settings.introText': 'Nastavení profilu vám umožní přizpůsobit informace o Vás, jako je vaše jméno, avatar atd. Nastavení účtu umožňují nastavit více technických aspektů, které mají vliv na vaše zkušenosti, například jazyk, e-maily, téma webu, nastavení umělé inteligence atd. Předplatné a platby vám umožní spravovat předplatné a možnosti plateb. A konečně Monetizace je místo, kde můžete spravovat výplaty, fankluby a další možnosti monetizace.'
 };

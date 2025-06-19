@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Hier anmelden.',
     'legal.publicationAgreements': 'Veröffentlichungsvereinbarungen',
     'legal.generalPublishingAgreement': 'Allgemeine Veröffentlichungsvereinbarung',
-    'legal.documentsFor': 'Rechtliche Dokumente für {workTitle}'
+    'legal.documentsFor': 'Rechtliche Dokumente für {workTitle}',
+    'legal.modal.agreeToAll': 'Allen zustimmen'
 };

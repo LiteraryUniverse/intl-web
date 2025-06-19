@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Διαβάστε από το πρώτο κεφάλαιο',
     'discovery.readLatest': 'Διαβάστε το τελευταίο κεφάλαιο',
     'discovery.author': 'Συγγραφέας',
-    'discovery.aiGenerated': 'AI Generated'
+    'discovery.aiGenerated': 'AI Generated',
+    // New AI content related strings
+    'discovery.ai.content': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
+    'discovery.ai.universes': 'Σύμπαντα που δημιουργούνται από Τεχνητή Νοημοσύνη',
+    'discovery.ai.stories': 'Ιστορίες που παράγονται από τεχνητή νοημοσύνη',
+    'discovery.ai.noContent': 'Δεν υπάρχει ακόμη διαθέσιμο περιεχόμενο που δημιουργείται από τεχνητή νοημοσύνη.',
+    'discover.search.aiContent': 'Περιεχόμενο AI',
+    'discover.search.aiContent.both': 'Εμφάνιση όλου του περιεχομένου',
+    'discover.search.aiContent.none': 'Απόκρυψη περιεχομένου που δημιουργείται από τεχνητή νοημοσύνη',
+    'discover.search.aiContent.only': 'Εμφάνιση μόνο περιεχομένου που δημιουργείται από τεχνητή νοημοσύνη',
+    'discovery.aiContent.indicator': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια τεχνητής νοημοσύνης',
+    'discovery.aiContent.indicator.model': 'Μοντέλο AI: {model}'
 };

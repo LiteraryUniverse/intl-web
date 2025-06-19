@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Lütfen giriş yapın.',
     'legal.publicationAgreements': 'Yayın sözleşmeleri',
     'legal.generalPublishingAgreement': 'Genel Yayın Sözleşmesi',
-    'legal.documentsFor': '{workTitle}için hukuki belgeler'
+    'legal.documentsFor': '{workTitle}için hukuki belgeler',
+    'legal.modal.agreeToAll': 'Tümünü Kabul Ediyorum'
 };

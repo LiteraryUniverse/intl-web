@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Unterhaltungsroman",
 	"signup.reader.mediaType.web_novel": "Web-Roman",
 	"signup.reader.mediaType.visual_novel": "Visuelle Novelle",
+	"signup.reader.mediaType.short_story": "Kurzgeschichte",
 	"signup.writer.mediaType.title": "Welche Art von Medien gefällt Ihnen am besten?",
 	"signup.writer.mediaType.description": "Wählen Sie die, die Ihren Interessen am besten entsprechen.",
 	"signup.writer.mediaType.longStories.title": "Lange Geschichten",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organisieren Sie Geschichten, die Sie lesen möchten oder gelesen haben, in Listen.",
 	"signup.wizard.complete.reader.step3.title": "Treten Sie der Gemeinschaft bei",
 	"signup.wizard.complete.reader.step3.description": "Schließen Sie sich mit Autoren und anderen Lesern zusammen, um über Ihre Lieblingsgeschichten zu diskutieren.",
-	"signup.saveProgress": "Fortschritt speichern und später fortfahren"
+	"signup.saveProgress": "Fortschritt speichern und später fortfahren",
+	"signup.stepCount": "Schritt {current, number} von {total, number}",
+	"signup.writer.goals.description": "Erzählen Sie uns von Ihren Erfahrungen beim Schreiben.",
+	"signup.complete.title": "Sie sind bereit!",
+	"signup.complete.description": "Vielen Dank, dass Sie Ihr Profil ausgefüllt haben. Wir haben Ihr Profil nach Ihren Wünschen angepasst."
 }

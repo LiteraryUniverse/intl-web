@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'A publicação é impedida porque o universo tem a definição impedir publicação activada.',
     'workshop.revisions.new.public.disabled': 'Não é possível publicar enquanto a opção impedir publicação estiver activada nas definições da história.',
     'workshop.publishing.restricted': 'Devido a uma violação de boa conduta, desactivámos a sua capacidade de publicar.',
-    'workshop.story.buyingSettings': 'Definições de venda'
+    'workshop.story.buyingSettings': 'Definições de venda',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Conteúdo gerado por IA',
+    'workshop.chapter.aiGenerated.tooltip': 'Marque este capítulo como contendo conteúdo gerado por IA',
+    'workshop.chapter.aiGenerated.description': 'Este capítulo contém conteúdos gerados com a ajuda da IA.',
+    'workshop.chapter.aiModel': 'Modelo de IA',
+    'workshop.chapter.aiModel.tooltip': 'Selecione o modelo de IA que foi utilizado para gerar conteúdos',
+    'workshop.chapter.aiModel.custom': 'Personalizado',
+    'workshop.chapter.aiModel.custom.placeholder': 'Introduza o nome do modelo de IA',
+    'workshop.chapter.aiGenerated.locked': 'A marcação do conteúdo da IA não pode ser alterada porque foi ajustada pela equipa de moderação.',
+    'workshop.monetization.aiNotEligible': 'Os conteúdos gerados por IA não são elegíveis para monetização.',
+    'workshop.license.exclusiveUniverse': 'O universo utiliza uma licença exclusiva, o que significa que todas as histórias também têm de seguir a mesma licença para evitar o caos jurídico.'
 };

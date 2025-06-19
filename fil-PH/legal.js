@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Mag-login po kayo.',
     'legal.publicationAgreements': 'Mga Kasunduan sa Paglilimbag',
     'legal.generalPublishingAgreement': 'Pangkalahatang Kasunduan sa Paglilimbag',
-    'legal.documentsFor': 'Legal documents para sa {workTitle}'
+    'legal.documentsFor': 'Legal documents para sa {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

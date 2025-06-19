@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Skaityti nuo pirmo skyriaus',
     'discovery.readLatest': 'Skaityti naujausią skyrių',
     'discovery.author': 'Autorius',
-    'discovery.aiGenerated': 'Sukurtas dirbtinis intelektas'
+    'discovery.aiGenerated': 'Sukurtas dirbtinis intelektas',
+    // New AI content related strings
+    'discovery.ai.content': 'dirbtinio intelekto sukurtas turinys',
+    'discovery.ai.universes': 'Dirbtinio intelekto sukurtos visatos',
+    'discovery.ai.stories': 'dirbtinio intelekto sukurtos istorijos',
+    'discovery.ai.noContent': 'Dar nėra dirbtinio intelekto sukurto turinio.',
+    'discover.search.aiContent': 'AI turinys',
+    'discover.search.aiContent.both': 'Rodyti visą turinį',
+    'discover.search.aiContent.none': 'Paslėpti dirbtinio intelekto sukurtą turinį',
+    'discover.search.aiContent.only': 'Rodyti tik dirbtinio intelekto sukurtą turinį',
+    'discovery.aiContent.indicator': 'Šis turinys buvo sukurtas naudojant dirbtinę intelektinę dirbtinę',
+    'discovery.aiContent.indicator.model': 'AI modelis: {model}'
 };

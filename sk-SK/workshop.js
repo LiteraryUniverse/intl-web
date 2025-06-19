@@ -309,5 +309,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Publikovanie je zakázané, pretože vesmír má povolené nastavenie Zabrániť publikovaniu.',
     'workshop.revisions.new.public.disabled': 'Nie je možné publikovať, keď je v nastaveniach príbehu povolené zabrániť publikovaniu.',
     'workshop.publishing.restricted': 'Z dôvodu porušenia pravidiel slušného správania sme vám zakázali publikovať.',
-    'workshop.story.buyingSettings': 'Nastavenia predaja'
+    'workshop.story.buyingSettings': 'Nastavenia predaja',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Obsah generovaný umelou inteligenciou',
+    'workshop.chapter.aiGenerated.tooltip': 'Označte túto kapitolu ako kapitolu obsahujúcu obsah vytvorený umelou inteligenciou',
+    'workshop.chapter.aiGenerated.description': 'Táto kapitola obsahuje obsah, ktorý bol vytvorený s pomocou AI.',
+    'workshop.chapter.aiModel': 'Model AI',
+    'workshop.chapter.aiModel.tooltip': 'Vyberte model umelej inteligencie, ktorý bol použitý na generovanie obsahu',
+    'workshop.chapter.aiModel.custom': 'Vlastné',
+    'workshop.chapter.aiModel.custom.placeholder': 'Zadajte názov modelu AI',
+    'workshop.chapter.aiGenerated.locked': 'Označenie obsahu AI nie je možné zmeniť, pretože ho upravil moderátorský tím.',
+    'workshop.monetization.aiNotEligible': 'Obsah vytvorený umelou inteligenciou nie je oprávnený na monetizáciu.',
+    'workshop.license.exclusiveUniverse': 'Vesmír využíva výhradnú licenciu, čo znamená, že všetky príbehy sa musia riadiť rovnakou licenciou, aby sa zabránilo právnemu chaosu.'
 };

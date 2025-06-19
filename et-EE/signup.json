@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Kerge romaan",
 	"signup.reader.mediaType.web_novel": "Veebiromaan",
 	"signup.reader.mediaType.visual_novel": "Visuaalne romaan",
+	"signup.reader.mediaType.short_story": "Lühike lugu",
 	"signup.writer.mediaType.title": "Millist tüüpi meedia meeldib teile kõige rohkem?",
 	"signup.writer.mediaType.description": "Valige need, mis vastavad kõige paremini teie huvidele.",
 	"signup.writer.mediaType.longStories.title": "Pikad lood",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "Korraldage lugusid, mida soovite lugeda või olete lugenud, nimekirjadesse.",
 	"signup.wizard.complete.reader.step3.title": "Liitu kogukonnaga",
 	"signup.wizard.complete.reader.step3.description": "Ühendage end autorite ja teiste lugejatega, et arutada lugusid, mida te armastate.",
-	"signup.saveProgress": "Salvesta edusammud ja jätka hiljem"
+	"signup.saveProgress": "Salvesta edusammud ja jätka hiljem",
+	"signup.stepCount": "Step {current, number} of {total, number}",
+	"signup.writer.goals.description": "Rääkige meile oma kirjutamiskogemusest.",
+	"signup.complete.title": "Kõik on valmis!",
+	"signup.complete.description": "Täname teid profiili täitmise eest. Oleme kohandanud teie kogemust teie eelistuste põhjal."
 }

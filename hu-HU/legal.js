@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Kérlek jelentkezz be.',
     'legal.publicationAgreements': 'Kiadási szerződések',
     'legal.generalPublishingAgreement': 'Általános kiadási szerződés',
-    'legal.documentsFor': 'Jogi dokumentumok {workTitle}számára'
+    'legal.documentsFor': 'Jogi dokumentumok {workTitle}számára',
+    'legal.modal.agreeToAll': 'Egyetértek mindenkivel'
 };

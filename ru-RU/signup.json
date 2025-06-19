@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Ранобэ",
 	"signup.reader.mediaType.web_novel": "Веб-новелла",
 	"signup.reader.mediaType.visual_novel": "Визуальная новелла",
+	"signup.reader.mediaType.short_story": "Короткая история",
 	"signup.writer.mediaType.title": "Какой тип издания вам нравится больше всего?",
 	"signup.writer.mediaType.description": "Выберите те, которые лучше всего соответствуют вашим интересам.",
 	"signup.writer.mediaType.longStories.title": "Длинные истории",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "Организуйте истории, которые вы хотите прочитать или уже прочитали, в списки.",
 	"signup.wizard.complete.reader.step3.title": "Присоединяйтесь к сообществу",
 	"signup.wizard.complete.reader.step3.description": "Общайтесь с авторами и другими читателями, чтобы обсудить любимые истории.",
-	"signup.saveProgress": "Сохранить прогресс и продолжить позже"
+	"signup.saveProgress": "Сохранить прогресс и продолжить позже",
+	"signup.stepCount": "Шаг {current, number} из {total, number}",
+	"signup.writer.goals.description": "Расскажите нам о своем писательском опыте.",
+	"signup.complete.title": "У Вас все готово!",
+	"signup.complete.description": "Спасибо, что заполнили свой профиль. Мы настроили Ваш опыт в соответствии с Вашими предпочтениями."
 }

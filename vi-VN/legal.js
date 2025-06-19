@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Vui lòng đăng nhập.',
     'legal.publicationAgreements': 'Thỏa thuận xuất bản',
     'legal.generalPublishingAgreement': 'Thỏa thuận xuất bản chung',
-    'legal.documentsFor': 'Tài liệu pháp lý cho {workTitle}'
+    'legal.documentsFor': 'Tài liệu pháp lý cho {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

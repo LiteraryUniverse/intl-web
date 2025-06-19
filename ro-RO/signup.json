@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Roman ușor",
 	"signup.reader.mediaType.web_novel": "Roman web",
 	"signup.reader.mediaType.visual_novel": "Roman vizual",
+	"signup.reader.mediaType.short_story": "Poveste scurtă",
 	"signup.writer.mediaType.title": "Ce tip de media vă place cel mai mult?",
 	"signup.writer.mediaType.description": "Alegeți-le pe cele care corespund cel mai bine intereselor dumneavoastră.",
 	"signup.writer.mediaType.longStories.title": "Povești lungi",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "Organizați poveștile pe care doriți să le citiți sau pe care le-ați citit în liste.",
 	"signup.wizard.complete.reader.step3.title": "Alăturați-vă comunității",
 	"signup.wizard.complete.reader.step3.description": "Intrați în contact cu autori și alți cititori pentru a discuta despre poveștile care vă plac.",
-	"signup.saveProgress": "Salvați progresul și continuați mai târziu"
+	"signup.saveProgress": "Salvați progresul și continuați mai târziu",
+	"signup.stepCount": "Pas {current, number} de {total, number}",
+	"signup.writer.goals.description": "Povestește-ne despre experiența ta în scris.",
+	"signup.complete.title": "Sunteți gata!",
+	"signup.complete.description": "Vă mulțumim pentru completarea profilului dumneavoastră. Ți-am personalizat experiența în funcție de preferințele tale."
 }

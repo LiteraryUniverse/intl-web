@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'İlk üçten oku',
     'discovery.readLatest': 'En son bölümü oku',
     'discovery.author': 'Yazar',
-    'discovery.aiGenerated': 'Yapay Zeka Üretildi'
+    'discovery.aiGenerated': 'Yapay Zeka Üretildi',
+    // New AI content related strings
+    'discovery.ai.content': 'Yapay Zeka Tarafından Oluşturulan İçerik',
+    'discovery.ai.universes': 'Yapay Zeka Tarafından Oluşturulan Evrenler',
+    'discovery.ai.stories': 'Yapay Zeka Tarafından Oluşturulan Hikayeler',
+    'discovery.ai.noContent': 'Henüz yapay zeka tarafından oluşturulmuş içerik mevcut değil.',
+    'discover.search.aiContent': 'Yapay Zeka İçeriği',
+    'discover.search.aiContent.both': 'Tüm içeriği göster',
+    'discover.search.aiContent.none': 'Yapay zeka tarafından oluşturulan içeriği gizleme',
+    'discover.search.aiContent.only': 'Yalnızca yapay zeka tarafından oluşturulan içeriği gösterin',
+    'discovery.aiContent.indicator': 'Bu içerik yapay zeka yardımıyla oluşturulmuştur',
+    'discovery.aiContent.indicator.model': 'AI Modeli: {model}'
 };

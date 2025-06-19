@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "رواية خفيفة",
 	"signup.reader.mediaType.web_novel": "رواية الويب",
 	"signup.reader.mediaType.visual_novel": "رواية مرئية",
+	"signup.reader.mediaType.short_story": "قصة قصيرة",
 	"signup.writer.mediaType.title": "ما نوع الوسائط التي تستمتع بها أكثر من غيرها؟",
 	"signup.writer.mediaType.description": "اختر ما يناسب اهتماماتك منها.",
 	"signup.writer.mediaType.longStories.title": "قصص طويلة",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "نظم القصص التي تريد قراءتها أو التي قرأتها في قوائم.",
 	"signup.wizard.complete.reader.step3.title": "انضم إلى المجتمع",
 	"signup.wizard.complete.reader.step3.description": "تواصل مع المؤلفين والقراء الآخرين لمناقشة القصص التي تحبها.",
-	"signup.saveProgress": "حفظ التقدم المحرز والمتابعة لاحقاً"
+	"signup.saveProgress": "حفظ التقدم المحرز والمتابعة لاحقاً",
+	"signup.stepCount": "الخطوة {current, number} من ~ {total, number}",
+	"signup.writer.goals.description": "أخبرنا عن تجربتك في الكتابة.",
+	"signup.complete.title": "أنت جاهز!",
+	"signup.complete.description": "شكراً لك على استكمال ملفك الشخصي. لقد قمنا بتخصيص تجربتك بناءً على تفضيلاتك."
 }

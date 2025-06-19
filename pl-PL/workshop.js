@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Publikacja jest uniemożliwiona, ponieważ wszechświat ma włączone ustawienie uniemożliwiania publikacji.',
     'workshop.revisions.new.public.disabled': 'Nie można opublikować, gdy w ustawieniach fabuły włączona jest funkcja zapobiegania publikowaniu.',
     'workshop.publishing.restricted': 'Ze względu na naruszenie zasad dobrego zachowania zablokowaliśmy możliwość publikowania przez Pana/Panią.',
-    'workshop.story.buyingSettings': 'Ustawienia sprzedaży'
+    'workshop.story.buyingSettings': 'Ustawienia sprzedaży',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Treści generowane przez sztuczną inteligencję',
+    'workshop.chapter.aiGenerated.tooltip': 'Proszę oznaczyć ten rozdział jako zawierający treści wygenerowane przez sztuczną inteligencję.',
+    'workshop.chapter.aiGenerated.description': 'Ten rozdział zawiera treści wygenerowane z pomocą sztucznej inteligencji.',
+    'workshop.chapter.aiModel': 'Model AI',
+    'workshop.chapter.aiModel.tooltip': 'Proszę wybrać model AI, który został użyty do wygenerowania treści',
+    'workshop.chapter.aiModel.custom': 'Niestandardowe',
+    'workshop.chapter.aiModel.custom.placeholder': 'Proszę wprowadzić nazwę modelu sztucznej inteligencji',
+    'workshop.chapter.aiGenerated.locked': 'Oznaczenie treści AI nie może zostać zmienione, ponieważ zostało dostosowane przez zespół moderatorów.',
+    'workshop.monetization.aiNotEligible': 'Treści generowane przez sztuczną inteligencję nie kwalifikują się do monetyzacji.',
+    'workshop.license.exclusiveUniverse': 'Uniwersum korzysta z licencji na wyłączność, co oznacza, że wszystkie historie również muszą korzystać z tej samej licencji, aby zapobiec chaosowi prawnemu.'
 };

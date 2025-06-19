@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Läs från första kapitlet',
     'discovery.readLatest': 'Läs det senaste kapitlet',
     'discovery.author': 'Författaren',
-    'discovery.aiGenerated': 'AI-genererad'
+    'discovery.aiGenerated': 'AI-genererad',
+    // New AI content related strings
+    'discovery.ai.content': 'AI-genererat innehåll',
+    'discovery.ai.universes': 'AI-genererade universum',
+    'discovery.ai.stories': 'AI-genererade berättelser',
+    'discovery.ai.noContent': 'Inget AI-genererat innehåll tillgängligt ännu.',
+    'discover.search.aiContent': 'AI-innehåll',
+    'discover.search.aiContent.both': 'Visa allt innehåll',
+    'discover.search.aiContent.none': 'Dölj AI-genererat innehåll',
+    'discover.search.aiContent.only': 'Visa endast AI-genererat innehåll',
+    'discovery.aiContent.indicator': 'Detta innehåll har skapats med hjälp av AI',
+    'discovery.aiContent.indicator.model': 'AI Modell: {model}'
 };

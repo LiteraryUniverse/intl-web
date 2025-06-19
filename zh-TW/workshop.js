@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': '由於宇宙已啟用防止發佈設定，因此無法發佈。',
     'workshop.revisions.new.public.disabled': '在故事設定中啟用防止發佈時，無法發佈。',
     'workshop.publishing.restricted': '由於違反良好行為，我們已禁用您的發佈能力。',
-    'workshop.story.buyingSettings': '銷售設定'
+    'workshop.story.buyingSettings': '銷售設定',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'AI 產生的內容',
+    'workshop.chapter.aiGenerated.tooltip': '標示本章包含 AI 產生的內容',
+    'workshop.chapter.aiGenerated.description': '本章包含在 AI 協助下產生的內容。',
+    'workshop.chapter.aiModel': 'AI 模型',
+    'workshop.chapter.aiModel.tooltip': '選擇用於產生內容的 AI 模型',
+    'workshop.chapter.aiModel.custom': '自訂',
+    'workshop.chapter.aiModel.custom.placeholder': '輸入 AI 模型的名稱',
+    'workshop.chapter.aiGenerated.locked': 'AI 內容標記不能變更，因為它已由審核團隊調整。',
+    'workshop.monetization.aiNotEligible': 'AI 產生的內容不符合貨幣化的條件。',
+    'workshop.license.exclusiveUniverse': '宇宙使用專屬授權，這表示所有故事也必須遵循相同的授權，以避免法律上的混亂。'
 };

@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'ថ្ងៃបញ្ចប់',
     'challenges.future': 'ការបញ្ជាក់ដែលនឹងមកដល់',
     'challenges.future.wordcount': 'Wordcount challenge staring on {startDate, date, short} with goal of {target, number} by {endDate, date, short}.',
-    'challenges.future.nanowrimo': 'ការប្រកាសនៃការសរសេរសរុបរបស់ NaNoWriMo',
     'challenges.wordcount': 'ចំនួនពាក្យ',
     'challenges.wordcount.desc': `Set yourself a goal of how many words you want to write this month for this {type, select,
     story {story}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'របាយការណ៍',
     'challenges.victory': 'អបអរសាទរ! អ្នកបានបញ្ចប់ការប្រកាសនេះហើយ។',
     'challenges.defeat': 'សូមអភ័យទោស! អ្នកមិនបានបញ្ចប់ការប្រកាសនេះទេ។',
-    'challenges.baseline': 'ចំនួនពាក្យបច្ចុប្បន្ននេះស្មើនឹង {wordcount, number}ពាក្យ នេះនឹងជាចំណុចចាប់ផ្តើម។',
-    // NaNoWriMo
-    'nanowrimo.full': 'វិទ្យាស្ថានបរិស្ថានជាតិនៃការសរសេរញឹកញាប់ស្តង់ដា',
-    'nanowrimo.site': 'គេហទំព័ររបស់វិទ្យាស្ថានបរិស្ថានជាតិនៃ NaNoWriMo',
-    'nanowrimo.settings': 'គណនីនៃ NaNoWriMo',
-    'nanowrimo.username': 'ឈ្មោះអ្នកប្រើប្រាស់នៃ NaNoWriMo',
-    'nanowrimo.key': 'សំងាត់សម្ងាត់',
-    'nanowrimo.key.get': 'ទាញយកកូនសោ NaNoWriMo របស់អ្នក។',
-    'nanowrimo.key.get.notice': 'អ្នកត្រូវតែចូលប្រើប្រាស់ដើម្បីមើលវាបាន។',
-    'nanowrimo.ongoing': 'ការប្រកួតកើតឡើងស្មើនឹងការពិភាក្សាពេញហើយ! {countdown} ថ្ងៃទៀតទេ!',
-    'nanowrimo.startsin': `ការប្រកួតនឹងចាប់ផ្តើមក្នុង {countdown, plural,
-      one {។ នេះគឺជាថ្ងៃទី}
-      other {នៃការប្រកួតរបស់អ្នកហើយ និងនៅតែមានបញ្ហារាល់ថ្ងៃ}
-    }។ រ preparation របស់អ្នកបានរួចរាល់!`,
-    'nanowrimo.isover': 'NaNoWriMo បានបញ្ចប់ហើយ។ អរគុណចំពោះការប្រកួតរបស់អ្នកក្នុងឆ្នាំក្រោយ!',
-    'nanowrimo.select': 'កំណត់សរសេរនេះជារឿងសម្រាប់ NaNoWriMo។',
-    'nanowrimo.baseline': 'នៅពេលដែល NaNoWriMo ចាប់ផ្តើមវានឹងយកចំនួនពាក្យបច្ចុប្បន្នរបស់អ្នកនៅក្នុងស្ថានភាពដើមដែលប្រើជាជីវភាពដែលនឹងត្រូវការជាមួយ NaNoWriMo។',
-    'nanowrimo.victory': 'អបអរសាទរ! អ្នកបានឈ្នះប្រកួត NaNoWriMo!',
-    'nanowrimo.challenge': 'ការប្រកួត NaNoWriMo',
-    'nanowrimo.description': 'ការប្រកួតគឺជាការសរសេរកូដណាមួយនៃ {words, number} ពាក្យក្នុងរយៈពេលវគ្គបណ្តុះបណ្តាលនៃខែវិច្ឆិកា។',
-    'nanowrimo.error.usernotfound': 'ឈ្មោះអ្នកប្រើប្រាស់មិនត្រូវបានរកឃើញនៅលើម៉ាស៊ីនបម្រើ NaNoWriMo។',
-    'nanowrimo.error.nobook': 'មិនបានរកឃើញសៀវភៅណាមួយ។ សូមធ្វើការបង្កើតសៀវភៅរបស់អ្នកនៅលើ NaNoWriMo។',
-    'nanowrimo.error.wordcount': 'មិនអាចកំណត់ចំនួនពាក្យបញ្ជូនទៅកាន់ NaNoWrimo បានទេ សូមពិនិត្យមើលព័ត៌មានអ្នកប្រើប្រាស់របស់អ្នកម្តងទៀតហើយព្យាយាមម្ដងទៀត។',
-    'nanowrimo.connected': 'អ្នកបានកំណត់សរសេរនេះជារឿងសម្រាប់ NaNoWriMo។',
-    'nanowrimo.connected.other': 'អ្នកបានបានតភ្ជាប់រឿងផ្សេងទៀតហើយ។'
+    'challenges.baseline': 'ចំនួនពាក្យបច្ចុប្បន្ននេះស្មើនឹង {wordcount, number}ពាក្យ នេះនឹងជាចំណុចចាប់ផ្តើម។'
 };

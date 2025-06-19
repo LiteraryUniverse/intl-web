@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Будь ласка, увійдіть.',
     'legal.publicationAgreements': 'Угоди про публікацію',
     'legal.generalPublishingAgreement': 'Загальна угода про видавництво',
-    'legal.documentsFor': 'Юридичні документи для {workTitle}'
+    'legal.documentsFor': 'Юридичні документи для {workTitle}',
+    'legal.modal.agreeToAll': 'Погодьтеся на все'
 };

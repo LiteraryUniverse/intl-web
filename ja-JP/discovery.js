@@ -59,5 +59,16 @@ export default {
     'discovery.readFromStart': '最初の章から読んでください',
     'discovery.readLatest': '最新の章を読んでください',
     'discovery.author': '作者',
-    'discovery.aiGenerated': 'AIが生成'
+    'discovery.aiGenerated': 'AIが生成',
+    // New AI content related strings
+    'discovery.ai.content': 'AIが生成したコンテンツ',
+    'discovery.ai.universes': 'AIが生成する宇宙',
+    'discovery.ai.stories': 'AIが生み出す物語',
+    'discovery.ai.noContent': 'AIが生成したコンテンツはまだない。',
+    'discover.search.aiContent': 'AIコンテンツ',
+    'discover.search.aiContent.both': 'すべてのコンテンツを表示する',
+    'discover.search.aiContent.none': 'AIが生成したコンテンツを隠す',
+    'discover.search.aiContent.only': 'AIが生成したコンテンツのみを表示する',
+    'discovery.aiContent.indicator': 'このコンテンツはAIの支援を受けて作成された',
+    'discovery.aiContent.indicator.model': 'AIモデル： {model}'
 };

@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Hafif Roman",
 	"signup.reader.mediaType.web_novel": "Web Roman",
 	"signup.reader.mediaType.visual_novel": "Görsel Roman",
+	"signup.reader.mediaType.short_story": "Kısa Hikaye",
 	"signup.writer.mediaType.title": "En çok ne tür medyadan hoşlanıyorsunuz?",
 	"signup.writer.mediaType.description": "İlgi alanlarınıza en uygun olanları seçin.",
 	"signup.writer.mediaType.longStories.title": "Uzun Hikayeler",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "Okumak istediğiniz veya okuduğunuz hikayeleri listeler halinde düzenleyin.",
 	"signup.wizard.complete.reader.step3.title": "Topluluğa katılın",
 	"signup.wizard.complete.reader.step3.description": "Sevdiğiniz hikayeleri tartışmak için yazarlar ve diğer okuyucularla bağlantı kurun.",
-	"signup.saveProgress": "İlerlemeyi kaydedin ve daha sonra devam edin"
+	"signup.saveProgress": "İlerlemeyi kaydedin ve daha sonra devam edin",
+	"signup.stepCount": "Adım {current, number} of {total, number}",
+	"signup.writer.goals.description": "Bize yazarlık deneyiminizden bahsedin.",
+	"signup.complete.title": "Her şey hazır!",
+	"signup.complete.description": "Profilinizi doldurduğunuz için teşekkür ederiz. Deneyiminizi tercihlerinize göre özelleştirdik."
 }

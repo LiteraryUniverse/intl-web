@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "Легкий роман",
 	"signup.reader.mediaType.web_novel": "Веб-роман",
 	"signup.reader.mediaType.visual_novel": "Візуальний роман",
+	"signup.reader.mediaType.short_story": "Коротке оповідання",
 	"signup.writer.mediaType.title": "Який тип медіа вам подобається найбільше?",
 	"signup.writer.mediaType.description": "Обирайте ті, що найбільше відповідають вашим інтересам.",
 	"signup.writer.mediaType.longStories.title": "Довгі історії",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "Організуйте історії, які ви хочете прочитати або вже прочитали, у списки.",
 	"signup.wizard.complete.reader.step3.title": "Приєднуйтесь до спільноти",
 	"signup.wizard.complete.reader.step3.description": "Спілкуйтеся з авторами та іншими читачами, щоб обговорити улюблені історії.",
-	"signup.saveProgress": "Збережіть прогрес і продовжите пізніше"
+	"signup.saveProgress": "Збережіть прогрес і продовжите пізніше",
+	"signup.stepCount": "Крок {current, number} від {total, number}",
+	"signup.writer.goals.description": "Розкажіть про свій письменницький досвід.",
+	"signup.complete.title": "Все готово!",
+	"signup.complete.description": "Дякуємо, що заповнили свій профіль. Ми налаштували ваш досвід відповідно до ваших уподобань."
 }

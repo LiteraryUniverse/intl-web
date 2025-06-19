@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'ദയവായി ലോഗിൻ ചെയ്യുക.',
     'legal.publicationAgreements': 'പ്രസിദ്ധീകരണ ഒപ്പം ഒപ്പം',
     'legal.generalPublishingAgreement': 'പൊതു പ്രസിദ്ധീകരണ ഒപ്പം',
-    'legal.documentsFor': 'കാനൂനിക പത്രങ്ങൾ {workTitle}കൊണ്ട്'
+    'legal.documentsFor': 'കാനൂനിക പത്രങ്ങൾ {workTitle}കൊണ്ട്',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

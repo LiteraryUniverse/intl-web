@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Публікацію заборонено, оскільки у всесвіті увімкнено параметр заборони публікації.',
     'workshop.revisions.new.public.disabled': 'Неможливо опублікувати, якщо в налаштуваннях історії увімкнено заборону на публікацію.',
     'workshop.publishing.restricted': 'Через порушення правил поведінки ми заблокували вашу можливість публікувати.',
-    'workshop.story.buyingSettings': 'Налаштування продажу'
+    'workshop.story.buyingSettings': 'Налаштування продажу',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Контент, створений штучним інтелектом',
+    'workshop.chapter.aiGenerated.tooltip': 'Позначте цей розділ як такий, що містить вміст, створений штучним інтелектом',
+    'workshop.chapter.aiGenerated.description': 'Цей розділ містить контент, створений за допомогою штучного інтелекту.',
+    'workshop.chapter.aiModel': 'Модель штучного інтелекту',
+    'workshop.chapter.aiModel.tooltip': 'Виберіть модель АІ, яка використовувалася для створення контенту',
+    'workshop.chapter.aiModel.custom': 'Нестандартний',
+    'workshop.chapter.aiModel.custom.placeholder': 'Введіть назву моделі ШІ',
+    'workshop.chapter.aiGenerated.locked': 'Маркування контенту зі штучним інтелектом не може бути змінено, оскільки воно було налаштоване командою модераторів.',
+    'workshop.monetization.aiNotEligible': 'Контент, створений штучним інтелектом, не підлягає монетизації.',
+    'workshop.license.exclusiveUniverse': 'Всесвіт використовує ексклюзивну ліцензію, а це означає, що всі історії також повинні дотримуватися тієї ж ліцензії, щоб запобігти правовому хаосу.'
 };

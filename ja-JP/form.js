@@ -2,7 +2,7 @@ export default {
     'form.requiredSymbol': '*',
     'form.validator.required': '必須項目',
     'form.validator.mustBeNumber': '数字を指定してください',
-    'form.validator.minNumber': 'Must be greater than {min, number}',
+    'form.validator.minNumber': 'は{min, number}よりも大きくなければなりません',
     'form.validator.maxNumber': 'Must be lower than {max, number}',
     'form.validator.maxLength': `{max, number} {what, select,
     characters {文字}

@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'ଦୟାକରି ଲଗଇନ କରନ୍ତୁ।',
     'legal.publicationAgreements': 'ପ୍ରକାଶନ ଚୁକିଡ଼ା',
     'legal.generalPublishingAgreement': 'ସାମାନ୍ଯ ପ୍ରକାଶନ ସମ୍ମିଳନ',
-    'legal.documentsFor': '{workTitle}ପାଇଁ ଆଇନାନ୍ତିକ ନଥିବା ନିବନ୍ଧାନୀ ଦସ୍ତାବେଜଗୁଡ଼ିକମାନେ ଅଛନ୍ତି'
+    'legal.documentsFor': '{workTitle}ପାଇଁ ଆଇନାନ୍ତିକ ନଥିବା ନିବନ୍ଧାନୀ ଦସ୍ତାବେଜଗୁଡ଼ିକମାନେ ଅଛନ୍ତି',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

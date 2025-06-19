@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'A közzététel megakadályozott, mivel az univerzumban engedélyezve van a közzététel megakadályozása beállítás.',
     'workshop.revisions.new.public.disabled': 'Nem lehet közzétenni, ha a történet beállításaiban engedélyezve van a közzététel megakadályozása.',
     'workshop.publishing.restricted': 'A jó magaviselet megsértése miatt letiltottuk a publikálási lehetőségét.',
-    'workshop.story.buyingSettings': 'Értékesítési beállítások'
+    'workshop.story.buyingSettings': 'Értékesítési beállítások',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'AI-generált tartalom',
+    'workshop.chapter.aiGenerated.tooltip': 'Jelölje meg ezt a fejezetet mesterséges intelligencia által generált tartalmat tartalmazónak',
+    'workshop.chapter.aiGenerated.description': 'Ez a fejezet mesterséges intelligencia segítségével létrehozott tartalmat tartalmaz.',
+    'workshop.chapter.aiModel': 'AI modell',
+    'workshop.chapter.aiModel.tooltip': 'Válassza ki a tartalom generálásához használt mesterséges intelligencia modellt.',
+    'workshop.chapter.aiModel.custom': 'Custom',
+    'workshop.chapter.aiModel.custom.placeholder': 'Adja meg a mesterséges intelligencia modell nevét',
+    'workshop.chapter.aiGenerated.locked': 'A mesterséges intelligencia tartalmi jelölés nem módosítható, mivel azt a moderációs csapat már módosította.',
+    'workshop.monetization.aiNotEligible': 'A mesterséges intelligencia által generált tartalom nem jogosult a pénzzé tételre.',
+    'workshop.license.exclusiveUniverse': 'Az univerzum kizárólagos licencet használ, ami azt jelenti, hogy a jogi káosz elkerülése érdekében minden történetnek ugyanazt a licencet kell követnie.'
 };

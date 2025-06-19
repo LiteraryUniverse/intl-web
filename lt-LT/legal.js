@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Prisijunkite, prašome.',
     'legal.publicationAgreements': 'Leidimo sutartys',
     'legal.generalPublishingAgreement': 'Bendra leidybos sutartis',
-    'legal.documentsFor': 'Teisiniai dokumentai skirti {workTitle}'
+    'legal.documentsFor': 'Teisiniai dokumentai skirti {workTitle}',
+    'legal.modal.agreeToAll': 'Sutinku su visais'
 };

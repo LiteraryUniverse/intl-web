@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'გთხოვთ შესვლა.',
     'legal.publicationAgreements': 'გამოქვეყნების ხელშეკრულებები',
     'legal.generalPublishingAgreement': 'ზოგადი გამოქვეყნების ხელშეკრულება',
-    'legal.documentsFor': 'იურიდიული დოკუმენტები {workTitle}-ისთვის'
+    'legal.documentsFor': 'იურიდიული დოკუმენტები {workTitle}-ისთვის',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

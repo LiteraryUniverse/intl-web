@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'দয়া করে লগইন করুন।',
     'legal.publicationAgreements': 'প্রকাশনা চুক্তিসমূহ',
     'legal.generalPublishingAgreement': 'সাধারণ প্রকাশনা চুক্তি',
-    'legal.documentsFor': 'আইনগত নথি সংক্রান্ত {workTitle}'
+    'legal.documentsFor': 'আইনগত নথি সংক্রান্ত {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

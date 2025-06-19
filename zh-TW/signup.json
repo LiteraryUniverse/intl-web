@@ -49,6 +49,7 @@
 	"signup.reader.mediaType.light_novel": "輕小说",
 	"signup.reader.mediaType.web_novel": "網路小說",
 	"signup.reader.mediaType.visual_novel": "視覺小說",
+	"signup.reader.mediaType.short_story": "短篇故事",
 	"signup.writer.mediaType.title": "您最喜歡哪種類型的媒體？",
 	"signup.writer.mediaType.description": "挑選最符合您興趣的項目。",
 	"signup.writer.mediaType.longStories.title": "長篇故事",
@@ -89,5 +90,9 @@
 	"signup.wizard.complete.reader.step2.description": "將您想要閱讀或已經閱讀過的故事整理成清單。",
 	"signup.wizard.complete.reader.step3.title": "加入社群",
 	"signup.wizard.complete.reader.step3.description": "與作者和其他讀者聯繫，討論您喜愛的故事。",
-	"signup.saveProgress": "儲存進度，稍後再繼續"
+	"signup.saveProgress": "儲存進度，稍後再繼續",
+	"signup.stepCount": "步驟 {current, number} 的 {total, number}",
+	"signup.writer.goals.description": "請告訴我們您的寫作經驗。",
+	"signup.complete.title": "你都準備好了！",
+	"signup.complete.description": "感謝您填寫您的個人資料。我們已根據您的喜好，為您量身打造您的體驗。"
 }

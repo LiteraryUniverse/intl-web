@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'કૃપા કરીને લોગઈન કરો.',
     'legal.publicationAgreements': 'પ્રકાશન ચુકવણીઓ',
     'legal.generalPublishingAgreement': 'સામાન્ય પ્રકાશન ચુકવણી',
-    'legal.documentsFor': 'કાયદાસંબંધીત દસ્તાવેજો માટે {workTitle}'
+    'legal.documentsFor': 'કાયદાસંબંધીત દસ્તાવેજો માટે {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

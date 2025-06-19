@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Prosím, přihlašte se.',
     'legal.publicationAgreements': 'Publikační dohody',
     'legal.generalPublishingAgreement': 'Obecná publikační dohoda',
-    'legal.documentsFor': 'Právní dokumenty pro {workTitle}'
+    'legal.documentsFor': 'Právní dokumenty pro {workTitle}',
+    'legal.modal.agreeToAll': 'Souhlasím se všemi'
 };

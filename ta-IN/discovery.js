@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'தொடர்ந்து முதல் அத்தகாத்திரிக்குச் செல்க',
     'discovery.readLatest': 'சமீபத்திய அத்தகாத்திரம் வாசிக்க',
     'discovery.author': 'Author',
-    'discovery.aiGenerated': 'AI Generated'
+    'discovery.aiGenerated': 'AI Generated',
+    // New AI content related strings
+    'discovery.ai.content': 'AI-Generated Content',
+    'discovery.ai.universes': 'AI-Generated Universes',
+    'discovery.ai.stories': 'AI-Generated Stories',
+    'discovery.ai.noContent': 'No AI-generated content available yet.',
+    'discover.search.aiContent': 'AI Content',
+    'discover.search.aiContent.both': 'Show all content',
+    'discover.search.aiContent.none': 'Hide AI-generated content',
+    'discover.search.aiContent.only': 'Show only AI-generated content',
+    'discovery.aiContent.indicator': 'This content was generated with AI assistance',
+    'discovery.aiContent.indicator.model': 'AI Model: {model}'
 };

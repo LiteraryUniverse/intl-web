@@ -17,7 +17,6 @@ export default {
     'challenges.endDate': 'End date',
     'challenges.future': 'Upcoming challenges',
     'challenges.future.wordcount': 'ଶବ୍ଦଗଣନା ଚାଲଞ୍ଚରେ ପ୍ରାରମ୍ଭ ହେଉଛି {startDate, date, short} ଏବଂ ଲକ୍ଷ୍ୟ ହେଉଛି {target, number} ଶବ୍ଦ ଦ୍ୱାରା {endDate, date, short}ପାଇଁ ।',
-    'challenges.future.nanowrimo': 'NaNoWriMo challenge is ready.',
     'challenges.wordcount': 'Word count',
     'challenges.wordcount.desc': `ଏହି {type, select,
     story {କାହାଣୀ}
@@ -29,29 +28,5 @@ export default {
     'challenges.report': 'Report',
     'challenges.victory': 'Congratulations! You have completed this challenge.',
     'challenges.defeat': 'Sadly you didn\'t complete this challenge.',
-    'challenges.baseline': 'ଏହି କାହାଣିର ବର୍ତ୍ତମାନ ଶବ୍ଦଗଣନା ହେଉଛି {wordcount, number}, ଏହି ଆରମ୍ଭିକ ବିନ୍ଦୁ ହେବ।',
-    // NaNoWriMo
-    'nanowrimo.full': 'National Novel Writing Month',
-    'nanowrimo.site': 'NaNoWriMo official site',
-    'nanowrimo.settings': 'NaNoWriMo account',
-    'nanowrimo.username': 'NaNoWriMo username',
-    'nanowrimo.key': 'Secret key',
-    'nanowrimo.key.get': 'ଆପଣଙ୍କର NaNoWriMo କୀ ପାନ୍ତି ପାନ୍ତି ପାନ୍ତି।',
-    'nanowrimo.key.get.notice': 'ଆପଣ ଦେଖିବା ପାଇଁ ଲଗଇନ ହେବା ଆବଶ୍ୟକ।',
-    'nanowrimo.ongoing': 'ପୂର୍ଣ ଗତିରେ ଅଛି! {countdown} ଆଉଛି ଆଗକୁ ଯାଇବା ପାଇଁ!',
-    'nanowrimo.startsin': `!ଶୁରୁ ହେବାକୁ ବାକି ଅଛି {countdown, plural,
-      one {1 ଦିନ}
-      other {# ଦିନ}
-    }! ପ୍ରସ୍ତୁତ ହୋନ୍ତିରାହିବାକୁ`,
-    'nanowrimo.isover': 'NaNoWriMo ଶେଷ ହେଇଛି। ଆଗବାଢ଼ି ତାରିଖରେ ଦେଖିବାକୁ ପାଇବେ!',
-    'nanowrimo.select': 'ଏହି ଗଳ୍ପକୁ NaNoWriMo ପାଇଁ ନିର୍ଧାରଣ କରନ୍ତୁ।',
-    'nanowrimo.baseline': 'NaNoWriMo ଶୁରୁ ହେଲେ ଏହି ବର୍ତ୍ତମାନ ଶବ୍ଦଗୁଡିକୁ ନିମନ୍ତେ ନିର୍ଧାରଣ କରିବେ ।',
-    'nanowrimo.victory': 'ଅଭିନନ୍ଦନ! ଆପଣ NaNoWriMo ଜୟୀ ହୋଇଛନ୍ତି!',
-    'nanowrimo.challenge': 'NaNoWriMo ଚାଲଞ୍ଚ',
-    'nanowrimo.description': 'ଚାଲଞ୍ଚ ହେଲା {words, number} ଶବ୍ଦଗୁଡ଼ି ଲେଖିବା ନଭେମ୍ବରରେ।',
-    'nanowrimo.error.usernotfound': 'NaNoWriMo ସର୍ଭରରେ ବ୍ୟବହାରକାରୀଙ୍କ ନାମ ପାଇବାରେ ପ୍ରାପ୍ତ ହେଉଛି ନାହିଁ।',
-    'nanowrimo.error.nobook': 'କୌଣସି ବହିନା ପାଇଁ କୌଣସି ବହିନା ପାଇଁ ନାହିଁ । ଦୟାକରି ନାହିଁଲେ ନାହିଁ ନାହିଁ ।',
-    'nanowrimo.error.wordcount': 'NaNoWrimo ରେ wordcount ନିର୍ଧାରଣ କରିବାକୁ ଅସମର୍ଥ, ଦୟାକରି ଆପଣଙ୍କର ସତ୍ୟାପାତ୍ରତା ଦ୍ୱିତୀୟ ଚେକ କରନ୍ତୁ ଏବଂ ପୁନର୍ଚ୍ଚେଷ୍ଟା କରନ୍ତୁ ।',
-    'nanowrimo.connected': 'ଆପଣ ଏହି ଗଳ୍ପକୁ NaNoWriMo ପାଇକୁ ନିର୍ଧାରଣ କରିଛନ୍ତି ।',
-    'nanowrimo.connected.other': 'ଆପଣ ଇତ୍ୟାଦି ଏକ ଅନ୍ୟ ଗଳ୍ପ ସଂଯୁକ୍ତ କରିଛନ୍ତି ।'
+    'challenges.baseline': 'ଏହି କାହାଣିର ବର୍ତ୍ତମାନ ଶବ୍ଦଗଣନା ହେଉଛି {wordcount, number}, ଏହି ଆରମ୍ଭିକ ବିନ୍ଦୁ ହେବ।'
 };

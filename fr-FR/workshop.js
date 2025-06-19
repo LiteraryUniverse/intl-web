@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'La publication est empêchée parce que le paramètre "empêcher la publication" est activé dans l\'univers.',
     'workshop.revisions.new.public.disabled': 'Impossible de publier si l\'option empêcher la publication est activée dans les paramètres de l\'article.',
     'workshop.publishing.restricted': 'En raison d\'une violation des règles de bonne conduite, nous avons désactivé votre capacité à publier.',
-    'workshop.story.buyingSettings': 'Paramètres de vente'
+    'workshop.story.buyingSettings': 'Paramètres de vente',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Contenu généré par l\'IA',
+    'workshop.chapter.aiGenerated.tooltip': 'Marquer ce chapitre comme contenant du contenu généré par l\'IA',
+    'workshop.chapter.aiGenerated.description': 'Ce chapitre contient du contenu généré avec l\'aide de l\'IA.',
+    'workshop.chapter.aiModel': 'Modèle d\'IA',
+    'workshop.chapter.aiModel.tooltip': 'Sélectionnez le modèle d\'IA utilisé pour générer le contenu',
+    'workshop.chapter.aiModel.custom': 'Sur mesure',
+    'workshop.chapter.aiModel.custom.placeholder': 'Saisissez le nom du modèle d\'IA',
+    'workshop.chapter.aiGenerated.locked': 'Le marquage du contenu de l\'IA ne peut pas être modifié car il a été ajusté par l\'équipe de modération.',
+    'workshop.monetization.aiNotEligible': 'Le contenu généré par l\'IA n\'est pas éligible à la monétisation.',
+    'workshop.license.exclusiveUniverse': 'L\'univers utilise une licence exclusive, ce qui signifie que toutes les histoires doivent également suivre la même licence afin d\'éviter le chaos juridique.'
 };

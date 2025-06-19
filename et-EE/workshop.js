@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Avaldamine on takistatud, sest universumis on lubatud säte "Avaldamise takistamine".',
     'workshop.revisions.new.public.disabled': 'Ei saa avaldada, kui loo seadetes on lubatud avaldamise vältimine.',
     'workshop.publishing.restricted': 'Hea käitumise rikkumise tõttu oleme keelanud teie avaldamisvõimaluse.',
-    'workshop.story.buyingSettings': 'Müügi seaded'
+    'workshop.story.buyingSettings': 'Müügi seaded',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'Tehisintellekti loodud sisu',
+    'workshop.chapter.aiGenerated.tooltip': 'Märgista see peatükk, mis sisaldab tehisintellekti loodud sisu.',
+    'workshop.chapter.aiGenerated.description': 'See peatükk sisaldab sisu, mis on loodud tehisintellekti abiga.',
+    'workshop.chapter.aiModel': 'AI mudel',
+    'workshop.chapter.aiModel.tooltip': 'Valige AI-mudel, mida kasutati sisu genereerimiseks.',
+    'workshop.chapter.aiModel.custom': 'Kohandatud',
+    'workshop.chapter.aiModel.custom.placeholder': 'Sisestage tehisintellekti mudeli nimi',
+    'workshop.chapter.aiGenerated.locked': 'AI sisu märgistust ei saa muuta, sest modereerimismeeskond on seda kohandanud.',
+    'workshop.monetization.aiNotEligible': 'Tehisintellekti abil loodud sisu ei ole kõlblik rahaliseks kasutamiseks.',
+    'workshop.license.exclusiveUniverse': 'Universum kasutab ainulitsentsi, mis tähendab, et ka kõik lood peavad järgima sama litsentsi, et vältida õiguslikku kaost.'
 };

@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Logáil isteach, le do thoil.',
     'legal.publicationAgreements': 'Comhoiriúnachtaí Foilseacháin',
     'legal.generalPublishingAgreement': 'Comhaontú Foilseacháin Ginearálta',
-    'legal.documentsFor': 'Dócain dlí do {workTitle}'
+    'legal.documentsFor': 'Dócain dlí do {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

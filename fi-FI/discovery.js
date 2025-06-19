@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Lue ensimmäisestä luvusta',
     'discovery.readLatest': 'Lue viimeisin luku',
     'discovery.author': 'Kirjoittaja',
-    'discovery.aiGenerated': 'AI Generated'
+    'discovery.aiGenerated': 'AI Generated',
+    // New AI content related strings
+    'discovery.ai.content': 'Tekoälyn luoma sisältö',
+    'discovery.ai.universes': 'Tekoälyn luomat maailmankaikkeudet',
+    'discovery.ai.stories': 'Tekoälyn luomat tarinat',
+    'discovery.ai.noContent': 'Tekoälyn tuottamaa sisältöä ei ole vielä saatavilla.',
+    'discover.search.aiContent': 'Tekoälyn sisältö',
+    'discover.search.aiContent.both': 'Näytä kaikki sisältö',
+    'discover.search.aiContent.none': 'Piilota tekoälyn luoma sisältö',
+    'discover.search.aiContent.only': 'Näytä vain tekoälyn luoma sisältö',
+    'discovery.aiContent.indicator': 'Tämä sisältö on tuotettu tekoälyn avulla',
+    'discovery.aiContent.indicator.model': 'AI-malli: {model}'
 };

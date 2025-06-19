@@ -61,5 +61,16 @@ export default {
     'discovery.readFromStart': 'Citit de la primul capitol',
     'discovery.readLatest': 'Citit ultimul capitol',
     'discovery.author': 'Autor',
-    'discovery.aiGenerated': 'Generat de AI'
+    'discovery.aiGenerated': 'Generat de AI',
+    // New AI content related strings
+    'discovery.ai.content': 'Conținut generat de inteligența artificială',
+    'discovery.ai.universes': 'Universuri generate de inteligența artificială',
+    'discovery.ai.stories': 'Povești generate de inteligența artificială',
+    'discovery.ai.noContent': 'Nu există încă conținut generat de AI disponibil.',
+    'discover.search.aiContent': 'Conținut AI',
+    'discover.search.aiContent.both': 'Arată tot conținutul',
+    'discover.search.aiContent.none': 'Ascundeți conținutul generat de AI',
+    'discover.search.aiContent.only': 'Afișați numai conținutul generat de AI',
+    'discovery.aiContent.indicator': 'Acest conținut a fost generat cu ajutorul AI',
+    'discovery.aiContent.indicator.model': 'Model AI: {model}'
 };

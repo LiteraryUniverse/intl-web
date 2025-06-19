@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': '請登入。',
     'legal.publicationAgreements': '出版協議',
     'legal.generalPublishingAgreement': '一般出版協議',
-    'legal.documentsFor': '法律文件給 {workTitle}'
+    'legal.documentsFor': '法律文件給 {workTitle}',
+    'legal.modal.agreeToAll': '全部同意'
 };

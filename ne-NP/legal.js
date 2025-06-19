@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'कृपया लगइन गर्नुहोस्।',
     'legal.publicationAgreements': 'प्रकाशन सम्झौताहरू',
     'legal.generalPublishingAgreement': 'सामान्य प्रकाशन सम्झौता',
-    'legal.documentsFor': '{workTitle}को लागि कानूनी कागजातहरू'
+    'legal.documentsFor': '{workTitle}को लागि कानूनी कागजातहरू',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

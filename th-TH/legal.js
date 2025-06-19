@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'กรุณาเข้าสู่ระบบ',
     'legal.publicationAgreements': 'ข้อตกลงการเผยแพร่',
     'legal.generalPublishingAgreement': 'ข้อตกลงการเผยแพร่ทั่วไป',
-    'legal.documentsFor': 'เอกสารทางกฎหมายสำหรับ {workTitle}'
+    'legal.documentsFor': 'เอกสารทางกฎหมายสำหรับ {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };

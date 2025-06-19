@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': '유니버스에서 게시 금지 설정이 활성화되어 있기 때문에 게시가 금지됩니다.',
     'workshop.revisions.new.public.disabled': '스토리 설정에서 게시 금지가 활성화된 상태에서는 게시할 수 없습니다.',
     'workshop.publishing.restricted': '윤리강령 위반으로 인해 귀하의 게시 기능이 비활성화되었습니다.',
-    'workshop.story.buyingSettings': '판매 설정'
+    'workshop.story.buyingSettings': '판매 설정',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'AI 생성 콘텐츠',
+    'workshop.chapter.aiGenerated.tooltip': '이 챕터에 AI 생성 콘텐츠가 포함된 것으로 표시하기',
+    'workshop.chapter.aiGenerated.description': '이 장에는 AI의 도움을 받아 생성된 콘텐츠가 포함되어 있습니다.',
+    'workshop.chapter.aiModel': 'AI 모델',
+    'workshop.chapter.aiModel.tooltip': '콘텐츠 생성에 사용된 AI 모델을 선택합니다.',
+    'workshop.chapter.aiModel.custom': '사용자 지정',
+    'workshop.chapter.aiModel.custom.placeholder': 'AI 모델의 이름을 입력합니다.',
+    'workshop.chapter.aiGenerated.locked': 'AI 콘텐츠 표시는 모더레이션 팀에서 조정했기 때문에 변경할 수 없습니다.',
+    'workshop.monetization.aiNotEligible': 'AI가 생성한 콘텐츠는 수익 창출 대상이 아닙니다.',
+    'workshop.license.exclusiveUniverse': '유니버스에서는 독점 라이선스를 사용하므로 법적 혼란을 방지하기 위해 모든 스토리도 동일한 라이선스를 따라야 합니다.'
 };

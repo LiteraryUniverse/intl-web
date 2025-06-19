@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Gelieve in te loggen.',
     'legal.publicationAgreements': 'Publicatieovereenkomsten',
     'legal.generalPublishingAgreement': 'Algemene publicatieovereenkomst',
-    'legal.documentsFor': 'Juridische documenten voor {workTitle}'
+    'legal.documentsFor': 'Juridische documenten voor {workTitle}',
+    'legal.modal.agreeToAll': 'Akkoord met alle'
 };

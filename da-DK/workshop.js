@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Udgivelse er forhindret, fordi universet har indstillingen forhindre udgivelse aktiveret.',
     'workshop.revisions.new.public.disabled': 'Kan ikke udgive, mens forhindring af udgivelse er aktiveret i historieindstillingerne.',
     'workshop.publishing.restricted': 'På grund af brud på god opførsel har vi deaktiveret din mulighed for at publicere.',
-    'workshop.story.buyingSettings': 'Indstillinger for salg'
+    'workshop.story.buyingSettings': 'Indstillinger for salg',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'AI-genereret indhold',
+    'workshop.chapter.aiGenerated.tooltip': 'Marker dette kapitel som indeholdende AI-genereret indhold',
+    'workshop.chapter.aiGenerated.description': 'Dette kapitel indeholder indhold, der er genereret med AI-assistance.',
+    'workshop.chapter.aiModel': 'AI-model',
+    'workshop.chapter.aiModel.tooltip': 'Vælg den AI-model, der blev brugt til at generere indhold',
+    'workshop.chapter.aiModel.custom': 'Brugerdefineret',
+    'workshop.chapter.aiModel.custom.placeholder': 'Indtast navnet på AI-modellen',
+    'workshop.chapter.aiGenerated.locked': 'AI-indholdsmærkning kan ikke ændres, fordi den er blevet justeret af moderationsteamet.',
+    'workshop.monetization.aiNotEligible': 'AI-genereret indhold er ikke berettiget til indtægtsgenerering.',
+    'workshop.license.exclusiveUniverse': 'Universet bruger en eksklusiv licens, hvilket betyder, at alle historier også skal følge den samme licens for at undgå juridisk kaos.'
 };

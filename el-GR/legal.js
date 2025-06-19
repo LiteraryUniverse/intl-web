@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Παρακαλώ συνδεθείτε.',
     'legal.publicationAgreements': 'Συμβάσεις δημοσίευσης',
     'legal.generalPublishingAgreement': 'Γενική Συμφωνία Δημοσίευσης',
-    'legal.documentsFor': 'Νομικά έγγραφα για {workTitle}'
+    'legal.documentsFor': 'Νομικά έγγραφα για {workTitle}',
+    'legal.modal.agreeToAll': 'Συμφωνώ με όλα'
 };

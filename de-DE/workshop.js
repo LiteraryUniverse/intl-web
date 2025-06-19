@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Die Veröffentlichung wird verhindert, weil im Universum die Einstellung Veröffentlichung verhindern aktiviert ist.',
     'workshop.revisions.new.public.disabled': 'Die Veröffentlichung kann nicht erfolgen, wenn die Option Veröffentlichung verhindern in den Story-Einstellungen aktiviert ist.',
     'workshop.publishing.restricted': 'Aufgrund eines Verstoßes gegen die Regeln des guten Benehmens haben wir Ihre Fähigkeit zu veröffentlichen deaktiviert.',
-    'workshop.story.buyingSettings': 'Verkauf Einstellungen'
+    'workshop.story.buyingSettings': 'Verkauf Einstellungen',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'KI-generierte Inhalte',
+    'workshop.chapter.aiGenerated.tooltip': 'Markieren Sie dieses Kapitel als KI-generierte Inhalte enthaltend',
+    'workshop.chapter.aiGenerated.description': 'Dieses Kapitel enthält Inhalte, die mit Hilfe von KI erstellt wurden.',
+    'workshop.chapter.aiModel': 'AI-Modell',
+    'workshop.chapter.aiModel.tooltip': 'Wählen Sie das KI-Modell aus, das für die Generierung von Inhalten verwendet wurde.',
+    'workshop.chapter.aiModel.custom': 'Benutzerdefiniert',
+    'workshop.chapter.aiModel.custom.placeholder': 'Geben Sie den Namen des KI-Modells ein',
+    'workshop.chapter.aiGenerated.locked': 'Die Kennzeichnung von KI-Inhalten kann nicht geändert werden, da sie vom Moderationsteam angepasst wurde.',
+    'workshop.monetization.aiNotEligible': 'KI-generierte Inhalte sind nicht für die Monetarisierung geeignet.',
+    'workshop.license.exclusiveUniverse': 'Das Universum verwendet eine Exklusivlizenz, was bedeutet, dass auch alle Geschichten derselben Lizenz folgen müssen, um ein rechtliches Chaos zu vermeiden.'
 };

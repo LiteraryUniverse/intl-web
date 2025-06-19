@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': '로그인해주세요.',
     'legal.publicationAgreements': '게시 동의서',
     'legal.generalPublishingAgreement': '일반 게시 동의서',
-    'legal.documentsFor': '법적 문서들을 위한 {workTitle}'
+    'legal.documentsFor': '법적 문서들을 위한 {workTitle}',
+    'legal.modal.agreeToAll': '모두 동의'
 };

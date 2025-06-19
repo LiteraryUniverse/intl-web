@@ -302,5 +302,16 @@ export default {
     'workshop.story.preventPublishingTooltipUniverse': 'Publiceren wordt voorkomen omdat het universum de instelling Publicatie voorkomen heeft ingeschakeld.',
     'workshop.revisions.new.public.disabled': 'Kan niet publiceren terwijl voorkomen publiceren is ingeschakeld in verhaalinstellingen.',
     'workshop.publishing.restricted': 'Wegens schending van goed gedrag hebben wij uw mogelijkheid tot publicatie uitgeschakeld.',
-    'workshop.story.buyingSettings': 'Verkoopinstellingen'
+    'workshop.story.buyingSettings': 'Verkoopinstellingen',
+    // AI Content Marking
+    'workshop.chapter.aiGenerated': 'AI-gegenereerde inhoud',
+    'workshop.chapter.aiGenerated.tooltip': 'Markeer dit hoofdstuk als bevat AI-gegenereerde inhoud',
+    'workshop.chapter.aiGenerated.description': 'Dit hoofdstuk bevat inhoud die is gegenereerd met hulp van AI.',
+    'workshop.chapter.aiModel': 'AI-model',
+    'workshop.chapter.aiModel.tooltip': 'Selecteer het AI-model dat werd gebruikt om inhoud te genereren',
+    'workshop.chapter.aiModel.custom': 'Aangepaste',
+    'workshop.chapter.aiModel.custom.placeholder': 'Voer de naam van het AI-model in',
+    'workshop.chapter.aiGenerated.locked': 'AI-contentmarkering kan niet worden gewijzigd omdat deze is aangepast door het moderatieteam.',
+    'workshop.monetization.aiNotEligible': 'AI-gegenereerde inhoud komt niet in aanmerking voor monetisatie.',
+    'workshop.license.exclusiveUniverse': 'Het universum gebruikt een exclusieve licentie, wat betekent dat alle verhalen ook dezelfde licentie moeten volgen om juridische chaos te voorkomen.'
 };
