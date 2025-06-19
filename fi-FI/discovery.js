@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Tekoälyn luomat maailmankaikkeudet',
     'discovery.ai.stories': 'Tekoälyn luomat tarinat',
     'discovery.ai.noContent': 'Tekoälyn tuottamaa sisältöä ei ole vielä saatavilla.',
+    'discovery.ai.noUniverses': 'Tekoälyn luomat universumit eivät ole vielä saatavilla.',
+    'discovery.ai.noStories': 'Tekoälyn luomia tarinoita ei ole vielä saatavilla.',
     'discover.search.aiContent': 'Tekoälyn sisältö',
     'discover.search.aiContent.both': 'Näytä kaikki sisältö',
     'discover.search.aiContent.none': 'Piilota tekoälyn luoma sisältö',

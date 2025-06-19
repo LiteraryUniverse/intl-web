@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Alam Semesta yang Dihasilkan AI',
     'discovery.ai.stories': 'Cerita yang Dihasilkan AI',
     'discovery.ai.noContent': 'Belum ada konten yang dihasilkan oleh AI yang tersedia.',
+    'discovery.ai.noUniverses': 'Belum ada alam semesta yang dihasilkan oleh AI.',
+    'discovery.ai.noStories': 'Belum ada cerita yang dibuat oleh AI yang tersedia.',
     'discover.search.aiContent': 'Konten AI',
     'discover.search.aiContent.both': 'Tampilkan semua konten',
     'discover.search.aiContent.none': 'Menyembunyikan konten yang dihasilkan AI',

@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Yapay Zeka Tarafından Oluşturulan Evrenler',
     'discovery.ai.stories': 'Yapay Zeka Tarafından Oluşturulan Hikayeler',
     'discovery.ai.noContent': 'Henüz yapay zeka tarafından oluşturulmuş içerik mevcut değil.',
+    'discovery.ai.noUniverses': 'Henüz yapay zeka tarafından oluşturulmuş evrenler mevcut değil.',
+    'discovery.ai.noStories': 'Henüz yapay zeka tarafından oluşturulmuş hikayeler mevcut değil.',
     'discover.search.aiContent': 'Yapay Zeka İçeriği',
     'discover.search.aiContent.both': 'Tüm içeriği göster',
     'discover.search.aiContent.none': 'Yapay zeka tarafından oluşturulan içeriği gizleme',

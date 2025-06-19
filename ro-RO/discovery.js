@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Universuri generate de inteligența artificială',
     'discovery.ai.stories': 'Povești generate de inteligența artificială',
     'discovery.ai.noContent': 'Nu există încă conținut generat de AI disponibil.',
+    'discovery.ai.noUniverses': 'Încă nu sunt disponibile universuri generate de AI.',
+    'discovery.ai.noStories': 'Încă nu sunt disponibile povești generate de AI.',
     'discover.search.aiContent': 'Conținut AI',
     'discover.search.aiContent.both': 'Arată tot conținutul',
     'discover.search.aiContent.none': 'Ascundeți conținutul generat de AI',

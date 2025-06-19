@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Dirbtinio intelekto sukurtos visatos',
     'discovery.ai.stories': 'dirbtinio intelekto sukurtos istorijos',
     'discovery.ai.noContent': 'Dar nėra dirbtinio intelekto sukurto turinio.',
+    'discovery.ai.noUniverses': 'Dar nėra dirbtinio intelekto sukurtų visatų.',
+    'discovery.ai.noStories': 'Dar nėra dirbtinio intelekto sukurtų istorijų.',
     'discover.search.aiContent': 'AI turinys',
     'discover.search.aiContent.both': 'Rodyti visą turinį',
     'discover.search.aiContent.none': 'Paslėpti dirbtinio intelekto sukurtą turinį',

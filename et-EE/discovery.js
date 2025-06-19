@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Tehisintellekti loodud universumid',
     'discovery.ai.stories': 'Tehisintellekti loodud lood',
     'discovery.ai.noContent': 'AI-genereeritud sisu ei ole veel saadaval.',
+    'discovery.ai.noUniverses': 'AI-genereeritud universumid pole veel saadaval.',
+    'discovery.ai.noStories': 'AI-genereeritud lugusid veel ei ole saadaval.',
     'discover.search.aiContent': 'AI sisu',
     'discover.search.aiContent.both': 'Näita kogu sisu',
     'discover.search.aiContent.none': 'Peida tehisintellekti loodud sisu',

@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Univers générés par l\'IA',
     'discovery.ai.stories': 'Histoires générées par l\'IA',
     'discovery.ai.noContent': 'Aucun contenu généré par l\'IA n\'est encore disponible.',
+    'discovery.ai.noUniverses': 'Aucun univers généré par l\'IA n\'est encore disponible.',
+    'discovery.ai.noStories': 'Aucune histoire générée par l\'IA n\'est encore disponible.',
     'discover.search.aiContent': 'Contenu de l\'IA',
     'discover.search.aiContent.both': 'Afficher tout le contenu',
     'discover.search.aiContent.none': 'Cacher le contenu généré par l\'IA',

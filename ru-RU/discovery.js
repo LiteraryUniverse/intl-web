@@ -75,6 +75,8 @@ export default {
     'discovery.ai.universes': 'Вселенные, созданные искусственным интеллектом',
     'discovery.ai.stories': 'Истории, созданные искусственным интеллектом',
     'discovery.ai.noContent': 'Контент, созданный искусственным интеллектом, пока не доступен.',
+    'discovery.ai.noUniverses': 'Пока нет вселенных, созданных ИИ.',
+    'discovery.ai.noStories': 'Истории, созданные искусственным интеллектом, пока не доступны.',
     'discover.search.aiContent': 'AI Контент',
     'discover.search.aiContent.both': 'Показать все содержимое',
     'discover.search.aiContent.none': 'Скрывайте контент, созданный искусственным интеллектом',

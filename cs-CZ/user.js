@@ -49,7 +49,7 @@ export default {
     many {fan fikcí}
     other {fan fikcí} 
   }`,
-    'profile.works': 'Děl',
+    'profile.works': 'Díla',
     // As in creative/literary works
     'profile.wishlist': 'Seznam přání',
     'profile.storiesBy': 'Příběhy vytvořené {username}',

@@ -67,6 +67,8 @@ export default {
     'discovery.ai.universes': 'Mesterséges intelligencia által generált univerzumok',
     'discovery.ai.stories': 'AI-generált történetek',
     'discovery.ai.noContent': 'Még nem áll rendelkezésre mesterséges intelligencia által generált tartalom.',
+    'discovery.ai.noUniverses': 'Még nem állnak rendelkezésre mesterséges intelligencia által generált univerzumok.',
+    'discovery.ai.noStories': 'Még nem állnak rendelkezésre mesterséges intelligencia által generált történetek.',
     'discover.search.aiContent': 'AI tartalom',
     'discover.search.aiContent.both': 'Minden tartalom megjelenítése',
     'discover.search.aiContent.none': 'AI által generált tartalom elrejtése',

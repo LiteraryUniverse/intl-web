@@ -65,6 +65,8 @@ export default {
     'discovery.ai.universes': 'AIが生成する宇宙',
     'discovery.ai.stories': 'AIが生み出す物語',
     'discovery.ai.noContent': 'AIが生成したコンテンツはまだない。',
+    'discovery.ai.noUniverses': 'AIが生成した宇宙はまだない。',
+    'discovery.ai.noStories': 'AIが生成したストーリーはまだない。',
     'discover.search.aiContent': 'AIコンテンツ',
     'discover.search.aiContent.both': 'すべてのコンテンツを表示する',
     'discover.search.aiContent.none': 'AIが生成したコンテンツを隠す',
