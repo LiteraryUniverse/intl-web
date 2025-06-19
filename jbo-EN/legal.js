@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'co\'a logji',
     'legal.publicationAgreements': 'lo se tcita be le pamoi se pagbu',
     'legal.generalPublishingAgreement': 'lo se tcita be le pamoi se pagbu be lo se tcita be lo se jibri',
-    'legal.documentsFor': 'Legal documents for {workTitle}'
+    'legal.documentsFor': 'Legal documents for {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };
