@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Die lebenslange Mitgliedschaft ist nicht verfügbar. Bitte versuchen Sie es später noch einmal.',
     'plans.lifetime.error.notConfigured': 'Der Zahlungsanbieter ist nicht richtig konfiguriert. Bitte kontaktieren Sie den Support.',
     'plans.lifetime.error.notLoggedIn': 'Sie müssen eingeloggt sein, um eine lebenslange Mitgliedschaft zu erwerben.',
-    'plans.lifetime.error.generic': 'Beim Einrichten der Kasse ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.'
+    'plans.lifetime.error.generic': 'Beim Einrichten der Kasse ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.',
+    'plans.lifetime.subscription.title': 'Mitgliedschaft auf Lebenszeit',
+    'plans.lifetime.subscription.description': 'Sie haben eine lebenslange Mitgliedschaft bei Literary Universe. Vielen Dank für Ihre unglaubliche Unterstützung!',
+    'plans.lifetime.subscription.status': 'Status: Für immer aktiv',
+    'plans.lifetime.subscription.purchaseDate': 'Gekauft am: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Ihre lebenslange Mitgliedschaft erfordert keine weiteren Schritte. Genießen Sie Ihre Vorteile für immer!'
 };
