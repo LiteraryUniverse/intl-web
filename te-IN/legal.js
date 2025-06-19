@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'దయచేసి లాగిన్ చేయండి.',
     'legal.publicationAgreements': 'ప్రచురణ ఒప్పందాలు',
     'legal.generalPublishingAgreement': 'సాధారణ ప్రచురణ ఒప్పందం',
-    'legal.documentsFor': '{workTitle}కోసం కానూనీ పత్రాలు'
+    'legal.documentsFor': '{workTitle}కోసం కానూనీ పత్రాలు',
+    'legal.modal.agreeToAll': 'Agree to All'
 };
