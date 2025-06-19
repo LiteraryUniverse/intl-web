@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Kirjaudu sisään.',
     'legal.publicationAgreements': 'Julkaisusopimukset',
     'legal.generalPublishingAgreement': 'Yleinen julkaisusopimus',
-    'legal.documentsFor': 'Oikeudelliset asiakirjat {workTitle}'
+    'legal.documentsFor': 'Oikeudelliset asiakirjat {workTitle}',
+    'legal.modal.agreeToAll': 'Hyväksyn kaikki'
 };
