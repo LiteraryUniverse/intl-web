@@ -1,5 +1,13 @@
 # Changelog for languages
 
+## 2025-06-19 - v2.16.2
+* New file upload string
+* More courses strings
+* Remove deprecated NaNoWriMo strings
+* Sign-up strings
+* Agree to all legal texts string
+* Lifetime membership strings
+
 ## 2025-06-02 - v2.16.1
 
 * Added missing translations from Signup Wizard
@@ -13,7 +21,7 @@
 * Updated resolution center strings
 * New courses strings
 * AI settings strings
-* New licenses releated strings
+* New licenses related strings
 * New feature strings: signup wizard
 
 ## 2025-04-12 - v2.15.5
