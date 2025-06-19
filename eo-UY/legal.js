@@ -10,5 +10,6 @@ export default {
     'legal.modal.pleaseLogin': 'Bonvolu ensaluti.',
     'legal.publicationAgreements': 'Aldonoj pri publikigo',
     'legal.generalPublishingAgreement': 'Ĝenerala kunteksto pri publikigo',
-    'legal.documentsFor': 'Jura dokumentoj por {workTitle}'
+    'legal.documentsFor': 'Jura dokumentoj por {workTitle}',
+    'legal.modal.agreeToAll': 'Agree to All'
 };
