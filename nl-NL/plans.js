@@ -309,5 +309,10 @@ export default {
     'plans.lifetime.error.invalidPrice': 'Het levenslange lidmaatschap is niet beschikbaar. Probeer het later nog eens.',
     'plans.lifetime.error.notConfigured': 'Betalingsprovider is niet correct geconfigureerd. Neem contact op met ondersteuning.',
     'plans.lifetime.error.notLoggedIn': 'U moet ingelogd zijn om een levenslang lidmaatschap te kopen.',
-    'plans.lifetime.error.generic': 'Er is een fout opgetreden tijdens het instellen van de kassa. Probeer het later nog eens.'
+    'plans.lifetime.error.generic': 'Er is een fout opgetreden tijdens het instellen van de kassa. Probeer het later nog eens.',
+    'plans.lifetime.subscription.title': 'Levenslang lidmaatschap',
+    'plans.lifetime.subscription.description': 'U bent levenslang lid van Literary Universe. Hartelijk dank voor uw ongelofelijke steun!',
+    'plans.lifetime.subscription.status': 'Status: Voor altijd actief',
+    'plans.lifetime.subscription.purchaseDate': 'Gekocht op: {date, date, medium}',
+    'plans.lifetime.subscription.noActions': 'Uw levenslange lidmaatschap vereist geen verdere actie. Geniet voor altijd van uw voordelen!'
 };
