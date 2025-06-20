@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Mukautettu avatar-suunnittelu',
     'plans.lifetime.subscription.benefit3': 'Kuukausittaiset tiimipuhelut',
     'plans.lifetime.subscription.benefit4': 'Ominaisuuspyynnön prioriteetti',
-    'plans.subscription.lifetimeMember': 'Sinulla on elinikäinen jäsenyys',
-    'plans.lifetime.announcement': 'Sinulla on nyt rajallinen mahdollisuus saada elinikäinen jäsenyys! Tsekkaa se!'
+    'plans.subscription.lifetimeMember': 'Sinulla on elinikäinen jäsenyys'
 };
