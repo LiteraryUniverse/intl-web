@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Betalingsudbyderen er ikke korrekt konfigureret. Kontakt venligst support.',
     'plans.lifetime.error.notLoggedIn': 'Du skal være logget ind for at købe et livstidsmedlemskab.',
     'plans.lifetime.error.generic': 'Der opstod en fejl under opsætning af checkout. Prøv venligst igen senere.',
+    'plans.lifetime.error.alreadyMember': 'Du har allerede et livstidsmedlemskab.',
     'plans.lifetime.subscription.title': 'Livsvarigt medlemskab',
     'plans.lifetime.subscription.description': 'Du har et livsvarigt medlemskab af Literary Universe. Tak for din fantastiske støtte!',
     'plans.lifetime.subscription.status': 'Status: Aktiv for altid',
     'plans.lifetime.subscription.purchaseDate': 'Købt på: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Dit livstidsmedlemskab kræver ingen yderligere handling. Nyd dine fordele for evigt!'
+    'plans.lifetime.subscription.noActions': 'Dit livstidsmedlemskab kræver ingen yderligere handling. Nyd dine fordele for evigt!',
+    'plans.lifetime.subscription.benefitsTitle': 'Dine livslange fordele',
+    'plans.lifetime.subscription.benefit1': 'Permanent adgang til Storyteller-niveauet',
+    'plans.lifetime.subscription.benefit2': 'Brugerdefineret avatar-design',
+    'plans.lifetime.subscription.benefit3': 'Månedlige teamopkald',
+    'plans.lifetime.subscription.benefit4': 'Prioritering af anmodninger om funktioner',
+    'plans.subscription.lifetimeMember': 'Du har et livstidsmedlemskab',
+    'plans.lifetime.announcement': 'Du har nu en begrænset mulighed for at få livstidsmedlemskab! Tjek det ud!'
 };
