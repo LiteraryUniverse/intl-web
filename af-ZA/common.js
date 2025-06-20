@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'NOTA: Hierdie storie is \'n fanfiksie in die {universe} heelal.',
     copyrights: 'Kopiereg',
     'common.challenges': 'Uitdagings',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'Dankie vir jou ondersteuning!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'Jou notas en idees toeganklik oral op die webwerf.',
     'common.feedback': 'Terugvoer',
     'common.createdOn': 'Geskep op {date, date, long}',

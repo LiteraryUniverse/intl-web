@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'ਨੋਟ: ਇਹ ਕਹਾਣੀ {universe} ਯੂਨੀਵਰਸ ਤੇ ਇੱਕ ਫੈਨ ਫਿਕਸ਼ਨ ਹੈ।',
     copyrights: 'ਕਾਪੀਰਾਈਟ',
     'common.challenges': 'ਚੈਲੰਜ਼',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'ਤੁਹਾਡੇ ਸਹਿਯੋਗ ਲਈ ਧੰਨਵਾਦ!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'ਤੁਹਾਡੇ ਨੋਟ ਅਤੇ ਵਿਚਾਰ ਸਾਈਟ ਦੇ ਹਰ ਕੋਨੇ ਤੱਕ ਪਹੁੰਚਯੋਗ।',
     'common.feedback': 'ਫੀਡਬੈਕ',
     'common.createdOn': 'Created on {date, date, long}',

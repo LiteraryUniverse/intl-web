@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'नोंद: ही कथा {universe} यूनिव्हर्सवरील एक फॅन फिक्शन आहे.',
     copyrights: 'कॉपीराइट',
     'common.challenges': 'साहसिक',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'आपल्या सहभागाबद्दल धन्यवाद!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'आपले नोट आणि विचार साइटवर कोठेही प्राप्त',
     'common.feedback': 'प्रतिसाद',
     'common.createdOn': 'Created on {date, date, long}',

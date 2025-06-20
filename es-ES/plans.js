@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'El proveedor de pago no está configurado correctamente. Póngase en contacto con el servicio de asistencia.',
     'plans.lifetime.error.notLoggedIn': 'Debe iniciar sesión para adquirir una afiliación vitalicia.',
     'plans.lifetime.error.generic': 'Se ha producido un error al configurar el pago. Vuelva a intentarlo más tarde.',
+    'plans.lifetime.error.alreadyMember': 'Usted ya es miembro vitalicio.',
     'plans.lifetime.subscription.title': 'Afiliación vitalicia',
     'plans.lifetime.subscription.description': 'Usted es miembro vitalicio de Universo Literario. ¡Gracias por su increíble apoyo!',
     'plans.lifetime.subscription.status': 'Estado: Activo para siempre',
     'plans.lifetime.subscription.purchaseDate': 'Comprado en: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Su afiliación vitalicia no requiere ninguna acción adicional. ¡Disfrute de sus beneficios para siempre!'
+    'plans.lifetime.subscription.noActions': 'Su afiliación vitalicia no requiere ninguna acción adicional. ¡Disfrute de sus beneficios para siempre!',
+    'plans.lifetime.subscription.benefitsTitle': 'Sus beneficios de por vida',
+    'plans.lifetime.subscription.benefit1': 'Acceso permanente al nivel de narrador',
+    'plans.lifetime.subscription.benefit2': 'Diseño personalizado de avatares',
+    'plans.lifetime.subscription.benefit3': 'Llamadas mensuales al equipo',
+    'plans.lifetime.subscription.benefit4': 'Prioridad de la solicitud de características',
+    'plans.subscription.lifetimeMember': 'Usted es miembro de por vida',
+    'plans.lifetime.announcement': '¡Ahora tiene una oportunidad limitada de hacerse miembro de por vida! ¡Compruébelo!'
 };

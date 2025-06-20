@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Mokėjimo paslaugų teikėjas nėra tinkamai sukonfigūruotas. Kreipkitės į palaikymo tarnybą.',
     'plans.lifetime.error.notLoggedIn': 'Norėdami įsigyti visą gyvenimą trunkančią narystę, turite būti prisijungę.',
     'plans.lifetime.error.generic': 'Nustatant užsakymą įvyko klaida. Prašome pabandyti vėliau.',
+    'plans.lifetime.error.alreadyMember': 'Jau turite visą gyvenimą galiojančią narystę.',
     'plans.lifetime.subscription.title': 'Narystė visam gyvenimui',
     'plans.lifetime.subscription.description': 'Visą gyvenimą esate "Literary Universe" narys. Dėkojame už neįtikėtiną paramą!',
     'plans.lifetime.subscription.status': 'Būklė: Aktyvus visam laikui',
     'plans.lifetime.subscription.purchaseDate': 'Įsigyta: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Jūsų narystei visą gyvenimą nereikia jokių papildomų veiksmų. Mėgaukitės savo privalumais amžinai!'
+    'plans.lifetime.subscription.noActions': 'Jūsų narystei visą gyvenimą nereikia jokių papildomų veiksmų. Mėgaukitės savo privalumais amžinai!',
+    'plans.lifetime.subscription.benefitsTitle': 'Jūsų viso gyvenimo išmokos',
+    'plans.lifetime.subscription.benefit1': 'Nuolatinė pasakotojo lygio prieiga',
+    'plans.lifetime.subscription.benefit2': 'Pasirinktinis avataro dizainas',
+    'plans.lifetime.subscription.benefit3': 'Mėnesiniai komandos skambučiai',
+    'plans.lifetime.subscription.benefit4': 'Funkcijų užklausų prioritetas',
+    'plans.subscription.lifetimeMember': 'Turite narystę visam gyvenimui',
+    'plans.lifetime.announcement': 'Dabar turite ribotą galimybę įgyti narystę visam gyvenimui! Patikrinkite!'
 };

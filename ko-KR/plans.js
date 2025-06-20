@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': '결제 서비스 공급업체가 올바르게 구성되지 않았습니다. 지원팀에 문의하세요.',
     'plans.lifetime.error.notLoggedIn': '평생 멤버십을 구매하려면 로그인해야 합니다.',
     'plans.lifetime.error.generic': '결제를 설정하는 동안 오류가 발생했습니다. 나중에 다시 시도해 주세요.',
+    'plans.lifetime.error.alreadyMember': '이미 평생 멤버십을 보유하고 계십니다.',
     'plans.lifetime.subscription.title': '평생 멤버십',
     'plans.lifetime.subscription.description': '문학의 세계 평생 회원 자격이 있습니다. 놀라운 성원에 감사드립니다!',
     'plans.lifetime.subscription.status': '상태: 영구 활성',
     'plans.lifetime.subscription.purchaseDate': '에서 구입했습니다: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': '평생 멤버십은 추가 조치가 필요하지 않습니다. 혜택을 평생 누리세요!'
+    'plans.lifetime.subscription.noActions': '평생 멤버십은 추가 조치가 필요하지 않습니다. 혜택을 평생 누리세요!',
+    'plans.lifetime.subscription.benefitsTitle': '평생 혜택',
+    'plans.lifetime.subscription.benefit1': '영구 스토리텔러 티어 액세스 권한',
+    'plans.lifetime.subscription.benefit2': '사용자 지정 아바타 디자인',
+    'plans.lifetime.subscription.benefit3': '월간 팀 통화',
+    'plans.lifetime.subscription.benefit4': '기능 요청 우선 순위',
+    'plans.subscription.lifetimeMember': '평생 멤버십이 있습니다.',
+    'plans.lifetime.announcement': '이제 평생 회원 자격을 얻을 수 있는 한정된 기회가 주어집니다! 지금 바로 확인해보세요!'
 };

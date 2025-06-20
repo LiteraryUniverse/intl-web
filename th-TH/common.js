@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'หมายเหตุ: เรื่องนี้เป็นนิยายแฟนฟิคในจักรวาล {universe}',
     copyrights: 'ลิขสิทธิ์',
     'common.challenges': 'ความท้าทาย',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'ขอบคุณสำหรับการสนับสนุนของคุณ!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'บันทึกและความคิดเห็นของคุณสามารถเข้าถึงได้ทุกที่บนเว็บไซต์',
     'common.feedback': 'ข้อเสนอแนะ',
     'common.createdOn': 'สร้างเมื่อ {date, date, long}',

@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'MÄRKUS: See lugu on fännifiktsioon {universe} universumis.',
     copyrights: 'Autoriõigused',
     'common.challenges': 'Väljakutsed',
-    // for beta only
-    'beta.notice': 'Tere tulemast Kirjandusuniversumi BETA-sse! Meil on hea meel teile teada anda, et sel reedel alustame ametlikult tööd! Loodame, et liitute meiega ja toetate meid, kui alustame uut peatükki oma teekonnal.',
-    'beta.thanks': 'Täname teid toetuse eest!',
+    'notice.thankYou': 'Täname teid toetuse eest!',
     'scratchpad.about': 'Sinu märkmed ja ideed on kättesaadavad igal pool saidil.',
     'common.feedback': 'Tagasiside',
     'common.createdOn': 'Loodud {date, date, long}',

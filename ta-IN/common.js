@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'குறிப்பு: இந்த கதை {universe} உலகத்தின் ஒரு ரசிகர் கதை.',
     copyrights: 'பதிப்புரிமை',
     'common.challenges': 'சவால்கள்',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'உங்கள் ஆதரவுக்கு நன்றி!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'உங்கள் குறிப்புகள் மற்றும் கருத்துகள் இணைக்கப்பட்ட இடத்தில் எல்லாவற்றையும் அணுகலாம்.',
     'common.feedback': 'கருத்து',
     'common.createdOn': 'உருவாக்கப்பட்டது {date, date, long}',

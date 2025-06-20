@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Betalningsleverantören är inte korrekt konfigurerad. Vänligen kontakta support.',
     'plans.lifetime.error.notLoggedIn': 'Du måste vara inloggad för att köpa ett livslångt medlemskap.',
     'plans.lifetime.error.generic': 'Ett fel inträffade när du skapade kassan. Vänligen försök igen senare.',
+    'plans.lifetime.error.alreadyMember': 'Du har redan ett livstidsmedlemskap.',
     'plans.lifetime.subscription.title': 'Livstidsmedlemskap',
     'plans.lifetime.subscription.description': 'Du har ett livstidsmedlemskap i Literary Universe. Tack för ditt otroliga stöd!',
     'plans.lifetime.subscription.status': 'Status: Aktiv för evigt',
     'plans.lifetime.subscription.purchaseDate': 'Köpt på: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Ditt livstidsmedlemskap kräver ingen ytterligare åtgärd. Njut av dina förmåner för alltid!'
+    'plans.lifetime.subscription.noActions': 'Ditt livstidsmedlemskap kräver ingen ytterligare åtgärd. Njut av dina förmåner för alltid!',
+    'plans.lifetime.subscription.benefitsTitle': 'Dina livslånga förmåner',
+    'plans.lifetime.subscription.benefit1': 'Permanent tillgång till Storyteller-nivå',
+    'plans.lifetime.subscription.benefit2': 'Anpassad avatardesign',
+    'plans.lifetime.subscription.benefit3': 'Månatliga teamsamtal',
+    'plans.lifetime.subscription.benefit4': 'Prioritering av funktionsbegäran',
+    'plans.subscription.lifetimeMember': 'Du har ett livslångt medlemskap',
+    'plans.lifetime.announcement': 'Du har nu en begränsad möjlighet att få livstids medlemskap! Kolla in det här!'
 };

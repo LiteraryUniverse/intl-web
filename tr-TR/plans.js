@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Ödeme sağlayıcısı düzgün yapılandırılmamış. Lütfen destek ekibiyle iletişime geçin.',
     'plans.lifetime.error.notLoggedIn': 'Ömür boyu üyelik satın almak için giriş yapmış olmanız gerekmektedir.',
     'plans.lifetime.error.generic': 'Ödeme ayarlanırken bir hata oluştu. Lütfen daha sonra tekrar deneyin.',
+    'plans.lifetime.error.alreadyMember': 'Zaten ömür boyu üyeliğiniz var.',
     'plans.lifetime.subscription.title': 'Ömür Boyu Üyelik',
     'plans.lifetime.subscription.description': 'Literary Universe ile ömür boyu üyeliğiniz var. İnanılmaz desteğiniz için teşekkür ederiz!',
     'plans.lifetime.subscription.status': 'Statü: Sonsuza Kadar Aktif',
     'plans.lifetime.subscription.purchaseDate': 'Satın alındı: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Ömür boyu üyeliğiniz başka bir işlem gerektirmez. Avantajlarınızdan sonsuza dek yararlanın!'
+    'plans.lifetime.subscription.noActions': 'Ömür boyu üyeliğiniz başka bir işlem gerektirmez. Avantajlarınızdan sonsuza dek yararlanın!',
+    'plans.lifetime.subscription.benefitsTitle': 'Ömür Boyu Avantajlarınız',
+    'plans.lifetime.subscription.benefit1': 'Kalıcı Hikaye Anlatıcısı kademe erişimi',
+    'plans.lifetime.subscription.benefit2': 'Özel avatar tasarımı',
+    'plans.lifetime.subscription.benefit3': 'Aylık ekip görüşmeleri',
+    'plans.lifetime.subscription.benefit4': 'Özellik isteği önceliği',
+    'plans.subscription.lifetimeMember': 'Ömür boyu üyeliğiniz var',
+    'plans.lifetime.announcement': 'Şimdi ömür boyu üyelik kazanmak için sınırlı bir fırsatınız var! Bir göz atın!'
 };

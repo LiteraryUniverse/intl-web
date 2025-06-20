@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Der Zahlungsanbieter ist nicht richtig konfiguriert. Bitte kontaktieren Sie den Support.',
     'plans.lifetime.error.notLoggedIn': 'Sie müssen eingeloggt sein, um eine lebenslange Mitgliedschaft zu erwerben.',
     'plans.lifetime.error.generic': 'Beim Einrichten der Kasse ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.',
+    'plans.lifetime.error.alreadyMember': 'Sie haben bereits eine lebenslange Mitgliedschaft.',
     'plans.lifetime.subscription.title': 'Mitgliedschaft auf Lebenszeit',
     'plans.lifetime.subscription.description': 'Sie haben eine lebenslange Mitgliedschaft bei Literary Universe. Vielen Dank für Ihre unglaubliche Unterstützung!',
     'plans.lifetime.subscription.status': 'Status: Für immer aktiv',
     'plans.lifetime.subscription.purchaseDate': 'Gekauft am: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Ihre lebenslange Mitgliedschaft erfordert keine weiteren Schritte. Genießen Sie Ihre Vorteile für immer!'
+    'plans.lifetime.subscription.noActions': 'Ihre lebenslange Mitgliedschaft erfordert keine weiteren Schritte. Genießen Sie Ihre Vorteile für immer!',
+    'plans.lifetime.subscription.benefitsTitle': 'Ihr lebenslanger Nutzen',
+    'plans.lifetime.subscription.benefit1': 'Permanenter Zugang zur Storyteller-Ebene',
+    'plans.lifetime.subscription.benefit2': 'Benutzerdefiniertes Avatar-Design',
+    'plans.lifetime.subscription.benefit3': 'Monatliche Teamgespräche',
+    'plans.lifetime.subscription.benefit4': 'Priorität der Feature-Anfrage',
+    'plans.subscription.lifetimeMember': 'Sie haben eine lebenslange Mitgliedschaft',
+    'plans.lifetime.announcement': 'Sie haben jetzt eine begrenzte Gelegenheit, eine lebenslange Mitgliedschaft zu erwerben! Probieren Sie es aus!'
 };

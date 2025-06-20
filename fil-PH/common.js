@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'TANDAAN: Ang kuwentong ito ay isang fan fiction sa universe ng {universe}.',
     copyrights: 'Mga Karapatan',
     'common.challenges': 'Mga Hamon',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'Salamat sa iyong suporta!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'Ang iyong mga tala at ideya ay magagamit kahit saan sa site.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Nilikha noong {date, date, long}',

@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Maksupalveluntarjoajaa ei ole määritetty oikein. Ota yhteyttä asiakaspalveluun.',
     'plans.lifetime.error.notLoggedIn': 'Sinun on oltava kirjautuneena sisään ostaaksesi elinikäisen jäsenyyden.',
     'plans.lifetime.error.generic': 'Kassan määrityksessä tapahtui virhe. Yritä myöhemmin uudelleen.',
+    'plans.lifetime.error.alreadyMember': 'Sinulla on jo elinikäinen jäsenyys.',
     'plans.lifetime.subscription.title': 'Elinikäinen jäsenyys',
     'plans.lifetime.subscription.description': 'Sinulla on elinikäinen jäsenyys Literary Universessa. Kiitos uskomattomasta tuestasi!',
     'plans.lifetime.subscription.status': 'Tilanne: Aktiivinen ikuisesti',
     'plans.lifetime.subscription.purchaseDate': 'Ostettu: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Elinikäinen jäsenyytesi ei vaadi muita toimenpiteitä. Nauti eduistasi ikuisesti!'
+    'plans.lifetime.subscription.noActions': 'Elinikäinen jäsenyytesi ei vaadi muita toimenpiteitä. Nauti eduistasi ikuisesti!',
+    'plans.lifetime.subscription.benefitsTitle': 'Elinikäiset etusi',
+    'plans.lifetime.subscription.benefit1': 'Pysyvä pääsy tarinankertoja-tasolle',
+    'plans.lifetime.subscription.benefit2': 'Mukautettu avatar-suunnittelu',
+    'plans.lifetime.subscription.benefit3': 'Kuukausittaiset tiimipuhelut',
+    'plans.lifetime.subscription.benefit4': 'Ominaisuuspyynnön prioriteetti',
+    'plans.subscription.lifetimeMember': 'Sinulla on elinikäinen jäsenyys',
+    'plans.lifetime.announcement': 'Sinulla on nyt rajallinen mahdollisuus saada elinikäinen jäsenyys! Tsekkaa se!'
 };

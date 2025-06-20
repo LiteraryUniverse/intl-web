@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Makseteenuse pakkuja ei ole õigesti konfigureeritud. Palun võtke ühendust klienditoega.',
     'plans.lifetime.error.notLoggedIn': 'Eluaegse liikmesuse ostmiseks peate olema sisse logitud.',
     'plans.lifetime.error.generic': 'Kassa seadistamisel tekkis viga. Palun proovige hiljem uuesti.',
+    'plans.lifetime.error.alreadyMember': 'Teil on juba eluaegne liikmelisus.',
     'plans.lifetime.subscription.title': 'Eluaegne liikmelisus',
     'plans.lifetime.subscription.description': 'Teil on eluaegne liitumine Kirjandusuniversumiga. Aitäh teie uskumatu toetuse eest!',
     'plans.lifetime.subscription.status': 'Staatus: Aktiivne igavesti',
     'plans.lifetime.subscription.purchaseDate': 'Ostetud aadressil: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Teie eluaegne liikmelisus ei nõua edasisi tegevusi. Nautige oma eeliseid igavesti!'
+    'plans.lifetime.subscription.noActions': 'Teie eluaegne liikmelisus ei nõua edasisi tegevusi. Nautige oma eeliseid igavesti!',
+    'plans.lifetime.subscription.benefitsTitle': 'Teie eluaegsed eelised',
+    'plans.lifetime.subscription.benefit1': 'Alaline juurdepääs jutuvestja tasandile',
+    'plans.lifetime.subscription.benefit2': 'Kohandatud avatari disain',
+    'plans.lifetime.subscription.benefit3': 'Igakuised meeskonnakõned',
+    'plans.lifetime.subscription.benefit4': 'Funktsioonitaotluse prioriteet',
+    'plans.subscription.lifetimeMember': 'Teil on eluaegne liikmelisus',
+    'plans.lifetime.announcement': 'Teil on nüüd piiratud võimalus saada eluaegne liikmelisus! Vaata seda!'
 };

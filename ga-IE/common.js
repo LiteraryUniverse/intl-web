@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'NÓTA: Is ficsean lucht leanúna é an scéal seo ar uileann {universe} .',
     copyrights: 'Cearta cúlra',
     'common.challenges': 'Dúshláin',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'Go raibh maith agat as do thacaíocht!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'Do nótaí agus smaointe ar fáil i ngach áit ar an suíomh.',
     'common.feedback': 'Aiseolas',
     'common.createdOn': 'Cruthaithe ar {date, date, long}',

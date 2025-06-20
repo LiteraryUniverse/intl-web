@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Платежный провайдер настроен неправильно. Пожалуйста, обратитесь в службу поддержки.',
     'plans.lifetime.error.notLoggedIn': 'Вы должны войти в систему, чтобы приобрести пожизненное членство.',
     'plans.lifetime.error.generic': 'При оформлении заказа произошла ошибка. Пожалуйста, повторите попытку позже.',
+    'plans.lifetime.error.alreadyMember': 'У Вас уже есть пожизненное членство.',
     'plans.lifetime.subscription.title': 'Пожизненное членство',
     'plans.lifetime.subscription.description': 'У Вас есть пожизненное членство в Литературной Вселенной. Спасибо за Вашу невероятную поддержку!',
     'plans.lifetime.subscription.status': 'Статус: Активный навсегда',
     'plans.lifetime.subscription.purchaseDate': 'Приобретено на: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Ваше пожизненное членство не требует никаких дополнительных действий. Наслаждайтесь своими преимуществами вечно!'
+    'plans.lifetime.subscription.noActions': 'Ваше пожизненное членство не требует никаких дополнительных действий. Наслаждайтесь своими преимуществами вечно!',
+    'plans.lifetime.subscription.benefitsTitle': 'Ваши пожизненные преимущества',
+    'plans.lifetime.subscription.benefit1': 'Постоянный доступ к уровню Рассказчика',
+    'plans.lifetime.subscription.benefit2': 'Индивидуальный дизайн аватара',
+    'plans.lifetime.subscription.benefit3': 'Ежемесячные командные звонки',
+    'plans.lifetime.subscription.benefit4': 'Приоритет запросов на улучшение характеристик',
+    'plans.subscription.lifetimeMember': 'У Вас есть пожизненное членство',
+    'plans.lifetime.announcement': 'Сейчас у Вас есть ограниченная возможность получить пожизненное членство! Проверьте это!'
 };

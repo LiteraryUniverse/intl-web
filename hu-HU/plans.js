@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'A fizetési szolgáltató nincs megfelelően konfigurálva. Kérjük, forduljon az ügyfélszolgálathoz.',
     'plans.lifetime.error.notLoggedIn': 'Az élethosszig tartó tagság megvásárlásához be kell jelentkeznie.',
     'plans.lifetime.error.generic': 'Hiba történt a pénztár beállítása közben. Kérjük, próbálja meg később újra.',
+    'plans.lifetime.error.alreadyMember': 'Ön már rendelkezik élethosszig tartó tagsággal.',
     'plans.lifetime.subscription.title': 'Életre szóló tagság',
     'plans.lifetime.subscription.description': 'Életre szóló tagságod van az Irodalmi Univerzumban. Köszönjük hihetetlen támogatásodat!',
     'plans.lifetime.subscription.status': 'Állapot: Forever aktív',
     'plans.lifetime.subscription.purchaseDate': 'Vásárolta a: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Az élethosszig tartó tagság nem igényel további lépéseket. Élvezze előnyeit örökké!'
+    'plans.lifetime.subscription.noActions': 'Az élethosszig tartó tagság nem igényel további lépéseket. Élvezze előnyeit örökké!',
+    'plans.lifetime.subscription.benefitsTitle': 'Az Ön élethosszig tartó előnyei',
+    'plans.lifetime.subscription.benefit1': 'Állandó mesélő szintű hozzáférés',
+    'plans.lifetime.subscription.benefit2': 'Egyedi avatár tervezés',
+    'plans.lifetime.subscription.benefit3': 'Havi rendszerességgel tartott csapatbeszélgetések',
+    'plans.lifetime.subscription.benefit4': 'Funkciókérés prioritása',
+    'plans.subscription.lifetimeMember': 'Életre szóló tagságod van',
+    'plans.lifetime.announcement': 'Most korlátozott lehetőséged van arra, hogy élethosszig tartó tagságot szerezz! Nézze meg!'
 };

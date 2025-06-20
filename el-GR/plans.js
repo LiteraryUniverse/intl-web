@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Ο πάροχος πληρωμών δεν έχει ρυθμιστεί σωστά. Παρακαλούμε επικοινωνήστε με την υποστήριξη.',
     'plans.lifetime.error.notLoggedIn': 'Πρέπει να συνδεθείτε για να αγοράσετε μια ισόβια συνδρομή.',
     'plans.lifetime.error.generic': 'Προέκυψε σφάλμα κατά τη ρύθμιση του ταμείου. Προσπαθήστε ξανά αργότερα.',
+    'plans.lifetime.error.alreadyMember': 'Έχετε ήδη ισόβια συνδρομή.',
     'plans.lifetime.subscription.title': 'Ισόβια ιδιότητα μέλους',
     'plans.lifetime.subscription.description': 'Έχετε ισόβια συνδρομή στο Literary Universe. Σας ευχαριστούμε για την απίστευτη υποστήριξή σας!',
     'plans.lifetime.subscription.status': 'Κατάσταση: Πάντα ενεργός',
     'plans.lifetime.subscription.purchaseDate': 'Αγοράστηκε στις: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Η ισόβια συνδρομή σας δεν απαιτεί περαιτέρω ενέργειες. Απολαύστε τα οφέλη σας για πάντα!'
+    'plans.lifetime.subscription.noActions': 'Η ισόβια συνδρομή σας δεν απαιτεί περαιτέρω ενέργειες. Απολαύστε τα οφέλη σας για πάντα!',
+    'plans.lifetime.subscription.benefitsTitle': 'Τα οφέλη σας εφ\' όρου ζωής',
+    'plans.lifetime.subscription.benefit1': 'Μόνιμη πρόσβαση στη βαθμίδα Storyteller',
+    'plans.lifetime.subscription.benefit2': 'Προσαρμοσμένος σχεδιασμός avatar',
+    'plans.lifetime.subscription.benefit3': 'Μηνιαίες κλήσεις της ομάδας',
+    'plans.lifetime.subscription.benefit4': 'Προτεραιότητα αίτησης χαρακτηριστικών',
+    'plans.subscription.lifetimeMember': 'Έχετε ισόβια συνδρομή',
+    'plans.lifetime.announcement': 'Έχετε τώρα μια περιορισμένη ευκαιρία να γίνετε ισόβια μέλη! Ελέγξτε το!'
 };

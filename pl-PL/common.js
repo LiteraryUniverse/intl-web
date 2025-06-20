@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'UWAGA: Ta historia jest fan fiction na {universe} wszechświata.',
     copyrights: 'Prawa Autorskie',
     'common.challenges': 'Wyzwania',
-    // for beta only
-    'beta.notice': 'Witamy w Literary Universe BETA! Z radością informujemy Państwa, że oficjalnie startujemy w ten piątek! Mamy nadzieję, że dołączą Państwo do nas i wesprą nas w rozpoczęciu nowego rozdziału w naszej podróży.',
-    'beta.thanks': 'Dziękujemy za wsparcie!',
+    'notice.thankYou': 'Dziękujemy za Państwa wsparcie!',
     'scratchpad.about': 'Twoje notatki i pomysły dostępne w każdym miejscu na stronie.',
     'common.feedback': 'Sugestie',
     'common.createdOn': 'Utworzony w dniu {date, date, long}',

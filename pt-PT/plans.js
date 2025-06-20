@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'O fornecedor de pagamentos não está corretamente configurado. Contacte a assistência.',
     'plans.lifetime.error.notLoggedIn': 'Tem de iniciar sessão para adquirir uma subscrição vitalícia.',
     'plans.lifetime.error.generic': 'Ocorreu um erro ao configurar o checkout. Tente novamente mais tarde.',
+    'plans.lifetime.error.alreadyMember': 'Já tem uma inscrição vitalícia.',
     'plans.lifetime.subscription.title': 'Filiação vitalícia',
     'plans.lifetime.subscription.description': 'Tem uma inscrição vitalícia no Universo Literário. Obrigado pelo seu incrível apoio!',
     'plans.lifetime.subscription.status': 'Estado: Ativo para sempre',
     'plans.lifetime.subscription.purchaseDate': 'Comprado em: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'A sua adesão vitalícia não requer qualquer ação adicional. Desfrute das suas vantagens para sempre!'
+    'plans.lifetime.subscription.noActions': 'A sua adesão vitalícia não requer qualquer ação adicional. Desfrute das suas vantagens para sempre!',
+    'plans.lifetime.subscription.benefitsTitle': 'As suas prestações vitalícias',
+    'plans.lifetime.subscription.benefit1': 'Acesso permanente ao escalão de Contador de Histórias',
+    'plans.lifetime.subscription.benefit2': 'Desenho de avatar personalizado',
+    'plans.lifetime.subscription.benefit3': 'Chamadas de equipa mensais',
+    'plans.lifetime.subscription.benefit4': 'Prioridade dos pedidos de funcionalidades',
+    'plans.subscription.lifetimeMember': 'Tem uma inscrição vitalícia',
+    'plans.lifetime.announcement': 'Tem agora uma oportunidade limitada de se tornar membro vitalício! Verifique-o!'
 };

@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Неправильно налаштований платіжний провайдер. Зверніться до служби підтримки.',
     'plans.lifetime.error.notLoggedIn': 'Ви повинні увійти, щоб придбати довічне членство.',
     'plans.lifetime.error.generic': 'Виникла помилка при налаштуванні оформлення замовлення. Будь ласка, спробуйте пізніше.',
+    'plans.lifetime.error.alreadyMember': 'Ви вже маєте довічне членство.',
     'plans.lifetime.subscription.title': 'Довічне членство',
     'plans.lifetime.subscription.description': 'Ви отримали довічне членство в Літературному Всесвіті. Дякуємо за вашу неймовірну підтримку!',
     'plans.lifetime.subscription.status': 'Статус: Активний назавжди',
     'plans.lifetime.subscription.purchaseDate': 'Придбано на: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Ваше довічне членство не потребує подальших дій. Насолоджуйтесь перевагами назавжди!'
+    'plans.lifetime.subscription.noActions': 'Ваше довічне членство не потребує подальших дій. Насолоджуйтесь перевагами назавжди!',
+    'plans.lifetime.subscription.benefitsTitle': 'Ваші довічні переваги',
+    'plans.lifetime.subscription.benefit1': 'Доступ до рівня постійного оповідача',
+    'plans.lifetime.subscription.benefit2': 'Індивідуальний дизайн аватарки',
+    'plans.lifetime.subscription.benefit3': 'Щомісячні командні дзвінки',
+    'plans.lifetime.subscription.benefit4': 'Пріоритет запиту функції',
+    'plans.subscription.lifetimeMember': 'Ви маєте довічне членство',
+    'plans.lifetime.announcement': 'Зараз у вас є обмежена можливість отримати довічне членство! Перевірте це!'
 };

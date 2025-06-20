@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Betalingsprovider is niet correct geconfigureerd. Neem contact op met ondersteuning.',
     'plans.lifetime.error.notLoggedIn': 'U moet ingelogd zijn om een levenslang lidmaatschap te kopen.',
     'plans.lifetime.error.generic': 'Er is een fout opgetreden tijdens het instellen van de kassa. Probeer het later nog eens.',
+    'plans.lifetime.error.alreadyMember': 'U bent al levenslang lid.',
     'plans.lifetime.subscription.title': 'Levenslang lidmaatschap',
     'plans.lifetime.subscription.description': 'U bent levenslang lid van Literary Universe. Hartelijk dank voor uw ongelofelijke steun!',
     'plans.lifetime.subscription.status': 'Status: Voor altijd actief',
     'plans.lifetime.subscription.purchaseDate': 'Gekocht op: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Uw levenslange lidmaatschap vereist geen verdere actie. Geniet voor altijd van uw voordelen!'
+    'plans.lifetime.subscription.noActions': 'Uw levenslange lidmaatschap vereist geen verdere actie. Geniet voor altijd van uw voordelen!',
+    'plans.lifetime.subscription.benefitsTitle': 'Uw levenslange voordelen',
+    'plans.lifetime.subscription.benefit1': 'Permanente toegang tot het Storyteller-niveau',
+    'plans.lifetime.subscription.benefit2': 'Aangepast avatar-ontwerp',
+    'plans.lifetime.subscription.benefit3': 'Maandelijkse teamgesprekken',
+    'plans.lifetime.subscription.benefit4': 'Prioriteit functieverzoeken',
+    'plans.subscription.lifetimeMember': 'U hebt een levenslang lidmaatschap',
+    'plans.lifetime.announcement': 'U hebt nu een beperkte kans om levenslang lid te worden! Check it out!'
 };
