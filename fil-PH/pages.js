@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'MAMBABASA',
     'homepage.writer': 'MANUNULAT',
     'homepage.reader.title': 'Ang pagbabasa ay hindi pa kailanman naging ganito ka-kawili',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'Natatanging karanasan sa pagbabasa',
     'homepage.reader.readingDesc': 'Lumalalim sa iyong paboritong fictional universe sa Literary Universe. Ang mga kuwento sa Literary Universe ay konektado sa loob ng parehong universe, nagbibigay sa iyo ng agarang access sa encyclopedia ng universe mula sa story reader.',
     'homepage.reader.favoriteTitle': 'Alamin pa ang tungkol sa iyong paboritong mga kuwento at mga may-akda',
