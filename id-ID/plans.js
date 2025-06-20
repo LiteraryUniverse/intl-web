@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Penyedia pembayaran tidak dikonfigurasi dengan benar. Silakan hubungi dukungan.',
     'plans.lifetime.error.notLoggedIn': 'Anda harus masuk untuk membeli keanggotaan seumur hidup.',
     'plans.lifetime.error.generic': 'Terjadi kesalahan saat menyiapkan pembayaran. Silakan coba lagi nanti.',
+    'plans.lifetime.error.alreadyMember': 'Anda sudah memiliki keanggotaan seumur hidup.',
     'plans.lifetime.subscription.title': 'Keanggotaan Seumur Hidup',
     'plans.lifetime.subscription.description': 'Anda memiliki keanggotaan seumur hidup dengan Literary Universe. Terima kasih atas dukungan Anda yang luar biasa!',
     'plans.lifetime.subscription.status': 'Status: Aktif Selamanya',
     'plans.lifetime.subscription.purchaseDate': 'Dibeli pada: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Keanggotaan seumur hidup Anda tidak memerlukan tindakan lebih lanjut. Nikmati keuntungan Anda selamanya!'
+    'plans.lifetime.subscription.noActions': 'Keanggotaan seumur hidup Anda tidak memerlukan tindakan lebih lanjut. Nikmati keuntungan Anda selamanya!',
+    'plans.lifetime.subscription.benefitsTitle': 'Manfaat Seumur Hidup Anda',
+    'plans.lifetime.subscription.benefit1': 'Akses tingkat Pendongeng Permanen',
+    'plans.lifetime.subscription.benefit2': 'Desain avatar khusus',
+    'plans.lifetime.subscription.benefit3': 'Panggilan tim bulanan',
+    'plans.lifetime.subscription.benefit4': 'Prioritas permintaan fitur',
+    'plans.subscription.lifetimeMember': 'Anda memiliki keanggotaan seumur hidup',
+    'plans.lifetime.announcement': 'Sekarang Anda memiliki kesempatan terbatas untuk mendapatkan keanggotaan seumur hidup! Lihatlah!'
 };
