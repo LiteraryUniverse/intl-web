@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': '참고: 이 스토리는 {universe} 우주의 팬픽션입니다.',
     copyrights: '저작권',
     'common.challenges': '도전',
-    // for beta only
-    'beta.notice': '문학의 세계 베타 버전에 오신 것을 환영합니다! 이번 주 금요일에 공식적으로 출시된다는 소식을 알려드리게 되어 기쁩니다! 저희 여정의 새로운 장을 시작하는 저희와 함께해주시고 응원해주시기 바랍니다.',
-    'beta.thanks': '여러분의 성원에 감사드립니다!',
+    'notice.thankYou': '여러분의 성원에 감사드립니다!',
     'scratchpad.about': '사이트 어디에서나 노트와 아이디어에 액세스할 수 있습니다.',
     'common.feedback': '피드백',
     'common.createdOn': '에 생성됨 {date, date, long}',
