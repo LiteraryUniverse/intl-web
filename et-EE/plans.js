@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Kohandatud avatari disain',
     'plans.lifetime.subscription.benefit3': 'Igakuised meeskonnakõned',
     'plans.lifetime.subscription.benefit4': 'Funktsioonitaotluse prioriteet',
-    'plans.subscription.lifetimeMember': 'Teil on eluaegne liikmelisus',
-    'plans.lifetime.announcement': 'Teil on nüüd piiratud võimalus saada eluaegne liikmelisus! Vaata seda!'
+    'plans.subscription.lifetimeMember': 'Teil on eluaegne liikmelisus'
 };
