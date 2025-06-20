@@ -1,6 +1,11 @@
 # Changelog for languages
 
+## 2025-06-30 - v2.17.0
+
+* Fixes for official Literary Universe launch
+
 ## 2025-06-19 - v2.16.2
+
 * New file upload string
 * More courses strings
 * Remove deprecated NaNoWriMo strings
