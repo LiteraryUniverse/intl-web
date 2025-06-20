@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'mutce tcidu',
     'homepage.writer': 'mutce cukta',
     'homepage.reader.title': 'lo nu tcidu cu na se rinka lo ka xamgu',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'lo nu tcidu cu se steci',
     'homepage.reader.readingDesc': 'lo nu limna lo se cukta pamei cu se lidne lo ka se jmina lo se cuntu be lo se cukta',
     'homepage.reader.favoriteTitle': 'lo nu facki lo se cukta je lo se skina cu se steci',
