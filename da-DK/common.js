@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'BEMÆRK: Denne historie er en fan fiction i {universe} univers.',
     copyrights: 'Ophavsrettigheder',
     'common.challenges': 'Udfordringer',
-    // for beta only
-    'beta.notice': 'Velkommen til det litterære univers BETA! Vi er glade for at kunne fortælle dig, at vi officielt lancerer på fredag! Vi håber, at du vil slutte dig til os og støtte os, når vi starter et nyt kapitel på vores rejse.',
-    'beta.thanks': 'Tak for din støtte!',
+    'notice.thankYou': 'Tak for din støtte!',
     'scratchpad.about': 'Dine noter og ideer tilgængelige overalt på siden.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Oprettet den {date, date, long}',
