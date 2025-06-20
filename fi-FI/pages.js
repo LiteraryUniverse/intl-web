@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LUKIJA',
     'homepage.writer': 'KIRJOITTAJA',
     'homepage.reader.title': 'Lukeminen ei ole koskaan ollut näin mielenkiintoista',
+    'homepage.reader.registerCTA': 'Aloita lukeminen nyt!',
     'homepage.reader.readingTitle': 'Uniikki lukukokemus',
     'homepage.reader.readingDesc': 'Sukella syvemmälle suosikki fiktiiviseen universumiisi Literary Universessa. Literary Universen tarinat ovat yhteydessä samaan universumiin, mikä antaa sinulle välittömän pääsyn universumin tietosanakirjaan tarinan lukijasta käsin.',
     'homepage.reader.favoriteTitle': 'Selvitä lisää suosikki tarinoistasi ja kirjailijoistasi',
