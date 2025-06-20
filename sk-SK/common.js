@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'POZNÁMKA: Tento príbeh je fanfiction na {universe} vesmír.',
     copyrights: 'Autorské práva',
     'common.challenges': 'Výzvy',
-    'notice.thankYou': 'Ďakujeme vám za podporu!',
+    // for beta only
+    'beta.notice': 'Vitajte v Literárnom vesmíre BETA! S radosťou vám oznamujeme, že tento piatok oficiálne spúšťame! Dúfame, že sa k nám pripojíte a podporíte nás pri začatí novej kapitoly našej cesty.',
+    'beta.thanks': 'Ďakujeme Vám za podporu!',
     'scratchpad.about': 'Vaše poznámky a nápady sú prístupné kdekoľvek na stránke.',
     'common.feedback': 'Spätná väzba',
     'common.createdOn': 'Vytvorené na {date, date, long}',
