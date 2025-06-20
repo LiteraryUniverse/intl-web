@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'قارئ',
     'homepage.writer': 'كاتب',
     'homepage.reader.title': 'لم يكن القراءة مثيرة مثل هذا من قبل',
+    'homepage.reader.registerCTA': 'ابدأ القراءة الآن!',
     'homepage.reader.readingTitle': 'تجربة قراءة فريدة',
     'homepage.reader.readingDesc': 'استكشف عمق عالمك الخيالي المفضل في الكون الأدبي. ترتبط القصص في الكون الأدبي في نفس الكون، مما يمنحك وصولًا فوريًا إلى موسوعة الكون من قارئ القصة.',
     'homepage.reader.favoriteTitle': 'اكتشف المزيد عن قصصك وكتابك المفضلين',
