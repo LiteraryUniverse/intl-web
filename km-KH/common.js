@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'ចំណាត់ថ្នាក់កិរិយាសព្វរក្សាអ្នកសរសេរនេះគឺជា​ការសរសេរអំពី​ជីវិត {universe}.',
     copyrights: 'ការការពារសិទ្ធិ',
     'common.challenges': 'ការបែកសំណួរ',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'សូមអរគុណសម្រាប់ការគាំទ្ររបស់អ្នក។',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'កំណត់ត្រាណូអេសអេ។',
     'common.feedback': 'មតិយោបល់',
     'common.createdOn': 'បានបង្កើតនៅលើ {date, date, long}',
