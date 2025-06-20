@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LECTOR',
     'homepage.writer': 'ESCRITOR',
     'homepage.reader.title': 'La lectura mai ha estat tan interessant com ara',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'Experiència de lectura única',
     'homepage.reader.readingDesc': 'Aprofundeix en el teu univers fictici preferit a Literary Universe. Les històries de Literary Universe estan connectades dins del mateix univers, donant-te accés immediat a l\'enciclopèdia de l\'univers des de l\'lector d\'històries.',
     'homepage.reader.favoriteTitle': 'Descobreix més sobre les teves històries i autors preferits',
