@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'NOTĂ: Această poveste este o ficțiune fan-made în universul {universe}.',
     copyrights: 'Drepturi de autor',
     'common.challenges': 'Provocări',
-    // for beta only
-    'beta.notice': 'Bine ați venit la Literary Universe BETA! Suntem încântați să vă anunțăm că ne lansăm oficial în această vineri! Sperăm că ni te vei alătura și ne vei sprijini în timp ce începem un nou capitol din călătoria noastră.',
-    'beta.thanks': 'Vă mulțumim pentru susținere!',
+    'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!',
     'scratchpad.about': 'Notele și ideile tale accesibile oriunde pe site.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Creat la {date, date, long}',
