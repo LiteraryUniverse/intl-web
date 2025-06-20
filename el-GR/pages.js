@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'ΑΝΑΓΝΩΣΤΗΣ',
     'homepage.writer': 'ΣΥΓΓΡΑΦΕΑΣ',
     'homepage.reader.title': 'Η ανάγνωση δεν ήταν ποτέ τόσο ενδιαφέρουσα όπως τώρα',
+    'homepage.reader.registerCTA': 'Ξεκινήστε να διαβάζετε τώρα!',
     'homepage.reader.readingTitle': 'Μοναδική εμπειρία ανάγνωσης',
     'homepage.reader.readingDesc': 'Εξερευνήστε βαθύτερα το αγαπημένο σας φανταστικό σύμπαν στο Literary Universe. Οι ιστορίες στο Literary Universe συνδέονται μέσα στον ίδιο κόσμο, προσφέροντάς σας άμεση πρόσβαση στην εγκυκλοπαίδεια του σύμπαντος από τον αναγνώστη ιστοριών.',
     'homepage.reader.favoriteTitle': 'Μάθετε περισσότερα για τις αγαπημένες σας ιστορίες και συγγραφείς',
