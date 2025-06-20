@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Custom avatar design',
     'plans.lifetime.subscription.benefit3': 'Monthly team calls',
     'plans.lifetime.subscription.benefit4': 'Feature request priority',
-    'plans.subscription.lifetimeMember': 'You have a lifetime membership',
-    'plans.lifetime.announcement': 'You have now a limited opportunity to gain lifetime membership! Check it out!'
+    'plans.subscription.lifetimeMember': 'You have a lifetime membership'
 };
