@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LEZER',
     'homepage.writer': 'SCHRIJVER',
     'homepage.reader.title': 'Lezen is nog nooit zo interessant geweest',
+    'homepage.reader.registerCTA': 'Begin nu met lezen!',
     'homepage.reader.readingTitle': 'Unieke leeservaring',
     'homepage.reader.readingDesc': 'Duik dieper in jouw favoriete fictieve universum in Literary Universe. Verhalen in Literary Universe zijn verbonden binnen hetzelfde universum, waardoor je direct toegang hebt tot de encyclopedie van het universum vanuit de verhaallezer.',
     'homepage.reader.favoriteTitle': 'Ontdek meer over jouw favoriete verhalen en auteurs',
