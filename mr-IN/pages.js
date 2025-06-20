@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'वाचक',
     'homepage.writer': 'लेखक',
     'homepage.reader.title': 'वाचन कधीही इतके आकर्षक झाले नाहीत',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'अद्वितीय वाचन अनुभव',
     'homepage.reader.readingDesc': 'साहित्यिक विश्वातील आपल्या आवडत्या कथा विचारणात जाऊन साहित्यिक विश्वाच्या अभिवृत्तीसाठी आपल्याला प्रत्यक्ष प्रवेश मिळवायला देते.',
     'homepage.reader.favoriteTitle': 'आपल्या आवडत्या कथा आणि लेखकांबद्दल अधिक माहिती सापडा',
