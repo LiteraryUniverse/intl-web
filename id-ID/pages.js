@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'PEMBACA',
     'homepage.writer': 'PENULIS',
     'homepage.reader.title': 'Membaca belum pernah seinteresan ini',
+    'homepage.reader.registerCTA': 'Mulailah membaca sekarang!',
     'homepage.reader.readingTitle': 'Pengalaman membaca yang unik',
     'homepage.reader.readingDesc': 'Telusuri lebih dalam ke dalam alam semesta fiksi favorit Anda di Literary Universe. Cerita-cerita di Literary Universe saling terhubung dalam alam semesta yang sama, memberi Anda akses langsung ke ensiklopedia alam semesta dari pembaca cerita.',
     'homepage.reader.favoriteTitle': 'Temukan lebih banyak tentang cerita dan penulis favorit Anda',
