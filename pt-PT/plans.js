@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Desenho de avatar personalizado',
     'plans.lifetime.subscription.benefit3': 'Chamadas de equipa mensais',
     'plans.lifetime.subscription.benefit4': 'Prioridade dos pedidos de funcionalidades',
-    'plans.subscription.lifetimeMember': 'Tem uma inscrição vitalícia',
-    'plans.lifetime.announcement': 'Tem agora uma oportunidade limitada de se tornar membro vitalício! Verifique-o!'
+    'plans.subscription.lifetimeMember': 'Tem uma inscrição vitalícia'
 };
