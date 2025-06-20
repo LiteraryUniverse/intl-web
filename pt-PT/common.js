@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'NOTA: Esta história é uma ficção de fãs no universo {universe}.',
     copyrights: 'Direitos de autor',
     'common.challenges': 'Desafios',
-    // for beta only
-    'beta.notice': 'Bem-vindo ao Universo Literário BETA! Estamos entusiasmados por lhe dizer que vamos lançar oficialmente o nosso site esta sexta-feira! Esperamos que se junte a nós e nos apoie no início de um novo capítulo da nossa viagem.',
-    'beta.thanks': 'Obrigado pelo seu apoio!',
+    'notice.thankYou': 'Obrigado pelo seu apoio!',
     'scratchpad.about': 'As suas notas e ideias estão acessíveis em qualquer lugar no site.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Criado no {date, date, long}',
