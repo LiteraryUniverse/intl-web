@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Furnizorul de plăți nu este configurat corespunzător. Vă rugăm să contactați asistența.',
     'plans.lifetime.error.notLoggedIn': 'Trebuie să fiți conectat pentru a achiziționa un abonament pe viață.',
     'plans.lifetime.error.generic': 'A apărut o eroare în timpul configurării comenzii. Vă rugăm să încercați din nou mai târziu.',
+    'plans.lifetime.error.alreadyMember': 'Aveți deja un abonament pe viață.',
     'plans.lifetime.subscription.title': 'Membru pe viață',
     'plans.lifetime.subscription.description': 'Sunteți membru pe viață al Literary Universe. Vă mulțumim pentru sprijinul dumneavoastră incredibil!',
     'plans.lifetime.subscription.status': 'Stare: Activ pentru totdeauna',
     'plans.lifetime.subscription.purchaseDate': 'Achiziționat pe: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Calitatea de membru pe viață nu necesită nicio acțiune suplimentară. Bucurați-vă de beneficiile dvs. pentru totdeauna!'
+    'plans.lifetime.subscription.noActions': 'Calitatea de membru pe viață nu necesită nicio acțiune suplimentară. Bucurați-vă de beneficiile dvs. pentru totdeauna!',
+    'plans.lifetime.subscription.benefitsTitle': 'Beneficiile dumneavoastră pe viață',
+    'plans.lifetime.subscription.benefit1': 'Acces permanent la nivelul Storyteller',
+    'plans.lifetime.subscription.benefit2': 'Design avatar personalizat',
+    'plans.lifetime.subscription.benefit3': 'Convorbiri lunare cu echipa',
+    'plans.lifetime.subscription.benefit4': 'Prioritatea cererii de caracteristici',
+    'plans.subscription.lifetimeMember': 'Aveți un abonament pe viață',
+    'plans.lifetime.announcement': 'Aveți acum o oportunitate limitată de a deveni membru pe viață! Verifică-l!'
 };
