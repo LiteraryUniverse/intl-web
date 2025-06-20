@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Le fournisseur de paiement n\'est pas correctement configuré. Veuillez contacter l\'assistance.',
     'plans.lifetime.error.notLoggedIn': 'Vous devez être connecté pour acheter une adhésion à vie.',
     'plans.lifetime.error.generic': 'Une erreur s\'est produite lors de la mise en place du paiement. Veuillez réessayer plus tard.',
+    'plans.lifetime.error.alreadyMember': 'Vous êtes déjà membre à vie.',
     'plans.lifetime.subscription.title': 'Adhésion à vie',
     'plans.lifetime.subscription.description': 'Vous êtes membre à vie de l\'Univers littéraire. Merci pour votre incroyable soutien !',
     'plans.lifetime.subscription.status': 'Statut : Actif pour toujours',
     'plans.lifetime.subscription.purchaseDate': 'Acheté sur : {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Votre adhésion à vie ne nécessite aucune autre démarche. Profitez de vos avantages pour toujours !'
+    'plans.lifetime.subscription.noActions': 'Votre adhésion à vie ne nécessite aucune autre démarche. Profitez de vos avantages pour toujours !',
+    'plans.lifetime.subscription.benefitsTitle': 'Vos avantages à vie',
+    'plans.lifetime.subscription.benefit1': 'Accès permanent au niveau Conteur',
+    'plans.lifetime.subscription.benefit2': 'Conception d\'un avatar personnalisé',
+    'plans.lifetime.subscription.benefit3': 'Appels mensuels de l\'équipe',
+    'plans.lifetime.subscription.benefit4': 'Priorité des demandes de fonctionnalités',
+    'plans.subscription.lifetimeMember': 'Vous êtes membre à vie',
+    'plans.lifetime.announcement': 'Vous avez maintenant une opportunité limitée de devenir membre à vie ! Vérifiez-le !'
 };
