@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LÄSARE',
     'homepage.writer': 'FÖRFATTARE',
     'homepage.reader.title': 'Läsning har aldrig varit så intressant som nu',
+    'homepage.reader.registerCTA': 'Börja läsa nu!',
     'homepage.reader.readingTitle': 'Unik läsupplevelse',
     'homepage.reader.readingDesc': 'Fördjupa dig i ditt favoritfiktiva universum i Literary Universe. Berättelser i Literary Universe är kopplade inom samma universum, vilket ger dig omedelbar tillgång till universums encyklopedi från läsaren av berättelsen.',
     'homepage.reader.favoriteTitle': 'Ta reda på mer om dina favoritberättelser och författare',

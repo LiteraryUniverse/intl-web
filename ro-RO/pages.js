@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'CITITOR',
     'homepage.writer': 'SCRIITOR',
     'homepage.reader.title': 'Cititul nu a fost niciodată atât de interesant ca acum',
+    'homepage.reader.registerCTA': 'Începeți să citiți acum!',
     'homepage.reader.readingTitle': 'Experiență unică de lectură',
     'homepage.reader.readingDesc': 'Adâncește-te în universul tău ficțional preferat în Literary Universe. Poveștile din Literary Universe sunt conectate în cadrul aceluiași univers, oferindu-vă acces imediat la enciclopedia universului din cititorul de povești.',
     'homepage.reader.favoriteTitle': 'Află mai multe despre poveștile și autorii tăi preferați',

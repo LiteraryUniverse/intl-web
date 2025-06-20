@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'קורא',
     'homepage.writer': 'כותב',
     'homepage.reader.title': 'קריאה לעולם לא הייתה כל כך מעניינת כמו כזו',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'חוויית קריאה ייחודית',
     'homepage.reader.readingDesc': 'חקור עומק יותר ביקום הסיפורים הפיוטי ב־Literary Universe. סיפורים ב־Literary Universe מחוברים בתוך אותו היקום, וזאת נותנת לך גישה מיידית לאנציקלופדיה של היקום מתוך קורא הסיפור.',
     'homepage.reader.favoriteTitle': 'גלה עוד על הסיפורים והסופרים המועדפים עליך',

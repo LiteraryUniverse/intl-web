@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LEGANTO',
     'homepage.writer': 'VERKANTO',
     'homepage.reader.title': 'Legado neniam estis tiel interesa kiel nun',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'Unika lega sperto',
     'homepage.reader.readingDesc': 'Profundiĝu en vian plej amatan fikcian universon en Literatura Universo. Rakontoj en Literatura Universo estas konektitaj en la sama universo, donante al vi tujan aliron al la universa enciklopedio el la lega legilo.',
     'homepage.reader.favoriteTitle': 'Eltrovu pli pri viaj plej amataj rakontoj kaj verkistoj',

@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LEITOR',
     'homepage.writer': 'ESCRITOR',
     'homepage.reader.title': 'Ler nunca foi tão interessante assim',
+    'homepage.reader.registerCTA': 'Comece a ler agora!',
     'homepage.reader.readingTitle': 'Experiência única de leitura',
     'homepage.reader.readingDesc': 'Mergulhe mais profundamente no seu universo de ficção preferido no Universo Literário. As histórias no Universo Literário estão ligadas dentro do mesmo universo, dando-lhe acesso imediato à enciclopédia do universo a partir do leitor de histórias.',
     'homepage.reader.favoriteTitle': 'Descubra mais sobre as duas histórias e autores favoritos',

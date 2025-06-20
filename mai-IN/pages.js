@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'पाठक',
     'homepage.writer': 'लेखक',
     'homepage.reader.title': 'इससे अधिक रोचक कभी पढ़ना नहीं हुआ है',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'अद्वितीय पढ़ने का अनुभव',
     'homepage.reader.readingDesc': 'साहित्यिक यूनिवर्स में अपने पसंदीदा काल्पनिक यूनिवर्स में और गहनता से खुद को डुबोयें। साहित्यिक यूनिवर्स की कहानियाँ एक ही यूनिवर्स के भीतर जुड़ी होती हैं, जो आपको कहानी पाठक से यूनिवर्स विज्ञान कोश से तत्काल पहुँच प्रदान करता है।',
     'homepage.reader.favoriteTitle': 'अपनी पसंदीदा कहानियों और लेखकों के बारे में अधिक जानें',

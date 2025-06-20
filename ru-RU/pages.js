@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'ЧИТАТЕЛЬ(-НИЦА)',
     'homepage.writer': 'ПИСАТЕЛЬ(-НИЦА)',
     'homepage.reader.title': 'Никогда ещё чтение не было таким интересным, как сейчас',
+    'homepage.reader.registerCTA': 'Начните читать прямо сейчас!',
     'homepage.reader.readingTitle': 'Уникальные возможности для чтения',
     'homepage.reader.readingDesc': 'Углубитесь в любимую вымышленную вселенную в Literary Universe. Рассказы в Literary Universe связаны между собой в рамках одной вселенной, что даёт вам мгновенный доступ к энциклопедии вселенной из книги для чтения рассказов.',
     'homepage.reader.favoriteTitle': 'Узнайте больше о своих любимых историях и авторах',

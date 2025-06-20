@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'পাঠক',
     'homepage.writer': 'লেখক',
     'homepage.reader.title': 'পাঠক এমনভাবে আরো আকর্ষণীয় হয়েছে যেমন এটা',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'অনন্য পাঠক অভিজ্ঞতা',
     'homepage.reader.readingDesc': 'সাহিত্যিক ইউনিভার্সে আপনার পছন্দের কথানবিশ্বে আরও গভীরভাবে প্রবেশ করুন। সাহিত্যিক ইউনিভার্সের গল্পগুলি একই ইউনিভার্সের মধ্যে সংযুক্ত হয়, যা আপনাকে গল্প পঠন করার সাথে সাথে ইউনিভার্স জ্ঞানকোষের অ্যাক্সেস দেয়।',
     'homepage.reader.favoriteTitle': 'আপনার পছন্দের গল্প এবং লেখকের সম্পর্কে আরও জানুন',

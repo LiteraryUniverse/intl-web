@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'ผู้อ่าน',
     'homepage.writer': 'ผู้เขียน',
     'homepage.reader.title': 'การอ่านไม่เคยน่าสนใจมาก่อน',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'ประสบการณ์การอ่านที่ไม่เหมือนใคร',
     'homepage.reader.readingDesc': 'ศึกษาลึกลงไปในจักรวาลบทความเพื่อนำเสนอใน Literary Universe นิทานใน Literary Universe เชื่อมโยงกันอยู่ในจักรวาลเดียวกัน ทำให้คุณสามารถเข้าถึงสารานุกรมของจักรวาลได้ทันทีจากตัวอ่านเรื่อง',
     'homepage.reader.favoriteTitle': 'ค้นหาข้อมูลเพิ่มเติมเกี่ยวกับเรื่องราวและผู้เขียนที่คุณชื่นชอบ',

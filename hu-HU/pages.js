@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'OLVASÓ',
     'homepage.writer': 'ÍRÓ',
     'homepage.reader.title': 'Az olvasás még soha nem volt ilyen érdekes',
+    'homepage.reader.registerCTA': 'Kezdj el olvasni most!',
     'homepage.reader.readingTitle': 'Egyedi olvasási élmény',
     'homepage.reader.readingDesc': 'Mélyebben merüljön el kedvenc fiktív univerzumában a Literary Universe-ben. A Literary Universe történetei ugyanabba az univerzumba tartoznak, így az olvasó azonnali hozzáférést kap az univerzum enciklopédiájához a történet olvasójából.',
     'homepage.reader.favoriteTitle': 'Tudjon meg többet kedvenc történeteiről és szerzőiről',

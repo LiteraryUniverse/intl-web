@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'ČITATEĽ',
     'homepage.writer': 'SPISOVATEĽ',
     'homepage.reader.title': 'Čítanie ešte nikdy nebolo také zaujímavé ako teraz',
+    'homepage.reader.registerCTA': 'Začnite čítať hneď!',
     'homepage.reader.readingTitle': 'Jedinečný zážitok z čítania',
     'homepage.reader.readingDesc': 'Ponorte sa hlbšie do svojho obľúbeného fiktívneho sveta v Literárnom vesmíre. Príbehy v Literárnom vesmíre sú prepojené v rámci toho istého univerza, čo vám umožňuje okamžitý prístup k encyklopédii univerza z čítačky príbehov.',
     'homepage.reader.favoriteTitle': 'Zistite viac o svojich obľúbených príbehoch a autoroch',

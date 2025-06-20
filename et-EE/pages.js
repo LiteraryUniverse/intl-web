@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LUGEJA',
     'homepage.writer': 'KIRJANIK',
     'homepage.reader.title': 'Lugemine pole kunagi olnud nii põnev',
+    'homepage.reader.registerCTA': 'Alusta lugemist kohe!',
     'homepage.reader.readingTitle': 'Unikaalne lugemiskogemus',
     'homepage.reader.readingDesc': 'Süvene oma lemmikulukirjandusuniversumisse Literary Universe\'is. Literary Universe\'i lugude lood on omavahel seotud ühes ja samas universumis, pakkudes sulle kohest juurdepääsu universumi entsüklopeediale lugude lugejast.',
     'homepage.reader.favoriteTitle': 'Uuri lähemalt oma lemmiklugude ja autorite kohta',

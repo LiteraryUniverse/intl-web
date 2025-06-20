@@ -6,6 +6,7 @@ export default {
     'homepage.reader': '독자',
     'homepage.writer': '작가',
     'homepage.reader.title': '이렇게 흥미로운 독서는 없었습니다',
+    'homepage.reader.registerCTA': '지금 읽기 시작하세요!',
     'homepage.reader.readingTitle': '독특한 독서 경험',
     'homepage.reader.readingDesc': '문학 우주에서 좋아하는 픽션 우주에 더 깊이 파고들어보세요. Literary Universe의 이야기들은 동일한 우주 내에서 연결되어 있어, 이야기 리더에서 우주 백과사전에 바로 액세스할 수 있습니다.',
     'homepage.reader.favoriteTitle': '좋아하는 이야기와 작가에 대해 더 알아보세요',

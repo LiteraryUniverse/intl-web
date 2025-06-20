@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'SKAITYTOJAS',
     'homepage.writer': 'RAŠYTOJAS',
     'homepage.reader.title': 'Skaitymas niekada nebuvo tokie įdomus kaip šis',
+    'homepage.reader.registerCTA': 'Pradėkite skaityti dabar!',
     'homepage.reader.readingTitle': 'Unikali skaitymo patirtis',
     'homepage.reader.readingDesc': 'Giliau įsikūpkite į savo mėgstamą išgalvotą visatą Literatūrinėje Visatoje. Literatūrinės Visatos istorijos yra susijusios tarpusavyje, suteikdamos jums nedelsiant prieigą prie visatos enciklopedijos iš pasakojimo skaitytuvo.',
     'homepage.reader.favoriteTitle': 'Sužinokite daugiau apie savo mėgstamas istorijas ir autorius',

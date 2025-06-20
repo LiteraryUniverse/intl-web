@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LETTORE',
     'homepage.writer': 'SCRITTORE',
     'homepage.reader.title': 'La lettura non è mai stata così interessante',
+    'homepage.reader.registerCTA': 'Inizi a leggere ora!',
     'homepage.reader.readingTitle': 'Un\'esperienza di lettura unica',
     'homepage.reader.readingDesc': 'Approfondisci il tuo universo di finzione preferito in Literary Universe. Le storie in Literary Universe sono connesse nello stesso universo, offrendoti un accesso immediato all\'enciclopedia dell\'universo dalla lettura della storia.',
     'homepage.reader.favoriteTitle': 'Scopri di più sulle tue storie e autori preferiti',

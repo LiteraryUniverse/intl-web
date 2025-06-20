@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'OKUYUCU',
     'homepage.writer': 'YAZAR',
     'homepage.reader.title': 'Okuma hiç bu kadar ilginç olmamıştı',
+    'homepage.reader.registerCTA': 'Şimdi okumaya başlayın!',
     'homepage.reader.readingTitle': 'Benzersiz bir okuma deneyimi',
     'homepage.reader.readingDesc': 'Edebiyat Evreni\'nde favori kurgusal evrene daha derinlemesine dalın. Edebiyat Evreni\'ndeki hikayeler aynı evren içinde bağlantılıdır, bu da size hikaye okuyucusundan evren ansiklopedisine anında erişim sağlar.',
     'homepage.reader.favoriteTitle': 'Favori hikayeleriniz ve yazarlarınız hakkında daha fazla bilgi edinin',
