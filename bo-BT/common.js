@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'NOTE: This story is a fan fiction on {universe} universe.',
     copyrights: 'Copyrights',
     'common.challenges': 'Challenges',
-    'notice.thankYou': 'Thank you for your support!',
+    // for beta only
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
+    'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'ཁྱེད་ཀྱི་དངོས་གྲུབ་དང་འབྲེལ་བ་གི་མིང་ཚིག་རྣམ་པར་བསྐུར་བཞིན་དུ་བཅུག་པ་ལས་བྱེད་མཁན་རྗེས་ལྟ་བུ་བཅུག་པ་རེད།',
     'common.feedback': 'བདག་སྐྱེད།',
     'common.createdOn': 'སྤྱི་སྡུད་ནང་ {date, date, long}',
