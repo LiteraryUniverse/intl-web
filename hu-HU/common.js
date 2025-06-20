@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'MEGJEGYZÉS: Ez a történet egy rajongói alkotás a(z) {universe} univerzumban.',
     copyrights: 'Szerzői jogok',
     'common.challenges': 'Kihívások',
-    // for beta only
-    'beta.notice': 'Üdvözöljük az Irodalmi Univerzum BETA-ban! Izgatottan tudatjuk veletek, hogy most pénteken hivatalosan is elindulunk! Reméljük, hogy csatlakozol hozzánk, és támogatsz minket, miközben új fejezetet kezdünk az utunkon.',
-    'beta.thanks': 'Köszönjük a támogatást!',
+    'notice.thankYou': 'Köszönjük a támogatást!',
     'scratchpad.about': 'Az Ön jegyzetei és ötletei bárhol elérhetők a webhelyen.',
     'common.feedback': 'Visszajelzés',
     'common.createdOn': 'Létrehozva: {date, date, long}',
