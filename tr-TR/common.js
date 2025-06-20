@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'NOT: Bu hikaye, {universe} evreninde bir hayran kurgusudur.',
     copyrights: 'Telif Hakları',
     'common.challenges': 'Meydan Okumalar',
-    'notice.thankYou': 'Desteğiniz için teşekkür ederiz!',
+    // for beta only
+    'beta.notice': 'Literary Universe BETA\'ya hoş geldiniz! Bu Cuma günü resmi olarak yayın hayatına başlayacağımızı bildirmekten heyecan duyuyoruz! Yolculuğumuzda yeni bir bölüme başlarken bize katılacağınızı ve bizi destekleyeceğinizi umuyoruz.',
+    'beta.thanks': 'Desteğiniz için teşekkür ederiz!',
     'scratchpad.about': 'Notlarınız ve fikirleriniz sitede her yerden erişilebilir.',
     'common.feedback': 'Geri bildirim',
     'common.createdOn': 'Created on {date, date, long}',
