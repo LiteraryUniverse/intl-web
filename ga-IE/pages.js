@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'LÉITEOIR',
     'homepage.writer': 'SCRÍBHNEOIR',
     'homepage.reader.title': 'Ní raibh léamh riamh chomh suimiúil leis seo',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'Taithí léitheoireachta uathúil',
     'homepage.reader.readingDesc': 'Dírigh níos doimhne ar do chuid domhan finnéitheach is fearr i Domhan Liteartha. Tá scéalta i Domhan Liteartha ceangailte laistigh den chéad domhan céanna, ag tabhairt duit rochtain láithreach ar an leabhrán domhan ón léitheoir scéalta.',
     'homepage.reader.favoriteTitle': 'Foghlaim níos mó faoi do scéalta agus faoi na húdair is fearr leat',
