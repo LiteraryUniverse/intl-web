@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'గమనిక: ఈ కథ ఒక {universe} యూనివర్సు పై ఒక అనుయాయి కథ.',
     copyrights: 'కాపీరైట్లు',
     'common.challenges': 'పోరాటాలు',
-    'notice.thankYou': 'Thank you for your support!',
+    // for beta only
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
+    'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'మీ నోట్లు మరియు ఆలోచనలు సైట్ యొక్క ఎల్లిగూ ప్రాప్యతలో ఉంటాయి.',
     'common.feedback': 'అభిప్రాయం',
     'common.createdOn': 'Created on {date, date, long}',
