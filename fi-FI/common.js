@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'HUOM: Tämä tarina on fanifiktiota {universe} -universumista.',
     copyrights: 'Tekijänoikeudet',
     'common.challenges': 'Haasteet',
-    // for beta only
-    'beta.notice': 'Tervetuloa kirjallisuusuniversumin BETA-versioon! Olemme innoissamme voidessamme kertoa, että käynnistämme virallisesti tämän viikon perjantaina! Toivomme, että liityt seuraamme ja tuet meitä, kun aloitamme uuden luvun matkallamme.',
-    'beta.thanks': 'Kiitos tuestanne!',
+    'notice.thankYou': 'Kiitos tuestanne!',
     'scratchpad.about': 'Muistiinpanosi ja ideasi ovat saatavilla missä tahansa sivustolla.',
     'common.feedback': 'Palaute',
     'common.createdOn': 'Luotu {date, date, long}',
