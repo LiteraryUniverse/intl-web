@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'NOTA: Cerita ini adalah fiksyen peminat dalam alam {universe}.',
     copyrights: 'Hak Cipta',
     'common.challenges': 'Cabaran',
-    'notice.thankYou': 'Thank you for your support!',
+    // for beta only
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
+    'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'Nota dan idea anda boleh diakses di mana-mana dalam laman web ini.',
     'common.feedback': 'Maklum balas',
     'common.createdOn': 'Dicipta pada {date, date, long}',
