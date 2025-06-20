@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'შენიშვნა: ეს ისტორია არის ფან ფიქცია {universe} უნივერსუმზე.',
     copyrights: 'ავტორული უფლებები',
     'common.challenges': 'თამაშები',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'გმადლობთ თქვენი მხარდაჭერისთვის!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'თქვენი შენიშვნები და იდეები ხელმისაწვდომია ნებისმიერ საიტზე.',
     'common.feedback': 'კავშირი',
     'common.createdOn': 'შეიქმნა {date, date, long}',
