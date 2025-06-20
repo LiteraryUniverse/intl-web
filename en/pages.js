@@ -7,6 +7,7 @@ export default {
   'homepage.writer': 'WRITER',
 
   'homepage.reader.title': 'Reading has never been so interesting like this',
+  'homepage.reader.registerCTA': 'Start reading now!',
   'homepage.reader.readingTitle': 'Unique reading experience',
   'homepage.reader.readingDesc':
     'Delve deeper into your favorite fictional universe in Literary Universe. Stories in Literary Universe are connected within the same universe, giving you immediate access to the universe encyclopedia from the story reader.',

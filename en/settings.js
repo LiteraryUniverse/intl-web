@@ -55,6 +55,11 @@ export default {
     'Select which e-mail notifications do you want to receive from us.',
   'settings.emailSubscriptions.newsletter': 'Occasional newsletter',
   'settings.profile': 'Profile settings',
+  'settings.profile.basic': 'Basic Profile Information',
+  'settings.profile.identity': 'Identity',
+  'settings.profile.about': 'About You',
+  'settings.profile.basic.description': 'Manage your basic profile information that will be visible to other users.',
+  'settings.interest.title': 'Your Interests',
   'settings.account': 'Account settings',
   'settings.legal.export.download': 'Download Your data',
   'settings.legal.export.gathering':
