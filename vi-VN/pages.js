@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'NGƯỜI ĐỌC',
     'homepage.writer': 'NGƯỜI VIẾT',
     'homepage.reader.title': 'Đọc chưa bao giờ thú vị như thế này',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'Trải nghiệm đọc độc đáo',
     'homepage.reader.readingDesc': 'Khám phá sâu hơn vào vũ trụ hư cấu yêu thích của bạn trong Vũ trụ Văn học. Các câu chuyện trong Vũ trụ Văn học được kết nối trong cùng một vũ trụ, mang đến cho bạn quyền truy cập ngay lập tức vào bách khoa toàn thư vũ trụ từ trình đọc câu chuyện.',
     'homepage.reader.favoriteTitle': 'Tìm hiểu thêm về câu chuyện và tác giả yêu thích của bạn',
