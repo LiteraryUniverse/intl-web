@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'LƯU Ý: Câu chuyện này là fan fiction trên vũ trụ {universe}.',
     copyrights: 'Bản quyền',
     'common.challenges': 'Thử Thách',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'Cảm ơn sự giúp đỡ của bạn!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'Ghi chú và ý tưởng của bạn có thể truy cập bất cứ nơi nào trên trang web.',
     'common.feedback': 'Phản hồi',
     'common.createdOn': 'Tạo vào ngày {date, date,long}',
