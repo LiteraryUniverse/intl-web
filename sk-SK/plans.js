@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Vlastný dizajn avatara',
     'plans.lifetime.subscription.benefit3': 'Mesačné tímové hovory',
     'plans.lifetime.subscription.benefit4': 'Priorita požiadavky na funkciu',
-    'plans.subscription.lifetimeMember': 'Máte doživotné členstvo',
-    'plans.lifetime.announcement': 'Teraz máte obmedzenú možnosť získať doživotné členstvo! Pozrite sa na to!'
+    'plans.subscription.lifetimeMember': 'Máte doživotné členstvo'
 };
