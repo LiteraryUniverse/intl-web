@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'അവകാശപ്പെടുന്നുവെങ്കിലും: ഈ കഥ ഒരു {universe} യൂണിവേഴ്സിന്റെ ഫാൻ ഫിക്ഷൻ ആണ്.',
     copyrights: 'പകർപ്പവകാശങ്ങൾ',
     'common.challenges': 'ചാലഞ്ചുകൾ',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'നിങ്ങളുടെ പിന്തുണയില്‍ നന്ദി!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'നിങ്ങളുടെ കുറിപ്പുകളും ആശയങ്ങളും സൈറ്റിലെ എല്ലാ സ്ഥലങ്ങളിലും ലഭ്യമാക്കാനുള്ളതാണ്.',
     'common.feedback': 'പ്രതികരണം',
     'common.createdOn': 'സൃഷ്ടിച്ചത് {date, date, long}',
