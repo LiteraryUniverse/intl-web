@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': '付款提供商未正確設定。請聯絡支援人員。',
     'plans.lifetime.error.notLoggedIn': '您必須登入才能購買終身會員資格。',
     'plans.lifetime.error.generic': '設定結帳時發生錯誤。請稍後再試。',
+    'plans.lifetime.error.alreadyMember': '您已經擁有終身會員資格。',
     'plans.lifetime.subscription.title': '終身會員',
     'plans.lifetime.subscription.description': '您擁有 Literary Universe 的終身會員資格。感謝您令人難以置信的支持！',
     'plans.lifetime.subscription.status': '狀態：永遠活躍',
     'plans.lifetime.subscription.purchaseDate': '購買於 {date, date, medium}',
-    'plans.lifetime.subscription.noActions': '您的終身會員資格不需要任何進一步的行動。永遠享受您的優惠！'
+    'plans.lifetime.subscription.noActions': '您的終身會員資格不需要任何進一步的行動。永遠享受您的優惠！',
+    'plans.lifetime.subscription.benefitsTitle': '您的終生福利',
+    'plans.lifetime.subscription.benefit1': '永久故事家層級存取權',
+    'plans.lifetime.subscription.benefit2': '自訂頭像設計',
+    'plans.lifetime.subscription.benefit3': '每月團隊通話',
+    'plans.lifetime.subscription.benefit4': '功能請求優先順序',
+    'plans.subscription.lifetimeMember': '您擁有終身會員資格',
+    'plans.lifetime.announcement': '現在您有一個有限的機會獲得終身會員資格！快來看看'
 };
