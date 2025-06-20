@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Pasirinktinis avataro dizainas',
     'plans.lifetime.subscription.benefit3': 'Mėnesiniai komandos skambučiai',
     'plans.lifetime.subscription.benefit4': 'Funkcijų užklausų prioritetas',
-    'plans.subscription.lifetimeMember': 'Turite narystę visam gyvenimui',
-    'plans.lifetime.announcement': 'Dabar turite ribotą galimybę įgyti narystę visam gyvenimui! Patikrinkite!'
+    'plans.subscription.lifetimeMember': 'Turite narystę visam gyvenimui'
 };
