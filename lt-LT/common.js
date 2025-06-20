@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'PASTABA: Ši pasaka yra fanų kūrinys apie {universe} universą.',
     copyrights: 'Autorių teisės',
     'common.challenges': 'Iššūkiai',
-    // for beta only
-    'beta.notice': 'Sveiki atvykę į Literatūrinės visatos BETA! Džiaugiamės galėdami pranešti, kad šį penktadienį oficialiai pradedame veiklą! Tikimės, kad prisijungsite prie mūsų ir mus palaikysite, kai pradėsime naują savo kelionės etapą.',
-    'beta.thanks': 'Dėkojame už jūsų paramą!',
+    'notice.thankYou': 'Dėkojame už paramą!',
     'scratchpad.about': 'Jūsų pastabos ir idėjos pasiekiamos bet kur svetainėje.',
     'common.feedback': 'Atsiliepimai',
     'common.createdOn': 'Sukurta {date, date, long}',
