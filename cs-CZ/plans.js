@@ -63,7 +63,7 @@ export default {
     'plans.current.none': 'Momentálně nepodporujete Literary Universe.',
     'plans.current.buying': 'Ověření Vašeho nákupu může chvíli trvat. Děkujeme za pochopení.',
     'plans.current.heading': 'Aktuální plán předplatného',
-    'payment.methods.title': 'Zpeněžení',
+    'payment.methods.title': 'Monetizace',
     'payment.methods.tabs': 'Možnosti platby',
     'payment.option.title': 'Možnosti platby',
     'payment.option.notFount': 'Nemáte uloženy žádné možnosti platby.',
