@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'पाठक',
     'homepage.writer': 'लेखक',
     'homepage.reader.title': 'पढ्न यस्तो रोचक कहिल्यै नभएको छ',
+    'homepage.reader.registerCTA': 'Start reading now!',
     'homepage.reader.readingTitle': 'अनौठो पढ्ने अनुभव',
     'homepage.reader.readingDesc': 'साहित्यिक यूनिभर्समा तपाईंको पसन्दीदा कथाका भित्र थप गहिरो छलफल गर्नुहोस्। साहित्यिक यूनिभर्समा कथाहरू एकै यूनिभर्सको अन्तर्गत जोडिन्छन्, जसले तपाईंलाई कथाको पठन प्रशासनिकबाट तुरुन्त पहुँच प्रदान गर्दछ।',
     'homepage.reader.favoriteTitle': 'तपाईंको पसन्दीदा कथाहरू र लेखकहरूको बारेमा थप जान्नुहोस्',
