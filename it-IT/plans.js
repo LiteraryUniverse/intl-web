@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Il provider di pagamento non è configurato correttamente. Contatti l\'assistenza.',
     'plans.lifetime.error.notLoggedIn': 'Per acquistare un\'iscrizione a vita deve aver effettuato il login.',
     'plans.lifetime.error.generic': 'Si è verificato un errore durante l\'impostazione del checkout. La preghiamo di riprovare più tardi.',
+    'plans.lifetime.error.alreadyMember': 'Lei ha già un abbonamento a vita.',
     'plans.lifetime.subscription.title': 'Iscrizione a vita',
     'plans.lifetime.subscription.description': 'Lei ha un abbonamento a vita a Literary Universe. Grazie per il suo incredibile sostegno!',
     'plans.lifetime.subscription.status': 'Stato: Attivo per sempre',
     'plans.lifetime.subscription.purchaseDate': 'Acquistato su: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'La sua iscrizione a vita non richiede ulteriori azioni. Goda dei suoi vantaggi per sempre!'
+    'plans.lifetime.subscription.noActions': 'La sua iscrizione a vita non richiede ulteriori azioni. Goda dei suoi vantaggi per sempre!',
+    'plans.lifetime.subscription.benefitsTitle': 'Le sue prestazioni a vita',
+    'plans.lifetime.subscription.benefit1': 'Accesso permanente al livello Cantastorie',
+    'plans.lifetime.subscription.benefit2': 'Design personalizzato dell\'avatar',
+    'plans.lifetime.subscription.benefit3': 'Chiamate mensili del team',
+    'plans.lifetime.subscription.benefit4': 'Priorità della richiesta di funzionalità',
+    'plans.subscription.lifetimeMember': 'Lei ha un\'iscrizione a vita',
+    'plans.lifetime.announcement': 'Ora ha un\'opportunità limitata di diventare membro a vita! Lo guardi!'
 };
