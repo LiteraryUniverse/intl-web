@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'O provedor de pagamento não está configurado corretamente. Entre em contato com o suporte.',
     'plans.lifetime.error.notLoggedIn': 'O senhor precisa estar conectado para comprar uma associação vitalícia.',
     'plans.lifetime.error.generic': 'Ocorreu um erro ao configurar o checkout. Por favor, tente novamente mais tarde.',
+    'plans.lifetime.error.alreadyMember': 'O senhor já tem uma associação vitalícia.',
     'plans.lifetime.subscription.title': 'Associação vitalícia',
     'plans.lifetime.subscription.description': 'O senhor é membro vitalício do Literary Universe. Obrigado por seu incrível apoio!',
     'plans.lifetime.subscription.status': 'Status: Ativo para sempre',
     'plans.lifetime.subscription.purchaseDate': 'Comprado em: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Sua associação vitalícia não requer nenhuma ação adicional. Aproveite seus benefícios para sempre!'
+    'plans.lifetime.subscription.noActions': 'Sua associação vitalícia não requer nenhuma ação adicional. Aproveite seus benefícios para sempre!',
+    'plans.lifetime.subscription.benefitsTitle': 'Seus benefícios vitalícios',
+    'plans.lifetime.subscription.benefit1': 'Acesso permanente ao nível de Contador de Histórias',
+    'plans.lifetime.subscription.benefit2': 'Design de avatar personalizado',
+    'plans.lifetime.subscription.benefit3': 'Chamadas mensais da equipe',
+    'plans.lifetime.subscription.benefit4': 'Prioridade da solicitação de recursos',
+    'plans.subscription.lifetimeMember': 'O senhor tem uma associação vitalícia',
+    'plans.lifetime.announcement': 'O senhor tem agora uma oportunidade limitada de se tornar membro vitalício! O senhor pode conferir!'
 };
