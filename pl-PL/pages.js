@@ -6,6 +6,7 @@ export default {
     'homepage.reader': 'CZYTELNIK',
     'homepage.writer': 'PISARZ',
     'homepage.reader.title': 'Czytanie jeszcze nigdy nie było tak interesujące',
+    'homepage.reader.registerCTA': 'Proszę zacząć czytać już teraz!',
     'homepage.reader.readingTitle': 'Niepowtarzalne doświadczenie czytania',
     'homepage.reader.readingDesc': 'Zanurz się głębiej w swoim ulubionym fikcyjnym uniwersum w Literackim Uniwersum. Opowieści w Literackim Uniwersum są połączone w ramach tego samego uniwersum, dając Ci natychmiastowy dostęp do encyklopedii uniwersum ze czytnika opowieści.',
     'homepage.reader.favoriteTitle': 'Dowiedz się więcej o swoich ulubionych opowieściach i autorach',
