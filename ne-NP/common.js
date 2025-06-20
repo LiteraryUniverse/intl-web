@@ -118,9 +118,7 @@ export default {
     'story.note.fanfiction': 'नोट: यो कथा {universe} ब्रह्माण्डमा एक प्रशंसापत्र हो।',
     copyrights: 'कपिराइटहरू',
     'common.challenges': 'चुनौतिहरू',
-    // for beta only
-    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
-    'beta.thanks': 'तपाईंको समर्थनको लागि धन्यवाद!',
+    'notice.thankYou': 'Thank you for your support!',
     'scratchpad.about': 'तपाईंका नोट र विचारहरू साइटमा कहिल्यै पनि पहुँचने छन्।',
     'common.feedback': 'प्रतिक्रिया',
     'common.createdOn': 'Created on {date, date, long}',
