@@ -310,9 +310,17 @@ export default {
     'plans.lifetime.error.notConfigured': 'Poskytovateľ platby nie je správne nakonfigurovaný. Obráťte sa na podporu.',
     'plans.lifetime.error.notLoggedIn': 'Ak si chcete zakúpiť doživotné členstvo, musíte byť prihlásení.',
     'plans.lifetime.error.generic': 'Pri nastavovaní odhlásenia došlo k chybe. Skúste to prosím neskôr.',
+    'plans.lifetime.error.alreadyMember': 'Už máte doživotné členstvo.',
     'plans.lifetime.subscription.title': 'Doživotné členstvo',
     'plans.lifetime.subscription.description': 'Máte doživotné členstvo v Literárnom vesmíre. Ďakujeme vám za vašu neuveriteľnú podporu!',
     'plans.lifetime.subscription.status': 'Stav: Aktívne navždy',
     'plans.lifetime.subscription.purchaseDate': 'Zakúpené dňa: {date, date, medium}',
-    'plans.lifetime.subscription.noActions': 'Vaše doživotné členstvo si nevyžaduje žiadne ďalšie kroky. Užívajte si svoje výhody navždy!'
+    'plans.lifetime.subscription.noActions': 'Vaše doživotné členstvo si nevyžaduje žiadne ďalšie kroky. Užívajte si svoje výhody navždy!',
+    'plans.lifetime.subscription.benefitsTitle': 'Vaše celoživotné výhody',
+    'plans.lifetime.subscription.benefit1': 'Trvalý prístup na úroveň Rozprávač',
+    'plans.lifetime.subscription.benefit2': 'Vlastný dizajn avatara',
+    'plans.lifetime.subscription.benefit3': 'Mesačné tímové hovory',
+    'plans.lifetime.subscription.benefit4': 'Priorita požiadavky na funkciu',
+    'plans.subscription.lifetimeMember': 'Máte doživotné členstvo',
+    'plans.lifetime.announcement': 'Teraz máte obmedzenú možnosť získať doživotné členstvo! Pozrite sa na to!'
 };
