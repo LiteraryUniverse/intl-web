@@ -46,7 +46,7 @@ export default {
     'settings.emailSubscriptions.explain': 'Vyberte, která e-mailová oznámení od nás chcete dostávat.',
     'settings.emailSubscriptions.newsletter': 'Příležitostný bulletin',
     'settings.profile': 'Nastavení profilu',
-    'settings.profile.basic': 'Základní informace o profilu',
+    'settings.profile.basic': 'Základní informace',
     'settings.profile.identity': 'Identita',
     'settings.profile.about': 'O vás',
     'settings.profile.basic.description': 'Spravujte základní informace o svém profilu, které budou viditelné pro ostatní uživatele.',
