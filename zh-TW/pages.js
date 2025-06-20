@@ -6,6 +6,7 @@ export default {
     'homepage.reader': '讀者',
     'homepage.writer': '作家',
     'homepage.reader.title': '閱讀從未像現在這樣有趣',
+    'homepage.reader.registerCTA': '現在就開始閱讀！',
     'homepage.reader.readingTitle': '獨特的閱讀體驗',
     'homepage.reader.readingDesc': '在設計文學宇宙中深入研究您最喜歡的虛構世界。設計文學宇宙中的故事在同一個宇宙中相互聯繫，讓您可以從故事閱讀器中立即訪問宇宙百科全書。',
     'homepage.reader.favoriteTitle': '了解更多關於您最喜歡的故事和作者',
