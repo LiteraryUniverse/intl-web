@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'প্ৰকাশনাৰ বিকল্পসমূহ',
     'writer.publish.scheduleExplained': 'আপুনি সম্ভাব্যতঃ একেবাৰে প্ৰকাশ কৰিব পাৰে অথবা অনুমোদিত তাৰিখত অনুমোদিত কৰিব পাৰে অধ্যায়টো।',
     'writer.publish.schedule': 'প্ৰকাশনাৰ তাৰিখ আৰু সময় সজাবলৈ ঠিক কৰক',
