@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Indtast en URL',
     'writer.link.error.empty': 'URL\'en må ikke være tom',
     'writer.link.error.invalid': 'Indtast venligst en gyldig URL',
+    'writer.fontFamily': 'Skriftfamilie',
+    'writer.fontFamily.select': 'Vælg skrifttype',
     'writer.publish.publishAria': 'Muligheder for offentliggørelse',
     'writer.publish.scheduleExplained': 'Du kan enten publicere med det samme eller planlægge, at kapitlet bliver tilgængeligt på et senere tidspunkt.',
     'writer.publish.schedule': 'Indstil tidspunkt for udgivelsesdato',
