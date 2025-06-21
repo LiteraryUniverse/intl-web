@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Tùy chọn xuất bản',
     'writer.publish.scheduleExplained': 'Bạn có thể xuất bản ngay hoặc lên lịch cho chương được công bố vào một ngày sau.',
     'writer.publish.schedule': 'Đặt ngày giờ xuất bản',
