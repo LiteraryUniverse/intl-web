@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'مكتوب بواسطة {usernameDisplay}',
     'blog.post.writtenByFor': 'مكتوب بواسطة {usernameDisplay} لـ {publicationName}',
     'blog.posts.recent': 'المقالات الأخيرة',
-    'blog.statsPage': 'إحصائيات المدونة'
+    'blog.statsPage': 'إحصائيات المدونة',
+    'blog.view': 'عرض المدونة'
 };
