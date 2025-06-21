@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Mga opsyon sa paglathala',
     'writer.publish.scheduleExplained': 'Maaari kang mag-publish kaagad o mag-schedule ng kabanata na magiging available sa isang ibang petsa.',
     'writer.publish.schedule': 'Itakda ang petsa at oras ng paglathala',
