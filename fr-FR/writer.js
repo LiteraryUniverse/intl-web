@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Saisissez une URL',
     'writer.link.error.empty': 'L\'URL ne peut pas être vide',
     'writer.link.error.invalid': 'Veuillez saisir une URL valide',
+    'writer.fontFamily': 'Famille de polices',
+    'writer.fontFamily.select': 'Sélectionnez la police',
     'writer.publish.publishAria': 'Options de publication',
     'writer.publish.scheduleExplained': 'Vous pouvez soit publier immédiatement, soit programmer le chapitre pour qu\'il soit disponible à une date ultérieure.',
     'writer.publish.schedule': 'Définir l\'heure de la date de publication',
