@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Publikaj opcioj',
     'writer.publish.scheduleExplained': 'Vi povas aŭ eldoni tuj aŭ plani la disponeblon de la ĉapitro je poste dato.',
     'writer.publish.schedule': 'Agordi publikigodaton kaj horon',
