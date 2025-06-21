@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'வெளியீட்டு விருப்பங்கள்',
     'writer.publish.scheduleExplained': 'நீங்கள் முடிவடையவும் அல்லது இருந்து பின்னர் ஒரு தேதி மூலம் அதிகட்சத்தை வெளியிட முடியும்',
     'writer.publish.schedule': 'வெளியிடும் தேதி நேரத்தை அமைக்கவும்',
