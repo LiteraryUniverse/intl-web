@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Scríofa ag {usernameDisplay}',
     'blog.post.writtenByFor': 'Scríofa ag {usernameDisplay} do {publicationName}',
     'blog.posts.recent': 'Ríomhphoist le déanaí',
-    'blog.statsPage': 'Staitisticí an bhlag'
+    'blog.statsPage': 'Staitisticí an bhlag',
+    'blog.view': 'View Blog'
 };
