@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AIが生成したコンテンツ',
     'common.aiContent.tooltip': 'このコンテンツはAIの支援を受けて作成されました。',
     'common.aiContent.model': 'AIモデル： {model}',
-    'common.aiContent.custom': 'カスタムAIモデル'
+    'common.aiContent.custom': 'カスタムAIモデル',
+    'common.viewAll': '全てを見る'
 };
