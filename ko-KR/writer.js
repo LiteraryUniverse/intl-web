@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'URL 입력',
     'writer.link.error.empty': 'URL은 비워둘 수 없습니다.',
     'writer.link.error.invalid': '유효한 URL을 입력하세요.',
+    'writer.fontFamily': '글꼴 패밀리',
+    'writer.fontFamily.select': '글꼴 선택',
     'writer.publish.publishAria': '게시 옵션',
     'writer.publish.scheduleExplained': '즉시 게시하거나 나중에 이용 가능한 날짜로 챕터를 예약할 수 있습니다.',
     'writer.publish.schedule': '게시 날짜 및 시간 설정',
