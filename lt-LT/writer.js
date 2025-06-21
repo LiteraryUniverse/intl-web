@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Įveskite URL adresą',
     'writer.link.error.empty': 'URL negali būti tuščias',
     'writer.link.error.invalid': 'Įveskite galiojantį URL adresą',
+    'writer.fontFamily': 'Šriftų šeima',
+    'writer.fontFamily.select': 'Pasirinkite šriftą',
     'writer.publish.publishAria': 'Publikavimo parinktys',
     'writer.publish.scheduleExplained': 'Galite arba iš karto publikuoti, arba nustatyti skyriaus prieinamumo datą vėlesniam laikui.',
     'writer.publish.schedule': 'Nustatykite publikavimo datos laiką',
