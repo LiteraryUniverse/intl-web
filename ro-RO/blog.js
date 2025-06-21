@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Scris de {usernameDisplay}',
     'blog.post.writtenByFor': 'Scris de {usernameDisplay} pentru {publicationName}',
     'blog.posts.recent': 'Postări recente',
-    'blog.statsPage': 'Statistici blog'
+    'blog.statsPage': 'Statistici blog',
+    'blog.view': 'Vezi blogul'
 };
