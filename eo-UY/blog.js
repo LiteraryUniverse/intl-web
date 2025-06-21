@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Skribita de {usernameDisplay}',
     'blog.post.writtenByFor': 'Skribita de {usernameDisplay} por {publicationName}',
     'blog.posts.recent': 'Lastaj afiŝoj',
-    'blog.statsPage': 'Statistikoj de la blogo'
+    'blog.statsPage': 'Statistikoj de la blogo',
+    'blog.view': 'View Blog'
 };
