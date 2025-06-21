@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'ជម្រើសបោះពុម្ព',
     'writer.publish.scheduleExplained': 'អ្នក​អាច​បោះពុម្ព​កាលបរិច្ឆេទ​បាន​រួចទៅឬ​ក៏​កំណត់​ពេល​ឆាប់ផ្សេងៗ ដើម្បី​ឲ្យ​ជាអាទិភាព​នៅ​ក្នុង​ពេលក្រោយ។',
     'writer.publish.schedule': 'កំណត់​ពេល​កាលបរិច្ឆេទ​ប្រកាស',
