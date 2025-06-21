@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Publiseringsalternativer',
     'writer.publish.scheduleExplained': 'Du kan enten publisere umiddelbart eller planlegge at kapittelet skal være tilgjengelig på en senere dato.',
     'writer.publish.schedule': 'Angi dato og tid for publisering',
