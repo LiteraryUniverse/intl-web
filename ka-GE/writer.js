@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Publication options',
     'writer.publish.scheduleExplained': 'შეგიძლიათ ან მართეთ პუბლიკაცია ადრეულად, ან დააგენერირეთ თარიღი როგორც მომდევნო თარიღით.',
     'writer.publish.schedule': 'დააგენერირეთ გამოქვეყნების თარიღი დროით',
