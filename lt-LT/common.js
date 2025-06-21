@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'dirbtinio intelekto sukurtas turinys',
     'common.aiContent.tooltip': 'Šis turinys sukurtas naudojant dirbtinę intelektinę dirbtinę',
     'common.aiContent.model': 'AI modelis: {model}',
-    'common.aiContent.custom': 'Pasirinktinis dirbtinio intelekto modelis'
+    'common.aiContent.custom': 'Pasirinktinis dirbtinio intelekto modelis',
+    'common.viewAll': 'Peržiūrėti viską'
 };
