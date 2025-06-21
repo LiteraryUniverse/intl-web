@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'ప్రచురణ ఎంపికలు',
     'writer.publish.scheduleExplained': 'మీరు తక్కువ సమయంలో ప్రచురించడానికి లేదా తరువాత అందుబాటులో ఉండడానికి అనుకుంటే, మీరు ప్రస్తుతం ప్రచురించడానికి ప్రారంభ చేయవచ్చు.',
     'writer.publish.schedule': 'ప్రచురణ తేదీ సమయం సెట్ చేయండి',
