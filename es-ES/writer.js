@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Introduzca una URL',
     'writer.link.error.empty': 'La URL no puede estar vacía',
     'writer.link.error.invalid': 'Por favor, introduzca una URL válida',
+    'writer.fontFamily': 'Familia tipográfica',
+    'writer.fontFamily.select': 'Seleccionar fuente',
     'writer.publish.publishAria': 'Opciones de publicación',
     'writer.publish.scheduleExplained': 'Puede publicar el capítulo inmediatamente o programarlo para que esté disponible más adelante.',
     'writer.publish.schedule': 'Fijar fecha y hora de publicación',
