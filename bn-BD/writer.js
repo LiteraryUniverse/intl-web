@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'প্রকাশনা বিকল্পগুলি',
     'writer.publish.scheduleExplained': 'আপনি এখানে ছোট করে প্রকাশ করতে পারেন বা অনুসূচীত সময়ে অ্যাডভান্সড প্রকাশ করতে পারেন।',
     'writer.publish.schedule': 'প্রকাশের তারিখ এবং সময় সেট করুন',
