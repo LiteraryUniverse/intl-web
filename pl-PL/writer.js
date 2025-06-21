@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Proszę wprowadzić adres URL',
     'writer.link.error.empty': 'Adres URL nie może być pusty',
     'writer.link.error.invalid': 'Proszę wprowadzić poprawny adres URL',
+    'writer.fontFamily': 'Rodzina czcionek',
+    'writer.fontFamily.select': 'Proszę wybrać czcionkę',
     'writer.publish.publishAria': 'Opcje publikacji',
     'writer.publish.scheduleExplained': 'Możesz albo opublikować natychmiast, albo zaplanować, żeby rozdział był dostępny w późniejszym terminie.',
     'writer.publish.schedule': 'Ustaw datę i godzinę publikacji',
