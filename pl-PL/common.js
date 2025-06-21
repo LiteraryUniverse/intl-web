@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Treści generowane przez sztuczną inteligencję',
     'common.aiContent.tooltip': 'Ta zawartość została stworzona z pomocą sztucznej inteligencji',
     'common.aiContent.model': 'Model AI: {model}',
-    'common.aiContent.custom': 'Niestandardowy model sztucznej inteligencji'
+    'common.aiContent.custom': 'Niestandardowy model sztucznej inteligencji',
+    'common.viewAll': 'Proszę zobaczyć wszystkie'
 };
