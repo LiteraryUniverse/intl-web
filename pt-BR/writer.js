@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Digite um URL',
     'writer.link.error.empty': 'O URL não pode estar vazio',
     'writer.link.error.invalid': 'Digite um URL válido',
+    'writer.fontFamily': 'Família de fontes',
+    'writer.fontFamily.select': 'Selecione a fonte',
     'writer.publish.publishAria': 'Opções de publicação',
     'writer.publish.scheduleExplained': 'Você pode publicar imediatamente ou agendar o capítulo para ficar disponível em uma data posterior.',
     'writer.publish.schedule': 'Definir data e hora de publicação',
