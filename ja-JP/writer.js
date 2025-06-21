@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'URLを入力',
     'writer.link.error.empty': 'URLを空にすることはできない',
     'writer.link.error.invalid': '有効なURLを入力してください。',
+    'writer.fontFamily': 'フォントファミリー',
+    'writer.fontFamily.select': 'フォント選択',
     'writer.publish.publishAria': '発行オプション\n',
     'writer.publish.scheduleExplained': 'この章をすぐに公開するか、後で公開するか選べます。',
     'writer.publish.schedule': '公開日設定',
