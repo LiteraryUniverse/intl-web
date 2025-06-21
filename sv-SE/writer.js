@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Ange en webbadress',
     'writer.link.error.empty': 'URL får inte vara tom',
     'writer.link.error.invalid': 'Ange en giltig URL',
+    'writer.fontFamily': 'Fontfamilj',
+    'writer.fontFamily.select': 'Välj teckensnitt',
     'writer.publish.publishAria': 'Publiceringsalternativ',
     'writer.publish.scheduleExplained': 'Du kan antingen publicera direkt eller schemalägga kapitlet för att vara tillgängligt vid ett senare datum.',
     'writer.publish.schedule': 'Ange publiceringsdatum och tid',
