@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI-genererat innehåll',
     'common.aiContent.tooltip': 'Detta innehåll skapades med hjälp av AI',
     'common.aiContent.model': 'AI Modell: {model}',
-    'common.aiContent.custom': 'Anpassad AI-modell'
+    'common.aiContent.custom': 'Anpassad AI-modell',
+    'common.viewAll': 'Visa alla'
 };
