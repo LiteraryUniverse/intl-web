@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'أدخل عنوان URL',
     'writer.link.error.empty': 'لا يمكن أن يكون عنوان URL فارغاً',
     'writer.link.error.invalid': 'الرجاء إدخال عنوان URL صالح',
+    'writer.fontFamily': 'عائلة الخط',
+    'writer.fontFamily.select': 'حدد الخط',
     'writer.publish.publishAria': 'خيارات النشر',
     'writer.publish.scheduleExplained': 'يمكنك إما النشر فوراً أو جدولة الفصل ليكون متاحاً في وقت لاحق.',
     'writer.publish.schedule': 'تعيين وقت تاريخ النشر',
