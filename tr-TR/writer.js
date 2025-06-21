@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Bir URL girin',
     'writer.link.error.empty': 'URL boş olamaz',
     'writer.link.error.invalid': 'Lütfen geçerli bir URL girin',
+    'writer.fontFamily': 'Yazı Tipi Ailesi',
+    'writer.fontFamily.select': 'Yazı tipi seçin',
     'writer.publish.publishAria': 'Yayın seçenekleri',
     'writer.publish.scheduleExplained': 'Hemen yayımlayabilir veya bölümü daha sonra kullanılmak üzere planlayabilirsiniz.',
     'writer.publish.schedule': 'Yayımlanma tarih saatini ayarla',
