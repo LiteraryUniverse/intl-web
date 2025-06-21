@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI-gegenereerde inhoud',
     'common.aiContent.tooltip': 'Deze inhoud is gemaakt met AI-ondersteuning',
     'common.aiContent.model': 'AI-model: {model}',
-    'common.aiContent.custom': 'Aangepast AI-model'
+    'common.aiContent.custom': 'Aangepast AI-model',
+    'common.viewAll': 'Alles bekijken'
 };
