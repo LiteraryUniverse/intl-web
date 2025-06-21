@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'ตัวเลือกการเผยแพร่',
     'writer.publish.scheduleExplained': 'คุณสามารถเผยแพร่ทันทีหรือกำหนดตารางการให้ตอนพร้อมใช้งานในวันที่ต่างหากได้',
     'writer.publish.schedule': 'กำหนดวันเวลาการเผยแพร่',
