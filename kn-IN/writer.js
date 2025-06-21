@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'ಪ್ರಕಟಣೆ ಆಯ್ಕೆಗಳು',
     'writer.publish.scheduleExplained': 'ನೀವು ತಕ್ಷಣವೇ ಪ್ರಕಟಿಸಲು ಅಥವಾ ಅನಂತರ ತಾರೀಖು ನಿರ್ಧರಿಸಲು ಈ ಅಧ್ಯಾಯವನ್ನು ನೀವು ಆರೋಪಿಸಿರಬಹುದು.',
     'writer.publish.schedule': 'ಪ್ರಕಟಣೆ ದಿನಾಂಕ ಮತ್ತು ಸಮಯ ಹೊಂದಿಸಿ',
