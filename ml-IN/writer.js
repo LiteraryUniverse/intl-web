@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'പ്രസിദ്ധീകരണ ഓപ്ഷനുകൾ',
     'writer.publish.scheduleExplained': 'നിലവിലെ അദ്ധ്യായം തത്സമയം പ്രസിദ്ധീകരിക്കാനോ പരമാവധി പ്രസിദ്ധീകരിക്കാനോ താഴെയുള്ള തീയതിയില്‍ നിന്ന് തയ്യാറാക്കാം.',
     'writer.publish.schedule': 'പ്രസിദ്ധീകരണ തീയതി സമയം സജ്ജമാക്കുക',
