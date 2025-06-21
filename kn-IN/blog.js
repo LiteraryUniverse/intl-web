@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': '{usernameDisplay}ಅವರಿಂದ ಬರೆಯಲ್ಪಟ್ಟಿದೆ',
     'blog.post.writtenByFor': '{usernameDisplay} ಅವರಿಂದ ಬರೆಯಲ್ಪಟ್ಟಿದೆ {publicationName}ಗೆ',
     'blog.posts.recent': 'ಇತ್ತಿಚಿನ ಪೋಸ್ಟ್‌‌‌ಗಳು',
-    'blog.statsPage': 'ಬ್ಲಾಗ್ ಪಟ್ಟಿಗಳು'
+    'blog.statsPage': 'ಬ್ಲಾಗ್ ಪಟ್ಟಿಗಳು',
+    'blog.view': 'View Blog'
 };
