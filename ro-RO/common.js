@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Conținut generat de inteligența artificială',
     'common.aiContent.tooltip': 'Acest conținut a fost creat cu ajutorul AI',
     'common.aiContent.model': 'Model AI: {model}',
-    'common.aiContent.custom': 'Model AI personalizat'
+    'common.aiContent.custom': 'Model AI personalizat',
+    'common.viewAll': 'Vezi toate'
 };
