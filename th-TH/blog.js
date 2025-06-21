@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'เขียนโดย {usernameDisplay}',
     'blog.post.writtenByFor': 'เขียนโดย {usernameDisplay} สำหรับ {publicationName}',
     'blog.posts.recent': 'โพสต์ล่าสุด',
-    'blog.statsPage': 'สถิติบล็อก'
+    'blog.statsPage': 'สถิติบล็อก',
+    'blog.view': 'View Blog'
 };
