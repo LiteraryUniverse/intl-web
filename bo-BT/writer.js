@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Publication options',
     'writer.publish.scheduleExplained': 'ཁྱེད་ཀྱིས་འདི་ལྟ་སྤྱོད་པ་རྣམས་ལ་བལྟ་བའི་ལོ་རྒྱུས་འབྲེལ་བ་བཅུགཔ་བཟོ། འདི་ལྟ་སྤྱོད་པ་སྟོན་པའི་ནང་དོན་བཀོད་རུང་བཀོད་རིགས་བརྩོན་འགྲེལ་བ་དང་བཅུག་པའི་རིགས་པ་བཟོ།',
     'writer.publish.schedule': 'བདེའི་ལོ་རྒྱུས་འབྲེལ་བ་དང་དོན་བཀོད་རུང་བཀོད་རིགས་བརྩོན་འགྲེལ་བ་བཅུགཔ་བཟོ།',
