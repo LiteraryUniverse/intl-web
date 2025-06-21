@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Masukkan URL',
     'writer.link.error.empty': 'URL tidak boleh kosong',
     'writer.link.error.invalid': 'Masukkan URL yang valid',
+    'writer.fontFamily': 'Keluarga Font',
+    'writer.fontFamily.select': 'Pilih font',
     'writer.publish.publishAria': 'Opsi publikasi',
     'writer.publish.scheduleExplained': 'Anda dapat mempublikasikan segera atau menjadwalkan bab agar tersedia pada tanggal yang lebih lambat.',
     'writer.publish.schedule': 'Atur tanggal dan waktu penerbitan',
