@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Syötä URL-osoite',
     'writer.link.error.empty': 'URL-osoite ei voi olla tyhjä',
     'writer.link.error.invalid': 'Kirjoita kelvollinen URL-osoite',
+    'writer.fontFamily': 'Fonttiperhe',
+    'writer.fontFamily.select': 'Valitse fontti',
     'writer.publish.publishAria': 'Julkaisuvaihtoehdot',
     'writer.publish.scheduleExplained': 'Voit joko julkaista luvun heti tai ajoittaa sen saataville myöhemmin.',
     'writer.publish.schedule': 'Aseta julkaisupäivän aika',
