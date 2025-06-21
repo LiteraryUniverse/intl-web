@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'KI-generierte Inhalte',
     'common.aiContent.tooltip': 'Dieser Inhalt wurde mit Hilfe von KI erstellt',
     'common.aiContent.model': 'AI-Modell: {model}',
-    'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell'
+    'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell',
+    'common.viewAll': 'Alle ansehen'
 };
