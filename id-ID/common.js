@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Konten yang Dihasilkan AI',
     'common.aiContent.tooltip': 'Konten ini dibuat dengan bantuan AI',
     'common.aiContent.model': 'Model AI: {model}',
-    'common.aiContent.custom': 'Model AI khusus'
+    'common.aiContent.custom': 'Model AI khusus',
+    'common.viewAll': 'Lihat Semua'
 };
