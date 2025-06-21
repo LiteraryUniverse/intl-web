@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'ਪ੍ਰਕਾਸ਼ਨ ਚੋਣਾਂ',
     'writer.publish.scheduleExplained': 'ਤੁਸੀਂ ਇਥੇ ਤੁਰੰਤ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਇਕ ਬਾਅਦ ਦੀ ਮਿਤੀ ਲਈ ਸਮੇਂ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦੇ ਹੋ।',
     'writer.publish.schedule': 'ਪ੍ਰਕਾਸ਼ਨ ਮਿਤੀ ਸਮਾਂ ਸੈੱਟ ਕਰੋ',
