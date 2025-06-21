@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI 생성 콘텐츠',
     'common.aiContent.tooltip': '이 콘텐츠는 AI의 도움을 받아 제작되었습니다.',
     'common.aiContent.model': 'AI 모델: {model}',
-    'common.aiContent.custom': '맞춤형 AI 모델'
+    'common.aiContent.custom': '맞춤형 AI 모델',
+    'common.viewAll': '모두 보기'
 };
