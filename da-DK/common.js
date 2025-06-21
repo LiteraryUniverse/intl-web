@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI-genereret indhold',
     'common.aiContent.tooltip': 'Dette indhold blev skabt med AI-assistance',
     'common.aiContent.model': 'AI-model: {model}',
-    'common.aiContent.custom': 'Brugerdefineret AI-model'
+    'common.aiContent.custom': 'Brugerdefineret AI-model',
+    'common.viewAll': 'Se alle'
 };
