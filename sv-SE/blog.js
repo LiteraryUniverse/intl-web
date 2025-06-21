@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Skriven av {usernameDisplay}',
     'blog.post.writtenByFor': 'Skrivs av {usernameDisplay} för {publicationName}',
     'blog.posts.recent': 'Senaste inlägg',
-    'blog.statsPage': 'Bloggstatistik'
+    'blog.statsPage': 'Bloggstatistik',
+    'blog.view': 'Visa blogg'
 };
