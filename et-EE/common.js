@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Tehisintellekti loodud sisu',
     'common.aiContent.tooltip': 'See sisu loodi tehisintellekti abiga',
     'common.aiContent.model': 'AI mudel: {model}',
-    'common.aiContent.custom': 'Kohandatud tehisintellekti mudel'
+    'common.aiContent.custom': 'Kohandatud tehisintellekti mudel',
+    'common.viewAll': 'Vaata kõiki'
 };
