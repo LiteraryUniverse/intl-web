@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Tekoälyn luoma sisältö',
     'common.aiContent.tooltip': 'Tämä sisältö on luotu tekoälyn avustuksella',
     'common.aiContent.model': 'AI-malli: {model}',
-    'common.aiContent.custom': 'Mukautettu tekoälymalli'
+    'common.aiContent.custom': 'Mukautettu tekoälymalli',
+    'common.viewAll': 'Näytä kaikki'
 };
