@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Contenuti generati dall\'AI',
     'common.aiContent.tooltip': 'Questo contenuto è stato creato con l\'assistenza dell\'AI',
     'common.aiContent.model': 'Modello AI: {model}',
-    'common.aiContent.custom': 'Modello AI personalizzato'
+    'common.aiContent.custom': 'Modello AI personalizzato',
+    'common.viewAll': 'Visualizza tutti'
 };
