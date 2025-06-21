@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Sisestage URL',
     'writer.link.error.empty': 'URL ei saa olla tühi',
     'writer.link.error.invalid': 'Palun sisestage kehtiv URL',
+    'writer.fontFamily': 'Kirjatüüpkond',
+    'writer.fontFamily.select': 'Valige font',
     'writer.publish.publishAria': 'Avaldamise valikud',
     'writer.publish.scheduleExplained': 'Saate kas avaldada kohe või ajastada peatüki hilisemaks kättesaadavaks tegemiseks.',
     'writer.publish.schedule': 'Määra avaldamise kuupäev ja kellaaeg',
