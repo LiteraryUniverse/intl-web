@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Contenu généré par l\'IA',
     'common.aiContent.tooltip': 'Ce contenu a été créé avec l\'aide de l\'IA',
     'common.aiContent.model': 'Modèle AI : {model}',
-    'common.aiContent.custom': 'Modèle d\'IA personnalisé'
+    'common.aiContent.custom': 'Modèle d\'IA personnalisé',
+    'common.viewAll': 'Voir tout'
 };
