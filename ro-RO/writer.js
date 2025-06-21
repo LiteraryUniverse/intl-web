@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Introduceți o adresă URL',
     'writer.link.error.empty': 'URL-ul nu poate fi gol',
     'writer.link.error.invalid': 'Vă rugăm să introduceți o adresă URL validă',
+    'writer.fontFamily': 'Familie de fonturi',
+    'writer.fontFamily.select': 'Selectați fontul',
     'writer.publish.publishAria': 'Opțiuni de publicare',
     'writer.publish.scheduleExplained': 'Puteți fie să publicați imediat, fie să programați ca capitolul să fie disponibil la o dată ulterioară.',
     'writer.publish.schedule': 'Setați data publicării',
