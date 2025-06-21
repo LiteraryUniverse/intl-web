@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'common.aiContent.tooltip': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια της AI',
     'common.aiContent.model': 'Μοντέλο AI: {model}',
-    'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI'
+    'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI',
+    'common.viewAll': 'Προβολή όλων'
 };
