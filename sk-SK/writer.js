@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Zadajte adresu URL',
     'writer.link.error.empty': 'Adresa URL nemôže byť prázdna',
     'writer.link.error.invalid': 'Zadajte platnú adresu URL',
+    'writer.fontFamily': 'Rodina písiem',
+    'writer.fontFamily.select': 'Vyberte písmo',
     'writer.publish.publishAria': 'Možnosti zverejnenia',
     'writer.publish.scheduleExplained': 'Kapitolu môžete publikovať okamžite alebo naplánovať jej sprístupnenie na neskorší dátum.',
     'writer.publish.schedule': 'Nastavenie dátumu zverejnenia',
