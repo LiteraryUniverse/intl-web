@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Kirjoittanut {usernameDisplay}',
     'blog.post.writtenByFor': 'Kirjoittanut {usernameDisplay} kohteelle {publicationName}',
     'blog.posts.recent': 'Viimeisimmät viestit',
-    'blog.statsPage': 'Blogitilastot'
+    'blog.statsPage': 'Blogitilastot',
+    'blog.view': 'Näytä blogi'
 };
