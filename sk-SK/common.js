@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Obsah generovaný umelou inteligenciou',
     'common.aiContent.tooltip': 'Tento obsah bol vytvorený s pomocou AI',
     'common.aiContent.model': 'Model AI: {model}',
-    'common.aiContent.custom': 'Vlastný model AI'
+    'common.aiContent.custom': 'Vlastný model AI',
+    'common.viewAll': 'Zobraziť všetko'
 };
