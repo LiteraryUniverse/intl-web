@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI 產生的內容',
     'common.aiContent.tooltip': '本內容由 AI 協助建立',
     'common.aiContent.model': 'AI 機型： {model}',
-    'common.aiContent.custom': '自訂 AI 模型'
+    'common.aiContent.custom': '自訂 AI 模型',
+    'common.viewAll': '檢視全部'
 };
