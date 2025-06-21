@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'પ્રકાશન વિકલ્પો',
     'writer.publish.scheduleExplained': 'તમે તેમને તત્કાલ પ્રકાશિત કરી શકો છો કે તારી ચાપ ની તારીખ પછીને ઉપલબ્ધ કરી શકો છો.',
     'writer.publish.schedule': 'પ્રકાશન તારીખ સમય સેટ કરો',
