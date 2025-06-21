@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Geben Sie eine URL ein',
     'writer.link.error.empty': 'URL darf nicht leer sein',
     'writer.link.error.invalid': 'Bitte geben Sie eine gültige URL ein',
+    'writer.fontFamily': 'Schriftfamilie',
+    'writer.fontFamily.select': 'Schriftart auswählen',
     'writer.publish.publishAria': 'Optionen für die Veröffentlichung',
     'writer.publish.scheduleExplained': 'Sie können das Kapitel entweder sofort veröffentlichen oder die Veröffentlichung für einen späteren Zeitpunkt planen.',
     'writer.publish.schedule': 'Datum und Uhrzeit der Veröffentlichung festlegen',
