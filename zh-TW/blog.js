@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': '由 {usernameDisplay}撰寫',
     'blog.post.writtenByFor': '由 {usernameDisplay} 撰寫  給 {publicationName}',
     'blog.posts.recent': '最近文章',
-    'blog.statsPage': '部落格統計'
+    'blog.statsPage': '部落格統計',
+    'blog.view': '檢視部落格'
 };
