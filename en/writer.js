@@ -18,6 +18,9 @@ export default {
   'finder.connect': 'Connect selection to encyclopedia entry',
   'writer.aside.ariaLabel': 'Help options menu',
   'writer.nothingToSave': 'Nothing to save',
+  'writer.link.placeholder': 'Enter a URL',
+  'writer.link.error.empty': 'URL cannot be empty',
+  'writer.link.error.invalid': 'Please enter a valid URL',
 
   'writer.publish.publishAria': 'Publication options',
   'writer.publish.scheduleExplained':
