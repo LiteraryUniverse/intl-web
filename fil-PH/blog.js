@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Isinulat ni {usernameDisplay}',
     'blog.post.writtenByFor': 'Isinulat ni {usernameDisplay} para kay {publicationName}',
     'blog.posts.recent': 'Recent posts',
-    'blog.statsPage': 'Estadistika ng Blog'
+    'blog.statsPage': 'Estadistika ng Blog',
+    'blog.view': 'View Blog'
 };
