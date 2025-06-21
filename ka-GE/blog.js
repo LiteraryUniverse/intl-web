@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'დაწერილია {usernameDisplay}',
     'blog.post.writtenByFor': 'დაწერილია {usernameDisplay} {publicationName}',
     'blog.posts.recent': 'ბოლო პოსტები',
-    'blog.statsPage': 'ბლოგის სტატისტიკა'
+    'blog.statsPage': 'ბლოგის სტატისტიკა',
+    'blog.view': 'View Blog'
 };
