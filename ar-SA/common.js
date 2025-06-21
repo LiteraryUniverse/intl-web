@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'common.aiContent.tooltip': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
     'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
-    'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص'
+    'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
+    'common.viewAll': 'عرض الكل'
 };
