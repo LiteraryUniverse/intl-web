@@ -302,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Yapay Zeka Tarafından Oluşturulan İçerik',
     'common.aiContent.tooltip': 'Bu içerik yapay zeka yardımı ile oluşturulmuştur',
     'common.aiContent.model': 'AI Modeli: {model}',
-    'common.aiContent.custom': 'Özel yapay zeka modeli'
+    'common.aiContent.custom': 'Özel yapay zeka modeli',
+    'common.viewAll': 'Tümünü Görüntüle'
 };
