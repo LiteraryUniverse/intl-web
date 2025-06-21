@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Введіть URL-адресу',
     'writer.link.error.empty': 'URL-адреса не може бути порожньою',
     'writer.link.error.invalid': 'Будь ласка, введіть дійсну URL-адресу',
+    'writer.fontFamily': 'Сімейство шрифтів',
+    'writer.fontFamily.select': 'Виберіть шрифт',
     'writer.publish.publishAria': 'Варіанти публікації',
     'writer.publish.scheduleExplained': 'Ви можете опублікувати відразу або запланувати розділ на пізніший час.',
     'writer.publish.schedule': 'Встановити дату та час публікації',
