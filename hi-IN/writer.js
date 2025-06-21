@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'प्रकाशन विकल्प',
     'writer.publish.scheduleExplained': 'आप या तो तुरंत प्रकाशित कर सकते हैं या चैप्टर को एक बाद में उपलब्ध करने के लिए शेड्यूल कर सकते हैं।',
     'writer.publish.schedule': 'प्रकाशन तिथि समय सेट करें',
