@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Een URL invoeren',
     'writer.link.error.empty': 'URL kan niet leeg zijn',
     'writer.link.error.invalid': 'Voer een geldige URL in',
+    'writer.fontFamily': 'Lettertype familie',
+    'writer.fontFamily.select': 'Lettertype selecteren',
     'writer.publish.publishAria': 'Publicatieopties',
     'writer.publish.scheduleExplained': 'Je kunt het hoofdstuk direct publiceren of plannen om het op een later tijdstip beschikbaar te maken.',
     'writer.publish.schedule': 'Stel de publicatiedatum en -tijd in',
