@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'എഴുതിയത് {usernameDisplay}',
     'blog.post.writtenByFor': 'എഴുതിയത് {usernameDisplay} യുടെയാണ് {publicationName}',
     'blog.posts.recent': 'ഏറ്റവും പുതിയ പോസ്റ്റുകൾ',
-    'blog.statsPage': 'ബ്ലോഗ് സ്റ്റാറ്റിസ്റ്റികൾ'
+    'blog.statsPage': 'ബ്ലോഗ് സ്റ്റാറ്റിസ്റ്റികൾ',
+    'blog.view': 'View Blog'
 };
