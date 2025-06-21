@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Roghanna Foilsithe',
     'writer.publish.scheduleExplained': 'Is féidir leat an chaibidil a fhoilsiú láithreach nó a sceidealú chun a bheith ar fáil ag dáta níos déanaí.',
     'writer.publish.schedule': 'Socraigh dáta agus am fhoilsiú',
