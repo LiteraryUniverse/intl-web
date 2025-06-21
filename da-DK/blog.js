@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Skrevet af {usernameDisplay}',
     'blog.post.writtenByFor': 'Skrevet af {usernameDisplay} til {publicationName}',
     'blog.posts.recent': 'Seneste indlæg',
-    'blog.statsPage': 'Blog statistik'
+    'blog.statsPage': 'Blog statistik',
+    'blog.view': 'Se blog'
 };
