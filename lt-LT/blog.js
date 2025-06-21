@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Parašė {usernameDisplay}',
     'blog.post.writtenByFor': 'Parašė {usernameDisplay} for {publicationName}',
     'blog.posts.recent': 'Naujausi įrašai',
-    'blog.statsPage': 'Tinklaraščio statistika'
+    'blog.statsPage': 'Tinklaraščio statistika',
+    'blog.view': 'Peržiūrėti tinklaraštį'
 };
