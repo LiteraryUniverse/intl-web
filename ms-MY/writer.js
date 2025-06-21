@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Enter a URL',
     'writer.link.error.empty': 'URL cannot be empty',
     'writer.link.error.invalid': 'Please enter a valid URL',
+    'writer.fontFamily': 'Font Family',
+    'writer.fontFamily.select': 'Select font',
     'writer.publish.publishAria': 'Pilihan penerbitan',
     'writer.publish.scheduleExplained': 'Anda boleh sama ada menerbitkan dengan segera atau menjadualkan bab supaya tersedia pada tarikh kemudian.',
     'writer.publish.schedule': 'Tetapkan tarikh dan masa penerbitan',
