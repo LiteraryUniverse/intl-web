@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': '輸入 URL',
     'writer.link.error.empty': 'URL 不能為空',
     'writer.link.error.invalid': '請輸入有效的 URL',
+    'writer.fontFamily': '字型家族',
+    'writer.fontFamily.select': '選擇字型',
     'writer.publish.publishAria': '發布選項',
     'writer.publish.scheduleExplained': '您可以立即發布或安排章節在以後的日期可用。',
     'writer.publish.schedule': '設定發布日期和時間',
