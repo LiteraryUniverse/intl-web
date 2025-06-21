@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'ការសរសេរគឺចំណាយព័ត៌មានដែលមានអំពី {usernameDisplay}',
     'blog.post.writtenByFor': 'ការសរសេរប៉ុណ្ណោះដោយ {usernameDisplay} សម្រាប់ {publicationName}',
     'blog.posts.recent': 'ការដាក់ស្នើថ្មីបំផុត',
-    'blog.statsPage': 'ស្ថិតិប្លកនៃប្លកទំព័របណ្ដាញ'
+    'blog.statsPage': 'ស្ថិតិប្លកនៃប្លកទំព័របណ្ដាញ',
+    'blog.view': 'View Blog'
 };
