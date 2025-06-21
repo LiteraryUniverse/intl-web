@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'নোট: এই গল্পটি {universe} ইউনিভার্সের একটি ফ্যান ফিকশন।',
     copyrights: 'কপিরাইট',
     'common.challenges': 'চ্যালেঞ্জসমূহ',
-    'notice.thankYou': 'Thank you for your support!',
+    // for beta only
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
+    'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'আপোনাৰ নোট আৰু ধৰণীসমূহ এই চাইটত কোথাওক উপলব্ধ।',
     'common.feedback': 'মন্তব্য',
     'common.createdOn': 'Created on {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI-Generated Content',
     'common.aiContent.tooltip': 'This content was created with AI assistance',
     'common.aiContent.model': 'AI Model: {model}',
-    'common.aiContent.custom': 'Custom AI model'
+    'common.aiContent.custom': 'Custom AI model',
+    'common.viewAll': 'View All'
 };

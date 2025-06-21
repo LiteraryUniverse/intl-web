@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Індивідуальний дизайн аватарки',
     'plans.lifetime.subscription.benefit3': 'Щомісячні командні дзвінки',
     'plans.lifetime.subscription.benefit4': 'Пріоритет запиту функції',
-    'plans.subscription.lifetimeMember': 'Ви маєте довічне членство',
-    'plans.lifetime.announcement': 'Зараз у вас є обмежена можливість отримати довічне членство! Перевірте це!'
+    'plans.subscription.lifetimeMember': 'Ви маєте довічне членство'
 };

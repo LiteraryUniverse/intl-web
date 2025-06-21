@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'ПРИМЕЧАНИЕ: Эта история является фанфиком по вселенной: {universe}.',
     copyrights: 'Авторские права',
     'common.challenges': 'Испытания',
-    'notice.thankYou': 'Спасибо за Вашу поддержку!',
+    // for beta only
+    'beta.notice': 'Добро пожаловать в Литературную Вселенную BETA! Мы рады сообщить Вам, что мы официально запускаемся в эту пятницу! Мы надеемся, что Вы присоединитесь к нам и поддержите нас, когда мы начнем новую главу в нашем путешествии.',
+    'beta.thanks': 'Спасибо за поддержку!',
     'scratchpad.about': 'Ваши заметки и идеи доступны в любом месте на сайте.',
     'common.feedback': 'Обратная связь',
     'common.createdOn': 'Создано {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Контент, созданный искусственным интеллектом',
     'common.aiContent.tooltip': 'Этот контент был создан с помощью искусственного интеллекта',
     'common.aiContent.model': 'Модель AI: {model}',
-    'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта'
+    'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта',
+    'common.viewAll': 'Смотреть все'
 };

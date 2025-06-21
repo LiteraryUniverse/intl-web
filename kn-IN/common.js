@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'ಗಮನಿಸಿ: ಈ ಕಥೆ {universe} ವಿಶ್ವದ ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಆಗಿದೆ.',
     copyrights: 'ಹಕ್ಕುಗಳು',
     'common.challenges': 'ಸವಾಲುಗಳು',
-    'notice.thankYou': 'Thank you for your support!',
+    // for beta only
+    'beta.notice': 'Welcome to the Literary Universe BETA! We are excited to let you know that we are officially launching this Friday! We hope that you will join us and support us as we start a new chapter in our journey.',
+    'beta.thanks': 'Thank you for your support!',
     'scratchpad.about': 'ನೀವು ನೋಟಗಳು ಮತ್ತು ಕನಸುಗಳನ್ನು ಯಾವುದೇ ಸ್ಥಳದಲ್ಲಿಯೂ ಪಡೆಯಬಹುದು.',
     'common.feedback': 'ಪ್ರತಿಕ್ರಿಯೆ',
     'common.createdOn': 'ಸೃಷ್ಟಿಸಲಾಯಿತು {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI-Generated Content',
     'common.aiContent.tooltip': 'This content was created with AI assistance',
     'common.aiContent.model': 'AI Model: {model}',
-    'common.aiContent.custom': 'Custom AI model'
+    'common.aiContent.custom': 'Custom AI model',
+    'common.viewAll': 'View All'
 };

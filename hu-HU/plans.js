@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Egyedi avatár tervezés',
     'plans.lifetime.subscription.benefit3': 'Havi rendszerességgel tartott csapatbeszélgetések',
     'plans.lifetime.subscription.benefit4': 'Funkciókérés prioritása',
-    'plans.subscription.lifetimeMember': 'Életre szóló tagságod van',
-    'plans.lifetime.announcement': 'Most korlátozott lehetőséged van arra, hogy élethosszig tartó tagságot szerezz! Nézze meg!'
+    'plans.subscription.lifetimeMember': 'Életre szóló tagságod van'
 };

@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Írta: {usernameDisplay}',
     'blog.post.writtenByFor': 'Írta: {usernameDisplay} {publicationName}részére',
     'blog.posts.recent': 'Legfrissebb bejegyzések',
-    'blog.statsPage': 'Blog statisztika'
+    'blog.statsPage': 'Blog statisztika',
+    'blog.view': 'Blog megtekintése'
 };

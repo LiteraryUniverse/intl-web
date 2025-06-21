@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'எழுதியவர் {usernameDisplay}',
     'blog.post.writtenByFor': 'எழுதியவர் {usernameDisplay} உங்களது {publicationName}',
     'blog.posts.recent': 'சமீபத்திய பதிவுகள்',
-    'blog.statsPage': 'வலைப்பதிவு புள்ளிவிபரங்கள்'
+    'blog.statsPage': 'வலைப்பதிவு புள்ளிவிபரங்கள்',
+    'blog.view': 'View Blog'
 };

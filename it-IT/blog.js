@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Scritto da {usernameDisplay}',
     'blog.post.writtenByFor': 'Scritto da {usernameDisplay} per {publicationName}',
     'blog.posts.recent': 'Post recenti',
-    'blog.statsPage': 'Statistiche del blog'
+    'blog.statsPage': 'Statistiche del blog',
+    'blog.view': 'Visualizza il blog'
 };

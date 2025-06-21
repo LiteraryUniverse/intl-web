@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Написано {usernameDisplay}',
     'blog.post.writtenByFor': 'Написано {usernameDisplay} для {publicationName}',
     'blog.posts.recent': 'Останні записи',
-    'blog.statsPage': 'Статистика блогу'
+    'blog.statsPage': 'Статистика блогу',
+    'blog.view': 'Переглянути блог'
 };

@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': '사용자 지정 아바타 디자인',
     'plans.lifetime.subscription.benefit3': '월간 팀 통화',
     'plans.lifetime.subscription.benefit4': '기능 요청 우선 순위',
-    'plans.subscription.lifetimeMember': '평생 멤버십이 있습니다.',
-    'plans.lifetime.announcement': '이제 평생 회원 자격을 얻을 수 있는 한정된 기회가 주어집니다! 지금 바로 확인해보세요!'
+    'plans.subscription.lifetimeMember': '평생 멤버십이 있습니다.'
 };

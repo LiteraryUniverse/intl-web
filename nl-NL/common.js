@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'LET OP: Dit verhaal is een fanfictie in het universum van {universe}.',
     copyrights: 'Auteursrechten',
     'common.challenges': 'Uitdagingen',
-    'notice.thankYou': 'Hartelijk dank voor uw steun!',
+    // for beta only
+    'beta.notice': 'Welkom bij de Literary Universe BETA! We zijn verheugd u te laten weten dat we deze vrijdag officieel van start gaan! We hopen dat u zich bij ons aansluit en ons steunt terwijl we aan een nieuw hoofdstuk van onze reis beginnen.',
+    'beta.thanks': 'Dank u voor uw steun!',
     'scratchpad.about': 'Uw notities en ideeën overal op de site toegankelijk.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Gemaakt op {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI-gegenereerde inhoud',
     'common.aiContent.tooltip': 'Deze inhoud is gemaakt met AI-ondersteuning',
     'common.aiContent.model': 'AI-model: {model}',
-    'common.aiContent.custom': 'Aangepast AI-model'
+    'common.aiContent.custom': 'Aangepast AI-model',
+    'common.viewAll': 'Alles bekijken'
 };

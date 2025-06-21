@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': '注意：本故事是關於 {universe} 宇宙的粉絲創作。',
     copyrights: '版權',
     'common.challenges': '挑戰',
-    'notice.thankYou': '感謝您的支持！',
+    // for beta only
+    'beta.notice': '歡迎來到 Literary Universe BETA！我們很高興地告訴您，我們將於本週五正式推出！我們希望您能加入並支持我們，共同開啟我們人生旅程的新篇章。',
+    'beta.thanks': '感謝您的支持！',
     'scratchpad.about': '您的筆記和想法可以在網站的任何地方訪問。',
     'common.feedback': '反饋',
     'common.createdOn': '建立於 {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI 產生的內容',
     'common.aiContent.tooltip': '本內容由 AI 協助建立',
     'common.aiContent.model': 'AI 機型： {model}',
-    'common.aiContent.custom': '自訂 AI 模型'
+    'common.aiContent.custom': '自訂 AI 模型',
+    'common.viewAll': '檢視全部'
 };

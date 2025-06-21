@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'ملاحظة: هذه القصة هي قصة مشجعين عن كون {universe} .',
     copyrights: 'حقوق النشر',
     'common.challenges': 'التحديات',
-    'notice.thankYou': 'شكراً لك على دعمك!',
+    // for beta only
+    'beta.notice': 'مرحبًا بكم في النسخة التجريبية من عالم الأدب! نحن متحمسون لإعلامكم بأننا سننطلق رسمياً يوم الجمعة القادم! نأمل أن تنضموا إلينا وتدعمونا ونحن نبدأ فصلاً جديداً في رحلتنا.',
+    'beta.thanks': 'شكراً لك على دعمك!',
     'scratchpad.about': 'ملاحظاتك وأفكارك متاحة في أي مكان على الموقع.',
     'common.feedback': 'ملاحظات',
     'common.createdOn': 'تم إنشاؤه في {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'common.aiContent.tooltip': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
     'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
-    'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص'
+    'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
+    'common.viewAll': 'عرض الكل'
 };

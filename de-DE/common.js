@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'HINWEIS: Diese Geschichte ist eine Fan-Fiktion am {universe} Universum.',
     copyrights: 'Copyright',
     'common.challenges': 'Herausforderungen',
-    'notice.thankYou': 'Vielen Dank für Ihre Unterstützung!',
+    // for beta only
+    'beta.notice': 'Willkommen bei der Literary Universe BETA! Wir freuen uns, Ihnen mitteilen zu können, dass wir diesen Freitag offiziell an den Start gehen werden! Wir hoffen, dass Sie sich uns anschließen und uns unterstützen werden, wenn wir ein neues Kapitel unserer Reise beginnen.',
+    'beta.thanks': 'Vielen Dank für Ihre Unterstützung!',
     'scratchpad.about': 'Ihre Notizen und Ideen sind überall auf der Website zugänglich.',
     'common.feedback': 'Rückmeldung',
     'common.createdOn': 'Erstellt am {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'KI-generierte Inhalte',
     'common.aiContent.tooltip': 'Dieser Inhalt wurde mit Hilfe von KI erstellt',
     'common.aiContent.model': 'AI-Modell: {model}',
-    'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell'
+    'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell',
+    'common.viewAll': 'Alle ansehen'
 };

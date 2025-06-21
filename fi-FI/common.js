@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'HUOM: Tämä tarina on fanifiktiota {universe} -universumista.',
     copyrights: 'Tekijänoikeudet',
     'common.challenges': 'Haasteet',
-    'notice.thankYou': 'Kiitos tuestanne!',
+    // for beta only
+    'beta.notice': 'Tervetuloa kirjallisuusuniversumin BETA-versioon! Olemme innoissamme voidessamme kertoa, että käynnistämme virallisesti tämän viikon perjantaina! Toivomme, että liityt seuraamme ja tuet meitä, kun aloitamme uuden luvun matkallamme.',
+    'beta.thanks': 'Kiitos tuestanne!',
     'scratchpad.about': 'Muistiinpanosi ja ideasi ovat saatavilla missä tahansa sivustolla.',
     'common.feedback': 'Palaute',
     'common.createdOn': 'Luotu {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Tekoälyn luoma sisältö',
     'common.aiContent.tooltip': 'Tämä sisältö on luotu tekoälyn avustuksella',
     'common.aiContent.model': 'AI-malli: {model}',
-    'common.aiContent.custom': 'Mukautettu tekoälymalli'
+    'common.aiContent.custom': 'Mukautettu tekoälymalli',
+    'common.viewAll': 'Näytä kaikki'
 };

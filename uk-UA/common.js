@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'ПРИМІТКА: ця історія є фанфіком у всесвіті {universe}.',
     copyrights: 'Авторське право',
     'common.challenges': 'Виклики',
-    'notice.thankYou': 'Дякуємо за вашу підтримку!',
+    // for beta only
+    'beta.notice': 'Ласкаво просимо до Літературного Всесвіту BETA! Ми раді повідомити вам, що цієї п\'ятниці ми офіційно стартуємо! Ми сподіваємося, що ви приєднаєтеся до нас і підтримаєте нас, коли ми розпочнемо нову главу нашої подорожі.',
+    'beta.thanks': 'Дякуємо за вашу підтримку!',
     'scratchpad.about': 'Ваші нотатки та ідеї, доступні будь-де на сайті.',
     'common.feedback': 'Зворотній зв\'язок',
     'common.createdOn': 'Створено на {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Контент, створений штучним інтелектом',
     'common.aiContent.tooltip': 'Цей контент створено за допомогою штучного інтелекту',
     'common.aiContent.model': 'Модель штучного інтелекту: {model}',
-    'common.aiContent.custom': 'Спеціальна модель ШІ'
+    'common.aiContent.custom': 'Спеціальна модель ШІ',
+    'common.viewAll': 'Переглянути всі'
 };

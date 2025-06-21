@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': '注：この物語は{universe}宇宙のファンフィクションです。',
     copyrights: '著作権',
     'common.challenges': '挑戦',
-    'notice.thankYou': 'ご声援ありがとうございました！',
+    // for beta only
+    'beta.notice': 'リテラリーユニバースBETAへようこそ！今週金曜日に正式にスタートすることをお知らせできることを嬉しく思います！私たちの新たな旅立ちを応援してください。',
+    'beta.thanks': 'ご協力ありがとうございました。',
     'scratchpad.about': 'サイトのどこからでもご自身専用のメモ欄やアイデアにアクセスが可能です。',
     'common.feedback': 'ご意見',
     'common.createdOn': '{date, date, long}に作成',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AIが生成したコンテンツ',
     'common.aiContent.tooltip': 'このコンテンツはAIの支援を受けて作成されました。',
     'common.aiContent.model': 'AIモデル： {model}',
-    'common.aiContent.custom': 'カスタムAIモデル'
+    'common.aiContent.custom': 'カスタムAIモデル',
+    'common.viewAll': '全てを見る'
 };

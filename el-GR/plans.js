@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Προσαρμοσμένος σχεδιασμός avatar',
     'plans.lifetime.subscription.benefit3': 'Μηνιαίες κλήσεις της ομάδας',
     'plans.lifetime.subscription.benefit4': 'Προτεραιότητα αίτησης χαρακτηριστικών',
-    'plans.subscription.lifetimeMember': 'Έχετε ισόβια συνδρομή',
-    'plans.lifetime.announcement': 'Έχετε τώρα μια περιορισμένη ευκαιρία να γίνετε ισόβια μέλη! Ελέγξτε το!'
+    'plans.subscription.lifetimeMember': 'Έχετε ισόβια συνδρομή'
 };

@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Индивидуальный дизайн аватара',
     'plans.lifetime.subscription.benefit3': 'Ежемесячные командные звонки',
     'plans.lifetime.subscription.benefit4': 'Приоритет запросов на улучшение характеристик',
-    'plans.subscription.lifetimeMember': 'У Вас есть пожизненное членство',
-    'plans.lifetime.announcement': 'Сейчас у Вас есть ограниченная возможность получить пожизненное членство! Проверьте это!'
+    'plans.subscription.lifetimeMember': 'У Вас есть пожизненное членство'
 };

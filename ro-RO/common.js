@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'NOTĂ: Această poveste este o ficțiune fan-made în universul {universe}.',
     copyrights: 'Drepturi de autor',
     'common.challenges': 'Provocări',
-    'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!',
+    // for beta only
+    'beta.notice': 'Bine ați venit la Literary Universe BETA! Suntem încântați să vă anunțăm că ne lansăm oficial în această vineri! Sperăm că ni te vei alătura și ne vei sprijini în timp ce începem un nou capitol din călătoria noastră.',
+    'beta.thanks': 'Vă mulțumim pentru sprijinul dumneavoastră!',
     'scratchpad.about': 'Notele și ideile tale accesibile oriunde pe site.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Creat la {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Conținut generat de inteligența artificială',
     'common.aiContent.tooltip': 'Acest conținut a fost creat cu ajutorul AI',
     'common.aiContent.model': 'Model AI: {model}',
-    'common.aiContent.custom': 'Model AI personalizat'
+    'common.aiContent.custom': 'Model AI personalizat',
+    'common.viewAll': 'Vezi toate'
 };

@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'OBS: Denna berättelse är en fanfiction baserad på universumet {universe}.',
     copyrights: 'Upphovsrätt',
     'common.challenges': 'Utmaningar',
-    'notice.thankYou': 'Tack för ert stöd!',
+    // for beta only
+    'beta.notice': 'Välkommen till Literary Universe BETA! Vi är glada över att kunna berätta att vi officiellt lanserar nu på fredag! Vi hoppas att du vill vara med och stötta oss när vi börjar ett nytt kapitel i vår resa.',
+    'beta.thanks': 'Tack för ert stöd!',
     'scratchpad.about': 'Dina anteckningar och idéer tillgängliga var som helst på webbplatsen.',
     'common.feedback': 'Återkoppling',
     'common.createdOn': 'Skapad den {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'AI-genererat innehåll',
     'common.aiContent.tooltip': 'Detta innehåll skapades med hjälp av AI',
     'common.aiContent.model': 'AI Modell: {model}',
-    'common.aiContent.custom': 'Anpassad AI-modell'
+    'common.aiContent.custom': 'Anpassad AI-modell',
+    'common.viewAll': 'Visa alla'
 };

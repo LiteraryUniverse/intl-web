@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Viết bởi {usernameDisplay}',
     'blog.post.writtenByFor': 'Viết bởi {usernameDisplay} cho {publicationName}',
     'blog.posts.recent': 'Bài viết gần đây',
-    'blog.statsPage': 'Thống kê Blog'
+    'blog.statsPage': 'Thống kê Blog',
+    'blog.view': 'View Blog'
 };

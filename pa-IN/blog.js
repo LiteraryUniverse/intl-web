@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'ਲਿਖਿਆ ਗਿਆ ਹੈ {usernameDisplay}',
     'blog.post.writtenByFor': 'ਲਿਖਿਆ ਗਿਆ ਹੈ {usernameDisplay} ਦੁਆਰਾ {publicationName}ਲਈ',
     'blog.posts.recent': 'ਤਾਜ਼ਾ ਪੋਸਟ',
-    'blog.statsPage': 'ਬਲੌਗ ਸਟੈਟਿਸਟਿਕਸ'
+    'blog.statsPage': 'ਬਲੌਗ ਸਟੈਟਿਸਟਿਕਸ',
+    'blog.view': 'View Blog'
 };

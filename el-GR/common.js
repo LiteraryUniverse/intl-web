@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'ΣΗΜΕΙΩΣΗ: Αυτή η ιστορία είναι ένα fan fiction στο σύμπαν του {universe}.',
     copyrights: 'Πνευματικά δικαιώματα',
     'common.challenges': 'Προκλήσεις',
-    'notice.thankYou': 'Σας ευχαριστούμε για την υποστήριξή σας!',
+    // for beta only
+    'beta.notice': 'Καλώς ήρθατε στο Λογοτεχνικό Σύμπαν BETA! Είμαστε ενθουσιασμένοι που σας ενημερώνουμε ότι ξεκινάμε επίσημα αυτή την Παρασκευή! Ελπίζουμε ότι θα μας ακολουθήσετε και θα μας υποστηρίξετε καθώς ξεκινάμε ένα νέο κεφάλαιο στο ταξίδι μας.',
+    'beta.thanks': 'Σας ευχαριστούμε για την υποστήριξή σας!',
     'scratchpad.about': 'Οι σημειώσεις και οι ιδέες σας είναι προσβάσιμες οπουδήποτε στον ιστότοπο.',
     'common.feedback': 'Ανατροφοδότηση',
     'common.createdOn': 'Δημιουργήθηκε στις {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'common.aiContent.tooltip': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια της AI',
     'common.aiContent.model': 'Μοντέλο AI: {model}',
-    'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI'
+    'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI',
+    'common.viewAll': 'Προβολή όλων'
 };

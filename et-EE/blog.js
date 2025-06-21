@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Kirjutas {usernameDisplay}',
     'blog.post.writtenByFor': 'Kirjutas {usernameDisplay} {publicationName}jaoks',
     'blog.posts.recent': 'Viimased postitused',
-    'blog.statsPage': 'Blogi statistika'
+    'blog.statsPage': 'Blogi statistika',
+    'blog.view': 'Vaata blogi'
 };

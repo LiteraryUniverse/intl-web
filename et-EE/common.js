@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'MÄRKUS: See lugu on fännifiktsioon {universe} universumis.',
     copyrights: 'Autoriõigused',
     'common.challenges': 'Väljakutsed',
-    'notice.thankYou': 'Täname teid toetuse eest!',
+    // for beta only
+    'beta.notice': 'Tere tulemast Kirjandusuniversumi BETA-sse! Meil on hea meel teile teada anda, et sel reedel alustame ametlikult tööd! Loodame, et liitute meiega ja toetate meid, kui alustame uut peatükki oma teekonnal.',
+    'beta.thanks': 'Täname teid toetuse eest!',
     'scratchpad.about': 'Sinu märkmed ja ideed on kättesaadavad igal pool saidil.',
     'common.feedback': 'Tagasiside',
     'common.createdOn': 'Loodud {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Tehisintellekti loodud sisu',
     'common.aiContent.tooltip': 'See sisu loodi tehisintellekti abiga',
     'common.aiContent.model': 'AI mudel: {model}',
-    'common.aiContent.custom': 'Kohandatud tehisintellekti mudel'
+    'common.aiContent.custom': 'Kohandatud tehisintellekti mudel',
+    'common.viewAll': 'Vaata kõiki'
 };

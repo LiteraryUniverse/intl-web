@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Aangepast avatar-ontwerp',
     'plans.lifetime.subscription.benefit3': 'Maandelijkse teamgesprekken',
     'plans.lifetime.subscription.benefit4': 'Prioriteit functieverzoeken',
-    'plans.subscription.lifetimeMember': 'U hebt een levenslang lidmaatschap',
-    'plans.lifetime.announcement': 'U hebt nu een beperkte kans om levenslang lid te worden! Check it out!'
+    'plans.subscription.lifetimeMember': 'U hebt een levenslang lidmaatschap'
 };

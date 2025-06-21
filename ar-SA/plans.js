@@ -321,6 +321,5 @@ export default {
     'plans.lifetime.subscription.benefit2': 'تصميم صورة رمزية مخصصة',
     'plans.lifetime.subscription.benefit3': 'مكالمات الفريق الشهرية',
     'plans.lifetime.subscription.benefit4': 'أولوية طلب الميزة',
-    'plans.subscription.lifetimeMember': 'لديك عضوية مدى الحياة',
-    'plans.lifetime.announcement': 'لديك الآن فرصة محدودة للحصول على عضوية مدى الحياة! تحقق من ذلك!'
+    'plans.subscription.lifetimeMember': 'لديك عضوية مدى الحياة'
 };

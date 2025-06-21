@@ -118,7 +118,9 @@ export default {
     'story.note.fanfiction': 'NOTA: Esta história é uma ficção de fãs no universo {universe}.',
     copyrights: 'Direitos de autor',
     'common.challenges': 'Desafios',
-    'notice.thankYou': 'Obrigado pelo seu apoio!',
+    // for beta only
+    'beta.notice': 'Bem-vindo ao Universo Literário BETA! Estamos entusiasmados por lhe dizer que vamos lançar oficialmente o nosso site esta sexta-feira! Esperamos que se junte a nós e nos apoie no início de um novo capítulo da nossa viagem.',
+    'beta.thanks': 'Obrigado pelo seu apoio!',
     'scratchpad.about': 'As suas notas e ideias estão acessíveis em qualquer lugar no site.',
     'common.feedback': 'Feedback',
     'common.createdOn': 'Criado no {date, date, long}',
@@ -300,5 +302,6 @@ export default {
     'common.aiContent.indicator': 'Conteúdo gerado por IA',
     'common.aiContent.tooltip': 'Este conteúdo foi criado com a ajuda da IA',
     'common.aiContent.model': 'Modelo AI: {model}',
-    'common.aiContent.custom': 'Modelo de IA personalizado'
+    'common.aiContent.custom': 'Modelo de IA personalizado',
+    'common.viewAll': 'Ver tudo'
 };

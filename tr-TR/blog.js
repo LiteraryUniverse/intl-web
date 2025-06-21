@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': '{usernameDisplay}tarafından yazıldı',
     'blog.post.writtenByFor': '{usernameDisplay} tarafından {publicationName}için yazıldı',
     'blog.posts.recent': 'Son gönderiler',
-    'blog.statsPage': 'Blog istatistikleri'
+    'blog.statsPage': 'Blog istatistikleri',
+    'blog.view': 'Blogu Görüntüle'
 };
