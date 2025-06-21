@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Ditulis oleh {usernameDisplay}',
     'blog.post.writtenByFor': 'Ditulis oleh {usernameDisplay} untuk {publicationName}',
     'blog.posts.recent': 'Posting terbaru',
-    'blog.statsPage': 'Statistik blog'
+    'blog.statsPage': 'Statistik blog',
+    'blog.view': 'Lihat Blog'
 };
