@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': 'Γραμμένο από τον {usernameDisplay}',
     'blog.post.writtenByFor': 'Γραμμένο από τον {usernameDisplay} για τον {publicationName}',
     'blog.posts.recent': 'Πρόσφατες αναρτήσεις',
-    'blog.statsPage': 'Στατιστικά ιστολογίου'
+    'blog.statsPage': 'Στατιστικά ιστολογίου',
+    'blog.view': 'Προβολή ιστολογίου'
 };
