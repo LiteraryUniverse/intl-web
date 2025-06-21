@@ -53,5 +53,6 @@ export default {
     'blog.post.writtenBy': 'Geschreven door {usernameDisplay}',
     'blog.post.writtenByFor': 'Geschreven door {usernameDisplay} voor {publicationName}',
     'blog.posts.recent': 'Recente berichten',
-    'blog.statsPage': 'Blog statistieken'
+    'blog.statsPage': 'Blog statistieken',
+    'blog.view': 'Bekijk blog'
 };
