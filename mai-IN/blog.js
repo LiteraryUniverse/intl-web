@@ -54,5 +54,6 @@ export default {
     'blog.post.writtenBy': '{usernameDisplay}द्वारा लेखित',
     'blog.post.writtenByFor': '{usernameDisplay} द्वारा {publicationName}को लागि लेखित',
     'blog.posts.recent': 'हालको पोस्टहरू',
-    'blog.statsPage': 'ब्लॉग आँकड़े'
+    'blog.statsPage': 'ब्लॉग आँकड़े',
+    'blog.view': 'View Blog'
 };
