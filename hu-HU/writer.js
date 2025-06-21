@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Adjon meg egy URL-t',
     'writer.link.error.empty': 'Az URL nem lehet üres',
     'writer.link.error.invalid': 'Kérjük, adjon meg egy érvényes URL-t',
+    'writer.fontFamily': 'Betűcsalád',
+    'writer.fontFamily.select': 'Betűtípus kiválasztása',
     'writer.publish.publishAria': 'Közzétételi lehetőségek',
     'writer.publish.scheduleExplained': 'Vagy azonnal közzéteheted, vagy időzítheted a fejezetet, hogy később elérhető legyen.',
     'writer.publish.schedule': 'Beállítás közzététel dátum és idő',
