@@ -21,6 +21,8 @@ export default {
     'writer.link.placeholder': 'Введите URL-адрес',
     'writer.link.error.empty': 'URL не может быть пустым',
     'writer.link.error.invalid': 'Пожалуйста, введите правильный URL',
+    'writer.fontFamily': 'Семейство шрифтов',
+    'writer.fontFamily.select': 'Выберите шрифт',
     'writer.publish.publishAria': 'Настройки публикации',
     'writer.publish.scheduleExplained': 'Вы можете опубликовать главу сразу или запланировать её появление на более поздний срок.',
     'writer.publish.schedule': 'Установить дату и время публикации',
