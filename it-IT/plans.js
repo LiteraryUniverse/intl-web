@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Design personalizzato dell\'avatar',
     'plans.lifetime.subscription.benefit3': 'Chiamate mensili del team',
     'plans.lifetime.subscription.benefit4': 'Priorità della richiesta di funzionalità',
-    'plans.subscription.lifetimeMember': 'Lei ha un\'iscrizione a vita'
+    'plans.subscription.lifetimeMember': 'Lei ha un\'iscrizione a vita',
+    'plans.lifetime.announcement': 'Ora ha un\'opportunità limitata di diventare membro a vita! Lo guardi!'
 };
