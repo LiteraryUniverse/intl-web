@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια της AI',
     'common.aiContent.model': 'Μοντέλο AI: {model}',
     'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI',
-    'common.viewAll': 'Προβολή όλων'
+    'common.viewAll': 'Προβολή όλων',
+    'notice.thankYou': 'Σας ευχαριστούμε για την υποστήριξή σας!'
 };
