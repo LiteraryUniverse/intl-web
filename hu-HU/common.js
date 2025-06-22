@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Ez a tartalom mesterséges intelligencia segítségével készült',
     'common.aiContent.model': 'AI modell: {model}',
     'common.aiContent.custom': 'Egyedi AI modell',
-    'common.viewAll': 'Minden megtekintése'
+    'common.viewAll': 'Minden megtekintése',
+    'notice.thankYou': 'Köszönjük a támogatást!'
 };
