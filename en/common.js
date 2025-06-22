@@ -338,4 +338,5 @@ export default {
   'common.aiContent.custom': 'Custom AI model',
 
   'common.viewAll': 'View All',
+  'notice.thankYou': 'Thank you for your support!'
 }
