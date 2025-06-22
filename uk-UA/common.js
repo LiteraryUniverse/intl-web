@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Цей контент створено за допомогою штучного інтелекту',
     'common.aiContent.model': 'Модель штучного інтелекту: {model}',
     'common.aiContent.custom': 'Спеціальна модель ШІ',
-    'common.viewAll': 'Переглянути всі'
+    'common.viewAll': 'Переглянути всі',
+    'notice.thankYou': 'Дякуємо за вашу підтримку!'
 };
