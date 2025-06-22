@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Benutzerdefiniertes Avatar-Design',
     'plans.lifetime.subscription.benefit3': 'Monatliche Teamgespräche',
     'plans.lifetime.subscription.benefit4': 'Priorität der Feature-Anfrage',
-    'plans.subscription.lifetimeMember': 'Sie haben eine lebenslange Mitgliedschaft'
+    'plans.subscription.lifetimeMember': 'Sie haben eine lebenslange Mitgliedschaft',
+    'plans.lifetime.announcement': 'Sie haben jetzt eine begrenzte Gelegenheit, eine lebenslange Mitgliedschaft zu erwerben! Probieren Sie es aus!'
 };
