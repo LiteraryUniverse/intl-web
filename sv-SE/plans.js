@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Anpassad avatardesign',
     'plans.lifetime.subscription.benefit3': 'Månatliga teamsamtal',
     'plans.lifetime.subscription.benefit4': 'Prioritering av funktionsbegäran',
-    'plans.subscription.lifetimeMember': 'Du har ett livslångt medlemskap'
+    'plans.subscription.lifetimeMember': 'Du har ett livslångt medlemskap',
+    'plans.lifetime.announcement': 'Du har nu en begränsad möjlighet att få livstids medlemskap! Kolla in det här!'
 };
