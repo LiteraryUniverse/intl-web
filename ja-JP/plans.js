@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'カスタムアバターデザイン',
     'plans.lifetime.subscription.benefit3': '月1回のチーム・コール',
     'plans.lifetime.subscription.benefit4': '機能リクエストの優先順位',
-    'plans.subscription.lifetimeMember': '終身会員'
+    'plans.subscription.lifetimeMember': '終身会員',
+    'plans.lifetime.announcement': '終身会員になるチャンスは限られています！ぜひご覧ください！'
 };

@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Dette indhold blev skabt med AI-assistance',
     'common.aiContent.model': 'AI-model: {model}',
     'common.aiContent.custom': 'Brugerdefineret AI-model',
-    'common.viewAll': 'Se alle'
+    'common.viewAll': 'Se alle',
+    'notice.thankYou': 'Tak for din støtte!'
 };

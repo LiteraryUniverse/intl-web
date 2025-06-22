@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Acest conținut a fost creat cu ajutorul AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Model AI personalizat',
-    'common.viewAll': 'Vezi toate'
+    'common.viewAll': 'Vezi toate',
+    'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!'
 };

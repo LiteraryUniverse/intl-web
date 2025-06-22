@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Konten ini dibuat dengan bantuan AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Model AI khusus',
-    'common.viewAll': 'Lihat Semua'
+    'common.viewAll': 'Lihat Semua',
+    'notice.thankYou': 'Terima kasih atas dukungan Anda!'
 };

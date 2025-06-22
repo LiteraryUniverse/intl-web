@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Design avatar personalizat',
     'plans.lifetime.subscription.benefit3': 'Convorbiri lunare cu echipa',
     'plans.lifetime.subscription.benefit4': 'Prioritatea cererii de caracteristici',
-    'plans.subscription.lifetimeMember': 'Aveți un abonament pe viață'
+    'plans.subscription.lifetimeMember': 'Aveți un abonament pe viață',
+    'plans.lifetime.announcement': 'Aveți acum o oportunitate limitată de a deveni membru pe viață! Verifică-l!'
 };

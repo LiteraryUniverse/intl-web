@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Brugerdefineret avatar-design',
     'plans.lifetime.subscription.benefit3': 'Månedlige teamopkald',
     'plans.lifetime.subscription.benefit4': 'Prioritering af anmodninger om funktioner',
-    'plans.subscription.lifetimeMember': 'Du har et livstidsmedlemskab'
+    'plans.subscription.lifetimeMember': 'Du har et livstidsmedlemskab',
+    'plans.lifetime.announcement': 'Du har nu en begrænset mulighed for at få livstidsmedlemskab! Tjek det ud!'
 };

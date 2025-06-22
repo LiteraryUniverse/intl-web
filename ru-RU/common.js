@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Этот контент был создан с помощью искусственного интеллекта',
     'common.aiContent.model': 'Модель AI: {model}',
     'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта',
-    'common.viewAll': 'Смотреть все'
+    'common.viewAll': 'Смотреть все',
+    'notice.thankYou': 'Спасибо за Вашу поддержку!'
 };

@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Detta innehåll skapades med hjälp av AI',
     'common.aiContent.model': 'AI Modell: {model}',
     'common.aiContent.custom': 'Anpassad AI-modell',
-    'common.viewAll': 'Visa alla'
+    'common.viewAll': 'Visa alla',
+    'notice.thankYou': 'Tack för ert stöd!'
 };

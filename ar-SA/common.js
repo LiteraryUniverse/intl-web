@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
     'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
     'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
-    'common.viewAll': 'عرض الكل'
+    'common.viewAll': 'عرض الكل',
+    'notice.thankYou': 'شكراً لك على دعمك!'
 };

@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Diseño personalizado de avatares',
     'plans.lifetime.subscription.benefit3': 'Llamadas mensuales al equipo',
     'plans.lifetime.subscription.benefit4': 'Prioridad de la solicitud de características',
-    'plans.subscription.lifetimeMember': 'Usted es miembro de por vida'
+    'plans.subscription.lifetimeMember': 'Usted es miembro de por vida',
+    'plans.lifetime.announcement': '¡Ahora tiene una oportunidad limitada de hacerse miembro de por vida! ¡Compruébelo!'
 };
