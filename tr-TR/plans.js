@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Özel avatar tasarımı',
     'plans.lifetime.subscription.benefit3': 'Aylık ekip görüşmeleri',
     'plans.lifetime.subscription.benefit4': 'Özellik isteği önceliği',
-    'plans.subscription.lifetimeMember': 'Ömür boyu üyeliğiniz var'
+    'plans.subscription.lifetimeMember': 'Ömür boyu üyeliğiniz var',
+    'plans.lifetime.announcement': 'Şimdi ömür boyu üyelik kazanmak için sınırlı bir fırsatınız var! Bir göz atın!'
 };
