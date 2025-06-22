@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Desain avatar khusus',
     'plans.lifetime.subscription.benefit3': 'Panggilan tim bulanan',
     'plans.lifetime.subscription.benefit4': 'Prioritas permintaan fitur',
-    'plans.subscription.lifetimeMember': 'Anda memiliki keanggotaan seumur hidup'
+    'plans.subscription.lifetimeMember': 'Anda memiliki keanggotaan seumur hidup',
+    'plans.lifetime.announcement': 'Sekarang Anda memiliki kesempatan terbatas untuk mendapatkan keanggotaan seumur hidup! Lihatlah!'
 };
