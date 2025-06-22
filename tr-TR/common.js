@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Bu içerik yapay zeka yardımı ile oluşturulmuştur',
     'common.aiContent.model': 'AI Modeli: {model}',
     'common.aiContent.custom': 'Özel yapay zeka modeli',
-    'common.viewAll': 'Tümünü Görüntüle'
+    'common.viewAll': 'Tümünü Görüntüle',
+    'notice.thankYou': 'Desteğiniz için teşekkür ederiz!'
 };
