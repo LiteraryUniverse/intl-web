@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Tento obsah bol vytvorený s pomocou AI',
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Vlastný model AI',
-    'common.viewAll': 'Zobraziť všetko'
+    'common.viewAll': 'Zobraziť všetko',
+    'notice.thankYou': 'Ďakujeme vám za podporu!'
 };
