@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'See sisu loodi tehisintellekti abiga',
     'common.aiContent.model': 'AI mudel: {model}',
     'common.aiContent.custom': 'Kohandatud tehisintellekti mudel',
-    'common.viewAll': 'Vaata kõiki'
+    'common.viewAll': 'Vaata kõiki',
+    'notice.thankYou': 'Täname teid toetuse eest!'
 };
