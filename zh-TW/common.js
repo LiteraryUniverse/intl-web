@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': '本內容由 AI 協助建立',
     'common.aiContent.model': 'AI 機型： {model}',
     'common.aiContent.custom': '自訂 AI 模型',
-    'common.viewAll': '檢視全部'
+    'common.viewAll': '檢視全部',
+    'notice.thankYou': '感謝您的支持！'
 };
