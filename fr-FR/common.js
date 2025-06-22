@@ -303,5 +303,6 @@ export default {
     'common.aiContent.tooltip': 'Ce contenu a été créé avec l\'aide de l\'IA',
     'common.aiContent.model': 'Modèle AI : {model}',
     'common.aiContent.custom': 'Modèle d\'IA personnalisé',
-    'common.viewAll': 'Voir tout'
+    'common.viewAll': 'Voir tout',
+    'notice.thankYou': 'Merci pour votre soutien !'
 };
