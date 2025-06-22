@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': '自訂頭像設計',
     'plans.lifetime.subscription.benefit3': '每月團隊通話',
     'plans.lifetime.subscription.benefit4': '功能請求優先順序',
-    'plans.subscription.lifetimeMember': '您擁有終身會員資格'
+    'plans.subscription.lifetimeMember': '您擁有終身會員資格',
+    'plans.lifetime.announcement': '現在您有一個有限的機會獲得終身會員資格！快來看看'
 };
