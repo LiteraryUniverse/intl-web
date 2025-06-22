@@ -321,5 +321,6 @@ export default {
     'plans.lifetime.subscription.benefit2': 'Niestandardowy projekt awatara',
     'plans.lifetime.subscription.benefit3': 'Comiesięczne rozmowy z zespołem',
     'plans.lifetime.subscription.benefit4': 'Priorytet żądania funkcji',
-    'plans.subscription.lifetimeMember': 'Mają Państwo dożywotnie członkostwo'
+    'plans.subscription.lifetimeMember': 'Mają Państwo dożywotnie członkostwo',
+    'plans.lifetime.announcement': 'Mają Państwo teraz ograniczoną możliwość uzyskania dożywotniego członkostwa! Proszę sprawdzić!'
 };
