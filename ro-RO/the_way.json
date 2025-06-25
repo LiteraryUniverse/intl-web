@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "De câte ori a fost deschisă povestea dvs. este cel mai puțin important parametru, dar este o cifră de început bună pentru a începe discuțiile despre lucruri mai importante. Cel puțin o analiză mai detaliată ne poate spune dacă vă pricepeți la marketing sau la storytelling.",
   "theWay.task.storiesTranslationReaders.title": "Câștigați cititori pe baza traducerilor",
   "theWay.task.storiesTranslationReaders.progress": "Cititori actuali pe traduceri: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Acum mergem mai departe! Să vedem dacă îi puteți interesa pe oamenii din afara limbii dvs. materne."
+  "theWay.task.storiesTranslationReaders.description": "Acum mergem mai departe! Să vedem dacă îi puteți interesa pe oamenii din afara limbii dvs. materne.",
+  "theWay.task.universePublicationCount.title": "Publicarea universurilor",
+  "theWay.task.universePublicationCount.progress": "Universuri actuale publicate: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Nimic nu se întâmplă în vid. Este esențial să ai un univers pe care îl poți construi și împărtăși între povestiri sau doar pentru a oferi mai multă profunzime scrierii tale."
 }
