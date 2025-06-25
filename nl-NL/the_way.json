@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Wat is het doel van De Weg van de Auteur?",
   "theWay.goToGuides.primer": "Zit u vast met schrijven? Word lid van onze community voor tips en trucs!",
   "theWay.goToFullDashboard": "Ga naar Dashboardstatistieken",
-  "theWay.progress.byGenre": "Vooruitgang per genre",
-  "theyWay.achieve.title": "Bereik niveau {level, number} in {genre}"
+  "theWay.progress": "Vooruitgang naar het volgende niveau",
+  "theWay.nextLevel.requiredTasks": "Vereiste taken",
+  "theWay.nextLevel.optionalTasks": "Optionele taken",
+  "theWay.genre.general": "Algemeen",
+  "theWay.nextLevel.optionalTasksRequired": "U moet ten minste {neededOptionals, number} optioneel {tasks, plural, one {taak} other {taken}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Publiceer een jaar lang elke maand minstens één hoofdstuk",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Huidige streak: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Mis niets! Publiceer het hoofdstuk van deze maand in de volgende {currentValue, number} {currentValue, plural, one {dag} other {dagen}}."
 }
