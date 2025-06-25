@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Hoe vaak uw verhaal geopend is, is de minst belangrijke maatstaf, maar het is een goed openingsgetal om discussies te starten over de belangrijkere dingen. Als we hier in meer detail naar kijken, kunnen we op zijn minst zien of u goed bent in marketing versus storytelling.",
   "theWay.task.storiesTranslationReaders.title": "Lezers winnen op vertalingen",
   "theWay.task.storiesTranslationReaders.progress": "Huidige lezers op vertalingen: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Nu komen we ergens! Laten we eens kijken of u mensen buiten uw moedertaal kunt interesseren."
+  "theWay.task.storiesTranslationReaders.description": "Nu komen we ergens! Laten we eens kijken of u mensen buiten uw moedertaal kunt interesseren.",
+  "theWay.task.universePublicationCount.title": "Universums publiceren",
+  "theWay.task.universePublicationCount.progress": "Huidige gepubliceerde universums: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Er gebeurt niet veel in een vacuüm. Het is essentieel om een universum te hebben dat u kunt opbouwen en delen tussen verhalen of gewoon om meer diepte aan uw schrijven te geven."
 }
