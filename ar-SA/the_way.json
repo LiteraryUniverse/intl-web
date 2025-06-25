@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "عدد المرات التي تم فيها فتح قصتك هو المقياس الأقل أهمية، لكنه رقم افتتاحي جيد لبدء المناقشات حول الأمور الأكثر أهمية. على الأقل النظر في هذا الأمر بمزيد من التفصيل يمكن أن يخبرنا ما إذا كنت جيدًا في التسويق مقابل سرد القصص.",
   "theWay.task.storiesTranslationReaders.title": "اكتساب القراء على الترجمات",
   "theWay.task.storiesTranslationReaders.progress": "القراء الحاليون على الترجمات {currentValue, number}/ ~{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "الآن نحن ذاهبون إلى أماكن أخرى! دعنا نرى ما إذا كان بإمكانك إثارة اهتمام الناس خارج لغتك الأم."
+  "theWay.task.storiesTranslationReaders.description": "الآن نحن ذاهبون إلى أماكن أخرى! دعنا نرى ما إذا كان بإمكانك إثارة اهتمام الناس خارج لغتك الأم.",
+  "theWay.task.universePublicationCount.title": "نشر الأكوان",
+  "theWay.task.universePublicationCount.progress": "الأكوان الحالية المنشورة: {currentValue, number}/ ~{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "لا يحدث الكثير من الأشياء في الفراغ. من الضروري أن يكون لديك عالم يمكنك بناءه ومشاركته بين القصص أو لمجرد إضفاء المزيد من العمق على كتاباتك."
 }
