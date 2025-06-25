@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'Modelo AI: {model}',
     'common.aiContent.custom': 'Modelo de IA personalizado',
     'common.viewAll': 'Ver tudo',
-    'notice.thankYou': 'Obrigado pelo seu apoio!'
+    'notice.thankYou': 'Obrigado pelo seu apoio!',
+    'common.dropImageHere': 'Coloque uma imagem aqui'
 };
