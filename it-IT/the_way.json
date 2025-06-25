@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Qual è lo scopo della Via dell'Autore?",
   "theWay.goToGuides.primer": "Si sente bloccato nella scrittura? Si unisca alla nostra comunità per ricevere suggerimenti e trucchi!",
   "theWay.goToFullDashboard": "Vai al cruscotto Statistiche",
-  "theWay.progress.byGenre": "Progressi per genere",
-  "theyWay.achieve.title": "Raggiunga il livello {level, number} in {genre}"
+  "theWay.progress": "Progressi verso il livello successivo",
+  "theWay.nextLevel.requiredTasks": "Compiti richiesti",
+  "theWay.nextLevel.optionalTasks": "Compiti opzionali",
+  "theWay.genre.general": "Generale",
+  "theWay.nextLevel.optionalTasksRequired": "Deve completare almeno {neededOptionals, number} opzionale {tasks, plural, one {compito} other {compiti}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Pubblichi almeno un capitolo al mese per un anno.",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Striscia attuale: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Non si perda! Pubblichi il capitolo di questo mese nel prossimo {currentValue, number} {currentValue, plural, one {giorno} other {giorni}}."
 }
