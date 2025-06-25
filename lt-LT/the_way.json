@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Koks yra \"Autoriaus kelio\" tikslas?",
   "theWay.goToGuides.primer": "Jaučiatės įstrigę rašydami? Prisijunkite prie mūsų bendruomenės, kad gautumėte patarimų ir gudrybių!",
   "theWay.goToFullDashboard": "Eikite į prietaisų skydelio statistiką",
-  "theWay.progress.byGenre": "Pažanga pagal žanrą",
-  "theyWay.achieve.title": "Pasiekti lygį {level, number} {genre}"
+  "theWay.progress": "Pažanga siekiant kito lygio",
+  "theWay.nextLevel.requiredTasks": "Reikalingos užduotys",
+  "theWay.nextLevel.optionalTasks": "Neprivalomos užduotys",
+  "theWay.genre.general": "Bendra",
+  "theWay.nextLevel.optionalTasksRequired": "Turite atlikti bent {neededOptionals, number} neprivalomą {tasks, plural, one {užduotį} other {užduotis}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Vienerius metus kas mėnesį publikuokite bent po vieną skyrių.",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Dabartinė serija: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Nepraleiskite progos! Paskelbkite šio mėnesio skyrių kitame {currentValue, number} {currentValue, plural, one {dienos} other {dienos}}."
 }
