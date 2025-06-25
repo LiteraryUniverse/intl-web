@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "To, ile razy Państwa historia została otwarta, jest najmniej ważnym wskaźnikiem, ale jest to dobra liczba początkowa, aby rozpocząć dyskusję na temat ważniejszych rzeczy. Przynajmniej przyjrzenie się temu bardziej szczegółowo może nam powiedzieć, czy są Państwo dobrzy w marketingu, czy w storytellingu.",
   "theWay.task.storiesTranslationReaders.title": "Pozyskiwanie czytelników dzięki tłumaczeniom",
   "theWay.task.storiesTranslationReaders.progress": "Obecni czytelnicy na tłumaczeniach: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Teraz idziemy w różne miejsca! Zobaczmy, czy potrafi Pan zainteresować ludzi poza swoim językiem ojczystym."
+  "theWay.task.storiesTranslationReaders.description": "Teraz idziemy w różne miejsca! Zobaczmy, czy potrafi Pan zainteresować ludzi poza swoim językiem ojczystym.",
+  "theWay.task.universePublicationCount.title": "Publikowanie wszechświatów",
+  "theWay.task.universePublicationCount.progress": "Aktualnie opublikowane wszechświaty: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Nic nie dzieje się w próżni. Posiadanie uniwersum, które można budować i dzielić się nim między historiami lub po prostu w celu nadania pisaniu większej głębi, jest niezbędne."
 }
