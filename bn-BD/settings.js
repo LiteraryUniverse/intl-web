@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identity',
     'settings.profile.about': 'About You',
     'settings.profile.basic.description': 'Manage your basic profile information that will be visible to other users.',
-    'settings.interest.title': 'Your Interests',
+    'settings.interests.title': 'Your Interests',
     'settings.account': 'অ্যাকাউন্ট সেটিংস',
     'settings.legal.export.download': 'আপনার ডেটা ডাউনলোড করুন',
     'settings.legal.export.gathering': 'আপনার ডেটা সংগ্রহ করা হচ্ছে... এটি একটু সময় নিতে পারে।',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'ডেটা রপ্তানি করুন এবং অ্যাকাউন্ট মুছে ফেলুন',
     'settings.languages.uiLanguage': 'Interface language',
     'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.',
+    'settings.biography.help': 'Tell others about yourself',
+    'settings.username.help': 'Your unique username on the platform'
 };
