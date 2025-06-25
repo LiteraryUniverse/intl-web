@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Яка мета \"Шляху автора\"?",
   "theWay.goToGuides.primer": "Відчуваєте, що застрягли з написанням? Приєднуйтесь до нашої спільноти, щоб отримати поради та підказки!",
   "theWay.goToFullDashboard": "Перейдіть до статистики інформаційної панелі",
-  "theWay.progress.byGenre": "Прогрес за жанрами",
-  "theyWay.achieve.title": "Досягніть рівня {level, number} у {genre}"
+  "theWay.progress": "Перехід на наступний рівень",
+  "theWay.nextLevel.requiredTasks": "Необхідні завдання",
+  "theWay.nextLevel.optionalTasks": "Додаткові завдання",
+  "theWay.genre.general": "Генерал",
+  "theWay.nextLevel.optionalTasksRequired": "Вам потрібно виконати щонайменше {neededOptionals, number} необов'язкове {tasks, plural, one {завдання} other {завдання}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Публікуйте принаймні один розділ щомісяця протягом року",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Поточна серія: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Не пропустіть! Опублікуйте главу цього місяця в наступному {currentValue, number} {currentValue, plural, one {дні} other {дні}}."
 }
