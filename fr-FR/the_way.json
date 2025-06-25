@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Quel est l'objectif de la Voie de l'auteur ?",
   "theWay.goToGuides.primer": "Vous vous sentez bloqué dans votre écriture ? Rejoignez notre communauté pour obtenir des conseils et des astuces !",
   "theWay.goToFullDashboard": "Accéder aux statistiques du tableau de bord",
-  "theWay.progress.byGenre": "Progression par genre",
-  "theyWay.achieve.title": "Atteindre le niveau {level, number} dans {genre}"
+  "theWay.progress": "Progression vers le niveau suivant",
+  "theWay.nextLevel.requiredTasks": "Tâches requises",
+  "theWay.nextLevel.optionalTasks": "Tâches facultatives",
+  "theWay.genre.general": "Général",
+  "theWay.nextLevel.optionalTasksRequired": "Vous devez compléter au moins {neededOptionals, number} optionnel {tasks, plural, one {tâche} other {tâches}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Publier au moins un chapitre par mois pendant un an",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Trajectoire actuelle : {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Ne manquez pas cette occasion ! Publiez le chapitre de ce mois dans le prochain {currentValue, number} {currentValue, plural, one {jour} other {jours}}."
 }
