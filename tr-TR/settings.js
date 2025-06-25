@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Kimlik',
     'settings.profile.about': 'Senin Hakkında',
     'settings.profile.basic.description': 'Diğer kullanıcılar tarafından görülebilecek temel profil bilgilerinizi yönetin.',
-    'settings.interest.title': 'İlgi Alanlarınız',
+    'settings.interests.title': 'İlgi Alanlarınız',
     'settings.account': 'Hesap ayarları',
     'settings.legal.export.download': 'Verilerinizi İndirin',
     'settings.legal.export.gathering': 'Verileriniz toplanıyor... Bu biraz zaman alabilir.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Verileri dışa aktar ve hesabı sil',
     'settings.languages.uiLanguage': 'Arayüz dili',
     'settings.languages.readingLanguage': 'Okuma dili',
-    'settings.languages.readingLanguageExplained': 'Hikayelere bakarken, aksini belirtmediğiniz sürece size hikayeleri ve çevirilerini bu dilde sunacağız.'
+    'settings.languages.readingLanguageExplained': 'Hikayelere bakarken, aksini belirtmediğiniz sürece size hikayeleri ve çevirilerini bu dilde sunacağız.',
+    'settings.biography.help': 'Başkalarına kendinizden bahsedin',
+    'settings.username.help': 'Platformdaki benzersiz kullanıcı adınız'
 };
