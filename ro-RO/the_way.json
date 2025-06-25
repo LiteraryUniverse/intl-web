@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Care este scopul Căii autorului?",
   "theWay.goToGuides.primer": "Te simți blocat cu scrisul tău? Alătură-te comunității noastre pentru sfaturi și trucuri!",
   "theWay.goToFullDashboard": "Mergeți la Statisticile tabloului de bord",
-  "theWay.progress.byGenre": "Progres în funcție de gen",
-  "theyWay.achieve.title": "Atinge nivelul {level, number} în {genre}"
+  "theWay.progress": "Progres către nivelul următor",
+  "theWay.nextLevel.requiredTasks": "Sarcini necesare",
+  "theWay.nextLevel.optionalTasks": "Sarcini opționale",
+  "theWay.genre.general": "Generalități",
+  "theWay.nextLevel.optionalTasksRequired": "Trebuie să completați cel puțin {neededOptionals, number} opțional {tasks, plural, one {sarcină} other {sarcini}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Publicați cel puțin un capitol în fiecare lună timp de un an",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Traiectorie curentă: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Nu ratați! Publică capitolul din această lună în următoarea {currentValue, number} {currentValue, plural, one {zi} other {zile}}."
 }
