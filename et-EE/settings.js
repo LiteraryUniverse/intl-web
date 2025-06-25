@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identiteet',
     'settings.profile.about': 'Sinust',
     'settings.profile.basic.description': 'Halda oma põhilisi profiiliandmeid, mis on teistele kasutajatele nähtavad.',
-    'settings.interest.title': 'Teie huvid',
+    'settings.interests.title': 'Teie huvid',
     'settings.account': 'Konto seaded',
     'settings.legal.export.download': 'Laadi oma andmed alla',
     'settings.legal.export.gathering': 'Andmete kogumine... See võib võtta aega.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Ekspordi andmed ja kustuta konto',
     'settings.languages.uiLanguage': 'Kasutajaliidese keel',
     'settings.languages.readingLanguage': 'Keele lugemine',
-    'settings.languages.readingLanguageExplained': 'Lugude otsimisel pakume teile lugusid ja nende tõlkeid selles keeles, kui te ei täpsusta teisiti.'
+    'settings.languages.readingLanguageExplained': 'Lugude otsimisel pakume teile lugusid ja nende tõlkeid selles keeles, kui te ei täpsusta teisiti.',
+    'settings.biography.help': 'Räägi teistele endast',
+    'settings.username.help': 'Teie unikaalne kasutajanimi platvormil'
 };
