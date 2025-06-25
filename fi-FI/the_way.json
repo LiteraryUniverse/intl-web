@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Mikä on Kirjailijan tien tarkoitus?",
   "theWay.goToGuides.primer": "Tunnetko olevasi jumissa kirjoittamisen kanssa? Liity yhteisöömme saadaksesi vinkkejä ja niksejä!",
   "theWay.goToFullDashboard": "Siirry kojelaudan tilastoihin",
-  "theWay.progress.byGenre": "Edistyminen genreittäin",
-  "theyWay.achieve.title": "Saavuta taso {level, number} osoitteessa {genre}."
+  "theWay.progress": "Edistyminen kohti seuraavaa tasoa",
+  "theWay.nextLevel.requiredTasks": "Tarvittavat tehtävät",
+  "theWay.nextLevel.optionalTasks": "Valinnaiset tehtävät",
+  "theWay.genre.general": "Yleistä",
+  "theWay.nextLevel.optionalTasksRequired": "Sinun on suoritettava vähintään {neededOptionals, number} valinnainen {tasks, plural, one {tehtävä} other {tehtävät}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Julkaise vähintään yksi luku joka kuukausi vuoden ajan.",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Nykyinen putki: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Älä jää paitsi! Julkaise tämän kuukauden luku seuraavassa {currentValue, number} {currentValue, plural, one {päivä} other {päivää}}."
 }
