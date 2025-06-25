@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "See, mitu korda teie lugu on avatud, on kõige vähem oluline mõõdik, kuid see on hea avanumber, et alustada arutelusid olulisemate asjade üle. Vähemalt selle põhjalikum vaatamine võib meile öelda, kas te olete hea turunduses vs. lugude jutustamises.",
   "theWay.task.storiesTranslationReaders.title": "Saada lugejaid tõlgetest",
   "theWay.task.storiesTranslationReaders.progress": "Praegused lugejad tõlgete kohta: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Nüüd me läheme kuhugi! Vaatame, kas te suudate huvitada inimesi väljaspool oma emakeelt."
+  "theWay.task.storiesTranslationReaders.description": "Nüüd me läheme kuhugi! Vaatame, kas te suudate huvitada inimesi väljaspool oma emakeelt.",
+  "theWay.task.universePublicationCount.title": "Avalda universumeid",
+  "theWay.task.universePublicationCount.progress": "Praegused avaldatud universumid: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Miski ei toimu vaakumis. Oluline on omada universumit, mida saab üles ehitada ja jagada lugude vahel või lihtsalt oma kirjutisele sügavuse andmiseks."
 }
