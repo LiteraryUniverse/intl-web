@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Mi a szerző útjának célja?",
   "theWay.goToGuides.primer": "Úgy érzed, elakadtál az írásoddal? Csatlakozz közösségünkhöz, hogy tippeket és trükköket kapj!",
   "theWay.goToFullDashboard": "Menjen a műszerfal statisztikákhoz",
-  "theWay.progress.byGenre": "Fejlődés műfajok szerint",
-  "theyWay.achieve.title": "Achieve level {level, number} in {genre}"
+  "theWay.progress": "Haladás a következő szint felé",
+  "theWay.nextLevel.requiredTasks": "Szükséges feladatok",
+  "theWay.nextLevel.optionalTasks": "Választható feladatok",
+  "theWay.genre.general": "Általános",
+  "theWay.nextLevel.optionalTasksRequired": "Legalább a {neededOptionals, number} opcionális {tasks, plural, one {feladatot} other {feladatokat}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Egy éven keresztül havonta legalább egy fejezet közzététele",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Jelenlegi sorozat: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Ne hagyja ki! Az e havi fejezetet a következő {currentValue, number} {currentValue, plural, one {nap} other {napok}}."
 }
