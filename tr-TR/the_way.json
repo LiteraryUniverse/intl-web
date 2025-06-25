@@ -30,6 +30,12 @@
   "theWay.purpose.question": "The Way of Author'ın amacı nedir?",
   "theWay.goToGuides.primer": "Yazma konusunda takıldığınızı mı hissediyorsunuz? İpuçları ve püf noktaları için topluluğumuza katılın!",
   "theWay.goToFullDashboard": "Gösterge Tablosu İstatistiklerine Git",
-  "theWay.progress.byGenre": "Türe göre ilerleme",
-  "theyWay.achieve.title": "{genre}adresinde {level, number} seviyesine ulaşın"
+  "theWay.progress": "Bir sonraki seviyeye doğru ilerleme",
+  "theWay.nextLevel.requiredTasks": "Gerekli Görevler",
+  "theWay.nextLevel.optionalTasks": "İsteğe Bağlı Görevler",
+  "theWay.genre.general": "Genel",
+  "theWay.nextLevel.optionalTasksRequired": "En az {neededOptionals, number} isteğe bağlı {tasks, plural, one {görev} other {görevler}}tamamlamanız gerekir.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Bir yıl boyunca her ay en az bir bölüm yayınlayın",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Güncel seri: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Kaçırmayın! Bu ayın bölümünü bir sonraki {currentValue, number} {currentValue, plural, one {günde yayınlayın} other {gün}}."
 }
