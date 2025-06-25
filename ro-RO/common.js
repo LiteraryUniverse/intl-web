@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Model AI personalizat',
     'common.viewAll': 'Vezi toate',
-    'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!'
+    'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!',
+    'common.dropImageHere': 'Aruncați o imagine aici'
 };
