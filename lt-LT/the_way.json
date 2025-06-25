@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Tai, kiek kartų jūsų istorija buvo atversta, yra mažiausiai svarbus rodiklis, tačiau tai yra geras pradinis skaičius, nuo kurio galima pradėti diskusijas apie svarbesnius dalykus. Bent jau išsamiau pažvelgus į šį rodiklį galima sužinoti, ar jums gerai sekasi rinkodara, o ne istorijų pasakojimas.",
   "theWay.task.storiesTranslationReaders.title": "Gauti skaitytojų apie vertimus",
   "theWay.task.storiesTranslationReaders.progress": "Dabartiniai skaitytojai apie vertimus: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Dabar mes einame į kitas vietas! Pažiūrėkime, ar galite sudominti žmones ne savo gimtąja kalba."
+  "theWay.task.storiesTranslationReaders.description": "Dabar mes einame į kitas vietas! Pažiūrėkime, ar galite sudominti žmones ne savo gimtąja kalba.",
+  "theWay.task.universePublicationCount.title": "Skelbti visatas",
+  "theWay.task.universePublicationCount.progress": "Paskelbtos dabartinės visatos: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Niekas nevyksta vakuume. Labai svarbu turėti visatą, kurią galite kurti ir dalytis ja tarp istorijų arba tiesiog suteikti rašymui daugiau gilumo."
 }
