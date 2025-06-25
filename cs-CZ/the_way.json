@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Jaký je účel autorské cesty?",
   "theWay.goToGuides.primer": "Cítíte se zaseknutí při psaní? Připojte se k naší komunitě a získejte tipy a triky!",
   "theWay.goToFullDashboard": "Přejít na statistiky přístrojového panelu",
-  "theWay.progress.byGenre": "Pokrok podle žánru",
-  "theyWay.achieve.title": "Dosažení úrovně {level, number} na {genre}"
+  "theWay.progress": "Postup na další úroveň",
+  "theWay.nextLevel.requiredTasks": "Požadované úkoly",
+  "theWay.nextLevel.optionalTasks": "Volitelné úkoly",
+  "theWay.genre.general": "Obecné",
+  "theWay.nextLevel.optionalTasksRequired": "Musíte dokončit alespoň {neededOptionals, number} nepovinné {tasks, plural, one {úkoly} other {úkoly}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Po dobu jednoho roku publikovat každý měsíc alespoň jednu kapitolu.",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Aktuální pruh: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Nenechte si to ujít! Zveřejněte kapitolu tohoto měsíce v příštím {currentValue, number} {currentValue, plural, one {dni} other {dnech}}."
 }
