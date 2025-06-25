@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Hvor mange gange din historie er blevet åbnet, er den mindst vigtige måling, men det er et godt indledende tal at have for at starte diskussioner om de vigtigere ting. I det mindste kan et mere detaljeret kig på dette fortælle os, om du er god til markedsføring eller historiefortælling.",
   "theWay.task.storiesTranslationReaders.title": "Få læsere på oversættelser",
   "theWay.task.storiesTranslationReaders.progress": "Aktuelle læsere på oversættelser: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Nu kommer vi vidt omkring! Lad os se, om du kan interessere folk uden for dit modersmål."
+  "theWay.task.storiesTranslationReaders.description": "Nu kommer vi vidt omkring! Lad os se, om du kan interessere folk uden for dit modersmål.",
+  "theWay.task.universePublicationCount.title": "Udgiv universer",
+  "theWay.task.universePublicationCount.progress": "Nuværende universer offentliggjort: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Der sker ikke meget i et vakuum. Det er vigtigt at have et univers, som du kan bygge op og dele mellem historierne eller bare for at give din tekst mere dybde."
 }
