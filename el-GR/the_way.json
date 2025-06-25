@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Ποιος είναι ο σκοπός του Δρόμου του Συγγραφέα;",
   "theWay.goToGuides.primer": "Αισθάνεστε κολλημένοι με το γράψιμό σας; Γίνετε μέλος της κοινότητάς μας για συμβουλές και κόλπα!",
   "theWay.goToFullDashboard": "Μεταβείτε στο Dashboard Statistics",
-  "theWay.progress.byGenre": "Πρόοδος ανά είδος",
-  "theyWay.achieve.title": "Επίτευξη επιπέδου {level, number} στο {genre}"
+  "theWay.progress": "Πρόοδος προς το επόμενο επίπεδο",
+  "theWay.nextLevel.requiredTasks": "Απαιτούμενες εργασίες",
+  "theWay.nextLevel.optionalTasks": "Προαιρετικές εργασίες",
+  "theWay.genre.general": "Γενικά",
+  "theWay.nextLevel.optionalTasksRequired": "Πρέπει να ολοκληρώσετε τουλάχιστον {neededOptionals, number} προαιρετικά {tasks, plural, one {εργασία} other {εργασίες}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Δημοσιεύστε τουλάχιστον ένα κεφάλαιο κάθε μήνα για ένα έτος",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Τρέχουσα σειρά: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Μην το χάσετε! Δημοσιεύστε το κεφάλαιο αυτού του μήνα στο επόμενο {currentValue, number} {currentValue, plural, one {ημέρα} other {ημέρες}}."
 }
