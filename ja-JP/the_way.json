@@ -30,6 +30,12 @@
   "theWay.purpose.question": "著者の道』の目的は何ですか？",
   "theWay.goToGuides.primer": "執筆に行き詰まりを感じていますか？私たちのコミュニティに参加して、ヒントやコツを見つけましょう！",
   "theWay.goToFullDashboard": "ダッシュボードの統計へ",
-  "theWay.progress.byGenre": "ジャンル別進捗状況",
-  "theyWay.achieve.title": "Achieve level {level, number} in {genre}"
+  "theWay.progress": "次のレベルへ前進",
+  "theWay.nextLevel.requiredTasks": "必須タスク",
+  "theWay.nextLevel.optionalTasks": "オプショナル・タスク",
+  "theWay.genre.general": "一般",
+  "theWay.nextLevel.optionalTasksRequired": "少なくとも {neededOptionals, number} オプション {tasks, plural, one {タスク} other {タスク}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "少なくとも毎月1章を1年間出版すること",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Current streak: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "お見逃しなく！今月のチャプターは次号に掲載 {currentValue, number} {currentValue, plural, one {日} other {日}}."
 }
