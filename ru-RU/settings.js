@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Идентичность',
     'settings.profile.about': 'О себе',
     'settings.profile.basic.description': 'Управляйте основной информацией своего профиля, которая будет видна другим пользователям.',
-    'settings.interest.title': 'Ваши интересы',
+    'settings.interests.title': 'Ваши интересы',
     'settings.account': 'Настройки учётной записи',
     'settings.legal.export.download': 'Скачать данные',
     'settings.legal.export.gathering': 'Сбор ваших данных... Это может занять некоторое время.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Экспорт данных и удаление учётной записи',
     'settings.languages.uiLanguage': 'Язык интерфейса',
     'settings.languages.readingLanguage': 'Язык чтения',
-    'settings.languages.readingLanguageExplained': 'При поиске историй мы будем предлагать вам истории и их переводы на этом языке, если вы не укажете иное.'
+    'settings.languages.readingLanguageExplained': 'При поиске историй мы будем предлагать вам истории и их переводы на этом языке, если вы не укажете иное.',
+    'settings.biography.help': 'Расскажите другим о себе',
+    'settings.username.help': 'Ваше уникальное имя пользователя на платформе'
 };
