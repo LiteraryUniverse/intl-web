@@ -30,6 +30,12 @@
   "theWay.purpose.question": "ما هو الغرض من \"طريق المؤلف\"؟",
   "theWay.goToGuides.primer": "هل تشعر بأنك عالق في الكتابة؟ انضم إلى مجتمعنا للحصول على النصائح والحيل!",
   "theWay.goToFullDashboard": "الانتقال إلى إحصائيات لوحة المعلومات",
-  "theWay.progress.byGenre": "التقدم حسب النوع",
-  "theyWay.achieve.title": "تحقيق المستوى {level, number} في {genre}"
+  "theWay.progress": "التقدم نحو المستوى التالي",
+  "theWay.nextLevel.requiredTasks": "المهام المطلوبة",
+  "theWay.nextLevel.optionalTasks": "المهام الاختيارية",
+  "theWay.genre.general": "جنرال لواء",
+  "theWay.nextLevel.optionalTasksRequired": "تحتاج إلى إكمال ما لا يقل عن {neededOptionals, number} اختياري {tasks, plural, one {مهمة} other {مهام}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "نشر فصل واحد على الأقل كل شهر لمدة عام كامل",
+  "theWay.task.publishingOnceAMonthForYear.progress": "الخط الحالي: {currentValue, number}/ ~{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "لا تفوتك! انشر فصل هذا الشهر في التالي {currentValue, number} {currentValue, plural, one {يوم} other {أيام}}."
 }
