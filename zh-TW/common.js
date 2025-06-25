@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'AI 機型： {model}',
     'common.aiContent.custom': '自訂 AI 模型',
     'common.viewAll': '檢視全部',
-    'notice.thankYou': '感謝您的支持！'
+    'notice.thankYou': '感謝您的支持！',
+    'common.dropImageHere': '在此投放圖片'
 };
