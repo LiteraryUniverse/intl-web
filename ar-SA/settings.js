@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'الهوية',
     'settings.profile.about': 'نبذة عنك',
     'settings.profile.basic.description': 'قم بإدارة معلومات ملفك الشخصي الأساسية التي ستكون مرئية للمستخدمين الآخرين.',
-    'settings.interest.title': 'اهتماماتك',
+    'settings.interests.title': 'اهتماماتك',
     'settings.account': 'إعدادات الحساب',
     'settings.legal.export.download': 'تنزيل بياناتك',
     'settings.legal.export.gathering': 'جمع بياناتك... قد يستغرق ذلك بعض الوقت.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'تصدير البيانات وحذف الحساب',
     'settings.languages.uiLanguage': 'لغة الواجهة',
     'settings.languages.readingLanguage': 'لغة القراءة',
-    'settings.languages.readingLanguageExplained': 'عند البحث عن القصص سنقدم لك القصص وترجماتها بهذه اللغة ما لم تحدد خلاف ذلك.'
+    'settings.languages.readingLanguageExplained': 'عند البحث عن القصص سنقدم لك القصص وترجماتها بهذه اللغة ما لم تحدد خلاف ذلك.',
+    'settings.biography.help': 'أخبر الآخرين عن نفسك',
+    'settings.username.help': 'اسم المستخدم الفريد الخاص بك على المنصة'
 };
