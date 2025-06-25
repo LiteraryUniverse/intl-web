@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Hur många gånger din berättelse har öppnats är det minst viktiga måttet, men det är en bra öppningssiffra att ha för att starta diskussioner om de viktigare sakerna. Om vi tittar närmare på detta kan vi åtminstone få reda på om du är bra på marknadsföring eller storytelling.",
   "theWay.task.storiesTranslationReaders.title": "Få läsare på översättningar",
   "theWay.task.storiesTranslationReaders.progress": "Aktuella läsare på översättningar: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Nu är vi på väg någonstans! Låt oss se om du kan intressera människor utanför ditt modersmål."
+  "theWay.task.storiesTranslationReaders.description": "Nu är vi på väg någonstans! Låt oss se om du kan intressera människor utanför ditt modersmål.",
+  "theWay.task.universePublicationCount.title": "Publicera universum",
+  "theWay.task.universePublicationCount.progress": "Nuvarande universum publicerade: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Det är inte mycket som händer i ett vakuum. Det är viktigt att ha ett universum som du kan bygga upp och dela mellan berättelserna eller bara för att ge mer djup åt ditt skrivande."
 }
