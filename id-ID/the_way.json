@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Apa tujuan dari The Way of Author?",
   "theWay.goToGuides.primer": "Merasa buntu dengan tulisan Anda? Bergabunglah dengan komunitas kami untuk mendapatkan tips dan trik!",
   "theWay.goToFullDashboard": "Buka Statistik Dasbor",
-  "theWay.progress.byGenre": "Kemajuan berdasarkan genre",
-  "theyWay.achieve.title": "Mencapai level {level, number} di {genre}"
+  "theWay.progress": "Kemajuan menuju level berikutnya",
+  "theWay.nextLevel.requiredTasks": "Tugas yang Diperlukan",
+  "theWay.nextLevel.optionalTasks": "Tugas Opsional",
+  "theWay.genre.general": "Umum",
+  "theWay.nextLevel.optionalTasksRequired": "Anda harus menyelesaikan setidaknya {neededOptionals, number} opsional {tasks, plural, one {tugas} other {tugas}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Menerbitkan setidaknya satu bab setiap bulan selama satu tahun",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Saat ini beruntun: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Jangan sampai ketinggalan! Terbitkan bab bulan ini di {currentValue, number} {currentValue, plural, one {hari} other {hari}}."
 }
