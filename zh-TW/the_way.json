@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "您的故事被開啟的次數是最不重要的指標，但它是一個很好的開頭數字，可以讓我們開始討論更重要的事情。最起碼，詳細觀察這個指標可以告訴我們您是否擅長行銷與說故事。",
   "theWay.task.storiesTranslationReaders.title": "在翻譯上獲得讀者",
   "theWay.task.storiesTranslationReaders.progress": "目前翻譯的讀者： {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "現在我們要去的地方！讓我們看看您是否能引起母語以外的人的興趣。"
+  "theWay.task.storiesTranslationReaders.description": "現在我們要去的地方！讓我們看看您是否能引起母語以外的人的興趣。",
+  "theWay.task.universePublicationCount.title": "發佈宇宙",
+  "theWay.task.universePublicationCount.progress": "目前出版的宇宙： {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "沒有什麼事情是在真空中發生的。擁有一個可以在故事之間建立和分享的宇宙，或只是為了讓您的寫作更有深度，是非常重要的。"
 }
