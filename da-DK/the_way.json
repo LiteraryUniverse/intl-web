@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Hvad er formålet med The Way of Author?",
   "theWay.goToGuides.primer": "Sidder du fast i din skrivning? Deltag i vores fællesskab og få tips og tricks!",
   "theWay.goToFullDashboard": "Gå til Dashboard-statistik",
-  "theWay.progress.byGenre": "Fremgang efter genre",
-  "theyWay.achieve.title": "Opnå niveau {level, number} i {genre}"
+  "theWay.progress": "Fremskridt mod næste niveau",
+  "theWay.nextLevel.requiredTasks": "Nødvendige opgaver",
+  "theWay.nextLevel.optionalTasks": "Valgfrie opgaver",
+  "theWay.genre.general": "Generelt",
+  "theWay.nextLevel.optionalTasksRequired": "Du skal gennemføre mindst {neededOptionals, number} valgfri {tasks, plural, one {opgave} other {opgaver}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Udgiv mindst et kapitel hver måned i et år",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Nuværende stribe: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Gå ikke glip af noget! Udgiv denne måneds kapitel i den næste {currentValue, number} {currentValue, plural, one {dag} other {dage}}."
 }
