@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "O número de vezes que sua história foi aberta é a métrica menos importante, mas é um bom número de abertura para iniciar discussões sobre coisas mais importantes. No mínimo, analisar isso com mais detalhes pode nos dizer se o senhor é bom em marketing ou em contar histórias.",
   "theWay.task.storiesTranslationReaders.title": "Conquistar leitores em traduções",
   "theWay.task.storiesTranslationReaders.progress": "Leitores atuais sobre traduções: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Agora estamos indo a lugares diferentes! Vamos ver se o senhor consegue interessar as pessoas fora de sua língua materna."
+  "theWay.task.storiesTranslationReaders.description": "Agora estamos indo a lugares diferentes! Vamos ver se o senhor consegue interessar as pessoas fora de sua língua materna.",
+  "theWay.task.universePublicationCount.title": "Publicar universos",
+  "theWay.task.universePublicationCount.progress": "Universos atuais publicados: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Nada acontece em um vácuo. É essencial ter um universo que o senhor possa construir e compartilhar entre as histórias ou apenas para dar mais profundidade à sua escrita."
 }
