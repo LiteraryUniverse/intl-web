@@ -59,7 +59,7 @@ export default {
   'settings.profile.identity': 'Identity',
   'settings.profile.about': 'About You',
   'settings.profile.basic.description': 'Manage your basic profile information that will be visible to other users.',
-  'settings.interest.title': 'Your Interests',
+  'settings.interests.title': 'Your Interests',
   'settings.account': 'Account settings',
   'settings.legal.export.download': 'Download Your data',
   'settings.legal.export.gathering':
@@ -171,5 +171,7 @@ export default {
   'settings.tab.exportDelete': 'Export data & delete account',
   'settings.languages.uiLanguage': 'Interface language',
   'settings.languages.readingLanguage': 'Reading language',
-  'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+  'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.',
+  'settings.biography.help': 'Tell others about yourself',
+  'settings.username.help': 'Your unique username on the platform'
 }
