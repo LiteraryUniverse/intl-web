@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': '身份',
     'settings.profile.about': '關於您',
     'settings.profile.basic.description': '管理其他使用者可以看到的您的基本個人資料資訊。',
-    'settings.interest.title': '您的興趣',
+    'settings.interests.title': '您的興趣',
     'settings.account': '帳戶設定',
     'settings.legal.export.download': '下載您的資料',
     'settings.legal.export.gathering': '正在收集您的資料...這可能需要一些時間。',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': '匯出資料和刪除帳戶',
     'settings.languages.uiLanguage': '介面語言',
     'settings.languages.readingLanguage': '閱讀語言',
-    'settings.languages.readingLanguageExplained': '查找故事時，除非您另有指定，否則我們將為您提供此語言的故事及其翻譯。'
+    'settings.languages.readingLanguageExplained': '查找故事時，除非您另有指定，否則我們將為您提供此語言的故事及其翻譯。',
+    'settings.biography.help': '向他人介紹自己',
+    'settings.username.help': '您在平台上的唯一使用者名稱'
 };
