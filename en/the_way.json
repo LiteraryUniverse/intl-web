@@ -85,5 +85,8 @@
   "theWay.task.storiesReads.description": "How many times your story has been opened is the least important metric, but it is a good opening number to have to start discussions about the more important things. At the very least looking on this in more detail can tell us if you are good at marketing vs storytelling.",
   "theWay.task.storiesTranslationReaders.title": "Gain readers on translations",
   "theWay.task.storiesTranslationReaders.progress": "Current readers on translations: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Now we are going places! Let's see if you can interest people outside of your mother tongue."
+  "theWay.task.storiesTranslationReaders.description": "Now we are going places! Let's see if you can interest people outside of your mother tongue.",
+  "theWay.task.universePublicationCount.title": "Publish universes",
+  "theWay.task.universePublicationCount.progress": "Current universes published: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Nothing much happens in a vacuum. Having a universe that you can build up and share between stories or just to provide more depth to your writing is essential."
 }
