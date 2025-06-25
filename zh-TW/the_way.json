@@ -30,6 +30,12 @@
   "theWay.purpose.question": "作者之道》的目的是什麼？",
   "theWay.goToGuides.primer": "覺得寫作停滯不前？請加入我們的社群，獲得提示和技巧！",
   "theWay.goToFullDashboard": "前往儀表板統計",
-  "theWay.progress.byGenre": "各類型的進展",
-  "theyWay.achieve.title": "達到等級 {level, number} 在 {genre}"
+  "theWay.progress": "邁向下一階段",
+  "theWay.nextLevel.requiredTasks": "所需任務",
+  "theWay.nextLevel.optionalTasks": "可選任務",
+  "theWay.genre.general": "一般",
+  "theWay.nextLevel.optionalTasksRequired": "您至少需要完成 {neededOptionals, number} 選項 {tasks, plural, one {任務} other {任務}}。",
+  "theWay.task.publishingOnceAMonthForYear.title": "一年內每月至少出版一章",
+  "theWay.task.publishingOnceAMonthForYear.progress": "目前的連續： {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "不要錯過在下 {currentValue, number} {currentValue, plural, one {天} other {天}}中發表這個月的章節。"
 }
