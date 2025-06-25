@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Количество просмотров Вашей истории - наименее важная метрика, но это хорошее начальное число, чтобы начать обсуждение более важных вещей. По крайней мере, более детальное изучение этого показателя может подсказать нам, насколько Вы хороши в маркетинге, а не в рассказывании историй.",
   "theWay.task.storiesTranslationReaders.title": "Привлекайте читателей к переводам",
   "theWay.task.storiesTranslationReaders.progress": "Текущие читатели о переводах: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Теперь мы отправляемся в путь! Давайте посмотрим, сможете ли Вы заинтересовать людей за пределами своего родного языка."
+  "theWay.task.storiesTranslationReaders.description": "Теперь мы отправляемся в путь! Давайте посмотрим, сможете ли Вы заинтересовать людей за пределами своего родного языка.",
+  "theWay.task.universePublicationCount.title": "Публикуйте вселенные",
+  "theWay.task.universePublicationCount.progress": "Текущие вселенные опубликованы: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Ничего особенного не происходит в вакууме. Наличие вселенной, которую Вы можете создать и использовать между историями или просто для придания глубины своему произведению, очень важно."
 }
