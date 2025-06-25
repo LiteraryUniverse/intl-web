@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Az, hogy hányszor nyitották meg a történetedet, a legkevésbé fontos mérőszám, de ez egy jó nyitószám ahhoz, hogy a fontosabb dolgokról szóló beszélgetések elkezdődjenek. Legalábbis ha ezt részletesebben megvizsgáljuk, akkor megtudhatjuk, hogy jó vagy-e a marketingben vagy a történetmesélésben.",
   "theWay.task.storiesTranslationReaders.title": "Olvasók szerzése a fordításokon",
   "theWay.task.storiesTranslationReaders.progress": "A fordítások jelenlegi olvasói: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Most már megyünk helyekre! Lássuk, hogy tudod-e érdekelni az embereket az anyanyelveden kívül is."
+  "theWay.task.storiesTranslationReaders.description": "Most már megyünk helyekre! Lássuk, hogy tudod-e érdekelni az embereket az anyanyelveden kívül is.",
+  "theWay.task.universePublicationCount.title": "Univerzumok közzététele",
+  "theWay.task.universePublicationCount.progress": "Jelenlegi univerzumok közzétéve: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Semmi sem történik vákuumban. Lényeges, hogy legyen egy univerzumod, amelyet felépíthetsz és megoszthatsz a történetek között, vagy csak azért, hogy mélyebbé tedd az írásodat."
 }
