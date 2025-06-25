@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Kolikrát byl váš příběh otevřen, je nejméně důležitý ukazatel, ale je to dobré úvodní číslo pro zahájení diskuse o důležitějších věcech. Přinejmenším podrobnější pohled na tento údaj nám může napovědět, zda jste dobří v marketingu oproti vyprávění příběhů.",
   "theWay.task.storiesTranslationReaders.title": "Získávání čtenářů na překladech",
   "theWay.task.storiesTranslationReaders.progress": "Aktuální čtenáři o překladech: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Teď už se dostáváme na různá místa! Uvidíme, zda dokážete zaujmout i lidi mimo svůj mateřský jazyk."
+  "theWay.task.storiesTranslationReaders.description": "Teď už se dostáváme na různá místa! Uvidíme, zda dokážete zaujmout i lidi mimo svůj mateřský jazyk.",
+  "theWay.task.universePublicationCount.title": "Publikovat vesmíry",
+  "theWay.task.universePublicationCount.progress": "Aktuální zveřejněné vesmíry: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Nic se neděje ve vzduchoprázdnu. Je nezbytné mít vesmír, který můžete budovat a sdílet mezi příběhy nebo jen poskytnout větší hloubku vašemu psaní."
 }
