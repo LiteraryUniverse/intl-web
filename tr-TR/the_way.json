@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Hikayenizin kaç kez açıldığı en az önemli ölçüttür, ancak daha önemli şeyler hakkında tartışmaya başlamak için iyi bir açılış sayısıdır. En azından bunu daha ayrıntılı olarak incelemek bize pazarlama ve hikaye anlatımı konusunda iyi olup olmadığınızı söyleyebilir.",
   "theWay.task.storiesTranslationReaders.title": "Çevirilerde okuyucu kazanın",
   "theWay.task.storiesTranslationReaders.progress": "Çevirilerle ilgili güncel okuyucular: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Şimdi bir yerlere gidiyoruz! Bakalım anadiliniz dışındaki insanların da ilgisini çekebilecek misiniz?"
+  "theWay.task.storiesTranslationReaders.description": "Şimdi bir yerlere gidiyoruz! Bakalım anadiliniz dışındaki insanların da ilgisini çekebilecek misiniz?",
+  "theWay.task.universePublicationCount.title": "Evrenleri yayınlayın",
+  "theWay.task.universePublicationCount.progress": "Yayınlanan mevcut evrenler: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Hiçbir şey boşlukta gerçekleşmez. Hikayeler arasında ya da sadece yazınıza daha fazla derinlik katmak için oluşturabileceğiniz ve paylaşabileceğiniz bir evrene sahip olmak çok önemlidir."
 }
