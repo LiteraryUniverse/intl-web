@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Wie oft Ihre Geschichte geöffnet wurde, ist die am wenigsten wichtige Kennzahl, aber es ist eine gute Ausgangszahl, um Diskussionen über die wichtigeren Dinge zu beginnen. Zumindest kann uns eine genauere Betrachtung zeigen, ob Sie gut im Marketing oder im Geschichtenerzählen sind.",
   "theWay.task.storiesTranslationReaders.title": "Gewinnen Sie Leser für Übersetzungen",
   "theWay.task.storiesTranslationReaders.progress": "Aktuelle Leser auf Übersetzungen: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Jetzt kommen wir weiter! Mal sehen, ob Sie Menschen außerhalb Ihrer Muttersprache interessieren können."
+  "theWay.task.storiesTranslationReaders.description": "Jetzt kommen wir weiter! Mal sehen, ob Sie Menschen außerhalb Ihrer Muttersprache interessieren können.",
+  "theWay.task.universePublicationCount.title": "Universen veröffentlichen",
+  "theWay.task.universePublicationCount.progress": "Aktuell veröffentlichte Universen: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Nicht viel passiert in einem Vakuum. Es ist wichtig, dass Sie ein Universum haben, das Sie zwischen den Geschichten aufbauen und mit anderen teilen können, oder einfach nur, um Ihrem Schreiben mehr Tiefe zu verleihen."
 }
