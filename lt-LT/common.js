@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'AI modelis: {model}',
     'common.aiContent.custom': 'Pasirinktinis dirbtinio intelekto modelis',
     'common.viewAll': 'Peržiūrėti viską',
-    'notice.thankYou': 'Dėkojame už paramą!'
+    'notice.thankYou': 'Dėkojame už paramą!',
+    'common.dropImageHere': 'Įmeskite paveikslėlį čia'
 };
