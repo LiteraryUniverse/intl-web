@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identitas',
     'settings.profile.about': 'Tentang Anda',
     'settings.profile.basic.description': 'Kelola informasi profil dasar Anda yang akan terlihat oleh pengguna lain.',
-    'settings.interest.title': 'Minat Anda',
+    'settings.interests.title': 'Minat Anda',
     'settings.account': 'Pengaturan akun',
     'settings.legal.export.download': 'Unduh Data Anda',
     'settings.legal.export.gathering': 'Mengumpulkan Data Anda... Ini mungkin membutuhkan waktu.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Ekspor data & hapus akun',
     'settings.languages.uiLanguage': 'Bahasa antarmuka',
     'settings.languages.readingLanguage': 'Membaca bahasa',
-    'settings.languages.readingLanguageExplained': 'Saat mencari berita, kami akan menawarkan berita dan terjemahannya dalam bahasa ini, kecuali jika Anda menentukan lain.'
+    'settings.languages.readingLanguageExplained': 'Saat mencari berita, kami akan menawarkan berita dan terjemahannya dalam bahasa ini, kecuali jika Anda menentukan lain.',
+    'settings.biography.help': 'Beri tahu orang lain tentang diri Anda',
+    'settings.username.help': 'Nama pengguna unik Anda di platform'
 };
