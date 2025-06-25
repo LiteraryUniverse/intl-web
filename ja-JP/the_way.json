@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "あなたのストーリーが何回開かれたかは、最も重要でない指標であるが、より重要なことについて議論を始めるには良い指標である。少なくとも、この指標を詳しく見ることで、あなたがマーケティングに長けているのか、ストーリーテリングに長けているのかを知ることができる。",
   "theWay.task.storiesTranslationReaders.title": "翻訳で読者を獲得する",
   "theWay.task.storiesTranslationReaders.progress": "Current readers on translations: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "今、私たちはいろいろなところに出かけている！自分の母国語以外の国の人々に興味を持ってもらえるか試してみよう。"
+  "theWay.task.storiesTranslationReaders.description": "今、私たちはいろいろなところに出かけている！自分の母国語以外の国の人々に興味を持ってもらえるか試してみよう。",
+  "theWay.task.universePublicationCount.title": "宇宙を公開する",
+  "theWay.task.universePublicationCount.progress": "現在公開されているユニバース： {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "何もないところでは何も起こらない。ストーリーの合間や、文章に深みを持たせるために、作り上げたり共有したりできる宇宙を持つことは不可欠だ。"
 }
