@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identitás',
     'settings.profile.about': 'Rólad',
     'settings.profile.basic.description': 'Kezelje a többi felhasználó számára látható alapvető profilinformációit.',
-    'settings.interest.title': 'Az Ön érdekei',
+    'settings.interests.title': 'Az Ön érdekei',
     'settings.account': 'Fiókbeállítások',
     'settings.legal.export.download': 'Adatok letöltése',
     'settings.legal.export.gathering': 'Adatok összegyűjtése... Ez eltarthat egy ideig.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Adatok exportálása és fiók törlése',
     'settings.languages.uiLanguage': 'Interfész nyelv',
     'settings.languages.readingLanguage': 'Olvasott nyelv',
-    'settings.languages.readingLanguageExplained': 'A történetek keresésekor a történetek és fordításaik ezen a nyelven kerülnek felajánlásra, hacsak Ön nem ad meg mást.'
+    'settings.languages.readingLanguageExplained': 'A történetek keresésekor a történetek és fordításaik ezen a nyelven kerülnek felajánlásra, hacsak Ön nem ad meg mást.',
+    'settings.biography.help': 'Mesélj magadról másoknak',
+    'settings.username.help': 'Az Ön egyedi felhasználóneve a platformon'
 };
