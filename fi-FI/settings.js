@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identiteetti',
     'settings.profile.about': 'Sinusta',
     'settings.profile.basic.description': 'Hallitse muiden käyttäjien näkyvissä olevia perusprofiilitietojasi.',
-    'settings.interest.title': 'Sinun kiinnostuksen kohteesi',
+    'settings.interests.title': 'Sinun kiinnostuksen kohteesi',
     'settings.account': 'Tilin asetukset',
     'settings.legal.export.download': 'Lataa tietosi',
     'settings.legal.export.gathering': 'Kerätään tietojasi... Tämä saattaa kestää hetken.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Vie tiedot ja poista tili',
     'settings.languages.uiLanguage': 'Käyttöliittymän kieli',
     'settings.languages.readingLanguage': 'Kielen lukeminen',
-    'settings.languages.readingLanguageExplained': 'Kun etsit tarinoita, tarjoamme sinulle tarinoita ja niiden käännöksiä tällä kielellä, ellet määritä toisin.'
+    'settings.languages.readingLanguageExplained': 'Kun etsit tarinoita, tarjoamme sinulle tarinoita ja niiden käännöksiä tällä kielellä, ellet määritä toisin.',
+    'settings.biography.help': 'Kerro muille itsestäsi',
+    'settings.username.help': 'Yksilöllinen käyttäjätunnuksesi alustalla'
 };
