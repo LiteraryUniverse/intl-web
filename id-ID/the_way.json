@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Berapa kali cerita Anda dibuka adalah metrik yang paling tidak penting, tetapi ini adalah angka pembuka yang baik untuk memulai diskusi tentang hal-hal yang lebih penting. Paling tidak, dengan melihat hal ini secara lebih detail, kita bisa mengetahui apakah Anda ahli dalam pemasaran atau tidak.",
   "theWay.task.storiesTranslationReaders.title": "Mendapatkan pembaca pada terjemahan",
   "theWay.task.storiesTranslationReaders.progress": "Pembaca saat ini tentang terjemahan: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Sekarang kita akan pergi ke berbagai tempat! Mari kita lihat apakah Anda dapat menarik minat orang di luar bahasa ibu Anda."
+  "theWay.task.storiesTranslationReaders.description": "Sekarang kita akan pergi ke berbagai tempat! Mari kita lihat apakah Anda dapat menarik minat orang di luar bahasa ibu Anda.",
+  "theWay.task.universePublicationCount.title": "Menerbitkan alam semesta",
+  "theWay.task.universePublicationCount.progress": "Alam semesta saat ini diterbitkan: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Tidak banyak yang terjadi dalam ruang hampa. Memiliki semesta yang dapat Anda bangun dan bagikan di antara cerita atau hanya untuk memberikan kedalaman pada tulisan Anda sangatlah penting."
 }
