@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identity',
     'settings.profile.about': 'About You',
     'settings.profile.basic.description': 'Manage your basic profile information that will be visible to other users.',
-    'settings.interest.title': 'Your Interests',
+    'settings.interests.title': 'Your Interests',
     'settings.account': 'खाता सेटिङहरू',
     'settings.legal.export.download': 'तपाईंको डाटा डाउनलोड गर्नुहोस्',
     'settings.legal.export.gathering': 'तपाईंको डाटा एकत्री गर्दै छ... यो केही समय लाग्न सक्छ।',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'डाटा निर्यात गर्नुहोस् र खाता हटाउनुहोस्',
     'settings.languages.uiLanguage': 'Interface language',
     'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.',
+    'settings.biography.help': 'Tell others about yourself',
+    'settings.username.help': 'Your unique username on the platform'
 };
