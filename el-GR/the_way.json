@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Το πόσες φορές έχει ανοίξει η ιστορία σας είναι η λιγότερο σημαντική μέτρηση, αλλά είναι ένας καλός εναρκτήριος αριθμός για να ξεκινήσουν οι συζητήσεις για τα πιο σημαντικά πράγματα. Τουλάχιστον, εξετάζοντας το πιο λεπτομερώς, μπορείτε να μας πείτε αν είστε καλοί στο μάρκετινγκ έναντι της αφήγησης ιστοριών.",
   "theWay.task.storiesTranslationReaders.title": "Κερδίστε αναγνώστες σε μεταφράσεις",
   "theWay.task.storiesTranslationReaders.progress": "Τρέχοντες αναγνώστες για μεταφράσεις: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Τώρα πάμε σε πολλά μέρη! Ας δούμε αν μπορείτε να ενδιαφέρετε ανθρώπους εκτός της μητρικής σας γλώσσας."
+  "theWay.task.storiesTranslationReaders.description": "Τώρα πάμε σε πολλά μέρη! Ας δούμε αν μπορείτε να ενδιαφέρετε ανθρώπους εκτός της μητρικής σας γλώσσας.",
+  "theWay.task.universePublicationCount.title": "Δημοσιεύστε σύμπαντα",
+  "theWay.task.universePublicationCount.progress": "Τρέχοντα σύμπαντα που δημοσιεύονται: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Τίποτα δεν συμβαίνει στο κενό. Η ύπαρξη ενός σύμπαντος που μπορείτε να δημιουργήσετε και να μοιραστείτε μεταξύ των ιστοριών ή απλώς για να δώσετε μεγαλύτερο βάθος στη γραφή σας είναι απαραίτητη."
 }
