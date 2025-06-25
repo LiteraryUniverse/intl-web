@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Vad är syftet med The Way of Author?",
   "theWay.goToGuides.primer": "Känner du att du har kört fast med ditt skrivande? Gå med i vår community och få tips och tricks!",
   "theWay.goToFullDashboard": "Gå till Dashboard Statistik",
-  "theWay.progress.byGenre": "Utveckling per genre",
-  "theyWay.achieve.title": "Uppnå nivå {level, number} i {genre}"
+  "theWay.progress": "Framsteg mot nästa nivå",
+  "theWay.nextLevel.requiredTasks": "Nödvändiga uppgifter",
+  "theWay.nextLevel.optionalTasks": "Valfria uppgifter",
+  "theWay.genre.general": "Allmänt",
+  "theWay.nextLevel.optionalTasksRequired": "Du måste slutföra minst {neededOptionals, number} valfritt {tasks, plural, one {uppgift} other {uppgifter}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Publicera minst ett kapitel varje månad under ett år",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Nuvarande streak: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Missa inte! Publicera denna månads kapitel i nästa {currentValue, number} {currentValue, plural, one {dag} other {dagar}}."
 }
