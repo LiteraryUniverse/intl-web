@@ -59,7 +59,7 @@ export default {
     'storiesType.play': 'Joc',
     'storiesType.poetry': 'Poezie',
     'storiesType.serialized': 'Serializat',
-    'storiesType.short_story': 'scurtă_poveste',
+    'storiesType.short_story': 'Short Story',
     'user.settings.introTitle': 'Bine ați venit la setările dvs.!',
     'user.settings.introText': 'Setările profilului vă permit să personalizați informații despre dvs., cum ar fi numele, avatarul etc. Setările contului vă permit să setați aspectele tehnice care au impact asupra experienței dvs., de exemplu limba, e-mailurile, tema site-ului, setările AI etc. Abonament și plăți vă va permite să vă gestionați abonamentele și opțiunile de plată. În cele din urmă, Monetizare este locul în care puteți gestiona plățile, fan cluburile și alte opțiuni de monetizare.'
 };
