@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'نموذج الذكاء الاصطناعي: {model}',
     'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
     'common.viewAll': 'عرض الكل',
-    'notice.thankYou': 'شكراً لك على دعمك!'
+    'notice.thankYou': 'شكراً لك على دعمك!',
+    'common.dropImageHere': 'ضع صورة هنا'
 };
