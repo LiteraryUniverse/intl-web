@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Ταυτότητα',
     'settings.profile.about': 'Σχετικά με εσάς',
     'settings.profile.basic.description': 'Διαχειριστείτε τις βασικές πληροφορίες του προφίλ σας που θα είναι ορατές σε άλλους χρήστες.',
-    'settings.interest.title': 'Τα ενδιαφέροντά σας',
+    'settings.interests.title': 'Τα ενδιαφέροντά σας',
     'settings.account': 'Ρυθμίσεις λογαριασμού',
     'settings.legal.export.download': 'Λήψη των δεδομένων σας',
     'settings.legal.export.gathering': 'Συλλογή των δεδομένων σας... Αυτό μπορεί να πάρει κάποιο χρόνο.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Εξαγωγή δεδομένων & διαγραφή λογαριασμού',
     'settings.languages.uiLanguage': 'Γλώσσα διεπαφής',
     'settings.languages.readingLanguage': 'Ανάγνωση γλώσσας',
-    'settings.languages.readingLanguageExplained': 'Όταν αναζητάτε ιστορίες, θα σας προσφέρουμε ιστορίες και τις μεταφράσεις τους σε αυτή τη γλώσσα, εκτός αν ορίσετε διαφορετικά.'
+    'settings.languages.readingLanguageExplained': 'Όταν αναζητάτε ιστορίες, θα σας προσφέρουμε ιστορίες και τις μεταφράσεις τους σε αυτή τη γλώσσα, εκτός αν ορίσετε διαφορετικά.',
+    'settings.biography.help': 'Πείτε στους άλλους για τον εαυτό σας',
+    'settings.username.help': 'Το μοναδικό σας όνομα χρήστη στην πλατφόρμα'
 };
