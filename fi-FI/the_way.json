@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Se, kuinka monta kertaa tarinasi on avattu, on vähiten tärkeä mittari, mutta se on hyvä avausluku, jonka avulla voidaan aloittaa keskustelu tärkeämmistä asioista. Ainakin tarkempi tarkastelu voi kertoa meille, oletko hyvä markkinoinnissa vai tarinankerronnassa.",
   "theWay.task.storiesTranslationReaders.title": "Saada lukijoita käännöksistä",
   "theWay.task.storiesTranslationReaders.progress": "Käännösten nykyiset lukijat: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Nyt olemme menossa paikoillemme! Katsotaanpa, pystytkö kiinnostamaan ihmisiä äidinkielesi ulkopuolella."
+  "theWay.task.storiesTranslationReaders.description": "Nyt olemme menossa paikoillemme! Katsotaanpa, pystytkö kiinnostamaan ihmisiä äidinkielesi ulkopuolella.",
+  "theWay.task.universePublicationCount.title": "Julkaise universumit",
+  "theWay.task.universePublicationCount.progress": "Nykyiset julkaistut universumit: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Mikään ei tapahdu tyhjiössä. On olennaisen tärkeää, että sinulla on universumi, jota voit rakentaa ja jakaa tarinoiden välillä tai vain lisätä kirjoituksesi syvyyttä."
 }
