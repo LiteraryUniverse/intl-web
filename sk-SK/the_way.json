@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Aký je účel knihy Cesta autora?",
   "theWay.goToGuides.primer": "Cítite sa zaseknutí pri písaní? Pridajte sa k našej komunite a získajte tipy a triky!",
   "theWay.goToFullDashboard": "Prejsť na štatistiky prístrojového panela",
-  "theWay.progress.byGenre": "Pokrok podľa žánru",
-  "theyWay.achieve.title": "Dosiahnite úroveň {level, number} na {genre}"
+  "theWay.progress": "Pokrok smerom k ďalšej úrovni",
+  "theWay.nextLevel.requiredTasks": "Požadované úlohy",
+  "theWay.nextLevel.optionalTasks": "Voliteľné úlohy",
+  "theWay.genre.general": "Všeobecné",
+  "theWay.nextLevel.optionalTasksRequired": "Musíte vyplniť aspoň {neededOptionals, number} voliteľné {tasks, plural, one {úlohy} other {úlohy}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Vydávať aspoň jednu kapitolu každý mesiac počas jedného roka",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Aktuálny pruh: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Nenechajte si to ujsť! Uverejnite kapitolu tohto mesiaca v nasledujúcom {currentValue, number} {currentValue, plural, one {dni} other {dni}}."
 }
