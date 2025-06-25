@@ -59,7 +59,7 @@ export default {
     'storiesType.play': 'Bermain',
     'storiesType.poetry': 'Puisi',
     'storiesType.serialized': 'Berseri',
-    'storiesType.short_story': 'short_story',
+    'storiesType.short_story': 'Cerita Pendek',
     'user.settings.introTitle': 'Selamat datang di pengaturan Anda!',
     'user.settings.introText': 'Pengaturan profil memungkinkan Anda untuk menyesuaikan informasi tentang diri Anda, seperti nama, avatar, dll. Pengaturan akun memungkinkan Anda untuk mengatur aspek-aspek yang lebih teknis yang berdampak pada pengalaman Anda, misalnya bahasa, email, tema situs, pengaturan AI, dll. Langganan & Pembayaran memungkinkan Anda untuk mengelola langganan dan opsi pembayaran. Terakhir, Monetisasi adalah tempat Anda bisa mengelola pembayaran, klub penggemar, dan opsi monetisasi lainnya.'
 };
