@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Jaki jest cel The Way of Author?",
   "theWay.goToGuides.primer": "Czują się Państwo zagubieni w pisaniu? Proszę dołączyć do naszej społeczności, aby uzyskać porady i wskazówki!",
   "theWay.goToFullDashboard": "Przejść do statystyk pulpitu nawigacyjnego",
-  "theWay.progress.byGenre": "Postęp według gatunku",
-  "theyWay.achieve.title": "Osiągnięcie poziomu {level, number} w {genre}"
+  "theWay.progress": "Postęp w kierunku następnego poziomu",
+  "theWay.nextLevel.requiredTasks": "Wymagane zadania",
+  "theWay.nextLevel.optionalTasks": "Zadania opcjonalne",
+  "theWay.genre.general": "Ogólne",
+  "theWay.nextLevel.optionalTasksRequired": "Proszę wypełnić co najmniej {neededOptionals, number} opcjonalne {tasks, plural, one {zadanie} other {zadania}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Publikowanie co najmniej jednego rozdziału miesięcznie przez rok.",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Aktualna passa: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Proszę nie przegapić! Proszę opublikować rozdział z tego miesiąca w następnym {currentValue, number} {currentValue, plural, one {dzień} other {dni}}."
 }
