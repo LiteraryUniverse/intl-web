@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'Model AI: {model}',
     'common.aiContent.custom': 'Vlastní model AI',
     'common.viewAll': 'Zobrazit vše',
-    'notice.thankYou': 'Děkujeme vám za podporu!'
+    'notice.thankYou': 'Děkujeme vám za podporu!',
+    'common.dropImageHere': 'Vložte obrázek sem'
 };
