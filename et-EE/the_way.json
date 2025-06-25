@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Mis on autori tee eesmärk?",
   "theWay.goToGuides.primer": "Kas tunned, et oled oma kirjutamisega ummikusse jäänud? Liitu meie kogukonnaga, et saada nõuandeid ja nippe!",
   "theWay.goToFullDashboard": "Mine armatuurlauale Statistika",
-  "theWay.progress.byGenre": "Edusammud žanride kaupa",
-  "theyWay.achieve.title": "Saavuta tase {level, number} aadressil {genre}."
+  "theWay.progress": "Edasiminek järgmise taseme suunas",
+  "theWay.nextLevel.requiredTasks": "Vajalikud ülesanded",
+  "theWay.nextLevel.optionalTasks": "Vabatahtlikud ülesanded",
+  "theWay.genre.general": "Üldine",
+  "theWay.nextLevel.optionalTasksRequired": "Sa pead täitma vähemalt {neededOptionals, number} vabatahtlik {tasks, plural, one {ülesanne} other {ülesanded}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Avaldada vähemalt üks peatükk iga kuu ühe aasta jooksul.",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Praegune seeria: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Ära jäta vahele! Avalda selle kuu peatükk järgmises {currentValue, number} {currentValue, plural, one {päev} other {päeva}}."
 }
