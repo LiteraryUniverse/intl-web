@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Tapatybė',
     'settings.profile.about': 'Apie jus',
     'settings.profile.basic.description': 'Tvarkykite pagrindinę profilio informaciją, kuri bus matoma kitiems naudotojams.',
-    'settings.interest.title': 'Jūsų interesai',
+    'settings.interests.title': 'Jūsų interesai',
     'settings.account': 'Paskyros nustatymai',
     'settings.legal.export.download': 'Atsisiųsti savo duomenis',
     'settings.legal.export.gathering': 'Renkami jūsų duomenys... Tai gali užtrukti kurį laiką.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Eksportuoti duomenis ir ištrinti paskyrą',
     'settings.languages.uiLanguage': 'Sąsajos kalba',
     'settings.languages.readingLanguage': 'Skaitymo kalba',
-    'settings.languages.readingLanguageExplained': 'Ieškodami istorijų, pasiūlysime jums istorijas ir jų vertimus šia kalba, nebent nurodysite kitaip.'
+    'settings.languages.readingLanguageExplained': 'Ieškodami istorijų, pasiūlysime jums istorijas ir jų vertimus šia kalba, nebent nurodysite kitaip.',
+    'settings.biography.help': 'Papasakokite kitiems apie save',
+    'settings.username.help': 'Jūsų unikalus naudotojo vardas platformoje'
 };
