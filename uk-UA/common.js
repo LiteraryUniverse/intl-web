@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'Модель штучного інтелекту: {model}',
     'common.aiContent.custom': 'Спеціальна модель ШІ',
     'common.viewAll': 'Переглянути всі',
-    'notice.thankYou': 'Дякуємо за вашу підтримку!'
+    'notice.thankYou': 'Дякуємо за вашу підтримку!',
+    'common.dropImageHere': 'Надішліть зображення сюди'
 };
