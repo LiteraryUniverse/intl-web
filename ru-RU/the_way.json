@@ -30,6 +30,12 @@
   "theWay.purpose.question": "Какова цель \"Пути автора\"?",
   "theWay.goToGuides.primer": "Чувствуете, что застряли в написании статей? Присоединяйтесь к нашему сообществу, чтобы получить советы и рекомендации!",
   "theWay.goToFullDashboard": "Перейти к статистике приборной панели",
-  "theWay.progress.byGenre": "Прогресс по жанрам",
-  "theyWay.achieve.title": "Достигните {level, number}-го уровня в [{genre}]"
+  "theWay.progress": "Продвижение к следующему уровню",
+  "theWay.nextLevel.requiredTasks": "Необходимые задания",
+  "theWay.nextLevel.optionalTasks": "Дополнительные задания",
+  "theWay.genre.general": "Общие сведения",
+  "theWay.nextLevel.optionalTasksRequired": "Вам необходимо выполнить как минимум {neededOptionals, number} необязательное {tasks, plural, one {задание} other {задания}}.",
+  "theWay.task.publishingOnceAMonthForYear.title": "Публикуйте по крайней мере одну главу каждый месяц в течение года",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Текущая полоса: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Не пропустите! Опубликуйте главу этого месяца в следующем {currentValue, number} ~ {currentValue, plural, one {день} other {дней}}."
 }
