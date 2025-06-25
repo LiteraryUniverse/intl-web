@@ -84,5 +84,8 @@
   "theWay.task.storiesReads.description": "Скільки разів відкривали вашу історію - найменш важливий показник, але це хороша початкова цифра, щоб почати обговорення більш важливих речей. Принаймні, більш детальний аналіз цього показника може допомогти нам зрозуміти, чи добре ви володієте маркетингом чи сторітелінгом.",
   "theWay.task.storiesTranslationReaders.title": "Залучайте читачів на переклади",
   "theWay.task.storiesTranslationReaders.progress": "Поточні читачі про переклади: {currentValue, number}/{targetValue, number}",
-  "theWay.task.storiesTranslationReaders.description": "Тепер ми йдемо до мети! Подивимося, чи зможете ви зацікавити людей, які не володіють вашою рідною мовою."
+  "theWay.task.storiesTranslationReaders.description": "Тепер ми йдемо до мети! Подивимося, чи зможете ви зацікавити людей, які не володіють вашою рідною мовою.",
+  "theWay.task.universePublicationCount.title": "Публікуйте всесвіти",
+  "theWay.task.universePublicationCount.progress": "Поточні всесвіти опубліковані: {currentValue, number}/{targetValue, number}",
+  "theWay.task.universePublicationCount.description": "Ніщо не відбувається у вакуумі. Важливо мати всесвіт, який ви можете створювати і ділитися ним між історіями або просто для того, щоб надати більшої глибини вашому письму."
 }
