@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'AI 모델: {model}',
     'common.aiContent.custom': '맞춤형 AI 모델',
     'common.viewAll': '모두 보기',
-    'notice.thankYou': '여러분의 성원에 감사드립니다!'
+    'notice.thankYou': '여러분의 성원에 감사드립니다!',
+    'common.dropImageHere': '여기에 이미지 드롭'
 };
