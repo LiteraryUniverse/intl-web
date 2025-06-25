@@ -59,7 +59,7 @@ export default {
     'storiesType.play': 'Pelaa',
     'storiesType.poetry': 'Runous',
     'storiesType.serialized': 'Sarjoitettu',
-    'storiesType.short_story': 'short_story',
+    'storiesType.short_story': 'Lyhyt tarina',
     'user.settings.introTitle': 'Tervetuloa asetuksiinne!',
     'user.settings.introText': 'Profiiliasetusten avulla voit mukauttaa itseäsi koskevia tietoja, kuten nimeäsi, avatariasi jne. Tiliasetusten avulla voit määrittää teknisiä seikkoja, jotka vaikuttavat käyttökokemukseesi, esimerkiksi kieli, sähköpostit, sivuston teema, tekoälyasetukset jne. Tilaukset ja maksut mahdollistaa tilausten ja maksuvaihtoehtojen hallinnan. Lopuksi Monetization on paikka, jossa voit hallita maksuja, faniklubeja ja muita monetisointivaihtoehtoja.'
 };
