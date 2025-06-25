@@ -30,6 +30,13 @@
   "theWay.purpose.question": "What is the purpose of The Way of Author?",
   "theWay.goToGuides.primer": "Feeling stuck with your writing? Join our community for tips and tricks!",
   "theWay.goToFullDashboard": "Go to Dashboard Statistics",
-  "theWay.progress.byGenre": "Progress by genre",
-  "theyWay.achieve.title": "Achieve level {level, number} in {genre}"
+  "theWay.progress": "Progress towards the next level",
+  "theWay.nextLevel.requiredTasks": "Required Tasks",
+  "theWay.nextLevel.optionalTasks": "Optional Tasks",
+  "theWay.genre.general": "General",
+  "theWay.nextLevel.optionalTasksRequired": "You need to complete at least {neededOptionals, number} optional {tasks, plural, one {task} other {tasks}}.",
+
+  "theWay.task.publishingOnceAMonthForYear.title": "Publish at least one chapter each month for a year",
+  "theWay.task.publishingOnceAMonthForYear.progress": "Current streak: {currentValue, number}/{targetValue, number}",
+  "theWay.task.publishingOnceAMonthForYear.description": "Don't miss out! Publish this month's chapter in the next {currentValue, number} {currentValue, plural, one {day} other {days}}."
 }
