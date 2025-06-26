@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Compiti richiesti",
   "theWay.nextLevel.optionalTasks": "Compiti opzionali",
   "theWay.genre.general": "Generale",
-  "theWay.nextLevel.optionalTasksRequired": "Deve completare almeno {neededOptionals, number} opzionale {tasks, plural, one {compito} other {compiti}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Deve completare almeno {neededOptionals, number} opzionale {neededOptionals, plural, one {compito} other {compiti}}.",
   "theWay.level0.title": "Al momento lei è solo un lettore nel libro di tutti.",
   "theWay.level0.getStarted": "Pubblichi oggi la sua prima storia e inizi il suo viaggio!",
   "workshop.theWay.overallStats": "Statistiche complessive",
