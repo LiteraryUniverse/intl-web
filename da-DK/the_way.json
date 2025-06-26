@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Nødvendige opgaver",
   "theWay.nextLevel.optionalTasks": "Valgfrie opgaver",
   "theWay.genre.general": "Generelt",
-  "theWay.nextLevel.optionalTasksRequired": "Du skal gennemføre mindst {neededOptionals, number} valgfri {tasks, plural, one {opgave} other {opgaver}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Du skal gennemføre mindst {neededOptionals, number} valgfri {neededOptionals, plural, one {opgave} other {opgaver}}.",
   "theWay.level0.title": "I øjeblikket er du bare en læser i alles bog.",
   "theWay.level0.getStarted": "Udgiv din første historie i dag, og start din rejse!",
   "workshop.theWay.overallStats": "Samlet statistik",
