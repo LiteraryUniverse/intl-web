@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "所需任務",
   "theWay.nextLevel.optionalTasks": "可選任務",
   "theWay.genre.general": "一般",
-  "theWay.nextLevel.optionalTasksRequired": "您至少需要完成 {neededOptionals, number} 選項 {tasks, plural, one {任務} other {任務}}。",
+  "theWay.nextLevel.optionalTasksRequired": "您至少需要完成 {neededOptionals, number} 選項 {neededOptionals, plural, one {任務} other {任務}}。",
   "theWay.level0.title": "您目前只是大家書本中的讀者。",
   "theWay.level0.getStarted": "今天就發表您的第一篇故事，開始您的旅程！",
   "workshop.theWay.overallStats": "整體統計",
