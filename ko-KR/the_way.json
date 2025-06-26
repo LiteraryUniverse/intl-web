@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "필수 작업",
   "theWay.nextLevel.optionalTasks": "선택적 작업",
   "theWay.genre.general": "일반",
-  "theWay.nextLevel.optionalTasksRequired": "최소한 {neededOptionals, number} 선택 사항 {tasks, plural, one {작업} other {작업}}을 완료해야 합니다.",
+  "theWay.nextLevel.optionalTasksRequired": "최소한 {neededOptionals, number} 선택 사항 {neededOptionals, plural, one {작업} other {작업}}을 완료해야 합니다.",
   "theWay.level0.title": "여러분은 현재 모든 사람의 책에 등장하는 독자일 뿐입니다.",
   "theWay.level0.getStarted": "오늘 첫 번째 스토리를 게시하고 여정을 시작하세요!",
   "workshop.theWay.overallStats": "전체 통계",
