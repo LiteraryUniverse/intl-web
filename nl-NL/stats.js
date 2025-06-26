@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Pagina\'s',
     'stats.blog.posts': 'Berichten',
     'stats.unknown': 'Onbekend',
-    'stats.noData': 'Geen gegevens beschikbaar op dit moment.'
+    'stats.noData': 'Geen gegevens beschikbaar op dit moment.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Er zijn nog geen statistieken beschikbaar. Begin met het publiceren van uw werk om uw statistieken te zien!',
+    'workshop.theWay.overallStats.content': 'Uw inhoud',
+    'workshop.theWay.overallStats.stories': 'Verhalen',
+    'workshop.theWay.overallStats.universes': 'Universums',
+    'workshop.theWay.overallStats.chapters': 'Hoofdstukken',
+    'workshop.theWay.overallStats.wordCount': 'Geschreven woorden',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Encyclopedie Inzendingen',
+    'workshop.theWay.overallStats.publishingStreak': 'Week publiceren',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Maand Publicatiereeks',
+    'workshop.theWay.overallStats.audience': 'Uw publiek',
+    'workshop.theWay.overallStats.fans': 'Ventilatoren',
+    'workshop.theWay.overallStats.followers': 'Volgers',
+    'workshop.theWay.overallStats.uniqueReaders': 'Unieke lezers',
+    'workshop.theWay.overallStats.storyViews': 'Verhaal Bekeken',
+    'workshop.theWay.overallStats.universeViews': 'Universumgezichten',
+    'workshop.theWay.overallStats.readingTime': 'Leestijd (min)',
+    'workshop.theWay.overallStats.demographics': 'Lezersdemografie',
+    'workshop.theWay.overallStats.topCountry': 'Top land',
+    'workshop.theWay.overallStats.topAgeGroup': 'Top Leeftijdsgroep',
+    'workshop.theWay.overallStats.genres': 'Uw genres'
 };
