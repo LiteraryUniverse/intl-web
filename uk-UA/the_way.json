@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Необхідні завдання",
   "theWay.nextLevel.optionalTasks": "Додаткові завдання",
   "theWay.genre.general": "Генерал",
-  "theWay.nextLevel.optionalTasksRequired": "Вам потрібно виконати щонайменше {neededOptionals, number} необов'язкове {tasks, plural, one {завдання} other {завдання}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Вам потрібно виконати щонайменше {neededOptionals, number} необов'язкове {neededOptionals, plural, one {завдання} other {завдання}}.",
   "theWay.level0.title": "Наразі ви просто читач у книжці кожного.",
   "theWay.level0.getStarted": "Опублікуйте своє перше оповідання вже сьогодні та розпочніть свою подорож!",
   "workshop.theWay.overallStats": "Загальна статистика",
