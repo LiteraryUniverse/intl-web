@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Stránky',
     'stats.blog.posts': 'Príspevky',
     'stats.unknown': 'Neznáme',
-    'stats.noData': 'V tomto okamihu nie sú k dispozicii žiadne data.'
+    'stats.noData': 'V tomto okamihu nie sú k dispozicii žiadne data.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Zatiaľ nie sú k dispozícii žiadne štatistické údaje. Začnite publikovať svoju prácu, aby ste videli svoje štatistiky!',
+    'workshop.theWay.overallStats.content': 'Váš obsah',
+    'workshop.theWay.overallStats.stories': 'Príbehy',
+    'workshop.theWay.overallStats.universes': 'Vesmíry',
+    'workshop.theWay.overallStats.chapters': 'Kapitoly',
+    'workshop.theWay.overallStats.wordCount': 'Napísané slová',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Záznamy v encyklopédii',
+    'workshop.theWay.overallStats.publishingStreak': 'Týždenný publikačný pruh',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Mesiac Publikácia Streak',
+    'workshop.theWay.overallStats.audience': 'Vaše publikum',
+    'workshop.theWay.overallStats.fans': 'Ventilátory',
+    'workshop.theWay.overallStats.followers': 'Nasledovníci',
+    'workshop.theWay.overallStats.uniqueReaders': 'Jedineční čitatelia',
+    'workshop.theWay.overallStats.storyViews': 'Zobrazenia príbehu',
+    'workshop.theWay.overallStats.universeViews': 'Pohľady na vesmír',
+    'workshop.theWay.overallStats.readingTime': 'Čas čítania (min)',
+    'workshop.theWay.overallStats.demographics': 'Demografické údaje čitateľov',
+    'workshop.theWay.overallStats.topCountry': 'Najlepšia krajina',
+    'workshop.theWay.overallStats.topAgeGroup': 'Najlepšia veková skupina',
+    'workshop.theWay.overallStats.genres': 'Vaše žánre'
 };
