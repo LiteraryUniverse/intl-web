@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Tarvittavat tehtävät",
   "theWay.nextLevel.optionalTasks": "Valinnaiset tehtävät",
   "theWay.genre.general": "Yleistä",
-  "theWay.nextLevel.optionalTasksRequired": "Sinun on suoritettava vähintään {neededOptionals, number} valinnainen {tasks, plural, one {tehtävä} other {tehtävät}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Sinun on suoritettava vähintään {neededOptionals, number} valinnainen {neededOptionals, plural, one {tehtävä} other {tehtävät}}.",
   "theWay.level0.title": "Olet tällä hetkellä vain lukija kaikkien kirjoissa.",
   "theWay.level0.getStarted": "Julkaise ensimmäinen tarinasi tänään ja aloita matkasi!",
   "workshop.theWay.overallStats": "Yleiset tilastot",
