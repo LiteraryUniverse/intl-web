@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': '頁面',
     'stats.blog.posts': '文章',
     'stats.unknown': '未知',
-    'stats.noData': '目前沒有資料可用。'
+    'stats.noData': '目前沒有資料可用。',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': '暫無統計資料。開始發表您的作品，以查看您的統計資料！',
+    'workshop.theWay.overallStats.content': '您的內容',
+    'workshop.theWay.overallStats.stories': '故事',
+    'workshop.theWay.overallStats.universes': '宇宙',
+    'workshop.theWay.overallStats.chapters': '章節',
+    'workshop.theWay.overallStats.wordCount': '所寫的文字',
+    'workshop.theWay.overallStats.encyclopediaEntries': '百科全書條目',
+    'workshop.theWay.overallStats.publishingStreak': '連週出版',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': '連續出版月數',
+    'workshop.theWay.overallStats.audience': '您的觀眾',
+    'workshop.theWay.overallStats.fans': '粉絲',
+    'workshop.theWay.overallStats.followers': '追隨者',
+    'workshop.theWay.overallStats.uniqueReaders': '獨特的讀者',
+    'workshop.theWay.overallStats.storyViews': '故事觀點',
+    'workshop.theWay.overallStats.universeViews': '宇宙觀',
+    'workshop.theWay.overallStats.readingTime': '閱讀時間 (分鐘)',
+    'workshop.theWay.overallStats.demographics': '讀者人口統計',
+    'workshop.theWay.overallStats.topCountry': '頂級國家',
+    'workshop.theWay.overallStats.topAgeGroup': '最高年齡組別',
+    'workshop.theWay.overallStats.genres': '您的類型'
 };
