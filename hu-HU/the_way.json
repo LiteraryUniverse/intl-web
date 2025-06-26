@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Szükséges feladatok",
   "theWay.nextLevel.optionalTasks": "Választható feladatok",
   "theWay.genre.general": "Általános",
-  "theWay.nextLevel.optionalTasksRequired": "Legalább a {neededOptionals, number} opcionális {tasks, plural, one {feladatot} other {feladatokat}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Legalább a {neededOptionals, number} opcionális {neededOptionals, plural, one {feladatot} other {feladatokat}}.",
   "theWay.level0.title": "Ön jelenleg csak egy olvasó mindenki könyvében.",
   "theWay.level0.getStarted": "Tedd közzé első történetedet még ma, és kezdd el az utadat!",
   "workshop.theWay.overallStats": "Általános statisztikák",
