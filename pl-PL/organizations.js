@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Proszę zostawić organizację',
     'org.member.leaveModalTitle': 'Potwierdzenie opuszczenia organizacji',
     'org.member.leaveModalHeading': 'Czy na pewno chce Pan opuścić {orgName}?',
-    'org.member.leaveModalExplain': 'Po opuszczeniu organizacji utracą Państwo dostęp do wszystkich powiązanych zasobów i prac organizacji. Tego działania nie można cofnąć.'
+    'org.member.leaveModalExplain': 'Po opuszczeniu organizacji utracą Państwo dostęp do wszystkich powiązanych zasobów i prac organizacji. Tego działania nie można cofnąć.',
+    // Role management strings
+    'org.member.manageRoles': 'Zarządzanie rolami',
+    'org.roles.error': 'Błąd: {error}',
+    'org.roles.manageFor': 'Zarządzanie rolami dla {name}',
+    'org.roles.selectRole': 'Proszę wybrać rolę',
+    'org.roles.noRole': 'Brak roli (tylko uprawnienia)',
+    'org.roles.admin': 'Administrator',
+    'org.roles.member': 'Członek',
+    'org.roles.author': 'Autor',
+    'org.roles.workshop': 'Warsztat',
+    'org.roles.teacher': 'Nauczyciel',
+    'org.permissions.title': 'Uprawnienia',
+    'org.permissions.includedInRole': '(wliczone w rolę)',
+    // Permission names
+    'org.permissions.members.add': 'Proszę dodać członków',
+    'org.permissions.members.remove': 'Usunąć członków',
+    'org.permissions.members.view': 'Proszę zobaczyć członków',
+    'org.permissions.settings': 'Zarządzanie ustawieniami',
+    'org.permissions.auditLog': 'Wyświetlanie dziennika audytu',
+    'org.permissions.flashnews': 'Zarządzanie wiadomościami flash',
+    'org.permissions.workshop.view': 'Proszę zobaczyć warsztat',
+    'org.permissions.workshop.create': 'Tworzenie elementów warsztatów',
+    'org.permissions.workshop.transfer': 'Przeniesienie własności',
+    'org.permissions.workshop.viewAll': 'Proszę zobaczyć wszystkie elementy warsztatu',
+    'org.permissions.forum.manager': 'Zarządzanie forami',
+    'org.permissions.blog.manage': 'Zarządzanie blogiem',
+    'org.permissions.blog.post': 'Tworzenie wpisów na blogu'
 };
