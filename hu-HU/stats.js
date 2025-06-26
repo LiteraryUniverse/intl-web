@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Oldalak',
     'stats.blog.posts': 'Bejegyzések',
     'stats.unknown': 'Ismeretlen',
-    'stats.noData': 'Nincs adat elérhető jelenleg.'
+    'stats.noData': 'Nincs adat elérhető jelenleg.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Statisztikai adatok még nem állnak rendelkezésre. Kezdje el publikálni munkáját, hogy láthassa statisztikáit!',
+    'workshop.theWay.overallStats.content': 'Az Ön tartalma',
+    'workshop.theWay.overallStats.stories': 'Történetek',
+    'workshop.theWay.overallStats.universes': 'Univerzumok',
+    'workshop.theWay.overallStats.chapters': 'Fejezetek',
+    'workshop.theWay.overallStats.wordCount': 'Írott szavak',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Enciklopédia bejegyzések',
+    'workshop.theWay.overallStats.publishingStreak': 'Hét Publishing Streak',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Havi kiadási sorozat',
+    'workshop.theWay.overallStats.audience': 'Az Ön közönsége',
+    'workshop.theWay.overallStats.fans': 'Rajongók',
+    'workshop.theWay.overallStats.followers': 'Követők',
+    'workshop.theWay.overallStats.uniqueReaders': 'Egyedi olvasók',
+    'workshop.theWay.overallStats.storyViews': 'Story Views',
+    'workshop.theWay.overallStats.universeViews': 'Univerzum nézetek',
+    'workshop.theWay.overallStats.readingTime': 'Olvasási idő (perc)',
+    'workshop.theWay.overallStats.demographics': 'Olvasói demográfiai adatok',
+    'workshop.theWay.overallStats.topCountry': 'Top Ország',
+    'workshop.theWay.overallStats.topAgeGroup': 'Legjobb korcsoport',
+    'workshop.theWay.overallStats.genres': 'Az Ön műfajai'
 };
