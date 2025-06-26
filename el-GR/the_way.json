@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Απαιτούμενες εργασίες",
   "theWay.nextLevel.optionalTasks": "Προαιρετικές εργασίες",
   "theWay.genre.general": "Γενικά",
-  "theWay.nextLevel.optionalTasksRequired": "Πρέπει να ολοκληρώσετε τουλάχιστον {neededOptionals, number} προαιρετικά {tasks, plural, one {εργασία} other {εργασίες}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Πρέπει να ολοκληρώσετε τουλάχιστον {neededOptionals, number} προαιρετικά {neededOptionals, plural, one {εργασία} other {εργασίες}}.",
   "theWay.level0.title": "Προς το παρόν είστε απλώς ένας αναγνώστης στο βιβλίο όλων.",
   "theWay.level0.getStarted": "Δημοσιεύστε την πρώτη σας ιστορία σήμερα και ξεκινήστε το ταξίδι σας!",
   "workshop.theWay.overallStats": "Συνολικά στατιστικά στοιχεία",
