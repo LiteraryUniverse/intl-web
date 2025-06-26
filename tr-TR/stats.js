@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Sayfalar',
     'stats.blog.posts': 'Gönderiler',
     'stats.unknown': 'Bilinmiyor',
-    'stats.noData': 'Bu zamanda veri mevcut değil.'
+    'stats.noData': 'Bu zamanda veri mevcut değil.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Henüz istatistik verisi mevcut değil. İstatistiklerinizi görmek için çalışmanızı yayınlamaya başlayın!',
+    'workshop.theWay.overallStats.content': 'İçeriğiniz',
+    'workshop.theWay.overallStats.stories': 'Hikayeler',
+    'workshop.theWay.overallStats.universes': 'Evrenler',
+    'workshop.theWay.overallStats.chapters': 'Bölümler',
+    'workshop.theWay.overallStats.wordCount': 'Yazılan Kelimeler',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Ansiklopedi Girişleri',
+    'workshop.theWay.overallStats.publishingStreak': 'Haftalık Yayın Serileri',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Ay Yayın Serileri',
+    'workshop.theWay.overallStats.audience': 'Hedef Kitleniz',
+    'workshop.theWay.overallStats.fans': 'Hayranlar',
+    'workshop.theWay.overallStats.followers': 'Takipçiler',
+    'workshop.theWay.overallStats.uniqueReaders': 'Benzersiz Okuyucular',
+    'workshop.theWay.overallStats.storyViews': 'Hikaye Görünümleri',
+    'workshop.theWay.overallStats.universeViews': 'Evren Görünümleri',
+    'workshop.theWay.overallStats.readingTime': 'Okuma Süresi (dk)',
+    'workshop.theWay.overallStats.demographics': 'Okuyucu Demografisi',
+    'workshop.theWay.overallStats.topCountry': 'En İyi Ülke',
+    'workshop.theWay.overallStats.topAgeGroup': 'Üst Yaş Grubu',
+    'workshop.theWay.overallStats.genres': 'Türleriniz'
 };
