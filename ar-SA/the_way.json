@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "المهام المطلوبة",
   "theWay.nextLevel.optionalTasks": "المهام الاختيارية",
   "theWay.genre.general": "جنرال لواء",
-  "theWay.nextLevel.optionalTasksRequired": "تحتاج إلى إكمال ما لا يقل عن {neededOptionals, number} اختياري {tasks, plural, one {مهمة} other {مهام}}.",
+  "theWay.nextLevel.optionalTasksRequired": "تحتاج إلى إكمال ما لا يقل عن {neededOptionals, number} اختياري {neededOptionals, plural, one {مهمة} other {مهام}}.",
   "theWay.level0.title": "أنت حاليًا مجرد قارئ في كتاب الجميع.",
   "theWay.level0.getStarted": "انشر قصتك الأولى اليوم وابدأ رحلتك!",
   "workshop.theWay.overallStats": "الإحصائيات الإجمالية",
