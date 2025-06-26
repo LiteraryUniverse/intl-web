@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Sarcini necesare",
   "theWay.nextLevel.optionalTasks": "Sarcini opționale",
   "theWay.genre.general": "Generalități",
-  "theWay.nextLevel.optionalTasksRequired": "Trebuie să completați cel puțin {neededOptionals, number} opțional {tasks, plural, one {sarcină} other {sarcini}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Trebuie să completați cel puțin {neededOptionals, number} opțional {neededOptionals, plural, one {sarcină} other {sarcini}}.",
   "theWay.level0.title": "În prezent sunteți doar un cititor în cartea tuturor.",
   "theWay.level0.getStarted": "Publică astăzi prima ta poveste și începe-ți călătoria!",
   "workshop.theWay.overallStats": "Statistici generale",
