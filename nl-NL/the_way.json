@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Vereiste taken",
   "theWay.nextLevel.optionalTasks": "Optionele taken",
   "theWay.genre.general": "Algemeen",
-  "theWay.nextLevel.optionalTasksRequired": "U moet ten minste {neededOptionals, number} optioneel {tasks, plural, one {taak} other {taken}}.",
+  "theWay.nextLevel.optionalTasksRequired": "U moet ten minste {neededOptionals, number} optioneel {neededOptionals, plural, one {taak} other {taken}}.",
   "theWay.level0.title": "U bent op dit moment gewoon een lezer in ieders boek.",
   "theWay.level0.getStarted": "Publiceer vandaag nog uw eerste verhaal en begin uw reis!",
   "workshop.theWay.overallStats": "Algemene statistieken",
