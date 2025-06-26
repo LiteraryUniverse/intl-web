@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Vajalikud ülesanded",
   "theWay.nextLevel.optionalTasks": "Vabatahtlikud ülesanded",
   "theWay.genre.general": "Üldine",
-  "theWay.nextLevel.optionalTasksRequired": "Sa pead täitma vähemalt {neededOptionals, number} vabatahtlik {tasks, plural, one {ülesanne} other {ülesanded}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Sa pead täitma vähemalt {neededOptionals, number} vabatahtlik {neededOptionals, plural, one {ülesanne} other {ülesanded}}.",
   "theWay.level0.title": "Te olete praegu lihtsalt lugeja igaühe raamatus.",
   "theWay.level0.getStarted": "Avaldage oma esimene lugu juba täna ja alustage oma teekonda!",
   "workshop.theWay.overallStats": "Üldine statistika",
