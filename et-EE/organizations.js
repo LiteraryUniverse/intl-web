@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Jäta korraldus',
     'org.member.leaveModalTitle': 'Organisatsioonist lahkumise kinnitus',
     'org.member.leaveModalHeading': 'Oled sa kindel, et tahad lahkuda {orgName}',
-    'org.member.leaveModalExplain': 'Kui lahkute organisatsioonist, kaotate juurdepääsu kõigile organisatsiooni seotud ressurssidele ja töödele. Seda tegevust ei saa tagasi võtta.'
+    'org.member.leaveModalExplain': 'Kui lahkute organisatsioonist, kaotate juurdepääsu kõigile organisatsiooni seotud ressurssidele ja töödele. Seda tegevust ei saa tagasi võtta.',
+    // Role management strings
+    'org.member.manageRoles': 'Rollide haldamine',
+    'org.roles.error': 'Viga: {error}',
+    'org.roles.manageFor': 'Rollide haldamine {name}',
+    'org.roles.selectRole': 'Valige roll',
+    'org.roles.noRole': 'Rolli ei ole (ainult õigused)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Liikmesriik',
+    'org.roles.author': 'Autor',
+    'org.roles.workshop': 'Töötuba',
+    'org.roles.teacher': 'Õpetaja',
+    'org.permissions.title': 'Õigused',
+    'org.permissions.includedInRole': '(lisatud rollile)',
+    // Permission names
+    'org.permissions.members.add': 'Liikmete lisamine',
+    'org.permissions.members.remove': 'Eemaldage liikmed',
+    'org.permissions.members.view': 'Vaata liikmeid',
+    'org.permissions.settings': 'Seadete haldamine',
+    'org.permissions.auditLog': 'Vaata auditilogi',
+    'org.permissions.flashnews': 'Halda flash uudiseid',
+    'org.permissions.workshop.view': 'Vaata töötuba',
+    'org.permissions.workshop.create': 'Loo töötoa objektid',
+    'org.permissions.workshop.transfer': 'Omandiõiguse üleandmine',
+    'org.permissions.workshop.viewAll': 'Vaadake kõiki töötoa objekte',
+    'org.permissions.forum.manager': 'Foorumite haldamine',
+    'org.permissions.blog.manage': 'Halda blogi',
+    'org.permissions.blog.post': 'Blogipostituste loomine'
 };
