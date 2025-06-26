@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Сторінки',
     'stats.blog.posts': 'Пости',
     'stats.unknown': 'Невизначено',
-    'stats.noData': 'Дані відсутні на даний момент.'
+    'stats.noData': 'Дані відсутні на даний момент.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Статистичних даних поки що немає. Почніть публікувати свої роботи, щоб побачити статистику!',
+    'workshop.theWay.overallStats.content': 'Ваш вміст',
+    'workshop.theWay.overallStats.stories': 'Історії',
+    'workshop.theWay.overallStats.universes': 'Всесвіти',
+    'workshop.theWay.overallStats.chapters': 'Розділи',
+    'workshop.theWay.overallStats.wordCount': 'Написані слова',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Статті в енциклопедії',
+    'workshop.theWay.overallStats.publishingStreak': 'Тижнева серія публікацій',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Місячна серія публікацій',
+    'workshop.theWay.overallStats.audience': 'Ваша аудиторія',
+    'workshop.theWay.overallStats.fans': 'Вболівальники',
+    'workshop.theWay.overallStats.followers': 'Підписники',
+    'workshop.theWay.overallStats.uniqueReaders': 'Унікальні читачі',
+    'workshop.theWay.overallStats.storyViews': 'Погляди на історію',
+    'workshop.theWay.overallStats.universeViews': 'Погляди на Всесвіт',
+    'workshop.theWay.overallStats.readingTime': 'Час читання (хв)',
+    'workshop.theWay.overallStats.demographics': 'Демографічні показники читачів',
+    'workshop.theWay.overallStats.topCountry': 'Краща країна',
+    'workshop.theWay.overallStats.topAgeGroup': 'Найвища вікова група',
+    'workshop.theWay.overallStats.genres': 'Ваші жанри'
 };
