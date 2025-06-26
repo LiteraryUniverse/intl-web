@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Tugas yang Diperlukan",
   "theWay.nextLevel.optionalTasks": "Tugas Opsional",
   "theWay.genre.general": "Umum",
-  "theWay.nextLevel.optionalTasksRequired": "Anda harus menyelesaikan setidaknya {neededOptionals, number} opsional {tasks, plural, one {tugas} other {tugas}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Anda harus menyelesaikan setidaknya {neededOptionals, number} opsional {neededOptionals, plural, one {tugas} other {tugas}}.",
   "theWay.level0.title": "Saat ini Anda hanyalah seorang pembaca dalam buku semua orang.",
   "theWay.level0.getStarted": "Publikasikan cerita pertama Anda hari ini dan mulailah perjalanan Anda!",
   "workshop.theWay.overallStats": "Statistik Keseluruhan",
