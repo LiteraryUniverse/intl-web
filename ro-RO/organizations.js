@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Părăsiți organizația',
     'org.member.leaveModalTitle': 'Confirmarea părăsirii organizației',
     'org.member.leaveModalHeading': 'Ești sigur că vrei să pleci {orgName}',
-    'org.member.leaveModalExplain': 'Odată ce părăsiți organizația, veți pierde accesul la toate resursele și lucrările asociate organizației. Această acțiune nu poate fi anulată.'
+    'org.member.leaveModalExplain': 'Odată ce părăsiți organizația, veți pierde accesul la toate resursele și lucrările asociate organizației. Această acțiune nu poate fi anulată.',
+    // Role management strings
+    'org.member.manageRoles': 'Gestionarea rolurilor',
+    'org.roles.error': 'Eroare: {error}',
+    'org.roles.manageFor': 'Gestionarea rolurilor pentru {name}',
+    'org.roles.selectRole': 'Selectați rolul',
+    'org.roles.noRole': 'Fără rol (doar permisiuni)',
+    'org.roles.admin': 'Administrator',
+    'org.roles.member': 'Membru',
+    'org.roles.author': 'Autor',
+    'org.roles.workshop': 'Atelier de lucru',
+    'org.roles.teacher': 'Învățător',
+    'org.permissions.title': 'Permisiuni',
+    'org.permissions.includedInRole': '(incluse în rol)',
+    // Permission names
+    'org.permissions.members.add': 'Adăugați membri',
+    'org.permissions.members.remove': 'Eliminarea membrilor',
+    'org.permissions.members.view': 'Vezi membrii',
+    'org.permissions.settings': 'Gestionați setările',
+    'org.permissions.auditLog': 'Vizualizați jurnalul de audit',
+    'org.permissions.flashnews': 'Gestionați știrile flash',
+    'org.permissions.workshop.view': 'Vezi atelierul',
+    'org.permissions.workshop.create': 'Creați elemente de atelier',
+    'org.permissions.workshop.transfer': 'Transferul proprietății',
+    'org.permissions.workshop.viewAll': 'Vezi toate articolele pentru atelier',
+    'org.permissions.forum.manager': 'Gestionarea forumurilor',
+    'org.permissions.blog.manage': 'Gestionați blogul',
+    'org.permissions.blog.post': 'Creați postări pe blog'
 };
