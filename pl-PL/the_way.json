@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Wymagane zadania",
   "theWay.nextLevel.optionalTasks": "Zadania opcjonalne",
   "theWay.genre.general": "Ogólne",
-  "theWay.nextLevel.optionalTasksRequired": "Proszę wypełnić co najmniej {neededOptionals, number} opcjonalne {tasks, plural, one {zadanie} other {zadania}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Proszę wypełnić co najmniej {neededOptionals, number} opcjonalne {neededOptionals, plural, one {zadanie} other {zadania}}.",
   "theWay.level0.title": "Obecnie jest Pan tylko czytelnikiem w książce każdego z nas.",
   "theWay.level0.getStarted": "Proszę opublikować swój pierwszy artykuł już dziś i rozpocząć podróż!",
   "workshop.theWay.overallStats": "Statystyki ogólne",
