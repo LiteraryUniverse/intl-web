@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Požadované úlohy",
   "theWay.nextLevel.optionalTasks": "Voliteľné úlohy",
   "theWay.genre.general": "Všeobecné",
-  "theWay.nextLevel.optionalTasksRequired": "Musíte vyplniť aspoň {neededOptionals, number} voliteľné {tasks, plural, one {úlohy} other {úlohy}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Musíte vyplniť aspoň {neededOptionals, number} voliteľné {neededOptionals, plural, one {úlohy} other {úlohy}}.",
   "theWay.level0.title": "V súčasnosti ste len čitateľom v knihe všetkých.",
   "theWay.level0.getStarted": "Uverejnite svoj prvý príbeh ešte dnes a začnite svoju cestu!",
   "workshop.theWay.overallStats": "Celkové štatistiky",
