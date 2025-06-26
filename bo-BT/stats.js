@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'ཤོག་ལེབ་ཚུ།',
     'stats.blog.posts': 'གནས་ཚུ།',
     'stats.unknown': 'མི་བྱེད་པ་མེད།',
-    'stats.noData': 'ད་ལྟོའི་གནས་མི་འདུག་པ་མེད།'
+    'stats.noData': 'ད་ལྟོའི་གནས་མི་འདུག་པ་མེད།',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'No statistics data available yet. Start publishing your work to see your stats!',
+    'workshop.theWay.overallStats.content': 'Your Content',
+    'workshop.theWay.overallStats.stories': 'Stories',
+    'workshop.theWay.overallStats.universes': 'Universes',
+    'workshop.theWay.overallStats.chapters': 'Chapters',
+    'workshop.theWay.overallStats.wordCount': 'Words Written',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Encyclopedia Entries',
+    'workshop.theWay.overallStats.publishingStreak': 'Week Publishing Streak',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Month Publication Streak',
+    'workshop.theWay.overallStats.audience': 'Your Audience',
+    'workshop.theWay.overallStats.fans': 'Fans',
+    'workshop.theWay.overallStats.followers': 'Followers',
+    'workshop.theWay.overallStats.uniqueReaders': 'Unique Readers',
+    'workshop.theWay.overallStats.storyViews': 'Story Views',
+    'workshop.theWay.overallStats.universeViews': 'Universe Views',
+    'workshop.theWay.overallStats.readingTime': 'Reading Time (min)',
+    'workshop.theWay.overallStats.demographics': 'Reader Demographics',
+    'workshop.theWay.overallStats.topCountry': 'Top Country',
+    'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
+    'workshop.theWay.overallStats.genres': 'Your Genres'
 };
