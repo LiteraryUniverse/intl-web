@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Lasciare l\'organizzazione',
     'org.member.leaveModalTitle': 'Conferma della partenza dell\'organizzazione',
     'org.member.leaveModalHeading': 'È sicuro di voler lasciare {orgName}',
-    'org.member.leaveModalExplain': 'Una volta lasciata l\'organizzazione, perderà l\'accesso a tutte le risorse e i lavori associati all\'organizzazione. Questa azione non può essere annullata.'
+    'org.member.leaveModalExplain': 'Una volta lasciata l\'organizzazione, perderà l\'accesso a tutte le risorse e i lavori associati all\'organizzazione. Questa azione non può essere annullata.',
+    // Role management strings
+    'org.member.manageRoles': 'Gestire i ruoli',
+    'org.roles.error': 'Errore: {error}',
+    'org.roles.manageFor': 'Gestione dei ruoli per {name}',
+    'org.roles.selectRole': 'Seleziona il ruolo',
+    'org.roles.noRole': 'Nessun ruolo (solo autorizzazioni)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Membro',
+    'org.roles.author': 'Autore',
+    'org.roles.workshop': 'Officina',
+    'org.roles.teacher': 'Insegnante',
+    'org.permissions.title': 'Permessi',
+    'org.permissions.includedInRole': '(incluso nel ruolo)',
+    // Permission names
+    'org.permissions.members.add': 'Aggiungi membri',
+    'org.permissions.members.remove': 'Rimuovere i membri',
+    'org.permissions.members.view': 'Visualizza i membri',
+    'org.permissions.settings': 'Gestire le impostazioni',
+    'org.permissions.auditLog': 'Visualizza il registro di audit',
+    'org.permissions.flashnews': 'Gestire le notizie flash',
+    'org.permissions.workshop.view': 'Visualizza l\'officina',
+    'org.permissions.workshop.create': 'Creare articoli per il workshop',
+    'org.permissions.workshop.transfer': 'Trasferimento di proprietà',
+    'org.permissions.workshop.viewAll': 'Visualizza tutti gli articoli del workshop',
+    'org.permissions.forum.manager': 'Gestire i forum',
+    'org.permissions.blog.manage': 'Gestire il blog',
+    'org.permissions.blog.post': 'Creare post sul blog'
 };
