@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'الصفحات',
     'stats.blog.posts': 'المشاركات',
     'stats.unknown': 'غير معروف',
-    'stats.noData': 'لا تتوفر بيانات في الوقت الحالي.'
+    'stats.noData': 'لا تتوفر بيانات في الوقت الحالي.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'لا توجد بيانات إحصائية متاحة بعد. ابدأ بنشر عملك لترى إحصائياتك!',
+    'workshop.theWay.overallStats.content': 'المحتوى الخاص بك',
+    'workshop.theWay.overallStats.stories': 'قصص',
+    'workshop.theWay.overallStats.universes': 'الأكوان',
+    'workshop.theWay.overallStats.chapters': 'الفصول',
+    'workshop.theWay.overallStats.wordCount': 'كلمات مكتوبة',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'إدخالات الموسوعة',
+    'workshop.theWay.overallStats.publishingStreak': 'سلسلة النشر الأسبوعية',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'سلسلة المنشورات الشهرية',
+    'workshop.theWay.overallStats.audience': 'جمهورك',
+    'workshop.theWay.overallStats.fans': 'المعجبون',
+    'workshop.theWay.overallStats.followers': 'المتابعون',
+    'workshop.theWay.overallStats.uniqueReaders': 'القراء الفريدون',
+    'workshop.theWay.overallStats.storyViews': 'مشاهدات القصة',
+    'workshop.theWay.overallStats.universeViews': 'مشاهدات الكون',
+    'workshop.theWay.overallStats.readingTime': 'وقت القراءة (دقيقة)',
+    'workshop.theWay.overallStats.demographics': 'التركيبة السكانية للقراء',
+    'workshop.theWay.overallStats.topCountry': 'أفضل بلد',
+    'workshop.theWay.overallStats.topAgeGroup': 'الفئة العمرية الأعلى',
+    'workshop.theWay.overallStats.genres': 'الأنواع الخاصة بك'
 };
