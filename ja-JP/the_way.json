@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "必須タスク",
   "theWay.nextLevel.optionalTasks": "オプショナル・タスク",
   "theWay.genre.general": "一般",
-  "theWay.nextLevel.optionalTasksRequired": "少なくとも {neededOptionals, number} オプション {tasks, plural, one {タスク} other {タスク}}.",
+  "theWay.nextLevel.optionalTasksRequired": "少なくとも {neededOptionals, number} オプション {neededOptionals, plural, one {タスク} other {タスク}}.",
   "theWay.level0.title": "あなたは現在、みんなの中ではただの読者にすぎない。",
   "theWay.level0.getStarted": "今日、最初のストーリーを出版し、あなたの旅を始めましょう！",
   "workshop.theWay.overallStats": "総合統計",
