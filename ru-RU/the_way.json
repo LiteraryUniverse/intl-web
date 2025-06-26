@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Необходимые задания",
   "theWay.nextLevel.optionalTasks": "Дополнительные задания",
   "theWay.genre.general": "Общие сведения",
-  "theWay.nextLevel.optionalTasksRequired": "Вам необходимо выполнить как минимум {neededOptionals, number} необязательное {tasks, plural, one {задание} other {задания}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Вам необходимо выполнить как минимум {neededOptionals, number} необязательное {neededOptionals, plural, one {задание} other {задания}}.",
   "theWay.level0.title": "В настоящее время Вы просто читатель в книге каждого.",
   "theWay.level0.getStarted": "Опубликуйте свою первую историю сегодня и начните свое путешествие!",
   "workshop.theWay.overallStats": "Общая статистика",
