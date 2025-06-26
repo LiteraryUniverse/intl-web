@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Organizasyondan ayrılın',
     'org.member.leaveModalTitle': 'Organizasyon onayından ayrılma',
     'org.member.leaveModalHeading': 'Ayrılmak istediğine emin misin {orgName}',
-    'org.member.leaveModalExplain': 'Kuruluştan ayrıldığınızda kuruluşun tüm ilişkili kaynaklarına ve çalışmalarına erişiminizi kaybedersiniz. Bu eylem geri alınamaz.'
+    'org.member.leaveModalExplain': 'Kuruluştan ayrıldığınızda kuruluşun tüm ilişkili kaynaklarına ve çalışmalarına erişiminizi kaybedersiniz. Bu eylem geri alınamaz.',
+    // Role management strings
+    'org.member.manageRoles': 'Rolleri Yönet',
+    'org.roles.error': 'Hata: {error}',
+    'org.roles.manageFor': '{name}için rolleri yönetme',
+    'org.roles.selectRole': 'Rol seçin',
+    'org.roles.noRole': 'Rol yok (yalnızca izinler)',
+    'org.roles.admin': 'Yönetici',
+    'org.roles.member': 'Üye',
+    'org.roles.author': 'Yazar',
+    'org.roles.workshop': 'Atölye Çalışması',
+    'org.roles.teacher': 'Öğretmen',
+    'org.permissions.title': 'İzinler',
+    'org.permissions.includedInRole': '(role dahil)',
+    // Permission names
+    'org.permissions.members.add': 'Üye ekleme',
+    'org.permissions.members.remove': 'Üyeleri çıkarın',
+    'org.permissions.members.view': 'Üyeleri görüntüle',
+    'org.permissions.settings': 'Ayarları yönet',
+    'org.permissions.auditLog': 'Denetim günlüğünü görüntüle',
+    'org.permissions.flashnews': 'Flaş haberleri yönetin',
+    'org.permissions.workshop.view': 'Atölyeyi görüntüle',
+    'org.permissions.workshop.create': 'Atölye öğeleri oluşturun',
+    'org.permissions.workshop.transfer': 'Mülkiyet devri',
+    'org.permissions.workshop.viewAll': 'Tüm atölye öğelerini görüntüleyin',
+    'org.permissions.forum.manager': 'Forumları yönetin',
+    'org.permissions.blog.manage': 'Blog yönet',
+    'org.permissions.blog.post': 'Blog gönderileri oluşturun'
 };
