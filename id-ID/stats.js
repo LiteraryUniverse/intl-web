@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Halaman',
     'stats.blog.posts': 'Kiriman',
     'stats.unknown': 'Tidak diketahui',
-    'stats.noData': 'Tidak ada data yang tersedia saat ini.'
+    'stats.noData': 'Tidak ada data yang tersedia saat ini.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Belum ada data statistik yang tersedia. Mulailah mempublikasikan karya Anda untuk melihat statistik Anda!',
+    'workshop.theWay.overallStats.content': 'Konten Anda',
+    'workshop.theWay.overallStats.stories': 'Cerita',
+    'workshop.theWay.overallStats.universes': 'Alam semesta',
+    'workshop.theWay.overallStats.chapters': 'Bab-bab',
+    'workshop.theWay.overallStats.wordCount': 'Kata-kata yang Ditulis',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Entri Ensiklopedia',
+    'workshop.theWay.overallStats.publishingStreak': 'Minggu Penerbitan Beruntun',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Bulan Publikasi Beruntun',
+    'workshop.theWay.overallStats.audience': 'Audiens Anda',
+    'workshop.theWay.overallStats.fans': 'Penggemar',
+    'workshop.theWay.overallStats.followers': 'Pengikut',
+    'workshop.theWay.overallStats.uniqueReaders': 'Pembaca Unik',
+    'workshop.theWay.overallStats.storyViews': 'Tampilan Cerita',
+    'workshop.theWay.overallStats.universeViews': 'Tampilan Semesta',
+    'workshop.theWay.overallStats.readingTime': 'Waktu Pembacaan (menit)',
+    'workshop.theWay.overallStats.demographics': 'Demografi Pembaca',
+    'workshop.theWay.overallStats.topCountry': 'Negara teratas',
+    'workshop.theWay.overallStats.topAgeGroup': 'Kelompok Usia Tertinggi',
+    'workshop.theWay.overallStats.genres': 'Genre Anda'
 };
