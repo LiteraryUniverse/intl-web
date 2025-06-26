@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Sivut',
     'stats.blog.posts': 'Lähetä',
     'stats.unknown': 'Tuntematon',
-    'stats.noData': 'Ei saatavilla olevia tietoja tällä hetkellä.'
+    'stats.noData': 'Ei saatavilla olevia tietoja tällä hetkellä.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Tilastotietoja ei ole vielä saatavilla. Aloita työn julkaiseminen nähdäksesi tilastosi!',
+    'workshop.theWay.overallStats.content': 'Sisältösi',
+    'workshop.theWay.overallStats.stories': 'Tarinat',
+    'workshop.theWay.overallStats.universes': 'Maailmankaikkeudet',
+    'workshop.theWay.overallStats.chapters': 'Luvut',
+    'workshop.theWay.overallStats.wordCount': 'Kirjoitetut sanat',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Tietosanakirjan merkinnät',
+    'workshop.theWay.overallStats.publishingStreak': 'Viikko Publishing Streak',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Kuukausi Julkaisu Streak',
+    'workshop.theWay.overallStats.audience': 'Yleisösi',
+    'workshop.theWay.overallStats.fans': 'Tuulettimet',
+    'workshop.theWay.overallStats.followers': 'Seuraajat',
+    'workshop.theWay.overallStats.uniqueReaders': 'Ainutlaatuiset lukijat',
+    'workshop.theWay.overallStats.storyViews': 'Tarinan näkymät',
+    'workshop.theWay.overallStats.universeViews': 'Universum-näkymät',
+    'workshop.theWay.overallStats.readingTime': 'Lukuaika (min)',
+    'workshop.theWay.overallStats.demographics': 'Lukijoiden demografiset tiedot',
+    'workshop.theWay.overallStats.topCountry': 'Top Maa',
+    'workshop.theWay.overallStats.topAgeGroup': 'Paras ikäryhmä',
+    'workshop.theWay.overallStats.genres': 'Genres'
 };
