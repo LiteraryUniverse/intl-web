@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Nödvändiga uppgifter",
   "theWay.nextLevel.optionalTasks": "Valfria uppgifter",
   "theWay.genre.general": "Allmänt",
-  "theWay.nextLevel.optionalTasksRequired": "Du måste slutföra minst {neededOptionals, number} valfritt {tasks, plural, one {uppgift} other {uppgifter}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Du måste slutföra minst {neededOptionals, number} valfritt {neededOptionals, plural, one {uppgift} other {uppgifter}}.",
   "theWay.level0.title": "Du är för närvarande bara en läsare i allas bok.",
   "theWay.level0.getStarted": "Publicera din första berättelse idag och börja din resa!",
   "workshop.theWay.overallStats": "Övergripande statistik",
