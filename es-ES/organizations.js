@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Dejar la organización',
     'org.member.leaveModalTitle': 'Confirmación de salida de la organización',
     'org.member.leaveModalHeading': '¿Está seguro de que quiere dejar {orgName}',
-    'org.member.leaveModalExplain': 'Una vez que abandone la organización, perderá el acceso a todos los recursos y trabajos asociados a la misma. Esta acción no puede deshacerse.'
+    'org.member.leaveModalExplain': 'Una vez que abandone la organización, perderá el acceso a todos los recursos y trabajos asociados a la misma. Esta acción no puede deshacerse.',
+    // Role management strings
+    'org.member.manageRoles': 'Gestionar funciones',
+    'org.roles.error': 'Error: {error}',
+    'org.roles.manageFor': 'Gestión de funciones para {name}',
+    'org.roles.selectRole': 'Seleccione el papel',
+    'org.roles.noRole': 'Sin función (sólo permisos)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Miembro',
+    'org.roles.author': 'Autor',
+    'org.roles.workshop': 'Taller',
+    'org.roles.teacher': 'Profesor',
+    'org.permissions.title': 'Permisos',
+    'org.permissions.includedInRole': '(incluido en el papel)',
+    // Permission names
+    'org.permissions.members.add': 'Añadir miembros',
+    'org.permissions.members.remove': 'Eliminar miembros',
+    'org.permissions.members.view': 'Ver miembros',
+    'org.permissions.settings': 'Gestionar los ajustes',
+    'org.permissions.auditLog': 'Ver el registro de auditoría',
+    'org.permissions.flashnews': 'Gestionar las noticias flash',
+    'org.permissions.workshop.view': 'Ver taller',
+    'org.permissions.workshop.create': 'Crear artículos de taller',
+    'org.permissions.workshop.transfer': 'Transferir la propiedad',
+    'org.permissions.workshop.viewAll': 'Ver todos los artículos del taller',
+    'org.permissions.forum.manager': 'Gestionar foros',
+    'org.permissions.blog.manage': 'Gestionar el blog',
+    'org.permissions.blog.post': 'Crear entradas de blog'
 };
