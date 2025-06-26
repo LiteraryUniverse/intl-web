@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Stron',
     'stats.blog.posts': 'Wpisów',
     'stats.unknown': 'Nieznane',
-    'stats.noData': 'Brak dostępnych danych w tym momencie.'
+    'stats.noData': 'Brak dostępnych danych w tym momencie.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Dane statystyczne nie są jeszcze dostępne. Proszę zacząć publikować swoje prace, aby zobaczyć statystyki!',
+    'workshop.theWay.overallStats.content': 'Państwa treść',
+    'workshop.theWay.overallStats.stories': 'Historie',
+    'workshop.theWay.overallStats.universes': 'Wszechświaty',
+    'workshop.theWay.overallStats.chapters': 'Rozdziały',
+    'workshop.theWay.overallStats.wordCount': 'Napisane słowa',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Wpisy w encyklopedii',
+    'workshop.theWay.overallStats.publishingStreak': 'Tygodniowa passa wydawnicza',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Miesięczna passa publikacji',
+    'workshop.theWay.overallStats.audience': 'Państwa odbiorcy',
+    'workshop.theWay.overallStats.fans': 'Fani',
+    'workshop.theWay.overallStats.followers': 'Obserwujący',
+    'workshop.theWay.overallStats.uniqueReaders': 'Unikalni czytelnicy',
+    'workshop.theWay.overallStats.storyViews': 'Widoki historii',
+    'workshop.theWay.overallStats.universeViews': 'Widoki wszechświata',
+    'workshop.theWay.overallStats.readingTime': 'Czas odczytu (min)',
+    'workshop.theWay.overallStats.demographics': 'Dane demograficzne czytelników',
+    'workshop.theWay.overallStats.topCountry': 'Top Country',
+    'workshop.theWay.overallStats.topAgeGroup': 'Najlepsza grupa wiekowa',
+    'workshop.theWay.overallStats.genres': 'Państwa gatunki'
 };
