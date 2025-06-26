@@ -60,5 +60,32 @@ export default {
     'org.member.leave': '조직에서 나가기',
     'org.member.leaveModalTitle': '조직 탈퇴 확인',
     'org.member.leaveModalHeading': '정말 탈퇴하시겠습니까? {orgName}',
-    'org.member.leaveModalExplain': '조직을 탈퇴하면 조직의 모든 관련 리소스 및 업무에 대한 액세스 권한이 상실됩니다. 이 조치는 되돌릴 수 없습니다.'
+    'org.member.leaveModalExplain': '조직을 탈퇴하면 조직의 모든 관련 리소스 및 업무에 대한 액세스 권한이 상실됩니다. 이 조치는 되돌릴 수 없습니다.',
+    // Role management strings
+    'org.member.manageRoles': '역할 관리',
+    'org.roles.error': '오류: {error}',
+    'org.roles.manageFor': '{name}역할 관리하기',
+    'org.roles.selectRole': '역할 선택',
+    'org.roles.noRole': '역할 없음(권한만)',
+    'org.roles.admin': '관리자',
+    'org.roles.member': '회원',
+    'org.roles.author': '작성자',
+    'org.roles.workshop': '워크샵',
+    'org.roles.teacher': '교사',
+    'org.permissions.title': '권한',
+    'org.permissions.includedInRole': '(역할에 포함)',
+    // Permission names
+    'org.permissions.members.add': '멤버 추가',
+    'org.permissions.members.remove': '구성원 제거',
+    'org.permissions.members.view': '회원 보기',
+    'org.permissions.settings': '설정 관리',
+    'org.permissions.auditLog': '감사 로그 보기',
+    'org.permissions.flashnews': '플래시 뉴스 관리',
+    'org.permissions.workshop.view': '워크샵 보기',
+    'org.permissions.workshop.create': '워크샵 아이템 만들기',
+    'org.permissions.workshop.transfer': '소유권 이전',
+    'org.permissions.workshop.viewAll': '모든 워크샵 항목 보기',
+    'org.permissions.forum.manager': '포럼 관리',
+    'org.permissions.blog.manage': '블로그 관리',
+    'org.permissions.blog.post': '블로그 게시물 만들기'
 };
