@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Atostogų organizavimas',
     'org.member.leaveModalTitle': 'Išvykimo iš organizacijos patvirtinimas',
     'org.member.leaveModalHeading': 'Ar tikrai norite palikti {orgName}',
-    'org.member.leaveModalExplain': 'Pasitraukę iš organizacijos neteksite prieigos prie visų susijusių organizacijos išteklių ir darbų. Šio veiksmo atšaukti neįmanoma.'
+    'org.member.leaveModalExplain': 'Pasitraukę iš organizacijos neteksite prieigos prie visų susijusių organizacijos išteklių ir darbų. Šio veiksmo atšaukti neįmanoma.',
+    // Role management strings
+    'org.member.manageRoles': 'Valdyti vaidmenis',
+    'org.roles.error': 'Klaida: {error}',
+    'org.roles.manageFor': 'Vaidmenų valdymas {name}',
+    'org.roles.selectRole': 'Pasirinkite vaidmenį',
+    'org.roles.noRole': 'Nėra vaidmens (tik leidimai)',
+    'org.roles.admin': 'Administratorius',
+    'org.roles.member': 'Narys',
+    'org.roles.author': 'Autorius',
+    'org.roles.workshop': 'Seminaras',
+    'org.roles.teacher': 'Mokytojas',
+    'org.permissions.title': 'Leidimai',
+    'org.permissions.includedInRole': '(įtraukta į vaidmenį)',
+    // Permission names
+    'org.permissions.members.add': 'Pridėti narius',
+    'org.permissions.members.remove': 'Pašalinti narius',
+    'org.permissions.members.view': 'Peržiūrėti narius',
+    'org.permissions.settings': 'Tvarkyti nustatymus',
+    'org.permissions.auditLog': 'Peržiūrėti audito žurnalą',
+    'org.permissions.flashnews': 'Tvarkykite "flash" naujienas',
+    'org.permissions.workshop.view': 'Peržiūrėti dirbtuves',
+    'org.permissions.workshop.create': 'Sukurti dirbtuvių elementus',
+    'org.permissions.workshop.transfer': 'Nuosavybės teisės perdavimas',
+    'org.permissions.workshop.viewAll': 'Peržiūrėti visas dirbtuvių prekes',
+    'org.permissions.forum.manager': 'Tvarkyti forumus',
+    'org.permissions.blog.manage': 'Tvarkyti tinklaraštį',
+    'org.permissions.blog.post': 'Sukurti tinklaraščio įrašus'
 };
