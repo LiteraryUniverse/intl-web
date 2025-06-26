@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Hagyja el a szervezetet',
     'org.member.leaveModalTitle': 'A szervezet elhagyásának megerősítése',
     'org.member.leaveModalHeading': 'Biztos vagy benne, hogy el akarsz menni {orgName}',
-    'org.member.leaveModalExplain': 'Ha elhagyja a szervezetet, elveszíti a hozzáférést a szervezet összes kapcsolódó erőforrásához és munkájához. Ezt a műveletet nem lehet visszacsinálni.'
+    'org.member.leaveModalExplain': 'Ha elhagyja a szervezetet, elveszíti a hozzáférést a szervezet összes kapcsolódó erőforrásához és munkájához. Ezt a műveletet nem lehet visszacsinálni.',
+    // Role management strings
+    'org.member.manageRoles': 'Szerepkörök kezelése',
+    'org.roles.error': 'Hiba: {error}',
+    'org.roles.manageFor': 'Szerepek kezelése a {name}oldalon',
+    'org.roles.selectRole': 'Szerepkör kiválasztása',
+    'org.roles.noRole': 'Nincs szerep (csak jogosultságok)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Tag',
+    'org.roles.author': 'Szerző',
+    'org.roles.workshop': 'Műhely',
+    'org.roles.teacher': 'Tanár',
+    'org.permissions.title': 'Engedélyek',
+    'org.permissions.includedInRole': '(a szerepkörben szerepel)',
+    // Permission names
+    'org.permissions.members.add': 'Tagok hozzáadása',
+    'org.permissions.members.remove': 'Tagok eltávolítása',
+    'org.permissions.members.view': 'Tagok megtekintése',
+    'org.permissions.settings': 'Beállítások kezelése',
+    'org.permissions.auditLog': 'Ellenőrzési napló megtekintése',
+    'org.permissions.flashnews': 'Flash hírek kezelése',
+    'org.permissions.workshop.view': 'Műhely megtekintése',
+    'org.permissions.workshop.create': 'Műhelytárgyak létrehozása',
+    'org.permissions.workshop.transfer': 'Tulajdonjog átruházása',
+    'org.permissions.workshop.viewAll': 'Minden műhelytárgy megtekintése',
+    'org.permissions.forum.manager': 'Fórumok kezelése',
+    'org.permissions.blog.manage': 'Blog kezelése',
+    'org.permissions.blog.post': 'Blogbejegyzések létrehozása'
 };
