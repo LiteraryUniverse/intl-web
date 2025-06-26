@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Страницы',
     'stats.blog.posts': 'Публикации',
     'stats.unknown': 'Неизвестно',
-    'stats.noData': 'В настоящее время данных нет.'
+    'stats.noData': 'В настоящее время данных нет.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Статистические данные пока не доступны. Начните публиковать свои работы, чтобы увидеть свою статистику!',
+    'workshop.theWay.overallStats.content': 'Ваш контент',
+    'workshop.theWay.overallStats.stories': 'Истории',
+    'workshop.theWay.overallStats.universes': 'Вселенные',
+    'workshop.theWay.overallStats.chapters': 'Главы',
+    'workshop.theWay.overallStats.wordCount': 'Написанные слова',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Записи в энциклопедии',
+    'workshop.theWay.overallStats.publishingStreak': 'Недельная полоса публикаций',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Месяц публикации',
+    'workshop.theWay.overallStats.audience': 'Ваша аудитория',
+    'workshop.theWay.overallStats.fans': 'Вентиляторы',
+    'workshop.theWay.overallStats.followers': 'Последователи',
+    'workshop.theWay.overallStats.uniqueReaders': 'Уникальные читатели',
+    'workshop.theWay.overallStats.storyViews': 'Виды историй',
+    'workshop.theWay.overallStats.universeViews': 'Вселенские взгляды',
+    'workshop.theWay.overallStats.readingTime': 'Время чтения (мин)',
+    'workshop.theWay.overallStats.demographics': 'Демографические данные читателей',
+    'workshop.theWay.overallStats.topCountry': 'Лучшие страны',
+    'workshop.theWay.overallStats.topAgeGroup': 'Лучшая возрастная группа',
+    'workshop.theWay.overallStats.genres': 'Ваши жанры'
 };
