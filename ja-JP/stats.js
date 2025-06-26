@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'ページ',
     'stats.blog.posts': '投稿',
     'stats.unknown': '不明',
-    'stats.noData': '現在データはありません。'
+    'stats.noData': '現在データはありません。',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': '統計データはまだありません。統計データを見るには、作品の公開を開始してください！',
+    'workshop.theWay.overallStats.content': 'コンテンツ',
+    'workshop.theWay.overallStats.stories': 'ストーリー',
+    'workshop.theWay.overallStats.universes': 'ユニヴァース',
+    'workshop.theWay.overallStats.chapters': '各章',
+    'workshop.theWay.overallStats.wordCount': '書かれた言葉',
+    'workshop.theWay.overallStats.encyclopediaEntries': '百科事典エントリー',
+    'workshop.theWay.overallStats.publishingStreak': '週間連続出版',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'ヶ月連続出版',
+    'workshop.theWay.overallStats.audience': 'オーディエンス',
+    'workshop.theWay.overallStats.fans': 'ファン',
+    'workshop.theWay.overallStats.followers': 'フォロワー',
+    'workshop.theWay.overallStats.uniqueReaders': 'ユニークな読者',
+    'workshop.theWay.overallStats.storyViews': 'ストーリー・ビュー',
+    'workshop.theWay.overallStats.universeViews': '宇宙の眺め',
+    'workshop.theWay.overallStats.readingTime': '読書時間（分）',
+    'workshop.theWay.overallStats.demographics': '読者層',
+    'workshop.theWay.overallStats.topCountry': 'トップ',
+    'workshop.theWay.overallStats.topAgeGroup': 'トップ・エイジ・グループ',
+    'workshop.theWay.overallStats.genres': 'あなたのジャンル'
 };
