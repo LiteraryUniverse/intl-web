@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Покинуть организацию',
     'org.member.leaveModalTitle': 'Подтверждение выхода из организации',
     'org.member.leaveModalHeading': 'Вы уверены, что хотите покинуть «{orgName}»',
-    'org.member.leaveModalExplain': 'Как только вы покинете организацию, вы потеряете доступ ко всем связанным с ней ресурсам и работам. Это действие необратимо.'
+    'org.member.leaveModalExplain': 'Как только вы покинете организацию, вы потеряете доступ ко всем связанным с ней ресурсам и работам. Это действие необратимо.',
+    // Role management strings
+    'org.member.manageRoles': 'Управление ролями',
+    'org.roles.error': 'Ошибка: {error}',
+    'org.roles.manageFor': 'Управление ролями для {name}',
+    'org.roles.selectRole': 'Выберите роль',
+    'org.roles.noRole': 'Нет роли (только разрешения)',
+    'org.roles.admin': 'Администратор',
+    'org.roles.member': 'Член',
+    'org.roles.author': 'Автор',
+    'org.roles.workshop': 'Семинар',
+    'org.roles.teacher': 'Преподаватель',
+    'org.permissions.title': 'Разрешения',
+    'org.permissions.includedInRole': '(входит в роль)',
+    // Permission names
+    'org.permissions.members.add': 'Добавить участников',
+    'org.permissions.members.remove': 'Удалите членов',
+    'org.permissions.members.view': 'Просмотр участников',
+    'org.permissions.settings': 'Управление настройками',
+    'org.permissions.auditLog': 'Просмотр журнала аудита',
+    'org.permissions.flashnews': 'Управление флэш-новостями',
+    'org.permissions.workshop.view': 'Посмотреть мастер-класс',
+    'org.permissions.workshop.create': 'Создавайте предметы для мастер-классов',
+    'org.permissions.workshop.transfer': 'Передача прав собственности',
+    'org.permissions.workshop.viewAll': 'Посмотреть все товары для семинаров',
+    'org.permissions.forum.manager': 'Управляйте форумами',
+    'org.permissions.blog.manage': 'Управляйте блогом',
+    'org.permissions.blog.post': 'Создавайте посты в блоге'
 };
