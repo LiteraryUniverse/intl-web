@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Lämna organisation',
     'org.member.leaveModalTitle': 'Lämna organisationsbekräftelse',
     'org.member.leaveModalHeading': 'Är du säker på att du vill lämna {orgName}',
-    'org.member.leaveModalExplain': 'När du lämnar organisationen förlorar du tillgång till alla organisationens tillhörande resurser och arbeten. Denna åtgärd kan inte ångras.'
+    'org.member.leaveModalExplain': 'När du lämnar organisationen förlorar du tillgång till alla organisationens tillhörande resurser och arbeten. Denna åtgärd kan inte ångras.',
+    // Role management strings
+    'org.member.manageRoles': 'Hantera roller',
+    'org.roles.error': 'Fel: {error}',
+    'org.roles.manageFor': 'Hantering av roller för {name}',
+    'org.roles.selectRole': 'Välj roll',
+    'org.roles.noRole': 'Ingen roll (endast behörigheter)',
+    'org.roles.admin': 'Administratör',
+    'org.roles.member': 'Ledamot',
+    'org.roles.author': 'Författaren',
+    'org.roles.workshop': 'Verkstad',
+    'org.roles.teacher': 'Lärare',
+    'org.permissions.title': 'Behörigheter',
+    'org.permissions.includedInRole': '(ingår i roll)',
+    // Permission names
+    'org.permissions.members.add': 'Lägg till medlemmar',
+    'org.permissions.members.remove': 'Ta bort medlemmar',
+    'org.permissions.members.view': 'Visa medlemmar',
+    'org.permissions.settings': 'Hantera inställningar',
+    'org.permissions.auditLog': 'Visa granskningslogg',
+    'org.permissions.flashnews': 'Hantera flash-nyheter',
+    'org.permissions.workshop.view': 'Visa verkstad',
+    'org.permissions.workshop.create': 'Skapa verkstadsartiklar',
+    'org.permissions.workshop.transfer': 'Överlåtelse av äganderätt',
+    'org.permissions.workshop.viewAll': 'Se alla workshopartiklar',
+    'org.permissions.forum.manager': 'Hantera forum',
+    'org.permissions.blog.manage': 'Hantera blogg',
+    'org.permissions.blog.post': 'Skapa blogginlägg'
 };
