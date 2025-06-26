@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Organisation verlassen',
     'org.member.leaveModalTitle': 'Bestätigung des Verlassens der Organisation',
     'org.member.leaveModalHeading': 'Sind Sie sicher, dass Sie {orgName}verlassen wollen?',
-    'org.member.leaveModalExplain': 'Sobald Sie die Organisation verlassen, verlieren Sie den Zugang zu allen Ressourcen und Werken der Organisation. Diese Aktion kann nicht rückgängig gemacht werden.'
+    'org.member.leaveModalExplain': 'Sobald Sie die Organisation verlassen, verlieren Sie den Zugang zu allen Ressourcen und Werken der Organisation. Diese Aktion kann nicht rückgängig gemacht werden.',
+    // Role management strings
+    'org.member.manageRoles': 'Rollen verwalten',
+    'org.roles.error': 'Fehler: {error}',
+    'org.roles.manageFor': 'Verwalten von Rollen für {name}',
+    'org.roles.selectRole': 'Rolle auswählen',
+    'org.roles.noRole': 'Keine Rolle (nur Berechtigungen)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Mitglied',
+    'org.roles.author': 'Autor',
+    'org.roles.workshop': 'Workshop',
+    'org.roles.teacher': 'Lehrer',
+    'org.permissions.title': 'Berechtigungen',
+    'org.permissions.includedInRole': '(in der Rolle enthalten)',
+    // Permission names
+    'org.permissions.members.add': 'Mitglieder hinzufügen',
+    'org.permissions.members.remove': 'Mitglieder entfernen',
+    'org.permissions.members.view': 'Mitglieder ansehen',
+    'org.permissions.settings': 'Einstellungen verwalten',
+    'org.permissions.auditLog': 'Audit-Protokoll anzeigen',
+    'org.permissions.flashnews': 'Verwalten von Kurznachrichten',
+    'org.permissions.workshop.view': 'Workshop ansehen',
+    'org.permissions.workshop.create': 'Workshop-Artikel erstellen',
+    'org.permissions.workshop.transfer': 'Eigentum übertragen',
+    'org.permissions.workshop.viewAll': 'Alle Workshop-Artikel ansehen',
+    'org.permissions.forum.manager': 'Foren verwalten',
+    'org.permissions.blog.manage': 'Blog verwalten',
+    'org.permissions.blog.post': 'Blogbeiträge erstellen'
 };
