@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Reikalingos užduotys",
   "theWay.nextLevel.optionalTasks": "Neprivalomos užduotys",
   "theWay.genre.general": "Bendra",
-  "theWay.nextLevel.optionalTasksRequired": "Turite atlikti bent {neededOptionals, number} neprivalomą {tasks, plural, one {užduotį} other {užduotis}}.",
+  "theWay.nextLevel.optionalTasksRequired": "Turite atlikti bent {neededOptionals, number} neprivalomą {neededOptionals, plural, one {užduotį} other {užduotis}}.",
   "theWay.level0.title": "Šiuo metu esate tik skaitytojas visų knygose.",
   "theWay.level0.getStarted": "Paskelbkite savo pirmąją istoriją šiandien ir pradėkite kelionę!",
   "workshop.theWay.overallStats": "Bendra statistika",
