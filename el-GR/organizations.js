@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Αφήστε την οργάνωση',
     'org.member.leaveModalTitle': 'Επιβεβαίωση αποχώρησης οργανισμού',
     'org.member.leaveModalHeading': 'Είσαι σίγουρος ότι θέλεις να φύγεις {orgName}',
-    'org.member.leaveModalExplain': 'Μόλις αποχωρήσετε από τον οργανισμό, θα χάσετε την πρόσβασή σας σε όλους τους σχετικούς πόρους και τα έργα του οργανισμού. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.'
+    'org.member.leaveModalExplain': 'Μόλις αποχωρήσετε από τον οργανισμό, θα χάσετε την πρόσβασή σας σε όλους τους σχετικούς πόρους και τα έργα του οργανισμού. Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.',
+    // Role management strings
+    'org.member.manageRoles': 'Διαχείριση ρόλων',
+    'org.roles.error': 'Σφάλμα: {error}',
+    'org.roles.manageFor': 'Διαχείριση ρόλων για το {name}',
+    'org.roles.selectRole': 'Επιλέξτε ρόλο',
+    'org.roles.noRole': 'Κανένας ρόλος (μόνο δικαιώματα)',
+    'org.roles.admin': 'Διαχειριστής',
+    'org.roles.member': 'Μέλος',
+    'org.roles.author': 'Συγγραφέας',
+    'org.roles.workshop': 'Εργαστήριο',
+    'org.roles.teacher': 'Δάσκαλος',
+    'org.permissions.title': 'Δικαιώματα',
+    'org.permissions.includedInRole': '(περιλαμβάνεται στο ρόλο)',
+    // Permission names
+    'org.permissions.members.add': 'Προσθήκη μελών',
+    'org.permissions.members.remove': 'Διαγραφή μελών',
+    'org.permissions.members.view': 'Προβολή μελών',
+    'org.permissions.settings': 'Διαχείριση ρυθμίσεων',
+    'org.permissions.auditLog': 'Προβολή αρχείου καταγραφής ελέγχου',
+    'org.permissions.flashnews': 'Διαχείριση ειδήσεων flash',
+    'org.permissions.workshop.view': 'Προβολή εργαστηρίου',
+    'org.permissions.workshop.create': 'Δημιουργία αντικειμένων εργαστηρίου',
+    'org.permissions.workshop.transfer': 'Μεταβίβαση ιδιοκτησίας',
+    'org.permissions.workshop.viewAll': 'Προβολή όλων των αντικειμένων του εργαστηρίου',
+    'org.permissions.forum.manager': 'Διαχείριση φόρουμ',
+    'org.permissions.blog.manage': 'Διαχείριση ιστολογίου',
+    'org.permissions.blog.post': 'Δημιουργία αναρτήσεων στο blog'
 };
