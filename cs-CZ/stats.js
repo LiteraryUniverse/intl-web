@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Stránky',
     'stats.blog.posts': 'Příspěvky',
     'stats.unknown': 'Neznámé',
-    'stats.noData': 'Zatím pro Vás nic nemáme.'
+    'stats.noData': 'Zatím pro Vás nic nemáme.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Zatím nejsou k dispozici žádné statistické údaje. Začněte publikovat svou práci, abyste viděli své statistiky!',
+    'workshop.theWay.overallStats.content': 'Váš obsah',
+    'workshop.theWay.overallStats.stories': 'Příběhy',
+    'workshop.theWay.overallStats.universes': 'Vesmíry',
+    'workshop.theWay.overallStats.chapters': 'Kapitoly',
+    'workshop.theWay.overallStats.wordCount': 'Napsaná slova',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Záznamy v encyklopedii',
+    'workshop.theWay.overallStats.publishingStreak': 'Týdenní publikační série',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Měsíc publikační série',
+    'workshop.theWay.overallStats.audience': 'Vaše publikum',
+    'workshop.theWay.overallStats.fans': 'Fanoušci',
+    'workshop.theWay.overallStats.followers': 'Následovníci',
+    'workshop.theWay.overallStats.uniqueReaders': 'Jedineční čtenáři',
+    'workshop.theWay.overallStats.storyViews': 'Zobrazení příběhu',
+    'workshop.theWay.overallStats.universeViews': 'Pohledy na vesmír',
+    'workshop.theWay.overallStats.readingTime': 'Doba čtení (min)',
+    'workshop.theWay.overallStats.demographics': 'Demografické údaje čtenářů',
+    'workshop.theWay.overallStats.topCountry': 'Nejlepší země',
+    'workshop.theWay.overallStats.topAgeGroup': 'Nejlepší věková skupina',
+    'workshop.theWay.overallStats.genres': 'Vaše žánry'
 };
