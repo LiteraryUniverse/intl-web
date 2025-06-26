@@ -65,5 +65,34 @@ export default {
   'org.member.leave': 'Leave organization',
   'org.member.leaveModalTitle': 'Leaving organization confirmation',
   'org.member.leaveModalHeading': 'Are you sure you want to leave {orgName}',
-  'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.'
+  'org.member.leaveModalExplain': 'Once you leave the organization you will loose access to all of the organization\'s associated resources and works. This action can\'t be undone.',
+  
+  // Role management strings
+  'org.member.manageRoles': 'Manage Roles',
+  'org.roles.error': 'Error: {error}',
+  'org.roles.manageFor': 'Managing roles for {name}',
+  'org.roles.selectRole': 'Select role',
+  'org.roles.noRole': 'No role (permissions only)',
+  'org.roles.admin': 'Admin',
+  'org.roles.member': 'Member',
+  'org.roles.author': 'Author',
+  'org.roles.workshop': 'Workshop',
+  'org.roles.teacher': 'Teacher',
+  'org.permissions.title': 'Permissions',
+  'org.permissions.includedInRole': '(included in role)',
+  
+  // Permission names
+  'org.permissions.members.add': 'Add members',
+  'org.permissions.members.remove': 'Remove members',
+  'org.permissions.members.view': 'View members',
+  'org.permissions.settings': 'Manage settings',
+  'org.permissions.auditLog': 'View audit log',
+  'org.permissions.flashnews': 'Manage flash news',
+  'org.permissions.workshop.view': 'View workshop',
+  'org.permissions.workshop.create': 'Create workshop items',
+  'org.permissions.workshop.transfer': 'Transfer ownership',
+  'org.permissions.workshop.viewAll': 'View all workshop items',
+  'org.permissions.forum.manager': 'Manage forums',
+  'org.permissions.blog.manage': 'Manage blog',
+  'org.permissions.blog.post': 'Create blog posts'
 }
