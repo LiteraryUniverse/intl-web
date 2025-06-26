@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Organizace odchodu',
     'org.member.leaveModalTitle': 'Potvrzení o odchodu z organizace',
     'org.member.leaveModalHeading': 'Jste si jistý, že chcete opustit {orgName}',
-    'org.member.leaveModalExplain': 'Jakmile organizaci opustíte, ztratíte přístup ke všem přidruženým zdrojům a pracím organizace. Tuto akci nelze vzít zpět.'
+    'org.member.leaveModalExplain': 'Jakmile organizaci opustíte, ztratíte přístup ke všem přidruženým zdrojům a pracím organizace. Tuto akci nelze vzít zpět.',
+    // Role management strings
+    'org.member.manageRoles': 'Správa rolí',
+    'org.roles.error': 'Chyba: {error}',
+    'org.roles.manageFor': 'Správa rolí pro {name}',
+    'org.roles.selectRole': 'Zvolte roli',
+    'org.roles.noRole': 'Žádná role (pouze oprávnění)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Člen',
+    'org.roles.author': 'Autor',
+    'org.roles.workshop': 'Workshop',
+    'org.roles.teacher': 'Učitel',
+    'org.permissions.title': 'Oprávnění',
+    'org.permissions.includedInRole': '(zahrnuto v roli)',
+    // Permission names
+    'org.permissions.members.add': 'Přidat členy',
+    'org.permissions.members.remove': 'Odstranění členů',
+    'org.permissions.members.view': 'Zobrazit členy',
+    'org.permissions.settings': 'Správa nastavení',
+    'org.permissions.auditLog': 'Zobrazení protokolu auditu',
+    'org.permissions.flashnews': 'Správa bleskových zpráv',
+    'org.permissions.workshop.view': 'Zobrazit workshop',
+    'org.permissions.workshop.create': 'Vytvořit položky workshopu',
+    'org.permissions.workshop.transfer': 'Převod vlastnictví',
+    'org.permissions.workshop.viewAll': 'Zobrazit všechny položky z dílny',
+    'org.permissions.forum.manager': 'Správa fór',
+    'org.permissions.blog.manage': 'Správa blogu',
+    'org.permissions.blog.post': 'Vytváření příspěvků na blogu'
 };
