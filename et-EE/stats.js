@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Lehed',
     'stats.blog.posts': 'Postitused',
     'stats.unknown': 'Tundmatu',
-    'stats.noData': 'Andmed pole praegu saadaval.'
+    'stats.noData': 'Andmed pole praegu saadaval.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Statistilised andmed puuduvad veel. Alusta oma töö avaldamist, et näha oma statistikat!',
+    'workshop.theWay.overallStats.content': 'Teie sisu',
+    'workshop.theWay.overallStats.stories': 'Lood',
+    'workshop.theWay.overallStats.universes': 'Universumid',
+    'workshop.theWay.overallStats.chapters': 'Peatükid',
+    'workshop.theWay.overallStats.wordCount': 'Kirjutatud sõnad',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Entsüklopeedia kanded',
+    'workshop.theWay.overallStats.publishingStreak': 'Nädal Publishing Streak',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Kuu avaldamine Streak',
+    'workshop.theWay.overallStats.audience': 'Teie publik',
+    'workshop.theWay.overallStats.fans': 'Fännid',
+    'workshop.theWay.overallStats.followers': 'Jälgijad',
+    'workshop.theWay.overallStats.uniqueReaders': 'Unikaalsed lugejad',
+    'workshop.theWay.overallStats.storyViews': 'Loo vaated',
+    'workshop.theWay.overallStats.universeViews': 'Universumi vaated',
+    'workshop.theWay.overallStats.readingTime': 'Lugemisaeg (min)',
+    'workshop.theWay.overallStats.demographics': 'Lugeja demograafilised andmed',
+    'workshop.theWay.overallStats.topCountry': 'Top Riik',
+    'workshop.theWay.overallStats.topAgeGroup': 'Parim vanuserühm',
+    'workshop.theWay.overallStats.genres': 'Teie žanrid'
 };
