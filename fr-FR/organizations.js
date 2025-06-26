@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Quitter l\'organisation',
     'org.member.leaveModalTitle': 'Confirmation de la sortie de l\'organisation',
     'org.member.leaveModalHeading': 'Êtes-vous sûr de vouloir quitter {orgName}',
-    'org.member.leaveModalExplain': 'Lorsque vous quittez l\'organisation, vous perdez l\'accès à toutes les ressources et à tous les travaux associés à l\'organisation. Cette action ne peut être annulée.'
+    'org.member.leaveModalExplain': 'Lorsque vous quittez l\'organisation, vous perdez l\'accès à toutes les ressources et à tous les travaux associés à l\'organisation. Cette action ne peut être annulée.',
+    // Role management strings
+    'org.member.manageRoles': 'Gérer les rôles',
+    'org.roles.error': 'Erreur : {error}',
+    'org.roles.manageFor': 'Gestion des rôles pour {name}',
+    'org.roles.selectRole': 'Sélectionnez un rôle',
+    'org.roles.noRole': 'Pas de rôle (permissions uniquement)',
+    'org.roles.admin': 'Administrateur',
+    'org.roles.member': 'Membre',
+    'org.roles.author': 'Auteur',
+    'org.roles.workshop': 'Atelier',
+    'org.roles.teacher': 'Enseignant',
+    'org.permissions.title': 'Permissions',
+    'org.permissions.includedInRole': '(inclus dans le rôle)',
+    // Permission names
+    'org.permissions.members.add': 'Ajouter des membres',
+    'org.permissions.members.remove': 'Supprimer des membres',
+    'org.permissions.members.view': 'Voir les membres',
+    'org.permissions.settings': 'Gérer les paramètres',
+    'org.permissions.auditLog': 'Consulter le journal d\'audit',
+    'org.permissions.flashnews': 'Gérer les flashs d\'information',
+    'org.permissions.workshop.view': 'Voir l\'atelier',
+    'org.permissions.workshop.create': 'Créer des éléments d\'atelier',
+    'org.permissions.workshop.transfer': 'Transfert de propriété',
+    'org.permissions.workshop.viewAll': 'Voir tous les articles de l\'atelier',
+    'org.permissions.forum.manager': 'Gérer les forums',
+    'org.permissions.blog.manage': 'Gérer le blog',
+    'org.permissions.blog.post': 'Créer des articles de blog'
 };
