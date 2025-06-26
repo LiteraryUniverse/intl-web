@@ -34,7 +34,7 @@
   "theWay.nextLevel.requiredTasks": "Tarefas necessárias",
   "theWay.nextLevel.optionalTasks": "Tarefas opcionais",
   "theWay.genre.general": "Geral",
-  "theWay.nextLevel.optionalTasksRequired": "O senhor precisa concluir pelo menos {neededOptionals, number} opcional {tasks, plural, one {tarefa} other {tarefas}}.",
+  "theWay.nextLevel.optionalTasksRequired": "O senhor precisa concluir pelo menos {neededOptionals, number} opcional {neededOptionals, plural, one {tarefa} other {tarefas}}.",
   "theWay.level0.title": "Atualmente, o senhor é apenas um leitor no livro de todos.",
   "theWay.level0.getStarted": "Publique sua primeira história hoje mesmo e comece sua jornada!",
   "workshop.theWay.overallStats": "Estatísticas gerais",
