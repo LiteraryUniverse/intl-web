@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Dölj AI-genererat innehåll',
     'discover.search.aiContent.only': 'Visa endast AI-genererat innehåll',
     'discovery.aiContent.indicator': 'Detta innehåll har skapats med hjälp av AI',
-    'discovery.aiContent.indicator.model': 'AI Modell: {model}'
+    'discovery.aiContent.indicator.model': 'AI Modell: {model}',
+    'discovery.recommendations.storiesTitle': 'Rekommenderade berättelser',
+    'discovery.recommendations.recommendationsExplained': 'Rekommenderade universum',
+    'discovery.recommendations.recommendationsSettings': 'Du kan inaktivera detta i dina inställningar.'
 };
