@@ -72,5 +72,8 @@ export default {
     'discover.search.aiContent.none': 'AIが生成したコンテンツを隠す',
     'discover.search.aiContent.only': 'AIが生成したコンテンツのみを表示する',
     'discovery.aiContent.indicator': 'このコンテンツはAIの支援を受けて作成された',
-    'discovery.aiContent.indicator.model': 'AIモデル： {model}'
+    'discovery.aiContent.indicator.model': 'AIモデル： {model}',
+    'discovery.recommendations.storiesTitle': 'おすすめ記事',
+    'discovery.recommendations.recommendationsExplained': '推奨ユニバース',
+    'discovery.recommendations.recommendationsSettings': 'これは設定で無効にできる。'
 };
