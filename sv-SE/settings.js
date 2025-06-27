@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Läsa språk',
     'settings.languages.readingLanguageExplained': 'När du letar efter berättelser kommer vi att erbjuda dig berättelser och deras översättningar på detta språk om du inte anger något annat.',
     'settings.biography.help': 'Berätta om dig själv för andra',
-    'settings.username.help': 'Ditt unika användarnamn på plattformen'
+    'settings.username.help': 'Ditt unika användarnamn på plattformen',
+    'settings.interests.tags.custom.help': 'Ange en kommaseparerad lista med taggar',
+    'settings.interests.tags.placeholder': 'Lägg till taggar',
+    'settings.interests.avoidGenres.help': 'Välj genrer som du helst inte vill se i rekommendationer.',
+    'settings.interests.avoidGenres': 'Genrer att undvika'
 };
