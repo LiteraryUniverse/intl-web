@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Język czytania',
     'settings.languages.readingLanguageExplained': 'Podczas wyszukiwania historii zaoferujemy Państwu historie i ich tłumaczenia w tym języku, chyba że określą Państwo inaczej.',
     'settings.biography.help': 'Proszę opowiedzieć innym o sobie',
-    'settings.username.help': 'Państwa unikalna nazwa użytkownika na platformie'
+    'settings.username.help': 'Państwa unikalna nazwa użytkownika na platformie',
+    'settings.interests.tags.custom.help': 'Proszę wprowadzić listę tagów oddzielonych przecinkami',
+    'settings.interests.tags.placeholder': 'Proszę dodać tagi',
+    'settings.interests.avoidGenres.help': 'Proszę wybrać gatunki, których nie chcą Państwo widzieć w rekomendacjach.',
+    'settings.interests.avoidGenres': 'Gatunki, których należy unikać'
 };
