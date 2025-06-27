@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Ανάγνωση γλώσσας',
     'settings.languages.readingLanguageExplained': 'Όταν αναζητάτε ιστορίες, θα σας προσφέρουμε ιστορίες και τις μεταφράσεις τους σε αυτή τη γλώσσα, εκτός αν ορίσετε διαφορετικά.',
     'settings.biography.help': 'Πείτε στους άλλους για τον εαυτό σας',
-    'settings.username.help': 'Το μοναδικό σας όνομα χρήστη στην πλατφόρμα'
+    'settings.username.help': 'Το μοναδικό σας όνομα χρήστη στην πλατφόρμα',
+    'settings.interests.tags.custom.help': 'Εισάγετε λίστα ετικετών με διαχωρισμό κόμματος',
+    'settings.interests.tags.placeholder': 'Προσθέστε ετικέτες',
+    'settings.interests.avoidGenres.help': 'Επιλέξτε είδη που θα προτιμούσατε να μην βλέπετε στις συστάσεις.',
+    'settings.interests.avoidGenres': 'Είδη προς αποφυγή'
 };
