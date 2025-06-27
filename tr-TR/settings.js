@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Okuma dili',
     'settings.languages.readingLanguageExplained': 'Hikayelere bakarken, aksini belirtmediğiniz sürece size hikayeleri ve çevirilerini bu dilde sunacağız.',
     'settings.biography.help': 'Başkalarına kendinizden bahsedin',
-    'settings.username.help': 'Platformdaki benzersiz kullanıcı adınız'
+    'settings.username.help': 'Platformdaki benzersiz kullanıcı adınız',
+    'settings.interests.tags.custom.help': 'Virgülle ayrılmış etiket listesini girin',
+    'settings.interests.tags.placeholder': 'Etiketler ekle',
+    'settings.interests.avoidGenres.help': 'Önerilerde görmek istemediğiniz türleri seçin.',
+    'settings.interests.avoidGenres': 'Kaçınılması gereken türler'
 };
