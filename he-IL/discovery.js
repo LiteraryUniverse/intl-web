@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Hide AI-generated content',
     'discover.search.aiContent.only': 'Show only AI-generated content',
     'discovery.aiContent.indicator': 'This content was generated with AI assistance',
-    'discovery.aiContent.indicator.model': 'AI Model: {model}'
+    'discovery.aiContent.indicator.model': 'AI Model: {model}',
+    'discovery.recommendations.storiesTitle': 'Recommended stories',
+    'discovery.recommendations.recommendationsExplained': 'Recommended universes',
+    'discovery.recommendations.recommendationsSettings': 'You can disable this in your settings.'
 };
