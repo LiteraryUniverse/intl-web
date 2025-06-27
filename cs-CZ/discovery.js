@@ -82,5 +82,8 @@ export default {
     'discover.search.aiContent.none': 'Skrytí obsahu generovaného umělou inteligencí',
     'discover.search.aiContent.only': 'Zobrazit pouze obsah vytvořený umělou inteligencí',
     'discovery.aiContent.indicator': 'Tento obsah byl vytvořen s pomocí umělé inteligence',
-    'discovery.aiContent.indicator.model': 'Model AI: {model}'
+    'discovery.aiContent.indicator.model': 'Model AI: {model}',
+    'discovery.recommendations.storiesTitle': 'Doporučené příběhy',
+    'discovery.recommendations.recommendationsExplained': 'Doporučené vesmíry',
+    'discovery.recommendations.recommendationsSettings': 'Tuto funkci můžete zakázat v nastavení.'
 };
