@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'AI Modell: {model}',
     'common.aiContent.custom': 'Anpassad AI-modell',
     'common.viewAll': 'Visa alla',
-    'notice.thankYou': 'Tack för ert stöd!'
+    'notice.thankYou': 'Tack för ert stöd!',
+    'common.dropImageHere': 'Släpp en bild här'
 };

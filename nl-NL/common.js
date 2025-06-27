@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'AI-model: {model}',
     'common.aiContent.custom': 'Aangepast AI-model',
     'common.viewAll': 'Alles bekijken',
-    'notice.thankYou': 'Hartelijk dank voor uw steun!'
+    'notice.thankYou': 'Hartelijk dank voor uw steun!',
+    'common.dropImageHere': 'Drop hier een afbeelding'
 };

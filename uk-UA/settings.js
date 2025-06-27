@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Ідентичність',
     'settings.profile.about': 'Про тебе',
     'settings.profile.basic.description': 'Керуйте основною інформацією вашого профілю, яку будуть бачити інші користувачі.',
-    'settings.interest.title': 'Ваші інтереси',
+    'settings.interests.title': 'Ваші інтереси',
     'settings.account': 'Налаштування облікового запису',
     'settings.legal.export.download': 'Завантажте свої дані',
     'settings.legal.export.gathering': 'Збір Ваших даних... Це може зайняти деякий час.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Експортувати дані та видалити обліковий запис',
     'settings.languages.uiLanguage': 'Мова інтерфейсу',
     'settings.languages.readingLanguage': 'Мова читання',
-    'settings.languages.readingLanguageExplained': 'При пошуку історій ми будемо пропонувати вам історії та їхні переклади цією мовою, якщо ви не вкажете інше.'
+    'settings.languages.readingLanguageExplained': 'При пошуку історій ми будемо пропонувати вам історії та їхні переклади цією мовою, якщо ви не вкажете інше.',
+    'settings.biography.help': 'Розкажіть іншим про себе',
+    'settings.username.help': 'Ваше унікальне ім\'я користувача на платформі'
 };

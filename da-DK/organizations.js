@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Forlad organisationen',
     'org.member.leaveModalTitle': 'Forlader organisationens bekræftelse',
     'org.member.leaveModalHeading': 'Er du sikker på, at du vil forlade {orgName}',
-    'org.member.leaveModalExplain': 'Når du forlader organisationen, mister du adgang til alle organisationens tilknyttede ressourcer og værker. Denne handling kan ikke fortrydes.'
+    'org.member.leaveModalExplain': 'Når du forlader organisationen, mister du adgang til alle organisationens tilknyttede ressourcer og værker. Denne handling kan ikke fortrydes.',
+    // Role management strings
+    'org.member.manageRoles': 'Administrer roller',
+    'org.roles.error': 'Fejl: {error}',
+    'org.roles.manageFor': 'Håndtering af roller til {name}',
+    'org.roles.selectRole': 'Vælg rolle',
+    'org.roles.noRole': 'Ingen rolle (kun tilladelser)',
+    'org.roles.admin': 'Administrator',
+    'org.roles.member': 'Medlem',
+    'org.roles.author': 'Forfatter',
+    'org.roles.workshop': 'Værksted',
+    'org.roles.teacher': 'Lærer',
+    'org.permissions.title': 'Tilladelser',
+    'org.permissions.includedInRole': '(indgår i rollen)',
+    // Permission names
+    'org.permissions.members.add': 'Tilføj medlemmer',
+    'org.permissions.members.remove': 'Fjern medlemmer',
+    'org.permissions.members.view': 'Se medlemmer',
+    'org.permissions.settings': 'Administrer indstillinger',
+    'org.permissions.auditLog': 'Se revisionslog',
+    'org.permissions.flashnews': 'Administrer flash-nyheder',
+    'org.permissions.workshop.view': 'Se værksted',
+    'org.permissions.workshop.create': 'Opret værkstedsartikler',
+    'org.permissions.workshop.transfer': 'Overfør ejerskab',
+    'org.permissions.workshop.viewAll': 'Se alle værkstedsartikler',
+    'org.permissions.forum.manager': 'Administrer fora',
+    'org.permissions.blog.manage': 'Administrer blog',
+    'org.permissions.blog.post': 'Opret blogindlæg'
 };

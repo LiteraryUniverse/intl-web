@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Jätä organisaatio',
     'org.member.leaveModalTitle': 'Organisaatiosta poistumisen vahvistus',
     'org.member.leaveModalHeading': 'Haluatko varmasti lähteä {orgName}',
-    'org.member.leaveModalExplain': 'Kun lähdet organisaatiosta, menetät pääsyn kaikkiin organisaatioon liittyviin resursseihin ja töihin. Tätä toimenpidettä ei voi perua.'
+    'org.member.leaveModalExplain': 'Kun lähdet organisaatiosta, menetät pääsyn kaikkiin organisaatioon liittyviin resursseihin ja töihin. Tätä toimenpidettä ei voi perua.',
+    // Role management strings
+    'org.member.manageRoles': 'Hallitse rooleja',
+    'org.roles.error': 'Virhe: {error}',
+    'org.roles.manageFor': 'Roolien hallinta {name}',
+    'org.roles.selectRole': 'Valitse rooli',
+    'org.roles.noRole': 'Ei roolia (vain käyttöoikeudet)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Jäsen',
+    'org.roles.author': 'Kirjoittaja',
+    'org.roles.workshop': 'Työpaja',
+    'org.roles.teacher': 'Opettaja',
+    'org.permissions.title': 'Luvat',
+    'org.permissions.includedInRole': '(sisältyy rooliin)',
+    // Permission names
+    'org.permissions.members.add': 'Lisää jäseniä',
+    'org.permissions.members.remove': 'Poista jäsenet',
+    'org.permissions.members.view': 'Näytä jäsenet',
+    'org.permissions.settings': 'Hallitse asetuksia',
+    'org.permissions.auditLog': 'Näytä tarkastusloki',
+    'org.permissions.flashnews': 'Hallitse flash-uutisia',
+    'org.permissions.workshop.view': 'Näytä työpaja',
+    'org.permissions.workshop.create': 'Luo työpajan kohteita',
+    'org.permissions.workshop.transfer': 'Omistusoikeuden siirto',
+    'org.permissions.workshop.viewAll': 'Näytä kaikki työpajatuotteet',
+    'org.permissions.forum.manager': 'Hallitse foorumeita',
+    'org.permissions.blog.manage': 'Hallitse blogia',
+    'org.permissions.blog.post': 'Luo blogikirjoituksia'
 };

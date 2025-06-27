@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identitate',
     'settings.profile.about': 'Despre tine',
     'settings.profile.basic.description': 'Gestionați informațiile de bază ale profilului dvs. care vor fi vizibile pentru alți utilizatori.',
-    'settings.interest.title': 'Interesele dumneavoastră',
+    'settings.interests.title': 'Interesele dumneavoastră',
     'settings.account': 'Setări cont',
     'settings.legal.export.download': 'Descarcă datele tale',
     'settings.legal.export.gathering': 'Se colectează datele tale... Acest proces poate dura ceva timp.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Exportă datele și șterge contul',
     'settings.languages.uiLanguage': 'Limba de interfață',
     'settings.languages.readingLanguage': 'Limbajul de lectură',
-    'settings.languages.readingLanguageExplained': 'Atunci când căutați povestiri, vă vom oferi povestiri și traducerile lor în această limbă, dacă nu specificați altfel.'
+    'settings.languages.readingLanguageExplained': 'Atunci când căutați povestiri, vă vom oferi povestiri și traducerile lor în această limbă, dacă nu specificați altfel.',
+    'settings.biography.help': 'Spune-le altora despre tine',
+    'settings.username.help': 'Numele dvs. de utilizator unic pe platformă'
 };

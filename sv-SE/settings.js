@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identitet',
     'settings.profile.about': 'Om dig',
     'settings.profile.basic.description': 'Hantera din grundläggande profilinformation som kommer att vara synlig för andra användare.',
-    'settings.interest.title': 'Dina intressen',
+    'settings.interests.title': 'Dina intressen',
     'settings.account': 'Kontoinställningar',
     'settings.legal.export.download': 'Ladda ner dina data',
     'settings.legal.export.gathering': 'Samlar in dina data... Detta kan ta en stund.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Exportera data och ta bort konto',
     'settings.languages.uiLanguage': 'Språk för gränssnitt',
     'settings.languages.readingLanguage': 'Läsa språk',
-    'settings.languages.readingLanguageExplained': 'När du letar efter berättelser kommer vi att erbjuda dig berättelser och deras översättningar på detta språk om du inte anger något annat.'
+    'settings.languages.readingLanguageExplained': 'När du letar efter berättelser kommer vi att erbjuda dig berättelser och deras översättningar på detta språk om du inte anger något annat.',
+    'settings.biography.help': 'Berätta om dig själv för andra',
+    'settings.username.help': 'Ditt unika användarnamn på plattformen'
 };

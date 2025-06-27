@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Verloforganisatie',
     'org.member.leaveModalTitle': 'Bevestiging verlaten organisatie',
     'org.member.leaveModalHeading': 'Weet u zeker dat u weg wilt van {orgName}',
-    'org.member.leaveModalExplain': 'Zodra u de organisatie verlaat, verliest u de toegang tot alle bijbehorende bronnen en werken van de organisatie. Deze actie kan niet ongedaan worden gemaakt.'
+    'org.member.leaveModalExplain': 'Zodra u de organisatie verlaat, verliest u de toegang tot alle bijbehorende bronnen en werken van de organisatie. Deze actie kan niet ongedaan worden gemaakt.',
+    // Role management strings
+    'org.member.manageRoles': 'Rollen beheren',
+    'org.roles.error': 'Fout: {error}',
+    'org.roles.manageFor': 'Rollen beheren voor {name}',
+    'org.roles.selectRole': 'Rol selecteren',
+    'org.roles.noRole': 'Geen rol (alleen machtigingen)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Lid',
+    'org.roles.author': 'Auteur',
+    'org.roles.workshop': 'Workshop',
+    'org.roles.teacher': 'Leraar',
+    'org.permissions.title': 'Rechten',
+    'org.permissions.includedInRole': '(inbegrepen in rol)',
+    // Permission names
+    'org.permissions.members.add': 'Leden toevoegen',
+    'org.permissions.members.remove': 'Leden verwijderen',
+    'org.permissions.members.view': 'Bekijk leden',
+    'org.permissions.settings': 'Instellingen beheren',
+    'org.permissions.auditLog': 'Controlelogboek bekijken',
+    'org.permissions.flashnews': 'Flashnieuws beheren',
+    'org.permissions.workshop.view': 'Workshop bekijken',
+    'org.permissions.workshop.create': 'Workshop-items maken',
+    'org.permissions.workshop.transfer': 'Eigendom overdragen',
+    'org.permissions.workshop.viewAll': 'Alle workshopartikelen bekijken',
+    'org.permissions.forum.manager': 'Beheer forums',
+    'org.permissions.blog.manage': 'Beheer blog',
+    'org.permissions.blog.post': 'Blogberichten maken'
 };

@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Puslapiai',
     'stats.blog.posts': 'Įrašai',
     'stats.unknown': 'Nežinoma',
-    'stats.noData': 'Šiuo metu nėra duomenų.'
+    'stats.noData': 'Šiuo metu nėra duomenų.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Statistinių duomenų dar nėra. Pradėkite skelbti savo darbą, kad pamatytumėte savo statistiką!',
+    'workshop.theWay.overallStats.content': 'Jūsų turinys',
+    'workshop.theWay.overallStats.stories': 'Istorijos',
+    'workshop.theWay.overallStats.universes': 'Visatos',
+    'workshop.theWay.overallStats.chapters': 'Skyriai',
+    'workshop.theWay.overallStats.wordCount': 'Parašyti žodžiai',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Enciklopedijos įrašai',
+    'workshop.theWay.overallStats.publishingStreak': 'Savaitės leidybos ruožas',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Mėnesio publikacijų serija',
+    'workshop.theWay.overallStats.audience': 'Jūsų auditorija',
+    'workshop.theWay.overallStats.fans': 'Ventiliatoriai',
+    'workshop.theWay.overallStats.followers': 'Sekėjai',
+    'workshop.theWay.overallStats.uniqueReaders': 'Unikalūs skaitytojai',
+    'workshop.theWay.overallStats.storyViews': 'Istorijos peržiūros',
+    'workshop.theWay.overallStats.universeViews': 'Visatos vaizdai',
+    'workshop.theWay.overallStats.readingTime': 'Skaitymo laikas (min)',
+    'workshop.theWay.overallStats.demographics': 'Skaitytojų demografija',
+    'workshop.theWay.overallStats.topCountry': 'Geriausia šalis',
+    'workshop.theWay.overallStats.topAgeGroup': 'Geriausia amžiaus grupė',
+    'workshop.theWay.overallStats.genres': 'Jūsų žanrai'
 };

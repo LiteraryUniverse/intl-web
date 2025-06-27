@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Σελίδες',
     'stats.blog.posts': 'Θέσεις',
     'stats.unknown': 'Άγνωστο',
-    'stats.noData': 'Δεν υπάρχουν διαθέσιμα δεδομένα αυτή τη στιγμή.'
+    'stats.noData': 'Δεν υπάρχουν διαθέσιμα δεδομένα αυτή τη στιγμή.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Δεν υπάρχουν ακόμη διαθέσιμα στατιστικά στοιχεία. Ξεκινήστε να δημοσιεύετε το έργο σας για να δείτε τα στατιστικά σας!',
+    'workshop.theWay.overallStats.content': 'Το περιεχόμενό σας',
+    'workshop.theWay.overallStats.stories': 'Ιστορίες',
+    'workshop.theWay.overallStats.universes': 'Σύμπαντα',
+    'workshop.theWay.overallStats.chapters': 'Κεφάλαια',
+    'workshop.theWay.overallStats.wordCount': 'Γραπτά λόγια',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Ενδείξεις εγκυκλοπαίδειας',
+    'workshop.theWay.overallStats.publishingStreak': 'Εβδομάδα Publishing Streak',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Μήνας Σειρά δημοσίευσης',
+    'workshop.theWay.overallStats.audience': 'Το κοινό σας',
+    'workshop.theWay.overallStats.fans': 'Ανεμιστήρες',
+    'workshop.theWay.overallStats.followers': 'Ακολουθητές',
+    'workshop.theWay.overallStats.uniqueReaders': 'Μοναδικοί αναγνώστες',
+    'workshop.theWay.overallStats.storyViews': 'Προβολές ιστορίας',
+    'workshop.theWay.overallStats.universeViews': 'Όψεις του σύμπαντος',
+    'workshop.theWay.overallStats.readingTime': 'Χρόνος ανάγνωσης (λεπτά)',
+    'workshop.theWay.overallStats.demographics': 'Δημογραφικά στοιχεία αναγνωστών',
+    'workshop.theWay.overallStats.topCountry': 'Κορυφή Χώρα',
+    'workshop.theWay.overallStats.topAgeGroup': 'Κορυφαία ηλικιακή ομάδα',
+    'workshop.theWay.overallStats.genres': 'Τα είδη σας'
 };

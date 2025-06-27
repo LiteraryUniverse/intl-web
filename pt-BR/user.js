@@ -59,7 +59,7 @@ export default {
     'storiesType.play': 'Jogar',
     'storiesType.poetry': 'Poesia',
     'storiesType.serialized': 'Serializado',
-    'storiesType.short_story': 'short_story',
+    'storiesType.short_story': 'História curta',
     'user.settings.introTitle': 'Bem-vindo às suas configurações!',
     'user.settings.introText': 'As configurações de perfil permitem que o usuário personalize informações sobre si mesmo, como nome, avatar etc. As configurações da conta permitem que o senhor defina os aspectos mais técnicos que afetam sua experiência, por exemplo, idioma, e-mails, tema do site, configurações de IA etc. Subscription & Payments permitirá que o senhor gerencie suas assinaturas e opções de pagamento. Por fim, Monetization é onde o senhor pode gerenciar seus pagamentos, fã-clubes e outras opções de monetização.'
 };

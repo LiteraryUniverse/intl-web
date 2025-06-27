@@ -59,7 +59,7 @@ export default {
     'storiesType.play': 'Mängi',
     'storiesType.poetry': 'Luule',
     'storiesType.serialized': 'Serialiseeritud',
-    'storiesType.short_story': 'short_story',
+    'storiesType.short_story': 'Lühike lugu',
     'user.settings.introTitle': 'Tere tulemast teie seadistustesse!',
     'user.settings.introText': 'Profiili seaded võimaldavad teil kohandada teavet enda kohta, näiteks oma nime, avatari jne. Konto seaded võimaldavad teil määrata rohkem tehnilisi aspekte, mis mõjutavad teie kasutajakogemust, näiteks teie keelt, e-kirju, saidi teemat, tehisintellekti seadeid jne. Tellimus ja maksed võimaldavad teil hallata oma tellimusi ja maksevõimalusi. Lõpuks Monetiseerimine on koht, kus saate hallata oma väljamakseid, fänniklubisid ja muid monetiseerimisvõimalusi.'
 };

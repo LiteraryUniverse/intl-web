@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': '정체성',
     'settings.profile.about': '사용자 정보',
     'settings.profile.basic.description': '다른 사용자에게 표시되는 기본 프로필 정보를 관리합니다.',
-    'settings.interest.title': '관심 분야',
+    'settings.interests.title': '관심 분야',
     'settings.account': '계정 설정',
     'settings.legal.export.download': '데이터 다운로드',
     'settings.legal.export.gathering': '데이터를 수집하는 중입니다... 잠시 기다려주세요.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': '데이터 내보내기 및 계정 삭제',
     'settings.languages.uiLanguage': '인터페이스 언어',
     'settings.languages.readingLanguage': '읽기 언어',
-    'settings.languages.readingLanguageExplained': '스토리를 검색할 때 별도로 지정하지 않는 한 이 언어로 된 스토리와 해당 번역을 제공합니다.'
+    'settings.languages.readingLanguageExplained': '스토리를 검색할 때 별도로 지정하지 않는 한 이 언어로 된 스토리와 해당 번역을 제공합니다.',
+    'settings.biography.help': '다른 사람에게 나에 대해 알리기',
+    'settings.username.help': '플랫폼에서 고유한 사용자 아이디'
 };

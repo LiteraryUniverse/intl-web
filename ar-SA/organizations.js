@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'تنظيم الإجازات',
     'org.member.leaveModalTitle': 'تأكيد ترك المنظمة المغادرة',
     'org.member.leaveModalHeading': 'هل أنت متأكد أنك تريد المغادرة {orgName}',
-    'org.member.leaveModalExplain': 'بمجرد مغادرة المؤسسة ستفقد إمكانية الوصول إلى جميع الموارد والأعمال المرتبطة بالمؤسسة. لا يمكن التراجع عن هذا الإجراء.'
+    'org.member.leaveModalExplain': 'بمجرد مغادرة المؤسسة ستفقد إمكانية الوصول إلى جميع الموارد والأعمال المرتبطة بالمؤسسة. لا يمكن التراجع عن هذا الإجراء.',
+    // Role management strings
+    'org.member.manageRoles': 'إدارة الأدوار',
+    'org.roles.error': 'خطأ: {error}',
+    'org.roles.manageFor': 'أدوار الإدارة {name}',
+    'org.roles.selectRole': 'اختر الدور',
+    'org.roles.noRole': 'لا يوجد دور (أذونات فقط)',
+    'org.roles.admin': 'المسؤول',
+    'org.roles.member': 'عضو',
+    'org.roles.author': 'المؤلف',
+    'org.roles.workshop': 'ورشة عمل',
+    'org.roles.teacher': 'مدرس',
+    'org.permissions.title': 'الأذونات',
+    'org.permissions.includedInRole': '(مدرج في الدور)',
+    // Permission names
+    'org.permissions.members.add': 'إضافة أعضاء',
+    'org.permissions.members.remove': 'إزالة الأعضاء',
+    'org.permissions.members.view': 'عرض الأعضاء',
+    'org.permissions.settings': 'إدارة الإعدادات',
+    'org.permissions.auditLog': 'عرض سجل التدقيق',
+    'org.permissions.flashnews': 'إدارة الأخبار العاجلة',
+    'org.permissions.workshop.view': 'عرض ورشة العمل',
+    'org.permissions.workshop.create': 'إنشاء عناصر ورشة العمل',
+    'org.permissions.workshop.transfer': 'نقل الملكية',
+    'org.permissions.workshop.viewAll': 'عرض جميع عناصر ورشة العمل',
+    'org.permissions.forum.manager': 'إدارة المنتديات',
+    'org.permissions.blog.manage': 'إدارة المدونة',
+    'org.permissions.blog.post': 'إنشاء منشورات المدونة'
 };

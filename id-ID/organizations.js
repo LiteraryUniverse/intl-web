@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Meninggalkan organisasi',
     'org.member.leaveModalTitle': 'Meninggalkan konfirmasi organisasi',
     'org.member.leaveModalHeading': 'Apakah Anda yakin ingin meninggalkan {orgName}',
-    'org.member.leaveModalExplain': 'Setelah Anda keluar dari organisasi, Anda akan kehilangan akses ke semua sumber daya dan pekerjaan yang terkait dengan organisasi. Tindakan ini tidak dapat dibatalkan.'
+    'org.member.leaveModalExplain': 'Setelah Anda keluar dari organisasi, Anda akan kehilangan akses ke semua sumber daya dan pekerjaan yang terkait dengan organisasi. Tindakan ini tidak dapat dibatalkan.',
+    // Role management strings
+    'org.member.manageRoles': 'Mengelola Peran',
+    'org.roles.error': 'Kesalahan: {error}',
+    'org.roles.manageFor': 'Mengelola peran untuk {name}',
+    'org.roles.selectRole': 'Pilih peran',
+    'org.roles.noRole': 'Tidak ada peran (hanya izin)',
+    'org.roles.admin': 'Admin',
+    'org.roles.member': 'Anggota',
+    'org.roles.author': 'Penulis',
+    'org.roles.workshop': 'Bengkel',
+    'org.roles.teacher': 'Guru',
+    'org.permissions.title': 'Izin',
+    'org.permissions.includedInRole': '(termasuk dalam peran)',
+    // Permission names
+    'org.permissions.members.add': 'Tambah anggota',
+    'org.permissions.members.remove': 'Menghapus anggota',
+    'org.permissions.members.view': 'Lihat anggota',
+    'org.permissions.settings': 'Mengelola pengaturan',
+    'org.permissions.auditLog': 'Melihat log audit',
+    'org.permissions.flashnews': 'Mengelola berita kilat',
+    'org.permissions.workshop.view': 'Lihat lokakarya',
+    'org.permissions.workshop.create': 'Membuat item lokakarya',
+    'org.permissions.workshop.transfer': 'Mengalihkan kepemilikan',
+    'org.permissions.workshop.viewAll': 'Lihat semua item bengkel',
+    'org.permissions.forum.manager': 'Mengelola forum',
+    'org.permissions.blog.manage': 'Kelola blog',
+    'org.permissions.blog.post': 'Membuat postingan blog'
 };

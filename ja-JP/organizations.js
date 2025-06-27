@@ -60,5 +60,32 @@ export default {
     'org.member.leave': '休暇組織',
     'org.member.leaveModalTitle': '退団団体確認',
     'org.member.leaveModalHeading': '{orgName}本当に帰りたいのか？',
-    'org.member.leaveModalExplain': '組織を離れると、その組織に関連するすべてのリソースと作品へのアクセス権が失われます。この行為は取り消すことができません。'
+    'org.member.leaveModalExplain': '組織を離れると、その組織に関連するすべてのリソースと作品へのアクセス権が失われます。この行為は取り消すことができません。',
+    // Role management strings
+    'org.member.manageRoles': '役割の管理',
+    'org.roles.error': 'エラー： {error}',
+    'org.roles.manageFor': '{name}の役割管理',
+    'org.roles.selectRole': '役割を選択',
+    'org.roles.noRole': '役割なし（パーミッションのみ）',
+    'org.roles.admin': '管理者',
+    'org.roles.member': 'メンバー',
+    'org.roles.author': '著者',
+    'org.roles.workshop': 'ワークショップ',
+    'org.roles.teacher': '教師',
+    'org.permissions.title': 'アクセス許可',
+    'org.permissions.includedInRole': '(役割に含まれる）',
+    // Permission names
+    'org.permissions.members.add': 'メンバーを追加する',
+    'org.permissions.members.remove': 'メンバーを削除する',
+    'org.permissions.members.view': 'メンバーを見る',
+    'org.permissions.settings': '設定の管理',
+    'org.permissions.auditLog': '監査ログの表示',
+    'org.permissions.flashnews': 'フラッシュニュースの管理',
+    'org.permissions.workshop.view': 'ワークショップを見る',
+    'org.permissions.workshop.create': 'ワークショップ・アイテムの作成',
+    'org.permissions.workshop.transfer': '所有権の移転',
+    'org.permissions.workshop.viewAll': 'ワークショップの全項目を見る',
+    'org.permissions.forum.manager': 'フォーラムの管理',
+    'org.permissions.blog.manage': 'ブログ管理',
+    'org.permissions.blog.post': 'ブログ記事の作成'
 };

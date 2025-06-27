@@ -48,7 +48,7 @@ export default {
     'settings.profile.identity': 'アイデンティティ',
     'settings.profile.about': 'あなたについて',
     'settings.profile.basic.description': '他のユーザーに公開される基本的なプロフィール情報を管理します。',
-    'settings.interest.title': 'あなたの興味',
+    'settings.interests.title': 'あなたの興味',
     'settings.account': 'アカウント設定',
     'settings.legal.export.download': 'あなたのデータをダウンロードする',
     'settings.legal.export.gathering': 'あなたのデータを収集しています。しばらく時間がかかる場合があります。',
@@ -129,5 +129,7 @@ export default {
     'settings.tab.exportDelete': 'データのエキスポートとアカウントの削除',
     'settings.languages.uiLanguage': 'インターフェース言語',
     'settings.languages.readingLanguage': '言語を読む',
-    'settings.languages.readingLanguageExplained': 'ストーリーを検索する際、特にご指定がない限り、この言語でのストーリーとその翻訳が提供されます。'
+    'settings.languages.readingLanguageExplained': 'ストーリーを検索する際、特にご指定がない限り、この言語でのストーリーとその翻訳が提供されます。',
+    'settings.biography.help': '自分のことを他人に話す',
+    'settings.username.help': 'プラットフォーム上での固有のユーザー名'
 };

@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Pages',
     'stats.blog.posts': 'Posts',
     'stats.unknown': 'Inconnu',
-    'stats.noData': 'Aucune donnée disponible pour le moment.'
+    'stats.noData': 'Aucune donnée disponible pour le moment.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Aucune donnée statistique n\'est encore disponible. Commencez à publier votre travail pour voir vos statistiques !',
+    'workshop.theWay.overallStats.content': 'Votre contenu',
+    'workshop.theWay.overallStats.stories': 'Histoires',
+    'workshop.theWay.overallStats.universes': 'Univers',
+    'workshop.theWay.overallStats.chapters': 'Chapitres',
+    'workshop.theWay.overallStats.wordCount': 'Mots écrits',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Entrées dans l\'encyclopédie',
+    'workshop.theWay.overallStats.publishingStreak': 'Semaine de publication',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Mois Série de publications',
+    'workshop.theWay.overallStats.audience': 'Votre public',
+    'workshop.theWay.overallStats.fans': 'Les fans',
+    'workshop.theWay.overallStats.followers': 'Suiveurs',
+    'workshop.theWay.overallStats.uniqueReaders': 'Lecteurs uniques',
+    'workshop.theWay.overallStats.storyViews': 'Vues de l\'histoire',
+    'workshop.theWay.overallStats.universeViews': 'Vues de l\'univers',
+    'workshop.theWay.overallStats.readingTime': 'Temps de lecture (min)',
+    'workshop.theWay.overallStats.demographics': 'Données démographiques sur les lecteurs',
+    'workshop.theWay.overallStats.topCountry': 'Pays de tête',
+    'workshop.theWay.overallStats.topAgeGroup': 'Meilleure catégorie d\'âge',
+    'workshop.theWay.overallStats.genres': 'Vos genres'
 };

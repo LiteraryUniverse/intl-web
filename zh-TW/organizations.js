@@ -60,5 +60,32 @@ export default {
     'org.member.leave': '離開組織',
     'org.member.leaveModalTitle': '離開組織確認',
     'org.member.leaveModalHeading': '您確定要離開 {orgName}',
-    'org.member.leaveModalExplain': '一旦您離開組織，您將無法存取組織的所有相關資源和作品。此動作無法撤銷。'
+    'org.member.leaveModalExplain': '一旦您離開組織，您將無法存取組織的所有相關資源和作品。此動作無法撤銷。',
+    // Role management strings
+    'org.member.manageRoles': '管理角色',
+    'org.roles.error': '錯誤： {error}',
+    'org.roles.manageFor': '為 {name}管理角色',
+    'org.roles.selectRole': '選擇角色',
+    'org.roles.noRole': '無角色（僅有權限）',
+    'org.roles.admin': '管理員',
+    'org.roles.member': '會員',
+    'org.roles.author': '作者',
+    'org.roles.workshop': '工作坊',
+    'org.roles.teacher': '教師',
+    'org.permissions.title': '權限',
+    'org.permissions.includedInRole': '(包含在角色中)',
+    // Permission names
+    'org.permissions.members.add': '新增成員',
+    'org.permissions.members.remove': '移除成員',
+    'org.permissions.members.view': '檢視會員',
+    'org.permissions.settings': '管理設定',
+    'org.permissions.auditLog': '檢視稽核記錄',
+    'org.permissions.flashnews': '管理快訊',
+    'org.permissions.workshop.view': '觀看工作坊',
+    'org.permissions.workshop.create': '建立工作坊項目',
+    'org.permissions.workshop.transfer': '所有權轉移',
+    'org.permissions.workshop.viewAll': '檢視所有工作坊項目',
+    'org.permissions.forum.manager': '管理論壇',
+    'org.permissions.blog.manage': '管理部落格',
+    'org.permissions.blog.post': '建立部落格文章'
 };

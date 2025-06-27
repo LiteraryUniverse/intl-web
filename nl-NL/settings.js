@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identiteit',
     'settings.profile.about': 'Over U',
     'settings.profile.basic.description': 'Beheer uw basisprofielinformatie die zichtbaar zal zijn voor andere gebruikers.',
-    'settings.interest.title': 'Uw interesses',
+    'settings.interests.title': 'Uw interesses',
     'settings.account': 'Accountinstellingen',
     'settings.legal.export.download': 'Uw gegevens downloaden',
     'settings.legal.export.gathering': 'Uw gegevens worden verzameld... Dit kan even duren.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Gegevens exporteren en account verwijderen',
     'settings.languages.uiLanguage': 'Interfacetaal',
     'settings.languages.readingLanguage': 'Taal lezen',
-    'settings.languages.readingLanguageExplained': 'Bij het opzoeken van verhalen zullen wij u verhalen en hun vertalingen in deze taal aanbieden, tenzij u anders aangeeft.'
+    'settings.languages.readingLanguageExplained': 'Bij het opzoeken van verhalen zullen wij u verhalen en hun vertalingen in deze taal aanbieden, tenzij u anders aangeeft.',
+    'settings.biography.help': 'Vertel anderen over uzelf',
+    'settings.username.help': 'Uw unieke gebruikersnaam op het platform'
 };

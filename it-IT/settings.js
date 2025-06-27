@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identità',
     'settings.profile.about': 'Su di lei',
     'settings.profile.basic.description': 'Gestisce le informazioni di base del suo profilo che saranno visibili agli altri utenti.',
-    'settings.interest.title': 'I suoi interessi',
+    'settings.interests.title': 'I suoi interessi',
     'settings.account': 'Impostazioni account',
     'settings.legal.export.download': 'Scarica i tuoi dati',
     'settings.legal.export.gathering': 'Raccogliendo i tuoi dati... Questo potrebbe richiedere un po\'.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Esporta dati ed elimina account',
     'settings.languages.uiLanguage': 'Linguaggio dell\'interfaccia',
     'settings.languages.readingLanguage': 'Linguaggio di lettura',
-    'settings.languages.readingLanguageExplained': 'Quando cerca le storie, le offriremo le storie e le loro traduzioni in questa lingua, a meno che non specifichi diversamente.'
+    'settings.languages.readingLanguageExplained': 'Quando cerca le storie, le offriremo le storie e le loro traduzioni in questa lingua, a meno che non specifichi diversamente.',
+    'settings.biography.help': 'Raccontare agli altri di sé',
+    'settings.username.help': 'Il suo nome utente unico sulla piattaforma'
 };

@@ -59,7 +59,7 @@ other {Aggiunti}} il {date, date,long}`,
     'storiesType.play': 'Giocare',
     'storiesType.poetry': 'Poesia',
     'storiesType.serialized': 'Serializzato',
-    'storiesType.short_story': 'storia_breve',
+    'storiesType.short_story': 'Racconto breve',
     'user.settings.introTitle': 'Benvenuto nelle sue impostazioni!',
     'user.settings.introText': 'Le impostazioni del profilo le consentono di personalizzare le informazioni su di lei, come il nome, l\'avatar, ecc. Le impostazioni dell\'account le consentono di impostare gli aspetti più tecnici che hanno un impatto sulla sua esperienza, ad esempio la lingua, le e-mail, il tema del sito, le impostazioni AI, ecc. Abbonamenti e Pagamenti le permetterà di gestire i suoi abbonamenti e le opzioni di pagamento. Infine, Monetizzazione è il luogo in cui può gestire i pagamenti, i fan club e altre opzioni di monetizzazione.'
 };

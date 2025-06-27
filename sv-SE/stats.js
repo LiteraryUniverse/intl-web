@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Sidor',
     'stats.blog.posts': 'Inlägg',
     'stats.unknown': 'Okänd',
-    'stats.noData': 'Inga data tillgängliga för tillfället.'
+    'stats.noData': 'Inga data tillgängliga för tillfället.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Inga statistiska data tillgängliga ännu. Börja publicera ditt arbete för att se din statistik!',
+    'workshop.theWay.overallStats.content': 'Ditt innehåll',
+    'workshop.theWay.overallStats.stories': 'Berättelser',
+    'workshop.theWay.overallStats.universes': 'Universum',
+    'workshop.theWay.overallStats.chapters': 'Kapitel',
+    'workshop.theWay.overallStats.wordCount': 'Skrivna ord',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Encyklopedins poster',
+    'workshop.theWay.overallStats.publishingStreak': 'Vecka Publicering Streak',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Månad Publicering Streak',
+    'workshop.theWay.overallStats.audience': 'Din målgrupp',
+    'workshop.theWay.overallStats.fans': 'Fans',
+    'workshop.theWay.overallStats.followers': 'Följare',
+    'workshop.theWay.overallStats.uniqueReaders': 'Unika läsare',
+    'workshop.theWay.overallStats.storyViews': 'Utsikt över berättelsen',
+    'workshop.theWay.overallStats.universeViews': 'Utsikt över universum',
+    'workshop.theWay.overallStats.readingTime': 'Lästid (min)',
+    'workshop.theWay.overallStats.demographics': 'Demografiska uppgifter om läsare',
+    'workshop.theWay.overallStats.topCountry': 'Bästa land',
+    'workshop.theWay.overallStats.topAgeGroup': 'Bästa åldersgrupp',
+    'workshop.theWay.overallStats.genres': 'Dina genrer'
 };

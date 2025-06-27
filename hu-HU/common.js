@@ -304,5 +304,6 @@ export default {
     'common.aiContent.model': 'AI modell: {model}',
     'common.aiContent.custom': 'Egyedi AI modell',
     'common.viewAll': 'Minden megtekintése',
-    'notice.thankYou': 'Köszönjük a támogatást!'
+    'notice.thankYou': 'Köszönjük a támogatást!',
+    'common.dropImageHere': 'Dobjon ide egy képet'
 };

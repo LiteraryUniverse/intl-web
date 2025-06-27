@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': '페이지',
     'stats.blog.posts': '포스트',
     'stats.unknown': '알 수 없음',
-    'stats.noData': '현재 데이터를 사용할 수 없습니다.'
+    'stats.noData': '현재 데이터를 사용할 수 없습니다.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': '아직 통계 데이터가 없습니다. 작품을 게시하여 통계를 확인하세요!',
+    'workshop.theWay.overallStats.content': '콘텐츠',
+    'workshop.theWay.overallStats.stories': '스토리',
+    'workshop.theWay.overallStats.universes': '유니버스',
+    'workshop.theWay.overallStats.chapters': '챕터',
+    'workshop.theWay.overallStats.wordCount': '작성된 단어',
+    'workshop.theWay.overallStats.encyclopediaEntries': '백과사전 항목',
+    'workshop.theWay.overallStats.publishingStreak': '주간 게시 연승',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': '월 발행 연승',
+    'workshop.theWay.overallStats.audience': '잠재 고객',
+    'workshop.theWay.overallStats.fans': '팬',
+    'workshop.theWay.overallStats.followers': '팔로워',
+    'workshop.theWay.overallStats.uniqueReaders': '고유 독자',
+    'workshop.theWay.overallStats.storyViews': '스토리 보기',
+    'workshop.theWay.overallStats.universeViews': '유니버스 뷰',
+    'workshop.theWay.overallStats.readingTime': '읽기 시간(분)',
+    'workshop.theWay.overallStats.demographics': '독자 인구 통계',
+    'workshop.theWay.overallStats.topCountry': '상위 국가',
+    'workshop.theWay.overallStats.topAgeGroup': '상위 연령대',
+    'workshop.theWay.overallStats.genres': '장르'
 };

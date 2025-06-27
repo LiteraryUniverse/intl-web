@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Sider',
     'stats.blog.posts': 'Indlæg',
     'stats.unknown': 'Ukendt',
-    'stats.noData': 'Ingen data tilgængelig på dette tidspunkt.'
+    'stats.noData': 'Ingen data tilgængelig på dette tidspunkt.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Ingen statistikdata tilgængelige endnu. Begynd at udgive dit arbejde for at se din statistik!',
+    'workshop.theWay.overallStats.content': 'Dit indhold',
+    'workshop.theWay.overallStats.stories': 'Historier',
+    'workshop.theWay.overallStats.universes': 'Universer',
+    'workshop.theWay.overallStats.chapters': 'Kapitler',
+    'workshop.theWay.overallStats.wordCount': 'Skrevne ord',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Indlæg i encyklopædien',
+    'workshop.theWay.overallStats.publishingStreak': 'Uges udgivelsesrække',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Måned Udgivelsesrække',
+    'workshop.theWay.overallStats.audience': 'Din målgruppe',
+    'workshop.theWay.overallStats.fans': 'Fans',
+    'workshop.theWay.overallStats.followers': 'Følgere',
+    'workshop.theWay.overallStats.uniqueReaders': 'Unikke læsere',
+    'workshop.theWay.overallStats.storyViews': 'Udsigt til historie',
+    'workshop.theWay.overallStats.universeViews': 'Universets synspunkter',
+    'workshop.theWay.overallStats.readingTime': 'Læsetid (min)',
+    'workshop.theWay.overallStats.demographics': 'Demografi for læsere',
+    'workshop.theWay.overallStats.topCountry': 'Top land',
+    'workshop.theWay.overallStats.topAgeGroup': 'Bedste aldersgruppe',
+    'workshop.theWay.overallStats.genres': 'Dine genrer'
 };

@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identity',
     'settings.profile.about': 'About You',
     'settings.profile.basic.description': 'Manage your basic profile information that will be visible to other users.',
-    'settings.interest.title': 'Your Interests',
+    'settings.interests.title': 'Your Interests',
     'settings.account': 'Mga setting ng account',
     'settings.legal.export.download': 'I-download ang iyong data',
     'settings.legal.export.gathering': 'Kinokolekta ang iyong data... Ito ay maaaring tumagal ng ilang sandali.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'I-export ang data at burahin ang account',
     'settings.languages.uiLanguage': 'Interface language',
     'settings.languages.readingLanguage': 'Reading language',
-    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.'
+    'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.',
+    'settings.biography.help': 'Tell others about yourself',
+    'settings.username.help': 'Your unique username on the platform'
 };

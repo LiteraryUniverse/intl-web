@@ -50,7 +50,7 @@ export default {
     'settings.profile.identity': 'Identitet',
     'settings.profile.about': 'Om dig',
     'settings.profile.basic.description': 'Administrer dine grundlæggende profiloplysninger, som vil være synlige for andre brugere.',
-    'settings.interest.title': 'Dine interesser',
+    'settings.interests.title': 'Dine interesser',
     'settings.account': 'Kontoindstillinger',
     'settings.legal.export.download': 'Download dine data',
     'settings.legal.export.gathering': 'Indsamler dine data... Dette kan tage lidt tid.',
@@ -131,5 +131,7 @@ export default {
     'settings.tab.exportDelete': 'Eksporter data og slet konto',
     'settings.languages.uiLanguage': 'Interface-sprog',
     'settings.languages.readingLanguage': 'Læsning af sprog',
-    'settings.languages.readingLanguageExplained': 'Når du søger efter historier, vil vi tilbyde dig historier og deres oversættelser på dette sprog, medmindre du angiver andet.'
+    'settings.languages.readingLanguageExplained': 'Når du søger efter historier, vil vi tilbyde dig historier og deres oversættelser på dette sprog, medmindre du angiver andet.',
+    'settings.biography.help': 'Fortæl andre om dig selv',
+    'settings.username.help': 'Dit unikke brugernavn på platformen'
 };

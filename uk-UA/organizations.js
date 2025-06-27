@@ -60,5 +60,32 @@ export default {
     'org.member.leave': 'Організація відпустки',
     'org.member.leaveModalTitle': 'Підтвердження виходу з організації',
     'org.member.leaveModalHeading': 'Ви впевнені, що хочете залишити {orgName}',
-    'org.member.leaveModalExplain': 'Після того, як ви покинете організацію, ви втратите доступ до всіх пов\'язаних з нею ресурсів і робіт. Цю дію неможливо скасувати.'
+    'org.member.leaveModalExplain': 'Після того, як ви покинете організацію, ви втратите доступ до всіх пов\'язаних з нею ресурсів і робіт. Цю дію неможливо скасувати.',
+    // Role management strings
+    'org.member.manageRoles': 'Керування ролями',
+    'org.roles.error': 'Помилка: {error}',
+    'org.roles.manageFor': 'Керуючі ролі для {name}',
+    'org.roles.selectRole': 'Виберіть роль',
+    'org.roles.noRole': 'Без ролі (тільки дозволи)',
+    'org.roles.admin': 'Адміністратор',
+    'org.roles.member': 'Учасник',
+    'org.roles.author': 'Автор',
+    'org.roles.workshop': 'Майстер-клас',
+    'org.roles.teacher': 'Учитель',
+    'org.permissions.title': 'Дозволи',
+    'org.permissions.includedInRole': '(включено в роль)',
+    // Permission names
+    'org.permissions.members.add': 'Додати учасників',
+    'org.permissions.members.remove': 'Видалення учасників',
+    'org.permissions.members.view': 'Переглянути учасників',
+    'org.permissions.settings': 'Керування налаштуваннями',
+    'org.permissions.auditLog': 'Перегляд журналу аудиту',
+    'org.permissions.flashnews': 'Керування флеш-новинами',
+    'org.permissions.workshop.view': 'Переглянути воркшоп',
+    'org.permissions.workshop.create': 'Створюйте елементи майстерні',
+    'org.permissions.workshop.transfer': 'Передача права власності',
+    'org.permissions.workshop.viewAll': 'Переглянути всі елементи воркшопу',
+    'org.permissions.forum.manager': 'Керування форумами',
+    'org.permissions.blog.manage': 'Керування блогом',
+    'org.permissions.blog.post': 'Створюйте дописи в блозі'
 };

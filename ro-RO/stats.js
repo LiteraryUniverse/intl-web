@@ -38,5 +38,26 @@ export default {
     'stats.blog.pages': 'Pagini',
     'stats.blog.posts': 'Postări',
     'stats.unknown': 'Necunoscut',
-    'stats.noData': 'Nu există date disponibile în acest moment.'
+    'stats.noData': 'Nu există date disponibile în acest moment.',
+    // Author overall statistics
+    'workshop.theWay.overallStats.noData': 'Nu există încă date statistice disponibile. Începeți să vă publicați lucrările pentru a vă vedea statisticile!',
+    'workshop.theWay.overallStats.content': 'Conținutul dvs.',
+    'workshop.theWay.overallStats.stories': 'Povestiri',
+    'workshop.theWay.overallStats.universes': 'Universuri',
+    'workshop.theWay.overallStats.chapters': 'Capitole',
+    'workshop.theWay.overallStats.wordCount': 'Cuvinte scrise',
+    'workshop.theWay.overallStats.encyclopediaEntries': 'Înscrieri în enciclopedie',
+    'workshop.theWay.overallStats.publishingStreak': 'Săptămână Editura Streak',
+    'workshop.theWay.overallStats.monthlyPublicationStreak': 'Luna Publicație Streak',
+    'workshop.theWay.overallStats.audience': 'Audiența dvs.',
+    'workshop.theWay.overallStats.fans': 'Fanii',
+    'workshop.theWay.overallStats.followers': 'Urmăritori',
+    'workshop.theWay.overallStats.uniqueReaders': 'Cititori unici',
+    'workshop.theWay.overallStats.storyViews': 'Vizualizări poveste',
+    'workshop.theWay.overallStats.universeViews': 'Viziuni asupra universului',
+    'workshop.theWay.overallStats.readingTime': 'Timp de citire (min)',
+    'workshop.theWay.overallStats.demographics': 'Caracteristici demografice ale cititorilor',
+    'workshop.theWay.overallStats.topCountry': 'Țara de top',
+    'workshop.theWay.overallStats.topAgeGroup': 'Grupa de vârstă superioară',
+    'workshop.theWay.overallStats.genres': 'Genurile tale'
 };

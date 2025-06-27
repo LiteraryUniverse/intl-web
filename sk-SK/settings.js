@@ -48,7 +48,7 @@ export default {
     'settings.profile.identity': 'Identita',
     'settings.profile.about': 'O vás',
     'settings.profile.basic.description': 'Spravujte základné informácie o svojom profile, ktoré budú viditeľné pre ostatných používateľov.',
-    'settings.interest.title': 'Vaše záujmy',
+    'settings.interests.title': 'Vaše záujmy',
     'settings.account': 'Nastavenie účtu',
     'settings.legal.export.download': 'Stiahnuť moje údaje',
     'settings.legal.export.gathering': 'Zhromažďovanie údajov... To môže chvíľu trvať.',
@@ -129,5 +129,7 @@ export default {
     'settings.tab.exportDelete': 'Export údajov & vymazanie účtu',
     'settings.languages.uiLanguage': 'Jazyk rozhrania',
     'settings.languages.readingLanguage': 'Jazyk čítania',
-    'settings.languages.readingLanguageExplained': 'Pri vyhľadávaní príbehov vám ponúkneme príbehy a ich preklady v tomto jazyku, ak neuvediete inak.'
+    'settings.languages.readingLanguageExplained': 'Pri vyhľadávaní príbehov vám ponúkneme príbehy a ich preklady v tomto jazyku, ak neuvediete inak.',
+    'settings.biography.help': 'Povedzte o sebe ostatným',
+    'settings.username.help': 'Vaše jedinečné používateľské meno na platforme'
 };
