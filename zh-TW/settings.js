@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': '閱讀語言',
     'settings.languages.readingLanguageExplained': '查找故事時，除非您另有指定，否則我們將為您提供此語言的故事及其翻譯。',
     'settings.biography.help': '向他人介紹自己',
-    'settings.username.help': '您在平台上的唯一使用者名稱'
+    'settings.username.help': '您在平台上的唯一使用者名稱',
+    'settings.interests.tags.custom.help': '輸入以逗號分隔的標籤清單',
+    'settings.interests.tags.placeholder': '新增標籤',
+    'settings.interests.avoidGenres.help': '選擇您不希望在推薦中看到的類型。',
+    'settings.interests.avoidGenres': '應避免的類型'
 };
