@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Keele lugemine',
     'settings.languages.readingLanguageExplained': 'Lugude otsimisel pakume teile lugusid ja nende tõlkeid selles keeles, kui te ei täpsusta teisiti.',
     'settings.biography.help': 'Räägi teistele endast',
-    'settings.username.help': 'Teie unikaalne kasutajanimi platvormil'
+    'settings.username.help': 'Teie unikaalne kasutajanimi platvormil',
+    'settings.interests.tags.custom.help': 'Sisestage komadega eraldatud siltide nimekiri',
+    'settings.interests.tags.placeholder': 'Lisa sildid',
+    'settings.interests.avoidGenres.help': 'Valige žanrid, mida te ei soovi soovitustes näha.',
+    'settings.interests.avoidGenres': 'Žanrid, mida tuleks vältida'
 };
