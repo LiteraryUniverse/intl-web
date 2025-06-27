@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Paslėpti dirbtinio intelekto sukurtą turinį',
     'discover.search.aiContent.only': 'Rodyti tik dirbtinio intelekto sukurtą turinį',
     'discovery.aiContent.indicator': 'Šis turinys buvo sukurtas naudojant dirbtinę intelektinę dirbtinę',
-    'discovery.aiContent.indicator.model': 'AI modelis: {model}'
+    'discovery.aiContent.indicator.model': 'AI modelis: {model}',
+    'discovery.recommendations.storiesTitle': 'Rekomenduojamos istorijos',
+    'discovery.recommendations.recommendationsExplained': 'Rekomenduojamos visatos',
+    'discovery.recommendations.recommendationsSettings': 'Šią funkciją galite išjungti nustatymuose.'
 };
