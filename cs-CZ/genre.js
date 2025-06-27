@@ -8,7 +8,7 @@ export default {
     'genre.nonfiction': 'Non-fiction',
     'genre.fiction': 'Fikce',
     'genre.romance': 'Romantika',
-    'genre.satire': 'Satura',
+    'genre.satire': 'Satira',
     'genre.tragedy': 'Tragédie',
     'genre.crime': 'Krimi',
     'genre.historical': 'Historická fikce',
