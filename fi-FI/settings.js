@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Kielen lukeminen',
     'settings.languages.readingLanguageExplained': 'Kun etsit tarinoita, tarjoamme sinulle tarinoita ja niiden käännöksiä tällä kielellä, ellet määritä toisin.',
     'settings.biography.help': 'Kerro muille itsestäsi',
-    'settings.username.help': 'Yksilöllinen käyttäjätunnuksesi alustalla'
+    'settings.username.help': 'Yksilöllinen käyttäjätunnuksesi alustalla',
+    'settings.interests.tags.custom.help': 'Syötä pilkulla erotettu luettelo tunnisteista',
+    'settings.interests.tags.placeholder': 'Lisää tunnisteet',
+    'settings.interests.avoidGenres.help': 'Valitse genret, joita et halua nähdä suosituksissa.',
+    'settings.interests.avoidGenres': 'Vältettävät lajityypit'
 };
