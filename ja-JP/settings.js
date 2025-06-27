@@ -131,5 +131,9 @@ export default {
     'settings.languages.readingLanguage': '言語を読む',
     'settings.languages.readingLanguageExplained': 'ストーリーを検索する際、特にご指定がない限り、この言語でのストーリーとその翻訳が提供されます。',
     'settings.biography.help': '自分のことを他人に話す',
-    'settings.username.help': 'プラットフォーム上での固有のユーザー名'
+    'settings.username.help': 'プラットフォーム上での固有のユーザー名',
+    'settings.interests.tags.custom.help': 'タグのリストをカンマ区切りで入力',
+    'settings.interests.tags.placeholder': 'タグの追加',
+    'settings.interests.avoidGenres.help': 'レコメンデーションで見たくないジャンルを選択する。',
+    'settings.interests.avoidGenres': '避けるべきジャンル'
 };
