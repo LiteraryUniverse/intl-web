@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Yapay zeka tarafından oluşturulan içeriği gizleme',
     'discover.search.aiContent.only': 'Yalnızca yapay zeka tarafından oluşturulan içeriği gösterin',
     'discovery.aiContent.indicator': 'Bu içerik yapay zeka yardımıyla oluşturulmuştur',
-    'discovery.aiContent.indicator.model': 'AI Modeli: {model}'
+    'discovery.aiContent.indicator.model': 'AI Modeli: {model}',
+    'discovery.recommendations.storiesTitle': 'Önerilen hikayeler',
+    'discovery.recommendations.recommendationsExplained': 'Önerilen evrenler',
+    'discovery.recommendations.recommendationsSettings': 'Bunu ayarlarınızdan devre dışı bırakabilirsiniz.'
 };
