@@ -173,9 +173,5 @@ export default {
   'settings.languages.readingLanguage': 'Reading language',
   'settings.languages.readingLanguageExplained': 'When looking up stories we will offer you stories and their translations in this language unless you specify otherwise.',
   'settings.biography.help': 'Tell others about yourself',
-  'settings.username.help': 'Your unique username on the platform',
-  'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
-  'settings.interests.tags.placeholder': 'Add tags',
-  'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-  'settings.interests.avoidGenres': 'Genres to avoid',
+  'settings.username.help': 'Your unique username on the platform'
 }
