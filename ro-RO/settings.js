@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Limbajul de lectură',
     'settings.languages.readingLanguageExplained': 'Atunci când căutați povestiri, vă vom oferi povestiri și traducerile lor în această limbă, dacă nu specificați altfel.',
     'settings.biography.help': 'Spune-le altora despre tine',
-    'settings.username.help': 'Numele dvs. de utilizator unic pe platformă'
+    'settings.username.help': 'Numele dvs. de utilizator unic pe platformă',
+    'settings.interests.tags.custom.help': 'Introduceți lista de etichete separate prin virgulă',
+    'settings.interests.tags.placeholder': 'Adaugă etichete',
+    'settings.interests.avoidGenres.help': 'Selectați genurile pe care ați prefera să nu le vedeți în recomandări.',
+    'settings.interests.avoidGenres': 'Genuri de evitat'
 };
