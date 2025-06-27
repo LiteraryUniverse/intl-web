@@ -80,5 +80,8 @@ export default {
     'discover.search.aiContent.none': 'Ukrywanie treści generowanych przez SI',
     'discover.search.aiContent.only': 'Proszę wyświetlać tylko treści generowane przez sztuczną inteligencję',
     'discovery.aiContent.indicator': 'Ta zawartość została wygenerowana przy pomocy sztucznej inteligencji',
-    'discovery.aiContent.indicator.model': 'Model AI: {model}'
+    'discovery.aiContent.indicator.model': 'Model AI: {model}',
+    'discovery.recommendations.storiesTitle': 'Polecane historie',
+    'discovery.recommendations.recommendationsExplained': 'Zalecane wszechświaty',
+    'discovery.recommendations.recommendationsSettings': 'Można to wyłączyć w ustawieniach.'
 };
