@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Peida tehisintellekti loodud sisu',
     'discover.search.aiContent.only': 'Näita ainult tehisintellekti loodud sisu',
     'discovery.aiContent.indicator': 'See sisu on loodud tehisintellekti abiga',
-    'discovery.aiContent.indicator.model': 'AI mudel: {model}'
+    'discovery.aiContent.indicator.model': 'AI mudel: {model}',
+    'discovery.recommendations.storiesTitle': 'Soovitatavad lood',
+    'discovery.recommendations.recommendationsExplained': 'Soovitatavad universumid',
+    'discovery.recommendations.recommendationsSettings': 'Saate selle seadetes välja lülitada.'
 };
