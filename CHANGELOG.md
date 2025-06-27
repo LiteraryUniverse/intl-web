@@ -1,6 +1,13 @@
 # Changelog for languages
 
-## 2025-06-30 - v2.17.0
+## 2025-06-27 - v2.17.1
+
+* Fix various strings
+* Add missing strings from settings
+* Add more The Way of the Author strings
+* Fix `short_story` not being translated
+
+## 2025-06-20 - v2.17.0
 
 * Fixes for official Literary Universe launch
 
