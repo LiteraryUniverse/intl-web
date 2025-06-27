@@ -71,7 +71,7 @@ export default {
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Generované umělou inteligencí',
     // New AI content related strings
-    'discovery.ai.content': 'Obsah generovaný umělou inteligencí',
+    'discovery.ai.content': 'Obsah generovaný AI',
     'discovery.ai.universes': 'Vesmíry generované umělou inteligencí',
     'discovery.ai.stories': 'Příběhy generované AI',
     'discovery.ai.noContent': 'Zatím není k dispozici žádný obsah generovaný umělou inteligencí.',
