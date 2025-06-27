@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'لغة القراءة',
     'settings.languages.readingLanguageExplained': 'عند البحث عن القصص سنقدم لك القصص وترجماتها بهذه اللغة ما لم تحدد خلاف ذلك.',
     'settings.biography.help': 'أخبر الآخرين عن نفسك',
-    'settings.username.help': 'اسم المستخدم الفريد الخاص بك على المنصة'
+    'settings.username.help': 'اسم المستخدم الفريد الخاص بك على المنصة',
+    'settings.interests.tags.custom.help': 'أدخل قائمة العلامات المفصولة بفاصلة',
+    'settings.interests.tags.placeholder': 'إضافة علامات',
+    'settings.interests.avoidGenres.help': 'حدد الأنواع التي تفضل عدم رؤيتها في التوصيات.',
+    'settings.interests.avoidGenres': 'الأنواع التي يجب تجنبها'
 };
