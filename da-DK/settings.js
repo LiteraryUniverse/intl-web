@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Læsning af sprog',
     'settings.languages.readingLanguageExplained': 'Når du søger efter historier, vil vi tilbyde dig historier og deres oversættelser på dette sprog, medmindre du angiver andet.',
     'settings.biography.help': 'Fortæl andre om dig selv',
-    'settings.username.help': 'Dit unikke brugernavn på platformen'
+    'settings.username.help': 'Dit unikke brugernavn på platformen',
+    'settings.interests.tags.custom.help': 'Indtast kommasepareret liste over tags',
+    'settings.interests.tags.placeholder': 'Tilføj tags',
+    'settings.interests.avoidGenres.help': 'Vælg de genrer, du helst ikke vil se i anbefalingerne.',
+    'settings.interests.avoidGenres': 'Genrer, der skal undgås'
 };
