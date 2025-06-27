@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Taal lezen',
     'settings.languages.readingLanguageExplained': 'Bij het opzoeken van verhalen zullen wij u verhalen en hun vertalingen in deze taal aanbieden, tenzij u anders aangeeft.',
     'settings.biography.help': 'Vertel anderen over uzelf',
-    'settings.username.help': 'Uw unieke gebruikersnaam op het platform'
+    'settings.username.help': 'Uw unieke gebruikersnaam op het platform',
+    'settings.interests.tags.custom.help': 'Voer een door komma\'s gescheiden lijst van tags in',
+    'settings.interests.tags.placeholder': 'Labels toevoegen',
+    'settings.interests.avoidGenres.help': 'Selecteer genres die u liever niet in aanbevelingen ziet.',
+    'settings.interests.avoidGenres': 'Genres die u moet vermijden'
 };
