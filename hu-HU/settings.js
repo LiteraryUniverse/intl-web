@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Olvasott nyelv',
     'settings.languages.readingLanguageExplained': 'A történetek keresésekor a történetek és fordításaik ezen a nyelven kerülnek felajánlásra, hacsak Ön nem ad meg mást.',
     'settings.biography.help': 'Mesélj magadról másoknak',
-    'settings.username.help': 'Az Ön egyedi felhasználóneve a platformon'
+    'settings.username.help': 'Az Ön egyedi felhasználóneve a platformon',
+    'settings.interests.tags.custom.help': 'Adja meg a címkék vesszővel elválasztott listáját',
+    'settings.interests.tags.placeholder': 'Címkék hozzáadása',
+    'settings.interests.avoidGenres.help': 'Válassza ki azokat a műfajokat, amelyeket nem szeretne látni az ajánlásokban.',
+    'settings.interests.avoidGenres': 'Kerülendő műfajok'
 };
