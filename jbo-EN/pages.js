@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'lo prenu poi vlipa ke\'a cu xabju lo saske be lo drata be lo te cuxna ke\'a',
     'about.jan': 'Le nu citkanpe cu mokca lo nu facki lo se cukta cukta poi cilre befa\'u e ba\'o daspo la\'o zoi. le nu se citkanpe cu ka\'e dunda lo ka di\'a krefu lo\'i cukta poi nandu zasti ku kei ca lo ka friti lo\'a krinu be la\'o gy.Literary Universegy. .gy. Le nu se citkanpe pa fi\'u suna lenku be lo\'i cukta cu zifre lo ka pilno lo ckupau be lo mamta be\'o kei be lo se cukta .i le se citkanpe cu banzu lo du\'u le cmima be lo slabu cukta cu simlu lo ka simxu lo se cpacu\'a ckupau be lo mamta',
     'about.history.text': 'le Jan cu cilre ca\'a fa lo nu je\'u sazri lo\'e te farvi be le tecrida\nlo tarbri be lo gasnu be le uidje te ribyce\n.i Le farvi be le jalge cu ku se tcese fa\'a lo nu la\'u li PAMO cu porpi\'a lo se du\'u le preti cu zdofa\'o renotci ca le nu pensi dei\nli PAJO\nle Jan cu za\'u re lo nu cerni gunka fa lo nu farvi lo ribycre poi tefau cu lonu le ri pulji cu slabu le ce se preti cu ja\'e la\'a cu klama le la Imagine RIT\n.i pa\'a le merbau cu ci\'irpa\'u fa lo nu kelci lei remna cu da\'i se farvi fa lo repre xalka te ribycre',
-    'copyrights.desc': 'Lo se ckule be\'o lo Literatura Ciste cu zasti lo nu se ckule be\'o lo ckule be\'o lo pruce be\'o lo jbobau.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Lo se ckule be\'o lo Literatura Ciste cu zasti lo nu se ckule be\'o lo ckule be\'o lo pruce be\'o lo jbobau.',
     'guidelines.desc': 'Lo se ckule be\'o lo Literatura Ciste cu zasti lo nu se ckule be\'o lo ckule be\'o lo pruce be\'o lo jbobau.',
     'tos.desc': 'Lo se ckule be\'o lo Literatura Ciste cu zasti lo nu se ckule be\'o lo ckule be\'o lo pruce be\'o lo jbobau.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe builds on top of many Open Source projects and free resources. Bellow you will find their listing.',
     'about.attributionsMatomo': 'Our analytics use self-hosted Matomo with IP2Location LITE data available from https://lite.ip2location.com.',
     'team.name.pjakubec': 'pavel. jakubec',
-    'team.name.asebesta': 'adam. šebesta',
     'about.developer': 'pu\'o',
     'about.seniorDeveloper': 'senior. pu\'o',
     'about.juniorDeveloper': 'junior. pu\'o',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry cu dizajner cu pluka se tcika li pi\'e 15',
     'about.pavel': 'Lo nu spofu fe lo glut',
-    'about.seba': 'le Adam cu mutce ce\'o jgari\'a lo nu carvi le danre .ije le nu gerku cu ca\'o va\'e lo nu ma\'urti lo ribyce'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
