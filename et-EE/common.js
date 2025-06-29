@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Kogukonna eeskirjad',
     'common.legal.privacy': 'Privaatsuspoliitika',
     'common.legal.copyright': 'Autoriõiguse leping',
+    'common.legal.cookies': 'Küpsiste kohta',
+    'cookies.desc': 'See veebisait kasutab küpsiseid, et tagada teile parim kogemus meie veebisaidil.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Teenusetingimused}
-    community {Kogukonna juhised}
+    tos {Kasutustingimused}
+    community {Ühenduse suunised}
     privacy {Privaatsuspoliitika}
-    copyright {Autoriõiguse kokkulepe}
-    publishingAgreement {Kirjastamisleping}
+    copyright {Autoriõiguse leping}
+    publishingAgreement {Avaldamise leping}
+    cookies {Küpsistest}
     other {Leping}
   } Versioon {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Käesoleva dokumendi uus versioon ({newVersion}) jõustub {effectiveAt, date}.',
