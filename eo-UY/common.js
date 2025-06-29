@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Komunumaj Gvidnormoj',
     'common.legal.privacy': 'Privateca Politiko',
     'common.legal.copyright': 'Copyright Agreement',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Kondiĉoj de servado}
-    community {Komunumaj gvidlinioj}
-    privacy {Privateca politiko}
-    copyright {Aŭtorrajta interkonsento}
-    publishingAgreement {Afiŝa interkonsento}
-    other {Interkonsento}
-  } Versio {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nova versio ({newVersion}) de ĉi tiu dokumento enigos en vigo je {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'Not high enough membership rank',
