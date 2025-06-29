@@ -5,5 +5,8 @@ export default {
     'library.stories': '팔로우한 스토리',
     'library.universes': '팔로우한 유니버스',
     'bookmark.continueReading': '계속 읽기',
-    'bookmark.statusSummary': '이야기의 {readPercent, number, ::percent} 를 읽으셨습니다.'
+    'bookmark.statusSummary': '이야기의 {readPercent, number, ::percent} 를 읽으셨습니다.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
