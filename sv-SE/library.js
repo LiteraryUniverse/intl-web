@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Följda berättelser',
     'library.universes': 'Följda universum',
     'bookmark.continueReading': 'Fortsätt läsa',
-    'bookmark.statusSummary': 'Du har läst {readPercent, number, ::percent} av historien.'
+    'bookmark.statusSummary': 'Du har läst {readPercent, number, ::percent} av historien.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
