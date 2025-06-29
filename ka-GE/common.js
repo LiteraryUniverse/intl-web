@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'საზოგადოების წესები',
     'common.legal.privacy': 'კონფიდენციალურობის პოლიტიკა',
     'common.legal.copyright': 'ავტორული უფლებები',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {მოხმარების პირობები}
-    community {საერთო წესები}
-    privacy {კონფიდენციალურობის პოლიტიკა}
-    copyright {საავტორო უფლება}
-    publishingAgreement {გამოქვეყნების შეთანხმება}
-    other {შეთანხმება}
-  } ორივესი {date, date}ვერსია {version} -  {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'ახალი ვერსია ({newVersion}) ამ დოკუმენტის გამოყენებაში შემოდის {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} ყველა უფლება დაცულია, ყველა ტექსტი მიერიანი ავტორის მიერ.',
     'premium.only.title': 'არასაკმარისი მემბრის რანგი',
