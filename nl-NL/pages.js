@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Technisch Directeur',
     'about.jan': 'Jan is de oprichter, visionair en technologische geest achter Literary Universe. Als schrijver van uitgebreide literaire universums worstelde Jan vaak met het schrijven van verhalen op een manier die technische precisie combineerde met leesbaarheid, zonder afbreuk te doen aan de ervaring van de lezer. Deze uitdaging leidde hem naar een studie in webontwikkeling, met als doel een applicatie te creëren die het proces van het schrijven van verhalen binnen grote universums vereenvoudigt.',
     'about.history.text': 'In 2010 begon Jan zijn studie aan het Rochester Institute of Technology om zijn kennis van webontwikkeling te verdiepen, met als doel het bouwen van een creatief schrijfplatform. Deze visie kreeg vorm in 2013 toen het eerste proof of concept werd gepresenteerd op Imagine RIT. Jan vervolgde zijn studie en in 2016 werd er een nieuwe versie van de app gemaakt als zijn Master\'s Capstone Project. Het project bleef evolueren gedurende de herfst van 2016 en ontwikkelde uiteindelijk tot het platform dat je vandaag de dag ziet.',
-    'copyrights.desc': 'De volledige tekst van het auteursrecht van het Literair Universum.',
+    'copyrights.desc': 'Informatie over auteursrechten op Literary Universe.',
     'privacy.desc': 'De volledige wettelijke tekst van het privacybeleid van het Literair Universum.',
     'guidelines.desc': 'Communityrichtlijnen van het Literair Universum.',
     'tos.desc': 'De volledige wettelijke tekst van de servicevoorwaarden van het Literair Universum.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe bouwt voort op veel Open Source projecten en gratis bronnen. Hieronder vind je hun lijst.',
     'about.attributionsMatomo': 'Onze analyses maken gebruik van zelfgehoste Matomo met IP2Location LITE-gegevens die beschikbaar zijn op https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Ontwikkelaar',
     'about.seniorDeveloper': 'Senior Ontwikkelaar',
     'about.juniorDeveloper': 'Junior Ontwikkelaar',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is een ontwerper met meer dan 15 jaar ervaring. Hij werkt sinds 2010 bij een bureau, met klanten als PERTAMINA, VOA en het Ministerie van Toerisme van Indonesië. Hij heeft ervaring op het gebied van branding, lay-out en UI/UX en voelt zich uitgedaagd om Literary Universe vorm te geven.',
     'about.pavel': 'Web3, het Metaverse, AI en andere opkomende technologieën - Pavel onderzoekt het allemaal om te zien hoe het Literary Universe kan verbeteren. Als een echte multidisciplinaire onderzoeker heeft Pavel inzicht in veel vakgebieden en werkt hij aan het integreren van nieuwe en spannende functies in het platform.',
-    'about.seba': 'Ooit een gamer, is Adam nu op weg om een volwaardige ontwikkelaar te worden en zijn vaardigheden en passie toe te passen op Literary Universe.'
+    'copyrights.about': 'Literair Universum neemt Copyright zeer serieus. Alle inhoud die door gebruikers wordt gepubliceerd is hun eigendom en beschikbaar onder de licentie die is opgegeven. Naast de volledige reeks Creative Commons licenties, biedt Literary Universe ook 2 commerciële licenties, exclusief en niet-exclusief.',
+    'copyrights.nonExclusiveLicense': 'Met de Niet-exclusieve Licentie van Literair Universum kunt u op Literair Universum publiceren zonder uw rechten als auteursrechthebbende prijs te geven. U bent vrij om elders te publiceren. Literary Universe behoudt zich alleen het recht voor om uw IP voor marketingdoeleinden te gebruiken. Als u besluit uw IP te verkopen op Literary Universe zal het platform 30% platformkosten in rekening brengen.',
+    'copyrights.exclusiveLicense': 'Met de Literary Universe Exclusieve Licentie kunt u exclusief op Literary Universe publiceren. Dat betekent dat u uw IP niet op andere online platforms of iets anders buiten Literair Universum kunt publiceren. Als u een fysiek medium zoals een boek wilt publiceren moet u ons om toestemming vragen. Als Literair Universum niet binnen 30 dagen reageert dan is dat automatisch toestemming. In de toekomst hopen wij u fysiek uitgeven en andere diensten aan te bieden via onze partners. Wees niet bang om contact met ons op te nemen, we wensen u succes en in de meeste gevallen zijn we gewoon op zoek naar frauduleuze bedrijven. Toch is dit beperkend, dus als dank is de platformvergoeding slechts 10%.',
+    'copyrights.licensesAreImportant': 'Het kiezen van een licentie is uiterst belangrijk en heeft invloed op hoe uw werk in de toekomst toegankelijk zal zijn. Om het kiezen te vergemakkelijken kunt u onze licentiekiezer hieronder bekijken.'
 };
