@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Director de tecnología',
     'about.jan': 'Jan es el fundador, visionario y mente tecnológica detrás de Literary Universe. Como escritor de universos literarios expansivos, Jan a menudo luchaba por escribir historias de una manera que equilibrara la precisión técnica con la legibilidad, sin comprometer la experiencia del lector. Este desafío lo llevó a estudiar desarrollo web, con el objetivo de crear una aplicación que simplificara el proceso de escribir historias dentro de grandes universos.',
     'about.history.text': 'En 2010, Jan comenzó sus estudios en la Universidad de Tecnología de Rochester para profundizar sus conocimientos en desarrollo web, con el objetivo de construir una plataforma de escritura creativa. Esta visión tomó forma en 2013, cuando se presentó el primer prototipo en Imagine RIT. Jan continuó sus estudios y en 2016 se creó una nueva versión de la aplicación como parte de su proyecto de final de máster. El proyecto continuó evolucionando a lo largo del otoño de 2016, desarrollándose finalmente en la plataforma que ves hoy en día.',
-    'copyrights.desc': 'Vista completa del acuerdo de derechos de autor de Literary Universe.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Vista completa de las políticas de privacidad de Literary Universe.',
     'guidelines.desc': 'Normas comunitarias de Literary Universe.',
     'tos.desc': 'Vista completa de condiciones de servicio de Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe se cimienta en numerosos proyectos de código abierto y recursos gratuitos. A continuación encontrarás el listado completo.',
     'about.attributionsMatomo': 'Nuestros análisis utilizan Matomo con datos IP2Location LITE disponibles en https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Desarrollador',
     'about.seniorDeveloper': 'Desarrollador sénior',
     'about.juniorDeveloper': 'Desarollador Junior',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry es un diseñador con más de 15 años de experiencia. Ha estado trabajando en la agencia desde 2010 con clientela destacada como PERTAMINA, VOA, y el Ministerio de Turismo de Indonesia. Con experiencia en Branding, diseño y también en UI/UX que ha aceptado el desafío de diseñar Literary Universe.',
     'about.pavel': 'Web3, el Metaverso, la IA y cualquier tecnología emergente: Pavel explora todo esto para ver cómo puede mejorar Literary Universe. Como verdadero investigador multidisciplinario, Pavel tiene conocimientos en muchos campos y trabaja en la integración de nuevas y emocionantes características en la plataforma.',
-    'about.seba': 'Antes un jugador, Adam ahora está en el camino de convertirse en un desarrollador de pleno derecho, aplicando sus habilidades y pasión a Literary Universe.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
