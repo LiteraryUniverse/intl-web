@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Technológiai Igazgató',
     'about.jan': 'Jan a Literary Universe alapítója, víziója és technológiai zsenije. Mint a kiterjedt irodalmi univerzumok írója, Jan gyakran küzdött a történetek írása közben azáltal, hogy technikai pontosságot és olvashatóságot egyensúlyban tartsa, anélkül, hogy veszélyeztetné az olvasók élményét. Ez a kihívás vezette őt ahhoz, hogy webfejlesztési tanulmányokat folytasson, azzal a céllal, hogy olyan alkalmazást hozzon létre, amely egyszerűsíti a történetek írásának folyamatát a nagy univerzumokban.',
     'about.history.text': '2010-ben Jan elkezdte tanulmányait a Rochesteri Technológiai Intézetben, hogy elmélyítse webfejlesztési ismereteit, azzal a céllal, hogy egy kreatív írási platformot hozzon létre. Ez a vízió 2013-ban vált valóra, amikor az első koncepcióbizonyítékot bemutatták a Imagine RIT-en. Jan folytatta tanulmányait, és 2016-ban az app új verziója készült el, mint a Mesterképzési Záródolgozata. A projekt továbbfejlődött 2016 őszén, és végül a mai látványos platformmá vált.',
-    'copyrights.desc': 'Az Irodalmi Univerzum Szerzői Jogok Szerződésének teljes szövege.',
+    'copyrights.desc': 'Információk a szerzői jogokról az Irodalmi Univerzumban.',
     'privacy.desc': 'Az Irodalmi Univerzum Adatvédelmi Szabályzatának teljes jogi szövege.',
     'guidelines.desc': 'Az Irodalmi Univerzum közösségi irányelvei.',
     'tos.desc': 'Az Irodalmi Univerzum Teljes Szolgáltatási Feltételeinek jogi szövege.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'A Literary Universe sok nyílt forráskódú projekt és ingyenes erőforrás alapján épül fel. Lent találja a listájukat.',
     'about.attributionsMatomo': 'Analitikánk saját szerveren futó Matomo-t használ az IP2Location LITE adatokkal, amelyek elérhetők a https://lite.ip2location.com oldalon.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Fejlesztő',
     'about.seniorDeveloper': 'Tapasztalt Fejlesztő',
     'about.juniorDeveloper': 'Junior Fejlesztő',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry egy tervező, aki több mint 15 éves tapasztalattal rendelkezik. 2010 óta dolgozik ügynökségnél, ügyfelei közé tartozik a PERTAMINA, a VOA és az Indonéziai Idegenforgalmi Minisztérium. Tapasztalata van a márkaépítésben, elrendezésben és az UI/UX tervezésben, és kihívást jelent számára a Literary Universe tervezése.',
     'about.pavel': 'Web3, a Metaverse, AI és minden új technológia - Pavel mindezt felfedezte, hogy megnézze, hogyan tudja gazdagítani a Literary Universe-t. Mint igazán multidiszciplináris kutató, Pavel betekintést nyert sok területbe és azon dolgozik, hogy új és izgalmas funkciókat integráljon a platformba.',
-    'about.seba': 'Adam régen egy játékos volt, de most már egy teljesen képzett fejlesztő útjára lépett, képességeit és szenvedélyét a Literary Universe-re alkalmazva.'
+    'copyrights.about': 'Az Irodalmi Univerzum nagyon komolyan veszi a szerzői jogokat. A felhasználók által közzétett összes tartalom a sajátjuk, és a megadott licenc alapján elérhető. A Creative Commons licencek teljes készlete mellett a Literary Universe 2 kereskedelmi licencet is kínál, kizárólagos és nem kizárólagos licencet.',
+    'copyrights.nonExclusiveLicense': 'A Literary Universe nem kizárólagos licenc lehetővé teszi, hogy a Literary Universe-en publikáljon anélkül, hogy a szerzői jogok jogosultjaként bármilyen jogáról lemondana. Ön szabadon publikálhat bárhol máshol. A Literary Universe csak a jogot tartja fenn arra, hogy az Ön szellemi tulajdonát marketingcélokra használja fel. Ha úgy dönt, hogy az IP-jét a Literary Universe-en értékesíti, a platform 30%-os platformdíjat számít fel.',
+    'copyrights.exclusiveLicense': 'A Literary Universe exkluzív licenc lehetővé teszi, hogy kizárólag a Literary Universe-en publikáljon. Ez azt jelenti, hogy az IP-jét nem teheti közzé más online platformokon vagy bármi máson a Literary Universe-en kívül. Ha fizikai hordozót, például könyvet szeretnél kiadni, engedélyt kell kérned. Ha az Irodalmi Egyetem nem válaszol 30 napon belül, akkor ez automatikus beleegyezésnek minősül. A jövőben reméljük, hogy partnereinken keresztül fizikai kiadványokat és egyéb szolgáltatásokat is kínálhatunk Önnek. Ne féljetek felvenni velünk a kapcsolatot, mi a sikereteket kívánjuk, és a legtöbb esetben csak a csaló cégek ellen vigyázunk. Mégis ez korlátozó, ezért köszönetképpen a platformdíj csak 10%.',
+    'copyrights.licensesAreImportant': 'A licenc kiválasztása rendkívül fontos, és befolyásolja, hogy a jövőben hogyan lehet majd hozzáférni a munkájához. A választás megkönnyítése érdekében megtekintheti az alábbi licencválasztónkat.'
 };
