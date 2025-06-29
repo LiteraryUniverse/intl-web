@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'Jan เป็นผู้ก่อตั้ง ผู้มีวิสัยทัศน์ และจิตวิญญาณทางเทคโนโลยีของจักรวาลวรรณกรรม เป็นนักเขียนของจักรวาลวรรณกรรมที่กว้างขวาง Jan มักพบว่าเขียนเรื่องราวในลักษณะที่สมดุลกับความแม่นยำทางเทคนิค และอ่านได้อย่างสะดวกสบายโดยไม่เสียความสนใจของผู้อ่าน ความท้าทายนี้นำเขาไปสู่การศึกษาในด้านการพัฒนาเว็บ เพื่อสร้างแอปพลิเคชันที่จะทำให้กระบวนการเขียนเรื่องสั้นและหนังสือในจักรวาลใหญ่เป็นเรื่องง่ายขึ้น',
     'about.history.text': 'ในปี 2010 Jan เริ่มเรียนวิชาเว็บพัฒนาที่ Rochester Institute of Technology เพื่อเพิ่มความรู้ในการพัฒนาเว็บ โดยมีเป้าหมายในการสร้างแพลตฟอร์มเพื่อการเขียนเรื่องสร้างสรรค์ วิสัยทัศน์นี้เป็นจริงในปี 2013 เมื่อภาพพิสูจน์ครั้งแรกได้รับการเสนอที่งาน Imagine RIT Jan ต่อไปเรียนต่อตามหลักสูตรปริญญาโท เมื่อปี 2016 ได้สร้างเวอร์ชันใหม่ของแอปเป็นโครงงานฉบับสมบูรณ์ โครงงานได้รับการพัฒนาต่อเนื่องถึงยุคลาล่าสุด',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'นโยบายชุมชนของจักรวาลวรรณกรรม',
     'tos.desc': 'ข้อกำหนดและเงื่อนไขบริการแบบเต็มของจักรวาลวรรณกรรม',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe พัฒนาขึ้นบนโครงการ Open Source และทรัพยากรฟรีหลายรายการ ด้านล่างคุณจะพบรายการของพวกเขา',
     'about.attributionsMatomo': 'การวิเคราะห์ของเราใช้ Matomo ที่เป็นเจ้าภาพเองพร้อมกับข้อมูล IP2Location LITE ที่มีจาก https://lite.ip2location.com',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'เฮนดรี สโคโนวิอานุส',
     'about.hendry': 'เฮนดรีเป็นนักออกแบบที่มีประสบการณ์มากกว่า 15 ปี เขาได้ทำงานในสถานประกอบการตั้งแต่ปี 2010 ลูกค้าของเขาเช่น PERTAMINA, VOA, และกระทรวงการท่องเที่ยวของอินโดนีเซีย เขามีความชำนาญในการออกแบบแบรนด์, โครงร่าง และอินเตอร์เฟซ (UI/UX) เขารู้สึกท้าทายที่จะออกแบบ Literary Universe',
     'about.pavel': 'Web3, Metaverse, AI และเทคโนโลยีที่เกิดขึ้นใหม่ - Pavel สำรวจทุกอย่างเพื่อดูว่ามันสามารถเสริมสร้างจักรวาลวรรณกรรมได้อย่างไร เป็นนักวิจัยแบบหลากหลายมิติที่มีความเข้าใจในหลายสาขาและทำงานในการรวมคุณลักษณะใหม่และน่าตื่นเต้นลงในแพลตฟอร์ม',
-    'about.seba': 'Adam เคยเป็นเกมเมอร์ แต่ตอนนี้เขากำลังเดินทางสู่การเป็นนักพัฒนาเต็มตัว นำความสามารถและความหลงใหลของเขามาใช้กับ Literary Universe'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
