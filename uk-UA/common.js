@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Спеціальна модель ШІ',
     'common.viewAll': 'Переглянути всі',
     'notice.thankYou': 'Дякуємо за вашу підтримку!',
-    'common.dropImageHere': 'Надішліть зображення сюди'
+    'common.dropImageHere': 'Надішліть зображення сюди',
+    'common.legal.publishingAgreement': 'Видавнича угода'
 };
