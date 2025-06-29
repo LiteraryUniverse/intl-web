@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Vlastní model AI',
     'common.viewAll': 'Zobrazit vše',
     'notice.thankYou': 'Děkujeme vám za podporu!',
-    'common.dropImageHere': 'Vložte obrázek sem'
+    'common.dropImageHere': 'Vložte obrázek sem',
+    'common.legal.publishingAgreement': 'Vydavatelská smlouva'
 };
