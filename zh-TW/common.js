@@ -85,12 +85,15 @@ export default {
     'common.legal.community': '社群指南',
     'common.legal.privacy': '隱私政策',
     'common.legal.copyright': '版權協議',
+    'common.legal.cookies': '關於 cookie',
+    'cookies.desc': '本網站使用 Cookie 以確保您在本網站上獲得最佳體驗。',
     'common.legal.versionDisplay': `{type, select,
     tos {服務條款}
-    community {社群守則}
-    privacy {隱私政策}
+    community {社群準則}
+    privacy {隱私權政策}
     copyright {版權協議}
-    publishingAgreement {發佈協議}
+    publishingAgreement {出版協議}
+    cookies {關於 Cookies}
     other {協議}
   } 版本 {version} - {date, date}`,
     'common.legal.newVersionAvailable': '一個新版本 ({newVersion}) 的文件將於 {effectiveAt, date}生效。',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': '自訂 AI 模型',
     'common.viewAll': '檢視全部',
     'notice.thankYou': '感謝您的支持！',
-    'common.dropImageHere': '在此投放圖片'
+    'common.dropImageHere': '在此投放圖片',
+    'common.legal.publishingAgreement': '出版協議'
 };

@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'แนวปฏิบัติของชุมชน',
     'common.legal.privacy': 'นโยบายความเป็นส่วนตัว',
     'common.legal.copyright': 'ข้อตกลงลิขสิทธิ์',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {เงื่อนไขการให้บริการ}
-    community {แนวปฏิบัติของชุมชน}
-    privacy {นโยบายความเป็นส่วนตัว}
-    copyright {ข้อตกลงลิขสิทธิ์}
-    publishingAgreement {ข้อตกลงการเผยแพร่}
-    other {ข้อตกลง}
-  } เวอร์ชัน {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'เวอร์ชันใหม่ ({newVersion}) ของเอกสารนี้จะมีผลบังคับใช้เมื่อวันที่ {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} สงวนลิขสิทธิ์ ข้อความทั้งหมดเป็นของผู้เขียนที่เกี่ยวข้อง',
     'premium.only.title': 'ระดับสมาชิกไม่สูงพอ',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

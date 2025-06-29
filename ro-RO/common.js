@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Ghidurile comunității',
     'common.legal.privacy': 'Politica de confidențialitate',
     'common.legal.copyright': 'Acordul de drepturi de autor',
+    'common.legal.cookies': 'Despre cookie-uri',
+    'cookies.desc': 'Acest site utilizează module cookie pentru a vă asigura că beneficiați de cea mai bună experiență pe site-ul nostru.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Termeni și condiții}
-    community {Ghiduri comunitare}
+    tos {Termeni de utilizare}
+    community {Ghidul comunității}
     privacy {Politica de confidențialitate}
-    copyright {Acord de drepturi de autor}
-    publishingAgreement {Acord de publicare}
+    copyright {Acordul privind drepturile de autor}
+    publishingAgreement {Acordul de publicare}
+    cookies {Despre cookie-uri}
     other {Acord}
   } Versiunea {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'O nouă versiune ({newVersion}) a acestui document va intra în vigoare pe {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Model AI personalizat',
     'common.viewAll': 'Vezi toate',
     'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!',
-    'common.dropImageHere': 'Aruncați o imagine aici'
+    'common.dropImageHere': 'Aruncați o imagine aici',
+    'common.legal.publishingAgreement': 'Acord de publicare'
 };

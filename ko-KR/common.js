@@ -85,14 +85,17 @@ export default {
     'common.legal.community': '커뮤니티 가이드라인',
     'common.legal.privacy': '개인정보 처리방침',
     'common.legal.copyright': '저작권 계약',
+    'common.legal.cookies': '쿠키 정보',
+    'cookies.desc': '이 웹사이트는 쿠키를 사용하여 사용자가 웹사이트에서 최상의 경험을 할 수 있도록 합니다.',
     'common.legal.versionDisplay': `{type, select,
-    tos {이용 약관}
-    community {커뮤니티 지침}
-    privacy {개인 정보 보호 정책}
+    tos {서비스 약관}
+    community {커뮤니티 가이드라인}
+    privacy {개인정보처리방침}
     copyright {저작권 계약}
     publishingAgreement {게시 계약}
-    other {계약}
-  } 버전 {version} - {date, date}`,
+    cookies {쿠키 정보}
+    other {계약서}
+  } 버전 {version} ~ {date, date}`,
     'common.legal.newVersionAvailable': '이 문서의 새 버전 ({newVersion})이 {effectiveAt, date}에 적용될 것입니다.',
     'common.legal.disclaimer': '© {year} 판권 소유, 모든 텍스트는 해당 저자의 소유입니다.',
     'premium.only.title': '멤버십 등급이 충분히 높지 않음',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': '맞춤형 AI 모델',
     'common.viewAll': '모두 보기',
     'notice.thankYou': '여러분의 성원에 감사드립니다!',
-    'common.dropImageHere': '여기에 이미지 드롭'
+    'common.dropImageHere': '여기에 이미지 드롭',
+    'common.legal.publishingAgreement': '게시 계약'
 };

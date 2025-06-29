@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Gemeenskapsriglyne',
     'common.legal.privacy': 'Privaatheidsbeleid',
     'common.legal.copyright': 'Kopiereg ooreenkoms',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Diensvoorwaardes}
-    community {Gemeenskapsriglyne}
-    privacy {Privaatheidsbeleid}
-    copyright {Kopieregsooreenkoms}
-    publishingAgreement {Publikasie-ooreenkoms}
-    other {Ooreenkoms}
-  } Weergawe {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': '\'n Nuwe weergawe ({newVersion}) van hierdie dokument sal in werking tree op {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Alle regte voorbehou, alle tekste behoort aan hul onderskeie outeurs.',
     'premium.only.title': 'Nie hoë genoeg litmaatskap',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

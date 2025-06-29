@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Yhteisön ohjeet',
     'common.legal.privacy': 'Tietosuojakäytäntö',
     'common.legal.copyright': 'Tekijänoikeussopimus',
+    'common.legal.cookies': 'Tietoa evästeistä',
+    'cookies.desc': 'Tämä verkkosivusto käyttää evästeitä, jotta saat parhaan mahdollisen käyttökokemuksen verkkosivustollamme.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Käyttöehdot}
-    community {Yhteisösäännöt}
-    privacy {Tietosuojakäytäntö}
+    tos {Palveluehdot}
+    community {Yhteisön ohjeet}
+    privacy {Yksityisyydensuoja}
     copyright {Tekijänoikeussopimus}
     publishingAgreement {Julkaisusopimus}
+    cookies {Evästeistä}
     other {Sopimus}
   } Versio {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Tämän asiakirjan uusi versio ({newVersion}) tulee voimaan {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Mukautettu tekoälymalli',
     'common.viewAll': 'Näytä kaikki',
     'notice.thankYou': 'Kiitos tuestanne!',
-    'common.dropImageHere': 'Pudota kuva tähän'
+    'common.dropImageHere': 'Pudota kuva tähän',
+    'common.legal.publishingAgreement': 'Kustannussopimus'
 };

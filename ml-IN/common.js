@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'സമൂഹ മാർഗ്ഗീകരണ വഴികൾ',
     'common.legal.privacy': 'സ്വകാര്യതാ നയം',
     'common.legal.copyright': 'പകർപ്പവകാശ ഒപ്പം അനുമതി',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {സേവനത്തിന്റെ നിബന്ധനകൾ}
-    community {സമൂഹത്തിന്റെ മാർഗദർശനങ്ങൾ}
-    privacy {സ്വകാര്യതാ നയം}
-    copyright {പകർപ്പവകാശ മാന്യത}
-    publishingAgreement {പ്രസിദ്ധീകരണ മാന്യത}
-    other {ഒപ്പംഗം}
-  } പതിപ്പ് {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'ഈ ഡോക്യുമെന്റിന്റെ പുതിയ പതിപ്പ് ({newVersion}) {effectiveAt, date}ന് പ്രവർത്തിപ്പിക്കും.',
     'common.legal.disclaimer': '© {year} എല്ലാ അധികൃതങ്ങളുടെയും എല്ലാ വാചകങ്ങളുടെയും അവലംബിച്ച് സർവ്വകലാശാലകൾക്കും അനുവദനീയമാണ്.',
     'premium.only.title': 'പെരുവഴിയിലെ അംഗത്വ റാങ്ക് പെരുവഴിയിലല്ലെങ്കിൽ ഉയർന്നതല്ല',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

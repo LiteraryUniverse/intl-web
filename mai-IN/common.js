@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'सामुदायिक दिशानिर्देश',
     'common.legal.privacy': 'गोपनीयता नीति',
     'common.legal.copyright': 'कपिराइट समझौता',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {सेवा की शर्तें}
-    community {समुदाय दिशानिर्देश}
-    privacy {गोपनीयता नीति}
-    copyright {कॉपीराइट समझौता}
-    publishingAgreement {प्रकाशन समझौता}
-    other {समझौता}
-  } संस्करण {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'यस कागजको एक नयाँ संस्करण ({newVersion}) {effectiveAt, date}मा प्रभावित हुनेछ।',
     'common.legal.disclaimer': '© {year} सर्वाधिकार सुरक्षित छ, सबै पाठहरू आफ्ना निर्माताहरूको हुन्।',
     'premium.only.title': 'पर्याप्त उच्च सदस्यता श्रेणी छैन',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

@@ -85,13 +85,16 @@ export default {
     'common.legal.community': 'Topluluk Kuralları',
     'common.legal.privacy': 'Gizlilik Politikası',
     'common.legal.copyright': 'Telif Hakkı Anlaşması',
+    'common.legal.cookies': 'Çerezler hakkında',
+    'cookies.desc': 'Bu web sitesi, web sitemizde en iyi deneyimi yaşamanızı sağlamak için çerezleri kullanır.',
     'common.legal.versionDisplay': `{type, select,
     tos {Hizmet Şartları}
     community {Topluluk Kuralları}
     privacy {Gizlilik Politikası}
-    copyright {Telif Hakkı Anlaşması}
-    publishingAgreement {Yayınlama Anlaşması}
-    other {Anlaşma}
+    copyright {Telif Hakkı Sözleşmesi}
+    publishingAgreement {Yayıncılık Sözleşmesi}
+    cookies {Çerezler Hakkında}
+    other {Sözleşme}
   } Sürüm {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Bu belgenin yeni bir sürümü ({newVersion}) {effectiveAt, date}tarihinde yürürlüğe girecektir.',
     'common.legal.disclaimer': '© {year} Tüm hakları saklıdır, tüm metinler ilgili yazarlara aittir.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Özel yapay zeka modeli',
     'common.viewAll': 'Tümünü Görüntüle',
     'notice.thankYou': 'Desteğiniz için teşekkür ederiz!',
-    'common.dropImageHere': 'Buraya bir resim bırakın'
+    'common.dropImageHere': 'Buraya bir resim bırakın',
+    'common.legal.publishingAgreement': 'Yayıncılık Sözleşmesi'
 };

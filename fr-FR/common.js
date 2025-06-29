@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Directives Communautaires',
     'common.legal.privacy': 'Politique de Confidentialité',
     'common.legal.copyright': 'Accord sur les droit d\'auteur',
+    'common.legal.cookies': 'À propos des cookies',
+    'cookies.desc': 'Ce site web utilise des cookies pour vous garantir une expérience optimale.',
     'common.legal.versionDisplay': `{type, select,
     tos {Conditions d'utilisation}
-    community {Directives de la communauté}
+    community {Directives communautaires}
     privacy {Politique de confidentialité}
-    copyright {Accord de droits d'auteur}
+    copyright {Accord sur les droits d'auteur}
     publishingAgreement {Accord de publication}
+    cookies {A propos des cookies}
     other {Accord}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Une nouvelle version ({newVersion}) de ce document entrera en vigueur le {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Modèle d\'IA personnalisé',
     'common.viewAll': 'Voir tout',
     'notice.thankYou': 'Merci pour votre soutien !',
-    'common.dropImageHere': 'Déposez une image ici'
+    'common.dropImageHere': 'Déposez une image ici',
+    'common.legal.publishingAgreement': 'Accord de publication'
 };

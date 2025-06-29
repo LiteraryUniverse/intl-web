@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Mga Alituntunin ng Komunidad',
     'common.legal.privacy': 'Patakaran sa Pagkapribado',
     'common.legal.copyright': 'Kasunduan sa Karapatang-Sipi',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Mga Tuntunin ng Serbisyo}
-    community {Mga Alituntunin ng Komunidad}
-    privacy {Patakaran sa Pagkapribado}
-    copyright {Kasunduan sa Karapatang-Sipi}
-    publishingAgreement {Kasunduan sa Paglilimbag}
-    other {Kasunduan}
-  } Bersyon {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Isang bagong bersyon ({newVersion}) ng dokumentong ito ay magiging epektibo sa {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Lahat ng karapatan ay nakalaan, lahat ng teksto ay pag-aari ng kanilang mga may-akda.',
     'premium.only.title': 'Hindi sapat na antas ng pagiging miyembro',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Technologijų direktorius',
     'about.jan': 'Janas yra Literatūros Visatos įkūrėjas, vizionierius ir technologinis genijus. Kaip rašytojas su platiomis literatūros visatomis, Janui dažnai buvo sunku rašyti istorijas taip, kad būtų pasiektas techninis tikslumas kartu su skaitytumo išlaikymu ir nesutrikdytų skaitytojo patirties. Šis iššūkis jį paskatino studijuoti interneto vystymą, siekiant sukurti programinę įrangą, kuri palengvina istorijų rašymo procesą didelėse visatose.',
     'about.history.text': '2010 metais Janas pradėjo studijuoti Rochesteryje Esancios Technologijos Institutą, siekdamas giliau išmokti tinklapio kūrimą su tikslu sukurti kūrybinės rašymo platformos. Ši vizija įgavo formą 2013 metais, kai pirmas koncepcijos įrodymas buvo pristatytas Imagine RIT renginyje. Janas tęsė savo studijas ir 2016 metais sukūrė naują programos versiją kaip jo magistro baigiamąjį darbą. Projektas toliau plėtėsi per 2016 m. ruduo, galiausiai virstant į platformą, kurią matote šiandien.',
-    'copyrights.desc': 'Pilnas Literatūrinės Visatos autorių teisių sutarties tekstas.',
+    'copyrights.desc': 'Informacija apie autorių teises "Literary Universe".',
     'privacy.desc': 'Pilnas teisinis Literatūrinės Visatos privatumo politikos tekstas.',
     'guidelines.desc': 'Literary Universe bendruomenės gairės.',
     'tos.desc': 'Pilnas teisinių sąlygų tekstas dėl Literary Universe paslaugų.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe remiasi daugelio atviro kodo projektų ir nemokamų išteklių pagrindu. Žemiau rasite jų sąrašą.',
     'about.attributionsMatomo': 'Mūsų analitika naudoja patalpintą Matomo su IP2Location LITE duomenimis, kurie yra prieinami adresu https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry yra dizaineris su daugiau nei 15 metų patirtimi. Jis dirbo agentūroje nuo 2010 metų, jo klientai tokie kaip PERTAMINA, VOA ir Indonezijos turizmo ministerija. Turintis patirties kuriant prekės ženklus, maketus ir taip pat UI/UX, jis jaučia iššūkį kurti Literatūrinį Visatą.',
     'about.pavel': 'Web3, Metaverse, dirbtinis intelektas ir visos naujai atsirandančios technologijos - Pavelis tyrinėja tai viską, kad pamatytų, kaip tai gali praturtinti Literatūros Visatą. Kaip tikras daugiadisciplinis tyrėjas, Pavelis turi įžvalgų į daugelį sričių ir dirba siekdamas integravimo naujų ir įdomių funkcijų į platformą.',
-    'about.seba': 'Buvęs žaidėjas, Adamas dabar eina visiško programuotojo keliu, taikydamas savo įgūdžius ir aistrą Literatiniam Visatą.'
+    'copyrights.about': '"Literary Universe" labai rimtai žiūri į autorių teises. Visas naudotojų skelbiamas turinys yra jų nuosavybė ir prieinamas pagal nurodytą licenciją. Be viso Creative Commons licencijų rinkinio, Literary Universe taip pat siūlo 2 komercines licencijas: išskirtinę ir neišskirtinę.',
+    'copyrights.nonExclusiveLicense': '"Literary Universe" neišimtinė licencija leidžia jums publikuoti "Literary Universe" neatsisakant jokių savo, kaip autorių teisių turėtojo, teisių. Galite laisvai publikuoti bet kur kitur. Literary Universe pasilieka teisę naudoti jūsų intelektinę nuosavybę tik rinkodaros tikslais. Jei nuspręsite parduoti savo intelektinę nuosavybę "Literary Universe", platforma ims 30 % platformos mokestį.',
+    'copyrights.exclusiveLicense': 'Išskirtinė "Literary Universe" licencija leidžia jums publikuoti tik "Literary Universe". Tai reiškia, kad negalite skelbti savo intelektinės nuosavybės kitose internetinėse platformose ar kitur už "Literary Universe" ribų. Jei norite publikuoti fizinę laikmeną, pavyzdžiui, knygą, turite prašyti leidimo. Jei "Literary Universe" neatsako per 30 dienų, tai yra automatinis sutikimas. Ateityje tikimės pasiūlyti jums fizinės leidybos ir kitas paslaugas per mūsų partnerius. Nebijokite su mumis susisiekti, mes linkime jums sėkmės ir daugeliu atvejų tiesiog saugomės nesąžiningų įmonių. Vis dėlto tai riboja, todėl kaip padėka platformos mokestis yra tik 10 %.',
+    'copyrights.licensesAreImportant': 'Licencijos pasirinkimas yra labai svarbus ir daro įtaką tam, kaip jūsų darbas bus prieinamas ateityje. Kad būtų paprasčiau pasirinkti, galite peržiūrėti mūsų licencijų pasirinkimo įrankį.'
 };

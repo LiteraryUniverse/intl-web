@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'जन लिटररी यूनिवर्सको संस्थापक, दार्शनिक, र प्रवृत्तिमा आधारिता रहेका छन्। बढी सम्पूर्ण साहित्यिक बिश्वका लेखकको रूपमा, जनले धेरै समयसम्म विचारशीलता लाग्ने कथाहरू लेख्न खोजेका छन्, जहाँ पठने अनुभवलाई बिकल्प नगरी तकनिकी निखोजले गरी लेखनको प्रक्रियालाई सरल गर्ने नतिजा निस्किएको छ। यो चुनौतीले उनलाई वेब विकासमा अध्ययन गर्ने लागे, धेरै विकास तथा नियोजन्मा छन्।',
     'about.history.text': '2010 मा, ज्यानले वेब विकासको ज्ञान गहन गर्नका लागि रोचेस्टर इन्स्टिट्यूट अफ टेक्नोलोजीमा अध्ययन शुरु गरे, र एक सृजनात्मक लेखन प्लेटफर्म निर्माण गर्नेका उद्देश्यले। यो दृष्टि 2013 मा आयो जब प्रमाणित सिद्धान्तलाई भव्य आर.आई.टि. कोत्सन्याय निर्देशित छ। ज्यानले अध्ययन जारी राखे, र 2016 मा, अनुसन्धान प्रोजेक्टको रूपमा एउटा नयाँ संस्करण सिर्जना भयो, जुन आजको रूपमा तपाईं देख्नुहुन्छ।',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'साहित्यिक विश्वविद्यालय के समुदाय दिशा-निर्देश।',
     'tos.desc': 'साहित्यिक विश्वविद्यालय की सेवा की पूरी कानूनी पाठ।',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'साहित्यिक विश्व सबैभन्दा बढी खुला स्रोतका परियोजनाहरू र निःशुल्क स्रोतहरूमा आधारित छ। तल तपाईं तिनको सूची पाउनुहुनेछ।',
     'about.attributionsMatomo': 'हाम्रो विश्लेषणहरूमा आफ्नो होस्ट गरिएको Matomo र IP2Location LITE डाटा प्रयोग गर्छ। यसको डाटा https://lite.ip2location.com बाट उपलब्ध छ।',
     'team.name.pjakubec': 'पावेल जाकुबेक',
-    'team.name.asebesta': 'आदम शेबेस्टा',
     'about.developer': 'डेवलपर',
     'about.seniorDeveloper': 'वरिष्ठ डेवलपर',
     'about.juniorDeveloper': 'जूनियर डेवलपर',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'हेंड्री स्कोनोवियानस',
     'about.hendry': 'हेंड्री एक डिजाइनर है जिसके पास 15 से अधिक वर्षों का अनुभव है। वह 2010 से एजेंसी में काम कर रहा है, उनके ग्राहकों में पर्तामिना, वीओए, और इंडोनेशिया पर्यटन मंत्रालय शामिल हैं। ब्रांडिंग, लेआउट और यूआई / यूएक्स में अनुभवी होने के साथ-साथ, वह साहित्यिक यूनिवर्स का डिजाइन करने में चुनौती महसूस करता है।',
     'about.pavel': 'Web3, Metaverse, AI र नयाँ उद्भव गर्ने कुनै प्रवृत्ति- पावेल लिटररी यूनिवर्समा सबैलाई रमाउँदैछ। एक सच्चै बहु-विषय-शोधकर्ता रूपमा, पावेललाई धेरै क्षेत्रका बारेमा ज्ञान छ र नयाँ र रोचक सुविधाहरूलाई प्लेटफर्ममा समावेश गर्न प्रयास गर्छ।',
-    'about.seba': 'पहिले गेमरहरूमा थिए, अब आदम पूर्ण रूपमा डेभलपर बन्ने मार्गमा छन्, त्यसले साहित्यिक विश्वमा आफ्नो कौशल र आकर्षण लागू गर्दैछ।'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };

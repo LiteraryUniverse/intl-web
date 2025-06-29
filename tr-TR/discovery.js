@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Bu içerik yapay zeka yardımıyla oluşturulmuştur',
     'discovery.aiContent.indicator.model': 'AI Modeli: {model}',
     'discovery.recommendations.storiesTitle': 'Önerilen hikayeler',
-    'discovery.recommendations.recommendationsExplained': 'Önerilen evrenler',
+    'discovery.recommendations.recommendationsExplained': 'Bu hikayeler öneri motorumuza göre önerilmektedir. Bu da sizin için hikayeler önermek için makine öğrenimini kullanır.',
     'discovery.recommendations.recommendationsSettings': 'Bunu ayarlarınızdan devre dışı bırakabilirsiniz.'
 };

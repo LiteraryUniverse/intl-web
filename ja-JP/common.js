@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'コミュニティ・ガイドライン',
     'common.legal.privacy': 'プライバシーポリシー',
     'common.legal.copyright': '著作権規約',
+    'common.legal.cookies': 'クッキーについて',
+    'cookies.desc': 'このウェブサイトでは、お客様に最高のエクスペリエンスを提供するためにクッキーを使用しています。',
     'common.legal.versionDisplay': `{type, select,
     tos {利用規約}
     community {コミュニティガイドライン}
     privacy {プライバシーポリシー}
-    copyright {著作権契約}
+    copyright {著作権について}
     publishingAgreement {出版契約}
-    other {契約}
-  } バージョン {version} - {date, date}`,
+    cookies {クッキーについて}
+    other {同意書}
+  } バージョン {version} ~ {date, date}。`,
     'common.legal.newVersionAvailable': 'この文書の新バージョン（{newVersion}）は、{effectiveAt, date}に有効になります。',
     'common.legal.disclaimer': '© {year} すべての文章の著作権は、それぞれの著者に帰属します。',
     'premium.only.title': '会員ランクが十分ではありません',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'カスタムAIモデル',
     'common.viewAll': '全てを見る',
     'notice.thankYou': 'ご声援ありがとうございました！',
-    'common.dropImageHere': 'ここに画像をドロップする'
+    'common.dropImageHere': 'ここに画像をドロップする',
+    'common.legal.publishingAgreement': '出版契約'
 };

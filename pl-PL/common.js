@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Wytyczne dla społeczności',
     'common.legal.privacy': 'Polityka prywatności',
     'common.legal.copyright': 'Umowa o prawie autorskim',
+    'common.legal.cookies': 'Informacje o plikach cookie',
+    'cookies.desc': 'Ta strona internetowa wykorzystuje pliki cookie, aby zapewnić Państwu jak najlepsze korzystanie z niej.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Regulamin}
-    community {Wytyczne społeczności}
-    privacy {Polityka prywatności}
-    copyright {Umowa o prawach autorskich}
-    publishingAgreement {Umowa publikacyjna}
-    other {Umowa}
-  } Wersja {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nowa wersja ({newVersion}) niniejszego dokumentu wejdzie w życie w dniu {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Wszelkie prawa zastrzeżone, wszystkie teksty są własnością ich autorów.',
     'premium.only.title': 'Niewystarczająco wysoka ranga członkowska',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Niestandardowy model sztucznej inteligencji',
     'common.viewAll': 'Proszę zobaczyć wszystkie',
     'notice.thankYou': 'Dziękujemy za Państwa wsparcie!',
-    'common.dropImageHere': 'Proszę wrzucić zdjęcie tutaj'
+    'common.dropImageHere': 'Proszę wrzucić zdjęcie tutaj',
+    'common.legal.publishingAgreement': 'Umowa wydawnicza'
 };

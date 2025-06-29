@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'تم إنشاء هذا المحتوى بمساعدة الذكاء الاصطناعي',
     'discovery.aiContent.indicator.model': 'نموذج الذكاء الاصطناعي: {model}',
     'discovery.recommendations.storiesTitle': 'القصص الموصى بها',
-    'discovery.recommendations.recommendationsExplained': 'الأكوان الموصى بها',
+    'discovery.recommendations.recommendationsExplained': 'يتم التوصية بهذه القصص بناءً على محرك التوصيات الخاص بنا. الذي يستخدم التعلم الآلي للتوصية بقصص لك.',
     'discovery.recommendations.recommendationsSettings': 'يمكنك تعطيل ذلك في إعداداتك.'
 };

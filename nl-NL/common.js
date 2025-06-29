@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Community Richtlijnen',
     'common.legal.privacy': 'Privacybeleid',
     'common.legal.copyright': 'Auteursrecht Overeenkomst',
+    'common.legal.cookies': 'Over cookies',
+    'cookies.desc': 'Deze website maakt gebruik van cookies om ervoor te zorgen dat u de beste ervaring op onze website krijgt.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Algemene Voorwaarden}
-    community {Community Richtlijnen}
+    tos {Servicevoorwaarden}
+    community {Richtlijnen voor de gemeenschap}
     privacy {Privacybeleid}
-    copyright {Auteursrecht Overeenkomst}
-    publishingAgreement {Publicatie Overeenkomst}
+    copyright {Auteursrechtovereenkomst}
+    publishingAgreement {Uitgeversovereenkomst}
+    cookies {Over cookies}
     other {Overeenkomst}
   } Versie {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Een nieuwe versie ({newVersion}) van dit document zal van kracht worden op {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Aangepast AI-model',
     'common.viewAll': 'Alles bekijken',
     'notice.thankYou': 'Hartelijk dank voor uw steun!',
-    'common.dropImageHere': 'Drop hier een afbeelding'
+    'common.dropImageHere': 'Drop hier een afbeelding',
+    'common.legal.publishingAgreement': 'Uitgaveovereenkomst'
 };

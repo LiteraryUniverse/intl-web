@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Ĉefteknologia Oficisto',
     'about.jan': 'Jan estas la fondinto, viziono, kaj teknologia mensaĵo malantaŭ Literatura Universo. Kiel verkisto de vastaj literaturaj universoj, Jan ofte batalis verkigi rakontojn tiamaniere, ke kongruu teknika precizeco kun legebleco, sen kompromisi la legantan spertojn. Tiu ĉi defio kondukis lin al studado de reta programado, kun la celo krei aplikaĵon, kiu simpligas la proceson de verkado de rakontoj en grandaj universoj.',
     'about.history.text': 'En 2010, Jan komencis siajn studojn ĉe la Rochester Institute of Technology por plifortigi sian scion pri reta disvolviĝo, kun la celo krei kreadoran platformon por verkado. Tiu vizio prenis formon en 2013 kiam la unua pruvo de koncepto estis prezentita ĉe Imagine RIT. Jan daŭrigis siajn studojn, kaj en 2016, nova versio de la aplikaĵo estis kreita kiel lia Majstroprojekto. La projekto daŭre evoluis dum la aŭtuno de 2016, fine evoluante en la platformo, kiun vi vidas hodiaŭ.',
-    'copyrights.desc': 'La plena teksto de Aŭtoraj Rajtoj de Literatura Universo.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Plena leĝa teksto de Privateca Politiko de Literatura Universo.',
     'guidelines.desc': 'Komunumaj Direktiloj de Literatura Universo.',
     'tos.desc': 'Plena leĝa teksto de Uzokondiĉoj de Literatura Universo.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literatura Universo baziĝas sur multaj projektoj de Malferma Fonto kaj liberaj rimedoj. Sube vi trovos ilian liston.',
     'about.attributionsMatomo': 'Niaj analizoj uzas memgastigata Matomo kun disponebla IP2Location LITE dateno de https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Programisto',
     'about.seniorDeveloper': 'Ĉefa Programisto',
     'about.juniorDeveloper': 'Juniora Programisto',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry estas dezajnisto kun pli ol 15 jaroj da sperto. Li laboras en agentejo ekde 2010, liaj klientoj inkluzive de PERTAMINA, VOA, kaj Ministerio de Turismo de Indonezio. Li havas sperton en markumado, aranĝo kaj ankaŭ UI/UX kaj sentas sin defiita por dezajni Literaturan Universon.',
     'about.pavel': 'Web3, la Metaverso, KI, kaj ajna aperanta teknologio—Pavel esploras ĉion por vidi kiel ĝi povas plibonigi Literaturan Universon. Kiel vera interdiciplina esploristo, Pavel havas enpensojn en multaj fakoj kaj laboras por enigi novajn kaj interesarajn trajtojn en la platformon.',
-    'about.seba': 'Unufoje ludadanto, Adam nun sekvas la vojon por fariĝi plene ellabora programisto, apliki siajn kapablojn kaj pasion al Literary Universe.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };

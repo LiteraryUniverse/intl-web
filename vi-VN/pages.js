@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Giám đốc Công nghệ',
     'about.jan': 'Jan là người sáng lập, tầm nhìn và tâm trí công nghệ đằng sau Literary Universe. Là một nhà văn của các vũ trụ văn học mở rộng, Jan thường gặp khó khăn khi viết câu chuyện theo cách cân nhắc kỹ thuật với tính dễ đọc, mà không đánh mất trải nghiệm của người đọc. Thách thức này đã dẫn anh ta theo đuổi nghiên cứu về phát triển web, với mục tiêu tạo ra một ứng dụng giúp đơn giản hóa quá trình viết câu chuyện trong các vũ trụ lớn.',
     'about.history.text': 'Vào năm 2010, Jan bắt đầu nghiên cứu tại Viện Công nghệ Rochester để làm sâu thêm kiến thức về phát triển web, với mục tiêu xây dựng một nền tảng viết chuyện sáng tạo. Tầm nhìn này đã hình thành vào năm 2013 khi phiên bản chứng minh đầu tiên được trình bày tại Imagine RIT. Jan tiếp tục học tập và vào năm 2016, một phiên bản mới của ứng dụng được tạo ra như dự án tốt nghiệp Thạc sĩ của anh. Dự án tiếp tục phát triển suốt mùa thu năm 2016, cuối cùng trở thành nền tảng bạn thấy ngày hôm nay.',
-    'copyrights.desc': 'Toàn bộ văn bản của Thỏa thuận Bản quyền Vũ trụ Văn học.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Toàn bộ văn bản pháp lý của Chính sách Bảo mật của Vũ trụ Văn học.',
     'guidelines.desc': 'Hướng dẫn cộng đồng của Vũ trụ Văn học.',
     'tos.desc': 'Toàn bộ văn bản pháp lý của Điều khoản Dịch vụ của Vũ trụ Văn học.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Vũ trụ Văn học được xây dựng trên nền tảng của nhiều dự án mã nguồn mở và tài nguyên miễn phí. Dưới đây là danh sách của chúng.',
     'about.attributionsMatomo': 'Thống kê của chúng tôi sử dụng Matomo tự lưu trữ với dữ liệu IP2Location LITE có sẵn từ https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry là một nhà thiết kế với hơn 15 năm kinh nghiệm. Anh đã làm việc trong một công ty quảng cáo từ năm 2010, với khách hàng như PERTAMINA, VOA và Bộ Du lịch Indonesia. Với kinh nghiệm về thương hiệu, bố cục và cả giao diện người dùng, anh cảm thấy thách thức khi thiết kế Vũ trụ Văn học.',
     'about.pavel': 'Web3, Metaverse, AI và bất kỳ công nghệ mới nổi nào - Pavel khám phá tất cả để xem cách nó có thể nâng cao Literary Universe. Là một nhà nghiên cứu đa ngành thực sự, Pavel có những cái nhìn sâu sắc về nhiều lĩnh vực và làm việc để tích hợp các tính năng mới và thú vị vào nền tảng.',
-    'about.seba': 'Từng là một game thủ, Adam bây giờ đang trên con đường trở thành một nhà phát triển đầy đủ, áp dụng kỹ năng và đam mê của mình vào Vũ trụ Văn học.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };

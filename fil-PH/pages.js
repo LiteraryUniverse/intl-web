@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Hepe ng Opisiyal sa Teknolohiya',
     'about.jan': 'Si Jan ang tagapagtatag, tagapangarap, at teknikal na isip sa likod ng Literary Universe. Bilang isang manunulat ng malawak na mga mundo ng panitikan, madalas na nahihirapan si Jan na magsulat ng mga kuwento na nagtataglay ng teknikal na katumpakan at nababasa nang malinaw, nang hindi binabawasan ang karanasan ng mambabasa. Ang hamong ito ang nagtulak sa kanya na pag-aralan ang web development, na may layuning lumikha ng isang application na nagpapadali sa proseso ng pagsusulat ng mga kuwento sa loob ng malalaking mundo.',
     'about.history.text': 'Noong 2010, nagsimula si Jan ng kanyang pag-aaral sa Rochester Institute of Technology upang lalo pang palalimin ang kanyang kaalaman sa web development, may layuning bumuo ng isang platform para sa malikhain na pagsusulat. Ang pangitain na ito ay nabuo noong 2013 nang ipakilala ang unang proof of concept sa Imagine RIT. Nagpatuloy ang pag-aaral ni Jan, at noong 2016, isang bagong bersyon ng app ang nabuo bilang kanyang Master\'s Capstone Project. Patuloy na nagbago at nag-unlad ang proyekto sa buong taglagas ng 2016, hanggang sa ito ay maging platform na nakikita mo ngayon.',
-    'copyrights.desc': 'Ang buong teksto ng Kasunduan sa Karapatan sa Copyright ng Literary Universe.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Buong legal na teksto ng Patakaran sa Privacy ng Literary Universe.',
     'guidelines.desc': 'Mga Alituntunin ng Komunidad ng Literary Universe.',
     'tos.desc': 'Buong legal na teksto ng Tuntunin ng Serbisyo ng Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Ang Literary Universe ay nagtatayo sa ibabaw ng maraming mga proyektong Open Source at mga libreng mapagkukunan. Sa ibaba ay makikita mo ang kanilang listahan.',
     'about.attributionsMatomo': 'Ang aming analytics ay gumagamit ng self-hosted na Matomo na may IP2Location LITE na mga datos na available mula sa https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Si Hendry ay isang tagapagdisenyo na may mahigit na 15 taong karanasan. Nagtrabaho siya sa isang ahensya mula pa noong 2010, ang kanyang mga kliyente ay kinabibilangan ng PERTAMINA, VOA, at Kagawaran ng Turismo ng Indonesia. May karanasan siya sa Branding, layout at UI/UX at siya ay nahamon sa pagdidisenyo ng Literary Universe.',
     'about.pavel': 'Web3, ang Metaverse, AI, at anumang lumalabas na teknolohiya—sinisiyasat ni Pavel ang lahat ng ito upang makita kung paano maaaring mapabuti ang Literary Universe. Bilang isang tunay na multidisciplinary researcher, may kaalaman si Pavel sa maraming larangan at nagtatrabaho sa pag-integrate ng mga bagong at kahanga-hangang mga tampok sa platform.',
-    'about.seba': 'Noong una, isang manlalaro si Adam, ngunit ngayon ay nasa landas na patungo sa pagiging isang ganap na developer, isinasa-alang-alang ang kanyang mga kasanayan at pagsisikap para sa Literary Universe.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };

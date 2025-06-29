@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Šis turinys buvo sukurtas naudojant dirbtinę intelektinę dirbtinę',
     'discovery.aiContent.indicator.model': 'AI modelis: {model}',
     'discovery.recommendations.storiesTitle': 'Rekomenduojamos istorijos',
-    'discovery.recommendations.recommendationsExplained': 'Rekomenduojamos visatos',
-    'discovery.recommendations.recommendationsSettings': 'Šią funkciją galite išjungti nustatymuose.'
+    'discovery.recommendations.recommendationsExplained': 'Šios istorijos rekomenduojamos remiantis mūsų rekomendacijų sistema. Ji naudoja mašininį mokymąsi, kad rekomenduotų jums istorijas.',
+    'discovery.recommendations.recommendationsSettings': 'Šią funkciją galite išjungti savo nustatymuose.'
 };

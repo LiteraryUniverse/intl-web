@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Правила спільноти',
     'common.legal.privacy': 'Політика конфіденційності',
     'common.legal.copyright': 'Угода про авторські права',
+    'common.legal.cookies': 'Про файли cookie',
+    'cookies.desc': 'Цей сайт використовує файли cookie, щоб забезпечити вам найкращий досвід роботи на нашому сайті.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Умови використання}
-    community {Правила спільноти}
+    tos {Умови надання послуг}
+    community {Керівництво спільноти}
     privacy {Політика конфіденційності}
-    copyright {Угода про авторські права}
+    copyright {Угода про авторське право}
     publishingAgreement {Видавнича угода}
+    cookies {Про файли cookie}
     other {Угода}
   } Версія {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Нова версія ({newVersion}) цього документа набуде чинності {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Спеціальна модель ШІ',
     'common.viewAll': 'Переглянути всі',
     'notice.thankYou': 'Дякуємо за вашу підтримку!',
-    'common.dropImageHere': 'Надішліть зображення сюди'
+    'common.dropImageHere': 'Надішліть зображення сюди',
+    'common.legal.publishingAgreement': 'Видавнича угода'
 };

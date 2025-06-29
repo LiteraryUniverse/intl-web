@@ -48,7 +48,7 @@ export default {
     'about.CTO': '最高技術責任者',
     'about.jan': 'JanはLiterary Universeの創設者であり、ビジョナリーであり、技術的な才能です。広範な文学的な宇宙の作者として、Janはしばしば技術的な正確さと読みやすさを両立させる方法に苦しんできましたが、読者の体験を損なうことなく物語を書くプロセスを簡素化するアプリケーションを作成することを目指してウェブ開発の研究に取り組んできました。',
     'about.history.text': '2010年にロチェスター工科大学に入学したヤンは、ウェブ開発の知識を深めるために学び始め、クリエイティブライティングプラットフォームの構築を目指しました。このビジョンは2013年に実証の最初の段階がImagine RITで発表されたことで具現化しました。ヤンは学業を続け、2016年には修士課程のキャップストーン・プロジェクトとしてアプリの新バージョンを作成しました。このプロジェクトは2016年秋にも進化を続け、現在お使いいただいているプラットフォームへと発展しました。',
-    'copyrights.desc': 'Literary Universeの著作権使用許諾契約書の全文を掲載しています。',
+    'copyrights.desc': 'Literary Universeの著作権に関する情報。',
     'privacy.desc': 'Literary Universeのプライバシーポリシーの法的文書全文です。',
     'guidelines.desc': 'Lieterary Universeのコミュニティ・ガイドラインです。',
     'tos.desc': 'Lieterary Universeの利用規約の法的文書全文を掲載しています。',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universeは、多くのオープンソース・プロジェクトやフリー・リソース上に構築されています。以下にそのリストを掲載しました。',
     'about.attributionsMatomo': '当社の分析には、https://lite.ip2location.com から入手可能なIP2Location LITEデータを使用したセルフホスティングのMatomoを使用しています。',
     'team.name.pjakubec': 'パブル・ジャクベク',
-    'team.name.asebesta': 'アダム・セベスタ',
     'about.developer': '開発者',
     'about.seniorDeveloper': 'シニア開発者',
     'about.juniorDeveloper': 'ジュニア開発者',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'ヘンドリー・スコノビアニャス',
     'about.hendry': 'ヘンドリーは15年以上の経験を持つデザイナーです。2010年から代理店に勤務し、PERTAMINA、VOA、インドネシア観光省などのクライアントがいます。ブランディング、レイアウト、UI/UXの経験を持ち、Literary Universeのデザインにやりがいを感じています。',
     'about.pavel': 'Web3、メタバース、AI、そして新興技術- Pavelはそれらすべてを調査し、Literary Universeをどのように向上させるかを見極めます。真の学際的研究者であるPavelは、多くの分野に洞察を持ち、新しい興味深い機能をプラットフォームに統合するために取り組んでいます。',
-    'about.seba': 'ゲーマー出身のアダムは、現在は完全な開発者になる道を歩んでおり、そのスキルと情熱をLiterary Universeに活かしています。'
+    'copyrights.about': 'Literary Universeは著作権を非常に重視しています。ユーザーによって公開されたすべてのコンテンツは、ユーザー自身のものであり、指定されたライセンスの下で利用可能です。クリエイティブ・コモンズ・ライセンスのフルセットの他に、Literary Universeは独占ライセンスと非独占ライセンスの2つの商用ライセンスも提供しています。',
+    'copyrights.nonExclusiveLicense': 'Literary Universe Non-Exclusive Licenseは、著作権者としての権利を一切手放すことなく、Literary Universeで出版できるライセンスです。それ以外の場所での出版は自由です。リテラリーユニバースは、あなたのIPをマーケティング目的で使用する権利のみを留保します。リテラリーユニバースで知的財産を販売する場合、プラットフォームは30％のプラットフォーム手数料を請求します。',
+    'copyrights.exclusiveLicense': 'Literary Universe Exclusive Licenseは、Literary Universeで独占的に出版できるライセンスです。つまり、他のオンラインプラットフォームやリテラリーユニバース以外のものであなたのIPを出版することはできません。本のような物理的な媒体を出版したい場合は、許可を得る必要があります。もしリテラリーユニバースが30日以内に返答しなければ、それは自動的な同意となります。将来的には、パートナーを通じて物理的な出版やその他のサービスを提供したいと考えています。私たちはあなたの成功を願っていますし、ほとんどの場合、私たちは詐欺的な会社に注意しているだけです。また、ほとんどの場合、私たちは詐欺的な企業に目を光らせているだけです。それでも、これは制限的なことなので、感謝の気持ちとして、プラットフォーム手数料は10％のみとさせていただきます。',
+    'copyrights.licensesAreImportant': 'ライセンスの選択は非常に重要であり、あなたの作品が将来どのようにアクセスされるかに影響します。選択を容易にするために、以下のライセンス選択ツールをご覧ください。'
 };

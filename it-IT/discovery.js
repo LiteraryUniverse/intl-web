@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Questo contenuto è stato generato con l\'assistenza dell\'AI',
     'discovery.aiContent.indicator.model': 'Modello AI: {model}',
     'discovery.recommendations.storiesTitle': 'Storie consigliate',
-    'discovery.recommendations.recommendationsExplained': 'Universi consigliati',
-    'discovery.recommendations.recommendationsSettings': 'Può disattivare questa funzione nelle impostazioni.'
+    'discovery.recommendations.recommendationsExplained': 'Queste storie sono consigliate in base al nostro motore di raccomandazioni. Che utilizza l\'apprendimento automatico per raccomandare le storie per lei.',
+    'discovery.recommendations.recommendationsSettings': 'Può disattivare questa funzione nelle Sue impostazioni.'
 };

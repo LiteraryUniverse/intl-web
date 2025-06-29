@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Közösségi irányelvek',
     'common.legal.privacy': 'Adatvédelmi irányelvek',
     'common.legal.copyright': 'Szerzői jogi megállapodás',
+    'common.legal.cookies': 'A sütikről',
+    'cookies.desc': 'Ez a weboldal sütiket használ, hogy a lehető legjobb élményt nyújtsa Önnek a weboldalon.',
     'common.legal.versionDisplay': `{type, select,
     tos {Felhasználási feltételek}
     community {Közösségi irányelvek}
     privacy {Adatvédelmi irányelvek}
     copyright {Szerzői jogi megállapodás}
-    publishingAgreement {Közzétételi megállapodás}
+    publishingAgreement {Kiadói megállapodás}
+    cookies {A sütikről}
     other {Megállapodás}
   } Verzió {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Egy új verzió ({newVersion}) ennek a dokumentumnak hatályba lép {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Egyedi AI modell',
     'common.viewAll': 'Minden megtekintése',
     'notice.thankYou': 'Köszönjük a támogatást!',
-    'common.dropImageHere': 'Dobjon ide egy képet'
+    'common.dropImageHere': 'Dobjon ide egy képet',
+    'common.legal.publishingAgreement': 'Kiadói megállapodás'
 };

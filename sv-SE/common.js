@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Communityns riktlinjer',
     'common.legal.privacy': 'Integritetspolicy',
     'common.legal.copyright': 'Upphovsrättsavtal',
+    'common.legal.cookies': 'Om cookies',
+    'cookies.desc': 'Denna webbplats använder cookies för att säkerställa att du får den bästa upplevelsen på vår webbplats.',
     'common.legal.versionDisplay': `{type, select,
     tos {Användarvillkor}
-    community {Riktlinjer för gemenskapen}
-    privacy {Sekretesspolicy}
-    copyright {Upphovsrättsavtal}
+    community {Community Guidelines}
+    privacy {Integritetspolicy}
+    copyright {Copyrightavtal}
     publishingAgreement {Publiceringsavtal}
+    cookies {Om cookies}
     other {Avtal}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'En ny version ({newVersion}) av detta dokument kommer att träda i kraft den {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Anpassad AI-modell',
     'common.viewAll': 'Visa alla',
     'notice.thankYou': 'Tack för ert stöd!',
-    'common.dropImageHere': 'Släpp en bild här'
+    'common.dropImageHere': 'Släpp en bild här',
+    'common.legal.publishingAgreement': 'Avtal om publicering'
 };

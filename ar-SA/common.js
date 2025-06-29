@@ -85,13 +85,16 @@ export default {
     'common.legal.community': 'إرشادات المجتمع',
     'common.legal.privacy': 'سياسة الخصوصية',
     'common.legal.copyright': 'اتفاقية حقوق النشر',
+    'common.legal.cookies': 'حول ملفات تعريف الارتباط',
+    'cookies.desc': 'يستخدم هذا الموقع الإلكتروني ملفات تعريف الارتباط لضمان حصولك على أفضل تجربة على موقعنا الإلكتروني.',
     'common.legal.versionDisplay': `{type, select,
     tos {شروط الخدمة}
-    community {إرشادات المجتمع}
+    community {إرشادات المجتمع ~ ~ إرشادات المجتمع}
     privacy {سياسة الخصوصية}
     copyright {اتفاقية حقوق النشر}
     publishingAgreement {اتفاقية النشر}
-    other {اتفاقية}
+    cookies {حول ملفات تعريف الارتباط}
+    other {الاتفاقية}
   } الإصدار {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'سيتم إصدار نسخة جديدة ({newVersion}) من هذا الوثيقة في {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} جميع الحقوق محفوظة، جميع النصوص تنتمي لأصحابها.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'نموذج ذكاء اصطناعي مخصص',
     'common.viewAll': 'عرض الكل',
     'notice.thankYou': 'شكراً لك على دعمك!',
-    'common.dropImageHere': 'ضع صورة هنا'
+    'common.dropImageHere': 'ضع صورة هنا',
+    'common.legal.publishingAgreement': 'اتفاقية النشر'
 };

@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'របាយការណ៍​សង្គម​សហគ្រាសជំនួយ',
     'common.legal.privacy': 'គោលការណ៍​ភាពឯកជន',
     'common.legal.copyright': 'កិនស្តេចអាក្រក់',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {លោកអ្នកប្រើប្រាស់សេវាកម្ម}
-    community {របាយការណ៍សង្គមរបស់សហគ្រាសជាតិ}
-    privacy {គោលការណ៍ឯកជន}
-    copyright {កិច្ចព្រមព្រៀងការកែប្រែ}
-    publishingAgreement {កិច្ចព្រមព្រៀងការបោះពុម្ព}
-    other {កិច្ចព្រមព្រៀង}
-  } កំណែ {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'នៅក្នុងការនេះ មានកំណែថ្មី ({newVersion}) នឹងមានសម្រាប់ប្រើប្រាស់តាមរយៈ {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} រក្សាសិទ្ធិ​គ្រប់គ្រង, អត្ថបទ​ទាំងអស់​គឺ​ជា​ក្រុមហ៊ុន​របស់​អ្នក​និពន្ធន័យ។',
     'premium.only.title': 'មិនខ្ពស់បំពេញការចុះបញ្ជីសមាជិក',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

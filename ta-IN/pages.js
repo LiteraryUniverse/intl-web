@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'ஜான் இணைய உலகத்தின் தொடக்கக்காரர், ஆலோசனையாளர் மற்றும் தொழில்நுட்ப நிலையாளரானார். பரமசையமைத்த இலக்கிய உலகுக்குப் பிரிவுபட்ட எழுத்தாளராக இருக்கும் ஜான், பொதுவாக அறியப்பட்ட எழுத்தாளர்கள் அத்துடன் இருப்பதின் மூலம் பழுது புரிந்துகொள்ள முடியவில்லையோ என்பதை அறியும் மேற்கோளான தொழில் வளத்தை அடைவதற்கு இணைய வளமான வழி செலுத்த முயன்றது.',
     'about.history.text': '2010ஆம் ஆண்டு, ஜான் கிரிக்ஸ் தனது வல்லுநரின் அறிவை ஆழுக்காற்ற மற்றும் ஒரு உரிமமாகும் எழுத்தும் அமைப்பை அனுபவிக்க ரோசஸ்டர் தொழில்நுட்ப நிறுவனத்தின் மேலாண்மை பாடத்தினால் தனது படைப்பைத் திரும்பவிட்டார். 2013ஆம் ஆண்டு ஜான் முதன்முதலில் ஒரு நிபந்தனை புரிவேற்றம் எடுத்துக் கொள்வதன் வழியாக நிறுவனத்தை வெளிப்படுத்திவிட்டார். ஜான் படைப்பத்தின் மேம்பாட்டாகத் தொடங்கப்பட்ட இது 2016ஆம் ஆண்டின் மாஸ்டர் படிப்பு இடைத்தரமாக உருவாக்கப்பட்டது. ஆண்டுப் புதிய வடிவமைப்பில் 2016ஆம் ஆண்டில் வளர்ந்துவிட்டது, முடிந்ததும் இன்று காணப்படுகின்ற பிளாட்ஃபார்ம் குறித்த அப்டேட்டிலேயே அது மேம்பாட்டாக உருவாக்கப்பட்டுள்ளது.',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'இலக்கிய உலகம் பல திறன்களுடன் திறன் மூலங்களின் மீது அமைக்கப்பட்டுள்ளது. கீழே அவற்றின் பட்டியல் உள்ளது.',
     'about.attributionsMatomo': 'எங்கள் பயன்பாட்டின் பகுதியில் தன்னை வைப்புள்ள பொதுநிலையான மாற்றங்கள் பயன்படுத்துகின்றன.',
     'team.name.pjakubec': 'பாவேல் ஜகுபெக்',
-    'team.name.asebesta': 'ஆடம் ஷெபெஸ்டா',
     'about.developer': 'மென்பொருள் மேம்பாட்டாளர்',
     'about.seniorDeveloper': 'மேல் மென்பொருள் மேம்பாட்டாளர்',
     'about.juniorDeveloper': 'குறிப்பிட்ட மென்பொருள் மேம்பாட்டாளர்',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
     'about.pavel': 'Web3, மேடாவர்ஸ், AI மற்றும் உலகுத்திரை போன்ற எழுமையான தொழில்நுட்பங்களை பாவேல் அதைப் பயன்படுத்தி இலக்கிய உலகுவாழ் மேல் மேடையை மேம்படுத்த வழிகளை புதுப்பிக்குகின்றார். ஒரு முயற்சிப்பாளராக பாவேல் பல படிவங்களில் அறிமுகம் கொண்டுள்ளார் மற்றும் இன்னும் அற்புதமான அம்சங்களை தளத்தில் சேர்த்துக் கொண்டு வருகின்றார்.',
-    'about.seba': 'ஒரு விளையாட்டுப்பள்ளிப் பிரவிர்த்தி நாளில், ஆடகாரமாக இருக்கும் ஆதம் இப்போது முழுப்பயனாளர் மற்றும் வடிவமைப்பாளராக வளர்ந்துகொள்ளக்கின்றார், எழுத்தாளரின் மேலும் ஆர்வத்தையும் ஆஃப் செய்தியும் இலக்கண உலகத்திற்கு பயன்படுத்துகின்றது.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };

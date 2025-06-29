@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'சமூக வழிகாட்டுகள்',
     'common.legal.privacy': 'தனியுரிமை கொள்கை',
     'common.legal.copyright': 'பதிப்புரிமை ஒப்பந்தம்',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {சேவை விதிமுறைகள்}
-    community {சமூக வழிகாட்டி}
-    privacy {தனியுரிமை கொள்கை}
-    copyright {பதிப்புரிமை ஒப்பந்தம்}
-    publishingAgreement {வெளியிடுதல் ஒப்பந்தம்}
-    other {ஒப்பந்தம்}
-  } பதிப்பு  படி {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'இந்த ஆவணத்தின் புதிய பதிப்பு ({newVersion}) வந்துவிடும் என்று {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} அனைத்து உரையாளர்களுக்கும் உரையாடல்கள் சேர்ந்துள்ளன. அனைத்து உரையாளர்களின் உரையாடல்கள் சேர்க்கப்பட்டுள்ளன.',
     'premium.only.title': 'அதிகமான உறுதிப்படுத்தும் பதவி இல்லை',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

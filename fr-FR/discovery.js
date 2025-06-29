@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Ce contenu a été généré avec l\'aide de l\'IA',
     'discovery.aiContent.indicator.model': 'Modèle AI : {model}',
     'discovery.recommendations.storiesTitle': 'Histoires recommandées',
-    'discovery.recommendations.recommendationsExplained': 'Univers recommandés',
+    'discovery.recommendations.recommendationsExplained': 'Ces histoires sont recommandées sur la base de notre moteur de recommandations. Celui-ci utilise l\'apprentissage automatique pour vous recommander des histoires.',
     'discovery.recommendations.recommendationsSettings': 'Vous pouvez désactiver cette fonction dans vos paramètres.'
 };

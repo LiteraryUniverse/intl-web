@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Dette indhold blev genereret med AI-assistance',
     'discovery.aiContent.indicator.model': 'AI-model: {model}',
     'discovery.recommendations.storiesTitle': 'Anbefalede historier',
-    'discovery.recommendations.recommendationsExplained': 'Anbefalede universer',
+    'discovery.recommendations.recommendationsExplained': 'Disse historier anbefales på baggrund af vores anbefalingsmotor. Den bruger maskinlæring til at anbefale historier til dig.',
     'discovery.recommendations.recommendationsSettings': 'Du kan slå det fra i dine indstillinger.'
 };

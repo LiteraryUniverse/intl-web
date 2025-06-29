@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Directeur Technique',
     'about.jan': 'Jan est le fondateur, le visionnaire et l\'esprit technologique derrière l\'Univers Littéraire. En tant qu\'écrivain d\'univers littéraires vastes, Jan a souvent eu du mal à écrire des histoires d\'une manière équilibrant précision technique et lisibilité, sans compromettre l\'expérience du lecteur. Ce défi l\'a conduit à poursuivre des études en développement web, dans le but de créer une application qui simplifie le processus d\'écriture d\'histoires au sein de vastes univers.',
     'about.history.text': 'En 2010, Jan a commencé ses études à l\'Institut de technologie de Rochester pour approfondir ses connaissances en développement web, dans le but de créer une plateforme d\'écriture créative. Cette vision a pris forme en 2013 lorsque la première preuve de concept a été présentée à Imagine RIT. Jan a poursuivi ses études et, en 2016, une nouvelle version de l\'application a été créée dans le cadre de son projet Capstone du Master. Le projet a continué à évoluer tout au long de l\'automne 2016, pour finalement se développer en la plateforme que vous voyez aujourd\'hui.',
-    'copyrights.desc': 'Le texte intégral de l\'accord sur les droits d\'auteur de l\'Univers Littéraire.',
+    'copyrights.desc': 'Informations sur les droits d\'auteur à l\'Univers littéraire.',
     'privacy.desc': 'Le texte légal complet de la politique de confidentialité de l\'Univers Littéraire.',
     'guidelines.desc': 'Directives Communautaires de l\'Univers Littéraire.',
     'tos.desc': 'Le texte légal complet des Conditions d\'Utilisation de l\'Univers Littéraire.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'L\'Univers Littéraire s\'appuie sur de nombreux projets Open Source et ressources gratuites. Vous trouverez ci-dessous leur liste.',
     'about.attributionsMatomo': 'Nos analyses utilisent Matomo, hébergé par nos soins, avec les données IP2Location LITE disponibles sur https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Développeur',
     'about.seniorDeveloper': 'Développeur Senior',
     'about.juniorDeveloper': 'Développeur Junior',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry est un designer avec plus de 15 ans d\'expérience. Il travaille en agence depuis 2010, avec des clients tels que PERTAMINA, VOA, et le Ministère du Tourisme d\'Indonésie. Expérimenté en Branding, mise en page et aussi UI/UX il se sent défié de concevoir l\'Univers Littéraire.',
     'about.pavel': 'Web3, le Metaverse, l\'IA et toute nouvelle technologie émergente - Pavel explore tout cela pour voir comment cela peut améliorer l\'Univers Littéraire. En tant que véritable chercheur multidisciplinaire, Pavel possède des connaissances dans de nombreux domaines et travaille à intégrer de nouvelles fonctionnalités passionnantes à la plateforme.',
-    'about.seba': 'Autrefois joueur, Adam est maintenant sur la voie de devenir un développeur à part entière, appliquant ses compétences et sa passion à Literary Universe.'
+    'copyrights.about': 'L\'Univers littéraire prend les droits d\'auteur très au sérieux. Tous les contenus publiés par les utilisateurs leur appartiennent et sont disponibles sous la licence spécifiée. Outre l\'ensemble des licences Creative Commons, Literary Universe propose également deux licences commerciales, l\'une exclusive et l\'autre non exclusive.',
+    'copyrights.nonExclusiveLicense': 'La licence non exclusive de l\'Univers littéraire vous permet de publier sur l\'Univers littéraire sans renoncer à aucun de vos droits en tant que détenteur des droits d\'auteur. Vous êtes libre de publier ailleurs. Literary Universe se réserve uniquement le droit d\'utiliser votre propriété intellectuelle à des fins de marketing. Si vous décidez de vendre votre propriété intellectuelle sur Literary Universe, la plateforme vous facturera 30 % de frais de plateforme.',
+    'copyrights.exclusiveLicense': 'La licence exclusive de l\'Univers littéraire vous permet de publier sur l\'Univers littéraire exclusivement. Cela signifie que vous ne pouvez pas publier votre propriété intellectuelle sur d\'autres plateformes en ligne ou sur quoi que ce soit d\'autre en dehors de l\'Univers littéraire. Si vous souhaitez publier un support physique tel qu\'un livre, vous devez en demander l\'autorisation à Literary Universe. Si Literary Universe ne répond pas dans les 30 jours, il s\'agit d\'un consentement automatique. À l\'avenir, nous espérons pouvoir vous proposer des services d\'édition physique et d\'autres services par l\'intermédiaire de nos partenaires. N\'ayez pas peur de nous contacter, nous souhaitons votre succès et dans la plupart des cas, nous ne faisons que surveiller les sociétés frauduleuses. Cela reste néanmoins restrictif, c\'est pourquoi, en guise de remerciement, les frais de plateforme ne s\'élèvent qu\'à 10 %.',
+    'copyrights.licensesAreImportant': 'Le choix d\'une licence est extrêmement important et affecte la manière dont votre travail sera accessible à l\'avenir. Pour faciliter votre choix, vous pouvez consulter notre sélecteur de licence ci-dessous.'
 };

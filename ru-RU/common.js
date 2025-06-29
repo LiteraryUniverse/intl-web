@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Правила сообщества',
     'common.legal.privacy': 'Политика конфиденциальности',
     'common.legal.copyright': 'Соглашение об авторских правах',
+    'common.legal.cookies': 'О печенье',
+    'cookies.desc': 'Этот сайт использует файлы cookie, чтобы обеспечить Вам наилучшие впечатления от использования нашего сайта.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Условия использования}
-    community {Правила сообщества}
+    tos {Условия предоставления услуг}
+    community {Рекомендации сообщества}
     privacy {Политика конфиденциальности}
     copyright {Соглашение об авторских правах}
-    publishingAgreement {Соглашение о правах издателя}
+    publishingAgreement {Соглашение о публикации}
+    cookies {О cookie}
     other {Соглашение}
-  } Версии {version} - {date, date}`,
+  } Версия {version} - {date, date}.`,
     'common.legal.newVersionAvailable': 'Новая версия ({newVersion}) этого документа вступит в силу с {effectiveAt, date}',
     'common.legal.disclaimer': '© {year} Все права защищены, все тексты принадлежат их авторам.',
     'premium.only.title': 'Недостаточно высокий рейтинг участника',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта',
     'common.viewAll': 'Смотреть все',
     'notice.thankYou': 'Спасибо за Вашу поддержку!',
-    'common.dropImageHere': 'Бросьте изображение сюда'
+    'common.dropImageHere': 'Бросьте изображение сюда',
+    'common.legal.publishingAgreement': 'Издательское соглашение'
 };

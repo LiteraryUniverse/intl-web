@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Pedoman Komunitas',
     'common.legal.privacy': 'Kebijakan Privasi',
     'common.legal.copyright': 'Persetujuan Hak Cipta',
+    'common.legal.cookies': 'Tentang cookie',
+    'cookies.desc': 'Situs web ini menggunakan cookie untuk memastikan Anda mendapatkan pengalaman terbaik di situs web kami.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Syarat Layanan}
-    community {Pedoman Komunitas}
+    tos {Ketentuan Layanan}
+    community {Panduan Komunitas}
     privacy {Kebijakan Privasi}
     copyright {Perjanjian Hak Cipta}
     publishingAgreement {Perjanjian Penerbitan}
+    cookies {Tentang Cookie}
     other {Perjanjian}
   } Versi {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Versi baru ({newVersion}) dari dokumen ini akan berlaku pada {effectiveAt, date}.',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Model AI khusus',
     'common.viewAll': 'Lihat Semua',
     'notice.thankYou': 'Terima kasih atas dukungan Anda!',
-    'common.dropImageHere': 'Jatuhkan gambar di sini'
+    'common.dropImageHere': 'Jatuhkan gambar di sini',
+    'common.legal.publishingAgreement': 'Perjanjian Penerbitan'
 };

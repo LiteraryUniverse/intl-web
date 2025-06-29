@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Deze inhoud werd gegenereerd met AI-hulp',
     'discovery.aiContent.indicator.model': 'AI-model: {model}',
     'discovery.recommendations.storiesTitle': 'Aanbevolen verhalen',
-    'discovery.recommendations.recommendationsExplained': 'Aanbevolen universums',
-    'discovery.recommendations.recommendationsSettings': 'U kunt dit uitschakelen in uw instellingen.'
+    'discovery.recommendations.recommendationsExplained': 'Deze verhalen worden aanbevolen op basis van onze aanbevelingenmotor. Deze maakt gebruik van machine learning om u verhalen aan te bevelen.',
+    'discovery.recommendations.recommendationsSettings': 'U kunt dit uitschakelen in Uw instellingen.'
 };

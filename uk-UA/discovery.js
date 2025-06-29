@@ -84,6 +84,6 @@ export default {
     'discovery.aiContent.indicator': 'Цей контент створено за допомогою штучного інтелекту',
     'discovery.aiContent.indicator.model': 'Модель штучного інтелекту: {model}',
     'discovery.recommendations.storiesTitle': 'Рекомендовані історії',
-    'discovery.recommendations.recommendationsExplained': 'Рекомендовані всесвіти',
+    'discovery.recommendations.recommendationsExplained': 'Ці історії рекомендовані на основі нашого механізму рекомендацій. Він використовує машинне навчання, щоб рекомендувати історії для вас.',
     'discovery.recommendations.recommendationsSettings': 'Ви можете вимкнути цю функцію у своїх налаштуваннях.'
 };

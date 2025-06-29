@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Príomhoifigeach Teicneolaíochta',
     'about.jan': 'Jan atá i mbun bunaitheoir, dearctha agus smaointe teicneolaíochta taobh le Litríocht Saolré. Mar scríbhneoir d\'fhéadfadh Jan a chuid saothair a dhéanamh i bhfoirm alfhabhetú teicniúil agus léiteoireacht, gan cur as go tréan ar fhíric an léitheora. D\'fhág an dúshlán seo go ndearna sé staidéar ar fhorbairt gréasáin, le cuspóir a bheith ag cruthú feidhmchláir a shimpliú don phróiseas scríbhneoireachta laistigh de na cruinneacha móra.',
     'about.history.text': 'I 2010, thosaigh Jan lena staidéar ag Institiúid Teicneolaíochta Rochester chun a chuid eolais ar fhorbairt gréasáin a dhéanamh níos doimhne, leis an ambiot a chur ar bun. Ghlac an fhís seo cruth i 2013 nuair a cuireadh an chéad chreidiúnach de chonbhéas ar taispeáint ag Imagine RIT. Lean Jan ar a staidéar, agus i 2016, cruthaíodh leagan nua den aip mar Phríomh-Thionscnamh Máistreachta. Lean an tionscnamh ag dul chun cinn i rith fómhair 2016, ag fás isteach sa phlátform a fheiceann tú inniu.',
-    'copyrights.desc': 'Téacs iomlán Comhaontú Cóipcheart Domhan Liteartha.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Téacs dlíthiúil iomlán Polasaí Príobháideachta Domhan Liteartha.',
     'guidelines.desc': 'Treoracha Pobail Leabharlann Ficsean.',
     'tos.desc': 'Téacs iomlán dlíthiúil Téarmaí Seirbhíse Leabharlann Ficsean.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Tá Literary Universe bunaithe ar réimse leathan de thionscadail Source Oscailte agus acmhainní saor in aisce. Thíos gheobhaidh tú a liosta.',
     'about.attributionsMatomo': 'Úsáideann ár n-anailísí an Matomo le feidhmíocht fhéin-óstáilte agus sonraí IP2Location LITE atá ar fáil ó https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Is dearthóir é Hendry le breis agus 15 bliain taithí. Tá sé ag obair san ghnó ó 2010, agus tá cliant aige cosúil le PERTAMINA, VOA, agus Aireacht turasóireachta na hIndinéise. Tá taithí aige ar Bhreathnú Margaíochta, leagan amach agus freisin UI/UX agus tá sé ag súil le cur i láthair sa Domhan Liteartha a dhearadh a chuireann dúshláin roimhe.',
     'about.pavel': 'Web3, an Metaverse, AI, agus atá idirghabháilte—rannsachann Pavel gach rud chun féachaint ar an mbealach a bhféadann sé an Litríocht Saolré a fheabhsú. Mar taighdeoir il-disciplíneach fíor, tá léargas ag Pavel ar réimse mór réimse agus tá sé ag obair ar gnéithe nua suimiúla a thógáil isteach sa phlátafaim.',
-    'about.seba': 'Bhí Adam ina ghiomróir anois tá sé ar an mbealach chun a bheith ina fhorbróir iomlán, ag cur a scileanna agus a ghrá i bhfeidhm ar Literary Universe.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };

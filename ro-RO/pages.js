@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Director de Tehnologie',
     'about.jan': 'Jan este fondatorul, vizionarul și mintea tehnică din spatele Literary Universe. Ca scriitor al unor universuri literare extinse, Jan a avut adesea dificultăți în a scrie povești într-un mod care să echilibreze precizia tehnică cu ușurința de citire, fără a compromite experiența cititorului. Această provocare l-a determinat să studieze dezvoltarea web, având ca scop crearea unei aplicații care să simplifice procesul de scriere a poveștilor în cadrul unor universuri mari.',
     'about.history.text': 'În 2010, Jan și-a început studiile la Institutul de Tehnologie Rochester pentru a-și aprofunda cunoștințele în domeniul dezvoltării web, cu scopul de a construi o platformă de scriere creativă. Această viziune a prins contur în 2013, când prima dovadă de concept a fost prezentată la Imagine RIT. Jan și-a continuat studiile, iar în 2016, o nouă versiune a aplicației a fost creată ca proiect capstone pentru masteratul său. Proiectul a continuat să evolueze pe parcursul toamnei anului 2016, dezvoltându-se în cele din urmă în platforma pe care o vedeți astăzi.',
-    'copyrights.desc': 'Textul integral al Acordului de Drepturi de Autor al Universului Literar.',
+    'copyrights.desc': 'Informații despre drepturile de autor la Literary Universe.',
     'privacy.desc': 'Textul legal complet al Politicii de Confidențialitate a Universului Literar.',
     'guidelines.desc': 'Ghidurile comunității Literary Universe.',
     'tos.desc': 'Textul legal complet al Termenilor de utilizare ai Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Universul literar se bazează pe mai multe proiecte Open Source și resurse gratuite. Mai jos veți găsi lista lor.',
     'about.attributionsMatomo': 'Analizele noastre utilizează Matomo auto-găzduit cu date IP2Location LITE disponibile de la https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Dezvoltator',
     'about.seniorDeveloper': 'Dezvoltator Senior',
     'about.juniorDeveloper': 'Dezvoltator Junior',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry este un designer cu mai mult de 15 ani de experiență. Lucrează în agenție din 2010, clienții săi fiind PERTAMINA, VOA și Ministerul Turismului din Indonezia. Experimentat în branding, layout și UI/UX, se simte provocat să creeze Literary Universe.',
     'about.pavel': 'Web3, Metaverse, IA și orice tehnologie emergentă - Pavel le explorează pe toate pentru a vedea cum pot îmbunătăți Literary Universe. Ca un cercetător cu adevărat multidisciplinar, Pavel are insights în multe domenii și lucrează la integrarea de funcționalități noi și interesante în platformă.',
-    'about.seba': 'Odată un gamer, Adam se îndreaptă acum spre a deveni un dezvoltator desăvârșit, aplicându-și abilitățile și pasiunea în Universul literar.'
+    'copyrights.about': 'Universul literar ia foarte în serios drepturile de autor. Tot conținutul publicat de utilizatori le aparține și este disponibil sub licența specificată. Pe lângă setul complet de licențe Creative Commons, Literary Universe oferă și 2 licențe comerciale, exclusivă și neexclusivă.',
+    'copyrights.nonExclusiveLicense': 'Licența neexclusivă Literary Universe vă permite să publicați pe Literary Universe fără a renunța la niciunul dintre drepturile dvs. ca deținător al drepturilor de autor. Sunteți liber să publicați oriunde altundeva. Literary Universe își rezervă doar dreptul de a vă utiliza proprietatea intelectuală în scopuri de marketing. Dacă decideți să vă vindeți proprietatea intelectuală pe Literary Universe, platforma va percepe o taxă de platformă de 30%.',
+    'copyrights.exclusiveLicense': 'Licența exclusivă Literary Universe vă permite să publicați exclusiv pe Literary Universe. Aceasta înseamnă că nu vă puteți publica IP-ul pe alte platforme online sau pe orice altceva în afara Literary Universe. Dacă doriți să publicați un suport fizic, cum ar fi o carte, trebuie să solicitați permisiunea. Dacă Literary Universe nu răspunde în termen de 30 de zile, atunci acesta este un consimțământ automat. În viitor, sperăm să vă oferim servicii de publicare pe suport fizic și alte servicii prin intermediul partenerilor noștri. Nu vă fie teamă să ne contactați, vă dorim succes și în majoritatea cazurilor suntem doar atenți la companiile frauduloase. Totuși, acest lucru este restrictiv, așa că, drept mulțumire, taxa de platformă este de numai 10%.',
+    'copyrights.licensesAreImportant': 'Alegerea unei licențe este extrem de importantă și afectează modul în care lucrarea dvs. va fi accesată în viitor. Pentru a face alegerea mai ușoară, puteți consulta selectorul nostru de licențe de mai jos.'
 };

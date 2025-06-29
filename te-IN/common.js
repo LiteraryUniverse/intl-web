@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'సముదాయ మార్గదర్శికలు',
     'common.legal.privacy': 'గోప్యతా నియమాలు',
     'common.legal.copyright': 'కాపీరైట్ ఒప్పందం',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {సేవల నిబంధనలు}
-    community {సముదాయ మార్గదర్శకాలు}
-    privacy {గోప్యతా నియమాలు}
-    copyright {ప్రాధికార సమ్మతం}
-    publishingAgreement {ప్రచురణ సమ్మతం}
-    other {ఒప్పందం}
-  } వెర్షన్ {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'ఈ పత్రంలో క్రింద ఉన్న కొత్త వెర్షన్ ({newVersion}) ప్రభావంతో రాబోతుంది: {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} అధికారాలు పూర్తిగా కల్పించబడతాయి, అన్ని వచనాలు వారి ప్రాముఖ్యతనుగా ఉన్నాయి.',
     'premium.only.title': 'సభ్యత్వ ర్యాంకు పైకి చేత ఉండదు',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

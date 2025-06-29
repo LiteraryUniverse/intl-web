@@ -74,6 +74,6 @@ export default {
     'discovery.aiContent.indicator': 'このコンテンツはAIの支援を受けて作成された',
     'discovery.aiContent.indicator.model': 'AIモデル： {model}',
     'discovery.recommendations.storiesTitle': 'おすすめ記事',
-    'discovery.recommendations.recommendationsExplained': '推奨ユニバース',
-    'discovery.recommendations.recommendationsSettings': 'これは設定で無効にできる。'
+    'discovery.recommendations.recommendationsExplained': 'これらのストーリーは、私たちのレコメンデーション・エンジンに基づいて推薦されます。機械学習を利用してストーリーを推薦します。',
+    'discovery.recommendations.recommendationsSettings': '設定で無効にできます。'
 };

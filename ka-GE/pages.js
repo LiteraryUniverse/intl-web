@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'იანი არის Literary Universe-ის დამფუძნებელი, ხელოსანი და ტექნოლოგიური ზუსტი. მოწყენილების პერსპექტივის განმაირებელი ლიტერატურულ უნივერსუმებში, იანი ხშირად განკუთვნის მახასიათებლებს ამბავის დაწყების პროცესში. მისი ამჟამადაც სტრიმებითი მიზნითი მეცნიერებების გაგრძელება წარმოადგენს.',
     'about.history.text': '2010 წელს, იანი დაიწყო ნაგავთობის ინსტიტუტში როკესტერის ტექნოლოგიების უფროსი ცოდნის სწავლასთან, გამოიყენებისაზე პლატფორმის მიმაგრებისთვის მისმა გამოცდილებამ ახვდნენ Imagine RIT-ზე. იანი შემდეგნაირად განაგეგა სწავლების, და 2016 წელს, მასტერისის მოქმედებად, აამაყენდა აპის ახალი ვერსია. პროექტი განვადებით განვითარებულია 2016 წლის შემდეგ, საბოლოოდ საოცაარის ევოლუციისთვის, ის გახდა პლატფორმა რომელიც ამჟამად ხელმისაწვდომი გაქვს.',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'ლიტერატურული უნივერსუმი მრავალი ღია კოდის პროექტზე და უფასო რესურსის ბაზაზე დაყენებულია. ქვემოთ იხილეთ მათი სია.',
     'about.attributionsMatomo': 'ჩვენი ანალიტიკა გამოიყენებს საკუთარ ჰოსტში მდებარე Matomo-ს და IP2Location LITE მონაცემებს, რომლებიც ხელმისაწვდომია https://lite.ip2location.com მისამართზე.',
     'team.name.pjakubec': 'პაველ იაკუბეცი',
-    'team.name.asebesta': 'ადამ შებესტა',
     'about.developer': 'დეველოპერი',
     'about.seniorDeveloper': 'სენიორ დეველოპერი',
     'about.juniorDeveloper': 'ჯუნიორ დეველოპერი',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
     'about.pavel': 'Web3, მეტავერსი, AI და ნებისმიერი გამოვაქვეყნებული ტექნოლოგია— ეს ყველაფერი რეალურ ობიექტებში მზად რომ ამატოს მაღალი პროდუქტი ლიტერატურულ უნივერსუმებში. რეალური მრავლიერი მხალხების კვლევაში მოყვარილი პაველი ტექნოლოგიური მოგება სწორედაც CV ტრენების გარდაქმნისა და ახალი და ინტრიგირებული გამონვასების პროცესებში მუშაობს.',
-    'about.seba': 'ადამმაცობილი ამომხარდაჭერისა და მწერლის დაქმათ გზაზე ამბობს, რომ მართვალი გზაზე პროფესიული დაველოდებითი ვადით მოგიწერს უნივერსიტეტში სრულდებადი დეველოპერის მიერ Literary Universe-ს'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };

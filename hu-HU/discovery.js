@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Ez a tartalom mesterséges intelligencia segítségével készült',
     'discovery.aiContent.indicator.model': 'AI modell: {model}',
     'discovery.recommendations.storiesTitle': 'Ajánlott történetek',
-    'discovery.recommendations.recommendationsExplained': 'Ajánlott univerzumok',
-    'discovery.recommendations.recommendationsSettings': 'Ezt a beállításokban letilthatja.'
+    'discovery.recommendations.recommendationsExplained': 'Ezeket a történeteket az ajánlómotorunk alapján ajánljuk. Mely gépi tanulást használ, hogy történeteket ajánljon Önnek.',
+    'discovery.recommendations.recommendationsSettings': 'Ezt letilthatja a beállítások között.'
 };

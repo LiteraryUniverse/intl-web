@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Technologický riaditeľ',
     'about.jan': 'Jan je zakladateľ, vizionár a technologický mozog za Literary Universe. Ako autor rozsiahlych literárnych vesmírov sa Jan často stretával so výzvou písať príbehy takým spôsobom, aby zachoval technickú presnosť a čitateľnosť bez toho, aby to ovplyvnilo zážitok čitateľa. Táto výzva ho viedla k štúdiu web developmentu s cieľom vytvoriť aplikáciu, ktorá zjednodušuje proces písania príbehov v rámci veľkých vesmírov.',
     'about.history.text': 'V roku 2010 začal Jan študovať na Rochester Institute of Technology, aby prehlbil svoje znalosti v oblasti vývoja webových stránok s cieľom vybudovať platformu pre tvorivé písanie. Táto vízia sa zhmotnila v roku 2013, keď bol na konferencii Imagine RIT predstavený prvý dôkaz konceptu. Jan pokračoval vo svojich štúdiách a v roku 2016 bola vytvorená nová verzia aplikácie ako jeho magisterský projekt Capstone. Projekt pokračoval vývojom počas jesene 2016 a nakoniec sa vyvinul do platformy, ktorú vidíte dnes.',
-    'copyrights.desc': 'Úplné znenie autorskej zmluvy Literary Universe.',
+    'copyrights.desc': 'Informácie o autorských právach na Literárnom vesmíre.',
     'privacy.desc': 'Úplný právny text Zásady ochrany osobných údajov Literary Universe.',
     'guidelines.desc': 'Usmernenia komunity Literary Universe.',
     'tos.desc': 'Úplný právny text Podmienok poskytovania služieb Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe je postavený na mnohých projektoch s otvoreným zdrojovým kódom a bezplatných zdrojoch. Nižšie nájdete ich zoznam.',
     'about.attributionsMatomo': 'Naša analytika využíva vlastný hosting Matomo s údajmi IP2Location LITE dostupnými zo stránky https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Vývojár',
     'about.seniorDeveloper': 'Senior vývojár',
     'about.juniorDeveloper': 'Junior vývojár',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry je dizajnér s viac ako 15-ročnými skúsenosťami. V agentúre pracuje od roku 2010, jeho klientmi sú napríklad PERTAMINA, VOA a Ministerstvo cestovného ruchu Indonézie. Má skúsenosti s brandingom, layoutom a tiež UI/UX, cíti sa byť výzvou pri navrhovaní Literary Universe.',
     'about.pavel': 'Web3, Metaverse, AI a akákoľvek nová technológia - Pavel skúma všetko, aby videl, ako môže zlepšiť Literary Universe. Ako skutočný multidisciplinárny výskumník Pavel má prehľad v mnohých oblastiach a pracuje na integrovaní nových a vzrušujúcich funkcií do platformy.',
-    'about.seba': 'Adam, kedysi hráč počítačových hier, teraz kráča cestou plnohodnotného vývojára a venuje svoje zručnosti a vášeň Literárnej vesmíre.'
+    'copyrights.about': 'Literárny vesmír berie autorské práva veľmi vážne. Všetok obsah, ktorý používatelia zverejňujú, je ich vlastníctvom a je k dispozícii pod uvedenou licenciou. Okrem úplného súboru licencií Creative Commons ponúka Literary Universe aj 2 komerčné licencie, exkluzívnu a neexkluzívnu.',
+    'copyrights.nonExclusiveLicense': 'Nevýhradná licencia Literary Universe vám umožňuje publikovať na Literary Universe bez toho, aby ste sa vzdali akýchkoľvek svojich práv ako držiteľa autorských práv. Môžete publikovať kdekoľvek inde. Literary Universe si vyhradzuje právo používať vaše duševné vlastníctvo len na marketingové účely. Ak sa rozhodnete predať svoje duševné vlastníctvo na Literary Universe, platforma si bude účtovať 30 % poplatok za platformu.',
+    'copyrights.exclusiveLicense': 'Exkluzívna licencia Literary Universe vám umožňuje publikovať výlučne na Literary Universe. To znamená, že svoje duševné vlastníctvo nemôžete publikovať na iných online platformách ani na ničom inom mimo Literary Universe. Ak chcete publikovať na fyzickom nosiči, napríklad v knihe, musíte požiadať o povolenie. Ak Literary Universe neodpovie do 30 dní, je to automatický súhlas. Dúfame, že v budúcnosti vám ponúkneme fyzické publikovanie a ďalšie služby prostredníctvom našich partnerov. Nebojte sa nás kontaktovať, prajeme si váš úspech a vo väčšine prípadov si len dávame pozor na podvodné spoločnosti. Napriek tomu je to obmedzujúce, preto ako poďakovanie je poplatok za platformu len 10 %.',
+    'copyrights.licensesAreImportant': 'Výber licencie je mimoriadne dôležitý a ovplyvňuje spôsob, akým bude vaša práca v budúcnosti prístupná. Pre uľahčenie výberu si môžete pozrieť náš výber licencií nižšie.'
 };

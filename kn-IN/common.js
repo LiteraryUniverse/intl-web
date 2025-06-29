@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'ಸಮುದಾಯದ ಮಾರ್ಗದರ್ಶಿಕೆಗಳು',
     'common.legal.privacy': 'ಗೌಪ್ಯತೆ ನೀತಿ',
     'common.legal.copyright': 'ಪ್ರಾಧಿಕಾರ ಒಪ್ಪಿಗೆ',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {ಸೇವೆಗೆ ನಿಯಮಗಳು}
-    community {ಸಮುದಾಯದ ಮಾರ್ಗನೀಯಗಳು}
-    privacy {ಗೌಪ್ಯತಾ ನೀತಿ}
-    copyright {ಪಾಯಿಂಟ್ ನೇರಸಂಬಂಧದ ಒಪ್ಪಿಗೆ}
-    publishingAgreement {ಪ್ರಕಟಣೆ ಒಪ್ಪಿಗೆ}
-    other {ಒಪ್ಪಿಗೆ}
-  } ಆವೃತ್ತಿ {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'A new version ({newVersion}) of this document will come into effect on {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ, ಎಲ್ಲಾ ಪಠ್ಯಗಳು ತಮ್ಮ ಪ್ರತ್ಯೇಕ ಲೇಖಕರಿಗೆ ಸೇರಿದೆ.',
     'premium.only.title': 'ಸದಸ್ಯತ್ವ ಹೆಚ್ಚಿನ ಹಂತಕ್ಕೆ ಇಲ್ಲದೆ ಇದೆ',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

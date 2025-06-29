@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Director de tecnología',
     'about.jan': 'Jan es el fundador, visionario y mente tecnológica detrás de Literary Universe. Como escritor de universos literarios expansivos, Jan a menudo luchaba por escribir historias de una manera que equilibrara la precisión técnica con la legibilidad, sin comprometer la experiencia del lector. Este desafío lo llevó a estudiar desarrollo web, con el objetivo de crear una aplicación que simplificara el proceso de escribir historias dentro de grandes universos.',
     'about.history.text': 'En 2010, Jan comenzó sus estudios en la Universidad de Tecnología de Rochester para profundizar sus conocimientos en desarrollo web, con el objetivo de construir una plataforma de escritura creativa. Esta visión tomó forma en 2013, cuando se presentó el primer prototipo en Imagine RIT. Jan continuó sus estudios y en 2016 se creó una nueva versión de la aplicación como parte de su proyecto de final de máster. El proyecto continuó evolucionando a lo largo del otoño de 2016, desarrollándose finalmente en la plataforma que ves hoy en día.',
-    'copyrights.desc': 'Vista completa del acuerdo de derechos de autor de Literary Universe.',
+    'copyrights.desc': 'Información sobre derechos de autor en Universo Literario.',
     'privacy.desc': 'Vista completa de las políticas de privacidad de Literary Universe.',
     'guidelines.desc': 'Normas comunitarias de Literary Universe.',
     'tos.desc': 'Vista completa de condiciones de servicio de Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe se cimienta en numerosos proyectos de código abierto y recursos gratuitos. A continuación encontrarás el listado completo.',
     'about.attributionsMatomo': 'Nuestros análisis utilizan Matomo con datos IP2Location LITE disponibles en https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Desarrollador',
     'about.seniorDeveloper': 'Desarrollador sénior',
     'about.juniorDeveloper': 'Desarollador Junior',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry es un diseñador con más de 15 años de experiencia. Ha estado trabajando en la agencia desde 2010 con clientela destacada como PERTAMINA, VOA, y el Ministerio de Turismo de Indonesia. Con experiencia en Branding, diseño y también en UI/UX que ha aceptado el desafío de diseñar Literary Universe.',
     'about.pavel': 'Web3, el Metaverso, la IA y cualquier tecnología emergente: Pavel explora todo esto para ver cómo puede mejorar Literary Universe. Como verdadero investigador multidisciplinario, Pavel tiene conocimientos en muchos campos y trabaja en la integración de nuevas y emocionantes características en la plataforma.',
-    'about.seba': 'Antes un jugador, Adam ahora está en el camino de convertirse en un desarrollador de pleno derecho, aplicando sus habilidades y pasión a Literary Universe.'
+    'copyrights.about': 'Universo Literario se toma muy en serio los derechos de autor. Todo el contenido que publican los usuarios es propio y está disponible bajo la licencia que se especifique. Además del conjunto completo de licencias Creative Commons, Universo Literario también ofrece 2 licencias comerciales, exclusiva y no exclusiva.',
+    'copyrights.nonExclusiveLicense': 'La licencia no exclusiva de Universo Literario le permite publicar en Universo Literario sin ceder ninguno de sus derechos como titular de los derechos de autor. Usted es libre de publicar en cualquier otro sitio. Universo Literario sólo se reserva el derecho de utilizar su PI con fines de marketing. Si decide vender su PI en Universo Literario, la plataforma le cobrará un 30% en concepto de derechos de plataforma.',
+    'copyrights.exclusiveLicense': 'La Licencia Exclusiva de Universo Literario le permite publicar en Universo Literario exclusivamente. Eso significa que no puede publicar su IP en otras plataformas en línea ni en ningún otro medio fuera de Universo Literario. Si desea publicar en un medio físico como un libro, deberá pedir permiso. Si Universo Literario no responde en 30 días, se considerará que ha dado su consentimiento automáticamente. En el futuro esperamos poder ofrecerle la publicación física y otros servicios a través de nuestros socios. No tenga miedo de ponerse en contacto con nosotros, deseamos su éxito y en la mayoría de los casos sólo nos cuidamos de las empresas fraudulentas. Aún así, esto es restrictivo, así que como agradecimiento, la tarifa de la plataforma es sólo del 10%.',
+    'copyrights.licensesAreImportant': 'Elegir una licencia es extremadamente importante y afecta al modo en que se accederá a su trabajo en el futuro. Para facilitarle la selección, puede consultar nuestro selector de licencias a continuación.'
 };

@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Directrius de la comunitat',
     'common.legal.privacy': 'Política de privacitat',
     'common.legal.copyright': 'Acord de drets d\'autor',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Termes del servei}
-    community {Normes de la comunitat}
-    privacy {Política de privacitat}
-    copyright {Acord de drets d'autor}
-    publishingAgreement {Acord de publicació}
-    other {Acord}
-  } Versió {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nova versió ({newVersion}) d\'aquest document entrarà en vigor el {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Tots els drets reservats, tots els textos pertanyen als seus respectius autors.',
     'premium.only.title': 'Rang de membresia no prou alt',
@@ -305,5 +308,6 @@ export default {
     'common.aiContent.custom': 'Custom AI model',
     'common.viewAll': 'View All',
     'notice.thankYou': 'Thank you for your support!',
-    'common.dropImageHere': 'Drop an image here'
+    'common.dropImageHere': 'Drop an image here',
+    'common.legal.publishingAgreement': 'Publishing Agreement'
 };

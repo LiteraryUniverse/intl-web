@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Teknologiajohtaja',
     'about.jan': 'Jan on perustaja, visionääri ja tekninen ajattelija Literary Universelle. Laajojen kirjallisten universumien kirjoittajana Jan kamppaili usein kirjoittaessaan tarinoita tavalla, joka tasapainottaisi teknistä tarkkuutta ja luettavuutta, kompromisoimatta lukijan kokemusta. Tämä haaste sai hänet opiskelemaan verkkokehitystä, tavoitteenaan luoda sovellus, joka yksinkertaistaa tarinoiden kirjoittamisprosessia suurissa universumeissa.',
     'about.history.text': 'Vuonna 2010 Jan aloitti opintonsa Rochesterin teknologiainstituutissa syventääkseen tietämystään verkkokehityksestä ja tavoitteenaan rakentaa luovan kirjoittamisen alusta. Tämä visio sai muotonsa vuonna 2013, kun ensimmäinen konseptinäyttö esiteltiin Imagine RIT -tapahtumassa. Jan jatkoi opintojaan, ja vuonna 2016 uusi versio sovelluksesta luotiin hänen maisterin opinnäytetyönään. Projektia kehitettiin edelleen syksyllä 2016, ja siitä kehittyi lopulta se alusta, jonka näet tänään.',
-    'copyrights.desc': 'Kirjallisen Universumin tekijänoikeussopimuksen koko teksti.',
+    'copyrights.desc': 'Tietoa tekijänoikeuksista osoitteessa Literary Universe.',
     'privacy.desc': 'Kirjallisen Universumin tietosuojakäytännön täydellinen laillinen teksti.',
     'guidelines.desc': 'Kirjallisen Universumin yhteisösäännöt.',
     'tos.desc': 'Kirjallisen Universumin käyttöehdot.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe perustuu moniin avoimen lähdekoodin projekteihin ja ilmaisiin resursseihin. Alla on niiden luettelo.',
     'about.attributionsMatomo': 'Analytiikkamme käyttää itse isännöityä Matomoa, jossa on saatavilla IP2Location LITE -tietoja osoitteesta https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Kehittäjä',
     'about.seniorDeveloper': 'Kokenut kehittäjä',
     'about.juniorDeveloper': 'Juniorikehittäjä',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry on suunnittelija, jolla on yli 15 vuoden kokemus. Hän on työskennellyt mainostoimistossa vuodesta 2010 lähtien, ja hänen asiakkaitaan ovat muun muassa PERTAMINA, VOA ja Indonesian matkailuministeriö. Hänellä on kokemusta brändäyksestä, layoutista ja myös käyttöliittymäsuunnittelusta, ja hän tuntee haastetta suunnitella Literary Universea.',
     'about.pavel': 'Web3, metaversumi, tekoäly ja kaikki uudet kehittyvät teknologiat - Pavel tutkii niitä kaikkia nähdäkseen, miten ne voivat parantaa Literary Universen toimintaa. Todellisena monitieteisenä tutkijana Pavelilla on oivalluksia monilta aloilta ja hän työskentelee uusien ja jännittävien ominaisuuksien integroimiseksi alustaan.',
-    'about.seba': 'Entinen pelaaja Adam on nyt matkalla kohti täysin kehittyvää kehittäjää ja soveltaa taitojaan ja intohimoaan Literary Universeen.'
+    'copyrights.about': 'Literary Universe suhtautuu tekijänoikeuksiin hyvin vakavasti. Kaikki käyttäjien julkaisema sisältö on heidän omaa ja saatavilla määritellyn lisenssin mukaisesti. Täydellisten Creative Commons -lisenssien lisäksi Literary Universe tarjoaa myös kaksi kaupallista lisenssiä, yksinomaisen ja ei-yksinomaisen.',
+    'copyrights.nonExclusiveLicense': 'Literary Universen ei-yksinomainen lisenssi antaa sinulle mahdollisuuden julkaista Literary Universessa luopumatta mistään oikeuksistasi tekijänoikeuksien haltijana. Voit vapaasti julkaista missä tahansa muualla. Literary Universe pidättää itsellään ainoastaan oikeuden käyttää teollis- ja tekijänoikeuksiasi markkinointitarkoituksiin. Jos päätät myydä teollis- ja tekijänoikeuksiasi Literary Universessa, alusta veloittaa 30 % alustamaksun.',
+    'copyrights.exclusiveLicense': 'Literary Universen yksinoikeuslisenssi antaa sinulle mahdollisuuden julkaista ainoastaan Literary Universessa. Se tarkoittaa, että et voi julkaista IP:täsi muilla verkkoalustoilla tai missään muualla Literary Universen ulkopuolella. Jos haluat julkaista fyysisen välineen, kuten kirjan, sinun on pyydettävä siihen lupa. Jos Literary Universe ei vastaa 30 päivän kuluessa, se on automaattinen suostumus. Tulevaisuudessa toivomme voivamme tarjota sinulle fyysistä julkaisemista ja muita palveluita yhteistyökumppaneidemme kautta. Älä pelkää ottaa meihin yhteyttä, toivomme menestystäsi ja useimmissa tapauksissa me vain varomme vilpillisiä yrityksiä. Silti tämä on rajoittavaa, joten kiitokseksi alustamaksu on vain 10 %.',
+    'copyrights.licensesAreImportant': 'Lisenssin valitseminen on erittäin tärkeää, ja se vaikuttaa siihen, miten työsi on tulevaisuudessa saatavilla. Voit helpottaa valintaa tutustumalla alla olevaan lisenssivalintaohjelmaan.'
 };
