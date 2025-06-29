@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Οδηγίες Κοινότητας',
     'common.legal.privacy': 'Πολιτική Απορρήτου',
     'common.legal.copyright': 'Συμφωνία Πνευματικών Δικαιωμάτων',
+    'common.legal.cookies': 'Σχετικά με τα cookies',
+    'cookies.desc': 'Αυτός ο ιστότοπος χρησιμοποιεί cookies για να διασφαλίσει ότι θα έχετε την καλύτερη δυνατή εμπειρία στον ιστότοπό μας.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Όροι Χρήσης}
-    community {Κοινοτικές Οδηγίες}
-    privacy {Πολιτική Απορρήτου}
-    copyright {Συμφωνία Πνευματικών Δικαιωμάτων}
-    publishingAgreement {Συμφωνία Δημοσίευσης}
+    tos {Όροι χρήσης}
+    community {Κοινοτικές οδηγίες}
+    privacy {Πολιτική απορρήτου}
+    copyright {Συμφωνία πνευματικών δικαιωμάτων}
+    publishingAgreement {Συμφωνία δημοσίευσης}
+    cookies {Σχετικά με τα cookies}
     other {Συμφωνία}
   } Έκδοση {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Μια νέα έκδοση ({newVersion}) αυτού του εγγράφου θα τεθεί σε ισχύ στις {effectiveAt, date}.',
