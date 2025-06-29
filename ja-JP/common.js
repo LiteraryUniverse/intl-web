@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'カスタムAIモデル',
     'common.viewAll': '全てを見る',
     'notice.thankYou': 'ご声援ありがとうございました！',
-    'common.dropImageHere': 'ここに画像をドロップする'
+    'common.dropImageHere': 'ここに画像をドロップする',
+    'common.legal.publishingAgreement': '出版契約'
 };
