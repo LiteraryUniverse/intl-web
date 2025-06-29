@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Normas da Comunidade',
     'common.legal.privacy': 'Política de Privacidade',
     'common.legal.copyright': 'Acordo de Direitos de Autor',
+    'common.legal.cookies': 'Sobre os biscoitos',
+    'cookies.desc': 'Este sítio Web utiliza cookies para garantir que obtém a melhor experiência no nosso sítio Web.',
     'common.legal.versionDisplay': `{type, select,
     tos {Termos de Serviço}
     community {Diretrizes da Comunidade}
     privacy {Política de Privacidade}
-    copyright {Acordo de Direitos Autorais}
+    copyright {Acordo de Direitos de Autor}
     publishingAgreement {Acordo de Publicação}
+    cookies {Acerca de Cookies}
     other {Acordo}
   } Versão {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Uma nova versão ({newVersion}) deste documento entrará em vigor no {effectiveAt, date}.',
