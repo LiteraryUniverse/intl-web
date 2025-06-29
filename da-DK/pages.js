@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Teknisk Direktør',
     'about.jan': 'Jan er grundlæggeren, visionæren og den teknologiske hjerne bag Literary Universe. Som forfatter af omfattende litterære universer havde Jan ofte svært ved at skrive historier på en måde, der afvejer teknisk præcision med læsbarhed, uden at gå på kompromis med læserens oplevelse. Denne udfordring ledte ham til at studere webudvikling med målet om at skabe en applikation, der forenkler processen med at skrive historier inden for store universer.',
     'about.history.text': 'I 2010 begyndte Jan sine studier på Rochester Institute of Technology for at udvide sin viden om webudvikling med målet om at opbygge en kreativ skriveplatform. Denne vision tog form i 2013, da det første konceptbevis blev præsenteret ved Imagine RIT. Jan fortsatte sine studier, og i 2016 blev der oprettet en ny version af appen som hans Master\'s Capstone Project. Projektet fortsatte med at udvikle sig i løbet af efteråret 2016 og udviklede sig efterhånden til den platform, du ser i dag.',
-    'copyrights.desc': 'Den fulde tekst af Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information om ophavsret på Literary Universe.',
     'privacy.desc': 'Fuld juridisk tekst for Literary Universe Privacy Policy.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Fuld juridisk tekst for Literary Universe Terms of Service.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe bygger oven på mange Open Source-projekter og gratis ressourcer. Herunder finder du deres oversigt.',
     'about.attributionsMatomo': 'Vores analyse bruger selvhostet Matomo med IP2Location LITE-data tilgængelig fra https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Udvikler',
     'about.seniorDeveloper': 'Senior Udvikler',
     'about.juniorDeveloper': 'Junior Udvikler',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry er en designer med mere end 15 års erfaring. Han har arbejdet på et bureau siden 2010, med kunder som PERTAMINA, VOA og Indonesiens turistministerium. Med erfaring inden for branding, layout og også UI/UX føler han sig udfordret til at designe Literary Universe.',
     'about.pavel': 'Web3, Metaverse, AI og enhver nyskabende teknologi - Pavel udforsker det hele for at se, hvordan det kan forbedre Literary Universe. Som en sand tværfaglig forsker har Pavel indsigt i mange felter og arbejder på at integrere nye og spændende funktioner i platformen.',
-    'about.seba': 'Tidligere gamer er Adam nu på vej til at blive en fuldgyldig udvikler og anvender sine færdigheder og passion for Literary Universe.'
+    'copyrights.about': 'Literary Universe tager ophavsret meget alvorligt. Alt indhold, der publiceres af brugerne, er deres eget og tilgængeligt under den licens, der er angivet. Ud over det fulde sæt af Creative Commons-licenser tilbyder Literary Universe også 2 kommercielle licenser, eksklusive og ikke-eksklusive.',
+    'copyrights.nonExclusiveLicense': 'Literary Universe Non-Exclusive License giver dig mulighed for at udgive på Literary Universe uden at afgive nogen af dine rettigheder som ophavsretsindehaver. Du kan frit udgive andre steder. Literary Universe forbeholder sig kun retten til at bruge din IP til markedsføringsformål. Hvis du beslutter dig for at sælge din IP på Literary Universe, vil platformen opkræve et gebyr på 30 %.',
+    'copyrights.exclusiveLicense': 'Literary Universe Exclusive License giver dig mulighed for udelukkende at udgive på Literary Universe. Det betyder, at du ikke kan udgive din IP på andre onlineplatforme eller noget andet uden for Literary Universe. Hvis du ønsker at udgive et fysisk medie som en bog, skal du bede om tilladelse. Hvis Literary Universe ikke svarer inden for 30 dage, er det et automatisk samtykke. I fremtiden håber vi at kunne tilbyde dig fysisk udgivelse og andre tjenester via vores partnere. Du skal ikke være bange for at kontakte os, vi ønsker din succes, og i de fleste tilfælde er vi bare på udkig efter bedrageriske virksomheder. Men det er stadig restriktivt, så som tak er platformsgebyret kun 10 %.',
+    'copyrights.licensesAreImportant': 'At vælge en licens er ekstremt vigtigt og påvirker, hvordan dit arbejde bliver tilgængeligt i fremtiden. For at gøre valget lettere kan du tjekke vores licensvælger nedenfor.'
 };
