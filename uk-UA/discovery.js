@@ -82,5 +82,8 @@ export default {
     'discover.search.aiContent.none': 'Приховати вміст, створений штучним інтелектом',
     'discover.search.aiContent.only': 'Показувати лише вміст, згенерований штучним інтелектом',
     'discovery.aiContent.indicator': 'Цей контент створено за допомогою штучного інтелекту',
-    'discovery.aiContent.indicator.model': 'Модель штучного інтелекту: {model}'
+    'discovery.aiContent.indicator.model': 'Модель штучного інтелекту: {model}',
+    'discovery.recommendations.storiesTitle': 'Рекомендовані історії',
+    'discovery.recommendations.recommendationsExplained': 'Рекомендовані всесвіти',
+    'discovery.recommendations.recommendationsSettings': 'Ви можете вимкнути цю функцію у своїх налаштуваннях.'
 };

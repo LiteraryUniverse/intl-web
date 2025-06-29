@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'AI 생성 콘텐츠 숨기기',
     'discover.search.aiContent.only': 'AI가 생성한 콘텐츠만 표시',
     'discovery.aiContent.indicator': '이 콘텐츠는 AI의 도움을 받아 생성되었습니다.',
-    'discovery.aiContent.indicator.model': 'AI 모델: {model}'
+    'discovery.aiContent.indicator.model': 'AI 모델: {model}',
+    'discovery.recommendations.storiesTitle': '추천 스토리',
+    'discovery.recommendations.recommendationsExplained': '추천 유니버스',
+    'discovery.recommendations.recommendationsSettings': '설정에서 이 기능을 비활성화할 수 있습니다.'
 };

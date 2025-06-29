@@ -82,5 +82,8 @@ export default {
     'discover.search.aiContent.none': 'Скрывайте контент, созданный искусственным интеллектом',
     'discover.search.aiContent.only': 'Показывайте только контент, созданный искусственным интеллектом',
     'discovery.aiContent.indicator': 'Этот контент был создан с помощью искусственного интеллекта',
-    'discovery.aiContent.indicator.model': 'Модель AI: {model}'
+    'discovery.aiContent.indicator.model': 'Модель AI: {model}',
+    'discovery.recommendations.storiesTitle': 'Рекомендуемые истории',
+    'discovery.recommendations.recommendationsExplained': 'Рекомендуемые вселенные',
+    'discovery.recommendations.recommendationsSettings': 'Вы можете отключить это в настройках.'
 };

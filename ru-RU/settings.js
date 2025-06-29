@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Язык чтения',
     'settings.languages.readingLanguageExplained': 'При поиске историй мы будем предлагать вам истории и их переводы на этом языке, если вы не укажете иное.',
     'settings.biography.help': 'Расскажите другим о себе',
-    'settings.username.help': 'Ваше уникальное имя пользователя на платформе'
+    'settings.username.help': 'Ваше уникальное имя пользователя на платформе',
+    'settings.interests.tags.custom.help': 'Введите список тегов, разделенных запятыми',
+    'settings.interests.tags.placeholder': 'Добавить теги',
+    'settings.interests.avoidGenres.help': 'Выберите жанры, которые Вы бы предпочли не видеть в рекомендациях.',
+    'settings.interests.avoidGenres': 'Жанры, которых следует избегать'
 };

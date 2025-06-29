@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'AI-gegenereerde inhoud verbergen',
     'discover.search.aiContent.only': 'Toon alleen AI-gegenereerde inhoud',
     'discovery.aiContent.indicator': 'Deze inhoud werd gegenereerd met AI-hulp',
-    'discovery.aiContent.indicator.model': 'AI-model: {model}'
+    'discovery.aiContent.indicator.model': 'AI-model: {model}',
+    'discovery.recommendations.storiesTitle': 'Aanbevolen verhalen',
+    'discovery.recommendations.recommendationsExplained': 'Aanbevolen universums',
+    'discovery.recommendations.recommendationsSettings': 'U kunt dit uitschakelen in uw instellingen.'
 };

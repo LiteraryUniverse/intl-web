@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'KI-generierte Inhalte ausblenden',
     'discover.search.aiContent.only': 'Nur KI-generierte Inhalte anzeigen',
     'discovery.aiContent.indicator': 'Dieser Inhalt wurde mit Hilfe von KI erstellt',
-    'discovery.aiContent.indicator.model': 'AI-Modell: {model}'
+    'discovery.aiContent.indicator.model': 'AI-Modell: {model}',
+    'discovery.recommendations.storiesTitle': 'Empfohlene Geschichten',
+    'discovery.recommendations.recommendationsExplained': 'Empfohlene Universen',
+    'discovery.recommendations.recommendationsSettings': 'Sie können dies in Ihren Einstellungen deaktivieren.'
 };

@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Língua de leitura',
     'settings.languages.readingLanguageExplained': 'Ao procurar histórias, oferecemos-lhe histórias e respectivas traduções nesta língua, a menos que especifique o contrário.',
     'settings.biography.help': 'Fale aos outros sobre si',
-    'settings.username.help': 'O seu nome de utilizador único na plataforma'
+    'settings.username.help': 'O seu nome de utilizador único na plataforma',
+    'settings.interests.tags.custom.help': 'Introduza uma lista de etiquetas separada por vírgulas',
+    'settings.interests.tags.placeholder': 'Adicionar etiquetas',
+    'settings.interests.avoidGenres.help': 'Selecione os géneros que prefere não ver nas recomendações.',
+    'settings.interests.avoidGenres': 'Géneros a evitar'
 };

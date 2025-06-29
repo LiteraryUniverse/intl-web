@@ -131,5 +131,9 @@ export default {
     'settings.languages.readingLanguage': 'Jazyk čítania',
     'settings.languages.readingLanguageExplained': 'Pri vyhľadávaní príbehov vám ponúkneme príbehy a ich preklady v tomto jazyku, ak neuvediete inak.',
     'settings.biography.help': 'Povedzte o sebe ostatným',
-    'settings.username.help': 'Vaše jedinečné používateľské meno na platforme'
+    'settings.username.help': 'Vaše jedinečné používateľské meno na platforme',
+    'settings.interests.tags.custom.help': 'Zadajte zoznam značiek oddelených čiarkou',
+    'settings.interests.tags.placeholder': 'Pridať značky',
+    'settings.interests.avoidGenres.help': 'Vyberte žánre, ktoré nechcete vidieť v odporúčaniach.',
+    'settings.interests.avoidGenres': 'Žánre, ktorým sa treba vyhnúť'
 };

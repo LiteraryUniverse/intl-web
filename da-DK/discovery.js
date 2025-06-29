@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Skjul AI-genereret indhold',
     'discover.search.aiContent.only': 'Vis kun AI-genereret indhold',
     'discovery.aiContent.indicator': 'Dette indhold blev genereret med AI-assistance',
-    'discovery.aiContent.indicator.model': 'AI-model: {model}'
+    'discovery.aiContent.indicator.model': 'AI-model: {model}',
+    'discovery.recommendations.storiesTitle': 'Anbefalede historier',
+    'discovery.recommendations.recommendationsExplained': 'Anbefalede universer',
+    'discovery.recommendations.recommendationsSettings': 'Du kan slå det fra i dine indstillinger.'
 };

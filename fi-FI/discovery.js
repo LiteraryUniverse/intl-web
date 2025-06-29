@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Piilota tekoälyn luoma sisältö',
     'discover.search.aiContent.only': 'Näytä vain tekoälyn luoma sisältö',
     'discovery.aiContent.indicator': 'Tämä sisältö on tuotettu tekoälyn avulla',
-    'discovery.aiContent.indicator.model': 'AI-malli: {model}'
+    'discovery.aiContent.indicator.model': 'AI-malli: {model}',
+    'discovery.recommendations.storiesTitle': 'Suositellut tarinat',
+    'discovery.recommendations.recommendationsExplained': 'Suositellut universumit',
+    'discovery.recommendations.recommendationsSettings': 'Voit poistaa tämän käytöstä asetuksista.'
 };

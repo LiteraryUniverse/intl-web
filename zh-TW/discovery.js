@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': '隱藏 AI 產生的內容',
     'discover.search.aiContent.only': '只顯示 AI 產生的內容',
     'discovery.aiContent.indicator': '本內容由 AI 協助產生',
-    'discovery.aiContent.indicator.model': 'AI 機型： {model}'
+    'discovery.aiContent.indicator.model': 'AI 機型： {model}',
+    'discovery.recommendations.storiesTitle': '推薦故事',
+    'discovery.recommendations.recommendationsExplained': '推薦的宇宙',
+    'discovery.recommendations.recommendationsSettings': '您可以在設定中停用此功能。'
 };

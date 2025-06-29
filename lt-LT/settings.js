@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Skaitymo kalba',
     'settings.languages.readingLanguageExplained': 'Ieškodami istorijų, pasiūlysime jums istorijas ir jų vertimus šia kalba, nebent nurodysite kitaip.',
     'settings.biography.help': 'Papasakokite kitiems apie save',
-    'settings.username.help': 'Jūsų unikalus naudotojo vardas platformoje'
+    'settings.username.help': 'Jūsų unikalus naudotojo vardas platformoje',
+    'settings.interests.tags.custom.help': 'Įveskite kableliais atskirtą žymų sąrašą',
+    'settings.interests.tags.placeholder': 'Pridėti žymas',
+    'settings.interests.avoidGenres.help': 'Pasirinkite žanrus, kurių nenorėtumėte matyti rekomendacijose.',
+    'settings.interests.avoidGenres': 'Žanrai, kurių reikia vengti'
 };

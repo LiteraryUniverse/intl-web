@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': '읽기 언어',
     'settings.languages.readingLanguageExplained': '스토리를 검색할 때 별도로 지정하지 않는 한 이 언어로 된 스토리와 해당 번역을 제공합니다.',
     'settings.biography.help': '다른 사람에게 나에 대해 알리기',
-    'settings.username.help': '플랫폼에서 고유한 사용자 아이디'
+    'settings.username.help': '플랫폼에서 고유한 사용자 아이디',
+    'settings.interests.tags.custom.help': '쉼표로 구분된 태그 목록 입력',
+    'settings.interests.tags.placeholder': '태그 추가',
+    'settings.interests.avoidGenres.help': '추천에서 표시하지 않으려는 장르를 선택합니다.',
+    'settings.interests.avoidGenres': '피해야 할 장르'
 };

@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'AI által generált tartalom elrejtése',
     'discover.search.aiContent.only': 'Csak mesterséges intelligencia által generált tartalom megjelenítése',
     'discovery.aiContent.indicator': 'Ez a tartalom mesterséges intelligencia segítségével készült',
-    'discovery.aiContent.indicator.model': 'AI modell: {model}'
+    'discovery.aiContent.indicator.model': 'AI modell: {model}',
+    'discovery.recommendations.storiesTitle': 'Ajánlott történetek',
+    'discovery.recommendations.recommendationsExplained': 'Ajánlott univerzumok',
+    'discovery.recommendations.recommendationsSettings': 'Ezt a beállításokban letilthatja.'
 };

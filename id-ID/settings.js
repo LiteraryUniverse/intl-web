@@ -133,5 +133,9 @@ export default {
     'settings.languages.readingLanguage': 'Membaca bahasa',
     'settings.languages.readingLanguageExplained': 'Saat mencari berita, kami akan menawarkan berita dan terjemahannya dalam bahasa ini, kecuali jika Anda menentukan lain.',
     'settings.biography.help': 'Beri tahu orang lain tentang diri Anda',
-    'settings.username.help': 'Nama pengguna unik Anda di platform'
+    'settings.username.help': 'Nama pengguna unik Anda di platform',
+    'settings.interests.tags.custom.help': 'Masukkan daftar tag yang dipisahkan koma',
+    'settings.interests.tags.placeholder': 'Tambahkan tag',
+    'settings.interests.avoidGenres.help': 'Pilih genre yang tidak ingin Anda lihat dalam rekomendasi.',
+    'settings.interests.avoidGenres': 'Genre yang harus dihindari'
 };

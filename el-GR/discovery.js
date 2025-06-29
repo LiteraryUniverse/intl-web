@@ -74,5 +74,8 @@ export default {
     'discover.search.aiContent.none': 'Απόκρυψη περιεχομένου που δημιουργείται από τεχνητή νοημοσύνη',
     'discover.search.aiContent.only': 'Εμφάνιση μόνο περιεχομένου που δημιουργείται από τεχνητή νοημοσύνη',
     'discovery.aiContent.indicator': 'Αυτό το περιεχόμενο δημιουργήθηκε με τη βοήθεια τεχνητής νοημοσύνης',
-    'discovery.aiContent.indicator.model': 'Μοντέλο AI: {model}'
+    'discovery.aiContent.indicator.model': 'Μοντέλο AI: {model}',
+    'discovery.recommendations.storiesTitle': 'Συνιστώμενες ιστορίες',
+    'discovery.recommendations.recommendationsExplained': 'Συνιστώμενα σύμπαντα',
+    'discovery.recommendations.recommendationsSettings': 'Μπορείτε να το απενεργοποιήσετε στις ρυθμίσεις σας.'
 };
