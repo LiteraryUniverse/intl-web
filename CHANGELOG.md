@@ -1,5 +1,12 @@
 # Changelog for languages
 
+## 2025-06-29 - v2.17.2
+
+* New strings for cookies page
+* Added missing strings for license selectors
+* Added strings for content selector
+* Fix issues with few strings
+
 ## 2025-06-27 - v2.17.1
 
 * Fix various strings
