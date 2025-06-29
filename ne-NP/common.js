@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'समुदाय सिफारिसहरू',
     'common.legal.privacy': 'गोपनीयता नीति',
     'common.legal.copyright': 'कपिराइट सम्झौता',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {सेवा संविधान}
-    community {समुदाय सिफारिस}
-    privacy {गोपनीयता नीति}
-    copyright {कपिराइट सम्झौता}
-    publishingAgreement {प्रकाशन सम्झौता}
-    other {सम्झौता}
-  } संस्करण {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'यस कागजातको एक नयाँ संस्करण ({newVersion}) {effectiveAt, date}मा प्रभाव पार्नेछ।',
     'common.legal.disclaimer': '© {year} सर्वाधिकार सुरक्षित छ, सबै पाठहरू तिनीहरूका लेखकहरूलाई स्वतःलाई सम्झौता छ।',
     'premium.only.title': 'पाठ सुनिश्चित गर्न तपाईंको सदस्यता श्रेणी अत्याधिक उच्च छैन',
