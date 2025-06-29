@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Bendruomenės gairės',
     'common.legal.privacy': 'Privatumo politika',
     'common.legal.copyright': 'Autorių teisių susitarimas',
+    'common.legal.cookies': 'Apie slapukus',
+    'cookies.desc': 'Šioje svetainėje naudojami slapukai, kad užtikrintume geriausią patirtį mūsų svetainėje.',
     'common.legal.versionDisplay': `{type, select,
     tos {Paslaugų teikimo sąlygos}
-    community {Bendruomenės nurodymai}
+    community {Bendruomenės gairės}
     privacy {Privatumo politika}
     copyright {Autorių teisių sutartis}
-    publishingAgreement {Leidimo leisti}
+    publishingAgreement {Leidybos sutartis}
+    cookies {Apie slapukus}
     other {Sutartis}
-  } Versija {version} - {date, date}`,
+  } Versija {version} - {date, date}~.`,
     'common.legal.newVersionAvailable': 'Nauja versija ({newVersion}) šio dokumento įsigalios {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Visos teisės saugomos, visi tekstai priklauso jų atitinkamiems autoriams.',
     'premium.only.title': 'Nepakankamai aukštas narystės lygis',
