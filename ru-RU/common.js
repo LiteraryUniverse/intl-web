@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Смотреть все',
     'notice.thankYou': 'Спасибо за Вашу поддержку!',
     'common.dropImageHere': 'Бросьте изображение сюда',
-    'common.legal.publishingAgreement': 'Издательское соглашение'
+    'common.legal.publishingAgreement': 'Издательское соглашение',
+    'upload.dragAndDrop': 'Перетащите сюда файлы или нажмите, чтобы выбрать файлы.'
 };
