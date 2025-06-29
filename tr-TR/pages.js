@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Teknoloji Müdürü',
     'about.jan': 'Jan, Literary Universe\'ün kurucusu, vizyoneri ve teknolojik zekasıdır. Geniş kurgusal evrenlere sahip bir yazar olarak, Jan sık ​​sık teknik hassasiyeti okunabilirlikle dengeleyen hikayeler yazmakta zorluk çekti ve okuyucu deneyimini zedelemeden yazma sürecini basitleştiren bir uygulama oluşturma hedefiyle web geliştirme alanında çalışmalar yapmaya karar verdi.',
     'about.history.text': '2010 yılında Jan, yaratıcı yazma platformunu inşa etme hedefiyle web geliştirme alanındaki bilgisini derinleştirmek için Rochester Teknoloji Enstitüsü\'nde eğitimine başladı. Bu vizyon, 2013 yılında ilk kavram kanıtının Imagine RIT\'de sunulduğunda şekil almaya başladı. Jan eğitimine devam etti ve 2016 yılında, uygulamanın yeni bir sürümü olan Master\'s Capstone Projesi olarak yaratıldı. Proje, 2016 sonbaharında ilerlemeye devam etti ve nihayet bugün gördüğünüz platforma dönüştü.',
-    'copyrights.desc': 'Edebi Evren Telif Hakkı Sözleşmesinin tam metni.',
+    'copyrights.desc': 'Literary Universe\'de Telif Hakları hakkında bilgi.',
     'privacy.desc': 'Edebi Evren Gizlilik Politikasının tam yasal metni.',
     'guidelines.desc': 'Edebiyat Evreni Topluluk Kuralları.',
     'tos.desc': 'Edebiyat Evreni Hizmet Şartlarının Tam Hukuki Metni.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Edebi Evren birçok Açık Kaynak projesi ve ücretsiz kaynak üzerine inşa edilmiştir. Aşağıda bunların listesini bulacaksınız.',
     'about.attributionsMatomo': 'Analitiklerimiz, IP2Location LITE verileri sunan https://lite.ip2location.com adresinden erişilebilen kendine ait barındırılan Matomo kullanmaktadır.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry, 15 yılı aşkın deneyime sahip bir tasarımcıdır. 2010 yılından beri ajanslarda çalışmaktadır ve PERTAMINA, VOA ve Endonezya Turizm Bakanlığı gibi müşterilere hizmet vermiştir. Marka tasarımı, düzen ve UI/UX konularında deneyimli olan Hendry, Edebiyat Evreni\'ni tasarlamak için kendini zorlu hissetmektedir.',
     'about.pavel': 'Web3, Metaverse, Yapay Zeka ve ortaya çıkan diğer teknolojiler - Pavel, Literary Universe\'ü nasıl geliştirebileceğini görmek için hepsini keşfediyor. Gerçek bir çok disiplinli araştırmacı olarak, Pavel birçok alanda içgörüye sahiptir ve platforma yeni ve heyecan verici özellikleri entegre etme üzerinde çalışmaktadır.',
-    'about.seba': 'Bir zamanlar bir oyuncu olan Adam, şimdi becerilerini ve tutkusunu Edebi Evren\'e tam anlamıyla bir geliştirici olma yolunda uyguluyor.'
+    'copyrights.about': 'Literary Universe telif haklarını çok ciddiye almaktadır. Kullanıcılar tarafından yayınlanan tüm içerik kendilerine aittir ve belirtilen lisans altında kullanılabilir. Creative Commons lisanslarının tamamının yanı sıra, Literary Universe ayrıca özel ve özel olmayan 2 ticari lisans sunmaktadır.',
+    'copyrights.nonExclusiveLicense': 'Literary Universe Münhasır Olmayan Lisans, telif hakkı sahibi olarak hiçbir hakkınızı devretmeden Literary Universe\'te yayın yapmanıza olanak tanır. Başka herhangi bir yerde yayınlamakta özgürsünüz. Literary Universe, fikri mülkiyetinizi yalnızca pazarlama amacıyla kullanma hakkını saklı tutar. Fikri mülkiyetinizi Literary Universe\'te satmaya karar verirseniz, platform %30 platform ücreti talep edecektir.',
+    'copyrights.exclusiveLicense': 'Literary Universe Özel Lisansı, yalnızca Literary Universe\'te yayın yapmanıza olanak tanır. Bu, IP\'nizi diğer çevrimiçi platformlarda veya Literary Universe dışında başka bir yerde yayınlayamayacağınız anlamına gelir. Kitap gibi fiziksel bir ortamda yayınlamak istiyorsanız, izin istemeniz gerekir. Eğer Literary Universe 30 gün içinde yanıt vermezse, bu otomatik izin anlamına gelir. Gelecekte size ortaklarımız aracılığıyla fiziksel yayıncılık ve diğer hizmetleri sunmayı umuyoruz. Bizimle iletişime geçmekten korkmayın, başarınızı diliyoruz ve çoğu durumda sadece dolandırıcı şirketlere dikkat ediyoruz. Yine de bu kısıtlayıcıdır, bu nedenle teşekkür olarak platform ücreti yalnızca %10\'dur.',
+    'copyrights.licensesAreImportant': 'Bir lisans seçmek son derece önemlidir ve çalışmanıza gelecekte nasıl erişileceğini etkiler. Seçimi kolaylaştırmak için aşağıdaki lisans seçicimize göz atabilirsiniz.'
 };
