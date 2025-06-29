@@ -120,4 +120,6 @@ export default {
   'contentSelector.myLibrary': 'My library',
   'contentSelector.tabsLabel': 'Search options',
   'contentSelector.title': 'Select Content',
+  'contentSelector.type.story': 'Story',
+  'contentSelector.type.universe': 'Universe',
 };
