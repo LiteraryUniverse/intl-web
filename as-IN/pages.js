@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'জান লিটেৰেৰী ইউনিভার্সৰ স্থাপক, দৃষ্টিগামী আৰু পাঠকৰিত তথ্যজ্ঞানৰ পৰিপূৰ্ণ মন। প্ৰশান্তভাবে বিস্তৃত ভূবনিক জান সাধাৰণভাৱে গল্প পৰিচালনা কৰিবলৈ সমসাময়িকভাৱে পিঠাওৱাৰ চিৰতার্থ ব্যৱহাৰ কৰিছিল। এই চেলেঞঅয়ে বিশ্বাস কৰি তেওঁলোকেই ওয়েব ডেভেলপমেন্ট পঢ়ি লৈ সমস্যাৰহিত দৃষ্টিগত সারুহু গল্প লিখিবলৈ কিয়াপ ঘূৰিয়া গৈছিল। অলপ কালে দুৰ্দশা পূৰ্ণ গল্পৰ লিখনৰ প্ৰক্ৰিয়া সহজ কৰিবলৈ এক অৱশ্যই গল্পৰ পুৰস্কাৰয় ওয়েব উন্নয়ন লক্ষ্যৰে অংশগ্ৰহণ কৰিলে।',
     'about.history.text': '2010 সালে, জান ওয়েব ডেভেলপমেন্টের জ্ঞান আরোগ্য করার জন্য রচেস্টার ইনস্টিটিউট অব টেকনোলজিতে তার অধ্যয়ন শুরু করলেন, ক্রিয়েটিভ রাইটিং প্ল্যাটফর্ম তৈরির লক্ষ্যে। 2013 সালে এই ভাবনাটি আস্টানিজ রাইট প্রুফ অব কনসেপ্ট রাইটের মাধ্যমে দেখানো হয়। জান আরো অধ্যয়ন করলেন এবং 2016 সালে, মাস্টার’স ক্যাপস্টন প্রজেক্ট হিসেবে নতুন আপডেট ভার্সন তৈরি করা হয়েছিল। প্রজেক্টটি পরবর্তীতে বিকাশ করে 2016 সালের পালায় এগিয়ে চলেছিল, পরিবর্তন করে গল্প এখনও এই প্ল্যাটফর্মে উত্পন্ন হয়েছে।',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'সাহিত্যিক বিশ্ব অনেকগুলি ওপেন সোর্স প্রকল্প এবং বিনামূল্যে সম্পদ উপর নির্ভর করে। নীচে আপনি তাদের তালিকা পাবেন।',
     'about.attributionsMatomo': 'আমাদের বিশ্লেষণগুলি স্ব-হোস্টেড মাটোমো ব্যবহার করে যা আইপি2লোকেশন লাইট ডেটা থেকে উপলব্ধ। ডাউনলোড করতে https://lite.ip2location.com দেখুন।',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'হেন্ড্রি স্কনোভিয়ানুস',
     'about.hendry': 'হেন্ড্রি একজন ডিজাইনার যাঁর অধিকাংশ অভিজ্ঞতা আছে। তিনি ২০১০ সাল থেকে এজেন্সি তে কাজ করছেন, তাঁর ক্লায়েন্ট হয়েছে PERTAMINA, VOA, এবং ইন্দোনেশিয়ার পর্যটন মন্ত্রণালয়। ব্র্যান্ডিং, লেআউট এবং UI/UX এ অভিজ্ঞ হয়ে তিনি সাহিত্যিক ইউনিভার্স ডিজাইন করতে উৎসাহিত বোধ করেন।',
     'about.pavel': 'Web3, মেটাৱাৰ্স, AI, আৰু যিকোনো বেগজোৱা প্ৰযুক্তি—ৰ সমূহক চাবলৈ পায়েল লিটেৰেৰী ইউনিভার্স। এখন নবীনতম প্রযুক্তিসমূহক এটালৈকে লিটেৰেৰী ইউনিভার্সৰ এক অসমভূত অংশ। এখন প্ৰশস্তখ্যানৰ গবেষক হৈছে পাবেলে, তেওঁ লিটেৰেৰী ইউনিভার্স ইঞ্জিনে নতুন আৰু উত্সাহজনক সুবিধা সঁজুলিক কৰিব। অনলাইন পঠন অভিজ্ঞতা।',
-    'about.seba': 'একবার একজন গেমার, এখন আদম পূর্ণাঙ্গ ডেভেলপার হতে যাচ্ছেন, তাঁর দক্ষতা এবং উদ্যম সাহিত্যিক বিশ্বকে প্রয়োগ করছেন।'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
