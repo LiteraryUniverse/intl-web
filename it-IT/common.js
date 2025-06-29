@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Linee guida della community',
     'common.legal.privacy': 'Condizioni sulla Privacy',
     'common.legal.copyright': 'Accordo Copyright',
+    'common.legal.cookies': 'Informazioni sui cookie',
+    'cookies.desc': 'Questo sito web utilizza i cookie per garantire la migliore esperienza sul nostro sito web.',
     'common.legal.versionDisplay': `{type, select,
     tos {Termini di servizio}
-    community {Linee guida della community}
+    community {Linee guida della comunità}
     privacy {Informativa sulla privacy}
     copyright {Accordo sul copyright}
-    publishingAgreement {Accordo di pubblicazione}
+    publishingAgreement {Accordo sulla pubblicazione}
+    cookies {Sui cookie}
     other {Accordo}
   } Versione {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nuova versione ({newVersion}) di questo documento entrerà in vigore il {effectiveAt, date}.',
