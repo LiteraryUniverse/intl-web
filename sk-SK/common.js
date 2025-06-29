@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Usmernenia Spoločenstva',
     'common.legal.privacy': 'Zásady ochrany osobných údajov',
     'common.legal.copyright': 'Dohoda o autorských právach',
+    'common.legal.cookies': 'O súboroch cookie',
+    'cookies.desc': 'Táto webová lokalita používa súbory cookie, aby sme vám zabezpečili čo najlepší zážitok z našej webovej lokality.',
     'common.legal.versionDisplay': `{type, select,
     tos {Podmienky služby}
-    community {Usmernenia Spoločenstva}
+    community {Pokyny pre komunitu}
     privacy {Zásady ochrany osobných údajov}
-    copyright {Dohoda o autorských právach}
-    publishingAgreement {Vydavateľská zmluva}
-    other {Dohoda}
-  } Verze {version} - {date, date}`,
+    copyright {Zmluva o autorských právach}
+    publishingAgreement {Zmluva o publikovaní}
+    cookies {O súboroch cookie}
+    other {Zmluva}
+  } Verzia {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nová verzia ({newVersion}) tohto dokumentu nadobudne účinnosť dňa {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všetky práva vyhradené, všetky texty patria ich autorom.',
     'premium.only.title': 'Nedostatočne vysoká členská hodnosť',
