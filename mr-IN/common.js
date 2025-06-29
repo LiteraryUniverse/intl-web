@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'समुदाय मार्गदर्शक',
     'common.legal.privacy': 'गोपनीयता धोरण',
     'common.legal.copyright': 'कॉपीराइट समजूती',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {सेवा शर्ते}
-    community {समुदाय मार्गदर्शके}
-    privacy {गोपनीयता धोरण}
-    copyright {कॉपीराइट समजूती}
-    publishingAgreement {प्रकाशन समजूती}
-    other {समजूती}
-  } संस्करण {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'या कागदपत्राच्या नवीन संस्करणाची ({newVersion}) प्रभावी असेल आणि त्याची कार्यान्वयन होईल {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} सर्व हक्क राखील, सर्व मजकूर त्यांच्या संबंधित लेखकांच्या मालकीची आहे.',
     'premium.only.title': 'प्राधान्य दर्जाची उंची कमी आहे',
