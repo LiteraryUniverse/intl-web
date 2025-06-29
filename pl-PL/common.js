@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Niestandardowy model sztucznej inteligencji',
     'common.viewAll': 'Proszę zobaczyć wszystkie',
     'notice.thankYou': 'Dziękujemy za Państwa wsparcie!',
-    'common.dropImageHere': 'Proszę wrzucić zdjęcie tutaj'
+    'common.dropImageHere': 'Proszę wrzucić zdjęcie tutaj',
+    'common.legal.publishingAgreement': 'Umowa wydawnicza'
 };
