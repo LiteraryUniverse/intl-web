@@ -84,6 +84,6 @@ export default {
     'discovery.aiContent.indicator': 'Этот контент был создан с помощью искусственного интеллекта',
     'discovery.aiContent.indicator.model': 'Модель AI: {model}',
     'discovery.recommendations.storiesTitle': 'Рекомендуемые истории',
-    'discovery.recommendations.recommendationsExplained': 'Рекомендуемые вселенные',
-    'discovery.recommendations.recommendationsSettings': 'Вы можете отключить это в настройках.'
+    'discovery.recommendations.recommendationsExplained': 'Эти истории рекомендуются на основе нашей системы рекомендаций. Она использует машинное обучение, чтобы рекомендовать Вам истории.',
+    'discovery.recommendations.recommendationsSettings': 'Вы можете отключить это в Ваших настройках.'
 };
