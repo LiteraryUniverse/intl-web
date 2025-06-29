@@ -82,6 +82,6 @@ export default {
     'discovery.aiContent.indicator': 'Tento obsah bol vytvorený s pomocou umelej inteligencie',
     'discovery.aiContent.indicator.model': 'Model AI: {model}',
     'discovery.recommendations.storiesTitle': 'Odporúčané príbehy',
-    'discovery.recommendations.recommendationsExplained': 'Odporúčané vesmíry',
+    'discovery.recommendations.recommendationsExplained': 'Tieto príbehy sú odporúčané na základe našich odporúčaní. Ten využíva strojové učenie na odporúčanie príbehov pre vás.',
     'discovery.recommendations.recommendationsSettings': 'Túto funkciu môžete vypnúť v nastaveniach.'
 };
