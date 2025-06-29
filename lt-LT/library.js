@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Sekamos pasakos',
     'library.universes': 'Sekami visatos',
     'bookmark.continueReading': 'Tęsti skaitymą',
-    'bookmark.statusSummary': 'Jūs perskaitėte {readPercent, number, ::percent} iš pasakos.'
+    'bookmark.statusSummary': 'Jūs perskaitėte {readPercent, number, ::percent} iš pasakos.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
