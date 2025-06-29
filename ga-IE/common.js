@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Treoracha Pobail',
     'common.legal.privacy': 'Polasaí Príobháideachais',
     'common.legal.copyright': 'Comhaontú Cearta Cóipcheartaithe',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Téarmaí Seirbhíse}
-    community {Treoirlínte Pobail}
-    privacy {Polasaí Príobháideachta}
-    copyright {Comhaontú Cearta Cóipcheartaithe}
-    publishingAgreement {Comhaontú Foilsithe}
-    other {Comhaontú}
-  } Leagan {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Tiocfaidh leagan nua ({newVersion}) den doiciméad seo i bhfeidhm ar {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Gach ceart ar cosaint, tá gach téacs in úinéireacht a scríbhneoirí féin.',
     'premium.only.title': 'Rang ballraíocht níos ísle nádúrtha',
