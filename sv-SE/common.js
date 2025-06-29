@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Anpassad AI-modell',
     'common.viewAll': 'Visa alla',
     'notice.thankYou': 'Tack för ert stöd!',
-    'common.dropImageHere': 'Släpp en bild här'
+    'common.dropImageHere': 'Släpp en bild här',
+    'common.legal.publishingAgreement': 'Avtal om publicering'
 };
