@@ -85,13 +85,16 @@ export default {
     'common.legal.community': 'Fællesskabsretningslinjer',
     'common.legal.privacy': 'Fortrolighedspolitik',
     'common.legal.copyright': 'Ophavsretsaftale',
+    'common.legal.cookies': 'Om cookies',
+    'cookies.desc': 'Denne hjemmeside bruger cookies for at sikre, at du får den bedste oplevelse på vores hjemmeside.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Vilkår for brug}
-    community {Fællesskabsretningslinjer}
-    privacy {Privatlivspolitik}
-    copyright {Ophavsretsaftale}
-    publishingAgreement {Udgivelsesaftale}
-    other {Aftale}
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'En ny version ({newVersion}) af dette dokument træder i kraft den {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Alle rettigheder forbeholdes, alle tekster tilhører deres respektive forfattere.',
