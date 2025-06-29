@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Model AI khusus',
     'common.viewAll': 'Lihat Semua',
     'notice.thankYou': 'Terima kasih atas dukungan Anda!',
-    'common.dropImageHere': 'Jatuhkan gambar di sini'
+    'common.dropImageHere': 'Jatuhkan gambar di sini',
+    'common.legal.publishingAgreement': 'Perjanjian Penerbitan'
 };
