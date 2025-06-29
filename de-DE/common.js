@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Benutzerdefiniertes KI-Modell',
     'common.viewAll': 'Alle ansehen',
     'notice.thankYou': 'Vielen Dank für Ihre Unterstützung!',
-    'common.dropImageHere': 'Ein Bild hier ablegen'
+    'common.dropImageHere': 'Ein Bild hier ablegen',
+    'common.legal.publishingAgreement': 'Verlagsvertrag'
 };
