@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'יאן הוא המייסד, הרואה חשבון והמוח הטכנולוגי מאחורי Literary Universe. ככותב של יבשות ספרותיות תכליתיות, יאן נתקל לעתים קרובות בקושי לכתוב סיפורים באופן שמאבחן בין דיוק טכני לניגודיות קריאה, בלתי מערער את חוויית הקורא. האתגר הזה הוביל אותו ללמוד פיתוח אינטרנט, עם המטרה ליצור אפליקציה שפשוטה את תהליך כתיבת הסיפורים ביבשות רחבות.',
     'about.history.text': 'בשנת 2010, יאן התחיל את לימודיו במכון טכנולוגיית רוצ\'סטר על מנת להעמיק את הידע שלו בפיתוח אתרי אינטרנט, עם המטרה לבנות פלטפורמה לכתיבה יצירתית. רעיון זה התממש בשנת 2013 כאשר הוצג הראשון תיאום רעיוני בפניות Imagine RIT. יאן המשיך ללמוד ובשנת 2016,  גרסה חדשה של האפליקציה נוצרה כפרויקט גמר שלו בתואר המאסטר. הפרויקט המשיך להתפתח עד סוף סתיו 2016, ובסופו נוצרה הפלטפורמה שאתה רואה היום.',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'ההנחיות לקהילה של Literary Universe.',
     'tos.desc': 'הטקסט המשפטי המלא של תנאי השימוש ב־Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'היקום הספרותי מבוסס על רבים מפרויקטים קוד פתוח ומשאבים חינמיים. למטה תמצא את רשימתם.',
     'about.attributionsMatomo': 'הניתוחים שלנו משתמשים במערכת Matomo המתארחת עצמה עם נתוני IP2Location LITE הזמינים בכתובת https://lite.ip2location.com.',
     'team.name.pjakubec': 'פאבל יאקובץ',
-    'team.name.asebesta': 'אדם שבסטה',
     'about.developer': 'מפתח',
     'about.seniorDeveloper': 'מפתח בכיר',
     'about.juniorDeveloper': 'מפתח צעיר',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'הנדרי סקונוביאנוס',
     'about.hendry': 'הנדרי הוא מעצב עם יותר מ-15 שנות ניסיון. הוא עבד בסוכנות מאז 2010, לקוחותיו כוללים את PERTAMINA, VOA ומשרד התיירות של אינדונזיה. עם ניסיון בברנדינג, פריסת עמוד וגם ב-UI/UX, הוא מרגיש את האתגר לעצב את Literary Universe.',
     'about.pavel': 'ווב3, המטאַווערס, AI וכל טכנולוגיה חדשה שמתפתחת - פאוול חוקר הכל בשביל לראות כיצד אפשר לשפר את Literary Universe. כחוקר מרוב־תחומי אמיתי, פאוול מבין בעניינים רבים ועובד על שילוב תכונות חדשות ומרגשות לפלטפורמה.',
-    'about.seba': 'לשעבר גיימר, אדם נמצא כעת בדרך להפוך למפתח מתמקד, מבצע את הכישורים והתשוקה שלו בסבסטיאן פספורניוס.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
