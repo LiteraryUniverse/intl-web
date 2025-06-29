@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Teknisk chef',
     'about.jan': 'Jan är grundaren, visionären och den tekniska hjärnan bakom Literary Universe. Som skapare av omfattande litterära universum kämpade Jan ofta med att skriva berättelser på ett sätt som balanserade teknisk precision med läsbarhet, utan att kompromissa med läsarens upplevelse. Denna utmaning ledde honom att studera webbutveckling med målet att skapa en applikation som förenklar processen att skriva berättelser inom stora universum.',
     'about.history.text': 'År 2010 började Jan sina studier vid Rochester Institute of Technology för att fördjupa sina kunskaper inom webbutveckling, med målet att bygga en plattform för kreativt skrivande. Denna vision tog form 2013 när den första proof of concept presenterades på Imagine RIT. Jan fortsatte sina studier, och 2016 skapades en ny version av appen som hans Master\'s Capstone Project. Projektet fortsatte att utvecklas under hösten 2016 och utvecklades så småningom till den plattform du ser idag.',
-    'copyrights.desc': 'Den fullständiga texten i Litterära Universums upphovsrättsavtal.',
+    'copyrights.desc': 'Information om upphovsrätt på Literary Universe.',
     'privacy.desc': 'Fullständig juridisk text för Litterära Universums sekretesspolicy.',
     'guidelines.desc': 'Riktlinjer för communityn i det litterära universumet.',
     'tos.desc': 'Fullständig juridisk text för användarvillkoren för det litterära universumet.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe bygger på många Open Source-projekt och gratis resurser. Nedan hittar du deras lista.',
     'about.attributionsMatomo': 'Vår analys använder självhostad Matomo med tillgängliga IP2Location LITE-data från https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Utvecklare',
     'about.seniorDeveloper': 'Senior Utvecklare',
     'about.juniorDeveloper': 'Junior Utvecklare',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry är en designer med över 15 års erfarenhet. Han har arbetat på byrå sedan 2010, med kunder som PERTAMINA, VOA och Indonesiens turistministerium. Med erfarenhet inom varumärkesutveckling, layout och UI/UX känner han sig utmanad att designa Literary Universe.',
     'about.pavel': 'Web3, Metaverkligheten, AI och all framväxande teknik – Pavel utforskar allt för att se hur det kan förbättra Literary Universe. Som en sann tvärvetenskaplig forskare har Pavel insikter inom många områden och arbetar med att integrera nya och spännande funktioner i plattformen.',
-    'about.seba': 'En gång en spelare är Adam nu på väg att bli en fullfjädrad utvecklare och tillämpar sina kunskaper och passion på Literary Universe.'
+    'copyrights.about': 'Literary Universe tar upphovsrätten på största allvar. Allt innehåll som publiceras av användare är deras eget och tillgängligt under den licens som anges. Förutom den fullständiga uppsättningen Creative Commons-licenser erbjuder Literary Universe också 2 kommersiella licenser, exklusiva och icke-exklusiva.',
+    'copyrights.nonExclusiveLicense': 'Den icke-exklusiva licensen för Literary Universe ger dig möjlighet att publicera på Literary Universe utan att ge upp någon av dina rättigheter som upphovsrättsinnehavare. Du är fri att publicera var som helst annars. Literary Universe förbehåller sig endast rätten att använda din IP för marknadsföringsändamål. Om du bestämmer dig för att sälja din IP på Literary Universe kommer plattformen att debitera 30% plattformsavgift.',
+    'copyrights.exclusiveLicense': 'Den exklusiva licensen för Literary Universe ger dig rätt att publicera på Literary Universe exklusivt. Det innebär att du inte kan publicera din IP på andra onlineplattformar eller något annat utanför Literary Universe. Om du vill publicera ett fysiskt medium som en bok måste du be om tillstånd. Om Literary Universe inte svarar inom 30 dagar så är det ett automatiskt samtycke. I framtiden hoppas vi kunna erbjuda dig fysisk publicering och andra tjänster via våra partners. Var inte rädda för att kontakta oss, vi önskar er framgång och i de flesta fall är vi bara ute efter bedrägliga företag. Detta är ändå restriktivt, så som ett tack är plattformsavgiften endast 10%.',
+    'copyrights.licensesAreImportant': 'Att välja licens är oerhört viktigt och påverkar hur ditt arbete kommer att vara tillgängligt i framtiden. För att göra valet enklare kan du kolla in vår licensväljare nedan.'
 };
