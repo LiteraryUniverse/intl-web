@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'ജാന്‍ സൃഷ്ടിച്ചവരും കഥാപാത്രങ്ങളുടെ ബോധത്തിന്റെ അറിവിനെ പ്രകടമാക്കുവാന്‍ പ്രാബല്യം പ്രാപിക്കാനുള്ള മാധ്യമങ്ങളായി ലിറ്റററി യൂണിവേഴ്‌സിന്റെ സ്രഷ്ടാവാണ്. ദീര്‍ഘനിര്‍മ്മാണചടങ്ങുകള്‍ പരമാവധി സഹജമാക്കാനായി കഥകള്‍ എഴുതുമ്പോള്‍ കഠിനം വ്യാകരണപരമായിരുന്നു പരിമിതപ്പെടുത്താനാണ് പ്രയത്നിച്ചത്. ഇതിനായി ഓരോ അപരമാവധി അവിടുത്തെ ലേഖനങ്ങള്‍ പ്രാധാന്യമുള്ള പേജിലോട്ടും ഒരേ പേജില്‍നിന്നും സന്ദര്‍ശിക്കുവാനാകും.',
     'about.history.text': '2010ൽ, ജാൻ വെബ് ഡവലപ്മെന്റിന്റെ അറിവുവളർത്തപ്പെടുത്താൻ റോച്ചേസ്റ്റർ ഇൻസ്റ്റിറ്റ്യൂട്ടിൽ പഠിക്കുന്നതോടെ ആരംഭിച്ചു. ഒരു സൃഷ്ടിസാധനക്കായി സംരംഭം രൂപപ്പെട്ടത് 2013ലെയ്ക്ക് Imagine RIT-ൽ പ്രദർശിപ്പിച്ച പ്രൂഫ് ഓഫ് കൺസപ്റ്റാൻളായി. ജാൻ പഠനങ്ങൾ തുടരിക്കുകയും, 2016ൽ മാന്റോമൺങ്ങളുള്ള കപ്സ്റ്റൺ പ്രോജക്ടായായി അപ്പ് പുതിയ പതിപ്പ് സൃഷ്ടിക്കുകയും ചെയ്തു. 2016ലെ വിപുലീകരണം പതിപ്പുകൾ വികസിച്ചുവരുന്നതുവരെ പ്രോജക്ട് സവിശേഷതകൾ കൈവന്നുവലിച്ചു.',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'സാഹിത്യ പ്രപഞ്ചം പല ഓപ്പൺ സോഴ്സ് പദ്ധതികളും സ്വതന്ത്ര വിവരങ്ങളും ഉപയോഗിക്കുന്നു. താഴെപ്പറയുന്നവയാണ് അവയുടെ പട്ടികം.',
     'about.attributionsMatomo': 'ഞങ്ങളുടെ വിശ്ലവിദ്യ സ്വന്തമായ മാറ്റങ്ങൾ ഉപയോഗിക്കുന്നത് സ്വന്തമായ ഹോസ്റ്റുചെയ്യുന്ന Matomo ആണ്, അതിനാൽ IP2Location LITE ഡാറ്റ ലഭ്യമാണ് https://lite.ip2location.com എന്നിവിടെ.',
     'team.name.pjakubec': 'പാവൽ ജാക്കുബെക്ക്',
-    'team.name.asebesta': 'ആദം ശെബെസ്ത',
     'about.developer': 'ഡെവലപ്പർ',
     'about.seniorDeveloper': 'സീനിയർ ഡെവലപ്പർ',
     'about.juniorDeveloper': 'ജൂനിയർ ഡെവലപ്പർ',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
     'about.pavel': 'Web3, മെട്ടാവര്‍സി, എ.ഐ. എന്നിവയും പുതിയ ടെക്‌നോളജികള്‍ പ്രവീക്ഷിക്കുന്ന പാവേള്‍ അവ സംബന്ധിച്ച് ലിറ്റററി യൂണിവേഴ്‌സിനെ എന്തും പരിപൂര്‍ണ്ണമാക്കുന്നു. പ്രവീക്ഷണത്തിലുള്ള പലപ്പോഴും അറിവിനൊരിക്കലും പ്രദാനം ചെയ്യുന്നവരും പലപ്പോഴും ക്രമീകരിക്കുന്നവരുമായ പരസ്യപ്പെട്ട സവിശേഷതകള്‍ കാണിക്കുന്ന ചുവടെ പ്ലാറ്റ്ഫോമായാണ് ഞങ്ങള്‍ ലിറ്റററി യൂണിവേഴ്‌സിനെ പരിചയപ്പെടുത്തിയത്.',
-    'about.seba': 'ഒരു ഗീക്കനായിരുന്നുവാണ് ആദം, ഇപ്പോൾ സമൗഹിക സാങ്കേതികതയിൽ സമർപ്പിച്ചുയർന്ന ഡവലപ്പർ ആയി മാറിയിട്ടുണ്ട്, സാഹിത്യ യൂണിവേഴ്സിനു തന്നെയുള്ള അറിവുമായി അദമുണ്ട്.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
