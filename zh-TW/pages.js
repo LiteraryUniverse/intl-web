@@ -48,7 +48,7 @@ export default {
     'about.CTO': '首席技術官',
     'about.jan': 'Jan是Literary Universe的創始人、理念家和技術大腦。作為一名廣闊文學宇宙的創作者，Jan常常在寫故事時難以平衡技術精確性和可讀性，而不影響讀者的體驗。這一挑戰促使他學習網頁開發，目標是創建一個簡化在大型宇宙中寫故事過程的應用程序。',
     'about.history.text': '2010年，Jan開始在羅徹斯特理工學院深入研究網絡開發，目標是建立一個創意寫作平台。這一想法在2013年的Imagine RIT上呈現了第一個概念證明。Jan繼續學習，並在2016年，一個新版本的應用程序作為他的碩士畢業項目被創建出來。該項目在2016年秋天繼續進化，最終發展成今天所見的平台。',
-    'copyrights.desc': '文學宇宙版權協議的完整內容。',
+    'copyrights.desc': 'Literary Universe 的版權資訊。',
     'privacy.desc': '文學宇宙隱私政策的完整法律文本。',
     'guidelines.desc': '文學宇宙的社群守則。',
     'tos.desc': '文學宇宙的服務條款完整法律文件。',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe建立在許多開源項目和免費資源的基礎上。下面是它們的清單。',
     'about.attributionsMatomo': '我們的分析使用自託管的Matomo，並使用從https://lite.ip2location.com獲取的IP2Location LITE數據。',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry是一位擁有超過15年經驗的設計師。自2010年起，他一直在代理機構工作，他的客戶包括PERTAMINA、VOA和印度尼西亞旅遊部。擅長品牌設計、版面設計以及UI/UX設計，他對設計文學宇宙感到挑戰。',
     'about.pavel': 'Web3、Metaverse、AI和任何新興技術，Pavel都在探索如何將其應用於豐富Literary Universe。作為一名真正多學科研究人員，Pavel對許多領域都有深入了解，並致力於將新的、令人興奮的功能整合到平台中。',
-    'about.seba': '曾經是一名遊戲玩家的Adam現在正走上成為一名成熟開發者的道路，將他的技能和熱情應用於文學宇宙。'
+    'copyrights.about': 'Literary Universe 非常重視版權。所有用戶發表的內容都是他們自己的，並在指定的許可證下提供。除了全套的Creative Commons授權之外，Literary Universe也提供2種商業授權，分別是專屬和非專屬授權。',
+    'copyrights.nonExclusiveLicense': 'Literary Universe非專屬授權允許您在Literary Universe上發表作品，而不放棄您作為版權持有人的任何權利。您可以自由地在其他地方發表作品。Literary Universe只保留使用您的IP作市場推廣用途的權利。如果您決定在Literary Universe出售您的知識產權，平台將收取30%的平台費用。',
+    'copyrights.exclusiveLicense': 'Literary Universe 獨家授權允許您在 Literary Universe 獨家出版。這意味著您不能在Literary Universe以外的其他網上平台或其他任何地方發表您的IP。如果您想出版書籍等實體媒體，您需要向Literary Universe申請許可。如果Literary Universe在30天內沒有回應，那就表示自動同意。在未來，我們希望通過我們的合作夥伴為您提供實體出版和其他服務。不要害怕聯繫我們，我們希望您的成功，在大多數情況下，我們只是在尋找欺詐公司。但這仍然是有限制的，所以為了感謝您，平台費只收取 10%。',
+    'copyrights.licensesAreImportant': '選擇許可證非常重要，它會影響您的作品將來如何被存取。為了讓選擇更容易，您可以查看我們的授權選擇器。'
 };
