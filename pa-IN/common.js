@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'ਕਮਿਊਨਿਟੀ ਨਿਰਦੇਸ਼',
     'common.legal.privacy': 'ਪਰਦੇਦਾਰੀ ਨੀਤੀ',
     'common.legal.copyright': 'ਕਾਪੀਰਾਈਟ ਐਗਰੀਮੈਂਟ',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ}
-    community {ਕਮਿਊਨਟੀ ਦਿਸ਼ਾ-ਨੀਤੀਆਂ}
-    privacy {ਪਰਦੇਦਾਰੀ ਨੀਤੀ}
-    copyright {ਕਾਪੀਰਾਈਟ ਐਗਰੀਮੈਂਟ}
-    publishingAgreement {ਪ੍ਰਕਾਸ਼ਨ ਐਗਰੀਮੈਂਟ}
-    other {ਐਗਰੀਮੈਂਟ}
-  } ਵਰਜਨ {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'ਇਸ ਦਸਤਾਵੇਜ਼ ({newVersion}) ਦਾ ਨਵਾਂ ਸੰਸਕਰਣ ਲਾਗੂ ਹੋਵੇਗਾ {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} ਸਭ ਹੱਕ ਸੁਰੱਖਿਅਤ, ਸਾਰੇ ਲੇਖਕਾਂ ਦੇ ਲੇਖਾਂ ਦੇ ਹੱਕ ਹਨ।',
     'premium.only.title': 'ਮੈਂਬਰਸ਼ਿਪ ਰੈਂਕ ਬਹੁਤ ਉੱਚ ਨਹੀਂ ਹੈ',
