@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Brugerdefineret AI-model',
     'common.viewAll': 'Se alle',
     'notice.thankYou': 'Tak for din støtte!',
-    'common.dropImageHere': 'Smid et billede her'
+    'common.dropImageHere': 'Smid et billede her',
+    'common.legal.publishingAgreement': 'Aftale om udgivelse'
 };
