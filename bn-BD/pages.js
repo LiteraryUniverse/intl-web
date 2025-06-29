@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'লিটারারি ইউনিভার্সের প্রতিষ্ঠাতা হিসাবে জান একজন প্রতীক্ষাশীল, দর্শনমূলক এবং প্রযুক্তিগত মন। একটি বিশাল সাহিত্যিক বিশ্বে লেখাজোগের মধ্যে সঠিকতার সাথে মনোহীনতার চাপটি নির্ভরযোগ্যভাবে তালুক রাখতে লেখার প্রক্রিয়াকে সহজ করতে জান অনেকেই সমস্যা হয়েছেন। এই চ্যালেঞ্জটি তাকে উদ্দীপ্ত করেছে যাতে বড় বিশ্বের লেখা অন্তর্ভুক্ত হয়ে থাকা গল্প লেখার প্রক্রিয়াটিতে টেকনিকাল সুসংগঠনশীলতা ও পঠনযজ্ঞতা একসঙ্গে বিনিময় করা যায় না। এই লক্ষ্যে সে ওয়েব উন্নয়নের পথে কিছু পর্যালোচনা শুরু করে যাচ্ছেন এবং বড় বিশেষজ্ঞতা আর উজ্জ্বল বৈশিষ্ট্যগুলি ব্লগে এবং ফোরামে এই প্রশ্নবিদ্যাতা সংযুক্ত করতে কাজ করেন।',
     'about.history.text': '২০১০ সালে, জান ওয়েব ডেভেলপমেন্টের জ্ঞানগহনের জন্য রচেস্টার ইনস্টিটিউট অফ টেকনোলজিতে তার অধ্যয়ন শুরু করেন, লেখনী platform তৈরির লক্ষ্যে। এই দরকারিকতা ২০১৩ সালে আকার নিয়েছিল যখন প্রথম প্রমাণ উদাহরণটি Imagine RIT তে প্রদর্শিত হয়। জান তাঁর অধ্যয়ন চালিয়ে এগিয়ে চলেছেন এবং 2016 সালের একটি নতুন সংস্করণ এপ্লিকেশন তাঁর মাস্টার ক্যাপস্টোন প্রকল্প হিসাবে তৈরি করা হয়েছিল। প্রকল্পটি সবোর্ক কাঁচাতে আগত হয়েছিল গ্রীষ্মকালে 2016 সালে ধারণ করে। পরিবেশটি আপনি আজ দেখতে পাচ্ছেন।',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'সাহিত্যিক বিশ্ব অনেকগুলি ওপেন সোর্স প্রকল্প এবং বিনামূল্যে সম্পদ উপর নির্ভর করে। নীচে তাদের তালিকা দেওয়া হয়েছে।',
     'about.attributionsMatomo': 'আমাদের বিশ্লেষণ স্ব-হোস্টেড ম্যাটোমো ব্যবহার করে যা ইপি2লোকেশন লাইট ডেটা সহজলভ্য করা হয় https://lite.ip2location.com।',
     'team.name.pjakubec': 'পাভেল জাকুবেক',
-    'team.name.asebesta': 'আদম শেবেস্তা',
     'about.developer': 'ডেভেলপার',
     'about.seniorDeveloper': 'সিনিয়র ডেভেলপার',
     'about.juniorDeveloper': 'জুনিয়র ডেভেলপার',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'হেন্ড্রি স্কোনোভিয়ানুস',
     'about.hendry': 'হেন্ড্রি একজন ডিজাইনার যাঁর অধিকাংশ অভিজ্ঞতা আছে। তিনি ২০১০ সাল থেকে এজেন্সিতে কাজ করছেন, তাঁর ক্লায়েন্ট হলেন PERTAMINA, VOA এবং ইন্দোনেশিয়ার পর্যটন মন্ত্রণালয়। ব্র্যান্ডিং, লেআউট এবং UI/UX এ অভিজ্ঞ হওয়ার জন্য তিনি লেখাপড়া বিশ্বের ডিজাইন করতে আহ্বানিত মনে করেন।',
     'about.pavel': 'Web3, মেটাভার্স, একাই এবং প্রবর্তনশীল প্রযুক্তি - পাভেল তা সব দেখতে পারেন সে কিভাবে সে লিটারারি ইউনিভার্সকে সমৃদ্ধ করতে পারে। একজন সত্যিকার বহুবিদ্যালয়ী গবেষক হিসাবে পাভেলের অনেক বিষয়ে অভিজ্ঞতা রয়েছে এবং প্ল্যাটফর্মে নতুন এবং উত্কৃষ্ট বৈশিষ্ট্যগুলি সংযুক্ত করার কাজ করেন।',
-    'about.seba': 'একবার একটি গেমার ছিলেন, আদম এখন সম্পূর্ণরূপে ডেভেলপার হতে যাচ্ছেন, তাঁর দক্ষতা এবং সম্প্রেরণা সাহিত্যিক বিশ্বে প্রযোগ করে।'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
