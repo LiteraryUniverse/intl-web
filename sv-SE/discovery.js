@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Detta innehåll har skapats med hjälp av AI',
     'discovery.aiContent.indicator.model': 'AI Modell: {model}',
     'discovery.recommendations.storiesTitle': 'Rekommenderade berättelser',
-    'discovery.recommendations.recommendationsExplained': 'Rekommenderade universum',
+    'discovery.recommendations.recommendationsExplained': 'Dessa berättelser rekommenderas baserat på vår rekommendationsmotor. Den använder maskininlärning för att rekommendera berättelser åt dig.',
     'discovery.recommendations.recommendationsSettings': 'Du kan inaktivera detta i dina inställningar.'
 };
