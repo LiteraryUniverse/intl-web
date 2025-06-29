@@ -8,5 +8,6 @@ export default {
     'bookmark.statusSummary': 'คุณได้อ่านเรื่องนี้แล้ว {readPercent, number, ::percent} ของเรื่อง',
     'library.search.prompt': 'Search your library to find content',
     'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search': 'Search Your Library',
+    'library.search.noResults': 'No results found for your search'
 };
