@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'समुदाय दिशा-निर्देश',
     'common.legal.privacy': 'गोपनीयता नीति',
     'common.legal.copyright': 'कॉपीराइट समझौता',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {उपयोग की शर्तें}
-    community {समुदाय दिशानिर्देश}
-    privacy {गोपनीयता नीति}
-    copyright {कॉपीराइट समझौता}
-    publishingAgreement {प्रकाशन समझौता}
-    other {समझौता}
-  } संस्करण {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'इस दस्तावेज़ का एक नया संस्करण ({newVersion}) {effectiveAt, date}को क्रियान्वित किया जाएगा।',
     'common.legal.disclaimer': '© {year} सभी अधिकार सुरक्षित हैं, सभी पाठक अपने संबंधित लेखकों की संपत्ति हैं।',
     'premium.only.title': 'पात्रता स्तर पर्याप्त नहीं है',
