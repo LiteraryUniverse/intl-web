@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'Jan adalah pendiri, visioner, dan otak teknologi di balik Literary Universe. Sebagai seorang penulis dari alam semesta sastra yang luas, Jan sering kesulitan menulis cerita dengan cara yang seimbang antara ketepatan teknis dan keterbacaan, tanpa mengorbankan pengalaman pembaca. Tantangan ini membawanya untuk mengejar studi dalam pengembangan web, dengan tujuan menciptakan aplikasi yang menyederhanakan proses menulis cerita dalam alam semesta yang besar.',
     'about.history.text': 'Pada tahun 2010, Jan memulai studinya di Rochester Institute of Technology untuk memperdalam pengetahuannya tentang pengembangan web, dengan tujuan membangun platform menulis kreatif. Visi ini terwujud pada tahun 2013 ketika bukti konsep pertama kali disajikan di Imagine RIT. Jan melanjutkan studinya, dan pada tahun 2016, versi baru aplikasi dibuat sebagai Proyek Capstone Master\'s. Proyek ini terus berkembang sepanjang musim gugur 2016, akhirnya menjadi platform yang Anda lihat saat ini.',
-    'copyrights.desc': 'Teks lengkap Perjanjian Hak Cipta Literary Universe.',
+    'copyrights.desc': 'Informasi tentang Hak Cipta di Literary Universe.',
     'privacy.desc': 'Teks hukum lengkap Kebijakan Privasi Literary Universe.',
     'guidelines.desc': 'Pedoman Komunitas Literary Universe.',
     'tos.desc': 'Teks hukum lengkap Syarat Layanan Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe dibangun di atas banyak proyek Sumber Terbuka dan sumber daya gratis. Di bawah ini Anda akan menemukan daftar mereka.',
     'about.attributionsMatomo': 'Analitik kami menggunakan Matomo yang di-host sendiri dengan data IP2Location LITE yang tersedia dari https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Developer',
     'about.seniorDeveloper': 'Senior Developer',
     'about.juniorDeveloper': 'Junior Developer',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry adalah seorang perancang dengan pengalaman lebih dari 15 tahun. Dia telah bekerja di agensi sejak tahun 2010, kliennya seperti PERTAMINA, VOA, dan Kementerian Pariwisata Indonesia. Berpengalaman dalam Branding, tata letak, dan juga UI/UX, dia merasa tertantang untuk mendesain Literary Universe.',
     'about.pavel': 'Web3, Metaverse, Kecerdasan Buatan, dan teknologi baru lainnya — Pavel mengeksplorasinya semua untuk melihat bagaimana hal itu dapat meningkatkan Literary Universe. Sebagai peneliti multidisiplin sejati, Pavel memiliki wawasan dalam banyak bidang dan bekerja untuk mengintegrasikan fitur-fitur baru dan menarik ke dalam platform.',
-    'about.seba': 'Dulu seorang pemain game, Adam sekarang sedang menjalani jalan untuk menjadi pengembang yang sepenuhnya terampil, menerapkan keterampilan dan minatnya ke Literary Universe.'
+    'copyrights.about': 'Literary Universe memperlakukan Hak Cipta dengan sangat serius. Semua konten yang dipublikasikan oleh pengguna adalah milik mereka sendiri dan tersedia di bawah lisensi yang ditentukan. Selain lisensi Creative Commons yang lengkap, Literary Universe juga menawarkan 2 lisensi komersial, eksklusif dan non-eksklusif.',
+    'copyrights.nonExclusiveLicense': 'Lisensi Non-Eksklusif Literary Universe memungkinkan Anda untuk mempublikasikan di Literary Universe tanpa memberikan hak-hak Anda sebagai pemegang hak cipta. Anda bebas untuk menerbitkan di tempat lain. Literary Universe hanya berhak menggunakan IP Anda untuk tujuan pemasaran. Jika Anda memutuskan untuk menjual IP Anda di Literary Universe, platform akan membebankan biaya platform sebesar 30%.',
+    'copyrights.exclusiveLicense': 'Lisensi Eksklusif Literary Universe memungkinkan Anda untuk menerbitkan di Literary Universe secara eksklusif. Itu berarti Anda tidak dapat mempublikasikan IP Anda di platform online lain atau apa pun di luar Literary Universe. Jika Anda ingin menerbitkan media fisik seperti buku, Anda harus meminta izin. Jika Literary Universe tidak memberikan tanggapan dalam 30 hari maka itu adalah persetujuan otomatis. Di masa depan kami berharap dapat menawarkan penerbitan fisik dan layanan lainnya melalui mitra kami. Jangan takut untuk menghubungi kami, kami mengharapkan kesuksesan Anda dan dalam banyak kasus kami hanya mencari perusahaan yang curang. Namun, ini tetap terbatas, jadi sebagai ucapan terima kasih, biaya platform hanya 10%.',
+    'copyrights.licensesAreImportant': 'Memilih lisensi sangat penting dan mempengaruhi bagaimana karya Anda akan diakses di masa depan. Untuk mempermudah pemilihan, Anda dapat melihat pemilih lisensi kami di bawah ini.'
 };
