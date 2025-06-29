@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': 'Konten ini dihasilkan dengan bantuan AI',
     'discovery.aiContent.indicator.model': 'Model AI: {model}',
     'discovery.recommendations.storiesTitle': 'Cerita yang direkomendasikan',
-    'discovery.recommendations.recommendationsExplained': 'Alam semesta yang direkomendasikan',
-    'discovery.recommendations.recommendationsSettings': 'Anda dapat menonaktifkan ini dalam pengaturan Anda.'
+    'discovery.recommendations.recommendationsExplained': 'Cerita-cerita ini direkomendasikan berdasarkan mesin rekomendasi kami. Yang menggunakan pembelajaran mesin untuk merekomendasikan cerita untuk Anda.',
+    'discovery.recommendations.recommendationsSettings': 'Anda dapat menonaktifkan ini di Pengaturan Anda.'
 };
