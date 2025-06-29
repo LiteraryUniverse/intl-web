@@ -344,5 +344,4 @@ export default {
   'notice.thankYou': 'Thank you for your support!',
   'common.dropImageHere': 'Drop an image here',
   'common.legal.publishingAgreement': 'Publishing Agreement',
-  'upload.dragAndDrop': 'Drag and drop files here, or click to select files'
 }
