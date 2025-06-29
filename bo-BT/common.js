@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Privacy Policy',
     'common.legal.copyright': 'Copyright Agreement',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {དགའ་བསད་ཚུ་གི་དོན་ལུ་}
-    community {འགན་ཚུལ་དང་སྡེ་ཚན་}
-    privacy {དགོང་བའི་གྲོགས་ཚང་}
-    copyright {དགོང་དོན་གྲོགས་ཚང་}
-    publishingAgreement {བསྐྱེད་པའི་གྲོགས་ཚང་}
-    other {གྲོགས་ཚང་}
-  } ཐོ་བཀོད་ཚང་ {date, date}- ཐོབ་ཐང་། {version}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'སློབ་ཚན། ({newVersion}) ཡོད་མི་དོན་ཚན་གཅིག་རེ་བ་དང་མཉེན་ཆས་འབྲེལ་བའི་ཡིག་ཆ་འདི་ལ། {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'Not high enough membership rank',
