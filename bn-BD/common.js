@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'সম্প্রদায়ের নির্দেশিকা',
     'common.legal.privacy': 'গোপনীয়তা নীতি',
     'common.legal.copyright': 'কপিরাইট চুক্তি',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {সেবা পাবার শর্তাদি}
-    community {সম্প্রদায়ের নির্দেশিকা}
-    privacy {গোপনীয়তা নীতি}
-    copyright {কপিরাইট চুক্তি}
-    publishingAgreement {প্রকাশনা চুক্তি}
-    other {চুক্তি}
-  } সংস্করণ {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'এই ডকুমেন্টের একটি নতুন সংস্করণ ({newVersion}) কর্মসূচীতে প্রভাবিত হবে {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'পর্যাপ্তভাবে উচ্চতর সদস্যতা র্যাঙ্ক নেই',
