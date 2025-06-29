@@ -89,13 +89,13 @@ export default {
     'cookies.desc': 'Tyto webové stránky používají soubory cookie, aby vám zajistily co nejlepší zážitek z našich webových stránek.',
     'common.legal.versionDisplay': `{type, select,
     tos {Podmínky služby}
-    community {Pokyny pro komunitu}
+    community {Komunitní zásady}
     privacy {Zásady ochrany osobních údajů}
-    copyright {Dohoda o autorských právech}
+    copyright {Ochrana autorských práv}
     publishingAgreement {Dohoda o publikování}
     cookies {O souborech cookie}
     other {Dohoda}
-  } Verze {version} - {date, date}.`,
+  } Verze {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Nová verze ({newVersion}) tohoto dokumentu vstoupí v platnost dne {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich příslušným autorům.',
     'premium.only.title': 'Nedostatečné hodnost členství',
