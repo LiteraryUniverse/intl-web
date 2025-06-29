@@ -76,6 +76,6 @@ export default {
     'discovery.aiContent.indicator': '이 콘텐츠는 AI의 도움을 받아 생성되었습니다.',
     'discovery.aiContent.indicator.model': 'AI 모델: {model}',
     'discovery.recommendations.storiesTitle': '추천 스토리',
-    'discovery.recommendations.recommendationsExplained': '추천 유니버스',
+    'discovery.recommendations.recommendationsExplained': '이러한 스토리는 추천 엔진을 기반으로 추천됩니다. 머신 러닝을 사용하여 사용자에게 스토리를 추천합니다.',
     'discovery.recommendations.recommendationsSettings': '설정에서 이 기능을 비활성화할 수 있습니다.'
 };
