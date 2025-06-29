@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Leitlinien der Gemeinschaft',
     'common.legal.privacy': 'Datenschutzrichtlinie',
     'common.legal.copyright': 'Copyright-Vereinbarung',
+    'common.legal.cookies': 'Über Cookies',
+    'cookies.desc': 'Diese Website verwendet Cookies, um Ihnen das beste Erlebnis auf unserer Website zu bieten.',
     'common.legal.versionDisplay': `{type, select,
     tos {Nutzungsbedingungen}
     community {Community-Richtlinien}
-    privacy {Datenschutzrichtlinie}
+    privacy {Datenschutz}
     copyright {Urheberrechtsvereinbarung}
     publishingAgreement {Veröffentlichungsvereinbarung}
+    cookies {Über Cookies}
     other {Vereinbarung}
   } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Eine neue Version ({newVersion}) dieses Dokuments tritt am {effectiveAt, date} in Kraft.',
