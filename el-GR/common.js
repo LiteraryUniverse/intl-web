@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Προσαρμοσμένο μοντέλο AI',
     'common.viewAll': 'Προβολή όλων',
     'notice.thankYou': 'Σας ευχαριστούμε για την υποστήριξή σας!',
-    'common.dropImageHere': 'Αφήστε μια εικόνα εδώ'
+    'common.dropImageHere': 'Αφήστε μια εικόνα εδώ',
+    'common.legal.publishingAgreement': 'Συμφωνία έκδοσης'
 };
