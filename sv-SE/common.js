@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Visa alla',
     'notice.thankYou': 'Tack för ert stöd!',
     'common.dropImageHere': 'Släpp en bild här',
-    'common.legal.publishingAgreement': 'Avtal om publicering'
+    'common.legal.publishingAgreement': 'Avtal om publicering',
+    'upload.dragAndDrop': 'Dra och släpp filer här, eller klicka för att välja filer'
 };
