@@ -5,5 +5,8 @@ export default {
     'library.stories': 'გამოწერილი ამბები',
     'library.universes': 'გამოყენებული უნივერსები',
     'bookmark.continueReading': 'კიდევ წაკითხვა',
-    'bookmark.statusSummary': 'თქვენ წაიკითხეთ {readPercent, number, ::percent} ისტორია.'
+    'bookmark.statusSummary': 'თქვენ წაიკითხეთ {readPercent, number, ::percent} ისტორია.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
