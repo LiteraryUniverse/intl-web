@@ -90,12 +90,15 @@ export default {
   'common.legal.community': 'Community Guidelines',
   'common.legal.privacy': 'Privacy Policy',
   'common.legal.copyright': 'Copyright Agreement',
+  'common.legal.cookies': 'About cookies',
+  'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
   'common.legal.versionDisplay': `{type, select,
     tos {Terms of Service}
     community {Community Guidelines}
     privacy {Privacy Policy}
     copyright {Copyright Agreement}
     publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
     other {Agreement}
   } Version {version} - {date, date}`,
   'common.legal.newVersionAvailable':
