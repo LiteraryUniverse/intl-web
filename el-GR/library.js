@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Ακολούθησαν ιστορίες',
     'library.universes': 'Ακολουθούμενα σύμπαντα',
     'bookmark.continueReading': 'Συνεχίστε να διαβάζετε',
-    'bookmark.statusSummary': 'Έχετε διαβάσει {readPercent, number, ::percent} της ιστορίας.'
+    'bookmark.statusSummary': 'Έχετε διαβάσει {readPercent, number, ::percent} της ιστορίας.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
