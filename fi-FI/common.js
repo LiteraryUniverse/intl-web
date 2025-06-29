@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Mukautettu tekoälymalli',
     'common.viewAll': 'Näytä kaikki',
     'notice.thankYou': 'Kiitos tuestanne!',
-    'common.dropImageHere': 'Pudota kuva tähän'
+    'common.dropImageHere': 'Pudota kuva tähän',
+    'common.legal.publishingAgreement': 'Kustannussopimus'
 };
