@@ -309,5 +309,6 @@ export default {
     'common.viewAll': '全てを見る',
     'notice.thankYou': 'ご声援ありがとうございました！',
     'common.dropImageHere': 'ここに画像をドロップする',
-    'common.legal.publishingAgreement': '出版契約'
+    'common.legal.publishingAgreement': '出版契約',
+    'upload.dragAndDrop': 'ここにファイルをドラッグ＆ドロップするか、クリックしてファイルを選択します。'
 };
