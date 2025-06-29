@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'जान लिटररी युनिव्हर्सचे संस्थापक, दर्शवाड्या आणि तंत्रज्ञ आहे. हास्यरंगातच्या अत्याधुनिक लॉकिकल युनिव्हर्स लिहिण्याची प्रतिष्ठा रखण्याच्या जान बरोबरच्या कविता आणि लोकप्रिय अणू-प्राथमिक विचारांच्या एकत्रित वापराच्या निर्णयांने सक्रिय बनवले आहे. या संघटनेच्या विकसित प्रक्रियेच्या मार्गावर निबंधनदर्शिका शेवटी बसुन बसल्याने ती महत्त्वाच्या लवकरात एक अंशदार सामेल करणार स्वप्नींच्या वाचनांची सुविधा एखाद्या वेबविकास गोलवाञाच्या अभ्यासाला प्रेरित केली.',
     'about.history.text': '2010 मध्ये, जैनच्या वेब विकासाच्या ज्ञानाची आणि क्रिएटिव्ह राइटिंग प्लॅटफॉर्म निर्माण करणे हे लक्षात घेण्याच्या उद्दिष्टाने, जैनने रॉचेस्टर इंस्टिट्यूट ऑफ टेक्नोलॉजीतीर अभ्यास सुरु केले. या डिझाइनची प्राथम प्रमाणितप्प्ती 2013 मध्ये आयोजित केली गेलेली, Imagine RIT. जैनने आगाऊ अभ्यास सुरू ठेवलेले आणि 2016 मध्ये, मास्टर्स कॅपस्टोन प्रकल्पाच्या नामाखाली एक नवीन आवृत्ती तयार केली. प्रकल्पाचा वाढता-कमतरता 2016 मध्ये असतांतर झाली, अंतिमतः मजी म्हणजे आपण आज पाहत असायला मिळतो प्लॅटफॉर्म.',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'साहित्यिक यूनिव्हर्सच्या समुदाय मार्गदर्शक नियमांचे.',
     'tos.desc': 'साहित्यिक यूनिव्हर्सच्या सेवेचे पूर्ण कायदेशीर मजकूर.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'साहित्यिक विश्वाचा आधार अनेक ओपन सोर्स प्रकल्पांवर आणि मोफत संसाधनांवर आधारित आहे. खालीलप्रमाणे तुम्हाला त्यांची यादी मिळेल.',
     'about.attributionsMatomo': 'आमच्या विश्लेषणांमध्ये आपल्याला स्वत:चे होस्ट केलेले Matomo वापरतो आणि https://lite.ip2location.com या संकेतस्थळावरून उपलब्ध असलेला IP2Location LITE डेटा वापरतो.',
     'team.name.pjakubec': 'पावेल जाकुबेक',
-    'team.name.asebesta': 'आदम शेबेस्टा',
     'about.developer': 'डेव्हलपर',
     'about.seniorDeveloper': 'वरिष्ठ डेव्हलपर',
     'about.juniorDeveloper': 'कनिष्ठ डेव्हलपर',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'हेंड्री स्कोनोवियनस',
     'about.hendry': 'हेंड्री हे डिझायनर आहे ज्याने १५ वर्षांपेक्षा जास्त अनुभव आहे. त्यांनी २०१० पासून एजन्सीमध्ये काम करीत आहे, त्यांचे ग्राहक पर्तामिना, व्हीओए, आणि इंडोनेशियाच्या पर्यटन मंत्रालय असा आहे. ब्रँडिंग, लेआउट आणि UI/UX मध्ये अनुभवी असल्याने त्यांना साहित्यिक विश्वाचे डिझायन करण्याची चुकीची आहे.',
     'about.pavel': 'Web3, मेटाव्हर्स, एआय, आणि कोणत्याही उभ्या प्रौद्योगिकी—पावेल हे सर्व वापरण्याची तपास म्हणून केले आहे की ती कशी किंवा लिटररी युनिव्हर्सला सुधारित करू शकते. सतत बहुविद्यांचे संशोधन करणाऱ्या पावेलला अनेक क्षेत्रांमध्ये आपले अभिप्रेत असतात आणि प्लॅटफॉर्मवर नवीन आणि उत्कृष्ट सुविधा सामिल करण्यासाठी काम करतात.',
-    'about.seba': 'एकदा गेमर होत्या, आदम आता पूर्णपणे विकसकाच्या रास्त्यावर आहे, त्याचे कलेचे कला आणि उत्साह ज्ञानलवण्यात घालून लिटररी युनिव्हर्सासाठी त्याचा वापर करत आहे.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
