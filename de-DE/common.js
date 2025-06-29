@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Alle ansehen',
     'notice.thankYou': 'Vielen Dank für Ihre Unterstützung!',
     'common.dropImageHere': 'Ein Bild hier ablegen',
-    'common.legal.publishingAgreement': 'Verlagsvertrag'
+    'common.legal.publishingAgreement': 'Verlagsvertrag',
+    'upload.dragAndDrop': 'Ziehen Sie die Dateien hierher, oder klicken Sie, um Dateien auszuwählen.'
 };
