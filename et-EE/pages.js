@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Tehnoloogiajuht',
     'about.jan': 'Jan on Literary Universese asutaja, visionäär ja tehnoloogiline mõistus. Kui ulatuslike kirjanduslike maailmade autorina, võitles Jan sageli lugude kirjutamisel tehnilise täpsuse ja loetavuse tasakaalustamisega, ilma et see ohustaks lugeja kogemust. See väljakutse viis ta õpingutele veebiarenduse alal, eesmärgiga luua rakendus, mis lihtsustab suurtes universumites lugude kirjutamise protsessi.',
     'about.history.text': 'Aastal 2010 alustas Jan õpinguid Rochesteri Tehnoloogiainstituudis, et süvendada oma teadmisi veebiarendusest eesmärgiga luua loovkirjutamise platvorm. See visioon võttis tõelise kuju 2013. aastal, mil esimene kontsepti tõestus esitleti Imagine RIT üritusel. Jan jätkas oma õpinguid ja 2016. aastal loodi uus rakenduse versioon tema magistritööna. Projekt arenes edasi 2016. aasta sügisel koos platvormiks, mida täna näete.',
-    'copyrights.desc': 'Kirjandusliku Universumi autoriõiguste lepingu täistekst.',
+    'copyrights.desc': 'Teave autoriõiguste kohta aadressil Literary Universe.',
     'privacy.desc': 'Kirjandusliku Universumi privaatsuspoliitika täielik õiguslik tekst.',
     'guidelines.desc': 'Kirjandusliku Universumi kogukonna juhised.',
     'tos.desc': 'Kirjandusliku Universumi täielikud õiguslikud tingimused.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'Literary Universe põhineb mitmetel avatud lähtekoodiga projektidel ja tasuta ressurssidel. Allpool leiate nende loendi.',
     'about.attributionsMatomo': 'Meie analüütika kasutab isehostitud Matomo\'t koos IP2Location LITE andmetega, mis on saadaval aadressil https://lite.ip2location.com.',
     'team.name.pjakubec': 'Pavel Jakubec',
-    'team.name.asebesta': 'Adam Šebesta',
     'about.developer': 'Arendaja',
     'about.seniorDeveloper': 'Vanemarendaja',
     'about.juniorDeveloper': 'Nooremarendaja',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry on disainer, kellel on üle 15 aasta kogemust. Ta on töötanud agentuuris alates 2010. aastast, tema klientide hulka kuuluvad PERTAMINA, VOA ja Indoneesia turismiministeerium. Ta omab kogemusi brändingu, paigutuse ja ka kasutajaliidese/ -kogemuse alal ning tunneb end väljakutsutuna kujundama Literary Universe\'it.',
     'about.pavel': 'Web3, metavers, tehisintellekt ja muud uued tehnoloogiad - Pavel uurib neid kõiki, et näha, kuidas saab Literary Universet rikastada. Tõelise multidistsiplinaarse uurijana omab Pavel sisendeid mitmetest valdkondadest ja töötab uute ja põnevate funktsioonide integreerimise kallal platvormile.',
-    'about.seba': 'Kunagi mängur, on Adam nüüd teel saamas täieõiguslikuks arendajaks, rakendades oma oskusi ja kirge Literary Universe\'is.'
+    'copyrights.about': 'Literary Universe võtab autoriõigust väga tõsiselt. Kogu sisu, mida kasutajad avaldavad, on nende enda oma ja on saadaval vastavalt litsentsile, mis on määratud. Lisaks täielikule Creative Commons\'i litsentside komplektile pakub Literary Universe ka 2 kommertslitsentsi, eksklusiivset ja mitteeksklusiivset.',
+    'copyrights.nonExclusiveLicense': 'Literary Universe\'i mitte-eksklusiivne litsents võimaldab teil kirjastada Literary Universe\'is, ilma et annaksite ära oma õigusi autoriõiguse omanikuna. Te võite vabalt avaldada kusagil mujal. Literary Universe jätab endale õiguse kasutada teie intellektuaalomandit ainult turunduslikel eesmärkidel. Kui te otsustate oma intellektuaalomandit Literary Universe\'is müüa, võtab platvorm 30% platvormitasu.',
+    'copyrights.exclusiveLicense': 'Kirjandusuniversumi eksklusiivne litsents võimaldab teil avaldada ainult Kirjandusuniversumis. See tähendab, et te ei saa oma intellektuaalomandit avaldada muudel veebiplatvormidel ega mujal väljaspool Literary Universe\'i. Kui soovite avaldada füüsilist meediumit, näiteks raamatut, peate küsima luba. Kui Literary Universe ei vasta 30 päeva jooksul, siis on see automaatne nõusolek. Tulevikus loodame pakkuda teile füüsilist kirjastamist ja muid teenuseid meie partnerite kaudu. Ärge kartke meiega ühendust võtta, me soovime teie edu ja enamasti me lihtsalt vaatame välja petturitest ettevõtted. Siiski on see piirav, nii et tänutäheks on platvormitasu ainult 10%.',
+    'copyrights.licensesAreImportant': 'Litsentsi valimine on äärmiselt oluline ja mõjutab seda, kuidas teie töödele tulevikus ligi pääseb. Valiku lihtsustamiseks saate vaadata meie litsentsi valijat allpool.'
 };
