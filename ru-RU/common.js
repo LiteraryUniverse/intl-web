@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Пользовательская модель искусственного интеллекта',
     'common.viewAll': 'Смотреть все',
     'notice.thankYou': 'Спасибо за Вашу поддержку!',
-    'common.dropImageHere': 'Бросьте изображение сюда'
+    'common.dropImageHere': 'Бросьте изображение сюда',
+    'common.legal.publishingAgreement': 'Издательское соглашение'
 };
