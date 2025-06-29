@@ -5,5 +5,8 @@ export default {
     'library.stories': 'फ़ॉलो की गई कहानियाँ',
     'library.universes': 'फ़ॉलो किए गए यूनिवर्सेस',
     'bookmark.continueReading': 'पढ़ाई जारी रखें',
-    'bookmark.statusSummary': 'आपने कहानी का {readPercent, number, ::percent} पढ़ा है।'
+    'bookmark.statusSummary': 'आपने कहानी का {readPercent, number, ::percent} पढ़ा है।',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
