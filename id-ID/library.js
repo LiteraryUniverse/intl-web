@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Cerita yang diikuti',
     'library.universes': 'Diikuti oleh alam semesta',
     'bookmark.continueReading': 'Lanjutkan membaca',
-    'bookmark.statusSummary': 'Anda telah membaca {readPercent, number, ::percent} dari cerita.'
+    'bookmark.statusSummary': 'Anda telah membaca {readPercent, number, ::percent} dari cerita.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
