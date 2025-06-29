@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Retningslinjer for fellesskapet',
     'common.legal.privacy': 'Personvernregler',
     'common.legal.copyright': 'Opphavsrettavtale',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Vilkår for bruk}
-    community {Retningslinjer for fellesskapet}
-    privacy {Personvernregler}
-    copyright {Opphavsrettavtale}
-    publishingAgreement {Utgivelsesavtale}
-    other {Avtale}
-  } Versjon {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'En ny versjon ({newVersion}) av dette dokumentet vil tre i kraft på {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Alle rettigheter reservert, alle tekster tilhører sine respektive forfattere.',
     'premium.only.title': 'Ikke høy nok medlemsrangering',
