@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'జాన్ లిటరరీ యూనివర్స్ నుంచి ఉన్నట్లు లేదా ఆందోళనం కలిగినటువంటి రచనాత్మక చరిత్రల యొక్క స్థాయిని మనే పేజలో ఉన్న నేపథ్య సమాచారంతో తీసుకురండి. చదివినప్పుడుగానే ఏ వేరే వెబ్ చర్యను ప్రజల ప్రొఫైల్ పేజిలో నేర్పెడితే మరియు మారింత రచయితలు, రీడర్లతో సందేశాలను పంచుకోవడానికి కమ్యూనిటీ ప్రాధాన్యతను పెంచాలని లక్ష్యంతో మేము కోరుకొన్న విపులమైన విశేషాలను ఈ ఎప్పుడు పరచాల్సిన కలనంతికి ఇంటర్నెట్ మధ్యమానికి అపూర్వ అంశాలు తీసుకురండాలని ఉంటాయి.',
     'about.history.text': '2010లో, జాన్ రాచేస్టర్ టెక్నాలజీ ఆఫ్ టెక్నాలజీపై తన తెలుగు అవగాహనను పొందడానికి చదివించాడు, లేదా ఆకృత్రిల రచనా వ్యవసాయం నిర్మించడానికి లక్ష్యంతో. ఈ దృష్టి రూపం తీసుకోవడం 2013లో ఉదాహరణకు భారతదేశీయ కళా మందిరంలో ఆచార్య పల్లవ్ నిర్వహించిన మొదటి నిర్మాణంగా మూడు సంవత్సరాల తర్వాత సిస్టమ్ బస్తవంతం పొందించింది. జాన్ తన అధ్యయనాన్ని కొనసాగించాడు, మరియు 2016లో మాస్టర్స్ క్యాప్స్టోన్ ప్రాజెక్టుగా క్రేతం సృష్టిస్తూ, అనువప్రవేశం అయిన కొత్త వెర్షన్‌ను సృష్టించారు. ప్రాజెక్టు 2016లో కనిపించిన వరకు అభివృద్ధి అయింది, కనీసంగా ప్రచరణలో ఉండే ఈ వినియోగకు మరియు ఇప్పటికే మీరు చూసే ప్లాట్‌ఫారం వికసించబడింది.',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'సాహిత్య యూనివర్స్ చాలా ఉద్యోగ ప్రాజెక్టులపై నిర్మించబడింది మరియు ఉచిత వనరులను ఉపయోగిస్తుంది. క్రిందివరకు మీరు వారి జాబితాను కనుగొనేందుకు ఉంటారు.',
     'about.attributionsMatomo': 'మా విశ్లేషణలు స్వయం-నిలువుగా ఉపయోగిస్తుంది Matomo తో, IP2Location LITE డేటాను https://lite.ip2location.com నుండి అందుబాటులో ఉంది.',
     'team.name.pjakubec': 'పావెల్ జాకుబెక్',
-    'team.name.asebesta': 'ఆదం శెబెస్టా',
     'about.developer': 'డెవలపర్',
     'about.seniorDeveloper': 'సీనియర్ డెవలపర్',
     'about.juniorDeveloper': 'జూనియర్ డెవలపర్',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
     'about.pavel': 'వెబ్3, మీటావర్స్, AI, మరియు అన్ని అభివృద్ధి కలిగిన ప్రజాస్వామ్యం - పావేల్ అది అన్నిటిని చూస్తుంది మరియు కౌటుంబిక గుణాలకు కొలత చేస్తుంది. వాస్తవంగా అనేక ఫీల్డ్ల పై పరిజ్ఞానం కలిగిన అనేక దశలతో పావేల్ క్రియాశీలంగా మారి, ప్లాట్‌ఫారంలో కొత్త మరియు అద్భుత విశేషాలను జోడించడంలో పనులు చేస్తున్నాడు.',
-    'about.seba': 'మొదటిగా ఒక ఖేళ్ళడా, అదికాయంపై పూర్తి రూపంగా మొదలవుతున్న దేవ్వడిగా, తన నేపథ్యం మరియు ఆకర్షణకు పాటు సాహిత్య విమానంలో తన నిపుణతకు అనుగుణంగా వ్యక్తిత్వాన్ని రూపొందించేసుకోవడంలో ఉన్నాడు.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
