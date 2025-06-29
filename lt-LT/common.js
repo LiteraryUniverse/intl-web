@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Peržiūrėti viską',
     'notice.thankYou': 'Dėkojame už paramą!',
     'common.dropImageHere': 'Įmeskite paveikslėlį čia',
-    'common.legal.publishingAgreement': 'Leidybos sutartis'
+    'common.legal.publishingAgreement': 'Leidybos sutartis',
+    'upload.dragAndDrop': 'Vilkite ir nuleiskite čia failus arba spustelėkite , kad pasirinktumėte failus'
 };
