@@ -85,12 +85,15 @@ export default {
     'common.legal.community': 'Normas de la comunidad',
     'common.legal.privacy': 'Política de privacidad',
     'common.legal.copyright': 'Acuerdos de derecho de autor',
+    'common.legal.cookies': 'Acerca de las cookies',
+    'cookies.desc': 'Este sitio web utiliza cookies para garantizarle la mejor experiencia en nuestro sitio web.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Términos de Servicio}
-    community {Directrices de la Comunidad}
-    privacy {Política de Privacidad}
-    copyright {Acuerdo de Copyright}
-    publishingAgreement {Acuerdo de Publicación}
+    tos {Condiciones del servicio}
+    community {Directrices de la comunidad}
+    privacy {Política de privacidad}
+    copyright {Acuerdo de derechos de autor}
+    publishingAgreement {Acuerdo de publicación}
+    cookies {Acerca de las cookies}
     other {Acuerdo}
   } Versión {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Una nueva versión ({newVersion}) de este documento entrará en vigor el {effectiveAt, date}.',
