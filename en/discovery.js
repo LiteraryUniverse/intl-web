@@ -80,6 +80,6 @@ export default {
   'discovery.aiContent.indicator': 'This content was generated with AI assistance',
   'discovery.aiContent.indicator.model': 'AI Model: {model}',
   'discovery.recommendations.storiesTitle': 'Recommended stories',
-  'discovery.recommendations.recommendationsExplained': 'Recommended universes',
-  'discovery.recommendations.recommendationsSettings': 'You can disable this in your settings.'
+  'discovery.recommendations.recommendationsExplained': 'These stories are recommended based on our recommendations engine. Which uses machine learning to recommend stories for you.',
+  'discovery.recommendations.recommendationsSettings': 'You can disable this in Your settings.'
 }
