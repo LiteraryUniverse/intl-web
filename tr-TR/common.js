@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Özel yapay zeka modeli',
     'common.viewAll': 'Tümünü Görüntüle',
     'notice.thankYou': 'Desteğiniz için teşekkür ederiz!',
-    'common.dropImageHere': 'Buraya bir resim bırakın'
+    'common.dropImageHere': 'Buraya bir resim bırakın',
+    'common.legal.publishingAgreement': 'Yayıncılık Sözleşmesi'
 };
