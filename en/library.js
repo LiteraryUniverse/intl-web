@@ -6,8 +6,5 @@ export default {
   'library.universes': 'Followed universes',
   'bookmark.continueReading': 'Continue reading',
   'bookmark.statusSummary':
-    'You have read {readPercent, number, ::percent} of the story.',
-  'library.search.prompt': 'Search your library to find content',
-  'library.yourLibrary': 'Your Library',
-  'library.search': 'Search Your Library'
+    'You have read {readPercent, number, ::percent} of the story.'
 }

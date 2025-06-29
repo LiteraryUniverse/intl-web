@@ -108,4 +108,13 @@ export default {
   'courses.role.owner': 'Proprietário',
   'courses.role.teacher': 'Professor',
   'courses.role.student': 'Estudante',
+  'course.lesson.internalLinks': 'Works on Literary Universe',
+  'course.lesson.internalLinks.description':
+    'Select stories or universes to link to this lesson. These will be available to students as additional resources.',
+  'contentSelector.noSelection': 'No item selected',
+  'contentSelector.selectedItems': 'Selected items',
+  'contentSelector.entireSite': 'Entire site',
+  'contentSelector.myLibrary': 'My library',
+  'contentSelector.tabsLabel': 'Search options',
+  'contentSelector.title': 'Select Content',
 };

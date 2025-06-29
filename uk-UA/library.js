@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Відстежувані історії',
     'library.universes': 'Відстежувані всесвіти',
     'bookmark.continueReading': 'Продовжити читання',
-    'bookmark.statusSummary': 'Ви прочитали {readPercent, number, ::percent} історії.'
+    'bookmark.statusSummary': 'Ви прочитали {readPercent, number, ::percent} історії.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

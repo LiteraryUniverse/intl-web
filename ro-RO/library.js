@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Povești urmărite',
     'library.universes': 'Universuri urmărite',
     'bookmark.continueReading': 'Continuați lectura',
-    'bookmark.statusSummary': 'Ați citit {readPercent, number, ::percent} din poveste.'
+    'bookmark.statusSummary': 'Ați citit {readPercent, number, ::percent} din poveste.',
+    'library.search.prompt': 'Căutați în biblioteca dvs. pentru a găsi conținut',
+    'library.yourLibrary': 'Biblioteca dvs.',
+    'library.search': 'Căutați în biblioteca dvs.'
 };

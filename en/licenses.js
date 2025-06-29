@@ -38,54 +38,54 @@ export default {
   'licenses.name.cc0': 'No Rights Reserved - CC0 1.0',
   'licenses.cc0':
     'Put your work into public domain. In contrast to CC\'s licenses that allow copyright holders to choose from a range of permissions while retaining their copyright, CC0 empowers yet another choice altogether – the choice to opt out of copyright and database protection, and the exclusive rights automatically granted to creators – the "no rights reserved" alternative to our licenses.',
-  
+
   // License Chooser Modal
   'licenses.chooser.title': 'License Chooser',
   'licenses.chooser.button': 'Help me choose a license',
   'licenses.chooser.ariaLabel': 'Choose a license for your work',
   'licenses.chooser.introduction': 'This tool will help you choose the most appropriate license for your work. The license determines how others can use your work and affects your ability to monetize it on Literary Universe.',
-  
+
   // License Chooser Wizard Steps
   'licenses.chooser.step.contentType.title': 'What type of content are you licensing?',
   'licenses.chooser.step.contentType.description': 'The type of content affects which licenses are available to you.',
   'licenses.chooser.step.contentType.original': 'Original Work',
   'licenses.chooser.step.contentType.fanfiction': 'Fan Fiction',
   'licenses.chooser.step.contentType.fanfictionNote': 'Fan fiction works on Literary Universe are automatically assigned the Creative Commons Attribution-NonCommercial license (CC BY-NC). This is because fan fiction is based on copyrighted works owned by others, and commercial use would potentially infringe on those rights.',
-  
+
   'licenses.chooser.step.commercial.title': 'Do you want to monetize your work?',
   'licenses.chooser.step.commercial.description': 'Choosing to monetize your work affects which license is most appropriate.',
   'licenses.chooser.step.commercial.yes': 'Yes, I want to monetize my work',
   'licenses.chooser.step.commercial.no': 'No, I don\'t want to monetize my work',
   'licenses.chooser.step.commercial.monetizeNote': 'To monetize your work on Literary Universe, you\'ll need to use one of our commercial licenses. These licenses allow you to sell your work while maintaining your copyright protection.',
-  
+
   'licenses.chooser.step.exclusivity.title': 'Do you want to publish exclusively on Literary Universe?',
   'licenses.chooser.step.exclusivity.description': 'Choosing exclusivity affects the platform fee and publishing options.',
   'licenses.chooser.step.exclusivity.yes': 'Yes, exclusively on Literary Universe',
   'licenses.chooser.step.exclusivity.no': 'No, I want to publish elsewhere too',
   'licenses.chooser.step.exclusivity.exclusiveNote': 'With exclusive publishing on Literary Universe, you\'ll benefit from a lower platform fee of 10%. This means you keep 90% of your earnings.',
   'licenses.chooser.step.exclusivity.nonExclusiveNote': 'With non-exclusive publishing, you can publish your work on other platforms as well. The platform fee is 30%, which means you keep 70% of your earnings on Literary Universe. In the future, we\'ll provide tools to help you publish to other platforms directly from Literary Universe.',
-  
+
   'licenses.chooser.step.derivatives.title': 'Do you want to allow others to create derivative works?',
   'licenses.chooser.step.derivatives.description': 'Derivative works include adaptations, remixes, or transformations of your original work.',
   'licenses.chooser.step.derivatives.yes': 'Yes, allow derivative works',
   'licenses.chooser.step.derivatives.no': 'No, don\'t allow derivative works',
   'licenses.chooser.step.derivatives.allowNote': 'Allowing derivative works means others can adapt, remix, or transform your work. This can lead to wider distribution and creative reuse of your content.',
   'licenses.chooser.step.derivatives.disallowNote': 'Not allowing derivative works means your work must be passed along unchanged and in whole, though it can still be shared with proper attribution.',
-  
+
   'licenses.chooser.step.attribution.title': 'Do you want to require attribution?',
   'licenses.chooser.step.attribution.description': 'Attribution means others must give you credit when they use your work.',
   'licenses.chooser.step.attribution.yes': 'Yes, require attribution',
   'licenses.chooser.step.attribution.no': 'No, place in public domain (CC0)',
   'licenses.chooser.step.attribution.requireNote': 'Requiring attribution means anyone who uses your work must give you credit in the way you request.',
   'licenses.chooser.step.attribution.publicDomainNote': 'Placing your work in the public domain (CC0) means you waive all copyright and related rights. Others can freely use your work for any purpose without attribution.',
-  
+
   // License Result
   'licenses.chooser.result.commercialTitle': 'Commercial Information',
   'licenses.chooser.result.exclusiveInfo': 'With the Literary Universe Exclusive license, you\'ll benefit from a lower platform fee of 10%. This means you keep 90% of your earnings, but you can only publish this work on Literary Universe.',
   'licenses.chooser.result.nonExclusiveInfo': 'With the Literary Universe Non-Exclusive license, you can publish your work on other platforms as well. The platform fee is 30%, which means you keep 70% of your earnings on Literary Universe. In the future, we\'ll provide tools to help you publish to other platforms directly from Literary Universe.',
   'licenses.chooser.result.fanfictionNote': 'This license is automatically applied to fan fiction works because they are based on copyrighted material owned by others. Commercial use would potentially infringe on those rights.',
   'licenses.chooser.result.selectLicense': 'Select This License',
-  
+
   // Adding missing internationalization strings
   'licenseChooser.contentType.title': 'What type of content are you licensing?',
   'licenseChooser.contentType.description': 'The type of content affects which licenses are available to you.',
@@ -94,45 +94,54 @@ export default {
   'licenseChooser.contentType.fanfiction.title': 'Fan Fiction',
   'licenseChooser.contentType.fanfiction.description': 'Content based on existing works by other creators.',
   'licenseChooser.contentType.fanfiction.note': 'Fan fiction works on Literary Universe are automatically assigned the Creative Commons Attribution-NonCommercial license (CC BY-NC). This is because fan fiction is based on copyrighted works owned by others, and commercial use would potentially infringe on those rights.',
-  
+
   'licenseChooser.commercial.title': 'Do you want to monetize your work?',
   'licenseChooser.commercial.description': 'Choosing to monetize your work affects which license is most appropriate.',
+  'licenseChooser.commercial.yes': 'Yes, I want to monetize my work',
   'licenseChooser.commercial.yes.title': 'Yes, I want to monetize',
   'licenseChooser.commercial.yes.description': 'I want to earn money from my work on Literary Universe.',
+  'licenseChooser.commercial.no': 'No, I don\'t want to monetize my work',
   'licenseChooser.commercial.no.title': 'No, I don\'t want to monetize',
   'licenseChooser.commercial.no.description': 'I want to share my work freely without monetization.',
   'licenseChooser.commercial.note': 'To monetize your work on Literary Universe, you\'ll need to use one of our commercial licenses. These licenses allow you to sell your work while maintaining your copyright protection.',
-  
+
   'licenseChooser.exclusivity.title': 'Do you want to publish exclusively on Literary Universe?',
   'licenseChooser.exclusivity.description': 'Choosing exclusivity affects the platform fee and publishing options.',
+  'licenseChooser.exclusivity.yes': 'Yes, I want to publish exclusively on Literary Universe',
   'licenseChooser.exclusivity.yes.title': 'Yes, exclusively on Literary Universe',
   'licenseChooser.exclusivity.yes.description': 'I will only publish this work on Literary Universe.',
+  'licenseChooser.exclusivity.no': 'No, I want to publish elsewhere as well',
   'licenseChooser.exclusivity.no.title': 'No, I want to publish elsewhere too',
   'licenseChooser.exclusivity.no.description': 'I want to publish this work on other platforms as well.',
   'licenseChooser.exclusivity.exclusive.note': 'With exclusive publishing on Literary Universe, you\'ll benefit from a lower platform fee of 10%. This means you keep 90% of your earnings.',
   'licenseChooser.exclusivity.nonExclusive.note': 'With non-exclusive publishing, you can publish your work on other platforms as well. The platform fee is 30%, which means you keep 70% of your earnings on Literary Universe.',
-  
+
   'licenseChooser.derivatives.title': 'Do you want to allow others to create derivative works?',
   'licenseChooser.derivatives.description': 'Derivative works include adaptations, remixes, or transformations of your original work.',
+  'licenseChooser.derivatives.yes': 'Yes, allow modifications',
   'licenseChooser.derivatives.yes.title': 'Yes, allow derivative works',
   'licenseChooser.derivatives.yes.description': 'Others can adapt, remix, or transform my work.',
+  'licenseChooser.derivatives.no': 'No, don\'t allow modifications (ND)',
   'licenseChooser.derivatives.no.title': 'No, don\'t allow derivative works',
   'licenseChooser.derivatives.no.description': 'My work must be passed along unchanged and in whole.',
-  
+
   'licenseChooser.attribution.title': 'Do you want to require attribution?',
   'licenseChooser.attribution.description': 'Attribution means others must give you credit when they use your work.',
+  'licenseChooser.attribution.yes': 'Yes, require attribution (BY)',
   'licenseChooser.attribution.yes.title': 'Yes, require attribution',
   'licenseChooser.attribution.yes.description': 'Others must give me credit when they use my work.',
+  'licenseChooser.attribution.no': 'No, allow use without attribution (CC0)',
   'licenseChooser.attribution.no.title': 'No, place in public domain (CC0)',
   'licenseChooser.attribution.no.description': 'I waive all copyright and related rights to my work.',
-  
+
   'licenseChooser.commercialUse.title': 'Do you want to allow commercial use of your work?',
   'licenseChooser.commercialUse.description': 'Commercial use means others can use your work for commercial purposes.',
   'licenseChooser.commercialUse.yes.title': 'Yes, allow commercial use',
   'licenseChooser.commercialUse.yes.description': 'Others can use my work for commercial purposes.',
+  'licenseChooser.commercialUse.no': 'No, non-commercial use only (NC)',
   'licenseChooser.commercialUse.no.title': 'No, non-commercial use only',
   'licenseChooser.commercialUse.no.description': 'Others can only use my work for non-commercial purposes.',
-  
+
   'licenseChooser.shareAlike.title': 'Do you want to require Share-Alike?',
   'licenseChooser.shareAlike.description': 'Choose whether others must share their adaptations under the same terms.',
   'licenseChooser.shareAlike.yes.title': 'Share-Alike Required (SA)',
@@ -141,7 +150,7 @@ export default {
   'licenseChooser.shareAlike.no.description': 'Others can distribute adaptations under any terms, even if they are more restrictive than your original license.',
   'licenseChooser.shareAlike.yes': 'Yes, require Share-Alike (SA)',
   'licenseChooser.shareAlike.no': 'No, don\'t require Share-Alike',
-  
+
   'licenseChooser.cc0Confirmation.title': 'Confirm CC0 License (Public Domain)',
   'licenseChooser.cc0Confirmation.description': 'CC0 waives all copyright and related rights to your work, effectively placing it in the public domain. Please confirm your understanding.',
   'licenseChooser.cc0Confirmation.important': 'Important Information',
@@ -152,7 +161,7 @@ export default {
   'licenseChooser.cc0Confirmation.point4': 'This decision is irrevocable once you publish',
   'licenseChooser.cc0Confirmation.waiver': 'I understand that I am waiving all copyright and related rights to my work',
   'licenseChooser.cc0Confirmation.understanding': 'I understand the terms and legal effect of CC0 on my work',
-  
+
   'licenses.learnMore': 'Learn More',
   'licenses.legalText': 'Legal Text',
   'licenses.chooser.back': 'Back',

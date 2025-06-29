@@ -5,5 +5,8 @@ export default {
     'library.stories': 'अनुसरण केलेली कथा',
     'library.universes': 'अनुसरण केलेले विश्व',
     'bookmark.continueReading': 'पुढे वाचा',
-    'bookmark.statusSummary': 'तुम्ही कथेचे {readPercent, number, ::percent} वाचले आहे.'
+    'bookmark.statusSummary': 'तुम्ही कथेचे {readPercent, number, ::percent} वाचले आहे.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

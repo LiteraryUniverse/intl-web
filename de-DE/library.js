@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Verfolgte Geschichten',
     'library.universes': 'Folgende Universen',
     'bookmark.continueReading': 'Lesen Sie weiter',
-    'bookmark.statusSummary': 'Sie haben {readPercent, number, ::percent} der Geschichte gelesen.'
+    'bookmark.statusSummary': 'Sie haben {readPercent, number, ::percent} der Geschichte gelesen.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

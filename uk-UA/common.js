@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Переглянути всі',
     'notice.thankYou': 'Дякуємо за вашу підтримку!',
     'common.dropImageHere': 'Надішліть зображення сюди',
-    'common.legal.publishingAgreement': 'Видавнича угода'
+    'common.legal.publishingAgreement': 'Видавнича угода',
+    'upload.dragAndDrop': 'Перетягніть файли сюди або клацніть, щоб вибрати файли'
 };

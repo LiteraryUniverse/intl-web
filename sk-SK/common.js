@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Zobraziť všetko',
     'notice.thankYou': 'Ďakujeme vám za podporu!',
     'common.dropImageHere': 'Sem vložte obrázok',
-    'common.legal.publishingAgreement': 'Vydavateľská zmluva'
+    'common.legal.publishingAgreement': 'Vydavateľská zmluva',
+    'upload.dragAndDrop': 'Presuňte sem súbory alebo kliknite na tlačidlo a vyberte súbory'
 };

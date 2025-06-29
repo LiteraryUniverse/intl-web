@@ -5,5 +5,8 @@ export default {
     'library.stories': 'סיפורים שנמצאים במעקב',
     'library.universes': 'יקומי המערכת',
     'bookmark.continueReading': 'המשך לקרוא',
-    'bookmark.statusSummary': 'קראת {readPercent, number, ::percent} מהסיפור.'
+    'bookmark.statusSummary': 'קראת {readPercent, number, ::percent} מהסיפור.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

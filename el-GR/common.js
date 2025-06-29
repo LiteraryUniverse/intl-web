@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Προβολή όλων',
     'notice.thankYou': 'Σας ευχαριστούμε για την υποστήριξή σας!',
     'common.dropImageHere': 'Αφήστε μια εικόνα εδώ',
-    'common.legal.publishingAgreement': 'Συμφωνία έκδοσης'
+    'common.legal.publishingAgreement': 'Συμφωνία έκδοσης',
+    'upload.dragAndDrop': 'Σύρετε και αφήστε αρχεία εδώ ή κάντε κλικ για να επιλέξετε αρχεία'
 };

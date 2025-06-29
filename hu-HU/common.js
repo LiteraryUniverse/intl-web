@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Minden megtekintése',
     'notice.thankYou': 'Köszönjük a támogatást!',
     'common.dropImageHere': 'Dobjon ide egy képet',
-    'common.legal.publishingAgreement': 'Kiadói megállapodás'
+    'common.legal.publishingAgreement': 'Kiadói megállapodás',
+    'upload.dragAndDrop': 'Húzza ide a fájlokat, vagy kattintson a fájlok kiválasztásához.'
 };

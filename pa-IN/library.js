@@ -5,5 +5,8 @@ export default {
     'library.stories': 'ਪਿਛੇ ਲਈ ਗਈਆਂ ਕਹਾਣੀਆਂ',
     'library.universes': 'ਪਾਲਿਆ ਗਿਆ ਯੂਨੀਵਰਸ',
     'bookmark.continueReading': 'ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖੋ',
-    'bookmark.statusSummary': 'ਤੁਸੀਂ ਕਹਾਣੀ ਦੀ ਪੜਾਈ ਕੀਤੀ ਹੈ {readPercent, number, ::percent} ਵਾਰ।'
+    'bookmark.statusSummary': 'ਤੁਸੀਂ ਕਹਾਣੀ ਦੀ ਪੜਾਈ ਕੀਤੀ ਹੈ {readPercent, number, ::percent} ਵਾਰ।',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

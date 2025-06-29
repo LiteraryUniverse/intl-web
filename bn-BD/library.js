@@ -5,5 +5,8 @@ export default {
     'library.stories': 'অনুসরণ করা গল্পগুলি',
     'library.universes': 'অনুসরণ করা ইউনিভার্স',
     'bookmark.continueReading': 'পঠিত করা চালিয়ে যান',
-    'bookmark.statusSummary': 'আপনি গল্পের {readPercent, number, ::percent} পড়েছেন।'
+    'bookmark.statusSummary': 'আপনি গল্পের {readPercent, number, ::percent} পড়েছেন।',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

@@ -5,5 +5,8 @@ export default {
     'library.stories': 'అనుసరించిన కథలు',
     'library.universes': 'అనుసరించిన విశ్వాలు',
     'bookmark.continueReading': 'చదువుటకు కొనసాగండి',
-    'bookmark.statusSummary': 'మీరు కథని చదువుతున్నారు {readPercent, number, ::percent} నుండి.'
+    'bookmark.statusSummary': 'మీరు కథని చదువుతున్నారు {readPercent, number, ::percent} నుండి.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

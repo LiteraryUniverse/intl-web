@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Tümünü Görüntüle',
     'notice.thankYou': 'Desteğiniz için teşekkür ederiz!',
     'common.dropImageHere': 'Buraya bir resim bırakın',
-    'common.legal.publishingAgreement': 'Yayıncılık Sözleşmesi'
+    'common.legal.publishingAgreement': 'Yayıncılık Sözleşmesi',
+    'upload.dragAndDrop': 'Dosyaları buraya sürükleyip bırakın veya dosyaları seçmek için tıklayın'
 };

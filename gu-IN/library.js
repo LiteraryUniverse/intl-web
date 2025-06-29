@@ -5,5 +5,8 @@ export default {
     'library.stories': 'અનુસરાયેલી કથાઓ',
     'library.universes': 'અનુસરેલા યુનિવર્સો',
     'bookmark.continueReading': 'વાંચવા જારી રાખો',
-    'bookmark.statusSummary': 'તમે વાંચ્યું છે {readPercent, number, ::percent} વાર્તાનો ભાગ.'
+    'bookmark.statusSummary': 'તમે વાંચ્યું છે {readPercent, number, ::percent} વાર્તાનો ભાગ.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Näytä kaikki',
     'notice.thankYou': 'Kiitos tuestanne!',
     'common.dropImageHere': 'Pudota kuva tähän',
-    'common.legal.publishingAgreement': 'Kustannussopimus'
+    'common.legal.publishingAgreement': 'Kustannussopimus',
+    'upload.dragAndDrop': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.'
 };

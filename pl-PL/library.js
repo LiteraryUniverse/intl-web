@@ -5,5 +5,8 @@ export default {
     'library.stories': 'Obserwowane opowieści',
     'library.universes': 'Podążanie za wszechświatami',
     'bookmark.continueReading': 'Czytaj dalej',
-    'bookmark.statusSummary': 'Przeczytałeś {readPercent, number, ::percent} z historii.'
+    'bookmark.statusSummary': 'Przeczytałeś {readPercent, number, ::percent} z historii.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

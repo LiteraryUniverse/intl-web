@@ -5,5 +5,8 @@ export default {
     'library.stories': '已追蹤的故事',
     'library.universes': '已追蹤的宇宙',
     'bookmark.continueReading': '繼續閱讀',
-    'bookmark.statusSummary': '你已閱讀 {readPercent, number, ::percent} 篇故事。'
+    'bookmark.statusSummary': '你已閱讀 {readPercent, number, ::percent} 篇故事。',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };

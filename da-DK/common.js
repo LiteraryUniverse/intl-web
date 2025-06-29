@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Se alle',
     'notice.thankYou': 'Tak for din støtte!',
     'common.dropImageHere': 'Smid et billede her',
-    'common.legal.publishingAgreement': 'Aftale om udgivelse'
+    'common.legal.publishingAgreement': 'Aftale om udgivelse',
+    'upload.dragAndDrop': 'Træk og slip filer her, eller klik for at vælge filer'
 };
