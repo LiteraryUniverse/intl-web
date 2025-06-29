@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'જાન સાહિત્યિક યુનિવર્સની સ્થાપક, દર્શનીય, અને તકનીકવાળું માણસ છે. વિશાળ સાહિત્યિક યુનિવર્સેન લખવાની જે દવાખાની માહિતીથી અખંડ રીતે લખવામાં જ સામર્થ્યશાળી નિબંધો લખવા મટે પણ એક શાનદાર વાપરાશો ગણવવાની જરૂર આવતી. આ ચૂંટણી તેમજ એકતાચક્ર વિકાસને ઉપયોગ કરતા લખાઈ બ્રાઉઝિંગ પ્રક્રિયામાં મૂલભૂત વધુમાં વધુ વાચકને આકાશમાં પણ આવતી કહાણિનું પ્રકાશ તંબો છે.',
     'about.history.text': '2010માં, જાન ને તેની વેબ વિકાસ વિજ્ઞાનની જ્ઞાન વધારવા માટે અત્યારેય તત્વો પર અભ્યાસ કરવાની શરૂઆત કરી. સાર્વત્રિક લેખન પ્લેટફોર્મ બનાવવાનો ઉદ્દેશ આપવા માંગી હતી. આ આદર્શની ઉમેર ગઈ છે 2013 માં કે પ્રથમ અભ્યાસનો પ્રમાણ. જાનએ તેના અભ્યાસનું આગળ વધવા રહી હતી, અને 2016માં તેની માસ્ટર્સ કેપસ્ટોન પ્રોજેક્ટનો રૂપ ધરાવતા નવી આપનો આવતી હતી. પ્રોજેક્ટનો વિકાસ અંતે પડતા 2016ના પછી વધ્યો, અમુક પર આજે તમે જુઓ છો કેવળ પ્લેટફોર્મ.',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'સાહિત્યિક યુનિવર્સ મહેરબાની કરીને ઘણા ઓપન સોર્સ પ્રોજેક્ટ્સ અને મુક્ત સાધનો પર આધાર રાખે છે. નીચે તેમની યાદી આપેલી છે.',
     'about.attributionsMatomo': 'અમારા વિશ્લેષણમાં આપત્તિ નો ઉપયોગ આપતું માટોમો સાથે સ્વ-હોસ્ટેડ છે, જેમાં IP2Location LITE માહિતી https://lite.ip2location.com પર ઉપલબ્ધ છે.',
     'team.name.pjakubec': 'પાવેલ જકુબેક',
-    'team.name.asebesta': 'આદમ શેબેસ્તા',
     'about.developer': 'ડેવલપર',
     'about.seniorDeveloper': 'સિનિયર ડેવલપર',
     'about.juniorDeveloper': 'જૂનિયર ડેવલપર',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
     'about.pavel': 'વેબ3, મેટાવર્સ, AI અને કોઈપણ ઉભયાંતર ટેકનોલોજી- પાવેલે તેને લઈને સમગ્રતા આપી વાચકના પરિપૂર્ણ અનુભવની સુધારણ માટે તે તેને એકવીં છે. એક સાચું બહુનેતિક શોધશાસ્ત્રજ્ઞ તરીકે, પાવેલને ઘણી વિદ્યાસાગરોનો સમાવેશ છે અને તે મહત્વપૂર્ણ વિશેષજ્ઞ તરીકેલી સમયયોગી વધારાના વીશેષતાઓ ને પ્લેટફોર્મ માં ઉમેરવામાં ગતી મેળવે છે.',
-    'about.seba': 'એકવાર ગેમર, એડમ હવે પૂરી પ્રમુખ ડેવલપર બનવાનો માર્ગ પર છે, તેમની કૌશલ્યો અને ઉત્સાહને સાહિત્યિક વિશ્વ પર લાવવા માટે લાગુ કરી રહ્યા છે.'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
