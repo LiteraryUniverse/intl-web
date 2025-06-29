@@ -5,5 +5,8 @@ export default {
     'library.stories': 'പിന്തുടരുന്ന കഥകൾ',
     'library.universes': 'പിന്തുടരുന്ന മാനദണ്ഡങ്ങൾ',
     'bookmark.continueReading': 'വായിക്കുകയും തുടരുകയും',
-    'bookmark.statusSummary': 'നിങ്ങൾ {readPercent, number, ::percent} കഥയെ വായിച്ചുകൊണ്ടിരിക്കുന്നു.'
+    'bookmark.statusSummary': 'നിങ്ങൾ {readPercent, number, ::percent} കഥയെ വായിച്ചുകൊണ്ടിരിക്കുന്നു.',
+    'library.search.prompt': 'Search your library to find content',
+    'library.yourLibrary': 'Your Library',
+    'library.search': 'Search Your Library'
 };
