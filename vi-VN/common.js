@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Quy tắc cộng đồng',
     'common.legal.privacy': 'Chính Sách Quyền Riêng Tư',
     'common.legal.copyright': 'Thỏa thuận bản quyền',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Điều khoản dịch vụ}
-    community {Hướng dẫn cộng đồng}
-    privacy {Chính sách bảo mật}
-    copyright {Thỏa thuận bản quyền}
-    publishingAgreement {Thỏa thuận xuất bản}
-    other {Thỏa thuận}
-  } Phiên bản {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Một phiên bản mới ({newVersion}) của tài liệu này sẽ có hiệu lực vào {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Tất cả các quyền được bảo lưu, tất cả các văn bản thuộc về tác giả tương ứng.',
     'premium.only.title': 'Xếp hàng thành viên không đủ',
