@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'ជាអ្នកបង្កើនចិត្តគណនីនិយាយនៅលើLLLLtrajectory ដូច្នេះអ្នកសរសេរព័ត៌មានអំពីអ្វីដែលកើតមាននៅក្នុងបរិស្ថានរបស់អ្នកបំផុតនៅក្នុងប្រធានបទរបស់លោក។ ការបោះពុម្ពផ្សេងទៀតត្រូវបានចែកចាយតាមពិសេសក្នុងពេលបង្ហោះឬទៅតាមការតម្លើងដ៏ច្បែប្រទៀតក្នុងពេលដែលកំពុងចែកពិសេសនិងចម្ងាយពីផ្ទៃខាងក្រៅការសរសេរនឹងការអានតែមួយប៉ុណ្ណោះ។ ការបើកគំនិតនេះទូទៅរបស់គាត់ត្រូវបានស្ថាបនឹងការសរុបនៃអ្វីដែលអាចបោះពុម្ពផ្សេងៗចំពោះកម្មវិធីនីមួយៗដែលមានលក្ខណៈប្រសិទ្ធភាព។',
     'about.history.text': 'ក្នុងឆ្នាំ ២០១០ ចៅប្រមូលផ្តល់អ្នកនិពន្ធភាគច្រើននៅក្នុងវិស័យធំរបស់ប្រព័ន្ធដើម្បីពន្យានាការបង្កើតទំព័រអត្តសញ្ញាណសំខាន់ដែលទទួលបាននូវការសរសេរបឋមាការ។ ឧបសម្ដែលនេះបានរកឃើញការបង្ហាញដំណោះស្រាយដែលបានឲ្យតែបានបង្កើតឡើងក្នុងឆ្នាំ ២០១៣ ពេលដែលត្រូវបានបង្ហាញនៅលើ Imagine RIT។ ចៅកន្លាយវគ្គរៀបចំគ្រាប់ឆ្នាំបន្ទាប់មកដែររស់នៅពេលដែលការសរសេរនឹងពេលប៉ុណ្ណោះ ដើរលាយលើលំដាប់ដោយបន្តក្រោយពេល២០១៦។ គម្រោងនេះបានការពន្លឿនពីចំណុចធ្វើដំណើរដោយរយៈពេលពីច័ន្ទ និងបន្ទាប់ពីនេះបានអភិវឌ្ឍន៍របស់វា រហូតដល់កម្មវត្ថុដែលអ្នកឃើញនៅនៅពេលប៉ុណ្ណោះ។',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'កម្មវិធី Literary Universe បានសរសេរលើកម្មវិធីពិសេសច្រើនដែលមានការប្រើប្រាស់ដោយឥតគិតថ្លៃ និងធនធានដែលមានដូចជា។ ខាងក្រោមនេះអ្នកនឹងរកឃើញបញ្ជីរបស់វាពីពិសេស។',
     'about.attributionsMatomo': 'ការវិភាគរយៈពេលស្តង់ដាររបស់យើងប្រើប្រាស់ Matomo ដោយស្វ័យប្រវត្តិការណ៍ IP2Location LITE ដែលអាចរកបានពី https://lite.ip2location.com។',
     'team.name.pjakubec': 'ប៉ាវ៉េល ចាកូប៉ាក់',
-    'team.name.asebesta': 'អាដាម សេបកេស្តា',
     'about.developer': 'អ្នកអភិវឌ្ឍន៍',
     'about.seniorDeveloper': 'អ្នកអភិវឌ្ឍន៍សកម្ម',
     'about.juniorDeveloper': 'អ្នកអភិវឌ្ឍន៍ជាក់ស្តែង',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
     'about.pavel': 'ដោយគ្រោងឥឡូវនេះ លក្ខណៈរបស់ Web3, the Metaverse, AI, និងបច្ចុប្បន្នភាពជាការអានចំពោះការលើកទឹកស្ដេចកាត់ពីរវិសេវាអាននៅលីនុចច្រើនដូច្នេះជាមូលដ្ឋានអភិរក្សច្បាស់មួយៗដែលត្រូវបានរក្សា។ នៅពេលដែលអ្នកអានកំពុងវាយតំលើកបរិស្ថាន FreeThis និងត្រូវបានគេចែកចាយដើម្បីបញ្ចប់ក្រុមប្រឹក្សាបរដាប់បំរែដ៏ស្រស់។',
-    'about.seba': 'ចុះហួរកាលពីរបៀបក្រោយពីកម្មវិធីអានអត្តបទេរពន្ធីក្នុងកម្មវិធីបង្កើតទំព័រអត្តសញ្ញាណពិសោធន។ ឧបសម្ដែលនេះឃុំម្នាក់ដឹងពីអ្នកជំនាញនិងពន្ធពីការរស់នៅកម្មវិធីរកប្រៀដទំព័រថ្លៃ។ '
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
