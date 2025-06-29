@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Panduan Komuniti',
     'common.legal.privacy': 'Polisi Privasi',
     'common.legal.copyright': 'Perjanjian Hak Cipta',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {Terma Perkhidmatan}
-    community {Garis Panduan Komuniti}
-    privacy {Dasar Privasi}
-    copyright {Perjanjian Hak Cipta}
-    publishingAgreement {Perjanjian Penerbitan}
-    other {Perjanjian}
-  } Versi {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'Versi baru ({newVersion}) dari dokumen ini akan berlaku pada {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Hak cipta terpelihara, semua teks adalah hak milik penulis masing-masing.',
     'premium.only.title': 'Tidak mempunyai pangkat keahlian yang mencukupi',
