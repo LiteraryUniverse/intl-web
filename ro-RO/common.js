@@ -309,5 +309,6 @@ export default {
     'common.viewAll': 'Vezi toate',
     'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!',
     'common.dropImageHere': 'Aruncați o imagine aici',
-    'common.legal.publishingAgreement': 'Acord de publicare'
+    'common.legal.publishingAgreement': 'Acord de publicare',
+    'upload.dragAndDrop': 'Trageți și plasați fișiere aici sau faceți clic pentru a selecta fișiere'
 };
