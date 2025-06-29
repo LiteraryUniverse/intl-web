@@ -305,5 +305,6 @@ export default {
     'common.aiContent.custom': 'Kohandatud tehisintellekti mudel',
     'common.viewAll': 'Vaata kõiki',
     'notice.thankYou': 'Täname teid toetuse eest!',
-    'common.dropImageHere': 'Pane pilt siia'
+    'common.dropImageHere': 'Pane pilt siia',
+    'common.legal.publishingAgreement': 'Kirjastamisleping'
 };
