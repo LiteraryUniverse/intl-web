@@ -1,5 +1,9 @@
 # Changelog for languages
 
+## 2025-06-29 - v2.17.3
+
+* Revert removal of strings by Crowdin
+
 ## 2025-06-29 - v2.17.2
 
 * New strings for cookies page
