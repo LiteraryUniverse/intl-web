@@ -339,5 +339,6 @@ export default {
 
   'common.viewAll': 'View All',
   'notice.thankYou': 'Thank you for your support!',
-  'common.dropImageHere': 'Drop an image here'
+  'common.dropImageHere': 'Drop an image here',
+  'common.legal.publishingAgreement': 'Publishing Agreement',
 }
