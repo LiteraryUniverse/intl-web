@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Community Guidelines',
     'common.legal.privacy': 'Privacy Policy',
     'common.legal.copyright': 'Copyright Agreement',
+    'common.legal.cookies': 'About cookies',
+    'cookies.desc': 'This website uses cookies to ensure you get the best experience on our website.',
     'common.legal.versionDisplay': `{type, select,
-    tos {ସେବା ଶର୍ତାବଳୀ}
-    community {ଜାମିନ ମାର୍ଗଦର୍ଶିକା}
-    privacy {ଗୋପନୀୟତା ନୀତି}
-    copyright {କାପିରାଇଟ୍ ଚୁକ୍ତି}
-    publishingAgreement {ପ୍ରକାଶନ ଚୁକ୍ତି}
-    other {ଚୁକ୍ତି}
-  } ସଂସ୍କରଣ {version} - {date, date}`,
+    tos {Terms of Service}
+    community {Community Guidelines}
+    privacy {Privacy Policy}
+    copyright {Copyright Agreement}
+    publishingAgreement {Publishing Agreement}
+    cookies {About Cookies}
+    other {Agreement}
+  } Version {version} - {date, date}`,
     'common.legal.newVersionAvailable': 'ଏହି ନିମନ୍ତେ ଏକ ନୂଆ ସଂସ୍କରଣ ({newVersion}) ପ୍ରଭାବିତ ହେବ {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} All rights reserved, all texts belong to their respective authors.',
     'premium.only.title': 'Not high enough membership rank',
