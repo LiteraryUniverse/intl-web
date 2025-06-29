@@ -85,14 +85,17 @@ export default {
     'common.legal.community': 'Pravidla komunity',
     'common.legal.privacy': 'Zásady ochrany osobních údajů',
     'common.legal.copyright': 'Prohlášení o autorských právech',
+    'common.legal.cookies': 'O souborech cookie',
+    'cookies.desc': 'Tyto webové stránky používají soubory cookie, aby vám zajistily co nejlepší zážitek z našich webových stránek.',
     'common.legal.versionDisplay': `{type, select,
     tos {Podmínky služby}
-    community {Komunitní zásady}
+    community {Pokyny pro komunitu}
     privacy {Zásady ochrany osobních údajů}
-    copyright {Ochrana autorských práv}
-    publishingAgreement {Publikační dohoda}
+    copyright {Dohoda o autorských právech}
+    publishingAgreement {Dohoda o publikování}
+    cookies {O souborech cookie}
     other {Dohoda}
-  } Verze {version} - {date, date}`,
+  } Verze {version} - {date, date}.`,
     'common.legal.newVersionAvailable': 'Nová verze ({newVersion}) tohoto dokumentu vstoupí v platnost dne {effectiveAt, date}.',
     'common.legal.disclaimer': '© {year} Všechna práva vyhrazena, všechny texty patří jejich příslušným autorům.',
     'premium.only.title': 'Nedostatečné hodnost členství',
