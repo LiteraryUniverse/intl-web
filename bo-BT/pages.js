@@ -48,7 +48,7 @@ export default {
     'about.CTO': 'Chief Technology Officer',
     'about.jan': 'རྒྱས་བསྐུར་ཚེ་རིང་རང་མིག་འཇུག་གི་དོན་གཞི་སྐོར་འདི་གཟིགས་བརྡ་དོན་སྤོ་ཀཽའི་སྐུལ་བའི་སྟེགས་ལས་དབང་འདྲི་དབང་འཛིན་འདོད་པའི་ཡོད་པ་ལས་རྣམས་འགོད་ཤེས་པ་འོད་ཟིན། དེ་གིས་དངརྩིས་ཀྱིས་ཚེ་རིང་གི་སྐུལ་བའི་ངེས་བཤེས་གཉེན་ལམ་སྤྱོད་འདི་གོད་སྐོར་འདིའི་དོན་གཞི་རྣམ་པར་གནང་འབྱུང་འོད་གསལ་བར་ལག་ལེ།',
     'about.history.text': 'བཟོ་ལས་2010 སློབ་དཔོན་པ  རོགས་པ་ཡོང་བ་བརྒྱད་པའི་ངན་གཉིས་ནས་བག་ཆ་ཡོང་ཚོགས་དང་ལས་བཀུར་བཞིན་དེ་གཞིང་གི་རྩིའི་ལས་བྱ་དགོས་པའི་དོན་རྐྱར་སྡུད་བསྐྱེད་པའི་དཔྱད་པའི་བློ་འགྱོ་རྣམས་ཀྱིས་དགོས་པ་བྱེད་པས་འགོས་པར་མཛོད་པའི་2013 ལོང་སློབ་གསར་དཚོས་ཐབས་ཡོང་གི་ཨང་གྲངས་ཀྱི་ལས་བརྩེན་ཞུ་གཞིང་གི་ས་གཞོལ་ཁང་བསྐྱར་ཞུ་སྒྲིག་གཞིའི་དག་ལ་བཅུ་གཉིས་ཡོང་བ་སྨོན་པར་གྱུར་པེ་ཡོང་དོན་ལས་ཚུགས་ལྡོག་པའི་ཚོགས་གྲགས་བྱེད་པའི་དབྱེ་བ་བཞུགས་པ། དཔེར་ན་བཟའ་བ་གི་ལས་དོན་པ་རྐྱབ་ཞུས།',
-    'copyrights.desc': 'The full text of Literary Universe Copyrights Agreement.',
+    'copyrights.desc': 'Information about Copyrights at Literary Universe.',
     'privacy.desc': 'Full legal text of Privacy Policy of Literary Universe.',
     'guidelines.desc': 'Community Guidelines of Literary Universe.',
     'tos.desc': 'Full legal text of Terms of Service of Literary Universe.',
@@ -90,7 +90,6 @@ export default {
     'about.attributionsIntro': 'བསྐྱར་འགྱུར་འབྲེལ་བ་འདི་ལས་སྐབས་ཤེས་པའི་སྒྲིག་འཇུག་ཚིག་པའི་གནད་དོན་དང་རིག་གནས་དང་རིགས་བརྡ་དོན་ལུ་འགྱེད་པ་ཡིན།',
     'about.attributionsMatomo': 'འབྲེལ་བ་འདི་འདི་བསྐྱར་འགྱུར་དང་དེ་འདི་བསྐྱར་འགྱུར་སྒྲིག་འཇུག་གི་སྒྲིག་འཇུག་སྒྲིག་འཇུག་གི་གནད་དོན་ལུ་བསྐྱར་འགྱུར་བརྡ་དོན་ལུ་ཡོད་པའི་གནད་དོན་དང་རིག་གནས་དང་རིགས་བརྡ་དོན་ལུ་འགྱེད་པ་ཡིན་པས། https://lite.ip2location.com ལས་སྐབས་ཤེས་པའི་IP2Location LITE གནད་དོན་བསྐྱར་འགྱུར་ལུ་བསྐྱར་འགྱུར་བརྡ་དོན་ལུ་འགྱེད་པ་ཡིན།',
     'team.name.pjakubec': 'པ་བཟའ་བཀུཊ་བཟེའི་ཀོརོ་པོ།',
-    'team.name.asebesta': 'ཨ་དམ་ཤེ་བེ་སྟ།',
     'about.developer': 'བརྒྱུད་དབྱེ་བ།',
     'about.seniorDeveloper': 'ཆོས་ཀྱི་བརྒྱུད་དབྱེ་བ།',
     'about.juniorDeveloper': 'ཆོས་ཀྱི་བརྒྱུད་དབྱེ་བ།',
@@ -103,5 +102,8 @@ export default {
     'team.name.hsconovianus': 'Hendry Sconovianus',
     'about.hendry': 'Hendry is a designer with more than 15 years experience. He\'s been working in agency since 2010, his client such as PERTAMINA, VOA, and Ministry tourism of Indonesia. Experienced in Branding, layout and also UI/UX he feels challenged to design Literary Universe.',
     'about.pavel': 'གསན་ནིའི་ངོ་སྤྲོད་གནས་ཚད་ལྡེབ་པ་སེང་གེའི་གནས་རིག་ལྷན་དགོས་འགྱུར་ཡིན་པ་བསྡུས་ཡོད་པ་ལས་རྣམས་ཀྱི་ཚགས་སྐྱོང་གི་དཔེ་བཞིའི་རབ་སྐྱོད་དང་ཉོན་མོངས་པར་གྱུར་བཟོའི་དོན་གཞི་ཁ་སྐོར་འདི་འབྱུང་དེ་བཞིའི་དཔེ་བའི་ངེས་བཤེས་ཀྱི་བཕྲལ་དབྱོའི་རེ་ལྟ་བསྐྱོད་གནས་བསྡུས་ལོག་དོན་སྤོ་ཀཽ་སྒོམ་ཡག་བསྡུས་ཀྱི་ལས་ཁྱེར་གསལ་བརའི་ཁག་འདོད་པས་གཡོད་པ་དབང་འཛིན་འདོད་ཡོད།',
-    'about.seba': 'སེ་བ་དང་བཅའ་བཟན་འཇུག་པ་ཤེས་པ་འཐུ་གསོ་བཙར་སྦེ་དང་བཅའ་བཀེན་པའི་ངེ་བའི་དཔེ་བསྐྱེད་ཀྱི་ལས་འགོ་བཤད་ནང་བསྐྱར་ཞུ་གསང་བ་དང་ལས་སྦྱོར་བ་བཞུགས་པ་རྣམས་ཀྱི་བཤོལ་གྱོན་པའི་དོན་རྐྱར་སྡུད་གཞིའི་འགོ་བཤད་རྨང་བ་བཞུགས་པའི་ས་གཞོལ་ཁང་གི་དབྱེ་བ་གློ་ཆེན་པའི་དོན་རྐྱར་སྡུད་བསྐྱེད་པའི་མཆན་དུ་འཛོལ་ཆེན་བཟོ་བ་ནས་དཔེར་ན་རྩིའི་ལས་འགོ་བཤད་སྡེབ་ཀྱི་དོན་རྐྱར་གསར་བཀོད་རྣམས་ཀྱི་བུམ་དཔྱད་བསྐྱེད་པའི་དཔེ་བ་གཞུང་ཞུ་དགོས་བསྐུར་ཝེབ་དབང་བ་སླར་ཡངས་སྲུང་རི་ལྟར་གཞིའི་དཔྱད་པ་དོན་ཚན་དོན་ཚན་གྱི་ས་འགོ་བཤད་དང་བསྐྱར་ཞུ་སྒྲིག་གཞིའི་གཞོལ་ཁང་གི་ས་འགོ་བཤད་གནས་སྐབས་ནས་འབྲེལ་བའི་དོན་ཚན་རེ་ས།'
+    'copyrights.about': 'Literary Universe takes Copyright very seriously. All the content that is published by users is their own and available under the license that is specified. Beside the full set of Creative Commons licenses, Literary Universe also offers 2 commercial licenses, exclusive and non-exclusive.',
+    'copyrights.nonExclusiveLicense': 'The Literary Universe Non-Exclusive License allows you to publish on Literary Universe without giving away any of your rights as the copyright holder. You are free to publish anywhere else. Literary Universe only reserves the right to use your IP for marketing purposes. If you decide to sell you IP on Literary Universe the platform will charge 30% platform fee.',
+    'copyrights.exclusiveLicense': 'The Literary Universe Exclusive License allows you to publish on Literary Universe exclusively. That means you can\'t publish your IP on other online platforms or anything else outside of Literary Universe. If you want to publish a physical medium like a book you need to ask as for permission. If Literary Universe doesn\'t respond in 30 days then that is automatic consent. In the future we hope to offer you physical publishing and other services via our partners. Don\'t be afraid to contact us, we wish for your success and in most cases we are just looking out for fraudulent companies. Still this is restrictive, so as a thank you, the platform fee is only 10%.',
+    'copyrights.licensesAreImportant': 'Choosing a license is extremely important and affects how your work will be accessed in the future. To make selection easier you can check out our license chooser bellow.'
 };
