@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Obrigado pelo seu apoio!',
     'common.dropImageHere': 'Coloque uma imagem aqui',
     'common.legal.publishingAgreement': 'Acordo de publicação',
-    'upload.dragAndDrop': 'Arraste e largue ficheiros aqui, ou clique para selecionar ficheiros'
+    'upload.dragAndDrop': 'Arraste e largue ficheiros aqui, ou clique para selecionar ficheiros',
+    'common.orgs': 'Organizations'
 };
