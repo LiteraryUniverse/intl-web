@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Kiitos tuestanne!',
     'common.dropImageHere': 'Pudota kuva tähän',
     'common.legal.publishingAgreement': 'Kustannussopimus',
-    'upload.dragAndDrop': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.'
+    'upload.dragAndDrop': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.',
+    'common.orgs': 'Organizations'
 };

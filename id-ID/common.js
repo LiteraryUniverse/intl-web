@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Terima kasih atas dukungan Anda!',
     'common.dropImageHere': 'Jatuhkan gambar di sini',
     'common.legal.publishingAgreement': 'Perjanjian Penerbitan',
-    'upload.dragAndDrop': 'Seret dan letakkan file di sini, atau klik untuk memilih file'
+    'upload.dragAndDrop': 'Seret dan letakkan file di sini, atau klik untuk memilih file',
+    'common.orgs': 'Organizations'
 };

@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Tack för ert stöd!',
     'common.dropImageHere': 'Släpp en bild här',
     'common.legal.publishingAgreement': 'Avtal om publicering',
-    'upload.dragAndDrop': 'Dra och släpp filer här, eller klicka för att välja filer'
+    'upload.dragAndDrop': 'Dra och släpp filer här, eller klicka för att välja filer',
+    'common.orgs': 'Organizations'
 };

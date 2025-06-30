@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': '여러분의 성원에 감사드립니다!',
     'common.dropImageHere': '여기에 이미지 드롭',
     'common.legal.publishingAgreement': '게시 계약',
-    'upload.dragAndDrop': '파일을 여기로 끌어다 놓거나 클릭하여 파일을 선택합니다.'
+    'upload.dragAndDrop': '파일을 여기로 끌어다 놓거나 클릭하여 파일을 선택합니다.',
+    'common.orgs': 'Organizations'
 };

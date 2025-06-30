@@ -313,5 +313,16 @@ export default {
     'workshop.chapter.aiModel.custom.placeholder': 'Adja meg a mesterséges intelligencia modell nevét',
     'workshop.chapter.aiGenerated.locked': 'A mesterséges intelligencia tartalmi jelölés nem módosítható, mivel azt a moderációs csapat már módosította.',
     'workshop.monetization.aiNotEligible': 'A mesterséges intelligencia által generált tartalom nem jogosult a pénzzé tételre.',
-    'workshop.license.exclusiveUniverse': 'Az univerzum kizárólagos licencet használ, ami azt jelenti, hogy a jogi káosz elkerülése érdekében minden történetnek ugyanazt a licencet kell követnie.'
+    'workshop.license.exclusiveUniverse': 'Az univerzum kizárólagos licencet használ, ami azt jelenti, hogy a jogi káosz elkerülése érdekében minden történetnek ugyanazt a licencet kell követnie.',
+    'workshop.theWay.overallStats.genresDesc': 'Genres you write in',
+    'workshop.theWay.overallStats.universeViewsDesc': 'Total views across all your universes',
+    'workshop.theWay.overallStats.storyViewsDesc': 'Total views across all your stories',
+    'workshop.theWay.overallStats.uniqueReadersDesc': 'Unique visitors who have read your stories',
+    'workshop.theWay.overallStats.followersDesc': 'People who follow your work',
+    'workshop.theWay.overallStats.fansDesc': 'People who have subscribed to your fan club',
+    'workshop.theWay.overallStats.encyclopediaEntriesDesc': 'Total encyclopedia entries you have created',
+    'workshop.theWay.overallStats.wordCountDesc': 'Total words across all your stories',
+    'workshop.theWay.overallStats.chaptersDesc': 'Total chapters you have written',
+    'workshop.theWay.overallStats.universesDesc': 'Total universes you have created',
+    'workshop.theWay.overallStats.storiesDesc': 'Total stories you have published'
 };

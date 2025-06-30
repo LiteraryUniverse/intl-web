@@ -313,5 +313,16 @@ export default {
     'workshop.chapter.aiModel.custom.placeholder': 'Geben Sie den Namen des KI-Modells ein',
     'workshop.chapter.aiGenerated.locked': 'Die Kennzeichnung von KI-Inhalten kann nicht geändert werden, da sie vom Moderationsteam angepasst wurde.',
     'workshop.monetization.aiNotEligible': 'KI-generierte Inhalte sind nicht für die Monetarisierung geeignet.',
-    'workshop.license.exclusiveUniverse': 'Das Universum verwendet eine Exklusivlizenz, was bedeutet, dass auch alle Geschichten derselben Lizenz folgen müssen, um ein rechtliches Chaos zu vermeiden.'
+    'workshop.license.exclusiveUniverse': 'Das Universum verwendet eine Exklusivlizenz, was bedeutet, dass auch alle Geschichten derselben Lizenz folgen müssen, um ein rechtliches Chaos zu vermeiden.',
+    'workshop.theWay.overallStats.genresDesc': 'Genres you write in',
+    'workshop.theWay.overallStats.universeViewsDesc': 'Total views across all your universes',
+    'workshop.theWay.overallStats.storyViewsDesc': 'Total views across all your stories',
+    'workshop.theWay.overallStats.uniqueReadersDesc': 'Unique visitors who have read your stories',
+    'workshop.theWay.overallStats.followersDesc': 'People who follow your work',
+    'workshop.theWay.overallStats.fansDesc': 'People who have subscribed to your fan club',
+    'workshop.theWay.overallStats.encyclopediaEntriesDesc': 'Total encyclopedia entries you have created',
+    'workshop.theWay.overallStats.wordCountDesc': 'Total words across all your stories',
+    'workshop.theWay.overallStats.chaptersDesc': 'Total chapters you have written',
+    'workshop.theWay.overallStats.universesDesc': 'Total universes you have created',
+    'workshop.theWay.overallStats.storiesDesc': 'Total stories you have published'
 };

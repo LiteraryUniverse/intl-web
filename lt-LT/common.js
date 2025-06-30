@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Dėkojame už paramą!',
     'common.dropImageHere': 'Įmeskite paveikslėlį čia',
     'common.legal.publishingAgreement': 'Leidybos sutartis',
-    'upload.dragAndDrop': 'Vilkite ir nuleiskite čia failus arba spustelėkite , kad pasirinktumėte failus'
+    'upload.dragAndDrop': 'Vilkite ir nuleiskite čia failus arba spustelėkite , kad pasirinktumėte failus',
+    'common.orgs': 'Organizations'
 };

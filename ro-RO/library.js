@@ -8,6 +8,5 @@ export default {
     'bookmark.statusSummary': 'Ați citit {readPercent, number, ::percent} din poveste.',
     'library.search.prompt': 'Căutați în biblioteca dvs. pentru a găsi conținut',
     'library.yourLibrary': 'Biblioteca dvs.',
-    'library.search': 'Căutați în biblioteca dvs.',
-    'library.search.noResults': 'No results found for your search'
+    'library.search': 'Căutați în biblioteca dvs.'
 };
