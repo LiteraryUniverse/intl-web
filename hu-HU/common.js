@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Köszönjük a támogatást!',
     'common.dropImageHere': 'Dobjon ide egy képet',
     'common.legal.publishingAgreement': 'Kiadói megállapodás',
-    'upload.dragAndDrop': 'Húzza ide a fájlokat, vagy kattintson a fájlok kiválasztásához.'
+    'upload.dragAndDrop': 'Húzza ide a fájlokat, vagy kattintson a fájlok kiválasztásához.',
+    'common.orgs': 'Organizations'
 };
