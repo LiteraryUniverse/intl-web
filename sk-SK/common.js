@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Ďakujeme vám za podporu!',
     'common.dropImageHere': 'Sem vložte obrázok',
     'common.legal.publishingAgreement': 'Vydavateľská zmluva',
-    'upload.dragAndDrop': 'Presuňte sem súbory alebo kliknite na tlačidlo a vyberte súbory'
+    'upload.dragAndDrop': 'Presuňte sem súbory alebo kliknite na tlačidlo a vyberte súbory',
+    'common.orgs': 'Organizations'
 };
