@@ -8,6 +8,5 @@ export default {
     'bookmark.statusSummary': 'మీరు కథని చదువుతున్నారు {readPercent, number, ::percent} నుండి.',
     'library.search.prompt': 'Search your library to find content',
     'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library',
-    'library.search.noResults': 'No results found for your search'
+    'library.search': 'Search Your Library'
 };
