@@ -313,5 +313,16 @@ export default {
     'workshop.chapter.aiModel.custom.placeholder': 'Inserisca il nome del modello AI',
     'workshop.chapter.aiGenerated.locked': 'La marcatura del contenuto AI non può essere modificata perché è stata regolata dal team di moderazione.',
     'workshop.monetization.aiNotEligible': 'I contenuti generati dall\'AI non sono monetizzabili.',
-    'workshop.license.exclusiveUniverse': 'L\'universo utilizza una licenza esclusiva, il che significa che anche tutte le storie devono seguire la stessa licenza per evitare il caos legale.'
+    'workshop.license.exclusiveUniverse': 'L\'universo utilizza una licenza esclusiva, il che significa che anche tutte le storie devono seguire la stessa licenza per evitare il caos legale.',
+    'workshop.theWay.overallStats.genresDesc': 'Genres you write in',
+    'workshop.theWay.overallStats.universeViewsDesc': 'Total views across all your universes',
+    'workshop.theWay.overallStats.storyViewsDesc': 'Total views across all your stories',
+    'workshop.theWay.overallStats.uniqueReadersDesc': 'Unique visitors who have read your stories',
+    'workshop.theWay.overallStats.followersDesc': 'People who follow your work',
+    'workshop.theWay.overallStats.fansDesc': 'People who have subscribed to your fan club',
+    'workshop.theWay.overallStats.encyclopediaEntriesDesc': 'Total encyclopedia entries you have created',
+    'workshop.theWay.overallStats.wordCountDesc': 'Total words across all your stories',
+    'workshop.theWay.overallStats.chaptersDesc': 'Total chapters you have written',
+    'workshop.theWay.overallStats.universesDesc': 'Total universes you have created',
+    'workshop.theWay.overallStats.storiesDesc': 'Total stories you have published'
 };
