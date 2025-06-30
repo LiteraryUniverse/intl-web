@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Vă mulțumim pentru sprijinul dumneavoastră!',
     'common.dropImageHere': 'Aruncați o imagine aici',
     'common.legal.publishingAgreement': 'Acord de publicare',
-    'upload.dragAndDrop': 'Trageți și plasați fișiere aici sau faceți clic pentru a selecta fișiere'
+    'upload.dragAndDrop': 'Trageți și plasați fișiere aici sau faceți clic pentru a selecta fișiere',
+    'common.orgs': 'Organizations'
 };
