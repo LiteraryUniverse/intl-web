@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Спасибо за Вашу поддержку!',
     'common.dropImageHere': 'Бросьте изображение сюда',
     'common.legal.publishingAgreement': 'Издательское соглашение',
-    'upload.dragAndDrop': 'Перетащите сюда файлы или нажмите, чтобы выбрать файлы.'
+    'upload.dragAndDrop': 'Перетащите сюда файлы или нажмите, чтобы выбрать файлы.',
+    'common.orgs': 'Organizations'
 };
