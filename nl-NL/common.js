@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'Hartelijk dank voor uw steun!',
     'common.dropImageHere': 'Drop hier een afbeelding',
     'common.legal.publishingAgreement': 'Uitgaveovereenkomst',
-    'upload.dragAndDrop': 'Sleep bestanden hierheen, of klik om bestanden te selecteren'
+    'upload.dragAndDrop': 'Sleep bestanden hierheen, of klik om bestanden te selecteren',
+    'common.orgs': 'Organizations'
 };
