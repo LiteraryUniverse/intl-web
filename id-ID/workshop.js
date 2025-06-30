@@ -313,5 +313,16 @@ export default {
     'workshop.chapter.aiModel.custom.placeholder': 'Masukkan nama model AI',
     'workshop.chapter.aiGenerated.locked': 'Penandaan konten AI tidak dapat diubah karena telah disesuaikan oleh tim moderasi.',
     'workshop.monetization.aiNotEligible': 'Konten yang dihasilkan oleh AI tidak memenuhi syarat untuk dimonetisasi.',
-    'workshop.license.exclusiveUniverse': 'The Universe menggunakan lisensi eksklusif, yang berarti bahwa semua cerita juga harus mengikuti lisensi yang sama untuk mencegah kekacauan hukum.'
+    'workshop.license.exclusiveUniverse': 'The Universe menggunakan lisensi eksklusif, yang berarti bahwa semua cerita juga harus mengikuti lisensi yang sama untuk mencegah kekacauan hukum.',
+    'workshop.theWay.overallStats.genresDesc': 'Genres you write in',
+    'workshop.theWay.overallStats.universeViewsDesc': 'Total views across all your universes',
+    'workshop.theWay.overallStats.storyViewsDesc': 'Total views across all your stories',
+    'workshop.theWay.overallStats.uniqueReadersDesc': 'Unique visitors who have read your stories',
+    'workshop.theWay.overallStats.followersDesc': 'People who follow your work',
+    'workshop.theWay.overallStats.fansDesc': 'People who have subscribed to your fan club',
+    'workshop.theWay.overallStats.encyclopediaEntriesDesc': 'Total encyclopedia entries you have created',
+    'workshop.theWay.overallStats.wordCountDesc': 'Total words across all your stories',
+    'workshop.theWay.overallStats.chaptersDesc': 'Total chapters you have written',
+    'workshop.theWay.overallStats.universesDesc': 'Total universes you have created',
+    'workshop.theWay.overallStats.storiesDesc': 'Total stories you have published'
 };
