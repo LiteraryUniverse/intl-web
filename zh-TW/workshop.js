@@ -313,5 +313,16 @@ export default {
     'workshop.chapter.aiModel.custom.placeholder': '輸入 AI 模型的名稱',
     'workshop.chapter.aiGenerated.locked': 'AI 內容標記不能變更，因為它已由審核團隊調整。',
     'workshop.monetization.aiNotEligible': 'AI 產生的內容不符合貨幣化的條件。',
-    'workshop.license.exclusiveUniverse': '宇宙使用專屬授權，這表示所有故事也必須遵循相同的授權，以避免法律上的混亂。'
+    'workshop.license.exclusiveUniverse': '宇宙使用專屬授權，這表示所有故事也必須遵循相同的授權，以避免法律上的混亂。',
+    'workshop.theWay.overallStats.genresDesc': 'Genres you write in',
+    'workshop.theWay.overallStats.universeViewsDesc': 'Total views across all your universes',
+    'workshop.theWay.overallStats.storyViewsDesc': 'Total views across all your stories',
+    'workshop.theWay.overallStats.uniqueReadersDesc': 'Unique visitors who have read your stories',
+    'workshop.theWay.overallStats.followersDesc': 'People who follow your work',
+    'workshop.theWay.overallStats.fansDesc': 'People who have subscribed to your fan club',
+    'workshop.theWay.overallStats.encyclopediaEntriesDesc': 'Total encyclopedia entries you have created',
+    'workshop.theWay.overallStats.wordCountDesc': 'Total words across all your stories',
+    'workshop.theWay.overallStats.chaptersDesc': 'Total chapters you have written',
+    'workshop.theWay.overallStats.universesDesc': 'Total universes you have created',
+    'workshop.theWay.overallStats.storiesDesc': 'Total stories you have published'
 };
