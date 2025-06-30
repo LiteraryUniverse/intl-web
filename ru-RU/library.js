@@ -8,5 +8,6 @@ export default {
     'bookmark.statusSummary': 'Вы прочли {readPercent, number, ::percent} истории.',
     'library.search.prompt': 'Search your library to find content',
     'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search': 'Search Your Library',
+    'library.search.noResults': 'No results found for your search'
 };
