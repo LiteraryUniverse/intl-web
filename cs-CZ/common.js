@@ -311,5 +311,5 @@ export default {
     'common.dropImageHere': 'Vložte obrázek sem',
     'common.legal.publishingAgreement': 'Vydavatelská smlouva',
     'upload.dragAndDrop': 'Přetáhněte sem soubory nebo je vyberte kliknutím.',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizace'
 };
