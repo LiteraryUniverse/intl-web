@@ -310,5 +310,6 @@ export default {
     'notice.thankYou': 'ご声援ありがとうございました！',
     'common.dropImageHere': 'ここに画像をドロップする',
     'common.legal.publishingAgreement': '出版契約',
-    'upload.dragAndDrop': 'ここにファイルをドラッグ＆ドロップするか、クリックしてファイルを選択します。'
+    'upload.dragAndDrop': 'ここにファイルをドラッグ＆ドロップするか、クリックしてファイルを選択します。',
+    'common.orgs': 'Organizations'
 };
