@@ -314,7 +314,7 @@ export default {
     'plans.lifetime.subscription.title': '終身会員',
     'plans.lifetime.subscription.description': '文学ユニバースの終身会員になりました。あなたの素晴らしいサポートに感謝します！',
     'plans.lifetime.subscription.status': 'ステータスアクティブ・フォーエバー',
-    'plans.lifetime.subscription.purchaseDate': 'Purchased on: {date, date, medium}',
+    'plans.lifetime.subscription.purchaseDate': '購入日: {date, date, medium}',
     'plans.lifetime.subscription.noActions': '終身会員になるための手続きは必要ありません。いつまでも特典をお楽しみください！',
     'plans.lifetime.subscription.benefitsTitle': '一生涯の特典',
     'plans.lifetime.subscription.benefit1': '永続的なストーリーテラー・ティアへのアクセス',

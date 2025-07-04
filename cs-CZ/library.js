@@ -6,7 +6,7 @@ export default {
     'library.universes': 'Sledované vesmíry',
     'bookmark.continueReading': 'Pokračovat ve čtení',
     'bookmark.statusSummary': 'Přečetli jste si {readPercent, number, ::percent} příběhu.',
-    'library.search.prompt': 'Search your library to find content',
-    'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search.prompt': 'Hledat ve Vaší knihovně',
+    'library.yourLibrary': 'Vaše knihovna',
+    'library.search': 'Hledejte ve Vaší knihovně'
 };
