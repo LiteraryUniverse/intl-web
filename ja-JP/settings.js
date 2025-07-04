@@ -55,7 +55,7 @@ export default {
     'settings.gender.title': '性別',
     'settings.gender.usage': 'この情報は非公開となります。このデータは、プラットフォームの分析や、クリエーターのストーリを読んだ際、匿名で分析に使用します。',
     'settings.age.title': 'あなたの年齢',
-    'settings.age.explicit': 'Show explicit content (age rating 21+)',
+    'settings.age.explicit': '露骨な内容の表示（評価年齢21以上）',
     'settings.age.birthday': '生年月日',
     'settings.age.usage': 'この情報は非公開です。当社では、お客様の年齢をお伺いすることが法的に義務付けられています。当社はこのデータを、プラットフォーム分析、評価に基づくコンテンツの表示、およびお客様がクリエイターのストーリーを読んだときの匿名化された分析に使用します。',
     'settings.country.title': 'あなたの国',
