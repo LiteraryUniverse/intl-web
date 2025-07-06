@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Ein Bild hier ablegen',
     'common.legal.publishingAgreement': 'Verlagsvertrag',
     'upload.dragAndDrop': 'Ziehen Sie die Dateien hierher, oder klicken Sie, um Dateien auszuwählen.',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Universum Coverbild für {story}.',
+    'common.license': 'Lizenz'
 };

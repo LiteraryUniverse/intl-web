@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Buraya bir resim bırakın',
     'common.legal.publishingAgreement': 'Yayıncılık Sözleşmesi',
     'upload.dragAndDrop': 'Dosyaları buraya sürükleyip bırakın veya dosyaları seçmek için tıklayın',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': '{story}için evren kapak resmi.',
+    'common.license': 'Lisans'
 };

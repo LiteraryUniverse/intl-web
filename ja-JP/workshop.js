@@ -316,5 +316,5 @@ export default {
     'workshop.theWay.overallStats.wordCountDesc': 'Total words across all your stories',
     'workshop.theWay.overallStats.chaptersDesc': 'Total chapters you have written',
     'workshop.theWay.overallStats.universesDesc': 'Total universes you have created',
-    'workshop.theWay.overallStats.storiesDesc': 'Total stories you have published'
+    'workshop.theWay.overallStats.storiesDesc': '公開したストーリーの合計'
 };

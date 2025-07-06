@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Pudota kuva tähän',
     'common.legal.publishingAgreement': 'Kustannussopimus',
     'upload.dragAndDrop': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Universumin kansikuva {story}.',
+    'common.license': 'Lisenssi'
 };

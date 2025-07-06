@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Aruncați o imagine aici',
     'common.legal.publishingAgreement': 'Acord de publicare',
     'upload.dragAndDrop': 'Trageți și plasați fișiere aici sau faceți clic pentru a selecta fișiere',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Universe cover image for {story}.',
+    'common.license': 'Licență'
 };

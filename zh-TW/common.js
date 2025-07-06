@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': '在此投放圖片',
     'common.legal.publishingAgreement': '出版協議',
     'upload.dragAndDrop': '將檔案拖放至此，或按一下以選取檔案',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': '宇宙封面圖片為 {story}。',
+    'common.license': '許可證'
 };

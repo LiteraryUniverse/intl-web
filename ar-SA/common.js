@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'ضع صورة هنا',
     'common.legal.publishingAgreement': 'اتفاقية النشر',
     'upload.dragAndDrop': 'اسحب الملفات وأفلتها هنا، أو انقر لتحديد الملفات',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'صورة غلاف الكون {story}.',
+    'common.license': 'الترخيص'
 };

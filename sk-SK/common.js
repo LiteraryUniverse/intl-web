@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Sem vložte obrázok',
     'common.legal.publishingAgreement': 'Vydavateľská zmluva',
     'upload.dragAndDrop': 'Presuňte sem súbory alebo kliknite na tlačidlo a vyberte súbory',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Obrázok obálky vesmíru pre {story}.',
+    'common.license': 'Licencia'
 };

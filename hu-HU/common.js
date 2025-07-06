@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Dobjon ide egy képet',
     'common.legal.publishingAgreement': 'Kiadói megállapodás',
     'upload.dragAndDrop': 'Húzza ide a fájlokat, vagy kattintson a fájlok kiválasztásához.',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Az Univerzum borítóképe a {story}.',
+    'common.license': 'Licenc'
 };
