@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Įmeskite paveikslėlį čia',
     'common.legal.publishingAgreement': 'Leidybos sutartis',
     'upload.dragAndDrop': 'Vilkite ir nuleiskite čia failus arba spustelėkite , kad pasirinktumėte failus',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Visatos viršelio vaizdas {story}.',
+    'common.license': 'Licencija'
 };
