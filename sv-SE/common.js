@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Släpp en bild här',
     'common.legal.publishingAgreement': 'Avtal om publicering',
     'upload.dragAndDrop': 'Dra och släpp filer här, eller klicka för att välja filer',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Universums omslagsbild för {story}.',
+    'common.license': 'Licens'
 };
