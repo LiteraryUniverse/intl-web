@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Déposez une image ici',
     'common.legal.publishingAgreement': 'Accord de publication',
     'upload.dragAndDrop': 'Faites glisser et déposez des fichiers ici, ou cliquez pour sélectionner des fichiers.',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Image de couverture de l\'univers pour {story}.',
+    'common.license': 'Licence'
 };
