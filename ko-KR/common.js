@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': '여기에 이미지 드롭',
     'common.legal.publishingAgreement': '게시 계약',
     'upload.dragAndDrop': '파일을 여기로 끌어다 놓거나 클릭하여 파일을 선택합니다.',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': '유니버스 표지 이미지 {story}.',
+    'common.license': '라이선스'
 };
