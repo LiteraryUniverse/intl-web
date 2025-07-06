@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Drop hier een afbeelding',
     'common.legal.publishingAgreement': 'Uitgaveovereenkomst',
     'upload.dragAndDrop': 'Sleep bestanden hierheen, of klik om bestanden te selecteren',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Afbeelding omslag universum voor {story}.',
+    'common.license': 'Licentie'
 };
