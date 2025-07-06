@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'ここに画像をドロップする',
     'common.legal.publishingAgreement': '出版契約',
     'upload.dragAndDrop': 'ここにファイルをドラッグ＆ドロップするか、クリックしてファイルを選択します。',
-    'common.orgs': '組織'
+    'common.orgs': '組織',
+    'universe.cover.alt': '{story}。',
+    'common.license': 'ライセンス'
 };
