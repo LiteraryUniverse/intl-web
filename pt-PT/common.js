@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Coloque uma imagem aqui',
     'common.legal.publishingAgreement': 'Acordo de publicação',
     'upload.dragAndDrop': 'Arraste e largue ficheiros aqui, ou clique para selecionar ficheiros',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Imagem de capa do universo {story}.',
+    'common.license': 'Licença'
 };
