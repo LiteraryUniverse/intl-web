@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Надішліть зображення сюди',
     'common.legal.publishingAgreement': 'Видавнича угода',
     'upload.dragAndDrop': 'Перетягніть файли сюди або клацніть, щоб вибрати файли',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Зображення обкладинки Всесвіту для {story}.',
+    'common.license': 'Ліцензія'
 };
