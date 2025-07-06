@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Αφήστε μια εικόνα εδώ',
     'common.legal.publishingAgreement': 'Συμφωνία έκδοσης',
     'upload.dragAndDrop': 'Σύρετε και αφήστε αρχεία εδώ ή κάντε κλικ για να επιλέξετε αρχεία',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Εικόνα εξωφύλλου σύμπαντος για το {story}.',
+    'common.license': 'Άδεια'
 };
