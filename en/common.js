@@ -346,4 +346,6 @@ export default {
   'common.legal.publishingAgreement': 'Publishing Agreement',
   'upload.dragAndDrop': 'Drag and drop files here, or click to select files',
   'common.orgs': 'Organizations',
+  'universe.cover.alt': 'Universe cover image for {story}.',
+  'common.license': 'License',
 }
