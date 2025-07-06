@@ -311,5 +311,7 @@ export default {
     'common.dropImageHere': 'Pane pilt siia',
     'common.legal.publishingAgreement': 'Kirjastamisleping',
     'upload.dragAndDrop': 'Lohistage failid siia või klõpsake failide valimiseks.',
-    'common.orgs': 'Organizations'
+    'common.orgs': 'Organizations',
+    'universe.cover.alt': 'Universumi kaanepilt {story}.',
+    'common.license': 'Litsents'
 };
