@@ -115,7 +115,5 @@ export default {
   'contentSelector.entireSite': 'Entire site',
   'contentSelector.myLibrary': 'My library',
   'contentSelector.tabsLabel': 'Search options',
-  'contentSelector.title': 'Select Content',
-  'course.startDate': 'Start Date',
-  'course.endDate': 'End Date',
+  'contentSelector.title': 'Select Content'
 }
