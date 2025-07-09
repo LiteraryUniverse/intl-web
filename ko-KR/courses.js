@@ -117,4 +117,6 @@ export default {
   'contentSelector.myLibrary': 'My library',
   'contentSelector.tabsLabel': 'Search options',
   'contentSelector.title': 'Select Content',
+  'course.startDate': '시작 날짜',
+  'course.endDate': '종료 날짜',
 };
