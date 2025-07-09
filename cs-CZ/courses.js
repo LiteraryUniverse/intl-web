@@ -117,4 +117,6 @@ export default {
   'contentSelector.myLibrary': 'Moje knihovna',
   'contentSelector.tabsLabel': 'Možnosti vyhledávání',
   'contentSelector.title': 'Vybrat obsah',
+  'course.startDate': 'Datum zahájení',
+  'course.endDate': 'Datum ukončení',
 };
