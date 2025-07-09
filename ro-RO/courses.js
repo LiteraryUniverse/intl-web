@@ -117,4 +117,6 @@ export default {
   'contentSelector.myLibrary': 'My library',
   'contentSelector.tabsLabel': 'Search options',
   'contentSelector.title': 'Select Content',
+  'course.startDate': 'Data de începere',
+  'course.endDate': 'Data de încheiere',
 };
