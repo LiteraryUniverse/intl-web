@@ -34,7 +34,7 @@ export default {
   'course.cover': 'Cover',
   'course.start': 'Your course starts at',
   'course.ends': 'Your course ends at',
-  'course.curriculum': 'Curriculum',
+  'course.curriculum': 'Course Curriculum',
   'course.members': 'Students & teachers',
   'course.assignments': 'Assignments',
   'course.question.deleteWhole': 'Delete whole question',
@@ -88,6 +88,11 @@ export default {
   'course.announcements.full': 'Course announcements',
   'course.announcements.create' : 'Create an announcement',
   'course.join': 'Join Course',
+  'course.joining': 'Joining...',
+  'course.join.success': 'You have successfully joined this course!',
+  'course.join.error.payment': 'This course requires payment to join.',
+  'course.join.error.invite': 'This course requires an invitation to join.',
+  'course.join.error.generic': 'There was an error joining the course. Please try again.',
   'course.firstLesson': 'First Lesson',
   'course.upcomingLessons': 'Upcoming Lessons',
   'course.detail.title': '{courseName} | Course',
@@ -118,4 +123,37 @@ export default {
   'contentSelector.title': 'Select Content',
   'course.startDate': 'Start Date',
   'course.endDate': 'End Date',
+  'course.date.format': '{date, date, long}',
+  // New strings for student curriculum view
+  'course.curriculum.preview': 'Curriculum Preview',
+  'course.curriculum.preview.message': 'Join this course to access all {count} lessons and assignments.',
+  'course.curriculum.locked': 'Locked',
+  'course.curriculum.module': 'Module',
+  'course.curriculum.lesson': 'Lesson',
+  'course.curriculum.assignment': 'Assignment',
+  'course.curriculum.reading': 'Reading',
+  'course.curriculum.noItems': 'No curriculum items available yet.',
+
+  // Navigation
+  'course.navigation.curriculum': 'Curriculum',
+  'course.navigation.members': 'Students & Teachers',
+  'course.navigation.assignments': 'Assignments',
+  'course.navigation.forums': 'Forums',
+  'course.navigation.attendance': 'Attendance',
+
+  // Members
+  'course.members.teachers': 'Teachers',
+  'course.members.students': 'Students',
+  'course.members.preview.message': 'Join this course to see all students and interact with the community.',
+  'course.member.role.owner': 'Owner',
+  'course.member.role.teacher': 'Teacher',
+  'course.member.role.student': 'Student',
+
+  // New strings for course detail sidebar
+  'course.details': 'Course Details',
+  'course.language': 'Language',
+  'course.join.heading': 'Join This Course',
+  'course.oneTimePayment': 'One-time payment for full access',
+  'course.member': 'You\'re Enrolled',
+  'course.member.access': 'You have full access to all course materials.',
 }
