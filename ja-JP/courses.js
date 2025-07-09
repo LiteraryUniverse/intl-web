@@ -117,4 +117,6 @@ export default {
   'contentSelector.myLibrary': '私のライブラリ',
   'contentSelector.tabsLabel': '検索オプション',
   'contentSelector.title': 'コンテンツの選択',
+  'course.startDate': '開始日',
+  'course.endDate': '終了日',
 };
