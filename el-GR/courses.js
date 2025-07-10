@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Ιδιοκτήτης',
   'course.member.role.teacher': 'Δάσκαλος',
   'course.member.role.student': 'Φοιτητής',
-  // New strings for course detail sidebar
   'course.details': 'Λεπτομέρειες μαθήματος',
   'course.language': 'Γλώσσα',
   'course.join.heading': 'Εγγραφείτε σε αυτό το μάθημα',
   'course.oneTimePayment': 'Εφάπαξ πληρωμή για πλήρη πρόσβαση',
   'course.member': 'Είστε εγγεγραμμένος',
   'course.member.access': 'Έχετε πλήρη πρόσβαση σε όλα τα υλικά του μαθήματος.',
+  'courses.members.editRole': 'Επεξεργασία ρόλου',
+  'courses.members.editRoleFor': 'Επεξεργασία ρόλου για:',
+  'courses.add.member': 'Προσθήκη νέου μέλους',
+  'course.member.options': 'Κατάλογος μελών μαθημάτων',
 };

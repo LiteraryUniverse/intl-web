@@ -148,11 +148,14 @@ export default {
   'course.member.role.owner': 'Omanik',
   'course.member.role.teacher': 'Õpetaja',
   'course.member.role.student': 'Õpilane',
-  // New strings for course detail sidebar
   'course.details': 'Kursuse üksikasjad',
   'course.language': 'Keel',
   'course.join.heading': 'Liitu selle kursusega',
   'course.oneTimePayment': 'Ühekordne makse täieliku juurdepääsu eest',
   'course.member': 'Sa oled registreerunud',
   'course.member.access': 'Teil on täielik juurdepääs kõikidele õppematerjalidele.',
+  'courses.members.editRole': 'Redigeeri rolli',
+  'courses.members.editRoleFor': 'Redigeeri rolli:',
+  'courses.add.member': 'Lisa uus liige',
+  'course.member.options': 'Kursuse liikmete nimekiri',
 };

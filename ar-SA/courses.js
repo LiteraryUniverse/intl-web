@@ -147,11 +147,14 @@ export default {
   'course.member.role.owner': 'المالك',
   'course.member.role.teacher': 'مدرس',
   'course.member.role.student': 'طالب',
-  // New strings for course detail sidebar
   'course.details': 'تفاصيل الدورة',
   'course.language': 'اللغة',
   'course.join.heading': 'انضم إلى هذه الدورة',
   'course.oneTimePayment': 'الدفع لمرة واحدة للوصول الكامل',
   'course.member': 'تم تسجيلك',
   'course.member.access': 'لديك حق الوصول الكامل إلى جميع مواد الدورة التدريبية.',
+  'courses.members.editRole': 'تحرير الدور',
+  'courses.members.editRoleFor': 'تعديل الدور لـ',
+  'courses.add.member': 'إضافة عضو جديد',
+  'course.member.options': 'قائمة أعضاء الدورة',
 };

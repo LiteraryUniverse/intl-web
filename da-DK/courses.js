@@ -148,11 +148,14 @@ export default {
   'course.member.role.owner': 'Ejer',
   'course.member.role.teacher': 'Lærer',
   'course.member.role.student': 'Studerende',
-  // New strings for course detail sidebar
   'course.details': 'Detaljer om kurset',
   'course.language': 'Sprog',
   'course.join.heading': 'Deltag i dette kursus',
   'course.oneTimePayment': 'Engangsbetaling for fuld adgang',
   'course.member': 'Du er indskrevet',
   'course.member.access': 'Du har fuld adgang til alt kursusmateriale.',
+  'courses.members.editRole': 'Rediger rolle',
+  'courses.members.editRoleFor': 'Rediger rolle for:',
+  'courses.add.member': 'Tilføj et nyt medlem',
+  'course.member.options': 'Liste over kursusdeltagere',
 };

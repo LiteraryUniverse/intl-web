@@ -147,11 +147,14 @@ export default {
   'course.member.role.owner': 'オーナー',
   'course.member.role.teacher': '教師',
   'course.member.role.student': '学生',
-  // New strings for course detail sidebar
   'course.details': 'コース詳細',
   'course.language': '言語',
   'course.join.heading': 'このコースに参加する',
   'course.oneTimePayment': '1回払いでフルアクセス',
   'course.member': '登録完了',
   'course.member.access': 'すべての教材にアクセスできます。',
+  'courses.members.editRole': '役割を編集する',
+  'courses.members.editRoleFor': 'のために役割を編集する：',
+  'courses.add.member': '新しいメンバーを追加する',
+  'course.member.options': 'コースメンバー一覧',
 };

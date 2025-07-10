@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Pemilik',
   'course.member.role.teacher': 'Guru',
   'course.member.role.student': 'Mahasiswa',
-  // New strings for course detail sidebar
   'course.details': 'Rincian Kursus',
   'course.language': 'Bahasa',
   'course.join.heading': 'Bergabunglah dengan Kursus Ini',
   'course.oneTimePayment': 'Pembayaran satu kali untuk akses penuh',
   'course.member': 'Anda Terdaftar',
   'course.member.access': 'Anda memiliki akses penuh ke semua materi kursus.',
+  'courses.members.editRole': 'Edit Peran',
+  'courses.members.editRoleFor': 'Edit peran untuk:',
+  'courses.add.member': 'Menambahkan anggota baru',
+  'course.member.options': 'Daftar anggota kursus',
 };

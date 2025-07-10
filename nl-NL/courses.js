@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Eigenaar',
   'course.member.role.teacher': 'Leraar',
   'course.member.role.student': 'Student',
-  // New strings for course detail sidebar
   'course.details': 'Cursusdetails',
   'course.language': 'Taal',
   'course.join.heading': 'Doe mee met deze cursus',
   'course.oneTimePayment': 'Eenmalige betaling voor volledige toegang',
   'course.member': 'U bent ingeschreven',
   'course.member.access': 'U hebt volledige toegang tot alle cursusmaterialen.',
+  'courses.members.editRole': 'Rol bewerken',
+  'courses.members.editRoleFor': 'Bewerk rol voor:',
+  'courses.add.member': 'Een nieuw lid toevoegen',
+  'course.member.options': 'Cursus ledenlijst',
 };

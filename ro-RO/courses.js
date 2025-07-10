@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Proprietar',
   'course.member.role.teacher': 'Învățător',
   'course.member.role.student': 'Student',
-  // New strings for course detail sidebar
   'course.details': 'Detalii despre curs',
   'course.language': 'Limba',
   'course.join.heading': 'Înscrieți-vă la acest curs',
   'course.oneTimePayment': 'Plată unică pentru acces complet',
   'course.member': 'Sunteți înscris',
   'course.member.access': 'Aveți acces complet la toate materialele de curs.',
+  'courses.members.editRole': 'Editare rol',
+  'courses.members.editRoleFor': 'Editează rolul pentru:',
+  'courses.add.member': 'Adăugați un nou membru',
+  'course.member.options': 'Lista membrilor cursului',
 };

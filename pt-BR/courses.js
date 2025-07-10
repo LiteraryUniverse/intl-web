@@ -148,11 +148,14 @@ export default {
   'course.member.role.owner': 'Proprietário',
   'course.member.role.teacher': 'Professor',
   'course.member.role.student': 'Estudante',
-  // New strings for course detail sidebar
   'course.details': 'Detalhes do curso',
   'course.language': 'Idioma',
   'course.join.heading': 'Participe deste curso',
   'course.oneTimePayment': 'Pagamento único para acesso total',
   'course.member': 'O senhor está inscrito',
   'course.member.access': 'O senhor tem acesso total a todos os materiais do curso.',
+  'courses.members.editRole': 'Editar função',
+  'courses.members.editRoleFor': 'Editar função para:',
+  'courses.add.member': 'Adicionar um novo membro',
+  'course.member.options': 'Lista de membros do curso',
 };
