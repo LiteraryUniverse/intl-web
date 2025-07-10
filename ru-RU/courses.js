@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Владелец',
   'course.member.role.teacher': 'Преподаватель',
   'course.member.role.student': 'Студент',
-  // New strings for course detail sidebar
   'course.details': 'Подробности курса',
   'course.language': 'Язык',
   'course.join.heading': 'Присоединяйтесь к этому курсу',
   'course.oneTimePayment': 'Единовременная оплата за полный доступ',
   'course.member': 'Вы зачислены',
   'course.member.access': 'У Вас есть полный доступ ко всем материалам курса.',
+  'courses.members.editRole': 'Редактировать роль',
+  'courses.members.editRoleFor': 'Редактировать роль для:',
+  'courses.add.member': 'Добавьте нового участника',
+  'course.member.options': 'Список участников курса',
 };
