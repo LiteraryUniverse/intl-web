@@ -148,11 +148,14 @@ export default {
   'course.member.role.owner': 'Ägare',
   'course.member.role.teacher': 'Lärare',
   'course.member.role.student': 'Student',
-  // New strings for course detail sidebar
   'course.details': 'Detaljer om kursen',
   'course.language': 'Språk',
   'course.join.heading': 'Anmäl dig till denna kurs',
   'course.oneTimePayment': 'Engångsbetalning för full tillgång',
   'course.member': 'Du är inskriven',
   'course.member.access': 'Du har full tillgång till allt kursmaterial.',
+  'courses.members.editRole': 'Redigera roll',
+  'courses.members.editRoleFor': 'Redigera roll för:',
+  'courses.add.member': 'Lägg till en ny medlem',
+  'course.member.options': 'Lista över kursmedlemmar',
 };
