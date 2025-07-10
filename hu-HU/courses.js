@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Tulajdonos',
   'course.member.role.teacher': 'Tanár',
   'course.member.role.student': 'Diák',
-  // New strings for course detail sidebar
   'course.details': 'Tanfolyam részletei',
   'course.language': 'Nyelv',
   'course.join.heading': 'Csatlakozzon ehhez a tanfolyamhoz',
   'course.oneTimePayment': 'Egyszeri fizetés a teljes hozzáférésért',
   'course.member': 'Beiratkozott',
   'course.member.access': 'Teljes hozzáférést biztosítunk az összes tananyaghoz.',
+  'courses.members.editRole': 'Szerkesztési szerepkör',
+  'courses.members.editRoleFor': 'Szerkeszti a szerepét:',
+  'courses.add.member': 'Új tag felvétele',
+  'course.member.options': 'Tanfolyam tagok listája',
 };
