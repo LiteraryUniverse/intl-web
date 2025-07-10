@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Omistaja',
   'course.member.role.teacher': 'Opettaja',
   'course.member.role.student': 'Opiskelija',
-  // New strings for course detail sidebar
   'course.details': 'Kurssin tiedot',
   'course.language': 'Kieli',
   'course.join.heading': 'Liity tälle kurssille',
   'course.oneTimePayment': 'Kertamaksu täydestä käyttöoikeudesta',
   'course.member': 'Olet ilmoittautunut',
   'course.member.access': 'Sinulla on täysi pääsy kaikkiin kurssimateriaaleihin.',
+  'courses.members.editRole': 'Muokkaa roolia',
+  'courses.members.editRoleFor': 'Muokkaa roolia:',
+  'courses.add.member': 'Lisää uusi jäsen',
+  'course.member.options': 'Kurssin jäsenluettelo',
 };
