@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Savininkas',
   'course.member.role.teacher': 'Mokytojas',
   'course.member.role.student': 'Studentas',
-  // New strings for course detail sidebar
   'course.details': 'Išsami informacija apie kursą',
   'course.language': 'Kalba',
   'course.join.heading': 'Prisijunkite prie šio kurso',
   'course.oneTimePayment': 'Vienkartinis mokėjimas už visišką prieigą',
   'course.member': 'Esate užregistruotas',
   'course.member.access': 'Turite visišką prieigą prie visos kurso medžiagos.',
+  'courses.members.editRole': 'Redaguoti vaidmenį',
+  'courses.members.editRoleFor': 'Redaguoti vaidmenį:',
+  'courses.add.member': 'Pridėti naują narį',
+  'course.member.options': 'Kurso narių sąrašas',
 };
