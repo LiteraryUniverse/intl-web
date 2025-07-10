@@ -147,11 +147,14 @@ export default {
   'course.member.role.owner': 'Sahibi',
   'course.member.role.teacher': 'Öğretmen',
   'course.member.role.student': 'Öğrenci',
-  // New strings for course detail sidebar
   'course.details': 'Kurs Detayları',
   'course.language': 'Dil',
   'course.join.heading': 'Bu Kursa Katılın',
   'course.oneTimePayment': 'Tam erişim için tek seferlik ödeme',
   'course.member': 'Kaydınız Yapıldı',
   'course.member.access': 'Tüm kurs materyallerine tam erişiminiz vardır.',
+  'courses.members.editRole': 'Rolü Düzenle',
+  'courses.members.editRoleFor': 'Rolü düzenle:',
+  'courses.add.member': 'Yeni bir üye ekleyin',
+  'course.member.options': 'Kurs üye listesi',
 };
