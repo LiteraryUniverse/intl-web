@@ -149,11 +149,14 @@ export default {
   'course.member.role.owner': 'Vlastník',
   'course.member.role.teacher': 'Učiteľ',
   'course.member.role.student': 'Študent',
-  // New strings for course detail sidebar
   'course.details': 'Podrobnosti o kurze',
   'course.language': 'Jazyk',
   'course.join.heading': 'Pripojte sa k tomuto kurzu',
   'course.oneTimePayment': 'Jednorazová platba za plný prístup',
   'course.member': 'Ste zaregistrovaný',
   'course.member.access': 'Máte úplný prístup ku všetkým materiálom kurzu.',
+  'courses.members.editRole': 'Upraviť úlohu',
+  'courses.members.editRoleFor': 'Upraviť úlohu pre:',
+  'courses.add.member': 'Pridanie nového člena',
+  'course.member.options': 'Zoznam členov kurzu',
 };
