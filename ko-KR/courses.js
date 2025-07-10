@@ -147,11 +147,14 @@ export default {
   'course.member.role.owner': '소유자',
   'course.member.role.teacher': '교사',
   'course.member.role.student': '학생',
-  // New strings for course detail sidebar
   'course.details': '코스 세부 정보',
   'course.language': '언어',
   'course.join.heading': '이 과정 참여하기',
   'course.oneTimePayment': '전체 액세스 권한을 위한 일회성 결제',
   'course.member': '등록됨',
   'course.member.access': '모든 코스 자료에 대한 전체 액세스 권한이 있습니다.',
+  'courses.members.editRole': '역할 편집',
+  'courses.members.editRoleFor': '에 대한 역할 편집:',
+  'courses.add.member': '새 멤버 추가',
+  'course.member.options': '코스 학습자 목록',
 };
