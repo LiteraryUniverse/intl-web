@@ -147,11 +147,14 @@ export default {
   'course.member.role.owner': '業主',
   'course.member.role.teacher': '教師',
   'course.member.role.student': '學生',
-  // New strings for course detail sidebar
   'course.details': '課程詳情',
   'course.language': '語言',
   'course.join.heading': '加入此課程',
   'course.oneTimePayment': '一次性付款即可取得完整使用權',
   'course.member': '您已經註冊',
   'course.member.access': '您可以完全存取所有課程資料。',
+  'courses.members.editRole': '編輯角色',
+  'courses.members.editRoleFor': '編輯角色為：',
+  'courses.add.member': '新增會員',
+  'course.member.options': '課程成員名單',
 };
