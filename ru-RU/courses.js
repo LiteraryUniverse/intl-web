@@ -165,4 +165,12 @@ export default {
   'course.curriculum.lesson': 'Урок',
   'course.curriculum.assignment': 'Задание',
   'course.curriculum.reading': 'Чтение',
+  'course.lesson.backToCurriculum': 'Назад к учебному плану',
+  'course.lesson.nextLesson': 'Следующий урок',
+  'course.lesson.documents': 'Документы и ресурсы',
+  'course.lesson.meetingLink': 'Ссылка на встречу',
+  'course.lesson.location': 'Расположение',
+  'course.lesson.virtualClassroom': 'Виртуальный класс',
+  'course.lesson.joinClassroom': 'Присоединяйтесь к сессии виртуального класса',
+  'course.lesson.enterClassroom': 'Войдите в классную комнату',
 };
