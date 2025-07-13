@@ -165,4 +165,12 @@ export default {
   'course.curriculum.lesson': 'Lecția',
   'course.curriculum.assignment': 'Atribuire',
   'course.curriculum.reading': 'Lectura',
+  'course.lesson.backToCurriculum': 'Înapoi la Curriculum',
+  'course.lesson.nextLesson': 'Lecția următoare',
+  'course.lesson.documents': 'Documente și resurse',
+  'course.lesson.meetingLink': 'Întâlnire Link',
+  'course.lesson.location': 'Locație',
+  'course.lesson.virtualClassroom': 'Sală de clasă virtuală',
+  'course.lesson.joinClassroom': 'Participați la sesiunea de clasă virtuală',
+  'course.lesson.enterClassroom': 'Intrați în sala de clasă',
 };
