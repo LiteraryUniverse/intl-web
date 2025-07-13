@@ -163,4 +163,12 @@ export default {
   'course.curriculum.lesson': 'Õppetund',
   'course.curriculum.assignment': 'Ülesanne',
   'course.curriculum.reading': 'Lugemine',
+  'course.lesson.backToCurriculum': 'Tagasi õppekava juurde',
+  'course.lesson.nextLesson': 'Järgmine õppetund',
+  'course.lesson.documents': 'Dokumendid ja ressursid',
+  'course.lesson.meetingLink': 'Kohtumise link',
+  'course.lesson.location': 'Asukoht',
+  'course.lesson.virtualClassroom': 'Virtuaalne klassiruum',
+  'course.lesson.joinClassroom': 'Liituge virtuaalse klassiruumi istungiga',
+  'course.lesson.enterClassroom': 'Sisestage klassiruum',
 };
