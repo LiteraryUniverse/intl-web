@@ -165,4 +165,12 @@ export default {
   'course.curriculum.lesson': 'Μάθημα',
   'course.curriculum.assignment': 'Ανάθεση',
   'course.curriculum.reading': 'Ανάγνωση',
+  'course.lesson.backToCurriculum': 'Πίσω στο Πρόγραμμα Σπουδών',
+  'course.lesson.nextLesson': 'Επόμενο μάθημα',
+  'course.lesson.documents': 'Έγγραφα & Πόροι',
+  'course.lesson.meetingLink': 'Σύνδεσμος συνάντησης',
+  'course.lesson.location': 'Τοποθεσία',
+  'course.lesson.virtualClassroom': 'Εικονική αίθουσα διδασκαλίας',
+  'course.lesson.joinClassroom': 'Συμμετέχετε στην εικονική αίθουσα διδασκαλίας',
+  'course.lesson.enterClassroom': 'Είσοδος στην αίθουσα διδασκαλίας',
 };
