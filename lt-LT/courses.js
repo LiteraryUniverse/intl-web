@@ -165,4 +165,12 @@ export default {
   'course.curriculum.lesson': 'Pamokos',
   'course.curriculum.assignment': 'Užduotis',
   'course.curriculum.reading': 'Skaitymas',
+  'course.lesson.backToCurriculum': 'Atgal į mokymo programą',
+  'course.lesson.nextLesson': 'Kita pamoka',
+  'course.lesson.documents': 'Dokumentai ir ištekliai',
+  'course.lesson.meetingLink': 'Susitikimo nuoroda',
+  'course.lesson.location': 'Vieta',
+  'course.lesson.virtualClassroom': 'Virtuali klasė',
+  'course.lesson.joinClassroom': 'Prisijunkite prie virtualios klasės sesijos',
+  'course.lesson.enterClassroom': 'Įeikite į klasę',
 };
