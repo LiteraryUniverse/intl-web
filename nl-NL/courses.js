@@ -165,4 +165,12 @@ export default {
   'course.curriculum.lesson': 'Les',
   'course.curriculum.assignment': 'Opdracht',
   'course.curriculum.reading': 'Lezen',
+  'course.lesson.backToCurriculum': 'Terug naar Curriculum',
+  'course.lesson.nextLesson': 'Volgende les',
+  'course.lesson.documents': 'Documenten en bronnen',
+  'course.lesson.meetingLink': 'Vergadering Link',
+  'course.lesson.location': 'Locatie',
+  'course.lesson.virtualClassroom': 'Virtueel klaslokaal',
+  'course.lesson.joinClassroom': 'Doe mee aan de virtuele klassikale sessie',
+  'course.lesson.enterClassroom': 'Klaslokaal binnengaan',
 };
