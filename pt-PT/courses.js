@@ -162,4 +162,12 @@ export default {
   'course.curriculum.lesson': 'Lição',
   'course.curriculum.assignment': 'Atribuição',
   'course.curriculum.reading': 'Ler',
+  'course.lesson.backToCurriculum': 'Voltar ao currículo',
+  'course.lesson.nextLesson': 'Próxima lição',
+  'course.lesson.documents': 'Documentos e recursos',
+  'course.lesson.meetingLink': 'Ligação à reunião',
+  'course.lesson.location': 'Localização',
+  'course.lesson.virtualClassroom': 'Sala de aula virtual',
+  'course.lesson.joinClassroom': 'Participe na sessão de sala de aula virtual',
+  'course.lesson.enterClassroom': 'Entre na sala de aula',
 };
