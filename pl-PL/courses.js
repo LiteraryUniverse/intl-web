@@ -164,4 +164,12 @@ export default {
   'course.curriculum.lesson': 'Lekcja',
   'course.curriculum.assignment': 'Przydział',
   'course.curriculum.reading': 'Czytanie',
+  'course.lesson.backToCurriculum': 'Powrót do programu nauczania',
+  'course.lesson.nextLesson': 'Następna lekcja',
+  'course.lesson.documents': 'Dokumenty i zasoby',
+  'course.lesson.meetingLink': 'Link do spotkania',
+  'course.lesson.location': 'Lokalizacja',
+  'course.lesson.virtualClassroom': 'Wirtualna klasa',
+  'course.lesson.joinClassroom': 'Proszę dołączyć do sesji w wirtualnej klasie',
+  'course.lesson.enterClassroom': 'Proszę wejść do sali lekcyjnej',
 };
