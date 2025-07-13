@@ -162,4 +162,12 @@ export default {
   'course.curriculum.lesson': 'Ders',
   'course.curriculum.assignment': 'Görevlendirme',
   'course.curriculum.reading': 'Okuma',
+  'course.lesson.backToCurriculum': 'Müfredata Geri Dön',
+  'course.lesson.nextLesson': 'Sonraki Ders',
+  'course.lesson.documents': 'Belgeler & Kaynaklar',
+  'course.lesson.meetingLink': 'Toplantı Bağlantısı',
+  'course.lesson.location': 'Konum',
+  'course.lesson.virtualClassroom': 'Sanal Sınıf',
+  'course.lesson.joinClassroom': 'Sanal sınıf oturumuna katılın',
+  'course.lesson.enterClassroom': 'Sınıfa Girin',
 };
