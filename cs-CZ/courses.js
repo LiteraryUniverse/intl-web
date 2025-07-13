@@ -34,7 +34,7 @@ export default {
   'course.cover': 'Obal',
   'course.start': 'Váš kurz začíná v',
   'course.ends': 'Váš kurz končí v',
-  'course.curriculum': 'Učební plán kurzu',
+  'course.curriculum': 'Osnovy',
   'course.members': 'Studenti a učitelé',
   'course.assignments': 'Úkoly',
   'course.question.deleteWhole': 'Smazat celou otázku',
