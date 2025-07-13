@@ -164,4 +164,12 @@ export default {
   'course.curriculum.lesson': 'Oppitunti',
   'course.curriculum.assignment': 'Toimeksianto',
   'course.curriculum.reading': 'Lukeminen',
+  'course.lesson.backToCurriculum': 'Takaisin opetussuunnitelmaan',
+  'course.lesson.nextLesson': 'Seuraava oppitunti',
+  'course.lesson.documents': 'Asiakirjat ja resurssit',
+  'course.lesson.meetingLink': 'Kokouslinkki',
+  'course.lesson.location': 'Sijainti',
+  'course.lesson.virtualClassroom': 'Virtuaalinen luokkahuone',
+  'course.lesson.joinClassroom': 'Liity virtuaaliluokkahuoneen istuntoon',
+  'course.lesson.enterClassroom': 'Astu sisään luokkahuoneeseen',
 };
