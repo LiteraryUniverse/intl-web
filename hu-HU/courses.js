@@ -165,4 +165,12 @@ export default {
   'course.curriculum.lesson': 'Lecke',
   'course.curriculum.assignment': 'Megbízás',
   'course.curriculum.reading': 'Olvasás',
+  'course.lesson.backToCurriculum': 'Vissza a tantervhez',
+  'course.lesson.nextLesson': 'Következő lecke',
+  'course.lesson.documents': 'Dokumentumok és források',
+  'course.lesson.meetingLink': 'Találkozó Link',
+  'course.lesson.location': 'Helyszín',
+  'course.lesson.virtualClassroom': 'Virtuális tanterem',
+  'course.lesson.joinClassroom': 'Csatlakozzon a virtuális tantermi foglalkozáshoz',
+  'course.lesson.enterClassroom': 'Belépés az osztályterembe',
 };
