@@ -162,4 +162,12 @@ export default {
   'course.curriculum.lesson': 'الدرس',
   'course.curriculum.assignment': 'التعيين',
   'course.curriculum.reading': 'القراءة',
+  'course.lesson.backToCurriculum': 'العودة إلى المنهج الدراسي',
+  'course.lesson.nextLesson': 'الدرس التالي',
+  'course.lesson.documents': 'الوثائق والموارد',
+  'course.lesson.meetingLink': 'رابط الاجتماع',
+  'course.lesson.location': 'الموقع',
+  'course.lesson.virtualClassroom': 'الفصول الدراسية الافتراضية',
+  'course.lesson.joinClassroom': 'انضم إلى جلسة الفصل الدراسي الافتراضي',
+  'course.lesson.enterClassroom': 'دخول الفصل الدراسي',
 };
