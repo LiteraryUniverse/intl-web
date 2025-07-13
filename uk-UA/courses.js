@@ -165,4 +165,12 @@ export default {
   'course.curriculum.lesson': 'Урок',
   'course.curriculum.assignment': 'Завдання',
   'course.curriculum.reading': 'Читання',
+  'course.lesson.backToCurriculum': 'Повернутися до навчальної програми',
+  'course.lesson.nextLesson': 'Наступний урок',
+  'course.lesson.documents': 'Документи та ресурси',
+  'course.lesson.meetingLink': 'Посилання на зустріч',
+  'course.lesson.location': 'Місцезнаходження',
+  'course.lesson.virtualClassroom': 'Віртуальний клас',
+  'course.lesson.joinClassroom': 'Приєднуйтесь до віртуального заняття',
+  'course.lesson.enterClassroom': 'Увійдіть до класу',
 };
