@@ -162,4 +162,12 @@ export default {
   'course.curriculum.lesson': '課程',
   'course.curriculum.assignment': '任務',
   'course.curriculum.reading': '閱讀',
+  'course.lesson.backToCurriculum': '回到課程',
+  'course.lesson.nextLesson': '下一課',
+  'course.lesson.documents': '文件與資源',
+  'course.lesson.meetingLink': '會議連結',
+  'course.lesson.location': '地點',
+  'course.lesson.virtualClassroom': '虛擬教室',
+  'course.lesson.joinClassroom': '加入虛擬教室會議',
+  'course.lesson.enterClassroom': '進入教室',
 };
