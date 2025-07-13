@@ -164,4 +164,12 @@ export default {
   'course.curriculum.lesson': 'Lektion',
   'course.curriculum.assignment': 'Uppdrag',
   'course.curriculum.reading': 'Läsning',
+  'course.lesson.backToCurriculum': 'Tillbaka till Läroplan',
+  'course.lesson.nextLesson': 'Nästa lektion',
+  'course.lesson.documents': 'Dokument och resurser',
+  'course.lesson.meetingLink': 'Länk till möte',
+  'course.lesson.location': 'Plats',
+  'course.lesson.virtualClassroom': 'Virtuellt klassrum',
+  'course.lesson.joinClassroom': 'Delta i den virtuella klassrumssessionen',
+  'course.lesson.enterClassroom': 'Gå in i klassrummet',
 };
