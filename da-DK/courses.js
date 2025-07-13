@@ -164,4 +164,12 @@ export default {
   'course.curriculum.lesson': 'Lektion',
   'course.curriculum.assignment': 'Opgave',
   'course.curriculum.reading': 'Læsning',
+  'course.lesson.backToCurriculum': 'Tilbage til pensum',
+  'course.lesson.nextLesson': 'Næste lektion',
+  'course.lesson.documents': 'Dokumenter og ressourcer',
+  'course.lesson.meetingLink': 'Link til møde',
+  'course.lesson.location': 'Beliggenhed',
+  'course.lesson.virtualClassroom': 'Virtuelt klasseværelse',
+  'course.lesson.joinClassroom': 'Deltag i den virtuelle klasseværelsessession',
+  'course.lesson.enterClassroom': 'Gå ind i klasseværelset',
 };
