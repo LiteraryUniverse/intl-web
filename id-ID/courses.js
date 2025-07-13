@@ -164,4 +164,12 @@ export default {
   'course.curriculum.lesson': 'Pelajaran',
   'course.curriculum.assignment': 'Penugasan',
   'course.curriculum.reading': 'Membaca',
+  'course.lesson.backToCurriculum': 'Kembali ke Kurikulum',
+  'course.lesson.nextLesson': 'Pelajaran Berikutnya',
+  'course.lesson.documents': 'Dokumen & Sumber Daya',
+  'course.lesson.meetingLink': 'Tautan Rapat',
+  'course.lesson.location': 'Lokasi',
+  'course.lesson.virtualClassroom': 'Ruang Kelas Virtual',
+  'course.lesson.joinClassroom': 'Bergabunglah dengan sesi kelas virtual',
+  'course.lesson.enterClassroom': 'Masuk ke Ruang Kelas',
 };
