@@ -164,4 +164,12 @@ export default {
   'course.curriculum.lesson': 'Lekcia',
   'course.curriculum.assignment': 'Zadanie',
   'course.curriculum.reading': 'Čítanie',
+  'course.lesson.backToCurriculum': 'Späť na učebné osnovy',
+  'course.lesson.nextLesson': 'Ďalšia lekcia',
+  'course.lesson.documents': 'Dokumenty a zdroje',
+  'course.lesson.meetingLink': 'Odkaz na stretnutie',
+  'course.lesson.location': 'Umiestnenie',
+  'course.lesson.virtualClassroom': 'Virtuálna trieda',
+  'course.lesson.joinClassroom': 'Pripojte sa k virtuálnej triede',
+  'course.lesson.enterClassroom': 'Vstúpiť do učebne',
 };
