@@ -162,4 +162,12 @@ export default {
   'course.curriculum.lesson': '레슨',
   'course.curriculum.assignment': '할당',
   'course.curriculum.reading': '읽기',
+  'course.lesson.backToCurriculum': '커리큘럼으로 돌아가기',
+  'course.lesson.nextLesson': '다음 레슨',
+  'course.lesson.documents': '문서 및 리소스',
+  'course.lesson.meetingLink': '미팅 링크',
+  'course.lesson.location': '위치',
+  'course.lesson.virtualClassroom': '가상 교실',
+  'course.lesson.joinClassroom': '가상 강의실 세션에 참여하기',
+  'course.lesson.enterClassroom': '교실로 들어가기',
 };
