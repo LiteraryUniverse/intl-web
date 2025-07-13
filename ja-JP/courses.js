@@ -163,4 +163,12 @@ export default {
   'course.curriculum.lesson': 'レッスン',
   'course.curriculum.assignment': '割り当て',
   'course.curriculum.reading': '読書',
+  'course.lesson.backToCurriculum': 'カリキュラムに戻る',
+  'course.lesson.nextLesson': '次のレッスン',
+  'course.lesson.documents': 'ドキュメント＆リソース',
+  'course.lesson.meetingLink': 'ミーティングリンク',
+  'course.lesson.location': '所在地',
+  'course.lesson.virtualClassroom': 'バーチャル教室',
+  'course.lesson.joinClassroom': 'バーチャルクラスルームセッションに参加する',
+  'course.lesson.enterClassroom': '教室に入る',
 };
