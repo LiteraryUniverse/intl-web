@@ -170,4 +170,5 @@ export default {
   'course.lesson.virtualClassroom': '가상 교실',
   'course.lesson.joinClassroom': '가상 강의실 세션에 참여하기',
   'course.lesson.enterClassroom': '교실로 들어가기',
+  'courses.module.defaultTitle': '모듈 {count, number}',
 };
