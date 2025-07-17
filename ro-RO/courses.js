@@ -173,4 +173,5 @@ export default {
   'course.lesson.virtualClassroom': 'Sală de clasă virtuală',
   'course.lesson.joinClassroom': 'Participați la sesiunea de clasă virtuală',
   'course.lesson.enterClassroom': 'Intrați în sala de clasă',
+  'courses.module.defaultTitle': 'Modul {count, number}',
 };
