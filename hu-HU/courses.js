@@ -173,4 +173,5 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuális tanterem',
   'course.lesson.joinClassroom': 'Csatlakozzon a virtuális tantermi foglalkozáshoz',
   'course.lesson.enterClassroom': 'Belépés az osztályterembe',
+  'courses.module.defaultTitle': 'Modul {count, number}',
 };
