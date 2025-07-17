@@ -171,4 +171,5 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuaalne klassiruum',
   'course.lesson.joinClassroom': 'Liituge virtuaalse klassiruumi istungiga',
   'course.lesson.enterClassroom': 'Sisestage klassiruum',
+  'courses.module.defaultTitle': 'Moodul {count, number}',
 };
