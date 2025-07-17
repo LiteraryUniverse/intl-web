@@ -173,4 +173,5 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuali klasė',
   'course.lesson.joinClassroom': 'Prisijunkite prie virtualios klasės sesijos',
   'course.lesson.enterClassroom': 'Įeikite į klasę',
+  'courses.module.defaultTitle': 'Modulis {count, number}',
 };
