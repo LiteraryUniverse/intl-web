@@ -170,4 +170,5 @@ export default {
   'course.lesson.virtualClassroom': 'الفصول الدراسية الافتراضية',
   'course.lesson.joinClassroom': 'انضم إلى جلسة الفصل الدراسي الافتراضي',
   'course.lesson.enterClassroom': 'دخول الفصل الدراسي',
+  'courses.module.defaultTitle': 'الوحدة {count, number}',
 };
