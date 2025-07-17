@@ -173,4 +173,5 @@ export default {
   'course.lesson.virtualClassroom': 'Віртуальний клас',
   'course.lesson.joinClassroom': 'Приєднуйтесь до віртуального заняття',
   'course.lesson.enterClassroom': 'Увійдіть до класу',
+  'courses.module.defaultTitle': 'Модуль {count, number}',
 };
