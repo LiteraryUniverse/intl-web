@@ -172,4 +172,5 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuální třída',
   'course.lesson.joinClassroom': 'Připojte se k virtuální třídě',
   'course.lesson.enterClassroom': 'Vstup do učebny',
+  'courses.module.defaultTitle': 'Modul {count, number}',
 };
