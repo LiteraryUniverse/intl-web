@@ -173,4 +173,5 @@ export default {
   'course.lesson.virtualClassroom': 'Εικονική αίθουσα διδασκαλίας',
   'course.lesson.joinClassroom': 'Συμμετέχετε στην εικονική αίθουσα διδασκαλίας',
   'course.lesson.enterClassroom': 'Είσοδος στην αίθουσα διδασκαλίας',
+  'courses.module.defaultTitle': 'Ενότητα {count, number}',
 };
