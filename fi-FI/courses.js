@@ -172,4 +172,5 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuaalinen luokkahuone',
   'course.lesson.joinClassroom': 'Liity virtuaaliluokkahuoneen istuntoon',
   'course.lesson.enterClassroom': 'Astu sisään luokkahuoneeseen',
+  'courses.module.defaultTitle': 'Moduuli {count, number}',
 };
