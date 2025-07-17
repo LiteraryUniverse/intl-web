@@ -170,4 +170,5 @@ export default {
   'course.lesson.virtualClassroom': 'Sanal Sınıf',
   'course.lesson.joinClassroom': 'Sanal sınıf oturumuna katılın',
   'course.lesson.enterClassroom': 'Sınıfa Girin',
+  'courses.module.defaultTitle': 'Modül {count, number}',
 };
