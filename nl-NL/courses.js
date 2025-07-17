@@ -173,4 +173,5 @@ export default {
   'course.lesson.virtualClassroom': 'Virtueel klaslokaal',
   'course.lesson.joinClassroom': 'Doe mee aan de virtuele klassikale sessie',
   'course.lesson.enterClassroom': 'Klaslokaal binnengaan',
+  'courses.module.defaultTitle': 'Module {count, number}',
 };
