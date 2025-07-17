@@ -172,4 +172,5 @@ export default {
   'course.lesson.virtualClassroom': 'Virtuelt klasseværelse',
   'course.lesson.joinClassroom': 'Deltag i den virtuelle klasseværelsessession',
   'course.lesson.enterClassroom': 'Gå ind i klasseværelset',
+  'courses.module.defaultTitle': 'Modul {count, number}',
 };
