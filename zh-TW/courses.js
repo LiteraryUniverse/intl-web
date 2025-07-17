@@ -170,4 +170,5 @@ export default {
   'course.lesson.virtualClassroom': '虛擬教室',
   'course.lesson.joinClassroom': '加入虛擬教室會議',
   'course.lesson.enterClassroom': '進入教室',
+  'courses.module.defaultTitle': '模組 {count, number}',
 };
