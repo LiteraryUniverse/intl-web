@@ -170,4 +170,5 @@ export default {
   'course.lesson.virtualClassroom': 'Sala de aula virtual',
   'course.lesson.joinClassroom': 'Participe na sessão de sala de aula virtual',
   'course.lesson.enterClassroom': 'Entre na sala de aula',
+  'courses.module.defaultTitle': 'Módulo {count, number}',
 };
