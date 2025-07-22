@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'បានលុប',
     'reader.nextChapterEstimation.verySoon': 'លើកលែង​ពី​ការ​បោះពុម្ព {chaptersCount, number} ចុងក្រោយរបស់ជំរិះទីនេះ ការបោះពុម្ពបន្ទាប់មក​គឺត្រូវបានចេញជាមួយ ពួកថ្ងៃព្រហសរបស់ជំរិះទីនេះ.',
     'reader.nextChapterEstimation.days': 'លើកលែង​ពី​ការ​បោះពុម្ព {chaptersCount, number} ចុងក្រោយរបស់ជំរិះទីនេះ ការបោះពុម្ពបន្ទាប់មក​គឺអាចទទួលបាននៅក្នុងរយៈពេល {daysLeft, plural, one {ថ្ងៃ} other {សប្ដាហ៍}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'ព័ត៌មាននេះនឹងត្រូវបានផ្តល់ថ្លៃមួយពេលដែលរឿងនេះមានច្រើនជាងរួចហើយ។'
+    'reader.nextChapterEstimation.notEnoughChapters': 'ព័ត៌មាននេះនឹងត្រូវបានផ្តល់ថ្លៃមួយពេលដែលរឿងនេះមានច្រើនជាងរួចហើយ។',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
