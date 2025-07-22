@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'रद्द केलं.',
     'reader.nextChapterEstimation.verySoon': 'अंतिम {chaptersCount, number} अध्यायांच्या प्रकाशन तारखांच्या आधारे, पुढचा अध्याय खूप जलद उपलब्ध होणार आहे.',
     'reader.nextChapterEstimation.days': 'अंतिम {chaptersCount, number} अध्यायांच्या प्रकाशन तारखांच्या आधारे, पुढचा अध्याय आश्चर्यजनकपणे {daysLeft, plural, one {1 दिवसांमध्ये उपलब्ध होणार आहे} other {# दिवसं}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'ही कथा एकाच अध्यायांपेक्षा अधिक असेल तेव्हा म्हणजे या कथेच्या पुढच्या अध्यायाची तारीख आपल्याला पुरवठा करणारी आहे.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'ही कथा एकाच अध्यायांपेक्षा अधिक असेल तेव्हा म्हणजे या कथेच्या पुढच्या अध्यायाची तारीख आपल्याला पुरवठा करणारी आहे.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
