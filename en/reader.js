@@ -45,5 +45,6 @@ export default {
   'reader.nextChapterEstimation.days':
     'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
   'reader.nextChapterEstimation.notEnoughChapters':
-    'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.'
+    'We will also provide an estimate of when the next chapter might be published once this story has more than one chapter.',
+  'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.',
 }
