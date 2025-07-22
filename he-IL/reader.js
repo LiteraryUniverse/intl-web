@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'לא נמשך',
     'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
     'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'אנו נספק ערך משוער לכאשר הפרק הבא עשוי להתפרסם כאשר יהיה לסיפור זה יותר מפרק אחד.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'אנו נספק ערך משוער לכאשר הפרק הבא עשוי להתפרסם כאשר יהיה לסיפור זה יותר מפרק אחד.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
