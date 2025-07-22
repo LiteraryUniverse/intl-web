@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Avlyst',
     'reader.nextChapterEstimation.verySoon': 'Basert på publiseringsdatoene for de siste {chaptersCount, number} kapitlene, forventes det at neste kapittel blir utgitt veldig snart.',
     'reader.nextChapterEstimation.days': 'Basert på publiseringsdatoene for de siste {chaptersCount, number} kapitlene, bør neste kapittel være tilgjengelig om cirka {daysLeft, plural, one {1 dag} other {# dager}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Vi vil også gi en estimert utgivelsesdato for neste kapittel når denne historien har mer enn ett kapittel.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Vi vil også gi en estimert utgivelsesdato for neste kapittel når denne historien har mer enn ett kapittel.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
