@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Ακυρωμένο',
     'reader.nextChapterEstimation.verySoon': 'Βάσει των ημερομηνιών δημοσίευσης των τελευταίων {chaptersCount, number} κεφαλαίων, το επόμενο κεφάλαιο αναμένεται να κυκλοφορήσει πολύ σύντομα.',
     'reader.nextChapterEstimation.days': 'Βάσει των ημερομηνιών δημοσίευσης των τελευταίων {chaptersCount, number} κεφαλαίων, το επόμενο κεφάλαιο αναμένεται να είναι διαθέσιμο σε περίπου {daysLeft, plural, one {1 ημέρα} other {# ημέρες}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Θα παρέχουμε επίσης μια εκτίμηση για το πότε μπορεί να δημοσιευτεί το επόμενο κεφάλαιο αφού αυτή η ιστορία έχει περισσότερα από ένα κεφάλαια.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Θα παρέχουμε επίσης μια εκτίμηση για το πότε μπορεί να δημοσιευτεί το επόμενο κεφάλαιο αφού αυτή η ιστορία έχει περισσότερα από ένα κεφάλαια.',
+    'reader.comments.chapterNotAvailable': 'Δεν υπάρχουν ακόμη διαθέσιμα σχόλια. Αυτό συμβαίνει επειδή το κεφάλαιο δεν έχει κυκλοφορήσει ακόμα.'
 };
