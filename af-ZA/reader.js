@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Gekanselleer',
     'reader.nextChapterEstimation.verySoon': 'Gebaseer op die publikasiedatums van die laaste {chaptersCount, number} hoofstukke, word verwag dat die volgende hoofstuk binnekort beskikbaar sal wees.',
     'reader.nextChapterEstimation.days': 'Gebaseer op die publikasiedatums van die laaste {chaptersCount, number} hoofstukke, behoort die volgende hoofstuk beskikbaar te wees omtrent {daysLeft, plural, one {1 dag} other {# dae}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Ons sal ook \'n skatting gee van wanneer die volgende hoofstuk gepubliseer kan word as hierdie storie meer as een hoofstuk het.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Ons sal ook \'n skatting gee van wanneer die volgende hoofstuk gepubliseer kan word as hierdie storie meer as een hoofstuk het.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
