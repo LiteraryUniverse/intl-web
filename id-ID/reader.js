@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Dibatalkan',
     'reader.nextChapterEstimation.verySoon': 'Berdasarkan tanggal publikasi dari {chaptersCount, number} bab terakhir, bab selanjutnya diharapkan akan segera dirilis.',
     'reader.nextChapterEstimation.days': 'Berdasarkan tanggal publikasi dari {chaptersCount, number} bab terakhir, bab selanjutnya seharusnya tersedia dalam waktu sekitar {daysLeft, plural, one {1 hari} other {# hari}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Kami juga akan memberikan perkiraan kapan bab berikutnya mungkin akan diterbitkan setelah cerita ini memiliki lebih dari satu bab.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Kami juga akan memberikan perkiraan kapan bab berikutnya mungkin akan diterbitkan setelah cerita ini memiliki lebih dari satu bab.',
+    'reader.comments.chapterNotAvailable': 'Belum ada komentar yang tersedia. Hal ini karena bab ini belum dirilis.'
 };
