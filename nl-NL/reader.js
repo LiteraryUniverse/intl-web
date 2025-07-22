@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Geannuleerd',
     'reader.nextChapterEstimation.verySoon': 'Op basis van de publicatiedatums van de laatste {chaptersCount, number} hoofdstukken, wordt verwacht dat het volgende hoofdstuk zeer binnenkort wordt uitgebracht.',
     'reader.nextChapterEstimation.days': 'Op basis van de publicatiedatums van de laatste {chaptersCount, number} hoofdstukken, zou het volgende hoofdstuk naar verwachting beschikbaar zijn binnen ongeveer {daysLeft, plural, one {1 dag} other {# dagen}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Zodra dit verhaal meer dan één hoofdstuk heeft, zullen we ook een schatting geven van wanneer het volgende hoofdstuk gepubliceerd kan worden.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Zodra dit verhaal meer dan één hoofdstuk heeft, zullen we ook een schatting geven van wanneer het volgende hoofdstuk gepubliceerd kan worden.',
+    'reader.comments.chapterNotAvailable': 'Er is nog geen commentaar beschikbaar. Dit komt omdat het hoofdstuk nog niet is uitgebracht.'
 };
