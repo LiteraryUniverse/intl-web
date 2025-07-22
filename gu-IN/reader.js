@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'રદ થયેલ',
     'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
     'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'કેવળ એક અધ્યાયથી વધુ હોય ત્યારે આ કથાની આગામી અધ્યાય કયારે પ્રકાશિત થશે તેની અનુમાનિત સમયગાળો પણ આપવીશું.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'કેવળ એક અધ્યાયથી વધુ હોય ત્યારે આ કથાની આગામી અધ્યાય કયારે પ્રકાશિત થશે તેની અનુમાનિત સમયગાળો પણ આપવીશું.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
