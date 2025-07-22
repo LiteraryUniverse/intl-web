@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Nuligita',
     'reader.nextChapterEstimation.verySoon': 'Bazita je la publikigdatenoj de la lastaj {chaptersCount, number} ĉapitroj, la sekvonta ĉapitro estas atendata tre baldaŭ.',
     'reader.nextChapterEstimation.days': 'Bazita je la publikigdatenoj de la lastaj {chaptersCount, number} ĉapitroj, la sekvonta ĉapitro devus esti havebla post ĉirkaŭ {daysLeft, plural, one {1 tago} other {# tagoj}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Ankaŭ ni liveros antaŭŝatitan daton por la eldado de la sekvonta ĉapitro, post kiam tiu rakonto havos pli ol unu ĉapitro.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Ankaŭ ni liveros antaŭŝatitan daton por la eldado de la sekvonta ĉapitro, post kiam tiu rakonto havos pli ol unu ĉapitro.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
