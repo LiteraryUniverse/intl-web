@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Anulowane',
     'reader.nextChapterEstimation.verySoon': 'Na podstawie dat publikacji ostatnich {chaptersCount, number} rozdziałów, następny rozdział powinien zostać wydany bardzo niedługo.',
     'reader.nextChapterEstimation.days': 'Na podstawie dat publikacji ostatnich {chaptersCount, number} rozdziałów, następny rozdział powinien być dostępny w ciągu około {daysLeft, plural, one {1 dnia} other {# dni}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Również podamy przybliżoną datę publikacji następnego rozdziału, gdy historia będzie miała więcej niż jeden rozdział.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Również podamy przybliżoną datę publikacji następnego rozdziału, gdy historia będzie miała więcej niż jeden rozdział.',
+    'reader.comments.chapterNotAvailable': 'Komentarze nie są jeszcze dostępne. To dlatego, że rozdział nie został jeszcze wydany.'
 };
