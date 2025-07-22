@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Inställd',
     'reader.nextChapterEstimation.verySoon': 'Baserat på publiceringsdatumen för de senaste {chaptersCount, number} kapitlen förväntas nästa kapitel släppas mycket snart.',
     'reader.nextChapterEstimation.days': 'Baserat på publiceringsdatumen för de senaste {chaptersCount, number} kapitlen bör nästa kapitel vara tillgängligt om cirka {daysLeft, plural, one {1 dag} other {# dagar}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Vi kommer också att ge en uppskattning av när nästa kapitel kan bli publicerat när denna berättelse har mer än ett kapitel.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Vi kommer också att ge en uppskattning av när nästa kapitel kan bli publicerat när denna berättelse har mer än ett kapitel.',
+    'reader.comments.chapterNotAvailable': 'Inga kommentarer tillgängliga ännu. Detta beror på att kapitlet ännu inte har släppts.'
 };
