@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Cancel·lat',
     'reader.nextChapterEstimation.verySoon': 'Basant-se en les dates de publicació dels {chaptersCount, number} últims capítols, es preveu que el següent capítol s\'alliberi molt aviat.',
     'reader.nextChapterEstimation.days': 'Basant-se en les dates de publicació dels {chaptersCount, number} últims capítols, s\'espera que el següent capítol estigui disponible en aproximadament {daysLeft, plural, one {1 dia} other {# dies}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'També proporcionarem una estimació de quan el proper capítol podria ser publicat una vegada aquesta història tingui més d\'un capítol.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'També proporcionarem una estimació de quan el proper capítol podria ser publicat una vegada aquesta història tingui més d\'un capítol.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
