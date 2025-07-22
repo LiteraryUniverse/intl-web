@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'ยกเลิกแล้ว',
     'reader.nextChapterEstimation.verySoon': 'จากวันที่เผยแพร่ล่าสุดของบท {chaptersCount, number} แล้ว บทต่อไปคาดว่าจะเผยแพร่ในเร็ว ๆ นี้',
     'reader.nextChapterEstimation.days': 'จากวันที่เผยแพร่ล่าสุดของบท {chaptersCount, number} แล้ว บทต่อไปคาดว่าจะพร้อมใช้งานในระยะเวลาประมาณ {daysLeft, plural, one {1 วัน} other {วัน}}',
-    'reader.nextChapterEstimation.notEnoughChapters': 'เราจะให้การประมาณเมื่อบทต่อไปอาจจะเผยแพร่หลังจากเรื่องนี้มีมากกว่าหนึ่งบท'
+    'reader.nextChapterEstimation.notEnoughChapters': 'เราจะให้การประมาณเมื่อบทต่อไปอาจจะเผยแพร่หลังจากเรื่องนี้มีมากกว่าหนึ่งบท',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
