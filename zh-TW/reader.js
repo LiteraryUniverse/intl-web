@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': '已取消',
     'reader.nextChapterEstimation.verySoon': '基於最近 {chaptersCount, number} 章節的發布日期，下一章預計很快就會發布。',
     'reader.nextChapterEstimation.days': '基於最近 {chaptersCount, number} 章節的發布日期，下一章預計在大約 {daysLeft, plural, one {1天} other {天}}後可用。',
-    'reader.nextChapterEstimation.notEnoughChapters': '一旦這個故事有超過一章時，我們也會提供下一章可能發布的一個估計。'
+    'reader.nextChapterEstimation.notEnoughChapters': '一旦這個故事有超過一章時，我們也會提供下一章可能發布的一個估計。',
+    'reader.comments.chapterNotAvailable': '暫無評論。這是因為本章尚未發行。'
 };
