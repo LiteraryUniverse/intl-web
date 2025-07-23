@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'বাতিল করা হয়েছে',
     'reader.nextChapterEstimation.verySoon': 'শেহতীয়া প্রকাশের তারিখসমূহের ভিত্তিতে {chaptersCount, number} অধ্যায়ের মধ্যে, পরবর্তী অধ্যায় খুব শীঘ্রই মুক্তিপ্রাপ্ত হবে।',
     'reader.nextChapterEstimation.days': 'শেহতীয়া প্রকাশের তারিখসমূহের ভিত্তিতে {chaptersCount, number} অধ্যায়ের মধ্যে, পরবর্তী অধ্যায় প্রাপ্তযোগ্য হবে আশঙ্কিত {daysLeft, plural, one {1 দিনে} other {# দিন}}।',
-    'reader.nextChapterEstimation.notEnoughChapters': 'এই গল্পের একটি অধ্যায় থেকে বেশি থাকলে পরবর্তী অধ্যায়ের প্রকাশের একটি আনুমানিক সময় উপস্থাপন করব।'
+    'reader.nextChapterEstimation.notEnoughChapters': 'এই গল্পের একটি অধ্যায় থেকে বেশি থাকলে পরবর্তী অধ্যায়ের প্রকাশের একটি আনুমানিক সময় উপস্থাপন করব।',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Nu\'osti',
     'reader.nextChapterEstimation.verySoon': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter is expected to be released very soon.',
     'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'mi\'a ca lo nu le lisri cu se vasru vau zo\'e cu simlu lo nu le se lidne lisri cu se ca\'o bancu'
+    'reader.nextChapterEstimation.notEnoughChapters': 'mi\'a ca lo nu le lisri cu se vasru vau zo\'e cu simlu lo nu le se lidne lisri cu se ca\'o bancu',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

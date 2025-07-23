@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Anulat',
     'reader.nextChapterEstimation.verySoon': 'Pe baza datelor de publicare ale ultimelor {chaptersCount, number} capitole, următorul capitol este așteptat să fie lansat foarte curând.',
     'reader.nextChapterEstimation.days': 'Pe baza datelor de publicare ale ultimelor {chaptersCount, number} capitole, următorul capitol ar trebui să fie disponibil în aproximativ {daysLeft, plural, one {1 zi} other {# zile}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Vom oferi și o estimare a momentului în care următorul capitol ar putea fi publicat odată ce această poveste va avea mai mult de un capitol.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Vom oferi și o estimare a momentului în care următorul capitol ar putea fi publicat odată ce această poveste va avea mai mult de un capitol.',
+    'reader.comments.chapterNotAvailable': 'Nu există comentarii disponibile încă. Acest lucru se datorează faptului că capitolul nu este încă lansat.'
 };

@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'İptal Edildi',
     'reader.nextChapterEstimation.verySoon': 'Son {chaptersCount, number} bölümün yayın tarihlerine göre, bir sonraki bölüm çok yakında yayınlanacak.',
     'reader.nextChapterEstimation.days': 'Son {chaptersCount, number} bölümün yayın tarihlerine göre, bir sonraki bölüm yaklaşık olarak {daysLeft, plural, one {1 gün içinde mevcut olmalıdır} other {# gün}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Bu hikaye birkaç bölümden fazlası olduğunda, bir sonraki bölümün ne zaman yayınlanabileceği konusunda bir tahmin de vereceğiz.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Bu hikaye birkaç bölümden fazlası olduğunda, bir sonraki bölümün ne zaman yayınlanabileceği konusunda bir tahmin de vereceğiz.',
+    'reader.comments.chapterNotAvailable': 'Henüz yorum yok. Bunun nedeni bölümün henüz yayınlanmamış olmasıdır.'
 };

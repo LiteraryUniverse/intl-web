@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Отменено',
     'reader.nextChapterEstimation.verySoon': 'Судя по датам публикации последних {chaptersCount, number} глав, выход следующей главы ожидается очень скоро.',
     'reader.nextChapterEstimation.days': 'Исходя из дат публикации последних {chaptersCount, number} глав, следующая глава должна быть доступна примерно через {daysLeft, plural, one {1 день} few {# дня} many {# дней} other {# дней}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Мы также предоставим приблизительную дату публикации следующей главы, когда в этой истории будет больше одной главы.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Мы также предоставим приблизительную дату публикации следующей главы, когда в этой истории будет больше одной главы.',
+    'reader.comments.chapterNotAvailable': 'Комментарии пока недоступны. Это потому, что глава еще не выпущена.'
 };

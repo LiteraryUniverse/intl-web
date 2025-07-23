@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'キャンセル',
     'reader.nextChapterEstimation.verySoon': '過去の {chaptersCount, number} 章の投稿日に基づいて、次の章は非常に近いうちにリリースされる予定です。',
     'reader.nextChapterEstimation.days': '過去の {chaptersCount, number} 章の投稿日に基づいて、次の章はおおよそ {daysLeft, plural, one {1日} other {日後に利用可能となります}}。',
-    'reader.nextChapterEstimation.notEnoughChapters': 'この物語に複数のチャプターがある場合、次のチャプターがいつ公開されるかの見積もりも提供します。'
+    'reader.nextChapterEstimation.notEnoughChapters': 'この物語に複数のチャプターがある場合、次のチャプターがいつ公開されるかの見積もりも提供します。',
+    'reader.comments.chapterNotAvailable': 'コメントはまだありません。まだチャプターがリリースされていないためです。'
 };

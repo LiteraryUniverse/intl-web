@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'రద్దు చేయబడింది',
     'reader.nextChapterEstimation.verySoon': 'చివరి {chaptersCount, number} అధ్యాయాల ప్రచురణ తేదీల ఆధారంగా, తదుపరి అనుకుంటాం కానీ మొదటి అధ్యాయం త్వరలో అడ్డుగులో ఉంటుంది.',
     'reader.nextChapterEstimation.days': 'చివరి {chaptersCount, number} అధ్యాయాల ప్రచురణ తేదీల ఆధారంగా, తదుపరి అనుకుంటాం కానీ మొదటి అధ్యాయం ప్రారంభం అంతా రోజుల్లో {daysLeft, plural, one {1 రోజు} other {# రోజులు}}లో అందుబాటులో ఉంటుంది.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'కథ ఒక అధ్యాయం పైన ఒకటికి తదితర అధ్యాయాలు ప్రకటన కలబడిన తర్వాత మేము ఇప్పటికే ప్రకటన తేదీకి ఒక అంచనా ఇవ్వబోతున్నాము.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'కథ ఒక అధ్యాయం పైన ఒకటికి తదితర అధ్యాయాలు ప్రకటన కలబడిన తర్వాత మేము ఇప్పటికే ప్రకటన తేదీకి ఒక అంచనా ఇవ్వబోతున్నాము.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

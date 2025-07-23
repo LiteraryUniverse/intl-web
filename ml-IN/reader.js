@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'റദ്ദാക്കിയിരിക്കുന്നു',
     'reader.nextChapterEstimation.verySoon': 'അവസാനത്തെ {chaptersCount, number} അദ്ധ്യായങ്ങളുടെ പ്രസിദ്ധീകരണ തീയതികളുടെ അടിസ്ഥാനത്തിൽ, അടുത്ത അദ്ധ്യായം വെറും അതിവേഗം പ്രസിദ്ധീകരിക്കപ്പെടുന്നു.',
     'reader.nextChapterEstimation.days': 'അവസാനത്തെ {chaptersCount, number} അദ്ധ്യായങ്ങളുടെ പ്രസിദ്ധീകരണ തീയതികളുടെ അടിസ്ഥാനത്തിൽ, അടുത്ത അദ്ധ്യായം പ്രാത്യക്ഷപ്പെടുന്നതിനു ശേഷം ലഭ്യമാകും അപേക്ഷിക്കുകയുണ്ടാകും {daysLeft, plural, one {1 ദിവസം} other {# ദിവസങ്ങൾ}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'ഈ കഥയിൽ 1 അദ്ധ്യായംകൂടാതെ മറ്റൊന്നും ഇല്ലാതാകുന്നതിനു ശേഷം പുതിയ അദ്ധ്യായം പ്രസിദ്ധീകരിക്കപ്പെടുന്നതിനോടുള്ള ഒരു അംഗീകാരം നൽകുന്നു.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'ഈ കഥയിൽ 1 അദ്ധ്യായംകൂടാതെ മറ്റൊന്നും ഇല്ലാതാകുന്നതിനു ശേഷം പുതിയ അദ്ധ്യായം പ്രസിദ്ധീകരിക്കപ്പെടുന്നതിനോടുള്ള ഒരു അംഗീകാരം നൽകുന്നു.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

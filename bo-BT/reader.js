@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'བརྗོད་གན།',
     'reader.nextChapterEstimation.verySoon': 'གནང་བ་གི་དང་པ་གི་ཁ་མ་འདི་རྩ་བའི་དུས་ཡུན་ལག་ལེན་འབྱུང་བའི་ཉིནམ་ལས་འདི་ཡོད་པའི་གནང་བ་གནང་བ་ལེན་པ་དང་གནང་བ་གཞི་བའི་ཉིནམ་ལས་འདི་རྩ་བའི་ནང་ལ་ {chaptersCount, number} ལོག་འགོ་འབད་ཡོད་པའི་གནང་བ་གནང་བ་ལེན་པ་དང་གནང་བ་གཞི་བའི་ཉིནམ་ལས་འདི་རྩ་བ་བཟོ་བ།',
     'reader.nextChapterEstimation.days': 'Based on the publication dates of the last {chaptersCount, number} chapters, the next chapter should be available in approximately {daysLeft, plural, one {1 day} other {# days}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'འགྱུར་ཡུལ་དང་ཤུ་ཨེ་བརྗོད་གནས་སྤྱོད་པའི་བསྗོད་འབད་པའི་དོགས་པ་སོགས་དང་ནང་བདེའགས་དོན་གང་རུང་གི་རྡོ་བདག་སྟེ་བསྡུ་བསྐུལ་འདེམས་ཁེལ་ནང་དེ་ཡོད་པ་ལག་གསོ་བརྐྱབས་རྫོགས་བཞིན་མ་འོངས་པ་ཡོད།'
+    'reader.nextChapterEstimation.notEnoughChapters': 'འགྱུར་ཡུལ་དང་ཤུ་ཨེ་བརྗོད་གནས་སྤྱོད་པའི་བསྗོད་འབད་པའི་དོགས་པ་སོགས་དང་ནང་བདེའགས་དོན་གང་རུང་གི་རྡོ་བདག་སྟེ་བསྡུ་བསྐུལ་འདེམས་ཁེལ་ནང་དེ་ཡོད་པ་ལག་གསོ་བརྐྱབས་རྫོགས་བཞིན་མ་འོངས་པ་ཡོད།',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

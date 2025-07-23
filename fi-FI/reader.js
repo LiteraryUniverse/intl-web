@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Peruutettu',
     'reader.nextChapterEstimation.verySoon': 'Viimeisten {chaptersCount, number} lukujen julkaisupäivämäärien perusteella seuraava luku julkaistaan hyvin pian.',
     'reader.nextChapterEstimation.days': 'Viimeisten {chaptersCount, number} lukujen julkaisupäivien perusteella seuraavan luvun pitäisi olla saatavilla noin {daysLeft, plural, one {1 päivä} other {# päivää}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Kun tarinalla on enemmän kuin yksi luku, annamme myös arvion siitä, milloin seuraava luku saattaisi ilmestyä.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Kun tarinalla on enemmän kuin yksi luku, annamme myös arvion siitä, milloin seuraava luku saattaisi ilmestyä.',
+    'reader.comments.chapterNotAvailable': 'Kommentteja ei ole vielä saatavilla. Tämä johtuu siitä, että lukua ei ole vielä julkaistu.'
 };

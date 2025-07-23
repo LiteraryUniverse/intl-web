@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'გაუქმებულია',
     'reader.nextChapterEstimation.verySoon': 'ბოლო {chaptersCount, number} -ის გამოვლენის დაფუძველის პუბლიკაციად შეგვიძლია.',
     'reader.nextChapterEstimation.days': 'ბოლო {chaptersCount, number} თარიღის მიხედვით, შემდეგი თავისუფალი თავად არსებული თავისი თავისუფლების შემდეგ უნდა იყოს ჩატვირთული დღეში დარჩენილი {daysLeft, plural, one {1 დღის} other {# დღის}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'სიმართლე მეტი უნდა იყოს, როდესაც მოწევისთვის უკვე აქვს ერთი ან რამოდენიმე თავისი გამოცალინი.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'სიმართლე მეტი უნდა იყოს, როდესაც მოწევისთვის უკვე აქვს ერთი ან რამოდენიმე თავისი გამოცალინი.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'ملغى',
     'reader.nextChapterEstimation.verySoon': 'بناءً على تواريخ النشر للفصول الأخيرة {chaptersCount, number} ، من المتوقع أن يتم إصدار الفصل التالي قريبًا جدًا.',
     'reader.nextChapterEstimation.days': 'بناءً على تواريخ النشر للفصول الأخيرة {chaptersCount, number} ، يجب أن يكون الفصل التالي متاحًا في ما يقرب من {daysLeft, plural, one {يوم} other {# أيام}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'سنقدم أيضًا تقديرًا لمتى قد يتم نشر الفصل التالي بمجرد أن يحتوي هذا القصة على أكثر من فصل واحد.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'سنقدم أيضًا تقديرًا لمتى قد يتم نشر الفصل التالي بمجرد أن يحتوي هذا القصة على أكثر من فصل واحد.',
+    'reader.comments.chapterNotAvailable': 'لا توجد تعليقات متاحة حتى الآن. وذلك لأن الفصل لم يصدر بعد.'
 };

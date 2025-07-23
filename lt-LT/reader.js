@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Atšaukta',
     'reader.nextChapterEstimation.verySoon': 'Remiantis paskutinių {chaptersCount, number} skyrių leidimo datomis, kitas skyrius turėtų būti išleistas labai netrukus.',
     'reader.nextChapterEstimation.days': 'Remiantis paskutinių {chaptersCount, number} skyrių leidimo datomis, kitas skyrius turėtų būti prieinamas apytiksliai per {daysLeft, plural, one {1 dieną} other {# dienas}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Kai ši istorija turės daugiau nei vieną skyrių, taip pat pateiksime įvertinimą, kada gali būti publikuojamas kitas skyrius.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Kai ši istorija turės daugiau nei vieną skyrių, taip pat pateiksime įvertinimą, kada gali būti publikuojamas kitas skyrius.',
+    'reader.comments.chapterNotAvailable': 'Komentarų dar nėra. Taip yra todėl, kad skyrius dar neišleistas.'
 };

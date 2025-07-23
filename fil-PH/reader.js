@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Itinigil',
     'reader.nextChapterEstimation.verySoon': 'Batay sa mga petsa ng paglalabas ng huling {chaptersCount, number} kabanata, inaasahan na malapit nang ilabas ang susunod na kabanata.',
     'reader.nextChapterEstimation.days': 'Batay sa mga petsa ng paglalabas ng huling {chaptersCount, number} kabanata, dapat magiging available ang susunod na kabanata sa loob ng mga {daysLeft, plural, one {1 araw} other {# mga araw}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Magbibigay din kami ng taya kung kailan maaaring mai-publish ang susunod na kabanata kapag mayroon nang higit sa isang kabanata ang kwentong ito.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Magbibigay din kami ng taya kung kailan maaaring mai-publish ang susunod na kabanata kapag mayroon nang higit sa isang kabanata ang kwentong ito.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

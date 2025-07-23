@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Cealaigh',
     'reader.nextChapterEstimation.verySoon': 'Bunaithe ar dátaí foilseachán na {chaptersCount, number} cinn deiridh, táthar ag súil go mbeidh an chéad chaibidil ar fáil go luath.',
     'reader.nextChapterEstimation.days': 'Bunaithe ar dátaí foilseachán na {chaptersCount, number} cinn deiridh, táthar ag súil go mbeidh an chéad chaibidil ar fáil i gcomhair {daysLeft, plural, one {1 lá} other {# lá}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Tabharfaimid meastachán freisin ar an am a d\'fhéadfadh an chéad chaibidil a bheith foilsithe nuair a bheidh níos mó ná cúpla chaibidil sa scéal seo.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Tabharfaimid meastachán freisin ar an am a d\'fhéadfadh an chéad chaibidil a bheith foilsithe nuair a bheidh níos mó ná cúpla chaibidil sa scéal seo.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

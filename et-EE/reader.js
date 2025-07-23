@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Tühistatud',
     'reader.nextChapterEstimation.verySoon': 'Viimase {chaptersCount, number} peatüki avaldamise kuupäevade põhjal oodatakse väga varsti järgmist peatükki.',
     'reader.nextChapterEstimation.days': 'Viimase {chaptersCount, number} peatüki avaldamise kuupäevade põhjal peaks järgmine peatükk olema saadaval umbes {daysLeft, plural, one {1 päeva} other {jooksul}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Kui sellel lool on rohkem kui üks peatükk, siis anname ka hinnangu, millal järgmine peatükk võib avaldatud saada.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Kui sellel lool on rohkem kui üks peatükk, siis anname ka hinnangu, millal järgmine peatükk võib avaldatud saada.',
+    'reader.comments.chapterNotAvailable': 'Kommentaarid puuduvad veel. Seda seetõttu, et peatükk ei ole veel avaldatud.'
 };

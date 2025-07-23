@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Zrušeno',
     'reader.nextChapterEstimation.verySoon': 'Na základě dat vydání posledních {chaptersCount, number} kapitol se očekává, že další kapitola bude vydána velmi brzy.',
     'reader.nextChapterEstimation.days': 'Na základě dat vydání posledních {chaptersCount, number} kapitol by další kapitola měla být k dispozici přibližně za {daysLeft, plural, one {1 den} few {# dny} many {# dní} other {# dní}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Jakmile bude mít tato povídka více než jednu kapitolu, poskytneme i odhad kdy by mohla být další kapitola publikována.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Jakmile bude mít tato povídka více než jednu kapitolu, poskytneme i odhad kdy by mohla být další kapitola publikována.',
+    'reader.comments.chapterNotAvailable': 'Zatím nejsou k dispozici žádné komentáře. Je to proto, že kapitola ještě nebyla vydána.'
 };

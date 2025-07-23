@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'ବାତିଲ',
     'reader.nextChapterEstimation.verySoon': 'ସମାଚାର ପ୍ରକାଶନ ତାରିଖେ ଆଧାରେ  ଅନୁଯାୟିକ {chaptersCount, number} ଅଧ୍ୟାୟ ର ପ୍ରକାଶନ ତଥ୍ୟ ଦ୍ଵାରା, ପରବର୍ତ୍ତିକ ଅଧ୍ୟାୟ ବହୁତ ଶୀଘ୍ରଇ ପ୍ରକାଶନ ହେବ ଚାହିଁଛି।',
     'reader.nextChapterEstimation.days': 'ସମାଚାର ପ୍ରକାଶନ ତାରିଖେ ଆଧାରେ  ଅନୁଯାୟିକ {chaptersCount, number} ଅଧ୍ୟାୟ ର ପ୍ରକାଶନ ତଥ୍ୟ ଦ୍ବାରା, ପରବର୍ତ୍ତିକ ଅଧ୍ୟାୟ ପ୍ରାସଙ୍ଗିକ {daysLeft, plural, one {1 ଦିନ} other {ରେ ଉପଲବ୍ଧ ହେବ}}ଦିନ ।',
-    'reader.nextChapterEstimation.notEnoughChapters': 'ଏହି ଗପରେ ଏକଟି ଭାଗରେ ହାଖଖୋରେ ଏହି ଗପ ଅଧ୍ୟାୟ ୧ ପାଇଁ ପ୍ରକାଶନ କରିବେ, ତେବେ ଯଥାଯଥ ଅବଧି ନିର୍ଧାରଣ କରିବେ।'
+    'reader.nextChapterEstimation.notEnoughChapters': 'ଏହି ଗପରେ ଏକଟି ଭାଗରେ ହାଖଖୋରେ ଏହି ଗପ ଅଧ୍ୟାୟ ୧ ପାଇଁ ପ୍ରକାଶନ କରିବେ, ତେବେ ଯଥାଯଥ ଅବଧି ନିର୍ଧାରଣ କରିବେ।',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };

@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Cancelada',
     'reader.nextChapterEstimation.verySoon': 'Basado en las fechas de publicación de los últimos {chaptersCount, number} capítulos, se espera que el próximo capítulo sea lanzado muy pronto.',
     'reader.nextChapterEstimation.days': 'Basado en las fechas de publicación de los últimos {chaptersCount, number} capítulos, el próximo capítulo debería estar disponible en aproximadamente {daysLeft, plural, one {1 día} other {# días}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'También proporcionaremos una estimación de cuándo se podría publicar el próximo capítulo una vez que esta historia tenga más de un capítulo.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'También proporcionaremos una estimación de cuándo se podría publicar el próximo capítulo una vez que esta historia tenga más de un capítulo.',
+    'reader.comments.chapterNotAvailable': 'Aún no hay comentarios disponibles. Esto se debe a que el capítulo aún no se ha publicado.'
 };

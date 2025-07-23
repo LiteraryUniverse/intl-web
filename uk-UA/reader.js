@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'Припинено',
     'reader.nextChapterEstimation.verySoon': 'На основі дат публікації останніх {chaptersCount, number} розділів, наступний розділ очікується незабаром.',
     'reader.nextChapterEstimation.days': 'На основі дат публікації останніх {chaptersCount, number} розділів, наступний розділ повинен бути доступний приблизно через {daysLeft, plural, one {1 день} other {# днів}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'Ми також надамо оцінку того, коли наступний розділ може бути опублікований, якщо ця історія має більше одного розділу.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'Ми також надамо оцінку того, коли наступний розділ може бути опублікований, якщо ця історія має більше одного розділу.',
+    'reader.comments.chapterNotAvailable': 'Коментарів поки що немає. Це тому, що глава ще не опублікована.'
 };

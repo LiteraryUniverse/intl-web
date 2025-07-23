@@ -35,5 +35,6 @@ export default {
     'reader.storyCancelled.heading': 'ರದ್ದುಗೊಳ್ಳಲಾಗಿದೆ',
     'reader.nextChapterEstimation.verySoon': 'ಹಿಂದಿನ {chaptersCount, number} ಅಧ್ಯಾಯಗಳ ಪ್ರಕಟಣೆ ದಿನಾಂಕಗಳ ಆಧಾರದಿಂದ ಮುಂದಿನ ಅಧ್ಯಾಯವು ಬಹುಶಃ ತುಂಬಾ ಬೇಗ ಬರಬೇಕಾಗಿದೆ.',
     'reader.nextChapterEstimation.days': 'ಕೊನೆಯ {chaptersCount, number} ಅಧ್ಯಾಯಗಳ ಪ್ರಕಟಣೆ ದಿನಾಂಕಗಳ ಆಧಾರದ ಮೇಲೆ, ಮುಂದಿನ ಅಧ್ಯಾಯ ಸುಮಾರು {daysLeft, plural, one {1 ದಿನದ ಒಳಗೆ ಲಭ್ಯವಿರಬಹುದು} other {# ದಿನಗಳು}}.',
-    'reader.nextChapterEstimation.notEnoughChapters': 'ಈ ಕಥೆಗೆ ಹೆಚ್ಚು ಮೊದಲಿನ ಒಂದು ಅಧ್ಯಾಯ ಆಗಿದೆಯೇ ಇಲ್ಲವೇ ಎಂದು ನಿಶ್ಚಯಿಸಬೇಕಾಗಿ ಬಂದಾಗ, ಮುಂದಿನ ಅಧ್ಯಾಯದ ಪ್ರಕಟಣೆಯ ಅಂಕಿಗೆ ಒಂದು ಅಂಕಿಗೆ ನಿಗದಿಕೊಡುತ್ತೇವೆ.'
+    'reader.nextChapterEstimation.notEnoughChapters': 'ಈ ಕಥೆಗೆ ಹೆಚ್ಚು ಮೊದಲಿನ ಒಂದು ಅಧ್ಯಾಯ ಆಗಿದೆಯೇ ಇಲ್ಲವೇ ಎಂದು ನಿಶ್ಚಯಿಸಬೇಕಾಗಿ ಬಂದಾಗ, ಮುಂದಿನ ಅಧ್ಯಾಯದ ಪ್ರಕಟಣೆಯ ಅಂಕಿಗೆ ಒಂದು ಅಂಕಿಗೆ ನಿಗದಿಕೊಡುತ್ತೇವೆ.',
+    'reader.comments.chapterNotAvailable': 'No comments available yet. This is because chapter is not yet released.'
 };
