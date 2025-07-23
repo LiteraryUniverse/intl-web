@@ -3,6 +3,10 @@
 ## 2025-06-29 - v2.17.3
 
 * Revert removal of strings by Crowdin
+* Significant fixes for Czech
+* More strings for content selector
+* Add missing keys
+* More strings for public courses display
 
 ## 2025-06-29 - v2.17.2
 
