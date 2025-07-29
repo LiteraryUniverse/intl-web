@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Õiguslik tekst',
     'licenses.chooser.back': 'Tagasi',
     'licenses.chooser.select': 'Valige see litsents',
-    'licenses.commercial.title': 'Kommertslitsentsi teave'
+    'licenses.commercial.title': 'Kommertslitsentsi teave',
+    'licenses.commercial.exclusive': 'Selle eksklusiivse litsentsiga võtab Literary Universe 10% tasu teie sissetulekust. See tähendab, et te saate 90% tulust, mis on saadud teie tööga meie platvormil.',
+    'licenses.commercial.nonExclusive': 'Selle mitte-eksklusiivse litsentsi puhul võtab Literary Universe 30% tasu teie sissetulekust meie platvormil. See tähendab, et te saate 70% oma tööga Literary Universe\'is teenitud tuludest.'
 };
