@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Právní text',
     'licenses.chooser.back': 'Zpět',
     'licenses.chooser.select': 'Vyberte tuto licenci',
-    'licenses.commercial.title': 'Informace o komerční licenci'
+    'licenses.commercial.title': 'Informace o komerční licenci',
+    'licenses.commercial.exclusive': 'Díky této exkluzivní licenci si Literary Universe účtuje 10% poplatek z Vašich příjmů. To znamená, že obdržíte 90 % příjmů z Vaší práce na naší platformě.',
+    'licenses.commercial.nonExclusive': 'S touto nevýhradní licencí si Literary Universe účtuje 30% z Vašich příjmů na naší platformě. To znamená, že obdržíte 70 % příjmů z Vaší práce na Literary Universe.'
 };
