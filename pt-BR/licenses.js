@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Texto legal',
     'licenses.chooser.back': 'Voltar',
     'licenses.chooser.select': 'Selecione esta licença',
-    'licenses.commercial.title': 'Informações sobre licenças comerciais'
+    'licenses.commercial.title': 'Informações sobre licenças comerciais',
+    'licenses.commercial.exclusive': 'Com essa licença exclusiva, o Literary Universe cobrará uma taxa de 10% de seus ganhos. Isso significa que o senhor receberá 90% da receita gerada pelo seu trabalho em nossa plataforma.',
+    'licenses.commercial.nonExclusive': 'Com essa licença não exclusiva, o Literary Universe cobrará uma taxa de 30% sobre seus ganhos em nossa plataforma. Isso significa que o senhor receberá 70% da receita gerada pelo seu trabalho no Literary Universe.'
 };
