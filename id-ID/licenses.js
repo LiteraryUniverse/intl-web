@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Teks Hukum',
     'licenses.chooser.back': 'Kembali',
     'licenses.chooser.select': 'Pilih Lisensi Ini',
-    'licenses.commercial.title': 'Informasi Lisensi Komersial'
+    'licenses.commercial.title': 'Informasi Lisensi Komersial',
+    'licenses.commercial.exclusive': 'Dengan lisensi eksklusif ini, Literary Universe akan mengambil biaya 10% dari penghasilan Anda. Ini berarti Anda akan menerima 90% dari pendapatan yang dihasilkan dari karya Anda di platform kami.',
+    'licenses.commercial.nonExclusive': 'Dengan lisensi non-eksklusif ini, Literary Universe akan mengambil biaya 30% dari penghasilan Anda di platform kami. Ini berarti Anda akan menerima 70% dari pendapatan yang dihasilkan dari karya Anda di Literary Universe.'
 };
