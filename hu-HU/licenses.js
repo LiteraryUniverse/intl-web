@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Jogi szöveg',
     'licenses.chooser.back': 'Vissza',
     'licenses.chooser.select': 'Válassza ki ezt a licencet',
-    'licenses.commercial.title': 'Kereskedelmi licenc információk'
+    'licenses.commercial.title': 'Kereskedelmi licenc információk',
+    'licenses.commercial.exclusive': 'Ezzel az exkluzív licenccel a Literary Universe 10%-os díjat von le a bevételéből. Ez azt jelenti, hogy a platformunkon megjelenő munkáidból származó bevétel 90%-át te kapod.',
+    'licenses.commercial.nonExclusive': 'Ezzel a nem kizárólagos licenccel a Literary Universe 30%-os díjat szed a platformunkon elért bevételeiből. Ez azt jelenti, hogy Ön a Literary Universe-en végzett munkáiból származó bevétel 70%-át kapja meg.'
 };
