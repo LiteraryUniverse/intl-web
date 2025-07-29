@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Νομικό κείμενο',
     'licenses.chooser.back': 'Πίσω',
     'licenses.chooser.select': 'Επιλέξτε αυτή την άδεια',
-    'licenses.commercial.title': 'Πληροφορίες εμπορικής άδειας'
+    'licenses.commercial.title': 'Πληροφορίες εμπορικής άδειας',
+    'licenses.commercial.exclusive': 'Με αυτή την αποκλειστική άδεια, το Literary Universe θα λάβει μια αμοιβή 10% από τα κέρδη σας. Αυτό σημαίνει ότι θα λαμβάνετε το 90% των εσόδων που προκύπτουν από το έργο σας στην πλατφόρμα μας.',
+    'licenses.commercial.nonExclusive': 'Με αυτή τη μη αποκλειστική άδεια χρήσης, το Literary Universe θα λάβει μια αμοιβή 30% από τα κέρδη σας στην πλατφόρμα μας. Αυτό σημαίνει ότι θα λαμβάνετε το 70% των εσόδων που προκύπτουν από την εργασία σας στο Literary Universe.'
 };
