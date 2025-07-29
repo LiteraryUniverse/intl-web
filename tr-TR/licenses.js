@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Yasal Metin',
     'licenses.chooser.back': 'Geri',
     'licenses.chooser.select': 'Bu Lisansı Seçin',
-    'licenses.commercial.title': 'Ticari Lisans Bilgileri'
+    'licenses.commercial.title': 'Ticari Lisans Bilgileri',
+    'licenses.commercial.exclusive': 'Bu özel lisansla, Literary Universe kazançlarınızdan %10 oranında bir ücret alacaktır. Bu, platformumuzdaki çalışmalarınızdan elde edilen gelirin %90\'ını alacağınız anlamına gelir.',
+    'licenses.commercial.nonExclusive': 'Bu münhasır olmayan lisans ile Literary Universe, platformumuzdaki kazançlarınızdan %30 ücret alacaktır. Bu, Literary Universe\'teki çalışmalarınızdan elde edilen gelirin %70\'ini alacağınız anlamına gelir.'
 };
