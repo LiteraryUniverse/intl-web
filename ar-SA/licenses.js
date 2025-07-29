@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'النص القانوني',
     'licenses.chooser.back': 'رجوع',
     'licenses.chooser.select': 'اختر هذا الترخيص',
-    'licenses.commercial.title': 'معلومات الرخصة التجارية'
+    'licenses.commercial.title': 'معلومات الرخصة التجارية',
+    'licenses.commercial.exclusive': 'مع هذا الترخيص الحصري، سيحصل Literary Universe على رسوم بنسبة 10% من أرباحك. هذا يعني أنك ستحصل على 90% من الإيرادات الناتجة عن عملك على منصتنا.',
+    'licenses.commercial.nonExclusive': 'مع هذا الترخيص غير الحصري، سيأخذ Literary Universe رسومًا بنسبة 30% من أرباحك على منصتنا. هذا يعني أنك ستحصل على 70% من الإيرادات الناتجة عن عملك على موقع Literary Universe.'
 };

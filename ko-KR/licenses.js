@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': '법률 텍스트',
     'licenses.chooser.back': '뒤로',
     'licenses.chooser.select': '이 라이선스 선택',
-    'licenses.commercial.title': '상업용 라이선스 정보'
+    'licenses.commercial.title': '상업용 라이선스 정보',
+    'licenses.commercial.exclusive': '이 독점 라이선스를 통해 문학세계는 회원님의 수익에서 10%의 수수료를 가져갑니다. 즉, 회원님은 저희 플랫폼에서 작품으로 발생한 수익의 90%를 받게 됩니다.',
+    'licenses.commercial.nonExclusive': '이 비독점 라이선스를 통해 문학의 세계는 플랫폼에서 발생하는 수익의 30%를 수수료로 가져갑니다. 즉, 회원님은 문학 유니버스에서 작품으로 발생한 수익의 70%를 받게 됩니다.'
 };

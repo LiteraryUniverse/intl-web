@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Lakiteksti',
     'licenses.chooser.back': 'Takaisin',
     'licenses.chooser.select': 'Valitse tämä lisenssi',
-    'licenses.commercial.title': 'Kaupallisen lisenssin tiedot'
+    'licenses.commercial.title': 'Kaupallisen lisenssin tiedot',
+    'licenses.commercial.exclusive': 'Tämän yksinoikeuslisenssin myötä Literary Universe ottaa 10 %:n palkkion tuloistasi. Tämä tarkoittaa, että saat 90 % tuloista, jotka syntyvät teoksestasi alustallamme.',
+    'licenses.commercial.nonExclusive': 'Tämän ei-yksinomaisen lisenssin myötä Literary Universe ottaa 30 % maksun alustallamme saamistasi tuloista. Tämä tarkoittaa, että saat 70 % tuloista, jotka syntyvät työstäsi Literary Universessa.'
 };

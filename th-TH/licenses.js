@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Legal Text',
     'licenses.chooser.back': 'Back',
     'licenses.chooser.select': 'Select This License',
-    'licenses.commercial.title': 'Commercial License Information'
+    'licenses.commercial.title': 'Commercial License Information',
+    'licenses.commercial.exclusive': 'ด้วยใบอนุญาตพิเศษนี้ ลิเทอรัรี ยูนิเวิร์ส จะคิดค่าธรรมเนียม 10% จากรายได้ของคุณ ซึ่งหมายความว่าคุณจะได้รับ 90% ของรายได้ที่เกิดจากผลงานของคุณบนแพลตฟอร์มของเรา',
+    'licenses.commercial.nonExclusive': 'ด้วยใบอนุญาตที่ไม่ผูกขาดนี้ Literary Universe จะเรียกเก็บค่าธรรมเนียม 30% จากรายได้ของคุณบนแพลตฟอร์มของเรา ซึ่งหมายความว่าคุณจะได้รับ 70% ของรายได้ที่เกิดจากผลงานของคุณบน Literary Universe'
 };

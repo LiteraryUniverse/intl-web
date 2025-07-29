@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'リーガル・テキスト',
     'licenses.chooser.back': 'バック',
     'licenses.chooser.select': 'このライセンスを選択する',
-    'licenses.commercial.title': '商用ライセンス情報'
+    'licenses.commercial.title': '商用ライセンス情報',
+    'licenses.commercial.exclusive': 'この独占ライセンスにより、Literary Universeはあなたの収益から10％の手数料を取ります。つまり、私たちのプラットフォームであなたの作品から生み出された収益の90％を受け取ることができます。',
+    'licenses.commercial.nonExclusive': 'この非独占的なライセンスにより、リテラリーユニバースはプラットフォーム上でのあなたの収益から30％の手数料を取ります。つまり、リテラリーユニバースであなたの作品から発生した収益の70％を受け取ることができます。'
 };

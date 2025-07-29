@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': '法律文本',
     'licenses.chooser.back': '返回',
     'licenses.chooser.select': '選擇此授權',
-    'licenses.commercial.title': '商業執照資訊'
+    'licenses.commercial.title': '商業執照資訊',
+    'licenses.commercial.exclusive': '有了這項獨家授權，Literary Universe 將從您的收入中抽取 10% 的費用。這表示您將獲得您的作品在我們的平台上所產生收入的 90%。',
+    'licenses.commercial.nonExclusive': '透過此非專屬授權，Literary Universe將從您在我們平台上的收入中抽取30%的費用。這意味著您將從您在 Literary Universe 上的作品中獲得 70% 的收入。'
 };

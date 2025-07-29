@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Juridisk tekst',
     'licenses.chooser.back': 'Tilbage',
     'licenses.chooser.select': 'Vælg denne licens',
-    'licenses.commercial.title': 'Oplysninger om kommerciel licens'
+    'licenses.commercial.title': 'Oplysninger om kommerciel licens',
+    'licenses.commercial.exclusive': 'Med denne eksklusive licens tager Literary Universe et gebyr på 10 % af din indtjening. Det betyder, at du får 90 % af de indtægter, der genereres af dit arbejde på vores platform.',
+    'licenses.commercial.nonExclusive': 'Med denne ikke-eksklusive licens vil Literary Universe tage et gebyr på 30 % af din indtjening på vores platform. Det betyder, at du modtager 70 % af indtægterne fra dit arbejde på Literary Universe.'
 };

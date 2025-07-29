@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Text juridic',
     'licenses.chooser.back': 'Înapoi',
     'licenses.chooser.select': 'Selectați această licență',
-    'licenses.commercial.title': 'Informații privind licența comercială'
+    'licenses.commercial.title': 'Informații privind licența comercială',
+    'licenses.commercial.exclusive': 'Cu această licență exclusivă, Literary Universe va percepe o taxă de 10% din câștigurile tale. Acest lucru înseamnă că veți primi 90% din veniturile generate de lucrările dvs. pe platforma noastră.',
+    'licenses.commercial.nonExclusive': 'Cu această licență neexclusivă, Literary Universe va încasa o taxă de 30% din câștigurile dvs. de pe platforma noastră. Aceasta înseamnă că veți primi 70% din veniturile generate de lucrările dvs. pe Literary Universe.'
 };
