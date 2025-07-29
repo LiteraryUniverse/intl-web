@@ -138,5 +138,7 @@ export default {
     'licenses.legalText': 'Юридический текст',
     'licenses.chooser.back': 'Назад',
     'licenses.chooser.select': 'Выберите эту лицензию',
-    'licenses.commercial.title': 'Информация о коммерческой лицензии'
+    'licenses.commercial.title': 'Информация о коммерческой лицензии',
+    'licenses.commercial.exclusive': 'Благодаря этой эксклюзивной лицензии Literary Universe будет брать 10% от Ваших доходов. Это означает, что Вы будете получать 90% дохода, полученного от Ваших работ на нашей платформе.',
+    'licenses.commercial.nonExclusive': 'По этой неэксклюзивной лицензии Literary Universe будет брать 30% от Вашего заработка на нашей платформе. Это означает, что Вы будете получать 70% от дохода, полученного от Вашей работы на Literary Universe.'
 };
