@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'வலை பணமுறியல்',
     'plans.feature.storyMonetization': 'கதை மூலமான செலவுப் பண பரிமாற்றம்',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'மொழிபெயர்ப்பு திறன்கள்',
     'plans.feature.fanFiction': 'ரசிகர் படைப்பு மற்றும் நிர்வாகித்தல்',
     'plans.feature.universeFanArt': 'ரசிகர் கலை மேலாளர்',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'மொழிபெயர்ப்பு அரசிகள்',
     'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'நாணயத்தைத் தேர்ந்தெடுக்கவும்',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'நீங்கள் தற்போது இந்த திட்டத்தை வைத்திருக்கின்றீர்கள்',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'கிடைக்கும் சந்தா திட்டங்களைப் பார்க்க',
