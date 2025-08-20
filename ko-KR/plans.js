@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': '웹 수익 창출',
     'plans.feature.storyMonetization': '이야기 수익화',
     'plans.feature.fanClub': '팬 클럽',
+    // Editor-side gating controls
+    'plans.limitAccess': '팬클럽에 대한 액세스 제한',
     'plans.feature.translations': '번역 기능',
     'plans.feature.fanFiction': '팬 픽션 작성 및 관리',
     'plans.feature.universeFanArt': '팬 아트 관리자',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': '번역 용어집',
     'plans.feature.chatSupport': '채팅 지원',
     'plans.currency.select': '통화 선택',
+    'payment.minimumAmount': '월 최소 금액',
+    'payment.currency': '통화',
     'plans.subscription.ownAlready': '현재 이 요금제를 사용하고 있습니다',
     'plans.subscription.title': '구독 및 결제',
     'plans.see': '사용 가능한 구독 요금제 보기',
