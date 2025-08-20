@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web Para Kazanma',
     'plans.feature.storyMonetization': 'Hikaye para kazanma',
     'plans.feature.fanClub': 'Hayran Kulübü',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Hayran kulübüne erişimi sınırlayın',
     'plans.feature.translations': 'Çeviri yetenekleri',
     'plans.feature.fanFiction': 'Hayran kurgusu yazma ve yönetme',
     'plans.feature.universeFanArt': 'Hayran sanatı yöneticisi',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Çeviri sözlükleri',
     'plans.feature.chatSupport': 'Sohbet desteği',
     'plans.currency.select': 'Para birimini seçin',
+    'payment.minimumAmount': 'Minimum aylık tutar',
+    'payment.currency': 'Para Birimi',
     'plans.subscription.ownAlready': 'Şu anda bu plana sahipsiniz',
     'plans.subscription.title': 'Abonelikler ve ödemeler',
     'plans.see': 'Mevcut abonelik planlarını görüntüle',
