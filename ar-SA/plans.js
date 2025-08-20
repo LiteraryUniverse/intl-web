@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'تحقيق الويب',
     'plans.feature.storyMonetization': 'تحقيق الربح من القصص',
     'plans.feature.fanClub': 'نادي المعجبين',
+    // Editor-side gating controls
+    'plans.limitAccess': 'الحد من الوصول إلى نادي المعجبين',
     'plans.feature.translations': 'إمكانيات الترجمة',
     'plans.feature.fanFiction': 'كتابة وإدارة القصص المشجعة',
     'plans.feature.universeFanArt': 'مدير فن الجماهير',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'مصطلحات الترجمة',
     'plans.feature.chatSupport': 'دعم الدردشة',
     'plans.currency.select': 'اختر العملة',
+    'payment.minimumAmount': 'الحد الأدنى للمبلغ الشهري',
+    'payment.currency': 'العملة',
     'plans.subscription.ownAlready': 'لديك حاليًا هذه الخطة',
     'plans.subscription.title': 'الاشتراكات والمدفوعات',
     'plans.see': 'انظر الخطط المتاحة للاشتراك',
