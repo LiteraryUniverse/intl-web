@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web Monetization',
     'plans.feature.storyMonetization': 'Story monetization',
     'plans.feature.fanClub': 'fange klani',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'Translations capabilities',
     'plans.feature.fanFiction': 'Write & manage fan fiction',
     'plans.feature.universeFanArt': 'Fan art manager',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Translation glossaries',
     'plans.feature.chatSupport': 'lo se cusku be lo jboske cu se cusku',
     'plans.currency.select': 'Krixa le jdini',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'do le nu do kakne lo ka sipna lo se nu mi\'o',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'viska le se vecnu be lo nu do se vecnu',
