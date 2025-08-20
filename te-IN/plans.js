@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'వెబ్ మోనెటైజేషన్',
     'plans.feature.storyMonetization': 'కథ వాణిజ్యీకరణ',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'అనువాదాల సామర్థ్యం',
     'plans.feature.fanFiction': 'ఫ్యాన్ ఫిక్షన్ రచన మరియు నిర్వహించడం',
     'plans.feature.universeFanArt': 'ఫన్ ఆర్ట్ మేనేజర్',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'అనువాద గ్లాసరీలు',
     'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'కరెన్సీని ఎంచుకోండి',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'మీరు పేద్దా ఈ ప్రణాళికను కలిగి ఉన్నారు',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'అందుబాటులో ఉన్న చందావారం ప్రణాళికలను చూడండి',
