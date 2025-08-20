@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'การชำระเงินผ่านเว็บ',
     'plans.feature.storyMonetization': 'การทำเงินจากเรื่องราว',
     'plans.feature.fanClub': 'แฟนคลับ',
+    // Editor-side gating controls
+    'plans.limitAccess': 'จำกัดการเข้าถึงแฟนคลับ',
     'plans.feature.translations': 'ความสามารถในการแปล',
     'plans.feature.fanFiction': 'เขียนและจัดการนิยายแฟนตาซี',
     'plans.feature.universeFanArt': 'ผู้จัดการภาพแฟนอาร์ต',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'พจนานุกรมแปลภาษา',
     'plans.feature.chatSupport': 'สนับสนุนทางแชท',
     'plans.currency.select': 'เลือกสกุลเงิน',
+    'payment.minimumAmount': 'จำนวนเงินขั้นต่ำต่อเดือน',
+    'payment.currency': 'สกุลเงิน',
     'plans.subscription.ownAlready': 'คุณมีแผนนี้อยู่แล้ว',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'ดูแผนการสมัครสมาชิกที่มีอยู่',
