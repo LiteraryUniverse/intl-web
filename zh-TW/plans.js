@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': '網絡貨幣化',
     'plans.feature.storyMonetization': '故事盈利',
     'plans.feature.fanClub': '粉絲俱樂部',
+    // Editor-side gating controls
+    'plans.limitAccess': '限制進入粉絲俱樂部',
     'plans.feature.translations': '翻譯能力',
     'plans.feature.fanFiction': '撰寫和管理粉絲創作',
     'plans.feature.universeFanArt': '粉絲藝術管理員',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': '翻譯術語庫',
     'plans.feature.chatSupport': '聊天支援',
     'plans.currency.select': '選擇貨幣',
+    'payment.minimumAmount': '每月最低金額',
+    'payment.currency': '貨幣',
     'plans.subscription.ownAlready': '您目前擁有此方案',
     'plans.subscription.title': '訂閱與付款',
     'plans.see': '查看可用的訂閱方案',
