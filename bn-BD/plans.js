@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'ওয়েব মোনেটাইজেশন',
     'plans.feature.storyMonetization': 'গল্পের মূল্যায়ন',
     'plans.feature.fanClub': 'ফ্যান ক্লাব',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'অনুবাদ সক্ষমতা',
     'plans.feature.fanFiction': 'ফ্যান ফিকশন লেখা এবং পরিচালনা করুন',
     'plans.feature.universeFanArt': 'ফ্যান আর্ট ম্যানেজার',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'অনুবাদ শব্দকোষ',
     'plans.feature.chatSupport': 'চ্যাট সমর্থন',
     'plans.currency.select': 'মুদ্রা নির্বাচন করুন',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'আপনার বর্তমান পরিকল্পনা আপনার আছে',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'উপলব্ধ সাবস্ক্রিপশন পরিকল্পনা দেখুন',
