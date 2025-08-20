@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Maoiniú Gréasáin',
     'plans.feature.storyMonetization': 'Móinéarú scéalta',
     'plans.feature.fanClub': 'Club Lucht Leanúna',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'Cumais aistriúcháin',
     'plans.feature.fanFiction': 'Scríobh agus bainistigh ficsean lucht leanúna',
     'plans.feature.universeFanArt': 'Bainisteoir ealaíne lucht leanúna',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Glosgairí aistriúcháin',
     'plans.feature.chatSupport': 'Tacaíocht comhrá',
     'plans.currency.select': 'Roghnaigh airgeadra',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'Tá an plean seo agat faoi láthair',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'Féach ar phleananna síntiúis atá ar fáil',
