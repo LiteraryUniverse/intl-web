@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Οικονομικοποίηση ιστοσελίδας',
     'plans.feature.storyMonetization': 'Εμπορευματοποίηση ιστορίας',
     'plans.feature.fanClub': 'Σύλλογος θαυμαστών',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Περιορίστε την πρόσβαση στο fan club',
     'plans.feature.translations': 'Δυνατότητες μεταφράσεων',
     'plans.feature.fanFiction': 'Γράψιμο και διαχείριση fan fiction',
     'plans.feature.universeFanArt': 'Διαχείριση fan art',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Γλωσσάρια μεταφράσεων',
     'plans.feature.chatSupport': 'Υποστήριξη μέσω συνομιλίας',
     'plans.currency.select': 'Επιλογή νομίσματος',
+    'payment.minimumAmount': 'Ελάχιστο μηνιαίο ποσό',
+    'payment.currency': 'Νόμισμα',
     'plans.subscription.ownAlready': 'Έχετε ήδη αυτό το πλάνο',
     'plans.subscription.title': 'Συνδρομές & πληρωμές',
     'plans.see': 'Δείτε τα διαθέσιμα πλάνα συνδρομής',
