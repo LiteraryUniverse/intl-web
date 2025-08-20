@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Tevizmonado de la TTT',
     'plans.feature.storyMonetization': 'Monetizado de historioj',
     'plans.feature.fanClub': 'Fana Klubo',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'Kapablecoj de tradukado',
     'plans.feature.fanFiction': 'Verki kaj administri fanaĵojn',
     'plans.feature.universeFanArt': 'Administranto de fanartaĵoj',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Tradukaj vortaroj',
     'plans.feature.chatSupport': 'Babil-tuko',
     'plans.currency.select': 'Elekti valuton',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'Vi aktuale havas ĉi tiun planon',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'Vidi disponeblajn abonplanojn',
