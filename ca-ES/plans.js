@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Monetització web',
     'plans.feature.storyMonetization': 'Monetització d\'històries',
     'plans.feature.fanClub': 'Club de Fans',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'Capacitats de traducció',
     'plans.feature.fanFiction': 'Escriure i gestionar fan fiction',
     'plans.feature.universeFanArt': 'Gestor de fan art',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Glossaris de traducció',
     'plans.feature.chatSupport': 'Suport de xat',
     'plans.currency.select': 'Seleccionar moneda',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'Ja tens aquest pla',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'Veure plans de subscripció disponibles',
