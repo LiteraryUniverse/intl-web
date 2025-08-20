@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web Monetizáció',
     'plans.feature.storyMonetization': 'Történet monetizáció',
     'plans.feature.fanClub': 'Rajongói Klub',
+    // Editor-side gating controls
+    'plans.limitAccess': 'A rajongói klubhoz való hozzáférés korlátozása',
     'plans.feature.translations': 'Fordítási képességek',
     'plans.feature.fanFiction': 'Fan fiction írása és kezelése',
     'plans.feature.universeFanArt': 'Fan art kezelő',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Fordítási szótárak',
     'plans.feature.chatSupport': 'Csevegési támogatás',
     'plans.currency.select': 'Pénznem kiválasztása',
+    'payment.minimumAmount': 'Minimális havi összeg',
+    'payment.currency': 'Pénznem',
     'plans.subscription.ownAlready': 'Jelenleg rendelkezik ezzel a tervvel',
     'plans.subscription.title': 'Előfizetések és kifizetések',
     'plans.see': 'Elérhető előfizetési tervek megtekintése',
