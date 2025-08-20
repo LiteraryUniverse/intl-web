@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Webbmonetisering',
     'plans.feature.storyMonetization': 'Monetarisering av berättelser',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Begränsa tillgången till fanclub',
     'plans.feature.translations': 'Översättningsförmåga',
     'plans.feature.fanFiction': 'Skriv & hantera fanfiction',
     'plans.feature.universeFanArt': 'Fan art-manager',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Översättningsordlistor',
     'plans.feature.chatSupport': 'Chattsupport',
     'plans.currency.select': 'Välj valuta',
+    'payment.minimumAmount': 'Lägsta belopp per månad',
+    'payment.currency': 'Valuta',
     'plans.subscription.ownAlready': 'Du har redan detta abonnemang',
     'plans.subscription.title': 'Prenumerationer & betalningar',
     'plans.see': 'Se tillgängliga prenumerationsplaner',
