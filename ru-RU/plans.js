@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Веб-монетизация',
     'plans.feature.storyMonetization': 'Монетизация истории',
     'plans.feature.fanClub': 'Фанклуб',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Ограничьте доступ к фан-клубу',
     'plans.feature.translations': 'Возможности перевода',
     'plans.feature.fanFiction': 'Запись и управление фанфиками',
     'plans.feature.universeFanArt': 'Менеджер иллюстраций фанатов',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Словари переводов',
     'plans.feature.chatSupport': 'Чат поддержки',
     'plans.currency.select': 'Выберите валюту',
+    'payment.minimumAmount': 'Минимальная ежемесячная сумма',
+    'payment.currency': 'Валюта',
     'plans.subscription.ownAlready': 'Сейчас у вас есть этот план',
     'plans.subscription.title': 'Подписки и платежи',
     'plans.see': 'Посмотреть доступные планы подписки',
