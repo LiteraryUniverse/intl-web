@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Veebimonetiseerimine',
     'plans.feature.storyMonetization': 'Loo rahaks tegemine',
     'plans.feature.fanClub': 'Fänniklubi',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Piirake juurdepääsu fänniklubile',
     'plans.feature.translations': 'Tõlkevõimalused',
     'plans.feature.fanFiction': 'Fan fiction\'i kirjutamine ja haldamine',
     'plans.feature.universeFanArt': 'Fan art\'i haldamine',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Tõlke sõnastikud',
     'plans.feature.chatSupport': 'Vestlustoetus',
     'plans.currency.select': 'Vali valuuta',
+    'payment.minimumAmount': 'Minimaalne igakuine summa',
+    'payment.currency': 'Valuuta',
     'plans.subscription.ownAlready': 'Sul on juba see plaan',
     'plans.subscription.title': 'Tellimused ja maksed',
     'plans.see': 'Vaata saadaolevaid tellimuse plaane',
