@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web Monetization',
     'plans.feature.storyMonetization': 'Kiếm tiền từ câu chuyện',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Hạn chế quyền truy cập vào câu lạc bộ người hâm mộ',
     'plans.feature.translations': 'Khả năng dịch',
     'plans.feature.fanFiction': 'Viết & quản lý fan fiction',
     'plans.feature.universeFanArt': 'Quản lý fan art',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Từ điển dịch',
     'plans.feature.chatSupport': 'Hỗ trợ qua chat',
     'plans.currency.select': 'Chọn loại tiền tệ',
+    'payment.minimumAmount': 'Số tiền tối thiểu hàng tháng',
+    'payment.currency': 'Tiền tệ',
     'plans.subscription.ownAlready': 'Bạn hiện đang sở hữu gói này',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'Xem các gói đăng ký hiện có',
