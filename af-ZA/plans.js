@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web Monetization',
     'plans.feature.storyMonetization': 'Storie-monetisering',
     'plans.feature.fanClub': 'Fanklub',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'Vertaalmogelijkhede',
     'plans.feature.fanFiction': 'Skryf & bestuur fanfiksie',
     'plans.feature.universeFanArt': 'Aanhanger bestuurder',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Vertaalwoordeboeke',
     'plans.feature.chatSupport': 'Klets-ondersteuning',
     'plans.currency.select': 'Kies geldeenheid',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'Jy het tans hierdie plan',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'Sien beskikbare intekeningplanne',
