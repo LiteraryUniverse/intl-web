@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web Monetization',
     'plans.feature.storyMonetization': 'Pagpapakabuhay ng kuwento',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'Kakayahan sa pagsasalin',
     'plans.feature.fanFiction': 'Magsulat at pamahalaan ang fan fiction',
     'plans.feature.universeFanArt': 'Pamamahala ng fan art',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Mga talahuluganan sa pagsasalin',
     'plans.feature.chatSupport': 'Suporta sa Chat',
     'plans.currency.select': 'Pumili ng currency',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'Nasa iyo na ang plan na ito',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'Tingnan ang mga available na subscription plans',
