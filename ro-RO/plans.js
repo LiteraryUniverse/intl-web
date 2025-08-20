@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Monetizare web',
     'plans.feature.storyMonetization': 'Monetizarea poveștilor',
     'plans.feature.fanClub': 'Clubul de fani',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limitarea accesului la fan club',
     'plans.feature.translations': 'Capacități de traducere',
     'plans.feature.fanFiction': 'Scrieți și administrați ficțiune de fani',
     'plans.feature.universeFanArt': 'Manager de artă fan',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Glosare de traducere',
     'plans.feature.chatSupport': 'Suport prin chat',
     'plans.currency.select': 'Selectați moneda',
+    'payment.minimumAmount': 'Suma minimă lunară',
+    'payment.currency': 'Valută',
     'plans.subscription.ownAlready': 'Dețineți deja acest plan',
     'plans.subscription.title': 'Abonamente și plăți',
     'plans.see': 'Consultați planurile de abonament disponibile',
