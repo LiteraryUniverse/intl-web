@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'वेब मोनेटाइजेशन',
     'plans.feature.storyMonetization': 'कथा विपणन',
     'plans.feature.fanClub': 'फ्यान क्लब',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'अनुवाद क्षमताहरू',
     'plans.feature.fanFiction': 'फ्यान फिक्शन लेख्न र प्रबन्ध गर्नुहोस्',
     'plans.feature.universeFanArt': 'फ्यान आर्ट प्रबन्धक',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'अनुवाद शब्दसंग्रह',
     'plans.feature.chatSupport': 'चैट समर्थन',
     'plans.currency.select': 'मुद्रा छान्नुहोस्',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'तपाईंले वर्तमानमा यो योजना छ',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'उपलब्ध सदस्यता योजनाहरू हेर्नुहोस्',
