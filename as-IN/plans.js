@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'ওয়েব মনেটাইজেশন',
     'plans.feature.storyMonetization': 'কাহিনীৰ মূল্যায়নৰ সুযোগ',
     'plans.feature.fanClub': 'প্ৰেমী ক্লাব',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'অনুবাদ সক্ষমতা',
     'plans.feature.fanFiction': 'ভক্ত কথাৰ সাহিত্য লিখি আৰু পৰিচালনা কৰক',
     'plans.feature.universeFanArt': 'ভক্ত কলা পৰিচালক',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'অনুবাদ শব্দকোষ',
     'plans.feature.chatSupport': 'চেট সমৰ্থন',
     'plans.currency.select': 'মুদ্ৰা বাছনি কৰক',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'আপুনি বৰতমানে এই পদ্ধতিত আছে',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'উপলভ্য সাবস্ক্ৰিপশ্যন পদ্ধতি চাওক',
