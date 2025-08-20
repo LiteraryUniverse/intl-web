@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web Monetization',
     'plans.feature.storyMonetization': 'Historiemonetisering',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Begræns adgang til fanklub',
     'plans.feature.translations': 'Oversættelsesmuligheder',
     'plans.feature.fanFiction': 'Skriv og administrer fanfiktion',
     'plans.feature.universeFanArt': 'Fanart-manager',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Oversættelsesglossarer',
     'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'Vælg valuta',
+    'payment.minimumAmount': 'Mindste månedlige beløb',
+    'payment.currency': 'Valuta',
     'plans.subscription.ownAlready': 'Du har allerede dette abonnement',
     'plans.subscription.title': 'Abonnementer og betalinger',
     'plans.see': 'Se tilgængelige abonnementsplaner',
