@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Monetyzacja internetowa',
     'plans.feature.storyMonetization': 'Monetyzacja opowieści',
     'plans.feature.fanClub': 'Klub Fanów',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Ograniczenie dostępu do fanklubu',
     'plans.feature.translations': 'Możliwości tłumaczenia',
     'plans.feature.fanFiction': 'Pisz i zarządzaj fan fiction',
     'plans.feature.universeFanArt': 'Kierownik działu sztuki fanowskiej',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Glosariusze tłumaczeń',
     'plans.feature.chatSupport': 'Wsparcie czatu',
     'plans.currency.select': 'Wybierz walutę',
+    'payment.minimumAmount': 'Minimalna kwota miesięczna',
+    'payment.currency': 'Waluta',
     'plans.subscription.ownAlready': 'Obecnie posiadasz ten plan',
     'plans.subscription.title': 'Subskrypcje i płatności',
     'plans.see': 'Zobacz dostępne plany subskrypcji',
