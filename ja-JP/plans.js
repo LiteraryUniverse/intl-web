@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'ウェブマネタイズ',
     'plans.feature.storyMonetization': '物語のマネタイズ',
     'plans.feature.fanClub': 'ファンクラブ',
+    // Editor-side gating controls
+    'plans.limitAccess': 'ファンクラブへのアクセスを制限する',
     'plans.feature.translations': '翻訳機能',
     'plans.feature.fanFiction': 'ファンフィクションの執筆・管理',
     'plans.feature.universeFanArt': 'ファンアートマネージャー',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': '翻訳向け用語集',
     'plans.feature.chatSupport': 'チャット支援',
     'plans.currency.select': '通貨の選択',
+    'payment.minimumAmount': '最低月額',
+    'payment.currency': '通貨',
     'plans.subscription.ownAlready': '現在、このプランを持っています。',
     'plans.subscription.title': '購読と支払い',
     'plans.see': '利用可能なサブスクリプションプランを見る',
