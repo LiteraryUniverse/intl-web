@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'ವೆಬ್ ಮೊನೆಟಿಜೇಶನ್',
     'plans.feature.storyMonetization': 'ಕಥೆ ಲಾಭದಾಯಕ್ತೆ',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'ಭಾಷಾಂತರ ಸಾಧ್ಯತೆಗಳು',
     'plans.feature.fanFiction': 'ಫ್ಯಾನ್ ಫಿಕ್ಷನ್ ಬರೆಯುವುದು ಮತ್ತು ನಿರ್ವಹಿಸುವುದು',
     'plans.feature.universeFanArt': 'ಫ್ಯಾನ್ ಆರ್ಟ್ ಮ್ಯಾನೇಜರ್',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'ಭಾಷಾಂತರ ನಿಘಂಟುಗಳು',
     'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'ನಾಣ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಿ',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'ನೀವು ಈ ಯೋಜನೆಯನ್ನು ಈಗಾಗಲೇ ಹೊಂದಿದ್ದೀರಿ',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'ಲಭ್ಯವಿರುವ ಚಂದಾ ಯೋಜನೆಗಳನ್ನು ನೋಡಿ',
