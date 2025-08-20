@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Webová monetizácia',
     'plans.feature.storyMonetization': 'Spoplatnenie príbehu',
     'plans.feature.fanClub': 'Fanklub',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Obmedziť prístup do fanklubu',
     'plans.feature.translations': 'Možnosti prekladov',
     'plans.feature.fanFiction': 'Písanie a správa fanfiction',
     'plans.feature.universeFanArt': 'Manažér fanúšikovského umenia',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Prekladové slovníky',
     'plans.feature.chatSupport': 'Chatová podpora',
     'plans.currency.select': 'Zvoľte menu',
+    'payment.minimumAmount': 'Minimálna mesačná suma',
+    'payment.currency': 'Mena',
     'plans.subscription.ownAlready': 'V súčasnosti máte tento plán',
     'plans.subscription.title': 'Predplatné a platby',
     'plans.see': 'Pozrite si dostupné plány predplatného',
