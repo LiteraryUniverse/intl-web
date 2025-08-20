@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Monetisasi Web',
     'plans.feature.storyMonetization': 'Monetisasi cerita',
     'plans.feature.fanClub': 'Kelab Peminat',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'Kemampuan terjemahan',
     'plans.feature.fanFiction': 'Menulis & mengurus fiksyen peminat',
     'plans.feature.universeFanArt': 'Pengurus seni peminat',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Glosari terjemahan',
     'plans.feature.chatSupport': 'Sokongan perbualan',
     'plans.currency.select': 'Pilih mata wang',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'Anda kini mempunyai pelan ini',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'Lihat pelan langganan yang tersedia',
