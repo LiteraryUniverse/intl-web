@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'מיזוג רשת',
     'plans.feature.storyMonetization': 'מונטיזציה של סיפורים',
     'plans.feature.fanClub': 'מועדון הידברות',
+    // Editor-side gating controls
+    'plans.limitAccess': 'הגבל את הגישה למועדון המעריצים',
     'plans.feature.translations': 'יכולות תרגום',
     'plans.feature.fanFiction': 'כתיבה וניהול פאן פיקשן',
     'plans.feature.universeFanArt': 'מנהל אמנות הפאן',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'מילונים לתרגום',
     'plans.feature.chatSupport': 'תמיכה בצ\'אט',
     'plans.currency.select': 'בחירת מטבע',
+    'payment.minimumAmount': 'סכום חודשי מינימלי',
+    'payment.currency': 'מטבע',
     'plans.subscription.ownAlready': 'יש לך כרגע את התוכנית הזו',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'ראה את תוכניות המינוי הזמינות',
