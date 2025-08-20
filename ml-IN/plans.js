@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'വെബ് മോണെറ്റൈസേഷൻ',
     'plans.feature.storyMonetization': 'കഥ മോണിറ്റൈസേഷൻ',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'പരിഭാഷ സാധ്യതകൾ',
     'plans.feature.fanFiction': 'ഫാൻ ഫിക്ഷൻ എഴുതാൻ മറ്റൊരുവഴി',
     'plans.feature.universeFanArt': 'ഫാൻ ആർട്ട് മാനേജർ',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'പരിഭാഷ ഗ്ലോസറികൾ',
     'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'നാണയം തിരഞ്ഞെടുക്കുക',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'നിങ്ങൾക്ക് ഈ പദ്ധതി ഇപ്പോൾ ഉണ്ട്',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'ലഭ്യമായ സബ്സ്ക്രിപ്ഷൻ പ്ലാൻസ് കാണുക',
