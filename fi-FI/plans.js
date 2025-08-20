@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Verkkomaksu',
     'plans.feature.storyMonetization': 'Tarinan ansainta',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Rajoita pääsyä faniklubiin',
     'plans.feature.translations': 'Käännösmahdollisuudet',
     'plans.feature.fanFiction': 'Fanifiktion kirjoittaminen ja hallinta',
     'plans.feature.universeFanArt': 'Fanitaiteen hallinta',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Käännössanastot',
     'plans.feature.chatSupport': 'Chat-tuki',
     'plans.currency.select': 'Valitse valuutta',
+    'payment.minimumAmount': 'Kuukausittainen vähimmäismäärä',
+    'payment.currency': 'Valuutta',
     'plans.subscription.ownAlready': 'Sinulla on jo tämä suunnitelma',
     'plans.subscription.title': 'Tilaukset ja maksut',
     'plans.see': 'Katso saatavilla olevat tilaussuunnitelmat',
