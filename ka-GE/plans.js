@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'ვებ მონეტიზაცია',
     'plans.feature.storyMonetization': 'ამომავალის მონეტიზაცია',
     'plans.feature.fanClub': 'Fan Club',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Limit access to fan club',
     'plans.feature.translations': 'თარგმნის შესაძლებლობა',
     'plans.feature.fanFiction': 'ფან ფიქციის წერა და მართვა',
     'plans.feature.universeFanArt': 'ფან ხატვის მენეჯერი',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'თარგმნის ლექსიკონები',
     'plans.feature.chatSupport': 'Chat support',
     'plans.currency.select': 'აირჩიეთ ვალუტა',
+    'payment.minimumAmount': 'Minimum monthly amount',
+    'payment.currency': 'Currency',
     'plans.subscription.ownAlready': 'თქვენ უკვე გაქვთ ამ გეგმარების გეგმა',
     'plans.subscription.title': 'Subscriptions & payments',
     'plans.see': 'ხელმისაწვდომი გეგმარების გადახედვა',
