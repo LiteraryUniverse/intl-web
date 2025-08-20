@@ -46,6 +46,8 @@ export default {
     'plans.feature.webMonetization': 'Web monetizacija',
     'plans.feature.storyMonetization': 'Istorijos monetizacija',
     'plans.feature.fanClub': 'Fanų klubas',
+    // Editor-side gating controls
+    'plans.limitAccess': 'Apriboti prieigą prie gerbėjų klubo',
     'plans.feature.translations': 'Vertimų galimybės',
     'plans.feature.fanFiction': 'Fanų kūriniai ir jų valdymas',
     'plans.feature.universeFanArt': 'Fanų menų valdytojas',
@@ -57,6 +59,8 @@ export default {
     'plans.feature.glossaries': 'Vertimų žodynai',
     'plans.feature.chatSupport': 'Pokalbių pagalba',
     'plans.currency.select': 'Pasirinkite valiutą',
+    'payment.minimumAmount': 'Minimali mėnesio suma',
+    'payment.currency': 'Valiuta',
     'plans.subscription.ownAlready': 'Jūs jau turite šį planą',
     'plans.subscription.title': 'Prenumeratos ir mokėjimai',
     'plans.see': 'Peržiūrėti galimus prenumeratos planus',
