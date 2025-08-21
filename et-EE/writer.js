@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beeta',
     'writer.publish.public': 'Avalda',
     'writer.publish.now': 'Avalda nüüd',
-    'writer.publish.schedulePrevious': 'Enne selle peatüki avaldamist peate avaldama või kavandama eelmise peatüki avaldamist.'
+    'writer.publish.schedulePrevious': 'Enne selle peatüki avaldamist peate avaldama või kavandama eelmise peatüki avaldamist.',
+    'writer.publish.earlyAccess.title': 'Varajane juurdepääs fännidele',
+    'writer.publish.earlyAccess.groupLine': '{days} päeva varem: {tiers} - fännid pääsevad sisse {date, date, short} aadressil {date, time}'
 };
