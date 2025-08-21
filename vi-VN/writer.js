@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Xuất bản',
     'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
+    'writer.publish.earlyAccess.title': 'Trải nghiệm sớm dành cho fan',
+    'writer.publish.earlyAccess.groupLine': '{days} Đăng ký sớm: {tiers} — Người hâm mộ có thể truy cập tại {date, date, short} tại {date, time}'
 };

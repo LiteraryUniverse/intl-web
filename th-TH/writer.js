@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'เบต้า',
     'writer.publish.public': 'เผยแพร่',
     'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
+    'writer.publish.earlyAccess.title': 'การเข้าถึงล่วงหน้าสำหรับแฟน ๆ',
+    'writer.publish.earlyAccess.groupLine': '{days} ล่วงหน้าหลายวัน: {tiers} — แฟนๆ เข้าถึงได้ก่อน {date, date, short} ที่ {date, time}'
 };

@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Opublikuj',
     'writer.publish.now': 'Proszę opublikować teraz',
-    'writer.publish.schedulePrevious': 'Muszą Państwo opublikować lub zaplanować publikację poprzedniego rozdziału przed opublikowaniem tego.'
+    'writer.publish.schedulePrevious': 'Muszą Państwo opublikować lub zaplanować publikację poprzedniego rozdziału przed opublikowaniem tego.',
+    'writer.publish.earlyAccess.title': 'Wczesny dostęp dla fanów',
+    'writer.publish.earlyAccess.groupLine': '{days} dni wcześniej: {tiers} - fani otrzymują dostęp na {date, date, short} na {date, time}'
 };

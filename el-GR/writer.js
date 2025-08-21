@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Δημοσίευση',
     'writer.publish.now': 'Δημοσιεύστε τώρα',
-    'writer.publish.schedulePrevious': 'Πρέπει να δημοσιεύσετε ή να προγραμματίσετε τη δημοσίευση του προηγούμενου κεφαλαίου πριν δημοσιεύσετε αυτό.'
+    'writer.publish.schedulePrevious': 'Πρέπει να δημοσιεύσετε ή να προγραμματίσετε τη δημοσίευση του προηγούμενου κεφαλαίου πριν δημοσιεύσετε αυτό.',
+    'writer.publish.earlyAccess.title': 'Πρώιμη πρόσβαση για τους οπαδούς',
+    'writer.publish.earlyAccess.groupLine': '{days} ημέρες νωρίτερα: {tiers} - οι οπαδοί αποκτούν πρόσβαση στις {date, date, short} στις {date, time}'
 };

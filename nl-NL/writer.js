@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Bèta',
     'writer.publish.public': 'Publiceren',
     'writer.publish.now': 'Nu publiceren',
-    'writer.publish.schedulePrevious': 'U moet het vorige hoofdstuk publiceren of de publicatie ervan plannen voordat u dit hoofdstuk kunt publiceren.'
+    'writer.publish.schedulePrevious': 'U moet het vorige hoofdstuk publiceren of de publicatie ervan plannen voordat u dit hoofdstuk kunt publiceren.',
+    'writer.publish.earlyAccess.title': 'Vroege toegang voor fans',
+    'writer.publish.earlyAccess.groupLine': '{days} dagen eerder: {tiers} - fans krijgen toegang op {date, date, short} bij {date, time}'
 };

@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Veröffentlichen',
     'writer.publish.now': 'Jetzt veröffentlichen',
-    'writer.publish.schedulePrevious': 'Sie müssen das vorherige Kapitel veröffentlichen oder die Veröffentlichung planen, bevor Sie dieses Kapitel veröffentlichen können.'
+    'writer.publish.schedulePrevious': 'Sie müssen das vorherige Kapitel veröffentlichen oder die Veröffentlichung planen, bevor Sie dieses Kapitel veröffentlichen können.',
+    'writer.publish.earlyAccess.title': 'Früher Zugang für Fans',
+    'writer.publish.earlyAccess.groupLine': '{days} Tage früher: {tiers} - Fans erhalten Zugang auf {date, date, short} bei {date, time}'
 };

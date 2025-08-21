@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Terbitkan',
     'writer.publish.now': 'Publikasikan sekarang',
-    'writer.publish.schedulePrevious': 'Anda perlu menerbitkan atau menjadwalkan penerbitan bab sebelumnya sebelum dapat menerbitkan bab ini.'
+    'writer.publish.schedulePrevious': 'Anda perlu menerbitkan atau menjadwalkan penerbitan bab sebelumnya sebelum dapat menerbitkan bab ini.',
+    'writer.publish.earlyAccess.title': 'Akses awal untuk para penggemar',
+    'writer.publish.earlyAccess.groupLine': '{days} beberapa hari lebih awal: {tiers} - penggemar bisa mendapatkan akses di {date, date, short} di {date, time}'
 };
