@@ -27,7 +27,7 @@ export default {
     'reader.accessibility.toggleDyslexic': 'Přepnout dyslexické písmo',
     'reader.accessibility.toggleParagraphStripes': 'Přepnout změnu pozadí odstavce',
     'reader.accessibility.toggleParagraphHighlight': 'Přepnout zvýraznění vybraného odstavce',
-    'reader.accessibility.toggleRules': 'Přepnout asistenční pravidlo',
+    'reader.accessibility.toggleRules': 'Přepnout asistenční pravítko',
     'reader.nextRelease.scheduled': 'Další kapitola vyjde {nextReleaseAt, date} v {nextReleaseAt, time}!',
     'reader.storyContinues': 'Příběh pokračuje...',
     'reader.storyOnHiatus': 'Autor si v současné době bere přestávku a tento příběh je nyní na hiatusu. Zkuste se vrátit za měsíc nebo dva.',
