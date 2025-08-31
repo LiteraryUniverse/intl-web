@@ -7,6 +7,7 @@ export default {
     'site.description': 'Litterære Univers er en alt-i-en kreativ og udgivelsesplatform for store historieuniverser.',
     'site.keywords': 'kreativ skrivning, sci-fi, fantasy, skrivning, udgivelse, historie, historier, univers, webroman, webnovel',
     'site.logoAlt': 'Litterære Univers logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobilmenu',
     'common.signin': 'Log ind',
     'common.signup': 'Registrer',
