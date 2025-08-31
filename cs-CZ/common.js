@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe je vše v jednom, tvůrčí a vydavatelská platforma pro velké příběhové vesmíry.',
     'site.keywords': 'kreativní psaní, scifi, sci-fi, fantasie, psaní, publikace, příběhy, vesmíru, webromán, webnovel',
     'site.logoAlt': 'Logo Literary Universe',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobilní menu',
     'common.signin': 'Přihlásit se',
     'common.signup': 'Registrovat se',
