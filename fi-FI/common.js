@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe on kaiken kattava luova ja julkaisualusta suurille tarinauniversumeille.',
     'site.keywords': 'luova kirjoittaminen, scifi, tieteiskirjallisuus, fantasia, kirjoittaminen, julkaiseminen, tarina, tarinat, universumi, verkkoromaani, web-romaani',
     'site.logoAlt': 'Literary Universe -logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobiilivalikko',
     'common.signin': 'Kirjaudu sisään',
     'common.signup': 'Rekisteröidy',
