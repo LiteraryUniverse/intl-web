@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe - это универсальная творческая и издательская платформа для создания вселенных больших историй.',
     'site.keywords': 'творческое письмо, научно фантастикое, научная-фантастика, фэнтези, писание, публикация, история, истории, вселенная, веб-новелла, вебновелла',
     'site.logoAlt': 'Логотип Literary Universe',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Мобильное меню',
     'common.signin': 'Войти',
     'common.signup': 'Регистрация',
