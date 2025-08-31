@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe és una plataforma creativa i d\'edició tot en un per a grans universos narratius.',
     'site.keywords': 'escriptura creativa, ciència ficció, fantasia, escriptura, publicació, història, històries, univers, novel·la web, webnovel',
     'site.logoAlt': 'Logotip de l\'Univers Literari',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Menú mòbil',
     'common.signin': 'Inicia sessió',
     'common.signup': 'Registra\'t',
