@@ -7,6 +7,7 @@ export default {
     'site.description': 'O Universo Literário é uma plataforma de criação e publicação de grandes universos de histórias.',
     'site.keywords': 'escrita criativa, scifi, sci-fi, fantasia, escrita, publicação, história, histórias, universo, novela web, webnovel',
     'site.logoAlt': 'Universo Literário Logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Menu de telemóvel',
     'common.signin': 'Iniciar sessão',
     'common.signup': 'Registar-se',
