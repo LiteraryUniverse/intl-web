@@ -7,6 +7,7 @@ export default {
     'site.description': 'साहित्यिक ब्रह्माण्ड एक सबै-एकमा सृजनात्मक र प्रकाशन प्लेटफार्म हो।',
     'site.keywords': 'सृजनात्मक लेखन, विज्ञान-कथा, विज्ञान-कथा, काल्पनिक, लेखन, प्रकाशन, कथा, कथाहरू, ब्रह्माण्ड, वेब उपन्यास, वेबनोवेल',
     'site.logoAlt': 'लिटररी यूनिभर्स लोगो',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'मोबाइल मेनु',
     'common.signin': 'लगईन',
     'common.signup': 'रेजिष्टर',
