@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe ist eine allumfassende Kreativ- und Veröffentlichungsplattform für große Geschichtenuniversen.',
     'site.keywords': 'kreatives Schreiben, scifi, sci-fi, Fantasie, Schreiben, Verlag, Geschichten, Universum, Webnovel',
     'site.logoAlt': 'Literarische Universe Logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobiles Menü',
     'common.signin': 'Anmelden',
     'common.signup': 'Registrieren',
