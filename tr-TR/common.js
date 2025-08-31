@@ -7,6 +7,7 @@ export default {
     'site.description': 'Edebi Evren, büyük hikaye evrenleri için kapsamlı bir yaratıcı ve yayıncılık platformudur.',
     'site.keywords': 'yaratıcı yazma, bilim kurgu, bilim kurgu, fantezi, yazma, yayınlama, hikaye, hikayeler, evren, web roman, webnovel',
     'site.logoAlt': 'Edebiyat Evreni logosu',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobil menü',
     'common.signin': 'Giriş yap',
     'common.signup': 'Kayıt ol',
