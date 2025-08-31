@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe este o platformă creativă și editorială all-in-one pentru marile universuri de povești.',
     'site.keywords': 'scriere creativă, sci-fi, science fiction, fantezie, scriere, publicare, poveste, povești, univers, roman web, webnovel',
     'site.logoAlt': 'Logo-ul Universului Literar',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Meniu mobil',
     'common.signin': 'Autentificare',
     'common.signup': 'Înregistrare',
