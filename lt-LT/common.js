@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe yra viena vieta kūrybai ir leidybai dideliems pasakų pasauliams.',
     'site.keywords': 'kūrybinis rašymas, mokslinė fantastika, fantastika, rašymas, leidyba, istorija, istorijos, visata, internetinis romanai, internetinis romanas',
     'site.logoAlt': 'Logotipas Literatinės Visatos',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobilusis meniu',
     'common.signin': 'Prisijungti',
     'common.signup': 'Registruotis',
