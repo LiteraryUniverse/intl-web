@@ -7,6 +7,7 @@ export default {
     'site.description': 'Az Irodalmi Univerzum egy mindenre kiterjedő kreatív és kiadói platform a nagyszerű történetek univerzumaihoz.',
     'site.keywords': 'kreatív írás, sci-fi, fantasy, írás, kiadás, történet, történetek, univerzum, webregény, webnovella',
     'site.logoAlt': 'Irodalmi Univerzum logó',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobil menü',
     'common.signin': 'Bejelentkezés',
     'common.signup': 'Regisztráció',
