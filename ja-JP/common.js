@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universeは、壮大な文学の世界をオールインワン・プラットフォームで制作・出版します。',
     'site.keywords': '文芸作品、 Sf、ファンタジー、書き込み、出版, 小説、物語、宇宙小説、ウェブ小説',
     'site.logoAlt': 'Literary Universeのロゴ',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'モバイル メニュー',
     'common.signin': 'ログイン',
     'common.signup': '会員登録',
