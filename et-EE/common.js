@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe on kõik-ühes loominguline ja kirjastamisplatvorm suurte loouniversumite jaoks.',
     'site.keywords': 'loomel kirjutamine, ulme, teadusulme, fantaasia, kirjutamine, kirjastamine, lugu, lood, universum, veebiromaan, veebiromaan',
     'site.logoAlt': 'Kirjanduslik Universum logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobiilne menüü',
     'common.signin': 'Logi sisse',
     'common.signup': 'Registreeri',
