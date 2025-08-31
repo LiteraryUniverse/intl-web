@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe je komplexná tvorivá a vydavateľská platforma pre veľké príbehové vesmíry.',
     'site.keywords': 'tvorivé písanie, scifi, sci-fi, fantasy, písanie, publikovanie, príbeh, príbehy, vesmír, web novel, webnovel',
     'site.logoAlt': 'Logo Literary Universe',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobilné menu',
     'common.signin': 'Prihlásiť sa',
     'common.signup': 'Registrácia',
