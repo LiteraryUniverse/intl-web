@@ -7,6 +7,7 @@ export default {
     'site.description': 'Literary Universe er en alt-i-ett kreativ og publiseringsplattform for store historieunivers.',
     'site.keywords': 'kreativ skriving, sci-fi, fantasy, skriving, publisering, historie, historier, univers, webroman, webroman',
     'site.logoAlt': 'Literary Universe logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobil meny',
     'common.signin': 'Logg inn',
     'common.signup': 'Registrer',
