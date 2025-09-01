@@ -4,7 +4,7 @@
 export default {
     siteName: 'Litterære Univers',
     twitterHandle: '@lituniapp',
-    'site.description': 'Litterære Univers er en alt-i-en kreativ og udgivelsesplatform for store historieuniverser.',
+    'site.description': 'Literary Universe er en alt-i-en-platform til kreativ skrivning og udgivelse af store historieuniverser.',
     'site.keywords': 'kreativ skrivning, sci-fi, fantasy, skrivning, udgivelse, historie, historier, univers, webroman, webnovel',
     'site.logoAlt': 'Litterære Univers logo',
     'site.titleTemplate': '{title} | {siteName}',
