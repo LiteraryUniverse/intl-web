@@ -4,7 +4,7 @@
 export default {
     siteName: 'साहित्यिक ब्रह्माण्ड',
     twitterHandle: '@lituniapp',
-    'site.description': 'साहित्यिक ब्रह्मांड एक सबमेन्ट्रिक र प्रकाशन प्लेटफार्म हो जहाँ ग्रान्ड कहानी ब्रह्मांडहरू लागि सबै-एक मार्गदर्शन उपलब्ध छ।',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'कल्पनात्मक लेखन, सायन्स-फिक्शन, फेन्टेसी, लेखन, प्रकाशन, कहानी, कहानियाँ, ब्रह्मांड, वेब उपन्यास, वेबनोवेल',
     'site.logoAlt': 'साहित्यिक ब्रह्माण्ड लोगो',
     'site.titleTemplate': '{title} | {siteName}',
