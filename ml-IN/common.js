@@ -4,7 +4,7 @@
 export default {
     siteName: 'സാഹിത്യ പ്രപഞ്ചം',
     twitterHandle: '@lituniapp',
-    'site.description': 'ലിറ്റററി യൂണിവേഴ്‌സ് ഏകദേശ സൃഷ്ടികളുമായി ഒരു സൃഷ്ടികളുടെ മായാജാലം ആണ്.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'സൃഷ്ടിക്കുന്നത്, സയൻഫി, സയൻ-ഫി, മാനസിക കഥാപാത്രങ്ങൾ, എഴുത്ത്, പ്രസിദ്ധീകരണം, കഥ, കഥകൾ, ബ്രഹ്മാണ്ഡം, വെബ് നോവൽ, വെബ്‌നോവൽ',
     'site.logoAlt': 'സാഹിത്യ മണ്ഡലം ലോഗോ',
     'site.titleTemplate': '{title} | {siteName}',
