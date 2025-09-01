@@ -4,7 +4,7 @@
 export default {
     siteName: 'இலக்கிய உண்மையானம்',
     twitterHandle: '@lituniapp',
-    'site.description': 'இலக்கணப் பரப்பில் மிகுந்த கதை உலகங்களுக்கு ஒரு முழுமையான உருவாக்கும் மற்றும் வெளிப்பதிவு தளம் இது.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'உருவாக்கும் எழுத்தமொழி, அறிவியல் முயற்சி, அறிவியல்-புதிய உலகம், எழுத்தம், வெளிப்புற மொழி, கதை, கதைகள், உலகம், வலைப்பதிவு நாவல், வலைப்பதிவுநாவல்',
     'site.logoAlt': 'இலக்கண உலகம் லோகோ',
     'site.titleTemplate': '{title} | {siteName}',
