@@ -4,7 +4,7 @@
 export default {
     siteName: 'ಸಾಹಿತ್ಯಿಕ ಬ್ರಹ್ಮಾಂಡ',
     twitterHandle: '@lituniapp',
-    'site.description': 'ಸಾಹಿತ್ಯಿಕ ಜಗತೆ ಗ್ರಂಥ ಜಗತೆಗಳ ಸಮಗ್ರ ಸೃಜಿಸುವ ಮತ್ತು ಪ್ರಕಟಣೆ ಮಾಡುವ ಒಂದು ಆಲ್ಮೆಕ್ಲೆ ಮತ್ತು ಪ್ಲ್ಯಾಟ್‌ಫಾರಂ.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'ಸೃಜಿಸುವ ಬರಹ, ಭೌತವಿಜ್ಞಾನ ಕಥೆ, ಸೈ-ಫೈ, ಕಲ್ಪನಾ ಕಥೆ, ಬರಹವೊಂದು, ಪ್ರಕಟಣೆ, ಕಥೆಗಳು, ಜಗತ್ತು, ವೆಬ್ ನವಲ್, ವೆಬ್‌ನವಲ್',
     'site.logoAlt': 'ಸಾಹಿತ್ಯ ಬ್ರಹ್ಮಾಂಡ ಲೋಗೋ',
     'site.titleTemplate': '{title} | {siteName}',
