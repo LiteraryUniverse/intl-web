@@ -4,7 +4,7 @@
 export default {
     siteName: 'الكون الأدبي',
     twitterHandle: '@lituniapp',
-    'site.description': 'الكون الأدبي هو منصة إبداعية ونشر شاملة للكواكب القصصية الكبرى.',
+    'site.description': 'Literary Universe هي منصة شاملة للكتابة الإبداعية والنشر لعوالم القصص الكبرى.',
     'site.keywords': 'الكتابة الإبداعية، الخيال العلمي، الفانتازيا، الكتابة، النشر، القصة، القصص، الكون، الرواية الإلكترونية، الرواية الإلكترونية',
     'site.logoAlt': 'شعار الكون الأدبي',
     'site.titleTemplate': '{title} | {siteName}',
