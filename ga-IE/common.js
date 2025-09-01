@@ -4,7 +4,7 @@
 export default {
     siteName: 'Domhan Liteartha',
     twitterHandle: '@lituniapp',
-    'site.description': 'Is iomaíocht cruthaitheach agus foilsithe i gceann amháin atá i Littearú Cruinne, an t-ábharthacht uile-i-one do chruinne scéalta mór.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'scríbhneoireacht chruthaitheach, eolaíocht ficsean, ficsean eolaíochta, fantaisíocht, scríbhneoireacht, foilsitheoireacht, scéal, scéalta, cruinne, úrscéal gréasáin, úrscéal gréasáin',
     'site.logoAlt': 'Logo Litreachais an Aontais Liteartha',
     'site.titleTemplate': '{title} | {siteName}',
