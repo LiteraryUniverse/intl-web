@@ -4,7 +4,7 @@
 export default {
     siteName: 'Uniberso ng Panitikan',
     twitterHandle: '@lituniapp',
-    'site.description': 'Ang Literary Universe ay isang all-in-one na malikhain at pagsusulat na plataporma para sa mga malalaking sansinukob ng kuwento.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'malikhain na pagsusulat, scifi, sci-fi, pantasya, pagsusulat, paglilimbag, kuwento, mga kuwento, sansinukob, web nobela, webnovel',
     'site.logoAlt': 'Logo ng Literary Universe',
     'site.titleTemplate': '{title} | {siteName}',
