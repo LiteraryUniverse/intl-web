@@ -4,7 +4,7 @@
 export default {
     siteName: 'సాహిత్య యూనివర్స్',
     twitterHandle: '@lituniapp',
-    'site.description': 'లిటరరీ యూనివర్స్ గ్రాండ్ కథా యూనివర్స్ కోసం ఒక ఆల్-ఇన్-వన్ సృజనాత్మక మరియు ప్రచురణ ప్లాట్‌ఫారం ఉంది.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'సృజనాత్మక రచనా, సైఫై, సై-ఫెంటసీ, రచన, ప్రచురణ, కథ, కథలు, యూనివర్స్, వెబ్ నవల, వెబ్నవల్',
     'site.logoAlt': 'సాహిత్య యూనివర్స్ లోగో',
     'site.titleTemplate': '{title} | {siteName}',
