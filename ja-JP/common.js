@@ -4,7 +4,7 @@
 export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universeは、壮大な文学の世界をオールインワン・プラットフォームで制作・出版します。',
+    'site.description': 'Literary Universeは、壮大な物語世界のためのオールインワンの創作・出版プラットフォームです。',
     'site.keywords': '文芸作品、 Sf、ファンタジー、書き込み、出版, 小説、物語、宇宙小説、ウェブ小説',
     'site.logoAlt': 'Literary Universeのロゴ',
     'site.titleTemplate': '{title} | {siteName}',
