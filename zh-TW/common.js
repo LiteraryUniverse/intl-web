@@ -4,7 +4,7 @@
 export default {
     siteName: '文学宇宙',
     twitterHandle: '@lituniapp',
-    'site.description': '文學宇宙是一個全能的創作和出版平台，專為宏大的故事宇宙而設計。',
+    'site.description': 'Literary Universe 是一個全方位的創意寫作與出版平台，提供宏大的故事宇宙。',
     'site.keywords': '創意寫作, 科幻, 科幻小說, 奇幻, 寫作, 出版, 故事, 故事集, 宇宙, 網絡小說, 網絡原創',
     'site.logoAlt': '文学宇宙徽標',
     'site.titleTemplate': '{title} | {siteName}',
