@@ -4,7 +4,7 @@
 export default {
     siteName: 'יקום ספרותי',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe is an all-in-one creative and publishing platform for grand story universes.',
+    'site.description': 'Literary Universe היא פלטפורמה כוללת לכתיבה יצירתית ולהוצאה לאור של עולמות סיפוריים גרנדיוזיים.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'לוגו של יצירת הספרות',
     'site.titleTemplate': '{title} | {siteName}',
