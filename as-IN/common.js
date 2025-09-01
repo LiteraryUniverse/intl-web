@@ -4,7 +4,7 @@
 export default {
     siteName: 'সাহিত্যিক বিশ্ব',
     twitterHandle: '@lituniapp',
-    'site.description': 'সাহিত্যিক বিশ্ব একটি সমগ্র সৃজনশীল এবং প্রকাশনা প্ল্যাটফর্ম।',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'সৃজনশীল লেখা, বিজ্ঞান কল্পবিজ্ঞান, সাই-ফাই, কল্পবিজ্ঞান, লেখা, প্রকাশনা, গল্প, গল্পসমূহ, বিশ্ব, ওয়েব উপন্যাস, ওয়েবনভেল',
     'site.logoAlt': 'সাহিত্যিক বিশ্ব লোগো',
     'site.titleTemplate': '{title} | {siteName}',
