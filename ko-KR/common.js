@@ -4,7 +4,7 @@
 export default {
     siteName: '문학적인 우주',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe는 거대한 이야기 세계를 위한 올인원 창작 및 출판 플랫폼입니다.',
+    'site.description': '문학 유니버스는 장대한 스토리 유니버스를 위한 올인원 창작 및 출판 플랫폼입니다.',
     'site.keywords': '창작 글쓰기, 공상과학, SF, 판타지, 글쓰기, 출판, 이야기, 이야기들, 우주, 웹 소설, 웹소설',
     'site.logoAlt': 'Literary Universe 로고',
     'site.titleTemplate': '{title} | {siteName}',
