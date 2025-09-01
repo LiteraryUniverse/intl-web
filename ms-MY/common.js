@@ -4,7 +4,7 @@
 export default {
     siteName: 'Alam Semesta Sastera',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe adalah platform kreatif dan penerbitan serba dalam satu untuk alam semesta cerita epik.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'penulisan kreatif, sains fiksyen, sci-fi, fantasi, penulisan, penerbitan, cerita, kisah, alam semesta, novel web, webnovel',
     'site.logoAlt': 'Logo Literary Universe',
     'site.titleTemplate': '{title} | {siteName}',
