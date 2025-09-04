@@ -42,5 +42,101 @@ export default {
   } на следующие {days} дн. Наслаждайтесь!`,
     'email.verification': 'Подтверждение эл. почты',
     'email.verifying': 'Проверка вашей электронной почты. Это займёт всего минуту...',
-    'email.verified': 'Отличные новости! Ваш адрес электронной почты был подтверждён!'
+    'email.verified': 'Отличные новости! Ваш адрес электронной почты был подтверждён!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': 'Поздравляем! Вы достигли уровня автора {level} в Литературной Вселенной!',
+    'theWay.levelUp.emailTitle': 'Поздравляем! Вы достигли уровня автора {level}!',
+    'theWay.levelUp.emailIntro': 'Ваша преданность писательскому ремеслу была вознаграждена!',
+    'theWay.levelUp.emailGenre': 'Вы достигли уровня {level} в жанре {genre} .',
+    'theWay.levelUp.emailContinue': 'Продолжайте свое путешествие и открывайте новые достижения в The Way of the Author.',
+    'theWay.levelUp.viewDashboard': 'Просмотрите Вашу приборную панель',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': 'Новый комментарий к Вашему контенту',
+    'email.notifications.contentComment.title': 'Новый комментарий к Вашему {contentType}',
+    'email.notifications.contentComment.details': 'Название: {contentTitle} - От: {commenterName}',
+    'email.notifications.contentComment.cta': 'Посмотреть комментарий',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': 'Новые отзывы бета-ридеров',
+    'email.notifications.betaComment.title': 'Новые отзывы бета-ридеров',
+    'email.notifications.betaComment.details': 'История: {storyTitle}{chapter} - От: {commenterName}',
+    'email.notifications.betaComment.cta': 'Посмотреть отзывы',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': 'У Вас есть новое сообщение',
+    'email.notifications.newMessage.title': 'У Вас есть новое сообщение',
+    'email.notifications.newMessage.details': 'От: {senderName}',
+    'email.notifications.newMessage.cta': 'Посмотреть сообщение',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': 'Опубликована новая глава',
+    'email.notifications.chapterPublished.title': 'Опубликована новая глава',
+    'email.notifications.chapterPublished.details': 'История: {storyTitle} - Глава: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': 'Открытая глава',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': 'Ваша первая история здесь!',
+    'email.notifications.firstStory.title': 'Ваша первая история уже в эфире!',
+    'email.notifications.firstStory.intro': 'Потрясающее начало! Продолжайте писать и развивать свой мир с помощью полезных рекомендаций на "Пути автора".',
+    'email.notifications.firstStory.details': 'История: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': 'Продолжение "Путь автора',
+    'email.notifications.firstStory.ctaStory': 'Откройте свою историю',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': 'Поздравляю с Вашей первой вселенной!',
+    'email.notifications.firstUniverse.title': 'Поздравляю с созданием Вашей первой вселенной!',
+    'email.notifications.firstUniverse.intro': 'Ваше путешествие по созданию мира начинается. Вот несколько ресурсов, которые помогут Вам сделать следующие шаги.',
+    'email.notifications.firstUniverse.details': 'Вселенная: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': 'Изучите Путь Автора',
+    'email.notifications.firstUniverse.ctaUniverse': 'Откройте свою вселенную',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': 'Ваша первая глава опубликована!',
+    'email.notifications.firstChapterPublished.title': 'Первая глава Вашей истории опубликована!',
+    'email.notifications.firstChapterPublished.intro': 'Делитесь своей работой, собирайте отзывы и поддерживайте импульс.',
+    'email.notifications.firstChapterPublished.details': 'История: {storyTitle} - Глава: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': 'Открытая глава',
+    'email.notifications.firstChapterPublished.ctaStory': 'Посмотреть историю',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': 'Поздравляю с окончанием истории!',
+    'email.notifications.storyFinished.title': 'Вы сделали это - Ваша история закончена!',
+    'email.notifications.storyFinished.intro': 'Отпразднуйте это знаменательное событие! Опубликуйте, поделитесь или отправьте свою историю, чтобы привлечь больше читателей.',
+    'email.notifications.storyFinished.details': 'История: {storyTitle}',
+    'email.notifications.storyFinished.cta': 'Просмотрите свою историю',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': 'Новый подписчик фан-клуба',
+    'email.notifications.newFanSubscriber.title': 'У Вас появился новый подписчик фан-клуба!',
+    'email.notifications.newFanSubscriber.details': 'Подписчик: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': 'Посмотреть фан-клуб',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': 'Член Вашего фан-клуба',
+    'email.notifications.fanUnsubscribed.title': 'Член Вашего фан-клуба',
+    'email.notifications.fanUnsubscribed.intro': 'Мы хотели сообщить Вам о недавнем изменении. Подумайте о том, чтобы поделиться обновлениями или эксклюзивным контентом, чтобы повысить вовлеченность.',
+    'email.notifications.fanUnsubscribed.details': 'Предыдущий участник: {name}',
+    'email.notifications.fanUnsubscribed.cta': 'Открытый фан-клуб',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': 'Новый запрос друга',
+    'email.notifications.friendRequest.title': 'Новый запрос друга',
+    'email.notifications.friendRequest.details': 'От: {requesterName}',
+    'email.notifications.friendRequest.cta': 'Запрос на рецензию',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': 'Приглашение к сотрудничеству',
+    'email.notifications.collabInvite.title': 'У Вас есть приглашение к сотрудничеству',
+    'email.notifications.collabInvite.details': 'Приглашающая сторона: {inviterName} - Роль: {role} - Цель: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': 'Приглашение на обзор',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': 'Приглашение вступить в организацию',
+    'email.notifications.orgInvite.title': 'Приглашаем Вас присоединиться к сайту {orgName}.',
+    'email.notifications.orgInvite.details': 'Инвитро: {inviterName}',
+    'email.notifications.orgInvite.cta': 'Приглашение на обзор',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': 'Ваши ежедневные обновления',
+    'email.notifications.dailyDigest.title': 'Ваши ежедневные обновления',
+    'email.notifications.dailyDigest.intro': 'Вот что произошло сегодня.',
+    'email.notifications.dailyDigest.cta': 'Посмотреть все обновления',
+    'email.notifications.dailyDigest.empty': 'Сегодня никаких обновлений.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': 'Новая запись в блоге автора, за которым Вы следите',
+    'email.notifications.followedBlogPost.title': '{authorName} опубликовал новый блог',
+    'email.notifications.followedBlogPost.details': 'Название: {postTitle}',
+    'email.notifications.followedBlogPost.cta': 'Читать пост',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': 'Новая работа от автора, за которым Вы следите',
+    'email.notifications.followedNewWork.title': '{authorName} опубликовал новый {workType}',
+    'email.notifications.followedNewWork.details': 'Название: {title}',
+    'email.notifications.followedNewWork.cta': 'Посмотреть'
 };
