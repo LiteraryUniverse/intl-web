@@ -4,9 +4,10 @@
 export default {
     siteName: 'Letterkundige Heelal',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe is \'n alles-in-een kreatiewe en publikasieplatform vir groot verhaalheelalle.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'kreatiewe skryfwerk, wetenskapfiksie, sci-fi, fantasie, skryf, publikasie, verhaal, stories, heelal, web roman, webnovel',
     'site.logoAlt': 'Literary Universe logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobiele menu',
     'common.signin': 'Teken Aan',
     'common.signup': 'Registreer',

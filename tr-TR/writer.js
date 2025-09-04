@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Yayınla',
     'writer.publish.now': 'Şimdi yayınla',
-    'writer.publish.schedulePrevious': 'Bu bölümü yayınlamadan önce bir önceki bölümü yayınlamanız veya yayınlanmasını planlamanız gerekir.'
+    'writer.publish.schedulePrevious': 'Bu bölümü yayınlamadan önce bir önceki bölümü yayınlamanız veya yayınlanmasını planlamanız gerekir.',
+    'writer.publish.earlyAccess.title': 'Hayranlar için erken erişim',
+    'writer.publish.earlyAccess.groupLine': '{days} günler öncesinden: {tiers} - hayranlar {date, date, short} adresinden {date, time}erişebilir'
 };

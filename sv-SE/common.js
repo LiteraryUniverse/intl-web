@@ -4,9 +4,10 @@
 export default {
     siteName: 'Litterärt Universum',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe är en allt-i-ett-plattform för skapande och publicering av stora berättelseuniversum.',
+    'site.description': 'Literary Universe är en allt-i-ett-plattform för kreativt skrivande och publicering av stora berättelseuniversum.',
     'site.keywords': 'kreativt skrivande, scifi, sci-fi, fantasy, skrivande, publicering, berättelse, berättelser, universum, webbroman, webbroman',
     'site.logoAlt': 'Litterär Universum logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobil meny',
     'common.signin': 'Logga in',
     'common.signup': 'Registrera',

@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'ベータ版',
     'writer.publish.public': '公開する',
     'writer.publish.now': '今すぐ出版する',
-    'writer.publish.schedulePrevious': 'この章を出版する前に、前の章を出版するか、出版を予定しておく必要があります。'
+    'writer.publish.schedulePrevious': 'この章を出版する前に、前の章を出版するか、出版を予定しておく必要があります。',
+    'writer.publish.earlyAccess.title': 'ファンのための早期アクセス',
+    'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
 };

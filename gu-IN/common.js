@@ -4,9 +4,10 @@
 export default {
     siteName: 'સાહિત્યિક વિશ્વ',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe is an all-in-one creative and publishing platform for grand story universes.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'સાહિત્યિક વિશ્વ લોગો',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'મોબાઇલ મેનુ',
     'common.signin': 'લોગઈન',
     'common.signup': 'નોંધણી કરો',

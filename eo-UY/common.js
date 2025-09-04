@@ -4,9 +4,10 @@
 export default {
     siteName: 'Literatura Universo',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe estas ĉi-en-una kreiva kaj publikiga platformo por grandaj rakontaj universoj.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'kreiva verkado, sciencfikcio, sci-fi, fantazio, verkado, publikigo, rakonto, rakontoj, universo, reta romano, retromano',
     'site.logoAlt': 'Literary Universe logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobile menu',
     'common.signin': 'Ensaluti',
     'common.signup': 'Registriĝo',

@@ -4,9 +4,10 @@
 export default {
     siteName: 'ਸਾਹਿਤਕ ਬ੍ਰਹਮੰਡ',
     twitterHandle: '@lituniapp',
-    'site.description': 'ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਇੱਕ ਸਭ ਤੋਂ ਵੱਡਾ ਰਚਨਾਤਮਕ ਅਤੇ ਪ੍ਰਕਾਸ਼ਨ ਪਲੈਟਫਾਰਮ ਹੈ ਜਿਸ ਵਿੱਚ ਗਰੈਂਡ ਕਹਾਣੀ ਯੂਨੀਵਰਸ ਹਨ।',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'ਰਚਨਾਤਮਕ ਲਿਖਾਰੀ, ਸਾਈਫਾਈ, ਸਾਈ-ਫਾਈ, ਖ਼ਿਆਲਾਂਮਾਂ, ਲਿਖਾਰੀ, ਪ੍ਰਕਾਸ਼ਨ, ਕਹਾਣੀ, ਕਹਾਣੀਆਂ, ਬਰਗਰੀ, ਵੈੱਬ ਨਾਵਲ, ਵੈੱਬਨੋਵਲ',
     'site.logoAlt': 'ਲਿਟਰੇਰੀ ਯੂਨੀਵਰਸ ਲੋਗੋ',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'ਮੋਬਾਈਲ ਮੀਨੂ',
     'common.signin': 'ਲਾਗਇਨ',
     'common.signup': 'ਰਜਿਸਟਰ ਕਰੋ',

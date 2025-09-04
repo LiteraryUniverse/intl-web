@@ -4,9 +4,10 @@
 export default {
     siteName: 'साहित्यिक विश्व',
     twitterHandle: '@lituniapp',
-    'site.description': 'लिटररी युनिवर्स एक सर्व-एकत्र रचनात्मक आणि प्रकाशन प्लॅटफॉर्म आहे ज्यामुळे महान कथांच्या विश्वांसाठी.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'कल्पनाशील लेखन, सायफाय, विज्ञान-फिक्शन, अद्भुतकथा, लेखन, प्रकाशन, कथा, कथांची, विश्व, वेब उपन्यास, वेबनोवेल',
     'site.logoAlt': 'लिटररी यूनिवर्स लोगो',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'मोबाइल मेनू',
     'common.signin': 'लॉगिन',
     'common.signup': 'रजिस्टर करा',

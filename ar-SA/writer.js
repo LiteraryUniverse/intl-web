@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'بيتا',
     'writer.publish.public': 'النشر',
     'writer.publish.now': 'انشر الآن',
-    'writer.publish.schedulePrevious': 'تحتاج إلى نشر أو جدولة نشر الفصل السابق قبل أن تتمكن من نشر هذا الفصل.'
+    'writer.publish.schedulePrevious': 'تحتاج إلى نشر أو جدولة نشر الفصل السابق قبل أن تتمكن من نشر هذا الفصل.',
+    'writer.publish.earlyAccess.title': 'الوصول المبكر للجماهير',
+    'writer.publish.earlyAccess.groupLine': '{days} أيام مبكرًا: {tiers} - يمكن للمعجبين الدخول على {date, date, short} ~ على {date, time}'
 };

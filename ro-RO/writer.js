@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Publicare',
     'writer.publish.now': 'Publică acum',
-    'writer.publish.schedulePrevious': 'Trebuie să publicați sau să programați publicarea capitolului anterior înainte de a-l putea publica pe acesta.'
+    'writer.publish.schedulePrevious': 'Trebuie să publicați sau să programați publicarea capitolului anterior înainte de a-l putea publica pe acesta.',
+    'writer.publish.earlyAccess.title': 'Acces timpuriu pentru fani',
+    'writer.publish.earlyAccess.groupLine': '{days} zile mai devreme: {tiers} - fanii au acces pe {date, date, short} la {date, time}'
 };

@@ -4,9 +4,10 @@
 export default {
     siteName: 'Literair Universum',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literair Universum is een alles-in-één creatief en publicatieplatform voor grote verhalenuniversums.',
+    'site.description': 'Literary Universe is een alles-in-één creatief schrijf- en publicatieplatform voor grote verhaaluniversums.',
     'site.keywords': 'creatief schrijven, scifi, sciencefiction, fantasie, schrijven, publiceren, verhaal, verhalen, universum, webroman, webnovel',
     'site.logoAlt': 'Logo van het Literair Universum',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobiel menu',
     'common.signin': 'Inloggen',
     'common.signup': 'Registreren',

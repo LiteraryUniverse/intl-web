@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'Beta',
     'writer.publish.public': 'Udgiv',
     'writer.publish.now': 'Udgiv nu',
-    'writer.publish.schedulePrevious': 'Du skal udgive eller planlægge udgivelsen af det forrige kapitel, før du kan udgive dette.'
+    'writer.publish.schedulePrevious': 'Du skal udgive eller planlægge udgivelsen af det forrige kapitel, før du kan udgive dette.',
+    'writer.publish.earlyAccess.title': 'Tidlig adgang for fans',
+    'writer.publish.earlyAccess.groupLine': '{days} dage før: {tiers} - fans får adgang på {date, date, short} på {date, time}'
 };

@@ -4,9 +4,10 @@
 export default {
     siteName: 'Λογοτεχνικό Σύμπαν',
     twitterHandle: '@lituniapp',
-    'site.description': 'Το Literary Universe είναι μια ολοκληρωμένη δημιουργική και εκδοτική πλατφόρμα για μεγάλα ιστορικά σύμπαντα.',
+    'site.description': 'Το Literary Universe είναι μια ολοκληρωμένη πλατφόρμα δημιουργικής γραφής και δημοσίευσης για μεγάλα ιστορικά σύμπαντα.',
     'site.keywords': 'δημιουργική γραφή, επιστημονική φαντασία, φαντασία, γραφή, δημοσίευση, ιστορία, ιστορίες, σύμπαν, ιστολόγιο, ιστορία στον ιστό',
     'site.logoAlt': 'Λογότυπο Λογοτεχνικού Σύμπαντος',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Κινητό μενού',
     'common.signin': 'Σύνδεση',
     'common.signup': 'Εγγραφή',

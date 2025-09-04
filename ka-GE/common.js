@@ -4,9 +4,10 @@
 export default {
     siteName: 'ლიტერატურული უნივერსუმი',
     twitterHandle: '@lituniapp',
-    'site.description': 'ლიტერატურული უნივერსუმი არის ყველაფრის ერთ-ერთი კრეატიული და გამოცემის პლატფორმა დიდი ამბების უნივერსებისთვის.',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'კრეატიული მწერალობა, სამაგიდო, სამაგიდო ფანტასტიკა, მწერალობა, გამოცემა, მოთხოვნა, მოთხოვნები, უნივერსუმი, ვებ ნოველა, ვებნოველი',
     'site.logoAlt': 'ლიტერატურული უნივერსის ლოგო',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'მობილური მენიუ',
     'common.signin': 'შესვლა',
     'common.signup': 'რეგისტრაცია',

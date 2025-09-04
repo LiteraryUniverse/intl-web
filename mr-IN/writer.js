@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'बीटा',
     'writer.publish.public': 'प्रकाशित करा',
     'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
+    'writer.publish.earlyAccess.title': 'Early access for fans',
+    'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
 };

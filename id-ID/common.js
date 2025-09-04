@@ -4,9 +4,10 @@
 export default {
     siteName: 'Literary Universe',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe merupakan sebuah platform kreatif dan publikasi untuk menulis cerita, semua dalam satu tempat.',
+    'site.description': 'Literary Universe adalah platform penulisan dan penerbitan kreatif all-in-one untuk cerita-cerita besar.',
     'site.keywords': 'creative writing, scifi, sci-fi, fantasy, writing, publishing, story, stories, universe, web novel, webnovel',
     'site.logoAlt': 'Logo Literary Universe',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Menu mobile',
     'common.signin': 'Masuk',
     'common.signup': 'Daftar',

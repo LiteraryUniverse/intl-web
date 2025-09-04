@@ -4,9 +4,10 @@
 export default {
     siteName: 'ជំនាញអត្តន័យសង្គម',
     twitterHandle: '@lituniapp',
-    'site.description': 'ពិភពលោកជំនុំរឿងគឺជាប្រព័ន្ធសរសេរនិងផ្សព្វផ្សាយទាំងអស់គ្នា សម្រាប់ជំនុំរឿងអន្តរជាតិដែលមានការរក្សាសម្ព័ន្ធជាមួយគ្នា។',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'ការ​សរសេរ​ប្រចាំ​ថ្ងៃ, សាកលវិទ្យាស្ថាន​ព្រៃ​ស៊ីហ្វី, សាកលវិទ្យាស្ថាន​ស្តាប់រឿងអន្តរជាតិ, រឿងអន្តរជាតិ, ហ្វេន្ទីហ្វី, សរសេរ, ប្រជាជន, ជំនុំ, ជំនុំរឿង, ជំនុំរឿងអន្តរជាតិ, ជំនុំវេបសាយ, ជំនុំវេបសាយបច្ចុប្បន្ន, ជំនុំវេបសាយបច្ចុប្បន្នអន្តរជាតិ',
     'site.logoAlt': 'រូបសញ្ញាសិប្បកម្មបណ្ដាញសង្គម',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'ម៉ូលុយសំណុំទូរស័ព្ទ',
     'common.signin': 'ចូលប្រើប្រាស់',
     'common.signup': 'ចុះឈ្មោះ',

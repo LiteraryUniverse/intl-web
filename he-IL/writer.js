@@ -32,5 +32,7 @@ export default {
     'writer.publish.betaReader': 'בטא',
     'writer.publish.public': 'פרסום',
     'writer.publish.now': 'Publish now',
-    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.'
+    'writer.publish.schedulePrevious': 'You need to publish or schedule publication of previous chapter before you can publish this one.',
+    'writer.publish.earlyAccess.title': 'גישה מוקדמת למעריצים',
+    'writer.publish.earlyAccess.groupLine': '{days} ימים מוקדם יותר: {tiers} — המעריצים מקבלים גישה ב- {date, date, short} ב- {date, time}'
 };

@@ -4,9 +4,10 @@
 export default {
     siteName: 'Vũ trụ Văn học',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe là một nền tảng sáng tạo và xuất bản toàn diện cho vũ trụ câu chuyện đồ sộ.',
+    'site.description': 'Literary Universe là một nền tảng viết sáng tạo và xuất bản toàn diện dành cho các vũ trụ truyện lớn.',
     'site.keywords': 'viết sáng tạo, khoa học viễn tưởng, viễn tưởng khoa học, phantasy, viết, xuất bản, câu chuyện, truyện, vũ trụ, tiểu thuyết trên web, webnovel',
     'site.logoAlt': 'Logo Vũ trụ Văn học',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Menu di động',
     'common.signin': 'Đăng nhập',
     'common.signup': 'Đăng ký',

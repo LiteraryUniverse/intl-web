@@ -4,9 +4,10 @@
 export default {
     siteName: 'Kirjanduslik Universum',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe on kõik-ühes loominguline ja kirjastamisplatvorm suurte loouniversumite jaoks.',
+    'site.description': 'Literary Universe on kõikehõlmav loominguline kirjutamis- ja kirjastamisplatvorm suurejooneliste lugude universumite jaoks.',
     'site.keywords': 'loomel kirjutamine, ulme, teadusulme, fantaasia, kirjutamine, kirjastamine, lugu, lood, universum, veebiromaan, veebiromaan',
     'site.logoAlt': 'Kirjanduslik Universum logo',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobiilne menüü',
     'common.signin': 'Logi sisse',
     'common.signup': 'Registreeri',

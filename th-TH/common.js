@@ -4,9 +4,10 @@
 export default {
     siteName: 'จักรวาลวรรณกรรม',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe เป็นแพลตฟอร์มสร้างและเผยแพร่เรื่องราวที่ใหญ่มากที่สุด',
+    'site.description': 'Literary Universe คือแพลตฟอร์มสร้างสรรค์งานเขียนและตีพิมพ์ครบวงจรสำหรับจักรวาลเรื่องราวอันยิ่งใหญ่',
     'site.keywords': 'เขียนแต่ง, วิทยาศาสตร์แฟนตาซี, ไซไฟ, นิยายแฟนตาซี, เขียน, การเผยแพร่, เรื่องราว, เรื่องราว, จักรวาล, นวนิยายเว็บ, เว็บนิยาย',
     'site.logoAlt': 'โลโก้ Literary Universe',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'เมนูมือถือ',
     'common.signin': 'เข้าสู่ระบบ',
     'common.signup': 'ลงทะเบียน',

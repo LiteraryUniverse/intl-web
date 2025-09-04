@@ -4,9 +4,10 @@
 export default {
     siteName: 'Klesi Karda',
     twitterHandle: '@lituniapp',
-    'site.description': '.i lo valsi be le skicu cu se jikce lo ka plixau lo nu skicu ku\'o ku\'o lo nu rinka',
+    'site.description': 'Literary Universe is an all-in-one creative writing and publishing platform for grand story universes.',
     'site.keywords': 'karni skrivla, fantasta, skifi, skicu, papri, rinka, skicu, skicu, ciste, vebi skicu, vebiskicu',
     'site.logoAlt': 'lo logo be lo kensa be se bangu',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'lo se du\'u pilno lo minji',
     'common.signin': 'lo se du\'u pilno lo nu tcidu',
     'common.signup': 'lo se du\'u pilno lo nu morsi',

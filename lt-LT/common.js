@@ -4,9 +4,10 @@
 export default {
     siteName: 'Literatinė Visata',
     twitterHandle: '@lituniapp',
-    'site.description': 'Literary Universe yra viena vieta kūrybai ir leidybai dideliems pasakų pasauliams.',
+    'site.description': '"Literary Universe" yra universali kūrybinio rašymo ir leidybos platforma, skirta didžiosioms istorijų visatoms.',
     'site.keywords': 'kūrybinis rašymas, mokslinė fantastika, fantastika, rašymas, leidyba, istorija, istorijos, visata, internetinis romanai, internetinis romanas',
     'site.logoAlt': 'Logotipas Literatinės Visatos',
+    'site.titleTemplate': '{title} | {siteName}',
     mobileMenu: 'Mobilusis meniu',
     'common.signin': 'Prisijungti',
     'common.signup': 'Registruotis',
