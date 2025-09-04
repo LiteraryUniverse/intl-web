@@ -1,5 +1,12 @@
 # Changelog for languages
 
+## 2025-09-04 - v2.17.4
+
+* Add missing strings for licences
+* New strings for fan clubs
+* New strings around SEO
+* Fix site description
+
 ## 2025-06-29 - v2.17.3
 
 * Revert removal of strings by Crowdin
