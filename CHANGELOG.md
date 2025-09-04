@@ -1,5 +1,25 @@
 # Changelog for languages
 
+## 2025-09-04 - v2.17.5
+
+* Add i18n keys for new/updated email notifications under `email.notifications.*`:
+  - `email.notifications.chapterPublished.*`
+  - `email.notifications.firstStory.*`
+  - `email.notifications.firstUniverse.*`
+  - `email.notifications.firstChapterPublished.*`
+  - `email.notifications.storyFinished.*`
+  - `email.notifications.contentComment.*`
+  - `email.notifications.newMessage.*`
+  - `email.notifications.newFanSubscriber.*`
+  - `email.notifications.fanUnsubscribed.*`
+  - `email.notifications.friendRequest.*`
+  - `email.notifications.collabInvite.*`
+  - `email.notifications.orgInvite.*`
+  - `email.notifications.dailyDigest.*`
+  - `email.notifications.followedBlogPost.*`
+  - `email.notifications.followedNewWork.*`
+* Email templates updated to support optional hero images and alternating muted sections.
+
 ## 2025-09-04 - v2.17.4
 
 * Add missing strings for licences
