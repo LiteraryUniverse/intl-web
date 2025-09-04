@@ -42,5 +42,101 @@ export default {
   } úroveň na najbližšie {days} dni.\n\nUžívajte si to!`,
     'email.verification': 'Overenie e-mailu',
     'email.verifying': 'Overenie vášho e-mailu. Zaberie to len chvíľu...',
-    'email.verified': 'Skvelé správy! Váš e-mail bol overený!'
+    'email.verified': 'Skvelé správy! Váš e-mail bol overený!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': 'Gratulujeme! Dosiahli ste autorskú úroveň {level} na Literárnom vesmíre!',
+    'theWay.levelUp.emailTitle': 'Gratulujeme! Dosiahli ste autorskú úroveň {level}!',
+    'theWay.levelUp.emailIntro': 'Vaša oddanosť spisovateľskému remeslu bola odmenená!',
+    'theWay.levelUp.emailGenre': 'V žánri {genre} ste dosiahli úroveň {level} .',
+    'theWay.levelUp.emailContinue': 'Pokračujte v ceste a odomknite ďalšie úspechy v hre The Way of the Author.',
+    'theWay.levelUp.viewDashboard': 'Zobrazenie prístrojového panela',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': 'Nový komentár k vášmu obsahu',
+    'email.notifications.contentComment.title': 'Nový komentár na {contentType}',
+    'email.notifications.contentComment.details': 'Názov: {contentTitle} - Od: {commenterName}',
+    'email.notifications.contentComment.cta': 'Zobraziť komentár',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': 'Nová spätná väzba od beta čitateľa',
+    'email.notifications.betaComment.title': 'Nová spätná väzba od beta čitateľa',
+    'email.notifications.betaComment.details': 'Príbeh: {storyTitle}{chapter} - Od: {commenterName}',
+    'email.notifications.betaComment.cta': 'Zobraziť spätnú väzbu',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': 'Máte novú správu',
+    'email.notifications.newMessage.title': 'Máte novú správu',
+    'email.notifications.newMessage.details': 'Od: {senderName}',
+    'email.notifications.newMessage.cta': 'Zobraziť správu',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': 'Uverejnená nová kapitola',
+    'email.notifications.chapterPublished.title': 'Uverejnená nová kapitola',
+    'email.notifications.chapterPublished.details': 'Príbeh: {storyTitle} - Kapitola: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': 'Otvorená kapitola',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': 'Váš prvý príbeh je tu!',
+    'email.notifications.firstStory.title': 'Váš prvý príbeh je naživo!',
+    'email.notifications.firstStory.intro': 'Úžasný začiatok! Pokračujte v písaní a rozvíjajte svoj svet s užitočným poradenstvom na Ceste autora.',
+    'email.notifications.firstStory.details': 'Príbeh: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': 'Pokračovať na stránke Cesta autora',
+    'email.notifications.firstStory.ctaStory': 'Otvorte svoj príbeh',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': 'Gratulujeme k vášmu prvému vesmíru!',
+    'email.notifications.firstUniverse.title': 'Gratulujeme k vytvoreniu prvého vesmíru!',
+    'email.notifications.firstUniverse.intro': 'Vaša cesta za budovaním sveta sa začína. Tu je niekoľko zdrojov, ktoré vám pomôžu urobiť ďalšie kroky.',
+    'email.notifications.firstUniverse.details': 'Vesmír: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': 'Preskúmajte Cesta autora',
+    'email.notifications.firstUniverse.ctaUniverse': 'Otvorte svoj vesmír',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': 'Vaša prvá kapitola je publikovaná!',
+    'email.notifications.firstChapterPublished.title': 'Prvá kapitola vášho príbehu je uverejnená!',
+    'email.notifications.firstChapterPublished.intro': 'Zdieľajte svoju prácu, získavajte spätnú väzbu a udržujte dynamiku.',
+    'email.notifications.firstChapterPublished.details': 'Príbeh: {storyTitle} - Kapitola: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': 'Otvorená kapitola',
+    'email.notifications.firstChapterPublished.ctaStory': 'Zobraziť príbeh',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': 'Gratulujeme k dokončeniu príbehu!',
+    'email.notifications.storyFinished.title': 'Dokázali ste to - váš príbeh je dokončený!',
+    'email.notifications.storyFinished.intro': 'Oslávte tento míľnik! Zvážte zverejnenie, zdieľanie alebo zaslanie svojho príbehu, aby ste oslovili viac čitateľov.',
+    'email.notifications.storyFinished.details': 'Príbeh: {storyTitle}',
+    'email.notifications.storyFinished.cta': 'Zobraziť váš príbeh',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': 'Nový predplatiteľ fanklubu',
+    'email.notifications.newFanSubscriber.title': 'Máte nového predplatiteľa fanklubu!',
+    'email.notifications.newFanSubscriber.details': 'Odberateľ: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': 'Zobraziť fanklub',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': 'Člen opustil váš fanklub',
+    'email.notifications.fanUnsubscribed.title': 'Člen opustil váš fanklub',
+    'email.notifications.fanUnsubscribed.intro': 'Chceli sme vás informovať o nedávnej zmene. Zvážte zdieľanie aktualizácií alebo exkluzívneho obsahu, aby ste zvýšili angažovanosť.',
+    'email.notifications.fanUnsubscribed.details': 'Bývalý člen: {name}',
+    'email.notifications.fanUnsubscribed.cta': 'Otvorený fanklub',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': 'Nová žiadosť o priateľstvo',
+    'email.notifications.friendRequest.title': 'Nová žiadosť o priateľstvo',
+    'email.notifications.friendRequest.details': 'Od: {requesterName}',
+    'email.notifications.friendRequest.cta': 'Žiadosť o preskúmanie',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': 'Pozvánka na spoluprácu',
+    'email.notifications.collabInvite.title': 'Máte pozvánku na spoluprácu',
+    'email.notifications.collabInvite.details': 'Pozývateľ: {inviterName} - Úloha: {role} - Cieľ: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': 'Pozvánka na recenziu',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': 'Pozvanie do organizácie',
+    'email.notifications.orgInvite.title': 'Pozývame vás na stránku {orgName}',
+    'email.notifications.orgInvite.details': 'Pozývateľ: {inviterName}',
+    'email.notifications.orgInvite.cta': 'Pozvánka na recenziu',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': 'Vaše denné aktualizácie',
+    'email.notifications.dailyDigest.title': 'Vaše denné aktualizácie',
+    'email.notifications.dailyDigest.intro': 'Dnes sa stalo toto.',
+    'email.notifications.dailyDigest.cta': 'Zobraziť všetky aktualizácie',
+    'email.notifications.dailyDigest.empty': 'Dnes žiadne aktualizácie.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': 'Nový príspevok na blogu od autora, ktorého sledujete',
+    'email.notifications.followedBlogPost.title': '{authorName} zverejnil nový blog',
+    'email.notifications.followedBlogPost.details': 'Názov: {postTitle}',
+    'email.notifications.followedBlogPost.cta': 'Prečítajte si príspevok',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': 'Nové dielo od autora, ktorého sledujete',
+    'email.notifications.followedNewWork.title': '{authorName} uverejnila novú stránku {workType}.',
+    'email.notifications.followedNewWork.details': 'Názov: {title}',
+    'email.notifications.followedNewWork.cta': 'Zobraziť'
 };
