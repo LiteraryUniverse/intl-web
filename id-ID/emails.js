@@ -42,5 +42,101 @@ export default {
   } untuk ! {days} hari ke depan. Nikmati!`,
     'email.verification': 'Verifikasi E-mail',
     'email.verifying': 'Memverifikasi e-mail Anda. Ini akan memakan waktu sebentar...',
-    'email.verified': 'Berita bagus! E-mail Anda telah diverifikasi!'
+    'email.verified': 'Berita bagus! E-mail Anda telah diverifikasi!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': 'Selamat! Anda telah mencapai Level Penulis {level} di Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Selamat! Anda telah mencapai Level Penulis {level}!',
+    'theWay.levelUp.emailIntro': 'Dedikasi Anda terhadap seni menulis telah dihargai!',
+    'theWay.levelUp.emailGenre': 'Anda telah mencapai level {level} dalam genre {genre} .',
+    'theWay.levelUp.emailContinue': 'Lanjutkan perjalanan Anda dan buka lebih banyak pencapaian di The Way of the Author.',
+    'theWay.levelUp.viewDashboard': 'Lihat Dasbor Anda',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': 'Komentar baru pada konten Anda',
+    'email.notifications.contentComment.title': 'Komentar baru di {contentType}Anda',
+    'email.notifications.contentComment.details': 'Judul: {contentTitle} - Dari: {commenterName}',
+    'email.notifications.contentComment.cta': 'Lihat komentar',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': 'Umpan balik pembaca beta baru',
+    'email.notifications.betaComment.title': 'Umpan balik pembaca beta baru',
+    'email.notifications.betaComment.details': 'Cerita: {storyTitle}{chapter} - Dari: {commenterName}',
+    'email.notifications.betaComment.cta': 'Lihat umpan balik',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': 'Anda memiliki pesan baru',
+    'email.notifications.newMessage.title': 'Anda memiliki pesan baru',
+    'email.notifications.newMessage.details': 'Dari: {senderName}',
+    'email.notifications.newMessage.cta': 'Lihat pesan',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': 'Bab baru diterbitkan',
+    'email.notifications.chapterPublished.title': 'Bab baru diterbitkan',
+    'email.notifications.chapterPublished.details': 'Cerita: {storyTitle} - Bab: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': 'Buka bab',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': 'Cerita pertama Anda ada di sini!',
+    'email.notifications.firstStory.title': 'Cerita pertama Anda sudah tayang!',
+    'email.notifications.firstStory.intro': 'Awal yang luar biasa! Teruslah menulis dan kembangkan dunia Anda dengan panduan bermanfaat di The Way of the Author.',
+    'email.notifications.firstStory.details': 'Cerita: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': 'Lanjutkan ke Jalan Penulis',
+    'email.notifications.firstStory.ctaStory': 'Buka cerita Anda',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': 'Selamat atas alam semesta pertama Anda!',
+    'email.notifications.firstUniverse.title': 'Selamat telah menciptakan alam semesta pertama Anda!',
+    'email.notifications.firstUniverse.intro': 'Perjalanan membangun dunia Anda dimulai. Berikut ini beberapa sumber daya untuk membantu Anda mengambil langkah selanjutnya.',
+    'email.notifications.firstUniverse.details': 'Semesta: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': 'Jelajahi Jalan Sang Penulis',
+    'email.notifications.firstUniverse.ctaUniverse': 'Buka alam semesta Anda',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': 'Bab pertama Anda diterbitkan!',
+    'email.notifications.firstChapterPublished.title': 'Bab pertama cerita Anda telah diterbitkan!',
+    'email.notifications.firstChapterPublished.intro': 'Bagikan karya Anda, kumpulkan umpan balik, dan pertahankan momentumnya.',
+    'email.notifications.firstChapterPublished.details': 'Cerita: {storyTitle} - Bab: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': 'Buka bab',
+    'email.notifications.firstChapterPublished.ctaStory': 'Lihat cerita',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': 'Selamat telah menyelesaikan cerita Anda!',
+    'email.notifications.storyFinished.title': 'Anda berhasil - kisah Anda sudah selesai!',
+    'email.notifications.storyFinished.intro': 'Rayakan pencapaian ini! Pertimbangkan untuk menerbitkan, membagikan, atau mengirimkan cerita Anda untuk menjangkau lebih banyak pembaca.',
+    'email.notifications.storyFinished.details': 'Cerita: {storyTitle}',
+    'email.notifications.storyFinished.cta': 'Lihat cerita Anda',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': 'Pelanggan klub penggemar baru',
+    'email.notifications.newFanSubscriber.title': 'Anda memiliki pelanggan klub penggemar baru!',
+    'email.notifications.newFanSubscriber.details': 'Pelanggan: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': 'Lihat klub penggemar',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': 'Seorang anggota meninggalkan klub penggemar Anda',
+    'email.notifications.fanUnsubscribed.title': 'Seorang anggota meninggalkan klub penggemar Anda',
+    'email.notifications.fanUnsubscribed.intro': 'Kami ingin memberi tahu Anda tentang perubahan terbaru. Pertimbangkan untuk membagikan pembaruan atau konten eksklusif untuk meningkatkan keterlibatan.',
+    'email.notifications.fanUnsubscribed.details': 'Mantan anggota: {name}',
+    'email.notifications.fanUnsubscribed.cta': 'Klub penggemar terbuka',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': 'Permintaan pertemanan baru',
+    'email.notifications.friendRequest.title': 'Permintaan pertemanan baru',
+    'email.notifications.friendRequest.details': 'Dari: {requesterName}',
+    'email.notifications.friendRequest.cta': 'Permintaan tinjauan',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': 'Undangan kolaborasi',
+    'email.notifications.collabInvite.title': 'Anda memiliki undangan kolaborasi',
+    'email.notifications.collabInvite.details': 'Pengundang: {inviterName} - Peran {role} - Target: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': 'Undangan tinjauan',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': 'Undangan untuk bergabung dengan organisasi',
+    'email.notifications.orgInvite.title': 'Anda diundang untuk bergabung dengan {orgName}',
+    'email.notifications.orgInvite.details': 'Pengundang: {inviterName}',
+    'email.notifications.orgInvite.cta': 'Undangan tinjauan',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': 'Pembaruan harian Anda',
+    'email.notifications.dailyDigest.title': 'Pembaruan harian Anda',
+    'email.notifications.dailyDigest.intro': 'Inilah yang terjadi hari ini.',
+    'email.notifications.dailyDigest.cta': 'Lihat semua pembaruan',
+    'email.notifications.dailyDigest.empty': 'Tidak ada pembaruan hari ini.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': 'Postingan blog baru dari penulis yang Anda ikuti',
+    'email.notifications.followedBlogPost.title': '{authorName} memposting blog baru',
+    'email.notifications.followedBlogPost.details': 'Judul: {postTitle}',
+    'email.notifications.followedBlogPost.cta': 'Baca posting',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': 'Karya baru dari penulis yang Anda ikuti',
+    'email.notifications.followedNewWork.title': '{authorName} menerbitkan yang baru {workType}',
+    'email.notifications.followedNewWork.details': 'Judul: {title}',
+    'email.notifications.followedNewWork.cta': 'Melihat'
 };
