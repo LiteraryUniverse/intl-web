@@ -42,5 +42,101 @@ export default {
   } Stufe für die nächsten {days} Tage. Viel Spaß!`,
     'email.verification': 'E-Mail-Überprüfung',
     'email.verifying': 'Überprüfen Sie Ihre E-Mail. Dies dauert nur einen Moment...',
-    'email.verified': 'Tolle Neuigkeiten! Ihre E-Mail wurde verifiziert!'
+    'email.verified': 'Tolle Neuigkeiten! Ihre E-Mail wurde verifiziert!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': 'Herzlichen Glückwunsch! Sie haben die Autorenstufe {level} auf Literary Universe erreicht!',
+    'theWay.levelUp.emailTitle': 'Herzlichen Glückwunsch! Sie haben die Autorenstufe {level}erreicht!',
+    'theWay.levelUp.emailIntro': 'Ihre Hingabe an das Handwerk des Schreibens wurde belohnt!',
+    'theWay.levelUp.emailGenre': 'Sie haben die Stufe {level} im Genre {genre} erreicht.',
+    'theWay.levelUp.emailContinue': 'Setzen Sie Ihre Reise fort und schalten Sie weitere Erfolge auf The Way of the Author frei.',
+    'theWay.levelUp.viewDashboard': 'Ihr Dashboard anzeigen',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': 'Neuer Kommentar zu Ihrem Inhalt',
+    'email.notifications.contentComment.title': 'Neuer Kommentar zu Ihrer {contentType}',
+    'email.notifications.contentComment.details': 'Titel: {contentTitle} - Von: {commenterName}',
+    'email.notifications.contentComment.cta': 'Kommentar ansehen',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': 'Neues Beta-Leser-Feedback',
+    'email.notifications.betaComment.title': 'Neues Beta-Leser-Feedback',
+    'email.notifications.betaComment.details': 'Geschichte: {storyTitle}{chapter} - Von: {commenterName}',
+    'email.notifications.betaComment.cta': 'Feedback ansehen',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': 'Sie haben eine neue Nachricht',
+    'email.notifications.newMessage.title': 'Sie haben eine neue Nachricht',
+    'email.notifications.newMessage.details': 'Von: {senderName}',
+    'email.notifications.newMessage.cta': 'Nachricht ansehen',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': 'Neues Kapitel veröffentlicht',
+    'email.notifications.chapterPublished.title': 'Neues Kapitel veröffentlicht',
+    'email.notifications.chapterPublished.details': 'Geschichte: {storyTitle} - Kapitel: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': 'Kapitel öffnen',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': 'Ihre erste Geschichte ist da!',
+    'email.notifications.firstStory.title': 'Ihre erste Geschichte ist live!',
+    'email.notifications.firstStory.intro': 'Ein großartiger Start! Schreiben Sie weiter und erweitern Sie Ihre Welt mit hilfreichen Anleitungen auf dem Weg des Autors.',
+    'email.notifications.firstStory.details': 'Geschichte: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': 'Weiter auf Der Weg des Autors',
+    'email.notifications.firstStory.ctaStory': 'Öffnen Sie Ihre Geschichte',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': 'Herzlichen Glückwunsch zu Ihrem ersten Universum!',
+    'email.notifications.firstUniverse.title': 'Herzlichen Glückwunsch zur Schaffung Ihres ersten Universums!',
+    'email.notifications.firstUniverse.intro': 'Ihre Reise in die Welt beginnt. Hier finden Sie einige Ressourcen, die Ihnen bei den nächsten Schritten helfen.',
+    'email.notifications.firstUniverse.details': 'Universum: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': 'Entdecken Sie den Weg des Autors',
+    'email.notifications.firstUniverse.ctaUniverse': 'Öffnen Sie Ihr Universum',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': 'Ihr erstes Kapitel ist veröffentlicht!',
+    'email.notifications.firstChapterPublished.title': 'Das erste Kapitel Ihrer Geschichte ist veröffentlicht!',
+    'email.notifications.firstChapterPublished.intro': 'Teilen Sie Ihre Arbeit, holen Sie Feedback ein und halten Sie den Schwung aufrecht.',
+    'email.notifications.firstChapterPublished.details': 'Geschichte: {storyTitle} - Kapitel: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': 'Kapitel öffnen',
+    'email.notifications.firstChapterPublished.ctaStory': 'Geschichte ansehen',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': 'Herzlichen Glückwunsch zur Fertigstellung Ihrer Geschichte!',
+    'email.notifications.storyFinished.title': 'Sie haben es geschafft - Ihre Geschichte ist fertig!',
+    'email.notifications.storyFinished.intro': 'Feiern Sie diesen Meilenstein! Erwägen Sie, Ihre Geschichte zu veröffentlichen, zu teilen oder einzureichen, um mehr Leser zu erreichen.',
+    'email.notifications.storyFinished.details': 'Geschichte: {storyTitle}',
+    'email.notifications.storyFinished.cta': 'Ihre Geschichte ansehen',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': 'Neuer Fanclub-Abonnent',
+    'email.notifications.newFanSubscriber.title': 'Sie haben einen neuen Fanclub-Abonnenten!',
+    'email.notifications.newFanSubscriber.details': 'Abonnent: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': 'Fanclub ansehen',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': 'Ein Mitglied hat Ihren Fanclub verlassen',
+    'email.notifications.fanUnsubscribed.title': 'Ein Mitglied hat Ihren Fanclub verlassen',
+    'email.notifications.fanUnsubscribed.intro': 'Wir möchten Sie über eine aktuelle Änderung informieren. Denken Sie daran, Updates oder exklusive Inhalte zu teilen, um Ihr Engagement zu steigern.',
+    'email.notifications.fanUnsubscribed.details': 'Ehemaliges Mitglied: {name}',
+    'email.notifications.fanUnsubscribed.cta': 'Fanclub öffnen',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': 'Neue Freundschaftsanfrage',
+    'email.notifications.friendRequest.title': 'Neue Freundschaftsanfrage',
+    'email.notifications.friendRequest.details': 'Von: {requesterName}',
+    'email.notifications.friendRequest.cta': 'Anfrage zur Überprüfung',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': 'Einladung zur Zusammenarbeit',
+    'email.notifications.collabInvite.title': 'Sie haben eine Einladung zur Zusammenarbeit',
+    'email.notifications.collabInvite.details': 'Einladender: {inviterName} - Rolle: {role} - Ziel: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': 'Einladung zur Überprüfung',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': 'Einladung zum Beitritt zu einer Organisation',
+    'email.notifications.orgInvite.title': 'Sie sind eingeladen, {orgName}beizutreten.',
+    'email.notifications.orgInvite.details': 'Einlader: {inviterName}',
+    'email.notifications.orgInvite.cta': 'Einladung zur Überprüfung',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': 'Ihre täglichen Updates',
+    'email.notifications.dailyDigest.title': 'Ihre täglichen Updates',
+    'email.notifications.dailyDigest.intro': 'Das ist heute passiert.',
+    'email.notifications.dailyDigest.cta': 'Alle Updates anzeigen',
+    'email.notifications.dailyDigest.empty': 'Keine Updates heute.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': 'Neuer Blogbeitrag von einem Autor, dem Sie folgen',
+    'email.notifications.followedBlogPost.title': '{authorName} einen neuen Blog veröffentlicht',
+    'email.notifications.followedBlogPost.details': 'Titel: {postTitle}',
+    'email.notifications.followedBlogPost.cta': 'Beitrag lesen',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': 'Neues Werk von einem Autor, dem Sie folgen',
+    'email.notifications.followedNewWork.title': '{authorName} eine neue {workType}veröffentlicht.',
+    'email.notifications.followedNewWork.details': 'Titel: {title}',
+    'email.notifications.followedNewWork.cta': 'Siehe'
 };
