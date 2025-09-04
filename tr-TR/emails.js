@@ -42,5 +42,101 @@ export default {
   } kademesine yükselttik. İyi eğlenceler!`,
     'email.verification': 'E-posta doğrulama',
     'email.verifying': 'E-postanızı doğruluyoruz. Bu birkaç dakika sürebilir...',
-    'email.verified': 'Harika haber! E-postanız doğrulandı!'
+    'email.verified': 'Harika haber! E-postanız doğrulandı!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': 'Tebrikler! Literary Universe\'de Yazar Seviyesi {level} \'a ulaştınız!',
+    'theWay.levelUp.emailTitle': 'Tebrikler! Yazar Seviyesine ulaştınız {level}!',
+    'theWay.levelUp.emailIntro': 'Yazma zanaatına olan bağlılığınız ödüllendirildi!',
+    'theWay.levelUp.emailGenre': '{genre} türünde {level} seviyesine ulaştınız.',
+    'theWay.levelUp.emailContinue': 'Yolculuğunuza devam edin ve The Way of the Author\'da daha fazla başarımın kilidini açın.',
+    'theWay.levelUp.viewDashboard': 'Kontrol Panelinizi Görüntüleyin',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': 'İçeriğiniz hakkında yeni yorum',
+    'email.notifications.contentComment.title': '{contentType}adresinize yeni yorum',
+    'email.notifications.contentComment.details': 'Başlık: {contentTitle} - Kimden? {commenterName}',
+    'email.notifications.contentComment.cta': 'Yorumu görüntüle',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': 'Yeni beta okuyucu geri bildirimi',
+    'email.notifications.betaComment.title': 'Yeni beta okuyucu geri bildirimi',
+    'email.notifications.betaComment.details': 'Hikaye: {storyTitle}{chapter} - Kimden? {commenterName}',
+    'email.notifications.betaComment.cta': 'Geri bildirimi görüntüle',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': 'Yeni bir mesajınız var',
+    'email.notifications.newMessage.title': 'Yeni bir mesajınız var',
+    'email.notifications.newMessage.details': 'Kimden? {senderName}',
+    'email.notifications.newMessage.cta': 'Mesajı görüntüle',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': 'Yeni bölüm yayınlandı',
+    'email.notifications.chapterPublished.title': 'Yeni bölüm yayınlandı',
+    'email.notifications.chapterPublished.details': 'Hikaye: {storyTitle} - Bölüm: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': 'Açık bölüm',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': 'İlk hikayeniz burada!',
+    'email.notifications.firstStory.title': 'İlk hikayeniz yayında!',
+    'email.notifications.firstStory.intro': 'Harika bir başlangıç! Yazarın Yolu\'ndaki yararlı rehberlikle yazmaya ve dünyanızı büyütmeye devam edin.',
+    'email.notifications.firstStory.details': 'Hikaye: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': 'Yazarın Yolu\'na devam edin',
+    'email.notifications.firstStory.ctaStory': 'Hikayenizi açın',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': 'İlk evreniniz için tebrikler!',
+    'email.notifications.firstUniverse.title': 'İlk evreninizi yarattığınız için tebrikler!',
+    'email.notifications.firstUniverse.intro': 'Dünya inşa etme yolculuğunuz başlıyor. İşte sonraki adımları atmanıza yardımcı olacak bazı kaynaklar.',
+    'email.notifications.firstUniverse.details': 'Evren: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': 'Yazarın Yolunu Keşfedin',
+    'email.notifications.firstUniverse.ctaUniverse': 'Evreninizi açın',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': 'İlk bölümünüz yayınlandı!',
+    'email.notifications.firstChapterPublished.title': 'Hikayenizin ilk bölümü yayınlandı!',
+    'email.notifications.firstChapterPublished.intro': 'Çalışmalarınızı paylaşın, geri bildirim toplayın ve ivmeyi devam ettirin.',
+    'email.notifications.firstChapterPublished.details': 'Hikaye: {storyTitle} - Bölüm: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': 'Açık bölüm',
+    'email.notifications.firstChapterPublished.ctaStory': 'Hikayeyi görüntüle',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': 'Hikayeni bitirdiğin için tebrikler!',
+    'email.notifications.storyFinished.title': 'Başardınız - hikayeniz bitti!',
+    'email.notifications.storyFinished.intro': 'Bu dönüm noktasını kutlayın! Daha fazla okuyucuya ulaşmak için hikayenizi yayınlamayı, paylaşmayı veya göndermeyi düşünün.',
+    'email.notifications.storyFinished.details': 'Hikaye: {storyTitle}',
+    'email.notifications.storyFinished.cta': 'Hikayenizi görüntüleyin',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': 'Yeni hayran kulübü abonesi',
+    'email.notifications.newFanSubscriber.title': 'Yeni bir hayran kulübü aboneniz var!',
+    'email.notifications.newFanSubscriber.details': 'Abone: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': 'Hayran kulübünü görüntüle',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': 'Bir üye hayran kulübünüzden ayrıldı.',
+    'email.notifications.fanUnsubscribed.title': 'Bir üye hayran kulübünüzden ayrıldı.',
+    'email.notifications.fanUnsubscribed.intro': 'Yakın zamanda yapılan bir değişiklik hakkında sizi bilgilendirmek istedik. Etkileşimi artırmak için güncellemeleri veya özel içerikleri paylaşmayı düşünün.',
+    'email.notifications.fanUnsubscribed.details': 'Eski üye: {name}',
+    'email.notifications.fanUnsubscribed.cta': 'Açık hayran kulübü',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': 'Yeni arkadaşlık isteği',
+    'email.notifications.friendRequest.title': 'Yeni arkadaşlık isteği',
+    'email.notifications.friendRequest.details': 'Kimden? {requesterName}',
+    'email.notifications.friendRequest.cta': 'İnceleme talebi',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': 'İşbirliği daveti',
+    'email.notifications.collabInvite.title': 'Bir işbirliği davetiniz var',
+    'email.notifications.collabInvite.details': 'Davet eden: {inviterName} - Rolü {role} - Hedef: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': 'Davetiyeyi gözden geçirin',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': 'Bir kuruluşa katılım daveti',
+    'email.notifications.orgInvite.title': 'Katılmaya davetlisiniz {orgName}',
+    'email.notifications.orgInvite.details': 'İnviter: {inviterName}',
+    'email.notifications.orgInvite.cta': 'Davetiyeyi gözden geçirin',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': 'Günlük güncellemeleriniz',
+    'email.notifications.dailyDigest.title': 'Günlük güncellemeleriniz',
+    'email.notifications.dailyDigest.intro': 'İşte bugün olanlar.',
+    'email.notifications.dailyDigest.cta': 'Tüm güncellemeleri görüntüle',
+    'email.notifications.dailyDigest.empty': 'Bugün güncelleme yok.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': 'Takip ettiğiniz bir yazarın yeni blog yazısı',
+    'email.notifications.followedBlogPost.title': '{authorName} yeni bir blog yayınladı',
+    'email.notifications.followedBlogPost.details': 'Başlık: {postTitle}',
+    'email.notifications.followedBlogPost.cta': 'Yazıyı okuyun',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': 'Takip ettiğiniz bir yazarın yeni eseri',
+    'email.notifications.followedNewWork.title': '{authorName} yeni bir {workType}yayınladı',
+    'email.notifications.followedNewWork.details': 'Başlık: {title}',
+    'email.notifications.followedNewWork.cta': 'Görünüm'
 };
