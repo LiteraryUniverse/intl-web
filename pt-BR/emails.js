@@ -42,5 +42,101 @@ export default {
   } nível pelos próximos {days} dias. Aproveite!`,
     'email.verification': 'Verificação por e-mail',
     'email.verifying': 'Verificação de seu e-mail. Isto levará apenas um momento...',
-    'email.verified': 'Ótimas notícias! Seu e-mail foi verificado!'
+    'email.verified': 'Ótimas notícias! Seu e-mail foi verificado!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': 'Parabéns! O senhor atingiu o nível de autor {level} no Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Parabéns! O senhor atingiu o nível de autor {level}!',
+    'theWay.levelUp.emailIntro': 'Sua dedicação ao ofício da escrita foi recompensada!',
+    'theWay.levelUp.emailGenre': 'O senhor alcançou o nível {level} no gênero {genre} .',
+    'theWay.levelUp.emailContinue': 'Continue sua jornada e desbloqueie mais conquistas em The Way of the Author.',
+    'theWay.levelUp.viewDashboard': 'Visualizar seu painel de controle',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': 'Novo comentário sobre seu conteúdo',
+    'email.notifications.contentComment.title': 'Novo comentário no site do senhor {contentType}',
+    'email.notifications.contentComment.details': 'Título: {contentTitle} - De: {commenterName}',
+    'email.notifications.contentComment.cta': 'Ver comentário',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': 'Novos comentários de leitores beta',
+    'email.notifications.betaComment.title': 'Novos comentários de leitores beta',
+    'email.notifications.betaComment.details': 'História: {storyTitle}{chapter} - De: {commenterName}',
+    'email.notifications.betaComment.cta': 'Ver comentários',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': 'O senhor tem uma nova mensagem',
+    'email.notifications.newMessage.title': 'O senhor tem uma nova mensagem',
+    'email.notifications.newMessage.details': 'De: {senderName}',
+    'email.notifications.newMessage.cta': 'Ver mensagem',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': 'Novo capítulo publicado',
+    'email.notifications.chapterPublished.title': 'Novo capítulo publicado',
+    'email.notifications.chapterPublished.details': 'História: {storyTitle} - Capítulo: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': 'Abrir capítulo',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': 'Sua primeira história está aqui!',
+    'email.notifications.firstStory.title': 'Sua primeira história está no ar!',
+    'email.notifications.firstStory.intro': 'Um começo incrível! Continue escrevendo e ampliando seu mundo com as orientações úteis do The Way of the Author.',
+    'email.notifications.firstStory.details': 'História: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': 'Continuar em The Way of the Author',
+    'email.notifications.firstStory.ctaStory': 'Abra sua história',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': 'Parabéns pelo seu primeiro universo!',
+    'email.notifications.firstUniverse.title': 'Parabéns por criar seu primeiro universo!',
+    'email.notifications.firstUniverse.intro': 'Sua jornada de construção de mundos começa. Aqui estão alguns recursos para ajudá-lo a dar os próximos passos.',
+    'email.notifications.firstUniverse.details': 'Universo: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': 'Explore o Caminho do Autor',
+    'email.notifications.firstUniverse.ctaUniverse': 'Abra seu universo',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': 'Seu primeiro capítulo foi publicado!',
+    'email.notifications.firstChapterPublished.title': 'O primeiro capítulo de sua história foi publicado!',
+    'email.notifications.firstChapterPublished.intro': 'Compartilhe seu trabalho, obtenha feedback e mantenha o ritmo.',
+    'email.notifications.firstChapterPublished.details': 'História: {storyTitle} - Capítulo: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': 'Abrir capítulo',
+    'email.notifications.firstChapterPublished.ctaStory': 'Ver história',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': 'Parabéns por terminar sua história!',
+    'email.notifications.storyFinished.title': 'O senhor conseguiu - sua história está concluída!',
+    'email.notifications.storyFinished.intro': 'Comemore esse marco! Considere a possibilidade de publicar, compartilhar ou enviar sua história para alcançar mais leitores.',
+    'email.notifications.storyFinished.details': 'História: {storyTitle}',
+    'email.notifications.storyFinished.cta': 'Veja sua história',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': 'Novo assinante do fã-clube',
+    'email.notifications.newFanSubscriber.title': 'O senhor tem um novo assinante no fã-clube!',
+    'email.notifications.newFanSubscriber.details': 'Assinante: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': 'Ver fã-clube',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': 'Um membro deixou seu fã-clube',
+    'email.notifications.fanUnsubscribed.title': 'Um membro deixou seu fã-clube',
+    'email.notifications.fanUnsubscribed.intro': 'Gostaríamos de informá-lo sobre uma mudança recente. Considere compartilhar atualizações ou conteúdo exclusivo para aumentar o envolvimento.',
+    'email.notifications.fanUnsubscribed.details': 'Ex-membro: {name}',
+    'email.notifications.fanUnsubscribed.cta': 'Clube de fãs aberto',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': 'Nova solicitação de amizade',
+    'email.notifications.friendRequest.title': 'Nova solicitação de amizade',
+    'email.notifications.friendRequest.details': 'De: {requesterName}',
+    'email.notifications.friendRequest.cta': 'Solicitação de revisão',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': 'Convite de colaboração',
+    'email.notifications.collabInvite.title': 'O senhor tem um convite de colaboração',
+    'email.notifications.collabInvite.details': 'Convidados: {inviterName} - Role: {role} - Alvo: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': 'Convite para revisão',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': 'Convite para participar de uma organização',
+    'email.notifications.orgInvite.title': 'O senhor está convidado a participar do {orgName}',
+    'email.notifications.orgInvite.details': 'Inviter: {inviterName}',
+    'email.notifications.orgInvite.cta': 'Convite para revisão',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': 'Suas atualizações diárias',
+    'email.notifications.dailyDigest.title': 'Suas atualizações diárias',
+    'email.notifications.dailyDigest.intro': 'Eis o que aconteceu hoje.',
+    'email.notifications.dailyDigest.cta': 'Ver todas as atualizações',
+    'email.notifications.dailyDigest.empty': 'Não há atualizações hoje.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': 'Nova publicação no blog de um autor que o senhor segue',
+    'email.notifications.followedBlogPost.title': '{authorName} postou um novo blog',
+    'email.notifications.followedBlogPost.details': 'Título: {postTitle}',
+    'email.notifications.followedBlogPost.cta': 'Leia o post',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': 'Novo trabalho de um autor que o senhor segue',
+    'email.notifications.followedNewWork.title': '{authorName} publicou um novo {workType}',
+    'email.notifications.followedNewWork.details': 'Título: {title}',
+    'email.notifications.followedNewWork.cta': 'Ver'
 };
