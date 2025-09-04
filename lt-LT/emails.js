@@ -42,5 +42,101 @@ export default {
   } lygį kitoms {days} dienoms. Mėgaukitės!`,
     'email.verification': 'El. pašto patvirtinimas',
     'email.verifying': 'Patvirtinkite savo el. paštą. Tai užtruks vos akimirką...',
-    'email.verified': 'Puiki naujiena! Jūsų el. paštas buvo patvirtintas!'
+    'email.verified': 'Puiki naujiena! Jūsų el. paštas buvo patvirtintas!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': 'Sveikiname! Pasiekėte autoriaus lygį {level} "Literatūrinėje visatoje"!',
+    'theWay.levelUp.emailTitle': 'Sveikiname! Pasiekėte autoriaus lygį {level}!',
+    'theWay.levelUp.emailIntro': 'Jūsų atsidavimas rašymo amatui buvo atlygintas!',
+    'theWay.levelUp.emailGenre': 'Pasiekėte {level} lygį {genre} žanre.',
+    'theWay.levelUp.emailContinue': 'Tęskite kelionę ir atrakinkite daugiau pasiekimų žaidime "The Way of the Author".',
+    'theWay.levelUp.viewDashboard': 'Peržiūrėti prietaisų skydelį',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': 'Naujas komentaras apie jūsų turinį',
+    'email.notifications.contentComment.title': 'Naujas komentaras jūsų {contentType}',
+    'email.notifications.contentComment.details': 'Pavadinimas: {contentTitle} - Nuo: {commenterName}',
+    'email.notifications.contentComment.cta': 'Peržiūrėti komentarą',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': 'Nauji beta skaitytojų atsiliepimai',
+    'email.notifications.betaComment.title': 'Nauji beta skaitytojų atsiliepimai',
+    'email.notifications.betaComment.details': 'Istorija: {storyTitle}{chapter} - Iš: {commenterName}',
+    'email.notifications.betaComment.cta': 'Peržiūrėti atsiliepimus',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': 'Gavote naują pranešimą',
+    'email.notifications.newMessage.title': 'Gavote naują pranešimą',
+    'email.notifications.newMessage.details': 'Iš: {senderName}',
+    'email.notifications.newMessage.cta': 'Peržiūrėti pranešimą',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': 'Paskelbtas naujas skyrius',
+    'email.notifications.chapterPublished.title': 'Paskelbtas naujas skyrius',
+    'email.notifications.chapterPublished.details': 'Istorija: {storyTitle} - Skyrius: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': 'Atviras skyrius',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': 'Jūsų pirmoji istorija jau čia!',
+    'email.notifications.firstStory.title': 'Jūsų pirmoji istorija jau gyva!',
+    'email.notifications.firstStory.intro': 'Nuostabi pradžia! Rašykite toliau ir plėskite savo pasaulį, naudodamiesi naudingais autoriaus kelio patarimais.',
+    'email.notifications.firstStory.details': 'Istorija: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': 'Tęsti apie Autoriaus kelias',
+    'email.notifications.firstStory.ctaStory': 'Atverkite savo istoriją',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': 'Sveikiname su pirmąja visata!',
+    'email.notifications.firstUniverse.title': 'Sveikiname sukūrus pirmąją visatą!',
+    'email.notifications.firstUniverse.intro': 'Prasideda jūsų pasaulio kūrimo kelionė. Čia rasite keletą šaltinių, kurie padės jums žengti kitus žingsnius.',
+    'email.notifications.firstUniverse.details': 'Visata: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': 'Ištirti "Autoriaus kelią',
+    'email.notifications.firstUniverse.ctaUniverse': 'Atverkite savo visatą',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': 'Jūsų pirmasis skyrius paskelbtas!',
+    'email.notifications.firstChapterPublished.title': 'Paskelbtas pirmasis jūsų istorijos skyrius!',
+    'email.notifications.firstChapterPublished.intro': 'Dalinkitės savo darbais, rinkite atsiliepimus ir palaikykite pagreitį.',
+    'email.notifications.firstChapterPublished.details': 'Istorija: {storyTitle} - Skyrius: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': 'Atviras skyrius',
+    'email.notifications.firstChapterPublished.ctaStory': 'Peržiūrėti istoriją',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': 'Sveikiname baigus savo istoriją!',
+    'email.notifications.storyFinished.title': 'Jūs tai padarėte - jūsų istorija baigta!',
+    'email.notifications.storyFinished.intro': 'Švęskite šį svarbų įvykį! Apsvarstykite galimybę paskelbti, pasidalyti arba pateikti savo istoriją, kad ji pasiektų daugiau skaitytojų.',
+    'email.notifications.storyFinished.details': 'Istorija: {storyTitle}',
+    'email.notifications.storyFinished.cta': 'Peržiūrėkite savo istoriją',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': 'Naujas fanų klubo prenumeratorius',
+    'email.notifications.newFanSubscriber.title': 'Jūs turite naują gerbėjų klubo prenumeratorių!',
+    'email.notifications.newFanSubscriber.details': 'Abonentas: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': 'Peržiūrėti fanų klubą',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': 'Jūsų gerbėjų klubą paliko narys',
+    'email.notifications.fanUnsubscribed.title': 'Jūsų gerbėjų klubą paliko narys',
+    'email.notifications.fanUnsubscribed.intro': 'Norėjome pranešti apie neseniai įvykusį pokytį. Apsvarstykite galimybę dalytis atnaujinimais arba išskirtiniu turiniu, kad padidintumėte įsitraukimą.',
+    'email.notifications.fanUnsubscribed.details': 'Buvęs narys: {name}',
+    'email.notifications.fanUnsubscribed.cta': 'Atviras gerbėjų klubas',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': 'Naujas draugo prašymas',
+    'email.notifications.friendRequest.title': 'Naujas draugo prašymas',
+    'email.notifications.friendRequest.details': 'Iš: {requesterName}',
+    'email.notifications.friendRequest.cta': 'Peržiūros prašymas',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': 'Kvietimas bendradarbiauti',
+    'email.notifications.collabInvite.title': 'Turite bendradarbiavimo kvietimą',
+    'email.notifications.collabInvite.details': 'Kviečiantysis: {inviterName} - Vaidmuo: {role} - Tikslas: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': 'Peržiūrėti kvietimą',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': 'Kvietimas prisijungti prie organizacijos',
+    'email.notifications.orgInvite.title': 'Kviečiame prisijungti prie {orgName}',
+    'email.notifications.orgInvite.details': 'Invoiteris: {inviterName}',
+    'email.notifications.orgInvite.cta': 'Peržiūrėti kvietimą',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': 'Jūsų kasdieniai atnaujinimai',
+    'email.notifications.dailyDigest.title': 'Jūsų kasdieniai atnaujinimai',
+    'email.notifications.dailyDigest.intro': 'Štai kas nutiko šiandien.',
+    'email.notifications.dailyDigest.cta': 'Peržiūrėti visus atnaujinimus',
+    'email.notifications.dailyDigest.empty': 'Šiandien jokių atnaujinimų.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': 'Naujas sekamo autoriaus tinklaraščio įrašas',
+    'email.notifications.followedBlogPost.title': '{authorName} paskelbė naują tinklaraštį',
+    'email.notifications.followedBlogPost.details': 'Pavadinimas: {postTitle}',
+    'email.notifications.followedBlogPost.cta': 'Skaityti pranešimą',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': 'Naujas sekamo autoriaus kūrinys',
+    'email.notifications.followedNewWork.title': '{authorName} paskelbė naują {workType}',
+    'email.notifications.followedNewWork.details': 'Pavadinimas: {title}',
+    'email.notifications.followedNewWork.cta': 'Peržiūrėti'
 };
