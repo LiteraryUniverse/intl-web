@@ -42,5 +42,101 @@ export default {
   } 티어로 업그레이드했습니다. 즐기세요!`,
     'email.verification': '이메일 확인',
     'email.verifying': '이메일을 확인 중입니다. 잠시만 기다려주세요...',
-    'email.verified': '좋은 소식입니다! 이메일이 확인되었습니다!'
+    'email.verified': '좋은 소식입니다! 이메일이 확인되었습니다!',
+    // The Way (Author Level Up)
+    'theWay.levelUp.emailSubject': '축하합니다! 문학 유니버스에서 작가 레벨 {level} 에 도달하셨습니다!',
+    'theWay.levelUp.emailTitle': '축하합니다! 작성자 레벨에 도달하셨습니다 {level}!',
+    'theWay.levelUp.emailIntro': '글쓰기 기술에 대한 여러분의 헌신이 보상을 받았습니다!',
+    'theWay.levelUp.emailGenre': '{genre} 장르에서 {level} 레벨을 달성했습니다.',
+    'theWay.levelUp.emailContinue': '저자의 길에서 여정을 계속하고 더 많은 도전 과제를 잠금 해제하세요.',
+    'theWay.levelUp.viewDashboard': '대시보드 보기',
+    // Notifications - General content comment
+    'email.notifications.contentComment.subject': '내 콘텐츠에 새 댓글 달기',
+    'email.notifications.contentComment.title': '귀하의 새 댓글 {contentType}',
+    'email.notifications.contentComment.details': '제목: {contentTitle} - From: {commenterName}',
+    'email.notifications.contentComment.cta': '댓글 보기',
+    // Notifications - Beta reader comment
+    'email.notifications.betaComment.subject': '새로운 베타 독자 피드백',
+    'email.notifications.betaComment.title': '새로운 베타 독자 피드백',
+    'email.notifications.betaComment.details': '스토리: {storyTitle}{chapter} - From: {commenterName}',
+    'email.notifications.betaComment.cta': '피드백 보기',
+    // Notifications - New message
+    'email.notifications.newMessage.subject': '새 메시지가 있습니다.',
+    'email.notifications.newMessage.title': '새 메시지가 있습니다.',
+    'email.notifications.newMessage.details': '에서: {senderName}',
+    'email.notifications.newMessage.cta': '메시지 보기',
+    // Notifications - Chapter published
+    'email.notifications.chapterPublished.subject': '새 챕터 게시',
+    'email.notifications.chapterPublished.title': '새 챕터 게시',
+    'email.notifications.chapterPublished.details': '스토리: {storyTitle} - Chapter: {chapterTitle}{suffix}',
+    'email.notifications.chapterPublished.cta': '챕터 열기',
+    // Notifications - First story created
+    'email.notifications.firstStory.subject': '첫 번째 이야기가 여기 있습니다!',
+    'email.notifications.firstStory.title': '첫 번째 스토리가 시작되었습니다!',
+    'email.notifications.firstStory.intro': '멋진 시작입니다! 저자의 길에 대한 유용한 안내를 통해 계속해서 글을 쓰고 여러분의 세계를 성장시켜 보세요.',
+    'email.notifications.firstStory.details': '스토리: {storyTitle}',
+    'email.notifications.firstStory.ctaResources': '저자의 길 계속하기',
+    'email.notifications.firstStory.ctaStory': '스토리 열기',
+    // Notifications - First universe created
+    'email.notifications.firstUniverse.subject': '첫 번째 우주를 축하합니다!',
+    'email.notifications.firstUniverse.title': '첫 번째 유니버스 생성을 축하합니다!',
+    'email.notifications.firstUniverse.intro': '월드 구축 여정이 시작됩니다. 다음 단계로 나아가는 데 도움이 되는 몇 가지 리소스를 소개합니다.',
+    'email.notifications.firstUniverse.details': 'Universe: {universeName}',
+    'email.notifications.firstUniverse.ctaResources': '저자의 길 살펴보기',
+    'email.notifications.firstUniverse.ctaUniverse': '우주를 열어보세요',
+    // Notifications - First chapter published for a story
+    'email.notifications.firstChapterPublished.subject': '첫 번째 챕터가 게시되었습니다!',
+    'email.notifications.firstChapterPublished.title': '스토리의 첫 번째 챕터가 공개되었습니다!',
+    'email.notifications.firstChapterPublished.intro': '작업을 공유하고, 피드백을 수집하고, 모멘텀을 유지하세요.',
+    'email.notifications.firstChapterPublished.details': '스토리: {storyTitle} - Chapter: {chapterTitle}',
+    'email.notifications.firstChapterPublished.ctaChapter': '챕터 열기',
+    'email.notifications.firstChapterPublished.ctaStory': '스토리 보기',
+    // Notifications - Story finished
+    'email.notifications.storyFinished.subject': '스토리를 완성하신 것을 축하드립니다!',
+    'email.notifications.storyFinished.title': '스토리가 완성되었습니다!',
+    'email.notifications.storyFinished.intro': '이 이정표를 축하하세요! 스토리를 게시, 공유 또는 제출하여 더 많은 독자에게 도달하는 것을 고려해 보세요.',
+    'email.notifications.storyFinished.details': '스토리: {storyTitle}',
+    'email.notifications.storyFinished.cta': '스토리 보기',
+    // Notifications - Fan club new subscriber
+    'email.notifications.newFanSubscriber.subject': '신규 팬클럽 구독자',
+    'email.notifications.newFanSubscriber.title': '새 팬클럽 가입자가 생겼습니다!',
+    'email.notifications.newFanSubscriber.details': '구독자: {subscriberName}',
+    'email.notifications.newFanSubscriber.cta': '팬클럽 보기',
+    // Notifications - Fan club subscription ended
+    'email.notifications.fanUnsubscribed.subject': '회원이 팬클럽을 탈퇴했습니다.',
+    'email.notifications.fanUnsubscribed.title': '회원이 팬클럽을 탈퇴했습니다.',
+    'email.notifications.fanUnsubscribed.intro': '최근 변경된 사항에 대해 알려드리고자 합니다. 참여도를 높이기 위해 업데이트 또는 독점 콘텐츠를 공유하는 것을 고려해 보세요.',
+    'email.notifications.fanUnsubscribed.details': '이전 회원: {name}',
+    'email.notifications.fanUnsubscribed.cta': '팬클럽 개설',
+    // Notifications - Friend request
+    'email.notifications.friendRequest.subject': '새 친구 요청',
+    'email.notifications.friendRequest.title': '새 친구 요청',
+    'email.notifications.friendRequest.details': '에서: {requesterName}',
+    'email.notifications.friendRequest.cta': '검토 요청',
+    // Notifications - Collaboration invitation
+    'email.notifications.collabInvite.subject': '공동 작업 초대',
+    'email.notifications.collabInvite.title': '공동 작업 초대를 받았습니다.',
+    'email.notifications.collabInvite.details': '초대자: {inviterName} - 역할 {role} - 대상: {targetType} - {targetTitle}',
+    'email.notifications.collabInvite.cta': '초대 검토',
+    // Notifications - Organization invitation
+    'email.notifications.orgInvite.subject': '조직 가입 초대',
+    'email.notifications.orgInvite.title': '{orgName}에 초대되었습니다.',
+    'email.notifications.orgInvite.details': '초대자: {inviterName}',
+    'email.notifications.orgInvite.cta': '초대 검토',
+    // Notifications - Daily digest
+    'email.notifications.dailyDigest.subject': '일일 업데이트',
+    'email.notifications.dailyDigest.title': '일일 업데이트',
+    'email.notifications.dailyDigest.intro': '오늘 일어난 일은 다음과 같습니다.',
+    'email.notifications.dailyDigest.cta': '모든 업데이트 보기',
+    'email.notifications.dailyDigest.empty': '오늘은 업데이트가 없습니다.',
+    // Notifications - Followed author posted a new blog
+    'email.notifications.followedBlogPost.subject': '팔로우하는 작성자의 새 블로그 게시물',
+    'email.notifications.followedBlogPost.title': '{authorName} 새 블로그를 개설했습니다.',
+    'email.notifications.followedBlogPost.details': '제목: {postTitle}',
+    'email.notifications.followedBlogPost.cta': '게시물 읽기',
+    // Notifications - Followed author published new work
+    'email.notifications.followedNewWork.subject': '팔로우하는 작가의 새 작품',
+    'email.notifications.followedNewWork.title': '{authorName} 새로운 게시 {workType}',
+    'email.notifications.followedNewWork.details': '제목: {title}',
+    'email.notifications.followedNewWork.cta': '보기'
 };
