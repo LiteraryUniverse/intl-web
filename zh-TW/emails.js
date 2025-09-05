@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': '您關注的作者的新作',
     'email.notifications.followedNewWork.title': '{authorName} 出版了新的 {workType}',
     'email.notifications.followedNewWork.details': '本文標題： {title}',
-    'email.notifications.followedNewWork.cta': '檢視'
+    'email.notifications.followedNewWork.cta': '檢視',
+    // Story notification emails
+    'email.story.newComment.subject': '關於 "{storyTitle}" 的新評論',
+    'email.story.newComment.body': '{commenterName} 在你的故事 "{storyTitle}" 留言： {commentText}',
+    'email.story.betaComment.subject': '關於 "{storyTitle}" 的新測試回饋',
+    'email.story.betaComment.body': '{commenterName} 提供了關於 "{storyTitle}" 的測試回饋： {commentText}',
+    'email.story.collaboratorAccepted.subject': '{storyTitle}" 的新團隊成員',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} 已接受您的邀請，以 {role}的身份與 "{storyTitle}" 合作。',
+    'email.story.milestone.subject': '恭喜你{storyTitle}" 達到里程碑',
+    'email.story.milestone.body': '好消息！您的章節 "{chapterTitle}「 來自 」{storyTitle}" 已經到達 {count} {milestone}.繼續努力',
+    'email.story.betaRevision.subject': '新的 beta 版本可用："{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} 發表了 "{chapterTitle}「 從 」{storyTitle}" 的新測試版。非常感謝您的反饋意見！',
+    'email.story.newChapter.subject': '新章可用："{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} 已發佈 "{storyTitle}「 的新章節： 」{chapterTitle}"。祝您閱讀愉快',
+    // Universe notification emails
+    'email.universe.newStory.subject': '宇宙中的新故事"{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} 新增一個新故事 "{storyTitle}" 到你正在追蹤的宇宙。探索新的冒險！',
+    'email.universe.collaboratorChange.subject': '宇宙合作更新',
+    'email.universe.collaboratorChange.body': '您所參與的宇宙合作團隊有變更。',
+    'email.universe.update.subject': '宇宙更新',
+    'email.universe.update.body': '您追蹤的宇宙已更新新內容。',
+    'email.universe.comment.subject': '對宇宙的新評論',
+    'email.universe.comment.body': '{commenterName} 評論了您關注的宇宙："{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': '新的部落格文章："{postTitle}"',
+    'email.blog.newPost.body': '{authorName} 在您關注的部落格發表了一篇新的部落格文章 "{postTitle}" 。',
+    'email.blog.comment.subject': '部落格文章的新評論："{postTitle}"',
+    'email.blog.comment.body': '{commenterName} 評論博文 "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': '博客更新',
+    'email.blog.update.body': '您正在追蹤的部落格已更新。',
+    // General comment notification emails
+    'email.comment.general.subject': '關於 "{contentTitle}" 的新評論',
+    'email.comment.general.body': '{commenterName} 在 "{contentTitle}": "{commentText}" 上發表了評論',
+    'email.comment.reply.subject': '回覆您的意見',
+    'email.comment.reply.body': '{replierName} 回覆您對 "{contentTitle}「 的意見： 」{replyText}"',
+    'email.comment.like.subject': '您的評論已被讚好',
+    'email.comment.like.body': '{likerName} 喜歡您的評論。繼續參與！',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': '粉絲藝術的新評論："{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} 對你的粉絲作品 "{contentTitle}「 做了評論： 」{commentText}"',
+    'email.comment.event.subject': '活動的新評論："{contentTitle}"',
+    'email.comment.event.body': '{commenterName} 對事件 "{contentTitle}「 作出評論： 」{commentText}"',
+    'email.comment.revision.subject': '有關修訂的新評論',
+    'email.comment.revision.body': '{commenterName} 評論了您的修改："{commentText}"',
+    'email.comment.feedback.subject': '有關回饋的新評論',
+    'email.comment.feedback.body': '{commenterName} 評論了您的反饋問題："{commentText}"',
+    // Welcome email
+    'email.welcome.subject': '歡迎來到 Literary Universe！'
 };
