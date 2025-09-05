@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': '팔로우하는 작가의 새 작품',
     'email.notifications.followedNewWork.title': '{authorName} 새로운 게시 {workType}',
     'email.notifications.followedNewWork.details': '제목: {title}',
-    'email.notifications.followedNewWork.cta': '보기'
+    'email.notifications.followedNewWork.cta': '보기',
+    // Story notification emails
+    'email.story.newComment.subject': '새 댓글 "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} 스토리에 댓글을 남기세요 "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': '"{storyTitle}"에 대한 새로운 베타 피드백',
+    'email.story.betaComment.body': '{commenterName} "{storyTitle}"에 대한 베타 피드백 제공: {commentText}',
+    'email.story.collaboratorAccepted.subject': '"{storyTitle}"의 새 팀원',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} 에서 "{storyTitle}"에 대한 공동 작업 초대를 수락했습니다. {role}.',
+    'email.story.milestone.subject': '축하합니다! 마일스톤 도달 "{storyTitle}"',
+    'email.story.milestone.body': '좋은 소식입니다! "{storyTitle}"의 챕터 "{chapterTitle}"가 {count} {milestone}에 도달했습니다. 계속 멋진 활동을 이어가세요!',
+    'email.story.betaRevision.subject': '새로운 베타 버전이 출시되었습니다: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} 에서 "{chapterTitle}"의 새로운 베타 버전을 "{storyTitle}"에서 발표했습니다. 여러분의 피드백을 부탁드립니다!',
+    'email.story.newChapter.subject': '새 챕터를 사용할 수 있습니다: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} 의 새로운 챕터 "{storyTitle}": "{chapterTitle}". 즐겁게 읽으세요!',
+    // Universe notification emails
+    'email.universe.newStory.subject': '우주의 새로운 이야기: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} 팔로우 중인 유니버스에 새 스토리 "{storyTitle}"를 추가했습니다. 새로운 모험을 발견하세요!',
+    'email.universe.collaboratorChange.subject': '유니버스 협업 업데이트',
+    'email.universe.collaboratorChange.body': '참여하고 있는 유니버스의 공동 작업 팀에 변경 사항이 발생했습니다.',
+    'email.universe.update.subject': '유니버스 업데이트',
+    'email.universe.update.body': '팔로우 중인 유니버스가 새로운 콘텐츠로 업데이트되었습니다.',
+    'email.universe.comment.subject': '새 댓글 우주에 대해',
+    'email.universe.comment.body': '{commenterName} 팔로우 중인 유니버스에 댓글을 달았습니다: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': '새 블로그 게시물: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} 새 블로그 게시물 "{postTitle}"을 팔로우 중인 블로그에 게시했습니다.',
+    'email.blog.comment.subject': '새 댓글이 블로그 게시물에 추가되었습니다: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} 블로그 게시물에 댓글을 달았습니다 "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': '블로그 업데이트',
+    'email.blog.update.body': '팔로우 중인 블로그가 업데이트되었습니다.',
+    // General comment notification emails
+    'email.comment.general.subject': '새 댓글 "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} 댓글 "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': '댓글에 답글 달기',
+    'email.comment.reply.body': '{replierName} 댓글에 답글 "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': '댓글이 좋아요를 받았습니다.',
+    'email.comment.like.body': '{likerName} 댓글에 좋아요를 눌렀습니다. 계속 참여하세요!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': '팬아트에 대한 새로운 댓글: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} 팬아트에 댓글 달기 "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': '이벤트에 새 댓글이 달렸습니다: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} 이벤트에 댓글을 달았습니다 "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': '개정에 대한 새로운 코멘트',
+    'email.comment.revision.body': '{commenterName} 수정 사항에 댓글을 달았습니다: "{commentText}"',
+    'email.comment.feedback.subject': '피드백에 대한 새 댓글',
+    'email.comment.feedback.body': '{commenterName} 피드백 문제에 댓글을 달았습니다: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': '리터러리 유니버스에 오신 것을 환영합니다!'
 };
