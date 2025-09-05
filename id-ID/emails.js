@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Karya baru dari penulis yang Anda ikuti',
     'email.notifications.followedNewWork.title': '{authorName} menerbitkan yang baru {workType}',
     'email.notifications.followedNewWork.details': 'Judul: {title}',
-    'email.notifications.followedNewWork.cta': 'Melihat'
+    'email.notifications.followedNewWork.cta': 'Melihat',
+    // Story notification emails
+    'email.story.newComment.subject': 'Komentar baru di "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} tinggalkan komentar pada cerita Anda "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Umpan balik beta baru di "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} memberikan umpan balik versi beta di "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Anggota tim baru untuk "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} telah menerima undangan Anda untuk berkolaborasi di "{storyTitle}" sebagai {role}.',
+    'email.story.milestone.subject': 'Selamat! Tonggak sejarah tercapai di "{storyTitle}"',
+    'email.story.milestone.body': 'Berita bagus! Bab Anda "{chapterTitle}" dari "{storyTitle}" telah sampai di {count} {milestone}. Teruslah bekerja dengan baik!',
+    'email.story.betaRevision.subject': 'Revisi beta baru tersedia: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} telah menerbitkan revisi beta baru dari "{chapterTitle}" dari "{storyTitle}". Umpan balik Anda akan sangat kami hargai!',
+    'email.story.newChapter.subject': 'Bab baru tersedia: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} telah menerbitkan bab baru dari "{storyTitle}": "{chapterTitle}". Selamat membaca!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Cerita baru di alam semesta: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} menambahkan cerita baru "{storyTitle}" ke alam semesta yang Anda ikuti. Temukan petualangan baru!',
+    'email.universe.collaboratorChange.subject': 'Pembaruan kolaborasi Universe',
+    'email.universe.collaboratorChange.body': 'Telah terjadi perubahan dalam tim kolaborasi untuk semesta yang Anda ikuti.',
+    'email.universe.update.subject': 'Semesta diperbarui',
+    'email.universe.update.body': 'Alam semesta yang Anda ikuti telah diperbarui dengan konten baru.',
+    'email.universe.comment.subject': 'Komentar baru tentang alam semesta',
+    'email.universe.comment.body': '{commenterName} mengomentari alam semesta yang Anda ikuti: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Posting blog baru: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} menerbitkan postingan blog baru "{postTitle}" di blog yang Anda ikuti.',
+    'email.blog.comment.subject': 'Komentar baru di postingan blog: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} mengomentari posting blog "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blog diperbarui',
+    'email.blog.update.body': 'Blog yang Anda ikuti telah diperbarui.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Komentar baru di "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} mengomentari "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Membalas komentar Anda',
+    'email.comment.reply.body': '{replierName} membalas komentar Anda di "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Komentar Anda disukai',
+    'email.comment.like.body': '{likerName} menyukai komentar Anda. Teruslah terlibat!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Komentar baru tentang seni penggemar: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} mengomentari karya seni penggemar Anda "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Komentar baru tentang acara: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} mengomentari acara tersebut "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Komentar baru tentang revisi',
+    'email.comment.revision.body': '{commenterName} mengomentari revisi Anda: "{commentText}"',
+    'email.comment.feedback.subject': 'Komentar baru tentang umpan balik',
+    'email.comment.feedback.body': '{commenterName} mengomentari masalah umpan balik Anda: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Selamat datang di Literary Universe!'
 };
