@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Naujas sekamo autoriaus kūrinys',
     'email.notifications.followedNewWork.title': '{authorName} paskelbė naują {workType}',
     'email.notifications.followedNewWork.details': 'Pavadinimas: {title}',
-    'email.notifications.followedNewWork.cta': 'Peržiūrėti'
+    'email.notifications.followedNewWork.cta': 'Peržiūrėti',
+    // Story notification emails
+    'email.story.newComment.subject': 'Naujas komentaras "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} paliko komentarą apie savo istoriją "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Nauji beta atsiliepimai apie "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} pateikė beta atsiliepimus apie "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Naujas komandos narys "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} priėmė jūsų kvietimą bendradarbiauti su "{storyTitle}" kaip {role}.',
+    'email.story.milestone.subject': 'Sveikiname! Pasiektas svarbus etapas "{storyTitle}"',
+    'email.story.milestone.body': 'Puikios naujienos! Jūsų skyrius "{chapterTitle}" iš "{storyTitle}" pasiekė {count} {milestone}. Tęskite puikų darbą!',
+    'email.story.betaRevision.subject': 'Galima įsigyti naują beta versiją: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} paskelbė naują beta versiją "{chapterTitle}" iš "{storyTitle}". Jūsų atsiliepimai bus labai vertinami!',
+    'email.story.newChapter.subject': 'Naujas skyrius: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} paskelbė naują "{storyTitle}" skyrių: "{chapterTitle}". Malonaus skaitymo!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Nauja istorija visatoje: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} pridėjo naują istoriją "{storyTitle}" į visatą, kurią sekate. Atraskite naujų nuotykių!',
+    'email.universe.collaboratorChange.subject': 'Visatos bendradarbiavimo atnaujinimas',
+    'email.universe.collaboratorChange.body': 'Pasikeitė visatos, su kuria dirbate, bendradarbiavimo komanda.',
+    'email.universe.update.subject': 'Visata atnaujinta',
+    'email.universe.update.body': 'Jūsų sekama visata buvo atnaujinta nauju turiniu.',
+    'email.universe.comment.subject': 'Naujas komentaras apie visatą',
+    'email.universe.comment.body': '{commenterName} pakomentavo visatą, kurią sekate: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Naujas tinklaraščio įrašas: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} paskelbė naują tinklaraščio įrašą "{postTitle}" tinklaraštyje, kurį sekate.',
+    'email.blog.comment.subject': 'Naujas komentaras apie dienoraščio įrašą: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} pakomentavo tinklaraščio įrašą "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Atnaujintas tinklaraštis',
+    'email.blog.update.body': 'Buvo atnaujintas jūsų sekamas tinklaraštis.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Naujas komentaras "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} Komentavo "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Atsakyti į jūsų komentarą',
+    'email.comment.reply.body': '{replierName} atsakė į jūsų komentarą "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Jūsų komentaras patiko',
+    'email.comment.like.body': '{likerName} patiko jūsų komentaras. Ir toliau įsitraukti!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Naujas komentaras apie fanų meną: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} pakomentavo savo fanų meną "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Naujas komentaras apie įvykį: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} komentavo įvykį "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Naujas komentaras dėl peržiūros',
+    'email.comment.revision.body': '{commenterName} pakomentavo jūsų peržiūrą: "{commentText}"',
+    'email.comment.feedback.subject': 'Naujas komentaras apie atsiliepimus',
+    'email.comment.feedback.body': '{commenterName} pakomentavo jūsų atsiliepimų klausimą: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Sveiki atvykę į Literatūrinę visatą!'
 };
