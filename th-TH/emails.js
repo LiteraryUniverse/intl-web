@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'ผลงานใหม่จากนักเขียนที่คุณติดตาม',
     'email.notifications.followedNewWork.title': '{authorName} เผยแพร่แล้ว {workType}',
     'email.notifications.followedNewWork.details': 'หัวข้อ: {title}',
-    'email.notifications.followedNewWork.cta': 'มุมมอง'
+    'email.notifications.followedNewWork.cta': 'มุมมอง',
+    // Story notification emails
+    'email.story.newComment.subject': 'ความคิดเห็นใหม่ใน "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} แสดงความคิดเห็นในเรื่องราวของคุณ "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'ความคิดเห็นเบต้าใหม่เกี่ยวกับ "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} ให้ข้อเสนอแนะแบบเบต้าเกี่ยวกับ "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'สมาชิกใหม่ของทีมสำหรับ "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} ได้ตอบรับคำเชิญของคุณในการร่วมงานใน "{storyTitle}" ในฐานะ {role}',
+    'email.story.milestone.subject': 'ขอแสดงความยินดี! บรรลุเป้าหมายสำคัญใน "{storyTitle}"',
+    'email.story.milestone.body': 'ข่าวดี! บทของคุณ "{chapterTitle}" จาก "{storyTitle}" ได้ถึง {count} {milestone}แล้ว ขอให้ทำงานต่อไปอย่างยอดเยี่ยม!',
+    'email.story.betaRevision.subject': 'มีรุ่นเบต้าใหม่พร้อมใช้งาน: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} ได้เผยแพร่รุ่นเบต้าใหม่ของ "{chapterTitle}" จาก "{storyTitle}" ข้อเสนอแนะของคุณจะเป็นประโยชน์อย่างยิ่ง!',
+    'email.story.newChapter.subject': 'บทใหม่พร้อมให้อ่านแล้ว: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} ได้ตีพิมพ์บทใหม่ของ "{storyTitle}" ชื่อว่า "{chapterTitle}" ขอให้สนุกกับการอ่าน!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'เรื่องใหม่ในจักรวาล: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} เพิ่มเรื่องราวใหม่ "{storyTitle}" ในจักรวาลที่คุณกำลังติดตาม ค้นพบการผจญภัยใหม่!',
+    'email.universe.collaboratorChange.subject': 'อัปเดตความร่วมมือของจักรวาล',
+    'email.universe.collaboratorChange.body': 'มีการเปลี่ยนแปลงในทีมความร่วมมือสำหรับจักรวาลที่คุณมีส่วนร่วม',
+    'email.universe.update.subject': 'จักรวาลได้รับการอัปเดต',
+    'email.universe.update.body': 'จักรวาลที่คุณกำลังติดตามได้รับการอัปเดตด้วยเนื้อหาใหม่',
+    'email.universe.comment.subject': 'ความคิดเห็นใหม่เกี่ยวกับจักรวาล',
+    'email.universe.comment.body': '{commenterName} แสดงความคิดเห็นเกี่ยวกับจักรวาลที่คุณกำลังติดตาม: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'โพสต์บล็อกใหม่: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} เผยแพร่บทความบล็อกใหม่ "{postTitle}" บนบล็อกที่คุณกำลังติดตาม',
+    'email.blog.comment.subject': 'มีความคิดเห็นใหม่ในโพสต์บล็อก: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} แสดงความคิดเห็นในบล็อกโพสต์ "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'บล็อกอัปเดตแล้ว',
+    'email.blog.update.body': 'บล็อกที่คุณติดตามได้รับการอัปเดตแล้ว',
+    // General comment notification emails
+    'email.comment.general.subject': 'ความคิดเห็นใหม่ใน "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} แสดงความคิดเห็นเกี่ยวกับ "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'ตอบกลับความคิดเห็นของคุณ',
+    'email.comment.reply.body': '{replierName} ตอบกลับความคิดเห็นของคุณใน "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'ความคิดเห็นของคุณได้รับการกดถูกใจ',
+    'email.comment.like.body': '{likerName} ชอบความคิดเห็นของคุณ. ติดตามต่อไป!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'ความคิดเห็นใหม่เกี่ยวกับงานแฟนอาร์ต: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} แสดงความคิดเห็นเกี่ยวกับงานแฟนอาร์ตของคุณ "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'ความคิดเห็นใหม่เกี่ยวกับกิจกรรม: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} แสดงความคิดเห็นเกี่ยวกับเหตุการณ์ "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'ความคิดเห็นใหม่เกี่ยวกับการแก้ไข',
+    'email.comment.revision.body': '{commenterName} แสดงความคิดเห็นเกี่ยวกับการแก้ไขของคุณ: "{commentText}"',
+    'email.comment.feedback.subject': 'ความคิดเห็นใหม่เกี่ยวกับข้อเสนอแนะ',
+    'email.comment.feedback.body': '{commenterName} แสดงความคิดเห็นเกี่ยวกับปัญหาข้อเสนอแนะของคุณ: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'ยินดีต้อนรับสู่จักรวาลวรรณกรรม!'
 };
