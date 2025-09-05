@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Nyt værk fra en forfatter, du følger',
     'email.notifications.followedNewWork.title': '{authorName} udgav en ny {workType}',
     'email.notifications.followedNewWork.details': 'Titel: {title}',
-    'email.notifications.followedNewWork.cta': 'Udsigt'
+    'email.notifications.followedNewWork.cta': 'Udsigt',
+    // Story notification emails
+    'email.story.newComment.subject': 'Ny kommentar til "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} efterlod en kommentar til din historie "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Ny beta-feedback på "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} gav beta-feedback på "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Nyt teammedlem til "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} har accepteret din invitation til at samarbejde om "{storyTitle}" som {role}.',
+    'email.story.milestone.subject': 'Tillykke med det! Milepæl nået på "{storyTitle}"',
+    'email.story.milestone.body': 'Gode nyheder! Dit kapitel "{chapterTitle}" fra "{storyTitle}" er nået til {count} {milestone}. Fortsæt det gode arbejde!',
+    'email.story.betaRevision.subject': 'Ny betaversion tilgængelig: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} har udgivet en ny betaversion af "{chapterTitle}" fra "{storyTitle}". Din feedback vil blive meget værdsat!',
+    'email.story.newChapter.subject': 'Nyt kapitel tilgængeligt: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} har udgivet et nyt kapitel af "{storyTitle}": "{chapterTitle}". God fornøjelse med læsningen!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Ny historie i universet: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} tilføjet en ny historie "{storyTitle}" til et univers, du følger. Oplev nye eventyr!',
+    'email.universe.collaboratorChange.subject': 'Opdatering af Universe-samarbejdet',
+    'email.universe.collaboratorChange.body': 'Der er sket en ændring i samarbejdsteamet for et univers, du er involveret i.',
+    'email.universe.update.subject': 'Universet er opdateret',
+    'email.universe.update.body': 'Et univers, du følger, er blevet opdateret med nyt indhold.',
+    'email.universe.comment.subject': 'Ny kommentar til universet',
+    'email.universe.comment.body': '{commenterName} kommenterede et univers, du følger: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Nyt blogindlæg: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} udgivet et nyt blogindlæg "{postTitle}" på en blog, du følger.',
+    'email.blog.comment.subject': 'Ny kommentar til blogindlæg: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} kommenterede blogindlægget "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blog opdateret',
+    'email.blog.update.body': 'En blog, du følger, er blevet opdateret.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Ny kommentar til "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} kommenterede på "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Svar på din kommentar',
+    'email.comment.reply.body': '{replierName} svarede på din kommentar til "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Din kommentar blev liket',
+    'email.comment.like.body': '{likerName} Jeg kunne godt lide din kommentar. Bliv ved med at engagere dig!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Ny kommentar til fankunst: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} kommenterede din fankunst "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Ny kommentar til begivenhed: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} kommenterede begivenheden "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Ny kommentar til revision',
+    'email.comment.revision.body': '{commenterName} kommenterede din revision: "{commentText}"',
+    'email.comment.feedback.subject': 'Ny kommentar til feedback',
+    'email.comment.feedback.body': '{commenterName} kommenterede på dit feedback-problem: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Velkommen til det litterære univers!'
 };
