@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Nové dielo od autora, ktorého sledujete',
     'email.notifications.followedNewWork.title': '{authorName} uverejnila novú stránku {workType}.',
     'email.notifications.followedNewWork.details': 'Názov: {title}',
-    'email.notifications.followedNewWork.cta': 'Zobraziť'
+    'email.notifications.followedNewWork.cta': 'Zobraziť',
+    // Story notification emails
+    'email.story.newComment.subject': 'Nový komentár k "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} zanechal komentár k vášmu príbehu "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Nová beta spätná väzba na "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} poskytol beta spätnú väzbu na "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Nový člen tímu pre "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} prijala vaše pozvanie na spoluprácu na stránke{storyTitle}ako {role}.',
+    'email.story.milestone.subject': 'Gratulujeme! Míľnik dosiahnutý na "{storyTitle}"',
+    'email.story.milestone.body': 'Skvelé správy! Vaša kapitola "{chapterTitle}" z "{storyTitle}" dosiahla {count} {milestone}. Pokračujte v skvelej práci!',
+    'email.story.betaRevision.subject': 'K dispozícii je nová beta verzia: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} zverejnila novú beta verziu "{chapterTitle}" z "{storyTitle}". Budeme veľmi vďační za vašu spätnú väzbu!',
+    'email.story.newChapter.subject': 'K dispozícii je nová kapitola: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} uverejnila novú kapitolu "{storyTitle}": "{chapterTitle}". Príjemné čítanie!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Nový príbeh vo vesmíre: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} pridaný nový príbeh "{storyTitle}" do sveta, ktorý sledujete. Objavte nové dobrodružstvá!',
+    'email.universe.collaboratorChange.subject': 'Aktualizácia spolupráce s vesmírom',
+    'email.universe.collaboratorChange.body': 'V tíme pre spoluprácu na vesmíre, na ktorom sa podieľate, došlo k zmene.',
+    'email.universe.update.subject': 'Vesmír aktualizovaný',
+    'email.universe.update.body': 'Sledovaný vesmír bol aktualizovaný novým obsahom.',
+    'email.universe.comment.subject': 'Nový komentár k vesmíru',
+    'email.universe.comment.body': '{commenterName} komentoval vesmír, ktorý sledujete: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Nový príspevok na blogu: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} zverejnil nový príspevok na blogu "{postTitle}" na blogu, ktorý sledujete.',
+    'email.blog.comment.subject': 'Nový komentár na blogu: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} komentoval príspevok na blogu "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blog aktualizovaný',
+    'email.blog.update.body': 'Blog, ktorý sledujete, bol aktualizovaný.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Nový komentár k "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} komentoval "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Odpoveď na váš komentár',
+    'email.comment.reply.body': '{replierName} odpovedal na váš komentár k "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Váš komentár sa páčil',
+    'email.comment.like.body': '{likerName} páčil váš komentár. Pokračujte v zapojení!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Nový komentár k fanúšikovskému umeniu: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} komentoval váš fan art "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Nový komentár k udalosti: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} komentoval udalosť "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Nová pripomienka k revízii',
+    'email.comment.revision.body': '{commenterName} komentoval vašu revíziu: "{commentText}"',
+    'email.comment.feedback.subject': 'Nový komentár k spätnej väzbe',
+    'email.comment.feedback.body': '{commenterName} komentoval váš problém so spätnou väzbou: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Vitajte v Literárnom vesmíre!'
 };
