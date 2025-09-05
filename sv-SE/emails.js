@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Nytt verk från en författare som du följer',
     'email.notifications.followedNewWork.title': '{authorName} publicerat en ny {workType}',
     'email.notifications.followedNewWork.details': 'Titel: {title}',
-    'email.notifications.followedNewWork.cta': 'Utsikt'
+    'email.notifications.followedNewWork.cta': 'Utsikt',
+    // Story notification emails
+    'email.story.newComment.subject': 'Ny kommentar till "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} lämnade en kommentar till din berättelse "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Ny beta-feedback på "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} gav beta feedback på "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Ny medarbetare för "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} har accepterat din inbjudan att samarbeta på "{storyTitle}" som en {role}.',
+    'email.story.milestone.subject': 'Gratulerar, gratulerar! Milstolpe uppnådd på "{storyTitle}"',
+    'email.story.milestone.body': 'Goda nyheter! Ditt kapitel "{chapterTitle}" från "{storyTitle}" har nått {count} {milestone}. Fortsätt med det fantastiska arbetet!',
+    'email.story.betaRevision.subject': 'Ny betaversion tillgänglig: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} har publicerat en ny betaversion av "{chapterTitle}" från "{storyTitle}". Din feedback skulle vara mycket uppskattad!',
+    'email.story.newChapter.subject': 'Nytt kapitel tillgängligt: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} har publicerat ett nytt kapitel av "{storyTitle}": "{chapterTitle}". Trevlig läsning!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Ny berättelse i universum: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} lagt till en ny berättelse "{storyTitle}" till ett universum du följer. Upptäck nya äventyr!',
+    'email.universe.collaboratorChange.subject': 'Uppdatering av Universe-samarbetet',
+    'email.universe.collaboratorChange.body': 'Det har skett en förändring i samarbetsteamet för ett universum som du är involverad i.',
+    'email.universe.update.subject': 'Universum uppdaterat',
+    'email.universe.update.body': 'Ett universum som du följer har uppdaterats med nytt innehåll.',
+    'email.universe.comment.subject': 'Ny kommentar om universum',
+    'email.universe.comment.body': '{commenterName} kommenterade ett universum som du följer: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Nytt blogginlägg: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} publicerat ett nytt blogginlägg "{postTitle}" på en blogg som du följer.',
+    'email.blog.comment.subject': 'Ny kommentar till blogginlägg: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} kommenterade blogginlägget "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blogg uppdaterad',
+    'email.blog.update.body': 'En blogg som du följer har uppdaterats.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Ny kommentar till "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} kommenterade "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Svara på din kommentar',
+    'email.comment.reply.body': '{replierName} svarade på din kommentar om "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Din kommentar gillades',
+    'email.comment.like.body': '{likerName} gillade din kommentar. Fortsätt engagera dig!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Ny kommentar om fan art: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} kommenterade din fanart "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Ny kommentar om händelse: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} kommenterade händelsen "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Ny kommentar om revidering',
+    'email.comment.revision.body': '{commenterName} kommenterade din revision: "{commentText}"',
+    'email.comment.feedback.subject': 'Ny kommentar om återkoppling',
+    'email.comment.feedback.body': '{commenterName} kommenterade på din feedbackfråga: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Välkommen till Literary Universe!'
 };
