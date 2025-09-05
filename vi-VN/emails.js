@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Tác phẩm mới từ tác giả mà bạn theo dõi',
     'email.notifications.followedNewWork.title': '{authorName} Đã phát hành một bài viết mới {workType}',
     'email.notifications.followedNewWork.details': 'Tiêu đề: {title}',
-    'email.notifications.followedNewWork.cta': 'Xem'
+    'email.notifications.followedNewWork.cta': 'Xem',
+    // Story notification emails
+    'email.story.newComment.subject': 'Bình luận mới về "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} Đã để lại bình luận trên câu chuyện của bạn "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Phản hồi beta mới về "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} Đã cung cấp phản hồi beta cho "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Thành viên mới của đội "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} Đã chấp nhận lời mời hợp tác của bạn trong dự án "{storyTitle}" với vai trò là " {role}".',
+    'email.story.milestone.subject': 'Chúc mừng! Đã đạt được cột mốc quan trọng trong "{storyTitle}".',
+    'email.story.milestone.body': 'Tin vui! Chương "{chapterTitle}" của bạn từ "{storyTitle}" đã đạt được {count} {milestone}. Tiếp tục phát huy nhé!',
+    'email.story.betaRevision.subject': 'Phiên bản beta mới đã có sẵn: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} Đã phát hành phiên bản beta mới của "{chapterTitle}" từ "{storyTitle}". Chúng tôi rất mong nhận được phản hồi của bạn!',
+    'email.story.newChapter.subject': 'Chương mới đã có sẵn: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} Đã phát hành chương mới của "{storyTitle}": "{chapterTitle}". Chúc bạn đọc vui vẻ!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Câu chuyện mới trong vũ trụ: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} Đã thêm một câu chuyện mới "{storyTitle}" vào vũ trụ mà bạn đang theo dõi. Khám phá những cuộc phiêu lưu mới!',
+    'email.universe.collaboratorChange.subject': 'Cập nhật về sự hợp tác trong vũ trụ',
+    'email.universe.collaboratorChange.body': 'Đã có sự thay đổi trong đội ngũ hợp tác cho một dự án mà bạn đang tham gia.',
+    'email.universe.update.subject': 'Vũ trụ đã được cập nhật',
+    'email.universe.update.body': 'Một vũ trụ mà bạn đang theo dõi đã được cập nhật với nội dung mới.',
+    'email.universe.comment.subject': 'Bình luận mới về vũ trụ',
+    'email.universe.comment.body': '{commenterName} Bình luận về một chủ đề bạn đang theo dõi: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Bài viết mới trên blog: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} Đã đăng một bài viết mới trên blog có tiêu đề "{postTitle}" trên blog mà bạn đang theo dõi.',
+    'email.blog.comment.subject': 'Bình luận mới trên bài đăng blog: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} Bình luận trên bài đăng blog "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blog đã được cập nhật',
+    'email.blog.update.body': 'Một blog mà bạn đang theo dõi đã được cập nhật.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Bình luận mới về "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} Bình luận về "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Trả lời bình luận của bạn',
+    'email.comment.reply.body': '{replierName} Trả lời bình luận của bạn trên "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Bình luận của bạn đã được thích.',
+    'email.comment.like.body': '{likerName} Tôi thích bình luận của bạn. Hãy tiếp tục tương tác!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Bình luận mới về tác phẩm fan art: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} Bình luận về tác phẩm fan art của bạn "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Bình luận mới về sự kiện: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} Bình luận về sự kiện "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Bình luận mới về bản sửa đổi',
+    'email.comment.revision.body': '{commenterName} Đã bình luận về bản sửa đổi của bạn: "{commentText}"',
+    'email.comment.feedback.subject': 'Bình luận mới về phản hồi',
+    'email.comment.feedback.body': '{commenterName} Đã bình luận về vấn đề phản hồi của bạn: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Chào mừng đến với Thế giới Văn học!'
 };
