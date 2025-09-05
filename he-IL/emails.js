@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'יצירה חדשה של סופר שאתה עוקב אחריו',
     'email.notifications.followedNewWork.title': '{authorName} פרסם חדש {workType}',
     'email.notifications.followedNewWork.details': 'כותרת: {title}',
-    'email.notifications.followedNewWork.cta': 'הצג'
+    'email.notifications.followedNewWork.cta': 'הצג',
+    // Story notification emails
+    'email.story.newComment.subject': 'תגובה חדשה על "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} השארת תגובה על הסיפור שלך "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'משוב חדש על גרסת הבטא של "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} סיפק משוב בטא על "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'חבר צוות חדש ל"{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} קיבל את הזמנתך לשתף פעולה ב"{storyTitle}" כ {role}.',
+    'email.story.milestone.subject': 'מזל טוב! אבן דרך הושגה ב"{storyTitle}"',
+    'email.story.milestone.body': 'חדשות מצוינות! הפרק שלך "{chapterTitle}" מתוך "{storyTitle}" הגיע ל- {count} {milestone}. המשך בעבודה המצוינת!',
+    'email.story.betaRevision.subject': 'גרסת בטא חדשה זמינה: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} פרסם גרסת בטא חדשה של "{chapterTitle}" מתוך "{storyTitle}". נשמח לקבל את המשוב שלכם!',
+    'email.story.newChapter.subject': 'פרק חדש זמין: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} פרסם פרק חדש של "{storyTitle}": "{chapterTitle}". קריאה מהנה!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'סיפור חדש ביקום: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} הוספה סיפור חדש "{storyTitle}" ליקום שאתה עוקב אחריו. גלה הרפתקאות חדשות!',
+    'email.universe.collaboratorChange.subject': 'עדכון שיתוף פעולה ביקום',
+    'email.universe.collaboratorChange.body': 'חלה שינוי בצוות שיתוף הפעולה של יקום שאתה מעורב בו.',
+    'email.universe.update.subject': 'היקום עודכן',
+    'email.universe.update.body': 'היקום שאתה עוקב אחריו עודכן בתוכן חדש.',
+    'email.universe.comment.subject': 'תגובה חדשה על היקום',
+    'email.universe.comment.body': '{commenterName} הגיב על יקום שאתה עוקב אחריו: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'פוסט חדש בבלוג: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} פרסם פוסט חדש בבלוג "{postTitle}" בבלוג שאתה עוקב אחריו.',
+    'email.blog.comment.subject': 'תגובה חדשה בבלוג: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} הגיב על הפוסט בבלוג "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'הבלוג עודכן',
+    'email.blog.update.body': 'בלוג שאתה עוקב אחריו עודכן.',
+    // General comment notification emails
+    'email.comment.general.subject': 'תגובה חדשה על "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} הגיב על "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'תגובה לתגובתך',
+    'email.comment.reply.body': '{replierName} הגיב לתגובתך על "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'התגובה שלך זכתה לאהדה',
+    'email.comment.like.body': '{likerName} אהבתי את התגובה שלך. המשך להשתתף!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'תגובה חדשה על יצירת אמנות של מעריץ: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} הגיב על יצירת האמנות שלך "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'תגובה חדשה על האירוע: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} הגיב על האירוע "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'הערה חדשה על התיקון',
+    'email.comment.revision.body': '{commenterName} הגיב על התיקון שלך: "{commentText}"',
+    'email.comment.feedback.subject': 'תגובה חדשה על משוב',
+    'email.comment.feedback.body': '{commenterName} הגיב על הבעיה שהעלית: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'ברוכים הבאים ליקום הספרותי!'
 };
