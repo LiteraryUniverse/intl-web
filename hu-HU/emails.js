@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Új mű egy olyan szerzőtől, akit követsz',
     'email.notifications.followedNewWork.title': '{authorName} megjelent egy új {workType}',
     'email.notifications.followedNewWork.details': 'Cím: {title}',
-    'email.notifications.followedNewWork.cta': 'A  megtekintése'
+    'email.notifications.followedNewWork.cta': 'A  megtekintése',
+    // Story notification emails
+    'email.story.newComment.subject': 'Új megjegyzés a "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} hagyott egy megjegyzést a történetéhez "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Új béta visszajelzés a "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} béta visszajelzést adott a "{storyTitle}" témában: {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Új csapattag a "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} elfogadta az Ön meghívását, hogy együttműködjön a "{storyTitle}" című művében, mint {role}.',
+    'email.story.milestone.subject': 'Gratulálunk! Mérföldkőhöz érkezett a "{storyTitle}"',
+    'email.story.milestone.body': 'Nagyszerű hír! A "{chapterTitle}" című fejezeted a "{storyTitle}" honlapról elérte a {count} {milestone}címet. Csak így tovább a nagyszerű munkát!',
+    'email.story.betaRevision.subject': 'Új béta felülvizsgálat elérhető: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} közzétette a "{chapterTitle}" új béta felülvizsgálatát a "{storyTitle}" -ről. Visszajelzéseiteket nagyra értékelnénk!',
+    'email.story.newChapter.subject': 'Új fejezet elérhető: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} a "{storyTitle}" új fejezetét tette közzé: "{chapterTitle}". Kellemes olvasást!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Új történet az univerzumban: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} egy új történetet adott hozzá "{storyTitle}" egy általad követett univerzumhoz. Fedezz fel új kalandokat!',
+    'email.universe.collaboratorChange.subject': 'Univerzum együttműködés frissítés',
+    'email.universe.collaboratorChange.body': 'Változás történt az Ön által érintett univerzum együttműködési csapatában.',
+    'email.universe.update.subject': 'Univerzum frissítve',
+    'email.universe.update.body': 'Egy általad követett univerzum új tartalommal frissült.',
+    'email.universe.comment.subject': 'Új megjegyzés az univerzumról',
+    'email.universe.comment.body': '{commenterName} kommentált egy univerzumot, amit követsz: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Új blogbejegyzés: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} új blogbejegyzést tett közzé "{postTitle}" egy olyan blogon, amelyet követ.',
+    'email.blog.comment.subject': 'Új megjegyzés a blogbejegyzéshez: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} kommentálta a blogbejegyzést "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blog frissítve',
+    'email.blog.update.body': 'Az Ön által követett blogot frissítették.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Új megjegyzés a "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} commented on "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Válasz a megjegyzésére',
+    'email.comment.reply.body': '{replierName} válaszolt a "{contentTitle}" megjegyzésére: "{replyText}"',
+    'email.comment.like.subject': 'A megjegyzésed tetszett',
+    'email.comment.like.body': '{likerName} tetszett a megjegyzésed. Tartsa elkötelezettségét!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Új megjegyzés a rajongói művészethez: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} hozzászólás a "{contentTitle}" című rajongói művedhez: "{commentText}"',
+    'email.comment.event.subject': 'Új megjegyzés az eseményhez: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} hozzászólt az eseményhez "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Új megjegyzés a felülvizsgálathoz',
+    'email.comment.revision.body': '{commenterName} kommentálta az átdolgozását: "{commentText}"',
+    'email.comment.feedback.subject': 'Új megjegyzés a visszajelzésekhez',
+    'email.comment.feedback.body': '{commenterName} kommentálta az Ön visszajelzési kérdését: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Üdvözöljük az Irodalmi Univerzumban!'
 };
