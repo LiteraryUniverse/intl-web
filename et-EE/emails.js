@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Uus teos autorilt, keda te jälgite',
     'email.notifications.followedNewWork.title': '{authorName} avaldas uue {workType}',
     'email.notifications.followedNewWork.details': 'Pealkiri: {title}',
-    'email.notifications.followedNewWork.cta': 'Vaata'
+    'email.notifications.followedNewWork.cta': 'Vaata',
+    // Story notification emails
+    'email.story.newComment.subject': 'Uus kommentaar teemal "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} jättis kommentaari oma loole "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Uus beeta tagasiside "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} andis beeta-tagasiside dokumendile "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Uus meeskonnaliige "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} on võtnud vastu teie kutse teha koostööd "{storyTitle}" kui {role}.',
+    'email.story.milestone.subject': 'Palju õnne! Saavutatud verstapost "{storyTitle}"',
+    'email.story.milestone.body': 'Suurepärane uudis! Teie peatükk "{chapterTitle}" alates "{storyTitle}" on jõudnud {count} {milestone}. Jätkake suurepärast tööd!',
+    'email.story.betaRevision.subject': 'Uus beetaversioon on saadaval: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} on avaldanud uue beetaversiooni "{chapterTitle}" alates "{storyTitle}". Teie tagasiside oleks väga teretulnud!',
+    'email.story.newChapter.subject': 'Uus peatükk saadaval: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} on avaldanud uue peatüki "{storyTitle}": "{chapterTitle}". Head lugemist!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Uus lugu universumis: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} lisasid uue loo "{storyTitle}" universumisse, mida jälgite. Avasta uusi seiklusi!',
+    'email.universe.collaboratorChange.subject': 'Universumi koostöö ajakohastatud versioon',
+    'email.universe.collaboratorChange.body': 'Teiega seotud universumi koostöömeeskonnas on toimunud muutus.',
+    'email.universe.update.subject': 'Universum uuendatud',
+    'email.universe.update.body': 'Universum, mida jälgite, on uuendatud uue sisuga.',
+    'email.universe.comment.subject': 'Uus kommentaar universumi kohta',
+    'email.universe.comment.body': '{commenterName} kommenteerisite universumit, mida jälgite: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Uus blogipostitus: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} avaldas uue blogipostituse "{postTitle}" blogis, mida jälgite.',
+    'email.blog.comment.subject': 'Uus kommentaar blogipostituse kohta: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} kommenteeris blogipostitust "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blogi uuendatud',
+    'email.blog.update.body': 'Blogi, mida te jälgite, on uuendatud.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Uus kommentaar teemal "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} kommenteeris "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Vastus teie kommentaarile',
+    'email.comment.reply.body': '{replierName} vastas teie kommentaarile "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Teie kommentaar meeldis',
+    'email.comment.like.body': '{likerName} meeldis teie kommentaar. Jätka kaasamist!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Uus kommentaar fännikunsti kohta: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} kommenteeris sinu fännikunsti "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Uus kommentaar sündmusele: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} kommenteeris üritust "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Uus kommentaar läbivaatamise kohta',
+    'email.comment.revision.body': '{commenterName} kommenteeris teie ülevaatust: "{commentText}"',
+    'email.comment.feedback.subject': 'Uus kommentaar tagasiside kohta',
+    'email.comment.feedback.body': '{commenterName} kommenteeris teie tagasiside küsimust: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Tere tulemast Kirjandusuniversumisse!'
 };
