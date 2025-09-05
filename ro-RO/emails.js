@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Lucrare nouă de la un autor pe care îl urmăriți',
     'email.notifications.followedNewWork.title': '{authorName} a publicat un nou {workType}',
     'email.notifications.followedNewWork.details': 'Titlu: {title}',
-    'email.notifications.followedNewWork.cta': 'Vizualizare'
+    'email.notifications.followedNewWork.cta': 'Vizualizare',
+    // Story notification emails
+    'email.story.newComment.subject': 'Comentariu nou pe "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} a lăsat un comentariu cu privire la povestea ta "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Noul feedback beta pe "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} a furnizat feedback beta pentru "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Un nou membru al echipei pentru "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} a acceptat invitația dumneavoastră de a colabora la "{storyTitle}" în calitate de {role}.',
+    'email.story.milestone.subject': 'Felicitări! Reper atins pe "{storyTitle}"',
+    'email.story.milestone.body': 'Vești bune! Capitolul tău "{chapterTitle}" din "{storyTitle}" a ajuns la {count} {milestone}. Continuați munca minunată!',
+    'email.story.betaRevision.subject': 'Noua revizuire beta disponibilă: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} a publicat o nouă revizuire beta a "{chapterTitle}" din "{storyTitle}". Feedback-ul dvs. ar fi foarte apreciat!',
+    'email.story.newChapter.subject': 'Nou capitol disponibil: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} a publicat un nou capitol din "{storyTitle}": "{chapterTitle}". Lectură plăcută!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Poveste nouă în univers: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} a adăugat o poveste nouă "{storyTitle}" la un univers pe care îl urmărești. Descoperă noi aventuri!',
+    'email.universe.collaboratorChange.subject': 'Actualizarea colaborării Univers',
+    'email.universe.collaboratorChange.body': 'A avut loc o schimbare în echipa de colaborare pentru un univers în care sunteți implicat.',
+    'email.universe.update.subject': 'Univers actualizat',
+    'email.universe.update.body': 'Un univers pe care îl urmărești a fost actualizat cu conținut nou.',
+    'email.universe.comment.subject': 'Nou comentariu privind universul',
+    'email.universe.comment.body': '{commenterName} ați comentat un univers pe care îl urmăriți: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Post nou pe blog: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} a publicat o nouă postare pe blog "{postTitle}" pe un blog pe care îl urmăriți.',
+    'email.blog.comment.subject': 'Comentariu nou pe blog post: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} a comentat pe blog post "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blog actualizat',
+    'email.blog.update.body': 'Un blog pe care îl urmăriți a fost actualizat.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Comentariu nou pe "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} a comentat pe "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Răspundeți la comentariul dvs.',
+    'email.comment.reply.body': '{replierName} a răspuns comentariului dvs. la "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Comentariul tău a fost apreciat',
+    'email.comment.like.body': '{likerName} mi-a plăcut comentariul tău. Continuă să te implici!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Un nou comentariu despre fan art: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} a comentat pe fan art dvs. "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Comentariu nou privind evenimentul: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} a comentat evenimentul "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Comentariu nou privind revizuirea',
+    'email.comment.revision.body': '{commenterName} a comentat revizuirea dumneavoastră: "{commentText}"',
+    'email.comment.feedback.subject': 'Comentariu nou privind feedback-ul',
+    'email.comment.feedback.body': '{commenterName} a comentat pe problema dvs. de feedback: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Bine ați venit la Literary Universe!'
 };
