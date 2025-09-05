@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Takip ettiğiniz bir yazarın yeni eseri',
     'email.notifications.followedNewWork.title': '{authorName} yeni bir {workType}yayınladı',
     'email.notifications.followedNewWork.details': 'Başlık: {title}',
-    'email.notifications.followedNewWork.cta': 'Görünüm'
+    'email.notifications.followedNewWork.cta': 'Görünüm',
+    // Story notification emails
+    'email.story.newComment.subject': '"{storyTitle}" hakkında yeni yorum',
+    'email.story.newComment.body': '{commenterName} "{storyTitle}" hikayenize bir yorum bıraktı: {commentText}',
+    'email.story.betaComment.subject': '"{storyTitle}" hakkında yeni beta geri bildirimi',
+    'email.story.betaComment.body': '{commenterName} "{storyTitle}" hakkında beta geri bildirimi sağladı: {commentText}',
+    'email.story.collaboratorAccepted.subject': '"{storyTitle}" için yeni ekip üyesi',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} "{storyTitle}" üzerinde işbirliği yapma davetinizi {role}olarak kabul etti.',
+    'email.story.milestone.subject': 'Tebrikler! "{storyTitle}" adresinde kilometre taşına ulaşıldı',
+    'email.story.milestone.body': 'Harika bir haber! "{storyTitle}" adresindeki "{chapterTitle}" bölümünüz {count} {milestone}adresine ulaştı. Harika çalışmaya devam edin!',
+    'email.story.betaRevision.subject': 'Yeni beta revizyonu mevcut: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} "{storyTitle}" adresinden "{chapterTitle}" adresinin yeni bir beta revizyonunu yayınladı. Geri bildirimleriniz çok takdir edilecektir!',
+    'email.story.newChapter.subject': 'Yeni bölüm mevcut: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} "{storyTitle}" \'un yeni bir bölümünü yayınladı: "{chapterTitle}". İyi okumalar!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Evrende yeni bir hikaye: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} takip ettiğiniz bir evrene yeni bir hikaye "{storyTitle}" ekledi. Yeni maceraları keşfedin!',
+    'email.universe.collaboratorChange.subject': 'Evren işbirliği güncellemesi',
+    'email.universe.collaboratorChange.body': 'Dahil olduğunuz bir evren için işbirliği ekibinde bir değişiklik oldu.',
+    'email.universe.update.subject': 'Evren güncellendi',
+    'email.universe.update.body': 'Takip ettiğiniz bir evren yeni içerikle güncellendi.',
+    'email.universe.comment.subject': 'Evren hakkında yeni yorum',
+    'email.universe.comment.body': '{commenterName} Takip ettiğiniz bir evren hakkında yorum yaptınız: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Yeni blog yazısı: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} takip ettiğiniz bir blogda yeni bir blog yazısı "{postTitle}" yayınladı.',
+    'email.blog.comment.subject': 'Blog gönderisine yeni yorum: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} "{postTitle}" blog yazısı hakkında yorum yaptı: "{commentText}"',
+    'email.blog.update.subject': 'Blog güncellendi',
+    'email.blog.update.body': 'Takip ettiğiniz bir blog güncellendi.',
+    // General comment notification emails
+    'email.comment.general.subject': '"{contentTitle}" hakkında yeni yorum',
+    'email.comment.general.body': '{commenterName} "{contentTitle}": "{commentText}" hakkında yorum yaptı',
+    'email.comment.reply.subject': 'Yorumunuza cevap verin',
+    'email.comment.reply.body': '{replierName} "{contentTitle}" hakkındaki yorumunuza yanıt: "{replyText}"',
+    'email.comment.like.subject': 'Yorumunuz beğenildi',
+    'email.comment.like.body': '{likerName} yorumunuzu beğendim. İlgilenmeye devam edin!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Hayran sanatı hakkında yeni yorum: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} "{contentTitle}" hayran sanatınız hakkında yorum yaptı: "{commentText}"',
+    'email.comment.event.subject': 'Etkinlik hakkında yeni yorum: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} "{contentTitle}" etkinliği hakkında yorum yaptı: "{commentText}"',
+    'email.comment.revision.subject': 'Revizyon hakkında yeni yorum',
+    'email.comment.revision.body': '{commenterName} revizyonunuz hakkında yorum yaptı: "{commentText}"',
+    'email.comment.feedback.subject': 'Geri bildirim hakkında yeni yorum',
+    'email.comment.feedback.body': '{commenterName} geri bildirim sorununuz hakkında yorum yaptı: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Edebiyat Evrenine hoş geldiniz!'
 };
