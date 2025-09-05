@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Nieuw werk van een auteur die u volgt',
     'email.notifications.followedNewWork.title': '{authorName} een nieuwe {workType}gepubliceerd.',
     'email.notifications.followedNewWork.details': 'Titel: {title}',
-    'email.notifications.followedNewWork.cta': 'Bekijk'
+    'email.notifications.followedNewWork.cta': 'Bekijk',
+    // Story notification emails
+    'email.story.newComment.subject': 'Nieuwe reactie op "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} heeft een reactie achtergelaten op uw verhaal "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Nieuwe bèta feedback op "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} gaf bèta feedback op "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Nieuw teamlid voor "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} heeft uw uitnodiging om mee te werken aan "{storyTitle}" geaccepteerd als {role}.',
+    'email.story.milestone.subject': 'Gefeliciteerd! Mijlpaal bereikt op "{storyTitle}"',
+    'email.story.milestone.body': 'Geweldig nieuws! Uw hoofdstuk "{chapterTitle}" van "{storyTitle}" heeft {count} {milestone}bereikt. Ga zo door!',
+    'email.story.betaRevision.subject': 'Nieuwe bèta-revisie beschikbaar: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} heeft een nieuwe bèta-revisie van "{chapterTitle}" uit "{storyTitle}" gepubliceerd. Uw feedback wordt zeer op prijs gesteld!',
+    'email.story.newChapter.subject': 'Nieuw hoofdstuk beschikbaar: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} heeft een nieuw hoofdstuk van "{storyTitle}" gepubliceerd: "{chapterTitle}". Veel leesplezier!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Nieuw verhaal in universum: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} een nieuw verhaal "{storyTitle}" toegevoegd aan een universum dat u volgt. Ontdek nieuwe avonturen!',
+    'email.universe.collaboratorChange.subject': 'Update samenwerking universum',
+    'email.universe.collaboratorChange.body': 'Er heeft een verandering plaatsgevonden in het samenwerkingsteam voor een universum waar u bij betrokken bent.',
+    'email.universe.update.subject': 'Universum bijgewerkt',
+    'email.universe.update.body': 'Een universum dat u volgt is bijgewerkt met nieuwe inhoud.',
+    'email.universe.comment.subject': 'Nieuw commentaar op universum',
+    'email.universe.comment.body': '{commenterName} commentaar op een universum dat je volgt: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Nieuw blogbericht: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} een nieuw blogbericht "{postTitle}" gepubliceerd op een blog die u volgt.',
+    'email.blog.comment.subject': 'Nieuwe reactie op blogbericht: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} gereageerd op het blogbericht "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blog bijgewerkt',
+    'email.blog.update.body': 'Een blog die u volgt is bijgewerkt.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Nieuwe reactie op "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} gereageerd op "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Uw commentaar beantwoorden',
+    'email.comment.reply.body': '{replierName} antwoordde op uw commentaar op "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Uw commentaar werd leuk gevonden',
+    'email.comment.like.body': '{likerName} vond uw commentaar leuk. Blijf betrokken!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Nieuw commentaar op fan art: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} gereageerd op uw fan art "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Nieuw commentaar op evenement: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} Geef een reactie op het evenement "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Nieuwe opmerking over herziening',
+    'email.comment.revision.body': '{commenterName} gereageerd op uw revisie: "{commentText}"',
+    'email.comment.feedback.subject': 'Nieuw commentaar op feedback',
+    'email.comment.feedback.body': '{commenterName} gereageerd op uw feedbackkwestie: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Welkom bij Literair Universum!'
 };
