@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Un nuovo lavoro di un autore che lei segue',
     'email.notifications.followedNewWork.title': '{authorName} ha pubblicato un nuovo {workType}',
     'email.notifications.followedNewWork.details': 'Titolo: {title}',
-    'email.notifications.followedNewWork.cta': 'Vista'
+    'email.notifications.followedNewWork.cta': 'Vista',
+    // Story notification emails
+    'email.story.newComment.subject': 'Nuovo commento su "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} ha lasciato un commento sulla sua storia "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Un nuovo feedback beta su "{storyTitle}".',
+    'email.story.betaComment.body': '{commenterName} ha fornito un feedback beta su "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Nuovo membro del team per "{storyTitle}".',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} ha accettato il suo invito a collaborare a "{storyTitle}" come {role}.',
+    'email.story.milestone.subject': 'Congratulazioni! Pietra miliare raggiunta su "{storyTitle}".',
+    'email.story.milestone.body': 'Ottime notizie! Il suo capitolo "{chapterTitle}" da "{storyTitle}" ha raggiunto {count} {milestone}. Continui a fare un ottimo lavoro!',
+    'email.story.betaRevision.subject': 'È disponibile una nuova revisione beta: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} ha pubblicato una nuova revisione beta di "{chapterTitle}" da "{storyTitle}". Il suo feedback sarà molto apprezzato!',
+    'email.story.newChapter.subject': 'Nuovo capitolo disponibile: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} ha pubblicato un nuovo capitolo di "{storyTitle}": "{chapterTitle}". Buona lettura!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Nuova storia nell\'universo: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} ha aggiunto una nuova storia "{storyTitle}" a un universo che sta seguendo. Scopra nuove avventure!',
+    'email.universe.collaboratorChange.subject': 'Aggiornamento sulla collaborazione con l\'Universo',
+    'email.universe.collaboratorChange.body': 'C\'è stato un cambiamento nel team di collaborazione per un universo in cui lei è coinvolto.',
+    'email.universe.update.subject': 'Universo aggiornato',
+    'email.universe.update.body': 'Un universo che sta seguendo è stato aggiornato con nuovi contenuti.',
+    'email.universe.comment.subject': 'Nuovo commento sull\'universo',
+    'email.universe.comment.body': '{commenterName} ha commentato un universo che sta seguendo: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Nuovo post sul blog: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} ha pubblicato un nuovo post sul blog "{postTitle}" su un blog che lei segue.',
+    'email.blog.comment.subject': 'Nuovo commento al post del blog: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} ha commentato il post del blog "{postTitle}": "{commentText}".',
+    'email.blog.update.subject': 'Blog aggiornato',
+    'email.blog.update.body': 'Un blog che sta seguendo è stato aggiornato.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Nuovo commento su "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} ha commentato "{contentTitle}": "{commentText}".',
+    'email.comment.reply.subject': 'Rispondi al tuo commento',
+    'email.comment.reply.body': '{replierName} ha risposto al suo commento su "{contentTitle}": "{replyText}".',
+    'email.comment.like.subject': 'Il suo commento è stato apprezzato',
+    'email.comment.like.body': '{likerName} mi è piaciuto il suo commento. Continui a impegnarsi!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Nuovo commento sulla fan art: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} ha commentato la sua fan art "{contentTitle}": "{commentText}".',
+    'email.comment.event.subject': 'Nuovo commento sull\'evento: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} ha commentato l\'evento "{contentTitle}": "{commentText}".',
+    'email.comment.revision.subject': 'Nuovo commento sulla revisione',
+    'email.comment.revision.body': '{commenterName} ha commentato la sua revisione: "{commentText}"',
+    'email.comment.feedback.subject': 'Nuovo commento sul feedback',
+    'email.comment.feedback.body': '{commenterName} ha commentato il suo problema di feedback: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Benvenuto nell\'Universo Letterario!'
 };
