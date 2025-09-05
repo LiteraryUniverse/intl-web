@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'عمل جديد من مؤلف تتابعه',
     'email.notifications.followedNewWork.title': '{authorName} نشر {workType}جديد',
     'email.notifications.followedNewWork.details': 'العنوان: {title}',
-    'email.notifications.followedNewWork.cta': 'عرض'
+    'email.notifications.followedNewWork.cta': 'عرض',
+    // Story notification emails
+    'email.story.newComment.subject': 'تعليق جديد على "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} ترك تعليقًا على قصتك "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'ملاحظات تجريبية جديدة على "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} تقديم ملاحظات تجريبية على "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'عضو جديد في الفريق "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} قبلت دعوتك للتعاون في "{storyTitle}" كـ {role}.',
+    'email.story.milestone.subject': 'تهانينا! تم الوصول إلى معلم بارز على "{storyTitle}"',
+    'email.story.milestone.body': 'أخبار رائعة! لقد وصل فصلك "{chapterTitle}" من "{storyTitle}" إلى {count} {milestone}. استمروا في العمل الرائع!',
+    'email.story.betaRevision.subject': 'مراجعة تجريبية جديدة متاحة "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} قد نشر نسخة تجريبية جديدة من "{chapterTitle}" من "{storyTitle}". ستكون ملاحظاتك محل تقدير كبير!',
+    'email.story.newChapter.subject': 'فصل جديد متاح "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} نشرت فصلًا جديدًا من "{storyTitle}": "{chapterTitle}". قراءة سعيدة!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'قصة جديدة في الكون "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} إضافة قصة جديدة "{storyTitle}" إلى عالم تتابعه. اكتشف مغامرات جديدة!',
+    'email.universe.collaboratorChange.subject': 'تحديثات التعاون العالمي',
+    'email.universe.collaboratorChange.body': 'لقد حدث تغيير في فريق التعاون للكون الذي تشارك فيه.',
+    'email.universe.update.subject': 'تم تحديث الكون',
+    'email.universe.update.body': 'تم تحديث الكون الذي تتابعه بمحتوى جديد.',
+    'email.universe.comment.subject': 'تعليق جديد على الكون',
+    'email.universe.comment.body': '{commenterName} علّق على عالم تتابعه "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'منشور جديد في المدونة "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} نشر تدوينة جديدة "{postTitle}" على مدونة تتابعها.',
+    'email.blog.comment.subject': 'تعليق جديد على منشور المدونة "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} تعليقًا على منشور المدونة "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'تحديث المدونة',
+    'email.blog.update.body': 'تم تحديث المدونة التي تتابعها.',
+    // General comment notification emails
+    'email.comment.general.subject': 'تعليق جديد على "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} علّق على "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'الرد على تعليقك',
+    'email.comment.reply.body': '{replierName} ردًا على تعليقك على "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'تم الإعجاب بتعليقك',
+    'email.comment.like.body': '{likerName} أعجبني تعليقك استمر في المشاركة!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'تعليق جديد على فن المعجبين "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} علق على فن المعجبين الخاص بك "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'تعليق جديد على الحدث "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} علق على الحدث "{contentTitle}": "{commentText}": " "',
+    'email.comment.revision.subject': 'تعليق جديد على المراجعة',
+    'email.comment.revision.body': '{commenterName} علّق على مراجعتك "{commentText}"',
+    'email.comment.feedback.subject': 'تعليق جديد على الملاحظات',
+    'email.comment.feedback.body': '{commenterName} علّق على مشكلة ملاحظاتك "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'مرحباً بك في عالم الأدب!'
 };
