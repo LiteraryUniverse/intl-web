@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Нова робота від автора, за яким ви стежите',
     'email.notifications.followedNewWork.title': '{authorName} опублікував новий {workType}',
     'email.notifications.followedNewWork.details': 'Назва: {title}',
-    'email.notifications.followedNewWork.cta': 'Вигляд'
+    'email.notifications.followedNewWork.cta': 'Вигляд',
+    // Story notification emails
+    'email.story.newComment.subject': 'Новий коментар на "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} залишив коментар до вашої історії "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Нові бета-відгуки на "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} надали бета-відгуки на "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Новий член команди "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} прийняв ваше запрошення до співпраці на "{storyTitle}" як {role}.',
+    'email.story.milestone.subject': 'Вітаємо! Досягнуто віху на сайті "{storyTitle}"',
+    'email.story.milestone.body': 'Чудові новини! Ваш розділ "{chapterTitle}" з "{storyTitle}" досяг {count} {milestone}. Продовжуйте працювати!',
+    'email.story.betaRevision.subject': 'Доступна нова бета-версія: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} опублікувала нову бета-версію "{chapterTitle}" з "{storyTitle}". Будемо вдячні за ваші відгуки!',
+    'email.story.newChapter.subject': 'Доступна нова глава: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} опублікував нову главу "{storyTitle}": "{chapterTitle}". Приємного читання!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Нова історія у всесвіті: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} додали нову історію "{storyTitle}" до всесвіту, за яким ви стежите. Відкрийте для себе нові пригоди!',
+    'email.universe.collaboratorChange.subject': 'Оновлення співпраці зі Всесвітом',
+    'email.universe.collaboratorChange.body': 'Відбулися зміни в команді, яка займається розробкою всесвіту, в якому ви працюєте.',
+    'email.universe.update.subject': 'Оновлення Всесвіту',
+    'email.universe.update.body': 'Всесвіт, за яким ви стежите, було оновлено новим контентом.',
+    'email.universe.comment.subject': 'Новий коментар про всесвіт',
+    'email.universe.comment.body': '{commenterName} прокоментував всесвіт, за яким ви стежите: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Нова публікація в блозі: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} опублікував новий запис "{postTitle}" у блозі, за яким ви стежите.',
+    'email.blog.comment.subject': 'Новий коментар до публікації в блозі: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} прокоментували публікацію в блозі "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Оновлений блог',
+    'email.blog.update.body': 'Блог, за яким ви стежите, оновлено.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Новий коментар на "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} прокоментував "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Відповісти на ваш коментар',
+    'email.comment.reply.body': '{replierName} відповів на ваш коментар на "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Ваш коментар сподобався',
+    'email.comment.like.body': '{likerName} сподобався ваш коментар. Продовжуйте брати участь!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Новий коментар до фан-арту: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} прокоментував ваш фан-арт "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Новий коментар до події: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} прокоментували подію "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Новий коментар щодо перегляду',
+    'email.comment.revision.body': '{commenterName} прокоментували вашу правку: "{commentText}"',
+    'email.comment.feedback.subject': 'Новий коментар до зворотного зв\'язку',
+    'email.comment.feedback.body': '{commenterName} прокоментували вашу проблему зі зворотним зв\'язком: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Ласкаво просимо до Літературного Всесвіту!'
 };
