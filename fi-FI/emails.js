@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Uusi teos seuraamaltasi kirjailijalta',
     'email.notifications.followedNewWork.title': '{authorName} julkaisi uuden {workType}',
     'email.notifications.followedNewWork.details': 'Nimike: {title}',
-    'email.notifications.followedNewWork.cta': 'Näytä'
+    'email.notifications.followedNewWork.cta': 'Näytä',
+    // Story notification emails
+    'email.story.newComment.subject': 'Uusi kommentti aiheesta "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} jätti kommentin tarinaan "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Uusi beta-palaute "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} antoi beetapalautetta tuotteesta "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Uusi tiimin jäsen "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} on hyväksynyt kutsunne tehdä yhteistyötä "{storyTitle}" {role}.',
+    'email.story.milestone.subject': 'Onnittelut! Saavutettu virstanpylväs "{storyTitle}"',
+    'email.story.milestone.body': 'Hienoja uutisia! Luku "{chapterTitle}" alkaen "{storyTitle}" on saavuttanut {count} {milestone}. Jatkakaa hienoa työtä!',
+    'email.story.betaRevision.subject': 'Uusi beta-versio saatavilla: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} on julkaissut uuden beta-version "{chapterTitle}" alkaen "{storyTitle}". Palautteesi olisi erittäin tervetullutta!',
+    'email.story.newChapter.subject': 'Uusi luku saatavilla: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} on julkaissut uuden luvun "{storyTitle}": "{chapterTitle}". Hyvää lukemista!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Uusi tarina universumissa: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} lisäsi uuden tarinan "{storyTitle}" universumiin, jota seuraat. Tutustu uusiin seikkailuihin!',
+    'email.universe.collaboratorChange.subject': 'Universum-yhteistyön päivitys',
+    'email.universe.collaboratorChange.body': 'Yhteistyöryhmässä on tapahtunut muutos universumissa, jossa olet mukana.',
+    'email.universe.update.subject': 'Universum päivitetty',
+    'email.universe.update.body': 'Seuraamasi universumi on päivitetty uudella sisällöllä.',
+    'email.universe.comment.subject': 'Uusi kommentti maailmankaikkeudesta',
+    'email.universe.comment.body': '{commenterName} kommentoi universumia, jota seuraat: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Uusi blogikirjoitus: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} julkaisi uuden blogikirjoituksen "{postTitle}" seuraamassasi blogissa.',
+    'email.blog.comment.subject': 'Uusi kommentti blogikirjoitukseen: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} kommentoi blogikirjoitusta "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Blogi päivitetty',
+    'email.blog.update.body': 'Seuraamasi blogi on päivitetty.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Uusi kommentti aiheesta "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} kommentoi artikkelia "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Vastaa kommenttiisi',
+    'email.comment.reply.body': '{replierName} vastasi kommenttiisi aiheeseen "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Kommenttisi pidettiin',
+    'email.comment.like.body': '{likerName} pidin kommentistasi. Jatka sitoutumista!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Uusi kommentti fanitaiteesta: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} kommentoi fanitaidettasi "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Uusi kommentti tapahtumasta: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} kommentoi tapahtumaa "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Uusi huomautus tarkistuksesta',
+    'email.comment.revision.body': '{commenterName} kommentoi tarkistustasi: "{commentText}"',
+    'email.comment.feedback.subject': 'Uusi kommentti palautteesta',
+    'email.comment.feedback.body': '{commenterName} kommentoi palauteasiaa: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Tervetuloa kirjallisuuden universumiin!'
 };
