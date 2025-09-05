@@ -138,5 +138,52 @@ export default {
     'email.notifications.followedNewWork.subject': 'Νέο έργο από έναν συγγραφέα που ακολουθείτε',
     'email.notifications.followedNewWork.title': '{authorName} δημοσίευσε ένα νέο {workType}',
     'email.notifications.followedNewWork.details': 'Τίτλος: {title}',
-    'email.notifications.followedNewWork.cta': 'Προβολή'
+    'email.notifications.followedNewWork.cta': 'Προβολή',
+    // Story notification emails
+    'email.story.newComment.subject': 'Νέο σχόλιο στο "{storyTitle}"',
+    'email.story.newComment.body': '{commenterName} άφησε ένα σχόλιο στην ιστορία σας "{storyTitle}": {commentText}',
+    'email.story.betaComment.subject': 'Νέα ανατροφοδότηση beta για το "{storyTitle}"',
+    'email.story.betaComment.body': '{commenterName} έδωσε πληροφορίες για το "{storyTitle}": {commentText}',
+    'email.story.collaboratorAccepted.subject': 'Νέο μέλος της ομάδας για το "{storyTitle}"',
+    'email.story.collaboratorAccepted.body': '{collaboratorName} αποδέχτηκε την πρόσκλησή σας να συνεργαστεί στο "{storyTitle}" ως {role}.',
+    'email.story.milestone.subject': 'Συγχαρητήρια! Επίτευξη ορόσημου στο "{storyTitle}"',
+    'email.story.milestone.body': 'Υπέροχα νέα! Το κεφάλαιο "{chapterTitle}" από "{storyTitle}" έφτασε στο {count} {milestone}. Συνεχίστε τη σπουδαία δουλειά!',
+    'email.story.betaRevision.subject': 'Νέα beta αναθεώρηση διαθέσιμη: "{chapterTitle}"',
+    'email.story.betaRevision.body': '{authorName} δημοσίευσε μια νέα beta αναθεώρηση του "{chapterTitle}" από το "{storyTitle}". Τα σχόλιά σας θα εκτιμηθούν ιδιαίτερα!',
+    'email.story.newChapter.subject': 'Νέο κεφάλαιο διαθέσιμο: "{storyTitle}"',
+    'email.story.newChapter.body': '{authorName} δημοσίευσε ένα νέο κεφάλαιο του "{storyTitle}": "{chapterTitle}". Καλή ανάγνωση!',
+    // Universe notification emails
+    'email.universe.newStory.subject': 'Νέα ιστορία στο σύμπαν: "{storyTitle}"',
+    'email.universe.newStory.body': '{authorName} πρόσθεσε μια νέα ιστορία "{storyTitle}" σε ένα σύμπαν που ακολουθείς. Ανακαλύψτε νέες περιπέτειες!',
+    'email.universe.collaboratorChange.subject': 'Ενημέρωση για τη συνεργασία στο σύμπαν',
+    'email.universe.collaboratorChange.body': 'Υπήρξε αλλαγή στην ομάδα συνεργασίας για ένα σύμπαν στο οποίο συμμετέχετε.',
+    'email.universe.update.subject': 'Σύμπαν ενημερωμένο',
+    'email.universe.update.body': 'Ένα σύμπαν που ακολουθείτε έχει ενημερωθεί με νέο περιεχόμενο.',
+    'email.universe.comment.subject': 'Νέο σχόλιο για το σύμπαν',
+    'email.universe.comment.body': '{commenterName} σχολίασε ένα σύμπαν που ακολουθείτε: "{commentText}"',
+    // Blog notification emails
+    'email.blog.newPost.subject': 'Νέα ανάρτηση στο ιστολόγιο: "{postTitle}"',
+    'email.blog.newPost.body': '{authorName} δημοσίευσε μια νέα ανάρτηση στο ιστολόγιο "{postTitle}" σε ένα ιστολόγιο που ακολουθείτε.',
+    'email.blog.comment.subject': 'Νέο σχόλιο σε ανάρτηση στο blog: "{postTitle}"',
+    'email.blog.comment.body': '{commenterName} σχολίασε την ανάρτηση στο blog "{postTitle}": "{commentText}"',
+    'email.blog.update.subject': 'Ενημέρωση ιστολογίου',
+    'email.blog.update.body': 'Ένα ιστολόγιο που ακολουθείτε έχει ενημερωθεί.',
+    // General comment notification emails
+    'email.comment.general.subject': 'Νέο σχόλιο στο "{contentTitle}"',
+    'email.comment.general.body': '{commenterName} commented on "{contentTitle}": "{commentText}"',
+    'email.comment.reply.subject': 'Απάντηση στο σχόλιό σας',
+    'email.comment.reply.body': '{replierName} απάντησε στο σχόλιό σας στο "{contentTitle}": "{replyText}"',
+    'email.comment.like.subject': 'Το σχόλιό σας άρεσε',
+    'email.comment.like.body': '{likerName} μου άρεσε το σχόλιό σας. Συνεχίστε να ασχολείστε!',
+    // Content-specific comment notification emails
+    'email.comment.fanArt.subject': 'Νέο σχόλιο για την τέχνη των θαυμαστών: "{contentTitle}"',
+    'email.comment.fanArt.body': '{commenterName} σχολίασε το fan art σας "{contentTitle}": "{commentText}"',
+    'email.comment.event.subject': 'Νέο σχόλιο για το γεγονός: "{contentTitle}"',
+    'email.comment.event.body': '{commenterName} σχολίασε την εκδήλωση "{contentTitle}": "{commentText}"',
+    'email.comment.revision.subject': 'Νέο σχόλιο σχετικά με την αναθεώρηση',
+    'email.comment.revision.body': '{commenterName} σχολίασε την αναθεώρησή σας: "{commentText}"',
+    'email.comment.feedback.subject': 'Νέο σχόλιο σχετικά με την ανατροφοδότηση',
+    'email.comment.feedback.body': '{commenterName} σχολίασε το θέμα της ανατροφοδότησής σας: "{commentText}"',
+    // Welcome email
+    'email.welcome.subject': 'Καλώς ήρθατε στο Λογοτεχνικό Σύμπαν!'
 };
