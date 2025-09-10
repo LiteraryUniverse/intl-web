@@ -20,7 +20,7 @@ export default {
     one {Hay una publicación}
     other {Hay # publicaciones}
   } en este blog.`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Escribir una nueva publicación',
     'blog.post.update': 'Editando {title}',
     'blog.post.text': 'Publicar texto',
     'common.slug': 'Dirección SEO friendly',
