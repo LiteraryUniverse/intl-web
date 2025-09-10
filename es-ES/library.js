@@ -6,7 +6,7 @@ export default {
     'library.universes': 'Universo que sigues',
     'bookmark.continueReading': 'Continuar leyendo',
     'bookmark.statusSummary': 'Has leído un {readPercent, number, ::percent} de la historia.',
-    'library.search.prompt': 'Search your library to find content',
-    'library.yourLibrary': 'Your Library',
-    'library.search': 'Search Your Library'
+    'library.search.prompt': 'Busca en tu biblioteca para encontrar contenidos',
+    'library.yourLibrary': 'Tu biblioteca',
+    'library.search': 'Buscar en tu biblioteca'
 };
