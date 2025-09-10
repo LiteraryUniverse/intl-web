@@ -14,7 +14,7 @@ export default {
   } configuraciones`,
     'blog.description': 'Introducción del blog',
     'blog.theme': 'Tema',
-    'blog.theme.info': 'Ajustando el tema, podrá cambiar el aspecto de la página. Esta función no está lista en este momento.',
+    'blog.theme.info': 'Ajustando el tema, podrás cambiar el aspecto de la página. Esta función no está lista en este momento.',
     'blog.posts.total': `{total, plural,
     zero {No hay publicaciones}
     one {Hay una publicación}
