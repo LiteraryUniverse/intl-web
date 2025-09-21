@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Hallo {username},',
     'email.welcome': 'Welkom by die Literêre Heelal!',
     'email.signature': 'Opreg,<br />Literêre Heelal span',
+    'email.footer.settingsHtml': 'You can change your email settings in <a href="{link}">your account settings</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Welkom aan boord',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
