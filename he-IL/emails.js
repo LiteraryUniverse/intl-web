@@ -34,20 +34,20 @@ export default {
     storyteller {סופר}
     other {}
   } לשלב הבא במשך {days} ימים.\n\nתהנה,\nצוות היקום הספרותי`,
-    'email.adminUpgrade.messageHtml': `שדרגנו את החשבון שלך ל {plan, select,
-    explorer {חוקר}
-    adventurer {הרפתקן}
-    storyteller {סופר}
+    'email.adminUpgrade.messageHtml': `שדרגנו את חשבונך לדרגת {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } לשלב הבא במשך {days} ימים. תהנה!`,
+  } למשך {days, number} הימים הבאים. תהנה!`,
     'email.verification': 'אימות דואר אלקטרוני',
     'email.verifying': 'מאמתים את הדואר האלקטרוני שלך. זה ייקח רק רגע...',
     'email.verified': 'חדשות טובות! הדואר האלקטרוני שלך אומת בהצלחה!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'מזל טוב! הגעת לרמת מחבר {level} ב-Literary Universe!',
-    'theWay.levelUp.emailTitle': 'מזל טוב! הגעת לרמת מחבר {level}!',
+    'theWay.levelUp.emailSubject': 'מזל טוב! הגעת לרמת מחבר {level, number} ב-Literary Universe!',
+    'theWay.levelUp.emailTitle': 'מזל טוב! הגעת לרמת מחבר {level, number}!',
     'theWay.levelUp.emailIntro': 'המסירות שלך למלאכת הכתיבה זכתה לתגמול!',
-    'theWay.levelUp.emailGenre': 'השגת את הרמה {level} בז\'אנר {genre}.',
+    'theWay.levelUp.emailGenre': 'השגת את הרמה {level, number} בז\'אנר {genre} .',
     'theWay.levelUp.emailContinue': 'המשך במסעך ופתח הישגים נוספים ב-The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'הצג את לוח המחוונים שלך',
     // Notifications - General content comment
