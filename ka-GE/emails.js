@@ -34,20 +34,20 @@ export default {
     storyteller {მკრავალი}
     other {}
   } ტიერზე შემდეგი {days} დღისთვის.\n\nსიახლეები,\nLiterary Universe გუნდი`,
-    'email.adminUpgrade.messageHtml': `გილოცავთ! თქვენი ანგარიში გადაიხადა {plan, select,
-    explorer {გამომყევი}
-    adventurer {მცგრადი}
-    storyteller {მკრავალი}
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } ტიერზე შემდეგი {days} დღისთვის. სიახლეები მიიღებთ!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'ელ-ფოსტის ვერიფიკაცია',
     'email.verifying': 'გთხოვთ, დაადასტუროთ თქვენი ელ-ფოსტა. ეს მოხდება მხოლოდ რამდენიმე წუთში...',
     'email.verified': 'სასაცილოდ! თქვენი ელ-ფოსტა დადასტურდა!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level} on Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level}!',
+    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
     'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
-    'theWay.levelUp.emailGenre': 'You have achieved level {level} in the {genre} genre.',
+    'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
     'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'View Your Dashboard',
     // Notifications - General content comment
