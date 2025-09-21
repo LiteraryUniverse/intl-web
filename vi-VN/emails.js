@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Xin chào {username},',
     'email.welcome': 'Chào mừng bạn đến Vũ trụ Văn học!',
     'email.signature': 'Trân trọng,<br />Nhóm Vũ trụ Văn học',
+    'email.footer.settingsHtml': 'Bạn có thể thay đổi cài đặt email của mình trong <a href="{link}">phần cài đặt tài khoản</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Chào mừng bạn đã gia nhập',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
