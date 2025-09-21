@@ -34,20 +34,20 @@ export default {
     storyteller {Αφηγητής}
     other {~}
   } βαθμίδα για τις επόμενες {days} ημέρες.\n\nΚαλή διασκέδαση,\nομάδα του λογοτεχνικού σύμπαντος`,
-    'email.adminUpgrade.messageHtml': `Αναβαθμίσαμε τον λογαριασμό σας σε {plan, select,
+    'email.adminUpgrade.messageHtml': `Αναβαθμίσαμε το λογαριασμό σας σε {plan, select,
     explorer {Εξερευνητής}
-    adventurer {Περιπλανώμενος}
-    storyteller {Διηγητής}
-    other {}
-  } επίπεδο για τις επόμενες {days} ημέρες. Απολαύστε!`,
+    adventurer {Περιηγητής}
+    storyteller {Αφηγητής}
+    other {~}
+  } βαθμίδα για τις επόμενες {days, number} ημέρες. Απολαύστε το!`,
     'email.verification': 'Επαλήθευση ηλεκτρονικού ταχυδρομείου',
     'email.verifying': 'Γίνεται επαλήθευση του ηλεκτρονικού ταχυδρομείου σας. Αυτό θα πάρει μόνο ένα λεπτό...',
     'email.verified': 'Εξαιρετικά νέα! Το ηλεκτρονικό ταχυδρομείο σας έχει επαληθευτεί!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Συγχαρητήρια! Έχετε φτάσει στο Επίπεδο Συγγραφέα {level} στο Λογοτεχνικό Σύμπαν!',
-    'theWay.levelUp.emailTitle': 'Συγχαρητήρια! Έχετε φτάσει στο Επίπεδο Συγγραφέα {level}!',
+    'theWay.levelUp.emailSubject': 'Συγχαρητήρια! Έχετε φτάσει στο Επίπεδο Συγγραφέα {level, number} στο Λογοτεχνικό Σύμπαν!',
+    'theWay.levelUp.emailTitle': 'Συγχαρητήρια! Έχετε φτάσει στο Επίπεδο Συγγραφέα {level, number}!',
     'theWay.levelUp.emailIntro': 'Η αφοσίωσή σας στη συγγραφική τέχνη ανταμείφθηκε!',
-    'theWay.levelUp.emailGenre': 'Έχετε επιτύχει το επίπεδο {level} στο είδος {genre} .',
+    'theWay.levelUp.emailGenre': 'Έχετε επιτύχει το επίπεδο {level, number} στο είδος {genre} .',
     'theWay.levelUp.emailContinue': 'Συνεχίστε το ταξίδι σας και ξεκλειδώστε περισσότερα επιτεύγματα στο The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'Προβολή του ταμπλό σας',
     // Notifications - General content comment
