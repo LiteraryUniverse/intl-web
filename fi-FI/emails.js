@@ -34,20 +34,20 @@ export default {
     storyteller {Kertoja}
     other {}
   } tasolle seuraavaksi {days} päiväksi.\n\nNauti,\nLiterary Universe -tiimi`,
-    'email.adminUpgrade.messageHtml': `Olemme päivittäneet tilisi {plan, select,
-    explorer {Explorer}
+    'email.adminUpgrade.messageHtml': `Olemme nostaneet tilisi {plan, select,
+    explorer {Tutkija}
     adventurer {Seikkailija}
-    storyteller {Kertoja}
+    storyteller {Tarinankertoja}
     other {}
-  } tasolle seuraavaksi {days} päiväksi. Nauti!`,
+  } tasolle seuraaviksi {days, number} päiviksi. Nauti!`,
     'email.verification': 'Sähköpostin vahvistus',
     'email.verifying': 'Vahvistetaan sähköpostiasi. Tämä vie vain hetken...',
     'email.verified': 'Hienoa uutista! Sähköpostisi on vahvistettu!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Onnittelut! Olet saavuttanut kirjailijatason {level} Literary Universessa!',
-    'theWay.levelUp.emailTitle': 'Onnittelut! Olet saavuttanut kirjailijatason {level}!',
+    'theWay.levelUp.emailSubject': 'Onnittelut! Olet saavuttanut kirjailijatason {level, number} Literary Universessa!',
+    'theWay.levelUp.emailTitle': 'Onnittelut! Olet saavuttanut kirjailijatason {level, number}!',
     'theWay.levelUp.emailIntro': 'Omistautumisesi kirjoittamisen käsityölle on palkittu!',
-    'theWay.levelUp.emailGenre': 'Olet saavuttanut tason {level} genressä {genre} .',
+    'theWay.levelUp.emailGenre': 'Olet saavuttanut tason {level, number} {genre} genressä.',
     'theWay.levelUp.emailContinue': 'Jatka matkaasi ja avaa lisää saavutuksia The Way of the Author -pelissä.',
     'theWay.levelUp.viewDashboard': 'Näytä kojelauta',
     // Notifications - General content comment
