@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'வணக்கம் {username},',
     'email.welcome': 'இலக்கண உலகத்தில் வரவேற்பு செய்தல்!',
     'email.signature': 'மிக்க வாழ்த்துக்கள்,<br />இலக்கண உலகத்தின் அணி',
+    'email.footer.settingsHtml': 'You can change your email settings in <a href="{link}">your account settings</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'வரவேற்புக்கு வரவேற்பு',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
