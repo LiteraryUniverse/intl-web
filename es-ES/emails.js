@@ -34,20 +34,20 @@ export default {
     storyteller {cuentacuentos}
     other {}
   } para los próximos {days} días.\n\nQue lo disfrutes,\nequipo de Literary Universe`,
-    'email.adminUpgrade.messageHtml': `Hemos mejorado tu cuenta a {plan, select,
-    explorer {explorador}
-    adventurer {aventurero}
-    storyteller {cuentacuentos}
+    'email.adminUpgrade.messageHtml': `Hemos actualizado su cuenta a {plan, select,
+    explorer {Explorador}
+    adventurer {Aventurero}
+    storyteller {Narrador}
     other {}
-  } para los próximos {days} días. ¡Que lo disfrutes!`,
+  } nivel para los próximos {days, number} días. Que lo disfrute.`,
     'email.verification': 'Verificación de e-mail',
     'email.verifying': 'Verificando tu e-mail. Esto solo llevará un momento...',
     'email.verified': '¡Buenas noticias! ¡Tu correo electrónico se ha verificado!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': '¡Enhorabuena! ¡Ha alcanzado el nivel de autor {level} en Universo Literario!',
-    'theWay.levelUp.emailTitle': '¡Enhorabuena! ¡Ha alcanzado el nivel de autor {level}!',
+    'theWay.levelUp.emailSubject': '¡Enhorabuena! ¡Ha alcanzado el nivel de autor {level, number} en Universo Literario!',
+    'theWay.levelUp.emailTitle': '¡Enhorabuena! ¡Ha alcanzado el nivel de autor {level, number}!',
     'theWay.levelUp.emailIntro': '¡Su dedicación al oficio de escribir ha sido recompensada!',
-    'theWay.levelUp.emailGenre': 'Ha alcanzado el nivel {level} en el género {genre} .',
+    'theWay.levelUp.emailGenre': 'Ha alcanzado el nivel {level, number} en el género {genre} .',
     'theWay.levelUp.emailContinue': 'Continúe su viaje y desbloquee más logros en El camino del autor.',
     'theWay.levelUp.viewDashboard': 'Ver su panel de control',
     // Notifications - General content comment
