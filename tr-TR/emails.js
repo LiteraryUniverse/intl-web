@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Merhaba {username},',
     'email.welcome': 'Edebi Evren\'e Hoş Geldiniz!',
     'email.signature': 'Saygılarımızla,<br />Edebi Evren ekibi',
+    'email.footer.settingsHtml': 'E-posta ayarlarınızı <a href="{link}">hesap ayarlarınızdan</a> değiştirebilirsiniz.',
     // Enrollment
     'email.enrollAccount.welcome': 'Aramıza hoş geldiniz',
     'email.enrollAccount.messageHtml': 'Sizi Edebiyat Evreni\'ne davet etmek istiyoruz! Sizin için Edebiyat Evreni\'nin tüm özelliklerine erişebileceğiniz kişisel bir hesap hazırladık. Lütfen yeni nesil yaratıcı yazma ve okumayı yaratmada bize katılın!',
