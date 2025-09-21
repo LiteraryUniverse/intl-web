@@ -34,20 +34,20 @@ export default {
     storyteller {Storieverteller}
     other {}
   } vlak vir die volgende {days} dae.\n\nGeniet dit,\nLiterary Universe-span`,
-    'email.adminUpgrade.messageHtml': `Ons het jou rekening opgradeer na {plan, select,
-    explorer {Ontdekker}
-    adventurer {Avonturier}
-    storyteller {Storieverteller}
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } vlak vir die volgende {days} dae. Geniet dit!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'E-pos verifikasie',
     'email.verifying': 'Verifieer jou e-pos. Dit sal net \'n oomblik neem...',
     'email.verified': 'Goeie nuus! Jou e-pos is geverifieer!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level} on Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level}!',
+    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
     'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
-    'theWay.levelUp.emailGenre': 'You have achieved level {level} in the {genre} genre.',
+    'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
     'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'View Your Dashboard',
     // Notifications - General content comment
