@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Üdvözöljük {username},',
     'email.welcome': 'Üdvözöljük az Irodalmi Univerzumban!',
     'email.signature': 'Üdvözlettel,<br />az Irodalmi Univerzum csapata',
+    'email.footer.settingsHtml': 'Az e-mail beállításokat a <a href="{link}">fiókbeállítások</a> között módosíthatja.',
     // Enrollment
     'email.enrollAccount.welcome': 'Üdvözöljük a fedélzeten',
     'email.enrollAccount.messageHtml': 'Szeretettel meghívjuk Önt az Irodalmi Univerzumba! Előreléptünk és elkészítettünk Önnek egy személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum minden funkciójához. Kérjük, csatlakozzon hozzánk a kreatív írás és olvasás következő generációjának megteremtésében!',
