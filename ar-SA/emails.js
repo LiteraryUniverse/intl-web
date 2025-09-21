@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'مرحبا {username}،',
     'email.welcome': 'مرحبًا بك في عالم الأدب!',
     'email.signature': 'مع خالص التحية، فريق عالم الأدب<br />',
+    'email.footer.settingsHtml': 'يمكنك تغيير إعدادات بريدك الإلكتروني في <a href="{link}">إعدادات حسابك</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'مرحبًا بك على متن السفينة',
     'email.enrollAccount.messageHtml': 'نود أن ندعوك إلى عالم الأدب! لقد تقدمنا وقمنا بإعداد حساب شخصي لك حيث يمكنك الوصول إلى جميع ميزات عالم الأدب. يرجى الانضمام إلينا في إنشاء الجيل القادم من الكتابة والقراءة الإبداعية!',
