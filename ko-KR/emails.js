@@ -15,6 +15,7 @@ export default {
     'email.salutation': '안녕하세요 {username},',
     'email.welcome': '문학 우주에 오신 것을 환영합니다!',
     'email.signature': '진심으로,<br />문학 우주 팀',
+    'email.footer.settingsHtml': '이메일 설정은 <a href="{link}">계정</a> 설정에서 변경할 수 있습니다.',
     // Enrollment
     'email.enrollAccount.welcome': '환영합니다',
     'email.enrollAccount.messageHtml': '문학의 세계로 여러분을 초대합니다! 문학 유니버스의 모든 기능에 액세스할 수 있는 개인 계정을 준비했습니다. 차세대 창의적인 글쓰기와 독서를 창조하는 데 동참해 주세요!',
