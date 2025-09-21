@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Olá {username},',
     'email.welcome': 'Bem-vindo ao Universo Literário!',
     'email.signature': 'Atenciosamente,<br />Equipa do Universo Literário',
+    'email.footer.settingsHtml': 'Pode alterar as suas definições de correio eletrónico nas <a href="{link}">definições da sua conta</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Bem-vindo a bordo',
     'email.enrollAccount.messageHtml': 'Gostaríamos de o convidar para o Universo Literário! Preparámos uma conta pessoal para si, onde poderá aceder a todas as funcionalidades do Universo Literário. Junte-se a nós na criação da próxima geração de escrita e leitura criativas!',
