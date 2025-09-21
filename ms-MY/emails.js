@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Hello {username},',
     'email.welcome': 'Selamat datang ke Alam Sastera!',
     'email.signature': 'Salam hormat,<br />pasukan Alam Sastera',
+    'email.footer.settingsHtml': 'You can change your email settings in <a href="{link}">your account settings</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Selamat datang',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
