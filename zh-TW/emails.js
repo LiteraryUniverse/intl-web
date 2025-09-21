@@ -15,6 +15,7 @@ export default {
     'email.salutation': '您好， {username}，',
     'email.welcome': '歡迎來到文學宇宙！',
     'email.signature': '此致，<br />文學宇宙團隊',
+    'email.footer.settingsHtml': '您可以在<a href="{link}">帳戶設定</a>中變更電子郵件設定。',
     // Enrollment
     'email.enrollAccount.welcome': '歡迎加入',
     'email.enrollAccount.messageHtml': '我們誠摯地邀請您加入 Literary Universe！我們為您準備了一個個人帳戶，您可以使用 Literary Universe 的所有功能。請與我們一起創造下一代的創意寫作與閱讀！',
