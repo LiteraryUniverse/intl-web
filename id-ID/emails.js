@@ -37,17 +37,17 @@ export default {
     'email.adminUpgrade.messageHtml': `Kami telah meningkatkan akun Anda menjadi {plan, select,
     explorer {Penjelajah}
     adventurer {Petualang}
-    storyteller {Pencerita}
+    storyteller {Pendongeng}
     other {}
-  } untuk ! {days} hari ke depan. Nikmati!`,
+  } tingkat untuk hari {days, number} berikutnya. Selamat menikmati!`,
     'email.verification': 'Verifikasi E-mail',
     'email.verifying': 'Memverifikasi e-mail Anda. Ini akan memakan waktu sebentar...',
     'email.verified': 'Berita bagus! E-mail Anda telah diverifikasi!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Selamat! Anda telah mencapai Level Penulis {level} di Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Selamat! Anda telah mencapai Level Penulis {level}!',
+    'theWay.levelUp.emailSubject': 'Selamat! Anda telah mencapai Level Penulis {level, number} di Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Selamat! Anda telah mencapai Level Penulis {level, number}!',
     'theWay.levelUp.emailIntro': 'Dedikasi Anda terhadap seni menulis telah dihargai!',
-    'theWay.levelUp.emailGenre': 'Anda telah mencapai level {level} dalam genre {genre} .',
+    'theWay.levelUp.emailGenre': 'Anda telah mencapai level {level, number} dalam genre {genre} .',
     'theWay.levelUp.emailContinue': 'Lanjutkan perjalanan Anda dan buka lebih banyak pencapaian di The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'Lihat Dasbor Anda',
     // Notifications - General content comment
