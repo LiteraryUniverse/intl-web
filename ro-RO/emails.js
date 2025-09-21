@@ -34,20 +34,20 @@ export default {
     storyteller {Povestitor}
     other {}
   } nivel pentru următoarele {days} zile.\n\nDistracție plăcută,\nEchipa Universului Literar`,
-    'email.adminUpgrade.messageHtml': `Ți-am upgrade-at contul la nivelul {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
+    'email.adminUpgrade.messageHtml': `Ți-am actualizat contul la {plan, select,
+    explorer {Explorator}
+    adventurer {Aventurier}
     storyteller {Storyteller}
     other {}
-  } pentru următoarele {days} zile. Bucură-te!`,
+  } nivel pentru următoarele {days, number} zile. Distracție plăcută!`,
     'email.verification': 'Verificare e-mail',
     'email.verifying': 'Se verifică adresa ta de e-mail. Acest proces va dura doar un moment...',
     'email.verified': 'Vestea bună! Adresa ta de e-mail a fost verificată!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Felicitări! Ați atins nivelul de autor {level} pe Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Felicitări! Ați atins nivelul de autor {level}!',
+    'theWay.levelUp.emailSubject': 'Felicitări! Ai ajuns la nivelul de Autor {level, number} pe Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Felicitări! Ai atins nivelul Autor {level, number}!',
     'theWay.levelUp.emailIntro': 'Dedicarea ta pentru meseria de scriitor a fost răsplătită!',
-    'theWay.levelUp.emailGenre': 'Ați atins nivelul {level} în genul {genre} .',
+    'theWay.levelUp.emailGenre': 'Ați atins nivelul {level, number} în genul {genre} .',
     'theWay.levelUp.emailContinue': 'Continuă-ți călătoria și deblochează mai multe realizări în The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'Vizualizați tabloul dvs. de bord',
     // Notifications - General content comment
