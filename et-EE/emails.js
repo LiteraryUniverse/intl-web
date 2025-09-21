@@ -34,20 +34,20 @@ export default {
     storyteller {Jutuvestja}
     other {}
   } tasemele järgnevateks {days} päevaks.\n\nNautige,\nLiterary Universe'i meeskond`,
-    'email.adminUpgrade.messageHtml': `Oleme uuendanud teie konto {plan, select,
-    explorer {Explorer}
+    'email.adminUpgrade.messageHtml': `Oleme tõstnud teie konto {plan, select,
+    explorer {Avastaja}
     adventurer {Seikleja}
     storyteller {Jutuvestja}
     other {}
-  } tasemele järgnevateks {days} päevaks. Nautige!`,
+  } tasemele järgmisteks {days, number} päevadeks. Naudi!`,
     'email.verification': 'E-posti verifitseerimine',
     'email.verifying': 'Teie e-posti verifitseerimine. See võtab vaid hetke aega...',
     'email.verified': 'Suurepärased uudised! Teie e-post on verifitseeritud!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Palju õnne! Olete jõudnud Kirjandusuniversumi autoritasandile {level} !',
-    'theWay.levelUp.emailTitle': 'Palju õnne! Olete jõudnud autori tasemele {level}!',
+    'theWay.levelUp.emailSubject': 'Palju õnne! Olete jõudnud autoritasandile {level, number} Literary Universe\'is!',
+    'theWay.levelUp.emailTitle': 'Palju õnne! Olete jõudnud autori tasemele {level, number}!',
     'theWay.levelUp.emailIntro': 'Teie pühendumine kirjutamise käsitööle on premeeritud!',
-    'theWay.levelUp.emailGenre': 'Sa oled saavutanud taseme {level} žanris {genre} .',
+    'theWay.levelUp.emailGenre': 'Sa oled saavutanud taseme {level, number} žanris {genre} .',
     'theWay.levelUp.emailContinue': 'Jätkake oma teekonda ja avage rohkem saavutusi autori teel.',
     'theWay.levelUp.viewDashboard': 'Vaadake oma armatuurlauda',
     // Notifications - General content comment
