@@ -34,7 +34,7 @@ export default {
     storyteller {Hikayeci}
     other {}
   } seviyesine yükselttik. Bir sonraki {days} gün boyunca geçerli.\n\nKeyfini çıkarın,\nLiterary Universe ekibi`,
-    'email.adminUpgrade.messageHtml': `Hesabınızı önümüzdeki {days} gün boyunca {plan, select,
+    'email.adminUpgrade.messageHtml': `Hesabınızı önümüzdeki {days, number} günler için {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
@@ -44,10 +44,10 @@ export default {
     'email.verifying': 'E-postanızı doğruluyoruz. Bu birkaç dakika sürebilir...',
     'email.verified': 'Harika haber! E-postanız doğrulandı!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Tebrikler! Literary Universe\'de Yazar Seviyesi {level} \'a ulaştınız!',
-    'theWay.levelUp.emailTitle': 'Tebrikler! Yazar Seviyesine ulaştınız {level}!',
+    'theWay.levelUp.emailSubject': 'Tebrikler! Literary Universe\'de Yazar Seviyesine {level, number} ulaştınız!',
+    'theWay.levelUp.emailTitle': 'Tebrikler! Yazar Seviyesine ulaştınız {level, number}!',
     'theWay.levelUp.emailIntro': 'Yazma zanaatına olan bağlılığınız ödüllendirildi!',
-    'theWay.levelUp.emailGenre': '{genre} türünde {level} seviyesine ulaştınız.',
+    'theWay.levelUp.emailGenre': '{genre} türünde {level, number} seviyesine ulaştınız.',
     'theWay.levelUp.emailContinue': 'Yolculuğunuza devam edin ve The Way of the Author\'da daha fazla başarımın kilidini açın.',
     'theWay.levelUp.viewDashboard': 'Kontrol Panelinizi Görüntüleyin',
     // Notifications - General content comment
