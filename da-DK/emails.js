@@ -35,19 +35,19 @@ export default {
     other {}
   } niveau i de næste {days} dage.\n\nNyd det,\nLiterary Universe team`,
     'email.adminUpgrade.messageHtml': `Vi har opgraderet din konto til {plan, select,
-    explorer {Udforsker}
-    adventurer {Eventyrer}
-    storyteller {Historiefortæller}
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } niveau i de næste {days} dage. Nyd det!`,
+  } niveau for de næste {days, number} dage. God fornøjelse!`,
     'email.verification': 'E-mail verifikation',
     'email.verifying': 'Verificerer din e-mail. Dette vil kun tage et øjeblik...',
     'email.verified': 'Fantastiske nyheder! Din e-mail er blevet verificeret!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Vi ønsker dig tillykke! Du har nået forfatterniveauet {level} på Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Tillykke med det! Du har nået forfatterniveauet {level}!',
+    'theWay.levelUp.emailSubject': 'Vi ønsker dig tillykke! Du har nået forfatterniveau {level, number} på Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Tillykke med det! Du har nået forfatterniveau {level, number}!',
     'theWay.levelUp.emailIntro': 'Din dedikation til skrivehåndværket er blevet belønnet!',
-    'theWay.levelUp.emailGenre': 'Du har nået niveau {level} i genren {genre} .',
+    'theWay.levelUp.emailGenre': 'Du har opnået niveauet {level, number} i genren {genre} .',
     'theWay.levelUp.emailContinue': 'Fortsæt din rejse, og lås op for flere præstationer i The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'Se dit dashboard',
     // Notifications - General content comment
