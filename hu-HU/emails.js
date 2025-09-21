@@ -34,20 +34,20 @@ export default {
     storyteller {Mesemondó}
     other {}
   } szintre a következő {days} napra.\n\nJó szórakozást,\nLiterary Universe csapat`,
-    'email.adminUpgrade.messageHtml': `Frissítettük a fiókodat a következőre: {plan, select,
+    'email.adminUpgrade.messageHtml': `A következő {days, number} napokra {plan, select,
     explorer {Felfedező}
     adventurer {Kalandor}
-    storyteller {Mesemondó}
+    storyteller {Mesélő}
     other {}
-  } szintre a következő {days} napra. Jó szórakozást!`,
+  } szintre emeltük a fiókodat. Jó szórakozást!`,
     'email.verification': 'E-mail ellenőrzése',
     'email.verifying': 'Az e-mail ellenőrzése. Ez csak egy pillanat...',
     'email.verified': 'Nagyszerű hír! Az e-mail címed ellenőrzésre került!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Gratulálunk! Elérted a {level} szerzői szintet az Irodalmi Univerzumban!',
-    'theWay.levelUp.emailTitle': 'Gratulálunk! Elérted a {level}szerzői szintet!',
+    'theWay.levelUp.emailSubject': 'Gratulálunk! Elérted a szerzői szintet {level, number} az Irodalmi Univerzumban!',
+    'theWay.levelUp.emailTitle': 'Gratulálunk! Elérted a szerzői szintet {level, number}!',
     'theWay.levelUp.emailIntro': 'Az írói mesterség iránti elkötelezettségedet megjutalmazták!',
-    'theWay.levelUp.emailGenre': 'A {genre} műfajban elérted a {level} szintet.',
+    'theWay.levelUp.emailGenre': 'A {genre} műfajban elérted a {level, number} szintet.',
     'theWay.levelUp.emailContinue': 'Folytasd az utadat, és nyisd ki a The Way of the Author további eredményeit.',
     'theWay.levelUp.viewDashboard': 'Az irányítópult megtekintése',
     // Notifications - General content comment
