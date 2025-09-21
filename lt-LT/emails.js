@@ -34,20 +34,20 @@ export default {
     storyteller {Pasakotojas}
     other {}
   } lygį kitoms {days} dienoms.\n\nMėgaukitės,\nLiteratinės Visatos komanda`,
-    'email.adminUpgrade.messageHtml': `Mes atnaujinome jūsų paskyrą į {plan, select,
-    explorer {Tyrinėtojas}
-    adventurer {Nuotykių ieškotojas}
-    storyteller {Pasakotojas}
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } lygį kitoms {days} dienoms. Mėgaukitės!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'El. pašto patvirtinimas',
     'email.verifying': 'Patvirtinkite savo el. paštą. Tai užtruks vos akimirką...',
     'email.verified': 'Puiki naujiena! Jūsų el. paštas buvo patvirtintas!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Sveikiname! Pasiekėte autoriaus lygį {level} "Literatūrinėje visatoje"!',
-    'theWay.levelUp.emailTitle': 'Sveikiname! Pasiekėte autoriaus lygį {level}!',
+    'theWay.levelUp.emailSubject': 'Sveikiname! Pasiekėte Autoriaus lygį {level, number} Literatūrinėje visatoje!',
+    'theWay.levelUp.emailTitle': 'Sveikiname! Pasiekėte autoriaus lygį {level, number}!',
     'theWay.levelUp.emailIntro': 'Jūsų atsidavimas rašymo amatui buvo atlygintas!',
-    'theWay.levelUp.emailGenre': 'Pasiekėte {level} lygį {genre} žanre.',
+    'theWay.levelUp.emailGenre': 'Pasiekėte lygį {level, number} {genre} žanre.',
     'theWay.levelUp.emailContinue': 'Tęskite kelionę ir atrakinkite daugiau pasiekimų žaidime "The Way of the Author".',
     'theWay.levelUp.viewDashboard': 'Peržiūrėti prietaisų skydelį',
     // Notifications - General content comment
