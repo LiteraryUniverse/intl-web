@@ -36,20 +36,20 @@ To activate your account, simply click the link below:\n\n{url}`,
   } plán na následujících {days} dní.\n\n
 S přáním hezkého dne,\n
 Literary Universe tým`,
-    'email.adminUpgrade.messageHtml': `Upgradovali jsme Váš účet na {plan, select,
+    'email.adminUpgrade.messageHtml': `Váš účet jsme povýšili na {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } plán na následujících {days} dní.`,
+  } tier pro následující {days, number} dny. Užijte si to!`,
     'email.verification': 'Ověření emailu',
     'email.verifying': 'Ověřování Vašeho e-mailu. Tohle může chvilku trvat...',
     'email.verified': 'Skvělá zpráva! Váš e-mail byl ověřen!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Gratulujeme! Dosáhli jste autorské úrovně {level} na Literárním vesmíru!',
-    'theWay.levelUp.emailTitle': 'Gratulujeme! Dosáhli jste autorské úrovně {level}!',
+    'theWay.levelUp.emailSubject': 'Gratulujeme! Dosáhli jste autorské úrovně {level, number} na Literárním vesmíru!',
+    'theWay.levelUp.emailTitle': 'Gratulujeme! Dosáhli jste autorské úrovně {level, number}!',
     'theWay.levelUp.emailIntro': 'Vaše oddanost spisovatelskému řemeslu byla odměněna!',
-    'theWay.levelUp.emailGenre': 'V žánru {genre} jste dosáhli úrovně {level} .',
+    'theWay.levelUp.emailGenre': 'Dosáhli jste úrovně {level, number} v žánru {genre} .',
     'theWay.levelUp.emailContinue': 'Pokračujte ve své cestě a odemkněte další úspěchy na autorské cestě.',
     'theWay.levelUp.viewDashboard': 'Zobrazení přístrojové desky',
     // Notifications - General content comment
