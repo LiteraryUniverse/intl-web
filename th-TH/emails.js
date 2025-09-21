@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'สวัสดี {username},',
     'email.welcome': 'ยินดีต้อนรับสู่จักรวาลวรรณกรรม!',
     'email.signature': 'ด้วยความเคารพอย่างสุภาพ<br />ทีมงานจักรวาลวรรณกรรม',
+    'email.footer.settingsHtml': 'คุณสามารถเปลี่ยนการตั้งค่าอีเมลของคุณได้ใน<a href="{link}">หน้าการตั้งค่าบัญชีของคุณ</a>',
     // Enrollment
     'email.enrollAccount.welcome': 'ยินดีต้อนรับเข้าสู่ทางเรือ',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
