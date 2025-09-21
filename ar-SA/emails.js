@@ -36,18 +36,18 @@ export default {
   } فئة {days} أيام القادمة.\n\nاستمتع،\nفريق الكون الأدبي`,
     'email.adminUpgrade.messageHtml': `لقد قمنا بترقية حسابك إلى {plan, select,
     explorer {مستكشف}
-    adventurer {مغامر}
+    adventurer {مغامر ~ ~ مغامر}
     storyteller {راوي قصص}
     other {}
-  } للمستوى التالي لمدة {days} أيام. استمتع!`,
+  } فئة {days, number} الأيام القادمة. استمتع!`,
     'email.verification': 'تحقق من البريد الإلكتروني',
     'email.verifying': 'جاري التحقق من بريدك الإلكتروني. سيستغرق هذا لحظة...',
     'email.verified': 'أخبار رائعة! تم التحقق من بريدك الإلكتروني بنجاح!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'تهانينا! لقد وصلت إلى مستوى المؤلف {level} على موقع الكون الأدبي!',
-    'theWay.levelUp.emailTitle': 'تهانينا! لقد وصلت إلى مستوى المؤلف {level}!',
+    'theWay.levelUp.emailSubject': 'تهانينا! لقد وصلت إلى مستوى المؤلف {level, number} على موقع الكون الأدبي!',
+    'theWay.levelUp.emailTitle': 'تهانينا! لقد وصلت إلى مستوى المؤلف {level, number}!',
     'theWay.levelUp.emailIntro': 'لقد كوفئت على تفانيك في حرفة الكتابة!',
-    'theWay.levelUp.emailGenre': 'لقد وصلت إلى المستوى {level} في النوع {genre} .',
+    'theWay.levelUp.emailGenre': 'لقد وصلت إلى المستوى {level, number} في النوع {genre} .',
     'theWay.levelUp.emailContinue': 'واصل رحلتك وافتح المزيد من الإنجازات في "طريق المؤلف".',
     'theWay.levelUp.viewDashboard': 'عرض لوحة التحكم الخاصة بك',
     // Notifications - General content comment
