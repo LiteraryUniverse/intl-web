@@ -34,20 +34,20 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `Táimid tar éis do chuntas a uasghrádú go dtí an {plan, select,
-    explorer {Lorgaire}
-    adventurer {Eachtraí}
-    storyteller {Léiritheoir Scéalta}
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } leibhéal ar feadh na {days} lá amach romhainn. Bain sult as!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'Dearbhaíocht Ríomhphoist',
     'email.verifying': 'Ag dearbhú do ríomhphost. Ní gá ach nóiméad amháin...',
     'email.verified': 'Féach ort! Tá do ríomhphost dearbhaithe!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level} on Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level}!',
+    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
     'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
-    'theWay.levelUp.emailGenre': 'You have achieved level {level} in the {genre} genre.',
+    'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
     'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'View Your Dashboard',
     // Notifications - General content comment
