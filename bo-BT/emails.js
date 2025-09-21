@@ -39,15 +39,15 @@ export default {
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier for the next {days} days. Enjoy!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'ཨེ་མེན་སེམས་ཅན།',
     'email.verifying': 'ཁྱེད་ཀྱིས་ཨེ་མེན་སེམས་བཟོ་བ་འདི་གིས་བྱུང་བའི་དུས་ཡུན་ནང་འཛིན་པའི་དུས་ཡུན་རྗེས་སུ་མཉེན་ཆས་འབད་དེ་བཞིན་པར་བཟོ་བ།',
     'email.verified': 'རྗེས་སུ་ཨེ་མེན་སེམས་བཟོ་བ། ཁྱེད་ཀྱིས་ཨེ་མེན་སེམས་བཟོ་བའི་དུས་ཡུན་ནང་འཛིན་པའི་དུས་ཡུན་འདི་གིས་བྱུང་བའི་དུས་ཡུན་རྗེས་སུ་མཉེན་ཆས་འབད་དེ་བཞིན་པར་བཟོ་བ།',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level} on Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level}!',
+    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
     'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
-    'theWay.levelUp.emailGenre': 'You have achieved level {level} in the {genre} genre.',
+    'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
     'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'View Your Dashboard',
     // Notifications - General content comment
