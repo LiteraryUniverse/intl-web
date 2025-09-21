@@ -34,20 +34,20 @@ export default {
     storyteller {故事創作者}
     other {}
   } 等級，持續 {days} 天。\n\n祝您愉快，\nLiterary Universe 團隊`,
-    'email.adminUpgrade.messageHtml': `我們已將您的帳戶升級為 {plan, select,
-    explorer {探險者}
+    'email.adminUpgrade.messageHtml': `我們已將您的帳號升級為 {plan, select,
+    explorer {探索者}
     adventurer {冒險家}
-    storyteller {故事創作者}
+    storyteller {說故事的人}
     other {}
-  } 等級，持續 {days} 天。祝您愉快！`,
+  } 階級，在接下來 {days, number} 的日子裡。請盡情享受！`,
     'email.verification': '電子郵件驗證',
     'email.verifying': '正在驗證您的電子郵件。這只會花一點時間...',
     'email.verified': '太棒了！您的電子郵件已經驗證成功！',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': '恭喜您您已達到 Literary Universe 的作者等級 {level}！',
-    'theWay.levelUp.emailTitle': '恭喜您您已達到作者等級 {level}！',
+    'theWay.levelUp.emailSubject': '恭喜您您已達到 Literary Universe 的作者等級 {level, number} ！',
+    'theWay.levelUp.emailTitle': '恭喜您您已達到作者等級 {level, number}！',
     'theWay.levelUp.emailIntro': '您對寫作技術的付出得到了回報！',
-    'theWay.levelUp.emailGenre': '您已達到 {genre} 遊戲類型的 {level} 等級。',
+    'theWay.levelUp.emailGenre': '您已達到 {genre} 遊戲類型中的 {level, number} 等級。',
     'theWay.levelUp.emailContinue': '繼續您的旅程，在 The Way of the Author 解鎖更多成就。',
     'theWay.levelUp.viewDashboard': '檢視您的儀表板',
     // Notifications - General content comment
