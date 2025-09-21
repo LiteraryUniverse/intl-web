@@ -15,6 +15,7 @@ To activate your account, simply click the link below:\n\n{url}`,
     'email.salutation': 'Dobrý den {username},',
     'email.welcome': 'Vítejte na Literary Universe!',
     'email.signature': 'S přáním hezkého dne,<br />Literary Universe tým',
+    'email.footer.settingsHtml': 'Nastavení e-mailu můžete změnit v <a href="{link}">nastavení účtu</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Vítejte na palubě',
     'email.enrollAccount.messageHtml': 'Rádi bychom vás pozvali do Literárního vesmíru! Připravili jsme pro vás osobní účet, kde máte přístup ke všem funkcím Literárního vesmíru. Připojte se k nám a vytvořte novou generaci tvůrčího psaní a čtení!',
