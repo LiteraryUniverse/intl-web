@@ -34,20 +34,20 @@ export default {
     storyteller {স্টোরিটেলার}
     other {}
   } টিয়ার পরবর্তী {days} দিনের জন্য।\n\nআনন্দ করুন,\nলিটারারি ইউনিভার্স টিম`,
-    'email.adminUpgrade.messageHtml': `আমরা আপনার অ্যাকাউন্টটি আপগ্রেড করেছি {plan, select,
-    explorer {এক্সপ্লোরার}
-    adventurer {অ্যাডভেঞ্চার}
-    storyteller {স্টোরিটেলার}
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } টিয়ার পরবর্তী {days} দিনের জন্য। আনন্দ করুন!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'ইমেল যাচাইকরণ',
     'email.verifying': 'আপনার ইমেল যাচাই করা হচ্ছে। এটা কয়েকটা মুহূর্ত নিতে পারে...',
     'email.verified': 'সুবিধাপূর্ণ খবর! আপনার ইমেল যাচাই হয়েছে!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level} on Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level}!',
+    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
     'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
-    'theWay.levelUp.emailGenre': 'You have achieved level {level} in the {genre} genre.',
+    'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
     'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'View Your Dashboard',
     // Notifications - General content comment
