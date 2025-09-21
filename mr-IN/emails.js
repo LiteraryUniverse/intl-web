@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'नमस्कार {username},',
     'email.welcome': 'साहित्यिक विश्वात आपले स्वागत आहे!',
     'email.signature': 'आभारी,<br />साहित्यिक विश्वाची टीम',
+    'email.footer.settingsHtml': 'You can change your email settings in <a href="{link}">your account settings</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'स्वागत आहोत',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
