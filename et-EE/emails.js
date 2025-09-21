@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Tere {username},',
     'email.welcome': 'Tere tulemast Kirjanduslikku Universumisse!',
     'email.signature': 'Parimate soovidega,<br />Kirjandusliku Universumi meeskond',
+    'email.footer.settingsHtml': 'Saate oma e-posti seadeid muuta <a href="{link}">oma konto seadetes</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Tere tulemast pardale',
     'email.enrollAccount.messageHtml': 'Kutsume teid kirjandusuniversumisse! Läksime edasi ja valmistasime teile isikliku konto, kus saate juurdepääsu kõikidele Literary Universe\'i funktsioonidele. Palun ühinege meiega loomingulise kirjutamise ja lugemise järgmise põlvkonna loomisel!',
