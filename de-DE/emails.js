@@ -35,19 +35,19 @@ export default {
     other {}
   } Stufe für die nächsten {days} Tage.\n\nFreude,\nLiterary Universe Team`,
     'email.adminUpgrade.messageHtml': `Wir haben Ihr Konto auf {plan, select,
-    explorer {Entdecker}
-    adventurer {Abenteurer}
-    stroryteller {Geschichtenerzähler}
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } Stufe für die nächsten {days} Tage. Viel Spaß!`,
+  } tier für die nächsten {days, number} Tage hochgestuft. Viel Spaß!`,
     'email.verification': 'E-Mail-Überprüfung',
     'email.verifying': 'Überprüfen Sie Ihre E-Mail. Dies dauert nur einen Moment...',
     'email.verified': 'Tolle Neuigkeiten! Ihre E-Mail wurde verifiziert!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Herzlichen Glückwunsch! Sie haben die Autorenstufe {level} auf Literary Universe erreicht!',
-    'theWay.levelUp.emailTitle': 'Herzlichen Glückwunsch! Sie haben die Autorenstufe {level}erreicht!',
+    'theWay.levelUp.emailSubject': 'Herzlichen Glückwunsch! Sie haben die Autorenstufe {level, number} auf Literary Universe erreicht!',
+    'theWay.levelUp.emailTitle': 'Herzlichen Glückwunsch! Sie haben die Autorenstufe erreicht {level, number}!',
     'theWay.levelUp.emailIntro': 'Ihre Hingabe an das Handwerk des Schreibens wurde belohnt!',
-    'theWay.levelUp.emailGenre': 'Sie haben die Stufe {level} im Genre {genre} erreicht.',
+    'theWay.levelUp.emailGenre': 'Sie haben die Stufe {level, number} im Genre {genre} erreicht.',
     'theWay.levelUp.emailContinue': 'Setzen Sie Ihre Reise fort und schalten Sie weitere Erfolge auf The Way of the Author frei.',
     'theWay.levelUp.viewDashboard': 'Ihr Dashboard anzeigen',
     // Notifications - General content comment
