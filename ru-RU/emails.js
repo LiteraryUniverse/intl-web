@@ -34,20 +34,20 @@ export default {
     storyteller {рассказчика}
     other {}
   } на следующие {days} дн.\n\nНаслаждайтесь,\nкоманда Literary Universe`,
-    'email.adminUpgrade.messageHtml': `Мы повысили вашу учётную запись до уровня {plan, select,
-    explorer {исследователя}
-    adventurer {авантюриста}
-    storyteller {рассказчика}
+    'email.adminUpgrade.messageHtml': `Мы повысили Ваш аккаунт до {plan, select,
+    explorer {Исследователь}
+    adventurer {Искатель приключений}
+    storyteller {Рассказчик}
     other {}
-  } на следующие {days} дн. Наслаждайтесь!`,
+  } уровня на следующие {days, number} дни. Наслаждайтесь!`,
     'email.verification': 'Подтверждение эл. почты',
     'email.verifying': 'Проверка вашей электронной почты. Это займёт всего минуту...',
     'email.verified': 'Отличные новости! Ваш адрес электронной почты был подтверждён!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Поздравляем! Вы достигли уровня автора {level} в Литературной Вселенной!',
-    'theWay.levelUp.emailTitle': 'Поздравляем! Вы достигли уровня автора {level}!',
+    'theWay.levelUp.emailSubject': 'Поздравляем! Вы достигли уровня автора {level, number} в Литературной Вселенной!',
+    'theWay.levelUp.emailTitle': 'Поздравляем! Вы достигли уровня автора {level, number}!',
     'theWay.levelUp.emailIntro': 'Ваша преданность писательскому ремеслу была вознаграждена!',
-    'theWay.levelUp.emailGenre': 'Вы достигли уровня {level} в жанре {genre} .',
+    'theWay.levelUp.emailGenre': 'Вы достигли уровня {level, number} в жанре {genre} .',
     'theWay.levelUp.emailContinue': 'Продолжайте свое путешествие и открывайте новые достижения в The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'Просмотрите Вашу приборную панель',
     // Notifications - General content comment
