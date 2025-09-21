@@ -34,20 +34,20 @@ export default {
     storyteller {Rozprávač}
     other {}
   } úroveň na najbližšie {days} dni.\n\nUžívajte si to,\nLiterary Universe tím`,
-    'email.adminUpgrade.messageHtml': `Váš účet sme aktualizovali na {plan, select,
-    explorer {Prieskumník}
-    adventurer {Dobrodruh}
-    storyteller {Rozprávač}
+    'email.adminUpgrade.messageHtml': `Vaše konto sme povýšili na {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } úroveň na najbližšie {days} dni.\n\nUžívajte si to!`,
+  } tier na nasledujúce {days, number} dni. Užite si to!`,
     'email.verification': 'Overenie e-mailu',
     'email.verifying': 'Overenie vášho e-mailu. Zaberie to len chvíľu...',
     'email.verified': 'Skvelé správy! Váš e-mail bol overený!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Gratulujeme! Dosiahli ste autorskú úroveň {level} na Literárnom vesmíre!',
-    'theWay.levelUp.emailTitle': 'Gratulujeme! Dosiahli ste autorskú úroveň {level}!',
+    'theWay.levelUp.emailSubject': 'Gratulujeme! Dosiahli ste autorskú úroveň {level, number} na Literárnom vesmíre!',
+    'theWay.levelUp.emailTitle': 'Gratulujeme! Dosiahli ste autorskú úroveň {level, number}!',
     'theWay.levelUp.emailIntro': 'Vaša oddanosť spisovateľskému remeslu bola odmenená!',
-    'theWay.levelUp.emailGenre': 'V žánri {genre} ste dosiahli úroveň {level} .',
+    'theWay.levelUp.emailGenre': 'Dosiahli ste úroveň {level, number} v žánri {genre} .',
     'theWay.levelUp.emailContinue': 'Pokračujte v ceste a odomknite ďalšie úspechy v hre The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'Zobrazenie prístrojového panela',
     // Notifications - General content comment
