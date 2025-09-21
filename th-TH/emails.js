@@ -34,20 +34,20 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `เราได้อัปเกรดบัญชีของคุณเป็นระดับ {plan, select,
+    'email.adminUpgrade.messageHtml': `เราได้อัปเกรดบัญชีของคุณเป็น {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } สำหรับ {days} วันถัดไป ขอให้สนุกกับเราค่ะ!`,
+  } ระดับสำหรับ {days, number} วันถัดไป ขอให้สนุก!`,
     'email.verification': 'การยืนยันอีเมล',
     'email.verifying': 'กำลังทำการยืนยันอีเมลของคุณ กรุณารอสักครู่...',
     'email.verified': 'ข่าวดี! อีเมลของคุณได้รับการยืนยันแล้ว!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'ขอแสดงความยินดี! คุณได้ถึงระดับผู้เขียน {level} บน Literary Universe!',
-    'theWay.levelUp.emailTitle': 'ขอแสดงความยินดี! คุณได้ถึงระดับผู้เขียน {level}แล้ว!',
+    'theWay.levelUp.emailSubject': 'ขอแสดงความยินดี! คุณได้ถึงระดับผู้แต่ง {level, number} บน Literary Universe!',
+    'theWay.levelUp.emailTitle': 'ขอแสดงความยินดี! คุณได้ถึงระดับผู้เขียน {level, number}!',
     'theWay.levelUp.emailIntro': 'ความทุ่มเทของคุณต่อการเขียนได้รับการตอบแทนแล้ว!',
-    'theWay.levelUp.emailGenre': 'คุณได้บรรลุระดับ {level} ในประเภท {genre}',
+    'theWay.levelUp.emailGenre': 'คุณได้บรรลุระดับ {level, number} ในประเภท ~ {genre}~',
     'theWay.levelUp.emailContinue': 'เดินทางต่อไปและปลดล็อกความสำเร็จเพิ่มเติมบนเส้นทางของนักเขียน',
     'theWay.levelUp.viewDashboard': 'ดูแดชบอร์ดของคุณ',
     // Notifications - General content comment
