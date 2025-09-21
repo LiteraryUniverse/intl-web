@@ -34,20 +34,20 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier for the next {days} days.\n\nEnjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `Chúng tôi đã nâng cấp tài khoản của bạn lên hạng {plan, select,
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } trong vòng {days} ngày tới. Thưởng thức!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'Xác minh E-mail',
     'email.verifying': 'Đang xác minh E-mail của bạn. Điều này chỉ mất một chút thời gian...',
     'email.verified': 'Tin tốt! E-mail của bạn đã được xác minh!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Chúc mừng! Bạn đã đạt đến cấp độ Tác giả " {level} " trên Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Chúc mừng! Bạn đã đạt đến cấp độ Tác giả {level}!',
+    'theWay.levelUp.emailSubject': 'Chúc mừng! Bạn đã đạt đến cấp độ Tác giả {level, number} trên Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Chúc mừng! Bạn đã đạt đến cấp độ Tác giả {level, number}!',
     'theWay.levelUp.emailIntro': 'Sự tận tâm của bạn đối với nghệ thuật viết lách đã được đền đáp!',
-    'theWay.levelUp.emailGenre': 'Bạn đã đạt cấp độ {level} trong thể loại {genre} .',
+    'theWay.levelUp.emailGenre': 'Bạn đã đạt đến cấp độ {level, number} trong thể loại {genre} .',
     'theWay.levelUp.emailContinue': 'Tiếp tục hành trình của bạn và mở khóa thêm nhiều thành tựu trên The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'Xem Bảng điều khiển của bạn',
     // Notifications - General content comment
