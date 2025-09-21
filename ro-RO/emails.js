@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Bună {username},',
     'email.welcome': 'Bun venit în Universul Literar!',
     'email.signature': 'Cu sinceritate,<br />Echipa Universul Literar',
+    'email.footer.settingsHtml': 'Puteți modifica setările de e-mail în <a href="{link}">setările contului dvs</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Bun venit la bord',
     'email.enrollAccount.messageHtml': 'Dorim să vă invităm în Universul Literar! Ți-am pregătit un cont personal unde poți accesa toate funcțiile Universului Literar. Te rugăm să ni te alături în crearea următoarei generații de scriere creativă și lectură!',
