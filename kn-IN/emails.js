@@ -34,20 +34,20 @@ export default {
     storyteller {ಸ್ಟೋರಿಟೆಲರ್}
     other {}
   } ಟಿಯರ್ ಗೆ {days} ದಿನಗಳವರೆಗೆ ನವೀಕರಿಸಲಾಗಿದೆ.\n\nಆನಂದಿಸಿ,\nಲಿಟರರಿ ಯೂನಿವರ್ಸ್ ತಂಡ`,
-    'email.adminUpgrade.messageHtml': `ನಿಮ್ಮ ಖಾತೆಯನ್ನು {plan, select,
-    explorer {ಎಕ್ಸ್ಪ್ಲೋರರ್}
-    adventurer {ಅಡ್ವೆಂಚರರ್}
-    storyteller {ಸ್ಟೋರಿಟೆಲರ್}
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } ಟಿಯರ್ ಗೆ {days} ದಿನಗಳವರೆಗೆ ನವೀಕರಿಸಲಾಗಿದೆ. ಆನಂದಿಸಿ!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'ಇಮೇಲ್ ಪರಿಶೀಲನೆ',
     'email.verifying': 'ನಿಮ್ಮ ಇಮೇಲ್ ಪರಿಶೀಲಿಸುವುದು. ಇದು ಕೆಲವು ಕ್ಷಣಗಳಲ್ಲಿ ಮಾತ್ರ ನಿರೀಕ್ಷಿಸುತ್ತದೆ...',
     'email.verified': 'ಉತ್ತಮ ಸುದ್ದಿ! ನಿಮ್ಮ ಇಮೇಲ್ ಪರಿಶೀಲಿತವಾಗಿದೆ!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level} on Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level}!',
+    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
     'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
-    'theWay.levelUp.emailGenre': 'You have achieved level {level} in the {genre} genre.',
+    'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
     'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'View Your Dashboard',
     // Notifications - General content comment
