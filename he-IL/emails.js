@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'שלום {username},',
     'email.welcome': 'ברוך הבא ליקום הספרותי!',
     'email.signature': 'בברכה,<br />צוות יקום הספרותי',
+    'email.footer.settingsHtml': 'ניתן לשנות את הגדרות הדוא"ל <a href="{link}">בהגדרות החשבון</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'ברוך הבא לסירוב!',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
