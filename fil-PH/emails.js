@@ -34,20 +34,20 @@ export default {
     storyteller {Storyteller}
     other {}
   } tier para sa susunod na {days} araw.\n\nMag-enjoy,\nLiterary Universe team`,
-    'email.adminUpgrade.messageHtml': `Na-upgrade namin ang iyong account sa {plan, select,
+    'email.adminUpgrade.messageHtml': `We have upgraded your account to {plan, select,
     explorer {Explorer}
     adventurer {Adventurer}
     storyteller {Storyteller}
     other {}
-  } tier para sa susunod na {days} araw. Mag-enjoy!`,
+  } tier for the next {days, number} days. Enjoy!`,
     'email.verification': 'Pagpapatunay ng E-mail',
     'email.verifying': 'Sinusuri ang iyong e-mail. Ito ay magtatagal ng ilang sandali lamang...',
     'email.verified': 'Magandang balita! Na-verify na ang iyong e-mail!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level} on Literary Universe!',
-    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level}!',
+    'theWay.levelUp.emailSubject': 'Congratulations! You\'ve reached Author Level {level, number} on Literary Universe!',
+    'theWay.levelUp.emailTitle': 'Congratulations! You\'ve reached Author Level {level, number}!',
     'theWay.levelUp.emailIntro': 'Your dedication to the craft of writing has been rewarded!',
-    'theWay.levelUp.emailGenre': 'You have achieved level {level} in the {genre} genre.',
+    'theWay.levelUp.emailGenre': 'You have achieved level {level, number} in the {genre} genre.',
     'theWay.levelUp.emailContinue': 'Continue your journey and unlock more achievements on The Way of the Author.',
     'theWay.levelUp.viewDashboard': 'View Your Dashboard',
     // Notifications - General content comment
