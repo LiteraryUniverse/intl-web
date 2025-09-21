@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Dobrý deň, {username},',
     'email.welcome': 'Vitajte v Literary Universe!',
     'email.signature': 'S úctou,<br />Tím Literary Universe',
+    'email.footer.settingsHtml': 'Nastavenia e-mailu môžete zmeniť v <a href="{link}">nastaveniach konta</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Vitajte na palube',
     'email.enrollAccount.messageHtml': 'Radi by sme vás pozvali do Literárneho vesmíru! Pripravili sme pre vás osobné konto, na ktorom máte prístup ku všetkým funkciám Literárneho vesmíru. Pridajte sa k nám pri vytváraní novej generácie tvorivého písania a čítania!',
