@@ -35,19 +35,19 @@ export default {
     other {}
   } niveau voor de komende {days} dagen.\n\nGeniet ervan,\nLiterary Universe team`,
     'email.adminUpgrade.messageHtml': `We hebben uw account geüpgraded naar {plan, select,
-    explorer {Ontdekkingsreiziger}
-    adventurer {Avonturier}
-    storyteller {Verhalenverteller}
+    explorer {Explorer}
+    adventurer {Adventurer}
+    storyteller {Storyteller}
     other {}
-  } niveau voor de komende {days} dagen. Geniet ervan!`,
+  } tier voor de komende {days, number} dagen. Veel plezier!`,
     'email.verification': 'E-mail verificatie',
     'email.verifying': 'Uw e-mail verifiëren. Dit duurt slechts een moment...',
     'email.verified': 'Geweldig nieuws! Uw e-mail is geverifieerd!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': 'Gefeliciteerd! U hebt het Auteurniveau {level} op Literary Universe bereikt!',
-    'theWay.levelUp.emailTitle': 'Gefeliciteerd! U hebt Auteursniveau {level}bereikt!',
+    'theWay.levelUp.emailSubject': 'Gefeliciteerd! U hebt het Auteurniveau {level, number} op Literair Universum bereikt!',
+    'theWay.levelUp.emailTitle': 'Gefeliciteerd! U hebt Auteursniveau {level, number}bereikt!',
     'theWay.levelUp.emailIntro': 'Uw toewijding aan de ambacht van het schrijven is beloond!',
-    'theWay.levelUp.emailGenre': 'U hebt niveau {level} bereikt in het genre {genre} .',
+    'theWay.levelUp.emailGenre': 'U hebt niveau {level, number} bereikt in het genre {genre} .',
     'theWay.levelUp.emailContinue': 'Vervolg uw reis en speel meer prestaties vrij op De Weg van de Auteur.',
     'theWay.levelUp.viewDashboard': 'Uw dashboard bekijken',
     // Notifications - General content comment
