@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Hallo {username},',
     'email.welcome': 'Willkommen im Literary Universe!',
     'email.signature': 'Mit freundlichen Grüßen,<br />Literary Universe Team',
+    'email.footer.settingsHtml': 'Sie können Ihre E-Mail-Einstellungen in <a href="{link}">Ihren Kontoeinstellungen</a> ändern.',
     // Enrollment
     'email.enrollAccount.welcome': 'Willkommen an Bord',
     'email.enrollAccount.messageHtml': 'Wir möchten Sie zu Literary Universe einladen! Wir haben für Sie ein persönliches Konto eingerichtet, mit dem Sie auf alle Funktionen von Literary Universe zugreifen können. Bitte helfen Sie uns, die nächste Generation des kreativen Schreibens und Lesens zu schaffen!',
