@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Sveiki {username},',
     'email.welcome': 'Sveiki atvykę į Literatūrinę Visatą!',
     'email.signature': 'Su pagarba,<br />Literatūrinės Visatos komanda',
+    'email.footer.settingsHtml': 'El. pašto nustatymus galite pakeisti <a href="{link}">paskyros nustatymuose</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Sveiki atvykę į mūsų komandą',
     'email.enrollAccount.messageHtml': 'Kviečiame į Literatūros visatą! Mes parengėme jums asmeninę paskyrą, kurioje galėsite naudotis visomis "Literary Universe" funkcijomis. Prisijunkite prie mūsų ir kurkite naują kūrybinio rašymo ir skaitymo kartą!',
