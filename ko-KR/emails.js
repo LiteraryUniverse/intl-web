@@ -34,20 +34,20 @@ export default {
     storyteller {이야기꾼}
     other {}
   } 티어로 업그레이드했습니다. 다음 {days} 일 동안 이용할 수 있습니다.\n\n즐겨주세요,\nLiterary Universe 팀`,
-    'email.adminUpgrade.messageHtml': `다음 {days} 일 동안 계정을 {plan, select,
-    explorer {Explorer}
-    adventurer {Adventurer}
-    storyteller {Storyteller}
+    'email.adminUpgrade.messageHtml': `다음 {plan, select,
+    explorer {익스플로러}
+    adventurer {모험가}
+    storyteller {스토리텔러}
     other {}
-  } 티어로 업그레이드했습니다. 즐기세요!`,
+  } 다음 {days, number} 일 동안 계정을 티어로 업그레이드했습니다. 즐기세요!`,
     'email.verification': '이메일 확인',
     'email.verifying': '이메일을 확인 중입니다. 잠시만 기다려주세요...',
     'email.verified': '좋은 소식입니다! 이메일이 확인되었습니다!',
     // The Way (Author Level Up)
-    'theWay.levelUp.emailSubject': '축하합니다! 문학 유니버스에서 작가 레벨 {level} 에 도달하셨습니다!',
-    'theWay.levelUp.emailTitle': '축하합니다! 작성자 레벨에 도달하셨습니다 {level}!',
+    'theWay.levelUp.emailSubject': '축하합니다! 문학 유니버스에서 작가 레벨에 도달하셨습니다 {level, number} !',
+    'theWay.levelUp.emailTitle': '축하합니다! 작성자 레벨에 도달하셨습니다 {level, number}!',
     'theWay.levelUp.emailIntro': '글쓰기 기술에 대한 여러분의 헌신이 보상을 받았습니다!',
-    'theWay.levelUp.emailGenre': '{genre} 장르에서 {level} 레벨을 달성했습니다.',
+    'theWay.levelUp.emailGenre': '{genre} 장르에서 레벨을 달성했습니다 {level, number} .',
     'theWay.levelUp.emailContinue': '저자의 길에서 여정을 계속하고 더 많은 도전 과제를 잠금 해제하세요.',
     'theWay.levelUp.viewDashboard': '대시보드 보기',
     // Notifications - General content comment
