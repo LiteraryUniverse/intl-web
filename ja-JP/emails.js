@@ -16,6 +16,7 @@ export default {
     'email.salutation': 'こんにちは{username},',
     'email.welcome': 'Literary Universeへようこそ!',
     'email.signature': 'よろしくお願いいたします。<br />Literary Universeチームより',
+    'email.footer.settingsHtml': 'Eメールの設定は<a href="{link}">アカウント</a>設定で変更できます。',
     // Enrollment
     'email.enrollAccount.welcome': 'ご加入ありがとうございます。',
     'email.enrollAccount.messageHtml': '文学ユニバースにご招待いたします！文学ユニバースの全機能にアクセスできる個人アカウントをご用意しました。私たちと一緒に、次世代のクリエイティブ・ライティングとリーディングを創造していきましょう！',
