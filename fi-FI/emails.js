@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Hei {username},',
     'email.welcome': 'Tervetuloa Literary Universeen!',
     'email.signature': 'Ystävällisin terveisin,<br />Literary Universen tiimi',
+    'email.footer.settingsHtml': 'Voit muuttaa sähköpostiasetuksiasi <a href="{link}">tilisi asetuksista</a>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Tervetuloa kyytiin',
     'email.enrollAccount.messageHtml': 'Haluamme kutsua sinut Literary Universeen! Valmistelimme sinulle henkilökohtaisen tilin, jolla pääset käyttämään kaikkia Literary Universen ominaisuuksia. Tule mukaan luomaan luovan kirjoittamisen ja lukemisen seuraavaa sukupolvea!',
