@@ -15,6 +15,7 @@ export default {
     'email.salutation': 'Halo {username},',
     'email.welcome': 'Selamat datang di Literary Universe!',
     'email.signature': 'Hormat kami,<br />Tim Literary Universe',
+    'email.footer.settingsHtml': 'Anda dapat mengubah pengaturan email di <a href="{link}">pengaturan akun Anda.</a>',
     // Enrollment
     'email.enrollAccount.welcome': 'Selamat datang',
     'email.enrollAccount.messageHtml': 'Kami ingin mengundang Anda ke Literary Universe! Kami telah menyiapkan akun pribadi untuk Anda, di mana Anda dapat mengakses semua fitur Literary Universe. Bergabunglah bersama kami untuk menciptakan generasi baru dalam menulis dan membaca yang kreatif!',
