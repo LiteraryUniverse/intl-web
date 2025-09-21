@@ -17,6 +17,8 @@ export default {
   'email.salutation': 'Hello {username},',
   'email.welcome': 'Welcome to Literary Universe!',
   'email.signature': 'Sincerely,<br />Literary Universe team',
+  'email.footer.settingsHtml':
+    'You can change your email settings in <a href="{link}">your account settings</a>.',
   // Enrollment
   'email.enrollAccount.welcome': 'Welcome aboard',
   'email.enrollAccount.messageHtml':
