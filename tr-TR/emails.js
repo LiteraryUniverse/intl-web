@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Hikaye: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Yazarın Yolu\'na devam edin',
     'email.notifications.firstStory.ctaStory': 'Hikayenizi açın',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Tebrikler! İlk hikayeniz yayınlandı ve Yazar Seviyesi 1\'e ulaştınız!',
+    'email.notifications.firstStoryPublished.title': '🎉 Yolculuğunuz Başlıyor!',
+    'email.notifications.firstStoryPublished.intro': 'İlk öykünüzü yayınladığınız için tebrikler! Bu, yaratıcılık yolculuğunuzda önemli bir dönüm noktası.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Yazarın Yolu\'nda Yazar Seviyesi 1\'e ulaştınız! Bu, hikaye anlatımında inanılmaz bir maceranın sadece başlangıcı.',
+    'email.notifications.firstStoryPublished.encouragement': 'Her büyük yazar ilk yayınlanan eseriyle başlamıştır. Yazmaya devam edin, büyümeye devam edin ve yaratıcılığınızın gelişmesine izin verin. Literary Universe topluluğu sizi her adımda desteklemek için burada.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Yazarın Yolunu Keşfedin',
+    'email.notifications.firstStoryPublished.ctaStory': 'Yayınlanan Hikayenizi Görüntüleyin',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'İlk evreniniz için tebrikler!',
     'email.notifications.firstUniverse.title': 'İlk evreninizi yarattığınız için tebrikler!',
