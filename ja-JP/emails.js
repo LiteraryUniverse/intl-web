@@ -15,13 +15,13 @@ export default {
     // New html email keys
     'email.salutation': 'こんにちは{username},',
     'email.welcome': 'Literary Universeへようこそ!',
-    'email.signature': 'よろしくお願いいたします。<br />Literary Universeチームより',
-    'email.footer.settingsHtml': 'Eメールの設定は<a href="{link}">アカウント</a>設定で変更できます。',
+    'email.signature': '敬具<br>、文学ユニバースチーム</br>',
+    'email.footer.settingsHtml': 'Eメールの設定は<link>アカウント</link>設定で変更できます。',
     // Enrollment
     'email.enrollAccount.welcome': 'ご加入ありがとうございます。',
     'email.enrollAccount.messageHtml': '文学ユニバースにご招待いたします！文学ユニバースの全機能にアクセスできる個人アカウントをご用意しました。私たちと一緒に、次世代のクリエイティブ・ライティングとリーディングを創造していきましょう！',
     'email.enrollAccount.button': 'アカウントにアクセスする',
-    'email.enrollAccount.signature': '<br />Literary Universe チーム一同、心よりお待ちしております。',
+    'email.enrollAccount.signature': '<br>文学ユニバースチーム、</br>お待ちしております。',
     // Reset password
     'email.resetPassword.messageHtml': 'あなたのアカウントのパスワード再設定のリクエストを受け取りました。下のボタンをクリックして手続きを続けてください。このリクエストを行っていない場合は、このメールを無視してもかまいませんが、セキュリティ設定を見直す良い機会かもしれません。',
     'email.resetPassword.button': 'パスワードの再設定',
