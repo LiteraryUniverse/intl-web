@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Dia duit {username},',
     'email.welcome': 'Fáilte go Domhan Liteartha!',
-    'email.signature': 'Le meas,<br />foireann Domhan Liteartha',
-    'email.footer.settingsHtml': 'You can change your email settings in <a href="{link}">your account settings</a>.',
+    'email.signature': 'Sincerely,<br>Literary Universe team</br>',
+    'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Fáilte go bord',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Rochtain ar do chuntas',
-    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Athshocraigh pasfhocal',
