@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Ciao {username},',
     'email.welcome': 'Benvenuto a Literary Universe!',
-    'email.signature': 'Cordialmente,<br />il team di Literary Universe',
-    'email.footer.settingsHtml': 'Può modificare le impostazioni dell\'e-mail nelle <a href="{link}">impostazioni del suo account</a>.',
+    'email.signature': 'Cordiali saluti<br>, team Universo Letterario</br>',
+    'email.footer.settingsHtml': 'Può modificare le impostazioni dell\'e-mail nelle <link>impostazioni del suo account</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Benvenuto/a a bordo',
     'email.enrollAccount.messageHtml': 'Vorremmo invitarla all\'Universo Letterario! Abbiamo preparato un account personale per lei, dove potrà accedere a tutte le funzioni di Literary Universe. Si unisca a noi per creare la prossima generazione di scrittura e lettura creativa!',
     'email.enrollAccount.button': 'Accedi al tuo account',
-    'email.enrollAccount.signature': 'Non vediamo l\'ora di vederla, team di Universo Letterario<br />',
+    'email.enrollAccount.signature': 'Non vediamo l\'ora di incontrarla<br>, team Universo Letterario</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Abbiamo ricevuto una richiesta di reimpostare la password del suo account. Clicchi sul pulsante sottostante per continuare il processo. Se non ha fatto questa richiesta, può ignorare questa e-mail, ma potrebbe essere un buon momento per rivedere le sue impostazioni di sicurezza.',
     'email.resetPassword.button': 'Reimposta password',
