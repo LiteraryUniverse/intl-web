@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Verhaal: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Ga verder op De Weg van de Auteur',
     'email.notifications.firstStory.ctaStory': 'Open uw verhaal',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': 'Gefeliciteerd! Uw eerste verhaal is gepubliceerd en u hebt Autorisatieniveau 1 bereikt!',
+    'email.notifications.firstStoryPublished.title': 'Uw reis begint!',
+    'email.notifications.firstStoryPublished.intro': 'Gefeliciteerd met de publicatie van uw eerste verhaal! Dit is een gedenkwaardige mijlpaal op uw creatieve reis.',
+    'email.notifications.firstStoryPublished.levelAchievement': 'U hebt niveau 1 van De Weg van de Auteur bereikt! Dit is nog maar het begin van een ongelooflijk avontuur in verhalen vertellen.',
+    'email.notifications.firstStoryPublished.encouragement': 'Elke grote auteur begon met zijn eerste gepubliceerde werk. Blijf schrijven, blijf groeien en laat uw creativiteit bloeien. De Literary Universe gemeenschap is er om u bij elke stap te steunen.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'De weg van de auteur verkennen',
+    'email.notifications.firstStoryPublished.ctaStory': 'Bekijk uw gepubliceerde verhaal',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gefeliciteerd met uw eerste universum!',
     'email.notifications.firstUniverse.title': 'Gefeliciteerd met het creëren van uw eerste universum!',
