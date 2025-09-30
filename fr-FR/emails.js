@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Histoire : {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Continuer sur La voie de l\'auteur',
     'email.notifications.firstStory.ctaStory': 'Ouvrez votre histoire',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Félicitations ! Votre première histoire est publiée et vous avez atteint le niveau d\'auteur 1 !',
+    'email.notifications.firstStoryPublished.title': '🎉 Votre voyage commence !',
+    'email.notifications.firstStoryPublished.intro': 'Félicitations pour la publication de votre première histoire ! C\'est une étape importante dans votre parcours créatif.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Vous avez atteint le niveau d\'auteur 1 sur la Voie de l\'auteur ! Ce n\'est que le début d\'une incroyable aventure dans la narration.',
+    'email.notifications.firstStoryPublished.encouragement': 'Tous les grands auteurs ont commencé par publier leur première œuvre. Continuez à écrire, à vous développer et à laisser votre créativité s\'épanouir. La communauté de l\'Univers littéraire est là pour vous soutenir à chaque étape.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Explorer la voie de l\'auteur',
+    'email.notifications.firstStoryPublished.ctaStory': 'Consultez votre article publié',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Félicitations pour votre premier univers !',
     'email.notifications.firstUniverse.title': 'Félicitations pour la création de votre premier univers !',
