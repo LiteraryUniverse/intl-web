@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'مرحبا {username}،',
     'email.welcome': 'مرحبًا بك في عالم الأدب!',
-    'email.signature': 'مع خالص التحية، فريق عالم الأدب<br />',
-    'email.footer.settingsHtml': 'يمكنك تغيير إعدادات بريدك الإلكتروني في <a href="{link}">إعدادات حسابك</a>.',
+    'email.signature': 'مع خالص<br>التقدير، فريق الكون الأدبي</br>',
+    'email.footer.settingsHtml': 'يمكنك تغيير إعدادات بريدك الإلكتروني في <link>إعدادات حسابك</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'مرحبًا بك على متن السفينة',
     'email.enrollAccount.messageHtml': 'نود أن ندعوك إلى عالم الأدب! لقد تقدمنا وقمنا بإعداد حساب شخصي لك حيث يمكنك الوصول إلى جميع ميزات عالم الأدب. يرجى الانضمام إلينا في إنشاء الجيل القادم من الكتابة والقراءة الإبداعية!',
     'email.enrollAccount.button': 'الوصول إلى حسابك',
-    'email.enrollAccount.signature': 'نحن نتطلع إلى رؤيتك،<br />فريق عالم الأدب فريق عالم الأدب',
+    'email.enrollAccount.signature': 'نحن نتطلع إلى رؤيتكم<br>يا فريق عالم الأدب</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'لقد تلقينا طلباً لإعادة تعيين كلمة المرور الخاصة بحسابك. يرجى النقر على الزر أدناه لمتابعة العملية. إذا لم تكن قد قدمت هذا الطلب، فيمكنك تجاهل هذا البريد الإلكتروني، ولكن قد يكون الوقت مناسبًا لمراجعة إعدادات الأمان الخاصة بك.',
     'email.resetPassword.button': 'إعادة تعيين كلمة المرور',
