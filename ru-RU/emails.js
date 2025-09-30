@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Здравствуйте {username},',
     'email.welcome': 'Добро пожаловать в Literary Universe!',
-    'email.signature': 'Искренне ваша,<br />команда Literary Universe',
-    'email.footer.settingsHtml': 'Вы можете изменить настройки электронной почты в <a href="{link}">настройках Вашей учетной записи</a>.',
+    'email.signature': 'Искренне<br>, команда "Литературной Вселенной</br>',
+    'email.footer.settingsHtml': 'Вы можете изменить настройки электронной почты в <link>настройках Вашей учетной записи</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Добро пожаловать на борт',
     'email.enrollAccount.messageHtml': 'Мы хотели бы пригласить вас в Literary Universe! Мы подготовили для вас персональную учётную запись, где вы сможете получить доступ ко всем возможностям Literary Universe. Пожалуйста, присоединяйтесь к нам в создании нового поколения творческого письма и чтения!',
     'email.enrollAccount.button': 'Перейти к учётной записи',
-    'email.enrollAccount.signature': 'Мы с нетерпением ждём встречи с вами, <br />команда Literary Universe',
+    'email.enrollAccount.signature': 'Мы с нетерпением ждем встречи с Вами<br>, команда Literary Universe</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Мы получили запрос на сброс пароля для вашей учётной записи. Пожалуйста, нажмите на кнопку ниже, чтобы продолжить процесс. Если вы не делали этого запроса, вы можете проигнорировать это письмо, но, возможно, сейчас самое время пересмотреть настройки безопасности.',
     'email.resetPassword.button': 'Сбросить пароль',
