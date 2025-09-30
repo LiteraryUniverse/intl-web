@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Hei {username},',
     'email.welcome': 'Tervetuloa Literary Universeen!',
-    'email.signature': 'Ystävällisin terveisin,<br />Literary Universen tiimi',
-    'email.footer.settingsHtml': 'Voit muuttaa sähköpostiasetuksiasi <a href="{link}">tilisi asetuksista</a>.',
+    'email.signature': 'Ystävällisin terveisin<br>,Literary Universe tiimi</br>',
+    'email.footer.settingsHtml': 'Voit muuttaa sähköpostiasetuksiasi <link>tilisi asetuksista</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Tervetuloa kyytiin',
     'email.enrollAccount.messageHtml': 'Haluamme kutsua sinut Literary Universeen! Valmistelimme sinulle henkilökohtaisen tilin, jolla pääset käyttämään kaikkia Literary Universen ominaisuuksia. Tule mukaan luomaan luovan kirjoittamisen ja lukemisen seuraavaa sukupolvea!',
     'email.enrollAccount.button': 'Avaa tilisi',
-    'email.enrollAccount.signature': 'Odotamme innolla tapaamistanne,<br />Literary Universe -tiimi.',
+    'email.enrollAccount.signature': 'Odotamme innolla tapaamistamme<br>,Literary Universe team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Olemme saaneet pyynnön tilisi salasanan palauttamisesta. Klikkaa alla olevaa painiketta jatkaaksesi prosessia. Jos et ole tehnyt tätä pyyntöä, voit jättää tämän sähköpostiviestin huomiotta, mutta saattaa olla hyvä aika tarkistaa suojausasetuksesi.',
     'email.resetPassword.button': 'Palauta salasana',
