@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Tarina: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Jatka aiheesta Kirjailijan tie',
     'email.notifications.firstStory.ctaStory': 'Avaa tarinasi',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Onnittelut! Ensimmäinen tarinasi on julkaistu ja saavutit Author Level 1 -tason!',
+    'email.notifications.firstStoryPublished.title': '🎉 Matkasi alkaa!',
+    'email.notifications.firstStoryPublished.intro': 'Onnittelut ensimmäisen tarinasi julkaisemisesta! Tämä on merkittävä virstanpylväs luovalla matkallasi.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Olet saavuttanut kirjailijan tason 1 Kirjailijan tiellä! Tämä on vasta alkua uskomattomalle seikkailulle tarinankerronnassa.',
+    'email.notifications.firstStoryPublished.encouragement': 'Jokainen suuri kirjailija aloitti ensimmäisestä julkaistusta teoksestaan. Jatka kirjoittamista, jatka kasvamista ja anna luovuutesi kukoistaa. Literary Universe -yhteisö on tukenasi joka vaiheessa.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Tutustu kirjailijan tiehen',
+    'email.notifications.firstStoryPublished.ctaStory': 'Näytä julkaistu tarinasi',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Onnittelut ensimmäisestä maailmankaikkeudestasi!',
     'email.notifications.firstUniverse.title': 'Onnittelut ensimmäisen universumin luomisesta!',
