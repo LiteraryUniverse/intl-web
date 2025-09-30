@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Historia: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Continuar en El camino del autor',
     'email.notifications.firstStory.ctaStory': 'Abra su historia',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 ¡Enhorabuena! ¡Su primera historia ha sido publicada y ha alcanzado el nivel de autor 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 ¡Su viaje comienza!',
+    'email.notifications.firstStoryPublished.intro': '¡Enhorabuena por publicar su primer relato! Se trata de un hito trascendental en su viaje creativo.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 ¡Ha alcanzado el nivel de autor 1 en El camino del autor! Esto no es más que el principio de una increíble aventura narrativa.',
+    'email.notifications.firstStoryPublished.encouragement': 'Todo gran autor empezó con su primera obra publicada. Siga escribiendo, siga creciendo y deje que florezca su creatividad. La comunidad del Universo Literario está aquí para apoyarle en cada paso del camino.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Explorar el camino del autor',
+    'email.notifications.firstStoryPublished.ctaStory': 'Ver su historia publicada',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': '¡Enhorabuena por su primer universo!',
     'email.notifications.firstUniverse.title': '¡Enhorabuena por crear su primer universo!',
