@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': '故事： {storyTitle}',
     'email.notifications.firstStory.ctaResources': '繼續作者之路',
     'email.notifications.firstStory.ctaStory': '開啟您的故事',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '恭喜您！您的第一篇故事已經發表，而且您已達到作者第一級！',
+    'email.notifications.firstStoryPublished.title': '🎉您的旅程開始了！',
+    'email.notifications.firstStoryPublished.intro': '恭喜您出版了您的第一篇作品！這是您創作旅程中重要的里程碑。',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟您已經達到《作者之道》的作者第一級！這只是說故事的驚人冒險的開始。',
+    'email.notifications.firstStoryPublished.encouragement': '每一位偉大的作家都是從第一部作品開始的。繼續寫作，繼續成長，讓您的創造力蓬勃發展。Literary Universe 社群會在這裡支持您的每一步。',
+    'email.notifications.firstStoryPublished.ctaTheWay': '探索作者之道',
+    'email.notifications.firstStoryPublished.ctaStory': '檢視您已發表的故事',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': '恭喜您的第一個宇宙！',
     'email.notifications.firstUniverse.title': '恭喜你創造了你的第一個宇宙！',
