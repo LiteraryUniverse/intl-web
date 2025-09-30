@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Cerita: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Lanjutkan ke Jalan Penulis',
     'email.notifications.firstStory.ctaStory': 'Buka cerita Anda',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Selamat! Cerita pertama Anda telah diterbitkan dan Anda telah mencapai Level Penulis 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Perjalanan Anda Dimulai!',
+    'email.notifications.firstStoryPublished.intro': 'Selamat atas penerbitan cerita pertama Anda! Ini adalah tonggak penting dalam perjalanan kreatif Anda.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Anda telah mencapai Penulis Level 1 di The Way of the Author! Ini hanyalah awal dari sebuah petualangan yang luar biasa dalam mendongeng.',
+    'email.notifications.firstStoryPublished.encouragement': 'Setiap penulis hebat memulai dengan karya pertama mereka yang diterbitkan. Teruslah menulis, teruslah berkembang, dan biarkan kreativitas Anda berkembang. Komunitas Literary Universe ada di sini untuk mendukung Anda di setiap langkah.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Jelajahi Jalan Sang Penulis',
+    'email.notifications.firstStoryPublished.ctaStory': 'Lihat Cerita Anda yang Telah Diterbitkan',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Selamat atas alam semesta pertama Anda!',
     'email.notifications.firstUniverse.title': 'Selamat telah menciptakan alam semesta pertama Anda!',
