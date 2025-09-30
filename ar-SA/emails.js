@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'القصة: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'تابع في طريق المؤلف',
     'email.notifications.firstStory.ctaStory': 'افتح قصتك',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 تهانينا! تم نشر قصتك الأولى ووصلت إلى مستوى المؤلف 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 تبدأ رحلتك!',
+    'email.notifications.firstStoryPublished.intro': 'تهانينا على نشر قصتك الأولى! هذه علامة فارقة في رحلتك الإبداعية.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 لقد وصلت إلى المستوى الأول للمؤلف في "طريق المؤلف"! هذه مجرد بداية مغامرة رائعة في رواية القصص.',
+    'email.notifications.firstStoryPublished.encouragement': 'بدأ كل مؤلف عظيم بأول عمل منشور له. استمر في الكتابة، واستمر في النمو، ودع إبداعك يزدهر. مجتمع الكون الأدبي هنا لدعمك في كل خطوة على الطريق.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'استكشف طريق المؤلف',
+    'email.notifications.firstStoryPublished.ctaStory': 'عرض قصتك المنشورة',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'تهانينا على كونك الأول!',
     'email.notifications.firstUniverse.title': 'تهانينا على إنشاء عالمك الأول!',
