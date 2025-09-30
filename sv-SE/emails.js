@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Berättelse: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Fortsätt på The Way of the Author',
     'email.notifications.firstStory.ctaStory': 'Öppna din berättelse',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Grattis! Din första berättelse är publicerad och du har nått författarnivå 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Din resa börjar!',
+    'email.notifications.firstStoryPublished.intro': 'Grattis till att du har publicerat din första berättelse! Det här är en viktig milstolpe i din kreativa resa.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Du har nått författarnivå 1 på The Way of the Author! Detta är bara början på ett otroligt äventyr i historieberättande.',
+    'email.notifications.firstStoryPublished.encouragement': 'Varje stor författare började med sitt första publicerade verk. Fortsätt att skriva, fortsätt att växa och låt din kreativitet blomstra. Literary Universe-gemenskapen finns här för att stödja dig varje steg på vägen.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Utforska författarens väg',
+    'email.notifications.firstStoryPublished.ctaStory': 'Se din publicerade berättelse',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gratulerar till ditt första universum!',
     'email.notifications.firstUniverse.title': 'Grattis till att ha skapat ditt första universum!',
