@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Tere {username},',
     'email.welcome': 'Tere tulemast Kirjanduslikku Universumisse!',
-    'email.signature': 'Parimate soovidega,<br />Kirjandusliku Universumi meeskond',
-    'email.footer.settingsHtml': 'Saate oma e-posti seadeid muuta <a href="{link}">oma konto seadetes</a>.',
+    'email.signature': 'Lugupidamisega<br>,Kirjanduse Universumi meeskond</br>',
+    'email.footer.settingsHtml': 'Saate oma e-posti seadeid muuta <link>oma konto seadetes</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Tere tulemast pardale',
     'email.enrollAccount.messageHtml': 'Kutsume teid kirjandusuniversumisse! Läksime edasi ja valmistasime teile isikliku konto, kus saate juurdepääsu kõikidele Literary Universe\'i funktsioonidele. Palun ühinege meiega loomingulise kirjutamise ja lugemise järgmise põlvkonna loomisel!',
     'email.enrollAccount.button': 'Ligipääs oma kontole',
-    'email.enrollAccount.signature': 'Ootame teid,<br />Kirjandusuniversumi meeskond.',
+    'email.enrollAccount.signature': 'Ootame teid<br>, Kirjandusuniversumi meeskond.</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Oleme saanud taotluse teie konto parooli lähtestamiseks. Palun klõpsake protsessi jätkamiseks alloleval nupul. Kui te ei ole seda taotlust esitanud, võite seda e-kirja ignoreerida, kuid võib-olla on hea aeg oma turvasätted üle vaadata.',
     'email.resetPassword.button': 'Lähtesta parool',
