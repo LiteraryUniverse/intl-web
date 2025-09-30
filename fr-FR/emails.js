@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Bonjour {username},',
     'email.welcome': 'Bienvenue dans L\'Univers Littéraire !',
-    'email.signature': 'Sincèrement,<br />L\'équipe de L\'Univers Littéraire',
-    'email.footer.settingsHtml': 'Vous pouvez modifier vos paramètres de messagerie dans les <a href="{link}">paramètres de votre compte</a>.',
+    'email.signature': 'Cordialement<br>, l\'équipe de l\'Univers littéraire</br>',
+    'email.footer.settingsHtml': 'Vous pouvez modifier vos paramètres de messagerie dans les <link>paramètres de votre compte</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Bienvenue à bord',
     'email.enrollAccount.messageHtml': 'Nous aimerions vous inviter à l\'Univers Littéraire ! Nous avons créé pour vous un compte personnel qui vous permettra d\'accéder à toutes les fonctionnalités de Literary Universe. Rejoignez-nous pour créer la prochaine génération d\'écriture et de lecture créatives !',
     'email.enrollAccount.button': 'Accéder à votre compte',
-    'email.enrollAccount.signature': 'Nous vous attendons avec impatience,<br />L\'équipe de l\'Univers Littéraire',
+    'email.enrollAccount.signature': 'Nous nous réjouissons de vous rencontrer<br>, l\'équipe de l\'Univers Littéraire</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Nous avons reçu une demande de réinitialisation du mot de passe de votre compte. Veuillez cliquer sur le bouton ci-dessous pour poursuivre la procédure. Si vous n\'avez pas fait cette demande, vous pouvez ignorer cet e-mail, mais il serait peut-être bon de revoir vos paramètres de sécurité.',
     'email.resetPassword.button': 'Réinitialiser le mot de passe',
