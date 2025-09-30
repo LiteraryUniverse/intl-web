@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Üdvözöljük {username},',
     'email.welcome': 'Üdvözöljük az Irodalmi Univerzumban!',
-    'email.signature': 'Üdvözlettel,<br />az Irodalmi Univerzum csapata',
-    'email.footer.settingsHtml': 'Az e-mail beállításokat a <a href="{link}">fiókbeállítások</a> között módosíthatja.',
+    'email.signature': 'Tisztelettel<br>,Irodalmi Univerzum csapata</br>',
+    'email.footer.settingsHtml': 'Az e-mail beállításokat a <link>fiókbeállítások</link> között módosíthatja.',
     // Enrollment
     'email.enrollAccount.welcome': 'Üdvözöljük a fedélzeten',
     'email.enrollAccount.messageHtml': 'Szeretettel meghívjuk Önt az Irodalmi Univerzumba! Előreléptünk és elkészítettünk Önnek egy személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum minden funkciójához. Kérjük, csatlakozzon hozzánk a kreatív írás és olvasás következő generációjának megteremtésében!',
     'email.enrollAccount.button': 'Fiókhoz való hozzáférés',
-    'email.enrollAccount.signature': 'Szeretettel várjuk Önöket,<br />Irodalmi Univerzum csapata',
+    'email.enrollAccount.signature': 'Várjuk Önöket<br>,Irodalmi Univerzum csapata</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Kaptunk egy kérést, hogy visszaállítsuk a jelszavát a fiókjához. Kérjük, kattintson az alábbi gombra a folyamat folytatásához. Ha még nem küldte el ezt a kérést, akkor figyelmen kívül hagyhatja ezt az e-mailt, de talán itt az ideje, hogy felülvizsgálja a biztonsági beállításait.',
     'email.resetPassword.button': 'Jelszó visszaállítása',
