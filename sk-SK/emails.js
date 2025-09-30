@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Príbeh: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Pokračovať na stránke Cesta autora',
     'email.notifications.firstStory.ctaStory': 'Otvorte svoj príbeh',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Gratulujeme! Váš prvý príbeh je publikovaný a dosiahli ste autorskú úroveň 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Vaša cesta sa začína!',
+    'email.notifications.firstStoryPublished.intro': 'Gratulujeme k vydaniu prvého príbehu! Je to významný míľnik na vašej tvorivej ceste.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Dosiahli ste autorskú úroveň 1 na Ceste autora! Toto je len začiatok neuveriteľného dobrodružstva v rozprávaní príbehov.',
+    'email.notifications.firstStoryPublished.encouragement': 'Každý veľký autor začínal svojím prvým publikovaným dielom. Píšte ďalej, rozvíjajte sa a nechajte svoju kreativitu prekvitať. Komunita Literárneho vesmíru je tu, aby vás podporovala na každom kroku.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Preskúmajte Cesta autora',
+    'email.notifications.firstStoryPublished.ctaStory': 'Zobraziť váš publikovaný príbeh',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gratulujeme k vášmu prvému vesmíru!',
     'email.notifications.firstUniverse.title': 'Gratulujeme k vytvoreniu prvého vesmíru!',
