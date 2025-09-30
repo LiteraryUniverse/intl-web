@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'হ্যালো {username},',
     'email.welcome': 'সাহিত্যিক বিশ্বে স্বাগতম!',
-    'email.signature': 'সত্যিই,<br />সাহিত্যিক বিশ্ব দল',
-    'email.footer.settingsHtml': 'You can change your email settings in <a href="{link}">your account settings</a>.',
+    'email.signature': 'Sincerely,<br>Literary Universe team</br>',
+    'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'স্বাগতম বোর্ডে',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'আপনার অ্যাকাউন্ট অ্যাক্সেস করুন',
-    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'পাসওয়ার্ড রিসেট করুন',
