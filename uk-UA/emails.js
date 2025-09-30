@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Історія: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Продовжити читання "Шлях автора',
     'email.notifications.firstStory.ctaStory': 'Відкрий свою історію',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Вітаємо! Ваше перше оповідання опубліковано, і ви досягли авторського рівня 1!',
+    'email.notifications.firstStoryPublished.title': 'Твоя подорож починається!',
+    'email.notifications.firstStoryPublished.intro': 'Вітаємо з публікацією вашого першого оповідання! Це важлива віха на вашому творчому шляху.',
+    'email.notifications.firstStoryPublished.levelAchievement': 'Ви досягли 1-го авторського рівня на "Шляху автора"! Це лише початок неймовірної пригоди в сторітелінгу.',
+    'email.notifications.firstStoryPublished.encouragement': 'Кожен великий автор починав зі своєї першої публікації. Продовжуйте писати, розвивайтеся і нехай ваша творчість процвітає. Спільнота "Літературного Всесвіту" готова підтримати вас на кожному кроці.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Дослідити шлях автора',
+    'email.notifications.firstStoryPublished.ctaStory': 'Переглянути свою опубліковану історію',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Вітаємо з першим всесвітом!',
     'email.notifications.firstUniverse.title': 'Вітаємо зі створенням вашого першого всесвіту!',
