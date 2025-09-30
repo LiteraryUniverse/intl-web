@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': '您好， {username}，',
     'email.welcome': '歡迎來到文學宇宙！',
-    'email.signature': '此致，<br />文學宇宙團隊',
-    'email.footer.settingsHtml': '您可以在<a href="{link}">帳戶設定</a>中變更電子郵件設定。',
+    'email.signature': '誠摯的<br>文學宇宙團隊</br>',
+    'email.footer.settingsHtml': '您可以在<link>帳戶設定</link>中變更電子郵件設定。',
     // Enrollment
     'email.enrollAccount.welcome': '歡迎加入',
     'email.enrollAccount.messageHtml': '我們誠摯地邀請您加入 Literary Universe！我們為您準備了一個個人帳戶，您可以使用 Literary Universe 的所有功能。請與我們一起創造下一代的創意寫作與閱讀！',
     'email.enrollAccount.button': '訪問您的帳戶',
-    'email.enrollAccount.signature': '我們期待與您見面，<br />Literary Universe 團隊',
+    'email.enrollAccount.signature': '我們期待與您見面<br>，Literary Universe 團隊</br>',
     // Reset password
     'email.resetPassword.messageHtml': '我們收到了重設您帳戶密碼的請求。請點擊下面的按鈕，繼續處理。如果您沒有提出此要求，您可以忽略此電子郵件，但現在可能是檢視您的安全設定的好時機。',
     'email.resetPassword.button': '重設密碼',
