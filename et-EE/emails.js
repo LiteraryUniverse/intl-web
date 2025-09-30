@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Lugu: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Jätkake teemal "Autori tee',
     'email.notifications.firstStory.ctaStory': 'Avage oma lugu',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Palju õnne! Sinu esimene lugu on avaldatud ja sa jõudsid autori 1. tasemele!',
+    'email.notifications.firstStoryPublished.title': '🎉 Sinu teekond algab!',
+    'email.notifications.firstStoryPublished.intro': 'Palju õnne oma esimese loo avaldamise puhul! See on oluline verstapost teie loomingulisel teekonnal.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Sa oled jõudnud autori tee 1. tasemele! See on alles algus uskumatule seiklusele lugude jutustamises.',
+    'email.notifications.firstStoryPublished.encouragement': 'Iga suur autor alustas oma esimese avaldatud teosega. Jätkake kirjutamist, kasvage ja laske oma loovusel õitseda. Kirjandusuniversumi kogukond on siin, et toetada teid igal sammul.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Uurige autori teed',
+    'email.notifications.firstStoryPublished.ctaStory': 'Vaata oma avaldatud lugu',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Palju õnne esimese universumi puhul!',
     'email.notifications.firstUniverse.title': 'Palju õnne oma esimese universumi loomise puhul!',
