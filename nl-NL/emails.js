@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Hallo {username},',
     'email.welcome': 'Welkom bij het Literair Universum!',
-    'email.signature': 'Met vriendelijke groet,<br />Team Literair Universum',
-    'email.footer.settingsHtml': 'U kunt uw e-mailinstellingen wijzigen in <a href="{link}">uw accountinstellingen</a>.',
+    'email.signature': 'Met vriendelijke groet<br>,Literair Universum team</br>',
+    'email.footer.settingsHtml': 'U kunt uw e-mailinstellingen wijzigen in <link>uw accountinstellingen</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Welkom aan boord',
     'email.enrollAccount.messageHtml': 'Wij willen u graag uitnodigen voor Literary Universe! We hebben een persoonlijke account voor u aangemaakt waarmee u toegang krijgt tot alle functies van Literary Universe. Doe met ons mee om de volgende generatie creatief schrijven en lezen te creëren!',
     'email.enrollAccount.button': 'Toegang tot je account',
-    'email.enrollAccount.signature': 'We kijken uit naar uw komst,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We kijken uit naar uw komst<br>, Literair Universum-team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Wij hebben een verzoek ontvangen om uw wachtwoord voor uw account opnieuw in te stellen. Klik op de knop hieronder om het proces voort te zetten. Als u dit verzoek niet hebt gedaan, kunt u deze e-mail negeren, maar het is misschien een goed moment om uw beveiligingsinstellingen te controleren.',
     'email.resetPassword.button': 'Wachtwoord resetten',
