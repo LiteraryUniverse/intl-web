@@ -14,13 +14,13 @@ To activate your account, simply click the link below:\n\n{url}`,
     // New html email keys
     'email.salutation': 'Dobrý den {username},',
     'email.welcome': 'Vítejte na Literary Universe!',
-    'email.signature': 'S přáním hezkého dne,<br />Literary Universe tým',
-    'email.footer.settingsHtml': 'Nastavení e-mailu můžete změnit v <a href="{link}">nastavení účtu</a>.',
+    'email.signature': 'S pozdravem<br>,tým Literary Universe</br>',
+    'email.footer.settingsHtml': 'Nastavení e-mailu můžete změnit v <link>nastavení účtu</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Vítejte na palubě',
     'email.enrollAccount.messageHtml': 'Rádi bychom vás pozvali do Literárního vesmíru! Připravili jsme pro vás osobní účet, kde máte přístup ke všem funkcím Literárního vesmíru. Připojte se k nám a vytvořte novou generaci tvůrčího psaní a čtení!',
     'email.enrollAccount.button': 'Zpřístupnit účet',
-    'email.enrollAccount.signature': 'Těšíme se na vás,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Těšíme se na vás,<br>tým Literary Universe</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Obdrželi jsme žádost o obnovení hesla k vašemu účtu. Pro pokračování v procesu klikněte na tlačítko níže. Pokud jste tuto žádost nepodali, můžete tento e-mail ignorovat, ale možná je vhodný čas zkontrolovat nastavení zabezpečení.',
     'email.resetPassword.button': 'Resetovat heslo',
