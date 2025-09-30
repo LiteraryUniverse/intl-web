@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Merhaba {username},',
     'email.welcome': 'Edebi Evren\'e Hoş Geldiniz!',
-    'email.signature': 'Saygılarımızla,<br />Edebi Evren ekibi',
-    'email.footer.settingsHtml': 'E-posta ayarlarınızı <a href="{link}">hesap ayarlarınızdan</a> değiştirebilirsiniz.',
+    'email.signature': 'Saygılarımızla<br>, Literary Universe ekibi</br>',
+    'email.footer.settingsHtml': 'E-posta ayarlarınızı <link>hesap ayarlarınızdan</link> değiştirebilirsiniz.',
     // Enrollment
     'email.enrollAccount.welcome': 'Aramıza hoş geldiniz',
     'email.enrollAccount.messageHtml': 'Sizi Edebiyat Evreni\'ne davet etmek istiyoruz! Sizin için Edebiyat Evreni\'nin tüm özelliklerine erişebileceğiniz kişisel bir hesap hazırladık. Lütfen yeni nesil yaratıcı yazma ve okumayı yaratmada bize katılın!',
     'email.enrollAccount.button': 'Hesabınıza erişin',
-    'email.enrollAccount.signature': 'Sizleri de aramızda görmek için sabırsızlanıyoruz,<br />Edebiyat Evreni ekibi',
+    'email.enrollAccount.signature': 'Sizi görmek için sabırsızlanıyoruz<br>, Literary Universe ekibi</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Hesabınız için şifrenizi sıfırlama talebinizi aldık. İşleme devam etmek için lütfen aşağıdaki düğmeye tıklayın. Bu talebi yapmadıysanız, bu e-postayı görmezden gelebilirsiniz, ancak güvenlik ayarlarınızı gözden geçirmek için iyi bir zaman olabilir.',
     'email.resetPassword.button': 'Şifreyi sıfırla',
