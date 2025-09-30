@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': '스토리: {storyTitle}',
     'email.notifications.firstStory.ctaResources': '저자의 길 계속하기',
     'email.notifications.firstStory.ctaStory': '스토리 열기',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '축하합니다! 첫 번째 스토리가 게시되어 작가 레벨 1에 도달했습니다!',
+    'email.notifications.firstStoryPublished.title': '🎉 여정이 시작됩니다!',
+    'email.notifications.firstStoryPublished.intro': '첫 번째 스토리를 게시하게 된 것을 축하합니다! 이것은 여러분의 창작 여정에서 중요한 이정표입니다.',
+    'email.notifications.firstStoryPublished.levelAchievement': '작가의 길에서 작가 레벨 1에 도달했습니다! 이것은 스토리텔링의 놀라운 모험의 시작에 불과합니다.',
+    'email.notifications.firstStoryPublished.encouragement': '모든 위대한 작가는 첫 번째 출판 작품으로 시작했습니다. 계속 글을 쓰고, 계속 성장하고, 창의력을 마음껏 발휘하세요. 문학 세계 커뮤니티가 모든 단계에서 여러분을 지원합니다.',
+    'email.notifications.firstStoryPublished.ctaTheWay': '저자의 길 살펴보기',
+    'email.notifications.firstStoryPublished.ctaStory': '게시된 스토리 보기',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': '첫 번째 우주를 축하합니다!',
     'email.notifications.firstUniverse.title': '첫 번째 유니버스 생성을 축하합니다!',
