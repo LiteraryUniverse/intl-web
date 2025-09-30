@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Xin chào {username},',
     'email.welcome': 'Chào mừng bạn đến Vũ trụ Văn học!',
-    'email.signature': 'Trân trọng,<br />Nhóm Vũ trụ Văn học',
-    'email.footer.settingsHtml': 'Bạn có thể thay đổi cài đặt email của mình trong <a href="{link}">phần cài đặt tài khoản</a>.',
+    'email.signature': 'Thân mến,<br>Đội ngũ Literary Universe</br>',
+    'email.footer.settingsHtml': 'Bạn có thể thay đổi cài đặt email của mình trong <link>phần cài đặt tài khoản</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Chào mừng bạn đã gia nhập',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Truy cập tài khoản của bạn',
-    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Chúng tôi rất mong được gặp bạn,<br>Đội ngũ Literary Universe</br>.',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Đặt lại mật khẩu',
