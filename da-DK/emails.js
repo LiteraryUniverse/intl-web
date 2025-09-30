@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Historie: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Fortsæt på Forfatterens vej',
     'email.notifications.firstStory.ctaStory': 'Åbn din historie',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Tillykke med det! Din første historie er udgivet, og du har nået forfatterniveau 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Din rejse begynder!',
+    'email.notifications.firstStoryPublished.intro': 'Tillykke med udgivelsen af din første historie! Det er en vigtig milepæl på din kreative rejse.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Du er nået til forfatterniveau 1 på Forfatterens vej! Dette er kun begyndelsen på et utroligt eventyr i historiefortælling.',
+    'email.notifications.firstStoryPublished.encouragement': 'Alle store forfattere startede med deres første udgivne værk. Bliv ved med at skrive, bliv ved med at vokse, og lad din kreativitet blomstre. Literary Universe-fællesskabet er her for at støtte dig hvert skridt på vejen.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Udforsk forfatterens vej',
+    'email.notifications.firstStoryPublished.ctaStory': 'Se din publicerede historie',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Tillykke med dit første univers!',
     'email.notifications.firstUniverse.title': 'Tillykke med at have skabt dit første univers!',
