@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Câu chuyện: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Tiếp tục trên Con đường của Nhà văn',
     'email.notifications.firstStory.ctaStory': 'Mở câu chuyện của bạn',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Chúc mừng! Bài viết đầu tiên của bạn đã được đăng tải và bạn đã đạt đến Cấp độ Tác giả 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Hành trình của bạn bắt đầu!',
+    'email.notifications.firstStoryPublished.intro': 'Chúc mừng bạn đã xuất bản câu chuyện đầu tiên của mình! Đây là một cột mốc quan trọng trong hành trình sáng tạo của bạn.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Bạn đã đạt đến Cấp độ 1 của Tác giả trên The Way of the Author! Đây chỉ là bước khởi đầu của một hành trình kể chuyện đầy kỳ diệu.',
+    'email.notifications.firstStoryPublished.encouragement': 'Mọi nhà văn vĩ đại đều bắt đầu với tác phẩm đầu tay của mình. Hãy tiếp tục viết, tiếp tục phát triển và để sự sáng tạo của bạn nở rộ. Cộng đồng Literary Universe luôn sẵn sàng hỗ trợ bạn trên từng bước đường.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Khám phá con đường của tác giả',
+    'email.notifications.firstStoryPublished.ctaStory': 'Xem câu chuyện đã đăng của bạn',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Chúc mừng bạn đã tạo ra vũ trụ đầu tiên của mình!',
     'email.notifications.firstUniverse.title': 'Chúc mừng bạn đã tạo ra vũ trụ đầu tiên của mình!',
