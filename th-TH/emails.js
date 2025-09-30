@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'สวัสดี {username},',
     'email.welcome': 'ยินดีต้อนรับสู่จักรวาลวรรณกรรม!',
-    'email.signature': 'ด้วยความเคารพอย่างสุภาพ<br />ทีมงานจักรวาลวรรณกรรม',
-    'email.footer.settingsHtml': 'คุณสามารถเปลี่ยนการตั้งค่าอีเมลของคุณได้ใน<a href="{link}">หน้าการตั้งค่าบัญชีของคุณ</a>',
+    'email.signature': 'ด้วยความเคารพ,<br>ทีมวรรณกรรมจักรวาล</br>',
+    'email.footer.settingsHtml': 'คุณสามารถเปลี่ยนการตั้งค่าอีเมลของคุณได้ใน<link>หน้าการตั้งค่าบัญชีของคุณ</link>',
     // Enrollment
     'email.enrollAccount.welcome': 'ยินดีต้อนรับเข้าสู่ทางเรือ',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'เข้าสู่บัญชีของคุณ',
-    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'เราตั้งตารอที่จะได้พบคุณ,<br>ทีมวรรณกรรมจักรวาล</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'รีเซ็ตรหัสผ่าน',
