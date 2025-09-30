@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Historia: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Proszę kontynuować Drogę autora',
     'email.notifications.firstStory.ctaStory': 'Proszę otworzyć swoją historię',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': 'Gratulacje! Pana pierwsze opowiadanie zostało opublikowane i osiągnął Pan poziom autora 1!',
+    'email.notifications.firstStoryPublished.title': 'Rozpoczyna się Państwa podróż!',
+    'email.notifications.firstStoryPublished.intro': 'Gratulujemy opublikowania pierwszego opowiadania! To ważny kamień milowy w Pani twórczej podróży.',
+    'email.notifications.firstStoryPublished.levelAchievement': 'Osiągnęli Państwo Poziom Autora 1 na Drodze Autora! To dopiero początek niesamowitej przygody ze storytellingiem.',
+    'email.notifications.firstStoryPublished.encouragement': 'Każdy wielki autor zaczynał od swojego pierwszego opublikowanego dzieła. Proszę pisać dalej, rozwijać się i pozwolić swojej kreatywności rozkwitnąć. Społeczność Literary Universe jest tutaj, aby wspierać Państwa na każdym kroku.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Poznaj drogę autora',
+    'email.notifications.firstStoryPublished.ctaStory': 'Proszę wyświetlić opublikowaną historię',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gratulujemy pierwszego wszechświata!',
     'email.notifications.firstUniverse.title': 'Gratulujemy stworzenia pierwszego uniwersum!',
