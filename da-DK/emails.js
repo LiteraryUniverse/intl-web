@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Hej {username},',
     'email.welcome': 'Velkommen til Litterære Universe!',
-    'email.signature': 'Venlig hilsen,<br />Literary Universe-teamet',
-    'email.footer.settingsHtml': 'Du kan ændre dine e-mailindstillinger i <a href="{link}">dine kontoindstillinger</a>.',
+    'email.signature': 'Med venlig hilsen<br>,Literary Universe team</br>',
+    'email.footer.settingsHtml': 'Du kan ændre dine e-mailindstillinger i <link>dine kontoindstillinger</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Velkommen om bord',
     'email.enrollAccount.messageHtml': 'Vi vil gerne invitere dig til Litterært Univers! Vi har oprettet en personlig konto til dig, hvor du kan få adgang til alle funktioner i Literary Universe. Vær med til at skabe den næste generation af kreativ skrivning og læsning!',
     'email.enrollAccount.button': 'Få adgang til din konto',
-    'email.enrollAccount.signature': 'Vi glæder os til at se dig,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Vi glæder os til at se dig<br>,Literary Universe team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Vi har modtaget en anmodning om at nulstille din adgangskode til din konto. Klik på knappen nedenfor for at fortsætte processen. Hvis du ikke har anmodet om dette, kan du ignorere denne e-mail, men det er måske et godt tidspunkt at gennemgå dine sikkerhedsindstillinger.',
     'email.resetPassword.button': 'Nulstil adgangskode',
