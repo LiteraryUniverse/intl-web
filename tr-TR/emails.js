@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Merhaba {username},',
     'email.welcome': 'Edebi Evren\'e Hoş Geldiniz!',
-    'email.signature': 'Saygılarımızla,<br />Edebi Evren ekibi',
-    'email.footer.settingsHtml': 'E-posta ayarlarınızı <a href="{link}">hesap ayarlarınızdan</a> değiştirebilirsiniz.',
+    'email.signature': 'Saygılarımızla<br>, Literary Universe ekibi</br>',
+    'email.footer.settingsHtml': 'E-posta ayarlarınızı <link>hesap ayarlarınızdan</link> değiştirebilirsiniz.',
     // Enrollment
     'email.enrollAccount.welcome': 'Aramıza hoş geldiniz',
     'email.enrollAccount.messageHtml': 'Sizi Edebiyat Evreni\'ne davet etmek istiyoruz! Sizin için Edebiyat Evreni\'nin tüm özelliklerine erişebileceğiniz kişisel bir hesap hazırladık. Lütfen yeni nesil yaratıcı yazma ve okumayı yaratmada bize katılın!',
     'email.enrollAccount.button': 'Hesabınıza erişin',
-    'email.enrollAccount.signature': 'Sizleri de aramızda görmek için sabırsızlanıyoruz,<br />Edebiyat Evreni ekibi',
+    'email.enrollAccount.signature': 'Sizi görmek için sabırsızlanıyoruz<br>, Literary Universe ekibi</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Hesabınız için şifrenizi sıfırlama talebinizi aldık. İşleme devam etmek için lütfen aşağıdaki düğmeye tıklayın. Bu talebi yapmadıysanız, bu e-postayı görmezden gelebilirsiniz, ancak güvenlik ayarlarınızı gözden geçirmek için iyi bir zaman olabilir.',
     'email.resetPassword.button': 'Şifreyi sıfırla',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Hikaye: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Yazarın Yolu\'na devam edin',
     'email.notifications.firstStory.ctaStory': 'Hikayenizi açın',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Tebrikler! İlk hikayeniz yayınlandı ve Yazar Seviyesi 1\'e ulaştınız!',
+    'email.notifications.firstStoryPublished.title': '🎉 Yolculuğunuz Başlıyor!',
+    'email.notifications.firstStoryPublished.intro': 'İlk öykünüzü yayınladığınız için tebrikler! Bu, yaratıcılık yolculuğunuzda önemli bir dönüm noktası.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Yazarın Yolu\'nda Yazar Seviyesi 1\'e ulaştınız! Bu, hikaye anlatımında inanılmaz bir maceranın sadece başlangıcı.',
+    'email.notifications.firstStoryPublished.encouragement': 'Her büyük yazar ilk yayınlanan eseriyle başlamıştır. Yazmaya devam edin, büyümeye devam edin ve yaratıcılığınızın gelişmesine izin verin. Literary Universe topluluğu sizi her adımda desteklemek için burada.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Yazarın Yolunu Keşfedin',
+    'email.notifications.firstStoryPublished.ctaStory': 'Yayınlanan Hikayenizi Görüntüleyin',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'İlk evreniniz için tebrikler!',
     'email.notifications.firstUniverse.title': 'İlk evreninizi yarattığınız için tebrikler!',

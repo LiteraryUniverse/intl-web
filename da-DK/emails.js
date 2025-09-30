@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Hej {username},',
     'email.welcome': 'Velkommen til Litterære Universe!',
-    'email.signature': 'Venlig hilsen,<br />Literary Universe-teamet',
-    'email.footer.settingsHtml': 'Du kan ændre dine e-mailindstillinger i <a href="{link}">dine kontoindstillinger</a>.',
+    'email.signature': 'Med venlig hilsen<br>,Literary Universe team</br>',
+    'email.footer.settingsHtml': 'Du kan ændre dine e-mailindstillinger i <link>dine kontoindstillinger</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Velkommen om bord',
     'email.enrollAccount.messageHtml': 'Vi vil gerne invitere dig til Litterært Univers! Vi har oprettet en personlig konto til dig, hvor du kan få adgang til alle funktioner i Literary Universe. Vær med til at skabe den næste generation af kreativ skrivning og læsning!',
     'email.enrollAccount.button': 'Få adgang til din konto',
-    'email.enrollAccount.signature': 'Vi glæder os til at se dig,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Vi glæder os til at se dig<br>,Literary Universe team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Vi har modtaget en anmodning om at nulstille din adgangskode til din konto. Klik på knappen nedenfor for at fortsætte processen. Hvis du ikke har anmodet om dette, kan du ignorere denne e-mail, men det er måske et godt tidspunkt at gennemgå dine sikkerhedsindstillinger.',
     'email.resetPassword.button': 'Nulstil adgangskode',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Historie: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Fortsæt på Forfatterens vej',
     'email.notifications.firstStory.ctaStory': 'Åbn din historie',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Tillykke med det! Din første historie er udgivet, og du har nået forfatterniveau 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Din rejse begynder!',
+    'email.notifications.firstStoryPublished.intro': 'Tillykke med udgivelsen af din første historie! Det er en vigtig milepæl på din kreative rejse.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Du er nået til forfatterniveau 1 på Forfatterens vej! Dette er kun begyndelsen på et utroligt eventyr i historiefortælling.',
+    'email.notifications.firstStoryPublished.encouragement': 'Alle store forfattere startede med deres første udgivne værk. Bliv ved med at skrive, bliv ved med at vokse, og lad din kreativitet blomstre. Literary Universe-fællesskabet er her for at støtte dig hvert skridt på vejen.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Udforsk forfatterens vej',
+    'email.notifications.firstStoryPublished.ctaStory': 'Se din publicerede historie',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Tillykke med dit første univers!',
     'email.notifications.firstUniverse.title': 'Tillykke med at have skabt dit første univers!',

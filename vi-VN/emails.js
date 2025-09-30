@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Xin chào {username},',
     'email.welcome': 'Chào mừng bạn đến Vũ trụ Văn học!',
-    'email.signature': 'Trân trọng,<br />Nhóm Vũ trụ Văn học',
-    'email.footer.settingsHtml': 'Bạn có thể thay đổi cài đặt email của mình trong <a href="{link}">phần cài đặt tài khoản</a>.',
+    'email.signature': 'Thân mến,<br>Đội ngũ Literary Universe</br>',
+    'email.footer.settingsHtml': 'Bạn có thể thay đổi cài đặt email của mình trong <link>phần cài đặt tài khoản</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Chào mừng bạn đã gia nhập',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Truy cập tài khoản của bạn',
-    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'Chúng tôi rất mong được gặp bạn,<br>Đội ngũ Literary Universe</br>.',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'Đặt lại mật khẩu',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Câu chuyện: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Tiếp tục trên Con đường của Nhà văn',
     'email.notifications.firstStory.ctaStory': 'Mở câu chuyện của bạn',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Chúc mừng! Bài viết đầu tiên của bạn đã được đăng tải và bạn đã đạt đến Cấp độ Tác giả 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Hành trình của bạn bắt đầu!',
+    'email.notifications.firstStoryPublished.intro': 'Chúc mừng bạn đã xuất bản câu chuyện đầu tiên của mình! Đây là một cột mốc quan trọng trong hành trình sáng tạo của bạn.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Bạn đã đạt đến Cấp độ 1 của Tác giả trên The Way of the Author! Đây chỉ là bước khởi đầu của một hành trình kể chuyện đầy kỳ diệu.',
+    'email.notifications.firstStoryPublished.encouragement': 'Mọi nhà văn vĩ đại đều bắt đầu với tác phẩm đầu tay của mình. Hãy tiếp tục viết, tiếp tục phát triển và để sự sáng tạo của bạn nở rộ. Cộng đồng Literary Universe luôn sẵn sàng hỗ trợ bạn trên từng bước đường.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Khám phá con đường của tác giả',
+    'email.notifications.firstStoryPublished.ctaStory': 'Xem câu chuyện đã đăng của bạn',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Chúc mừng bạn đã tạo ra vũ trụ đầu tiên của mình!',
     'email.notifications.firstUniverse.title': 'Chúc mừng bạn đã tạo ra vũ trụ đầu tiên của mình!',

@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Γεια σας {username},',
     'email.welcome': 'Καλωσορίσατε στο Λογοτεχνικό Σύμπαν!',
-    'email.signature': 'Με εκτίμηση,<br />Ομάδα Λογοτεχνικού Σύμπαντος',
-    'email.footer.settingsHtml': 'Μπορείτε να αλλάξετε τις ρυθμίσεις ηλεκτρονικού ταχυδρομείου στις <a href="{link}">ρυθμίσεις του λογαριασμού</a> σας.',
+    'email.signature': 'Ειλικρινά<br>, ομάδα Literary Universe</br>',
+    'email.footer.settingsHtml': 'Μπορείτε να αλλάξετε τις ρυθμίσεις ηλεκτρονικού ταχυδρομείου στις <link>ρυθμίσεις του λογαριασμού</link> σας.',
     // Enrollment
     'email.enrollAccount.welcome': 'Καλωσορίσατε στο σκάφος',
     'email.enrollAccount.messageHtml': 'Θα θέλαμε να σας προσκαλέσουμε στο Λογοτεχνικό Σύμπαν! Προχωρήσαμε και ετοιμάσαμε έναν προσωπικό λογαριασμό για εσάς όπου μπορείτε να έχετε πρόσβαση σε όλες τις λειτουργίες του Literary Universe. Παρακαλούμε ελάτε μαζί μας για να δημιουργήσουμε την επόμενη γενιά της δημιουργικής γραφής και ανάγνωσης!',
     'email.enrollAccount.button': 'Πρόσβαση στον λογαριασμό σας',
-    'email.enrollAccount.signature': 'Ανυπομονούμε να σας δούμε,<br />Ομάδα του Λογοτεχνικού Σύμπαντος',
+    'email.enrollAccount.signature': 'Ανυπομονούμε να σας δούμε<br>, ομάδα Literary Universe</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Λάβαμε ένα αίτημα για επαναφορά του κωδικού πρόσβασης για το λογαριασμό σας. Παρακαλούμε κάντε κλικ στο παρακάτω κουμπί για να συνεχίσετε τη διαδικασία. Εάν δεν έχετε υποβάλει αυτό το αίτημα, μπορείτε να αγνοήσετε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου, αλλά ίσως είναι μια καλή στιγμή να επανεξετάσετε τις ρυθμίσεις ασφαλείας σας.',
     'email.resetPassword.button': 'Επαναφορά κωδικού πρόσβασης',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Ιστορία: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Συνεχίστε στο Ο δρόμος του συγγραφέα',
     'email.notifications.firstStory.ctaStory': 'Ανοίξτε την ιστορία σας',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Συγχαρητήρια! Η πρώτη σας ιστορία δημοσιεύτηκε και φτάσατε στο Επίπεδο Συγγραφέα 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Το ταξίδι σας αρχίζει!',
+    'email.notifications.firstStoryPublished.intro': 'Συγχαρητήρια για τη δημοσίευση της πρώτης σας ιστορίας! Πρόκειται για ένα σημαντικό ορόσημο στο δημιουργικό σας ταξίδι.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Έχετε φτάσει στο Επίπεδο Συγγραφέα 1 στον Δρόμο του Συγγραφέα! Αυτή είναι μόνο η αρχή μιας απίστευτης περιπέτειας στην αφήγηση ιστοριών.',
+    'email.notifications.firstStoryPublished.encouragement': 'Κάθε μεγάλος συγγραφέας ξεκίνησε με το πρώτο του δημοσιευμένο έργο. Συνεχίστε να γράφετε, συνεχίστε να αναπτύσσεστε και αφήστε τη δημιουργικότητά σας να ανθίσει. Η κοινότητα του Λογοτεχνικού Σύμπαντος είναι εδώ για να σας υποστηρίξει σε κάθε σας βήμα.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Εξερευνήστε τον Δρόμο του Συγγραφέα',
+    'email.notifications.firstStoryPublished.ctaStory': 'Δείτε τη δημοσιευμένη ιστορία σας',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Συγχαρητήρια για το πρώτο σας σύμπαν!',
     'email.notifications.firstUniverse.title': 'Συγχαρητήρια για τη δημιουργία του πρώτου σας σύμπαντος!',

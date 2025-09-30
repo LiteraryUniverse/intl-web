@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Dobrý deň, {username},',
     'email.welcome': 'Vitajte v Literary Universe!',
-    'email.signature': 'S úctou,<br />Tím Literary Universe',
-    'email.footer.settingsHtml': 'Nastavenia e-mailu môžete zmeniť v <a href="{link}">nastaveniach konta</a>.',
+    'email.signature': 'S úctou,<br>tím Literary Universe</br>',
+    'email.footer.settingsHtml': 'Nastavenia e-mailu môžete zmeniť v <link>nastaveniach konta</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Vitajte na palube',
     'email.enrollAccount.messageHtml': 'Radi by sme vás pozvali do Literárneho vesmíru! Pripravili sme pre vás osobné konto, na ktorom máte prístup ku všetkým funkciám Literárneho vesmíru. Pridajte sa k nám pri vytváraní novej generácie tvorivého písania a čítania!',
     'email.enrollAccount.button': 'Prístup k vášmu účtu',
-    'email.enrollAccount.signature': 'Tešíme sa na vás, tím<br />Literary Universe',
+    'email.enrollAccount.signature': 'Tešíme sa na vás,<br>tím Literárneho vesmíru</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Dostali sme žiadosť o obnovenie hesla vášho konta. Kliknutím na tlačidlo nižšie môžete pokračovať v procese. Ak ste túto žiadosť nepodali, môžete tento e-mail ignorovať, ale možno je vhodný čas skontrolovať svoje bezpečnostné nastavenia.',
     'email.resetPassword.button': 'Obnovenie hesla',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Príbeh: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Pokračovať na stránke Cesta autora',
     'email.notifications.firstStory.ctaStory': 'Otvorte svoj príbeh',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Gratulujeme! Váš prvý príbeh je publikovaný a dosiahli ste autorskú úroveň 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Vaša cesta sa začína!',
+    'email.notifications.firstStoryPublished.intro': 'Gratulujeme k vydaniu prvého príbehu! Je to významný míľnik na vašej tvorivej ceste.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Dosiahli ste autorskú úroveň 1 na Ceste autora! Toto je len začiatok neuveriteľného dobrodružstva v rozprávaní príbehov.',
+    'email.notifications.firstStoryPublished.encouragement': 'Každý veľký autor začínal svojím prvým publikovaným dielom. Píšte ďalej, rozvíjajte sa a nechajte svoju kreativitu prekvitať. Komunita Literárneho vesmíru je tu, aby vás podporovala na každom kroku.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Preskúmajte Cesta autora',
+    'email.notifications.firstStoryPublished.ctaStory': 'Zobraziť váš publikovaný príbeh',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gratulujeme k vášmu prvému vesmíru!',
     'email.notifications.firstUniverse.title': 'Gratulujeme k vytvoreniu prvého vesmíru!',
