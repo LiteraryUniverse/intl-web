@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Halo {username},',
     'email.welcome': 'Selamat datang di Literary Universe!',
-    'email.signature': 'Hormat kami,<br />Tim Literary Universe',
-    'email.footer.settingsHtml': 'Anda dapat mengubah pengaturan email di <a href="{link}">pengaturan akun Anda.</a>',
+    'email.signature': 'Hormat kami<br>, Tim Semesta Sastra</br>',
+    'email.footer.settingsHtml': 'Anda dapat mengubah pengaturan email di <link>pengaturan akun Anda.</link>',
     // Enrollment
     'email.enrollAccount.welcome': 'Selamat datang',
     'email.enrollAccount.messageHtml': 'Kami ingin mengundang Anda ke Literary Universe! Kami telah menyiapkan akun pribadi untuk Anda, di mana Anda dapat mengakses semua fitur Literary Universe. Bergabunglah bersama kami untuk menciptakan generasi baru dalam menulis dan membaca yang kreatif!',
     'email.enrollAccount.button': 'Akses akun Anda',
-    'email.enrollAccount.signature': 'Kami tunggu kedatangan Anda,<br />Tim Literary Universe',
+    'email.enrollAccount.signature': 'Kami tunggu kedatangan Anda<br>, tim Literary Universe</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Kami telah menerima permintaan untuk mengatur ulang kata sandi akun Anda. Silakan klik tombol di bawah ini untuk melanjutkan proses. Jika Anda belum melakukan permintaan ini, Anda dapat mengabaikan email ini, tetapi ini mungkin saat yang tepat untuk meninjau pengaturan keamanan Anda.',
     'email.resetPassword.button': 'Atur ulang kata sandi',
