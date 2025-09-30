@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'סיפור: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'המשך בדרך של המחבר',
     'email.notifications.firstStory.ctaStory': 'פתח את הסיפור שלך',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 מזל טוב! הסיפור הראשון שלך פורסם והגעת לרמת מחבר 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 המסע שלך מתחיל!',
+    'email.notifications.firstStoryPublished.intro': 'מזל טוב על פרסום הסיפור הראשון שלך! זהו ציון דרך חשוב במסע היצירתי שלך.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 הגעת לרמה 1 ב"דרך הסופר"! זו רק ההתחלה של הרפתקה מדהימה בעולם הסיפורים.',
+    'email.notifications.firstStoryPublished.encouragement': 'כל סופר גדול התחיל עם יצירתו הראשונה שפורסמה. המשיכו לכתוב, המשיכו לצמוח, ותנו ליצירתיות שלכם לפרוח. קהילת Literary Universe כאן כדי לתמוך בכם בכל צעד ושעל.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'גלה את דרכו של הסופר',
+    'email.notifications.firstStoryPublished.ctaStory': 'הצג את הסיפור שפרסמת',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'מזל טוב על היקום הראשון שלך!',
     'email.notifications.firstUniverse.title': 'מזל טוב על יצירת היקום הראשון שלך!',
