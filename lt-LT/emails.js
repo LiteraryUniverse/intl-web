@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Istorija: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Tęsti apie Autoriaus kelias',
     'email.notifications.firstStory.ctaStory': 'Atverkite savo istoriją',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Sveikiname! Jūsų pirmoji istorija paskelbta ir Jūs pasiekėte 1 autoriaus lygį!',
+    'email.notifications.firstStoryPublished.title': '🎉 Tavo kelionė prasideda!',
+    'email.notifications.firstStoryPublished.intro': 'Sveikiname paskelbus pirmąją istoriją! Tai svarbus etapas jūsų kūrybiniame kelyje.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Pasiekėte 1 autoriaus lygį "Autoriaus kelyje"! Tai tik neįtikėtino pasakojimo nuotykio pradžia.',
+    'email.notifications.firstStoryPublished.encouragement': 'Kiekvienas didis autorius pradėjo nuo savo pirmojo publikuoto kūrinio. Rašykite toliau, tobulėkite ir leiskite savo kūrybiškumui klestėti. Literatūrinės visatos bendruomenė yra čia, kad palaikytų jus kiekviename žingsnyje.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Ištirti "Autoriaus kelią',
+    'email.notifications.firstStoryPublished.ctaStory': 'Peržiūrėkite savo paskelbtą istoriją',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Sveikiname su pirmąja visata!',
     'email.notifications.firstUniverse.title': 'Sveikiname sukūrus pirmąją visatą!',
