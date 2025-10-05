@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'תוכניות לפיתוח היקום הספרותי.',
   'roadmap.ariaTimeOptions': 'בחירות עבור פריטי מסלול עבודה בהתאם למצבם.',
   'roadmap.state.backlog': 'רקע',
   'roadmap.state.inprogress': 'בתהליך',
