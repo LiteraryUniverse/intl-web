@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Kirjandusuniversumi arendamise plaanid.',
   'roadmap.ariaTimeOptions': 'Valikud teekonnapunktide jaoks nende oleku põhjal.',
   'roadmap.state.backlog': 'Tagalug',
   'roadmap.state.inprogress': 'Töös',
