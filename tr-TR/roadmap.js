@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Edebiyat Evreni geliştirme planları.',
   'roadmap.ariaTimeOptions': 'Durumlarına göre yol haritası maddeleri için seçenekler.',
   'roadmap.state.backlog': 'Beklemede',
   'roadmap.state.inprogress': 'Devam ediyor',
