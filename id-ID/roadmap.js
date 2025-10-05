@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Rencana pengembangan Literary Universe.',
   'roadmap.ariaTimeOptions': 'Pilihan untuk item-item dalam roadmap berdasarkan status mereka.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'Sedang berlangsung',
