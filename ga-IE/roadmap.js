@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'Roghanna do mhoíreolaíochtaí bóthair bunaithe ar a gcumas.',
   'roadmap.state.backlog': 'Liosta feithimh',
   'roadmap.state.inprogress': 'Ar siúl',
