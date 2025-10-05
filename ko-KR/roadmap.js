@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': '문학 유니버스 개발 계획.',
   'roadmap.ariaTimeOptions': '상태에 따른 로드맵 항목의 선택 옵션입니다.',
   'roadmap.state.backlog': '백로그',
   'roadmap.state.inprogress': '진행 중',
