@@ -82,6 +82,8 @@
   "faq.answer.workshop.finished": "Saate näidata, et teie lugu on lõpetatud, kui lähete loo armatuurlauale ja selle allosas on roheline nupp, millel on kirjas \"Muuda loo staatus lõpetatuks\". See märgib loo lõpetatuks, kohandades viimast lehekülge, et lugejad saaksid teada, et lugu on lõpetatud ja et nad saaksid vaadata sinu teisi teoseid. See näitab seda ka avastamisel, muutes teie loo nähtavamaks lugejatele, kes otsivad lõpetatud lugusid.",
   "faq.question.workshop.seo": "Mis on SEO-sõbraliku aadressi kasutamine erinevates seadistustes?",
   "faq.answer.workshop.seo": "SEO-sõbralik aadress on viis, kuidas muuta oma lugu, universum, blogipostitus otsingumootoritele nähtavamaks ja URL-i inimestele kergemini loetavaks. See on viis, kuidas muuta teie tööd paremini avastatavaks ja aidata inimestel leida teie tööd, kui nad otsivad midagi sarnast.",
+  "faq.question.workshop.descriptionLength": "Milline on loo ja universumi kirjelduste optimaalne pikkus?",
+  "faq.answer.workshop.descriptionLength": "Püüdke saavutada 150-160 tähemärgi pikkust, et teie kirjeldus annaks piisavalt teavet, ilma et see otsingutulemustes kärbitud oleks. See aitab parandada teie töö nähtavust otsingumootorites ja sotsiaalmeedia platvormidel. Sellesse vahemikku jääv hästi koostatud kirjeldus kuvatakse Google'i otsingutulemustes ja sotsiaalmeedia eelvaadetes täielikult, mistõttu on tõenäolisem, et see meelitab lugejaid.",
   "faq.question.workshop.createProject": "Kuidas alustada töökojas uut universumit?",
   "faq.answer.workshop.createProject": "Mine töötuppa ja klõpsa nupule \"Loo\", seejärel vali universum. Saate alustada uut iseseisvat lugu, fännilugu või lugu universumi sees.",
   "faq.question.workshop.editingTools": "Millised redigeerimisvahendid on töötoas saadaval?",
