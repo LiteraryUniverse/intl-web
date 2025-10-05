@@ -126,6 +126,10 @@
   "What is the use of SEO-Friendly-Address in various settings?",
   "faq.answer.workshop.seo":
   "SEO-Friendly-Address is a way to make your story, universe, blog post more visible to search engines and easier to read URL for humans. It is a way to make your work more discoverable and to help people find your work when they search for something similar.",
+  "faq.question.workshop.descriptionLength":
+  "What is the optimal length for story and universe descriptions?",
+  "faq.answer.workshop.descriptionLength":
+  "Aim for a length of 150-160 characters to ensure your description provides enough information without being truncated in search results. This helps improve your work's visibility on search engines and social media platforms. A well-crafted description within this range will display fully in Google search results and social media previews, making it more likely to attract readers.",
   "faq.question.workshop.createProject": "How do I start a new universe in the Workshop?",
   "faq.answer.workshop.createProject": "Go to the Workshop and click on the 'Create' button, then select an universe. You can start a new standalone story, fan fiction, or a story within a universe.",
   "faq.question.workshop.editingTools": "What editing tools are available in the Workshop?",
