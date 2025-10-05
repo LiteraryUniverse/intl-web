@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'ରୋଡମାପ ଆଇଟମଗୁଡ଼ିକୁ ତାଲିକାରେ ରୁପାନ୍ତରିତ କରିବା ପାଇଁ ତାଙ୍କ ଅବସ୍ଥା ଆଧାରରେ ଚୟନଗୁଡ଼ିକୁ ।',
   'roadmap.state.backlog': 'ବ୍ୟାକ୍ଲଗ୍',
   'roadmap.state.inprogress': 'ପ୍ରଗତିରେ ଆଛି',
