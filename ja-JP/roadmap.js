@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': '文芸宇宙開発計画。',
   'roadmap.ariaTimeOptions': 'ロードマップの項目を状態に応じて選択する。',
   'roadmap.state.backlog': 'バックログ',
   'roadmap.state.inprogress': '進行中',
