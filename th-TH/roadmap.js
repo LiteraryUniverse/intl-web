@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'แผนการพัฒนาจักรวาลวรรณกรรม',
   'roadmap.ariaTimeOptions': 'การเลือกตัวเลือกสำหรับรายการแผนงานตามสถานะของพวกเขา',
   'roadmap.state.backlog': 'รายการที่ค้างคาว',
   'roadmap.state.inprogress': 'กำลังดำเนินการ',
