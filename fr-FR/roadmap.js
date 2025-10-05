@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans de développement de l\'Univers littéraire.',
   'roadmap.ariaTimeOptions': 'Sélection des éléments de la feuille de route en fonction de leur statut.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'En cours',
