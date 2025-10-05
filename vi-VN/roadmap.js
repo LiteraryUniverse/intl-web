@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Kế hoạch phát triển Vũ trụ Văn học.',
   'roadmap.ariaTimeOptions': 'Các lựa chọn cho các mục tiêu trong lộ trình dựa trên trạng thái của chúng.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'Đang tiến hành',
