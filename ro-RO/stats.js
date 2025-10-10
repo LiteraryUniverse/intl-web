@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Caracteristici demografice ale cititorilor',
     'workshop.theWay.overallStats.topCountry': 'Țara de top',
     'workshop.theWay.overallStats.topAgeGroup': 'Grupa de vârstă superioară',
-    'workshop.theWay.overallStats.genres': 'Genurile tale'
+    'workshop.theWay.overallStats.genres': 'Genurile tale',
+    'stats.title': '{name} - Statistică'
 };
