@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': '讀者人口統計',
     'workshop.theWay.overallStats.topCountry': '頂級國家',
     'workshop.theWay.overallStats.topAgeGroup': '最高年齡組別',
-    'workshop.theWay.overallStats.genres': '您的類型'
+    'workshop.theWay.overallStats.genres': '您的類型',
+    'stats.title': '{name} - 統計資料'
 };
