@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Olvasói demográfiai adatok',
     'workshop.theWay.overallStats.topCountry': 'Top Ország',
     'workshop.theWay.overallStats.topAgeGroup': 'Legjobb korcsoport',
-    'workshop.theWay.overallStats.genres': 'Az Ön műfajai'
+    'workshop.theWay.overallStats.genres': 'Az Ön műfajai',
+    'stats.title': '{name} - Statisztikák'
 };
