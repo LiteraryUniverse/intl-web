@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Demografische Daten der Leser',
     'workshop.theWay.overallStats.topCountry': 'Top Land',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Altersgruppe',
-    'workshop.theWay.overallStats.genres': 'Ihre Genres'
+    'workshop.theWay.overallStats.genres': 'Ihre Genres',
+    'stats.title': '{name} - Statistik'
 };
