@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Demografi Pembaca',
     'workshop.theWay.overallStats.topCountry': 'Negara teratas',
     'workshop.theWay.overallStats.topAgeGroup': 'Kelompok Usia Tertinggi',
-    'workshop.theWay.overallStats.genres': 'Genre Anda'
+    'workshop.theWay.overallStats.genres': 'Genre Anda',
+    'stats.title': '{name} - Statistik'
 };
