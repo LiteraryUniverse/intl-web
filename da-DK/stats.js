@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Demografi for læsere',
     'workshop.theWay.overallStats.topCountry': 'Top land',
     'workshop.theWay.overallStats.topAgeGroup': 'Bedste aldersgruppe',
-    'workshop.theWay.overallStats.genres': 'Dine genrer'
+    'workshop.theWay.overallStats.genres': 'Dine genrer',
+    'stats.title': '{name} - Statistik'
 };
