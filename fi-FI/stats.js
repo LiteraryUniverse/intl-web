@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Lukijoiden demografiset tiedot',
     'workshop.theWay.overallStats.topCountry': 'Top Maa',
     'workshop.theWay.overallStats.topAgeGroup': 'Paras ikäryhmä',
-    'workshop.theWay.overallStats.genres': 'Genres'
+    'workshop.theWay.overallStats.genres': 'Genres',
+    'stats.title': '{name} - Tilastot'
 };
