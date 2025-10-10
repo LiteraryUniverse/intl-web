@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Dane demograficzne czytelników',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Najlepsza grupa wiekowa',
-    'workshop.theWay.overallStats.genres': 'Państwa gatunki'
+    'workshop.theWay.overallStats.genres': 'Państwa gatunki',
+    'stats.title': '{name} - Statystyki'
 };
