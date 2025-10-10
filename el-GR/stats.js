@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Δημογραφικά στοιχεία αναγνωστών',
     'workshop.theWay.overallStats.topCountry': 'Κορυφή Χώρα',
     'workshop.theWay.overallStats.topAgeGroup': 'Κορυφαία ηλικιακή ομάδα',
-    'workshop.theWay.overallStats.genres': 'Τα είδη σας'
+    'workshop.theWay.overallStats.genres': 'Τα είδη σας',
+    'stats.title': '{name} - Στατιστικά στοιχεία'
 };
