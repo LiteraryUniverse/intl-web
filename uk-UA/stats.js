@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Демографічні показники читачів',
     'workshop.theWay.overallStats.topCountry': 'Краща країна',
     'workshop.theWay.overallStats.topAgeGroup': 'Найвища вікова група',
-    'workshop.theWay.overallStats.genres': 'Ваші жанри'
+    'workshop.theWay.overallStats.genres': 'Ваші жанри',
+    'stats.title': '{name} - Статистика'
 };
