@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Okuyucu Demografisi',
     'workshop.theWay.overallStats.topCountry': 'En İyi Ülke',
     'workshop.theWay.overallStats.topAgeGroup': 'Üst Yaş Grubu',
-    'workshop.theWay.overallStats.genres': 'Türleriniz'
+    'workshop.theWay.overallStats.genres': 'Türleriniz',
+    'stats.title': '{name} - İstatistikler'
 };
