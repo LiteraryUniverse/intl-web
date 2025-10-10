@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Demografické údaje čtenářů',
     'workshop.theWay.overallStats.topCountry': 'Nejlepší země',
     'workshop.theWay.overallStats.topAgeGroup': 'Nejlepší věková skupina',
-    'workshop.theWay.overallStats.genres': 'Vaše žánry'
+    'workshop.theWay.overallStats.genres': 'Vaše žánry',
+    'stats.title': '{name} - Statistiky'
 };
