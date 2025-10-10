@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': '読者層',
     'workshop.theWay.overallStats.topCountry': 'トップ',
     'workshop.theWay.overallStats.topAgeGroup': 'トップ・エイジ・グループ',
-    'workshop.theWay.overallStats.genres': 'あなたのジャンル'
+    'workshop.theWay.overallStats.genres': 'あなたのジャンル',
+    'stats.title': '{name} - 統計'
 };
