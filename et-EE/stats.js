@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Lugeja demograafilised andmed',
     'workshop.theWay.overallStats.topCountry': 'Top Riik',
     'workshop.theWay.overallStats.topAgeGroup': 'Parim vanuserühm',
-    'workshop.theWay.overallStats.genres': 'Teie žanrid'
+    'workshop.theWay.overallStats.genres': 'Teie žanrid',
+    'stats.title': '{name} - Statistika'
 };
