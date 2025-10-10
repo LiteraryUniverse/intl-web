@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Skaitytojų demografija',
     'workshop.theWay.overallStats.topCountry': 'Geriausia šalis',
     'workshop.theWay.overallStats.topAgeGroup': 'Geriausia amžiaus grupė',
-    'workshop.theWay.overallStats.genres': 'Jūsų žanrai'
+    'workshop.theWay.overallStats.genres': 'Jūsų žanrai',
+    'stats.title': '{name} - Statistika'
 };
