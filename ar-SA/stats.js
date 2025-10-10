@@ -59,5 +59,6 @@ export default {
     'workshop.theWay.overallStats.demographics': 'التركيبة السكانية للقراء',
     'workshop.theWay.overallStats.topCountry': 'أفضل بلد',
     'workshop.theWay.overallStats.topAgeGroup': 'الفئة العمرية الأعلى',
-    'workshop.theWay.overallStats.genres': 'الأنواع الخاصة بك'
+    'workshop.theWay.overallStats.genres': 'الأنواع الخاصة بك',
+    'stats.title': '{name} - الإحصائيات'
 };
