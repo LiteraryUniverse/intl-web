@@ -22,6 +22,13 @@ export default {
     other {câu chuyện và vũ trụ}
   } vào danh sách đọc.`,
   'readingList.addItem.fromLibrary': 'Từ thư viện',
+  'readingList.addItem.yourOwn': `Của riêng bạn {type, select,
+    universes {vũ trụ}
+    stories {câu chuyện}
+    other {tài sản}
+  }`,
+  'readingList.addItem.noOwnStories': 'Bạn chưa có câu chuyện nào.',
+  'readingList.addItem.noOwnUniverses': 'Bạn chưa có vũ trụ nào cả.',
   'readingList.button.added': 'Đã thêm',
   'readingList.delete': 'Xóa danh sách',
   'readingList.delete.confirm': 'Xóa Danh sách Đọc',
