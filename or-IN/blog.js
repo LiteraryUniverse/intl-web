@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Questions',
     'blog.qa.askQuestion': 'Ask a Question',
     'blog.qa.submitQuestion': 'Submit Question',
+    'blog.qa.success.submit': 'Thank you! Your question has been submitted and will be answered soon.',
+    'blog.qa.error.submit': 'Failed to submit question. Please try again.',
     'blog.qa.tab.allAnswered': 'All Answered',
     'blog.qa.tab.myQuestions': 'My Questions',
     'blog.qa.empty.all': 'No answered questions yet.',
