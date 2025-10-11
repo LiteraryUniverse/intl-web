@@ -34,6 +34,7 @@ export default {
   'common.add': 'Add',
   'common.save': 'Save',
   'common.email': 'E-mail',
+  'common.anonymous': 'Anonymous',
   'common.soon': 'Coming soon...',
   'common.search': 'Search',
   'common.search.do': 'Search',
