@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - สถิติ'
+    'stats.title': '{name} - สถิติ',
+    'stats.totalCharacters': 'จำนวนตัวอักษรทั้งหมด'
 };
