@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Planer för utveckling av Literary Universe.',
   'roadmap.ariaTimeOptions': 'Val för vägkarteelement baserat på deras status.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'Pågående',

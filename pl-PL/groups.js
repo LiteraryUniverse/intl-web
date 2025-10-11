@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Ukryty',
     'groups.type.hiddenDesc': 'Ukryty - Tylko osoby, które zaprosisz mogą dołączyć.',
     'groups.imageAlt': '{groupName} zdjęcie',
+    'groups.bannerAlt': '{groupName} baner',
+    'groups.logo.label': 'Logo grupy',
+    'groups.logo.help': 'Obraz kwadratowy, zalecane 200x200px lub większe',
+    'groups.banner.label': 'Baner grupy',
+    'groups.banner.help': 'Szeroki baner, zalecane 1200x675px (proporcje 16:9)',
     'groups.members': 'Członkowie',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

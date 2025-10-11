@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Розділ {chapter, number}: {wordCount, number} слів',
     'stats.totalHits': 'Загальна кількість переглядів',
     'stats.totalVisitors': 'Загальна кількість унікальних відвідувачів',
-    'stats.totalWords': 'Загальна кількість слів',
+    'stats.totalWords': 'Всього слів',
     'stats.totalEntries': 'Записи в енциклопедії',
     'stats.blogPage': 'Сторінка',
     'stats.blog.typeSelectionAria': 'Вибір типу',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Демографічні показники читачів',
     'workshop.theWay.overallStats.topCountry': 'Краща країна',
     'workshop.theWay.overallStats.topAgeGroup': 'Найвища вікова група',
-    'workshop.theWay.overallStats.genres': 'Ваші жанри'
+    'workshop.theWay.overallStats.genres': 'Ваші жанри',
+    'stats.title': '{name} - Статистика',
+    'stats.totalCharacters': 'Всього персонажів'
 };

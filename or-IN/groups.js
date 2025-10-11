@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'ଗୋପନୀୟ',
     'groups.type.hiddenDesc': 'ଗୋପନୀୟ - ସ୍ଵାଗତକର୍ତ୍ତାଙ୍କୁ କେବଳ ଆମନ୍ତ୍ରିତ ଲୋକମାନଙ୍କୁ ଯୋଡାହୋଇପାରିବନାହିଁ |',
     'groups.imageAlt': '{groupName} ଚିତ୍ର',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'ସଭ୍ୟ',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

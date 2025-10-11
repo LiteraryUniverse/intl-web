@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'ซ่อน',
     'groups.type.hiddenDesc': 'ซ่อน - เฉพาะคนที่คุณเชิญเท่านั้นที่สามารถเข้าร่วมได้',
     'groups.imageAlt': '{groupName} รูปภาพ',
+    'groups.bannerAlt': '{groupName} แบนเนอร์',
+    'groups.logo.label': 'โลโก้กลุ่ม',
+    'groups.logo.help': 'ภาพสี่เหลี่ยมจัตุรัส, ขนาดแนะนำ 200x200px หรือใหญ่กว่า',
+    'groups.banner.label': 'แบนเนอร์กลุ่ม',
+    'groups.banner.help': 'ภาพแบนเนอร์ขนาดใหญ่ แนะนำให้ใช้ขนาด 1200x675px (อัตราส่วน 16:9)',
     'groups.members': 'สมาชิก',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'مخفي',
     'groups.type.hiddenDesc': 'مخفي - فقط الأشخاص الذين تدعوهم يمكنهم الانضمام.',
     'groups.imageAlt': 'صورة {groupName}',
+    'groups.bannerAlt': '{groupName} اللافتة',
+    'groups.logo.label': 'شعار المجموعة',
+    'groups.logo.help': 'صورة مربعة، يوصى بها 200 × 200 بكسل أو أكبر',
+    'groups.banner.label': 'شعار المجموعة',
+    'groups.banner.help': 'صورة لافتة عريضة، موصى بها 1200 × 675 بكسل (نسبة 16:9)',
     'groups.members': 'الأعضاء',
     'groups.members.total': `هناك {totalMembers, plural,
     zero {لا يوجد أعضاء}

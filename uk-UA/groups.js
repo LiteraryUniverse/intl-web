@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Прихована',
     'groups.type.hiddenDesc': 'Прихована - Тільки люди, яких ви запросите, можуть приєднатися.',
     'groups.imageAlt': '{groupName} зображення',
+    'groups.bannerAlt': '{groupName} банер',
+    'groups.logo.label': 'Логотип групи',
+    'groups.logo.help': 'Квадратне зображення, рекомендується 200x200px або більше',
+    'groups.banner.label': 'Банер групи',
+    'groups.banner.help': 'Широке банерне зображення, рекомендується 1200x675px (співвідношення 16:9)',
     'groups.members': 'Учасники',
     'groups.members.total': `У цій групі {totalMembers, plural,
     zero {немає учасників}

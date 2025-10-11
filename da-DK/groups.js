@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Skjult',
     'groups.type.hiddenDesc': 'Skjult - Kun de personer, du inviterer, kan deltage.',
     'groups.imageAlt': '{groupName} billede',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Gruppens logo',
+    'groups.logo.help': 'Firkantet billede, anbefalet 200x200px eller større',
+    'groups.banner.label': 'Gruppe-banner',
+    'groups.banner.help': 'Bredt bannerbillede, anbefalet 1200x675px (16:9-forhold)',
     'groups.members': 'Medlemmer',
     'groups.members.total': `Der {totalMembers, plural,
     zero {er ingen medlemmer}

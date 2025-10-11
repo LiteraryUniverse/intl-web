@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Ascuns',
     'groups.type.hiddenDesc': 'Ascuns - Doar persoanele pe care le inviți pot să se alăture.',
     'groups.imageAlt': '{groupName} poză',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Logo-ul grupului',
+    'groups.logo.help': 'Imagine pătrată, recomandată 200x200px sau mai mare',
+    'groups.banner.label': 'Banner de grup',
+    'groups.banner.help': 'Imagine banner largă, recomandată 1200x675px (raport 16:9)',
     'groups.members': 'Membri',
     'groups.members.total': `Există {totalMembers, plural,
     zero {nu sunt membri}

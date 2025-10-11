@@ -30,6 +30,7 @@ export default {
     'common.add': '추가',
     'common.save': '구하다',
     'common.email': '이메일',
+    'common.anonymous': '익명',
     'common.soon': '출시 예정',
     'common.search': '검색',
     'common.search.do': '검색',

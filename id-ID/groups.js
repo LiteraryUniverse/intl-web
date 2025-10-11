@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Tersembunyi',
     'groups.type.hiddenDesc': 'Tersembunyi - Hanya orang yang Anda undang yang dapat bergabung.',
     'groups.imageAlt': '{groupName} gambar',
+    'groups.bannerAlt': '{groupName} spanduk',
+    'groups.logo.label': 'Logo Grup',
+    'groups.logo.help': 'Gambar persegi, disarankan 200x200px atau lebih besar',
+    'groups.banner.label': 'Spanduk Grup',
+    'groups.banner.help': 'Gambar spanduk lebar, direkomendasikan 1200x675px (rasio 16:9)',
     'groups.members': 'Anggota',
     'groups.members.total': `Ada {totalMembers, plural,
     zero {tidak ada anggota}

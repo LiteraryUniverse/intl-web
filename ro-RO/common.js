@@ -30,6 +30,7 @@ export default {
     'common.add': 'Adăugare',
     'common.save': 'Salvare',
     'common.email': 'E-mail',
+    'common.anonymous': 'Anonim',
     'common.soon': 'În curând...',
     'common.search': 'Căutare',
     'common.search.do': 'Căutare',

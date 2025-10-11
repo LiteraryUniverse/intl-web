@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Kabanata {chapter, number}: {wordCount, number} mga salita',
     'stats.totalHits': 'Kabuuang mga Panonood',
     'stats.totalVisitors': 'Kabuuang mga Natatanging Bisita',
-    'stats.totalWords': 'Kabuuang mga Salita',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'Mga Pagsasalin sa Ensiklopedya',
     'stats.blogPage': 'Pahina',
     'stats.blog.typeSelectionAria': 'Pagpili ng Uri',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

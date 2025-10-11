@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'अध्याय {chapter, number}: {wordCount, number} शब्दांचे',
     'stats.totalHits': 'एकूण पाहण्यांची संख्या',
     'stats.totalVisitors': 'एकूण अद्वितीय भेटणारे',
-    'stats.totalWords': 'एकूण शब्द',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'ज्ञानकोश प्रविष्ट्या',
     'stats.blogPage': 'पृष्ठ',
     'stats.blog.typeSelectionAria': 'प्रकार निवड',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

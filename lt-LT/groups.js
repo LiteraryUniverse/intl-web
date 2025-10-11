@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Paslėpta',
     'groups.type.hiddenDesc': 'Paslėpta - Tik žmonės, kuriuos pakvietėte, gali prisijungti.',
     'groups.imageAlt': '{groupName} paveikslėlis',
+    'groups.bannerAlt': '{groupName} reklaminė antraštė',
+    'groups.logo.label': 'Grupės logotipas',
+    'groups.logo.help': 'Kvadratinis vaizdas, rekomenduojama 200x200px arba didesnis',
+    'groups.banner.label': 'Grupės reklaminis skydelis',
+    'groups.banner.help': 'Platus banerio vaizdas, rekomenduojama 1200x675px (16:9 santykis)',
     'groups.members': 'Nariai',
     'groups.members.total': `Šioje grupėje {totalMembers, plural,
     zero {nėra narių}

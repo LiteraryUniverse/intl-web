@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'Cifnu gerna le nu pilno lo se valsi be lo danfu.',
   'roadmap.state.backlog': 'Cunso',
   'roadmap.state.inprogress': 'Lo nu se zukte',

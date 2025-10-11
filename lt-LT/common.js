@@ -30,6 +30,7 @@ export default {
     'common.add': 'Pridėti',
     'common.save': 'Įrašyti',
     'common.email': 'El. paštas',
+    'common.anonymous': 'Anoniminis',
     'common.soon': 'Netrukus...',
     'common.search': 'Ieškoti',
     'common.search.do': 'Ieškoti',

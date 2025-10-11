@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Σχέδια για την ανάπτυξη του Λογοτεχνικού Σύμπαντος.',
   'roadmap.ariaTimeOptions': 'Επιλογές για στοιχεία του δρομολογίου με βάση την κατάστασή τους.',
   'roadmap.state.backlog': 'Ουρά εργασιών',
   'roadmap.state.inprogress': 'Σε εξέλιξη',

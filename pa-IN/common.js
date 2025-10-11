@@ -30,6 +30,7 @@ export default {
     'common.add': 'ਸ਼ਾਮਲ ਕਰੋ',
     'common.save': 'ਸੰਭਾਲੋ',
     'common.email': 'ਈਮੇਲ',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'ਜਲਦੀ ਹੀ ਆ ਰਿਹਾ ਹੈ...',
     'common.search': 'ਖੋਜ',
     'common.search.do': 'ਖੋਜ',

@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'ជំពូក {chapter, number}: {wordCount, number} ពាក្យ',
     'stats.totalHits': 'ចំនួនមើលសរុប',
     'stats.totalVisitors': 'ចំនួនអ្នកទស្សនាសរុប',
-    'stats.totalWords': 'ចំនួនពាក្យសរុប',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'ធាតុប្រែប្រួលរបស់រឿង',
     'stats.blogPage': 'ទំព័រ',
     'stats.blog.typeSelectionAria': 'ជ្រើសរើសប្រភេទ',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

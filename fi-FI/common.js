@@ -30,6 +30,7 @@ export default {
     'common.add': 'Lisää',
     'common.save': 'Tallenna',
     'common.email': 'Sähköposti',
+    'common.anonymous': 'Anonyymi',
     'common.soon': 'Tulossa pian...',
     'common.search': 'Haku',
     'common.search.do': 'Hae',

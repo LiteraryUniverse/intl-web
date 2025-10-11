@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'ཇི་ཤད་{chapter, number}། {wordCount, number} ཚིག་ཡིག་བཀོད།',
     'stats.totalHits': 'བརྡ་ཚད་བརྡ་བརྗོད་གཞན།',
     'stats.totalVisitors': 'བརྡ་ཚད་མི་རིགས་པའི་བརྡ་བརྗོད་གཞན།',
-    'stats.totalWords': 'བརྡ་ཚད་ཚིག་རིགས།',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'དཔྱད་རྒྱུན་ཐོག་མིན།',
     'stats.blogPage': 'ཤོག།',
     'stats.blog.typeSelectionAria': 'དབྱེ་བ་གཅིག',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

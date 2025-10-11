@@ -22,5 +22,26 @@ export default {
     other {történetek és univerzumok}
   } hozzáadásához az olvasási listához.`,
   'readingList.addItem.fromLibrary': 'Könyvtárból',
-  'readingList.button.added': 'Hozzáadva'
+  'readingList.addItem.yourOwn': `Saját {type, select,
+    universes {univerzumok}
+    stories {történetek}
+    other {tulajdonságok}
+  }`,
+  'readingList.addItem.noOwnStories': 'Még nincsenek történetei',
+  'readingList.addItem.noOwnUniverses': 'Még nincsenek univerzumai',
+  'readingList.button.added': 'Hozzáadva',
+  'readingList.delete': 'Lista törlése',
+  'readingList.delete.confirm': 'Olvasási lista törlése',
+  'readingList.delete.modalAria': 'Megerősítő modal az olvasási lista törléséhez',
+  'readingList.delete.warning': 'Biztos, hogy törölni akarja a "{name}" listát? Ezt a műveletet nem lehet visszacsinálni.',
+  'readingList.delete.itemsInfo': 'Ez eltávolítja a listát, de magukat a történeteket vagy univerzumokat nem.',
+  'readingList.delete.confirm.button': 'Lista törlése',
+  'readingList.delete.deleting': 'Törlés...',
+  'readingList.public.title': 'Nyilvános olvasási listák',
+  'readingList.public.noLists': 'Még nincsenek nyilvános olvasási listák',
+  'readingList.public.seo.title': '{username}\'s Olvasási listák',
+  'readingList.public.seo.description': 'Böngésszen a {username}\'s curated reading lists of stories and universes on Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Olvasási lista {username}',
+  'readingList.public.list.seo.description': 'Fedezze fel a {username}\'s curated reading list \'{listName}\' featuring stories and universes on Literary Universe.',
+  'readingList.public.list.description': 'Leírás: {description}'
 };

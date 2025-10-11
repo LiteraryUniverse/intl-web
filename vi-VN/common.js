@@ -30,6 +30,7 @@ export default {
     'common.add': 'Thêm',
     'common.save': 'Lưu',
     'common.email': 'E-mail',
+    'common.anonymous': 'Vô danh',
     'common.soon': 'Sẽ sớm xuất hiện...',
     'common.search': 'Tìm Kiếm',
     'common.search.do': 'Tìm Kiếm',

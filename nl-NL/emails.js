@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Hallo {username},',
     'email.welcome': 'Welkom bij het Literair Universum!',
-    'email.signature': 'Met vriendelijke groet,<br />Team Literair Universum',
-    'email.footer.settingsHtml': 'U kunt uw e-mailinstellingen wijzigen in <a href="{link}">uw accountinstellingen</a>.',
+    'email.signature': 'Met vriendelijke groet<br>,Literair Universum team</br>',
+    'email.footer.settingsHtml': 'U kunt uw e-mailinstellingen wijzigen in <link>uw accountinstellingen</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Welkom aan boord',
     'email.enrollAccount.messageHtml': 'Wij willen u graag uitnodigen voor Literary Universe! We hebben een persoonlijke account voor u aangemaakt waarmee u toegang krijgt tot alle functies van Literary Universe. Doe met ons mee om de volgende generatie creatief schrijven en lezen te creëren!',
     'email.enrollAccount.button': 'Toegang tot je account',
-    'email.enrollAccount.signature': 'We kijken uit naar uw komst,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We kijken uit naar uw komst<br>, Literair Universum-team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Wij hebben een verzoek ontvangen om uw wachtwoord voor uw account opnieuw in te stellen. Klik op de knop hieronder om het proces voort te zetten. Als u dit verzoek niet hebt gedaan, kunt u deze e-mail negeren, maar het is misschien een goed moment om uw beveiligingsinstellingen te controleren.',
     'email.resetPassword.button': 'Wachtwoord resetten',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Verhaal: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Ga verder op De Weg van de Auteur',
     'email.notifications.firstStory.ctaStory': 'Open uw verhaal',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': 'Gefeliciteerd! Uw eerste verhaal is gepubliceerd en u hebt Autorisatieniveau 1 bereikt!',
+    'email.notifications.firstStoryPublished.title': 'Uw reis begint!',
+    'email.notifications.firstStoryPublished.intro': 'Gefeliciteerd met de publicatie van uw eerste verhaal! Dit is een gedenkwaardige mijlpaal op uw creatieve reis.',
+    'email.notifications.firstStoryPublished.levelAchievement': 'U hebt niveau 1 van De Weg van de Auteur bereikt! Dit is nog maar het begin van een ongelooflijk avontuur in verhalen vertellen.',
+    'email.notifications.firstStoryPublished.encouragement': 'Elke grote auteur begon met zijn eerste gepubliceerde werk. Blijf schrijven, blijf groeien en laat uw creativiteit bloeien. De Literary Universe gemeenschap is er om u bij elke stap te steunen.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'De weg van de auteur verkennen',
+    'email.notifications.firstStoryPublished.ctaStory': 'Bekijk uw gepubliceerde verhaal',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gefeliciteerd met uw eerste universum!',
     'email.notifications.firstUniverse.title': 'Gefeliciteerd met het creëren van uw eerste universum!',

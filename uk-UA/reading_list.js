@@ -22,5 +22,26 @@ export default {
     other {історій та всесвітів}
   } до списку для читання.`,
   'readingList.addItem.fromLibrary': 'З бібліотеки',
-  'readingList.button.added': 'Додано'
+  'readingList.addItem.yourOwn': `Ваші власні {type, select,
+    universes {всесвіти}
+    stories {історії}
+    other {властивості}
+  }`,
+  'readingList.addItem.noOwnStories': 'У вас ще немає історій',
+  'readingList.addItem.noOwnUniverses': 'У вас ще немає всесвітів',
+  'readingList.button.added': 'Додано',
+  'readingList.delete': 'Видалити список',
+  'readingList.delete.confirm': 'Видалити список літератури',
+  'readingList.delete.modalAria': 'Режим підтвердження для видалення списку читання',
+  'readingList.delete.warning': 'Ви дійсно хочете видалити список "{name}"? Ця дія не може бути скасована.',
+  'readingList.delete.itemsInfo': 'Це призведе до видалення списку, але не самих історій чи всесвітів.',
+  'readingList.delete.confirm.button': 'Видалити список',
+  'readingList.delete.deleting': 'Видалення...',
+  'readingList.public.title': 'Публічні списки літератури',
+  'readingList.public.noLists': 'Публічних списків для читання ще немає',
+  'readingList.public.seo.title': '{username}Список літератури для читання',
+  'readingList.public.seo.description': 'Перегляньте кураторські списки історій та всесвітів на Літературному Всесвіті від {username}.',
+  'readingList.public.list.seo.title': '{listName} - Список літератури за посиланням {username}',
+  'readingList.public.list.seo.description': 'Ознайомтеся з кураторським списком літератури {username}"{listName}", що містить оповідання та всесвіти на Літературному Всесвіті.',
+  'readingList.public.list.description': 'Опис: {description}'
 };

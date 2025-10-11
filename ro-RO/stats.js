@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Capitolul {chapter, number}: {wordCount, number} cuvinte',
     'stats.totalHits': 'Vizualizări totale',
     'stats.totalVisitors': 'Vizitatori unici totali',
-    'stats.totalWords': 'Număr total de cuvinte',
+    'stats.totalWords': 'Total cuvinte',
     'stats.totalEntries': 'Înregistrări de enciclopedie',
     'stats.blogPage': 'Pagină',
     'stats.blog.typeSelectionAria': 'Selectarea tipului',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Caracteristici demografice ale cititorilor',
     'workshop.theWay.overallStats.topCountry': 'Țara de top',
     'workshop.theWay.overallStats.topAgeGroup': 'Grupa de vârstă superioară',
-    'workshop.theWay.overallStats.genres': 'Genurile tale'
+    'workshop.theWay.overallStats.genres': 'Genurile tale',
+    'stats.title': '{name} - Statistică',
+    'stats.totalCharacters': 'Total caractere'
 };

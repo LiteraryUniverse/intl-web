@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'מוסתר',
     'groups.type.hiddenDesc': 'מוסתר - רק אנשים שאתה מזמין יכולים להצטרף.',
     'groups.imageAlt': '{groupName} תמונה',
+    'groups.bannerAlt': '{groupName} באנר',
+    'groups.logo.label': 'לוגו הקבוצה',
+    'groups.logo.help': 'תמונה מרובעת, מומלץ בגודל 200x200px או יותר',
+    'groups.banner.label': 'באנר קבוצתי',
+    'groups.banner.help': 'תמונה רחבה לבאנר, מומלץ בגודל 1200x675px (יחס 16:9)',
     'groups.members': 'Members',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

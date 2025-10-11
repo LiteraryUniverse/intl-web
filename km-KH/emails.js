@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Hello {username},',
     'email.welcome': 'Welcome to Literary Universe!',
-    'email.signature': 'Sincerely,<br />Literary Universe team',
-    'email.footer.settingsHtml': 'You can change your email settings in <a href="{link}">your account settings</a>.',
+    'email.signature': 'Sincerely,<br>Literary Universe team</br>',
+    'email.footer.settingsHtml': 'You can change your email settings in <link>your account settings</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Welcome aboard',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'Access your account',
-    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br>Literary Universe team</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'កំណត់ពាក្យសម្ងាត់ឡើងវិញ',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Story: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Continue on The Way of the Author',
     'email.notifications.firstStory.ctaStory': 'Open your story',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Congratulations! Your first story is published and you reached Author Level 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Your Journey Begins!',
+    'email.notifications.firstStoryPublished.intro': 'Congratulations on publishing your first story! This is a momentous milestone in your creative journey.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 You have reached Author Level 1 on The Way of the Author! This is just the beginning of an incredible adventure in storytelling.',
+    'email.notifications.firstStoryPublished.encouragement': 'Every great author started with their first published work. Keep writing, keep growing, and let your creativity flourish. The Literary Universe community is here to support you every step of the way.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Explore The Way of the Author',
+    'email.notifications.firstStoryPublished.ctaStory': 'View Your Published Story',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Congratulations on your first universe!',
     'email.notifications.firstUniverse.title': 'Congratulations on creating your first universe!',

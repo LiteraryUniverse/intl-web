@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Az Irodalmi Univerzum fejlesztési tervei.',
   'roadmap.ariaTimeOptions': 'Választások az útiterv elemek státusza alapján.',
   'roadmap.state.backlog': 'Hátralék',
   'roadmap.state.inprogress': 'Folyamatban',

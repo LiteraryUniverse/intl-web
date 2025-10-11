@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'خطط تطوير الكون الأدبي.',
   'roadmap.ariaTimeOptions': 'التحديدات لعناصر خريطة الطريق بناءً على حالتها.',
   'roadmap.state.backlog': 'المتأخرات',
   'roadmap.state.inprogress': 'قيد التنفيذ',

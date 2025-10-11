@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'ಅಧ್ಯಾಯ {chapter, number}: {wordCount, number} ಪದಗಳು',
     'stats.totalHits': 'ಒಟ್ಟು ನೋಟಗಳು',
     'stats.totalVisitors': 'ಒಟ್ಟು ವಿಶೇಷ ಆಗಮನಿಕರು',
-    'stats.totalWords': 'ಒಟ್ಟು ಪದಗಳು',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'ವಿಜ್ಞಾನಕೋಶ ಲೇಖನಗಳು',
     'stats.blogPage': 'ಪುಟ',
     'stats.blog.typeSelectionAria': 'ಟೈಪ್ ಆಯ್ಕೆ',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

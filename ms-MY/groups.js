@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Tersembunyi',
     'groups.type.hiddenDesc': 'Tersembunyi - Hanya orang yang anda jemput boleh menyertai.',
     'groups.imageAlt': '{groupName} gambar',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'Ahli',
     'groups.members.total': `Tiada {totalMembers, plural,
     zero {ahli}

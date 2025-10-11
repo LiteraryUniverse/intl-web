@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Witaj {username},',
     'email.welcome': 'Witamy w Literary Universe!',
-    'email.signature': 'Z poważaniem,<br />Zespół Literary Universe',
-    'email.footer.settingsHtml': 'Ustawienia poczty e-mail można zmienić w <a href="{link}">ustawieniach konta</a>.',
+    'email.signature': 'Z poważaniem<br>, zespół Literary Universe</br>',
+    'email.footer.settingsHtml': 'Ustawienia poczty e-mail można zmienić w <link>ustawieniach konta</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Witamy na pokładzie',
     'email.enrollAccount.messageHtml': 'Chcielibyśmy zaprosić Państwa do Literary Universe! Przygotowaliśmy dla Państwa osobiste konto, dzięki któremu uzyskają Państwo dostęp do wszystkich funkcji Literary Universe. Prosimy dołączyć do nas w tworzeniu nowej generacji kreatywnego pisania i czytania!',
     'email.enrollAccount.button': 'Dostęp do swojego konta',
-    'email.enrollAccount.signature': 'Czekamy na Państwa,<br />Zespół Literary Universe',
+    'email.enrollAccount.signature': 'Z niecierpliwością czekamy na Państwa<br>, zespół Literary Universe</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Otrzymaliśmy prośbę o zresetowanie hasła do Państwa konta. Proszę kliknąć poniższy przycisk, aby kontynuować proces. Jeśli nie zgłosił(a) Pan(i) takiej prośby, może Pan(i) zignorować tę wiadomość e-mail, ale może to być dobry moment na sprawdzenie ustawień zabezpieczeń.',
     'email.resetPassword.button': 'Resetowanie hasła',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Historia: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Proszę kontynuować Drogę autora',
     'email.notifications.firstStory.ctaStory': 'Proszę otworzyć swoją historię',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': 'Gratulacje! Pana pierwsze opowiadanie zostało opublikowane i osiągnął Pan poziom autora 1!',
+    'email.notifications.firstStoryPublished.title': 'Rozpoczyna się Państwa podróż!',
+    'email.notifications.firstStoryPublished.intro': 'Gratulujemy opublikowania pierwszego opowiadania! To ważny kamień milowy w Pani twórczej podróży.',
+    'email.notifications.firstStoryPublished.levelAchievement': 'Osiągnęli Państwo Poziom Autora 1 na Drodze Autora! To dopiero początek niesamowitej przygody ze storytellingiem.',
+    'email.notifications.firstStoryPublished.encouragement': 'Każdy wielki autor zaczynał od swojego pierwszego opublikowanego dzieła. Proszę pisać dalej, rozwijać się i pozwolić swojej kreatywności rozkwitnąć. Społeczność Literary Universe jest tutaj, aby wspierać Państwa na każdym kroku.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Poznaj drogę autora',
+    'email.notifications.firstStoryPublished.ctaStory': 'Proszę wyświetlić opublikowaną historię',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gratulujemy pierwszego wszechświata!',
     'email.notifications.firstUniverse.title': 'Gratulujemy stworzenia pierwszego uniwersum!',

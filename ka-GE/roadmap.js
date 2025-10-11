@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'არჩევანის გზები რომლებიც მათი სტატუსის მიხედვით არჩევანის განცხრობისთვის გამოყენებულია.',
   'roadmap.state.backlog': 'დარჩენილი საქმიანობა',
   'roadmap.state.inprogress': 'პროცესში',

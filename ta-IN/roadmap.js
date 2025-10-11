@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'அட்டவணை உருப்படிகளுக்கு அவற்றின் நிலைமைக்கு அடிப்படையில் தேர்வுகள்.',
   'roadmap.state.backlog': 'பின்னணி',
   'roadmap.state.inprogress': 'நடப்புக்குள்',

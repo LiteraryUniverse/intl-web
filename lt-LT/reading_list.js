@@ -22,5 +22,26 @@ export default {
     other {istorijas ir visatas}
   } į skaitymo sąrašą.`,
   'readingList.addItem.fromLibrary': 'Iš bibliotekos',
-  'readingList.button.added': 'Pridėta'
+  'readingList.addItem.yourOwn': `Jūsų pačių {type, select,
+    universes {visatos}
+    stories {istorijos}
+    other {savybės}
+  }`,
+  'readingList.addItem.noOwnStories': 'Jūs dar neturite jokių istorijų',
+  'readingList.addItem.noOwnUniverses': 'Jūs dar neturite visatų',
+  'readingList.button.added': 'Pridėta',
+  'readingList.delete': 'Ištrinti sąrašą',
+  'readingList.delete.confirm': 'Ištrinti skaitymo sąrašą',
+  'readingList.delete.modalAria': 'Skaitymo sąrašo ištrynimo patvirtinimo modalinis langas',
+  'readingList.delete.warning': 'Ar tikrai norite ištrinti "{name}" sąrašą? Šio veiksmo atšaukti negalima.',
+  'readingList.delete.itemsInfo': 'Taip bus pašalintas sąrašas, bet ne pačios istorijos ar visatos.',
+  'readingList.delete.confirm.button': 'Ištrinti sąrašą',
+  'readingList.delete.deleting': 'Ištrinti...',
+  'readingList.public.title': 'Viešieji skaitymo sąrašai',
+  'readingList.public.noLists': 'Dar nėra viešų skaitymo sąrašų',
+  'readingList.public.seo.title': '{username}"Skaitymo sąrašai',
+  'readingList.public.seo.description': 'Naršykite {username}\'s kuruojamus istorijų ir visatų sąrašus Literatūrinėje visatoje.',
+  'readingList.public.list.seo.title': '{listName} - Skaitymo sąrašas pagal {username}',
+  'readingList.public.list.seo.description': 'Susipažinkite su {username}\'s kuruojamu skaitymo sąrašu \'{listName}\', kuriame pateikiamos istorijos ir visatos Literatūrinėje visatoje.',
+  'readingList.public.list.description': 'Aprašymas: {description}'
 };

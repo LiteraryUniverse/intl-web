@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Планы развития Литературной Вселенной.',
   'roadmap.ariaTimeOptions': 'Выбор элементов карты разработки в зависимости от их состояния.',
   'roadmap.state.backlog': 'Накопившиеся',
   'roadmap.state.inprogress': 'В разработке',

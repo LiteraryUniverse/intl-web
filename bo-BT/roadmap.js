@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'གནས་ཚད་དང་འབྲི་རྩོམ་ཚད་ཀྱི་གནས་ཚད་ཚུ་གི་དོན་ཚན་གསརཔ་བཟོ་བ་བཞག་པ་ནི།',
   'roadmap.state.backlog': 'སྤྱོད་རའི་གནས་ཚད།',
   'roadmap.state.inprogress': 'ལྟ་བ།',

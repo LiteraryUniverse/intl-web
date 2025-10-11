@@ -30,6 +30,7 @@ export default {
     'common.add': 'Pridať',
     'common.save': 'Uložiť',
     'common.email': 'E-mail',
+    'common.anonymous': 'Anonymný',
     'common.soon': 'Už čoskoro...',
     'common.search': 'Vyhľadávanie',
     'common.search.do': 'Vyhľadať',

@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Caché',
     'groups.type.hiddenDesc': 'Caché - Seules les personnes que vous invitez peuvent se joindre à vous.',
     'groups.imageAlt': 'Image de {groupName}',
+    'groups.bannerAlt': '{groupName} bannière',
+    'groups.logo.label': 'Logo du groupe',
+    'groups.logo.help': 'Image carrée, recommandée 200x200px ou plus grande',
+    'groups.banner.label': 'Bannière du groupe',
+    'groups.banner.help': 'Image de bannière large, recommandée 1200x675px (ratio 16:9)',
     'groups.members': 'Membres',
     'groups.members.total': `Il {totalMembers, plural,
     zero {n'y a pas de membres}

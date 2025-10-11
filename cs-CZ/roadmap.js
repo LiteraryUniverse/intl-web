@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plány na rozvoj literárního vesmíru.',
   'roadmap.ariaTimeOptions': 'Výběr položek plánu na základě jejich statusu.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'Ve vývoji',

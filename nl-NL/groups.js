@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Verborgen',
     'groups.type.hiddenDesc': 'Verborgen - Alleen mensen die je uitnodigt kunnen lid worden.',
     'groups.imageAlt': '{groupName} afbeelding',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Groepslogo',
+    'groups.logo.help': 'Vierkante afbeelding, aanbevolen 200x200px of groter',
+    'groups.banner.label': 'Groepsbanier',
+    'groups.banner.help': 'Brede bannerafbeelding, aanbevolen 1200x675px (16:9 verhouding)',
     'groups.members': 'Leden',
     'groups.members.total': `Er {totalMembers, plural,
     one {is één lid}

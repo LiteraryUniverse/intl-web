@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'สวัสดี {username},',
     'email.welcome': 'ยินดีต้อนรับสู่จักรวาลวรรณกรรม!',
-    'email.signature': 'ด้วยความเคารพอย่างสุภาพ<br />ทีมงานจักรวาลวรรณกรรม',
-    'email.footer.settingsHtml': 'คุณสามารถเปลี่ยนการตั้งค่าอีเมลของคุณได้ใน<a href="{link}">หน้าการตั้งค่าบัญชีของคุณ</a>',
+    'email.signature': 'ด้วยความเคารพ,<br>ทีมวรรณกรรมจักรวาล</br>',
+    'email.footer.settingsHtml': 'คุณสามารถเปลี่ยนการตั้งค่าอีเมลของคุณได้ใน<link>หน้าการตั้งค่าบัญชีของคุณ</link>',
     // Enrollment
     'email.enrollAccount.welcome': 'ยินดีต้อนรับเข้าสู่ทางเรือ',
     'email.enrollAccount.messageHtml': 'We would like to invite you to Literary Universe! We went ahead and prepared a personal account for you where you can access all features of Literary Universe. Please join us in creating the next generation of creative writing and reading!',
     'email.enrollAccount.button': 'เข้าสู่บัญชีของคุณ',
-    'email.enrollAccount.signature': 'We are looking forward to seeing you,<br />Literary Universe team',
+    'email.enrollAccount.signature': 'เราตั้งตารอที่จะได้พบคุณ,<br>ทีมวรรณกรรมจักรวาล</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'We have received a request to reset your password for your account. Please click on the button below to continue the process. If you haven\'t made this request, you can ignore this e-mail, but it might be a good time to review your security settings.',
     'email.resetPassword.button': 'รีเซ็ตรหัสผ่าน',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'เรื่อง: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'เดินหน้าต่อไปในเส้นทางของนักเขียน',
     'email.notifications.firstStory.ctaStory': 'เปิดเรื่องราวของคุณ',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 ขอแสดงความยินดี! เรื่องแรกของคุณได้รับการตีพิมพ์แล้ว และคุณได้รับระดับผู้เขียนระดับ 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 การเดินทางของคุณเริ่มต้นแล้ว!',
+    'email.notifications.firstStoryPublished.intro': 'ขอแสดงความยินดีกับการตีพิมพ์เรื่องแรกของคุณ! นี่เป็นก้าวสำคัญในเส้นทางสร้างสรรค์ของคุณ',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 คุณได้ถึงระดับผู้แต่ง 1 บนเส้นทางของนักเขียนแล้ว! นี่คือเพียงจุดเริ่มต้นของการผจญภัยที่น่าทึ่งในโลกของการเล่าเรื่อง',
+    'email.notifications.firstStoryPublished.encouragement': 'นักเขียนที่ยิ่งใหญ่ทุกคนเริ่มต้นจากผลงานตีพิมพ์ชิ้นแรกของพวกเขา เขียนต่อไป เติบโตต่อไป และปล่อยให้ความคิดสร้างสรรค์ของคุณเบ่งบาน ชุมชน Literary Universe อยู่ที่นี่เพื่อสนับสนุนคุณในทุกย่างก้าว',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'สำรวจเส้นทางของนักเขียน',
+    'email.notifications.firstStoryPublished.ctaStory': 'ดูเรื่องราวที่คุณเผยแพร่แล้ว',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'ขอแสดงความยินดีกับจักรวาลแรกของคุณ!',
     'email.notifications.firstUniverse.title': 'ขอแสดงความยินดีที่คุณได้สร้างจักรวาลแรกของคุณ!',

@@ -30,6 +30,7 @@ export default {
     'common.add': 'បន្ថែម',
     'common.save': 'រក្សាទុក',
     'common.email': 'អ៊ីមែល',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'មកដល់ឆាប់រហ័ស...',
     'common.search': 'ស្វែងរក',
     'common.search.do': 'ស្វែងរក',

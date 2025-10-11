@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'Seleccions per a elements de la planificació basades en el seu estat.',
   'roadmap.state.backlog': 'Llista de tasques pendents',
   'roadmap.state.inprogress': 'En curs',

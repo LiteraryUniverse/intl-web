@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Hidden',
     'groups.type.hiddenDesc': 'Hidden - Only people you invite can join.',
     'groups.imageAlt': '{groupName} picture',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'সদস্যসকল',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

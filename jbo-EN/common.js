@@ -30,6 +30,7 @@ export default {
     'common.add': 'lo se du\'u pilno lo nu jmina',
     'common.save': 'Rejgau',
     'common.email': 'lo se du\'u pilno lo nu xatra',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'lo se du\'u pilno lo nu zvati',
     'common.search': 'lo se du\'u pilno lo nu se facki',
     'common.search.do': 'lo se du\'u pilno lo nu se facki',

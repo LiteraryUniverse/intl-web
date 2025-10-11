@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Bab {chapter, number}: {wordCount, number} kata',
     'stats.totalHits': 'Total tampilan',
     'stats.totalVisitors': 'Total pengunjung unik',
-    'stats.totalWords': 'Total kata',
+    'stats.totalWords': 'Total Kata',
     'stats.totalEntries': 'Entri ensiklopedia',
     'stats.blogPage': 'Halaman',
     'stats.blog.typeSelectionAria': 'Pemilihan jenis',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Demografi Pembaca',
     'workshop.theWay.overallStats.topCountry': 'Negara teratas',
     'workshop.theWay.overallStats.topAgeGroup': 'Kelompok Usia Tertinggi',
-    'workshop.theWay.overallStats.genres': 'Genre Anda'
+    'workshop.theWay.overallStats.genres': 'Genre Anda',
+    'stats.title': '{name} - Statistik',
+    'stats.totalCharacters': 'Total Karakter'
 };

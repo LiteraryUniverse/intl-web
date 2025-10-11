@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Плани розвитку Літературного Всесвіту.',
   'roadmap.ariaTimeOptions': 'Вибір пунктів дорожньої карти на основі їх статусу.',
   'roadmap.state.backlog': 'Відставання',
   'roadmap.state.inprogress': 'У процесі виконання',

@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Bună {username},',
     'email.welcome': 'Bun venit în Universul Literar!',
-    'email.signature': 'Cu sinceritate,<br />Echipa Universul Literar',
-    'email.footer.settingsHtml': 'Puteți modifica setările de e-mail în <a href="{link}">setările contului dvs</a>.',
+    'email.signature': 'Cu sinceritate<br>,Echipa Universul Literar</br>',
+    'email.footer.settingsHtml': 'Puteți modifica setările de e-mail în <link>setările contului dvs</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Bun venit la bord',
     'email.enrollAccount.messageHtml': 'Dorim să vă invităm în Universul Literar! Ți-am pregătit un cont personal unde poți accesa toate funcțiile Universului Literar. Te rugăm să ni te alături în crearea următoarei generații de scriere creativă și lectură!',
     'email.enrollAccount.button': 'Accesează-ți contul',
-    'email.enrollAccount.signature': 'Vă așteptăm cu drag,<br />Echipa Universului Literar',
+    'email.enrollAccount.signature': 'Așteptăm cu nerăbdare să vă vedem<br>, echipa Literary Universe</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Am primit o cerere de resetare a parolei pentru contul dvs. Vă rugăm să faceți clic pe butonul de mai jos pentru a continua procesul. Dacă nu ați făcut această solicitare, puteți ignora acest e-mail, dar ar putea fi un moment bun să vă revizuiți setările de securitate.',
     'email.resetPassword.button': 'Resetează parola',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Poveste: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Continuați pe Calea autorului',
     'email.notifications.firstStory.ctaStory': 'Deschide-ți povestea',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Felicitări! Prima ta poveste a fost publicată și ai atins nivelul de autor 1!',
+    'email.notifications.firstStoryPublished.title': '🎉 Călătoria ta începe!',
+    'email.notifications.firstStoryPublished.intro': 'Felicitări pentru publicarea primei tale povestiri! Aceasta este o etapă importantă în călătoria ta creativă.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Ați ajuns la nivelul 1 de autor pe Calea autorului! Acesta este doar începutul unei aventuri incredibile în povestire.',
+    'email.notifications.firstStoryPublished.encouragement': 'Fiecare mare autor a început cu prima sa lucrare publicată. Continuă să scrii, continuă să crești și lasă-ți creativitatea să înflorească. Comunitatea Literary Universe este aici pentru a vă sprijini la fiecare pas.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Explorează Calea autorului',
+    'email.notifications.firstStoryPublished.ctaStory': 'Vezi povestea ta publicată',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Felicitări pentru primul tău univers!',
     'email.notifications.firstUniverse.title': 'Felicitări pentru crearea primului tău univers!',

@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Piilotettu',
     'groups.type.hiddenDesc': 'Piilotettu - Vain kutsutut voivat liittyä.',
     'groups.imageAlt': '{groupName} kuva',
+    'groups.bannerAlt': '{groupName} banneri',
+    'groups.logo.label': 'Ryhmän logo',
+    'groups.logo.help': 'Neliön muotoinen kuva, suositellaan 200x200px tai suurempaa.',
+    'groups.banner.label': 'Ryhmän banneri',
+    'groups.banner.help': 'Leveä bannerikuva, suositellaan 1200x675px (16:9-suhde).',
     'groups.members': 'Jäsenet',
     'groups.members.total': `Ryhmässä {totalMembers, plural,
     zero {ei ole jäseniä}

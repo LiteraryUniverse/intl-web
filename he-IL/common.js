@@ -30,6 +30,7 @@ export default {
     'common.add': 'הוספה',
     'common.save': 'שמירה',
     'common.email': 'דוא"ל',
+    'common.anonymous': 'אנונימי',
     'common.soon': 'מגיע בקרוב...',
     'common.search': 'חיפוש',
     'common.search.do': 'חיפוש',

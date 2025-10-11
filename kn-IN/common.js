@@ -30,6 +30,7 @@ export default {
     'common.add': 'ಸೇರಿಸಿ',
     'common.save': 'ಉಳಿಸಿ',
     'common.email': 'ಇಮೇಲ್',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'ಬೇಗ ಬರುತ್ತಿದೆ...',
     'common.search': 'ಹುಡುಕು',
     'common.search.do': 'ಹುಡುಕು',

@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Chapitre {chapter, number}: {wordCount, number} mots',
     'stats.totalHits': 'Total de vues',
     'stats.totalVisitors': 'Total des visiteurs uniques',
-    'stats.totalWords': 'Nombre total de mots',
+    'stats.totalWords': 'Total des mots',
     'stats.totalEntries': 'Entrées de l\'encyclopédie',
     'stats.blogPage': 'Page',
     'stats.blog.typeSelectionAria': 'Type de sélection',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Données démographiques sur les lecteurs',
     'workshop.theWay.overallStats.topCountry': 'Pays de tête',
     'workshop.theWay.overallStats.topAgeGroup': 'Meilleure catégorie d\'âge',
-    'workshop.theWay.overallStats.genres': 'Vos genres'
+    'workshop.theWay.overallStats.genres': 'Vos genres',
+    'stats.title': '{name} - Statistiques',
+    'stats.totalCharacters': 'Total des caractères'
 };

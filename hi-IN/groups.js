@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'छिपा हुआ',
     'groups.type.hiddenDesc': 'छिपा हुआ - केवल आप आमंत्रित करेंगे वही लोग समूह में शामिल हो सकते हैं।',
     'groups.imageAlt': '{groupName} चित्र',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'सदस्य',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

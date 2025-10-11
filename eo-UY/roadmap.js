@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'Elektoj por elementoj de vojmapo bazitaj sur ilia stato.',
   'roadmap.state.backlog': 'Malferma listo',
   'roadmap.state.inprogress': 'Farata',

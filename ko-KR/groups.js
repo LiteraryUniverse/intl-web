@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': '숨김',
     'groups.type.hiddenDesc': '숨김 - 초대한 사람만 가입할 수 있습니다.',
     'groups.imageAlt': '{groupName} 사진',
+    'groups.bannerAlt': '{groupName} 배너',
+    'groups.logo.label': '그룹 로고',
+    'groups.logo.help': '정사각형 이미지, 200x200px 이상 권장',
+    'groups.banner.label': '그룹 배너',
+    'groups.banner.help': '와이드 배너 이미지, 권장 1200x675px(16:9 비율)',
     'groups.members': '멤버',
     'groups.members.total': `이 그룹에는 {totalMembers, plural,
     zero {명의 회원이 있습니다.}

@@ -30,6 +30,7 @@ export default {
     'common.add': 'Toevoegen',
     'common.save': 'Opslaan',
     'common.email': 'E-mail',
+    'common.anonymous': 'Anonieme',
     'common.soon': 'Binnenkort beschikbaar...',
     'common.search': 'Zoeken',
     'common.search.do': 'Zoeken',

@@ -82,6 +82,8 @@
   "faq.answer.workshop.finished": "Dokončení příběhu můžete oznámit tak, že přejdete na panel příběhu a dole najdete zelené tlačítko s nápisem \"Změnit stav příběhu na dokončený\". Tím se příběh označí jako dokončený a upraví se poslední stránka, aby čtenáři věděli, že je příběh dokončen, a aby se podívali na vaše další díla. Označí se tak také v sekci Objevování, čímž se váš příběh stane viditelnějším pro čtenáře, kteří hledají dokončené příběhy.",
   "faq.question.workshop.seo": "Co znamená SEO přátelská cesta v různých nastavení?",
   "faq.answer.workshop.seo": "SEO přátelská adresa je způsob, jak zviditelnit váš příběh, vesmír, příspěvek na blogu pro vyhledávače a usnadnit čtení URL pro lidi. Je to způsob, jak učinit vaši práci lépe objevitelnou a pomoci lidem najít vaši práci, když hledají něco podobného.",
+  "faq.question.workshop.descriptionLength": "Jaká je optimální délka popisu příběhu a vesmíru?",
+  "faq.answer.workshop.descriptionLength": "Zaměřte se na délku 150-160 znaků, aby popis poskytoval dostatek informací a nebyl ve výsledcích vyhledávání zkrácen. To pomůže zlepšit viditelnost vaší práce ve vyhledávačích a na platformách sociálních médií. Dobře zpracovaný popis v tomto rozsahu se plně zobrazí ve výsledcích vyhledávání Google a v náhledech sociálních médií, takže s větší pravděpodobností zaujme čtenáře.",
   "faq.question.workshop.createProject": "Jak mohu v dílně založit nový vesmír?",
   "faq.answer.workshop.createProject": "Přejděte do dílny a klikněte na tlačítko \"Vytvořit\" a poté vyberte vesmír. Můžete začít nový samostatný příběh, fanfikci nebo příběh v rámci vesmíru.",
   "faq.question.workshop.editingTools": "Jaké nástroje pro úpravy jsou v dílně k dispozici?",

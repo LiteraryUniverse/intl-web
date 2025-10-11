@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Dold',
     'groups.type.hiddenDesc': 'Dold - Endast personer du bjuder in kan gå med.',
     'groups.imageAlt': '{groupName} bild',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Koncernens logotyp',
+    'groups.logo.help': 'Kvadratisk bild, rekommenderas 200x200px eller större',
+    'groups.banner.label': 'Gruppbanner',
+    'groups.banner.help': 'Bred bannerbild, rekommenderad 1200x675px (16:9-förhållande)',
     'groups.members': 'Medlemmar',
     'groups.members.total': `Det finns {totalMembers, plural,
     zero {inga medlemmar}

@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'దాచినది',
     'groups.type.hiddenDesc': 'దాచినది - మీరు ఆహ్వానించిన వారిని మాత్రమే సమూహంలో చేరవచ్చు.',
     'groups.imageAlt': '{groupName} చిత్రం',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'సభ్యులు',
     'groups.members.total': `ఈ సమూహంలో ఉన్నారు {totalMembers, plural,
     zero {సభ్యులు}

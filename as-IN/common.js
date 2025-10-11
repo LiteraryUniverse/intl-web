@@ -30,6 +30,7 @@ export default {
     'common.add': 'যোগ কৰক',
     'common.save': 'সংৰক্ষণ কৰক',
     'common.email': 'ইমেইল',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'শীঘ্ৰই আসছে...',
     'common.search': 'অনুসন্ধান কৰক',
     'common.search.do': 'অনুসন্ধান কৰক',

@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Skrytá',
     'groups.type.hiddenDesc': 'Skrytá - Připojit se mohou pouze lidé, které pozvete.',
     'groups.imageAlt': 'Obrázek {groupName}',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Logo skupiny',
+    'groups.logo.help': 'Čtvercový obrázek, doporučený rozměr 200x200px nebo větší',
+    'groups.banner.label': 'Banner skupiny',
+    'groups.banner.help': 'Širokoúhlý obrázek banneru, doporučené rozměry 1200x675px (poměr 16:9)',
     'groups.members': 'Členové',
     'groups.members.total': `Ve skupině {totalMembers, plural,
     one {je jeden člen}

@@ -22,5 +22,26 @@ export default {
     other {ιστορίες και σύμπαντα}
   } στη λίστα ανάγνωσης.`,
   'readingList.addItem.fromLibrary': 'Από τη βιβλιοθήκη',
-  'readingList.button.added': 'Προστέθηκε'
+  'readingList.addItem.yourOwn': `Τα δικά σας {type, select,
+    universes {σύμπαντα}
+    stories {ιστορίες}
+    other {ιδιότητες}
+  }`,
+  'readingList.addItem.noOwnStories': 'Δεν έχετε ακόμα ιστορίες',
+  'readingList.addItem.noOwnUniverses': 'Δεν έχετε ακόμα σύμπαντα',
+  'readingList.button.added': 'Προστέθηκε',
+  'readingList.delete': 'Διαγραφή λίστας',
+  'readingList.delete.confirm': 'Διαγραφή λίστας ανάγνωσης',
+  'readingList.delete.modalAria': 'Επιβεβαίωση modal για τη διαγραφή της λίστας ανάγνωσης',
+  'readingList.delete.warning': 'Είστε σίγουροι ότι θέλετε να διαγράψετε τη λίστα "{name}"; Αυτή η ενέργεια δεν μπορεί να ανακληθεί.',
+  'readingList.delete.itemsInfo': 'Αυτό θα αφαιρέσει τη λίστα, αλλά όχι τις ίδιες τις ιστορίες ή τα σύμπαντα.',
+  'readingList.delete.confirm.button': 'Διαγραφή λίστας',
+  'readingList.delete.deleting': 'Διαγραφή...',
+  'readingList.public.title': 'Δημόσιες λίστες ανάγνωσης',
+  'readingList.public.noLists': 'Δεν υπάρχουν δημόσιες λίστες ανάγνωσης ακόμη',
+  'readingList.public.seo.title': '{username}\'s Λίστες ανάγνωσης',
+  'readingList.public.seo.description': 'Περιηγηθείτε στις επιμελημένες λίστες ανάγνωσης ιστοριών και συμπάντων του {username}στο Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Λίστα ανάγνωσης από {username}',
+  'readingList.public.list.seo.description': 'Εξερευνήστε την επιμελημένη λίστα ανάγνωσης "{listName}" του {username}με ιστορίες και σύμπαντα στο Λογοτεχνικό Σύμπαν.',
+  'readingList.public.list.description': 'Περιγραφή: {description}'
 };

@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plans for Literary Universe development.',
   'roadmap.ariaTimeOptions': 'Mga pagpili para sa mga item sa roadmap batay sa kanilang status.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'Nasa progreso',

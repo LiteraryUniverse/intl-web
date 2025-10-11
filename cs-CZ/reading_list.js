@@ -22,5 +22,26 @@ export default {
     other {příběhů a vesmírů}
   } do seznamu četby.`,
   'readingList.addItem.fromLibrary': 'Z knihovny',
-  'readingList.button.added': 'Přidáno'
+  'readingList.addItem.yourOwn': `Vaše vlastní {type, select,
+    universes {vesmíry}
+    stories {příběhy}
+    other {vlastnosti}
+  }.`,
+  'readingList.addItem.noOwnStories': 'Zatím nemáte žádné příběhy',
+  'readingList.addItem.noOwnUniverses': 'Zatím nemáte žádné vesmíry',
+  'readingList.button.added': 'Přidáno',
+  'readingList.delete': 'Odstranit seznam',
+  'readingList.delete.confirm': 'Smazat seznam četby',
+  'readingList.delete.modalAria': 'Potvrzovací modal pro odstranění seznamu čtení',
+  'readingList.delete.warning': 'Jste si jisti, že chcete odstranit seznam "{name}"? Tuto akci nelze vrátit zpět.',
+  'readingList.delete.itemsInfo': 'Tím se odstraní seznam, ale ne samotné příběhy nebo vesmíry.',
+  'readingList.delete.confirm.button': 'Odstranit seznam',
+  'readingList.delete.deleting': 'Odstranění...',
+  'readingList.public.title': 'Seznamy veřejného čtení',
+  'readingList.public.noLists': 'Zatím žádné seznamy veřejné četby',
+  'readingList.public.seo.title': '{username}Seznamy četby',
+  'readingList.public.seo.description': 'Projděte si seznamy příběhů a vesmírů na stránkách {username}\'s kurátorem Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Seznam četby podle {username}',
+  'readingList.public.list.seo.description': 'Prohlédněte si seznam doporučené četby {username}\'{listName}\' s příběhy a vesmíry na stránkách Literárního vesmíru.',
+  'readingList.public.list.description': 'Popis: {description}'
 };

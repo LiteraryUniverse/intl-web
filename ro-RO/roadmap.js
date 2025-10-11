@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Planuri pentru dezvoltarea Universului Literar.',
   'roadmap.ariaTimeOptions': 'Selecții pentru elementele din planul de lucru bazate pe starea lor.',
   'roadmap.state.backlog': 'Listă de așteptare',
   'roadmap.state.inprogress': 'În desfășurare',

@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'അദ്ധ്യായം {chapter, number}: {wordCount, number} വാക്കുകൾ',
     'stats.totalHits': 'മൊത്തം കാഴ്ചകൾ',
     'stats.totalVisitors': 'മൊത്തം അനുഭവപ്പെടുന്ന സന്ദർശകർ',
-    'stats.totalWords': 'മൊത്തം വാക്കുകൾ',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'എൻസൈക്ലോപീഡിയ എൻട്രീകൾ',
     'stats.blogPage': 'പേജ്',
     'stats.blog.typeSelectionAria': 'തരം തിരഞ്ഞെടൽ',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
