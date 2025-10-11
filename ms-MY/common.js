@@ -30,6 +30,7 @@ export default {
     'common.add': 'Tambah',
     'common.save': 'Simpan',
     'common.email': 'E-mel',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'Akan datang...',
     'common.search': 'Cari',
     'common.search.do': 'Cari',
