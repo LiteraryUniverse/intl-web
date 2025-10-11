@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Лучшие страны',
     'workshop.theWay.overallStats.topAgeGroup': 'Лучшая возрастная группа',
     'workshop.theWay.overallStats.genres': 'Ваши жанры',
-    'stats.title': '{name} - Статистика'
+    'stats.title': '{name} - Статистика',
+    'stats.totalCharacters': 'Всего персонажей'
 };
