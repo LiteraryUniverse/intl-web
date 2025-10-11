@@ -1,5 +1,11 @@
 # Changelog for languages
 
+## 2025-10-11 - v2.18.0
+
+* Added writing statistics
+* New config for character based languages
+* New strings for Q&A module
+
 ## 2025-09-04 - v2.17.5
 
 * Add i18n keys for new/updated email notifications under `email.notifications.*`:

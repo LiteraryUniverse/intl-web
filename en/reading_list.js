@@ -22,5 +22,12 @@ export default {
     other {stories and universes}
   } to the reading list.`,
   'readingList.addItem.fromLibrary': 'From library',
-  'readingList.button.added': 'Added'
+  'readingList.button.added': 'Added',
+  'readingList.delete': 'Delete list',
+  'readingList.delete.confirm': 'Delete Reading List',
+  'readingList.delete.modalAria': 'Confirmation modal for deleting reading list',
+  'readingList.delete.warning': "Are you sure you want to delete \"{name}\" list? This action cannot be undone.",
+  'readingList.delete.itemsInfo': 'This will remove the list but not the stories or universes themselves.',
+  'readingList.delete.confirm.button': 'Delete List',
+  'readingList.delete.deleting': 'Deleting...'
 }

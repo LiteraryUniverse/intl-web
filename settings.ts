@@ -855,6 +855,19 @@ export const settings = {
     'UM',
     'VI',
   ],
+  /**
+   * Character-based languages that should display character count instead of word count
+   * These languages don't use spaces to separate words (CJK languages, Thai)
+   */
+  characterBasedLanguages: ['ja', 'ko', 'zh', 'zh-CN', 'zh-TW', 'zh-HK', 'th'],
+  /**
+   * Check if a language uses characters instead of words for counting
+   * @param language - Language code (e.g., 'ja', 'en', 'zh')
+   * @returns true if the language uses character-based counting
+   */
+  isCharacterBasedLanguage(language: string): boolean {
+    return this.characterBasedLanguages.includes(language)
+  },
 }
 
 export default settings
