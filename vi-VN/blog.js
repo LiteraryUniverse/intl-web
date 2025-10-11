@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Câu hỏi',
     'blog.qa.askQuestion': 'Hỏi một câu hỏi',
     'blog.qa.submitQuestion': 'Gửi câu hỏi',
+    'blog.qa.success.submit': 'Cảm ơn bạn! Câu hỏi của bạn đã được gửi và sẽ được trả lời sớm.',
+    'blog.qa.error.submit': 'Không thể gửi câu hỏi. Vui lòng thử lại.',
     'blog.qa.tab.allAnswered': 'Tất cả đã được trả lời',
     'blog.qa.tab.myQuestions': 'Các câu hỏi của tôi',
     'blog.qa.empty.all': 'Chưa có câu hỏi nào được trả lời.',
