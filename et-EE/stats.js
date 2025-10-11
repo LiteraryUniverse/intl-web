@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Peatükk {chapter, number}: {wordCount, number} sõna',
     'stats.totalHits': 'Kokku vaatamised',
     'stats.totalVisitors': 'Kokku unikaalsed külastajad',
-    'stats.totalWords': 'Kokku sõnad',
+    'stats.totalWords': 'Kokku sõnu',
     'stats.totalEntries': 'Entsüklopeedia kirjed',
     'stats.blogPage': 'Lehekülg',
     'stats.blog.typeSelectionAria': 'Tüübi valik',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Riik',
     'workshop.theWay.overallStats.topAgeGroup': 'Parim vanuserühm',
     'workshop.theWay.overallStats.genres': 'Teie žanrid',
-    'stats.title': '{name} - Statistika'
+    'stats.title': '{name} - Statistika',
+    'stats.totalCharacters': 'Tähemärgid kokku'
 };
