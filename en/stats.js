@@ -32,7 +32,7 @@ export default {
   'stats.chapter.chartTooltipWordCount': 'Chapter {chapter, number}: {wordCount, number} words',
   'stats.totalHits': 'Total views',
   'stats.totalVisitors': 'Total unique visitors',
-  'stats.totalWords': 'Total words',
+  'stats.totalWords': 'Total Words',
   'stats.totalEntries': 'Encyclopedia entries',
   'stats.blogPage': 'Page',
   'stats.blog.typeSelectionAria': 'Type selection',
@@ -63,5 +63,6 @@ export default {
   'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
   'workshop.theWay.overallStats.genres': 'Your Genres',
 
-  'stats.title': '{name} - Statistics'
+  'stats.title': '{name} - Statistics',
+  'stats.totalCharacters': 'Total Characters',
 }
