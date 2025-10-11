@@ -30,6 +30,7 @@ export default {
     'common.add': 'Cuir leis',
     'common.save': 'Sábháil',
     'common.email': 'Ríomhphost',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'Ag teacht go luath...',
     'common.search': 'Cuardach',
     'common.search.do': 'Cuardaigh',
