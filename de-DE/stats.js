@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Land',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Altersgruppe',
     'workshop.theWay.overallStats.genres': 'Ihre Genres',
-    'stats.title': '{name} - Statistik'
+    'stats.title': '{name} - Statistik',
+    'stats.totalCharacters': 'Zeichen gesamt'
 };
