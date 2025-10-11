@@ -22,6 +22,13 @@ export default {
     other {କାହାଣୀ ଏବଂ ବିଶ୍ୱଗୁଡ଼ିକ}
   } ଯୋଡ଼ନ୍ତୁ କରିବା ପାଇଁ ମୋଡାଲ`,
   'readingList.addItem.fromLibrary': 'ଗ୍ରନ୍ଥାଗାର ରୁ',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'You have no stories yet',
+  'readingList.addItem.noOwnUniverses': 'You have no universes yet',
   'readingList.button.added': 'ଯୋଡ଼ାଯାଇଛି',
   'readingList.delete': 'Delete list',
   'readingList.delete.confirm': 'Delete Reading List',
