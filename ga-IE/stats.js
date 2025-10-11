@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Caibidil {chapter, number}: {wordCount, number} focal',
     'stats.totalHits': 'Iomlán radharcanna',
     'stats.totalVisitors': 'Iomlán cuairteoirí uathúla',
-    'stats.totalWords': 'Iomlán focal',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'Iontrálacha leabhair gairmeacha',
     'stats.blogPage': 'Leathanach',
     'stats.blog.typeSelectionAria': 'Roghnaíocht ar an gCineál',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - Statistics'
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
