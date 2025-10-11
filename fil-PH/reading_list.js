@@ -22,6 +22,13 @@ export default {
     other {mga kuwento at mga kuwento ng uniberso}
   } sa listahan ng pagbabasa.`,
   'readingList.addItem.fromLibrary': 'Mula sa aklatan',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'You have no stories yet',
+  'readingList.addItem.noOwnUniverses': 'You have no universes yet',
   'readingList.button.added': 'Idinagdag',
   'readingList.delete': 'Delete list',
   'readingList.delete.confirm': 'Delete Reading List',
