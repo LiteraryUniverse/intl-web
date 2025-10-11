@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Скрытая',
     'groups.type.hiddenDesc': 'Скрытая - только приглашённые вами люди могут присоединиться.',
     'groups.imageAlt': 'Изображение {groupName}',
+    'groups.bannerAlt': '{groupName} баннер',
+    'groups.logo.label': 'Логотип группы',
+    'groups.logo.help': 'Квадратное изображение, рекомендуется 200x200px или больше',
+    'groups.banner.label': 'Баннер группы',
+    'groups.banner.help': 'Широкое баннерное изображение, рекомендуется 1200x675px (соотношение 16:9)',
     'groups.members': 'Участники',
     'groups.members.total': `В этой группе {totalMembers, plural,
     one {один участник}
