@@ -22,6 +22,13 @@ export default {
     other {গল্প এবং বিশ্ব}
   } যোগ করার মোডাল।`,
   'readingList.addItem.fromLibrary': 'লাইব্রেরী থেকে',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'You have no stories yet',
+  'readingList.addItem.noOwnUniverses': 'You have no universes yet',
   'readingList.button.added': 'যোগ করা হয়েছে',
   'readingList.delete': 'Delete list',
   'readingList.delete.confirm': 'Delete Reading List',
