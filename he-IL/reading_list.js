@@ -22,6 +22,13 @@ export default {
     other {סיפורים ויחידות יישות}
   } לרשימת הקריאה.`,
   'readingList.addItem.fromLibrary': 'מספרייה',
+  'readingList.addItem.yourOwn': `שלך {type, select,
+    universes {יקומים}
+    stories {סיפורים}
+    other {נכסים}
+  }`,
+  'readingList.addItem.noOwnStories': 'אין לך עדיין סיפורים',
+  'readingList.addItem.noOwnUniverses': 'אין לך עדיין יקומים',
   'readingList.button.added': 'נוסף',
   'readingList.delete': 'מחק רשימה',
   'readingList.delete.confirm': 'מחק רשימת קריאה',
