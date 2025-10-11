@@ -99,6 +99,8 @@ export default {
     'blog.qa.title': 'Otázky',
     'blog.qa.askQuestion': 'Položit otázku',
     'blog.qa.submitQuestion': 'Odeslat otázku',
+    'blog.qa.success.submit': 'Děkujeme! Váš dotaz byl odeslán a bude brzy zodpovězen.',
+    'blog.qa.error.submit': 'Nepodařilo se odeslat otázku. Zkuste to prosím znovu.',
     'blog.qa.tab.allAnswered': 'Vše zodpovězeno',
     'blog.qa.tab.myQuestions': 'Moje otázky',
     'blog.qa.empty.all': 'Zatím nebyly zodpovězeny žádné otázky.',
