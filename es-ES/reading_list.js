@@ -22,5 +22,19 @@ export default {
     other {historias y universos}
   } a la lista de lectura.`,
   'readingList.addItem.fromLibrary': 'Desde la biblioteca',
-  'readingList.button.added': 'Añadido'
+  'readingList.button.added': 'Añadido',
+  'readingList.delete': 'Borrar lista',
+  'readingList.delete.confirm': 'Borrar lista de lectura',
+  'readingList.delete.modalAria': 'Modalidad de confirmación para borrar la lista de lectura',
+  'readingList.delete.warning': '¿Está seguro de que desea borrar la lista "{name}"? Esta acción no se puede deshacer.',
+  'readingList.delete.itemsInfo': 'Esto eliminará la lista pero no las historias o universos en sí.',
+  'readingList.delete.confirm.button': 'Borrar lista',
+  'readingList.delete.deleting': 'Borrar...',
+  'readingList.public.title': 'Listas de lectura públicas',
+  'readingList.public.noLists': 'Aún no hay listas de lectura públicas',
+  'readingList.public.seo.title': '{username}Listas de lectura',
+  'readingList.public.seo.description': 'Consulte las listas de lectura de relatos y universos de {username}en Universo Literario.',
+  'readingList.public.list.seo.title': '{listName} - Lista de lecturas por {username}',
+  'readingList.public.list.seo.description': 'Explore {username}\'s curated reading list \'{listName}\' featuring stories and universes on Literary Universe.',
+  'readingList.public.list.description': 'Descripción: {description}'
 };
