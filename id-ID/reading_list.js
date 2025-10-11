@@ -22,6 +22,13 @@ export default {
     other {cerita dan alam semesta}
   } ke daftar bacaan.`,
   'readingList.addItem.fromLibrary': 'Dari perpustakaan',
+  'readingList.addItem.yourOwn': `Anda sendiri {type, select,
+    universes {alam semesta}
+    stories {cerita}
+    other {properti}
+  }`,
+  'readingList.addItem.noOwnStories': 'Anda belum memiliki cerita',
+  'readingList.addItem.noOwnUniverses': 'Anda belum memiliki alam semesta',
   'readingList.button.added': 'Ditambahkan',
   'readingList.delete': 'Menghapus daftar',
   'readingList.delete.confirm': 'Menghapus Daftar Bacaan',
