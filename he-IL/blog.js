@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'שאלות',
     'blog.qa.askQuestion': 'שאל שאלה',
     'blog.qa.submitQuestion': 'שלח שאלה',
+    'blog.qa.success.submit': 'תודה! שאלתך נשלחה ותענה בקרוב.',
+    'blog.qa.error.submit': 'לא ניתן לשלוח את השאלה. אנא נסה שוב.',
     'blog.qa.tab.allAnswered': 'כל התשובות',
     'blog.qa.tab.myQuestions': 'השאלות שלי',
     'blog.qa.empty.all': 'אין עדיין שאלות שנענו.',
