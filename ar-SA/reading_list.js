@@ -22,5 +22,19 @@ export default {
     other {قصص وكواكب}
   } إلى قائمة القراءة.`,
   'readingList.addItem.fromLibrary': 'من المكتبة',
-  'readingList.button.added': 'تمت الإضافة'
+  'readingList.button.added': 'تمت الإضافة',
+  'readingList.delete': 'حذف القائمة',
+  'readingList.delete.confirm': 'حذف قائمة القراءة',
+  'readingList.delete.modalAria': 'مشروطية التأكيد لحذف قائمة القراءة',
+  'readingList.delete.warning': 'هل أنت متأكد أنك تريد حذف القائمة "{name}"؟ لا يمكن التراجع عن هذا الإجراء.',
+  'readingList.delete.itemsInfo': 'سيؤدي ذلك إلى إزالة القائمة وليس القصص أو الأكوان نفسها.',
+  'readingList.delete.confirm.button': 'حذف القائمة',
+  'readingList.delete.deleting': 'حذف...',
+  'readingList.public.title': 'قوائم القراءة العامة',
+  'readingList.public.noLists': 'لا توجد قوائم قراءة عامة حتى الآن',
+  'readingList.public.seo.title': '{username}قوائم القراءة',
+  'readingList.public.seo.description': '{username}تصفح قوائم القراءة المنسقة للقصص والعوالم على موقع عالم الأدب .',
+  'readingList.public.list.seo.title': '{listName} - قائمة القراءة على الرابط {username}',
+  'readingList.public.list.seo.description': 'استكشف قائمة القراءة المنسقة "{listName}" {username}التي تضم قصصاً وعوالم على موقع عالم الأدب.',
+  'readingList.public.list.description': 'الوصف: {description}'
 };
