@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'País principal',
     'workshop.theWay.overallStats.topAgeGroup': 'Melhor faixa etária',
     'workshop.theWay.overallStats.genres': 'Seus gêneros',
-    'stats.title': '{name} - Estatísticas'
+    'stats.title': '{name} - Estatísticas',
+    'stats.totalCharacters': 'Total de caracteres'
 };
