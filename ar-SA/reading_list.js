@@ -22,6 +22,13 @@ export default {
     other {قصص وكواكب}
   } إلى قائمة القراءة.`,
   'readingList.addItem.fromLibrary': 'من المكتبة',
+  'readingList.addItem.yourOwn': `الخاصة بك {type, select,
+    universes {الأكوان}
+    stories {القصص ~}
+    other {الخصائص}
+  }`,
+  'readingList.addItem.noOwnStories': 'ليس لديك قصص بعد',
+  'readingList.addItem.noOwnUniverses': 'ليس لديك أي أكوان بعد',
   'readingList.button.added': 'تمت الإضافة',
   'readingList.delete': 'حذف القائمة',
   'readingList.delete.confirm': 'حذف قائمة القراءة',
