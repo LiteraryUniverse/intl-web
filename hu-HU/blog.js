@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Kérdések',
     'blog.qa.askQuestion': 'Kérdés feltevése',
     'blog.qa.submitQuestion': 'Kérdés beküldése',
+    'blog.qa.success.submit': 'Köszönöm! Kérdését elküldtük, és hamarosan válaszolunk rá.',
+    'blog.qa.error.submit': 'Nem sikerült elküldeni a kérdést. Kérjük, próbálja meg újra.',
     'blog.qa.tab.allAnswered': 'Minden Válaszolt',
     'blog.qa.tab.myQuestions': 'Kérdéseim',
     'blog.qa.empty.all': 'Még nincsenek megválaszolt kérdések.',
