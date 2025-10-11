@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': '問題',
     'blog.qa.askQuestion': '詢問問題',
     'blog.qa.submitQuestion': '提交問題',
+    'blog.qa.success.submit': '謝謝您！您的問題已經提交，並將很快得到解答。',
+    'blog.qa.error.submit': '提交問題失敗。請再試一次。',
     'blog.qa.tab.allAnswered': '全部回答',
     'blog.qa.tab.myQuestions': '我的問題',
     'blog.qa.empty.all': '尚未回答問題。',
