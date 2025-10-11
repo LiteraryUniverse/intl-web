@@ -97,6 +97,8 @@ export default {
     'blog.qa.title': '質問',
     'blog.qa.askQuestion': '質問する',
     'blog.qa.submitQuestion': '質問を投稿する',
+    'blog.qa.success.submit': 'ありがとうございました！あなたの質問は送信され、すぐに回答されます。',
+    'blog.qa.error.submit': '質問の送信に失敗しました。もう一度やり直してください。',
     'blog.qa.tab.allAnswered': 'すべて回答済み',
     'blog.qa.tab.myQuestions': '私の質問',
     'blog.qa.empty.all': '回答済みの質問はまだありません。',
