@@ -22,6 +22,13 @@ export default {
     other {storie e universi}
   } alla lista di lettura.`,
   'readingList.addItem.fromLibrary': 'Dalla libreria',
+  'readingList.addItem.yourOwn': `I suoi {type, select,
+    universes {universi}
+    stories {storie}
+    other {proprietà}
+  }`,
+  'readingList.addItem.noOwnStories': 'Non ci sono ancora storie',
+  'readingList.addItem.noOwnUniverses': 'Non ha ancora universi',
   'readingList.button.added': 'Aggiunto',
   'readingList.delete': 'Cancellare l\'elenco',
   'readingList.delete.confirm': 'Cancellare l\'elenco di lettura',
