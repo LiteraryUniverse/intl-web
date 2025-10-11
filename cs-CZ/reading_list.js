@@ -22,6 +22,13 @@ export default {
     other {příběhů a vesmírů}
   } do seznamu četby.`,
   'readingList.addItem.fromLibrary': 'Z knihovny',
+  'readingList.addItem.yourOwn': `Vaše vlastní {type, select,
+    universes {vesmíry}
+    stories {příběhy}
+    other {vlastnosti}
+  }.`,
+  'readingList.addItem.noOwnStories': 'Zatím nemáte žádné příběhy',
+  'readingList.addItem.noOwnUniverses': 'Zatím nemáte žádné vesmíry',
   'readingList.button.added': 'Přidáno',
   'readingList.delete': 'Odstranit seznam',
   'readingList.delete.confirm': 'Smazat seznam četby',
