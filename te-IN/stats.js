@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'అధ్యాయం {chapter, number}: {wordCount, number} పదాలు',
     'stats.totalHits': 'మొత్తం వీక్షణలు',
     'stats.totalVisitors': 'మొత్తం అందుబాటులో ఉన్న సందర్శకులు',
-    'stats.totalWords': 'మొత్తం పదాలు',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'సందర్శనలు',
     'stats.blogPage': 'పేజీ',
     'stats.blog.typeSelectionAria': 'రకం ఎంచుకునేందుకు',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - Statistics'
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
