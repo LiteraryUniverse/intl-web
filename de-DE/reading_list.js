@@ -22,6 +22,13 @@ export default {
     other {Geschichten und Universen}
   } zur Leseliste hinzuzufügen.`,
   'readingList.addItem.fromLibrary': 'Von der Bibliothek',
+  'readingList.addItem.yourOwn': `Ihre eigenen {type, select,
+    universes {Universen}
+    stories {Geschichten}
+    other {Eigenschaften}
+  }`,
+  'readingList.addItem.noOwnStories': 'Sie haben noch keine Geschichten',
+  'readingList.addItem.noOwnUniverses': 'Sie haben noch keine Universen',
   'readingList.button.added': 'Hinzugefügt',
   'readingList.delete': 'Liste löschen',
   'readingList.delete.confirm': 'Leseliste löschen',
