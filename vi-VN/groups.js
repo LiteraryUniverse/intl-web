@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Ẩn',
     'groups.type.hiddenDesc': 'Ẩn - Chỉ có những người bạn mời mới có thể tham gia.',
     'groups.imageAlt': '{groupName} hình ảnh',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Biểu tượng nhóm',
+    'groups.logo.help': 'Hình vuông, khuyến nghị kích thước 200x200px hoặc lớn hơn.',
+    'groups.banner.label': 'Biểu ngữ nhóm',
+    'groups.banner.help': 'Hình ảnh banner rộng, khuyến nghị kích thước 1200x675px (tỷ lệ 16:9)',
     'groups.members': 'Thành viên',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}
