@@ -22,6 +22,13 @@ export default {
     other {個故事和宇宙}
   } 新增至閱讀清單的對話框。`,
   'readingList.addItem.fromLibrary': '從圖書館中',
+  'readingList.addItem.yourOwn': `您自己的 {type, select,
+    universes {宇宙}
+    stories {故事}
+    other {屬性}
+  }`,
+  'readingList.addItem.noOwnStories': '您還沒有故事',
+  'readingList.addItem.noOwnUniverses': '您還沒有宇宙',
   'readingList.button.added': '已新增',
   'readingList.delete': '刪除清單',
   'readingList.delete.confirm': '刪除閱讀清單',
