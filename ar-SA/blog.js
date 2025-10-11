@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'الأسئلة',
     'blog.qa.askQuestion': 'طرح سؤال',
     'blog.qa.submitQuestion': 'إرسال سؤال',
+    'blog.qa.success.submit': 'شكراً لك! تم إرسال سؤالك وسيتم الرد عليه قريباً.',
+    'blog.qa.error.submit': 'فشل إرسال السؤال. يرجى المحاولة مرة أخرى.',
     'blog.qa.tab.allAnswered': 'تمت الإجابة على جميع الأسئلة',
     'blog.qa.tab.myQuestions': 'أسئلتي',
     'blog.qa.empty.all': 'لم تتم الإجابة على أي أسئلة حتى الآن.',
