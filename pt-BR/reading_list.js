@@ -22,6 +22,13 @@ export default {
     other {histórias e universos}
   } à lista de leitura.`,
   'readingList.addItem.fromLibrary': 'Da biblioteca',
+  'readingList.addItem.yourOwn': `O senhor mesmo {type, select,
+    universes {universos}
+    stories {histórias}
+    other {propriedades}
+  }`,
+  'readingList.addItem.noOwnStories': 'O senhor ainda não tem histórias',
+  'readingList.addItem.noOwnUniverses': 'O senhor ainda não tem universos',
   'readingList.button.added': 'Adicionado',
   'readingList.delete': 'Excluir lista',
   'readingList.delete.confirm': 'Excluir lista de leitura',
