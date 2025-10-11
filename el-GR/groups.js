@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Κρυφή',
     'groups.type.hiddenDesc': 'Κρυφή - Μόνο οι άνθρωποι που προσκαλείτε μπορούν να εγγραφούν.',
     'groups.imageAlt': '{groupName} εικόνα',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Λογότυπο ομάδας',
+    'groups.logo.help': 'Τετράγωνη εικόνα, συνιστάται 200x200px ή μεγαλύτερη',
+    'groups.banner.label': 'Πανό ομάδας',
+    'groups.banner.help': 'Ευρεία εικόνα banner, συνιστάται 1200x675px (αναλογία 16:9)',
     'groups.members': 'Μέλη',
     'groups.members.total': `Υπάρχουν {totalMembers, plural,
     zero {δεν υπάρχουν μέλη}
