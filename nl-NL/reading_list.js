@@ -22,6 +22,13 @@ export default {
     other {verhalen en universums}
   } toe te voegen aan de leeslijst.`,
   'readingList.addItem.fromLibrary': 'Uit bibliotheek',
+  'readingList.addItem.yourOwn': `Uw eigen {type, select,
+    universes {universums}
+    stories {verhalen}
+    other {eigenschappen}
+  }`,
+  'readingList.addItem.noOwnStories': 'U hebt nog geen verhalen',
+  'readingList.addItem.noOwnUniverses': 'U hebt nog geen universums',
   'readingList.button.added': 'Toegevoegd',
   'readingList.delete': 'Lijst verwijderen',
   'readingList.delete.confirm': 'Leeslijst verwijderen',
