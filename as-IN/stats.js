@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'অধ্যায় {chapter, number}: {wordCount, number} শব্দ',
     'stats.totalHits': 'মুকলি দৰ্শন',
     'stats.totalVisitors': 'মুকলি অদ্ভুত দৰ্শক',
-    'stats.totalWords': 'মুকলি শব্দ',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'জ্ঞানকোষ প্ৰবেশ',
     'stats.blogPage': 'পৃষ্ঠা',
     'stats.blog.typeSelectionAria': 'প্ৰকাৰ নিৰ্বাচন',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - Statistics'
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
