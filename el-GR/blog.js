@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Ερωτήσεις',
     'blog.qa.askQuestion': 'Ρωτήστε μια ερώτηση',
     'blog.qa.submitQuestion': 'Υποβολή ερώτησης',
+    'blog.qa.success.submit': 'Σας ευχαριστώ! Η ερώτησή σας έχει υποβληθεί και θα απαντηθεί σύντομα.',
+    'blog.qa.error.submit': 'Απέτυχε να υποβάλει ερώτηση. Προσπαθήστε ξανά.',
     'blog.qa.tab.allAnswered': 'Όλα απαντήθηκαν',
     'blog.qa.tab.myQuestions': 'Οι ερωτήσεις μου',
     'blog.qa.empty.all': 'Δεν υπάρχουν απαντημένες ερωτήσεις ακόμα.',
