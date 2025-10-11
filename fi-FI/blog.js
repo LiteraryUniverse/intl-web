@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Kysymykset',
     'blog.qa.askQuestion': 'Kysy kysymys',
     'blog.qa.submitQuestion': 'Lähetä kysymys',
+    'blog.qa.success.submit': 'Kiitos! Kysymyksesi on lähetetty ja siihen vastataan pian.',
+    'blog.qa.error.submit': 'Kysymyksen lähettäminen epäonnistui. Yritä uudelleen.',
     'blog.qa.tab.allAnswered': 'Kaikki Vastattu',
     'blog.qa.tab.myQuestions': 'Kysymykseni',
     'blog.qa.empty.all': 'Ei vielä vastattuja kysymyksiä.',
