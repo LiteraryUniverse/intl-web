@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'الفصل {chapter, number}: {wordCount, number} كلمة',
     'stats.totalHits': 'إجمالي المشاهدات',
     'stats.totalVisitors': 'إجمالي عدد الزوار الفريدة',
-    'stats.totalWords': 'إجمالي الكلمات',
+    'stats.totalWords': 'مجموع الكلمات',
     'stats.totalEntries': 'مدخلات الموسوعة',
     'stats.blogPage': 'صفحة',
     'stats.blog.typeSelectionAria': 'اختيار النوع',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'أفضل بلد',
     'workshop.theWay.overallStats.topAgeGroup': 'الفئة العمرية الأعلى',
     'workshop.theWay.overallStats.genres': 'الأنواع الخاصة بك',
-    'stats.title': '{name} - الإحصائيات'
+    'stats.title': '{name} - الإحصائيات',
+    'stats.totalCharacters': 'مجموع الشخصيات'
 };
