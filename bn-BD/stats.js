@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'অধ্যায় {chapter, number}: {wordCount, number} শব্দ',
     'stats.totalHits': 'মোট দর্শনার্থী',
     'stats.totalVisitors': 'মোট অনন্য দর্শনার্থী',
-    'stats.totalWords': 'মোট শব্দ',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'বিজ্ঞানকোষ নিবন্ধ',
     'stats.blogPage': 'পৃষ্ঠা',
     'stats.blog.typeSelectionAria': 'টাইপ নির্বাচন',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - Statistics'
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
