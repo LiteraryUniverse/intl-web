@@ -22,6 +22,13 @@ export default {
     other {povești și universuri}
   } în lista de lectură.`,
   'readingList.addItem.fromLibrary': 'Din bibliotecă',
+  'readingList.addItem.yourOwn': `Propriul tău {type, select,
+    universes {universuri}
+    stories {povești}
+    other {proprietăți}
+  }`,
+  'readingList.addItem.noOwnStories': 'Nu aveți încă povești',
+  'readingList.addItem.noOwnUniverses': 'Nu aveți încă universuri',
   'readingList.button.added': 'Adăugat',
   'readingList.delete': 'Ștergeți lista',
   'readingList.delete.confirm': 'Ștergeți lista de lectură',
