@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Питання',
     'blog.qa.askQuestion': 'Поставити запитання',
     'blog.qa.submitQuestion': 'Подати питання',
+    'blog.qa.success.submit': 'Дякуємо! Ваше запитання було надіслано, і ми відповімо на нього найближчим часом.',
+    'blog.qa.error.submit': 'Не вдалося надіслати запитання. Будь ласка, спробуйте ще раз.',
     'blog.qa.tab.allAnswered': 'Всі відповіді',
     'blog.qa.tab.myQuestions': 'Мої запитання',
     'blog.qa.empty.all': 'Поки що немає відповідей на запитання.',
