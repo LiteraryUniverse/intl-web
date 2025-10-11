@@ -30,6 +30,7 @@ export default {
     'common.add': 'జోడించు',
     'common.save': 'సేవ్',
     'common.email': 'ఇమెయిల్',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'త్వరలో...',
     'common.search': 'వెతకండి',
     'common.search.do': 'వెతకండి',
