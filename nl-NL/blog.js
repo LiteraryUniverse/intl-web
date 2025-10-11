@@ -97,6 +97,8 @@ export default {
     'blog.qa.title': 'Vragen',
     'blog.qa.askQuestion': 'Stel een vraag',
     'blog.qa.submitQuestion': 'Vraag indienen',
+    'blog.qa.success.submit': 'Hartelijk dank! Uw vraag is ingediend en zal binnenkort beantwoord worden.',
+    'blog.qa.error.submit': 'Vraag niet verzonden. Probeer het opnieuw.',
     'blog.qa.tab.allAnswered': 'Alle antwoorden',
     'blog.qa.tab.myQuestions': 'Mijn vragen',
     'blog.qa.empty.all': 'Nog geen vragen beantwoord.',
