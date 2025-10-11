@@ -22,6 +22,13 @@ export default {
     other {개의 이야기와 우주}
   } 개를 추가하기 위한 모달.`,
   'readingList.addItem.fromLibrary': '라이브러리에서',
+  'readingList.addItem.yourOwn': `나만의 {type, select,
+    universes {유니버스}
+    stories {스토리}
+    other {속성}
+  }`,
+  'readingList.addItem.noOwnStories': '아직 스토리가 없습니다.',
+  'readingList.addItem.noOwnUniverses': '아직 우주가 없습니다.',
   'readingList.button.added': '추가됨',
   'readingList.delete': '목록 삭제',
   'readingList.delete.confirm': '읽기 목록 삭제',
