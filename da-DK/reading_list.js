@@ -22,6 +22,13 @@ export default {
     other {historier og universer}
   } til læselisten.`,
   'readingList.addItem.fromLibrary': 'Fra biblioteket',
+  'readingList.addItem.yourOwn': `Dine egne {type, select,
+    universes {universer}
+    stories {historier}
+    other {egenskaber}
+  }`,
+  'readingList.addItem.noOwnStories': 'Du har ingen historier endnu',
+  'readingList.addItem.noOwnUniverses': 'Du har ingen universer endnu',
   'readingList.button.added': 'Tilføjet',
   'readingList.delete': 'Slet listen',
   'readingList.delete.confirm': 'Slet læseliste',
