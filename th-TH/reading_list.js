@@ -22,6 +22,13 @@ export default {
     other {เรื่องและจักรวาล}
   } ในรายการอ่าน`,
   'readingList.addItem.fromLibrary': 'จากห้องสมุด',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'คุณยังไม่มีเรื่องราว',
+  'readingList.addItem.noOwnUniverses': 'คุณยังไม่มีจักรวาล',
   'readingList.button.added': 'เพิ่มแล้ว',
   'readingList.delete': 'ลบรายการ',
   'readingList.delete.confirm': 'ลบรายการอ่าน',
