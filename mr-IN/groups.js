@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'लपविलेले',
     'groups.type.hiddenDesc': 'लपविलेले - फक्त तुम्ही आमंत्रित केलेले लोक समूहात सामील होऊ शकतात.',
     'groups.imageAlt': '{groupName} चित्र',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'सदस्य',
     'groups.members.total': `या समूहात {totalMembers, plural,
     zero {सदस्य आहेत}
