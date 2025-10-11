@@ -22,6 +22,13 @@ export default {
     other {історій та всесвітів}
   } до списку для читання.`,
   'readingList.addItem.fromLibrary': 'З бібліотеки',
+  'readingList.addItem.yourOwn': `Ваші власні {type, select,
+    universes {всесвіти}
+    stories {історії}
+    other {властивості}
+  }`,
+  'readingList.addItem.noOwnStories': 'У вас ще немає історій',
+  'readingList.addItem.noOwnUniverses': 'У вас ще немає всесвітів',
   'readingList.button.added': 'Додано',
   'readingList.delete': 'Видалити список',
   'readingList.delete.confirm': 'Видалити список літератури',
