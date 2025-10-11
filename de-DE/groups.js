@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Versteckt',
     'groups.type.hiddenDesc': 'Versteckt - Nur Personen, die Sie einladen, können teilnehmen.',
     'groups.imageAlt': '{groupName} Bild',
+    'groups.bannerAlt': '{groupName} Banner',
+    'groups.logo.label': 'Logo der Gruppe',
+    'groups.logo.help': 'Quadratisches Bild, empfohlen 200x200px oder größer',
+    'groups.banner.label': 'Gruppe Banner',
+    'groups.banner.help': 'Breites Bannerbild, empfohlen 1200x675px (Verhältnis 16:9)',
     'groups.members': 'Mitglieder',
     'groups.members.total': `Es gibt {totalMembers, plural,
     zero {keine Mitglieder}
