@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Spørgsmål',
     'blog.qa.askQuestion': 'Stil et spørgsmål',
     'blog.qa.submitQuestion': 'Indsend spørgsmål',
+    'blog.qa.success.submit': 'Tak skal du have! Dit spørgsmål er indsendt og vil snart blive besvaret.',
+    'blog.qa.error.submit': 'Kunne ikke indsende spørgsmål. Prøv venligst igen.',
     'blog.qa.tab.allAnswered': 'Alle besvarede',
     'blog.qa.tab.myQuestions': 'Mine spørgsmål',
     'blog.qa.empty.all': 'Ingen besvarede spørgsmål endnu.',
