@@ -22,6 +22,13 @@ export default {
     other {વાર્તાઓ અને વિશ્વો}
   } માટે.`,
   'readingList.addItem.fromLibrary': 'પુસ્તકાલયમાંથી',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'You have no stories yet',
+  'readingList.addItem.noOwnUniverses': 'You have no universes yet',
   'readingList.button.added': 'ઉમેરાયેલ',
   'readingList.delete': 'Delete list',
   'readingList.delete.confirm': 'Delete Reading List',
