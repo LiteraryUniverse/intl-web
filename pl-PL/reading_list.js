@@ -22,6 +22,13 @@ export default {
     other {opowieści i wszechświatów}
   } do listy czytelniczej.`,
   'readingList.addItem.fromLibrary': 'Z biblioteki',
+  'readingList.addItem.yourOwn': `Państwa własne {type, select,
+    universes {wszechświaty}
+    stories {historie}
+    other {właściwości}
+  }`,
+  'readingList.addItem.noOwnStories': 'Nie ma Pan jeszcze żadnych historii',
+  'readingList.addItem.noOwnUniverses': 'Nie ma Pan jeszcze żadnych wszechświatów',
   'readingList.button.added': 'Dodano',
   'readingList.delete': 'Proszę usunąć listę',
   'readingList.delete.confirm': 'Usuń listę czytelniczą',
