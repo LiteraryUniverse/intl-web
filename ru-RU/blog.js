@@ -99,6 +99,8 @@ export default {
     'blog.qa.title': 'Вопросы',
     'blog.qa.askQuestion': 'Задать вопрос',
     'blog.qa.submitQuestion': 'Отправить вопрос',
+    'blog.qa.success.submit': 'Спасибо! Ваш вопрос был отправлен и скоро на него будет дан ответ.',
+    'blog.qa.error.submit': 'Не удалось отправить вопрос. Пожалуйста, попробуйте еще раз.',
     'blog.qa.tab.allAnswered': 'Все отвеченные',
     'blog.qa.tab.myQuestions': 'Мои вопросы',
     'blog.qa.empty.all': 'На вопросы пока нет ответов.',
