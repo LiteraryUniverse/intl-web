@@ -22,6 +22,13 @@ export default {
     other {berättelser och universum}
   } i läslistan.`,
   'readingList.addItem.fromLibrary': 'Från biblioteket',
+  'readingList.addItem.yourOwn': `Dina egna {type, select,
+    universes {universum}
+    stories {berättelser}
+    other {egenskaper}
+  }`,
+  'readingList.addItem.noOwnStories': 'Du har inga berättelser ännu',
+  'readingList.addItem.noOwnUniverses': 'Du har inga universum ännu',
   'readingList.button.added': 'Tillagd',
   'readingList.delete': 'Radera lista',
   'readingList.delete.confirm': 'Radera läslista',
