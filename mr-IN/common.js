@@ -30,6 +30,7 @@ export default {
     'common.add': 'जोडा',
     'common.save': 'सेव्ह करा',
     'common.email': 'ई-मेल',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'शीघ्र येत आहे...',
     'common.search': 'शोधा',
     'common.search.do': 'शोधा',
