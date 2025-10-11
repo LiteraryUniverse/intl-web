@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Peidetud',
     'groups.type.hiddenDesc': 'Peidetud - Ainult kutsetega inimesed saavad liituda.',
     'groups.imageAlt': '{groupName} pilt',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Grupi logo',
+    'groups.logo.help': 'Ruudukujuline pilt, soovitatav suurus 200x200px või suurem.',
+    'groups.banner.label': 'Grupi bänner',
+    'groups.banner.help': 'Lai bänneripilt, soovitatav 1200x675px (16:9 suhe)',
     'groups.members': 'Liikmed',
     'groups.members.total': `Selles rühmas {totalMembers, plural,
     zero {ei ole ühtegi liiget}
