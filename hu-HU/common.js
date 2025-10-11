@@ -30,6 +30,7 @@ export default {
     'common.add': 'Hozzáadás',
     'common.save': 'Mentés',
     'common.email': 'E-mail',
+    'common.anonymous': 'Névtelen',
     'common.soon': 'Hamarosan...',
     'common.search': 'Keresés',
     'common.search.do': 'Keresés',
