@@ -97,6 +97,8 @@ export default {
     'blog.qa.title': 'Fragen',
     'blog.qa.askQuestion': 'Eine Frage stellen',
     'blog.qa.submitQuestion': 'Frage einreichen',
+    'blog.qa.success.submit': 'Vielen Dank! Ihre Frage wurde eingereicht und wird in Kürze beantwortet werden.',
+    'blog.qa.error.submit': 'Frage konnte nicht übermittelt werden. Bitte versuchen Sie es erneut.',
     'blog.qa.tab.allAnswered': 'Alle Antworten',
     'blog.qa.tab.myQuestions': 'Meine Fragen',
     'blog.qa.empty.all': 'Noch keine Fragen beantwortet.',
