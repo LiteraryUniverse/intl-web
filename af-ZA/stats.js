@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Hoofstuk {chapter, number}: {wordCount, number} woorde',
     'stats.totalHits': 'Totale vertonings',
     'stats.totalVisitors': 'Totale unieke besoekers',
-    'stats.totalWords': 'Totale woorde',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'Ensiklopedie inskrywings',
     'stats.blogPage': 'Bladsy',
     'stats.blog.typeSelectionAria': 'Tipe seleksie',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - Statistics'
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
