@@ -30,7 +30,7 @@ export default {
     'common.add': 'إضافة',
     'common.save': 'حفظ',
     'common.email': 'البريد الإلكتروني',
-    'common.anonymous': 'Anonymous',
+    'common.anonymous': 'مجهول',
     'common.soon': 'قريبًا...',
     'common.search': 'بحث',
     'common.search.do': 'بحث',
