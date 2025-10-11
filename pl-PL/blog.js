@@ -99,6 +99,8 @@ export default {
     'blog.qa.title': 'Pytania',
     'blog.qa.askQuestion': 'Proszę zadać pytanie',
     'blog.qa.submitQuestion': 'Proszę przesłać pytanie',
+    'blog.qa.success.submit': 'Dziękujemy! Państwa pytanie zostało przesłane i wkrótce na nie odpowiemy.',
+    'blog.qa.error.submit': 'Nie udało się przesłać pytania. Proszę spróbować ponownie.',
     'blog.qa.tab.allAnswered': 'Wszystkie odpowiedzi',
     'blog.qa.tab.myQuestions': 'Moje pytania',
     'blog.qa.empty.all': 'Nie ma jeszcze odpowiedzi na pytania.',
