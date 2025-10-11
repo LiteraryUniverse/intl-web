@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Skyrius {chapter, number}: {wordCount, number} žodžiai',
     'stats.totalHits': 'Viso peržiūrų',
     'stats.totalVisitors': 'Viso unikalių lankytojų',
-    'stats.totalWords': 'Viso žodžių',
+    'stats.totalWords': 'Iš viso žodžių',
     'stats.totalEntries': 'Enciklopedijos įrašai',
     'stats.blogPage': 'Puslapis',
     'stats.blog.typeSelectionAria': 'Pasirinkimas tipo',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Geriausia šalis',
     'workshop.theWay.overallStats.topAgeGroup': 'Geriausia amžiaus grupė',
     'workshop.theWay.overallStats.genres': 'Jūsų žanrai',
-    'stats.title': '{name} - Statistika'
+    'stats.title': '{name} - Statistika',
+    'stats.totalCharacters': 'Iš viso simbolių'
 };
