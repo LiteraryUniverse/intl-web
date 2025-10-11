@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Küsimused',
     'blog.qa.askQuestion': 'Küsi küsimus',
     'blog.qa.submitQuestion': 'Küsimuse esitamine',
+    'blog.qa.success.submit': 'Aitäh! Teie küsimus on esitatud ja sellele vastatakse peagi.',
+    'blog.qa.error.submit': 'Küsimuse esitamine ebaõnnestus. Palun proovige uuesti.',
     'blog.qa.tab.allAnswered': 'Kõik Vastatud',
     'blog.qa.tab.myQuestions': 'Minu küsimused',
     'blog.qa.empty.all': 'Küsimustele ei ole veel vastatud.',
