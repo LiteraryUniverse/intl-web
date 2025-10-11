@@ -22,5 +22,19 @@ export default {
     other {rakontoj kaj universoj}
   } al la legolisto.`,
   'readingList.addItem.fromLibrary': 'El biblioteko',
-  'readingList.button.added': 'Aldita'
+  'readingList.button.added': 'Aldita',
+  'readingList.delete': 'Delete list',
+  'readingList.delete.confirm': 'Delete Reading List',
+  'readingList.delete.modalAria': 'Confirmation modal for deleting reading list',
+  'readingList.delete.warning': 'Are you sure you want to delete "{name}" list? This action cannot be undone.',
+  'readingList.delete.itemsInfo': 'This will remove the list but not the stories or universes themselves.',
+  'readingList.delete.confirm.button': 'Delete List',
+  'readingList.delete.deleting': 'Deleting...',
+  'readingList.public.title': 'Public Reading Lists',
+  'readingList.public.noLists': 'No public reading lists yet',
+  'readingList.public.seo.title': '{username}\'s Reading Lists',
+  'readingList.public.seo.description': 'Browse {username}\'s curated reading lists of stories and universes on Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Reading List by {username}',
+  'readingList.public.list.seo.description': 'Explore {username}\'s curated reading list \'{listName}\' featuring stories and universes on Literary Universe.',
+  'readingList.public.list.description': 'Description: {description}'
 };
