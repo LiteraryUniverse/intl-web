@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Întrebări',
     'blog.qa.askQuestion': 'Puneți o întrebare',
     'blog.qa.submitQuestion': 'Trimite întrebare',
+    'blog.qa.success.submit': 'Vă mulțumim! Întrebarea dvs. a fost trimisă și va primi un răspuns în curând.',
+    'blog.qa.error.submit': 'Nu ați reușit să trimiteți întrebarea. Vă rugăm să încercați din nou.',
     'blog.qa.tab.allAnswered': 'Toate răspunsurile',
     'blog.qa.tab.myQuestions': 'Întrebările mele',
     'blog.qa.empty.all': 'Nu există încă răspunsuri la întrebări.',
