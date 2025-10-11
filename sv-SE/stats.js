@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Bästa land',
     'workshop.theWay.overallStats.topAgeGroup': 'Bästa åldersgrupp',
     'workshop.theWay.overallStats.genres': 'Dina genrer',
-    'stats.title': '{name} - Statistik'
+    'stats.title': '{name} - Statistik',
+    'stats.totalCharacters': 'Totalt antal tecken'
 };
