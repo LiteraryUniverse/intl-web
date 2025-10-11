@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Perguntas',
     'blog.qa.askQuestion': 'Faça uma pergunta',
     'blog.qa.submitQuestion': 'Enviar pergunta',
+    'blog.qa.success.submit': 'Obrigado, senhor! Sua pergunta foi enviada e será respondida em breve.',
+    'blog.qa.error.submit': 'Falha ao enviar a pergunta. Por favor, tente novamente.',
     'blog.qa.tab.allAnswered': 'Todas as respostas',
     'blog.qa.tab.myQuestions': 'Minhas perguntas',
     'blog.qa.empty.all': 'Ainda não há perguntas respondidas.',
