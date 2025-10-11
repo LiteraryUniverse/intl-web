@@ -22,6 +22,13 @@ export default {
     other {tarinoille ja universumeille}
   } lisäämistä varten lukulistaan.`,
   'readingList.addItem.fromLibrary': 'Kirjastosta',
+  'readingList.addItem.yourOwn': `Omat {type, select,
+    universes {universumit}
+    stories {tarinat}
+    other {ominaisuudet}
+  }`,
+  'readingList.addItem.noOwnStories': 'Sinulla ei ole vielä tarinoita',
+  'readingList.addItem.noOwnUniverses': 'Sinulla ei ole vielä universumeita',
   'readingList.button.added': 'Lisätty',
   'readingList.delete': 'Poista luettelo',
   'readingList.delete.confirm': 'Poista lukulista',
