@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'છુપી ગોળમાળા',
     'groups.type.hiddenDesc': 'છુપી - ફક્ત તમે આમંત્રિત કરેલા લોકો ગોળમાળામાં જોડાઈ શકે છે.',
     'groups.imageAlt': '{groupName} ચિત્ર',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'સભ્યો',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}
