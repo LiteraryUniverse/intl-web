@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Pertanyaan',
     'blog.qa.askQuestion': 'Ajukan Pertanyaan',
     'blog.qa.submitQuestion': 'Kirim Pertanyaan',
+    'blog.qa.success.submit': 'Terima kasih! Pertanyaan Anda telah dikirimkan dan akan segera dijawab.',
+    'blog.qa.error.submit': 'Gagal mengirimkan pertanyaan. Silakan coba lagi.',
     'blog.qa.tab.allAnswered': 'Semua terjawab',
     'blog.qa.tab.myQuestions': 'Pertanyaan saya',
     'blog.qa.empty.all': 'Belum ada pertanyaan yang terjawab.',
