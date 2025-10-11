@@ -22,6 +22,13 @@ export default {
     other {lugude ja universumite}
   } lisamiseks lugemisnimekirja.`,
   'readingList.addItem.fromLibrary': 'Raamatukogust',
+  'readingList.addItem.yourOwn': `Sinu enda {type, select,
+    universes {universumid}
+    stories {lood}
+    other {omadused}
+  }`,
+  'readingList.addItem.noOwnStories': 'Sul ei ole veel ühtegi lugu',
+  'readingList.addItem.noOwnUniverses': 'Teil ei ole veel ühtegi universumit',
   'readingList.button.added': 'Lisatud',
   'readingList.delete': 'Loetelu kustutamine',
   'readingList.delete.confirm': 'Kustuta lugemisnimekiri',
