@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Questions',
     'blog.qa.askQuestion': 'Posez une question',
     'blog.qa.submitQuestion': 'Soumettre une question',
+    'blog.qa.success.submit': 'Nous vous remercions de votre attention. Votre question a été soumise et recevra bientôt une réponse.',
+    'blog.qa.error.submit': 'La question n\'a pas été soumise. Veuillez réessayer.',
     'blog.qa.tab.allAnswered': 'Toutes les réponses',
     'blog.qa.tab.myQuestions': 'Mes questions',
     'blog.qa.empty.all': 'Aucune question n\'a encore reçu de réponse.',
