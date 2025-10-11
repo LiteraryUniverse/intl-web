@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'คำถาม',
     'blog.qa.askQuestion': 'ถามคำถาม',
     'blog.qa.submitQuestion': 'ส่งคำถาม',
+    'blog.qa.success.submit': 'ขอบคุณ! คำถามของคุณได้ถูกส่งแล้ว และจะได้รับการตอบกลับในเร็ว ๆ นี้',
+    'blog.qa.error.submit': 'ไม่สามารถส่งคำถามได้ กรุณาลองอีกครั้ง',
     'blog.qa.tab.allAnswered': 'ตอบแล้วทั้งหมด',
     'blog.qa.tab.myQuestions': 'คำถามของฉัน',
     'blog.qa.empty.all': 'ยังไม่มีคำถามที่ได้รับคำตอบ',
