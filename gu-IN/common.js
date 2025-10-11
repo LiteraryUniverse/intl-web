@@ -30,6 +30,7 @@ export default {
     'common.add': 'ઉમેરો',
     'common.save': 'સાચવો',
     'common.email': 'ઇમેઇલ',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'આવતી રહેશે...',
     'common.search': 'શોધો',
     'common.search.do': 'શોધો',
