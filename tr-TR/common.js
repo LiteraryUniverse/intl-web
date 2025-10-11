@@ -30,6 +30,7 @@ export default {
     'common.add': 'Ekle',
     'common.save': 'Kaydet',
     'common.email': 'E-posta',
+    'common.anonymous': 'Anonim',
     'common.soon': 'Yakında...',
     'common.search': 'Ara',
     'common.search.do': 'Ara',
