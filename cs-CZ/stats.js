@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Nejlepší země',
     'workshop.theWay.overallStats.topAgeGroup': 'Nejlepší věková skupina',
     'workshop.theWay.overallStats.genres': 'Vaše žánry',
-    'stats.title': '{name} - Statistiky'
+    'stats.title': '{name} - Statistiky',
+    'stats.totalCharacters': 'Celkový počet znaků'
 };
