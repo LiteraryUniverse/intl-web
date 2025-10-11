@@ -22,6 +22,13 @@ export default {
     other {történetek és univerzumok}
   } hozzáadásához az olvasási listához.`,
   'readingList.addItem.fromLibrary': 'Könyvtárból',
+  'readingList.addItem.yourOwn': `Saját {type, select,
+    universes {univerzumok}
+    stories {történetek}
+    other {tulajdonságok}
+  }`,
+  'readingList.addItem.noOwnStories': 'Még nincsenek történetei',
+  'readingList.addItem.noOwnUniverses': 'Még nincsenek univerzumai',
   'readingList.button.added': 'Hozzáadva',
   'readingList.delete': 'Lista törlése',
   'readingList.delete.confirm': 'Olvasási lista törlése',
