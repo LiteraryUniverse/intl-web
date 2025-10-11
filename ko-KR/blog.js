@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': '질문',
     'blog.qa.askQuestion': '질문하기',
     'blog.qa.submitQuestion': '질문 제출',
+    'blog.qa.success.submit': '감사합니다! 질문이 제출되었으며 곧 답변해 드리겠습니다.',
+    'blog.qa.error.submit': '질문을 제출하지 못했습니다. 다시 시도해 주세요.',
     'blog.qa.tab.allAnswered': '모든 답변',
     'blog.qa.tab.myQuestions': '내 질문',
     'blog.qa.empty.all': '아직 답변된 질문이 없습니다.',
