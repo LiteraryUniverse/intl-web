@@ -22,6 +22,13 @@ export default {
     other {ιστορίες και σύμπαντα}
   } στη λίστα ανάγνωσης.`,
   'readingList.addItem.fromLibrary': 'Από τη βιβλιοθήκη',
+  'readingList.addItem.yourOwn': `Τα δικά σας {type, select,
+    universes {σύμπαντα}
+    stories {ιστορίες}
+    other {ιδιότητες}
+  }`,
+  'readingList.addItem.noOwnStories': 'Δεν έχετε ακόμα ιστορίες',
+  'readingList.addItem.noOwnUniverses': 'Δεν έχετε ακόμα σύμπαντα',
   'readingList.button.added': 'Προστέθηκε',
   'readingList.delete': 'Διαγραφή λίστας',
   'readingList.delete.confirm': 'Διαγραφή λίστας ανάγνωσης',
