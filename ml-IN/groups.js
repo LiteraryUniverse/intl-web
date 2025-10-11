@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'മറുപടിക്കാരനായിരിക്കുക',
     'groups.type.hiddenDesc': 'മറുപടിക്കാരനായിരിക്കുക - നിങ്ങൾ ആഹ്വാനിച്ചാലുമാത്രം ആളുകൾ ഗ്രൂപ്പിൽ ചേരാനാകൂ.',
     'groups.imageAlt': '{groupName} ചിത്രം',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'അംഗങ്ങൾ',
     'groups.members.total': `ഈ ഗ്രൂപ്പിൽ {totalMembers, plural,
     zero {അംഗങ്ങൾ}
