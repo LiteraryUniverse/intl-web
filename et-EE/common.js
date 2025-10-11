@@ -30,6 +30,7 @@ export default {
     'common.add': 'Lisa',
     'common.save': 'Salvesta',
     'common.email': 'E-post',
+    'common.anonymous': 'Anonüümne',
     'common.soon': 'Varsti saadaval...',
     'common.search': 'Otsi',
     'common.search.do': 'Otsi',
