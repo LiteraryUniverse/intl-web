@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Rejtett',
     'groups.type.hiddenDesc': 'Rejtett - Csak a meghívott emberek csatlakozhatnak.',
     'groups.imageAlt': '{groupName} kép',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Csoport logó',
+    'groups.logo.help': 'Négyzet alakú kép, ajánlott 200x200px vagy nagyobb méretben',
+    'groups.banner.label': 'Csoport Banner',
+    'groups.banner.help': 'Széles banner kép, ajánlott 1200x675px (16:9 arány)',
     'groups.members': 'Tagok',
     'groups.members.total': `Ebben a csoportban {totalMembers, plural,
     zero {nincsenek tagok}
