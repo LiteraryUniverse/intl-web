@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Klausimai',
     'blog.qa.askQuestion': 'Užduoti klausimą',
     'blog.qa.submitQuestion': 'Pateikti klausimą',
+    'blog.qa.success.submit': 'Ačiū! Jūsų klausimas pateiktas ir netrukus bus atsakyta į jį.',
+    'blog.qa.error.submit': 'Nepavyko pateikti klausimo. Bandykite dar kartą.',
     'blog.qa.tab.allAnswered': 'Į visus klausimus atsakyta',
     'blog.qa.tab.myQuestions': 'Mano klausimai',
     'blog.qa.empty.all': 'Dar nėra atsakytų klausimų.',
