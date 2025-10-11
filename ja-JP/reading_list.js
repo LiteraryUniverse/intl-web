@@ -22,6 +22,13 @@ export default {
     other {物語と宇宙}
   }を追加するためのモーダル。`,
   'readingList.addItem.fromLibrary': 'ライブラリから',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'まだストーリーはありません',
+  'readingList.addItem.noOwnUniverses': 'あなたはまだ宇宙を持っていない',
   'readingList.button.added': '追加されました',
   'readingList.delete': 'リスト削除',
   'readingList.delete.confirm': '読書リストの削除',
