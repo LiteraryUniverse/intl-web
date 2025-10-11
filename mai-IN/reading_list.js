@@ -22,6 +22,13 @@ export default {
     other {कहानियाँ और यूनिवर्स}
   } जोड़ने के लिए मॉडल`,
   'readingList.addItem.fromLibrary': 'लाइब्रेरी से',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'You have no stories yet',
+  'readingList.addItem.noOwnUniverses': 'You have no universes yet',
   'readingList.button.added': 'जोड़ दिया गया है',
   'readingList.delete': 'Delete list',
   'readingList.delete.confirm': 'Delete Reading List',
