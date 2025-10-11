@@ -30,6 +30,7 @@ export default {
     'common.add': 'Lägg till',
     'common.save': 'Spara',
     'common.email': 'E-post',
+    'common.anonymous': 'Anonym',
     'common.soon': 'Kommer snart...',
     'common.search': 'Sök',
     'common.search.do': 'Sök',
