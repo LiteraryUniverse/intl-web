@@ -22,6 +22,13 @@ export default {
     other {stories en heelale}
   } by die leeslys te voeg.`,
   'readingList.addItem.fromLibrary': 'Vanaf biblioteek',
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'You have no stories yet',
+  'readingList.addItem.noOwnUniverses': 'You have no universes yet',
   'readingList.button.added': 'Bygevoeg',
   'readingList.delete': 'Delete list',
   'readingList.delete.confirm': 'Delete Reading List',
