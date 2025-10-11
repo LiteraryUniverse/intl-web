@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': '{chapter, number}. fejezet: {wordCount, number} szó',
     'stats.totalHits': 'Összes megtekintés',
     'stats.totalVisitors': 'Összes egyedi látogató',
-    'stats.totalWords': 'Összes szó',
+    'stats.totalWords': 'Szavak összesen',
     'stats.totalEntries': 'Enciklopédia bejegyzések',
     'stats.blogPage': 'Oldal',
     'stats.blog.typeSelectionAria': 'Típus kiválasztása',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Ország',
     'workshop.theWay.overallStats.topAgeGroup': 'Legjobb korcsoport',
     'workshop.theWay.overallStats.genres': 'Az Ön műfajai',
-    'stats.title': '{name} - Statisztikák'
+    'stats.title': '{name} - Statisztikák',
+    'stats.totalCharacters': 'Összes karakter'
 };
