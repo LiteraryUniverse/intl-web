@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'თემა {chapter, number}: {wordCount, number} სიტყვა',
     'stats.totalHits': 'სულ ნახვები',
     'stats.totalVisitors': 'სულ უნიკალური მომხმარებელი',
-    'stats.totalWords': 'სულ სიტყვები',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'ენციკლოპედიის ჩანაწერები',
     'stats.blogPage': 'გვერდი',
     'stats.blog.typeSelectionAria': 'ტიპის არჩევა',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - Statistics'
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
