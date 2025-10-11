@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': '상위 국가',
     'workshop.theWay.overallStats.topAgeGroup': '상위 연령대',
     'workshop.theWay.overallStats.genres': '장르',
-    'stats.title': '{name} - 통계'
+    'stats.title': '{name} - 통계',
+    'stats.totalCharacters': '총 문자 수'
 };
