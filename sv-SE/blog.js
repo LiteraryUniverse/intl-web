@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Frågor och svar',
     'blog.qa.askQuestion': 'Ställ en fråga',
     'blog.qa.submitQuestion': 'Skicka in fråga',
+    'blog.qa.success.submit': 'Tack så mycket! Din fråga har skickats in och kommer att besvaras inom kort.',
+    'blog.qa.error.submit': 'Misslyckades med att skicka in frågan. Vänligen försök igen.',
     'blog.qa.tab.allAnswered': 'Alla besvarade',
     'blog.qa.tab.myQuestions': 'Mina frågor',
     'blog.qa.empty.all': 'Inga besvarade frågor ännu.',
