@@ -98,6 +98,8 @@ export default {
     'blog.qa.title': 'Sorular',
     'blog.qa.askQuestion': 'Bir Soru Sor',
     'blog.qa.submitQuestion': 'Soru Gönder',
+    'blog.qa.success.submit': 'Teşekkür ederiz! Sorunuz iletilmiştir ve yakında yanıtlanacaktır.',
+    'blog.qa.error.submit': 'Soru gönderilemedi. Lütfen tekrar deneyiniz.',
     'blog.qa.tab.allAnswered': 'Hepsi Cevaplandı',
     'blog.qa.tab.myQuestions': 'Benim Sorularım',
     'blog.qa.empty.all': 'Henüz cevaplanmış soru yok.',
