@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'ଅଧ୍ୟାୟ {chapter, number}: {wordCount, number} ଶବ୍ଦ',
     'stats.totalHits': 'ମୋଟ ଦୃଶ୍ୟମାନ',
     'stats.totalVisitors': 'ମୋଟ ଅନ୍ୟାନ୍ୟ ଦର୍ଶକ',
-    'stats.totalWords': 'ମୋଟ ଶବ୍ଦ',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'ଜ୍ଞାନକୋଷ ପ୍ରବେଶ',
     'stats.blogPage': 'ପୃଷ୍ଠା',
     'stats.blog.typeSelectionAria': 'ସାମାନ୍ୟ ଚୟନ',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - Statistics'
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };
