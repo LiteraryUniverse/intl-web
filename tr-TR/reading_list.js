@@ -22,6 +22,13 @@ export default {
     other {hikaye ve evren}
   } ekleme iletişim kutusu`,
   'readingList.addItem.fromLibrary': 'Kütüphaneden',
+  'readingList.addItem.yourOwn': `Kendinize ait {type, select,
+    universes {evrenler}
+    stories {hikayeler}
+    other {özellikler}
+  }`,
+  'readingList.addItem.noOwnStories': 'Henüz hikayeniz yok',
+  'readingList.addItem.noOwnUniverses': 'Henüz evreniniz yok',
   'readingList.button.added': 'Eklendi',
   'readingList.delete': 'Listeyi sil',
   'readingList.delete.confirm': 'Okuma Listesini Sil',
