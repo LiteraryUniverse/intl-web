@@ -22,6 +22,13 @@ export default {
     other {istorijas ir visatas}
   } į skaitymo sąrašą.`,
   'readingList.addItem.fromLibrary': 'Iš bibliotekos',
+  'readingList.addItem.yourOwn': `Jūsų pačių {type, select,
+    universes {visatos}
+    stories {istorijos}
+    other {savybės}
+  }`,
+  'readingList.addItem.noOwnStories': 'Jūs dar neturite jokių istorijų',
+  'readingList.addItem.noOwnUniverses': 'Jūs dar neturite visatų',
   'readingList.button.added': 'Pridėta',
   'readingList.delete': 'Ištrinti sąrašą',
   'readingList.delete.confirm': 'Ištrinti skaitymo sąrašą',
