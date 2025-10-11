@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'פרק {chapter, number}: {wordCount, number} מילים',
     'stats.totalHits': 'סך הכול של צפיות',
     'stats.totalVisitors': 'סך הכול של מבקרים ייחודיים',
-    'stats.totalWords': 'סך הכול של מילים',
+    'stats.totalWords': 'סה"כ מילים',
     'stats.totalEntries': 'רשומות באנציקלופדיה',
     'stats.blogPage': 'דף',
     'stats.blog.typeSelectionAria': 'בחירת סוג',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
     'workshop.theWay.overallStats.genres': 'Your Genres',
-    'stats.title': '{name} - סטטיסטיקה'
+    'stats.title': '{name} - סטטיסטיקה',
+    'stats.totalCharacters': 'סה"כ תווים'
 };
