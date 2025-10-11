@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Kapitel {chapter, number}: {wordCount, number} ord',
     'stats.totalHits': 'Samlede visninger',
     'stats.totalVisitors': 'Samlede unikke besøgende',
-    'stats.totalWords': 'Samlede ord',
+    'stats.totalWords': 'Ord i alt',
     'stats.totalEntries': 'Encyklopædi-indgange',
     'stats.blogPage': 'Side',
     'stats.blog.typeSelectionAria': 'Type valg',
@@ -60,5 +60,6 @@ export default {
     'workshop.theWay.overallStats.topCountry': 'Top land',
     'workshop.theWay.overallStats.topAgeGroup': 'Bedste aldersgruppe',
     'workshop.theWay.overallStats.genres': 'Dine genrer',
-    'stats.title': '{name} - Statistik'
+    'stats.title': '{name} - Statistik',
+    'stats.totalCharacters': 'Tegn i alt'
 };
