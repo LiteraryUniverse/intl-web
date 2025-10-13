@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': '독자 인구 통계',
     'workshop.theWay.overallStats.topCountry': '상위 국가',
     'workshop.theWay.overallStats.topAgeGroup': '상위 연령대',
-    'workshop.theWay.overallStats.genres': '장르'
+    'workshop.theWay.overallStats.genres': '장르',
+    'stats.title': '{name} - 통계',
+    'stats.totalCharacters': '총 문자 수'
 };

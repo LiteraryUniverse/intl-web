@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'ਓਹਲੇ',
     'groups.type.hiddenDesc': 'ਓਹਲੇ - ਸਿਰਫ ਉਹੀ ਲੋਕ ਤੁਹਾਡੇ ਗਰੁੱਪ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੂੰ ਤੁਸੀਂ ਆਮੰਤਰਿਤ ਕਰਦੇ ਹੋ।',
     'groups.imageAlt': '{groupName} ਤਸਵੀਰ',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'ਮੈਂਬਰ',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

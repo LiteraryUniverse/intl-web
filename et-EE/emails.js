@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Tere {username},',
     'email.welcome': 'Tere tulemast Kirjanduslikku Universumisse!',
-    'email.signature': 'Parimate soovidega,<br />Kirjandusliku Universumi meeskond',
-    'email.footer.settingsHtml': 'Saate oma e-posti seadeid muuta <a href="{link}">oma konto seadetes</a>.',
+    'email.signature': 'Lugupidamisega<br>,Kirjanduse Universumi meeskond</br>',
+    'email.footer.settingsHtml': 'Saate oma e-posti seadeid muuta <link>oma konto seadetes</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Tere tulemast pardale',
     'email.enrollAccount.messageHtml': 'Kutsume teid kirjandusuniversumisse! Läksime edasi ja valmistasime teile isikliku konto, kus saate juurdepääsu kõikidele Literary Universe\'i funktsioonidele. Palun ühinege meiega loomingulise kirjutamise ja lugemise järgmise põlvkonna loomisel!',
     'email.enrollAccount.button': 'Ligipääs oma kontole',
-    'email.enrollAccount.signature': 'Ootame teid,<br />Kirjandusuniversumi meeskond.',
+    'email.enrollAccount.signature': 'Ootame teid<br>, Kirjandusuniversumi meeskond.</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Oleme saanud taotluse teie konto parooli lähtestamiseks. Palun klõpsake protsessi jätkamiseks alloleval nupul. Kui te ei ole seda taotlust esitanud, võite seda e-kirja ignoreerida, kuid võib-olla on hea aeg oma turvasätted üle vaadata.',
     'email.resetPassword.button': 'Lähtesta parool',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Lugu: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Jätkake teemal "Autori tee',
     'email.notifications.firstStory.ctaStory': 'Avage oma lugu',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Palju õnne! Sinu esimene lugu on avaldatud ja sa jõudsid autori 1. tasemele!',
+    'email.notifications.firstStoryPublished.title': '🎉 Sinu teekond algab!',
+    'email.notifications.firstStoryPublished.intro': 'Palju õnne oma esimese loo avaldamise puhul! See on oluline verstapost teie loomingulisel teekonnal.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Sa oled jõudnud autori tee 1. tasemele! See on alles algus uskumatule seiklusele lugude jutustamises.',
+    'email.notifications.firstStoryPublished.encouragement': 'Iga suur autor alustas oma esimese avaldatud teosega. Jätkake kirjutamist, kasvage ja laske oma loovusel õitseda. Kirjandusuniversumi kogukond on siin, et toetada teid igal sammul.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Uurige autori teed',
+    'email.notifications.firstStoryPublished.ctaStory': 'Vaata oma avaldatud lugu',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Palju õnne esimese universumi puhul!',
     'email.notifications.firstUniverse.title': 'Palju õnne oma esimese universumi loomise puhul!',

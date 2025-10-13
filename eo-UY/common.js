@@ -30,6 +30,7 @@ export default {
     'common.add': 'Aldoni',
     'common.save': 'Konservu',
     'common.email': 'Retpoŝto',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'Coming soon...',
     'common.search': 'Search',
     'common.search.do': 'Search',

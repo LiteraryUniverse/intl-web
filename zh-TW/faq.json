@@ -82,6 +82,8 @@
   "faq.answer.workshop.finished": "您可以前往故事儀表板，在底部有一個綠色按鈕，上面寫著「將故事狀態變更為「已完成」」，表示您的故事已經完成。這將會在最後的頁面上將故事標示為已完成，以告訴讀者故事已完成，並請讀者查看您的其他作品。這也會在發現中顯示，讓正在尋找完結故事的讀者更容易看到您的故事。",
   "faq.question.workshop.seo": "SEO-Friendly-Address 在各種設定中有什麼用途？",
   "faq.answer.workshop.seo": "SEO-Friendly-Address 是一種讓您的故事、宇宙、部落格文章更容易被搜尋引擎看到，以及讓人類更容易閱讀 URL 的方式。這是一種讓您的作品更容易被發現的方式，也能幫助人們在搜尋類似作品時找到您的作品。",
+  "faq.question.workshop.descriptionLength": "故事和宇宙描述的最佳長度是多少？",
+  "faq.answer.workshop.descriptionLength": "長度以 150-160 個字元為目標，以確保您的描述能提供足夠的資訊，而不會在搜尋結果中被截斷。這有助於提高您的作品在搜尋引擎和社群媒體平台上的能見度。在此範圍內精心撰寫的描述將完整地顯示在 Google 搜尋結果和社群媒體預覽中，使其更容易吸引讀者。",
   "faq.question.workshop.createProject": "如何在 Workshop 中開啟新的宇宙？",
   "faq.answer.workshop.createProject": "前往 Workshop 並按一下「建立」按鈕，然後選擇一個宇宙。您可以開始一個新的獨立故事、同人小說或宇宙中的故事。",
   "faq.question.workshop.editingTools": "工作坊中有哪些編輯工具？",

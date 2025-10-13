@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Kirjallisuusuniversumin kehittämissuunnitelmat.',
   'roadmap.ariaTimeOptions': 'Valinnat tiekartan kohteiden perusteella niiden tilan mukaan.',
   'roadmap.state.backlog': 'Tuoteselkä',
   'roadmap.state.inprogress': 'Käynnissä',

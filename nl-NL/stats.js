@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Lezersdemografie',
     'workshop.theWay.overallStats.topCountry': 'Top land',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Leeftijdsgroep',
-    'workshop.theWay.overallStats.genres': 'Uw genres'
+    'workshop.theWay.overallStats.genres': 'Uw genres',
+    'stats.title': '{name} - Statistieken',
+    'stats.totalCharacters': 'Totaal aantal tekens'
 };

@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': '非表示',
     'groups.type.hiddenDesc': '非表示 - あなたが招待した人だけが参加できます。',
     'groups.imageAlt': '{groupName}の画像',
+    'groups.bannerAlt': '{groupName} バナー',
+    'groups.logo.label': 'グループロゴ',
+    'groups.logo.help': '正方形の画像、200x200px以上を推奨',
+    'groups.banner.label': 'グループバナー',
+    'groups.banner.help': 'ワイドバナー画像、推奨1200x675px（16:9比率）',
     'groups.members': 'メンバー',
     'groups.members.total': `ありません {totalMembers, plural,
     other {このグループのメンバーは # 人です}

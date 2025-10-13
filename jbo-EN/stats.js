@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Xrisrbirka {chapter, number}: {wordCount, number} valsi',
     'stats.totalHits': 'viska cu\'o',
     'stats.totalVisitors': 'viska se jalge cu\'o',
-    'stats.totalWords': 'valsi cu\'o',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'xanri jvike',
     'stats.blogPage': 'bloti',
     'stats.blog.typeSelectionAria': 'Klesi xanri',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

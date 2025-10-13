@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'அதிகாலை {chapter, number}: {wordCount, number} வார்த்தைகள்',
     'stats.totalHits': 'மொத்த வருகின்றவை',
     'stats.totalVisitors': 'மொத்த தனிப்பட்ட வருகின்றவை',
-    'stats.totalWords': 'மொத்த சொற்கள்',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'அரசுக்குரிய பதிவுகள்',
     'stats.blogPage': 'பக்கம்',
     'stats.blog.typeSelectionAria': 'வகை தேர்வு',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

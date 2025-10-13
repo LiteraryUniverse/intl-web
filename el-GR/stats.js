@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Κεφάλαιο {chapter, number}: {wordCount, number} λέξεις',
     'stats.totalHits': 'Συνολικές προβολές',
     'stats.totalVisitors': 'Συνολικοί μοναδικοί επισκέπτες',
-    'stats.totalWords': 'Συνολικές λέξεις',
+    'stats.totalWords': 'Σύνολο λέξεων',
     'stats.totalEntries': 'Καταχωρήσεις εγκυκλοπαίδειας',
     'stats.blogPage': 'Σελίδα',
     'stats.blog.typeSelectionAria': 'Επιλογή τύπου',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Δημογραφικά στοιχεία αναγνωστών',
     'workshop.theWay.overallStats.topCountry': 'Κορυφή Χώρα',
     'workshop.theWay.overallStats.topAgeGroup': 'Κορυφαία ηλικιακή ομάδα',
-    'workshop.theWay.overallStats.genres': 'Τα είδη σας'
+    'workshop.theWay.overallStats.genres': 'Τα είδη σας',
+    'stats.title': '{name} - Στατιστικά στοιχεία',
+    'stats.totalCharacters': 'Σύνολο χαρακτήρων'
 };

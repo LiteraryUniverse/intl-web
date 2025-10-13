@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'மறைக்கப்பட்டது',
     'groups.type.hiddenDesc': 'மறைக்கப்பட்டது - உங்கள் அழைப்பு மட்டுமே மக்கள் சேரலாம்.',
     'groups.imageAlt': '{groupName} படம்',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'உறுப்பினர்கள்',
     'groups.members.total': `There {totalMembers, plural,
     zero {are no members}

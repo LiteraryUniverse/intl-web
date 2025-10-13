@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': '您好， {username}，',
     'email.welcome': '歡迎來到文學宇宙！',
-    'email.signature': '此致，<br />文學宇宙團隊',
-    'email.footer.settingsHtml': '您可以在<a href="{link}">帳戶設定</a>中變更電子郵件設定。',
+    'email.signature': '誠摯的<br>文學宇宙團隊</br>',
+    'email.footer.settingsHtml': '您可以在<link>帳戶設定</link>中變更電子郵件設定。',
     // Enrollment
     'email.enrollAccount.welcome': '歡迎加入',
     'email.enrollAccount.messageHtml': '我們誠摯地邀請您加入 Literary Universe！我們為您準備了一個個人帳戶，您可以使用 Literary Universe 的所有功能。請與我們一起創造下一代的創意寫作與閱讀！',
     'email.enrollAccount.button': '訪問您的帳戶',
-    'email.enrollAccount.signature': '我們期待與您見面，<br />Literary Universe 團隊',
+    'email.enrollAccount.signature': '我們期待與您見面<br>，Literary Universe 團隊</br>',
     // Reset password
     'email.resetPassword.messageHtml': '我們收到了重設您帳戶密碼的請求。請點擊下面的按鈕，繼續處理。如果您沒有提出此要求，您可以忽略此電子郵件，但現在可能是檢視您的安全設定的好時機。',
     'email.resetPassword.button': '重設密碼',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': '故事： {storyTitle}',
     'email.notifications.firstStory.ctaResources': '繼續作者之路',
     'email.notifications.firstStory.ctaStory': '開啟您的故事',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '恭喜您！您的第一篇故事已經發表，而且您已達到作者第一級！',
+    'email.notifications.firstStoryPublished.title': '🎉您的旅程開始了！',
+    'email.notifications.firstStoryPublished.intro': '恭喜您出版了您的第一篇作品！這是您創作旅程中重要的里程碑。',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟您已經達到《作者之道》的作者第一級！這只是說故事的驚人冒險的開始。',
+    'email.notifications.firstStoryPublished.encouragement': '每一位偉大的作家都是從第一部作品開始的。繼續寫作，繼續成長，讓您的創造力蓬勃發展。Literary Universe 社群會在這裡支持您的每一步。',
+    'email.notifications.firstStoryPublished.ctaTheWay': '探索作者之道',
+    'email.notifications.firstStoryPublished.ctaStory': '檢視您已發表的故事',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': '恭喜您的第一個宇宙！',
     'email.notifications.firstUniverse.title': '恭喜你創造了你的第一個宇宙！',

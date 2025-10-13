@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Olá {username},',
     'email.welcome': 'Bem-vindo ao Universo Literário!',
-    'email.signature': 'Atenciosamente,<br />Equipa do Universo Literário',
-    'email.footer.settingsHtml': 'Pode alterar as suas definições de correio eletrónico nas <a href="{link}">definições da sua conta</a>.',
+    'email.signature': 'Atenciosamente<br>, equipa do Universo Literário</br>',
+    'email.footer.settingsHtml': 'Pode alterar as suas definições de correio eletrónico nas <link>definições da sua conta</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Bem-vindo a bordo',
     'email.enrollAccount.messageHtml': 'Gostaríamos de o convidar para o Universo Literário! Preparámos uma conta pessoal para si, onde poderá aceder a todas as funcionalidades do Universo Literário. Junte-se a nós na criação da próxima geração de escrita e leitura criativas!',
     'email.enrollAccount.button': 'Aceda à sua conta',
-    'email.enrollAccount.signature': 'Esperamos por si,<br />Equipa do Universo Literário',
+    'email.enrollAccount.signature': 'Esperamos por si<br>, equipa do Universo Literário</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Recebemos um pedido para repor a palavra-passe da sua conta. Clique no botão abaixo para continuar o processo. Se não tiver efectuado este pedido, pode ignorar esta mensagem de correio eletrónico, mas talvez seja uma boa altura para rever as suas definições de segurança.',
     'email.resetPassword.button': 'Redefinir palavra passe',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'História: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Continuar em O Caminho do Autor',
     'email.notifications.firstStory.ctaStory': 'Abra a sua história',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Parabéns! A sua primeira história foi publicada e atingiu o Nível 1 de Autor!',
+    'email.notifications.firstStoryPublished.title': 'A sua viagem começa!',
+    'email.notifications.firstStoryPublished.intro': 'Parabéns por ter publicado a sua primeira história! Este é um marco importante no seu percurso criativo.',
+    'email.notifications.firstStoryPublished.levelAchievement': 'Alcançou o nível 1 de autor em O Caminho do Autor! Este é apenas o começo de uma incrível aventura de contar histórias.',
+    'email.notifications.firstStoryPublished.encouragement': 'Todos os grandes autores começaram com a sua primeira obra publicada. Continue a escrever, continue a crescer e deixe a sua criatividade florescer. A comunidade do Universo Literário está aqui para o apoiar em cada passo do caminho.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Explore O Caminho do Autor',
+    'email.notifications.firstStoryPublished.ctaStory': 'Ver a sua história publicada',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Parabéns pelo seu primeiro universo!',
     'email.notifications.firstUniverse.title': 'Parabéns pela criação do seu primeiro universo!',

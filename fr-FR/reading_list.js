@@ -22,5 +22,26 @@ export default {
     other {histoires et univers}
   } à la liste de lecture.`,
   'readingList.addItem.fromLibrary': 'Depuis la bibliothèque',
-  'readingList.button.added': 'Ajouté'
+  'readingList.addItem.yourOwn': `Votre propre {type, select,
+    universes {univers}
+    stories {histoires}
+    other {propriétés}
+  }`,
+  'readingList.addItem.noOwnStories': 'Vous n\'avez pas encore d\'histoires',
+  'readingList.addItem.noOwnUniverses': 'Vous n\'avez pas encore d\'univers',
+  'readingList.button.added': 'Ajouté',
+  'readingList.delete': 'Supprimer la liste',
+  'readingList.delete.confirm': 'Supprimer la liste de lecture',
+  'readingList.delete.modalAria': 'Modale de confirmation pour la suppression de la liste de lecture',
+  'readingList.delete.warning': 'Êtes-vous sûr de vouloir supprimer la liste "{name}" ? Cette action ne peut être annulée.',
+  'readingList.delete.itemsInfo': 'Cela supprimera la liste mais pas les histoires ou les univers eux-mêmes.',
+  'readingList.delete.confirm.button': 'Supprimer la liste',
+  'readingList.delete.deleting': 'Suppression...',
+  'readingList.public.title': 'Listes de lecture publique',
+  'readingList.public.noLists': 'Pas encore de liste de lecture publique',
+  'readingList.public.seo.title': '{username}Listes de lecture de la Commission européenne',
+  'readingList.public.seo.description': 'Parcourez les listes de lecture d\'histoires et d\'univers établies par {username}sur Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Liste de lecture par {username}',
+  'readingList.public.list.seo.description': 'Explorez la liste de lecture de {username}\'{listName}\' présentant des histoires et des univers sur Literary Universe.',
+  'readingList.public.list.description': 'Description : {description}'
 };

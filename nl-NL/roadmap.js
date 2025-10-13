@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plannen voor de ontwikkeling van Literair Universum.',
   'roadmap.ariaTimeOptions': 'Selecties voor routekaartitems op basis van hun status.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'In behandeling',

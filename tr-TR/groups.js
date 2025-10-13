@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Gizli',
     'groups.type.hiddenDesc': 'Gizli - Sadece davet ettiğiniz kişiler katılabilir.',
     'groups.imageAlt': '{groupName} resim',
+    'groups.bannerAlt': '{groupName} afiş',
+    'groups.logo.label': 'Grup Logosu',
+    'groups.logo.help': 'Kare resim, 200x200px veya daha büyük önerilir',
+    'groups.banner.label': 'Grup Afişi',
+    'groups.banner.help': 'Geniş banner görüntüsü, önerilen 1200x675px (16:9 oranı)',
     'groups.members': 'Üyeler',
     'groups.members.total': `Bu grupta {totalMembers, plural,
     zero {üye bulunmaktadır.}

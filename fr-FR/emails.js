@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Bonjour {username},',
     'email.welcome': 'Bienvenue dans L\'Univers Littéraire !',
-    'email.signature': 'Sincèrement,<br />L\'équipe de L\'Univers Littéraire',
-    'email.footer.settingsHtml': 'Vous pouvez modifier vos paramètres de messagerie dans les <a href="{link}">paramètres de votre compte</a>.',
+    'email.signature': 'Cordialement<br>, l\'équipe de l\'Univers littéraire</br>',
+    'email.footer.settingsHtml': 'Vous pouvez modifier vos paramètres de messagerie dans les <link>paramètres de votre compte</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Bienvenue à bord',
     'email.enrollAccount.messageHtml': 'Nous aimerions vous inviter à l\'Univers Littéraire ! Nous avons créé pour vous un compte personnel qui vous permettra d\'accéder à toutes les fonctionnalités de Literary Universe. Rejoignez-nous pour créer la prochaine génération d\'écriture et de lecture créatives !',
     'email.enrollAccount.button': 'Accéder à votre compte',
-    'email.enrollAccount.signature': 'Nous vous attendons avec impatience,<br />L\'équipe de l\'Univers Littéraire',
+    'email.enrollAccount.signature': 'Nous nous réjouissons de vous rencontrer<br>, l\'équipe de l\'Univers Littéraire</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Nous avons reçu une demande de réinitialisation du mot de passe de votre compte. Veuillez cliquer sur le bouton ci-dessous pour poursuivre la procédure. Si vous n\'avez pas fait cette demande, vous pouvez ignorer cet e-mail, mais il serait peut-être bon de revoir vos paramètres de sécurité.',
     'email.resetPassword.button': 'Réinitialiser le mot de passe',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Histoire : {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Continuer sur La voie de l\'auteur',
     'email.notifications.firstStory.ctaStory': 'Ouvrez votre histoire',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Félicitations ! Votre première histoire est publiée et vous avez atteint le niveau d\'auteur 1 !',
+    'email.notifications.firstStoryPublished.title': '🎉 Votre voyage commence !',
+    'email.notifications.firstStoryPublished.intro': 'Félicitations pour la publication de votre première histoire ! C\'est une étape importante dans votre parcours créatif.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Vous avez atteint le niveau d\'auteur 1 sur la Voie de l\'auteur ! Ce n\'est que le début d\'une incroyable aventure dans la narration.',
+    'email.notifications.firstStoryPublished.encouragement': 'Tous les grands auteurs ont commencé par publier leur première œuvre. Continuez à écrire, à vous développer et à laisser votre créativité s\'épanouir. La communauté de l\'Univers littéraire est là pour vous soutenir à chaque étape.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Explorer la voie de l\'auteur',
+    'email.notifications.firstStoryPublished.ctaStory': 'Consultez votre article publié',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Félicitations pour votre premier univers !',
     'email.notifications.firstUniverse.title': 'Félicitations pour la création de votre premier univers !',

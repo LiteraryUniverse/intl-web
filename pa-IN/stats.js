@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'ਅਧਿਆਇ {chapter, number}: {wordCount, number} ਸ਼ਬਦ',
     'stats.totalHits': 'ਕੁੱਲ ਝਲਕਾਂ',
     'stats.totalVisitors': 'ਕੁੱਲ ਅਨੂਕਰਣਕਾਰੀ ਵਿਜ਼ਿਟਰ',
-    'stats.totalWords': 'ਕੁੱਲ ਸ਼ਬਦ',
+    'stats.totalWords': 'Total Words',
     'stats.totalEntries': 'ਜਾਨਕਾਰੀ ਪੰਨਿਆਂ',
     'stats.blogPage': 'ਪੰਨਾ',
     'stats.blog.typeSelectionAria': 'ਟਾਈਪ ਚੋਣ',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Reader Demographics',
     'workshop.theWay.overallStats.topCountry': 'Top Country',
     'workshop.theWay.overallStats.topAgeGroup': 'Top Age Group',
-    'workshop.theWay.overallStats.genres': 'Your Genres'
+    'workshop.theWay.overallStats.genres': 'Your Genres',
+    'stats.title': '{name} - Statistics',
+    'stats.totalCharacters': 'Total Characters'
 };

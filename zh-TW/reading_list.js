@@ -22,5 +22,26 @@ export default {
     other {個故事和宇宙}
   } 新增至閱讀清單的對話框。`,
   'readingList.addItem.fromLibrary': '從圖書館中',
-  'readingList.button.added': '已新增'
+  'readingList.addItem.yourOwn': `您自己的 {type, select,
+    universes {宇宙}
+    stories {故事}
+    other {屬性}
+  }`,
+  'readingList.addItem.noOwnStories': '您還沒有故事',
+  'readingList.addItem.noOwnUniverses': '您還沒有宇宙',
+  'readingList.button.added': '已新增',
+  'readingList.delete': '刪除清單',
+  'readingList.delete.confirm': '刪除閱讀清單',
+  'readingList.delete.modalAria': '刪除閱讀清單的確認模態',
+  'readingList.delete.warning': '您確定要刪除 "{name}" 清單？此動作無法撤銷。',
+  'readingList.delete.itemsInfo': '這會移除清單，但不會移除故事或宇宙本身。',
+  'readingList.delete.confirm.button': '刪除清單',
+  'readingList.delete.deleting': '刪除...',
+  'readingList.public.title': '公共閱讀清單',
+  'readingList.public.noLists': '尚未有公開閱讀清單',
+  'readingList.public.seo.title': '{username}閱讀清單',
+  'readingList.public.seo.description': '在 Literary Universe 上瀏覽 {username}\'策劃的故事和宇宙閱讀清單。',
+  'readingList.public.list.seo.title': '{listName} - 閱讀清單 {username}',
+  'readingList.public.list.seo.description': '在 Literary Universe 上探索 {username}的精選閱讀清單 \'{listName}\' 以故事和宇宙為特色。',
+  'readingList.public.list.description': '說明： {description}'
 };

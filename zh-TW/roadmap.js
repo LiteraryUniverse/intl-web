@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': '文學宇宙發展計劃。',
   'roadmap.ariaTimeOptions': '根據其狀態選擇路線圖項目。',
   'roadmap.state.backlog': '待處理事項',
   'roadmap.state.inprogress': '進行中',

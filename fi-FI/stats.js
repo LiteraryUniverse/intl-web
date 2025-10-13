@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': 'Luku {chapter, number}: {wordCount, number} sanaa',
     'stats.totalHits': 'Kokonaisnäkymät',
     'stats.totalVisitors': 'Kokonaiset uniikit kävijät',
-    'stats.totalWords': 'Kokonaissanat',
+    'stats.totalWords': 'Yhteensä sanoja',
     'stats.totalEntries': 'Tietosanakirja-artikkelit',
     'stats.blogPage': 'Sivu',
     'stats.blog.typeSelectionAria': 'Valinnan tyyppi',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': 'Lukijoiden demografiset tiedot',
     'workshop.theWay.overallStats.topCountry': 'Top Maa',
     'workshop.theWay.overallStats.topAgeGroup': 'Paras ikäryhmä',
-    'workshop.theWay.overallStats.genres': 'Genres'
+    'workshop.theWay.overallStats.genres': 'Genres',
+    'stats.title': '{name} - Tilastot',
+    'stats.totalCharacters': 'Merkkejä yhteensä'
 };

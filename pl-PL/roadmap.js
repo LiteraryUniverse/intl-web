@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Plany rozwoju Literary Universe.',
   'roadmap.ariaTimeOptions': 'Wybór elementów mapy drogowej na podstawie ich statusu.',
   'roadmap.state.backlog': 'Backlog',
   'roadmap.state.inprogress': 'W trakcie realizacji',

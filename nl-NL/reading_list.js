@@ -22,5 +22,26 @@ export default {
     other {verhalen en universums}
   } toe te voegen aan de leeslijst.`,
   'readingList.addItem.fromLibrary': 'Uit bibliotheek',
-  'readingList.button.added': 'Toegevoegd'
+  'readingList.addItem.yourOwn': `Uw eigen {type, select,
+    universes {universums}
+    stories {verhalen}
+    other {eigenschappen}
+  }`,
+  'readingList.addItem.noOwnStories': 'U hebt nog geen verhalen',
+  'readingList.addItem.noOwnUniverses': 'U hebt nog geen universums',
+  'readingList.button.added': 'Toegevoegd',
+  'readingList.delete': 'Lijst verwijderen',
+  'readingList.delete.confirm': 'Leeslijst verwijderen',
+  'readingList.delete.modalAria': 'Bevestigingsmodal voor het verwijderen van leeslijsten',
+  'readingList.delete.warning': 'Weet u zeker dat u de lijst "{name}" wilt verwijderen? Deze actie kan niet ongedaan worden gemaakt.',
+  'readingList.delete.itemsInfo': 'Hierdoor wordt de lijst verwijderd, maar niet de verhalen of universums zelf.',
+  'readingList.delete.confirm.button': 'Lijst verwijderen',
+  'readingList.delete.deleting': 'Verwijderen...',
+  'readingList.public.title': 'Openbare leeslijsten',
+  'readingList.public.noLists': 'Nog geen openbare leeslijsten',
+  'readingList.public.seo.title': '{username}Leeslijsten',
+  'readingList.public.seo.description': 'Blader door {username}\'s samengestelde leeslijsten van verhalen en universa op Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Leeslijst door {username}',
+  'readingList.public.list.seo.description': 'Ontdek {username}\'s samengestelde leeslijst \'{listName}\' met verhalen en universums op Literair Universum.',
+  'readingList.public.list.description': 'Beschrijving: {description}'
 };

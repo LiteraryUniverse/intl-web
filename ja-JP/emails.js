@@ -15,13 +15,13 @@ export default {
     // New html email keys
     'email.salutation': 'こんにちは{username},',
     'email.welcome': 'Literary Universeへようこそ!',
-    'email.signature': 'よろしくお願いいたします。<br />Literary Universeチームより',
-    'email.footer.settingsHtml': 'Eメールの設定は<a href="{link}">アカウント</a>設定で変更できます。',
+    'email.signature': '敬具<br>、文学ユニバースチーム</br>',
+    'email.footer.settingsHtml': 'Eメールの設定は<link>アカウント</link>設定で変更できます。',
     // Enrollment
     'email.enrollAccount.welcome': 'ご加入ありがとうございます。',
     'email.enrollAccount.messageHtml': '文学ユニバースにご招待いたします！文学ユニバースの全機能にアクセスできる個人アカウントをご用意しました。私たちと一緒に、次世代のクリエイティブ・ライティングとリーディングを創造していきましょう！',
     'email.enrollAccount.button': 'アカウントにアクセスする',
-    'email.enrollAccount.signature': '<br />Literary Universe チーム一同、心よりお待ちしております。',
+    'email.enrollAccount.signature': '<br>文学ユニバースチーム、</br>お待ちしております。',
     // Reset password
     'email.resetPassword.messageHtml': 'あなたのアカウントのパスワード再設定のリクエストを受け取りました。下のボタンをクリックして手続きを続けてください。このリクエストを行っていない場合は、このメールを無視してもかまいませんが、セキュリティ設定を見直す良い機会かもしれません。',
     'email.resetPassword.button': 'パスワードの再設定',
@@ -82,6 +82,14 @@ Literary Universeチーム`,
     'email.notifications.firstStory.details': 'ストーリー： {storyTitle}',
     'email.notifications.firstStory.ctaResources': '続きを読む 作家の道',
     'email.notifications.firstStory.ctaStory': 'ストーリーを開く',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': 'おめでとうございます！あなたの最初のストーリーが出版され、著者レベル1に到達しました！',
+    'email.notifications.firstStoryPublished.title': 'あなたの旅が始まる！',
+    'email.notifications.firstStoryPublished.intro': '初の小説出版、おめでとうございます！これは、あなたの創作の旅における記念すべきマイルストーンです。',
+    'email.notifications.firstStoryPublished.levelAchievement': 'あなたは「作家の道」の作家レベル1に到達しました！これはストーリーテリングにおける素晴らしい冒険の始まりに過ぎません。',
+    'email.notifications.firstStoryPublished.encouragement': '偉大な作家は皆、最初に出版した作品から出発している。書き続け、成長し続け、あなたの創造性を開花させてください。Literary Universeのコミュニティは、その一歩一歩を応援します。',
+    'email.notifications.firstStoryPublished.ctaTheWay': '作家の道を探る',
+    'email.notifications.firstStoryPublished.ctaStory': '掲載記事を見る',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': '初のユニバース、おめでとう！',
     'email.notifications.firstUniverse.title': '最初のユニバースを作ったことを祝福する！',

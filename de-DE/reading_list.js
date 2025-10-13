@@ -22,5 +22,26 @@ export default {
     other {Geschichten und Universen}
   } zur Leseliste hinzuzufügen.`,
   'readingList.addItem.fromLibrary': 'Von der Bibliothek',
-  'readingList.button.added': 'Hinzugefügt'
+  'readingList.addItem.yourOwn': `Ihre eigenen {type, select,
+    universes {Universen}
+    stories {Geschichten}
+    other {Eigenschaften}
+  }`,
+  'readingList.addItem.noOwnStories': 'Sie haben noch keine Geschichten',
+  'readingList.addItem.noOwnUniverses': 'Sie haben noch keine Universen',
+  'readingList.button.added': 'Hinzugefügt',
+  'readingList.delete': 'Liste löschen',
+  'readingList.delete.confirm': 'Leseliste löschen',
+  'readingList.delete.modalAria': 'Bestätigungsmodal für das Löschen der Leseliste',
+  'readingList.delete.warning': 'Sind Sie sicher, dass Sie die Liste "{name}" löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.',
+  'readingList.delete.itemsInfo': 'Dadurch wird die Liste entfernt, aber nicht die Geschichten oder Universen selbst.',
+  'readingList.delete.confirm.button': 'Liste löschen',
+  'readingList.delete.deleting': 'Löschen...',
+  'readingList.public.title': 'Öffentliche Leselisten',
+  'readingList.public.noLists': 'Noch keine öffentlichen Leselisten',
+  'readingList.public.seo.title': '{username}\'s Leselisten',
+  'readingList.public.seo.description': 'Stöbern Sie auf {username}in den kuratierten Leselisten von Geschichten und Universen auf Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Leseliste von {username}',
+  'readingList.public.list.seo.description': 'Entdecken Sie {username}\'s kuratierte Leseliste \'{listName}\' mit Geschichten und Universen auf Literary Universe.',
+  'readingList.public.list.description': 'Beschreibung: {description}'
 };

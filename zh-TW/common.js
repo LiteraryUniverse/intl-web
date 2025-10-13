@@ -30,6 +30,7 @@ export default {
     'common.add': '新增',
     'common.save': '儲存',
     'common.email': '電子郵件',
+    'common.anonymous': '匿名',
     'common.soon': '即將推出...',
     'common.search': '搜尋',
     'common.search.do': '搜尋',

@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'लुकिएको',
     'groups.type.hiddenDesc': 'लुकिएको - केवल तपाईंले आमन्त्रित गर्नु भएका मान्छेहरूले सामेल हुन सक्छन्।',
     'groups.imageAlt': '{groupName} चित्र',
+    'groups.bannerAlt': '{groupName} banner',
+    'groups.logo.label': 'Group Logo',
+    'groups.logo.help': 'Square image, recommended 200x200px or larger',
+    'groups.banner.label': 'Group Banner',
+    'groups.banner.help': 'Wide banner image, recommended 1200x675px (16:9 ratio)',
     'groups.members': 'सदस्यहरू',
     'groups.members.total': `यस समूहमा कुनै सदस्य छैनन् {totalMembers, plural,
     zero {सदस्य छ}

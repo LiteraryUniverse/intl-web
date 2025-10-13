@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Üdvözöljük {username},',
     'email.welcome': 'Üdvözöljük az Irodalmi Univerzumban!',
-    'email.signature': 'Üdvözlettel,<br />az Irodalmi Univerzum csapata',
-    'email.footer.settingsHtml': 'Az e-mail beállításokat a <a href="{link}">fiókbeállítások</a> között módosíthatja.',
+    'email.signature': 'Tisztelettel<br>,Irodalmi Univerzum csapata</br>',
+    'email.footer.settingsHtml': 'Az e-mail beállításokat a <link>fiókbeállítások</link> között módosíthatja.',
     // Enrollment
     'email.enrollAccount.welcome': 'Üdvözöljük a fedélzeten',
     'email.enrollAccount.messageHtml': 'Szeretettel meghívjuk Önt az Irodalmi Univerzumba! Előreléptünk és elkészítettünk Önnek egy személyes fiókot, ahol hozzáférhet az Irodalmi Univerzum minden funkciójához. Kérjük, csatlakozzon hozzánk a kreatív írás és olvasás következő generációjának megteremtésében!',
     'email.enrollAccount.button': 'Fiókhoz való hozzáférés',
-    'email.enrollAccount.signature': 'Szeretettel várjuk Önöket,<br />Irodalmi Univerzum csapata',
+    'email.enrollAccount.signature': 'Várjuk Önöket<br>,Irodalmi Univerzum csapata</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Kaptunk egy kérést, hogy visszaállítsuk a jelszavát a fiókjához. Kérjük, kattintson az alábbi gombra a folyamat folytatásához. Ha még nem küldte el ezt a kérést, akkor figyelmen kívül hagyhatja ezt az e-mailt, de talán itt az ideje, hogy felülvizsgálja a biztonsági beállításait.',
     'email.resetPassword.button': 'Jelszó visszaállítása',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Történet: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Folytatás a The Way of the Author oldalon',
     'email.notifications.firstStory.ctaStory': 'Nyisd meg a történeted',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Gratulálunk! Megjelent az első történeted és elérted az 1-es szerzői szintet!',
+    'email.notifications.firstStoryPublished.title': '🎉 Az utazásod elkezdődik!',
+    'email.notifications.firstStoryPublished.intro': 'Gratulálok az első történeted megjelentetéséhez! Ez egy jelentős mérföldkő az alkotói utadon.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Elérted a Szerzői út 1. szintjét! Ez csak a kezdete egy hihetetlen kalandnak a történetmesélés terén.',
+    'email.notifications.firstStoryPublished.encouragement': 'Minden nagy író az első megjelent művével kezdte. Írj tovább, fejlődj, és hagyd, hogy kreativitásod virágozzék. Az Irodalmi Univerzum közössége itt van, hogy támogassa Önt az út minden egyes lépésénél.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Fedezze fel a szerző útját',
+    'email.notifications.firstStoryPublished.ctaStory': 'Megjelent történeted megtekintése',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Gratulálok az első univerzumodhoz!',
     'email.notifications.firstUniverse.title': 'Gratulálok az első univerzum létrehozásához!',

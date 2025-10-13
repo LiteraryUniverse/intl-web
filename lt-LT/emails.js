@@ -14,13 +14,13 @@ export default {
     // New html email keys
     'email.salutation': 'Sveiki {username},',
     'email.welcome': 'Sveiki atvykę į Literatūrinę Visatą!',
-    'email.signature': 'Su pagarba,<br />Literatūrinės Visatos komanda',
-    'email.footer.settingsHtml': 'El. pašto nustatymus galite pakeisti <a href="{link}">paskyros nustatymuose</a>.',
+    'email.signature': 'Nuoširdžiai<br>,Literatūrinės visatos komanda</br>',
+    'email.footer.settingsHtml': 'El. pašto nustatymus galite pakeisti <link>paskyros nustatymuose</link>.',
     // Enrollment
     'email.enrollAccount.welcome': 'Sveiki atvykę į mūsų komandą',
     'email.enrollAccount.messageHtml': 'Kviečiame į Literatūros visatą! Mes parengėme jums asmeninę paskyrą, kurioje galėsite naudotis visomis "Literary Universe" funkcijomis. Prisijunkite prie mūsų ir kurkite naują kūrybinio rašymo ir skaitymo kartą!',
     'email.enrollAccount.button': 'Pasiekti savo paskyrą',
-    'email.enrollAccount.signature': 'Laukiame jūsų,<br />Literatūrinės visatos komanda',
+    'email.enrollAccount.signature': 'Laukiame jūsų<br>,Literary Universe komanda</br>',
     // Reset password
     'email.resetPassword.messageHtml': 'Gavome prašymą iš naujo nustatyti jūsų paskyros slaptažodį. Norėdami tęsti procesą, spustelėkite toliau esantį mygtuką. Jei tokio prašymo nepateikėte, galite nekreipti dėmesio į šį el. laišką, tačiau galbūt pats laikas peržiūrėti savo saugumo nustatymus.',
     'email.resetPassword.button': 'Atkurti slaptažodį',
@@ -78,6 +78,14 @@ export default {
     'email.notifications.firstStory.details': 'Istorija: {storyTitle}',
     'email.notifications.firstStory.ctaResources': 'Tęsti apie Autoriaus kelias',
     'email.notifications.firstStory.ctaStory': 'Atverkite savo istoriją',
+    // Notifications - First story published (with level 1 achievement)
+    'email.notifications.firstStoryPublished.subject': '🎉 Sveikiname! Jūsų pirmoji istorija paskelbta ir Jūs pasiekėte 1 autoriaus lygį!',
+    'email.notifications.firstStoryPublished.title': '🎉 Tavo kelionė prasideda!',
+    'email.notifications.firstStoryPublished.intro': 'Sveikiname paskelbus pirmąją istoriją! Tai svarbus etapas jūsų kūrybiniame kelyje.',
+    'email.notifications.firstStoryPublished.levelAchievement': '🌟 Pasiekėte 1 autoriaus lygį "Autoriaus kelyje"! Tai tik neįtikėtino pasakojimo nuotykio pradžia.',
+    'email.notifications.firstStoryPublished.encouragement': 'Kiekvienas didis autorius pradėjo nuo savo pirmojo publikuoto kūrinio. Rašykite toliau, tobulėkite ir leiskite savo kūrybiškumui klestėti. Literatūrinės visatos bendruomenė yra čia, kad palaikytų jus kiekviename žingsnyje.',
+    'email.notifications.firstStoryPublished.ctaTheWay': 'Ištirti "Autoriaus kelią',
+    'email.notifications.firstStoryPublished.ctaStory': 'Peržiūrėkite savo paskelbtą istoriją',
     // Notifications - First universe created
     'email.notifications.firstUniverse.subject': 'Sveikiname su pirmąja visata!',
     'email.notifications.firstUniverse.title': 'Sveikiname sukūrus pirmąją visatą!',

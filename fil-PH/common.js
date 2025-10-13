@@ -30,6 +30,7 @@ export default {
     'common.add': 'Magdagdag',
     'common.save': 'I-save',
     'common.email': 'Email',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'Magkakaroon ng madaliang paglabas...',
     'common.search': 'Maghanap',
     'common.search.do': 'Maghanap',

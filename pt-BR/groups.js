@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': 'Oculto',
     'groups.type.hiddenDesc': 'Oculto - Apenas as pessoas que você convidar podem ingressar.',
     'groups.imageAlt': '{groupName} imagem',
+    'groups.bannerAlt': '{groupName} bandeira',
+    'groups.logo.label': 'Logotipo do grupo',
+    'groups.logo.help': 'Imagem quadrada, recomendada 200x200px ou maior',
+    'groups.banner.label': 'Banner do grupo',
+    'groups.banner.help': 'Imagem de banner ampla, recomendada 1200x675px (proporção 16:9)',
     'groups.members': 'Membros',
     'groups.members.total': `Não há {totalMembers, plural,
     zero {nenhum membro}

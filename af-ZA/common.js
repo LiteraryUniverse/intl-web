@@ -30,6 +30,7 @@ export default {
     'common.add': 'Voeg by',
     'common.save': 'Stoor',
     'common.email': 'E-pos',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'Binnekort beskikbaar...',
     'common.search': 'Soek',
     'common.search.do': 'Soek',

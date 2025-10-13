@@ -1,4 +1,5 @@
 export default {
+  'roadmap.meta.description': 'Literatūrinės visatos kūrimo planai.',
   'roadmap.ariaTimeOptions': 'Pasirinkimai dėl kelio žemėlapyje esančių elementų pagal jų būklę.',
   'roadmap.state.backlog': 'Atidėta',
   'roadmap.state.inprogress': 'Vykdoma',

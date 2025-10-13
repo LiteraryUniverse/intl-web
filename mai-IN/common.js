@@ -30,6 +30,7 @@ export default {
     'common.add': 'थप्नुहोस्',
     'common.save': 'सुरक्षित गर्नुहोस्',
     'common.email': 'ई-मेल',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'धेरैजसो छ...',
     'common.search': 'खोज',
     'common.search.do': 'खोज गर्नुहोस्',

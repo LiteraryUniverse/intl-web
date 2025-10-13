@@ -31,7 +31,7 @@ export default {
     'stats.chapter.chartTooltipWordCount': '章 {chapter, number}：{wordCount, number}語数',
     'stats.totalHits': '閲覧合計数',
     'stats.totalVisitors': 'ユニークな閲覧者合計数',
-    'stats.totalWords': '合計語数',
+    'stats.totalWords': '総語数',
     'stats.totalEntries': 'エンサイクロペディアのエントリー',
     'stats.blogPage': 'ページ',
     'stats.blog.typeSelectionAria': 'タイプ選択',
@@ -59,5 +59,7 @@ export default {
     'workshop.theWay.overallStats.demographics': '読者層',
     'workshop.theWay.overallStats.topCountry': 'トップ',
     'workshop.theWay.overallStats.topAgeGroup': 'トップ・エイジ・グループ',
-    'workshop.theWay.overallStats.genres': 'あなたのジャンル'
+    'workshop.theWay.overallStats.genres': 'あなたのジャンル',
+    'stats.title': '{name} - 統計',
+    'stats.totalCharacters': '総文字数'
 };

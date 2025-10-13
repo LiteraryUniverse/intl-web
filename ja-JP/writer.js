@@ -23,6 +23,11 @@ export default {
     'writer.link.error.invalid': '有効なURLを入力してください。',
     'writer.fontFamily': 'フォントファミリー',
     'writer.fontFamily.select': 'フォント選択',
+    'writer.image.upload': '画像のアップロード',
+    'writer.image.uploading': '画像のアップロード...',
+    'writer.image.error.type': 'JPEG、PNG、WebP画像にのみ対応しています。',
+    'writer.image.error.size': '画像は5MB以下であること',
+    'writer.image.error.upload': '画像のアップロードに失敗しました。もう一度お試しください。',
     'writer.publish.publishAria': '発行オプション\n',
     'writer.publish.scheduleExplained': 'この章をすぐに公開するか、後で公開するか選べます。',
     'writer.publish.schedule': '公開日設定',
@@ -34,5 +39,5 @@ export default {
     'writer.publish.now': '今すぐ出版する',
     'writer.publish.schedulePrevious': 'この章を出版する前に、前の章を出版するか、出版を予定しておく必要があります。',
     'writer.publish.earlyAccess.title': 'ファンのための早期アクセス',
-    'writer.publish.earlyAccess.groupLine': '{days} days early: {tiers} — fans get access on {date, date, short} at {date, time}'
+    'writer.publish.earlyAccess.groupLine': '{days}日早く: {tiers} — ファンは{date, date, short}の{date, time}にアクセス可能'
 };

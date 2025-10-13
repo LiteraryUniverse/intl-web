@@ -10,6 +10,11 @@ export default {
     'groups.type.hidden': '隱藏',
     'groups.type.hiddenDesc': '隱藏 - 只有您邀請的人才能加入。',
     'groups.imageAlt': '{groupName} 張圖片',
+    'groups.bannerAlt': '{groupName} 旗幟',
+    'groups.logo.label': '集團標誌',
+    'groups.logo.help': '正方形圖片，建議 200x200px 或更大',
+    'groups.banner.label': '集團橫幅',
+    'groups.banner.help': '寬幅橫幅圖片，建議 1200x675px（16:9 比例）',
     'groups.members': '成員',
     'groups.members.total': `{totalMembers, plural,
     zero {沒有成員}

@@ -30,6 +30,7 @@ export default {
     'common.add': 'เพิ่ม',
     'common.save': 'บันทึก',
     'common.email': 'อีเมล์',
+    'common.anonymous': 'ไม่ประสงค์ออกนาม',
     'common.soon': 'เร็ว ๆ นี้...',
     'common.search': 'ค้นหา',
     'common.search.do': 'ค้นหา',

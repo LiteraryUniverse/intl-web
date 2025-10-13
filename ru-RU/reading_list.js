@@ -22,5 +22,26 @@ export default {
     other {историй и вселенных}
   } в список литературы.`,
   'readingList.addItem.fromLibrary': 'Из библиотеки',
-  'readingList.button.added': 'Добавлено'
+  'readingList.addItem.yourOwn': `Ваши собственные {type, select,
+    universes {вселенные}
+    stories {истории}
+    other {свойства}
+  }`,
+  'readingList.addItem.noOwnStories': 'У Вас еще нет историй',
+  'readingList.addItem.noOwnUniverses': 'У Вас еще нет вселенных',
+  'readingList.button.added': 'Добавлено',
+  'readingList.delete': 'Удалить список',
+  'readingList.delete.confirm': 'Удалить список для чтения',
+  'readingList.delete.modalAria': 'Модальное подтверждение для удаления списка чтения',
+  'readingList.delete.warning': 'Вы уверены, что хотите удалить список "{name}"? Это действие нельзя отменить.',
+  'readingList.delete.itemsInfo': 'Это удалит список, но не сами истории или вселенные.',
+  'readingList.delete.confirm.button': 'Удалить список',
+  'readingList.delete.deleting': 'Удаление...',
+  'readingList.public.title': 'Публичные списки для чтения',
+  'readingList.public.noLists': 'Пока нет открытых списков для чтения',
+  'readingList.public.seo.title': '{username}\'Reading Lists',
+  'readingList.public.seo.description': 'Просмотрите {username}\'curated reading lists of stories and universes на сайте Literary Universe.',
+  'readingList.public.list.seo.title': '{listName} - Список литературы на {username}',
+  'readingList.public.list.seo.description': 'Изучите список чтения {username}\'{listName}\' с историями и вселенными на сайте Literary Universe.',
+  'readingList.public.list.description': 'Описание: {description}'
 };

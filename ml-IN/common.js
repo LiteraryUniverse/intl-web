@@ -30,6 +30,7 @@ export default {
     'common.add': 'ചേർക്കുക',
     'common.save': 'സംരക്ഷിക്കുക',
     'common.email': 'ഇ-മെയിൽ',
+    'common.anonymous': 'Anonymous',
     'common.soon': 'അടുത്തത് വരുന്നു...',
     'common.search': 'തിരയുക',
     'common.search.do': 'തിരയുക',

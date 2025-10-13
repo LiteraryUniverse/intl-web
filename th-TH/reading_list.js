@@ -22,5 +22,26 @@ export default {
     other {เรื่องและจักรวาล}
   } ในรายการอ่าน`,
   'readingList.addItem.fromLibrary': 'จากห้องสมุด',
-  'readingList.button.added': 'เพิ่มแล้ว'
+  'readingList.addItem.yourOwn': `Your own {type, select,
+    universes {universes}
+    stories {stories}
+    other {properties}
+  }`,
+  'readingList.addItem.noOwnStories': 'คุณยังไม่มีเรื่องราว',
+  'readingList.addItem.noOwnUniverses': 'คุณยังไม่มีจักรวาล',
+  'readingList.button.added': 'เพิ่มแล้ว',
+  'readingList.delete': 'ลบรายการ',
+  'readingList.delete.confirm': 'ลบรายการอ่าน',
+  'readingList.delete.modalAria': 'หน้าต่างยืนยันสำหรับการลบรายการอ่าน',
+  'readingList.delete.warning': 'คุณแน่ใจหรือไม่ว่าต้องการลบรายการ "{name}" นี้? การดำเนินการนี้ไม่สามารถย้อนกลับได้',
+  'readingList.delete.itemsInfo': 'นี่จะลบรายการนี้ แต่ไม่ลบเรื่องราวหรือจักรวาลเอง',
+  'readingList.delete.confirm.button': 'ลบรายการ',
+  'readingList.delete.deleting': 'กำลังลบ...',
+  'readingList.public.title': 'รายการอ่านสาธารณะ',
+  'readingList.public.noLists': 'ยังไม่มีรายการอ่านสาธารณะ',
+  'readingList.public.seo.title': '{username}รายการหนังสือที่อ่าน',
+  'readingList.public.seo.description': 'เรียกดูรายชื่อหนังสือที่คัดสรรโดย {username}ของเรื่องราวและจักรวาลบน Literary Universe',
+  'readingList.public.list.seo.title': '{listName} - รายชื่อหนังสืออ่านเพิ่มเติมโดย {username}',
+  'readingList.public.list.seo.description': 'สำรวจรายชื่อหนังสือที่คัดสรรโดย {username}\'{listName}\' ซึ่งนำเสนอเรื่องราวและจักรวาลต่างๆ บน Literary Universe.',
+  'readingList.public.list.description': 'คำอธิบาย: {description}'
 };

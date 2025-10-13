@@ -82,6 +82,8 @@
   "faq.answer.workshop.finished": "Dokončenie príbehu môžete označiť tak, že prejdete na panel príbehu a v jeho spodnej časti nájdete zelené tlačidlo s nápisom \"Zmeniť stav príbehu na dokončený\". Tým sa príbeh označí ako dokončený, čím sa upraví posledná stránka a čitateľom sa oznámi, že príbeh je dokončený a aby si pozreli vaše ďalšie diela. Označí sa tak aj v objavovaní, čím sa váš príbeh stane viditeľnejším pre čitateľov, ktorí hľadajú dokončené príbehy.",
   "faq.question.workshop.seo": "Aké je použitie SEO-Friendly-Address v rôznych nastaveniach?",
   "faq.answer.workshop.seo": "SEO-Friendly-Address je spôsob, ako zviditeľniť váš príbeh, vesmír, blogový príspevok pre vyhľadávače a uľahčiť čítanie URL pre ľudí. Je to spôsob, ako urobiť vašu prácu lepšie objaviteľnou a pomôcť ľuďom nájsť vašu prácu, keď hľadajú niečo podobné.",
+  "faq.question.workshop.descriptionLength": "Aká je optimálna dĺžka opisu príbehu a vesmíru?",
+  "faq.answer.workshop.descriptionLength": "Zamerajte sa na dĺžku 150-160 znakov, aby váš opis poskytoval dostatok informácií bez toho, aby bol vo výsledkoch vyhľadávania skrátený. Pomôže to zlepšiť viditeľnosť vašej práce vo vyhľadávačoch a na platformách sociálnych médií. Dobre spracovaný opis v tomto rozsahu sa plne zobrazí vo výsledkoch vyhľadávania Google a v náhľadoch sociálnych médií, čím sa zvýši pravdepodobnosť, že zaujme čitateľov.",
   "faq.question.workshop.createProject": "Ako môžem v Dielni založiť nový vesmír?",
   "faq.answer.workshop.createProject": "Prejdite do dielne a kliknite na tlačidlo Vytvoriť a potom vyberte vesmír. Môžete začať nový samostatný príbeh, fanfiction alebo príbeh v rámci univerza.",
   "faq.question.workshop.editingTools": "Aké nástroje na úpravu sú v dielni k dispozícii?",
