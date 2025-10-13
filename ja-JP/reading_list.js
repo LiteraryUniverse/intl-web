@@ -22,10 +22,10 @@ export default {
     other {物語と宇宙}
   }を追加するためのモーダル。`,
   'readingList.addItem.fromLibrary': 'ライブラリから',
-  'readingList.addItem.yourOwn': `Your own {type, select,
-    universes {universes}
-    stories {stories}
-    other {properties}
+  'readingList.addItem.yourOwn': `あなた自身の{type, select,
+    universes {宇宙}
+    stories {ストーリー}
+    other {プロパティ}
   }`,
   'readingList.addItem.noOwnStories': 'まだストーリーはありません',
   'readingList.addItem.noOwnUniverses': 'あなたはまだ宇宙を持っていない',
