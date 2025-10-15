@@ -350,4 +350,5 @@ export default {
   'common.orgs': 'Organizations',
   'universe.cover.alt': 'Universe cover image for {story}.',
   'common.license': 'License',
+  'common.new': 'New'
 }
