@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Universumin kansikuva {story}.',
-    'common.license': 'Lisenssi'
+    'common.license': 'Lisenssi',
+    'common.new': 'Uusi'
 };
