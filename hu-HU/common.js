@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Húzza ide a fájlokat, vagy kattintson a fájlok kiválasztásához.',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Az Univerzum borítóképe a {story}.',
-    'common.license': 'Licenc'
+    'common.license': 'Licenc',
+    'common.new': 'Új'
 };
