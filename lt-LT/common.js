@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Vilkite ir nuleiskite čia failus arba spustelėkite , kad pasirinktumėte failus',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Visatos viršelio vaizdas {story}.',
-    'common.license': 'Licencija'
+    'common.license': 'Licencija',
+    'common.new': 'Naujas'
 };
