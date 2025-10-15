@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Přetáhněte sem soubory nebo je vyberte kliknutím.',
     'common.orgs': 'Organizace',
     'universe.cover.alt': 'Obrázek obálky vesmíru pro {story}.',
-    'common.license': 'Licence'
+    'common.license': 'Licence',
+    'common.new': 'Nový'
 };
