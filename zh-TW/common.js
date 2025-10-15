@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': '將檔案拖放至此，或按一下以選取檔案',
     'common.orgs': 'Organizations',
     'universe.cover.alt': '宇宙封面圖片為 {story}。',
-    'common.license': '許可證'
+    'common.license': '許可證',
+    'common.new': '新款'
 };
