@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Seret dan letakkan file di sini, atau klik untuk memilih file',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Gambar sampul alam semesta untuk {story}.',
-    'common.license': 'Lisensi'
+    'common.license': 'Lisensi',
+    'common.new': 'Baru'
 };

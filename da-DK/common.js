@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Træk og slip filer her, eller klik for at vælge filer',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Universets forsidebillede til {story}.',
-    'common.license': 'Licens'
+    'common.license': 'Licens',
+    'common.new': 'Ny'
 };

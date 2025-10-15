@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Trageți și plasați fișiere aici sau faceți clic pentru a selecta fișiere',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Universe cover image for {story}.',
-    'common.license': 'Licență'
+    'common.license': 'Licență',
+    'common.new': 'Nou'
 };

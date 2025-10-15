@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Перетащите сюда файлы или нажмите, чтобы выбрать файлы.',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Изображение обложки вселенной для {story}.',
-    'common.license': 'Лицензия'
+    'common.license': 'Лицензия',
+    'common.new': 'Новый'
 };

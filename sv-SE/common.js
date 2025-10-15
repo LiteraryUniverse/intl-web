@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Dra och släpp filer här, eller klicka för att välja filer',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Universums omslagsbild för {story}.',
-    'common.license': 'Licens'
+    'common.license': 'Licens',
+    'common.new': 'Ny'
 };

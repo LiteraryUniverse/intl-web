@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Drag and drop files here, or click to select files',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Universe cover image for {story}.',
-    'common.license': 'License'
+    'common.license': 'License',
+    'common.new': 'Mới'
 };

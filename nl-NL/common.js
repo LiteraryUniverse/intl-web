@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Sleep bestanden hierheen, of klik om bestanden te selecteren',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Afbeelding omslag universum voor {story}.',
-    'common.license': 'Licentie'
+    'common.license': 'Licentie',
+    'common.new': 'Nieuw'
 };

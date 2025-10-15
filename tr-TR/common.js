@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Dosyaları buraya sürükleyip bırakın veya dosyaları seçmek için tıklayın',
     'common.orgs': 'Organizations',
     'universe.cover.alt': '{story}için evren kapak resmi.',
-    'common.license': 'Lisans'
+    'common.license': 'Lisans',
+    'common.new': 'Yeni'
 };
