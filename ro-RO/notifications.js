@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'ți-a trimis o cerere de prietenie.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} abonat la planul dvs. de fan club {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} vă va lăsa planul fan club {planName} la sfârșitul perioadei de facturare.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Comentariu nou pe "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} a comentat pe povestea ta: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Începeți să scrieți!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Du-te la poveste',
+  'notificationExtra.fanClub.manage': 'Gestionați fan clubul',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Comunitate',
   'notifications.menu.reading': 'Lectură și bibliotecă',
