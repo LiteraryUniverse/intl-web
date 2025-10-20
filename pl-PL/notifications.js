@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'wysłał(a) Ci zaproszenie do znajomych.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} subskrybuje Pana plan fanklubowy {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} pozostawi Państwa plan fanklubu {planName} na koniec okresu rozliczeniowego.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Nowy komentarz na "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} skomentował pańską historię: "{commentText}".',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Proszę zacząć pisać!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Przejdź do historii',
+  'notificationExtra.fanClub.manage': 'Zarządzanie fanklubem',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Wspólnota',
   'notifications.menu.reading': 'Czytelnictwo i biblioteka',
