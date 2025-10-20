@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'saatis teile sõbrakutse.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} Teie fänniklubi plaaniga liitunud {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} jätab teie fänniklubi plaani {planName} arveldusperioodi lõpus.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Uus kommentaar teemal "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} kommenteeris teie lugu: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Alustage kirjutamist!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Mine loo juurde',
+  'notificationExtra.fanClub.manage': 'Fänniklubi haldamine',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Ühendus',
   'notifications.menu.reading': 'Lugemine ja raamatukogu',
