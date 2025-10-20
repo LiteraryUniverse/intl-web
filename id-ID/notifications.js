@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'mengirimi Anda permintaan pertemanan.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} berlangganan paket klub penggemar Anda {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} akan keluar dari paket fan club Anda {planName} pada akhir periode penagihan.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Komentar baru di "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} mengomentari cerita Anda: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Mulai menulis!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Pergi ke cerita',
+  'notificationExtra.fanClub.manage': 'Mengelola klub penggemar',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Komunitas',
   'notifications.menu.reading': 'Membaca & Perpustakaan',
