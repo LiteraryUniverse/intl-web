@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'size bir arkadaşlık isteği gönderdi.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} hayran kulübü planınıza abone oldum {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} fatura döneminin sonunda fan club planınızı {planName} adresinde bırakacaktır.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': '"{storyTitle}" hakkında yeni yorum',
   'notification.story.newComment.body': '{commenterName} hikayenize yorum yaptı: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Yazmaya başla!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Hikayeye Git',
+  'notificationExtra.fanClub.manage': 'Hayran kulübünü yönetin',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Topluluk',
   'notifications.menu.reading': 'Okuma ve Kütüphane',
