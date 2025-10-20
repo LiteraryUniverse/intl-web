@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'Baráti felkérés küldése',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} feliratkoztam a rajongói klub tervedre {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} a számlázási időszak végén elhagyja a {planName} rajongói klubcsomagot.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Új megjegyzés a "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} kommentálta a történetét: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Kezdj el írni!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Ugrás a történetre',
+  'notificationExtra.fanClub.manage': 'Rajongói klub kezelése',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Közösség',
   'notifications.menu.reading': 'Olvasás és könyvtár',
