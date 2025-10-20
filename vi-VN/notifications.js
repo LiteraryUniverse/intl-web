@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'đã gửi cho bạn một lời mời kết bạn.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} Đã đăng ký gói thành viên câu lạc bộ fan của bạn {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} Kế hoạch thành viên câu lạc bộ người hâm mộ của bạn {planName} sẽ hết hạn vào cuối kỳ thanh toán.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Bình luận mới về "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} Đã bình luận về câu chuyện của bạn: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Bắt đầu viết!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Đi đến câu chuyện',
+  'notificationExtra.fanClub.manage': 'Quản lý câu lạc bộ người hâm mộ',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Cộng đồng',
   'notifications.menu.reading': 'Đọc sách & Thư viện',
