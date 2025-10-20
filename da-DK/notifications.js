@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'har sendt dig en venneanmodning.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} tilmeldt din fanklubplan {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} vil efterlade din fanklubplan {planName} ved slutningen af faktureringsperioden.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Ny kommentar til "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} kommenterede din historie: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Begynd at skrive!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Gå til historie',
+  'notificationExtra.fanClub.manage': 'Administrer fanklub',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Fællesskabet',
   'notifications.menu.reading': 'Læsning og bibliotek',
