@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'ส่งคำขอเป็นเพื่อนถึงคุณ',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} สมัครสมาชิกแผนแฟนคลับของคุณ {planName}',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} จะยกเลิกแผนแฟนคลับของคุณ {planName} เมื่อสิ้นสุดรอบการเรียกเก็บเงิน',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'ความคิดเห็นใหม่ใน "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} แสดงความคิดเห็นเกี่ยวกับเรื่องราวของคุณ: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'เริ่มเขียนเลย!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'ไปที่เรื่อง',
+  'notificationExtra.fanClub.manage': 'จัดการแฟนคลับ',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'ชุมชน',
   'notifications.menu.reading': 'การอ่านและห้องสมุด',
