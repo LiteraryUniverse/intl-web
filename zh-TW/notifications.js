@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': '向您發送了好友請求。',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} 訂閱了您的粉絲俱樂部計劃 {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} 將使您的粉絲俱樂部計劃 {planName} 在帳單週期結束時。',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': '關於 "{storyTitle}" 的新評論',
   'notification.story.newComment.body': '{commenterName} 評論了您的故事："{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': '開始寫作',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': '前往故事',
+  'notificationExtra.fanClub.manage': '管理粉絲俱樂部',
   // UI strings for enhanced notifications
   'notifications.menu.community': '社區',
   'notifications.menu.reading': '閱讀與圖書館',
