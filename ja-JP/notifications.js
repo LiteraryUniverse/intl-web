@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'あなたに友達リクエストが送信されました。',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} ファンクラブ・プラン {planName}に登録しました。',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} は、課金期間終了時にファンクラブプラン {planName}。',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': '{storyTitle}" への新しいコメント',
   'notification.story.newComment.body': '{commenterName} コメント"{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': '書き始める！',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'ストーリーに移動する',
+  'notificationExtra.fanClub.manage': 'ファンクラブの管理',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'コミュニティ',
   'notifications.menu.reading': '読書と図書館',
