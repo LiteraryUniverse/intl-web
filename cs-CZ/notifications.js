@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'Vám poslal/a žádost o přátelství.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} přihlásil se k odběru vašeho fanklubového plánu {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} na konci zúčtovacího období opustí váš fanklubový tarif {planName} .',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Nový komentář k "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} komentoval váš příběh: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Začněte psát!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Přejít na příběh',
+  'notificationExtra.fanClub.manage': 'Správa fanklubu',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Společenství',
   'notifications.menu.reading': 'Čtení a knihovna',
