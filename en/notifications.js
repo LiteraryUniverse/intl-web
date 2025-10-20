@@ -28,6 +28,10 @@ export default {
     'New chapter in {storyName} has been published!',
   'notification.workshopStory.newComment': 'has commented on {storyName}', // Before this text will be the username of the user
   'notification.friendRequest': 'sent you a friend request.', // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber':
+    '{subscriberName} subscribed to your fan club plan {planName}.',
+  'notification.fanClub.subscriptionEnded':
+    '{subscriberName} will leave your fan club plan {planName} at the end of the billing period.',
 
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'New comment on "{storyTitle}"',
@@ -148,6 +152,7 @@ export default {
 
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Go to story',
+  'notificationExtra.fanClub.manage': 'Manage fan club',
 
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Community',
