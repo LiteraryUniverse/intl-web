@@ -67,5 +67,20 @@ export default {
   'forums.unArchive': 'Восстановить форум',
   'forums.unArchive.success': 'Форум был восстановлен!',
   'forums.universeTitle': 'Вселенские форумы для {universeName}',
-  'forums.yourMessage': 'Ваше сообщение'
+  'forums.yourMessage': 'Ваше сообщение',
+  // Q&A threads
+  'forums.thread.answered': 'Ответил',
+  'forums.post.selectedAnswer': 'Выбранный ответ',
+  'forums.post.selectAsAnswer': 'Выберите в качестве ответа',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Кто может создавать потоки',
+  'forums.category.postingPermission.everyone': 'Все',
+  'forums.category.postingPermission.owner': 'Только для владельцев форума',
+  // System Posts
+  'forums.settings.systemPosts': 'Системные посты',
+  'forums.settings.systemPosts.description': 'Настройте автоматическую публикацию генерируемого системой контента на Вашем форуме.',
+  'forums.settings.systemPosts.blogs': 'Записи в блоге',
+  'forums.settings.systemPosts.blogs.enable': 'Автоматически создавайте темы на форуме для новых записей в блоге',
+  'forums.settings.systemPosts.blogs.category': 'Пост в категорию:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Выберите категорию...'
 };
