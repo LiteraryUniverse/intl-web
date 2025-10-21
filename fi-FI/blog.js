@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Lataa lisää',
     'blog.qa.warn.luRequired': 'Vain LU-tilaajat voivat esittää kysymyksiä täällä.',
     'blog.qa.warn.fanClubRequired': 'Vain Fan Clubin jäsenet voivat esittää kysymyksiä täällä.',
-    'blog.qa.warn.luOrFanRequired': 'Vain LU-tilaajat tai Fan Clubin jäsenet voivat esittää kysymyksiä täällä.'
+    'blog.qa.warn.luOrFanRequired': 'Vain LU-tilaajat tai Fan Clubin jäsenet voivat esittää kysymyksiä täällä.',
+    // Blog post discussions
+    'blogs.discussion': 'Keskustelu',
+    'blogs.discussionOnForum': 'Keskustelu tästä blogikirjoituksesta jatkuu foorumeillamme.',
+    'blogs.joinDiscussion': 'Osallistu keskusteluun'
 };
