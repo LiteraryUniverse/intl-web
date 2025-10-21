@@ -114,5 +114,9 @@ export default {
     'blog.qa.loadMore': 'Meer laden',
     'blog.qa.warn.luRequired': 'Alleen LU abonnees kunnen hier vragen stellen.',
     'blog.qa.warn.fanClubRequired': 'Alleen fanclubleden kunnen hier vragen stellen.',
-    'blog.qa.warn.luOrFanRequired': 'Alleen LU abonnees of Fan Club leden kunnen hier vragen stellen.'
+    'blog.qa.warn.luOrFanRequired': 'Alleen LU abonnees of Fan Club leden kunnen hier vragen stellen.',
+    // Blog post discussions
+    'blogs.discussion': 'Discussie',
+    'blogs.discussionOnForum': 'De discussie voor deze blogpost gaat verder op onze forums.',
+    'blogs.joinDiscussion': 'Doe mee aan de discussie'
 };
