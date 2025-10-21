@@ -116,5 +116,9 @@ export default {
     'blog.qa.loadMore': 'Proszę załadować więcej',
     'blog.qa.warn.luRequired': 'Tylko subskrybenci LU mogą zadawać tutaj pytania.',
     'blog.qa.warn.fanClubRequired': 'Tylko członkowie Fan Clubu mogą zadawać tutaj pytania.',
-    'blog.qa.warn.luOrFanRequired': 'Tylko subskrybenci LU lub członkowie Fan Clubu mogą zadawać tutaj pytania.'
+    'blog.qa.warn.luOrFanRequired': 'Tylko subskrybenci LU lub członkowie Fan Clubu mogą zadawać tutaj pytania.',
+    // Blog post discussions
+    'blogs.discussion': 'Dyskusja',
+    'blogs.discussionOnForum': 'Dyskusja dotycząca tego wpisu jest kontynuowana na naszym forum.',
+    'blogs.joinDiscussion': 'Dołącz do dyskusji'
 };
