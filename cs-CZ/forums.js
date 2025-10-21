@@ -67,5 +67,20 @@ export default {
   'forums.unArchive': 'Znovu aktivovat fórum',
   'forums.unArchive.success': 'Fórum bylo reaktivováno!',
   'forums.universeTitle': 'Vesmírná fóra pro {universeName}',
-  'forums.yourMessage': 'Vaše zpráva'
+  'forums.yourMessage': 'Vaše zpráva',
+  // Q&A threads
+  'forums.thread.answered': 'Odpověděl',
+  'forums.post.selectedAnswer': 'Vybraná odpověď',
+  'forums.post.selectAsAnswer': 'Vybrat jako odpověď',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Kdo může vytvářet vlákna',
+  'forums.category.postingPermission.everyone': 'Všichni',
+  'forums.category.postingPermission.owner': 'Pouze majitel fóra',
+  // System Posts
+  'forums.settings.systemPosts': 'Systémové příspěvky',
+  'forums.settings.systemPosts.description': 'Konfigurace automatického odesílání obsahu generovaného systémem do fóra.',
+  'forums.settings.systemPosts.blogs': 'Příspěvky na blogu',
+  'forums.settings.systemPosts.blogs.enable': 'Automatické vytváření vláken fóra pro nové příspěvky na blogu',
+  'forums.settings.systemPosts.blogs.category': 'Příspěvek do kategorie:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Vyberte kategorii...'
 };
