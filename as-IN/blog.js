@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Load more',
     'blog.qa.warn.luRequired': 'Only LU subscribers can ask questions here.',
     'blog.qa.warn.fanClubRequired': 'Only Fan Club members can ask questions here.',
-    'blog.qa.warn.luOrFanRequired': 'Only LU subscribers or Fan Club members can ask questions here.'
+    'blog.qa.warn.luOrFanRequired': 'Only LU subscribers or Fan Club members can ask questions here.',
+    // Blog post discussions
+    'blogs.discussion': 'Discussion',
+    'blogs.discussionOnForum': 'The discussion for this blog post continues on our forums.',
+    'blogs.joinDiscussion': 'Join the discussion'
 };
