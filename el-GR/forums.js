@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Επανενεργοποίηση φόρουμ',
   'forums.unArchive.success': 'Το φόρουμ έχει επανενεργοποιηθεί!',
   'forums.universeTitle': 'Φόρουμ του σύμπαντος για το {universeName}',
-  'forums.yourMessage': 'Το μήνυμά σας'
+  'forums.yourMessage': 'Το μήνυμά σας',
+  // Q&A threads
+  'forums.thread.answered': 'Απάντηση',
+  'forums.post.selectedAnswer': 'Επιλεγμένη απάντηση',
+  'forums.post.selectAsAnswer': 'Επιλέξτε ως Απάντηση',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Ποιος μπορεί να δημιουργήσει νήματα',
+  'forums.category.postingPermission.everyone': 'Όλοι',
+  'forums.category.postingPermission.owner': 'Μόνο ο ιδιοκτήτης του φόρουμ',
+  // System Posts
+  'forums.settings.systemPosts': 'Θέσεις συστήματος',
+  'forums.settings.systemPosts.description': 'Ρυθμίστε την αυτόματη αποστολή περιεχομένου που δημιουργείται από το σύστημα στο φόρουμ σας.',
+  'forums.settings.systemPosts.blogs': 'Θέσεις στο blog',
+  'forums.settings.systemPosts.blogs.enable': 'Αυτόματη δημιουργία θεμάτων φόρουμ για νέες αναρτήσεις στο ιστολόγιο',
+  'forums.settings.systemPosts.blogs.category': 'Δημοσίευση στην κατηγορία:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Επιλέξτε μια κατηγορία...'
 };
