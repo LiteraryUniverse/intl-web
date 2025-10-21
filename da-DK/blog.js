@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Læs mere',
     'blog.qa.warn.luRequired': 'Kun LU-abonnenter kan stille spørgsmål her.',
     'blog.qa.warn.fanClubRequired': 'Kun fanklubmedlemmer kan stille spørgsmål her.',
-    'blog.qa.warn.luOrFanRequired': 'Kun LU-abonnenter eller fanklubmedlemmer kan stille spørgsmål her.'
+    'blog.qa.warn.luOrFanRequired': 'Kun LU-abonnenter eller fanklubmedlemmer kan stille spørgsmål her.',
+    // Blog post discussions
+    'blogs.discussion': 'Diskussion',
+    'blogs.discussionOnForum': 'Diskussionen om dette blogindlæg fortsætter på vores forum.',
+    'blogs.joinDiscussion': 'Deltag i diskussionen'
 };
