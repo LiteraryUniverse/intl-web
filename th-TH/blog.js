@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'โหลดเพิ่มเติม',
     'blog.qa.warn.luRequired': 'เฉพาะสมาชิก LU เท่านั้นที่สามารถถามคำถามได้ที่นี่',
     'blog.qa.warn.fanClubRequired': 'เฉพาะสมาชิกแฟนคลับเท่านั้นที่สามารถถามคำถามได้ที่นี่',
-    'blog.qa.warn.luOrFanRequired': 'เฉพาะสมาชิก LU หรือสมาชิกแฟนคลับเท่านั้นที่สามารถถามคำถามได้ที่นี่'
+    'blog.qa.warn.luOrFanRequired': 'เฉพาะสมาชิก LU หรือสมาชิกแฟนคลับเท่านั้นที่สามารถถามคำถามได้ที่นี่',
+    // Blog post discussions
+    'blogs.discussion': 'การอภิปราย',
+    'blogs.discussionOnForum': 'การหารือเกี่ยวกับบล็อกโพสต์นี้ยังคงดำเนินต่อไปในฟอรัมของเรา',
+    'blogs.joinDiscussion': 'เข้าร่วมการสนทนา'
 };
