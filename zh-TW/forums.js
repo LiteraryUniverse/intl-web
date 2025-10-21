@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': '重新啟用論壇',
   'forums.unArchive.success': '論壇已重新啟用！',
   'forums.universeTitle': '宇宙論壇 {universeName}',
-  'forums.yourMessage': '您的留言'
+  'forums.yourMessage': '您的留言',
+  // Q&A threads
+  'forums.thread.answered': '已回答',
+  'forums.post.selectedAnswer': '選取的答案',
+  'forums.post.selectAsAnswer': '選擇為答案',
+  // Category posting permissions
+  'forums.category.postingPermission': '誰可以建立線程',
+  'forums.category.postingPermission.everyone': '每個人',
+  'forums.category.postingPermission.owner': '僅限論壇擁有者',
+  // System Posts
+  'forums.settings.systemPosts': '系統職位',
+  'forums.settings.systemPosts.description': '設定自動張貼系統產生的內容到您的討論區。',
+  'forums.settings.systemPosts.blogs': '部落格文章',
+  'forums.settings.systemPosts.blogs.enable': '自動為新的部落格文章建立論壇主題',
+  'forums.settings.systemPosts.blogs.category': '張貼至類別：',
+  'forums.settings.systemPosts.blogs.selectCategory': '選擇類別...'
 };
