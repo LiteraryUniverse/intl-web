@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Forums opnieuw activeren',
   'forums.unArchive.success': 'Forum is opnieuw geactiveerd!',
   'forums.universeTitle': 'Universumforums voor {universeName}',
-  'forums.yourMessage': 'Jouw bericht'
+  'forums.yourMessage': 'Jouw bericht',
+  // Q&A threads
+  'forums.thread.answered': 'Beantwoord',
+  'forums.post.selectedAnswer': 'Gekozen antwoord',
+  'forums.post.selectAsAnswer': 'Selecteer als antwoord',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Wie kan threads aanmaken',
+  'forums.category.postingPermission.everyone': 'Iedereen',
+  'forums.category.postingPermission.owner': 'Alleen forum eigenaar',
+  // System Posts
+  'forums.settings.systemPosts': 'Systeem Berichten',
+  'forums.settings.systemPosts.description': 'Configureer het automatisch posten van door het systeem gegenereerde inhoud naar uw forum.',
+  'forums.settings.systemPosts.blogs': 'Blog Berichten',
+  'forums.settings.systemPosts.blogs.enable': 'Maak automatisch forumthreads aan voor nieuwe blogberichten',
+  'forums.settings.systemPosts.blogs.category': 'Geplaatst in categorie:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Selecteer een categorie...'
 };
