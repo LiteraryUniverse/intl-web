@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Ladda mer',
     'blog.qa.warn.luRequired': 'Endast LU-prenumeranter kan ställa frågor här.',
     'blog.qa.warn.fanClubRequired': 'Endast Fan Club-medlemmar kan ställa frågor här.',
-    'blog.qa.warn.luOrFanRequired': 'Endast prenumeranter på LU eller medlemmar i Fan Club kan ställa frågor här.'
+    'blog.qa.warn.luOrFanRequired': 'Endast prenumeranter på LU eller medlemmar i Fan Club kan ställa frågor här.',
+    // Blog post discussions
+    'blogs.discussion': 'Diskussion',
+    'blogs.discussionOnForum': 'Diskussionen om detta blogginlägg fortsätter i våra forum.',
+    'blogs.joinDiscussion': 'Delta i diskussionen'
 };
