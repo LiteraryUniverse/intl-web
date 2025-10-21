@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Aktifkan semula forum',
   'forums.unArchive.success': 'Forum telah diaktifkan semula!',
   'forums.universeTitle': 'Universe forums for {universeName}',
-  'forums.yourMessage': 'Mesej anda'
+  'forums.yourMessage': 'Mesej anda',
+  // Q&A threads
+  'forums.thread.answered': 'Answered',
+  'forums.post.selectedAnswer': 'Selected Answer',
+  'forums.post.selectAsAnswer': 'Select as Answer',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Who can create threads',
+  'forums.category.postingPermission.everyone': 'Everyone',
+  'forums.category.postingPermission.owner': 'Forum owner only',
+  // System Posts
+  'forums.settings.systemPosts': 'System Posts',
+  'forums.settings.systemPosts.description': 'Configure automatic posting of system-generated content to your forum.',
+  'forums.settings.systemPosts.blogs': 'Blog Posts',
+  'forums.settings.systemPosts.blogs.enable': 'Automatically create forum threads for new blog posts',
+  'forums.settings.systemPosts.blogs.category': 'Post to category:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Select a category...'
 };
