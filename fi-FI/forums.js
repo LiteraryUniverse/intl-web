@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Aktivoi foorumit uudelleen',
   'forums.unArchive.success': 'Foorumi on aktivoitu uudelleen!',
   'forums.universeTitle': 'Maailmankaikkeuden foorumit {universeName}',
-  'forums.yourMessage': 'Viestisi'
+  'forums.yourMessage': 'Viestisi',
+  // Q&A threads
+  'forums.thread.answered': 'Vastattu',
+  'forums.post.selectedAnswer': 'Valittu vastaus',
+  'forums.post.selectAsAnswer': 'Valitse vastaus',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Kuka voi luoda säikeitä',
+  'forums.category.postingPermission.everyone': 'Kaikki',
+  'forums.category.postingPermission.owner': 'Vain foorumin omistaja',
+  // System Posts
+  'forums.settings.systemPosts': 'Järjestelmän viestit',
+  'forums.settings.systemPosts.description': 'Määritä järjestelmän luoman sisällön automaattinen lähettäminen foorumillesi.',
+  'forums.settings.systemPosts.blogs': 'Blogikirjoitukset',
+  'forums.settings.systemPosts.blogs.enable': 'Luo automaattisesti foorumiketjuja uusille blogiviesteille',
+  'forums.settings.systemPosts.blogs.category': 'Postitse luokkaan:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Valitse luokka...'
 };
