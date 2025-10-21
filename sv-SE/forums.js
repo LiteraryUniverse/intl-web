@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Återaktivera forum',
   'forums.unArchive.success': 'Forumet har återaktiverats!',
   'forums.universeTitle': 'Universumforum för {universeName}',
-  'forums.yourMessage': 'Ditt meddelande'
+  'forums.yourMessage': 'Ditt meddelande',
+  // Q&A threads
+  'forums.thread.answered': 'Besvarad',
+  'forums.post.selectedAnswer': 'Valt svar',
+  'forums.post.selectAsAnswer': 'Välj som svar',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Vem kan skapa trådar',
+  'forums.category.postingPermission.everyone': 'Alla',
+  'forums.category.postingPermission.owner': 'Endast forumägare',
+  // System Posts
+  'forums.settings.systemPosts': 'Systemposter',
+  'forums.settings.systemPosts.description': 'Konfigurera automatisk publicering av systemgenererat innehåll i ditt forum.',
+  'forums.settings.systemPosts.blogs': 'Blogginlägg',
+  'forums.settings.systemPosts.blogs.enable': 'Skapa automatiskt forumtrådar för nya blogginlägg',
+  'forums.settings.systemPosts.blogs.category': 'Inlägg till kategori:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Välj en kategori...'
 };
