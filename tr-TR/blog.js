@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Daha fazla yükle',
     'blog.qa.warn.luRequired': 'Burada sadece LU aboneleri soru sorabilir.',
     'blog.qa.warn.fanClubRequired': 'Burada sadece Fan Club üyeleri soru sorabilir.',
-    'blog.qa.warn.luOrFanRequired': 'Burada sadece LU aboneleri veya Fan Club üyeleri soru sorabilir.'
+    'blog.qa.warn.luOrFanRequired': 'Burada sadece LU aboneleri veya Fan Club üyeleri soru sorabilir.',
+    // Blog post discussions
+    'blogs.discussion': 'Tartışma',
+    'blogs.discussionOnForum': 'Bu blog yazısı için tartışma forumlarımızda devam ediyor.',
+    'blogs.joinDiscussion': 'Tartışmaya katılın'
 };
