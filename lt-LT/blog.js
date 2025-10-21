@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Įkelti daugiau',
     'blog.qa.warn.luRequired': 'Čia klausimus gali užduoti tik LU prenumeratoriai.',
     'blog.qa.warn.fanClubRequired': 'Čia klausimus gali užduoti tik fanų klubo nariai.',
-    'blog.qa.warn.luOrFanRequired': 'Čia klausimus gali užduoti tik LU prenumeratoriai arba fanų klubo nariai.'
+    'blog.qa.warn.luOrFanRequired': 'Čia klausimus gali užduoti tik LU prenumeratoriai arba fanų klubo nariai.',
+    // Blog post discussions
+    'blogs.discussion': 'Diskusija',
+    'blogs.discussionOnForum': 'Diskusija dėl šio tinklaraščio įrašo tęsiama mūsų forumuose.',
+    'blogs.joinDiscussion': 'Prisijunkite prie diskusijos'
 };
