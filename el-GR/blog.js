@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Φορτώστε περισσότερα',
     'blog.qa.warn.luRequired': 'Μόνο οι συνδρομητές του LU μπορούν να κάνουν ερωτήσεις εδώ.',
     'blog.qa.warn.fanClubRequired': 'Μόνο τα μέλη του Fan Club μπορούν να κάνουν ερωτήσεις εδώ.',
-    'blog.qa.warn.luOrFanRequired': 'Μόνο οι συνδρομητές του LU ή τα μέλη του Fan Club μπορούν να κάνουν ερωτήσεις εδώ.'
+    'blog.qa.warn.luOrFanRequired': 'Μόνο οι συνδρομητές του LU ή τα μέλη του Fan Club μπορούν να κάνουν ερωτήσεις εδώ.',
+    // Blog post discussions
+    'blogs.discussion': 'Συζήτηση',
+    'blogs.discussionOnForum': 'Η συζήτηση για αυτή την ανάρτηση στο blog συνεχίζεται στα φόρουμ μας.',
+    'blogs.joinDiscussion': 'Πάρτε μέρος στη συζήτηση'
 };
