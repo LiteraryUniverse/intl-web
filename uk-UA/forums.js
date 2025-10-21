@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Повторно активувати форуми',
   'forums.unArchive.success': 'Форум був повторно активований!',
   'forums.universeTitle': 'Всесвітні форуми для {universeName}',
-  'forums.yourMessage': 'Ваше повідомлення'
+  'forums.yourMessage': 'Ваше повідомлення',
+  // Q&A threads
+  'forums.thread.answered': 'Відповідаю.',
+  'forums.post.selectedAnswer': 'Обрана відповідь',
+  'forums.post.selectAsAnswer': 'Вибрати як відповідь',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Хто може створювати теми',
+  'forums.category.postingPermission.everyone': 'Кожен',
+  'forums.category.postingPermission.owner': 'Тільки для власників форуму',
+  // System Posts
+  'forums.settings.systemPosts': 'Системні пости',
+  'forums.settings.systemPosts.description': 'Налаштуйте автоматичну публікацію згенерованого системою контенту на вашому форумі.',
+  'forums.settings.systemPosts.blogs': 'Дописи в блозі',
+  'forums.settings.systemPosts.blogs.enable': 'Автоматично створювати теми на форумі для нових дописів у блозі',
+  'forums.settings.systemPosts.blogs.category': 'Пост до категорії:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Виберіть категорію...'
 };
