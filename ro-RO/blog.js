@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Încărcați mai mult',
     'blog.qa.warn.luRequired': 'Doar abonații LU pot adresa întrebări aici.',
     'blog.qa.warn.fanClubRequired': 'Doar membrii Fan Clubului pot pune întrebări aici.',
-    'blog.qa.warn.luOrFanRequired': 'Doar abonații LU sau membrii Fan Club pot pune întrebări aici.'
+    'blog.qa.warn.luOrFanRequired': 'Doar abonații LU sau membrii Fan Club pot pune întrebări aici.',
+    // Blog post discussions
+    'blogs.discussion': 'Discuții',
+    'blogs.discussionOnForum': 'Discuția pentru această postare pe blog continuă pe forumurile noastre.',
+    'blogs.joinDiscussion': 'Alăturați-vă discuției'
 };
