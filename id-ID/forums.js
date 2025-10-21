@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Aktifkan kembali forum',
   'forums.unArchive.success': 'Forum telah diaktifkan kembali!',
   'forums.universeTitle': 'Forum alam semesta untuk {universeName}',
-  'forums.yourMessage': 'Pesan Anda'
+  'forums.yourMessage': 'Pesan Anda',
+  // Q&A threads
+  'forums.thread.answered': 'Menjawab',
+  'forums.post.selectedAnswer': 'Jawaban yang dipilih',
+  'forums.post.selectAsAnswer': 'Pilih sebagai Jawaban',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Siapa yang dapat membuat utas',
+  'forums.category.postingPermission.everyone': 'Semua orang',
+  'forums.category.postingPermission.owner': 'Hanya pemilik forum',
+  // System Posts
+  'forums.settings.systemPosts': 'Posting Sistem',
+  'forums.settings.systemPosts.description': 'Konfigurasikan posting otomatis dari konten yang dihasilkan sistem ke forum Anda.',
+  'forums.settings.systemPosts.blogs': 'Posting Blog',
+  'forums.settings.systemPosts.blogs.enable': 'Secara otomatis membuat utas forum untuk postingan blog baru',
+  'forums.settings.systemPosts.blogs.category': 'Posting ke kategori:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Pilih kategori...'
 };
