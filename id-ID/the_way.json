@@ -1,8 +1,8 @@
 {
   "theWay.writerLevel.title": "Level Penulis Anda",
   "theWay.writerLevel.genreLevel": "Tingkat Penulis {level}",
-  "theWay.writerLevel.pathToNextLevel": "Jalan menuju Level {nextLevel} terbentang di hadapan Anda.",
-  "theWay.writerLevel.trackPath": "Lacak jalur Anda menuju Level {nextLevel} di sini.",
+  "theWay.writerLevel.pathToNextLevel": "Jalan menuju Level {nextLevel} kini terbentang di hadapan Anda.",
+  "theWay.writerLevel.trackPath": "Lacak perjalanan Anda menuju Leve{nextLevel} di sini.",
   "theWay.writerLevel.getStarted": "Mulailah berkreasi hari ini!",
   "theWay.writerLevel.pathStart": "Anda sekarang menjadi seorang pembaca. Buatlah langkah pertama dan tulislah bab pertama dari epik Anda!",
   "theWay.help.title": "Pelajari lebih lanjut tentang Cara Penulis",
