@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': '팬픽 숨기기',
     'universe.fanFiction.unhide': '팬픽 숨김 해제',
     'universe.fanFiction.create': '새로운 팬픽션 생성하기',
-    'universe.fanFiction.notAllowed': '이 우주는 팬 픽션을 표시할 수 없습니다.'
+    'universe.fanFiction.notAllowed': '이 우주는 팬 픽션을 표시할 수 없습니다.',
+    'universe.storiesCount': '우주의 총 스토리 수',
+    'universe.createdAt': '생성됨: {date}',
+    'universe.authors.none': '작성자 정보를 사용할 수 없습니다.'
 };
