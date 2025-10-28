@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'النطاق',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'قصص في النطاق',
     'plans.benefits.earlyAccess.scopeHelp': 'اتركها فارغة لتنطبق على جميع قصصك. يؤدي تحديد أي قصص إلى قصر الوصول المبكر على تلك القصص فقط.',
+    'plans.benefits.earlyAccess.hasAccess': 'لديك حق الوصول المبكر إلى هذا الفصل من خلال عضويتك في نادي المعجبين',
+    'plans.benefits.earlyAccess.noAccess': 'الوصول المبكر متاح لأعضاء نادي المعجبين. انضم إلى نادي المعجبين لقراءة هذا الفصل قبل طرحه للجمهور.',
     'plans.benefits.giftAfter': 'هدية بعد {months} شهر',
     'plans.benefits.giftGranted': 'تم إلغاء قفل الهدية',
     'plans.reader.earlyAccess.until': 'متاح للمشتركين حتى {date}',
