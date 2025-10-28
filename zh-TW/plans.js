@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': '範圍',
     'plans.benefits.earlyAccess.scopeStoriesLabel': '範圍內的故事',
     'plans.benefits.earlyAccess.scopeHelp': '留空表示適用於所有故事。選取任何故事只會限制這些故事的早期存取權。',
+    'plans.benefits.earlyAccess.hasAccess': '您可透過您的粉絲俱樂部會藉，提早閱讀本章。',
+    'plans.benefits.earlyAccess.noAccess': '影迷俱樂部會員可提早閱讀。加入影迷俱樂部，即可在公開發佈前閱讀本章。',
     'plans.benefits.giftAfter': '{months} 個月後贈送',
     'plans.benefits.giftGranted': '禮物已解鎖',
     'plans.reader.earlyAccess.until': '訂閱者可使用至 {date}',
