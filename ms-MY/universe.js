@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Sembunyi fanfiction',
     'universe.fanFiction.unhide': 'Nampakkan semula fanfiction',
     'universe.fanFiction.create': 'Cipta fiksyen peminat baru',
-    'universe.fanFiction.notAllowed': 'Universe ini tidak membenarkan untuk memaparkan fan fiction.'
+    'universe.fanFiction.notAllowed': 'Universe ini tidak membenarkan untuk memaparkan fan fiction.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
