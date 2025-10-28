@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'إخفاء القصص الخيالية',
     'universe.fanFiction.unhide': 'إظهار القصص الخيالية',
     'universe.fanFiction.create': 'إنشاء قصة خيالية جديدة',
-    'universe.fanFiction.notAllowed': 'هذا الكون لا يسمح بعرض القصص الخيالية للمعجبين.'
+    'universe.fanFiction.notAllowed': 'هذا الكون لا يسمح بعرض القصص الخيالية للمعجبين.',
+    'universe.storiesCount': 'إجمالي عدد القصص في الكون',
+    'universe.createdAt': 'تم إنشاؤها: {date}',
+    'universe.authors.none': 'لا تتوفر معلومات عن المؤلفين.'
 };
