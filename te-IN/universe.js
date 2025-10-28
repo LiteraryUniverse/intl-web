@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ఫాన్ కథను దాచు',
     'universe.fanFiction.unhide': 'ఫాన్ కథను దాటంచేయండి',
     'universe.fanFiction.create': 'కొత్త ఫ్యాన్ ఫిక్షన్ సృష్టించండి',
-    'universe.fanFiction.notAllowed': 'ఈ యూనివర్స్ ఫ్యాన్ ఫిక్షన్ చూపించడం అనుమతించదు.'
+    'universe.fanFiction.notAllowed': 'ఈ యూనివర్స్ ఫ్యాన్ ఫిక్షన్ చూపించడం అనుమతించదు.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
