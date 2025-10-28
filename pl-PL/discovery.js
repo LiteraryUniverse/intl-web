@@ -68,7 +68,8 @@ export default {
     'discovery.readLatest': 'Czytaj najnowszy rozdział',
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Generowane przez sztuczną inteligencję',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Ta praca została wygenerowana przez sztuczną inteligencję.',
+    // AI content related strings
     'discovery.ai.content': 'Treści generowane przez sztuczną inteligencję',
     'discovery.ai.universes': 'Wszechświaty generowane przez SI',
     'discovery.ai.stories': 'Historie generowane przez sztuczną inteligencję',
