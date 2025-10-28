@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Umfang',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Geschichten im Umfang',
     'plans.benefits.earlyAccess.scopeHelp': 'Lassen Sie diese Option leer, damit sie für alle Ihre Geschichten gilt. Wenn Sie eine beliebige Geschichte auswählen, gilt der frühe Zugang nur für diese.',
+    'plans.benefits.earlyAccess.hasAccess': 'Sie haben durch Ihre Fanclub-Mitgliedschaft frühzeitigen Zugang zu diesem Kapitel',
+    'plans.benefits.earlyAccess.noAccess': 'Mitglieder von Fanclubs haben frühzeitigen Zugang. Treten Sie einem Fanclub bei, um dieses Kapitel zu lesen, bevor es veröffentlicht wird.',
     'plans.benefits.giftAfter': 'Geschenk nach {months} Monaten',
     'plans.benefits.giftGranted': 'Geschenk freigeschaltet',
     'plans.reader.earlyAccess.until': 'Verfügbar für Abonnenten bis {date}',
