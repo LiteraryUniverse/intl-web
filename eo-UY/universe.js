@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Kaŝi fanaĵon',
     'universe.fanFiction.unhide': 'Malapereigi fanaĵon',
     'universe.fanFiction.create': 'Krei novan fanfikcion',
-    'universe.fanFiction.notAllowed': 'Ĉi tiu Universo ne permesas montri fanfikcion.'
+    'universe.fanFiction.notAllowed': 'Ĉi tiu Universo ne permesas montri fanfikcion.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
