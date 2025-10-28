@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': '隐藏同人小说',
     'universe.fanFiction.unhide': '取消隐藏同人小说',
     'universe.fanFiction.create': '創建新的粉絲小說',
-    'universe.fanFiction.notAllowed': '這個宇宙不允許展示同人小說。'
+    'universe.fanFiction.notAllowed': '這個宇宙不允許展示同人小說。',
+    'universe.storiesCount': '宇宙中的故事總數',
+    'universe.createdAt': '已建立： {date}',
+    'universe.authors.none': '無作者資訊。'
 };
