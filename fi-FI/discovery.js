@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Lue viimeisin luku',
     'discovery.author': 'Kirjoittaja',
     'discovery.aiGenerated': 'AI Generated',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Tämä työ on tuotettu tekoälyn avulla.',
+    // AI content related strings
     'discovery.ai.content': 'Tekoälyn luoma sisältö',
     'discovery.ai.universes': 'Tekoälyn luomat maailmankaikkeudet',
     'discovery.ai.stories': 'Tekoälyn luomat tarinat',
