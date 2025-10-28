@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Lugeda viimast peatükist',
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'AI loodud',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'See töö on loodud tehisintellekti abil.',
+    // AI content related strings
     'discovery.ai.content': 'Tehisintellekti loodud sisu',
     'discovery.ai.universes': 'Tehisintellekti loodud universumid',
     'discovery.ai.stories': 'Tehisintellekti loodud lood',
