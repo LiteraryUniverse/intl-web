@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Omfattning',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Berättelser i omfattning',
     'plans.benefits.earlyAccess.scopeHelp': 'Lämna tomt för att gälla alla dina berättelser. Om du väljer några berättelser begränsas den tidiga åtkomsten endast till dessa.',
+    'plans.benefits.earlyAccess.hasAccess': 'Du har tidig tillgång till detta kapitel genom ditt medlemskap i fanklubben',
+    'plans.benefits.earlyAccess.noAccess': 'Tidig tillgång är tillgänglig för fanklubbsmedlemmar. Gå med i en fanclub för att läsa det här kapitlet innan det släpps offentligt.',
     'plans.benefits.giftAfter': 'Gåva efter {months} månader',
     'plans.benefits.giftGranted': 'Gåva upplåst',
     'plans.reader.earlyAccess.until': 'Tillgänglig för prenumeranter fram till {date}',
