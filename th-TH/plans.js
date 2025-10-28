@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'ขอบเขต',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'เรื่องราวที่อยู่ในขอบเขต',
     'plans.benefits.earlyAccess.scopeHelp': 'ปล่อยว่างไว้เพื่อใช้กับทุกเรื่องราวของคุณ การเลือกเรื่องราวใด ๆ จะจำกัดการเข้าถึงก่อนใครเฉพาะเรื่องนั้น ๆ เท่านั้น',
+    'plans.benefits.earlyAccess.hasAccess': 'คุณมีสิทธิ์เข้าถึงบทนี้ล่วงหน้าผ่านการเป็นสมาชิกแฟนคลับของคุณ',
+    'plans.benefits.earlyAccess.noAccess': 'การเข้าถึงล่วงหน้าพร้อมให้บริการแก่สมาชิกแฟนคลับ. เข้าร่วมแฟนคลับเพื่ออ่านบทนี้ก่อนที่มันจะเผยแพร่สู่สาธารณะ.',
     'plans.benefits.giftAfter': 'ของขวัญหลังจาก {months} เดือน',
     'plans.benefits.giftGranted': 'ของขวัญถูกปลดล็อกแล้ว',
     'plans.reader.earlyAccess.until': 'เปิดให้สมาชิกเข้าชมได้จนถึง {date}',
