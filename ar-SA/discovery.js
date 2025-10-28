@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'اقرأ أحدث الفصول',
     'discovery.author': 'المؤلف',
     'discovery.aiGenerated': 'إنشاء الذكاء الاصطناعي',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'تم إنشاء هذا العمل بواسطة الذكاء الاصطناعي.',
+    // AI content related strings
     'discovery.ai.content': 'المحتوى المُنشأ بالذكاء الاصطناعي',
     'discovery.ai.universes': 'الأكوان المولدة بالذكاء الاصطناعي',
     'discovery.ai.stories': 'القصص التي تم إنشاؤها بالذكاء الاصطناعي',
