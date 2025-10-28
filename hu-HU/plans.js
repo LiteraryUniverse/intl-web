@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Terjedelem',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Történetek hatókörben',
     'plans.benefits.earlyAccess.scopeHelp': 'Hagyja üresen, hogy minden történetére vonatkozzon. Bármelyik történet kiválasztása csak azokra korlátozza a korai hozzáférést.',
+    'plans.benefits.earlyAccess.hasAccess': 'A rajongói klubtagságod révén korai hozzáféréssel rendelkezel ehhez a fejezethez.',
+    'plans.benefits.earlyAccess.noAccess': 'A korai hozzáférés a rajongói klubtagok számára elérhető. Csatlakozz egy rajongói klubhoz, hogy elolvasd ezt a fejezetet, mielőtt nyilvánosan megjelenik.',
     'plans.benefits.giftAfter': 'Ajándék a {months} hónap után',
     'plans.benefits.giftGranted': 'Ajándék feloldva',
     'plans.reader.earlyAccess.until': 'Az előfizetők számára elérhető a {date}címen.',
