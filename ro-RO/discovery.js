@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Citit ultimul capitol',
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Generat de AI',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Această lucrare a fost generată de AI.',
+    // AI content related strings
     'discovery.ai.content': 'Conținut generat de inteligența artificială',
     'discovery.ai.universes': 'Universuri generate de inteligența artificială',
     'discovery.ai.stories': 'Povești generate de inteligența artificială',
