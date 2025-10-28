@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Läs det senaste kapitlet',
     'discovery.author': 'Författaren',
     'discovery.aiGenerated': 'AI-genererad',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Detta arbete har genererats av AI.',
+    // AI content related strings
     'discovery.ai.content': 'AI-genererat innehåll',
     'discovery.ai.universes': 'AI-genererade universum',
     'discovery.ai.stories': 'AI-genererade berättelser',
