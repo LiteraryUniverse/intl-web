@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ફેનફિક્શન છુપાવો',
     'universe.fanFiction.unhide': 'ફેનફિક્શન અનછોડો કરો',
     'universe.fanFiction.create': 'નવી ફેન ફિક્શન બનાવો',
-    'universe.fanFiction.notAllowed': 'આ યુનિવર્સ ફેન ફિક્શન બતાવવાની મંજૂરી આપતી નથી.'
+    'universe.fanFiction.notAllowed': 'આ યુનિવર્સ ફેન ફિક્શન બતાવવાની મંજૂરી આપતી નથી.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
