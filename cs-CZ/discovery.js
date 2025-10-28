@@ -70,7 +70,8 @@ export default {
     'discovery.readLatest': 'Číst nejnovější kapitolu',
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Generované umělou inteligencí',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Tato práce byla vytvořena pomocí umělé inteligence.',
+    // AI content related strings
     'discovery.ai.content': 'Obsah generovaný AI',
     'discovery.ai.universes': 'Vesmíry generované umělou inteligencí',
     'discovery.ai.stories': 'Příběhy generované AI',
