@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ซ่อนนิยายของแฟน',
     'universe.fanFiction.unhide': 'แสดงนิยายของแฟน',
     'universe.fanFiction.create': 'สร้างนิยายแฟนตาซีใหม่',
-    'universe.fanFiction.notAllowed': 'จักรวาลนี้ไม่อนุญาตให้แสดงนิยายแฟนตาซี'
+    'universe.fanFiction.notAllowed': 'จักรวาลนี้ไม่อนุญาตให้แสดงนิยายแฟนตาซี',
+    'universe.storiesCount': 'จำนวนเรื่องราวทั้งหมดในจักรวาล',
+    'universe.createdAt': 'สร้างขึ้น: {date}',
+    'universe.authors.none': 'ไม่มีข้อมูลผู้แต่ง'
 };
