@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ফ্যানফিকশন লুকান',
     'universe.fanFiction.unhide': 'ফ্যানফিকশন লুকান ছাড়ুন',
     'universe.fanFiction.create': 'নতুন ফ্যান ফিকশন তৈরি করুন',
-    'universe.fanFiction.notAllowed': 'এই বিশ্বে ফ্যান ফিকশন প্রদর্শন করা অনুমোদিত নয়।'
+    'universe.fanFiction.notAllowed': 'এই বিশ্বে ফ্যান ফিকশন প্রদর্শন করা অনুমোদিত নয়।',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
