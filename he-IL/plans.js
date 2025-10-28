@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'היקף',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'סיפורים בהיקף',
     'plans.benefits.earlyAccess.scopeHelp': 'השאר ריק כדי להחיל על כל הסיפורים שלך. בחירת סיפורים כלשהם מגבילה את הגישה המוקדמת רק לאלה.',
+    'plans.benefits.earlyAccess.hasAccess': 'יש לך גישה מוקדמת לפרק זה באמצעות חברותך במועדון המעריצים.',
+    'plans.benefits.earlyAccess.noAccess': 'גישה מוקדמת זמינה לחברי מועדון המעריצים. הצטרפו למועדון המעריצים כדי לקרוא את הפרק לפני פרסומו לציבור הרחב.',
     'plans.benefits.giftAfter': 'מתנה לאחר {months} חודשים',
     'plans.benefits.giftGranted': 'מתנה נעולה',
     'plans.reader.earlyAccess.until': 'זמין למנויים עד {date}',
