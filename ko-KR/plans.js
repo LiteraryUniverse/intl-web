@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': '범위',
     'plans.benefits.earlyAccess.scopeStoriesLabel': '범위 내 스토리',
     'plans.benefits.earlyAccess.scopeHelp': '모든 스토리에 적용하려면 비워 두세요. 스토리를 선택하면 해당 스토리에만 얼리 액세스가 제한됩니다.',
+    'plans.benefits.earlyAccess.hasAccess': '팬클럽 멤버십을 통해 이 챕터에 미리 액세스할 수 있습니다.',
+    'plans.benefits.earlyAccess.noAccess': '팬클럽 회원은 미리 체험할 수 있습니다. 팬클럽에 가입하여 이 챕터가 공개되기 전에 미리 읽어보세요.',
     'plans.benefits.giftAfter': '{months} 개월 후 선물',
     'plans.benefits.giftGranted': '선물 잠금 해제',
     'plans.reader.earlyAccess.until': '구독자는 {date}까지 사용 가능',
