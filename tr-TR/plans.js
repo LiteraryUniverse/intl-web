@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Kapsam',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Kapsam dahilindeki hikayeler',
     'plans.benefits.earlyAccess.scopeHelp': 'Tüm hikayelerinize uygulamak için boş bırakın. Herhangi bir hikayenin seçilmesi erken erişimi yalnızca bu hikayelerle sınırlar.',
+    'plans.benefits.earlyAccess.hasAccess': 'Fan club üyeliğiniz sayesinde bu bölüme erken erişiminiz var',
+    'plans.benefits.earlyAccess.noAccess': 'Hayran kulübü üyeleri erken erişimden yararlanabilir. Bu bölümü herkese açık olarak yayınlanmadan önce okumak için bir hayran kulübüne katılın.',
     'plans.benefits.giftAfter': 'Hediye {months} ay sonra',
     'plans.benefits.giftGranted': 'Hediye kilidi açıldı',
     'plans.reader.earlyAccess.until': 'Aboneler tarafından {date}adresine kadar kullanılabilir.',
