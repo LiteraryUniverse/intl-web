@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Fanfiction ausblenden',
     'universe.fanFiction.unhide': 'Fanfiction einblenden',
     'universe.fanFiction.create': 'Eine neue Fanfiction erstellen',
-    'universe.fanFiction.notAllowed': 'Dieses Universum erlaubt keine Anzeige von Fan-Fiction.'
+    'universe.fanFiction.notAllowed': 'Dieses Universum erlaubt keine Anzeige von Fan-Fiction.',
+    'universe.storiesCount': 'Gesamtzahl der Geschichten im Universum',
+    'universe.createdAt': 'Erstellt: {date}',
+    'universe.authors.none': 'Keine Angaben zum Autor verfügbar.'
 };
