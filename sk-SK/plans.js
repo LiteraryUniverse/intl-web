@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Rozsah pôsobnosti',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Príbehy v rozsahu',
     'plans.benefits.earlyAccess.scopeHelp': 'Nechajte prázdne, aby sa vzťahovalo na všetky vaše príbehy. Výberom ľubovoľných príbehov obmedzíte skorý prístup len na tieto príbehy.',
+    'plans.benefits.earlyAccess.hasAccess': 'K tejto kapitole máte predčasný prístup vďaka členstvu vo fanklube',
+    'plans.benefits.earlyAccess.noAccess': 'Predčasný prístup je k dispozícii členom fanklubu. Pridajte sa do fanklubu a prečítajte si túto kapitolu ešte pred jej verejným zverejnením.',
     'plans.benefits.giftAfter': 'Darček po {months} mesiacoch',
     'plans.benefits.giftGranted': 'Darček odomknutý',
     'plans.reader.earlyAccess.until': 'K dispozícii pre predplatiteľov do {date}',
