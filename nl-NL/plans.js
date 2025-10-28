@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Toepassingsgebied',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Verhalen in omvang',
     'plans.benefits.earlyAccess.scopeHelp': 'Leeg laten om op al uw verhalen van toepassing te zijn. Als u een verhaal selecteert, wordt de vroege toegang alleen beperkt tot dat verhaal.',
+    'plans.benefits.earlyAccess.hasAccess': 'U hebt vroegtijdige toegang tot dit hoofdstuk via uw lidmaatschap van de fanclub',
+    'plans.benefits.earlyAccess.noAccess': 'Vroege toegang is beschikbaar voor fanclubleden. Word lid van een fanclub om dit hoofdstuk te lezen voordat het publiekelijk wordt vrijgegeven.',
     'plans.benefits.giftAfter': 'Gift na {months} maanden',
     'plans.benefits.giftGranted': 'Cadeau ontgrendeld',
     'plans.reader.earlyAccess.until': 'Beschikbaar voor abonnees tot {date}',
