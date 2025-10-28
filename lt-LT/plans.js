@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Apimtis',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Apimties istorijos',
     'plans.benefits.earlyAccess.scopeHelp': 'Palikite tuščią vietą, kad būtų taikoma visoms jūsų istorijoms. Pasirinkus bet kurias istorijas, ankstyvoji prieiga suteikiama tik joms.',
+    'plans.benefits.earlyAccess.hasAccess': 'Turite išankstinę prieigą prie šio skyriaus per savo fanų klubo narystę',
+    'plans.benefits.earlyAccess.noAccess': 'Ankstyva prieiga suteikiama fanų klubo nariams. Prisijunkite prie fanų klubo ir perskaitykite šį skyrių prieš jį viešai paskelbiant.',
     'plans.benefits.giftAfter': 'Dovana po {months} mėnesių',
     'plans.benefits.giftGranted': 'Dovana atrakinta',
     'plans.reader.earlyAccess.until': 'Prenumeratoriams prieinama iki {date}',
