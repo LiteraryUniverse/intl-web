@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': '閱讀最新章節',
     'discovery.author': '作者',
     'discovery.aiGenerated': 'AI 產生',
-    // New AI content related strings
+    'discovery.isAIGenerated': '本作品由 AI 生成。',
+    // AI content related strings
     'discovery.ai.content': 'AI 產生的內容',
     'discovery.ai.universes': 'AI 產生的宇宙',
     'discovery.ai.stories': 'AI 產生的故事',
