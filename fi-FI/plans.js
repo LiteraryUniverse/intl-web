@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Laajuus',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Tarinat laajuudeltaan',
     'plans.benefits.earlyAccess.scopeHelp': 'Jätä tyhjäksi, jos haluat soveltaa sitä kaikkiin tarinoihisi. Jos valitset minkä tahansa tarinan, rajoitat varhaista pääsyä vain näihin tarinoihin.',
+    'plans.benefits.earlyAccess.hasAccess': 'Sinulla on etuajassa pääsy tähän lukuun faniklubijäsenyytesi kautta.',
+    'plans.benefits.earlyAccess.noAccess': 'Faniklubin jäsenet pääsevät peliin varhaisessa vaiheessa. Liity faniklubiin lukeaksesi tämän luvun ennen kuin se julkaistaan julkisesti.',
     'plans.benefits.giftAfter': 'Lahja {months} kuukausien jälkeen',
     'plans.benefits.giftGranted': 'Lahja avattu',
     'plans.reader.earlyAccess.until': 'Saatavilla tilaajille osoitteeseen {date}asti.',
