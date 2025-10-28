@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ৰচনাকহ  আৰ্ট লুকাওক',
     'universe.fanFiction.unhide': 'ৰচনাকহ  আৰ্ট লুকুৱাওক',
     'universe.fanFiction.create': 'নতুন ফ্যান ফিকশন তৈরি কৰক',
-    'universe.fanFiction.notAllowed': 'এই বিশ্বটোত ফ্যান ফিকশন প্রদর্শন কৰিব নদাই।'
+    'universe.fanFiction.notAllowed': 'এই বিশ্বটোত ফ্যান ফিকশন প্রদর্শন কৰিব নদাই।',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
