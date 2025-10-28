@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Πεδίο εφαρμογής',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Ιστορίες στο πεδίο εφαρμογής',
     'plans.benefits.earlyAccess.scopeHelp': 'Αφήστε το κενό για να ισχύει για όλες τις ιστορίες σας. Η επιλογή οποιωνδήποτε ιστοριών περιορίζει την πρώιμη πρόσβαση μόνο σε αυτές.',
+    'plans.benefits.earlyAccess.hasAccess': 'Έχετε πρώιμη πρόσβαση σε αυτό το κεφάλαιο μέσω της συνδρομής σας στο fan club',
+    'plans.benefits.earlyAccess.noAccess': 'Η πρώιμη πρόσβαση είναι διαθέσιμη στα μέλη του fan club. Εγγραφείτε σε ένα fan club για να διαβάσετε αυτό το κεφάλαιο πριν κυκλοφορήσει δημοσίως.',
     'plans.benefits.giftAfter': 'Δώρο μετά από {months} μήνες',
     'plans.benefits.giftGranted': 'Δώρο ξεκλειδωμένο',
     'plans.reader.earlyAccess.until': 'Διαθέσιμο στους συνδρομητές μέχρι τη διεύθυνση {date}',
