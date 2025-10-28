@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Skjul fan fiction',
     'universe.fanFiction.unhide': 'Vis fan fiction',
     'universe.fanFiction.create': 'Opret ny fan fiction',
-    'universe.fanFiction.notAllowed': 'Dette Univers tillader ikke visning af fan fiction.'
+    'universe.fanFiction.notAllowed': 'Dette Univers tillader ikke visning af fan fiction.',
+    'universe.storiesCount': 'Samlet antal historier i universet',
+    'universe.createdAt': 'Oprettet: {date}',
+    'universe.authors.none': 'Ingen oplysninger om forfattere tilgængelige.'
 };
