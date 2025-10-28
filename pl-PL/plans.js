@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Zakres',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Historie w zakresie',
     'plans.benefits.earlyAccess.scopeHelp': 'Proszę pozostawić puste, aby zastosować do wszystkich historii. Wybranie dowolnej historii ogranicza wczesny dostęp tylko do niej.',
+    'plans.benefits.earlyAccess.hasAccess': 'Mają Państwo wcześniejszy dostęp do tego rozdziału dzięki członkostwu w fanklubie',
+    'plans.benefits.earlyAccess.noAccess': 'Wczesny dostęp jest dostępny dla członków fanklubu. Proszę dołączyć do fanklubu, aby przeczytać ten rozdział przed jego publiczną publikacją.',
     'plans.benefits.giftAfter': 'Prezent po {months} miesiącach',
     'plans.benefits.giftGranted': 'Prezent odblokowany',
     'plans.reader.earlyAccess.until': 'Dostępne dla subskrybentów do {date}',
