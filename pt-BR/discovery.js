@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Ler o último capítulo',
     'discovery.author': 'Autor',
     'discovery.aiGenerated': 'Gerado por IA',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Este trabalho foi gerado por IA.',
+    // AI content related strings
     'discovery.ai.content': 'Conteúdo gerado por IA',
     'discovery.ai.universes': 'Universos gerados por IA',
     'discovery.ai.stories': 'Histórias geradas por IA',
