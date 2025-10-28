@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Alcance',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Historias de alcance',
     'plans.benefits.earlyAccess.scopeHelp': 'Déjelo vacío para que se aplique a todas sus historias. Si selecciona alguna historia, el acceso anticipado sólo se limitará a ella.',
+    'plans.benefits.earlyAccess.hasAccess': 'Tiene acceso anticipado a este capítulo a través de su afiliación al club de fans',
+    'plans.benefits.earlyAccess.noAccess': 'El acceso anticipado está disponible para los miembros del club de fans. Únase a un club de fans para leer este capítulo antes de que se publique.',
     'plans.benefits.giftAfter': 'Regalo después de {months} meses',
     'plans.benefits.giftGranted': 'Regalo desbloqueado',
     'plans.reader.earlyAccess.until': 'Disponible para suscriptores hasta {date}',
