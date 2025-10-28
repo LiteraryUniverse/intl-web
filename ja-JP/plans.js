@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'スコープ',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'ストーリーの範囲',
     'plans.benefits.earlyAccess.scopeHelp': 'すべてのストーリーに適用するには、何も入力しないでください。任意のストーリーを選択すると、そのストーリーのみに早期アクセスが制限されます。',
+    'plans.benefits.earlyAccess.hasAccess': 'ファンクラブ会員になると、この章にいち早くアクセスできる。',
+    'plans.benefits.earlyAccess.noAccess': 'ファンクラブ会員の方は早期アクセスが可能です。ファンクラブに入会すると、一般公開前にこの章を読むことができます。',
     'plans.benefits.giftAfter': '{months} 月後に贈呈',
     'plans.benefits.giftGranted': 'ギフトロック解除',
     'plans.reader.earlyAccess.until': '{date}。',
