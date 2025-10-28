@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Scope',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Stories in scope',
     'plans.benefits.earlyAccess.scopeHelp': 'Leave empty to apply to all your stories. Selecting any stories limits early access only to those.',
+    'plans.benefits.earlyAccess.hasAccess': 'You have early access to this chapter through your fan club membership',
+    'plans.benefits.earlyAccess.noAccess': 'Early access is available to fan club members. Join a fan club to read this chapter before it\'s publicly released.',
     'plans.benefits.giftAfter': 'Gift after {months} months',
     'plans.benefits.giftGranted': 'Gift unlocked',
     'plans.reader.earlyAccess.until': 'Available to subscribers until {date}',
