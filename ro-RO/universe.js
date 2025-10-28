@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Ascunde fanfiction',
     'universe.fanFiction.unhide': 'Afisează fanfiction',
     'universe.fanFiction.create': 'Creează o nouă ficțiune fan',
-    'universe.fanFiction.notAllowed': 'Această Univers nu permite afișarea ficțiunii fan.'
+    'universe.fanFiction.notAllowed': 'Această Univers nu permite afișarea ficțiunii fan.',
+    'universe.storiesCount': 'Numărul total de povești din univers',
+    'universe.createdAt': 'Creat: {date}',
+    'universe.authors.none': 'Nu sunt disponibile informații privind autorii.'
 };
