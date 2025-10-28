@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Verberg fanfictie',
     'universe.fanFiction.unhide': 'Toon fanfictie',
     'universe.fanFiction.create': 'Nieuwe fanfictie maken',
-    'universe.fanFiction.notAllowed': 'Deze Universum staat geen fanfictie toe.'
+    'universe.fanFiction.notAllowed': 'Deze Universum staat geen fanfictie toe.',
+    'universe.storiesCount': 'Totaal aantal verhalen in het universum',
+    'universe.createdAt': 'Gemaakt: {date}',
+    'universe.authors.none': 'Geen auteursinformatie beschikbaar.'
 };
