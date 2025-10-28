@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Amaga fanfictions',
     'universe.fanFiction.unhide': 'Desamaga fanfictions',
     'universe.fanFiction.create': 'Crear nova ficció de fans',
-    'universe.fanFiction.notAllowed': 'Aquest Univers no permet mostrar ficció de fans.'
+    'universe.fanFiction.notAllowed': 'Aquest Univers no permet mostrar ficció de fans.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
