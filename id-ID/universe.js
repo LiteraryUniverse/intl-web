@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Sembunyikan fanfiction',
     'universe.fanFiction.unhide': 'Tampilkan kembali fanfiction',
     'universe.fanFiction.create': 'Buat fan fiction baru',
-    'universe.fanFiction.notAllowed': 'Semesta ini tidak mengizinkan menampilkan fan fiction.'
+    'universe.fanFiction.notAllowed': 'Semesta ini tidak mengizinkan menampilkan fan fiction.',
+    'universe.storiesCount': 'Jumlah total cerita di alam semesta',
+    'universe.createdAt': 'Dibuat: {date}',
+    'universe.authors.none': 'Tidak ada informasi penulis yang tersedia.'
 };
