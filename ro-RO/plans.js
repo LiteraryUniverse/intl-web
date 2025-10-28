@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Domeniul de aplicare',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Povești în domeniu',
     'plans.benefits.earlyAccess.scopeHelp': 'Lăsați gol pentru a se aplica tuturor povestirilor dvs. Selectarea oricăror povestiri limitează accesul anticipat doar la acestea.',
+    'plans.benefits.earlyAccess.hasAccess': 'Ai acces timpuriu la acest capitol prin intermediul abonamentului tău la fan club',
+    'plans.benefits.earlyAccess.noAccess': 'Accesul anticipat este disponibil pentru membrii fan cluburilor. Alăturați-vă unui fan club pentru a citi acest capitol înainte de a fi lansat public.',
     'plans.benefits.giftAfter': 'Cadou după {months} luni',
     'plans.benefits.giftGranted': 'Cadou deblocat',
     'plans.reader.earlyAccess.until': 'Disponibil pentru abonați până la {date}',
