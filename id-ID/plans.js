@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Cakupan',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Cerita dalam cakupan',
     'plans.benefits.earlyAccess.scopeHelp': 'Biarkan kosong untuk diterapkan ke semua cerita Anda. Memilih cerita apa pun akan membatasi akses awal hanya untuk cerita tersebut.',
+    'plans.benefits.earlyAccess.hasAccess': 'Anda memiliki akses awal ke bab ini melalui keanggotaan klub penggemar Anda',
+    'plans.benefits.earlyAccess.noAccess': 'Akses awal tersedia untuk anggota klub penggemar. Bergabunglah dengan klub penggemar untuk membaca bab ini sebelum dirilis untuk umum.',
     'plans.benefits.giftAfter': 'Hadiah setelah {months} bulan',
     'plans.benefits.giftGranted': 'Hadiah tidak terkunci',
     'plans.reader.earlyAccess.until': 'Tersedia untuk pelanggan hingga {date}',
