@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Phạm vi',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Các câu chuyện trong phạm vi',
     'plans.benefits.earlyAccess.scopeHelp': 'Để trống để áp dụng cho tất cả các câu chuyện của bạn. Chọn bất kỳ câu chuyện nào sẽ giới hạn quyền truy cập sớm chỉ cho những câu chuyện đó.',
+    'plans.benefits.earlyAccess.hasAccess': 'Bạn có quyền truy cập sớm vào chương này thông qua tư cách thành viên câu lạc bộ người hâm mộ của mình.',
+    'plans.benefits.earlyAccess.noAccess': 'Quyền truy cập sớm dành cho thành viên câu lạc bộ người hâm mộ. Hãy tham gia câu lạc bộ người hâm mộ để đọc chương này trước khi nó được phát hành công khai.',
     'plans.benefits.giftAfter': 'Quà tặng sau {months} tháng',
     'plans.benefits.giftGranted': 'Quà tặng đã được mở khóa',
     'plans.reader.earlyAccess.until': 'Có sẵn cho người đăng ký cho đến ngày {date}',
