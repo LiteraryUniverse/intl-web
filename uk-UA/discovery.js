@@ -70,7 +70,8 @@ export default {
     'discovery.readLatest': 'Читати останню главу',
     'discovery.author': 'Автор',
     'discovery.aiGenerated': 'Створено штучним інтелектом',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Ця робота була створена за допомогою штучного інтелекту.',
+    // AI content related strings
     'discovery.ai.content': 'Контент, створений штучним інтелектом',
     'discovery.ai.universes': 'Всесвіти, створені штучним інтелектом',
     'discovery.ai.stories': 'Історії, створені штучним інтелектом',
