@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Διαβάστε το τελευταίο κεφάλαιο',
     'discovery.author': 'Συγγραφέας',
     'discovery.aiGenerated': 'AI Generated',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Το έργο αυτό δημιουργήθηκε από την AI.',
+    // AI content related strings
     'discovery.ai.content': 'Περιεχόμενο που παράγεται από τεχνητή νοημοσύνη',
     'discovery.ai.universes': 'Σύμπαντα που δημιουργούνται από Τεχνητή Νοημοσύνη',
     'discovery.ai.stories': 'Ιστορίες που παράγονται από τεχνητή νοημοσύνη',
