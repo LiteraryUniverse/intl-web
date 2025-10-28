@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Piilota fanifiktiot',
     'universe.fanFiction.unhide': 'Näytä piilotetut fanifiktiot',
     'universe.fanFiction.create': 'Luo uusi fanifiktiota',
-    'universe.fanFiction.notAllowed': 'Tämä Universumi ei salli fanifiktion näyttämistä.'
+    'universe.fanFiction.notAllowed': 'Tämä Universumi ei salli fanifiktion näyttämistä.',
+    'universe.storiesCount': 'Universumin tarinoiden kokonaismäärä',
+    'universe.createdAt': 'Luotu: {date}',
+    'universe.authors.none': 'Tekijöitä koskevia tietoja ei ole saatavilla.'
 };
