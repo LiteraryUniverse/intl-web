@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Baca bab terbaru',
     'discovery.author': 'Penulis',
     'discovery.aiGenerated': 'Dihasilkan oleh AI',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Karya ini telah dihasilkan oleh AI.',
+    // AI content related strings
     'discovery.ai.content': 'Konten yang Dihasilkan AI',
     'discovery.ai.universes': 'Alam Semesta yang Dihasilkan AI',
     'discovery.ai.stories': 'Cerita yang Dihasilkan AI',
