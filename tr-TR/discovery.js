@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'En son bölümü oku',
     'discovery.author': 'Yazar',
     'discovery.aiGenerated': 'Yapay Zeka Üretildi',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Bu çalışma yapay zeka tarafından üretilmiştir.',
+    // AI content related strings
     'discovery.ai.content': 'Yapay Zeka Tarafından Oluşturulan İçerik',
     'discovery.ai.universes': 'Yapay Zeka Tarafından Oluşturulan Evrenler',
     'discovery.ai.stories': 'Yapay Zeka Tarafından Oluşturulan Hikayeler',
