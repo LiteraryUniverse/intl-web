@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'קרא את הפרק האחרון',
     'discovery.author': 'Author',
     'discovery.aiGenerated': 'AI Generated',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'עבודה זו נוצרה על ידי בינה מלאכותית.',
+    // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',
