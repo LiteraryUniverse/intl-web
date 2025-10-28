@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Απόκρυψη φανταστικής αφήγησης',
     'universe.fanFiction.unhide': 'Εμφάνιση φανταστικής αφήγησης',
     'universe.fanFiction.create': 'Δημιουργία νέας φανταστικής ιστορίας',
-    'universe.fanFiction.notAllowed': 'Αυτό το Σύμπαν δεν επιτρέπει την εμφάνιση φανταστικής λογοτεχνίας.'
+    'universe.fanFiction.notAllowed': 'Αυτό το Σύμπαν δεν επιτρέπει την εμφάνιση φανταστικής λογοτεχνίας.',
+    'universe.storiesCount': 'Συνολικός αριθμός ιστοριών στο σύμπαν',
+    'universe.createdAt': 'Δημιουργήθηκε: {date}',
+    'universe.authors.none': 'Δεν υπάρχουν διαθέσιμες πληροφορίες για τους συγγραφείς.'
 };
