@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Сфера застосування',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Історії за обсягом',
     'plans.benefits.earlyAccess.scopeHelp': 'Залиште поле порожнім, щоб застосувати до всіх ваших історій. Вибір будь-яких історій обмежує ранній доступ лише до них.',
+    'plans.benefits.earlyAccess.hasAccess': 'Ви маєте ранній доступ до цього розділу завдяки членству у фан-клубі',
+    'plans.benefits.earlyAccess.noAccess': 'Ранній доступ доступний членам фан-клубу. Приєднуйтесь до фан-клубу, щоб прочитати цю главу до того, як вона буде опублікована.',
     'plans.benefits.giftAfter': 'Подарунок через {months} місяців',
     'plans.benefits.giftGranted': 'Подарунок розблоковано',
     'plans.reader.earlyAccess.until': 'Доступно для передплатників до {date}',
