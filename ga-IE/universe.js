@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Folaigh ficsean',
     'universe.fanFiction.unhide': 'Taispeáin ficsean',
     'universe.fanFiction.create': 'Cruthaigh scéal nua de léiriú na bhfanna',
-    'universe.fanFiction.notAllowed': 'Ní cheadaíonn an Domhan seo taispeáint ficsean lucht leanúna.'
+    'universe.fanFiction.notAllowed': 'Ní cheadaíonn an Domhan seo taispeáint ficsean lucht leanúna.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
