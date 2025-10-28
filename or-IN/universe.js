@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ଛଡିବେ ଫନଫିକ୍ସନ',
     'universe.fanFiction.unhide': 'ଦାଖିବେ ଫନଫିକ୍ସନ',
     'universe.fanFiction.create': 'ନବମ ଫାନ୍ ଫିକ୍ସନ ତିଆରି କରନ୍ତୁ',
-    'universe.fanFiction.notAllowed': 'ଏହି ବିଶ୍ୱରେ ଫାନ୍ ଫିକ୍ସନର ପ୍ରଦର୍ଶନ ଅନୁମୋଦିତ ନାହିଁ।'
+    'universe.fanFiction.notAllowed': 'ଏହି ବିଶ୍ୱରେ ଫାନ୍ ଫିକ୍ସନର ପ୍ରଦର୍ଶନ ଅନୁମୋଦିତ ନାହିଁ।',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };
