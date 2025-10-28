@@ -278,6 +278,8 @@ export default {
     'plans.benefits.earlyAccess.scopeLabel': 'Reguleerimisala',
     'plans.benefits.earlyAccess.scopeStoriesLabel': 'Jutud ulatuselt',
     'plans.benefits.earlyAccess.scopeHelp': 'Jäta tühjaks, et see kehtiks kõigi sinu lugude kohta. Kui valite mis tahes loo, siis piirdub varajane juurdepääs ainult nende lugudega.',
+    'plans.benefits.earlyAccess.hasAccess': 'Teil on varajane juurdepääs sellele peatükile läbi teie fänniklubi liikmelisuse.',
+    'plans.benefits.earlyAccess.noAccess': 'Varajane juurdepääs on saadaval fänniklubi liikmetele. Liituge fänniklubiga, et lugeda seda peatükki enne selle avalikku avaldamist.',
     'plans.benefits.giftAfter': 'Kingitus pärast {months} kuud',
     'plans.benefits.giftGranted': 'Kingitus vabastatakse',
     'plans.reader.earlyAccess.until': 'Saadaval tellijatele kuni {date}',
