@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Xóa tài khoản của tôi',
     'settings.legal.title': 'Thỏa thuận về sự đồng ý của người dùng',
     'settings.legal.explained': 'Ở đây bạn có thể quản lý sự đồng ý của mình đối với các tài liệu pháp lý khác nhau.',
+    'settings.legal.analytics.title': 'Phân tích và theo dõi',
+    'settings.legal.analytics.description': 'Bạn có thể kiểm soát các dịch vụ phân tích và theo dõi được sử dụng trên Literary Universe. Phần này sẽ liệt kê tất cả các dịch vụ khi chúng tôi thêm chúng.',
+    'settings.legal.analytics.ostrio': 'Để tắt theo dõi của Ostrio Analytics, hãy truy cập trang từ chối tham gia của họ:',
+    'settings.legal.analytics.ostrioOptOut': 'Quản lý tùy chọn từ chối tham gia Ostrio Analytics',
+    'settings.legal.analytics.future': 'Chúng tôi sẽ thêm các nhà cung cấp khác, chẳng hạn như Google Analytics hoặc Seznam, vào đây sau khi chúng được kích hoạt.',
     'settings.name.private': 'Tên sẽ được bảo mật',
     'settings.emailSubscriptions.title': 'Cài đặt thông báo qua email',
     'settings.emailSubscriptions.explain': 'Chọn những thông báo qua email mà bạn muốn nhận từ chúng tôi.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Thông tin về tính năng mới',
     'settings.emailNotifications.title': 'Thông báo',
     'settings.emailNotifications.pm': 'Tin nhắn mới',
-    'settings.emailNotifications.newChapters': 'Chương mới',
+    'settings.emailNotifications.newChapters': 'Những chương mới từ những câu chuyện bạn đang theo dõi',
+    'settings.emailNotifications.newStories': 'Các câu chuyện mới trong các vũ trụ hoặc từ các tác giả mà bạn theo dõi',
+    'settings.emailNotifications.newUniverses': 'Những vũ trụ mới từ các tác giả bạn theo dõi',
     'settings.resetPasswordEmailSend': 'Chúng tôi đã gửi cho bạn hướng dẫn về cách đặt lại mật khẩu qua email.',
     'settings.theme.title': 'Giao diện trang web',
     'settings.theme.label': 'Giao diện trang web',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-    'settings.interests.avoidGenres': 'Genres to avoid'
+    'settings.interests.avoidGenres': 'Genres to avoid',
+    'settings.notifications': 'Thông báo & bản tin'
 };
