@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Villages',
     'encyclopedia.category.towns': 'Towns',
     'encyclopedia.category.cities': 'Cities',
+    'encyclopedia.category.settlements': 'การตั้งถิ่นฐาน',
+    'encyclopedia.category.countries': 'ประเทศ',
     'encyclopedia.search.found': `{results, plural,
     =0 {ไม่มีรายการที่เกี่ยวข้อง}
     one {มีรายการที่เกี่ยวข้อง 1 รายการ}
@@ -50,39 +52,41 @@ export default {
     'encyclopedia.add.title': 'เพิ่มรายการใหม่ในสารานุกรม',
     'encyclopedia.add.heading': 'คุณต้องการเพิ่มอะไร?',
     'encyclopedia.add.moresoon': 'หมวดหมู่เพิ่มเติมเร็วๆ นี้',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {villages}
-    towns {towns}
-    cities {cities}
+    'encyclopedia.create': `สร้างใหม่ {category, select,
+    character {ตัวละคร}
+    event {เหตุการณ์}
+    group {กลุ่ม}
+    item {ไอเทม}
+    location {สถานที่}
+    other {บันทึก}
+    state {สถานะ}
+    governments {รัฐบาล}
+    languages {ภาษา}
+    creatures {สิ่งมีชีวิต}
+    deity {เทพเจ้า}
+    religions {ศาสนา}
+    flora {พืช}
+    magic {เวทมนตร์}
+    planets {ดาวเคราะห์}
+    species {สายพันธุ์}
+    technologies {เทคโนโลยี}
+    families {ตระกูล}
+    jobs {อาชีพ}
+    lore {ตำนาน}
+    vehicles {ยานพาหนะ}
+    diseases {โรค}
+    traditions {ประเพณี}
+    food {อาหาร}
+    sports {กีฬา}
+    landmarks {สถานที่สำคัญ}
+    buildings {อาคาร}
+    schools {โรงเรียน}
+    continents {ทวีป}
+    villages {หมู่บ้าน}
+    towns {เมือง}
+    cities {เมือง}
+    settlements {ชุมชน}
+    countries {ประเทศ}
   }`,
     'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
@@ -117,40 +121,44 @@ export default {
     villages {village}
     towns {town}
     cities {city}
+    settlements {settlement}
+    countries {country}
   } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
-    lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    food {Food}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    'encyclopedia.entry.category': `ประเภทการเข้าร่วม: {category, select,
+    character {ตัวละคร}
+    event {เหตุการณ์}
+    group {กลุ่ม}
+    item {ไอเทม}
+    location {สถานที่}
+    other {หมายเหตุ}
+    state {สถานะ}
+    governments {รัฐบาล}
+    languages {ภาษา}
+    creatures {สิ่งมีชีวิต}
+    deity {เทพเจ้า}
+    religions {ศาสนา}
+    flora {พืช}
+    magic {เวทมนตร์}
+    planets {ดาวเคราะห์}
+    species {สายพันธุ์}
+    technologies {เทคโนโลยี}
+    families {ครอบครัว}
+    jobs {อาชีพ}
+    lore {ตำนาน}
+    vehicles {ยานพาหนะ}
+    diseases {โรค}
+    traditions {ประเพณี}
+    food {อาหาร}
+    sports {กีฬา}
+    landmarks {สถานที่สำคัญ}
+    buildings {อาคาร}
+    schools {โรงเรียน}
+    continents {ทวีป}
+    villages {หมู่บ้าน}
+    towns {เมือง}
+    cities {เมือง}
+    settlements {ชุมชน}
+    countries {ประเทศ}
   }`,
     'encyclopedia.entry.category.legend': 'หมวดหมู่',
     'encyclopedia.fields.add': 'เพิ่มฟิลด์ใหม่',
