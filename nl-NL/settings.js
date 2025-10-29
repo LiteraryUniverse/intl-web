@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Verwijder mijn account',
     'settings.legal.title': 'Gebruikers toestemmingsverklaringen',
     'settings.legal.explained': 'Hier kunt u uw akkoord beheren met verschillende juridische documenten.',
+    'settings.legal.analytics.title': 'Analytics en tracering',
+    'settings.legal.analytics.description': 'U kunt de analyse- en volgdiensten controleren die op Literary Universe worden gebruikt. In dit gedeelte worden alle services vermeld zodra wij deze toevoegen.',
+    'settings.legal.analytics.ostrio': 'Om Ostrio Analytics tracking uit te schakelen, bezoekt u hun opt-out pagina:',
+    'settings.legal.analytics.ostrioOptOut': 'Ostrio Analytics opt-out beheren',
+    'settings.legal.analytics.future': 'We zullen hier extra aanbieders, zoals Google Analytics of Seznam, opnemen zodra deze zijn ingeschakeld.',
     'settings.name.private': 'Naam blijft privé',
     'settings.emailSubscriptions.title': 'Instellingen voor e-mailmeldingen',
     'settings.emailSubscriptions.explain': 'Selecteer welke e-mailmeldingen u van ons wilt ontvangen.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informatie over nieuwe functies',
     'settings.emailNotifications.title': 'Meldingen',
     'settings.emailNotifications.pm': 'Nieuwe berichten',
-    'settings.emailNotifications.newChapters': 'Nieuwe hoofdstukken',
+    'settings.emailNotifications.newChapters': 'Nieuwe hoofdstukken van verhalen die u volgt',
+    'settings.emailNotifications.newStories': 'Nieuwe verhalen in universums of van auteurs die u volgt',
+    'settings.emailNotifications.newUniverses': 'Nieuwe universums van auteurs die u volgt',
     'settings.resetPasswordEmailSend': 'We hebben je instructies gestuurd over hoe je je wachtwoord kunt resetten naar je e-mailadres.',
     'settings.theme.title': 'Thema van de site',
     'settings.theme.label': 'Site-thema',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Voer een door komma\'s gescheiden lijst van tags in',
     'settings.interests.tags.placeholder': 'Labels toevoegen',
     'settings.interests.avoidGenres.help': 'Selecteer genres die u liever niet in aanbevelingen ziet.',
-    'settings.interests.avoidGenres': 'Genres die u moet vermijden'
+    'settings.interests.avoidGenres': 'Genres die u moet vermijden',
+    'settings.notifications': 'Meldingen & nieuwsbrieven'
 };
