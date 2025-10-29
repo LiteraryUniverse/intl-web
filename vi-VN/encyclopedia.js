@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Villages',
     'encyclopedia.category.towns': 'Towns',
     'encyclopedia.category.cities': 'Cities',
+    'encyclopedia.category.settlements': 'Các khu định cư',
+    'encyclopedia.category.countries': 'Các quốc gia',
     'encyclopedia.search.found': `{results, plural,
     =0 {Không có mục liên quan}
     one {1 mục liên quan}
@@ -50,107 +52,113 @@ export default {
     'encyclopedia.add.title': 'Thêm một mục mới vào bách khoa toàn thư',
     'encyclopedia.add.heading': 'Bạn muốn thêm gì?',
     'encyclopedia.add.moresoon': 'Các danh mục khác sẽ sớm được cập nhật!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {villages}
-    towns {towns}
-    cities {cities}
+    'encyclopedia.create': `Tạo mới {category, select,
+    character {nhân vật}
+    event {sự kiện}
+    group {nhóm}
+    item {vật phẩm}
+    location {vị trí}
+    other {ghi chú}
+    state {trạng thái}
+    governments {chính phủ}
+    languages {ngôn ngữ}
+    creatures {sinh vật}
+    deity {thần linh}
+    religions {tôn giáo}
+    flora {thực vật}
+    magic {ma thuật}
+    planets {hành tinh}
+    species {loài}
+    technologies {công nghệ}
+    families {gia đình}
+    jobs {nghề nghiệp}
+    lore {truyền thuyết}
+    vehicles {phương tiện}
+    diseases {bệnh tật}
+    traditions {truyền thống}
+    food {thực phẩm}
+    sports {thể thao}
+    landmarks {địa danh}
+    buildings {tòa nhà}
+    schools {trường học}
+    continents {lục địa}
+    villages {làng mạc}
+    towns {thị trấn}
+    cities {thành phố}
+    settlements {khu định cư}
+    countries {quốc gia}
   }`,
-    'encyclopedia.create.header': `Creating a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {village}
-    towns {town}
-    cities {city}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
+    'encyclopedia.create.header': `Tạo mới {category, select,
+    character {nhân vật}
+    event {sự kiện}
+    group {nhóm}
+    item {vật phẩm}
+    location {địa điểm}
+    other {ghi chú}
+    state {trạng thái}
+    governments {chính phủ}
+    languages {ngôn ngữ}
+    creatures {sinh vật}
+    deity {thần linh}
+    religions {tôn giáo}
+    flora {thực vật}
+    magic {ma thuật}
+    planets {hành tinh}
+    species {loài}
+    technologies {công nghệ}
+    families {gia đình}
+    jobs {nghề nghiệp}
+    lore {truyền thuyết}
+    vehicles {phương tiện}
+    diseases {bệnh tật}
+    traditions {truyền thống}
+    food {thực phẩm}
+    sports {thể thao}
+    landmarks {địa danh}
+    buildings {tòa nhà}
+    schools {trường học}
+    continents {lục địa}
+    villages {làng}
+    towns {thị trấn}
+    cities {thành phố}
+    settlements {khu định cư}
+    countries {quốc gia}
+  } trong {universe}`,
+    'encyclopedia.entry.category': `Danh mục: {category, select,
+    character {Nhân vật}
+    event {Sự kiện}
+    group {Nhóm}
+    item {Vật phẩm}
+    location {Vị trí}
+    other {Ghi chú}
+    state {Tình trạng}
+    governments {Chính phủ}
+    languages {Ngôn ngữ}
+    creatures {Sinh vật}
+    deity {Thần linh}
+    religions {Tôn giáo}
+    flora {Thực vật}
+    magic {Phép thuật}
+    planets {Hành tinh}
+    species {Loài}
+    technologies {Công nghệ}
+    families {Gia đình}
+    jobs {Nghề nghiệp}
     lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    food {Food}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    vehicles {Phương tiện}
+    diseases {Bệnh tật}
+    traditions {Truyền thống}
+    food {Thực phẩm}
+    sports {Thể thao}
+    landmarks {Địa danh}
+    buildings {Công trình}
+    schools {Trường học}
+    continents {Lục địa}
+    villages {Làng}
+    towns {Thị trấn}
+    cities {Thành phố}
+    settlements {Khu định cư}
+    countries {Quốc gia}
   }`,
     'encyclopedia.entry.category.legend': 'Danh mục',
     'encyclopedia.fields.add': 'Thêm một trường mới',
