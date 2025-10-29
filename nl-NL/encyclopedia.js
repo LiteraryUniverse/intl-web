@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Dorpen',
     'encyclopedia.category.towns': 'Steden',
     'encyclopedia.category.cities': 'Steden',
+    'encyclopedia.category.settlements': 'Schikkingen',
+    'encyclopedia.category.countries': 'Landen',
     'encyclopedia.search.found': `{results, plural,
     =0 {Geen gerelateerde invoeringen}
     one {1 gerelateerde invoering}
@@ -66,7 +68,7 @@ export default {
     flora {flora}
     magic {magie}
     planets {planeet}
-    species {specie ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ~ ziekte ~ ~ traditie ~ ~ voedsel ~ ~ sport ~ ~ voertuig soort}
+    species {soort}
     technologies {technologie}
     families {familie}
     jobs {baan}
@@ -76,13 +78,15 @@ export default {
     traditions {traditie}
     food {voedsel}
     sports {sport}
-    landmarks {oriëntatiepunt}
+    landmarks {bezienswaardigheid}
     buildings {gebouw}
     schools {school}
     continents {continent}
     villages {dorpen}
     towns {steden}
     cities {steden}
+    settlements {nederzetting}
+    countries {land}
   }`,
     'encyclopedia.create.header': `Een nieuw {category, select,
     character {personage}
@@ -100,7 +104,7 @@ export default {
     flora {flora}
     magic {magie}
     planets {planeet}
-    species {soort ~ ~ technologie ~ ~ familie ~ ~ baan ~ ~ overlevering ~ ~ voertuig ~ ziekte ~ ~ traditie ~ ~ voedsel ~ ~ sport ~ ~ landmark ~  soort}
+    species {soort}
     technologies {technologie}
     families {familie}
     jobs {baan}
@@ -117,6 +121,8 @@ export default {
     villages {dorp}
     towns {stad}
     cities {stad}
+    settlements {nederzetting}
+    countries {land}
   } in {universe}`,
     'encyclopedia.entry.category': `Categorie inzending: {category, select,
     character {Karakter}
@@ -148,9 +154,11 @@ export default {
     buildings {Gebouw}
     schools {School}
     continents {Continent}
-    villages {dorp}
-    towns {stad}
-    cities {stad}
+    villages {Dorp}
+    towns {Stad}
+    cities {Stad}
+    settlements {Nederzetting}
+    countries {Land}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Voeg een nieuw veld toe',
