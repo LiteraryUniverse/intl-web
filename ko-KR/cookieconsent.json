@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "안녕하세요, 여행자 여러분, 쿠키 타임입니다! 🍪",
+    "description": "당사는 필수 기능 쿠키 외에는 쿠키를 사용하지 않습니다. 하지만 분석 목적의 다른 기능은 사용자의 승인이 필요합니다.",
+    "acceptAllBtn": "모두 수락 🙏",
+    "acceptNecessaryBtn": "모두 거부 🙅",
+    "showPreferencesBtn": "환경설정 관리 🔧",
+    "footer": "<a href=\"/privacy\">개인정보 처리방침</a>\n<a href=\"/tos\">이용약관</a>"
+  },
+  "preferencesModal": {
+    "title": "동의 기본 설정 센터",
+    "acceptAllBtn": "모두 수락 🙏",
+    "acceptNecessaryBtn": "모두 거부 🙅",
+    "savePreferencesBtn": "환경설정 저장 💾",
+    "closeIconLabel": "모달 닫기",
+    "serviceCounterLabel": "서비스|서비스",
+    "sections": [
+      {
+        "title": "쿠키 사용 🍪",
+        "description": "이 웹사이트는 핵심 기능에 꼭 필요한 쿠키를 사용합니다. 또한 당사는 회원님의 허락 하에 사용 현황을 파악하고 문학세계를 개선하기 위한 분석을 실행합니다. 당사의 분석은 쿠키에 의존하지 않지만 유사한 기술이나 온라인 식별자를 사용할 수 있으므로 특정 관할권에서는 사용자의 동의가 필요합니다."
+      },
+      {
+        "title": "꼭 필요한 쿠키 <span class=\"pm__badge\">항상 활성화</span>",
+        "description": "이 쿠키는 애플리케이션이 올바르게 작동하고 사용자가 연결할 수 있도록 하는 호스팅 및 결제 제공업체의 쿠키입니다.",
+        "linkedCategory": "필요"
+      },
+      {
+        "title": "애널리틱스 📊",
+        "description": "당사는 다양한 분석 서비스를 활용하여 회원님의 웹사이트 이용 방식에 대한 정보를 얻고 광고 활동을 개선합니다.\n<ul>\n<li>애널리틱스<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): 사이트 사용량, 성능 및 오류를 측정하여 문학세계를 개선합니다. 분석을 위해 쿠키를 설정하지 않지만 제한된 기술 데이터와 식별자가 처리될 수 있습니다. 동의가 필요합니다.</li>\n<li>리타겟팅<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): 캠페인을 평가하고 다른 웹사이트에서 문학세계에 대한 관련 프로모션을 표시하는 데 도움이 됩니다. 이를 위해 당사 사이트에는 쿠키가 설정되지 않지만 유사한 기술 또는 식별자가 사용될 수 있습니다. 동의가 필요합니다.</li>\n</ul>",
+        "linkedCategory": "분석"
+      },
+      {
+        "title": "자세한 정보",
+        "description": "개인정보 처리방침, 추적 서비스(개별 설정 포함) 및 관련 정보에 대한 자세한 내용은 개인정보 처리방침 <a class=\"cc__link\" href=\"/privacy\">페이지를</a> 참조하세요."
+      }
+    ]
+  }
+}
