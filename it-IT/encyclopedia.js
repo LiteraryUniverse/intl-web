@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Villaggi',
     'encyclopedia.category.towns': 'Città',
     'encyclopedia.category.cities': 'Città',
+    'encyclopedia.category.settlements': 'Insediamenti',
+    'encyclopedia.category.countries': 'Paesi',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nessuna voce}
     one {1 voce}
@@ -55,7 +57,7 @@ export default {
     event {evento}
     group {gruppo}
     item {oggetto}
-    location {località}
+    location {luogo}
     other {nota}
     state {stato}
     governments {governo}
@@ -70,7 +72,7 @@ export default {
     technologies {tecnologia}
     families {famiglia}
     jobs {lavoro}
-    lore {tradizione}
+    lore {lore}
     vehicles {veicolo}
     diseases {malattia}
     traditions {tradizione}
@@ -81,8 +83,10 @@ export default {
     schools {scuola}
     continents {continente}
     villages {villaggi}
-    towns {paesi}
+    towns {città}
     cities {città}
+    settlements {insediamento}
+    countries {nazione}
   }`,
     'encyclopedia.create.header': `Creare un nuovo {category, select,
     character {personaggio}
@@ -104,7 +108,7 @@ export default {
     technologies {tecnologia}
     families {famiglia}
     jobs {lavoro}
-    lore {tradizione}
+    lore {lore}
     vehicles {veicolo}
     diseases {malattia}
     traditions {tradizione}
@@ -117,6 +121,8 @@ export default {
     villages {villaggio}
     towns {città}
     cities {città}
+    settlements {insediamento}
+    countries {paese}
   } in {universe}`,
     'encyclopedia.entry.category': `Categoria di iscrizione: {category, select,
     character {Personaggio}
@@ -138,7 +144,7 @@ export default {
     technologies {Tecnologia}
     families {Famiglia}
     jobs {Lavoro}
-    lore {Lore}
+    lore {Lettere}
     vehicles {Veicolo}
     diseases {Malattia}
     traditions {Tradizione}
@@ -148,9 +154,11 @@ export default {
     buildings {Edificio}
     schools {Scuola}
     continents {Continente}
-    villages {villaggio}
-    towns {città}
-    cities {città}
+    villages {Villaggio}
+    towns {Città}
+    cities {Città}
+    settlements {Insediamento}
+    countries {Paese}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Aggiungi un nuovo campo',
