@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'מחק את החשבון שלי',
     'settings.legal.title': 'הסכמים להסכמות משתמש',
     'settings.legal.explained': 'כאן תוכל לנהל את ההסכמה שלך למסמכים משפטיים שונים.',
+    'settings.legal.analytics.title': 'ניתוח נתונים ומעקב',
+    'settings.legal.analytics.description': 'באפשרותך לשלוט בשירותי הניתוח והמעקב המשמשים ב-Literary Universe. בסעיף זה יפורטו כל השירותים ככל שנוסיף אותם.',
+    'settings.legal.analytics.ostrio': 'כדי להשבית את המעקב של Ostrio Analytics, בקרו בדף ההסרה שלהם:',
+    'settings.legal.analytics.ostrioOptOut': 'נהל את ביטול ההשתתפות ב-Ostrio Analytics',
+    'settings.legal.analytics.future': 'נכלול כאן ספקים נוספים, כגון Google Analytics או Seznam, ברגע שהם יופעלו.',
     'settings.name.private': 'השם יהיה פרטי',
     'settings.emailSubscriptions.title': 'הגדרות התראות באימייל',
     'settings.emailSubscriptions.explain': 'בחר אילו התראות באימייל אתה רוצה לקבל מאיתנו.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'מידע על תכונות חדשות',
     'settings.emailNotifications.title': 'התראות',
     'settings.emailNotifications.pm': 'הודעות חדשות',
-    'settings.emailNotifications.newChapters': 'פרקים חדשים',
+    'settings.emailNotifications.newChapters': 'פרקים חדשים מסיפורים שאתה עוקב אחריהם',
+    'settings.emailNotifications.newStories': 'סיפורים חדשים ביקומים או מאת סופרים שאתה עוקב אחריהם',
+    'settings.emailNotifications.newUniverses': 'יקומים חדשים מאת מחברים שאתה עוקב אחריהם',
     'settings.resetPasswordEmailSend': 'שלחנו לך הוראות כיצד לאפס את הסיסמה שלך לכתובת הדוא"ל שלך.',
     'settings.theme.title': 'עיצוב האתר',
     'settings.theme.label': 'ערכת נושא לאתר',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-    'settings.interests.avoidGenres': 'Genres to avoid'
+    'settings.interests.avoidGenres': 'Genres to avoid',
+    'settings.notifications': 'הודעות וניוזלטרים'
 };
