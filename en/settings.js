@@ -49,6 +49,14 @@ export default {
   'settings.legal.title': 'User consent agreements',
   'settings.legal.explained':
     'Here you can manage your agreement to various legal documents.',
+  'settings.legal.analytics.title': 'Analytics and tracking',
+  'settings.legal.analytics.description':
+    'You can control analytics and tracking services used on Literary Universe. This section will list all services as we add them.',
+  'settings.legal.analytics.ostrio':
+    'To disable Ostrio Analytics tracking, visit their opt-out page:',
+  'settings.legal.analytics.ostrioOptOut': 'Manage Ostrio Analytics opt-out',
+  'settings.legal.analytics.future':
+    'We will include additional providers, such as Google Analytics or Seznam, here once they are enabled.',
   'settings.name.private': 'Name will be private',
   'settings.emailSubscriptions.title': 'E-mail notifications settings',
   'settings.emailSubscriptions.explain':
@@ -83,7 +91,9 @@ export default {
     'Information about new features',
   'settings.emailNotifications.title': 'Notifications',
   'settings.emailNotifications.pm': 'New messages',
-  'settings.emailNotifications.newChapters': 'New chapters',
+  'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
+  'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
+  'settings.emailNotifications.newUniverses': 'New universes from authors you follow',
   'settings.resetPasswordEmailSend':
     'We have send you instructions on how to reset your password to your e-mail.',
   'settings.theme.title': 'Site theming',
@@ -178,4 +188,5 @@ export default {
   'settings.interests.tags.placeholder': 'Add tags',
   'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
   'settings.interests.avoidGenres': 'Genres to avoid',
+  'settings.notifications': 'Notifications & newsletters',
 }
