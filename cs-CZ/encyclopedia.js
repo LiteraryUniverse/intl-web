@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Vesnice',
     'encyclopedia.category.towns': 'Města',
     'encyclopedia.category.cities': 'Města',
+    'encyclopedia.category.settlements': 'Vypořádání',
+    'encyclopedia.category.countries': 'Země',
     'encyclopedia.search.found': `{results, plural,
     zero {Nic nenalezeno}
     one {1 možný článek nalezen}
@@ -84,6 +86,8 @@ export default {
     villages {vesnice}
     towns {města}
     cities {města}
+    settlements {osada}
+    countries {země}
   }`,
     'encyclopedia.create.header': `Vytvoření nového {category, select,
     character {postava}
@@ -118,6 +122,8 @@ export default {
     villages {vesnice}
     towns {město}
     cities {město}
+    settlements {osada}
+    countries {země}
   } v {universe}`,
     'encyclopedia.entry.category': `Kategorie přihlášek: {category, select,
     character {Postava}
@@ -149,9 +155,11 @@ export default {
     buildings {Budova}
     schools {Škola}
     continents {Kontinent}
-    villages {vesnice}
-    towns {město}
-    cities {město}
+    villages {Vesnice}
+    towns {Město}
+    cities {Město}
+    settlements {Osada}
+    countries {Země}
   }`,
     'encyclopedia.entry.category.legend': 'Kategorie',
     'encyclopedia.fields.add': 'Přidat nové pole',
