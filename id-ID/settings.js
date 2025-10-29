@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Hapus akun saya',
     'settings.legal.title': 'Perjanjian persetujuan pengguna',
     'settings.legal.explained': 'Di sini Anda dapat mengelola persetujuan Anda terhadap berbagai dokumen hukum.',
+    'settings.legal.analytics.title': 'Analisis dan pelacakan',
+    'settings.legal.analytics.description': 'Anda dapat mengontrol layanan analisis dan pelacakan yang digunakan di Literary Universe. Bagian ini akan mencantumkan semua layanan yang kami tambahkan.',
+    'settings.legal.analytics.ostrio': 'Untuk menonaktifkan pelacakan Ostrio Analytics, kunjungi halaman penyisihan mereka:',
+    'settings.legal.analytics.ostrioOptOut': 'Mengelola penyisihan Ostrio Analytics',
+    'settings.legal.analytics.future': 'Kami akan menyertakan penyedia tambahan, seperti Google Analytics atau Seznam, di sini setelah diaktifkan.',
     'settings.name.private': 'Nama akan menjadi pribadi',
     'settings.emailSubscriptions.title': 'Pengaturan pemberitahuan email',
     'settings.emailSubscriptions.explain': 'Pilih pemberitahuan email apa yang ingin Anda terima dari kami.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informasi tentang fitur-fitur baru',
     'settings.emailNotifications.title': 'Notifikasi',
     'settings.emailNotifications.pm': 'Pesan baru',
-    'settings.emailNotifications.newChapters': 'Bab baru',
+    'settings.emailNotifications.newChapters': 'Bab baru dari cerita yang Anda ikuti',
+    'settings.emailNotifications.newStories': 'Cerita baru di alam semesta atau dari penulis yang Anda ikuti',
+    'settings.emailNotifications.newUniverses': 'Alam semesta baru dari penulis yang Anda ikuti',
     'settings.resetPasswordEmailSend': 'Kami telah mengirimkan instruksi tentang cara mengatur ulang kata sandi Anda ke email Anda.',
     'settings.theme.title': 'Pembuatan tema situs',
     'settings.theme.label': 'Tema situs',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Masukkan daftar tag yang dipisahkan koma',
     'settings.interests.tags.placeholder': 'Tambahkan tag',
     'settings.interests.avoidGenres.help': 'Pilih genre yang tidak ingin Anda lihat dalam rekomendasi.',
-    'settings.interests.avoidGenres': 'Genre yang harus dihindari'
+    'settings.interests.avoidGenres': 'Genre yang harus dihindari',
+    'settings.notifications': 'Pemberitahuan & buletin'
 };
