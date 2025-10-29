@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Fiókom törlése',
     'settings.legal.title': 'Felhasználói hozzájárulási megállapodások',
     'settings.legal.explained': 'Itt kezelheti a különböző jogi dokumentumokkal kapcsolatos megállapodásait.',
+    'settings.legal.analytics.title': 'Analitika és nyomon követés',
+    'settings.legal.analytics.description': 'Az Irodalmi Univerzumon használt analitikai és nyomkövető szolgáltatásokat ellenőrizheti. Ez a rész felsorolja az összes szolgáltatást, amint hozzáadjuk őket.',
+    'settings.legal.analytics.ostrio': 'Az Ostrio Analytics nyomon követésének letiltásához látogasson el a leiratkozási oldalukra:',
+    'settings.legal.analytics.ostrioOptOut': 'Ostrio Analytics opt-out kezelése',
+    'settings.legal.analytics.future': 'További szolgáltatókat, például a Google Analyticset vagy a Seznamot is ide fogjuk felvenni, amint engedélyezzük őket.',
     'settings.name.private': 'A név privát lesz',
     'settings.emailSubscriptions.title': 'E-mail értesítési beállítások',
     'settings.emailSubscriptions.explain': 'Válassza ki, mely e-mail értesítéseket szeretné kapni tőlünk.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Információ az új funkciókról',
     'settings.emailNotifications.title': 'Értesítések',
     'settings.emailNotifications.pm': 'Új üzenetek',
-    'settings.emailNotifications.newChapters': 'Új fejezetek',
+    'settings.emailNotifications.newChapters': 'Új fejezetek az Ön által követett történetekből',
+    'settings.emailNotifications.newStories': 'Új történetek az univerzumokban vagy az általad követett szerzőktől',
+    'settings.emailNotifications.newUniverses': 'Új univerzumok az Ön által követett szerzőktől',
     'settings.resetPasswordEmailSend': 'Elküldtünk neked utasításokat a jelszavad visszaállításához az e-mail címedre.',
     'settings.theme.title': 'Webhely témázása',
     'settings.theme.label': 'Webhely téma',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Adja meg a címkék vesszővel elválasztott listáját',
     'settings.interests.tags.placeholder': 'Címkék hozzáadása',
     'settings.interests.avoidGenres.help': 'Válassza ki azokat a műfajokat, amelyeket nem szeretne látni az ajánlásokban.',
-    'settings.interests.avoidGenres': 'Kerülendő műfajok'
+    'settings.interests.avoidGenres': 'Kerülendő műfajok',
+    'settings.notifications': 'Értesítések és hírlevelek'
 };
