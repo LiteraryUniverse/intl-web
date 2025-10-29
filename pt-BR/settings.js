@@ -39,6 +39,11 @@ export default {
     'settings.delete.submit': 'Apagar minha conta',
     'settings.legal.title': 'Acordos de consentimento do usuário',
     'settings.legal.explained': 'Aqui você pode administrar seu acordo com vários documentos legais.',
+    'settings.legal.analytics.title': 'Análise e rastreamento',
+    'settings.legal.analytics.description': 'O senhor pode controlar os serviços de análise e rastreamento usados no Literary Universe. Esta seção listará todos os serviços à medida que forem adicionados.',
+    'settings.legal.analytics.ostrio': 'Para desativar o rastreamento do Ostrio Analytics, visite a página de desativação:',
+    'settings.legal.analytics.ostrioOptOut': 'Gerenciar a desativação do Ostrio Analytics',
+    'settings.legal.analytics.future': 'Incluiremos aqui outros provedores, como o Google Analytics ou o Seznam, assim que eles forem ativados.',
     'settings.name.private': 'O nome será privado',
     'settings.emailSubscriptions.title': 'Configurações de notificações por e-mail',
     'settings.emailSubscriptions.explain': 'Selecione quais notificações por e-mail você deseja receber de nós.',
@@ -66,7 +71,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informações sobre novas características',
     'settings.emailNotifications.title': 'Notificações',
     'settings.emailNotifications.pm': 'Novas mensagens',
-    'settings.emailNotifications.newChapters': 'Novos capítulos',
+    'settings.emailNotifications.newChapters': 'Novos capítulos de histórias que o senhor acompanha',
+    'settings.emailNotifications.newStories': 'Novas histórias em universos ou de autores que o senhor segue',
+    'settings.emailNotifications.newUniverses': 'Novos universos de autores que o senhor segue',
     'settings.resetPasswordEmailSend': 'Enviamos-lhe instruções sobre como redefinir sua senha para seu e-mail.',
     'settings.theme.title': 'Temas do site',
     'settings.theme.label': 'Tema do site',
@@ -135,5 +142,6 @@ export default {
     'settings.interests.tags.custom.help': 'Insira uma lista de tags separada por vírgulas',
     'settings.interests.tags.placeholder': 'Adicionar tags',
     'settings.interests.avoidGenres.help': 'Selecione os gêneros que o senhor prefere não ver nas recomendações.',
-    'settings.interests.avoidGenres': 'Gêneros a serem evitados'
+    'settings.interests.avoidGenres': 'Gêneros a serem evitados',
+    'settings.notifications': 'Notificações e boletins informativos'
 };
