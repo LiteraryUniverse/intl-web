@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Merhaba gezgin, kurabiye zamanı! 🍪",
+    "description": "Gerekli işlevsel olanlar dışında çerez kullanmıyoruz. Ancak analitik amaçlar için onayınıza ihtiyaç duyduğumuz başka işlevlerimiz de var.",
+    "acceptAllBtn": "Tümünü kabul et 🙏",
+    "acceptNecessaryBtn": "Tümünü reddet 🙅",
+    "showPreferencesBtn": "Tercihleri yönet 🔧",
+    "footer": "<a href=\"/privacy\">Gizlilik Politikası</a>\n<a href=\"/tos\">Şartlar ve koşullar</a>"
+  },
+  "preferencesModal": {
+    "title": "Rıza Tercihleri Merkezi",
+    "acceptAllBtn": "Tümünü kabul et 🙏",
+    "acceptNecessaryBtn": "Tümünü reddet 🙅",
+    "savePreferencesBtn": "Tercihleri kaydet 💾",
+    "closeIconLabel": "Modalı kapat",
+    "serviceCounterLabel": "Hizmet|Hizmetler",
+    "sections": [
+      {
+        "title": "Çerez Kullanımı 🍪",
+        "description": "Bu web sitesi, temel işlevsellik için kesinlikle gerekli çerezleri kullanmaktadır. İzninizle, kullanımı anlamak ve Literary Universe'ü geliştirmek için analizler de yürütüyoruz. Analizlerimiz çerezlere dayanmaz, ancak benzer teknolojileri veya çevrimiçi tanımlayıcıları kullanabilirler ve bu nedenle belirli yargı bölgelerinde izninizi gerektirebilirler."
+      },
+      {
+        "title": "Kesinlikle Gerekli Çerezler <span class=\"pm__badge\">Her Zaman Etkin</span>",
+        "description": "Bu çerezler, uygulamanın doğru çalışmasını ve bağlanabilmenizi sağlayan barındırma ve ödeme sağlayıcımızdan gelmektedir.",
+        "linkedCategory": "gerekli"
+      },
+      {
+        "title": "Analitik 📊",
+        "description": "Web sitemizi nasıl kullandığınız hakkında bilgi almak ve reklam çalışmalarımızı geliştirmek için çeşitli analiz hizmetlerinden yararlanıyoruz.\n<ul>\n<li>Analitik<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Literary Universe'ü geliştirmek için site kullanımını, performansı ve hataları ölçer. Analitik için çerez ayarlanmaz, ancak sınırlı teknik veriler ve tanımlayıcılar işlenebilir. Onay gereklidir.</li>\n<li>Yeniden Hedefleme<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Kampanyaları değerlendirmemize ve diğer web sitelerinde Literary Universe hakkında ilgili promosyonları göstermemize yardımcı olur. Bunun için sitemizde hiçbir çerez ayarlanmamıştır, ancak benzer teknolojiler veya tanımlayıcılar kullanılabilir. İzin gereklidir.</li>\n</ul>",
+        "linkedCategory": "analitik"
+      },
+      {
+        "title": "Daha fazla bilgi",
+        "description": "Gizlilik politikamız, izleme hizmetleri (bireysel ayarlar dahil) ve ilgili bilgiler hakkında daha fazla bilgi için gizlilik <a class=\"cc__link\" href=\"/privacy\">politikası sayfamıza</a> bakın."
+      }
+    ]
+  }
+}
