@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "مرحبًا أيها المسافر ، حان وقت ملفات تعريف الارتباط!",
+    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "acceptAllBtn": "رفض كل شيء",
+    "acceptNecessaryBtn": "قبول الكل",
+    "showPreferencesBtn": "إدارة التفضيلات",
+    "footer": "<a href=\"/privacy\">سياسة الخصوصية</a>\n<a href=\"/tos\">الأحكام والشروط</a>"
+  },
+  "preferencesModal": {
+    "title": "مركز تفضيلات الموافقة",
+    "acceptAllBtn": "رفض كل شيء",
+    "acceptNecessaryBtn": "قبول الكل",
+    "savePreferencesBtn": "حفظ التفضيلات",
+    "closeIconLabel": "Close modal",
+    "serviceCounterLabel": "خدمة|خدمات",
+    "sections": [
+      {
+        "title": "استخدام ملفات تعريف الارتباط",
+        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+      },
+      {
+        "title": "ملفات تعريف الارتباط الضرورية للغاية <span class=\"pm__badge\">ممكّن دائمًا</span>",
+        "description": "These cookies are from our hosting and payment provider that ensure that the application works correctly and you can connect.",
+        "linkedCategory": "necessary"
+      },
+      {
+        "title": "ملفات تعريف الارتباط التحليلية",
+        "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n</ul>\n",
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "معلومات اكثر",
+        "description": "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"/privacy\">contact me</a>."
+      }
+    ]
+  }
+}

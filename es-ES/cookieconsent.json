@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Hola viajero, es la hora de las galletas!",
+    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
+    "acceptAllBtn": "Aceptar todo",
+    "acceptNecessaryBtn": "Rechazar todo",
+    "showPreferencesBtn": "Gestionar preferencias",
+    "footer": "<a href=\"/privacy\">Política de privacidad</a>\n<a href=\"/tos\">Términos y condiciones</a>"
+  },
+  "preferencesModal": {
+    "title": "Preferencias de Consentimiento",
+    "acceptAllBtn": "Aceptar todo",
+    "acceptNecessaryBtn": "Rechazar todo",
+    "savePreferencesBtn": "Guardar preferencias",
+    "closeIconLabel": "Cerrar modal",
+    "serviceCounterLabel": "Servicios",
+    "sections": [
+      {
+        "title": "Uso de Cookies",
+        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+      },
+      {
+        "title": "Cookies Estrictamente Necesarias <span class=\"pm__badge\">Siempre Habilitado</span>",
+        "description": "These cookies are from our hosting and payment provider that ensure that the application works correctly and you can connect.",
+        "linkedCategory": "necessary"
+      },
+      {
+        "title": "Cookies Analíticas",
+        "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n</ul>\n",
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Más información",
+        "description": "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"/privacy\">contact me</a>."
+      }
+    ]
+  }
+}
