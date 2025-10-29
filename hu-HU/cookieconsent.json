@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Helló utazó, itt a süti ideje! 🍪",
+    "description": "A szükséges funkcionális sütiken kívül nem használunk sütiket. De van más analitikai célú funkcionalitásunk, amelyhez az Ön jóváhagyására van szükségünk.",
+    "acceptAllBtn": "Mindent elfogadni 🙏",
+    "acceptNecessaryBtn": "Mindent elutasítani 🙅",
+    "showPreferencesBtn": "Beállítások kezelése 🔧",
+    "footer": "<a href=\"/privacy\">Adatvédelmi irányelvek</a>\n<a href=\"/tos\">Feltételek és kikötések</a>"
+  },
+  "preferencesModal": {
+    "title": "Hozzájárulási preferenciák központja",
+    "acceptAllBtn": "Mindent elfogadni 🙏",
+    "acceptNecessaryBtn": "Mindent elutasítani 🙅",
+    "savePreferencesBtn": "Beállítások mentése 💾",
+    "closeIconLabel": "Modális bezárása",
+    "serviceCounterLabel": "Szolgáltatás|Szolgáltatások",
+    "sections": [
+      {
+        "title": "Sütik használata 🍪",
+        "description": "Ez a weboldal szigorúan szükséges cookie-kat használ, amelyek az alapvető funkciókhoz szükségesek. Az Ön engedélyével analitikát is futtatunk, hogy megértsük a használatot és javítsuk az Literary Universe-t. Elemzéseink nem támaszkodnak cookie-kra, de hasonló technológiákat vagy online azonosítókat használhatnak, és ezért bizonyos joghatóságok esetében szükség van az Ön hozzájárulására."
+      },
+      {
+        "title": "Szigorúan szükséges sütik <span class=\"pm__badge\">mindig engedélyezve</span>",
+        "description": "Ezek a sütik a tárhely- és fizetési szolgáltatótól származnak, amelyek biztosítják, hogy az alkalmazás megfelelően működjön, és Ön csatlakozni tudjon.",
+        "linkedCategory": "szükséges"
+      },
+      {
+        "title": "Analitika 📊",
+        "description": "Különböző analitikai szolgáltatásokat használunk, hogy információt kapjunk arról, hogyan használja a weboldalunkat, és javítsuk a hirdetési erőfeszítéseinket.\n<ul>\n<li>Analitika<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): A webhely használatának, teljesítményének és hibáinak mérése az Irodalmi Univerzum fejlesztése érdekében. Az analitikához nem kerülnek beállításra sütik, de korlátozott technikai adatok és azonosítók feldolgozhatók. Hozzájárulás szükséges.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Segít nekünk a kampányok értékelésében és az Irodalmi Egyetemmel kapcsolatos releváns promóciók megjelenítésében más webhelyeken. A mi oldalunkon ehhez nem állítunk be sütiket, de hasonló technológiák vagy azonosítók felhasználhatók. Hozzájárulás szükséges.</li>\n</ul>",
+        "linkedCategory": "analitika"
+      },
+      {
+        "title": "További információ",
+        "description": "Adatvédelmi szabályzatunkról, nyomon követési szolgáltatásainkról (beleértve az egyéni beállításokat) és a kapcsolódó információkról további információkat az <a class=\"cc__link\" href=\"/privacy\">Adatvédelmi szabályzat oldalunkon</a> talál."
+      }
+    ]
+  }
+}
