@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Kustuta minu konto',
     'settings.legal.title': 'Kasutaja nõusoleku lepingud',
     'settings.legal.explained': 'Siin saad hallata oma nõusolekut erinevatele õigusdokumentidele.',
+    'settings.legal.analytics.title': 'Analüütika ja jälgimine',
+    'settings.legal.analytics.description': 'Saate kontrollida Literary Universe\'is kasutatavaid analüüsi- ja jälgimisteenuseid. Selles jaotises loetletakse kõik teenused, kui me neid lisame.',
+    'settings.legal.analytics.ostrio': 'Ostrio Analyticsi jälgimise keelamiseks külastage nende loobumislehte:',
+    'settings.legal.analytics.ostrioOptOut': 'Hallata Ostrio Analyticsi loobumist',
+    'settings.legal.analytics.future': 'Lisame siia täiendavad teenusepakkujad, näiteks Google Analytics või Seznam, kui need on lubatud.',
     'settings.name.private': 'Nimi jääb privaatseks',
     'settings.emailSubscriptions.title': 'E-kirja teavituste seaded',
     'settings.emailSubscriptions.explain': 'Vali, milliseid e-kirja teavitusi soovid meilt saada.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Teave uute funktsioonide kohta',
     'settings.emailNotifications.title': 'Teavitused',
     'settings.emailNotifications.pm': 'Uued sõnumid',
-    'settings.emailNotifications.newChapters': 'Uued peatükid',
+    'settings.emailNotifications.newChapters': 'Uued peatükid lugudest, mida jälgite',
+    'settings.emailNotifications.newStories': 'Uued lood universumites või autoritelt, keda te jälgite',
+    'settings.emailNotifications.newUniverses': 'Uued universumid autoritelt, keda te jälgite',
     'settings.resetPasswordEmailSend': 'Oleme saatnud sulle e-kirjaga juhised, kuidas lähtestada oma parool.',
     'settings.theme.title': 'Veebisaidi kujundus',
     'settings.theme.label': 'Veebisaidi teema',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Sisestage komadega eraldatud siltide nimekiri',
     'settings.interests.tags.placeholder': 'Lisa sildid',
     'settings.interests.avoidGenres.help': 'Valige žanrid, mida te ei soovi soovitustes näha.',
-    'settings.interests.avoidGenres': 'Žanrid, mida tuleks vältida'
+    'settings.interests.avoidGenres': 'Žanrid, mida tuleks vältida',
+    'settings.notifications': 'Teated ja uudiskirjad'
 };
