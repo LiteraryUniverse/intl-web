@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Șterge contul meu',
     'settings.legal.title': 'Acorduri de consimțământ ale utilizatorului',
     'settings.legal.explained': 'Aici poți gestiona acordul tău cu diverse documente legale.',
+    'settings.legal.analytics.title': 'Analiză și urmărire',
+    'settings.legal.analytics.description': 'Puteți controla serviciile de analiză și urmărire utilizate pe Literary Universe. Această secțiune va lista toate serviciile pe măsură ce le vom adăuga.',
+    'settings.legal.analytics.ostrio': 'Pentru a dezactiva urmărirea Ostrio Analytics, vizitați pagina lor de dezabonare:',
+    'settings.legal.analytics.ostrioOptOut': 'Gestionați excluderea Ostrio Analytics',
+    'settings.legal.analytics.future': 'Vom include aici furnizori suplimentari, cum ar fi Google Analytics sau Seznam, de îndată ce aceștia sunt activați.',
     'settings.name.private': 'Numele va fi privat',
     'settings.emailSubscriptions.title': 'Setări de notificări prin e-mail',
     'settings.emailSubscriptions.explain': 'Selectează ce notificări prin e-mail dorești să primești de la noi.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informații despre funcționalități noi',
     'settings.emailNotifications.title': 'Notificări',
     'settings.emailNotifications.pm': 'Mesaje noi',
-    'settings.emailNotifications.newChapters': 'Capitole noi',
+    'settings.emailNotifications.newChapters': 'Noi capitole din poveștile pe care le urmărești',
+    'settings.emailNotifications.newStories': 'Povestiri noi în universuri sau de la autori pe care îi urmăriți',
+    'settings.emailNotifications.newUniverses': 'Universuri noi de la autorii pe care îi urmărești',
     'settings.resetPasswordEmailSend': 'Ți-am trimis instrucțiuni despre cum să-ți resetezi parola pe adresa ta de e-mail.',
     'settings.theme.title': 'Tematica site-ului',
     'settings.theme.label': 'Tematica site-ului',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Introduceți lista de etichete separate prin virgulă',
     'settings.interests.tags.placeholder': 'Adaugă etichete',
     'settings.interests.avoidGenres.help': 'Selectați genurile pe care ați prefera să nu le vedeți în recomandări.',
-    'settings.interests.avoidGenres': 'Genuri de evitat'
+    'settings.interests.avoidGenres': 'Genuri de evitat',
+    'settings.notifications': 'Notificări și buletine informative'
 };
