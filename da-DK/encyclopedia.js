@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Landsbyer',
     'encyclopedia.category.towns': 'Byer',
     'encyclopedia.category.cities': 'Byer',
+    'encyclopedia.category.settlements': 'Afregninger',
+    'encyclopedia.category.countries': 'Lande',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ingen relaterede indlæg}
     one {1 relateret indlæg}
@@ -83,6 +85,8 @@ export default {
     villages {villages}
     towns {towns}
     cities {cities}
+    settlements {settlement}
+    countries {country}
   }`,
     'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
@@ -117,6 +121,8 @@ export default {
     villages {village}
     towns {town}
     cities {city}
+    settlements {settlement}
+    countries {country}
   } in {universe}`,
     'encyclopedia.entry.category': `Indtastningskategori: {category, select,
     character {Character}
@@ -148,9 +154,11 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    villages {Village}
+    towns {Town}
+    cities {City}
+    settlements {Settlement}
+    countries {Country}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tilføj en ny felt',
