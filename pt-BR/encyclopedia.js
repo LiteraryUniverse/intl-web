@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Vilas',
     'encyclopedia.category.towns': 'Cidades',
     'encyclopedia.category.cities': 'Cidades',
+    'encyclopedia.category.settlements': 'Assentamentos',
+    'encyclopedia.category.countries': 'Países',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nenhuma entrada relacionada}
     one {1 entrada relacionada}
@@ -69,7 +71,7 @@ export default {
     species {espécie}
     technologies {tecnologia}
     families {família}
-    jobs {emprego}
+    jobs {trabalho}
     lore {lore}
     vehicles {veículo}
     diseases {doença}
@@ -80,9 +82,11 @@ export default {
     buildings {edifício}
     schools {escola}
     continents {continente}
-    villages {vilas}
+    villages {vilarejos}
     towns {cidades}
     cities {cidades}
+    settlements {assentamento}
+    countries {país}
   }`,
     'encyclopedia.create.header': `Criando um novo {category, select,
     character {personagem}
@@ -103,7 +107,7 @@ export default {
     species {espécie}
     technologies {tecnologia}
     families {família}
-    jobs {emprego}
+    jobs {trabalho}
     lore {lore}
     vehicles {veículo}
     diseases {doença}
@@ -117,6 +121,8 @@ export default {
     villages {vila}
     towns {cidade}
     cities {cidade}
+    settlements {assentamento}
+    countries {país}
   } em {universe}`,
     'encyclopedia.entry.category': `Categoria de entrada: {category, select,
     character {Personagem}
@@ -136,21 +142,23 @@ export default {
     planets {Planeta}
     species {Espécie}
     technologies {Tecnologia}
-    families {Família}
-    jobs {Trabalho}
+    families {Family}
+    jobs {Job}
     lore {Lore}
-    vehicles {Veículo}
-    diseases {Doença}
-    traditions {Tradição}
-    food {Alimento}
-    sports {Esporte}
-    landmarks {Marco histórico}
-    buildings {Edifício}
-    schools {Escola}
-    continents {Continente}
-    villages {vila}
-    towns {cidade}
-    cities {cidade}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
+    sports {Sport}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
+    continents {Continent}
+    villages {Village}
+    towns {Town}
+    cities {City}
+    settlements {Settlement}
+    countries {Country}
   }`,
     'encyclopedia.entry.category.legend': 'Categoria',
     'encyclopedia.fields.add': 'Adicionar um novo campo',
