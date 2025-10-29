@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Διαγραφή του λογαριασμού μου',
     'settings.legal.title': 'Συμφωνίες συναίνεσης χρήστη',
     'settings.legal.explained': 'Εδώ μπορείτε να διαχειριστείτε τη συμφωνία σας με διάφορα νομικά έγγραφα.',
+    'settings.legal.analytics.title': 'Ανάλυση και παρακολούθηση',
+    'settings.legal.analytics.description': 'Μπορείτε να ελέγχετε τις υπηρεσίες ανάλυσης και παρακολούθησης που χρησιμοποιούνται στο Literary Universe. Αυτή η ενότητα θα παραθέτει όλες τις υπηρεσίες καθώς τις προσθέτουμε.',
+    'settings.legal.analytics.ostrio': 'Για να απενεργοποιήσετε την παρακολούθηση της Ostrio Analytics, επισκεφθείτε τη σελίδα εξαίρεσης:',
+    'settings.legal.analytics.ostrioOptOut': 'Διαχείριση opt-out του Ostrio Analytics',
+    'settings.legal.analytics.future': 'Θα συμπεριλάβουμε εδώ πρόσθετους παρόχους, όπως το Google Analytics ή το Seznam, μόλις ενεργοποιηθούν.',
     'settings.name.private': 'Το όνομα θα είναι ιδιωτικό',
     'settings.emailSubscriptions.title': 'Ρυθμίσεις ειδοποιήσεων μέσω e-mail',
     'settings.emailSubscriptions.explain': 'Επιλέξτε ποιες ειδοποιήσεις μέσω e-mail θέλετε να λαμβάνετε από εμάς.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Πληροφορίες για νέα χαρακτηριστικά',
     'settings.emailNotifications.title': 'Ειδοποιήσεις',
     'settings.emailNotifications.pm': 'Νέα μηνύματα',
-    'settings.emailNotifications.newChapters': 'Νέα κεφάλαια',
+    'settings.emailNotifications.newChapters': 'Νέα κεφάλαια από ιστορίες που ακολουθείτε',
+    'settings.emailNotifications.newStories': 'Νέες ιστορίες σε σύμπαντα ή από συγγραφείς που ακολουθείτε',
+    'settings.emailNotifications.newUniverses': 'Νέα σύμπαντα από συγγραφείς που ακολουθείτε',
     'settings.resetPasswordEmailSend': 'Σας έχουμε στείλει οδηγίες για το πώς να επαναφέρετε τον κωδικό πρόσβασής σας στο email σας.',
     'settings.theme.title': 'Θεματική επιλογή ιστότοπου',
     'settings.theme.label': 'Θέμα ιστότοπου',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Εισάγετε λίστα ετικετών με διαχωρισμό κόμματος',
     'settings.interests.tags.placeholder': 'Προσθέστε ετικέτες',
     'settings.interests.avoidGenres.help': 'Επιλέξτε είδη που θα προτιμούσατε να μην βλέπετε στις συστάσεις.',
-    'settings.interests.avoidGenres': 'Είδη προς αποφυγή'
+    'settings.interests.avoidGenres': 'Είδη προς αποφυγή',
+    'settings.notifications': 'Ειδοποιήσεις & ενημερωτικά δελτία'
 };
