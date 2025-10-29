@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Видалити мій обліковий запис',
     'settings.legal.title': 'Угоди про надання згоди користувача',
     'settings.legal.explained': 'Тут ви можете керувати своєю угодою щодо різних юридичних документів.',
+    'settings.legal.analytics.title': 'Аналітика та відстеження',
+    'settings.legal.analytics.description': 'Ви можете керувати сервісами аналітики та відстеження, які використовуються на Літературному Всесвіті. У цьому розділі ми будемо додавати всі сервіси по мірі їх додавання.',
+    'settings.legal.analytics.ostrio': 'Щоб вимкнути відстеження Ostrio Analytics, відвідайте їхню сторінку відмови:',
+    'settings.legal.analytics.ostrioOptOut': 'Керування відмовою від Ostrio Analytics',
+    'settings.legal.analytics.future': 'Ми додамо сюди додаткових постачальників, таких як Google Analytics або Seznam, як тільки вони будуть увімкнені.',
     'settings.name.private': 'Ім\'я буде приватним',
     'settings.emailSubscriptions.title': 'Налаштування сповіщень на електронну пошту',
     'settings.emailSubscriptions.explain': 'Виберіть, які сповіщення ви хочете отримувати від нас на електронну пошту.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Інформація про нові функції',
     'settings.emailNotifications.title': 'Сповіщення',
     'settings.emailNotifications.pm': 'Нові листи',
-    'settings.emailNotifications.newChapters': 'Нові розділи',
+    'settings.emailNotifications.newChapters': 'Нові розділи з історій, за якими ви стежите',
+    'settings.emailNotifications.newStories': 'Нові історії у всесвітах або від авторів, за якими ви стежите',
+    'settings.emailNotifications.newUniverses': 'Нові всесвіти від авторів, за якими ви стежите',
     'settings.resetPasswordEmailSend': 'Ми надіслали вам на електронну пошту інструкції про те, як скинути пароль.',
     'settings.theme.title': 'Тематика сайту',
     'settings.theme.label': 'Тема сайту',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Введіть список тегів через кому',
     'settings.interests.tags.placeholder': 'Додати теги',
     'settings.interests.avoidGenres.help': 'Виберіть жанри, які ви не хотіли б бачити в рекомендаціях.',
-    'settings.interests.avoidGenres': 'Жанри, яких слід уникати'
+    'settings.interests.avoidGenres': 'Жанри, яких слід уникати',
+    'settings.notifications': 'Сповіщення та розсилки'
 };
