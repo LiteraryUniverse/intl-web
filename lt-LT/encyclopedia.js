@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Kaimai',
     'encyclopedia.category.towns': 'Miestai',
     'encyclopedia.category.cities': 'Miestai',
+    'encyclopedia.category.settlements': 'Atsiskaitymai',
+    'encyclopedia.category.countries': 'Šalys',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nėra susijusių įrašų}
     one {1 susijęs įrašas}
@@ -66,11 +68,11 @@ export default {
     flora {florą}
     magic {magiją}
     planets {planetą}
-    species {rūšis}
-    technologies {technologija}
+    species {rūšį}
+    technologies {technologiją}
     families {šeima}
     jobs {darbas}
-    lore {žinynas}
+    lore {legendos}
     vehicles {transporto priemonė}
     diseases {liga}
     traditions {tradicija}
@@ -83,6 +85,8 @@ export default {
     villages {kaimai}
     towns {miestai}
     cities {miestai}
+    settlements {gyvenvietė}
+    countries {šalis}
   }`,
     'encyclopedia.create.header': `Kurti naują {category, select,
     character {veikėją}
@@ -100,11 +104,11 @@ export default {
     flora {florą}
     magic {magiją}
     planets {planetą}
-    species {rūšis}
-    technologies {technologija}
+    species {rūšį}
+    technologies {technologiją}
     families {šeima}
     jobs {darbas}
-    lore {žinynas}
+    lore {legendos}
     vehicles {transporto priemonė}
     diseases {liga}
     traditions {tradicija}
@@ -117,6 +121,8 @@ export default {
     villages {kaimas}
     towns {miestas}
     cities {miestas}
+    settlements {gyvenvietė}
+    countries {šalis}
   } in {universe}`,
     'encyclopedia.entry.category': `Įrašo kategorija: {category, select,
     character {Personažas}
@@ -138,7 +144,7 @@ export default {
     technologies {Technologija}
     families {Šeima}
     jobs {Darbas}
-    lore {Lore}
+    lore {Garsenybės}
     vehicles {Transporto priemonė}
     diseases {Liga}
     traditions {Tradicija}
@@ -148,10 +154,12 @@ export default {
     buildings {Pastatas}
     schools {Mokykla}
     continents {Žemynas}
-    villages {kaimas}
-    towns {miestas}
-    cities {miestas}
-  }~`,
+    villages {Kaimas}
+    towns {Miestas}
+    cities {Miestas}
+    settlements {Gyvenvietė}
+    countries {Šalis}
+  }`,
     'encyclopedia.entry.category.legend': 'Kategorija',
     'encyclopedia.fields.add': 'Pridėkite naują lauką',
     'encyclopedia.fields.text': 'Apibrėžimas',
