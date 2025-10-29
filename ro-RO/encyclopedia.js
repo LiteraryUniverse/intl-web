@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Sate',
     'encyclopedia.category.towns': 'Orașe',
     'encyclopedia.category.cities': 'Orașe',
+    'encyclopedia.category.settlements': 'Decontări',
+    'encyclopedia.category.countries': 'Țări',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nicio intrare asociată}
     one {1 intrare asociată}
@@ -76,13 +78,15 @@ export default {
     traditions {tradiție}
     food {mâncare}
     sports {sport}
-    landmarks {reper}
+    landmarks {punct de reper}
     buildings {clădire}
     schools {școală}
     continents {continent}
     villages {sate}
     towns {orașe}
     cities {orașe}
+    settlements {așezare}
+    countries {țară}
   }`,
     'encyclopedia.create.header': `Crearea unui nou {category, select,
     character {personaj}
@@ -117,6 +121,8 @@ export default {
     villages {sat}
     towns {oraș}
     cities {oraș}
+    settlements {așezare}
+    countries {țară}
   } în {universe}`,
     'encyclopedia.entry.category': `Categoria de intrare: {category, select,
     character {Personaj}
@@ -139,18 +145,20 @@ export default {
     families {Familie}
     jobs {Job}
     lore {Lore}
-    vehicles {Vehicul}
-    diseases {Boală}
-    traditions {Tradiție}
-    food {Hrană}
+    vehicles {Vehicle}
+    diseases {Disease}
+    traditions {Tradition}
+    food {Food}
     sports {Sport}
-    landmarks {Reper}
-    buildings {Clădire}
-    schools {Școală}
+    landmarks {Landmark}
+    buildings {Building}
+    schools {School}
     continents {Continent}
-    villages {sat}
-    towns {oraș}
-    cities {oraș}
+    villages {Village}
+    towns {Town}
+    cities {City}
+    settlements {Settlement}
+    countries {Country}
   }`,
     'encyclopedia.entry.category.legend': 'Categorie',
     'encyclopedia.fields.add': 'Adăugați un câmp nou',
