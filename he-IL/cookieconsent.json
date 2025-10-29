@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "שלום מטייל, הגיע זמן העוגיות! 🍪",
+    "description": "אנו לא משתמשים בעוגיות מלבד אלה הנחוצות לצורך תפקוד האתר. עם זאת, יש לנו פונקציות אחרות למטרות ניתוח, אשר דורשות את אישורך.",
+    "acceptAllBtn": "קבל הכל 🙏",
+    "acceptNecessaryBtn": "דחה את כולם 🙅",
+    "showPreferencesBtn": "נהל העדפות 🔧",
+    "footer": "<a href=\"/privacy\">מדיניות פרטיות</a>\n<a href=\"/tos\">תנאים והגבלות</a>"
+  },
+  "preferencesModal": {
+    "title": "מרכז העדפות הסכמה",
+    "acceptAllBtn": "קבל הכל 🙏",
+    "acceptNecessaryBtn": "דחה את כולם 🙅",
+    "savePreferencesBtn": "שמור העדפות 💾",
+    "closeIconLabel": "סגור מודל",
+    "serviceCounterLabel": "שירות|שירותים",
+    "sections": [
+      {
+        "title": "שימוש בעוגיות 🍪",
+        "description": "אתר זה משתמש בקובצי Cookie הנחוצים להפעלת הפונקציות הבסיסיות. באישורך, אנו מבצעים גם ניתוחים סטטיסטיים כדי להבין את אופן השימוש ולשפר את Literary Universe. הניתוחים הסטטיסטיים שלנו אינם מסתמכים על קובצי Cookie, אך הם עשויים להשתמש בטכנולוגיות דומות או במזהים מקוונים, ולכן נדרשת הסכמתך בתחומי שיפוט מסוימים."
+      },
+      {
+        "title": "עוגיות הכרחיות <span class=\"pm__badge\">מופעלות תמיד</span>",
+        "description": "עוגיות אלה הן של ספק שירותי האחסון והתשלומים שלנו, והן מבטיחות שהאפליקציה פועלת כראוי ושתוכל להתחבר.",
+        "linkedCategory": "נחוץ"
+      },
+      {
+        "title": "ניתוח נתונים 📊",
+        "description": "אנו משתמשים בשירותי ניתוח שונים כדי לקבל מידע על אופן השימוש שלך באתר שלנו ולשפר את מאמצי הפרסום שלנו.\n<ul>\n<li>ניתוח נתונים (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): מודד את השימוש באתר, את ביצועיו ואת השגיאות בו כדי לשפר את Literary Universe. לא מוגדרות עוגיות לצורך ניתוח נתונים, אך ייתכן שיעובדו נתונים טכניים ומזהים מוגבלים. נדרשת הסכמה.</li>\n<li>מיקוד מחדש (<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">Sklik</a>): מסייע לנו להעריך קמפיינים ולהציג מבצעים רלוונטיים על Literary Universe באתרים אחרים. לא מוגדרות עוגיות באתר שלנו למטרה זו, אך ייתכן שייעשה שימוש בטכנולוגיות או מזהים דומים. נדרשת הסכמה.</li>\n</ul>",
+        "linkedCategory": "ניתוח נתונים"
+      },
+      {
+        "title": "מידע נוסף",
+        "description": "למידע נוסף על מדיניות הפרטיות שלנו, שירותי המעקב (כולל הגדרות אישיות) ומידע נלווה, ראה <a class=\"cc__link\" href=\"/privacy\">את דף מדיניות הפרטיות</a> שלנו."
+      }
+    ]
+  }
+}
