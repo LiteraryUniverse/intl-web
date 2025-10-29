@@ -35,5 +35,8 @@ export default {
     'universe.fanFiction.hide': 'Skrýt fanfikci',
     'universe.fanFiction.unhide': 'Odhalit fanfikci',
     'universe.fanFiction.create': 'Vytvořit novou fan fikci',
-    'universe.fanFiction.notAllowed': 'Tento Vesmír neumožňuje zobrazení fanouškovské fikce.'
+    'universe.fanFiction.notAllowed': 'Tento Vesmír neumožňuje zobrazení fanouškovské fikce.',
+    'universe.storiesCount': 'Celkový počet příběhů ve vesmíru',
+    'universe.createdAt': 'Vytvořeno: {date}',
+    'universe.authors.none': 'Informace o autorech nejsou k dispozici.'
 };

@@ -1,37 +1,37 @@
 {
   "consentModal": {
-    "title": "مرحبًا أيها المسافر ، حان وقت ملفات تعريف الارتباط!",
-    "description": "We don't use cookies beside necessary functional ones. But we do have other functionality for analytical purposes which we need your approval for.",
-    "acceptAllBtn": "رفض كل شيء",
-    "acceptNecessaryBtn": "قبول الكل",
-    "showPreferencesBtn": "إدارة التفضيلات",
-    "footer": "<a href=\"/privacy\">سياسة الخصوصية</a>\n<a href=\"/tos\">الأحكام والشروط</a>"
+    "title": "مرحبًا أيها المسافر، حان وقت البسكويت! 🍪",
+    "description": "نحن لا نستخدم ملفات تعريف الارتباط إلى جانب الوظائف الضرورية. ولكن لدينا وظائف أخرى لأغراض تحليلية نحتاج إلى موافقتك عليها.",
+    "acceptAllBtn": "قبول الكل 🙏",
+    "acceptNecessaryBtn": "رفض الكل 🙅 رفض الكل 🙅",
+    "showPreferencesBtn": "إدارة التفضيلات 🔧",
+    "footer": "<a href=\"/privacy\">سياسة الخصوصية</a>\n<a href=\"/tos\">الشروط والأحكام</a>"
   },
   "preferencesModal": {
     "title": "مركز تفضيلات الموافقة",
-    "acceptAllBtn": "رفض كل شيء",
-    "acceptNecessaryBtn": "قبول الكل",
-    "savePreferencesBtn": "حفظ التفضيلات",
-    "closeIconLabel": "Close modal",
-    "serviceCounterLabel": "خدمة|خدمات",
+    "acceptAllBtn": "قبول الكل 🙏",
+    "acceptNecessaryBtn": "رفض الكل 🙅 رفض الكل 🙅",
+    "savePreferencesBtn": "حفظ التفضيلات 💾",
+    "closeIconLabel": "إغلاق مشروط",
+    "serviceCounterLabel": "الخدمة |الخدمات",
     "sections": [
       {
-        "title": "استخدام ملفات تعريف الارتباط",
-        "description": "This website uses strictly necessary cookie required for core functionality. With your permission, we also run analytics to understand usage and improve Literary Universe. Our analytics do not rely on cookies, but they may use similar technologies or online identifiers and therefore require your consent in certain jurisdictions."
+        "title": "استخدام ملفات تعريف الارتباط 🍪",
+        "description": "يستخدم هذا الموقع الإلكتروني ملفات تعريف الارتباط الضرورية للغاية المطلوبة للوظائف الأساسية. بعد الحصول على إذن منك، نقوم أيضاً بتشغيل تحليلات لفهم الاستخدام وتحسين الكون الأدبي. لا تعتمد تحليلاتنا على ملفات تعريف الارتباط، ولكنها قد تستخدم تقنيات أو معرّفات مشابهة عبر الإنترنت، وبالتالي تتطلب موافقتك في بعض الولايات القضائية."
       },
       {
-        "title": "ملفات تعريف الارتباط الضرورية للغاية <span class=\"pm__badge\">ممكّن دائمًا</span>",
-        "description": "These cookies are from our hosting and payment provider that ensure that the application works correctly and you can connect.",
-        "linkedCategory": "necessary"
+        "title": "ملفات تعريف الارتباط الضرورية للغاية <span class=\"pm__badge\">ممكّنة دائمًا</span>",
+        "description": "ملفات تعريف الارتباط هذه هي من مزود خدمة الاستضافة والدفع لدينا والتي تضمن عمل التطبيق بشكل صحيح وإمكانية الاتصال.",
+        "linkedCategory": "ضروري"
       },
       {
-        "title": "ملفات تعريف الارتباط التحليلية",
-        "description": "We utilize various analytics services to get information about how you use our website and improve our advertising efforts.\n<ul>\n<li>Analytics (<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">Ostr.io</a>): Measures site usage, performance, and errors to improve Literary Universe. No cookies are set for analytics, but limited technical data and identifiers may be processed. Consent required.</li>\n</ul>\n",
-        "linkedCategory": "analytics"
+        "title": "التحليلات 📊",
+        "description": "نستخدم خدمات تحليلية مختلفة للحصول على معلومات حول كيفية استخدامك لموقعنا الإلكتروني وتحسين جهودنا الإعلانية.\n<ul>\n<li>تحليلات<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): يقيس استخدام الموقع، والأداء، والأخطاء لتحسين الكون الأدبي. لا يتم تعيين أي ملفات تعريف ارتباط للتحليلات، ولكن قد تتم معالجة بيانات تقنية ومعرفات محدودة. الموافقة مطلوبة.</li>\n<li>إعادة الاستهداف<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): تساعدنا في تقييم الحملات وإظهار العروض الترويجية ذات الصلة عن موقع \"الكون الأدبي\" على مواقع إلكترونية أخرى. لا يتم تعيين ملفات تعريف الارتباط على موقعنا لهذا الغرض، ولكن قد يتم استخدام تقنيات أو معرّفات مماثلة. الموافقة مطلوبة.</li>\n</ul>",
+        "linkedCategory": "التحليلات"
       },
       {
-        "title": "معلومات اكثر",
-        "description": "For any query in relation to my policy on cookies and your choices, please <a class=\"cc__link\" href=\"/privacy\">contact me</a>."
+        "title": "المزيد من المعلومات",
+        "description": "لمزيد من المعلومات حول سياسة الخصوصية وخدمات التتبع (بما في ذلك الإعدادات الفردية) والمعلومات ذات الصلة، راجع <a class=\"cc__link\" href=\"/privacy\">صفحة سياسة الخصوصية</a> الخاصة بنا."
       }
     ]
   }

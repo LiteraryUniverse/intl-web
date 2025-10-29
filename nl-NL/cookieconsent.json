@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Hallo reiziger, het is koekjestijd! 🍪",
+    "description": "Wij gebruiken geen cookies, behalve noodzakelijke functionele cookies. Maar we hebben wel andere functies voor analytische doeleinden waarvoor we uw toestemming nodig hebben.",
+    "acceptAllBtn": "Alles accepteren 🙏",
+    "acceptNecessaryBtn": "Alles afwijzen 🙅",
+    "showPreferencesBtn": "Voorkeuren beheren 🔧",
+    "footer": "<a href=\"/privacy\">Privacybeleid</a>\n<a href=\"/tos\">Algemene voorwaarden</a>"
+  },
+  "preferencesModal": {
+    "title": "Consent Voorkeuren Centrum",
+    "acceptAllBtn": "Alles accepteren 🙏",
+    "acceptNecessaryBtn": "Alles afwijzen 🙅",
+    "savePreferencesBtn": "Voorkeuren opslaan 💾",
+    "closeIconLabel": "Modaal sluiten",
+    "serviceCounterLabel": "Dienst|Diensten",
+    "sections": [
+      {
+        "title": "Cookiegebruik 🍪",
+        "description": "Deze website gebruikt strikt noodzakelijke cookies die nodig zijn voor de kernfunctionaliteit. Met uw toestemming voeren wij ook analyses uit om het gebruik te begrijpen en Literary Universe te verbeteren. Onze analyses zijn niet afhankelijk van cookies, maar kunnen gebruik maken van vergelijkbare technologieën of online identificatiemiddelen en vereisen daarom uw toestemming in bepaalde rechtsgebieden."
+      },
+      {
+        "title": "Strikt noodzakelijke cookies <span class=\"pm__badge\">altijd ingeschakeld</span>",
+        "description": "Deze cookies zijn afkomstig van onze hosting- en betalingsprovider en zorgen ervoor dat de applicatie correct werkt en u verbinding kunt maken.",
+        "linkedCategory": "noodzakelijk"
+      },
+      {
+        "title": "Analytics 📊",
+        "description": "Wij maken gebruik van verschillende analysediensten om informatie te krijgen over hoe u onze website gebruikt en om onze reclame-inspanningen te verbeteren.\n<ul>\n<li>Analytics<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Meet sitegebruik, prestaties en fouten om Literary Universe te verbeteren. Er worden geen cookies ingesteld voor analytics, maar er kunnen beperkte technische gegevens en identificatiegegevens worden verwerkt. Toestemming vereist.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Helpt ons campagnes te beoordelen en relevante promoties over Literair Universum op andere websites te tonen. Hiervoor worden op onze site geen cookies geplaatst, maar er kunnen vergelijkbare technologieën of identificatiegegevens worden gebruikt. Toestemming vereist.</li>\n</ul>",
+        "linkedCategory": "analytics"
+      },
+      {
+        "title": "Meer informatie",
+        "description": "Zie voor meer informatie over ons privacybeleid, trackingdiensten (inclusief individuele instellingen) en gerelateerde informatie onze <a class=\"cc__link\" href=\"/privacy\">pagina over privacybeleid</a>."
+      }
+    ]
+  }
+}

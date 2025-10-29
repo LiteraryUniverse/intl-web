@@ -60,7 +60,8 @@ export default {
     'discovery.readLatest': '最新の章を読んでください',
     'discovery.author': '作者',
     'discovery.aiGenerated': 'AIが生成',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'この作品はAIによって生み出された。',
+    // AI content related strings
     'discovery.ai.content': 'AIが生成したコンテンツ',
     'discovery.ai.universes': 'AIが生成する宇宙',
     'discovery.ai.stories': 'AIが生み出す物語',

@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Dobrý deň, cestujúci, je čas na sušienky! 🍪",
+    "description": "Okrem nevyhnutných funkčných súborov cookie nepoužívame žiadne iné súbory cookie. Máme však iné funkcie na analytické účely, na ktoré potrebujeme váš súhlas.",
+    "acceptAllBtn": "Prijať všetky 🙏",
+    "acceptNecessaryBtn": "Odmietnuť všetky 🙅",
+    "showPreferencesBtn": "Správa predvolieb 🔧",
+    "footer": "<a href=\"/privacy\">Zásady ochrany osobných údajov</a>\n<a href=\"/tos\">Podmienky a ustanovenia</a>"
+  },
+  "preferencesModal": {
+    "title": "Centrum preferencií súhlasu",
+    "acceptAllBtn": "Prijať všetky 🙏",
+    "acceptNecessaryBtn": "Odmietnuť všetky 🙅",
+    "savePreferencesBtn": "Uloženie preferencií 💾",
+    "closeIconLabel": "Zatvoriť modálny",
+    "serviceCounterLabel": "Služba|Služby",
+    "sections": [
+      {
+        "title": "Používanie súborov cookie 🍪",
+        "description": "Táto webová lokalita používa nevyhnutne potrebné súbory cookie, ktoré sú potrebné pre základné funkcie. S vaším súhlasom tiež vykonávame analytické analýzy, aby sme pochopili používanie a zlepšili Literárny vesmír. Naša analytika sa nespolieha na súbory cookie, ale môže používať podobné technológie alebo online identifikátory, a preto si v niektorých jurisdikciách vyžaduje váš súhlas."
+      },
+      {
+        "title": "Striktne nevyhnutné súbory cookie <span class=\"pm__badge\">sú vždy povolené</span>",
+        "description": "Tieto súbory cookie pochádzajú od nášho poskytovateľa hostingu a platieb, ktorý zabezpečuje správne fungovanie aplikácie a možnosť pripojenia.",
+        "linkedCategory": "potrebné"
+      },
+      {
+        "title": "Analytika 📊",
+        "description": "Využívame rôzne analytické služby, aby sme získali informácie o tom, ako používate naše webové stránky, a zlepšili naše reklamné úsilie.\n<ul>\n<li>Analytické služby<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Meria používanie stránky, výkon a chyby s cieľom zlepšiť Literárny vesmír. Pre analytiku sa nenastavujú žiadne súbory cookie, ale môžu sa spracúvať obmedzené technické údaje a identifikátory. Vyžaduje sa súhlas.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Pomáha nám vyhodnocovať kampane a zobrazovať relevantné propagačné akcie o Literárnom vesmíre na iných webových stránkach. Na našej stránke sa na tento účel nenastavujú žiadne súbory cookie, ale môžu sa používať podobné technológie alebo identifikátory. Vyžaduje sa súhlas.</li>\n</ul>",
+        "linkedCategory": "analytika"
+      },
+      {
+        "title": "Viac informácií",
+        "description": "Ďalšie informácie o našich zásadách ochrany osobných údajov, službách sledovania (vrátane individuálnych nastavení) a súvisiacich informáciách nájdete na našej <a class=\"cc__link\" href=\"/privacy\">stránke so zásadami ochrany osobných údajov</a>."
+      }
+    ]
+  }
+}

@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Poista tili',
     'settings.legal.title': 'Käyttäjän suostumussopimukset',
     'settings.legal.explained': 'Täällä voit hallita suostumustasi erilaisiin oikeudellisiin asiakirjoihin.',
+    'settings.legal.analytics.title': 'Analytiikka ja seuranta',
+    'settings.legal.analytics.description': 'Voit hallita Literary Universessa käytettäviä analytiikka- ja seurantapalveluita. Tässä osiossa luetellaan kaikki palvelut sitä mukaa, kun lisäämme niitä.',
+    'settings.legal.analytics.ostrio': 'Jos haluat poistaa Ostrio Analyticsin seurannan käytöstä, käy heidän opt-out-sivullaan:',
+    'settings.legal.analytics.ostrioOptOut': 'Hallitse Ostrio Analyticsin opt-out-mahdollisuutta',
+    'settings.legal.analytics.future': 'Lisäämme tänne muita palveluntarjoajia, kuten Google Analytics tai Seznam, kunhan ne otetaan käyttöön.',
     'settings.name.private': 'Nimi on yksityinen',
     'settings.emailSubscriptions.title': 'Sähköposti-ilmoitusten asetukset',
     'settings.emailSubscriptions.explain': 'Valitse, mitkä sähköposti-ilmoitukset haluat vastaanottaa meiltä.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Tietoa uusista ominaisuuksista',
     'settings.emailNotifications.title': 'Ilmoitukset',
     'settings.emailNotifications.pm': 'Uudet viestit',
-    'settings.emailNotifications.newChapters': 'Uudet luvut',
+    'settings.emailNotifications.newChapters': 'Uusia lukuja seuraamistasi tarinoista',
+    'settings.emailNotifications.newStories': 'Uusia tarinoita universumeissa tai seuraamiltasi kirjailijoilta',
+    'settings.emailNotifications.newUniverses': 'Uusia universumeja seuraamiltasi kirjailijoilta',
     'settings.resetPasswordEmailSend': 'Olemme lähettäneet sinulle ohjeet salasanan nollaamiseksi sähköpostiisi.',
     'settings.theme.title': 'Sivuston teema',
     'settings.theme.label': 'Sivuston teema',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Syötä pilkulla erotettu luettelo tunnisteista',
     'settings.interests.tags.placeholder': 'Lisää tunnisteet',
     'settings.interests.avoidGenres.help': 'Valitse genret, joita et halua nähdä suosituksissa.',
-    'settings.interests.avoidGenres': 'Vältettävät lajityypit'
+    'settings.interests.avoidGenres': 'Vältettävät lajityypit',
+    'settings.notifications': 'Ilmoitukset ja uutiskirjeet'
 };

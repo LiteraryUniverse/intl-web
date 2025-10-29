@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Reactivează forumurile',
   'forums.unArchive.success': 'Forumul a fost reactivat!',
   'forums.universeTitle': 'Universul forumurilor pentru {universeName}',
-  'forums.yourMessage': 'Mesajul tău'
+  'forums.yourMessage': 'Mesajul tău',
+  // Q&A threads
+  'forums.thread.answered': 'Răspuns',
+  'forums.post.selectedAnswer': 'Răspuns selectat',
+  'forums.post.selectAsAnswer': 'Selectați ca răspuns',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Cine poate crea subiecte',
+  'forums.category.postingPermission.everyone': 'Toată lumea',
+  'forums.category.postingPermission.owner': 'Numai proprietarii forumului',
+  // System Posts
+  'forums.settings.systemPosts': 'Posturi de sistem',
+  'forums.settings.systemPosts.description': 'Configurați postarea automată a conținutului generat de sistem pe forumul dvs.',
+  'forums.settings.systemPosts.blogs': 'Postări pe blog',
+  'forums.settings.systemPosts.blogs.enable': 'Creați automat subiecte de forum pentru postările noi de pe blog',
+  'forums.settings.systemPosts.blogs.category': 'Postați la categoria:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Selectați o categorie...'
 };

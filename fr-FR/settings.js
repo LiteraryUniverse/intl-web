@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Supprimer mon compte',
     'settings.legal.title': 'Accords de consentement de l\'utilisateur',
     'settings.legal.explained': 'Vous pouvez gérer ici votre accord sur divers documents juridiques.',
+    'settings.legal.analytics.title': 'Analyse et suivi',
+    'settings.legal.analytics.description': 'Vous pouvez contrôler les services d\'analyse et de suivi utilisés sur Literary Universe. Cette section énumérera tous les services au fur et à mesure que nous les ajouterons.',
+    'settings.legal.analytics.ostrio': 'Pour désactiver le suivi d\'Ostrio Analytics, visitez leur page de désactivation :',
+    'settings.legal.analytics.ostrioOptOut': 'Gérer l\'opt-out d\'Ostrio Analytics',
+    'settings.legal.analytics.future': 'Nous inclurons d\'autres fournisseurs, tels que Google Analytics ou Seznam, dès qu\'ils seront activés.',
     'settings.name.private': 'Le nom sera privé',
     'settings.emailSubscriptions.title': 'Paramètres des notifications par email',
     'settings.emailSubscriptions.explain': 'Sélectionnez les notifications par email que vous souhaitez recevoir de notre part.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informations sur les nouvelles fonctionnalités',
     'settings.emailNotifications.title': 'Notifications',
     'settings.emailNotifications.pm': 'Nouveaux messages',
-    'settings.emailNotifications.newChapters': 'Nouveaux chapitres',
+    'settings.emailNotifications.newChapters': 'Nouveaux chapitres des histoires que vous suivez',
+    'settings.emailNotifications.newStories': 'Nouvelles histoires dans des univers ou des auteurs que vous suivez',
+    'settings.emailNotifications.newUniverses': 'Les nouveaux univers des auteurs que vous suivez',
     'settings.resetPasswordEmailSend': 'Nous vous avons envoyé des instructions sur la façon de réinitialiser votre mot de passe dans votre email.',
     'settings.theme.title': 'Thématisation du site',
     'settings.theme.label': 'Thème du site',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Entrez une liste de balises séparées par des virgules',
     'settings.interests.tags.placeholder': 'Ajouter des tags',
     'settings.interests.avoidGenres.help': 'Sélectionnez les genres que vous préférez ne pas voir dans les recommandations.',
-    'settings.interests.avoidGenres': 'Genres à éviter'
+    'settings.interests.avoidGenres': 'Genres à éviter',
+    'settings.notifications': 'Notifications et bulletins d\'information'
 };

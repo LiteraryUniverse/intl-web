@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Forumları yeniden etkinleştir',
   'forums.unArchive.success': 'Forum yeniden etkinleştirildi!',
   'forums.universeTitle': '{universeName}için evren forumları',
-  'forums.yourMessage': 'Mesajınız'
+  'forums.yourMessage': 'Mesajınız',
+  // Q&A threads
+  'forums.thread.answered': 'Cevaplandı',
+  'forums.post.selectedAnswer': 'Seçilmiş Cevap',
+  'forums.post.selectAsAnswer': 'Cevap olarak seç',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Kimler konu oluşturabilir',
+  'forums.category.postingPermission.everyone': 'Herkes',
+  'forums.category.postingPermission.owner': 'Sadece forum sahibi',
+  // System Posts
+  'forums.settings.systemPosts': 'Sistem Mesajları',
+  'forums.settings.systemPosts.description': 'Sistem tarafından oluşturulan içeriğin forumunuza otomatik olarak gönderilmesini yapılandırın.',
+  'forums.settings.systemPosts.blogs': 'Blog Yazıları',
+  'forums.settings.systemPosts.blogs.enable': 'Yeni blog gönderileri için otomatik olarak forum konuları oluşturun',
+  'forums.settings.systemPosts.blogs.category': 'Kategoriye gönder:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Bir kategori seçin...'
 };

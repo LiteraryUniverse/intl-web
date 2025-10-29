@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Legfrissebb fejezet olvasása',
     'discovery.author': 'Szerző',
     'discovery.aiGenerated': 'AI generált',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Ezt a munkát a mesterséges intelligencia hozta létre.',
+    // AI content related strings
     'discovery.ai.content': 'AI-generált tartalom',
     'discovery.ai.universes': 'Mesterséges intelligencia által generált univerzumok',
     'discovery.ai.stories': 'AI-generált történetek',

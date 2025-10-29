@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Apagar a minha conta',
     'settings.legal.title': 'Acordos de consentimento do utilizador',
     'settings.legal.explained': 'Aqui pode gerir o seu acordo com vários documentos legais.',
+    'settings.legal.analytics.title': 'Análise e acompanhamento',
+    'settings.legal.analytics.description': 'Pode controlar os serviços de análise e rastreio utilizados no Universo Literário. Esta secção listará todos os serviços à medida que os adicionarmos.',
+    'settings.legal.analytics.ostrio': 'Para desativar o rastreio do Ostrio Analytics, visite a página de desativação:',
+    'settings.legal.analytics.ostrioOptOut': 'Gerir a auto-exclusão do Ostrio Analytics',
+    'settings.legal.analytics.future': 'Incluiremos aqui fornecedores adicionais, como o Google Analytics ou a Seznam, assim que estiverem activados.',
     'settings.name.private': 'O nome será privado',
     'settings.emailSubscriptions.title': 'Definições de notificação por email',
     'settings.emailSubscriptions.explain': 'Selecione quais as notificações por email que deseja receber de nós.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informação sobre novas funcionalidades',
     'settings.emailNotifications.title': 'Notificações',
     'settings.emailNotifications.pm': 'Novas mensagens',
-    'settings.emailNotifications.newChapters': 'Novos capítulos',
+    'settings.emailNotifications.newChapters': 'Novos capítulos de histórias que segue',
+    'settings.emailNotifications.newStories': 'Novas histórias em universos ou de autores que segue',
+    'settings.emailNotifications.newUniverses': 'Novos universos de autores que segue',
     'settings.resetPasswordEmailSend': 'Enviámos-lhe instruções sobre como redefinir a sua palavra-passe para o seu email.',
     'settings.theme.title': 'Tematização do site',
     'settings.theme.label': 'Tema do site',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Introduza uma lista de etiquetas separada por vírgulas',
     'settings.interests.tags.placeholder': 'Adicionar etiquetas',
     'settings.interests.avoidGenres.help': 'Selecione os géneros que prefere não ver nas recomendações.',
-    'settings.interests.avoidGenres': 'Géneros a evitar'
+    'settings.interests.avoidGenres': 'Géneros a evitar',
+    'settings.notifications': 'Notificações e boletins informativos'
 };

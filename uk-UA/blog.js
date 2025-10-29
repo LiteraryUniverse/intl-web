@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Завантажити більше',
     'blog.qa.warn.luRequired': 'Тут можуть ставити запитання лише передплатники LU.',
     'blog.qa.warn.fanClubRequired': 'Тут можуть ставити запитання лише члени Фан-клубу.',
-    'blog.qa.warn.luOrFanRequired': 'Тут можуть ставити запитання лише передплатники LU або члени Фан-клубу.'
+    'blog.qa.warn.luOrFanRequired': 'Тут можуть ставити запитання лише передплатники LU або члени Фан-клубу.',
+    // Blog post discussions
+    'blogs.discussion': 'Обговорення',
+    'blogs.discussionOnForum': 'Обговорення цієї публікації в блозі триває на наших форумах.',
+    'blogs.joinDiscussion': 'Приєднуйтесь до обговорення'
 };

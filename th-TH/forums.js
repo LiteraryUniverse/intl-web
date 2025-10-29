@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'เปิดใช้งานฟอรั่มอีกครั้ง',
   'forums.unArchive.success': 'ฟอรั่มได้รับการเปิดใช้งานอีกครั้งแล้ว!',
   'forums.universeTitle': 'ฟอรั่มจักรวาลสำหรับ {universeName}',
-  'forums.yourMessage': 'ข้อความของคุณ'
+  'forums.yourMessage': 'ข้อความของคุณ',
+  // Q&A threads
+  'forums.thread.answered': 'ตอบแล้ว',
+  'forums.post.selectedAnswer': 'คำตอบที่เลือก',
+  'forums.post.selectAsAnswer': 'เลือกเป็นคำตอบ',
+  // Category posting permissions
+  'forums.category.postingPermission': 'ใครสามารถสร้างหัวข้อได้',
+  'forums.category.postingPermission.everyone': 'ทุกคน',
+  'forums.category.postingPermission.owner': 'เจ้าของฟอรัมเท่านั้น',
+  // System Posts
+  'forums.settings.systemPosts': 'โพสต์ระบบ',
+  'forums.settings.systemPosts.description': 'กำหนดค่าการโพสต์อัตโนมัติของเนื้อหาที่ระบบสร้างขึ้นไปยังฟอรัมของคุณ',
+  'forums.settings.systemPosts.blogs': 'บทความในบล็อก',
+  'forums.settings.systemPosts.blogs.enable': 'สร้างกระทู้ในฟอรั่มโดยอัตโนมัติสำหรับโพสต์บล็อกใหม่',
+  'forums.settings.systemPosts.blogs.category': 'โพสต์ไปยังหมวดหมู่:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'เลือกหมวดหมู่...'
 };

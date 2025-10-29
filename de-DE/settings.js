@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Mein Konto löschen',
     'settings.legal.title': 'Einverständniserklärungen der Benutzer',
     'settings.legal.explained': 'Hier können Sie Ihre Zustimmung zu verschiedenen rechtlichen Dokumenten verwalten.',
+    'settings.legal.analytics.title': 'Analytik und Verfolgung',
+    'settings.legal.analytics.description': 'Sie können die auf Literary Universe verwendeten Analyse- und Tracking-Dienste kontrollieren. In diesem Abschnitt werden alle Dienste aufgelistet, sobald wir sie hinzufügen.',
+    'settings.legal.analytics.ostrio': 'Um das Tracking durch Ostrio Analytics zu deaktivieren, besuchen Sie die Deaktivierungsseite:',
+    'settings.legal.analytics.ostrioOptOut': 'Ostrio Analytics-Abmeldung verwalten',
+    'settings.legal.analytics.future': 'Wir werden weitere Anbieter wie Google Analytics oder Seznam hier aufnehmen, sobald sie aktiviert sind.',
     'settings.name.private': 'Name wird privat sein',
     'settings.emailSubscriptions.title': 'Einstellungen für E-Mail-Benachrichtigungen',
     'settings.emailSubscriptions.explain': 'Wählen Sie aus, welche E-Mail-Benachrichtigungen Sie von uns erhalten möchten.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informationen über neue Funktionen',
     'settings.emailNotifications.title': 'Benachrichtigungen',
     'settings.emailNotifications.pm': 'Neue Meldungen',
-    'settings.emailNotifications.newChapters': 'Neue Kapitel',
+    'settings.emailNotifications.newChapters': 'Neue Kapitel von Geschichten, denen Sie folgen',
+    'settings.emailNotifications.newStories': 'Neue Geschichten in Universen oder von Autoren, denen Sie folgen',
+    'settings.emailNotifications.newUniverses': 'Neue Universen von Autoren, denen Sie folgen',
     'settings.resetPasswordEmailSend': 'Wir haben Ihnen eine Anleitung zum Zurücksetzen Ihres Passworts an Ihre E-Mail geschickt.',
     'settings.theme.title': 'Thematisierung der Website',
     'settings.theme.label': 'Thema der Seite',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Kommagetrennte Liste von Tags eingeben',
     'settings.interests.tags.placeholder': 'Tags hinzufügen',
     'settings.interests.avoidGenres.help': 'Wählen Sie die Genres aus, die Sie lieber nicht in den Empfehlungen sehen möchten.',
-    'settings.interests.avoidGenres': 'Zu vermeidende Genres'
+    'settings.interests.avoidGenres': 'Zu vermeidende Genres',
+    'settings.notifications': 'Benachrichtigungen & Newsletters'
 };

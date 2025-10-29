@@ -64,5 +64,20 @@ export default {
   'forums.unArchive': '掲示板を再度有効にします。',
   'forums.unArchive.success': '掲示板が再度有効になりました',
   'forums.universeTitle': '{universeName}。',
-  'forums.yourMessage': 'メッセージ'
+  'forums.yourMessage': 'メッセージ',
+  // Q&A threads
+  'forums.thread.answered': '回答済み',
+  'forums.post.selectedAnswer': '選択回答',
+  'forums.post.selectAsAnswer': '回答として選択',
+  // Category posting permissions
+  'forums.category.postingPermission': 'スレッドを作成できる人',
+  'forums.category.postingPermission.everyone': 'みんな',
+  'forums.category.postingPermission.owner': 'フォーラム所有者のみ',
+  // System Posts
+  'forums.settings.systemPosts': 'システムポスト',
+  'forums.settings.systemPosts.description': 'システムが生成したコンテンツをフォーラムに自動投稿するように設定します。',
+  'forums.settings.systemPosts.blogs': 'ブログ記事',
+  'forums.settings.systemPosts.blogs.enable': '新しいブログ記事に対して自動的にフォーラムのスレッドを作成する',
+  'forums.settings.systemPosts.blogs.category': 'カテゴリーに投稿する',
+  'forums.settings.systemPosts.blogs.selectCategory': 'カテゴリーを選択...'
 };

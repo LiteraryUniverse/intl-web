@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Memuat lebih banyak',
     'blog.qa.warn.luRequired': 'Hanya pelanggan LU yang dapat mengajukan pertanyaan di sini.',
     'blog.qa.warn.fanClubRequired': 'Hanya anggota Klub Penggemar yang dapat mengajukan pertanyaan di sini.',
-    'blog.qa.warn.luOrFanRequired': 'Hanya pelanggan LU atau anggota Fan Club yang dapat mengajukan pertanyaan di sini.'
+    'blog.qa.warn.luOrFanRequired': 'Hanya pelanggan LU atau anggota Fan Club yang dapat mengajukan pertanyaan di sini.',
+    // Blog post discussions
+    'blogs.discussion': 'Diskusi',
+    'blogs.discussionOnForum': 'Diskusi untuk artikel blog ini terus berlanjut di forum kami.',
+    'blogs.joinDiscussion': 'Bergabunglah dalam diskusi'
 };

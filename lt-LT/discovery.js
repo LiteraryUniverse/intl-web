@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Skaityti naujausią skyrių',
     'discovery.author': 'Autorius',
     'discovery.aiGenerated': 'Sukurtas dirbtinis intelektas',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Šį darbą sukūrė AI.',
+    // AI content related strings
     'discovery.ai.content': 'dirbtinio intelekto sukurtas turinys',
     'discovery.ai.universes': 'Dirbtinio intelekto sukurtos visatos',
     'discovery.ai.stories': 'dirbtinio intelekto sukurtos istorijos',

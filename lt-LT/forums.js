@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Aktyvuoti forumus iš naujo',
   'forums.unArchive.success': 'Forumas buvo aktyvuotas iš naujo!',
   'forums.universeTitle': 'Visatos forumai {universeName}',
-  'forums.yourMessage': 'Jūsų žinutė'
+  'forums.yourMessage': 'Jūsų žinutė',
+  // Q&A threads
+  'forums.thread.answered': 'Atsakyta',
+  'forums.post.selectedAnswer': 'Pasirinktas atsakymas',
+  'forums.post.selectAsAnswer': 'Pasirinkite kaip atsakymą',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Kas gali kurti temas',
+  'forums.category.postingPermission.everyone': 'Visi',
+  'forums.category.postingPermission.owner': 'Tik forumo savininkas',
+  // System Posts
+  'forums.settings.systemPosts': 'Sistemos pranešimai',
+  'forums.settings.systemPosts.description': 'Sukonfigūruokite automatinį sistemos sukurto turinio skelbimą forume.',
+  'forums.settings.systemPosts.blogs': 'Tinklaraščio įrašai',
+  'forums.settings.systemPosts.blogs.enable': 'Automatiškai sukurti forumo temas naujiems tinklaraščio įrašams',
+  'forums.settings.systemPosts.blogs.category': 'Rašyti į kategoriją:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Pasirinkite kategoriją...'
 };

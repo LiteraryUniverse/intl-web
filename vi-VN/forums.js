@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Kích hoạt lại diễn đàn',
   'forums.unArchive.success': 'Diễn đàn đã được kích hoạt lại!',
   'forums.universeTitle': 'Diễn đàn Universe cho {universeName}',
-  'forums.yourMessage': 'Tin nhắn của bạn'
+  'forums.yourMessage': 'Tin nhắn của bạn',
+  // Q&A threads
+  'forums.thread.answered': 'Đã trả lời',
+  'forums.post.selectedAnswer': 'Câu trả lời được chọn',
+  'forums.post.selectAsAnswer': 'Chọn làm câu trả lời',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Ai có thể tạo chủ đề?',
+  'forums.category.postingPermission.everyone': 'Mọi người',
+  'forums.category.postingPermission.owner': 'Chủ sở hữu diễn đàn',
+  // System Posts
+  'forums.settings.systemPosts': 'Bài đăng hệ thống',
+  'forums.settings.systemPosts.description': 'Cấu hình tính năng đăng tự động nội dung do hệ thống tạo ra lên diễn đàn của bạn.',
+  'forums.settings.systemPosts.blogs': 'Bài viết trên blog',
+  'forums.settings.systemPosts.blogs.enable': 'Tự động tạo các chủ đề diễn đàn cho các bài đăng blog mới.',
+  'forums.settings.systemPosts.blogs.category': 'Đăng vào danh mục:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Chọn một danh mục...'
 };

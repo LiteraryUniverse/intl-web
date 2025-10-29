@@ -30,5 +30,8 @@ export default {
     'universe.fanFiction.hide': 'ファンフィクションを非表示にする',
     'universe.fanFiction.unhide': 'ファンフィクションを表示する',
     'universe.fanFiction.create': '新しいファンフィクションを作成する',
-    'universe.fanFiction.notAllowed': 'この宇宙では、ファンフィクションの表示は許可されていません。'
+    'universe.fanFiction.notAllowed': 'この宇宙では、ファンフィクションの表示は許可されていません。',
+    'universe.storiesCount': '宇宙の物語の総数',
+    'universe.createdAt': '作成された： {date}',
+    'universe.authors.none': '著者情報はありません。'
 };

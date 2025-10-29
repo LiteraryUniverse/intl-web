@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Nascondi fanfiction',
     'universe.fanFiction.unhide': 'Mostra fanfiction',
     'universe.fanFiction.create': 'Crea nuova fan fiction',
-    'universe.fanFiction.notAllowed': 'Questo Universo non permette di mostrare fan fiction.'
+    'universe.fanFiction.notAllowed': 'Questo Universo non permette di mostrare fan fiction.',
+    'universe.storiesCount': 'Numero totale di storie nell\'universo',
+    'universe.createdAt': 'Creato: {date}',
+    'universe.authors.none': 'Non sono disponibili informazioni sugli autori.'
 };

@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'σας στάλθηκε αίτημα φιλίας.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} Εγγραφή στο πρόγραμμα του fan club σας {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} θα αφήσει το πρόγραμμα fan club {planName} στο τέλος της περιόδου χρέωσης.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Νέο σχόλιο στο "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} σχολίασε την ιστορία σας: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Ξεκινήστε να γράφετε!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Μετάβαση στην Ιστορία',
+  'notificationExtra.fanClub.manage': 'Διαχειριστείτε το fan club',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Κοινότητα',
   'notifications.menu.reading': 'Ανάγνωση & Βιβλιοθήκη',

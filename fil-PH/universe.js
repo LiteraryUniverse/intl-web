@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Itago ang fanfiction',
     'universe.fanFiction.unhide': 'Huwag itago ang fanfiction',
     'universe.fanFiction.create': 'Gumawa ng bagong fan fiction',
-    'universe.fanFiction.notAllowed': 'Ang Universe na ito ay hindi nagpapahintulot ng pagpapakita ng fan fiction.'
+    'universe.fanFiction.notAllowed': 'Ang Universe na ito ay hindi nagpapahintulot ng pagpapakita ng fan fiction.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

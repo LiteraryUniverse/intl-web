@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'שלח לך בקשת חברות.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} נרשמתי לתוכנית מועדון המעריצים שלך {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} תעזוב את מועדון המעריצים שלך {planName} בתום תקופת החיוב.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'תגובה חדשה על "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} הגיב על הסיפור שלך: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'התחל לכתוב!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'עבור לסיפור',
+  'notificationExtra.fanClub.manage': 'נהל מועדון מעריצים',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'קהילה',
   'notifications.menu.reading': 'קריאה וספרייה',

@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Laadige rohkem',
     'blog.qa.warn.luRequired': 'Küsimusi saavad siin esitada ainult LU-tellijad.',
     'blog.qa.warn.fanClubRequired': 'Küsimusi saavad siin esitada ainult fänniklubi liikmed.',
-    'blog.qa.warn.luOrFanRequired': 'Küsimusi saavad siin esitada ainult LU tellijad või fänniklubi liikmed.'
+    'blog.qa.warn.luOrFanRequired': 'Küsimusi saavad siin esitada ainult LU tellijad või fänniklubi liikmed.',
+    // Blog post discussions
+    'blogs.discussion': 'Arutelu',
+    'blogs.discussionOnForum': 'Selle blogipostituse arutelu jätkub meie foorumites.',
+    'blogs.joinDiscussion': 'Liitu aruteluga'
 };

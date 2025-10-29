@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'حذف حسابي',
     'settings.legal.title': 'اتفاقيات موافقة المستخدم',
     'settings.legal.explained': 'هنا يمكنك إدارة موافقتك على مستندات قانونية مختلفة.',
+    'settings.legal.analytics.title': 'التحليلات والتتبع',
+    'settings.legal.analytics.description': 'يمكنك التحكم في التحليلات وخدمات التتبع المستخدمة في Literary Universe. سيسرد هذا القسم جميع الخدمات عند إضافتها.',
+    'settings.legal.analytics.ostrio': 'لتعطيل تتبع Ostrio Analytics، تفضل بزيارة صفحة إلغاء الاشتراك:',
+    'settings.legal.analytics.ostrioOptOut': 'إدارة إلغاء الاشتراك في Ostrio Analytics',
+    'settings.legal.analytics.future': 'سنقوم بتضمين موفّري خدمات إضافيين، مثل Google Analytics أو Seznam، هنا بمجرد تفعيلها.',
     'settings.name.private': 'سيتم الاحتفاظ بالاسم كمعلومات خاصة',
     'settings.emailSubscriptions.title': 'إعدادات إشعارات البريد الإلكتروني',
     'settings.emailSubscriptions.explain': 'حدد أي إشعارات بريد إلكتروني ترغب في تلقيها منا.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'معلومات عن المزايا الجديدة',
     'settings.emailNotifications.title': 'الإشعارات',
     'settings.emailNotifications.pm': 'رسائل جديدة',
-    'settings.emailNotifications.newChapters': 'فصول جديدة',
+    'settings.emailNotifications.newChapters': 'فصول جديدة من القصص التي تتابعها',
+    'settings.emailNotifications.newStories': 'قصص جديدة في العوالم أو من مؤلفين تتابعهم',
+    'settings.emailNotifications.newUniverses': 'عوالم جديدة من المؤلفين الذين تتابعهم',
     'settings.resetPasswordEmailSend': 'لقد أرسلنا لك تعليمات حول كيفية إعادة تعيين كلمة المرور إلى بريدك الإلكتروني.',
     'settings.theme.title': 'تصميم الموقع',
     'settings.theme.label': 'سمة الموقع',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'أدخل قائمة العلامات المفصولة بفاصلة',
     'settings.interests.tags.placeholder': 'إضافة علامات',
     'settings.interests.avoidGenres.help': 'حدد الأنواع التي تفضل عدم رؤيتها في التوصيات.',
-    'settings.interests.avoidGenres': 'الأنواع التي يجب تجنبها'
+    'settings.interests.avoidGenres': 'الأنواع التي يجب تجنبها',
+    'settings.notifications': 'الإخطارات والنشرات الإخبارية'
 };

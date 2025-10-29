@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'טען עוד',
     'blog.qa.warn.luRequired': 'רק מנויים ל-LU יכולים לשאול כאן שאלות.',
     'blog.qa.warn.fanClubRequired': 'רק חברי מועדון המעריצים יכולים לשאול כאן שאלות.',
-    'blog.qa.warn.luOrFanRequired': 'רק מנויים ל-LU או חברי מועדון המעריצים יכולים לשאול כאן שאלות.'
+    'blog.qa.warn.luOrFanRequired': 'רק מנויים ל-LU או חברי מועדון המעריצים יכולים לשאול כאן שאלות.',
+    // Blog post discussions
+    'blogs.discussion': 'דיון',
+    'blogs.discussionOnForum': 'הדיון על פוסט זה בבלוג נמשך בפורומים שלנו.',
+    'blogs.joinDiscussion': 'הצטרפו לדיון'
 };

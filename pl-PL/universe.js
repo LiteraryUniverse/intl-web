@@ -36,5 +36,8 @@ export default {
     'universe.fanFiction.hide': 'Ukryj fanfiction',
     'universe.fanFiction.unhide': 'Przywróć widoczność fanfiction',
     'universe.fanFiction.create': 'Utwórz nową fanfiction',
-    'universe.fanFiction.notAllowed': 'Ten Wszechświat nie pozwala na wyświetlanie fan fiction.'
+    'universe.fanFiction.notAllowed': 'Ten Wszechświat nie pozwala na wyświetlanie fan fiction.',
+    'universe.storiesCount': 'Całkowita liczba historii we wszechświecie',
+    'universe.createdAt': 'Utworzono: {date}',
+    'universe.authors.none': 'Brak dostępnych informacji o autorach.'
 };

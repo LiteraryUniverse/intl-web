@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': '載入更多',
     'blog.qa.warn.luRequired': '只有 LU 訂閱者才能在此提問。',
     'blog.qa.warn.fanClubRequired': '只有 Fan Club 會員才能在此提問。',
-    'blog.qa.warn.luOrFanRequired': '只有 LU 訂閱者或 Fan Club 會員才能在此提問。'
+    'blog.qa.warn.luOrFanRequired': '只有 LU 訂閱者或 Fan Club 會員才能在此提問。',
+    // Blog post discussions
+    'blogs.discussion': '討論',
+    'blogs.discussionOnForum': '這篇部落格文章的討論仍在我們的論壇上繼續。',
+    'blogs.joinDiscussion': '加入討論'
 };

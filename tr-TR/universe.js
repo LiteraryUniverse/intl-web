@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Hayran Kurguyu Gizle',
     'universe.fanFiction.unhide': 'Hayran Kurguyu Göster',
     'universe.fanFiction.create': 'Yeni hayran kurgusu oluştur',
-    'universe.fanFiction.notAllowed': 'Bu Evren hayran kurgusunu göstermeye izin vermez.'
+    'universe.fanFiction.notAllowed': 'Bu Evren hayran kurgusunu göstermeye izin vermez.',
+    'universe.storiesCount': 'Evrendeki toplam hikaye sayısı',
+    'universe.createdAt': 'Oluşturuldu: {date}',
+    'universe.authors.none': 'Yazar bilgisi mevcut değildir.'
 };

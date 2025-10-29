@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Peida fännifilmi',
     'universe.fanFiction.unhide': 'Näita fännifilmi',
     'universe.fanFiction.create': 'Loo uus fännifiktsioon',
-    'universe.fanFiction.notAllowed': 'See Universum ei võimalda fännifiktsiooni näitamist.'
+    'universe.fanFiction.notAllowed': 'See Universum ei võimalda fännifiktsiooni näitamist.',
+    'universe.storiesCount': 'Lugude koguarv universumis',
+    'universe.createdAt': 'Loodud: {date}',
+    'universe.authors.none': 'Andmed autorite kohta puuduvad.'
 };

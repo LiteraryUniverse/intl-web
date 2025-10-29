@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'माझा खाते हटवा',
     'settings.legal.title': 'वापरकर्ता सहमती वस्तुसूच्या',
     'settings.legal.explained': 'येथे आपण विविध कायदेशीर दस्तऐवजांची आपली सहमती व्यवस्थापित करू शकता.',
+    'settings.legal.analytics.title': 'Analytics and tracking',
+    'settings.legal.analytics.description': 'You can control analytics and tracking services used on Literary Universe. This section will list all services as we add them.',
+    'settings.legal.analytics.ostrio': 'To disable Ostrio Analytics tracking, visit their opt-out page:',
+    'settings.legal.analytics.ostrioOptOut': 'Manage Ostrio Analytics opt-out',
+    'settings.legal.analytics.future': 'We will include additional providers, such as Google Analytics or Seznam, here once they are enabled.',
     'settings.name.private': 'नाव खाजगी केला जाईल',
     'settings.emailSubscriptions.title': 'ई-मेल सूचना सेटिंग्ज',
     'settings.emailSubscriptions.explain': 'आपण आमच्याकडून कोणतीही ई-मेल सूचना प्राप्त करायला इच्छिता ती निवडा.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'नवीन वैशिष्ट्यांबद्दल माहिती',
     'settings.emailNotifications.title': 'सूचना',
     'settings.emailNotifications.pm': 'नवीन संदेश',
-    'settings.emailNotifications.newChapters': 'नवीन अध्याय',
+    'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
+    'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
+    'settings.emailNotifications.newUniverses': 'New universes from authors you follow',
     'settings.resetPasswordEmailSend': 'आपल्याला आपला संकेतशब्द रीसेट करण्याचे निर्देश आपल्या ईमेलवर पाठविले आहे.',
     'settings.theme.title': 'साइटची थीमिंग',
     'settings.theme.label': 'साइट थीम',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-    'settings.interests.avoidGenres': 'Genres to avoid'
+    'settings.interests.avoidGenres': 'Genres to avoid',
+    'settings.notifications': 'Notifications & newsletters'
 };

@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Przeciągnij i upuść pliki tutaj lub kliknij, aby wybrać pliki',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Obraz okładki Universe dla {story}.',
-    'common.license': 'Licencja'
+    'common.license': 'Licencja',
+    'common.new': 'Nowy'
 };

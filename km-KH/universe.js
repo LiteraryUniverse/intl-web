@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំ',
     'universe.fanFiction.unhide': 'លាក្លែងពិសេសរបស់ការចម្រៀងកុំត្រូវបង្ហាញឡើងវិញ',
     'universe.fanFiction.create': 'បង្កើតរឿងក្បកថ្មី',
-    'universe.fanFiction.notAllowed': 'រដ្ឋនេះមិនអនុញ្ញាតឱ្យបង្ហាញរឿងកូរ៉េអ្នកសិក្សាអ្នកអភិបាលទេ។'
+    'universe.fanFiction.notAllowed': 'រដ្ឋនេះមិនអនុញ្ញាតឱ្យបង្ហាញរឿងកូរ៉េអ្នកសិក្សាអ្នកអភិបាលទេ។',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

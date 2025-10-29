@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Tải thêm',
     'blog.qa.warn.luRequired': 'Chỉ các thành viên đăng ký LU mới có thể đặt câu hỏi tại đây.',
     'blog.qa.warn.fanClubRequired': 'Chỉ thành viên của Câu lạc bộ Người hâm mộ mới có thể đặt câu hỏi tại đây.',
-    'blog.qa.warn.luOrFanRequired': 'Chỉ thành viên đăng ký LU hoặc thành viên Câu lạc bộ Người hâm mộ mới có thể đặt câu hỏi tại đây.'
+    'blog.qa.warn.luOrFanRequired': 'Chỉ thành viên đăng ký LU hoặc thành viên Câu lạc bộ Người hâm mộ mới có thể đặt câu hỏi tại đây.',
+    // Blog post discussions
+    'blogs.discussion': 'Thảo luận',
+    'blogs.discussionOnForum': 'Cuộc thảo luận về bài viết blog này tiếp tục trên diễn đàn của chúng tôi.',
+    'blogs.joinDiscussion': 'Tham gia cuộc thảo luận'
 };

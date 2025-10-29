@@ -36,5 +36,8 @@ export default {
     'universe.fanFiction.hide': 'Скрыть фанфики',
     'universe.fanFiction.unhide': 'Показать фанфики',
     'universe.fanFiction.create': 'Создать новый фанфик',
-    'universe.fanFiction.notAllowed': 'Эта вселенная не позволяет показывать фанфики.'
+    'universe.fanFiction.notAllowed': 'Эта вселенная не позволяет показывать фанфики.',
+    'universe.storiesCount': 'Общее количество историй во вселенной',
+    'universe.createdAt': 'Создано: {date}',
+    'universe.authors.none': 'Информация об авторах отсутствует.'
 };

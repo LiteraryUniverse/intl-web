@@ -114,5 +114,9 @@ export default {
     'blog.qa.loadMore': 'もっと読む',
     'blog.qa.warn.luRequired': 'ここで質問できるのはLU加入者のみ。',
     'blog.qa.warn.fanClubRequired': 'ここで質問できるのはファンクラブ会員のみ。',
-    'blog.qa.warn.luOrFanRequired': '質問はLU加入者またはファンクラブ会員のみ可能です。'
+    'blog.qa.warn.luOrFanRequired': '質問はLU加入者またはファンクラブ会員のみ可能です。',
+    // Blog post discussions
+    'blogs.discussion': 'ディスカッション',
+    'blogs.discussionOnForum': 'このブログ記事のディスカッションは、私たちのフォーラムで続けられている。',
+    'blogs.joinDiscussion': 'ディスカッションに参加する'
 };

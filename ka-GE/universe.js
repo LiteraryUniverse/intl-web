@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ფანფიქშენის დამალვა',
     'universe.fanFiction.unhide': 'ფანფიქშენის აღდგენა',
     'universe.fanFiction.create': 'შექმენი ახალი ფან ფიქცია',
-    'universe.fanFiction.notAllowed': 'ეს უნივერსუმი არ არის ნებადართული ფან ფიქციების ჩვენებას.'
+    'universe.fanFiction.notAllowed': 'ეს უნივერსუმი არ არის ნებადართული ფან ფიქციების ჩვენებას.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

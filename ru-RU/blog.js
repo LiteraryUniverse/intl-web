@@ -116,5 +116,9 @@ export default {
     'blog.qa.loadMore': 'Загрузить больше',
     'blog.qa.warn.luRequired': 'Только подписчики LU могут задавать здесь вопросы.',
     'blog.qa.warn.fanClubRequired': 'Только члены Фан-клуба могут задавать здесь вопросы.',
-    'blog.qa.warn.luOrFanRequired': 'Только подписчики LU или члены Фан-клуба могут задавать здесь вопросы.'
+    'blog.qa.warn.luOrFanRequired': 'Только подписчики LU или члены Фан-клуба могут задавать здесь вопросы.',
+    // Blog post discussions
+    'blogs.discussion': 'Обсуждение',
+    'blogs.discussionOnForum': 'Обсуждение этой записи в блоге продолжается на наших форумах.',
+    'blogs.joinDiscussion': 'Присоединяйтесь к обсуждению'
 };

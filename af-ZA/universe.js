@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Hide fanfiction',
     'universe.fanFiction.unhide': 'Unhide fanfiction',
     'universe.fanFiction.create': 'Skep nuwe fanfiksie',
-    'universe.fanFiction.notAllowed': 'Hierdie Heelal laat nie fanfiksie wys nie.'
+    'universe.fanFiction.notAllowed': 'Hierdie Heelal laat nie fanfiksie wys nie.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

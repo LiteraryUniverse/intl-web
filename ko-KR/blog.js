@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': '더 보기',
     'blog.qa.warn.luRequired': 'LU 구독자만 여기에서 질문할 수 있습니다.',
     'blog.qa.warn.fanClubRequired': '팬클럽 회원만 여기에서 질문할 수 있습니다.',
-    'blog.qa.warn.luOrFanRequired': 'LU 구독자 또는 팬클럽 회원만 여기에서 질문할 수 있습니다.'
+    'blog.qa.warn.luOrFanRequired': 'LU 구독자 또는 팬클럽 회원만 여기에서 질문할 수 있습니다.',
+    // Blog post discussions
+    'blogs.discussion': '토론',
+    'blogs.discussionOnForum': '이 블로그 게시물에 대한 토론은 포럼에서 계속 진행 중입니다.',
+    'blogs.joinDiscussion': '토론에 참여하기'
 };

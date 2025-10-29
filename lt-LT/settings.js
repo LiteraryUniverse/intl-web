@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Ištrinti mano paskyrą',
     'settings.legal.title': 'Vartotojo sutartys',
     'settings.legal.explained': 'Čia galite valdyti savo sutarimus su įvairiais teisiniais dokumentais.',
+    'settings.legal.analytics.title': 'Analizė ir stebėjimas',
+    'settings.legal.analytics.description': 'Galite valdyti "Literary Universe" naudojamas analizės ir stebėjimo paslaugas. Šiame skyriuje bus išvardytos visos paslaugos, kai jas pridėsime.',
+    'settings.legal.analytics.ostrio': 'Norėdami išjungti "Ostrio Analytics" stebėjimą, apsilankykite jų atsisakymo puslapyje:',
+    'settings.legal.analytics.ostrioOptOut': 'Tvarkykite "Ostrio Analytics" atsisakymą',
+    'settings.legal.analytics.future': 'Papildomus paslaugų teikėjus, pavyzdžiui, "Google Analytics" arba "Seznam", įtrauksime čia, kai jie bus įgalinti.',
     'settings.name.private': 'Vardas bus privatus',
     'settings.emailSubscriptions.title': 'El. pašto pranešimų nustatymai',
     'settings.emailSubscriptions.explain': 'Pasirinkite, kokius el. pašto pranešimus norite gauti iš mūsų.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informacija apie naujas funkcijas',
     'settings.emailNotifications.title': 'Pranešimai',
     'settings.emailNotifications.pm': 'Nauji žinučių',
-    'settings.emailNotifications.newChapters': 'Nauji skyriai',
+    'settings.emailNotifications.newChapters': 'Nauji sekamų istorijų skyriai',
+    'settings.emailNotifications.newStories': 'Naujos istorijos visatose arba iš autorių, kuriuos sekate',
+    'settings.emailNotifications.newUniverses': 'Naujos sekamų autorių visatos',
     'settings.resetPasswordEmailSend': 'Mes išsiuntėme jums instrukcijas, kaip atkurti slaptažodį jūsų el. paštu.',
     'settings.theme.title': 'Svetainės tematika',
     'settings.theme.label': 'Svetainės tema',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Įveskite kableliais atskirtą žymų sąrašą',
     'settings.interests.tags.placeholder': 'Pridėti žymas',
     'settings.interests.avoidGenres.help': 'Pasirinkite žanrus, kurių nenorėtumėte matyti rekomendacijose.',
-    'settings.interests.avoidGenres': 'Žanrai, kurių reikia vengti'
+    'settings.interests.avoidGenres': 'Žanrai, kurių reikia vengti',
+    'settings.notifications': 'Pranešimai ir naujienlaiškiai'
 };

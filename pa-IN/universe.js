@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'ਫੈਨਫਿਕਸ਼ਨ ਛੁਪਾਓ',
     'universe.fanFiction.unhide': 'ਫੈਨਫਿਕਸ਼ਨ ਦਿਖਾਓ',
     'universe.fanFiction.create': 'ਨਵੀਂ ਫੈਨ ਫਿਕਸ਼ਨ ਬਣਾਓ',
-    'universe.fanFiction.notAllowed': 'ਇਹ ਬ੍ਰਹਮਾਂਡ ਫੈਨ ਕਲਪਨਾ ਦਿਖਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦੇਂਦਾ।'
+    'universe.fanFiction.notAllowed': 'ਇਹ ਬ੍ਰਹਮਾਂਡ ਫੈਨ ਕਲਪਨਾ ਦਿਖਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦੇਂਦਾ।',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

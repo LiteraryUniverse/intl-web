@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'siuntė jums draugystės prašymą.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} užsiprenumeravo jūsų fanų klubo planą {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} atsiskaitymo laikotarpio pabaigoje jūsų fanų klubo planas {planName} bus paliktas.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Naujas komentaras "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} pakomentavo jūsų istoriją: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Pradėkite rašyti!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Eiti į istoriją',
+  'notificationExtra.fanClub.manage': 'Valdykite gerbėjų klubą',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Bendruomenė',
   'notifications.menu.reading': 'Skaitymas ir biblioteka',

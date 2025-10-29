@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Genaktiver forummer',
   'forums.unArchive.success': 'Forummet er blevet genaktiveret!',
   'forums.universeTitle': 'Universets fora for {universeName}',
-  'forums.yourMessage': 'Din besked'
+  'forums.yourMessage': 'Din besked',
+  // Q&A threads
+  'forums.thread.answered': 'Besvaret',
+  'forums.post.selectedAnswer': 'Udvalgt svar',
+  'forums.post.selectAsAnswer': 'Vælg som svar',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Hvem kan oprette tråde',
+  'forums.category.postingPermission.everyone': 'Alle sammen',
+  'forums.category.postingPermission.owner': 'Kun forummets ejer',
+  // System Posts
+  'forums.settings.systemPosts': 'Systemposter',
+  'forums.settings.systemPosts.description': 'Konfigurer automatisk udstationering af systemgenereret indhold på dit forum.',
+  'forums.settings.systemPosts.blogs': 'Blogindlæg',
+  'forums.settings.systemPosts.blogs.enable': 'Opret automatisk forumtråde til nye blogindlæg',
+  'forums.settings.systemPosts.blogs.category': 'Indlæg til kategori:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Vælg en kategori...'
 };

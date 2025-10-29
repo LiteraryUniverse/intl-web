@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'הפורומים הופעלו מחדש',
   'forums.unArchive.success': 'הפורום הופעל מחדש!',
   'forums.universeTitle': 'פורומים של Universe עבור {universeName}',
-  'forums.yourMessage': 'הודעתך'
+  'forums.yourMessage': 'הודעתך',
+  // Q&A threads
+  'forums.thread.answered': 'נענה',
+  'forums.post.selectedAnswer': 'תשובה נבחרת',
+  'forums.post.selectAsAnswer': 'בחר כתשובה',
+  // Category posting permissions
+  'forums.category.postingPermission': 'מי יכול ליצור שרשורים',
+  'forums.category.postingPermission.everyone': 'כולם',
+  'forums.category.postingPermission.owner': 'בעל הפורום בלבד',
+  // System Posts
+  'forums.settings.systemPosts': 'פוסטים במערכת',
+  'forums.settings.systemPosts.description': 'הגדר פרסום אוטומטי של תוכן שנוצר על ידי המערכת בפורום שלך.',
+  'forums.settings.systemPosts.blogs': 'פוסטים בבלוג',
+  'forums.settings.systemPosts.blogs.enable': 'יצירת שרשורים בפורום באופן אוטומטי עבור פוסטים חדשים בבלוג',
+  'forums.settings.systemPosts.blogs.category': 'פרסם בקטגוריה:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'בחר קטגוריה...'
 };

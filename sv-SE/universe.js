@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Dölj fanfiction',
     'universe.fanFiction.unhide': 'Visa fanfiction igen',
     'universe.fanFiction.create': 'Skapa ny fan fiction',
-    'universe.fanFiction.notAllowed': 'Detta universum tillåter inte visning av fanfiction.'
+    'universe.fanFiction.notAllowed': 'Detta universum tillåter inte visning av fanfiction.',
+    'universe.storiesCount': 'Totalt antal berättelser i universum',
+    'universe.createdAt': 'Skapad: {date}',
+    'universe.authors.none': 'Ingen information om författare tillgänglig.'
 };

@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'Töltsön többet',
     'blog.qa.warn.luRequired': 'Itt csak LU előfizetők tehetnek fel kérdéseket.',
     'blog.qa.warn.fanClubRequired': 'Itt csak rajongói klubtagok tehetnek fel kérdéseket.',
-    'blog.qa.warn.luOrFanRequired': 'Itt csak LU előfizetők vagy rajongói klubtagok tehetnek fel kérdéseket.'
+    'blog.qa.warn.luOrFanRequired': 'Itt csak LU előfizetők vagy rajongói klubtagok tehetnek fel kérdéseket.',
+    // Blog post discussions
+    'blogs.discussion': 'Megbeszélés',
+    'blogs.discussionOnForum': 'A vita erről a blogbejegyzésről folytatódik a fórumainkon.',
+    'blogs.joinDiscussion': 'Csatlakozzon a vitához'
 };

@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Réactiver les forums',
   'forums.unArchive.success': 'Le forum a été réactivé !',
   'forums.universeTitle': 'Forums de l\'Univers pour {universeName}',
-  'forums.yourMessage': 'Votre message'
+  'forums.yourMessage': 'Votre message',
+  // Q&A threads
+  'forums.thread.answered': 'Répondu',
+  'forums.post.selectedAnswer': 'Réponse sélectionnée',
+  'forums.post.selectAsAnswer': 'Sélectionnez comme réponse',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Qui peut créer des fils de discussion ?',
+  'forums.category.postingPermission.everyone': 'Tout le monde',
+  'forums.category.postingPermission.owner': 'Propriétaire du forum uniquement',
+  // System Posts
+  'forums.settings.systemPosts': 'Postes du système',
+  'forums.settings.systemPosts.description': 'Configurez la publication automatique du contenu généré par le système sur votre forum.',
+  'forums.settings.systemPosts.blogs': 'Articles de blog',
+  'forums.settings.systemPosts.blogs.enable': 'Créer automatiquement des fils de discussion pour les nouveaux articles de blog',
+  'forums.settings.systemPosts.blogs.category': 'Post to category :',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Sélectionnez une catégorie...'
 };

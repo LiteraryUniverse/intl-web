@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Aktiveeri foorumid uuesti',
   'forums.unArchive.success': 'Foorum on uuesti aktiveeritud!',
   'forums.universeTitle': 'Universumi foorumid {universeName}',
-  'forums.yourMessage': 'Sinu sõnum'
+  'forums.yourMessage': 'Sinu sõnum',
+  // Q&A threads
+  'forums.thread.answered': 'Vastatud',
+  'forums.post.selectedAnswer': 'Valitud vastus',
+  'forums.post.selectAsAnswer': 'Valige vastusena',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Kes saab luua teemasid',
+  'forums.category.postingPermission.everyone': 'Kõik',
+  'forums.category.postingPermission.owner': 'Ainult foorumi omanik',
+  // System Posts
+  'forums.settings.systemPosts': 'Süsteemi ametikohad',
+  'forums.settings.systemPosts.description': 'Seadistage süsteemi loodud sisu automaatne postitamine foorumisse.',
+  'forums.settings.systemPosts.blogs': 'Blogipostitused',
+  'forums.settings.systemPosts.blogs.enable': 'Automaatselt luua foorumi teemad uute blogipostituste jaoks',
+  'forums.settings.systemPosts.blogs.category': 'Postitus kategooriasse:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Valige kategooria...'
 };

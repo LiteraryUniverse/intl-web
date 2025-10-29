@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'har skickat en vänförfrågan.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} prenumererar på din fan club plan {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} kommer att lämna din fanclub-plan {planName} i slutet av faktureringsperioden.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Ny kommentar till "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} kommenterade din berättelse: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Börja skriva!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Gå till berättelse',
+  'notificationExtra.fanClub.manage': 'Hantera fanclub',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Gemenskap',
   'notifications.menu.reading': 'Läsning & bibliotek',

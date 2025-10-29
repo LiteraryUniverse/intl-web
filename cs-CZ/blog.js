@@ -116,5 +116,9 @@ export default {
     'blog.qa.loadMore': 'Načíst více',
     'blog.qa.warn.luRequired': 'Otázky zde mohou pokládat pouze předplatitelé LU.',
     'blog.qa.warn.fanClubRequired': 'Otázky zde mohou pokládat pouze členové fanklubu.',
-    'blog.qa.warn.luOrFanRequired': 'Otázky zde mohou pokládat pouze předplatitelé LU nebo členové fanklubu.'
+    'blog.qa.warn.luOrFanRequired': 'Otázky zde mohou pokládat pouze předplatitelé LU nebo členové fanklubu.',
+    // Blog post discussions
+    'blogs.discussion': 'Diskuse',
+    'blogs.discussionOnForum': 'Diskuse k tomuto příspěvku na blogu pokračuje na našem fóru.',
+    'blogs.joinDiscussion': 'Připojte se k diskusi'
 };

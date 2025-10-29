@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': '가장 최근 장을 읽으세요',
     'discovery.author': '작성자',
     'discovery.aiGenerated': 'AI 생성',
-    // New AI content related strings
+    'discovery.isAIGenerated': '이 작업은 AI에 의해 생성되었습니다.',
+    // AI content related strings
     'discovery.ai.content': 'AI 생성 콘텐츠',
     'discovery.ai.universes': 'AI 생성 유니버스',
     'discovery.ai.stories': 'AI가 생성한 스토리',

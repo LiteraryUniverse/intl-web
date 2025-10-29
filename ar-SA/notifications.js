@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'أرسل لك طلب صداقة.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} اشترك في خطة نادي المعجبين {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} ستترك خطة نادي المعجبين {planName} في نهاية فترة الفوترة.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'تعليق جديد على "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} علّق على قصتك "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'ابدأ الكتابة!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'الانتقال إلى القصة',
+  'notificationExtra.fanClub.manage': 'إدارة نادي المعجبين',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'المجتمع',
   'notifications.menu.reading': 'القراءة والمكتبة',

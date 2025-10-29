@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'อ่านตอนล่าสุด',
     'discovery.author': 'Author',
     'discovery.aiGenerated': 'AI Generated',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'ผลงานนี้สร้างขึ้นโดยปัญญาประดิษฐ์',
+    // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',

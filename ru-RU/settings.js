@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Удалить мою учётную запись',
     'settings.legal.title': 'Соглашения о согласии с пользователем',
     'settings.legal.explained': 'Здесь вы можете управлять своим согласием с различными юридическими документами.',
+    'settings.legal.analytics.title': 'Аналитика и отслеживание',
+    'settings.legal.analytics.description': 'Вы можете контролировать сервисы аналитики и отслеживания, используемые на Literary Universe. В этом разделе будут перечислены все сервисы по мере их добавления.',
+    'settings.legal.analytics.ostrio': 'Чтобы отключить отслеживание Ostrio Analytics, посетите их страницу отказа от использования:',
+    'settings.legal.analytics.ostrioOptOut': 'Управление отказом от услуг Ostrio Analytics',
+    'settings.legal.analytics.future': 'Мы включим сюда дополнительных провайдеров, таких как Google Analytics или Seznam, как только они будут включены.',
     'settings.name.private': 'Имя будет скрыто',
     'settings.emailSubscriptions.title': 'Настройки почтовых уведомлений',
     'settings.emailSubscriptions.explain': 'Выберите, какие уведомления по электронной почте вы хотите получать от нас.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Информация о новых возможностях',
     'settings.emailNotifications.title': 'Уведомления',
     'settings.emailNotifications.pm': 'Новые сообщения',
-    'settings.emailNotifications.newChapters': 'Новые главы',
+    'settings.emailNotifications.newChapters': 'Новые главы из историй, за которыми Вы следите',
+    'settings.emailNotifications.newStories': 'Новые истории во вселенных или от авторов, за которыми Вы следите',
+    'settings.emailNotifications.newUniverses': 'Новые вселенные от авторов, за которыми вы следите',
     'settings.resetPasswordEmailSend': 'Мы выслали вам инструкции по восстановлению пароля на вашу электронную почту.',
     'settings.theme.title': 'Темы сайта',
     'settings.theme.label': 'Тема',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Введите список тегов, разделенных запятыми',
     'settings.interests.tags.placeholder': 'Добавить теги',
     'settings.interests.avoidGenres.help': 'Выберите жанры, которые Вы бы предпочли не видеть в рекомендациях.',
-    'settings.interests.avoidGenres': 'Жанры, которых следует избегать'
+    'settings.interests.avoidGenres': 'Жанры, которых следует избегать',
+    'settings.notifications': 'Уведомления и информационные бюллетени'
 };

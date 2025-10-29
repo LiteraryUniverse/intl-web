@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Hide fanfiction',
     'universe.fanFiction.unhide': 'Unhide fanfiction',
     'universe.fanFiction.create': 'co\'e finti lo fanva be lo nu fanva',
-    'universe.fanFiction.notAllowed': 'Ti munje cu na permetas lo nu se dunda la fanva be fi lo fanva fiksi.'
+    'universe.fanFiction.notAllowed': 'Ti munje cu na permetas lo nu se dunda la fanva be fi lo fanva fiksi.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Slėpti fanfikciją',
     'universe.fanFiction.unhide': 'Rodyti fanfikciją',
     'universe.fanFiction.create': 'Kurti naują fanų kūrinį',
-    'universe.fanFiction.notAllowed': 'Šis Visata neleidžia rodyti fanų kūrybos.'
+    'universe.fanFiction.notAllowed': 'Šis Visata neleidžia rodyti fanų kūrybos.',
+    'universe.storiesCount': 'Bendras istorijų skaičius visatoje',
+    'universe.createdAt': 'Sukurta: {date}',
+    'universe.authors.none': 'Informacijos apie autorius nėra.'
 };

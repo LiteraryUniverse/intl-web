@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Slet min konto',
     'settings.legal.title': 'Brugeraftaler om samtykke',
     'settings.legal.explained': 'Her kan du administrere dit samtykke til forskellige juridiske dokumenter.',
+    'settings.legal.analytics.title': 'Analyse og sporing',
+    'settings.legal.analytics.description': 'Du kan kontrollere de analyse- og sporingstjenester, der bruges på Literary Universe. Dette afsnit vil indeholde en liste over alle tjenester, efterhånden som vi tilføjer dem.',
+    'settings.legal.analytics.ostrio': 'For at deaktivere Ostrio Analytics-sporing skal du besøge deres opt-out-side:',
+    'settings.legal.analytics.ostrioOptOut': 'Administrer fravalg af Ostrio Analytics',
+    'settings.legal.analytics.future': 'Vi vil inkludere yderligere udbydere, såsom Google Analytics eller Seznam, her, når de er aktiveret.',
     'settings.name.private': 'Navn vil være privat',
     'settings.emailSubscriptions.title': 'Indstillinger for e-mailnotifikationer',
     'settings.emailSubscriptions.explain': 'Vælg, hvilke e-mailnotifikationer du vil modtage fra os.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Information om nye funktioner',
     'settings.emailNotifications.title': 'Notifikationer',
     'settings.emailNotifications.pm': 'Nye beskeder',
-    'settings.emailNotifications.newChapters': 'Nye kapitler',
+    'settings.emailNotifications.newChapters': 'Nye kapitler fra historier, du følger',
+    'settings.emailNotifications.newStories': 'Nye historier i universer eller fra forfattere, du følger',
+    'settings.emailNotifications.newUniverses': 'Nye universer fra forfattere, du følger',
     'settings.resetPasswordEmailSend': 'Vi har sendt dig instruktioner om, hvordan du nulstiller din adgangskode til din e-mail.',
     'settings.theme.title': 'Websteds-tema',
     'settings.theme.label': 'Websteds-tema',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Indtast kommasepareret liste over tags',
     'settings.interests.tags.placeholder': 'Tilføj tags',
     'settings.interests.avoidGenres.help': 'Vælg de genrer, du helst ikke vil se i anbefalingerne.',
-    'settings.interests.avoidGenres': 'Genrer, der skal undgås'
+    'settings.interests.avoidGenres': 'Genrer, der skal undgås',
+    'settings.notifications': 'Meddelelser og nyhedsbreve'
 };

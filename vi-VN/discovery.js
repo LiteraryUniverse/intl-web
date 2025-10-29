@@ -62,7 +62,8 @@ export default {
     'discovery.readLatest': 'Đọc chương mới nhất',
     'discovery.author': 'Author',
     'discovery.aiGenerated': 'AI Generated',
-    // New AI content related strings
+    'discovery.isAIGenerated': 'Công việc này được tạo ra bởi trí tuệ nhân tạo.',
+    // AI content related strings
     'discovery.ai.content': 'AI-Generated Content',
     'discovery.ai.universes': 'AI-Generated Universes',
     'discovery.ai.stories': 'AI-Generated Stories',

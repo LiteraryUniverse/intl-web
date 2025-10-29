@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Sveiki, keliautojai, atėjo sausainių metas! 🍪",
+    "description": "Mes nenaudojame slapukų, išskyrus būtinus funkcinius slapukus. Tačiau analitiniais tikslais naudojame kitas funkcijas, kurioms reikia jūsų sutikimo.",
+    "acceptAllBtn": "Priimti visus 🙏",
+    "acceptNecessaryBtn": "Atmesti visus 🙅",
+    "showPreferencesBtn": "Tvarkyti nuostatas 🔧",
+    "footer": "<a href=\"/privacy\">Privatumo politika</a>\n<a href=\"/tos\">Terminai ir sąlygos</a>"
+  },
+  "preferencesModal": {
+    "title": "Sutikimo nuostatų centras",
+    "acceptAllBtn": "Priimti visus 🙏",
+    "acceptNecessaryBtn": "Atmesti visus 🙅",
+    "savePreferencesBtn": "Išsaugoti nuostatas 💾",
+    "closeIconLabel": "Uždaryti modalinį langą",
+    "serviceCounterLabel": "Paslauga|Paslaugos",
+    "sections": [
+      {
+        "title": "Slapukų naudojimas 🍪",
+        "description": "Šioje svetainėje naudojami tik būtiniausi slapukai, reikalingi pagrindinėms funkcijoms atlikti. Jums leidus, mes taip pat atliekame analizę, kad suprastume naudojimą ir patobulintume \"Literary Universe\". Mūsų analitika nėra pagrįsta slapukais, tačiau ji gali naudoti panašias technologijas arba internetinius identifikatorius, todėl tam tikrose jurisdikcijose reikalingas jūsų sutikimas."
+      },
+      {
+        "title": "Griežtai būtini slapukai <span class=\"pm__badge\">visada įjungti</span>",
+        "description": "Šiuos slapukus teikia mūsų prieglobos ir mokėjimo paslaugų teikėjas, kuris užtikrina, kad programa veiktų tinkamai ir galėtumėte prisijungti.",
+        "linkedCategory": "būtina"
+      },
+      {
+        "title": "Analizė 📊",
+        "description": "Naudojame įvairias analizės paslaugas, kad gautume informacijos apie tai, kaip naudojatės mūsų svetaine, ir pagerintume savo reklamos pastangas.\n<ul>\n<li>Analizė<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io)</a>: Matuojame svetainės naudojimą, našumą ir klaidas, kad pagerintume \"Literarinę visatą\". Analitikai slapukai nenustatomi, tačiau gali būti tvarkomi riboti techniniai duomenys ir identifikatoriai. Reikalingas sutikimas.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Padeda mums įvertinti kampanijas ir rodyti atitinkamas reklamas apie \"Literary Universe\" kitose svetainėse. Mūsų svetainėje šiam tikslui slapukai nenustatomi, tačiau gali būti naudojamos panašios technologijos ar identifikatoriai. Reikalingas sutikimas.</li>\n</ul>",
+        "linkedCategory": "analizė"
+      },
+      {
+        "title": "Daugiau informacijos",
+        "description": "Daugiau informacijos apie mūsų privatumo politiką, sekimo paslaugas (įskaitant individualius nustatymus) ir susijusią informaciją rasite mūsų <a class=\"cc__link\" href=\"/privacy\">privatumo politikos puslapyje</a>."
+      }
+    ]
+  }
+}

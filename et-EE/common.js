@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'Lohistage failid siia või klõpsake failide valimiseks.',
     'common.orgs': 'Organizations',
     'universe.cover.alt': 'Universumi kaanepilt {story}.',
-    'common.license': 'Litsents'
+    'common.license': 'Litsents',
+    'common.new': 'Uus'
 };

@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'הסתר פאנפיקשן',
     'universe.fanFiction.unhide': 'הצג פאנפיקשן',
     'universe.fanFiction.create': 'צור סיפור מדע בדיוני חדש',
-    'universe.fanFiction.notAllowed': 'היקום הזה אינו מאפשר להציג סיפורי מעריצים.'
+    'universe.fanFiction.notAllowed': 'היקום הזה אינו מאפשר להציג סיפורי מעריצים.',
+    'universe.storiesCount': 'מספר הסיפורים הכולל ביקום',
+    'universe.createdAt': 'נוצר: {date}',
+    'universe.authors.none': 'אין מידע זמין על המחברים.'
 };

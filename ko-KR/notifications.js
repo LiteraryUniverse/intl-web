@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': '친구 요청을 보냈습니다.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} 팬클럽 플랜에 가입했습니다 {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} 결제 기간이 끝나면 팬클럽 요금제 {planName} 에서 탈퇴합니다.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': '새 댓글 "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} 귀하의 스토리에 댓글을 달았습니다: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': '글쓰기를 시작하세요!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': '이야기로 이동',
+  'notificationExtra.fanClub.manage': '팬클럽 관리',
   // UI strings for enhanced notifications
   'notifications.menu.community': '커뮤니티',
   'notifications.menu.reading': '독서 및 라이브러리',

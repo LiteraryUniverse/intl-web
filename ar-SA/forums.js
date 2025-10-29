@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'إعادة تنشيط المنتديات',
   'forums.unArchive.success': 'تم إعادة تنشيط المنتدى!',
   'forums.universeTitle': 'منتديات الكون {universeName}',
-  'forums.yourMessage': 'رسالتك'
+  'forums.yourMessage': 'رسالتك',
+  // Q&A threads
+  'forums.thread.answered': 'تمت الإجابة',
+  'forums.post.selectedAnswer': 'إجابة مختارة',
+  'forums.post.selectAsAnswer': 'اختر كإجابة',
+  // Category posting permissions
+  'forums.category.postingPermission': 'من يمكنه إنشاء المواضيع',
+  'forums.category.postingPermission.everyone': 'الجميع',
+  'forums.category.postingPermission.owner': 'مالك المنتدى فقط',
+  // System Posts
+  'forums.settings.systemPosts': 'وظائف النظام',
+  'forums.settings.systemPosts.description': 'قم بتكوين النشر التلقائي للمحتوى الذي تم إنشاؤه بواسطة النظام إلى منتداك.',
+  'forums.settings.systemPosts.blogs': 'منشورات المدونة',
+  'forums.settings.systemPosts.blogs.enable': 'إنشاء سلاسل رسائل المنتدى تلقائيًا لمنشورات المدونة الجديدة',
+  'forums.settings.systemPosts.blogs.category': 'نشر إلى الفئة:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'اختر فئة...'
 };

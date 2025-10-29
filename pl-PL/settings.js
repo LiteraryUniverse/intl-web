@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Usuń moje konto',
     'settings.legal.title': 'Zgody',
     'settings.legal.explained': 'Tutaj możesz zarządzać swoimi zgodami na różne dokumenty prawne.',
+    'settings.legal.analytics.title': 'Analityka i śledzenie',
+    'settings.legal.analytics.description': 'Mogą Państwo kontrolować usługi analityczne i śledzące używane w Literary Universe. W tej sekcji znajdą Państwo listę wszystkich usług w miarę ich dodawania.',
+    'settings.legal.analytics.ostrio': 'Aby wyłączyć śledzenie Ostrio Analytics, proszę odwiedzić stronę rezygnacji:',
+    'settings.legal.analytics.ostrioOptOut': 'Zarządzanie rezygnacją z Ostrio Analytics',
+    'settings.legal.analytics.future': 'Uwzględnimy tutaj dodatkowych dostawców, takich jak Google Analytics lub Seznam, gdy tylko zostaną włączeni.',
     'settings.name.private': 'Nazwa pozostanie prywatna',
     'settings.emailSubscriptions.title': 'Ustawienia powiadomień e-mail',
     'settings.emailSubscriptions.explain': 'Wybierz, które z powiadomień e-mail chcesz od nas otrzymywać.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informacje o nowych funkcjach',
     'settings.emailNotifications.title': 'Powiadomienia',
     'settings.emailNotifications.pm': 'Nowe wiadomości',
-    'settings.emailNotifications.newChapters': 'Nowe rozdziały',
+    'settings.emailNotifications.newChapters': 'Nowe rozdziały śledzonych przez Państwa historii',
+    'settings.emailNotifications.newStories': 'Nowe historie w uniwersach lub od autorów, których śledzą Państwo na bieżąco',
+    'settings.emailNotifications.newUniverses': 'Nowe uniwersa od autorów, których Państwo śledzą',
     'settings.resetPasswordEmailSend': 'Na Twój adres e-mail wysłaliśmy instrukcję, jak zresetować hasło.',
     'settings.theme.title': 'Dostosowanie witryny',
     'settings.theme.label': 'Motyw witryny',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Proszę wprowadzić listę tagów oddzielonych przecinkami',
     'settings.interests.tags.placeholder': 'Proszę dodać tagi',
     'settings.interests.avoidGenres.help': 'Proszę wybrać gatunki, których nie chcą Państwo widzieć w rekomendacjach.',
-    'settings.interests.avoidGenres': 'Gatunki, których należy unikać'
+    'settings.interests.avoidGenres': 'Gatunki, których należy unikać',
+    'settings.notifications': 'Powiadomienia i biuletyny'
 };

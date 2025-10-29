@@ -115,5 +115,9 @@ export default {
     'blog.qa.loadMore': 'تحميل المزيد',
     'blog.qa.warn.luRequired': 'يمكن لمشتركي LU فقط طرح الأسئلة هنا.',
     'blog.qa.warn.fanClubRequired': 'يمكن لأعضاء نادي المعجبين فقط طرح الأسئلة هنا.',
-    'blog.qa.warn.luOrFanRequired': 'يمكن لمشتركي LU أو أعضاء نادي المعجبين فقط طرح الأسئلة هنا.'
+    'blog.qa.warn.luOrFanRequired': 'يمكن لمشتركي LU أو أعضاء نادي المعجبين فقط طرح الأسئلة هنا.',
+    // Blog post discussions
+    'blogs.discussion': 'المناقشة',
+    'blogs.discussionOnForum': 'يستمر النقاش حول هذه التدوينة على منتدياتنا.',
+    'blogs.joinDiscussion': 'انضم إلى المناقشة'
 };

@@ -315,5 +315,6 @@ export default {
     'upload.dragAndDrop': 'ここにファイルをドラッグ＆ドロップするか、クリックしてファイルを選択します。',
     'common.orgs': '組織',
     'universe.cover.alt': '{story}。',
-    'common.license': 'ライセンス'
+    'common.license': 'ライセンス',
+    'common.new': '新しい'
 };

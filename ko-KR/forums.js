@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': '포럼 다시 활성화',
   'forums.unArchive.success': '포럼이 다시 활성화되었습니다!',
   'forums.universeTitle': '유니버스 포럼 {universeName}',
-  'forums.yourMessage': '당신의 메시지'
+  'forums.yourMessage': '당신의 메시지',
+  // Q&A threads
+  'forums.thread.answered': '답변됨',
+  'forums.post.selectedAnswer': '선택된 답변',
+  'forums.post.selectAsAnswer': '답변으로 선택',
+  // Category posting permissions
+  'forums.category.postingPermission': '스레드를 만들 수 있는 사람',
+  'forums.category.postingPermission.everyone': '모두',
+  'forums.category.postingPermission.owner': '포럼 소유자 전용',
+  // System Posts
+  'forums.settings.systemPosts': '시스템 게시물',
+  'forums.settings.systemPosts.description': '시스템에서 생성된 콘텐츠를 포럼에 자동으로 게시하도록 구성합니다.',
+  'forums.settings.systemPosts.blogs': '블로그 게시물',
+  'forums.settings.systemPosts.blogs.enable': '새 블로그 게시물에 대한 포럼 스레드 자동 생성',
+  'forums.settings.systemPosts.blogs.category': '카테고리에 게시합니다:',
+  'forums.settings.systemPosts.blogs.selectCategory': '카테고리 선택...'
 };

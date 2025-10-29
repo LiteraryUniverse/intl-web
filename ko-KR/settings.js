@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': '계정 삭제',
     'settings.legal.title': '사용자 동의 약관',
     'settings.legal.explained': '다양한 법적 문서에 대한 동의를 관리할 수 있습니다.',
+    'settings.legal.analytics.title': '분석 및 추적',
+    'settings.legal.analytics.description': '문학세계에서 사용되는 분석 및 추적 서비스를 제어할 수 있습니다. 이 섹션에는 서비스를 추가할 때마다 모든 서비스가 나열됩니다.',
+    'settings.legal.analytics.ostrio': '오스트리오 애널리틱스 추적을 비활성화하려면 해당 옵트아웃 페이지를 방문하세요:',
+    'settings.legal.analytics.ostrioOptOut': '오스트리오 애널리틱스 옵트아웃 관리',
+    'settings.legal.analytics.future': 'Google 애널리틱스나 세즈남과 같은 추가 제공업체가 활성화되면 여기에 포함할 예정입니다.',
     'settings.name.private': '이름은 비공개됩니다',
     'settings.emailSubscriptions.title': '이메일 알림 설정',
     'settings.emailSubscriptions.explain': '우리로부터 받고 싶은 이메일 알림을 선택하세요.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': '새로운 기능에 대한 정보',
     'settings.emailNotifications.title': '알림',
     'settings.emailNotifications.pm': '새로운 메시지',
-    'settings.emailNotifications.newChapters': '새로운 장(chapter)',
+    'settings.emailNotifications.newChapters': '팔로우하는 스토리의 새로운 챕터',
+    'settings.emailNotifications.newStories': '유니버스의 새로운 스토리 또는 팔로우하는 작가의 새로운 스토리',
+    'settings.emailNotifications.newUniverses': '팔로우하는 작가의 새로운 세계관',
     'settings.resetPasswordEmailSend': '비밀번호 재설정 방법에 대한 안내 메일을 보냈습니다.',
     'settings.theme.title': '사이트 테마 설정',
     'settings.theme.label': '사이트 테마',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': '쉼표로 구분된 태그 목록 입력',
     'settings.interests.tags.placeholder': '태그 추가',
     'settings.interests.avoidGenres.help': '추천에서 표시하지 않으려는 장르를 선택합니다.',
-    'settings.interests.avoidGenres': '피해야 할 장르'
+    'settings.interests.avoidGenres': '피해야 할 장르',
+    'settings.notifications': '알림 및 뉴스레터'
 };

@@ -22,6 +22,8 @@ export default {
   // Before this text will be the username of the user
   'notification.friendRequest': 'lähetti sinulle kaveripyyntö.',
   // Before this text will be the username of the user
+  'notification.fanClub.newSubscriber': '{subscriberName} tilannut faniklubisi suunnitelman {planName}.',
+  'notification.fanClub.subscriptionEnded': '{subscriberName} jättää faniklubisuunnitelmasi {planName} laskutuskauden lopussa.',
   // Story notification messages - In-app notifications
   'notification.story.newComment.subject': 'Uusi kommentti aiheesta "{storyTitle}"',
   'notification.story.newComment.body': '{commenterName} kommentoi tarinaasi: "{commentText}"',
@@ -82,6 +84,7 @@ export default {
   'notification.welcome.cta.writer': 'Aloita kirjoittaminen!',
   // Strings for extra section
   'notificationExtra.workshopStoryStatus.goToStory': 'Siirry tarinaan',
+  'notificationExtra.fanClub.manage': 'Hallitse faniklubia',
   // UI strings for enhanced notifications
   'notifications.menu.community': 'Yhteisö',
   'notifications.menu.reading': 'Lukeminen & kirjasto',

@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'கதைகளை மறைக்க',
     'universe.fanFiction.unhide': 'கதைகளை காட்டு',
     'universe.fanFiction.create': 'புதிய புனைப்பட கதையை உருவாக்குங்கள்',
-    'universe.fanFiction.notAllowed': 'இந்த உலகம் பக்கம் உரையாற்ற அனுமதிக்காது.'
+    'universe.fanFiction.notAllowed': 'இந்த உலகம் பக்கம் உரையாற்ற அனுமதிக்காது.',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

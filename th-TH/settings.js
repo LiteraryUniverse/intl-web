@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'ลบบัญชีของฉัน',
     'settings.legal.title': 'ข้อตกลงความยินยอมของผู้ใช้',
     'settings.legal.explained': 'ที่นี่คุณสามารถจัดการข้อตกลงต่างๆ ทางกฎหมายได้',
+    'settings.legal.analytics.title': 'การวิเคราะห์และการติดตาม',
+    'settings.legal.analytics.description': 'คุณสามารถควบคุมบริการวิเคราะห์และติดตามที่ใช้บน Literary Universe ได้ ส่วนนี้จะแสดงรายการบริการทั้งหมดเมื่อเราเพิ่มบริการใหม่',
+    'settings.legal.analytics.ostrio': 'หากต้องการปิดการติดตามของ Ostrio Analytics กรุณาไปที่หน้ายกเลิกการเข้าร่วมของพวกเขา:',
+    'settings.legal.analytics.ostrioOptOut': 'จัดการการยกเลิกการเข้าร่วม Ostrio Analytics',
+    'settings.legal.analytics.future': 'เราจะเพิ่มผู้ให้บริการเพิ่มเติม เช่น Google Analytics หรือ Seznam ที่นี่เมื่อมีการเปิดใช้งานแล้ว',
     'settings.name.private': 'ชื่อจะเป็นส่วนตัว',
     'settings.emailSubscriptions.title': 'การตั้งค่าการแจ้งเตือนทางอีเมล',
     'settings.emailSubscriptions.explain': 'เลือกการแจ้งเตือนทางอีเมลที่คุณต้องการรับจากเรา',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'ข้อมูลเกี่ยวกับคุณลักษณะใหม่',
     'settings.emailNotifications.title': 'การแจ้งเตือน',
     'settings.emailNotifications.pm': 'ข้อความใหม่',
-    'settings.emailNotifications.newChapters': 'บทใหม่',
+    'settings.emailNotifications.newChapters': 'บทใหม่จากเรื่องราวที่คุณติดตาม',
+    'settings.emailNotifications.newStories': 'เรื่องราวใหม่ในจักรวาลหรือจากนักเขียนที่คุณติดตาม',
+    'settings.emailNotifications.newUniverses': 'จักรวาลใหม่จากนักเขียนที่คุณติดตาม',
     'settings.resetPasswordEmailSend': 'เราได้ส่งคำแนะนำในการรีเซ็ตรหัสผ่านไปยังอีเมลของคุณแล้ว',
     'settings.theme.title': 'การจัดรูปแบบเว็บไซต์',
     'settings.theme.label': 'ธีมของเว็บไซต์',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-    'settings.interests.avoidGenres': 'Genres to avoid'
+    'settings.interests.avoidGenres': 'Genres to avoid',
+    'settings.notifications': 'การแจ้งเตือนและจดหมายข่าว'
 };

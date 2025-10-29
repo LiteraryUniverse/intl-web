@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Ẩn fanfiction',
     'universe.fanFiction.unhide': 'Hiện fanfiction',
     'universe.fanFiction.create': 'Tạo fan fiction mới',
-    'universe.fanFiction.notAllowed': 'Vũ trụ này không cho phép hiển thị fan fiction.'
+    'universe.fanFiction.notAllowed': 'Vũ trụ này không cho phép hiển thị fan fiction.',
+    'universe.storiesCount': 'Tổng số câu chuyện trong vũ trụ',
+    'universe.createdAt': 'Tạo bởi: {date}',
+    'universe.authors.none': 'Không có thông tin về tác giả.'
 };

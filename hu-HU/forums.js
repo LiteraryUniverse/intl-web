@@ -65,5 +65,20 @@ export default {
   'forums.unArchive': 'Fórum újraaktiválása',
   'forums.unArchive.success': 'A fórum újraaktiválva!',
   'forums.universeTitle': 'Univerzum fórumok a {universeName}oldalon',
-  'forums.yourMessage': 'Az üzeneted'
+  'forums.yourMessage': 'Az üzeneted',
+  // Q&A threads
+  'forums.thread.answered': 'Válaszolt',
+  'forums.post.selectedAnswer': 'Kiválasztott válasz',
+  'forums.post.selectAsAnswer': 'Válaszként válassza ki',
+  // Category posting permissions
+  'forums.category.postingPermission': 'Ki hozhat létre szálakat',
+  'forums.category.postingPermission.everyone': 'Mindenki',
+  'forums.category.postingPermission.owner': 'Csak a fórum tulajdonosa',
+  // System Posts
+  'forums.settings.systemPosts': 'Rendszer hozzászólások',
+  'forums.settings.systemPosts.description': 'A rendszer által generált tartalmak automatikus közzététele a fórumon.',
+  'forums.settings.systemPosts.blogs': 'Blogbejegyzések',
+  'forums.settings.systemPosts.blogs.enable': 'Automatikusan hozzon létre fórumtémákat az új blogbejegyzésekhez',
+  'forums.settings.systemPosts.blogs.category': 'Hozzászólás a kategóriához:',
+  'forums.settings.systemPosts.blogs.selectCategory': 'Válasszon ki egy kategóriát...'
 };

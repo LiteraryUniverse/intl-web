@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Witaj podróżniku, czas na ciasteczka! 🍪",
+    "description": "Nie używamy plików cookie poza niezbędnymi plikami funkcjonalnymi. Mamy jednak inne funkcje do celów analitycznych, na które potrzebujemy Państwa zgody.",
+    "acceptAllBtn": "Proszę zaakceptować wszystkie 🙏",
+    "acceptNecessaryBtn": "Proszę odrzucić wszystkie 🙅",
+    "showPreferencesBtn": "Zarządzanie preferencjami 🔧",
+    "footer": "<a href=\"/privacy\">Polityka prywatności</a>\n<a href=\"/tos\">Zasady i warunki</a>"
+  },
+  "preferencesModal": {
+    "title": "Centrum preferencji zgody",
+    "acceptAllBtn": "Proszę zaakceptować wszystkie 🙏",
+    "acceptNecessaryBtn": "Proszę odrzucić wszystkie 🙅",
+    "savePreferencesBtn": "Zapisywanie preferencji 💾",
+    "closeIconLabel": "Zamknąć modal",
+    "serviceCounterLabel": "Usługa|Usługi",
+    "sections": [
+      {
+        "title": "Wykorzystanie plików cookie 🍪",
+        "description": "Ta strona internetowa wykorzystuje ściśle niezbędne pliki cookie wymagane do podstawowej funkcjonalności. Za Państwa zgodą prowadzimy również analizy w celu zrozumienia użytkowania i ulepszenia Literary Universe. Nasze analizy nie opierają się na plikach cookie, ale mogą wykorzystywać podobne technologie lub identyfikatory online, a zatem wymagają Państwa zgody w niektórych jurysdykcjach."
+      },
+      {
+        "title": "Niezbędne pliki cookie <span class=\"pm__badge\">zawsze włączone</span>",
+        "description": "Te pliki cookie pochodzą od naszego dostawcy usług hostingowych i płatniczych, które zapewniają prawidłowe działanie aplikacji i możliwość połączenia.",
+        "linkedCategory": "niezbędny"
+      },
+      {
+        "title": "Analityka 📊",
+        "description": "Korzystamy z różnych usług analitycznych, aby uzyskać informacje o tym, w jaki sposób korzystają Państwo z naszej strony internetowej i poprawić nasze działania reklamowe.\n<ul>\n<li>Analytics<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Mierzy wykorzystanie witryny, wydajność i błędy w celu ulepszenia Literary Universe. Do celów analitycznych nie są ustawiane żadne pliki cookie, ale mogą być przetwarzane ograniczone dane techniczne i identyfikatory. Wymagana zgoda.</li>\n<li>Retargeting<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Pomaga nam oceniać kampanie i wyświetlać odpowiednie promocje dotyczące Literary Universe na innych stronach internetowych. W tym celu na naszej stronie nie są ustawiane żadne pliki cookie, ale mogą być używane podobne technologie lub identyfikatory. Wymagana zgoda.</li>\n</ul>",
+        "linkedCategory": "analityka"
+      },
+      {
+        "title": "Więcej informacji",
+        "description": "Więcej informacji na temat naszej polityki prywatności, usług śledzenia (w tym indywidualnych ustawień) i powiązanych informacji można znaleźć na naszej <a class=\"cc__link\" href=\"/privacy\">stronie polityki prywatności</a>."
+      }
+    ]
+  }
+}

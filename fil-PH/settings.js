@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Tanggalin ang aking account',
     'settings.legal.title': 'Mga kasunduan sa pagsang-ayon ng user',
     'settings.legal.explained': 'Dito maaari mong pamahalaan ang iyong pagsang-ayon sa iba\'t ibang legal na mga dokumento.',
+    'settings.legal.analytics.title': 'Analytics and tracking',
+    'settings.legal.analytics.description': 'You can control analytics and tracking services used on Literary Universe. This section will list all services as we add them.',
+    'settings.legal.analytics.ostrio': 'To disable Ostrio Analytics tracking, visit their opt-out page:',
+    'settings.legal.analytics.ostrioOptOut': 'Manage Ostrio Analytics opt-out',
+    'settings.legal.analytics.future': 'We will include additional providers, such as Google Analytics or Seznam, here once they are enabled.',
     'settings.name.private': 'Ang pangalan ay magiging pribado',
     'settings.emailSubscriptions.title': 'Mga setting ng mga abiso sa e-mail',
     'settings.emailSubscriptions.explain': 'Pumili kung aling mga abiso sa e-mail ang nais mong matanggap mula sa amin.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Impormasyon tungkol sa mga bagong tampok',
     'settings.emailNotifications.title': 'Mga abiso',
     'settings.emailNotifications.pm': 'Mga bagong mensahe',
-    'settings.emailNotifications.newChapters': 'Mga bagong kabanata',
+    'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
+    'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
+    'settings.emailNotifications.newUniverses': 'New universes from authors you follow',
     'settings.resetPasswordEmailSend': 'Nagpadala kami sa iyo ng mga tagubilin kung paano i-reset ang iyong password sa iyong e-mail.',
     'settings.theme.title': 'Paggawa ng tema ng site',
     'settings.theme.label': 'Tema ng site',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-    'settings.interests.avoidGenres': 'Genres to avoid'
+    'settings.interests.avoidGenres': 'Genres to avoid',
+    'settings.notifications': 'Notifications & newsletters'
 };

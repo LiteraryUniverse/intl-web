@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'བརྗོད་དྲིན་གཏོགས།',
     'universe.fanFiction.unhide': 'བརྗོད་དྲིན་སྲུང་གཏོགས།',
     'universe.fanFiction.create': 'གསར་བསྐྱོད་འགན་སྡུད་གསར་བསྐྱོད་གི་འགྲེལ་བཤད་གསར་བསྐྱོད་གི་ཡིག་ཆ་རྩ་བ་བཞིན་དུ་བཅུག་གི་འགྲེལ་བཤད་གསར་བསྐྱོད་གི་མིག་རྣམ་པར་བསྐྱེད་པ།',
-    'universe.fanFiction.notAllowed': 'སྒྲིག་འཇུག་མེད་པའི་འབྲི་རྩོམ་འདི་བསྐོར་བྱེད་མེད།'
+    'universe.fanFiction.notAllowed': 'སྒྲིག་འཇུག་མེད་པའི་འབྲི་རྩོམ་འདི་བསྐོར་བྱེད་མེད།',
+    'universe.storiesCount': 'Total number of stories in the universe',
+    'universe.createdAt': 'Created: {date}',
+    'universe.authors.none': 'No authors information available.'
 };

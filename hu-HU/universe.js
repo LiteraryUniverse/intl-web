@@ -34,5 +34,8 @@ export default {
     'universe.fanFiction.hide': 'Fanfiction elrejtése',
     'universe.fanFiction.unhide': 'Fanfiction megjelenítése',
     'universe.fanFiction.create': 'Új rajongói történet létrehozása',
-    'universe.fanFiction.notAllowed': 'Ez az Univerzum nem engedi a fan fiction megjelenítését.'
+    'universe.fanFiction.notAllowed': 'Ez az Univerzum nem engedi a fan fiction megjelenítését.',
+    'universe.storiesCount': 'A történetek száma az univerzumban',
+    'universe.createdAt': 'Létrehozva: {date}',
+    'universe.authors.none': 'A szerzőkről nem áll rendelkezésre információ.'
 };
