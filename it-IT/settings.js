@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Elimina il mio profilo',
     'settings.legal.title': 'Accordi di consenso utente',
     'settings.legal.explained': 'Qui puoi gestire i tuoi accordi su vari documenti legali.',
+    'settings.legal.analytics.title': 'Analisi e monitoraggio',
+    'settings.legal.analytics.description': 'Può controllare i servizi di analisi e tracciamento utilizzati su Literary Universe. Questa sezione elencherà tutti i servizi man mano che li aggiungeremo.',
+    'settings.legal.analytics.ostrio': 'Per disattivare il tracciamento di Ostrio Analytics, visiti la pagina di opt-out:',
+    'settings.legal.analytics.ostrioOptOut': 'Gestire l\'opt-out di Ostrio Analytics',
+    'settings.legal.analytics.future': 'Includeremo qui altri fornitori, come Google Analytics o Seznam, una volta abilitati.',
     'settings.name.private': 'Il nome sarà privato',
     'settings.emailSubscriptions.title': 'Impostazioni notifiche e-mail',
     'settings.emailSubscriptions.explain': 'Seleziona quali notifiche e-mail vuoi ricevere da noi.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informazioni sulle nuove funzionalità',
     'settings.emailNotifications.title': 'Notifiche',
     'settings.emailNotifications.pm': 'Nuovi messaggi',
-    'settings.emailNotifications.newChapters': 'Nuovi capitoli',
+    'settings.emailNotifications.newChapters': 'Nuovi capitoli di storie che lei segue',
+    'settings.emailNotifications.newStories': 'Nuove storie in universi o di autori che lei segue',
+    'settings.emailNotifications.newUniverses': 'Nuovi universi di autori che lei segue',
     'settings.resetPasswordEmailSend': 'Abbiamo inviato le istruzioni su come reimpostare la password alla tua e-mail.',
     'settings.theme.title': 'Temi del sito',
     'settings.theme.label': 'Tema sito',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Inserisca un elenco separato da virgole di tag',
     'settings.interests.tags.placeholder': 'Aggiungi tag',
     'settings.interests.avoidGenres.help': 'Selezioni i generi che preferisce non vedere nelle raccomandazioni.',
-    'settings.interests.avoidGenres': 'Generi da evitare'
+    'settings.interests.avoidGenres': 'Generi da evitare',
+    'settings.notifications': 'Notifiche e newsletter'
 };
