@@ -39,6 +39,11 @@ export default {
     'settings.delete.submit': 'Odstrániť môj účet',
     'settings.legal.title': 'Dohody o súhlase používateľa',
     'settings.legal.explained': 'Tu môžete spravovať svoj súhlas s rôznymi právnymi dokumentmi.',
+    'settings.legal.analytics.title': 'Analýza a sledovanie',
+    'settings.legal.analytics.description': 'Môžete ovládať analytické a sledovacie služby používané v službe Literárny vesmír. V tejto časti budú uvedené všetky služby, ktoré pridáme.',
+    'settings.legal.analytics.ostrio': 'Ak chcete vypnúť sledovanie služby Ostrio Analytics, navštívte ich stránku na odhlásenie:',
+    'settings.legal.analytics.ostrioOptOut': 'Správa odhlásenia zo služby Ostrio Analytics',
+    'settings.legal.analytics.future': 'Ďalších poskytovateľov, ako napríklad Google Analytics alebo Seznam, sem zaradíme, keď budú povolení.',
     'settings.name.private': 'Meno bude súkromné',
     'settings.emailSubscriptions.title': 'Nastavenia e-mailových oznámení',
     'settings.emailSubscriptions.explain': 'Vyberte, ktoré e-mailové oznámenia chcete od nás dostávať.',
@@ -66,7 +71,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informácie o nových funkciách',
     'settings.emailNotifications.title': 'Oznámenia',
     'settings.emailNotifications.pm': 'Nové správy',
-    'settings.emailNotifications.newChapters': 'Nová kapitola',
+    'settings.emailNotifications.newChapters': 'Nové kapitoly z príbehov, ktoré sledujete',
+    'settings.emailNotifications.newStories': 'Nové príbehy vo vesmíroch alebo od autorov, ktorých sledujete',
+    'settings.emailNotifications.newUniverses': 'Nové vesmíry od sledovaných autorov',
     'settings.resetPasswordEmailSend': 'Pokyny na obnovenie hesla sme vám poslali na váš e-mail.',
     'settings.theme.title': 'Vzhľad stránky',
     'settings.theme.label': 'Vzhľad stránky',
@@ -135,5 +142,6 @@ export default {
     'settings.interests.tags.custom.help': 'Zadajte zoznam značiek oddelených čiarkou',
     'settings.interests.tags.placeholder': 'Pridať značky',
     'settings.interests.avoidGenres.help': 'Vyberte žánre, ktoré nechcete vidieť v odporúčaniach.',
-    'settings.interests.avoidGenres': 'Žánre, ktorým sa treba vyhnúť'
+    'settings.interests.avoidGenres': 'Žánre, ktorým sa treba vyhnúť',
+    'settings.notifications': 'Oznámenia a bulletiny'
 };
