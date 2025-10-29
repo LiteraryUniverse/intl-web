@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Ta bort mitt konto',
     'settings.legal.title': 'Användarvillkor',
     'settings.legal.explained': 'Här kan du hantera ditt samtycke till olika juridiska dokument.',
+    'settings.legal.analytics.title': 'Analys och spårning',
+    'settings.legal.analytics.description': 'Du kan kontrollera analys- och spårningstjänster som används på Literary Universe. Detta avsnitt kommer att lista alla tjänster när vi lägger till dem.',
+    'settings.legal.analytics.ostrio': 'För att inaktivera Ostrio Analytics spårning, besök deras opt-out sida:',
+    'settings.legal.analytics.ostrioOptOut': 'Hantera borttagning av Ostrio Analytics',
+    'settings.legal.analytics.future': 'Vi kommer att inkludera ytterligare leverantörer, till exempel Google Analytics eller Seznam, här när de är aktiverade.',
     'settings.name.private': 'Namnet kommer att vara privat',
     'settings.emailSubscriptions.title': 'Inställningar för e-postaviseringar',
     'settings.emailSubscriptions.explain': 'Välj vilka e-postaviseringar du vill ta emot från oss.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Information om nya funktioner',
     'settings.emailNotifications.title': 'Notifikationer',
     'settings.emailNotifications.pm': 'Nya meddelanden',
-    'settings.emailNotifications.newChapters': 'Nya kapitel',
+    'settings.emailNotifications.newChapters': 'Nya kapitel från berättelser som du följer',
+    'settings.emailNotifications.newStories': 'Nya berättelser i universum eller från författare som du följer',
+    'settings.emailNotifications.newUniverses': 'Nya universum från författare som du följer',
     'settings.resetPasswordEmailSend': 'Vi har skickat instruktioner till din e-post om hur du återställer ditt lösenord.',
     'settings.theme.title': 'Webbplatsens tema',
     'settings.theme.label': 'Tema',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Ange en kommaseparerad lista med taggar',
     'settings.interests.tags.placeholder': 'Lägg till taggar',
     'settings.interests.avoidGenres.help': 'Välj genrer som du helst inte vill se i rekommendationer.',
-    'settings.interests.avoidGenres': 'Genrer att undvika'
+    'settings.interests.avoidGenres': 'Genrer att undvika',
+    'settings.notifications': 'Meddelanden & nyhetsbrev'
 };
