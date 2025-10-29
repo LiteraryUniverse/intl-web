@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Pueblos',
     'encyclopedia.category.towns': 'Ciudades',
     'encyclopedia.category.cities': 'Ciudades',
+    'encyclopedia.category.settlements': 'Liquidaciones',
+    'encyclopedia.category.countries': 'Países',
     'encyclopedia.search.found': `{results, plural,
     =0 {No hay entradas relacionadas}
     one {1 entrada relacionada}
@@ -70,19 +72,21 @@ export default {
     technologies {tecnología}
     families {familia}
     jobs {trabajo}
-    lore {saber popular}
+    lore {tradición}
     vehicles {vehículo}
     diseases {enfermedad}
     traditions {tradición}
     food {comida}
     sports {deporte}
-    landmarks {monumento}
+    landmarks {lugar de interés}
     buildings {edificio}
     schools {escuela}
     continents {continente}
     villages {aldeas}
     towns {pueblos}
     cities {ciudades}
+    settlements {asentamiento}
+    countries {país}
   }`,
     'encyclopedia.create.header': `Crear un nuevo {category, select,
     character {personaje}
@@ -104,19 +108,21 @@ export default {
     technologies {tecnología}
     families {familia}
     jobs {trabajo}
-    lore {lore}
+    lore {tradición}
     vehicles {vehículo}
     diseases {enfermedad}
     traditions {tradición}
     food {comida}
     sports {deporte}
-    landmarks {monumento}
+    landmarks {lugar de interés}
     buildings {edificio}
     schools {escuela}
     continents {continente}
     villages {aldea}
     towns {pueblo}
     cities {ciudad}
+    settlements {asentamiento}
+    countries {país}
   } en {universe}`,
     'encyclopedia.entry.category': `Categoría de entrada: {category, select,
     character {Personaje}
@@ -144,13 +150,15 @@ export default {
     traditions {Tradición}
     food {Comida}
     sports {Deporte}
-    landmarks {Lugar emblemático}
+    landmarks {Lugar de interés}
     buildings {Edificio}
     schools {Escuela}
     continents {Continente}
     villages {Aldea}
     towns {Pueblo}
     cities {Ciudad}
+    settlements {Asentamiento}
+    countries {País}
   }`,
     'encyclopedia.entry.category.legend': 'Categoría',
     'encyclopedia.fields.add': 'Añadir un nuevo campo',
