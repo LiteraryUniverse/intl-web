@@ -124,42 +124,42 @@ export default {
     settlements {مستوطنة}
     countries {بلد}
   } في {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
-    lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    food {Food}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-    villages {Village}
-    towns {Town}
-    cities {City}
-    settlements {Settlement}
-    countries {Country}
-  }`,
+    'encyclopedia.entry.category': `فئة الدخول {category, select,
+    character {شخصية}
+    event {حدث ~ ~ ~ حدث}
+    group {مجموعة ~ ~ مجموعة}
+    item {عنصر ~ عنصر}
+    location {موقع ~ موقع}
+    other {ملاحظة}
+    state {دولة}
+    governments {حكومة}
+    languages {لغة}
+    creatures {مخلوق}
+    deity {إله}
+    religions {دين}
+    flora {فلورا}
+    magic {سحر}
+    planets {~ كوكب}
+    species {نوع}
+    technologies {تكنولوجيا}
+    families {عائلة}
+    jobs {وظيفة ~ ~ وظيفة}
+    lore {معرفة}
+    vehicles {~ مركبة}
+    diseases {مرض}
+    traditions {تقليد}
+    food {الغذاء ~ الغذاء}
+    sports {الرياضة}
+    landmarks {الرياضة ~ معلم}
+    buildings {~ مبنى}
+    schools {مدرسة ~ ~ مدرسة}
+    continents {قارة}
+    villages {قرية}
+    towns {بلدة}
+    cities {مدينة}
+    settlements {مستوطنة}
+    countries {بلد}
+  }~`,
     'encyclopedia.entry.category.legend': 'التصنيف',
     'encyclopedia.fields.add': 'إضافة حقل جديد',
     'encyclopedia.fields.text': 'التعريف',
