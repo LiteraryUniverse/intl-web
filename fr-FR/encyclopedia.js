@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Villages',
     'encyclopedia.category.towns': 'Villes',
     'encyclopedia.category.cities': 'Villes',
+    'encyclopedia.category.settlements': 'Règlements',
+    'encyclopedia.category.countries': 'Pays',
     'encyclopedia.search.found': `{results, plural,
     =0 {Aucune entrée liée}
     one {1 entrée liée}
@@ -82,7 +84,9 @@ export default {
     continents {continent}
     villages {villages}
     towns {villes}
-    cities {cités}
+    cities {villes}
+    settlements {établissement}
+    countries {pays}
   }`,
     'encyclopedia.create.header': `Créer un nouveau {category, select,
     character {personnage}
@@ -100,24 +104,26 @@ export default {
     flora {flore}
     magic {magie}
     planets {planète}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
+    species {espèce}
+    technologies {technologie}
+    families {famille}
+    jobs {travail}
+    lore {histoire}
+    vehicles {véhicule}
+    diseases {maladie}
     traditions {tradition}
-    food {food}
+    food {nourriture}
     sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
+    landmarks {point de repère}
+    buildings {bâtiment}
+    schools {école}
     continents {continent}
     villages {village}
-    towns {town}
-    cities {city}
-  } in {universe}`,
+    towns {ville}
+    cities {cité}
+    settlements {peuplement}
+    countries {pays}
+  } en {universe}`,
     'encyclopedia.entry.category': `Catégorie d'entrée : {category, select,
     character {Personnage}
     event {Evénement}
@@ -142,15 +148,17 @@ export default {
     vehicles {Véhicule}
     diseases {Maladie}
     traditions {Tradition}
-    food {Nourriture}
+    food {Alimentation}
     sports {Sport}
     landmarks {Repère}
     buildings {Bâtiment}
-    schools {École}
+    schools {Ecole}
     continents {Continent}
-    villages {village}
-    towns {ville}
-    cities {cité}
+    villages {Village}
+    towns {Ville}
+    cities {City}
+    settlements {Settlement}
+    countries {Country}
   }`,
     'encyclopedia.entry.category.legend': 'Catégorie',
     'encyclopedia.fields.add': 'Ajouter un nouveau champ',
