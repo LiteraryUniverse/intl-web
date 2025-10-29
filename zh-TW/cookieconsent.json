@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "你好，旅客，餅乾時間到了！🍪",
+    "description": "除了必要的功能性 cookies 外，我們不使用其他 cookies。但我們也有其他分析功能，需要您的同意。",
+    "acceptAllBtn": "接受所有 🙏",
+    "acceptNecessaryBtn": "拒絕所有 🙅",
+    "showPreferencesBtn": "管理偏好設定 🔧",
+    "footer": "<a href=\"/privacy\">隱私權政策</a>\n<a href=\"/tos\">條款和條件</a>"
+  },
+  "preferencesModal": {
+    "title": "同意偏好中心",
+    "acceptAllBtn": "接受所有 🙏",
+    "acceptNecessaryBtn": "拒絕所有 🙅",
+    "savePreferencesBtn": "儲存偏好設定 💾",
+    "closeIconLabel": "關閉模態",
+    "serviceCounterLabel": "服務",
+    "sections": [
+      {
+        "title": "Cookie 使用🍪",
+        "description": "本網站嚴格使用核心功能所需的cookie。在您的允許下，我們也會執行分析，以瞭解使用情況並改善 Literary Universe。我們的分析不依賴cookies，但他們可能使用類似的技術或在線識別器，因此在某些司法管轄區需要您的同意。"
+      },
+      {
+        "title": "嚴格必要的 Cookie<span class=\"pm__badge\">始終啟用</span>",
+        "description": "這些 cookies 來自我們的主機和付款供應商，可確保應用程式正常運作，您也可以連線。",
+        "linkedCategory": "必要的"
+      },
+      {
+        "title": "分析 📊",
+        "description": "我們利用各種分析服務來取得有關您如何使用我們網站的資訊，並改善我們的廣告工作。\n<ul>\n<li>分析<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>)：測量網站的使用情況、效能和錯誤，以改善 Literary Universe。分析服務不設置cookies，但可能會處理有限的技術數據和識別碼。需要同意。</li>\n<li>重定向<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>)：幫助我們評估活動，並在其他網站顯示有關Literary Universe的相關促銷活動。我們的網站上沒有為此設定cookies，但可能會使用類似的技術或識別碼。需要同意。</li>\n</ul>",
+        "linkedCategory": "分析"
+      },
+      {
+        "title": "更多資訊",
+        "description": "如需我們隱私權政策、追蹤服務 (包括個人設定) 及相關資訊的詳細資訊，請參閱我們的<a class=\"cc__link\" href=\"/privacy\">隱私權政策頁面</a>。"
+      }
+    ]
+  }
+}
