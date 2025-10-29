@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': '刪除我的帳戶',
     'settings.legal.title': '用戶同意協議',
     'settings.legal.explained': '在這裡您可以管理您對各種法律文件的同意。',
+    'settings.legal.analytics.title': '分析與追蹤',
+    'settings.legal.analytics.description': '您可以控制 Literary Universe 使用的分析與追蹤服務。本節將列出我們新增的所有服務。',
+    'settings.legal.analytics.ostrio': '若要停用 Ostrio Analytics 追蹤功能，請造訪其退出頁面：',
+    'settings.legal.analytics.ostrioOptOut': '管理 Ostrio Analytics 退出選項',
+    'settings.legal.analytics.future': '當 Google Analytics 或 Seznam 等其他供應商啟用後，我們會將其納入此處。',
     'settings.name.private': '名稱將保密',
     'settings.emailSubscriptions.title': '電子郵件通知設定',
     'settings.emailSubscriptions.explain': '選擇您想要從我們收到的電子郵件通知。',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': '有關新功能的資訊',
     'settings.emailNotifications.title': '通知',
     'settings.emailNotifications.pm': '新訊息',
-    'settings.emailNotifications.newChapters': '新章節',
+    'settings.emailNotifications.newChapters': '您關注的故事的新章節',
+    'settings.emailNotifications.newStories': '宇宙中的新故事或您關注的作者的新故事',
+    'settings.emailNotifications.newUniverses': '您關注的作者的新宇宙',
     'settings.resetPasswordEmailSend': '我們已將重設密碼的指示發送到您的電子郵件。',
     'settings.theme.title': '網站主題設定',
     'settings.theme.label': '網站主題',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': '輸入以逗號分隔的標籤清單',
     'settings.interests.tags.placeholder': '新增標籤',
     'settings.interests.avoidGenres.help': '選擇您不希望在推薦中看到的類型。',
-    'settings.interests.avoidGenres': '應避免的類型'
+    'settings.interests.avoidGenres': '應避免的類型',
+    'settings.notifications': '通知與電子報'
 };
