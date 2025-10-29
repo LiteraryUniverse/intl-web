@@ -39,6 +39,11 @@ export default {
     'settings.delete.submit': 'アカウントを削除します。',
     'settings.legal.title': 'ユーザーの同意契約',
     'settings.legal.explained': 'ここでは、様々な法的文書への同意を管理することができます。',
+    'settings.legal.analytics.title': 'アナリティクスとトラッキング',
+    'settings.legal.analytics.description': 'リテラユニバースで使用しているアナリティクスやトラッキングサービスをコントロールすることができます。このセクションでは、追加されたすべてのサービスをリストアップします。',
+    'settings.legal.analytics.ostrio': 'Ostrio Analyticsのトラッキングを無効にするには、オプトアウトページをご覧ください：',
+    'settings.legal.analytics.ostrioOptOut': 'オストリオアナリティクスのオプトアウト管理',
+    'settings.legal.analytics.future': 'Google AnalyticsやSeznamなどのプロバイダーが有効になり次第、ここに追加します。',
     'settings.name.private': '名前は非公開になります',
     'settings.emailSubscriptions.title': 'メール通知の設定',
     'settings.emailSubscriptions.explain': '当社から受け取りを希望するメールを選択してください。',
@@ -66,7 +71,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': '新機能に関する情報',
     'settings.emailNotifications.title': '通知',
     'settings.emailNotifications.pm': '新しいメッセージ',
-    'settings.emailNotifications.newChapters': '新しい章',
+    'settings.emailNotifications.newChapters': 'あなたがフォローしたストーリーの新しい章',
+    'settings.emailNotifications.newStories': 'あなたがフォローしているユニバースや作家の新しい物語',
+    'settings.emailNotifications.newUniverses': 'あなたがフォローしている作家による新しい宇宙',
     'settings.resetPasswordEmailSend': 'メールでパスワードのリセット方法をお送りしました。',
     'settings.theme.title': 'ウェブサイトのテーマ',
     'settings.theme.label': 'ウェブサイトのテーマ',
@@ -135,5 +142,6 @@ export default {
     'settings.interests.tags.custom.help': 'タグのリストをカンマ区切りで入力',
     'settings.interests.tags.placeholder': 'タグの追加',
     'settings.interests.avoidGenres.help': 'レコメンデーションで見たくないジャンルを選択する。',
-    'settings.interests.avoidGenres': '避けるべきジャンル'
+    'settings.interests.avoidGenres': '避けるべきジャンル',
+    'settings.notifications': 'お知らせとニュースレター'
 };
