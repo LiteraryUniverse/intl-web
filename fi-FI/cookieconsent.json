@@ -1,0 +1,38 @@
+{
+  "consentModal": {
+    "title": "Hei matkustaja, on keksien aika! 🍪",
+    "description": "Emme käytä muita evästeitä kuin välttämättömiä toiminnallisia evästeitä. Meillä on kuitenkin muita toiminnallisuuksia analyyttisiin tarkoituksiin, joihin tarvitsemme suostumuksesi.",
+    "acceptAllBtn": "Hyväksy kaikki 🙏",
+    "acceptNecessaryBtn": "Hylkää kaikki 🙅",
+    "showPreferencesBtn": "Hallitse asetuksia 🔧",
+    "footer": "<a href=\"/privacy\">Tietosuojakäytäntö</a>\n<a href=\"/tos\">Ehdot ja edellytykset</a>"
+  },
+  "preferencesModal": {
+    "title": "Suostumusasetusten keskus",
+    "acceptAllBtn": "Hyväksy kaikki 🙏",
+    "acceptNecessaryBtn": "Hylkää kaikki 🙅",
+    "savePreferencesBtn": "Tallenna asetukset 💾",
+    "closeIconLabel": "Sulje modaali",
+    "serviceCounterLabel": "Palvelu|Palvelut",
+    "sections": [
+      {
+        "title": "Evästeiden käyttö 🍪",
+        "description": "Tämä verkkosivusto käyttää ehdottoman välttämättömiä evästeitä, jotka ovat välttämättömiä perustoimintojen kannalta. Luvallasi käytämme myös analytiikkaa käytön ymmärtämiseksi ja Literary Universen parantamiseksi. Analytiikkamme ei perustu evästeisiin, mutta ne saattavat käyttää samankaltaisia tekniikoita tai verkkotunnisteita, minkä vuoksi ne edellyttävät suostumustasi tietyillä lainkäyttöalueilla."
+      },
+      {
+        "title": "Ehdottoman välttämättömät evästeet <span class=\"pm__badge\">aina käytössä</span>",
+        "description": "Nämä evästeet ovat hosting- ja maksupalveluntarjoajamme evästeitä, jotka varmistavat, että sovellus toimii oikein ja että voit muodostaa yhteyden.",
+        "linkedCategory": "tarvittavat"
+      },
+      {
+        "title": "Analytiikka 📊",
+        "description": "Käytämme erilaisia analytiikkapalveluja saadaksemme tietoa siitä, miten käytät verkkosivustoamme ja parantaaksemme mainontaamme.\n<ul>\n<li>Analytiikka<a href=\"https://ostr.io/signup/Xsqyndibky6MXbh6N\" target=\"_blank\" rel=\"noopener noreferrer\">(Ostr.io</a>): Mittaa sivuston käyttöä, suorituskykyä ja virheitä Literary Universen parantamiseksi. Analytiikkaa varten ei aseteta evästeitä, mutta rajoitettuja teknisiä tietoja ja tunnisteita saatetaan käsitellä. Suostumus vaaditaan.</li>\n<li>Uudelleen kohdentaminen<a href=\"https://o-seznam.cz/reklama/sklik\" rel=\"noopener noreferrer\">(Sklik</a>): Auttaa meitä arvioimaan kampanjoita ja näyttämään merkityksellisiä mainoksia Literary Universesta muilla verkkosivustoilla. Sivustollamme ei aseteta evästeitä tätä varten, mutta samankaltaisia tekniikoita tai tunnisteita saatetaan käyttää. Suostumus vaaditaan.</li>\n</ul>",
+        "linkedCategory": "analytiikka"
+      },
+      {
+        "title": "Lisätietoja",
+        "description": "Lisätietoja tietosuojakäytännöistämme, seurantapalveluista (mukaan lukien yksilölliset asetukset) ja niihin liittyvistä tiedoista on <a class=\"cc__link\" href=\"/privacy\">tietosuojakäytäntömme sivulla</a>."
+      }
+    ]
+  }
+}
