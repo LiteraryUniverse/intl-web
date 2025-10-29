@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Slett kontoen min',
     'settings.legal.title': 'Brukergodkjennelsesavtaler',
     'settings.legal.explained': 'Her kan du administrere samtykke til ulike juridiske dokumenter.',
+    'settings.legal.analytics.title': 'Analytics and tracking',
+    'settings.legal.analytics.description': 'You can control analytics and tracking services used on Literary Universe. This section will list all services as we add them.',
+    'settings.legal.analytics.ostrio': 'To disable Ostrio Analytics tracking, visit their opt-out page:',
+    'settings.legal.analytics.ostrioOptOut': 'Manage Ostrio Analytics opt-out',
+    'settings.legal.analytics.future': 'We will include additional providers, such as Google Analytics or Seznam, here once they are enabled.',
     'settings.name.private': 'Navnet vil være privat',
     'settings.emailSubscriptions.title': 'Innstillinger for e-postvarsler',
     'settings.emailSubscriptions.explain': 'Velg hvilke e-postvarsler du ønsker å motta fra oss.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Informasjon om nye funksjoner',
     'settings.emailNotifications.title': 'Varsler',
     'settings.emailNotifications.pm': 'Nye meldinger',
-    'settings.emailNotifications.newChapters': 'Nye kapitler',
+    'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
+    'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
+    'settings.emailNotifications.newUniverses': 'New universes from authors you follow',
     'settings.resetPasswordEmailSend': 'Vi har sendt deg instruksjoner om hvordan du tilbakestiller passordet ditt til e-posten din.',
     'settings.theme.title': 'Nettstedsutforming',
     'settings.theme.label': 'Nettstedsdesign',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-    'settings.interests.avoidGenres': 'Genres to avoid'
+    'settings.interests.avoidGenres': 'Genres to avoid',
+    'settings.notifications': 'Notifications & newsletters'
 };
