@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': '.i mi\'o se spaji lo nu se spaji lo do jorne',
     'settings.legal.title': '.i lo cmima be lo nu do se spaji cu se spaji',
     'settings.legal.explained': '.i ti se sidbo be lo ka do zukte lo nu fapro lo drata ctile',
+    'settings.legal.analytics.title': 'Analytics and tracking',
+    'settings.legal.analytics.description': 'You can control analytics and tracking services used on Literary Universe. This section will list all services as we add them.',
+    'settings.legal.analytics.ostrio': 'To disable Ostrio Analytics tracking, visit their opt-out page:',
+    'settings.legal.analytics.ostrioOptOut': 'Manage Ostrio Analytics opt-out',
+    'settings.legal.analytics.future': 'We will include additional providers, such as Google Analytics or Seznam, here once they are enabled.',
     'settings.name.private': '.i lo cmima be lo ka cmene cu se spaji',
     'settings.emailSubscriptions.title': '.i lo cmima be lo nu do jorne lo do jorne se setca cu se spaji',
     'settings.emailSubscriptions.explain': '.i mi\'o zukte lo du\'u ma kau se setca be lo nu do jorne',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Information about new features',
     'settings.emailNotifications.title': 'Notifications',
     'settings.emailNotifications.pm': 'New messages',
-    'settings.emailNotifications.newChapters': 'New chapters',
+    'settings.emailNotifications.newChapters': 'New chapters from stories you follow',
+    'settings.emailNotifications.newStories': 'New stories in universes or from authors you follow',
+    'settings.emailNotifications.newUniverses': 'New universes from authors you follow',
     'settings.resetPasswordEmailSend': 'We have send you instructions on how to reset your password to your e-mail.',
     'settings.theme.title': 'Site theming',
     'settings.theme.label': 'Site theme',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Enter comma separated list of tags',
     'settings.interests.tags.placeholder': 'Add tags',
     'settings.interests.avoidGenres.help': 'Select genres you\'d prefer not to see in recommendations.',
-    'settings.interests.avoidGenres': 'Genres to avoid'
+    'settings.interests.avoidGenres': 'Genres to avoid',
+    'settings.notifications': 'Notifications & newsletters'
 };
