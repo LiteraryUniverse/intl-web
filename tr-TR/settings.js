@@ -41,6 +41,11 @@ export default {
     'settings.delete.submit': 'Hesabımı sil',
     'settings.legal.title': 'Kullanıcı onay anlaşmaları',
     'settings.legal.explained': 'Burada çeşitli yasal belgelere olan onayınızı yönetebilirsiniz.',
+    'settings.legal.analytics.title': 'Analitik ve izleme',
+    'settings.legal.analytics.description': 'Literary Universe\'de kullanılan analiz ve izleme hizmetlerini kontrol edebilirsiniz. Bu bölüm, biz ekledikçe tüm hizmetleri listeleyecektir.',
+    'settings.legal.analytics.ostrio': 'Ostrio Analytics izlemesini devre dışı bırakmak için devre dışı bırakma sayfasını ziyaret edin:',
+    'settings.legal.analytics.ostrioOptOut': 'Ostrio Analytics devre dışı bırakmayı yönetme',
+    'settings.legal.analytics.future': 'Google Analytics veya Seznam gibi ek sağlayıcıları, etkinleştirildiklerinde buraya ekleyeceğiz.',
     'settings.name.private': 'İsim gizli olacak',
     'settings.emailSubscriptions.title': 'E-posta bildirim ayarları',
     'settings.emailSubscriptions.explain': 'Bize hangi e-posta bildirimlerini almak istediğinizi seçin.',
@@ -68,7 +73,9 @@ export default {
     'settings.emailSubscriptions.newsletterFeatures': 'Yeni özellikler hakkında bilgi',
     'settings.emailNotifications.title': 'Bildirimler',
     'settings.emailNotifications.pm': 'Yeni mesajlar',
-    'settings.emailNotifications.newChapters': 'Yeni bölümler',
+    'settings.emailNotifications.newChapters': 'Takip ettiğiniz hikayelerden yeni bölümler',
+    'settings.emailNotifications.newStories': 'Evrenlerde veya takip ettiğiniz yazarlardan yeni hikayeler',
+    'settings.emailNotifications.newUniverses': 'Takip ettiğiniz yazarlardan yeni evrenler',
     'settings.resetPasswordEmailSend': 'Şifrenizi sıfırlamanız için size e-posta ile talimatlar gönderdik.',
     'settings.theme.title': 'Site temaları',
     'settings.theme.label': 'Site teması',
@@ -137,5 +144,6 @@ export default {
     'settings.interests.tags.custom.help': 'Virgülle ayrılmış etiket listesini girin',
     'settings.interests.tags.placeholder': 'Etiketler ekle',
     'settings.interests.avoidGenres.help': 'Önerilerde görmek istemediğiniz türleri seçin.',
-    'settings.interests.avoidGenres': 'Kaçınılması gereken türler'
+    'settings.interests.avoidGenres': 'Kaçınılması gereken türler',
+    'settings.notifications': 'Bildirimler & Haber Bültenleri'
 };
