@@ -1,5 +1,14 @@
 # Changelog for languages
 
+## 2025-10-30 - v2.19.0
+
+* Added `common.new`
+* Re-ordered countries in list to be alphabetical
+* Strings for thank you page
+* Forum strings for new threads
+* Added cookie consent file
+* New encyclopedia categories strings
+
 ## 2025-10-11 - v2.18.0
 
 * Added writing statistics
