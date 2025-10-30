@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': '마을',
     'encyclopedia.category.towns': '마을',
     'encyclopedia.category.cities': '도시',
+    'encyclopedia.category.settlements': '결제',
+    'encyclopedia.category.countries': '국가',
     'encyclopedia.search.found': `{results, plural,
     =0 {관련 항목 없음}
     one {1개의 관련 항목}
@@ -50,7 +52,7 @@ export default {
     'encyclopedia.add.title': '백과사전에 새 항목 추가',
     'encyclopedia.add.heading': '무엇을 추가하시겠습니까?',
     'encyclopedia.add.moresoon': '추가 카테고리가 곧 제공됩니다!',
-    'encyclopedia.create': `신규 생성 {category, select,
+    'encyclopedia.create': `새로 만들기 {category, select,
     character {캐릭터}
     event {이벤트}
     group {그룹}
@@ -64,74 +66,6 @@ export default {
     deity {신}
     religions {종교}
     flora {식물}
-    magic {마법}
-    planets {행성}
-    species {종}
-    technologies {기술}
-    families {가족}
-    jobs {직업}
-    lore {지식}
-    vehicles {탈것}
-    diseases {질병}
-    traditions {전통}
-    food {음식}
-    sports {스포츠}
-    landmarks {랜드마크}
-    buildings {건물}
-    schools {학교}
-    continents {대륙}
-    villages {마을}
-    towns {마을}
-    cities {도시}
-  }`,
-    'encyclopedia.create.header': `신규 생성 {category, select,
-    character {캐릭터}
-    event {이벤트}
-    group {그룹}
-    item {아이템}
-    location {위치}
-    other {메모}
-    state {주}
-    governments {정부}
-    languages {언어}
-    creatures {생물}
-    deity {신}
-    religions {종교}
-    flora {식물}
-    magic {마법}
-    planets {행성}
-    species {종}
-    technologies {기술}
-    families {가족}
-    jobs {직업}
-    lore {지식}
-    vehicles {탈것}
-    diseases {질병}
-    traditions {전통}
-    food {음식}
-    sports {스포츠}
-    landmarks {랜드마크}
-    buildings {건물}
-    schools {학교}
-    continents {대륙}
-    villages {마을}
-    towns {마을}
-    cities {도시}
-  } in {universe}`,
-    'encyclopedia.entry.category': `응모 카테고리: {category, select,
-    character {캐릭터}
-    event {이벤트}
-    group {그룹}
-    item {아이템}
-    location {위치}
-    other {참고}
-    state {주}
-    governments {정부}
-    languages {언어}
-    creatures {생물}
-    deity {신}
-    religions {종교}
-    flora {동식물}
     magic {마법}
     planets {행성}
     species {종족}
@@ -149,8 +83,82 @@ export default {
     schools {학교}
     continents {대륙}
     villages {마을}
-    towns {마을}
-    cities {도시}
+    towns {도시}
+    cities {정착지}
+    settlements {국가}
+    countries {국가}
+  }`,
+    'encyclopedia.create.header': `새로 만들기 {category, select,
+    character {캐릭터}
+    event {이벤트}
+    group {그룹}
+    item {아이템}
+    location {위치}
+    other {메모}
+    state {주}
+    governments {정부}
+    languages {언어}
+    creatures {생물}
+    deity {신}
+    religions {종교}
+    flora {식물}
+    magic {마법}
+    planets {행성}
+    species {종}
+    technologies {기술}
+    settlements {}
+    families {가족}
+    jobs {직업}
+    lore {지식}
+    vehicles {탈것}
+    diseases {질병}
+    traditions {전통}
+    food {음식}
+    sports {스포츠}
+    landmarks {랜드마크}
+    buildings {건물}
+    schools {학교}
+    continents {대륙}
+    villages {마을}
+    towns {도시}
+    cities {정착지}
+    countries {국가}
+  } in {universe}`,
+    'encyclopedia.entry.category': `응모 카테고리: {category, select,
+    character {캐릭터}
+    event {이벤트}
+    group {그룹}
+    item {아이템}
+    location {위치}
+    other {참고}
+    state {주}
+    governments {정부}
+    languages {언어}
+    creatures {생물}
+    deity {신}
+    religions {종교}
+    flora {식물}
+    magic {마법}
+    planets {행성}
+    species {종}
+    technologies {기술}
+    families {가족}
+    jobs {직업}
+    lore {지식}
+    vehicles {탈것}
+    diseases {질병}
+    traditions {전통}
+    food {음식}
+    sports {스포츠}
+    landmarks {랜드마크}
+    buildings {건물}
+    schools {학교}
+    continents {대륙}
+    villages {마을}
+    towns {도시}
+    cities {마을}
+    settlements {정착지}
+    countries {국가}
   }`,
     'encyclopedia.entry.category.legend': '카테고리',
     'encyclopedia.fields.add': '새 필드 추가',

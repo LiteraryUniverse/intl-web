@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Dediny',
     'encyclopedia.category.towns': 'Mestá',
     'encyclopedia.category.cities': 'Mestá',
+    'encyclopedia.category.settlements': 'Zúčtovanie',
+    'encyclopedia.category.countries': 'Krajiny',
     'encyclopedia.search.found': `{results, plural,
     =0 {Žiadne súvisiace položky}
     one {Nájdené 1 súvisiace položky}
@@ -84,6 +86,8 @@ export default {
     villages {dediny}
     towns {mestá}
     cities {mestá}
+    settlements {osada}
+    countries {krajina}
   }`,
     'encyclopedia.create.header': `Vytvorenie nového {category, select,
     character {postava}
@@ -115,9 +119,11 @@ export default {
     buildings {budova}
     schools {škola}
     continents {kontinent}
-    villages {obec}
+    villages {dedina}
     towns {mesto}
     cities {mesto}
+    settlements {osada}
+    countries {krajina}
   } v {universe}`,
     'encyclopedia.entry.category': `Kategória prihlášok: {category, select,
     character {Postava}
@@ -139,19 +145,21 @@ export default {
     technologies {Technológia}
     families {Rodina}
     jobs {Práca}
-    lore {Povesť}
+    lore {Vlasť}
     vehicles {Vozidlo}
     diseases {Choroba}
     traditions {Tradícia}
     food {Jedlo}
     sports {Šport}
-    landmarks {Pamätné miesto}
+    landmarks {Medzník}
     buildings {Budova}
     schools {Škola}
     continents {Kontinent}
     villages {Obec}
     towns {Mesto}
     cities {Mesto}
+    settlements {Osada}
+    countries {Krajina}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Pridať nové pole',

@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': '村莊',
     'encyclopedia.category.towns': '鎮',
     'encyclopedia.category.cities': '城市',
+    'encyclopedia.category.settlements': '和解',
+    'encyclopedia.category.countries': '國家',
     'encyclopedia.search.found': `{results, plural,
     =0 {沒有相關的條目}
     one {1個相關的條目}
@@ -50,24 +52,24 @@ export default {
     'encyclopedia.add.title': '添加新條目到百科全書',
     'encyclopedia.add.heading': '您想要添加什麼？',
     'encyclopedia.add.moresoon': '更多類別即將推出！',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {種}
-    technologies {科技}
+    'encyclopedia.create': `建立新 {category, select,
+    character {角色}
+    event {事件}
+    group {群體}
+    item {物品}
+    location {位置}
+    other {備註}
+    state {州}
+    governments {政府}
+    languages {語言}
+    creatures {生物}
+    deity {神明}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {行星}
+    species {種類}
+    technologies {技術}
     families {家庭}
     jobs {工作}
     lore {傳說}
@@ -81,27 +83,29 @@ export default {
     schools {學校}
     continents {大陸}
     villages {村莊}
-    towns {鄉鎮}
-    cities {城市}
+    towns {}
+    cities {鎮}
+    settlements {城市 ~ ~ 聚落}
+    countries {國家}
   }`,
-    'encyclopedia.create.header': `Creating a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {種}
-    technologies {科技}
+    'encyclopedia.create.header': `建立新 {category, select,
+    character {角色}
+    event {事件}
+    group {群體}
+    item {物品}
+    location {位置}
+    other {註釋}
+    state {州}
+    governments {政府}
+    languages {語言}
+    creatures {生物}
+    deity {神明}
+    religions {宗教}
+    flora {植物}
+    magic {魔法}
+    planets {行星}
+    species {種類}
+    technologies {科技 ~ 家庭 ~ ~ 工作 ~ ~ 傳說 ~ ~ 車輛 ~ ~ 疾病 ~ ~ 傳統 ~ ~ 食物 ~ ~ 運動 ~ ~ 地標 ~ 建築 ~ School ~ 科技}
     families {家庭}
     jobs {工作}
     lore {傳說}
@@ -115,8 +119,10 @@ export default {
     schools {學校}
     continents {大陸}
     villages {村莊}
-    towns {小鎮}
-    cities {城市}
+    towns {}
+    cities {城鎮}
+    settlements {聚落}
+    countries {國家}
   } 在 {universe}`,
     'encyclopedia.entry.category': `輸入類別： {category, select,
     character {角色}
@@ -149,8 +155,10 @@ export default {
     schools {學校}
     continents {大陸}
     villages {村莊}
-    towns {鎮}
+    towns {城鎮}
     cities {城市}
+    settlements {聚落}
+    countries {國家}
   }`,
     'encyclopedia.entry.category.legend': '類別',
     'encyclopedia.fields.add': '添加新字段',

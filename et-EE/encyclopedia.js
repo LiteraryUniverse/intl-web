@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Külad',
     'encyclopedia.category.towns': 'Linnad',
     'encyclopedia.category.cities': 'Linnad',
+    'encyclopedia.category.settlements': 'Arveldused',
+    'encyclopedia.category.countries': 'Riigid',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei leitud seotud kirjeid}
     one {1 seotud kirje}
@@ -66,7 +68,7 @@ export default {
     flora {taimestik}
     magic {maagia}
     planets {planeet}
-    species {specie}
+    species {liik}
     technologies {tehnoloogia}
     families {perekond}
     jobs {töö}
@@ -83,9 +85,11 @@ export default {
     villages {külad}
     towns {linnad}
     cities {linnad}
+    settlements {asula}
+    countries {riik}
   }`,
-    'encyclopedia.create.header': `Uue {category, select,
-    character {tegelase loomine}
+    'encyclopedia.create.header': `Uue looma {category, select,
+    character {tegelane}
     event {sündmus}
     group {rühm}
     item {ese}
@@ -100,7 +104,7 @@ export default {
     flora {taimestik}
     magic {maagia}
     planets {planeet}
-    species {specie}
+    species {liik}
     technologies {tehnoloogia}
     families {perekond}
     jobs {töö}
@@ -117,6 +121,8 @@ export default {
     villages {küla}
     towns {linn}
     cities {linn}
+    settlements {asula}
+    countries {riik}
   } in {universe}`,
     'encyclopedia.entry.category': `Sisenemiskategooria: {category, select,
     character {Tegelane}
@@ -148,9 +154,11 @@ export default {
     buildings {Hoone}
     schools {Kool}
     continents {Kontinent}
-    villages {küla}
-    towns {linn}
-    cities {linn}
+    villages {Küla}
+    towns {Linn}
+    cities {Linn}
+    settlements {Asula}
+    countries {Riik}
   }`,
     'encyclopedia.entry.category.legend': 'Kategooria',
     'encyclopedia.fields.add': 'Lisa uus väli',

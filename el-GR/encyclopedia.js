@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Χωριά',
     'encyclopedia.category.towns': 'Πόλεις',
     'encyclopedia.category.cities': 'Πόλεις',
+    'encyclopedia.category.settlements': 'Διακανονισμοί',
+    'encyclopedia.category.countries': 'Χώρες',
     'encyclopedia.search.found': `{results, plural,
     =0 {Δεν υπάρχουν σχετικές καταχωρήσεις}
     one {1 σχετική καταχώρηση}
@@ -66,8 +68,8 @@ export default {
     flora {χλωρίδα}
     magic {μαγεία}
     planets {πλανήτης}
-    species {specie}
-    technologies {technology}
+    species {είδος}
+    technologies {τεχνολογία}
     families {family}
     jobs {job}
     lore {lore}
@@ -83,6 +85,8 @@ export default {
     villages {villages}
     towns {towns}
     cities {cities}
+    settlements {settlement}
+    countries {country}
   }`,
     'encyclopedia.create.header': `Δημιουργία νέου {category, select,
     character {χαρακτήρα}
@@ -100,8 +104,8 @@ export default {
     flora {χλωρίδας}
     magic {μαγείας}
     planets {πλανήτη}
-    species {specie}
-    technologies {technology}
+    species {είδους}
+    technologies {τεχνολογίας}
     families {family}
     jobs {job}
     lore {lore}
@@ -117,6 +121,8 @@ export default {
     villages {village}
     towns {town}
     cities {city}
+    settlements {settlement}
+    countries {country}
   } in {universe}`,
     'encyclopedia.entry.category': `Κατηγορία εισόδου: {category, select,
     character {Χαρακτήρας}
@@ -135,7 +141,7 @@ export default {
     magic {Μαγεία}
     planets {Πλανήτης}
     species {Είδος}
-    technologies {Technology}
+    technologies {Τεχνολογία}
     families {Family}
     jobs {Job}
     lore {Lore}
@@ -148,9 +154,11 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    villages {Village}
+    towns {Town}
+    cities {City}
+    settlements {Settlement}
+    countries {Country}
   }`,
     'encyclopedia.entry.category.legend': 'Κατηγορία',
     'encyclopedia.fields.add': 'Προσθήκη νέου πεδίου',

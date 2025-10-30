@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Desa',
     'encyclopedia.category.towns': 'Kota',
     'encyclopedia.category.cities': 'Kota',
+    'encyclopedia.category.settlements': 'Pemukiman',
+    'encyclopedia.category.countries': 'Negara',
     'encyclopedia.search.found': `{results, plural,
     =0 {Tidak ada entri terkait}
     one {1 entri terkait}
@@ -57,13 +59,13 @@ export default {
     item {benda}
     location {lokasi}
     other {catatan}
-    state {negara}
+    state {negara bagian}
     governments {pemerintah}
     languages {bahasa}
     creatures {makhluk}
     deity {dewa}
     religions {agama}
-    flora {tumbuhan}
+    flora {flora}
     magic {sihir}
     planets {planet}
     species {spesies}
@@ -82,7 +84,9 @@ export default {
     continents {benua}
     villages {desa}
     towns {kota}
-    cities {kota}
+    cities {kota kecil}
+    settlements {pemukiman}
+    countries {negara}
   }`,
     'encyclopedia.create.header': `Menciptakan {category, select,
     character {karakter}
@@ -97,7 +101,7 @@ export default {
     creatures {makhluk}
     deity {dewa}
     religions {agama}
-    flora {tumbuhan}
+    flora {flora}
     magic {sihir}
     planets {planet}
     species {spesies}
@@ -117,6 +121,8 @@ export default {
     villages {desa}
     towns {kota}
     cities {kota}
+    settlements {pemukiman}
+    countries {negara}
   } di {universe}`,
     'encyclopedia.entry.category': `Kategori entri: {category, select,
     character {Karakter}
@@ -151,6 +157,8 @@ export default {
     villages {Desa}
     towns {Kota}
     cities {Kota}
+    settlements {Pemukiman}
+    countries {Negara}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Tambahkan bidang baru',

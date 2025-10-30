@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Byar',
     'encyclopedia.category.towns': 'Städer',
     'encyclopedia.category.cities': 'Städer',
+    'encyclopedia.category.settlements': 'Uppgörelser',
+    'encyclopedia.category.countries': 'Länder',
     'encyclopedia.search.found': `{results, plural,
     =0 {Inga relaterade poster}
     one {1 relaterad post}
@@ -66,8 +68,8 @@ export default {
     flora {flora}
     magic {magi}
     planets {planet}
-    species {specie}
-    technologies {technology}
+    species {art}
+    technologies {teknik}
     families {family}
     jobs {job}
     lore {lore}
@@ -83,6 +85,8 @@ export default {
     villages {villages}
     towns {towns}
     cities {cities}
+    settlements {settlement}
+    countries {country}
   }`,
     'encyclopedia.create.header': `Skapa en ny {category, select,
     character {karaktär}
@@ -100,8 +104,8 @@ export default {
     flora {flora}
     magic {magi}
     planets {planet}
-    species {specie}
-    technologies {technology}
+    species {art}
+    technologies {teknik}
     families {family}
     jobs {job}
     lore {lore}
@@ -115,8 +119,10 @@ export default {
     schools {school}
     continents {continent}
     villages {village}
-    towns {village ~ ~ town}
+    towns {town}
     cities {city}
+    settlements {settlement}
+    countries {country}
   } in {universe}`,
     'encyclopedia.entry.category': `Ingångskategori: {category, select,
     character {Karaktär}
@@ -134,8 +140,8 @@ export default {
     flora {Flora}
     magic {Magi}
     planets {Planet}
-    species {Art}
-    technologies {Technology}
+    species {Specie}
+    technologies {Teknik}
     families {Family}
     jobs {Job}
     lore {Lore}
@@ -148,9 +154,11 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    villages {}
+    towns {Village ~ ~ Town}
+    cities {City}
+    settlements {Settlement}
+    countries {Country}
   }`,
     'encyclopedia.entry.category.legend': 'Kategori',
     'encyclopedia.fields.add': 'Lägg till ett nytt fält',

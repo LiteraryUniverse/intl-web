@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Villages',
     'encyclopedia.category.towns': 'Towns',
     'encyclopedia.category.cities': 'Cities',
+    'encyclopedia.category.settlements': 'התנחלויות',
+    'encyclopedia.category.countries': 'מדינות',
     'encyclopedia.search.found': `{results, plural,
     =0 {לא נמצאו ערכים קשורים}
     one {ערך קשור אחד}
@@ -50,107 +52,113 @@ export default {
     'encyclopedia.add.title': 'הוסף פריט חדש לאנציקלופדיה',
     'encyclopedia.add.heading': 'מה ברצונך להוסיף?',
     'encyclopedia.add.moresoon': 'קטגוריות נוספות בקרוב!',
-    'encyclopedia.create': `Create a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {villages}
-    towns {towns}
-    cities {cities}
+    'encyclopedia.create': `צור חדש {category, select,
+    character {דמות}
+    event {אירוע}
+    group {קבוצה}
+    item {פריט}
+    location {מיקום}
+    other {הערה}
+    state {מצב}
+    governments {ממשל}
+    languages {שפה}
+    creatures {יצור}
+    deity {אלוהות}
+    religions {דת}
+    flora {צמחייה}
+    magic {קסם}
+    planets {כוכב לכת}
+    species {מין}
+    technologies {טכנולוגיה}
+    families {משפחה}
+    jobs {מקצוע}
+    lore {ידע}
+    vehicles {כלי רכב}
+    diseases {מחלה}
+    traditions {מסורת}
+    food {מזון}
+    sports {ספורט}
+    landmarks {אתר}
+    buildings {מבנה}
+    schools {בית ספר}
+    continents {יבשת}
+    villages {כפרים}
+    towns {עיירות}
+    cities {ערים}
+    settlements {התיישבות}
+    countries {מדינה}
   }`,
-    'encyclopedia.create.header': `Creating a new {category, select,
-    character {character}
-    event {event}
-    group {group}
-    item {item}
-    location {location}
-    other {note}
-    state {state}
-    governments {government}
-    languages {language}
-    creatures {creature}
-    deity {deity}
-    religions {religion}
-    flora {flora}
-    magic {magic}
-    planets {planet}
-    species {specie}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {village}
-    towns {town}
-    cities {city}
-  } in {universe}`,
-    'encyclopedia.entry.category': `Entry category: {category, select,
-    character {Character}
-    event {Event}
-    group {Group}
-    item {Item}
-    location {Location}
-    other {Note}
-    state {State}
-    governments {Government}
-    languages {Language}
-    creatures {Creature}
-    deity {Deity}
-    religions {Religion}
-    flora {Flora}
-    magic {Magic}
-    planets {Planet}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
-    lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    food {Food}
-    sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    'encyclopedia.create.header': `יצירת חדש {category, select,
+    character {דמות}
+    event {אירוע}
+    group {קבוצה}
+    item {פריט}
+    location {מיקום}
+    other {הערה}
+    state {מצב}
+    governments {ממשלה}
+    languages {שפה}
+    creatures {יצור}
+    deity {אלוהות}
+    religions {דת}
+    flora {צמחייה}
+    magic {קסם}
+    planets {כוכב לכת}
+    species {מין}
+    technologies {טכנולוגיה}
+    families {משפחה}
+    jobs {מקצוע}
+    lore {ידע}
+    vehicles {כלי רכב}
+    diseases {מחלה}
+    traditions {מסורת}
+    food {מזון}
+    sports {ספורט}
+    landmarks {נקודת ציון}
+    buildings {בניין}
+    schools {בית ספר}
+    continents {יבשת}
+    villages {כפר}
+    towns {עיירה}
+    cities {עיר}
+    settlements {התיישבות}
+    countries {מדינה}
+  } ב {universe}`,
+    'encyclopedia.entry.category': `קטגוריית כניסה: {category, select,
+    character {דמות}
+    event {אירוע}
+    group {קבוצה}
+    item {פריט}
+    location {מיקום}
+    other {הערה}
+    state {מדינה}
+    governments {ממשלה}
+    languages {שפה}
+    creatures {יצור}
+    deity {אלוהות}
+    religions {דת}
+    flora {צמחייה}
+    magic {קסם}
+    planets {כוכב לכת}
+    species {זן}
+    technologies {טכנולוגיה}
+    families {משפחה}
+    jobs {מקצוע}
+    lore {ידע}
+    vehicles {כלי רכב}
+    diseases {מחלה}
+    traditions {מסורת}
+    food {מזון}
+    sports {ספורט}
+    landmarks {נקודת ציון}
+    buildings {מבנה}
+    schools {בית ספר}
+    continents {יבשת}
+    villages {כפר}
+    towns {עיירה}
+    cities {עיר}
+    settlements {יישוב}
+    countries {מדינה}
   }`,
     'encyclopedia.entry.category.legend': 'קטגוריה',
     'encyclopedia.fields.add': 'הוסף שדה חדש',

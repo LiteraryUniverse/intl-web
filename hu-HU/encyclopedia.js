@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Falvak',
     'encyclopedia.category.towns': 'Városok',
     'encyclopedia.category.cities': 'Városok',
+    'encyclopedia.category.settlements': 'Települések',
+    'encyclopedia.category.countries': 'Országok',
     'encyclopedia.search.found': `{results, plural,
     =0 {Nincsenek kapcsolódó bejegyzések}
     one {1 kapcsolódó bejegyzés}
@@ -66,8 +68,8 @@ export default {
     flora {flora}
     magic {magic}
     planets {planet}
-    species {~ faj}
-    technologies {technológia}
+    species {specie}
+    technologies {technology}
     families {család}
     jobs {munka}
     lore {mondavilág}
@@ -83,7 +85,9 @@ export default {
     villages {falvak}
     towns {városok}
     cities {városok}
-  }`,
+    settlements {település}
+    countries {ország}
+  }~`,
     'encyclopedia.create.header': `Új létrehozás {category, select,
     character {karakter}
     event {esemény}
@@ -94,14 +98,14 @@ export default {
     state {állam}
     governments {kormány}
     languages {nyelv}
-    creatures {lény}
+    creatures {teremtmény}
     deity {istenség}
     religions {vallás}
     flora {növényvilág}
     magic {mágia}
     planets {bolygó}
-    species {~ faj}
-    technologies {technológia}
+    species {faj}
+    technologies {technológia ~ ~ technológia}
     families {család}
     jobs {munka}
     lore {mondavilág}
@@ -117,14 +121,16 @@ export default {
     villages {falu}
     towns {város}
     cities {város}
-  } a {universe}-ban.`,
+    settlements {település}
+    countries {ország}
+  } in {universe}`,
     'encyclopedia.entry.category': `Nevezési kategória: {category, select,
     character {Karakter}
     event {Esemény}
     group {Csoport}
     item {Tárgy}
     location {Helyszín}
-    other {Megjegyzés}
+    other {Jegyzet}
     state {Állam}
     governments {Kormány}
     languages {Nyelv}
@@ -134,23 +140,25 @@ export default {
     flora {Flóra}
     magic {Mágia}
     planets {Bolygó}
-    species {Specie}
-    technologies {Technology}
-    families {Family}
-    jobs {Job}
-    lore {Lore}
-    vehicles {Vehicle}
-    diseases {Disease}
-    traditions {Tradition}
-    food {Food}
+    species {Faj}
+    technologies {Technológia}
+    families {Család}
+    jobs {Munkahely}
+    lore {Hagyomány}
+    vehicles {Jármű}
+    diseases {Betegség}
+    traditions {Hagyomány}
+    food {Étel}
     sports {Sport}
-    landmarks {Landmark}
-    buildings {Building}
-    schools {School}
-    continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    landmarks {Látnivaló}
+    buildings {Épület}
+    schools {Iskola}
+    continents {Kontinens}
+    villages {Falu}
+    towns {Város}
+    cities {Város}
+    settlements {Település}
+    countries {Ország}
   }`,
     'encyclopedia.entry.category.legend': 'Kategória',
     'encyclopedia.fields.add': 'Új mező hozzáadása',

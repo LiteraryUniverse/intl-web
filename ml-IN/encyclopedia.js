@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Villages',
     'encyclopedia.category.towns': 'Towns',
     'encyclopedia.category.cities': 'Cities',
+    'encyclopedia.category.settlements': 'Settlements',
+    'encyclopedia.category.countries': 'Countries',
     'encyclopedia.search.found': `{results, plural,
     =0 {സംബന്ധിച്ച എന്തെങ്കിലും പ്രവേശനങ്ങൾ ഇല്ലെങ്കിൽ}
     one {1 സംബന്ധിച്ച പ്രവേശനം കാണുന്നു}
@@ -83,6 +85,8 @@ export default {
     villages {villages}
     towns {towns}
     cities {cities}
+    settlements {settlement}
+    countries {country}
   }`,
     'encyclopedia.create.header': `Creating a new {category, select,
     character {character}
@@ -117,6 +121,8 @@ export default {
     villages {village}
     towns {town}
     cities {city}
+    settlements {settlement}
+    countries {country}
   } in {universe}`,
     'encyclopedia.entry.category': `Entry category: {category, select,
     character {Character}
@@ -148,9 +154,11 @@ export default {
     buildings {Building}
     schools {School}
     continents {Continent}
-    villages {village}
-    towns {town}
-    cities {city}
+    villages {Village}
+    towns {Town}
+    cities {City}
+    settlements {Settlement}
+    countries {Country}
   }`,
     'encyclopedia.entry.category.legend': 'വിഭാഗം',
     'encyclopedia.fields.add': 'പുതിയ ഫീൽഡ് ചേർക്കുക',

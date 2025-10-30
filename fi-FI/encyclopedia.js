@@ -38,6 +38,8 @@ export default {
     'encyclopedia.category.villages': 'Kylät',
     'encyclopedia.category.towns': 'Kaupungit',
     'encyclopedia.category.cities': 'Kaupungit',
+    'encyclopedia.category.settlements': 'Selvitykset',
+    'encyclopedia.category.countries': 'Maat',
     'encyclopedia.search.found': `{results, plural,
     =0 {Ei liittyviä merkintöjä}
     one {1 liittyvä merkintä}
@@ -66,26 +68,28 @@ export default {
     flora {kasvisto}
     magic {taikuus}
     planets {planeetta}
-    species {species}
-    technologies {technology}
-    families {family}
-    jobs {job}
-    lore {lore}
-    vehicles {vehicle}
-    diseases {disease}
-    traditions {tradition}
-    food {food}
-    sports {sport}
-    landmarks {landmark}
-    buildings {building}
-    schools {school}
-    continents {continent}
-    villages {villages}
-    towns {towns}
-    cities {cities}
+    species {laji}
+    technologies {teknologia}
+    families {perhe}
+    jobs {työ}
+    lore {taru}
+    vehicles {ajoneuvo}
+    diseases {tauti}
+    traditions {perinne}
+    food {ruoka}
+    sports {urheilu}
+    landmarks {maamerkki}
+    buildings {rakennus}
+    schools {koulu}
+    continents {manner}
+    villages {kylät}
+    towns {kaupungit}
+    cities {kaupungit}
+    settlements {asutus}
+    countries {maa}
   }`,
-    'encyclopedia.create.header': `Uuden {category, select,
-    character {hahmon luominen}
+    'encyclopedia.create.header': `Uuden luominen {category, select,
+    character {hahmo}
     event {tapahtuma}
     group {ryhmä}
     item {esine}
@@ -100,7 +104,7 @@ export default {
     flora {kasvisto}
     magic {taikuus}
     planets {planeetta}
-    species {luonti. laji}
+    species {laji}
     technologies {teknologia}
     families {perhe}
     jobs {työ}
@@ -117,6 +121,8 @@ export default {
     villages {kylä}
     towns {kaupunki}
     cities {kaupunki}
+    settlements {siirtokunta}
+    countries {maa}
   } in {universe}`,
     'encyclopedia.entry.category': `Osallistumisluokka: {category, select,
     character {Hahmo}
@@ -141,7 +147,7 @@ export default {
     lore {Lore}
     vehicles {Ajoneuvo}
     diseases {Sairaus}
-    traditions {Perinne}
+    traditions {Perinne ~ ~ Perinne}
     food {Ruoka}
     sports {Urheilu}
     landmarks {Maamerkki}
@@ -151,6 +157,8 @@ export default {
     villages {Kylä}
     towns {Kaupunki}
     cities {Kaupunki}
+    settlements {Asutus}
+    countries {Maa}
   }`,
     'encyclopedia.entry.category.legend': 'Kategoria',
     'encyclopedia.fields.add': 'Lisää uusi kenttä',

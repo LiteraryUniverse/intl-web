@@ -148,9 +148,9 @@ export default {
   'course.member.role.student': '学生',
   'course.lesson.internalLinks': 'Literary Universeに関する作品',
   'course.lesson.internalLinks.description':
-    'Select stories or universes to link to this lesson. These will be available to students as additional resources.',
+    'このレッスンに関連付ける物語や世界観を選択してください。これらは追加リソースとして生徒が利用できます。',
   'contentSelector.noSelection': '項目が選択されていません',
-  'contentSelector.selectedItems': 'Selected items',
+  'contentSelector.selectedItems': '選択されたアイテム',
   'contentSelector.entireSite': 'サイト全体',
   'contentSelector.myLibrary': '私のライブラリ',
   'contentSelector.tabsLabel': '検索オプション',
