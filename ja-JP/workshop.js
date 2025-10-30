@@ -315,6 +315,6 @@ export default {
     'workshop.theWay.overallStats.encyclopediaEntriesDesc': '作成した百科事典エントリーの総数',
     'workshop.theWay.overallStats.wordCountDesc': '全ストーリーの総語数',
     'workshop.theWay.overallStats.chaptersDesc': '執筆した章の合計',
-    'workshop.theWay.overallStats.universesDesc': 'Total universes you have created',
+    'workshop.theWay.overallStats.universesDesc': 'あなたが創造した文学的宇宙の総数',
     'workshop.theWay.overallStats.storiesDesc': '公開したストーリーの合計'
 };
