@@ -1,0 +1,74 @@
+{
+  "common": {
+    "next": "Next",
+    "previous": "Previous",
+    "skip": "Skip Tour",
+    "close": "Close Tour",
+    "end": "End Tour",
+    "progress": "Step {current, number} of {total, number}",
+    "keyboardHint": "Use arrow keys to navigate, ESC to close"
+  },
+  "dashboard": {
+    "title": "Welcome to Your Dashboard",
+    "welcome": {
+      "title": "Welcome to Literary Universe",
+      "content": "Let's take a quick tour of your dashboard to help you get started with your writing journey."
+    },
+    "topMenu": {
+      "title": "Main Navigation",
+      "content": "This is your main navigation menu. Let's go through each item."
+    },
+    "topMenuItems": {
+      "dashboard": {
+        "title": "Dashboard",
+        "content": "Your personal homepage with activity updates, and access to your workshop, library, and social features."
+      },
+      "discovery": {
+        "title": "Discovery",
+        "content": "Explore stories and universes created by other users. Read behind the scenes and in-depth blog posts from the authors. Find your next favorite read!"
+      },
+      "social": {
+        "title": "Social",
+        "content": "Shared joy is 10x the joy! Find groups of like minded people, join our Discord and discover who else is on Literary Universe!"
+      },
+      "scratchpad": {
+        "title": "Scratchpad",
+        "content": "Scratchpad is your personal notebook that is always available for you to jot down ideas, notes, and thoughts."
+      },
+      "notifications": {
+        "title": "Notifications",
+        "content": "Stay updated with comments, follows, and other community interactions."
+      },
+      "messages": {
+        "title": "Messages",
+        "content": "Communicate with other writers, beta readers, and collaborate on projects."
+      },
+      "profile": {
+        "title": "Profile",
+        "content": "Manage your personal information, preferences, and account settings."
+      },
+      "workshop": {
+        "title": "Workshop",
+        "content": "Your creative space for writing, editing, and managing your stories and universes."
+      },
+      "library": {
+        "title": "Your Library",
+        "content": "Access all your saved stories, reading lists, and downloaded content in one place."
+      }
+    },
+    "leftMenu": {
+      "title": "Quick Access Menu",
+      "content": "This sidebar provides quick access to important features and tools."
+    },
+    "writerEncouragement": {
+      "title": "Ready to Create?",
+      "content": "As a writer, your Workshop is where the magic happens! Start a new story, continue writing an existing one, or build out your universe. Your readers are waiting!"
+    },
+    "readerEncouragement": {
+      "title": "Ready to Explore?",
+      "content": "As a reader, Discovery is your gateway to amazing stories! Explore new genres, follow your favorite authors, and build your reading lists. Happy reading!"
+    },
+    "writerActionButton": "Go to Workshop",
+    "readerActionButton": "Go to Discovery"
+  }
+}
