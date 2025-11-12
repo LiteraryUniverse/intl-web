@@ -141,8 +141,67 @@
       "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
     },
     "getStarted": {
-      "title": "Ready to Build Your Library?",
+      "title": "Ready to Build Your Universe?",
       "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+    }
+  },
+  "universe": {
+    "title": "Universe Workshop",
+    "welcome": {
+      "title": "Welcome to Your Universe Workshop!",
+      "content": "Congratulations on creating your first universe! This is your command center for building and managing your literary world. Let's explore all the powerful tools available to bring your universe to life."
+    },
+    "stories": {
+      "title": "Manage Your Stories",
+      "content": "This is where you manage all the stories within your universe. Create new stories, edit existing ones, and organize your narrative across multiple interconnected tales. Each story can benefit from the shared universe encyclopedia and community features."
+    },
+    "encyclopedia": {
+      "title": "Build Your Encyclopedia",
+      "content": "Create and manage your universe's encyclopedia - the knowledge base that brings your world to life. Add characters, locations, lore, and other details that readers can explore. A rich encyclopedia makes your universe more immersive and helps readers understand the context of your stories."
+    },
+    "page": {
+      "title": "Your Universe Page",
+      "content": "This is your universe's public page where visitors can learn about your world, read your stories, explore the encyclopedia, and engage with your community. Customize this page to showcase your universe and attract new readers."
+    },
+    "translations": {
+      "title": "Manage Translations",
+      "content": "Coordinate translations of your universe content into other languages. Manage translators, track progress, and ensure your stories reach a global audience. Translations help you connect with readers worldwide."
+    },
+    "fanManager": {
+      "title": "Fan Manager",
+      "content": "Manage fan interactions and creations inspired by your universe. Track fan fiction, art, and other community content. Engage with your fans and build a thriving community around your world."
+    },
+    "statistics": {
+      "title": "Track Your Success",
+      "content": "Monitor your universe's performance with detailed analytics. See reader engagement, popular stories, encyclopedia views, and other metrics that help you understand what resonates with your audience."
+    },
+    "forum": {
+      "title": "Internal Planning Forum",
+      "content": "Your universe's internal forum for planning and coordination with collaborators and translators. Discuss story arcs, world-building details, and coordinate your creative efforts. This private space helps your team work together effectively."
+    },
+    "collaborators": {
+      "title": "Manage Collaborators",
+      "content": "Invite writers, artists, and other creators to collaborate on your universe. Assign roles and permissions, manage access levels, and build a team to help develop your world together."
+    },
+    "monetization": {
+      "title": "Revenue Settings",
+      "content": "Configure how you monetize your universe and its content. Set up premium access, manage subscriptions, and establish revenue sharing with collaborators. Turn your creative work into a sustainable income stream."
+    },
+    "resolutionCenter": {
+      "title": "Resolution Center",
+      "content": "Handle disputes, content violations, and other issues that may arise in your universe. This centralized system helps maintain a positive community and resolve conflicts efficiently."
+    },
+    "settings": {
+      "title": "Universe Settings",
+      "content": "Configure your universe's core settings including privacy, access controls, categories, and other fundamental options. These settings determine how your universe operates and who can interact with it."
+    },
+    "forumSettings": {
+      "title": "Forum Configuration",
+      "content": "Fine-tune your universe forum settings. Create categories, set moderation rules, configure permissions, and customize the discussion spaces to best serve your community needs."
+    },
+    "getStarted": {
+      "title": "Ready to Build Your Universe?",
+      "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
     }
   }
 }
