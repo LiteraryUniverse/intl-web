@@ -203,5 +203,76 @@
       "title": "Ready to Build Your Universe?",
       "content": "You now have all the tools you need to create a rich, engaging universe. Start by adding some stories, building out your encyclopedia, and inviting collaborators. Your literary world awaits creation!"
     }
+  },
+  "story": {
+    "title": "Story Dashboard",
+    "welcome": {
+      "title": "Welcome to Your Story Dashboard!",
+      "content": "This is your story's command center where you manage all aspects of your narrative. Here you can write chapters, organize your story structure, collaborate with others, and track your progress. Let's explore the key features."
+    },
+    "addChapter": {
+      "title": "Adding New Chapters",
+      "content": "This is where you add new chapters to your story. Click the \"Add chapter\" button to create a new chapter. Your story will automatically organize chapters in the correct order. You can also add chapters from the bottom of the chapter list."
+    },
+    "statistics": {
+      "title": "Track Your Progress",
+      "content": "Monitor your writing progress and audience engagement with detailed statistics. See how many readers you have, track chapter views, and analyze your story's performance over time."
+    },
+    "collaborators": {
+      "title": "Manage Collaborators",
+      "content": "Invite other writers to collaborate on your story. Assign different roles and permissions, coordinate writing efforts, and manage your creative team. Perfect for group writing projects."
+    },
+    "translations": {
+      "title": "Translation Management",
+      "content": "Coordinate translations of your story into other languages. Manage translators, track translation progress, and make your story accessible to a global audience."
+    },
+    "monetization": {
+      "title": "Revenue Settings",
+      "content": "Configure how you monetize your story. Set up premium chapters, manage subscription options, and establish revenue sharing with collaborators. Turn your writing into income."
+    },
+    "settings": {
+      "title": "Story Settings",
+      "content": "Configure your story's core settings including privacy, publication options, categories, and other fundamental preferences. These settings determine how your story appears and functions."
+    },
+    "notes": {
+      "title": "Overview Notes",
+      "content": "Keep track of your story's overall structure, plot points, character arcs, and important notes. This is your personal planning space for organizing your narrative."
+    },
+    "challenges": {
+      "title": "Personal Writing Challenges",
+      "content": "Set personal writing goals and track your progress with challenges. Create daily or weekly word count targets, set deadlines for chapters, and motivate yourself to maintain consistent writing habits. This is your private tool for staying on track with your writing schedule."
+    },
+    "storylines": {
+      "title": "Storylines Management",
+      "content": "Organize your story into different plotlines and threads. Track character arcs, subplots, and narrative elements. Perfect for complex stories with multiple interconnected elements."
+    },
+    "scenesManager": {
+      "title": "Scenes Manager",
+      "content": "Organize and manage individual scenes within your chapters. Track scene progress, reorder scenes, and maintain the flow of your narrative structure."
+    },
+    "legal": {
+      "title": "Legal Documents",
+      "content": "Access important legal documents related to your story, including copyright information, publishing agreements, and rights management. Keep your legal affairs in order."
+    },
+    "publicVersion": {
+      "title": "Public Version",
+      "content": "View your story as it appears to readers on the public site. Check formatting, test links, and ensure everything looks perfect before sharing with your audience."
+    },
+    "sharing": {
+      "title": "Share Your Story",
+      "content": "Share your story on social media with pre-prepared text and links for popular platforms. Get ready-to-use content that showcases your work and helps you reach new readers across different social networks."
+    },
+    "resolutionCenter": {
+      "title": "Resolution Center",
+      "content": "Handle any legal disputes, Terms of Service violations, or other issues related to your story. This centralized center lists all reported problems and provides tools to resolve conflicts and maintain a positive community environment."
+    },
+    "statuses": {
+      "title": "Story Status Management",
+      "content": "Control your story's publication status with these important options. \"Active\" means your story is being updated regularly. \"On hiatus\" indicates a temporary break. \"Cancelled\" means you've stopped writing. \"Finished\" marks your story complete. Choose the status that best reflects your current writing situation. Note: Stories automatically change to \"On hiatus\" after 6 months of no development, and to \"Cancelled\" after another 6 months of inactivity."
+    },
+    "getStarted": {
+      "title": "Ready to Start Writing?",
+      "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
+    }
   }
 }
