@@ -113,5 +113,36 @@
       "title": "Continue Your Journey",
       "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
     }
+  },
+  "library": {
+    "title": "Your Personal Library",
+    "continueReading": {
+      "title": "Continue Reading",
+      "content": "Welcome to your personal library! Here you can see the stories and universes you've added to track your reading progress. The Continue Reading section shows your most recently accessed content so you can easily pick up where you left off."
+    },
+    "all": {
+      "title": "Your Complete Library",
+      "content": "This section shows all the stories and universes you've added to your library. You can organize your reading by genre, author, or status. Add stories and universes to your library to receive updates and track your reading progress."
+    },
+    "stories": {
+      "title": "Your Stories",
+      "content": "All the stories you've added to your library are organized here. Keep track of your reading progress, get notified about new chapters, and never lose your place in your favorite tales."
+    },
+    "universes": {
+      "title": "Your Universes",
+      "content": "Universes you've added to your library appear here. Stay updated on new stories within these universes, explore their encyclopedias, and engage with the community features."
+    },
+    "readingLists": {
+      "title": "Reading Lists",
+      "content": "Create and manage your personal reading lists here. Organize stories by themes, series, or any criteria that makes sense to you. Share your lists with others or keep them private."
+    },
+    "personalNotes": {
+      "title": "Personal Notes",
+      "content": "With a platform subscription, you can add personal notes to any story, universe, or encyclopedia entry. Keep track of your thoughts, theories, and insights as you read and explore Literary Universe."
+    },
+    "getStarted": {
+      "title": "Ready to Build Your Library?",
+      "content": "Start adding stories and universes to your library from Discovery. Track your reading progress, create reading lists, and enhance your experience with personal notes. Your literary journey awaits!"
+    }
   }
 }
