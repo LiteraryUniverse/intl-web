@@ -70,5 +70,48 @@
     },
     "writerActionButton": "Go to Workshop",
     "readerActionButton": "Go to Discovery"
+  },
+  "workshop": {
+    "title": "Welcome to Your Workshop",
+    "welcome": {
+      "title": "Welcome to Literary Universe Workshop",
+      "content": "Your Workshop is the heart of your creative journey on Literary Universe. Here you can create, manage, and collaborate on your stories and universes."
+    },
+    "theWay": {
+      "title": "The Way of the Author",
+      "content": "Track your progress as a writer with The Way of the Author. This gamified system helps you level up by completing writing milestones and engaging with the community. Click here to learn more about how it works."
+    },
+    "ownWork": {
+      "title": "Your Creative Works",
+      "content": "Literary Universe offers multiple ways to express your creativity. You can create standalone stories, build expansive universes with interconnected tales, or write fan fiction inspired by other authors' worlds. Let's explore what you can create."
+    },
+    "universe": {
+      "title": "Literary Universes",
+      "content": "Universes are the foundation of Literary Universe. They act as containers for your serialized stories that take place in the same literary universe. Universes offer powerful features like encyclopedias, blogs, forums, and more. You'll get the most out of Literary Universe by building universes for your interconnected stories."
+    },
+    "story": {
+      "title": "Standalone Stories",
+      "content": "These are self-contained stories that don't belong to any universe. Perfect for short stories, novellas, or tales that stand alone. You can also create stories within universes to benefit from being connected to a larger world with shared encyclopedias and community features."
+    },
+    "fanfiction": {
+      "title": "Fan Fiction",
+      "content": "Fan fiction lets you write stories in universes created by other authors. To create fan fiction, you need to add the universe to your library first. You'll have access to the universe's encyclopedia and community features, but you won't have write permissions to the original universe. Fan fiction also has limitations like no monetization."
+    },
+    "collaborative": {
+      "title": "Collaborative Works",
+      "content": "This section shows all your collaboration invitations from other authors. You'll also see any works where you've accepted collaboration requests. Collaborate on universes and stories with other writers to build amazing worlds together."
+    },
+    "translations": {
+      "title": "Translations",
+      "content": "Manage translation requests and your translation work here. Just like collaborations, this section shows translation invitations and accepted translation projects. You can also translate your own stories into other languages to reach a global audience."
+    },
+    "betaReadings": {
+      "title": "Beta Readings",
+      "content": "Beta reading gives you early access to stories and provides valuable feedback to authors. This section shows beta reading invitations and projects you're currently beta reading. Help other writers improve their work while getting early access to exciting new stories."
+    },
+    "theWayFinish": {
+      "title": "Continue Your Journey",
+      "content": "Remember to check back here to see your progress on The Way of the Author. Keep writing, collaborating, and engaging with the community to level up! Now, let's start writing!"
+    }
   }
 }
