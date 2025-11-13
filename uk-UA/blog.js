@@ -20,7 +20,7 @@ export default {
     one {є один пост}
     other {є # постів}
   } .`,
-    'blog.post.create': 'Write a new post',
+    'blog.post.create': 'Написати нову публікацію',
     'blog.post.update': 'Редагування {title}',
     'blog.post.text': 'Текст поста',
     'common.slug': 'SEO-дружня адреса',
