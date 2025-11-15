@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } എൻട്രീകൾ ഉണ്ട്.`,
     'enc.entries.limitReached': 'നിങ്ങൾക്ക് നിയമനിർമ്മിതമായ എൻട്രീകൾക്കായി ഏറ്റവും പരമാവധി അനുവദനീയമായിരിക്കുന്നു.',
-    'enc.menuControls.ariaDesc': 'എൻസൈക്ലോപീഡിയ നിയന്ത്രണങ്ങൾ',
     'encyclopedia.pronunciation.title': 'ഉച്ചാരണം',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'പ്രവർത്തനത്തിൽ ഉൾപ്പെടുന്നു',
