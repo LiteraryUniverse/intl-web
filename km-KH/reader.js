@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'ចេញពីដំណើរការពេញអេក្រង់',
     'reader.details.universe': 'ព័ត៌មានអេក្រង់',
     'reader.details.story': 'ព័ត៌មានរឿង',
-    'reader.darkmode': 'បិទបញ្ជីរច្រើនមតិយោបល់',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'បិទទំហំអក្សរ',
     'reader.menu.optionsAria': 'ម៉ឺនុយជម្រើសអ្នកនិពន្ធនារី',
     'reader.accessibility': 'បិទភាពជំរើសដំណើរការ',
