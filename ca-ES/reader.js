@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Surt de pantalla completa',
     'reader.details.universe': 'Detalls de l\'univers',
     'reader.details.story': 'Detalls de la història',
-    'reader.darkmode': 'Activa/desactiva el mode fosc',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Activa/desactiva la mida del text',
     'reader.menu.optionsAria': 'Menú d\'opcions del lector',
     'reader.accessibility': 'Activa/desactiva l\'accessibilitat',
