@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'പൂർണ്ണ സ്ക്രീനിൽ പുറത്തുക',
     'reader.details.universe': 'യൂണിവേഴ്‌സ് വിശദാംശങ്ങൾ',
     'reader.details.story': 'കഥാവിശദാംശങ്ങൾ',
-    'reader.darkmode': 'ഡാർക്ക് മോഡ് മാറ്റുക',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ടെക്സ്റ്റ് വലിയതാക്കുക',
     'reader.menu.optionsAria': 'റീഡർ ഓപ്ഷനുകളുടെ മെനു',
     'reader.accessibility': 'പ്രവേശാനുഗമം മാറ്റുക',
