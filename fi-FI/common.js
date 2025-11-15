@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Tämä sisältö on luotu tekoälyn avustuksella',
     'common.aiContent.model': 'AI-malli: {model}',
     'common.aiContent.custom': 'Mukautettu tekoälymalli',
-    'common.viewAll': 'Näytä kaikki',
-    'notice.thankYou': 'Kiitos tuestanne!',
-    'common.dropImageHere': 'Pudota kuva tähän',
-    'common.legal.publishingAgreement': 'Kustannussopimus',
-    'upload.dragAndDrop': 'Vedä ja pudota tiedostot tähän tai valitse tiedostot napsauttamalla.',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Universumin kansikuva {story}.',
-    'common.license': 'Lisenssi',
-    'common.new': 'Uusi'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };
