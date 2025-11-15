@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'See sisu loodi tehisintellekti abiga',
     'common.aiContent.model': 'AI mudel: {model}',
     'common.aiContent.custom': 'Kohandatud tehisintellekti mudel',
-    'common.viewAll': 'Vaata kõiki',
-    'notice.thankYou': 'Täname teid toetuse eest!',
-    'common.dropImageHere': 'Pane pilt siia',
-    'common.legal.publishingAgreement': 'Kirjastamisleping',
-    'upload.dragAndDrop': 'Lohistage failid siia või klõpsake failide valimiseks.',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Universumi kaanepilt {story}.',
-    'common.license': 'Litsents',
-    'common.new': 'Uus'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };
