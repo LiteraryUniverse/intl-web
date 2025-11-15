@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } merkinnät.`,
     'enc.entries.limitReached': 'Olet saavuttanut maksimimäärän sallittuja tietosanakirjamerkintöjä nykyisellä tilauksellasi.',
-    'enc.menuControls.ariaDesc': 'Tietosanakirjan ohjaus',
     'encyclopedia.pronunciation.title': 'Ääntäminen',
     'encyclopedia.wip.abbreviation': 'KES',
     'encyclopedia.wip.full': 'Työn alla',
