@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Bu içerik yapay zeka yardımı ile oluşturulmuştur',
     'common.aiContent.model': 'AI Modeli: {model}',
     'common.aiContent.custom': 'Özel yapay zeka modeli',
-    'common.viewAll': 'Tümünü Görüntüle',
-    'notice.thankYou': 'Desteğiniz için teşekkür ederiz!',
-    'common.dropImageHere': 'Buraya bir resim bırakın',
-    'common.legal.publishingAgreement': 'Yayıncılık Sözleşmesi',
-    'upload.dragAndDrop': 'Dosyaları buraya sürükleyip bırakın veya dosyaları seçmek için tıklayın',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': '{story}için evren kapak resmi.',
-    'common.license': 'Lisans',
-    'common.new': 'Yeni'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };
