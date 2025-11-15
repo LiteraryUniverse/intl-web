@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Цей контент створено за допомогою штучного інтелекту',
     'common.aiContent.model': 'Модель штучного інтелекту: {model}',
     'common.aiContent.custom': 'Спеціальна модель ШІ',
-    'common.viewAll': 'Переглянути всі',
-    'notice.thankYou': 'Дякуємо за вашу підтримку!',
-    'common.dropImageHere': 'Надішліть зображення сюди',
-    'common.legal.publishingAgreement': 'Видавнича угода',
-    'upload.dragAndDrop': 'Перетягніть файли сюди або клацніть, щоб вибрати файли',
-    'common.orgs': 'Організації',
-    'universe.cover.alt': 'Зображення обкладинки Всесвіту для {story}.',
-    'common.license': 'Ліцензія',
-    'common.new': 'Новий'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };
