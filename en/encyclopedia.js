@@ -224,7 +224,6 @@ export default {
   } entries.`,
   'enc.entries.limitReached':
     'You have reached maximum allowed encyclopedia entries for you current subscription.',
-  'enc.menuControls.ariaDesc': 'Encyclopedia controls',
   'encyclopedia.pronunciation.title': 'Pronunciation',
   'encyclopedia.wip.abbreviation': 'WIP',
   'encyclopedia.wip.full': 'Work in Progress',
