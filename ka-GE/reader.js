@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'ეკრანის რეჟიმიდან გამოსვლა',
     'reader.details.universe': 'უნივერსის დეტალები',
     'reader.details.story': 'ისტორიის დეტალები',
-    'reader.darkmode': 'ბნელი რეჟიმის ჩართვა/გამორთვა',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'ტექსტის ზომის გადართვა',
     'reader.menu.optionsAria': 'წამყვანის მენიუ',
     'reader.accessibility': 'გამართვის ჩართვა/გამორთვა',
