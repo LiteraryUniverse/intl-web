@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'الخروج من وضع ملء الشاشة',
     'reader.details.universe': 'تفاصيل الكون',
     'reader.details.story': 'تفاصيل القصة',
-    'reader.darkmode': 'تبديل وضع الظلام',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'تبديل حجم النص',
     'reader.menu.optionsAria': 'قائمة خيارات القارئ',
     'reader.accessibility': 'تبديل إمكانية الوصول',
