@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } poster.`,
     'enc.entries.limitReached': 'Du har nått det maximala antalet tillåtna uppslagsverksposter för din nuvarande prenumeration.',
-    'enc.menuControls.ariaDesc': 'Kontroller för uppslagsverket',
     'encyclopedia.pronunciation.title': 'Uttal',
     'encyclopedia.wip.abbreviation': 'Pågående arbete',
     'encyclopedia.wip.full': 'Pågående arbete',
