@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'সাধারিতে ফিরে যান',
     'reader.details.universe': 'অবলোকন বিস্তারিত',
     'reader.details.story': 'গল্প বিস্তারিত',
-    'reader.darkmode': 'গাঢ় মোড চালু করুন',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'পাঠ্যের আকার চালু / বন্ধ করুন',
     'reader.menu.optionsAria': 'পাঠকের বিকল্প মেন্যু',
     'reader.accessibility': 'সহজলভ্যতা চালু/বন্ধ করুন',
