@@ -15,7 +15,7 @@ export default {
     'reader.fullscreen.exit': 'Вимкнути повноекранний режим',
     'reader.details.universe': 'Детальніше про цей всесвіт',
     'reader.details.story': 'Детальніше про цю історію',
-    'reader.darkmode': 'Увімкнути темний режим',
+    'reader.darkmode': 'Toggle light',
     'reader.flowtext': 'Змінити розмір тексту',
     'reader.menu.optionsAria': 'Меню параметрів зчитувача',
     'reader.accessibility': 'Перемикання доступності',
