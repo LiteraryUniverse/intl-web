@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } प्रविष्टिहरू छन्।`,
     'enc.entries.limitReached': 'तपाईंले आफूलाई अनुमति भएको अध्यात्मिक शब्दकोश प्रविष्टिहरूको अधिकतम सीमा सम्म पुगेका छ।',
-    'enc.menuControls.ariaDesc': 'ज्ञानकोश नियंत्रणहरू',
     'encyclopedia.pronunciation.title': 'उच्चारण',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'कार्य प्रगतिमा',
