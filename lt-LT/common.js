@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Šis turinys sukurtas naudojant dirbtinę intelektinę dirbtinę',
     'common.aiContent.model': 'AI modelis: {model}',
     'common.aiContent.custom': 'Pasirinktinis dirbtinio intelekto modelis',
-    'common.viewAll': 'Peržiūrėti viską',
-    'notice.thankYou': 'Dėkojame už paramą!',
-    'common.dropImageHere': 'Įmeskite paveikslėlį čia',
-    'common.legal.publishingAgreement': 'Leidybos sutartis',
-    'upload.dragAndDrop': 'Vilkite ir nuleiskite čia failus arba spustelėkite , kad pasirinktumėte failus',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Visatos viršelio vaizdas {story}.',
-    'common.license': 'Licencija',
-    'common.new': 'Naujas'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };
