@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } এন্ট্রি আছে।`,
     'enc.entries.limitReached': 'আপুনি আপনার বর্তমান সাবস্ক্রিপশনের জন্য সর্বাধিক অনুমোদিত জ্ঞানকোষ এন্ট্রি পৌঁছে গেছেন।',
-    'enc.menuControls.ariaDesc': 'বিশ্বকোষ নিয়ন্ত্রণসমূহ',
     'encyclopedia.pronunciation.title': 'উচ্চারণ',
     'encyclopedia.wip.abbreviation': 'WIP',
     'encyclopedia.wip.full': 'চলমান কাজ',
