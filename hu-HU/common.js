@@ -308,13 +308,6 @@ export default {
     'common.aiContent.tooltip': 'Ez a tartalom mesterséges intelligencia segítségével készült',
     'common.aiContent.model': 'AI modell: {model}',
     'common.aiContent.custom': 'Egyedi AI modell',
-    'common.viewAll': 'Minden megtekintése',
-    'notice.thankYou': 'Köszönjük a támogatást!',
-    'common.dropImageHere': 'Dobjon ide egy képet',
-    'common.legal.publishingAgreement': 'Kiadói megállapodás',
-    'upload.dragAndDrop': 'Húzza ide a fájlokat, vagy kattintson a fájlok kiválasztásához.',
-    'common.orgs': 'Organizations',
-    'universe.cover.alt': 'Az Univerzum borítóképe a {story}.',
-    'common.license': 'Licenc',
-    'common.new': 'Új'
+    'common.characters': 'characters',
+    'common.words': 'words'
 };
