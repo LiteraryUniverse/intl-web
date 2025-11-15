@@ -214,7 +214,6 @@ export default {
     other {{max, number}}
   } oppføringer.`,
     'enc.entries.limitReached': 'Du har nådd maksimalt tillatte oppføringer i encyklopedien for ditt nåværende abonnement.',
-    'enc.menuControls.ariaDesc': 'Encyklopedikontroller',
     'encyclopedia.pronunciation.title': 'Uttale',
     'encyclopedia.wip.abbreviation': 'Pågående arbeid',
     'encyclopedia.wip.full': 'Arbeid pågår',
