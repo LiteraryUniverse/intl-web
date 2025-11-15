@@ -274,5 +274,84 @@
       "title": "Ready to Start Writing?",
       "content": "You now know how to manage every aspect of your story. Start by adding your first chapter, then explore the various tools available. Your story awaits creation!"
     }
+  },
+  "storyEditor": {
+    "title": "Story Editor Tour",
+    "welcome": {
+      "title": "Welcome to the Story Editor!",
+      "content": "This is your writing workspace where you'll craft your stories. The editor provides powerful tools to help you write, organize, and publish your work. Let's explore the key features."
+    },
+    "textSize": {
+      "title": "Text Size Control",
+      "content": "Adjust the text size for comfortable reading while you write. Switch between normal and large text sizes to reduce eye strain during long writing sessions."
+    },
+    "darkMode": {
+      "title": "Dark Mode Toggle",
+      "content": "Switch between light and dark themes. Dark mode is easier on the eyes during nighttime writing sessions and helps maintain focus."
+    },
+    "accessibility": {
+      "title": "Accessibility Tools",
+      "content": "Access dyslexia-friendly fonts, paragraph highlighting, and other accessibility features for your comfort."
+    },
+    "asideToggle": {
+      "title": "Toggle Aside Panel",
+      "content": "Show or hide the aside panel. The aside contains helpful tools like your scratchpad, story notes, encyclopedia, comments, and AI assistant."
+    },
+    "fullscreen": {
+      "title": "Fullscreen Mode",
+      "content": "Enter fullscreen mode to maximize your writing space and eliminate distractions. Perfect for focused writing sessions."
+    },
+    "saveButton": {
+      "title": "Save Your Work",
+      "content": "Save your draft automatically. Your work is saved as you type, but you can also manually save at any time."
+    },
+    "publishMenu": {
+      "title": "Publishing Options",
+      "content": "Once you are done with your draft it is time to create a revision. You can create a revision for beta readers or for the public. Once you decide to publish you get control of when the chapter goes live."
+    },
+    "chapterTitle": {
+      "title": "Chapter Title",
+      "content": "Click on the title to edit its name."
+    },
+    "authorsNotes": {
+      "title": "Author's Notes",
+      "content": "Write personal notes about your chapter or just a message to the audience. This will be shown before the chapter to your readers (just like here) and is an effective way to make announcements or share thoughts about the story so far."
+    },
+    "storyText": {
+      "title": "Main Story Text",
+      "content": "This is your main writing area where your story comes to life. Write your chapter content here with full rich text editing capabilities."
+    },
+    "asidePanel": {
+      "title": "Sidebar Toolbox",
+      "content": "The aside panel contains helpful tools and information. Use the menu at the top to switch between different views like your scratchpad, encyclopedia references, comments, and AI Assistant."
+    },
+    "scratchpad": {
+      "title": "Personal Scratchpad",
+      "content": "Your personal scratchpad is always available for jotting down ideas, notes, or inspiration. Keep track of thoughts that don't fit in the main story but might be useful later."
+    },
+    "asideNotes": {
+      "title": "Story Notes",
+      "content": "Access your story's overall notes and planning materials. Keep track of plot outlines, character arcs, world-building details, and other organizational information."
+    },
+    "encyclopedia": {
+      "title": "Encyclopedia Access",
+      "content": "Quick access to your universe's encyclopedia. Reference character details, locations, lore, and other world-building elements while you write. Other buttons here will allow you to search and add new entries."
+    },
+    "comments": {
+      "title": "Chapter Comments",
+      "content": "View and respond to comments on this chapter from beta readers, collaborators, and other readers. Engage with your audience and get valuable feedback."
+    },
+    "todo": {
+      "title": "Todos & Task",
+      "content": "Before you publish there are important things to check on. A pre-publish To Do list and other smaller interesting things to check on hide here."
+    },
+    "ai": {
+      "title": "AI Writing Assistant",
+      "content": "Get help from our AI assistant for writing suggestions, proofreading, research and the monotone tasks."
+    },
+    "getStarted": {
+      "title": "Ready to Start Writing?",
+      "content": "You now know how to use all the powerful features of the story editor. Start writing your chapter, explore the tools as you need them. If you ever need help check out our help, The Way of the Author or reach out to us. Now let's write some stories!"
+    }
   }
 }
